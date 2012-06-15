@@ -1,305 +1,609 @@
-<!--The following is the downloaded HTML source of the mydeal.com.au privacy policy that was archived on 2011-09-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110915005217id_/http%3A//www.mydeal.com.au/info/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mydeal.com.au privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615224715id_/https%3A//www.mydeal.com.au/info/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <title>MyDeal | 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class=" js flexbox history opacity csstransforms video svg no-ipad no-iphone no-ipod no-ios no-ios6 no-ios7 no-ios8 no-ios9 no-windowsphone no-android no-android_4_2 no-macos no-mobile no-ie10 no-ie11 no-firefox safari videoautoplay"><head>
+
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	
+	<title>MyDeal.com.au | 
     Privacy Policy
 </title>
-<link href="/content/default.css" rel="stylesheet" type="text/css">
-<link href="/content/smoothness/jquery-ui-1.7.3.custom.css" rel="stylesheet" type="text/css">
+	
+	
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700">
+<link href="/content/style.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="/content/home.css">
+	<link rel="stylesheet" href="/content/lightbox-css.css">
+<link href="/scripts/themes/minimalist/jquery.slider.css" rel="stylesheet" type="text/css">
 
-<!--[if lte IE 6]>
- <style>
- 	/*img, div,{ behavior: url("/content/iepngfix.htc") }*/
- </style>
- <link href="/content/ieonly.css" rel="stylesheet" type="text/css" />
-<![endif]-->
+	<!--[if IE]>
+		<link rel="stylesheet" href="/content/ie.css" />
+	<![endif]-->
+	
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="/scripts/jquery.corner.js"></script>
+	<script type="text/javascript" src="/scripts/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
+	<script type="text/javascript" src="/scripts/Myriad_Pro_700.font.js"></script>
 
-<script type="text/javascript" async="" src="https://www.onlinechatcenters.com/code-16910-27415-1.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="/content/js/jquery-1.js"></script>
-<script language="javascript" type="text/javascript" src="/content/js/jquery-ui-1.js"></script>
-<script language="javascript" type="text/javascript" src="/content/js/ui.js"></script>
 <script type="text/javascript" src="/content/js/jquery.easing.1.2-min.js" charset="UTF-8"></script>
-<script type="text/javascript" src="/content/js/jquery.scrollTo-1.4.2-min.js" charset="UTF-8"></script>
-<script type="text/javascript" src="/content/js/scrollbar.js" charset="UTF-8"></script>
-
+<script charset="UTF-8" src="/content/js/jquery.scrollTo-1.4.2-min.js" type="text/javascript"></script>
+<script charset="UTF-8" src="/content/js/scrollbar.js" type="text/javascript"></script>
+<script type="text/javascript" src="/scripts/jquery.form.js"></script> 
+<script type="text/javascript" src="/scripts/jquery.slider.min.js"></script> 
+<script type="text/javascript" src="/scripts/modernizr.js"></script>
 <script type="text/javascript">
-
-
-
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-1768563-4']);
-    _gaq.push(['_trackPageview']);
-
-
     (function () {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
+    navbarRemainingSpaceTolerance = 10;
+
+    function _rate(id) {
+        $.ajax({
+            url: '/Home/_Rate/?DealID=' + id,
+            success: function (data) {
+                $('#ratearea' + id).html(data);
+            }
+        });
+    }
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1768563-4']);
+    _gaq.push(['_trackPageview']);
+
+    function _trackEvent(pcode, category) {
+        _gaq.push(['_trackEvent', 'MyDeal', category, category]);
+    }
 
 
-</script>
-                   <script type="text/javascript">
-                       function fbs_click() {
-                           u = 'http://www.mydeal.com.au/home/';
-                           t = document.title;
-                           window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
-                           return false;
-                       }
 
-                      </script>
-<script>
+    function payPalSAGClick(buttonName) {
 
-    var fn = function (e) {
-        //Cancel the link behavior
-        e.preventDefault();
-        //Get the A tag
-        var id = $(this).attr('href');
+        _trackEvent('paypalsendgift', buttonName);
+        $('#ppsag').submit();
+    }
 
-        //Get the screen height and width
-        var maskHeight = $(document).height();
-        var maskWidth = $(window).width();
 
-        //Set height and width to mask to fill up the whole screen
-        $('#mask').css({ 'width': maskWidth, 'height': maskHeight });
+    function payPalClick(buttonName) {
 
-        //transition effect    
-        $('#mask').fadeIn(1000);
-        $('#mask').fadeTo("slow", 0.8);
+        _trackEvent('paypal', buttonName);
+        document.forms["pp"].submit();
+    }
 
-        //Get the window height and width
-        var winH = $(window).height();
-        var winW = $(window).width();
 
-        //Set the popup window to center
-        $(id).css('top', winH / 2 - $(id).height() / 2);
-        $(id).css('left', winW / 2 - $(id).width() / 2);
-
-        //transition effect
-        $(id).fadeIn(2000);
-
-    };
     $(document).ready(function () {
 
-        //select all the a tag with name equal to modal
-        $('a[name=modal]').click(fn);
+        // navigation bar rounded corners
+        $('#navigation ul').corner('3px');
+        //$('#navigation .first a').corner('3px left');
 
-        //if close button is clicked
-        $('.window .close').click(function (e) {
-            //Cancel the link behavior
-            e.preventDefault();
-            $('#mask, .window').hide();
+        // grow last menu item if it isn't too far away from the right edge of the navbar, and add right round corners
+        // this must be done after cufon has finished replacing the text
+        /*
+        navbarXright = $('#navigation ul').position().left + $('#navigation ul').outerWidth();
+        lastX = $('#navigation .last').position().left;
+        availableSpace = navbarXright - lastX;
+        diff = availableSpace - $('#navigation .last').outerWidth();
+
+        if (diff < navbarRemainingSpaceTolerance) {
+            $('#navigation .last').css('border-right', '0');
+            $('#navigation .last a').width($('#navigation .last a').width() + diff + 1);
+            //$('#navigation .last a').corner('3px right');
+        }
+        */
+        /*
+        // navigation bar dropdown menus
+        $('#fashion-btn').hover(
+        // hover in function
+        function() {
+        $('#fashion-btn .nav-dropdown').slideDown();
+        } , 
+        // hover out function
+        function() {
+        $('#fashion-btn .nav-dropdown').slideUp();
+        } );
+        */
+
+        // sign up button
+        $('#account-modal .close-btn').click(function () {
+            $('#account-modal').hide();
+            $('#modals').hide();
         });
 
-        //if mask is clicked
-        $('#mask').click(function () {
-            $(this).hide();
-            $('.window').hide();
+        // change location button
+        $('#location-btn').click(function () {
+            $('#modals').show();
+            $('#location-modal').show();
+        });
+        $('#location-modal .close-btn').click(function () {
+            $('#location-modal').hide();
+            $('#modals').hide();
         });
 
+        // search form
+        
+        searchHint = $('#search-field').val();
+        $('#search-field').focus(function () {
+            if ($('#search-field').val() == searchHint) {
+                $('#search-field').val('');
+                $('#search-field').css('color', '#000');
+            }
+        });
+        $('#search-field').blur(function () {
+            if ($('#search-field').val() == '') {
+                $('#search-field').val(searchHint);
+                $('#search-field').css('color', '#696969');
+            }
+        });
+        
+        // newsletter form
+        emailHint = $('#email-field').val();
+        $('#email-field').focus(function () {
+            if ($('#email-field').val() == emailHint) {
+                $('#email-field').val('');
+                $('#email-field').css('color', '#000');
+            }
+        });
+        $('#email-field').blur(function () {
+            if ($('#email-field').val() == '') {
+                $('#email-field').val(emailHint);
+                $('#email-field').css('color', '#696969');
+            }
+        });
     });
- 
 </script>
-
-<style>
- 
-/* Z-index of #mask must lower than #boxes .window */
-#mask {
-  position:absolute;
-  z-index:9000;
-  background-color:#000;
-  display:none;
-}
-   
-#boxes .window {
-  position:absolute;
-  width:440px;
-  height:200px;
-  display:none;
-  z-index:9999;
-  padding:20px;
-}
- 
- 
-/* Customize your modal window here, you can add background image too */
-#boxes #dialog {
-  width:375px;
-  height:203px;
-}
-
-
-</style>
+	<style>
+	.jquery-slider-slide 
+	{
+	    display:none;
+	    position:inherit;
+	    float:none;
+	}
+	
+	.jquery-slider-slide-current
+	{
+	    display:block;
+	}
+	</style>
 </head>
+
 <body>
-
-
-<div id="topPanel">
-  <div class="topPanelContent" id="change">
-    <h1>Change your Location</h1>
-    <a href="#change" class="topPanelLink close">Hide this <span style="color:#f00000; font-weight:bold;">X</span></a>
+	
+	<div id="modals">
+		<div id="modals-content">
+					
+			
+			<div id="location-modal" class="modal-dropdown">
+				<div class="modal-content">
+					<h2>Change my location</h2>
+					<a class="close-btn" href="javascript:"><span>Close</span></a>
+					<ul>    
+       
+						    <li class="odd"><a href="/home/changecity?cityselector=0">National</a></li>
+			       
+						    <li><a href="/home/changecity?cityselector=1">Melbourne</a></li>
+                   
+						    <li class="odd"><a href="/home/changecity?cityselector=2">Sydney</a></li>
+			       
+						    <li><a href="/home/changecity?cityselector=3">Brisbane</a></li>
+                   
+						    <li class="odd"><a href="/home/changecity?cityselector=4">Adelaide</a></li>
+			       
+						    <li><a href="/home/changecity?cityselector=5">Gold Coast</a></li>
+                   
+						    <li class="odd"><a href="/home/changecity?cityselector=6">Perth</a></li>
+			       
+						    <li><a href="/home/changecity?cityselector=7">Hobart</a></li>
+                   
+						    <li class="odd"><a href="/home/changecity?cityselector=8">Canberra</a></li>
+			       
+						    <li><a href="/home/changecity?cityselector=9">Darwin</a></li>
+                   
+					</ul>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	
+	<div id="top">
+		<div id="top-content">
+			<a id="local-biz-link" class="arrow-link" href="/business/"><span>Find Local Businesses</span></a>
+            
+			<div id="top-right">
+				<!-- adding whitespace will cause extra gaps due to display: inline-block -->
+                
+		
+		<div class="separator">
+                <a id="location-btn" href="javascript:">National</a>    
+		</div>	
+				
     
-                <div class="city_link"><span style="color:#f00;">&gt;</span>
-                <a href="/home/changecity?cityselector=0">National</a>
-					<hr class="white">
-				</div>
 			
-                <div class="city_link"><span style="color:#f00;">&gt;</span>
-                <a href="/home/changecity?cityselector=1">Melbourne</a>
-					<hr class="white">
-				</div>
-			
-                <div class="city_link"><span style="color:#f00;">&gt;</span>
-                <a href="/home/changecity?cityselector=2">Sydney</a>
-					<hr class="white">
-				</div>
-			
-                <div class="city_link"><span style="color:#f00;">&gt;</span>
-                <a href="/home/changecity?cityselector=3">Brisbane</a>
-					<hr class="white">
-				</div>
-			
-                <div class="city_link"><span style="color:#f00;">&gt;</span>
-                <a href="/home/changecity?cityselector=4">Adelaide</a>
-					<hr class="white">
-				</div>
-			
-                <div class="city_link"><span style="color:#f00;">&gt;</span>
-                <a href="/home/changecity?cityselector=5">Gold Coast</a>
-					<hr class="white">
-				</div>
-			
-                <div class="city_link"><span style="color:#f00;">&gt;</span>
-                <a href="/home/changecity?cityselector=6">Perth</a>
-					<hr class="white">
-				</div>
-			
-                <div class="city_link"><span style="color:#f00;">&gt;</span>
-                <a href="/home/changecity?cityselector=7">Hobart</a>
-					<hr class="white">
-				</div>
-			
-                <div class="city_link"><span style="color:#f00;">&gt;</span>
-                <a href="/home/changecity?cityselector=8">Canberra</a>
-					<hr class="white">
-				</div>
-			
-                <div class="city_link"><span style="color:#f00;">&gt;</span>
-                <a href="/home/changecity?cityselector=9">Darwin</a>
-					<hr class="white">
-				</div>
-			
-			
-  </div>
-</div>
-<div id="wapper">
-  <div id="header">
-    <div class="top_menu">
-      <ul>
-  		<li><a href="/home">Today's Deal</a></li>
-        <li><a href="/info/faq">FAQ</a></li>
-        <li style="padding-right:0px;"><a href="/info/contactus">Contact Us</a></li>
-      </ul>
-    </div>
-    <div class="login">
+		<div class="separator"><a id="login-btn" class="arrow-link" href="#" onclick="document.getElementById('shadowing2').style.display='block'; document.getElementById('box2').style.display='block';"><span>Login</span></a></div><a id="login-btn" class="arrow-link" href="#" onclick="document.getElementById('shadowing2').style.display='block'; document.getElementById('box2').style.display='block';">
+	  
+	  </a>
+	  
+	  
+		<div class="separator">
+		<a id="signup-btn" class="arrow-link" href="#" onclick="document.getElementById('shadowing').style.display='block'; document.getElementById('box').style.display='block';"><span>Sign Up</span></a>
+		</div>
+
     
+	
+		
+			</div>
+		</div>
+	</div>
+	
 
-      <div id="fb-root"></div>
-      <script src="https://connect.facebook.net/en_US/all.js">
-      </script>
-      <script>
-
-          FB.init({ appId: '188291174536742', status: true, cookie: true, xfbml: true });
-      </script>
-
-      <div id="name">
-      <ul>
-	  	 <li>
-        <img alt="Facebook Connect" class="BillingConnectBTn" id="fbLoginCD" src="../../Content/images/Fconnect.png">
-    <script type="text/javascript">
-        //FB.init({ appId: '188291174536742', status: true, cookie: true, xfbml: true });
-        $('#fbLoginCD').click(function () {
-            FB.login(function (response) {
-                if (response.session) {
-                    window.location = '/account/fblogonfinish?returnUrl=' + window.location;
-                } else {
-                    // user cancelled login
-                }
-            }, { perms: "email,user_location" });
-        });
-    </script>
-</li>
-        <li><a href="/account/registeredlogon?returnurl=%2finfo%2fprivacypolicy">Login</a></li>  
-        <script language="javascript">
-            $('#LogOff').click(function () {
-                FB.logout();
-                $('#LogOff').innerHTML = "Logging Out";
-                setTimeout(function () {
-                    window.location = '/account/logoff?returnurl=%2finfo%2fprivacypolicy';
-                }, 3000);
-            });
-        </script>
-        <li style="padding-right:0px;"><a href="/account/register">Sign up</a></li>
-      </ul>
-      </div>
-      
-
-    </div>
-    <div class="changeBG">
+	<div id="wrapper">
+	
+		<div id="header">
+			<a id="site-logo" href="/"></a>
+            <form action="/home/mainpage" class="single-field" id="search-form" method="get">
+				<label for="search-field"></label>
+				<input id="search-field" name="q" type="text" value="" placeholder="Search for a product or service">
+				<input type="submit" value="Submit">
+                <div style="margin-top:45px;font-style: italic;margin-left: 10px;">
+                Popular Searches: Massage, Restaurant, Fitness, Facial
+                </div>
+			</form>
+		</div>
+		
 		
 
-<span class="StateTitle">MELBOURNE</span>
-		<a id="linkChange" class="topPanelLink change ChangeStateBtn" href="#change"></a><br><br><br>
-        <div style="float:right;">
-<!-- Begin OCC code for Support department -->
-<span class="occIcon-16910-27415-1">&nbsp;</span>
-<script type="text/javascript">
-    (function () {
-        var occ = document.createElement('script'); occ.type = 'text/javascript'; occ.async = true;
-        occ.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.onlinechatcenters.com/code-16910-27415-1.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(occ, s);
-    })();
-</script>
-<!-- End OCC code -->  
-</div>
+<div id="navigation">
+			<ul style="border-radius: 3px;">
+				<li id="home-btn" class="first"><a href="/"><span>Home</span></a></li>
+   
+        <li>
+            <a href="/home/mainpage?tagid=0&amp;cityid=0">
+            <strong>All Deals</strong>
+            </a>
+            <!--
+            
+              -->
+        </li>
+         
+        <li>
+            <a href="/home/mainpage?tagid=1&amp;cityid=0">
+            <strong>Fashion</strong>
+            </a>
+            <!--
+            
+					<div class="cover"></div>
+					<div class="nav-dropdown">       
+						<ul>      
+                            
+							        <li>
+                                        <a href="/home/mainpage?tagid=16">                                    
+                                            Jewellery
+                                        </a>
+                                    </li>
+                             
+							        <li>
+                                        <a href="/home/mainpage?tagid=27">                                    
+                                            Accessories
+                                        </a>
+                                    </li>
+                             
+						</ul>
+						<ul>
+                            
+							        <li>
+                                        <a href="/home/mainpage?tagid=24">                                    
+                                            Lingerie
+                                        </a>
+                                    </li>
+                             
+							        <li>
+                                        <a href="/home/mainpage?tagid=26">                                    
+                                            Clothing
+                                        </a>
+                                    </li>
+                             
+						</ul>
+						<div class="separator"></div>
+                        <a class="shop-all-btn" href="/home/mainpage?tagid=1">
+                            <span>Shop all Fashion</span>
+                        </a>
 
-	</div>
-    <div class="cle"></div>
-    <h1><a href="/home/mainpage"><img src="/content/images/logo.png" alt="Logo"></a></h1>
+					</div>
+              
+              -->
+        </li>
+         
+        <li>
+            <a href="/home/mainpage?tagid=3&amp;cityid=0">
+            <strong>Food &amp; Wine</strong>
+            </a>
+            <!--
+            
+					<div class="cover"></div>
+					<div class="nav-dropdown">       
+						<ul>      
+                            
+							        <li>
+                                        <a href="/home/mainpage?tagid=56">                                    
+                                            Food Goods
+                                        </a>
+                                    </li>
+                             
+						</ul>
+						<ul>
+                            
+						</ul>
+						<div class="separator"></div>
+                        <a class="shop-all-btn" href="/home/mainpage?tagid=3">
+                            <span>Shop all Food &amp; Wine</span>
+                        </a>
 
-<!-- Subscribe Box -->
-<div id="subscribeBox">
-<br>
+					</div>
+              
+              -->
+        </li>
+         
+        <li>
+            <a href="/home/mainpage?tagid=4&amp;cityid=0">
+            <strong>Day Spa &amp; Beauty</strong>
+            </a>
+            <!--
+            
+					<div class="cover"></div>
+					<div class="nav-dropdown">       
+						<ul>      
+                            
+							        <li>
+                                        <a href="/home/mainpage?tagid=19">                                    
+                                            Teeth Whitening
+                                        </a>
+                                    </li>
+                             
+							        <li>
+                                        <a href="/home/mainpage?tagid=48">                                    
+                                            Men&#39;s Skincare
+                                        </a>
+                                    </li>
+                             
+							        <li>
+                                        <a href="/home/mainpage?tagid=20">                                    
+                                            Thai Massage
+                                        </a>
+                                    </li>
+                             
+						</ul>
+						<ul>
+                            
+							        <li>
+                                        <a href="/home/mainpage?tagid=49">                                    
+                                            Beauty Products
+                                        </a>
+                                    </li>
+                             
+							        <li>
+                                        <a href="/home/mainpage?tagid=52">                                    
+                                            Beauty Treatments
+                                        </a>
+                                    </li>
+                             
+						</ul>
+						<div class="separator"></div>
+                        <a class="shop-all-btn" href="/home/mainpage?tagid=4">
+                            <span>Shop all Day Spa &amp; Beauty</span>
+                        </a>
+
+					</div>
+              
+              -->
+        </li>
+         
+        <li>
+            <a href="/home/mainpage?tagid=5&amp;cityid=0">
+            <strong>Products</strong>
+            </a>
+            <!--
+            
+					<div class="cover"></div>
+					<div class="nav-dropdown">       
+						<ul>      
+                            
+							        <li>
+                                        <a href="/home/mainpage?tagid=37">                                    
+                                            Cool Gadgets
+                                        </a>
+                                    </li>
+                             
+							        <li>
+                                        <a href="/home/mainpage?tagid=30">                                    
+                                            Homewares
+                                        </a>
+                                    </li>
+                             
+							        <li>
+                                        <a href="/home/mainpage?tagid=18">                                    
+                                            Beauty Products
+                                        </a>
+                                    </li>
+                             
+							        <li>
+                                        <a href="/home/mainpage?tagid=34">                                    
+                                            Appliances
+                                        </a>
+                                    </li>
+                             
+						</ul>
+						<ul>
+                            
+							        <li>
+                                        <a href="/home/mainpage?tagid=55">                                    
+                                            Teeth Whitening
+                                        </a>
+                                    </li>
+                             
+							        <li>
+                                        <a href="/home/mainpage?tagid=17">                                    
+                                            Electronics
+                                        </a>
+                                    </li>
+                             
+							        <li>
+                                        <a href="/home/mainpage?tagid=33">                                    
+                                            Cookware
+                                        </a>
+                                    </li>
+                             
+							        <li>
+                                        <a href="/home/mainpage?tagid=32">                                    
+                                            Outdoors
+                                        </a>
+                                    </li>
+                             
+						</ul>
+						<div class="separator"></div>
+                        <a class="shop-all-btn" href="/home/mainpage?tagid=5">
+                            <span>Shop all Products</span>
+                        </a>
+
+					</div>
+              
+              -->
+        </li>
+         
+        <li>
+            <a href="/home/mainpage?tagid=7&amp;cityid=0">
+            <strong>Health &amp; Fitness</strong>
+            </a>
+            <!--
+            
+					<div class="cover"></div>
+					<div class="nav-dropdown">       
+						<ul>      
+                            
+							        <li>
+                                        <a href="/home/mainpage?tagid=46">                                    
+                                            Weight Loss
+                                        </a>
+                                    </li>
+                             
+						</ul>
+						<ul>
+                            
+							        <li>
+                                        <a href="/home/mainpage?tagid=23">                                    
+                                            Yoga
+                                        </a>
+                                    </li>
+                             
+						</ul>
+						<div class="separator"></div>
+                        <a class="shop-all-btn" href="/home/mainpage?tagid=7">
+                            <span>Shop all Health &amp; Fitness</span>
+                        </a>
+
+					</div>
+              
+              -->
+        </li>
+         
+        <li>
+            <a href="/home/mainpage?tagid=8&amp;cityid=0">
+            <strong>Services</strong>
+            </a>
+            <!--
+            
+              -->
+        </li>
+         
+        <li>
+            <a href="/home/mainpage?tagid=12&amp;cityid=0">
+            <strong>Gifts</strong>
+            </a>
+            <!--
+            
+					<div class="cover"></div>
+					<div class="nav-dropdown">       
+						<ul>      
+                            
+							        <li>
+                                        <a href="/home/mainpage?tagid=9">                                    
+                                            Gifts For Him
+                                        </a>
+                                    </li>
+                             
+							        <li>
+                                        <a href="/home/mainpage?tagid=13">                                    
+                                            Gifts For Kids
+                                        </a>
+                                    </li>
+                             
+						</ul>
+						<ul>
+                            
+							        <li>
+                                        <a href="/home/mainpage?tagid=10">                                    
+                                            Gifts For Her
+                                        </a>
+                                    </li>
+                             
+						</ul>
+						<div class="separator"></div>
+                        <a class="shop-all-btn" href="/home/mainpage?tagid=12">
+                            <span>Shop all Gifts</span>
+                        </a>
+
+					</div>
+              
+              -->
+        </li>
+      
+			</ul>
+		</div>
 
 
-<form method="post" action="/ComingSoon/ComingSoonSubmit/">
-  <label class="subscribeBoxlbl">Email me Melbourne's Daily Deals</label>
-	<input type="hidden" value="1" id="theCustomer_CityID" name="theCustomer.CityID">
-  <input type="text" value="" name="theCustomer.Email" id="theCustomer_Email" class="subscribeBoxinput">
-  <a href="#" onclick="$(this).parents('form').submit();" class="subscribeBoxbtn"><img src="/content/images/subscribe.png" width="126" height="37" alt="Subscribe" border="0"></a>
-  </form>
-</div>
-
-    <div class="email-img"><a href="#" onclick="fbs_click();" rel="nofollow"><img src="/content/images/e-mail-image.png"></a></div>
-	<div class="cle"></div>
-  </div>
+<div id="top-menu" class="top-menu3 noArrow">
+	<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+	<div id="tag1" class="links">
+		<ul>
+        <li>
+            <a href="/info/contactus">
+            <strong>Contact Us</strong>
+            </a>
+        </li>
+        <li>
+            <a href="/info/privacypolicy" class="active">
+            <strong>Privacy Policy</strong>
+            </a>
+        </li>
+        <li>
+            <a href="/info/tnc">
+            <strong>Terms &amp; Conditions</strong>
+            </a>
+        </li>
+        <li>
+            <a href="/info/media">
+            <strong>Media Contacts</strong>
+            </a>
+        </li>
+        <li>
+            <a href="/competition">
+            <strong>Competition</strong>
+            </a>
+        </li>
+        <!--
+        <li>
+            <a href="/info/faq" >
+            <strong>FAQ</strong>
+            </a>
+            </li>
+        </ul>
+        -->
+	    <div class="cle"></div>
+    </ul></div>
 </div>
 <div class="cle"></div>
-<div id="outer_container">
-  <div id="shadow_container" style="background:url('/Content/images/Shadowshort.png') no-repeat scroll center 200px transparent;">
-  <div id="innercontainer">
-    <div id="container">
-
-<div id="tabMenu">
-<a class="todaysdeal" href="/home">Todays Deal</a>
-  <a class="alldeals" href="/home/mainpage">All Deals</a>
-<a class="myproducts" href="/business">My Products</a>
-  
-</div>
-      <div id="content">
-            
-            
-
+<div id="contact">
 <style>
 <!--
  /* Font Definitions */
@@ -340,18 +644,10 @@
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
-a:link, span.MsoHyperlink
+span.MsoHyperlink
 	{mso-style-priority:99;
-	color:blue;
+	color:blue !important;
 	mso-themecolor:hyperlink;
-	text-decoration:underline;
-	text-underline:single;}
-a:visited, span.MsoHyperlinkFollowed
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	color:purple;
-	mso-themecolor:followedhyperlink;
-	text-decoration:underline;
 	text-underline:single;}
 .MsoChpDefault
 	{mso-style-type:export-only;
@@ -414,7 +710,7 @@ This statement sets out MyDeal’s policies relating to the collection and use
 of your personal information. It applies to your conduct on the MYDEAL website
 (“Site”). This policy is in addition to the Terms of Use governing the Site and
 should be read in conjunction with the Terms of Use. <br>
-For more information on privacy in Australia, please see the <a href="http://www.privacy.gov.au">Federal Privacy Commissioner’s Website</a>.</p>
+For more information on privacy in Australia, please see the <span class="MsoHyperlink"><a href="http://www.privacy.gov.au" style="color:blue;">Federal Privacy Commissioner’s Website</a></span>.</p>
 
 <p class="MsoNormal">If you have any questions about this policy, please contact
 us via the details on our Contact Page. <br>
@@ -502,25 +798,6 @@ Certificate on our website and a secure browser at your end, we take all
 measures to ensure that your credit card and anonymity are protected when you
 purchase online.<o:p></o:p></span></p>
 
-<p class="MsoNormal"><b>Redeeming Coupons with Merchants<br>
-<br>
-</b><span style="mso-bidi-font-weight:bold">When you purchase a Coupon, MYDEAL
-may need to forward your name and contact information to the relevant Merchant
-in order to redeem the Coupon to receive the Deal or you may be required to
-provide your personal information to the relevant Merchant at the time you
-redeem your Coupon. In those instances, your personal information will be
-governed by the privacy policy of the relevant Merchant.<o:p></o:p></span></p>
-
-<p class="MsoNormal"><span style="mso-bidi-font-weight:bold">Also, with your
-consent, MYDEAL may pass your personal information on to Merchants from whom you
-have received a Deal, so that the Merchant can keep you informed of future
-events/offers they may be providing. If you are required to make a booking with
-a Merchant in order to redeem your Coupon, you may be asked at the time of that
-booking if you would like to receive this information. You may change your
-preference at any time directly with the Merchant which has collected your
-personal information. If you do not have the Merchant’s contact details you may
-contact our Privacy Officer directly.<o:p></o:p></span></p>
-
 <p class="MsoNormal"><b>Non-customer information <o:p></o:p></b></p>
 
 <p class="MsoNormal"><span style="mso-bidi-font-weight:bold">Sometimes, MYDEAL
@@ -569,54 +846,385 @@ provide feedback about this policy, please contact MYDEAL by emailing support@my
 
 </div>
 </div>
+</div>
 
-        	<div class="cle"></div>  
-        </div> <!-- end content *note this is the main top box --> 
+
+	</div>
+	<div class="cle"></div>
+
+
+
+<div id="footer" style="width:auto;">
+    <div id="footer-content">
+	    <div class="links">
+	    <h4>Company</h4>
+	    <a href="/info/contactus">Contact Us</a>
+	    <a href="/info/privacypolicy">Privacy policy</a>
+	    <a href="/info/tnc">Terms &amp; Conditions</a>
+        <a href="/info/contactus?Enquiry=business">Feature your Business</a>
+	    </div>
 	
-		<div class="cle"></div>
-	
-	    <div id="contentarea">
+	    <div class="links">
+	    <h4>Follow us</h4>
+                
+                   <a target="_blank" href="http://www.facebook.com/MyDealAustralia">Facebook</a>
+                
+
+				<a target="_blank" href="http://twitter.com/mydealau">Twitter</a>
+                <a href="/home/rss">RSS</a>
+                
+                <a href="#" onclick="document.getElementById('shadowing1').style.display='block';
+	  document.getElementById('box1').style.display='block';">Sign up for the Newsletter</a>
+                
+      
+      <br>
+	    </div>
         
+	    <div class="links">
+	    <h4>Media</h4>
+	    <a href="/info/media">Media Contacts</a><br>
+	    </div>
+        
+	    <div class="cle"></div>
+	    <div class="copyright">
+	    Copyright 2011 My Deal.com.au - All Rights Reserved
+	    </div>
+    </div>
+</div>
+      <div id="fb-root"></div>
+      <script src="https://connect.facebook.net/en_US/all.js">
+      </script>
+      <script>
 
-			<div class="cle"></div> 
-    	</div><!-- end contentarea *note this is the main top box --> 
-     
-    	<div class="cle"></div>
+          FB.init({ appId: '188291174536742', status: true, cookie: true, xfbml: true, oauth: false });
+      </script>
+
+<div id="shadowing2" onclick="document.getElementById('box2').style.display='none';
+   document.getElementById('shadowing2').style.display='none'"></div>
+
+<div id="shadowing" onclick="document.getElementById('box').style.display='none';
+   document.getElementById('shadowing').style.display='none'"></div>
+   
+<div id="box">
+<div id="boxheader">
+    Register Your Account
+   <span id="boxclose" onclick="document.getElementById('box').style.display='none';
+   document.getElementById('shadowing').style.display='none'"> </span>
+</div>
+<div class="cle"></div>
+<div id="boxcontent">
+	<div id="toptext"><h4>Fill in some details about yourself to help us find the best deals and experiences out there for you!</h4></div>
+    <div id="subscribesubmit" style="display:none;text-align: center;"><h4>Thanks for subscribing! Fill in your details to create an account so you can request deals &amp; more!</h4></div>
+       <div id="registerajaxform">
+       <form action="/account/_register" id="registerform" method="post">
+	<div class="left">
+		<table>
+		<tbody><tr>	<td valign="top" width="126px">First name:</td><td><input data-val="true" data-val-required="The First Name field is required." id="Firstname" name="Firstname" type="text" value=""></td>	</tr>
+		<tr>	<td valign="top">Last name:</td><td><input data-val="true" data-val-required="The Last Name field is required." id="Lastname" name="Lastname" type="text" value=""></td>	</tr>
+		<tr>	<td valign="top">Email Address:</td><td><input data-val="true" data-val-required="The Email address field is required." id="Email" name="Email" type="text" value=""></td>	</tr>
+		<tr>	<td valign="top">Select your City:</td><td><select data-val="true" data-val-number="The field City must be a number." data-val-required="The City field is required." id="CityID" name="CityID"><option value="1">Melbourne</option>
+<option value="2">Sydney</option>
+<option value="3">Brisbane</option>
+<option value="4">Adelaide</option>
+<option value="5">Gold Coast</option>
+<option value="6">Perth</option>
+<option value="7">Hobart</option>
+<option value="8">Canberra</option>
+<option value="9">Darwin</option>
+</select></td>	</tr>
+		<tr>	<td valign="top">Gender:</td><td><select data-val="true" data-val-number="The field Gender must be a number." data-val-required="The Gender field is required." id="Gender" name="Gender"><option selected="selected" value="0">Select</option>
+<option value="1">Male</option>
+<option value="2">Female</option>
+</select></td>	</tr>
+		</tbody></table>
+		
+		</div>
+	<div class="right">
+	<table>
+		<tbody><tr>	<td valign="top" width="126px">Password:</td><td><input data-val="true" data-val-required="The Password field is required." id="Password" name="Password" type="password"></td>	</tr>
+		<tr>	<td valign="top">Confirm Password:</td><td><input data-val="true" data-val-equalto="The password and confirmation password do not match." data-val-equalto-other="*.Password" id="ConfirmPassword" name="ConfirmPassword" type="password"></td>	</tr>
+        <tr><td valign="top" colspan="2" style="color:Red">
+       <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div></td></tr>
+		</tbody></table>
+	</div>
+	<div class="cle"></div>
+		<table class="margin">
+		<tbody><tr>	<td colspan="3"><label>
+        <input checked="checked" data-val="true" data-val-required="The AcceptTerms field is required." id="AcceptTerms" name="AcceptTerms" type="checkbox" value="true"><input name="AcceptTerms" type="hidden" value="false">
+				By signing up you agree to the MyDeal</label> <a href="/info/tnc">Terms &amp; Conditions</a> and <a href="/info/privacypolicy">Privacy policy</a>
+				</td>	</tr>
+		<tr>
+			<td><a href="#" onclick="jQuery('#registerform').submit();"><img src="/content/images/sign-up-btn.png" alt=""></a>
+            </td>
+			<td class="margin">Or, sign in using facebook:</td>
+			<td>
+            
+        <img alt="Facebook Connect" class="BillingConnectBTn" id="fbLoginCE" src="/Content/images/Fconnect.png">
+    <script type="text/javascript">
+        //FB.init({ appId: '188291174536742', status: true, cookie: true, xfbml: true });
+        $('#fbLoginCE').click(function () {
+            FB.login(function (response) {
+                if (response.session) {
+                    window.location = '/account/fblogonfinish?returnUrl=' + window.location;
+                } else {
+                    // user cancelled login
+                }
+            }, { scope: "email,user_location" });
+        });
+    </script>
+
+            </td>
+		</tr>
+		</tbody></table>
+                <script type="text/javascript">
+
+                    jQuery("#registerform").submit(function () {
+                        var options = {
+                            target: '#registerajaxform'
+                        }
+
+                        jQuery(this).ajaxSubmit(options);
+
+                        return false;
+                    });
+
+                    // We remove the submit button here - good Javascript depreciation technique
+                    jQuery(".submit").remove();
+
+
+            </script>
+            
+       <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>
+        </form>
+        </div>
+</div>
+</div>
+
+<div id="box2">
+<div id="boxheader2">
+    Find Your Deal on MyDeal!
+   <span id="boxclose2" onclick="document.getElementById('box2').style.display='none';
+   document.getElementById('shadowing2').style.display='none'"> </span>
+   
+</div>
+<div class="cle"></div>
+<div id="boxcontent2">
+	<div id="loginajaxarea" class="left">
+    <div id="needlogin" style="display:none;color:red">*This email is already registered. Sign in now or recover your password!</div>
+       <form action="/account/_logon?returnurl=http%3a%2f%2fmydeal.com.au%2finfo%2fprivacypolicy" id="loginform" method="post">
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#ret').bind('click', function (event) {
+            event.preventDefault();
+            $.get(this.href, {}, function (response) {
+                $('#loginajaxarea').html(response)
+            })
+        })
+    });
+</script>
+
+<h2>Sign in</h2>
+	<p>Please enter your email address and password:</p>
+    
+	<table>
+	<tbody><tr>	<td valign="top" width="126px">Email:</td><td><input id="Email" name="Email" type="text" value=""></td>	</tr>
+	<tr>	<td valign="top">Password:</td><td><input id="Password" name="Password" type="password"></td>	</tr>
+	<tr>	<td>&nbsp;</td> <td><input type="image" class="submitbutton" src="/content/images/sign-in-btn.png">
+ </td>	</tr>
+	<tr>	<td>&nbsp;</td> <td>
+   <a href="/account/_recoverpassword" id="ret">Um, what’s my password again?</a></td>	</tr>
+	</tbody></table>
+    <h3>Or, are you on facebook?</h3>
+            
+        <img alt="Facebook Connect" class="BillingConnectBTn" id="fbLoginCF" src="/Content/images/Fconnect.png">
+    <script type="text/javascript">
+        //FB.init({ appId: '188291174536742', status: true, cookie: true, xfbml: true });
+        $('#fbLoginCF').click(function () {
+            FB.login(function (response) {
+                if (response.session) {
+                    window.location = '/account/fblogonfinish?returnUrl=' + window.location;
+                } else {
+                    // user cancelled login
+                }
+            }, { scope: "email,user_location" });
+        });
+    </script>
+
+                <script type="text/javascript">
+
+                        jQuery("#loginform").submit(function () {
+                            var options = {
+                                target: '#loginajaxarea'
+                            }
+
+                            jQuery(this).ajaxSubmit(options);
+
+                            return false;
+                        });
+
+                        // We remove the submit button here - good Javascript depreciation technique
+                        jQuery(".submit").remove();
+
+
+            </script>
+	</form>
+	</div>
+    
+	<div class="right">
+	<h2>Don’t have an account yet?</h2>
+	Click here to 
+    
+                
+    <a href="#" onclick="document.getElementById('box2').style.display='none';
+   document.getElementById('shadowing2').style.display='none'; document.getElementById('shadowing').style.display='block';
+	  document.getElementById('box').style.display='block';">Register now!</a>
+                
+		
+	</div>
+</div>
+</div>
+
+<div id="shadowing3" onclick="document.getElementById('box3').style.display='none';
+   document.getElementById('shadowing3').style.display='none'"></div>
+
+<div id="box3">
+<div id="boxheader3">
+    Suggest a Business!
+   <span id="boxclose3" onclick="document.getElementById('box3').style.display='none';
+   document.getElementById('shadowing3').style.display='none'"> </span>
+</div>
+<div class="cle"></div>
+<div id="boxcontent3">
+	<div class="left">
+	<div id="suggestajaxarea">
+       <form action="/business/_suggest" id="suggestform" method="post">
+	<h2>Let us know what business you would love to see on MyDeal and we’ll invite them to get featured!</h2>
+       <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>
+	<table cellspacing="5px">
+	<tbody><tr>	<td valign="top">Business Name:</td><td colspan="2"><input type="text" name="businessName"></td>	</tr>
+	<tr>	<td valign="top">Location:</td><td width="136px"><input type="text" name="location" placeholder="Enter Suburb..."></td>
+			<td width="73px"><select name="state">
+            <option> State..</option>
+            <option>ACT</option>
+            <option>NSW</option>
+            <option>NT</option>
+            <option>QLD</option>
+            <option>TAS</option>
+            <option>VIC</option>
+            <option>WA</option>
+            </select></td>	</tr>
+	<tr>	<td>Website:</td> <td colspan="2"><input type="text" name="website"> </td>	</tr>
+	<tr>	<td>&nbsp;</td> <td colspan="2"><input type="image" class="submitbutton" src="/content/images/suggest-now_btn.png" alt=""> </td>	</tr>
+	</tbody></table> 
+                    <script type="text/javascript">
+
+                        jQuery("#suggestform").submit(function () {
+                            var options = {
+                                target: '#suggestajaxarea'
+                            }
+
+                            jQuery(this).ajaxSubmit(options);
+
+                            return false;
+                        });
+
+                        // We remove the submit button here - good Javascript depreciation technique
+                        jQuery(".submit").remove();
+
+
+            </script>
+        </form>
+       </div>
+	</div>
+	<div class="right">
+	<h2>Or, if you are a business owner:</h2>
+	<center><a href="http://mydealshop.com.au/signup/Step1" target="_blank"><img src="/content/images/registere-now_btn.png" alt=""></a></center>
+	
+	<center><img class="margin" src="/content/images/mydeal-gray-logo.png" alt=""></center>
+	
+	</div>
+</div>
+</div>
+
+
+
+
+<div id="shadowing4" onclick="document.getElementById('box4').style.display='none';
+   document.getElementById('shadowing4').style.display='none'"></div>
+   
+<div id="box4">
+<div id="boxheader4">
+    Register Your Account
+   <span id="boxclose4" onclick="document.getElementById('box4').style.display='none';
+   document.getElementById('shadowing4').style.display='none'"> </span>
+</div>
+<div class="cle"></div>
+<div id="boxcontent4">
+	<div class="left">
+		<div class="content">
+		<h2>Got a facebook account?</h2>
+		<h4>Sign in straight away with facebook</h4>
+		<a href="#"><img src="/content/images/commingsoon/facebook-btn.png" alt="" class="margin"></a>
+		</div>
+		<div class="content">
+		<h2>Already a member?</h2>
+		
+		<a href="#" onclick="document.getElementById('box4').style.display='none';
+   document.getElementById('shadowing4').style.display='none'; document.getElementById('shadowing2').style.display='block';
+	  document.getElementById('box2').style.display='block';"><img src="/content/images/sign-in-btn.png" alt="" class="margin"></a>
+		</div>
+	 
+	</div>
+	<div class="right">
+	<div id="simpleregisterajaxarea">
+       <form action="/account/_simpleregister" id="simpleregisterform" method="post"><div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>
+	<table>
+	<tbody><tr><td>First Name:</td><td><input data-val="true" data-val-required="The First Name field is required." id="Firstname" name="Firstname" type="text" value=""></td></tr>
+	<tr><td>Email Address: &nbsp;&nbsp;</td><td><input data-val="true" data-val-required="The Email address field is required." id="Email" name="Email" type="text" value=""></td></tr>
+	<tr><td>Password:</td><td><input data-val="true" data-val-required="The Password field is required." id="Password" name="Password" type="text" value=""></td></tr>
+    <input data-val="true" data-val-number="The field City must be a number." data-val-required="The City field is required." id="CityID" name="CityID" type="hidden" value="0">
+    </tbody></table>
+    <table>
+	<tbody><tr><th valign="top"><input checked="checked" data-val="true" data-val-required="The AcceptTerms field is required." id="AcceptTerms" name="AcceptTerms" type="checkbox" value="true"><input name="AcceptTerms" type="hidden" value="false"></th>
+		<th>By Signing up you agree to the MyDeal <a href="/info/tnc">Terms &amp; Conditions</a> and <a href="/info/privacypolicy">Privacy policy</a></th>
+	</tr>
+	<tr><td>&nbsp;</td><td><input type="image" class="submitbutton" src="/content/images/sign-up-btn.png" alt=""></td></tr>
+	</tbody></table>
+	<br>
+
 	
 	
+                <script type="text/javascript">
+
+                    jQuery("#simpleregisterform").submit(function () {
+                        var options = {
+                            target: '#simpleregisterajaxarea'
+                        }
+
+                        jQuery(this).ajaxSubmit(options);
+
+                        return false;
+                    });
+
+                    // We remove the submit button here - good Javascript depreciation technique
+                    jQuery(".submit").remove();
 
 
-		<div class="footer">
-		  <ul>
-			<li><strong>Company</strong><br><br>
-				<a href="/info/aboutus">About Us</a><br>
-				<a href="/info/contactus">Contact Us</a><br>
-				<a href="/info/privacypolicy">Privacy policy</a><br>
-				<a href="/info/tnc">Terms &amp; Conditions</a>
-			</li>
-			<li><strong>How it works</strong><br><br>
-				<a href="/info/faq">FAQ</a><br>
-				<a href="/info/howitworks">How it Works</a><br>
-                <a href="/home/contactus">Register your business</a><br>
-			</li>
-			<li><strong>Follow Us</strong><br><br>
-				<a href="http://www.facebook.com/pages/MyDeal/191201204232826">Facebook</a><br>
-				<a href="http://twitter.com/mydealau">Twitter</a><br>
-                <a href="/home/rss">RSS</a><br>
-                <a href="/comingsoon">Sign up for Daily Emails</a><br>
-				</li>
-			<li><strong>Past Deals</strong><br><br>
-                <a href="/home/pastdeals">View Past Deals</a><br>
-				</li>
-		  </ul>
-		  <div class="cle"></div>
-		  <div class="copyright">Copyright 2011 MyDeal.com.au - All Rights Reserved</div>
-		</div> <!-- end footer -->
-    	<div class="cle"></div>
-	</div> <!-- end container -->
-	</div> <!-- end innercontainer -->
-	</div><!-- end shadow_container -->
-</div><!-- end outer_container -->
+            </script>
+            
+       <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>
+        </form>
+       </div>
+	</div>
+</div>
+</div>
+
+
 
 
 </body></html>
