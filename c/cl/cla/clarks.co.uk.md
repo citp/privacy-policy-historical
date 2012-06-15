@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarks.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105254id_/http%3A//www.clarks.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarks.co.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615191138id_/http%3A//www.clarks.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
-# Clarks Online - Clarks Privacy Policy - How We Use Your Data-Clarks
+# Clarks Online - Clarks Privacy Policy - How We Use Your Data
 
   
 
@@ -44,7 +44,7 @@ We comply with stringent safeguards to protect your personal data. If you would 
 
 If you have registered to receive emails from Clarks, you can remove your email address from the list at any time by using the links in the emails that are sent to you. We will never make your personal details available to other companies for marketing purposes.
 
-We will endeavour to make all our communications clear in their intent. We will endeavour not to overuse your personal data and will not mail you more than four times a month.
+We will endeavour to make all our communications clear in their intent. We will endeavour not to overuse your personal data.
 
 **Clarks recommend a friend campaign**  
 Individuals supplying Clarks with the email address of their friend via our recommend a friend campaign should first confirm that the friend consents to their email address being supplied.  
@@ -55,9 +55,11 @@ All email addresses supplied to us via the recommend a friend email campaign wil
 
 ## Cookies
 
-Our site also uses cookies, which are small pieces of code that allow small amounts of information to be sent from your browser to our web server. Cookies are used to keep you logged in to the site, or keep items in your basket if you navigate away from the site and then return. If you have entered card details, they will not be stored if you navigate away from the site. Cookies do not give us access to your computer.
+Our site uses cookies. Cookies are pieces of code that allow small amounts of information to be passed from your internet browser to our web server. Clarks use our own cookies, as well as those from third parties, serving several purposes. They allow us to remember whether you are logged in to the site, to remember what items you had in your shopping basket, to serve you with content tailored specifically for you and to help us learn about how you like to use our website and where we can make it better.
 
-You can view a list of cookies stored on your computer by selecting ‘Page’ then ‘Web page privacy policy’ in Internet Explorer. You can disable cookies in Internet Explorer by selecting ‘Page’ then ‘Web page privacy policy’ then ‘Privacy’ and changing your privacy setting using the sliding bar. However, this will result in you being unable to purchase from www.clarks.co.uk.
+Clarks will never disclose your personal details to any third parties. All data passed by cookies is anonymous and will never contain your name, address, telephone number or payment details.
+
+To learn more about cookies and how we use them, please visit our [Cookie Policy](https://web.archive.org/Information/cookie-policy) Page.
 
   
 
@@ -65,7 +67,7 @@ You can view a list of cookies stored on your computer by selecting ‘Page’ t
 ## Third Party Cookie Use
 
 Clarks work with third party ad servers and ad networks who server Clarks advertisements on our behalf. Clarks will not disclose your personal details to any third parties - for example, all data collected is anonymous and will not contain the name, address, telephone number, email address or IP address. Currently we have relationships with the following third-party ad networks:  
-[http://www.criteo.com](http://www.criteo.com/ "\(opens new window\)")
+[http://www.criteo.com](http://www.criteo.com/)
 
 Criteo may place anonymous cookies in your browsers so that it can collect browsing data (such as the products you have viewed). Such data may be sent to website(s) in their network, and these cookies are collected in the 'visitors' cookie file'. These cookies will allow the Criteo Technology to server advertisements containing products that you have looked at and similar products.
 
