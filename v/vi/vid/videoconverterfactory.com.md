@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the videoconverterfactory.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101131233id_/http%3A//www.videoconverterfactory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoconverterfactory.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615064536id_/http%3A//www.videoconverterfactory.com/privacy.html) for the most accurate reproduction.*
 
 # Video Converter Factory Corporation Privacy Policy
 
-WonderFox Soft Privacy Policy
+## WonderFox Soft Privacy Policy
 
 WonderFox Soft's Customer Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by WonderFox Soft anytime you interact with WonderFox Soft, such as when you visit our website, when you purchase WonderFox Soft products and services, or when you contact our sales or support associates. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at WonderFox Soft, and we go to great lengths to protect it.
 
@@ -23,7 +23,7 @@ We may use personal information to provide products that you have requested as w
 **How We Protect Your Personal Information**  
 WonderFox Soft takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
 
-WonderFox Soft uses secure server hosted by RegNow and other 3rd party credit card processors that encrypt all the customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information.
+WonderFox Soft uses secure server hosted by RegNow and other 3rd party credit card processors that encrypt all the customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information. 
 
 You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser like Safari.
 
