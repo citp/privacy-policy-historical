@@ -1,100 +1,87 @@
-> *The following text is extracted and transformed from the creativemarket.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativemarket.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615030228id_/http%3A//creativemarket.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Creative Market ~ Handcrafted, mousemade.
 
-**Go Daddy Respects Your Privacy**
+## Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Privacy Policy was last modified on 06/05/11 and was first published and made effective on 06/04/2009.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+CHROMAom Holdings, Inc. ("Creative Market," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by CHROMAom when you use the Creative Market Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms).
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+### Information We Collect
 
-**Information Collection and Use**
+**User-Provided Information:** You provide us information about yourself, such as your name, e-mail address, and other personal information if you register for a User account with the Service (including by "following," "liking," adding the Creative Market application, linking your account to the Creative Market service, etc., on a third party website or network). If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Service. You may provide us information in User Content you post to the Service.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**Cookies Information:** When you visit the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Creative Market help you log in faster and enhance your navigation through the site. A cookie may also convey information about how you browse the Service to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain log file information. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Clear Gifs Information:** When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make Creative Market better for our users.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Third Party Services:** Creative Market uses third party analytics services including Google Analytics to help understand use of the Service. These services collect the information sent by your browser as part of a web page request, including cookies and your IP address, and their use of this information is governed by their Privacy Policy.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+### How We Use Your Information
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+By providing us with your email address (including by "following," "liking," adding the Creative Market application, linking your account to the Creative Market service, etc., on a third party website or network), you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You also agree that we may send you notifications of activity on the Service to the email address you give us, in accordance with any applicable privacy settings. We may use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out or change your preferences in your account settings page. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails.
 
-**Security**
+Following termination or deactivation of your User account, we may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. Furthermore, we may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or posted to public or semi-public areas of the Service after termination or deactivation of your User account.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. We store this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at [privacy@creativemarket.com](mailto:privacy@creativemarket.com).
 
-**Updating Your Information**
+We may use certain information about you and/or your User Content internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; Â© monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems reported by our Users or engineers that are associated with certain IP addresses; (f) help you efficiently access your information after you sign in; and (h) track User Content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act; and (i) automatically update the Creative Market application on your system and related devices.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+### How We Share Your Information
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Personally Identifiable Information: We will not rent or sell your personally identifiable information to others. We may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside of our direct control (for instance, on servers or databases co-located with hosting providers).
 
-      iii.      You may call us at: (480) 505-8800
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
 
-       iv.      You may fax us at: (480) 505-8844
+Any personal information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. To change your privacy settings on the Service, visit your account settings page. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
 
-**Sending Emails**
+From time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](https://web.archive.org/terms), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and Â© to exercise or protect the rights, property, or personal safety of Creative Market or CHROMAom, our Users or others.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Creative Market services.
 
-**Compliance with Laws and Law Enforcement**
+We may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Creative Market. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. Creative Market does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Creative Market to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The Creative Market Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+### How We Protect Your Information
 
-**Third Party Service Providers**
+We care about the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Creative Market or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Your privacy settings may also be affected by changes to the functionality of Creative Market's distributors, such as social networks. We are not responsible for the functionality or security measures of any third party.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Creative Market, at all times.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+### Compromise of Personal Information
 
-**Supplementation of Information**
+In the event that personal information is compromised as a result of a breach of security, we will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+### Your Choices About Your Information
 
-**Contests/Surveys**
+You may, of course, decline to submit personally identifiable information through the Service, in which case Creative Market may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account settings page. You can review and correct the information about you that Creative Market keeps on file by contacting us directly at [privacy@creativemarket.com](mailto:privacy@creativemarket.com).
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+### Children's Privacy
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Creative Market. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at privacy@creativemarket.com.
 
-**Tell-A-Friend**
+### Links to Other Web Sites
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
 
-**What Happens to my Personal Information if I Opt Out?**
+### Notification Procedures
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Service, as determined by us in our sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
 
-**Transfer of Data Abroad**
+### Changes to Our Privacy Policy
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+We may update its Privacy Policy from time to time, and so you should review this Policy periodically. When we change the policy in a material way, we will update the 'last modified' date at the top of this Privacy Policy. Changes to this Privacy Policy are effective when they are posted on this page.
 
-**Changes in Our Practices**
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [privacy@creativemarket.com](mailto:privacy@creativemarket.com), or send mail to:
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+CHROMAom Holdings, Inc.  
+333\. S. State St. Suite V #232  
+Lake Oswego, OR 97034 
