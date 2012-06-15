@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011420id_/http%3A//www.data.gov/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615030201id_/http%3A//www.data.gov/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Data.gov
 
@@ -33,6 +33,37 @@ Data.gov is NOT a Privacy Act System of Record. Submission of any information is
 Users creating accounts can pick any user name. It does not have to be the user’s real name or email address. Users have the option of uploading additional information such as an image, location, tags, and other social profiles. Providing additional information is entirely voluntary. 
 
 Any comments you provide are categorized as public information. Compilations of your comments may be provided to national leaders (without email address) and other individuals participating in Data.gov efforts. Comments may also be made available online to the public without the use of any optionally provided email addresses, but with the user name. 
+
+##  Moderation of Comments and Posts 
+
+Data.gov enables you to post your opinion on discussion topics. We encourage you to share your thoughts as they relate to the topic being discussed. Your posts will be publicly visible; therefore, the site utilizes a moderation policy to ensure that your posts are appropriate and not harmful to others. We review and moderate posts according to the policy below. The views expressed in posts reflect those of the author and do not necessarily reflect the official views. 
+
+We want to publish your posts, but we expect posts generally to be courteous and on the subject matter of this site. To that end, we have established the following policy. 
+
+We reserve the discretion not to display posts that: 
+
+  * contain obscene, indecent, or profane language;
+  * contain threats, or defamatory statements;
+  * contain hate speech directed at race, color, sex, sexual orientation, national origin, ethnicity, age, religion, or disability;
+  * reveal your own or others' sensitive/personal information (e.g., Social Security numbers)
+  * contain information posted in violation of law, including libel, condoning or encouraging illegal activity, and revealing classified information, or posts that might affect the outcome of ongoing legal proceedings or
+  * promote or endorse services or products, including links to external commercial sites. (Note that non-commercial links that are relevant to the topic or another post are acceptable.)
+
+
+
+Do not submit copyrighted, trademarked or other proprietary material in any form unless you clearly indicate that you have permission to do so. By submitting your posts or other work, you grant the government and anyone viewing the discussion forum web site irrevocable permission to copy, distribute, make derivatives, display or perform the poster’s work publicly and free-of-charge. 
+
+If you are a reporter, please send questions regarding this through normal agency channels rather than by submitting questions here as posts. It is our policy not to post reporter’s questions. 
+
+We recognize that the Internet is a 24/7 medium and your posts are welcome at any time. However, given the need to manage federal resources, we intend to review and moderate posts from 9 am – 5 pm Monday through Friday, except federal holidays. We intend to review and moderate posts submitted at other times as soon as possible on the next business day. 
+
+A user name and e-mail address is required to post comments and your comments will be associated with your user name. We ask for your e-mail address so that we can contact you if necessary. We will not publish your e-mail address. 
+
+To protect your privacy, please do not include information (e.g., an e-mail address or phone number) in the text of your comment that identifies you. 
+
+Thank you for taking the time to read this discussion forum policy. We encourage your participation in our discussion and look forward to an active exchange of ideas. 
+
+If you have questions about this discussion forum policy or how we apply it, please contact us through the "contact us" link on the home page. 
 
 ##  Browser Information Collected on the Website 
 
