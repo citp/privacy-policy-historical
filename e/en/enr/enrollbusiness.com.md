@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enrollbusiness.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216194718id_/http%3A//us.enrollbusiness.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enrollbusiness.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615212716id_/http%3A//us.enrollbusiness.com/Privacy-Policy) for the most accurate reproduction.*
 
-# EnrollBusiness - Privacy Policy
+# Privacy Policy - EnrollBusiness
 
 #### We value your Privacy
 
@@ -8,9 +8,9 @@ At Enrollbusiness.com we recognize the importance of your privacy.
 
 #### Information we gather and How we use that
 
-  * Information you provide - We ask for certain personal information like name, address, Email etc. to provide you better services, security and user experience. 
-  * Cookies - When you browse through EnrollBusiness.com, we send some cookies to your computer or other device. We use cookies in order to improve our services by storing user preferences, usage trends etc. 
-  * User Communication - When you send Email or other communication to us, we may retain the contents to serve your request and/or to improve our service quality. 
+  * Information you provide -  We ask for certain personal information like name, address, Email etc. to provide you better services, security and user experience. 
+  * Cookies -  When you browse through EnrollBusiness.com, we send some cookies to your computer or other device. We use cookies in order to improve our services by storing user preferences, usage trends etc. 
+  * User Communication -  When you send Email or other communication to us, we may retain the contents to serve your request and/or to improve our service quality. 
 
 
 
