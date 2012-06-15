@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the english.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216110627id_/http%3A//pearsonpte.com/privacy/Pages/home.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615131037id_/http%3A//pearsonpte.com/privacy/Pages/home.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -127,7 +127,9 @@ Finally, you may also receive our RSS feeds if you have requested them.
 
 10\. Cookies
 
-** A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. Find out more about the use of cookies on  <http://www.allaboutcookies.org/>.  We use cookies to identify you when you visit this website. Our use of cookies also allows registered users to be presented with a personalized version of the site, carry out transactions and have access to information about their account. Most browsers allow you to turn off cookies or to receive a warning before a cookie is stored on your hard drive.  Please refer to your browser instructions or help screen to learn more about how to do this. However, should you decide to disable any cookies we place on your computer you may not be able to use certain services or facilities on the website. **
+** A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. Find out more about the use of cookies on  <http://www.allaboutcookies.org/>.  We use cookies to identify you when you visit this website. Our use of cookies also allows registered users to be presented with a personalized version of the site, carry out transactions and have access to information about their account. Most browsers allow you to turn off cookies or to receive a warning before a cookie is stored on your hard drive.  Please refer to your browser instructions or help screen to learn more about how to do this. However, should you decide to disable any cookies we place on your computer you may not be able to use certain services or facilities on the website.
+
+For more details follow the links to Cookies and Cookie Policy on the left of this page.  **
 
 11\. International transmission of information
 
