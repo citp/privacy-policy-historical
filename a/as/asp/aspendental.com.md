@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspendental.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102113114id_/http%3A//aspendental.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspendental.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615194142id_/http%3A//www.aspendental.com/privacy-policy) for the most accurate reproduction.*
 
 # Aspen Dental - Privacy Policy
 
@@ -12,6 +12,6 @@ We believe a relationship is built on trust, and thus we make a commitment to yo
 
 The above Web privacy statement is effective as of January 1, 2002. Aspen Dental Management, Inc. reserves the right to change the Web privacy statement from time to time. This privacy policy is not intended to and does not imply any contractual or other legal rights in respect to Aspen Dental Management, Inc. or any other party.
 
-[Aspen Dental Patient Privacy Policy](https://web.archive.org/privacypolicy/patientprivacypolicy "Patient Privacy Policy")
+[Aspen Dental Patient Privacy Policy](https://web.archive.org/privacy-policy/patient-privacy-policy "Patient Privacy Policy")
 
-CALL ASPEN DENTAL TODAY: 1-800-ASPEN-DENTAL(1-800-277-3633)Emergencies and Walk-Ins Welcome.
+Call Aspen Dental Today Toll Free: 1-877-277-4479 Emergencies and Walk-Ins Welcome.
