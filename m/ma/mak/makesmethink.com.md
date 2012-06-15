@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makesmethink.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216213154id_/http%3A//makesmethink.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makesmethink.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615180226id_/http%3A//makesmethink.com/privacypolicy) for the most accurate reproduction.*
 
 # Makes Me Think - Privacy Policy - Today's Thought-Provoking Life Stories
 
