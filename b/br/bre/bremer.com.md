@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the bremer.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216111543id_/https%3A//www.bremer.com/Home/Content.aspx%3Fid%3D137) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bremer.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615140031id_/http%3A//www.bremer.com/Home/Content.aspx%3Fid%3D137) for the most accurate reproduction.*
 
 # Bremer Bank - Privacy Statement - Understanding your financial privacy rights
 
-##  Understanding your financial privacy rights
-
 PROTECTING YOUR PRIVACY
 
-This privacy statement describes Bremer’s policy with respect to the collection, protection, and disclosure of your information. This privacy statement was last modified on September 1, 2009.
+This privacy statement describes Bremer’s policy with respect to the collection, protection, and disclosure of your information. This privacy statement was last modified on March 31, 2012.
 
 BREMER PRIVACY PHILOSOPHY
 
 Bremer Financial Corporation and its affiliates ("Bremer") have established themselves as trusted financial service providers for our clients. One of the core values of Bremer is: "We will conduct business with the utmost integrity." Bremer believes an important part of integrity is handling client information in a highly professional and ethical manner. We understand the importance clients place on confidentiality and view the trust held between our clients and Bremer as the single most critical aspect of our relationship. 
 
-Within this Privacy Statement, all references to "Bremer" include the following companies:
+Within this privacy statement, all references to "Bremer" include the following companies:
 
   * Bremer Bank
   * Bremer Trust
@@ -21,14 +19,14 @@ Within this Privacy Statement, all references to "Bremer" include the following 
 
 
 
-The information referred to in this privacy statement is nonpublic information–information that is not available through public sources such as telephone directories or government records. Throughout this privacy statement, we will simply refer to nonpublic information as "information".
+The information referred to in this privacy statement is nonpublic information – information that is not available through public sources such as telephone directories or government records. Throughout this privacy statement, we will simply refer to nonpublic information as "information".
 
 BREMER PRIVACY STATEMENT  
 Collection of Your Information
 
 In order for Bremer to conduct business with you and help understand your financial needs, we collect the following types of information:
 
-  * Identification information, such as your name, address, birth date, social security number, and driver's license number.
+  * Identification information, such as your name, address, birth date, Social Security number, and driver's license number.
   * Application information we receive from you when you request a product or service, such as your income, assets, and liabilities.
   * Transactions or experiences with us, such as your current balances or repayment history.
   * Transactions or experiences with others.
@@ -49,14 +47,14 @@ Your information will not be sold to any organization and will be shared only wi
   * Identification information,
   * Application information,
   * Bremer-related transactional or experience information,
-  * Third-party transactional or experience information, and
+  * Third-party related transactional or experience information, and
   * Consumer report information.
 
 
 
- **Marketing Providers**. As to the extent permitted under applicable law, Bremer may share your application, identification, and Bremer transactional or experience information with other companies we employ to help us perform marketing services. Examples of these companies include telemarketing and direct sales companies. All companies we employ are contractually obligated to keep the information we provide confidential. In addition, the information they receive from us may be used to provide only the services we request.
+ **Marketing Providers**. As to the extent permitted under applicable law, Bremer may share your application, identification, and Bremer transactional or experience information with other companies we employ to help us perform marketing services. Examples of these companies include telemarketing and direct-sales companies. All companies we employ are contractually obligated to keep the information we provide confidential. In addition, the information they receive from us may be used to provide only the services we request.
 
- **Business Partners**. Bremer is committed to providing you with products and services to help meet your financial goals. If you are a resident of Minnesota or Wisconsin, we may share your identification and Bremer transactional or experience information with other financial services providers with whom we have joint marketing agreements. Examples of financial services providers we partner with include:
+ **Business Partners**. Bremer is committed to providing you with products and services to help meet your financial goals. Bremer may share your identification and Bremer transactional or experience information with other financial services providers with whom we have joint marketing agreements. Examples of financial services providers we partner with include:
 
   * credit card companies,
   * investment brokerage companies, and
@@ -70,7 +68,7 @@ These companies are contractually obligated to protect the information we provid
 
 Availability of Privacy Notice
 
-This privacy statement can be obtained at any Bremer location or on Bremer.com. In addition, this notice is given to any new consumer client opening an account and is mailed to consumer clients on an annual basis as required by law. Any updates or material changes to this Privacy Statement will be posted on Bremer.com, and the last date of modification will be noted. Such updates or material changes will also be reflected in the notice mailed to consumer clients on an annual basis.
+This privacy statement can be obtained at any Bremer location or on Bremer.com. In addition, this notice is given to any new consumer client opening an account and is mailed to consumer clients on an annual basis as required by law. Any updates or material changes to this privacy statement will be posted on Bremer.com, and the last date of modification will be noted. Such updates or material changes will also be reflected in the notice mailed to consumer clients on an annual basis.
 
 North Dakota Clients
 
@@ -84,7 +82,7 @@ The information-sharing practices described above are in accordance with federal
 
 How to Limit Bremer Marketing Contacts
 
-You may request that Bremer not contact you via mail, phone, and/or email for promotional offers by contacting a Bremer office or calling the Bremer Phone Bank at 1-800-908-BANK and pressing 2 to speak with a Bremer Representative. If you make this request, you will still receive your statements (which may include promotional offers), account-related notices, or other information via mail.
+You may request that Bremer not contact you via mail, phone, and/or email for promotional offers by contacting a Bremer location or calling the Bremer Phone Bank at 1-800-908-BANK (2265) and pressing 2 to speak with a Client Services Representative. If you make this request, you will still receive your statements (which may include promotional offers), account-related notices, or other information via mail.
 
 Guard Your Financial Information
 
@@ -92,7 +90,7 @@ Guard Your Financial Information
   * Pay attention to your billing cycles. Follow up with creditors if bills do not arrive on time.
   * Provide your Social Security number only when absolutely necessary. Ask to use other types of identifiers when possible.
   * Carry only the identification information and credit cards you actually need.
-  * Call the Bremer Phone Bank at 1-800-908-BANK immediately if your identification, ATM card, Bremer debit card, or Bremer debit card are lost or stolen. Call your other creditors and the credit bureaus to ask that a fraud alert be placed in your file.
+  * Call the Bremer Phone Bank at 1-800-908-BANK (2265) immediately if your identification, ATM card, Bremer debit card, or Bremer credit card are lost or stolen. Call your other creditors and the credit bureaus to ask that a fraud alert be placed in your file.
   * Order a copy of your credit report from the three credit reporting agencies every year ([Experian](http://www.experian.com/yourcredit/index.html), [Equifax](https://www.econsumer.equifax.com/consumer/landing.ehtml?%5estart=&orderSource=EHS&PP=P4), and [TransUnion](http://www.truecredit.com/index.jsp?bn=15&kw=1028)). Review the information to ensure it is accurate and includes only those activities you've authorized.
   * Keep items with personal information in a safe place. Shred or tear up these items when they are no longer needed.
   * Make sure charge receipts, copies of credit applications, insurance forms, bank checks and statements, expired credit cards, and credit offers you get in the mail are disposed of appropriately.
