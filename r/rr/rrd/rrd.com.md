@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrd.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113143320id_/http%3A//www.rrdonnelley.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrd.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615115639id_/http%3A//www.rrdonnelley.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # 
 
