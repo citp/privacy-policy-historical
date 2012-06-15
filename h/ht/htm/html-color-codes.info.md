@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html-color-codes.info privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108235132id_/http%3A//html-color-codes.info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html-color-codes.info privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615094316id_/http%3A//html-color-codes.info/PrivacyPolicy) for the most accurate reproduction.*
 
 # Html Color Codes Privacy Policy
 
