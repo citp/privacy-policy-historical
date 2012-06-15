@@ -1,65 +1,34 @@
-> *The following text is extracted and transformed from the eternlive.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424031305id_/http%3A//eternlive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eternlive.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615131938id_/http%3A//eternlive.com/privacy.php) for the most accurate reproduction.*
 
-# EternLive.com
+# Privacy Policy
 
+## eternlive.com Privacy Policy
+
+The following discloses our information gathering and dissemination practices for this Web site: Byethost Free Web Hosting.  
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your ISP and to gather broad demographic information. We use cookies to save your password so you don't have to re-enter it each time you visit our site and for other purposes.  
+This site contains links to other sites. Byethost Free Web Hosting is not responsible for the privacy practices or the content of such Web sites.  
   
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send information about our company and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.  
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies.
 
+ADVERTISING  
+We may use third-party advertising companies to serve ads when you use our service, this may change without prior notification being served. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
 
-This Privacy Policy covers the our treatment of personal information that is recorded when you submit an article, or request an article via email or other methods.
+PUBLIC FORUMS  
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-  
+SECURITY  
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
+CHOICE/OPT OUT  
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.  
+You can contact us at The support system in your control panel 
 
-## Information Collection
+CORRECT/UPDATE  
+This site gives users the following options for changing and modifying information previously provided.   
+You can contact us at The support system in your control panel 
 
-**EternLive.com** collects minimal personal information when you request or submit an article. However, other non-personally identifying information may be collected when you enter or leave our site(s).
+CONTACTING THE WEBSITE  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, You can contact us at The support system in your control panel
 
-  * **Cookies:** A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information. We only use cookies to record session information. Once the user closes their browser, the cookie simply terminates
-  * **Log Files:** For each visitor to our Web page, our Web server automatically recognizes the consumer's IP Address, Browser Information (such as client, and version), Username (If registered), Referring page, pages viewed on our servers and duration of each page view. We use IP addresses to analyse trends, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
-  * **Ad Servers:** To try and bring you offers that are of interest to you, we may from time to time have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: Google
-
-
-
-## Information Disclosure
-
-**EternLive.com** maintains your email address and other pertinent information submitted when registering for an account. Your contact information will never be released or sold to any vendor, partner or outside agency unless we are legally required to do so, such as but not limited to, the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web site(s) and applicable laws or to protect against misuse or unauthorized use of our Web site(s).
-
-We reserve the right to deliver notices to authors and publishers regarding changes or updates to the **EternLive.com** website and service. Any email notices or update announcements from **EternLive.com** will include detailed unsubscribe information, giving you the option to remove yourself from future mailings at any time.
-
-  
-
-
-## Contact Us
-
-We can be reached via our Contact Us form, from which you can make any query, including but not limited to:
-
-  * Opting out of receiving future e-mails.
-  * Requesting access to all information [including proprietary information] as well as contact information (e.g., name, address, phone number) that we maintain about you.
-  * Correcting information by sending a request using the above mentioned form.
-  * Telling us if you feel that this site is not following its stated policies.
-
-
-
-## Privacy Policy Exceptions
-
-This privacy statement applies solely to information collected by this website. Our policy does not apply to the practices of other companies advertised, linked to or otherwise listed, on the **EternLive.com** website, nor does it extend to people that **EternLive.com** does not employ or manage.
-
-This web site contains links to other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of every web site they visit that collects personally identifiable information.
-
-  
-
-
-## Privacy Policy Changes
-
-**EternLive.com** may amend this policy from time to time. If changes are made in the way your personal information is used, we will post a prominent announcement on our Homepage notifying you of the change.
-
-  
-
-
-## Disclaimer
-
-**EternLive.com** is a repository of free articles written by others that have no association with this site; the articles are not meant to be used for legal, medical or other types of advice; they are onbly provided for information and redistribution as outlined in our guidelines. Use of this web site is provided "AS IS" with no warranty whatsoever.
-
-**EternLive.com** does not endorse any statements or claims made in any article on this site and does not accept any responsibility or liability for the use or misuse of the article content on this site or reliance by any person on the site's contents. By using this web site, you agree not to hold **EternLive.com** , its owner, it's partner sites and/or any other affiliated sites or persons, liable for any damages that may occur from use of this web site.
-
-**All terms and conditions are subject to change without prior notice.**
+[click here to sign up for free hosting](https://web.archive.org/web/20120615131938id_/http%3A//eternlive.com/signup.php)
