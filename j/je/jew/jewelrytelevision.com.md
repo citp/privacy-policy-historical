@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelrytelevision.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105071750id_/http%3A//www.jtv.com/help/jewelry-television-privacy-policy.htm/help-privacypolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelrytelevision.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615072435id_/http%3A//www.jtv.com/help/jewelry-television-privacy-policy.htm/help-privacypolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Jewelry Television Privacy Policy
 
@@ -32,7 +32,7 @@ Jewelry Television® (“JTV” or “we” or “us”) respects the privacy of
 
 **Non-Personal Information We Collect.** When you do business with us or use our website, we may also collect “non-personal information,” which is information such as your age, gender, income, education, zip code. Non-personal information may also include technical information, such as the type of browser you’re using, the websites you visit before and after you visit our website, and other anonymous data involving your use of our website. Non-personal information may also include information that you provide us through your use of our website, such as the terms you enter into the search functions of our website.
 
-**Social Networking and Blogs.** When you post an entry on a web log (“blog”) hosted by, created by or associated with JTV or submit content to us (such as reviews, photos or videos), we may publish the information you provide. All such postings and content are subject to our JTV Community Policy [[link]](http://www.jtv.com/help/jewelry-television-community.htm/help-community,default,pg.html).
+**Social Networking and Blogs.** When you post an entry on a web log (“blog”) hosted by, created by or associated with JTV or submit content to us (such as reviews, photos or videos), we may publish the information you provide. All such postings and content are subject to our JTV Community Policy [[link]](https://www.jtv.com/help/jewelry-television-community.htm/help-community,default,pg.html).
 
 
 **Our Use of Collected Information:**
