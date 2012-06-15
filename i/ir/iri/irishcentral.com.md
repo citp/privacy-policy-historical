@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishcentral.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129121112id_/http%3A//www.irishcentral.com/services/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishcentral.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616002812id_/http%3A//www.irishcentral.com/services/privacy_policy) for the most accurate reproduction.*
 
 # IrishCentral
 
@@ -90,7 +90,7 @@ This Privacy Statement may be amended or modified from time to time.  Any such 
 
 ## X. QUESTIONS
 
-If you have any more questions, please email our webmaster at info@[IrishCentral.com](mailto:webmaster@web.nydailynews.com) or write to:  
+If you have any more questions, please email our webmaster at info@IrishCentral.com or write to:  
 Webmaster  
 IrishCentral.com  
 875 Sixth AvenueNew York, NY 10001
