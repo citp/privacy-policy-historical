@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kobobooks.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230060924id_/http%3A//www.kobobooks.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobobooks.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615192135id_/http%3A//www.kobobooks.com/privacypolicy) for the most accurate reproduction.*
 
 # Kobobooks.com: Privacy Policy
 
