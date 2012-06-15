@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theherald.co.za privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217105038id_/http%3A//www.peherald.com/content/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theherald.co.za privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616011623id_/http%3A//www.peherald.com/content/8) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,42 +54,42 @@
 
 **9.  E-Mail The Owner may periodically send e-mails to You about services, products or promotions offered by the Owner and its advertisers to the e-mail address provided by You.**
 
-[Peter](http://www.peherald.com/news/article/3307) _17 December 2011 11:16 am_
+[Ruffstuff786](http://www.peherald.com/news/article/6772) _15 June 2012 8:11 am_
 
-Christmas is in the air. During this season, i love to do some creative stuff for the holiday. I do gift wrapping every year (for the sake of my nephews, nieces and godchildren as well!...) In our hou...
+Bring the popcorn and cooldrinks.This will be very interesting to hear.I just want to let the ANCYL know that they are not untouchable, those that are untouchable is dead.The ANC don't eat their young...
 
-[thirsty](http://www.peherald.com/news/article/4101) _17 December 2011 8:42 am_
+[White Settler](http://www.peherald.com/news/article/6772) _15 June 2012 12:33 am_
 
-Included in the problem of climate change we also have numerous other problems in the world that we choose not to tackle, where there is a simple solution to them all. Look at water becoming scarce, c...
+Once again our delinquent Malema amuses me with his idiocy. Name calling and slander is a puerile way of venting your jealousy but our dear Juju calls it public debate. I am going to miss him....
 
-[thirsty](http://www.peherald.com/news/article/4100) _15 December 2011 5:02 pm_
+[alvonhumb](http://www.peherald.com/news/article/6766) _14 June 2012 1:42 pm_
 
-give that man a "Bells" not often i agree with the ANC but i agree with this!...
+Come on Zanoxolo - this is an easy one:- simply open the books in the interests of transparency and let us know what the official government business was in Durban that required a 10 stay stay in a 4*...
 
-[aheseanL](http://www.peherald.com/news/article/3530) _15 December 2011 12:13 pm_
+[Bokkie](http://www.peherald.com/news/article/6765) _14 June 2012 10:59 am_
 
-Holiday season is here and I'm really excited to spend it with my whole family somewhere peaceful, beautiful and far. Right now I'm reading some holiday travel articles to give some tips on where and ...
+Sies tog, as if "name and shame" your calprits will clear your name Cele....
 
-[EuniceB](http://www.peherald.com/news/article/3656) _15 December 2011 11:34 am_
+[Bokkie](http://www.peherald.com/news/article/6758) _14 June 2012 10:57 am_
 
-Tax evasion is one of the main concerns not only in Italy, but as well as in other countries. In U.S., 30 large American companies spent more cash to lobby lawmakers and impact political elections tha...
+That is just ridigulous. What does Zuma ever put back that he takes from the taxpayers? Nothing SA is still falling apart with crime, no services, no jobs, no houses, just EMPTY PROMISES and yet we...
 
-[FongKongTiger](http://www.peherald.com/news/article/4039) _15 December 2011 10:09 am_
+[Showahed](http://www.peherald.com/news/article/6738) _14 June 2012 7:39 am_
 
-'Barcelona ... replace them at the top of La Liga on goal difference. ' Actually, no. While it is true that FCB's goal difference is better than RM's, that's not the reason FCB replaced them at the to...
+That is why Police should be sweeping the main road through Charlo/Broadwood to Buffelsfontein as well as Burt Drive Cotswold intersection for these so-called work seekers. They sit around these areas...
 
-[thirsty](http://www.peherald.com/news/article/3966) _14 December 2011 1:02 pm_
+[Tash](http://www.peherald.com/news/article/6745) _13 June 2012 5:12 pm_
 
-Sagebrush you are correct but what the author of the article is trying to get at is that it must be a black african i presume( otherwise he definitely doesn't know anything about SA rugby). Hey Pieter...
+Not a man but a DOG and PIG, a F.... don't even have words for a person like this. Hopefully all evidence will help to put him away and then his new in-mates can give him some of his own medicine - ca...
 
-[shosholoza](http://www.peherald.com/news/article/4057) _13 December 2011 10:07 pm_
+[mozboy](http://www.peherald.com/news/article/6738) _13 June 2012 3:47 pm_
 
-Here's a fact for you Barbara Nixon. You can take the entire population of the world and put them into Mexico and it would be as dense as a major city - with the rest of the world empty! There are not...
+This story just reinforces why i do not employ garden workers. Poor lady! I will continue to make use of competent educated landscaping companies. Let the poor stay poor if they cannot behave...
 
-[Peter](http://www.peherald.com/news/article/3076) _13 December 2011 12:28 pm_
+[mozboy](http://www.peherald.com/news/article/6738) _13 June 2012 3:47 pm_
 
-Even if we budget our money properly, unexpected expenses come along the way and the only thing that can save us is to have some loans. Or sometimes, if we want to buy something quite expensive but we...
+This story just reinforces why i do not employ garden workers. Poor lady! I will continue to make use of competent educated landscaping companies. Let the poor stay poor if they cannot behave...
 
-[Peter](http://www.peherald.com/news/article/3891) _13 December 2011 12:25 pm_
+[Ruffstuff786](http://www.peherald.com/news/article/6746) _13 June 2012 1:37 pm_
 
-Even if we budget our money perfectly, unexpected expenses come along the way and the only thing that can save us is to have some loans. Or sometimes, if we want to buy something quite expensive but w...
+Can someone please tell Jacob Zuma that it is illegal to practise comedy without a license.This is one big JOKE.Just imagine, a Butcher operating on people.LMAO at this ANC JOKE....
