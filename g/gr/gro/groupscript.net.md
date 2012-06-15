@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the groupscript.net privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114030000id_/http%3A//groupscript.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupscript.net privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615183818id_/http%3A//groupscript.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Groupon Clone, Groupon Clone Script, Groupon Script
 
 **1.Introduction**
 
-Groupscript.net(“Groupscript”) values the privacy and security of the information that you share with us. This Privacy Statement applies to information collected through www.groupscript.net (the “website”). This Privacy Statement also applies to other information GroupScript receives in the United States from Europe. This Statement describes how GroupScript collects, uses, shares, protects, or otherwise processes your personal information. By using this website, you agree to the terms of this Privacy Statement.
+Groupscript.net(ā€Groupscriptā€¯) values the privacy and security of the information that you share with us. This Privacy Statement applies to information collected through www.groupscript.net (the ā€websiteā€¯). This Privacy Statement also applies to other information GroupScript receives in the United States from Europe. This Statement describes how GroupScript collects, uses, shares, protects, or otherwise processes your personal information. By using this website, you agree to the terms of this Privacy Statement.
 
 GroupScript is self-certified with the U.S. Department of Commerce Safe Harbor Program. GroupScript adheres to the Safe Harbor Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement for personal information received from the European Union, the European Economic Area, and Switzerland.  
 **2\. Collection and Use of Information**
@@ -55,16 +55,16 @@ Log information may include web requests, Internet Protocol address, operating s
 
 GroupScript also uses information gathered from logs, cookies, and web beacons to monitor website performance; improve website design, functionality, and security; and assemble web analytics and activity trends. GroupScript retains such information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.
 
-You may stop your browser from accepting cookies or web beacons. The Help portion of your browser should explain how to configure your browser’s cookie handling. Your browser may have add-ons that may help you block web beacons. You may have limited functionality if you block cookies or web beacons set by our website.  
+You may stop your browser from accepting cookies or web beacons. The Help portion of your browser should explain how to configure your browserā€™s cookie handling. Your browser may have add-ons that may help you block web beacons. You may have limited functionality if you block cookies or web beacons set by our website.  
 Amadesa
 
-GroupScript uses Amadesa, a web analytics service. Amadesa uses cookies and other means to help GroupScript analyze how users use the site. You may find Amadesa’s Privacy Policy at http://www.amadesa.com/privacy-policy.  
+GroupScript uses Amadesa, a web analytics service. Amadesa uses cookies and other means to help GroupScript analyze how users use the site. You may find Amadesaā€™s Privacy Policy at http://www.amadesa.com/privacy-policy.  
 Google Analytics
 
-GroupScript uses Google Analytics, a web analytics service. Google Analytics uses cookies, web beacons, and other means to help GroupScript analyze how users use the site. You may find Google’s Privacy Policy at http://www.google.com/intl/en/privacypolicy.html.  
+GroupScript uses Google Analytics, a web analytics service. Google Analytics uses cookies, web beacons, and other means to help GroupScript analyze how users use the site. You may find Googleā€™s Privacy Policy at http://www.google.com/intl/en/privacypolicy.html.  
 LivePerson
 
-GroupScript uses LivePerson, a live-chat customer support application. LivePerson uses cookies, web beacons, and other means to help GroupScript provide customer service. You may find LivePerson’s Privacy Policy at http://solutions.liveperson.com/about/privacy.asp.  
+GroupScript uses LivePerson, a live-chat customer support application. LivePerson uses cookies, web beacons, and other means to help GroupScript provide customer service. You may find LivePersonā€™s Privacy Policy at http://solutions.liveperson.com/about/privacy.asp.  
 **3\. Choice**
 
 We will seek your consent prior to using your personal information in a manner incompatible with the purposes we described in our Privacy Statement at the time of collection. You may choose not to provide any personal information to GroupScript, in which case we will be unable to provide services to you.  
@@ -121,13 +121,13 @@ Further, we permit only authorized GroupScript employees and third parties to ac
 GroupScript processes personal information only for the purposes it was originally collected and in accordance with this Privacy Statement. GroupScript takes commercially reasonable steps to ensure that the personal data is relevant, reliable for its intended use, accurate, complete, and current for the purposes for which it is used. GroupScript retains information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.  
 **8.Children**
 
-GroupScript does not sell products for purchase by children, but we do sell children’s products for purchase by adults. We do not knowingly collect, maintain, or use personal information from children under age 13. If you are under age 13, do not share personal information with us.  
+GroupScript does not sell products for purchase by children, but we do sell childrenā€™s products for purchase by adults. We do not knowingly collect, maintain, or use personal information from children under age 13. If you are under age 13, do not share personal information with us.  
 **9.Links to Other Websites**
 
-When you click on a link on this website that takes you to a website operated by another company, you will be subject to that company’s privacy practices.  
+When you click on a link on this website that takes you to a website operated by another company, you will be subject to that companyā€™s privacy practices.  
 **10.Controlling Unsolicited Email**
 
-We may send you information about our products and services. You may log into the Profile Center and update your Preferences to stop receiving this information. You may also opt out of GroupScript’s marketing list or update your information by notifying us at support@GroupScript.net at any time.  
+We may send you information about our products and services. You may log into the Profile Center and update your Preferences to stop receiving this information. You may also opt out of GroupScriptā€™s marketing list or update your information by notifying us at support@GroupScript.net at any time.  
 **11.Amendments**
 
 GroupScript may amend this Privacy Statement on one or more occasions by posting a revised statement on this website or a similar website that replaces this website. GroupScript will amend this Privacy Statement in a manner consistent with the Safe Harbor Principles.  
