@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdfcbank.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510153716id_/http%3A//www.hdfcbank.com/aboutus/terms_conditions/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdfcbank.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615130202id_/https%3A//www.hdfcbank.com/aboutus/terms_conditions/privacy.htm) for the most accurate reproduction.*
 
 # HDFC Bank - Leading Bank in India, Banking Services, Private Banking, Personal Loan, Car Loan
 
@@ -12,7 +12,7 @@ This Policy seeks to cover private information of the Visitors provided to HDFC 
 
 |  |  | All Information collected shall only be used to provide the Visitor with the best possible services.  
 ---|---  
-| The Information shall not be shared with any external organisation unless the same is necessary to enable HDFC Bank to provide you services or to enable the compilation of a transaction, credit reporting, or the same is necessary or required pursuant to applicable banking norms or pursuant to the terms and conditions applicable to such Information as agreed to with HDFC Bank. Needless to add, confidentiality norms as applicable to banks shall be adhered to. HDFC Bank may also share Information to provide you with superior services and a range of offers. If you desire HDFC Bank to limit such sharing whereby you would not like to be informed of offers available you may contact us at [support@hdfcbank.com](mailto:support@hdfcbank.com).  
+| The Information shall not be shared with any external organisation unless the same is necessary to enable HDFC Bank to provide you services or to enable the compilation of a transaction, credit reporting, or the same is necessary or required pursuant to applicable banking norms or pursuant to the terms and conditions applicable to such Information as agreed to with HDFC Bank. Needless to add, confidentiality norms as applicable to banks shall be adhered to. HDFC Bank may also share Information to provide you with superior services and a range of offers.   
 | HDFC Bank will use the Information to improve the visitor experience on the site and make subsequent offers to the visitor on products which may be of interest to him / her.  
 | The HDFC Bank website uses cookies. Cookies are small data files that a website stores on your computer. We use persistent cookies which are permanently placed on your computer to store non-personal (Browser, ISP, OS, Clickstream information etc) and profiling information (age, gender, income etc). While cookies have unique identification nos, personal information (name, a/c no, contact nos etc) SHALL NOT be stored on the cookies. 
 
