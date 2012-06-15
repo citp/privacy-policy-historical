@@ -1,16 +1,18 @@
-<!--The following is the downloaded HTML source of the harpercollins.com privacy policy that was archived on 2011-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229002519id_/http%3A//www.harpercollins.com/footer/privacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the harpercollins.com privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615155950id_/http%3A//www.harpercollins.com/footer/privacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head id="ctl01_HEAD1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl01_HEAD1">
 <!-- Start: Code Changed by: Tejaswi Sudhakar, Requirement: Favicon image TK-02825, 15 Dec 09 -->
 
 
     <link rel="shortcut icon" href="/favicon.ico"><link rel="shortcut icon" href="../favicon.ico"><link rel="shortcut icon" href="http://www.HarperCollins.com/favicon.ico">
     <!-- Start: Code Change: Favicon, 15 Dec 09 -->
     <link id="ctl01_ssMain" rel="stylesheet" href="/includes/style/hc.css" type="text/css"><link rel="stylesheet" href="/includes/style/header.css" type="text/css"><link href="/includes/style/bookpage.css" rel="stylesheet" type="text/css"><link id="ctl01_footerStyleSheet" type="text/css" media="screen" rel="stylesheet" href="http://files.harpercollins.com/Assets/HC/Common/Stylesheets/Prod/Footer/style.css">
+
+    <script type="text/javascript" async="" src="https://stats.harpercollins.com/hcxd.js"></script><script type="text/javascript" src="/scripts/hxcd.js"></script>
     
     <!-- Google ads -->
-    <script type="text/javascript" async="" src="https://stats.harpercollins.com/hcxd.js"></script><script src="http://www.google.com/jsapi"></script>
+    <script src="http://www.google.com/jsapi"></script>
     
     <script type="text/javascript" charset="utf-8">
         google.load('ads.search', '2');
@@ -119,7 +121,7 @@ _gaq.push(
     	<div class="new_logo_section">
         	<div class="logo" id="hc_us_logo">
             	<a title="HarperCollins Publishers" href="http://www.harpercollins.com/">HarperCollins Publishers</a>            </div>
-          <div class="other_links"><a href="http://shop.harpercollins.com/harpercollins/control/myprofile" title="My Account">My Account</a><a href="/footer/help.aspx" title="Help" class="last_link">Help</a></div>
+          <div class="other_links"><a href="/footer/help.aspx" title="Help" class="last_link">Help</a></div>
             <div class="clear_both"></div>
         </div>
         <div class="new_menu_section">
@@ -193,15 +195,20 @@ _gaq.push(
             </div>
         	
 
-<script language="javascript">
+<script type="text/javascript" language="javascript">
     function dosearch(theInput) {
         window.location = '/searcheng/2pagesearchx.aspx?mode=search&search=' + theInput.value;
+    }
+
+    function ReplaceHTML(ObjectText) 
+    {
+        ObjectText.value = ObjectText.value.replace(/<\/?[a-z][a-z0-9]*[^<>]*>/ig, "");
     }
 </script>
 
 <div class="search_section">
     <div name="searchform" class="search_form">
-        <input type="text" value="Search" onkeypress="javascript: if(event.keyCode==13) { dosearch(this); return false; }" name="search_text_box" id="search_text_box" class="search_text_box">
+        <input type="text" value="Search" onblur="ReplaceHTML(this)" onkeypress="javascript: if(event.keyCode==13) {ReplaceHTML(this); dosearch(this); return false; }" name="search_text_box" id="search_text_box" class="search_text_box">
         <input type="image" src="http://files.harpercollins.com/Assets/HC/Includes/UserControls/new_header/go_btn.png" tabindex="1" class="image" style="*bottom:1px;vertical-align:bottom;position:relative;z-index:10;" onclick="javascript:dosearch(document.getElementById('search_text_box'));return false;">
             </div>
 </div>      
@@ -449,7 +456,7 @@ Legal Department<br>HarperCollins Publishers<br>10 East 53rd Street<br>New York,
     <div class="new_footer_container">
         <div class="top_divider_line"><a href="http://www.harpercollins.com" class="top_hc_us_logo" title="Harper Collins Publishers">&nbsp;</a></div>
     </div>
-    <div class="new_footer_option_links for_us_footer">
+    <div class="new_footer_option_links for_us_footer" style="display:inline-table; margin-left:200px" align="center">
         <ul>
             <li class="header"><em>Contact Us</em></li>
             <li><a href="mailto:feedback2@harpercollins.com" title="Feedback">Feedback</a></li>
@@ -467,17 +474,13 @@ Legal Department<br>HarperCollins Publishers<br>10 East 53rd Street<br>New York,
         </ul>
         <ul>
             <li class="header"><em>Services</em></li>
-            <li><a href="/footer/permissions.aspx" title="Permissions">Permissions</a></li>
+            <li><a href="/footer/permissionsNew.aspx" title="Permissions">Permissions</a></li>
             <li><a href="/footer/subRights.aspx" title="Subsidiary Rights">Subsidiary Rights</a></li>
             <li><a href="/footer/deskCopy.aspx" title="Desk &amp; Review Copies">Desk &amp; Review Copies</a></li>
             <li><a href="http://www.harpercollinsspeakersbureau.com/" target="_blank" title="Speakers Bureau">Speakers Bureau</a></li>
             <li><a href="https://www.harpercollinsadvantage.com/harperweb/" target="_blank" title="Bookseller &amp; Retailer Ordering">Bookseller &amp; Retailer Ordering</a></li>
             <!--<li><a href="http://www.harpercollinscatalogs.com/harper/default.htm" target="_blank" title="Online Catalogs">Online Catalogs</a></li>-->
             <li><a href="/footer/librarians.aspx" title="Educator &amp; Librairian Resources">Educator &amp; Librarian Resources</a></li>
-        </ul>
-        <ul>
-            <li class="header"><em>Shopping</em></li>
-            <li><a href="http://shop.harpercollins.com/harpercollins/control/myprofile" target="_blank" title="My Account">My Account</a></li>
         </ul>
         <ul>
             <li class="header"><em>Divisions</em></li>
@@ -492,11 +495,10 @@ Legal Department<br>HarperCollins Publishers<br>10 East 53rd Street<br>New York,
             <li class="divider">&nbsp;</li>
             <li><a rel="nofollow" href="http://www.zondervan.com/cultures/en-us/home.htm" target="_blank" title="Zondervan">Zondervan</a></li>
         </ul>
-      <div class="clear_both"></div>
   </div>
-<div class="feature_sites_header">
+      <div class="feature_sites_header">
     	<em>Our Featured Sites</em>
-    </div>
+      </div>
     <div class="feature_sites_content">
     <div class="features_sites_list">
         <div class="sites">
@@ -516,11 +518,12 @@ Legal Department<br>HarperCollins Publishers<br>10 East 53rd Street<br>New York,
             </div>
         </div>
         <div class="sites last_block">
-        	<div class="sites_logo hc_inkpop"><a href="http://www.inkpop.com/" target="_blank" class="hc_inkpop_logo" title="Inkpop">&nbsp;</a></div>
-            <div class="sites_desc_last hc_inkpop_desc"><p>inkpop is an online community that connects rising stars in teen lit with talent-spotting readers and publishing pros. Visit<br><a href="http://www.inkpop.com" target="_blank" title=" Visit inkpop.com">inkpop.com</a></p>
+            <div class="sites_logo hc_CollinsDictionary">
+                <a href="http://www.collinsdictionary.com/" target="_blank" class="hc_CollinsDictionary_logo" title="Collins Dictionary">&nbsp;</a>
             </div>
+            <div class="sites_desc hc_CollinsDictionary_desc" style="border-right: solid 1px #ffffff !important"><p>Visit CollinsDictionary.com, the comprehensive free online dictionary and thesaurus. Includes English, French, Spanish &amp; German Dictionaries. Visit<br> <a href="http://www.collinsdictionary.com/" target="_blank" title="www.collinsdictionary.com">www.collinsdictionary.com</a></p></div>
         </div>
-        <div class="clear_both"></div>
+         <div class="clear_both"></div>
       </div>
         <div class="clear_both"></div>
     </div>
@@ -544,7 +547,7 @@ Legal Department<br>HarperCollins Publishers<br>10 East 53rd Street<br>New York,
         <div class="clear_both"></div>
   </div>
     <div class="footer_copyright_msg">
-   	  <ul class="f_copyright"><li>Copyright © 2010 HarperCollins Publishers. All rights reserved.</li></ul>
+   	  <ul class="f_copyright"><li>Copyright © 2012 HarperCollins Publishers. All rights reserved.</li></ul>
     	<ul>
         	<li><a href="/footer/siteMap.aspx" title="Site Map">Site Map</a></li>
             <li><a href="/footer/privacyPolicy.aspx" title="Privacy Policy">Privacy Policy</a></li>
@@ -557,8 +560,8 @@ Legal Department<br>HarperCollins Publishers<br>10 East 53rd Street<br>New York,
 
 
 <script lang="javascript">
-var hcqs = 'hid=c6863ac6-deb4-4644-b8bf-4b509b71daa6'; 
-var hid = 'c6863ac6-deb4-4644-b8bf-4b509b71daa6'; 
+var hcqs = 'hid=825d42eb-1e97-474a-b970-0e8740f1cb9a'; 
+var hid = '825d42eb-1e97-474a-b970-0e8740f1cb9a'; 
 var hcurl = 'http://www.harpercollins.com/includes/clickstream.aspx'; 
 </script>
 
