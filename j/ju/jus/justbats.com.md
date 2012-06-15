@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justbats.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124113404id_/http%3A//www.justbats.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justbats.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615053012id_/http%3A//www.justbats.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
