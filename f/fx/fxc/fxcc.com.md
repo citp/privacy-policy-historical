@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcc.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230220753id_/http%3A//www.fxcc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcc.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615172012id_/http%3A//www.fxcc.com/privacy-policy) for the most accurate reproduction.*
 
 # FXCC Privacy Policy | How we use information we may collect
 
@@ -80,18 +80,13 @@ _**E-mail:**_ ****[accounts@fxcc.com](mailto:accounts@fxcc.com)
   
 
 
-**FXCC - FSA Authorisation**  
-FXCC is very proud to announce our inclusion on the FSA (Financial Services Authority) registry of financial services companies. 
+**Forex Trading Course**  
+We got a lot of requests from traders asking about high quality forex training so we thought, why not? Welcome to the FX School.
 
 [ Read more...](https://web.archive.org/company-news)
 
-**But MetaTrader 4 can’t trade ECN can it?**  
-Well strictly speaking that’s correct, but with the proprietary FXCC bridge, MetaTrader 4 now works in an ECN environment. 
-
-[ Read more...](https://web.archive.org/company-news)
-
-**Isn’t Currenex only offered to large account holders?**  
-Not here at FXCC it isn’t. All accounts with us get the option to choose between MetaTrader 4 and Currenex. 
+**FXCC Mobile & Web Trader**  
+FXCC Launches Mobile Trader & Web Trader. Full freedom for traders on the go. Mobile forex trading was never this easy.
 
 [ Read more...](https://web.archive.org/company-news)
 
