@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pltw.org privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216134451id_/http%3A//www.pltw.org/about-us/privacy-policy-overview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pltw.org privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615162136id_/http%3A//www.pltw.org/about-us/privacy-policy-overview) for the most accurate reproduction.*
 
 # PLTW | PRIVACY POLICY OVERVIEW
 
