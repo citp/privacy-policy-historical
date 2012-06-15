@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woozworld.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223130155id_/http%3A//www.woozworld.com/politique) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woozworld.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615134224id_/http%3A//www.woozworld.com/politique) for the most accurate reproduction.*
 
 # Privacy Policy
 
