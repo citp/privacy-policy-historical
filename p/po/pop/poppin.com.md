@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the poppin.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222184330id_/http%3A//www.poppin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poppin.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616014308id_/http%3A//www.poppin.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Nice to meet you. We’re Poppin. For those who care about these kinds of things, our full corporate name is Poppin LLC, and we are a Delaware limited liability company.
+Nice to meet you. We’re Poppin. For those who care about these kinds of things, our full corporate name is Poppin Inc., and we are a Delaware corporation.
 
 We’ve put together this Privacy Policy to let you know what types of personally identifiable information we collect from you on the Web Site and what we do with it. By the way, when we use the word “Web Site,” it’s really shorthand for both the poppin.com web site and any other applications (like iPad and iPhone applications, Facebook pages, etc.) that we may use to put all of our great products at your fingertips.
 
 As much as we’d like to meet each of you personally, we know that you’re busy, and that it’s probably not possible. Since there is no way for us to meet personally and sign a contract, this Privacy Policy (along with our Terms of Use) act as the contract between us, and when you use the Web Site, you are agreeing to this Privacy Policy and the Terms of Use (which should be considered part of this document). So, you should definitely read this thoroughly, and if there is something in these Terms that you don’t agree with, you should not use the Web Site (our lawyers thought that the last part was so important that they insisted we put it in bold). In addition, you can only use the Web Site if you are over 18 years old. If you are under 18 – sorry, but please tell your parents, older siblings, etc. and come back when you turn 18.
 
-We’re a brand new company, and while we really like the way things are working right now, it is inevitable that we will change some things over time, as we learn more about you and how we can best serve you. Given that, we must reserve the right to modify this Privacy Policy at any time. If we modify it, we will post the new version right here, so it is important that you check back on a regular basis to see whether we’ve made any changes, as you will be agreeing the new Privacy Policy by using the Web Site after the new version has been posted. For ease of reference, this Privacy Policy was last modified on May 27, 2011.
+We’re a brand new company, and while we really like the way things are working right now, it is inevitable that we will change some things over time, as we learn more about you and how we can best serve you. Given that, we must reserve the right to modify this Privacy Policy at any time. If we modify it, we will post the new version right here, so it is important that you check back on a regular basis to see whether we’ve made any changes, as you will be agreeing the new Privacy Policy by using the Web Site after the new version has been posted. For ease of reference, this Privacy Policy was last modified on May 17, 2012.
 
 ### What Personally Identifiable Information Does Poppin Collect?
 
