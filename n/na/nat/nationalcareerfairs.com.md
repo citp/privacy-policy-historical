@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationalcareerfairs.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216082514id_/http%3A//www.nationalcareerfairs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcareerfairs.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615162056id_/http%3A//www.nationalcareerfairs.com/privacy_policy) for the most accurate reproduction.*
 
 # National Career Fairs Privacy Policy
 
-This is the web site of **National Career Fairs**. 
+This is the web site of **National Career Fairs**.
 
 Our postal address is   
 **1776 W. Horizon Ridge Parkway Suite 100  
@@ -19,7 +19,7 @@ The information we collect is used to improve the content of our Web page, used 
 
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-If you do not want to receive e-mail from us in the future, please let us know by writing to us at the above address, visiting us at <http://www.nationalcareerfairs.com/unsubscribe/>.
+If you do not want to receive e-mail from us in the future, please let us know by writing to us at the above address.
 
 From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
 
@@ -42,7 +42,7 @@ Upon request we provide site visitors with information that we have collected an
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
 
-Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address. 
+Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
