@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the magisto.com privacy policy that was archived on 2011-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229005757id_/http%3A//www.magisto.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the magisto.com privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615121857id_/http%3A//www.magisto.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us"><head>
-<meta http-equiv="X-UA-Compatible" content="IE=8"> 
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8"> 
 <title>Magisto | Privacy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="canonical" href="http://www.magisto.com/privacy">
 <link rel="shortcut icon" href="/media/images/favicon2.ico" type="image/vnd.microsoft.icon">
 <link rel="icon" href="/media/images/favicon2.ico" type="image/x-icon">
-<meta name="description" content="Magisto - Privacy Policy">
 
-<link rel="stylesheet" type="text/css" href="/media/css/global.css?ver=7">
+<link rel="stylesheet" type="text/css" href="/media/css/global.css?ver=17">
+
+<meta name="description" content="Magisto - Privacy Policy">
 
 <style type="text/css">
 h1 {
@@ -21,11 +22,18 @@ h2 {
 	font-size:20px;
 	margin-bottom:10px;
 }
+.md{width:650px;}
+
+@media only screen and (max-width: 480px) {
+	.md{width:310px;padding-left:5px;padding-right:5px;font-size:13px;color:#000;}
+}
 </style>
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://drrrhyhe9lfip.cloudfront.net/media/js/jquery-1.5.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="http://drrrhyhe9lfip.cloudfront.net/media/js/jquery-1.5.1.min.js"></script>
 <script src="http://drrrhyhe9lfip.cloudfront.net/media/js/jquery.simplemodal.1.4.1.min.js"></script>
-<script src="/media/js/global2.js?ver=4"></script>
+
+<script src="/media/js/global2.js?ver=16"></script>
+
 
 
 </head>
@@ -34,9 +42,17 @@ h2 {
 <body>
 
    
+    
+   
+   
+   
+   <div id="bgdiv">
+   
    
   	<div id="bgpattern"></div>
+  	  	
       <div id="content" style="min-height:590px;width:960px;padding-left:20px;">
+      
       
       	
 	    <!-- Header -->
@@ -44,14 +60,121 @@ h2 {
 	    	<a href="/" class="logo_top" style="float:left"></a>
 		    
 	    	<div id="header_tools">
-				<a href="/account/signup" style="float:left" onclick="track_event('header','create','')"><span class="orange_btn" style="margin:8px;float:left">Create video</span></a>
+	    		
+	    		
+				
 				<div style="float:left;">
-		    		 &nbsp;<br>
-		   			<div id="header_links">
-				    		
-			    				<a href="/auth?next=/privacy" style="margin-left:20px;">Sign in</a>
-			    		
-					</div>
+		    		
+		    			<div id="lform_wrapper" class="lform_closed">
+	<script type="text/javascript">
+		window.fbAsyncInit = function() {
+			   FB.init({
+			      appId:'192161334139408 ', cookie:true,
+		          status:true, xfbml:true, 
+			      channelUrl : '//WWW.YOUR_DOMAIN.COM/channel.html', // Channel File
+		          channelUrl : 'http://www.magisto.com/channel.html'
+			   });
+			   FB.UIServer.setActiveNode = function(a,b){FB.UIServer._active[a.id]=b;} // IE hack to correct FB bug
+		};
+			  
+		(function(d){
+			     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+			     if (d.getElementById(id)) {return;}
+			     js = d.createElement('script'); js.id = id; js.async = true;
+			     js.src = "//connect.facebook.net/en_US/all.js";
+			     ref.parentNode.insertBefore(js, ref);
+		}(document));
+	
+		$(document).ready(function() {
+			register_input_labels();
+		    
+		    
+		});
+	
+		function onLoginboxFBLogin() {
+			FB.login(function(response) {
+				  if (response.authResponse) {
+				  	$('#lform form').append("<input type='hidden' id='method' name='method' value='FB' />").submit();
+				  }
+			}, {scope:'email,user_about_me,publish_actions'});			
+		}
+		
+		function show_login(state, do_focus) {
+			$('#lform_wrapper').toggleClass('lform_closed', !state);
+			$('#lform_wrapper').toggleClass('lform_bck', state);
+			$('#lform').toggle(state)
+			if (state && do_focus)
+				$("#default_id_username").focus();
+		}
+		
+		function toggle_login() {
+			show_login(!$('#lform_wrapper').hasClass('lform_bck'), true);
+		}
+		
+		
+		function openPopupWindow(openid) {
+  	      write_cookie("next", "/privacy", 0.2, "/", ".www.magisto.com");
+          window.open('/login/google-hybrid/', 'openid_popup', 'width=790,height=580,resizable=yes');
+        }
+		function handleOpenIDResponse(next, error) {
+	        if (error != "") {
+	        	$('#login_error').hide();
+	            $('#login_ex_error').show();
+	        	show_login(true, false);
+		    }
+		    else if (next)
+		        window.location.replace(next)
+	    }
+	</script>
+	
+	<div id="login_hdr">Already a user? <a href="javascript:toggle_login()"><span style="font-weight:bold;color:#17649a;margin-left:12px;">Sign in</span></a></div>
+	
+	<div id="lform" style="display:none">
+	  <form id="llform" action="/auth" method="post">
+		    <input type="hidden" name="csrfmiddlewaretoken" value="738a82ee1e93b9e883117b8f61da6322">
+		    <input type="hidden" name="next" value="/privacy">
+		    
+		    
+	       <div class="inner" style="border-right:1px solid #bfbfbf">
+	          <div class="lform_title">Log in via</div>
+				<a href="javascript:onLoginboxFBLogin()" class="ex_login_btn" style="background-image:url(/media/images/login_fb_new.png);margin-bottom:12px;"></a>
+	            <a href="javascript:openPopupWindow();" class="ex_login_btn" style="background-image:url(/media/images/login_gl_new.png);"></a>
+	            <div id="login_ex_error" class="error" style="margin-top:10px;display:none;">Error authenticating</div>
+	       </div>
+	       <div class="inner">
+	       	   <div class="lform_title">Or sign in to Magisto</div>
+	       	   
+			  	<div class="input_wrapper">
+					<input id="default_id_username" type="text" value="Email" autocomplete="OFF" style="display:none;font-style:italic">
+			  		<input id="id_username" type="text" value="" name="username" maxlength="75">
+			  	</div>
+		  	
+			  	<div class="input_wrapper">
+			  		<input type="password" name="password" id="id_password" value="">
+			  		<input id="default_id_password" type="text" value="Password" autocomplete="OFF" style="display:none;font-style:italic">
+				</div>
+				<div class="login_btn" onclick="$('#llform').submit()"></div>
+				<a class="small" style="display:block;color:#26a6cd;magin-top:-5px;" href="/reset/request">Forgot password?</a>
+				<!--  IE hack for submit on enter-->
+				<div style="width:2px;height:2px;overflow:hidden"><input type="submit" style="width:5px;height:5px;border:none;padding:0px;margin:0px"></div>
+				<div style="clear:both"></div>
+				
+	       </div>
+	  </form>
+	   <script>
+		  $('#llform').submit(function() {
+			  if ($('#method').val() != 'FB' && !$('#id_username').val()  && !$('#id_password').val())   
+					return false;
+			 	return true;
+			});
+	   </script>
+	</div>
+</div> 
+<div style="clear:both"></div>
+	
+	
+
+			    	
 				</div>
 	    	</div>
 		    
@@ -65,7 +188,7 @@ h2 {
 	   	
         
 
-<div style="width:650px">
+<div class="md">
 <h1>Privacy Policy</h1>
 <br>
 
@@ -324,32 +447,31 @@ changes in advance.</span><p></p>
        
    
     <!-- Footer -->
+    
     <div id="footer_wrapper">
 	    <div id="footer">
 	    	<a href="/" class="logo_ftr"></a>
-	    	<span class="trademark">® 2011 Magisto, LLC</span>
+	    	<span class="trademark">® 2012 Magisto, LLC</span>
 	    	<div id="footer_tools">
 	    		<a href="/privacy" onclick="track_event('footer','privacy','')">Privacy</a>
 	    		<a href="/tos" onclick="track_event('footer','terms','')">Terms</a>
-	    		<a href="/press" onclick="track_event('footer','press','')">Press</a>
+	    		<a href="/about" onclick="track_event('footer','about','')">About</a>
 	    		<a href="http://blog.magisto.com" onclick="track_event('footer','blog','')">Blog</a>
 	    		<a href="#" onclick="track_event('footer','feedback','');return feedback_open()">Feedback</a>
 	    		<a href="/faq" onclick="track_event('footer','faq','')">FAQ</a>
+	    		<a href="/videoarticles" onclick="track_event('footer','resources','')">Tips</a>
 	    		<!--  <a href="">About</a><a href="">Terms of use</a><a href="">Support</a><a href="http://blog.magisto.com">Blog</a>-->
 	    	</div>
 	    </div>
 	</div>
 	<div style="clear:both"></div>
+	
     <!-- END Footer -->
    
+   
+   </div>
 
 
-
-
-
-<script type="text/javascript">
-	feedback_tab();
-</script><a href="#" id="fdbk_tab" class="feedback" onclick="return feedback_open(&quot;&quot;)"></a>
 
 
 
@@ -371,6 +493,9 @@ changes in advance.</span><p></p>
   var pageTracker = null;
   try {_gaq.push(function() {pageTracker = _gat._getTracker();});} catch(err) {}
   
+
+
+var _static_url = 'http://drrrhyhe9lfip.cloudfront.net/media/';
 
 </script>
 
