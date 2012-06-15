@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wktv.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107003903id_/http%3A//www.wktv.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wktv.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615223432id_/http%3A//www.wktv.com/about/privacy) for the most accurate reproduction.*
 
 # NBC-WKTV News Channel 2 - Utica News, Weather, Sports - | Privacy Policy
 
@@ -80,7 +80,7 @@ By using a WKTV website, you signify your agreement to the terms of our Privacy 
 
 If we decide to change this Privacy Policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.
 
-If you have any questions or comments about this policy or our use of personal information, you may send an e-mail to tcoyne@wktv.com or send a letter to the following address:
+If you have any questions or comments about this policy or our use of personal information, you may send an e-mail to kencoy@wktv.com or send a letter to the following address:
 
 P.O. Box 2  
 Utica, NY 13503
