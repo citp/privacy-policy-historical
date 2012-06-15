@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ccs.com privacy policy that was archived on 2011-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216221519id_/http%3A//shop.ccs.com/customerserv/help%3Aprivacy_policy/%3Fcm_sp%3Dfooter-_-privacypolicy-_-Footer) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ccs.com privacy policy that was archived on 2012-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616011847id_/http%3A//shop.ccs.com/customerserv/help%3Aprivacy_policy/%3Fcm_sp%3Dfooter-_-privacypolicy-_-Footer) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script language="JavaScript">
 function openBMLWindow(url,height) {
@@ -35,8 +35,8 @@ function openInvestWin(url) {
 			<title>Shop CCS</title>
 			<meta name="description" content="">
 			<meta name="keywords" content="">
-		
-	<meta http-equiv="published" content="Friday, December 16, 2011 4:15:18">
+			
+	<meta http-equiv="published" content="Friday, June 15, 2012 8:18:47">
 	
 	
     
@@ -72,7 +72,7 @@ function openInvestWin(url) {
 	<script>
 	var wishlistpostCardURL = 'https://shop.ccs.com/wishlist/wl_postcard.cfm';
 	var wishlistmailSender  = 'https://shop.ccs.com/wishlist/wl_mailSender.cfm';
-	var dsnname = 'PRO-CCS-LB-ALT';
+	var dsnname = 'PRO-CCS-LB';
 	
 		var microsite = '';
 	
@@ -134,6 +134,10 @@ function openInvestWin(url) {
 		var logoutPath = "http://shop.ccs.com/account/default.cfm?action=accountSignOut";
 		
 			var thisurl = window.location.toString();
+			// remove any anchor reference in the url so that the page can reload with updated login status
+			if (thisurl.indexOf("#") > 0) {
+				thisurl = thisurl.split("#")[0];
+			}
 			var regex = "/" + "&bvdisplaycode=[a-zA-Z0-9%._&=]*" + "/g";
 			if (thisurl.indexOf('&bvdisplaycode=') > 0 && thisurl.indexOf('submitReview') < 0) {
 				thisurl = thisurl.replace(eval(regex), '');
@@ -285,7 +289,7 @@ try { document.domain = "ccs.com"; } catch(exc){}
 @import 'http://t.p.mybuys.com/css/mbstyles.css'; 
                 </style>
             
-<script language="javascript1.1" src="/shared/coremetrics/eluminate.js" type="text/javascript"></script>
+<script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
 
 <script language="javascript1.1" src="http://shop.ccs.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
 
@@ -310,11 +314,16 @@ try { document.domain = "ccs.com"; } catch(exc){}
 
 
 
-<script language="javascript1.1" src="/shared/coremetrics/eluminate.js" type="text/javascript"></script>
+<script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
 
 <script language="javascript1.1" src="http://shop.ccs.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
 <!-- START HEADER -->
-<link rel="stylesheet" type="text/css" href="/ns/css/ccs_master_combine_v3.2.css">
+<link rel="stylesheet" type="text/css" href="/ns/css/ccs_global_styles.css">
+
+<script type="text/javascript" language="javascript" src="/ns/js/delay.js"></script>
+<script type="text/javascript" language="javascript">
+setNDDDelay(100);
+</script>
 
 <!-- START outer wrapper div -->
     <div id="header-wrapper">
@@ -330,7 +339,6 @@ try { document.domain = "ccs.com"; } catch(exc){}
         </noscript>
 	<!-- end no script div -->
 
-
     <!-- start header div -->
         <div id="header">
 
@@ -341,12 +349,12 @@ try { document.domain = "ccs.com"; } catch(exc){}
         <!-- start top links -->
             <div id="ccs_top_links">
                 <ul>
-                    <li class="ccs_help_number"></li>
-                    <li><a class="top-account" href="https://shop.ccs.com/account/default/" title="My Account"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="My Account" width="61" height="30" border="0"></a></li>
-                    <li><a class="top-customer" href="http://shop.ccs.com/customerserv/" title="Customer Service"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="Customer Service" width="86" height="30" border="0"></a></li>
-                    <li><a class="top-order" href="https://shop.ccs.com/account/default/action--orderStatus/" title="Order Status"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="Order Status" width="66" height="30" border="0"></a></li>
-                    <li><a class="top-wish" href="https://shop.ccs.com/wishlist/" title="Wish List"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="Wish List" width="53" height="30" border="0"></a></li>
-                    <li><a class="top-cart ViewCartBannerLink" href="http://shop.ccs.com/catalog/shoppingCart/" title="Shopping Cart"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="Shopping Cart" width="76" height="30" border="0"></a></li>
+                    <li class="ccs_help_number">1.800.875.1800</li>
+                    <li><a href="https://shop.ccs.com/account/default/" title="My Account">My Account</a></li>
+                    <li><a href="http://shop.ccs.com/customerserv/" title="Customer Service">Customer Service</a></li>
+                    <li><a href="https://shop.ccs.com/account/default/action--orderStatus/" title="Order Status">Order Status</a></li>
+                    <li><a href="https://shop.ccs.com/wishlist/" title="Wish List">Wish List</a></li>
+                    <li><a href="http://shop.ccs.com/catalog/shoppingCart/" title="Shopping Cart">Shopping Cart</a></li>
                     <li class="ccs_cart_info"><span id="order_summary"><a id="top-fullcart" href="http://shop.ccs.com/catalog/shoppingCart/" class="ViewCartBannerLink" title="View Shopping Cart">
 <span id="order_summary_content">
     <span class="label">Items:</span>
@@ -355,6 +363,7 @@ try { document.domain = "ccs.com"; } catch(exc){}
     <span class="value subtotal_value">$0.00</span>
 </span>
 </a></span></li>
+
                 </ul>
             </div>
         <!-- end top links -->
@@ -369,11 +378,12 @@ try { document.domain = "ccs.com"; } catch(exc){}
         
         <!-- start search box -->
         	<div class="ccs_search_box">
-                <form name="keywordSearch" action="http://shop.ccs.com/searchresults/" method="GET" id="searchform">
+                <form name="keywordSearch" action="/catalog/advancedSearch.cfm" method="GET" id="searchform">
                 	<input type="hidden" name="search" value="k">
                 	<input type="text" id="reduce_input_text_height" name="keyword" size="15" maxlength="40" value="Enter Item # or Keyword" onfocus="this.style.color=&quot;black&quot;;this.value=&quot;&quot;;">
-                    <div class="ccs_search_btn"><a href="javascript:keywordSubmit();"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" width="26" height="36" alt="CCS SEARCH" title="SEARCH" vspace="1" hspace="0" border="0" align="absmiddle" class="submitbutton"></a></div>
+                    <div class="ccs_search_btn"><a href="javascript:submitKeywordSearch();"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" width="26" height="36" alt="CCS SEARCH" title="SEARCH" vspace="1" hspace="0" border="0" align="absmiddle" class="submitbutton"></a></div>
                 </form>
+                <script type="text/javascript" src="/ns/common/js/keyword-search.js"></script>
             </div>
         <!-- end search box -->
         
@@ -381,26 +391,472 @@ try { document.domain = "ccs.com"; } catch(exc){}
             <div id="ccs_custgreet"><div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login" rel="nofollow">log in</a> 
 								or <a href="https://shop.ccs.com/account/default.cfm?action=accountCreate" rel="nofollow">register</a>.</span></div></div>
         <!-- end customer greeting -->
-       
-        <!-- start global nav -->
-        <div class="ccs_global_nav"> 
-			<ul>
-              <li class="gnav-spacer">&nbsp;</li>
-              <li><a class="gnav-gift" href="http://shop.ccs.com/promotion/promoId:5003828/" title="CCS Gift Guide"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="CCS Gift Guide" width="96" height="39" border="0"></a></li>
-              <li><a class="gnav-guys" href="http://shop.ccs.com/guys/?cm_sp=Header-_-Category-_-Guys" title="Men's Skate Clothing"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="Men's Skate Clothing" width="58" height="39" border="0"></a></li>
-              <li><a class="gnav-girls" href="http://shop.ccs.com/girls/?cm_sp=Header-_-Category-_-Girls" title="Women's Skate Shoes &amp; Clothing"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="Women's Skate Shoes &amp; Clothing" width="59" height="39" border="0"></a></li>
-              <li><a class="gnav-shoes" href="http://shop.ccs.com/skateshoes/?cm_sp=Header-_-Category-_-Shoes" title="Skate Shoes"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="Skate Shoes" width="63" height="39" border="0"></a></li>
-              <li><a class="gnav-accessories" href="http://shop.ccs.com/skateaccessories/?cm_sp=Header-_-Category-_-Accessories" title="Skateboard Accessories"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="Skateboard Accessories" width="115" height="39" border="0"></a></li>
-              <li><a class="gnav-skate" href="http://shop.ccs.com/skateboards/?cm_sp=Header-_-Category-_-Skate" title="Skateboard Parts"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="Skateboard Parts" width="62" height="39" border="0"></a></li>
-              <li><a class="gnav-snow" href="http://shop.ccs.com/snowboard/?cm_sp=Header-_-Category-_-Snow" title="Snowboard Clothing &amp; Snowboard Gear"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="Snowboard Clothing &amp; Snowboard Gear" width="61" height="39" border="0"></a></li>
-              <li><a class="gnav-sale" href="http://shop.ccs.com/clearance/category/?cm=TnSaleCat" title="Cheap Skate Shoes &amp; Clothing - Sale"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="Cheap Skate Shoes &amp; Clothing - Sale" width="50" height="39" border="0"></a></li>
-              <li><a class="gnav-brands" href="http://shop.ccs.com/brands/category/?cm=TnBrandsCat" title="Skateboard Brands"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="Skateboard Brands" width="75" height="39" border="0"></a></li>
-              <li><a class="gnav-team" href="http://shop.ccs.com/promotion/promoId:5003477/ccs-team-riders/?cm=TnTeamCat" title="CCS Team Riders"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="CCS Team Riders" width="54" height="39" border="0"></a></li>
-              <li><a class="gnav-blog" href="http://blog.ccs.com/?cm_sp=Header-_-Blog-_-Header/" target="_blank" title="CCS Blog"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="CCS Blog" width="54" height="39" border="0"></a></li>
-              <li><a class="gnav-contests" href="http://shop.ccs.com/promotion/promoId:5003549/contest/?cm=TnContestsCat" title="CCS Contests"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" alt="CCS Contests" width="89" height="39" border="0"></a></li>
-            </ul>
-		</div>
-        <!-- end global nav -->
+                       
+<!-- ------ START GLOBAL NAV ------ -->
+<div id="menu-wrap">&nbsp;</div>
+<div id="menu-spacer">&nbsp;</div>
+<div class="sticker_menu_container">
+<!-- START Guys Drop Item -->
+<div class="sticker_wrapper">
+    <div onmouseover="openTab(this, 'navButtonGuys');" onmouseout="closeTab(this);">
+        <ul>
+            <li>
+                <div class="navBtn navButtonGuys"><a href="http://shop.ccs.com/Guys/?cm_sp=Header-_-Category-_-guys" title="Men's Skate Clothing"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" width="58" height="39" border="0"><span>Guys</span></a></div>
+                <div class="sticker_menu menu_size_2 menu_move_2">
+                    <div class="sticker_menu_inner">
+                    
+                        <div class="dd_column">
+                            <p>GUYS</p>
+                            <ul>
+                            
+                                <li><a href="http://shop.ccs.com/_-_/keyword-mens+t+shirts?cm_sp=Header-_-guys-_-tshirts" title="Men's T-Shirts">T-Shirts</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-mens+tank+tops?cm_sp=Header-_-guys-_-tanks" title="Men's Tank Tops">Tank Tops</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-mens+hoodies?cm_sp=Header-_-guys-_-hoodies" title="Men's Hoodies">Hoodies</a></li>     
+                                <li><a href="http://shop.ccs.com/_-_/keyword-mens+flannels?cm_sp=Header-_-guys-_-flannels" title="Men's Flannels">Flannels</a></li>   
+                                <li><a href="http://shop.ccs.com/_-_/keyword-mens+buttondowns?cm_sp=Header-_-guys-_-buttondowns" title="Men's Button-Downs">Button-Downs</a></li>                               
+                                <li><a href="http://shop.ccs.com/_-_/keyword-mens+jackets?cm_sp=Header-_-guys-_-jackets" title="Men's Jackets">Jackets</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-shorts?cm_sp=Header-_-guys-_-shorts" title="Men's Shorts">Shorts</a></li> 
+                               <li><a href="http://shop.ccs.com/_-_/keyword-mens+boardshorts?cm_sp=Header-_-guys-_-boardshorts" title="Men's Boardshorts">Boardshorts</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-mens+pants?cm_sp=Header-_-guys-_-pants" title="Men's Pants">Pants</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-mens+shoes?cm_sp=Header-_-guys-_-shoes" title="Men's Shoes">Shoes</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-mens+accessories?cm_sp=Header-_-guys-_-accessories" title="Men's Accessories">Accessories</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-mens+snow?cm_sp=Header-_-guys-_-snow" title="Men's Snow">Snow</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-sale+mens?cm_sp=Header-_-guys-_-sale" title="Sale Men's">Sale</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-mixmatchteestanksdenim999?cm_sp=Header-_-guys-_-mixmatch" title="Mix &amp; Match">Mix &amp; Match $9.99</a></li>
+							</ul>
+                            
+                            <div class="item_spacer">&nbsp;</div>
+							<p><a class="col_head" href="http://shop.ccs.com/Guys/?cm_sp=Header-_-guys-_shopall" title="Shop all Men's Skate Clothing, Shoes">Shop All Guys <strong class="nav_arrow">»</strong></a></p>
+                        </div>
+
+                        <div class="dd_column col">   
+                            <p>TOP BRANDS</p>
+                            <ul>
+                                <li><a href="http://shop.ccs.com/Altamont/_-_/N-il?cm_sp=Header-_-guys-_-altamont" title="Altamont Clothing">Altamont</a></li>
+                                <li><a href="http://shop.ccs.com/CCS/_-_/N-fi?cm_sp=Header-_-guys-_-ccs" title="CCS Clothing">CCS</a></li>
+                                <li><a href="http://shop.ccs.com/DGK/_-_/N-h2?cm_sp=Header-_-guys-_-dgk" title="DGK Clothing">DGK</a></li>
+                                <li><a href="http://shop.ccs.com/Diamond-Supply-Co/_-_/N-wn?cm_sp=Header-_-guys-_-diamond" title="Diamond Supply Clothing">Diamond Supply</a></li>
+                                <li><a href="http://shop.ccs.com/Enjoi/_-_/N-ge?cm_sp=Header-_-guys-_-enjoi" title="Men's enjoi Clothing">enjoi</a></li>
+                                <li><a href="http://shop.ccs.com/KR3W/_-_/N-h5?cm_sp=Header-_-guys-_-kr3w" title="KR3W Clothing">KR3W</a></li>
+                                <li><a href="http://shop.ccs.com/Levis/_-_/N-lx?cm_sp=Header-_-guys-_-levis" title="Men's Levi's Jeans">Levi's</a></li>
+                                <li><a href="http://shop.ccs.com/LRG/_-_/N-kf?cm_sp=Header-_-guys-_-lrg" title="LRG Clothing">LRG</a></li>
+                                <li><a href="http://shop.ccs.com/Neff/_-_/N-ij?cm_sp=Header-_-guys-_-neff" title="Men's Neff Clothing">Neff</a></li>
+                                <li><a href="http://shop.ccs.com/Nike-60/_-_/N-fx?cm_sp=Header-_-guys-_-nike60" title="Men's Nike 6.0 Clothing">Nike 6.0</a></li>
+                                <li><a href="http://shop.ccs.com/Nike-SB/_-_/N-gn?cm_sp=Header-_-guys-_-nikesb" title="Nike SB Shoes and Clothing">Nike SB</a></li>
+                                <li><a href="http://shop.ccs.com/Guys/Stussy/_-_/N-1uZmh?cm_sp=Header-_-guys-_-stussy" title="Men's Stussy Clothing">Stussy</a></li>
+                                <li><a href="http://shop.ccs.com/Volcom/_-_/N-fn?cm_sp=Header-_-guys-_-volcom" title="Men's Volcom Clothing">Volcom</a></li>
+							</ul>
+                        </div>
+                        
+                    </div><!-- close sticker_menu_inner -->
+                </div><!-- close sticker_menu -->
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- END Guys Drop Item -->
+
+<!-- START Girls Drop Item -->
+<div class="sticker_wrapper">
+    <div onmouseover="openTab(this, 'navButtonGirls');" onmouseout="closeTab(this);">
+        <ul>
+            <li>
+                <div class="navBtn navButtonGirls"><a href="http://shop.ccs.com/Girls/?cm_sp=Header-_-Category-_-girls" title="Women's Skate Shoes &amp; Clothing"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" width="59" height="39" border="0"><span>Girl's</span></a></div>
+                <div class="sticker_menu menu_size_2 menu_move_2">
+                    <div class="sticker_menu_inner">
+                        
+                        <div class="dd_column">
+                            <p>GIRLS</p>
+                            <ul>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-womens+t+shirts?cm_sp=Header-_-girls-_-tshirts" title="Women's T-Shirts">T-Shirts</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-womens+tank+tops?cm_sp=Header-_-girls-_-tanktops" title="Women's Tank Tops">Tank Tops</a></li>
+                                <li><a href="http://shop.ccs.com/Womens/Hoodies-Fleece/_-_/N-1wZ9f?cm_sp=Header-_-girls-_-hoodies" title="Women's Hoodies">Hoodies</a></li>                            
+                                <li><a href="http://shop.ccs.com/_-_/keyword-womens+jackets?cm_sp=Header-_-girls-_-jackets" title="Women's Jackets">Jackets</a></li>
+                                <li><a href="http://shop.ccs.com/Girls/Dresses-Skirts/_-_/N-1wZa4?cm_sp=Header-_-girls-_-dresses" title="Women's Dresses">Dresses &amp; Skirts</a></li>                               <li><a href="http://shop.ccs.com/_-_/keyword-womens+pants?cm_sp=Header-_-girls-_-pants" title="Women's Pants">Pants</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-womens+shorts?cm_sp=Header-_-girls-_-shorts" title="Women's Shorts">Shorts</a></li>
+                               <li><a href="http://shop.ccs.com/_-_/keyword-womens+swimwear?cm_sp=Header-_-girls-_-swimwear" title="Women's Swimwear">Swimwear</a></li>
+                               <li><a href="http://shop.ccs.com/promotion/promoId:5003867/?cm_sp=Header-_-girls-_-swimbuilder" title="Women's Swimsuit Builder">Swimsuit Builder</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-womens+shoes?cm_sp=Header-_-girls-_-shoes" title="Women's Shoes">Shoes</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-womens+accessories?cm_sp=Header-_-girls-_-accessories" title="Women's Accessories">Accessories</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-womens+snow?cm_sp=Header-_-girls-_-snow" title="Women's Snow">Snow</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-sale+womens?cm_sp=Header-_-girls-_-sale" title="Sale Women's">Sale</a></li>
+							</ul>
+                            <div class="item_spacer">&nbsp;</div>
+							<p><a class="col_head" href="http://shop.ccs.com/Girls/?cm_sp=Header-_-girls-_-shopall" title="Shop all Women's Skate Clothing, Shoes">Shop All Girls<strong class="nav_arrow">»</strong></a></p>
+                        </div>
+
+                        <div class="dd_column">
+                            <p>TOP BRANDS</p>         
+                            <ul>
+                            
+                                <li><a href="http://shop.ccs.com/Girls/Billabong/_-_/N-1wZg9?cm_sp=Header-_-girls-_-billabong" title="Women's Billabong Clothing">Billabong</a></li>
+                                <li><a href="http://shop.ccs.com/Girls/DC/_-_/N-1wZg0?cm_sp=Header-_-girls-_-dc" title="Women's DC Shoes Clothing">DC Shoes</a></li>
+                                <li><a href="http://shop.ccs.com/Girls/Fox-Riders-Co/_-_/N-1wZlg?cm_sp=Header-_-girls-_-fox" title="Women's Fox Racing Clothing">Fox</a></li>
+                                <li><a href="http://shop.ccs.com/GLMR-KLLS/_-_/N-xj?cm_sp=Header-_-girls-_-glmrkills" title="Women's GLMR Kills Clothing">GLMR KLLS </a></li>
+                                <li><a href="http://shop.ccs.com/Girls/Hurley/_-_/N-1wZgk?cm_sp=Header-_-girls-_-hurley" title="Women's Hurley Clothing">Hurley</a></li>
+                                <li><a href="http://shop.ccs.com/ONeill/_-_/N-hk?cm_sp=Header-_-girls-_-oneill" title="O'Neill Clothing">O'Neill</a></li>
+                                <li><a href="http://shop.ccs.com/Roxy/_-_/N-g2?cm_sp=Header-_-girls-_-roxy" title="Roxy Clothing">Roxy</a></li>
+                                <li><a href="http://shop.ccs.com/Girls/Stussy/_-_/N-1wZmh?cm_sp=Header-_-girls-_-stussy" title="Women's Stussy Clothing">Stussy</a></li>
+                                <li><a href="http://shop.ccs.com/Girls/Vans/_-_/N-1wZg1?cm_sp=Header-_-girls-_-vans" title="Women's Vans Clothing">Vans</a></li>
+                                <li><a href="http://shop.ccs.com/Girls/Volcom/_-_/N-1wZfn?cm_sp=Header-_-girls-_-volcom" title="Women's Volcom Clothing">Volcom</a></li>
+							</ul>
+                        </div>
+
+                    </div><!-- close sticker_menu_inner -->
+                </div><!-- close sticker_menu -->
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- END Girls Drop Item -->
+
+<!-- START Shoes Drop Item -->
+<div class="sticker_wrapper">
+    <div onmouseover="openTab(this, 'navButtonShoes');" onmouseout="closeTab(this);">
+        <ul>
+            <li>
+                <div class="navBtn navButtonShoes"><a href="http://shop.ccs.com/Skate-Shoes/?cm_sp=Header-_-Category-_-shoes" title="Skate Shoes"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" width="63" height="39" border="0"><span>Skate Shoes</span></a></div>
+                <div class="sticker_menu menu_size_4 menu_move_1">
+                    <div class="sticker_menu_inner">
+                    
+                        <div class="dd_column">
+                            <p><a class="col_head" href="http://shop.ccs.com/_-_/keyword-mens+shoes?cm_sp=Header-_-shoes-_-guys&#10;" title="Men's Shoes">GUYS<strong class="nav_arrow">»</strong></a></p>
+                            <ul>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-mens+skate+shoes?cm_sp=Header-_-shoes-_-guysskate" title="Men's Skate Shoes">Skate Shoes</a></li>
+                                <li><a href="http://shop.ccs.com/Mens/Shoes/Casual/_-_/N-1uZ14Zal?cm_sp=Header-_-shoes-_-guyscasual" title="Men's Casual Shoes">Casual Shoes</a></li>
+                                <li><a href="http://shop.ccs.com/Mens/Boots/_-_/N-1uZb5?cm_sp=Header-_-shoes-_-guysboots" title="Men's Boots">Boots</a></li>
+                                <li><a href="http://shop.ccs.com/Mens/Casual-Flats-Slip-Ons/_-_/N-1uZap?cm_sp=Header-_-shoes-_-guysslipons" title="Men's Slip-Ons">Slip-Ons</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-mens+sandals?cm_sp=Header-_-shoes-_-guyssandals" title="Men's Sandals">Sandals</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-sale+mens+shoes?cm_sp=Header-_-shoes-_-guyssale" title="Sale Men's Shoes">Sale</a></li>
+							</ul>
+                            <div class="item_spacer">&nbsp;</div>
+                            <p><a class="col_head" href="http://shop.ccs.com/Skate-Shoes/?cm_sp=Header-_-shoes-_-shopall" title="Shop all Skate Shoes">Shop All Shoes<strong class="nav_arrow">»</strong></a></p>
+                        </div>
+    
+                        <div class="dd_column">
+                            <p><a class="col_head" href="http://shop.ccs.com/_-_/keyword-womens+shoes?cm_sp=Header-_-shoes-_-girls" title="Women's Shoes">GIRLS<strong class="nav_arrow">»</strong></a></p>
+                            <ul>
+                                <li><a href="http://shop.ccs.com/Womens/Shoes/Casual/_-_/N-1wZ14Zal?cm_sp=Header-_-shoes-_-girlscasual" title="Women's Casual Shoes">Casual Shoes</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-womens+boots?cm_sp=Header-_-shoes-_-girlsboots" title="Women's Boots">Boots</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-sale+womens+shoes?cm_sp=Header-_-shoes-_-girlssale" title="Sale Women's Shoes">Sale</a></li>
+							</ul>
+                            <div class="item_spacer">&nbsp;</div>
+                            <p><a class="col_head" href="http://shop.ccs.com/_-_/keyword-kids+skate+shoes?cm_sp=Header-_-shoes-_-kids" title="Kids Skate Shoes">KIDS<strong class="nav_arrow">»</strong></a></p>
+                            <ul>
+                                
+							</ul>
+                        </div>
+                        
+                        <div class="dd_column">
+                            <p>TOP SHOE BRANDS</p>
+                            <ul>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-adidas+skate+shoes?cm_sp=Header-_-shoes-_-adidas" title="adidas Skate Shoes">adidas</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-dc+shoes?cm_sp=Header-_-shoes-_-dc" title="DC Shoes">DC Shoes</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-emerica+shoes?cm_sp=Header-_-shoes-_-emerica" title="Emerica Shoes">Emerica</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-fallen+shoes?cm_sp=Header-_-shoes-_-fallen" title="Fallen Shoes">Fallen</a></li>
+                                <li><a href="http://shop.ccs.com/Lakai/?cm_sp=Header-_-shoes-_-lakai" title="Lakai Shoes">Lakai</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-nike+6.0+shoes?cm_sp=Header-_-shoes-_-nike60" title="Nike 6.0 Shoes">Nike 6.0</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-nike+sb+shoes?cm_sp=Header-_-shoes-_-nikesb" title="Nike SB Shoes">Nike SB</a></li>
+                                <li><a href="http://shop.ccs.com/Supra/_-_/N-h3?cm_sp=Header-_-shoes-_-supra" title="Supra Shoes">Supra</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-vans+skate+shoes?cm_sp=Header-_-shoes-_-vans" title="Vans Skate Shoes">Vans</a></li>
+                                
+							</ul>
+                        </div>
+                        
+                        <div class="drop_shoe_size">
+                        	<p>Shop by Size</p>
+                        	<ul>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=82+40&amp;cm_sp=Header-_-shoes-_-size5" title="Shop Size 5 Shoes">5.0</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=83+40&amp;cm_sp=Header-_-shoes-_-size5half" title="Shop Size 5.5 Shoes">5.5</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=94+40&amp;cm_sp=Header-_-shoes-_-size6" title="Shop Size 6 Shoes">6.0</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=95+40&amp;cm_sp=Header-_-shoes-_-size6half" title="Shop Size 6.5 Shoes">6.5</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=93+40&amp;cm_sp=Header-_-shoes-_-size7" title="Shop Size 7 Shoes">7.0</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=84+40&amp;cm_sp=Header-_-shoes-_-size7half" title="Shop Size 7.5 Shoes">7.5</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=96+40&amp;cm_sp=Header-_-shoes-_-size8" title="Shop Size 8 Shoes">8.0</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=97+40&amp;cm_sp=Header-_-shoes-_-size8half" title="Shop Size 8.5 Shoes">8.5</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=142+40&amp;cm_sp=Header-_-shoes-_-size9" title="Shop Size 9 Shoes">9.0</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=228+40&amp;cm_sp=Header-_-shoes-_-size9half" title="Shop Size 9.5 Shoes">9.5</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=151+40&amp;cm_sp=Header-_-shoes-_-size10" title="Shop Size 10 Shoes">10</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=98+66+40&amp;cm_sp=Header-_-shoes-_-size10half" title="Shop Size 10.5 Shoes">10.5</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=140+66+40&amp;cm_sp=Header-_-shoes-_-size11" title="Shop Size 11 Shoes">11</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=89+66+40&amp;cm_sp=Header-_-shoes-_-size11half" title="Shop Size 11.5 Shoes">11.5</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=251+66+40&amp;cm_sp=Header-_-shoes-_-size12" title="Shop Size 12 Shoes">12</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=141+66+40&amp;cm_sp=Header-_-shoes-_-size13" title="Shop Size 13 Shoes">13</a></li>
+                                <li><a href="http://shop.ccs.com/searchresults/?N=92+66+40&amp;cm_sp=Header-_-shoes-_-size14" title="Shop Size 14 Shoes">14</a></li>
+                            </ul>
+                        </div>
+
+                    </div><!-- close sticker_menu_inner -->
+                </div><!-- close sticker_menu -->
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- END Shoes Drop Item -->
+
+<!-- START Accessories Drop Item -->
+<div class="sticker_wrapper">
+    <div onmouseover="openTab(this, 'navButtonAccess');" onmouseout="closeTab(this);">
+        <ul>
+            <li>
+                <div class="navBtn navButtonAccess"><a href="http://shop.ccs.com/Skate-Accessories/?cm_sp=Header-_-Category-_-accessories" title="Skateboard Accessories"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" width="115" height="39" border="0"><span>Accessories</span></a></div>
+                <div class="sticker_menu menu_size_2 menu_move_3">
+                    <div class="sticker_menu_inner">
+    
+                        <div class="dd_column col_size_1">
+                            <p>ACCESSORIES</p>
+                            <ul>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-hats?cm_sp=Header-_-accessories-_-hats" title="Hats">Hats</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-beanies?cm_sp=Header-_-accessories-_-beanies" title="Beanies">Beanies</a></li>
+                                <li><a href="http://shop.ccs.com/Backpacks-Bags/_-_/N-bt?cm_sp=Header-_-accessories-_-bags" title="Backpacks and Bags">Backpacks-Bags</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-headphones?cm_sp=Header-_-accessories-_-headphones" title="Headphones">Headphones</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-watches?cm_sp=Header-_-accessories-_-watches" title="Watches">Watches</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-sunglasses?cm_sp=Header-_-accessories-_-sunglasses" title="Sunglasses">Sunglasses</a></li>                                
+                                <li><a href="http://shop.ccs.com/_-_/keyword-belts?cm_sp=Header-_-accessories-_-belts" title="Belts">Belts</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-wallets?cm_sp=Header-_-accessories-_-wallets" title="Wallets">Wallets</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-socks?cm_sp=Header-_-accessories-_-socks" title="Socks">Socks</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-sale+accessories?cm_sp=Header-_-accessories-_-sale" title="Sale Skateboard Accessories">Sale</a></li>
+                            </ul>
+                        <div class="item_spacer">&nbsp;</div>
+							<p><a class="col_head" href="http://shop.ccs.com/Skate-Accessories/?cm_sp=Header-_-accessories-_-shopall" title="Shop all Skateboard Accessories">Shop All Accessories <strong class="nav_arrow">»</strong></a></p>
+                        </div>
+                        <div class="dd_column">
+                            <p>TOP ACCESSORIES BRANDS</p>
+                            <ul>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-dc+accessories?cm_sp=Header-_-accessories-_-dc" title="DC Shoes Accessories">DC Shoes</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-dgk+accessories?cm_sp=Header-_-accessories-_-dgk" title="DGK Accessories">DGK</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-element+accessories?cm_sp=Header-_-accessories-_-element" title="Element Accessories">Element</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-enjoi+accessories?cm_sp=Header-_-accessories-_-enjoi" title="enjoi Accessories">enjoi</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-neff+accessories?cm_sp=Header-_-accessories-_-nixon" title="Neff Accessories">Neff</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-nixon+accessories?cm_sp=Header-_-accessories-_-nixon" title="Nixon Accessories">Nixon</a></li>                               
+                                <li><a href="http://shop.ccs.com/Skullcandy/_-_/N-gq?cm_sp=Header-_-accessories-_-skullcandy" title="Skullcandy Accessories">Skullcandy</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-vans+accessories?cm_sp=Header-_-accessories-_-vans" title="Vans Accessories">Vans</a></li>      
+                                <li><a href="http://shop.ccs.com/_-_/keyword-volcom+accessories?cm_sp=Header-_-accessories-_-volcom" title="Volcom Accessories">Volcom</a></li>                          
+                            </ul>
+                        </div>
+
+                    </div><!-- close sticker_menu_inner -->
+                    
+                </div><!-- close sticker_menu -->
+            </li>
+        </ul>
+    </div>
+</div><!-- close sticker_wrapper -->
+<!-- END Accessories Drop Item -->
+
+<!-- START Skate Drop Item -->
+<div class="sticker_wrapper">
+
+    <div onmouseover="openTab(this, 'navButtonSkate');" onmouseout="closeTab(this);">
+        <ul>
+            <li>
+                <div class="navBtn navButtonSkate"><a href="http://shop.ccs.com/Skateboards/?cm_sp=Header-_-Category-_-skate" title="Skateboard Parts"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" width="62" height="39" border="0"><span>Skateboards</span></a></div>
+                <div class="sticker_menu menu_size_3 menu_move_4">
+                
+                    <div class="sticker_menu_inner">
+                    
+                        <div class="dd_column col_size_1">
+                            <p>SKATEBOARDS</p>
+                            <ul>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-skateboard+decks?cm_sp=Header-_-skate-_-decks" title="Skateboard Decks">Decks</a></li>
+                                <li><a href="http://shop.ccs.com/skateboardbuilder/?cm_sp=Header-_-skate-_-boardbuilder" title="Custom Skateboards">Custom Skateboard Builder</a></li>
+                                <li><a href="http://shop.ccs.com/promotion/promoId:5003849/?cm_sp=Header-_-skate-_-ezbuilder" title="EZ Skateboard Builder">EZ Skateboard Builder</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-pre+built+completes?cm_sp=Header-_-skate-_-completes" title="Complete Skateboards">Complete Skateboards</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-cruisers+and+longboards?cm_sp=Header-_-skate-_-cruisers" title="Cruisers and Longboards">Cruisers &amp; Longboards</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-hi+tech+decks?cm_sp=Header-_-skate-_-hitech" title="Hi-Tech Skateboard Decks">Hi-Tech Decks</a></li>
+                                <li><a href="http://shop.ccs.com/Skate/Rails-Ramps-Plans/_-_/N-loZdf?cm_sp=Header-_-skate-_-ramprails" title="Skate Ramps &amp; Rails">Ramps &amp; Rails</a></li>
+							</ul>
+                            <div class="item_spacer">&nbsp;</div>
+							<p><a class="col_head" href="http://shop.ccs.com/Skateboards/?cm_sp=Header-_-skate-_-shopall" title="Shop all Skateboard Equipment">Shop All Skate<strong class="nav_arrow">»</strong></a></p>
+                        </div>
+                        
+                        <div class="dd_column col_size_1">
+                            <p>SKATEBOARD PARTS</p>
+                            
+                            <ul>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-skate+trucks?cm_sp=Header-_-skate-_-trucks" title="Skateboard Trucks">Trucks</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-skate+wheels?cm_sp=Header-_-skate-_-wheels" title="Skateboard Wheels">Wheels</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-skate+parts+packages?cm_sp=Header-_-skate-_-parts" title="Skateboard Parts Packages">Parts Packages</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-skate+bearings?cm_sp=Header-_-skate-_-bearings" title="Skateboard Bearings">Bearings</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-skate+grip+tape?cm_sp=Header-_-skate-_-grip" title="Skateboard Grip Tape">Grip Tape</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-skate+hardware?cm_sp=Header-_-skate-_-hardware" title="Skateboard Hardware">Hardware</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-skate+risers?cm_sp=Header-_-skate-_-risers" title="Skateboard Risers">Risers</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-skate+tools?cm_sp=Header-_-skate-_-tools" title="Skateboard Tools">Tools</a></li>
+                                <li><a href="http://shop.ccs.com/Skate/Wax/_-_/N-loZdd?cm_sp=Header-_-skate-_-wax" title="Skateboard Wax">Wax</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-skate+stickers?cm_sp=Header-_-skate-_-stickers" title="Skateboard Stickers">Stickers</a></li>
+							</ul>
+                        </div>
+                        
+                        <div class="dd_column">
+                            <p>TOP SELLING SKATEBOARDS</p>
+                            <ul>
+                                 <li><a href="http://shop.ccs.com/_-_/keyword-alien+workshop+skateboards?cm_sp=Header-_-skate-_-alienworkshop" title="Alien Workshop Skateboards">Alien Workshop</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-almost+skateboards?cm_sp=Header-_-skate-_-almost" title="Almost Skateboards">Almost</a></li>
+                                <li><a href="http://shop.ccs.com/Baker/_-_/N-gf?cm_sp=Header-_-skate-_-baker" title="Baker Skateboards">Baker</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-element+skateboards?cm_sp=Header-_-skate-_-element" title="Element Skateboards">Element</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-enjoi+skateboards?cm_sp=Header-_-skate-_-enjoi" title="enjoi Skateboards">enjoi</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-girl+skateboards?cm_sp=Header-_-skate-_-girl" title="Girl Skateboards">Girl</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-habitat+skateboards?cm_sp=Header-_-skate-_-habitat" title="Habitat Skateboards">Habitat</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-plan+b+skateboards?cm_sp=Header-_-skate-_-planb" title="Plan B Skateboards">Plan B</a></li>
+                                
+                        </ul>                        
+                        </div>
+                        
+                    </div><!-- close sticker_menu_inner -->
+                    
+                </div><!-- close sticker_menu -->
+            </li>
+        </ul>
+    </div>
+</div><!-- close sticker_wrapper -->
+<!-- END Skate Drop Item -->
+
+<!-- START Snow Drop Item -->
+<div class="sticker_wrapper">
+	<div onmouseover="openTab(this, 'navButtonSnow');" onmouseout="closeTab(this);">
+        <ul>
+            <li>
+                <div class="navBtn navButtonSnow"><a href="http://shop.ccs.com/Snowboard/?cm_sp=Header-_-Category-_-snow" title="Snowboard Clothing"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" width="61" height="39" border="0"><span>Snowboards</span></a></div>
+                <div class="sticker_menu menu_size_3 menu_move_4">
+                    <div class="sticker_menu_inner">
+                    
+                        <div class="dd_column col_size_1">
+                            <p><a class="col_head" href="http://shop.ccs.com/_-_/keyword-snowboard+clothing?cm_sp=Header-_-snow-_-clothing" title="Snowboard Clothing">SNOWBOARD CLOTHING <strong class="nav_arrow">»</strong></a></p>
+                            <ul>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-snowboard+jackets?cm_sp=Header-_-snow-_-jackets" title="Snowboard Jackets">Jackets</a></li>                                
+                                <li><a href="http://shop.ccs.com/_-_/keyword-snowboard+pants?cm_sp=Header-_-snow-_-pants" title="Snowboard Pants">Pants</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-snowboard+hoodies?cm_sp=Header-_-snow-_-hoodies" title="Snowboard Hoodies">Hoodies</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-snowboard+gloves?cm_sp=Header-_-snow-_-gloves" title="Snowboard Gloves">Gloves-Mittens</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-snowboard+beanies?cm_sp=Header-_-snow-_-gloves" title="Snowboard Beanies">Beanies</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-snowboard+t+shirts?cm_sp=Header-_-snow-_-tshirts" title="T-shirts">T-shirts</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-base+layer?cm_sp=Header-_-snow-_-baselayer" title="Base Layer">Base Layer</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-sale+snowboard+clothing?cm_sp=Header-_-snow-_-sale" title="Sale Snowboard Clothing">Sale</a></li>
+							</ul>
+                            
+                            <div class="item_spacer">&nbsp;</div>
+							<p><a class="col_head" href="http://shop.ccs.com/Snowboard/?cm_sp=Header-_-snow-_-shopall" title="Shop all Snowboard Gear, Clothing">Shop All Snow <strong class="nav_arrow">»</strong></a></p>
+                        </div>
+                        
+                        <div class="dd_column col_size_1">
+                            <p><a class="col_head" href="http://shop.ccs.com/_-_/keyword-snowboard+equipment?cm_sp=Header-_-snow-_-equipment" title="Snowboard Equipment">SNOWBOARD EQUIPMENT <strong class="nav_arrow">»</strong></a></p>
+                            <ul>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-snowboard+boots?cm_sp=Header-_-snow-_-boots" title="Snowboard Boots">Boots</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-snowboard+bindings?cm_sp=Header-_-snow-_-bindings" title="Snowboard Bindings">Bindings</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-snowboards?cm_sp=Header-_-snow-_-snowboards" title="Snowboards">Snowboards</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-snowboard+goggles?cm_sp=Header-_-snow-_-goggles" title="Snowboard Goggles">Goggles</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-snowboard+helmets?cm_sp=Header-_-snow-_-helmets" title="Snowboard Helmets">Helmets</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-snowboard+packages?cm_sp=Header-_-snow-_-packages" title="Snowboard &amp; Binding Packages">Board &amp; Binding Packages</a></li>
+							</ul>
+                        </div>
+                        
+                        <div class="dd_column col">
+                            <p>TOP SNOWBOARD BRANDS</p>
+                            <ul>
+                                <li><a href="http://shop.ccs.com/686/_-_/N-kl?cm_sp=Header-_-snow-_-686" title="686 Snowboard Clothing">686</a></li>
+                                <li><a href="http://shop.ccs.com/Burton/_-_/N-g7?cm_sp=Header-_-snow-_-burton" title="Burton Snowboards and Clothing">Burton</a></li>
+                                <li><a href="http://shop.ccs.com/Celtek/_-_/N-ni?cm_sp=Header-_-snow-_-celtek" title="Celtek Snowboard Gloves">Celtek</a></li>
+                                <li><a href="http://shop.ccs.com/_-_/keyword-dc+snowboarding?cm_sp=Header-_-snow-_-dc" title="DC Shoes Snowboarding">DC Shoes</a></li>
+                                <li><a href="http://shop.ccs.com/Dragon/_-_/N-kb?cm_sp=Header-_-snow-_-dragon" title="Dragon Clothing and Eyewear">Dragon</a></li>
+                                <li><a href="http://shop.ccs.com/Grenade/_-_/N-gv?cm_sp=Header-_-snow-_-grenade" title="Grenade Snowboard Gloves and Clothing">Grenade</a></li>
+                                <li><a href="http://shop.ccs.com/Nike-Snowboarding/_-_/N-wf?cm_sp=Header-_-snow-_-nike" title="Nike Snowboarding">Nike</a></li>
+                                <li><a href="http://shop.ccs.com/Rome/_-_/N-ir?cm_sp=Header-_-snow-_-rome" title="Rome Snowboards">Rome</a></li>
+							</ul>
+                        </div>
+                        
+                    </div><!-- close sticker_menu_inner -->
+                </div><!-- close sticker_menu -->
+            </li>
+        </ul>
+    </div>
+</div><!-- close sticker_wrapper -->
+<!-- END Snow Drop Item -->
+
+<!-- START Sale Button -->
+<div class="sticker_wrapper">
+    <ul>
+        <li>
+            <div class="navBtn navButtonSale" onmouseover="this.className='navBtn navButtonSaleOver';" onmouseout="this.className='navBtn navButtonSale';"><a href="http://shop.ccs.com/Sale/?cm=TnSaleCat" title="Cheap Skate Shoes &amp; Clothing - Sale"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" width="50" height="39" border="0"><span>Sale</span></a></div>
+        </li>
+    </ul>
+</div><!-- close sticker_wrapper -->
+<!-- END Sale Button -->
+
+<!-- START Brands Drop Item -->
+<div class="sticker_wrapper">
+	<div onmouseover="openTab(this, 'navButtonBrands');" onmouseout="closeTab(this);">
+        <ul>
+            <li>
+                <div class="navBtn navButtonBrands"><a href="http://shop.ccs.com/Brands/?cm=TnBrandsCat" title="Skateboard Brands"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" width="75" height="39" border="0"><span>Skateboard Brands</span></a></div>
+                <div class="sticker_menu menu_size_1">
+                    <div class="sticker_menu_inner">
+                        
+                        <div class="dd_column col">
+                            <p>TOP BRANDS</p>
+                            <ul>
+                                
+                                <li><a href="http://shop.ccs.com/adidas/_-_/N-h0?cm_sp=Header-_-brands-_-adidas" title="adidas Shoes, Clothing">adidas</a></li>
+                                <li><a href="http://shop.ccs.com/CCS/_-_/N-fi?cm_sp=Header-_-brands-_-ccs" title="CCS Clothing, Skateboards">CCS</a></li>
+                                <li><a href="http://shop.ccs.com/Diamond-Supply-Co/_-_/N-wn?cm_sp=Header-_-brands-_-diamond" title="Diamond Supply CO">Diamond Supply</a></li>
+                                <li><a href="http://shop.ccs.com/Emerica/_-_/N-ft?cm_sp=Header-_-brands-_-emerica" title="Emerica Shoes, Clothing">Emerica</a></li>
+                                <li><a href="http://shop.ccs.com/Element/_-_/N-fo?cm_sp=Header-_-brands-_-element" title="Element Skateboards, Clothing">Element</a></li>
+                                <li><a href="http://shop.ccs.com/Levis/_-_/N-lx?cm_sp=Header-_-brands-_-levis" title="Levi's Skate Jeans">Levis</a></li>
+                                <li><a href="http://shop.ccs.com/Nike-SB/_-_/N-gn?cm_sp=Header-_-brands-_-nikesb" title="Nike SB Shoes, Clothing">Nike SB</a></li>
+                                <li><a href="http://shop.ccs.com/Supra/_-_/N-h3?cm_sp=Header-_-brands-_-supra" title="Supra Shoes">Supra</a></li>
+                                <li><a href="http://shop.ccs.com/Vans/_-_/N-g1?cm_sp=Header-_-brands-_-vans" title="Vans Shoes, Clothing">Vans</a></li>
+                                <li><a href="http://shop.ccs.com/Volcom/_-_/N-fn?cm_sp=Header-_-brands-_-volcom" title="Volcom Clothing">Volcom</a></li>
+							</ul>
+                            <p><a class="col_head" href="http://shop.ccs.com/Brands/?cm_sp=Header-_-brands-_-shopall" title="Shop all Brands">Shop All Brands <strong class="nav_arrow">»</strong></a></p>
+                        </div>
+                        
+                    </div><!-- close sticker_menu_inner -->
+                </div><!-- close sticker_menu -->
+            </li>
+        </ul>
+    </div>
+</div><!-- close sticker_wrapper -->
+<!-- END Brands Drop Item -->
+
+<!-- START Contests Button-->
+<div class="sticker_wrapper">
+    <ul>
+        <li>
+            <div class="navBtn navButtonContests" onmouseover="this.className='navBtn navButtonContestsOver';" onmouseout="this.className='navBtn navButtonContests';"><a href="http://shop.ccs.com/promotion/promoId:5003549/contest/?cm=TnContestsCat" title="CCS Contests"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" width="92" height="39" border="0"><span>CCS Contests</span></a></div>
+        </li>
+    </ul>
+</div><!-- close sticker_wrapper -->
+<!-- END COntests Button -->
+
+<!-- START Corner Drop Item -->
+<div class="sticker_wrapper">
+	<div onmouseover="openTab(this, 'navButtonCorner');" onmouseout="closeTab(this);">
+        <ul>
+            <li>
+                <div class="navBtn navButtonCorner"><a href="http://blog.ccs.com/?cm_sp=Header-_-Category-_-thecorner" title="The Corner"><img src="http://shop.ccs.com/images/ccs/global/pixel.gif" width="105" height="39" border="0"><span>The Corner</span></a></div>
+                <div class="sticker_menu menu_size_1">
+                    <div class="sticker_menu_inner">
+                        
+                        <div class="dd_column col">
+                            <p>The Corner at CCS</p>
+                            <ul>
+                            	<li><a href="http://blog.ccs.com/tv?cm_sp=Header-_-thecorner-_-ccstv" title="CCS TV">CCS.TV</a></li>
+                                <li><a href="http://blog.ccs.com/team?cm_sp=Header-_-thecorner-_-team" title="CCS Team Riders">Team Riders</a></li>
+                                <li><a href="http://blog.ccs.com/spots?cm_sp=Header-_-thecorner-_-spots" title="Skate Spots">Skate Spots</a></li>
+                                <li><a href="http://blog.ccs.com/events?cm_sp=Header-_-thecorner-_-events" title="CCS Events">Events</a></li>
+							</ul>
+                        </div>
+                        
+                    </div><!-- close sticker_menu_inner -->
+                </div><!-- close sticker_menu -->
+            </li>
+        </ul>
+    </div>
+</div><!-- close sticker_wrapper -->
+<!-- END Corner Drop Item -->
+
+
+</div><!-- close sticker_menu_container -->
+<!-- ------ END GLOBAL NAV ------ -->
+        
       
         </div><!-- close header -->
     <!-- end header div -->
@@ -412,7 +868,7 @@ try { document.domain = "ccs.com"; } catch(exc){}
 
 <!-- END HEADER -->
 
-<!-- START COntent -->
+<!-- START Content -->
 <div id="outside">
     <div id="inside" style="padding-top:1px;"> 
 	  <!-- thirdparty_marketing_code was not set -->
@@ -425,12 +881,23 @@ try { document.domain = "ccs.com"; } catch(exc){}
 
 	<script language="javascript">
 		<!--
-		viewBannerEvent("12_16_11_global_banner", 90);
+		viewBannerEvent("Free Shipping > $69 or With CCS Bottoms", 90); 
+			var excludeBannerFromDiscount = false;
+		
 		//-->
 	</script>
-<a href="http://ww2.ccs.com/disclaimers/112411_dis/ccs112411-dis.html" target="_new">
-		<img src="http://shop.ccs.com/images/ccs/topbanners/12_16_11_global_banner.gif" alt="Free Shipping No Minimum" border="0">
-		</a> 
+
+<script language="javascript">
+
+	var excludeBannerFromDiscount = false;
+
+</script>
+<div id="global_Banner">
+	
+		<!-- tpbann --><div class="ccs_global_banner"><a href="http://ww2.ccs.com/disclaimers/061512_dis/ccs061512-dis.html" target="_blank"><img src="/ns/images/2011/Banners/06_15_12_global_banner.gif" alt="Free Shipping over $69 or with CCS Bottoms" border="0"></a></div><!-- end tpbann -->
+	
+</div>	
+
 <!-- MyBuys integration -->
 <!-- requestProtocol: http -->
     
@@ -440,6 +907,7 @@ try { document.domain = "ccs.com"; } catch(exc){}
 <script language="Javascript">		
 	var inlineAddToCartEnabled = true;
 	var useMyBuyYMALS = true;
+	var MyBuysDisabledForHL = false;
 	var co_cd = '61';
 </script>
 
@@ -628,8 +1096,8 @@ try { document.domain = "ccs.com"; } catch(exc){}
 
 <!-- start footer-flex-icons div -->
     <div class="footer-flex-icons">
-      <div id="flex-generic-1" class="flex-column-gen" style="width:110px;padding-left:10px"><a href="http://shop.ccs.com/catRequest/category/?cm_sp=footer-_-button-_-catalog" title="Free Catalog"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/btn_free_catalog.gif" width="127" height="84" border="0"></a></div>
-      <div id="flex-generic-2" class="flex-column-gen"><a href="http://content.yudu.com/A1ujhb/CHD1Holiday2011/resources/index.htm" target="_blank" title="CCS Online Catalog"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_shop_online_catalog.gif" width="153" height="84" border="0"></a></div>
+      <div id="flex-generic-1" class="flex-column-gen" style="width:110px;padding-left:10px"><a href="http://shop.ccs.com/catRequest/category/?cm_sp=footer-_-button-_-catalog" title="Free Catalog"><img src="//shop.ccs.com/ns/images/misc/BotNav/btn_free_catalog.gif" width="127" height="84" border="0"></a></div>
+      <div id="flex-generic-2" class="flex-column-gen"><a href="http://content.yudu.com/A1x0o0/CMH2Summer2012/" target="_blank" title="CCS Online Catalog"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_shop_online_catalog.gif" width="153" height="84" border="0"></a></div>
       <div id="flex-generic-3" class="flex-column-gen"><a href="http://shop.ccs.com/promotion/promoId:5003284/gift-cards/?cm_sp=footer-_-button-_-giftcards" title="Gift Cards"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_giftcard.gif" width="162" height="84" border="0"></a></div>
       <div id="flex-generic-4" class="flex-column-gen"><a href="http://shop.ccs.com/skateboardbuilder/?cm_sp=footer-_-button-_-skatebuilder" title="Skateboard Builder"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_skatebuilder.gif" width="161" height="84" border="0"></a></div>
       <div id="flex-generic-5" class="flex-column-gen"><a href="http://shop.ccs.com/content/report_problem/?cm_sp=footer-_-button-_-feedback" title="User Feedback"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_feedback.gif" width="151" height="84" border="0"></a></div>
@@ -689,21 +1157,21 @@ function openSignupemail2(type, co_cd) {
     <!-- start footer-tagline div -->
     <div id="footer-tagline">
       <ul>
-        <li><a href="http://shop.ccs.com/guys/?cm_sp=footer-_-category-_-guys" title="Men's Skate Clothing">Guys</a></li>
+        <li><a href="http://shop.ccs.com/Guys/?cm_sp=footer-_-category-_-guys" title="Men's Skate Clothing">Guys</a></li>
         <li>|</li>
-        <li><a href="http://shop.ccs.com/girls/?cm_sp=footer-_-category-_-girls" title="Women's Skate Shoes &amp; Clothing">Girls</a></li>
+        <li><a href="http://shop.ccs.com/Girls/?cm_sp=footer-_-category-_-girls" title="Women's Skate Shoes &amp; Clothing">Girls</a></li>
         <li>|</li>
-        <li><a href="http://shop.ccs.com/skateshoes/?cm_sp=footer-_-category-_-shoes" title="Skate Shoes">Shoes</a></li>
+        <li><a href="http://shop.ccs.com/Skate-Shoes/?cm_sp=footer-_-category-_-shoes" title="Skate Shoes">Shoes</a></li>
         <li>|</li>
-        <li><a href="http://shop.ccs.com/skateaccessories/?cm_sp=footer-_-category-_-accessories" title="Skateboard Accessories">Accessories</a></li>
+        <li><a href="http://shop.ccs.com/Skate-Accessories/?cm_sp=footer-_-category-_-accessories" title="Skateboard Accessories">Accessories</a></li>
         <li>|</li>
-        <li><a href="http://shop.ccs.com/skateboards/?cm_sp=footer-_-category-_-skate" title="Skateboard Parts">Skate</a></li>
+        <li><a href="http://shop.ccs.com/Skateboards/?cm_sp=footer-_-category-_-skate" title="Skateboard Parts">Skate</a></li>
         <li>|</li>
-        <li><a href="http://shop.ccs.com/snowboard/?cm_sp=footer-_-category-_-snow" title="Snowboard Clothing &amp; Snowboard Gear">Snow</a></li>
+        <li><a href="http://shop.ccs.com/Snowboard/?cm_sp=footer-_-category-_-snow" title="Snowboard Clothing &amp; Snowboard Gear">Snow</a></li>
         <li>|</li>
-        <li><a href="http://shop.ccs.com/clearance/category/?cm_sp=footer-_-category-_-sale" title="Cheap Skate Shoes &amp; Clothing - Sale">Sale</a></li>
+        <li><a href="http://shop.ccs.com/Sale/?cm_sp=footer-_-category-_-sale" title="Cheap Skate Shoes &amp; Clothing - Sale">Sale</a></li>
         <li>|</li>
-        <li><a href="http://shop.ccs.com/brands/category/?cm_sp=footer-_-category-_-brands" title="Skateboard Brands">Brands</a></li>
+        <li><a href="http://shop.ccs.com/Brands/?cm_sp=footer-_-category-_-brands" title="Skateboard Brands">Brands</a></li>
         <li>|</li>
         <li><a href="http://shop.ccs.com/promotion/promoId:5003477/ccs-team-riders/?cm_sp=footer-_-category-_-team" title="CCS Team Riders">Team</a></li>
         <li>|</li>
@@ -716,7 +1184,7 @@ function openSignupemail2(type, co_cd) {
         <li><a href="http://shop.ccs.com/sitemap/?cm_sp=footer-_-category-_-sitemap" title="Site Map">Site Map</a></li>
       </ul>
       <ul>
-        <li style="line-height:18px"><a href="http://shop.ccs.com/promotion/promoId:5003487/ccs-store-locator/?cm_sp=footer-_-Locator-_-Footer" title="CCS Store Locator">Store Locator</a></li>
+        <li style="line-height:18px"><a href="http://shop.ccs.com/store-locator/?cm_sp=footer-_-Locator-_-Footer" title="CCS Store Locator">Store Locator</a></li>
         <li>|</li>
         <li><a href="http://shop.ccs.com/catRequest/category/?cm_sp=footer-_-catrequest-_-Footer" title="Free CCS Catalog">Free Catalog</a></li>
         <li>|</li>
@@ -769,7 +1237,7 @@ function openSignupemail2(type, co_cd) {
 </div>
       <!-- end footer tagline div -->
       <div class="clear"></div>
-<a>© 2011 CCS Direct LLC. All Rights Reserved</a> 
+<a>© 2012 CCS Direct LLC. All Rights Reserved</a> 
 </div>
   </div>
   <!-- start footer-bottom div -->
