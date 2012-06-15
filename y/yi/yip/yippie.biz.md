@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the yippie.biz privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101175634id_/http%3A//privacy.yippie.biz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yippie.biz privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615062354id_/http%3A//privacy.yippie.biz) for the most accurate reproduction.*
 
-# YiPpIe! - Privacy Policy
+# Privacy Policy - YiPpIe!
 
-| [](http://www.yippie.biz/) |   
----|---  
-  
 |  | 
 
 [](http://www.yippie.biz/)
@@ -12,11 +9,9 @@
 |   
 ---|---|---  
   
-[YiPpIe!](http://www.yippie.biz/) : [Privacy Policy](http://privacy.yippie.biz/)
+[Submit Listing](http://submit.yippie.biz/) | [Reverse Lookup](http://reverse.yippie.biz/) | [HTTP Referers](http://referers.yippie.biz/) | [Privacy Policy](http://privacy.yippie.biz/)
 
-[Submit Listing](http://submit.yippie.biz/) : [Mobile](http://www.yippie.mobi/) : [Reverse Lookup](http://reverse.yippie.biz/) : [Referers](http://referers.yippie.biz/) : [Privacy Policy](http://privacy.yippie.biz/)
-
-[A](http://a.yippie.biz/) [B](http://b.yippie.biz/) [C](http://c.yippie.biz/) [D](http://d.yippie.biz/) [E](http://e.yippie.biz/) [F](http://f.yippie.biz/) [G](http://g.yippie.biz/) [H](http://h.yippie.biz/) [I](http://i.yippie.biz/) [J](http://j.yippie.biz/) [K](http://k.yippie.biz/) [L](http://l.yippie.biz/) [M](http://m.yippie.biz/) [N](http://n.yippie.biz/) [O](http://o.yippie.biz/) [P](http://p.yippie.biz/) [Q](http://q.yippie.biz/) [R](http://r.yippie.biz/) [S](http://s.yippie.biz/) [T](http://t.yippie.biz/) [U](http://u.yippie.biz/) [V](http://v.yippie.biz/) [W](http://w.yippie.biz/) [X](http://x.yippie.biz/) [Y](http://y.yippie.biz/) [Z](http://z.yippie.biz/)
+[A](http://a.yippie.biz/) **·** [B](http://b.yippie.biz/) **·** [C](http://c.yippie.biz/) **·** [D](http://d.yippie.biz/) **·** [E](http://e.yippie.biz/) **·** [F](http://f.yippie.biz/) **·** [G](http://g.yippie.biz/) **·** [H](http://h.yippie.biz/) **·** [I](http://i.yippie.biz/) **·** [J](http://j.yippie.biz/) **·** [K](http://k.yippie.biz/) **·** [L](http://l.yippie.biz/) **·** [M](http://m.yippie.biz/) **·** [N](http://n.yippie.biz/) **·** [O](http://o.yippie.biz/) **·** [P](http://p.yippie.biz/) **·** [Q](http://q.yippie.biz/) **·** [R](http://r.yippie.biz/) **·** [S](http://s.yippie.biz/) **·** [T](http://t.yippie.biz/) **·** [U](http://u.yippie.biz/) **·** [V](http://v.yippie.biz/) **·** [W](http://w.yippie.biz/) **·** [X](http://x.yippie.biz/) **·** [Y](http://y.yippie.biz/) **·** [Z](http://z.yippie.biz/)
 
 * * *
 
@@ -24,17 +19,17 @@
 
 Foreword
 
-The privacy of our visitors to yippie.biz/yippie.mobi is important to us.
+The privacy of our visitors to yippie.biz is important to us.
 
-At yippie.biz/yippie.mobi, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit yippie.biz/yippie.mobi, and how we safeguard your information.
+At yippie.biz, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit yippie.biz, and how we safeguard your information.
 
 Log Files
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (Internet Protocol) address, your ISP (Internet Service Provider, such as Comcast or Charter), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (Internet Protocol) address, your ISP (Internet Service Provider, such as Comcast or Charter), the browser you used to visit our site (such as Internet Explorer or Google Chrome), the time you visited our site and which pages you visited throughout our site.
 
 Cookies and Web Beacons
 
-We also use third party advertisements on yippie.biz/yippie.mobi to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP (Internet Protocol) address, your ISP (Internet Service Provider, such as Comcast or Charter), the browser you used to visit our site (such as Internet Explorer or Firefox), and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited.
+We also use third party advertisements on yippie.biz to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP (Internet Protocol) address, your ISP (Internet Service Provider, such as Comcast or Charter), the browser you used to visit our site (such as Internet Explorer or Google Chrome), and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited.
 
 DoubleClick DART Cookies
 
@@ -50,20 +45,15 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 * * *
 
-[A](http://a.yippie.biz/) [B](http://b.yippie.biz/) [C](http://c.yippie.biz/) [D](http://d.yippie.biz/) [E](http://e.yippie.biz/) [F](http://f.yippie.biz/) [G](http://g.yippie.biz/) [H](http://h.yippie.biz/) [I](http://i.yippie.biz/) [J](http://j.yippie.biz/) [K](http://k.yippie.biz/) [L](http://l.yippie.biz/) [M](http://m.yippie.biz/) [N](http://n.yippie.biz/) [O](http://o.yippie.biz/) [P](http://p.yippie.biz/) [Q](http://q.yippie.biz/) [R](http://r.yippie.biz/) [S](http://s.yippie.biz/) [T](http://t.yippie.biz/) [U](http://u.yippie.biz/) [V](http://v.yippie.biz/) [W](http://w.yippie.biz/) [X](http://x.yippie.biz/) [Y](http://y.yippie.biz/) [Z](http://z.yippie.biz/)
+[A](http://a.yippie.biz/) **·** [B](http://b.yippie.biz/) **·** [C](http://c.yippie.biz/) **·** [D](http://d.yippie.biz/) **·** [E](http://e.yippie.biz/) **·** [F](http://f.yippie.biz/) **·** [G](http://g.yippie.biz/) **·** [H](http://h.yippie.biz/) **·** [I](http://i.yippie.biz/) **·** [J](http://j.yippie.biz/) **·** [K](http://k.yippie.biz/) **·** [L](http://l.yippie.biz/) **·** [M](http://m.yippie.biz/) **·** [N](http://n.yippie.biz/) **·** [O](http://o.yippie.biz/) **·** [P](http://p.yippie.biz/) **·** [Q](http://q.yippie.biz/) **·** [R](http://r.yippie.biz/) **·** [S](http://s.yippie.biz/) **·** [T](http://t.yippie.biz/) **·** [U](http://u.yippie.biz/) **·** [V](http://v.yippie.biz/) **·** [W](http://w.yippie.biz/) **·** [X](http://x.yippie.biz/) **·** [Y](http://y.yippie.biz/) **·** [Z](http://z.yippie.biz/)
 
-[Submit Listing](http://submit.yippie.biz/) : [Mobile](http://www.yippie.mobi/) : [Reverse Lookup](http://reverse.yippie.biz/) : [Referers](http://referers.yippie.biz/) : [Privacy Policy](http://privacy.yippie.biz/)
+[Submit Listing](http://submit.yippie.biz/) | [Reverse Lookup](http://reverse.yippie.biz/) | [HTTP Referers](http://referers.yippie.biz/) | [Privacy Policy](http://privacy.yippie.biz/)
 
-[YiPpIe!](http://www.yippie.biz/) : [Privacy Policy](http://privacy.yippie.biz/)
+[YiPpIe!](http://www.yippie.biz/) » [Privacy Policy](http://privacy.yippie.biz/)
 
 | 
 
 [](http://www.yippie.biz/)
 
 |   
----|---|---  
-  
-  
-  
-Copyright © 2004-2011 [YiPpIe!](mailto:postmaster@yippie.biz?subject=YiPpIe!) All rights reserved.  
-Last Updated: Tuesday, November 01, 2011
+---|---|---
