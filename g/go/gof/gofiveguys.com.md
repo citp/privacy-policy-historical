@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofiveguys.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216214058id_/http%3A//gofiveguys.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofiveguys.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161524id_/http%3A//gofiveguys.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,9 +73,9 @@ You may contact the Privacy Officer to access, correct or delete your Personal I
 If you have any questions or complaints, please contact the Privacy Officer. The Privacy Officer can be reached by telephone at: (212) 260-0895 or 1-888-411-6626; by Facsimile at: (212) 656-1671; by email at: [support@olo.com](mailto:support@olo.com); or by mail at:
 
 > OLO  
->  84 Wooster St.  
->  Suite 301  
->  New York, NY 10012 USA  
+>  19 Fulton Street  
+>  4th Floor, Suite 406  
+>  New York, NY 10038 USA  
 >  Attn: Privacy Officer 
 
 We will address your concern and attempt to resolve any problem.
