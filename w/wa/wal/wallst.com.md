@@ -1,54 +1,51 @@
-> *The following text is extracted and transformed from the wallst.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203050949id_/http%3A//wallst.com/common/pdf/privacy%2520policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallst.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615200157id_/http%3A//www.markit.com/en/about/legal/privacy-policy.page) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
-While information is the cornerstone of our ability to provide superior service, our most important
-asset is our customer’s trust. Keeping customer information secure, and using it only as our
-customers would want us to, is a top priority for all of us at Wall Street On Demand.
-U.S. - EU Safe Harbor Privacy Policy Statement
-We adhere to the Safe Harbor Agreement concerning the transfer of personal data from the European
-Union to the United States of America. Accordingly, we follow the Safe Harbor Principles published
-by the U.S. Department of Commerce with respect to all such data. Further information on the U.S.
-Department of Commerce Safe Harbor program may be found at http://export.gov/safeharbor/. This
-privacy policy outlines our general policy and practices for implementing the Safe Harbor Principles,
-including the types of information we gather, how we use it and the notice and choice affected
-individuals have regarding our use of and their ability to correct that information. This privacy policy
-applies to all personal information we receive whether in electronic, paper or verbal format.
-Accordingly this is our Promise to our customers:
-1.We will safeguard, according to strict standards of security and confidentiality, any information our
-customers share with us.
-2.We will limit the collection and use of customer information to the minimum we require to deliver
-superior service to our customers, which includes advising our customers about our products, services
-and other opportunities, and to administer our business.
-3.We will permit only authorized employees, who are trained in the proper handling of customer
-information, to have access to that information. Employees who violate our Privacy Policy will be
-subject to our normal disciplinary process.
-4.We will not reveal customer information to any external organization unless we have previously
-informed the customer in disclosures or agreements, have been authorized by the customer, or are
-required by law or the regulators.
-5.We will always maintain control over the confidentiality of our customer information. We may,
-however, facilitate relevant services from reputable companies. These companies are not permitted to
-retain any customer information unless the customer has specifically expressed interest in their
-products or services.
-6.We will tell customers in plain language, and at least once annually, how they may remove their
-names from our records. At any time, customers can contact us to remove their names from such
-records.
-7.Should we ever hire other organizations to provide support services, we will require them to
-conform to our privacy standard and to allow us to audit them for compliance.
-8.We will not use or share – internally or externally – personally identifiable information for any
-purpose other than the administration of a customer’s account, or as disclosed to the customer when
-the information is collected, or to which the customer consents.
+## 
 
+Markit respects the privacy rights of our users and is strongly committed to protecting your privacy online. This privacy policy applies to this Website and does not apply to other Markit products or services. 
 
-Page 2
-Privacy Policy
-9.We will attempt to keep any customer information up-to-date, and accurate. Where applicable we
-will tell our customers how and where to conveniently access their account information (except when
-we’re prohibited by law) and how to notify us about errors which we will promptly correct.
-10.Online Practices — Online privacy practices apply to the collection and use of information
-collected online from individuals, prospects and customers who visit our website, or any sites,
-modules or features hosted by us.
-We will continuously assess ourselves to ensure that customer privacy is respected. We will conduct
-our business in a manner that fulfills our Promise to our customers in the countries in which we do
-business.
+This policy describes the information practices for this Website, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
+
+In general, you can visit Markit on the internet without disclosing who you are and without giving any personal information about yourself. There are times, however, when Markit may need information from you to better serve you.
+
+**1\. Collection and Use of Personal Information**
+
+Markit collects personal information that you voluntarily provide on this Website, which may include your name, address, e-mail address, etc. For example, Markit collects personal information when you register to receive more information about certain Markit services or products and or when you submit the information in order to receive support for Markit services or products to which you subscribe to. Markit uses this information to communicate with you and to provide you with your requested information or support.
+
+If you provide your consent at the time your personal information is collected via this Website, Markit may also provide you with information, special offers, and promotions. You may instruct Markit at any time not to use your personal information to provide you with information, special offers, or promotions by clicking here. Please note that this process may take up to thirty (30) days to complete.
+
+**2\. Accuracy and Security of Personal Information**
+
+Markit uses reasonable administrative, technical, personnel, and physical measures (a) to safeguard personal information against loss, theft, unauthorized use, disclosure, or modification; and (b) to ensure the integrity of the personal information. To help Markit protect your privacy, you should maintain the secrecy of the logon ID and password you may have set up in connection with your participation in this Website's service.
+
+From time to time Markit may supplement information you give Markit via the Website with information from other sources, such as information validating your address or other available information about businesses. This is to help Markit maintain the accuracy of the information it collects and to help Markit provide a better service.
+
+**3\. Storage methods and duration**
+
+Markit may store your personal information in its databases, for reference. The information may be retained and used by the Markit for a reasonable period, reflecting Markit’s need to answer queries or resolve problems, provide improved and new services and any data retention requirements of the law.
+
+Markit may retain information after an individual ceases to use Markit services or after the individual has ceased interacting with Markit, these may include the details of user authentication or verification checks.
+
+**4\. Disclosure of Personal Information**
+
+Markit may disclose your personal information to unaffiliated third parties if we believe in good faith that such disclosure is necessary (a) to comply with the law or in response to a court order, government request, or other legal process; (b) to protect the interests, rights, safety, or property of Markit or others; (c) to enforce any terms of service on this Website; (d) to provide you with the services or products requested by you (including allowing a purchaser of a Markit division, or Markit as a whole, to continue to serve you), and to perform other activities related to such services and products, including billing and collection; (e) to provide you with information, special offers, or promotions from Markit to which you consented; or (f) to operate Markit's systems properly.
+
+**5\. Cookies**
+
+Markit sometimes collects non-identifiable information from visits to the Websites to help provide better customer service. Markit may use this data to analyse trends and statistics and to help provide better customer service.
+
+Markit will collect such information through the use of various technologies, including "cookies". A cookie is a piece of data that a website can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, some pages may not work properly and you do this at your own risk.
+
+**6.Transfer of Personal Information To Other Countries**
+
+Some of the uses and disclosures mentioned in this privacy policy may involve the transfer of your personal information to various countries around the world. By submitting your personal information via this Website, you consent to such transfers.
+
+**7\. Links To Third-Party Web Sites**
+
+Markit may provide links to third-party Websites. Since Markit does not control third-party sites and are not responsible for any personal information you may provide while on such sites, Markit advises that  you to read the privacy policies on those Websites before providing any of your personal information on such sites.
+
+**8\. Modifications To This Privacy Policy**
+
+Markit reserves the right to change this privacy policy at any time by posting revisions on this Web page. Such changes will be effective upon posting.
