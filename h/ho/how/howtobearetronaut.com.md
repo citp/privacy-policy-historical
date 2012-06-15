@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howtobearetronaut.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108224101id_/http%3A//www.howtobearetronaut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtobearetronaut.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615181008id_/http%3A//www.retronaut.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HOW TO BE A RETRONAUT
+# Privacy Policy | Retronaut
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at theretronaut@howtobearetronaut.com.
 
