@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidlander.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216035844id_/http%3A//www.kidlander.sg/editorial/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidlander.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615043111id_/http%3A//www.kidlander.sg/editorial/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Kidlander.sg - 1001 Singapore places and events to do for children and kids and where to take your kids in Singapore
+# Privacy policy - Singapore places and events for children and kids - activities and fun things to do for your family in Singapore
 
 This Privacy Policy applies to all information collected by Tickled Media Pte Ltd and/or its related entities, affiliates and subsidiaries (individually and collectively, "Tickled Media") under Clause 1 below.
 
