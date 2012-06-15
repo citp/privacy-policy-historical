@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebikeinsurance.co.uk privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219125823id_/http%3A//www.ebikeinsurance.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebikeinsurance.co.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615173633id_/http%3A//www.ebikeinsurance.co.uk/privacy.php) for the most accurate reproduction.*
 
 # eBike Insurance - Privacy and Security
 
@@ -29,18 +29,18 @@ back to top
 
 ## 3\. Confidentiality
 
-We will endeavour to treat all your personal information as private and confidential. Other than under the terms of this privacy statement we will not disclose any of your information to anyone. We would like to bring your attention to our obligations to disclose information in the following exceptional cases permitted by law. These are: 
+We will endeavour to treat all your personal information as private and confidential. Other than under the terms of this privacy statement we will not disclose any of your information to anyone. We would like to bring your attention to our obligations to disclose information in the following exceptional cases permitted by law. These are:
 
-  * Where we are legally forced to 
-  * Where there is a duty to the public to disclose information 
-  * Where you have given permission to disclose information 
-  * Where we have to protect our interest 
+  * Where we are legally forced to
+  * Where there is a duty to the public to disclose information
+  * Where you have given permission to disclose information
+  * Where we have to protect our interest
 
 
 
 In the event that you have to make a claim then we will need to disclose information with any other parties involved in that particular claim. For example these parties may include the third party involved with the claim, the third party's insurer or the third party's solicitor. As highlighted in our Terms Of Business, your policy details will be added to the Motor Insurance Database (MID).
 
-The MID is run by the Motor Insurers Information Centre (MIIC). MID data may be used by the DVLA and DVLNI for the purpose of Electronic Vehicle Licensing and by the Police for the purposes of establishing whether a driver's use of the vehicle is likely to be covered by a motor insurance policy and/or for preventing and detecting crime. If you are involved in an accident, the MID maybe used by Insurers, MIIC and the Motor Insurer's Bureau to identify relevant policy information. People pursuing a claim in respect of a road traffic accident may also obtain relevant information held on the MID. For more information visit [**www.mib.org**](http://www.mib.org./ "www.mib.org") eBike will also pass information to the Claims and Underwriting Exchange Register which is run by Insurance Database Services Limited (IDS Ltd), and the Motor Insurance Anti-Fraud and Theft register, run by the Association of British Insurers (ABI). The aim is to help us to check information provided and also prevent fraudulent claims. When dealing with your request for insurance these registers maybe searched. When you inform us of an incident, we will pass this information relating to it to the registers.
+The MID is run by the Motor Insurers Information Centre (MIIC). MID data may be used by the DVLA and DVLNI for the purpose of Electronic Vehicle Licensing and by the Police for the purposes of establishing whether a driver's use of the vehicle is likely to be covered by a motor insurance policy and/or for preventing and detecting crime. If you are involved in an accident, the MID maybe used by Insurers, MIIC and the Motor Insurer's Bureau to identify relevant policy information. People pursuing a claim in respect of a road traffic accident may also obtain relevant information held on the MID. For more information visit [**www.mib.org.uk**](http://www.mib.org.uk/ "www.mib.org.uk"). eBike will also pass information to the Claims and Underwriting Exchange Register which is run by Insurance Database Services Limited (IDS Ltd), and the Motor Insurance Anti-Fraud and Theft register, run by the Association of British Insurers (ABI). The aim is to help us to check information provided and also prevent fraudulent claims. When dealing with your request for insurance these registers maybe searched. When you inform us of an incident, we will pass this information relating to it to the registers.
 
 back to top
 
@@ -60,7 +60,7 @@ back to top
 
 ## 6\. Access To Your Information
 
-You can write to us at any time to obtain details of the information we hold about you. Please write to: 
+You can write to us at any time to obtain details of the information we hold about you. Please write to:
     
     
       Data Protection Officer
