@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptopscreen.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505145005id_/http%3A//www.laptopscreen.com/English/article/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopscreen.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615084952id_/http%3A//www.laptopscreen.com/English/article/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | LAPTOP SCREEN, LCD panels from $42.
 
