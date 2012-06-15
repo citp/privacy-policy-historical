@@ -1,40 +1,57 @@
-> *The following text is extracted and transformed from the topcashback.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606151624id_/http%3A//www.topcashback.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161246id_/http%3A//www.topcashback.com/Privacy) for the most accurate reproduction.*
 
-# Top CashBack - Privacy
+# Top Cashback - Privacy
 
-We hold only a minimal amount of information on each registered client. In order to register, we only require an email address (and a password). Prior to sending any payments, we will also require details in order to make payment. 
+We hold only a minimal amount of information on each registered member. 
+
+To register as a member, we only require an email address and a password. Prior to sending any payments, we will also require relevant account details in order to give you your money. 
 
 We only hold information in order to allow users to log into and run their accounts. We will also keep accounts updated with cashback levels. Registered users may update their account details online by following the relevant links from within their account page. 
 
-Member nicknames & basic related statistics may occassionally be exposed, where a person has followed your referral link they may see your name when they follow the link. A members balance where the member was referred to TopCashBack and is under the referral threshold amount (currently £5) may be visible to the referring member. If you were referred to TopCashBack, this fact will be made clear in your account details page, from which you may opt out of them being able to see your account balance. Where selected (default), account balances are only displayed until you reach the referral threshold (currently £5). Once this is reached your account balance will no longer be visible. 
+Member usernames and basic related statistics may occasionally be exposed. Examples of this include where a person has followed your referral link, they may see your name; and where a member who was referred to TopCashBack has a balance under the referral threshold amount (currently $10.00), that balance may be visible to the referring member. If you were referred to TopCashBack this latter fact will be made clear in your account details page, from which you may opt-out of allowing the referrer from being able to see your account balance.   
+Where selected (the default), account balances are only displayed until you reach the referral threshold (currently $10.00). Once this is reached your account balance will no longer be visible. 
 
-  * We may monitor traffic patterns in order to improve our services, to help monitor purchases and cashback and keep accounts up to date.
-  * We do not send Junk Email or Spam. We may send emails with site updates or offers, but users will be able to specify the type of emails received.
+  * We may examine traffic patterns in order to improve our services, to help monitor purchases and cashback and keep accounts up to date.
+  * We do not send junk email or spam. We may send emails with site updates or offers, but users will be able to specify the type of emails they receive.
   * We do not pass users details on to third parties, unless specifically requested to do so by the users.
-  * An exception to the above is that we may pass your details on to the merchants or their agents for verification of transactions only and for fraud prevention measures. These details passed on will not be used for marketing or any other purposes.
+  * An exception to the above is that we may pass your details on to the merchants or their agents for verification of transactions only and for fraud prevention measures. Any details passed on will not be used for marketing or any other purposes.
 
 
 
-Users may request to see any information that we hold on them. This may include purchase information, account totals, contact details and other information. Users may request this information by using our ‘Contact Us’ form. There may be a small administration fee for using this service, which will be no more than £10. 
+Users may request to see any information that we hold on them. This may include purchase information, account totals, contact details and other information. Users may request this information by using our [contact us](https://web.archive.org/Help) form. There may be a small administration fee for using this service, which will be no more than $5. 
 
 It is possible that we will wish to use customer information in unanticipated ways, not stated in our Privacy Policy. In this event, we will contact individuals before using the data for new purposes, so that the individual users may opt-out if they wish. 
 
-We aim to be very flexible and transparent in the use of users details. If users wish for their account to be deleted or amended in any way – or if they wish to prevent us from using their information for any purposes, either as initially stated or for any new purposes, then they may contact us using our ‘Contact Us’ form and we will endeavor to comply with their wishes. 
+We aim to be very flexible and transparent in the use of members details. If users wish for their account to be deleted or amended in any way - or if they wish to prevent us from using their information for any purposes, either as initially stated or for any new purposes - then they may contact us using our [contact us](https://web.archive.org/Help) form and we will endeavor to comply with their wishes. 
 
-If any user feels this site is not following its stated information policy, then they may inform us through our ‘Contact Us’ form. 
+If any user feels this site is not following its stated information policy, then they may inform us through our [contact us](https://web.archive.org/Help) form. 
 
-## Cookie Policy
+Cookie Policy
 
-We recommend that all users enable cookies in their browsers in order to make full use of the site and in order to ensure that any purchases on third party sites are recorded. Cookies are small pieces of data or information that are stored by a users browser onto their hard-drive. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. If users do not have cookies enabled, it is likely that third-party merchants will not record some of their purchases. 
+We recommend that all users enable cookies in their browsers to make full use of the site and to ensure that any purchases on third party websites are recorded. Cookies are small pieces of data or information that are stored by a user’s browser on to their hard-drive. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. 
 
-If a user can sign-in to our site, then they most likely have cookies enabled. Users may also check if they have cookies enabled using our ‘Tracking Test’ page.
+If users do not have cookies enabled, it is likely that third-party merchants will not record some of their purchases.
 
-## Subscription
+If a user can log into our site, then they most likely have cookies enabled. Users may also check if they have cookies enabled using our [tracking test](https://web.archive.org/testtracking) page. 
 
-We do not share or rent email addresses or information, further you are able to unsubscribe at any time from our various email types which range from service emails through to offers, newsletters and blog updates. You are also able to unsubscribe from our site at any time. Please visit your account settings to view these preferences. 
+Subscription
 
-## Contact
+We do not share or rent email addresses or information, further you are able to unsubscribe at any time from our various email types which range from service emails through to offers, newsletters and blog updates. You are also able to unsubscribe from our site at any time. Please visit your account settings to view these preferences
 
-Should you wish to contact us then please visit our [contact page](http://www.topcashback.co.uk/contact)
+Contact
 
-Users 
+If you have any queries or concerns, please first use our [ contact page](https://web.archive.org/contact) to get in touch
+
+Email: 
+
+Mailing Address:
+
+MediaNet Systems Ltd.
+
+(TopCashBack.com)
+
+3422 Old Capitol Trail
+
+Ste 1701
+
+Wilmington, DE 19808-6192
