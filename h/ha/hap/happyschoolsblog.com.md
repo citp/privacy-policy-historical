@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happyschoolsblog.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206162118id_/http%3A//www.happyschoolsblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyschoolsblog.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615212759id_/http%3A//www.happyschoolsblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Happy Schools Blog
+# Privacy Policy
 
 This is the web site of HappySchoolsBlog.com
 
@@ -10,7 +10,7 @@ We collect the domain name and e-mail address (where possible) of visitors to ou
 
 The information we collect is used for internal review, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
 
-If you email me, all of the information in your email belongs to Happy Schools Blog and and it can be used as we wish.
+If you email me, all of the information in your email belongs to Happy Schools Blog and it can be used as we wish.
 
 Any comments that are posted belong to Happy Schools Blog. If you have posted email address or phone numbers in the comment text ONLY, you can contact us to get it deleted. We will not remove any other comments. Comment authors don’t have ability to delete the comments. Usually, comments that contain phone number or email address in comment text will be deleted. For some reason  if there are comments that are visible to others, Veedugal Domain Pvt is not responsible  for actions that result from that.
 
@@ -34,7 +34,7 @@ Google’s Adsense Privacy Policy
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Users may opt out of the use of the DART cookie by visiting the[Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
 
