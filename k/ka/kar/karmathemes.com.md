@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karmathemes.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123110702id_/http%3A//www.karmathemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karmathemes.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615191941id_/http%3A//www.karmathemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KarmaThemes
 
@@ -56,4 +56,4 @@ This policy was last modified on 2011/08/12
 
 **Contacting Us**
 
-KarmaThemes | Fuerstenweg 87 | 6020 Innsbruck | AT | info@karmathemes.com
+KarmaThemes | Fuerstenweg 87 | 6020 Innsbruck | AT
