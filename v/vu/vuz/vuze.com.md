@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vuze.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230190058id_/http%3A//www.vuze.com/corp/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuze.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615152646id_/http%3A//www.vuze.com/corp/privacy.php) for the most accurate reproduction.*
 
 # Vuze - Privacy
 
 ## Vuze Platform Privacy Notice
 
-Welcome to the Vuze, Inc. ("Vuze") applications, platform, web site (www.vuze.com), and any other web sites, applications, or services operated or produced by Vuze (collectively, the "Vuze Platform"). Vuze values the privacy of the users, subscribers, publishers, members, and others who visit and use the Vuze Platform (collectively or individually, "You" or "Users").
+Welcome to the Vuze, LLC. ("Vuze") applications, platform, web site (www.vuze.com), and any other web sites, applications, or services operated or produced by Vuze (collectively, the "Vuze Platform"). Vuze values the privacy of the users, subscribers, publishers, members, and others who visit and use the Vuze Platform (collectively or individually, "You" or "Users").
 
 By using the Vuze Platform, you expressly consent to the information handling practices described in this notice.
 
@@ -15,17 +15,17 @@ This Privacy Notice is incorporated into and is subject to the Vuze Platform Ter
 
 ### TABLE OF CONTENTS
 
-  1. [The Information Vuze Collects](https://web.archive.org/web/20111230190058id_/http%3A//www.vuze.com/corp/privacy.php#1)
-  2. [The Way Vuze Uses Information](https://web.archive.org/web/20111230190058id_/http%3A//www.vuze.com/corp/privacy.php#2)
-  3. [When Vuze Discloses Information](https://web.archive.org/web/20111230190058id_/http%3A//www.vuze.com/corp/privacy.php#3)
-  4. [Your Choices](https://web.archive.org/web/20111230190058id_/http%3A//www.vuze.com/corp/privacy.php#4)
-  5. [Data Security](https://web.archive.org/web/20111230190058id_/http%3A//www.vuze.com/corp/privacy.php#5)
-  6. [Children's Privacy](https://web.archive.org/web/20111230190058id_/http%3A//www.vuze.com/corp/privacy.php#6)
-  7. [International Visitors](https://web.archive.org/web/20111230190058id_/http%3A//www.vuze.com/corp/privacy.php#7)
-  8. [In the Event of Merger or Sale](https://web.archive.org/web/20111230190058id_/http%3A//www.vuze.com/corp/privacy.php#8)
-  9. [Changes and Updates to this Privacy Notice](https://web.archive.org/web/20111230190058id_/http%3A//www.vuze.com/corp/privacy.php#9)
-  10. [Effective Date, Date Last Modified](https://web.archive.org/web/20111230190058id_/http%3A//www.vuze.com/corp/privacy.php#10)
-  11. [Vuze Contact Information](https://web.archive.org/web/20111230190058id_/http%3A//www.vuze.com/corp/privacy.php#11)
+  1. [The Information Vuze Collects](https://web.archive.org/web/20120615152646id_/http%3A//www.vuze.com/corp/privacy.php#1)
+  2. [The Way Vuze Uses Information](https://web.archive.org/web/20120615152646id_/http%3A//www.vuze.com/corp/privacy.php#2)
+  3. [When Vuze Discloses Information](https://web.archive.org/web/20120615152646id_/http%3A//www.vuze.com/corp/privacy.php#3)
+  4. [Your Choices](https://web.archive.org/web/20120615152646id_/http%3A//www.vuze.com/corp/privacy.php#4)
+  5. [Data Security](https://web.archive.org/web/20120615152646id_/http%3A//www.vuze.com/corp/privacy.php#5)
+  6. [Children's Privacy](https://web.archive.org/web/20120615152646id_/http%3A//www.vuze.com/corp/privacy.php#6)
+  7. [International Visitors](https://web.archive.org/web/20120615152646id_/http%3A//www.vuze.com/corp/privacy.php#7)
+  8. [In the Event of Merger or Sale](https://web.archive.org/web/20120615152646id_/http%3A//www.vuze.com/corp/privacy.php#8)
+  9. [Changes and Updates to this Privacy Notice](https://web.archive.org/web/20120615152646id_/http%3A//www.vuze.com/corp/privacy.php#9)
+  10. [Effective Date, Date Last Modified](https://web.archive.org/web/20120615152646id_/http%3A//www.vuze.com/corp/privacy.php#10)
+  11. [Vuze Contact Information](https://web.archive.org/web/20120615152646id_/http%3A//www.vuze.com/corp/privacy.php#11)
 
   
 
