@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the page.ly privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204202115id_/http%3A//page.ly/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the page.ly privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615092026id_/http%3A//page.ly/p/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WordPress Hosting | Page.ly
+# Privacy Policy | WordPress Hosting
 
 _We Will not Rent or Sell your Information to Anyone._
 
