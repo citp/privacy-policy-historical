@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107013522id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161450id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy) for the most accurate reproduction.*
 
 # HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch, Networking, USB, Firewire, Printer Toner, and more!
+
+  * 30 day money back guarantee!
+  * No restocking fee!
+  * Easy return!
+  * 100% safe SSL encrypted shopping!
+  * PCI-DSS Level 1 Compliant!
+  * 9.66/10 Resellerratings.com Customer Satisfaction Rate!
+  * Lifetime warranty on all cables and non-electronic products!
+  * Free life time tech support!
+
+
 
   
   
