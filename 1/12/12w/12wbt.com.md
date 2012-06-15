@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 12wbt.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206185730id_/http%3A//www.12wbt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12wbt.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615100024id_/http%3A//www.12wbt.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy- 12 Week Body Transformation
+# Privacy Policy- 12 Week Body Transformation - 12WBT
 
 ## Michelle Bridges Privacy Policy
 
-Protecting your privacy: _12WBT at Suite 502, 105 Pitt Street Sydney, NSW 2000_ (" **us** , **we** , **our** ") are committed to protecting the information about you that we collect, store and use. We manage your information in accordance with the National Privacy Principles set out in the Privacy Act 1988 (Cth).
+Protecting your privacy: _Level 20, 1 Market Street Sydney, NSW 2000_ (" **us** , **we** , **our** ") are committed to protecting the information about you that we collect, store and use. We manage your information in accordance with the National Privacy Principles set out in the Privacy Act 1988 (Cth).
 
 By accessing the website you accept the terms and conditions of its use, including consent to the collection, use and disclosure of your personal information in accordance with this privacy policy.
 
@@ -48,4 +48,4 @@ If you know the information we hold about you is not accurate or complete, pleas
 
 If you have any concerns about how we handle your personal information or require further information, please contact the Privacy Officer at [admin@12wbt.com](mailto:admin@12wbt.com). Also use this contact if you no longer consent to receiving marketing material from us, or to the posting of your personal information on the website.
 
-The information contained in this policy is subject to change without notice. We encourage you to regularly review this statement to inform yourself of any amendments. Copyright © _19 January 2010 12WBT_ ABN 99 151 773 134. All rights reserved.
+The information contained in this policy is subject to change without notice. We encourage you to regularly review this statement to inform yourself of any amendments. Copyright © _19 January 2010 12WBT Trading Pty Ltd_ ABN 31 154 009 622. All rights reserved.
