@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverireland.ie privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228024742id_/http%3A//www.discoverireland.ie/Info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverireland.ie privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615095700id_/http%3A//www.discoverireland.ie/Info/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Discover Ireland
 
