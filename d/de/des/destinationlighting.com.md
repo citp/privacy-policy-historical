@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationlighting.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223060838id_/http%3A//www.destinationlighting.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationlighting.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615055008id_/http%3A//www.destinationlighting.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Destination Lighting
 
@@ -20,7 +20,7 @@ We collect the following general data that is not personally identifiable inform
 
 ### E-mail Communication
 
-Destination Lighting offers registered users the option to receive regular communication about our products and services via email. By default, all registered users will automatically receive the complimentary My Design Advisor newsletter. You can opt-out of this email subscription at any time by deselecting the check box on the My Account page, then saving your user settings. You can also discontinue your subscription by clicking the "Unsubscribe" link found in the body of your emailed newsletter message. If you would like to subscribe to our newsletter, simply leave the check box selected during registration or return to the My Account page. You may also opt-in by supplying your first and last name and email address on our [list management](http://www.destinationlighting.com/destinationlighting-coupons.jhtml) site.
+Destination Lighting offers registered users the option to receive regular communication about our products and services via email. By default, all registered users will automatically receive the complimentary My Design Advisor newsletter. You can opt-out of this email subscription at any time by deselecting the check box on the My Account page, then saving your user settings. You can also discontinue your subscription by clicking the "Unsubscribe" link found in the body of your emailed newsletter message. If you would like to subscribe to our newsletter, simply leave the check box selected during registration or return to the My Account page. You may also opt-in by supplying your first and last name and email address on our [list management](http://www.destinationlighting.com/about/email_signup.jhtml) site.
 
 There are certain e-mails that Destination Lighting may continue to send per your request or that are necessary for you to receive the full benefit of our services. For example, we use e-mail to deliver information that registered users request, as well as provide details about customer account(s), delivery information, and operational information regarding existing products, services and systems. 
 
