@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solidworks.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225145813id_/http%3A//www.solidworks.com/sw/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidworks.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615175538id_/http%3A//www.solidworks.com/sw/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy SolidWorks
+# Privacy Policy | SolidWorks
 
 **Dassault Systèmes SolidWorks Corporation Privacy Policy**
 
@@ -46,7 +46,7 @@ The **Contents** of this statement are organized as follows:
 > 
 > **Entities collecting personal information.**
 > 
-> The information provided at this site is collected by Dassault Systèmes SolidWorks Corp., 300 Baker Ave., Concord, MA 01742. Our telephone number is (978) 371-5011.
+> The information provided at this site is collected by Dassault Systèmes SolidWorks Corp., 175 Wyman Street, Waltham, MA 02451. Our telephone number is 781-810-5011.
 > 
 > This website contains links to websites owned and maintained by other companies. Such websites may also collect personal information and such collection of personal information will be subject to the privacy policies of the site and company at which it is collected.
 > 
@@ -84,15 +84,15 @@ The **Contents** of this statement are organized as follows:
 > 
 > **Updating Personal Information and "Opting Out"**
 > 
-> DS SolidWorks wants to ensure that the information it collects is accurate. You may notify us of any change to your address, phone number, email address or other information by sending us an email message at [privacy@solidworks.com](mailto:privacy@solidworks.com) or by notifying us in writing at 
+> DS SolidWorks wants to ensure that the information it collects is accurate. You may notify us of any change to your address, phone number, email address or other information by sending us an email message at [privacy@solidworks.com](mailto:privacy@solidworks.com) or by notifying us in writing at 
 > 
 > Dassault Systèmes SolidWorks Corporation  
->  300 Baker Avenue  
->  Concord, Massachusetts 01742
+>  175 Wyman Street  
+>  Waltham, MA 02451
 > 
 > Attn: Legal Department
 > 
-> You may set or change your communication preferences by visiting <http://www.solidworks.com/preferences>. 
+> You may set or change your communication preferences by visiting [http://www.solidworks.com/preferences](http://mkt.solidworks.com/emarketing_enu/start.swe?SWECmd=GotoView&SWEView=eMarketing+HTML+Smart+Script+Player+View&SWERF=1). 
 > 
 > If at any time you wish to "opt out" of receiving information from DS SolidWorks or its partners or other companies, please notify us by sending us an email or written message to the addresses shown above or by emailing us at [remove@solidworks.com](mailto:remove@solidworks.com) . Please note that due to lead times on certain mailings and other contacts, you may continue to receive contacts for a period following your "opt out" notification.
 > 
@@ -147,6 +147,6 @@ We hope this policy statement helps you understand DS SolidWorks’ practices wi
 Rev. August 2008
 
   * Print
-  * [Email](https://web.archive.org/popups/emailpage/email.htm "Email page")
+  * [Email](https://web.archive.org/sw/email.htm "Email page")
 
 
