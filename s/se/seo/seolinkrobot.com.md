@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seolinkrobot.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007114205id_/http%3A//seolinkrobot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seolinkrobot.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616011922id_/http%3A//seolinkrobot.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Backlink Software | Backlink Software
+# Privacy Policy | Backlink Software Reviews and News | Backlink Software Reviews and News
 
 This privacy policy sets out how xpert tech uses and protects any information that you give xpert tech when you use this website.
 
@@ -62,3 +62,16 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to , , , .
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fseolinkrobot.com%2Fprivacy.htm%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fseolinkrobot.com%2Fprivacy.htm&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fseolinkrobot.com%2Fprivacy.htm&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fseolinkrobot.com%2Fprivacy.htm&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fseolinkrobot.com%2Fprivacy.htm&title=Privacy%20Policy&notes=Privacy%20Policy%0D%0AThis%20privacy%20policy%20sets%20out%20how%20xpert%20tech%20uses%20and%20protects%20any%20information%20that%20you%20give%20xpert%20tech%20when%20you%20use%20this%20website.%0D%0A%0D%0AMy%20xpert%20tech%20is%20committed%20to%20ensuring%20that%20your%20privacy%20is%20protected.%20Should%20we%20ask%20you%20to%20provide%20c "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fseolinkrobot.com%2Fprivacy.htm&title=Privacy%20Policy&srcURL=http%3A%2F%2Fseolinkrobot.com%2Fprivacy.htm&srcTitle=Backlink+Software+Reviews+and+News+Internet+Marketing+Reviews+%2B+Tools "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fseolinkrobot.com%2Fprivacy.htm&title=Privacy%20Policy&source=Backlink+Software+Reviews+and+News+Internet+Marketing+Reviews+%2B+Tools&summary=Privacy%20Policy%0D%0AThis%20privacy%20policy%20sets%20out%20how%20xpert%20tech%20uses%20and%20protects%20any%20information%20that%20you%20give%20xpert%20tech%20when%20you%20use%20this%20website.%0D%0A%0D%0AMy%20xpert%20tech%20is%20committed%20to%20ensuring%20that%20your%20privacy%20is%20protected.%20Should%20we%20ask%20you%20to%20provide%20c "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fseolinkrobot.com%2Fprivacy.htm&Title=Privacy%20Policy "BlinkList")
+  * 
+
