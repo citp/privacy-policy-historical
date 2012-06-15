@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navisite.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117154534id_/http%3A//www.navisite.com/legal-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navisite.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615211147id_/http%3A//www.navisite.com/legal-privacy-policy.htm) for the most accurate reproduction.*
 
 # NaviSite Legal Statements | Privacy Policy
 
