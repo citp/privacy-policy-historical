@@ -1,0 +1,458 @@
+<!--The following is the downloaded HTML source of the binaryoptionsgame.com privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615212853id_/http%3A//www.binaryoptionsgame.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<title>Binary Options Game</title>
+
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<meta name="distribution" content="global">
+<meta name="robots" content="index, follow">
+
+<base href="http://www.binaryoptionsgame.com/">
+
+<link rel="stylesheet" href="templates/css/style.css" type="text/css">
+
+<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/base/jquery-ui.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+<script src="includes/js/jquery.countdown.js"></script>
+
+<link rel="stylesheet" type="text/css" href="includes/js/shadowbox/shadowbox.css">
+<script src="includes/js/shadowbox/shadowbox.js"></script>
+
+<script type="text/javascript">
+
+
+    jQuery(document).ready(function($) {   
+        
+        PassTimezone();
+        LoadCounter('');
+        xajax_ChangeTimezone();
+        xajax_CheckLogin();
+        imagePreview();
+
+        
+	   $("form.loginform input")
+		.bind("focus.labelFx", function(){
+			$(this).prev().hide();
+		})
+		.bind("blur.labelFx", function(){
+			$(this).prev()[!this.value ? "show" : "hide"]();
+		})
+		.trigger("blur.labelFx");        
+                   
+    });
+
+
+
+
+    function OpenLoginSignupBox() {
+        var contentUrl = 'form_registration.php';
+        var dialog1 = $("<div id='LightBoxMain'>").dialog(
+        {
+            autoOpen: false,
+            modal: true,
+            width: 800,
+            height: 600,
+            title: 'BinaryOptionsGame.com - Sign Up for FREE',
+            closeOnEscape: true,
+            close: function (e, ui) { $(this).remove(); },
+            /*buttons: { "Ok": function () { $(this).dialog("close"); } }*/
+        });
+        
+        dialog1.load(contentUrl, function () {
+            $(this).dialog('open');
+        });
+    
+    }   
+    
+    
+    
+
+    function PassTimezone(){
+        var d = new Date(); 
+        var minutes = d.getTimezoneOffset();
+        //alert(minutes);
+        xajax_UserTimezone(minutes);
+    };
+    
+    
+    function LoadCounter(dt) {
+        //var dt = "";  
+        $('div#clock').countdown(dt, function(event) {
+        $this = $(this);
+        switch(event.type) {
+          case "seconds":
+          case "minutes":
+          case "hours":
+          case "days":
+          case "weeks":
+          case "daysLeft":
+            $this.find('span#'+event.type).html(event.value);
+            break;
+          case "finished":
+            $this.fadeTo('slow', .5);
+            break;
+        }
+        });
+    };
+    
+    
+
+    Shadowbox.init({
+        handleOversize: "drag",
+        modal: false
+    });
+       
+
+
+
+</script>
+
+
+
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+try { if (undefined == xajax.config) xajax.config = {}; } catch (e) { xajax = {}; xajax.config = {}; };
+xajax.config.requestURI = "http://www.binaryoptionsgame.com/privacy.php";
+xajax.config.statusMessages = true;
+xajax.config.waitCursor = false;
+xajax.config.version = "xajax 0.5";
+xajax.config.legacy = false;
+xajax.config.defaultMode = "asynchronous";
+xajax.config.defaultMethod = "POST";
+/* ]]> */
+</script>
+<script type="text/javascript" src="includes/js/xajax_js/xajax_core.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+window.setTimeout(
+ function() {
+  var scriptExists = false;
+  try { if (xajax.isLoaded) scriptExists = true; }
+  catch (e) {}
+  if (!scriptExists) {
+   alert("Error: the xajax Javascript component could not be included. Perhaps the URL is incorrect?\nURL: includes/js/xajax_js/xajax_core.js");
+  }
+ }, 2000);
+/* ]]> */
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+xajax_UserTimezone = function() { return xajax.request( { xjxfun: 'UserTimezone' }, { parameters: arguments } ); };
+xajax_ChangeTimezone = function() { return xajax.request( { xjxfun: 'ChangeTimezone' }, { parameters: arguments } ); };
+xajax_CheckLogin = function() { return xajax.request( { xjxfun: 'CheckLogin' }, { parameters: arguments } ); };
+xajax_ShowLogin = function() { return xajax.request( { xjxfun: 'ShowLogin' }, { parameters: arguments } ); };
+xajax_Logout = function() { return xajax.request( { xjxfun: 'Logout' }, { parameters: arguments } ); };
+xajax_ShowResultsCounter = function() { return xajax.request( { xjxfun: 'ShowResultsCounter' }, { parameters: arguments } ); };
+xajax_ProcessLoginForm = function() { return xajax.request( { xjxfun: 'ProcessLoginForm' }, { parameters: arguments } ); };
+xajax_ShowGameDetails = function() { return xajax.request( { xjxfun: 'ShowGameDetails' }, { parameters: arguments } ); };
+xajax_ProcessForm = function() { return xajax.request( { xjxfun: 'ProcessForm' }, { parameters: arguments } ); };
+xajax_CountryPrefix = function() { return xajax.request( { xjxfun: 'CountryPrefix' }, { parameters: arguments } ); };
+/* ]]> */
+</script>
+
+
+
+</head>
+
+<body>
+
+
+<div class="center" align="center">
+
+<div id="wrapper">
+
+    <div id="header">
+		<a href="/" id="logo"></a>
+        
+		<div id="menubar">
+            <div class="menu_standard" id="menu_standard"><a href="/">Home</a> | <a href="faq.php">FAQ</a> | </div>
+            <div class="menu_extra" id="menu_extra"><a href="javascript:void();" onclick="OpenLoginSignupBox();" style="color: #2F9B17;">FREE Sign Up</a></div>
+        </div>
+		
+        <div id="cpanel">
+        
+            <div id="cpanel_welcome"></div>
+            
+            <div id="cpanel_logout" style="display:none"><a href="javascript:void();" onclick="xajax_Logout()">Logout</a></div>
+                                      
+            <div id="LoginFormArea">
+                <div class="FormTitle">Login</div>
+<div class="FormTitle_link"><a href="javascript:void();" onclick="OpenLoginSignupBox();">New user? FREE Sign Up</a></div>
+
+<div id="loginaccount">
+
+    <form action="#" method="post" name="loginform" id="loginform" class="loginform" onsubmit="xajax_ProcessLoginForm(xajax.getFormValues('loginform')); return false;">
+    
+    <div class="col1">
+    
+        <ul>
+        	<li>
+        		<label for="Email">Email</label>
+        		<input name="Email" id="Email" type="text">
+        	</li>
+        	<li>
+        		<label for="password">Password</label>
+        		<input name="Password" id="Password" type="password">
+        	</li>
+        </ul>
+        
+        <div class="row">
+            <span id="Login_form_msg" class="error_txt" style="margin:-5px"></span>        
+    	</div>
+    
+    </div>
+
+    <div class="col2">
+    
+        <div style="text-align:right;">&nbsp;&nbsp;
+        <input type="submit" class="submit_btn_1" value="Login">
+        </div>
+
+    </div>        
+        
+</form>        
+        
+</div>  
+            </div>
+            
+            <div id="cpanel_showresults" style="display:none"></div>  
+
+            <div id="cpanel_resultsdate_title">Results Date</div>
+            
+            <div id="cpanel_resultsdate">Friday Jun 15 00:00 GMT</div>
+
+            <div id="cpanel_clock_title">Submission End Date</div>
+            
+            <div id="cpanel_enddate">Thursday Jun 14 00:00 GMT</div>
+            
+            <div id="clock">
+              <p>
+                <span id="daysLeft"></span>
+                Days
+              </p>
+              <div class="space">:</div>
+              <p>
+                <span id="hours"></span>
+                Hours
+              </p>
+              <div class="space">:</div>
+              <p>
+                <span id="minutes"></span>
+                Minutes
+              </p>
+              <div class="space">:</div>
+              <p>
+                <span id="seconds"></span>
+                Seconds
+              </p>
+            </div>
+                                      
+        </div>
+    </div>
+    
+	<div id="bannerarea">
+		<img id="bingame_03" src="templates/images/bingame_03.jpg" width="972" height="164" alt="">
+        <a href="javascript:void();" onclick="OpenLoginSignupBox();" id="main_banner_signup"></a>
+    </div>
+
+
+	<div id="main">
+
+
+<script type="text/javascript">
+
+
+    jQuery(document).ready(function($) {
+        var auto_refresh = setInterval(
+            function() {
+                xajax_ShowResultsCounter();
+            }, 3000);
+    });                        
+        
+    
+</script>  
+    
+<div id="maincolumn">
+
+
+
+    <div class="redbox_tl"></div>
+    <div class="redbox_tm">
+        <div class="pagetitle">Privacy Policy</div>
+   </div>
+    <div class="redbox_tr"></div>
+    
+    <div id="redbox_m" style="height: 700px">
+
+        <div class="redbox_ml"></div>
+        <div class="redbox_mm">
+        
+        	<div id="maincontent" align="left">      
+                
+
+<!-- Main content //-->
+
+<br><br>
+
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+
+<ul>
+<li>Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.</li>
+
+<li>We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.</li>
+
+<li>We will only retain personal information as long as necessary for the fulfillment of those purposes.</li>
+
+<li>We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.</li>
+
+<li>Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.</li>
+
+<li>We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.</li>
+
+<li>We will make readily available to customers information about our policies and practices relating to the management of personal information.</li>
+
+<li>We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.</li>
+
+</ul>
+<br><br>
+                
+                
+<!-- End of main //-->                
+                
+                
+                
+            </div>    
+        
+        
+        </div>
+        <div class="redbox_mr"></div>
+    
+    </div> 
+       
+    <div class="redbox_bl"></div>
+    <div class="redbox_bm"></div>
+    <div class="redbox_br"></div>
+ 
+
+</div>
+
+
+<div id="rightcolumn">
+
+    <div class="box2_top">Index</div>
+    <div class="box2_middle">
+    
+        
+    	<table border="0" width="100%" cellpadding="5">
+
+<tbody><tr>
+    <td width="60" align="center"><img src="templates/images/btn_dn.png" border="0" width="59" height="23" alt="DOWN" title="DOWN"></td>
+    <td width="160" align="left">Click <span style="font-weight: bold; color: #D10801">1</span> if you think 
+    currency pair / asset will go <span style="font-weight: bold; color: #D10801">DOWN</span></td>
+</tr>
+
+<tr>
+    <td width="60" align="center"><img src="templates/images/btn_xi.png" border="0" width="59" height="23" alt="X-RANGE" title="X-RANGE"></td>
+    <td width="160" align="left">Click <span style="font-weight: bold; color: #333333">X</span> if you think 
+    currency pair / asset will remain <span style="font-weight: bold; color: #333333">WITHIN RANGE</span></td>
+</tr>
+
+<tr>
+    <td width="60" align="center"><img src="templates/images/btn_up.png" border="0" width="59" height="23" alt="UP" title="UP"></td>
+    <td width="160" align="left">Click <span style="font-weight: bold; color: #2F9B17">2</span> if you think 
+    currency pair / asset will go <span style="font-weight: bold; color: #2F9B17">UP</span></td>
+</tr>
+
+</tbody></table>
+
+<br>
+
+<a rel="shadowbox;width=640;height=480;player=swf" title="Binary Options Game" href="http://www.youtube.com/v/LdLOcPUa-SU?hl=en&amp;rel=0&amp;autoplay=1"><img src="templates/images/video.jpg" border="0" width="244" height="138"></a>
+
+        
+    </div>
+    <div class="box2_bottom"></div>
+
+<br>
+
+
+    <div class="box2_top">FAQ</div>
+    <div class="box2_middle">
+    	
+        <div class="content_title">How do I play?</div>
+
+<div>Simply predict the direction for the 15 different pairs and assets on the left, by clicking 
+<span style="font-weight: bold; color: #D10801">1 (DOWN)</span>, 
+<span style="font-weight: bold; color: #333333">X (WITHIN RANGE)</span> 
+or <span style="font-weight: bold; color: #2F9B17">2 (UP)</span>
+according to what you think the value of the pair or asset will be on the results date exact moment shown 
+on the top-right. Then click <strong>SUBMIT</strong>.
+</div>
+
+<br><br>
+<div class="content_title">When can I play?</div>
+
+<div>Participation in each game ends on the submission end date and time shown above. The countdown timer represents 
+the exact time left until the game is closed. All times are in GMT.
+<br>
+Each user is allowed only one participation per game.
+</div>
+
+<br><br>
+<div class="content_title">How &amp; what do I win?</div>
+
+<div>If on the results date and time, all of your 15 predictions are correct, you <strong>win USD 100,000</strong>. 
+Please note that in order to receive your prize your email, phone and age verification must all be accurate.</div>
+
+<br><br>
+<a href="faq.php"><strong>Learn more about how to play &gt;&gt;</strong></a>
+        
+    </div>
+    <div class="box2_bottom"></div>
+
+<br>
+<!--
+<img src="templates/images/banner_right.png" border="0" width="268" height="477">
+//-->
+</div>      
+
+	</div>
+        
+    <div id="footer">
+            <br><br>
+		<a href="/"><strong>Home</strong></a> | <a href="privacy.php"><strong>Privacy Policy</strong></a> | 
+        <a href="terms.pdf" target="_blank"><strong>Terms &amp; Conditions</strong></a> | <a href="rules.php"><strong>Game Rules</strong></a>
+    </div>	
+	
+</div>
+
+</div>
+
+    <br><br>    <br><br>    <br><br>    <br><br> <br><br>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22966001-2']);
+  _gaq.push(['_setDomainName', 'binaryoptionsgame.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+</body></html>
