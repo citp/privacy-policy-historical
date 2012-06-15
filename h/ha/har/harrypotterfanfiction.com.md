@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harrypotterfanfiction.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208234729id_/http%3A//www.harrypotterfanfiction.com/getinfo.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrypotterfanfiction.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615073500id_/http%3A//www.harrypotterfanfiction.com/getinfo.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
-# harrypotterfanfiction.com :: 72,000 Harry Potter fanfiction stories and podcasts
+# harrypotterfanfiction.com :: 74,000 Harry Potter fanfiction stories and podcasts
 
 | 
 
@@ -22,6 +22,6 @@ If you have any problem with privacy on this site, please use the [contact secti
 
 | 
 
-All stories remain the property of their authors and must not be copied in any form without their consent. This is an unofficial, not for profit site, and is in no way connected with J.K. Rowling, Scholastic Books or Bloomsbury Publishing or Warner Bros. It is not endorsed by any of the aforementioned parties. Rights to characters and their images is neither claimed nor implied. The use of photographs and/or the likeness of any person contained herein does not imply endorsement of any kind. Any depictions were obtained through publically available sources and therefore fall under fair use. Although we may provide links to other websites, we are not responsible for any material at these sites. You acknowledge that you link to these other websites at your own risk. **All original administrative content is copyright of the site owner and must not be copied in any form (electronic or otherwise) without the prior consent of the siteowner.** ©2000-2011 Fanfictionworld.net
+All stories remain the property of their authors and must not be copied in any form without their consent. This is an unofficial, not for profit site, and is in no way connected with J.K. Rowling, Scholastic Books or Bloomsbury Publishing or Warner Bros. It is not endorsed by any of the aforementioned parties. Rights to characters and their images is neither claimed nor implied. The use of photographs and/or the likeness of any person contained herein does not imply endorsement of any kind. Any depictions were obtained through publically available sources and therefore fall under fair use. Although we may provide links to other websites, we are not responsible for any material at these sites. You acknowledge that you link to these other websites at your own risk. **All original administrative content is copyright of the site owner and must not be copied in any form (electronic or otherwise) without the prior consent of the siteowner.** ©2000-2012 Fanfictionworld.net
 
 [[terms of service](http://www.harrypotterfanfiction.com/getinfo.php?page=tos)] [[report abuse](http://www.hpff.info/index.php?_m=tickets&_a=submit)] [[privacy policy](http://www.harrypotterfanfiction.com/getinfo.php?page=privacypolicy)] [[site credits](http://www.harrypotterfanfiction.com/getinfo.php?page=sitecredits)]
