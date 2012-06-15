@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roxy.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216211017id_/http%3A//www.roxy.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roxy.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615173556id_/http%3A//www.roxy.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_txt) for the most accurate reproduction.*
 
 # Roxy : Help Desk
 
@@ -6,9 +6,11 @@ We, Quiksilver, Inc. (referred to herein as "Roxy," "we," "us" and "our"), are s
 
 **WHAT INFORMATION DO WE COLLECT ABOUT YOU?**
 
-You can use [http://www.roxy.com](http://www.roxy.com/) or our affiliates' websites, (collectively, the "Website") without having an account. You can visit the Website, read articles and other materials, browse merchandise, and check on offerings without giving us any personally identifiable information. You can also contact us about a particular video, picture, audio file or other posting without having an account. Certain other activities on the Website, such as posting comments or product reviews and signing up to receive e-mail updates from Roxy and our affiliates and partners, do not require you to register for an account, but may require that you provide certain personal information such as your name and/or e-mail address. Still other activities, including purchasing products through the Website, require you to register for a user account. To register, you must create a user account, which requires you to provide your e-mail address and select a password. The password you select is used to protect your account from unauthorized access.
+You can use [www.roxy.com](http://www.roxy.com/) or our affiliate websites, (collectively, the "Website") without having an account. You can visit the Website, read articles and other materials, browse merchandise, and check on offerings without giving us any personally identifiable information. You can also contact us about a particular video, picture, audio file or other posting without having an account. Certain other activities on the Website, such as posting comments or product reviews and signing up to receive e-mail updates from Roxy and our affiliates and partners, do not require you to register for an account, but may require that you provide certain personal information such as your name and/or e-mail address. Still other activities, including purchasing products through the Website, require you to register for a user account. To register, you must create a user account, which requires you to provide your e-mail address and select a password. The password you select is used to protect your account from unauthorized access.
 
 Whether or not you register, in order to provide users and subscribers with the most efficient and enhanced personalized service and attention, we may request information about you in certain circumstances and collect certain information automatically. We also use contact lists and other information which are obtained from third-parties. For the convenience of all of our customers and to better serve you, we create and maintain a customer account that includes all the collected personal information we may have with respect to an individual. You can update or correct your contact information or change your preferences about receiving offers and information from us at any time, including changing your preferences about sharing information with third-parties.
+
+This Privacy Policy also applies to your use of any Roxy page, platform or application owned, manager or run by a third party, subject to such third party's applicable policies. 
 
 **Information You Volunteer**
 
@@ -122,13 +124,6 @@ We will occasionally update this Privacy Policy as necessary to protect our user
 **CONTACT INFORMATION**
 
 If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at [privacypolicy@roxy.com](mailto:privacypolicy@roxy.com). Please include the URL of the Website and/or specific page within the Website involved in your request.
-
-Or you can contact us by mail at:
-
-Quiksilver, Inc.  
-15202 Graham Street  
-Huntington Beach, CA 92649  
-Attn: Privacy Coordinator
 
 Or you can contact us by mail at:  
 Quiksilver, Inc.  
