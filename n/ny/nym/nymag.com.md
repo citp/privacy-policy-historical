@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nymag.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216085628id_/http%3A//nymag.com/newyork/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nymag.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161735id_/http%3A//nymag.com/newyork/privacy/index.html) for the most accurate reproduction.*
 
 # New York Magazine - Nymag.com - Privacy Policy
 
 **New York Media Privacy Policy – Highlights**
 
-The New York Media Privacy Policy describes the information that the New York Magazine, Grub Street and MenuPages websites (collectively, the “Sites” or “we”) collect about you, how we use that information, and the choices you can make about the uses of your personal information. This summary gives some highlights from our Privacy Policy, but you should read the whole [Privacy Policy](https://web.archive.org/newyork/privacy/index.html#target) to fully understand New York Media’s privacy practices.
+The New York Media Privacy Policy describes the information that the New York Magazine, Grub Street, Vulture and The Cut websites (collectively, the “Sites” or “we”) collect about you, how we use that information, and the choices you can make about the uses of your personal information. This summary gives some highlights from our Privacy Policy, but you should read the whole [Privacy Policy](https://web.archive.org/newyork/privacy/index.html#target) to fully understand New York Media’s privacy practices.
 
 **What Information Do We Collect?**
 
@@ -29,10 +29,10 @@ The New York Media Privacy Policy describes the information that the New York Ma
   * We may share your personal information with operational providers that help us fulfill certain business functions and with other third parties to comply with legal processes such as subpoenas and court orders and when we believe in good faith that the law requires the sharing of your personal information.
   
 
-  * We or our operational providers use information collected through cookies and other technologies to analyze site usage activity and patterns to help improve the Sites. <
+  * We or our operational providers use information collected through cookies and other technologies to analyze site usage activity and patterns to help improve the Sites. 
   
 
-  * Our third party advertising company partners may collect non-identifiable information derived from cookies and other technologies about your visits to our Sites. They may combine this information with data about your web activities at third party websites or with demographic information to identify your likely interests so that they and we can provide you with more useful and relevant advertisements. This is often called Behavioral Advertising. 
+  * Our third party advertising company partners may collect non-identifying information derived from cookies and other technologies about your visits to our Sites. They may combine this information with data about your web activities at third party websites or with demographic information to identify your likely interests so that they and we can provide you with more useful and relevant advertisements. This is often called Behavioral Advertising. 
 
 
 
@@ -76,14 +76,14 @@ What Choices Do I Have About How My Personal Information Is Used?
 What About Links to Third Party Websites?  
 Is My Personal Information Protected?  
 What About Changes to This Privacy Policy?  
-What if NYMag.com or MenuPages.com is Sold or Goes Out of Business?   
+What if NYMag.com, Vulture.com, GrubStreet.com or TheCut.com is Sold or Goes Out of Business?   
 What About Children’s Privacy?  
 How Can I Ask Questions or Raise Concerns?  
 [Terms of Usage Agreement ](https://web.archive.org/newyork/terms/index.html)
 
 **What Does This Privacy Policy Cover?**
 
-New York Media LLC (“New York Media”) owns and operates the New York Magazine ("NYMag.com"), Grub Street (“GrubStreet.com”) and the MenuPages websites (“MenuPages.com”) (collectively, the “Sites” or “we”). New York Media respects and values your privacy. We have created this Privacy Policy to describe the personal information we collect when you visit our Sites and how we use that information. This Privacy Policy applies to NYMag.com, GrubStreet.com and MenuPages.com. 
+New York Media LLC ("New York Media") owns and operates the New York Magazine ("NYMag.com"), Grub Street ("GrubStreet.com"), Vulture ("Vulture.com") and the The Cut ("TheCut.com") websites ("MenuPages.com") (collectively, the "Sites" or "we"). New York Media respects and values your privacy. We have created this Privacy Policy to describe the personal information we collect when you visit our Sites and how we use that information. This Privacy Policy applies to NYMag.com, GrubStreet.com, Vulture.com and MenuPages.com. 
 
 * * *
 
@@ -118,7 +118,7 @@ Our Sites also uses clear GIFs [Graphics Interchange Formats] (also known as pix
 You should review other website operators' privacy policies to determine the type and extent of tracking devices used at other websites you visit. 
 
 **Use and Collection of Information by Operational Providers**   
-For the convenience of our visitors, we may provide the opportunity to purchase certain goods, merchandise and services through this website (including, without limitation, on-line personals services). Companies other than NYMag.com, its parents, partners, affiliates or subsidiaries may handle some of these transactions. We call these companies that conduct our e-commerce operations, order fulfillment and/or contract services "operational providers." If you choose to use these optional services, our operational providers will request your personal information to fulfill your order or request. The voluntary submission of your personal information to these operational providers, including your order or request, will be governed by the specific provider's terms of usage and privacy policies. To facilitate an order or request, we may share your personal information with the provider. The operational provider may also share your personal information with us. We will store this information in our membership database. In most instances, we request that our operational providers adhere to the provisions in NYMag.com's Privacy Policy and that such providers only share visitors' personal information with NYMag.com, unless necessary to complete a visitor's request or order. We also request that these providers only use the personal information for the purpose of conducting the sale or fulfilling the requested service or order. However, you must read an operational provider's privacy policy to determine the extent of use and disclosure of your personal information collected online. NYMag.com, its parents, affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of operational providers, nor is the NYMag.com family responsible or liable for the products or services provided by operational providers. 
+For the convenience of our visitors, we may provide the opportunity to purchase certain goods, merchandise and services through this website (including, without limitation, on-line personals services). Companies other than New York Media, its parents, partners, affiliates or subsidiaries may handle some of these transactions. We call these companies that conduct our e-commerce operations, order fulfillment and/or contract services "operational providers." If you choose to use these optional services, our operational providers will request your personal information to fulfill your order or request. The voluntary submission of your personal information to these operational providers, including your order or request, will be governed by the specific provider's terms of usage and privacy policies. To facilitate an order or request, we may share your personal information with the provider. The operational provider may also share your personal information with us. We will store this information in our membership database. In most instances, we request that our operational providers adhere to the provisions in New York Media's Privacy Policy and that such providers only share visitors' personal information with New York Media, unless necessary to complete a visitor's request or order. We also request that these providers only use the personal information for the purpose of conducting the sale or fulfilling the requested service or order. However, you must read an operational provider's privacy policy to determine the extent of use and disclosure of your personal information collected online. New York Media, its parents, affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of operational providers, nor is New York Media responsible or liable for the products or services provided by operational providers. 
 
 * * *
 
@@ -166,7 +166,7 @@ We may periodically modify, alter or otherwise update this Privacy Policy. We ma
 
 * * *
 
-**What if NYMag.com, GrubStreet.com or MenuPages.com is Sold or Goes Out of Business?**
+**What if NYMag.com, GrubStreet.com, Vulture.com or TheCut.com is Sold or Goes Out of Business?**
 
 In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, New York Media reserves the right to transfer your personal information to the new party in control or the party acquiring assets.
 
