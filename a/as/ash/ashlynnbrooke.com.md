@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashlynnbrooke.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002620id_/http%3A//www.ashlynnbrooke.com/tour1/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashlynnbrooke.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161717id_/http%3A//www.ashlynnbrooke.com/tour1/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Ashlynn Brooke.com! - Privacy
 
