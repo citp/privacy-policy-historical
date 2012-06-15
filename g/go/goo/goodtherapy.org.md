@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodtherapy.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010737id_/http%3A//www.goodtherapy.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodtherapy.org privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616001920id_/http%3A//www.goodtherapy.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ The last update to our Privacy Policy was posted on October 26, 2011. This Priva
 
 GoodTherapy.org collects information from our users at several different points on our Website.
 
-(A) GoodTherapy.org records the Name, Phone (optional), Email, and Message when a site visitor sends an email to a therapist through the GoodTherapy.org messaging center. This information is kept confidential and no one except the therapist(s,) to whom a site visitor sends the email to, can see this information. However, GoodTherapy.org never rents, sells or gives this information to any third party. When site visitor emails a therapist through our internal messaging system, the site visitor is conveniently and automatically emailed a notification when the therapist is contacted. Additionally, when site visitors email a therapist through our internal messaging system, they are automatically subscribed to our monthly email newsletter. Users may unsubscribe from this newsletter by completing the form found [here](https://web.archive.org/unsubscribe.html).
+(A) GoodTherapy.org records the Name, Phone (optional), Email, and Message when a site visitor sends an email to a therapist through the GoodTherapy.org messaging center. This information is kept confidential and no one except trained GoodTherapy.org support team members (for the purpose of moderating for spam or other content that is in violation of GoodTherapy.org terms of service), and the therapist(s) to whom a site visitor sends the email to, can see this information. This information is kept confidential and no one except the therapist(s,) to whom a site visitor sends the email to, can see this information. However, GoodTherapy.org never rents, sells or gives this information to any third party. When site visitor emails a therapist through our internal messaging system, the site visitor is conveniently and automatically emailed a notification when the therapist is contacted. Additionally, when site visitors email a therapist through our internal messaging system, they are automatically subscribed to our monthly email newsletter. Users may unsubscribe from this newsletter by completing the form found [here](https://web.archive.org/unsubscribe.html).
 
 (B) GoodTherapy.org collects information entered by therapists when they register (or try to register) for membership or public membership. The information about the therapist's practice is made public and can be viewed in any therapist profile. The other information (including but not limited to username, email address, password, etc) is kept private in a database and may be used by our internal departments if needed (such as debugging errors or analyzing outcome of marketing campaigns). However, GoodTherapy.org never rents, sells or gives this information to any third party.
 
@@ -75,3 +75,5 @@ If we decide to amend our privacy policy, we will update this page so our users 
 **Questions About Our Privacy Practices or This Privacy Policy**
 
 If you have any questions or suggestions about our Privacy Practices or this Privacy Policy, please [contact us](https://web.archive.org/contact-us.html).
+
+**Last Update:** 10-26-2011
