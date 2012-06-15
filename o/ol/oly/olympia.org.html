@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the olympia.org privacy policy that was archived on 2011-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216111456id_/http%3A//socs.fes.org/vnews/display.v%3Fpage%3Dprivacy_pledge) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the olympia.org privacy policy that was archived on 2012-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616012846id_/http%3A//socs.fes.org/vnews/display.v%3Fpage%3Dprivacy_pledge) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>SOCS</title>
@@ -15,6 +15,8 @@
     <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/default/screen/calendarHighlights.css">
 
           <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/default/screen/mainPage.css">
+      <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/default/screen/twitterFeed.css">
+
     
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
     <script type="text/javascript" src="/javascripts/L9/L9.js"></script>
@@ -85,28 +87,50 @@ var allowed_section_ids = ""
             <a href="http://www.socs-hero.org/vnews/display.v/SEC/Contact Us" title="">Contact Us</a>
           </li>
                                 <li>
-            <a href="http://www.socs-hero.org/vnews/display.v/ART/4cd05cc6358db" title="E-rate Funding for SOCS">E-rate</a>
+            <a href="http://www.socs-hero.org/vnews/display.v/ART/4f3a97943aada" title="E-rate Funding for SOCS">E-Rate</a>
+          </li>
+                                <li>
+            <a href="/vcalendar" title="" target="_blank">Events</a>
           </li>
                   </ul>
   </div>
 
       
   
+  
     
   
 
-      <div id="mastheads">
-              <img src="/pages/mastheads/SOCS_rotator01.jpg" alt="masthead_image_0">
-              <img src="/pages/mastheads/SOCS_rotator02.jpg" alt="masthead_image_1">
-              <img src="/pages/mastheads/SOCS_rotator03.jpg" alt="masthead_image_2">
-              <img src="/pages/mastheads/SOCS_rotator04.jpg" alt="masthead_image_3">
-              <img src="/pages/mastheads/SOCS_rotator05.jpg" alt="masthead_image_4">
-          </div>
+      <div id="mastheads"></div>
 
     <script type="text/javascript">
       (function($){
+        function shuffle(arr) {
+          for (
+            var j, x, i = arr.length; i;
+            j = parseInt(Math.random() * i),
+            x = arr[--i], arr[i] = arr[j], arr[j] = x
+          );
+          return arr;
+        }
+
+        var cnt = 0;
+        var $mastheads = $("#mastheads");
+        var imgs = [
+                      "/pages/mastheads/SOCS_rotator01.jpg"
+            ,                      "/pages/mastheads/SOCS_rotator02.jpg"
+            ,                      "/pages/mastheads/SOCS_rotator03.jpg"
+            ,                      "/pages/mastheads/SOCS_rotator04.jpg"
+            ,                      "/pages/mastheads/SOCS_rotator05.jpg"
+                              ];
+        
+        if (imgs.length > 10) cnt = 10; else cnt = imgs.length;
+
+        for (var i=0; i<cnt; i++) {
+          $mastheads.append('<img src="' + imgs[i] + '" alt="masthead_image_' + i + '" \/>');
+        }
+
         $(function() {
-          var $mastheads = $("#mastheads");
           if ($mastheads.length) {
             $mastheads.nivoSlider({
               effect: 'random',
@@ -127,7 +151,6 @@ var allowed_section_ids = ""
       </div>
     <div id="body">
               
-
 
 
 
@@ -179,17 +202,17 @@ var allowed_section_ids = ""
                                                                 <li>
                     <a href="/vnews/display.v/SEC/About%20Us"><span>About Us</span></a>
                   </li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </ul></div>
+                                                                                                                                                                                                                                                                                                                                                                            </ul></div>
           <div class="bFive"></div>
         </li>
                       
                       
                       
                       
-                                                                                                      </ul>
+                                                                        </ul>
 <h4 class="hiddenNav"><a href="#top">Top</a></h4>
 
-                                                
+                                      
         <div id="mpContainer" class="clearfix noSectionImages">
             <div id="topBanner">
     
@@ -305,7 +328,7 @@ Persistent cookies help a site remember individuals as a previous visitor and ca
     </p>
     <script type="text/javascript">
       document.write('<input type="hidden" name="href" value="' + escape(location.href) + '" />');
-    </script><input type="hidden" name="href" value="https%3A//web.archive.org/web/20111216111456id_/http%253A//socs.fes.org/vnews/display.v%253Fpage%253Dprivacy_pledge">
+    </script><input type="hidden" name="href" value="https%3A//web.archive.org/web/20120616012846id_/http%253A//socs.fes.org/vnews/display.v%253Fpage%253Dprivacy_pledge">
   </form>
 </div>
       
@@ -317,7 +340,7 @@ Persistent cookies help a site remember individuals as a previous visitor and ca
 </p>
 
 <p id="copyRight">
-  <span class="first">© 2011 Simplified Online Communication System</span>
+  <span class="first">© 2012 Simplified Online Communication System</span>
   <span><a href="http://socs.fes.org/vnews/display.v?page=accessibility_statement" target="_blank" accesskey="0">Accessibility</a></span>
   <span><a href="http://socs.fes.org/vnews/display.v?page=privacy_pledge" target="_blank">Privacy Pledge</a></span>
   <span><a href="http://ocs.ispi.net" target="_blank">Powered by OCS</a></span>
