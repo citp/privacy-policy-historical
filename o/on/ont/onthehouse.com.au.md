@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthehouse.com.au privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209072414id_/http%3A//www.onthehouse.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthehouse.com.au privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615200707id_/http%3A//www.onthehouse.com.au/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - onthehouse.com.au
 
@@ -57,9 +57,8 @@ onthehouse uses personal information for the primary purpose for which it was co
 
 If you are an advertiser on www.onthehouse.com.au your information is held confidentially in a secure (see security) database. Some of your information will be published in your advertisement, in accordance with your instructions and for the period during which your advertisement is active. Your information is only accessible for alterations by you in your capacity as advertiser or by approved onthehouse staff. It is the advertiser's responsibility to ensure that their details on the onthehouse website are current and correct. 
 
-Security & Scam Alert: Do not provide your log in details to anyone in response to email or phone requests. Click here for more information. 
+Security & Scam Alert: Do not provide your log in details to anyone in response to email or phone requests.   
 
-### Browsers 
 
 ### Privately Advertised Property Enquiries
 
@@ -125,4 +124,4 @@ onthehouse will respond to your query or complaint as soon as possible.
 
 onthehouse reserves the right to change this Privacy Policy at any time. onthehouse will notify any changes by posting an updated version of the Privacy Policy on the website.
 
-_Based on information provided by and with the permission of the Western Australian Land Information Authority (2011) trading as Landgate._
+_Based on information provided by and with the permission of the Western Australian Land Information Authority (2012) trading as Landgate._
