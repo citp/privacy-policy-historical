@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the broderbund.com privacy policy that was archived on 2011-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201012808id_/http%3A//www.broderbund.com/c-18-privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the broderbund.com privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615165818id_/http%3A//www.broderbund.com/c-18-privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -23,21 +23,39 @@
     <link rel="shortcut icon" href="../../images/broderbund/favicon.ico">
     <link rel="stylesheet" href="skins/Skin_1/min_style.css" type="text/css">
     <link rel="stylesheet" href="skins/Skin_1/min_broderbund.css" type="text/css">
+	<!--[if IE]>
+	<link rel="stylesheet" href="skins/Skin_1/ie.css" type="text/css" />
+	<![endif]-->
     <script type="text/javascript" src="jscripts/formValidate.js"></script>
 	<script type="text/javascript" src="jscripts/B2C/min_jquery.js"></script>
-	<script type="text/javascript"> 
-        $(document).ready(function(){ 
-            $("ul.category").subMenu({ 
-                animation: {height:'show'},   // slide-down effect without fade-in 
-                delay:     1200               // 1.2 second delay on mouseout 
-            }); 
-        }); 
+	<script type="text/javascript" src="jscripts/B2C/ShippingUpdate.js"></script>
+	<script type="text/javascript">
+	    $(document).ready(function () {
+	        $("ul.category").subMenu({
+	            animation: { height: 'show' },   // slide-down effect without fade-in 
+	            delay: 1200               // 1.2 second delay on mouseout 
+	        });
+	    }); 
     </script>
 
     <script type="text/javascript">
-	    //BEGIN Google Analytics
-	    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        function replaceSearch() {
+            $('#searchBox')[0].value = $('#searchBox')[0].value.replace('printshop', 'print shop');
+            $('#searchBox')[0].value = $('#searchBox')[0].value.replace('creatacard', 'printmaster');
+            $('#searchBox')[0].value = $('#searchBox')[0].value.replace('labels', 'print shop 3.0');
+            $('#searchBox')[0].value = $('#searchBox')[0].value.replace('american greetings', 'printshop');
+            $('#searchBox')[0].value = $('#searchBox')[0].value.replace('american greetings creatacard', 'printshop');
+            $('#searchBox')[0].value = $('#searchBox')[0].value.replace('american greeting', 'printmaster');
+            $('#searchBox')[0].value = $('#searchBox')[0].value.replace('print master', 'printmaster');
+            $('#searchBox')[0].value = $('#searchBox')[0].value.replace('avery templates', 'print shop 3');
+            $('#searchBox')[0].value = $('#searchBox')[0].value.replace('avery', 'print shop 3');
+        }
+    </script>
+
+    <script type="text/javascript">
+        //BEGIN Google Analytics
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
     
@@ -112,8 +130,6 @@
         <!--li class="broderbund" title="Broderbund.com - Official Software Site | The Print Shop | PrintMaster | Mavis Beacon"><a class="site_on" nohref="">Broderbund</a></li-->
         <li class="encore" title="Encore.com - Corporate Site | Download Games and Software"><a href="http://www.encore.com">Encore</a></li>
         <li class="hoyle" title="Hoylegaming.com | Download Card Games | Casino Games | Puzzle Games | Board Games"><a href="http://www.hoylegaming.com">Hoyle Gaming</a></li>
-        <li class="king" title="King of Cheap Games"><a href="http://www.kingofcheapgames.com">King of Cheap Games</a></li>
-        <li class="printshop" title="Printshop.com | Create Professional Print and Design Projects "><a href="http://www.printshop.com">The Print Shop</a></li>
         <li class="punchsoftware" title="PunchSoftware.com - Home Design Software | Landscape Design | Kitchen Design"><a href="http://www.punchsoftware.com">Punch Software</a></li>
         <li class="punchcad" title="PunchCAD.com - Professional CAD Software | Mac CAD | ViaCAD | Shark CAD"><a href="http://www.punchcad.com">Punch CAD</a></li>
         <li class="support" title="Encore Support Site"><a href="http://support.encore.com"></a></li>
@@ -180,16 +196,14 @@
             
             <div class="breadcrumb">
                 <div class="breadcrumb_nav"><a class="breadcrumb_link" href="/">Home</a></div><div class="breadcrumb_arrow"></div><div class="breadcrumb_current">Privacy Policy</div>
-				<div class="plusone">
-					<g:plusone count="false" callback="plusone_vote"></g:plusone>
-				</div>
+				
             </div>
             
             <div id="separatorSearch">
                 <form name="topsearchform" method="get" action="search.aspx">
                 <fieldset>
-                    <input id="searchBox" type="text" size="15" name="SearchTerm" class="searchBox" value="Search Broderbund" autocomplete="off" onfocus="clearsearch(this);">
-                    <input id="btnSearch" type="button" title="Click Go to Submit" class="Go" value="">
+                    <input id="searchBox" onkeypress="replaceSearch();" type="text" size="15" name="SearchTerm" class="searchBox" value="Search Broderbund" autocomplete="off" onfocus="clearsearch(this);">
+                    <input id="btnSearch" type="button" title="Click Go to Submit" onclick="replaceSearch();" class="Go" value="">
                 </fieldset>
                 </form>
             </div>
@@ -218,7 +232,7 @@
       <li>&nbsp;&nbsp;<a href="c-87-small-business-legal.aspx">Small Business &amp; Legal</a></li>
     </ul>
   </li>
-  <li class="category_list category_2"><a href="c-23-shop-by-brand.aspx" class="sf-with-ul">Shop by Brand<span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span></a><ul class="sub_category" style="display: none; visibility: hidden;">
+  <li class="category_list category_2"><a href="c-23-shop-by-brand.aspx" class="sf-with-ul">Shop By Brand<span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span></a><ul class="sub_category" style="display: none; visibility: hidden;">
       <li>&nbsp;&nbsp;<a href="c-66-all-brands.aspx">All Brands</a></li>
       <li>&nbsp;&nbsp;<a href="c-31-the-print-shop.aspx">The Print Shop</a></li>
       <li>&nbsp;&nbsp;<a href="c-32-printmaster.aspx">PrintMaster</a></li>
@@ -233,26 +247,30 @@
       <li>&nbsp;&nbsp;<a href="c-84-clip-art.aspx">Clip Art</a></li>
     </ul>
   </li>
-  <li class="category_list category_4"><a href="c-7-do-it-yourself.aspx">Do it Yourself</a></li>
-  <li class="category_list category_5"><a href="c-72-dvd-collections.aspx">DVD Collections</a></li>
-  <li class="category_list category_6"><a href="c-9-education.aspx">Education</a></li>
-  <li class="category_list category_7"><a href="c-11-games-entertainment.aspx">Games &amp; Entertainment</a></li>
-  <li class="category_list category_8"><a href="c-13-home-landscape.aspx">Home &amp; Landscape</a></li>
-  <li class="category_list category_9"><a href="c-14-legal-solutions.aspx">Legal Solutions</a></li>
-  <li class="category_list category_10"><a href="c-21-security-utilities.aspx">Security &amp; Utilities</a></li>
-  <li class="category_list category_11"><a href="c-50-business-home-office.aspx">Business &amp; Home Office</a></li>
-  <li class="category_list category_12"><a href="c-28-typing-keyboarding.aspx">Typing &amp; Keyboarding</a></li>
-  <li class="category_list category_13"><a href="c-8-downloads.aspx">Downloads</a></li>
-  <li class="category_list category_14"><a href="c-55-free-downloads.aspx">Free Downloads</a></li>
-  <li class="category_list category_15"><a href="c-16-mac-software.aspx">Mac Software</a></li>
-  <li class="category_list_sale category_16"><a href="c-17-on-sale-now.aspx" class="sf-with-ul">On Sale Now<span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span></a><ul class="sub_category" style="display: none; visibility: hidden;">
-      <li>&nbsp;&nbsp;<a href="c-64-all-products-on-sale.aspx">All Products On Sale</a></li>
-      <li>&nbsp;&nbsp;<a href="c-37-10-under.aspx">$10 &amp; Under</a></li>
-      <li>&nbsp;&nbsp;<a href="c-79-software-clearance.aspx">Software Clearance</a></li>
+  <li class="category_list_sale category_4"><a href="c-17-sale-clearance.aspx" class="sf-with-ul">Sale &amp; Clearance<span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span></a><ul class="sub_category" style="display: none; visibility: hidden;">
+      <li>&nbsp;&nbsp;<a href="c-61-on-sale-now.aspx">On Sale Now</a></li>
+      <li>&nbsp;&nbsp;<a href="c-56-games-clearance.aspx">Games Clearance</a></li>
+      <li>&nbsp;&nbsp;<a href="c-64-software-clearance.aspx">Software Clearance</a></li>
     </ul>
   </li>
-  <li class="category_list category_17"><a href="c-49-all-products.aspx">All Products</a></li>
-  <li class="category_list category_18"><a href="c-12-great-for-gifts.aspx">Great for Gifts</a></li>
+  <li class="category_list category_5"><a href="c-7-do-it-yourself.aspx">Do it Yourself</a></li>
+  <li class="category_list category_6"><a href="c-98-dvd-video.aspx">DVD &amp; Video</a></li>
+  <li class="category_list category_7"><a href="c-9-education.aspx">Education</a></li>
+  <li class="category_list category_8"><a href="c-99-for-dummies.aspx">For Dummies</a></li>
+  <li class="category_list category_9"><a href="c-11-games-entertainment.aspx" class="sf-with-ul">Games &amp; Entertainment<span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span></a><ul class="sub_category" style="display: none; visibility: hidden;">
+      <li>&nbsp;&nbsp;<a href="c-102-featured-games.aspx">Featured Games</a></li>
+      <li>&nbsp;&nbsp;<a href="c-57-games-clearance.aspx">Games Clearance</a></li>
+    </ul>
+  </li>
+  <li class="category_list category_10"><a href="c-13-home-landscape.aspx">Home &amp; Landscape</a></li>
+  <li class="category_list category_11"><a href="c-14-legal-solutions.aspx">Legal Solutions</a></li>
+  <li class="category_list category_12"><a href="c-50-business-home-office.aspx">Business &amp; Home Office</a></li>
+  <li class="category_list category_13"><a href="c-28-typing-keyboarding.aspx">Typing &amp; Keyboarding</a></li>
+  <li class="category_list category_14"><a href="c-8-downloads.aspx">Downloads</a></li>
+  <li class="category_list category_15"><a href="c-55-free-downloads.aspx">Free Downloads</a></li>
+  <li class="category_list category_16"><a href="c-16-mac-software.aspx">Mac Software</a></li>
+  <li class="category_list category_17"><a href="c-12-great-for-gifts.aspx">Great for Gifts</a></li>
+  <li class="category_list category_18"><a href="c-49-all-products.aspx">All Products</a></li>
 </ul>
 <div id="category_bottom"></div>
                 </div>
@@ -280,6 +298,7 @@
                 </div>
             </div>
             <div id="B2C_Content">
+                <a name="top"></a>
                 <!-- CONTENTS START -->
                 <!-- XmlPackage: entity.b2c.page.static.xml.config -->
 <!-- CacheEntityPageHTML --><h1>Privacy Policy</h1>
@@ -597,6 +616,67 @@ If you have any questions, comments, or concerns regarding this Privacy Policy o
                 </div>
             </div>
         </div>
+		<div id="B2C_SubFooter">
+			<div class="clearboth"></div>
+<div id="footer2">
+	<div class="one_fifth">
+		<div class="footerItem">
+			<a href="c-30-works-with-windows-7.aspx"><strong>Windows 7 Software</strong></a><br>
+			<a href="c-74-design-print-software.aspx">Design &amp; Print Software</a><br>
+			<a href="c-86-home-family-educational.aspx">Educational Software</a><br>
+			<a href="c-85-games-entertainment.aspx">Games &amp; Entertainment</a><br>
+			<a href="p-220-home-business-lawyer-2011.aspx">Legal Documents</a><br>
+			<a href="p-116-calendar-creator-deluxe-v121.aspx">Personalized Calendars</a><br>
+			<a href="p-177-scrapbook-boutique.aspx">Scrapbook Design</a>
+		</div>
+	</div>
+	<div class="one_fifth">
+		<div class="footerItem">
+			<a href="c-23-shop-by-brand.aspx"><strong>Shop By Brand</strong></a><br>
+			<a href="c-31-the-print-shop.aspx">The Print Shop</a><br>
+			<a href="c-32-printmaster.aspx">PrintMaster</a><br>
+			<a href="c-33-mavis-beacon.aspx">Mavis Beacon</a><br>
+			<a href="c-34-calendar-creator.aspx">Calendar Creator</a><br>
+			<a href="c-35-clickart.aspx">ClickArt</a><br>
+			<a href="c-36-hoyle.aspx">Hoyle</a>
+		</div>	
+	</div>
+	<div class="one_fifth">
+		<div class="footerItem">
+			<a href="c-7-do-it-yourself.aspx"><strong>Do it Yourself</strong></a><br>
+			<a href="p-278-the-print-shop-30-professional.aspx">Business Card Software</a><br>
+			<a href="p-220-home-business-lawyer-2011.aspx">Family Lawyer</a><br>
+			<a href="p-128-lineage-family-tree-software.aspx">Family Tree Software</a><br>
+			<a href="p-273-printmaster-2012-platinum.aspx">Greeting Card Software</a><br>
+			<a href="p-237-home-landscape-design-premium-nexgen3.aspx">Home Design Software</a><br>
+			<a href="p-173-logo-design-studio-pro.aspx">Logo Design</a>			
+		</div>	
+	</div>
+	<div class="one_fifth">
+		<div class="footerItem">
+			<a href="c-11-games-entertainment.aspx"><strong>Entertainment</strong></a><br>		
+			<a href="p-258-comedy-classics-100-movie-pack.aspx">Comedy Classics</a><br>
+			<a href="c-72-dvd-collections.aspx">DVD Collections</a><br>
+			<a href="p-281-hoyle-card-games-2012.aspx">Hoyle Card Games</a><br>
+			<a href="p-279-hoyle-puzzle-and-board-games-2012.aspx">Hoyle Board Games</a><br>
+			<a href="p-280-hoyle-casino-games-2012.aspx">Hoyle Casino Games</a><br>
+			<a href="p-212-the-definitive-tv-western-collection.aspx">Western Collection</a>
+		</div>	
+	</div>
+	<div class="one_fifth last">
+		<div class="footerItem endItem">
+			<a href="c-9-education.aspx"><strong>Education</strong></a><br>
+			<a href="p-34-where-in-the-world-is-carmen-sandiego.aspx">Carmen Sandiego</a><br>
+			<a href="search.aspx?SearchTerm=instant+immersion">Instant Immersion</a><br>
+			<a href="p-56-oregon-trail-5th-edition-pc.aspx">Oregon Trail</a><br>
+			<a href="search.aspx?SearchTerm=reader+rabbit">Reader Rabbit</a><br>
+			<a href="p-180-mavis-beacon-teaches-typing-platinum-25th-anniversary-edition.aspx">Typing Software</a><br>
+			<a href="p-121-mavis-beacon-keyboarding-kidz.aspx">Typing Software for Kids</a>			
+		</div>	
+	</div>
+  <div class="clearboth"></div>
+</div>
+		</div>
         <div id="B2C_Footer">
             <div id="footerMenu">
 							<div id="footer_support"><strong class="footer_link_heading">Support</strong><br>
@@ -620,23 +700,20 @@ If you have any questions, comments, or concerns regarding this Privacy Policy o
 <a href="c-4-contact-us.aspx" title="Software Company">Contact Us</a><br>
 <a href="sitemap.aspx" title="Typing Software">Site Map</a><br>
 </div>
-<div id="footer_hours">Call <strong>1-800-395-0277</strong> to place an order<br>
+<div id="footer_hours">Call <strong>800-395-0277</strong> to place an order<br>
 Canadian customers call 763-450-2466<br>
 8am - 5pm (CST)</div>
 
 						</div>
 
             <div id="footerHTMLContent1">
-                <div id="footer_copyrighttext">
-© 2011 <a href="http://www.encore.com" target="_blank">Encore, Inc.</a>, and its licensors. All Rights Reserved.
-</div>
-<div id="footer_ssl_site_seal">
-<!--  GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. -->
-<script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
-<!-- end  GeoTrust Smart Icon tag --> 
-</div>
-<div style="CLEAR: both"></div>
+                <div id="footer_copyrighttext">© 2012 <a href="http://www.encore.com" target="_blank">Encore, Inc.</a>, and its licensors. All Rights Reserved. </div>
+    <div id="footer_ssl_site_seal"><!--  GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. -->
+    <script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+    <!-- end  GeoTrust Smart Icon tag --></div>
+    <div style="CLEAR: both"></div>
                 
+                <div class="g-plusone" data-annotation="inline" data-href="http://www.broderbund.com"></div>
             </div>
         </div>
     </div>
@@ -658,28 +735,11 @@ pageTracker._trackPageview();
 	};
 </script><script type="text/javascript" src="//edge.quantserve.com/quant.js"></script><noscript><img src="//pixel.quantserve.com/pixel/p-9arJLE1Gxnn_s.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"></noscript>  
 <!-- End Quantcast tag -->
-<!-- Start of StatCounter Code -->
-	<script type="text/javascript">
-	var sc_project=7065335; 
-	var sc_invisible=1; 
-	var sc_security="22c83ff8"; 
-	var sc_https=1; 
-	var sc_remove_link=1; 
-	var scJsHost = (("https:" == document.location.protocol) ?
-	"https://secure." : "http://www.");
-	document.write("<sc"+"ript type='text/javascript' src='" +
-	scJsHost +
-	"statcounter.com/counter/counter_xhtml.js'></"+"script>");</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter_xhtml.js"></script>
-
-	<noscript><div class="statcounter"><img class="statcounter"
-	src="https://c.statcounter.com/7065335/0/22c83ff8/1/"
-	alt="godaddy counter" /></div></noscript>
-<!-- End of StatCounter Code -->
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script type="text/javascript">
-  function plusone_vote( obj ) {
-    _gaq.push(['_trackEvent','plusone',obj.state]);
-  }
+    function plusone_vote(obj) {
+        _gaq.push(['_trackEvent', 'plusone', obj.state]);
+    }
 </script>
 
 <script type="text/javascript" src="jscripts/B2C/jquery-ui.min.js"></script>
