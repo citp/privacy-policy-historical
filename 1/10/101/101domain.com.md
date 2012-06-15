@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 101domain.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219060331id_/http%3A//www.101domain.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101domain.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615034430id_/http%3A//www.101domain.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Domain Name Registration
 
