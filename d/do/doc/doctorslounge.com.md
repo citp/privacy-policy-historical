@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorslounge.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011240id_/http%3A//www.doctorslounge.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorslounge.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615101550id_/http%3A//www.doctorslounge.com/privacy.htm) for the most accurate reproduction.*
 
 # medical jobs forum chat SMS tutorials apps - The Doctors Lounge(TM)
 
@@ -7,8 +7,7 @@
 |    **[]()**  
 ---|---  
   
-  
-
+ 
 
 * * *
 
@@ -57,7 +56,7 @@ Participate in **editorial activities** (publish, peer review, edit) and give a 
 
 Click on the link below to see the requirements:
 
-**[Doctors Lounge Membership Application](https://web.archive.org/web/20111102011240id_/http%3A//www.doctorslounge.com/member.htm)**  
+**[Doctors Lounge Membership Application](https://web.archive.org/web/20120615101550id_/http%3A//www.doctorslounge.com/member.htm)**  
   
 * * *  
   
