@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netbuffs.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216112404id_/http%3A//netbuffs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netbuffs.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615130808id_/http%3A//netbuffs.com/privacy) for the most accurate reproduction.*
 
 # NetBuffs.com - Privacy Policy
 
