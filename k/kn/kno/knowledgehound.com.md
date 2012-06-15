@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgehound.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102123702id_/http%3A//knowledgehound.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgehound.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615201151id_/http%3A//www.knowledgehound.com/privacy.htm) for the most accurate reproduction.*
 
 # Knowledge Hound Privacy Policy
 
