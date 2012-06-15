@@ -1,111 +1,116 @@
-> *The following text is extracted and transformed from the state.mi.us privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222165827id_/http%3A//www.michigan.gov/som/0%2C4669%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.mi.us privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615194105id_/https%3A//www.michigan.gov/som/0%2C4669%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
 
 # SOM - Michigan Privacy Policy
 
-**Scope**
+Thank you for visiting Michigan.gov, the official website for the State of Michigan.
 
-Michigan maintains this web site as a public service. The following is the privacy policy regarding this site. 
+**Terms of Use** ****
 
-_The Collection and Use of Information_
+The Michigan.gov portal is provided as a public service and is owned and operated by the State of Michigan (the State).
 
-Michigan collects information from you under the following two circumstances: 
+If you visit Michigan.gov, you agree to these terms and policies. 
 
-  * Information Collected Automatically - Some information is collected from you automatically when you view Michigan pages and download information. This may include your Internet Protocol address assigned by your Internet Service Provider, domain name and the type of browser and operating system you used, the date and time you accessed Michigan's site, the pages you requested and visited, and the site you linked from to reach Michigan. Michigan uses this type of information to statistically measure site traffic and to improve the web site. The information is not reviewed on an individual basis but is aggregated with other users for comparison purposes.
-  * Information Voluntarily Submitted - Additional information may be collected from you if you opt-in or voluntarily provide it in order to: 
-    1. fulfill a request for on-line services or
-    2. choose to personalize the site (register for a Michigan account).
+All content on Michigan.gov is the property of the State or its content suppliers and is protected by intellectual property laws. 
 
-Michigan uses the information you voluntarily provide to tailor our site to your needs and preferences and to provide the on-line services you are requesting. The type of information we collect will vary with the service being sought and may include your name, address, phone number, e-mail address, social security or federal identification number, credit card number and expiration date, and/or driver license number. If you simply wish to view pages on Michigan's site, or conduct transactions, you do not need to personalize the site by registering for an account. _Cookies_
+Michigan.gov is for personal and non-commercial use only.  You may not modify, copy, distribute, display, reproduce, publish, license, create derivative works from, sell, or transfer information, products, or services obtained from Michigan.gov unless the law otherwise provides or the State gives you prior written permission.
 
-In order to customize your browsing experience, Michigan uses "cookies". Cookies allow information to change as you navigate through the pages of a web site. Two types of cookies can be used, "session-only" and "persistent". Michigan uses cookies in the following ways: 
+Use of content, images, designs, or logos from Michigan.gov on another website or on a networked computer environment is prohibited, except as permitted under the Linking Policy, or if the State gives you prior written permission.
 
-  1. If you wish to access State information but do not want to personalize the site, Michigan uses session-only cookies to reserve some storage on your computer in order to take your query and pass it along to the page that will serve up the information you request. The session-only cookies are erased either during web browser operation or after your web browser is shut down.
-  2. If you wish to conduct on-line transactions but do not want to personalize the site, Michigan uses session-only cookies to process your request. The type of information voluntarily submitted to fulfill your request varies by transaction and may include your name, address, phone number, e-mail address, social security or federal identification number, credit card number and expiration date, and/or driver license number.
-  3. If you choose to register with Michigan to personalize the site and wish to be remembered, Michigan uses permanent cookies that remain on your computer's hard drive as small text files. These permanent cookies allow Michigan to recognize you when you return to our site. When you register with Michigan, we ask you to identify yourself by your name and email address. This allows Michigan to customize the presentation of information for you based upon what you have asked for and/or voluntarily provided during previous visits. Michigan only uses permanent cookies with the permission of the user.
-  4. If you choose to register with Michigan to personalize the site but do not wish to be remembered, Michigan uses session cookies that are destroyed when you close your browser.
+You may not use Michigan.gov or any of its content for any purpose that is unlawful or to solicit the performance of any illegal activity or other activity that infringes upon the rights of the State or others.
 
-Michigan has links to other web sites outside of state government. When you link to one of these sites, Michigan cannot control their use of cookies and this privacy policy will not apply. [View the Michigan Linking Policy](http://www.michigan.gov/emi/1,1303,7-102----LP,00.html). 
-
-If you choose to do so, you can configure your browser to notify you when a new cookie is received. You can also prevent your browser from accepting any new cookies, view and delete existing cookies or disable cookies altogether. Directions for controlling cookies. 
-
-_Information Sharing and Disclosure_
-
-Michigan will only send personal information about you to others when: 
-
-  * we have your consent to share the information; or
-  * we need to share your information to provide the product or service you have requested; or
-  * we are authorized to do so by law (e.g., to respond to subpoenas, court orders, legal process, or to requests pursuant to a statute requiring or permitting disclosure such as the Freedom of Information Act. MCL 15.231, et seq.: MSA 4.1801(1) et seq.)
-
-_Editing and Deleting Your Account Information_
-
-You will be able to edit your Michigan account information and preferences at any time. You may delete your Michigan account by accessing the "Update My Profile" button and selecting "Delete Profile". 
-
-_Changes to this Privacy Policy_
-
-Michigan may amend this policy from time to time. Michigan will prominently display on this website any substantial change in the way we use your personal information. 
-
-_Directions for Controlling Cookies:_
-
-Using Internet Explorer to Control Which Cookies You Accept: 
-
-If you are using Internet Explorer 5.0: 
-
-  1. Choose Tools, then
-  2. Internet Options.
-  3. Click the Security tab,
-  4. Click Internet, then Custom Level.
-  5. Scroll down to Cookies and choose one of the two options.
-
-If you are using Internet Explorer 4.0: 
-  1. Choose View, then
-  2. Internet Options.
-  3. Click the Advanced tab,
-  4. Scroll down to the yellow exclamation icon under Security and choose one of the three options to regulate your use of cookies.
-
-In Internet Explorer 3.0, you can choose View, Options, Advanced and click on the button that says Warn Before Accepting "Cookies." 
-
-Using Internet Explorer to View or Delete Cookies You Have Accepted: 
-
-If you're using Internet Explorer 5.0: 
-
-  1. Choose Tools, then
-  2. Internet Options.
-  3. Under the tab General (the default tab)click
-  4. Settings, then
-  5. View Files.
-  6. To delete a cookie, highlight it and delete it.
-
-If you're using Internet Explorer 4.0 
-  1. Choose View, then
-  2. Internet Options.
-  3. Under the tab General (the default tab)click
-  4. Settings, then
-  5. View Files.
-  6. To delete a cookie, highlight it and delete it.
-
-If you are using Internet Explorer 3.0 
-  1. Choose View, then
-  2. Options, then
-  3. Advanced, then
-  4. View Files.
-  5. To delete a cookie, highlight it and delete it.
-
-Using Netscape to Control Cookies: Netscape bundles all cookies into one file on your hard drive. You'll need to find the file, which it calls Cookie.txt on Windows machines. 
-
-If you are using Netscape Communicator 4.0: 
-
-  1. Select "Edit | Preferences..." from the main menu.
-  2. Select "Advanced" 
-    * To enable cookies: Select "Accept all cookies" or "Accept only cookies that get sent back to the originating server"
-    * To disable cookies: Select "Disable cookie"
-    * To get a prompt: Check "Warn me before accepting a cookie" and select "Accept all cookies" or "Accept only cookies that get sent back to the originating server"
-  3. Click "OK"
-  4. To delete cookies, locate the file called cookie.txt on your computer at c:program filesnetscapeusersdefault and delete it.
-
-If you are using Navigator 3.x: 
-  1. Select "Options | Network Preferences..." from the main menu.
-  2. Change to the "Protocols" tab.
-  3. Navigator 3.x does not have an option to completely disable accepting cookies. To get a prompt: Check "Accepting a Cookie" under "Show an Alert Before"
-  4. Click "OK"
+The State does not promise that Michigan.gov or any content, service, or feature of the website will be error-free or uninterrupted.  Information is provided on an "as is" and "as available" basis.   
 
 
+We may amend these terms and policies from time to time. 
+
+**Privacy Policy**
+
+When you access Michigan.gov, we may gather information in the following ways:
+
+  * **Information collected automatically**.  When you view pages on Michigan.gov, some of your information is automatically collected.  This may include information about how you linked to Michigan.gov, when you accessed our website, the searches you initiated, things you clicked on, your IP address, the type of browser and operating system you used, and the pages you requested and visited.  This information is aggregated and is used to improve the website.
+
+
+  * **Information voluntarily submitted**.  The State (or our third party vendors) may collect additional information if you voluntarily provide it (e.g., in connection with an online transaction).  The type of information varies by transaction and may include: your name, address, phone number, email address, social security or federal identification number, credit card number, driver license number, username, and password.
+
+
+
+**Emails from us**
+
+If you provide us with your email address, we may use it to email you newsletters and announcements. 
+
+You may unsubscribe to these services by following the instructions contained in the email.
+
+**Information on third party provided by user**
+
+If you provide us with information about a third party, we may retain that information to provide the service requested.  For example, users may share articles on Michigan.gov with a third party through the "mail to a friend" option.
+
+**Cookies**
+
+Michigan.gov uses "cookies" to customize your browsing experience.  A cookie is a small text file that is saved on your computer when you visit a website.
+
+Session cookies allow you to move through many pages of a website quickly and easily without having to authenticate or reprocess each new area you visit.  Session cookies are destroyed after successful completion of a transaction, after a few minutes of inactivity, or when the browser is closed.
+
+Persistent cookies help websites remember your information and settings when you visit them in the future.  They continue to exist after a few minutes of inactivity, after the browser is closed, or after a user completes a single session.  Persistent cookies generated by Michigan.gov expire within five years. 
+
+Michigan.gov uses cookies in the following ways:
+
+  * To help you to conduct online transactions.
+  * To perform statistical analyses on website usage to understand how people are using the website and how we can improve it.
+
+
+
+If you choose to do so, you can configure your browser to notify you when a new cookie is received.  You can also view and delete existing cookies, prevent your browser from accepting new cookies, and disable cookies altogether.  If you disable cookies, you can still use Michigan.gov, but your ability to use some areas or functions of the website may be limited.
+
+**Sharing information**
+
+We will only share personal information about you with others if: 
+
+  * We have your consent to share the information, or
+  * We need to share your information to provide the product or service you have requested, or 
+  * We are authorized to do so by law.  E.g., to respond to subpoenas, court orders, legal process, or to requests pursuant to a statute requiring or permitting disclosure such as the Michigan Freedom of Information Act, MCL 15.231, _et seq_.
+
+
+
+**Security**
+
+We limit access to personally identifiable information gathered through Michigan.gov to employees and agents who need access to perform a specific job.  Security measures have been integrated into the design, implementation, and day-to-day operations of this website as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information.
+
+Michigan.gov uses Secure Sockets Layer (SSL) technology to encrypt and protect your personal financial information during Internet transmissions.
+
+Please link to the [Michigan Security Policy](http://www.michigan.gov/som/0,4669,7-192-26916-2301--,00.html) for more information about security.
+
+**Outside links**
+
+We provide links to other organizations through Michigan.gov.  These links provide are for informational purposes only.  In providing these links, we do not endorse the content, products, services, or viewpoints of these external websites.  Once you leave Michigan.gov and link to an external website, Michigan.gov terms and policies no longer apply. 
+
+**Children's Online Privacy Protection Act**
+
+Individuals under the age of 13 are not eligible to use services that require submission of personal information and should not submit any personal information to Michigan.gov.  This includes submitting personal information to Michigan.gov as part of a user profile or personalization profile.  If you are an individual under the age of 13, you may use these services only if used with your parent or legal guardian.
+
+**Linking Policy**
+
+Linking to Michigan.gov is permitted under limited conditions. 
+
+If you link to Michigan.gov, you must not: (1) portray any person, entity, or subject in a false or misleading light; (2) visually alter Michigan.gov pages being linked to; or (3) imply that the State endorses your products or services.
+
+To link to Michigan.gov, use the following HTML code: 
+
+<a href="http://www.michigan.gov">
+
+You may download this icon to link to Michigan.gov's homepage: 
+
+But the above icon may only be used to link to the Michigan.gov homepage.    
+
+You may also link to individual State department or agency websites by creating a text link to a specific State department or agency.  You are not, however, permitted to use the individual State department or agency logo for linking purposes. 
+
+**Feedback**
+
+We are always seeking to improve and welcome your feedback.  Please access the [Michigan.gov Customer Survey](http://www.michigan.gov/som/0,4669,7-192-29939_32385_36698-115596--,00.html) to submit comments or suggestions.  You may [ report technical issues and error notices here](http://www.michigan.gov/som/0,1607,7-192--74476--,00.html). 
+
+**Questions**
+
+For questions or comments about this webpage, please contact:
+
+[contactmichigan@michigan.gov](mailto:contactmichigan@michigan.gov)
+
+Effective date May 2, 2012
