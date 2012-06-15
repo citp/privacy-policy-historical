@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rackroomshoes.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227110723id_/http%3A//www.rackroomshoes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rackroomshoes.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615041410id_/http%3A//www.rackroomshoes.com/privacy-policy) for the most accurate reproduction.*
 
 # Rack Room Shoes - Men's Women's and Kids Shoes, Handbags and Backpacks
 
@@ -33,7 +33,7 @@ If you agree to receive mobile text coupons from Rack Room Shoes, Rack Room Shoe
 
 You may text HELP to short code 25777 to receive additional information regarding Rack Room Shoes’ Mobile Alerts Program. STANDARD TEXT MESSAGING RATES APPLY. WHILE RACK ROOM SHOES DOES NOT CHARGE ANY FEE FOR USING ITS SERVICE, YOUR USE OF THE SERVICE VIA TEXT, MULTIMEDIA, OR INSTANT MESSAGE ON YOUR MOBILE PHONE OR ANY OTHER DEVICE IS SUBJECT TO THE STANDARD CHARGES PER YOUR CARRIER’S RATE PLAN. 
 
-4. If you have submitted personally identifiable information and would like to change or delete that information, please click [here](http://links.mkt868.com/servlet/SignUpForm?f=9818) or update your information using the “Edit your profile” link located on the e-mail communication. 
+4. If you have submitted personally identifiable information and would like to change or delete that information, please [email us](mailto:rackroomshoes@in10sity.net) or update your information using the “Edit your profile” link located on the e-mail communication. 
 
 5. Rack Room Shoes values the privacy of its customers and visitors to this website. Therefore, Rack Room Shoes endeavors to comply with relevant ethical standards in gathering, using and safeguarding customer information that is entrusted to Rack Room Shoes. Please note that, despite our diligence, new technology is constantly evolving and Rack Room Shoes cannot immediately implement all new technology upon development. 
 
