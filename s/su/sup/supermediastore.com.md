@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the supermediastore.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162250id_/http%3A//www.supermediastore.com/article/u/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermediastore.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615223357id_/http%3A//www.supermediastore.com/article/u/privacy-policy) for the most accurate reproduction.*
 
 # Store Policy - Privacy Policy - SuperMediaStore.com
 
-We are committed to protect your privacy online the best we can. We have created our Privacy Policy ("Policy") Statement in order to demonstrate our firm commitment for protecting the privacy of our shoppers. Questions regarding this policy should be directed to _customerservice@supermediastore.com_.
+We are committed to protect your privacy online the best we can. We have created our Privacy Policy ("Policy") Statement in order to demonstrate our firm commitment to protecting the privacy of our shoppers. Questions regarding this policy should be directed to _customerservice@supermediastore.com_.
 
 **What information does SuperMediaStore.com collect?**
 
-In order to better provide you with numerous products and services, we collect two forms of visitor information: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a customized, smooth, and efficient shopping session.
+In order to better provide you with numerous products and services, we collect two forms of visitor information: Personally Identifiable Information and Non-Personally Identifiable Information. Some of this information is collected by third parties who may be placing and reading cookies on visitors’ browsers, or may use web beacons or similar technologies to collect information in connection with promotions or programs such as the Google Trusted Stores program. Our primary goal in collecting information from you is to provide you with a customized, smooth, and efficient shopping session.
 
 **Non-Personally Identifiable Information**
 
@@ -18,15 +18,15 @@ We collect IP addresses for the purpose of system administration, gathering broa
 
 **Ordering**
 
-When you order from us, we collect personally identifiable information from you. If you order one of our products or any services, we will collect your name, user name, account password, e-mail address, billing address, shipping address, telephone number, product information, payment information, order number, referring URL, and IP address. We collect such information in order to fill your order, and also in order to get in contact with you regarding your order and/or to send you promotional materials. Before you submit your order, you will have the opportunity to review the order and make any changes in addition to the information that is already entered. Such changes might be automatically kept for future use. **_We do not accept any walk-in or will call orders. All orders are shipped out._**
+When you order from us, we collect personally identifiable information from you. If you order one of our products or any services, we will collect your name, user name, account password, e-mail address, billing address, shipping address, telephone number, product information, payment information, order number, referring URL, and IP address. We collect such information in order to fill your order, and also in order to get in contact with you regarding your order and/or to send you promotional materials. Before you submit your order, you will have the opportunity to review the order and make any changes in addition to the information that is already entered. Such changes might be automatically kept for future use. **_We do not accept any walk-in orders. Will Call orders are accepted and you must select that option upon check-out in order to receive the information needed to come and pick up your order at our Will Call counter._**
 
 **Security Measurement**
 
-All online transactions at SuperMediaStore.com are processed with 128-bit industry-standard SSL encryption held by SuperMediaStore.com Store SSL Authorization Certification Encryption Key. When you enter your private information into the order form, it is transmitted across the Internet in a 128-bit high encrypted (scrambled) form, and then decoded when it gets to SuperMediaStore.com (where your information will be kept). When viewing your data, your information is also protected by a store password and a store secure key and will be encrypted until it gets to us. For more security issues regarding transactions please contact SuperMediaStore.com for more information.
+All online transactions at SuperMediaStore.com are processed with 128-bit industry-standard SSL encryption held by the SuperMediaStore.com Store SSL Authorization Certification Encryption Key. When you enter your private information into the order form, it is transmitted across the Internet in a 128-bit highly encrypted (scrambled) form, and then decoded when it gets to SuperMediaStore.com (where your information will be safely and confidentially kept). When viewing your data, your information is also protected by a store password and a store secure key and will be encrypted until it gets to us. For more information about security issues regarding transactions please contact  _customerservice@supermediastore.com_.
 
 **Online Surveys and Polling**
 
-In order to improve our services, we ask some of our customers to voluntarily complete surveys, which may be collected by an independent third party. That surveyor collects Non-Personally Identifiable Information for the sole purpose of providing reports to SuperMediaStore.com about our shoppers' interests and opinions. Answers from individual survey are kept confidentially, although Non-Personally Identifiable Information is collected and will be disclosed to third parties. If you do not wish to participate in a survey, simply refuse such service when asked.
+In order to improve our services, we ask some of our customers to voluntarily complete surveys, which may be collected by an independent third party. That surveyor collects Non-Personally Identifiable Information for the sole purpose of providing reports to SuperMediaStore.com about our shoppers' interests and opinions. Answers from individual surveys are kept confidential, although Non-Personally Identifiable Information is collected and will be disclosed to third parties. If you do not wish to participate in a survey, simply refuse such service when asked.
 
 **Contact Information and Third Party Data**
 
@@ -42,24 +42,4 @@ We may release account information when we believe that such release is reasonab
 
 **Compliance with Service of Process or Law Enforcement**
 
-Occasionally SuperMediaStore.com may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. SuperMediaStore.com fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
-
-**What security precautions are in place to protect against the loss, misuse, or alteration of your information?**
-
-At SuperMediaStore.com you can be assured that your personal and account information is secure in ways that are consistent with current industry standards. The importance of security for all Personally Identifiable Information associated with our customers is of utmost concern to us. Our secure servers protect your information using advanced firewall technology. When you access your account information, the information is kept on a secure server. All of the customer data we collect is protected against unauthorized access by physical and digital security means.
-
-**Contacting SuperMediaStore.com about Privacy Questions or Concerns**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact SuperMediaStore.com by sending a letter to:
-
-Attn: Customer Service  
-SuperMediaStore.com
-
-629 South 6th Avenue  
-La Puente , CA 91746
-
-You may also contact us by e-mail at 
-
-_customerservice@supermediastore.com_
-
-.
+Occasionally SuperMediaStore.com may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. SuperMediaStore.com fully cooperates wi
