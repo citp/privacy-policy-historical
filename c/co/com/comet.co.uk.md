@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the comet.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222917id_/http%3A//www.comet.co.uk/static/services/our-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comet.co.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615155658id_/http%3A//www.comet.co.uk/static/services/our-site/privacy) for the most accurate reproduction.*
 
 # Data Privacy at Comet | Data Protection
 
 ## Privacy Policy
 
-Comet Group plc ("Comet", "us", "we") takes the protection of your online privacy seriously and this Privacy Policy sets out how we use and protect any personal information we obtain from dealings which arise from you using this website. Comet is not responsible for the privacy practices of any websites which may be linked from the Comet website, so please separately check their privacy policies. 
+Comet Group Ltd ("Comet", "us", "we") takes the protection of your online privacy seriously and this Privacy Policy sets out how we use and protect any personal information we obtain from dealings which arise from you using this website. Comet is not responsible for the privacy practices of any websites which may be linked from the Comet website, so please check separately their privacy policies. 
 
 We may change this Privacy Policy from time to time by updating this page so please check our Privacy Policy for any changes when you revisit our website. This Privacy Policy is effective from December 2011.
 
@@ -69,28 +69,30 @@ Please note that Comet would not necessarily remove all your details from its re
 
 Whilst we have policies, rules and measures in place and try to take all reasonable steps to safeguard your personal information, we cannot guarantee the security of any information you provide online. 
 
-### Cookies - What We Do
+## What are cookies?
 
-We use cookies for certain areas of our website. Cookies are files that store information on your hard drive or browser so that our website can recognise that you have visited the website before and which are used to facilitate access to the website, to tailor your experience of the website and to allow you to move through processes including the payment processes on the website. They make it easier for you to maintain your preferences on the website, and by seeing how you use the website, we can tailor the website around your preferences and measure usage of the website. We use cookies to: 
+Cookies are small files that are downloaded on to your computer when you visit a website and they typically hold bits of information like the site name and unique used ID. They are simply text files and they are not programs. These small bits of information can then be accessed by your browser and allows it to be recognised by a website if you decide to return. The information that cookies contain help to make your browsing experience smoother, for example they enable you to store items in your basket, adding each item as you click "add to basket" and even to tailor the things that you see on a website to your personal preferences. Cookies do not harm your computer and are not "programs". 
 
-  * look at what items you have viewed so that you can use the product comparison and recently viewed items resources on the website;
-  * place advertisements for our products on other external sites. We do this by allowing visitor tracking providers to identify your visit to our website and the pages you have viewed whilst on it. This allows them to serve tailored advertisements to you on third party websites in their adserving network, based on the information they have collected whilst you were visiting our website; and 
-  * look at your purchasing and browsing habits with us, including to track your wish list, favourites, and which products you place in 'Your Basket' on the website including where you did not proceed to purchase, and according to your marketing preferences (See Keeping You Informed), we may send you follow up contact by email, SMS, telephone or post regarding your abandoned purchase. We also use visitor tracking providers to collect information about your online activity on the website, such as the web pages you visit, the links you click, and the searches you conduct on the website. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the website, where visitors have come to the website from and the pages they visited. You can learn all about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+Comet.co.uk uses cookies to remember you when you return to our website and to allow you to add products to your basket. If you do not want to have cookies enabled then you can browse Comet.co.uk but you will not be able to purchase products. We do not store any personal information such as your credit card details but do use the information to improve your experience with us and make your time on Comet.co.uk run more smoothly. 
 
+**3rd Party Cookies**  
+In addition to the cookies that we use, we work with a number of trusted 3rd Parties to help improve the level of the online service we offer. They will also place cookies on your computer, these are described in the table below. A number of these cookies are used to provide banner advertisements for Comet when you visit some other websites. The cookies are designed to provide you with relevant advertising based on the products you have recently viewed on our website. Again these do not contain any personally identifiable information, but if you would like to opt out of these marketing cookies please click here to be taken to an independent website which will help you identify and manage cookies of this nature that have been stored on your computer by our and other businesses’ websites. 
 
+## Are there different types of cookies? 
 
-### Cookies - Changing your Browser Settings
+**Session, or transient cookies**  
+Cookies that are stored in the computer's memory only during a user's browsing session and are automatically deleted from the user's computer when the browser is closed. 
 
-Most browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies. You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions or review the cookie management guide produced by the Interactive Advertising Bureau – [www.allaboutcookies.org](http://www.allaboutcookies.org/).) If you do so, some of the features and services of the website may not function properly. Your continued use of the website will be treated as consent to the use of these cookies for the purposes described. 
+These cookies usually store a session ID that is not personally identifiable to users, allowing the user to move from page to page without having to log-in repeatedly. They are widely used by commercial web sites (for example, to keep track of items that a consumer has added to a shopping cart).
 
-### Will my personal data be transferred abroad?
+Session cookies are never written on the hard drive and they do not collect any information from the user's computer. Session cookies expire at the end of the user's browser session and can also become no longer accessible after the session has been inactive for a specified length of time, usually 20 minutes.
 
-If our services providers, or any third party to whom we transfer your personal information as referred to in this Privacy Policy, is located in a non-EU country that does not have comparable data privacy laws, we will put in place appropriate measures for the security and protection of your personal information. 
+**Permanent, persistent, or stored cookies**  
+Cookies that are stored on the user's computer and are not deleted when the browser is closed. Permanent cookies can retain user preferences for a particular web site, allowing those preferences to be used in future browsing sessions. 
 
-### Your Data Protection Rights 
+Permanent cookies can be used to identify individual users, so they may be used by web sites to analyse users' surfing behaviour within the web site. These cookies can also be used to provide information about numbers of visitors, the average time spent on a particular page and generally the performance of the web site. They are usually configured to keep track of users for a prolonged period of time, in some cases many years into the future.
 
-You may at any time upon written request and payment of the statutory £10 fee, ask if we hold your personal details and if so, subject to certain exceptions, be provided with a copy of them. If you would like to request this, please write, enclosing the fee, to: 
+**Flash cookies**  
+If you have Adobe Flash installed on your computer (most computers do), small files may be stored on your computer by websites that contain Flash media, such as video clips. These files are known as Local Shared Objects (LSOs) or Flash cookies. They can be used for the same purposes as regular cookies (properly called HTTP cookies). 
 
-The Director's Office, Comet Group plc, Criterion House, George Street, Hull, HU1 3AU.
-
-You can also write to this address if you have any queries about how Comet handles your personal information or if you believe any information we have about you is incorrect or incomplete. We will amend this as appropriate. You can also correct some types of information you have provided to us by signing in to your online account. You can also call us on 08712 009 009 (Calls to this number cost 10p a minute plus network extras). 
+Flash cookies can also back up the data that is stored in a regular cookie. When you delete cookies using your browser controls, your Flash cookies are not affected. So a website that served a cookie to you may recognise you on your next visit if it backed up its now-deleted cookie data to a Flash cookie.
