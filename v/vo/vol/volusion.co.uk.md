@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volusion.co.uk privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222041329id_/http%3A//www.volusion.co.uk/safeharbor-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volusion.co.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615081703id_/http%3A//www.volusion.co.uk/safeharbor-privacy) for the most accurate reproduction.*
 
 # Safe Harbor Customer Privacy Policy
 
@@ -16,7 +16,7 @@ Volusion provides a variety or ecommerce software, hosting, design, marketing an
 
 Volusion uses Personal Information to perform its obligations under its EEA Client agreements, including the following activities:
 
-  * 1\. Credit card primary account number (PAN), expiration, customer zip code and customer name are sent to credit card processors for authorization and settlement of credit card transactions;
+  * 1\. Credit card primary account number (PAN), expiration, customer zip code and customer name are sent to credit card processors for authorisation and settlement of credit card transactions;
   * 2\. Personally Identifiable Information (PII) is accessed by the merchant (client of Volusion);
   * 3\. PII is sent to 3rd parties for shipping purposes;
   * 4\. PII (email) is utilized in outbound marketing campaigns; and
@@ -36,7 +36,7 @@ We sometimes contract with other companies and individuals to perform functions 
 
 #### Data Security
 
-We use reasonable physical, electronic, and administrative safeguards to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. Volusion processing technologies and operations employ a wide range of security measures including: physical, electronic, and procedural safeguards; sophisticated security monitoring tools; documented security policies; use of encryption and/or private leased lines for transmissions of Personal Information to and from EEA Clients; restricted access of personally identifiable information only to those of its employees that need to know the information; and, periodic security audits by internal governance, compliance and audit groups and third party security experts.
+We use reasonable physical, electronic, and administrative safeguards to protect Personal Information from loss, misuse and unauthorised access, disclosure, alteration and destruction. Volusion processing technologies and operations employ a wide range of security measures including: physical, electronic, and procedural safeguards; sophisticated security monitoring tools; documented security policies; use of encryption and/or private leased lines for transmissions of Personal Information to and from EEA Clients; restricted access of personally identifiable information only to those of its employees that need to know the information; and, periodic security audits by internal governance, compliance and audit groups and third party security experts.
 
 #### Data Integrity & Retention
 
@@ -46,9 +46,9 @@ We take reasonable steps to ensure that Personal Information we process is relia
 
 If you have any questions or concerns about this Policy or the Safe Harbor practices of Volusion, please write to us at the address listed below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the Safe Harbor Principles.
 
-Compliance Officer Volusion, Inc. 8911 N. Captial of Texas Highway, Ste. 1200 Austin, TX 78759 (p) 1.800.646.3517 (f) 512.293.8020 Email: Legal@volusion.com
+Compliance Officer Volusion, Inc. 8911 N. Captial of Texas Highway, Ste. 1200 Austin, TX 78759 (p) 1.800.646.3517 (f) 512.686.3761 Email: Legal@volusion.com
 
-If after contacting the EEA Client and Volusion, an individual's complaint or dispute has not been resolved, s/he can contact the International Centre for Dispute Resolution of the American Arbitration Association at www.adr.org. This organization will provide independent dispute resolution.
+If after contacting the EEA Client and Volusion, an individual's complaint or dispute has not been resolved, s/he can contact the International Centre for Dispute Resolution of the American Arbitration Association at www.adr.org. This organisation will provide independent dispute resolution.
 
 #### Amendments
 
