@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venture-encoding.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206080547id_/http%3A//www.venture-encoding.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venture-encoding.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615194706id_/https%3A//www.venture-encoding.com/privacy.aspx) for the most accurate reproduction.*
 
 # Venture Encoding - Privacy Policy
 
