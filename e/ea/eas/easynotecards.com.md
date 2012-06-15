@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easynotecards.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216061517id_/http%3A//www.easynotecards.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easynotecards.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615130603id_/http%3A//www.easynotecards.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Easy Notecards
 
 This document was last updated on 7/1/2011.
 
@@ -74,7 +74,7 @@ Retied Software, Inc has the discretion to occasionally update this privacy stat
 
   7. **CONTACTING US**
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please [contact us](https://web.archive.org/web/20111216061517id_/http%3A//www.easynotecards.com/contact). Retied Software, Inc will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please [contact us](https://web.archive.org/web/20120615130603id_/http%3A//www.easynotecards.com/contact). Retied Software, Inc will use commercially reasonable efforts to promptly respond and resolve any problem or question.
 
 
 
