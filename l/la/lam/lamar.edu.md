@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamar.edu privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120234620id_/http%3A//www.lamar.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamar.edu privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615181355id_/http%3A//www.lamar.edu/about-lu/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Lamar University
 
@@ -17,7 +17,7 @@ This site uses both permanent and transient cookies for the purposes of access c
 
 Lamar University may use server logs to analyze data about traffic statistics on our web site. This data may be used to, but is not limited to, identify performance issues, and generate web usage statistics.
 
-### Security 
+### Security
 
 While Lamar University may analyze server logs for statistical purposes as stated above, we will not generally use such information to identify users. Only in security or criminal related investigations do we typically use information for the purpose of identification.
 
@@ -27,13 +27,13 @@ Lamar University uses measures to protect our web site from losses, misuse, and 
 
 This site contains links to other sites. Lamar University is not responsible for the privacy practices or the content of such web sites.
 
-### Privacy Rights 
+### Privacy Rights
 
-An individual is entitled, upon written request, to the following: 
+An individual is entitled, upon written request, to the following:
 
   * Whether information has been collected about that individual
-  * To receive and review such information 
-  * To correct inaccurate information 
+  * To receive and review such information
+  * To correct inaccurate information
 
 
 
