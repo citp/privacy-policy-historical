@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discountmags.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222023005id_/http%3A//www.discountmags.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountmags.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615025908id_/http%3A//www.discountmags.com/page/privacy.html) for the most accurate reproduction.*
 
-# Magazine Subscriptions > Privacy Policy
+# Discount Magazine Subscriptions > Privacy Policy
 
 **Our Privacy Policy**  
 Our top priority is your privacy. Please read our privacy policy carefully.
