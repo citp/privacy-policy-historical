@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the wowlazymacros.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205111016id_/http%3A//wowlazymacros.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowlazymacros.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616002257id_/http%3A//wowlazymacros.com/privacy) for the most accurate reproduction.*
 
-# Privacy |
+# Privacy | WoW Lazy Macros
 
+  
 **What information do we collect?**
 
 We collect information from you when you register on our site. 
@@ -62,5 +63,4 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-support@wowlazymacros.com  
-
+support@wowlazymacros.com
