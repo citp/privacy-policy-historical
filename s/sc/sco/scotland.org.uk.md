@@ -1,65 +1,74 @@
-> *The following text is extracted and transformed from the scotland.org.uk privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206071318id_/http%3A//www.scotland.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotland.org.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615220959id_/http%3A//www.scotland.org.uk/privacy) for the most accurate reproduction.*
 
-# Travel Scotland
+# Privacy
 
-**To view the Privacy Statement for http://helpmego.to please see the page<http://helpmego.to/privacy.html>**
+This privacy policy sets out how HMGT Travel Ltd uses and protects any information that you give TravelScotland when you use this website.
 
-**Privacy Statement for[http://www.scotland.org.uk](http://www.scotlandonline.com/)**
+HMGT Travel Ltd  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-TravelScotland has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: [http://www.scotland.org.uk](http://www.scotlandonline.com/)
+HMGT Travel Ltd  may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st May 2012.
 
-**General**  
-We use your IP address to help diagnose problems with our server, general report information and to administer our Web site.  
-Demographic and profile data is collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+### What we collect
 
-This site contains links to other sites. [http://www.scotland.org.uk](http://www.scotlandonline.com/) is not responsible for the privacy practices or the content of such web sites.
+We may collect the following information:
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+  * name and job title
 
-**Cookies**  
-Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other similar purposes.
+  * contact information including email address
 
-**Registration Forms/ Newsletters**  
-Where a registration form is used it may require users to give us contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary.
+  * demographic information such as postcode, preferences and interests
 
-**Order Forms**  
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like name, address and e-mail address), financial information (like account or credit card numbers), and demographic information (like post code, age, or income level). Contact information from the order form is used to send orders to our customers. Financial information that is collected is used to bill the user for products and services.
+  * other information relevant to customer surveys and/or offers
 
-**Survey Forms**  
-Our online surveys ask visitors for contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-**Competitions**  
-We run contests on our site in conjunction with promoters in which we ask visitors for contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Information requested is shared with promoters on an aggregate basis where the visitor highlights their acceptance.
 
-**Public Forums**  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor.  
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.   
-1\. You can reply to any email sent out by the site following the opt-out instructions.  
-2\. You can send email to [mailto:privacy@helpmego.to](mailto:privacy@helpmego.to)  
-3\. You can send mail to the following postal address:
+### What we do with the information we gather
 
-_Customer Services, HelpMeGo.To Ltd, 55 Constitution Street, Edinburgh. EH6 7BG_
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-4\. You can call the following telephone number: 0871 7896 200
+  * Internal record keeping.
 
-**Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided.   
-1\. You can send email to [mailto:privacy@helpmego.to](mailto:privacy@helpmego.to)  
-2\. You can send mail to the following postal address:
+  * We may use the information to improve our products and services.
 
-_Customer Services, HelpMeGo.To Ltd55 Constitution Street, Edinburgh. EH6 7BG_
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
-3\. You can call the following telephone number: 08700112201
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
 
-_Customer Services  
-HelpmeGo.To Ltd  
-55 Constitution Street  
-Edinburgh  
-EH6 7BG  
-_
+
+
+### Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+### Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+### Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [email address]
+
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 9 Reform Street, Blairgowrie, PH10 6BS.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
