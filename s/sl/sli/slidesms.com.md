@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slidesms.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021851id_/http%3A//www.slidesms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slidesms.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615164459id_/http%3A//www.slidesms.com/privacy.php) for the most accurate reproduction.*
 
 # SLIDE SMS FREE UNLIMITED INTERNATIONL SMS
 
