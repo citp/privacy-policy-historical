@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popcultcha.com.au privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216221613id_/http%3A//www.popcultcha.com.au/privacy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcultcha.com.au privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616015635id_/http%3A//www.popcultcha.com.au/privacy-i-3.html) for the most accurate reproduction.*
 
-# Buy Collectables, Action Figures, T-Shirts, True Blood & Pop Culture Merchandise from Popcultcha Australia
+# Popcultcha
 
  
 
