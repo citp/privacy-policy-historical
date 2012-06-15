@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icicibank.co.uk privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207054513id_/http%3A//www.icicibank.co.uk/personal/faqs/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicibank.co.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615142755id_/http%3A//www.icicibank.co.uk/personal/faqs/privacy-policy.html) for the most accurate reproduction.*
 
 # ICICI Bank UK – retail, business, corporate and investment banking
 
@@ -55,7 +55,68 @@ We will use your information to inform you by mail, telephone or email about pro
 
 Use of cookies
 
-ICICI Bank may use cookies, web bugs, images, and other techniques to gather information about your general internet usage and about your computer, including where available your IP address, operating system and browser type, for system administration [and to report aggregate information to our advertisers]. When we obtain information about your general internet usage, we use a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and to deliver a better and more personalised service. You may refuse to accept cookies by activating the setter on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. Please note that our advertisers may also use cookies over which we have no control.
+We obtain information about your general internet usage through a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and to deliver a better and more personalised service. 
+
+ICICI Bank currently uses the following cookies on its websites –
+
+  
+**Cookie** | **Type of cookie** | 
+
+**Current use**  
+  
+---|---|---  
+  
+inifinity.icicibank.co.uk 
+
+| 
+
+Persistent
+
+| 
+
+This cookie is used for your protection and helps prevent unauthorised access to your Internet Banking account. This is required for our Internet Banking Service to operate with a high-level of security.   
+  
+ui.tabs.js
+
+| 
+
+Session
+
+| 
+
+This is a Java Script file which defines the behavior of the top navigation of our website and is used for faster loading and effective representation of information on it, enabling our site to function as intended.   
+  
+ga.js
+
+1)_utma
+
+2)_utmb
+
+3)_utmz
+
+4)_utmc 
+
+| 
+
+Persistent / Session
+
+| 
+
+These cookies are used by Google Analytics and give us information about how visitors use our website. The cookies collect information in an anonymous form, including the number of visitors to the site, how visitors were directed to the website, and the pages they have visited. They are used across _[www.icicibank.co.uk](http://www.icicibank.co.uk/)_ and _[www.onlinetravelmoney.co.uk](http://www.onlinetravelmoney.co.uk/)_ .
+
+Click here for an overview of the privacy policy at Google ([http://www.google.co.uk/intl/en/analytics/privacyoverview.html](https://web.archive.org/web/20120615142755id_/http%3A//www.icicibank.co.uk/personal/faqs/cookies_google_popup.html?&height=300&width=500&modal=true "Cookies"))  
+  
+REALURLMEDOC%23onlinetravelmoney
+
+| 
+
+Persistent / Session
+
+| 
+
+This cookie is required for completing e-commerce transactions on www.onlinetravelmoney.co.uk.  
+  
+You may refuse to accept cookies by activating the setter on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. Please note that our advertisers may also use cookies over which we have no control. For information on how to control and/or disable your cookies please [click here](https://web.archive.org/web/20120615142755id_/http%3A//www.icicibank.co.uk/personal/faqs/cookies_popup.html?&height=300&width=500&modal=true "Cookies")
 
 Telephone banking 
 
@@ -79,7 +140,7 @@ There is a separate section on our site relating to online security which we rec
 
 Access to your information 
 
-You may access your information (in return for a fee of £10) and request details of the entities with whom we have shared your information by writing to Manager- Service Quality, ICICI Bank UK PLC,5th Floor, Alperton House, Bridge Water Road, Wembley - HA0 1EH. You may ask us to make changes in your personal information to ensure that it is accurate and up-to-date. To protect your privacy and security, we may take reasonable steps to verify your identity before providing you with the details.
+You may access your information (in return for a fee of £10) and request details of the entities with whom we have shared your information by writing to Manager- Service Quality, ICICI Bank UK PLC, 2nd Floor, One Thomas More square, London, E1W 1YN. You may ask us to make changes in your personal information to ensure that it is accurate and up-to-date. To protect your privacy and security, we may take reasonable steps to verify your identity before providing you with the details.
 
 Questions, comments and requests regarding this Policy are welcomed and should be addressed to:
 
