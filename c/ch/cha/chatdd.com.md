@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102072219id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615075529id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
 
 # ChatDD.Com - Privacy Policy
 
@@ -46,21 +46,21 @@ We do not take any responsibility for any error or omission by Chatdd.com or Thi
 
 ## Latest Threads from ChatDD Forums:
 
-  * [For Virdan bhai...!!](http://forum.chatdd.com/designers-work/88264-virdan-bhai.html)
-  * [punjabi or pathan ki lara...](http://forum.chatdd.com/fun-humor-jokes/88263-punjabi-pathan-ki-larai.html)
-  * [Super Computer Chinese Te...](http://forum.chatdd.com/computer/88262-super-computer-chinese-technology.html)
-  * [Bollywood Aishwariya 38 y...](http://forum.chatdd.com/hollywood-bollywood-lollywood-music/88261-bollywood-aishwariya-38-years-ke-ho-gayen.html)
-  * [Video Shaykh Shuraim Cryi...](http://forum.chatdd.com/islamic/88260-video-shaykh-shuraim-crying-so-much.html)
-  * [Video mam e BAIT ULLAH (K...](http://forum.chatdd.com/islamic/88259-video-mam-e-bait-ullah-kaabah-crying.html)
-  * [Video Beautiful Recitatio...](http://forum.chatdd.com/islamic/88258-video-beautiful-recitation-people-crying-must-see-will-surely-shed-your-tears.html)
-  * [polio Cases In KPK](http://forum.chatdd.com/health/88257-polio-cases-kpk.html)
-  * [Eid mubarak............lo...](http://forum.chatdd.com/photo-gallery-wallpapers-world/88256-eid-mubarak-lolzzzzzzzz.html)
-  * [Zindagi](http://forum.chatdd.com/quotes-sayings/88255-zindagi.html)
-  * [Be-mosam pat-jhar aya hay](http://forum.chatdd.com/famous-urdu-poetry/88254-mosam-pat-jhar-aya-hay.html)
-  * [Hwa thami thi zaror lekin](http://forum.chatdd.com/famous-urdu-poetry/88253-hwa-thami-thi-zaror-lekin.html)
-  * [is eid pir...!!!](http://forum.chatdd.com/designers-work/88252-eid-pir.html)
-  * [So far from your friends](http://forum.chatdd.com/love-friendship-%3B/88251-so-far-your-friends.html)
-  * [my bestest friend](http://forum.chatdd.com/love-friendship-%3B/88250-my-bestest-friend.html)
+  * [Namaz..](http://forum.chatdd.com/islam-forum/94054-namaz.html)
+  * [Goongi Ho Gai Zuban Aaj K...](http://forum.chatdd.com/urdu-adab/94053-goongi-ho-gai-zuban-aaj-kuch-kehte-kehte.html)
+  * [My 1st Design For Chat DD...](http://forum.chatdd.com/designers-work/94052-my-1st-design-chat-dil-sy-dil-tk-dd-forum-dedication-my-bro-jawaid-khan.html)
+  * [Love Pyar Kise Tum Kehte ...](http://forum.chatdd.com/love-friendship-%3B/94050-love-pyar-kise-tum-kehte-ho-%2A.html)
+  * [Assess Yourself](http://forum.chatdd.com/freedom-speech-gupshup/94049-assess-yourself.html)
+  * [A female devotee of Allah...](http://forum.chatdd.com/islam-forum/94048-female-devotee-allah-talah.html)
+  * [The translation of salat ...](http://forum.chatdd.com/islam-forum/94047-translation-salat-namaz.html)
+  * [parwarash-e-loh-o-qalam](http://forum.chatdd.com/famous-urdu-poetry/94046-parwarash-e-loh-o-qalam.html)
+  * [Sar-e-bazaar](http://forum.chatdd.com/famous-urdu-poetry/94045-sar-e-bazaar.html)
+  * [Ussey Main Q btaoon Maine...](http://forum.chatdd.com/famous-urdu-poetry/94044-ussey-main-q-btaoon-maine-usko-kitna-chaha-hai.html)
+  * [Ek Ajnabi Hai Magar..](http://forum.chatdd.com/famous-urdu-poetry/94043-ek-ajnabi-hai-magar.html)
+  * [Ghazal](http://forum.chatdd.com/famous-urdu-poetry/94042-ghazal.html)
+  * [Oovoo Full Offline Instal...](http://forum.chatdd.com/computer/94041-oovoo-full-offline-installer.html)
+  * [hi everyone](http://forum.chatdd.com/freedom-speech-gupshup/94037-hi-everyone.html)
+  * [ufff ye girls bhi na ....](http://forum.chatdd.com/fun-humor-jokes/94036-ufff-ye-girls-bhi-na.html)
 
 [ ](http://www.countgames.com/)
 
