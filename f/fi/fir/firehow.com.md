@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the firehow.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105091916id_/http%3A//www.firehow.com/firehowprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firehow.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615070958id_/http%3A//www.firehow.com/firehowprivacypolicy.html) for the most accurate reproduction.*
 
 # FireHow Privacy Policy | Firehow | FireHow.com
 
 Effective: November 13, 2008
 
-FireHow (“We,” “Us,” “FireHow.com,” “FireHow LLC,” “Website,” or “Site”) is very committed to protecting the privacy of all users while providing a safe experience for all visitors and writers. FireHow is a “how to” article website in which registered users can post as many articles as they wish which include step by step instructions about how to do a particular task. All users and visitors have access to all articles posted by FireHow or any of its users. 
+Updated January 1, 2012  
+
+
+FireHow (“We,” “Us,” “FireHow.com,” “FireHow LLC,” “Website,” or “Site”) is very committed to protecting the privacy of all users while providing a safe experience for all visitors and writers. FireHow is a “how to” article website in which registered users can post as many articles as they wish which include step by step instructions about how to do a particular task. All users and visitors have access to all articles posted by FireHow or any of its users. 
 
 Our Privacy Policy applies to any and all information collected online through the FireHow website. By signing up and providing us with your information you agree to this Privacy Policy, our Terms of Use, and WPP Terms of Use.
 
@@ -32,15 +35,15 @@ Third-party advertising companies use cookies to serve ads on FireHow.
 
 Our main third-party advertising company, Google, use of the DART cookie enables it to serve ads to users of FireHow based on users visits to FireHow and other websites on the internet. Users can opt out of the use of the DART cookie by visiting:
 
-http://www.google.com/privacy_ads.html 
+http://www.google.com/privacy_ads.html
 
-To find out more about the DART cookie, visit: 
+To find out more about the DART cookie, visit: 
 
-http://www.doubleclick.com/privacy/faq.aspx 
+http://www.doubleclick.com/privacy/faq.aspx
 
 Your Information & Information Sharing: At any time a user can change, delete, or correct any personal information they provided to FireHow. Users can opt out from any newsletters or promotional emails at any time. Your information is secure. To maintain a high level of security, we conduct various security measures such as external audits and internal reviews. Even though we conduct various security measures, we do not guarantee security. You assume all risk of any security breaches. You agree to do everything you can to promote security. If you desire a higher level of security, then you agree to not enter information on the FireHow website. Never provide sensitive information in emails and always remember to log off when finished using the FireHow website.
 
-Demographic information may be shared with advertisers but never any personal and identifiable information. FireHow shares information when we are required to comply with law and/or follow any legal process. FireHow will comply with any laws and do whatever it takes to protect the rights of FireHow users. FireHow may hire third parties to help prepare tax forms and filings. We may hire a third party to prepare federal, state, and local tax forms along with 1099 forms for any user who earns over $10 in a calendar year. Third party assistance may be required for customer service, article/content editing, analyzing data, and content monitoring. In growing and expanding our business, we may sell our company, sell certain parts, sell certain assets, and/or merge with another company. In such an event, any and all user information may be one of the transferred assets, whether it is personally identifiable or not.
+Demographic information may be shared with advertisers but never any personal and identifiable information. FireHow shares information when we are required to comply with law and/or follow any legal process. FireHow will comply with any laws and do whatever it takes to protect the rights of FireHow users. FireHow may hire third parties to help prepare tax forms and filings. We may hire a third party to prepare federal, state, and local tax forms along with 1099 forms for any user who is paid over $10 in a calendar year. Third party assistance may be required for customer service, article/content editing, analyzing data, and content monitoring. In growing and expanding our business, we may sell our company, sell certain parts, sell certain assets, and/or merge with another company. In such an event, any and all user information may be one of the transferred assets, whether it is personally identifiable or not.
 
 Advertisements and Links: FireHow is not responsible for any other websites privacy practices. Any advertisements on our website may contain links to another website which is in no way affiliated with FireHow. In such instances, you should always read the linked websites privacy policies and terms of use to understand what such site may use collected personal information for. This privacy statement only applies to the information collected on FireHow.
 
