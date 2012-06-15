@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnmagazine.org privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130102755id_/http%3A//www.ucg.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnmagazine.org privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615124728id_/http%3A//www.ucg.org/privacy) for the most accurate reproduction.*
 
 # UCG.org Privacy Policy | United Church of God
 
@@ -8,13 +8,15 @@ Date of last revision: April 6, 2011
 
 **1\. Introduction**
 
-This is the website of the United Church of God, _an International Association_.
+This is the website of the United Church of God, _an International Association_ .
 
-Our mailing address is   
-PO Box 541069  
+Our mailing address is 
+
+PO Box 541069
+
 Cincinnati, OH 45254-1069
 
-We can be reached via e-mail at _[webmaster@ucg.org](mailto:webmaster@ucg.org)_ or _[info@ucg.org](mailto:info@ucg.org)_ or you can reach us by telephone at (513) 576-9796. Send technical inquiries about this website to _[webmaster@ucg.org](mailto:webmaster@ucg.org)_
+We can be reached via e-mail at _[webmaster@ucg.org](mailto:webmaster@ucg.org) _ or _[info@ucg.org](mailto:info@ucg.org) _ or you can reach us by telephone at (513) 576-9796. Send technical inquiries about this website to _[webmaster@ucg.org](mailto:webmaster@ucg.org) _
 
 **2\. The Use of this Website by Children**
 
@@ -34,7 +36,8 @@ We collect information about you and your use of the website whenever you visit.
 
 With respect to cookies: We use cookies to record and track your traffic pattern on the pages you access or visit.
 
-What is a cookie?  
+What is a cookie?
+
 A cookie is a text file that is placed on your hard drive by a Web server. Cookies are not used to run programs or deliver viruses to your computer. A cookie cannot read data off your hard drive or read cookie files created by another website. Cookies are uniquely assigned for your computer, and can only be read by a Web server in the domain that issued the cookie to you. 
 
 If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our webpages may require a cookie for access. 
@@ -67,13 +70,13 @@ You may prevent your information from being used for purposes other than those f
 
 **Web Site Policy** ( _As Approved by the Council of Elders on February 23, 2007_ ) 
 
-1\. No website other than the official website of the United Church of God, _an International Association_ (hereinafter the "Church" or "UCG _IA_ ") at _http://www.ucg.org_ and the official websites of United Church of God National Councils outside the United States which have been sanctioned by the Church, may use the name "United Church of God" or contain, republish, refer to, advertise or take orders for Church literature or other copyrighted materials, in whole or in part, that are proprietary to the Church without UCG _IA's_ written permission. Local websites receiving such permission should create a hyperlink to Church literature located at _[http://www.ucg.org/booklets](http://www.ucg.org/litlibrary)_ for the United States (and/or the address of the Web site of their National Council if outside the U.S.) for viewing, downloading or for taking website visitor requests for said literature. Each website that creates an appearance of affiliation with the Church shall be subject to review to help ensure that its content does not violate the law or personal rights. 
+1\. No website other than the official website of the United Church of God, _an International Association_ (hereinafter the "Church" or "UCG _IA_ ") at _http://www.ucg.org_ and the official websites of United Church of God National Councils outside the United States which have been sanctioned by the Church, may use the name "United Church of God" or contain, republish, refer to, advertise or take orders for Church literature or other copyrighted materials, in whole or in part, that are proprietary to the Church without UCG _IA's_ written permission. Local websites receiving such permission should create a hyperlink to Church literature located at _[http://www.ucg.org/booklets](http://www.ucg.org/litlibrary) _ for the United States (and/or the address of the Web site of their National Council if outside the U.S.) for viewing, downloading or for taking website visitor requests for said literature. Each website that creates an appearance of affiliation with the Church shall be subject to review to help ensure that its content does not violate the law or personal rights. 
 
 2\. Local congregations or others claiming a Church affiliation who are using the name of the Church must not violate the Church's copyright(s), trademark(s) or service mark(s), or other intellectual property. 
 
 3\. The only official website of the UCG _IA_ is located at _http://www.ucg.org._ Any other website maintained by a local congregation of UCG _IA_ , or third parties claiming affiliation with UCG _IA_ , or using its name in a way that is likely to convey such an affiliation, must display on the index or introductory page the following statement. In effect that statement shall say that they are not official websites of UCG _IA_ and that the UCG _IA_ does not endorse and is not responsible for the claims and representations made by that website: 
 
-"This is not the official website of the United Church of God, _an International Association_ ("UCG _IA_ "). The only official UCG _IA_ website is at _[_www.ucg.org_](http://www.ucg.org/)_ _,_ or one of the websites of National Councils which are part of UCG _IA_. They are not responsible and will not be held liable for the content, representations, or any claims arising out of the materials contained on this website." 
+"This is not the official website of the United Church of God, _an International Association_ ("UCG _IA_ "). The only official UCG _IA_ website is at _[_www.ucg.org_](http://www.ucg.org/) _ _,_ or one of the websites of National Councils which are part of UCG _IA_ . They are not responsible and will not be held liable for the content, representations, or any claims arising out of the materials contained on this website." 
 
 4\. The Church's Council of Elders may prescribe rules and ethical guidelines within which National Council, local church, and third party (claiming a UCG _IA_ affiliation) websites shall be required to conform. Failure to conform to these rules and guidelines can result in withdrawal of UCG _IA_ permission to use the name "United Church of God" in connection with that National, local church or third party website. 
 
