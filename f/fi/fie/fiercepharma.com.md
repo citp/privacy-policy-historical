@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiercepharma.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221202521id_/http%3A//www.fiercepharma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiercepharma.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615232327id_/http%3A//www.fiercemarkets.com/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | FierceMarkets
 
@@ -41,4 +41,4 @@ For events and services that require payment, we collect credit card information
 
 Finally, the online world is changing rapidly. FierceMarkets may need to update this Privacy Policy from time to time. If we make significant material changes in how we use your personal information, we’ll notify you via email. The current privacy policy will always be located on [www.fiercemarkets.com](http://www.fiercemarkets.com/). We encourage you to review it regularly.
 
-If you have any privacy questions or concerns, please contact **[Sean Griffey](mailto:sean@fiercemarkets.com)** , the company president. We take these matters seriously.
+If you have any privacy questions or concerns, please contact **[Maurice Bakley](mailto:mbakley@fiercemarkets.com)** , the company president. We take these matters seriously.
