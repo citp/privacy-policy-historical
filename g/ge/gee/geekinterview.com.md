@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekinterview.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004536id_/http%3A//www.geekinterview.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekinterview.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615164543id_/http%3A//www.geekinterview.com/privacy.html) for the most accurate reproduction.*
 
 # GeekInterview.com - Privacy Policy
 
@@ -54,3 +54,7 @@ Your IP address: a unique number assigned to every computer on the Internet. The
 We may use cookies only to store information such as your User ID and your session identifiers to enable us to identify whether you are registered on to the site and, if so, to shortcut your access to the site. We will only read cookies from your cookie file placed there through your web browser's interaction with the site. Our site may link to other web sites and we are not responsible for their data policies or procedures or their content.
 
 We endeavor to take all reasonable steps to protect your personal Data including the use of encryption technology, but Geekinterview.com cannot guarantee the security of any data that you disclose online. 
+
+### Interview & _Career Tips_
+
+Get invaluable Interview and Career Tips delivered directly to your inbox. Get your news alert set up today, click "Subscribe".
