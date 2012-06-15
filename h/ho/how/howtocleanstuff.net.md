@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howtocleanstuff.net privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026101947id_/http%3A//www.howtocleanstuff.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtocleanstuff.net privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615072535id_/http%3A//www.howtocleanstuff.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | How To Clean Stuff
+# Privacy Policy | How To Clean Stuff.net
 
 Hi! The section below is our privacy statement. It tells you what information we collect about you and how we use it. It should be pretty easy to understand, but if you have any questions about it please contact us [here](https://web.archive.org/contact-us/) and we’d be happy to explain anything to you in plain English.
 
