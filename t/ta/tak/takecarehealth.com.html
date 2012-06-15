@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the takecarehealth.com privacy policy that was archived on 2011-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228084157id_/http%3A//www.takecarehealth.com/Privacy_Statement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the takecarehealth.com privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615061708id_/http%3A//www.takecarehealth.com/Privacy_Statement.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
         <title></title>
@@ -22,7 +22,7 @@
         <!--[if lt IE 7]>
 		<link rel="stylesheet" type="text/css" href="~/styles/ie6.css" media="all" />
 	<![endif]-->
-        <link rel="stylesheet" type="text/css" href="styles/alternate_styles.css" media="all">
+        <link rel="stylesheet" type="text/css" href="/styles/alternate_styles.css" media="all">
         <link rel="stylesheet" type="text/css" href="/styles/scheduling_styles.css" media="all">
         <script type="text/javascript" src="/scripts/jquery-1.4.2.min.js"></script>
         <script type="text/javascript" src="/scripts/jquery.flip_promo.js"></script>
@@ -58,11 +58,11 @@
                     <li><a href="About_Your_Visit.aspx" id="ctl00_lnkYourVisit" class="about_your_visit">
                         About Your Visit</a></li>
                     <li><a href="what-we-treat.aspx" id="ctl00_lnkTreatment" class="what_we_treat">
-                        What We Treat</a></li>
-                    <li><a href="Our_Care_Team.aspx" id="ctl00_lnkCareTeam" class="our_care_team">
-                        Our Care Team</a></li>
+                        Our Services</a></li>
                     <li><a href="InsuranceProviders.aspx" id="ctl00_lnkPrice" class="prices_and_payments">Prices &amp; Payments</a></li>
-                    <li><a href="Locations.aspx" id="ctl00_lnkLocations" class="locations ">Locations</a></li>
+                    <li><a href="Our_Care_Team.aspx" id="ctl00_lnkCareTeam" class="our_care_team">
+                        Our Care Team</a></li>   
+                    <li><a href="Locations.aspx" id="ctl00_lnkLocations" class="locations " onmouseover="AdjustLocationDropdwonPosition();">Locations</a></li>
                 </ul>
                 <div id="location_drop_down" class="with_clinic">
                     <div id="ctl00_dvHomeStore" class="dropdown_clinic"><div class="clinic_title"></div><div class="clinic_distance"></div>
@@ -182,7 +182,7 @@ setDropDownHeight();//]]>
                                 <ul>
                                     <li><a href="/our_company.aspx">Our Company</a></li>
                                     <li><a href="/Leadership.aspx">Leadership</a></li>
-                                    <li><a href="/careers.aspx">Join Our Team</a></li>
+                                    <li><a href="/workplace_services.aspx">Workplace Health Services</a></li>
                                     <li><a href="/press_releases.aspx">Press Releases</a></li>
                                 </ul>
                             </div>
@@ -192,7 +192,8 @@ setDropDownHeight();//]]>
                                         Shop Walgreens.com</a></li>
                                     <li><a href="http://www.walgreens.com/marketing/storelocator/find.jsp?tab=store%20locator&amp;requestType=locator" target="_blank">Find a Store Location</a></li>
                                     <li><a href="http://www.walgreens.com/pharmacy/?tab=Pharmacy" target="_blank">Pharmacy</a></li>
-                                    <li><a href="http://www.walgreens.com/topic/newsletters/may-2009-newsletter.jsp" target="_blank">Health Newsletter</a></li>
+                                    
+                                    <li>&nbsp;</li>
                                 </ul>
                             </div>
                             <div class="clear">
@@ -239,7 +240,15 @@ setDropDownHeight();//]]>
     <div class="modalBackground" id="divDisableBackground" style="position:absolute;top:0px;left:0px;display:none" unselectable="on"></div>
     
     <script type="text/javascript" src="https://img.walgreens.com/common/omn_track/s_code_h.js"></script>
-    <script type="text/javascript">        var s_code = s.t(); if (s_code) document.write(s_code)</script>
+    <script type="text/javascript">
+        var divConfirmation = document.getElementById('divAppointmentConfirmation');
+
+        if (divConfirmation != null) {
+            var s_events = "event61";
+        }
+
+    </script>
+    <script type="text/javascript">        if (typeof s != 'undefined') { var s_code = s.t(); if (s_code) document.write(s_code); }</script>
     <script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-20531291-1']);
