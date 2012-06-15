@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stv.tv privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128122654id_/http%3A//www.stv.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stv.tv privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615190638id_/http%3A//www.stv.tv/privacy) for the most accurate reproduction.*
 
 # STV - Scottish news, sport, entertainment and catch-up with your favourite TV shows
 
