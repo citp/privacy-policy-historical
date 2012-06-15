@@ -1,95 +1,93 @@
-> *The following text is extracted and transformed from the similarweb.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210034957id_/http%3A//www.similarsites.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the similarweb.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615163324id_/http%3A//www.similarsites.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Similar Sites - Privacy Policy
 
-To read our Terms of use, please visit this [page](http://www.similarsites.com/similarweb/termofuse.aspx "Similar web terms of use").
+To read our Terms of use, please visit this[ ](http://www.similarsites.com/similarweb/termofuse.aspx)[page](http://www.similarsites.com/similarweb/termofuse.aspx).
 
-Similarsites.com (" **Website** ")is a website owned and operated by SimilarWeb Ltd. (" **SimilarWeb** "," **We** " or " **Us** ") We treasure our privacy and that is why we made every effort to create a service that would live up to such user privacy standards we would be comfortable with.
+SimilarSites.com ("Website")is a website owned and operated by SimilarWeb Ltd. ("SimilarWeb","We" or "Us") We greatly respect your privacy which is why we make every effort to provide a service that would live up to the highest of user privacy standards.
 
- ** _User Consent_**
+User Consent
 
-When you use this Website and its services,you consent to the collection, use and disclosure of your information asdescribed in this Privacy Policy.
+When you use this Website and our products and services, you consent to the collection, use and disclosure of your information as described in this Privacy Policy.
 
-SimilarWeb knows that you care howinformation about you is used and shared.
+We know that you care about how your information is used and shared. This Privacy Policy explains what information of yours will be collected by SimilarWeb, and stored on its servers, when you make use of the Website or one of our add-ons, apps, API, software or downloads from the Website (" **Product** "), as well as how the information will be used.
 
-This Privacy Policy explains whatinformation of yours will be collected by SimilarWeb, and stored on its servers,when you make use of the Website or software downloaded from the Website(" **Product** ")and how the information will be used.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We will not use or share your informationwith anyone except as described in this Privacy Policy.
+This Privacy Policy may be updated from time to time and therefore we ask you to check back periodically for the most updated version of the Privacy Policy, as indicated below. Your continued use of the Product and/or this Website after this Privacy Policy has been amended shall be deemed as your continued acceptance of the terms of this Privacy Policy, as amended.
 
-This Privacy Policy may be updated fromtime to time and therefore we ask you to check back periodically the mostupdated form of Privacy Policy as indicated below. Your continued use of theProduct and/or this Website after this Privacy Policy has been amended shall bedeemed as your continued acceptance of the terms of this Privacy Policy, asamended.
+Information Collected
 
- ** _Information Collected_**
+Personal Information
 
- _Personal Information_
+Currently, we do not ask you to register for our products because we simply do not need you to. We do not require the submission of any information that identifies you personally, such as your name, address and other ("Personal Information"). However, when you commence direct communications with us, we may retain such communications and the accompanying Personal Information in order to process your inquiries, respond to your requests and improve our services.
 
-Currently, We do not ask you to registerfor Site because We simply do not need you to. We do not require the submissionof any information that identifies your personally, such as your name,address and so on (" **Personal Information** "),however, when youcommence direct communications with us, we may retain such communications andthe accompanying Personal Information in order to process your inquiries,respond to your requests and improve our services.
+Statistical Information
 
- _Statistical Information_
+We collect and aggregate non-identifying information regarding users use of our Products, including, inter alia, advertisements viewed, pages browsed, search inquiries, offers and services that interest you, the type of browser you are using, your IP address, the URL you have come from and the time spent at that URL, cookies and your domain type and server("Statistical Information").
 
-We collect and aggregate non-identifying informationregarding user use of our Website, including, inter alia, advertisementsviewed, pages browsed, search inquiries, offers and services that interestedyou, the type of browser you are using, your IP address, the URL you have comefrom and the time spent at that URL, cookies and your domain type and server(" **Statistical Information** ").
+Browsing History and IP
 
- _Browsing History and IP_
+In order to facilitate, improve, refine, personalize and match the identification and presentation of our products and SimilarSites.com results to your browsing preferences and habits, we collect information regarding your use of our Product including URL and Statistical Information of websites you may be browsing while Product is installed ("Browsing History"), and together with the Statistical Information "Non-Personal Information").
 
-In order to facilitate, improve, refine, personalizeand match the identification and presentation of Similar Sites to your browsingpreferences and habits, we collect information regarding your use of ourProduct including URL and Statistical Information of websites you may be browsingwhile Product is installed (" **Browsing History** ", and togetherwith the Statistical Information " **Non-Personal Information** ").
+While we would never collect any Personal Information submitted to such websites, note that Browsing History is aggregated separately for each specific IP, in order to continuously improve our products and provide the most relevant SimilarSites results for each different location to better understand Internet trends statistics.  
 
-While we would never collect any  _PersonalInformation_  submitted to such websites, note that Browsing History isaggregated separately for each specific IP, in order to provide the mostrelevant SimilarSites for each different location.  
+That said, IP addresses, while identifying a device connected to the Internet, and its general location, are in themselves anonymous and contain no information regarding the identity of the ultimate person using the device – such identity is known solely to your ISP.
 
-That said, IP addresses, while identifyinga device connected to the Internet, and its general location, are in themselvesanonymous and contain no information regarding the identity of the ultimateperson using the device – such identity is known solely to your ISP.
+Moreover, IP addresses assigned by ISPs are generally dynamic and subject to frequent change – static IP addresses are generally assigned only at subscriber's specific request and frequently require an additional fee.
 
-Moreover, IP addresses assigned by ISPs aregenerally dynamic and subject to frequent change – static IP addresses aregenerally assigned only at subscriber's specific request and frequently requirean additional fee.
+Service & Product Provided from the United States
 
- _ **Service & Product Provided from the United States**_
+When you make use of the Website or our Products from outside the United States, please be aware that the information collected is being transferred to, stored and processed in the United States where our servers are located and our central database is operated. By using the Product and/or using the Website, which are provided exclusively from the United States, you hereby consent to the transfer of your information to the United States and its collection, storage, sharing and use as described in this Privacy Policy. The data protection and other laws of the United States and other countries might not be as strict and/or comprehensive as those in your country; nonetheless, our services and Product are not subject to any data protection laws or regulations which are not referred to in this policy.
 
-When you make use of the Website or the Product from outside the United States, please be aware that the information collected is being transferred to, stored and processed in the United States where our servers are located and our central database is operated. By using the Product and/or using the Website, which are provided exclusively from the United States, you hereby consent to the transfer of your information to the United States and its collection, storage, sharing and use as described in this Privacy Policy. _The data protection and other laws of the United States and other countries might not be as strict and/or comprehensive as those in your country; nonetheless, our services and Product are not subject to any data protection laws or regulations which are not referred to in this policy_. 
+Use by Children
 
-_**Use by Children**_
+We do not offer our products or services for use by children. If you are under 18, you may not use the Website or our Products without involvement of a parent or a guardian. We do not knowingly collect information from, and/or about children.
 
-We do not offer products or services for use by children. If you are under 18, you may not use the Website or the Product without involvement of a parent or a guardian. We do not knowingly collect information from, and/or about children.
+Product Updates
 
- ** _Product Updates_**
+The Product performs regular checks for product updates on our servers and may download such updates when needed.
 
-The Product performs regular checks forproduct updates on our servers and may download such updates when needed.
+Use of Collected Information
 
- ** _Use of Collected Information_**
+Personal Information
 
- _Personal Information_
+Personal Information shall be used solely in order to process your inquiries, respond to your requests and improve our services.
 
-Personal Information shall be used solely in orderto process your inquiries, respond to your requests and improve our services.
+We may share some or all of your Personal Information with our subsidiaries, joint ventures or other companies under a common control that we have or may have in the future, providing such party undertakes to protect your privacy in accordance with these terms.
 
-We may share some or all of your PersonalInformation with our subsidiaries, joint ventures or other companies under acommon control that we have or may have in the future, providingsuch party undertakes to protect your privacy in accordance with these terms.
+Otherwise, we will not disclose your Personal Information to any third party, unless:
 
-Otherwise, we will not disclose yourPersonal Information to any third party, unless:
+        \- Required to do so as part of any legal proceedings conducted between you and SimilarWeb.
 
-·        Required to do so as part of any legalproceedings conducted between you and SimilarWeb.
+        \- Required to do so by court order.
 
-·        Required to do so by court order.
+        \- In case the activity of the Website is transferred to a third party, providing such party     undertakes to protect your privacy in accordance with these terms.
 
-·        In case the activity of the Website istransferred to a third party, providing such party undertakes to protect yourprivacy in accordance with these terms.
+Non-Personal Information
 
- _Non-Personal Information_
+Non-Personal Information shall be used to ensure the adequate operation, improve, modify, cancel, enrich or adjust the Website and/or the Product, in general or to your area of interest.
 
-Non-Personal Information shall be used to ensurethe adequate operation, improve, modify, cancel, enrich or adjust the Websiteand/or the Product, in general or to your area of interest.
+We reserve the right to use, disclose, and\or transfer (for business purpose or otherwise) Non-Personal Information (in the collected form) to third parties and enable them to use Non-Personal information, including, inter alia, potential and actual advertisers, sponsors, business partners, investors, affiliates and consultants at our sole discretion.
 
-We reserve the right to use, disclose, and\ortransfer (for business purpose or otherwise) Non-Personal Information (in theform collected) to third parties, including,  _interalia_ , potential and actual advertisers, sponsors, business partners,investors, affiliates and consultants, at our sole discretion.
+Cookies
 
- ** _Cookies_**
+We use Cookies in order to ensure proper operation, collect Statistical Information, verify information, tailor the Website and Product to your specific preferences and ensure information security.
 
-We use Cookies in order to ensure proper operation,collect Statistical Information, verify information, tailor the Website andProduct to your specific preferences and ensure information security.
+Please note that modern browsers enable you to disable Cookies (if you do not know how to do this, reference the Help file of your browser), however, this may interfere with your use of the Website or its services.
 
-Please note that modern browsers enable youto disable Cookies (if you do not know how to do this, check out the Help file ofyour browser), however, this may interfere with your use of the Website or itsservices.
+Third Party Advertisements
 
- ** _Third Party Advertisements_**
+We use third-party advertising companies in order to serve advertisements on our Website. Such parties may use Cookies placed on your computer in order to a adjust the advertisements presented on the Website. Note that such use is subject to the privacy policy of said parties and is not subject to these terms (for example, regarding advertisements served by Google, see:[ ](http://www.google.com/privacy/ads)<http://www.google.com/privacy/ads>).
 
-We use third-party advertising companies inorder to serve advertisements on our Website. Such parties may use Cookies placedon your computer in order to a adjust the advertisements presented on the Website.Note that such use is subject to the privacy policy of said parties and is notsubject to these terms (for example, regarding advertisements served by Google,see[http://www.google.com/privacy/ads](http://www.google.com/privacy/ads)).
+Similar Sites
 
- ** _Similar Sites_**
+The Product may discover and recommend third-party websites the Product determines may be of interest to you ("SimilarSites"). We do not have control over such Similar Sites, or other third-party websites we may link to from our Website, including their information and collection practices. We are not responsible for their privacy practices or contents.
 
-The Product may discover and recommendthird-party websites the Product determines may be of interest to you(" **SimilarSites** "). We do not have control over such SimilarSites, or otherthird-party websites we may link to from our Website, including theirinformation collection practices, and we are not responsible for their privacypractices or contents.
+Information Security
 
- ** _Information Security_**
+Note that although we take measures to secure the information and reduce the risk of unwanted disclosure, we can not guarantee the information will not be exposed as a result of unauthorized penetration to our servers.
 
-Note that although we take measures tosecure the information and reduce the risk of unwanted disclosure, we can not guaranteethe information will not be exposed as a result of unauthorized penetration toour servers.
+If you have any questions about this Policy, please contact us at Info@SimilarGroup.com
 
-If you have any questions about thisPolicy, please contact us at Info@SimilarGroup.com
-
-Last update: 10/16/2011
+Last update: 12/22/2011
