@@ -1,23 +1,12 @@
-> *The following text is extracted and transformed from the dyson.co.uk privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223225347id_/http%3A//www.dyson.co.uk/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyson.co.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615180435id_/http%3A//www.dyson.co.uk/Support/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Dyson Privacy Policy
+# Privacy Policy
 
 Dyson is committed to ensuring that your privacy is protected. This privacy policy explains what sort of information we collect about you, how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information. It also sets out the procedures that we have in place to safeguard your privacy.
 
 By submitting your information (please see paragraph 1 below) you consent to the use of that information as set out in this policy. If we change our privacy policy, any changes will be posted on this page without notification.
 
 Questions regarding this privacy policy should be directed to the Web-Master at [service@dyson.com.](mailto:service@dyson.com)
-
-You may also contact us at:
-
-**Dyson Ltd.**
-
-Tetbury Hill,   
-Malmesbury,   
-Wiltshire,   
-SN16 0RP
-
-**Tel:** 0870 527 5104
 
   * What personally identifiable information do we collect about you?
   * What do we do with the information we collect?
@@ -64,16 +53,15 @@ Back to top
 
 If you wish to opt out of being contacted by Dyson or its agents about our products and services, you may either do so at the time you provide us with your contact details, or at any time by:
 
-  * (i) Amending your records in the ["My Profile"](https://web.archive.org/account/) section of this web site, or
-  * (ii) Using the unsubscribe option included in all our promotional email correspondence, or
-  * (iii) Sending an email to [service@dyson.com](mailto:service@dyson.com), or 
-  * (iv) Writing to us at Dyson Ltd, Tetbury Hill, Malmesbury, Wiltshire SN16 0RP, stating that you do not wish to receive such communications.
+  * Using the unsubscribe option included in all our email correspondence, or
+  * Sending an email to [service@dyson.com](mailto:service@dyson.com), or 
+  * Writing to us at Dyson Ltd, Tetbury Hill, Malmesbury, Wiltshire SN16 0RP, stating that you do not wish to receive such communications.
 
 
 
 We will provide users of our website with details of the contact information that we hold on them upon request within 30 days. To make such a request, send an email to [service@dyson.com](mailto:service@dyson.com) or write to us at Dyson Ltd, Tetbury Hill, Malmesbury, Wiltshire SN16 0RP and include your full name and postal address.
 
-If any of the information that you have provided to Dyson changes, for example if you change your e-mail address, name or postal address, please update your records in the ["My Profile"](https://web.archive.org/account/) section of this web site, let us know the correct details by an e-mail to [service@dyson.com](mailto:service@dyson.com).
+If any of the information that you have provided to Dyson changes, for example if you change your e-mail address, name or postal address, please let us know the correct details by an e-mail to [service@dyson.com](mailto:service@dyson.com).
 
 Back to top
 
