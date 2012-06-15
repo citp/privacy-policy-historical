@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usedcars.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221063045id_/http%3A//www.usedcars.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedcars.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615211452id_/http%3A//www.usedcars.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – UsedCars.com
 
@@ -6,11 +6,11 @@
 
 **SCOPE OF THIS PRIVACY POLICY**
 
-At usedcars.com we take privacy seriously. This Privacy Policy describes our policies for handling the information about you that we collect and receive through this website. You can visit [usedcars.com](https://web.archive.org/Home.aspx) without revealing who you are or providing any personal information about yourself. By using this website, you agree to the terms of this Privacy Policy.
+At usedcars.com we take privacy seriously. This Privacy Policy describes our policies for handling the information about you that we collect and receive through this website. You can visit [usedcars.com](http://www.usedcars.com/) without revealing who you are or providing any personal information about yourself. By using this website, you agree to the terms of this Privacy Policy.
 
 This Privacy Policy does not apply to practices of businesses that we do not own or control or people we do not employ. In addition, this website may contain links to other websites, such as automotive research, financing or insurance websites, and we are not responsible for the content, policies or privacy practices of such websites.
 
-[Usedcars.com](https://web.archive.org/Home.aspx) is a Participant in the [TRUSTe Privacy Seal Program](http://www.truste.com/privacy-program-requirements/index.html). TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
+[Usedcars.com](http://www.usedcars.com/) is a Participant in the [TRUSTe Privacy Seal Program](http://www.truste.com/privacy-program-requirements/index.html). TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact us at [usedcars@dealix.com](mailto:usedcars@dealix.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe here](http://www.truste.org/consumers/watchdog_complaint.php).
 
@@ -95,7 +95,7 @@ If you request to opt-out of receiving emails from us and subsequently submit a 
 
 **ACCESS**
 
-If you would like to access and update your personal information to correct or update inaccuracies, please log onto the site and re-populate the form to modify your information and resubmit your request. Should you want to modify information previously provided, please [contact us](https://web.archive.org/About/Feedback.aspx).
+If you would like to access and update your personal information to correct or update inaccuracies, please log onto the site and re-populate the form to modify your information and resubmit your request. Should you want to modify information previously provided, please [contact us](https://web.archive.org/about/feedback.aspx).
 
 **INFORMATION SECURITY**
 
@@ -113,7 +113,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 **OTHER INFORMATION**
 
-If you have any questions about our Privacy Policy or privacy policies, please feel free to [contact us](https://web.archive.org/About/Feedback.aspx). You can also reach us by writing us at Dealix Corporation, 720 Bay Road, Suite 200, Redwood City, CA 94063.
+If you have any questions about our Privacy Policy or privacy policies, please feel free to [contact us](https://web.archive.org/about/feedback.aspx). You can also reach us by writing us at Dealix Corporation, 720 Bay Road, Suite 200, Redwood City, CA 94063.
 
 **EFFECTIVE DATE**
 
