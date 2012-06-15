@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grocerycouponnetwork.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021521id_/http%3A//www.grocerycouponnetwork.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grocerycouponnetwork.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615031148id_/http%3A//www.grocerycouponnetwork.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy & Terms | Grocery Coupon Network
 
@@ -72,7 +72,7 @@ You are always free to decline these cookies if Your browser permits, however Yo
 
 We have security measures in place designed to protect the security of Your information. All collected information is stored in a technically and physically secure environment. In addition when You submit Your credit card information or other sensitive information, the 128-bit encrypted Secure Socket Layer (“SSL”) connection scrambles or encrypts Your information before it is sent to Us over the Internet. This protects Your credit card information from being read while it is transferred. SSL is supported by Netscape 2.0+, Microsoft IE 3.0+ and most frame-enabled browsers. Depending on which browser You use, You will know that You are in a secure area by "https" or a small key or padlock in the bottom right hand corner of Your browser indicating that Your transaction is secure. Unfortunately, no security measures can ever be guaranteed to be 100% secure. As a result, while we strive to protect Your Personal Information and sensitive information, we cannot ensure or warrant the security of any information that You transmit to us, and You do so at Your own risk. Once we receive Your transmission, we make reasonable efforts to ensure its security on our systems. Access to Personal Information is strictly limited, and not accessible to the public. All Personal Information is restricted in our offices. Only employees that need the Personal Information to perform a specific job (for example, a customer service representative) are granted access to Personal Information. Our employees are dedicated to ensuring the security and privacy of all Personal Information. Employees not adhering to our firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, we shall notify You and any applicable regulatory agencies in the event that we learn of an information security breach with respect to Your Personal Information. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.
 
-DO THESE SAME PRIVACY POLICIES APPLY TO THIRD-PARTY WEBSITES THAT YOU ACCESS THROUGH THE GROCERY COUPON NETWORK WEBSITE?
+**DO THESE SAME PRIVACY POLICIES APPLY TO THIRD-PARTY WEBSITES THAT YOU ACCESS THROUGH THE GROCERY COUPON NETWORK WEBSITE?**
 
 No. The Privacy Policy appearing on the Website relates only to Grocery Coupon Network. You will notice that the Website may contain links to other websites, such as websites operated by Our Sponsors. We cannot be responsible for, and shall have no liability in connection with, the privacy and security practices of other websites that You may access through the Website, even if links to those third party websites are displayed within a frame on Our Website. You should always review a particular website's privacy and security policies when visiting that website and before revealing any Personal Information to that website.
 
@@ -88,6 +88,12 @@ Consumers under the age of eighteen (18) are not permitted to submit any Persona
 
 If You have any questions about the practices of Grocery Coupon Network, You can contact Us by visiting the Contact Us section of the Website, or via postal mail at Grocery Coupon Network, 27 N Wacker DR, Suite 561, Chicago, Il 60606.
 
+Email: [privacy@GroceryCouponNetwork.com](mailto:privacy@GroceryCouponNetwork.com)  
+Phone: (312) 476-9862
+
 | 
 
 ### Check out the GCN Community
+
+  
+[Grocery Coupon Network](http://www.facebook.com/pages/Grocery-Coupon-Network/187379439313)
