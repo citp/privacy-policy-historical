@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oscarseek.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211161218id_/http%3A//www.oscarseek.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oscarseek.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615083322id_/http%3A//www.oscarseek.com/pages/privacy) for the most accurate reproduction.*
 
 # Privicy Information
 
