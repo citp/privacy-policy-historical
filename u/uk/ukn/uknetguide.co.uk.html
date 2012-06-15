@@ -1,505 +1,669 @@
-<!--The following is the downloaded HTML source of the uknetguide.co.uk privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101135633id_/http%3A//www.uknetguide.co.uk/Info/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uknetguide.co.uk privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615205137id_/http%3A//www.uknetguide.co.uk/Info/Privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		<meta name="language" content="en-gb">
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
+    <meta name="language" content="en-gb">
 <meta name="document-type" content="Public">
 <meta name="document-rating" content="General">
-<title>UK Net Guide - your online guide to the best of the web: Privacy Policy</title>
-<meta name="description" content="UK Net Guide - specialised Internet directory, offering a wide selection of the best UK sites covering 15 main channels, including: homes, shopping, motoring, finance, jobs, sports, travel, entertainment, lifestyle, news, business, education, government, health and computers.">
-<meta name="keywords" content="uk net guide, net, internet, web, uk web guide, uk, guide, search engine, directory, directories, property, jobs, employment, cars, motors, finance, money, shops, shopping, sport, sports, flight, flights, holidays, entertainment, lifestyle">
 
-    <link href="/Styles/ukng.css?css=11" rel="stylesheet" type="text/css">
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" src="/Includes/InJS.asp"></script>
-
-<script language="JavaScript" type="text/javascript">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta charset="iso-8859-1">
 
 
-var xmlHttpRecordClick
-
-function RecordClick(GuideID, GuideCategoryID)
-{    
-    xmlHttpRecordClick=GetXmlHttpRecordClickObject();
-    if (xmlHttpRecordClick==null)
-    {
-        alert ("Your browser does not support AJAX!");
-        return;
-    }
-    var url="/WECL/Click/InlineClick.asp";
-    url=url+"?GID="+GuideID;
-    url=url+"&GCID="+GuideCategoryID;
-    url=url+"&SI=UKNE";
-    url=url+"&PageURL=%2FInfo%2FPrivacy%2Easp";
-    url=url+"&RandomNo="+Math.random();
-    xmlHttpRecordClick.open("GET",url,true);
-    xmlHttpRecordClick.send(null);
-} 
-
-function RecordCampaignItemClick(CampaignItemID)
-{    
-    xmlHttpRecordClick=GetXmlHttpRecordClickObject();
-    if (xmlHttpRecordClick==null)
-    {
-        alert ("Your browser does not support AJAX!");
-        return;
-    }
-    var url="/WECL/Click/InlineClick.asp";
-    url=url+"?UKNECI="+CampaignItemID;
-    url=url+"&SI=UKNE";
-    url=url+"&PageURL=%2FInfo%2FPrivacy%2Easp";
-    url=url+"&RandomNo="+Math.random();
-    xmlHttpRecordClick.open("GET",url,true);
-    xmlHttpRecordClick.send(null);
-} 
-
-function RecordTracking()
-{    
-
-    var url="/WECL/Click/InlineTracking.asp";
-    url=url+"?UKNESI=UKNE";
-    url=url+"&RandomNo="+Math.random();
-
-	document.getElementById("TrackingDiv").src = url;
-	
-	return true;	
-} 
-
-
-function GetXmlHttpRecordClickObject()
-{
-    var xmlHttpRecordClick=null;
-    try
-      {
-      // Firefox, Opera 8.0+, Safari
-      xmlHttpRecordClick=new XMLHttpRequest();
-      }
-    catch (e)
-      {
-      // Internet Explorer
-      try
-        {
-        xmlHttpRecordClick=new ActiveXObject("Msxml2.XMLHTTP");
-        }
-      catch (e)
-        {
-        xmlHttpRecordClick=new ActiveXObject("Microsoft.XMLHTTP");
-        }
-      }
-    return xmlHttpRecordClick;
-}
+<title>Cookie Policy</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
 
 
 
-var clickAmount;
-clickAmount = 0;
-
-function trackClick(progRef) {
-            
-   clickAmount = clickAmount + 1;
-           
-   var x = readCookie('asdaasda')
-           
-   var tmp = document.getElementById("div2").innerHTML
-               
-   if ((clickAmount == 1) && !(x) && (tmp.length > 20) ) {               
-                            
-      createCookie('asdaasda','1',1);
-              
-      a = open(tmp,'maybe','width=950,height=800,toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1');
-      a.blur();
-      window.focus();
-   }
-           
-}
 
 
-function readCookie(name) {
-    var nameEQ = name + "=";
-    var ca = document.cookie.split(';');
-    for(var i=0;i < ca.length;i++) {
-        var c = ca[i];
-        while (c.charAt(0)==' ') c = c.substring(1,c.length);
-        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-    }
-    return null;
-}
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame Remove this if you use the .htaccess -->
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 
-
-function createCookie(name,value,days) {
-    if (days) {
-        var date = new Date();
-        date.setTime(date.getTime()+(days*24*60*60*1000));
-        var expires = "; expires="+date.toGMTString();
-    }
-    else var expires = "";
-    document.cookie = name+"="+value+expires+"; path=/";
-}
-
-
-</script>
-
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<style type="text/css">
-.LeftColumn .LeftMenuList LI A:hover, .LeftColumn .LeftMenuList LI UL LI A:hover {
-	BACKGROUND-COLOR: #;
-	COLOR: #222222;
-}
-</style>
-
-	</head>
-	
-		<body style="background-image: url(/images/GLOBAL/background_christmas.gif);">
-
-<iframe height="0" width="0" id="TrackingDiv" src="" style="display:none"></iframe>
-		
-	<table border="0" width="100%" style="border-collapse:separate;border-spacing:3px;">
-		<tbody><tr>
-			<td>
-				<div id="divPageContainer" class="PageContainer" style="vertical-align:middle;">
-					
-					<div class="Logo" style="width:100%;margin-top:10px;">
-						<a href="/" target="_top">
-						  <img src="/images/GLOBAL/ukng_blue.gif" alt="UK Net Guide" border="0" style="float:left;"> 
-						</a>
-					</div>
-					
-					<div class="BannerAd">
-
-                        <!--CPM UKNE , TOP , [/Info/Privacy.asp] -->
-                        
-                        								
-						<!--iframe src="http://ads.uknetguide.co.uk/serve/adframe.asp?AdType=1&amp;SI=UKNE&amp;ReferringPage=%2FInfo%2FPrivacy%2Easp%3F&amp;RandomNo=46105593&amp;GUID={06C6A9D4-F034-4714-B3F1-F3283BE5E883}" height="60" width="468" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe-->
-                        
-					</div>
-
-				<div class="HeaderStrip" style="width:960px;z-index:10;">
-  <ul>
-  <!--li><a href="/" title="Home" style="PADDING-BOTTOM: 3px;">Home<br />&nbsp;</a></li-->
-
-		<li><a href="/Finance/" target="_top">Money<br>&nbsp;</a></li>
-	
-		<li><a href="/Insurance/" target="_top">Insurance<br>&nbsp;</a></li>
-	
-		<li><a href="/Travel/" target="_top">Travel<br>&nbsp;</a></li>
-	
-		<li><a href="/Employment/" target="_top">Jobs<br>&nbsp;</a></li>
-	
-		<li><a href="/TV/" target="_top">TV&nbsp;Guide<br>&nbsp;</a></li>
-	
-		<li><a href="/Latest-News.html" target="_top">News<br>&nbsp;</a></li>
-	
-		<li><a href="/Entertainment/" target="_top">Entertainment<br>&nbsp;</a></li>
-	
-		<li><a href="/Homes_and_Gardens/" target="_top">Property<br>&nbsp;</a></li>
-	
-		<li><a href="/Lifestyle_and_Leisure/" target="_top">Dating<br>&nbsp;</a></li>
-	
-		<li><a href="/Sports/" target="_top">Sports<br>&nbsp;</a></li>
-	
-		<li><a href="/Health_and_Fitness/" target="_top">Health<br>&nbsp;</a></li>
-	
-		<li><a href="/Shopping/" target="_top">Shop &amp; Compare<br>&nbsp;</a></li>
-	
-		<li><a href="/Motoring/" target="_top">Motoring<br>&nbsp;</a></li>
-	
-		<li><a href="http://competitions.uknetguide.co.uk" target="_top">Competitions<br>&nbsp;</a></li>
-	
-		<li><a href="http://blog.uknetguide.co.uk" target="_top">Blog<br>&nbsp;</a></li>
-	
-</ul>
-</div>
-
-    <link rel="stylesheet" type="text/css" href="/Styles/searchstrip.css?t=1">
+<!-- Mobile viewport optimized: j.mp/bplateviewport -->
+<meta name="viewport" content="width=980">
+<!-- Place favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<!-- CSS: implied media="all" -->
+<link rel="stylesheet" href="/css/style.css?v=2">
+<link rel="stylesheet" href="/css/main.css?v=9">
+    
+    <!--[if lte IE 6]>
+    <style>
+        #dropline li .border {display:none;}
+    </style>
+    <![endif]-->
     
 
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+    <script>        window.jQuery || document.write("<script src='/js/libs/jquery-1.7.0.min.js'>\x3C/script>")</script><script src="/js/libs/jquery-1.7.0.min.js"></script>
 
-    <script language="Javascript" src="/Includes/inJSSearchStrip.js"></script>
+    <script type="text/javascript" language="javascript" src="/Includes/InJS.asp"></script> 
+    <script type="text/javascript" language="javascript" src="/js/libs/modernizr-1.7.min.js"></script> 
+
+    
+    <script>
+        function ImgError(source) {
+            source.src = "/Images/210x120/210x120_guides.gif";
+            source.onerror = "";
+            return true;
+        }
+        function ImgErrorNews(source) {
+            source.src = "/Images/210x120/210x120_news.jpg";
+            source.onerror = "";
+            return true;
+        }
+    </script>
+
+    <script language="JavaScript" type="text/javascript">
+
+    var xmlHttpRecordClick
+
+    function RecordClick(GuideID, GuideCategoryID){    
+        xmlHttpRecordClick=GetXmlHttpRecordClickObject();
+        if (xmlHttpRecordClick==null){
+            alert ("Your browser does not support AJAX!");
+            return;
+        }
+        var url="/WECL/Click/InlineClick.asp";
+        url=url+"?GID="+GuideID;
+        url=url+"&GCID="+GuideCategoryID;
+        url=url+"&SI=NEHP";
+        url=url+"&PageURL=%2FInfo%2FPrivacy%2Easp";
+        url=url+"&RandomNo="+Math.random();
+        xmlHttpRecordClick.open("GET",url,true);
+        xmlHttpRecordClick.send(null);
+    } 
+
+    function RecordCampaignItemClick(CampaignItemID){    
+        xmlHttpRecordClick=GetXmlHttpRecordClickObject();
+        if (xmlHttpRecordClick==null){
+            alert ("Your browser does not support AJAX!");
+            return;
+        }
+        var url="/WECL/Click/InlineClick.asp";
+        url=url+"?UKNECI="+CampaignItemID;
+        url=url+"&SI=NEHP";
+        url=url+"&PageURL=%2FInfo%2FPrivacy%2Easp";
+        url=url+"&RandomNo="+Math.random();
+        xmlHttpRecordClick.open("GET",url,true);
+        xmlHttpRecordClick.send(null);
+    } 
+
+    function RecordTracking(){    
+        var url="/WECL/Click/InlineTracking.asp";
+        url=url+"?UKNESI=NEHP";
+        url=url+"&RandomNo="+Math.random();
+	    document.getElementById("TrackingDiv").src = url;	
+	    return true;	
+    } 
+
+    function GetXmlHttpRecordClickObject(){
+        var xmlHttpRecordClick=null;
+        try{
+          xmlHttpRecordClick=new XMLHttpRequest();
+        }
+        catch (e){
+          try{
+            xmlHttpRecordClick=new ActiveXObject("Msxml2.XMLHTTP");
+          }
+          catch (e){
+            xmlHttpRecordClick=new ActiveXObject("Microsoft.XMLHTTP");
+          }
+        }
+        return xmlHttpRecordClick;
+    }
+
+    var clickAmount;
+    clickAmount = 0;
+
+    function trackClick(progRef) {        
+       clickAmount = clickAmount + 1;         
+       var x = readCookie('asdaasda');         
+       var tmp = document.getElementById("div2").innerHTML              
+       if ((clickAmount == 1) && !(x) && (tmp.length > 20) ) {                                          
+          createCookie('asdaasda','1',1);             
+          a = open(tmp,'maybe','width=950,height=800,toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1');
+          a.blur();
+          window.focus();
+       }          
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+
+    function createCookie(name,value,days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime()+(days*24*60*60*1000));
+            var expires = "; expires="+date.toGMTString();
+        }
+        else var expires = "";
+        document.cookie = name+"="+value+expires+"; path=/";
+    }
+
+    </script>
 
 
-    <div id="searchbarTop" style="margin-left:5px;padding-top:5px;width:925px;vertical-align:middle;">  
-        <div class="left" style="height:29px;background-color:#f5f5f5;vertical-align:middle;">
-            <div style="float:left;margin-left:3px;vertical-align:middle;padding-top:4px;">
-            <form action="/Search/Default.asp" method="get" style="display:inline;padding-right:22px" id="form11" name="form1">  
-                <span style="font-weight:bold;">Search</span>
-                <input id="searchboxTop" type="text" name="Search" value="" style="vertical-align:middle;"> 
-                <input type="image" src="/images/topbar/gobutton.gif" alt="GO" style="width:48px;height:19px;vertical-align:middle;">        
-                <input type="radio" name="SearchType" value="1" checked="" style="vertical-align:middle;" onclick="this.form.action='/Search/Default.asp';">Web
-                <input type="radio" name="SearchType" value="0" style="vertical-align:middle;" onclick="this.form.action='/Search/Insite.asp';">Site
-                <input type="hidden" name="type" value="">
-            </form>
-        </div>
 
-    <!--    </div>    <div class="right">-->
+    <style>
+        h1 {font-size:18px;margin-bottom:10px;font-weight:bold;}
+        h2 {font-size:15px;margin-bottom:10px;font-weight:bold;margin-top:20px;}
+        p, ul, li {margin-bottom:10px;}
+        a {color:#E30613;}
+        strong {font-weight:bold;}
+    </style>
+</head>
+<body>
+    <div id="container">
+        <header> 
+<div class="headerLogo"><a href="/"><img src="/images/uknelogo.gif" id="ukneLogo" alt="uk net guide"></a></div>
+<div class="headerBanner"><!--CPM NEHP , LEAD , [/Info/Privacy.asp] -->
+<iframe id="appugfmz" name="appugfmz" src="http://delivery.switchadhub.com/adserver/www/delivery/afr.php?refresh=60&amp;zoneid=2926&amp;cb=0.5563275&amp;ct0=INSERT_CLICKURL_HERE" frameborder="0" scrolling="no" width="728" height="90" allowtransparency="true" style="border:0;"><a href='http://delivery.switchadhub.com/adserver/www/delivery/ck.php?n=a2fjxm81&amp;cb=0.5563275' target='_blank'><img src='http://delivery.switchadhub.com/adserver/www/delivery/avw.php?zoneid=2926&amp;cb=0.5563275&amp;n=a2fjxm81&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></iframe></div>
+
+<div id="nav">
+    <ul id="dropline">
+
+        <li><a class="sub" href="/Finance/"><b>Money</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
+            <div>
+
+                <ul>
+<li><a href="/Finance/Loans_Search/">loans</a></li><li><a href="/Finance/Credit_Cards_Zero_Balance_Transfers/">credit cards</a></li><li><a href="/Finance/Mortgage_Good_Credit_History_Search/">mortgages</a></li><li><a href="/Finance/Savings_Account_Search/">savings</a></li><li><a href="/Finance/Current_Account_Search/">current accounts</a></li><li><a href="/Insurance/">insurance</a></li><li><a href="/Utilities/Energy.html">utilities</a></li><li><a href="/Employment/Finance_Jobs/">finance jobs</a></li><li><a href="/Finance/Articles.html">money guides</a></li><li><a href="/Finance/Mortgages/">top sites</a></li>
+                </ul>
+            </div><div class="border"></div>
+
+            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+        </li>
         
-            <div style="display:inline;position:relative;float:right;margin-right:5px;vertical-align:middle;padding-top:4px;"> 
-                <form style="display:inline;" method="post" action="/Users/Default.asp" onsubmit="return ValidateForm()" name="newsletterTop" id="newsletterTop">
-                    <div style="display:inline;font-weight:bold;vertical-align:middle;">
-                    Newsletter &amp; Hot Offers
-                    </div>
-                    <input type="text" name="newsletterOffersEmailSignUpBox" id="newsletterOffersEmailSignUpBox" size="20" value="Enter your email..." onclick="javascript:if(this.value='Enter your email...'){ this.value=''}">
-                    <input type="hidden" name="formType" value="toolbar">
-                    <input type="image" src="/images/topbar/signup-pink.gif" style="border:0px;width:73px;height:20px;vertical-align:middle;margin-bottom:4px;">
-                </form>
+        <li><a class="sub" href="/Travel/"><b>Travel</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
+            <div>
+
+                <ul>
+<li><a href="/Travel/Flight_Search/">flights</a></li><li><a href="/Travel/Holiday_Search/">holidays</a></li><li><a href="/Travel/Travel-Insurance/">insurance</a></li><li><a href="/Travel/Hotel_Search/">hotels</a></li><li><a href="/Travel/Deals/">deals</a></li><li><a href="/Travel/Trains/">trains</a></li><li><a href="/Travel/Car_Hire_Search/">car hire</a></li><li><a href="/Holiday-Guides/">travel guides</a></li><li><a href="/Travel/Flights/">top sites</a></li>
+                </ul>
+            </div><div class="border"></div>
+
+            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+        </li>
+        
+        <li><a class="sub" href="/Employment/"><b>Jobs</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
+            <div>
+
+                <ul>
+<li><a href="/Employment/Job_Search/">job search</a></li><li><a href="/Employment/UploadYourCV.html">upload your cv</a></li><li><a href="/Employment/AddYourJob.html">add your job</a></li><li><a href="/Employment/training-courses.html">training courses</a></li><li><a href="/Employment/Articles.html">job guides</a></li><li><a href="/Employment/Jobs/">top sites</a></li>
+                </ul>
+            </div><div class="border"></div>
+
+            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+        </li>
+        
+        <li><a class="sub" href="/TV/"><b>TV Guide</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
+            <div>
+
+                <ul>
+<li><a href="/TV/Article/A_Guide_to_Sky-106125.html">sky</a></li><li><a href="/TV/Article/Virgin_Media-106120.html">virgin</a></li><li><a href="/TV/Article/A_Guide_to_BT_Vision-106071.html">bt vision</a></li><li><a href="/TV/Article/A_Guide_to_Freeview-105986.html">freeview</a></li><li><a href="/TV/Article/A_Guide_to_Freesat-106067.html">freesat</a></li><li><a href="/TV/Article/A_Guide_to_Top_Up_TV-106123.html">top up tv</a></li><li><a href="/Entertainment/TV/">top sites</a></li>
+                </ul>
+            </div><div class="border"></div>
+
+            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+        </li>
+        
+        <li><a class="sub" href="/Shopping/"><b>Shopping</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
+            <div>
+
+                <ul>
+<li><a href="/Shopping/Sound-and-Vision/">sound &amp; vision</a></li><li><a href="/Shopping/Computing/">computing</a></li><li><a href="/Shopping/Home-Appliances/">home appliances</a></li><li><a href="/Shopping/Photography/">photography</a></li><li><a href="/Shopping/Health-and-Beauty/">health &amp; beauty</a></li><li><a href="/Shopping/Games/">games</a></li><li><a href="/Shopping/Office-equipment/">office</a></li><li><a href="/Shopping/Index.html">index</a></li><li><a href="/Shopping/Articles.html">shopping guides</a></li><li><a href="/Shopping/Online_Shops/">top sites</a></li>
+                </ul>
+            </div><div class="border"></div>
+
+            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+        </li>
+        
+        <li><a class="sub" href="/Motoring/"><b>Motoring</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
+            <div>
+
+                <ul>
+<li><a href="/Motoring/compare-car-insurance.html">car insurance</a></li><li><a href="/Motoring/compare-bike-insurance.html">bike insurance</a></li><li><a href="http://www.dianomioffers.co.uk/partner/uknetguide/brochures.epl?&amp;vertical=4">test drive</a></li><li><a href="http://www.thelatestcars.co.uk/partner/uknetguide/Family_Cars.dml?offer=28666&amp;partner=3&amp;partner_id=3">brochures</a></li><li><a href="/Employment/Transport_Driving_Jobs/">jobs</a></li><li><a href="/Motoring/Articles.html">motoring guides</a></li><li><a href="/Motoring/Cars/">top sites</a></li>
+                </ul>
+            </div><div class="border"></div>
+
+            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+        </li>
+        
+        <li><a class="sub" href="/Lifestyle_and_Leisure/"><b>Lifestyle</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
+            <div>
+
+                <ul>
+<li><a href="/Lifestyle_and_Leisure/Dating_Search/">dating</a></li><li><a href="/Health_and_Fitness/">health</a></li><li><a href="/Sports/">sports</a></li><li><a href="/Homes_and_Gardens/Property_Search/">property</a></li><li><a href="/Entertainment/">entertainment</a></li><li><a href="/Weather/Local-Forecast.html">weather</a></li><li><a href="http://competitions.uknetguide.co.uk/">competitions</a></li><li><a href="/DIY/">DIY</a></li><li><a href="/Lifestyle_and_Leisure/Articles.html">lifestyle guides</a></li><li><a href="/Lifestyle_and_Leisure/Lifestyle_Sites/">top sites</a></li>
+                </ul>
+            </div><div class="border"></div>
+
+            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+        </li>
+        
+        <li><a class="sub" href="/Latest-News.html"><b>News</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
+            <div>
+
+                <ul>
+<li><a href="/Latest-News/Money/">money</a></li><li><a href="/Latest-News/Travel/">travel</a></li><li><a href="/Latest-News/ShowBiz/">entertainment</a></li><li><a href="/Latest-News/Jobs/">jobs</a></li><li><a href="/Latest-News/Consumer/">shopping</a></li><li><a href="/Latest-News/Motoring/">motoring</a></li><li><a href="/Latest-News/Government/">lifestyle</a></li><li><a href="/Latest-News/Sport/">sport</a></li><li><a href="/News_and_Weather/UK_News/">top sites</a></li>
+                </ul>
+            </div><div class="border"></div>
+
+            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+        </li>
+        
+
+        <li class="last"><form action="/Search/" method="post"><input type="hidden" name="spec" value="no"><input type="text" name="Search" class="text searchoursite searchBoxMag placeholder" placeholder="Search our site" style="margin-left:0px;"></form></li>
+        <li class="last"><input type="image" src="/images/searchgo.png" style="padding-top:7px;margin-left:2px;"></li>
+    </ul>
+</div>
+
+</header>
+
+        <div id="main" role="main">
+            <div class="lhscontent2column">
+                <h1>
+                    Cookie Policy</h1>
+                <h2>
+                    INTRODUCTION</h2>
+                <p>
+                    UK Net Guide (<a href="http://www.uknetguide.co.uk">http://www.uknetguide.co.uk</a>) is owned and operated by Crystal Guides,
+                    a limited company registered in England.
+                </p>
+                <p>
+                    UK Net Guide considers Internet user privacy and data protection to be of paramount
+                    importance. Crystal Guides Ltd complies with the Data Protection Act 1998 in relation
+                    to all processing of personal data supplied to us by users and other personal data
+                    in our possession for any reason. We have registered with and notified the Data
+                    Protection Commissioner of our practice affecting personal data.
+                </p>
+                <p>
+                    This statement discloses the cookie and privacy policy for the UK Net Guide network
+                    of sites, which encompass the site <a href="http://www.uknetguide.co.uk">http://www.uknetguide.co.uk</a> and all co-branded
+                    versions of this site that collectively form and are referred to as the UK Net Guide
+                    network. This statement does not extend to sites that are linked to or which are
+                    not part of the UK Net Guide's network. See www.crystalguides.co.uk for a full list.</p>
+                <h2>
+                    What is a Cookie?</h2>
+                <p>
+                    Cookies are small text files which often includes an anonymous unique identifier
+                    that is sent to your browser from a web server and stored on you computer's hard
+                    drive by your browser. They're used for many things, such as remembering whether
+                    you've visited the site before, and to help us work out how many new website visitors
+                    we get each month. They contain information about the use of your computer <strong>but don't
+                    include personal information about you </strong> (they don't store your name, for instance).
+                </p>
+                <p>
+                    You can read all about cookies here: <a rel="nofollow" target="_blank" href="http://www.allaboutcookies.org">www.allaboutcookies.org</a>
+                </p>
+                <h2>
+                    About our Cookie Policy</h2>
+                <p>
+                    Cookies do not damage your computer. Each web site can send its own cookie to your
+                    browser if your browser's preferences allow it, but (to protect your privacy) your
+                    browser only permits a web site to access the cookies it has already sent to you,
+                    not the cookies sent to you by other sites.</p>
+                <p>
+                    The UK Net Guide network uses cookies to assign identification to your individual
+                    browser. This identifies your browser - but not you - to our servers every time
+                    you visit our network. Cookies by themselves cannot be used to find out the identity
+                    of any user. Unless you voluntarily advise us, the <strong>UK Net Guide network will never
+                    know who you are, even though we assign your browser a cookie</strong>.
+                </p>
+                <p>
+                    You can decide if you want to accept cookies by changing the settings on your browser
+                    to either accept all cookies, reject all cookies, or notify you when a cookie is
+                    set.</p>
+                <p>
+                    <strong>The below links explain how you can control cookies via your web browser</strong> - remember
+                    that if you turn off cookies in your browser then these settings apply to all websites
+                    not just to UK Net Guide:</p>
+                <ul>
+                    <li>Internet Explorer <a rel="nofollow" target="_blank" href="http://support.microsoft.com/kb/278835">http://support.microsoft.com/kb/278835</a> (this page links to further
+                        information for different versions of IE - the mobile version is at <a target="_blank" href="http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx">http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx</a> </li>
+                    <li>Chrome: <a rel="nofollow" target="_blank" href="http://support.google.com/chrome/bin/answer.py?hl=en-GB&amp;answer=95647">http://support.google.com/chrome/bin/answer.py?hl=en-GB&amp;answer=95647</a>  </li>
+                    <li>Safari: <a rel="nofollow" target="_blank" href="http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html">http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html</a> (or <a target="_blank" rel="nofollow" href="http://support.apple.com/kb/HT1677">http://support.apple.com/kb/HT1677</a>
+                        for mobile versions)</li>
+                    <li>Firefox: <a rel="nofollow" target="_blank" href="http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies">http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies</a> </li>
+                    <li>Blackberries: <a rel="nofollow" target="_blank" href="http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp">http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp</a> </li>
+                    <li>Android: <a rel="nofollow" target="_blank" href="http://support.google.com/mobile/bin/answer.py?hl=en&amp;answer=169022">http://support.google.com/mobile/bin/answer.py?hl=en&amp;answer=169022</a> </li>
+                    <li>Opera: <a rel="nofollow" target="_blank" href="http://www.opera.com/browser/tutorials/security/privacy/">http://www.opera.com/browser/tutorials/security/privacy/</a> </li>
+                </ul>
+                <p>
+                    The information gathered through the use of cookies, allows the UK Net Guide network
+                    to offer a quality Internet service and easily accessible online content to our
+                    users, and catalogue traffic patterns throughout the network in a manner that provides
+                    personal privacy protection.
+                </p>
+                <p>
+                    We also keep track of your IP address to help diagnose problems with our server
+                    and to administer our web site. Your IP address is also used to gather broad demographic
+                    information about you, such as your location and your Internet Service Provider.
+                    The UK Net Guide network may also collect aggregate information on how our users
+                    are utilising the site. This might include information regarding traffic patterns
+                    through the sites.
+                </p>
+                <p>
+                    Other organisations that place advertising on our network also have the ability
+                    to assign a different cookie to your browser in a process that the UK Net Guide
+                    network does not control. Again, unless you voluntarily advise them, these advertisers
+                    will also never know who you are.
+                </p>
+                <h2>
+                    What Cookies UK Net Guide Uses</h2>
+                <ol>
+                    <li><strong>Personalisation cookies</strong><br>
+                        These cookies are used to recognise repeat visitors to the Website.</li>
+                    <li><strong>Analytics cookies</strong><br>
+                        Monitor how visitors move around the Website and how they reached it. This is used
+                        so that we can see total (not individual) figures on which types of content users
+                        enjoy most, for instance.
+                        <br>
+                        You can opt out of these if you want: Google: <a rel="nofollow" target="_blank" href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>
+                    </li>
+                    <li><strong>Third-party service cookies</strong><br>
+                        Social sharing, and other services are run by other companies. These companies may
+                        drop cookies on your computer when you use them on our site or if you are already
+                        logged in to them.<br>
+                        Here is a list of places where you can find out more about specific services that
+                        we may use and their use of cookies:<br>
+                        <ul>
+                            <li>Facebook's data use policy: <a rel="nofollow" target="_blank" href="http://www.facebook.com/about/privacy/your-info-on-other">http://www.facebook.com/about/privacy/your-info-on-other</a>
+                            </li>
+                            <li>AddThis (the service that runs some of our social sharing buttons): <a rel="nofollow" target="_blank" href="http://www.addthis.com/privacy#.T6j--usS0bw">http://www.addthis.com/privacy#.T6j--usS0bw</a>
+                            </li>
+                            <li>Twitter's privacy policy: <a rel="nofollow" target="_blank" href="https://twitter.com/privacy">https://twitter.com/privacy</a> </li>
+                            <li>Google + see <a rel="nofollow" target="_blank" href="http://www.google.com/policies/privacy/">http://www.google.com/policies/privacy/</a> </li>
+                            <li>And Affiliate Networks, Some affiliate networks will cookie you so we can be credited
+                                with sales if you leave our site and then go on and buy goods and services.
+                            </li>
+                        </ul>
+                    </li>
+                    <li><strong>Our own ad serving and management cookies</strong><br>
+                        We sell advertising space on UK Net Guide as we don't charge for content.<br>
+                        As part of our advertising solution, we use several services that from time to time
+                        may help us and advertisers understand what adverts you might be interested in.
+                        These cookies hold information about the computer - they don't hold personal information
+                        about you (ie it's not linked to you as an individual). But they might hold a record
+                        of what other websites you've looked at - so we may show you a car advert if you've
+                        previously visited a motoring website.<br>
+                        These are the services we use and how you can control those cookies. Please note
+                        that turning off advertising cookies won't mean that you are not served any advertising
+                        merely that it will not be tailored to your interests.<br>
+                        <ul>
+                            <li>Doubleclick (advertising): Privacy policy at <a target="_blank" href="http://www.google.com/doubleclick/privacy/">http://www.google.com/doubleclick/privacy/</a>
+                                and opt out via <a rel="nofollow" target="_blank" href="http://www.youronlinechoices.com/uk/">http://www.youronlinechoices.com/uk/</a> </li>
+                            <li>Google Adsense (ad partner). Privacy policy at <a target="_blank" href="https://support.google.com/adsense/bin/answer.py?hl=en-GB&amp;utm_medium=link&amp;gsessionid=DyXLmLB1J1MxXckh6tX6AQ&amp;utm_campaign=ww-ww-et-asfe_&amp;utm_source=aso&amp;answer=48182">https://support.google.com/adsense/bin/answer.py?hl=en-GB&amp;utm_medium=link&amp;gsessionid=DyXLmLB1J1MxXckh6tX6AQ&amp;utm_campaign=ww-ww-et-asfe_&amp;utm_source=aso&amp;answer=48182</a>
+                                and opt-out via <a rel="nofollow" target="_blank" href="https://www.google.com/settings/ads/onweb/">https://www.google.com/settings/ads/onweb/</a> </li>
+                            <li>Tribal Fusion: Privacy Policy at <a rel="nofollow" target="_blank" href="http://exponential.com/privacy.html">http://exponential.com/privacy.html</a></li>
+                            <li>AOL: Privacy Policy at <a rel="nofollow" target="_blank" href="http://privacy.aol.co.uk">http://privacy.aol.co.uk</a></li>
+                            <li>Real Medai 24/7: Privacy Policy at <a rel="nofollow" target="_blank" href="http://www.247realmedia.co.uk/EN-UK/privacy-policy.html">http://www.247realmedia.co.uk/EN-UK/privacy-policy.html</a></li>
+                            <li>Adjug: Privacy Policy at <a rel="nofollow" target="_blank" href="http://www.adjug.com/info/privacy.asp">http://www.adjug.com/info/privacy.asp</a></li>
+                            <li>Black Magic: Privacy Policy at <a rel="nofollow" target="_blank" href="http://www.blackmagicmedia.co.uk/privacy.php">http://www.blackmagicmedia.co.uk/privacy.php</a></li>
+                            <li>Crimtan: Privacy Policy at <a rel="nofollow" target="_blank" href="http://www.crimtan.com/privacy.html">http://www.crimtan.com/privacy.html</a></li>
+                            <li>Criteo: Privacy Policy at <a rel="nofollow" target="_blank" href="http://www.criteo.com/us/privacy-policy">http://www.criteo.com/us/privacy-policy</a></li>
+                            <li>Marimedia: Privacy Policy at <a rel="nofollow" target="_blank" href="http://www.marimedia.net/?q=node/264">http://www.marimedia.net/?q=node/264</a></li>
+                            <li>Specific Media: Privacy Policy at <a rel="nofollow" target="_blank" href="http://www.specificmedia.co.uk/privacy">http://www.specificmedia.co.uk/privacy</a></li>
+                            <li>Addynamo: Privacy Policy at <a rel="nofollow" target="_blank" href="http://www.addynamo.com/en/index.cfm?content=8233">http://www.addynamo.com/en/index.cfm?content=8233</a></li>
+
+
+                        </ul>
+                    </li>
+                </ol>
+                <h2>
+                    SHARING OF DATA</h2>
+                <p>
+                    The UK Net Guide network will not disclose any of your personal information to a
+                    third party without your consent, unless we believe, in good faith, that the law
+                    requires it or that the rights or property of the UK Net Guide network need to be
+                    protected.
+                </p>
+                <h2>
+                    LINKS TO OTHER SITES</h2>
+                <p>
+                    The UK Net Guide network contains links to other sites not affiliated with the UK
+                    Net Guide network. These sites have their own cookie policies and practices with
+                    respect to online privacy, and the UK Net Guide network cannot be responsible for
+                    the privacy practices or the content of these unaffiliated websites.
+                </p>
+                <p>
+                    In addition, in certain instances, a UK Net Guide advertiser may ask you for personal
+                    information. UK Net Guide cannot be held responsible for the privacy practices of
+                    its advertisers; however, UK Net Guide encourages our partners and advertisers to
+                    adopt privacy policies similar to our own.
+                </p>
+                <h2>
+                    COMMENT</h2>
+                <p>
+                    We suggest that you practice reasonable discretion with any site when providing
+                    site operators/owners with personal information.
+                </p>
+                <p>
+                    It should also be noted that whenever you post personal information in publicly
+                    accessible places, such as chat rooms or message boards, this information becomes
+                    available to anyone with access to the Internet.
+                </p>
+                <p>
+                    <strong>For information about online behavioural advertising, about cookies, and about how
+                    to turn off behavioural adverts, please visit <a rel="nofollow" target="_blank" href="http://www.youronlinechoices.com/uk/">http://www.youronlinechoices.com/uk/</a></strong>
+                </p>
+                <p>
+                </p>
+                <p>
+                    Therefore, we recommend that you refrain from posting any information that you do
+                    not want seen in these public areas. You should feel free to contact any site that
+                    requests personal information from you if you have any questions regarding its policies.
+                </p>
             </div>
-       </div>
+            <div class="rhscontent2column">
+                <a href="/Info/Privacy.asp" style="color:#E30613;font-size:11px;">How we use cookies</a><br><br>
+<div class="InFollowUsBox">
+    <h3 style="padding-bottom:10px">Follow UK Net Guide on:</h3>
+<a href="http://twitter.com/uknetguide" target="_blank"><img src="/images/twitter_grey.gif" alt="Twitter"></a><a href="http://www.facebook.com/UKNetGuide" target="_blank"><img src="/images/facebook_grey.gif" alt="Facebook"></a><a href="https://plus.google.com/104652519600867988327" target="_blank"><img src="/images/google_grey.gif" alt="Google"></a>
+</div>
+<div style="clear: both;"><br></div>
+                <div>
+                    <!--CPM NEHP , MPU1 , [/Info/Privacy.asp] -->
+<iframe id="a8quveuq" name="a8quveuq" src="http://delivery.switchadhub.com/adserver/www/delivery/afr.php?refresh=60&amp;zoneid=1021&amp;cb=0.6802724&amp;ct0=INSERT_CLICKURL_HERE" frameborder="0" scrolling="no" width="300" height="250" allowtransparency="true" style="border:0;"><a href='http://delivery.switchadhub.com/adserver/www/delivery/ck.php?n=akcjukxx&amp;cb=0.6802724' target='_blank'><img src='http://delivery.switchadhub.com/adserver/www/delivery/avw.php?zoneid=1021&amp;cb=0.6802724&amp;n=akcjukxx&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></iframe>
+                </div>
+            </div>
+            <div class="clear-line">
+                &nbsp;</div>
+        </div>
     </div>
     
 
-<div id="divLeftColumn" class="LeftColumn" style="top:169px">
+    <div id="footer">
+        <div style="width:980px;margin:0 auto;">
+            <div id="footer_col1">
+            <ul>
+                <li><a href="/Info/AboutUs.asp">About Us</a></li>
+                <li><a href="/Advertising/">Advertising</a></li>
+                <li><a href="/Info/Disclaimer.asp">Disclaimer</a></li>
+                <li><a href="/Info/EmailUs.asp">Email Us</a></li>
+                
+                <li><a href="/Info/Privacy.asp">Privacy Policy</a></li>
+                
+                <li><a href="/Info/FAQ.asp">FAQ</a></li>
+            </ul>
+            <div class="copyright">
+                © UK Net Guide 2000-2012. All Rights Reserved.</div>
+        </div>
+            <div id="footer_followus">
+                <img src="/images/followus_footer.gif" alt="follow us"><br>
+                <a href="http://twitter.com/uknetguide" target="_blank"><img src="/images/twitter_footer.gif" alt="twitter"></a>
+                <a href="http://www.facebook.com/UKNetGuide" target="_blank"><img src="/images/facebook_footer.gif" alt="facebook"></a>
+                <a href="https://plus.google.com/104652519600867988327" target="_blank"><img src="/images/google_footer.gif" alt="Google"></a>
+                <!-- img src="/images/rss_footer.gif" alt="rss" / -->
+            </div>
+            <div id="footer_newsletter">
+                <div id="footer_newsletter_signup">
+                    <h3>
+                        Newsletter</h3>
+                    <p>
+                        Sign up for the best deals and news delivered into your inbox every week.</p>
 
-		<div align="center" style="padding-top:10px">
-        <!--CPM UKNE , LHS , [/Info/Privacy.asp] -->
-     
-    	<!--iframe src="http://ads.uknetguide.co.uk/serve/adframe.asp?AdType=66&SI=UKNE&ReferringPage=%2Finfo%2Fprivacy%2Easp&RandomNo=46105593&GUID={06C6A9D4-F034-4714-B3F1-F3283BE5E883}" height="600" width="120" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe-->	
-		</div>
-   		  
-	<br>
- 	<!-- iframe id="iframePoll" width="150" height="550" src="http://polls.uknetguide.co.uk/poll/default.asp?SI=UKNE" frameborder="0" scrolling="no">
-    Sorry, you need inline frames to see this poll.
-    </iframe -->
+                     
+                    <form action="/Newsletter/signup.asp" method="post" name="newsletteremail">
+                    <input type="text" class="text placeholder" placeholder="enter your email" name="newsletteremail" style="width: 150px;">
+                    <input type="hidden" name="formType" value="footer">
+                    <input type="hidden" name="originalchannel" value="NEHP">
+                    <input type="hidden" name="PageURL" value="/Info/Privacy.asp">
+                    <input type="hidden" name="SiteID" value="NEHP">
+                    <input type="hidden" name="IsTopSite" value="False">
+                    <a onclick="document.newsletteremail.submit()" style="vertical-align:middle" class="button buttongradient">GO &gt;</a>
+                    </form>
+                    
+
+
+                </div>
+            </div>
+            <div class="clear-line">
+                <br><br></div>
+        </div>
+            <div class="clear-line">
+                <br><br></div>
+    </div>
+    <iframe height="0" width="0" id="TrackingDiv" src="" style="display: none"></iframe>
+
+
+<!--/* Switch 3.5.20 - UkNetGuide.co.uk - UKNG - NEHP - PU 800x600 - 800x600 */-->
+
+<script type="text/javascript" src="http://delivery.switchadhub.com/adserver/tag.php?_t=1691&amp;_i=3930&amp;_c=INSERT_CLICK_MACRO&amp;_r=INSERT_RANDOM_NUMBER">
+</script><noscript><iframe id='be6772' name='be6772' src='http://delivery.switchadhub.com/adserver/tag.php?_t=269d&_i=3930&_c=INSERT_CLICK_MACRO&_r=INSERT_RANDOM_NUMBER' frameborder='0' scrolling='no' width='800' height='600'>
+<a href='http://delivery.switchadhub.com/adserver/tag.php?_t=369e&_n=be6772&_i=3930&_c=INSERT_CLICK_MACRO&_r=INSERT_RANDOM_NUMBER' target='_blank'>
+<img src='http://delivery.switchadhub.com/adserver/tag.php?_t=469b&_n=be6772&_i=3930&_c=INSERT_CLICK_MACRO&_r=INSERT_RANDOM_NUMBER' border='0' alt='' /></a>
+</iframe></noscript>
+
+
+    <!--! end of #container -->
+    <!-- JavaScript at the bottom for fast page loading -->
+    <!-- scripts concatenated and minified via ant build script-->
+    <script src="/js/plugins.js"></script>
+    <script src="/js/script.js?v=4"></script>
     
-</div>
+    <script type="text/javascript" src="/js/hoverIntent.js"></script>
+	<script type="text/javascript" src="/js/superfish.js"></script>
+	<script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
+    <!--script type="text/javascript" src="/js/autoellipsis.min.jquery.js"></script --> 
 
+    <!-- end scripts-->
+    <!--[if lt IE 7 ]>
+    <script src="/js/libs/dd_belatedpng.js"></script>
+    <script>DD_belatedPNG.fix("img, .png_bg"); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
+  <![endif]-->
 
+  
+	<script type="text/javascript">
 
-		<div id="divCentreColumn" class="CentreColumn">
-			<div id="divContent" class="MainText"><h1>Privacy Policy</h1>
-				<p>
-					<b>INTRODUCTION</b>
-				</p>
-				
-				
-				
-				<p>
-					UK Net Guide (<a href="http://www.uknetguide.co.uk">http://www.uknetguide.co.uk</a>) is owned and operated by 
-					Crystal Guides, a limited company registered in England.
-				</p>
-				<p>
-					
-						UK Net Guide considers Internet user privacy and data protection to be of paramount 
-						importance. Crystal Guides Ltd complies with the Data Protection Act 1998 in relation 
-						to all processing of personal data supplied to us by users and other personal data in 
-						our possession for any reason. We have registered with and notified the Data Protection 
-						Commissioner of our practice affecting personal data.
-					
-				</p>
-				<p>
-					
-						This statement discloses the privacy policy for the UK Net Guide network of sites, which 
-						encompass the site http://www.uknetguide.co.uk and all co-branded versions of this site 
-						that collectively form and are referred to as the UK Net Guide network. This statement 
-						does not extend to sites that are linked to or which are not part of the UK Net Guide 
-						network.
-					
-				</p>
-				<p>
-					<b>COOKIES</b><br>
-					A 'cookie' is a small amount of data, which often includes an anonymous unique identifier that 
-					is sent to your browser from a web server and stored on you computer’s hard drive. Cookies do 
-					not damage your computer. Each web site can send its own cookie to your browser if your 
-					browser’s preferences allow it, but (to protect your privacy) your browser only permits a web 
-					site to access the cookies it has already sent to you, not the cookies sent to you by other 
-					sites. You can decide if you want to accept cookies by changing the settings on your browser 
-					to either accept all cookies, reject all cookies, or notify you when a cookie is set.
-				</p>
-				<p>
-					The UK Net Guide network uses cookies to assign identification to your individual browser. This identifies 
-					your browser – but not you – to our servers every time you visit our network. Cookies by 
-					themselves cannot be used to find out the identity of any user. Unless you voluntarily advise 
-					us, the UK Net Guide network will never know who you are, even though we assign your browser a cookie.
-				</p>
-				<p>
-					The information gathered through the use of cookies, allows the UK Net Guide network to offer a quality 
-					Internet service and easily accessible online content to our users, and catalogue traffic 
-					patterns throughout the network in a manner that provides personal privacy protection.
-				</p>
-				<p>
-					We also keep track of your IP address to help diagnose problems with our server and to 
-					administer our web site. Your IP address is also used to gather broad demographic information
-					 about you, such as your location and your Internet Service Provider. The UK Net Guide network may also
-					  collect aggregate information on how our users are utilising the site. This might include 
-					  information regarding traffic patterns through the sites. 
-				</p>
-				<p>
-					Other organisations that place advertising on our network also have the ability to assign a 
-					different cookie to your browser in a process that the UK Net Guide network does not control. Again, 
-					unless you voluntarily advise them, these advertisers will also never know who you are.
-				</p>
-				<p>
-					<b>PERSONAL INFORMATION</b><br>
-					At specific times UK Net Guide may ask you to provide us with personal information, including
-					 but not limited to your name and email address, in order for you to register for a service 
-					 (e.g. My London Property Guide).
-					  You may choose not to provide us with this information; however, this may 
-					 limit our ability to provide you with a specific service or offer you personalised content.
-				</p>
-				<p>
-					Please note that all the information you provide to the UK Net Guide network will be stored and processed 
-					in either the United Kingdom or Australia.
-				</p>
-				<p>
-					Occasionally we will send you email communications to provide information, which we think you 
-					will find useful, including information about new products and services from the UK Net Guide network. 
-					It is our policy only to send email to customers who give us permission to do so. Our site 
-					provides you with the opportunity to "opt-out" of receiving communications from UK Net Guide 
-					at the time we ask you for this information. In addition, whenever we contact you via email, 
-					we will also have instructions on how to unsubscribe so that you will not receive any future 
-					emails from us if you so choose.
-				</p>
-				<p>
-					Other companies that place advertising on our site may collect information about you when you
-					 view or click on their advertising or content. The UK Net Guide network does not control this collection
-					  of information. You should contact these advertisers or content providers directly if you 
-					  have any questions about their use of this information. Additionally, the UK Net Guide network does not
-					   control the information collection and distribution policies on sites outside the UK Net Guide network,
-					    although we do encourage our co-branding partners to adopt privacy policies similar to this
-					     one.
-				</p>
-				<p>
-					<b>SHARING OF DATA</b><br>
-					The UK Net Guide network will not disclose any of your personal information to a third party without your
-					 consent, unless we believe, in good faith, that the law requires it or that the rights or 
-					 property of the UK Net Guide network need to be protected.
-				</p>
-				<p>
-					<b>LINKS TO OTHER SITES</b><br>
-					The UK Net Guide network contains links to other sites not affiliated with the UK Net Guide network. These sites 
-					have their own policies and practices with respect to online privacy, and the UK Net Guide network 
-					cannot be responsible for the privacy practices or the content of these unaffiliated websites.
-					 In addition, in certain instances, a UK Net Guide advertiser may ask you for personal 
-					 information. UK Net Guide cannot be held responsible for the privacy practices of its 
-					 advertisers; however, UK Net Guide encourages our partners and advertisers to adopt privacy 
-					 policies similar to our own.
-				</p>
-				<p>
-					<b>COMMENT</b><br>
-					We suggest that you practise reasonable discretion with any site when providing site 
-					operators/owners with personal information. It should also be noted that whenever you post 
-					personal information in publicly accessible places, such as chat rooms or message boards, this
-					 information becomes available to anyone with access to the Internet. Therefore, we recommend
-					  that you refrain from posting any information that you do not want seen in these public areas.
-					   You should feel free to contact any site that requests personal information from you if you
-					    have any questions regarding its policies.
-				</p>
-				<p>
-					<a href="/">Back to Homepage</a>
-				</p>
-			</div>
-			<div class="Footer" style="position: absolute; top: 1800px; left: 0px">
-					<a href="/Info/AboutUs.asp">About Us</a> | 
-	<a href="/Advertising/">Advertising</a> | 
-	<a href="/Directory/Provider-List.html">Premium Partners</a> |
-	<a href="/Info/Disclaimer.asp">Disclaimer</a> | 
-	<a href="/Info/Privacy.asp">Privacy Policy</a> | 
-	<a href="/Info/EmailUs.asp">Email Us</a> | 
-	<a href="#" onclick="window.open('http://www.uknetguide.co.uk/Info/FAQs.html','MoreInfo','width=500,height=500,menubar=0,scrollbars=1');return false;">FAQ</a> |
-	<!-- include file="ad_network.asp" -->
+	    $(document).ready(function () {
+	        $("ul.sf-menu").superfish({
+	            pathClass: 'current'
+	        });
+	    });
+
+	    
+        //article top tips image resize
+        
+        var toptipsheight = ($("#toptipscontent").outerHeight());
+        
+        if ( (toptipsheight != null) && (toptipsheight < 537) ) {
+            document.getElementById("toptipsimage").style.height = toptipsheight + 'px';
+        }
+        else if ((toptipsheight != null) && (toptipsheight > 536))
+        {
+            document.getElementById("toptipsimage").style.height = '537px';
+        }
     
-	<p>© UK Net Guide 2000-2011. All Rights Reserved.</p>
-	<img name="imgClk" src="/images/px.gif" height="1"> 						  			
-	
-    <script type="text/javascript" language="JavaScript">
-    <!--
-    var wl_ord=new Date().getTime();
-    document.write('<img  width="1" height="1" src="' + 'http://tu.connect.wunderloop.net/TU/554/1652/6313/?AC=on&ord=' + wl_ord + '" />');
-    //-->
-    </script><img width="1" height="1" src="http://tu.connect.wunderloop.net/TU/554/1652/6313/?AC=on&amp;ord=1580446045840">
-    <noscript>
-    <img width="1" height="1" src="http://tu.connect.wunderloop.net/TU/554/1652/6313/?AC=on&ord=12345" />
-    </noscript>
+    </script>    
+
+    <script>
+        $('[placeholder]').focus(function () {
+            var input = $(this);
+            if (input.val() == input.attr('placeholder')) {
+                input.val('');
+                input.removeClass('placeholder');
+            }
+        }).blur(function () {
+            var input = $(this);
+            if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                input.addClass('placeholder');
+                input.val(input.attr('placeholder'));
+            }
+        }).blur().parents('form').submit(function () {
+            $(this).find('[placeholder]').each(function () {
+                var input = $(this);
+                if (input.val() == input.attr('placeholder')) {
+                    input.val('');
+                }
+            })
+        });
+    </script>
 
     
-			</div>
-		</div>
+	<script>
+	    $(document).ready(function () {
+	        $(".weather_inline").colorbox({ inline: true, width: "300px" });
 
-		<link href="/Includes/InRightBar.css" rel="stylesheet" type="text/css">
+	        $(".weather_inline").click(function () {
+	            setTimeout(function () { $('#changeweatherlocation').focus(); }, 1000);
+	        });
+	    });
+	</script>
 
+<script>
 
-<div id="divRightColumn" class="RightColumn" style="top:169px;">
-
-		    <div class="ANSWText">
-		    	<div class="container">
-		    		<div class="AnswerbankPopularTitleBkg">
-		    			<div class="AnswerbankPopularTitle">UK Net Guide Travel</div> 
-		    		</div>
-		    		
-		    		<div class="AnswerbankPopular">
-		    			<div class="links">
-		    				<span><a href="/Travel/">Travel Shop</a></span>
-		    			</div>
-		    		</div>
-		    		<div class="AnswerbankPopular">
-		    			<div class="links">
-		    				<span><a href="/Travel/Hotel-Deals/London/">London Hotels</a></span>
-		    			</div>
-		    		</div>
-		    		<div class="AnswerbankPopular">
-		    			<div class="links">
-		    				<span><a href="/Holiday-Guides/">Travel Guides</a></span>
-		    			</div>
-		    		</div>
-		    		<div class="AnswerbankPopular">
-		    			<div class="links">
-		    				<span><a href="/Travel/Deals/">Holiday Deals</a></span>
-		    			</div>
-		    		</div>
-		    		<div class="AnswerbankPopular">
-		    			<div class="links">
-		    				<span><a href="/Travel/Flight_Search/">Bargain Flights</a></span>
-		    			</div>
-		    		</div>
-
-		    	</div>
-		    	<div class="AnswerbankPopularBottom"></div>
-		    </div>
-	        <br>		
-		    
-	</div>		
-
-
-</div>
-</td></tr>
-</tbody></table>
-
-
-<script language="JavaScript" defer="defer" type="text/javascript" src="http://users.uknetguide.co.uk/user.js?SI=UKNE&amp;RNum=46105593&amp;Rf=&amp;Page=%2FInfo%2FPrivacy%2Easp"></script>
-<noscript><img src="http://users.uknetguide.co.uk/noscript.asp?SI=UKNE&RNum=46105593&Rf=&Page=%2FInfo%2FPrivacy%2Easp" width="0" height="0" /></noscript>
-
-<!-- Tracking code for UKNetGuide -->
-
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1149866-2']);
-  _gaq.push(['_setDomainName', '.uknetguide.co.uk']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    //$(document).ready(function () {
+    //    //Usage is very simple
+    //    $("li.autoEllipsis").autoEllipsisText();
+    //});
 
 </script>
 
+    
+
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-1149866-2']);
+            _gaq.push(['_setDomainName', '.uknetguide.co.uk']);
+            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
 
 
-<script src="http://cdn.wibiya.com/Toolbars/dir_0225/Toolbar_225745/Loader_225745.js" type="text/javascript"></script>
+        <script type="text/javascript" src="http://static.woopra.com/js/woopra.v2.js"></script>
+        <script type="text/javascript">
+            woopraTracker.track();
+        </script>
 
 
-<script type="text/javascript" src="http://static.woopra.com/js/woopra.v2.js"></script>
-<script type="text/javascript">
-woopraTracker.track();
-</script>
+    
+<script language="JavaScript" defer="defer" type="text/javascript" src="http://users.uknetguide.co.uk/user.js?SI=NEHP&amp;RNum=10802859&amp;Rf=&amp;Page=%2FInfo%2FPrivacy%2Easp"></script>
 
 
 
-
-	
-
-</body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
