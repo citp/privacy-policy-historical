@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sportanddev.org privacy policy that was archived on 2011-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111215030213id_/http%3A//www.sportanddev.org/en/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportanddev.org privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615191944id_/http%3A//www.sportanddev.org/en/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 			<title>Privacy policy : International Platform on Sport and Development</title>
@@ -11,6 +11,7 @@
 		    <meta name="email" content="info@sportanddev.org">
 		    <meta name="Distribution" content="Global">
 		    <meta name="Rating" content="General">
+			
 			
 			<link rel="STYLESHEET" type="text/css" media="print" href="/_css/_cache/print.css">
 		
@@ -34,6 +35,11 @@
 
 			<script src="/_js/_cache/global.js" type="text/javascript"></script>	
 		
+			<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js"></script>
+			<link rel="STYLESHEET" type="text/css" media="screen" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/themes/base/jquery-ui.css">				
+			<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+		   <script src="/_core/address_picker/jquery.ui.addresspicker.js"></script>
+			<script src="/_core/address_picker/jquery.getunik.addresspicker.js"></script>
 			
 			<!--[if lt IE 7]>
 				<style type="text/css">
@@ -134,7 +140,7 @@ function submitFormCustom8297()
 
 	if(bSenden && !testEmail(objForm.fEmail.value))
     {
-     	alert("Please enter a valid e-mail address.");
+     	alert("Please enter a valid email-address");
      	document.formCustom8297.fEmail.focus();
      	bSenden =  false;
      	
@@ -159,7 +165,7 @@ function submitFormCustom8297()
 				<input type="hidden" name="fAction" value="subscribe">
 				<div class="newsletter">
 					<ul>
-						<li><label>Email</label></li>
+						<li><label>E-Mail</label></li>
 						<li class="right">&nbsp;</li>
 					</ul>
 					<ul>
@@ -194,10 +200,7 @@ function submitFormCustom8297()
 <div class="sidebar">
 <!-- sub navigation start -->
 
-	
-		
-	
-	<!-- sub navigation end -->
+
 </div>
 
 		<!-- <PageMap>
@@ -216,7 +219,7 @@ function submitFormCustom8297()
 <!-- header start -->
 <div id="header">
 	<!-- logo start -->
-	<a class="logo_upper" href="http://www.sportanddev.org/">International PLatform on Sport And Development</a>
+	<a class="logo_upper" href="http://www.sportanddev.org/">International Platform on Sport And Development</a>
 	<!-- logo end || log block start -->
 
 		
@@ -224,13 +227,14 @@ function submitFormCustom8297()
 					<div class="log">
 						<ul class="label">
 							<li><label>&nbsp;</label></li>
-
 						</ul>
 						<ul class="action-2">
 							<li class="join-in"><strong>Join in</strong></li>
-							<li><a href="/en/connect/signup.cfm"><img src="/img/register-now.gif" width="94" height="22" alt="Register now!"></a></li>
-							<li><a href="#" class="login-bt"><img src="/img/login.gif" width="46" height="22" alt="Login"></a></li>
-							<li><a href="/en/connect/help_center/"><img src="/img/help.gif" width="45" height="22" alt="Help"></a></li>
+							
+								<li><a href="/en/connect/signup.cfm"><img src="/img/register-now.gif" width="94" height="22" alt="Register now!"></a></li>
+								<li><a href="#" class="login-bt"><img src="/img/login.gif" width="46" height="22" alt="Login"></a></li>
+								<li><a href="/en/connect/help_center/"><img src="/img/help.gif" width="45" height="22" alt="Help"></a></li>
+							
 						</ul>
 					</div>
 
@@ -238,7 +242,7 @@ function submitFormCustom8297()
 			
 		
 	<!-- log block end -->
-	<div class="wrapp">
+	<div class="wrapp lang1">
 		<!-- main navigation start -->
 		
 			<ul class="main-nav">
@@ -279,6 +283,8 @@ function submitFormCustom8297()
 					<li><a href="javascript:void(0);" class="search-button" onclick="document.globalSearchForm.submit();"><img src="/img/button-search.png"></a></li>
 					
 				</ul>
+				
+				<br style="clear: both;">
 			</form>
 		</div>
 		<!-- search bar end -->
@@ -295,10 +301,10 @@ function submitFormCustom8297()
 	<!-- partners block end || management block start -->
 	<ul class="management">
 		
-		<li class="print"><a href="javascript:print();">Print</a></li>
-		<li class="large"><a href="javascript:void(0);" onclick="plusSize();">Big text</a></li>
-		<li class="small"><a href="javascript:void(0);" onclick="minusSize();">Small text</a></li>
-		<li class="size">Font Size</li>
+		<li class="print"><a href="javascript:print();" title="Print">Print</a></li>
+		<li class="large"><a href="javascript:void(0);" onclick="plusSize();" title="Make text bigger">Make text bigger</a></li>
+		<li class="small"><a href="javascript:void(0);" onclick="minusSize();" title="Make text smaller">Make text smaller</a></li>
+		<li class="size">Font size</li>
 	</ul>
 	<!-- management block end -->
 	<div class="wrapp">
@@ -357,11 +363,11 @@ function submitFormCustom8297()
 					</li>
 				</ul>
 			</form>
-			<span class="loginFailed" id="loginFailed">Login or password wrong.!</span>
+			<span class="loginFailed" id="loginFailed">Username or password incorrect</span>
 			<ul class="list">
 				
 				<li><a href="/en/connect/lost_password.cfm">Forgot password?</a></li>
-				<li><a href="/en/connect/signup.cfm">Sign Up</a></li>
+				<li><a href="/en/connect/signup.cfm">Sign up</a></li>
 				
 			</ul>
 		</div>
