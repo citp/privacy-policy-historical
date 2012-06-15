@@ -1,39 +1,56 @@
-> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212735id_/http%3A//uktv.co.uk/network/item/aid/614892) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615223630id_/http%3A//uktv.co.uk/network/item/aid/614892) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We take the protection of the privacy of persons who visit the UKTV websites seriously.
 
-In this Privacy Policy, "we", "us" and "our" means UKTV INTERACTIVE LTD. 
+**Who We Are**
 
-We take the protection of the privacy of persons who visit the UKTV websites seriously. This Privacy Policy explains what information we will collect about you, how we will use it and the steps that we will take to ensure that it is kept secure. 
+In this Privacy Policy, "we", "us" and "our" means UK Channel Management Limited, UKTV New Ventures Limited and UK Gold Services Limited (together operating the UKTV network of channels and their associated websites (“the Websites”)). 
 
-By using this site you consent to us collecting and using personal information about you in accordance with this Privacy Policy. 
+We take the protection of your privacy seriously. This Privacy Policy explains what personal information we will collect about you, how we will use it and the steps that we take to ensure that it is kept secure. 
+
+When you access one of our Websites, we also collect information about your visit through the use of one or more **cookies** . For details, including our description of what **cookies** we and third parties use, what they do and how you may control them, please see our **[Cookie Notice](http://uktv.co.uk/network/item/aid/652592/)** . 
+
+By using our Websites you consent to us collecting and using your personal information in accordance with this Privacy Policy. As stated in the **[Cookie Notice](http://uktv.co.uk/network/item/aid/652592/)** , we will also take your use of the UKTV Websites as your consent to the use of the **cookies** described in the Notice. 
 
 **The Information We Collect**
 
-The information you supply to us when registering your details on the site (such as your name, address, telephone number and e-mail address) will be held and stored by UKTV INTERACTIVE LTD and its group companies. 
+We may ask for and collect personal information about you (such as your name, address, telephone number, date of birth, gender and/or e-mail address) when you do things like register your details on one of our Websites, subscribe to one of our newsletters, enter a competition, vote or post comments or other material on our Websites or when you respond to any other specific request we make on our Websites. This personal information will be stored and used by UK Channel Management Limited and the group companies whose names are mentioned above and all three companies will be the "data controllers" of your personal information for the purpose of the Data Protection Act 1998. The names, addresses and contact details of these companies are set out at the bottom of this Privacy Policy. 
 
-When you access the site we also collect information about your visit to the site (such as which pages you visit, how often you visit, the length of time for which you visit and which competitions or message boards you enter). This information enables us to build up a profile of your interests and preferences which may then be used by to make your visits to the site more enjoyable. 
+When you register on one of our sites we may ask you if you consent to us passing your personal information to 3rd parties for the purposes only of emailing you about other products or services which may interest you. 
 
-The information we collect about your visit to our site is captured through the use of a Cookie. A Cookie is a small packet of electronic data that is downloaded and stored on your hard drive by your web browser. You have the opportunity to set your computer to accept all Cookies, to notify you when a Cookie is issued, or to refuse any Cookies at any time. Please bear in mind that if you do not accept our Cookie, you may be asked to re-register every time you visit the site. 
+**How We Use Your Personal Information**
 
-**How We Use Your Information**
+We will use your personal information to help us improve our sites and also to help us design services, competitions or message board topics that we think will appeal to you and other users of our sites. We may supply aggregated statistics about the use of our Websites to third parties, but these statistics will not directly identify you. 
 
-We will use your information to help us improve the site and also to help us design services, competitions or message board topics that we think will appeal to you and other users of the site. We may supply aggregated statistics about the use of the site to third parties, but these statistics will not directly identify you. 
+We will not use your personal information for any other purposes unless we have your consent to do so or as we may be permitted by the law. 
 
-We will not use your information for any other purposes unless we have your consent to do so. You will always be offered the opportunity to click 'NO' in the appropriate fields on our registration pages if you do not want us to use your information in the following ways, but if you do not click 'NO' then from time to time, we may use your information to tell you about any of our and any third parties' offers, products or services that we think might interest you, plus we may also share your information with third parties who will then store and process your information to allow them to contact you directly with any offers, products or services they think you may be interested in. Even if you do not click 'NO' you can at any time withdraw your consent to this usage of your information. 
+You will always be offered the opportunity to give your consent on our registration pages if you are happy for us to use your personal information in order to tell you about any of our offers, products or services or where we wish to share your personal information with third parties for them to contact you directly with any offers, products or services they think you may be interested in. You can at any time withdraw your consent to this usage of your personal information. 
 
-You agree that we, and the third parties to whom we pass your information, may contact you directly by post, email, telephone, SMS, facsimile or in any other appropriate method of communication. 
+Where you have provided us with consent, you agree that we, and the third parties to whom we may pass your personal information, may contact you directly by post, email, telephone, SMS, facsimile or by any other method of communication. 
 
-You should be aware that if we are requested by the police or any regulatory or government authority investigating suspected illegal activities to provide your personal details and/or information concerning your activities whilst visiting the site, we shall do so. 
+You should be aware that if we are requested by the police or any regulatory or government authority investigating suspected illegal activities to provide to them your personal information and/or information concerning your activities whilst visiting the site, we shall do so. 
 
 **How We Keep Your Information Secure**
 
-We take privacy issues very seriously and keeping your information secure is very important to us. We use all reasonable measures to safeguard your information, but please note that we cannot guarantee that any information transmitted over the internet is completely secure. 
+We take privacy issues very seriously and keeping your personal information secure is very important to us. We use all reasonable measures to safeguard your information, but please note that we cannot guarantee that any personal information transmitted over the internet is completely secure. 
 
-**Access to Your Information**
+**Access to Your Personal Information**
 
-If you wish us to stop using your data at any time, you can email us at [info@uktv.co.uk](mailto:info@uktv.co.uk)
+If you wish us to stop using your personal information at any time, you can email us at [info@uktv.co.uk](http://uktv.co.uk/network/item/aid/info@uktv.co.uk). 
 
-You have the right to request a copy of your information and to have any inaccuracies corrected. We charge a maximum of £10 for such information requests. Please send all such requests to us at [info@uktv.co.uk](mailto:info@uktv.co.uk). 
+You have the right to request a copy of the personal information that we hold about you. We charge a maximum of £10 to respond to such personal information access requests. Please send all such requests to us at [info@uktv.co.uk](http://uktv.co.uk/network/item/aid/info@uktv.co.uk). 
+
+**Keeping Your Personal Information Up-to-Date**   
+We encourage you also to contact us and let us know if any of your personal information changes, so that we can keep your personal information up-to-date. 
+
+**Contact Details**
+
+You may contact us as follows: 
+
+**Company Information:**   
+UK Channel Management Limited (registered in England and Wales with number 03322468)   
+UK Gold Services Limited (registered in England and Wales with number 02702737)   
+UKTV New Ventures Limited (registered in England and Wales with number 04266373).   
+Registered office of the above companies at: 245 Hammersmith Road, London, W6 8PW 
