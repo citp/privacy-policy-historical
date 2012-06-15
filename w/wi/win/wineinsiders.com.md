@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wineinsiders.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217104920id_/http%3A//www.wineinsiders.com/privacy.htm%3Femap%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wineinsiders.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615130613id_/http%3A//www.wineinsiders.com/privacy.htm%3Femap%3D0) for the most accurate reproduction.*
 
 # Privacy Policy - Wine Insiders Wine Clubs
 
@@ -12,4 +12,4 @@ We may also use any contact information we collect to occasionally notify you ab
 
 If you would rather not receive any communications from us at info@wineinsiders.com. We will be happy to remove you from any of our contact lists.
 
-Wine Insiders welcomes your questions and comments about privacy. If you would like to email us, please [click here](https://web.archive.org/web/20111217104920id_/http%3A//www.wineinsiders.com/contact.aspx) or call us at 1-800-615-7304. 
+Wine Insiders welcomes your questions and comments about privacy. If you would like to email us, please [click here](https://web.archive.org/web/20120615130613id_/http%3A//www.wineinsiders.com/contact.aspx) or call us at 1-800-615-7304. 
