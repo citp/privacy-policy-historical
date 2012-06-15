@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the umcu.org privacy policy that was archived on 2011-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225082844id_/http%3A//www.umcu.org/about/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the umcu.org privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615161602id_/http%3A//umcu.org/about/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>University of Michigan Credit Union: Privacy Policy</title>
@@ -123,7 +123,8 @@ do	{
             <li><a href="/loans/auto/index.html">Auto Loans</a></li>
             <li><a href="/loans/creditcards/index.html">Credit Cards</a></li>
             <li><a href="/loans/linesofcredit/index.html">Lines of Credit</a></li>
-			<li><a href="/loans/memberschoice.html">Member's Choice</a></li>
+			<li><a href="/loans/startsmart.html">Start Smart Loan</a></li>
+			<li><a href="/loans/memberschoice.html">Member's Choice Loan</a></li>
 			<li><a href="/loans/studentloans/index.html">Student Loans</a></li>
             <li><a href="/loans/faq.html">Loan FAQ</a></li>
             <li><a href="/loans/apply/index.html">Apply for a Loan</a></li></ul>
@@ -566,8 +567,7 @@ if(node_level_1 == "checking")	{
 		document.write('<ul>');
 		document.write('<li ');if(node_level_3=="apply")document.write('class="nav2tab"');document.write('><a href="/checking/visacheckcard/apply.pdf">Apply</a></li>');
 		document.write('<li ');if(node_level_3=="cardholder_dispute")document.write('class="nav2tab"');document.write('><a href="/loans/creditcards/cardholder_dispute.html">Cardholder Dispute Form</a></li>');
-		document.write('<li ');if(node_level_3=="atm_debit_card_faq")document.write('class="nav2tab"');document.write('><a href="/checking/faq/atmdebit.html">ATM/Debit Card FAQ</a></li>');
-		document.write('</ul>');
+	document.write('</ul>');
 	} else 	document.write('<li><a href="/checking/visacheckcard/index.html">Visa Check Card</a></li>'); // draw inactive
 	
 	// draw expanded
@@ -814,14 +814,24 @@ if(node_level_1 == "loans_credit_cards")	{
 	
 	// draw expanded
 	
+	if(node_level_2 == "start_smart")	{
+		document.write('<li>')
+		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
+		document.write('<a href="/loans/startsmart.html">Start Smart Loan</a></li>');
+		
+	} else 	document.write('<li><a href="/loans/startsmart.html">Start Smart Loan</a></li>'); // draw inactive
+	
+	// draw expanded
+
 	if(node_level_2 == "members_choice")	{
 		document.write('<li>')
 		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
-		document.write('<a href="/loans/memberschoice.html">Members Choice</a></li>');
+		document.write('<a href="/loans/memberschoice.html">Members Choice Loan</a></li>');
 		
-	} else 	document.write('<li><a href="/loans/memberschoice.html">Members Choice</a></li>'); // draw inactive
+	} else 	document.write('<li><a href="/loans/memberschoice.html">Members Choice Loan</a></li>'); // draw inactive
 	
 	// draw expanded
+
 
 	if(node_level_2 == "student_loans")	{
 		document.write('<li>')
@@ -1025,6 +1035,7 @@ if(node_level_2 == "identity_theft")	{
 		document.write('<li ');if(node_level_3=="travelers_checks")document.write('class="nav2tab"');document.write('><a href="/resources/other/travelerschecks.html">Travelers Checks</a></li>');
 		document.write('<li ');if(node_level_3=="gift_cards")document.write('class="nav2tab"');document.write('><a href="/resources/other/giftcards.html">Gift Cards</a></li>');			
 		document.write('<li ');if(node_level_3=="coin_counter")document.write('class="nav2tab"');document.write('><a href="/resources/other/coincounter.html">Coin Counter</a></li>');
+		document.write('<li ');if(node_level_3=="savings_bonds")document.write('class="nav2tab"');document.write('><a href="/resources/other/savingsbonds.html">Savings Bonds</a></li>');
 		document.write('<li ');if(node_level_3=="notary_public")document.write('class="nav2tab"');document.write('><a href="/resources/other/notary.html">Notary Public</a></li>');	
 		document.write('<li ');if(node_level_3=="signature_services")document.write('class="nav2tab"');document.write('><a href="/resources/other/signature.html">Signature Services</a></li>');		
 		document.write('</ul>');
@@ -1186,7 +1197,7 @@ if(node_level_2 == "ncua_insurance")	 {
 	<li><a href="http://www.umcu.org/resources/scams/index.html">Scam Alerts</a></li>
 </font></ul>
 <p>
-<font style="font-size: 10pt;" size="2">© 2011, University of Michigan Credit Union, 734-662-8200 or 800-968-8628, Routing Number: 2724-7654-3
+<font style="font-size: 10pt;" size="2">© 2012, University of Michigan Credit Union, 734-662-8200 or 800-968-8628, Routing Number: 2724-7654-3
 
 </font></p>
 </div>
