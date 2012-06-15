@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fafsa.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219192511id_/http%3A//www.fafsa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafsa.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615164558id_/http%3A//www.fafsa.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@
 
 ###  Student Financial Aid Services, Inc. 
 
-Effective Date: October 17, 2011
+Effective Date: January 28, 2012
 
 If you wish to opt out of any continued communication (direct mail, telephone, fax or e-mail communications), please [click here](https://web.archive.org/optout).
 
@@ -111,7 +111,7 @@ We will take reasonable steps to verify your identity before granting access or 
 
 ###  10\. How Long we Keep your Information 
 
-One feature of our service is that after submitting the requisite information the first time, we keep this information in our files, which speeds up the FAFSA application process in subsequent years. SFAS will maintain a client’s records, including confidential Information, for a period of five years following completion of the initial application, or as otherwise required by law. If you have questions about the length of time your file is kept, please contact us at **1.866.550.5120** or by sending an e-mail to [ clientservice@FAFSA.com ](https://web.archive.org/contact). 
+One feature of our service is that after submitting the requisite information the first time, we keep this information in our files, which speeds up the FAFSA application process in subsequent years. SFAS will maintain a client’s records, including confidential Information, for a period of at least five years following completion of the initial application, or as otherwise required by law. If you have questions about the length of time your file is kept, please contact us at **1.866.550.5120** or by sending an e-mail to [ clientservice@FAFSA.com ](https://web.archive.org/contact). 
 
 ###  11\. Other Information about our Privacy Practices
 
