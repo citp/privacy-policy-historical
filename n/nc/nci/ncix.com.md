@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncix.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216013903id_/http%3A//www.ncix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncix.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615130745id_/http%3A//www.ncix.com/privacy) for the most accurate reproduction.*
 
 # NCIX.com - Canada's Premier Computer Store - Online PC Discount Store, Buy Computer Accessories
 
