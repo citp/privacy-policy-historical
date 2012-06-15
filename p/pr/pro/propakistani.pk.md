@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the propakistani.pk privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230053638id_/http%3A//propakistani.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propakistani.pk privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615094209id_/http%3A//propakistani.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ProPakistani
-
-## Privacy Policy
 
 This privacy statement discloses the privacy practices for all pages and services offered by ProPakistani.com
 
