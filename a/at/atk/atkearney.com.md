@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atkearney.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101223238id_/http%3A//www.atkearney.com/index.php/About-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkearney.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615091142id_/http%3A//www.atkearney.com/index.php/About-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | About us
 
@@ -63,5 +63,7 @@ In the event that we update this Policy to reflect changes in our practices, we 
 If you have any questions about this Privacy and Security Policy statement, the practices of our websites or your dealings with our firm, you can contact us using the [Contact Us](http://www.atkearney.com/index.php/Contact/contact-us.html) form on the websites. We reserve the right to change this policy at any time by posting a new policy at this location. 
 
 Last Updated:  20 May 2011 
+
+*** 
 
   |   | 
