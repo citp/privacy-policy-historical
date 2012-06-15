@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the frontlineplacement.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216121753id_/http%3A//www.frontlinetechnologies.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontlineplacement.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615150431id_/http%3A//www.frontlinetechnologies.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Frontline Technologies, Inc.
 
 ### Privacy Policy
 
- **Privacy Policy  
+ **[Privacy Policy](http://www.frontlinetechnologies.com/Documents/Privacy%20Policy.pdf)  
 The Internet is a powerful medium that allows communication all over the globe, quickly and easily. However, it requires protection and guidelines to be safe and secure. Frontline Technologies, Inc., is dedicated to providing you, the user, with a secure and useful experience on the Internet. Frontline Technologies adheres to the following policies regarding your private information.**
 
 **Frontline Technologies, Inc. will not provide your information to a third party vendor.  
@@ -14,7 +14,7 @@ The Internet is a powerful medium that allows communication all over the globe, 
 Frontline Technologies, Inc. uses secure logon via SSL to prevent access to your information. Your login id and PIN is required to gain access to your personal information. Additionally, Frontline Technologies, Inc. uses industry standard encryption protocols to safeguard your personal information in transit over the Internet.**
 
 **Frontline Technologies, Inc. is dedicated to following and enforcing our standards.  
-We want to ensure that we are providing you with the level of security that you need, while still providing a useful interface to your personal information. If you have any questions, comments or issues pertaining to the adherence of Frontline Technologies, Inc. to these policies, please e-mail the webmaster at[info@frontlinetechnologies.com](mailto:info@frontlinetechnologies.com). This email address is being protected from spam bots (you need Javascript enabled to view it) and you will need to include the words Privacy Policy in the subject of the e-mail.**
+We want to ensure that we are providing you with the level of security that you need, while still providing a useful interface to your personal information. If you have any questions, comments or issues pertaining to the adherence of Frontline Technologies, Inc. to these policies, please e-mail the webmaster at [info@frontlinetechnologies.com](mailto:info@frontlinetechnologies.com). This email address is being protected from spam bots (you need Javascript enabled to view it) and you will need to include the words Privacy Policy in the subject of the e-mail.**
 
 **  
 Cookies  
