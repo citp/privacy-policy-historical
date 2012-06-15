@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobicity.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205442id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobicity.com.au privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615145504id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy | MobiCity
+# Privacy | MobiCity Australia
 
 GloTech Services Ltd trades as MobiCity and is the owner of this site. This site and your data are transmitted via a 128-bit SSL secured link and stored in a secure database on our server. 
 
@@ -64,7 +64,7 @@ Access to your personal information In most cases, you can gain access to person
 
 We will handle requests for access to your personal information in accordance with the NPPs. 
 
-We encourage all requests for access to your personal information to be directed to the Privacy Officer by email to admin@glotechservices.com.
+We encourage all requests for access to your personal information to be directed to the Privacy Officer by email to admin@glotechservices.com. 
 
 We will deal with all requests for access to personal information as quickly as possible. 
 
