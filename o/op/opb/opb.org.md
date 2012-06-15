@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opb.org privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209025526id_/http%3A//www.opb.org/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opb.org privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615232752id_/http%3A//www.opb.org/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy · Oregon Public Broadcasting
 
