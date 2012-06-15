@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestockmarketwatch.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209035243id_/http%3A//thestockmarketwatch.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestockmarketwatch.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615102752id_/http%3A//thestockmarketwatch.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,6 +26,14 @@ These third-party ad servers or ad networks use technology to the advertisements
 www.thestockmarketwatch.com has no access to or control over these cookies that are used by third-party advertisers. 
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.thestockmarketwatch.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+**Company Information**
+
+Stock Market Watch  
+4828 S. Broadway #182  
+Tyler, TX 75703  
+privacy[at]thestockmarketwatch.com  
+
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.   
 **OPT-OUT FROM MAIL LIST**
