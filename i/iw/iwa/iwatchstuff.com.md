@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwatchstuff.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209045150id_/http%3A//www.anticlown.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwatchstuff.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616002942id_/http%3A//www.anticlown.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Anticlown Media - A Publisher of Great Things
 
@@ -20,9 +20,11 @@ Anticlown Media may launch a mailing list for some or all of the Anticlown Media
 Some of our business partners may use cookies on our site (for example, advertisers). However, Anticlown Media has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Anticlown Media only and does not cover the use of cookies by any advertisers.
 
 **Third Party Advertising**  
-Anticlown Media uses third-party advertising companies including Google, among others, to serve ads when you visit our websites. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+Anticlown Media uses third-party advertising companies including Google, among others, to serve ads when you visit our websites. Advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, or to opt out of behavioral targeting, visit <http://www.networkadvertising.org/optout_nonppii.asp>
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We're currently participating in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising which you can read about more here: <http://www.aboutads.info/choices/>
 
 **Log Files**  
 Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
