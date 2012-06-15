@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the tapology.com privacy policy that was archived on 2011-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111217052851id_/http%3A//www.tapology.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tapology.com privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615121943id_/http%3A//www.tapology.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 <!-- Meta -->
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="t4XaobEj0pWR6q0s8F21SN2SjSn0lJ4bA0RqbLk/jTc=">
+<meta name="csrf-token" content="eaFWwNC0CDZlvFYw3OOfxB/ef8PHtB9JdqJ0J+K0Osw=">
 <link href="/favicon.png" rel="icon" type="image/png">
-<meta content="Tapology, MMA Network, UFC, Ultimate Fighting Championship, MMA, mixed martial arts, Octagon, fight, fighters, combatants, ko, tko, knockout, submission, clinch, cagefight, bloodsport, ringside, world extreme cagefighting, no holds barred, punch, kick, strikes, fist, grappling, BJJ, Gracie, Brazilian Jiu-Jitsu, jujitsu, kenpo, karate, vale tudo, combat sambo, judo, judoka, boxing, kickboxing, muay thai, wrestling, greco-roman wrestling, luta livre, warrior, choke, tapout, takedown, suplex, Strikeforce, K1, Affliction, Bellator, Sengoku, Dream, EliteXC, Pride, WEC, Cage Rage, Sherdog, Dana White, Joe Rogan, Kimbo Slice, Tito Ortiz, Chuck Liddell, Randy Couture, Zuffa, Fertitta, Brock Lesnar, Quinton Jackson, Rampage, Anderson Silva, Georges St. Pierre, BJ Penn, Royce Gracie, Fedor Emelianenko, Eddie Bravo, Marcelo Garcia, Roger Gracie, 10th Planet, armbar, sleeper hold, mata leon, finish, arm triangle, guillotine choke, anaconda choke, brabo choke, kimura, omoplata, gogoplata, butterfly guard, rubber guard, x guard, mount, fight finder, fightfinder, heaping fistfuls" name="keywords">
+<meta content="Tapology, MMA Network, UFC, Ultimate Fighting Championship, MMA, mixed martial arts, Octagon, fight, fighters, combatants, ko, tko, knockout, submission, clinch, cagefight, ringside, no holds barred, punch, kick, strikes, fist, grappling, BJJ, Gracie, Brazilian Jiu-Jitsu, jujitsu, karate, vale tudo, combat sambo, judo, judoka, boxing, kickboxing, muay thai, wrestling, greco-roman wrestling, choke, tapout, takedown, Strikeforce, K1, Affliction, Bellator, Sengoku, Dream, EliteXC, Pride, WEC, Dana White, Joe Rogan, Kimbo Slice, Tito Ortiz, Chuck Liddell, Randy Couture, Zuffa, Fertitta, Brock Lesnar, Quinton Jackson, Rampage, Anderson Silva, Georges St. Pierre, BJ Penn, Royce Gracie, Fedor Emelianenko, armbar, arm triangle, guillotine choke, anaconda choke, brabo choke, kimura, omoplata, gogoplata, rubber guard, mount, fight finder, fight center, fightcenter, local MMA, regional MMA, Canada MMA, UK MMA, Japan MMA" name="keywords">
 <title>Privacy Policy | Tapology</title>
 <meta content="Review our Privacy Policy." name="description">
 <meta content="Privacy Policy | Tapology" property="og:title">
@@ -87,7 +87,7 @@ Enter your account email address and we'll send you a login link.
 Each login link can only be used once.
 </h3>
 <form action="/lost_password" class="modal_form" method="post">
-<input name="authenticity_token" type="hidden" value="t4XaobEj0pWR6q0s8F21SN2SjSn0lJ4bA0RqbLk/jTc=">
+<input name="authenticity_token" type="hidden" value="eaFWwNC0CDZlvFYw3OOfxB/ef8PHtB9JdqJ0J+K0Osw=">
 <p>
 <label>Email</label>
 <input name="email">
@@ -97,7 +97,7 @@ Each login link can only be used once.
 </div>
 <div class="mainLogin clearfix" id="mainLogin">
 <form action="/login" id="tapin-form" method="post">
-<input name="authenticity_token" type="hidden" value="t4XaobEj0pWR6q0s8F21SN2SjSn0lJ4bA0RqbLk/jTc=">
+<input name="authenticity_token" type="hidden" value="eaFWwNC0CDZlvFYw3OOfxB/ef8PHtB9JdqJ0J+K0Osw=">
 <input name="redirect_url" type="hidden" value="/privacy">
 <ul>
 <li class="field">
@@ -249,204 +249,6 @@ Each login link can only be used once.
 <div class="hide" id="searchSuggest"></div>
 </form>
 
-<script type="text/javascript">
-  //<![CDATA[
-    $(function() {
-      if ($('#newsContent').length) slideTicker($('#newsContent ul'), 6000, 600, false, false);
-    });
-    
-    var playTicker = true;
-    
-    slideTicker = function (c, time, trans, imm, to) {
-      
-      stime = (imm) ? 10 : time;
-        
-      if (to) clearTimeout(to);
-      
-      var slider = setTimeout( function () {
-        
-        if (playTicker) {
-        
-          $(c).queue( [ ] );
-          
-          var ml = $(c).children(':first').css('margin-left');
-          
-          $(c).children(':first').stop().animate({
-          
-            marginLeft: '-' + (parseInt($(c).children(':first').width()) + parseInt(ml)) + 'px'
-          
-          }, trans, 'easeInQuint', function () {
-            
-            $(this).css('margin-left', ml).parent().append($(this));
-            
-            slideTicker(c, time, trans, false, to);
-            
-            $(c).find('li').css('margin-left', '0px');
-            
-          }); 
-        
-        }
-      
-      }, stime);
-      
-      if ($(c).parent().attr('id').match(/news/)) {
-        
-        $('#pausePlay').unbind('click').bind('click', function () { 
-        
-          $('.tickerBtn').removeClass('tickerBtn').addClass('tickerPause');
-          stopSlideTicker(slider); 
-          
-        });
-      
-      }
-      else {
-      }
-    
-    }
-    
-    stopSlideTicker = function (to) {
-      
-      playTicker = false;
-      
-      $('#pausePlay').unbind('click').bind('click', function () { 
-        $('.tickerPause').removeClass('tickerPause').addClass('tickerBtn');
-        slideTicker($('#newsContent ul'), 6000, 500, true);
-        playTicker = true; 
-      });	
-    }
-  //]]>
-</script>
-
-<div class="newsTicker clearfix">
-<div class="newsContent" id="newsContent">
-<ul class="clearfix">
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/middle-easy/items/james-krause-wore-a-middleeasy-monster-on-his-shirt-then-scored-a-gnarly-head-kick-kocoincidence" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Middle Easy</a> :
-James Krause wore a MiddleEasy monster on his shirt then scored a gnarly head kick ko...Coincidence?
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/mma-junkie/items/strikeforce-melendez-vs-masvidal-weigh-in-photos-an-mmajunkiecom-gallery" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Junkie</a> :
-'Strikeforce: Melendez vs. Masvidal' weigh-in photos: An MMAjunkie.com gallery
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/mma-junkie/items/wec-vet-carlo-prater-meets-erick-silva-as-injury-replacement-at-ufc-142" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Junkie</a> :
-WEC vet Carlo Prater meets Erick Silva as injury replacement at UFC 142
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/middle-easy/items/mirko-cro-cop-vs-jerome-le-banner-possibly-on-tap-for-dreams-nye-event" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Middle Easy</a> :
-Mirko Cro Cop vs. Jerome Le Banner possibly on tap for DREAM's NYE event
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/mma-junkie/items/bellator-adds-hiroshi-nakamura-to-season-six-bantamweight-tournament" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Junkie</a> :
-Bellator adds Hiroshi Nakamura to season-six bantamweight tournament
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/sherdog/items/melendez-masvidal-cleared-for-strikeforce-title-bout" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Sherdog</a> :
-Melendez, Masvidal Cleared for Strikeforce Title Bout
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/mma-junkie/items/strikeforce-melendez-vs-masvidal-weigh-in-results-title-fights-are-official" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Junkie</a> :
-'Strikeforce: Melendez vs. Masvidal' weigh-in results: Title fights are official
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/mma-weekly/items/strikeforce-melendez-vs-masvidal-weigh-in-results--2" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Weekly</a> :
-Strikeforce Melendez vs. Masvidal Weigh-in Results
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/mma-weekly/items/erick-silva-gets-new-opponent-for-ufc-rio-142" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Weekly</a> :
-Erick Silva Gets New Opponent for UFC Rio 142
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/sherdog/items/report-lesnar-charged-with-illegal-hunting-practices" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Sherdog</a> :
-Report: Lesnar Charged with Illegal Hunting Practices
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/heavycom/items/strikeforce-heavyweight-grand-prix-finale-likely-for-march-3" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Heavy.com</a> :
-Strikeforce Heavyweight Grand Prix Finale Likely For March 3
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/mma-junkie/items/strikeforce-melendez-vs-masvidal-live-and-official-weigh-in-results--2" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Junkie</a> :
-'Strikeforce: Melendez vs. Masvidal' live and official weigh-in results
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/middle-easy/items/cris-cyborg-says-ronda-rousey-talks-too-much-and-is-ready-to-fight-her" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Middle Easy</a> :
-Cris Cyborg says Ronda Rousey 'talks too much' and is ready to fight her
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/mma-weekly/items/cris-cyborg-out-to-prove-she-hasn%E2%80%99t-skipped-a-beat-following-long-layoff" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Weekly</a> :
-Cris Cyborg Out to Prove She Hasn’t Skipped a Beat Following Long Layoff
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/heavycom/items/gabriel-gonzaga-returns-at-ufc-142-faces-ednaldo-oliveira" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Heavy.com</a> :
-Gabriel Gonzaga Returns At UFC 142, Faces Ednaldo Oliveira
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/mma-junkie/items/bloody-eyeballs-and-black-spots-no-hurdle-for-strikeforces-justin-wilcox" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Junkie</a> :
-Bloody eyeballs and black spots no hurdle for Strikeforce's Justin Wilcox
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/middle-easy/items/it-doesnt-bother-tyron-woodley-when-ufc-fighters-cant-make-eye-contact-with-him" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Middle Easy</a> :
-It doesn't bother Tyron Woodley when UFC fighters can't make eye contact with him
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/middle-easy/items/the-friday-afternoon-mma-link-party" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Middle Easy</a> :
-The Friday Afternoon MMA Link Party
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/heavycom/items/heavymma-podcast-65-ufc-140-the-greatness-of-jon-jones-strikeforce" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Heavy.com</a> :
-HeavyMMA Podcast 65: UFC 140, The Greatness of Jon Jones, Strikeforce
-</span>
-</li>
-<li itemscope="" itemtype="http://schema.org/NewsArticle">
-<span itemprop="headline">
-<a href="/news/sherdog/items/gonzaga-back-in-ufc-replaces-injured-broughton-in-rio" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Sherdog</a> :
-Gonzaga Back in UFC, Replaces Injured Broughton in Rio
-</span>
-</li>
-</ul>
-</div>
-<span class="tickerBtn">
-<input id="pausePlay" name="pausePlay" type="button">
-</span>
-</div>
-
 </section>
 <div class="hide" id="general-message">
 <p class="message"></p>
@@ -524,7 +326,7 @@ Gonzaga Back in UFC, Replaces Injured Broughton in Rio
 <p>If we change our privacy policies and procedures, we will post those changes to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.</p>
 </div>
 <div class="faqBox">
-<p>© 2011 Tapology. All rights reserved.</p>
+<p>© 2012 Tapology. All rights reserved.</p>
 </div>
 
 </div>
@@ -537,6 +339,204 @@ Gonzaga Back in UFC, Replaces Injured Broughton in Rio
 
 
 </section>
+
+<script type="text/javascript">
+  //<![CDATA[
+    $(function() {
+      if ($('#newsContent').length) slideTicker($('#newsContent ul'), 6000, 600, false, false);
+    });
+    
+    var playTicker = true;
+    
+    slideTicker = function (c, time, trans, imm, to) {
+      
+      stime = (imm) ? 10 : time;
+        
+      if (to) clearTimeout(to);
+      
+      var slider = setTimeout( function () {
+        
+        if (playTicker) {
+        
+          $(c).queue( [ ] );
+          
+          var ml = $(c).children(':first').css('margin-left');
+          
+          $(c).children(':first').stop().animate({
+          
+            marginLeft: '-' + (parseInt($(c).children(':first').width()) + parseInt(ml)) + 'px'
+          
+          }, trans, 'easeInQuint', function () {
+            
+            $(this).css('margin-left', ml).parent().append($(this));
+            
+            slideTicker(c, time, trans, false, to);
+            
+            $(c).find('li').css('margin-left', '0px');
+            
+          }); 
+        
+        }
+      
+      }, stime);
+      
+      if ($(c).parent().attr('id').match(/news/)) {
+        
+        $('#pausePlay').unbind('click').bind('click', function () { 
+        
+          $('.tickerBtn').removeClass('tickerBtn').addClass('tickerPause');
+          stopSlideTicker(slider); 
+          
+        });
+      
+      }
+      else {
+      }
+    
+    }
+    
+    stopSlideTicker = function (to) {
+      
+      playTicker = false;
+      
+      $('#pausePlay').unbind('click').bind('click', function () { 
+        $('.tickerPause').removeClass('tickerPause').addClass('tickerBtn');
+        slideTicker($('#newsContent ul'), 6000, 500, true);
+        playTicker = true; 
+      });	
+    }
+  //]]>
+</script>
+
+<div class="newsTicker clearfix">
+<div class="newsContent" id="newsContent">
+<ul class="clearfix">
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/sherdog/items/legend-fc-9-weigh-in-results-rob-hill-koji-ando-hit-marks-for-lightweight-title-eliminator" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Sherdog</a> :
+Legend FC 9 Weigh-in Results: Rob Hill, Koji Ando Hit Marks for Lightweight Title Eliminator
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/mma-junkie/items/ufcs-michael-bisping-undergoes-successful-knee-surgery-anticipates-quick-return" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Junkie</a> :
+UFC's Michael Bisping undergoes successful knee surgery, anticipates quick return
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/middle-easy/items/blast-from-the-past-jeff-monson-just-became-the-king-of-all-mma-promos-with-this-video" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Middle Easy</a> :
+Blast from the Past: Jeff Monson just became the king of all MMA promos with this video...
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/mma-junkie/items/the-sunday-junkie-deadline-reminder-win-an-autographed-urijah-faber-book--3" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Junkie</a> :
+The Sunday Junkie deadline reminder, win an autographed Urijah Faber book!
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/heavycom/items/wanderlei-silva-i-saw-myself-in-those-guys" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Heavy.com</a> :
+Wanderlei Silva: I Saw Myself In Those Guys
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/mma-weekly/items/if-gsp-isn%E2%80%99t-healthy-martin-kampmann-ready-for-condit-rematch" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Weekly</a> :
+If GSP Isn’t Healthy, Martin Kampmann Ready for Condit Rematch
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/middle-easy/items/everyone-loves-burt-watson-even-nick-diazsort-of" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Middle Easy</a> :
+Everyone loves Burt Watson, even Nick Diaz...sort of
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/sherdog/items/nac-appoints-yves-lavigne-to-officiate-sonnen-silva-rematch-at-ufc-148" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Sherdog</a> :
+NAC Appoints Yves Lavigne to Officiate Sonnen-Silva Rematch at UFC 148
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/mma-junkie/items/bellator-71s-brett-rogers-says-house-fire-sparked-rift-with-opponent-kevin-asplund" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Junkie</a> :
+Bellator 71's Brett Rogers says house fire sparked rift with opponent Kevin Asplund
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/mma-weekly/items/john-gunderson-sees-karo-parisyan-shofight-bout-as-part-of-his-road-back-to-ufc" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Weekly</a> :
+John Gunderson Sees Karo Parisyan ShoFIGHT Bout as Part of His Road Back to UFC
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/mma-junkie/items/nsac-selects-referee-yves-lavigne-for-ufc-148s-silva-sonnen-ii-headliner" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Junkie</a> :
+NSAC selects referee Yves Lavigne for UFC 148's Silva-Sonnen II headliner
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/mma-weekly/items/if-mark-munoz-wins-at-ufc-on-fuel-tv-4-%E2%80%98he-has-to-be-the-no-1-contender%E2%80%99" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Weekly</a> :
+If Mark Munoz Wins at UFC on Fuel TV 4, ‘He Has to Be the No. 1 Contender’
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/middle-easy/items/michael-bisping-has-a-dj-name-and-its-dj-michael-bisping" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Middle Easy</a> :
+Michael Bisping has a DJ name and it's 'DJ Michael Bisping'
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/mma-junkie/items/fight-path-time-flaky-opponents-are-olympian-sara-mcmanns-primary-concerns" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Junkie</a> :
+Fight Path: Time, flaky opponents are Olympian Sara McMann's primary concerns
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/mma-weekly/items/olympian-steve-mocco-joins-american-top-team-for-transition-into-mma" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Weekly</a> :
+Olympian Steve Mocco Joins American Top Team for Transition Into MMA
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/middle-easy/items/according-to-this-algorithm-joseph-benavidez-is-the-most-dominant-fighter-in-all-of-mma" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Middle Easy</a> :
+According to this algorithm, Joseph Benavidez is the most dominant fighter in all of MMA
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/middle-easy/items/an-omoplata-within-an-omoplata-son" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Middle Easy</a> :
+An omoplata within an omoplata, son
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/mma-weekly/items/ufc-fan-expo-in-july-to-feature-more-than-50-fighters-and-stars" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">MMA Weekly</a> :
+UFC Fan Expo in July to Feature More than 50 Fighters and Stars
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/heavycom/items/more-than-50-ufc-and-strikeforce-stars-featured-at-ufc-148-fan-expo" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Heavy.com</a> :
+More Than 50 UFC And Strikeforce Stars Featured At UFC 148 Fan Expo
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/NewsArticle">
+<span itemprop="headline">
+<a href="/news/sherdog/items/2008-us-olympic-wrestler-steve-mocco-officially-signs-with-american-top-team" onclick="_gaq.push(['_trackEvent', 'TickerClick', 'NewsItem']);">Sherdog</a> :
+2008 U.S. Olympic Wrestler Steve Mocco Officially Signs With American Top Team
+</span>
+</li>
+</ul>
+</div>
+<span class="tickerBtn">
+<input id="pausePlay" name="pausePlay" type="button">
+</span>
+</div>
 
 </div>
 <footer id="footer" itemscope="" itemtype="http://schema.org/WPFooter">
@@ -563,7 +563,7 @@ Gonzaga Back in UFC, Replaces Injured Broughton in Rio
 </p>
 </div>
 <div class="copyright">
-<p class="copyright">© 2011 Tapology. All rights reserved.</p>
+<p class="copyright">© 2012 Tapology. All rights reserved.</p>
 <p>
 <span>Follow Us:</span>
 <a href="http://www.facebook.com/pages/Tapologycom/224305674489">Facebook</a>
@@ -594,12 +594,12 @@ Gonzaga Back in UFC, Replaces Injured Broughton in Rio
 <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
-e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/26/eum/rum-staging.js";
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/38/eum/rum-staging.js";
 document.body.appendChild(e);
 if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","60bb929f68",311537,"JlkLEkQJW14DFhxCVAJTFklGFF5EBwdK",0,66,new Date().getTime(),"","","","",""])</script>
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","60bb929f68",311537,"JlkLEkQJW14DFhxCVAJTFklGFF5EBwdK",0,565,new Date().getTime(),"","","","",""])</script>
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/26/eum/rum-staging.js"></script></body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/38/eum/rum-staging.js"></script></body></html>
