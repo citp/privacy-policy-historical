@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tune-up.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204062742id_/http%3A//www.tune-up.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tune-up.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615103304id_/http%3A//www.tune-up.com/company/privacy) for the most accurate reproduction.*
 
-# TuneUp Utilities™ 2012 - Company - Privacy Policy
+# TuneUp Utilities 2012 - Company - Privacy Policy
 
 This privacy policy is designed to inform users of TuneUp websites about how TuneUp (“TuneUp” or “we”) gathers and uses anonymous and profile information, and in what circumstances TuneUp will disclose such information. TuneUp will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws.
 
@@ -19,11 +19,11 @@ Users who are experiencing problems with our services or who have questions abou
 
 _General data transmission and logging upon Internet access_
 
-To the extent your web browser, upon accessing our website, automatically transmits data such as date and time of access, URL of the referring website, accessed files, quantity of transmitted data, browser type and version, operating system and/or your IP address, these data will be stored separately from other data that you may provide to TuneUp. These data will be evaluated for statistical purposes and then promptly deleted.
+To the extent your web browser, upon accessing our website, automatically transmits data such as date and time of access, URL of the referring website, accessed files, quantity of transmitted data, browser type and version, operating system and/or your IP address, these data will be stored separately from other data that you may provide to TuneUp. These data will be evaluated for statistical purposes and then promptly deleted. 
 
 _Information acquired through voluntary submissions by users_
 
-On some of our sites, we offer a form which allows you to provide us with further items of information, including one or more of the following: your name, gender, date of birth, email address, language, country, currency and ratings of products. We use this information to deliver email newsletters and general promotional and marketing materials on topics of interest to you. If you do not wish for your information to be used in this way, do not request such services or opt out of such use and disclosure in accordance with this Privacy Policy.
+On some of our sites, we offer a form which allows you to provide us with further items of information, including one or more of the following: your name, gender, date of birth, email address, language, country, currency and ratings of products. We use this information to deliver email newsletters and general promotional and marketing materials on topics of interest to you. If you do not wish for your information to be used in this way, do not request such services or opt out of such use and disclosure in accordance with this Privacy Policy. 
 
 _Inventory and usage data_
 
@@ -39,7 +39,7 @@ In order to permit full use of the functionality of its internet offerings, Tune
 _Forwarding to Google Analytics_
 
 Our website uses Google Analytics, an internet evaluation service of Google, Inc. (“Google”). Google uses the information stored by cookies (as described above) to evaluate your use of the website, to prepare reports of website activities for website operators and to provide other services associated with website and internet usage. Google processes data on its servers in the United States and in certain circumstances provides compiled, anonymized information to third party developers. You can obtain information about the scope and purpose of the analyses at [www.google.com/analytics/tos.html](http://www.google.com/analytics/tos.html), and you can find Google’s data privacy policies at [www.google.com/privacy.html](http://www.google.com/privacy.html). By using this website, you agree to the forwarding of data to Google and the processing by Google of the data collected from you in the manner and for the purposes described above. If you disagree with this, you may refuse to allow cookies to be saved.  
-Profile information provided to us by you is, however, subject to disclosure pursuant to any applicable laws.
+Profile information provided to us by you is, however, subject to disclosure pursuant to any applicable laws. 
 
 _Third Party Service Providers to TuneUp_
 
@@ -48,9 +48,9 @@ Please note that personal information provided to this site may be subject to di
 
 ## How Can You Opt Out of Use and Disclosure of Your Information?
 
-TuneUp will only use your user profile information for the purposes described in this Privacy Policy or subsequently authorized by you.
+TuneUp will only use your user profile information for the purposes described in this Privacy Policy or subsequently authorized by you. 
 
-If you would like information about you (that is not necessary for the completion of a transaction you initiated) to be deleted from the TuneUp database, please contact us at support_en(at)tune-up.com and we will remove your user profile information.
+If you would like information about you (that is not necessary for the completion of a transaction you initiated) to be deleted from the TuneUp database, please contact us at support_en(at)tune-up.com and we will remove your user profile information. 
 
 _Access and Updating of Information_
 
@@ -60,22 +60,22 @@ The instructions to review, amend, or delete your information may be found suppo
 
 _Security_
 
-TuneUp has implemented reasonable security measures to protect information from loss, misuse and unauthorized access, disclosure, alteration or destruction. Our security systems include authenticated access to internal databases, audits of procedures, and regular reviews of overall web security.
+TuneUp has implemented reasonable security measures to protect information from loss, misuse and unauthorized access, disclosure, alteration or destruction. Our security systems include authenticated access to internal databases, audits of procedures, and regular reviews of overall web security. 
 
 _Links_
 
-TuneUp websites contain links to other websites. TuneUp is not responsible for the privacy practices or the content of those sites. Users should be aware of this when they leave our sites and review the privacy statements of each website they visit that collects information. This Privacy Policy applies solely to information collected by TuneUp websites.
+TuneUp websites contain links to other websites. TuneUp is not responsible for the privacy practices or the content of those sites. Users should be aware of this when they leave our sites and review the privacy statements of each website they visit that collects information. This Privacy Policy applies solely to information collected by TuneUp websites. 
 
 _Business Transfers_
 
-We are always seeking to improve our website and our business. If all or part of TuneUp is sold, merged or otherwise transferred to another entity, the Profile Information and Activity Data that you have provided to us may be transferred as part of that transaction. In these circumstances, TuneUp will require that the profile information be used by its successor in a manner that is consistent with the TuneUp Privacy Policy in effect at the time TuneUp received the information.
+We are always seeking to improve our website and our business. If all or part of TuneUp is sold, merged or otherwise transferred to another entity, the Profile Information and Activity Data that you have provided to us may be transferred as part of that transaction. In these circumstances, TuneUp will require that the profile information be used by its successor in a manner that is consistent with the TuneUp Privacy Policy in effect at the time TuneUp received the information. 
 
 _Amendments_
 
-TuneUp may modify or amend this policy from time to time. If we make any material changes in the way in which your profile information is collected, used or transferred, we will notify you of these changes on our website or by e-mail and provide a link to the new privacy statement. If you object to any of the changes, you can have us delete your information from our database by contacting support_en(at)tune-up.com.
+TuneUp may modify or amend this policy from time to time. If we make any material changes in the way in which your profile information is collected, used or transferred, we will notify you of these changes on our website or by e-mail and provide a link to the new privacy statement. If you object to any of the changes, you can have us delete your information from our database by contacting support_en(at)tune-up.com. 
 
 _Options_
 
-Users who opt-in may also remove themselves from emailing lists at any time by following the instructions at the end of any email they received from TuneUp.
+Users who opt-in may also remove themselves from emailing lists at any time by following the instructions at the end of any email they received from TuneUp. 
 
 Effective Date: [May 18, 2010]
