@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the how2vacation.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215022743id_/http%3A//how2vacation.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the how2vacation.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615155056id_/http%3A//www.how2vacation.com/page/privacy-policy) for the most accurate reproduction.*
 
 # | How2Vacation.com :
 
