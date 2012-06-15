@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the napower.com privacy policy that was archived on 2011-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216214501id_/http%3A//napower.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the napower.com privacy policy that was archived on 2012-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615162315id_/https%3A//www.napower.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="loc-privacy-policy" xml:lang="en" lang="en"><head>
         <title>North American Power</title>
@@ -21,9 +21,13 @@
         
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/script/jquery151min.js"></script>
         <script src="/assets/script/flowplayer.controls-3.0.2.min.js"></script>
-        <script src="/assets/script/nap.js"></script>  
+        <script src="/assets/script/nap.js?20120615"></script>  
+	<script src="/assets/script/video.js"></script>
+	<script src="/assets/script/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/assets/script/jquery-ui-1.8.18.custom.min.js"></script>
+
         <!-- socialize.js script should only be included once -->
-        <script type="text/javascript" src="https://socialize.napower.com/js/socialize.js?apiKey=2_x8jGumRbHqlvB3smpv2x6a75fWFI8qYIILc6mhOdV4U-S-UMOunfIE45_3WQZvFW"></script>
+        <script type="text/javascript" src="https://cdns.gigya.com/js/socialize.js?apikey=2_x8jGumRbHqlvB3smpv2x6a75fWFI8qYIILc6mhOdV4U-S-UMOunfIE45_3WQZvFW"></script>
         <!--[if lte IE 6]>
             <script>
                 nap.ieNotification();
@@ -34,14 +38,19 @@
         <link rel="stylesheet" type="text/css" href="/assets/nap.css">
         <link rel="stylesheet" type="text/css" href="/assets/nap.m2m.css">
         <link href="https://cloud.webtype.com/css/424daf64-40db-4020-ac33-2b786471188b.css" rel="stylesheet" type="text/css">
+
+	<!-- Include the VideoJS Stylesheet -->
+		<link rel="stylesheet" href="/assets/video-js.css" type="text/css" media="screen" title="Video JS">
+	<!-- JQuery UI datepicker styles-->
+		<link type="text/css" href="/assets/jquery-ui-1.8.18.custom.css" rel="stylesheet">	
     </head>
 
-    <body id="main" class="home bg-grass bg-grass ">
+    <body id="main" class="home bg-grass  bg-grass  ">
         <header>
             <a href="/"><img src="/assets/images/logo.png" alt="North American Power"></a>
 			
             <div>
-                
+                                  
 	<h2>
 		</h2>
 
@@ -66,18 +75,27 @@ Select a Different Utility
 		 <option value="clp">CL&amp;P - Connecticut Light and Power</option>
 		 <option value="united-illuminating">UI - United Illuminating</option>
 	</optgroup>
+	<optgroup label="IL">
+		 <option value="comed">Commonwealth Edison Company</option>
+	</optgroup>
 	<optgroup label="MD">
 		 <option value="bge">BGE - Baltimore Gas and Electric</option>
 		 <option value="pepco">PEPCO MD</option>
+	</optgroup>
+        <optgroup label="NJ">
+		 <option value="ace">ACE - Atlantic City Electric</option>
+		 <option value="jcpl">JCP&amp;L</option>
+		 <option value="pseg">PSEG - Public Service Electric and Gas</option>
+		 <option value="reco">Rockland Electric</option>
 	</optgroup>
 	<optgroup label="NY">
 		 <option value="coned">Con Edison</option>
 		 <option value="orange-rockland">Orange &amp; Rockland</option>
 	</optgroup>
-	<optgroup label="NJ">
-		 <option value="ace">ACE - Atlantic City Electric</option>
-		 <option value="jcpl">JCP&amp;L</option>
-		 <option value="pseg">PSEG - Public Service Electric and Gas</option>
+	
+        <optgroup label="OH">
+		 <option value="duke">Duke Energy Ohio</option>
+		 <option value="dpl">Dayton Power and Light</option>
 	</optgroup>
 	<optgroup label="PA">
 		 <option value="duquesne">Duquesne Light</option>
@@ -95,39 +113,39 @@ Select a Different Utility
 
 	<ul>
 		<li>
-			<a href="/pseg/residents">
+			<a href="/comed/residents">
 				<h3>Residents</h3>
 				<h4>Get Started »</h4>
 			</a>
 		</li>
 		<li>
-			<a href="/pseg/businesses">
+			<a href="/comed/businesses">
 				<h3>Businesses</h3>
 				<h4>Get Started »</h4>
 			</a>
 		</li>
 		<li>
-			<a href="/pseg/green-energy">
+			<a href="/comed/green-energy">
 				<h3>Renewable Energy</h3>
                				<h4>Learn More</h4>
                			</a>
 		</li>
-				<li>
-			<a href="/m2m">
-				<h3>Referral Program</h3>
-				<h4>Explore</h4>
-			</a>
-		</li>
-		</ul>
+							<li>
+				<a href="/m2m">
+					<h3>Referral Program</h3>
+					<h4>Explore</h4>
+				</a>
+			</li>
+					</ul>
 
   
                 </nav>
-            </div>
+                            </div>
         </header>
         
          
         
-        <section id="body" style="height: 1229px;">
+        <section id="body">
              
             
             <!-- LEFT BAR CONTENT -->
@@ -178,7 +196,7 @@ Select a Different Utility
         </section>
 		<br class="clear">
         
-        <footer style="position: relative;"> 
+        <footer style="display: none;"> 
                         <div>
 				<script type="text/javascript">
 var act = new gigya.services.socialize.UserAction();
@@ -219,10 +237,10 @@ var showShareBarUI_params=
 					| <a href="/about-nap/our-rates">Current Rates</a> 
 				
 			<a href="/es/privacy-policy" class="btn gray graytext" style="float: right; margin-right: 7px;">En Español</a>
-	
-            </nav>
+	            </nav>
             <div>
-                <style type="text/css">
+                <!-- #7b -->
+<style type="text/css">
 #fulldisclaimer {text-decoration: underline; cursor:pointer;}
 </style>
 <script type="text/javascript">
@@ -232,17 +250,20 @@ var showShareBarUI_params=
 		})
 	});
 </script>
-©2011 North American Power (NAP). For full disclaimer <a id="fulldisclaimer">click here</a>.
-<span class="showfulldisclaimer" style="display: none;">NAP does offer several different introductory offers for new customers so please see terms and conditions for details.  Generally, after NAP's introductory rate, NAP's applicable rate is variable on a month-to-month basis and is subject to change based on market conditions with no cancellation fee. Current rates should not be construed as a guarantee of future rates or savings. Please visit <a href="http://www.napower.com">www.NAPOWER.com</a> for the latest pricing information and full terms and conditions. Budget Billing is not available in NJ. Switching to a third party supplier is not mandatory and you have the option of remaining with your LDC for basic generation service. Electric prices are subject to change, your price may be higher or lower than your utility's price. Price comparisons are based on the LDC's electric price to compare, total bill prices will include LDC delivery charges. This offer expires  01/16/2012. Electric Supplier proceeding; MD: IR-1983, CT: Docket No. 09-10-21, PA Docket No. M-00061957, NJ lincense # ESL-0104. In NJ NAP currently serves PSE&amp;G, JCP&amp;L and ACE. 
+North American Power and Gas, LLC ® (NAP). For full disclaimer <a id="fulldisclaimer">click here</a>.<br>
+<span class="showfulldisclaimer" style="display: none;">*NAP does offer several different introductory and/or promotional offer and/or rate for new customers during the first month of service so please see terms and conditions for details. Generally, after the introductory and/or promotional offer and/or rate , NAP's applicable rate is a market based variable rate, on a month-to-month term, and is subject to change based on market conditions.  Customer may terminate service with NAP at any time and NAP does not charge a cancellation fee.  Your utility and/or supplier may charge a fee to switch to a different supplier.  Current rates should not be construed as a guarantee of future rates or savings. Please visit <a href="http://www.napower.com/" target="_self">www.NAPOWER.com</a> for the latest pricing information, full terms and conditions, environmental information, and comparisons. Budget Billing is not available in NJ. Switching to a third party supplier is not mandatory and you have the option of remaining with your utility for basic generation service. Electric prices are subject to change; your price may be higher or lower than your utility's price. Price comparisons are based on usage up to 12,000 kWh and the utility's electric price to compare as understood by North American Power with rounding, but is always subject to change based on market conditions and does not include any price comparisons of any other suppliers; total bill prices will include utility delivery charges and prices are displayed in kWh. If you are removed from utility consolidated billing for any reason NAP reserves the right to bill you directly or terminate the supply agreement. It may take approximately 1 to 2 billing cycles before you start receiving NAP's service. Electric Supplier proceeding; MD: IR-1983, CT: Docket No. 09-10-21, PA: License #A2176743, NJ: License # ESL-0104, OH: Cert. # 11-410E(1). In NJ NAP currently serves PSE&amp;G, JCP&amp;L, ACE and Rockland Electric.  In CT, North American Power currently serves customers in CL&amp;P and UI.  North American Power is NOT the distribution utility, LDC or Electric Distribution Utility ("EDC") and is a completely separate company. In OH, NAP's applicable rate for Service shall be equal to the sum of: a) the costs incurred by NAP to provide the Service, through procurement in RTO-administered and/or other short-term markets, of all the supply and associated products that NAP requires to meet your electric generation supply requirements (including, without limitation, energy, imbalance energy, losses, capacity, transmission, ancillary services, alternative and renewable energy requirements, other RTO charges, taxes and any other required products or services); and b) up to $0.040 per kWh. Gas Licenses as follows: OH Cert. # 12-249G(1); NJ License# GSL-0114.  
 <br>
-* $1 monthly donation in the Fundraising Program is for front-line customers to the fundraiser beginning at the 4th billing cycle and depends upon the customer�s usage.  $5 up-front donation in the Fundraising Program is for front-line customers to the fundraiser using over 250kWh per month.
+** While NAP complies with individual state renewable portfolio standards, inclusion of additional Renewable Energy Certificates can also be an optional service and is not required for electric supply service.  You can also visit <a href="http://www.napower.com/" target="_self">www.napower.com</a> for the latest environmental and pricing information, as well as a copy of the ESCO Consumer Bill of Rights.
 <br>
-** Under the NAP Mission to Millions program, NAP will make donations to participating charities based upon (1) the monthly usage of its participating electricity supply customers and (2) purchases of NAP's American Wind Certificate renewable energy credits.  Specifically, NAP will donate (1) $1.00 for each monthly electric bill paidby a participating electricity supply customer for usage of more than 250 kWh - if the customer's usage is 250 kWh or lower for any given month, no donation will be made for that month, and (2) $1.00 for each American Wind Certificate purchased by a participating customer.  Donations are made to the participating charity selected by the customer.  In the event that any charity ceases participation in the Mission to Millions program or ceases to be eligible to receive donations based on sales to residents of a particular state, NAP may select another charity to receive the donations that can no longer be made to the customer's selected charity under the Mission to Millions program.  The Mission to Millions program is currently not available to residents of Alabama and Maine. Please visit www.napower.com for further details and full terms and conditions.  This offer expires 3/31/2012.
+*** $1 monthly earnings for fundraisers in the Fundraising Program is for front-line customers to the fundraiser beginning at the 4th billing cycle and depends upon the customer's usage. $5 up-front payment to the organization in the Fundraising Program is based off of front-line customers to the fundraiser using over 250kWh per month.
+<br>
+**** Under the NAP Mission to Millions program, NAP will make donations to participating charities based upon (1) the monthly usage of its participating electricity supply customers [2] the monthly usage of its participating natural gas supply customers (3) purchases of NAP's American Wind Certificate renewable energy credits. Specifically, NAP will donate (1) $1.00 for each monthly electric bill paidby a participating electricity supply customer for usage of 250 kWh or more - if the customer's usage is lower than 250 kWh for any given month, no donation will be made for that month, [2] $1.00 for each monthly natural gas bill paidby a participating natural gas supply customer for usage of 50 therms or more - if the customer's usage is less than 50 therms for any given month, no donation will be made for that month,and (3) $1.00 for each American Wind Certificate purchased by a participating customer. Donations are made to the participating charity selected by the customer. In the event that any charity ceases participation in the Mission to Millions program or ceases to be eligible to receive donations based on sales to residents of a particular state, NAP may select another charity to receive the donations that can no longer be made to the customer's selected charity under the Mission to Millions program. The Mission to Millions program is currently not available to residents of Alabama and Maine. Please visit <a href="http://www.napower.com/" target="_self">www.napower.com</a> for further details and full terms and conditions.
 </span>
 <br> <br>
 
+
 <a class="bbb_accredited" title="Click for the Business Review of North American Power, an Energy Service Companies in Norwalk CT" href="https://www.bbb.org/connecticut/business-reviews/energy-service-companies/north-american-power-in-norwalk-ct-87075773#sealclick"><img alt="North American Power is a BBB Accredited Business. Click for the BBB Business Review of this Energy Service Companies in Norwalk CT" style="border: 0;" src="/assets/images/logos/blue-seal-96-50-northamericanpower-87075773.png"></a>
-            </div>
+<!-- #7e -->            </div>
         </footer>
 		
         <!-- Google Code for NAP Full Site Remarketing List -->
@@ -304,7 +325,7 @@ var google_conversion_value = 0;
     nap.isBroker = "";
     nap.broker = "";
     nap.brokerUrl = "";
-    nap.currentUtility = "pseg";
+    nap.currentUtility = "comed";
 
     nap.setupVars();
 </script>		
