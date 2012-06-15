@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the wisecleaner.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510023738id_/http%3A//www.wisecleaner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisecleaner.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615024552id_/http%3A//www.wisecleaner.com/privacy.html) for the most accurate reproduction.*
 
 # WiseCleaner - Privacy Policy
 
-WiseCleaner is committed to protecting your privacy. Please read the WiseCleaner Online Privacy Statement below and also any supplemental information listed to the right for additional details about particular WiseCleaner sites and services that you may use.
+WiseCleaner is committed to protecting your privacy. please read the WiseCleaner Online privacy Statement below and also any supplemental information listed to the right for additional details about particular WiseCleaner sites and services that you may use.
 
-This WiseCleaner Online Privacy Statement applies to data collected by WiseCleaner through the majority of its Web sites and services, as well as its offline product support services. It does not apply to those WiseCleaner sites, services and products that do not display or link to this statement or that have their own privacy statements.
+This WiseCleaner Online privacy Statement applies to data collected by WiseCleaner through the majority of its Web sites and services, as well as its offline product support services. It does not apply to those WiseCleaner sites, services and products that do not display or link to this statement or that have their own privacy statements.
 
-**Collection of Your Personal Information**
+## Collection of Your Personal Information
 
 In order to access some WiseCleaner services, you will be asked to sign in with an e-mail address. If you have purchased our product(s), in order to save your purchase informations, your name and email will be save to our users database.
 
-We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with WiseCleaner sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
+We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with WiseCleaner sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your Ip address, browser type and language, access times and referring Web site addresses.
 
-In order to offer you a more consistent and personalized experience in your interactions with WiseCleaner, information collected through one WiseCleaner service may be combined with information obtained through other WiseCleaner services. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customize certain services to your geographic area.
+In order to offer you a more consistent and personalized experience in your interactions with WiseCleaner, information collected through one WiseCleaner service may be combined with information obtained through other WiseCleaner services. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your Ip address in order to customize certain services to your geographic area.
 
-**Use of Your Personal Information**
+## **Use of Your Personal Information**
 
 WiseCleaner collects and uses your personal information to operate and improve its sites and deliver the services or carry out the transactions you have requested. These uses may include providing you with more effective customer service; making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our products, services and technologies; and displaying content and advertising that are customized to your interests and preferences.
 
 We also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. Some WiseCleaner services, such as WiseCleaner Newsletter, may send periodic member letters that are considered part of the service. We may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from WiseCleaner and its affiliates.
 
-Personal information collected on WiseCleaner sites and services may be stored and processed in the United States or any other country in which WiseCleaner or its affiliates, subsidiaries or agents maintain facilities, and by using a WiseCleaner site or service, you consent to any such transfer of information outside of your country. WiseCleaner abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+personal information collected on WiseCleaner sites and services may be stored and processed in the United States or any other country in which WiseCleaner or its affiliates, subsidiaries or agents maintain facilities, and by using a WiseCleaner site or service, you consent to any such transfer of information outside of your country. WiseCleaner abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-**Sharing of Your Personal Information**
+## Sharing of Your Personal Information 
 
 Except as described in this statement, we will not disclose your personal information outside of WiseCleaner and its controlled subsidiaries and affiliates without your consent. Some WiseCleaner sites allow you to choose to share your personal information with select WiseCleaner partners so that they can contact you about their products, services or offers. Other sites do not share your contact information with third parties for marketing purposes, but instead may give you a choice as to whether you wish to receive communications from WiseCleaner on behalf of external business partners about a partner's particular offering (without transferring your personal information to the third party).
 
@@ -32,13 +32,13 @@ We occasionally hire other companies to provide limited services on our behalf, 
 
 We may access and/or disclose your personal information if we believe such action is necessary to: (a) comply with the law or legal process served on WiseCleaner; (b) protect and defend the rights or property of WiseCleaner (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of WiseCleaner services or members of the public.
 
-**Security of Your Personal Information**
+## Security of Your Personal Information
 
 WiseCleaner is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number or password) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
 If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always choose to log out before leaving a site or service to protect access to your information from subsequent users.
 
-**Collection and Use of Children's Personal Information**
+## Collection and Use of Children's personal Information
 
 WiseCleaner cares about children and understand that they have special privacy needs. Therefore, WiseCleaner has adopted the following privacy policy regarding children:
 
@@ -54,22 +54,22 @@ WiseCleaner Web sites use cookies to store your preferences and other informatio
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of WiseCleaner sites and services that depend on cookies.
 
-**Use of Third Party Ad Networks**
+## Use of Third party Ad Networks 
 
 The majority of the online banner advertisements you see on WiseCleaner Web pages are displayed by WiseCleaner. However, we allow other companies, called third-party ad servers or ad networks, to display advertisements on WiseCleaner Web pages. Some of these ad networks may place a persistent cookie on your computer in order to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. WiseCleaner does not have access to the cookies that may be placed by the third-party ad servers or ad networks.
 
-**Controlling "Spam" or Unsolicited E-mail**
+## Controlling "Spam" or Unsolicited E-mail 
 
-WiseCleaner is concerned about controlling unsolicited commercial e-mail, or "spam." WiseCleaner has a strict Anti-Spam Policy prohibiting the use of customer account to send spam. WiseCleaner will not sell, lease or rent its e-mail subscriber lists to third parties. While WiseCleaner continues to actively review and implement new technology, such as expanded filtering features, there is no currently available technology that will totally prevent the sending and receiving of unsolicited e-mail. Using tools such as the Inbox Protector and being cautious about the sharing of your e-mail address while online will help reduce the amount of unsolicited e-mail you receive.
+WiseCleaner is concerned about controlling unsolicited commercial e-mail, or "spam." WiseCleaner has a strict Anti-Spam policy prohibiting the use of customer account to send spam. WiseCleaner will not sell, lease or rent its e-mail subscriber lists to third parties. While WiseCleaner continues to actively review and implement new technology, such as expanded filtering features, there is no currently available technology that will totally prevent the sending and receiving of unsolicited e-mail. Using tools such as the Inbox protector and being cautious about the sharing of your e-mail address while online will help reduce the amount of unsolicited e-mail you receive.
 
-**Enforcement**
+## Enforcement 
 
-WiseCleaner regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or WiseCleaner's treatment of personal information by contacting us through this web site. When we receive formal written complaints at this address, it is WiseCleaner's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between WiseCleaner and an individual.
+WiseCleaner regularly reviews its compliance with this policy. please feel free to direct any questions or concerns regarding this policy or WiseCleaner's treatment of personal information by contacting us through this web site. When we receive formal written complaints at this address, it is WiseCleaner's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between WiseCleaner and an individual.
 
-**Changes to This Privacy Statement**
+## Changes to This privacy Statement 
 
 We will occasionally update this privacy statement to reflect changes in our services and customer feedback. When we post changes to this Statement, we will revise the "Last Updated" date at the top of this statement. If there are material changes to this statement or in how WiseCleaner will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how WiseCleaner is protecting your information.
 
-**Contacting Us**
+## Contacting Us 
 
 WiseCleaner welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us.
