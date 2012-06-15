@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the iblog365.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126104533id_/http%3A//iblog365.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iblog365.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615132753id_/http%3A//iblog365.com/privacy) for the most accurate reproduction.*
 
-# iBlog365.com: free wordpress blog hosting » Privacy
-
-## Privacy
+# Privacy | iBlog365.com: free wordpress blog hosting
 
 iBlog365.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website: iBlog365.com
 
