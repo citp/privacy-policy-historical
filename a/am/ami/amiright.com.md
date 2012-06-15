@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amiright.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000301id_/http%3A//www.amiright.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amiright.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615220336id_/http%3A//www.amiright.com/privacy.shtml) for the most accurate reproduction.*
 
 # Am I Right - Privacy Statement
 
