@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yoybuy.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608234605id_/http%3A//www.yoybuy.com/support/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoybuy.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615224731id_/http%3A//www.yoybuy.com/en/information/detail73.html) for the most accurate reproduction.*
 
-# yoybuy:china shopping online agent,taobao spree,purchase from china service
+# Privacy Statement - YoyBuy.com Taobao Agent
 
 **Privacy Statement**
 
