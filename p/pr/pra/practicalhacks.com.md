@@ -1,25 +1,29 @@
-> *The following text is extracted and transformed from the practicalhacks.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226204102id_/http%3A//www.practicalhacks.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalhacks.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615124801id_/http%3A//www.practicalhacks.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-Kevin on October 22nd, 2008
+At _**Practical Hacks**_ , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by _**Practical Hacks**_ and how it is used.
 
-**Practical Hacks** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+We require all parties who wish to publish comments on our blog to provide us with their valid email address. We do not release your submitted email address to the public or any third party nor use it for marketing purposes. However, any information you publish via our “reply” tool is made public, so please be careful about what personally identifiable information you publish on our blog.
 
-## Routine Information Collection
+**Log Files**
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+Like many other Web sites, Practical Hacks makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-## Cookies and Web Beacons
+**Cookies and Web Beacons**
 
-Where necessary, Practical Hacks uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+_**Practical Hacks**_ may use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+Some of our advertising partners may use cookies and web beacons on our site.
 
-## Controlling Your Privacy
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on _**Practical Hacks**_ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies, such as cookies, JavaScript, or Web Beacons may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+_**Practical Hacks**_ has no access to or control over these cookies that are used by third-party advertisers.
 
-## Contact Information
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. _**Practical Hacks**_ ’ blog privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-Concerns or questions about this privacy policy can be directed to Kevin via the "Contact" page for further clarification.
+We reserve the right to engage third party advertising as indicated herein at any time with no further notice to you.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+If you have any questions, please contact me via the form on the **Contact Me** page.
