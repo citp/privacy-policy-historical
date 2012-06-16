@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessspectator.com.au privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122135034id_/http%3A//www.businessspectator.com.au/bs.nsf/pages/Privacy_Policy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessspectator.com.au privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616094430id_/http%3A//www.businessspectator.com.au/bs.nsf/pages/Privacy_Policy%3FOpenDocument) for the most accurate reproduction.*
 
 # Privacy Policy | Australian Business News, Commentary and Analysis | Business Spectator
 
@@ -84,3 +84,13 @@
 > As our business continues to evolve we may introduce new services and features to our website. From time to time, our policies will be reviewed and may be revised. Business Spectator reserves the right to change its Privacy Policy at any time and notify you by posting an updated version of the policy on its website. 
 > 
 > The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.
+> 
+> Contact Details:  
+>  Business Spectator  
+>  22 William Street  
+>  Melbourne  
+>  Victoria 3000  
+>  Australia
+> 
+> Tel: +61 (0)3 8624 3000  
+>  Fax: +61 (0)3 8624 3088
