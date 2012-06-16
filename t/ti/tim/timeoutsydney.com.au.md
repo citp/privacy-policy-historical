@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutsydney.com.au privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214230018id_/http%3A//www.au.timeout.com/sydney/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutsydney.com.au privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616213841id_/http%3A//www.au.timeout.com/sydney/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Time Out Sydney
 
@@ -35,7 +35,7 @@ All reasonable steps are taken by us to ensure that your personal information he
 **6\. Third Parties and your information**  
 We will only collect, store, use or disseminate information that personally identifies you as set out in this Privacy Statement unless we are required to protect our rights or property (or those of any third party), or to avoid injury to any person, by law.
 
-Although the Site may link directly to websites operated by third parties (Linked Sites), you acknowledge that such Linked Sites are not operated by us. We encourage you to always read the applicable privacy statement of any Linked Site on entering a Linked Site. We are not responsible for the content or practices of the Linked Sites or their privacy policies regarding the collection, storage, use and dissemination of your personal information.
+Although the Site may link directly to websites operated by third parties (Linked Sites), you acknowledge that such Linked Sites are not operated by us. We encourage you to always read the applicable privacy statement of any Linked Site on entering a Linked Site. We are not responsible for the content or practices of the Linked Sites or their privacy policies regarding the collection, storage, use and dissemination of your personal information[.](http://www.au.timeout.com/sydney/aroundtown/features/6728/julians-sydney)
 
 **7\. Your consent**  
 By your use of the Site you consent to the collection, storage, use and dissemination of your personal information in accordance with this Privacy Statement and as otherwise permitted under the Privacy Act.
