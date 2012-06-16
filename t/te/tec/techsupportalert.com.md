@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213011600id_/http%3A//techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616160332id_/http%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # This Site's Privacy Policy
 
@@ -6,14 +6,17 @@
 
 We are currently looking for people with skills and/or interest in the following areas:
 
-\- PC Tune-up Utility  
-\- Duplicate File Detector
+\- Best Free CD Ripper  
+\- Anonymous Surfing Service  
+\- Mobile Apps contributors  
+\- Mac Section contributors  
+ 
 
 If this sounds like you then [click here for more details](http://www.techsupportalert.com/we-need-you.htm)
 
 This is the Privacy Policy that applies to this site. It explains how we handle personal information and comply with the requirements of the privacy laws. If you have further questions relating to this policy, please contact us.
 
-The term "[www.techsupportalert.com](http://www.techsupportalert.com%22/ "www.techsupportalert.com"")" or "us" or "we" refers to the owner of this website. The term "you" refers to the user or viewer of our website.
+The term "[www.techsupportalert.com](https://web.archive.org/ "www.techsupportalert.com"")" or "us" or "we" refers to the owner of this website. The term "you" refers to the user or viewer of our website.
 
 Collecting information about you  
   
