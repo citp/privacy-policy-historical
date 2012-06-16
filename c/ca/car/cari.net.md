@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the cari.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155140id_/http%3A//www.cari.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cari.net privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616223032id_/http%3A//www.cari.net/support-center/legal-and-policies/privacy.html) for the most accurate reproduction.*
 
-# CariNet Privacy Policy
+# CARI.net Privacy Policy - CARI.net
+
+### 
+
+CARI.net Privacy Policy
 
 **Introduction.**  
 We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Service.](http://www.cari.net/terms-of-service)
