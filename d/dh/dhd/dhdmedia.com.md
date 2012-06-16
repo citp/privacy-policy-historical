@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhdmedia.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123142644id_/http%3A//dhdmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhdmedia.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617015920id_/http%3A//www.dhdmedia.com/privacy.html) for the most accurate reproduction.*
 
 # DHD Media
 
@@ -8,9 +8,10 @@
 
 User IDs and Passwords: Provide you with access to your profile areas and to protected content. 
 
- Account Information: Tells us more about who you are, how to contact you, and your shipping and billing information. Also contains any preferences you have provided, such as language, streaming media format and email preferences. 
+Account Information: Tells us more about who you are, how to contact you, and your shipping and billing information. Also contains any preferences you have provided, such as language, streaming media format and email preferences. 
 
-Customer Feedback and Support: Provides a mechanism for requesting information from us. Also used to tell us when we must provide support.   
+Customer Feedback and Support: Provides a mechanism for requesting information from us. Also used to tell us when we must provide support. 
+
 E-mail Correspondence: Used to raise and respond to issues and inquiries of all types. Also used to distribute information about us, our products, and services. 
 
 Transactions: Show which products and services you have requested.   
