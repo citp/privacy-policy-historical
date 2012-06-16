@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questionity.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217212231id_/http%3A//about.questionity.com/privacy-policy%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questionity.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616063701id_/http%3A//about.questionity.com/privacy-policy%3Flang%3Den) for the most accurate reproduction.*
 
 # About - Questionity
 
@@ -14,11 +14,11 @@ Questionity will not store the email of your friend to whom you send the invitat
 
 The authenticity of the information provided is under your sole responsibility. Questionity is not responsible for any false or inaccurate statements made by you nor the damage they can cause to third parties.
 
-However, when a user name is pejorative, violates the dignity of others or generally fails to meet the [terms of use of Questionity](https://web.archive.org/web/20111217212231id_/http%3A//about.questionity.com/terms-of-use?lang=en), we reserve the right to suspend or cancel the account, agreed under such terms.
+However, when a user name is pejorative, violates the dignity of others or generally fails to meet the [terms of use of Questionity](https://web.archive.org/web/20120616063701id_/http%3A//about.questionity.com/terms-of-use?lang=en), we reserve the right to suspend or cancel the account, agreed under such terms.
 
 ## **Privacy Features**
 
-Users, both registered and unregistered, will be able to access all the pages in your Microsite except reported Q!grams.
+Registered users can access all pages of your Microsite, except reported Q!grams page and favorite Q!grams page. Users may only access the microblog page and the profile information page.
 
 The current version of Questionity has the following functions of privacy settings:
 
@@ -30,7 +30,7 @@ The current version of Questionity has the following functions of privacy settin
 
  **Images and Videos**
 
-The images and/or links that you upload to Questionity are stored in our servers. The use of this content is subject to the [terms of use of Questionity](https://web.archive.org/web/20111217212231id_/http%3A//about.questionity.com/terms-of-use?lang=en).
+The images and/or links that you upload to Questionity are stored in our servers. The use of this content is subject to the [terms of use of Questionity](https://web.archive.org/web/20120616063701id_/http%3A//about.questionity.com/terms-of-use?lang=en).
 
 If you do not want us to store metadata associated with images, remove that information before uploading the content that hosts them to Questionity.
 
@@ -40,7 +40,7 @@ We can extract statistics from the activity carried out by each user; it is even
 
 ##  **Consent of registered user for information treatment in Questionity**
 
-The fact of signing up in Questionity implies that you consent to and agree to the processing of your personal information, according to the use permitted in Questionity, as stated in this privacy policy and [terms of use](https://web.archive.org/web/20111217212231id_/http%3A//about.questionity.com/terms-of-use?lang=en).
+The fact of signing up in Questionity implies that you consent to and agree to the processing of your personal information, according to the use permitted in Questionity, as stated in this privacy policy and [terms of use](https://web.archive.org/web/20120616063701id_/http%3A//about.questionity.com/terms-of-use?lang=en).
 
 The user registration in Questionity implies that you may receive, via e-mail associated to the user account, updates of Questionity news, new services and commercial offers, as well as alerts related to the service.
 
@@ -63,7 +63,11 @@ You can also configure your account to receive notifications about the following
 
 ##  **Purpose of data collection**
 
-The aim of the treatment of your personal information is to manage Questionity according to the use defined in the [terms of use](https://web.archive.org/web/20111217212231id_/http%3A//about.questionity.com/terms-of-use?lang=en) and present privacy policy.
+The aim of the treatment of your personal information is to manage Questionity according to the use defined in the [terms of use](https://web.archive.org/web/20120616063701id_/http%3A//about.questionity.com/terms-of-use?lang=en) and present privacy policy.
+
+##  **Publication of user information**
+
+Questionity is not responsible for the consequences and effects that advertising of such data, including personal information that the user freely decides to present, may occasion to the user, his/her family, friends and / or relatives, or to other third persons. Participation in Questionity is completely voluntary and not mandatory. Disclosure of the information provided is not subject to any guarantee of confidentiality or the right to privacy, given that the user decides on a voluntary basis to make it public and to share it on social networks. Consequently, the user is solely responsible for all events, situations, incidents, problems, and so on, as a representative but not exhaustive list, that may occur following the publication of the data supplied by the user.
 
 ##  **Minors**
 
@@ -79,7 +83,7 @@ Questionity guarantees that it will not communicate to third parties personal in
 
 ##  **Cancellation of your account in Questionity**
 
-In the “Account cancellation” section of the [terms of use](https://web.archive.org/web/20111217212231id_/http%3A//about.questionity.com/terms-of-use?lang=en), you will find detailed information about the procedure for cancelling your account.
+In the “Account cancellation” section of the [terms of use](https://web.archive.org/web/20120616063701id_/http%3A//about.questionity.com/terms-of-use?lang=en), you will find detailed information about the procedure for cancelling your account.
 
 ##  **Technical security measures applicable to data**
 
@@ -111,12 +115,36 @@ Also, your browser stores in the cache the content of Questionity pages includin
 
 Questionity may contain links to third party websites, outside the scope of Questionity and of which we take no responsibility regarding the processing of personal information that can be made in these sites. We expressly recommend that you read the privacy policies of those sites.
 
+##  **Suppliers**
+
+Questionity, with the sole intention of providing its services has contracted with [MailChimp](http://mailchimp.com/legal/privacy/), which complies with the principles of Safe Harbor, framework for action between the U.S. Department of Commerce and the European Commission regarding the protection of personal data.
+
 ##  **Exercise of legal rights**
 
 The user is entitled to exercise his/her rights to access, rectification, cancellation and opposition. To perform this exercise you can contact Questionity through the following address: [lopd@questionity.com](mailto:lopd@questionity.com?subject=Privacy%20Policy%20\(Contact\)).
 
 ##  **Validity of the privacy policy and amendments thereto**
 
-This privacy policy is valid from the date November 16, 2011.
+This privacy policy is valid from the date June 1, 2012.
 
-Questionity reserves the right to make any modification thereof, providing prior notification in the following website: [h](http://www.questionity.com/user/profile/!questionity)[ttp://www.questionity.com/user/index/!questionity_en](http://www.questionity.com/user/index/!questionity_en) and the subsequent publication of the privacy policy.
+Questionity reserves the right to make any modification thereof, providing prior notification in the following website: <http://www.questionity.com/!questionity_en/microblog> and the subsequent publication of the privacy policy. 
+
+## Database Protection of Personal Data
+
+READ THIS LEGAL NOTICE CAREFULLY BEFORE YOU SUBMIT PERSONAL DATA REQUIRED for "RECEIVE AN INVITATION" AND "REGISTERED USERS"
+
+QUESTIONITY, SL, based in Madrid, zip code 28036, Calle Rafael Salgado , 7, 5, Izq.. bearing the CIF no. B-86196193, and legally registered in the Registry of Madrid (hereinafter QUESTIONITY), pursuant to the provisions of Law 15/1999 of December 13, Protection of Personal Data (LOPD) informs you that the information you provide on the forms "GET AND INVITATION" and "REGISTERED USERS" at www.questionity.com web site are included in a personal data file that has been duly registered in the General Register of Data Protection. The data collected here will be treated by QUESTIONITY, with the sole purpose of handling your registration as user of the website, based on the option selected by you.
+
+The registration of children under the age of 14 is not allowed. If any record discloses that the user is a minor, QUESTIONITY reserves the right to cancel it. QUESTIONITY is not responsible for the effects or consequences that records of minors may cause. At any time, parents / guardians of a child that has completed the forms without authorization, may revise, cancel or oppose the processing of personal data by means of a message to the following email address  [lopd@questionity.com](mailto:lopd@questionity.com?subject=Privacy%20Policy%20\(Contact\)), indicating the reference "LOPD”.
+
+By sending personal data via the respective form, the user consents that QUESTIONITY can dispose of his/her personal data for the purposes outlined above. The user must provide true and timely data. QUESTIONITY is not responsible for the consequences and damages that may result from false or erroneous information.
+
+Meanwhile, QUESTIONITY agrees that personal data provided by users will be treated in strict confidence and, in compliance with all security measures established by law in order to prevent unauthorized access and treatment.
+
+Similarly, QUESTIONITY, pursuant to Article 5 of the Data Protection Act (LOPD), informs that the fact of giving personal details by sending of forms is optional and that you can exercise your right of access, rectification, cancellation and / or opposition regarding the data provided at any time. In this case, the applicant will have to direct his/her complaint to QUESTIONITY by e-mail to [lopd@questionity.com](mailto:lopd@questionity.com?subject=Privacy%20Policy%20\(Contact\)), indicating in the message the reference "LOPD" and detailing the data to be changed or cancelled.
+
+In compliance with Articles 3 and 4 of Law 25/2007 of 18 October, Conservation of Data Relating to Electronic Communications and Public Communications Networks, QUESTIONITY generally will retain for twelve months and for a minimum of six months and maximum of two years, as according to law, those data necessary to identify the source of the stored data and the time when the service began. The obligation of data retention does not affect the secrecy of communications. The data will be retained for security purposes and shall not be used for purposes other than those specified in the Act.
+
+Whenever QUESTIONITY sends marketing information via electronic mail to users, the word "advertising" will appear at the start of the message sent by QUESTIONITY.
+
+Questionity is not responsible for the consequences and effects that advertising of such data, including personal information that the user freely decides to present may occasion to the user, his/her family, friends and / or relatives, or to other third persons. Participation in Questionity is completely voluntary and not mandatory. Disclosure of the information provided is not subject to any guarantee of confidentiality or right to privacy, given tht the user decides on a voluntary basis,that which is public and can be shared on social networks. Consequently, the user is solely responsible for all events, situations, incidents, problems, and so on ,as a representative but not exhaustive list, that may occur following the publication of the data supplied by the user.
