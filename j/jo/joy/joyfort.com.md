@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joyfort.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204235115id_/http%3A//www.joyfort.com/article-176-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyfort.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616025613id_/http%3A//www.joyfort.com/article-176-1.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Legal Documents | Joyfort
+# PRIVACY POLICY-Free to Play,Strategy Game,Free Online Role Playing Game
 
 **Last updated:** Jan. 20, 2011
 
@@ -178,3 +178,6 @@ In addition to this Policy, your rights and obligations concerning our web Site,
 ## Policy Changes
 
 JOYFORT reserves the right to change this Policy at any time by notifying registered users via e-mail of the existence of a new Policy and/or posting the new Policy on the JOYFORT Site. All changes to the Policy will be effective when posted, and your continued use of any JOYFORT site or service after the posting will constitute your acceptance of, and agreement to be bound by, those changes. 
+
+  
+
