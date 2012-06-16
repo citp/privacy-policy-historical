@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlywire.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205144016id_/http%3A//onlywire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlywire.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616060258id_/http%3A//onlywire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OnlyWire
 
