@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the statmyweb.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210025655id_/http%3A//zopeo.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statmyweb.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616110506id_/http%3A//www.statmyweb.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Zopeo
+# Privacy Policy - Stat My Web
 
-**ZOPEO Privacy Policy**
+**Stat My Web Privacy Policy**
 
-This Privacy Policy explains our information practices for the ZOPEO website which is owned and controlled by Panda Interactive. We want you to understand how we may use your information, before you provide it. The purpose of this policy is to inform you of what type of information (if any) we gather and track, how we may use that information, and with whom we may share that information.
+This Privacy Policy explains our information practices for the Stat My Web website which is owned and controlled by EIM Inc. We want you to understand how we may use your information, before you provide it. The purpose of this policy is to inform you of what type of information (if any) we gather and track, how we may use that information, and with whom we may share that information.
 
 **Personal Information :**
 
-You can visit ZOPEO on the Internet without telling us who you are and without giving any personal information about yourself. However, you may choose to give us personal information in a variety of situations. For example, you may want to give us information such as your name and address or e-mail ID so we may correspond with you, or provide you with subscription or service opportunities. If you tell us that you do not want us to use information you provide to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, we will assume that you have their prior permission to do so.
+You can visit Stat My Web on the Internet without telling us who you are and without giving any personal information about yourself. However, you may choose to give us personal information in a variety of situations. For example, you may want to give us information such as your name and address or e-mail ID so we may correspond with you, or provide you with subscription or service opportunities. If you tell us that you do not want us to use information you provide to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, we will assume that you have their prior permission to do so.
 
 **Using and Sharing Personal Information :**
 
-The following paragraphs describe in more detail how we may use the information you provide to us on the ZOPEO site and with whom we may share it. Depending on the part of the ZOPEO site you are visiting, one or more of the following paragraphs may apply - 
+The following paragraphs describe in more detail how we may use the information you provide to us on the Stat My Web site and with whom we may share it. Depending on the part of the Stat My Web site you are visiting, one or more of the following paragraphs may apply - 
 
 **Fulfilling Your Request :**
 
-If you request something from or through the ZOPEO Web site (for example, more information on a product or service or a callback) we will use the information you provide to fulfill your request. To help us do this, we may share information with others. For instance, our affiliates, business partners, financial institutions, or postal or government authorities may participate in fulfilling your request.
+If you request something from or through the Stat My Web Web site (for example, more information on a product or service or a callback) we will use the information you provide to fulfill your request. To help us do this, we may share information with others. For instance, our affiliates, business partners, financial institutions, or postal or government authorities may participate in fulfilling your request.
 
 **Marketing Use :**
 
-The information you provide on or through the ZOPEO site also may be used, with your permission, by Panda Interactive, its affiliates and/or selected third parties for marketing purposes. We will not use this information unless you give us your permission to do so.
+The information you provide on or through the Stat My Web site also may be used, with your permission, by Panda Interactive, its affiliates and/or selected third parties for marketing purposes. We will not use this information unless you give us your permission to do so.
 
 **Links to Other Websites :**
 
-In some cases, when you are seeking further information about a person you are searching, you may see links or advertisements about information and data available to you through other websites. For example, if you find an old classmate through the ZOPEO site, you may be able to gather more detailed information such as a phone number or address, subject to certain terms and conditions. You should carefully review the privacy and personal information policies of any advertised or linked websites before providing any personal information or purchasing any product or service from them. We are not responsible for the privacy practices or the content of third party Web sites.
+In some cases, when you are seeking further information about a person you are searching, you may see links or advertisements about information and data available to you through other websites. For example, if you find an old classmate through the Stat My Web site, you may be able to gather more detailed information such as a phone number or address, subject to certain terms and conditions. You should carefully review the privacy and personal information policies of any advertised or linked websites before providing any personal information or purchasing any product or service from them. We are not responsible for the privacy practices or the content of third party Web sites.
 
 **Information Security :**
 
 We protect your personal information and maintain its quality. We implement measures and processes to help us keep your information secure.
 
-**Cookies, and Other Web Technologies :**
+**Cookies, Web Beacons and Other Web Technologies :**
 
-We sometimes collect non-identifiable information from visits to the ZOPEO site to help us provide better customer service. For example, we keep track of the domains from which people visit and we measure visitor activity on ZOPEO, but we do so in ways that keep our visitor's identities anonymous. We may use this data to analyze trends and statistics and to help us provide better user service.
+We sometimes collect non-identifiable information from visits to the Stat My Web site to help us provide better customer service. For example, we keep track of the domains from which people visit and we measure visitor activity on Stat My Web, but we do so in ways that keep our visitor's identities anonymous. We may use this data to analyze trends and statistics and to help us provide better user service.
 
 We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some iSearch pages use cookies, sent by Intelius or its third party vendors, or other technologies to better serve you when you return to the Web site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You also can set your browser to turn off cookies. If you do so, however, some Web sites may not work properly.
 
@@ -46,7 +46,7 @@ Please be aware that in certain circumstances, it is possible that personal info
 
 **Enforcement :**
 
-ZOPEO regularly reviews its compliance with this policy. Please feel free to direct any questions or concerns regarding this. It is our policy to contact the inquiring user regarding his or her questions.
+Stat My Web regularly reviews its compliance with this policy. Please feel free to direct any questions or concerns regarding this. It is our policy to contact the inquiring user regarding his or her questions.
 
 **Changes to this Policy :**
 
