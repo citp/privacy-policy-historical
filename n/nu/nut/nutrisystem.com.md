@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrisystem.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208163039id_/http%3A//www.nutrisystem.com/jsps_hmr/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrisystem.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616025206id_/http%3A//www.nutrisystem.com/jsps_hmr/privacy/index.jsp) for the most accurate reproduction.*
 
 # Privacy Policy :: Nutrisystem
 
