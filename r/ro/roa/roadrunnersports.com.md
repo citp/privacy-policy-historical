@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the roadrunnersports.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217075816id_/http%3A//www.roadrunnersports.com/rrs/content/content.jsp%3FcontentId%3D2700024%26cm_sp%3Dfooter-_-anchor-_-privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrunnersports.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616064103id_/http%3A//www.roadrunnersports.com/rrs/content/content.jsp%3FcontentId%3D2700024%26cm_sp%3Dfooter-_-anchor-_-privacy_and_security) for the most accurate reproduction.*
 
 # Road Runner Sports Privacy & Security Policy
 
 | 
 
-We appreciate the trust you place in Road Runner Sports, and are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on July 1, 2011, describes the information we collect and how we use it.
+We appreciate the trust you place in Road Runner Sports, and are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on January 3, 2012, describes the information we collect and how we use it.
 
 We will modify this Policy if our privacy practices materially change in the future. We will notify you of such changes only by posting the new policy on our Site and indicating the date it was last updated. We encourage you to review the Policy each time you visit our Site to see if it has been updated since your last visit to make sure you understand how personal information you provide will be used.
 
