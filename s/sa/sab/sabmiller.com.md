@@ -1,36 +1,82 @@
-> *The following text is extracted and transformed from the sabmiller.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216203820id_/http%3A//www.sabmiller.com/index.asp%3Fpageid%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabmiller.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616063444id_/http%3A//www.sabmiller.com/index.asp%3Fpageid%3D13) for the most accurate reproduction.*
 
-# SABMiller - Services - Privacy
+# SABMiller - Services - Privacy & cookies
 
-  * ## 1\. General
-
-SABMiller plc respects your privacy. This policy outlines the type of information we may collect from our website and how we may use that information. We may update this policy from time to time, so please check it occasionally. By using this site and/or providing personal information, you agree to the terms of this policy.
-
-  * ## 2\. Collection and use of personal information
+## 2\. Collection and use of personal information
 
 Personal information includes information such as your name, address, telephone number, date of birth and e-mail address. Generally, you may visit our website without providing us with any personal information. However, from time to time we may need to collect your personal information for a specific purpose, for example providing you with information that you have requested. If there are other purposes for which we will use your personal information, we will tell you at the time of collection. By providing this information, you consent to the use and disclosure of your personal information for the purposes notified.
 
-Access to certain pages on our website is limited to individuals over 18 or the legal age for lawfully purchasing alcohol and consuming in the country, state, province or territory from which they view the website. In those cases, we do not intend to collect the personal information of any individual who is under 18 years or age or below the minimum legal age (if higher than 18). If we become aware that the personal information of any individual under this age is provided to us, we shall delete that information. 
+Access to certain pages on our website is limited to individuals over 18 or the legal age for lawfully purchasing alcohol and consuming in the country, state, province or territory from which they view the website. In those cases, we do not intend to collect the personal information of any individual who is under 18 years of age or below the minimum legal age (if higher than 18). If we become aware that the personal information of any individual under this age is provided to us, we shall delete that information. 
 
-  * ## 3\. Disclosure
+## 4\. Cookies and other non-identifying information
 
-We may disclose your personal information to our associated companies and to third parties for our own business, marketing and website-related purposes. We will not sell, transfer or disclose your personal information to third parties unless we have your express consent or if we need to do so to fulfil your request or for other related purposes and we will never sell, transfer or disclose your personal data to third parties for their marketing use. 
+A cookie is a piece of text which asks permission to be placed on your computer's hard drive. Once you agree (or your browser agrees automatically if you have set it up in that way), your browser adds that text in a small file. A cookie helps analyse web traffic or lets website operators know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We have included a full list of the cookies used on SABMiller.com below, along with a definition of what the cookie is used for. SABMiller plc will not use cookies to collect personally identifiable information about you.
 
-  * ## 4\. Cookies and other non-identifying information
+### How to control and delete cookies
 
-We may automatically collect some non-personal information when you visit our website. Examples include the type of Internet browser used, the type of computer operating system used, the connection speed used and the domain name of the website from which you linked to our site. We may also store some information on your computer, in the form of a ‘cookie’ or similar file. We may use this to collect other information during your visit to our websites, such as the particular site areas you visit and the activities in which you participate at our websites. Most Internet browsers allow you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. You can obtain information about how to manage cookies at: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/ "Opens in a new browser window."). We may use this information to tailor our websites to better match your interests and preferences and to improve our products, services and marketing programmes. 
+We know that people have concerns about cookies, but we believe that the benefit that you and SABMiller plc gain from their proper use is worthwhile.
 
-  * ## 5\. Security and accuracy
+You can delete the files that contain cookies – those files are stored as part of your internet browser. If you wish to restrict or block the cookies which are set by SABMiller.com, or indeed any other website, or if you wish to receive notification of cookie placement requests or decline cookies completely, you can do this through your browser settings. The Help function within your browser should tell you how. Please be aware that declining or denying cookies may prevent you from being able to use the website to its highest capability.
 
-The accuracy and security of your personal data is important to us and we have put in place physical and electronic procedures to maintain the security of your personal information. Only authorised administrative staff will have access to that information. If you have submitted personal information to us and would like that information deleted from our records, or updated, please contact us at [corporatewebsite@sabmiller.com](mailto:corporatewebsite@sabmiller.com). Please allow us time to update your records. 
+Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/ "Opens in a new browser window.") which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile device you will need to refer to your manual.
 
-  * ## 6\. Transfers
+This is a list of the main cookies set by the SABMiller plc website, and what each is used for:
 
-Any personal information we collect will be stored in the country in which it is collected and may also be transferred to the UK. Personal information collected within the European Union (‘EU’) will not be transferred outside the EU without your consent. 
+SABMiller.com uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate our use of our website and compile reports on user activity.
 
-  * ## 7\. Contact us
+Google stores the information collected by the cookie on servers in the United States. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. 
 
-Further questions? Contact our [E-Communications Manager](https://web.archive.org/web/20111216203820id_/http%3A//www.sabmiller.com/index.asp?pageid=176) for the sabmiller.com website.
+Cookie name | Cookie use | Cookie duration | Host  
+---|---|---|---  
+__utma | Metrics: Google | 2 years | .sabmiller.com  
+__utmb | Metrics: Google  | 30 mins  | .sabmiller.com    
+__utmc  | Metrics: Google  | session | .sabmiller.com   
+__utmz  | Metrics: Google  | 6 months  | .sabmiller.com   
+  
+We use Adobe Omniture to help study user behaviour on SABMiller.com in order to improve the site for our users. Adobe Omniture uses cookies to collect standard internet log information and visitor behaviour information. The information generated by the cookies about individuals' use of the website (including IP address) is transmitted to Adobe Omniture, however we do not use IP addresses to look at individuals' information or use of our site. 
 
+SABMiller plc will not (and will not allow any third party) to associate any data gathered from this site with any personally identifiable information from any source as part of our use of the Adobe Omniture statistical analytics tool. Adobe Omniture will not associate your IP address with any other data held by Adobe. 
 
+Cookie name | Cookie use | Cookie duration | Host  
+---|---|---|---  
+s_cc, s_sq | Metrics: Omniture | session | .sabmiller.com  
+s_vi | Metrics: Omniture | 5 years | .thegroup.112.2o7.net  
+  
+We use Gaia Insight to enable us to understand how visitors interact with sabmiller.com particularly the paths visitors take through the site. This data is used to help understand how visitors interact with the site and the way in which they navigate through it. Your IP address and other personally identifiable data is not associated with any other data held by Gaia Insight.
 
+Cookie name | Cookie use | Cookie duration | Host  
+---|---|---|---  
+aether | Metrics: Gaia Insight | 30 mins | .sabmiller.com  
+  
+We use Crazy Egg to see how visitors interact with areas of a page. No personally identifiable data is captured during this process.
+
+Cookie name | Cookie use | Cookie duration | Host  
+---|---|---|---  
+is_returning | Metrics: Crazy Egg | 5 years | .sabmiller.com  
+  
+Other cookies are used across the SABMiller plc site to allow certain tools to work, provide access to age restricted content and are anti-spam measures:
+
+Cookie name  |  Cookie use  |  Cookie duration  |  Host   
+---|---|---|---  
+Emailaddress, userid  |  Used for site personalisation features such as logging in to your page, bookmarks  |  session  |  .sabmiller.com   
+age, country, rememberMe  |  Age verification for the Brands section of the website  |  1 year  |  .sabmiller.com   
+sequence  |  Used as anti-spam measure on the 'share this page' email tool  |  7 days  |  .sabmiller.com   
+sabvid  |  Used for functionality on the video page  |  Session  |  .sabmiller.com   
+  
+### Third party cookies
+
+SABMiller.com uses a number of suppliers who also set cookies on our website on our behalf in order to deliver the services that they are providing. A list of all third party cookies that are used on SABMiller.com and what each is used for appears below.
+
+  
+Cookie name | Cookie use | Cookie duration | Host  
+---|---|---|---  
+bhCookieSess, bhResults, STST_BCNAME_11195, STST_STATS_SESSION_11195, STST_STATS_STATUS_11195, notes_790-1018-11195  | MillerCoors trading update audiocast 08 May 2012 | Session | streamstudio.world-television.com  
+STST_AUTH_11195 | MillerCoors trading update audiocast 08 May 2012 | 7 hours | streamstudio.world-television.com  
+STST_REG_CSO_1018, STST_REG_CO_790, STST_REG_11195 | MillerCoors trading update audiocast 08 May 2012 | Until 31 Dec 9999 | streamstudio.world-television.com  
+{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}, ivtsession | Cantos audiocasts 5 Nov 08 onwards | Session | cache.cantos.com  
+Ivt, ivtCT | Cantos audiocasts 5 Nov 08 onwards | 1 year | cache.cantos.com  
+s1, c1 | Marketing at SABMiller plc videocast 11 Oct 11, HY Results videocasts from Merchant Cantos | 5 years | uk.sitestat.com  
+session, lang, task, type, interviewee, band, format, cantos-origin-server | Cantos videocasts | Session | w3.cantos.com  
+pid | Twitter share links (e.g. Results Centre home page) | 2 years | .twitter.com  
+k | Twitter share links (e.g. Results Centre home page) | 7 days | .r.twimg.com  
+JSESSIONID | Media image library, Media broadcast footage | Session | 178.32.51.110
