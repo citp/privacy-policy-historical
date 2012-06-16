@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the hexat.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230170038id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexat.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616025237id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - XtGem.com — Visual mobile site building tool
+# Privacy Policy - Visual mobile site building tool
 
 XTGEM Service Provider aims to ensure the protection of XTGEM website visitors’ and service users’ privacy. This privacy policy is applied only to XTGEM website.
 
 By logging in to XTGEM website and using its services you have to agree with these conditions of privacy policy. If you do not agree with this privacy policy, we kindly ask you not to use XTGEM services and leave the XTGEM website.
 
-**Collection and Use of Information about the User**  
+## Collection and Use of Information about the User
+
 The user logged in to XTGEM website can be identified according to his user name or password. The user who is not logged in may be identified according to the IP address of his network.
 
 XTGEM service user understands and agrees that XTGEM Service Provider receives and collects data about the user each time the user logs in. XTGEM Service Provider automatically receives information of non personal nature identifying each user of XTGEM website: IP address, the operation system of the user‘s computer, type of browser, flow regularities, other similar data and the information on the account created by the user on XTGEM website. This data is used for management, administration of XTGEM website and for the improvement of the quality of the services provided by XTGEM.
@@ -29,7 +30,11 @@ XTGEM service user has a right to make the collected information (personal/imper
 3\. if, at the discretion of XTGEM, this information is necessary for implementation of XTGEM rules by ensuring security and consistency of services, to preclude possible incurrence of losses and to examine the claims and requests of third persons regarding the incurrence/possibility to incur loss or to protect the rights, property of XTGEM Service Provider, XTGEM service users or third persons and to ensure their safety;  
 4\. if this information is necessary for the solution of technical troubles.
 
-**Cookies**  
+## Cookies
+
+  
+
+
 Each time after visiting XTGEM website or when using XTGEM services, XTGEM Service Provider can send one or more cookies to the user‘s computer which identify the user and the type of the user‘s browser. Cookies are saved on the user‘s computer and not on XTGEM website.
 
 XTGEM Service Provider uses cookies for recording the information on the visit to ensure that the same banners are not repeatedly sent to the same service users and to apply other information sent individually to each user, depending on the type of browser used by the user or the user‘s account data.
@@ -40,7 +45,8 @@ When the user logs in, even more cookies can be assigned, e.g. the ones which sa
 
 If the user chooses to reject all or part of XTGEM cookies, certain services of XTGEM may not work properly (e.g. automatic log in to XTGEM website services after registration).
 
-**Passwords**  
+## Passwords
+
 Upon registration on XTGEM website, the service user must choose and create a password. The service user is completely responsible for the confidentiality of the password chosen. The password is the only guarantee that the user account is not artificially modified therefore all XTGEM service users are invited to choose secure passwords. The service users do not have a right to disclose the password chosen to third persons or use the passwords of other XTGEM service users. The service user obliges to immediately inform XTGEM Service Provider if he/she suspects that other XTGEM service users make use of the password chosen by the service user.
 
 Other links and adverts
@@ -51,7 +57,8 @@ XTGEM Service Provider shall not be liable for the content of advertisers’ and
 
 XTGEM Service Provider shall not be responsible for the content advertisers provide on XTGEM website and shall not grant any guarantees regarding goods/services advertised.
 
-**Other conditions**  
+## Other conditions
+
 XTGEM services are administered in Lithuania and Europe. If the user logs in to XTGEM website from the USA, Asia or other regions which regulate the provision of certain services, collection and disclosure of private personal data in any other way than that provided by the law of the European Union, the user understands and agrees that the user‘s personal information, mentioned above in this privacy policy, would be sent and used in the European Union.
 
 XTGEM Service Provider has a right to unilaterally change this privacy policy. The amendments to the privacy policy shall come into force from the moment of the announcement of them on XTGEM website. The users shall be informed about the most important amendments to privacy policy by e-mail, which has been indicated by the user, or by uploading a special notification about the amendment of privacy policy on XTGEM website.
