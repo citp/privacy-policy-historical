@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christyng.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223002453id_/http%3A//christyng.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christyng.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616140013id_/http%3A//christyng.com/privacy.php) for the most accurate reproduction.*
 
 # ChristyNg.com :: High Heels, Wedges, Pumps, Peep Toes, Mary Janes , Flats and Custom Made Shoes!
 
