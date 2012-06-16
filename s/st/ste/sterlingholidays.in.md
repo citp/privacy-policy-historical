@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sterlingholidays.in privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130065915id_/http%3A//www.sterlingholidays.in/privacy-policy/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sterlingholidays.in privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616061917id_/http%3A//www.sterlingholidays.com/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
-# Sterling Resorts | Privacy Policy
+# Sterling Holidays | Privacy policy of the website
 
 This Site is owned  and operated  by Sterling Holiday Resorts (India) Ltd
 
-This Privacy Policy applies to the activities of Sterling Holiday Resorts (India) Limited. and its affiliates (referred to as "SHRIL" in this policy). 
+This Privacy Policy applies to the activities of Sterling Holiday Resorts (India) Limited. and its affiliates (referred to as "SHRIL" in this policy).
 
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. The privacy statement discloses what information we gather and we use it
 
@@ -20,7 +20,7 @@ In accordance with the Privacy Act, SHRIL only collects personal information tha
   * SHRIL Resort Management: In its role of managing some resorts, SHRIL collects personal information related to bookings and as necessary for other purposes related to the management of the resort facility. Further personal information may be collected in specific instances such as in the event of an incident occurring on site for legal and insurance reasons.
   * SHRIL collects information on individuals when they book their travel arrangements, in order to process the transaction and to fulfil booking requests with travel and tourism operators.
   * SHRIL also collects general business information relating to employees, contractors, shareholders, resort managers and other individuals.
-  * Consistent with the Federal Children’s Online Privacy Protection Act of 1998(COPPA), we will never knowingly request personally identiable information from any one under the age of 13 with out requesting parental consent
+  * Consistent with the Federal Children’s Online Privacy Protection Act of 1998(COPPA), we will never knowingly request personally identiable information from anyone under the age of 13 without requesting parental consent
   * This policy explains the main features of SHRILs use of member and customer information and does not outline in detail the use of contractor and employee information. Under the Privacy Act, there is a general exemption from the coverage of employee records
 
 
@@ -46,7 +46,7 @@ Like many businesses, SHRIL uses a range of service providers to help us maximis
 
 ### SHRIL and marketing activities
 
-SHRIL manages communications with members, prospective members and customers according to its privacy policy. We respect individuals choices about being contacted for marketing purposes. We may occasionally contact you at the e-mail or other address that you provide to us in order to:
+SHRIL manages communications with members, prospective members and customers according to its privacy policy. We respect individual’s choices about being contacted for marketing purposes. We may occasionally contact you at the e-mail or other address that you provide to us in order to:
 
   * Remind you of your membership renewal or warn you of the upcoming expiry of membership benefits
   * Provide you with updated information about our services or special promotions
@@ -94,4 +94,4 @@ By using this site you consent to the collection and use of this information by 
 
 ### **Future changes**
 
-Our commitment to being the world's leading holiday exchange business and to continually improve our services means that our business will continue to evolve as we respond to customer needs. Because of this, from time to time, our policies will be reviewed and may be revised. Changes to SHRIL's Privacy Policy will be made by posting an updated version of the policy on our website and communicated subsequently in our publications for our members.....
+Our commitment to being the world's leading holiday exchange business and to continually improve our services means that our business will continue to evolve as we respond to customer needs. Because of this, from time to time, our policies will be reviewed and may be revised. Changes to SHRIL's Privacy Policy will be made by posting an updated version of the policy on our website and communicated subsequently in our publications for our members.
