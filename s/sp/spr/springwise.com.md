@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springwise.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124022544id_/http%3A//www.springwise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springwise.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616172538id_/http%3A//www.springwise.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Springwise
 
@@ -6,7 +6,7 @@ Springwise has created this privacy statement in order to demonstrate our firm c
 
 If for any reason you feel that your privacy or security has been compromised, contact us immediately at [info@springwise.com](mailto:info@springwise.com).
 
- **Information we gather and track**  
+**Information we gather and track**  
 Information on general usage and any optional personal details you provide to us will be used to provide you with enhanced features such as customized content, access to special sections on our websites and so on.
 
 We collect the following types of information:
