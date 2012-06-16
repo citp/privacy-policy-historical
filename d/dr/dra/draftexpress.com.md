@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the draftexpress.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125160114id_/http%3A//www.draftexpress.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftexpress.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616145903id_/http%3A//www.draftexpress.com/privacy.php) for the most accurate reproduction.*
 
 # DraftExpress - NBA Draft, NCAA/International Basketball Website.
 
@@ -15,6 +15,8 @@ We collect the domain name and e-mail address (where possible) of visitors to ou
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, not shared with other organizations for commercial purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web site and applicable laws or to protect against misuse or unauthorized use of our Web site. 
 
 With respect to cookies: We use cookies to ensure that visitors are not repeatedly sent the same banner ads. 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/)
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect standard information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:   
 <http://rydium.com/>   
