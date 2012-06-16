@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212024512id_/http%3A//www.cheapflights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616173638id_/http%3A//www.cheapflights.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,6 +53,8 @@ Cheapflights.com records details of individual accesses to its Web pages. This i
  **6\. Cookies**
 
 Cheapflights.com uses cookies to improve user experience, such as enhancing navigation and relevancy of product and information on the site. Your Web browser should allow you to choose whether or not to allow cookies - you can still use our site if you have them disabled. For more information on cookies, you can visit [www.cookiecentral.com](http://www.cookiecentral.com/).
+
+Cookies may be placed in your browser by a third party advertising network or company that helps deliver the ads you see online. These "third-party cookies" may be used to create a profile about your online activities and deliver ads tailored to your interests. If you prefer not to have online advertising tailored to a user interest profile, you may opt out at any time by visiting the Network Advertising Initiative at networkadvertising.org/managing/opt_out.asp. This uses a cookie that blocks the use of any kind of targeting methodology. Once the opt out cookie is placed in the user profile all 3rd Party tracking and targeting methodologies participating in the scheme are rendered inoperative.  We absolutely do not utilize cookies, pixels or any other method of tracking or targeting when the opt out cookie is present in a user profile. Please note that as with any cookie, if you delete your cookies, change browsers, or use a different computer, you will need to opt out again.
 
  **7\. Third Party Sites and Booking Tools**
 
