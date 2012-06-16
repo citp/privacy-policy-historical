@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the covidien.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213191632id_/http%3A//www.covidien.com/covidien/pages.aspx%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covidien.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616223523id_/http%3A//www.covidien.com/covidien/pages.aspx%3Fpage%3DPrivacy) for the most accurate reproduction.*
 
 # Covidien : Privacy Policy
 
-Covidien plc, and its affiliates (“Covidien”) - Privacy Policy, Last Updated: April 15, 2010. As a user of this Internet Website (“Site”), you ("you" or "user") are valued by Covidien. Covidien is committed to protecting the personally identifiable information ("Personal Information") provided by and collected from you on this Site in connection with the functions, facilities and services offered on this Site.
+Covidien plc, and its affiliates (“Covidien”) - Privacy Policy, Last Updated: April 30, 2012. As a user of this Internet Website (“Site”), you ("you" or "user") are valued by Covidien. Covidien is committed to protecting the personally identifiable information ("Personal Information") provided by and collected from you on this Site in connection with the functions, facilities and services offered on this Site.
 
 ## What Personal Information Does Covidien Collect From Site Users?
 
@@ -52,25 +52,53 @@ Covidien does not knowingly collect Personal Information from minor children. We
 
 If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and our Legal Statements, including limitations on damages and application of the law of the State of Delaware. If you have a concern about privacy at our Site, please [email us](mailto:corporate.communications@covidien.com) a detailed description of your concern and we will try to resolve it. Our business and Site change constantly. This Privacy Policy and the associated Legal Statements may change also. Our use of Personal Information that we receive and store is subject to the Privacy Policy and Legal Statements in effect at the time of our use of such Personal Information. If we decide to change our Privacy Policy or Legal Statements, we will post the revised Privacy Policy and/or Legal Statements on this Site. This Privacy Policy has been updated on the date indicated above.
 
-## Safe Harbor (Employment Data)
+## Aviso de Privacidad
 
-Covidien is committed to protecting the Personal Information provided by and collected from our employees. Covidien adheres to the Safe Harbor Agreement concerning the transfer of our employee’s Personal Information from the European Union to the United States of America. Accordingly, we follow the Safe Harbor Principles and FAQs [published](http://www.export.gov/safeharbor/) by the U.S. Department of Commerce with respect to all such data. 
+**“KENDALL DE MEXICO, S.A. de C.V.”; “MALLINCKRODT MEDICAL, S.A. DE C.V.”; “NELLCOR PURITAN BENNETT MEXICO, S.A. DE C.V.”; ESPECIALIDADES MEDICAS KENMEX, S.A. DE C.V.; y MMJ, S.A. DE C.V.”;** en adelante referidas de forma indistinta como: “COVIDIEN con domicilio en Avenida Insurgentes Sur 863, Pisos 15 y 16, Colonia Nápoles, México, Distrito Federal, C.P. 03810, son empresas legalmente constituidas conforme a las leyes mexicanas y tienen la obligación y compromiso legal de cumplir con el debido manejo de los datos personales y es responsable de su correcta utilización y protección respecto de aquéllos que recabe de sus titulares o terceros de conformidad con el siguiente aviso:
+
+1\. Los datos proporcionados o recabados por cualquier medio únicamente serán utilizados para contactarlo o bien para proveer servicios y productos solicitados, para el ejercicio del objeto social, en la celebración de contratos o en la prestación de servicios con la finalidad de cumplir con las obligaciones contraídas así como para fines científicos y estadísticos. (en este campo debería agregarse cualquier otra finalidad por la que pudiesen utilizarse, tal como informar sobre el cambio de productos o servicios, informar sobre actividades de la empresa u otras cuestiones, crear una base de datos de visitantes, análisis o estadísticas de ingreso a la página, así como cualquier otro uso que de los datos personales se realice).
+
+Los datos proporcionados o recabados no serán transferidos o divulgados salvo las excepciones y a través de los procedimientos previstos en la normatividad de la materia y serán tratados con la debida cautela garantizando su confidencialidad.
+
+2\. Asimismo, al navegar por esta página Web pudieran recabarse datos que no son percibidos y que informan diversos datos tales como pudieran ser el tipo de navegador, sistema operativo, páginas visitadas, vínculos o dirección IP entre otras, los cuales pueden ser deshabilitados o borrados, para lo cual se recomienda leer el manual de su navegador.
+
+3\. Para el cualquier información adicional, o en el caso desee ejercer sus derechos de acceso, rectificación, modificación, cancelación u oposición respecto de los datos proporcionados, (Covidien) pone a disposición la siguiente cuenta de correo electrónico: [datos.personales@covidien.com](mailto:datos.personales@covidien.com) en donde será atendido y recibirá la respuesta por parte del Departamento Legal encargado del tratamiento y protección de los datos personales en los términos señalados en el presente aviso.
+
+Como titular de datos personales, podrá ejercitar ante el Departamento encargado del tratamiento y protección de los datos personales los derechos antes señalados respecto al tratamiento de sus datos, pudiendo revocar en cualquier momento su consentimiento de manera gratuita.
+
+Para el ejercicio de tales derechos, será necesario que envíe su solicitud al correo electrónico indicado, siendo necesario se proporcionen los datos de contacto que nos permitan identificarlo (tales como nombre completo, teléfono, dirección de correo electrónico y domicilio) debiendo indicar la forma en que prefiere sea contactado, es decir, por medio de correo ordinario o mediante correo electrónico. Asimismo, será necesario que acredite su identidad adjuntado a su correo copia de su identificación oficial.
+
+Con la finalidad de proteger sus datos personales y emitir una respuesta objetiva y ajustada a derecho, además de los requisitos anteriores será necesario: i) Para el caso de acceso, la explicación clara de los datos personales que se requiere conocer; ii) para el caso de rectificación especificar los datos que se desean rectificar y acompañar en su caso el documento que justifique la rectificación; iii) para la cancelación, especificar los datos que se desean sean cancelados y la finalidad del tratamiento de sus datos; y, iv) en caso de oposición, especificar las razones por las cuales se opone al tratamiento. En todos los casos también será recomendable que se indique cualquier otro dato que ayude a localizar la información solicitada.
+
+Una vez recibida y confirmada su solicitud a través del acuse de recibo que se enviará a la dirección electrónica que nos hubiese proporcionado, en un plazo máximo de 20 días recibirá la respuesta a la misma. Si al proporcionarse o recabarse la información personal se facilitó una cuenta de correo electrónico, la respuesta podrá será enviada a dicho correo si así lo solicita, en su defecto o en caso contrario, por su seguridad y con la finalidad de proteger sus datos personales, será necesario que se presente en el domicilio indicado con el original de su identificación oficial.
+
+De estimarse procedente su petición, (Covidien) tiene el firme compromiso de hacer efectiva la misma dentro de los 15 (quince) días hábiles siguientes a la fecha en que reciba la respuesta a su solicitud.
+
+En caso de no contar con correo electrónico, su solicitud podrá ser enviada por correo ordinario o certificado al domicilio de Covidien, observando los mismos requisitos y procedimiento antes descrito.
+
+(Covidien) se reserva el derecho de ampliar los plazos antes señalados por una sola ocasión y por un periodo igual exclusivamente cuando las circunstancias particulares del caso así lo ameriten, situación de la que también será informada.
+
+4\. (Covidien) se reserva el derecho de modificar o actualizar el aviso anterior en caso de que ello resulte necesario de conformidad con la normatividad vigente o como consecuencia de una mejora en nuestras políticas. Cualquier modificación o actualización, en su caso, será efectuada a través de este mismo medio.
+
+## Safe Harbor
+
+Covidien is committed to protecting the Personal Information provided by and collected from individuals. Covidien complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Covidien has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Covidien’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## Notice
 
-Covidien will notify employees about the purposes for which they collect and use Personal Information about them. We will provide information about how employees can contact us with any inquiries or complaints, the types of third parties to which we disclose the information and the choices and means we offer for limiting its use and disclosure.
+Covidien will notify individuals about the purposes for which we collect and use Personal Information about them. We will provide information about how individuals can contact us with any inquiries or complaints, the types of third parties to which we disclose the information and the choices and means we offer for limiting its use and disclosure.
 
 ## Choice
 
-Covidien will give employees the opportunity to choose (opt out) whether their Personal Information will be disclosed to a third party or used for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by the employee. For sensitive information, affirmative or explicit (opt in) choice will be given if the information is to be disclosed to a third party or used for a purpose other than its original purpose or the purpose authorized subsequently by the employee.
+Covidien will give individuals the opportunity to choose (opt out) whether their Personal Information will be disclosed to a third party or used for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by the individual. For sensitive information, affirmative or explicit (opt in) choice will be given if the information is to be disclosed to a third party or used for a purpose other than its original purpose or the purpose authorized subsequently by the individual.
 
 ## Onward Transfer (Transfers to Third Parties)
 
-Covidien may disclose employee data to third parties for the purpose of providing employment related services (such as payroll processing, benefits administration, insurance, training and career development). Covidien will take reasonable steps to ensure that the third party will provide the same level of protection as required by the Safe Harbor Principles. If the third party does not comply, then Covidien will take reasonable steps to stop or prevent the processing of Personal Information.
+Covidien may disclose Personal Information to third parties who collect, store, analyze, or otherwise process information on our behalf. Covidien will take reasonable steps to ensure that the third party will provide the same level of protection as required by the Safe Harbor Principles. If the third party does not comply, then Covidien will take reasonable steps to stop or prevent the processing of Personal Information. 
 
 ## Access
 
-Covidien will allow individuals to have reasonable access to their Personal Information and, within reasonable limits, to have any inaccurate or incomplete Personal Information corrected, amended or deleted.
+Covidien will allow individuals to have reasonable access to their Personal Information and, within reasonable limits, to have any inaccurate or incomplete Personal Information corrected, amended or deleted. 
 
 ## Security
 
@@ -82,8 +110,8 @@ Personal Information must be relevant for the purposes for which it is to be use
 
 ## Enforcement
 
-Covidien will conduct periodic reviews to ensure established internal procedures have been implemented and are being followed.
+Covidien will conduct periodic reviews to ensure established internal procedures have been implemented and are being followed. 
 
-If an employee has a concern regarding the processing of their personal data they may [contact us](mailto:corporate.communications@covidien.com?subject=Privacy).
+If an individual has a concern regarding the processing of their personal data they may [contact us](mailto:corporate.communications@covidien.com?subject=Privacy).
 
 Covidien will investigate all concerns and try to resolve them in a timely manner. If you do not find the proposed solution satisfactory, Covidien will resolve the dispute under the enforcement principle of the Safe Harbor framework through [JAMS](http://www.jamsadr.com/), our selected third-party dispute resolution service.
