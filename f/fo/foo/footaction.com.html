@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the footaction.com privacy policy that was archived on 2011-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121111833id_/http%3A//www.footaction.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the footaction.com privacy policy that was archived on 2012-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616154213id_/http%3A//www.footaction.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script language="JavaScript">
 function openBMLWindow(url,height) {
@@ -25,7 +25,7 @@ function openInvestWin(url) {
 
 	
 	
-		<!-- web-41 -->
+		<!-- web-45 -->
     	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta name="msvalidate.01" content="EDC57CBB5433904007B934915238FE4A">
 
@@ -33,7 +33,7 @@ function openInvestWin(url) {
 				<meta name="description" content="">
 				<meta name="keywords" content="">
 		
-        <meta http-equiv="published" content="Monday, November 21, 2011 5:18:33">
+        <meta http-equiv="published" content="Saturday, June 16, 2012 10:42:12">
 		
 		
 
@@ -58,7 +58,7 @@ function openInvestWin(url) {
 	<script>
 	var wishlistpostCardURL = 'https://www.footaction.com/wishlist/wl_postcard.cfm';
 	var wishlistmailSender  = 'https://www.footaction.com/wishlist/wl_mailSender.cfm';
-	var dsnname = 'pro-fa-lb';
+	var dsnname = 'PRO-FA-LB';
 	
 		var microsite = '';
 	
@@ -117,11 +117,15 @@ function openInvestWin(url) {
 			if ((coremetricsEventId) && (CoremetricsCategoryId) && coreMetricsDo == 'true')
 				{ cmCreateConversionEventTag(coremetricsEventId, 2, CoremetricsCategoryId, 0);	}
 		
-		var logoutPath = "http://www.footaction.com/account/default/action--accountSignOut/";
+		var logoutPath = "http://www.footaction.com/account/default.cfm?action=accountSignOut";
 		
 			var thisurl = window.location.toString();
-			var regex = "/" + "bvdisplaycode--/[a-zA-Z0-9%._&=]*" + "/g";
-			if (thisurl.indexOf('bvdisplaycode--/') > 0 && thisurl.indexOf('submitReview') < 0) {
+			// remove any anchor reference in the url so that the page can reload with updated login status
+			if (thisurl.indexOf("#") > 0) {
+				thisurl = thisurl.split("#")[0];
+			}
+			var regex = "/" + "&bvdisplaycode=[a-zA-Z0-9%._&=]*" + "/g";
+			if (thisurl.indexOf('&bvdisplaycode=') > 0 && thisurl.indexOf('submitReview') < 0) {
 				thisurl = thisurl.replace(eval(regex), '');
 			}
 		
@@ -142,7 +146,7 @@ function openInvestWin(url) {
 	<ignoreurlreformat>
     <script type="text/javascript">
 		var advancedSearchShouldSubmit = false;
-		var advancedSearchPageURL = "http://www.footaction.com/catalog/advancedSearch.cfm?cm_prefix=GSTPAH&N=";
+		var advancedSearchPageURL = "http://www.footaction.com/searchresults/?cm_prefix=GSTPAH&N=";
         $(document).ready(function() {
 			$("form[name='keywordSearch']").submit(function() { return advancedSearchShouldSubmit; });
 			
@@ -236,7 +240,7 @@ function openInvestWin(url) {
 
                 </style>
             
-<script language="javascript1.1" src="/shared/coremetrics/eluminate.js" type="text/javascript"></script>
+<script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
 
 <script language="javascript1.1" src="http://www.footaction.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
 
@@ -262,25 +266,13 @@ function openInvestWin(url) {
 	
 	
 	
-<script language="javascript1.1" src="/shared/coremetrics/eluminate.js" type="text/javascript"></script>
+<script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
 
 <script language="javascript1.1" src="http://www.footaction.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
 <!-- START Header -->
-<link rel="stylesheet" type="text/css" href="/ns/css/fa-master-holiday-2011.css">
+<link rel="stylesheet" type="text/css" href="/ns/css/fa-master-combine-v3.css">
 
-<style>
-#helpheader {
-	position: relative;
-}
-.chat-custserv-header-button {
-	position: absolute;
-	top: 0;
-	left: 476px;
-	z-index: 100;
-}
-</style>
-
-<script type="text/javascript" language="javascript" src="/ns/chat/js/hours-toggle.js"></script> 
+<script type="text/javascript" language="javascript" src="/ns/chat/js/hours-toggle.js"></script>
 <script type="text/javascript" language="javascript" src="/ns/common/js/responseLiveChat.js"></script>
 <script type="text/javascript" language="javascript">
 $(document).ready(function() {
@@ -288,41 +280,106 @@ $(document).ready(function() {
 });
 </script>
 
+<link rel="stylesheet" type="text/css" href="/ns/shadowbox/shadowbox-black.css">
+<script type="text/javascript" language="javascript" src="/ns/common/js/shadowbox-jquery.js"></script>
+<script type="text/javascript">
+Shadowbox.init({
+    resizeDuration: 0
+});
+</script>
+
+<div id="offer_banner">
+	<a href="http://www.footaction.com/_-_/N-1fw?Ns=P_TopSalesAmount|1&amp;cm_SORT=Best+Sellers" title="Free Shipping Every Day"><img src="/ns/images/banner.jpg" alt="Free Shipping Every Day" width="987" height="25" border="0"></a>
+	<div id="offer_banner_details"><a rel="shadowbox[name];width=500;height=250" href="#banner_disclaimer" title="Details" target="_blank"><img src="/images/fa/global/pixel.gif" width="50" height="25" border="0"></a></div>
+    <div id="banner_disclaimer" style="display:none">
+    	<div class="global_disclaimer">
+            <p class="dis_title"><span class="dis_yellow_text">Free Shipping Every Day on Thousands of Items!*</span></p>
+            <p>We offer FREE SHIPPING on thousands of items every day! Look for the "Free Shipping" indicator on all eligible merchandise. Shipping will automatically be deducted at checkout.</p>
+            <p>Please note: This offer is valid only on eligible items, and does not apply to in-store orders. This offer is limited to standard delivery within the 48 contiguous US states and APO/FPO addresses. Excludes bulk orders and drop ships. Entire order must ship to a single address. Customer is responsible for shipping costs on returned merchandise. May not be used toward purchase of Gift Cards or team orders. Promotion may be modified or terminated at any time. Certain restrictions and exclusions may apply.</p>
+    	</div>
+    </div>
+</div><!-- close offer_banner -->
 
 <div id="wrapper">
     
 <noscript>
     <div class="noscript_error">
         <p>We're Sorry! You must have JavaScript enabled in your browser to experience all of the features of our site and to be able to place an order.</p>
-        <p>To continue, please enable JavaScript by changing the preferences in your browser, then fresh the page.  <a href="http://www.footaction.com/promo/default/promoId--5002690/" title="JavaScript Help Page">Click Here</a> for detailed instrcutions.<br />You may also call <strong>1.800.863.8932</strong> to place your order!</p>
+        <p>To continue, please enable JavaScript by changing the preferences in your browser, then fresh the page.  <a href="http://www.footaction.com/promotion/promoId:5002690/java-script-help/" title="JavaScript Help Page">Click Here</a> for detailed instrcutions.<br />You may also call <strong>1.800.863.8932</strong> to place your order!</p>
     </div>
 </noscript>
 
+<!--[if lt IE 7]>
+<style type="text/css">
+#ie-six {
+	width:100%;
+	height:auto;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000000;
+	background-color:#000;
+	font-size:12px;
+	text-align:center;
+	overflow:visible;
+}
+</style>
+<div id="ie-six">
+	<img src="/ns/common/ie6-banner/IE6upgrade-banner.jpg" alt="Internet Explorer Upgrade Options" width="966" height="100" border="0" usemap="#banner" />
+    <map id="banner" name="banner">
+      <area shape="rect" coords="469,7,573,92" target="_blank" href="http://www.google.com/chrome/?cm_sp=Header-_-IE6Upgrade-_-Chrome" alt="Download Google Chrome" title="Download Google Chrome" />
+      <area shape="rect" coords="600,4,693,93" target="_blank" href="http://www.mozilla.com/en-US/firefox/fx/?cm_sp=Header-_-IE6Upgrade-_-Firefox" alt="Download Firefox" title="Download Firefox" />
+      <area shape="rect" coords="730,4,810,94" target="_blank" href="http://www.apple.com/safari/?cm_sp=Header-_-IE6Upgrade-_-Safari" alt="Download Safari" title="Download Safari" />
+      <area shape="rect" coords="850,6,941,93" target="_blank" href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home/?cm_sp=Header-_-IE6Upgrade-_-IE" alt="Download a Newer Internet Explorer" title="Download a Newer Internet Explorer" />
+    </map>
+</div>
+<![endif]-->
+
+<script type="text/javascript" language="javascript" src="/ns/common/js/dd_mod.js"></script>
+<script type="text/javascript" language="javascript">
+	var timeout = 100;
+</script>
+<script type="text/javascript" language="javascript" src="/ns/common/js/delay.js"></script>
+<script type="text/javascript" language="javascript">
+setNDDDelay(0);
+</script>
+
+<!-- START Header -->
 <div id="fa_header_container">
-    <div class="fa_logo"><a href="http://www.footaction.com" title="FootAction Home"><img src="http://www.footaction.com/images/fa/global/pixel.gif" alt="FootAction Home" width="282" height="62" border="0"></a></div>
-	<div class="fa_service_links">
-    	<ul>
+    <div class="fa_logo"><a href="http://www.footaction.com" title="FootAction Home"><img src="http://www.footaction.com/images/fa/global/pixel.gif" alt="FootAction Home" width="282" height="62" border="0"></a></div>    
+    <div class="fa_service_links">
+        <ul>
         	<li>1.800.863.8932</li>
-            <li><a href="http://www.footaction.com/content/custserv/">Help</a></li>           
-            <li><a href="https://www.footaction.com/account/default/action--orderStatus/">Order Status</a></li>
-            <li><a href="https://www.footaction.com/wishlist/">Wish List</a></li> 
+            <li>
+            	<ul id="service_links_dd">
+                    <li><div class="dd_rollover"><a href="javascript:void(0);" title="Customer Service Links" onmouseover="mopen('m1')" onmouseout="mclosetime()">Customer Service</a></div>
+                    <div id="m1" class="service_dd" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+                        <div class="links_dd_list">
+                            <ul>
+                            	<li><a href="http://www.footaction.com/customerserv/">Help</a></li>
+                                <li><a href="https://www.footaction.com/account/default/action--orderStatus/">Order Status</a></li>
+                                <li><a href="https://www.footaction.com/wishlist/">Wish List</a></li> 
+                            </ul>
+                        </div>
+                    </div>
+                    </li>
+                </ul>
+            </li>
+            
             <li><a href="https://www.footaction.com/account/">My Account / Star Club Log In</a></li>
-            <li><a href="http://facebook.com/footaction" title="Footaction on Facebook" target="_blank"><img src="/ns/images/facebook-icon.jpg" alt="Become a Fan on Facebook" width="92" height="26" border="0"></a></li>
         </ul>
-    </div>
+    </div><!-- close fa_service_links -->
     
     <div class="fa_login_shop_cart">
-    	<span id="custgreet"><div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login" rel="nofollow">log in</a> 
-								or <a href="https://www.footaction.com/account/default/action--accountCreate/" rel="nofollow">register</a>.</span></div></span>
-        <span id="order_summary"><a href="http://www.footaction.com/catalog/shoppingCart/">
+    	<div id="shop_cart_link"><a href="http://www.footaction.com/catalog/shoppingCart/"><span class="checkout_btn">&nbsp;</span></a></div>
+        <div id="order_summary"><a href="http://www.footaction.com/catalog/shoppingCart/">
 
 <span class="order_summary_value" id="order_summary_content">
 
 	<span class="item_count_value">0</span> <span class="label">Items</span><span class="subtotal_value invisible">0</span>
 
 </span>
-</a></span>
-        <a id="shoppingcartLink" href="http://www.footaction.com/catalog/shoppingCart/">SHOPPING CART</a>
+</a></div>
+        <div id="custgreet"><div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login" rel="nofollow">log in</a> 
+								or <a href="https://www.footaction.com/account/default.cfm?action=accountCreate" rel="nofollow">register</a>.</span></div></div>
     </div>
     
 	<script type="text/javascript">
@@ -333,48 +390,371 @@ $(document).ready(function() {
 		}
     </script>
     
-    <form name="keywordSearch" action="http://www.footaction.com/catalog/advancedSearch/" method="get" onsubmit="advancedSearch(this)">
+    <form name="keywordSearch" action="/catalog/advancedSearch.cfm" method="get" onsubmit="advancedSearch(this)" id="form_move">
         <input type="hidden" name="search" value="k">
         <div class="fa_search_box">
-            <div class="search_text_container"><span id="search">SEARCH</span><input class="search_box_text" type="text" id="searchKeywordInput" name="keyword" maxlength="40" value="Enter Keyword/Product #" onfocus="this.style.color=&quot;black&quot;;this.value=&quot;&quot;;"></div>
+            <div class="search_text_container"><input class="search_box_text" type="text" id="searchKeywordInput" name="keyword" maxlength="40" value="Enter Keyword/Product #" onfocus="this.style.color=&quot;black&quot;;this.value=&quot;&quot;;"></div>
         	<div class="search_submit_container"><input class="search_submit" type="image" src="http://www.footaction.com/images/fa/global/pixel.gif" alt="" id="submit-button"></div>
         </div>
+        <script type="text/javascript" src="/ns/common/js/keyword-search.js"></script>
     </form>
 
-	<div class="fa_global_nav">
-    	<ul>
-            
-            <li><a href="http://www.footaction.com/catalog/category/name--jordan/?cm_sp=Header-_-Category-_-Jordan" title="Jordan Shoes, Clothing &amp; Accessories">JORDAN</a></li>
-            <li><a href="http://www.footaction.com/catalog/category/name--shoes/?cm_sp=Header-_-Category-_-Shoes" title="Basketball Shoes, Running Shoes, Casual Shoes...">SHOES</a></li>
-            <li><a href="http://www.footaction.com/catalog/category/name--clothing/?cm_sp=Header-_-Category-_-Clothing" title="Casual Clothing: T-Shirts, Hoodies, Jeans...">CLOTHING</a></li>
-            <li><a href="http://www.footaction.com/promo/default/promoId--5002630/?cm_sp=Header-_-Category-_-Streetwear" title="Streetwear">STREETWEAR</a></li>
-            <li><a href="http://www.footaction.com/promo/default/promoId--5002792/?cm_sp=Header-_-Category-_-Hookups" title="Hookups">HOOKUPS</a></li>
-            <li><a href="http://www.footaction.com/catalog/category/name--accessories/?cm_sp=Header-_-Category-_-Accessories" title="Accessories: Hats, Watches, Belts...">ACCESSORIES</a></li>
-            <li><a href="http://www.footaction.com/catalog/category/name--brands/?cm_sp=Header-_-Category-_-Brands" title="Shop by Brand...">BRANDS</a></li>
-            <li><a href="http://www.footaction.com/catalog/category/name--outlet/?cm_sp=Header-_-Category-_-Outlet" title="Sale Sporting Goods">OUTLET</a></li>
-            <li class="right_float"><a href="http://www.footaction.com/content/locator/?cm_sp=Header-_-Category-_-StoreLocator" title="Store Locator">Store Locator</a></li>
-            <li class="right_float"><a href="http://www.footaction.com/blog/?cm_sp=Header-_-Category-_-Blog" title="Star Club Blog">Blog</a></li>
-           
-        </ul>
+<!-- start social media -->
+	<div class="social_fb_btn"><a href="http://www.facebook.com/footaction" target="_blank" title="Footaction on Facebook">&nbsp;</a></div>
+	<div class="social_fb">
+    	<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.footaction.com%2F&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
     </div>
+    <div class="social_twitter"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/tweet_button.html" style="width:100px; height:20px;"></iframe></div>
+<!-- end social media -->
 
+
+<!-- ------ START GLOBAL NAV ------ -->
+<div id="sticker_menu_container">
+<!-- START New Arrivals -->
+<div class="sticker_wrapper">
     
+    <ul>
+        <li>
+            <div class="navBtn navButtonNewArrivals" onmouseover="this.className='navBtn navButtonNewArrivalsOver';" onmouseout="this.className='navBtn navButtonNewArrivals';"><a href="http://www.footaction.com/_-_/N-1z1413t?Ns=P_TopSalesAmount|1&amp;cm_SORT=Best+Sellers?cm_sp=Header-_-Category-_-NewArrivals" title="New Arrivals">New Arrivals</a></div>
+        </li>
+    </ul>
+    
+</div><!-- close sticker_wrapper -->
+<!-- END New Arrivals -->
+
+<!-- START Jordan Drop Item -->
+<div class="sticker_wrapper">
+    <div onmouseover="openTab(this, 'navButtonJordan');" onmouseout="closeTab(this);">
+        
+        <ul>
+            <li>
+                <div class="navBtn navButtonJordan"><a href="http://www.footaction.com/jordan/category/?cm_sp=Header-_-Category-_-Jordan" title="Air Jordan Shoes">Jordan</a></div>
+                <div class="sticker_menu menu_size_2">
+                    <div class="sticker_menu_inner">
+                    	<div class="dd_column">                           
+                            <p>Jordan Shoes</p>
+                            <ul>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+shoes?Ns=P_NewArrivalDateEpoch%7C1&amp;cm_SORT=New+Arrivals?cm_sp=TopNav-_-Jordan-_-Jordannewarrivalsshoes&amp;cm=TnDdjordannewarrivalsshoes" title="New Arrivals"><span style="color:red"><b>New Arrivals</b></span></a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+basketball+shoes?cm_sp=TopNav-_-Jordan-_-Jordanbasketballshoes&amp;cm=TnDdjordanbasketballshoes" title="Jordan Basketball Shoes">Basketball Shoes</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+casual+shoes?cm_sp=TopNav-_-Jordan-_-Jordancasualshoes&amp;cm=TnDdjordancasualshoes" title="Jordan Casual Shoes">Casual Shoes</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+sandals?cm_sp=TopNav-_-Jordan-_-Jordansandals&amp;cm=TnDdjordansandals" title="Jordan Sandals">Sandals</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+training+shoes?cm_sp=TopNav-_-Jordan-_-Jordantrainingshoes&amp;cm=TnDdjordantrainingshoes" title="Jordan Training Shoes">Training Shoes</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-sale+jordan+shoes?cm_sp=TopNav-_-Jordan-_-Jordansaleshoes&amp;cm=TnDdjordansaleshoes" title="Sale Jordan Shoes">Sale</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+shoes?Ns=P_TopSalesAmount%7C1&amp;cm_SORT=Best+Sellers?cm_sp=TopNav-_-Jordan-_-Jordanshopallshoes&amp;cm=TnDdjordanshopallshoes" title="Shop All">Shop All</a></li>
+							</ul>
+                            <div class="item_spacer">&nbsp;</div>
+                            <p>Top Sellers</p>
+                            <ul>
+                            	<li><a href="http://www.footaction.com/_-_/keyword-jordan+retro?cm_sp=TopNav-_-Jordan-_-Jordanretro&amp;cm=TnDdjordanretro" title="Jordan Retro">Jordan Retro</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+aj?cm_sp=TopNav-_-Jordan-_-Jordanaj&amp;cm=TnDdjordanaj" title="Jordan AJ">Jordan AJ</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+1+phat?cm_sp=TopNav-_-Jordan-_-Jordan1phat&amp;cm=TnDdjordan1phat" title="Jordan 1 Phat">Jordan 1 Phat</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+wade?cm_sp=TopNav-_-Jordan-_-Jordanwade&amp;cm=TnDdjordanwade" title="Jordan Wade">Jordan Wade</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+melo?cm_sp=TopNav-_-Jordan-_-Jordanmelo&amp;cm=TnDdjordanmelo" title="Jordan Melo">Jordan Melo</a></li>                               
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+big+ups?cm_sp=TopNav-_-Jordan-_-Jordanbigups&amp;cm=TnDdjordanbigups" title="Jordan Big Ups">Jordan Big Ups</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+flight?cm_sp=TopNav-_-Jordan-_-Jordanflight&amp;cm=TnDdjordanflight" title="Jordan Flight">Jordan Flight</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+cmft?cm_sp=TopNav-_-Jordan-_-Jordancmft&amp;cm=TnDdjordancmft" title="Jordan CMFT">Jordan CMFT</a></li>
+                            </ul>
+                        </div>
+                            
+                        <div class="dd_column no_margin">
+                            <p>Jordan Clothing</p>
+                            <ul>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+clothing?Ns=P_NewArrivalDateEpoch%7C1&amp;cm_SORT=New+Arrivals?cm_sp=TopNav-_-Jordan-_-Jordannewarrivalsclothing&amp;cm=TnDdjordannewarrivalsclothing" title="New Arrivals"><span style="color:red"><b>New Arrivals</b></span></a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+hats?cm_sp=TopNav-_-Jordan-_-Jordanhats&amp;cm=TnDdjordanhats" title="Jordan Hats">Hats</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+hoodies?cm_sp=TopNav-_-Jordan-_-Jordanhoodies&amp;cm=TnDdjordanhoodies" title="Jordan Hoodies">Hoodies</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+jackets?cm_sp=TopNav-_-Jordan-_-Jordanjackets&amp;cm=TnDdjordanjackets" title="Jordan Jackets">Jackets</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+pants?cm_sp=TopNav-_-Jordan-_-Jordanpants&amp;cm=TnDdjordanpants" title="Jordan Pants">Pants</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+shorts?cm_sp=TopNav-_-Jordan-_-Jordanshorts&amp;cm=TnDdjordanshorts" title="Jordan Shorts">Shorts</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+socks?cm_sp=TopNav-_-Jordan-_-Jordansocks&amp;cm=TnDdjordansocks" title="Jordan Socks">Socks</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+t+shirts?cm_sp=TopNav-_-Jordan-_-Jordantshirts&amp;cm=TnDdjordantshirts" title="Jordan T-Shirts">T-Shirts</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-sale+jordan+clothing?cm_sp=TopNav-_-Jordan-_-Jordansaleclothing&amp;cm=TnDdjordansaleclothing" title="Sale Jordan Clothing">Sale</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+clothing?cm_sp=TopNav-_-Jordan-_-Jordanshopallclothing&amp;cm=TnDdjordanshopallclothing" title="Shop All Jordan Clothing">Shop All</a></li>
+							</ul>
+                            <div class="item_spacer">&nbsp;</div>
+                            <p>Shop Jordan</p>
+                            <ul>
+                            	<li><a href="http://www.footaction.com/_-_/keyword-mens+jordan?cm_sp=TopNav-_-Jordan-_-Jordanmens&amp;cm=TnDdjordanmens" title="Men's Jordan">Men's Jordan</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-kids+jordan?cm_sp=TopNav-_-Jordan-_-Jordankids&amp;cm=TnDdjordankids" title="Kid's Jordan">Kids' Jordan</a></li>
+                            </ul>
+                        </div>
+                    </div><!-- close sticker_menu_inner -->
+                </div><!-- close sticker_menu -->
+            </li>
+        </ul>
+        
+    </div>
+</div>
+<!-- END Jordan Drop Item -->
+
+<!-- START Shoes Drop Item -->
+<div class="sticker_wrapper">
+    <div onmouseover="openTab(this, 'navButtonShoes');" onmouseout="closeTab(this);">
+        
+        <ul>
+            <li>
+                <div class="navBtn navButtonShoes"><a href="http://www.footaction.com/shoes/category/?cm_sp=Header-_-Category-_-Shoes" title="Shoes">Shoes</a></div>
+                <div class="sticker_menu menu_size_2">
+                    <div class="sticker_menu_inner">
+                        <div class="dd_column">
+                            <p>Shoe Type</p>
+                            <ul>
+                                <li><a href="http://www.footaction.com/_-_/keyword-shoes?Ns=P_NewArrivalDateEpoch%7C1&amp;cm_SORT=New+Arrivals?cm_sp=TopNav-_-Shoes-_-Shoesnewarrivals&amp;cm=TnDdnewarrivals" title="New Arrivals"><span style="color:red"><b>New Arrivals</b></span></a></li>
+                            	<li><a href="http://www.footaction.com/_-_/keyword-basketball+shoes?cm_sp=TopNav-_-Shoes-_-Shoesbasketballshoes&amp;cm=TnDdbasketballshoes" title="Basketball Shoes">Basketball Shoes</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-boots?cm_sp=TopNav-_-Shoes-_-Shoesboots&amp;cm=TnDdshoesboots" title="Boots">Boots</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-casual+shoes?cm_sp=TopNav-_-Shoes-_-Shoescasualshoes&amp;cm=TnDdjordansandals" title="Casual Shoes">Casual Shoes</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-running+shoes?cm_sp=TopNav-_-Shoes-_-Shoesrunningshoes&amp;cm=TnDdrunningshoes" title="Running Shoes">Running Shoes</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-sandals?cm_sp=TopNav-_-Shoes-_-Shoessandals&amp;cm=TnDdshoessandals" title="Sandals">Sandals</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-training+shoes?cm_sp=TopNav-_-Shoes-_-Shoestrainingshoes&amp;cm=TnDdtrainingshoes" title="Training Shoes">Training Shoes</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-sale+shoes?cm_sp=TopNav-_-Shoes-_-Shoessale&amp;cm=TnDdsale" title="Sale Shoes">Sale</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-shoes?Ns=P_TopSalesAmount%7C1&amp;cm_SORT=Best+Sellers?cm_sp=TopNav-_-Shoes-_-Shoesshopall&amp;cm=TnDdshopall" title="Shop All Shoes">Shop All</a></li>
+							</ul>
+                       		<div class="item_spacer">&nbsp;</div>
+                            <p>Top Sellers</p>
+                            <ul>
+                                <li><a href="http://www.footaction.com/jordan/category/?cm_sp=TopNav-_-Shoes-_-Shoesjordanshoes&amp;cm=TnDdjordanshoes" title="Jordan Shoes">Jordan Shoes</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-lebron+shoes?cm_sp=TopNav-_-Shoes-_-Shoesnikelebronshoes&amp;cm=TnDdnikelebronshoes" title="LeBron Shoes">LeBron Shoes</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-kobe+shoes?cm_sp=TopNav-_-Shoes-_-Shoesnikebokeshoes&amp;cm=TnDdnikekobeshoes" title="Kobe Shoes">Kobe Shoes</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-griffey+shoes?cm_sp=TopNav-_-Shoes-_-Shoesgriffeyshoes&amp;cm=TnDdgriffeyshoes" title="Griffey Shoes">Griffey Shoes</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-nike+air+force+1+shoes?cm_sp=TopNav-_-Shoes-_-Shoesnikeaf1&amp;cm=TnDdaf1" title="Nike Air Force 1">Nike Air Force 1</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-nike+air+max+95?cm_sp=TopNav-_-Shoes-_-Shoesnikeairmax95&amp;cm=TnDdnikeairmax95" title="Nike Air Max 95">Nike Air Max 95</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-nike+air+max+90?cm_sp=TopNav-_-Shoes-_-Shoesnikeairmax90&amp;cm=TnDdnikeairmax90" title="Nike Air Max 90">Nike Air Max 90</a></li>
+
+                                <li><a href="http://www.footaction.com/_-_/keyword-adidas+originals+samoa?cm_sp=TopNav-_-Shoes-_-Shoesadidasoriginalssamoa&amp;cm=TnDdadidasoriginalssamoa" title="adidas Originals Samoa">adidas Originals Samoa</a></li>
+                            </ul>
+                        </div>
+                            <div class="dd_column no_margin">
+                            <p>Shoe Brands</p>
+                            <ul>
+                                <li><a href="http://www.footaction.com/jordan/category/?cm_sp=TopNav-_-Shoes-_-Shoesjordan&amp;cm=TnDdjordan" title="Jordan Shoes">Jordan</a></li>
+                                <li><a href="http://www.footaction.com/promotion/promoId:5002627/nike-shoes/?cm_sp=TopNav-_-Shoes-_-Shoesnike&amp;cm=TnDdnike" title="Nike Shoes">Nike</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-adidas+originals+shoes?cm_sp=TopNav-_-Shoes-_-Shoesadidasoriginals&amp;cm=TnDdadidasoriginals" title="adidas Originals Shoes">adidas Originals</a></li>
+                                <li><a href="http://www.footaction.com/adidas/_-_/N-zc/keyword-shoes?cm_REF=adidas?cm_sp=TopNav-_-Shoes-_-Shoesadidas&amp;cm=TnDdadidas" title="adidas shoes">adidas</a></li>
+                                <li><a href="http://www.footaction.com/searchresults/brand:Converse/?cm_sp=TopNav-_-Shoes-_-Shoesconverse&amp;cm=TnDdconverse" title="Converse Shoes">Converse</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-timberland+shoes?cm_sp=TopNav-_-Shoes-_-Shoestimberland&amp;cm=TnDdtimberland" title="Timberland Boots &amp; Shoes">Timberland</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-puma+shoes?cm_sp=TopNav-_-Shoes-_-Shoespuma&amp;cm=TnDdpuma" title="PUMA Shoes">PUMA</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-reebok+shoes?cm_sp=TopNav-_-Shoes-_-Shoesreebok&amp;cm=TnDdreebok" title="Reebok Shoes">Reebok</a></li>
+                            </ul>
+                            <div class="item_spacer">&nbsp;</div>
+                            <p>Shop Shoes</p>
+                            <ul>
+                            	<li><a href="http://www.footaction.com/_-_/keyword-mens+shoes?cm_sp=TopNav-_-Shoes-_-Shoesmensshoes&amp;cm=TnDdmensshoes" title="Men's Shoes">Men's Shoes</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-womens+shoes?cm_sp=TopNav-_-Shoes-_-Shoeswomensshoes&amp;cm=TnDdwomensshoes" title="Women's Shoes">Women's Shoes</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-kids+shoes?cm_sp=TopNav-_-Shoes-_-Shoeskidsshoes&amp;cm=TnDdkidsshoes" title="Kids' Shoes">Kids' Shoes</a></li>
+							</ul>
+                        </div>
+
+                    </div><!-- close sticker_menu_inner -->
+                </div><!-- close sticker_menu -->
+            </li>
+        </ul>
+        
+    </div>
+</div>
+<!-- END Shoes Drop Item -->
+
+<!-- START Clothing Drop Item -->
+<div class="sticker_wrapper">
+    <div onmouseover="openTab(this, 'navButtonClothing');" onmouseout="closeTab(this);">
+
+        
+        <ul>
+            <li>
+                <div class="navBtn navButtonClothing"><a href="http://www.footaction.com/clothing/category/?cm_sp=Header-_-Category-_-Clothing" title="Clothing">Clothing</a></div>
+                <div class="sticker_menu menu_size_2">
+                    <div class="sticker_menu_inner">
+                    
+                        <div class="dd_column">
+                            <p>Clothing Style</p>
+                            <ul>
+                                <li><a href="http://www.footaction.com/_-_/keyword-clothing?Ns=P_NewArrivalDateEpoch%7C1&amp;cm_SORT=New+Arrivals?cm_sp=TopNav-_-Clothing-_-Clothingnewarrivals&amp;cm=TnDdnewarrivals" title="New Arrivals"><span style="color:red"><b>New Arrivals</b></span></a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-hoodies?cm_sp=TopNav-_-Clothing-_-Clothinghoodies&amp;cm=TnDdhoodies" title="Hoodies">Hoodies</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jackets?cm_sp=TopNav-_-Clothing-_-Clothingjackets&amp;cm=TnDdjackets" title="Jackets">Jackets</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jeans?cm_sp=TopNav-_-Clothing-_-Clothingjeans&amp;cm=TnDdjeans" title="Jeans">Jeans</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-pants?cm_sp=TopNav-_-Clothing-_-Clothingpants&amp;cm=TnDdpants" title="Pants">Pants</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-shorts?cm_sp=TopNav-_-Clothing-_-Clothingshorts&amp;cm=TnDdshorts" title="Shorts">Shorts</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-t+shirts?cm_sp=TopNav-_-Clothing-_-Clothingtshirts&amp;cm=TnDdtshirts" title="T-Shirts">T-Shirts</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-sale+clothing?cm_sp=TopNav-_-Clothing-_-Clothingsale&amp;cm=TnDdsale" title="Sale Clothing">Sale</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-clothing?Ns=P_TopSalesAmount%7C1&amp;cm_SORT=Best+Sellers?cm_sp=TopNav-_-Clothing-_-Clothingshopall&amp;cm=TnDdshopall" title="Shop All Clothing">Shop All</a></li>
+							</ul>
+                            <div class="item_spacer">&nbsp;</div>
+                            <p>Top Sellers</p>
+                            <ul>
+                            	<li><a href="http://www.footaction.com/_-_/keyword-jordan+jumbo+clothing?cm_sp=TopNav-_-Clothing-_-Clothingjordanjumbo&amp;cm=TnDdjordanjumbo" title="Jordan Jumbo Clothing">Jordan Jumbo</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+hoodies?cm_sp=TopNav-_-Clothing-_-Clothingjordanhoodies&amp;cm=TnDdjordanhoodies" title="Jordan Hoodies">Jordan Hoodies</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+retro+clothing?cm_sp=TopNav-_-Clothing-_-Clothingjordanretro&amp;cm=TnDdjordanretro" title="Jordan Retro Clothing">Jordan Retro</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-lebron+clothing?cm_sp=TopNav-_-Clothing-_-Clothinglebronclothing&amp;cm=TnDdlebronclothing" title="LeBron Clothing">LeBron Clothing</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-kobe+clothing?cm_sp=TopNav-_-Clothing-_-Clothingkobeclothing&amp;cm=TnDdkobeclothing" title="Kobe Clothing">Kobe Clothing</a></li>
+							</ul>
+                        </div>
+                        
+                        <div class="dd_column no_margin">
+                            <p>Clothing Brands</p>
+                            <ul>
+                            	<li><a href="http://www.footaction.com/_-_/keyword-jordan+clothing?cm_sp=TopNav-_-Clothing-_-Clothingjordan&amp;cm=TnDdjordan" title="Jordan Clothing">Jordan</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-nike+clothing?cm_sp=TopNav-_-Clothing-_-Clothingnike&amp;cm=TnDdnike" title="Nike Clothing">Nike</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-adidas+originals+clothing?cm_sp=TopNav-_-Clothing-_-Clothingadidasoriginals&amp;cm=TnDdadidasoriginals" title="adidas Originals Clothing">adidas Originals</a></li>
+                                <li><a href="http://www.footaction.com/adidas/_-_/N-zc/keyword-clothing?cm_REF=adidas?cm_sp=TopNav-_-Clothing-_-Clothingadidas&amp;cm=TnDdadidas" title="adidas Clothing">adidas</a></li>
+                                <li><a href="http://www.footaction.com/searchresults/brand:Levi's/?cm_sp=TopNav-_-Clothing-_-Clothinglevis&amp;cm=TnDdlevis" title="Levi's">Levi's</a></li>
+                                <li><a href="http://www.footaction.com/searchresults/brand:Southpole/?cm_sp=TopNav-_-Clothing-_-Clothingsouthpole&amp;cm=TnDdsouthpole" title="Southpole">Southpole</a></li>
+							</ul>
+                            <div class="item_spacer">&nbsp;</div>
+                            <p>Shop Clothing</p>
+                            <ul>
+                            	<li><a href="http://www.footaction.com/_-_/keyword-mens+clothing?cm_sp=TopNav-_-Clothing-_-Clothingmensclothing&amp;cm=TnDdmensclothing" title="Men's Clothing">Men's Clothing</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-womens+clothing?cm_sp=TopNav-_-Clothing-_-Clothingwomensclothing&amp;cm=TnDdwomensclothing" title="Women's Clothing">Women's Clothing</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-kids+clothing?cm_sp=TopNav-_-Clothing-_-Clothingkidsclothing&amp;cm=TnDdkidsclothing" title="Kids' Clothing">Kids' Clothing</a></li>
+							</ul>
+                        </div>
+
+                    </div><!-- close sticker_menu_inner -->
+                </div><!-- close sticker_menu -->
+            </li>
+        </ul>
+        
+    </div>
+</div>
+<!-- END Clothing Drop Item -->
+
+<!-- START Hookups -->
+<div class="sticker_wrapper">
+    
+    <ul>
+        <li>
+            <div class="navBtn navButtonHookups" onmouseover="this.className='navBtn navButtonHookupsOver';" onmouseout="this.className='navBtn navButtonHookups';"><a href="http://www.footaction.com/promotion/promoId:5002792/hookups/?cm_sp=Header-_-Category-_-Hookups" title="Hookups">Hookups</a></div>
+        </li>
+    </ul>
+    
+</div><!-- close sticker_wrapper -->
+<!-- END Hookups -->
+
+<!-- START Accessories Drop Item -->
+<div class="sticker_wrapper">
+    <div onmouseover="openTab(this, 'navButtonAccessories');" onmouseout="closeTab(this);">
+        
+        <ul>
+            <li>
+                <div class="navBtn navButtonAccessories"><a href="http://www.footaction.com/accessories/category/?cm_sp=Header-_-Category-_-Accessories" title="Accessories: Hats, Watches, Belts...">Accessories</a></div>
+                <div class="sticker_menu menu_size_2">
+                    <div class="sticker_menu_inner">
+                    
+                        <div class="dd_column">
+                            <p>Accessories</p>
+                            <ul>
+                                <li><a href="http://www.footaction.com/_-_/keyword-backpacks?cm_sp=TopNav-_-Accessories-_-Accessoriesbackpacks&amp;cm=TnDdbackpacks" title="Backpacks">Backpacks</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-bags?cm_sp=TopNav-_-Accessories-_-Accessoriesbags&amp;cm=TnDdbags" title="Bags">Bags</a></li>
+                                <li><a href="http://www.footaction.com/searchresults/brand:Monster/?cm_sp=TopNav-_-Accessories-_-Accessoriesbeatsbydre&amp;cm=TnDdbeatsbydre" title="Monster Beats">Beats By Dre</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-gym+sacks?cm_sp=TopNav-_-Accessories-_-Accessoriesgymsacks&amp;cm=TnDdgymsacks" title="Gym Sacks">Gym Sacks</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-hats?cm_sp=TopNav-_-Accessories-_-Accessorieshats&amp;cm=TnDdhats" title="Hats">Hats</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-socks?cm_sp=TopNav-_-Accessories-_-Accessoriessocks&amp;cm=TnDdsocks" title="Socks">Socks</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-watches?cm_sp=TopNav-_-Accessories-_-Accessorieswatches&amp;cm=TnDdwatches" title="Watches">Watches</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-sale+accessories?cm_sp=TopNav-_-Accessories-_-Accessoriesale&amp;cm=TnDdsale" title="Sale Accessories">Sale</a></li>
+							</ul>
+                        </div>
+                        
+                        <div class="dd_column no_margin">
+                            <p>Accessories Brands</p>
+                            <ul>
+                                <li><a href="http://www.footaction.com/_-_/keyword-jordan+accessories?cm_sp=TopNav-_-Accessories-_-Accessoriesjordan&amp;cm=TnDdjordan" title="Jordan Accessories">Jordan</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-nike+accessories?cm_sp=TopNav-_-Accessories-_-Accessoriesnike&amp;cm=TnDdnike" title="Nike Accessories">Nike</a></li>
+                                <li><a href="http://www.footaction.com/searchresults/brand:Oakley/?cm_sp=TopNav-_-Accessories-_-Accessoriesoakley&amp;cm=TnDdoakley" title="Oakley">Oakley</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-adidas+accessories?cm_sp=TopNav-_-Accessories-_-Accessoriesadidas&amp;cm=TnDdadidas" title="adidas Accessories">adidas</a></li>
+                                <li><a href="http://www.footaction.com/_-_/keyword-new+era+hats?cm_sp=TopNav-_-Accessories-_-Accessoriesnewera&amp;cm=TnDdnewera" title="New Era Hats">New Era</a></li>
+                                <li><a href="http://www.footaction.com/searchresults/brand:Monster/?cm_sp=TopNav-_-Accessories-_-Accessoriesmonster&amp;cm=TnDdmonster" title="Monster Beats">Monster</a></li>
+							</ul>
+                        </div>
+                        
+                    </div><!-- close sticker_menu_inner -->
+                    
+                </div><!-- close sticker_menu -->
+            </li>
+        </ul>
+        
+    </div>
+</div><!-- close sticker_wrapper -->
+<!-- END Accessories Drop Item -->
+
+<!-- START Brands Drop Item -->
+<div class="sticker_wrapper">
+	<div onmouseover="openTab(this, 'navButtonBrands');" onmouseout="closeTab(this);">
+        
+        <ul>
+            <li>
+                <div class="navBtn navButtonBrands"><a href="http://www.footaction.com/brands/category/?cm_sp=Header-_-Category-_-Brands" title="Brands">Brands</a></div>
+                <div class="sticker_menu menu_size_1">
+                    <div class="sticker_menu_inner">
+                    
+                        <div class="dd_column">
+                            <p>Top Brands</p>
+                            <ul>
+                                <li><a href="http://www.footaction.com/jordan/category/?cm_sp=TopNav-_-Brands-_-Brandsjordan&amp;cm=TnDdjordan" title="Jordan Shoes">Jordan</a></li>
+                                <li><a href="http://www.footaction.com/promotion/promoId:5002627/nike-shoes/?cm_sp=TopNav-_-Brands-_-Brandsnike&amp;cm=TnDdnike" title="Nike Shoes">Nike</a></li>
+                                <li><a href="http://www.footaction.com/searchresults/brand:adidas%20Originals/?cm_sp=TopNav-_-Brands-_-Brandsadidasoriginals&amp;cm=TnDdadidasoriginals" title="adidas Originals">adidas Originals</a></li>
+                                <li><a href="http://www.footaction.com/searchresults/brand:adidas/?cm_sp=TopNav-_-Brands-_-Brandsadidas&amp;cm=TnDdadidas" title="adidas">adidas</a></li>
+                                <li><a href="http://www.footaction.com/Reebok/?cm_sp=TopNav-_-Brands-_-Brandsreebok&amp;cm=TnDdreebok" title="Reebok">Reebok</a></li>
+                                <li><a href="http://www.footaction.com/searchresults/brand:Converse/?cm_sp=TopNav-_-Brands-_-Brandsconverse&amp;cm=TnDdconverse" title="Converse">Converse</a></li>
+                                <li><a href="http://www.footaction.com/searchresults/brand:Timberland/?cm_sp=TopNav-_-Brands-_-Brandstimberland&amp;cm=TnDdtimberland" title="Timberland">Timberland</a></li>
+                                <li><a href="http://www.footaction.com/searchresults/brand:PUMA/?cm_sp=TopNav-_-Brands-_-Brandspuma&amp;cm=TnDdpuma" title="PUMA">PUMA</a></li>
+                                <li><a href="http://www.footaction.com/searchresults/brand:New%20Era/?cm_sp=TopNav-_-Brands-_-Brandsnewera&amp;cm=TnDdnewera" title="New Era">New Era</a></li>
+                                <li><a href="http://www.footaction.com/searchresults/brand:Levi's/?cm_sp=TopNav-_-Brands-_-Brandslevis&amp;cm=TnDdlevis" title="Levi's">Levi's</a></li>
+                                <li><strong><a href="http://www.footaction.com/brands/category/?cm_sp=TopNav-_-Brands-_-Brandsallbrands&amp;cm=TnDdallbrands" title="All Brands">All Brands</a></strong></li>
+							</ul>
+                        </div>
+                                                
+                    </div><!-- close sticker_menu_inner -->
+                </div><!-- close sticker_menu -->
+            </li>
+        </ul>
+        
+    </div>
+</div><!-- close sticker_wrapper -->
+<!-- END Brands Drop Item -->
+
+<!-- START Outlet -->
+<div class="sticker_wrapper">
+    
+    <ul>
+        <li>
+            <div class="navBtn navButtonOutlet" onmouseover="this.className='navBtn navButtonOutletOver';" onmouseout="this.className='navBtn navButtonOutlet';"><a href="http://www.footaction.com/outlet/category/?cm_sp=Header-_-Category-_-Outlet" title="Sale Sporting Goods">Outlet</a></div>
+        </li>
+    </ul>
+    
+</div><!-- close sticker_wrapper -->
+<!-- END Outlet -->
+
+<!-- START Blog -->
+<!-- <div class="sticker_wrapper">
+    
+    <ul>
+        <li>
+            <div class="navBtn navButtonBlog" onMouseOver="this.className='navBtn navButtonBlogOver';" onMouseOut="this.className='navBtn navButtonBlog';"><a href="http://www.footaction.com/blog/?cm_sp=Header-_-Category-_-Blog" title="Star Club Blog">Blog</a></div>
+        </li>
+    </ul>
+    
+</div> --><!-- close sticker_wrapper -->
+<!-- END Blog -->
+
+<!-- START Store Locator -->
+<div class="sticker_wrapper">
+    <ul>
+        <li>
+            <div class="navBtn navButtonLocator" onmouseover="this.className='navBtn navButtonLocatorOver';" onmouseout="this.className='navBtn navButtonLocator';"><a href="http://www.footaction.com/content/locator/?cm_sp=Header-_-Category-_-StoreLocator" title="Store Locator">Store Locator</a></div>
+        </li>
+    </ul>
+</div><!-- close sticker_wrapper -->
+<!-- END Store Locator -->
+
+</div><!-- close sticker_menu_container -->
+<!-- ------ END GLOBAL NAV ------ -->   
+
 </div><!-- close fa_header_container -->
 
 <!-- END Header --> 
     <img valign="top" src="http://www.footaction.com/images/fa/global/pixel.gif" height="2" border="0"><br>
     
 	<script language="javascript">
-		<!--
-		viewBannerEvent("Free In-Line Shipping", 90);
-		//-->
+		var excludeBannerFromDiscount = false;
 	</script>
 
-		<!-- tpbann --><img src="http://www.footaction.com/images/fa/headers/fagb061611c.jpg" border="0" usemap="#Mapban">
-<map name="Mapban"><area shape="rect" coords="893,16,964,38" href="http://www.footaction.com/ns/disclaimers/fagb061611a/fagb061611c.html" target="_blank" alt="Free In-Line Shipping">
-<area shape="poly" coords="963,-1,966,14,889,14,889,40,0,38,1,-1" href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--in-line/?cm_sp=Header-_-Banner-_-FreeInLineShipping/" alt="Free In-Line Shipping">
-</map><!-- end tpbann -->
-	
     <table id="contentTable"><tbody><tr><td id="contentTableBody">
 
 	<script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js"></script>
@@ -383,6 +763,7 @@ $(document).ready(function() {
 <script language="Javascript">		
 	var inlineAddToCartEnabled = true;
 	var useMyBuyYMALS = true;
+	var MyBuysDisabledForHL = false;
 	var co_cd = '34';
 </script>
 
@@ -446,21 +827,21 @@ $(document).ready(function() {
 		<img src="http://www.footaction.com/images/fa/sidenav/art-helpindex.jpg" alt="Help Index">
 		<ul>
 			
-					<li><a href="http://www.footaction.com/content/custserv/help--account/">My Account</a></li>
+					<li><a href="http://www.footaction.com/customerserv/help:account/">My Account</a></li>
 				
-					<li><a href="http://www.footaction.com/content/custserv/help--orderInfo/">Order Information</a></li>
+					<li><a href="http://www.footaction.com/customerserv/help:orderInfo/">Order Information</a></li>
 				
-					<li><a href="http://www.footaction.com/content/custserv/help--shipInfo/">Shipping Information</a></li>
+					<li><a href="http://www.footaction.com/customerserv/help:shipInfo/">Shipping Information</a></li>
 				
-					<li><a href="http://www.footaction.com/content/custserv/help--returnsExchanges/">Returns and Exchanges</a></li>
+					<li><a href="http://www.footaction.com/customerserv/help:returnsExchanges/">Returns and Exchanges</a></li>
 				
-					<li><a href="http://www.footaction.com/content/custserv/help--giftInfo/">GiftCards</a></li>
+					<li><a href="http://www.footaction.com/customerserv/help:giftInfo/">GiftCards</a></li>
 				
-					<li><a href="http://www.footaction.com/content/custserv/help--otherServices/">Other Services</a></li>
+					<li><a href="http://www.footaction.com/customerserv/help:otherServices/">Other Services</a></li>
 				
-					<li><a href="http://www.footaction.com/content/custserv/help--search_tips/">Website Search Tips</a></li>
+					<li><a href="http://www.footaction.com/customerserv/help:search_tips/">Website Search Tips</a></li>
 				
-					<li><a href="http://www.footaction.com/content/custserv/help--sportSpecificSizing/">Sport-Specific Sizing Help, Tips &amp; Information</a></li>
+					<li><a href="http://www.footaction.com/customerserv/help:sportSpecificSizing/">Sport-Specific Sizing Help, Tips &amp; Information</a></li>
 				
 		</ul>
 	</div>
@@ -468,7 +849,7 @@ $(document).ready(function() {
 
 
 		<div id="helpheader">
-        		<a href="http://www.footaction.com/content/custserv/"><img src="http://www.footaction.com/images/fa/staticheaders/hdr_customerservice.gif" alt="Customer Service"></a>
+        		<a href="http://www.footaction.com/customerserv/"><img src="http://www.footaction.com/images/fa/staticheaders/hdr_customerservice.gif" alt="Customer Service"></a>
 		</div>
 
 		
@@ -589,19 +970,19 @@ $(document).ready(function() {
 
         	<h2 class="gc_title">Gift Cards</h2>
             <div class="foot_gc_icon">&nbsp;</div>
-            <div class="foot_gc"><a href="http://www.footaction.com/promo/default/promoId--5002121/" title="Gift Cards">Never Expires and No Fees. Even<br>If the card says otherwise</a></div>
+            <div class="foot_gc"><a href="http://www.footaction.com/promotion/promoId:5002121/gift-cards/" title="Gift Cards">Never Expires and No Fees. Even<br>If the card says otherwise</a></div>
         </div>
         
         <div class="fa_footer_top_slot">
         	<div class="fa_footer_top_title"><h2>Most Popular</h2></div>
             <ul>
                 
-                <li><a href="http://www.footaction.com/promo/default/promoId--5002343/?cm_sp=Footer-_-MostPopular-_-Jordan Shoes" title="JordanShoes">JORDAN SHOES</a></li>
-                <li><a href="http://www.footaction.com/catalog/advancedSearch/keyword--basketball+shoes/?cm_sp=Footer-_-MostPopular-_-BasketballShoes" title="Basketball Shoes">BASKETBALL SHOES</a></li>
-                <li><a href="http://www.footaction.com/catalog/advancedSearch/keyword--nike+air+max/?cm_sp=Footer-_-MostPopular-_-NikeAirMax" title="Nike Air Max">NIKE AIR MAX</a></li>
-                <li><a href="http://www.footaction.com/catalog/advancedSearch/keyword--nike+casual+shoes/?cm_sp=Footer-_-MostPopular-_-NikeCasualShoes" title="Nike Casual Shoes">NIKE CASUAL SHOES</a></li>
-                <li><a href="http://www.footaction.com/catalog/advancedSearch/keyword--nike+running+shoes/?cm_sp=Footer-_-MostPopular-_-NikeRunningShoes" title="Nike Running Shoes">NIKE RUNNING SHOES</a></li>
-                <li><a href="http://www.footaction.com/catalog/advancedSearch/keyword--adidas+originals+shoes/?cm_sp=Footer-_-MostPopular-_-AdidasOriginalsShoes" title="Adidas Originals Shoes">ADIDAS ORIGINALS SHOES</a></li>
+                <li><a href="http://www.footaction.com/jordan/category/?cm_sp=Footer-_-MostPopular-_-Jordan Shoes" title="Jordan Shoes">JORDAN SHOES</a></li>
+                <li><a href="http://www.footaction.com/_-_/keyword-basketball+shoes?cm_sp=Footer-_-MostPopular-_-BasketballShoes" title="Basketball Shoes">BASKETBALL SHOES</a></li>
+                <li><a href="http://www.footaction.com/_-_/keyword-nike+air+max?cm_sp=Footer-_-MostPopular-_-NikeAirMax" title="Nike Air Max">NIKE AIR MAX</a></li>
+                <li><a href="http://www.footaction.com/_-_/keyword-nike+casual+shoes?cm_sp=Footer-_-MostPopular-_-NikeCasualShoes" title="Nike Casual Shoes">NIKE CASUAL SHOES</a></li>
+                <li><a href="http://www.footaction.com/_-_/keyword-nike+running+shoes?cm_sp=Footer-_-MostPopular-_-NikeRunningShoes" title="Nike Running Shoes">NIKE RUNNING SHOES</a></li>
+                <li><a href="http://www.footaction.com/_-_/keyword-adidas+originals+shoes?cm_sp=Footer-_-MostPopular-_-AdidasOriginalsShoes" title="adidas Originals Shoes">ADIDAS ORIGINALS SHOES</a></li>
 
             </ul>
         </div>
@@ -610,12 +991,12 @@ $(document).ready(function() {
         	<div class="fa_footer_top_title"><h2>New Arrivals</h2></div>
             <ul>
                 
-                <li><a href="http://www.footaction.com/catalog/advancedSearch.cfm?N=0&amp;Nr=&amp;Ns=P_NewArrivalDateEpoch%7C1&amp;Ntt=adidas+originals&amp;Rpp=60&amp;cm_SORT=New%20Arrivals/?cm_sp=Footer-_-NewArrivals-_-adidasoriginals" title="adidas Originals">ADIDAS ORIGINALS</a></li>
-                <li><a href="http://www.footaction.com/catalog/advancedSearch/keyword--lebron/?cm_sp=Footer-_-NewArrivals-_-Lebron" title="Lebron">LEBRON</a></li>
-                <li><a href="http://www.footaction.com/catalog/advancedSearch/keyword--nike+air+force+1/?cm_sp=Footer-_-NewArrivals-_-NikeAirForce1" title="Nike Air Force 1's">NIKE AIR FORCE 1</a></li>
-                <li><a href="http://www.footaction.com/catalog/advancedSearch/keyword--jordan+retro+shoes/?cm_sp=Footer-_-NewArrivals-_-JordanRetroShoes" title="Jordan Retro Shoes">JORDAN RETRO SHOES</a></li>
-                <li><a href="http://www.footaction.com/catalog/advancedSearch/keyword--nike+running+shoes/?cm_sp=Footer-_-NewArrivals-_-NikeRunningShoes" title="Nike Running Shoes">NIKE RUNNING SHOES</a></li>
-                <li><a href="http://www.footaction.com/catalog/advancedSearch/keyword--nike+basketball+shoes/?cm_sp=Footer-_-NewArrivals-_-NikeBasketballShoes" title="Nike Basketball Shoes">NIKE BASKETBALL SHOES</a></li>
+                <li><a href="http://www.footaction.com/_-_/keyword-adidas+originals?cm_sp=Footer-_-NewArrivals-_-adidasoriginals" title="adidas Originals">ADIDAS ORIGINALS</a></li>
+                <li><a href="http://www.footaction.com/_-_/keyword-lebron?cm_sp=Footer-_-NewArrivals-_-Lebron" title="Lebron">LEBRON</a></li>
+                <li><a href="http://www.footaction.com/_-_/keyword-nike+air+force+1?cm_sp=Footer-_-NewArrivals-_-NikeAirForce1" title="Nike Air Force 1">NIKE AIR FORCE 1</a></li>
+                <li><a href="http://www.footaction.com/_-_/keyword-kobe?cm_sp=Footer-_-NewArrivals-_-Kobe" title="Kobe">KOBE</a></li>
+                <li><a href="http://www.footaction.com/_-_/keyword-nike+shox?cm_sp=Footer-_-NewArrivals-_-NikeShox" title="Nike Shox">NIKE SHOX</a></li>
+                <li><a href="http://www.footaction.com/_-_/keyword-nike+basketball+shoes?cm_sp=Footer-_-NewArrivals-_-NikeBasketballShoes" title="Nike Basketball Shoes">NIKE BASKETBALL SHOES</a></li>
 
             </ul>
         </div>
@@ -623,7 +1004,7 @@ $(document).ready(function() {
         <div class="fa_footer_top_slot foot-wide-slot">
         	<div class="fa_footer_top_title foot-wide-slot"><h2>Star Club</h2></div>
             <div class="foot_star_club">
-                <a href="http://www.footaction.com/promo/default/promoId--5002122/" title="Join the Star Club">
+                <a href="http://www.footaction.com/promotion/promoId:5002122/star-club/" title="Join the Star Club">
                     Exclusive offers and coupons.<br>Star Club access to special events.<br>
                     JOIN NOW AND GET $10 OFF A FUTURE PURCHASE<br>
                     Get Connected »
@@ -634,26 +1015,25 @@ $(document).ready(function() {
 
 	<div class="fa_footer_help_links">
     	<p>
-            <a href="http://www.footaction.com/content/custserv/help--orderInfo/" title="Ordering Information">Ordering Help</a>
-            <a href="http://www.footaction.com/content/custserv/help--privacyPolicy/" title="Privacy Statement">Privacy Policy</a>
-            <a href="http://www.footaction.com/content/custserv/help--terms/" title="Terms of Use">Terms of Use</a>
-            <a href="http://www.footaction.com/content/custserv/help--contactUs/" title="Contact Footaction.com">Contact Us</a>
+            <a href="http://www.footaction.com/customerserv/help:orderInfo/" title="Ordering Information">Ordering Help</a>
+            <a href="http://www.footaction.com/customerserv/help:privacyPolicy/" title="Privacy Statement">Privacy Policy</a>
+            <a href="http://www.footaction.com/customerserv/help:terms/" title="Terms of Use">Terms of Use</a>
+            <a href="http://www.footaction.com/customerserv/help:contactUs/" title="Contact Footaction.com">Contact Us</a>
             
             <a href="http://www.footlocker-inc.com/company.cfm?page=footaction" target="_blank" title="About Footaction">About Us</a>
             
-            <a href="http://www.footaction.com/content/custserv/help--shipInfo/" title="Shipping Info">Shipping Info</a>
-            <a href="http://www.footaction.com/content/custserv/help--sportSpecificSizing/" title="Sizing Help">Sizing Help</a>
-            <a class="foot-no-border" href="http://www.footaction.com/content/custserv/help--returnsExchanges/" title="Returns And Exchanges">Returns &amp; Exchanges</a>               
+            <a href="http://www.footaction.com/customerserv/help:shipInfo/" title="Shipping Info">Shipping Info</a>
+            <a href="http://www.footaction.com/customerserv/help:sportSpecificSizing/" title="Sizing Help">Sizing Help</a>
+            <a class="foot-no-border" href="http://www.footaction.com/customerserv/help:returnsExchanges/" title="Returns And Exchanges">Returns &amp; Exchanges</a>               
         </p>
         
         <p>
         	<a href="http://www.footaction.com/sitemap/" title="Sitemap">Sitemap</a>
             <a href="http://www.footactioncareers.com/" target="_blank" title="Work at Footaction">Career Opportunities</a>
             <a href="http://www.footaction.com/content/locator/" title="Find a Footaction Store">Store Locator</a>
-            <a class="foot-no-border" href="http://www.footaction.com/content/custserv/help--otherSettlements/" title="Settlements">Settlements</a>
         </p>
         
-        <p class="foot-more-margin">2004-2011 Footlocker.com, Inc. All Rights Reserved<br>We are constantly changing prices to offer the best value to our customers. Footaction.com features many products that aren't available in our stores.</p>
+        <p class="foot-more-margin">2004-2012 Footlocker.com, Inc. All Rights Reserved<br>We are constantly changing prices to offer the best value to our customers. Footaction.com features many products that aren't available in our stores.</p>
     </div><!-- close fa_footer_help_links -->
 	
     <div class="fa_footer_seals">
@@ -663,7 +1043,7 @@ $(document).ready(function() {
         	<script type="text/javascript">var seal_host = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Ca target='_blank' href='http://www.stellaservice.com/profile/2154'%3E%3Cimg src='" + seal_host + "seal.stellaservice.com/seals/stellaservice_elite.png?c=2154' height='45' width='71' border='0' title='Footaction.com is top rated for customer service' /%3E%3C/a%3E"));</script><a target="_blank" href="http://www.stellaservice.com/profile/2154"><img src="https://seal.stellaservice.com/seals/stellaservice_elite.png?c=2154" height="45" width="71" border="0" title="Footaction.com is top rated for customer service"></a>
         	
         </div>
-		<div class="footer_seals_slot"><a href="http://www.footaction.com/promo/default/promoId--5002634/" title="Veterans Discount Program"><img src="http://www.footaction.com/images/fa/headers/veteransadvantage.jpg" alt="Veterans Discount Program" width="57" height="45" border="0"></a></div>
+		<div class="footer_seals_slot"><a href="http://www.footaction.com/promotion/promoId:5002634/veterans-advantage/" title="Veterans Discount Program"><img src="http://www.footaction.com/images/fa/headers/veteransadvantage.jpg" alt="Veterans Discount Program" width="57" height="45" border="0"></a></div>
         <div class="footer_seals_slot">
             
             <!-- START SCANALERT CODE -->
@@ -694,6 +1074,4 @@ $(document).ready(function() {
             try { mybuys.initPage(); } catch(e) {}; 
         }); 
     </script>
-
-<img src="/dotomi_tracking/event?dataType=5&amp;company=34&amp;transactionId=5555-33211105183433051144907-0&amp;metaData=%0A%09%09%09%3COrderMetaData%3E%0A%09%09%09%09%3ChttpHeader%3E%0A%09%09%09%09%09ia%5Farchiver%20%28%2Bhttp%3A%2F%2Fwww%2Ealexa%2Ecom%2Fsite%2Fhelp%2Fwebmasters%3B%20crawler%40alexa%2Ecom%29%7C%7C204%2E236%2E226%2E210%7C%7Cwww%2Efootaction%2Ecom%2Fcontent%2Fcustserv%2Ecfm%3Fhelp%3DprivacyPolicy%7C%7C%20%0A%09%09%09%09%3C%2FhttpHeader%3E%0A%09%09%09%3C%2FOrderMetaData%3E%0A%09%09%09">
 </body></html>
