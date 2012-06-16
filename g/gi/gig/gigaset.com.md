@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the gigaset.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226032550id_/http%3A//gigaset.com/us/en/cms/PagePrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigaset.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616102423id_/http%3A//gigaset.com/us/en/cms/PagePrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-**Gigaset Communications GmbH: data privacy** ****
-
-Because we attach great importance to protecting the security and privacy of your personal data we conduct our business in compliance with applicable laws on data privacy protection and data security. The policy outlined in the following will help you to understand what information we may collect, how we use collected data, and who we may make such data available to. 
-
-**Personal data** We do not collect via our Website any personal data (e.g. names, addresses, telephone numbers or e-mail addresses) unless you voluntarily choose to provide such data to us (e.g. by registration, survey), or unless you give your consent to the collection of personal data, or unless such collection is otherwise permitted by applicable laws on the protection of your personal data. 
-
-**Purpose** Personal data which you make available to us is usually used to respond to your inquiries, to process your orders or to provide you with access to specific information or offers. In order to support our customer relations with you it may also be necessary:
+**Gigaset Communications GmbH: data privacy  
+** Because we attach great importance to protecting the security and privacy of your personal data we conduct our business in compliance with applicable laws on data privacy protection and data security. The policy outlined in the following will help you to understand what information we may collect, how we use collected data, and who we may make such data available to.   
+ **  
+Personal data    
+**We do not collect via our Website any personal data (e.g. names, addresses, telephone numbers or e-mail addresses) unless you voluntarily choose to provide such data to us (e.g. by registration, survey), or unless you give your consent to the collection of personal data, or unless such collection is otherwise permitted by applicable laws on the protection of your personal data.   
+ **  
+Purpose    
+**Personal data which you make available to us is usually used to respond to your inquiries, to process your orders or to provide you with access to specific information or offers. In order to support our customer relations with you it may also be necessary:
 
   * to store and process personal data and share it with our worldwide partner companies to better understand your business needs and how we can improve our products and services; or
   * it may be necessary that we (or a third party on our behalf) use personal data to contact you about product offers in support of your business needs or to conduct online surveys to understand better our customers' needs. 
@@ -17,36 +18,35 @@ Because we attach great importance to protecting the security and privacy of you
 
 If you choose not to have your personal data used to support our customer relations (especially direct marketing or market research), we will respect your choice. We shall not sell or otherwise market your personal data to third parties. 
 
-**Purpose limitation** Gigaset Communications GmbH will collect, process and use personal data supplied by you online only for the purposes disclosed to you, unless the collection, processing or use 
+**Purpose limitation  
+** Gigaset Communications GmbH will collect, process and use personal data supplied by you online only for the purposes disclosed to you, unless the collection, processing or use 
 
   * is a use of the personal data for any additional purpose that is directly related to the original purpose for which the personal data was collected,
   * is necessary to prepare, negotiate and perform a contract with you,
   * is required by law or the competent governmental or judicial authorities,
   * is necessary to establish or preserve a legal claim or defense,
-  * is necessary to prevent fraud or other illegal activities, such as willful attacks on information technology systems 
+  * is necessary to prevent fraud or other illegal activities, such as willful attacks on information technology systems
 
 
 
-**Communications or utilization data** If you access our Websites by means of telecommunications services, your communications data (e.g. Internet protocol address) or utilization data (e.g. information on the beginning, end and extent of each access, and information on the telecommunications services you accessed) are automatically generated by technical means. The information generated could conceivably relate to personal data. If the collection, processing and use of your communications or utilization data are absolutely essential, such collection, processing and use will occur and be performed in accordance with the applicable data privacy protection legal framework. 
+ ** **  
+Communications or utilization data  ****  
+If you access our Websites by means of telecommunications services, your communications data (e.g. Internet protocol address) or utilization data (e.g. information on the beginning, end and extent of each access, and information on the telecommunications services you accessed) are automatically generated by technical means. The information generated could conceivably relate to personal data. If the collection, processing and use of your communications or utilization data are absolutely essential, such collection, processing and use will occur and be performed in accordance with the applicable data privacy protection legal framework. 
 
-Non-personal data collected automatically 
-
+**Non-personal data collected automatically**  
 If you access our Websites, we may automatically (i.e. not by registration) collect non-personal data (e.g. type of Internet browser and operating system used, domain name of the Website from which you came, number of visits, average time spent on the site, pages viewed). We use this data to monitor the attractiveness of our Websites and improve their performance or content. 
 
-"Cookies" – Information stored automatically on your computer 
-
+**"Cookies" – Information stored automatically on your computer**  
 When you view one of our Websites, we may store some data on your computer in the form of a "cookie" to automatically recognize your PC next time you visit. Cookies can help us in many ways, for example by allowing us to tailor a Website to better match your interests or to store your password to save you having to re-enter it each time. If you do not wish to receive cookies, please configure your Internet browser to erase all cookies from your computer's hard drive, to block all cookies or to receive a warning before a cookie is stored. 
 
-Children 
-
+**Children**  
 Gigaset Communications GmbH will not knowingly collect personal data from children without insisting that they seek prior parental consent if required by applicable law. We will only use or disclose personal data about a child to the extent permitted by law, in order to seek parental consent pursuant to local law and regulations, or in order to protect a child. The definition of "child" or "children" should take into account applicable laws as well as national and regional cultural customs. 
 
-**Security** Gigaset Communications GmbH takes technical and organizational security measures to protect your personal data against accidental or unlawful destruction, loss or alteration, and against unauthorized disclose or access. 
+**Security  
+** Gigaset Communications GmbH takes technical and organizational security measures to protect your personal data against accidental or unlawful destruction, loss or alteration, and against unauthorized disclose or access. 
 
-**Links to other Websites  
-**   
+**Links to other Websites**  
 Gigaset Communications GmbH Websites contain links to other websites. Gigaset Communications GmbH is not responsible for the privacy practices or the content of other websites. 
 
-**Questions and comments  
-**   
+**Questions and comments**  
 Gigaset Communications GmbH will respond to reasonable requests to review your personal data and to correct, amend or delete the same. If you have any questions or comments about the Gigaset Communications Data Privacy Protection Policy (e.g. to review and update your personal data), please click on "Contact Us" in the upper right-hand corner of this window, and select "About us", "About us - questions about the company". As the Internet matures, so will our Data Privacy Protection Policy. We will post changes to our Data Privacy Protection Policy on this page. Please check this page regularly to keep up-to-date. 
