@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nga.gov privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162220id_/http%3A//www.nga.gov/xio/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nga.gov privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616031629id_/http%3A//www.nga.gov/xio/privacy.shtm) for the most accurate reproduction.*
 
 # National Gallery of Art - Privacy Policy
 
@@ -14,15 +14,16 @@ We automatically collect and store only the following non-personally identifiabl
 
   * the IP address from which you access our Web site (an IP address is the number that is automatically assigned to your computer whenever you are surfing the Web); 
   * the type of browser and operating system used to access our site;
+  * the name of the domain from which you access the Internet (for example, aol.com if you are connecting from an America Online account); 
   * the date and time you access our site; 
   * the pages you visit; and 
   * the Internet address of the Web site from which you accessed our site
 
 
 
-We place cookies on Web site visitor's computers to collect aggregate information for site traffic analysis, such as the number of visitors and the number of pages viewed. (Cookies are small files that are stored in a visitor's browser.)
+We place cookies on Website visitor's computers to collect aggregate information for site traffic analysis, such as the number of visitors and the number of pages viewed and the types of technology our visitors use. (Cookies are small files that are stored in a visitor's browser.) We use a third party vendor, Google Analytics, to place these cookies and process the analysis. We use the data derived from cookies to make content adjustments to the site, implement customer service improvements and generally make the site more interesting and useful to you. We may compile and report aggregate statistics about our users—numbers, traffic patterns, and related site information—but these statistics will not include personally identifiable information. We do not track or record information about specific individuals and their visits.
 
-We use the information that we collect only to help us make our site more useful to visitors—to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits. We may compile and report aggregate statistics about our users—numbers, traffic patterns, and related site information—but these statistics will include no personally identifying information.
+You may opt out of cookies with the preferences in your browser. You may opt out of Google Analytics using the Google Analytics [Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout). 
 
 **If you identify yourself by sending an e-mail containing personal information:**
 
@@ -45,6 +46,20 @@ While you may choose to register before shopping at our online shop, it is not n
 When you register or make a purchase through our online shop, the personally identifiable information and credit card information that you provide will be encrypted using SSL encryption. Your encrypted credit card information will be temporarily stored on a secure server to process your order.
 
 The Gallery will not share your personally identifiable information, shipping destination information or credit card information with any third parties except to process your order or as required by law. 
+
+**If you visit the Gallery's NGA Images site:**
+
+You may browse, search, and download images from the NGA Images site without registering or submitting personally identifiable information.
+
+If you choose to register for an account, you will be able to save and share images and lightboxes, as well as download publication-ready image files. When registering, the Gallery will request only the information required to fulfill your image request. 
+
+For image requests that do not incur service charges, we request only your name and e-mail address. For image requests that incur service charges, such as new photography orders, orders for guide prints, and images requiring customized processing, you will need to provide billing information, including a credit card number, billing and shipping address, and a telephone number. This information will be used only for the processing of your payment and order fulfillment. 
+
+Personally identifiable information and credit card information that you provide will be encrypted using SSL encryption. Your encrypted credit card information will be temporarily stored on a secure server to process your order.
+
+If you need to change any of the information in your account after you register, you can safely update it any time you log in. You can permanently remove information from your account if you contact the Gallery at [ngaimages@nga.gov](mailto:ngaimages@nga.gov).
+
+The Gallery will not share your personally identifiable information, shipping destination information, or credit card information with any third parties except to fulfill your image request or as required by law.
 
 Site Security
 
