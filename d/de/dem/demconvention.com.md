@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the demconvention.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217162502id_/http%3A//www.democrats.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demconvention.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616153454id_/http%3A//www.democrats.org/privacy_policy) for the most accurate reproduction.*
 
-# Democrats.org
+# Privacy Policy | Democrats.org
 
 ## The Democratic National Committee
 
-#### Last Revised: April 2, 2010
+_Last Revised: April 2, 2010_
 
 This website is operated by the Democratic National Committee (the "DNC", "we" or "us"). This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by the DNC with respect to your use of the Web sites such as this which are operated by the DNC and which display this Policy (the "Sites") so you can make an informed decision about using the Sites. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
 
@@ -89,6 +89,3 @@ You may "opt out" of receiving text messages, email updates and newsletters by f
 ### Questions?
 
 If you have any questions about this Policy, please contact us at [info@democrats.org](mailto:info@democrats.org).
-
-Paid for by the Democratic National Committee -- 430 South Capitol Street SE, Washington, DC, 20003.  
-This communication is not authorized by any candidate or candidate's committee. 
