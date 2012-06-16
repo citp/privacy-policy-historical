@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toms.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217160249id_/http%3A//www.toms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toms.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616100337id_/http%3A//www.toms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TOMS.com
 
@@ -27,7 +27,7 @@ We do not sell or rent information about our customers and all information provi
 
   |  | A. | We may share aggregate or summary information regarding our customers with partners, advertisers or other third parties. This data will never identify you personally.  
 ---|---  
-B. | We may share information with companies that provide support services to us (such as a printer, mailing house, fulfillment company or web host) or that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.  
+B. | We may share information with companies that provide support services to us (such as a printer, mailing house, fulfillment company or web host) or that help us market our products and services. This information may also be shared with marketers whose products or services we feel may be of interest to you. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.  
 C. | We will use your personal information to communicate with you about your orders and deliveries, and we may send you a confirmation email when you register/place an order with us. Also, if you submit your email address to register for the One for One™ movement or to open a TOMS Shoes account, we use it to deliver the information to you.  
 D. | We may be required to disclose such information in response to subpoenas, court orders, requests from law-enforcement officials, or if we are otherwise required to disclose such information by law.  
 E. | We may publicly disclose the name, city, and state of the winner of any online sweepstakes.  
