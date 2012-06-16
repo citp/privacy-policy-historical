@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the liquidationchannel.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515090258id_/http%3A//www.liquidationchannel.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidationchannel.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616024656id_/http%3A//www.liquidationchannel.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Liquidation Channel - Home of Exceptional Quality, Exquisite Designs and Outstanding Values.
+# TV Shopping Channel : Tanzanite Jewelry : LiquidationChannel.com
 
-|  |  | | Privacy Policy  
+## Customer Service
+
+1-877-899-0078   
+7days a week  
+8 am – 5 pm CST
+
+PERSONAL SHOPPER
+
+1-877-899-0490
+
+| Privacy Policy  
 ---  
 | Liquidation Channel. Privacy Policy  
 ---  
@@ -24,4 +34,7 @@ Our computers collect and store certain data from your visits to our Web site. T
 If you have any questions regarding any of the elements of our web privacy policy, please call the customer service line posted above.  
 This Web site is owned and operated by The Jewelry Channel, Inc. USA, doing business as “Liquidation Channel”.  
    
- 
+  
+   
+  
+© Copyright 2010 Liquidation Channel
