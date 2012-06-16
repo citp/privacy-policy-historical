@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the startribune.com privacy policy that was archived on 2011-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216212838id_/http%3A//www.startribune.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startribune.com privacy policy that was archived on 2012-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616043101id_/http%3A//www.startribune.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 				
@@ -18,9 +18,47 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- START CHART BEAT HEAD TAG CODE -->
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <!-- END CHART BEAT HEAD TAG CODE -->
+
+<script type="text/javascript">
+var hostEnv = '';
+var hostDomain = 'www.startribune.com';
+</script>
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
             <title>Privacy Policy | StarTribune.com</title>
@@ -77,22 +115,51 @@
             font-style: normal;
             font-weight: bold;
         }
+        
+        .stickyAd_100x90 {
+           position:fixed;width:100px;height:90px;bottom:0;left:50%;margin-left:-608px;_position:absolute;_top:expression(eval(document.documentElement.scrollTop+(document.documentElement.clientHeight-this.offsetHeight)));
+        }
+
     </style>
     <link rel="stylesheet" type="text/css" media="screen" href="http://www.startribune.com/includes/RedesignadStyles011108.css">
     <link rel="stylesheet" href="http://www.startribune.com/includes/style.css" type="text/css">
 
                         
     <script src="http://www.startribune.com/includes/jquery-1.4.4.min.js" type="text/javascript" language="javascript"></script>
-    <script src="http://www.startribune.com/includes/jquery.carouFredSel-3.1.0-packed.js" type="text/javascript" language="javascript"></script>
+    <script src="http://www.startribune.com/includes/jquery.carouFredSel-5.5.0-packed.js" type="text/javascript" language="javascript"></script>
     <script type="text/javascript" src="http://www.startribune.com/includes/writecapture_and_jquery_plugin_yui_compressed.js?v=1.0.5&amp;c=y"></script>
-            <script src="http://www.startribune.com/includes/globalJquery.js?20111010" type="text/javascript" language="javascript"></script>
+            <script src="http://www.startribune.com/includes/globalJquery.js?20120224" type="text/javascript" language="javascript"></script>
         <script type="text/javascript" src="http://www.startribune.com/includes/jquery.colorbox-min.js?v1.3.15&amp;c=y"></script>
+    <script type="text/javascript" src="http://www.startribune.com/includes/jquery.jcarousel.min.js"></script>
     <script type="text/javascript" src="http://www.startribune.com/includes/jquery.tools.min.js"></script>
             <!-- START CODE BLOCK FOR GOOGLE ADS -->
     <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
     <script type="text/javascript">
         GS_googleAddAdSenseService("ca-pub-0640823897479847");
         GS_googleEnableAllServices();
+    </script>
+    <!--Lotame audience api -->
+    <script type="text/javascript">
+        var dartCC = readCookie("dartCC");
+        if (dartCC === null) {
+           document.write('<script language="JavaScript" src="http://ad.crwdcntrl.net/5/c=982/pe=y/var=ccauds" type="text/javascript"></scr' + 'ipt>');
+        }
+    </script>
+    <script type="text/javascript">
+        // prepare key/value pair of user audiences. Example result: 'ccaud=sports,movie,blogger'
+        if (dartCC === null) {
+           var dartCCKey = "ccaud";
+           var dartCC = "";
+           if (typeof(ccauds) != 'undefined')
+           {
+                for (var cci = 0; cci < ccauds.Profile.Audiences.Audience.length; cci++)
+                {
+                        if (cci > 0) dartCC += ";";
+                        dartCC += dartCCKey + "=" + ccauds.Profile.Audiences.Audience[cci].abbr;
+                }
+                createCookie("dartCC", dartCC, 7, "startribune.com");
+           }
+        }
     </script>
     
     <script type="text/javascript">
@@ -159,7 +226,6 @@
 
    
                     
-    <script src="http://js.revsci.net/gateway/gw.js?csid=H10972"></script>
     <!-- SiteCatalyst code version: H.24.
          Copyright 1996-2011 Adobe, Inc. All Rights Reserved More info available at http://www.omniture.com -->
     <!-- Shell for SiteCatalyst code version: H.24. Copyright 2011 Omniture, Inc. -->
@@ -209,66 +275,52 @@
         if (readCookie("usersubs")) {
             s.prop37 = readCookie("usersubs");
         }
-
-        // START AUDIENCESCIENCE API
-        H10972.DM_cat("help > Help");
-        H10972.DM_tag();
-
-        var rsi_segs = [],
-            segs_beg = document.cookie.indexOf('rsi_segs='),
-            segs_end,
-            segLen   = 20,
-            segQS    = "",
-            segArr   = new Array();
-        if(segs_beg >= 0) {
-            segs_beg = document.cookie.indexOf('=',segs_beg)+1;
-            if(segs_beg>0) {
-                segs_end = document.cookie.indexOf(';', segs_beg);
-                if(segs_end==-1) {
-                    segs_end=document.cookie.length;
-                }
-                rsi_segs = document.cookie.substring(segs_beg, segs_end).split('|');
-            }
-        }
-
-        if (rsi_segs.length < segLen) {
-            segLen = rsi_segs.length;
-        }
-        for (var i=0; i < segLen; i++) {
-            segArr = rsi_segs[i].split("_");
-            if (segArr.length > 1) {
-                segQS += ("rsi" + "=" + segArr[1] + ";");
-            }
-        }
-        // END AUDIENCESCIENCE API
+        
+                        
+                
+                        
+                
     </script>
+
+    
+<!-- Start shell for SiteCatalyst NOSCRIPT code version: H.24. -->
+<script language="JavaScript" type="text/javascript">var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://nandomedia.112.2o7.net/b/ss/nmminneapolis/1/H.24--NS/0?pageName=Privacy+Policy&server=startribune.com&channel=help&c1=http://www.startribune.com/help/112852084.html&c2=HTML&c3=section front&c4=Uncategorized&c5=noscript&c6=&c7=Help&c24=html module"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.24. -->
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-0fEc9CMkDiJ2g"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-0fEc9CMkDiJ2g.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- START RUBICON INSIGHT TAG -->
+<script type="text/javascript" defer="defer" src="http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/alice.js?pc=7963/12801"></script>
+<!-- END RUBICON INSIGHT TAG -->
+
+<!-- START COMSCORE DIRECT TAG -->
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "8428425" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=8428425&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+<!-- END COMSCORE DIRECT TAG -->
 
       
    
 
 
                   
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
-		
-			
-									<!-- begin ad tag (tile=1) -->
-					<script language="JavaScript" type="text/javascript">
-						if(typeof(keyVals) == "undefined"){
-							keyVals = "";
-						}
-						if(typeof(segQS) != "undefined"){
-							keyVals += "; " +segQS;
-						}
-						document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/st.help/ct_html_module;pos=1;dcopt=ist;ctid=112852084' + keyVals + ';tile=1;sz=1x1001;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
-					</script>
-					<noscript>
-						<a href="http://ad.doubleclick.net/jump/st.help/ct_html_module;pos=1;dcopt=ist;ctid=112852084;tile=1;sz=1x1001;ord=123456?" target="_blank"><img src="http://ad.doubleclick.net/ad/st.help/ct_html_module;pos=1;ctid=112852084;tile=1;sz=sz=1x1001;ord=123456?" border="0" alt=""></a>
-					</noscript>
-					<!-- End ad tag -->
-								
+	
 
 
- 
+
+								 
 
   
     
@@ -278,10 +330,16 @@
 
     
 			
-<link rel="image_src" href="http://stmedia.startribune.com/designimages/stShareLogo.png">
+<link rel="image_src" href="http://stmedia.startribune.com/designimages/stShareLogo021712.png">
 
 
 <div id="wholePage">
+
+	
+
+
+
+	
 
 
 	<!-- Header [Start] -->
@@ -356,8 +414,9 @@
     </div>
 </div>
 
-                                       <li class="dropMenuBG">    <a href="http://www.startribune.com/contactus/" class="dropMenu" style="color:#333333;cursor:default;text-decoration:none">Help</a>    <ul>        <li><a href="http://www.startribune.com/contactus/" title="Contact Us">Contact Us</a></li>        <li><a href="http://www.startribune.com/contactus/" title="Feedback">Feedback</a></li>        <li><a href="http://www.startribune.com/siteindex/" title="Site Index">Site Index</a></li>    </ul></li>  <li class="dropMenuBG">    <a href="http://www.startribune.com/subscriptionservices" class="dropMenu" style="color:#333333;cursor:default;text-decoration:none">Subscriber Services</a>    <ul>        <li><a href="http://www.startribune.com/subscriptionservices" title="Newspaper Subscriptions" target="_blank">Newspaper Subscriptions</a></li>        <li><a href="http://www.startribune.com/membercenter/" title="Manage Account">Manage Account</a></li>        <li><a href="http://www.startribune.com/eedition" title="eEdition" target="_blank">eEdition</a></li>        <li><a href="http://www.startribune.com/membercenter/" title="Newsletters">Newsletters</a></li>        <li><a href="http://www.startribune.com/help/112994779.html" title="RSS">RSS</a></li>                </ul></li>  <li class="dropMenuBG">    <a href="http://www.startribunecompany.com/mediakit" class="dropMenu" style="color:#333333;cursor:default;text-decoration:none">Buy Ads</a>    <ul>        <li><a href="http://www.startribunecompany.com/mediakit" target="_blank" title="Online Ads">Online Ads</a></li>        <li><a href="http://www.startribunecompany.com/mediakit" target="_blank" title="Newspaper Ads">Newspaper Ads</a></li>        <li><a href="http://www.startribune.com/classifieds" title="Classifieds">Classifieds</a></li>    </ul></li>  <li class="dropMenuBG">    <a href="http://gallery.pictopia.com/startrib/" target="_blank" class="dropMenu" style="color:#333333;cursor:default;text-decoration:none">Store</a>    <ul>        <li><a href="http://gallery.pictopia.com/startrib/" target="_blank" title="Photographs">Photographs</a></li>        <li><a href="http://www.startribune.com/archives" title="Article Archives">Article Archives</a></li>        <li><a href="http://gallery.pictopia.com/startrib/gallery/9664/" target="_blank" title="InfoArt">InfoArt</a></li>        <li><a href="http://www.startribunecompany.com/189" target="_blank" title="Back copies">Back copies</a></li>        <li><a href="http://reprints.ygsgroup.com/m/star_tribune" target="_blank" title="Commercial Reprints">Commercial Reprints</a></li>        <li><a href="https://secure.startribune.com/company/ic/home/newspaper/permission_new.htm" title="Permissions" target="_blank">Permissions</a></li>    </ul></li>  
+                                       <li class="dropMenuBG">    <a href="http://www.startribune.com/contactus/" class="dropMenu" style="color:#333333;cursor:default;text-decoration:none">Help</a>    <ul>        <li><a href="http://www.startribune.com/contactus/" title="Contact Us">Contact Us</a></li>        <li><a href="http://www.startribune.com/siteindex/" title="Site Index">Site Index</a></li>    </ul></li>  <li class="dropMenuBG">    <a href="#" class="dropMenu" style="color:#333333;cursor:default;text-decoration:none">Subscriber Services</a>    <ul>        <li><a href="http://www.startribune.com/subscriptionservices" title="Newspaper Subscriptions" target="_blank">Newspaper Subscriptions</a></li>        <li><a href="http://www.startribune.com/eedition" title="eEdition" target="_blank">eEdition</a></li>        <li><a href="http://www.startribune.com/membercenter/" title="Newsletters">Newsletters</a></li>    </ul></li>  <li class="dropMenuBG">    <a href="#" class="dropMenu" style="color:#333333;cursor:default;text-decoration:none">Buy Ads</a>    <ul>        <li><a href="http://www.startribunecompany.com/mediakit" target="_blank" title="Online Ads">Online Ads</a></li>        <li><a href="http://www.startribunecompany.com/mediakit" target="_blank" title="Newspaper Ads">Newspaper Ads</a></li>        <li><a href="http://www.startribune.com/classifieds" title="Classifieds">Classifieds</a></li>    </ul></li>  <li class="dropMenuBG">    <a href="#" class="dropMenu" style="color:#333333;cursor:default;text-decoration:none">Store</a>    <ul>        <!--<li><a href="http://gallery.pictopia.com/startrib/" target="_blank" title="Photographs">Photographs</a></li>-->        <li><a href="http://www.startribune.com/archives" title="Article Archives">Article Archives</a></li>        <!--<li><a href="http://gallery.pictopia.com/startrib/gallery/9664/" target="_blank" title="InfoArt">InfoArt</a></li>-->        <li><a href="http://www.startribunecompany.com/189" target="_blank" title="Back copies">Back copies</a></li>        <li><a href="http://reprints.ygsgroup.com/m/star_tribune" target="_blank" title="Commercial Reprints">Commercial Reprints</a></li>        <li><a href="https://secure.startribune.com/company/ic/home/newspaper/permission_new.htm" title="Permissions" target="_blank">Permissions</a></li>    </ul></li>  
             
+
                                    </ul>
         </div>
 
@@ -399,20 +458,33 @@
 			
 									<!-- begin ad tag (tile=1) -->
 					<script language="JavaScript" type="text/javascript">
+						var vals = "";
 						if(typeof(keyVals) == "undefined"){
 							keyVals = "";
 						}
-						if(typeof(segQS) != "undefined"){
-							keyVals += "; " +segQS;
+						if(typeof(dartCC) == "undefined"){
+							dartCC = "";
 						}
-						document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/st.help/ct_html_module;pos=1;;ctid=112852084' + keyVals + ';tile=2;sz=300x70;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+						if(typeof(segQS) != "undefined"){
+							vals = keyVals + "; " +segQS;
+						}
+						var ad_size = "300x70";
+						var isSafari = navigator.userAgent.match(/Safari/i) != null  && navigator.vendor.match(/Apple/i) != null;
+						if (ad_size == "1x1001" && isSafari) {
+						   var videostitial_shown = readCookie('videostitialShown');
+						   if (videostitial_shown === null) {
+						      document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/st.help/ct_html_module;pos=1;sz=300x70;tile=1;ord=' + ord + ';dcopt=ist;ctid=112852084' + vals + ';' + dartCC + ';;' + '?" type="text/javascript"></scr' + 'ipt>');						   
+						   }	  
+						}
+						else {
+							document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/st.help/ct_html_module;pos=1;sz=300x70;tile=1;ord=' + ord + ';dcopt=ist;ctid=112852084' + vals + ';' + dartCC + ';;' + '?" type="text/javascript"></scr' + 'ipt>');
+						}
 					</script>
 					<noscript>
-						<a href="http://ad.doubleclick.net/jump/st.help/ct_html_module;pos=1;;ctid=112852084;tile=2;sz=300x70;ord=123456?" target="_blank"><img src="http://ad.doubleclick.net/ad/st.help/ct_html_module;pos=1;ctid=112852084;tile=2;sz=sz=300x70;ord=123456?" border="0" alt=""></a>
+						<a href="http://ad.doubleclick.net/jump/st.help/ct_html_module;pos=1;dcopt=ist;ctid=112852084;tile=1;sz=300x70;ord=123456?" target="_blank"><img src="http://ad.doubleclick.net/ad/st.help/ct_html_module;pos=1;ctid=112852084;tile=1;sz=sz=300x70;ord=123456?" border="0" alt=""></a>
 					</noscript>
 					<!-- End ad tag -->
 								
-
 
 
                             </div>
@@ -424,14 +496,34 @@
             .sponsorNav a{padding:0 5px 0 5px !important;}
         </style>
 
+
+<!-- Begin Code for Circulars -->
+<link rel="stylesheet" type="text/css" href="http://www.startribune.com/includes/preprints.css">
+    <!--[if IE]>
+        <link rel="stylesheet" type="text/css" href="http://www.startribune.com/includes/preprints_ie.css" />
+    <![endif]-->
+    <!--[if IE 9]>
+        <link rel="stylesheet" type="text/css" href="http://www.startribune.com/includes/preprints_ie9.css" />
+    <![endif]-->
+    <!--[if IE 8]>
+        <link rel="stylesheet" type="text/css" href="http://www.startribune.com/includes/preprints_ie8.css" />
+    <![endif]-->
+    <!--[if lte IE 7]>
+        <link rel="stylesheet" type="text/css" href="http://www.startribune.com/includes/preprints_ie7.css"/>
+    <![endif]-->
+<script src="http://www.startribune.com/includes/digital-preprints.js?v=1.222257" type="text/javascript" language="javascript"></script>
+<!-- End Code for Circulars -->
+
+<div class="mainNavWrapper">
         <div class="mainNavContainer">
+         
          <div class="mainNav">
             <ul class="primaryNav">
                                         
                              <li class="homeIcon selectedIcon">
                              <a href="http://www.startribune.com/" title="News" class="selected home">News</a>
                             
-                              
+                            
                                 <ul class="displaySubNav">
                                 	<li><a href="http://www.startribune.com/local/" title="Local">Local</a></li>
                                 	<li><a href="http://www.startribune.com/nation/" title="Nation">Nation</a></li>
@@ -439,9 +531,9 @@
                                 	<li><a href="http://www.startribune.com/investigators/" title="Investigators">Investigators</a></li>
                                 	<li><a href="http://www.startribune.com/weather/" title="Weather">Weather</a></li>
                                 	<li class="last"><a href="http://www.startribune.com/obituaries/" title="Obituaries">Obituaries</a></li>
-                                </ul>	
-                                
-                            </li> 
+                                </ul>
+                            
+                            </li>
                             
                             <li>
                                 <a href="http://www.startribune.com/local/" title="Local">Local</a>
@@ -453,7 +545,7 @@
                                     <li><a href="http://www.startribune.com/local/minneapolis/" title="Minneapolis">Minneapolis</a></li>
                                     <li><a href="http://www.startribune.com/local/stpaul/" title="St. Paul">St. Paul</a></li>
                                     <li><a href="http://www.startribune.com/local/yourvoices/" title="Your Voices">Your Voices</a></li>
-                                    <li class="last"><a href="http://www.startribune.com/local/blogs/?b=1" title="Blogs + Columns">Blogs + Columns</a></li>     
+                                    <li class="last"><a href="http://www.startribune.com/local/blogs/?b=1" title="Blogs + Columns">Blogs + Columns</a></li>
                                 </ul>
                             </li>
                               <li class="moreDropDowm">
@@ -468,25 +560,17 @@
                                     <li><a href="http://www.startribune.com/sports/preps/" title="High Schools">High Schools</a></li>
                                     <li><a href="http://www.startribune.com/sports/outdoors/" title="Outdoors">Outdoors</a></li>
                                     <li><a href="http://www.startribune.com/sports/golf/" title="Golf">Golf</a></li>
-                            <li><a href="http://www.startribune.com/sports/motorsports/" title="Motorsports">Motorsports</a></li>
-                            			<li class="last"><a href="http://www.startribune.com/sports/blogs/" title="Sports Blogs">Sports Blogs</a></li>
-                                    
-                                    <!--<li class="last moreMenu">
-                                     <span><a href="#" title="more">more</a></span>
-                            		<ul title=abc class="moreMenuList">
-                            			<li><a href="http://www.startribune.com/sports/motorsports/" title="Motorsports" >Motorsports</a></li>
-                            			<li class="last"><a href="http://www.startribune.com/sports/blogs/" title="Sports Blogs" >Sports Blogs</a></li>
-                            		</ul>			
-                             	</li>-->
-                                    
-                                </ul>
+                            		<li><a href="http://www.startribune.com/sports/blogs/" title="Blogs">Blogs</a></li>
+                            			<li class="last"><a href="http://www.startribune.com/video/?channel=sports" title="Video">Video</a></li>
+                            	</ul>
                             </li>
                             <li>
                                 <a href="http://www.startribune.com/business/" title="Business">Business</a>
                                  <ul>
                                     <li><a href="http://www.startribune.com/business/economy/" title="Economy">Economy</a></li>
                                     <li><a href="http://www.startribune.com/business/yourmoney/" title="Your Money">Your Money</a></li>
-                                            <li class="last"><a href="http://www.startribune.com/business/blogs/?b=1" title="Blogs + Columns">Blogs + Columns</a></li>
+                                    <li><a href="http://www.startribune.com/jobs/topworkplaces/" title="Top Workplaces">Top Workplaces</a></li>
+                                    <li class="last"><a href="http://www.startribune.com/business/blogs/?b=1" title="Blogs + Columns">Blogs + Columns</a></li>
                                 </ul>
                             </li>
                               <li>
@@ -502,7 +586,7 @@
                                  <ul>
                                     <li><a href="http://www.startribune.com/opinion/editorials/" title="Editorials">Editorials</a></li>
                                     <li><a href="http://www.startribune.com/opinion/columnists/" title="Our Columnists">Our Columnists</a></li>
-                                    <li><a href="http://www.startribune.com/opinion/otherviews/" title="Other Views">Other Views</a></li>
+                                    <li><a href="http://www.startribune.com/opinion/commentaries/" title="Commentaries">Commentaries</a></li>
                                     <li><a href="http://www.startribune.com/opinion/cartoons/" title="Cartoons">Cartoons</a></li>
                                     <li class="last"><a href="http://www.startribune.com/opinion/letters/" title="Letters">Letters</a></li>
                                   </ul>
@@ -513,9 +597,10 @@
                                    <li><a href="http://www.startribune.com/lifestyle/taste/" title="Taste">Taste</a></li>
                                    <li><a href="http://www.startribune.com/lifestyle/homegarden/" title="Home + Garden">Home + Garden</a></li>
                             	   <li><a href="http://www.startribune.com/lifestyle/travel/" title="Travel">Travel</a></li>
-                                   <li><a href="http://www.startribune.com/lifestyle/wellness/" title="Wellness">Wellness</a></li>
+                                   <li><a href="http://www.startribune.com/lifestyle/health/" title="Health">Health</a></li>
                             	   <li><a href="http://www.startribune.com/lifestyle/style/" title="Style">Style</a></li>
                                    <li><a href="http://www.startribune.com/lifestyle/relationship/" title="Relationships">Relationships</a></li>
+                                   <li><a href="http://steals.startribune.com" target="_blank" title="Steals">Steals</a></li>
                                    <li class="last"><a href="http://www.startribune.com/lifestyle/blogs/?b=1" title="Blogs + Columns">Blogs + Columns</a></li>
                                 </ul>
                             </li>
@@ -530,14 +615,68 @@
                                     <li><a href="http://www.startribune.com/entertainment/tv/" title="TV + Media">TV + Media</a></li>
                                     <li><a href="http://www.startribune.com/entertainment/books/" title="Books">Books</a></li>
                                     <li><a href="http://www.startribune.com/entertainment/family/" title="Family + Fun">Family + Fun</a></li>
-                                    <li><a href="http://www.startribune.com/entertainment/celebrities/" title="Celebrities">Celebrities</a></li>
-                                    <li><a href="http://www.startribune.com/entertainment/comicgames/" title="Comics + Games">Comics + Games</a></li>        
-                                    <li><a href="http://www.startribune.com/entertainment/blogs/?b=1" title="Blogs + Columns">Blogs + Columns</a></li>
-                                    <li class="last"><a href="http://www.vita.mn/" target="_blank" title="vita.mn">vita.mn</a></li>
+                                    <li><a href="http://www.startribune.com/entertainment/celebrities/" title="Celebs">Celebs</a></li>
+                                    <li><a href="http://www.startribune.com/entertainment/comicgames/" title="Comics + Games">Comics + Games</a></li>
+                                    <li><a href="http://www.startribune.com/entertainment/blogs/?b=1" title="Blogs">Blogs</a></li>
+                                    <li><a href="http://www.vita.mn/" target="_blank" title="vita.mn">vita.mn</a></li>
+                            			<li class="last"><a href="http://www.startribune.com/video/?channel=entertainment" title="Video">Video</a></li>
                                 </ul>
                             </li>
                                         </ul>
-          <div class="sponsorNav">
+	 
+<script type="text/javascript" src="http://apps.startribune.com/circulars/advertiser_details.js"></script>
+<script type="text/javascript">
+	var dppNavTab = dppNavTab || {};
+	dppNavTab.timer = null;
+	dppNavTab.advance = function(){
+			//if(Math.abs(parseInt(jQuery('#dpp_navtab').css('left'), 10))+87 >= 1274){
+			if(Math.abs(parseInt(jQuery('#dpp_navtab').css('left'), 10))+87 >= (jQuery('#dpp_navtab').children().length-1)*87){
+				jQuery('#dpp_navtab').css('left', '-87px');	
+			}
+			jQuery('#dpp_navtab').animate({
+				left: '-=87'
+			}, 500);
+			dppNavTab.timer = setTimeout(dppNavTab.advance, 7000);
+	}
+	dppNavTab.stop = function(){
+		clearTimeout(dppNavTab.timer);
+		jQuery('#dpp_navtab').css('left', '0px');
+	}
+	
+	dppNavTab.start = function(){
+		dppNavTab.timer = setTimeout(dppNavTab.advance, 2000);
+	}
+</script>
+<div class="dpp scrollable" id="DPPscroll">
+	<div style="width: 87px; height: 24px; overflow: hidden;">
+		<ul id="dpp_navtab" style="overflow: hidden; position: relative; top: 0px; margin: 0px; padding: 0px; width: 1274px; ">
+			<script type="text/javascript">
+			for(adt = 0; adt < ad_AdvertiserArray.data.length; adt++){
+				if(adt == 0){
+					document.write('<li style="float: left; list-style: none; width: 98;"><div class="ppButton"><img class="navTabWa' + ad_AdvertiserArray.data[adt].advertiserID + '" style="border:none;" src="http://stmedia.startribune.com/images/weeklyAdsLabel.png"></div></li>');
+				}
+				document.write('<li style="float: left; list-style: none; width: 98;"><div class="ppButton"><img class="navTab' + ad_AdvertiserArray.data[adt].advertiserID + '" style="border:none;" src="' + ad_AdvertiserArray.data[adt].nav_button + '"></div></li>');
+				document.write('<li style="float: left; list-style: none; width: 98;"><div class="ppButton"><img class="navTabWa' + ad_AdvertiserArray.data[adt].advertiserID + '" style="border:none;" src="http://stmedia.startribune.com/images/weeklyAdsLabel.png"></div></li>');
+				jQuery('.navTab' + ad_AdvertiserArray.data[adt].advertiserID).click(ad_AdvertiserArray.data[adt], function(eventObj){
+					window.location.href = "http://" + hostEnv + "www.startribune.com/digital-preprints/?dppAID=" + eventObj.data.advertiserID;
+				});
+				jQuery('.navTabWa' + ad_AdvertiserArray.data[adt].advertiserID).click(ad_AdvertiserArray.data[adt], function(eventObj){
+					window.location.href = "http://" + hostEnv + "www.startribune.com/digital-preprints/?dppAID=" + eventObj.data.advertiserID;
+				});				
+				stribInserts.registerAdControl('.navTab' + ad_AdvertiserArray.data[adt].advertiserID, ad_AdvertiserArray.data[adt].advertiserID);
+				stribInserts.registerAdControl('.navTabWa' + ad_AdvertiserArray.data[adt].advertiserID, ad_AdvertiserArray.data[adt].advertiserID);
+			}			
+			
+			</script>
+		</ul>
+	</div>
+</div>
+<script type="text/javascript">
+	dppNavTab.start();
+	stribInserts.registerCallBacks({'onOpen': dppNavTab.stop, 'onClose': dppNavTab.start});
+	stribInserts.registerAdvertiserArray(ad_AdvertiserArray);
+</script>	     
+	          <div class="sponsorNav">
           <ul>
                                        
                             
@@ -547,20 +686,30 @@
                             
                             
                             <li>
+                                <a href="http://www.startribune.com/obituaries" title="Obituaries" style="font-size:1.0em">Obituaries</a>
+                            	<ul>
+                            	<li>
+                            		<ul>
+                                    <li><a href="http://www.legacy.com/obituaries/startribune/obituary-browse.aspx" title="View all Obituaries">View all Obituaries</a></li>
+                                    <li class="last"><a href="http://www.startribune.com/obituaries/11603211.html" title="Place an Obituary Notice">Place an Obituary Notice</a></li>
+                            		</ul>
+                            	</li>
+                                </ul>
+                            </li>
+                            <li>
                                 <a href="http://www.startribune.com/classifieds/" title="Classifieds" style="font-size:1.0em">Classifieds</a>
                                 <ul>
                             	<li>
                             		<ul>
-                                    <li><a href="http://placeads.startribune.com/webentry" title="Place an Ad">Place an Ad</a></li>
-                                    <li><a href="http://pd.startribune.com/sp?aff=2179&amp;section=announcements&amp;results=classifieds" title="Announcements">Announcements</a></li>
-                                    <li><a href="http://www.startribune.com/obituaries/" title="Obituaries">Obituaries</a></li>
-                                    <li><a href="http://pd.startribune.com/sp?aff=2179&amp;section=garage-sales&amp;results=classifieds" title="Garage Sales + Estate Sales">Garage Sales + Estate Sales</a></li>
-                                            <li><a href="http://pd.startribune.com/sp?aff=2179&amp;section=merch&amp;results=classifieds" title="Merchandise">Merchandise</a></li>
-                                    <li><a href="http://pd.startribune.com/sp?aff=2179&amp;section=pets&amp;results=classifieds" title="Pets + Livestock">Pets + Livestock</a></li>        
-                                    <li><a href="http://pd.startribune.com/sp?aff=2179&amp;section=bussiness&amp;results=classifieds" title="Business Opportunities">Business Opportunities</a></li>
-                                    <li class="last"><a href="http://www.startribune.com/legalnotices" target="_blank" title="Public + Legal Notices">Public + Legal Notices</a></li>
+                                    <li><a href="http://www.startribune.com/placeads" title="Place an Ad">Place an Ad</a></li>
+                                    <li><a href="http://pd.startribune.com/sp?aff=2179&amp;section=garage-sales&amp;results=classifieds" title="Garage Sales">Garage Sales</a></li>
+                                    <li><a href="http://classifieds.startribune.com/default/estate-sales/search" title="Estate Sales">Estate Sales</a></li>
+                                    <li><a href="http://classifieds.startribune.com/default/merchandise/search" title="Merchandise">Merchandise</a></li>
+                                    <li><a href="http://classifieds.startribune.com/default/pets/search" title="Pets">Pets</a></li>
+                                    <li><a href="http://classifieds.startribune.com/default/recreational-vehicles/search" title="Recreational Vehicles + Marina">Recreational Vehicles + Marina</a></li>
+                                    <li class="last"><a href="http://digital.olivesoftware.com/adl/adlauncher.asp?skin=StarTribuneADL&amp;search=mst" target="_blank" title="Newspaper Ads">Newspaper Ads</a></li>
                             		</ul>
-                            	</li>	
+                            	</li>
                                 </ul>
                             </li>
                               <li>
@@ -568,16 +717,16 @@
                                 <ul>
                             	<li>
                             		<ul>
-                                    <li><a href="http://www.startribune.com/autos" title="Search Used Vehicles">Search Used Vehicles</a></li>   
+                                    <li><a href="http://www.startribune.com/autos" title="Search Used Vehicles">Search Used Vehicles</a></li>
                                     <li><a href="http://www.startribune.com/autos/new" title="Search New Vehicles">Search New Vehicles</a></li>
                                                     <li class="last"><a href="http://www.startribune.com/cars/sell" title="Sell your Vehicle">Sell your Vehicle</a></li>
                                     </ul>
-                                </li>		
+                                </li>
                                 </ul>
                             </li>
                               <li>
                                 <a href="http://www.startribune.com/housing/" title="Housing" style="font-size:1.0em">Housing</a>
-                            	
+                            
                                 <ul>
                             	<li>
                             		<ul>
@@ -586,11 +735,11 @@
                                     <li><a href="http://www.startribune.com/housing/rent/" title="Rentals">Rentals</a></li>
                                     <li><a href="http://www.startribune.com/housing/commercial/" title="Commercial">Commercial</a></li>
                                     <li><a href="http://www.startribune.com/housing/foreclosures" title="Foreclosures">Foreclosures</a></li>
-                                    <li><a href="http://homes.startribune.com/agents/MN-USA/" title="Find an Agent">Find an Agent</a></li>        
-                                    <li><a href="http://startribune.interest.com" title="Mortgage Guide">Mortgage Guide</a></li>
+                                    <li><a href="http://homes.startribune.com/agents/MN-USA/" title="Find an Agent">Find an Agent</a></li>
+                                    <li><a href="http://www.interest.com/?pid=i_MST" title="Mortgage Guide">Mortgage Guide</a></li>
                                     <li class="last"><a href="http://www.startribune.com/housing/seniors/" title="Senior Living">Senior Living</a></li>
                             		</ul>
-                            	</li>	
+                            	</li>
                                 </ul>
                             </li>
                               <li>
@@ -601,68 +750,173 @@
                                     <li><a href="http://jobs.startribune.com/jobs/" title="Find a Job">Find a Job</a></li>
                                     <li><a href="https://startribunejobs-rs.madgexjb.com/" target="_blank" title="Post a Job">Post a Job</a></li>
                                     <li><a href="http://www.startribune.com/jobs/healthcare/" title="Healthcare Careers">Healthcare Careers</a></li>
-                                    <li><a href="http://ww2.startribune.com/careermanagement/" title="Career Advice">Career Advice</a></li>        
+                                    <li><a href="http://ww2.startribune.com/careermanagement/" title="Career Advice">Career Advice</a></li>
                                     <li class="last"><a href="http://www.startribune.com/jobs/topworkplaces/" title="Top Workplaces">Top Workplaces</a></li>
                             		</ul>
-                            	</li>	
+                            	</li>
                                 </ul>
                             </li>
-                            <li>
-                                <a href="http://www.startribune.com/shopping/" title="Shopping" style="font-size:1.0em" class=" smaller">Shopping</a>
-                                <ul>
-                            	<li>
-                            		<ul>
-                            			<li><a href="http://steals.startribune.com/" title="STeals">STeals</a></li>
-                            			<li><a href="http://pd.startribune.com/sp?aff=2040&amp;show=yp-cat&amp;highlight=yp/" title="Yellow Pages">Yellow Pages</a></li>
-                            			<li><a href="http://digital.olivesoftware.com/adl/adlauncher.asp?skin=StarTribuneADL&amp;search=mst" target="_blank" title="Newspaper ads">Newspaper Ads</a></li>
-                            			<li class="last"><a href="http://mnstartribune.p2ionline.com/specialsections/splash.aspx/" target="_blank" title="Special Sections">Special Sections</a></li>
-                            		</ul>	
-                            	</li>	
-                                </ul>
-                            </li>
-                                  <li style="background:#cc0000;"><div style="width:86px;height:40px;"><script type="text/javascript">GA_googleFillSlot("86x40_Target_Nav_Ad");</script></div></li>
+                                  <li class="targetAd" style="background:#cc0000;"><div style="width:86px;height:40px;"><script type="text/javascript">GA_googleFillSlot("86x40_Target_Nav_Ad");</script></div></li>
 
          </ul>
         </div>
         </div>
         </div>
+<script type="text/javascript">
+	newsSubNavDelay();
+</script>
+        
+		<!-- Start Circular Content -->
+	  	<!-- Begin onpage elements to support circular ad delivery -->
+		<!-- begin zip popup -->
+		<img id="cTrackImg" style="height: 0px;" src="http://apps.startribune.com/circulars/images/blank.gif">
+		<div style="display:none;">
+			<div id="setCircularLocation">
+				<div class="locationContainer"></div>
+				<h3>Change Location</h3>
+				<p>Enter Zip Code</p>
+				<input type="hidden" class="advertiser input" name="advertiser" value="Staples">
+				<p><input type="text" id="circularsZip" name="zip" value=""><input id="dpp_btn_submit" type="button" value="go"></p>
+				<input type="checkbox" id="circularsDefaultZip" name="defaultZip" value="true" checked=""><span>Use this as my default zip.</span> <br>
+			</div>
+		</div>
+		<!-- end zip popup -->	  	
+		<div class="clear"></div>
+		<div id="prePrintContainer" class="closed">
+			<div class="prePrintsCloseBtn ppButton">
+				<img src="http://stmedia.startribune.com/images/navtab_close.png">
+			</div>
+			<div class="weeklyAdsContainer"><img src="http://ww2.startribune.com/mcu/projects/w/weeklyInserts/demo/startribuneWeeklyAds.png"></div><div id="advertiserButtons"></div>
+			<!-- eliminate the classifieds buttons cause we will only have the one set now.
+			<div id="titleBar">
+				<ul id="classifiedsButtons" class="hide"></ul>
+			</div>
+			-->
+			<div id="mainPrePrint"></div>
+			<div id="mainPrePrintCircular" class="hide"></div>
+
+
+		</div>
+		<!-- END onpage elements to support circular ad delivery -->
+<!-- Begin advertiser template -->
+<div id="ppc_template" style="display: none;">
+	<div class="ppButton nav"><img src="http://apps.startribune.com/circulars/images/blank.gif" border="0"></div>
+	<div class="ppButton large"><img src="http://apps.startribune.com/circulars/images/blank.gif" border="0"></div>
+	<ul><li class="ppButton small"><img src="http://apps.startribune.com/circulars/images/blank.gif" border="0"></li></ul>
+	<div class="ad">
+	    <table cellpadding="0" cellspacing="0" width="917" height="238"><tbody><tr>
+	    <td width="263" valign="middle" align="left" style="padding-left:15px;" class="weeklyAd"><img src="http://apps.startribune.com/circulars/images/blank.gif" border="0" class="linkToAd promoPageOne"></td>
+	    <td width="247" align="center" valign="middle" class="mainAd">
+	    	<img class="mainLogo" src="http://apps.startribune.com/circulars/images/blank.gif" border="0">
+	        <div class="addressContainer"></div>
+	    	<a class="setLocation" href="setCircularLocation">Change Location</a><br>
+	    	<a href="#"><img src="http://ww2.startribune.com/mcu/projects/w/weeklyInserts/demo/viewAd.png" border="0" class="linkToAd"></a>
+	    </td>
+	    <td width="407" valign="middle" align="right" style="padding-right:15px;">
+		  <!-- Start Product Carousel -->
+		  <div class="jcarousel-skin-strib-circulars circularCarousel">
+		    <ul style="height: 215px;">
+		      <!-- The content will be dynamically loaded in here -->
+		    </ul>
+			<div style="position: absolute; left:15px; bottom:20px; z-index:100;">
+				<img class="circularProductPause" src="http://stmedia.startribune.com/designimages/dpp_pause.png" style="cursor:pointer;">
+				<img class="circularProductPlay" src="http://stmedia.startribune.com/designimages/dpp_play.png" style="display: none;  cursor:pointer;">
+			</div>
+		  </div>
+		  <!-- End Product Carousel -->
+		</td>
+	    </tr></tbody></table>
+	</div>
+	<div class="circular hide">
+		<div class="btn_closeCircular"></div>
+		<div style="z-index:100; float:right;"></div>
+    	<!-- <img class="mainLogo" style="float: left; margin: 10px 5px 0px 60px; height: 50px;" src="http://apps.startribune.com/circulars/images/blank.gif" border="0"> -->
+        <div style="float: left; margin: 10px 5px 0px 20px;">
+        	<span class="addressContainer"></span>
+        	<a class="setLocation" href="setCircularLocation">Change Location</a>
+        </div>
+        <div class="pageFlipper"></div>
+        <div id="dpp_shares" style="margin: 10px auto 0px auto; width: 600px;">
+			<div style="float: left;">
+				<iframe class="fb_iframe" src="//www.facebook.com/plugins/like.php?send=false&amp;layout=button_count&amp;width=150&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21&amp;appId=194734093933574&amp;href=" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowtransparency="true"></iframe>
+			</div>
+			<div style="float: left;">
+				<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.startribune.com/circulars" data-text="Check out this week's Circulars from Startribune.com at " data-lang="en">Tweet</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</div>
+			<div class="advertiserLinkBug">For these details and more, visit </div>
+        </div>   
+		
+	</div>
+</div>
+<!-- END advertiser template -->
+<div style="display: none;">
+	<!-- Begin First advertiser creative -->
+	<script type="text/javascript">
+	//		newAdCallScript = jQuery(document.createElement('script'));
+	//		newAdCallScript.attr('language', 'JavaScript');
+	//		newAdCallScript.attr('type', 'text/javascript');
+	//		newAdCallScript.attr('src', 'http://ad.doubleclick.net/pfadx/st.news/test/preprint;pos=1;tile=10;sz=100x200;dcmt=application/javascript;ord=' + stribInserts.ord + '?');
+	//		jQuery('head').first().append(newAdCallScript);
+		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/pfadx/st.news/test/preprint;pos=1;tile=10;sz=100x200;dcmt=application/javascript;ord=' + stribInserts.ord + '?" type="text/javascript"></scr' + 'ipt>');
+	</script>
+	<!-- End First advertiser creative -->
+	
+</div>
+<!-- End Circular Content -->         
+
             <!-- Main Navigation [End] -->
             
 
                       <div class="pencilAddSpacer"></div>
            
-
-            <!-- Top leaderboard[Start] -->
+</div> <!-- mainNavWrapper[End] -->
+            
+<!-- Top leaderboard[Start] -->
                                                                                   <div class="pencilAdd" id="adcheckA">
                                                 <center>
                             
 
 		<div class="clear"></div>
 		<div id="topLeaderboard">
-	
+
+
 		
-				    		    				<!-- 728x90,960x90,960x300 -->
+				    		    				<!-- 728x90,960x90,960x300,960x250,960x30 -->
 		
 			
 									<!-- begin ad tag (tile=1) -->
 					<script language="JavaScript" type="text/javascript">
+						var vals = "";
 						if(typeof(keyVals) == "undefined"){
 							keyVals = "";
 						}
-						if(typeof(segQS) != "undefined"){
-							keyVals += "; " +segQS;
+						if(typeof(dartCC) == "undefined"){
+							dartCC = "";
 						}
-						document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/st.help/ct_html_module;pos=1;;ctid=112852084' + keyVals + ';tile=3;sz=728x90,960x90,960x300;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+						if(typeof(segQS) != "undefined"){
+							vals = keyVals + "; " +segQS;
+						}
+						var ad_size = "728x90,960x90,960x300,960x250,960x30";
+						var isSafari = navigator.userAgent.match(/Safari/i) != null  && navigator.vendor.match(/Apple/i) != null;
+						if (ad_size == "1x1001" && isSafari) {
+						   var videostitial_shown = readCookie('videostitialShown');
+						   if (videostitial_shown === null) {
+						      document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/st.help/ct_html_module;pos=1;sz=728x90,960x90,960x300,960x250,960x30;tile=2;ord=' + ord + ';;ctid=112852084' + vals + ';' + dartCC + ';;' + '?" type="text/javascript"></scr' + 'ipt>');						   
+						   }	  
+						}
+						else {
+							document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/st.help/ct_html_module;pos=1;sz=728x90,960x90,960x300,960x250,960x30;tile=2;ord=' + ord + ';;ctid=112852084' + vals + ';' + dartCC + ';;' + '?" type="text/javascript"></scr' + 'ipt>');
+						}
 					</script>
 					<noscript>
-						<a href="http://ad.doubleclick.net/jump/st.help/ct_html_module;pos=1;;ctid=112852084;tile=3;sz=728x90,960x90,960x300;ord=123456?" target="_blank"><img src="http://ad.doubleclick.net/ad/st.help/ct_html_module;pos=1;ctid=112852084;tile=3;sz=sz=728x90,960x90,960x300;ord=123456?" border="0" alt=""></a>
+						<a href="http://ad.doubleclick.net/jump/st.help/ct_html_module;pos=1;;ctid=112852084;tile=2;sz=728x90,960x90,960x300,960x250,960x30;ord=123456?" target="_blank"><img src="http://ad.doubleclick.net/ad/st.help/ct_html_module;pos=1;ctid=112852084;tile=2;sz=sz=728x90,960x90,960x300,960x250,960x30;ord=123456?" border="0" alt=""></a>
 					</noscript>
 					<!-- End ad tag -->
 								
 
 
-
-				</div>
+			</div>
 	<script type="text/javascript">
 		/*
 			//clearEmptyAd("topLeaderboard");
@@ -679,6 +933,11 @@
         </div>
         <!-- Header [End] -->
         
+	
+
+
+
+	
 
 		<!-- Main Body Content [Start] -->
 		<div id="mainContentWraper">
@@ -955,20 +1214,33 @@
 			
 									<!-- begin ad tag (tile=1) -->
 					<script language="JavaScript" type="text/javascript">
+						var vals = "";
 						if(typeof(keyVals) == "undefined"){
 							keyVals = "";
 						}
-						if(typeof(segQS) != "undefined"){
-							keyVals += "; " +segQS;
+						if(typeof(dartCC) == "undefined"){
+							dartCC = "";
 						}
-						document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/st.help/ct_html_module;pos=3;;ctid=112852084' + keyVals + ';tile=4;sz=728x90;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+						if(typeof(segQS) != "undefined"){
+							vals = keyVals + "; " +segQS;
+						}
+						var ad_size = "728x90";
+						var isSafari = navigator.userAgent.match(/Safari/i) != null  && navigator.vendor.match(/Apple/i) != null;
+						if (ad_size == "1x1001" && isSafari) {
+						   var videostitial_shown = readCookie('videostitialShown');
+						   if (videostitial_shown === null) {
+						      document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/st.help/ct_html_module;pos=3;sz=728x90;tile=3;ord=' + ord + ';;ctid=112852084' + vals + ';' + dartCC + ';;' + '?" type="text/javascript"></scr' + 'ipt>');						   
+						   }	  
+						}
+						else {
+							document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/st.help/ct_html_module;pos=3;sz=728x90;tile=3;ord=' + ord + ';;ctid=112852084' + vals + ';' + dartCC + ';;' + '?" type="text/javascript"></scr' + 'ipt>');
+						}
 					</script>
 					<noscript>
-						<a href="http://ad.doubleclick.net/jump/st.help/ct_html_module;pos=3;;ctid=112852084;tile=4;sz=728x90;ord=123456?" target="_blank"><img src="http://ad.doubleclick.net/ad/st.help/ct_html_module;pos=3;ctid=112852084;tile=4;sz=sz=728x90;ord=123456?" border="0" alt=""></a>
+						<a href="http://ad.doubleclick.net/jump/st.help/ct_html_module;pos=3;;ctid=112852084;tile=3;sz=728x90;ord=123456?" target="_blank"><img src="http://ad.doubleclick.net/ad/st.help/ct_html_module;pos=3;ctid=112852084;tile=3;sz=sz=728x90;ord=123456?" border="0" alt=""></a>
 					</noscript>
 					<!-- End ad tag -->
 								
-
 
 
            </center>
@@ -1008,8 +1280,8 @@
     <!-- Bottom Navigtaion [Start] -->
     <div class="bottomNav">
                 <ul>
-                                                                              <li class="homeIcon selectedIcon"> <a href="http://www.startribune.com/" title="News" class="selected home">News</a>
-                            </li> <li>    <a href="http://www.startribune.com/local/" title="Local">Local</a>
+                                                                  <li class="homeIcon selectedIcon"> <a href="http://www.startribune.com/" title="News" class="selected home">News</a>
+                            </li><li>    <a href="http://www.startribune.com/local/" title="Local">Local</a>
                             </li>  <li class="moreDropDowm">    <a href="http://www.startribune.com/sports/" title="Sports">Sports</a>
                             </li><li>    <a href="http://www.startribune.com/business/" title="Business">Business</a>
                             </li>  <li>    <a href="http://www.startribune.com/politics/" title="Politics">Politics</a>
@@ -1020,12 +1292,12 @@
                     </ul>
         
                 <ul class="sponsoredBtmLink">
-                                         <li>    <a href="http://www.startribune.com/classifieds/" title="Classifieds" style="font-size:1.0em">Classifieds</a>
-                            </li>	    </ul>  <li>    <a href="http://www.startribune.com/autos" title="Autos" style="font-size:1.0em">Autos</a>
-                            </li>		      <li>    <a href="http://www.startribune.com/housing/" title="Housing" style="font-size:1.0em">Housing</a>
-                            </li>	      <li>    <a href="http://jobs.startribune.com/" title="Jobs" style="font-size:1.0em">Jobs</a>
-                            </li>	    <li>    <a href="http://www.startribune.com/shopping/" title="Shopping" style="font-size:1.0em" class=" smaller">Shopping</a>
-                            </li>	    
+                                         <li>    <a href="http://www.startribune.com/obituaries" title="Obituaries" style="font-size:1.0em">Obituaries</a>
+                            </li>    </ul><li>    <a href="http://www.startribune.com/classifieds/" title="Classifieds" style="font-size:1.0em">Classifieds</a>
+                            </li>      <li>    <a href="http://www.startribune.com/autos" title="Autos" style="font-size:1.0em">Autos</a>
+                            </li>      <li>    <a href="http://www.startribune.com/housing/" title="Housing" style="font-size:1.0em">Housing</a>
+                            </li>      <li>    <a href="http://jobs.startribune.com/" title="Jobs" style="font-size:1.0em">Jobs</a>
+                            </li>    
                     
             </div>
     <!-- Bottom Navigtaion [End] -->
@@ -1041,13 +1313,13 @@
         </ul>
 
                 <ul class="footerLink">
-                        <li class="companyWraper"><strong>Company</strong>    <ul>        <li><a href="http://www.startribunecompany.com/100" target="_blank" title="About the StarTribune">About the StarTribune</a></li>        <li><a href="http://www.startribunecompany.com/mediakit/" target="_blank" title="Advertising">Advertising</a></li>        <li><a href="http://www.startribunecompany.com/105" target="_blank" title="Directory + Contacts">Directory + Contacts</a></li>        <li><a href="http://startribunecompany.com/jobs" target="_blank" title="Jobs at the StarTribune">Jobs at the StarTribune</a></li>        <li><a href="http://nieonline.com/startribune/" target="_blank" title="Newspaper in Education">Newspaper in Education</a></li>       <li><a href="http://vita.mn/" target="_blank" title="Vita.mn">Vita.mn: Entertainment</a></li>    </ul></li>  <li class="getStrbWraper"><strong>Subscriber Services</strong>    <ul>        <li><a href="http://www.startribune.com/subscriptionservices" title="Newspaper Subscriptions">Newspaper Subscriptions</a></li>        <li><a href="http://www.startribune.com/membercenter/" title="Manage Account">Manage Account</a></li>        <li><a href="http://www.startribune.com/eedition" title="eEdition">eEdition</a></li>        <li><a href="http://www.startribune.com/membercenter/" title="Newsletters">Newsletters</a></li>            <li><a href="http://www.startribune.com/help/112994779.html" title="RSS">RSS</a></li>    </ul></li><li class="abtWebsiteWraper"><strong>Website</strong>    <ul>        <li><a href="http://www.startribune.com/terms" title="Terms of Use">Terms of Use</a></li>        <li><a href="http://www.startribune.com/privacy" title="Privacy Policy">Privacy Policy</a></li>        <li><a href="http://www.startribune.com/privacy#cookies" title="Privacy Policy">Ad Choices</a></li>        <li><a href="http://www.startribune.com/siteindex/" title="Site Index">Site Index</a></li>    </ul></li>      <li class="newspaperWraper"><strong>Buy Ads</strong>    <ul>        <li><a href="http://www.startribunecompany.com/mediakit" title="Online Ads">Online Ads</a></li>        <li><a href="http://www.startribunecompany.com/mediakit" title="Newspaper Ads">Newspaper Ads</a></li>        <li><a href="http://www.startribune.com/classifieds" title="Classifieds">Classifieds</a></li>    </ul></li><li class="storeWraper"><strong>Store</strong>    <ul>	    <li><a href="http://gallery.pictopia.com/startrib/" target="_blank" title="Photographs">Photographs</a></li>        <li><a href="http://www.startribune.com/archives" title="Article Archives">Article Archives</a></li>        <li><a href="http://gallery.pictopia.com/startrib/gallery/9664/" target="_blank" title="InfoArt">InfoArt</a></li>        <li><a href="http://www.startribunecompany.com/189" target="_blank" title="Back copies">Back copies</a></li>        <li><a href="http://reprints.ygsgroup.com/m/star_tribune" target="_blank" title="Commercial Reprints">Commercial Reprints</a></li>        <li><a href="https://secure.startribune.com/company/ic/home/newspaper/permission_new.htm" title="Permissions">Permissions</a></li>	</ul></li>  <li class="contactWraper"><strong>Connect with Us</strong>    <ul>    <li><a href="http://www.startribune.com/contactus/" title="Contact Us">Contact Us</a></li>    <li><a href="http://www.startribune.com/contactus/" title="Feedback">Feedback</a></li>    <li><a href="http://www.startribune.com/local/117760619.html" title="Become a Fan"><img src="http://stmedia.startribune.com/designimages/facebookBtmIcon.gif" alt="Become a Fan" width="23" height="22" title="Facebook Logo" class="mediaIcon"></a><a href="http://www.startribune.com/local/117760619.html" title="Become a Fan">Become a Fan</a></li>        <li><a href="http://www.startribune.com/local/117760619.html" title="Follow Us"><img src="http://stmedia.startribune.com/designimages/twitterBtmIcon.gif" alt="Follow Us" width="23" height="22" title="Twitter Logo" class="mediaIcon"></a><a href="http://www.startribune.com/local/117760619.html" title="Follow Us">Follow Us</a></li>    <li><a href="http://www.startribune.com/help/112994779.html" title="Connect with Rssfeed"><img src="http://stmedia.startribune.com/designimages/rssfeedIcon.gif" width="23" height="22" title="RSS" alt="RSS" class="mediaIcon"></a><a href="http://www.startribune.com/help/112994779.html" title="RSS">RSS</a></li>    </ul></li>
+                        <li class="companyWraper"><strong>Company</strong>    <ul>        <li><a href="http://www.startribunecompany.com/100" target="_blank" title="About the StarTribune">About the StarTribune</a></li>        <li><a href="http://www.startribunecompany.com/mediakit/" target="_blank" title="Advertising">Advertising</a></li>        <li><a href="http://www.startribunecompany.com/105" target="_blank" title="Directory + Contacts">Directory + Contacts</a></li>        <li><a href="http://startribunecompany.com/jobs" target="_blank" title="Jobs at the StarTribune">Jobs at the StarTribune</a></li>        <li><a href="http://nieonline.com/startribune/" target="_blank" title="Newspaper in Education">Newspaper in Education</a></li>       <li><a href="http://vita.mn/" target="_blank" title="Vita.mn">Vita.mn: Entertainment</a></li>    </ul></li>  <li class="getStrbWraper"><strong>Subscriber Services</strong>    <ul>        <li><a href="http://www.startribune.com/subscriptionservices" title="Newspaper Subscriptions">Newspaper Subscriptions</a></li>        <li><a href="http://www.startribune.com/eedition" title="eEdition">eEdition</a></li>        <li><a href="http://www.startribune.com/membercenter/" title="Newsletters">Newsletters</a></li>    </ul></li><li class="abtWebsiteWraper"><strong>Website</strong>    <ul>        <li><a href="http://www.startribune.com/terms" title="Terms of Use">Terms of Use</a></li>        <li><a href="http://www.startribune.com/privacy" title="Privacy Policy">Privacy Policy</a></li>        <li><a href="http://www.startribune.com/privacy#cookies" title="Privacy Policy">Ad Choices</a></li>        <li><a href="http://www.startribune.com/siteindex/" title="Site Index">Site Index</a></li>    </ul></li>      <li class="newspaperWraper"><strong>Buy Ads</strong>    <ul>        <li><a href="http://www.startribunecompany.com/mediakit" title="Online Ads">Online Ads</a></li>        <li><a href="http://www.startribunecompany.com/mediakit" title="Newspaper Ads">Newspaper Ads</a></li>        <li><a href="http://www.startribune.com/classifieds" title="Classifieds">Classifieds</a></li>    </ul></li><li class="storeWraper"><strong>Store</strong>    <ul>	    <!--<li><a href="http://gallery.pictopia.com/startrib/" target="_blank" title="Photographs">Photographs</a></li>-->        <li><a href="http://www.startribune.com/archives" title="Article Archives">Article Archives</a></li>        <!--<li><a href="http://gallery.pictopia.com/startrib/gallery/9664/" target="_blank" title="InfoArt">InfoArt</a></li>-->        <li><a href="http://www.startribunecompany.com/189" target="_blank" title="Back copies">Back copies</a></li>        <li><a href="http://reprints.ygsgroup.com/m/star_tribune" target="_blank" title="Commercial Reprints">Commercial Reprints</a></li>        <li><a href="https://secure.startribune.com/company/ic/home/newspaper/permission_new.htm" title="Permissions">Permissions</a></li>	</ul></li>  <li class="contactWraper"><strong>Connect with Us</strong>    <ul>    <li><a href="http://www.startribune.com/contactus/" title="Contact Us">Contact Us</a></li>    <li><a href="http://www.startribune.com/pressrelease/" title="Press release">Send a press release</a></li>    <li><a href="http://www.startribune.com/local/117760619.html" title="Become a Fan"><img src="http://stmedia.startribune.com/designimages/facebookBtmIcon.gif" alt="Become a Fan" width="23" height="22" title="Facebook Logo" class="mediaIcon"></a><a href="http://www.startribune.com/local/117760619.html" title="Become a Fan">Become a Fan</a></li>    <li><a href="http://www.startribune.com/local/117760619.html" title="Follow Us"><img src="http://stmedia.startribune.com/designimages/twitterBtmIcon.gif" alt="Follow Us" width="23" height="22" title="Twitter Logo" class="mediaIcon"></a><a href="http://www.startribune.com/local/117760619.html" title="Follow Us">Follow Us</a></li>    <li><a href="http://www.startribune.com/help/112994779.html" title="Connect with Rssfeed"><img src="http://stmedia.startribune.com/designimages/rssfeedIcon.gif" width="23" height="22" title="RSS" alt="RSS" class="mediaIcon"></a><a href="http://www.startribune.com/help/112994779.html" title="RSS">RSS</a></li>    </ul></li>
         </ul>
             </div>
     <!-- Main Footer Link [End] -->
 
     <div class="copyRightInfo">
-        <p class="copyRight"><a href="http://www.startribune.com/help/113059084.html">© 2011 StarTribune.</a>  All rights reserved.</p>
+        <p class="copyRight"><a href="http://www.startribune.com/help/113059084.html">© 2012 StarTribune.</a>  All rights reserved.</p>
         <p class="powerdBy">StarTribune.com is powered by <a target="_blank" href="http://www.limelight.com/webcms">Limelight Networks</a></p>
     </div>
 
@@ -1067,35 +1339,6 @@
 <!-- wholeBody [End] -->
 
     
-<!-- Start shell for SiteCatalyst NOSCRIPT code version: H.24. -->
-<script language="JavaScript" type="text/javascript">var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img src="http://nandomedia.112.2o7.net/b/ss/nmminneapolis/1/H.24--NS/0?pageName=Privacy+Policy&server=startribune.com&channel=help&c1=http://www.startribune.com/help/112852084.html&c2=HTML&c3=section front&c4=Uncategorized&c5=noscript&c6=&c7=Help&c24=html module"
-height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.24. -->
-
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-0fEc9CMkDiJ2g"
-};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-0fEc9CMkDiJ2g.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
-
-<!-- START RUBICON INSIGHT TAG -->
-<script type="text/javascript" defer="defer" src="http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/alice.js?pc=7963/12801"></script>
-<!-- END RUBICON INSIGHT TAG -->
-
-<!-- START COMSCORE DIRECT TAG -->
-<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "8428425" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=8428425&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
-<!-- END COMSCORE DIRECT TAG -->
-
-
 <!-- START GOOGLE ANALYTICS -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -1119,7 +1362,7 @@ var pixId=96;
 
 <!-- START CHARTBEAT FOOTER CODE -->
 <script type="text/javascript">
-var _sf_async_config={uid:19787,domain:"startribune.com"};
+var _sf_async_config={uid:19787,domain:"startribune.com",sections:s.channel,authors:s.prop35};
 (function(){
     function loadChartbeat() {
         window._sf_endpt = (new Date()).getTime();
@@ -1131,23 +1374,33 @@ var _sf_async_config={uid:19787,domain:"startribune.com"};
             "js/chartbeat.js");
         document.body.appendChild(e);
     }
-    var oldonload = window.onload;
-    window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+jQuery(function(){loadChartbeat();});
 })();
 </script>
 <!-- END CHARTBEAT FOOTER CODE -->
+
 <script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
 <!-- 
 var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=112852084";_q+="&7=760434";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=112852084";_qc+="&7=760434";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=112852084&7=760434&18=0.2056863968606304">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=112852084&7=760434&25=0&18=0.1813866710284664">
 </noscript>
+
+<script src="http://tags.crwdcntrl.net/c/982/cc.js?ns=_cc982" id="LOTCC_982"></script>
+<script type="text/javascript">
+	if(rdb && rdb != "undefined"){
+		_cc982.add("gen",gender);
+		_cc982.add("age",age);
+		_cc982.add("ctax","Registration Data^Zip Code^" + zip);
+	}
+	_cc982.bcp();
+</script>
 
 
 	
 
 
 
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+</body></html>
