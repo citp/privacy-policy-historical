@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodcraft.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218200118id_/http%3A//www.woodcraft.com/Static/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodcraft.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616185525id_/http%3A//www.woodcraft.com/Static/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Woodcraft's Privacy Policy
 
@@ -27,7 +27,7 @@ When you enter a contest or other promotional feature, we may ask for your name,
 
 We personalize your shopping experience by using your purchases to shape our recommendations about other merchandise that might be of interest to you. We also monitor customer traffic patterns and site usage to help us develop the design and layout of the store. 
 
-The information collected by our website may include: Any details you enter and submit, such as name, address, email address, etc. Your IP address, referrer, web pages you visit and other data normally stored in website logs. Session information stored in cookies that are used to ensure accurate data is extracted from our systems. These cookies do not include any personal data. Preference data, submitted directly or indirectly, such as your favorite brands, colors, or sizes. Under no circumstances will we hold sensitive payment details such as your credit card number, expiry date and security code.
+The information collected by our website may include: Any details you enter and submit, such as name, address, email address, etc. Your IP address, referrer, web pages you visit and other data normally stored in website logs. Session information stored in cookies that are used to ensure accurate data is extracted from our systems. These cookies do not include any personal data. Under no circumstances will we hold sensitive payment details such as your credit card number, expiry date and security code.
 
 Any information we collect will be used in accordance with applicable laws for the following purposes: To comply with legal requirements. In certain cases, we may use your email address to send you information about products, services, or in support of a transaction – completed or otherwise. In such a case, you will be offered the option to opt in/out. We may use personal information for auditing, research and analysis to operate and improve our technologies and services.
 
@@ -37,13 +37,33 @@ Personal information is collected when an account is set up for a purchase trans
 
 Woodcraft maintains a strict "no-spam" policy. Your e-mail address will never be sold to a third party. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems. We restrict access to personal information to Woodcraft employees, contractors and agents who need to know that information in order to operate, develop or improve our services. 
 
+Woodcraft also offers a buyer bond or guaranteed purchase through buySAFE. buySAFE provides shoppers with ultimate peace of mind by giving them a confident and guaranteed shopping experience when they buy from a buySAFE Merchant. buySAFE offers you a 3-in-1 Guarantee for Total Peace of Mind with a 30 day guarantee that includes: 
+
+> 1\. A Purchase Guarantee.  
+>      Full 3rd party guarantee of your purchase terms of sale.  
+>      If you paid for the Guarantee, a Guarantee of up to $25,000 is provided.  
+>      If you received the Guarantee for free from the merchant (i.e. Woodcraft), a Purchase Guarantee of up to $1,000 is provided  
+>  2\. ID Theft Protection up to $10,000.   
+>      Comprehensive identity theft coverage to safeguard your personal information.  
+>  3\. Lowest Price Guarantee up to $100.   
+>      If the same store's published price drops within 30 days of a purchase, buySAFE pays the difference
+
+To learn more about the buySAFE program, click [here](http://www.buysafe.com/buyer_benefits/overview.html). To view your bond / guarantee click [here](http://www.buysafe.com/web/ViewYourBond/ViewYourBond.aspx). 
+
 What about "cookies"? 
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide features such as 1-Click shopping and to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features in our store, including placing items in your shopping cart and purchasing them. 
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide features such as storring your items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features in our store, including placing items in your shopping cart and purchasing them.
+
+Woodcraft participates in remarketing efforts on Google. As a result, Woodcraft permits: 
+
+> Third party vendors, including Google, to show our ads on sites on the internet.  
+>  Third party vendors, including Google, to use cookies to serve ads based on a user's prior visits to your website.  
+>  You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/).  
+> 
 
 Our commitment to children's privacy 
 
-Woodcraft's web site contains no objectionable material and is considered to be "child safe." Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+Woodcraft's web site contains no objectionable material and is considered to be "child safe." Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information on our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
 In summary
 
