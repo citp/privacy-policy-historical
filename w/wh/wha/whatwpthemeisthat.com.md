@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatwpthemeisthat.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218005221id_/http%3A//whatwpthemeisthat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatwpthemeisthat.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616182917id_/http%3A//whatwpthemeisthat.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - What WordPress Theme Is That?
 
