@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eshopworld.com privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126183325id_/http%3A//www.eshopworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eshopworld.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616100613id_/http%3A//www.eshopworld.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy – eShopWorld
 
@@ -34,7 +34,7 @@ We are not responsible for the privacy policy of other websites.
 
 ### Terms of Use
 
-Our Terms of Use can be found by clicking on this link [Terms of Use](https://web.archive.org/web/20110126183325id_/http%3A//www.eshopworld.com/terms.html)
+Our Terms of Use can be found by clicking on this link [Terms of Use](https://web.archive.org/web/20120616100613id_/http%3A//www.eshopworld.com/terms.html)
 
 ### Changes to our Privacy Policy
 
