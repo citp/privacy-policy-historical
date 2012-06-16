@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kidsfootlocker.com privacy policy that was archived on 2011-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216212843id_/http%3A//www.kidsfootlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kidsfootlocker.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617005252id_/http%3A//www.kidsfootlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.-->
 
 <html xmlns:fb="http://www.facebook.com/2008/fbml"><head><script language="JavaScript">
 function openBMLWindow(url,height) {
@@ -23,7 +23,7 @@ function openInvestWin(url) {
 <!-- -->
 
 
-	<!-- web-42 -->
+	<!-- web-44 -->
 	<meta name="msvalidate.01" content="EDC57CBB5433904007B934915238FE4A">
 
     <title>Kids Foot Locker</title>
@@ -34,7 +34,7 @@ function openInvestWin(url) {
 
 	<script language="JavaScript" src="http://answers.kidsfootlocker.com/answers/9055/static/bazaarvoiceQA.js" type="text/javascript"></script>
 
-<meta http-equiv="published" content="Friday, December 16, 2011 3:28:43">
+<meta http-equiv="published" content="Saturday, June 16, 2012 7:52:52">
 
 
 
@@ -115,6 +115,10 @@ var sizeSearchActionURL = 'http://www.kidsfootlocker.com/includes/sizeSearchForm
 		var logoutPath = "http://www.kidsfootlocker.com/account/default.cfm?action=accountSignOut";
 		
 			var thisurl = window.location.toString();
+			// remove any anchor reference in the url so that the page can reload with updated login status
+			if (thisurl.indexOf("#") > 0) {
+				thisurl = thisurl.split("#")[0];
+			}
 			var regex = "/" + "&bvdisplaycode=[a-zA-Z0-9%._&=]*" + "/g";
 			if (thisurl.indexOf('&bvdisplaycode=') > 0 && thisurl.indexOf('submitReview') < 0) {
 				thisurl = thisurl.replace(eval(regex), '');
@@ -228,7 +232,7 @@ try { document.domain = "kidsfootlocker.com"; } catch(exc){}
 
                 </style>
             
-<script language="javascript1.1" src="/shared/coremetrics/eluminate.js" type="text/javascript"></script>
+<script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
 
 <script language="javascript1.1" src="http://www.kidsfootlocker.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
 
@@ -256,9 +260,10 @@ try { document.domain = "kidsfootlocker.com"; } catch(exc){}
 
 	
 
-<script language="javascript1.1" src="/shared/coremetrics/eluminate.js" type="text/javascript"></script>
+<script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
 
 <script language="javascript1.1" src="http://www.kidsfootlocker.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
+<script type="text/javascript" language="javascript" src="/ns/common/js/dd_mod.js"></script>
 <script type="text/javascript" language="javascript" src="/ns/chat/js/hours-toggle.js"></script> 
 <script type="text/javascript" language="javascript" src="/ns/common/js/responseLiveChat.js"></script>
 <script type="text/javascript" language="javascript">
@@ -268,8 +273,9 @@ $(document).ready(function() {
 </script>
 
 
-
-<link rel="stylesheet" type="text/css" href="/ns/css/combine_holiday_v1.2.css">
+<link rel="stylesheet" type="text/css" href="/ns/css/combine_styles_v5.7.css">
+<link rel="stylesheet" type="text/css" href="/ns/shadowbox/shadowbox.css">
+<script type="text/javascript" language="javascript" src="/ns/common/js/shadowbox-jquery.js"></script>
 
 <!--[if lt IE 7]>
 <style type="text/css">
@@ -305,7 +311,7 @@ $(document).ready(function() {
     </div>
     <div id="kfl-custserv-links">
         <a class="no-border" href="http://www.kidsfootlocker.com/customerserv/" title="Customer Service">Help</a>
-        <a title="Wish List" href="https://www.kidsfootlocker.com/wishlist">Wish List</a>
+        <a title="Wish List" href="https://www.kidsfootlocker.com/wishlist/">Wish List</a>
         <a href="https://www.kidsfootlocker.com/account/default/" title="My Account">My Account / VIP Log In</a>
         <a href="https://www.kidsfootlocker.com/account/default/action--orderStatus/" title="Order Status">Order Status</a>
     </div>
@@ -321,14 +327,33 @@ $(document).ready(function() {
 </div>
 	</div>
     <div id="kfl-advancedsearch-wrap">
-        <form name="keywordSearch" action="http://www.kidsfootlocker.com/searchresults/" method="GET" id="kfl-searchform">
+        <form name="keywordSearch" action="/catalog/advancedSearch.cfm" method="GET" id="kfl-searchform">
             <input type="hidden" name="search" value="k">
             <input type="text" id="reduce_input_text_height" name="keyword" size="15" maxlength="40" value="keyword / product #" onfocus="clickSearch(this);">
         </form>
-        <a href="javascript:keywordSubmit();"><img src="http://www.kidsfootlocker.com/images/kfl/global/pixel.gif" width="43" height="35" alt="Kids Foot Locker Search" title="SEARCH" vspace="1" hspace="0" border="0" align="absmiddle" class="kfl-submitbutton"></a>
+
+<script type="text/javascript" src="/ns/common/js/keyword-search.js"></script>
+
+
+
+
+
+
+
+        <a href="javascript:submitKeywordSearch();"><img src="http://www.kidsfootlocker.com/images/kfl/global/pixel.gif" width="43" height="35" alt="Kids Foot Locker Search" title="SEARCH" vspace="1" hspace="0" border="0" align="absmiddle" class="kfl-submitbutton"></a>
     </div>
     <div id="kfl-store-info"><div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'false', 'true')" id="guest_welcome_login" rel="nofollow">log in</a> 
 								or <a href="https://www.kidsfootlocker.com/account/default.cfm?action=accountCreate" rel="nofollow">register</a>.</span></div></div>
+    <div id="header_social">
+      <div class="fb_rollover"><a href="javascript:void(0);" alt="Facebook - Recent Activities" title="Facebook - Recent Activities" onclick="mopen('m1')" onmouseout="mclosetime()"><img src="//www.champssports.com/images/cs/global/pixel.gif" border="0" height="23" width="23" alt="Facebook"></a>
+      <div id="m1" class="fb_drop" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <div class="fb-recent-activities">
+          <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fkidsfootlocker&amp;width=438&amp;height=395&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=true&amp;header=false&amp;appId=134365333327857" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:438px; height:395px;" allowtransparency="true"></iframe>
+        </div>
+      </div>
+      </div>
+      <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fkidsfootlocker&amp;send=false&amp;layout=button_count&amp;width=83&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=134365333327857" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:83px; height:21px;" allowtransparency="true"></iframe>
+    </div>
     <!-- ------ START GLOBAL NAV ------ -->
     
     <script type="text/javascript" language="javascript" src="/ns/js/delay.js"></script>
@@ -343,41 +368,46 @@ $(document).ready(function() {
             <div onmouseover="openTab(this, 'navButtonJordan');" onmouseout="closeTab(this);">
                 <ul>
                     <li>
-                        <div class="navBtn navButtonJordan"><a href="http://www.kidsfootlocker.com/promotion/promoId:5003958/kids-jordans/?cm=TnJordanSupcat" title="Kids Jordans"><img src="http://www.kidsfootlocker.com/images/kfl/global/pixel.gif" width="120" height="40" border="0"><span>Kids Jordan</span></a></div>
+                        <div class="navBtn navButtonJordan"><a href="http://www.kidsfootlocker.com/kids-jordans/?cm=TnJordanSupcat" title="Kids Jordans"><img src="http://www.kidsfootlocker.com/images/kfl/global/pixel.gif" width="120" height="40" border="0"><span>Kids Jordan</span></a></div>
                         <div class="sticker_menu menu_size_2">
                             <div class="sticker_menu_inner">
                                 <div class="dd_column">
-                                    <div class="m-title"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+shoes/?cm_sp=TopNav-_-Jordan-_-Jordanshoes&amp;cm=TnDdjordanshoes/" title="Kids Jordan Shoes">Jordan Shoes</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+basketball+shoes/?cm_sp=TopNav-_-Jordan-_-Jordanbasketballshoes&amp;cm=TnDdjordanbasketballshoes/" title="Kids Jordan Basketball Shoes">Jordan Basketball Shoes</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+casual+shoes/?cm_sp=TopNav-_-Jordan-_-Jordancasualshoes&amp;cm=TnDdjordancasualshoes/ " title="Kids Jordan Casual Shoes">Jordan Casual Shoes</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+sandals/?cm_sp=TopNav-_-Jordan-_-Jordansandals&amp;cm=TnDdjordansandals/ " title="Kids Jordan Sandals">Jordan Sandals</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:sale+kids+jordan+shoes/?cm_sp=TopNav-_-Jordan-_-Salejordanshoes&amp;cm=TnDdsalejordanshoes/ " title="Sale Kids Jordan Shoes">Sale Jordan Shoes</a></div>
+                                    <div class="m-title"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+shoes?cm_sp=TopNav-_-Jordan-_-Jordanshoes&amp;cm=TnDdjordanshoes/" title="Kids Jordan Shoes">Jordan Shoes</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/N-1z141xe/keyword-kids+jordan+shoes?cm_sp=TopNav-_-Jordan_-JordanNewshoes&amp;cm=TnDdjordannewarrivalshoes" title="Jordan New Arrivals"><font color="red">New Arrivals</font></a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+basketball+shoes?cm_sp=TopNav-_-Jordan-_-Jordanbasketballshoes&amp;cm=TnDdjordanbasketballshoes" title="Kids Jordan Basketball Shoes">Jordan Basketball Shoes</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+casual+shoes?cm_sp=TopNav-_-Jordan-_-Jordancasualshoes&amp;cm=TnDdjordancasualshoes" title="Kids Jordan Casual Shoes">Jordan Casual Shoes</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+sandals?cm_sp=TopNav-_-Jordan-_-Jordansandals&amp;cm=TnDdjordansandals" title="Kids Jordan Sandals">Jordan Sandals</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-sale+kids+jordan+shoes?cm_sp=TopNav-_-Jordan-_-Salejordanshoes&amp;cm=TnDdsalejordanshoes" title="Sale Kids Jordan Shoes">Sale Jordan Shoes</a></div>
                                 </div>
+
         
+
                                 <div class="dd_column">                           
-                                    <div class="m-title"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+clothing/?cm_sp=TopNav-_-Jordan-_-Jordanclothing&amp;cm=TnDdjordanclothing/ " title="Kids Jordan Clothing">Jordan Clothing</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+t+shirts/?cm_sp=TopNav-_-Jordan-_-Jordant-shirts&amp;cm=TnDdjordant-shirts/" title="Kids Jordan T-Shirts">Jordan T-Shirts</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+shorts/?cm_sp=TopNav-_-Jordan-_-Jordanshorts&amp;cm=TnDdjordanshorts/ " title="Kids Jordan Shorts">Jordan Shorts</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+pants/?cm_sp=TopNav-_-Jordan-_-Jordanpants&amp;cm=TnDdjordanpants/ " title="Kids Jordan Pants">Jordan Pants</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+hoodies/?cm_sp=TopNav-_-Jordan-_-Jordanhoodies&amp;cm=TnDdjordanhoodies/ " title="Kids Jordan Hoodies">Jordan Hoodies</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+hats/?cm_sp=TopNav-_-Jordan-_-Jordanhats&amp;cm=TnDdjordanhats/ " title="Kids Jordan Hats">Jordan Hats</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+jackets/?cm_sp=TopNav-_-Jordan-_-Jordanjackets&amp;cm=TnDdjordanjackets/ " title="Kids Jordan Jackets">Jordan Jackets</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:sale+kids+jordan+clothing/?cm_sp=TopNav-_-Jordan-_-Salejordanclothing&amp;cm=TnDdsalejordanclothing/ " title="Sale Kids Jordan Clothing">Sale Jordan Clothing</a></div>
+                                    <div class="m-title"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+clothing?cm_sp=TopNav-_-Jordan-_-Jordanclothing&amp;cm=TnDdjordanclothing" title="Kids Jordan Clothing">Jordan Clothing</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/N-1z141xe/keyword-kids+jordan+clothing?cm_sp=TopNav-_-Jordan_-JordanNewcloth&amp;cm=TnDdjordannewarrivalcloth" title="Jordan New Arrivals"><font color="red">New Arrivals</font></a></div>
+                                    
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+t+shirts?cm_sp=TopNav-_-Jordan-_-Jordant-shirts&amp;cm=TnDdjordant-shirts" title="Kids Jordan T-Shirts">Jordan T-Shirts</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+shorts?cm_sp=TopNav-_-Jordan-_-Jordanshorts&amp;cm=TnDdjordanshorts" title="Kids Jordan Shorts">Jordan Shorts</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+pants?cm_sp=TopNav-_-Jordan-_-Jordanpants&amp;cm=TnDdjordanpants" title="Kids Jordan Pants">Jordan Pants</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+hoodies?cm_sp=TopNav-_-Jordan-_-Jordanhoodies&amp;cm=TnDdjordanhoodies" title="Kids Jordan Hoodies">Jordan Hoodies</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+hats?cm_sp=TopNav-_-Jordan-_-Jordanhats&amp;cm=TnDdjordanhats" title="Kids Jordan Hats">Jordan Hats</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+jackets?cm_sp=TopNav-_-Jordan-_-Jordanjackets&amp;cm=TnDdjordanjackets" title="Kids Jordan Jackets">Jordan Jackets</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-sale+kids+jordan+clothing?cm_sp=TopNav-_-Jordan-_-Salejordanclothing&amp;cm=TnDdsalejordanclothing" title="Sale Kids Jordan Clothing">Sale Jordan Clothing</a></div>
                                 </div>
                                 
                                 <div class="dd_column col_narrow">
                                     <div class="m-title">Top Sellers</div>                           
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+retro/?cm_sp=TopNav-_-Jordan-_-Jordanretro&amp;cm=TnDdjordanretro/" title="Kids Jordan Retro">Jordan Retro</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+flight/?cm_sp=TopNav-_-Jordan-_-Jordanflight&amp;cm=TnDdjordanflight/" title="Kids Jordan Flight">Jordan Flight</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+aftergame/?cm_sp=TopNav-_-Jordan-_-Jordanaftergame&amp;cm=TnDdjordanaftergame/" title="Kids Jordan Aftergame">Jordan Aftergame</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+teamelite/?cm_sp=TopNav-_-Jordan-_-Jordanteamelite&amp;cm=TnDdjordanteamelite/" title="Kids Jordan Team Elite">Jordan Team Elite</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+hydro/?cm_sp=TopNav-_-Jordan-_-Jordanhydro&amp;cm=TnDdjordanhydro/" title="Kids Jordan Hydro">Jordan Hydro</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+retro?cm_sp=TopNav-_-Jordan-_-Jordanretro&amp;cm=TnDdjordanretro" title="Kids Jordan Retro">Jordan Retro</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+flight?cm_sp=TopNav-_-Jordan-_-Jordanflight&amp;cm=TnDdjordanflight" title="Kids Jordan Flight">Jordan Flight</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+aftergame?cm_sp=TopNav-_-Jordan-_-Jordanaftergame&amp;cm=TnDdjordanaftergame" title="Kids Jordan Aftergame">Jordan Aftergame</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+teamelite?cm_sp=TopNav-_-Jordan-_-Jordanteamelite&amp;cm=TnDdjordanteamelite" title="Kids Jordan Team Elite">Jordan Team Elite</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+hydro?cm_sp=TopNav-_-Jordan-_-Jordanhydro&amp;cm=TnDdjordanhydro" title="Kids Jordan Hydro">Jordan Hydro</a></div>
                                 </div>
                                 
                                 <div class="clear">&nbsp;</div>
                                 
                                 <div class="dd_column col_wider">                           
-                                    <div class="m-title"><a href="http://www.kidsfootlocker.com/searchresults/keyword:jordan+accessories/?cm_sp=TopNav-_-Jordan-_-Jordanaccess&amp;cm=TnDdjordanaccess/" title="Kids Jordan Accessories">Jordan Accessories</a></div>
+                                    <div class="m-title"><a href="http://www.kidsfootlocker.com/_-_/keyword-jordan+accessories?cm_sp=TopNav-_-Jordan-_-Jordanaccess&amp;cm=TnDdjordanaccess" title="Kids Jordan Accessories">Jordan Accessories</a></div>
                                 </div>
                                 
                             </div><!-- close sticker_menu_inner -->
@@ -393,45 +423,48 @@ $(document).ready(function() {
             <div onmouseover="openTab(this, 'navButtonNike');" onmouseout="closeTab(this);">
                 <ul>
                     <li>
-                        <div class="navBtn navButtonNike"><a href="http://www.kidsfootlocker.com/promotion/promoId:5004007/kids-nike/?cm=TnNikeSupcat" title="Kids Nike"><img src="http://www.kidsfootlocker.com/images/kfl/global/pixel.gif" width="87" height="40" border="0"><span>Kids Nike</span></a></div>
+                        <div class="navBtn navButtonNike"><a href="http://www.kidsfootlocker.com/kids-nike/?cm=TnNikeSupcat" title="Kids Nike"><img src="http://www.kidsfootlocker.com/images/kfl/global/pixel.gif" width="87" height="40" border="0"><span>Kids Nike</span></a></div>
                         <div class="sticker_menu menu_size_2">
                             <div class="sticker_menu_inner">
                             
                                 <div class="dd_column">
-                                    <div class="m-title"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+shoes/?cm_sp=TopNav-_-Nike-_-Nikeshoes&amp;cm=TnDdnikeshoes/" title="KIDS Nike Shoes">Nike Shoes</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+running+shoes/?cm_sp=TopNav-_-Nike-_-Nikerunningshoes&amp;cm=TnDdnikerunningshoes/" title="Kids Nike Running Shoes">Nike Running Shoes</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+basketball+shoes/?cm_sp=TopNav-_-Nike-_-Nikebasketballshoes&amp;cm=TnDdnikebasketballshoes/" title="Kids Nike Basketball Shoes">Nike Basketball Shoes</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+training+shoes/?cm_sp=TopNav-_-Nike-_-Niketrainingshoes&amp;cm=TnDdniketrainingshoes/" title="Kids Nike Training Shoes">Nike Training Shoes</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+casual+shoes/?cm_sp=TopNav-_-Nike-_-Nikecasualshoes&amp;cm=TnDdnikecasualshoes/" title="Kids Nike Casual Shoes">Nike Casual Shoes</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+boots/?cm_sp=TopNav-_-Nike-_-Nikeboots&amp;cm=TnDdnikeboots/" title="Kids Nike Boots">Nike Boots</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+sandals/?cm_sp=TopNav-_-Nike-_-Nikesandals&amp;cm=TnDdnikesandals/" title="Kids Nike Sandals">Nike Sandals</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+cleats/?cm_sp=TopNav-_-Nike-_-Nikecleats&amp;cm=TnDdnikecleats/" title="Kids Nike Cleats">Nike Cleats</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:sale+kids+nike+shoes/?cm_sp=TopNav-_-Nike-_-Salenikeshoes&amp;cm=TnDdsalenikeshoes/" title="Sale Kids Nike Shoes">Sale Nike Shoes</a></div>
+                                    <div class="m-title"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+shoes?cm_sp=TopNav-_-Nike-_-Nikeshoes&amp;cm=TnDdnikeshoes" title="KIDS Nike Shoes">Nike Shoes</a></div>
+                                    
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/N-1z141xe/keyword-kids+shoes?cm_sp=TopNav-_-Nike_-NikeNewshoes&amp;cm=TnDdnikenewarrivalshoes" title="Nike New Arrivals"><font color="red">New Arrivals</font></a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+running+shoes?cm_sp=TopNav-_-Nike-_-Nikerunningshoes&amp;cm=TnDdnikerunningshoes" title="Kids Nike Running Shoes">Nike Running Shoes</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+basketball+shoes?cm_sp=TopNav-_-Nike-_-Nikebasketballshoes&amp;cm=TnDdnikebasketballshoes" title="Kids Nike Basketball Shoes">Nike Basketball Shoes</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+training+shoes?cm_sp=TopNav-_-Nike-_-Niketrainingshoes&amp;cm=TnDdniketrainingshoes" title="Kids Nike Training Shoes">Nike Training Shoes</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+casual+shoes?cm_sp=TopNav-_-Nike-_-Nikecasualshoes&amp;cm=TnDdnikecasualshoes" title="Kids Nike Casual Shoes">Nike Casual Shoes</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+boots?cm_sp=TopNav-_-Nike-_-Nikeboots&amp;cm=TnDdnikeboots" title="Kids Nike Boots">Nike Boots</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+sandals?cm_sp=TopNav-_-Nike-_-Nikesandals&amp;cm=TnDdnikesandals" title="Kids Nike Sandals">Nike Sandals</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+cleats?cm_sp=TopNav-_-Nike-_-Nikecleats&amp;cm=TnDdnikecleats" title="Kids Nike Cleats">Nike Cleats</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-sale+kids+nike+shoes?cm_sp=TopNav-_-Nike-_-Salenikeshoes&amp;cm=TnDdsalenikeshoes" title="Sale Kids Nike Shoes">Sale Nike Shoes</a></div>
                                 </div>
                                 <div class="dd_column">
-                                    <div class="m-title"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+clothing/?cm_sp=TopNav-_-Nike-_-Nikeclothing&amp;cm=TnDdnikeclothing/" title="Kids Nike Clothing">Nike Clothing</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+t+shirts/?cm_sp=TopNav-_-Nike-_-Niket-shirts&amp;cm=TnDdniket-shirts/" title="Kids Nike T-Shirts">Nike T-Shirts</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+shorts/?cm_sp=TopNav-_-Nike-_-Nikeshorts&amp;cm=TnDdnikeshorts/" title="Kids Nike Shorts">Nike Shorts</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+pants/?cm_sp=TopNav-_-Nike-_-Nikepants&amp;cm=TnDdnikepants/" title="Kids Nike Pants">Nike Pants</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+hoodies/?cm_sp=TopNav-_-Nike-_-Nikehoodies&amp;cm=TnDdnikehoodies/" title="Kids Nike Hoodies">Nike Hoodies</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+hats/?cm_sp=TopNav-_-Nike-_-Nikehats&amp;cm=TnDdnikehats/" title="Kids Nike Hats">Nike Hats</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+jackets/?cm_sp=TopNav-_-Nike-_-Nikejackets&amp;cm=TnDdnikejackets/" title="Kids Nike Jackets">Nike Jackets</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+jerseys/?cm_sp=TopNav-_-Nike-_-Nikejerseys&amp;cm=TnDdnikejerseys/" title="Kids Nike Jerseys">Nike Jerseys</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:sale+kids+nike+clothing/?cm_sp=TopNav-_-Nike-_-Salenikeclothing&amp;cm=TnDdsalenikeclothing/" title="Sale Kids Nike Clothing">Sale Nike Clothing</a></div>
+                                    <div class="m-title"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+clothing?cm_sp=TopNav-_-Nike-_-Nikeclothing&amp;cm=TnDdnikeclothing" title="Kids Nike Clothing">Nike Clothing</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/N-1z141xe/keyword-kids+nike+clothing?cm_sp=TopNav-_-Nike_-Nikeclothingnew&amp;cm=TnDdnikenewarrivalcloth" title="Nike New Arrivals"><font color="red">New Arrivals</font></a></div>
+                                    
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+t+shirts?cm_sp=TopNav-_-Nike-_-Niket-shirts&amp;cm=TnDdniket-shirts" title="Kids Nike T-Shirts">Nike T-Shirts</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+shorts?cm_sp=TopNav-_-Nike-_-Nikeshorts&amp;cm=TnDdnikeshorts" title="Kids Nike Shorts">Nike Shorts</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+pants?cm_sp=TopNav-_-Nike-_-Nikepants&amp;cm=TnDdnikepants" title="Kids Nike Pants">Nike Pants</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+hoodies?cm_sp=TopNav-_-Nike-_-Nikehoodies&amp;cm=TnDdnikehoodies" title="Kids Nike Hoodies">Nike Hoodies</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+hats?cm_sp=TopNav-_-Nike-_-Nikehats&amp;cm=TnDdnikehats" title="Kids Nike Hats">Nike Hats</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+jackets?cm_sp=TopNav-_-Nike-_-Nikejackets&amp;cm=TnDdnikejackets" title="Kids Nike Jackets">Nike Jackets</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+jerseys?cm_sp=TopNav-_-Nike-_-Nikejerseys&amp;cm=TnDdnikejerseys" title="Kids Nike Jerseys">Nike Jerseys</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-sale+kids+nike+clothing?cm_sp=TopNav-_-Nike-_-Salenikeclothing&amp;cm=TnDdsalenikeclothing" title="Sale Kids Nike Clothing">Sale Nike Clothing</a></div>
                                 </div>
                                 <div class="dd_column col_narrow">                            
                                     <div class="m-title">Top Sellers</div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+shox/?cm_sp=TopNav-_-Nike-_-Nikeshox&amp;cm=TnDdnikeshox/" title="Kids Nike Shox">Nike Shox</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+air+max+shoes/?cm_sp=TopNav-_-Nike-_-Nikeairmax&amp;cm=TnDdnikeairmax/" title="Kids Nike Air Max Shoes">Nike Air Max</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+air+force+1/?cm_sp=TopNav-_-Nike-_-Nikekobe&amp;cm=TnDdnikekobe/" title="Kids Nike Air Force 1">Nike Air Force 1</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+kobe/?cm_sp=TopNav-_-Nike-_-Nikefree&amp;cm=TnDdnikefree/" title="Kids Nike Kobe">Nike Kobe</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+free/?cm_sp=TopNav-_-Nike-_-Nikefree&amp;cm=TnDdnikefree/" title="Kids Nike Free">Nike Free</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+cortez/?cm_sp=TopNav-_-Nike-_-Nikecortez&amp;cm=TnDdnikecortez/" title="Kids Nike Cortez">Nike Cortez</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+lebron/?cm_sp=TopNav-_-Nike-_-Nikelebron&amp;cm=TnDdnikelebron/" title="Kids Nike LeBron">Nike LeBron</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+6.0/?cm_sp=TopNav-_-Nike-_-Nike6.0&amp;cm=TnDdnike6.0/" title="Kids Nike 6.0">Nike 6.0</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+shox?cm_sp=TopNav-_-Nike-_-Nikeshox&amp;cm=TnDdnikeshox" title="Kids Nike Shox">Nike Shox</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+air+max+shoes?cm_sp=TopNav-_-Nike-_-Nikeairmax&amp;cm=TnDdnikeairmax" title="Kids Nike Air Max Shoes">Nike Air Max</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+air+force+1?cm_sp=TopNav-_-Nike-_-Nikekobe&amp;cm=TnDdnikekobe" title="Kids Nike Air Force 1">Nike Air Force 1</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+kobe?cm_sp=TopNav-_-Nike-_-Nikefree&amp;cm=TnDdnikefree" title="Kids Nike Kobe">Nike Kobe</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+free?cm_sp=TopNav-_-Nike-_-Nikefree&amp;cm=TnDdnikefree" title="Kids Nike Free">Nike Free</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+cortez?cm_sp=TopNav-_-Nike-_-Nikecortez&amp;cm=TnDdnikecortez" title="Kids Nike Cortez">Nike Cortez</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+lebron?cm_sp=TopNav-_-Nike-_-Nikelebron&amp;cm=TnDdnikelebron" title="Kids Nike LeBron">Nike LeBron</a></div>
                                 </div>
                                 <div class="dd_column">
-                                    <div class="m-title"><a href="http://www.kidsfootlocker.com/searchresults/keyword:nike+accessories/?cm_sp=TopNav-_-Nike-_-Nikeaccessories&amp;cm=TnDdnikeaccessories/" title="Kids Nike Accessories">Nike Accessories</a></div>
+                                    <div class="m-title"><a href="http://www.kidsfootlocker.com/_-_/keyword-nike+accessories?cm_sp=TopNav-_-Nike-_-Nikeaccessories&amp;cm=TnDdnikeaccessories" title="Kids Nike Accessories">Nike Accessories</a></div>
                                 </div>
                                 
                             </div><!-- close sticker_menu_inner -->
@@ -447,43 +480,44 @@ $(document).ready(function() {
             <div onmouseover="openTab(this, 'navButtonShoes');" onmouseout="closeTab(this);">
                 <ul>
                     <li>
-                        <div class="navBtn navButtonShoes"><a href="http://www.kidsfootlocker.com/promotion/promoId:5003959/kids-shoes/?cm=TnShoesSupcat" title="Kids Shoes"><img src="http://www.kidsfootlocker.com/images/kfl/global/pixel.gif" width="110" height="40" border="0"><span>Kids Shoes</span></a></div>
+                        <div class="navBtn navButtonShoes"><a href="http://www.kidsfootlocker.com/kids-shoes/?cm=TnShoesSupcat" title="Kids Shoes"><img src="http://www.kidsfootlocker.com/images/kfl/global/pixel.gif" width="110" height="40" border="0"><span>Kids Shoes</span></a></div>
                         <div class="sticker_menu menu_size_2">
                             <div class="sticker_menu_inner">
                             
                                 <div class="dd_column">
                                     <div class="m-title">Shoes</div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+basketball+shoes/?cm_sp=TopNav-_-Shoes_-Shoesbasketball&amp;cm=TnDdshoesbasketball/" title="Kids Basketball Shoes">Basketball Shoes</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+boots/?cm_sp=TopNav-_-Shoes-_-Shoesboots&amp;cm=TnDdshoesboots/" title="Kids Boots">Boots</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+casual+shoes/?cm_sp=TopNav-_-Shoes-_-Shoescasual&amp;cm=TnDdshoescasual/" title="Kids Casual Shoes">Casual Shoes</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+training+shoes/?cm_sp=TopNav-_-Shoes-_-Shoestraining&amp;cm=TnDdshoestraining/" title="Kids Training Shoes">Training Shoes</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+running+shoes/?cm_sp=TopNav-_-Shoes-_-Shoesrunning&amp;cm=TnDdshoesrunning/" title="Kids Running Shoes">Running Shoes</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+sandals/?cm_sp=TopNav-_-Shoes-_-Shoessandals&amp;cm=TnDdshoessandals/" title="Kids Sandals">Sandals</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+cleats/?cm_sp=TopNav-_-Shoes-_-Shoescleats&amp;cm=TnDdshoescleats/" title="Kids Cleats">Cleats</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+wrestling+shoes/?cm_sp=TopNav-_-Shoes-_-Shoeswrestling&amp;cm=TnDdshoeswrestling/" title="Kids Wrestling Shoes">Wrestling Shoes</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:sale+kids+shoes/?cm_sp=TopNav-_-Shoes-_-Shoessale&amp;cm=TnDdshoessale/" title="Sale Kids Shoes">Sale</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/N-1z141xe/keyword-kids+shoes?cm_sp=TopNav-_-Shoes_-ShoesNew&amp;cm=TnDdshoesnewarrivals" title="Kids Shoes New Arrivals"><font color="red">New Arrivals</font></a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+basketball+shoes?cm_sp=TopNav-_-Shoes_-Shoesbasketball&amp;cm=TnDdshoesbasketball" title="Kids Basketball Shoes">Basketball Shoes</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+boots?cm_sp=TopNav-_-Shoes-_-Shoesboots&amp;cm=TnDdshoesboots" title="Kids Boots">Boots</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+casual+shoes?cm_sp=TopNav-_-Shoes-_-Shoescasual&amp;cm=TnDdshoescasual" title="Kids Casual Shoes">Casual Shoes</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+training+shoes?cm_sp=TopNav-_-Shoes-_-Shoestraining&amp;cm=TnDdshoestraining" title="Kids Training Shoes">Training Shoes</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+running+shoes?cm_sp=TopNav-_-Shoes-_-Shoesrunning&amp;cm=TnDdshoesrunning" title="Kids Running Shoes">Running Shoes</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+sandals?cm_sp=TopNav-_-Shoes-_-Shoessandals&amp;cm=TnDdshoessandals" title="Kids Sandals">Sandals</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+cleats?cm_sp=TopNav-_-Shoes-_-Shoescleats&amp;cm=TnDdshoescleats" title="Kids Cleats">Cleats</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+wrestling+shoes?cm_sp=TopNav-_-Shoes-_-Shoeswrestling&amp;cm=TnDdshoeswrestling" title="Kids Wrestling Shoes">Wrestling Shoes</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-sale+kids+shoes?cm_sp=TopNav-_-Shoes-_-Shoessale&amp;cm=TnDdshoessale" title="Sale Kids Shoes">Sale</a></div>
                                 </div>
             
                                 <div class="dd_column">
                                     <div class="m-title">Shop by Size</div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:infants/?cm_sp=TopNav-_-Shoes-_-Shoesinfants&amp;cm=TnDdshoesinfants/" title="Infants">Infant - sizes 1-3</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:toddler+shoes/?cm_sp=TopNav-_-Shoes-_-Shoestoddlers&amp;cm=TnDdshoestoddlers/" title="Toddler Shoes">Toddler - sizes 2-10</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:little+kids+shoes/?cm_sp=TopNav-_-Shoes-_-Shoeslittlekids&amp;cm=TnDdshoeslittlekids/" title="Little Kids Shoes">Little Kids - sizes 10.5-3</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:big+kids+shoes/?cm_sp=TopNav-_-Shoes-_-Shoesbigkids&amp;cm=TnDdshoesbigkids/" title="Big Kids Shoes">Big Kids - sizes 3.5-7</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-infant+shoes?cm_sp=TopNav-_-Shoes-_-Shoesinfants&amp;cm=TnDdshoesinfants" title="Infant Shoes">Infant - sizes 1-3</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-toddler+shoes?cm_sp=TopNav-_-Shoes-_-Shoestoddlers&amp;cm=TnDdshoestoddlers" title="Toddler Shoes">Toddler - sizes 2-10</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-little+kids+shoes?cm_sp=TopNav-_-Shoes-_-Shoeslittlekids&amp;cm=TnDdshoeslittlekids" title="Little Kids Shoes">Little Kids - sizes 10.5-3</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-big+kids+shoes?cm_sp=TopNav-_-Shoes-_-Shoesbigkids&amp;cm=TnDdshoesbigkids" title="Big Kids Shoes">Big Kids - sizes 3.5-7</a></div>
                                 </div>
                                 
                                 <div class="dd_column col_narrow">
                                     <div class="m-title">Shoe Brands</div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+shoes/?cm_sp=TopNav-_-Shoes-_-Shoesnike&amp;cm=TnDdshoesnike/" title="Kids Nike Shoes">Nike</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+shoes/?cm_sp=TopNav-_-Shoes-_-Shoesjordan&amp;cm=TnDdshoesjordan/" title="Kids Jordan Shoes">Jordan</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+adidas+shoes/?cm_sp=TopNav-_-Shoes-_-Shoesadidas&amp;cm=TnDdshoesadidas/" title="Kids adidas Shoes">adidas</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+adidas+originals+shoes/?cm_sp=TopNav-_-Shoes-_-Shoesadidasoriginals&amp;cm=TnDdshoesadidasoriginals/" title="Kids adidas Originals Shoes">adidas Originals</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+asics+shoes/?cm_sp=TopNav-_-Shoes-_-Shoesasics&amp;cm=TnDdshoesasics/" title="Kids Asics Shoes">ASICS</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+polo+shoes/?cm_sp=TopNav-_-Shoes-_-Shoespolo&amp;cm=TnDdshoespolo/" title="Kids Polo Shoes">Polo</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+reebok+shoes/?cm_sp=TopNav-_-Shoes-_-Shoesreebok&amp;cm=TnDdshoesreebok/" title="Kids Reebok Shoes">Reebok</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+skechers+shoes/?cm_sp=TopNav-_-Shoes-_-Shoesskechers&amp;cm=TnDdshoesskechers/" title="Kids Skechers Shoes">Skechers</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+timberland/?cm_sp=TopNav-_-Shoes-_-Shoestimberland&amp;cm=TnDdshoestimberland/" title="Kids Timberland Boots">Timberland</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/brands/category/?cm_sp=TopNav-_-Shoes-_-Shoesallbrands&amp;cm=TnDdshoesallbrands/" title="View All Brands">View All</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+shoes?cm_sp=TopNav-_-Shoes-_-Shoesnike&amp;cm=TnDdshoesnike" title="Kids Nike Shoes">Nike</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+shoes?cm_sp=TopNav-_-Shoes-_-Shoesjordan&amp;cm=TnDdshoesjordan" title="Kids Jordan Shoes">Jordan</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+adidas+shoes?cm_sp=TopNav-_-Shoes-_-Shoesadidas&amp;cm=TnDdshoesadidas" title="Kids adidas Shoes">adidas</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+adidas+originals+shoes?cm_sp=TopNav-_-Shoes-_-Shoesadidasoriginals&amp;cm=TnDdshoesadidasoriginals" title="Kids adidas Originals Shoes">adidas Originals</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+asics+shoes?cm_sp=TopNav-_-Shoes-_-Shoesasics&amp;cm=TnDdshoesasics" title="Kids Asics Shoes">ASICS</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/brand:Polo/?cm_sp=TopNav-_-Shoes-_-Shoespolo&amp;cm=TnDdshoespolo" title="Kids Polo Shoes">Polo</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+reebok+shoes?cm_sp=TopNav-_-Shoes-_-Shoesreebok&amp;cm=TnDdshoesreebok" title="Kids Reebok Shoes">Reebok</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/brand:Skechers/?cm_sp=TopNav-_-Shoes-_-Shoesskechers&amp;cm=TnDdshoesskechers" title="Kids Skechers">Skechers</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/brand:Timberland/?cm_sp=TopNav-_-Shoes-_-Shoestimberland&amp;cm=TnDdshoestimberland" title="Kids Timberland">Timberland</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/brands/category/?cm_sp=TopNav-_-Shoes-_-Shoesallbrands&amp;cm=TnDdshoesallbrands" title="View All Brands">View All</a></div>
                                 </div>
             
                             </div><!-- close sticker_menu_inner -->
@@ -499,32 +533,32 @@ $(document).ready(function() {
             <div onmouseover="openTab(this, 'navButtonClothing');" onmouseout="closeTab(this);">
                 <ul>
                     <li>
-                        <div class="navBtn navButtonClothing"><a href="http://www.kidsfootlocker.com/promotion/promoId:5003960/kids-clothing/?cm=TnClothSupcat" title="Kids Clothes"><img src="http://www.kidsfootlocker.com/images/kfl/global/pixel.gif" width="140" height="40" border="0"><span>Kids Clothing</span></a></div>
+                        <div class="navBtn navButtonClothing"><a href="http://www.kidsfootlocker.com/kids-clothing/?cm=TnClothSupcat" title="Kids Clothes"><img src="http://www.kidsfootlocker.com/images/kfl/global/pixel.gif" width="140" height="40" border="0"><span>Kids Clothing</span></a></div>
                         <div class="sticker_menu menu_size_3">
                             <div class="sticker_menu_inner">
                             
                                 <div class="dd_column col_narrow">
                                     <div class="m-title">Clothing</div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:hats/?cm_sp=TopNav-_-Clothing-_-Clothinghats&amp;cm=TnDdclothinghats/" title="Kids Hats">Hats</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+hoodies/?cm_sp=TopNav-_-Clothing-_-Clothinghoodies&amp;cm=TnDdclothinghoodies/" title="Kids Hoodies">Hoodies</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jackets/?cm_sp=TopNav-_-Clothing-_-Clothingjackets&amp;cm=TnDdclothingjackets/" title="Kids jackets">Jackets</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+pants/?cm_sp=TopNav-_-Clothing-_-Clothingpants&amp;cm=TnDdclothingpants/" title="Kids Pants">Pants</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+shorts/?cm_sp=TopNav-_-Clothing-_-Clothingshorts&amp;cm=TnDdclothingshorts/" title="Kids Shorts">Shorts</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jerseys/?cm_sp=TopNav-_-Clothing-_-Clothingjerseys&amp;cm=TnDdclothingjerseys/" title="Kids Jerseys">Jerseys</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+t+shirts/?cm_sp=TopNav-_-Clothing-_-Clothingt-shirts&amp;cm=TnDdclothingt-shirts/" title="Kids T-Shirts">T-Shirts</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jeans/?cm_sp=TopNav-_-Clothing-_-Clothingjeans&amp;cm=TnDdclothingjeans/" title="Kids Jeans">Jeans</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:sale+kids+clothing/?cm_sp=TopNav-_-Clothing-_-Clothingsale&amp;cm=TnDdclothingsale/" title="Sale Kids Clothing">Sale</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/N-1z141xe/keyword-kids+clothing?cm_sp=TopNav-_-clothing_-clothingnew&amp;cm=TnDdclothingnewarrivals" title="Kids Clothing New Arrivals"><font color="red">New Arrivals</font></a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-hats?cm_sp=TopNav-_-Clothing-_-Clothinghats&amp;cm=TnDdclothinghats" title="Kids Hats">Hats</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+hoodies?cm_sp=TopNav-_-Clothing-_-Clothinghoodies&amp;cm=TnDdclothinghoodies" title="Kids Hoodies">Hoodies</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jackets?cm_sp=TopNav-_-Clothing-_-Clothingjackets&amp;cm=TnDdclothingjackets" title="Kids jackets">Jackets</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+pants?cm_sp=TopNav-_-Clothing-_-Clothingpants&amp;cm=TnDdclothingpants" title="Kids Pants">Pants</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+shorts?cm_sp=TopNav-_-Clothing-_-Clothingshorts&amp;cm=TnDdclothingshorts" title="Kids Shorts">Shorts</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jerseys?cm_sp=TopNav-_-Clothing-_-Clothingjerseys&amp;cm=TnDdclothingjerseys" title="Kids Jerseys">Jerseys</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+t+shirts?cm_sp=TopNav-_-Clothing-_-Clothingt-shirts&amp;cm=TnDdclothingt-shirts" title="Kids T-Shirts">T-Shirts</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-sale+kids+clothing?cm_sp=TopNav-_-Clothing-_-Clothingsale&amp;cm=TnDdclothingsale" title="Sale Kids Clothing">Sale</a></div>
                                 </div>
             
                                 <div class="dd_column">
                                     <div class="m-title">Clothing Brands</div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com//searchresults/keyword:kids+adidas+clothing/?cm_sp=TopNav-_-Clothing-_-Clothingadidas&amp;cm=TnDdclothingadidas/" title="Kids adidas Clothing">adidas</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com//searchresults/keyword:kids+adidas+originals+clothing/?cm_sp=TopNav-_-Clothing-_-Clothingadidasoriginals&amp;cm=TnDdclothingadidasoriginals/" title="Kids adidas Originals Clothing">adidas Originals</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com//searchresults/keyword:kids+jordan+clothing/?cm_sp=TopNav-_-Clothing-_-Clothingjordan&amp;cm=TnDdclothingjordan/" title="Kids Jordan Clothing">Jordan</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com//searchresults/keyword:kids+nike+clothing/?cm_sp=TopNav-_-Clothing-_-Clothingnike&amp;cm=TnDdclothingnike/" title="Kids Nike Clothing">Nike</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com//searchresults/keyword:kids+reebok+clothing/?cm_sp=TopNav-_-Clothing-_-Clothingreebok&amp;cm=TnDdclothingreebok/" title="Kids Reebok Clothing">Reebok</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com//searchresults/keyword:kids+under+armour+clothing/?cm_sp=TopNav-_-Clothing-_-Clothingunderarmour&amp;cm=TnDdclothingunderarmour/" title="Kids Under Armour Clothing">Under Armour</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/brands/category/?cm_sp=TopNav-_-Clothing-_-Clothingallbrandsr&amp;cm=TnDdclothingallbrands/" title="Vuiew All Brands">View All</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+adidas+clothing?cm_sp=TopNav-_-Clothing-_-Clothingadidas&amp;cm=TnDdclothingadidas/" title="Kids adidas Clothing">adidas</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+adidas+originals+clothing?cm_sp=TopNav-_-Clothing-_-Clothingadidasoriginals&amp;cm=TnDdclothingadidasoriginals" title="Kids adidas Originals Clothing">adidas Originals</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+clothing?cm_sp=TopNav-_-Clothing-_-Clothingjordan&amp;cm=TnDdclothingjordan/" title="Kids Jordan Clothing">Jordan</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+clothing?cm_sp=TopNav-_-Clothing-_-Clothingnike&amp;cm=TnDdclothingnike" title="Kids Nike Clothing">Nike</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+reebok+clothing?cm_sp=TopNav-_-Clothing-_-Clothingreebok&amp;cm=TnDdclothingreebok" title="Kids Reebok Clothing">Reebok</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+under+armour+clothing?cm_sp=TopNav-_-Clothing-_-Clothingunderarmour&amp;cm=TnDdclothingunderarmour" title="Kids Under Armour Clothing">Under Armour</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/brands/category/?cm_sp=TopNav-_-Clothing-_-Clothingallbrandsr&amp;cm=TnDdclothingallbrands" title="Vuiew All Brands">View All</a></div>
                                 </div>
             
                             </div><!-- close sticker_menu_inner -->
@@ -546,14 +580,14 @@ $(document).ready(function() {
                             
                                 <div class="dd_column col_narrow">
                                     <div class="m-title"> Top Brands</div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+adidas/?cm_sp=TopNav-_-Brands-_-Brandsadidas&amp;cm=TnDdbrandsadidas/" title="Kids adidas Shoes, Clothing">adidas</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+adidas+originals/?cm_sp=TopNav-_-Brands-_-Brandsadidasoriginals&amp;cm=TnDdbrandsadidasoriginals/" title="Kids adidas Originals Shoes, Clothing">adidas Originals</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan/?cm_sp=TopNav-_-Brands-_-Brandsjordan&amp;cm=TnDdbrandsjordan/" title="Kids Jordan Shoes, Clothing">Jordan</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike/?cm_sp=TopNav-_-Brands-_-Brandsnike&amp;cm=TnDdbrandsnike/" title="Kids Nike Shoes, Clothing">Nike</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+reebok/?cm_sp=TopNav-_-Brands-_-Brandsreebok&amp;cm=TnDdbrandsreebok/" title="Kids Reebok Shoes, Clothing">Reebok</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+timberland/?cm_sp=TopNav-_-Brands-_-Brandstimberland&amp;cm=TnDdbrandstimberland/" title="Kids Timberland Boots">Timberland</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+under+armour/?cm_sp=TopNav-_-Brands-_-Brandsunderarmour&amp;cm=TnDdbrandsunderarmour/" title="Kids Under Armour Shoes, Clothing">Under Armour</a></div>
-                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/brands/category/?cm_sp=TopNav-_-Brands-_-Brandsallbrandsr&amp;cm=TnDdbrandsallbrands/" title="View All Brands">View All</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/brand:adidas/?cm_sp=TopNav-_-Brands-_-Brandsadidas&amp;cm=TnDdbrandsadidas" title="Kids adidas">adidas</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/brand:adidas%20Originals/?cm_sp=TopNav-_-Brands-_-Brandsadidasoriginals&amp;cm=TnDdbrandsadidasoriginals" title="Kids adidas Originals">adidas Originals</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/kids-jordans/?cm_sp=TopNav-_-Brands-_-Brandsjordan&amp;cm=TnDdbrandsjordan" title="Kids Jordans">Jordan</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/kids-nike/?cm_sp=TopNav-_-Brands-_-Brandsnike&amp;cm=TnDdbrandsnike" title="Kids Nike">Nike</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/brand:Reebok/?cm_sp=TopNav-_-Brands-_-Brandsreebok&amp;cm=TnDdbrandsreebok" title="Kids Reebok">Reebok</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/brand:Timberland/?cm_sp=TopNav-_-Brands-_-Brandstimberland&amp;cm=TnDdbrandstimberland" title="Kids Timberland">Timberland</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/searchresults/brand:Under%20Armour/?cm_sp=TopNav-_-Brands-_-Brandsunderarmour&amp;cm=TnDdbrandsunderarmour/" title="Kids Under Armour">Under Armour</a></div>
+                                    <div class="m-item"><a href="http://www.kidsfootlocker.com/brands/category/?cm_sp=TopNav-_-Brands-_-Brandsallbrandsr&amp;cm=TnDdbrandsallbrands" title="View All Brands">View All</a></div>
                                 </div>
                 
                             </div><!-- close sticker_menu_inner -->
@@ -596,19 +630,31 @@ $(document).ready(function() {
 
 	<script language="javascript">
 		<!--
-		viewBannerEvent("15% off or Free Shipping $50", 90);
+		viewBannerEvent("FS with 50 min", 90); 
+			var excludeBannerFromDiscount = false;
+		
 		//-->
 	</script>
 
-		<!-- tpbann --><a href="http://www.kidsfootlocker.com/ns/disclaimers/kflgb121411a-dis/kflgb121411a-dis.html" target="_blank" alt="15% off no min or Free Shipping $50">
-<img src="/ns/headers/globalbanners/kflgb121511a-15off-or-FS50.jpg" border="0"></a><!-- end tpbann -->
+<script language="javascript">
+
+	var excludeBannerFromDiscount = false;
+
+</script>
+<div id="global_Banner">
 	
+		<!-- tpbann --><a href="http://www.kidsfootlocker.com/ns/disclaimers/kflgb061112a-dis.html" target="_blank" alt="free shipping with 50 dollar purchase">
+<img src="/ns/headers/globalbanners/kflgb061112a.jpg" border="0"></a><!-- end tpbann -->
+	
+</div>	
+
 	<script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js"></script>
 	<script type="text/javascript" src="http://t.p.mybuys.com/clients/KIDSFOOTLOCKER/js/setup.js"></script>
 
 <script language="Javascript">		
 	var inlineAddToCartEnabled = true;
 	var useMyBuyYMALS = true;
+	var MyBuysDisabledForHL = false;
 	var co_cd = '22';
 </script>
 
@@ -836,12 +882,12 @@ $(document).ready(function() {
     <div class="kfl_footer_fit"><a href="http://www.kidsfootlocker.com/promotion/promoId:5003968/kids-fit-guarantee/" title="Kids Foot Locker - Fit Guarantee">Our Fit Guarantee means <br>we'll exchange or return <br>your items for FREE.</a></div>
     <div class="kfl_footer_text_links kfl_links_1">
     	<ul>
-            <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+shoes/?cm_sp=footer-_-quicklinks-_-jordanshoes" title="Kids Jordan Shoes">Kids Jordan Shoes</a></li>
-            <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+basketball+shoes/?cm_sp=footer-_-quicklinks-_-bballshoes" title="Kids Basketball Shoes">Kids Basketball Shoes</a></li>
-            <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+running+shoes/?cm_sp=footer-_-quicklinks-_-runningshoes" title="Kids Running Shoes">Kids Running Shoes</a></li>
-            <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+shoes/?cm_sp=footer-_-quicklinks-_-nikeshoes" title="Kids Nike Shoes">Kids Nike Shoes</a></li>
-            <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+casual+boots/?cm_sp=footer-_-quicklinks-_-boots" title="Kids Casual Boots">Kids Casual Boots</a></li>
-            <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:sale+kids+shoes/?cm_sp=footer-_-quicklinks-_-shoesale" title="Kids Shoe Sale">Kids Shoe Sale</a></li>
+            <li><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+jordan+shoes?cm_sp=footer-_-quicklinks-_-jordanshoes" title="Kids Jordan Shoes">Kids Jordan Shoes</a></li>
+            <li><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+basketball+shoes?cm_sp=footer-_-quicklinks-_-bballshoes" title="Kids Basketball Shoes">Kids Basketball Shoes</a></li>
+            <li><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+running+shoes?cm_sp=footer-_-quicklinks-_-runningshoes" title="Kids Running Shoes">Kids Running Shoes</a></li>
+            <li><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+nike+shoes?cm_sp=footer-_-quicklinks-_-nikeshoes" title="Kids Nike Shoes">Kids Nike Shoes</a></li>
+            <li><a href="http://www.kidsfootlocker.com/_-_/keyword-kids+casual+boots?cm_sp=footer-_-quicklinks-_-boots" title="Kids Casual Boots">Kids Casual Boots</a></li>
+            <li><a href="http://www.kidsfootlocker.com/_-_/keyword-sale+kids+shoes?cm_sp=footer-_-quicklinks-_-shoesale" title="Kids Shoe Sale">Kids Shoe Sale</a></li>
         </ul>
     </div>
     
@@ -860,14 +906,13 @@ $(document).ready(function() {
         <a href="http://www.kidsfootlockercareers.com/" target="_blank" title="Job Opportunities">Job Opportunities</a>
         <a href="http://www.kidsfootlocker.com/sitemap/" title="Kidsfootlocker.com Sitemap">Sitemap</a>
         <a href="http://www.kidsfootlocker.com/customerserv/help:privacyPolicy/" title="Privacy Policy">Privacy Policy</a>
-        <a href="http://www.kidsfootlocker.com/customerserv/help:otherSettlements/" target="_blank" title="Settlements">Settlements</a>
         <a href="http://www.kidsfootlocker.com/customerserv/help:terms/" title="Terms of Use">Terms of Use</a>
         <a href="http://www.footlocker-inc.com/company.cfm?page=kids-foot-locker" target="_blank" title="About Us">About Us</a>
         <a href="http://www.dosomething.org/footlocker" target="_blank" title="Foot Locker Scholar Athletes Scholarship">Foot Locker Scholar Athletes - Learn More</a>
     </div>
     
     <div id="kfl-footer-tagline">
-        <p>Prices subject to change without notice. Products shown may not be available in our stores. (<a class="kfl-footer-no-border" href="http://www.kidsfootlocker.com/customerserv/help:productInformation/" title="Kids Foot Locker - Customer Service">More Info</a>) | © 2011 Footlocker.com, Inc. All rights reserved </p>
+        <p>Prices subject to change without notice. Products shown may not be available in our stores. (<a class="kfl-footer-no-border" href="http://www.kidsfootlocker.com/customerserv/help:productInformation/" title="Kids Foot Locker - Customer Service">More Info</a>) | © 2012 Footlocker.com, Inc. All rights reserved </p>
     </div><!-- close kfl-footer-tagline -->
     
     <div id="kfl-footer-icons">
