@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the buick.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616003717id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buick.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616090301id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # General Motors | Privacy Statement | GM.com
 
-**Privacy Statement for General Motors Company**
+**Privacy Statement for General Motors**
 
-Effective October 1, 2010
+Effective May 4, 2012
 
 For Your California Privacy Rights [](http://www.gm.com/privacy/california.jsp)[click here](https://web.archive.org/toolbar/privacyStatement.html#par_text_4).
 
-On October 1, 2010, General Motors Company (GM) acquired AmeriCredit Corp., (NYSE: ACF), which provides auto finance solutions through auto dealers across the United States. AmeriCredit Corp. will be renamed General Motors Financial Company, Inc. (GM Financial) and GM will consider GM Financial to be an affiliate as defined under the GM Privacy Statement.
-
 **I. About Privacy**
 
-Your privacy is important to General Motors Company (GM), as is your trust in GM products and services. We want you to know that the information you share with us will be treated with care.
+Your privacy is important to General Motors (GM), as is your trust in GM products and services. We want you to know that the information you share with us will be treated with care.
 
 GM's Privacy Statement for U.S. Consumers lets you know how we handle personally identifiable information you share with GM through gm.com and certain other GM websites (e.g., Mycertifiedservice.com or Chevrolet.com); at events; on Business Reply Cards (BRCs) and sweepstakes entries; and through our customer call centers. It also applies to information about you and your vehicle we obtain from GM affiliates, GM dealers, GM licensees for consumer merchandise, GM credit card bank partners, and other sources such as those that provide lists of potential vehicle purchasers, current owners, or potential cardholders. We have also included answers to frequently asked questions about features of GM vehicles that record and transmit data regarding vehicle functions. Some GM websites have supplemental information on privacy, and others have their own privacy statements, which may be accessed at those websites. ([Click for details on the Scope of the Statement](https://web.archive.org/toolbar/privacyStatement.html#par_text_2)).
 
@@ -20,37 +18,33 @@ The information you share with us may be used by GM, our affiliates, our license
 
 For more information, please read GM's Privacy Statement for U.S. Consumers. For Frequently Asked Questions about privacy, please [click here](https://web.archive.org/toolbar/privacyStatement.html#par_text_8).
 
-For information about how to opt-out of being contacted by GM for marketing purposes [click here](https://web.archive.org/toolbar/privacyStatement.html#par_text_8).
+For information about how to opt-out of being contacted by GM for marketing purposes [click here](https://www.gmcontactpreferences.com/).
 
 **I. GM's Privacy Statement for U.S. Consumers ("Privacy Statement")  
 ****Scope**
 
-This Privacy Statement explains how we handle personal information you share with GM businesses in the United States. We may obtain this information through GM vehicle-related consumer websites (see table below); at events; on Business Reply Cards (BRCs) and sweepstakes entry forms; and through our customer call centers. It also applies to information about you and your vehicle GM obtains from GM affiliates, GM dealers, GM licensees for consumer merchandise, and other sources such as companies that provide lists of potential vehicle purchasers, current owners, or cardholders.
+This Privacy Statement explains how we handle personal information you share with GM businesses in the United States. We may obtain this information through GM vehicle-related consumer websites (see table below); at events; on Business Reply Cards (BRCs) and sweepstakes entry forms; and through our customer call centers. It also applies to information about you and your vehicle that GM obtains from GM affiliates, GM dealers, GM licensees for consumer merchandise, and other sources such as companies that provide lists of potential vehicle purchasers, current owners, or cardholders.
 
 GM businesses covered by this Privacy Statement include:
 
-  *     [Chevrolet](http://www.chevrolet.com/)
-  *     [Buick](http://www.buick.com/)
-  *     [Pontiac](http://www.pontiac.com/)
-  *     [GMC](http://www.gmc.com/)
-  *     [Saturn](http://www.saturn.com/)
-  *     [HUMMER](http://www.hummer.com/#/)
-  *     [Cadillac](http://www.cadillac.com/)
-  *     [Oldsmobile](http://www.oldsmobile.com/olds/heritage/index.html)
+  *     [Chevrolet](http://www.chevrolet.com/?evar10=gmcom_chevrolet)
+  *     [Buick](http://www.buick.com/?evar25=gmcom_buick)
+  *     [GMC](http://www.gmc.com/?evar25=gmcom_gmc)
+  *     [Cadillac](http://www.cadillac.com/?evar25=gmcom_cadillac)
   *     [ACDelco](http://www.acdelco.com/)
   *     [GM Certified Service](http://www.mycertifiedservice.com/)
-  *     [Certified Used Vehicles](http://www.gmcertified.com/)
+  *     [Certified Pre-Owned Vehicles](http://www.gmcertified.com/)
   *     [GM Family First](http://www.gmfamilyfirst.com/ip-gmemployee/)
   *     [GM Fleet](http://www.gmfleet.com/)
   *     [GM Cardmember Services](https://www.gmcard.com/GMCard/?s_cid=gmcs)
   *     [GM Powertrain](http://gmpowertrain.com/PowertrainOverview.aspx)
-  *     [GM Supplier Discount](https://www.gmfamilyfirst.com/ip-vpp/)
+  *     [GM Supplier Discount](https://www.gmsupplierdiscount.com/ip-vpp/)
   *     [Cadillac Certified Pre-Owned](http://www.cadillac.com/tools/certified-vehicles/)
   *     [GM Dealer Employee Discount](https://www.gmded.com/ip-vpp/)
   *     [GM Military Discount](https://www.gmmilitarydiscount.com/ip-vpp/)
   *     [GM College Discount](http://www.gmcollegediscount.com/)
   *     [Credit Union Member Discount from GM](http://www.mygmdiscount.com/ip-vpp/)
-  *     [GM.com](https://web.archive.org/content/gmcom/home.html)
+  *     [GM.com](https://web.archive.org/)
 
 
 
@@ -63,9 +57,6 @@ To provide services, some GM consumer websites may request additional informatio
   *    [Investor Information](https://web.archive.org/toolbar/privacyStatement.html#par_text_9)
 
 
-  *    [Saturn](https://web.archive.org/toolbar/privacyStatement.html#par_text_13)
-
-
   *    [GM Cardmember Services](https://web.archive.org/toolbar/privacyStatement.html#par_text_12)
 
 
@@ -76,7 +67,7 @@ To provide services, some GM consumer websites may request additional informatio
 
 
 
-Certain other GM, or GM-related, consumer websites and services have their own privacy statements that can be viewed on their sites. These include [OnStar](http://www.onstar.com/) and the GMAC family of businesses ([GMACFS.com](http://www.ally.com/auto/), [GMACrelocation.com](http://www.gmacglobalrelocation.com/),[ GMACMortgage.com](http://www.gmacmortgage.com/index.html), [GMACCF.com](http://www.allycf.com/),[ GMACCM.com](http://www.gmaccm.com/capmark/MainPage.aspx?id=1338&TSMTID=1338&TSMTT=1&TSMID=0),[ GMACinsurance.com](http://www.gmacinsurance.com/),[ GMACrealestate.com](http://www.realliving.com/), [GMACpolicy.com](http://www.gmacpolicy.com/), [GMACre.com](http://www.gmacpolicy.com/), [GMACbank.com](http://www.ally.com/)) and XM Radio. For answers to questions regarding data recording devices and radio frequency identification devices (RFID) used in GM vehicles, see [Frequently Asked Questions](https://web.archive.org/toolbar/privacyStatement.html#par_text_8). **  
+Certain other GM, or GM-related, consumer websites and services have their own privacy statements that can be viewed on their sites. These include [OnStar](http://www.onstar.com/) and [GM Financial](http://www.americredit.com/). For answers to questions regarding data recording devices and radio frequency identification devices (RFID) used in GM vehicles, see [Frequently Asked Questions](https://web.archive.org/toolbar/privacyStatement.html#par_text_8). **  
 **
 
 **Information Collection  
@@ -103,7 +94,7 @@ In addition, our GM affiliates, GM dealers, GM merchandise licensees, and other 
 **  
 Information about you or your vehicle may be used to respond to your requests for product brochures, to customize and improve communication content, or for marketing or product research. It may also be used to provide you with helpful offers and information on GM products and services.
 
-We may share information about you and your vehicle within GM, with our affiliates, and with our dealers. GM may also share personal information collected with our suppliers for the exclusive purpose of providing services for us (for example, mailing information in response to your request for a vehicle brochure) and with our business partners to conduct joint marketing programs with GM. It may also be shared in connection with the sale, transfer or financing of a significant part of a GM business. Information regarding your GM Card will not be shared with GM dealers.
+We may share information about you and your vehicle within GM, with our affiliates, and with our dealers. GM may also share personal information collected with our suppliers for the exclusive purpose of providing services for us (for example, mailing information in response to your request for a vehicle brochure or conducting a research survey) and with our business partners to conduct joint marketing programs with GM. It may also be shared in connection with the sale, transfer or financing of a significant part of a GM business. Information regarding your GM Card will not be shared with GM dealers.
 
 GM will not share information about you or your vehicle with other third parties for their independent use without your permission.
 
@@ -113,7 +104,7 @@ We may disclose information about you or your vehicle as required by law, in con
 
 **Cookies and Other Tracking Devices  
 **  
-We may use cookies and other tracking devices on our websites. Using cookies on our sites provides benefits to you, such as allowing you to maintain your account login information between visits, or locating a nearby dealer. The use of cookies also allows us to measure site activity to provide a better user experience. Cookies and other tracking devices may be used to tell us the time and length of your visit, the pages you look at on our site, the site you visited just before coming to ours, and the name of your Internet service provider.
+We may use cookies and other tracking devices on our websites. Using cookies on our sites provides benefits to you, such as allowing you to maintain your account login information or contact information on Request a Quote forms between visits, or locating a nearby dealer. The use of cookies also allows us to measure site activity to provide a better user experience. Cookies and other tracking devices may be used to tell us the time and length of your visit, the pages you look at on our site, the site you visited just before coming to ours, and the name of your Internet service provider.
 
 We may use third parties to serve GM advertisements on other websites. In serving GM advertisements, these companies may use cookies and other tracking devices to collect certain information about your visits to other websites (such as browser type, IP address, which page was visited, and time of day). This information may be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to you.
 
@@ -134,13 +125,13 @@ If you have concerns or questions regarding GM's consumer privacy practices, ple
 **Changes**
 
 We retain the right to change this Privacy Statement. We will post changes to this page in a timely manner.  
-This statement is effective as of 10/1/2010.
+This statement is effective as of 9/1/2011.
 
 **Supplemental Privacy Information**
 
 This information supplements the information provided in the GM Privacy Statement for U.S. Consumers.
 
-**[Investor Information](http://..http//investor.gm.com/)**
+**[Investor Information](http://investor.gm.com/)**
 
 Collection - On the Investor Information website we may collect your name, address, phone number, and e-mail address. GM may also receive personal information you provide to GM Stockholder Services through e-mail, written communications, or telephone calls, and from our stock transfer agent, such as account information.
 
@@ -149,14 +140,6 @@ Uses - This personal information may be used for providing you information you h
 Choice and Updating Information - Stockholders wishing to update information with GM's stock transfer agent or their own stockbrokers should contact those parties directly. Opt-outs from GM marketing communications will not affect communications sent on or by or on behalf of GMs stock transfer agent or stockholders.
 
 Privacy Inquiries - For inquiries about how the information you submit to the Investor Information portion of the site or to GM Stockholder Services is handled, please call 313-667-1432.
-
-**[Saturn](http://..http//www.saturn.com/)  
-**  
-Personal Information Collection - We may request personal information at certain points during your visit to Saturn's websites. In addition to the information described in the Personal Information section above, this information may include vehicle service information; information regarding when you plan to purchase a new vehicle; your opinions for certain polls; and stories about your Saturn. Providing any information on Saturn's websites is optional. In our E-card service, we ask for the e-mail addresses of your friends to send E-cards. E-mail addresses submitted to this service will be used ONLY for sending the E-cards.
-
-Correcting Your Information - You may correct the contact information (name, address, phone number, and e-mail address) you provide on the Saturn website by using [My Profile](http://..http//www.saturn.com/pages/mds/owners/landing.do). These updates will only affect your data at the Saturn website or call-center database.
-
-Privacy Inquiries - If you have a question or concern about the privacy practices of the Saturn.com website, please contact us by sending an e-mail from the[ Contact Us ](http://..http//www.saturn.com/helpcenter/contact/)page or by writing to us at: Saturn Customer Assistance Center, PO Box 33173, Detroit, MI 48232-5173.
 
 **GM Cardmember Services**
 
@@ -195,22 +178,22 @@ Information Security - We take steps to make personal information received from 
 
 Correcting Your Information and Privacy Inquiries - If you would like to correct your personal information or if you have concerns or questions regarding GM's privacy practices, please refer to the frequently asked questions that follow, or you may contact us at 1-866-MYPRIVACY (1-866-697-7482). For GM Family First participants, you may correct your information by contacting your Human Resources representative. For other VPP participants, you may correct your personal information by visiting the following VPP websites.
 
-  *    [GM Family First](http://..http//www.gmfamilyfirst.com/ip-gmemployee/)
+  *    [GM Family First](https://www.gmfamilyfirst.com/ip-vpp/)
 
 
-  *    [GM Supplier Discount](http://..http//www.gmsupplierdiscount.com/ip-vpp/)
+  *    [GM Supplier Discount](https://www.gmsupplierdiscount.com/ip-vpp/)
 
 
-  *    [GM Dealership Employee Discount](http://..https//www.gmded.com/ip-vpp/)
+  *    [GM Dealership Employee Discount](https://www.gmded.com/ip-vpp/)
 
 
-  *    [GM College Discount](http://..http//www.gmcollegediscount.com)
+  *    [GM College Discount](https://www.gmcollegediscount.com/ip-vpp/)
 
 
-  *    [GM Military Discount](http://..http//www.gmmilitarydiscount.com/ip-vpp/)
+  *    [GM Military Discount](https://www.gmmilitarydiscount.com/ip-vpp/)
 
 
-  *    [Credit Union Discount from GM](http://..http//www.mygmdiscount.com/ip-vpp/)
+  *    [Credit Union Discount from GM](https://www.mygmdiscount.com/ip-vpp/)
 
 
 
@@ -229,7 +212,8 @@ A: Suppliers are companies that provide services on GM's behalf, such as mailing
 
   
 Q3: What is an example of a GM business partner?  
-A: By business partners, we mean independent companies that conduct joint marketing programs with GM. An example is HSBC USA, which administers the GM Card and GM Extended Family Card. Another example is XM Radio.
+A: By business partners, we mean independent companies that conduct joint marketing programs with GM. An example is Capital One N.A. which issues the GM Card, GM Flexible Earnings Card, and GM Extended Family Card. Another example is SiriusXM.  
+
 
   
 Q4: What do you mean when you say "independent use" or that you will ask for my permission before sharing my information?  
@@ -268,7 +252,7 @@ A: No, many GM vehicles contain sensing and transmitting devices using the same 
 
 **IV. Your California Privacy Rights**
 
-**2009 Disclosure for General Motors Company (GM)  
+**2010 Disclosure for General Motors (GM)  
 **Under California Civil Code Section 1798.83, also known as Senate Bill 27, you are entitled to request and receive, free of charge, a copy of GM's California Information Sharing Disclosure Notice for the previous calendar year. You may print this page, or call 1-866-MYPRIVACY (1-866-697-7482) to request a copy.
 
 **California Information-Sharing Disclosure  
@@ -286,29 +270,6 @@ GM may have shared the following categories of information with the affiliates l
 
 GM affiliates who may have received your information are as follows:
 
-GMAC Automotive Financing  
-P. O. Box 380901  
-Bloomington, MN 55438
-
-GMAC Bank (now known as Ally Bank)  
-3710 Kennett Pike  
-Greenville, DE 19807
-
-GMAC Insurance  
-Personal Lines Group  
-13736 Riverport Drive,  
-Suite 700  
-Maryland Heights, MO 63043
-
-GMAC Insurance  
-Dealer Products and Services  
-GM Protection Plan  
-300 Galleria Officentre - Suite 300  
-Southfield, MI 48034
-
-GMAC Mortgage Corporation  
-100 Witmer Road  
-Horsham, PA 19044  
 OnStar  
 400 Renaissance Center  
 P.O. Box 400  
