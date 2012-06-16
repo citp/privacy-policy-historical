@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandahallstock.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006115009id_/http%3A//www.pandahallstock.com/Help/3-About-us/HelpDetail-29.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandahallstock.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616095525id_/http%3A//www.pandahallstock.com/Help/3-About-us/HelpDetail-29.html) for the most accurate reproduction.*
 
 # Help Center Privacy Policy - PandaHallStock.html
 
@@ -35,5 +35,7 @@ Finally, we never use or share the personally identifiable information provided 
 **4\. Our Commitment to Data Security**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+Ask a Question? 
 
 **Was this answer helpful?**
