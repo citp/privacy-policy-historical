@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honoluluadvertiser.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205231752id_/http%3A//www.staradvertiser.com/about/sa_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honoluluadvertiser.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616034309id_/http%3A//www.staradvertiser.com/about/sa_privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hawaii News - Honolulu Star-Advertiser
 
@@ -49,13 +49,5 @@ Staradvertiser.com User Services
 Suite 7-210  
 Honolulu HI 96813  
 webmaster@staradvertiser.com
-
-* * *
-
-#### Publication Notice
-
-**The Honolulu Star-Advertiser** (USPS 249460) is published daily by Oahu Publications at 7 Waterfront Plaza, Suite 210, 500 Ala Moana, Honolulu, Hawaii, 96813. Periodicals postage paid at Honolulu, Hawaii. Postmaster: Send address changes to Star-Advertiser, 500 Ala Moana, No. 7-500, Honolulu, Hawaii 96813.
-
-The publisher reserves the right to change subscription rates during the term of a subscription upon 28 days' notice. This notice may be mailed to the subscriber, by notice contained in the newspaper, or otherwise. Subscription rate changes may be implemented by changing the duration of the subscription.
 
 * * *
