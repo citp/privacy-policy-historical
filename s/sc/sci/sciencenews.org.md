@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sciencenews.org privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124071414id_/http%3A//www.sciencenews.org/view/page/id/74735/title/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencenews.org privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616055757id_/http%3A//www.sciencenews.org/view/page/id/74735/title/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Science News
 
-**General Privacy Policy Statement and Practices**  
-Society for Science & the Public (“SSP”) is concerned about the privacy of subscribers, members, donors, volunteers, and others.  This Policy is intended to clearly outline our current privacy policy and practices.
+**General Privacy Policy Statement and Practices**
 
-Please read this Policy carefully before providing personal information to SSP. 
+Society for Science & the Public (“SSP”) is concerned about the privacy of subscribers, members, donors, volunteers, and others.  This Policy is intended to clearly outline our current privacy policy and practices.  
+Please read this Policy carefully before providing personal information to SSP.
 
 ## Privacy Policy Updates
 
@@ -35,15 +35,33 @@ Applicants selected to participate in an SSP program will have their applicant i
 
 Address and other personally identifiable information will be stored as necessary to process an individual’s gift, membership, subscription, or other commercial transaction. This information may be shared with other programs and publications of SSP or as otherwise described elsewhere in this Policy.
 
+From time to time, SSP may rent subscriber information to third party organizations.  If you would like us to remove your name from such lists, please contact us via mail, telephone or email address as provided for in the Third-Party Disclosure of Information found elsewhere in this policy.
+
 ### Other “Friends” of SSP
 
 Many individuals provide information in order to volunteer with SSP, receive the SSP Newsletter, or otherwise participate in or learn more about SSP programs and publications. In general, an individual’s information will – by default – be shared among SSP programs and publications, unless otherwise directed by the individual, or as otherwise described elsewhere in this Policy.
 
-### Parent’s Right to Review or Delete Information.
+### Parent’s Right to Review or Delete Information
 
 A parent may review the information a child has submitted to SSP by e-mailing SSP a written request addressed to privacy@societyforscience.org, by calling (800) 552-4412, or by mailing Society for Science & the Public, ATTN: Customer Service, PO Box 1674 Williamsport, PA 17703­­­­­­­­.  The request must include the name and address of the child, and any other information that will allow SSP to verify that the writer is the parent of the child whose information is being requested. 
 
 In addition, a parent can instruct SSP to delete a child’s information at any time and can also instruct SSP not to collect any more personal information from the child by e-mailing SSP a written request addressed to privacy@societyforscience.org, by calling (800) 552-4412, or by mailing Society for Science & the Public, ATTN: Customer Service, PO Box 1674 Williamsport, PA 17703.  Parents should be advised that a deletion request may prevent the child from participating in certain activities. 
+
+## Third-Party Disclosure of Information
+
+SSP contracts with third-party companies to provide certain services on a User’s behalf. These services include credit card processing, mail distribution and processing, and other customer support services. Information provided to third-party service providers is strictly limited to the services required or as required by law.
+
+ SSP may share  a User’s personally identifiable information with third-party companies to provide the User with promotional information about programs, services, events and publications offered by SSP or select third-parties. SSP closely reviews every request for information by third-parties to help ensure they are trustworthy and reputable. A User may opt-out of such sharing with third-party organizations or modify User’s communication preferences at any time by emailing privacy@societyforscience.org, by calling (800) 552-4412, or by mailing Society for Science & the Public, PO Box 1674 Williamsport, PA 17703.
+
+SSP may also use aggregate data that is not personally identifiable in discussions, presentations, or reports to current or potential grantors. This data may include demographic, geographic or other broadly representative data.
+
+SSP will divulge any information collected from a User on the Websites when required to do so by law. 
+
+**Your California Privacy Rights**   
+ In addition to the **Privacy Rights** provided for generally in these policies, California residents have the right to request in a mail, electronic mail or telephone communication, that SSP disclose for the immediately preceding calendar year the categories of your personal information shared with third parties, and the names and addresses of such third parties including the nature of the third-parties business.  Please see the mail, electronic mail and telephone contact information under **Third-Party Disclosures of Information** above. 
+
+  
+
 
 ## Web-Specific Privacy Policy Statement and Practices
 
@@ -63,18 +81,13 @@ The Websites have security measures in place to protect the loss, misuse, and al
 
 ### Child Privacy Policy and Parental Consent Statement
 
-SSP wants to protect the safety of children using the Websites.  To the extent necessary, SSP complies with applicable laws and regulations, including the Children's Online Privacy Protection Act (COPPA), which governs information gathering online from or about children under the age of 13. Verifiable consent from a child's parent or guardian is required before collecting, using, or disclosing personal information from a child under the age of 13.  SSP does not: 
+SSP wants to protect the safety of children using the Websites.  To the extent necessary, SSP complies with applicable laws and regulations, including the Children's Online Privacy Protection Act (COPPA), which governs information gathering online from or about children under the age of 13. Verifiable consent from a child's parent or guardian is required before collecting, using, or disclosing personal information from a child under the age of 13. SSP does not: 
 
-\- Collect _online_ contact information from children under the age of 13 without prior parental notification and consent, which includes an opportunity for the parent to prevent use of the information and the child’s participation in the related activity.  Without prior parental consent, online information will only be used to respond directly to a child’s request (i.e., subscription to a newsletter, however, parental consent is required prior to the second communication) and will not be used for other purposes.
-
-\- Collect personally identifiable _offline_ contact information of a child under age 13 without prior parental consent. 
-
-\- Provide any personally identifiable information, regardless of its source, to any third-party for any purpose whatsoever concerning our users under 13 years of age, unless otherwise disclosed to children and their parents during the information collection process. 
-
-\- Give children under age 13 the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.
-
-\- Entice any child by the prospect of a special game, prize, or other activity, to divulge more information than is needed to participate in the activity. 
-
+  * Collect _online_ contact information from children under the age of 13 without prior parental notification and consent, which includes an opportunity for the parent to prevent use of the information and the child’s participation in the related activity.  Without prior parental consent, online information will only be used to respond directly to a child’s request (i.e., subscription to a newsletter, however, parental consent is required prior to the second communication) and will not be used for other purposes.
+  * Collect personally identifiable _offline_ contact information of a child under age 13 without prior parental consent.
+  * Provide any personally identifiable information, regardless of its source, to any third-party for any purpose whatsoever concerning our users under 13 years of age, unless otherwise disclosed to children and their parents during the information collection process.
+  * Give children under age 13 the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.
+  * Entice any child by the prospect of a special game, prize, or other activity, to divulge more information than is needed to participate in the activity. 
 
 
 
@@ -82,18 +95,15 @@ When the Websites need to collect information about a child under 13 years old, 
 
 There are several exceptions that permit collection of a child's email address without receiving parental consent in advance: 
 
-\- To provide the parents with notice and to seek consent for communications with the child. Note: this may require collection of the parent's email address as well.
-
-\- To protect the safety of a child who is participating on the site; i.e., in a chat room.
-
-\- To protect the Websites or to respond to law enforcement; i.e., in the case of a Website compromise. 
-
+  * To provide the parents with notice and to seek consent for communications with the child. Note: this may require collection of the parent's email address as well. 
+  * To protect the safety of a child who is participating on the site; i.e., in a chat room. 
+  * To protect the Websites or to respond to law enforcement; i.e., in the case of a Website compromise. 
 
 
 
 Personal information about your child will be destroyed immediately upon completion of its intended purpose. On rare occasions, it may be determined that a communication from a child under 13 years old should be maintained for historical purposes. Should such an occasion occur, SSP will obtain the necessary consent from the child's parent. 
 
-Finally, we provide many on-line tools and services in support of SSP's mission. A child under 13 years old may inadvertently provide personal information to one of these services. If this should happen, the information about the child will be deleted immediately upon discovery. 
+Finally, we provide many on-line tools and services in support of SSP's mission. A child under 13 years old may inadvertently provide personal information to one of these services. If this should happen, the information about the child will be deleted immediately upon discovery.
 
 ### Cookies
 
@@ -121,6 +131,9 @@ SSP contracts with third-party companies to provide certain services on a User�
 SSP may also use aggregate data that is not personally identifiable in discussions, presentations, or reports to current or potential grantors. This data may include demographic, geographic or other broadly representative data.
 
 SSP will divulge any information collected from a User on the Websites when required to do so by law. 
+
+**Your California Privacy Rights**   
+ In addition to the **Privacy Rights** provided for generally in these policies, California residents have the right to request in a mail, electronic mail or telephone communication, that SSP disclose for the immediately preceding calendar year the categories of your personal information shared with third parties, and the names and addresses of such third parties including the nature of the third-parties business.  Please see the mail, electronic mail and telephone contact information under **Third-Party Disclosures of Information** above/hereafter. 
 
   
 
