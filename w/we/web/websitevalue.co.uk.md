@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitevalue.co.uk privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224023232id_/http%3A//www.websitevalue.co.uk/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitevalue.co.uk privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616222124id_/http%3A//www.websitevalue.co.uk/policy.php) for the most accurate reproduction.*
 
 # Web Site Value Calculator and Website Valuation Tool
 
@@ -42,4 +42,4 @@ Websitevalue.co.uk also enable users to delete information, including usage path
 This privacy policy may be updated from time to time so you agree to check it each time you submit personal information to any Websitevalue.co.uk's website. The date of the most recent revisions will appear on this page. 
 
 **9.Contacting Websitevalue.co.uk about this Privacy Policy**   
-If you have any questions about this Privacy Policy then please Contact us at: [mark@olddomains.co.uk](mailto:mark@olddomains.co.uk)
+If you have any questions about this Privacy Policy then please Contact us at: 1st Floor, Torrington House 111 Hare Lane Claygate, KT10 0QY, United Kingdom 
