@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231100540id_/http%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616125632id_/http%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
 
-# PSD to HTML Service Privacy Policy - P2H / PSD2HTML
+# PSD to HTML Service Privacy Policy - P2H / PSD2HTML®
 
-## Non-disclosure agreement (NDA) for PSD2HTML.com clients
+## Non-disclosure agreement (NDA) for PSD2HTML® clients
 
-PSD2HTML respects your professional artwork and will only use it to assist you with your goals. Your copyrights will remain yours. 
+PSD2HTML® respects your professional artwork and will only use it to assist you with your goals. Your copyrights will remain yours. 
 
-PSD2HTML will not take your artwork for use on any other site, resell it, or give it to anyone under any circumstance.
+PSD2HTML® will not take your artwork for use on any other site, resell it, or give it to anyone under any circumstance.
 
-PSD2HTML.com guarantees that **all** information that you share with us, including artwork, contact information, and client notes will remain confidential.
+PSD2HTML® guarantees that **all** information that you share with us, including artwork, contact information, and client notes will remain confidential.
 
-PSD2HTML.com will never contact your clients or the clients of your clients. We respect your business.
+PSD2HTML® will never contact your clients or the clients of your clients. We respect your business.
 
 ## Our commitment to data security
 
@@ -24,7 +24,7 @@ All data passing from your computer to this web site is authenticated and encryp
 
 ## Information we collect
 
-This notice applies to all the information that gets collected or submitted on the PSD2HTML website through the product order, product request, and other pages. The following types of personal information are collected:
+This notice applies to all the information that gets collected or submitted on the PSD2HTML® website through the product order, product request, and other pages. The following types of personal information are collected:
 
   * Email address
   * Client information requests
@@ -49,4 +49,4 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-Should you have further questions or concerns about PSD2HTML.com services, please complete the contact form.
+Should you have further questions or concerns about PSD2HTML® services, please complete the contact form.
