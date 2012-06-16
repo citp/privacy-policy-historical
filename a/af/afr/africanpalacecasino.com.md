@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africanpalacecasino.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220161935id_/http%3A//www.africanpalacecasino.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africanpalacecasino.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616153926id_/http%3A//africanpalacecasino.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to African Palace Casino - Africa's #1 Online Casino for the Best Casino Games and Online Gambling
 
@@ -31,4 +31,4 @@ Your winnings and cash-outs are kept strictly confidential. It is your choice wh
 Security:   
 We maintain the upmost available means to ensure that your information remains safe with us. All information is transferred using encryption technologies and once stored on our servers, it is maintained safe using the latest Firewall technologies available today. Both our web site and software use all available means to maintain data accuracy and privacy and to protect your data from being misused and/or lost. 
 
-If you have any other questions or concerns regarding data privacy and security please do not hesitate to contact our [Customer Support center](https://web.archive.org/web/20111220161935id_/http%3A//www.africanpalacecasino.com/support.php) at any time, 24 hours a day, 7 days a week. Our Customer Service representatives will be more than happy to assist you. 
+If you have any other questions or concerns regarding data privacy and security please do not hesitate to contact our [Customer Support center](https://web.archive.org/web/20120616153926id_/http%3A//africanpalacecasino.com/support.php) at any time, 24 hours a day, 7 days a week. Our Customer Service representatives will be more than happy to assist you. 
