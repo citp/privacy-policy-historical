@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funmin.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101230102id_/http%3A//funmin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funmin.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616160146id_/http%3A//www.funmin.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,4 +46,4 @@ To ensure we are publishing content customers need and want,Funmin collects aggr
 
 When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously.
 
-If you have questions regarding this statement, you should first contact [funmingames@funmin.com](mailto:funmingames@funmin.com)
+If you have questions regarding this statement, you should first contact [support@funmin.com](mailto:support@funmin.com)
