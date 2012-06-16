@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantoffices.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125163539id_/http%3A//www.instantoffices.com/solutions/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantoffices.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616084522id_/http%3A//www.instantoffices.com/solutions/privacy.aspx) for the most accurate reproduction.*
 
 # Instant | Privacy Pages | Read more...
 
@@ -6,11 +6,11 @@
 
 ### For FREE, no obligation, expert, local help and advice
 
-Instant provides a variety of online services for individuals and companies looking for executive suites. Instant values your privacy and feedback very highly. Any user information we collect is considered private; we use this personal information at Instant to provide the best quality service possible. The following policy statement summarises Instant's protection and use of any personal information provided by visitors to the Instant site.
+Instant provides a variety of online services for individuals and companies looking for serviced offices. Instant values your privacy and feedback very highly. Any user information we collect is considered private; we use this personal information at Instant to provide the best quality service possible. The following policy statement summarises Instant's protection and use of any personal information provided by visitors to the Instant site.
 
 ##### 1\. Commissioner Information
 
-Instant is registered with the Information Commissioner, (Reg. no. 25550732). Your details will be provided to the operators of the buildings selected by the user, together with a select number of other operators in the appropriate geographic area. Instant will also contact you by telephone/email to follow-up your search.
+Instant is registered with the Information Commissioner, (Reg. no. Z1540517). Your details will be provided to the operators of the buildings selected by the user, together with a select number of other operators in the appropriate geographic area. Instant will also contact you by telephone/email to follow-up your search.
 
 ##### 2\. Information Collected by Instant
 
@@ -40,10 +40,10 @@ By requesting information from this website, I agree to split equally any moneta
 
 If users feel that their privacy has been misused in any way by Instant or have any questions about this privacy policy please contact the Managing Director on:
 
-Robert Hamilton
+Patrick Elliott
 
 Tel: +44 (0) 20 7298 0600
 
-Email: [rh@instantoffices.com](mailto:rh@instantoffices.com)
+Email: [hq@instantoffices.com](mailto:hq@instantoffices.com)
 
-© copyright 1999 - 2010 Instant
+© copyright 1999 - 2011 Instant
