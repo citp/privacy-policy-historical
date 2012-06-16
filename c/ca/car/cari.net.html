@@ -1,48 +1,683 @@
-<!--The following is the downloaded HTML source of the cari.net privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101155140id_/http%3A//www.cari.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cari.net privacy policy that was archived on 2012-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616223032id_/http%3A//www.cari.net/support-center/legal-and-policies/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>CariNet Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="You can be perfectly calm knowing that we manage our customers information in the better private form, our server customers are the number one priority">
-<meta name="keywords" content="cloud hosting, cloud server, cloud computing">
-<meta name="verify-v1" content="bmlOqGmCWeoiY2DwkRoj3q9QMBlUoD3MQR0fVoVBIV0=">
-<meta name="y_key" content="0d85778c7bec7b96">
-       <base href="http://www.cari.net/">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+		
+		<title>CARI.net Privacy Policy  - CARI.net</title>
+		       <base href="http://www.cari.net/">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		
+		<meta name="description" content="This Privacy Policy deals with personally identifiable information">
+		<meta name="keywords" content="">
+		<link href="http://fonts.googleapis.com/css?family=Maven+Pro" rel="stylesheet" type="text/css">
+		
+			<link rel="stylesheet" type="text/css" href="/assets/css/main.css" media="all">
+			<link rel="stylesheet" type="text/css" href="/assets/css/grid/980_12_8.css" media="all">
+			<link rel="stylesheet" type="text/css" href="/assets/snippets/social/social.css" media="all">
+			<link rel="publisher" href="https://plus.google.com/104425749764026005709">
+			
+			<script type="text/javascript" async="" src="http://chat.cari.net/SightMaxAgentInterface/Monitor.smjs?accountID=1&amp;siteID=2&amp;queueID=6&amp;jquery=false"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/assets/js/jquery-162.js"></script>
+		
+		
+		
+		
+			<link rel="stylesheet" type="text/css" href="/panel/styles/main.css" media="all">
+			<!-- Temporary fix for Chrome and its warnings regarding layerX and layerY props  -->
+			<script type="text/javascript">
+				var props = $.event.props;
+				// reset
+				$.event.props = window.props;
+				// remove layerX and layerY
+				$.event.props = $.event.props.join('|').replace('layerX|layerY|', '').split('|');
+
+			</script>
+			<script type="text/javascript" src="/assets/js/jquery-easing.js"></script>
+			<script type="text/javascript" src="/assets/js/jquery-slideup.js"></script>
+			<script type="text/javascript">
+	(function() {
+		function async_load(){
+			var s = document.createElement('script');
+			s.type = 'text/javascript';
+			s.async = true;
+			s.src = 'http://chat.cari.net/SightMaxAgentInterface/Monitor.smjs?accountID=1&siteID=2&queueID=6&jquery=false';
+			x = document.getElementsByTagName('script')[0];
+			x.parentNode.insertBefore(s, x);
+		}
+		if (window.attachEvent)
+			window.attachEvent('onload', async_load);
+		else
+			window.addEventListener('load', async_load, false);
+	})();
+				var opts = {
+					slideUpSpeed : 500,
+					slideDownSpeed : 200
+				};
+				$(document).ready(function() {
+					$(".cns-bottom-menu").slideupmenu(opts);
+
+					// Boxes JS help
+					//**********/
+					// equal height boxes
+					var max = 0;
+					$('.box-inner .bottom-content').each(function() {
+						var parentBoxInner = $(this).closest('.box-inner');
+						$(this).css({ 
+							bottom: 0,
+							overflow:'hidden', 
+							paddingTop:'10px',
+							paddingBottom:'10px',
+							position:'absolute',
+							width:parentBoxInner.width()+'px',
+						});
+						var parentBoxInnerH = parentBoxInner.height();
+						max = Math.max($(this).height() + parentBoxInnerH , max); 
+					}).closest('.box-inner').height(max);
+
+					// equal height boxes
+					max = 0; 
+					$('.equal-hboxes .box-inner').each(function() { 
+						max = Math.max($(this).height(), max); 
+					}).height(max);
+					//**********/
+
+					// Menu shading
+					/**********
+					buttonShade1 = $('<li class="button shade"><a></a></li>').css({
+									position: 'absolute',
+									background: '#D26013',
+									zIndex: 1
+								});
+					buttonShade1.hide();
+					
+					buttonShade2 = $('<li class="button shade"><a></a></li>').css({
+									position: 'absolute',
+									background: '#D26013',
+									zIndex: 1
+								});
+					buttonShade2.hide();
+
+					$('.cns-header .cns-header-section.cnse-2 .cnse-1').prepend( buttonShade1 )
+					$('.cns-header .cns-header-section.cnse-3 .cnse-1').prepend( buttonShade2 )
+					
+					$('.cns-header .cns-header-section.cnse-2 .cnse-1 li, .cns-header .cns-header-section.cnse-3 .cnse-1 li')
+						.not('.button.shade')
+						.css({position:'relative',zIndex:'2'})
+						.hover(
+							function(){
+								button = $('a',$(this));
+								button.css({background:'none'});
+								ourShade = $(this).siblings().filter('.button.shade');
+								if( ourShade )
+								{
+									ourShade
+									.stop(true)
+									.show()
+									.animate({
+										left: $(this).position().left,
+										width: $(this).width()
+									}, 200, function() {
+									
+									});
+								}
+							}, 
+							function() {
+								ourShade = $(this).siblings().filter('.button.shade');
+								if( ourShade )
+								{
+									ourShade.hide();
+								}
+							}
+						);
+					**********/
+
+					
+					// Drop-down menu logic
+					//**********/
+					var dropDown = $("#cns-dropdown");
+					var dropDownSections = $("p > a", dropDown ).parent().parent();
+					var mainMenuItems = $("div.cns-header-section.cnse-3 > ul.cnse-1 > li > a");
+					
+					// Create a timer
+					var dropDownHideTimer = setTimeout(function(){},1);	
+					var dropDownShowTimer = setTimeout(function(){},1);	
+					
+					dropDown.find('.dropdown-section').hover(function(){$(this).css({background:'#E7E7E7'})},function(){$(this).css({background:'none'})})
+
+					dropDown.hover( 
+						function(e){
+							clearTimeout( dropDownHideTimer );
+						},
+						function(e){
+							clearTimeout( dropDownShowTimer );
+							dropDownHideTimer = setTimeout(function(){dropDown.hide()},400);
+						}
+					);
+					mainMenuItems.hover(
+						function(e){
+							clearTimeout( dropDownHideTimer );
+	var currentBtnHREF = $(this).attr('href');
+	dropDownSections.css('background','none');
+	dropDownSections.each(function(i,e){
+	 if( currentBtnHREF == $(e).find("p > a").attr('href') ){ $(e).css('background','#E7E7E7'); };
+	});
+							if( dropDown.is(':hidden') ) {
+								dropDownShowTimer = setTimeout(function(){ dropDown.fadeIn(250) },170); //dropDown.fadeIn(300);
+							} else {
+								dropDown.fadeIn(); //dropDown.slideDown()
+							}
+						},
+						function(e){
+							clearTimeout( dropDownShowTimer );
+							clearTimeout( dropDownHideTimer );
+							dropDownHideTimer = setTimeout(function(){dropDown.fadeOut(300).hide()},400);
+						}			
+					);
+					//**********/
+
+					// Links highlighting
+					//**********/
+					$('.cns-header-section.cnse-3 a').each(function(i,e){ if( location.pathname.match( new RegExp( $(this).attr('href').replace(/\//gi, "\\/") ) ) ){ $(this).css({background:'#003D7E',color:'white'}) } })
+					$('.cns-header-section.cnse-4 a').each(function(i,e){ if( location.pathname.match( new RegExp( $(this).attr('href').replace(/\//gi, "\\/") + '$' ) ) ){ $(this).css({background:'#003D7E',color:'white',padding:'5px'})  } })
+					//**********/
+
+				});
+
+			</script>
+		
+		
+		
+		
+	</head>
+	<body>
+		
+			<div class="cns-container">
+				<div class="cns-header">
+					<div class="cns-logo">
+<a href="/">			
+				<div><img src="/assets/img/template/carinet-logo.png" alt="Cari.net Cloud Automation. Real Infrastructure.">
+				</div>
+				<div>
+					Cloud Automation. Real Infrastructure.
+				</div></a>
+			</div>
+					<div class="cns-header-section cnse-1">
+						<div class="my-account-button">
+								<a href="/control-panel/"><img class="headerIcons" src="/assets/img/icons/my-account-icon.png" alt="Login" title="Login">Login</a>                
 
 
 
-<link type="text/css" href="/assets/css/cupertino/jquery-ui-1.7.2.custom.css" rel="stylesheet">
-
-<link rel="stylesheet" type="text/css" href="/assets/css/main.css">
-<link rel="stylesheet" type="text/css" href="/assets/css/page.css?v=1">
-<link rel="stylesheet" type="text/css" href="/assets/css/custom.css">	
-
- <!--[if lt IE 8]>
-   <link type="text/css" rel="stylesheet" href="/assets/css/ie.css" />
-  <![endif]--> 
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/assets/js/jquery.min.js"></script>
-<script language="javascript">
-$j = jQuery.noConflict();
-</script>
-<link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css">
-<script src="/assets/js/functions.js?v=1" type="text/javascript" charset="utf-8"></script>
 
 
-<script type="text/javascript">
-$j(document).ready(function ($) {
-    go_resize();
-    $(window).resize( go_resize );
-  });
-</script>
+						</div>
+						<div class="header-buttons">
+								<a href="javascript: var e = window.open('http://chat.cari.net/SightMaxAgentInterfaceCari/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=6','chatWindow','width=510,height=360,resizable=0,scrollbars=no,menubar=no,status=no');"><img class="headerIcons" src="/assets/img/icons/chat-icon.png" alt="Chat 24/7" title="Chat 24/7">Live Chat</a>
+						</div>
+						<div class="header-buttons">
+								<a href="/about-us/contact-us.html"><img class="headerIcons" src="/assets/img/icons/phone-icon.png" alt="Call Now" title="Call Now">Call Support</a>
+						</div>
+						<div class="home-button">
+								<a href=""><img class="headerIcons" src="/assets/img/icons/home-icon.png" alt="Home" title="Home">Home</a>
+						</div>          
+					</div>
+					<div class="cns-header-section cnse-2">
+						<ul class="cnse-1">
+							<!-- <li>
+								<a data-id="2" class="" href="/index/products-and-services.html">Products & Services</a>
+							</li> -->
+							<li>
+								<a data-id="3" class="" href="/index/partner.html">Partner Program</a>
+							</li>
+							<li>
+								<a data-id="4" class="" href="/index/joint-venture.html">Joint Venture</a>
+							</li>
+						</ul>
+			<!--			<ul class="cnse-2">
+										<li>
+								<a data-id="78" class="" href="/products-and-services.html">Store</a>
+							</li>
+						</ul> -->
+						
+					</div>
+					<div class="cns-header-section cnse-3">
+						<ul class="cnse-1">
+							<li>
+								<a data-id="9" class="" href="/cloud-hosting/">Cloud Hosting</a>
+							</li>
+							<li>
+								<a data-id="17" class="" href="/dedicated-hosting/">Dedicated Hosting</a>
+							</li>
+							<li>
+								<a data-id="37" class="" href="/additional-services/">Additional Services</a>
+							</li>
+							<li>
+								<a data-id="45" class="" href="/support-center/">Support Center</a>
+							</li>
+							<li>
+								<a data-id="61" class="" href="/about-us/">About CARI.net</a>
+							</li>
+						</ul> 
+						
+					</div>
+					
+					
+					
+					
+					
+					
+					<div id="cns-dropdown" class="cns-header-section cnse-4">
+	<div class="dropdown-section"><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/cloud-hosting/">Cloud Hosting</a></p><ul><li class="first"><a href="/cloud-hosting/windows-cloud-servers.html" title="Windows Cloud Servers">Windows Cloud Servers</a></li>
+<li><a href="/cloud-hosting/dedicated-private-cloud-hosting/abiquo-enterprise-cloud.html" title="Cloud Data Centers">Cloud Data Centers</a></li>
+<li><a href="/cloud-hosting/dedicated-private-cloud-hosting/" title="Dedicated Private Cloud Hosting">Dedicated Private Cloud Hosting</a><ul><li class="first"><a href="/cloud-hosting/dedicated-private-cloud-hosting/microsoft-system-center/" title="Microsoft System Center">Microsoft System Center</a><ul><li class="first"><a href="/cloud-hosting/dedicated-private-cloud-hosting/microsoft-system-center/virtual-machine-manager.html" title="Virtual Machine Manager">Virtual Machine Manager</a></li>
+</ul></li>
+<li><a href="/cloud-hosting/dedicated-private-cloud-hosting/abiquo-enterprise-cloud.html" title="Abiquo Enterprise Cloud">Abiquo Enterprise Cloud</a></li>
+<li class="last"><a href="/cloud-hosting/dedicated-private-cloud-hosting/applogic.html" title="AppLogic">AppLogic</a></li>
+</ul></li>
+<li class="last"><a href="/cloud-hosting/free-cloud-consulting.html" title="Free Cloud Consulting">Free Cloud Consulting</a><ul><li class="first"><a href="/cloud-hosting/free-cloud-consulting/what-is-cloud-computing.html" title="What is Cloud Computing?" what-is-cloud-computing="">What is Cloud Computing?</a></li>
+</ul></li>
+</ul>
+</div>
+	<div class="dropdown-section"><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/dedicated-hosting/">Dedicated Hosting</a></p><ul><li class="first"><a href="/offerings?s=servers&amp;compare=1" title="Compare All Servers">Compare All Servers</a></li>
+<li><a href="/dedicated-hosting/intel-processors/" title="Intel® Processors" intel®="" processors="">Intel® Processors</a><ul><li class="first"><a href="/dedicated-hosting/intel-processors/xeon-e3-1200-series.html" title="Xeon E3-1200 Series">Xeon® E3-1200 Series</a></li>
+<li class="last"><a href="/dedicated-hosting/intel-processors/intel-xeon-e5.html" title="Intel® Xeon® E5">Intel® Xeon® E5</a></li>
+</ul></li>
+<li><a href="/dedicated-hosting/operating-systems/" title="Operating Systems">Operating Systems</a><ul><li class="first"><a href="/dedicated-hosting/operating-systems/windows-server-2008.html" title="Windows Server 2008">Windows Server 2008</a></li>
+<li class="last"><a href="/dedicated-hosting/operating-systems/linux-dedicated-servers.html" title="Linux">Linux</a></li>
+</ul></li>
+<li><a href="/dedicated-hosting/server-control-panels/" title="Server Control Panels">Server Control Panels</a><ul><li class="first"><a href="/dedicated-hosting/server-control-panels/plesk.html" title="Plesk">Parallels® Plesk Panel</a></li>
+<li class="last"><a href="/dedicated-hosting/server-control-panels/cpanel.html" title="cPanel">cPanel &amp; WHM</a></li>
+</ul></li>
+<li><a href="/dedicated-hosting/server-virtualization/" title="Server Virtualization">Server Virtualization</a><ul><li class="first"><a href="/dedicated-hosting/server-virtualization/windows-hyper-v.html" title="Windows Hyper - V">Windows Hyper - V</a></li>
+<li><a href="/dedicated-hosting/server-virtualization/vmware-vsphere-(esxi).html" title="VMware vSphere (ESXi)">VMware vSphere (ESXi)</a></li>
+<li><a href="/dedicated-hosting/server-virtualization/citrix-xenserver.html" title="Citrix XenServer">Citrix XenServer</a></li>
+<li class="last"><a href="/dedicated-hosting/server-virtualization/kernel-based-virtual-machine.html" title="Kernel-based Virtual Machine">Kernel-based Virtual Machine</a></li>
+</ul></li>
+<li><a href="/dedicated-hosting/server-cluster.html" title="Server Clusters">Server Clusters</a></li>
+<li><a href="/dedicated-hosting/order-a-custom-cluster.html" title="Order a Custom Cluster">Order a Custom Cluster</a></li>
+<li><a href="/dedicated-hosting/sql-server-2012.html" title="SQL Server 2012"> SQL Server 2012</a></li>
+<li><a href="/dedicated-hosting/ssd-storage.html" title="SSD Storage">SSD Storage</a></li>
+<li class="last"><a href="/dedicated-hosting/microsoft-webmatrix.html" title="Microsoft Webmatrix">Microsoft Webmatrix</a></li>
+</ul>
+</div>
+	<div class="dropdown-section"><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/additional-services/">Additional Services</a></p><ul><li class="first"><a href="/additional-services/ip-addresses.html" title="IP Addresses">IP Addresses</a></li>
+<li><a href="/additional-services/monitoring-service.html" title="Monitoring Service">Monitoring Service</a></li>
+<li><a href="/additional-services/server-backup-services.html" title="Server Backup Services">Server Backup Services</a></li>
+<li><a href="/additional-services/switches.html" title="Switches">Switches</a></li>
+<li><a href="/additional-services/firewalls-and-security.html" title="Firewalls &amp; Security">Firewalls &amp; Security</a></li>
+<li><a href="/additional-services/bandwidth.html" title="Bandwidth">Bandwidth</a></li>
+<li><a href="/additional-services/compellent-storage.html" title="Compellent Storage">Compellent Storage</a></li>
+<li><a href="/additional-services/ssl-certificates.html" title="SSL Certificates">SSL Certificates</a></li>
+<li><a href="/additional-services/reseller-hosting-platform/" title="Reseller Hosting Platform">Reseller Hosting Platform</a><ul><li class="first"><a href="/additional-services/reseller-hosting-platform/reseller-hosting-platform-setup.html" title="Reseller Hosting Platform Setup">Reseller Hosting Platform Setup</a></li>
+</ul></li>
+<li class="last"><a href="/additional-services/domain-names.html" title="Domain Names">Domain Names</a></li>
+</ul>
+</div>
+	<div class="dropdown-section"><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/support-center/">Support Center</a></p><ul><li class="first"><a href="/support-center/contact-support.html" title="Contact Support">Contact Support</a></li>
+<li><a href="/support-center/network-status.html" title="Network Status">Network Status</a></li>
+<li><a href="/support-center/6-star-support.html" title="6-Star Support">6-Star Support</a></li>
+<li class="active"><a href="/support-center/legal-and-policies/" title="Legal &amp; Policies">Legal &amp; Policies</a><ul><li class="first"><a href="/support-center/legal-and-policies/acceptable-use.html" title="Acceptable Use">Acceptable Use</a></li>
+<li class="active"><a href="/support-center/legal-and-policies/privacy.html" title="Privacy">Privacy</a></li>
+<li><a href="/support-center/legal-and-policies/terms-of-service.html" title="Terms of Service">Terms of Service</a></li>
+<li><a href="/support-center/legal-and-policies/opt-in-standards.html" title="Opt-In Standards">Opt-In Standards</a></li>
+<li><a href="/support-center/legal-and-policies/security.html" title="Security">Security</a></li>
+<li><a href="/support-center/legal-and-policies/billing.html" title="Billing">Billing</a></li>
+<li><a href="/support-center/legal-and-policies/bandwidth.html" title="Bandwidth">Bandwidth</a></li>
+<li><a href="/support-center/legal-and-policies/dedicated-server-contract.html" title="Dedicated Server Contract">Dedicated Server Contract</a></li>
+<li><a href="/support-center/legal-and-policies/service-level-agreement.html" title="Service Level Agreement">Service Level Agreement</a></li>
+<li class="last"><a href="/support-center/legal-and-policies/money-back-guarantee.html" title="Money Back Guarantee">Money Back Guarantee</a></li>
+</ul></li>
+<li><a href="/support-center/downloads/" title="Downloads">Downloads</a><ul><li class="first"><a href="/support-center/downloads/ip-justification.pdf" title="IP Justification">IP Justification</a></li>
+<li><a href="/support-center/downloads/swip-form.pdf" title="SWIP Form">SWIP Form</a></li>
+<li class="last"><a href="https://admin.cari.net/ccauth/" title="Credit Card Authorization">Credit Card Authorization</a></li>
+</ul></li>
+<li class="last"><a href="/support-center/feedback.html" title="Support Feedback">Support Feedback</a></li>
+</ul>
+</div>
+	<div class="dropdown-section"><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/about-us/">About CARI.net</a></p><ul><li class="first"><a href="/about-us/contact-us.html" title="Contact Us">Contact Us</a></li>
+<li><a href="/about-us/testimonials.html" title="Testimonials">Customer Testimonials</a></li>
+<li><a href="/about-us/our-datacenters/" title="Our Data Centers">Our Data Centers</a><ul><li class="first"><a href="/about-us/our-datacenters/sas-70-type-ii-certified.html" title="SAS 70 Type II Certified">SAS 70 Type II Certified</a></li>
+<li><a href="/about-us/our-datacenters/power-infrastructure.html" title="Power Infrastructure">Power Infrastructure</a></li>
+<li><a href="/about-us/our-datacenters/raised-floor-cooling.html" title="Raised Floor Cooling">Raised Floor Cooling</a></li>
+<li class="last"><a href="/about-us/our-datacenters/the-network/" title="The Network">The Network</a><ul><li class="first"><a href="/about-us/our-datacenters/the-network/network-connectivity.html" title="Network Connectivity">Network Connectivity</a></li>
+<li><a href="/about-us/our-datacenters/the-network/network-speed-test.html" title="Network Speed Test">Network Speed</a></li>
+<li class="last"><a href="/support-center/network-status.html" title="Network Status">Network Status</a></li>
+</ul></li>
+</ul></li>
+<li><a href="/about-us/partners/" title="Partners">Our Partners</a><ul><li class="first"><a href="/about-us/partners/microsoft-hosting-partner.html" title="CARI.net | Microsoft Partner Network">Microsoft Partner Network</a><ul><li class="first"><a href="/about-us/partners/microsoft-hosting-partner/websitespark.html" title="WebsiteSpark">WebsiteSpark</a></li>
+<li class="last"><a href="/about-us/partners/microsoft-hosting-partner/bizspark.html" title="BizSpark">BizSpark</a></li>
+</ul></li>
+<li><a href="99/#platinium-partner" title="Intel Platinium Partner">Intel Platinium Partner</a></li>
+<li class="last"><a href="/about-us/partners/microsoft-small-business-specialist.html" title="Microsoft Small Business Specialist">Microsoft Small Business Specialist</a></li>
+</ul></li>
+<li><a href="/about-us/news/" title="News">News</a></li>
+<li><a href="/about-us/identity.html" title="CARI.net Logos">CARI.net Logos</a></li>
+<li class="last"><a href="/about-us/careers.html" title="Careers at CARI.net">Careers at CARI.net</a></li>
+</ul>
+</div>
+	<div style="clear:both;"></div>                                
+					</div>
+					
+					
+					
+					
+					
+					<div style="clear:both;"></div>
+				</div>
+				
+		<!--		<div class="cns-top-banner" style="display: none;">
+
+<div class="cns-top-banner-text" style="left: auto; top: auto; right: auto; bottom: auto; "></div>
+<div class="cns-top-banner-ico" style="left: 10px; top: auto; right: auto; bottom: 10px; "><img src="/assets/img/banners/default-ico.png" alt="Cari.net. Cloud Automation. Real Infrastructure." /></div>
+</div> -->
+				<div class="cns-content">
+						<div class="breadcrumbs"><ul class="B_crumbBox"><li class="B_firstCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"><a class="B_homeCrumb" itemprop="url" rel="Home" href="http://www.cari.net:80/"><span itemprop="title">Home</span></a></li>
+ <li>»</li> <li itemscope="itemscope" class="B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb"><a class="B_crumb" itemprop="url" rel="Technical Support Center to solve problems quickly and professionally. Hosting Support Services include: Hardware, OS, connectivity support, Network Security and Systems Administrator " href="support-center/"><span itemprop="title">Support Center</span></a></li>
+ <li>»</li> <li itemscope="itemscope" class="B_crumb" itemtype="http://data-vocabulary.org/Breadcrumb"><a class="B_crumb" itemprop="url" rel="Legal &amp; Policies Support Center of CariNet" href="support-center/legal-and-policies/"><span itemprop="title">Legal &amp; Policies</span></a></li>
+ <li>»</li> <li class="B_lastCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"><a class="B_currentCrumb" itemprop="url" rel="This Privacy Policy deals with personally identifiable information" href="support-center/legal-and-policies/privacy.html"><span itemprop="title">Privacy</span></a></li>
+</ul></div><div style="clear:both;"></div>
+		
+		
+					
+<div class="menu-derecha">
+     <ul><li class="first"><a href="support-center/contact-support.html" title="Contact Support">Contact Support</a></li>
+<li><a href="support-center/network-status.html" title="Network Status">Network Status</a></li>
+<li><a href="support-center/6-star-support.html" title="6-Star Support">6-Star Support</a></li>
+<li class="active"><a href="support-center/legal-and-policies/" title="Legal &amp; Policies">Legal &amp; Policies</a><ul><li class="first"><a href="support-center/legal-and-policies/acceptable-use.html" title="Acceptable Use">Acceptable Use</a></li>
+<li class="active"><a href="support-center/legal-and-policies/privacy.html" title="Privacy">Privacy</a></li>
+<li><a href="support-center/legal-and-policies/terms-of-service.html" title="Terms of Service">Terms of Service</a></li>
+<li><a href="support-center/legal-and-policies/opt-in-standards.html" title="Opt-In Standards">Opt-In Standards</a></li>
+<li><a href="support-center/legal-and-policies/security.html" title="Security">Security</a></li>
+<li><a href="support-center/legal-and-policies/billing.html" title="Billing">Billing</a></li>
+<li><a href="support-center/legal-and-policies/bandwidth.html" title="Bandwidth">Bandwidth</a></li>
+<li><a href="support-center/legal-and-policies/dedicated-server-contract.html" title="Dedicated Server Contract">Dedicated Server Contract</a></li>
+<li><a href="support-center/legal-and-policies/service-level-agreement.html" title="Service Level Agreement">Service Level Agreement</a></li>
+<li class="last"><a href="support-center/legal-and-policies/money-back-guarantee.html" title="Money Back Guarantee">Money Back Guarantee</a></li>
+</ul></li>
+<li><a href="support-center/downloads/" title="Downloads">Downloads</a><ul><li class="first"><a href="support-center/downloads/ip-justification.pdf" title="IP Justification">IP Justification</a></li>
+<li><a href="support-center/downloads/swip-form.pdf" title="SWIP Form">SWIP Form</a></li>
+<li class="last"><a href="https://admin.cari.net/ccauth/" title="Credit Card Authorization">Credit Card Authorization</a></li>
+</ul></li>
+<li class="last"><a href="support-center/feedback.html" title="Support Feedback">Support Feedback</a></li>
+</ul>
+</div>
+
+<div id="content">
+
+<!-- 1 column row begin -->
+  <div class="box-container equal-hboxes"> <br>
+    <!--1 column box begin -->
+    <div class="g648" style="width:660px;">
+      <div class="featured-box">
+        <div class="cns-box-0 box-outer">
+          <div class="box-inner" style="padding:40px;">
+            <h3 class="title"><img src="/assets/img/icons/carinet-policies.png"><br><br>CARI.net Privacy Policy<br>
+            </h3>
+			<p align="justify"><strong>Introduction.</strong><br> 
+               We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our <a href="terms-of-service">Terms of Service.</a></p> 
+             
+            <p align="justify"><strong>1. Collection of Data.</strong><br> 
+               Our registration process requires you to provide personally identifiable information. Providing us with other information is at your option. Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site. Like many web sites, we may also automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how advertising may be served on this site (if at all) is set forth below.</p> 
+             
+            <p align="justify"><strong>2. Use of Data.</strong><br> 
+               We may use Data to customize and improve your user experience on this site. We will make efforts so that your Data will not be provided to third parties unless <br> 
+               (i) provided for otherwise in this Privacy Policy; <br> 
+               (ii) we obtain your consent, such as when you choose to opt-in or opt-out to the sharing of Data; <br> 
+               (iii) a service provided on our site requires the interaction with or is provided by a third party, by way of example an Application Service Provider; <br> 
+               (iv) pursuant to legal process or law enforcement; <br> 
+               (v) we find that your use of this site violates this Policy, <a href="terms-of-service">Terms of Service</a>, other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property; <br> 
+               (vi) this site is purchased by a third party whereby that third party will be able to use the Data in the same manner as we can as set forth in this Policy. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites.</p> 
+             
+            <p align="justify"><strong>3. Cookies.</strong><br> 
+               Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.</p><br> 
+            <p align="justify"><strong>4. Editing or Deleting Your Account Information.</strong><br> 
+               We provide you with the ability to edit the information in your user account information that you provided to us in registration by using your personal page configuration area. You may request deletion of your user account by contacting our webmaster. Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our <a href="terms-of-service">Terms of Service</a> for more information.</p><br> 
+            <p align="justify"><strong>5. Changes to this Privacy Policy.</strong><br> 
+               We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings.</p><br> 
+            <p align="justify"><strong>6. NO <span class="caps">GUARANTEES</span>.</strong><br> 
+               While this Privacy Policy states our standards for maintenance of Data and we will make efforts to meet them, we are not in a position to guarantee these standards. There may be factors beyond our control that may result in disclosure of data. As a consequence, we disclaim any warranties or representations relating to maintenance or non-disclosure of Data.</p> 
+             
+            <p align="justify"><strong>7. Contact Information.</strong><br> 
+               If you have any questions about this Policy or our web site, please feel free to <a href="contact-us">contact us </a>.</p> 
+
+			 <div class="bottom-content">
+              <!--box bottom action buttons begin -->
+<div class="action-btns"> <a href="/about-us/contact-us.html">contact us</a> <a href="/index/products-and-services.html">start shopping</a>
+                <!--box bottom action buttons end -->
+              </div>
+		  </div>
+		</div>
+ 	</div>
+  </div>
+</div>
+</div>
+</div>
+ 
+		
+				
+									<div style="clear:both;"></div>
 
 
+			
+	<div class="emblems">
+		    <a class="emblem" href="about-us/our-datacenters/sas-70-type-ii-certified.html"><img src="/assets/img/footer/cert_sas70_ii.gif" alt="SAS 70 Type II Certified" title="SAS 70 Type II Certified"></a>	 
+            <a id="intelPartner" class="emblem" href="dedicated-hosting/intel-processors/"><img src="/assets/img/intel_badges/intel-partner2.png" alt="Intel Platinium Partner" title="Intel Platinium Partner"></a>	
+			<a href="about-us/partners/microsoft-hosting-partner.html" class="emblem"><img src="/assets/img/footer/CARI.net-Microsoft-Partner-Logo-2012-2.png" alt="Microsoft Partner - Silver Hosting" title="Microsoft Partner - Silver Hosting"></a>
+            <a href="about-us/partners/microsoft-small-business-specialist.html" class="emblem"><img src="/assets/img/footer/MS-SBS-2012.png" alt="Microsoft Small Business Specialist" title="Microsoft Small Business Specialist"></a>
+			
+			<div class="cns-copyright">© CariNet Inc.</div> 
+	</div>
 
-<meta name="alexaVerifyID" content="4gDnNhl7VbJQ1mfdqATIxVercNQ">
-<meta name="google-site-verification" content="awqMPoaDMgn5psnK7vYXq-cAWBOs4cqWudvoMmsLXpo">
 
+	<div class="cns-footer-nav">
+	<!--
+	<div class="cns-footer-nav-holder"><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/cloud-hosting/">Cloud Hosting</a></p><ul><li class="first"><a href="/cloud-hosting/windows-cloud-servers.html" title="Windows Cloud Servers" >Windows Cloud Servers</a></li>
+<li><a href="/cloud-hosting/dedicated-private-cloud-hosting/abiquo-enterprise-cloud.html" title="Cloud Data Centers" >Cloud Data Centers</a></li>
+<li><a href="/cloud-hosting/dedicated-private-cloud-hosting/" title="Dedicated Private Cloud Hosting" >Dedicated Private Cloud Hosting</a><ul><li class="first"><a href="/cloud-hosting/dedicated-private-cloud-hosting/microsoft-system-center/" title="Microsoft System Center" >Microsoft System Center</a><ul><li class="first"><a href="/cloud-hosting/dedicated-private-cloud-hosting/microsoft-system-center/virtual-machine-manager.html" title="Virtual Machine Manager" >Virtual Machine Manager</a></li>
+</ul></li>
+<li><a href="/cloud-hosting/dedicated-private-cloud-hosting/abiquo-enterprise-cloud.html" title="Abiquo Enterprise Cloud" >Abiquo Enterprise Cloud</a></li>
+<li class="last"><a href="/cloud-hosting/dedicated-private-cloud-hosting/applogic.html" title="AppLogic" >AppLogic</a></li>
+</ul></li>
+<li class="last"><a href="/cloud-hosting/free-cloud-consulting.html" title="Free Cloud Consulting" >Free Cloud Consulting</a><ul><li class="first"><a href="/cloud-hosting/free-cloud-consulting/what-is-cloud-computing.html" title="What is Cloud Computing?" what-is-cloud-computing>What is Cloud Computing?</a></li>
+</ul></li>
+</ul>
+</div>
+	<div class="cns-footer-nav-holder"><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/dedicated-hosting/">Dedicated Hosting</a></p><ul><li class="first"><a href="/offerings?s=servers&compare=1" title="Compare All Servers" >Compare All Servers</a></li>
+<li><a href="/dedicated-hosting/intel-processors/" title="Intel® Processors" Intel® Processors>Intel® Processors</a><ul><li class="first"><a href="/dedicated-hosting/intel-processors/xeon-e3-1200-series.html" title="Xeon E3-1200 Series" >Xeon® E3-1200 Series</a></li>
+<li class="last"><a href="/dedicated-hosting/intel-processors/intel-xeon-e5.html" title="Intel® Xeon® E5" >Intel® Xeon® E5</a></li>
+</ul></li>
+<li><a href="/dedicated-hosting/operating-systems/" title="Operating Systems" >Operating Systems</a><ul><li class="first"><a href="/dedicated-hosting/operating-systems/windows-server-2008.html" title="Windows Server 2008" >Windows Server 2008</a></li>
+<li class="last"><a href="/dedicated-hosting/operating-systems/linux-dedicated-servers.html" title="Linux" >Linux</a></li>
+</ul></li>
+<li><a href="/dedicated-hosting/server-control-panels/" title="Server Control Panels" >Server Control Panels</a><ul><li class="first"><a href="/dedicated-hosting/server-control-panels/plesk.html" title="Plesk" >Parallels® Plesk Panel</a></li>
+<li class="last"><a href="/dedicated-hosting/server-control-panels/cpanel.html" title="cPanel" >cPanel & WHM</a></li>
+</ul></li>
+<li><a href="/dedicated-hosting/server-virtualization/" title="Server Virtualization" >Server Virtualization</a><ul><li class="first"><a href="/dedicated-hosting/server-virtualization/windows-hyper-v.html" title="Windows Hyper - V" >Windows Hyper - V</a></li>
+<li><a href="/dedicated-hosting/server-virtualization/vmware-vsphere-(esxi).html" title="VMware vSphere (ESXi)" >VMware vSphere (ESXi)</a></li>
+<li><a href="/dedicated-hosting/server-virtualization/citrix-xenserver.html" title="Citrix XenServer" >Citrix XenServer</a></li>
+<li class="last"><a href="/dedicated-hosting/server-virtualization/kernel-based-virtual-machine.html" title="Kernel-based Virtual Machine" >Kernel-based Virtual Machine</a></li>
+</ul></li>
+<li><a href="/dedicated-hosting/server-cluster.html" title="Server Clusters" >Server Clusters</a></li>
+<li><a href="/dedicated-hosting/order-a-custom-cluster.html" title="Order a Custom Cluster" >Order a Custom Cluster</a></li>
+<li><a href="/dedicated-hosting/sql-server-2012.html" title="SQL Server 2012" > SQL Server 2012</a></li>
+<li><a href="/dedicated-hosting/ssd-storage.html" title="SSD Storage" >SSD Storage</a></li>
+<li class="last"><a href="/dedicated-hosting/microsoft-webmatrix.html" title="Microsoft Webmatrix" >Microsoft Webmatrix</a></li>
+</ul>
+</div>
+	<div class="cns-footer-nav-holder"><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/additional-services/">Additional Services</a></p><ul><li class="first"><a href="/additional-services/ip-addresses.html" title="IP Addresses" >IP Addresses</a></li>
+<li><a href="/additional-services/monitoring-service.html" title="Monitoring Service" >Monitoring Service</a></li>
+<li><a href="/additional-services/server-backup-services.html" title="Server Backup Services" >Server Backup Services</a></li>
+<li><a href="/additional-services/switches.html" title="Switches" >Switches</a></li>
+<li><a href="/additional-services/firewalls-and-security.html" title="Firewalls & Security" >Firewalls & Security</a></li>
+<li><a href="/additional-services/bandwidth.html" title="Bandwidth" >Bandwidth</a></li>
+<li><a href="/additional-services/compellent-storage.html" title="Compellent Storage" >Compellent Storage</a></li>
+<li><a href="/additional-services/ssl-certificates.html" title="SSL Certificates" >SSL Certificates</a></li>
+<li><a href="/additional-services/reseller-hosting-platform/" title="Reseller Hosting Platform" >Reseller Hosting Platform</a><ul><li class="first"><a href="/additional-services/reseller-hosting-platform/reseller-hosting-platform-setup.html" title="Reseller Hosting Platform Setup" >Reseller Hosting Platform Setup</a></li>
+</ul></li>
+<li class="last"><a href="/additional-services/domain-names.html" title="Domain Names" >Domain Names</a></li>
+</ul>
+</div>
+	<div class="cns-footer-nav-holder"><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/support-center/">Support Center</a></p><ul><li class="first"><a href="/support-center/contact-support.html" title="Contact Support" >Contact Support</a></li>
+<li><a href="/support-center/network-status.html" title="Network Status" >Network Status</a></li>
+<li><a href="/support-center/6-star-support.html" title="6-Star Support" >6-Star Support</a></li>
+<li class="active"><a href="/support-center/legal-and-policies/" title="Legal & Policies" >Legal & Policies</a><ul><li class="first"><a href="/support-center/legal-and-policies/acceptable-use.html" title="Acceptable Use" >Acceptable Use</a></li>
+<li class="active"><a href="/support-center/legal-and-policies/privacy.html" title="Privacy" >Privacy</a></li>
+<li><a href="/support-center/legal-and-policies/terms-of-service.html" title="Terms of Service" >Terms of Service</a></li>
+<li><a href="/support-center/legal-and-policies/opt-in-standards.html" title="Opt-In Standards" >Opt-In Standards</a></li>
+<li><a href="/support-center/legal-and-policies/security.html" title="Security" >Security</a></li>
+<li><a href="/support-center/legal-and-policies/billing.html" title="Billing" >Billing</a></li>
+<li><a href="/support-center/legal-and-policies/bandwidth.html" title="Bandwidth" >Bandwidth</a></li>
+<li><a href="/support-center/legal-and-policies/dedicated-server-contract.html" title="Dedicated Server Contract" >Dedicated Server Contract</a></li>
+<li><a href="/support-center/legal-and-policies/service-level-agreement.html" title="Service Level Agreement" >Service Level Agreement</a></li>
+<li class="last"><a href="/support-center/legal-and-policies/money-back-guarantee.html" title="Money Back Guarantee" >Money Back Guarantee</a></li>
+</ul></li>
+<li><a href="/support-center/downloads/" title="Downloads" >Downloads</a><ul><li class="first"><a href="/support-center/downloads/ip-justification.pdf" title="IP Justification" >IP Justification</a></li>
+<li><a href="/support-center/downloads/swip-form.pdf" title="SWIP Form" >SWIP Form</a></li>
+<li class="last"><a href="https://admin.cari.net/ccauth/" title="Credit Card Authorization" >Credit Card Authorization</a></li>
+</ul></li>
+<li class="last"><a href="/support-center/feedback.html" title="Support Feedback" >Support Feedback</a></li>
+</ul>
+</div>
+	<div class="cns-footer-nav-holder"><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/about-us/">About CARI.net</a></p><ul><li class="first"><a href="/about-us/contact-us.html" title="Contact Us" >Contact Us</a></li>
+<li><a href="/about-us/testimonials.html" title="Testimonials" >Customer Testimonials</a></li>
+<li><a href="/about-us/our-datacenters/" title="Our Data Centers" >Our Data Centers</a><ul><li class="first"><a href="/about-us/our-datacenters/sas-70-type-ii-certified.html" title="SAS 70 Type II Certified" >SAS 70 Type II Certified</a></li>
+<li><a href="/about-us/our-datacenters/power-infrastructure.html" title="Power Infrastructure" >Power Infrastructure</a></li>
+<li><a href="/about-us/our-datacenters/raised-floor-cooling.html" title="Raised Floor Cooling" >Raised Floor Cooling</a></li>
+<li class="last"><a href="/about-us/our-datacenters/the-network/" title="The Network" >The Network</a><ul><li class="first"><a href="/about-us/our-datacenters/the-network/network-connectivity.html" title="Network Connectivity" >Network Connectivity</a></li>
+<li><a href="/about-us/our-datacenters/the-network/network-speed-test.html" title="Network Speed Test" >Network Speed</a></li>
+<li class="last"><a href="/support-center/network-status.html" title="Network Status" >Network Status</a></li>
+</ul></li>
+</ul></li>
+<li><a href="/about-us/partners/" title="Partners" >Our Partners</a><ul><li class="first"><a href="/about-us/partners/microsoft-hosting-partner.html" title="CARI.net | Microsoft Partner Network" >Microsoft Partner Network</a><ul><li class="first"><a href="/about-us/partners/microsoft-hosting-partner/websitespark.html" title="WebsiteSpark" >WebsiteSpark</a></li>
+<li class="last"><a href="/about-us/partners/microsoft-hosting-partner/bizspark.html" title="BizSpark" >BizSpark</a></li>
+</ul></li>
+<li><a href="99/#platinium-partner" title="Intel Platinium Partner" >Intel Platinium Partner</a></li>
+<li class="last"><a href="/about-us/partners/microsoft-small-business-specialist.html" title="Microsoft Small Business Specialist" >Microsoft Small Business Specialist</a></li>
+</ul></li>
+<li><a href="/about-us/news/" title="News" >News</a></li>
+<li><a href="/about-us/identity.html" title="CARI.net Logos" >CARI.net Logos</a></li>
+<li class="last"><a href="/about-us/careers.html" title="Careers at CARI.net" >Careers at CARI.net</a></li>
+</ul>
+</div> -->
+	<div style="clear:both;"></div>
 
+	</div>
+			<!--		<div class="cns-footer-spacing">
+						&nbsp;
+					</div> -->
+				</div>
+			</div>
+			<div class="cns-footer">
+				<div class="cns-container">
+					
+					<div style="clear:both;"></div>
+					<div class="cns-footer-links">
+						<div class="cns-bottom-menu">
+							<ul class="cns-bottom-menu-main">
+								<!--<li class="first">
+								<ul class="cns-bottom-submenu">
+								<li class="first">Subitem 1.0</li>
+								<li class="">Subitem 1.1</li>
+								<li class="">Subitem 1.2</li>
+								<li class="">Subitem 1.3</li>
+								<li class="last">Subitem 1.4</li>
+								</ul>
+								<a href="#" class="menu-item-text">quick menu</a>
+								</li>
+								<li class="">
+								<ul class="cns-bottom-submenu">
+								<li class="first">Subitem 2.0</li>
+								<li class="">Subitem 2.1</li>
+								<li class="last">Subitem 2.2</li>
+								</ul>
+								<a href="#" class="menu-item-text">specials</a>
+								</li>-->
+						 <!--       <li class="social-button">
+									<a href="/about-us/careers.html"><img class="socialIcon" src="/assets/img/social/we-are-hiring.png"/></a>
+								</li>  -->
+								<li class="first">
+									<a href="/support-center/" class="menu-item-text"> support  | </a>
+								</li>
+								<li class="">
+									<a class="menu-item-text" id="chatLink" href="javascript: var e = window.open('http://chat.cari.net/SightMaxAgentInterfaceCari/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=6','chatWindow','width=510,height=360,resizable=0,scrollbars=no,menubar=no,status=no');"><span> chat  | </span></a>
+								</li>
+								<!--<li class=""><a href="/offerings/" class="menu-item-text">buy</a></li> -->
+								<li class="">
+									<a href="/about-us/contact-us.html" class="menu-item-text"> contact us </a>
+								</li>
+						<!--		<li class="">
+									<ul class="cns-bottom-submenu">
+										<li class="first">
+											
+<div class="social">
+<span class="social_tagline">Share</span>
+<ul>
+<li>
+<a rel="nofollow" target="_blank" href="http://delicious.com/post?url=http%3A%2F%2Fwww.cari.net%3A80%2Fsupport-center%2Flegal-and-policies%2Fprivacy.html&amp;title=CARI.net%20Privacy%20Policy%20&amp;notes=This%20Privacy%20Policy%20deals%20with%20personally%20identifiable%20information" title="del.icio.us"><img src="/assets/img/social/services-sprite.gif" title="del.icio.us" alt="del.icio.us" style="width: 16px; height: 16px; background: transparent url(/assets/img/social/services-sprite.png) no-repeat; background-position:-199px -1px" class="social-hovers" /></a>
+</li>
+<li>
+<a rel="nofollow" target="_blank" href="http://www.designfloat.com/submit.php?url=http%3A%2F%2Fwww.cari.net%3A80%2Fsupport-center%2Flegal-and-policies%2Fprivacy.html&amp;title=CARI.net%20Privacy%20Policy%20" title="Design Float"><img src="/assets/img/social/services-sprite.gif" title="Design Float" alt="Design Float" style="width: 16px; height: 16px; background: transparent url(/assets/img/social/services-sprite.png) no-repeat; background-position:-217px -1px" class="social-hovers" /></a>
+</li>
+<li>
+<a rel="nofollow" target="_blank" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.cari.net%3A80%2Fsupport-center%2Flegal-and-policies%2Fprivacy.html&amp;t=CARI.net%20Privacy%20Policy%20" title="Facebook"><img src="/assets/img/social/services-sprite.gif" title="Facebook" alt="Facebook" style="width: 16px; height: 16px; background: transparent url(/assets/img/social/services-sprite.png) no-repeat; background-position:-343px -1px" class="social-hovers" /></a>
+</li>
+<li>
+<a rel="nofollow" target="_blank" href="http://cgi.fark.com/cgi/fark/farkit.pl?h=CARI.net%20Privacy%20Policy%20&amp;u=http%3A%2F%2Fwww.cari.net%3A80%2Fsupport-center%2Flegal-and-policies%2Fprivacy.html" title="Fark"><img src="/assets/img/social/services-sprite.gif" title="Fark" alt="Fark" style="width: 16px; height: 16px; background: transparent url(/assets/img/social/services-sprite.png) no-repeat; background-position:-1px -19px" class="social-hovers" /></a>
+</li>
+<li>
+<a rel="nofollow" target="_blank" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fwww.cari.net%3A80%2Fsupport-center%2Flegal-and-policies%2Fprivacy.html&amp;title=CARI.net%20Privacy%20Policy%20&amp;annotation=This%20Privacy%20Policy%20deals%20with%20personally%20identifiable%20information" title="Google Bookmarks"><img src="/assets/img/social/services-sprite.gif" title="Google Bookmarks" alt="Google Bookmarks" style="width: 16px; height: 16px; background: transparent url(/assets/img/social/services-sprite.png) no-repeat; background-position:-91px -19px" class="social-hovers" /></a>
+</li>
+<li>
+<a rel="nofollow" target="_blank" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.cari.net%3A80%2Fsupport-center%2Flegal-and-policies%2Fprivacy.html&amp;title=CARI.net%20Privacy%20Policy%20" title="Reddit"><img src="/assets/img/social/services-sprite.gif" title="Reddit" alt="Reddit" style="width: 16px; height: 16px; background: transparent url(/assets/img/social/services-sprite.png) no-repeat; background-position:-55px -55px" class="social-hovers" /></a>
+</li>
+<li>
+<a rel="nofollow" target="_blank" href="/rss.xml" title="RSS"><img src="/assets/img/social/services-sprite.gif" title="RSS" alt="RSS" style="width: 16px; height: 16px; background: transparent url(/assets/img/social/services-sprite.png) no-repeat; background-position:-73px -55px" class="social-hovers" /></a>
+</li>
+<li>
+<a rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.cari.net%3A80%2Fsupport-center%2Flegal-and-policies%2Fprivacy.html&amp;title=CARI.net%20Privacy%20Policy%20" title="StumbleUpon"><img src="/assets/img/social/services-sprite.gif" title="StumbleUpon" alt="StumbleUpon" style="width: 16px; height: 16px; background: transparent url(/assets/img/social/services-sprite.png) no-repeat; background-position:-217px -55px" class="social-hovers" /></a>
+</li>
+<li>
+<a rel="nofollow" target="_blank" href="http://twitter.com/home/?status=tip%20@Techmeme%20http%3A%2F%2Fwww.cari.net%3A80%2Fsupport-center%2Flegal-and-policies%2Fprivacy.html%20CARI.net%20Privacy%20Policy%20" title="Suggest to Techmeme via Twitter"><img src="/assets/img/social/services-sprite.gif" title="Suggest to Techmeme via Twitter" alt="Suggest to Techmeme via Twitter" style="width: 16px; height: 16px; background: transparent url(/assets/img/social/services-sprite.png) no-repeat; background-position:-253px -55px" class="social-hovers" /></a>
+</li>
+<li>
+<a rel="nofollow" target="_blank" href="http://technorati.com/faves?add=http%3A%2F%2Fwww.cari.net%3A80%2Fsupport-center%2Flegal-and-policies%2Fprivacy.html" title="Technorati"><img src="/assets/img/social/services-sprite.gif" title="Technorati" alt="Technorati" style="width: 16px; height: 16px; background: transparent url(/assets/img/social/services-sprite.png) no-repeat; background-position:-271px -55px" class="social-hovers" /></a>
+</li>
+<li>
+<a rel="nofollow" target="_blank" href="http://twitter.com/home?status=CARI.net%20Privacy%20Policy%20%20-%20http%3A%2F%2Fwww.cari.net%3A80%2Fsupport-center%2Flegal-and-policies%2Fprivacy.html" title="Twitter"><img src="/assets/img/social/services-sprite.gif" title="Twitter" alt="Twitter" style="width: 16px; height: 16px; background: transparent url(/assets/img/social/services-sprite.png) no-repeat; background-position:-343px -55px" class="social-hovers" /></a>
+</li>
+</ul>
+</div>
+
+										</li>
+									</ul>
+									<a href="#" class="menu-item-text">social</a>
+								</li> 
+								<li class="">
+									<a href="/about-us/contact-us.html" class="menu-item-text">1.888.221.5902</a>
+								</li> -->
+							</ul>
+						   
+						</div>
+					</div>
+			   <div class="cns-footer-social"> 
+						<ul class="cns-bottom-menu-main"> 
+									<li class="social-button">
+										<a href="http://twitter.com/carinetinc" target="_blank"><img class="socialIcon" src="/assets/img/social/twitter-icon.png" alt="Follow Us" title="Follow Us"></a><a href="http://www.youtube.com/user/carinetinc/videos?view=1" target="_blank"><img class="socialIcon" src="/assets/img/social/youtube-icon.png" alt="YouTuBe Channel" title="YouTuBe Channel"></a><a href="http://cari-net.blogspot.com/" target="_blank"><img class="socialIcon" src="/assets/img/social/blogger-icon.png" alt="Blog" title="Blog"></a><a href="http://www.linkedin.com/company/carinet" target="_blank"><img class="socialIcon" src="/assets/img/social/linkedin-icon.png" alt="LinkedIn" title="LinkedIn"></a><a href="https://plus.google.com/u/0/b/104425749764026005709/" target="_blank"><img class="socialIcon" src="/assets/img/social/googleplus-icon.png" alt="+1" title="+1"></a><a href="http://www.facebook.com/CARInetInc" target="_blank"><img class="socialIcon" src="/assets/img/social/facebook-icon.png" alt="Like Us" title="Like Us"></a><a href="http://www.facebook.com/CARInetInc" target="_blank"><img class="socialIcon" src="/assets/img/social/like-us.png" alt="Like Us" title="Like Us"></a>
+									</li> 
+						 </ul>    
+				   </div> 
+					<div class="cns-footer-search">
+						<form id="" action="/search.html" method="get">
+    <span>search</span>
+    <input onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" id="searchField" class="" type="text" name="search" value="looking for"><input id="searchIcon" class="" type="image" alt="Search" src="/assets/img/transparent.png">
+    <input type="hidden" name="id" value="5">
+</form>
+					</div>
+					
+					<div style="clear:both;"></div>                          
+				</div>            
+			</div>
+		
+		
+		
 
 <!-- Start Google Analytics -->
 <script type="text/javascript">
@@ -58,401 +693,6 @@ $j(document).ready(function ($) {
   })();
 
 </script>
-
 <!-- End Google Analytics -->
-
-
-</head>
-
-<body>
-
-
-<div id="wrapper">
-<style>
-#site_special_promo_banner {
-position:absolute;  left:337px;  top:31px;  z-index:998;
-}
-#site_special_promo_banner div {
-width:581px;  height:33px;  background:url('/assets/images/site_promotional_banner_webmatrix_v2_581x33.png');
-}
-#site_special_promo_banner:hover div {
-background-position-y:-33px;
-}
-#site_special_promo_sticker {
-position:fixed; top:0px; right:0px; z-index: 999;
-}
-#site_special_promo_sticker div {
-width:78px;  height:78px;  background:url('/assets/images/site_promotional_sticker_bandwidth_78x78_2.png') no-repeat;
-}
-#site_special_promo_sticker:hover div {
-background-position-x:-78px;
-}
-
-</style>
-<a id="site_special_promo_sticker" href="/bandwidth" title="Free Bandwidth - 100Mbps 32.4 Tera Bytes per Month on several servers"><div></div></a>
-<a id="site_special_promo_banner" href="/webmatrix-promo" title="Free Windows 2008R2 when selecting preconfigured WebMatrix server. Windows Server starting at 30 dollars"><div></div></a>
-
-<div id="bh">
-
-<div id="das"><a id="logo" href="/home"><span id="tagline"></span></a></div>
-
-<div id="topHeader">
-	<div id="topHeaderBg">
-	       <a id="callLink" href="/contact-us"><span>Call 888.221.5902</span></a>
-	       <a id="chatLink" href="javascript: var e = window.open('http://chat.cari.net/SightMaxAgentInterfaceCari/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=6',
-'chatWindow','width=510,height=360,resizable=0,scrollbars=no,menubar=no,status=no');"><span>Chat live!</span></a>
-	       <a id="supportLink" href="/support"><span>Support</span></a>
-               <a id="networkLink" href="/network-status"><span>Network</span></a>
-               <a id="cartLink" href="/iBizPanel/ShoppingCart"><span>Cart</span></a>
 	
-<div id="panelLogin">
-     <span id="loginLinks"><a href="/iBizPanel/Login" id="pa_loginLink">Login</a></span>
-</div>
-
-	</div>
-</div>
-
-</div> <!-- end bh -->
-
-
-		<div id="header">
-                    <div class="menu">
-
-<ul>
-    <li class="menuTop">
-    <a href="/cloud-automation" target="_self" title="Cloud Automation">Cloud Automation</a>
-    <ul class="menuDrop">
-          <li>
-        <div class="bgTop"></div>
-        <div class="bgInfo">
-                    <a href="/windows-cloud-servers" target="_self" title="Cloud Servers"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Cloud Servers</div></a>
-
-          <a href="/cloud-datacenters" target="_self" title="Cloud Datacenters (Enterprise)"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Cloud Datacenters</div></a>
-
-          <a href="/free-cloud-consulting" target="_self" title="Free Cloud Consulting"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Free Cloud Consulting</div></a>
-
-
-        </div>
-        <div class="bgBottom"></div>
-      </li>
-
-    </ul>
-  </li>
-
-  <li class="menuTop">
-    <a href="/real-infrastructure" target="_self" title="Real Infrastructure">Real Infrastructure</a>
-    <ul class="menuDrop">
-          <li>
-        <div class="bgTop"></div>
-        <div class="bgInfo">
-                    <a href="/compare-all-servers" target="_self" title="Compare All Servers"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Compare All Servers</div></a>
-
-          <a href="/virtualization-hypervisors" target="_self" title="Virtualization"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Server Virtualization</div></a>
-
-          <a href="/server-clusters" target="_self" title="Server Clusters"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Server Clusters</div></a>
-
-          <a href="/custom-server-cluster" target="_self" title="Order a Custom Cluster or Grid"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Order a Custom Cluster</div></a>
-
-
-        </div>
-        <div class="bgBottom"></div>
-      </li>
-
-    </ul>
-  </li>
-
-  <li class="menuTop">
-    <a href="/managed-services" target="_self" title="Managed Services">Managed Services</a>
-    <ul class="menuDrop">
-          <li>
-        <div class="bgTop"></div>
-        <div class="bgInfo">
-                    <a href="/system-administration" target="_self" title="System Administration"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">System Administration</div></a>
-
-          <a href="/switches-for-dedicated-servers" target="_self" title="Switches"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Switches</div></a>
-
-          <a href="/firewalls-security" target="_self" title="Firewalls &amp; Security"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Firewalls &amp; Security</div></a>
-
-          <a href="/bandwidth" target="_self" title="Bandwidth"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Bandwidth</div></a>
-
-          <a href="/compellent" target="_self" title="Compellent SAN / NAS Storage"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Compellent Storage</div></a>
-
-          <a href="/ip-addresses-for-dedicated-servers" target="_self" title="IP Addresses"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">IP Addresses</div></a>
-
-          <a href="/server-backup-services" target="_self" title="Automated Server Backups"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Server Backup Services</div></a>
-
-          <a href="/monitoring-service" target="_self" title="Monitoring Service"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Monitoring Service</div></a>
-
-
-        </div>
-        <div class="bgBottom"></div>
-      </li>
-
-    </ul>
-  </li>
-
-  <li class="menuTop">
-    <a href="/support" target="_self" title="Support Center">Support Center</a>
-    <ul class="menuDrop">
-          <li>
-        <div class="bgTop"></div>
-        <div class="bgInfo">
-                    <a href="/contact-support" target="_self" title="Contact Support"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Contact Support</div></a>
-
-          <a href="/network-status" target="_self" title="Network Status"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Network Status</div></a>
-
-          <a href="/six-star-support" target="_self" title="Six-Star Support"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">6-Star Support</div></a>
-
-          <a href="/policies" target="_self" title="Legal &amp; Policies"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Legal &amp; Policies</div></a>
-
-          <a href="/downloads" target="_self" title="Downloads"><div><img src="/assets/images/button-cari-menu.png" alt="Menu Bg">Downloads</div></a>
-
-
-        </div>
-        <div class="bgBottom"></div>
-      </li>
-
-    </ul>
-  </li>
-
-
-</ul>
-
-
-                     </div> <!-- end menu -->
-        </div> <!-- end header -->
-
-
-	<div id="billboard" style="background-image:url(/assets/images/billboards/billboard_img_blank.jpg); height:219px">
-		<div class="billboardText">
-<div class="pagebanner">
-<img width="154px" style="float:left;margin-right:20px" src="/assets/images/billboard_carinet_icon.png">
-<h1 style="margin-top:20px;text-transform:uppercase;">Support Center</h1>
-<h3>…because your support is ultimately our primary concern</h3>
-</div>
-
-
-		</div><!-- Privacy Policy .billboardText -->
-	</div><!-- #billboard -->
-
-
-<div id="contentWrapper">
-
-
-<div id="content">
-
-<div id="introText">
-	<h2>CariNet Privacy Policy</h2>
-
-
-</div> <!-- introText -->
-
-<p><strong>Introduction.</strong><br>
-   We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our <a href="terms-of-service">Terms of Service.</a></p>
-
-<p><strong>1. Collection of Data.</strong><br>
-   Our registration process requires you to provide personally identifiable information. Providing us with other information is at your option. Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site. Like many web sites, we may also automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how advertising may be served on this site (if at all) is set forth below.</p>
-
-<p><strong>2. Use of Data.</strong><br>
-   We may use Data to customize and improve your user experience on this site. We will make efforts so that your Data will not be provided to third parties unless <br>
-   (i) provided for otherwise in this Privacy Policy; <br>
-   (ii) we obtain your consent, such as when you choose to opt-in or opt-out to the sharing of Data; <br>
-   (iii) a service provided on our site requires the interaction with or is provided by a third party, by way of example an Application Service Provider; <br>
-   (iv) pursuant to legal process or law enforcement; <br>
-   (v) we find that your use of this site violates this Policy, <a href="terms-of-service">Terms of Service</a>, other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property; <br>
-   (vi) this site is purchased by a third party whereby that third party will be able to use the Data in the same manner as we can as set forth in this Policy. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites.</p>
-
-<p><strong>3. Cookies.</strong><br>
-   Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.</p><br>
-<p><strong>4. Editing or Deleting Your Account Information.</strong><br>
-   We provide you with the ability to edit the information in your user account information that you provided to us in registration by using your personal page configuration area. You may request deletion of your user account by contacting our webmaster. Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our <a href="terms-of-service">Terms of Service</a> for more information.</p><br>
-<p><strong>5. Changes to this Privacy Policy.</strong><br>
-   We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings.</p><br>
-<p><strong>6. NO <span class="caps">GUARANTEES</span>.</strong><br>
-   While this Privacy Policy states our standards for maintenance of Data and we will make efforts to meet them, we are not in a position to guarantee these standards. There may be factors beyond our control that may result in disclosure of data. As a consequence, we disclaim any warranties or representations relating to maintenance or non-disclosure of Data.</p>
-
-<p><strong>7. Contact Information.</strong><br>
-   If you have any questions about this Policy or our web site, please feel free to <a href="contact-us">contact us </a>.</p>
-
-
-
-</div> <!-- content -->
-
-<div id="sidebar">
-  <div class="sideNav">
-    <div class="sideNavTop">
-      <form id="sidebarSearch" class="search" action="/search-results" method="post">
-        <input class="searchField" type="text" name="search" value="search" size="17" onfocus="if (this.value=='search') this.value='';" onblur="if(this.value=='') this.value='search';">
-      </form>
-    </div>
-    <div class="sideNavMiddle">
-      <ul class="sideNavLinks">
-<li><a class="level0 active" href="/support" title="Support Center">Support Center</a></li>
-<li class="level1"><a class="level1" href="/contact-support" title="Contact Support">Contact Support</a></li>
-<li class="level1"><a class="level1" href="/network-status" title="Network Status">Network Status</a></li>
-<li class="level1"><a class="level1" href="/six-star-support" title="Six-Star Support">6-Star Support</a></li>
-<li class="level1 active"><a class="level1 active" href="/policies" title="Legal &amp; Policies">Legal &amp; Policies</a>  <ul>
-    <li class="level2"><a class="level2" href="/acceptable-use-policy" title="Acceptable Use Policy">Acceptable Use</a></li>
-<li class="level2 active activeItem"><a class="level2 active activeItem" href="/privacy-policy" title="Privacy Policy">Privacy</a></li>
-<li class="level2"><a class="level2" href="/terms-of-service" title="Terms of Service">Terms of Service</a></li>
-<li class="level2"><a class="level2" href="/opt-in-standards" title="Opt-In Standards">Opt-In Standards</a></li>
-<li class="level2"><a class="level2" href="/security-policies" title="Security Policies">Security</a></li>
-<li class="level2"><a class="level2" href="/billing-policy" title="Billing Policy">Billing</a></li>
-<li class="level2"><a class="level2" href="/bandwidth-policy" title="Bandwidth Policy">Bandwidth</a></li>
-<li class="level2"><a class="level2" href="/dedicated-server-contract" title="Dedicated Server Contract">Dedicated Server Contract</a></li>
-<li class="level2"><a class="level2" href="/sla" title="SLA">Service Level Agreement</a></li>
-<li class="last level2"><a class="last level2" href="/money-back-guarantee" title="Money Back Guarantee">Money Back Guarantee</a></li>
-
-  </ul></li>
-<li class="last level1"><a class="last level1" href="/downloads" title="Downloads">Downloads</a></li>
-
-
-      </ul>
-    </div>
-    <div class="sideNavBottom">
-      <a href="javascript: var e = window.open('http://chat.cari.net/SightMaxAgentInterfaceCari/PreChatSurvey.aspx?accountID=1&amp;siteID=2&amp;queueID=6',
-'chatWindow','width=510,height=360,resizable=0,scrollbars=no,menubar=no,status=no');" id="sideNavChatLink">Chat</a>
-      <a href="contact-us" id="sideNavContactLink">888.221.5902</a>
-    </div>
-  </div> <!-- sideNav -->
-
-</div> <!-- sidebar -->
-
-</div> <!-- contentWrapper -->
-
-</div> <!-- wrapper -->
-
-
-
-<div class="clear"></div>
-
-<div id="footerBox">
-<div id="footer">
-
-<div class="emblems">
-       <a id="mSilverHosting" class="emblem"><img src="/assets/images/footer/microsoft_silver_hosting.jpg" alt="Microsoft Partner - Silver Hosting"></a>
-       <a id="sas70" class="emblem" href="/sas70-certified">
-              <div class="title">SAS70</div>
-              <div class="legend">Type II Certified</div>
-       </a>
-</div>
-
-<div class="footerBottomHolder">
-<div id="footer-top">
- <form class="search" action="/search-results" method="post">
-                <input class="footerSearchField" type="text" name="search" value="search" size="17" onfocus="if (this.value=='search') this.value='';" onblur="if(this.value=='') this.value='search';">
-<style>
-.footerSearchField {
-padding: 5px 10px 5px 10px;
-color: white;
-background: #001933;
-border-radius: 5px;
-border: none;
-font-size: 14px;
-position: absolute;
-top: 15px;
-left: 30px;
-width: 120px;
-}
-</style>
-        </form>
-</div>
- <!--
-<ul class="footerBottom">
-                <li><a href="/support">Support Center</a></li>
-                <li><a href="/why-carinet">About CARInet</a></li>
-                <li>&copy; Copyright CariNet, Inc.</li>
-        </ul>
- -->
-<div id="footer-sitemap">
-        <ul class="footerBottom">
-                <li><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/cloud-automation">Cloud Automation</a></p><ul><li><a href="/windows-cloud-servers" title="Cloud Servers">Cloud Servers</a></li>
-<li><a href="/cloud-datacenters" title="Cloud Datacenters (Enterprise)">Cloud Datacenters</a><ul><li><a href="/microsoft-system-center" title="Microsoft System Center Suite">Microsoft System Center Suite</a><ul><li><a href="/microsoft-virtual-machine-manager" title="Microsoft Virtual Machine Manager">Virtual Machine Manager</a></li>
-</ul></li>
-<li><a href="/abiquo-enterprise-cloud-management" title="Abiquo Enterprise Cloud Management">Abiquo Enterprise Cloud </a></li>
-<li class="last"><a href="/applogic" title="AppLogic">AppLogic</a></li>
-</ul></li>
-<li class="last"><a href="/free-cloud-consulting" title="Free Cloud Consulting">Free Cloud Consulting</a></li>
-</ul>
-</li>
-                <li><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/real-infrastructure">Real Infrastructure</a></p><ul><li><a href="/compare-all-servers" title="Compare All Servers">Compare All Servers</a><ul><li><a href="/operating-systems" title="Operating Systems">Operating Systems</a><ul><li><a href="/windows-server-2008" title="Windows Server 2008">Windows Server 2008</a></li>
-<li class="last"><a href="/linux-dedicated-servers" title="Linux">Linux</a></li>
-</ul></li>
-<li><a href="/control-panels" title="Control Panels">Control Panels</a><ul><li><a href="/plesk" title="Plesk Server Control Panel">Plesk</a></li>
-<li class="last"><a href="/cpanel" title="cPanel">cPanel</a></li>
-</ul></li>
-<li><a href="/webmatrix" title="Microsoft WebMatrix">Microsoft WebMatrix</a></li>
-<li><a href="/webmatrix-promo" title="Free Windows 2008R2">Free Windows 2008R2</a></li>
-<li><a href="/kvm-over-ip" title="KVM over IP">KVM over IP</a></li>
-<li class="last"><a href="/ssd-solid-state-storage" title="SSD Storage">SSD Storage</a></li>
-</ul></li>
-<li><a href="/virtualization-hypervisors" title="Virtualization">Server Virtualization</a><ul><li><a href="/windows-hyper-v" title="Windows Hyper-V">Windows Hyper-V</a></li>
-<li><a href="/virtuozzo-containers" title="Virtuozzo Containers">Virtuozzo Containers</a></li>
-<li><a href="/vmware-vsphere-hypervisor-esxi" title="VMware vSphere Hypervisor (ESXi)">VMware vSphere (ESXi)</a></li>
-<li><a href="/citrix-xenserver" title="Citrix® XenServer®">Citrix® XenServer</a></li>
-<li class="last"><a href="/kernel-based-virtual-machine" title="Kernel-based Virtual Machine">Kernel-based Virtual Machine</a></li>
-</ul></li>
-<li><a href="/server-clusters" title="Server Clusters">Server Clusters</a></li>
-<li class="last"><a href="/custom-server-cluster" title="Order a Custom Cluster or Grid">Order a Custom Cluster</a></li>
-</ul>
-</li>
-                <li><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/managed-services">Managed Services</a></p><ul><li><a href="/system-administration" title="System Administration">System Administration</a></li>
-<li><a href="/switches-for-dedicated-servers" title="Switches">Switches</a></li>
-<li><a href="/firewalls-security" title="Firewalls &amp; Security">Firewalls &amp; Security</a></li>
-<li><a href="/bandwidth" title="Bandwidth">Bandwidth</a></li>
-<li><a href="/compellent" title="Compellent SAN / NAS Storage">Compellent Storage</a></li>
-<li><a href="/ip-addresses-for-dedicated-servers" title="IP Addresses">IP Addresses</a></li>
-<li><a href="/server-backup-services" title="Automated Server Backups">Server Backup Services</a></li>
-<li class="last"><a href="/monitoring-service" title="Monitoring Service">Monitoring Service</a></li>
-</ul>
-</li>
-                <li><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/support">Support Center</a></p><ul><li><a href="/contact-support" title="Contact Support">Contact Support</a></li>
-<li><a href="/network-status" title="Network Status">Network Status</a></li>
-<li><a href="/six-star-support" title="Six-Star Support">6-Star Support</a></li>
-<li class="active"><a href="/policies" title="Legal &amp; Policies">Legal &amp; Policies</a><ul><li><a href="/acceptable-use-policy" title="Acceptable Use Policy">Acceptable Use</a></li>
-<li class="active"><a href="/privacy-policy" title="Privacy Policy">Privacy</a></li>
-<li><a href="/terms-of-service" title="Terms of Service">Terms of Service</a></li>
-<li><a href="/opt-in-standards" title="Opt-In Standards">Opt-In Standards</a></li>
-<li><a href="/security-policies" title="Security Policies">Security</a></li>
-<li><a href="/billing-policy" title="Billing Policy">Billing</a></li>
-<li><a href="/bandwidth-policy" title="Bandwidth Policy">Bandwidth</a></li>
-<li><a href="/dedicated-server-contract" title="Dedicated Server Contract">Dedicated Server Contract</a></li>
-<li><a href="/sla" title="SLA">Service Level Agreement</a></li>
-<li class="last"><a href="/money-back-guarantee" title="Money Back Guarantee">Money Back Guarantee</a></li>
-</ul></li>
-<li class="last"><a href="/downloads" title="Downloads">Downloads</a></li>
-</ul>
-</li>
-                <li><p style="text-align:left;padding:0;margin:0;" class="menustart"><a href="/why-carinet">About CARInet</a></p><ul><li><a href="/contact-us" title="Contact Us">Contact Us</a></li>
-<li><a href="/customer-testimonials" title="Customer Testimonials">Testimonials</a></li>
-<li><a href="/san-diego-datacenters" title="Our Datacenters">Our Datacenters</a><ul><li><a href="/sas70-certified" title="SAS 70">SAS 70 Type II Certified</a></li>
-<li><a href="/power-infrastructure" title="Power Infrastructure">Power Infrastructure</a></li>
-<li><a href="/raised-floor-cooling-systems" title="Raised Floor Cooling Systems">Raised Floor Cooling</a></li>
-<li class="last"><a href="/network" title="The Network">The Network</a><ul><li><a href="/network-connectivity" title="Network Connectivity">Network Connectivity</a></li>
-<li><a href="/network-speed-test" title="Network Speed Test">Network Speed Test</a></li>
-<li class="last"><a href="/network-status" title="Network Status">Network Status</a></li>
-</ul></li>
-</ul></li>
-<li><a href="/our-partners" title="Our Partners">Partners</a></li>
-<li><a href="/news-press-releases" title="News">News</a></li>
-<li class="last"><a href="/reseller-friendly" title="Reseller-Friendly">Reseller-Friendly</a></li>
-</ul>
-</li>
-        </ul> 
-</div>
-<p>© Copyright CariNet, Inc.</p>
-
-</div> <!-- footerBottom -->
-
-</div> <!-- footer -->
-</div> <!-- footer-box -->
-
-
-<!-- Start of Google Analytics -->
-
-<!-- End of Google Analytics -->
-
-<script type="text/javascript" src="http://chat.cari.net/SightMaxAgentInterface/Monitor.smjs?accountID=1&amp;siteID=2&amp;queueID=6&amp;jquery=false"></script>
-
-
-</body></html>
+					</body></html>
