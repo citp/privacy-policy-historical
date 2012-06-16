@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the maturedatingonly.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231230800id_/http%3A//www.maturedatingonly.com/maturesinglesonly/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maturedatingonly.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616032946id_/http%3A//www.maturedatingonly.com/mature_dating/privacy.php) for the most accurate reproduction.*
 
-# None
+# Mature Dating Only : Matchmaking, Dating Online, No Dating Games, Find Real Singles
+
+**  
+Privacy Policy**
+
+Return to Our Home Page
 
 Effective Date: March 10, 2005 
 
 Mature Dating Only (“Mature Dating Only”, “us” or “we”), has created this privacy policy (hereinafter the “Privacy Policy”) in order to disclose our information gathering and dissemination practices. We understand the importance that Internet users place on privacy and have designed our service with this in mind. You agree to this Privacy Policy, in its entirety, when you: 1) access or use Mature Dating Only (the “Website”); and/or 2) select and register for an offer(s) on the Website by clicking the offer(s) presented. If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website.
 
-If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for direct marketing purposes, please e-mail us at optout@maturedatingonly.com
-
+If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for direct marketing purposes, please e-mail us at optout@maturedatingonly.com  
 **  
 Information We Collect:**
 
