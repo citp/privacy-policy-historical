@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3resource.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218125854id_/http%3A//www.w3resource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3resource.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616074911id_/http%3A//www.w3resource.com/privacy.php) for the most accurate reproduction.*
 
 # About privacy policy of w3resource
 
@@ -15,7 +15,3 @@
 6\. If links of other web sites are used, w3resource do not have any reponsiblity of their privacy policies.
 
 7\. You can mail to w3resource2011@gmail.com if you want to know any further information regarding our privacy policy. 
-
-[](http://del.icio.us/post?url=http://www.w3resource.com/privacy.php&title=Privacy%20policy) [](http://www.facebook.com/sharer.php?u=http://www.w3resource.com/privacy.php&t=Privacy%20policy) [](http://feeds.feedburner.com/w3resource)  [](http://digg.com/submit?url=http://www.w3resource.com/privacy.php&title=Privacy%20policy) [](http://reddit.com/submit?url=http://www.w3resource.com/privacy.php&title=Privacy%20policy) [](http://www.stumbleupon.com/submit?url=http://www.w3resource.com/privacy.php&title=Privacy%20policy) [](http://twitter.com/?status=Privacy%20policy?:http://www.w3resource.com/privacy.php)
-
-[](http://www.seoxpart.com/?p=w3r500X90)
