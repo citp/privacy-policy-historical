@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sterlingholidays.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216011220id_/http%3A//www.sterlingholidays.com/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sterlingholidays.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616061917id_/http%3A//www.sterlingholidays.com/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
-# Sterling Holidays | Privacy Policy
+# Sterling Holidays | Privacy policy of the website
 
 This Site is owned  and operated  by Sterling Holiday Resorts (India) Ltd
 
