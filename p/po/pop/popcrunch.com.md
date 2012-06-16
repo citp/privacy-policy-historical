@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the popcrunch.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213014427id_/http%3A//www.popcrunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcrunch.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616055233id_/http%3A//www.popcrunch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy – Last Updated April, 2009**  
+**Privacy Policy – Last Updated May, 2012**  
 Thank you for visiting a SeaWaves Technology ("we" or "us") Web site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personal information you submit on Web pages where this policy is posted.
 
 As we operate internationally, and many of our computer systems are currently based in the United States, your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with this site as a visitor from outside the United States, you will be asked during the initial registration to consent to the collection and/or processing in the United States of your personally identifiable information, which includes the use of cookies as described below.
@@ -62,3 +62,8 @@ Visitors to this site may participate in many activities without providing any p
 
 **Notification Regarding Updates**  
 From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
+
+ **Cookies & 3rd Party Advertisements**  
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
