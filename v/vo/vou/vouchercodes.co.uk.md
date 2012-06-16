@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224003221id_/http%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616150950id_/http%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # VoucherCodes.co.uk Data Protection and Privacy Policy
 
-eConversions Limited ("We") are committed to protecting and respecting your privacy.
+WhaleShark Media UK Ltd. ("We") are committed to protecting and respecting your privacy.
 
 This policy (together with our website terms and conditions that apply to your use of our website and our mobile application terms and conditions that apply to your use of our mobile application) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is eConversions Limited of 1st Floor, 33-41 Dallington Street, London, EC1V 0BB.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is WhaleShark Media UK Ltd. of 1st Floor, 33-41 Dallington Street, London, EC1V 0BB.
 
 ## Information We May Collect from You
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site www.VoucherCodes.co.uk (the Website) or the registration process for our mobile application (the “App”). This includes information provided at the time of registering for our newsletter, posting discounts and other material or contacting us. We may also ask you for information when you report a problem with the Website or the App.
+  * Information that you provide by filling in forms on our site www.VoucherCodes.co.uk (the Website) or the registration process for our mobile application (the 'App'). This includes information provided at the time of registering for our newsletter, posting discounts and other material or contacting us. We may also ask you for information when you report a problem with the Website or the App.
   * If you contact us, we may keep a record of that correspondence.
   * If you enter one of our competitions we will keep a copy of the data you submit to us.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
@@ -24,7 +24,7 @@ We may collect and process the following data about you:
 
 We may collect information about your computer or mobile device, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our business users. This is statistical data about our users' browsing actions and patterns.
 
-For the same reason, we may obtain information about your usage of the Website or the App by using a cookie file which is stored on the hard drive of your computer or the internal memory of your mobile device. Cookies contain information that is transferred to your computer's hard drive or your mobile device’s internal memory. They help us to improve our Website and our App and to deliver a better and more personalised service. They enable us:
+For the same reason, we may obtain information about your usage of the Website or the App by using a cookie file which is stored on the hard drive of your computer or the internal memory of your mobile device. Cookies contain information that is transferred to your computer's hard drive or your mobile device's internal memory. They help us to improve our Website and our App and to deliver a better and more personalised service. They enable us:
 
   * To estimate our audience size and usage pattern.
   * To store information about your preferences, and so allow us to customise our Website or App according to your individual interests.
@@ -94,12 +94,27 @@ The Website or our App may, from time to time, contain links to and from the web
 
 ## Access to Information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of L10 to meet our costs in providing you with details of the information we hold about you.
 
 ## Changes to Our Data Protection and Privacy Policy
 
 Any changes we may make to our data protection and privacy policy in the future will be posted on this page.
 
+## Opt-out process
+
+To unsubscribe from our newsletter please login to your account and update your preferences on the Email Options tab. Alternatively you can reply to one of our Newsletters with 'UNSUBSCRIBE' in the subject line.
+
 ## Contact
 
 Questions, comments and requests regarding this data protection and privacy policy are welcomed and should be addressed [here](https://web.archive.org/contact-us.html).
+
+**Address**  
+31-33 Dallington Street  
+London  
+EC1V 0BB
+
+**Telephone**  
+020 7566 9840
+
+**Email Address**  
+[help@vouchercodes.co.uk](mailto:help@vouchercodes.co.uk)
