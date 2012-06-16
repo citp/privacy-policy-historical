@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postsgenius.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205151610id_/http%3A//www.postsgenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postsgenius.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616133841id_/http%3A//www.postsgenius.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Posts Genius
 
@@ -9,10 +9,14 @@
 BackLinks Genius Ltd may collect and use the following kinds of personal information:
 
   * information about your use of this website;
-  * information that you provide using for the purpose of registering with the website;
-  * information about transactions carried out over this website;
-  * information that you provide for the purpose of subscribing to the website services;
+  * information that you provide for the purpose of registering with the website;
   * any other information that you send to BackLinks Genius Ltd.
+
+
+
+## What we do not collect
+
+  * financial details of our customers (like credit/debit cards, login details to PayPal and Moneybookers...)
 
 
 
@@ -24,21 +28,21 @@ BackLinks Genius Ltd may use your personal information to:
   * personalize the website for you;
   * enable your access to and use of the website services;
   * publish information about you on the website;
-  * send to you products that you purchase;
-  * supply to you services that you purchase;
+  * send you products that you purchase;
+  * supply you services that you purchase;
   * send you statements and invoices;
   * collect payments from you; and
   * send you marketing communications.
 
 
 
-Where BackLinks Genius Ltd discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
+Where BackLinks Genius Ltd discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor will be obligated to use that personal information strictly in accordance with the terms of this privacy statement.
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, BackLinks Genius Ltd may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
+In addition to the disclosures reasonably necessary for the purposes identified above, BackLinks Genius Ltd may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, or in order to establish, exercise or defend its legal rights.
 
 ## Securing your data
 
-BackLinks Genius Ltd will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+BackLinks Genius Ltd will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
 
 BackLinks Genius Ltd will store all the personal information you provide on its secure servers.
 
@@ -60,7 +64,7 @@ You agree to such cross-border transfers of personal information.
 
 BackLinks Genius Ltd may update this privacy policy by posting a new version on this website.
 
-You should check this page occasionally to ensure you are familiar with any changes.
+You should check this page occasionally to ensure you are familiar with any changes, and you will be by bound by the most recent version, as published by us.
 
 ## Other websites
 
