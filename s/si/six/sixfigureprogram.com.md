@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sixfigureprogram.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125111757id_/http%3A//www.sixfigureprogram.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixfigureprogram.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617002641id_/http%3A//sixfigureprogram.com/2012/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Six Figure Program
+# 
 
 ### Privacy Policy
 
-We may collect your personal information but only if you voluntarily provide your personal information such as email address, name, address, phone number. We may collect your name and email address to provide you with a free gift such as our “Success Blueprint”, a free DVD, free video, etc. You will receive such a free gift via email or by way of "snail mail" if we designate same. You may also receive similar emails with other material. You may opt-out of our email list anytime you like. We are can-spam compliant. You can click the unsubscribe link in any email. Or, just send us an email asking us to opt-out which you can send to: ben@sixfigureprogram.com or dave@sixfigureprogram.com.
+We may collect your personal information but only if you voluntarily provide your personal information such as email address, name, address, phone number. We may collect your name and email address to provide you with a free gift such as our â€œSuccess Blueprintâ€, a free DVD, free video, etc. You will receive such a free gift via email or by way of "snail mail" if we designate same. You may also receive similar emails with other material. You may opt-out of our email list anytime you like. We are can-spam compliant. You can click the unsubscribe link in any email. Or, just send us an email asking us to opt-out which you can send to: ben@sixfigureprogram.com or dave@sixfigureprogram.com.
 
 **Order Information**
 
