@@ -1,18 +1,431 @@
-<!--The following is the downloaded HTML source of the forward.com privacy policy that was archived on 2011-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218084922id_/http%3A//www.forward.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forward.com privacy policy that was archived on 2012-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616221905id_/http%3A//forward.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dt"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Privacy Policy – Forward.com</title>
+    <meta property="fb:admins" content="8400548">
     <meta name="keywords" content="Newspaper, Jewish news, Forward, New York">
     <meta name="description" content="Jewish news, arts, opinion and video">
-    <style type="text/css" media="screen">@import 'http://www.forward.com/workspace/assets/styles/main.css?v=8';</style>
-    <style type="text/css" media="print">@import 'http://www.forward.com/workspace/assets/styles/print.css';</style>
-    <link rel="icon" type="image/gif" href="http://www.forward.com/favicon.gif">
+    <script type="text/javascript" async="" src="https://d1gp8joe0evc8s.cloudfront.net/horizon/v1.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" media="screen" href="http://forward.com/workspace/assets/styles/main.css?v=22" type="text/css">
+    <link rel="stylesheet" media="print" href="http://forward.com/workspace/assets/styles/print.css" type="text/css">
+    <script type="text/javascript">
+	var client_ip = '174.129.228.67';
+</script>
+    <style type="text/css">
+		#videolink				{display:none;font-size:9px;font-family:serif;position:absolute;color:#888}
+		#videolink a				{text-decoration:none;color:#888}
+
+		div.insitepopup				{width:700px;height:380px;padding:0px;margin:0px;}
+		/* box-shadow:0px 0px 11px #ccc; */
+		div.videowrap				{
+padding-left:16px;height:244px;width:441px;
+/* border stuff -  solid #00a4e0 */
+background:transparent url(//forward.com/workspace/assets/images/system/video_tab.gif) no-repeat 0 0;
+}
+
+		h1.quote 				{color:#0079b6;font-weight:normal;font-size:28px;background:transparent url(//forward.com/workspace/assets/images/system/libeskind.png) no-repeat 100% 0;padding:0 88px 0 0;margin-top:1em;line-height:1.2;font-family:Georgia,serif;margin-bottom:0}
+		h2.quote				{color:#074076;font-weight:normal;font-size:36px;line-height:1.2;margin-left:16px;font-family:Georgia,serif}
+		h1.quote em 				{font-style:normal;color:#717171;font-size:14px;vertical-align:middle;font-family:'Lucida Sans Unicode','Lucida Grande',sans-serif}
+
+		table.layouttable			{border:0px;border-collapse:collapse;margin:0;padding:0}
+		td					{vertical-align:bottom;padding:0}
+
+
+		/* controls */
+		#closebutton				{background:transparent url(//forward.com/workspace/assets/images/system/donatenow-x.png) no-repeat 0 0;float:right;display:block;width:22px;height:22px}
+		#closebutton strong			{display:none}
+
+		#donatebutton				{background:transparent url(//forward.com/workspace/assets/images/system/donatenow.png) no-repeat 14px 0;height:48px;width:333px;display:block}
+		#donatebutton strong			{display:none}
+
+		/* bling */
+		/*
+		div.videowrap,
+		div.insitepopup,
+		*/
+		#donatebutton				{border-radius:5px;-moz-border-radius:5px;-khtml-border-radius:5px;-webkit-border-radius:5px}
+		/*
+		#closebutton				{border-radius:8px;-moz-border-radius:8px;-khtml-border-radius:8px;-webkit-border-radius:8px}
+		*/
+	</style>
+    <link rel="stylesheet" type="text/css" href="//forward.com/workspace/assets/scripts/colorbox/colorbox.css">
+    <script type="text/javascript">
+$171 = $;
+jQuery = $;
+</script>
+    <script type="text/javascript" src="//forward.com/workspace/assets/scripts/colorbox/jquery.colorbox-min.js"></script>
+    <script type="text/javascript"><!--//
+
+function show_popup() {
+    
+    //for debugging, don't do anything unless the ip address is in the following list:
+    var allow_ips = [
+        '127.0.0.1', 
+        '207.38.220.120',
+	    '69.200.245.170',
+        '72.43.152.214',
+        '108.27.36.130',
+        '::1'
+    ];
+
+    // Forward office IP: 72.43.152.214
+    // MH office IP: 108.27.36.130
+    // if (allow_ips.indexOf(client_ip) == -1) {
+    //     return false;
+    // }
+
+    //if this cookie is set, just return
+    if (parseInt(get_cookie('never_popup'), 10) == 1 || parseInt(get_cookie('never_popup_special'), 10) == 1) {
+        return false;
+    }
+
+    //the amount of time that separates one visit from another
+    var visit_timeout = (60 * 30) * 1000; //30 minutes
+
+    // if(client_ip == '108.27.36.130') {
+    //     visit_timeout = (60 * .5) * 1000; //30 seconds, for debugging
+    // }
+    
+    var now = new Date();
+    var last_pageview = parseInt(get_cookie('last_pageview'), 10);
+    var visit_count = parseInt(get_cookie('visit_count'), 10);
+    var shown_this_session = parseInt(get_cookie('shown_this_session'), 10);
+    
+    if (isNaN(last_pageview)) {
+        last_pageview = 0;
+    }
+    
+    if (isNaN(visit_count)) {
+        visit_count = 0;
+    }
+    
+    if (isNaN(shown_this_session)) {
+        shown_this_session = 0;
+    }
+    
+    var visit_count_expire = new Date();
+    visit_count_expire.setTime(now.getTime() + (365 * 24 * 60 * 60 * 1000));
+    var last_pageview_expire = new Date();
+    last_pageview_expire.setTime(now.getTime() + visit_timeout);
+
+    //log the current time as the time of the last pageview, and set it to expire in 30 minutes
+    set_cookie('last_pageview', now.getTime(), last_pageview_expire.toGMTString());
+
+    //if there was no last pageview set, or it has been longer than 30 min since the last pageview
+    //this is considered a new "visit"
+    //if it's a new visit, and the total number of visits is >= 5 (including this one), show the popup
+
+    //the shown_this_session var is probably not needed, since we only ever show the popup on 
+    //the first pageview of a visit, and after that pageview the last_pageview var would be set
+    //however, it cant hurt in the event of some weird edge cases, like the user changing their computer's local time
+    if (!last_pageview || ((now - last_pageview) > visit_timeout)) {
+        visit_count++;
+        set_cookie('visit_count', visit_count, visit_count_expire.toGMTString());
+        
+        //since it is a new "visit", clear the shown this session cookie
+        set_cookie('shown_this_session', 0, visit_count_expire);
+        
+        if (visit_count >= 5) {
+            set_cookie('shown_this_session', 1, visit_count_expire);
+            return true;
+        }
+    }
+    
+    return false;
+}
+
+
+function getParameterByName(name) {
+  name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+  var regexS = "[\\?&]" + name + "=([^&#]*)";
+  var regex = new RegExp(regexS);
+  var results = regex.exec(window.location.search);
+  if(results == null)
+    return "";
+  else
+    return decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+
+function set_cookie(name, value, expiration) {
+    var domain = '.forward.com';
+    // var domain = '.forward.local'; //for my local debugging only
+    document.cookie = name + '=' + value + '; expires=' + expiration + '; domain=' + domain + '; path=/';
+}
+
+function get_cookie(name) {
+    if (document.cookie && document.cookie.length && document.cookie.split) {
+        var cookies = document.cookie.split(';');
+        for (var i in cookies) {
+          if (cookies[i] && cookies[i].split) {
+            var data = cookies[i].split('=');
+            var key = data[0];
+            var value = data[1];
+        
+            if (key) {
+                key = key.split(' ').join('');
+            }
+        
+            if (value) {
+                value = value.split(' ').join('');
+            }
+
+            if (key == name) {
+                return value;
+            }
+          }
+        }
+    }
+
+    return false;
+}
+
+//this is not needed once this goes live
+//not all browsers support the indexOf function, so this adds it if needed
+//however, indexOf is ONLY being used to check the ip addresses for testing
+//so this function can be removed once the ip check is removed
+if (!Array.prototype.indexOf) {
+    Array.prototype.indexOf = function(elt /*, from*/) {
+        var len = this.length >>> 0;
+        var from = Number(arguments[1]) || 0;
+        from = (from < 0) ? Math.ceil(from) : Math.floor(from);
+        
+        if (from < 0) {
+            from += len;
+        }
+
+        for (; from < len; from++) {
+            if (from in this && this[from] === elt) {
+                return from;
+            }
+        }
+        return -1;
+    };
+}
+
+// client_ip == '69.200.245.170' || 
+
+if (getParameterByName('clear_never') || getParameterByName('set_never')) {
+	var never_value = getParameterByName('clear_never') ? 0 : 1;
+	var never_now = new Date();
+	var never_popup_timeout = (365 * 24 * 60 * 60) * 1000; // one year
+	var never_popup_expire = new Date();
+	never_popup_expire.setTime(never_now.getTime() + never_popup_timeout);
+	if (getParameterByName('clear_never')) {
+		set_cookie('never_popup_special', 0, never_popup_expire.toGMTString());
+		set_cookie('never_popup', 0, never_popup_expire.toGMTString());
+	}
+	else {
+		set_cookie('never_popup_special', 1, never_popup_expire.toGMTString());
+		(function($) {
+		    $(function() {
+		        // create event in GA for setting never_popup_special cookie
+		        _gaq.push(['_trackEvent', 'Fundraising', 'Popup_blocked', client_ip]);
+		    });
+		})($171);
+	}
+
+	
+}
+
+
+// change this to true to re-enable popup:
+var popup_enabled = false;
+
+if ((show_popup() && popup_enabled) || getParameterByName('show_popup')) {
+
+console.log('success');
+
+(function($) {
+    $(function() {
+
+        function show_box() {
+            // create event in GA for fundraising popup
+            _gaq.push(['_trackEvent', 'Fundraising', 'Popup_displayed', document.title]);
+            _gaq.push(['giving._setAccount', 'UA-7290892-3']);
+            _gaq.push(['giving._setDomainName', 'giving.forward.com']);
+    if(client_ip == '72.43.152.214') {
+	_gaq.push(['giving._setCustomVar', 1, 'Internal', 'Forward', 2]);
+    }
+    else if(client_ip == '108.27.36.130' || client_ip == '69.86.139.158') {
+	_gaq.push(['giving._setCustomVar', 1, 'Internal', 'MH', 2]);
+    }
+            _gaq.push(['giving._trackEvent', 'Popup', 'displayed', document.title]);
+
+
+            if (1) {
+            	$('#donate-vimeo-wrapper').append('<iframe src="https://player.vimeo.com/video/42372614?title=0&amp;byline=0&amp;portrait=0" width="430" height="244" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>');
+                return true;
+            }
+            else {
+                 return false;
+             }
+            
+            var cookies = document.cookie.split(';');
+            for (var i in cookies) {
+                var data = cookies[i].split('=');
+                var key = $.trim(data[0]);
+                var value = $.trim(data[1]);
+                
+                if (key == 'sailthru_hid' || key == 'newsletter_sub' || key == 'seen_newsletter_box') {
+                    return false;
+                }
+            }
+            
+            return true;
+        }
+        
+        
+        function open_colorbox() {
+            $.colorbox({
+                inline: true, 
+                href: '#newsletter-popup',
+                opacity: 0.8, 
+                innerWidth: 755,
+                onClosed: function(){$('#step1').remove();},
+                // innerWidth: 740,
+                close: '<img src="//forward.com/workspace/assets/images/newsletter/close.gif" />', 
+                scrolling: false
+            });
+            
+            var date = new Date();
+    		date.setTime(date.getTime()+((365*2)*24*60*60*1000));
+    		var expires = "; expires="+date.toGMTString();
+    		document.cookie = 'seen_newsletter_box=' + (new Date().getTime() / 1000) + expires + "; path=/";
+        }
+        
+        $('#subForm').submit(function() {
+            var email = $('#nstkr-nstkr').val();
+            
+            if (email.match(/^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}$/i)) {
+                $.post('/newsletter/ajax.php?step=1', {
+                    email: email,
+                    list: 'daily',
+                    optin: true
+                }, function(response) {
+                    $('#persist-email').val(email);
+                    
+                    $('#step1').hide();
+                    $('#step2').show();
+                    open_colorbox();
+                });
+            }
+            
+            return false;
+        });
+
+        if (show_box()) {
+            open_colorbox();
+        }
+        
+        $('.text').focus(function() {
+            $(this).removeClass('error');
+        });
+        
+        $('#newsletter-step1').submit(function() {
+            var name = $('#pop-name').removeClass('error').val();
+            var email = $('#pop-email').removeClass('error').val();
+            var list = $('.subtype:checked').val();
+            var food = $('#food').is(':checked');
+            var optin = $('#optin').is(':checked');
+            
+            error = false;
+            if (!name) {
+                error = true;
+                $('#pop-name').addClass('error');
+            }
+            
+            if (!email.match(/^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}$/i)) {
+                error = true;
+                $('#pop-email').addClass('error');
+            }
+            
+            if (!error) {
+                $.post('/newsletter/ajax.php?step=1', {
+                    name: name,
+                    email: email,
+                    list: list,
+                    food: food,
+                    optin: optin
+                }, function(response) {
+                    $('#persist-email').val(email);
+                    
+                    $('#step1').fadeOut(300, function() {
+                        $('#step2').fadeIn(300, function() {
+                            $.colorbox.resize();
+                        });
+                    });
+                });
+            }
+            
+            return false;
+        });
+        
+        $('.close-pop').click(function() {
+            $.colorbox.close();
+        });
+        
+        $('#newsletter-step2').live('submit', function() {
+            var email = $('#persist-email').val();
+            
+            if (email) {
+                $.post('/newsletter/ajax.php?step=2', {
+                    email: email,
+                    first_name: $('#first_name').val(),
+                    last_name: $('#last_name').val(),
+                    middle_name: $('#middle_name').val(),
+                    suffix: $('#suffix').val(),
+                    address1: $('#address1').val(),
+                    address2: $('#address2').val(),
+                    city: $('#city').val(),
+                    state: $('#state').val(),
+                    zip: $('#zip').val(), 
+                    printsub: $('.printsub:checked').val()
+                }, function(response) {
+                    $('#step2').fadeOut(300, function() {
+                        $('#step3').fadeIn(300, function() {
+                            $.colorbox.resize();
+                        });
+                    }); 
+                });
+            }
+            
+            return false;
+        });
+    });
+})($171);
+
+
+$171(function() {
+	// Handler for .ready() called.
+	if(window['postMessage']) {
+		// Create IE + others compatible event handler
+		var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+		var eventer = window[eventMethod];
+		var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+		// Listen to message from child window
+		eventer(messageEvent,function(e) {
+  			if(e.data == 'close_video') { $171.colorbox.close(); }
+		},false);
+	}
+});
+
+
+
+}
+
+//console.log(show_popup());
+//this is just to help test, it lets you know once the session expired (assuming you enabled the 30 second sessions at the top)
+//setTimeout(function() { alert('new session') }, 32000);
+
+//--></script>
+    <link rel="icon" type="image/gif" href="//forward.com/favicon.gif">
     <meta name="robots" content="noydir">
     <meta name="robots" content="noodp">
-    <script type="text/javascript" async="" src="https://d1gp8joe0evc8s.cloudfront.net/horizon/v1.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/workspace/assets/scripts/jquery-tab.js"></script>
+    <script type="text/javascript" src="/workspace/assets/scripts/jquery-tab.js"></script>
     <script type="text/javascript">
+jQuery.noConflict(true);
   $(document).ready(function() {
     $(".tabLink").each(function(){
       $(this).click(function(){
@@ -29,20 +442,97 @@
     <meta name="google-site-verification" content="Che-BL0Nf7FlQDewGZfSE4LKhbbgSEKxsIUVhHfhJ7w">
     <script type="text/javascript">
 
+var load_ads = 0;
+
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-7290892-1']);
   _gaq.push(['_setDomainName', 'forward.com']);
+
+
+        load_human_stuff();
+if (typeof jQuery != 'undefined') {
+   $(window).one("mousemove", function() {
+       setCookie('human', 1, 365*2);
+   });
+}
+
+
+
+function load_ga() {
   _gaq.push(['_trackPageview']);
+    if(client_ip == '72.43.152.214') {
+	_gaq.push(['_setCustomVar', 1, 'Internal', 'Forward', 2]);
+    }
+    else if(client_ip == '108.27.36.130' || client_ip == '69.86.139.158') {
+	_gaq.push(['_setCustomVar', 1, 'Internal', 'MH', 2]);
+    }
+
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+} // end of load_ga()
+
+
+
+
+
+function readCookie(name) {
+   name += '=';
+   for (var ca = document.cookie.split(/;\s*/), i = ca.length - 1; i != -1; i--) {
+       if (!ca[i].indexOf(name)) {
+           return ca[i].replace(name, '');
+       }
+   }
+}
+
+function load_human_stuff() {
+   //load google analytics, clicky, quantcast, and ads
+        load_ga();
+}
+
+function setCookie(c_name,value, exdays)
+{
+   var exdate=new Date();
+   exdate.setDate(exdate.getDate() + exdays);
+   var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+   document.cookie=c_name + "=" + c_value;
+}
+
 
 </script>
   </head>
   <body style="background-color:transparent;">
+    <input type="hidden" id="load_ads" value="0" name="load_ads">
+    <div style="display:none">
+      <div id="newsletter-popup">
+        <div id="step1" style="display:block;padding-left:10px;">
+          <div class="insitepopup">
+            <h1 class="quote quote1"><span class="qmark-o">“</span>The Forward is one of my favorite papers in <br>the world.<span class="qmark-c">”</span><em>– Daniel Libeskind, Architect</em></h1>
+            <table class="layouttable">
+              <tbody><tr>
+                <td rowspan="2">
+                  <div class="videowrap" id="donate-vimeo-wrapper"></div>
+                </td>
+                <td>
+                  <h2 class="quote quote2"><span class="qmark-o">“</span>I think we all <br>should <br>support <br>The Forward.<span class="qmark-c">”</span></h2>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a href="https://giving.forward.com/?utm_source=forward.com&amp;utm_medium=referral&amp;utm_term=Popup&amp;utm_campaign=v1" id="donatebutton" onclick="_gaq.push(['_trackEvent', 'Fundraising', 'Popup_clicked', document.title]);_gaq.push(['giving._trackEvent', 'Popup', 'clicked_donatebutton', document.title]);">
+                    <strong>Donate now</strong>
+                  </a>
+                </td>
+              </tr>
+            </tbody></table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <input type="hidden" id="persist-email">
     <div id="header">
       <div id="top-bar">
         <div id="top-bar-nav">
@@ -91,10 +581,10 @@
                 </ul>
               </li>
             </ul>
-            <script type="text/javascript" src="/workspace/assets/scripts/ads/1x1tracker.js"></script><script src="https://web.archive.org/web/20111001222340/http://forward.advertserve.com/servlet/view/banner/javascript/zone?zid=43&amp;pid=1&amp;random=31315128&amp;millis=1580406428097&amp;referrer=https%3A//web.archive.org/web/20111218084922id_/http%3A//www.forward.com/privacy-policy/" type="text/javascript"></script>
+            <script type="text/javascript" src="/workspace/assets/scripts/ads/1x1tracker.js"></script><script src="https://web.archive.org/web/20111001222340/http://forward.advertserve.com/servlet/view/banner/javascript/zone?zid=43&amp;pid=1&amp;random=96143962&amp;millis=1580406428559&amp;referrer=https%3A//web.archive.org/web/20120616221905id_/http%3A//forward.com/privacy-policy/" type="text/javascript"></script>
             <noscript>
               <a href="http://forward.advertserve.com/servlet/click/zone?zid=43&amp;pid=1&amp;lookup=true&amp;position=1" rel="nofollow" target="_blank">
-                <img src="http://forward.advertserve.com/servlet/view/banner/image/zone?zid=43&amp;pid=1&amp;position=1" hspace="0" vspace="0" border="0" alt="." />
+                <img src="//forward.advertserve.com/servlet/view/banner/image/zone?zid=43&amp;pid=1&amp;position=1" hspace="0" vspace="0" border="0" alt="." />
               </a>
             </noscript>
           </div>
@@ -102,7 +592,7 @@
         <div id="socialnetworking-nav-hold">
           <div>
             <form action="/newsletter/signup/form.php" method="get" id="subForm" target="Newsletter" onsubmit="window.open('','Newsletter','scrollbars,height=450,width=720,resizable')">
-              <label for="nstkr-nstkr"><a href="http://www.forward.com/newsletter/">Free Newsletter</a>: </label>
+              <label for="nstkr-nstkr"><a href="http://forward.com/newsletter/">Free Newsletter</a>: </label>
               <input type="text" name="email" id="nstkr-nstkr" value="enter your email" onclick="if(this.value=='enter your email')this.value=''" onblur="if(this.value=='')this.value='enter your email'">
               <input id="nlsubmit" type="submit" value="GO" target="Newsletter">
             </form>
@@ -110,31 +600,31 @@
         </div>
         <div id="sharingicons">
           <a href="http://www.facebook.com/jewishdailyforward" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_Social_Facebook', window.location.href]);">
-            <img src="http://www.forward.com/workspace/assets/newimages/social/facebook.png" alt="Facebook" title="Facebook">
+            <img src="http://forward.com/workspace/assets/newimages/social/facebook.png" alt="Facebook" title="Facebook">
           </a>
           <a href="https://twitter.com/Jdforward" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_Social_Twitter', window.location.href]);">
-            <img src="http://www.forward.com/workspace/assets/newimages/social/twitter.png" alt="Twitter" title="Twitter">
+            <img src="http://forward.com/workspace/assets/newimages/social/twitter.png" alt="Twitter" title="Twitter">
           </a>
           <a href="http://itunes.apple.com/us/podcast/forward-com/id351434716" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_Social_iTunes', window.location.href]);">
-            <img src="http://www.forward.com/workspace/assets/newimages/social/itunes.png" alt="iTunes Podcasts" title="iTunes Podcasts">
+            <img src="http://forward.com/workspace/assets/newimages/social/itunes.png" alt="iTunes Podcasts" title="iTunes Podcasts">
           </a>
           <a href="http://forward.com/syndication/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_Social_RSS', window.location.href]);">
-            <img src="http://www.forward.com/workspace/assets/newimages/social/rss.png" alt="RSS" title="RSS">
+            <img src="http://forward.com/workspace/assets/newimages/social/rss.png" alt="RSS" title="RSS">
           </a>
           <a href="http://forward.com/mobile/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_Social_Mobile', window.location.href]);">
-            <img src="http://www.forward.com/workspace/assets/newimages/social/mobile.png" alt="Mobile" title="Mobile">
+            <img src="http://forward.com/workspace/assets/newimages/social/mobile.png" alt="Mobile" title="Mobile">
           </a>
         </div>
       </div>
       <br clear="all">
       <div id="header-wrap">
         <h3 id="logo">
-          <a href="http://www.forward.com" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Logo', window.location.href]);">Forward.com</a>
+          <a href="http://forward.com" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Logo', window.location.href]);">Forward.com</a>
         </h3>
         <div id="eshopad-728x90">
           <script type="text/javascript"><!--//
 document.write('<scr'+'ipt src="http://forward.advertserve.com/servlet/view/banner/javascript/zone?zid=3&pid=1&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" type="text/javascript"></scr'+'ipt>');
-//--></script><script src="http://forward.advertserve.com/servlet/view/banner/javascript/zone?zid=3&amp;pid=1&amp;random=36323978&amp;millis=1580406429198&amp;referrer=https%3A//web.archive.org/web/20111218084922id_/http%3A//www.forward.com/privacy-policy/" type="text/javascript"></script>
+//--></script><script src="http://forward.advertserve.com/servlet/view/banner/javascript/zone?zid=3&amp;pid=1&amp;random=78893173&amp;millis=1580406429809&amp;referrer=https%3A//web.archive.org/web/20120616221905id_/http%3A//forward.com/privacy-policy/" type="text/javascript"></script>
         </div>
       </div>
     </div>
@@ -142,46 +632,43 @@ document.write('<scr'+'ipt src="http://forward.advertserve.com/servlet/view/bann
       <div id="navcontainer">
         <ul id="navlist">
           <li>
-            <a href="http://www.forward.com" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Home', window.location.href]);">Home</a>
+            <a href="http://forward.com" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Home', window.location.href]);">Home</a>
           </li>
           <li>
-            <a href="http://www.forward.com/sections/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections', window.location.href]);">Sections</a>
+            <a href="http://forward.com/sections/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections', window.location.href]);">Sections</a>
             <ul>
               <li>
-                <a href="http://www.forward.com/sections/news/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_News', window.location.href]);">News</a>
+                <a href="http://forward.com/sections/news/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_News', window.location.href]);">News</a>
               </li>
               <li>
-                <a href="http://www.forward.com/sections/arts-and-culture/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_Arts', window.location.href]);">Arts &amp; Culture</a>
+                <a href="http://forward.com/sections/arts-and-culture/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_Arts', window.location.href]);">Arts &amp; Culture</a>
               </li>
               <li>
-                <a href="http://www.forward.com/sections/fast-forward/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_Features', window.location.href]);">Features</a>
+                <a href="http://forward.com/sections/fast-forward/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_Features', window.location.href]);">Features</a>
               </li>
               <li>
                 <a href="#" class="opinion">Opinion</a>
               </li>
-              <li>
-                <a style="padding-top: 4px; padding-left: 24px; font-size: 0.8em;" href="http://www.forward.com/sections/editorial/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_Opinion_Editorials', window.location.href]);">Editorials</a>
+              <li class="subnav_level2">
+                <a href="http://forward.com/sections/editorial/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_Opinion_Editorials', window.location.href]);">Editorials</a>
+              </li>
+              <li class="subnav_level2">
+                <a href="http://forward.com/sections/forward-forum/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_Opinion_ForwardForum', window.location.href]);">Forward Forum</a>
+              </li>
+              <li class="subnav_level2">
+                <a href="http://forward.com/sections/letters/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_Opinion_Letters', window.location.href]);">Letters to the Editor</a>
               </li>
               <li>
-                <a style="padding-top: 4px; padding-left: 24px; font-size: 0.8em;" href="http://www.forward.com/sections/forward-forum/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_Opinion_ForwardForum', window.location.href]);">Forward Forum</a>
+                <a href="http://forward.com/channels/yiddish/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_YiddishScene', window.location.href]);">The Yiddish Scene</a>
               </li>
               <li>
-                <a style="padding-top: 4px; padding-left: 24px; font-size: 0.8em;" href="http://www.forward.com/sections/letters/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_Opinion_Letters', window.location.href]);">Letters to the Editor</a>
-              </li>
-              <li>
-                <a href="http://www.forward.com/channels/yiddish/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_YiddishScene', window.location.href]);">The Yiddish Scene</a>
-              </li>
-              <li>
-                <a href="http://www.forward.com/archives/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_Archives', window.location.href]);">Archives</a>
+                <a href="http://forward.com/archives/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Sections_Archives', window.location.href]);">Archives</a>
               </li>
             </ul>
           </li>
           <li>
             <a href="http://blogs.forward.com" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Blogs', window.location.href]);">Blogs</a>
             <ul>
-              <li>
-                <a href="http://blogs.forward.com/avraham-burg/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Blogs_' + this.href, window.location.href]);">Torah Tent</a>
-              </li>
               <li>
                 <a href="http://blogs.forward.com/forward-thinking/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Blogs_' + this.href, window.location.href]);">Forward Thinking</a>
               </li>
@@ -197,31 +684,34 @@ document.write('<scr'+'ipt src="http://forward.advertserve.com/servlet/view/bann
               <li>
                 <a href="http://blogs.forward.com/the-shmooze/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Blogs_' + this.href, window.location.href]);">The Shmooze</a>
               </li>
+              <li>
+                <a href="http://blogs.forward.com/blognik-beat/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Blogs_' + this.href, window.location.href]);">Blognik Beat</a>
+              </li>
             </ul>
           </li>
           <li>
             <a href="#">Multimedia</a>
             <ul>
               <li>
-                <a href="http://www.forward.com/sections/videos/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Multimedia_Videos', window.location.href]);">Videos</a>
+                <a href="http://forward.com/sections/videos/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Multimedia_Videos', window.location.href]);">Videos</a>
               </li>
               <li>
-                <a href="http://www.forward.com/sections/podcasts/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Multimedia_Podcasts', window.location.href]);">Podcasts</a>
+                <a href="http://forward.com/sections/podcasts/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Multimedia_Podcasts', window.location.href]);">Podcasts</a>
               </li>
-              <li>
-                <a style="padding-top: 4px; padding-left: 24px; font-size: 0.8em;" href="http://www.forward.com/tags/interview-series/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Multimedia_Podcasts_InterviewSeries', window.location.href]);">Interview Series</a>
+              <li class="subnav_level2">
+                <a href="http://forward.com/tags/interview-series/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Multimedia_Podcasts_InterviewSeries', window.location.href]);">Interview Series</a>
               </li>
-              <li>
-                <a style="padding-top: 4px; padding-left: 24px; font-size: 0.8em;" href="http://www.forward.com/tags/reporters-roundtable/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Multimedia_Podcasts_ReportersRoundtable', window.location.href]);">Reporters' Roundtable</a>
+              <li class="subnav_level2">
+                <a href="http://forward.com/tags/reporters-roundtable/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Multimedia_Podcasts_ReportersRoundtable', window.location.href]);">Reporters' Roundtable</a>
               </li>
-              <li>
-                <a style="padding-top: 4px; padding-left: 24px; font-size: 0.8em;" href="http://www.forward.com/tags/womens-roundtable/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Multimedia_Podcasts_WomensRoundtable', window.location.href]);">Women's Roundtable</a>
+              <li class="subnav_level2">
+                <a href="http://forward.com/tags/womens-roundtable/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Multimedia_Podcasts_WomensRoundtable', window.location.href]);">Women's Roundtable</a>
               </li>
-              <li>
-                <a style="padding-top: 4px; padding-left: 24px; font-size: 0.8em;" href="http://www.forward.com/tags/yid-lit-podcast/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Multimedia_Podcasts_YidLit', window.location.href]);">Yid Lit</a>
+              <li class="subnav_level2">
+                <a href="http://forward.com/tags/yid-lit-podcast/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Multimedia_Podcasts_YidLit', window.location.href]);">Yid Lit</a>
               </li>
-              <li>
-                <a style="padding-top: 4px; padding-left: 24px; font-size: 0.8em;" href="http://yiddish.forward.com/last-radio-program/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Multimedia_Podcasts_YiddishRadio', window.location.href]);">Yiddish Radio Hour</a>
+              <li class="subnav_level2">
+                <a href="http://yiddish.forward.com/last-radio-program/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'TopNav_Multimedia_Podcasts_YiddishRadio', window.location.href]);">Yiddish Radio Hour</a>
               </li>
             </ul>
           </li>
@@ -285,84 +775,34 @@ document.write('<scr'+'ipt src="http://forward.advertserve.com/servlet/view/bann
             </div>
           </div>
         </div>
-        <div id="side-b">
-          <div id="search_box-hold">
-            <div id="search_box">
-              <form id="search_form" method="get" action="http://www.forward.com/search">
-                <input name="query" type="text" id="s" value="Search forward.com" onclick="if(this.value=='Search forward.com')this.value=''" onblur="if(this.value=='')this.value='Search forward.com'" class="swap_value">
-                <input type="image" src="http://www.forward.com/workspace/assets/images/system/btn_search_box.png" width="65" height="19" id="go" alt="Search" title="Search">
-              </form>
-            </div>
-          </div>
-          <div id="textads">
-            <p><a href="https://giving.forward.com/newyear">Support Non-Profit, Independent Jewish Journalism</a><br>
-Make a tax-deductible donation to the Forward.<br><span class="tiny"><a href="https://giving.forward.com/newyear">More info</a></span></p>
-            <p><a href="http://amzn.to/ftPFmF">Your online purchases help sustain Forward.com</a><br>
-Amazon gives us a percentage, at no extra cost to you.<br><span class="tiny"><a href="http://amzn.to/ftPFmF">Start shopping here</a></span></p>
-          </div>
-          <div class="onetwenty-nav">
-            <script type="text/javascript" src="http://www.forward.com/workspace/assets/scripts/ads/300x600top.js"></script>
-            <br clear="all">
-          </div>
-          <div class="tab-box">
-            <a href="javascript:;" class="tabLink activeLink" id="cont-1">Most Read</a>
-            <a href="javascript:;" class="tabLink " id="cont-2">Most Emailed</a>
-          </div>
-          <div class="tabcontent" id="cont-1-1">
-            <div id="mostread">
-              <ol>
-                <li>
-                  <a href="http://forward.com/articles/148001/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot1-' + 'link:Remembering-Paula-Hyman--Pioneering-Historian-and-Feminist' + '-page:' + window.location.href]);">Remembering Paula Hyman, Pioneering Historian and Feminist</a>
-                </li>
-                <li>
-                  <a href="http://forward.com/articles/148061/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot2-' + 'link:Remembering-Christopher-Hitchens' + '-page:' + window.location.href]);">Remembering Christopher Hitchens</a>
-                </li>
-                <li>
-                  <a href="http://forward.com/articles/147900/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot3-' + 'link:Intrepid-Guide-Takes-You-to-Territories' + '-page:' + window.location.href]);">Intrepid Guide Takes You to Territories</a>
-                </li>
-                <li>
-                  <a href="http://forward.com/articles/147978/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot4-' + 'link:Conservatives-Put-Out-New-Anti-Obama-Ad' + '-page:' + window.location.href]);">Conservatives Put Out New Anti-Obama Ad</a>
-                </li>
-                <li>
-                  <a href="http://forward.com/articles/147911/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot5-' + 'link:Spinoza-of-Wall-Street' + '-page:' + window.location.href]);">Spinoza of Wall Street</a>
-                </li>
-              </ol>
-            </div>
-          </div>
-          <div class="tabcontent hide" id="cont-2-1">
-            <div id="mostemailed">
-              <ol>
-                <li>
-                  <a href="http://forward.com/articles/148001/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot1-' + 'link:Remembering-Paula-Hyman--Pioneering-Historian-and-Feminist' + '-page:' + window.location.href]);">Remembering Paula Hyman, Pioneering Historian and Feminist</a>
-                </li>
-                <li>
-                  <a href="http://forward.com/articles/148052/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot2-' + 'link:Christopher-Hitchens-Dies-at-62' + '-page:' + window.location.href]);">Christopher Hitchens Dies at 62</a>
-                </li>
-                <li>
-                  <a href="http://forward.com/articles/133958/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot3-' + 'link:The-Real-Truth-About-Santa-Claus' + '-page:' + window.location.href]);">The Real Truth About Santa Claus</a>
-                </li>
-                <li>
-                  <a href="http://forward.com/articles/147922/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot4-' + 'link:Brooklyn-D-A--Refuses-To-Name-Child-Sex-Abusers-' + '-page:' + window.location.href]);">Brooklyn D.A. Refuses To Name Child Sex Abusers </a>
-                </li>
-                <li>
-                  <a href="http://forward.com/articles/148061/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot5-' + 'link:Remembering-Christopher-Hitchens' + '-page:' + window.location.href]);">Remembering Christopher Hitchens</a>
-                </li>
-              </ol>
-            </div>
-          </div>
-          <div class="ad300x250">
-            <script type="text/javascript" src="http://www.forward.com/workspace/assets/scripts/ads/300x250sidebar.js"></script>
-          </div>
-          <br clear="all">
-          <script type="text/javascript" src="http://www.forward.com/workspace/assets/scripts/ads/300x250sidebar_top.js"></script>
-          <br clear="all">
-        </div>
+        <div id="side-b"><div id="search_box-hold"><div id="search_box"><form id="search_form" method="get" action="http://forward.com/search"><input name="query" type="text" id="s" value="Search forward.com" onclick="if(this.value=='Search forward.com')this.value=''" onblur="if(this.value=='')this.value='Search forward.com'" class="swap_value"><input type="image" src="http://forward.com/workspace/assets/images/system/btn_search_box.png" width="65" height="19" id="go" alt="Search" title="Search"></form></div></div><div id="textads"><script type="text/javascript"><!--//
+document.write('<scr'+'ipt src="//forward.advertserve.com/servlet/view/text/javascript/zone?zid=71&pid=1&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" type="text/javascript"></scr'+'ipt>');
+//--></script><script src="//forward.advertserve.com/servlet/view/text/javascript/zone?zid=71&amp;pid=1&amp;random=64349329&amp;millis=1580406429821&amp;referrer=https%3A//web.archive.org/web/20120616221905id_/http%3A//forward.com/privacy-policy/" type="text/javascript"></script><script type="text/javascript"><!--//
+document.write('<scr'+'ipt src="//forward.advertserve.com/servlet/view/text/javascript/zone?zid=72&pid=1&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" type="text/javascript"></scr'+'ipt>');
+//--></script><script src="//forward.advertserve.com/servlet/view/text/javascript/zone?zid=72&amp;pid=1&amp;random=49316101&amp;millis=1580406429821&amp;referrer=https%3A//web.archive.org/web/20120616221905id_/http%3A//forward.com/privacy-policy/" type="text/javascript"></script></div><div class="onetwenty-nav"><script type="text/javascript" src="//www.forward.com/workspace/assets/scripts/ads/300x600top.js"></script><br clear="all"></div><div class="tab-box"><a href="javascript:;" class="tabLink activeLink" id="cont-1">Most Read</a><a href="javascript:;" class="tabLink " id="cont-2">Most Emailed</a></div><div class="tabcontent" id="cont-1-1"><div id="mostread"><ol><li><a href="http://forward.com/articles/157766/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot1-' + 'link:Changing-Face-of-New-York-Jewry' + '-page:' + window.location.href]);">Changing Face of New York Jewry</a></li><li><a href="http://forward.com/articles/157785/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot2-' + 'link:Time-To-Rethink-the-New-York-Jew' + '-page:' + window.location.href]);">Time To Rethink the New York Jew</a></li><li><a href="http://forward.com/articles/157814/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot3-' + 'link:Nod-to-Change-as-Jacobs-Takes-URJ-Reins' + '-page:' + window.location.href]);">Nod to Change as Jacobs Takes URJ Reins</a></li><li><a href="http://forward.com/articles/157892/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot4-' + 'link:Kirk-Douglas-Set-for-Bar-Mitzvah-at-95' + '-page:' + window.location.href]);">Kirk Douglas Set for Bar Mitzvah at 95</a></li><li><a href="http://forward.com/articles/157781/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot5-' + 'link:The-Depths-of-Nixonland' + '-page:' + window.location.href]);">The Depths of Nixonland</a></li></ol></div></div><script type="text/javascript"><!--//
+$(function() {
+
+$.getJSON('//forward.com/other/testgapi/most_emailed.php', function(data) {
+  var items = [];
+  var i = 1;
+  var handle = '';
+
+  $.each(data, function(key, val) {
+    handle = key.replace(/[^\w\d]/gi, "-");
+    items.push('<li><a href="' + val + '" onClick="_gaq.push([' + "'_trackEvent', 'ClickTracking', 'Sidebar_MostReadArticlesLinks', 'spot" + i++ + '-' + handle + "'" + ']);">' + key + '</a></li>');
+  });
+
+  $(items.join('')).appendTo('#mostemailed_list');
+
+});
+});
+//--></script><div class="tabcontent hide" id="cont-2-1"><div id="mostemailed"><ol id="mostemailed_list"></ol></div></div><div class="ad300x250"><script type="text/javascript" src="//www.forward.com/workspace/assets/scripts/ads/300x250sidebar.js"></script></div><br clear="all"><br clear="all"><script type="text/javascript" src="//www.forward.com/workspace/assets/scripts/ads/300x250sidebar_top.js"></script></div>
         <div id="footer">
           <div id="footer-extras">
             <div id="footer-728x90">
               <script type="text/javascript"><!--//
 document.write('<scr'+'ipt src="http://forward.advertserve.com/servlet/view/banner/javascript/zone?zid=1&pid=1&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" type="text/javascript"></scr'+'ipt>');
-//--></script><script src="http://forward.advertserve.com/servlet/view/banner/javascript/zone?zid=1&amp;pid=1&amp;random=97710818&amp;millis=1580406429215&amp;referrer=https%3A//web.archive.org/web/20111218084922id_/http%3A//www.forward.com/privacy-policy/" type="text/javascript"></script>
+//--></script><script src="http://forward.advertserve.com/servlet/view/banner/javascript/zone?zid=1&amp;pid=1&amp;random=60767334&amp;millis=1580406429826&amp;referrer=https%3A//web.archive.org/web/20120616221905id_/http%3A//forward.com/privacy-policy/" type="text/javascript"></script>
             </div>
             <div id="amazon-nav-hold">
               <div id="amazon-nav-widget">
@@ -379,41 +819,41 @@ document.write('<scr'+'ipt src="http://forward.advertserve.com/servlet/view/bann
           <br clear="all">
           <ul>
             <li>
-              <a href="http://www.forward.com" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Home', window.location.href]);">Home</a>
+              <a href="http://forward.com" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Home', window.location.href]);">Home</a>
             </li>
             <li>
-              <a href="http://www.forward.com/advertise/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Advertise', window.location.href]);">Advertise</a>
+              <a href="http://forward.com/advertise/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Advertise', window.location.href]);">Advertise</a>
             </li>
             <li>
-              <a href="http://www.forward.com/subscriptions/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Subscribe', window.location.href]);">Subscribe</a>
+              <a href="http://forward.com/subscriptions/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Subscribe', window.location.href]);">Subscribe</a>
             </li>
             <li>
-              <a href="http://www.forward.com/terms-conditions/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Terms', window.location.href]);">Terms and Conditions</a>
+              <a href="http://forward.com/terms-conditions/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Terms', window.location.href]);">Terms and Conditions</a>
             </li>
             <li>
-              <a href="http://www.forward.com/privacy-policy/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Privacy', window.location.href]);">Privacy Policy</a>
+              <a href="http://forward.com/privacy-policy/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Privacy', window.location.href]);">Privacy Policy</a>
             </li>
             <li>
-              <a href="http://www.forward.com/about/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_About', window.location.href]);">About</a>
+              <a href="http://forward.com/about/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_About', window.location.href]);">About</a>
             </li>
             <li>
-              <a href="http://www.forward.com/sitemap/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Sitemap', window.location.href]);">Sitemap</a>
+              <a href="http://forward.com/sitemap/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Sitemap', window.location.href]);">Sitemap</a>
             </li>
             <li>
-              <a href="http://www.forward.com/sections/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Sections', window.location.href]);">Sections</a>
+              <a href="http://forward.com/sections/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Sections', window.location.href]);">Sections</a>
             </li>
             <li>
-              <a href="http://www.forward.com/syndication/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_RSS', window.location.href]);">RSS</a>
+              <a href="http://forward.com/syndication/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_RSS', window.location.href]);">RSS</a>
             </li>
             <li>
               <a href="http://www.haaretz.com/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Haaretz', window.location.href]);">Haaretz</a>
             </li>
             <li class="last">
-              <a href="http://www.forward.com/newsletter/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Newsletter', window.location.href]);">Newsletter</a>
+              <a href="http://forward.com/newsletter/" onclick="_gaq.push(['_trackEvent', 'ClickTracking', 'Footer_Newsletter', window.location.href]);">Newsletter</a>
             </li>
           </ul>
           <div id="copyright">
-            <p>Copyright © 2011, Forward Association, Inc. All Rights Reserved.</p>
+            <p>Copyright © 2012, Forward Association, Inc. All Rights Reserved.</p>
           </div>
         </div>
       </div>
@@ -422,7 +862,7 @@ document.write('<scr'+'ipt src="http://forward.advertserve.com/servlet/view/bann
  var Tynt=Tynt||[];Tynt.push('d8yyc0U44r37sTadbi-bpO');
  (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
 }</script>
-    <script type="text/javascript" src="http://www.forward.com/workspace/assets/scripts/comments.js"></script>
+    <script type="text/javascript" src="http://forward.com/workspace/assets/scripts/comments.js"></script>
     <script type="text/javascript">
 var _qevents = _qevents || [];
 
@@ -464,11 +904,16 @@ qacct:"p-dcoXs-3nqillU"
                 oldOnLoad();
             }
             Sailthru.setup({
-                domain: 'horizon.forward.com',
+                domain: 'horizon.forward.com'
             });
         };
     })();
 //--></script>
+    <script type="text/javascript">
+if(typeof loadForwardThinking728x90Bottom == 'function') { 
+loadForwardThinking728x90Bottom();
+}
+</script>
   
 
 </body></html>
