@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wegotserved.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209131209id_/http%3A//www.wegotserved.com/2008/11/09/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegotserved.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616145541id_/http%3A//www.wegotserved.com/2008/11/09/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | We Got Served
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
- **(1) What information do we collect?**  
+**(1) What information do we collect?**  
 
 
 We may collect, store and use the following kinds of personal data:
@@ -17,7 +17,7 @@ We may collect, store and use the following kinds of personal data:
 
 (d) any other information that you choose to send to us;
 
- **(2)  Cookies**
+**(2)  Cookies**
 
 A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
@@ -50,7 +50,7 @@ In addition, we may disclose information about you:
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
- **(5)  International data transfers**
+**(5)  International data transfers**
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
@@ -60,7 +60,7 @@ In addition, personal information that you submit for publication on the website
 
 You expressly agree to such transfers of personal information.
 
- **(6)  Security of your personal data**
+**(6)  Security of your personal data**
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
@@ -70,27 +70,27 @@ Of course, data transmission over the internet is inherently insecure, and we ca
 
 You are responsible for keeping your password and user details confidential. We will not ask you for your password.
 
- **(7)  Policy amendments**
+**(7)  Policy amendments**
 
 We may update this privacy policy from time-to-time by posting a new version on our website.  You should check this page occasionally to ensure you are happy with any changes.
 
 We may also notify you of changes to our privacy policy by email.
 
- **(8) Your rights**
+**(8) Your rights**
 
 You may instruct us to provide you with any personal information we hold about you.  Provision of such information may be subject to the payment of a fee.
 
 You may instruct us not to process your personal data for marketing purposes by email  at any time.  (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
 
- **(9)  Third party websites**
+**(9)  Third party websites**
 
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
- **(10)  Updating information**
+**(10)  Updating information**
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
- **(11)   Contact**
+**(11)   Contact**
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email at terry [at] wegotserved.co.uk or by mail at
 
