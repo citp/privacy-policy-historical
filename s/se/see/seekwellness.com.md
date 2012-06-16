@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekwellness.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125192452id_/http%3A//www.seekwellness.com/info/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekwellness.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616090502id_/http%3A//www.seekwellness.com/info/privacy_statement.htm) for the most accurate reproduction.*
 
 # privacy policy
 
