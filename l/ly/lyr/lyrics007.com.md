@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the lyrics007.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211102156id_/http%3A//www.lyrics007.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrics007.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616211426id_/http%3A//www.lyrics007.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|   
 lyrics007.com conjunction with our Advertisers, Affiliates, and Syndicated Providers have established the following statements regarding your privacy online at lyrics007.com  
 Internet user privacy is of paramount importance to lyrics007.com. Below is information regarding lyrics007.com's commitment to protect the privacy of users and to ensure the integrity of the Internet. 
 
@@ -17,6 +16,7 @@ Here's how it works. When you are first served an ad by lyrics007.com, the adver
 
 While we believe that cookies enhance your Web experience by limiting the repetitiveness of advertising and increasing the level of relevant content on the Web, they are not essential for us to continue our leadership position in Web advertising. If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature.
 
-This site, lyrics007.com, use some advertise agent company to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp)  
-  
----|---
+This site, lyrics007.com, use some advertise agent company to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp)
+
+  About Us - [ DMCA](https://web.archive.org/web/20120616211426id_/http%3A//www.lyrics007.com/dmca.html) \- Help - [Privacy Policy](https://web.archive.org/web/20120616211426id_/http%3A//www.lyrics007.com/privacy.html) \- Contact Us   
+ ©CopyRight 2011, LYRICS007.COM, Inc. All Rights Reserved
