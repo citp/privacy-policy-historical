@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ourstage.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228195022id_/http%3A//www.ourstage.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourstage.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616150701id_/http%3A//www.ourstage.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | OurStage.com
+# OurStage Privacy Policy | OurStage
 
 This Privacy Policy describes the information collection and use procedures at this website, located at OurStage.com ("Site"), owned by OurStage, Inc. This notice describes our online information collection and use practices at this Site. 
 
@@ -20,11 +20,11 @@ You may send messages to friends about Site by using the "send to a friend" feat
 
 This Site also uses passive tracking technologies to log non-identifiable information such as IP address, browser type and Site usage. The information collected in this manner is used for site maintenance and development. We may also employ "cookies" or similar technologies provide additional functionality to the Site and help us analyze Site usage more accurately. Some of the features on our Site will only function if your browser is set to accept cookies. Thus, if you decline to accept cookies, certain features of our Site may not operate properly. 
 
-OurStage uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie in your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>. 
+OurStage uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie in your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to [DoubleClick's Privacy Page](http://www.doubleclick.net/us/corporate/privacy). 
 
 ### Children on This Site
 
-This Site is intended for an adult audience, and children under the age of 13 are not eligible to participate. OurStage understands and attempts to comply with the Children's Online Privacy Protection Act, and for that reason uses age screens to block children under 13 from providing personally identifiable information. If you are a parent and believe that your child has submitted OurStage with information, please contact us at [childrenonsite@ourstage.com](mailto:childrenonsite@ourstage.com). 
+This Site is intended for an adult audience, and children under the age of 13 are not eligible to participate. OurStage understands and attempts to comply with the Children's Online Privacy Protection Act, and for that reason uses age screens to block children under 13 from providing personally identifiable information. If you are a parent and believe that your child has submitted OurStage with information, please [contact us](http://www.ourstage.com/about/contact). 
 
 ### Links
 
@@ -32,10 +32,10 @@ From time to time we may include at the Site links to other web sites as a servi
 
 ### Contact Us/Exercising Options About How We Use Your Information
 
-If you are receiving OurStage email advertisements and no longer wish to receive those email messages, you may opt out at the time you receive the message by following the instructions in that email. Please allow ten days for your request to be processed. For questions or concerns regarding the use of personal information you submit to us, please contact us at [community@ourstage.com](mailto:community@ourstage.com). 
+If you are receiving OurStage email advertisements and no longer wish to receive those email messages, you may opt out at the time you receive the message by following the instructions in that email. Please allow ten days for your request to be processed. For questions or concerns regarding the use of personal information you submit to us, please [contact our community team](http://www.ourstage.com/contact/community). 
 
 ### Security and Data Storage
 
 We use standard and reasonable technological and procedural measures to protect the information you provide. Data you provide to us will be stored on our servers in the United States or abroad. By providing us with your information, you understand and consent to the international transfer of your data. 
 
-We urge you to take steps to protect yourself as well. For example, select a neutral username that does not include your name or other personally identifiable information. Do not share your password with anyone else, and to take measures to prevent it from unauthorized access or disclosure. To learn more about how to protect yourself online, we encourage you to visit the government website [www.onguardonline.gov](http://www.onguardonline.gov/). 
+We urge you to take steps to protect yourself as well. For example, select a neutral username that does not include your name or other personally identifiable information. Do not share your password with anyone else, and to take measures to prevent it from unauthorized access or disclosure. To learn more about how to protect yourself online, we encourage you to visit [the government website](http://www.onguardonline.gov/). 
