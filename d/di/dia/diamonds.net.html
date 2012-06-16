@@ -1,148 +1,343 @@
-<!--The following is the downloaded HTML source of the diamonds.net privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101223538id_/http%3A//www.diamonds.net/legal/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diamonds.net privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617010101id_/http%3A//www.diamonds.net/legal/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Diamonds.Net - Privacy Policy
-</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta property="fb:admins" content="1118406552"><meta name="keywords" content=""><meta name="description" content=""><link rel="SHORTCUT ICON" href="http://www.diamonds.net/Favicon.ico"><link id="ctl00_Link4" rel="stylesheet" href="../SiteResource/Styles/DatePicker.css" type="text/css"><link id="ctl00__stylesheetlink" rel="stylesheet" type="text/css"><link id="ctl00_MainStyleSheet" rel="stylesheet" type="text/css" href="/SiteResource/Styles/DnetStyle.css"><link id="ctl00__stylesheettabbar" rel="stylesheet" type="text/css" href="../SiteResource/Styles/TabBar.css"><link id="ctl00__stylesheetheader" rel="stylesheet" type="text/css" href="../SiteResource/Styles/HeaderStyle.css"><link id="ctl00__stylesheetfooter" rel="Stylesheet" type="text/css" href="../SiteResource/Styles/FooterStyle.css"><link id="ctl00__tickerstylesheet" rel="stylesheet" type="text/css"><link rel="stylesheet" href="../SiteResource/Styles/RapNetStyles.css" type="text/css"><meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/SiteResource/JavaScripts/jquery-1.4.2.js" type="text/javascript" language="javascript"></script><link rel="stylesheet" href="../SiteResource/Styles/Dnet.css" type="text/css">
-
+</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta property="fb:admins" content="1118406552"><meta name="keywords" content=""><meta name="description" content=""><link rel="SHORTCUT ICON" href="../Favicon.ico">
+	
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Javascripts/jquery-1.7.1.js" type="text/javascript" language="javascript"> </script>
+	<link href="../Styles/Dnet.css" rel="stylesheet" type="text/css">
+	<!--[if IE]>
+	<link href="../Styles/ieDnet.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
 	<script type="text/javascript" language="javascript">
-		//Any place you would like to run something in the onload of the page 
-		//add a function called body_onload() and put your code in it.
-		function SetPageFadeVisible(Show) {
-			var objPageFade = document.getElementById("divPageFade");
+		var isInsideLogin = false;
 
-			if (objPageFade != null) {
-				if (Show) {
-					SetPageFadeSize(objPageFade);
-
-					objPageFade.style.display = '';
-					objPageFade.style.zIndex = "150";
-				}
-				else {
-					objPageFade.style.display = 'none';
-					objPageFade.style.zIndex = "0";
-				}
+		function SetPageFadeVisible(fadeSwitch) {
+			if (fadeSwitch) {
+				$('body').append('<div id="WindowFade"></div>');
+				$('#WindowFade').css({ 'filter': 'alpha(opacity=40)' }).fadeIn(500);
+			} else {
+				$("#WindowFade").remove();
 			}
 		}
 
-		function SetPageFadeSize(objPageFade) {
-			var Height = document.body.parentNode.scrollHeight;
-			var clientHeight = document.body.parentNode.clientHeight;
-
-			if (clientHeight > Height)
-				Height = clientHeight;
-
-			objPageFade.style.height = Height + "px";
-		}
-
-		function ResizePageFade() {
-			var objPageFade = document.getElementById("divPageFade");
-
-			if (objPageFade != null) {
-				if (objPageFade.style.display == '') {
-					SetPageFadeSize(objPageFade);
-				}
-			}
-		}
-
-		function ShowLogin() {
-			var objLoginForm = document.getElementById("trLoginForm");
-
-			SetPageFadeVisible(true);
-			objLoginForm.style.display = '';
+		function ShowLoginLightBox() {
 			$(".LoginUsername").focus();
-
-			$(function () {
-				$("form input").keypress(function (e) {
-					if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
-						$(".LoginbtnLogin").children("input").click();
-						return false;
-					} else {
-						return true;
-					}
-				});
-			});
-
-			return false;
+			var popupPage = "Login.aspx";
+			ShowInlineModalWindow("", popupPage, 550, 300, false, true, null, null);
 		}
+
+		function ShowTopLoginBox() {
+			$("#TopLoginBox").show();
+			$("#ctl00_ContentPlaceHolderTopNavigation_txtUserName").focus();
+		}
+
+		function GoogleSearch() {
+			var searchText = $('input[name="TopSearchBox"]').val();
+			if (searchText != "") {
+				$("#TopSearchBox").stop();
+				window.open("/SiteSearch/Search.aspx?q=" + searchText, "_self");
+			}
+		}
+
+		function PostUserPass(username, password, remember) {
+			var un = $("#" + username).val();
+			var ps = $("#" + password).val();
+			var rem = $("#" + remember).is(':checked');
+
+			$.support.cors = true;
+			post_to_url("https://www.diamonds.net/Login/LoginPage.aspx", { 'username': un, 'password': ps, 'remember': rem }, "post");
+		}
+
+		function post_to_url(path, params, method) {
+			method = method || "post";
+			// Set method to post by default, if not specified.
+			// The rest of this code assumes you are not using a library.
+			// It can be made less wordy if you use one.
+			var form = document.createElement("form");
+			form.setAttribute("method", method);
+			form.setAttribute("action", path);
+			for (var key in params) {
+				var hiddenField = document.createElement("input");
+				hiddenField.setAttribute("type", "hidden");
+				hiddenField.setAttribute("name", key);
+				hiddenField.setAttribute("value", params[key]);
+				form.appendChild(hiddenField);
+			}
+			document.body.appendChild(form);
+			form.submit();
+		}
+
+		var clockDateTime = new Date(parseInt("1339880461501.11"));
+		var tick;
 
 		$(document).ready(function () {
+			UpdateClock();
 
-			if (window.body_onload != null)
-				window.body_onload();
+			$("#TopLoginBox").hover(function () {
+				isInsideLogin = true;
+			}, function () {
+				isInsideLogin = false;
+			});
 
 			$(".CloseLoginForm").click(function () {
 				$(".CloseLoginFormButton").click();
 			});
 
-			$(".LoginbtnLogin").children("input").click(function () {
-				var User = $(".LoginUsername").val();
-				var Pass = $(".LoginPassword").val();
+			SetDefaultButton("#TopSearchBox", "#TopSearchBoxIcon");
+			SetDefaultButton("#ctl00_ContentPlaceHolderTopNavigation_txtPassword", "#TopLoginButton");
 
-				if (User == "" || Pass == "")
-					return false;
+			$("#BlackLoginTab").click(function () {
+				$("#TopLoginBox").hide();
+			});
 
-				var Remember = $(".LoginRememberMe").children("input").is(':checked');
-				var LoginURL = $(".LoginLoginURL").children("input").val();
-				var ReturnURLAfterLogin = $(".LoginReturnURLAfterLogin").children("input").val();
+			$("body").mouseup(function () {
+				if (!isInsideLogin) $("#TopLoginBox").hide();
+			});
 
-				myform = document.createElement("form");
-				myform.action = LoginURL;
-				myform.method = "post";
+			$(".SocialboxWrapper").hover(function () {
+				$(this).find(".Socialbox").show();
+			}, function () {
+				$(this).find(".Socialbox").hide();
+			});
 
-				form_user = document.createElement("input");
-				form_user.setAttribute("type", "text");
-				form_user.setAttribute("name", "username");
-				form_user.value = User;
+			$("#TopSearchBox").focus(function () {
+				$(this).css("background-image", "none");
+				$(this).css("background-color", "#ffffff");
+				$(this).animate({ "width": "150px" }, "slow");
+				$(this).width(150);
+			});
 
-				form_pwd = document.createElement("input");
-				form_pwd.setAttribute("type", "password");
-				form_pwd.setAttribute("name", "password");
-				form_pwd.value = Pass;
+			$("#TopSearchBox").blur(function () {
+				$(this).css("background-image", "url('/Images/HomePage/search_bg_rpt.png'')");
+				$(this).css("background-color", "#D0D0D0");
+				$(this).animate({ "width": "100px" }, "slow");
+			});
 
-				form_remember = document.createElement("input");
-				form_remember.setAttribute("type", "hidden");
-				form_remember.setAttribute("name", "rememberme");
-				form_remember.value = Remember;
+			$('.OpenInlineModalWindow').click(function () {
+				var openingLink = $(this);
+				var iFramePage = openingLink.attr('ref');
+				var refreshOnClose = false;
+				var showCloseButton = true;
 
-				form_ReturnURLAfterLogin = document.createElement("input");
-				form_ReturnURLAfterLogin.setAttribute("type", "hidden");
-				form_ReturnURLAfterLogin.setAttribute("name", "ReturnURLAfterLogin");
-				form_ReturnURLAfterLogin.value = ReturnURLAfterLogin;
+				if (iFramePage.indexOf("RefreshOnClose=true") != -1)
+					refreshOnClose = true;
 
-				myform.appendChild(form_user);
-				myform.appendChild(form_pwd);
-				myform.appendChild(form_remember);
-				myform.appendChild(form_ReturnURLAfterLogin);
-
-				document.forms[0].appendChild(myform);
-				myform.submit();
+				if (iFramePage.indexOf("ShowCloseButton=false") != -1)
+					showCloseButton = false;
+				ShowInlineModalWindow("", iFramePage, null, null, refreshOnClose, showCloseButton, openingLink, null);
 
 				return false;
 			});
+
+			//Close Popups and Fade Layer
+			$(document).bind('CloseInlineModalWindow', function () {
+				CloseInlineModalWindow(true, false);
+			});
+			$(".CloseInlineModalWindow").live("click", function () {
+				var refreshOnClose = false;
+				if ($(this).hasClass("RefreshOnClose")) {
+					refreshOnClose = true;
+				}
+				var redirectOnClose = false;
+				if ($(this).hasClass("RedirectOnClose")) {
+					redirectOnClose = true;
+				}
+				CloseInlineModalWindow(refreshOnClose, redirectOnClose);
+			});
+			$(".KeepTop").each(function () {
+				var top = $(this).position().top;
+				var element = $(this);
+				var rapNetFooterTop = $(".RapNetFooterTop").position().top;
+				var boxHeight = $(element).find("table").height();
+				setInterval(function () { window.KeepOnTop(element, top, rapNetFooterTop, boxHeight); }, 50);
+			});
+
+
+			window.___gcfg = { lang: 'en' };
+			(function () {
+				var po = document.createElement("script");
+				po.type = "text/javascript";
+				po.async = true;
+				po.src = "https://apis.google.com/js/plusone.js";
+				var s = document.getElementsByTagName("script")[0];
+				s.parentNode.insertBefore(po, s);
+			})();
+
+			!function (d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (!d.getElementById(id)) {
+					js = d.createElement(s);
+					js.id = id;
+					js.src = "//platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js, fjs);
+				}
+			} (document, "script", "twitter-wjs");
+
+			$("#facebookContainer").attr("src", "https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Frapaport&amp;width=200&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false");
 		});
 
-		setInterval("ResizePageFade()", 3000);
-	</script>
-	<style type="text/css">
-		.MainBorder
-		{
-			border: solid 1px #E3E3E3;
-			background-color: #FFFFFF;
+		function SetDefaultButton(sender, button) {
+			if (sender != null) {
+				$(sender).keydown(function (e) {
+					if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
+						$(button).click();
+						return false;
+					} else {
+						return true;
+					}
+				});
+			}
 		}
-		
-		@media print
-		{
-			.MainBorder
-			{
-				border-width: 0px;
-				background-color: #FFFFFF;
+
+		function ShowInlineModalWindow(message, page, frameWidth, frameHeight, refreshOnClose, showCloseButton, sender, RedirectUrlOnClose) {
+			var openingLink = sender;
+			if (page == "" && message == "") {
+				alert("You must provide a URL or Message to show the Inline Modal Window");
 			}
-			.DisplayNoneOnPrint
-			{
-				display: none;
+			if (page != "") {
+				$("#WindowFadeiFrame").attr("src", "/InlineModalWindows/" + page);
+				$("#WindowFadeiFrame").load(function () {
+					//This must be first to obtain the objects in it
+					$(".InlineModalWindow").show();
+					var width = frameWidth;
+					var height = frameHeight;
+					//Use .MainLayout to give the size of the innder layout if not found it will use the size of the body
+					if (frameWidth == null || frameHeight == null) {
+						width = $("#WindowFadeiFrame").contents().find(".MainLayout").width();
+						height = $("#WindowFadeiFrame").contents().find(".MainLayout").height();
+					}
+					if (width == null) {
+						width = $("#WindowFadeiFrame").contents().find("body").width();
+						height = $("#WindowFadeiFrame").contents().find("body").height();
+					}
+					if (width != null) {
+						//set size to fit with padding of the box
+						width = width + 40;
+						height = height + 10;
+						$("#WindowFadeiFrameContainer").css("width", width + "px");
+						$("#WindowFadeiFrameContainer").css("height", height + "px");
+					}
+					if (openingLink != null)
+						$(".InlineModalWindow").css("top", openingLink.position().top);
+					else
+						$(".InlineModalWindow").css("top", "200px");
+				});
+			} else {
+				$("#WindowFadeiFrameContainer").html(message);
+				$(".InlineModalWindow").show();
+				if (frameWidth != null && frameHeight != null) {
+					$("#WindowFadeiFrameContainer").css("width", frameWidth + "px");
+					$("#WindowFadeiFrameContainer").css("height", frameHeight + "px");
+				}
+				if (openingLink != null)
+					$(".InlineModalWindow").css("top", openingLink.position().top);
+				else
+					$(".InlineModalWindow").css("top", "200px");
 			}
-	</style>
+			if (refreshOnClose)
+				$(".CloseInlineModalWindow").addClass("RefreshOnClose");
+			if (RedirectUrlOnClose != null && RedirectUrlOnClose.length > 0) {
+				$(".CloseInlineModalWindow").addClass("RedirectOnClose");
+				$("#spnRedirectUrlOnClose").html(RedirectUrlOnClose);
+			}
+
+			if (showCloseButton == false) {
+				$(".CloseInlineModalWindow").addClass("ClosingStripDontShowButton");
+				$(".CloseInlineModalWindow").removeClass("ClosingStrip");
+				$(".CloseInlineModalWindow").removeClass("CloseInlineModalWindow");
+			}
+
+			//Fade in Background
+			$('body').append('<div id="WindowFade"></div>');
+			$('#WindowFade').css({ 'filter': 'alpha(opacity=40)' }).fadeIn(500);
+		}
+
+		function CloseInlineModalWindow(refreshOnClose, redirectOnClose) {
+			if (refreshOnClose) {
+				document.location = document.location;
+				return false;
+			}
+			if (redirectOnClose) {
+				document.location = $("#spnRedirectUrlOnClose").html();
+				return false;
+			}
+
+			$("#WindowFadeiFrameContainer").attr("width", "0");
+			$("#WindowFadeiFrameContainer").css("width", "0");
+
+			$("#WindowFadeiFrame").unbind("load");
+			//$("#WindowFadeiFrame").empty();
+			$("#WindowFadeiFrame").attr("src", "about:blank");
+
+			$(".InlineModalWindow").hide();
+
+			$("#WindowFade").fadeOut(function () {
+				$("#WindowFade").remove();
+			});
+
+			return false;
+		}
+
+		var month_names = new Array();
+		month_names[month_names.length] = "Jan";
+		month_names[month_names.length] = "Feb";
+		month_names[month_names.length] = "Mar";
+		month_names[month_names.length] = "Apr";
+		month_names[month_names.length] = "May";
+		month_names[month_names.length] = "Jun";
+		month_names[month_names.length] = "Jul";
+		month_names[month_names.length] = "Aug";
+		month_names[month_names.length] = "Sep";
+		month_names[month_names.length] = "Oct";
+		month_names[month_names.length] = "Nov";
+		month_names[month_names.length] = "Dec";
+
+		var day_names = new Array();
+		day_names[day_names.length] = "Sun";
+		day_names[day_names.length] = "Mon";
+		day_names[day_names.length] = "Tue";
+		day_names[day_names.length] = "Wed";
+		day_names[day_names.length] = "Thu";
+		day_names[day_names.length] = "Fri";
+		day_names[day_names.length] = "Sat";
+
+		function FixTime(val) {
+			return (val < 10) ? "0" + val : val;
+		}
+
+		function UpdateClock() {
+			clockDateTime.setSeconds(clockDateTime.getSeconds() + 1);
+			document.getElementById("divTopClock").innerHTML = day_names[clockDateTime.getDay()] + ", " + month_names[clockDateTime.getMonth()] + " " + clockDateTime.getDate() + ", " + clockDateTime.getFullYear() + " " + FixTime(clockDateTime.getUTCHours()) + ":" + FixTime(clockDateTime.getMinutes()) + " NY";
+			tick = setTimeout('UpdateClock()', 1000);
+		}
+
+		function ShowSocialMedia(icon) {
+			alert($(icon).attr("src"));
+			$(icon).next().addClass("selected");
+		}
+
+		function ActivateClearInput() {
+			$(".ClearInput").focusin(function () {
+				var value = $(this).val();
+
+				if (!$(this).hasClass("Clicked")) {
+					$(this).val("");
+					$(this).addClass("Clicked");
+
+					$(this).blur(function () {
+						if ($(this).val() == "") {
+							$(this).val(value);
+							$(this).removeClass("Clicked");
+						}
+					});
+				}
+			});
+		}
+	</script>
+	
+	
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-1193854-1']);
@@ -154,1180 +349,70 @@
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 	</script>
-<script src="/SiteResource/JavaScripts/jsToolTip.js" type="text/javascript"></script>
-<script src="/SiteResource/JavaScripts/Dnet2010.js" type="text/javascript"></script>
-<script src="/SiteResource/JavaScripts/QuickLinksUserControl.js" type="text/javascript"></script>
 </head>
-<body bgcolor="#FFFFFF" link="#000064" vlink="#000064" alink="#FF0000" style="margin: 0px;
-	margin-top: 0px; margin-bottom: 4px;">
-	<script type="text/javascript" language="javascript">
-		
-	</script>
-	<!-- popping div for Javascript Tool Tips. DO NOT REMOVE. -->
-	<div id="tipDiv" class="tip" style="display: none;">
-	</div>
-	<!-- end pop -->
-	<!-- popping div for fading the page DO NOT REMOVE. -->
-	<div id="divPageFade" style="display: none; position: absolute;" class="FadeDiv">
-		&nbsp;
-	</div>
-	<!-- end pop -->
+<body>
 	<form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3ODAyNDM0MzIPZBYCZg9kFgQCAQ9kFgQCCQ8WAh4EaHJlZgUiL1NpdGVSZXNvdXJjZS9TdHlsZXMvRG5ldFN0eWxlLmNzc2QCEA8WAh4EVGV4dAVuPHNjcmlwdCBzcmM9Ii9TaXRlUmVzb3VyY2UvSmF2YVNjcmlwdHMvanF1ZXJ5LTEuNC4yLmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIGxhbmd1YWdlPSJqYXZhc2NyaXB0Ij48L3NjcmlwdD5kAgMPZBYKAgUPZBYCAgEPZBYCAgEPFgIeBWNsYXNzBQZhY3RpdmVkAgcPZBYCZg9kFgICFQ8PFgIfAWVkZAILD2QWAgIBD2QWDAIGDxYEHgtvbm1vdXNlb3ZlcgVrZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb25fSGVhZGVyMV9kaXZTdWJNZW51MScpLnN0eWxlLmRpc3BsYXk9J2Jsb2NrJzseCm9ubW91c2VvdXQFamRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXJUb3BOYXZpZ2F0aW9uX0hlYWRlcjFfZGl2U3ViTWVudTEnKS5zdHlsZS5kaXNwbGF5PSdub25lJztkAgcPFgQfAwVrZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb25fSGVhZGVyMV9kaXZTdWJNZW51MicpLnN0eWxlLmRpc3BsYXk9J2Jsb2NrJzsfBAVqZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb25fSGVhZGVyMV9kaXZTdWJNZW51MicpLnN0eWxlLmRpc3BsYXk9J25vbmUnO2QCCA8WBB8DBWtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbl9IZWFkZXIxX2RpdlN1Yk1lbnUzJykuc3R5bGUuZGlzcGxheT0nYmxvY2snOx8EBWpkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbl9IZWFkZXIxX2RpdlN1Yk1lbnUzJykuc3R5bGUuZGlzcGxheT0nbm9uZSc7ZAIJDxYEHwMFa2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXJUb3BOYXZpZ2F0aW9uX0hlYWRlcjFfZGl2U3ViTWVudTQnKS5zdHlsZS5kaXNwbGF5PSdibG9jayc7HwQFamRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXJUb3BOYXZpZ2F0aW9uX0hlYWRlcjFfZGl2U3ViTWVudTQnKS5zdHlsZS5kaXNwbGF5PSdub25lJztkAgoPFgQfAwVrZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb25fSGVhZGVyMV9kaXZTdWJNZW51NScpLnN0eWxlLmRpc3BsYXk9J2Jsb2NrJzsfBAVqZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb25fSGVhZGVyMV9kaXZTdWJNZW51NScpLnN0eWxlLmRpc3BsYXk9J25vbmUnO2QCCw8WBB8DBWtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbl9IZWFkZXIxX2RpdlN1Yk1lbnU2Jykuc3R5bGUuZGlzcGxheT0nYmxvY2snOx8EBWpkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbl9IZWFkZXIxX2RpdlN1Yk1lbnU2Jykuc3R5bGUuZGlzcGxheT0nbm9uZSc7ZAIND2QWAgIBD2QWBAICDw8WBB4JRm9yZUNvbG9yCgAeBF8hU0ICBGRkAgQPZBYCZg9kFgICAQ88KwAJAQAPFgQeCERhdGFLZXlzFgAeC18hSXRlbUNvdW50AgpkFhRmD2QWAmYPFQG8ATxhIGhyZWY9L05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9Mzc2NjcmQXJ0aWNsZVRpdGxlPUdJQStUZXN0cytFeHRyYXRlcnJlc3RyaWFsK0dlbXN0b25lcytmb3IrRG93bi10by1FYXJ0aCtFbGVtZW50cz5HSUEgVGVzdHMgRXh0cmF0ZXJyZXN0cmlhbCBHZW1zdG9uZXMgZm9yIERvd24tdG8tRWFydGggRWxlbWVudHM8L2E+ZAIBD2QWAmYPFQGOATxhIGhyZWY9L05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9Mzc2NTImQXJ0aWNsZVRpdGxlPUFtYXpvbitMYXVuY2hlcytCbGFjaytGcmlkYXkrRGVhbHMrU3RvcmU+QW1hem9uIExhdW5jaGVzIEJsYWNrIEZyaWRheSBEZWFscyBTdG9yZTwvYT5kAgIPZBYCZg8VAZ8BPGEgaHJlZj0vTmV3cy9OZXdzSXRlbS5hc3B4P0FydGljbGVJRD0zNzY0NSZBcnRpY2xlVGl0bGU9U2FoYXIrQXBwb2ludHMrQmVzc2VyK2FzK0lERXMrK01hbmFnaW5nK0RpcmVjdG9yPlNhaGFyIEFwcG9pbnRzIEJlc3NlciBhcyBJREUncyAgTWFuYWdpbmcgRGlyZWN0b3I8L2E+ZAIDD2QWAmYPFQGQATxhIGhyZWY9L05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9Mzc2NDEmQXJ0aWNsZVRpdGxlPVphbGUrQXBwb2ludHMrU3ViaGErUmFtZXNoK3RvK1NlbmlvcitSb2xlPlphbGUgQXBwb2ludHMgU3ViaGEgUmFtZXNoIHRvIFNlbmlvciBSb2xlPC9hPmQCBA9kFgJmDxUBkAE8YSBocmVmPS9OZXdzL05ld3NJdGVtLmFzcHg/QXJ0aWNsZUlEPTM3NjM5JkFydGljbGVUaXRsZT1QZXJlZ3JpbmUrQW5ub3VuY2VzKyUyNDEyTStSaWdodHMrT2ZmZXJpbmc+UGVyZWdyaW5lIEFubm91bmNlcyAkMTJNIFJpZ2h0cyBPZmZlcmluZzwvYT5kAgUPZBYCZg8VAZwBPGEgaHJlZj0vTmV3cy9OZXdzSXRlbS5hc3B4P0FydGljbGVJRD0zNzYzNyZBcnRpY2xlVGl0bGU9V0RDK0NvbmZpcm1zK0FncmVlbWVudCtvbitNYXJhbmdlK1JvdWdoK0V4cG9ydHM+V0RDIENvbmZpcm1zIEFncmVlbWVudCBvbiBNYXJhbmdlIFJvdWdoIEV4cG9ydHM8L2E+ZAIGD2QWAmYPFQGgATxhIGhyZWY9L05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9Mzc2MzYmQXJ0aWNsZVRpdGxlPURlK0JlZXJzK1NpZ25zKyUyNDJCK011bHRpY3VycmVuY3krQ3JlZGl0K0ZhY2lsaXR5PkRlIEJlZXJzIFNpZ25zICQyQiBNdWx0aWN1cnJlbmN5IENyZWRpdCBGYWNpbGl0eTwvYT5kAgcPZBYCZg8VAbwBPGEgaHJlZj0vTmV3cy9OZXdzSXRlbS5hc3B4P0FydGljbGVJRD0zNzYzNSZBcnRpY2xlVGl0bGU9U290aGVieSVlMiU4MCU5OXMrTlkrSmV3ZWxyeStTYWxlK0luY2x1ZGVzK1R3bytSZW1hcmthYmxlK0RpYW1vbmRzPlNvdGhlYnnigJlzIE5ZIEpld2VscnkgU2FsZSBJbmNsdWRlcyBUd28gUmVtYXJrYWJsZSBEaWFtb25kczwvYT5kAggPZBYCZg8VAXY8YSBocmVmPS9OZXdzL05ld3NJdGVtLmFzcHg/QXJ0aWNsZUlEPTM3NjM0JkFydGljbGVUaXRsZT1VLlMuK0NoYWluLVN0b3JlK1NhbGVzKyUyYjMlMjU+VS5TLiBDaGFpbi1TdG9yZSBTYWxlcyArMyU8L2E+ZAIJD2QWAmYPFQGeATxhIGhyZWY9L05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9Mzc2MzMmQXJ0aWNsZVRpdGxlPVZhbHVlK29mK0Rpd2FsaStTYWxlcytJbmNyZWFzZXMrQnV0K1ZvbHVtZStEcm9wcz5WYWx1ZSBvZiBEaXdhbGkgU2FsZXMgSW5jcmVhc2VzIEJ1dCBWb2x1bWUgRHJvcHM8L2E+ZAIVD2QWAgIBD2QWAgIBDxYCHwEFBDIwMTFkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBRljdGwwMCR1Y0xvZ2luJGNoa1JlbWVtYmVyBUNjdGwwMCRDb250ZW50UGxhY2VIb2xkZXJUb3BUaXRsZURhdGUkVG9wVGl0bGVEYXRlMSRpYnRuR29vZ2xlU2VhcmNolQ+Bnyy1nEqtlq5yV80noh9pZVA=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTgxMjAzNjcwD2QWAmYPZBYEAgEPZBYEAgQPFgIeBFRleHQFIzxNRVRBIE5BTUU9ImtleXdvcmRzIiBDT05URU5UPSIiIC8+ZAIFDxYCHwAFJjxNRVRBIE5BTUU9ImRlc2NyaXB0aW9uIiBDT05URU5UPSIiIC8+ZAIDD2QWBAICD2QWBAIFDxYCHgdWaXNpYmxlaGQCCw8WAh8BaGQCAw9kFgJmD2QWAgIBDzwrAAkBAA8WBB4IRGF0YUtleXMWAB4LXyFJdGVtQ291bnQCC2QWFmYPZBYCZg8VAbwCPGEgaHJlZj0iaHR0cDovL3d3dy5kaWFtb25kcy5uZXQvbmV3cy9OZXdzSXRlbS5hc3B4P0FydGljbGVJRD00MDE5OCZBcnRpY2xlVGl0bGU9TWFya2V0K0NvbW1lbnRzKzUlMmYyNCUyZjIwMTIiPjxzcGFuIHN0eWxlPSJjb2xvcjojZDIwMDJkIj5UUkFERSBBTEVSVDogQ1ZEIHN5bnRoZXRpYyBkaWFtb25kcywgZGlhbW9uZHMgdHJpcGxlIHRyZWF0ZWQgdG8gYXZvaWQgZGV0ZWN0aW9uIGFuZCBkaWFtb25kcyByZWN1dCB0byBtYXRjaCBoaWdoZXIgZ3JhZGUgR0lBIHJlcG9ydHMgYmVpbmcgdHJhZGVkIHdpdGhvdXQgZGlzY2xvc3VyZS48L3NwYW4+PC9hPmQCAg9kFgJmDxUBjgE8YSBocmVmPS9OZXdzL05ld3NJdGVtLmFzcHg/QXJ0aWNsZUlEPTQwMzkwJkFydGljbGVUaXRsZT1ELkUuRi4rYW5kK0RpYW1vbmRzK0RvaW5nK0dvb2QraW4rQWZyaWNhPkQuRS5GLiBhbmQgRGlhbW9uZHMgRG9pbmcgR29vZCBpbiBBZnJpY2E8L2E+ZAIED2QWAmYPFQGyATxhIGhyZWY9L05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NDAzOTEmQXJ0aWNsZVRpdGxlPUdJQStDcmVhdGVzK1NjaG9sYXJzaGlwK1Byb2dyYW0rZm9yK1UuUy4rTWlsaXRhcnkrVmV0ZXJhbnM+R0lBIENyZWF0ZXMgU2Nob2xhcnNoaXAgUHJvZ3JhbSBmb3IgVS5TLiBNaWxpdGFyeSBWZXRlcmFuczwvYT5kAgYPZBYCZg8VAcoBPGEgaHJlZj0vTmV3cy9OZXdzSXRlbS5hc3B4P0FydGljbGVJRD00MDM4OSZBcnRpY2xlVGl0bGU9U3lub3ZhK0NyZWF0ZXMrQnVzaW5lc3MrVW5pdHMrZm9yK0RpYW1vbmRzJTJjK1NlbWljb25kdWN0b3JzJTJjK0luZHVzdHJ5PlN5bm92YSBDcmVhdGVzIEJ1c2luZXNzIFVuaXRzIGZvciBEaWFtb25kcywgU2VtaWNvbmR1Y3RvcnMsIEluZHVzdHJ5PC9hPmQCCA9kFgJmDxUBejxhIGhyZWY9L05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NDAzODgmQXJ0aWNsZVRpdGxlPVppbWJhYndlK0Fkb3B0cytEaWFtb25kK1BvbGljeT5aaW1iYWJ3ZSBBZG9wdHMgRGlhbW9uZCBQb2xpY3k8L2E+ZAIKD2QWAmYPFQGRATxhIGhyZWY9L05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NDAzODcmQXJ0aWNsZVRpdGxlPUluZGlhcytUcmFkZXJzK0ZpbmQrdGhlK1UuUy4rYStUb3VnaCtTZWxsPkluZGlhJ3MgVHJhZGVycyBGaW5kIHRoZSBVLlMuIGEgVG91Z2ggU2VsbDwvYT5kAgwPZBYCZg8VAYABPGEgaHJlZj0vTmV3cy9OZXdzSXRlbS5hc3B4P0FydGljbGVJRD00MDM4NiZBcnRpY2xlVGl0bGU9QVdEQytFbGVjdHMrRmlzY2hsZXIrYXMrUHJlc2lkZW50PkFXREMgRWxlY3RzIEZpc2NobGVyIGFzIFByZXNpZGVudDwvYT5kAg4PZBYCZg8VAYgBPGEgaHJlZj0vTmV3cy9OZXdzSXRlbS5hc3B4P0FydGljbGVJRD00MDM4NSZBcnRpY2xlVGl0bGU9QW5hbHlzdCtBc3NpZ25zK2ErK0J1eStSYXRpbmcrdG8rVEJaPkFuYWx5c3QgQXNzaWducyBhICAnQnV5JyBSYXRpbmcgdG8gVEJaPC9hPmQCEA9kFgJmDxUBfDxhIGhyZWY9L05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NDAzNzcmQXJ0aWNsZVRpdGxlPUJvdHN3YW5hJWUyJTgwJTk5cytEZWNpc2lvbislZTIlODAlOGU+Qm90c3dhbmHigJlzIERlY2lzaW9uIOKAjjwvYT5kAhIPZBYCZg8VAZYBPGEgaHJlZj0vTmV3cy9OZXdzSXRlbS5hc3B4P0FydGljbGVJRD00MDM4NCZBcnRpY2xlVGl0bGU9S2lyYW4rV2lucytJRENBK0F3YXJkK2ZvcitFeHBvcnQrUGVyZm9ybWFuY2U+S2lyYW4gV2lucyBJRENBIEF3YXJkIGZvciBFeHBvcnQgUGVyZm9ybWFuY2U8L2E+ZAIUD2QWAmYPFQGeATxhIGhyZWY9L05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NDAzODAmQXJ0aWNsZVRpdGxlPVdhdGNoK3RoZStSYXBhcG9ydCtGYWlyK1RyYWRlK0RpYW1vbmQrQ29uZmVyZW5jZT5XYXRjaCB0aGUgUmFwYXBvcnQgRmFpciBUcmFkZSBEaWFtb25kIENvbmZlcmVuY2U8L2E+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUzY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbiRjaGtSZW1lbWJlck1lPFp2U3tQdGgKN0JcFD/BSRcdqRg=">
 
 
-<script src="/ScriptResource.axd?d=JZNCx7E_3p0h3Tsamqe6vq6MnL3uNNZGnXaJY1nVLj8YK-Ef4GrYHqrhPVDCkvytZCpvck5IzhuBEbQc8HR21sJcBh9-6OuGnmoEevg4Ql23K9jRhZKyHrjkNnZ01ZxbYjOtudFBnXh0vlnXroBYo14S-N_dQJ1ylSqrxUcBEl5ourqy0&amp;t=2610f696" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWIAKV5u/eAQKUzrqgAQL6hcj4CQK136SYCwLMkpn8CwKMm5aMBALih6LSCQKcw5SjCgLRnMa+BwLRnMa+BwKa2dbMDALu1d+WCQK00ZS/BwLRnMa+BwLRnMa+BwLFo5jSDwKUwdj/AwLO87KeAgLYhYqzCwLZhs3yCgLRnMa+BwLRnMa+BwKI3opMAoW179MLAtGcxr4HAtGcxr4HAt6L0csDArXDk7gLAvrkrNQHAtGcxr4HAtjj0cwEAuyt5ooHQAMnIZ5dtFVqvowQcTMdwfzX5tU=">
-	
-	
-	
-		
-
-<script type="text/javascript" language="javascript">
-    $(document).ready(function () {
-        var Value = getCookie('LoginOutCookieName');
-
-        if (Value == "NOLOGIN" || Value == "") {
-            document.getElementById('TabLogin').innerHTML = "Login";
-            document.getElementById('TabLogin').href = "/Login/LoginPage.aspx";
-
-            document.getElementById('TabRegister').innerHTML = "Register";
-            document.getElementById('TabRegister').href = "/Subscribe/Subscriptions.aspx";
-        }
-        else {
-            document.getElementById('TabLogin').innerHTML = "Your Account";
-            document.getElementById('TabLogin').href = "/YourAccount/Default.aspx";
-
-
-            document.getElementById('TabRegister').innerHTML = "Logout";
-            document.getElementById('TabRegister').href = "/Login/LogOut.aspx";
-        }
-
-        $("#TabBar td#more").mouseover(function () {
-            $("#moreList").css("display", "block");
-            $(this).css("background-color", "#F5F5F5");
-        });
-
-        $("#TabBar td#more").mouseout(function () {
-            $("#moreList").css("display", "none");
-            $(this).css("background-color", "#EAEAEA");
-        });
-    });
-</script>
-<table cellspacing="0" cellpadding="0" width="100%" id="TabBar" style="margin: auto;">
-    <tbody><tr>
-        <td nowrap="nowrap" style="width: 50%; border-right: none;">
-        </td>
-        <td nowrap="nowrap" style="text-align: right; border-right: none; width: 100px;">
-            <img src="../SiteResource/Graphics/Images/TabBar/rapaport.jpg" style="padding-right: 10px;" alt="Rapaport">
-        </td>
-        <td id="ctl00_ContentPlaceHolderTabBar_TabBar1_hplDiamondsSite" nowrap="nowrap" style="border-left: 1px solid #CCCCCC;
-            width: 124px;" class="active">
-            <a href="http://www.diamonds.net/" onclick="_gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Dnet']);"><span id="logodiamond" style=""></span>Diamonds.Net</a>
-        </td>
-
-        <td id="ctl00_ContentPlaceHolderTabBar_TabBar1_hplRapNetSite" nowrap="nowrap" style="width: 113px;">
-            <a href="http://www.rapnet.com/" onclick="_gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'RapNet']);"><span id="logorapnet" style=""></span>RapNet.com</a>
-        </td>
-
-        <td id="ctl00_ContentPlaceHolderTabBar_TabBar1_hplAuctionsSite" nowrap="nowrap" style="width: 148px;">
-            <a href="http://www.rapaportauctions.com/" onclick="_gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Auctions']);"><span id="logoauctions" style=""></span>Rapaport
-                Auctions</a>
-        </td>
-
-        <td id="ctl00_ContentPlaceHolderTabBar_TabBar1_hplFairTradeSite" nowrap="nowrap" style="width: 99px;">
-            <a href="http://www.diamonds.net/fairtrade/" onclick="_gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Fairtrade']);"><span id="logofairtrade" style=""></span>
-                Fair Trade</a>
-        </td>
-
-        <td nowrap="nowrap" id="more" style="width: 62px; padding-left: 0px; padding-right: 0px;">
-            <div id="morebox" style="">
-                More</div>
-            <div id="moreList" style="z-index: 100; border-bottom: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC;
-                border-left: 1px solid #CCCCCC; position: absolute; display: none; background-color: #F5F5F5;
-                margin-left: -1px;">
-                <a style="line-height: 1.5em; padding-left: 12px" href="http://www.diamonds.net/LAB/default.aspx" onclick="_gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Labs']);">
-                    Rapaport GIA LabDirect</a> <a style="line-height: 1.5em; padding-left: 12px" href="http://technet.rapaport.com/" onclick="_gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Technet']);">
-                        Rapaport TechNet</a>
-            </div>
-        </td>
-        <td nowrap="nowrap" id="account" style="border-right: none; width: 310px;">
-            <div id="divTabLogin" style="width:298px;">
-                <div style="float: right;">
-                    <a id="TabRegister" href="/Subscribe/Subscriptions.aspx" style="padding:2px 8px;">Register</a></div>
-                <div style="float: right; margin-right: 4px;">
-                    <a id="TabLogin" href="/Login/LoginPage.aspx" style="padding:2px 8px;">Login</a></div>
-            </div>
-        </td>
-        <td nowrap="nowrap" style="width: 50%">
-        </td>
-    </tr>
-</tbody></table>
-<table style="height: 10px; background-color: white">
-    <tbody><tr>
-        <td>
-        </td>
-    </tr>
-</tbody></table>
-
-	
-	<table width="100%" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td align="center">
-				<table width="980" cellpadding="0" cellspacing="0" border="0" class="MainBorder">
-					<tbody><tr id="trLoginForm" style="display: none;">
-						<td align="center">
-							<a id="GoLogin"></a>
-							
-<table cellpadding="0" cellspacing="0" border="0" width="610" class="Dnet2010">
-	<tbody><tr>
-		<td align="left">
-			<div style="left: 555px; top: 291px; position: relative;z-index: 606;">
-				<div style="position: absolute; width: 30px; height: 30px; z-index: 605; cursor: pointer;
-					cursor: hand;" class="CloseLoginForm">
-				</div>
-			</div>
-			<div style="top: 270px; position: relative;z-index: 600">
-				<div style="position: absolute; width: 610px; height: 294px; background-repeat: no-repeat;
-					background-image: url('/SiteResource/Graphics/Images/Dnet2010/Lightbox.gif'); z-index: 540">
-					<div id="ctl00_ucLogin_pnlLogin">
-	
-						<table cellpadding="0" cellspacing="0" border="0" style="background-color: #FFFFFF;
-							margin: 55px;">
-							<tbody><tr>
-								<td class="HeaderBox2010">
-									<span id="ctl00_ucLogin_lblTitle">Members Login</span>
-								</td>
-							</tr>
-							<tr>
-								<td style="padding-top: 3px;">
-									<span id="ctl00_ucLogin_lblSubTitle"></span>&nbsp;
-								</td>
-							</tr>
-							<tr>
-								<td style="padding-top: 7px;">
-									<table cellpadding="0" cellspacing="0" border="0">
-										<tbody><tr>
-											<td style="padding-right: 10px;">
-												<span class="BlueLinkNoUnderline">Not a member?</span>
-											</td>
-											<td style="padding-left: 10px;" colspan="2">
-												<a href="../Info/Subscribe.aspx" id="ctl00_ucLogin_a1" class="BlueLinkNoUnderline">
-													Join Now<img align="middle" vspace="2" hspace="5" src="/SiteResource/Graphics/Images/Dnet2010/BlueArrow.gif"></a>
-											</td>
-										</tr>
-										<tr>
-											<td>
-												&nbsp;
-											</td>
-											<td style="padding-left: 10px; padding-top: 6px;">
-												Username:
-											</td>
-											<td style="padding-left: 10px; padding-top: 6px;">
-												<input name="ctl00$ucLogin$txtUsername" type="text" id="ctl00_ucLogin_txtUsername" class="LoginUsername">
-												&nbsp;
-											</td>
-										</tr>
-										<tr>
-											<td>
-												&nbsp;
-											</td>
-											<td style="padding-left: 10px; padding-top: 6px;">
-												Password:
-											</td>
-											<td style="padding-left: 10px; padding-top: 6px;">
-												<input name="ctl00$ucLogin$txtPassword" type="password" id="ctl00_ucLogin_txtPassword" class="LoginPassword">
-												&nbsp;
-											</td>
-										</tr>
-										<tr>
-											<td>
-												&nbsp;
-											</td>
-											<td>
-												&nbsp;
-											</td>
-											<td style="padding-left: 10px; padding-top: 8px;">
-												<span class="LoginbtnLogin"><input type="submit" name="ctl00$ucLogin$btnLogin" value="Log in" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ucLogin$btnLogin&quot;, &quot;&quot;, true, &quot;vgLogin&quot;, &quot;&quot;, false, false))" id="ctl00_ucLogin_btnLogin"></span>
-											</td>
-										</tr>
-										<tr>
-											<td>
-												&nbsp;
-											</td>
-											<td>
-												&nbsp;
-											</td>
-											<td style="padding-left: 10px; padding-top: 6px;">
-												<span class="LoginRememberMe"><input id="ctl00_ucLogin_chkRemember" type="checkbox" name="ctl00$ucLogin$chkRemember"><label for="ctl00_ucLogin_chkRemember">Remember me</label></span>
-											</td>
-										</tr>
-										<tr>
-											<td>
-												&nbsp;
-											</td>
-											<td>
-												&nbsp;
-											</td>
-											<td style="padding-left: 10px; padding-top: 6px;">
-												 <a href="../Login/PasswordReminder.aspx" id="ctl00_ucLogin_a3" class="BlueLinkNoUnderline">Forgot your password?</a>
-											</td>
-										</tr>
-									</tbody></table>
-								</td>
-							</tr>
-							<tr>
-								<td align="left">
-									<span id="ctl00_ucLogin_lblLoginMessage"><font color="Red"></font></span>
-								</td>
-							</tr>
-						</tbody></table>
-					
-</div>
-					
-				</div>
-			</div>
-		</td>
-	</tr>
-</tbody></table>
-<input type="submit" name="ctl00$ucLogin$btnClose" value="" id="ctl00_ucLogin_btnClose" class="CloseLoginFormButton" style="visibility: hidden">
-<span class="LoginReturnURLAfterLogin">
-	<input type="hidden" name="ctl00$ucLogin$hidReturnURLAfterLogin" id="ctl00_ucLogin_hidReturnURLAfterLogin" value="http://www.diamonds.net/legal/PrivacyPolicy.aspx">
-</span>
-<span class="LoginLoginURL">
-	<input type="hidden" name="ctl00$ucLogin$hidLoginURL" id="ctl00_ucLogin_hidLoginURL" value="https://www.diamonds.net/Login/CheckLogin.aspx">
-</span>
-						</td>
-					</tr>
-					<tr>
-						<td align="left">
-							<table cellpadding="0" cellspacing="0" border="0" height="100%" width="100%">
-								<tbody><tr>
-									<td valign="top" width="100%" height="100%" cellpadding="0" cellspacing="0">
-										
-										<div id="ctl00_divBanners" class="DisplayNoneOnPrint">
-											
-    <table id="ctl00_ContentPlaceHolderBanners_TopBanners1_tblBanners" width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td height="4" colspan="2">
-        </td>
-	</tr>
-	<tr>
-		<td width="4" align="left">
-            &nbsp;
-        </td>
-		<td align="left">
-            
-               <script language="javascript" type="text/javascript">
-<!--
-                    var browName = navigator.appName;
-                    var SiteID = 1;
-                    var ZoneID = 17;
-                    var browDateTime = (new Date()).getTime();
-                    if (browName == 'Netscape') {
-                        document.write('<s' + 'cript lang' + 'uage="jav' + 'ascript" src="http://ads.rapaport.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=32404&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</' + 'scr' + 'ipt>');
-                    }
-                    if (browName != 'Netscape') {
-                        document.write('<s' + 'cript lang' + 'uage="jav' + 'ascript" src="http://ads.rapaport.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=32404&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</' + 'scr' + 'ipt>');
-                    }
-// --> 
-                </script><script language="javascript" src="http://ads.rapaport.com/a.aspx?ZoneID=17&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=32404&amp;SiteID=1&amp;Random=1580407386609"></script>
-                <noscript>
-                    <a href="http://ads.rapaport.com/a.aspx?ZoneID=17&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=32404"
-                        target="_blank">
-                        <img src="http://ads.rapaport.com/a.aspx?ZoneID=17&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=32404"
-                            width="468" height="60" border="0" alt=""></a>
-                </noscript>                        
-
-        </td>
-		<td>
-            &nbsp;&nbsp;
-        </td>
-		<td align="right">
-            
-               <script language="javascript" type="text/javascript">
-<!--
-                    var browName = navigator.appName;
-                    var SiteID = 1;
-                    var ZoneID = 16;
-                    var browDateTime = (new Date()).getTime();
-                    if (browName == 'Netscape') {
-                        document.write('<s' + 'cript lang' + 'uage="jav' + 'ascript" src="http://ads.rapaport.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=53842&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</' + 'scr' + 'ipt>');
-                    }
-                    if (browName != 'Netscape') {
-                        document.write('<s' + 'cript lang' + 'uage="jav' + 'ascript" src="http://ads.rapaport.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=53842&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</' + 'scr' + 'ipt>');
-                    }
-// --> 
-                </script><script language="javascript" src="http://ads.rapaport.com/a.aspx?ZoneID=16&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=53842&amp;SiteID=1&amp;Random=1580407386610"></script>
-                <noscript>
-                    <a href="http://ads.rapaport.com/a.aspx?ZoneID=16&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=53842"
-                        target="_blank">
-                        <img src="http://ads.rapaport.com/a.aspx?ZoneID=16&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=53842"
-                            width="468" height="60" border="0" alt=""></a>
-                </noscript>                        
-
-        </td>
-		<td width="4">
-        </td>
-	</tr>
-	<tr>
-		<td height="4" colspan="2">
-        </td>
-	</tr>
-</tbody></table>
-
-
-
-
-
-										</div>
-										
-										
-										<div class="DisplayNoneOnPrint">
-											
-    
-<script type="text/javascript" language="javascript">
-	//Toggles between the Login Logout
-	$(document).ready(function () {
-		var Value = getCookie('LoginOutCookieName');
-
-		if (Value == "NOLOGIN" || Value == "") {
-			document.getElementById('divLogin').style.display = "block";
-			document.getElementById('divLogOut').style.display = "none";
-		}
-		else {
-			document.getElementById('divLogin').style.display = "none";
-			document.getElementById('divLogOut').style.display = "block";
-
-			document.getElementById('tdUserData').innerHTML = Value;
-		}
-	});
-
-	function getCookie(c_name) {
-		if (document.cookie.length > 0) {
-			var c_start;
-			c_start = document.cookie.indexOf(c_name + "=");
-
-			if (c_start != -1) {
-				c_start = c_start + c_name.length + 1;
-				var c_end = document.cookie.indexOf(";", c_start);
-
-				if (c_end == -1)
-					c_end = document.cookie.length;
-
-				return unescape(document.cookie.substring(c_start, c_end));
-			}
-		}
-
-		return "";
-	}
-
-</script>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td style="border-bottom: solid 1px #FFFFFF;">
-			<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #000064;">
-				<tbody><tr>
-					<td align="left" style="width:210px; padding-left: 8px; padding-bottom: 0px; padding-top: 8px;">
-						<a href="http://www.diamonds.net/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_aRoot">
-							<img src="../SiteResource/Graphics/Images/DnetLogo_straightv2.jpg" id="ctl00_ContentPlaceHolderTopNavigation_Header1_imgTTLDNET" style="border-style: none; border-color: inherit; border-width: 0; padding-left: 1px;
-								width: 200px;" alt="Rapaport"></a>
-					</td>
-					<td style="text-align: left; vertical-align:bottom; padding:0px 0px 6px 10px;">
-						<a style="color: white; font-size: 12px; font-family: Arial;" href="/Mobile">Mobile</a>
-					</td>
-					<td align="right" valign="top" style="padding-top: 5px; padding-right: 10px;">
-						<img src="../SiteResource/Graphics/Images/Basad.jpg" id="ctl00_ContentPlaceHolderTopNavigation_Header1_imgBasad" style="padding-bottom: 3px;">
-						<div id="divLogin" style="display: block; margin-top: 3px; padding-bottom: 3px;">
-							<table cellpadding="0" cellspacing="0" border="0" class="LoginLogout" style="margin-top: 2px;
-								margin-bottom: 2px;">
-								<tbody><tr>
-									<td style="padding-right: 10px;">
-										<a id="ctl00_ContentPlaceHolderTopNavigation_Header1_hplLogin" href="../Login/LoginPage.aspx">Login</a>
-									</td>
-									<td style="border-left: solid 1px #FFFFFF; padding-left: 10px;">
-										<a id="ctl00_ContentPlaceHolderTopNavigation_Header1_hplRegister" href="../subscribe/subscriptions.aspx">Register</a>
-									</td>
-								</tr>
-							</tbody></table>
-						</div>
-						<div id="divLogOut" style="display: none; margin-top: 3px; padding-bottom: 3px;">
-							<table cellpadding="0" cellspacing="0" border="0" visible="false" class="LoginLogout" style="margin-top: 2px; margin-bottom: 2px;">
-								<tbody><tr>
-									<td style="padding-right: 10px;" id="tdUserData">
-									</td>
-									<td style="border-left: solid 1px #FFFFFF; padding-left: 10px; padding-right: 10px">
-										<a href="/youraccount/default.aspx">Your Account</a>
-									</td>
-									<td style="border-left: solid 1px #FFFFFF; padding-left: 10px;">
-										<a id="ctl00_ContentPlaceHolderTopNavigation_Header1_hplLogOut" href="../Login/LogOut.aspx">Logout</a>
-									</td>
-								</tr>
-							</tbody></table>
-						</div>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #000064;
-				padding-bottom: 5px; padding-top: 5px;">
-				<tbody><tr>
-					<td width="220" align="left">
-						<table cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr>
-								<td style="font-family: Arial; font-size: 10px; color: white; padding-left: 10px;
-									padding-right: 6px; font-weight: bold; letter-spacing: 2px;">
-									<nobr>
-										BY
-									</nobr>
-								</td>
-								<td>
-									<img src="../SiteResource/graphics/images/RapaportLogoRedBlue.jpg" id="ctl00_ContentPlaceHolderTopNavigation_Header1_imgBottomLeft" alt="Rapaport">
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-					<td align="right" style="padding-left: 0px;">
-						<!-- Menu -->
-						<table cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr>
-								<td>
-									<div id="ctl00_ContentPlaceHolderTopNavigation_Header1_divTopMenu1" class="TopMenuMainCatNew" style="display: block;" onmouseover="document.getElementById('ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu1').style.display='block';" onmouseout="document.getElementById('ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu1').style.display='none';">
-										<a href="http://www.diamonds.net/cms/about-us.aspx">
-											<nobr>
-												About Us</nobr>
-										</a>
-										<div style="display: block; text-align: left;">
-											<div id="ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu1" style="z-index: 10; position: absolute; display: none;">
-												<table cellpadding="0" cellspacing="0" border="0" class="TopMenuSubLinkNew">
-													<tbody><tr>
-														<td align="left">
-															<a href="http://www.diamonds.net/cms/about-us.aspx">About Rapaport</a><br>
-															<a href="../MediaCenter/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a3">Media Center</a><br>
-															<a href="../Events/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a4">Rapaport Events</a><br>
-															<a href="http://www.diamonds.net/cms/Rapaport-Conferences.aspx">Rapaport Conferences</a><br>
-															<a href="http://www.diamonds.net/cms/Corporate-Responsibility.aspx">Corporate Responsibility</a><br>
-															<a href="http://www.diamonds.net/cms/careers.aspx">Careers at Rapaport</a><br>
-															<a href="http://www.diamonds.net/fairtrade" target="_blank">Rapaport Fair Trade Website</a><br>
-															<a href="../advertising/AdvertisingKit.aspx" target="_blank">Advertise
-																with Rapaport (PDF)</a><br>
-															<a href="../RapaportInfoKit.pdf" target="_blank">Rapaport Information
-																Kit (PDF)</a><br>
-														</td>
-													</tr>
-												</tbody></table>
-											</div>
-										</div>
-									</div>
-								</td>
-								<td>
-									<div id="ctl00_ContentPlaceHolderTopNavigation_Header1_divTopMenu2" class="TopMenuMainCatNew" style="display: block;" onmouseover="document.getElementById('ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu2').style.display='block';" onmouseout="document.getElementById('ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu2').style.display='none';">
-										<a href="../subscribe/subscriptions.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a5">
-											<nobr>
-												Products</nobr>
-										</a>
-										<div style="display: block; text-align: left;">
-											<div id="ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu2" style="z-index: 10; position: absolute; display: none;">
-												<table cellpadding="0" cellspacing="0" border="0" class="TopMenuSubLinkNew">
-													<tbody><tr>
-														<td align="left">
-															<span style="color: black;">News and Information</span><br>
-															<div style="height: 1px; width: 57%; border: 0; background-color: #4C4646; margin: 1px 0px 1px 0px;">
-															</div>
-															<a href="http://www.diamonds.net/cms/products/rapaport-news-and-analysis.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a6">
-																Rapaport News and Analysis</a><br>
-															<a href="../NewsFeed/default.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a39">Rapaport News Feed</a><br>
-															<a href="../Reports/default.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a40">Rapaport Reports</a><br>
-															<a href="http://www.diamonds.net/cms/products/rapaport-tradewire.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a7">
-																Rapaport TradeWire</a><br>
-															<a href="http://www.diamonds.net/cms/products/rapaport-newsbrief.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a43">
-																Rapaport NewsBrief</a><br>
-															<a href="http://www.diamonds.net/cms/products/rapaport-video-broadcasts.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a8">
-																Video Broadcasts</a><br>
-															<a href="http://www.diamonds.net/cms/products/rapaport-calendar.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a9">
-																Rapaport Calendar</a><br>
-															<br>
-															<span style="color: black;">Rapaport Diamond Prices and Magazine</span><br>
-															<div style="height: 1px; width: 100%; border: 0; background-color: #4C4646; margin: 1px 0px 1px 0px;">
-															</div>
-															<a href="http://www.diamonds.net/cms/products/rapaport-price-list.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a10">
-																Rapaport Price List</a><br>
-															<a href="http://www.diamonds.net/cms/products/rapaport-rupee-price-list.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a41">
-																Rapaport Rupee Price List</a><br>
-															<a href="http://www.diamonds.net/cms/products/rapaport-diamond-report.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a12">
-																Rapaport Diamond Report Magazine</a><br>
-															<br>
-															<span style="color: black;">Diamond Trading Services</span><br>
-															<div style="height: 1px; width: 67%; border: 0; background-color: #4C4646; margin: 1px 0px 1px 0px;">
-															</div>
-															<a href="http://www.diamonds.net/cms/products/rapnet-trading-network.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a13">
-																RapNet Diamond Trading Network</a><br>
-															<a href="http://www.diamonds.net/cms/products/rapnet-tradescreen.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a14">
-																RapNet TradeScreen</a><br>
-															<a href="http://www.diamonds.net/cms/products/rapnet-price-list.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a11">
-																RapNet Price List</a><br>
-															<a href="http://www.diamonds.net/cms/products/Rapaport-Auctions.aspx">Rapaport Auctions</a><br>
-															<a href="http://www.diamonds.net/cms/products/Rapaport-Buyers-Group.aspx">Rapaport Buyers
-																Group</a><br>
-															<a href="http://www.diamonds.net/cms/products/Rapaport-Trading-Services.aspx">Shipping,
-																Payment &amp; Import Services</a><br>
-															<a href="http://www.diamonds.net/cms/products/rapaport-china-services.aspx">China Diamond
-																Import Services</a><br>
-															<br>
-															<span style="color: black;">Laboratory Services</span><br>
-															<div style="height: 1px; width: 67%; border: 0; background-color: #4C4646; margin: 1px 0px 1px 0px;">
-															</div>
-															<a href="http://www.diamonds.net/cms/products/GIA-LabDirect-Services.aspx">GIA LabDirect
-																Services</a><br>
-															<a href="http://www.diamonds.net/cms/products/AGS-Services.aspx">AGS Laboratory Services</a><br>
-														</td>
-													</tr>
-												</tbody></table>
-											</div>
-										</div>
-									</div>
-								</td>
-								<td>
-									<div id="ctl00_ContentPlaceHolderTopNavigation_Header1_divTopMenu3" class="TopMenuMainCatNew" style="display: block;" onmouseover="document.getElementById('ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu3').style.display='block';" onmouseout="document.getElementById('ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu3').style.display='none';">
-										<a href="../News/articles.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a15">
-											<nobr>
-												News</nobr>
-										</a>
-										<div style="display: block; text-align: left;">
-											<div id="ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu3" style="z-index: 10; position: absolute; display: none;">
-												<table cellpadding="0" cellspacing="0" border="0" class="TopMenuSubLinkNew">
-													<tbody><tr>
-														<td align="left">
-															<a href="../news/articles.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a16">News Homepage (New Format)</a><br>
-															<a href="../news/default2.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a24">News List (Old Format) </a>
-															<br>
-															<a href="../NewsFeed/default.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a38">Rapaport News Feed</a><br>
-															<a href="../reports/default.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a42">Rapaport Reports</a><br>
-															<a href="../video/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a17">Video Broadcasts</a><br>
-															<a href="http://www.diamonds.net/magazine/default.aspx" target="_blank">Rapaport Diamond
-																Report Online<span class="RedStar">*</span></a><br>
-															<a href="../info/calendar.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a34">Rapaport Calendar</a><br>
-															<a href="../TradeWire/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a36">Rapaport TradeWire</a><br>
-															<a href="http://www.diamonds.net/cms/products/rapaport-newsbrief.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a44">
-																Rapaport NewsBrief</a><br>
-															<a href="../Subscribe/Subscription.aspx?ShowSubscription=TradeWire" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a18">
-																Signup for Free Emails &amp; Premium News</a><br>
-															<a href="../Subscribe/Subscription.aspx?ShowSubscription=RDR" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a19">
-																Subscribe to the Rapaport Diamond Report</a><br>
-															<br>
-															<span class="RedStar">*</span> - Requires Membership (<a href="../subscribe/subscriptions.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_A2">Register</a>)
-														</td>
-													</tr>
-												</tbody></table>
-											</div>
-										</div>
-									</div>
-								</td>
-								<td>
-									<div id="ctl00_ContentPlaceHolderTopNavigation_Header1_divTopMenu4" class="TopMenuMainCatNew" style="display: block;" onmouseover="document.getElementById('ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu4').style.display='block';" onmouseout="document.getElementById('ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu4').style.display='none';">
-										<a href="../Prices/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a20">
-											<nobr>
-												Prices</nobr>
-										</a>
-										<div style="display: block; text-align: left;">
-											<div id="ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu4" style="z-index: 10; position: absolute; display: none;">
-												<table cellpadding="0" cellspacing="0" border="0" class="TopMenuSubLinkNew">
-													<tbody><tr>
-														<td align="left">
-															<a href="../Prices/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a21">Rapaport Price List - PDF<span class="RedStar">*</span></a><br>
-															<a href="../prices/WorkSheet.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a37">Rapaport Price Calculator<span class="RedStar">*</span></a><br>
-															<a href="../Prices/RapNet/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a25">RapNet Price List<span class="RedStar">*</span></a><br>
-															<a href="../Subscribe/Subscription.aspx?ShowSubscription=Price_sheet" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a26">
-																Subscribe to the Rapaport Price List</a><br>
-															<a href="http://www.diamonds.net/cms/Price-List-Information.aspx">About Rapaport Price
-																Information</a><br>
-															<br>
-															<span class="RedStar">*</span> - Requires Membership (<a href="../subscribe/subscriptions.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_A22">Register</a>)
-														</td>
-													</tr>
-												</tbody></table>
-											</div>
-										</div>
-									</div>
-								</td>
-								<td>
-									<div id="ctl00_ContentPlaceHolderTopNavigation_Header1_divTopMenu5" class="TopMenuMainCatNew" style="display: block;" onmouseover="document.getElementById('ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu5').style.display='block';" onmouseout="document.getElementById('ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu5').style.display='none';">
-										<a href="../Trading.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a27">
-											<nobr>
-												Trading</nobr>
-										</a>
-										<div style="display: block; text-align: left;">
-											<div id="ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu5" style="z-index: 10; position: absolute; display: none;">
-												<table cellpadding="0" cellspacing="0" border="0" class="TopMenuSubLinkNew">
-													<tbody><tr>
-														<td align="left">
-															<a href="http://www.rapnet.com" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a28" target="_blank">RapNet Diamond
-																Trading Network<span class="RedStar">*</span></a><br>
-															<a href="../TradeScreen/GridResults.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a29">RapNet Trade Screen<span class="RedStar">*</span></a><br>
-															<a href="../Prices/RapNet/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a1">RapNet Price List<span class="RedStar">*</span></a><br>
-															<a href="../Auctions/Default.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a30" target="_blank">Rapaport Auctions</a><br>
-															<a href="http://www.diamonds.net/cms/products/Rapaport-Buyers-Group.aspx">Rapaport Buyers
-																Group</a><br>
-															<a href="http://www.diamonds.net/cms/products/Rapaport-Trading-Services.aspx">Shipping,
-																Payment, &amp; Import Services</a><br>
-															<a href="http://www.diamonds.net/cms/products/rapaport-china-services.aspx">China Diamond
-																Import Services</a><br>
-															<a href="http://www.diamonds.net/cms/products/GIA-LabDirect-Services.aspx">GIA LabDirect
-																Services</a><br>
-															<a href="http://www.diamonds.net/cms/products/AGS-Services.aspx">AGS Laboratory Services</a><br>
-															<a href="../Subscribe/Subscription.aspx?ShowSubscription=RapNet" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a35">
-																Join RapNet®</a><br>
-															<br>
-															<span class="RedStar">*</span> - Requires Membership (<a href="../subscribe/subscriptions.aspx" id="ctl00_ContentPlaceHolderTopNavigation_Header1_A23">Register</a>)
-														</td>
-													</tr>
-												</tbody></table>
-											</div>
-										</div>
-									</div>
-								</td>
-								<td>
-									<div id="ctl00_ContentPlaceHolderTopNavigation_Header1_divTopMenu6" class="TopMenuMainCatNew" style="display: block;" onmouseover="document.getElementById('ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu6').style.display='block';" onmouseout="document.getElementById('ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu6').style.display='none';">
-										<a href="../fairtrade/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a31" target="_blank">
-											<nobr>
-												Fair Trade</nobr>
-										</a>
-										<div style="display: block; text-align: left;">
-											<div id="ctl00_ContentPlaceHolderTopNavigation_Header1_divSubMenu6" style="z-index: 10; position: absolute; display: none;">
-												<table cellpadding="0" cellspacing="0" border="0" class="TopMenuSubLinkNew" width="200">
-													<tbody><tr>
-														<td align="left">
-															<a href="../Zimbabwe/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a32">Zimbabwe Diamonds</a><br>
-															<a href="../fairtrade/" id="ctl00_ContentPlaceHolderTopNavigation_Header1_a33" target="_blank">Rapaport Fair Trade Website</a>
-														</td>
-													</tr>
-												</tbody></table>
-											</div>
-										</div>
-									</div>
-								</td>
-								<td>
-									<div id="ctl00_ContentPlaceHolderTopNavigation_Header1_divTopMenu7" class="TopMenuMainCatNew" style="display: block;">
-										<a href="http://www.diamonds.net/cms/Consumer-Resources.aspx">
-											<nobr>
-												Consumer Resources</nobr>
-										</a>
-									</div>
-								</td>
-								<td>
-									<div id="ctl00_ContentPlaceHolderTopNavigation_Header1_divContactUs" class="TopMenuMainCatNewRight" style="display: block;
-										padding-right: 15px;">
-										<a href="http://www.diamonds.net/cms/Info/ContactUs/Default.aspx">
-											<nobr>
-												Contact Us</nobr>
-										</a>
-									</div>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-					
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-
-
-										</div>
-										
-										
-										<div class="DisplayNoneOnPrint">
-											
-    
-
-<style type="text/css">
-    .GoogleSearchBox
-    {
-        outline: none;
-    }
-</style>
+<script src="/ScriptResource.axd?d=eO_CW4G6nOiaYD7PU7691Hjxj75OgyrH5cTDy98OZOkQrIY3MK7YEn2euraohUY6iXPtmEMgF0G2HU30dmgqs7KkGoP3fnNQ7Ayo95DEhGPUmq76lc9pqV2l-FAH-uHnclkh4QHg_1b-rkCH4IBWU9JF33m5Pt3gjeOhXNmOLzf5rrRd0&amp;t=ffffffff940d030f" type="text/javascript"></script>
 <script type="text/javascript">
-    function InitSearch(obj) { obj.value = ""; }
-    function ResetSearch(obj) { if (obj.value == "") obj.value = "Site Search"; }
-
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
 </script>
-<table id="Table11" border="0" class="TopTitleDate" style="" width="100%">
-    <tbody><tr>
-        <td width="5">
-            &nbsp;
-        </td>
-        <td id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_tdQuickLnk" align="left" valign="middle" width="225">
-            <select name="ctl00$ContentPlaceHolderTopTitleDate$TopTitleDate1$QuickLinks1$ddlQuickLinks" id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_QuickLinks1_ddlQuickLinks" class="comboBox" onchange="ddlQuickLinks_Change(this);" style="margin-top:3px;border:1px solid #000064;">
-	<option value="" class="">------ Quick Links ------</option>
-	<option value="" class="CharcoalCellMid">Prices</option>
-	<option value="http://www.diamonds.net/Prices/" class="LightGrayCellMid">Rapaport Price List</option>
-	<option value="http://www.diamonds.net/Prices/RapNet/" class="LightGrayCellMid">RapNet Price List</option>
-	<option value="http://www.diamonds.net/prices/WorkSheet.aspx" class="LightGrayCellMid">Price Calculator</option>
-	<option value="" class="LightGrayCellMid"></option>
-	<option value="" class="CharcoalCellMid">Information Services</option>
-	<option value="http://www.diamonds.net/news/articles.aspx" class="LightGrayCellMid">Latest News</option>
-	<option value="http://www.diamonds.net/news/default2.aspx" class="LightGrayCellMid">News List</option>
-	<option value="http://www.diamonds.net/Reports/default.aspx" class="LightGrayCellMid">Rapaport Research</option>
-	<option value="http://www.diamonds.net/MarketReport/default.aspx" class="LightGrayCellMid">Weekly Market Comments</option>
-	<option value="http://www.diamonds.net/Video/" class="LightGrayCellMid">Videos</option>
-	<option value="" class="LightGrayCellMid"></option>
-	<option value="" class="CharcoalCellMid">Trading Services</option>
-	<option value="http://www.rapnet.com" class="LightGrayCellMid">RapNet®</option>
-	<option value="http://www.rapaportauctions.com" class="LightGrayCellMid">Rapaport Auctions</option>
-	<option value="" class="LightGrayCellMid"></option>
-	<option value="" class="CharcoalCellMid">About Rapaport</option>
-	<option value="http://www.diamonds.net/cms/Contact-Us.aspx" class="LightGrayCellMid">Contact Us</option>
-	<option value="http://www.diamonds.net/subscribe/subscriptions.aspx" class="LightGrayCellMid">Join Rapaport</option>
-	<option value="http://www.diamonds.net/TradeWire/" class="LightGrayCellMid">Free TradeWire</option>
-	<option value="" class="LightGrayCellMid"></option>
 
-</select>
-        </td>
-
-        <td style="padding-top: 5px;" align="left">
-            <span id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_SiteMapPath1"><font face="Verdana"><a href="#ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=HKlgTWiq6i0FEluFp3EW8_9WN2mivwJMM37sGLG1yBNxKdXpliMCgIsEYOwSDAeOhpEvG_BbvwrDAW4PvK6ilmoM6Po1&amp;t=634500740005520474" border="0"></a><span><a href="/Default.aspx"><b><font color="#7C6F57">Home</font></b></a></span><span><b><font color="#5D7B9D"> » </font></b></span><span><a href="/legal/Legal.aspx"><b><font color="#000064">Legal Notices</font></b></a></span><span><b><font color="#5D7B9D"> » </font></b></span><span><b><font color="#333333">Diamonds.Net Privacy Policy</font></b></span><a id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_SiteMapPath1_SkipLink"></a></font></span>
-        </td>
-        <!-- <td align="center" valign="middle">
-			<span id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_lblTitle"><b><font face="font-family:Verdana,Arial,Sans Serif;" color="#000064">Privacy Policy</font></b></span>
-		</td> -->
-        <td align="right" valign="middle" style="padding-top: 4px; padding-right: 10px;">
-
-                <table id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_googleHeaderSearchBox" style="border: 1px solid #000064" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td style="padding-left: 4px; padding-right: 4px; background-color: White;">
-                            <div id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_Panel1">
-			
-                                <input name="ctl00$ContentPlaceHolderTopTitleDate$TopTitleDate1$txtGoogleSearch" type="text" value="Site Search" id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_txtGoogleSearch" class="GoogleSearchBox" autocomplete="off" onfocus="InitSearch(this)" onblur="ResetSearch(this)" border="0" style="font-family: Arial, Helvetica, Sans-Serif; font-size: 12px;">
-									
-                             
-                            
-		</div>
-                        </td>
-		<td width="13" style="border-left: 1px solid #000064; padding-top: 2px;">
-                            <input type="image" name="ctl00$ContentPlaceHolderTopTitleDate$TopTitleDate1$ibtnGoogleSearch" id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_ibtnGoogleSearch" title="Google Search" enableclientscript="false" src="../SiteResource/Graphics/Images/News/BlueSearchIcon.gif" align="middle" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolderTopTitleDate$TopTitleDate1$ibtnGoogleSearch&quot;, &quot;&quot;, true, &quot;vgGoogleSearchHeader&quot;, &quot;&quot;, false, false))" border="0">
-                        </td>
-	</tr>
-</tbody></table>
-
-
-            
-            
-            
-        </td>
-    </tr>
-</tbody></table>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="padding:5px 12px 5px 10px; border-bottom:1px solid #E3E3E3">
-    <tbody><tr style="vertical-align: middle; text-align: left;">
-        <td>
-            <div id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_TopSection1_panTicker">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKMrpXeBgLR9L+2BQKvg5KPCgLpvJCqDZFe3U/BeWXtNNn6BuYQvocXkYtP">
 	
-                <marquee width="700px" behavior="scroll" loop="-1" scrollamount="1" scrolldelay="40" truespeed="truespeed" onmouseover="this.stop()" onmouseout="this.start()" direction="left" style="font-size: 14px; cursor: pointer; font-family: arial; text-align: left;">
-					<!--YOUR SCROLL CONTENT HERE-->
-					<table id="ctl00_ContentPlaceHolderTopTitleDate_TopTitleDate1_TopSection1_dlTicker" class="TickerTable" cellspacing="0" cellpadding="0" border="0" width="100%">
+	<table cellspacing="0" cellpadding="0" width="100%" class="InlineModalWindow" border="0" style="margin: auto; position: fixed; display: none; z-index: 1000;">
 		<tbody><tr>
+			<td style="width: 50%; border-right: none;">
+				<img src="/Images/clear.gif" height="0" alt="">
+			</td>
 			<td>
-							<nobr>
-								<a href="/News/NewsItem.aspx?ArticleID=37667&amp;ArticleTitle=GIA+Tests+Extraterrestrial+Gemstones+for+Down-to-Earth+Elements">GIA Tests Extraterrestrial Gemstones for Down-to-Earth Elements</a></nobr>
-						</td><td>
-							<nobr>
-								<a href="/News/NewsItem.aspx?ArticleID=37652&amp;ArticleTitle=Amazon+Launches+Black+Friday+Deals+Store">Amazon Launches Black Friday Deals Store</a></nobr>
-						</td><td>
-							<nobr>
-								<a href="/News/NewsItem.aspx?ArticleID=37645&amp;ArticleTitle=Sahar+Appoints+Besser+as+IDEs++Managing+Director">Sahar Appoints Besser as IDE's  Managing Director</a></nobr>
-						</td><td>
-							<nobr>
-								<a href="/News/NewsItem.aspx?ArticleID=37641&amp;ArticleTitle=Zale+Appoints+Subha+Ramesh+to+Senior+Role">Zale Appoints Subha Ramesh to Senior Role</a></nobr>
-						</td><td>
-							<nobr>
-								<a href="/News/NewsItem.aspx?ArticleID=37639&amp;ArticleTitle=Peregrine+Announces+%2412M+Rights+Offering">Peregrine Announces $12M Rights Offering</a></nobr>
-						</td><td>
-							<nobr>
-								<a href="/News/NewsItem.aspx?ArticleID=37637&amp;ArticleTitle=WDC+Confirms+Agreement+on+Marange+Rough+Exports">WDC Confirms Agreement on Marange Rough Exports</a></nobr>
-						</td><td>
-							<nobr>
-								<a href="/News/NewsItem.aspx?ArticleID=37636&amp;ArticleTitle=De+Beers+Signs+%242B+Multicurrency+Credit+Facility">De Beers Signs $2B Multicurrency Credit Facility</a></nobr>
-						</td><td>
-							<nobr>
-								<a href="/News/NewsItem.aspx?ArticleID=37635&amp;ArticleTitle=Sotheby%e2%80%99s+NY+Jewelry+Sale+Includes+Two+Remarkable+Diamonds">Sotheby’s NY Jewelry Sale Includes Two Remarkable Diamonds</a></nobr>
-						</td><td>
-							<nobr>
-								<a href="/News/NewsItem.aspx?ArticleID=37634&amp;ArticleTitle=U.S.+Chain-Store+Sales+%2b3%25">U.S. Chain-Store Sales +3%</a></nobr>
-						</td><td>
-							<nobr>
-								<a href="/News/NewsItem.aspx?ArticleID=37633&amp;ArticleTitle=Value+of+Diwali+Sales+Increases+But+Volume+Drops">Value of Diwali Sales Increases But Volume Drops</a></nobr>
-						</td>
-		</tr>
-	</tbody></table>
-					<!--YOUR SCROLL CONTENT HERE-->
-				</marquee>
-            
-</div>
-        </td>
-        <td nowrap="" style="padding-left: 10px;">
-            <a href="../news/RssNews.aspx" class="LinkNoUnderline" style="text-decoration: none;">
-                <img src="/SiteResource/Graphics/Images/News/RSSIcon.gif" style="border:none" alt="RSS" align="bottom">&nbsp;&nbsp;<u>RSS Feed</u></a>
-        </td>
-        <td>
-                <div style="padding-left:10px; z-index: 10;">
-                    <iframe src="/Clocks.aspx" width="120" height="23" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No" style="background-color: #F3F3F3;">
-                    </iframe>
-                </div>
-            
-        </td>
-    </tr>
-</tbody></table>
-
-
-										</div>
-										
-										
-										<table border="0" style="width: 100%" cellpadding="0" cellspacing="0">
-											<tbody><tr>
-												<td class="DisplayNoneOnPrint" valign="top">
-													
-													
-
-													
+				<table width="1000" cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr>
+						<td align="center" style="text-align: center; float: none;">
+							<table cellpadding="0" cellspacing="0" border="0" width="100%">
+								<tbody><tr>
+									<td align="center">
+										<table cellpadding="0" cellspacing="0" border="0">
+											<tbody><tr class="Top">
+												<td class="OpeningStrip">
+													<img src="/Images/clear.gif" height="1" alt="">
 												</td>
-												<td align="center" style="" valign="top" width="100%">
-													
-													
-    <table cellpadding="0" cellspacing="0" border="0" width="85%">
-        <tbody><tr>
-            <td valign="top" class="NewsContent" align="left">
-                <p class="WhiteCellTopRedTxt">
-                    Last updated: August 29, 2011
-                </p>
-                <strong>1. Overview </strong>
-                <br>
-                <br>
-                <strong>1.1</strong> Rapaport USA Inc. and the Rapaport Group ("Rapaport" or "we")
-                offers free as well as subscriber/membership based services ("the Services") through
-                its Rapnet.com Diamonds.Net, and Rapaport.com websites. In order to operate the
-                Services and to be in compliance with the USA PATRIOT ACT, Rapaport may ask you
-                to provide us with company, personal, credit card and/or bank account details. This
-                Privacy Policy applies to all Rapaport websites and describes the information we
-                collect and how we use that information.
-                <br>
-                <br>
-                1.2 Rapaport takes the privacy of your personal information very seriously and will
-                use your information only in accordance with the terms of this Privacy Policy. We
-                will not sell or rent your personally identifiable information or a list of our
-                customers to third parties. However, as described in more detail in Paragraph 3
-                below, there are limited circumstances in which some of your information will be
-                shared with third parties, under strict restrictions, so it is important for you
-                to review this Privacy Policy. This Privacy Policy applies to all services that
-                are hosted on the Diamonds.Net, Rapaport.com and Rapnet.com websites, whether the
-                services are offered by Rapaport, by its subsidiaries, or by its affiliates in the
-                Rapaport Group.
-                <br>
-                <br>
-                1.3 By using this website, you agree to accept the Privacy Policy and RapNet Terms
-                of Service (TOS) . By applying for any of the subscription or membership based services
-                offered through this website, you expressly consent to our use and disclosure of
-                your personal information in the manner described in this Privacy Policy. This Privacy
-                Policy is incorporated into the terms of the RapNet TOS.
-                <br>
-                <br>
-                <strong>1.4</strong> Please note that your personal information will be stored and
-                processed on our computers in the United States, in accordance with United States
-                laws. Rapaport will hold and transmit your personal information in a safe, confidential
-                and secure environment. If you object to your personal information being transferred
-                or used as described in this Privacy Policy, please do not register for the Services.
-                <br>
-                <br>
-                <strong>1.5 Notification of Changes </strong>
-                <br>
-                <br>
-                This policy may be revised over time as new features are added to the Services or
-                as we incorporate suggestions from our customers. If we are going to use or disclose
-                your personally identifiable information in a manner materially different from that
-                stated at the time we collected the information, you will have a choice as to whether
-                or not we use or disclose your information in this new manner. Any material changes
-                will be effective only 30 days after we post an amended Privacy Policy.
-                <br>
-                <br>
-                We will post the amended Privacy Policy prominently on our Web site so that you
-                can always review what information we gather, how we might use that information,
-                and whether we will disclose it to anyone. Please check this Web site at any time
-                for the most current version of our Privacy Policy.
-                <br>
-                <br>
-                <strong>1.6</strong> This Web site may include links to third party Web sites. These
-                sites are governed by their own privacy statements, and Rapaport is not responsible
-                for their operations, including but not limited to their information practices.
-                Users submitting information to or through these third party Web sites should review
-                the privacy statement of these sites before providing them with personally identifiable
-                information.
-                <br>
-                <br>
-                <strong>2. Information We Collect </strong>
-                <br>
-                <br>
-                <strong>2.1 Required Information </strong>
-                <br>
-                To subscribe to the Services, you must provide company details, address, phone number,
-                and e-mail address. In order to trade through our INDEX-Internet Diamond Exchange
-                or RapNet trading systems, you must provide trade references, credit card, debit
-                card and bank account information. This required information is necessary for us
-                to approve your membership and to process transactions or to contact you should
-                the need arise in administering your membership.<br>
-                For USA PATRIOT ACT purposes we are required to collect your Employee Identification
-                Number ("EIN") or other Taxpayer Identification Number ("TIN"). If you choose to
-                register or apply for certain optional/additional features or products offered through
-                Rapaport Web sites, you will be required to provide additional information to establish
-                that you qualify for such features or products.
-                <br>
-                <br>
-                <strong>2.2 Transaction Information </strong>
-                <br>
-                When you list a diamond for sale, purchase or sell a diamond, or use the Services
-                in any way, we record information related to each transaction, including the amount
-                of the transaction. We retain this information for each of your transactions through
-                Diamonds.Net, Rapaport.com and Rapnet.com websites. We also collect the Internet
-                address (IP address) of the computer or device you use to access your Rapaport account,
-                in order to help detect possible instances of unauthorized transactions.
-                <br>
-                <br>
-                <strong>2.3 Information About You From Third Parties </strong>
-                <br>
-                In order to protect us and our customers against potential fraud, we may verify
-                with third parties the information you provide. In the course of such verification,
-                we receive personally identifiable information about you from such services. This
-                may include background and credit checks by obtaining information about you and
-                your business from a credit bureau or a business information service such as Dun
-                &amp; Bradstreet. If you incur a debt to Rapaport, we will generally conduct a credit
-                check by obtaining additional information about you from a credit bureau, to the
-                extent permitted by law. Rapaport, at its sole discretion, also reserves the right
-                periodically to retrieve and review a business and / or consumer credit report for
-                any account, and reserves the right to close an account based on information obtained
-                during this credit review process.
-                <br>
-                <br>
-                <strong>2.4 Additional Verification </strong>
-                <br>
-                If we cannot verify the information that you provide we may ask you to send us additional
-                information by fax (such as your drivers' license, credit card statement, and/or
-                a recent utility bill or other information linking you to the applicable address),
-                or to answer additional questions online to help verify your information.
-                <br>
-                <br>
-                <strong>2.5 Web Site Traffic Information </strong>
-                <br>
-                Because of the way that World Wide Web communication standards work, when you arrive
-                at or leave this Web site, we automatically receive the Web address of the site
-                that you came from or are going to. We also collect information on which pages of
-                our Web site you visit while you are on the site, the type of browser you use and
-                the times you access our Web site. We use this information only to try to understand
-                our customers' preferences better and to manage the load on our servers, so as to
-                improve our service and your experience with Rapaport. We do not track the Web sites
-                that you visit before or after you leave the Rapaport site.
-                <br>
-                <br>
-                <strong>2.6 Rapaport Message Center </strong>
-                <br>
-                Messages sent to you and from you through the Rapaport Message Center or Rapaport
-                communication tools are kept and maintained by Rapaport.
-                <br>
-                <br>
-                <strong>2.7 Our Use of "Cookies" </strong>
-                <br>
-                This Web site uses cookies to enhance your browsing experience. Cookies are small
-                pieces of information saved by your browser onto your computer. Cookies are used
-                to remember various aspects of your visit. This information is used by us to guarantee
-                a consistent and uninterrupted experience. Cookies will allow you to revisit without
-                losing many of your settings. We do not use cookies to save personal information
-                for outside uses.
-                <br>
-                <br>
-                <strong>2.7 Our Use of "Cookies" </strong>
-                <br>
-                This Web site uses cookies to enhance your browsing experience. Cookies are small
-                pieces of information saved by your browser onto your computer. Cookies are used
-                to remember various aspects of your visit. This information is used by us to guarantee
-                a consistent and uninterrupted experience. Cookies will allow you to revisit without
-                losing many of your settings. We do not use cookies to save personal information
-                for outside uses.
-                <br>
-                <br>
-                <strong>2.8 Customer Service Correspondence </strong>
-                <br>
-                If you send us correspondence, including e-mails and faxes, we retain such information
-                in the records of your account. We will also retain customer service correspondence
-                and other correspondence from Rapaport to you. We retain these records in order
-                to measure and improve our customer service, and to investigate potential fraud
-                and violations of our Terms of Service Agreement. We may, over time, delete these
-                records if permitted by law.
-                <br>
-                <br>
-                <strong>2.9 Questionnaires, Surveys and Profile Data </strong>
-                <br>
-                From time to time, we offer optional questionnaires and surveys to our users for
-                such purposes as collecting demographic information or assessing users' interests
-                and needs. The use of the information collected will be explained in detail in the
-                survey itself. If we collect personally identifiable information from our users
-                in these questionnaires and surveys, the users will be given notice of how the information
-                will be used prior to their participation in the survey or questionnaire.
-                <br>
-                <br>
-                <strong>3. Our Use and Disclosure of Information </strong>
-                <br>
-                <br>
-                <strong>3.1 Internal Uses </strong>
-                <br>
-                We collect, store and process your personal information on servers located in the
-                United States . We use the information we collect about you in order 1) to provide
-                our services and process your transactions, 2) to provide customer service, 3) to
-                determine your eligibility to receive special trading privileges or products and
-                4) to improve our products and services.
-                <br>
-                <br>
-                <strong>3.2 Disclosure to Other Rapaport Customers </strong>
-                <br>
-                If you are a registered RapNet or INDEX-Internet Diamond Exchange member, your name,
-                Company name, telephone numbers and e-mail address in addition to the diamonds you
-                are listing for sale may be displayed to other RapNet or INDEX-Internet Diamond
-                Exchange members. However, your credit card number, bank account and other financial
-                information will NEVER be revealed to anyone except with your express written permission
-                or if we are required to do so pursuant to a subpoena or other legal process.
-                <br>
-                <br>
-                <strong>3.3 Disclosure to Third Parties Other Than Rapaport Customers </strong>Rapaport
-                will not sell or rent any of your personally identifiable information to third parties.
-                Rapaport will not share any of your personally identifiable information with third
-                parties except in the limited circumstances described below, or with your express
-                permission (and with other Rapaport customers as described above). These third parties
-                are limited by law or by contract from using the information for secondary purposes
-                beyond the purposes for which the information is shared.<br>
-                We disclose information we collect in response to a law enforcement request, subpoena,
-                warrant, court order, levy, attachment, order of a court-appointed receiver or other
-                comparable legal process, including subpoenas from private parties in a civil action.<br>
-                We disclose information we collect in circumstances in which Rapaport believes the
-                Services are being used in the commission of a crime; when we have a good faith
-                belief that there is an emergency that poses a threat to the safety of you or another
-                person; or when necessary either to protect the rights or property of Rapaport,
-                the Services or our subsidiaries, or affiliates in the Rapaport Group, or for us
-                to render the Services provided.<br>
-                We disclose information we collect to your agent or legal representative (such as
-                the holder of a power of attorney that you grant, or a guardian appointed for you).<br>
-                We share aggregated statistical data with our business partners or for public relations.
-                For example, we may disclose that a specific percentage of our users have addresses
-                in New York. However, this aggregated information is not tied to personally identifiable
-                information.<br>
-                We share your information with our parent, subsidiaries, affiliates and joint ventures
-                to help coordinate the services we provide to you, enforce our terms and conditions,
-                and promote trust and safety.
-                <br>
-                <br>
-                <strong>3.4 Our Contacts with Rapaport Customers </strong>
-                <br>
-                We communicate with users on a regular basis via e-mail to provide requested services,
-                and we also communicate by phone or letter. We use your e-mail to send information,
-                transaction confirmations and to send notices and other disclosures required by
-                law. Generally, users cannot opt out of these communications, but they will be primarily
-                informational in nature rather than promotional. We also use your e-mail address
-                to send you other types of communications that you can control, including the Rapaport
-                Tradewire weekly email.
-                <br>
-                <br>
-                <strong>3.5 Internet Address Information </strong>
-                <br>
-                We use IP addresses, browser types and access times to analyze trends, administer
-                the site, improve site performance and gather broad demographic information for
-                aggregate use.
-                <br>
-                <br>
-                <strong>3.6 Your Use of Information and Our Services </strong>
-                <br>
-                In order to facilitate the transactions between Rapaport members, our Service allows
-                you limited access to other users' contact or shipping information. As a member
-                you may have access to the User ID, email address and other contact or shipping
-                information of other members. By consenting to the applicable Terms of Service,
-                you agree that, with respect to other users' personally identifiable information
-                that you obtain through the site or through an Rapaport-related communication or
-                Rapaport-facilitated transaction, you will only use this information for: (a) Rapaport-related
-                communications that are not unsolicited commercial messages, (b) using services
-                offered through Rapaport (e.g. diamond sales, shipping or insurance), and (c) any
-                other purpose that such user expressly agrees to after adequate disclosure of the
-                purpose(s). In all cases, you must provide users with the opportunity to remove
-                themselves from your database and review any information you have collected about
-                them. In addition, under no circumstances, except as defined in this Section, can
-                you disclose personally identifiable information about another Rapaport user to
-                any third party without our consent and the consent of such other user after adequate
-                disclosure. Note that law enforcement personnel and other rights holders are given
-                different rights with respect to information they access. Rapaport does not tolerate
-                spam. Therefore, without limiting the foregoing, you may not add a Rapaport user
-                to your mail list (email or physical mail) without their express consent after adequate
-                disclosure, even if said user has previously made a purchase from you. We strictly
-                enforce our Anti-Spam Policy. To report Rapaport-related spam, please send an email
-                to: info@diamonds.net.
-                <br>
-                <br>
-                <strong>4. Information Security </strong>
-                <br>
-                <br>
-                4.1 Rapaport is committed to handling your customer information with high standards
-                of information security. We restrict access to your personally identifiable information
-                to employees who need to know that information in order to provide products or services
-                to you. We maintain physical, electronic and procedural safeguards that comply with
-                federal regulations to guard your nonpublic personal information.
-                <br>
-                <br>
-                4.2 The security of your subscription to any of the Services also relies on your
-                protection of your password. You may not share your password with anyone. Rapaport
-                will never ask you to send your password or other sensitive information to us in
-                an e-mail, though we may ask you to enter this type of information on the website.
-                <br>
-                <br>
-                4.3 Any e-mail or other communication requesting your password, asking you to provide
-                sensitive account information via email, should be treated as unauthorized and suspicious
-                and should be reported to Rapaport immediately. If you do share your Rapaport password
-                with a third party for any reason, the third party will have access to your account
-                and your personal information, and you may be responsible for actions taken using
-                your password. If you believe someone else has obtained access to your password,
-                please contact us immediately.
-                <br>
-                <br>
-                <br>
-            </td>
-        </tr>
-    </tbody></table>
-
-													
+												<td class="Center">
+													<img src="/Images/clear.gif" height="1" alt="">
 												</td>
-												<td class="DisplayNoneOnPrint" valign="top" align="right">
-													
-													
-    <br>
-
-													
+												<td class="ClosingStrip CloseInlineModalWindow">
+													<img src="/Images/clear.gif" height="1" alt="">
+												</td>
+											</tr>
+											<tr class="Middle">
+												<td class="OpeningStrip">
+													<img src="/Images/clear.gif" height="1" alt="">
+												</td>
+												<td class="Center" id="WindowFadeiFrameContainer" style="width: 500px; height: 300px;">
+													<iframe id="WindowFadeiFrame" height="100%" width="100%" scrolling="no" frameborder="0">
+													</iframe>
+													<span id="spnRedirectUrlOnClose" style="display: none"></span>
+												</td>
+												<td class="ClosingStrip">
+													<img src="/Images/clear.gif" height="1" alt="">
+												</td>
+											</tr>
+											<tr class="Bottom">
+												<td class="OpeningStrip">
+													<img src="/Images/clear.gif" height="1" alt="">
+												</td>
+												<td class="Center">
+													<img src="/Images/clear.gif" height="1" alt="">
+												</td>
+												<td class="ClosingStrip">
+													<img src="/Images/clear.gif" height="1" alt="">
 												</td>
 											</tr>
 										</tbody></table>
-										
-									</td>
-								</tr>
-								<tr>
-									<td valign="bottom">
-										
-										
-											
-<br><br>
-<table id="Footer" width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-        <td id="copyright" style="">
-<span style="font-size:9px;"><a href="http://www.diamonds.net/legal/TermsOfUse.aspx">Terms of Use</a> | <a href="http://www.diamonds.net/legal/PrivacyPolicy.aspx">Privacy Policy</a> | <a href="http://www.diamonds.net/legal/Legal.aspx">Legal Notices</a> | <a href="http://www.diamonds.net/cms/Link-to-us">Link to us</a><br>
-<br> © Copyright 1978-2011 by Martin Rapaport. All rights reserved. Index®, RapNet®, Rapaport®, PriceGrid™, Diamonds.Net™, and JNS®; are TradeMarks of Martin Rapaport.<br>
-While the information presented is from sources we believe reliable, we do not guarantee the accuracy or validity of any information presented by Rapaport or the views expressed by users of our internet service.   </span>     </td>
-    </tr>
-</tbody></table>
-										
-										
 									</td>
 								</tr>
 							</tbody></table>
@@ -1335,12 +420,832 @@ While the information presented is from sources we believe reliable, we do not g
 					</tr>
 				</tbody></table>
 			</td>
+			<td style="width: 50%; border-right: none;">
+				<img src="/Images/clear.gif" height="1" alt="">
+			</td>
 		</tr>
 	</tbody></table>
-	<!-- This should be removed as soon as possible. 
-		NOTE: When removing you will need to go through the project to fing pages that use this PlaceHolder -->
+	<div id="PageWrapper">
+		
+			<div id="TabWrapper" style="background-color: #D2D2D2;">
+				<div id="TabBar" class="clearfix">
+					<div style="float: left;">
+						<ul>
+							<li style="border-left: none;"></li>
+							<li class="TabDnet selected"><a href="http://www.diamonds.net/" title="Diamonds.Net" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Dnet']); "><span class="TabIcon">
+								</span>&nbsp;&nbsp;Diamonds.Net</a></li>
+							<li class="TabRapnet"><a href="http://www.rapnet.com/" title="RapNet.com" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'RapNet']); ">
+								<span class="TabIcon"></span>&nbsp;&nbsp;RapNet.com</a></li>
+							<li class="TabAuction"><a href="http://www.rapaportauctions.com/" title="Rapaport Auctions" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Auctions']); "><span class="TabIcon">
+								</span>&nbsp;&nbsp;Rapaport Auctions</a></li>
+							<li class="TabFairtrade"><a href="http://www.rapaportfairtrade.com/" title="FairTrade" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Fairtrade']); "><span class="TabIcon">
+								</span>&nbsp;&nbsp;FairTrade</a></li>
+							<li class="TabMore">
+								<ul>
+									<li><a href="http://www.diamonds.net/LAB/" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Labs']); ">
+										Rapaport Laboratory Services</a></li>
+									<li><a href="http://technet.rapaport.com/" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Technet']); ">
+										Rapaport TechNet</a></li>
+								</ul>
+								More<span class="TabIcon" style="display: inline-block; margin-right: 9px; width: 16px;
+									height: 16px; background-image: url('/Images/icons/HomePage/tab_bar_sprite_sheet.png');
+									background-repeat: no-repeat; background-position: -64px 0; margin-left: 6px;"></span>
+							</li>
+							<li style="border-right: none;"></li>
+						</ul>
+					</div>
+					<div style="float: right; position: relative; top: 1px; padding-top: 2px;">
+						<div class="SocialboxWrapper plusone">
+							<div style="padding-top: 30px; position: absolute; width: 20px;">
+								<div class="Socialbox" style="">
+									<g:plus href="https://plus.google.com/111832981791656527785" rel="author" width="260" height="69">
+										</g:plus>
+								</div>
+							</div>
+							<img src="/Images/Icons/HomePage/google_icon.png" alt="Google+">
+						</div>
+						<div class="SocialboxWrapper twitter">
+							<div style="padding-top: 30px; position: absolute; width: 20px;">
+								<div class="Socialbox" style="background-color: white; padding: 5px; border: 1px solid #DCDCDC">
+									<a style="white-space: nowrap;" href="https://twitter.com/rapaport" class="twitter-follow-button" data-show-count="false">Follow @rapaport</a>
+								</div>
+							</div>
+							<img src="/Images/Icons/HomePage/twitter_icon.png" alt="Twitter" style="margin-left: 3px;">
+							
+						</div>
+						<div class="SocialboxWrapper facebook">
+							<div style="padding-top: 30px; position: absolute; width: 20px;">
+								<div class="Socialbox" style="background-color: white; padding: 5px; border: 1px solid #DCDCDC">
+									<iframe id="facebookContainer" scrolling="no" frameborder="0" style="border: none;
+										overflow: hidden; width: 200px; height: 62px;" allowtransparency="true"></iframe>
+								</div>
+							</div>
+							<img src="/Images/Icons/HomePage/facebook_icon.png" alt="Facebook" style="margin-left: 3px;">
+						</div>
+						<a href="/Mobile/" class="MobileButton">Mobile
+							<!-- <span class="dd-arrow" style="background-image:url(/Images/icons/dropdown.png); background-repeat:no-repeat; display:inline-block; width:10px; height:10px; margin: 0 6px; position:relative; top:1px;"></span>-->
+						</a>
+						<div id="TopSearchBoxWrapper">
+							<input id="TopSearchBox" name="TopSearchBox" type="text">
+							<a id="TopSearchBoxIcon" onclick=" GoogleSearch(); "></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+		
+			<div id="HeaderWrapper" style="width: 1000px; margin: auto; padding-top: 7px; padding-bottom: 15px;">
+                <div style="text-align: right; padding-bottom: 7px;">
+                    בס"ד</div>
+				<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 17px;">
+					<tbody><tr>
+						<td>
+							<a href="/" style="display: block;">
+								<img style="border: none;" src="/Images/HomePage/header_logo.gif" width="502" height="32" alt="Diamonds.Net">
+							</a>
+						</td>
+						<td align="right" style="text-align: right;">
+							
+								<iframe id="ifrmResultsBanner" src="/Ads/PageBanner.aspx?BannerGroup=0" width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
+								</iframe>
+							
+						</td>
+					</tr>
+				</tbody></table>
+				<div id="MainNavigation" style="background-color: #D2002D; background-image: url('/Images/HomePage/menu_bg.jpg');
+					background-repeat: repeat-x; height: 30px; position: relative;">
+					<ul>
+						<li><a href="../News/Articles.aspx" id="ctl00_ContentPlaceHolderTopNavigation_aNews">News</a>
+							<ul>
+								<li><a href="/News/Articles.aspx">Latest News</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/News/Videos/">Video News</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Calendar/">Trade Calendar</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Tradewire/">TradeWire Email</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/DailyEmail/Latest.aspx">NewsBrief Email</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/NewsFeed/">News Feed</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Subscribe/Subscription.aspx?ShowSubscription=TRADEWIRE">
+									Subscribe</a></li>
+							</ul>
+						</li>
+						<li><a href="../Store/Reports.aspx" id="ctl00_ContentPlaceHolderTopNavigation_aReports">Reports</a>
+							<ul>
+								<li><a href="/Store/Reports.aspx">Reports Home</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Store/PriceReports.aspx?Report=1">Price Reports</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Store/PriceReports.aspx?Report=3">Regional Reports</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Store/PriceReports.aspx?Report=4">Colored Gemstones</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Store/PriceReports.aspx?Report=8">Inside Diamonds</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Store/PriceReports.aspx?Report=7">Auction Reports</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Store/PriceReports.aspx?Report=2">Rapaport Research</a>
+								</li>
+							</ul>
+						</li>
+						<li><a href="../News/RDR.aspx" id="ctl00_ContentPlaceHolderTopNavigation_aMagazine">Magazine</a>
+							<ul>
+								<li><a href="/News/RDR.aspx">Magazine Home</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/News/Articles.aspx?RDRIssueID=">Table of Contents</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Magazine/">Flipbook</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Magazine/About.aspx">About the Magazine</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Subscribe/Subscription.aspx?ShowSubscription=RDR">Subscribe</a>
+								</li>
+							</ul>
+						</li>
+						<li id="ctl00_ContentPlaceHolderTopNavigation_liPricesGuest" class="GuestMenu"><a href="../Prices/" id="ctl00_ContentPlaceHolderTopNavigation_aPricesGuest">Diamond Prices</a>
+							<ul>
+								<li><a href="/Prices/">Rapaport Diamond Prices</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Prices/RapaportPriceLists.aspx">Rapaport Price Lists</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Prices/RapaportDiamondPrices.aspx#aPriceCalculator">
+									Price Calculator</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Prices/RapaportDiamondPrices.aspx#aRAPI">RAPI Diamond
+									Index</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Prices/Mobile.aspx">Prices on your Mobile</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Prices/NewsAndAnalysis.aspx">Premium News and Analysis</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Prices/GuestPriceGuide.aspx">All About Price Lists</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Subscribe/Subscription.aspx?ShowSubscription=PRICE_SHEET">
+									Subscribe</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Store/PriceLists.aspx">Buy Historical Price Lists</a></li>
+							</ul>
+						</li>
+						
+						<li><a href="../Trading/RapNet.aspx" id="ctl00_ContentPlaceHolderTopNavigation_aTrading">Trading</a>
+							<ul>
+								<li><a href="/Trading/RapNet.aspx">RapNet Diamond Trading Network</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Trading/RapaportAuctions.aspx">Rapaport Auctions</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Trading/LabServices.aspx">Rapaport Laboratory Services</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Trading/BuyerGroups.aspx">Buyers and Suppliers Groups</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Trading/ChinaImport.aspx">China Diamond Import Services</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Trading/InventoryLink.aspx">RapNet Inventory Link</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Subscribe/Subscription.aspx?ShowSubscription=RAPNET">
+									Join RapNet</a></li>
+							</ul>
+						</li>
+						<li><a href="../Store/PriceLists.aspx" id="ctl00_ContentPlaceHolderTopNavigation_aStore">Store</a><ul>
+							<li><a href="/Store/PriceLists.aspx">Buy Historical Price Lists</a>
+								<div class="MenuSeparator">
+							</div></li>
+							<li><a href="/Store/Reports.aspx">Buy Reports</a></li>
+							
+						</ul>
+						</li>
+						<li><a href="../About/" id="ctl00_ContentPlaceHolderTopNavigation_aAbout">About Us</a>
+							<ul>
+								<li><a href="/About/">About Rapaport</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/MediaCenter/">Media Center</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/About/Events.aspx">Rapaport Events</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/About/Conferences.aspx">Rapaport Conferences</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/About/CorporateResponsibility.aspx">Corporate Responsibility</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/About/HumanRights/">Diamonds &amp; Human Rights</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/About/Careers.aspx">Careers</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/Advertising/">Advertise with Us</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/GetFile.aspx?FileID=17" target="_blank">Rapaport Info
+									Kit (PDF)</a></li>
+							</ul>
+						</li>
+						<li><a href="../ContactUs/" id="ctl00_ContentPlaceHolderTopNavigation_aContactUS">Contact Us</a>
+							<ul>
+								<li><a href="/ContactUs/ContactForm.aspx">Customer Service</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/ContactUs/Offices.aspx">Contact Regional Offices</a>
+									<div class="MenuSeparator">
+								</div></li>
+								<li><a href="/ContactUs/Representatives.aspx">Contact a Representative</a>
+								</li>
+							</ul>
+						</li>
+						<li></li>
+					</ul>
+					<div id="ctl00_ContentPlaceHolderTopNavigation_divLoginGuest" class="GuestMenu" style="position: absolute;
+						top: 0; right: 0;">
+						<div id="TopLoginBox" style="display: none; width: 320px; height: 200px; background-color: #777777;
+							position: absolute; margin-left: -190px; margin-top: 10px; border-radius: 1em 0 1em 1em;
+							top: 25px; right: 4px; z-index: 500;">
+							<div id="BlackLoginTab" style="cursor: pointer; margin-left: 52px; width: 86px; height: 35px;
+								background-color: #777777; margin-top: -32px; z-index: 500; border-radius: 0.5em 0.5em 0 0;
+								position: relative; float: right; color: #ffffff;">
+								<span style="display: inline-block; margin: auto; margin-left: 21px; margin-top: 4px;">
+									Login ▼</span>
+							</div>
+							<div style="position: relative; padding: 20px; color: White;">
+								<table border="0" cellpadding="0" cellspacing="0">
+									<tbody><tr>
+										<td>
+											<table border="0" cellpadding="0" cellspacing="0">
+												<tbody><tr>
+													<td style="padding-right: 10px; vertical-align: middle;">
+														Username:
+													</td>
+													<td>
+														<input name="ctl00$ContentPlaceHolderTopNavigation$txtUserName" type="text" id="ctl00_ContentPlaceHolderTopNavigation_txtUserName" style="height: 30px; width: 170px; border-radius: 1em;
+															color: #AAA; float: right; padding-left: 10px;">
+													</td>
+												</tr>
+												<tr>
+													<td style="padding-right: 10px; padding-top: 10px; vertical-align: middle;">
+														Password:
+													</td>
+													<td style="padding-top: 10px;">
+														<input name="ctl00$ContentPlaceHolderTopNavigation$txtPassword" type="password" id="ctl00_ContentPlaceHolderTopNavigation_txtPassword" style="float: right; height: 30px; width: 170px;
+															border-radius: 1em; color: #AAA; padding-left: 10px;">
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<table border="0" cellpadding="0" cellspacing="0" style="padding-top: 20px;" width="100%">
+												<tbody><tr>
+													<td style="vertical-align: middle;">
+														<a style="text-decoration: underline; color: #FFFFFF;" href="#">Forgot your password?
+															»</a>
+													</td>
+													<td align="right" style="text-align: right;">
+														<a id="TopLoginButton" style="padding: 0.7em 2em; color: #FFFFFF;" class="RedCssButton CssButton" onclick="  PostUserPass('ctl00_ContentPlaceHolderTopNavigation_txtUserName', 'ctl00_ContentPlaceHolderTopNavigation_txtPassword', 'ctl00_ContentPlaceHolderTopNavigation_chkRememberMe');">
+															Login</a>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<table border="0" cellpadding="0" cellspacing="0" style="padding-top: 10px; font-size: 0.8em;" width="100%">
+												<tbody><tr>
+													<td style="white-space: nowrap; padding-right: 30px;">
+														<input id="ctl00_ContentPlaceHolderTopNavigation_chkRememberMe" type="checkbox" name="ctl00$ContentPlaceHolderTopNavigation$chkRememberMe"><label for="ctl00_ContentPlaceHolderTopNavigation_chkRememberMe">Remember me</label>
+													</td>
+													<td id="tdLoginMessage" style="display: none; padding-left: 16px; background-repeat: no-repeat;
+														background-image: url('/Images/Icons/HomePage/close_sign.png');">
+														<span id="ctl00_ContentPlaceHolderTopNavigation_lblLoginMessage" style="color: #f0888f; font-style: italic;"></span>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</div>
+						</div>
+						<a href="/Subscribe/" class="LoginJoinButton" style="margin-right: 5px;">
+							Join</a> <a class="LoginJoinButton" style="cursor: pointer; margin-right: 10px; padding-left: 10px;
+								padding-right: 6px;" onclick=" ShowTopLoginBox(); ">Login ▼</a>
+					</div>
+					
+				</div>
+			</div>
+		
+		
+			<div id="TickerWrapper" class="GlowingEdges">
+				<table border="0" cellpadding="0" cellspacing="0" style="height: 100%;">
+					<tbody><tr>
+						<td>
+							<div id="ctl00_ContentPlaceHolderTopTitleDate_panTicker" style="padding: 0 10px; line-height: 30px;">
 	
-	
+								<!-- googleoff: all -->
+								<marquee width="800px" behavior="scroll" loop="-1" scrollamount="1" scrolldelay="40" truespeed="truespeed" onmouseover=" this.stop() " onmouseout=" this.start() " direction="left" style="font-size: 1.2em; cursor: pointer; font-family: arial;
+									text-align: left;">
+											<table id="ctl00_ContentPlaceHolderTopTitleDate_dlTicker" cellspacing="0" cellpadding="0" border="0" width="100%">
+		<tbody><tr>
+			<td>
+													<span style="white-space: nowrap;"><a href="http://www.diamonds.net/news/NewsItem.aspx?ArticleID=40198&amp;ArticleTitle=Market+Comments+5%2f24%2f2012"><span style="color:#d2002d">TRADE ALERT: CVD synthetic diamonds, diamonds triple treated to avoid detection and diamonds recut to match higher grade GIA reports being traded without disclosure.</span></a></span>
+												</td><td nowrap="nowrap">
+													&nbsp;&nbsp;---&nbsp;&nbsp;
+												</td><td>
+													<span style="white-space: nowrap;"><a href="/News/NewsItem.aspx?ArticleID=40390&amp;ArticleTitle=D.E.F.+and+Diamonds+Doing+Good+in+Africa">D.E.F. and Diamonds Doing Good in Africa</a></span>
+												</td><td nowrap="nowrap">
+													&nbsp;&nbsp;---&nbsp;&nbsp;
+												</td><td>
+													<span style="white-space: nowrap;"><a href="/News/NewsItem.aspx?ArticleID=40391&amp;ArticleTitle=GIA+Creates+Scholarship+Program+for+U.S.+Military+Veterans">GIA Creates Scholarship Program for U.S. Military Veterans</a></span>
+												</td><td nowrap="nowrap">
+													&nbsp;&nbsp;---&nbsp;&nbsp;
+												</td><td>
+													<span style="white-space: nowrap;"><a href="/News/NewsItem.aspx?ArticleID=40389&amp;ArticleTitle=Synova+Creates+Business+Units+for+Diamonds%2c+Semiconductors%2c+Industry">Synova Creates Business Units for Diamonds, Semiconductors, Industry</a></span>
+												</td><td nowrap="nowrap">
+													&nbsp;&nbsp;---&nbsp;&nbsp;
+												</td><td>
+													<span style="white-space: nowrap;"><a href="/News/NewsItem.aspx?ArticleID=40388&amp;ArticleTitle=Zimbabwe+Adopts+Diamond+Policy">Zimbabwe Adopts Diamond Policy</a></span>
+												</td><td nowrap="nowrap">
+													&nbsp;&nbsp;---&nbsp;&nbsp;
+												</td><td>
+													<span style="white-space: nowrap;"><a href="/News/NewsItem.aspx?ArticleID=40387&amp;ArticleTitle=Indias+Traders+Find+the+U.S.+a+Tough+Sell">India's Traders Find the U.S. a Tough Sell</a></span>
+												</td><td nowrap="nowrap">
+													&nbsp;&nbsp;---&nbsp;&nbsp;
+												</td><td>
+													<span style="white-space: nowrap;"><a href="/News/NewsItem.aspx?ArticleID=40386&amp;ArticleTitle=AWDC+Elects+Fischler+as+President">AWDC Elects Fischler as President</a></span>
+												</td><td nowrap="nowrap">
+													&nbsp;&nbsp;---&nbsp;&nbsp;
+												</td><td>
+													<span style="white-space: nowrap;"><a href="/News/NewsItem.aspx?ArticleID=40385&amp;ArticleTitle=Analyst+Assigns+a++Buy+Rating+to+TBZ">Analyst Assigns a  'Buy' Rating to TBZ</a></span>
+												</td><td nowrap="nowrap">
+													&nbsp;&nbsp;---&nbsp;&nbsp;
+												</td><td>
+													<span style="white-space: nowrap;"><a href="/News/NewsItem.aspx?ArticleID=40377&amp;ArticleTitle=Botswana%e2%80%99s+Decision+%e2%80%8e">Botswana’s Decision ‎</a></span>
+												</td><td nowrap="nowrap">
+													&nbsp;&nbsp;---&nbsp;&nbsp;
+												</td><td>
+													<span style="white-space: nowrap;"><a href="/News/NewsItem.aspx?ArticleID=40384&amp;ArticleTitle=Kiran+Wins+IDCA+Award+for+Export+Performance">Kiran Wins IDCA Award for Export Performance</a></span>
+												</td><td nowrap="nowrap">
+													&nbsp;&nbsp;---&nbsp;&nbsp;
+												</td><td>
+													<span style="white-space: nowrap;"><a href="/News/NewsItem.aspx?ArticleID=40380&amp;ArticleTitle=Watch+the+Rapaport+Fair+Trade+Diamond+Conference">Watch the Rapaport Fair Trade Diamond Conference</a></span>
+												</td><td></td>
+		</tr>
+	</tbody></table>
+										</marquee>
+								<!-- googleoff: all -->
+							
+</div>
+						</td>
+						<td style="vertical-align: middle; text-align: right;" align="right" width="100%">
+							<a href="/News/RssNews.aspx">
+								<img src="/Images/Icons/HomePage/rss_icon.png" style="border: none" alt="RSS Feeds" title="RSS Feeds"></a>
+						</td>
+						<td style="vertical-align: middle; font-size: 1em; padding: 0 10px;">
+							<div style="white-space: nowrap;" id="divTopClock">
+							</div>
+						</td>
+					</tr>
+				</tbody></table>
+			</div>
+		
+		<div id="MaincontentWrapper" class="GlowingEdges">
+			<table border="0" cellpadding="0" cellspacing="0" width="1000px">
+				<tbody><tr>
+					<td style="vertical-align: top;">
+						
+
+					</td>
+					<td id="MaintextWrapper" width="100%" style="width: 100%; line-height: 20px; padding: 20px;
+						vertical-align: top;">
+						
+	<table cellpadding="0" cellspacing="0" border="0" width="85%">
+		<tbody><tr>
+			<td valign="top" align="left">
+				<p>
+					Last updated: August 29, 2011
+				</p>
+				<strong>1. Overview </strong>
+				<br>
+				<br>
+				<strong>1.1</strong> Rapaport USA Inc. and the Rapaport Group ("Rapaport" or "we")
+				offers free as well as subscriber/membership based services ("the Services") through
+				its Rapnet.com Diamonds.Net, and Rapaport.com websites. In order to operate the
+				Services and to be in compliance with the USA PATRIOT ACT, Rapaport may ask you
+				to provide us with company, personal, credit card and/or bank account details. This
+				Privacy Policy applies to all Rapaport websites and describes the information we
+				collect and how we use that information.
+				<br>
+				<br>
+				1.2 Rapaport takes the privacy of your personal information very seriously and will
+				use your information only in accordance with the terms of this Privacy Policy. We
+				will not sell or rent your personally identifiable information or a list of our
+				customers to third parties. However, as described in more detail in Paragraph 3
+				below, there are limited circumstances in which some of your information will be
+				shared with third parties, under strict restrictions, so it is important for you
+				to review this Privacy Policy. This Privacy Policy applies to all services that
+				are hosted on the Diamonds.Net, Rapaport.com and Rapnet.com websites, whether the
+				services are offered by Rapaport, by its subsidiaries, or by its affiliates in the
+				Rapaport Group.
+				<br>
+				<br>
+				1.3 By using this website, you agree to accept the Privacy Policy and RapNet Terms
+				of Service (TOS) . By applying for any of the subscription or membership based services
+				offered through this website, you expressly consent to our use and disclosure of
+				your personal information in the manner described in this Privacy Policy. This Privacy
+				Policy is incorporated into the terms of the RapNet TOS.
+				<br>
+				<br>
+				<strong>1.4</strong> Please note that your personal information will be stored and
+				processed on our computers in the United States, in accordance with United States
+				laws. Rapaport will hold and transmit your personal information in a safe, confidential
+				and secure environment. If you object to your personal information being transferred
+				or used as described in this Privacy Policy, please do not register for the Services.
+				<br>
+				<br>
+				<strong>1.5 Notification of Changes </strong>
+				<br>
+				<br>
+				This policy may be revised over time as new features are added to the Services or
+				as we incorporate suggestions from our customers. If we are going to use or disclose
+				your personally identifiable information in a manner materially different from that
+				stated at the time we collected the information, you will have a choice as to whether
+				or not we use or disclose your information in this new manner. Any material changes
+				will be effective only 30 days after we post an amended Privacy Policy.
+				<br>
+				<br>
+				We will post the amended Privacy Policy prominently on our Web site so that you
+				can always review what information we gather, how we might use that information,
+				and whether we will disclose it to anyone. Please check this Web site at any time
+				for the most current version of our Privacy Policy.
+				<br>
+				<br>
+				<strong>1.6</strong> This Web site may include links to third party Web sites. These
+				sites are governed by their own privacy statements, and Rapaport is not responsible
+				for their operations, including but not limited to their information practices.
+				Users submitting information to or through these third party Web sites should review
+				the privacy statement of these sites before providing them with personally identifiable
+				information.
+				<br>
+				<br>
+				<strong>2. Information We Collect </strong>
+				<br>
+				<br>
+				<strong>2.1 Required Information </strong>
+				<br>
+				To subscribe to the Services, you must provide company details, address, phone number,
+				and e-mail address. In order to trade through our INDEX-Internet Diamond Exchange
+				or RapNet trading systems, you must provide trade references, credit card, debit
+				card and bank account information. This required information is necessary for us
+				to approve your membership and to process transactions or to contact you should
+				the need arise in administering your membership.<br>
+				For USA PATRIOT ACT purposes we are required to collect your Employee Identification
+				Number ("EIN") or other Taxpayer Identification Number ("TIN"). If you choose to
+				register or apply for certain optional/additional features or products offered through
+				Rapaport Web sites, you will be required to provide additional information to establish
+				that you qualify for such features or products.
+				<br>
+				<br>
+				<strong>2.2 Transaction Information </strong>
+				<br>
+				When you list a diamond for sale, purchase or sell a diamond, or use the Services
+				in any way, we record information related to each transaction, including the amount
+				of the transaction. We retain this information for each of your transactions through
+				Diamonds.Net, Rapaport.com and Rapnet.com websites. We also collect the Internet
+				address (IP address) of the computer or device you use to access your Rapaport account,
+				in order to help detect possible instances of unauthorized transactions.
+				<br>
+				<br>
+				<strong>2.3 Information About You From Third Parties </strong>
+				<br>
+				In order to protect us and our customers against potential fraud, we may verify
+				with third parties the information you provide. In the course of such verification,
+				we receive personally identifiable information about you from such services. This
+				may include background and credit checks by obtaining information about you and
+				your business from a credit bureau or a business information service such as Dun
+				&amp; Bradstreet. If you incur a debt to Rapaport, we will generally conduct a credit
+				check by obtaining additional information about you from a credit bureau, to the
+				extent permitted by law. Rapaport, at its sole discretion, also reserves the right
+				periodically to retrieve and review a business and / or consumer credit report for
+				any account, and reserves the right to close an account based on information obtained
+				during this credit review process.
+				<br>
+				<br>
+				<strong>2.4 Additional Verification </strong>
+				<br>
+				If we cannot verify the information that you provide we may ask you to send us additional
+				information by fax (such as your drivers' license, credit card statement, and/or
+				a recent utility bill or other information linking you to the applicable address),
+				or to answer additional questions online to help verify your information.
+				<br>
+				<br>
+				<strong>2.5 Web Site Traffic Information </strong>
+				<br>
+				Because of the way that World Wide Web communication standards work, when you arrive
+				at or leave this Web site, we automatically receive the Web address of the site
+				that you came from or are going to. We also collect information on which pages of
+				our Web site you visit while you are on the site, the type of browser you use and
+				the times you access our Web site. We use this information only to try to understand
+				our customers' preferences better and to manage the load on our servers, so as to
+				improve our service and your experience with Rapaport. We do not track the Web sites
+				that you visit before or after you leave the Rapaport site.
+				<br>
+				<br>
+				<strong>2.6 Rapaport Message Center </strong>
+				<br>
+				Messages sent to you and from you through the Rapaport Message Center or Rapaport
+				communication tools are kept and maintained by Rapaport.
+				<br>
+				<br>
+				<strong>2.7 Our Use of "Cookies" </strong>
+				<br>
+				This Web site uses cookies to enhance your browsing experience. Cookies are small
+				pieces of information saved by your browser onto your computer. Cookies are used
+				to remember various aspects of your visit. This information is used by us to guarantee
+				a consistent and uninterrupted experience. Cookies will allow you to revisit without
+				losing many of your settings. We do not use cookies to save personal information
+				for outside uses.
+				<br>
+				<br>
+				<strong>2.7 Our Use of "Cookies" </strong>
+				<br>
+				This Web site uses cookies to enhance your browsing experience. Cookies are small
+				pieces of information saved by your browser onto your computer. Cookies are used
+				to remember various aspects of your visit. This information is used by us to guarantee
+				a consistent and uninterrupted experience. Cookies will allow you to revisit without
+				losing many of your settings. We do not use cookies to save personal information
+				for outside uses.
+				<br>
+				<br>
+				<strong>2.8 Customer Service Correspondence </strong>
+				<br>
+				If you send us correspondence, including e-mails and faxes, we retain such information
+				in the records of your account. We will also retain customer service correspondence
+				and other correspondence from Rapaport to you. We retain these records in order
+				to measure and improve our customer service, and to investigate potential fraud
+				and violations of our Terms of Service Agreement. We may, over time, delete these
+				records if permitted by law.
+				<br>
+				<br>
+				<strong>2.9 Questionnaires, Surveys and Profile Data </strong>
+				<br>
+				From time to time, we offer optional questionnaires and surveys to our users for
+				such purposes as collecting demographic information or assessing users' interests
+				and needs. The use of the information collected will be explained in detail in the
+				survey itself. If we collect personally identifiable information from our users
+				in these questionnaires and surveys, the users will be given notice of how the information
+				will be used prior to their participation in the survey or questionnaire.
+				<br>
+				<br>
+				<strong>3. Our Use and Disclosure of Information </strong>
+				<br>
+				<br>
+				<strong>3.1 Internal Uses </strong>
+				<br>
+				We collect, store and process your personal information on servers located in the
+				United States . We use the information we collect about you in order 1) to provide
+				our services and process your transactions, 2) to provide customer service, 3) to
+				determine your eligibility to receive special trading privileges or products and
+				4) to improve our products and services.
+				<br>
+				<br>
+				<strong>3.2 Disclosure to Other Rapaport Customers </strong>
+				<br>
+				If you are a registered RapNet or INDEX-Internet Diamond Exchange member, your name,
+				Company name, telephone numbers and e-mail address in addition to the diamonds you
+				are listing for sale may be displayed to other RapNet or INDEX-Internet Diamond
+				Exchange members. However, your credit card number, bank account and other financial
+				information will NEVER be revealed to anyone except with your express written permission
+				or if we are required to do so pursuant to a subpoena or other legal process.
+				<br>
+				<br>
+				<strong>3.3 Disclosure to Third Parties Other Than Rapaport Customers </strong>Rapaport
+				will not sell or rent any of your personally identifiable information to third parties.
+				Rapaport will not share any of your personally identifiable information with third
+				parties except in the limited circumstances described below, or with your express
+				permission (and with other Rapaport customers as described above). These third parties
+				are limited by law or by contract from using the information for secondary purposes
+				beyond the purposes for which the information is shared.<br>
+				We disclose information we collect in response to a law enforcement request, subpoena,
+				warrant, court order, levy, attachment, order of a court-appointed receiver or other
+				comparable legal process, including subpoenas from private parties in a civil action.<br>
+				We disclose information we collect in circumstances in which Rapaport believes the
+				Services are being used in the commission of a crime; when we have a good faith
+				belief that there is an emergency that poses a threat to the safety of you or another
+				person; or when necessary either to protect the rights or property of Rapaport,
+				the Services or our subsidiaries, or affiliates in the Rapaport Group, or for us
+				to render the Services provided.<br>
+				We disclose information we collect to your agent or legal representative (such as
+				the holder of a power of attorney that you grant, or a guardian appointed for you).<br>
+				We share aggregated statistical data with our business partners or for public relations.
+				For example, we may disclose that a specific percentage of our users have addresses
+				in New York. However, this aggregated information is not tied to personally identifiable
+				information.<br>
+				We share your information with our parent, subsidiaries, affiliates and joint ventures
+				to help coordinate the services we provide to you, enforce our terms and conditions,
+				and promote trust and safety.
+				<br>
+				<br>
+				<strong>3.4 Our Contacts with Rapaport Customers </strong>
+				<br>
+				We communicate with users on a regular basis via e-mail to provide requested services,
+				and we also communicate by phone or letter. We use your e-mail to send information,
+				transaction confirmations and to send notices and other disclosures required by
+				law. Generally, users cannot opt out of these communications, but they will be primarily
+				informational in nature rather than promotional. We also use your e-mail address
+				to send you other types of communications that you can control, including the Rapaport
+				Tradewire weekly email.
+				<br>
+				<br>
+				<strong>3.5 Internet Address Information </strong>
+				<br>
+				We use IP addresses, browser types and access times to analyze trends, administer
+				the site, improve site performance and gather broad demographic information for
+				aggregate use.
+				<br>
+				<br>
+				<strong>3.6 Your Use of Information and Our Services </strong>
+				<br>
+				In order to facilitate the transactions between Rapaport members, our Service allows
+				you limited access to other users' contact or shipping information. As a member
+				you may have access to the User ID, email address and other contact or shipping
+				information of other members. By consenting to the applicable Terms of Service,
+				you agree that, with respect to other users' personally identifiable information
+				that you obtain through the site or through an Rapaport-related communication or
+				Rapaport-facilitated transaction, you will only use this information for: (a) Rapaport-related
+				communications that are not unsolicited commercial messages, (b) using services
+				offered through Rapaport (e.g. diamond sales, shipping or insurance), and (c) any
+				other purpose that such user expressly agrees to after adequate disclosure of the
+				purpose(s). In all cases, you must provide users with the opportunity to remove
+				themselves from your database and review any information you have collected about
+				them. In addition, under no circumstances, except as defined in this Section, can
+				you disclose personally identifiable information about another Rapaport user to
+				any third party without our consent and the consent of such other user after adequate
+				disclosure. Note that law enforcement personnel and other rights holders are given
+				different rights with respect to information they access. Rapaport does not tolerate
+				spam. Therefore, without limiting the foregoing, you may not add a Rapaport user
+				to your mail list (email or physical mail) without their express consent after adequate
+				disclosure, even if said user has previously made a purchase from you. We strictly
+				enforce our Anti-Spam Policy. To report Rapaport-related spam, please send an email
+				to: info@diamonds.net.
+				<br>
+				<br>
+				<strong>4. Information Security </strong>
+				<br>
+				<br>
+				4.1 Rapaport is committed to handling your customer information with high standards
+				of information security. We restrict access to your personally identifiable information
+				to employees who need to know that information in order to provide products or services
+				to you. We maintain physical, electronic and procedural safeguards that comply with
+				federal regulations to guard your nonpublic personal information.
+				<br>
+				<br>
+				4.2 The security of your subscription to any of the Services also relies on your
+				protection of your password. You may not share your password with anyone. Rapaport
+				will never ask you to send your password or other sensitive information to us in
+				an e-mail, though we may ask you to enter this type of information on the website.
+				<br>
+				<br>
+				4.3 Any e-mail or other communication requesting your password, asking you to provide
+				sensitive account information via email, should be treated as unauthorized and suspicious
+				and should be reported to Rapaport immediately. If you do share your Rapaport password
+				with a third party for any reason, the third party will have access to your account
+				and your personal information, and you may be responsible for actions taken using
+				your password. If you believe someone else has obtained access to your password,
+				please contact us immediately.
+				<br>
+				<br>
+				<br>
+			</td>
+		</tr>
+	</tbody></table>
+
+					</td>
+					<td style="vertical-align: top;">
+						
+	<br>
+
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+		
+			<div class="clearfix" id="FooterWrapper" style="width: 100%;">
+				<div class="Inner clearfix">
+					<ul class="FooterList">
+						<li><b><a href="/News/Articles.aspx">News</a></b></li>
+						<li><a href="/News/Articles.aspx">Latest News</a></li>
+						<li><a href="/News/Articles.aspx?CategoryType=2&amp;CategoryID=8&amp;Title=Videos">
+							Videos</a></li>
+						<li><a href="/Reports/">Reports</a></li>
+						<li><a href="/News/RDR.aspx">Magazine</a></li>
+						<li><a href="/Subscribe/Subscription.aspx?ShowSubscription=TRADEWIRE">
+							Subscribe to News</a></li>
+						<li><a href="/Subscribe/Subscription.aspx?ShowSubscription=TRADEWIRE">
+							Free Newsletters</a></li>
+						<li><a href="/NewsFeed/">News Feed</a></li>
+					</ul>
+					<img alt="" class="FooterSeperator" src="/Images/HomePage/seperator.png" width="2" height="234">
+					<ul class="FooterList">
+						<li><b><a href="/Prices/">Prices</a></b></li>
+						<li><a href="/Prices/RapaportPriceLists.aspx">Rapaport Prices</a></li>
+						<li><a href="/Prices/RapaportPriceLists.aspx#aRapNetPrices">RapNet
+							Prices</a></li>
+						<li><a href="/Prices/RapaportPriceLists.aspx#aParcelPrices">Parcel
+							Prices</a></li>
+						<li><a href="/Prices/RapaportPriceLists.aspx#aRupeePrices">Rupee Prices</a></li>
+						<li><a href="/Prices/RapaportDiamondPrices.aspx#aPriceCalculator">
+							Price Calculator</a></li>
+						<li><a href="/Subscribe/Subscription.aspx?ShowSubscription=PRICE_SHEET">
+							Subscribe to Prices</a></li>
+					</ul>
+					<img alt="" class="FooterSeperator" src="/Images/HomePage/seperator.png" width="2" height="234">
+					<ul class="FooterList">
+						<li><b><a href="/Store/">Store</a></b></li>
+						<li><a href="/Store/PriceLists.aspx">Price Lists</a></li>
+						<li><a href="/Store/Reports.aspx">Reports</a></li>
+					</ul>
+					<img alt="" class="FooterSeperator" src="/Images/HomePage/seperator.png" width="2" height="234">
+					<ul class="FooterList">
+						<li><b><a href="/Trading/">Trading</a></b></li>
+						<li><a href="http://www.rapnet.com/">RapNet Trading Network</a></li>
+						<li><a href="/Auctions/">Rapaport Auctions</a></li>
+						<li><a href="/Trading/LabServices.aspx">Laboratory Services</a></li>
+						<li><a href="/Trading/BuyerGroups.aspx">Rapaport Buyers Group</a></li>
+						<li><a href="/Trading/ChinaImport.aspx">China Diamond Services</a></li>
+						<li><a href="/Trading/">More Trading Services</a></li>
+					</ul>
+					<img alt="" class="FooterSeperator" src="/Images/HomePage/seperator.png" width="2" height="234">
+					<ul class="FooterList">
+						<li><b><a href="/About/">About Rapaport</a></b></li>
+						<li><a href="/About/">About Us</a></li>
+						<li><a href="/Calendar/">Calendar</a></li>
+						<li><a href="/About/Conferences.aspx">Conferences</a></li>
+						<li><a href="/MediaCenter/">Media Center</a></li>
+						<li><a href="/About/Careers.aspx">Careers</a></li>
+						<li><a href="/Advertising/">Advertise with Us</a></li>
+						<li><a href="http://www.diamonds.net/getfile.aspx?FileID=17" target="_blank">Info Kit
+							(PDF)</a></li>
+					</ul>
+					<div style="float: right; margin-left: 60px;">
+						<a target="_blank" href="http://www.facebook.com/Rapaport" class="Followus" style="background-image: url('/Images/HomePage/follow_facebook_button.png');
+							background-repeat: no-repeat;"></a><a target="_blank" href="http://twitter.com/Rapaport" class="Followus" style="background-image: url('/Images/HomePage/follow_twitter_button.png');
+								background-repeat: no-repeat;"></a><a target="_blank" href="http://www.linkedin.com/company/rapaport" class="Followus" style="background-image: url('/Images/HomePage/follow_linkedin_button.png');
+									background-repeat: no-repeat;"></a><a target="_blank" href="https://plus.google.com/111832981791656527785/posts" class="Followus" style="background-image: url('/Images/HomePage/follow_google_button.png');
+										background-repeat: no-repeat;"></a>
+						<ul class="FooterList" style="margin-top: 15px;">
+							<li><b><a href="/Legal/TermsOfUse.aspx">Terms of Use</a></b></li>
+							<li><b><a href="/Legal/PrivacyPolicy.aspx">Privacy Policy</a></b></li>
+							<li><b><a href="/About/LinkToUs.aspx">Link to Us</a></b></li>
+						</ul>
+					</div>
+					<div style="margin: auto; clear: both; font-size: 0.75em; text-align: center; font-weight: bold;
+						padding-top: 20px;">
+						© Copyright 1978-2012 by Martin Rapaport. All rights reserved. Index®, RapNet®,
+						Rapaport®, PriceGrid™, Diamonds.Net™, and JNS®; are TradeMarks of Martin Rapaport.
+						<br>
+						While the information presented is from sources we believe reliable, we do not guarantee
+						the accuracy or validity of any information presented by Rapaport or the views expressed
+						by users of our internet service.
+					</div>
+				</div>
+			</div>
+		
+	</div>
 	</form>
 
 
