@@ -1,61 +1,135 @@
-<!--The following is the downloaded HTML source of the microcookinggames.com privacy policy that was archived on 2011-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111222164623id_/http%3A//www.microcookinggames.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the microcookinggames.com privacy policy that was archived on 2012-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616030421id_/http%3A//www.microcookinggames.com/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-<!-- google_ad_section_start(weight=ignore) --><meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# microcookinggames: http://ogp.me/ns/fb/microcookinggames#">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<meta name="google-site-verification" content="67Ridftto5uQb3-r_MeWIJDNg3qtk95tp1zm0saqS8g">
 <title>Privacy policy</title>
-<link type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/themes/base/jquery-ui.css" rel="stylesheet">
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/themes/base/jquery-ui.css" type="text/css" media="screen">
+
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script>
+
 <link rel="StyleSheet" href="/templates/style.css" type="text/css" media="screen">
 <link href="/templates/rating.css" rel="stylesheet" type="text/css">
+<link href="/templates/fb-buttons.css" rel="stylesheet" type="text/css">
 <link rel="icon" href="http://www.microcookinggames.com/favicon.png" type="image/png">
 <link rel="Shortcut Icon" href="http://www.microcookinggames.com/favicon.ico" type="image/x-icon">
+<link rel="index" title="microcookinggames.com" href="http://www.microcookinggames.com/">
 <!--[if IE 6]><link href="/templates/ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if IE 7]><link href="/templates/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if IE 8]><link href="/templates/ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
-<script src="http://www.google.com/jsapi"></script>
+<script type="text/javascript" src="/templates/swfobject.js" defer="defer"></script>
+<script type="text/javascript" src="/templates/arcade.js" defer="defer"></script>
+<script type="text/javascript" src="http://www.microcookinggames.com/templates/jquery.cookie.js" defer="defer"></script>
+<script type="text/javascript" src="/templates/jquery.validate.min.js" defer="defer"></script>
+<script type="text/javascript" src="/templates/player.js" defer="defer"></script>
+<script type="text/javascript" src="/templates/rating.js" defer="defer"></script>
+<script type="text/javascript" src="http://d1.openx.org/spcjs.php?id=59936&amp;target=_blank"></script>
+<meta property="fb:app_id" content="411640925517609">
+<meta property="og:type" content="website">
+ 
+<meta property="og:title" content="Privacy policy">
+<meta property="og:image" content="http://www.microcookinggames.com/images/logo-micro-notext.png">
+<meta property="og:description" content="">
+<meta property="og:url" content="http://www.microcookinggames.com/privacypolicy.html">
+<meta property="og:site_name" content="microcookinggames">
+<link rel="canonical" href="http://www.microcookinggames.com/privacypolicy.html">
+<meta name="geo.placename" content="United States">
+<meta name="geo.region" content="us">
+<meta name="robots" content="index,follow">
+<meta name="expires" content="never">
+
+				<script>
+				window.fbAsyncInit = function() {			
+				    FB.init({
+				      appId      : '411640925517609',
+				      status     : true, 
+				      cookie     : true,
+				      xfbml      : true,
+				      oauth      : true,
+				    });
+			FB.Event.subscribe('edge.create',
+				    function(response) {
+				        $.post('/index.php',{event:'like',gameid:''});
+					}
+				);
+		
+			FB.Event.subscribe('comment.create',
+			    function(response) {
+				    var commentQuery = FB.Data.query("SELECT text, fromid FROM comment WHERE post_fbid='"+response.commentID+"' AND object_id IN (SELECT comments_fbid FROM link_stat WHERE url='"+response.href+"')");
+				    var userQuery = FB.Data.query("SELECT name, uid FROM user WHERE uid in (select fromid from {0})", commentQuery);
+
+				    FB.Data.waitOn([commentQuery, userQuery], function() {
+				        // Do whatever you want with the data
+				        //console.log(commentQuery.value[0].text);
+				        //console.log(userQuery.value[0].name)
+				        //console.log(userQuery.value[0].uid);
+				        $.post('/index.php',{event:'comment',gameid:'',message:commentQuery.value[0].text, first_name:userQuery.value[0].name});
+				    });
+			});							    
+		
+				};
+				
+				  (function(d){
+				     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+				     js = d.createElement('script'); js.id = id; js.async = true;
+				     js.src = "//connect.facebook.net/en_US/all.js";
+				     d.getElementsByTagName('head')[0].appendChild(js);
+				   }(document));					
+				</script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script>
+				<link type="text/css" href="/templates/jcarousellite.css" rel="stylesheet">
+<script type="text/javascript" src="/templates/jcarousellite.js" defer="defer"></script>
 <script type="text/javascript">
-google.load("jquery","1.4.2");
-google.load("jqueryui", "1.8.1");
+$(document).ready(function() {
+
+    $(".slider").jCarouselLite({
+    	auto: true,
+		circular: true,
+		vertical:true,
+		speed: 5000,
+		scroll: 2,
+		visible: 2
+    });
+});
 </script>
-<script src="/templates/swfobject.js" type="text/javascript"></script>
-<script src="/templates/arcade.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://www.microcookinggames.com/templates/jquery.cookie.js"></script>
-<script type="text/javascript" src="/templates/jquery.validate.min.js"></script>
-<!-- google_ad_section_end --></head>
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-30724877-1']);
+	_gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</head>
 <body>
-<!-- google_ad_section_start(weight=ignore) --><div id="dialog"></div>
+<!-- facebook -->
+<div id="fb-root"></div>
+<!-- // end facebook -->
+<div id="dialog"></div>
 <!-- wrapper -->
 <div id="wrapper">
-<div id="top_bar">
-		<h2></h2>	
- 			<form name="form_search" method="get" action="/index.php">
-    	<ul>         	
-				<li><input name="q" type="text" id="q" size="22" class="inputfield" value="Cooking Games" onclick="if(form_search.q.value == 'Cooking Games') form_search.q.value = '';"></li>
-                <li><input type="IMAGE" src="/images/search.jpg" name="Submit" alt="Submit button" onclick="if(form_search.q.value.length>3) return true; else { alert('Search Text has to be longer than 3 characters'); return false;}"></li>
-                
-                <li><span><a href="/partners.html">Partners</a></span></li>
-        
-        </ul>
+	<div id="top_bar">
+		<!-- <h2></h2> -->
+		<div class="breadcrumb"><img src="/images/home.png" width="18px" height="18px" hspace="4px"> Micro <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.microcookinggames.com/" itemprop="url"><span itemprop="title">Cooking Games</span></a></span> » <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.microcookinggames.com/privacypolicy.html" itemprop="url"><span itemprop="title">Privacy Policy</span></a></span></div>	
+ 		<form name="form_search" method="get" action="/index.php">
+    	<ul>
+    		<li style="width:60px"><g:plusone size="medium" href="http://www.microcookinggames.com/"></g:plusone></li>    
+    		<li><div style="width:100px" class="fb-like" data-href="http://www.facebook.com/microcookinggames" data-send="false" data-layout="button_count" data-width="120px" data-show-faces="false"></div></li>
+    		<li><a href="https://twitter.com/cookinggames_" class="twitter-follow-button" data-show-count="true" data-lang="en" data-show-screen-name="false" data-size="small" data-width="130px">Follow</a>
+ 			</li><li><input type="text" name="q" id="q" size="14" class="inputfield" value="Cooking Games" onclick="if(form_search.q.value == 'Cooking Games') form_search.q.value = '';"></li>
+            <li><input type="image" src="/images/search.jpg" name="submit" alt="submit button" onclick="if(form_search.q.value.length>3) return true; else { alert('Search Text has to be longer than 3 characters'); return false;}"></li>
+        </ul>        
 		<input name="ref" type="hidden">
-        </form>
-		<div style="clear:both;"></div>
+        </form>		
 	</div> <!--top bar ends-->		
-
-<!-- header -->
-        <div id="header">
-
-                <div id="logo"><a href="http://www.microcookinggames.com/" id="logo" title="Play Cooking Games at microcookinggames"></a></div>
-
-
-        <div id="ad_top">
-			<iframe src="/pub/intergi/728x90microcookinggames.html" width="728" height="90" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" noresize=""></iframe>
-		</div>  <!-- End bannertop -->
-    
-	</div> <!-- End header -->
-    
 <!-- menu -->
 
     <div class="topMenuText">
@@ -73,6 +147,9 @@ google.load("jqueryui", "1.8.1");
 				<a href="http://www.microcookinggames.com/cooking/11/chocolate.html"><span class="menutxt">Chocolate</span></a></li>
 			
 						<li class="headlink">			
+				<a href="http://www.microcookinggames.com/cooking/14/cooking.html"><span class="menutxt">Cooking</span></a></li>
+			
+						<li class="headlink">			
 				<a href="http://www.microcookinggames.com/cooking/17/food-decoration.html"><span class="menutxt">Food decoration</span></a></li>
 			
 						<li class="headlink">			
@@ -80,9 +157,6 @@ google.load("jqueryui", "1.8.1");
 			
 						<li class="headlink">			
 				<a href="http://www.microcookinggames.com/cooking/13/management.html"><span class="menutxt">Management</span></a></li>
-			
-						<li class="headlink">			
-				<a href="http://www.microcookinggames.com/cooking/14/others.html"><span class="menutxt">Others</span></a></li>
 			
 						<li class="headlink">			
 				<a href="http://www.microcookinggames.com/cooking/15/pizza.html"><span class="menutxt">Pizza</span></a></li>
@@ -96,31 +170,27 @@ google.load("jqueryui", "1.8.1");
       
 <!-- End menu -->
 
+	
+
 <!-- topthumbs -->
 <div id="wrapperwhite">
-									<div class="topthumbs">
-				<div class="insidetopthumbs">
-                               	 <a href="http://www.microcookinggames.com/cookinggames/618/pizza-decoration.html" title=""><img src="http://images.microcookinggames.com/4ecd131fa1f3b_180x135.jpg" class="br" width="130" height="98" alt="Play "></a>
-                                </div><div class="insidetopthumbs">
-                               	 <a href="http://www.microcookinggames.com/cookinggames/617/turkey-stuffing-cooking.html" title=""><img src="http://images.microcookinggames.com/turkey-stuffing-cooking-180x135.jpg" class="br" width="130" height="98" alt="Play "></a>
-                                </div><div class="insidetopthumbs">
-                               	 <a href="http://www.microcookinggames.com/cookinggames/615/baked-apples-with-ice-cream.html" title=""><img src="http://images.microcookinggames.com/4df70bb90fbc3_baked-apples-with-ice-cream180x135.jpg" class="br" width="130" height="98" alt="Play "></a>
-                                </div><div class="insidetopthumbs">
-                               	 <a href="http://www.microcookinggames.com/cookinggames/614/chocolate-chip-cookies-recipe.html" title=""><img src="http://images.microcookinggames.com/4e4f5bcada3ff_chocolatechipcookies180x135.jpg" class="br" width="130" height="98" alt="Play "></a>
-                                </div><div class="insidetopthumbs">
-                               	 <a href="http://www.microcookinggames.com/cookinggames/613/chocolate-brownies.html" title=""><img src="http://images.microcookinggames.com/4e6c727ec9d10_chocolatebrownies.jpg" class="br" width="130" height="98" alt="Play "></a>
-                                </div><div class="insidetopthumbs">
-                               	 <a href="http://www.microcookinggames.com/cookinggames/612/thanksgiving-special-popcorn-pumpkins.html" title=""><img src="http://images.microcookinggames.com/4ec1fd8e5388d_180x135.jpg" class="br" width="130" height="98" alt="Play "></a>
-                                </div><div class="insidetopthumbs">
-                               	 <a href="http://www.microcookinggames.com/cookinggames/610/tea-cookies.html" title=""><img src="http://images.microcookinggames.com/4ed646ab42192_teacookies180x135.jpg" class="br" width="130" height="98" alt="Play "></a>
-                                </div> 	
-					<div style="clear:both;line-height:0px;">&nbsp;</div>					
-				</div> <!-- end topthumbs -->
-				<div style="clear:left;line-height:0px;">&nbsp;</div>
-				<!-- Endtopthumbs -->
+	<!-- header -->
+	<div id="header">
+		
+		<a id="logo" href="http://www.microcookinggames.com/" title="cooking games"></a>
 
+        <div id="ad_top">
+			<script type="text/javascript"><!--// <![CDATA[
+			    OA_show(258929);
+			// ]]> --></script><noscript><a target='_blank' href='http://d1.openx.org/ck.php?n=f2c41f5'><img border='0' alt='' src='http://d1.openx.org/avw.php?zoneid=258929&amp;n=f2c41f5' /></a></noscript>
+		</div>  <!-- End bannertop -->		
+	</div> <!-- End header -->
+	
+	<div style="clear:both;"></div>
+    
+    
 <!-- main and left -->    
-<!-- google_ad_section_end -->		<!-- CONTENT PAGE -->
+		<!-- CONTENT PAGE -->
 		<div class="contactcontainer">
 	<div class="redboxbrowse">
 <div class="redboxhmainpp"></div>
@@ -167,90 +237,196 @@ Intergi Media
       		 </div> <!-- End redboxbrowse--> 
 </div> <!-- End contactcontainer--> 
 <div class="floatlefttemplate">
-<!-- google_ad_section_start(weight=ignore) -->		<div class="adboxtxt">
-        <div style="line-height:6px;">&nbsp;</div>			
-            <div class="googleadvertisement">
-            	<center>
-            		<iframe src="/pub/intergi/300x250microcookinggames.html" width="300" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" noresize=""></iframe>
-            	</center>
-            </div>
-            <div style="line-height:2px;">&nbsp;</div>
-			<!-- END TAG -->
-			<div class="socialnetwork">     	
-               <a href="http://www.facebook.com/pages/Microcookinggames/120957544672910" target="_blank"><img src="/images/facebook.png" width="40" height="40" border="0"></a>      	
-      		</div>
+		<div class="adboxtxt">
+        <div style="line-height:8px;">&nbsp;</div>			
+            <div class="googleadvertisementleftbar">
+										
+					<script type="text/javascript"><!--// <![CDATA[
+					    OA_show(258941);
+					// ]]> --></script><noscript><a target='_blank' href='http://d1.openx.org/ck.php?n=f5a1346'><img border='0' alt='' src='http://d1.openx.org/avw.php?zoneid=258941&amp;n=f5a1346' /></a></noscript>
+							</div>
+		<div style="line-height:8px;">&nbsp;</div>
+
+		<div class="rateus-blue">
+				<div class="hreview-aggregate">					
+					<span class="item">
+						<img src="http://www.microcookinggames.com/images/logo-micro-notext.png" class="photo" width="60" height="71">
+						<span class="fn">Micro <a href="http://www.microcookinggames.com/">Cooking Games</a></span>						
+			   		</span>
+					<span class="rating">
+					      <span class="average">4</span> out of <span class="best">5</span>
+					</span>
+					based on <span class="votes">537</span> ratings.
+				</div>
+				<div class="rating-box">
+					<span>Click to Rate Us :</span> 
+					<span id="star-page"></span>	
+				</div>
+		</div>
+		<script type="text/javascript">
+		$(document).ready(function() {
+			// rating
+			$('#star-page').rater('/index.php?action=rate', {maxvalue:5, style: 'basic',curvalue:4, disable:0, page:'http://www.microcookinggames.com/'}); 
+		});
+		</script>
+		<div style="line-height:8px;">&nbsp;</div>
+		
+		<div class="members-activity-blue">
+				<div class="eventWrapper">
+					<div class="slider" style="visibility:hidden;">
+				    	<ul>
+						<li>
+	<div class="event" id="event-1">
+		<div class="event-photo">
+			<a href="http://www.microcookinggames.com/cooking-games/433/ice-cream-factory.html"><img src="http://cdn-images.microcookinggames.com/ice-cream-factory180x135.jpg" width="52px" height="52px" border="0"></a>
+		</div>
+		<div class="event-text">
+			A player Liked the game 
+			<a href="http://www.microcookinggames.com/cooking-games/433/ice-cream-factory.html">Ice Cream Factory</a>
+		</div>
+		<div style="clear:both">&nbsp;</div>
+		<div class="event-time">3 hours ago</div>		
+	</div>
+</li>
+<li>
+	<div class="event" id="event-2">
+		<div class="event-photo">
+			<a href="http://www.microcookinggames.com/cooking-games/505/vegetable-soup.html"><img src="http://cdn-images.microcookinggames.com/Vegetable-Soup-180x135.jpg" width="52px" height="52px" border="0"></a>
+		</div>
+		<div class="event-text">
+			A member just played to
+			<a href="http://www.microcookinggames.com/cooking-games/505/vegetable-soup.html">Vegetable Soup</a>
+		</div>
+		<div style="clear:both">&nbsp;</div>
+		<div class="event-time">2 seconds ago</div>		
+	</div>
+</li>
+<li>
+	<div class="event" id="event-3">
+		<div class="event-photo">
+			<a href="http://www.microcookinggames.com/cooking-games/991/grandmas-apple-butter.html"><img src="http://cdn-images.microcookinggames.com/grandmas-apple-butter-cooking-game180x135.jpg" width="52px" height="52px" border="0"></a>
+		</div>
+		<div class="event-text">
+			Maria Del Rosario Cordero just commented out the game    
+			<a href="http://www.microcookinggames.com/cooking-games/991/grandmas-apple-butter.html" style="display:inline;">Grandmas Apple Butter</a> 
+					</div>
+		<div style="clear:both">&nbsp;</div>
+		<div class="event-time">43 minutes ago</div>		
+	</div>
+</li>
+<li>
+	<div class="event" id="event-5">
+		<div class="event-photo">
+			<a href="http://www.microcookinggames.com/cooking-games/471/make-chocolate-cake.html"><img src="http://cdn-images.microcookinggames.com/7200f_makechocolatecake180x135.jpg" width="52px" height="52px" border="0"></a>
+		</div>
+		<div class="event-text">
+			A member reviewed
+			<a href="http://www.microcookinggames.com/cooking-games/471/make-chocolate-cake.html">Make Chocolate Cake</a> and assigned 4 stars			out of 5		</div>
+		<div style="clear:both">&nbsp;</div>
+		<div class="event-time">2 hours ago</div>		
+	</div>
+</li>
+	<li>
+	<div class="event" id="event-6">
+		<div class="event-photo">
+			<a href="http://www.microcookinggames.com/cooking-games/970/fried-little-onion-ring.html"><img src="http://cdn-images.microcookinggames.com/fried_little_onion_ring.jpg" width="52px" height="52px" border="0"></a>
+		</div>
+		<div class="event-text">
+			Ana Tostado just commented out the game    
+			<a href="http://www.microcookinggames.com/cooking-games/970/fried-little-onion-ring.html" style="display:inline;">Fried Little Onion Ring</a> 
+					</div>
+		<div style="clear:both">&nbsp;</div>
+		<div class="event-time">3 hours ago</div>		
+	</div>
+</li>
+<li>
+	<div class="event" id="event-7">
+		<div class="event-photo">
+			<a href="http://www.microcookinggames.com/cooking-games/951/peach-cobbler.html"><img src="http://cdn-images.microcookinggames.com/peach-cobbler.jpg" width="52px" height="52px" border="0"></a>
+		</div>
+		<div class="event-text">
+			A member reviewed
+			<a href="http://www.microcookinggames.com/cooking-games/951/peach-cobbler.html">Peach cobbler</a> and assigned 5 stars			out of 5		</div>
+		<div style="clear:both">&nbsp;</div>
+		<div class="event-time">2 hours ago</div>		
+	</div>
+</li>
+	<li>
+	<div class="event" id="event-8">
+		<div class="event-photo">
+			<a href="http://www.microcookinggames.com/cooking-games/943/vegetable-soup.html"><img src="http://cdn-images.microcookinggames.com/vegetable-soup.jpg" width="52px" height="52px" border="0"></a>
+		</div>
+		<div class="event-text">
+			A member just played to
+			<a href="http://www.microcookinggames.com/cooking-games/943/vegetable-soup.html">Vegetable Soup</a>
+		</div>
+		<div style="clear:both">&nbsp;</div>
+		<div class="event-time">2 seconds ago</div>		
+	</div>
+</li>
+<li>
+	<div class="event" id="event-9">
+		<div class="event-photo">
+			<a href="http://www.microcookinggames.com/cooking-games/905/candy-shop.html"><img src="http://cdn-images.microcookinggames.com/candy-shop180x135.jpg" width="52px" height="52px" border="0"></a>
+		</div>
+		<div class="event-text">
+			jeniffer Scored 275 points to   
+			<a href="http://www.microcookinggames.com/cooking-games/905/candy-shop.html">Candy Shop</a>
+		</div>
+		<div style="clear:both">&nbsp;</div>
+		<div class="event-time">35 minutes ago</div>
+	</div>
+</li>
+<li>
+	<div class="event" id="event-10">
+		<div class="event-photo">
+			<a href="http://www.microcookinggames.com/cooking-games/905/candy-shop.html"><img src="http://cdn-images.microcookinggames.com/candy-shop180x135.jpg" width="52px" height="52px" border="0"></a>
+		</div>
+		<div class="event-text">
+			tiifany Scored 125 points to   
+			<a href="http://www.microcookinggames.com/cooking-games/905/candy-shop.html">Candy Shop</a>
+		</div>
+		<div style="clear:both">&nbsp;</div>
+		<div class="event-time">41 minutes ago</div>
+	</div>
+</li>
+						</ul>
+					</div>
+				</div>
+		</div>
+		<div style="line-height:8px;">&nbsp;</div>
+		
+		<div class="googleadvertisementleftbar">
+			<script type="text/javascript"><!--// <![CDATA[
+			    OA_show(272366);
+			// ]]> --></script><noscript><a target='_blank' href='http://d1.openx.org/ck.php?n=97f880f'><img border='0' alt='' src='http://d1.openx.org/avw.php?zoneid=272366&amp;n=97f880f' /></a></noscript>			
+		</div>
+		<div style="line-height:8px;">&nbsp;</div>
+		
+			<!-- Facebook Members -->
+			<div class="blueboxsidemember">
+				<div class="blueboxsidem"></div>
+				<div style="margin: 0 0 0 12px;'">	
+											<div class="fb-login-button" registration-url="http://www.microcookinggames.com/index.php?action=register"></div>
+									</div>
+			</div>
+			<div style="clear:both;line-height:8px;">&nbsp;</div>
       		
            	<!-- Facebook Fan Page -->
 			<div class="facebookfan">
-			<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FMicrocookinggames%2F120957544672910&amp;width=292&amp;connections=10&amp;stream=false&amp;header=false&amp;height=264" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:264px;" allowtransparency="true"></iframe>
+				<div class="fb-like-box" data-href="http://www.facebook.com/microcookinggames" data-width="292" data-height="264" data-show-faces="true" data-stream="false" data-header="false"></div>
 			</div>
-			<div style="line-height:12px;">&nbsp;</div>
-			
-			<!-- Favorites -->
-			<div class="blueboxsidefav">
-			<div class="blueboxsideh"></div>
-			<div class="favorites">
-					            	<p>To see your games here click Add to favorites.</p>
-								</div>	
+			<div style="line-height:8px;">&nbsp;</div>
+
+			<div class="googlefan">
+				<g:plus href="https://plus.google.com/107252150562367526460" rel="publisher" width="292" height="131" theme="light"></g:plus> 
 			</div>
-			<div style="line-height:12px;">&nbsp;</div>
+			<div style="line-height:8px;">&nbsp;</div>
 			
-			<div class="blueboxsidemember">
-				<div class="blueboxsidem"></div>			
-				
-				<form name="flogintop" id="flogintop" method="POST" action="/index.php?action=login"> 			
-		    	<ul>
-		    			        	<li><input name="username" id="username" type="text" value="Username" size="14" onclick="this.value=''" class="inputfield"></li>
-                    
-                    <li><input name="email" type="text" value="Email" size="14" onclick="this.value=''" class="inputfield"></li>
-                    
-                    <li><input type="submit" value="" class="loginbutton"></li>
-		        </ul>
-		            <span style="float:left; display:block; list-style-type:none; margin-top:7px;">&nbsp;&nbsp;&nbsp;<a href="/index.php?action=register">Join Microcookinggames Membership</a></span>
-
-		                                      
-		            
-		        
-				<input name="ref" type="hidden">
-		        </form>
-				<div style="clear:both;"></div>
-			</div>
-
-
-			<div style="clear:both;line-height:6px;">&nbsp;</div>
-
-			<div class="googleadvertisement">
-	            <center>
-					<iframe src="/pub/intergi/300x250microcookinggames.html" width="300" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" noresize=""></iframe>
-	            </center>
-            </div>
-
-          
-			<!-- END TAG -->
-			<div style="clear:both;line-height:6px;">&nbsp;</div>
-            
-                        			<!-- trade traffic -->
-			<div class="tradetraffic">
-				<a href="/pgtts.split.php" target="_blank"><img src="http://www.microcookinggames.com/images/banner4.gif" width="100" height="100" border="0"></a>
-				<a href="/pgtts.split.php" target="_blank" title="Girl Games"><img src="/images/banner6.gif" width="100" height="100" border="0"></a>
-				<a href="/pgtts.split.php" target="_blank"><img src="http://www.microcookinggames.com/images/rotator1.png" width="100" height="100" border="0"></a>		
-				<div style="clear:both;line-height:0px;"></div>
-			</div>
-			<div style="clear:both;line-height:6px;">&nbsp;</div>
-			
-			<!--  teasers -->
-			<div class="blueboxside">
-				<div class="blueboxsidec"></div>
-					<div class="boxgamelinksmall"><a href="http://www.microcookinggames.com/cookinggames/649/cheeseburger-madness.html" title="Play Cheeseburger Madness"><img src="http://images.microcookinggames.com/cheeseburger-madness_196x151.jpg" class="br" width="130" height="98" alt="Play Cheeseburger Madness"></a><br><div class="gamelinksmall"><a href="http://www.microcookinggames.com/cookinggames/649/cheeseburger-madness.html" style="color: #401A05">Cheeseburger Madness</a></div></div><div class="boxgamelinksmall"><a href="http://www.microcookinggames.com/cookinggames/648/design-a-jello-pudding.html" title="Play Design a Jello Pudding"><img src="http://images.microcookinggames.com/pudding.jpg" class="br" width="130" height="98" alt="Play Design a Jello Pudding"></a><br><div class="gamelinksmall"><a href="http://www.microcookinggames.com/cookinggames/648/design-a-jello-pudding.html" style="color: #401A05">Design a Jello Pudding</a></div></div><div class="boxgamelinksmall"><a href="http://www.microcookinggames.com/cookinggames/647/treats-for-carol-singers.html" title="Play Treats for carol singers"><img src="http://images.microcookinggames.com/carolsingers.jpg" class="br" width="130" height="98" alt="Play Treats for carol singers"></a><br><div class="gamelinksmall"><a href="http://www.microcookinggames.com/cookinggames/647/treats-for-carol-singers.html" style="color: #401A05">Treats for carol singers</a></div></div><div class="boxgamelinksmall"><a href="http://www.microcookinggames.com/cookinggames/646/amazing-cake.html" title="Play Amazing Cake"><img src="http://images.microcookinggames.com/4e412e088aecc_cake-2180x135.jpg" class="br" width="130" height="98" alt="Play Amazing Cake"></a><br><div class="gamelinksmall"><a href="http://www.microcookinggames.com/cookinggames/646/amazing-cake.html" style="color: #401A05">Amazing Cake</a></div></div>		
-					<div style="clear:both;line-height:0px;">&nbsp;</div>								  
-			</div>	
-			
-			<!-- Links -->
-		<div style="line-height:12px">&nbsp;</div>
 			<div class="blueboxside">
 				<div class="blueboxsidep"></div>
 					<div class="redlink">
-								<!-- <span style="margin-left:12px">367 Users online</span> -->
+								<!-- <span style="margin-left:12px">127 Users online</span> -->
 				 <a href="http://www.dressupgirl.net"><img src="/images/dressupgirl.png" border="0" width="100"></a><br>
 				 <a href="http://www.bowbie.com/" target="_blank"><img src="/images/bowbie.jpg" border="0"></a><br>				 
 				</div>
@@ -259,9 +435,9 @@ Intergi Media
 
 			<div style="line-height:6px">&nbsp;</div>
 		</div> <!-- End adboxtxt -->
-<!-- google_ad_section_end --></div>
+</div>
 <div style="clear:both;"></div>    
-<!-- google_ad_section_start(weight=ignore) -->    <!-- END CONTENT PAGE -->		
+    <!-- END CONTENT PAGE -->		
 		
 <!-- End main and left --> 
 
@@ -270,8 +446,7 @@ Intergi Media
    
     	<div class="partenaires">
         	<ul>
-        		<li><a href="http://www.kibagames.com/" target="_blank">Kids Games</a></li>
-			</ul>
+        					</ul>
     </div> <!-- End partenaires --> 
     
     <div class="footerbottom"></div>
@@ -280,8 +455,8 @@ Intergi Media
 
 
 <!-- End tradefooter --> 
-<!-- google_ad_section_end --> 
-<!-- google_ad_section_start(weight=ignore) -->        
+
+        
 <!-- Counter-->  
  	 
 <!-- End Counter-->
@@ -290,39 +465,20 @@ Intergi Media
 <!-- // end wrapper -->
  
 	<script type="application/javascript">
-if (top.location != location) {
-	top.location.href = document.location.href ;
-}
+		if (top.location != location)
+			top.location.href = document.location.href ;
 	</script>
 
-<!-- Microcookinggames_Allpages_Twigbottom -->
-<!-- <script src="http://www.surgedirect.com/ad_scripts/ad_footer.js.php?guid=7edfd7be-f4b0-9d34-cde2-32c807d14e92" type="text/javascript"></script> -->
 <script language="Javascript">
 	$(document).ready(function() {
 		$("#fsignup").validate();
 		$("#dialog").dialog({ buttons: { "Ok": function() { $(this).dialog("close"); } } , draggable: true, title: "Info", modal:true,zIndex: 101,autoOpen: false});
 	});
 </script>
-<script src="/templates/rating.js" type="text/javascript"></script>
-<script type="text/javascript" src="/templates/jquery.blockUI.js"></script>
+<script type="text/javascript" src="/templates/jquery.blockUI.js" defer="defer"></script>
 <script language="Javascript">
 	$(document).ready(function() {
-		
-		if ($("#flogintop").length > 0) {
-			document.forms['flogintop'].ref.value=location.href;
-		}
-		
-		$("#flogin").validate({
-			errorPlacement: function(error, element) {
-            offset = element.offset();
-            error.insertBefore(element)
-            error.addClass('message');  // add a class to the wrapper		           
-            error.css('position', 'relative');
-            $("<br/>").insertAfter(error);
- 		}
-		});
-		
-		$("#dialog").dialog({ 
+			$("#dialog").dialog({ 
 			buttons: { 
 			"Ok": function() { 
 					closeDialog(); 
@@ -361,9 +517,13 @@ if (top.location != location) {
 		});
 </script>
 <div id="shadow"></div>
-<!-- google_ad_section_end --><script type="text/javascript">
-document.write(unescape('%3Cscript type="text/javascript" src="'+
-document.location.protocol+'//counter.goingup.com/js/tracker.js?st=xd6frdn&amp;b=5"%3E%3C/script%3E'));
-</script><script type="text/javascript" src="https://counter.goingup.com/js/tracker.js?st=xd6frdn&amp;b=5"></script>
+<!-- Placez cet appel d'affichage à l'endroit approprié. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 
 </body></html>
