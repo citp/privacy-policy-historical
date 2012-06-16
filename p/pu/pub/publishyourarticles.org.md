@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publishyourarticles.org privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213150617id_/http%3A//www.publishyourarticles.org/our-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publishyourarticles.org privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616213739id_/http%3A//www.publishyourarticles.org/our-privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -29,6 +29,3 @@ The applicable law and exclusive jurisdiction for settling any disputes in conne
 PUBLISHYOURARTICLES will accumulate and process your personal information in the India, USA or, from time to time, in other locations at its discretion in order to provide you with competent and effective service.
 
 In order to assist in protecting the confidentiality of your personal information, PUBLISHYOURARTICLES applies security safeguards appropriate to the sensitivity of the information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, PUBLISHYOURARTICLES cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.
-
-  
-
