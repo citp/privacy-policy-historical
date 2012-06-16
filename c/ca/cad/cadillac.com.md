@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cadillac.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227235148id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadillac.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616090301id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # General Motors | Privacy Statement | GM.com
 
 **Privacy Statement for General Motors**
 
-Effective September 1, 2011
+Effective May 4, 2012
 
 For Your California Privacy Rights [](http://www.gm.com/privacy/california.jsp)[click here](https://web.archive.org/toolbar/privacyStatement.html#par_text_4).
 
@@ -212,7 +212,8 @@ A: Suppliers are companies that provide services on GM's behalf, such as mailing
 
   
 Q3: What is an example of a GM business partner?  
-A: By business partners, we mean independent companies that conduct joint marketing programs with GM. An example is HSBC USA, which administers the GM Card and GM Extended Family Card. Another example is XM Radio.
+A: By business partners, we mean independent companies that conduct joint marketing programs with GM. An example is Capital One N.A. which issues the GM Card, GM Flexible Earnings Card, and GM Extended Family Card. Another example is SiriusXM.  
+
 
   
 Q4: What do you mean when you say "independent use" or that you will ask for my permission before sharing my information?  
