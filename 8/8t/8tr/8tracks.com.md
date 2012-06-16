@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the 8tracks.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007125736id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8tracks.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616094320id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | 8tracks
 
 **Last Revised: May 13, 2010**  
 
 
-This website – [http://8tracks.com](http://8tracks.com/) – (the “Website”) is owned and operated by 8tracks, Inc. (“ **8tracks** ” or “ **We** ”). We understand you value your privacy. At 8tracks, we want to make your experience online satisfying and safe. This statement governs information you provide to us or we learn from your use of this Website and tells you how we may collect, use and, in some instances, share this information.   
+This website – [http://8tracks.com](http://8tracks.com/) – (the "Website") is owned and operated by 8tracks, Inc. (" **8tracks** " or " **We** "). We understand you value your privacy. At 8tracks, we want to make your experience online satisfying and safe. This statement governs information you provide to us or we learn from your use of this Website and tells you how we may collect, use and, in some instances, share this information.   
 
 
 _The Information 8tracks Collects_   
