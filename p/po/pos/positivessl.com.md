@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the positivessl.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016154342id_/https%3A//www.comodo.com/repository/privacy_agreement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positivessl.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616234830id_/https%3A//www.comodo.com/repository/privacy_agreement.html) for the most accurate reproduction.*
 
 # Comodo Privacy Policy Statement
 
