@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cramit.in privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101133732id_/http%3A//cramit.in/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cramit.in privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616043605id_/http%3A//cramit.in/privacy.htm) for the most accurate reproduction.*
 
 # PLC Resource 2-201-7192
 
