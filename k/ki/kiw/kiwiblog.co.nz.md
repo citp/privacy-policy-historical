@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwiblog.co.nz privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208154319id_/http%3A//www.kiwiblog.co.nz/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwiblog.co.nz privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616141534id_/http%3A//www.kiwiblog.co.nz/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kiwiblog
 
