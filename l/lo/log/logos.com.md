@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logos.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212756id_/http%3A//www.logos.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logos.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616033758id_/http%3A//www.logos.com/about/privacy) for the most accurate reproduction.*
 
 # Logos Privacy Statement - Logos Bible Software
 
@@ -48,4 +48,4 @@ You can disable statistics reporting through the program settings tool in Logos 
 
 From time-to-time we may partner with third party companies to provide essential services for users of our websites. These companies may use information (not including your name, addresses, email addresses, telephone numbers, or billing information) about your visits to this and other Web sites in order to provide you with a more customized user experience. If you would like more information about this practice and to know your choices about not having this information used by these companies please see the links below.
 
-Last Updated: 9/14/2011
+Last Updated: 4/27/2012
