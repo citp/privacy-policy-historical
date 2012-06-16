@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weartv.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218025142id_/http%3A//www.weartv.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weartv.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616134337id_/http%3A//weartv.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WEAR ABC 3 :: Privacy Policy
 
@@ -29,13 +29,3 @@ All personal information collected by this Website may be disclosed as required 
 **Linked Sites**
 
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites.
-
-## Forecast
-
-**Saturday Night** :  Clear and colder.  Lows in the 30s.
-
- **Sunday** :  Sunny and cool.  Highs near 60.
-
-[](http://www.weartv.com/newsroom/wx/)
-
-IE6 Float Fix
