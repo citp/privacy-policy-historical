@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayperv.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115205742id_/http%3A//www.gayperv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayperv.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616064712id_/http%3A//www.gayperv.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy at Free Gay Tube
 
