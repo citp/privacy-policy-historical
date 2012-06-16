@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sportsbetting.ag privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228083446id_/http%3A//www.sportsbetting.ag/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbetting.ag privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616135533id_/http%3A//www.sportsbetting.ag/privacy.html) for the most accurate reproduction.*
 
-# Privacy—Online Sports Betting, Online Sportsbook, Racebook Betting, Casino & Poker
+# Privacy at SportsBetting.ag
 
-This privacy statement discloses the privacy practices of Interactive Systems Inc d/b/a Sportsbetting.
+This privacy statement discloses the privacy practices of Interactive Systems Inc d/b/a SportsBetting.
 
-Sportsbetting would like to build your trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy we have agreed to notify you of the following.
+SportsBetting would like to build your trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy we have agreed to notify you of the following.
 
 If you feel that we are not abiding by our posted privacy policy, you should contact us by filling out [this form](https://web.archive.org/help/forms/comments.html).
 
