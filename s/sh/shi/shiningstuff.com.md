@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shiningstuff.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225054252id_/http%3A//www.shiningstuff.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiningstuff.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616174040id_/http%3A//www.shiningstuff.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Free Classified Ads - Find or Post Classified Ads Without Registration
+# Privacy Policy | Free Classified Ads Post Free Classified Ads Mobiles Jobs Business Online Jobs
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our Privacy Policy. If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.shiningstuff.com/contact.htm "Contact Us") by [clicking here](http://www.shiningstuff.com/contact.htm "Contact Us").
 
