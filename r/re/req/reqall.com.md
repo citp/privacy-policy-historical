@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reqall.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124075527id_/http%3A//www.reqall.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reqall.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616170958id_/http%3A//www.reqall.com/about/privacy) for the most accurate reproduction.*
 
 # reQall: Privacy Policy
 
