@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targetmarketingmag.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216221504id_/http%3A//www.napco.com/docs/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetmarketingmag.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616020949id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy : NAPCO
 
@@ -30,9 +30,9 @@ Persons who supply us with their telephone numbers may receive telephone contact
 
 We collect the mobile phone numbers of those who voluntarily provide them to us. Although any mobile program is complimentary and requires no purchase or fee for participation, standard messaging and data fees may apply. Check your mobile plan for more details.
 
-Questions & comments about this Web site? E-mail: ryoegel@napco.com.
+Questions & comments about this Web site? E-mail: webmaster@napco.com.
 
-  * _Updated: October 15, 2010_  
+  *  _Updated: October 15, 2010_  
 Added information regarding publication websites using third-party cookies and web beacons to collect information.
 
 
