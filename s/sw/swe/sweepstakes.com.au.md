@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sweepstakes.com.au privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222192600id_/http%3A//www.readersdigest.com.au/readers-digest-privacy-policy-anz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepstakes.com.au privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617004249id_/http%3A//www.readersdigest.com.au/readers-digest-privacy-policy-anz) for the most accurate reproduction.*
 
-# Reader's Digest Privacy Policy
+# Reader's Digest Privacy Policy | Reader's Digest
 
 **General statement**  
 Many Internet users are unaware of how easy it is to give away information about themselves when they navigate the web. We respect and protect the privacy of our users. Reader’s Digest (RD) wishes the users of its online presence to know that it seeks to comply with all elements of the Privacy Act 1988.
