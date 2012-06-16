@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forward.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218084922id_/http%3A//www.forward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forward.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616221905id_/http%3A//forward.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Forward.com
 
