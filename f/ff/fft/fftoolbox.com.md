@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fftoolbox.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123123119id_/http%3A//www.fftoolbox.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fftoolbox.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616152238id_/http%3A//www.fftoolbox.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # FFToolbox: Privacy Policy
 
