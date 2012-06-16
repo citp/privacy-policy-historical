@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shopzilla.co.uk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124022420id_/http%3A//about.shopzilla.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopzilla.co.uk privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616185956id_/http%3A//about.shopzilla.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Shopzilla UK
 
 ### Privacy Policy
 
-**Effective Date & Last Modified 28 February 2011**
+**Effective Date & Last Modified 28 February 2012**
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR WEBSITES OR SERVICES. BY ACCESSING OR USING OUR WEBSITE OR OUR SERVICES (OTHER THAN TO READ THIS PRIVACY POLICY FOR THE FIRST TIME), YOU AGREE TO THIS PRIVACY POLICY.
 
@@ -99,8 +99,6 @@ We work to protect the security of your information during transmission by using
 (b) What Choices Do I Have (Opt-Out)? You have many choices regarding how we use information about you, including: (1) To stop our emails, [click here](http://about.shopzilla.co.uk/contact-us/click-here); (2) To opt-out of third party advertising, [click here](http://www.networkadvertising.org/managing/opt_out.asp); (3) To stop the sharing of PII with our participating merchants, [click here](http://about.shopzilla.co.uk/contact-us/click-here); and (4) as discussed above, the choices we offer you anytime you submit information through our Sites or Services.
 
 (c) You May Contact Us With Questions: If you have any questions or concerns about privacy at Shopzilla, please contact us by [clicking here](http://about.shopzilla.co.uk/contact-us/click-here).
-
-As part of our ongoing commitment to your privacy and security, we are proud to be a licensee of the TRUSTe Privacy Program. If you have an inquiry regarding privacy that you feel has not been satisfactorily addressed, you may then contact TRUSTe who will serve as a liaison to resolve your concerns. To find out more about TRUSTe, [click here](http://www.truste.com/about_TRUSTe/index.html).
 
 ## VII. CHILDREN
 
