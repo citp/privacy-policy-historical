@@ -1,33 +1,43 @@
-> *The following text is extracted and transformed from the invitationbox.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126052618id_/http%3A//www.invitationbox.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationbox.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616154556id_/http%3A//www.invitationbox.com/privacypolicy1.html) for the most accurate reproduction.*
 
-# Privacy Policy|InvitationBox.com
+# Privacy Policy - Invitation Box
 
-Thank you for shopping with us at InvitationBox.com. We have ensured the privacy and security of your transactions with us. Your credit card information and other data given during the order process will be guarded with the highest levels of security and confidentiality. We believe the following info will address this as well as other privacy issues.
+Last Updated: _May 9, 2012_
 
-Is my credit card secure?
+This web site is maintained by CafePress Inc., doing business as InvitationBox.com ("InvitationBox"). Here at InvitationBox, we recognize the importance of privacy to our users. We understand that users of our website (the "Website") are concerned about the personal information ("Personal Information") they provide us, and how we treat that information. We've developed this Privacy Policy to assure you that we take seriously our responsibility to protect customer informatio-n, and to use it only in ways that are consistent with your wishes. If you have any questions or concerns regarding this Privacy Policy, please email [privacy@invitationbox.com](mailto:privacy@invitationbox.com).
 
-Your credit card transactions are secure. All on-line orders are encrypted and sent through our secure server, using SSL technology to prevent information from being intercepted.
+We may update the Privacy Policy from time to time, so please check in occasionally. We will notify you of any material changes to this Privacy Policy by prominently posting a notice on our Website.   
 
-Confidential information such as your credit card number will be used only to fulfill your order. To protect your privacy, we will ask you to enter your credit card number and expiration date each time you place an order with us. This way, even if someone else accesses the account information stored on your computer, they won't be able to use your credit card.
 
-What about my personal information? 
+**OUR POLICY**  
+We do not collect Personal Information from individuals unless they provide it to us voluntarily and knowingly at InvitationBox. If you are just browsing InvitationBox and learning about our products, we invite you to do so. As a casual, unregistered visitor to our site, we'll recognize your home server (e.g., that your web access is through AOL.com), but not your e-mail address or any other personal or system information.  
 
-When you place an order, fill out a survey or sign up for information, we ask for your name, address, telephone number, e-mail address and so forth.
 
-Your name and address information is used solely for verifying your identity and for processing your order. We do not share, rent or barter any personal information. We will not disclose any personal information unless required by law to do so.
+We sell all of our Products through the mail, so if you order our products it will be necessary for you to provide Personal Information. This will include your name, address, phone number and, if you place an order online, credit card information. Any information you provide is downloaded off of the web server to a secure system and is maintained there.  
 
-What about E-mail? 
 
-Information contained within general email inquiries sent to customerservice@invitationbox.com is used solely for the purpose of responding to your inquiry. Your request for a product may be entered into a general database to help us track requests from customers. Your identity is not recorded in this database.
+**OUR CUSTOMER LIST**  
+When you purchase items from our online catalog, you can opt to have your name added to our Customer List. We will not share your email address with any third parties at any time. If you prefer not to receive mailings from us, please advise us by using the mail, phone or e-mail address provided above. Please include your name and address if you are contacting us by mail or e-mail. We will ensure that your name is removed from the list.  
 
-We will send you information by e-mail, if you have requested it or are a member of InvitationBox.com's E-mail Exclusives. We will always give you the opportunity to be removed from our e-mail mailing list.
 
-Do you use Cookies? 
+**CONTACTS FROM US**  
+We maintain a number of e-mail mailboxes in an effort to support our online customers as effectively as we do on the phone or through the mail. We read every e-mail that we receive and do our best to respond within 48 hours, if a response is required. We save a very limited number of e-mail messages, but only until the issue is resolved. We do not record email addresses, unless you have voluntarily provided it to us in your online customer service registration.  
 
-Yahoo! uses cookies and we also reserve the right to use cookies to track visits, keep your account information up-to-date, and estimate audience size. The information collected by cookies helps us to better understand our market and provide the best service to our customers.
 
- _Please note: This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
+If you did provide us with your e-mail address, we may notify you from time to time about InvitationBox products or services that may be of interest to you. If you prefer not to receive these e-mail notifications, please follow the "Opt-out" instructions included with the e-mail or contact us at [privacy@invitationbox.com](mailto:privacy@invitationbox.com).  
 
-Third-Party Web Beacons: 
 
-We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
+**COOKIES**  
+Like most companies, we use "cookies" (small pieces of information stored on your computer) on certain parts of our web site. The cookie allows us to manage your session. This is necessary to ensure that we keep your order together while you browse through the catalog and select items for purchase. We do not use the cookie to collect any type of personal information, and the cookie doesn't extract any information from your computer.  
+
+
+**SECURITY ONLINE**  
+Most of our forms, especially when ordering a product or using online customer service, use secure pages to insure that the information sent between your computer and our system is secure. This is especially true if we are asking you for payment information.  
+
+
+We use the Secure Sockets Layer (SSL) encryption method on all secure submissions. This method is generally accepted to insure that the transmission of Personal Information, such as account numbers and credit card information is secure. The most common browsers, Firefox and Internet Explorer, make it very obvious when information is being passed in a secure manner by showing either a completed key or a closed lock on the screen.  
+
+
+**Contacting InvitationBox**  
+You can reach us 24 hours a day, 7 days a week by sending email to [customerservice@invitationbox.com](mailto:customerservice@invitationbox.com). If you have any questions about our Privacy Policy, you can contact us at: InvitationBox, 225 James Jackson Avenue, Cary, North Carolina 27513. We will be happy to answer your questions or hear your concerns.  
+
