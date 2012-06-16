@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219234317id_/http%3A//www.fredericks.com/Privacy/Privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616060304id_/http%3A//www.fredericks.com/Privacy/Privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **_Privacy and Security_**
 
-## Fredericks of Hollywood Privacy Policy
+## Frederick's of Hollywood Privacy Policy
 
-We are committed to protecting your privacy and maintaining a safe, quality online experience for our customers.  This privacy policy applies to websites sponsored by Frederick’s of Hollywood and our affiliates, including [_www.fredericks.com_](http://www.fredericks.com/) and [_www.ohyesido.com_](http://www.ohyesido.com/).  Please read the complete privacy policy below, as well as our [_Terms and Conditions of Use_](http://www.fredericks.com/customer-service/terms-of-use/Terms_of_Use,default,pg.html), and contact us if you have any questions ( _see Contact Us_ below).
+We are committed to protecting your privacy and maintaining a safe, quality online experience for our customers.  This privacy policy applies to websites sponsored by Frederick’s of Hollywood and our affiliates, including [_www.fredericks.com_](http://www.fredericks.com/) and [_www.ohyesido.com_](http://www.ohyesido.com/).  Please read the complete privacy policy below, as well as our [_Terms and Conditions of Use_](http://www.fredericks.com/customer-service/terms-of-use/Terms_of_Use,default,pg.html), and contact us if you have any questions ( _see Contact Us below_).
 
 **Information We Collect**
 
@@ -45,8 +45,14 @@ You always have the right to "opt out" of receiving communications from us ( _se
 We may share your personal information in the following ways:
 
   * We contract with other companies to provide certain services, such as shipping, name and address verification, email distribution, market research and promotions management.  We provide these companies with only that information needed in order for them to render the services we request and they are not entitled to use it for their own marketing or any other purpose.
+  
+
   *  From time to time, we make our mailing list (names and postal addresses only) and general shopping activity available to reputable companies whose products we believe will be of interest to you.  We do not share email addresses for this purpose.  If you do not want us to share your information, please contact us ( _see Contact Us below_).
+  
+
   * On rare occasion, we may disclose information upon law enforcement’s request, in response to a court order, or when required by law.  We also may share information to assist in fraud investigations or as necessary to protect our rights and interests.
+  
+
   * In the event of a sale or merger of Frederick’s of Hollywood, Inc. or any of its affiliated companies, information we have collected as described in this policy may be among the transferred business assets.
 
 
@@ -82,8 +88,11 @@ We use a variety of technologies and processes to protect customer data.  We us
 **Links to Other Websites**
 
 Our websites may contain links to websites owned by third parties.  Please review the privacy policy of any site you access through our websites.  
-Children's Privacy  
-Our websites are not intended for use by children and we do not knowingly collect personal information from children under the age of 13. The child’s parent or guardian should contact us if we have inadvertently collected information about that child so that we may delete such information from our files (see Contact Us below).
+
+
+**Children's Privacy**
+
+Our websites are not intended for use by children and we do not knowingly collect personal information from children under the age of 13. The child’s parent or guardian should contact us if we have inadvertently collected information about that child so that we may delete such information from our files ( _see Contact Us below_). 
 
 **Policy Changes**
 
