@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095143id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616204955id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement: Customer Service: Your Electronic Warehouse
 
