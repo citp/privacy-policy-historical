@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218232910id_/http%3A//www.sandisk.com/about-sandisk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616053213id_/http%3A//www.sandisk.com/about-sandisk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **To create a positive consumer experience and to protect the SanDisk brand by respecting and honoring an individual's privacy when he/she entrusts data to SanDisk.**
+
+**Last updated June 24, 2010.**
 
 SanDisk respects your privacy, and is committed to providing you with a positive experience on our website and in your other interactions with us.  This privacy policy explains our practices for handling personal information on- and off-line.  If you provide us with personal information, we will treat it as outlined in this policy.
 
@@ -164,8 +166,6 @@ SanDisk Corporation
 Milpitas, CA 95035 USA  
 Attention: Privacy Officer  
 1 (408) 801-1000  
-  
-  
 United States, Canada:[privacy@sandisk.com](mailto:privacy@sandisk.com)  
 Latin America:[privacy-la@sandisk.com](mailto:privacy-la@sandisk.com)  
 Europe, Middle East, Africa:[privacy-EMEA@sandisk.com](mailto:privacy-EMEA@sandisk.com)  
