@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blorge.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223091522id_/http%3A//tech.blorge.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blorge.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616024913id_/http%3A//tech.blorge.com/privacy-statement) for the most accurate reproduction.*
 
 # TECH.BLORGE.com - Privacy statement
 
@@ -34,7 +34,7 @@ This means that once information is published on BLORGE.com, we have no control 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html).
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20statement%20-%20http%3A%2F%2Ftech.blorge.com%2Fprivacy-statement%2F%20\(via%20@sociablesite\) "Twitter")
+  * [](http://twitter.com/intent/tweet?text=Privacy%20statement%20-%20http%3A%2F%2Ftech.blorge.com%2Fprivacy-statement%2F%20\(via%20@sociablesite\)%20/blogplay.com/%20blogplay.com "Twitter")
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Ftech.blorge.com%2Fprivacy-statement%2F&t=Privacy%20statement "Facebook")
   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20statement&body=http%3A%2F%2Ftech.blorge.com%2Fprivacy-statement%2F&ui=2&tf=1&shva=1 "email")
   *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Ftech.blorge.com%2Fprivacy-statement%2F&title=Privacy%20statement "StumbleUpon")
