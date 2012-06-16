@@ -1,37 +1,29 @@
-> *The following text is extracted and transformed from the siberianhealth.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053518id_/http%3A//registerfly.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siberianhealth.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616030838id_/http%3A//siberianhealth.com/index.php%3Froute%3Dinformation/information%26information_id%3D3%26cat_off%3D1) for the most accurate reproduction.*
 
-# RegisterFly.com | PRIVACY POLICY
+# Privacy Policy
 
-  
-|  |    
-|  |  |  |   
----|---|---|---  
-| 
+Privacy Policy
 
-**This statement discloses the privacy practices for the entire website.**
+**Thank you for visiting SIBERIAN HEALTH INTERNATIONAL at www.siberianhealth.com.**
 
-  * Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won’t knowingly allow anyone under 13 to register with our site or to access those features that require registration.
+This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
+**Collection of Information** **  
+** We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
 
-  * Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed.
+**Cookie/Tracking Technology** **  
+** The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
 
+**Distribution of Information**  
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
-  * The information gathered by RegisterFly.com (1) information supplied by visitors to the site and (2) Information relative to registering domain names, and using Registerfly.com products and services.
+**Commitment to Data Security**  
+Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
 
+**Privacy Contact Information**  
+If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-  * 1\. To help us tailor our site to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a small entry in text file, called a cookie, on your hard drive. The cookie contains an ID number that allows us to track the pages you've visited. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our site by making it more responsive to the needs of our users. We also use cookies to make sure you don't see that same ad repeatedly when you visit our site. Cookies don't reveal personal information; the only personal information a cookie can contain is information you supply yourself. Cookies can't read data off your hard disk.
+By e-mail: info@siberianhealthusa.com  
+By Phone: (646) 755-3800
 
-
-  * Our webserver automatically collects some information about you when you request pages from our server, including your IP address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. This information does not identify you personally.
-
-
-  * Any information gathered from this site is held in the strictest confidence and are not shared with ANY outside parties or interest. **
-
-   **By using this service, you accept the terms of our Agreement.**
-
-**
- ****
-****
-
-|  |    
-|  |  | 
+We reserve the right to make changes to this policy. Any changes to this policy will be posted.
