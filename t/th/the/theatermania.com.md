@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the theatermania.com privacy policy that was archived on 2002-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020806193716id_/http%3A//www.theatermania.com/extras/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatermania.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616051441id_/http%3A//www.theatermania.com/extra/privacy-policy) for the most accurate reproduction.*
 
-# TheaterMania - Privacy Policy
+# Privacy Policy
 
-|  We encourage you to review our Privacy Policy to understand how your personal information may or may not be used as you take advantage of the many Theatermania.com offerings and services. This Privacy Policy applies differently to individuals under the age of thirteen. We ask that parents and guardians take some time to review this policy as it may apply to their children, as set forth under the heading "Maintaining the Privacy of Children." By using this web site, you are agreeing to the policies set forth below and the current terms and conditions of use ("Terms and Conditions"), set forth at: http://www.theatermania.com/extras/disclaimer.cfm. Theatermania.com reserves the right to modify, amend or restate this Privacy Policy from time to time with or without prior notice. Your use of this web site after the posting of modifications to this Privacy Policy will constitute your acceptance of the Privacy Policy as modified. You may direct any questions concerning this Privacy Policy to: lb@theatermania.com. 
+We encourage you to review our Privacy Policy to understand how your personal information may or may not be used as you take advantage of the many Theatermania.com offerings and services. This Privacy Policy applies differently to individuals under the age of thirteen. We ask that parents and guardians take some time to review this policy as it may apply to their children, as set forth under the heading "Maintaining the Privacy of Children." By using this web site, you are agreeing to the policies set forth below and the current terms and conditions of use ("Terms and Conditions"), set forth at: [**http://www.theatermania.com/extra/disclaimer.cfm**](http://www.theatermania.com/extra/disclaimer.cfm)
+
+Theatermania.com reserves the right to modify, amend or restate this Privacy Policy from time to time with or without prior notice. Your use of this web site after the posting of modifications to this Privacy Policy will constitute your acceptance of the Privacy Policy as modified. You may direct any questions concerning this Privacy Policy to: [**info@theatermania.com**](mailto:info@theatermania.com)
 
 **What Information Do We Collect?**
 
@@ -14,7 +16,7 @@ A "cookie" is information that is transferred from a web site's server to your c
 
 **How is My Information Used?**
 
-Theatermania.com currently uses personal information only for the purposes of providing newsletter subscription services and recording sweepstakes entries and commercial transactions. In certain cases, you may provide us with credit card information in order to complete a purchase transaction or for verification purposes. We use and transmit this information only to the extent necessary to complete such transactions and only in an encrypted format, unless otherwise expressly noted. We currently do not provide your personal information to third parties. We do however reserve the right to provide e-mail addresses of our users to our advertisers, sponsors or business partners, in order to provide our users with information and promotions we believe may be of interest to them. Theatermania.com offers the opportunity to each of its registered users to be excluded from such distributions by e-mailing us at info@theatermania.com and including "Privacy" in the subject line. 
+Theatermania.com currently uses personal information only for the purposes of providing newsletter subscription services and recording sweepstakes entries and commercial transactions. In certain cases, you may provide us with credit card information in order to complete a purchase transaction or for verification purposes. We use and transmit this information only to the extent necessary to complete such transactions and only in an encrypted format, unless otherwise expressly noted. We currently do not provide your personal information to third parties. We do however reserve the right to provide e-mail addresses of our users to our advertisers, sponsors or business partners, in order to provide our users with information and promotions we believe may be of interest to them. Theatermania.com offers the opportunity to each of its registered users to be excluded from such distributions by e-mailing us at [**info@theatermania.com**](mailto:info@theatermania.com) and including "Privacy" in the subject line. 
 
 **Maintaining the Privacy of Children**
 
@@ -24,4 +26,6 @@ Theatermania.com has developed the "Kids' Mania" section of our web site to publ
 
 In general, you should always be aware when and where you provide personal information online. Postings of such information on bulletin boards or in chat rooms will make this information publicly available and may result in unsolicited communications. 
 
-| 
+By providing information about entertainment and cultural events on this site, TheaterMania.com shall not be deemed to endorse,  
+recommend, approve and/or guarantee such events, or any facts, views, advice and/or information contained therein.  
+©1999-2012 **TheaterMania.com, Inc.** All Rights Reserved. [Terms of Use](https://web.archive.org/extra/terms-and-conditions "Terms of Use") & [Privacy Policy](https://web.archive.org/extra/privacy-policy "Privacy Policy")
