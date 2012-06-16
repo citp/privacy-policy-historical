@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs-in-my-area.net privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121230926id_/http%3A//jobs-in-my-area.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs-in-my-area.net privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616042925id_/http%3A//www.jobs-in-my-area.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Jobs In My Area
 
