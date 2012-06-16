@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202151417id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616175422id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
 
 # Partner with Paul - Privacy Policy
 
@@ -39,7 +39,9 @@ PartnerWithPaul.com collects information from our visitors and users of our webs
 
 As a user of this website, PartnerWithPaul.com may collect your personally identifiable information when you visit our site and create a PartnerWithPaul.com account.
 
-The personally identifiable information that we collect is limited to just your name and email.
+The personally identifiable information that we collect is limited to just your name and email. Entering your phone number is optional. If you do enter your phone number, you are giving us permission to call you.
+
+In addition, you agree that registering at our web site constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR section 310 et seq. (the "ATSR"). With respect to the ATSR, and notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, Partner With Paul and affiliated entities retain the right to contact you via telemarketing in accordance with the terms of the ATSR.
 
 **_Why is information collected?_**
 
@@ -96,7 +98,7 @@ Please note however that even if you opt-out, you may still receive important an
   
 3\. Postal Mail: PartnerWithPaul.com LLC, 1675 Larimer St. Suite 640, Denver, CO 80202  
   
-4\. Telephone: (347)562-1179
+4\. Telephone: (347) 562-1179
 
 **_Can children or minors use PartnerWithPaul.com?_**
 
