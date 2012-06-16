@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sovereignman.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027230604id_/http%3A//www.intlman.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignman.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616074930id_/http%3A//www.sovereignman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sovereign Man
+# Privacy Policy
 
 Privacy Policy
 
@@ -57,22 +57,3 @@ Please note that you are responsible for updating your personal information with
 You may contact us regarding this Privacy Policy by contacting our customer service center at +852 819 25725 or by writing to Blacksmith Pte. Ltd., 20 Cecil Street #14-01, Singapore 049705.
 
 Effective as of September 15, 2010.
-
-HAVE A PLAN. INTERNATIONALIZE. 
-
-This month's Sovereign Man: Confidential is packed with even more information that you just can't find anywhere else. To learn more about SMC's RISK FREE trial, and to get immediate access to the archive, [click here to learn how to get started.](http://sovereignman.com/SMC_gse2.php?a_aid=itime2&amp;a_bid=f0cba556&amp;chan=PostFooter)
-
-* Learn how to obtain residency AND citizenship in one of the safest countries in the world through an exclusive, SMC-only program. You won't find anyone else even talking about this country, let alone a low-cost citizenship opportunity. 
-
-* Find out how to open a bank account in Hong Kong, no matter what your situation. Simon tells you how to do it without ever having to get on a plane. 
-
-* Simon neg * Did you cash-in on Tim Staermose's winning investment recommendation from last month? Find out how you can still make money on this undervalued company with very limited risk. 
-
-* Interested in storing gold overseas? Simon runs down a great offshore solution, along with specific contact details for getting set up. 
-
-* Do you know what country will be the richest nation in the world per capita in the next 10-years? Find out... and learn how you can invest today. 
-
-* You need to know about the Foreign Account Tax Compliance Act (FACTA). The new rules from this legislation affect US taxpayers and foreigners alike. Learn first hand in an exclusive interview with an international tax attorney. 
-
-[  
-To learn more about SMC and maximizing your international opportunities, click here.](http://sovereignman.com/SMC_gse2.php?a_aid=itime2&amp;a_bid=f0cba556&amp;chan=PostFooter)
