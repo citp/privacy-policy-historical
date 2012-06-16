@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123114901id_/http%3A//www.hardrock.com/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616173616id_/http%3A//www.hardrock.com/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Hard Rock Corporate | Privacy Policy
 
@@ -7,7 +7,7 @@ Last updated 11/01/05
 
 We respect the privacy of every individual who visits this site
 
-TThis Privacy Policy explains how www.HardRock.com ("Website") collects and otherwise processes personally identifiable information ("Personal Information").
+This Privacy Policy explains how www.HardRock.com ("Website") collects and otherwise processes personally identifiable information ("Personal Information").
 
 You may choose to submit Personal Information (such as your name, address, e-mail address and telephone number) to us at several different points on our website. We collect and use Personal Information for business purposes only. We will not share this information in ways different from what is disclosed in this statement. If you have any questions about this Privacy Policy or the Website, please contact us at [customer_care@HardRock.com](mailto:customer_care@HardRock.com).
 
@@ -17,7 +17,7 @@ The Website is owned and operated by Hard Rock Cafe International (USA), Inc. ("
 
 FRANCHISEE WEBSITES
 
-IMany Hard Rock establishments are owned and operated by franchisees, who are independent businesspersons. Some franchisees also operate websites. Many, but not necessarily all, franchisee sites follow this privacy policy. Therefore, please review each site's privacy policy. 
+Many Hard Rock establishments are owned and operated by franchisees, who are independent businesspersons. Some franchisees also operate websites. Many, but not necessarily all, franchisee sites follow this privacy policy. Therefore, please review each site's privacy policy. 
 
 Links
 
@@ -89,7 +89,7 @@ HOW TO CONTACT US
 
 You may address all communications to Privacy Policy, Hard Rock Café International (USA), Inc., 6100 Old Park Lane, Orlando, FL. 32835, or e-mail [customer_care@hardrock.com](mailto:customer_care@hardrock.com). Please include your name, address and phone number or e-mail in all communications and state clearly the nature of your request.
 
-HOW TO CONTACT US
+ENFORCEMENT
 
 This website is compliant with the U.S. Commerce Department Safe Harbor provisions. In order to demonstrate that our privacy policy accords with the above privacy instrument, we are voluntarily committed to a Self Assessment procedure. If you feel that Hard Rock has not complied with the policies outlined in this privacy policy please contact us at [customer_care@hardrock.com](mailto:customer_care@hardrock.com), attention: Privacy Compliance. The Company will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the principles contained in this Policy. For complaints that cannot be resolved between the Company and the complainant, the Company has agreed to participate in the dispute resolution procedures of the American Arbitration Association ("AAA") in accordance with its applicable commercial rules as well as the Safe Harbor Principles. 
 
