@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoffmanager.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115093929id_/http%3A//www.timeoffmanager.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoffmanager.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616181646id_/http%3A//www.timeoffmanager.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Time-Off Manager - Terms of Service
 
@@ -30,21 +30,21 @@ We use a Secure Server for collecting personal and credit card information. The 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We use cookies to save your companyID, username and password so that you do not have to re-enter it each time that you visit our Website (if you choose). 
 
 **Will we disclose the information we collect to outside parties?**  
-We do not sell, trade, or rent your personal information to others. This does not include trusted third parties who assist us in operating our website or servicing you, so long as those parties agree to keep this information confidential. We may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of TimeOffManager, our users, or others. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+We do not sell, trade, or rent your personal information to others. This does not include trusted third parties who assist us in operating our website or servicing you, so long as those parties agree to keep this information confidential. We may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of TimeOffManager, our users, or others. 
 
 **Third party links**  
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibilities for the content and activities of these linked sites. We seek to protect the integrity of our site and welcome any feedback about these websites. 
 
 **Terms and Conditions**  
-You may also visit our [Terms of Service](https://web.archive.org/web/20111115093929id_/http%3A//www.timeoffmanager.com/terms-service.aspx) page to establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+You may also visit our [Terms of Service](https://web.archive.org/web/20120616181646id_/http%3A//www.timeoffmanager.com/terms-service.aspx) page to establishing the use, disclaimers, and limitations of liability governing the use of our website. 
 
 **Your Consent**  
-By using our website, you consent to our [Privacy Policy](https://web.archive.org/web/20111115093929id_/http%3A//www.timeoffmanager.com/privacy-policy.aspx). 
+By using our website, you consent to our [Privacy Policy](https://web.archive.org/web/20120616181646id_/http%3A//www.timeoffmanager.com/privacy-policy.aspx). 
 
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-This policy was last modified on 07/09/2009 
+This policy was last modified on 12/01/2011 
 
 **Questions and Feedback**  
 If you have any questions or feedback related to our Privacy Policy, please email us at [info@timeoffmanager.com](mailto:info@timeoffmanager.com). 
