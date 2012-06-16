@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the schuh.ie privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217215413id_/http%3A//ie.schuh.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schuh.ie privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616140307id_/http%3A//ie.schuh.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Schuh
+
+To bring us in line with new EU rules regarding cookie usage on websites, we’re working on improving our Privacy and Cookie Policy to provide you with clear information on what cookies are, which cookies we use and why, and how you can control cookie usage during your visits to Schuh. Full information on Cookies can be found below in the ‘Cookies’ section.
 
 #### Data Protection
 
@@ -53,6 +55,10 @@ There are three different categories these cookies are split into:
   * Helpful, non intrusive cookies – these help improve your experience on the site, for example by recognising your location therefore displaying appropriate delivery options in a banner, and reminding you of your recently viewed items.
   * Third Party Cookies – to help us record customer experience and to allow us to test new services, to help us improve the customer journey on the website.
 
+
+
+We have detailed each of the cookies we use, the reason and their duration in the three tables below – split into the groups detailed above.
+
 Essential to site function  
 ---  
 Cookie Name | Function | Duration  
@@ -85,13 +91,34 @@ Third party cookies
 ---  
 Cookie Name | Function | Duration  
 Google | Google Analytics - site analytics to gather user information to improve the customer experience | Either closes on browser close, or varies between 30 mins and 1 year  
+Google | Google Website Optimiser - testing content to give the customer the best experience | 2 years  
 Adobe | Test & Target – testing content to give the customer the best experience | 20 minutes  
 Adobe | SiteCatalyst – site analytics to gather user information to improve the customer experience | Browser close  
 Criteo | Displays Schuh products similar to those customers have recently viewed on the Schuh site in ad banners on participating websites. | Either closes on browser close, or varies between 1 month and 20 years  
   
-We have detailed each of the cookies we use, the reason and their duration in the three tables below – split into the groups detailed above.
+You can choose not to allow cookies in your browser settings, but to be able to purchase from our site you will need to ensure your cookies are enabled. More information on cookies, their use and how to accept or reject them can be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/) or you can [email us](mailto:help@schuh.co.uk?subject=I%27d%20like%20more%20info%20on%20cookies) your questions and we'll be happy to help!
 
-You can choose not to allow cookies in your browser settings, but to be able to purchase from our site you will need to ensure your cookies are enabled. More information on cookies, their use and how to accept or reject them can be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+#### Live help system provided by Vee24
+
+#### Live help video & chat engagement system – what does it do?
+
+Vee24 is a leading provider of video engagement technology that facilitates real-time sales and customer services for companies doing business on the Internet.
+
+#### What information do we collect from you whilst using the Vee24 system? 
+
+During the engagement, you enter into a live question and answer session with a schuh operator either by text chat or live video call. We maintain dialogue transcripts of these chats. After the chat, we will ask you to fill out an exit survey in order to obtain valuable feedback about the levels of our service. Filling out the exit survey is completely voluntary. Moreover, all personal data is only collected if you voluntarily supply it, e.g. when completing a contact us form. If during the live engagement you choose to enter personal or business data (email addresses, names, addresses), the disclosure of such data is done so by you on a voluntary basis. Such information is not passed to any third parties or used for any other purpose(s) than that/those requested by you. We log browser information (e.g. Internet Protocol addresses and browser types) to help diagnose problems with our server, gather broad demographic information and administer our site. By choosing to engage in a chat or video call and use the services, you consent to such logging and processing of IP address. 
+
+#### How do we use information collected from you and do we disclose such information to outside parties?
+
+We access the information we collect for certain purposes (for example, to aggregate the information, to monitor the use of the service during certain engagements and for other lawful purposes). All schuh customer information, including personally identifiable information, will not be shared with anyone. We do not sell trade or rent the personal information that our customers provide. 
+
+#### Browsing with Live Assistance 
+
+We aim to offer you the best possible help and advice in the context of your visit to our page. As part of the live engagement you have the option to choose (by pressing the appropriate buttons) different communication channels. If you have chosen an engagement via voice or video communications, a recording of that communication does not take place at any time and therefore no video or voice data is either captured or stored. You have the option at any time to terminate the conversation by pressing the appropriate button. 
+
+#### Opt-Out Policy 
+
+The Vee24 system gives users options wherever necessary and practical. Such choices include opting not to engage in video call or chat sessions. 
 
 #### Security
 
@@ -105,6 +132,6 @@ You should note that, under certain circumstances, we will not be obliged to dis
 
 #### Contact Details
 
-If you have any queries about these terms and conditions, or any other aspect of our website, or you have a complaint, you can phone us on 0845 307 2484 (local rate), or e-mail us at [help@schuh.co.uk](mailto:help@schuh.co.uk) or write to us at: Schuh Customer Service Team, 1 Neilson Square, Deans Industrial Estate, Livingston, EH54 8RQ.
+If you have any queries about these terms and conditions, or any other aspect of our website, or you have a complaint, you can phone us on 018990141 (local-rate) or 1800411084 (free phone from ROI landlines only), or e-mail us at [help@schuh.co.uk](mailto:help@schuh.co.uk) or write to us at: Schuh Customer Service Team, 1 Neilson Square, Deans Industrial Estate, Livingston, EH54 8RQ.
 
 We shall respond to any communication received by us as quickly as we can.
