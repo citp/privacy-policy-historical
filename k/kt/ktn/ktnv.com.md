@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktnv.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526130756id_/http%3A//www.journalbroadcastgroup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktnv.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616190634id_/http%3A//www.journalbroadcastgroup.com/privacy.html) for the most accurate reproduction.*
 
 # Journal Broadcast Group » Privacy Policy
 
