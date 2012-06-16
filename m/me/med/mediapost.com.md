@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008060425id_/http%3A//www.mediapost.com/index.cfm%3Ffa%3Dh.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616160702id_/http%3A//www.mediapost.com/privacy) for the most accurate reproduction.*
 
-# MediaPost - news and directories for media, marketing and online advertising professionals
+# MediaPost – News and Conferences for Media, Marketing and Online Advertising Professionals
+
+The media, marketing and advertising professionals' complete resource for industry news, events, jobs, contacts and research.
 
   
 
@@ -61,6 +63,7 @@ Shipping charges are specified at time of purchase and are the full responsiblit
 
 Domestic (USA only) shipping charges for the monthly print magazines are included as part of the subscription, all other products and services are stated at time of purchase. 
 
+  
 |  **MediaPost Communications**  
 15 East 32nd Street  
 7th floor  
@@ -88,7 +91,7 @@ Director, Online Media Sales
 [seth@mediapost.com](mailto:seth@mediapost.com)
 
 **Jon Whitfield**  
-Vice President, Event Sales  
+Director, Events Sales  
 (212) 204-2025  
 [jon@mediapost.com](mailto:jon@mediapost.com)
 
