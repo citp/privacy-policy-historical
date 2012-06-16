@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoclerks.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220135658id_/http%3A//www.seoclerks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoclerks.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616160033id_/http%3A//www.seoclerks.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEOClerks
 
@@ -8,19 +8,19 @@ This Privacy and Information Security Policy ("this Policy") discusses the perso
 
 a. The Types of Information SEOClerks Collects. We collect any information you enter on the Service or give us in any other way (such as through an email, survey, or letter). The information that we collect varies depending upon how you use our Service. Our account registration process requires that you provide us with your user name, birthday and email address, and that you create and provide us with a password. We may also request other information, such as but not limited to, your actual first and last name, gender, and zip code.
 
-b. Information in Public Areas of the Site. Please keep in mind that whenever you voluntarily provide information in public areas of the Service, such as the user profile pages or forums, that information can be viewed and possibly used by others. We therefore advise visitors not to disclose contact information, including phone number, email address, street address or instant messenger address (within these public areas) that they do not wish to share. We are not responsible for PII you choose to submit in these public areas. Also, we may highlight content you post to the public areas of the Service such as reviews or comments, such as by featuring your content on the Site's home page.
+b. Information in Public Areas of the Site. Please keep in mind that whenever you voluntarily provide information in public areas of the Service, such as the user profile pages or forums, that information can be viewed and possibly used by others. We therefore advise visitors not to disclose contact information, including phone number, email address, street address or instant messenger address (within these public areas) that they do not wish to share. We are not responsible for information you choose to submit in these public areas. Also, we may highlight content you post to the public areas of the Service such as reviews or comments, such as by featuring your content on the Site's home page.
 
 2\. AUTOMATIC INFORMATION COLLECTION.
 
 a. Cookies. Like many websites, we use "cookies." Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. We use persistent, identifying cookies to remember your information and to link your activities to you. While you can take steps to warn off, block or disable cookies, if you do, the Service may not function and appear as we have designed it. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. Our cookies do not collect PII that you provide to us during the registration process, but they do collect other information such as the following:
 
-i. the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;<br />
+i. the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
 
 ii. the date and time you access the Site and pages you visit;
 
-iii. your computer's IP address and information about its operating system, platform and the Web browser type and version you use; <br />
+iii. your computer's IP address and information about its operating system, platform and the Web browser type and version you use; 
 
-iv. demographic and other non-personally identifiable profile information about you; and<br />
+iv. demographic and other non-personally identifiable profile information about you; and
 
 v. information to combat fraud or misuse.
 
@@ -44,11 +44,11 @@ c. Business Transfer. As we develop our business, we might sell or buy businesse
 
 d. Compliance and Safety. We may release user information when we believe release is appropriate to:
 
-i. comply with applicable law, and to respond to legal process, including subpoenas, search warrants and court orders, and to respond to or otherwise address written complaints of copyright infringement;<br />
+i. comply with applicable law, and to respond to legal process, including subpoenas, search warrants and court orders, and to respond to or otherwise address written complaints of copyright infringement;
 
-ii. make disclosures under programs intended to prevent potential crimes or investigate persons;<br />
+ii. make disclosures under programs intended to prevent potential crimes or investigate persons;
 
-iii. enforce or apply agreements, including the Terms; or <br />
+iii. enforce or apply agreements, including the Terms; or 
 
 iv. protect the rights, property, or safety of SEOClerks, our users, or others, including exchanging information with other companies for fraud protection and credit risk reduction.
 
