@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolsupplyworld.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123163438id_/http%3A//www.poolsupplyworld.com/helpcenter/privacyandsecuritypolicies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolsupplyworld.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616125117id_/http%3A//www.poolsupplyworld.com/helpcenter/privacyandsecuritypolicies.htm) for the most accurate reproduction.*
 
 # Swimming Pool Supplies, Spa Supplies and Parts SuperStore - Pool Supply World
 
