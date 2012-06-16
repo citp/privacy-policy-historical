@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightglobal.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225105119id_/http%3A//www.flightglobal.com/page/terms-and-conditions/%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightglobal.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616061846id_/http%3A//www.flightglobal.com/page/terms-and-conditions/%23privacy_policy) for the most accurate reproduction.*
 
 # Flightglobal Terms and conditions
 
