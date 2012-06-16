@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imfdb.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228201347id_/http%3A//www.imfdb.org/wiki/imfdb_%3A._guns_in_movies_%3A._movie_guns_%3A._the_internet_movie_firearms_database%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imfdb.org privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616034052id_/http%3A//www.imfdb.org/wiki/imfdb_%3A._guns_in_movies_%3A._movie_guns_%3A._the_internet_movie_firearms_database%3APrivacy_policy) for the most accurate reproduction.*
 
 # Imfdb :. guns in movies :. movie guns :. the internet movie firearms database:Privacy policy - imfdb :. guns in movies :. movie guns :. the internet movie firearms database
 
