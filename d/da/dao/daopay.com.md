@@ -1,21 +1,25 @@
-> *The following text is extracted and transformed from the daopay.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124011639id_/http%3A//www.daopay.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daopay.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616144938id_/http%3A//www.daopay.com/about/privacy.php) for the most accurate reproduction.*
 
 # About Daopay « daopay.com
 
 ## About Us
 
-This is a privacy policy for DaoTec Ltd.. Our homepage on the Web is located at [ http://daopay.com](http://daopay.com/). The full text of our privacy policy is available on the Web at [ http://daopay.com/about/privacy.php](http://daopay.com/about/privacy.php) This policy does not tell users where they can go to exercise their opt-in or opt-out options. 
+This is a privacy policy for Daotec Payment GmbH. Our homepage on the Web is located at [ http://daopay.com](http://daopay.com/). The full text of our privacy policy is available on the Web at [ http://daopay.com/about/privacy.php](http://daopay.com/about/privacy.php) This policy does not tell users where they can go to exercise their opt-in or opt-out options. 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
     
     
-    DaoTec Ltd.
-    145 - 157 St. John Street
-    London, EC1V 4 PY 
-    United Kingdom
+      
+    
+    **Daotec Payment GmbH**
+    _Registered office / Postal address:_
+    Hackhofergasse 5/14
+    1190 Vienna
+    Austria
+    
     
 
-You may contact us by e-mail at [ privacy@daopay.com](mailto:privacy@daopay.com). You may call us at +44 207 037 7777. 
+You may contact us by e-mail at [ privacy@daopay.com](mailto:privacy@daopay.com) or call us at +43 (0)1 22844-0 
 
 ## Dispute Resolution and Privacy Seals
 
