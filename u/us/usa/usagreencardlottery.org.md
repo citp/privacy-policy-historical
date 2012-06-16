@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usagreencardlottery.org privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218205724id_/http%3A//www.usagreencardlottery.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagreencardlottery.org privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616160155id_/http%3A//www.usagreencardlottery.org/privacypolicy.html) for the most accurate reproduction.*
 
 # WIN A GREEN CARD - APPLY FOR LOTTERY TODAY
 
@@ -133,4 +133,6 @@ By using the Website, you hereby accept all of the terms set forth in this Priva
 
 _Privacy Complaints_
 
-If you believe that there has been a violation of this Privacy Policy, please contact us at [privacy@usagreencardlottery.org](mailto:privacy@usagreencardlottery.org). 
+If you believe that there has been a violation of this Privacy Policy, please contact us at [privacy@usagreencardlottery.org](mailto:privacy@usagreencardlottery.org).   
+  
+---|---
