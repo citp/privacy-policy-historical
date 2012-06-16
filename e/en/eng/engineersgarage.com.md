@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineersgarage.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229064358id_/http%3A//www.engineersgarage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersgarage.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616153851id_/http%3A//www.engineersgarage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of EngineersGarage
 
@@ -10,7 +10,7 @@ EngineersGarage strives to maintain the highest standards of decency, fairness a
 
  **Content**
 
-The content provided on this website is only for the purpose of reference, education and personal use. The content should not be used in any form for any commercial purpose without prior permission from us. Although the content posted in EG Labs section is well researched and experimented before posting, however EngineersGarage bears no responsibility in any form for the failures that may arise. EngineersGarage does not bear any responsibility in any form for the content posted by its users.
+The content provided on this website is only for the purpose of reference, education and personal use. If you are using our content for reference, you should acknowledge us by putting a link of our website [www.engineersgarage.com](http://www.engineersgarage.com/ "www.engineersgarage.com") under suitable heading. The content should not be used in any form for any commercial purpose without prior permission from us. Although the content posted in EG Labs section is well researched and experimented before posting, however EngineersGarage bears no responsibility in any form for the failures that may arise. EngineersGarage does not bear any responsibility in any form for the content posted by its users.
 
  **Personal Information**
 
