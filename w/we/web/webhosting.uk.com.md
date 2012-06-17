@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhosting.uk.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201095645id_/http%3A//www.webhosting.uk.com/web-hosting-uk-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhosting.uk.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617123118id_/https%3A//www.webhosting.uk.com/web-hosting-uk-privacy.php) for the most accurate reproduction.*
 
 # Web Hosting UK - Privacy Policy - Data Security - Dedicated Server - VPS Hosting
 
