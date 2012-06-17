@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bakersfieldcalifornian.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202074914id_/http%3A//www.bakersfield.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersfieldcalifornian.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617140301id_/http%3A//www.bakersfield.com/privacy_policy) for the most accurate reproduction.*
 
-# Bakersfield.com - Kern County news, events, shopping & search
-
-## Privacy Policy
+# Bakersfield.com - Privacy Policy
 
 This Privacy Policy explains how bakersfield.com may collect, use and aggregate personal information about you on www.bakersfield.com, and its affiliated web sites. Bakersfield.com respects your personal privacy and is committed to protecting it.
 
