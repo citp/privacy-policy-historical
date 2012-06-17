@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rcrdlbl.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228015517id_/http%3A//rcrdlbl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcrdlbl.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618015320id_/http%3A//rcrdlbl.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
+
+## PRIVACY POLICY
 
 Please read this statement regarding our site. If you have questions please contact us at  
 
@@ -76,3 +78,8 @@ When RCRD LBL makes changes to this privacy policy we will post those changes he
 **Contact Information**
 
 If you have any questions regarding our privacy policy, please contact us:  
+
+  
+
+
+## Comments
