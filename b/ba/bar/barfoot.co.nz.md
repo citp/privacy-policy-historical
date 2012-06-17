@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barfoot.co.nz privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115195903id_/http%3A//barfoot.co.nz/Global/Legal-Documents/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barfoot.co.nz privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617111249id_/http%3A//www.barfoot.co.nz/Global/Legal%2520Documents/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
-# | Barfoot & Thompson Real Estate
+# Privacy Policy | Barfoot & Thompson Real Estate
 
 ## Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
@@ -16,15 +16,16 @@ When you visit our Web site you may provide us with two types of information: pe
 
 ### Personal Information You Choose to Provide: 
 
-**Registration Information.  
-** You will be asked to provide us with information about yourself, your firm or company, when you register for certain services, such as email newsletters and alerts. You may also provide additional comments on how you see Barfoot & Thompson servicing your needs and interests. 
+#### Registration Information.
 
-  
-**Email Information.  
-** If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
+You will be asked to provide us with information about yourself, your firm or company, when you register for certain services, such as email newsletters and alerts. You may also provide additional comments on how you see Barfoot & Thompson servicing your needs and interests. 
 
-  
-**Web Site Use Information**   
+#### Email Information.
+
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
+
+#### Web Site Use Information
+
 The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.  
 
 
@@ -49,6 +50,3 @@ Barfoot & Thompson may share information with governmental agencies or other com
 Your personally identifiable information is kept secure. Only authorised employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings. 
 
 _Note: Barfoot & Thompson may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/01/08_
-
-  
-
