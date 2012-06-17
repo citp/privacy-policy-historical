@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techmynd.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218203059id_/http%3A//www.techmynd.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmynd.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617151522id_/http%3A//www.techmynd.com/policy) for the most accurate reproduction.*
 
 # Privacy and Ads Policy - TechMynd
 
@@ -20,7 +20,7 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 
 Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
-## Special Note About Google Advertising
+## About Google Advertising
 
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies. Third-party advertising companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
@@ -34,7 +34,7 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ## Ads Networks
 
-TechMynd serves ads mainly using services from [Reduxmedia](http://www.reduxmedia.com/), [Valueclick Media](http://valueclickmedia.com/), [Infolinks](http://www.infolinks.com/), [buysellads](http://buysellads.com/) and [Adside](http://www.adside.com/) but not each and all. We may use any of these ads serving networks or cease to use any of these anytime.
+TechMynd serves ads mainly using services from [Reduxmedia](http://www.reduxmedia.com/), [Valueclick Media](http://valueclickmedia.com/), [Infolinks](http://www.infolinks.com/), [buysellads](http://buysellads.com/) and [Adside](http://www.adside.com/), [Afterdownload](http://www.afterdownload.com/) but not each or all. We may use any of these ads serving networks or cease to use any of these anytime. Please visit those websites if you want to know more about “how they serve ads?”, their privacy policy or terms.
 
 Users can visit the above ad serving networks to opt out of cookies if they need. Further more we clearly mention **sponsored links** or **advertisements** above all ads.
 
