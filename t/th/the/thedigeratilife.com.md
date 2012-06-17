@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedigeratilife.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217111009id_/http%3A//www.thedigeratilife.com/privacy-policy-for-the-digerati-life) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedigeratilife.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617044002id_/http%3A//www.thedigeratilife.com/privacy-policy-for-the-digerati-life) for the most accurate reproduction.*
 
 # Privacy Policy For The Digerati Life
 
