@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkpushing.net privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217081907id_/http%3A//linkpushing.net/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkpushing.net privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617112746id_/http%3A//linkpushing.net/blog/privacy-policy) for the most accurate reproduction.*
 
 # Link Pushing » Privacy Policy
 
