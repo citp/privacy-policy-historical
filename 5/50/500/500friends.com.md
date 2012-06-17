@@ -1,39 +1,74 @@
-> *The following text is extracted and transformed from the 500friends.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414131338id_/http%3A//500friends.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 500friends.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617203757id_/http%3A//500friends.com/privacy) for the most accurate reproduction.*
 
-# 500Friends - Privacy Statement
+# 500friends - Privacy
 
-**Summary**
+This Privacy Policy describes our policies on the collection, use, and disclosure of your information in connection with your use of our website(s), emails, and mobile applications ("Site"). The terms "we", "us", and "500friends" refer to 500friends, Inc., a Delaware corporation. When you use the Site, you consent to our collection, use, and disclosure of your information as described in this Privacy Policy. 
 
-By logging in directly to your social network, neither your username nor password is ever transmitted to us. This means that even in the unlikely event that we get “hacked,” your information will not be compromised. 
+  * What information do we collect about you? 
+    
 
-We will never post/tweet anything without your explicit permission. 
+We automatically collect the following information from you: the IP address of the computer you are using, your domain name, your browser, your operating system, the navigation path that brought you to our site, aggregate information on what pages you access or visit and user-specific information about the pages you access or visit. In addition, if you volunteer such information, we may also collect visitor survey information and any site registrations you may complete. Finally, if you volunteer it, we will collect certain personally identifiable information, including, but not limited to, your name, your profile image, the number of friends on your Facebook profile, your email address, your telephone number, your mailing address and your employer (collectively "Personal Information"}. 
 
-500Friends is committed to respecting your privacy and security of your personal information. You are very important to us and we want to provide you with a safe and secure online experience. This Privacy Policy describes how we collect and use your information and gives you choices as to how we use it. The Privacy Policy applies to "www.500Friends.com" (collectively, "the sites") operated by 500Friends, Inc. By using the sites and providing your contact information, you consent to our privacy policy. We suggest that you review this Privacy Policy periodically as we will update and change it from time to time. This policy was last updated November 2009. 
+We may collect and store information about your location if you enable your computer or mobile device to send us location information. You may be able to change the settings on your computer or mobile device to prevent it from providing us with such information. 
 
-**What information does 500Friends collect about me?**
+Our pages may use "cookies". Cookies record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, help ensure visitors are not repeatedly sent the same banner ads, customize web page content based on visitors' browser type or other information that the visitor sends. 
 
-Like most websites, every time you visit our site, we automatically collect information from you that are not personally identifiable. Examples of this type of information include: 
+Back to Top
+  * How do we use that information? 
+    
 
-In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track your visit for trends and statistics, but you will remain anonymous unless you tell us who you are. Once you choose to give us your personal information, you are not anonymous to us. 
+We use the information we collect for feedback purposes, for a statistical analysis of visitor's behavior, for product development or enhancement, for content improvement, and/or to customize content and layout of our site. If you have opted in to such use, Personal Information may be added to our databases and used for future contact regarding new products and services, upcoming events and/or customer service. If you do not want to receive additional communications from us about our other products and/or services, please let us know by contacting the Company as set forth below. 
 
-We do not collect or save your social network log-in credentials. 
+**Facebook:** We may use the Personal Information to help you connect and share public content with your friends and followers and the general public. 
 
-**How do you use my information?**
+Back to Top
+  * With whom do we share that information? 
+    
 
-We may use the information we collect to: 
+We may also make certain information and/or Personal Information about our visitors available to third parties for the following purposes: we may disclose information to our retail partners to provide an enhanced shopping experience on their website, we may disclose information and/or Personal Information to vendors who facilitate and/or support our website and/or our email transmissions (including, but not limited to, vendors who assist our suppression to comply with the CAN SPAM Act of 2003), and we may disclose information to entities to whom we are legally required to disclose information and/or to protect our rights or safety or the rights or safety of our visitors or any third party. 
 
-**How do you share my information?**
+In addition, if you have opted in to such use, from time to time, we may make the Personal Information you voluntarily submitted available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your Personal Information with other companies or organizations, please let us know by contacting the Company as set forth below. 
 
-On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others' rights, property, or safety. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes. 
+In the unlikely event 500friends and/or substantially all of its assets are sold, information, including Personal Information, about visitors to this website may be one of the transferred assets. Such information would remain subject to any pre-existing privacy policy (unless you consent to the use of such information otherwise}. 
 
-We will not sell, trade, or rent personally identifiable information to other companies as part of our regular course of business. However, it's possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect. 
+This website may contain third party advertising and/or may link to other websites. We are not responsible for the privacy practices, terms of use and/or the content of such other third party websites or advertisements. 
 
-**How do I know my information is secure?**
+Back to Top
+  * How will you know if we make changes to this policy? 
+    
 
-We have a variety of security measures to protect against the loss, misuse or alteration of information that we have collected from you. To ensure the information you provide online is secure during transmission, we use leading edge encryption technology and Secure Socket Layers (SSL) while processing any personal information you supply. 
+From time to time, we may use information and/or Personal Information for new, unanticipated uses not previously disclosed in our privacy notice. If our collection, use and/or disclosure practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new practices. If you are concerned about how your information and/or Personal Information are used, you should check back at our website periodically. Your continued use of this website following the posting of changes to these terms shall be deemed your consent to any such changes. Such changes will be evidenced by a change in the effective date for this policy set forth above. We reserve the right, in our sole discretion, to change, modify, add, or remove portions from this policy at any time. 
 
-This site is also tested and certified daily to pass the McAfee Secure Security Scan. To help address concerns about hacker access to confidential data, the "live" McAfee Hacker Safe Secure mark appears only when a web site meets the McAfee Secure standard. Research indicates sites remotely scanned for known vulnerabilities on a daily basis, such as those earning McAfee Secure certification, can prevent over 99% of hacker crime. 
+Back to Top
+  * Are children permitted to visit our website? 
+    
 
-**What if I have more questions about the privacy policy?**
+Our website is not intended for children under thirteen. If you are under thirteen, you may use our website only with the permission of a parent or guardian. 
 
-Please feel free to [contact us](https://web.archive.org/contact "Contact Us") for any reason, including a request to be added to or taken off a list, or if you have any questions or concerns. 
+Back to Top
+  * How is your information secured? 
+    
+
+All information and Personal Information collected is stored in a secured environment which provides for both physical and technical safeguards, including, but not limited to, firewalls, token authentication, application proxies, monitoring technology and adaptive analysis of network traffic to track abuse of our network and its data. Please be advised, however, that no data security methodology is entirely secure. You should take reasonable steps to protect yourself against unauthorized access to your information and Personal Information. 
+
+Back to Top
+  * How can you access the information we have collected about you? 
+    
+
+We provide you with access to the Personal Information we have collected about you. In addition, you may request that your Personal Information be corrected if you believe it is not accurate. If you wish to access your Personal Information you should contact our General Counsel as set forth below. 
+
+Back to Top
+  * How do we transfer and store data received from residents outside of the United States? 
+    
+
+If you are visiting our site from outside of the United States, you acknowledge that we may host or store data you provide to us outside of your country of residence; in particular, data may be hosted or stored in the United States of America. While we take all reasonable steps to protect your personal information, we cannot guarantee the security of personal data that you disclose online. By providing us with any personal and/or sensitive data through this site, you accept the inherent security implications of online communications. If you are concerned about the international data transfer and/or the security of your personal or sensitive data submitted online, please do not send us any personal and/or sensitive data through this site. 
+
+Back to Top
+  * What can you do if you have a question or concern about this policy and who within our organization is accountable for compliance? 
+    
+
+If you feel that we are not complying with our stated privacy policy, you may contact us at [ privacy@500friends.com ](mailto:privacy@500friends.com) or via regular mail at 500friends, Inc.,100 First Street, Suite 2250, San Francisco, CA 94105 Attn: COO. We are responsible for the Personal Information under our control, and we have designated our COO as the responsible party for ensuring our compliance with this policy and with any applicable privacy legislation. 
+
+Back to Top
+
+
