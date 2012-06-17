@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobclix.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009143419id_/http%3A//www.mobclix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobclix.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617234557id_/http%3A//www.mobclix.com/privacy.html) for the most accurate reproduction.*
 
 # Mobile Advertising, App Advertising and Analytics, Mobile Ad Exchange, Mobclix
 
