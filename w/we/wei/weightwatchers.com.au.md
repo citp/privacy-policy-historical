@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.com.au privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117002606id_/http%3A//www.weightwatchers.com.au/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.com.au privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617041023id_/http%3A//www.weightwatchers.com.au/legal/privacy.aspx) for the most accurate reproduction.*
 
 # WeightWatchers.com.au: Privacy Policy
 
@@ -12,21 +12,6 @@ We may amend this Privacy Policy from time to time. We will post any changes to 
 
 The following are links to the provisions of our Privacy Policy, which you should read as a whole. For immediate access to a particular topic in this Privacy Policy, click on that provision title below.   
   
-| | WHAT INFORMATION ABOUT YOU IS COLLECTED ON OUR WEBSITE OR THROUGH OUR ONLINE PRODUCTS?   
----|---  
-| WHAT ARE THE MAIN CONSEQUENCES IF YOU DO NOT PROVIDE PERSONALLY IDENTIFIABLE INFORMATION?   
-| WHO OPERATES THIS WEBSITE AND WHERE ARE OUR SERVERS LOCATED?  
-| WHERE AND WHEN IS INFORMATION COLLECTED ON OUR WEBSITE OR THROUGH OUR ONLINE PRODUCTS (INCLUDING THROUGH THE USE OF COOKIES AND ACTION TAGS)?   
-| DO WE COLLECT INFORMATION FROM CHILDREN?   
-| WHAT DO WE DO WITH THE INFORMATION WE COLLECT?   
-| WHEN DO WE DISCLOSE INFORMATION TO THIRD PARTIES?   
-| DOES THIS PRIVACY POLICY APPLY WHEN YOU LINK TO OTHER WEBSITES?   
-| IS THE INFORMATION WE COLLECT SECURE?   
-| WHAT CHOICES DO YOU HAVE REGARDING THE COLLECTION, DISCLOSURE AND DISTRIBUTION OF PERSONALLY IDENTIFIABLE INFORMATION?   
-| CAN YOU ACCESS, UPDATE OR CORRECT YOUR PERSONALLY IDENTIFIABLE INFORMATION?   
-| WHAT HAPPENS TO THE COLLECTED PERSONALLY IDENTIFIABLE INFORMATION AFTER TERMINATION OF MY PAID SUBSCRIPTION?   
-| HOW WILL YOU KNOW IF THERE ARE ANY CHANGES TO THIS PRIVACY POLICY?   
-| WHOM DO YOU CONTACT IF YOU HAVE ANY PRIVACY QUESTIONS?   
   
   
 []()**WHAT INFORMATION ABOUT YOU IS COLLECTED ON OUR WEBSITE OR THROUGH OUR ONLINE PRODUCTS?**
