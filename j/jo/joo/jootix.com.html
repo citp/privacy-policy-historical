@@ -1,42 +1,77 @@
-<!--The following is the downloaded HTML source of the jootix.com privacy policy that was archived on 2011-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121213849id_/http%3A//jootix.com/Pages/25/Privacy%2520Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jootix.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617173907id_/http%3A//jootix.com/Pages/25/Privacy%2520Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy : Jootix wallpapers</title>
-
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
 <link rel="alternate" type="application/rss+xml" title="Jootix wallpapers" href="http://feeds.feedburner.com/Jootix">
-
 <meta name="description" content="Privacy Policy - Jootix wallpapers Privacy Policy">
-
 <meta name="keywords" content="Privacy Policy, Jootix, wallpapers">
-
 <meta http-equiv="keywords" content="Privacy Policy, Jootix, wallpapers">
-
 <meta http-equiv="description" content="Privacy Policy - Jootix wallpapers Privacy Policy">
-
 <meta name="Author" content="Developed by jootix.com">
-
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-
 <link rel="stylesheet" href="/templates/wallpapers-v/style.css" media="screen" type="text/css">
-
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/env/js/jquery.js"></script>
-
 <script type="text/javascript" src="/env/js/jquery.corner.js"></script>
-
 <script src="/env/js/jquery.dimensions.js" type="text/javascript"></script>
-
 <script src="/env/js/jquery.tooltip.js" type="text/javascript"></script>
-
 <script type="text/javascript" src="/env/js/menu.js"></script>
-
 <script type="text/javascript">var voteURL = '/?module=vote';</script>
-
-
+<script type="text/javascript">
+           $(document).ready(function(){
+		  
+				var $ui 		= $('#searchForm');
+			
+				$('.sb_input').bind('click',function(){
+				
+					$('.sb_down')
+					   .addClass('sb_up')
+					   .removeClass('sb_down')
+					   .andSelf()
+					   .find('.sb_dropdown')
+					   .show();
+			});
+			
+				$('#searchchat').bind('mouseleave',function(){
+					$('.sb_up')
+					   .addClass('sb_down')
+					   .removeClass('sb_up')
+					   .andSelf()
+					   .find('.sb_dropdown')
+					   .hide();
+				});
+			
+				$('.sb_dropdown').find('label[for="all"]').prev().bind('click',function(){
+					$(this).parent().siblings().find(':checkbox').attr('checked',this.checked).attr('disabled',this.checked);
+				});
+				//top searchbox
+				$('.sb_inputpop').bind('click',function(){
+				
+					$('.sb_downtop')
+					   .addClass('sb_uppop')
+					   .removeClass('sb_downpop')
+					   .andSelf()
+					   .find('.sb_dropdowntop')
+					   .show();
+			});
+			
+				$('#searchchattop').bind('mouseleave',function(){
+					$('.sb_uppop')
+					   .addClass('sb_downpop')
+					   .removeClass('sb_uppop')
+					   .andSelf()
+					   .find('.sb_dropdowntop')
+					   .hide();
+				});
+			
+				$('.sb_dropdowntop').find('label[for="all"]').prev().bind('click',function(){
+					$(this).parent().siblings().find(':checkbox').attr('checked',this.checked).attr('disabled',this.checked);
+				});
+			});	
+           
+        </script>
 <script type="text/javascript" src="/templates/wallpapers-v/rating-script.js"></script>
-
 <script type="text/javascript">
 errors = [];
 errors[-1] = '';
@@ -46,37 +81,39 @@ errors[2] = '';
 errors[3] = '';
 errors[4] = '';
 </script>
-
-
-<script type="text/javascript" async="" src="http://widgets.amung.us/a_pro.js"></script></head><body>
-
-	<div id="container">
-		<div id="menu" class="js-active">
-			<ul class="menu">
-				<li id="topsearch" class="active">
-             	    <form action="/" id="searchForm"><input type="text" name="search" value="" id="searchInput"> <input type="submit" value="search"></form>
-                </li>
-								<li pos="1080" iid="0"><a href="/" class="parent" style="background-position: left -1080px;"><span style="background-position: right -1125px;">Home</span></a></li>
-				<li pos="1080" iid="0">
-                	<a href="#" style="background-position: left -1080px;"><span style="background-position: right -1125px;">Sort by</span></a>
-					<div>
-                    	<ul>
-			               <li style="background-color: rgb(76, 83, 90);"><a href="/?show=new"><span>Latest</span></a></li>
-			               <li style="background-color: rgb(76, 83, 90);"><a href="/?show=popular"><span>Popular Recently</span></a></li>
-			               <li style="background-color: rgb(76, 83, 90);"><a href="/?show=best"><span>Most Voted</span></a></li>
-			               <li style="background-color: rgb(76, 83, 90);"><a href="/?show=views"><span>Most Viewed</span></a></li>
-						</ul>
+<script type="text/javascript" async="" src="http://widgets.amung.us/a_pro.js"></script></head>
+<body>
+<div id="container">
+<div id="menu" class="js-active">
+<div id="logo">
+<a href="/">Jootix Wallpapers</a>
+</div>
+<ul class="menu" style=" float:left; width:50%;">
+<li id="topsearch" class="active">
+ 
+</li>
+<li pos="1080" iid="0"><a href="/?module=Authorization" class="parent" style="background-position: left -1080px;"><span style="color: rgb(255, 255, 0); background-position: right -1125px;">UPLOAD</span></a></li> <li pos="1080" iid="0"><a href="/?module=Registration" style="background-position: left -1080px;"><span style="background-position: right -1125px;">Registration</span></a></li> <li pos="1080" iid="0"><a href="/?module=Authorization&amp;file=logout" style="background-position: left -1080px;"><span style="background-position: right -1125px;">Login</span></a></li>
+<li class="last" pos="1080" iid="0"><a href="http://feeds.feedburner.com/Jootix" style="background-position: left -1080px;"><img src="/templates/wallpapers-v/rss.png" border="0" title="Subscribe to RSS Feed" align="absmiddle"></a></li>
+</ul>
+<div style=" float:left; width:25%;">
+<form action="/" id="searchForm" style="margin-top:10px; float:right; margin-right:20px;">
+<span class="sb_downtop"></span>
+<div id="searchchattop">
+<input type="text" name="search" value="" id="searchInput" class="sb_inputpop">
+<input type="submit" value="search">
+<ul class="sb_dropdowntop" style="display:none; position:absolute; right:0; top:23px;">
+<li class="sb_filter">Filter your search</li>
+<li><input type="checkbox" name="cat_id" value="0"><label for="all"><strong>All Categories</strong></label></li>
+												
+																		</ul>
 					</div>
-				</li>
-				<li pos="1080" iid="0"><a href="/?module=Authorization" class="parent" style="background-position: left -1080px;"><span style="background-position: right -1125px;">UPLOAD</span></a></li>				                <li pos="1080" iid="0"><a href="/?module=Registration" style="background-position: left -1080px;"><span style="background-position: right -1125px;">Registration</span></a></li>							    	            <li pos="1080" iid="0"><a href="/?module=Authorization&amp;file=logout" style="background-position: left -1080px;"><span style="background-position: right -1125px;">Login</span></a></li>
-				<li class="last" pos="1080" iid="0"><a href="http://feeds.feedburner.com/Jootix" style="background-position: left -1080px;"><img src="/templates/wallpapers-v/rss.png" border="0" title="Subscribe to RSS Feed" align="absmiddle"></a></li>
-			</ul>		 
+				  </form>
+				</div>   
  		</div>
-
+<br><br><br><br><br><br>
         <div class="headline">
-			<table border="0">
+			<table align="center" height="100" border="0">
 				<tbody><tr>
-<td>&nbsp; &nbsp; Jootix Wallpapers &nbsp; &nbsp;</td>
 					<td>
 <script type="text/javascript"><!--
 google_ad_client = "pub-1724418842388594";
@@ -88,11 +125,18 @@ google_ad_height = 90;
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
+ 
                                         </td>
 				</tr>
 			</tbody></table>
 		</div>
 
+					<div class="filters01">
+                        <div>
+                            <span>Categories: &nbsp; </span>						
+								                        </div>
+                    </div>
+				<br><br>
 		<div id="content">
         	<div class="inner">
 				
@@ -161,16 +205,6 @@ or credit card numbers.&nbsp; You can opt-out of this ad serving on all
 sites using this advertising by visiting <a href="http://www.doubleclick.com/privacy/dart_adserving.aspx">http://www.doubleclick.com/privacy/dart_adserving.aspx</a>&nbsp;&nbsp;
 </p>
 <p>
-<strong>BurstMedia<br>
-We use third-party advertising companies to serve ads when you visit 
-our Web site. These companies may use aggregated information (not 
-including your name, address, email address or telephone number) about 
-your visits to this and other Web sites in order to provide 
-advertisements about goods and services of interest to you. If you would
-like more information about this practice and to know your choices 
-about not having this information used by these companies, click here <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a></strong> 
-</p>
-<p>
 You can choose to disable or selectively turn off our cookies or 
 third-party cookies in your browser settings, or by managing preferences
 in programs such as Norton Internet Security.&nbsp; However, this can affect
@@ -201,27 +235,20 @@ google_ad_height = 90;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 
-<br><br></div>	                            </div>
-        </div>
-
+<br><br></div>	                            </div>				
+        </div>		
+		
         <div id="footer">
-                <div class="inner">
-
+                <div class="inner">					
                         <div id="copyrights">
                         
-
                         <br>
-<a href="http://jootix.com/Pages/51/Changelog/">Changelog</a> &nbsp; 
-<a href="http://jootix.uservoice.com/forums/12558-jootix">Feedback</a> &nbsp; 
+<a href="http://jootix.com/Pages/51/Changelog/">Changelog</a> &nbsp; &nbsp; 
 <a href="http://jootix.com/Pages/50/Advertise/">Advertise</a> &nbsp; 
 <a href="http://jootix.com/Pages/25/Privacy Policy/">Privacy Policy</a> &nbsp; 
 <a href="http://jootix.com/?module=Pages&amp;id=23">Terms of Service </a> &nbsp;  
 <a href="http://jootix.com/ContactUs/">Contact us</a> &nbsp; 
-
-<br><br>
-
-<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=fouroozesh"></script>
+<br><br><br>
 
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -235,6 +262,20 @@ google_ad_height = 90;
   })();
 </script>
 
+<div style="position:fixed; right: 0; top: 150px;">
+<a href="http://www.facebook.com/pages/Jootix/148076721887128" target="_blank"><img src="/templates/wallpapers-v/bg/facebook.png" width="20" height="100" alt="Follow us on Facebook" <="" a="">
+</a></div><a href="http://www.facebook.com/pages/Jootix/148076721887128" target="_blank">
+</a><div style="position:fixed; right: 0; top: 260px;"><a href="http://www.facebook.com/pages/Jootix/148076721887128" target="_blank">
+</a><a href="http://twitter.com/Jootix" target="_blank"><img src="/templates/wallpapers-v/bg/twitter.png" width="20" height="100" alt="Follow us on Facebook" <="" a="">
+</a></div><a href="http://twitter.com/Jootix" target="_blank">
+
+<script type="text/javascript">var _kiq = _kiq || [];</script>
+<script type="text/javascript" src="//s3.amazonaws.com/ki.js/27636/5ta.js" async="true"></script>
+
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true}; var addthis_share = {templates: { twitter: '{{title}} {{url}} @jootix #wallpaper' }} </script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=fouroozesh"></script>
+<script type="text/javascript">var addthis_config = {data_ga_property: 'UA-6958951-1', data_ga_social : true}; </script>
+
  <script type="text/javascript" id="wau_scr_7e787b3a">
     var wau_p = wau_p || []; wau_p.push(["4yio", "7e787b3a", false]);
     (function() {
@@ -243,16 +284,12 @@ google_ad_height = 90;
         document.getElementsByTagName("head")[0].appendChild(s);
     })();
 </script>
-                        </div>
-                </div>
-        </div>
-</div>
+                        </a></div><a href="http://twitter.com/Jootix" target="_blank">
+                </a></div><a href="http://twitter.com/Jootix" target="_blank">
+        </a></div><a href="http://twitter.com/Jootix" target="_blank">
+</a></div><a href="http://twitter.com/Jootix" target="_blank">
 
 <div id="loading">Loading ...</div>
 
-<script src="//ajax.cloudflare.com/cdn-cgi/nexp/v=918368360/cf_tools.min.js" async="true"></script><script type="text/javascript">
-//<![CDATA[
-window.__CF=window.__CF||{};window.__CF.u="/cdn-cgi/async/cf/uri/";window.__CF.p="1d/20ded0f106b19fe6001769adfd698e";window.__CF.o=1;window.__CF.c=1;(function(){var a=document,b=a.createElement("script");b.src="//ajax.cloudflare.com/cdn-cgi/nexp/v=918368360/cf_tools.min.js";b.setAttribute("async","true");a=a.getElementsByTagName("script");a=a[a.length-1];a.parentNode.insertBefore(b,a)})();
-//]]>
-</script>
-<div id="tooltip" style="display: none;"><h3></h3><div class="body"></div><div class="url"></div></div></body></html>
+
+</a><div id="tooltip" style="display: none;"><h3></h3><div class="body"></div><div class="url"></div></div></body></html>
