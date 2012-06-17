@@ -1,43 +1,40 @@
-<!--The following is the downloaded HTML source of the get.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101215447id_/http%3A//get.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the get.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617022214id_/http%3A//get.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-
     <meta name="description" content="">
     <meta name="ROBOTS" content="NOODP">
     <meta name="google-site-verification" content="JwVyUGjcRpmFP9r-1uzQHxdQt1ydUTLE1IDfvUhQaag">
+    <meta name="msvalidate.01" content="5459D54E0ECD2379B3463BADDC322840">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-    <title>Privacy Policy |  Product Answers at Get.com</title>
-
-    <link rel="shortcut icon" href="/static/images/favicon.ico">
-    <link href="/static/css/main.css" rel="stylesheet" type="text/css">
-    <link href="/static/css/guider.css" rel="stylesheet" type="text/css">
-    <link type="text/css" href="/static/css/Aristo/jquery-ui-1.8.7.custom.css" rel="stylesheet">
     
 
-    <script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/js/json2.js"></script>
-    <script type="text/javascript" src="/static/js/jquery-1.4.4.min.js"></script>
-    <script type="text/javascript" src="/static/js/jquery-ui-1.8.9.custom.min.js"></script>
-    <script type="text/javascript" src="/static/js/jquery.dependClass.js"></script>
-    <script type="text/javascript" src="/static/js/jquery.hoverIntent.js"></script>
-    <script type="text/javascript" src="/static/js/jquery.smooth-scroll.min.js"></script>
-    <script type="text/javascript" src="/static/js/jquery.elastic.js"></script>
-    <script type="text/javascript" src="/static/js/jquery.ui.autocomplete.html.js"></script>
-    <script type="text/javascript" src="/static/js/jquery.livequery.min.js"></script>
-    <script type="text/javascript" src="/static/js/jquery.validate.min.js"></script>
+    <title>Privacy Policy | Get.com</title>
+
+    <link href="https://plus.google.com/101819195028049429545" rel="publisher">
+    <link rel="shortcut icon" href="http://static.get.com/static/images/favicon.ico">
+    <link href="http://static.get.com/static/css/main.css?cb=2392932" rel="stylesheet" type="text/css">
+    <link href="http://static.get.com/static/css/guider.css" rel="stylesheet" type="text/css">
+    <link href="http://static.get.com/static/css/font-awesome.css" rel="stylesheet" type="text/css">
+    <link type="text/css" href="http://static.get.com/static/css/Aristo/jquery-ui-1.8.7.custom.css" rel="stylesheet">
+    
+
+    <script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.get.com/static/js/json2.js"></script>
+    <script type="text/javascript" src="http://static.get.com/static/js/jquery-1.4.4.min.js"></script>
+    <script type="text/javascript" src="http://static.get.com/static/js/jquery-ui-1.8.9.custom.min.js"></script>
+    <script type="text/javascript" src="http://static.get.com/static/js/jquery.dependClass.js"></script>
+    <script type="text/javascript" src="http://static.get.com/static/js/jquery.hoverIntent.js"></script>
+    <script type="text/javascript" src="http://static.get.com/static/js/jquery.smooth-scroll.min.js"></script>
+    <script type="text/javascript" src="http://static.get.com/static/js/jquery.elastic.js"></script>
+    <script type="text/javascript" src="http://static.get.com/static/js/jquery.ui.autocomplete.html.js"></script>
+    <script type="text/javascript" src="http://static.get.com/static/js/jquery.livequery.min.js"></script>
+    <script type="text/javascript" src="http://static.get.com/static/js/jquery.validate.min.js"></script>
     
 
 
 
 
 
-
-
-
-
-
-    
 
 
 
@@ -102,8 +99,8 @@
 
         JST = {};
 
-        JST.prevent_enter_key = function (event) {
-            if(event.keyCode == 13) {
+        JST.prevent_enter_key = function (callback) {
+            if (event.keyCode === 13) {
                 event.preventDefault();
                 return false;
             }
@@ -120,13 +117,16 @@
 
         JST.display_ss_dialog = function () {
             $('#ss_dialog').dialog({
+                beforeClose: function (event, ui) {
+                    $('#ss_dialog').load('/ss/ss_boxes');
+                },
                 modal: true,
-                title: 'Sign up or Sign in',
+                title: 'Sign up / Sign in',
                 resizable: false,
                 height: 450,
                 width: 800
             });
-        }
+        };
 
         JST.display_quick_signup_dialog = function () {
             $('#quick_signup_dialog').dialog({
@@ -137,7 +137,49 @@
                 height: 250,
                 width: 400 
             });
-        }
+        };
+
+        JST.check_notifications_run = function () {
+            JST.check_notifications();
+
+            setTimeout(function () {
+                JST.check_notifications_run();
+            }, 15000);
+        };
+
+        JST.check_notifications = function () {
+
+            
+            $.post('http://get.com/user/check_notifications', {}, function (response) {
+                // console.log("You have " + response.notifications + " unread notifications")
+
+                if (response.signed_out) {
+                    document.location.href = '/signout?nfc=1';
+                    return;
+                }
+
+                var unread_notifications = parseInt(response.notifications);
+
+                if (unread_notifications) {
+                    $('#unread_notifications_header').css('background-color', '#cc3c29').text(unread_notifications).show();
+                } else {
+                    $('#unread_notifications_header').css('background-color', '#999').text(0).show();
+                }
+            });
+
+        };
+
+        JST.update_header_message_position = function (window_width) {
+                // var hm_width = $('#header_message').width();
+                var new_left = (window_width / 3) + 240;
+                $('#header_message').css('left', new_left + "px");
+        };
+
+        $('.external_link').live('mousedown', function (event) {
+            var redir_url = $(this).attr('redir_url');
+
+            $(this).attr('href', redir_url);
+        });
 
         $('#quick_signup_form').live('submit', function (event) {
 
@@ -155,6 +197,38 @@
         
 
             $(document).ready(function () {
+
+                JST.update_header_message_position($(window).width());
+
+                $(window).resize(function () {
+                    var new_width = $(window).width();
+                    JST.update_header_message_position(new_width);
+                });
+
+                
+
+                $('.intro_video_button_inline').live('click', function (event) {
+                    event.preventDefault();
+
+                    $(this).after('<iframe width="560" height="315" src="http://www.youtube.com/embed/cam3LwsQrys?wmode=transparent&rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>').hide();
+                    
+                });
+
+                
+
+
+                JST.preload_images = [
+                    'http://static.get.com/static/images/get.com_hover.ns.png',
+                    'http://static.get.com/static/images/get.com_active.ns.png',
+                    'http://static.get.com/static/images/ask_question_header_active.ns.png',
+                    'http://static.get.com/static/images/community_header_active.ns.png',
+                    'http://static.get.com/static/images/products_header_active.ns.png'
+                ];
+
+                $(JST.preload_images).each(function () {
+                    $('<img>')[0].src = this;
+                });
+
 
                 $('.button_link').live('click', function (event) {
                     event.preventDefault();
@@ -176,7 +250,7 @@
                     $(this).removeClass('follow_tag_button');
                     $(this).addClass('unfollow_tag_button');
              
-                    $(this).text('Unfollow').blur();
+                    $(this).text('Unfollow topic').blur();
              
                     var tag_id = $(this).attr('tag_id');
 
@@ -193,7 +267,7 @@
                     $(this).removeClass('unfollow_tag_button');
                     $(this).addClass('follow_tag_button');
              
-                    $(this).text('Follow').blur();
+                    $(this).text('Follow topic').blur();
              
                     var tag_id = $(this).attr('tag_id');
 
@@ -203,44 +277,6 @@
                     $.post('/topic/toggle_follow', { 'tag_id' : tag_id });
                 });
 
-                $('.follow_user_button').live('click', function (event) {
-                    event.preventDefault();
-                    // signin required
-                    
-                        JST.signin_required('follow user');
-                        return false;
-                    
-                    // signin required
-             
-                    $(this).removeClass('follow_user_button');
-                    $(this).addClass('unfollow_user_button');
-             
-                    $(this).text('Unfollow').blur();
-             
-                    var user_id = $(this).attr('user_id');
-
-                    mpq.push(['track', 'Follow user']);
-                    _gaq.push(['_trackEvent', 'User Action', 'Follow user']);
-             
-                    $.post('/user/toggle_follow', { 'user_id' : user_id });
-             
-                });
-
-                $('.unfollow_user_button').live('click', function (event) {
-                    event.preventDefault();
-             
-                    $(this).removeClass('unfollow_user_button');
-                    $(this).addClass('follow_user_button');
-             
-                    $(this).text('Follow').blur();
-             
-                    var user_id = $(this).attr('user_id');
-
-                    mpq.push(['track', 'Unfollow user']);
-                    _gaq.push(['_trackEvent', 'User Action', 'Unfollow user']);
-             
-                    $.post('/user/toggle_follow', { 'user_id' : user_id });
-                });
 
                 $('.follow_user_button').live('click', function (event) {
                     event.preventDefault();
@@ -306,7 +342,7 @@
 
                 $('#close_header_message').click(function (event) {
                     event.preventDefault();
-                    $('#header_message').hide();
+                    $('#header_message').slideUp('slow');
                 });
 
                 $('.popup_window').live('click', function (event) {
@@ -355,93 +391,8 @@
                     $(this).button();
                 });
 
-                $('input[type="text"]').livequery(function () {
 
-                    $(this).click(function () {
-
-                        var current_text = $(this).val();
-                        var default_text = $(this).attr('default_text');
-
-                        if (current_text === default_text) {
-                            $(this).val('').css('color', '#000');
-                        }
-
-                    });
-
-                    $(this).blur(function () {
-                        var current_text = $(this).val();
-
-                        if (! $(this).val()) {
-                            $(this).val($(this).attr('default_text'))
-
-                            if (!$(this).attr('keep_black')) {
-                                $(this).css('color', '#999');
-                            }
-                        }
-                    });
-
-                    if ($(this).attr('default_text')) {
-                        $(this).val($(this).attr('default_text'));
-
-                        if (!$(this).attr('keep_black')) {
-                            $(this).css('color', '#999');
-                        }
-                    }
-
-                });
-
-                $('textarea').livequery(function () {
-
-                    $(this).focus(function () {
-
-                        var current_text = $(this).text();
-                        var default_text = $(this).attr('default_text');
-                        var click_height = $(this).attr('click_height');
-                        var click_width = $(this).attr('click_width');
-
-                        if (current_text === default_text) {
-                            $(this).text('').css('color', '#000');
-                        }
-
-                        if (click_height) {
-                            $(this).css('height', click_height);
-                            $(this).css('min-height', click_height);
-                        }
-
-                        if (click_width) {
-                            $(this).css('width', click_width);
-                        }
-
-                    });
-
-                    $(this).blur(function () {
-                        var current_text = $(this).val();
-                        var blur_height = $(this).attr('blur_height');
-                        var blur_width = $(this).attr('blur_width');
-
-
-                        if (! $(this).val()) {
-                            $(this).text($(this).attr('default_text')).css('color', '#999');
-
-                            if (blur_height) {
-                                $(this).css('height', blur_height);
-                                $(this).css('min-height', blur_height);
-                            }
-
-                            if (blur_width) {
-                                $(this).css('width', blur_width);
-                            }
-
-
-                        }
-                    });
-
-                    if ($(this).attr('default_text')) {
-                        $(this).text($(this).attr('default_text')).css('color', '#999');
-                    }
-
-                    $(this).elastic();
-                });
+                
 
 
                 $('#budget_selector').change(function (event) {
@@ -452,6 +403,25 @@
                         $('#budget_box').append('$<input id="budget_input" name="budget" style="width: 60px;">');
                         $('#budget_input').focus();
                     }
+                });
+
+                $('.qs_search_autocomplete').autocomplete({
+                    source: function (request, response_callback) {
+
+                        $.post('/qs/autocomplete', request, function (response) {
+                            response_callback(response);
+                        }, 'json');
+                    },
+
+                    select: function (event, ui) {
+                        event.preventDefault();
+                        location.href = ui.item.value;
+                    },
+
+                    autoFill: true,
+                    minLength: 2,
+                    delay: 100,
+                    html: true
                 });
 
                 $('#q').autocomplete({
@@ -572,7 +542,7 @@
                 });
 
 
-                $('.ss_header_button').click(function (event) {
+                $('.ss_button').click(function (event) {
                     event.preventDefault();
                     JST.display_ss_dialog();
                 });
@@ -584,20 +554,137 @@
 
                 
 
-                $('.logo_header').hover(function () {
-                    $(this).css('background-image', 'url(/static/images/get.com_selected.ns.png)');
-                }, function () {
-                    $(this).css('background-image', 'url(/static/images/get.com.ns.png)');
-                });
-
                 $('.topic_header_container').hover(function () {
                     $(this).css('background-color', '#777');
                 }, function () {
                     $(this).css('background-color', '#666');
                 });
 
-                
+                $('.show_comment_reply_box').live('click', function (event) {
+                    event.preventDefault();
+                    var comment_id = $(this).attr('comment_id');
 
+                    var comment_reply_box = $('#comment_reply_box_' + comment_id);
+
+                    // signin required
+                        
+                            JST.signin_required('comment');
+                            return;
+                        
+                    // signin required
+
+
+                    comment_reply_box.show();
+                    comment_reply_box.find('textarea').focus();
+                });
+
+                $('.hide_comment_reply_box').live('click', function (event) {
+                    event.preventDefault();
+                    var comment_id = $(this).attr('comment_id');
+
+                    $('#comment_reply_box_' + comment_id).hide();
+                });
+
+                $('.edit_comment_show_button').live('click', function (event) {
+                    event.preventDefault();
+
+                    var comment_id = $(this).attr('comment_id');
+
+                    $('.edit_comment_show_' + comment_id).show();
+                    $('.edit_comment_hide_' + comment_id).hide();
+                    $('#edit_comment_textarea_' + comment_id).focus();
+                });
+
+                $('.edit_comment_hide_button').live('click', function (event) {
+                    event.preventDefault();
+
+                    var comment_id = $(this).attr('comment_id');
+
+                    $('.edit_comment_hide_' + comment_id).show();
+                    $('.edit_comment_show_' + comment_id).hide();
+                });
+
+                $('.vote_button').live('click', function (event) {
+                    event.preventDefault();
+
+                    // signin required
+                    
+                        JST.signin_required('vote');
+                        return;
+                    
+                    // signin required
+
+                    var undo = false;
+
+                    var click_status = $(this).attr('click_status');
+                    var direction = $(this).attr('direction');
+                    var target_id = $(this).attr('target_id');
+                    var target_type = $(this).attr('target_type');
+
+                    if (click_status === 'unclicked') {
+                        $(this).attr('click_status', 'clicked');
+                    } else if (click_status === 'clicked') { // clicked again
+                        $(this).attr('click_status', 'unclicked');
+                        undo = true;
+                    }
+
+                    var params = {
+                        'target_id' : target_id,
+                        'target_type' : target_type,
+                        'direction' : direction,
+                        'undo' : undo
+                    };
+
+                    var points_box = $('#vote_' + target_type + '_points_box_' + target_id);
+
+                    var up_image = $('#vote_' + target_type + '_image_up_' + target_id);
+                    var down_image = $('#vote_' + target_type + '_image_down_' + target_id);
+
+                    var up_button = $('#vote_' + target_type + '_button_up_' + target_id);
+                    var down_button = $('#vote_' + target_type + '_button_down_' + target_id);
+
+                    var points = parseInt(points_box.attr('points'));
+
+                    if (direction === 'up') {
+
+                        if (undo) {
+                            up_button.attr('click_status', 'unclicked');
+                            up_image.attr('src', '/static/images/uparrow.png');
+                        } else {
+                            points += 1;
+                            up_button.attr('click_status', 'clicked');
+                            up_image.attr('src', '/static/images/uparrow_clicked.png');
+                        }
+
+                        down_button.attr('click_status', 'unclicked');
+                        down_image.attr('src', '/static/images/downarrow.png');
+
+                    } else if (direction === 'down') {
+
+                        if (undo) {
+                            down_button.attr('click_status', 'unclicked');
+                            down_image.attr('src', '/static/images/downarrow.png');
+                        } else {
+                            points -= 1;
+                            down_button.attr('click_status', 'clicked');
+                            down_image.attr('src', '/static/images/downarrow_clicked.png');
+                        }
+
+                        up_button.attr('click_status', 'unclicked');
+                        up_image.attr('src', '/static/images/uparrow.png');
+                    }
+
+                    points_box.text(points + ' points');
+
+                    if (!undo) {
+                        mpq.push(['track', 'Vote ' + direction + ' ' + target_type ]);
+                        _gaq.push(['_trackEvent', 'User Action', 'Vote ' + direction + ' ' + target_type]);
+                    }
+
+                    $.post('/vote', params, function (response) {
+                        // nothing
+                    }, 'json');
+                });
 
 
             // end of ready()
@@ -617,96 +704,54 @@
 
 
 
-<div style="position: fixed; background-color: #333; height: 50px; z-index: 99999; width: 100%; left: 0px; top: 0px;">
-<table width="960" align="center" border="0" cellpadding="0" cellspacing="0">
+<div style="position: fixed; background-color: #004780; height: 50px; z-index: 99998; width: 100%; left: 0px; top: 0px;">
+<table width="960" align="center" cellpadding="0" cellspacing="0">
 <tbody><tr>
     <td width="134" align="left" valign="bottom">
-        <div class="logo_header" style="height: 50px; width: 134px; background-image: url(/static/images/get.com.ns.png);">
-            <a class="header_link" href="/all" style="display: block; padding: 20px;">&nbsp;</a>
-        </div>
-    </td>
-    <td width="134" align="left" valign="bottom">
-        <a class="ask_question_header_link" title="Ask Question" href="/ask"><img height="50" width="134" class="ask_question_header" src="/static/images/ask_question_header.ns.png" alt="Ask question"></a>
-    </td>
-    <td width="134" align="left" valign="bottom">
-        <a href="/leaderboard"><img height="50" width="134" class="leaderboard_header" src="/static/images/leaderboard_header.ns.png" alt="View Leaderboard"></a>
-    </td>
-
-    <td align="left" valign="middle">
-
-        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-            <td align="center" valign="bottom">
-
-                <form id="header_search_form" action="/s" method="GET">
-                <input type="text" id="q" name="q" style="background-color: #666; color: #f9f9f9; width: 200px; font-size: 12px; border: 1px solid #999; padding-left: 3px; padding-right: 0; margin-right: 0;" autocomplete="off" class="ui-autocomplete-input" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-                </form>
-            </td>
-            
-        </tr>
-        </tbody></table>
-    </td>
-
-    <td align="right" valign="middle" style="color: #f9f9f9;">
         
-            <a class="ss_header_button" href="#" style="color: #f9f9f9; text-decoration: underline;">Sign in</a> / <a class="ss_header_button" href="#" style="color: #f9f9f9; text-decoration: underline;">Sign up</a>
+            <a id="logo_header_button" href="/"></a>
+        
+    </td>
+    
+    <td width="135" align="left" valign="bottom">
+        <a id="products_header_button" href="/" title="Product Search"></a>
+        
+    </td>
+    <td width="135" align="left" valign="bottom">
+        <a id="community_header_button" href="http://get.com/community" title="Community"></a>
+    </td>
+
+    <td width="175" align="left" valign="middle" style="padding-top: 8px;">
+
+        
+            <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+                <td align="center" valign="bottom">
+                    <form id="header_search_form" action="/s" method="GET">
+                    <input type="text" id="q" placeholder="Community search" name="q" style="background-color: #f9f9f9; color: #333; width: 165px; margin-right: 10px; font-size: 12px;  -moz-border-radius: 3px; -webkit-border-radius: 3px; border: none; padding: 3px;" autocomplete="off">
+                    </form>
+                </td>
+            </tr>
+            </tbody></table>
+        
+    </td>
+    
+
+    <td align="right" valign="middle" style="color: #f9f9f9; padding-top: 8px;">
+
+        
+            
+            <button class="ss_button"><span style="font-size: 14px;">Sign up / Sign in</span></button>
         
     </td>
 </tr>
 </tbody></table>
 
 
-<div style="background-color: #666; width: 100%;">
-    <table width="960" align="center" border="0" cellspacing="0" cellpadding="4">
-    <tbody><tr>
-        <td width="100" align="left" valign="middle" class="topic_header_container">
-            
-                &nbsp; <a style="font-size: 14px; color: #ddd;" href="/all">All</a>
-            
-        </td>
 
-        
-            <td width="152" align="left" valign="middle" class="topic_header_container">
-                &nbsp; <a style="color: #ddd;font-size: 14px;" href="/Technology">Technology</a>
-
-            </td>
-
-            
-        
-            <td width="152" align="left" valign="middle" class="topic_header_container">
-                &nbsp; <a style="color: #ddd;font-size: 14px;" href="/Automotive">Automotive</a>
-
-            </td>
-
-            
-        
-            <td width="152" align="left" valign="middle" class="topic_header_container">
-                &nbsp; <a style="color: #ddd;font-size: 14px;" href="/Photography">Photography</a>
-
-            </td>
-
-            
-        
-            <td width="152" align="left" valign="middle" class="topic_header_container">
-                &nbsp; <a style="color: #ddd;font-size: 14px;" href="/Makeup_Beauty">Makeup &amp; Beauty</a>
-
-            </td>
-
-            
-        
-            <td width="152" align="left" valign="middle" class="topic_header_container">
-                &nbsp; <a style="color: #ddd;font-size: 14px;" href="/Parenting">Parenting</a>
-
-            </td>
-
-            
-        
-        <td width="100" align="left" valign="middle" class="topic_header_container">
-            <a style="font-size: 14px; color: #ddd;" href="/topic">Topics »</a>
-        </td>
-    </tr>
-    </tbody></table>
+<div style="background-image: url(http://static.get.com/static/images/header_bottom_bg.png); background-repeat: repeat-x; height: 6px; width: 100%;">
 </div>
+
 
 
 
@@ -718,24 +763,22 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-<table width="960" align="center" cellspacing="0" cellpadding="0" border="0" style="margin-top: 76px;">
+<table width="960" align="center" cellspacing="0" cellpadding="0" border="0" style="margin-top: 60px; -moz-box-shadow: 0 1px 10px rgba(0,0,0,0.3); -webkit-box-shadow: 0 1px 10px rgba(0,0,0,0.5);  -moz-border-radius: 8px 8px 0 0; -webkit-border-radius: 8px 8px 0 0; ">
 <tbody><tr>
-    <td align="left" valign="top" style="padding-left: 10px; border-top: 0;background-color: #fff; border: 2px solid #ddd; padding-bottom: 100px;">
+    <td align="left" valign="top" style="padding-left: 10px;background-color: #fff; padding-bottom: 100px;  -moz-border-radius: 8px 8px 0 0; -webkit-border-radius: 8px 8px 0 0; border-bottom: 0;">
+
 <!-- content -->
 
 
 
 <br>
+
+
+
+
+
+
+
 
 
 
@@ -942,31 +985,32 @@
 </tbody></table>
 
 
-<br>
 
-
-<br>
-<br>
-
-<div style="margin-top: 300px; width: 100%;">
-
-    <table width="100%" align="center" cellspacing="0" cellpadding="5" style="background-color: #ddd; border-top: 1px solid #aaa; border-bottom: 1px solid #aaa; height: 400px;">
+    <table width="960" align="center" cellspacing="0" cellpadding="5" style="height: 400px; background-color: #ddd; -moz-box-shadow: 0 1px 10px rgba(0,0,0,0.3); -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.5);">
     <tbody><tr>
         <td width="100%" align="center" valign="top">
 
-            <table align="center" cellspacing="0" cellpadding="5" border="0"> 
+            
+
+
+
+    
+
+
+<table align="center" cellspacing="0" cellpadding="5" border="0"> 
 <tbody><tr> 
 
     <td align="center" valign="middle"> 
         <iframe src="https://www.facebook.com/plugins/like.php?app_id=129431260481168&amp;href=http%3A%2F%2Fwww.facebook.com%2Fgetdotcom&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
     </td>
 
+    
+
     <td align="center" valign="middle"> 
-        <div style="width: 160px;">
-            <a href="https://twitter.com/Getdotcom" class="twitter-follow-button" data-show-count="false">@Getdotcom</a>
-            <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-        </div>
+            <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=getdotcom&amp;show_screen_name=false" style="width: 98px; height: 20px; border-right: 1px solid #ccc;"></iframe>
     </td>
+
+    
 
     <td align="center" valign="middle"> 
         <div id="footer-plusone-div"></div>
@@ -977,7 +1021,7 @@
             gapi.plusone.render('footer-plusone-div', {
                 href : 'http://get.com',
                 size : 'standard',
-                count : false
+                count : true
             });
         </script>
     </td>
@@ -986,11 +1030,14 @@
 
 
 
-            <br>
-            <a href="http://www.startupamericapartnership.org"><img src="/static/images/press/startupamerica_small.png"></a>
-            <br>
-            <br>
 
+
+            
+
+            <a href="/">Products</a>
+                <span style="color: #999;">·</span>
+            <a href="/community">Community</a>
+                <span style="color: #999;">·</span>
             <a href="/press">Press</a>
                 <span style="color: #999;">·</span>
             <a href="/contact">Contact</a>
@@ -1004,213 +1051,18 @@
             <a href="/terms_of_service">Terms of Service</a>
 
             <br>
-            <span style="font-size: 10px;">All content copyright © 2011 Get.com, Inc. -- All rights reserved.</span>
+            <span style="font-size: 10px;">All content copyright © 2011-2012 Get.com, Inc. -- All rights reserved.</span>
 
 
 
-            <table width="70%" align="center" style="margin-top: 80px;">
-            <tbody><tr>
-                <td width="100%" align="center" valign="top">
-                    
+            
 
-                        <a href="/Watches">Watches</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Software">Software</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Automotive">Automotive</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Sports_Outdoors">Sports &amp; Outdoors</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Makeup_Beauty">Makeup &amp; Beauty</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Shoes">Shoes</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Parenting">Parenting</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/PC_Hardware">PC Hardware</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Apple">Apple</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Gaming">Gaming</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Mens_Fashion">Men's Fashion</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Music">Music</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Health_Fitness">Health &amp; Fitness</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Food">Food</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Movies">Movies</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/BestBuy">BestBuy</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Fashion">Fashion</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Technology">Technology</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Home_Garden">Home &amp; Garden</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Photography">Photography</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Books">Books</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Womens_Fashion">Women's Fashion</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/Guns">Guns</a>
-
-                        
-                            &nbsp;<span style="color: #666;">·</span>&nbsp;
-                        
-
-                    
-
-                        <a href="/iPad_iPhone">iPad &amp; iPhone</a>
-
-                        
-
-                    
-                </td>
-            </tr>
-            </tbody></table>
-
+            
 
         </td>
     </tr>
     </tbody></table>
-</div>
+
 
 
 
@@ -1251,7 +1103,7 @@
 <script type="text/javascript">
     var mpq = [];
     mpq.push(['init', '7e03ad75c9f8766306baaad98e909e1c']);
-    mpq.push(['name_tag', '204.236.226.210 / ia_archiver ']);
+    mpq.push(['name_tag', '207.241.237.209 / Mozilla/5.0 ']);
 
     
 
@@ -1269,15 +1121,15 @@
 
 
 
-<div style="display: none;">
-    <a href="http://mixpanel.com/f/partner"><img src="https://mixpanel.com/site_media/images/partner/badge_blue.png" alt="Web Analytics"></a>
-</div>
+
+
+
 
 <div id="ss_dialog" style="display: none; padding: 0;">
-    <table width="100%" align="center" border="0" cellpadding="5" cellspacing="0" style="background-color: #333;">
+    <table width="100%" align="center" border="0" cellpadding="5" cellspacing="0" style="background-color: #004780;">
 <tbody><tr>
     <td width="140" align="left" valign="bottom">
-        <img src="/static/images/get.com.logo.png">
+        <img src="/static/images/get.com.logo.png?cb=1">
     </td>
     <td align="left" valign="middle" style="font-size: 14px; color: #eee;">
         &nbsp;
@@ -1293,46 +1145,33 @@
 
         <h2 style="border-bottom: 1px solid #ddd; font-weight: bold;">Create a new account</h2>
 
-
-        • We hate SPAM too.
-        <br>
-        • We only post to Facebook/Twitter with your knowledge.
-        <br>
+        <div style="margin-top: 5px;">
+            ✔ We hate SPAM too.
+            <br>
+            ✔ We only post to Facebook/Twitter with your knowledge.
+        </div>
         <br>
 
         <div id="third_party_box" style="width: 100%;">
             <center>
-                <a tabindex="-1" class="twitter_login_button" href="#"><img src="/static/images/twitter_connect.png"></a>
+                <a tabindex="-1" class="twitter_login_button" href="#"><img src="/static/images/twitter_connect.png" alt="Twitter Connect"></a>
+                <br>
                 <br>
 
+                <a tabindex="-1" class="facebook_login_button" href="#"><img src="/static/images/facebook_connect_small.png" alt="Facebook Connect"></a>
+
                 <br>
-                <a tabindex="-1" class="facebook_login_button" href="#"><img src="/static/images/facebook_connect_small.png"></a>
-                </center>
+                <br>
+
+                <a id="oldschool_button" tabindex="-1" href="#" style="font-size: 18px; font-weight: bold;"><img src="/static/images/email_connect.png" alt="Sign up using Email"></a>
+
+            </center>
             
         </div>
 
         <br>
 
-        <div id="ss_or_box">
-            <table width="100%" align="center">
-            <tbody><tr>
-                <td width="48%" align="center" valign="middle">
-                    <div style="margin-top: 5px; width: 100%; border-top: 1px solid #ddd;"></div>
-                </td>
-                <td width="4%" align="center" valign="middle">
-                    <span style="font-size: 14px; color: #666;">or</span>
-                </td>
-                <td width="48%" align="center" valign="middle">
-                    <div style="margin-top: 5px; width: 100%; border-top: 1px solid #ddd;"></div>
-                </td>
-            </tr>
-            </tbody></table>
-            
-            <center>
-                <br>
-                <a id="oldschool_button" tabindex="-1" href="#" style="font-size: 18px; font-weight: bold;">Sign up using email</a>
-            </center>
-        </div>
+        
 
     </td>
 
@@ -1343,6 +1182,9 @@
 
             <br>
             
+
+            
+
             
             <br>
 
@@ -1369,7 +1211,7 @@
             </tr>
             <tr>
                 <td colspan="2" width="100%" align="right" valign="top">
-                    <button tabindex="-1" type="submit" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Sign in</span></button>
+                    <button tabindex="-1" type="submit">Sign in</button>
                 </td>
             </tr>
             </tbody></table>
@@ -1386,7 +1228,7 @@
 </div>
 
 <div id="quick_signup_dialog" style="display: none; padding: 0;">
-    <table width="100%" align="center" border="0" cellpadding="5" cellspacing="0" style="background-color: #333;">
+    <table width="100%" align="center" border="0" cellpadding="5" cellspacing="0" style="background-color: #004780;">
 <tbody><tr>
     <td width="135" align="left" valign="bottom">
         <img src="/static/images/get.com.logo.png">
@@ -1415,12 +1257,12 @@
         </tr>
         <tr>
             <td width="100%" align="left" valign="middle">
-                <input tabindex="-1" id="quick_signup_email" name="email" type="text" size="35" style="padding: 4px; font-size: 16px; width: 280px; color: rgb(153, 153, 153);" default_text="you@example.com">
+                <input tabindex="-1" id="quick_signup_email" name="email" type="text" size="35" style="padding: 4px; font-size: 16px; width: 280px;" placeholder="you@example.com">
             </td>
         </tr>
         <tr>
             <td width="100%" align="left" valign="top">
-                <button tabindex="-1" type="submit" style="width: 290px;" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text"><span style="font-size: 22px;">Continue »</span></span></button>
+                <button tabindex="-1" type="submit" style="width: 290px;"><span style="font-size: 22px;">Continue »</span></button>
                 <div style="font-size: 10px;">
                     By clicking "Continue" you agree to our <a style="font-size: 10px;" tabindex="-1" href="/terms_of_service">Terms of Service</a>
                 </div>
@@ -1450,12 +1292,12 @@
     </tr>
     <tr>
         <td width="100%" align="left" valign="top">
-            <textarea name="body" style="width: 570px; max-width: 560px; height: 80px; max-height: 80px; overflow: hidden;"></textarea>
-        <div style="position: absolute; display: none; overflow-wrap: break-word; font-weight: 400; width: 570px; font-family: &quot;Helvetica Neue&quot;, Helvetica, sans-serif; line-height: normal; font-size: 13.3333px; padding: 2px;">&nbsp;</div></td>
+            <textarea name="body" style="width: 570px; max-width: 560px; height: 80px; max-height: 80px;"></textarea>
+        </td>
     </tr>
     <tr>
         <td width="100%" align="right" valign="top">
-            <button type="submit" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Send</span></button>
+            <button type="submit">Send</button>
         </td>
     </tr>
     </tbody></table>
@@ -1463,9 +1305,12 @@
     </form>
 </div>
 
+<br>
 
 
 
 
 
-<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 100000; top: 0px; left: 0px; display: none;"></ul></body></html>
+
+
+</body></html>
