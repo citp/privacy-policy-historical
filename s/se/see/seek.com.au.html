@@ -1,15 +1,19 @@
-<!--The following is the downloaded HTML source of the seek.com.au privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231174731id_/http%3A//www.seek.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seek.com.au privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617221235id_/http%3A//www.seek.com.au/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head> 
-  
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head> 
+    
     <title>SEEK - Privacy Statement</title>
+    
+    <meta name="viewport" content="width=1024, user-scalable=1">
+
     <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <meta name="description" content="The SEEK Privacy Statement outlines SEEK's commitment to protecting the privacy of SEEK jobseekers and advertisers.">
     <meta name="keywords" content="privacy statement, privacy policy, spam, junk mail, junkmail, emails from seek, newsletters from seek">
     <meta name="robots" content="">
     <link rel="image_src" type="image/gif" href="/content/images/logos/logo_seek.gif">
+    <link rel="shortcut icon" href="/favicon4.ico" type="image/x-icon">
     <!--[if ie]><meta http-equiv="X-UA-Compatible" content="IE=8" /><![endif]-->
     
     
@@ -17,9 +21,17 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 //<![CDATA[
     var _gaq = _gaq || [];
+
+    // Return numbers from title, only if starts with number, convert to integar
+    var _pageTitle = parseInt(document.title, 10);
     _gaq.push(['_setAccount', 'UA-11744703-1']);
-    _gaq.push(['_trackPageview']);
-    _gaq.push(['_trackPageLoadTime']);
+
+    // Check if sliced Title is an integar, if it is append to current page URL
+    if (!isNaN(+_pageTitle)) {
+        _gaq.push(['_trackPageview', location.pathname + '#' + _pageTitle]);
+    } else {
+        _gaq.push(['_trackPageview']);
+    }
     (function () {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -27,27 +39,34 @@
     })();
 //]]>
 </script>
-<!-- END Google Analytics --><script type="text/javascript" src="/Resource/GlobalScript-JQuery.20111208170902.js"></script>
-    <link rel="stylesheet" type="text/css" href="/Resource/GlobalCSS.20111213080112.css">
+<!-- END Google Analytics --> 
+<script type="text/javascript" src="/Resource/GlobalScript-JQuery.20120612104522.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://cdn.seek.com.au/Resource/GlobalCSS.20120613120019.css">
     
     
-    <link rel="stylesheet" type="text/css" href="/Resource/MainContentOnlyCSS.20111208170854.css">
+    <link rel="stylesheet" type="text/css" href="/Resource/MainContentOnlyCSS.20120612104512.css">
 
     <!--[if IE 9]>
-	    <link rel='stylesheet' type='text/css' href='/Resource/IE9CSS.20111128105600.css' />
+	    <link rel='stylesheet' type='text/css' href='/Resource/IE9CSS.20120612104512.css' />
     <![endif]-->
     <!--[if IE 8]>
-	    <link rel='stylesheet' type='text/css' href='/Resource/IE8CSS.20111208170854.css' />
+	    <link rel='stylesheet' type='text/css' href='/Resource/IE8CSS.20120612104512.css' />
     <![endif]-->
     <!--[if IE 7]>
-	    <link rel='stylesheet' type='text/css' href='/Resource/IE7CSS.20111208170854.css' />
+	    <link rel='stylesheet' type='text/css' href='/Resource/IE7CSS.20120612104512.css' />
     <![endif]-->
     <!--[if IE 6]>
-	    <link rel='stylesheet' type='text/css' href='/Resource/IE6CSS.20111208170854.css' />
+	    <link rel='stylesheet' type='text/css' href='/Resource/IE6CSS.20120612104512.css' />
     <![endif]-->
 
+    <link rel="stylesheet" type="text/css" href="/Resource/SMACSS.20120613110802.css">
 
+    <script type="text/javascript">
     
+
+        SEEK.Global.PreCacheContentCacheDurationInMinutes = 240;
+        SEEK.Global.CorsCachingEnabled = SEEK.Global.PreCacheContentCacheDurationInMinutes > 0;
+    </script>
     </head>
 <body class="body-privacy Main au">
     
@@ -57,7 +76,7 @@ Copyright 1996-2010 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
 
 <script type="text/javascript">var s_account = 'seekskmauprd,seekglobalprd';</script>
-<script type="text/javascript" src="/Resource/OmnitureJS.20111208170902.js"></script>
+<script type="text/javascript" src="/Resource/OmnitureJS.20120612104522.js"></script>
 <!--[if IE 6]>
 
 <div id="upgradealertbox">
@@ -93,13 +112,21 @@ More info available at http://www.omniture.com -->
 
 <!--[if IE 7]>
 <div id="upgradealertbox">
-<a class="hide" href="javascript:SEEK.Cookie.hideContentCookie({cookie: 'UpdateBrowserMessage', target: '#upgradealertbox', expiry: '14' })">Hide</a>
+<a class="hide" href="javascript:SEEK.Cookie.hideContentCookie({cookie: 'UpdateBrowserMessage2', target: '#upgradealertbox', expiry: '7' })">Hide</a>
 	<div>
-	<h5>Upgrade your browser</h5>
-	<p>Internet Explorer 7 is getting a bit long in the tooth. We recommend you
-	
-	<a href="/browser/upgrade/upgrade-from-ie7">upgrade to a new browser</a> in order to get the most out of SEEK</p>
+	<h5>Your browser is no spring chicken anymore.</h5>
+	<p>SEEK is always working to bring you a better experience and your web browser is a huge part of that.<br/>
+Using a newer browser means that you can continue to get the most out of SEEK &amp; won't miss out on any new features.<br/> Upgrading is free and only takes a few minutes.<br/><br/>	
+	<a class="pink-btn-med" href="/browser/upgrade/upgrade-from-ie7"><strong>UPGRADE NOW</strong></a></p>
 	</div>
+     <div>   <h5>Upgrade to any of these for free:</h5>  
+            <ul>
+			    <li><a href="http://www.microsoft.com/windows/internet-explorer/" target="_blank">Microsoft Internet Explorer 8 or 9</a></li>
+                <li><a href="http://www.mozilla.com/firefox/" target="_blank">Mozilla FireFox</a></li>
+                <li><a href="http://www.google.com/chrome/" target="_blank">Google Chrome</a></li>
+                <li><a href="http://www.apple.com/safari/" target="_blank">Safari</a></li>
+            </ul>
+    </div>
 </div>
 
 <script type="text/javascript">
@@ -113,242 +140,382 @@ More info available at http://www.omniture.com -->
 <![endif]-->
 
 
-
 <script type="text/javascript">
 //<![CDATA[
-// DOM ready event.
-// Wire up the lightbox.
-// Link any login or register URL's.
-//
-$(document).ready(function() {
-    // Wire up the lightbox container.
-    SEEK.Global.lightbox = new SEEK.Lightbox(
-        "LightboxOverlay",
-        "LightboxContainer .LightboxModal",
-        "LightboxContainer .LightboxContent",
-        "LightboxContainer .LightboxModal span",
-        "LightboxIFrame");
-        
-    var navLoginLink = new SEEK.LightboxLink(
-        "#LoginLink",
-        "https://www.seek.com.au/Login?frame=True&returnUrl=%2Fprivacy&feature=Navigation&ParentPage=%2fprivacy",
-        286);
-        
-    var navRegisterLink = new SEEK.LightboxLink(
-        "#RegisterLink",
-        "https://www.seek.com.au/Register?frame=True&returnUrl=%2Fprivacy&feature=Navigation&ParentPage=%2fprivacy",
-        430);
-        
-    var loginLink = new SEEK.LightboxLink(
-        "#LoginLinkMyAcc, #LoginLinkMyAccPromo, #LoginLinkMyAccPromoHeading, #LoginLinkSave, #LoginLinkResume, #LoginLinkProfileLanding, #LoginLinkProfileResume",
-        "https://www.seek.com.au/Login?frame=True&returnUrl=%2Fprivacy&feature=Navigation&ParentPage=%2fprivacy",
-        286);
+    // Make a Get request of an action method to initiate the ssl handshake up front, if required.
+    SEEK.PingSsl = function() {
+        var currentSiteSslSupported = false;
+        var useSsl = false;
 
-    var registerLink = new SEEK.LightboxLink(
-        "#LoginLinkEmailMeJobs, #RegisterLinkJobMail, #RegisterLinkNotes, #RegisterLinkMyAcc, #RegisterLinkSave, #RegisterLinkSaveJSP",
-        "https://www.seek.com.au/Register?frame=True&returnUrl=%2Fprivacy&feature=Navigation&ParentPage=%2fprivacy",
-        430);
-        
-    var forgotPasswordLink = new SEEK.LightboxLink(
-        "#ForgotPasswordLink",
-        "/Login/ForgotPassword?frame=True&closeOnBack=True",
-        250);
+        if (currentSiteSslSupported) {
+            useSsl = SEEK.Global.RequireSSL && SEEK.Global.RequireSSLAllianceCoBrand;
+        } else {
+            useSsl = SEEK.Global.RequireSSL;
+        }
 
-    var searchTipsLinkUrl = ("http" == "https") ? "/Home/MoreSearchTipsSecure" : "/Home/MoreSearchTips";
-    var searchTipsLink = new SEEK.LightboxLink(
-        "#MoreSearchTips, #EmptyMoreSearchTips, #bottomMoreSearchTips",
-        searchTipsLinkUrl,
-        400);
-    
-    var jobMailHtmlExampleLink = new SEEK.LightboxLink(
-        "#JobMailHtmlLink",
-        "/MyAccount/ViewJobMailExample?isJobMailHtml=True",
-        640);
+        if (useSsl)
+        {
+            SEEK.Cors.getUrl("https://" + window.location.host + "/Home/Ping");        
+        }
+    };
 
-    var jobMailTextExampleLink = new SEEK.LightboxLink(
-        "#JobMailTextLink",
-        "/MyAccount/ViewJobMailExample?isJobMailHtml=False",
-        640);
-        
-    SEEK.Global.lightbox.registerLink(navLoginLink);
-    SEEK.Global.lightbox.registerLink(navRegisterLink);
-    SEEK.Global.lightbox.registerLink(loginLink);
-    SEEK.Global.lightbox.registerLink(registerLink);
-    SEEK.Global.lightbox.registerLink(forgotPasswordLink);
-    SEEK.Global.lightbox.registerLink(searchTipsLink);
-    SEEK.Global.lightbox.registerLink(jobMailHtmlExampleLink);
-    SEEK.Global.lightbox.registerLink(jobMailTextExampleLink);
-    
-
-
-});
+SEEK.PingSsl();
 //]]>
 </script>
+    
 
-<div id="LightboxOverlay"></div>
-<div id="LightboxContainer">
-  <div class="LightboxModal"><span></span>
-    <div class="LightboxContent">
-        <iframe id="LightboxIFrame" name="LightboxIFrame" class="lightbox-frame" scrolling="no" frameborder="0"></iframe>
-      </div>
-  </div>
+<div class="modal hide" id="lightboxModal">
+    <a href="#" class="close" data-dismiss="modal"></a>    
+    <div class="viewContent"></div>
 </div>
 
     <div id="bodyContainer">
         
 <div id="Header">
 
-<dl class="seek-network">
-    <dt>SEEK companies</dt>
-    <dd class="job selected-net" id="skjobsButton"><strong>Jobs</strong></dd>
-    
-    
-        <dd class="skl" id="sklNavButton"><a href="http://www.seeklearning.com.au/?CampaignCode=SEEK_BANNER_29" title="SEEK Learning">Courses</a></dd>
-    
-        <dd class="skcom" id="skcomButton"><a href="http://www.seekcommercial.com.au/?cid=sk:main:au:nav:bus" title="SEEK Commercial">Businesses for sale</a></dd>
-        <dd class="vol end-zone"><a href="http://www.volunteer.com.au/?cid=sk:main:au:nav:vol" title="SEEK Volunteer">Volunteering</a></dd>
-    
-    
-    <dt>SEEK zones</dt>
-    
-        <dd class="au selected-zone"><strong><span>AU</span></strong></dd>
-        <dd class="nz end-zone">
-            <a title="SEEK NZ" href="http://www.seek.co.nz?cid=sk:main:au:nav:nz"><span>NZ</span></a>
-        </dd>
-    
-</dl>
+<div class="mod-navigation state-horizontal state-sites-nav">
+    <div class="l-row">
+        <ul class="state-subsites-nav">
+            <li class="state-jobs active">
+               <a class="is-active">Jobs</a>
+            </li>
+            <li class="state-learning">
+                <a href="http://www.seeklearning.com.au/?CampaignCode=SEEK_BANNER_29" title="SEEK Learning">Courses</a>
+            </li>
 
-    <span id="SeekLogo" class="AU-Main"></span><a href="/">SEEK home</a>
-
-    <div class="welcome-bar">
-        
-<span id="Login">
-
-    <span id="loggedInName">
- 
-    <a href="https://www.seek.com.au/Login?frame=False&amp;returnUrl=%2Fprivacy&amp;feature=Navigation&amp;ParentPage=%2fprivacy" id="LoginLink">Sign in</a> |
-
-    </span>
-    <a href="/Login/Logout" id="LogoutLink" style="display: none">Sign out</a>
-    <a href="https://www.seek.com.au/Register?frame=False&amp;returnUrl=%2Fprivacy&amp;feature=Navigation&amp;ParentPage=%2fprivacy" id="RegisterLink" style="display: inline">Register</a>
-</span>
-
+            
+            
+                <li class="state-commercial">
+                    <a href="http://www.seekcommercial.com.au/?cid=sk:main:au:nav:bus" title="SEEK Commercial">Businesses for sale</a>
+                </li>
+                <li class="state-volunteer">
+                    <a href="http://www.volunteer.com.au/?cid=sk:main:au:nav:vol" title="SEEK Volunteer">Volunteering</a>
+                </li>
+            
+        </ul>
+        <div class="mod-switch">
+            
+                <span class="is-selected">AU</span><a title="SEEK NZ" href="http://www.seek.co.nz?cid=sk:main:au:nav:nz">NZ</a>
+            
+        </div>
     </div>
+</div>
+
+
+<div class="l-row l-inner-row mod-banner">
+    
+        <a href="http://www.seek.com.au" class="AU-Main mod-logo">SEEK home</a>
     
 
-<dl id="SeekNav">
-    <dt>SEEK navigation</dt>
-    <dd><a href="/?cid=sk:main:au:tab:jobs">Job Search</a></dd><dd><a href="/150kjobs?cid=sk:main:au:tab:150k">$150k+ Jobs</a></dd><dd><a href="https://www.seek.com.au/MyAccount?cid=sk:main:au:tab:myacct">My Account &amp; JobMail</a></dd><dd class="selected-tab"><a href="/jobs-resources/?cid=sk:main:au:tab:tools">Salary, Advice &amp; Tips</a></dd>
+
+
+<span id="loggedInName" class="mod-caption">
+
+    <a href="https://www.seek.com.au/Login?frame=False&amp;returnUrl=%2Fprivacy&amp;feature=Navigation" id="LoginLink" data-target="#lightboxModal" class="modals">Sign in</a> or
+    <a href="https://www.seek.com.au/Register?frame=False&amp;returnUrl=%2Fprivacy&amp;feature=Navigation" id="RegisterLink" data-target="#lightboxModal" class="modals">Register</a>
+
+</span>
     
-    <dd class="advertisers">
-        <a href="http://advertiser.seek.com.au/advertisers/?cid=sk:main:au:tab:adv">ADVERTISERS<br>Post a Job Ad</a>
-    </dd>
-</dl>
+
+
+</div>
+
+
+<div class="l-row l-outer-row mod-navigation state-horizontal state-main-nav">
+    <ul class="">
+        <li class=""><a href="http://www.seek.com.au/?cid=sk:main:au:tab:jobs">Job Search</a></li>
+
+        
+        <li class=""><a href="http://www.seek.com.au/150kjobs?cid=sk:main:au:tab:150k">$150k+ Jobs</a></li>
+        
+
+        <li class=""><a href="https://www.seek.com.au/MyAccount?cid=sk:main:au:tab:myacct">My Account &amp; Tools</a></li>
+
+        <li class="active"><a href="http://www.seek.com.au/jobs-resources/?cid=sk:main:au:tab:tools">Salary, Advice &amp; Tips</a></li>
+    </ul>
+    <a class="mod-btn-advertiser state-floatright state-push-in" href="http://advertiser.seek.com.au/advertisers/?cid=sk:main:au:tab:adv"><span>ADVERTISERS<br>Post jobs here</span></a>
+</div>
 
 </div>
 
     
+
+        <div class="privacy mod-section state-section-page l-clearfix l-row">
+            
     
-
-<div id="Divider"><span class="divider-lt"></span><span class="divider-rt"></span></div>
-        <div class="privacy main-page">
-            
-    <div class="seeker-frame">
         
-        <div class="content">
-            
-  <h1>SEEK's Privacy Statement</h1>
-  <h2>SEEK's commitment to maintaining your privacy</h2>
-  <p>SEEK's Privacy Statement has been created because we value our users and recognise their right to keep personal information private. This statement discloses our information gathering and dissemination practices for all sites managed by SEEK.</p>
-  <h2>Collecting information on SEEK visitors</h2>
-  <p> SEEK collects information on our site visitors collectively including which sections of the site are most frequently visited, how often and for how long. This data is always used as aggregated, non-personal information. SEEK utilises this information to improve and enhance our services by monitoring the areas on the site which are most popular to you. This aggregated information may be shared with SEEK partners to provide them with an overview of how SEEK visitors use the site. This is done for the purposes of providing you with the best online career management services. </p>
-  <h3>IP Addresses</h3>
-  <p>SEEK's web servers gather your IP address to assist with the diagnosis of problems or support issues with our services, and to monitor legitimate use of our site. </p>
-  <h3>Cookies &amp; Applets</h3>
-  <p>SEEK uses cookies to provide you with a better experience. These cookies and applets allow you to use specific services such as Job Mail (an alert service which emails your chosen jobs), Application Tracker (to manage your SEEK job applications), to remember who you are for Auto Login if you choose this option and to remember your last search criteria for My Last Search. </p>
-  <p>Users who do not wish to receive cookies can instruct their web browsers to refuse them. However, doing so will prevent access to some areas of the site and limit your use of some of the SEEK services.</p>
-  <h3> Third Party Measurement</h3>
-  <p>In order to better understand our users, SEEK utilises a third party measurement company, <a href="http://www.nielsen-netratings.com" target="_blank">Nielsen//NetRatings</a> to assess site traffic. A tracking code is used to collect the following information on the usage of the SEEK site:</p>
-  <ul>
-    <li>The number of page views (or page impressions) that occur on SEEK;</li>
-    <li>The number of unique visitors to SEEK;</li>
-    <li>How long these unique visitors (on average) spend on SEEK when they do visit; and</li>
-    <li>Common entry and exit points into SEEK.</li>
-  </ul>
-  <p>This aggregate, non-personal information is collated and provided to SEEK to assist in analysing the usage of the site. This data is also accessible by media organisations and research companies, for the purpose of conducting industry comparisons with other Internet websites.</p>
-  <h2>Collecting information on SEEK Registered '<a href="/MyAccount">My Account</a>' Members </h2>
-  <p>As part of registering with SEEK, we collect personal information about you in order for you to take full advantage of SEEK's services. To do this it may be necessary for you to provide additional information to SEEK as detailed below.</p>
-  <h3> Registration</h3>
-  <p>Registration is completely optional. However, registration for '<a href="/MyAccount">My Account</a>' services allows you to take advantage of more of the tools and resources that assist you in finding a job. Registration includes submitting your email address. You may access this information at any time by clicking 'My Details' on '<a href="/MyAccount">My Account</a>', or by clicking here.</p>
-  <h3>Job Mail</h3>
-  <p>Job Mail is an optional service. SEEK requests that you provide information relating to your employment preferences as well as your email address so that we may notify you via email of jobs specific to your needs. Users can modify or delete their Job Mail profiles at any time by going to the '<a href="/MyAccount">My Account</a>' area of the site.</p>
-  <h3>Storing your resume</h3>
-  <p>SEEK registered members may elect to store up to 10 resumes in their 'My Account' area, and use those resumes when applying for a job. Deleting a resume from My Account will mean it is no longer accessible to the registered member. Please note that deleted records may still be stored by SEEK in testing or backup systems for a period of time.</p>
-  <h3>SEEK Profile</h3>
-  <p>SEEK provides registered  members with the option of creating a personal profile. A profile includes your  resume, employment and educational history, contact details, minimum salary  expectation and the classifications and locations ('Profile') registered members would like to work in. Registered members can choose to allow their Profile to be seen by SEEK clients who place  job ads in matching classifications&nbsp; and locations. &nbsp;Registered  members' Profiles will remain&nbsp; anonymous  until the SEEK client purchases access to a registered members resume and  contact details. SEEK provides registered members with the following privacy  options in relation to the access allowed to their Profile:</p>
-  <ul>
-    <li><strong>Provide resume and contact  details immediately</strong>
-      <p>When a SEEK client purchases a registered  member’s Profile that resume and the  contact details in that resume will be emailed immediately to the relevant SEEK  client.</p>
-    </li>
-    <li><strong>Check with me before providing  my resume and contact details </strong>
-      <p>When a SEEK client purchases a Profile, SEEK will  send the relevant registered member an email with the job advertisement the SEEK client is considering the registered  member for, and that registered member can  decide whether to release their resume and contact details to that client or  not.</p>
-    </li>
-    <li><strong>Hide or delete Profile</strong>
-      <p>Registered members can elect to hide their Profile, so SEEK clients cannot see Private Profile at  all, whilst allowing the Profile to be stored in the My Account area of the site. Alternatively Registered Members can elect to delete their Profile. Deleting a Profile from the My Account area of the site will mean it is  no longer accessible to the registered member. Please note that deleted  Profiles may still be stored by SEEK in testing or backup systems for a period  of time. </p>
-    </li>
-  </ul>
-  <p>All information provided  when creating a Profile including name, resume, email address, telephone  numbers, employment and educational history are used for the purposes of  facilitating registered members job seeking efforts. </p>
-  <p>Registered Members can  modify, hide or delete their resume at any time by going to the '<a href="/MyAccount">My Account</a>'  area of the site.</p>
-  <p>SEEK reserves the right  to disable or delete a Profile at their sole discretion. </p>
-  <h3>Online Applications</h3>
-  <p>Making an online application to a job advertisement on SEEK is a free and optional service that does not require registration. Job applications require you to complete mandatory fields (first name, last name, phone and email) so that the advertiser can identify and contact you. Your application, including attachments and cover letters, are forwarded directly on to the third party advertiser. This information may also be disclosed to SEEK's service providers and contractors from time to time who assist us to deliver our products and services. </p>
-  <p> By applying to a position advertised on SEEK you are requesting that SEEK pass the information to the Advertiser as a part of your application. </p>
-  <p>Additionally, you have the right to request your personal information direct from Advertisers on SEEK.</p>
-  <h2>Collecting Salary Survey information</h2>
-  <p>As part of providing an independent salary resource for job seekers, SEEK will encourage the public to participate in The Great Australian Salary Survey.  Survey responses will be stored and the aggregated data used for general online searching and reporting purposes only.  Individual responses will not be personally identifiable.  No contact information will be collected.  Salary survey responses will be submitted anonymously.</p>
-  <p>The only contact information that is collected will be in relation to survey respondents registering for the competition prize draw and/or signing up to be notified when the Salary Reports are available.  Providing email address information will not be associated with your survey responses and is completely optional.</p>
-  <h2>Email communications from SEEK</h2>
-  <p>SEEK also provides you with selected information about job seeking and career-related topics in our email newsletter SEEK News Update. This free service is sent to registered users and provides the option of opting out of receiving these by changing your preferences in 'My Account'. SEEK may also make you aware of additional products and services which form part of your relationship with SEEK.</p>
-  <h2>Storage &amp; Security of Personal Information</h2>
-  <p>SEEK takes all reasonable steps to ensure the security of our system. SEEK allows you to access your information at any time to keep it accurate and up to date. Any information which we hold for you is stored on secure servers that are protected in controlled facilities. </p>
-  <p>In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by SEEK. However, SEEK will not be held responsible for events arising from unauthorised access of your personal information. </p>
-  <p>You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the SEEK site. Please <a href="mailto:userhelp@seek.com.au">notify us immediately</a> if there is any unauthorised use of your account by any other Internet user or any other breach of security.</p>
-  <h2>Access to Your Information</h2>
-  <p>As indicated in point 2, unless you become a registered '<a href="/MyAccount">My Account</a>' user, SEEK does not collect information that identifies you personally. If however, you become a SEEK registered user, you are able to change, update or delete your registered profile at any time by logging in to <a href="/MyAccount">My Account</a>. You can also request your personal information directly from Advertisers who you have applied to on the site.</p>
-  <h2>SEEK Partners &amp; Advertisers</h2>
-  <p>SEEK provides links and passes online application to third party sites. The use of your information by these third party sites is not within the control of SEEK and we cannot accept responsibility for the conduct of these companies.
-  <br><br>
-  With the consent of SEEK's registered members, SEEK may provide that  member's personal profile to SEEK clients who have placed job ads with matching classifications  and locations to the registered member's profile and who have purchased access to the member's profile.. The use of that information by these SEEK clients is not within the control of SEEK and we cannot accept responsibility for the conduct of these clients.
-  <br><br>
-  SEEK clients  who place job ads on SEEK, and who purchase SEEK registered members' profiles  are asked to comply with Australian federal privacy policy with regard to their own information handling practices.</p>
-  <p>You may also directly contact advertisers to request access to any personal information that you have sent as part of an application  or as part of a profile.</p>
-  <h2>Transborder data flows</h2>
-  <p>Sometimes, we transfer information to persons outside Australia (e.g. a contractor located in the USA who provides us with services). By giving us your personal information, you consent to such disclosures. In addition, we believe that the recipients of such information are subject to a law, binding scheme or contract which effectively upholds principles for fair handling of the information that are substantially similar to the National Privacy Principles. </p>
-  <h2>Feedback</h2>
-  <p>SEEK welcomes ideas and feedback about all aspects of the site. SEEK stores feedback that users send to us. This feedback will be used to administer and refine the service and may be shared with SEEK partners either in aggregate form or with specific identifying characteristics removed. </p>
-  <h2>Privacy &amp; Site Changes</h2>
-  <p>From time to time, SEEK may review and update its privacy statement. Revised versions will be updated on the website.</p>
-  <h2>Contact Us</h2>
-  <p>If you have any questions about this privacy statement, the practices of this site, or your dealings with SEEK, you can contact us in the following ways: </p>
-  <ol class="contact-seek">
-    <li><span>Email:</span> <a href="mailto:userhelp@seek.com.au">userhelp@seek.com.au</a></li>
-    <li><span>Telephone:</span> <span>+61 03 9510 7200</span></li>
-    <li><span>Post:</span> <span>User Help Desk<br>
-      SEEK Limited<br>
-      Level 6<br>
-      541 St Kilda Road<br>
-      Melbourne VIC 3004<br>
-      Australia</span> </li>
-  </ol>
-  <h2> More Information About Privacy</h2>
-  <p>For more information about privacy issues in Australia and protecting your privacy, visit the <a href="http://www.privacy.gov.au/" target="_blank">Australian Federal Privacy Commissioner's</a> website.</p>
+    <h1>
+        SEEK's Privacy Statement</h1>
+    <h2>
+        SEEK's commitment to maintaining your privacy</h2>
+    <p>
+        SEEK's Privacy Statement has been created because we value our users and recognise
+        their right to keep personal information private. This statement discloses our information
+        gathering and dissemination practices for all sites managed by SEEK.</p>
+    <h2>
+        Collecting information on SEEK visitors</h2>
+    <p>
+        SEEK collects information on our site visitors collectively including which sections
+        of the site are most frequently visited, how often and for how long. This data is
+        always used as aggregated, non-personal information. SEEK utilises this information
+        to improve and enhance our services by monitoring the areas on the site which are
+        most popular to you. This aggregated information may be shared with SEEK partners
+        to provide them with an overview of how SEEK visitors use the site. This is done
+        for the purposes of providing you with the best online career management services.
+    </p>
+    <h3>
+        IP Addresses</h3>
+    <p>
+        SEEK's web servers gather your IP address to assist with the diagnosis of problems
+        or support issues with our services, and to monitor legitimate use of our site.
+    </p>
+    <h3>
+        Cookies &amp; Applets</h3>
+    <p>
+        SEEK uses cookies to provide you with a better experience. These cookies and applets
+        allow you to use specific services such as Job Mail (an alert service which emails
+        your chosen jobs), Application Tracker (to manage your SEEK job applications), to
+        remember who you are for Auto Login if you choose this option and to remember your
+        last search criteria for My Last Search.
+    </p>
+    <p>
+        Users who do not wish to receive cookies can instruct their web browsers to refuse
+        them. However, doing so will prevent access to some areas of the site and limit
+        your use of some of the SEEK services.</p>
+    <h3>
+        Third Party Measurement</h3>
+    <p>
+        In order to better understand our users, SEEK utilises a third party measurement
+        company, <a href="http://www.nielsen-netratings.com" target="_blank">Nielsen//NetRatings</a>
+        to assess site traffic. A tracking code is used to collect the following information
+        on the usage of the SEEK site:</p>
+    <ul>
+        <li>The number of page views (or page impressions) that occur on SEEK;</li>
+        <li>The number of unique visitors to SEEK;</li>
+        <li>How long these unique visitors (on average) spend on SEEK when they do visit; and</li>
+        <li>Common entry and exit points into SEEK.</li>
+    </ul>
+    <p>
+        This aggregate, non-personal information is collated and provided to SEEK to assist
+        in analysing the usage of the site. This data is also accessible by media organisations
+        and research companies, for the purpose of conducting industry comparisons with
+        other Internet websites.</p>
+    <h2>
+        Collecting information on SEEK Registered '<a href="/MyAccount">My Account</a>'
+        Members
+    </h2>
+    <p>
+        As part of registering with SEEK, we collect personal information about you in order
+        for you to take full advantage of SEEK's services. To do this it may be necessary
+        for you to provide additional information to SEEK as detailed below.</p>
+    <h3>
+        Registration</h3>
+    <p>
+        Registration is completely optional. However, registration for '<a href="/MyAccount">My Account</a>'
+        services allows you to take advantage of more of the tools and resources that assist
+        you in finding a job. Registration includes submitting your email address. You may
+        access this information at any time by clicking 'My Details' on '<a href="/MyAccount">My Account</a>',
+        or by clicking here.</p>
+    <h3>
+        Job Mail</h3>
+    <p>
+        Job Mail is an optional service. SEEK requests that you provide information relating
+        to your employment preferences as well as your email address so that we may notify
+        you via email of jobs specific to your needs. Users can modify or delete their Job
+        Mail profiles at any time by going to the '<a href="/MyAccount">My Account</a>'
+        area of the site.</p>
+    <h3>
+        Storing your resume</h3>
+    <p>
+        SEEK registered members may elect to store up to 10 resumes in their 'My Account'
+        area, and use those resumes when applying for a job. Deleting a resume from My Account
+        will mean it is no longer accessible to the registered member. Please note that
+        deleted records may still be stored by SEEK in testing or backup systems for a period
+        of time.</p>
+    <h3>
+        SEEK Profile</h3>
+    <p>
+        SEEK provides registered members with the option of creating a personal profile.
+        A profile includes your resume, employment and educational history, contact details,
+        minimum salary expectation and the classifications and locations ('Profile') registered
+        members would like to work in. Registered members' profiles can be seen by SEEK clients who place job ads 
+        in matching classifications and locations. Members can of course choose to hide their profile at any time. 
+        Registered members' Profiles will remain&nbsp; anonymous until
+        the SEEK client purchases access to a registered members resume and contact details.
+        SEEK provides registered members with the following privacy options in relation
+        to the access allowed to their Profile:</p>
+    <ul>
+        <li><strong>Provide resume and contact details immediately</strong>
+            <p>
+                When a SEEK client purchases a registered member’s Profile that resume and
+                the contact details in that resume will be emailed immediately to the relevant SEEK
+                client.</p>
+        </li>
+        <li><strong>Check with me before providing my resume and contact details </strong>
+            <p>
+                When a SEEK client purchases a Profile, SEEK will send the relevant registered member
+                an email with the job advertisement the SEEK client is considering the registered
+                member for, and that registered member can decide whether to release their resume
+                and contact details to that client or not.</p>
+        </li>
+        <li><strong>Hide or delete Profile</strong>
+            <p>
+                Registered members can elect to hide their Profile, so SEEK clients cannot see Private
+                Profile at all, whilst allowing the Profile to be stored in the My Account area
+                of the site. Alternatively Registered Members can elect to delete their Profile.
+                Deleting a Profile from the My Account area of the site will mean it is no longer
+                accessible to the registered member. Please note that deleted Profiles may still
+                be stored by SEEK in testing or backup systems for a period of time.
+            </p>
+        </li>
+    </ul>
+    <p>
+        All information provided when creating a Profile including name, resume, email address,
+        telephone numbers, employment and educational history are used for the purposes
+        of facilitating registered members job seeking efforts.
+    </p>
+    <p>
+        Registered Members can modify, hide or delete their resume at any time by going
+        to the '<a href="/MyAccount">My Account</a>'
+        area of the site.</p>
+    <p>
+        SEEK reserves the right to disable or delete a Profile at their sole discretion.
+    </p>
+    <h3>
+        Online Applications</h3>
+    <p>
+        Making an online application to a job advertisement on SEEK is a free and optional
+        service that does not require registration. Job applications require you to complete
+        mandatory fields (first name, last name, phone and email) so that the advertiser
+        can identify and contact you. Your application, including attachments and cover
+        letters, are forwarded directly on to the third party advertiser and Registered
+        users have the option of saving their resumes and cover letters. This information
+        may also be disclosed to SEEK's service providers and contractors from time to time
+        who assist us to deliver our products and services.
+    </p>
+    <p>
+        SEEK may also retain this information in order to customise the service we provide
+        to you. For example, SEEK may use this information to help create a SEEK Profile
+        that you may choose to use in the future. We will not however activate this (or
+        any other service) or disclose this information to any third party without your
+        express consent. SEEK does however reserve the right to disable or delete a saved
+        resume or cover letter at its discretion.</p>
+    <p>
+        By applying to a position advertised on SEEK you are requesting that SEEK pass the
+        information to the Advertiser as a part of your application.
+    </p>
+    <p>
+        Additionally, you have the right to request your personal information direct from
+        Advertisers on SEEK.</p>
+    <h2>
+        Email communications from SEEK</h2>
+    <p>
+        SEEK also provides you with selected information about job seeking and career-related
+        topics in our email newsletter SEEK News Update. This free service is sent to registered
+        users and provides the option of opting out of receiving these by changing your
+        preferences in 'My Account'. SEEK may also make you aware of additional products
+        and services which form part of your relationship with SEEK.</p>
+    <h2>
+        Storage &amp; Security of Personal Information</h2>
+    <p>
+        SEEK takes all reasonable steps to ensure the security of our system. SEEK allows
+        you to access your information at any time to keep it accurate and up to date. Any
+        information which we hold for you is stored on secure servers that are protected
+        in controlled facilities.
+    </p>
+    <p>
+        In addition, our employees and the contractors who provide services related to our
+        information systems are obliged to respect the confidentiality of any personal information
+        held by SEEK. However, SEEK will not be held responsible for events arising from
+        unauthorised access of your personal information.
+    </p>
+    <p>
+        You can also play an important role in keeping your personal information secure,
+        by maintaining the confidentiality of any password and accounts used on the SEEK
+        site. Please <a href="mailto:usersupport@seek.com.au">notify us immediately</a>
+        if there is any unauthorised use of your account by any other Internet user or any
+        other breach of security.</p>
+    <h2>
+        Access to Your Information</h2>
+    <p>
+        As indicated in point 2, unless you become a registered '<a href="/MyAccount">My Account</a>'
+        user, SEEK does not collect information that identifies you personally. If however,
+        you become a SEEK registered user, you are able to change, update or delete your
+        registered profile at any time by logging in to
+        <a href="/MyAccount">My Account</a>.
+        You can also request your personal information directly from Advertisers who you
+        have applied to on the site.</p>
+    <h2>
+        SEEK Partners &amp; Advertisers</h2>
+    <p>
+        SEEK provides links and passes online application to third party sites. The use
+        of your information by these third party sites is not within the control of SEEK
+        and we cannot accept responsibility for the conduct of these companies.
+        <br>
+        <br>
+        With the consent of SEEK's registered members, SEEK may provide that member's personal 
+        profile to SEEK clients who have placed job ads with matching classifications and
+        locations to the registered member's profile and who have purchased access to the
+        member's profile.. The use of that information by these SEEK clients is not within
+        the control of SEEK and we cannot accept responsibility for the conduct of these
+        clients.
+        <br>
+        <br>
+        SEEK clients who place job ads on SEEK, and who purchase SEEK registered members'
+        profiles are asked to comply with Australian federal privacy policy with regard
+        to their own information handling practices.</p>
+    <p>
+        You may also directly contact advertisers to request access to any personal information
+        that you have sent as part of an application or as part of a profile.</p>
+    <h2>
+        Data Transfers</h2>
+    <p>
+        Sometimes, we transfer information to 3rd party contractors including persons outside
+        Australia (e.g. a contractor located in the USA who provides us with services).
+        By giving us your personal information, you consent to such disclosures. In addition,
+        where we transfer information to persons outside Australia we believe that the recipients
+        of such information are subject to a law, binding scheme or contract which effectively
+        upholds principles for fair handling of the information that are substantially similar
+        to the National Privacy Principles.
+    </p>
+    <h2>
+        Feedback</h2>
+    <p>
+        SEEK welcomes ideas and feedback about all aspects of the site. SEEK stores feedback
+        that users send to us. This feedback will be used to administer and refine the service
+        and may be shared with SEEK partners either in aggregate form or with specific identifying
+        characteristics removed.
+    </p>
+    <h2>
+        Privacy &amp; Site Changes</h2>
+    <p>
+        From time to time, SEEK may review and update its privacy statement. Revised versions
+        will be updated on the website.</p>
+    <h2>
+        Contact Us</h2>
+    <p>
+        If you have any questions about this privacy statement, the practices of this site,
+        or your dealings with SEEK, you can contact us in the following ways:
+    </p>
+    <ol class="contact-seek">
+        <li><span>Email:</span> <a href="mailto:usersupport@seek.com.au">
+            usersupport@seek.com.au</a></li>
+        <li><span>Telephone:</span> <span>+61 03 9510 7200</span></li>
+        <li><span>Post:</span> <span>User Help Desk<br>
+            SEEK Limited<br>
+            Level 6<br>
+            541 St Kilda Road<br>
+            Melbourne VIC 3004<br>
+            Australia</span> </li>
+    </ol>
+    <h2>
+        More Information About Privacy</h2>
+    <p>
+        For more information about privacy issues in Australia and protecting your privacy,
+        visit the <a href="http://www.privacy.gov.au/" target="_blank">Australian Federal Privacy
+            Commissioner's</a> website.</p>
 
-        </div>         
-        
-        <div class="f-lt"></div><div class="f-rt"></div>
-        <div class="f-tp"></div><div class="f-tp-lt"></div><div class="f-tp-rt"></div>
-        <div class="f-bm"></div><div class="f-bm-space"></div><div class="f-bm-lt"></div><div class="f-bm-rt"></div>
-    </div>
+    
 
             <br>
         </div>
@@ -357,47 +524,138 @@ $(document).ready(function() {
     
   
         
-<div id="Footer">
-    <a href="/investor/about-us">About SEEK</a>
-    <a href="/contact-us">FAQs &amp; Contact Us</a>
-    <a href="/JobSearch?Keywords=&amp;AdvertiserID=1630%2c27372708%2c27373065">Work for SEEK</a>
-    <a class="privacy" href="/terms">Website Terms</a>,
-    <a class="promise-link" href="/promise">Promise</a> &amp;
-    <a href="/privacy">Privacy</a> 
-    <a class="security" href="/safe-job-searching">SEEK safely</a>&nbsp;&nbsp;&nbsp;
+<div class="mod-footer-navigation state-footer-nav">
+    <ul class="l-row mod-navigation">
+        <li class="grid_2 l-column">
+            <ul>
+                <li><h5>SEEK!</h5></li>
+                <li><a href="http://www.seek.com.au/">Quick search</a></li>
+                <li><a href="http://www.seek.com.au/?search=advanced">Advanced search</a></li>
+                <li><a href="http://www.seek.com.au/$150kjobs?cid=sk:main:au:tab:150k">$150k+ jobs</a></li>
+                <li><a href="http://www.seek.com.au/Employer">Search by employer</a></li>
+                <li><a href="http://www.seek.com.au/Recruiter">Search by recruiter</a></li>
+                <li><a href="http://www.seek.com.au/MyAccount/?cid=sk:main:au:tab:myacct">My saved searches</a></li>
+            </ul>
+        </li>
+        <li class="grid_2 l-column">
+            <ul>
+                <li><h5>Set yourself up</h5></li>
+                <li><a href="http://www.seek.com.au/MyAccount/profile?cid=sk:main:au:tab:myacct">My profile</a></li>
+                <li><a href="http://www.seek.com.au/JobMail?cid=sk:main:au:myacct:email">Create a job email</a></li>
+                <li><a href="http://www.seek.com.au/MyAccount/?cid=sk:main:au:tab:myacct">My resumes &amp; cover letters</a></li>
+                <li><a href="http://www.seek.com.au/MyAccount/UpdateAccount?cid=sk:main:au:tab:myacct">My account &amp; tools</a></li>
+                <li><a href="http://www.seek.com.au/seek-for-iphone">Go mobile</a></li>
+            </ul>
+        </li>
+        <li class="grid_2 l-column">
+            <ul>
+                <li><h5>Track your progress</h5></li>
+                <li><a href="http://www.seek.com.au/MyAccount/SavedJobs?cid=sk:main:au:tab:myacct">My saved jobs</a></li>
+                <li><a href="http://www.seek.com.au/MyAccount/AppliedJobs?cid=sk:main:au:tab:myacct">My applications</a></li>
+            </ul>
+        </li>
+        <li class="grid_2 l-column">
+            <ul>
+                <li><h5>Learn more</h5></li>
+                <li><a href="http://www.seek.com.au/jobs-resources/get-your-dream-job/resume-guide">Create an epic CV</a></li>
+                <li><a href="http://www.seek.com.au/jobs-resources/get-your-dream-job/hidden-jobs">Find the right job for me</a></li>
+                <li><a href="http://www.seek.com.au/jobs-resources/articles/salary-info">Salary snapshot</a></li>
+                <li><a href="http://www.seek.com.au/jobs-resources/get-your-dream-job/tm-interview-guide">Interview tips</a></li>
+                <li><a href="http://insider.seek.co.nz/" target="_blank">"SEEK Insider" blog</a></li>
+            </ul>
+        </li>
+        <li class="grid_1 l-column">&nbsp;</li>
+        <li class="grid_3 l-column mod-mini-search state-learning">
+            <p><strong>SEEK Learning</strong> has over <strong>250 employer-recognised courses</strong> from trusted providers.</p>
+            
 
-   <span class="int-parteners">
-    	<a id="showParteners" href="#">International Partners</a>
-   	    <span id="internationalfoot" class="bubble-help"><span class="help-content">
-                <span id="IntHeading">International Partners</span><br>SEEK Ltd has investments in leading<br> international online employment businesses.<br>
-                <a href="http://www.Catho.com.br" target="_blank">Catho.com.br </a><strong>(Brazil)</strong><br>
-                <a href="http://www.Zhaopin.com" target="_blank">Zhaopin.com </a><strong>(China)</strong><br>
-                <a href="http://www.OCCMundial.com" target="_blank">OCCMundial.com </a><strong>(Mexico)</strong><br>
-                <a href="http://www.JobsDB.com" target="_blank">JobsDB.com </a><strong>(S.E Asia)</strong><br>
-                <a href="http://www.Jobstreet.com" target="_blank">Jobstreet.com </a><strong>(S.E Asia)</strong><br>
-         </span>
-         <span class="closehelp" id="intclose"></span><span class="bh-lt"></span> <span class="bh-rt"></span> <span class="bh-tp"></span> <span class="bh-bp"></span> <span class="bh-ls"></span> <span class="bh-rs"></span> <span class="bh-rb"></span> <span class="bh-lb"></span> <span class="bh-pointer"></span>
-         </span>
-    </span>
-    
-    
-
-    <p>
-        Australia's #1 job site, as measured by Nielsen/Netratings
-        <br>
-        SEEK Ltd. © 2011
-    </p>
+<select id="SelectedCourse" class="learning-tile-links">
+    <option value="#" selected="selected">Choose occupation</option>
+    <option value="http://www.seeklearning.com.au/course/accounting.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Accounting</option>
+    <option value="http://www.seeklearning.com.au/course/administration.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Administration</option>
+    <option value="http://www.seeklearning.com.au/course/arts-social-science.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Arts &amp; Social Sciences</option>
+    <option value="http://www.seeklearning.com.au/course/banking-and-finance.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Banking &amp; Finance</option>
+    <option value="http://www.seeklearning.com.au/course/building-and-construction.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Building &amp; Construction</option>    
+    <option value="http://www.seeklearning.com.au/course/business.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Business</option>
+    <option value="http://www.seeklearning.com.au/course/design-and-digital-media.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Design &amp; Digital Media</option>
+    <option value="http://www.seeklearning.com.au/course/education-and-child-care.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Education &amp; Child Care</option>
+    <option value="http://www.seeklearning.com.au/course/entertainment.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Entertainment</option>
+    <option value="http://www.seeklearning.com.au/course/government-and-legal.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Government &amp; Legal</option>
+    <option value="http://www.seeklearning.com.au/course/health-and-community-services.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Health &amp; Community Services</option>
+    <option value="http://www.seeklearning.com.au/course/hospitality-and-tourism.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Hospitality &amp; Tourism</option>
+    <option value="http://www.seeklearning.com.au/course/HR-and-recruitment.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">HR &amp; Recruitment</option>
+    <option value="http://www.seeklearning.com.au/course/IT.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Information Technology</option>
+    <option value="http://www.seeklearning.com.au/course/management.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Management</option>
+    <option value="http://www.seeklearning.com.au/course/marketing-and-media.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Marketing &amp; Media</option>
+    <option value="http://www.seeklearning.com.au/course/natural-therapy.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Natural Therapies</option>
+    <option value="http://www.seeklearning.com.au/course/project-management.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Project Management</option>
+    <option value="http://www.seeklearning.com.au/course/psychology-and-counselling.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Psychology &amp; Counselling</option>
+    <option value="http://www.seeklearning.com.au/course/real-estate.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Real Estate</option>
+    <option value="http://www.seeklearning.com.au/course/science-and-technology.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Science &amp; Technology</option>
+    <option value="http://www.seeklearning.com.au/course/self-employment.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Self Employment</option>
+    <option value="http://www.seeklearning.com.au/course/sports-and-fitness.asp?CampaignCode=lrn:skj:oth:hmp:til:grn">Sports &amp; Fitness</option>
+</select> 
+            <ul>
+                <li><a href="http://www.seeklearning.com.au/tafe-courses.asp" target="_blank">TAFE courses</a></li>
+                <li><a href="http://www.seeklearning.com.au/university-courses.asp" target="_blank">University course</a></li>
+                <li><a href="http://www.seeklearning.com.au/online-courses.asp" target="_blank">Online Courses</a></li>
+                <li><a href="http://www.seeklearning.com.au/" target="_blank">more...</a></li>
+            </ul>
+        </li>
+    </ul>
+    <ul class="l-row mod-navigation state-basic-horizontal l-clearfix">
+        <li class="state-floatleft">
+            <span><a href="http://www.seek.com.au/about-us/investor">About SEEK</a></span>
+            <span><a href="http://www.seek.com.au/JobSearch?Keywords=&amp;AdvertiserID=1630%2c27372708%2c27373065%2c27356574%2c27681746">Work for SEEK</a></span>
+            <span><a href="http://advertiser.seek.com.au/advertisers/">Advertise on SEEK</a></span>
+            <span><a id="InternationalPartnersLink" href="#">International partners</a></span>
+        </li>
+        <li class="state-floatright">
+            <span><a href="http://www.seek.com.au/privacy">Privacy</a></span>
+            <span><a href="http://www.seek.com.au/terms">Terms &amp; Conditions</a></span>
+            <span><a href="http://www.seek.com.au/safe-job-searching">SEEK safely</a></span>
+        </li>
+        <li id="InternationalPartners" class="state-clear state-hidden mod-international-partners">
+            <span><a href="http://www.Catho.com.br" target="_blank">Catho.com.br</a>&nbsp;<strong>(Brazil)</strong></span>
+            <span><a href="http://www.Zhaopin.com" target="_blank">Zhaopin.com</a>&nbsp;<strong>(China)</strong></span>
+            <span><a href="http://www.OCCMundial.com" target="_blank">OCCMundial.com</a>&nbsp;<strong>(Mexico)</strong></span>
+            <span><a href="http://www.JobsDB.com" target="_blank">JobsDB.com</a>&nbsp;<strong>(S.E Asia)</strong></span>
+            <span><a href="http://www.Jobstreet.com" target="_blank">Jobstreet.com</a>&nbsp;<strong>(S.E Asia)</strong></span>
+        </li>
+        <li class="state-clear state-clear-fix"></li>
+        <li class="state-clear state-floatleft">
+            <span><a href="http://www.seek.com.au/contact-us">Contact Us</a></span>
+            <span><a href="http://www.seek.com.au/contact-us">Help &amp; support</a></span>
+            <span><a href="http://www.seek.com.au/seek-for-iphone">Go Mobile</a></span>
+        </li>
+        <li class="state-floatright state-basic-banner">© SEEK  2012.  All rights reserved.</li>
+        <li class="state-clear state-basic-banner">Australia's #1 job site, as measured by Nielsen/Netratings</li>
+    </ul>
 </div>
+
+<script type="text/javascript">
+    var seekLearning = new SEEK.Promotion.SeekLearningPromotion(".learning-tile-links");
+    $('#InternationalPartnersLink').click(function(e) {
+        e.preventDefault();
+        $('#InternationalPartners').toggle();
+    });
+</script>
 
     </div>
 
     
     
 
+    <input name="hidden__RequestVerificationToken" type="hidden" value="d0Eqfz7chuawhE8GBvl7/Ftj8/M85+uQLcBvKYWQ3Al8KfVO0MIMvKOsEtYG8BHoJtwumQKSaHMwcPiIzto2UQ==">
+    
     <script type="text/javascript">
-    $(document).ready(function() {
-        var togglePartners = new SEEK.TwoLinkClassToggler('#showParteners','#intclose','#internationalfoot', 'displayLinks');
-     });
+        $(document).ready(function () {
+            var togglePartners = new SEEK.TwoLinkClassToggler('#showParteners', '#intclose', '#internationalfoot', 'displayLinks');
+            
+            if (SEEK.Global.CorsCachingEnabled) {
+                SEEK.SetRequestVerificationToken();
+            }
+        });
     </script>
     
 
