@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applebees.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229020735id_/http%3A//www.applebees.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applebees.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617203204id_/http%3A//www.applebees.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Applebee's - There's No Place Like The Neighborhood
 
