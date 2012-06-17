@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the northumbria.ac.uk privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219050339id_/http%3A//www.northumbria.ac.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northumbria.ac.uk privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617143006id_/http%3A//www.northumbria.ac.uk/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Northumbria University, Newcastle UK
 
-##  PRIVACY STATEMENT FOR THE NORTHUMBRIA UNIVERSITY WEB SITE 
+##  Privacy statement for the Northumbria University Website 
 
-Northumbria University is committed to protecting the privacy of all individuals visiting this Web Site. The University is registered as a Data Controller under the Data Protection Act 1998. This Privacy Statement explains to users of the Web Site: 
+Northumbria University is committed to protecting the privacy of all individuals visiting this Website. The University is registered as a Data Controller under the Data Protection Act 1998. This Privacy Statement explains to users of the Web Site: 
 
   * The information which we collect about you when you visit this Site 
   * How we use this information 
@@ -12,15 +12,15 @@ Northumbria University is committed to protecting the privacy of all individuals
 
 
 
-This Web Site is managed by the [Web Team](mailto:it.webteam@northumbria.ac.uk)
+This Website is managed by the [Web Team](mailto:it.webteam@northumbria.ac.uk)
 
-If you have any concerns about privacy on the Northumbria University Web Site, please contact: the Data Protection Officer, Northumbria University, Ellison Place, Newcastle upon Tyne, NE1 8ST. 
+If you have any concerns about privacy on the Northumbria University Website, please contact: the Data Protection Officer, Northumbria University, Ellison Place, Newcastle upon Tyne, NE1 8ST. 
 
-This Web Site uses cookies to collect some information. See the paragraph 'Cookies' for an explanation of cookies and information on how to control them. 
+This Website uses cookies to collect some information. See the paragraph 'Cookies' for an explanation of cookies and information on how to control them. 
 
 ##  What information do we collect? 
 
-  * You do not have to provide any personal information when you visit the Northumbria University Web Site simply to read or download information from non-protected pages. As with most web servers, our web servers automatically collect the following information: 
+  * You do not have to provide any personal information when you visit the Northumbria University Website simply to read or download information from non-protected pages. As with most web servers, our web servers automatically collect the following information: 
     * Requested URL (Uniform Resource Locator) 
     * IP (Internet Protocol) address (this may or may not identify a specific computer) 
     * Domain name from which you access the internet 
@@ -39,21 +39,6 @@ This Web Site uses cookies to collect some information. See the paragraph 'Cooki
 
 
 
-##  What are cookies? 
-
-  * A cookie is a small piece of text file that is transferred to the hard drive of your computer when you access our Web Site. It sends information to us, e.g. type of browser, enabling us to provide a better service. 
-  * Northumbria University Web Site uses: 
-    * Persistent cookies - these are used to track returning visitors. They expire after 12 months and enable us to compare web site traffic from month to month. 
-    * Session cookies - these only last as long as your browser is open. When you close your browser, the session cookie disappears. 
-  * You can reject cookies but this may mean that some areas of the Web Site may not work as intended or as you expect. Most browsers allow you to refuse cookies - consult the help section of the browser toolbar. Information on controlling cookies is available from several web sites, e.g. 
-
-http://www.microsoft.com/info/cookies.htm 
-
-http://www.aboutcookies.org 
-
-
-
-
 ##  How secure is the information we collect? 
 
   * We do our utmost through the provision of technical, physical and administrative solutions and procedures to protect the personal information we hold. 
@@ -61,9 +46,9 @@ http://www.aboutcookies.org
 
 
 
-##  Other Web Sites 
+##  Other Websites 
 
-This Privacy Statement only covers this Web Site. It does not cover other web sites to which this Site may be linked. Other web sites will have their own privacy policy, which may be different to ours. 
+This Privacy Statement only covers this website. It does not cover other web sites to which this site may be linked. Other web sites will have their own privacy policy, which may be different to ours. 
 
 ##  Further Information 
 
