@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehypelifemag.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603020859id_/http%3A//thehypelifemag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehypelifemag.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617151730id_/http%3A//thehypelifemag.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ TheHypeLifeMag.com is happy to receive comments about and suggestions to improve
 
 > TheHypeLifeMag.com
 > 
-> legal@thehypelifemag.com
+> hello@thehypelifemag.com
 
 **10\. Rules of User Conduct**
 
