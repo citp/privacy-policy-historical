@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kugli.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017092644id_/http%3A//www.kugli.com/business/def/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kugli.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617115111id_/http%3A//www.kugli.com/business/def/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Kugli.com
+
+* * *
 
 This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Kugli.com work and to keep it safe (details below).
 
