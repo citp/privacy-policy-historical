@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysenate.gov privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101150110id_/http%3A//www.nysenate.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysenate.gov privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618005442id_/http%3A//www.nysenate.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | New York State Senate
 
