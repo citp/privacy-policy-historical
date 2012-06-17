@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imindmap.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103120444id_/http%3A//www.thinkbuzan.com/nl/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imindmap.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617102202id_/http%3A//www.thinkbuzan.com/us/company/privacy) for the most accurate reproduction.*
 
 # ThinkBuzan - Company - Privacy Policy
 
@@ -54,7 +54,7 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 ### ClickTale
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve and develop our website in order to provide an effective and efficient service for our customers. You can choose to disable the Service [here](https://web.archive.org/nl/company/privacy/?ct=disable).
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve and develop our website in order to provide an effective and efficient service for our customers. You can choose to disable the Service [here](https://web.archive.org/us/company/privacy/?ct=disable).
 
 ### How we collect further information 
 
