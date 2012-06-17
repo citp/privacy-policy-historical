@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the donttrack.us privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008004536id_/https%3A//duckduckgo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donttrack.us privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617082315id_/https%3A//duckduckgo.com/privacy.html) for the most accurate reproduction.*
 
-# Duck Duck Go Privacy Policy
-
-_Privacy_
+# DuckDuckGo Privacy
 
 **[DuckDuckGo](https://duckduckgo.com/?q=&t=i) does not collect or share personal information.** That is our privacy policy in a nutshell. The rest of this page tries to explain why you should care. 
 
@@ -14,15 +12,13 @@ _Privacy_
 
 
 
-Also check out [this illustrated guide](http://donttrack.us/), which links to apps that helps you protect your privacy beyond search. 
-
-Last substantively updated on 11/16/10. This paragraph was added.   
+Last updated on 04/11/12. Removed ", which gets sent to my personal email." in last paragraph as our feedback is now handled by multiple team members via desk.com.   
+Before that, on 03/11/12. Removed dead link (Scroogle) and added a missing 'to'.   
+Before that, on 11/16/10. This paragraph was added.   
 Before that, on 9/25/10. This paragraph was added.   
 Before that, on 9/16/10. This paragraph was added. 
 
 **Why You Should Care - Search Leakage**   [top]
-
-If you'd prefer to see an illustrated guide, [click here](http://donttrack.us/).
 
 At other search engines, when you do a search and then click on a link, your search terms are sent to that site you clicked on (in the [HTTP referrer header](http://duckduckgo.com/HTTP_referrer)). We call this sharing of personal information "search leakage." 
 
@@ -47,8 +43,6 @@ You can enter !proxy domain into DuckDuckGo as well, and we will route you throu
 Because of these drawbacks in HTTPS, POST and proxies we decided to take the redirect approach to combat search leakage. However, we leave the choice up to you. You can deviate from the default on our [settings page](https://duckduckgo.com/settings.html) by toggling the redirect or address bar settings. You can also use our [encrypted version](https://duckduckgo.com/). 
 
 **Why You Should Care - Search History**   [top]
-
-If you'd prefer to see an illustrated guide, [click here](http://donttrack.us/).
 
 Other search engines save your search history. Usually your searches are saved along with the date and time of the search, some information about your computer (e.g. your [IP address](https://duckduckgo.com/IP_Address), [User agent](http://duckduckgo.com/User_agent) and often a unique identifier stored in a [browser cookie](https://duckduckgo.com/HTTP_cookie)), and if you are logged in, your account information (e.g. name and email address). 
 
@@ -90,7 +84,7 @@ However, in many cases, this so-called anonymous data can still tie your searche
 
 **Information Collected**   [top]
 
-At DuckDuckGo, no cookies are used by default. If you have changed any [settings](https://duckduckgo.com/settings.html), then cookies are used store those changes. However, in that case, they are not stored in a personally identifiable way. For example, the large size setting is stored as 's=l'; no unique identifier is in there. Furthermore, if you prefer not to use cookies to store settings, you can use [URL parameters](https://duckduckgo.com/params.html) instead. 
+At DuckDuckGo, no cookies are used by default. If you have changed any [settings](https://duckduckgo.com/settings.html), then cookies are used to store those changes. However, in that case, they are not stored in a personally identifiable way. For example, the large size setting is stored as 's=l'; no unique identifier is in there. Furthermore, if you prefer not to use cookies to store settings, you can use [URL parameters](https://duckduckgo.com/params.html) instead. 
 
 Additionally, if you use our [!bang syntax/dropdown](https://web.archive.org/bang.html), which bangs you use are stored in a cookie so that we can list your most frequently used ones on top of the !bang dropdown box. Just like the other settings, this information is not saved on our servers at all, but resides solely on your computer. There is also a [setting](https://duckduckgo.com/settings.html) to turn this off, which you can also set via a [URL parameter](https://duckduckgo.com/params.html). Particular searches are of course not stored. An example cookie might look like: php=2&yelp=19&java=4. 
 
@@ -111,7 +105,6 @@ Also, like anyone else, we will comply with court ordered legal requests. Howeve
 If you care about search privacy, you might also want to check out these other search engines that take it seriously by default. 
 
   * [Ixquick](https://ixquick.com/) [[privacy policy](https://ixquick.com/eng/protect-privacy.html)] 
-  * [Scroogle](https://ssl.scroogle.org/) [[privacy policy](http://www.scroogle.org/)] 
 
 
 
@@ -123,6 +116,4 @@ If this policy is substantively updated, we will update the text of this page an
 
 **Feedback**   [top]
 
-I ([Gabriel Weinberg](https://duckduckgo.com/?q=Gabriel+Weinberg)) am the founder of Duck Duck Go and personally wrote this privacy policy. If you have any questions or concerns, please [submit feedback](https://duckduckgo.com/feedback.html), which gets sent to my personal email. 
-
-Also check out [this illustrated guide](http://donttrack.us/), which links to apps that helps you protect your privacy beyond search. 
+I ([Gabriel Weinberg](https://duckduckgo.com/?q=Gabriel+Weinberg)) am the founder of Duck Duck Go and personally wrote this privacy policy. If you have any questions or concerns, please [submit feedback](https://duckduckgo.com/feedback.html). 
