@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthinnews.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217064733id_/http%3A//healthinnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthinnews.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617122259id_/http%3A//healthinnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Health In News
 
