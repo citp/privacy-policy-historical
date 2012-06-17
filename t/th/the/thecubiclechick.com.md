@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thecubiclechick.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229210551id_/http%3A//www.thecubiclechick.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecubiclechick.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618002806id_/http%3A//www.thecubiclechick.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.thecubiclechick.com%2Findex.php%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
 
 **What information do we collect?**
 
