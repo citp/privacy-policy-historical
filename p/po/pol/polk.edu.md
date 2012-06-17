@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polk.edu privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102140333id_/http%3A//polk.edu/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polk.edu privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618005810id_/http%3A//www.polk.edu/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@
 > 
 >  **Use and Release of Social Security Numbers**
 > 
-> This notice is intended for students, employees, volunteers, contractors and applicants and is made in compliance with FL Statute 119.071(5).   Polk State College (PSC) collects your SSN for use in performance of the College's duties and responsibilities for the following purposes:  classification of acocunts; identification and scholarship reporting; financial aid processing; athletics recruiting; accreditation of programs; and reporting to a receiving agency or governmental entity where the disclosure is necessary to perform its duties and responsibilities.  Social security numbers are also used as a unique numeric identifier in certain cases and may be used for search purposes.  Federal Law requires that we protect social security numbers from disclosure to unauthorized parties.  Students and employees are assigned PSC identification numbers to assist in protecting their identities.
+> This notice is intended for students, employees, volunteers, contractors and applicants and is made in compliance with FL Statute 119.071(5).   Polk State College (PSC) collects your SSN for use in performance of the College's duties and responsibilities for the following purposes:  classification of accounts; identification and scholarship reporting; financial aid processing; athletics recruiting; accreditation of programs; and reporting to a receiving agency or governmental entity where the disclosure is necessary to perform its duties and responsibilities.  Social security numbers are also used as a unique numeric identifier in certain cases and may be used for search purposes.  Federal Law requires that we protect social security numbers from disclosure to unauthorized parties.  Students and employees are assigned PSC identification numbers to assist in protecting their identities.
 > 
 > The chart listing the college areas that collect social security numbers and the laws that mandate or authorize their collection are in the [SSN Collection Details](https://web.archive.org/Documents/SSN_CollectionUsage.pdf "SSN Collection Document") pdf.  
   
