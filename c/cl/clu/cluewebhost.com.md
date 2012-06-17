@@ -1,26 +1,69 @@
-> *The following text is extracted and transformed from the cluewebhost.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007154759id_/http%3A//cluewebhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cluewebhost.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617103337id_/http%3A//www.cluewebhost.com/pp.php) for the most accurate reproduction.*
 
-# Clue WebHost - Cheap Nigerian Web Hosting, Nigerian Domain Registration, Pay in Naira
+# Privacy Policy
 
-  **The Information We Collect**  
-This notice applies to all information collected on the CLUE WEBHOST website, or submitted to CLUE WEBHOST at any time through any of our services on the website.   
-Personally Identifiable Information \- When visiting CLUE WEBHOST`s Web site and signing-up for or using a CLUE WEBHOST powered service such as registering for a domain, our Forum, Tell-A-Friend or Reporting Abuse, you may choose to supply CLUE WEBHOST with information that identifies you personally. This information may include your name and contact information, as well as other demographic or commerce related information.   
-**Cookies** A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but you will be asked to enter your username and password again every time you closed your browser or your session has timed out. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers.”   
-This privacy statement covers the use of cookies by CLUE WEBHOST only and does not cover the use of cookies by any advertisers.   
-**Log Files** As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users‟ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to prevent and block abusers to keep using our services such as members who violate our terms of service. We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site in the aggregate of usage and volume statistics to determine how our users navigate through our website and to know how many users are using our services demographically. **  
-The Way We Use Information** We use the information you provide about yourself or others to complete the transaction for which it is intended. This may include administering a service such as registration, email, forum, etc., or contacting you if you have indicated your permission to do so by agreeing to accept further notification and service announcement from us on your member profile page. You can choose to opt-out of receiving any further notification from your member profile page. We do not share this information with outside parties without your permission.   
-**Tell-A-Friend** If you choose to use our referral service to tell a friend about our site, we will ask you for your friend‟s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. CLUE WEBHOST stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.   
-**Support Forum** If you use the Support Forum on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.   
-**Internal Surveys** Upon using our free services, you will be requested to participate in our periodic internal surveys which are conducted by CLUE WEBHOST to determine your personal interests. These surveys are strictly voluntary. The data collected through these surveys will be used solely to determine the type of advertisements you will be exposed with when you are logged in to your control panel account. Each survey will be sponsored by our partners, which will be in a form of survey prizes. However, any PII collected will not be shared in any way to any of our partners or affiliates. The information collected will only be used to enhance our Web site and your experience and to award prizes.   
-The surveys will be prompted when you are logging in to your CLUE WEBHOST account, a new survey will be prompted to you, whenever it is available.   
-**Communications From The Site** When we receive email, we use return email addresses to reply with the information requested. Such addresses are not used for any other purpose and are not shared with outside parties. When supplying contact information to CLUE WEBHOST you can indicate your preference if you would like to be contacted to receive information and updates about our services by logging in to your CLUE WEBHOST account, going to your member profile page and choose not to receive any further notification emails from us or other information pertaining to CLUE WEBHOST. Information you submit to us will not be used for this purpose unless you indicate this as your preference. When supplying contact information to CLUE WEBHOST you can indicate your preference on your members profile page to participate in the CLUE WEBHOST program if you would like to receive special offers from other companies that we think may be of interest to you through our periodically newsletter. Information you submit to us will not be used for this purpose unless you elect to participate in the CLUE WEBHOST program or otherwise consent. You will receive a confirmation email from us when placing an order on our site and paying through one of our trusted 3rd parties. They only share back information with us about the transaction such as your name, item ordered, email address, etc.   
-**Personally identifiable information:** CLUE WEBHOST does not share, sell, rent, or trade PII with third parties for their promotional purposes except with your consent as described in this privacy policy Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described within this privacy policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.   
-**How You Can Access Or Correct Your Information** You can access all your personally identifiable information that we collect online and maintain by logging into your password-protected account and selecting to update your Profile or Personal Info. We use this procedure to better safeguard your information. You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.   
-**Specific Terms and Conditions** CLUE WEBHOST considers email transmitted via our service to be the private correspondence between the sender and recipient. We will not monitor, edit or disclose the contents of a user`s private communications, except as required by law, to comply with legal process, if necessary to enforce the Service Agreement, to respond to claims that such contents violate the rights of third-parties, or to protect the rights or property of CLUE WEBHOST. By using the service you agree that technical processing of email communications is and may be required to send and receive messages, to conform to the technical requirements of connecting networks, to conform to the limitations of the Service, or to conform to other, similar technical requirements. By using the service you acknowledge and agree that CLUE WEBHOST do not endorse the content of any user communications and are not responsible or liable for any unlawful, harassing, libelous, privacy invading, abusive, threatening, harmful, vulgar, obscene, tortuous, or otherwise objectionable content, or content that infringes or may infringe the intellectual property or other rights of another.   
-**Legal Disclaimer** We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site   
-**Security** The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.   
-**Links to Other Sites** This Web site contains links to other sites that are not owned or controlled by CLUE WEBHOST. Please be aware that we, CLUE WEBHOST are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.   
-**Changes in this Privacy Statement** If we decide to change our privacy policy, we will post those changes to this privacy statement so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.  
-CLUE WEBHOST (Privacy Department)
+This Privacy Policy describes the information we collect from you, what we do with the information, and our information security practices. If you have any questions about our Privacy Policy, please contact our sales department.
 
-| 
+**Information**
+
+When you sign up for our service, we will ask you to provide contact information such as your name, address, telephone numbers, e-mail addresses, and payment information such as credit card number and expiration date.
+
+We may ask you to complete user surveys, and to provide certain demographic information, such as age, gender, special interests, etc.  You do not have to provide this type of information to use our service if you do not want to.
+
+If you contact us for customer support, we may also ask you for information about your operating system, software and other technical matters.
+
+When you visit our Web site we will capture your IP Address, time of and duration of visit, and time and duration of the pages on our Web site that you view. We may tie this information to the personally identifiable information we have about you.
+
+We will also place a cookie that will identify you to us as a repeat visitor or a customer when you visit our Web site.  See _What is a Cookie_ below.  We may tie this cookie to the personally identifiable information we have about you.
+
+If we send you an e-mail, we may include a marker that will allow to identify e-mail that is opened and viewed.
+
+**Use of Personally Identifiable Information**
+
+We will use your personally identifiable information only as follows:
+
+  * For payment purposes and to provide customer support. 
+
+
+  * To announce special offers or provide other information from time to time via e-mail.   We may also send e-mail announcing special offers by our third parties, but we will not provide the third parties with your e-mail address or other personally identifiable information.   If you do not wish to receive these e-mails, you may opt out of future e-mails at any time by following the instructions included in the e-mail.
+
+
+  * To improve our service and the marketing of our service.  For example, we may use the information we gather from user surveys, demographic data, and web site visits to help us improve or target our Web site and customize your visit. 
+
+
+
+We will not provide any personally identifiable information about you to any other person other than:
+
+  * a law enforcement or regulatory agency at their request;
+
+
+  * a person or company who acquires our business;
+
+
+  * third parties who perform services on our behalf (such as payment processing), subject to the third party agreeing with us that it will keep your personally identifiable information confidential;
+
+
+  * To our subsidiaries and affiliates, namely Rico-Enoro Nigeria & SMS Nuvia;
+
+
+  * As otherwise needed to protect or enforce or rights or the rights of others.
+
+
+
+**_We absolutely do not transfer or sell your information for inclusion on third party e-mail or other marketing lists._**
+
+**Use of Non-Personally Identifiable Information**
+
+We may share aggregate statistical data about our customers with third parties, such as advertisers or suppliers.  This aggregate statistical data will not identify you personally.
+
+**What is a Cookie**
+
+A cookie is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our web site so that we may customize your visit.
+
+**Security of Your Information**
+
+We store your personally identifiable information and payment information in our secure database.
+
+**Children's Privacy**
+
+Our service is not available to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13.
