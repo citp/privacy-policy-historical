@@ -1,27 +1,53 @@
-> *The following text is extracted and transformed from the freewebsitetemplates.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027225242id_/http%3A//www.freewebsitetemplates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebsitetemplates.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617130856id_/http%3A//www.freewebsitetemplates.com/about/privacy) for the most accurate reproduction.*
 
-# Free Website Templates - Privacy Policy
+# Privacy Policy | Free Website Templates
 
-Privacy Policy for freewebsitetemplates.com
+This Privacy Policy outlines how [Free Website Templates](https://web.archive.org/) uses the information it collects on this website. In the course of this policy, "we" "our" and "us" refer to Free Website Templates. 
 
-The privacy of our visitors to freewebsitetemplates.com is important to us.
+### Privacy Principles
 
-At freewebsitetemplates.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit freewebsitetemplates.com, and how we safeguard your information. We never sell your personal information to third parties.
+We value your privacy as much as we value ours. That's why we at Free Website Templates wish to emphasize these underlying principles:
 
-Log Files  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocal) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+We make it a point not to ask for personal information that we don't really need, such as your income bracket. 
 
-Cookies and Web Beacons  
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include the ability to login to some of our features, such as forums.
+We won't disclose your personal information to anybody, unless it's for legal purposes, company and/or product development or to safeguard the rights of the company.
 
-We also use third party advertisements on freewebsitetemplates.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+It is Free Website Templates' policy to respect and keep private any personal information we may collect from you in the course of operating our website.
 
-  * Google, as a third party vendor, uses cookies to serve ads on our site. 
-  * Google's use of the DART cookie enables it to serve ads to you based on your visit to our sites and other sites on the Internet. 
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+### Forum Registration
 
+For the general public, registration is not necessary to be able to use this website and download our templates for free. But to be able to participate and post in our forum, a registration form should be filled out completely with your desired username, password and email address. Your email address will be used to verify your membership and to contact you about forum related concerns. Free Website Templates retains sole ownership of all the information collected on this website. We do not share any personally identifying information with outside third parties.
 
+### Legal Disclaimer
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+Free Website Templates reserves the right to disclose your personally identifying information when legally required and when the information is relevant for the protection of our rights, including but not limited to compliance to a legal process or court order served to our website.
 
-[](http://www.wix.com/start/wfree/?utm_campaign=ma_freewebsitetemplates.com&experiment_id=ma_freewebsitetemplates.com2)
+### Forum User Information
+
+If you are a forum member, please be aware that when you share or post personally identifying information, that that information can be seen, stored or utilized by other forum members whom you chose to share the information with. This may result in you receiving unsolicited messages and other forms of communication, depending on the information you shared. Free Website Templates will not be responsible for personally identifying information that you share or post in the forum.
+
+### Log Files
+
+Log files contain information that is usually made available by your web browser and is stored on our web server. This non personally identifying information includes the following: browser type, language preference, referring site and the date and time of every page request. Just like most other sites, we collect this information to: have a better understanding of how our visitors use our website, be able to generate reports on the trends relevant to the usage of our website, help with website administration, analyze user activities on the site, and collect information about our user base in general. We do not link the information contained in these log files to personally identifying information and we will never distribute them to outside third parties.
+
+### Cookies and Web Beacons
+
+A cookie is a small text file that a website stores on your computer. This file contains information that your browser provides to the website each time you return. Cookies are used for record keeping purposes. A web beacon is a transparent graphical image that serves to monitor your interaction with a website. This, along with cookies and log files, provides us with analytical information that we can use to improve website performance and user experience in general. We do not link this information to personally identifying information nor do we give this information to outside third parties. This privacy statement regarding the use of cookies and web beacons is only applicable to the Free Website Templates website. 
+
+### Third Party Ads
+
+Our advertising partners may use cookies and web beacons in the ads that they serve on our website. The use of such technologies will enable the advertiser to store information about your web surfing interests, so that they can show you targeted advertisements that they believe will interest you the most. Our Privacy Policy does not cover the use of cookies and web beacons in the ads of our third party advertisers.
+
+### Managing Cookies
+
+If you do not wish to enable cookies, simply adjust your browser settings before using our website and turn off cookies for Free Website Templates or our third party advertisers. Bear in mind, however, that disabling cookies may affect how our site will function for you (e.g. being unable to log in).
+
+### Links to Other Sites
+
+Our website contains links leading to other websites that are not owned or managed by us. Because we are not responsible for how these sites handle your privacy, we encourage you to check out the Privacy Policies of those other websites before giving out your personal information. 
+
+### Changes
+
+Free Website Templates reserves the right to change this Privacy Policy as it deems necessary. A notification will be posted on this page, on the homepage of this website, and on other pages deemed appropriate, so that you'll always know what information we collect and what we do with it.
+
+[ ](http://www.freewebsitetemplates.com/)
