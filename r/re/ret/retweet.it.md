@@ -1,55 +1,63 @@
-> *The following text is extracted and transformed from the retweet.it privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231114736id_/http%3A//retweet.it/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retweet.it privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617093959id_/http%3A//retweet.it/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - reTweet.it
+# Privacy Policy - Retweet.it
 
-## Your privacy is very important to us.
+#### Your Privacy Is Important To Us.
 
-We have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+##### What information do we collect?
 
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+We collect information from you when you register on our site, place an order or fill out a form.
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or Twitter ID. You may, however, visit our site anonymously.
 
+##### What do we use your information for?
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+Any of the information we collect from you may be used in one of the following ways: To personalize your experience (your information helps us to better respond to your individual needs); To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs); To process transactions.
 
-This policy may change or be updated at any time. Please be sure to check this policy periodically to ensure you agree. If you don't agree to these conditions, you should discontinue use of the site immediately.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested or to send periodic emails related to your order.
 
-[Terms Of Service
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-](http://retweet.it/terms-of-service.php)
+##### How do we protect your information?
 
-## Please Login
+We implement a variety of security measures to maintain the safety of your personal information when you place an order.
 
-[Sign In With Twitter](https://twitter.com/oauth/authorize?oauth_token=B22L7MX3WMSh79gitHHvyvjPLdQlFc57RuV9zG0TAc "Sign In With Twitter")
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-Use your Twitter account to login. The first time you login to use this tool it automatically retweets a link.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-## What's reTweet.it
+##### Do we use cookies?
 
-reTweet.it is both a free and paid service that makes getting retweets easy, allowing you to reach an exponential number of followers on Twitter.
+Yes, we employ the use of cookies. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to understand and save your preferences for future visits.
 
-[Learn More](https://web.archive.org/web/20111231114736id_/http%3A//retweet.it/about.php)
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
-## Retweet Credits
+##### Do we disclose any information to outside parties?
 
-There are plenty of ways to get credits. Learn how to earn free retweets or buy retweets in bulk.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-[Learn More](https://web.archive.org/web/20111231114736id_/http%3A//retweet.it/about.php#credits)
+##### Childrens Online Privacy Protection Act Compliance
 
-## Buyers Special
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-To reward our retweet credit buyers, we offer up-to 10 free credits when you purchase credits!
+##### Online Privacy Policy Only
 
-[Buy Now](https://web.archive.org/web/20111231114736id_/http%3A//retweet.it/buy.php)
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-## Submit To reTweet.it
+##### Terms and Conditions
 
-Ready to get your message retweeted? Make a submission now so others can easily retweet it to their followers.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://retweet.it/pages/terms>.
 
-[Make A Submission](https://web.archive.org/web/20111231114736id_/http%3A//retweet.it/submit.php)
+##### Your Consent
+
+By using our site, you consent to our privacy policy.
+
+##### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+
+This policy was last modified on February 22, 2012.
+
+##### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us by visiting our contact page at <http://retweet.it/pages/contact>.
