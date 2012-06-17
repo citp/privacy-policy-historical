@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genieknowsinc.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630080516id_/http%3A//www.genieknows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genieknowsinc.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617182626id_/http%3A//www.genieknows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GenieKnows :: PPC | CPC | Internet Advertising Service
 
@@ -12,8 +12,8 @@ If you have questions or concerns about this Privacy Policy, or would like to up
 
 **_GenieKnows Inc.  
 ATTN: Privacy Officer  
-1567 Argyle Street  
-Halifax, Nova Scotia, Canada B3J 2B2  
+11 Morris Drive, Suite 205  
+Dartmouth, Nova Scotia, Canada B3B 1M2  
 Phone: 902.431.4847  
 Email: privacy[at]genieknows.com_**
 
@@ -45,6 +45,10 @@ We also use cookies to analyze how visitors, in the aggregate, use our website, 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our Services may not function properly if your cookies are disabled.
 
 We also use web beacons (a small transparent image, iframe, script, object or other transparent tag embedded in a web page) on some of our web pages and advertising Services. Whenever the user opens the page with a browser, the web beacon or tag is requested from the server storing it, allowing the server to take notice of the download. As a result, our servers (or our website analytics company’s servers) are informed of when the web page has been viewed.
+
+**Third Party Advertisers, Your Opt-out Rights**
+
+We use third-party companies to serve advertisements and collect non-personally identifiable information when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to our website and other sites in order to provide advertisements on our website, other sites and other forms of media about goods and services that may be of interest to you.  If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please [click here](http://www.networkadvertising.org/managing/opt_out.asp# "NAI").
 
 **Customer Information**
 
@@ -98,4 +102,4 @@ If we change this Privacy Policy in ways that affect the personally identifying 
 
 If you feel that we have not complied with this privacy statement, please contact us using the information supplied above.
 
-**UPDATED: October 20 th 2010**
+**UPDATED: April 3, 2012**
