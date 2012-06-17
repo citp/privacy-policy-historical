@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aypearl.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201193040id_/http%3A//www.aypearl.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aypearl.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617163521id_/http%3A//www.aypearl.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Wholesale Jewelry center in China at AYpearl.com
 
 ### Privacy Policy 
 
-At [AYPearl.com](http://www.ay-pearl.com/), we respect and protect our customers' privacy when we devote ourselves to providing excellent services and jewelry with good quality. Your personal information collected to offer better service for you is handled safely and responsibly. We have instituted politics intended to ensure that they are not sold or rented to other companies. The following are details of our privacy policy. 
+At [AYPearl.com](http://www.aypearl.com/), we respect and protect our customers' privacy when we devote ourselves to providing excellent services and jewelry with good quality. Your personal information collected to offer better service for you is handled safely and responsibly. We have instituted politics intended to ensure that they are not sold or rented to other companies. The following are details of our privacy policy. 
 
 #### Quality , Selection and Value 
 
