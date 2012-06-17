@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the micechat.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214012219id_/http%3A//micechat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micechat.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617021805id_/http%3A//micechat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# MiceChat - Privacy Policy
 
 ## The MiceChat Web site interface, columnists and guides are part of MiceChat. Our policy is to respect and protect the privacy of our visitors. This policy statement tells you how we collect information from you and how we use it.
 
@@ -44,7 +44,7 @@ An IP address is a number that is automatically assigned to your computer whenev
 
 We collect IP addresses for the purposes of system administration, to report aggregate information to our advertisers and partners, and to audit the use of our site. When visitors request pages from our site, our servers log the visitors’ IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a visitor’s session will be logged, but the visitor remains anonymous to us. We can and will use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our house rules or to protect our service, site, visitors, or others.
 
-Cookies
+**Cookies**
 
 Cookies are data that a Web site transfers to an individual’s computer for record-keeping purposes. Cookies, which are an industry standard used by most Web sites, including ours, can facilitate a user’s ongoing access to, and use of, a site.
 
@@ -56,7 +56,7 @@ If you do not want information collected through the use of cookies, there is a 
 
 **Advertising**
 
-In addition to possible online banner advertisements displayed by MiceChat, MiceChat may allow other companies, called third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+In addition to possible online banner advertisements displayed by MiceChat directly, we use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Links to Other Sites**
 
@@ -68,7 +68,7 @@ We have security measures in place to protect the loss, misuse and alteration of
 
 **Correcting, Updating, or Removing Personal Information**
 
-In case you wish to correct, update, or remove your personal information, we will use commercially reasonable efforts to find a way to correct, update, or remove the personal data you give us as it is used on our Web site(s) and to the extent we control the use of such data. You can do this at supplied member profile pages or by [contacting the administrator](https://web.archive.org/forums/contactus.php).
+In case you wish to correct, update, or remove your personal information, we will use commercially reasonable efforts to find a way to correct, update, or remove the personal data you give us as it is used on our Web site(s) and to the extent we control the use of such data. You can do this at supplied member profile pages or by [contacting the administrator](http://micechat.com/forums/contactus.php).
 
 **Acceptance of These Terms**
 
