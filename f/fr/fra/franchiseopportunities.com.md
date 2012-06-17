@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016165310id_/http%3A//www.franchiseopportunities.com/infopolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617113334id_/http%3A//www.franchiseopportunities.com/infopolicy.asp) for the most accurate reproduction.*
 
-# 
+# Privacy Policy, Disclaimer and Website Usage Policy
 
 ### _Privacy Policy, Disclaimer and Website Usage Policy_
 
@@ -22,7 +22,7 @@ FO also periodically sends newsletters, franchise and business opportunity updat
 
 FO is a lead generation and advertising service. Business brokers, agents, business buyers, independent business sellers, franchise companies, attorneys, and any and all other listings found on the FO website are simply advertising purchasers, listing service purchasers, or other advertising clients and are not employed by or otherwise affiliated in any way with FO. Thus FO is in no way responsible for the actions, representations, or business dealings of any business that advertises and/or appears on the website. 
 
-We also collect and use your IP address to help diagnose problems with our website server, and to administer our website. We use cookies on this site. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. 
+We also collect and use your IP address to help diagnose problems with our website server, and to administer our website. We use cookies on this site. A cookie is a small text file that is stored on a user�s computer for record-keeping purposes. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. 
 
 We use a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate to capture usage and volume statistics to improve our Web site. By submitting information to us and asking us to disclose your information to third-parties, you expressly agree to receive telephone calls and/or e-mails even if you are registered with any state Do Not Call Registry, and/or the National Do Not Call List. 
 
@@ -67,14 +67,14 @@ FranchiseOpportunities.com
 Morgan Falls Office Park   
 7840 Roswell Road, Building 100, Suite 210   
 Atlanta, GA 30350   
-770*391*5038 
+888.363.3390 
 
 [aglassman@franoppnetwork.com](mailto:aglassman@franoppnetwork.com)
 
 
 
 
-Policy effective 9/4/07, updated 1/26/11.
+Policy effective 9/4/07, updated 12/14/11.
 
 Thank you for visiting our site. 
 
