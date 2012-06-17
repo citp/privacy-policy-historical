@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the ibid2save.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218210713id_/http%3A//www.ibid2save.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibid2save.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617124816id_/http%3A//www.ibid2save.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - iBid2Save.com
 
 **_Privacy Policy_**
 
 Effective as of April 1, 2011.  
-IBID2SAVE.com is a service provided by IBID2SAVE, LLC (referred to herein as "IBID2SAVE", "us", and "we").
+IBID2SAVE.com is a service provided by IBID2SAVE, LLC and iBid2Save Ltd (referred to herein as "IBID2SAVE", "us", and "we").
 
-**OUR PLEDGE**
+ **OUR PLEDGE**
 
 Our subscribers'privacy is of primary importance to IBID2SAVE. We acknowledge and respect your personal privacy, and this Privacy Policy is intended to describe how we handle your personal information for our services on the IBID2SAVE.com website, any of its related websites, or any related tools, applications, and services provided by IBID2SAVE (collectively referred to herein as "IBID2SAVE.com website". It is very important that our subscribers are fully informed about the use of their personal information prior to their choosing to subscribe to IBID2SAVE.com. Therefore, please read this Privacy Policy carefully before using the IBID2SAVE.com website or submitting any personal information to IBID2SAVE.
 
-**SCOPE**
+ **SCOPE**
 
 This Privacy Policy provides detailed information regarding IBID2SAVE’s treatment of all personally identifiable information and other information collected by IBID2SAVE while you are visiting or using the IBID2SAVE.com website. This Privacy Policy applies generally to the IBID2SAVE.com website and content and other related websites where this Privacy Policy appears in the footer of the page.
 
@@ -25,7 +25,7 @@ If you do not agree with these practices you are free to discontinue your use of
 
 Should you have any questions about this Privacy Policy or any of the policies and practices contained therein, please email us at [support@IBID2SAVE.com](mailto:support@IBID2SAVE.com).
 
-**COLLECTION OF DATA**
+ **COLLECTION OF DATA**
 
 Non-Personally Identifiable Information
 
@@ -54,11 +54,11 @@ When you register to be a subscriber or user of the IBID2SAVE.com website, IBID2
 
 PLEASE NOTE: This Privacy Policy does not protect you when you send information, ideas, concepts or inventions to us by email, or to the various departments listed on the IBID2SAVE.com website.
 
-**MARKETING OF DATA TO THIRD PARTIES**
+ **MARKETING OF DATA TO THIRD PARTIES**
 
 IBID2SAVE does not sell, rent, or lease your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and advertising. If you don't wish to receive marketing communications from us or participate in any of our ad-customization programs, you will be able to do so through your preferences listed under the "My Account" page or by following the directions provided with the communication or advertisement itself.
 
-**USE OF PERSONAL INFORMATION DATA**
+ **USE OF PERSONAL INFORMATION DATA**
 
 IBID2SAVE's purpose for collecting personal information is to provide you with a safe, efficient, and customized experience. By registering as a subscriber or user of IBID2SAVE, you expressly consent that we may use your PERSONAL INFORMATION to:
 
@@ -73,11 +73,11 @@ IBID2SAVE's purpose for collecting personal information is to provide you with a
 
 
 
-**REGISTRATION AND SHARING THROUGH THIRD PARTY SERVICES**
+ **REGISTRATION AND SHARING THROUGH THIRD PARTY SERVICES**
 
 IBID2SAVE may offer single sign-on services that allow you to use third party login credentials to sign into the IBID2SAVE.com website. With your permission, IBID2SAVE may also transfer to IBID2SAVE certain profile information contained in your third-party profile. IBID2SAVE may also, for your use, enable you to import information about who you are connected to, as well as enable you to share information with those third-party sites. If you wish to discontinue such sharing, you will be able to do so through your preference page.
 
-**DISCLOSURE OF YOUR PERSONAL INFORMATION**
+ **DISCLOSURE OF YOUR PERSONAL INFORMATION**
 
 IBID2SAVE may disclose your Personal Information to respond to legal requirements, enforce our Terms & Conditions and Privacy Policy, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations.
 
@@ -91,37 +91,37 @@ IBID2SAVE may also share your Personal Information with third parties assisting 
 
 
 
-**INFORMATION YOU SHARE ON IBID2SAVE.COM**
+ **INFORMATION YOU SHARE ON IBID2SAVE.COM**
 
 Once you have been approved as a registered user with IBID2SAVE, you will be required to choose a user name to identify yourself on the site. This user name will be displayed throughout the IBID2SAVE.com website and therefore provided to the public. Furthermore, this under name is connected to all of your IBID2SAVE activity. Other people visiting or using the IBID2SAVE.com website can see your bids, purchases, feedback, and associated comments, and if you win an auction, IBID2SAVE will automatically display the number of bids and dollar value of those bids when the auction ends. Therefore, if you associate your actual name with your user name, the people to whom you have revealed your name will be able to personally identify your activities on the IBID2SAVE.com website. 
 
-Also note that if you access the IBID2SAVE.com website from a shared computer or a computer in an internet café, certain information about you, such as your user name, activity or reminders from IBID2SAVE, may also be visible to other individuals who use the computer after you. It is your responsibility to ensure that all private information is removed from the public or shared computer should you choose to use one.
+Also note that if you access the IBID2SAVE.com website from a shared computer or a computer in an internet café, certain information about you, such as your user name, activity or reminders from IBID2SAVE, may also be visible to other individuals who use the computer after you.It is your responsibility to ensure that all private information is removed from the public or shared computer should you choose to use one.
 
 PLEASE REMEMBER, ONCE YOU MAKE A PUBLIC POSTIING OF ANY KIND, YOU MAY NOT BE ABLE TO CHANGE OR REMOVE IT.
 
-**PUBLIC FORUMS**
+ **PUBLIC FORUMS**
 
 The IBID2SAVE.com website may make chat rooms, forums, message boards, and/or news groups available to its registered users. Please remember that any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose any of your personal information.
 
-**ACCESS, REVIEW AND CHANGE OF PERSONAL DATA**
+ **ACCESS, REVIEW AND CHANGE OF PERSONAL DATA**
 
 You can access, review and change most of your personal information by logging on to the IBID2SAVE.com website at any time. Generally, we will not modify your personal information because it is difficult to verify your identity remotely. However, some of your personal information can only be changed by contacting our Customer Service. Accurate information is required for billing and delivery purposes. You are therefore required to promptly update your personal information if changes occur or such information is inaccurate.
 
-**"OPT OUT"**
+ **"OPT OUT"**
 
 It is just as easy to "opt-out" as it is to "opt-in!" You can choose to remove yourself from our database and terminate your subscription at any time. To "opt-out," simply click the unsubscribe link located with any offer provided by IBID2SAVE . You can also choose to remove yourself from our database at any time by changing your preferences under the My Account page located on the first page of the IBID2SAVE.com website.
 
-**CLOSING YOUR ACCOUNT**
+ **CLOSING YOUR ACCOUNT**
 
 Upon your request, IBID2SAVE will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms & Conditions, and take other actions otherwise permitted by law.
 
 You should be aware that it is not technologically possible to remove each and every record of the information you have provided to us from our servers. The need to back-up our systems to protect information from inadvertent loss means that a copy of your Personal Information may exist in a non-erasable form that will be difficult or impossible for us to locate. Nevertheless, we promise that upon receiving your request, all Personal Information stored in the databases we actively use for research and daily business activities, and other readily searchable media, will be deleted.
 
-**IP ADDRESSES**
+ **IP ADDRESSES**
 
 An IP address is a number that’s automatically assigned to your computer whenever you’re surfing the web. Web servers, the computers that "serve" web pages, automatically identify your computer by its IP address. IBID2SAVE collects IP addresses for purposes of system administration, to report aggregate information to third parties and to track the use of the IBID2SAVE.com website. When visitors request pages from the IBID2SAVE.com website or click on a link in a email, our servers log the visitors’ IP addresses. We reserve the right to use IP addresses to identify a visitor or user when it will enhance the user’s experience or if we feel it is necessary to enforce compliance with the IBID2SAVE.com website’s policies or to protect IBID2SAVE, the IBID2SAVE.com website, its visitors, registered users or others.
 
-**USE OF COOKIES**
+ **USE OF COOKIES**
 
 Cookies are pieces of information that any website may transfer to your browser that are then stored in your computer's system. The IBID2SAVE.com website uses cookies. A "cookie" is a small text file that contains a string of alphanumeric characters. There are two types of cookies that may be used at the IBID2SAVE.com website: a persistent cookie and a session cookie. A persistent cookie gets entered by your Web browser into the "Cookies" folder on your computer and remains in this "Cookies" folder after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. A session cookie is held temporarily in your computer’s memory and disappears after you close your browser or shut off your computer.
 
@@ -143,13 +143,13 @@ A few important things you should know about cookies are that:
 
 
 
-**WEB BEACONS**
+ **WEB BEACONS**
 
 Web beacons, also known as "clear gifs," "one-pixel gifs," "web bugs," "Internet tags" or "pixel tags," are small graphic images on a website or in an e-mail that allow IBID2SAVE and third parties to monitor the activity on our website or to make cookies more effective. We use log files to store the data that is collected through web beacons.
 
 We use a third-party email technology to send emails that you have agreed to receive from both IBID2SAVE and other third parties. Web beacons are used in those email messages to measure the effectiveness of our advertising. If you would like to stop receiving IBID2SAVE’s email publications to which you have subscribed, you may unsubscribe by clinking the link at the bottom of the email or by changing your preferences under the "Your Account" page.
 
-**SECURITY MEASURES**
+ **SECURITY MEASURES**
 
 Your IBID2SAVE account and profile and the information contained therein are password protected. Therefore your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your IBID2SAVE password to anyone. Please note that you are not permitted to provide your password to anyone else. **IBID2SAVE will never ask for your password in an e-mail or over the phone.** If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. In the event you believe your password has been compromised for any reason, you should immediately notify IBID2SAVE at support@IBID2SAVE.com and change your password.
 
@@ -157,25 +157,25 @@ Please remember to log out of your IBID2SAVE account and to close your internet 
 
 IBID2SAVE endeavors to safeguard and protect our users' information. When users submit information on our website, such information is protected both online and offline. The servers in which we store Personal Information are kept in a secure physical environment. IBID2SAVE has security measures in place to protect against the loss, misuse and alteration of personal information under our control. Currently, IBID2SAVE uses Secure Socket Layer Software ("SSL") to protect data and to secure any transactions. SSL encrypts information, including credit card numbers, names and addresses as they are transmitted over the internet. Please be advised that, although we take reasonable technological precautions to protect your data, no data transmission over the internet can be guaranteed to be 100% secure. Therefore, IBID2SAVE cannot warrant that your information will be absolutely secure, but access to your information is strictly limited and not accessible to the public. Any transmission of data at or through the IBID2SAVE.com website is at your own risk.
 
-**PROTECTION FROM WEB CRAWLERS OR SPAM**
+ **PROTECTION FROM WEB CRAWLERS OR SPAM**
 
 IBID2SAVE assures you that we will use your e-mail address with your express consent only for the purposes stated in the Terms & Conditions. We will not rent, lease or sell your e-mail address to third parties if you have chosen to "opt out" of such marketing programs. Furthermore, we will prevent your e-mail address from being recorded by "web crawlers" or "web spiders" to the best of our ability. If you believe that your e-mail address has been recorded in this way, please email us at support@IBID2SAVE.com immediately.
 
-**RIGHT TO CONTACT VIA TELEPHONE**
+ **RIGHT TO CONTACT VIA TELEPHONE**
 
 By registering at the IBID2SAVE.com website, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR 310 et seq.), as amended from time to time (referred to herein as the "Rule") and other telemarketing laws such as FCC rules. Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, we reserve the right to contact you via telemarketing in accordance with the Rule.
 
-**THIRD PARTY LINKS**
+ **THIRD PARTY LINKS**
 
 Occasionally, at our discretion, IBID2SAVE may include or offer third party products or services on our website or through email marketing campaigns. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, IBID2SAVE seeks to protect the integrity of our site and welcome any feedback about these sites.
 
-**CHILDREN**
+ **CHILDREN**
 
 IBID2SAVE is sensitive to the need to protect the privacy of children who use the internet. IBID2SAVE does not knowingly collect or solicit personally identifiable information from or about children under the age of eighteen (18) consistent with and exceeding the requirements of the Children's Online Privacy Protection Act (COPPA). If we discover or are otherwise notified that we have received any such information from a child in violation of this policy, we will delete that information. If you are under the age of eighteen (18), please do not attempt to provide any personally identifiable information on the IBID2SAVE.com website. If you believe for any reason that IBID2SAVE has any information from or about a child under the age of thirteen, please contact us immediately by clicking on "Contact Us" and sending us an e-mail and we will take appropriate steps to remove such information from our files.
 
 Please review the privacy policy of other sites you or your children elect to link to through the IBID2SAVE.com website for the children's privacy policy of those sites. IBID2SAVE is not responsible for the privacy policy or other content of any other website, including sites that are co-branded.
 
-**NOTICE OF PRIVACY RIGHTS TO CALIFORNIA RESIDENTS**
+ **NOTICE OF PRIVACY RIGHTS TO CALIFORNIA RESIDENTS**
 
 California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the "Act") and the California Business and Professions Code. As required by the Act, California residents who have provided Personal Information to IBID2SAVE are disclosed the categories of personally identifiable information that we collect through this website and the categories of third party persons or entities with whom such personally identifiable information may be shared for direct marketing purposes at their request. California law requires us to inform California residents, at their request, (1) the categories of personally identifiable information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products marketed by those companies. 
 
@@ -190,17 +190,17 @@ Attn: California Customer Choice Notice
 Unit 415  
 Charlotte, NC 28209
 
-**TERMS & CONDITIONS**
+ **TERMS & CONDITIONS**
 
 Please also visit our Terms & Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our IBID2SAVE.com website.
 
-**GENERAL**
+ **GENERAL**
 
 IBID2SAVE may amend this Privacy Policy at any time by posting the new Privacy Policy on the IBID2SAVE.com website. All amended terms automatically take effect 30 days after they are initially posted on the IBID2SAVE.com website. You will also be notified of any amendment of this Privacy Policy by email or at the time you log into the IBID2SAVE.com website. However, IBID2SAVE reserves the right to change this Privacy Policy at any time without notice to you. Consequently, you should review this Privacy Policy for changes each time you visit the IBID2SAVE.com website.
 
 If you do not agree to the terms of this Privacy Policy or any revised policy, please exit the IBID2SAVE.com website immediately. This website and the servers that make this website available are located in the United States. By using the IBID2SAVE.com website you expressly agree to the transfer, collection, processing and use of data by the IBID2SAVE.com website as outlined in this Privacy Policy.
 
-**QUESTIONS?**
+ **QUESTIONS?**
 
 If you have any questions about this Privacy Policy, the practices of the IBID2SAVE.com website, or your dealings with the IBID2SAVE.com website that are not otherwise answered online, please email us at support@IBID2SAVE.com.
 
