@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lpga.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064014id_/http%3A//www.lpga.com./content_1.aspx%3Fmid%3D0%26pid%3D61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpga.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617021753id_/http%3A//www.lpga.com/corporate/ladies-golf/privacy-policy.aspx) for the most accurate reproduction.*
 
-# LPGA.com
+# Privacy Policy | Professional Golfers | Tour Schedule, Leaderboard & News | LPGA
 
 This privacy statement is applicable to LPGA.com and all its affiliates. 
 
@@ -29,6 +29,3 @@ The foregoing policies are effective as of February, 2004. The LPGA reserves the
 By using this site, you signify your assent to the LPGA Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the LPGA's sites following the posting of changes to these terms will mean you accept those changes.
 
 If you have questions or concerns regarding this Web site's privacy statement, [contact the LPGA.](mailto:feedback@lpga.com)
-
-  
-
