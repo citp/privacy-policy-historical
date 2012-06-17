@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mac.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207221208id_/http%3A//www.apple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mac.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617144538id_/http%3A//www.apple.com/privacy) for the most accurate reproduction.*
 
 # Apple - Apple Customer Privacy Policy
 
@@ -43,13 +43,13 @@ If we do combine non-personal information with personal information the combined
 
 ## Cookies and Other Technologies
 
-Apple’s website, online services, interactive applications, email messages, and advertisements may use “cookies” and other technologies such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+Apple’s website, online services, interactive applications, email messages, and advertisements may use [“cookies” and other technologies](https://web.archive.org/privacy/use-of-cookies/) such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
 
 Apple and its partners use cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by accessing the following link on your device: [http://oo.apple.com](http://oo.apple.com/). If you opt out, you will continue to receive the same number of mobile ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to the content on a web page or in an application or based on other non-personal information. This opt-out applies only to Apple advertising services and does not affect interest-based advertising from other advertising networks.
 
 Apple and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to make your experience with Apple more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit the Apple Online Store. Knowing your country and language − and if you are an educator, your school − helps us provide a customized and more useful shopping experience. Knowing someone using your computer or device has shopped for a certain product or used a particular service helps us make our advertising and email communications more relevant to your interests. And knowing your contact information, product serial numbers, and information about your computer or device helps us register your products, personalize your operating system, set up your iCloud service, and provide you with better customer service. 
 
-If you want to disable cookies and you’re using the Safari web browser, go to Safari preferences and then to the Security pane to disable cookies. On your Apple mobile device, go to Settings, then Safari, and then to the Cookies section. For other browsers, check with your provider to find out how to disable cookies. Please note that certain features of the Apple website will not be available once cookies are disabled. 
+If you want to disable cookies and you’re using the Safari web browser, go to Safari preferences and then to the privacy pane to disable cookies. On your Apple mobile device, go to Settings, then Safari, and then to the Cookies section. For other browsers, check with your provider to find out how to disable cookies. Please note that certain features of the Apple website will not be available once cookies are disabled. 
 
 As is true of most websites, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data.
 
@@ -105,9 +105,9 @@ Apple websites, products, applications, and services may contain links to third-
 
 ## International Users
 
-Information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Apple abides by the “safe harbor” framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected by organizations in the European Economic Area and Switzerland. Learn more about the [U.S. Department of Commerce Safe Harbor Program](http://www.export.gov/safeharbor/index.asp).
+Information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Apple abides by the “safe harbor” frameworks set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected by organizations in the European Economic Area and Switzerland. Learn more about the [U.S. Department of Commerce Safe Harbor Program](http://www.export.gov/safeharbor/index.asp).
 
-Please note that personal information regarding individuals who reside in a member state of the European Economic Area (EEA) is jointly controlled by Apple Sales International in Cork, Ireland, and Apple UK Limited in Uxbridge, United Kingdom. Personal information collected in the EEA when using iTunes is controlled by iTunes SARL in Luxembourg.
+Please note that personal information regarding individuals who reside in a member state of the European Economic Area (EEA) is controlled by Apple Distribution International in Cork, Ireland, and processed on its behalf by Apple Inc. Personal information collected in the EEA when using iTunes is controlled by iTunes SARL in Luxembourg and processed on its behalf by Apple Inc.
 
 ## Our Companywide Commitment to Your Privacy
 
@@ -121,4 +121,4 @@ Apple may update its Privacy Policy from time to time. When we change the policy
 
 Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
 
-_Last updated: October 21, 2011_
+_Last updated: May 21, 2012_
