@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the roku.com privacy policy that was archived on 2011-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204072551id_/http%3A//www.roku.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roku.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617120114id_/http%3A//www.roku.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Roku | Roku Player Privacy Policy
@@ -8,9 +8,49 @@
     <script src="/include/jquery/jquery.hint.js" type="text/javascript"></script>
     <script src="/include/jquery/jquery.ifixpng2.min.js" type="text/javascript"></script>
     <script src="/include/jquery/hflip.js" type="text/javascript"></script>	
+	<!-- OPTIMOST PAGE & SELECTOR CODE V2.8 - Copyright 2002-2012 Autonomy Optimost --> 
+	<script type="text/javascript">
+    	var optimost = {A:{},C:{},D:document,L:document.location,M:[],Q:{},T:new Date(),U:'',V:'2.7',Enabled:true,ST:"script",SA:{"type":"text/javascript"},I:function(){var s=this.L.search;var c=this.D.cookie;if(s.length>3){for(var a=s.substring(1).split("&"),i=0,l=a.length;i<l;i++){var p=a[i].indexOf("=");if(p>0)this.Q[a[i].substring(0,p)]=unescape(a[i].substring(p+1));}}if(c.length>3){for(var a=c.split(";"),i=0,b=a.length;i<b;i++){var v=a[i].split("=");while(v[0].substring(0,1)==" ")v[0]=v[0].substring(1,v[0].length);if(v.length==2)this.C[v[0]]=unescape(v[1]);}}},B:function(){var n;this.A={};var _o=this;this.A.D_ts=Math.round(_o.T.getTime()/1000);this.A.D_tzo=_o.T.getTimezoneOffset();this.A.D_loc=_o.L.protocol+"//"+_o.L.hostname+_o.L.pathname;this.A.D_ckl=_o.D.cookie.length;this.A.D_ref=_o.D.referrer;if(typeof optrial=="object")for(n in optrial)this.A[n]=optrial[n];for(n in this.Q)this.A[n]=this.Q[n];for(n in this.C)if(n.substring(0,2)=="op")this.A[n]=this.C[n];},S:function(){var q='';for(var n in this.A)if(this.A[n]!=null && this.A[n]!="")q+=(q.length>0?"&":(this.U.indexOf("?")>0?"&":"?"))+n+"="+escape(this.A[n]);return this.U+q;},SC:function(n,v,e,d){var de=new Date();de.setTime(de.getTime()+e * 1000);this.D.cookie=n+"="+escape(v)+((e==null)?"":("; expires="+de.toGMTString()))+"; path=/"+((d==null)?"":(";domain="+d));},SLD:function(){var sld=this.D.domain;var dp=sld.split(".");var l=dp.length;if(l<2)sld=null;else if(!isNaN(dp[l-1])&&!isNaN(dp[l-2]))sld=null;else sld="."+dp[l-2]+"."+dp[l-1];return sld;},R:function(r,c,d,e){if(this.Enabled){var b=true;if(r<1000){b=(Math.floor(Math.random()*1000)<r);if(c!=null){if(this.C[c]!=null)b=(this.C[c]!="mvt-no");else this.SC(c,b?"mvt-yes":"mvt-no",e,d);}}if(b){var t='<'+this.ST+' src="'+this.S()+'"';for(n in this.SA)t+=(" "+n+'="'+this.SA[n]+'"');t+='><\/'+this.ST+'>';this.D.write(t);}}},addModule:function(s,f){this.M[s]=f;},displayModule:function(s){if(typeof this.M[s]=="function")this.M[s]();},hasModules:function(){return count(this.M)>0;       }};optimost.I();
+				
+		w=window,opname="$optS";
+		w[opname]={};
+		w[opname].wl=window.location;
+		w[opname].wlp=w[opname].wl.protocol;
+		w[opname].selVal="opselect";
+	
+		if(w[opname].wl && w[opname].wlp && w[opname].wlp.toLowerCase().indexOf("https")>-1)w[opname].path="https://by.essl.optimost.com/";
+		else w[opname].path="http://es.optimost.com/";
+		
+		w[opname].url_live = "es/1637/c/1/u/roku.live.js"; 
+		w[opname].url_qa = "es/1637/c/1/u/roku.staging.js"; 
+		w[opname].url = w[opname].url_live;
+	
+		if (typeof(optimost)=='object'){
+			w[opname].qc = optimost.Q[w[opname].selVal] || optimost.C[w[opname].selVal] || "none";
+			if(w[opname].qc.toLowerCase()=="qa")
+			{
+				w[opname].url=w[opname].url_qa;
+			}
+			else if(w[opname].qc.toLowerCase()=="live")
+			{
+				w[opname].url=w[opname].url_live;
+			}
+			else if(w[opname].qc.toLowerCase()=="off")
+			{
+				w[opname].url=''; //Turning off the Global Code, for QA purposes
+			}
+		}
+		if(w[opname].url!=''){
+			if(w[opname].url.toLowerCase().indexOf("http")==-1)w[opname].url=w[opname].path+w[opname].url; 
+			var opDs=Math.round(optimost.T.getTime()/(3600000*24));
+			document.write('<'+'script type="text/javascript" src="'+w[opname].url+'?D_ds=' + opDs +'"><\/'+'script>');
+		}
+	//-->
+	</script><script type="text/javascript" src="https://by.essl.optimost.com/es/1637/c/1/u/roku.live.js?D_ds=18292"></script>
+	<!-- /END OPTIMOST PAGE & SELECTOR CODE-->
 <meta name="Description" content="Read the Roku Privacy Policy. Know about Roku’s privacy policy regarding information collection, information usage, access to information, data storage and security, modifications and contact information.
 "><meta name="Keywords" content="roku privacy policy
-"><meta name="Generator" content="Sitefinity 3.7.2057.2:1"><script src="https://owner.archive.org/api/userinfo?_=1582520849172"></script></head>
+"><meta name="Generator" content="Sitefinity 3.7.2057.2:1"><script src="https://owner.archive.org/api/userinfo?_=1580438224636"></script></head>
 <body>
     <form name="aspnetForm" method="post" action="privacy.sf404.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWQYBAUtY3RsMDAkQ2hpbGRDb250ZW50UGxhY2VIb2xkZXIkR2VuZXJpY0NvbnRlbnQ0DxQrAAFkZAUtY3RsMDAkQ2hpbGRDb250ZW50UGxhY2VIb2xkZXIkR2VuZXJpY0NvbnRlbnQzDxQrAAFkZAUfY3RsMDAkRm9vdGVyTmF2JEdlbmVyaWNDb250ZW50MQ8UKwABBQ9HZW5lcmljX0NvbnRlbnRkBS1jdGwwMCRDaGlsZENvbnRlbnRQbGFjZUhvbGRlciRHZW5lcmljQ29udGVudDIPFCsAAWRkz5l12BlcTX8MI54wC6XUpyHadMo=">
@@ -176,19 +216,62 @@
         </div>
         <div id="footer-nav">
             <style type="text/css">
-    #footer-nav {clear:both;display:block;padding: 24px 0 0 0;background-color:#3f3b43;}
-    #footer-bar {display:none}
-    h1.sm-head-inv {font-size:10pt;color:#8e8e8e;margin-top:0;margin-bottom: 10px;border-bottom:2px solid #8e8e8e;font-weight:bold;}
-    .f-about {display:block;width:260px;float:left;margin:0 0 24px 24px;color:#8e8e8e;text-align:left;}
-    .f-menus {display:block;width:660px;float:right;margin: 0 24px 24px 12px;}
-    .f-menu {display:block;width:140px;float:right;margin-left:24px;text-align:right;}
-    .f-menu ul {margin:0;padding:0; list-style:none;}
-    .f-menu ul li {text-align:right}
-    .f-copy-line {clear:both;display:block;text-align:right;color:#666666;background:#323232 url(/Libraries/Home_-_v4/footer-bkgd.sflb.ashx) repeat-x;padding:8px 20px 8px 20px;margin:0;}
-    .f-copy-line a, .f-copy-line a:visited {color:#666666;text-decoration:none;}
-    .f-about a, .f-menus a, .f-about a:visited, .f-menus a:visited {color:#8e8e8e !important;text-decoration:none !important;}
-    .f-about a:hover, .f-menus a:hover, .f-copy-line a:hover {color:#1da7e1 !important;}
-</style> <div class="f-about"> <h1 class="sm-head-inv">About Roku</h1> <p>Roku launched the first product designed to deliver movies from Netflix instantly on TV, using the power of the Internet. Since then, our best-selling Roku streaming players have become synonymous with amazing choice, control, and value in TV entertainment. Join us—and be a part of the Roku revolution.</p> </div> <div class="f-menus"> <div class="f-menu"> <h1 class="sm-head-inv">Buy Roku</h1> <ul> <li><a href="https://shop.roku.com/">BUY NOW</a> </li> <li><a href="/retail">RETAIL LOCATIONS</a> </li> <li><a href="/accessories">ACCESSORIES</a> </li> </ul> </div> <div class="f-menu"> <h1 class="sm-head-inv">Connect</h1> <ul> <li><a href="http://blog.roku.com">Blog</a> </li> <li><a href="http://www.facebook.com/roku" target="_blank">Facebook</a> </li> <li><a href="http://www.twitter.com/rokuplayer" target="_blank">Twitter</a> </li> <li><a href="/developer">Create a Channel</a> </li> <li><a href="/developer">Developers</a> </li> <li><a href="/testimonials">Customer Reviews</a> </li> </ul> </div> <div class="f-menu"> <h1 class="sm-head-inv">About Us</h1> <ul> <li><a href="/roku-products">Products</a> </li> <li><a href="/about/management">Management</a> </li> <li><a href="/about/careers">Jobs</a> </li> <li><a href="/about/pressroom">Press</a> </li> <li><a href="/about/contact">Contact</a> </li> <li><a href="/about/affiliate">Affiliate Program</a> </li> </ul> </div> <div class="f-menu"> <h1 class="sm-head-inv">Channels</h1> <ul> <li><a href="/netflix-partner">Netflix</a> </li> <li><a href="/hulu-partner">Hulu Plus</a> </li> <li><a href="/amazon-partner">Amazon Instant Video</a> </li> <li><a href="/pandora-partner">Pandora</a> </li> <li><a href="/ufc-partner">UFC</a> </li> <li><a href="/roku-channel-store">See all Channels</a> </li> </ul> </div> </div> <div class="f-copy-line"><a href="http://sanjose.bbb.org/business-reviews/Electronic-Equipment-and-Supplies---Wholesale-and-Manufacturers/Roku-Inc-in-Saratoga-CA-223541" target="_blank"><img style="MARGIN-TOP: -6px; FLOAT: left" alt="BBB Accredited Business" src="/Libraries/Home_-_v4/bbb-small.sflb.ashx"></a> ©2011 Roku Inc. All rights reserved. | <a href="/about/sitemap">Site Map</a> | <a href="/about/privacy">Privacy Policy</a> | <a href="/dmca">Copyright Infringement DMCA Procedures</a><a style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none; TEXT-DECORATION: none" href="http://www.roku.com">&nbsp; <img style="BORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid; MARGIN-TOP: 0px; BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid" alt="Roku" align="absMiddle" src="/Libraries/Home_-_v4/roku-logo-inv-sm.sflb.ashx"></a></div> <script type="text/javascript"> var xgJsHost = (("https:" == document.location.protocol) ? "https://sxcdn." : "http://xcdn."); document.write(unescape("%3Cscript src='"+xgJsHost+"xgraph.net/16122/db/xg.js.jsp?pid=16122&sid=12001&type=db&p_bid=&ref=")+escape(top.document.referrer)+"&dref="+escape(document.referrer)+unescape("'type='text/javascript' charset='utf-8'%3E%3C/script%3E")); </script><script src="https://sxcdn.xgraph.net/16122/db/xg.js.jsp?pid=16122&amp;sid=12001&amp;type=db&amp;p_bid=&amp;ref=&amp;dref=" type="text/javascript" charset="utf-8"></script>
+    #footer-nav { clear:both; display:block; padding: 24px 0 0 0; background-color:#3f3b43; }
+    #footer-bar { display:none }
+    h1.sm-head-inv { font-size:10pt; color:#8e8e8e; margin-top:0; margin-bottom: 10px; border-bottom:2px solid #8e8e8e; font-weight:bold; }
+    .f-about { display:block; width:260px; float:left; margin:0 0 24px 24px; color:#8e8e8e; text-align:left; }
+    .f-menus { display:block; width:660px; float:right; margin: 0 24px 24px 12px; }
+    .f-menu { display:block; width:140px; float:right; margin-left:24px; text-align:right; }
+    .f-menu ul { margin:0; padding:0; list-style:none; }
+    .f-menu ul li { text-align:right }
+    .f-copy-line { clear:both; display:block; text-align:right; color:#666666 !important; background:#323232 url(/Libraries/Home_-_v4/footer-bkgd.sflb.ashx) repeat-x; padding:10px 20px 10px 20px; margin:0; }
+    .f-copy-line a, .f-copy-line a:visited { color:#666666; text-decoration:none; }
+    .f-about a, .f-menus a, .f-about a:visited, .f-menus a:visited { color:#8e8e8e !important; text-decoration:none !important; }
+    .f-about a:hover, .f-menus a:hover, {
+    color:#1da7e1 !important;
+    }
+</style> <style type="text/css">
+    #country-menu { font-family:Arial, Helvetica, sans-serif; text-align:center !important; color:#999; }
+    #country-menu.right { float:right; width:130px; height:23px; line-height:23px; cursor:pointer; }
+    #country-menu h4 { font-size:14px; line-height:14px; color:#656565; margin:10px 0; padding:0; }
+    #country-menu .country-nav { opacity:0; display:none; position:absolute; margin:-140px 0 0 -313px; width:293px; height:158px; padding:9px 18px 10px 8px; background:url(/Libraries/Country_Selector/bg_country-menu.sflb.ashx) no-repeat top left; cursor:default; }
+    #country-menu .country-nav ul, #country-menu .country-nav li { padding:0; margin:0; list-style:none; }
+    #country-menu .country-nav li { float:left; height:58px; margin:5px 0; width:25%; font-size:10px; line-height:14px; text-align:center !important; }
+    #country-menu .country-nav span { display:block; margin:0 0 5px 0; }
+    #country-menu .country-nav a { color:#999; text-decoration:none; display:block; }
+    #country-selection { text-align:left !important; text-indent:10px; font-size:12px; background:url(/Libraries/Country_Selector/asset_country-flag-us-sm.sflb.ashx) right center no-repeat; }
+    #country-selection.ca-fr { background:url(/Libraries/Country_Selector/asset_country-flag-ca.sflb.ashx) right center no-repeat; }
+    #country-selection.ca { background:url(/Libraries/Country_Selector/asset_country-flag-ca.sflb.ashx) right center no-repeat; }
+    #country-selection.ie { background:url(/Libraries/Country_Selector/asset_country-flag-ie.sflb.ashx) right center no-repeat; }
+    #country-selection.uk { background:url(/Libraries/Country_Selector/asset_country-flag-uk.sflb.ashx) right center no-repeat; }
+    #country-selection.us { background:url(/Libraries/Country_Selector/asset_country-flag-us-sm.sflb.ashx) right center no-repeat; }
+    #country-selection.es-es { background:url(/Libraries/Country_Selector/asset_country-flag-es.sflb.ashx) right center no-repeat; }
+    #country-selection.de-de { background:url(/Libraries/Country_Selector/asset_country-flag-de.sflb.ashx) right center no-repeat; }
+</style> <script type="text/javascript">var currentCountry = 'us';</script> <script type="text/javascript">
+$(function(){
+	var country = $('#country-menu');
+	var countryNav = $('.country-nav');
+	var countryLinks = $('.country-nav a');
+	var countryLabel = $('#country-selection');
+	
+	//trim and trailing slashes	
+	if(currentCountry != null) 
+		currentCountry.replace('/','')
+	
+	//add correct flag to country selector	
+	countryLabel.removeClass().addClass(currentCountry);
+	
+	//fade effects for meny
+	country.hover(function(){
+		countryNav.show().fadeTo('fast',1);
+	}, function(){
+		countryNav.fadeTo('fast',0, function() { $(this).hide() });
+	});
+       
+        if($.browser.msie && $.browser.version < '8.0')
+		countryNav.css('margin-left','-380px');
+});
+</script> <div class="f-about"> <h1 class="sm-head-inv">About Roku</h1> <p>Roku launched the first product ever designed to stream movies from Netflix instantly on TV. Since then, our best-selling Roku streaming players have become synonymous with amazing choice, control, and value in TV entertainment. Join us—and be a part of the Roku revolution.</p> </div> <div class="f-menus"> <div class="f-menu"> <h1 class="sm-head-inv">Buy Roku</h1> <ul> <li><a href="https://shop.roku.com/">BUY NOW</a> </li> <li><a href="/retail">RETAIL LOCATIONS</a> </li> <li><a href="/accessories">ACCESSORIES</a> </li> <li><a href="https://shop.roku.com/">REVIEWS</a> </li> <li><a href="http://www.roku.com/about/roku_coupons">ROKU COUPONS</a> </li> <li><a href="/streamingstick">Streaming Stick</a></li> <li> <div id="country-menu" class="right"> <div class="country-nav"> <h4>Please choose your country or region</h4> <ul> <li class="us"><a href="/"><img src="/Libraries/Country_Selector/asset_country-flag-us.sflb.ashx" alt="United States"><span>United States</span></a></li> <li class="uk"><a href="/uk/"><img src="/Libraries/Country_Selector/asset_country-flag-uk.sflb.ashx" alt="United Kingdom"><span>United Kingdom</span></a></li> <li class="ie"><a href="/uk/"><img src="/Libraries/Country_Selector/asset_country-flag-ie.sflb.ashx" alt="Ireland"><span>Ireland</span></a></li> <li class="ca-fr"><a href="/ca-fr/"><img src="/Libraries/Country_Selector/asset_country-flag-ca.sflb.ashx" alt="Canada (French)"><span>Canada (French)</span></a></li> <li class="ca"><a href="/ca/"><img src="/Libraries/Country_Selector/asset_country-flag-ca.sflb.ashx" alt="Canada (English)"><span>Canada (English)</span></a></li> </ul> </div> <div id="country-selection" class="us">Country Selector</div> </div> </li> </ul> </div> <div class="f-menu"> <h1 class="sm-head-inv">Connect</h1> <ul> <li><a href="http://blog.roku.com">Blog</a> </li> <li><a href="/referafriend">Refer-A-Friend</a> </li> <li><a href="http://www.facebook.com/roku" target="_blank">Facebook</a> </li> <li><a href="http://www.twitter.com/rokuplayer" target="_blank">Twitter</a> </li> <li><a href="/developer">Create a Channel</a> </li> <li><a href="/developer">Developers</a> </li> <li><a href="/testimonials">Customer Reviews</a> </li> </ul> </div> <div class="f-menu"> <h1 class="sm-head-inv">About Us</h1> <ul> <li><a href="/roku-products">Products</a></li> <li><a href="/about/imageresources">Image Resources</a></li> <li><a href="/about/management">Management</a> </li> <li><a href="/about/careers">Jobs</a> </li> <li><a href="/about/pressroom">Press</a> </li> <li><a href="/about/contact">Contact</a> </li> <li><a href="/about/affiliate">Affiliate Program</a> </li> </ul> </div> <div class="f-menu"> <h1 class="sm-head-inv">Channels</h1> <ul> <li><a href="/netflix-partner">Netflix</a> </li> <li><a href="/hulu-partner">Hulu Plus</a> </li> <li><a href="/amazon-partner">Amazon Instant Video</a> </li> <li><a href="/hbo-partner">HBO GO</a> </li> <li><a href="/nba">NBA Game Time</a></li> <li><a href="/pandora-partner">Pandora</a> </li> <li><a href="/roku-channel-store">See all Channels</a> </li> </ul> </div> </div> <div class="f-copy-line"><a href="http://sanjose.bbb.org/business-reviews/Electronic-Equipment-and-Supplies---Wholesale-and-Manufacturers/Roku-Inc-in-Saratoga-CA-223541" target="_blank"><img style="margin-top: -3px; float: left; height: 28px; width: 70px;" alt="BBB Accredited Business" src="/Libraries/Home_-_v4/bbb-small.sflb.ashx"></a> <span style="margin-top: 17px; ">©2012 Roku Inc. All rights reserved. | <a href="/about/sitemap"><span style="color: rgb(102, 102, 102); ">Site Map</span></a> | <a href="/about/privacy"><span style="color: rgb(102, 102, 102); ">Privacy Policy</span></a> | <a href="/dmca"><span style="color: rgb(102, 102, 102); ">Copyright Infringement DMCA Procedures</span></a></span><a style="border-width: medium; border-style: none; border-color: -moz-use-text-color; text-decoration: none;" href="http://www.roku.com">&nbsp; &nbsp; &nbsp;<img style="border-width: 0px; border-style: solid; border-color: -moz-use-text-color; margin-top: 0px;" alt="Roku" src="http://www.roku.com/Libraries/Home_-_v4/roku-logo-inv-sm.sflb.ashx" align="absMiddle"></a></div>
         </div>
     </div>
     
@@ -246,7 +329,16 @@
         pageTracker._initData();
         pageTracker._trackPageview();
     </script>
-
+	
+	<!-- OPTIMOST GLOBAL MODULE AND COUNTER CODE --> 
+	<script type="text/javascript">
+		if(typeof(opModulesArray)!='undefined' && opModulesArray.length>0) {
+			for(var i=0;i<opModulesArray.length;i++){
+				optimost.displayModule(opModulesArray[i]);
+			}
+		}
+	</script> 
+	<!-- END OPTIMOST GLOBAL MODULE AND COUNTER CODE -->
 
 
 </body></html>
