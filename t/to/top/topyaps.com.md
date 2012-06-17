@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topyaps.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229021226id_/http%3A//www.topyaps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topyaps.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617234347id_/http%3A//www.topyaps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TopYaps - Top ten lists
 
@@ -10,7 +10,7 @@ Thank you for giving your precious time to TopYaps, a website running under the 
 
 This privacy policy is applicable only for the TopYaps and can’t be applied on informations gathered from other websites that TopYaps does not control. To clear up things, if you click on any advertisement on any page of TopYaps, then it will link you to other website and thus your information will be compiled by that specific website. In this case, we will not hold the responsibilities for the privacy affairs of other websites. We highly recommend you to check out the privacy policies of each website particularly visited by you via TopYaps.
 
-**(B) What informations TopYaps collects:**  
+**(B) What Information TopYaps Collects:**  
 ****
 
 **(B.1) – Direct information:**
@@ -23,7 +23,7 @@ In order to visit this website directly, you’re not asked to provide your pers
 
 
 
-**(B.2) – Information collected by our server:**
+**(B.2) – Information Collected By Our Server:**
 
 Whenever you interact with Topyaps, our server automatically collects these informations:
 
@@ -38,7 +38,7 @@ Whenever you interact with Topyaps, our server automatically collects these info
 
 
 
-**(B.3) -  Information collected from third-party sources and platforms:**
+**(B.3) -  Information Collected From Third-Party Sources and Platforms:**
 
 We may access your these personal details from our network partners (social networking sites, advertisement firms and other online marketing firms):
 
@@ -49,7 +49,7 @@ We may access your these personal details from our network partners (social netw
 
 
 
-**(C) – What do we do of your details:**
+**(C) – What Do We Do of Your Details:**
 
   * We may use your email to inform you about our article updates, your account changes, promotional messages (either of our own or of our network partners).
   * With your permission, we may send messages or notifications on your mobile number.
@@ -58,7 +58,7 @@ We may access your these personal details from our network partners (social netw
 
 
 
-**(D) – Sharing your details with third-party:**
+**(D) – Sharing Your Details With Third-Party:**
 
 To protect your information is our biggest concern and that’s why we provide your personal details to our network partners under certain circumstances with strict policies. The sharing policy is executed within following points :
 
@@ -70,7 +70,7 @@ To protect your information is our biggest concern and that’s why we provide y
 
 
 
-**(E) – Your participation in third-party services:**
+**(E) – Your Participation in Third-Party Services:**
 
 We open-heartedly provide the chance to customize your experience on the Internet and moreover, we appreciate you for building interaction with third parties (such as Twitter and Facebook). The cosmic benefits of this relationship building process are:
 
@@ -80,7 +80,9 @@ We open-heartedly provide the chance to customize your experience on the Inter
 
 
 
-**(F) – User conduct:**
+**(F) – User Conduct:**  
+  
+
 
 As a user of TopYaps, your most significant contribution is to participate in comment section. For your kind information, we never delete comments based on critical, political and ideological nature. You, yourself, are responsible for posting comments on TopYaps and witnessing its further consequences. Once a comment is posted, we will not remove it by any request. We respect your rights and preserve these points:
 
@@ -95,12 +97,14 @@ As a user of TopYaps, your most significant contribution is to participate in co
 
 
 
-**(G) – Our loyalty to security:**
+**(G) – Our Loyalty to Security:**
 
 In order to forbid wildcat access and safeguard the personal data of users, we have employed sophisticated technical and managerial means. We apply industry-standard encryption technology so that we can protect your valuable information from network breaches.
 
-**(H) – Contact us:**
+**(H) – Contact Us:**
 
 If you have concerns and questions about the privacy policy of TopYaps, please contact us at privacy@topyaps.com.
 
-_* This policy is effective from 08/05/2011._
+****TopYaps does not holds responsibility for the content of external websites****
+
+_* This Privacy Policy is effective from 08/05/2011._
