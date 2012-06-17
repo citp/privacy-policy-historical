@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208031014id_/http%3A//www.kidzworld.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617044358id_/http%3A//www.kidzworld.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Safe Website For kids - Kidzworld
 
@@ -6,7 +6,7 @@ Established in 2001, Kidzworld is the **_first[safe](http://safe.kidzworld.com/)
 
 ## Children's Online Privacy Protection Act
 
-Kidzworld is a leading [**_safe website for kids_**](https://web.archive.org/web/20111208031014id_/http%3A//www.kidzworld.com/corporate/safety). It was established in 2001, by Allen W. Achilles as a direct result of his concern for the safety and security of his own children online. Since that time, Allen Achilles has been a tireless advocate for the safety and security of kids online. COPPA (Children’s Online Privacy Protection Act) became effective on April 21, 2000. The regulations apply to the online collection of personal information from children 12 years and younger. The Act spells out what website operators, need to include in privacy policy, when and how to seek verifiable consent from a parent and what responsibilities website operators, have to protect and secure children’s privacy and safety online.
+Kidzworld is a leading [**_safe website for kids_**](https://web.archive.org/web/20120617044358id_/http%3A//www.kidzworld.com/corporate/safety). It was established in 2001, by Allen W. Achilles as a direct result of his concern for the safety and security of his own children online. Since that time, Allen Achilles has been a tireless advocate for the safety and security of kids online. COPPA (Children’s Online Privacy Protection Act) became effective on April 21, 2000. The regulations apply to the online collection of personal information from children 12 years and younger. The Act spells out what website operators, need to include in privacy policy, when and how to seek verifiable consent from a parent and what responsibilities website operators, have to protect and secure children’s privacy and safety online.
 
 COPPA applies to individual identifiable information about a child (12 or younger) that is collected online, such as full name, home address, email address, telephone number or any other information that would allow someone to identify or contact a kid. The Act also applies to other types of information, such as hobbies, interests and user information gathered through the use of cookies and other methods of tracking, when they are tied to individually identifiable information. 
 
@@ -54,7 +54,7 @@ We also use third-party advertising networks to serve ads. These companies may u
 
 ### Third Party Cookies
 
-In the course of serving advertising, our third-party advertiser may place or recognize a unique cookie on your browser. This does not have any inmpact on the kids safety on the website.
+In the course of serving advertising, our third-party advertiser may place or recognize a unique cookie on your browser. This does not have any impact on the kids safety on the website.
 
 ### Security
 
