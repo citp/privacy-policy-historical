@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallpaperfx.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214100037id_/http%3A//www.wallpaperfx.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperfx.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617192750id_/http%3A//www.wallpaperfx.com/privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policies | WallpaperFX
+# Privacy Policies
 
 **Privacy Policy**  
 WallpaperFX has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. Please read the following to learn more about how we protect and respect your personal privacy while logged into our web server.
