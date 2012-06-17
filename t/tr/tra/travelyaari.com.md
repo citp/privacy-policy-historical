@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelyaari.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223301id_/http%3A//www.travelyaari.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelyaari.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617220339id_/http%3A//www.travelyaari.com/privacy) for the most accurate reproduction.*
 
 # Travelyaari.com - Privacy Policy
 
@@ -10,6 +10,6 @@ Travelyaari will take appropriate steps to protect the information you share wit
 
 If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. Please reference the privacy policy in your subject line. Travelyaari will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. 
 
-Thank you for using TraveYaari! 
+Thank you for using Travelyaari! 
 
 We appreciate your business
