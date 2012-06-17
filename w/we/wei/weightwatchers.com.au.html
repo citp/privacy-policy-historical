@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the weightwatchers.com.au privacy policy that was archived on 2011-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111117002606id_/http%3A//www.weightwatchers.com.au/legal/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weightwatchers.com.au privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617041023id_/http%3A//www.weightwatchers.com.au/legal/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
         <title>
             WeightWatchers.com.au: Privacy Policy</title>
-        <link href="http://aka.weightwatchers.com.au/css/3081/nav_vis.css" rel="stylesheet" type="text/css">
+        
+<script type="text/javascript" src="/include/jquery.js"></script>
+<link href="http://aka.weightwatchers.com.au/css/3081/nav_vis.css" rel="stylesheet" type="text/css">
 
 <link href="http://aka.weightwatchers.com.au/css/3081/topnav_ie.css" rel="stylesheet" type="text/css">
 <link href="http://aka.weightwatchers.com.au/css/3081/global.css" rel="stylesheet" type="text/css">
@@ -13,8 +15,8 @@
 
 
     </head>
-    <body text="#666666" vlink="#006699" alink="#99cc66" link="#006699" bgcolor="#ffffff" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
-        <!--- begin header--->
+    <body id="grid">
+        <!--  begin header -->
         <form name="pageform" method="post" action="privacy.aspx" id="pageform">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTgwNjE3ODk3Mw9kFgQCAQ8WAh4EVGV4dAUlV2VpZ2h0V2F0Y2hlcnMuY29tLmF1OiBQcml2YWN5IFBvbGljeWQCBQ9kFgICAg8WAh8ABQcyMDAwMjUxZGQ=">
 
@@ -33,15 +35,22 @@ var msgWildcard = "A wildcard search requires at least 3 characters. Please try 
 <script language="JavaScript" type="text/javascript" src="http://aka.weightwatchers.com.au/include/ww_tabs.js"></script>
 <script language="JavaScript" type="text/javascript" src="http://aka.weightwatchers.com.au/include/search.js"></script>
 <script language="JavaScript" type="text/javascript" src="/include/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
+<script type="text/javascript" src="http://aka.weightwatchers.com.au/include/FBHelper.js"></script>
 <script language="JavaScript">
-    function fLogin()
+    function fLogin(isWWButtonClicked)
     {
-	    javascript:void(loginPopup('/legal/privacy.aspx'));
+	    javascript:void(loginPopup('/legal/privacy.aspx','false', isWWButtonClicked));
+    }
+
+    function TopNavFbLogin()
+    {
+		var isWWButtonClicked = false;
+	    javascript:void(loginPopup('/legal/privacy.aspx','true', isWWButtonClicked));
     }
 
     function fLogout(setURL)
     {
-	    logoutPopup(0,setURL);
+	    logoutPopup(false, setURL);
 	    
 	    if(PlanManagerIsActive()) 
 	    {
@@ -50,29 +59,44 @@ var msgWildcard = "A wildcard search requires at least 3 characters. Please try 
     }
 </script>
  
+<div id="fb-root"></div>
 <div id="wwhdr" xmlns:fo="http://www.w3.org/1999/XSL/Format"><div id="logo" class=""><a href="/index.aspx" title="WeightWatchers.com.au" class="" target="_top"><display>WeightWatchers.com.au</display></a></div><div id="corpsol" class="">&nbsp;</div><div id="metanav"><ul><li class=""><a href="/util/mtf/index.aspx" title="Find a Meeting" class="" target="_top"><display>Find a Meeting</display></a></li><li class=""><a href="/help/index.aspx" title="Help" class="" target="_top"><display>Help</display></a></li><li class="login"><a href="javascript:void(fLogin())" title="Log In" class="loginbutton" target="_top"><display><span>Log In</span></display></a></li></ul></div><div id="searchnav"><div class="seaformtopnav"><fieldset><div><label>Search</label><select id="searchTopNavCat"><option value="0">Entire Site</option><option value="2">Plan Information</option><option value="3">Articles</option><option value="5">Message Boards</option><option value="7">Help</option><option value="8">About Us</option></select></div><div><label>For</label><input id="searchTopNavKeyword" type="text" maxlength="256" onfocus="OnFocusClearField('searchTopNavKeyword')" onkeydown="ByEnterKey(event,'searchTopNavButton');"></div></fieldset><button id="searchTopNavButton" class="go" onclick="RunSearch('searchTopNavCat','searchTopNavKeyword','');return false;">Go</button></div></div><div id="topnav"><ul><li id="tn-home"><a href="/plan/index.aspx" title="How Weight Watchers Works" class="" target="_top"><display>How Weight Watchers Works</display></a></li><li class="pipe"></li><li><a href="/food/index.aspx" title="Food &amp; Recipes" class="" target="_top"><display>Food &amp; Recipes</display></a></li><li class="pipe"></li><li><a href="/health/index.aspx" title="Fitness &amp; Health" class="" target="_top"><display>Fitness &amp; Health</display></a></li><li class="pipe"></li><li><a href="/success/index.aspx" title="Success Stories" class="" target="_top"><display>Success Stories</display></a></li><li class="pipe"></li><li><a href="/vendor/dispatcher.aspx?login=False&amp;application=SocNet&amp;section=Beta" title="Community" class="" target="_top"><display>Community</display></a></li><li class="pipe"></li><li id="tn-last"><a href="/shop/Mapper.aspx" title="Shop" class="" target="_top"><display>Shop</display></a></li><li class="pipe"></li></ul></div><div id="subnav-home">&nbsp;</div><div class="clr">&nbsp;</div></div>
 <input name="uctr_topnav:uctr_tn_tabs:images_directory" type="hidden" id="uctr_topnav_uctr_tn_tabs_images_directory" value="/images/3081/">
 <input name="uctr_topnav:uctr_tn_tabs:tab_bgcolor_on" type="hidden" id="uctr_topnav_uctr_tn_tabs_tab_bgcolor_on" value="#fffcbf"> <input name="uctr_topnav:uctr_tn_tabs:tab_bgcolor_off" type="hidden" id="uctr_topnav_uctr_tn_tabs_tab_bgcolor_off" value="#78da78">
 <input name="uctr_topnav:uctr_tn_tabs:hdn_jnl_lang" type="hidden" id="uctr_topnav_uctr_tn_tabs_hdn_jnl_lang" value="<b><i>POINTS</i></b>® Tracker"> <input name="uctr_topnav:uctr_tn_tabs:hdn_fav_lang" type="hidden" id="uctr_topnav_uctr_tn_tabs_hdn_fav_lang" value="My Favourites">
 <input name="uctr_topnav:uctr_tn_tabs:hdn_mplan_lang" type="hidden" id="uctr_topnav_uctr_tn_tabs_hdn_mplan_lang" value="Meal Ideas">
-<input name="uctr_topnav:uctr_tn_tabs:hdnParamVals" type="hidden" id="uctr_topnav_uctr_tn_tabs_hdnParamVals" value="/legal/privacy.aspx;;;17/11/2011 11:25:42 AM">
-
+<input name="uctr_topnav:uctr_tn_tabs:hdnParamVals" type="hidden" id="uctr_topnav_uctr_tn_tabs_hdnParamVals" value="/legal/privacy.aspx;;;17/06/2012 2:10:23 PM">
 
 <!-- END FAST TOPNAV REMOVAL -->
+<script type="text/javascript">
+    var isTopNavLogin = 'true';
+    SetFacebookAppId("");
+    SetFacebookLikeEnabled(false);
+    LoadFBJSSdk();
+</script>
+
+            <div class="grid_ww_wrapper">
+        <div id="grid_gateway_content" class="container_16 clearfix container_top" role="main">
+            <div class="gateway_content_bg_top">
+            </div>
+            <div class="gateway_content_bg_middle clearfix">
+                <div id="page" class="page_results">
+                    <div id="content">
+                        <div id="embedded_narrow_pages_960_container">
             <table cellspacing="0" cellpadding="0" border="0" width="764">
                 <tbody><tr valign="top">
                     <td width="82"><img src="http://aka.weightwatchers.com.au/images/space.gif" width="82" height="1"></td>
-                    <!--- begin center column --->
+                    <!--  begin center column  -->
                     <td width="590">
                         <!-- begin privacy policy -->
-                        <table cellpadding="0" cellspacing="0" width="373" border="0" xmlns:fo="http://www.w3.org/1999/XSL/Format"><tbody><tr><td class="artTitle"><span class="title1">PRIVACY <span class="title2gu">POLICY</span></span></td></tr><tr><td valign="top"><table width="590"><tbody><tr><td>&nbsp;</td></tr></tbody></table>
+                        <table cellpadding="0" cellspacing="0" width="373" border="0" role="presentation" xmlns:fo="http://www.w3.org/1999/XSL/Format"><tbody><tr><td class="artTitle"><span class="title1">PRIVACY <span class="title2gu">POLICY</span></span></td></tr><tr><td valign="top"><table role="presentation" width="590"><tbody><tr><td>&nbsp;</td></tr></tbody></table>
 
 Your privacy and the security of your personal information are very important to us. We want you to be as comfortable as possible visiting our Website and using our Online Products. We are dedicated to protecting the privacy of those who visit our Website and use our Online Products. This Privacy Policy governs the Australian and New Zealand websites operated by us (collectively, our “Website”) and our Online Products, and explains how we collect your personal information on our Website or through our Online Products, how we protect such information, and the choices you have concerning the use of such information. Please read this Privacy Policy carefully. The Website is for use by residents of Australia and New Zealand only.  Except as disclosed in this Privacy Policy, we will not sell, share, license, trade, or rent your personal information to others. For purposes of this Privacy Policy, “we”, “us”, and “our” means Weight Watchers Services Pty Ltd (referred to herein as “WeightWatchers.com.au”) (ABN 11 116 578 708), WeightWatchers.com, Inc. (“WeightWatchers.com”), Fortuity Pty Ltd (ABN 55 007 148 683), Weight Watchers New Zealand Unit Trust Limited and Weight Watchers International, Inc. (“Weight Watchers International”).
 <br><br>
 We may amend this Privacy Policy from time to time. We will post any changes to this Privacy Policy here so that you may know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this Privacy Policy on a regular basis. By using our Website or any of our products, offerings, features, tools or resources that we provide on our Website (collectively, our “Online Products”), you agree to the terms of this Privacy Policy.  
 <br><br><b>Please remember that this Privacy Policy applies only to information collected by our Website or through our Online Products. We are not responsible for the privacy of any information you reveal or post in any public form (e.g. message board, blog, group, etc.) or through the “Community Profile” feature available on our Website, or for the privacy practices of third parties or third party websites, even if those other websites are accessed from this Website.</b><br><br>
 The following are links to the provisions of our Privacy Policy, which you should read as a whole.  For immediate access to a particular topic in this Privacy Policy, click on that provision title below.
-<br><br></td></tr><tr><td valign="top"><table border="0"><tbody><tr><td width="5" valign="top"><img border="0" vspace="5" src="/images/square_blue.gif" alt=""></td><td><a href="#information">WHAT INFORMATION ABOUT YOU IS COLLECTED ON OUR WEBSITE OR THROUGH OUR ONLINE PRODUCTS? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="/images/square_blue.gif" alt=""></td><td><a href="#identify">WHAT ARE THE MAIN CONSEQUENCES IF YOU DO NOT PROVIDE PERSONALLY IDENTIFIABLE INFORMATION? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="/images/square_blue.gif" alt=""></td><td><a href="#operates">WHO OPERATES THIS WEBSITE AND WHERE ARE OUR SERVERS LOCATED?</a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="/images/square_blue.gif" alt=""></td><td><a href="#collected">WHERE AND WHEN IS INFORMATION COLLECTED ON OUR WEBSITE OR THROUGH OUR ONLINE PRODUCTS (INCLUDING THROUGH THE USE OF COOKIES AND ACTION TAGS)? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="/images/square_blue.gif" alt=""></td><td><a href="#children">DO WE COLLECT INFORMATION FROM CHILDREN?  </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="/images/square_blue.gif" alt=""></td><td><a href="#collects">WHAT DO WE DO WITH THE INFORMATION WE COLLECT? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="/images/square_blue.gif" alt=""></td><td><a href="#disclose">WHEN DO WE DISCLOSE INFORMATION TO THIRD PARTIES? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="/images/square_blue.gif" alt=""></td><td><a href="#privacy">DOES THIS PRIVACY POLICY APPLY WHEN YOU LINK TO OTHER WEBSITES? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="/images/square_blue.gif" alt=""></td><td><a href="#secure">IS THE INFORMATION WE COLLECT SECURE? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="/images/square_blue.gif" alt=""></td><td><a href="#choices">WHAT CHOICES DO YOU HAVE REGARDING THE COLLECTION, DISCLOSURE AND DISTRIBUTION OF PERSONALLY IDENTIFIABLE INFORMATION? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="/images/square_blue.gif" alt=""></td><td><a href="#update">CAN YOU ACCESS, UPDATE OR CORRECT YOUR PERSONALLY IDENTIFIABLE INFORMATION? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="/images/square_blue.gif" alt=""></td><td><a href="#update">WHAT HAPPENS TO THE COLLECTED PERSONALLY IDENTIFIABLE INFORMATION AFTER TERMINATION OF MY PAID SUBSCRIPTION? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="/images/square_blue.gif" alt=""></td><td><a href="#changes">HOW WILL YOU KNOW IF THERE ARE ANY CHANGES TO THIS PRIVACY POLICY? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="/images/square_blue.gif" alt=""></td><td><a href="#contact">WHOM DO YOU CONTACT IF YOU HAVE ANY PRIVACY QUESTIONS?  </a></td></tr></tbody></table><br></td></tr><tr><td valign="top"><a href="" name="information"></a><b>WHAT INFORMATION ABOUT YOU IS COLLECTED ON OUR WEBSITE OR THROUGH OUR ONLINE PRODUCTS?</b><br><br>
+<br><br></td></tr><tr><td valign="top"><table border="0" role="presentation"><tbody><tr><td width="5" valign="top"><img border="0" vspace="5" src="http://aka.weightwatchers.com.au/images/square_blue.gif" alt=""></td><td><a href="#information">WHAT INFORMATION ABOUT YOU IS COLLECTED ON OUR WEBSITE OR THROUGH OUR ONLINE PRODUCTS? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="http://aka.weightwatchers.com.au/images/square_blue.gif" alt=""></td><td><a href="#identify">WHAT ARE THE MAIN CONSEQUENCES IF YOU DO NOT PROVIDE PERSONALLY IDENTIFIABLE INFORMATION? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="http://aka.weightwatchers.com.au/images/square_blue.gif" alt=""></td><td><a href="#operates">WHO OPERATES THIS WEBSITE AND WHERE ARE OUR SERVERS LOCATED?</a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="http://aka.weightwatchers.com.au/images/square_blue.gif" alt=""></td><td><a href="#collected">WHERE AND WHEN IS INFORMATION COLLECTED ON OUR WEBSITE OR THROUGH OUR ONLINE PRODUCTS (INCLUDING THROUGH THE USE OF COOKIES AND ACTION TAGS)? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="http://aka.weightwatchers.com.au/images/square_blue.gif" alt=""></td><td><a href="#children">DO WE COLLECT INFORMATION FROM CHILDREN?  </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="http://aka.weightwatchers.com.au/images/square_blue.gif" alt=""></td><td><a href="#collects">WHAT DO WE DO WITH THE INFORMATION WE COLLECT? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="http://aka.weightwatchers.com.au/images/square_blue.gif" alt=""></td><td><a href="#disclose">WHEN DO WE DISCLOSE INFORMATION TO THIRD PARTIES? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="http://aka.weightwatchers.com.au/images/square_blue.gif" alt=""></td><td><a href="#privacy">DOES THIS PRIVACY POLICY APPLY WHEN YOU LINK TO OTHER WEBSITES? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="http://aka.weightwatchers.com.au/images/square_blue.gif" alt=""></td><td><a href="#secure">IS THE INFORMATION WE COLLECT SECURE? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="http://aka.weightwatchers.com.au/images/square_blue.gif" alt=""></td><td><a href="#choices">WHAT CHOICES DO YOU HAVE REGARDING THE COLLECTION, DISCLOSURE AND DISTRIBUTION OF PERSONALLY IDENTIFIABLE INFORMATION? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="http://aka.weightwatchers.com.au/images/square_blue.gif" alt=""></td><td><a href="#update">CAN YOU ACCESS, UPDATE OR CORRECT YOUR PERSONALLY IDENTIFIABLE INFORMATION? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="http://aka.weightwatchers.com.au/images/square_blue.gif" alt=""></td><td><a href="#update">WHAT HAPPENS TO THE COLLECTED PERSONALLY IDENTIFIABLE INFORMATION AFTER TERMINATION OF MY PAID SUBSCRIPTION? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="http://aka.weightwatchers.com.au/images/square_blue.gif" alt=""></td><td><a href="#changes">HOW WILL YOU KNOW IF THERE ARE ANY CHANGES TO THIS PRIVACY POLICY? </a></td></tr><tr><td width="5" valign="top"><img border="0" vspace="5" src="http://aka.weightwatchers.com.au/images/square_blue.gif" alt=""></td><td><a href="#contact">WHOM DO YOU CONTACT IF YOU HAVE ANY PRIVACY QUESTIONS?  </a></td></tr></tbody></table><br></td></tr><tr><td valign="top"><a href="" name="information"></a><b>WHAT INFORMATION ABOUT YOU IS COLLECTED ON OUR WEBSITE OR THROUGH OUR ONLINE PRODUCTS?</b><br><br>
 We collect two types of information: personally identifiable information and non-personally identifiable information.
 <br><br><i><b>Personally Identifiable Information </b></i><br>
 Personally identifiable information is information from which your identity is apparent or can reasonably be ascertained and includes personal information under applicable Australian and New Zealand privacy laws (“Personally Identifiable Information”). Such Personally Identifiable Information may include your name, address, email address, telephone number, birth date (primarily for eligibility purposes) and billing and credit card information. We may request Personally Identifiable Information (which may include health information and other sensitive information) from you when you register on our Website or subscribe to our Online Products, or in connection with other Online Products we may make available on our Website from time to time. In all of these cases, we will collect Personally Identifiable Information from you only if you voluntarily submit such information to us. Unless you give us permission to do so, we will not sell, share, license, trade or rent your Personally Identifiable Information other than as specified in this Privacy Policy.
@@ -146,25 +170,33 @@ Notwithstanding the above commitments to protect your information (including Per
 Users of our Website are notified when Personally Identifiable Information is being collected by third parties on our Website. We do this so you can make an informed choice as to whether you should disclose information to a third party.<br><br><a href="" name="update"></a><b>CAN YOU ACCESS, UPDATE OR CORRECT YOUR PERSONALLY IDENTIFIABLE INFORMATION?</b><br><br>You can always contact us in order to (1) access your Personally Identifiable Information,(2) update or correct your Personally Identifiable Information,(3) change your preferences with respect to communications and other information you receive from us, or (4) delete the Personally Identifiable Information maintained about you on our systems, by accessing My Profile or contacting our Privacy Coordinator at the address set out below. Such updates, corrections, changes and deletions will not have an effect on other information that we maintain, or information that we have provided to third parties in accordance with this Privacy Policy prior to such update, correction, change or deletion.<br><br>
 You should be aware that it is not technologically possible to remove each and every record of the information you have provided to us from our systems. The need to back-up our systems to protect information from inadvertent loss means that a copy of your Personally Identifiable Information may exist in a non-erasable form that will be difficult or impossible for us to locate. We promise that promptly after receiving your request, all Personally Identifiable Information stored in databases we actively use and other readily searchable media will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable.<br><br><b>WHAT HAPPENS TO THE COLLECTED PERSONALLY IDENTIFIABLE INFORMATION AFTER TERMINATION OF MY PAID SUBSCRIPTION?</b><br><br>Upon termination or cancellation of your paid subscription, you will remain a community user of our Website unless you specifically request otherwise. We will continue to store certain Personally Identifiable Information in particular to enable us to draw on these data to provide you with ongoing access to your community user account and in the event you should re-subscribe to our Website. In the event you have any objection to this, you should submit your objection to us via email to <a href="mailto:privacy@weightwatchers.com.au">privacy@weightwatchers.com.au</a>. In such case, we will delete or make anonymous your Personally Identifiable Information.</td></tr><tr><td valign="top"><a href="" name="changes"></a><b>HOW WILL YOU KNOW IF THERE ARE ANY CHANGES TO THIS PRIVACY POLICY?</b><br><br>
 If we decide to change this Privacy Policy, we will post those changes on our Website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use Personally Identifiable Information in a manner significantly different from that stated in this Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email or otherwise, and you will have a choice as to whether or not we use your Personally Identifiable Information in the new manner. We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your Personally Identifiable Information. If you do not agree to the terms of this Privacy Policy, you should not use our Website.
-<p></p><a href="" name="contact"></a><b>WHOM DO YOU CONTACT IF YOU HAVE ANY PRIVACY QUESTIONS?</b><br><br><b>If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact our Privacy Coordinator in any of the following ways:</b><br><br><table border="0" cellpadding="0" cellspacing="1" align="center"><tbody><tr><td align="center"> Email our Privacy Coordinator at:
+<p></p><a href="" name="contact"></a><b>WHOM DO YOU CONTACT IF YOU HAVE ANY PRIVACY QUESTIONS?</b><br><br><b>If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact our Privacy Coordinator in any of the following ways:</b><br><br><table role="presentation" border="0" cellpadding="0" cellspacing="1" align="center"><tbody><tr><td align="center"> Email our Privacy Coordinator at:
  </td></tr><tr><td align="center"><a href="mailto:privacy@weightwatchers.com.au">privacy@weightwatchers.com.au</a></td></tr><tr><td align="center"> &nbsp; </td></tr><tr><td align="center"> Or, write to our Privacy Coordinator at:
  </td></tr><tr><td align="center"> WeightWatchers.com.au Pty Ltd </td></tr><tr><td align="center"> PO Box 1961
 </td></tr><tr><td align="center"> North Sydney NSW 2059</td></tr><tr><td align="center"> Attn: Privacy Coordinator</td></tr><tr><td align="center"> &nbsp; </td></tr><tr><td align="center"> Or, fax our Privacy Coordinator at: </td></tr><tr><td align="center">+ 61 2 9923 2526</td></tr><tr><td align="center"> Attn: Privacy Coordinator  </td></tr></tbody></table><br><b>BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.</b><br><br>
 
-(Last modified as of XXXXXX, 2010)</td></tr><tr><td><img border="0" height="20" width="1" src="/images/spacer.gif" alt=""></td></tr></tbody></table>
+(Last modified as of XXXXXX, 2010)</td></tr><tr><td><img border="0" height="20" width="1" src="http://aka.weightwatchers.com.au/images/spacer.gif" alt=""></td></tr></tbody></table>
 <input name="_ctl0:FromCache" type="hidden" id="_ctl0_FromCache" value="YES-2000251">
 
                         <!-- end privacy policy -->
                     </td>
-                    <!--- end center column --->
+                    <!--  end center column  -->
                     <td width="92"><img src="http://aka.weightwatchers.com.au/images/space.gif" width="92" height="1" alt=""></td>
                 </tr>
             </tbody></table>
+            </div>
+					</div>
+				</div>
+			</div>
+			<div class="gateway_content_bg_bottom"></div>
+		</div>
             
-            <!--- begin footer ---->
-<!--- BEGIN FAST REMOVAL --->
-<!--- DO NOT REMOVE THESE FAST SEARCH RELATED COMMENTS --->
+            <!--  begin footer - -->
+<!--  BEGIN FAST REMOVAL  -->
+<!--  DO NOT REMOVE THESE FAST SEARCH RELATED COMMENTS  -->
 &nbsp;
+
+
 
 
 
@@ -203,7 +235,7 @@ If we decide to change this Privacy Policy, we will post those changes on our We
                             For subscribers only: <a href="http://www.weightwatchers.com.au/legal/gensubagreement.aspx">Subscription Agreement</a>
                         </div>
                         <br>
-                	    <div class="small">WEIGHT WATCHERS is the registered trademark of Weight Watchers International, Inc.<br> <b><i>ProPoints</i></b> is a trademark of Weight Watchers International, Inc. Trademarks used under license by Fortuity<br> Pty Ltd and Weight Watchers Services Pty Ltd.<br>© 2011 Weight Watchers International, Inc. © 2011 WeightWatchers.com, Inc. All rights reserved.</div>
+                	    <div class="small">WEIGHT WATCHERS is the registered trademark of Weight Watchers International, Inc.<br> <b><i>ProPoints</i></b> is a trademark of Weight Watchers International, Inc. Trademarks used under license by Fortuity<br> Pty Ltd and Weight Watchers Services Pty Ltd.<br>© 2012 Weight Watchers International, Inc. © 2012 WeightWatchers.com, Inc. All rights reserved.</div>
                         <br><br><br>
                 	    <table width="400" border="0">
                 	        <tbody><tr valign="middle">
@@ -222,17 +254,40 @@ If we decide to change this Privacy Policy, we will post those changes on our We
 &nbsp;
 
 
-<script language="javascript">
-var s_account="wwatchcomaus";
-var s_prop11="visitor";
-var s_prop25="";
-var s_server="NYAPAUWEB04";
-var s_cookieDomainPeriods="3";
-<!-- SiteCatalyst code version: G.6.Copyright 1997-2004 Omniture, Inc. More info available athttp://www.omniture.com --><script language="JavaScript"><!--
-if (s_pageName == null || s_pageName.length == 0) { var s_pageName=trim(document.title);
-if (s_pageName.indexOf(":") >= 0) {
-s_pageName = trim(s_pageName.substring(s_pageName.indexOf(":")+1))}}
-//-->
+<!-- SiteCatalyst code version: H.23.Copyright 1996-2010 Adobe, Inc. All Rights ReservedMore info available at http://www.omniture.com -->
+<script language="javascript"><!--
+var s_account="wwatchcomaus"
+//--></script>
+<script language="JavaScript" src="http://aka.weightwatchers.com.au/include/WWTracking_H23.js"></script>
+<script language="javascript"><!--
+s.eVar17="visitor";
+s.account="wwatchcomaus";
+s.prop11="visitor";
+s.server="NYAPAUWEB04";
+s.prop25="";
+s.cookieDomainPeriods="3";
+
+if (typeof omnitureTrackingLateBinding !== 'undefined' && omnitureTrackingLateBinding !== null) {
+  for (var key in omnitureTrackingLateBinding.eVars) {
+    if (omnitureTrackingLateBinding.eVars.hasOwnProperty(key)) {
+      var i = omnitureTrackingLateBinding.eVars[key];
+      eval("s." + i.item + " = \"" + i.value + "\";");
+    }
+  }
+
+  var omnitureLateBindingEvents = '';
+  for (var key in omnitureTrackingLateBinding.events) {
+    if (omnitureTrackingLateBinding.events.hasOwnProperty(key)) {
+      omnitureLateBindingEvents += omnitureTrackingLateBinding.events[key].item;
+      if (key != omnitureTrackingLateBinding.events.length -1)
+        omnitureLateBindingEvents +=  ",";
+    }
+  }
+  s.events=s_AddSuccessEvent(omnitureLateBindingEvents);
+}
+if (s.pageName == null || s.pageName.length == 0) { s.pageName=trim(document.title);
+if (s.pageName.indexOf(":") >= 0) {
+s.pageName = trim(s.pageName.substring(s.pageName.indexOf(":")+1))}}
 function trim(value) {
 var temp = value;
 var obj = /^(\s*)([\W\w]*)(\b\s*$)/;
@@ -241,19 +296,28 @@ var obj = /  /g;
 while (temp.match(obj)) { temp = temp.replace(obj, " "); }
 return temp;
 }
-</script><script language="JavaScript" src="http://aka.weightwatchers.com.au/include/WWTracking.js"></script><script language="JavaScript"><!--
-s_wds(s_account); s_ca(s_account);
-function sendAnalyticsEvent(str){
-ns=s_account; if(str!=null)ns+=","+str;void(s_gs(ns));}
-//--></script>
-<!-- End SiteCatalyst code version: G.6. -->
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+s.wds();
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://wwatchcomaus.112.2o7.net/b/ss/wwatchcomaus/1/H.21--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<script language="JavaScript"><!--
+function sendAnalyticsEvent(){
+void(s.t());}
+//--></script><!-- End SiteCatalyst code version: H.23. -->
 
 
 
 
 
 <input name="uctl_footer:hdnWWSERVERNAME" type="hidden" id="uctl_footer_hdnWWSERVERNAME" value="NYAPAUWEB04">
-<!--- END FAST REMOVAL ---><!--- end footer ----></form>
+<!--  END FAST REMOVAL  -->
+            </div>
+<div class="grid_ww_wrapper_btm"></div>
+            <!--  end footer - --></form>
     
 
 </body></html>
