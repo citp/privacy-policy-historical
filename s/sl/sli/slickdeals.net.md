@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223040347id_/http%3A//slickdeals.net/blog/index.php/legal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617111650id_/http%3A//slickdeals.net/blog/index.php/legal-privacy-policy) for the most accurate reproduction.*
 
 # Slickdeals.net Blog » Legal: Privacy Policy
 
@@ -54,7 +54,7 @@ Slickdeals may contract with various third parties who help Slickdeals provide a
 
 ### What About Cookies?
 
-A cookie is a message that is sent to your computer from a web server and stored on your computer’s hard drive. With respect to cookies: Slickdeals does not set any cookies. This Privacy Policy covers the use of cookies by Slickdeals.net only and does not cover the use of cookies by any advertisers.
+A cookie is a message that is sent to your computer from a web server and stored on your computer’s hard drive. With respect to cookies: Slickdeals uses cookies. Cookies help us save your preferences and allow you to login to particpate in the community forums. This Privacy Policy covers the use of cookies by Slickdeals.net only and does not cover the use of cookies by any advertisers.
 
 ### Does Slickdeals.net Protect My Personal Information?
 
@@ -62,7 +62,7 @@ A cookie is a message that is sent to your computer from a web server and stored
 Whenever Slickdeals obtains your Personal Information, Slickdeals uses commercially reasonable efforts to protect it from unauthorized access or disclosure. However, Slickdeals is not an insurer of the security of your Personal Information. Accordingly, Slickdeals assumes no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or acts or omissions beyond Slickdeals reasonable control.
 
 **Banner Advertising**  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Web Site Content**.  
 The content that you store, post, or transmit on or through the Web Site, such as message board postings, your profile page, and images you upload to the Web Site, may be accessed by other users, including people that you do not know. Slickdeals is not responsible for the actions of others. Therefore, you should use care in communicating with other users and only disclose your Personal Information to other users that you know to be trustworthy. You should not assume that your content will be kept private.
