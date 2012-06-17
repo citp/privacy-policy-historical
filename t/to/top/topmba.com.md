@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topmba.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227035201id_/http%3A//www.topmba.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topmba.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617131635id_/http%3A//www.topmba.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TopMBA.com
+# Privacy Policy | TOPMBA
 
 Quacquarelli Symonds Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using any of our websites then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -48,13 +48,13 @@ Controlling your personal information
 You may choose to restrict the collection or use of your personal information in the following ways:
 
 When you are asked to fill in a form on any of our websites, look for the tick box that indicates you do not want the information to be for direct marketing purposes  
-If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by sending an email to [candidateregistration@qs.com](mailto:candidateregistration@qs.com) and stating that you would like to be removed from our marketing lists
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by sending an email to [calose@qs.com](mailto:carlose@qs.com) and stating that you would like to be removed from our marketing lists
 
  We may use your personal information to send you promotional information about services we offer and third parties which we think you may find of value. 
 
-To remove yourself from email communications, please send an email to [candidateregistration@qs.com](mailto:candidateregistration@qs.com) stating that you would like to be removed from our marketing lists
+To remove yourself from email communications, please send an email to [calose@qs.com](mailto:carlose@qs.com) stating that you would like to be removed from our marketing lists
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [robert@qs.com](mailto:candidateregistration@qs.com).
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [calose@qs.com](mailto:carlose@qs.com).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
@@ -64,3 +64,38 @@ QS Headquarters:
 1 Tranley Mews Fleet Road   
 London, NW3 2DG    
 United Kingdom
+
+### What we use cookies for
+
+QS use cookies to check whether or not you are logged in and to identify which of our high availabilty servers you are looking at. We also use cookies to help collect analytics data to constantly improve your on-site experience. It is your legal right to opt-out of this data collection if you so wish.
+
+#### Analytics
+
+We use two analytics packages in order to constantly improve your browsing experience on TopMBA.com and TopUniversities.com
+
+These packages are:
+
+* Google Analytics
+* IBM CoreMetrics
+
+To opt out of Google Analytics data collection, you will need to remove all cookies which begin with two underscore characters. Examples include:
+
+* __utma 
+* __utmb 
+* __utmc 
+* __utmz 
+
+#### Removing a cookie
+
+Removing a cookie varies depending on which browser you are using. 
+
+**Firefox**   
+To remove a cookie, Right Click on the page you are looking at and select 'View Page Info'. A dialogue window will then open. Choose the security tab from the top of the window and then choose 'View Cookies'. You are then able to remove any cookies you wish from your machine. To prevent coookies from being set on your machine, chose 'Menu->Options'. A dialogue window will open. Choose 'Privacy' from the tabs at the top and choose the checkbox that says 'Do not allow sites to track'. ****
+
+Internet Explorer  
+To prevent a current page from tracking choose 'Tools -> Safety -> Tracking Protection' from here you can set your preferences for analytics tracking. Choose 'Tools -> Internet Options -> Privacy' From here you can set your preferences for the types of cookies that you will accept and from where. ****
+
+Safari   
+To prevent tracking if you are using Safari choose 'Tools -> Preferences -> Security' and then choose your preferences from the 'Accept Cookies' section. ****
+
+Chrome To manage your cookie options in Google Chrome choose 'Tools -> Settings -> Advanced Options -> Privacy -> Content Settings'. Then choose the options that you would like for cookies on your machine and then select 'Ok' to save.
