@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canopian.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201060004id_/http%3A//www.canopian.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canopian.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617175032id_/http%3A//www.canopian.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Canopian Arcade
 
@@ -13,11 +13,11 @@ The information we collect is used for internal review and is then discarded, us
 
 With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+
 google.com  
 valueclickmedia.com  
-statcounter.com  
-
+statcounter.com
 
 Google and the DoubleClick DART Cookie
 
