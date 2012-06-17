@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exhaustivenews.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121231557id_/http%3A//exhaustivenews.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exhaustivenews.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617064625id_/http%3A//exhaustivenews.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Exhaustive News
 
