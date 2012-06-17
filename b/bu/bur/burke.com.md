@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218094928id_/http%3A//www.burke.com/About/index.cfm%3Fpri%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617124649id_/http%3A//www.burke.com/privacy.cfm) for the most accurate reproduction.*
 
-# 
+# None
 
----  
-  | 
-
+  |   
+  
 Founded in 1931, Burke is an international leader in decision support services. We are committed to quality, honesty, and integrity in all endeavors. 
 
 As one of the founding members of the Council of American Survey Research Organizations (CASRO), Burke demonstrates its commitment to clients and to the public by adhering to a mandatory Code of Standards and Ethics for Survey Research. Burke also monitors the privacy policies of other industry organizations and works to conform to common standards of ethical practice. Burke abides by all relevant legislation (both international and national) relating to data protection and other topics. Burke seeks to avoid any actions that might bring Internet research into disrepute or reduce confidence in its findings. Burke adheres to the Safe Harbor privacy principles and frequently asked questions, as agreed to by the U.S. Department of Commerce and the European Commission. 
