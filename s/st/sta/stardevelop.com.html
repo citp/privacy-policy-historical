@@ -1,11 +1,10 @@
-<!--The following is the downloaded HTML source of the stardevelop.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231204401id_/http%3A//livehelp.stardevelop.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stardevelop.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617223002id_/http%3A//livehelp.stardevelop.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Live Help - Privacy Statement - Live Customer Service Software, Live Help, Customer Support</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" href="styles/styles.css" type="text/css">
-<link rel="stylesheet" href="styles/orbit-1.2.3.css" type="text/css">
 <link rel="shortcut icon" href="http://cdn.stardevelop.net/images/favicon.ico">
 <link rel="alternate" type="application/rss+xml" title="Live Help Messenger Blog RSS Feed" href="http://blog.stardevelop.com/feed/">
 <!--[if IE]>
@@ -14,43 +13,53 @@
          div.caption { background:transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000);zoom: 1; }
     </style>
 <![endif]-->
-<script type="text/javascript" src="/script/js.js"></script>
-<script type="text/javascript" src="https://stardevelop.chat.stardevelop.net/livehelp/scripts/jquery.livehelp.js" async="true"></script>
-<script type="text/javascript" src="/script/jquery.orbit-1.2.3.min.js"></script>
+<script type="text/javascript" src="/script/js.min.js"></script>
+<script type="text/javascript">
+<!--
+	var LiveHelpSettings = {server: 'stardevelop.chat.stardevelop.net', domain: 'stardevelop.com', embedded: true, css: false, fonts: false};
+
+	(function($) {
+		$(function() {
+			$(window).ready(function() {
+				// JavaScript
+				LiveHelpSettings.server = LiveHelpSettings.server.replace(/[a-z][a-z0-9+\-.]*:\/\/|\/livehelp\/*(\/|[a-z0-9\-._~%!$&'()*+,;=:@\/]*(?![a-z0-9\-._~%!$&'()*+,;=:@]))|\/*$/g, '');
+				var LiveHelp = document.createElement('script'); LiveHelp.type = 'text/javascript'; LiveHelp.async = true;
+				LiveHelp.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + LiveHelpSettings.server + '/livehelp/scripts/jquery.livehelp.min.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(LiveHelp, s);
+			});
+		});
+	})(jQuery);
+-->
+</script>
 </head>
 <body>
 <div style="margin: 0 auto; width: 960px; position: relative; top: 0px; height: 130px">
-	<div style="position: absolute; top: 42px; z-index: 20"><img src="http://cdn.stardevelop.net/images/banner-950px.png" alt="stardevelop.com - Live Help Messenger" width="953" height="119" border="0" usemap="#Map2"></div>
-	<div class="TopMenu">
+	<div style="position: absolute; top: 42px; z-index: 20"><img src="http://cdn.stardevelop.net/images/banner-950px.png" alt="stardevelop.com - Live Help Messenger" width="953" height="119" usemap="#Map2"></div>
+	<div class="TopMenu SpriteTemplate MenuTopBackground">
 		<ul>
-			<li><a href="http://livehelp.stardevelop.com/contact.htm"><img src="/images/MenuTopContact.png" style="border:none"></a></li>
-			<li><a href="http://livehelp.stardevelop.com/pricing.htm"><img src="/images/MenuTopPricing.png" style="border:none"></a></li>
-			<li><a href="http://blog.stardevelop.com/"><img src="/images/MenuTopBlog.png" style="border:none"></a></li>
-			<li><a href="https://secure.stardevelop.com/customer.htm"><img src="/images/MenuTopLogin.png" style="border:none"></a></li>
-			<li><a href="http://livehelp.stardevelop.com/kb/"><img src="/images/MenuTopSupport.png" style="border:none"></a></li>
+			<li><a href="http://livehelp.stardevelop.com/contact.htm"><span class="SpriteTemplate MenuTopContact" style="display:block; margin:0 7px"></span></a></li>
+			<li><a href="http://livehelp.stardevelop.com/pricing.htm"><span class="SpriteTemplate MenuTopPricing" style="display:block; margin:0 7px"></span></a></li>
+			<li><a href="http://blog.stardevelop.com/"><span class="SpriteTemplate MenuTopBlog" style="display:block; margin:0 7px"></span></a></li>
+			<li><a href="https://secure.stardevelop.com/customer.htm"><span class="SpriteTemplate MenuTopLogin" style="display:block; margin:0 7px"></span></a></li>
+			<li><a href="http://livehelp.stardevelop.com/kb/"><span class="SpriteTemplate MenuTopSupport" style="display:block; margin:0 7px"></span></a></li>
 		</ul>
 	</div>
 	<ul id="menu">
-		<li class="MenuHome"><a href="http://livehelp.stardevelop.com/"><img src="/images/MenuHome.png" style="border:none"></a></li>
-		<li class="MenuFeatures"><a href="http://livehelp.stardevelop.com/features.htm"><img src="/images/MenuFeatures.png" style="border:none"></a></li>
-		<li class="MenuScreenshots"><a href="http://livehelp.stardevelop.com/screenshots.htm"><img src="/images/MenuScreenshots.png" style="border:none"></a></li>
-		<li class="MenuBlog"><a href="http://blog.stardevelop.com/"><img src="/images/MenuBlog.png" style="border:none"></a></li>
-		<li class="MenuOrder"><a href="http://livehelp.stardevelop.com/pricing.htm"><img src="/images/MenuOrder.png" style="border:none"></a></li>
+		<li class="MenuHome"><a href="http://livehelp.stardevelop.com/"><span class="SpriteTemplate MenuHome" style="display:block"></span></a></li>
+		<li class="MenuFeatures"><a href="http://livehelp.stardevelop.com/features.htm"><span class="SpriteTemplate MenuFeatures" style="display:block"></span></a></li>
+		<li class="MenuScreenshots"><a href="http://livehelp.stardevelop.com/screenshots.htm"><span class="SpriteTemplate MenuScreenshots" style="display:block"></span></a></li>
+		<li class="MenuBlog"><a href="http://blog.stardevelop.com/"><span class="SpriteTemplate MenuBlog" style="display:block"></span></a></li>
+		<li class="MenuOrder"><a href="http://livehelp.stardevelop.com/pricing.htm"><span class="SpriteTemplate MenuOrder" style="display:block"></span></a></li>
 	</ul>
 	<div style="position: absolute; top: 40px; right: 20px; z-index: 200">
-		<a href="#" onclick="openLiveHelp(); return false"><img src="https://stardevelop.chat.stardevelop.net/livehelp/include/status.php?IMAGES=/images/menu/" id="LiveHelpStatus" name="LiveHelpStatus" class="LiveHelpStatus" border="0" alt="Live Help"></a>
+		<a href="#" class="LiveHelpButton" title="Live Chat"><span id="LiveHelpMenuStatus" class="LiveHelpMenuStatus SpriteTemplate Offline" style="display:block; opacity:0"></span></a>
 	</div>
-	<map name="Map2" id="Map2">
+	<map id="Map2" name="Map2">
 		<area shape="rect" coords="0,0,271,119" href="/" alt="stardevelop.com - Live Help Messenger Solutions">
 	</map>
 </div>
-<div class="LiveHelpSlider">
-	<img src="/images/slider-background.png" border="0" alt="Live Chat Online - Chat Now!" title="Live Chat Online - Chat Now!">
-	<div class="LiveHelpSliderTab LiveHelpButton"></div>
-	<div class="LiveHelpSliderClose"></div>
-</div>
-<div class="LiveHelpSliderChatNow"></div>
-<a name="Top"></a><table width="960" border="0" align="center" cellpadding="1" cellspacing="2">
+<a id="Top"></a><table width="960" border="0" align="center" cellpadding="1" cellspacing="2">
   <tbody><tr>
     <td height="4" colspan="3"><div align="center"> </div></td>
   </tr>
@@ -227,7 +236,7 @@
           <td width="100%" valign="top"><div align="center" class="small"> <a href="http://livehelp.stardevelop.com/index.htm" class="normlink" title="Live Help - Home">Home</a> - <a href="http://livehelp.stardevelop.com/news.htm" class="normlink" title="Live Help - News"> News</a> - <a href="http://livehelp.stardevelop.com/features.htm" class="normlink" title="Live Help - Features">Features</a> - <a href="http://livehelp.stardevelop.com/screenshots.htm" class="normlink" title="Live Help - Screenshots"> Screenshots</a> - <a href="http://livehelp.stardevelop.com/messenger.htm" class="normlink" title="Live Help - Messenger Windows Client">Live Help Messenger Windows Application</a><br>
               <a href="http://livehelp.stardevelop.com/requirements.htm" class="normlink" title="Live Help - Requirements">System Requirements</a> - <a href="http://livehelp.stardevelop.com/pricing.htm" class="normlink" title="Live Help - Order Now">Order / Pricing</a> - <a href="http://livehelp.stardevelop.com/hosted/" class="normlink" title="Live Help Hosted">Live Help Hosted</a> - <a href="http://livehelp.stardevelop.com/documentation/index.htm" class="normlink" title="Live Help - Support">Support / Documentation</a> - <a href="http://livehelp.stardevelop.com/faq.htm" class="normlink" title="Live Help - Frequently Asked Questions">FAQ</a> - <a href="http://livehelp.stardevelop.com/contact.htm" class="normlink" title="Live Help - Contact">Contact</a> - <a href="http://livehelp.stardevelop.com/about.htm" class="normlink" title="Live Help - About stardevelop.com">About</a></div>
             <p align="center" class="small"><a href="http://livehelp.stardevelop.com/privacy.htm" class="normlink" title="stardevelop.com Privacy Policy"> Security &amp; Privacy Statement</a> - <a href="http://livehelp.stardevelop.com/guidelines.htm" class="normlink" title="Live Help - Logo Usage Guidelines">Logo Usage Guidelines</a> - <a href="http://www.stardevelop.com" class="normlink" title="Live Help - stardevelop.com">Stardevelop Pty Ltd</a> - <a href="http://livehelp.stardevelop.jp" class="normlink">Japanese Translation</a><br>
-              International Copyright © 2003-2011 stardevelop.com All Rights Reserved<br>
+              International Copyright © 2003-2012 stardevelop.com All Rights Reserved<br>
               Stardevelop Pty Ltd - ABN 53 078 264 731</p></td>
         </tr>
       </tbody></table></td>
