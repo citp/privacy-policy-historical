@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the heritageonline.com.au privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219054610id_/http%3A//www.heritage.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritageonline.com.au privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617145258id_/http%3A//www.heritage.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## People First is the way we do business
 
-At Heritage, we do things a little differently to the banks. For starters, we’re owned by members, not shareholders, so our focus is always on putting ‘ _People first_ ’ by providing member benefits - in the form of better rates and better service - rather than maximising profits. In everything we do, we put ‘ _People first_ ’. We actively encourage people to come in to our branches and we keep them open for longer hours. 
+At Heritage, we do things a little differently to the banks. For starters, we’re owned by customers, not shareholders, so our focus is always on putting ‘ _People first_ ’ by providing customer benefits - in the form of better rates and better service - rather than maximising profits. In everything we do, we put ‘ _People first_ ’. We actively encourage people to come in to our branches and we keep them open for longer hours. 
 
-## Heritage Bank Privacy Policy - Our Privacy Commitment
+## Heritage Bank Privacy Policy \- Our Privacy Commitment
 
 Heritage Bank Limited ABN 32 087 652 024, AFS Licence No. 240984, Australian Credit Licence No. 240984 (also referred to as “we”, “our” or “us” in this Privacy Policy) considers the protection and maintenance of your personal information to be of the utmost importance. We take very seriously the ongoing trust that you place in us to protect your personal information.
 
