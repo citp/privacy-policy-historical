@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teachanywhere.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217111547id_/http%3A//www.teachanywhere.com/privacy-statement/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachanywhere.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617153851id_/http%3A//www.teachanywhere.com/about-us/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
-
-| 
 
 **General**
 
@@ -13,17 +11,17 @@ This Privacy Statement sets out how Teachanywhere complies with European Union d
 We may collect the following information as submitted to the Teachanywhere website by you:
 
   * **Registering a vacancy**  
-The name of your organisation, the subject area, the location, a contact name (you should ensure that you have the consent of any individual's details submitted), your phone and fax numbers, your email address, your preferred user name, additional information and your preferred password.
+The name of your organisation, the subject area, the location, a contact name (you should ensure that you have the consent of any individual's details submitted), your phone and fax numbers, your email address, your preferred user name, additional information and your preferred password. 
 
 
   * **Registering for work**  
-The area where you prefer to work, your preferred Teachanywhere office to deal with, your name, your address, telephone numbers (including mobile phone number), your date of birth, citizenship, the subject area you are registering for (e.g. primary/secondary), the term of employment sought (e.g. permanent, temporary), any comments, additional information and the time and date you are available to be contacted by Teachanywhere.
+The area where you prefer to work, your preferred Teachanywhere office to deal with, your name, your address, telephone numbers (including mobile phone number), your date of birth, citizenship, the subject area you are registering for (e.g. primary/secondary), the term of employment sought (e.g. permanent, temporary), any comments, additional information and the time and date you are available to be contacted by Teachanywhere. 
 
 
-  * Some pages may use cookies, used for storing information about your current internet session. In order to learn more, please see the section on 'How we use cookies' below.
+  * Some pages may use cookies, used for storing information about your current internet session. In order to learn more, please see the section on 'How we use cookies' below. 
 
 
-  * We may also ask you to provide us with information regarding your personal or professional interests, demographics, experiences with our products, and contact preferences in order to provide you with further correspondence about our products and services.
+  * We may also ask you to provide us with information regarding your personal or professional interests, demographics, experiences with our products, and contact preferences in order to provide you with further correspondence about our products and services. 
 
 
 
@@ -61,13 +59,10 @@ Our website may contain links to enable you to visit other websites of interest 
 
 **How we use cookies**
 
-A cookie is a piece of text which asks permission to be placed on your computer's hard drive. Once you agree, your browser adds that text in a small file. A cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For example, when you visit an electronic store, a cookie makes it easier to shop, by allowing you to place things into a shopping basket; the basket itself is not the cookie, the cookie is placed on your hard drive and keeps track of your basket versus others in use at the same time. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly in force. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. You may set your web browser (Microsoft internet explorer or Netscape navigator) to notify you of cookie placement requests or decline cookies completely. You can delete the files that contain cookies - those files are stored as part of your internet browser.
+A cookie is a piece of text which asks permission to be placed on your computer's hard drive. Once you agree, your browser adds that text in a small file. A cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For example, when you visit an electronic store, a cookie makes it easier to shop, by allowing you to place things into a shopping basket; the basket itself is not the cookie, the cookie is placed on your hard drive and keeps track of your basket versus others in use at the same time. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly in force. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. You may set your web browser (Microsoft internet explorer or Netscape navigator) to notify you of cookie placement requests or decline cookies completely.
+
+If you entered our website through one of our online campaigns on another site or via email, we will store information about this campaign along with your registration. This information will be used internally to measure the effectiveness of our campaigns. To support this functionality we use a cookie that expires after 60 days.
+
+We will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by us, or indeed any other website, you can do this through your browser settings. The Help function within your browser should tell you how. Alternatively, you may wish to visit www.aboutcookies.org which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer (including those from this visit) as well as more general information about cookies.
 
 For further information, please contact us using the form below.
-
-Send any queries to us
-
-| Your email address|   
----|---  
-Subject|   
-Message| 
