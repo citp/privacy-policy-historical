@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hiox.org privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220030851id_/http%3A//hiox.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiox.org privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617133217id_/http%3A//hiox.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Hiox.org
+
+| 
 
 Following describes privacy practices specific to Hiox.org.
 
@@ -36,5 +38,8 @@ Singanallur,
 Coimbatore,  
 Tamilnadu, INDIA.  
 PinCode - 641005.  
-please contact us at [privacy@hiox.org](mailto:privacy@hiox.org)  
+please contact us at [support@hiox.org](mailto:support@hiox.org)  
 
+
+|    
+---|---|---
