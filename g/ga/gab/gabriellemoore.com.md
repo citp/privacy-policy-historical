@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gabriellemoore.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216220820id_/http%3A//www.gabriellemoore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gabriellemoore.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617023945id_/http%3A//www.gabriellemoore.com/privacy-policy) for the most accurate reproduction.*
 
 # Best Sex Tips And Positions
 
@@ -18,12 +18,10 @@ Know the sites your kids are visiting and which sites are appropriate.
 
 Look for Web site privacy policies. Know how your child’s information is treated.
 
-Check out the FTC’s site  for more tips on protecting children’s privacy online.
+Check out the FTC’s site for more tips on protecting children’s privacy online.
 
 Contacting Us.
 
 We can be reached by contacting:
 
-www.GabrielleMoore.com
-
-Email: support@portepublishing.com
+[**www.GabrielleMoore.com/support**](http://www.gabriellemoore.com/support)
