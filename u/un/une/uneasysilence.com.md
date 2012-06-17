@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the uneasysilence.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011095914id_/http%3A//www.uneasysilence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uneasysilence.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617151619id_/http%3A//uneasysilence.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  
-
+# UNEASYsilence - Privacy Policy
 
 ### What information do you collect from me?
 
@@ -21,4 +18,4 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 No. Never. Stats are provided to any potential advertiser in broad terms rounded up to the nearest thousand, which only include the operating system and web browser used. That information is never tied to an individual IP address, or targeted to a user.
 
-Any questions feel free to ask us at [tips@uneasysilence.com](mailto:tips@uneasysilence.com)
+Any questions feel free to ask us at [admin@uneasysilence.com](mailto:admin@uneasysilence.com)
