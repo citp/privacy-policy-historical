@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dafont.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205053301id_/http%3A//www.dafont.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dafont.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617145054id_/http%3A//www.dafont.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | dafont.com
 
