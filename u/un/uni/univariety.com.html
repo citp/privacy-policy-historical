@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the univariety.com privacy policy that was archived on 2011-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224013700id_/http%3A//www.univariety.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the univariety.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617070633id_/http%3A//www.univariety.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Privacy Policy - Univariety</title>
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
@@ -24,9 +24,22 @@
 <script type="text/javascript" src="http://www.univariety.com/js/jquery.autocomplete.js"></script>
 <script type="text/javascript" src="http://www.univariety.com/js/common.js"></script>
 <!--Jquery : Ends -->
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('.loginuser img').click(function() {
+  $('.userpreference').slideToggle('fast');
+});
+$('.close').click(function(){
+	$('.userpreference').slideUp('fast');	
+});
+});
+</script>
 </head>
 
-<body class="internalpage">
+<body class="internalpage body">
+
+ 	
 	<!-- Side Chat Starts -->
 	<!--<div class="sideChat">
 	<a href="javascript:;" onclick="javascript:mycenteralpopwinVHS('../livehelp/livehelp.php?department=1&amp;serversession=1&amp;pingtimes=15', '530', '400');" >
@@ -43,19 +56,30 @@
 </div>	<!-- Side Chat Ends -->
 
 	<!--Website : Starts -->
-	<div class="mainContainer">
-		<!--Header Starts -->
-		<div id="header">
-	<!--Logo : Starts-->
-	<div class="header-logo"><h1><a href="http://www.univariety.com/index.php" class="logoLink" title="Univariety">Header Logo Univariety</a></h1></div>
-	<!--Logo : Ends-->
-		<!--header-Search : Starts -->
+    <div class="mainbg">
+    <!--Header Starts -->
+     <div class="headsection">
 	
-
-<script type="text/javascript"> 
+	<!--Logo : Starts-->
+         <div class="logo"><a href="http://www.univariety.com/index.php" title="Univariety"><img src="http://www.univariety.com/images/logo_Univariety.png"></a></div>	
+        
+	<!--Logo : Ends-->    
+	     	   
+    <div style="display:none;" class="userpreference">
+    	<!--header-shortLink : Starts -->
+	<div class="header-Rt1">
+		<ul class="header-shortLink">
+					</ul>      
+	</div>
+	<!--header-shortLink : Ends -->	
+    </div>
+	<!--header-Search : Starts -->
+    <div class="headsearch">
+	<script type="text/javascript"> 
 //var j = jQuery.noConflict();
 	$(document).ready(function() {
-		$("#txtTopSearch").autocomplete("http://www.univariety.com/page_include/ajax_auto_top_search.php", {
+		
+		$("#txtTopSearch").autocomplete("http://www.univariety.com/page_include/ajax_auto_top_search.php", {			
 			width: 260,
 			selectFirst: false			
 		});
@@ -80,60 +104,36 @@
 	});
 	
 </script>
-<div class="header-Search">
-	<form name="frmTopSearch" method="post" action="http://www.univariety.com/page_include/search.php">
-	<input type="text" class="inputText" value="Search University by Name" name="txtTopSearch" id="txtTopSearch" autocomplete="off">
-	<input type="hidden" name="txtTopSearchId" id="txtTopSearchId" value="">
-	<input name="search" type="submit" class="hd-SearchBtn">
-	</form>
-</div>	<!--header-Search : Ends -->
+
 	
-	<!--header-shortLink : Starts -->
-	<div class="header-Rt">
-		<ul class="header-shortLink">
-							
-		</ul>      
-	</div>
-	<!--header-shortLink : Ends -->	
-	
-			<!--Header Menu before signin : Starts -->
+     <form name="frmTopSearch" method="post" action="http://www.univariety.com/page_include/search.php">
+    <input type="text" class="searchfield" value="Search university by name" name="txtTopSearch" id="txtTopSearch" autocomplete="off">
+    <input type="hidden" name="txtTopSearchId" id="txtTopSearchId" value="">
+    <input type="submit" value="search" class="searchsubmit">
+    </form>
+</div>
+	<!--header-Search : Ends -->
+    		<!--Header Menu before signin : Starts -->
 		<div id="header-menu">
 			<ul>
 				<!--<li><a href="#">Learn More</a></li>-->
-				<li><a href="http://www.univariety.com/user/registration.php">Sign up</a></li>
+				<li><a href="http://www.univariety.com/user/registration.php">Sign up</a> </li>
+                <li>|</li>
 				<li><a href="https://www.univariety.com/user/login.php">Login</a></li>
 			</ul>
 		</div>
 		<!--Header Menu before signin : Ends -->
 		
-</div>		<!--Header : Ends -->
-		
+    
+	<div class="clear"></div>
+	
+	
+	
+</div>    <!--Header : Ends -->
+	<div class="mainContainer">
 		<!--Site Content : Starts -->
 		<div class="siteCnt">
-			<div class="header_sep"></div>
-							<div id="main-menu">
-	<ul>
-		<!-- Live Chat -->
-		        
-		<!--<li id="menu_chat">			
-			<a href="javascript:;" onclick="OpenZaZaChat();">Live Chat<br /><span>Talk to an Expert</span></a>
-        </li>-->
-        
-        <!-- What If -->
-        		<li id="menu_whatif"><a href="https://www.univariety.com/user/login.php?ref=aHR0cHM6Ly93d3cudW5pdmFyaWV0eS5jb20vdXNlci93aGF0LWlmLnBocA=="><img src="http://www.univariety.com/images/spacer.gif" width="16" height="14">What If?<br><span>Test Yourself</span></a></li>
-		        <!-- What If -->        
-        
-        
-		<!-- UTouch -->
-				<li id="menu_utouch"><a href="https://www.univariety.com/user/login.php?ref=aHR0cHM6Ly93d3cudW5pdmFyaWV0eS5jb20vdXNlci91dG91Y2gucGhw" class="menu-u3"><img src="http://www.univariety.com/images/spacer.gif" width="16" height="14">UTouch<br><span>Express Interest</span></a></li>
-				<!-- UKnow -->
-				<li id="menu_uknow"><a href="https://www.univariety.com/user/login.php?ref=aHR0cHM6Ly93d3cudW5pdmFyaWV0eS5jb20vdXNlci91a25vdy5waHA=" class="menu-u2"><img src="http://www.univariety.com/images/spacer.gif" width="16" height="14">UKnow<br><span>Conduct in-depth analysis</span></a></li>
-				
-				<li id="menu_umap"><a href="https://www.univariety.com/user/login.php?ref=aHR0cHM6Ly93d3cudW5pdmFyaWV0eS5jb20vdXNlci91bWFwLnBocA==" class="menu-u1"><img src="http://www.univariety.com/images/spacer.gif" width="16" height="14">UMAP<br><span>Identify Colleges</span></a></li>
-				<!-- Dashboard -->
-				<li id="menu_home"><a href="http://www.univariety.com/index.php">Home</a></li>
-	</ul>
-</div>						<div class="page_descrp"><div class="content-Hold">
+						<div class="page_descrp"><div class="content-Hold">
 <div class="content-Inner No-Bg">
 <div class="search-ct ht-650">
 <div class="pageCnt-title">
@@ -187,7 +187,7 @@ Information  gathered through cookies and by our web server logs may include the
 		<!--Footer : Starts -->
 		<div id="footer">
 	<div class="footerRt">
-	<a href="http://www.univariety.com/aboutus.php">About Us</a>  |&nbsp; <a href="http://www.univariety.com/uknowledge.php">UKnowledge</a>  |&nbsp; <a href="http://www.univariety.com/utools.php">UTools</a>  |&nbsp; <a href="http://www.univariety.com/privacy-policy.php">Privacy Policy</a>  |&nbsp; <a href="http://www.univariety.com/faqs.php">Faqs</a>	
+	<a href="http://www.univariety.com/aboutus.php">About Us</a>  |&nbsp; <a href="http://www.univariety.com/uknowledge.php">UKnowledge</a>  |&nbsp; <a href="http://www.univariety.com/utools.php">UTools</a>  |&nbsp; <a href="http://www.univariety.com/privacy-policy.php">Privacy Policy</a>  |&nbsp; <a href="http://www.univariety.com/blog.php">Blog</a>  |&nbsp; <a href="http://www.univariety.com/faqs.php">Faqs</a>	
 	</div>
 	
 	<div class="footerIcon">
@@ -195,7 +195,7 @@ Information  gathered through cookies and by our web server logs may include the
 		<!--<a href="#" class="footerIcon-ln"></a>-->
 	</div>
 	<div class="clearit"></div><br>
-	<div class="footerCopy" align="center">Copyright © 2011 <a href="http://www.internationaleducationgateway.org" target="_blank">International Education Gateway Pte Ltd.</a> All Rights Reserved.</div>
+	<div class="footerCopy" align="center">Copyright © 2012 <a href="http://www.internationaleducationgateway.org" target="_blank">International Education Gateway Pte Ltd.</a> All Rights Reserved.</div>
 	<!-- -->
 	
 	
@@ -203,6 +203,7 @@ Information  gathered through cookies and by our web server logs may include the
 </div>
 		<!--Footer : Ends -->
 	</div>
+    </div>
 <!--Website : Ends -->
 
 </body></html>
