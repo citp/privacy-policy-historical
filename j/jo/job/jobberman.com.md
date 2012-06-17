@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobberman.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227123410id_/http%3A//www.jobberman.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobberman.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617200344id_/http%3A//www.jobberman.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Jobberman.com -Nigeria's No. 1 Jobs Website, Jobberman.com
+# Privacy Policy - See Jobberman.com for Nigeria Jobs
 
 ## Privacy Policy
 
@@ -29,7 +29,14 @@ Jobberman does not sell or trade your personal information. Collected informatio
 
 Upon registration, you may decide to subscribe for some offerings e.g. news, promotional materials. If you no longer wish to receive our newsletters and promotional communications from Jobberman, you may opt-out of receiving them by following the instructions included in our newsletters, communication materials, or by emailing us at [email@jobberman.com](mailto:email@jobberman.com).
 
-**Shared information:**
+ **Opt-Out Policy:**
+
+We offer visitors to the Site a means for controlling the use of session information. If, at any time after registering for information or ordering our services, you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice to tech.support@jobberman.com. 
+
+To opt out of marketing or promotional emails, please either click **'unsubscribe'** in the body of the email communication or go to [edit your Jobberman.com profile](http://www.jobberman.com/applicant/profile "Edit profile link"), under **Personal** tab set **I want to receive regular job alerts in my e-mail** to **No**. 
+
+ **Shared information:**  
+
 
 Jobberman makes every possible effort to preserve user privacy; we may however need to disclose personal information when required by law or in the process of conducting our business transactions.
 
