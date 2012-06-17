@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samarins.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215101849id_/http%3A//samarins.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samarins.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617043103id_/http%3A//www.samarins.com/privacy.html) for the most accurate reproduction.*
 
 # Samarins.com Privacy Policy
 
@@ -18,7 +18,7 @@ We only collect and store the following non-personal aggregate information: your
 
 ## How do we use collected information
 
-We use this non-personal aggregate information to help us make our site more useful to visitors - to learn about the number of visitors to our site and the types of technology our visitors are using. We do not track or record information about individuals and their visits. We may use the information you provide in [Contact form](https://web.archive.org/web/20111215101849id_/http%3A//samarins.com/contact3.html) to respond to your questions or comments and we reserve the right to retain whatever information you submit, including your name, e-mail address and any questions or comments submitted. We will not send you any other email unless you contact us first and specifically request information, technical help, or assistance. We do not share, sell or rent this information to any third parties unless this will be required by law. 
+We use this non-personal aggregate information to help us make our site more useful to visitors - to learn about the number of visitors to our site and the types of technology our visitors are using. We do not track or record information about individuals and their visits. We may use the information you provide in [Contact form](https://web.archive.org/web/20120617043103id_/http%3A//www.samarins.com/contact3.html) to respond to your questions or comments and we reserve the right to retain whatever information you submit, including your name, e-mail address and any questions or comments submitted. We will not send you any other email unless you contact us first and specifically request information, technical help, or assistance. We do not share, sell or rent this information to any third parties unless this will be required by law. 
 
 ## Links to Third Parties 
 
@@ -31,16 +31,11 @@ Cookies are small pieces of information that a Web site transfers to a visitor's
 
 ## DART Cookies
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track your personal information. You can opt-out of this ad serving on all sites using this advertising by visiting [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).  
+We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ('interest based targeting'). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses 'non personally identifiable information'. It does NOT track your personal information. You can opt-out of this ad serving on all sites using this advertising by visiting [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).  
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to log-in to services or programs, such as logging into forums or accounts. 
 
 ## How can you contact us
 
-You can contact us using our [Contact form](https://web.archive.org/web/20111215101849id_/http%3A//samarins.com/contact3.html) or through the mail:  
-Samarins.com  
-136 Fletcher cir.   
-Cambridge ON N3C 0B6  
-Canada  
-
+You can contact us using our [Contact form](https://web.archive.org/web/20120617043103id_/http%3A//www.samarins.com/contact3.html). 
 
 | 
