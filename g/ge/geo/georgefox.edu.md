@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgefox.edu privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217111528id_/http%3A//www.georgefox.edu/legal/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgefox.edu privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617041051id_/http%3A//www.georgefox.edu/legal/index.html) for the most accurate reproduction.*
 
 # Legal and Privacy Information for George Fox University
 
@@ -11,7 +11,7 @@ You may view, copy, print, and use content contained on the George Fox Universit
 
 
 
-The logo of George Fox University may not be used in any electronic or printed publications without the express written permission of George Fox University's [Office of Marketing  Communications](https://web.archive.org/web/20111217111528id_/http%3A//www.georgefox.edu/offices/communications/index.html).
+The logo of George Fox University may not be used in any electronic or printed publications without the express written permission of George Fox University's [Office of Marketing  Communications](https://web.archive.org/web/20120617041051id_/http%3A//www.georgefox.edu/offices/communications/index.html).
 
 The information on this website is descriptive only and is not to be construed as a legal contract.
 
