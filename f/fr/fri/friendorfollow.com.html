@@ -1,12 +1,16 @@
-<!--The following is the downloaded HTML source of the friendorfollow.com privacy policy that was archived on 2011-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219081958id_/http%3A//www.friendorfollow.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the friendorfollow.com privacy policy that was archived on 2012-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618002053id_/http%3A//www.friendorfollow.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-<script src="http://platform.twitter.com/anywhere.js?id=9cL9ITbuW2KbuLZw0oFk4Q&amp;v=1.2"></script>
-<title>Who Unfollowed Me on Twitter? | Friend or Follow</title>
+
+    <script src="http://platform.twitter.com/anywhere.js?id=9cL9ITbuW2KbuLZw0oFk4Q&amp;v=1.2"></script>
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+
+
+<title>Privacy Policy | Friend or Follow</title>
 
 <link href="http://c3340665.r65.cf0.rackcdn.com/favicon.ico" rel="icon" type="image/x-icon">
 <link rel="apple-touch-icon" href="http://c3340665.r65.cf0.rackcdn.com/apple-touch-icon-57x57.png">
@@ -14,136 +18,116 @@
 <link rel="apple-touch-icon" sizes="114x114" href="http://c3340665.r65.cf0.rackcdn.com/apple-touch-icon-114x114.png">
 
 <link rel="stylesheet" type="text/css" href="/css/all.css" media="screen">
-	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
-	<!--[if IE]><link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen"/><![endif]-->
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen"/><![endif]-->
 
-<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/themes/smoothness/jquery-ui.css" media="screen">
-
+    <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/themes/smoothness/jquery-ui.css" media="screen">
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.15/jquery-ui.min.js" type="text/javascript"></script>
 
-
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.15/jquery-ui.min.js" type="text/javascript"></script>
 
 <script type="text/javascript" src="/js/friendorfollow.js"></script>
 
 
-
-<script type="text/javascript">
-
-var twitterObj;
-
-
-jQuery.ajaxPrefilter(function( options ) {
-    options.global = true;
-});
-
-	$(document).ready(function () {
-
-    	 
     
-	    twttr.anywhere(function(T)
-	    {
-	    	twitterObj = T;
-	    	
-			T.bind("authComplete", function (e, user) {
-				
-				//createCookie('twitter_anywhere_screenName', T.currentUser.data('screen_name'));
-				$.cookie('twitter_anywhere_screenName', T.currentUser.data('screen_name'), { path: '/' });
-				
-				url = window.location.href;
-	
-				urlSplit = url.split("/");
-				type = urlSplit[4];
-				
-				if(type != 'fans' && type != 'friends')
-					type = 'following';
-					
-				username = T.currentUser.data('screen_name');
-				
-				window.location.href = '/' + username.toLowerCase() + '/' + type + '/';
-		    }); 
-	
-		    
-		    T.bind("signOut", function (e) { 
-				//signOutActions(true);
-				$.cookie('twitter_anywhere_identity', null, { path: '/' });
-				$.cookie('twitter_anywhere_screenName', null, { path: '/' });
-				
-				url = window.location.href;
-				urlSplit = url.split("/");
-				
-				type = urlSplit[4];
-				
-				if(type == 'account')
-				{
-					type = 'following';
-					username = urlSplit[3];
-					window.location.href = '/' + username.toLowerCase() + '/' + type + '/';
-				}
-				else
-					window.location.reload(true);
-		    });
-			
-			T(".hc").hovercards({
-				expanded: true,
-				username: function(node) {
-					return node.alt;
-				}
-			});
-			
-			T(".tUser").hovercards({
-				infer: true,
-				expanded: true
-			});
-			
-			loggedIn = T.isConnected();
-		
-			if (loggedIn)
-			{	user = T.currentUser;
-				screenName = T.currentUser.data('screen_name');
-				//createCookie('twitter_anywhere_screenName', screenName);
-				$.cookie('twitter_anywhere_screenName', screenName, { path: '/' });
-				setTimeout(refresh, 60000*5);
-			}
-			else
-			{
-				$.cookie('twitter_anywhere_identity', null, { path: '/' });
-				$.cookie('twitter_anywhere_screenName', null, { path: '/' });
-			}
-		});
-		
-		var time = new Date().getTime();
-		$(document.body).bind("mousemove keypress", function(e) {
-			time = new Date().getTime();
-		});
-		
-		function refresh() {
-			if(new Date().getTime() - time >= 60000*30)
-			{
-				$.cookie('twitter_anywhere_identity', null, { path: '/' });
-				$.cookie('twitter_anywhere_screenName', null, { path: '/' });
-				twttr.anywhere.signOut();
-				window.location.reload(true);
-			}
-			else 
-				 setTimeout(refresh, 60000*5);
-		}
-		
-    // end document ready
-    });	
-</script>
+
+    <script type="text/javascript">
+
+    var twitterObj;
+
+    jQuery.ajaxPrefilter(function( options ) {
+        options.global = true;
+    });
+
+        $(document).ready(function () {
+
+            
+            twttr.anywhere(function(T)
+            {
+                twitterObj = T;
+
+                T.bind("authComplete", function (e, user) {
+                    url = window.location.href;
+
+                    urlSplit = url.split("/");
+                    type = urlSplit[4];
+
+                    if(type != 'fans' && type != 'friends')
+                        type = 'following';
+
+                    username = T.currentUser.data('screen_name');
+
+                    window.location.href = '/' + username.toLowerCase() + '/' + type + '/';
+                });
 
 
+                T.bind("signOut", function (e) {
+                    $.cookie('twitter_anywhere_identity', null, { path: '/' });
+
+                    url = window.location.href;
+                    urlSplit = url.split("/");
+
+                    type = urlSplit[4];
+
+                    if(type == 'account')
+                    {
+                        type = 'following';
+                        username = urlSplit[3];
+                        window.location.href = '/' + username.toLowerCase() + '/' + type + '/';
+                    }
+                    else
+                        window.location.reload(true);
+                });
+
+                T(".hc").hovercards({
+                    expanded: true,
+                    username: function(node) {
+                        return node.alt;
+                    }
+                });
+
+                T(".tUser").hovercards({
+                    infer: true,
+                    expanded: true
+                });
+
+                loggedIn = T.isConnected();
+
+                if (loggedIn)
+                {	user = T.currentUser;
+                    screenName = T.currentUser.data('screen_name');
+                    setTimeout(refresh, 60000*5);
+                }
+                else
+                {
+                    $.cookie('twitter_anywhere_identity', null, { path: '/' });
+                }
+            });
+
+            var time = new Date().getTime();
+            $(document.body).bind("mousemove keypress", function(e) {
+                time = new Date().getTime();
+            });
+
+            function refresh() {
+                if(new Date().getTime() - time >= 60000*30)
+                {
+                    $.cookie('twitter_anywhere_identity', null, { path: '/' });
+                    twttr.anywhere.signOut();
+                    window.location.reload(true);
+                }
+                else
+                     setTimeout(refresh, 60000*5);
+            }
+
+            //<![CDATA[
+                        lazyLoadYouTubeVideo();
+                        //]]>
+        // end document ready
+        });
+    </script>
 
 
-<style>
-	#wrapper .selectable img.g { opacity:1;filter:alpha(opacity=100);}
-	.selectable .ui-selected img { opacity:0.3;filter:alpha(opacity=30);}
-	.selectable .ui-selected {background-color:#EBE290;}
-	.selectable .ui-selecting {background-color:#EBE290;}
-	.selectable .ui-selecting img { opacity:0.3;filter:alpha(opacity=30);}
-</style>
 <!-- Start Google -->
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -157,9 +141,17 @@ jQuery.ajaxPrefilter(function( options ) {
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     ga.setAttribute('async', 'true');
     document.documentElement.firstChild.appendChild(ga);
-  })();	
+  })();
+
+
+// ADD THIS AT THE BOTTOM OF YOUR GOOGLE ANALYTICS TRACKING CODE //
+window.onerror = function(message, file, line) {
+   var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+   _gaq.push(['_trackEvent', 'Exceptions', 'Application', sFormattedMessage, null, true]);
+}
+
 </script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script>
-<!-- End Google -->
+<!-- End Google -->       
 
 <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
 </head>
@@ -170,7 +162,7 @@ jQuery.ajaxPrefilter(function( options ) {
 		<noscript><div class="javascriptnotloaded">Please enable JavaScript to use Friend or Follow.</div></noscript>
 		<div class="w2">
 			<div class="w3">
-				<h1 class="logo"><a href="/">Friend or Follow</a></h1>				<a class="hidden" href="#nav">Skip to navigation</a>
+				<h1 class="logo"><a href="/" itemprop="name">Friend or Follow</a></h1>				<a class="hidden" href="#nav">Skip to navigation</a>
 				<!-- start wrapper -->
 				<div id="wrapper">
 					<!-- start main -->
@@ -210,6 +202,8 @@ jQuery.ajaxPrefilter(function( options ) {
 	<div class="c">
 		<div class="bg">
 			<ul>
+                <li><a href="http://tumblr.friendorfollow.com/">Tumblr</a></li>
+                <li><a href="http://instagram.friendorfollow.com/">Instagram</a></li>
 				<li class=""><a href="/top-100/most-followed-twitter-users/">Top 100</a></li>
 				<li class=""><a href="/faq/">FAQ</a></li>
 				<li id="myResultsBullet" class="signedIn hidden "><a href="//following/">My Results</a></li>
@@ -221,7 +215,39 @@ jQuery.ajaxPrefilter(function( options ) {
                     </div>
 	</div>
 	<div class="b">&nbsp;</div>
-</div>									<!-- start card-box -->
+</div>
+
+<!-- start signup-popup -->
+<div class="signup-popup">
+	<a href="javascript:$('.signup-popup').bPopup().close()" class="pclose"><span>close</span></a>
+	<div class="t">
+					<p>Already a Gold Member? <a href="javascript:twitterObj.signIn();">Login here.</a></p>
+				<strong class="title">Go Gold!</strong>
+	</div>
+	<div class="c">
+		<div class="content">
+			<div class="video">
+                <div style="text-align:center;"><a class="youtube-lazy-link" href="http://www.youtube.com/embed/3dK30Lvdki4?rel=0&amp;hd=1" style="width: 425px;height:349px;" title="Click to play!"><b>Friend or Follow Gold Demo</b></a></div>
+                
+			</div>
+			<div class="text-holder">
+				<div class="box">
+					<h3>Becoming a Gold Member unlocks these most excellent features:</h3>
+					<ul>
+						<li>Unfollow or Follow multiple accounts at once</li>
+						<li>View accounts in a list view</li>
+						<li>Export your results to CSV</li>
+						<li>View Friend or Follow ad free</li>
+					</ul>
+					<p>Gold memberships are <strong>free to try for 7 days</strong>, and <strong>$9.99/month</strong> thereafter. You can <strong>cancel anytime.</strong></p>
+				</div>
+				<span class="cta cta-yellow cta-subhead" onclick="goToProSignupPage();" style="color:#fff;cursor:pointer;"><span class="icon-check">Subscribe Now<i>First 7 Days Free!</i></span></span>
+			</div>
+		</div>
+	</div>
+	<div class="b">&nbsp;</div>
+</div>
+   									<!-- start card-box -->
 									<div class="card-box">
 										<img class="print-logo" src="http://c3340665.r65.cf0.rackcdn.com/bg-logo.png" alt="Friend or Follow" width="222" height="138">
 									</div>
@@ -235,19 +261,21 @@ jQuery.ajaxPrefilter(function( options ) {
 	<div class="holder">
 		<!-- google_ad_section_start(weight=ignore) -->
 		<ul>
-			<li>© 2011 <a href="http://floatingheadstudios.com/" target="_blank">Floating Head Studios</a></li>
+			<li>© 2012 <a href="http://floatingheadstudios.com/" target="_blank">Floating Head Studios</a></li>
 			<li><a href="/privacy/">Privacy Policy</a></li>
 			<li><a href="/tos/">Terms of Service</a></li>
+            <li><a href="/jobs/">Jobs</a></li>
 		</ul>
 		<!-- google_ad_section_end(weight=ignore) -->
 	</div>
 	<div class="b">&nbsp;</div>
-</div>
-<!--
-<div style="margin-left: 300px"><a href="http://bit.ly/icHHpv" target="_blank" style="text-decoration: none">
-    <img style="border:none;float:left;padding-right:8px" src="http://c3340665.r65.cf0.rackcdn.com/MongoLab-48.png" height="48" width="48" alt="MongoLab.com" />
-    <p style="width:200px;font-weight: bold;padding-top:6px;font-size: 16px;line-height: 18px;color: #666">Data power by MongoLab.</p></a>
-</div>-->				</div>
+
+    <div style="text-align: center;margin-top:10px" "=""><a href="http://bit.ly/icHHpv" target="_blank">
+        <img style="border:none" src="http://c3340665.r65.cf0.rackcdn.com/Powered-by-MongoLab-170x43.png" height="43" width="170" alt="Powered by MongoLab.com">
+        </a>
+    </div>
+</div> 
+				</div>
 			</div>
 		</div>
 	</div>
@@ -275,6 +303,6 @@ var _sf_async_config={uid:2799,domain:"friendorfollow.com"};
 </script>
 <!-- End Chartbeat -->
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/26/eum/rum-staging.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","752accba01",178656,"bwEENRcCDUFRAENaVlZLJwIRCgxcHypZV1xAJwkPEREMXlwGRRxJSg0QAAYaIlFEClhd",0,24,new Date().getTime()])</script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","752accba01",178656,"bwEENRcCDUFRAENaVlZLJwIRCgxcHypZV1xAJwkPEREMXlwGRRxJSg0QAAYaIlFEClhd",0,19,new Date().getTime()])</script>
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/26/eum/rum-staging.js"></script><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js"></script><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
