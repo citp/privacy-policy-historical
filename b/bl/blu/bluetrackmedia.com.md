@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluetrackmedia.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218092931id_/http%3A//www.bluetrackmedia.com/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetrackmedia.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617034409id_/http%3A//www.bluetrackmedia.com/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Blue Track Media : Your Incentive Friendly Affiliate Network with Innovative Proprietary Technology
+# Blue Track Media : THE Incentive Advertising Agency with Innovative Proprietary Technology
 
 **Blue Track Media, LLC, Privacy Policy**
 
