@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122210310id_/http%3A//jorgecruise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617063431id_/http%3A//jorgecruise.com/privacy) for the most accurate reproduction.*
 
-# Jorge Cruise: #1 bestselling author featured on oprah, today and cnn - Privacy Policy
+# Privacy Policy - Jorge Cruise: Get my FREE 3 day menu to lose 7lbs of belly fat
 
 ## Privacy Policy
 
