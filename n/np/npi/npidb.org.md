@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the npidb.org privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005182811id_/http%3A//npidb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npidb.org privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617031335id_/http%3A//npidb.org/privacy) for the most accurate reproduction.*
 
 # NPIdb - National Provider Identifier DataBase Privacy Policy
 
-[](https://web.archive.org/ "NPI Lookup | NPI Number") Doctors NPI Number Look Up
+[](https://web.archive.org/ "NPI Lookup | NPI Number") NPI Number Lookup for Doctors
 
 NPIdb.org - Our Privacy Policy
 
@@ -19,4 +19,4 @@ We will not retain any details that you provide, except for your email address i
 
 **Links**   
 This website contains links to other websites. Please be aware that We are not responsible for the privacy practices of other websites. We encourage you, when you leave this website, to read the privacy statements/policies of each and every website you visit, as this particular privacy policy applies solely to this particular website. 
-  *[Doctors NPI]: National Provider Identifier
+  *[NPI]: National Provider Identifier
