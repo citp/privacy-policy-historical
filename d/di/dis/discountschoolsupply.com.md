@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountschoolsupply.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202235521id_/http%3A//www.discountschoolsupply.com/Help/HelpFAQTopic.aspx%3Fhelp_faq_id%3D172) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountschoolsupply.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617054544id_/http%3A//www.discountschoolsupply.com/Help/HelpFAQTopic.aspx%3Fhelp_faq_id%3D172) for the most accurate reproduction.*
 
 # Discount School Supply
 
