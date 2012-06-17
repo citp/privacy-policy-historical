@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optum.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220204222id_/http%3A//www.optum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optum.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617071314id_/http%3A//www.optum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Security Policy| Optum.com
 
@@ -42,4 +42,4 @@ This Site may contain links to other sites, including those with Optum’s affil
 
 Optum may modify this Privacy Policy at any time in its discretion, so please review it frequently. If we are going to materially change our Privacy Policy, we will post a notice that the Privacy Policy has changed on our Site for a period of 30 days following the change. Your continued use of Optum.com will indicate acceptance of any such material change, or you may opt-out of continuing to use the Site. 
 
-© 2011 Optum. All Rights Reserved.      
+© 2012 Optum. All Rights Reserved.      
