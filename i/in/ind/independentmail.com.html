@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the independentmail.com privacy policy that was archived on 2011-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125150819id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the independentmail.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617181316id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:nitro="http://www.bunchball.com/nitro"><!--
   
@@ -149,7 +149,7 @@
                 else if( inc >=250000 ) { return '250000-' ; }
             }
             var inc_range = IncToRange( ReadZagi( 'income' ) ) ;
-            if( inc_range ) yld_mgr.income_range=inc_range ;
+            if( inc_range ) yld_mgr.user_income=inc_range ;
 
 
             // define the slots
@@ -202,6 +202,23 @@
 			
 	
 	
+				<script type="text/javascript"><!--
+            yld_mgr.slots.BIGBOX_2 = {};
+             
+            //REQUIRED PARAMETERS 
+            yld_mgr.slots.BIGBOX_2.request_type="ac"; // ac=ad call, bc=beacon call, fc=forecast call
+            yld_mgr.slots.BIGBOX_2.ad_size_list=["300x250"  ]; // BIGBOX
+
+            //OPTIONAL PARAMETERS THAT DESCRIBE THE AD 
+            yld_mgr.slots.BIGBOX_2.ad_delivery_mode="ipbtf"; // pos = below; ipatf = above the fold, ipbtf = below the fold, ipstf = spans the fold
+            yld_mgr.slots.BIGBOX_2.clk_dest="_blank"; //Hardcoded
+            yld_mgr.slots.BIGBOX_2.ad_output_encoding="utf-8"; //Hardcoded
+            // no custom categories
+            // yld_mgr.slots.BIGBOX_2.content_type_list=[]; // this view not mapped to a yahoo content type
+
+        
+            //--> </script> 			
+			
 
 
 			<script type="text/javascript"><!--
@@ -270,7 +287,7 @@
 	<meta name="description" content="
 	Privacy Policy news and information. Anderson Independent Mail brings you the most current Privacy Policy news and information available.
 	">
-	<meta name="copyright" content="Copyright (c) 2011 Anderson Independent Mail. All Rights Reserved.">
+	<meta name="copyright" content="Copyright (c) 2012 Anderson Independent Mail. All Rights Reserved.">
 	<meta property="fb:app_id" content="332135147741">
 	
 	
@@ -288,7 +305,7 @@
 	
 	<!-- CSS -->
 		
-			<link href="http://media.independentmail.com/corp_assets/asphalt/css/base/base.yui.2011-11-11_8-17-55.css" rel="stylesheet" type="text/css"> 
+			<link href="http://media.independentmail.com/corp_assets/asphalt/css/base/base.yui.2012-01-31_13-26-09.css" rel="stylesheet" type="text/css"> 
 			<style type="text/css" media="only screen and (max-device-width: 768px)">
 				.primary_nav li a, #verticals_nav li a {
 					margin-right: 27px;
@@ -450,7 +467,6 @@
 						<option value="">site</option>
 						<option value="web">web</option>
 					</select>
-					<input type="hidden" name="sortby" value="date">
 					<input class="search_button" type="image" alt="Go" src="http://media.independentmail.com/corp_assets/asphalt/_sites/aim/img/buttons/go.gif" name="image">
 				</fieldset>
 			</form>
@@ -502,41 +518,32 @@
 				<li><a href="/news/news/world/" title="World">World</a></li>
 				<li><a href="/weather/" title="Weather">Weather</a></li>
 				<li><a href="http://www.legacy.com/obituaries/independentmail/" title="Obituaries">Obituaries</a></li>
-				<li><a href="/news/news/politics/" title="Politics">Politics</a>
+				<li><a href="/news/politics/" title="Politics">Politics</a>
 					<ul class="tertiary_nav">
-						<li><a href="/news/news/politics/national" title="National Elections">National</a></li>
-					</ul>
-					<ul class="tertiary_nav">
-						<li><a href="/primaries/" title="Mid-term Election Primaries">June Primaries</a></li>
-						<li><a href="/news/news/politics/south-carolina/" title="South Carolina Elections">S.C. Elections</a>
-							<ul class="quaternary_nav">
-								<li><a href="/news/news/politics/south-carolina/national/" title="South Carolina Congressional Elections">Congressional</a></li>
-								<li><a href="/news/news/politics/south-carolina/local/education/" title="South Carolina Local Education Elections">Local Education</a></li>
-								<li><a href="/news/news/politics/south-carolina/local/" title="South Carolina Local Government Elections">Local Government</a></li>
-								<li><a href="/news/news/politics/south-carolina/state/" title="South Carolina General Assembly">General Assembly</a></li>
-							</ul>
-						</li>
-						<li><a href="/news/news/politics/georgia/" title="Georgia Elections">Georgia Elections</a>
-							<ul class="quaternary_nav">
-								<li><a href="/news/news/politics/georgia/national/" title="Georgia Congressional Elections">Congressional</a></li>
-								<li><a href="/news/news/politics/georgia/local/education/" title="Georgia Local Education Elections">Local Education</a></li>
-								<li><a href="/news/news/politics/georgia/local/" title="Georgia Local Government Elections">Local Government</a></li>
-								<li><a href="/news/news/politics/georgia/state/" title="Georgia General Assembly">General Assembly</a></li>
-							</ul>
-						</li>
+						<li><a href="/news/news/politics/local/" title="Local Politics">Local</a></li>
+						<li><a href="/news/news/politics/national/" title="National Politics">National</a></li>
+						<li><a href="/news/news/politics/south-carolina/" title="South Carolina Politics">South Carolina</a></li>
+						<li><a href="/news/news/politics/georgia/" title="Georgia Politics">Georgia</a></li>
 					</ul>
 				</li>
 				<li><a href="/news/news/education/" title="Education">Education</a></li>
 				<li><a href="/news/news/columnists/" title="News Columnists">Columnists</a>
 					<ul class="tertiary_nav">
 						<li><a href="/news/news/columnists/salley-mcinerney/" title="Salley McInerney">Salley McInerney</a></li>
-						<li><a href="/news/news/columnists/jeanne-malmgren/" title="Jeanne Malmgren">Jeanne Malmgren</a></li>
 					</ul>
 				</li>
 			</ul>
 		</li>
 		<li id="nav_sports"><a href="/news/sports/" title="Sports">Sports</a>
 			<ul class="secondary_nav">
+				<li><a href="http://www.orangeandwhite.com/" title="Clemson University Sports">OrangeandWhite.com</a>
+					<ul class="tertiary_nav">
+						<li><a href="http://www.orangeandwhite.com/news/football/" title="Clemson Football">Football</a></li>						
+						<li><a href="http://www.orangeandwhite.com/news/baseball/" title="Clemson Baseball">Baseball</a></li>
+						<li><a href="http://www.orangeandwhite.com/news/basketball/" title="Clemson Basketball">Basketball</a></li>
+						<li><a href="http://www.orangeandwhite.com/news/all-sports/" title="All Clemson Sports Stories">All Sports</a></li>
+					</ul>
+				</li>	
 				<li><a href="/news/sports/local/" title="Local">Local</a></li>
 				<li><a href="/news/sports/high-school/" title="High School">High School</a></li>
 				<li><a href="/news/sports/soccer/" title="Soccer">Soccer</a></li>
@@ -565,8 +572,7 @@
 						<li><a href="/news/sports/high-school/football/west-oak/" title="West Oak High School">West Oak</a></li>
 						<li><a href="/news/sports/high-school/football/westside/" title="Westside High School">Westside</a></li>
 						<li><a href="/news/sports/high-school/football/wren/" title="Wren High School">Wren</a></li>
-					</ul>
-					
+					</ul>					
 				</li>
 				<li><a href="/news/sports/college/" title="College">College</a>
 					<ul class="tertiary_nav">
@@ -578,19 +584,11 @@
 						<li><a href="/news/sports/college-sports/university-of-south-carolina/" title="University of South Carolina">USC Gamecocks</a></li>
 						
 					</ul>
-				</li>
-				<li><a href="http://www.orangeandwhite.com/" title="Clemson University Sports">OrangeandWhite.com</a>
-					<ul class="tertiary_nav">
-						<li><a href="http://www.orangeandwhite.com/news/football/" title="Clemson Football">Football</a></li>						
-						<li><a href="http://www.orangeandwhite.com/news/baseball/" title="Clemson Baseball">Baseball</a></li>
-						<li><a href="http://www.orangeandwhite.com/news/basketball/" title="Clemson Basketball">Basketball</a></li>
-						<li><a href="http://www.orangeandwhite.com/news/all-sports/" title="All Clemson Sports Stories">All Sports</a></li>
-					</ul>
-				</li>				
+				</li>							
 				<li><a href="/news/sports/professional/golf/" title="Professional Golf">Golf</a></li>				
 				<li><a href="/news/sports/columnists/" title="Columnists">Columnists</a>
 					<ul class="tertiary_nav">
-						<li><a href="/news/sports/columnists/greg-wallace/" title="Greg Wallace">Greg Wallace</a></li>
+						<li><a href="http://www.orangeandwhite.com/news/columns/greg-wallace/" title="Greg Wallace">Greg Wallace</a></li>
 						<li><a href="/news/sports/columnists/paul-strelow/" title="Paul Strelow">Paul Strelow</a></li>					
 						<li><a href="/news/sports/columnists/brad-senkiw/" title="Brad Senkiw">Brad Senkiw</a></li>
 						<li><a href="/news/sports/columnists/scott-adamson/" title="Scott Adamson">Scott Adamson</a></li>
@@ -615,15 +613,15 @@
 				<li><a href="/news/opinion/letters-to-editor/" title="Letters to the Editor">Letters to the Editor</a></li>
 				<li><a href="/news/opinion/politics/" title="Political Opinions">Politics</a></li>
 				<li><a href="/news/opinion/columnists/all" title="Opinion Columnists">Columnists</a></li>
-				<li><a href="/blogs/" title="Blogs">Blogs</a></li>
+				<li><a href="/news/blogs/" title="Blogs">Blogs</a></li>
 				<li><a href="/polls/" title="Polls">Polls</a></li>
 			</ul>
 		</li>
 		<li id="nav_entertainment"><a href="/news/entertainment/" title="Entertainment">Entertainment</a>
 			<ul class="secondary_nav">
 				<li><a href="/news/entertainment/local/" title="Local Entertainment">Local</a></li>
-				<li><a href="/news/entertainment/arts-theater/" title="Arts And Theater">Arts &amp; Theater</a></li><a href="/news/entertainment/arts-theater/" title="Arts And Theater">
-				</a><li><a href="/news/entertainment/arts-theater/" title="Arts And Theater"></a><a href="/events/" title="Events">Events Calendar</a>
+				<li><a href="/news/entertainment/arts-theater/" title="Arts And Theater">Arts &amp; Theater</a></li>
+				<li><a href="/events/" title="Events">Events Calendar</a>
 					<ul class="tertiary_nav">
 						<li><a href="/events/submit/" title="Submit Event">Submit Event</a></li>
 						<li><a href="/places/venues/" title="Anderson Venues">Anderson Venues</a></li>
@@ -893,9 +891,9 @@ We will respond to your request and, if applicable and appropriate, make the req
 <p>To learn more about Yahoo!’s ad practices, including how to opt out of using anonymous information to select which ads to show you, see <a href="http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html">http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html</a>.</p>
 <p>Yahoo! is a member of the Network Advertising Initiative. See <a href="http://www.networkadvertising.org">http://www.networkadvertising.org</a>.</p>
 
-<p><strong>J. AP NEWS REGISTRY</strong></p>
+<p><strong>J. NEWSRIGHT</strong></p>
  
-<p>We use services provided by AP News Registry for a variety of reasons, including, but not limited to, understanding how our content is used across the Internet, improving news coverage and to protect our intellectual and other property rights. AP News Registry collects non-personally identifiable content usage information and may use cookies in conjunction with this activity. Please refer to the AP News Registry privacy policy at <a href="http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx">http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx</a> for further information, including how to opt-out of certain AP News Registry collection activities. Your continued readership of the site means you accept the privacy policy of the AP News Registry.</p>
+<p>We use services provided by NewsRight for a variety of reasons, including, but not limited to, understanding how our content is used across the Internet, improving news coverage and to protect our intellectual and other property rights.  NewsRight collects non-personally identifiable content usage information and may use cookies in conjunction with this activity.  Please refer to the NewsRight privacy policy <a href="http://www.newsregistry.com/privacycenter/servicepolicy.aspx">here</a> for further information, including how to opt-out of certain NewsRight collection activities.  Your continued readership of the site means you accept the privacy policy of NewsRight. </p>
 
 <p><strong>K.	SOLE STATEMENT </strong></p>
 <p>This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.</p>
@@ -971,30 +969,28 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2011/nov/24/sheriff-employee-dies-after-tractor-accident/?partner=popular" title="Jeremy Raines, an Anderson County Sheriff's Office employee, was remembered by colleagues Thursday as a stellar officer who saw the good in every person he met" rel="nofollow">Anderson County Sheriff's Office employee dies after tractor accident</a>
-					<span class="date">Published 11/24/2011 at 7:17 p.m.</span> <a href="/news/2011/nov/24/sheriff-employee-dies-after-tractor-accident/?partner=popular#comments" class="comment_count" rel="nofollow">2 comments</a>
+					<a href="/news/2012/jun/16/anderson-county-council-agenda-makes-no-mention-pr/?partner=popular" title="The Anderson County Council will gather Tuesday for its first regular meeting since a state grand jury announced that it had stopped investigating Joey Preston’s contract buyout and had found no crime" rel="nofollow">Anderson County Council agenda makes no mention of Preston lawsuit</a>
+					<span class="date">Published 6/16/2012 at 2:21 p.m.</span> <a href="/news/2012/jun/16/anderson-county-council-agenda-makes-no-mention-pr/?partner=popular#comments" class="comment_count" rel="nofollow">29 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/nov/23/judge-sides-mother-who-sued-over-camp/?partner=popular" title="An Anderson County mother who successfully sued Fresh Start Community Development Corporation this week says she hopes state agencies will investigate the organization and its executive director, Erick Bradshaw.
-" rel="nofollow">Judge sides with mother who sued over camp</a>
-					<span class="date">Published 11/23/2011 at 6:28 p.m.</span> <a href="/news/2011/nov/23/judge-sides-mother-who-sued-over-camp/?partner=popular#comments" class="comment_count" rel="nofollow">9 comments</a>
+					<a href="/news/2012/jun/16/authorities-respond-plane-crash-anderson-region/?partner=popular" title="Pilot is OK, officials say" rel="nofollow">Authorities respond to plane crash at Anderson Regional Airport</a>
+					<span class="date">Published 6/16/2012 at 2:13 p.m.</span> <a href="/news/2012/jun/16/authorities-respond-plane-crash-anderson-region/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/nov/23/man-says-he-was-shot-robbed-anderson/?partner=popular" title="A 56-year-old man told authorities that he was walking down railroad tracks in Anderson on Wednesday when three people shot and robbed him.
-" rel="nofollow">Man says he was shot, robbed in Anderson</a>
-					<span class="date">Published 11/23/2011 at 6:12 p.m.</span> <a href="/news/2011/nov/23/man-says-he-was-shot-robbed-anderson/?partner=popular#comments" class="comment_count" rel="nofollow">11 comments</a>
+					<a href="/news/2012/jun/16/pilot-walks-away-plane-crash-anderson/?partner=popular" title="Pilot John Hornbeck was unhurt after his single-engine biplane crashed moments after taking off Saturday afternoon" rel="nofollow">Pilot walks away from plane crash in Anderson</a>
+					<span class="date">Published 6/16/2012 at 7:32 p.m.</span> <a href="/news/2012/jun/16/pilot-walks-away-plane-crash-anderson/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/nov/25/shoppers-snag-early-morning-deals/?partner=popular" title="Shoppers hit the stores throughout the early morning hours in Anderson to get their hands on Christmas bargains" rel="nofollow">Shoppers snag early-morning deals</a>
-					<span class="date">Updated 11/25/2011 at 8:07 a.m.</span> <a href="/news/2011/nov/25/shoppers-snag-early-morning-deals/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
+					<a href="/news/2012/jun/14/grand-jury-halts-preston-investigation/?partner=popular" title="Concludes no crimes committed for 2008 buyout of contract" rel="nofollow">Grand jury halts Preston investigation </a>
+					<span class="date">Updated 6/14/2012 at 10:00 p.m.</span> <a href="/news/2012/jun/14/grand-jury-halts-preston-investigation/?partner=popular#comments" class="comment_count" rel="nofollow">97 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/nov/24/fatal-accident-spawns-program-save-young-lives/?partner=popular" title=" This Thanksgiving there was an empty chair at Kim Evans’ table" rel="nofollow">Fatal accident spawns program in Oconee to save young lives</a>
-					<span class="date">Published 11/24/2011 at 6:52 p.m.</span> <a href="/news/2011/nov/24/fatal-accident-spawns-program-save-young-lives/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
+					<a href="/news/2012/jun/15/six-upstate-residents-plead-guilty-in-33-million/?partner=popular" title="Six people from South Carolina have pleaded guilty in federal court to charges of cigarette smuggling in several states. " rel="nofollow">Six Upstate residents plead guilty in $33 million illegal cigarette ring </a>
+					<span class="date">Published 6/15/2012 at 7:08 p.m.</span> <a href="/news/2012/jun/15/six-upstate-residents-plead-guilty-in-33-million/?partner=popular#comments" class="comment_count" rel="nofollow">12 comments</a>
 				</li>
 			
 		</ul>
@@ -1006,15 +1002,15 @@ We will respond to your request and, if applicable and appropriate, make the req
 			
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2011/nov/25/black-friday-anderson/?partner=popular" title="Black Friday in Anderson" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2011/11/25/1126black005_t90_70.jpg" width="90" alt="Black Friday in Anderson"> Black Friday in Anderson</a>
+					<a href="/photos/galleries/2012/jun/17/fathers-day-car-show/?partner=popular" title="Father's Day Car Show " rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2012/06/17/620120616175626003_t90_70.JPG" width="90" alt="Father's Day Car Show "> Father's Day Car Show </a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2011/nov/24/haven-rest-feeds-hundreds/?partner=popular" title="Haven of Rest feeds hundreds" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2011/11/24/1125Haven036_t90_70.jpg" width="90" alt="Haven of Rest feeds hundreds"> Haven of Rest feeds hundreds</a>
+					<a href="/photos/galleries/2012/jun/16/airport-crash/?partner=popular" title="Airport crash " rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2012/06/16/520120616135418003_t90_70.JPG" width="90" alt="Airport crash "> Airport crash </a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2007/jul/13/anderson-mill-fire/?partner=popular" title="Anderson Mill Fire" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2007/07/13/0714Fire12_t90_70.jpg" width="90" alt="Anderson Mill Fire"> Anderson Mill Fire</a>
+					<a href="/photos/galleries/2012/jun/15/summer-job-at-the-pool/?partner=popular" title="Summer job at the pool " rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2012/06/15/520120615154121001_t90_70.JPG" width="90" alt="Summer job at the pool "> Summer job at the pool </a>
 				</div> <!-- end .bucket_media_item -->
 			
 
@@ -1028,30 +1024,28 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2011/nov/22/Reno-charges-dropped/?partner=popular" title="Operation Reno 911 was Anderson's biggest drug roundup" rel="nofollow">Attorney general drops charges in major drug case</a>
-					<span class="date">Published 11/22/2011 at 4:32 p.m.</span> <a href="/news/2011/nov/22/Reno-charges-dropped/?partner=popular#comments" class="comment_count" rel="nofollow">27 comments</a>
+					<a href="/news/2012/jun/14/grand-jury-halts-preston-investigation/?partner=popular" title="Concludes no crimes committed for 2008 buyout of contract" rel="nofollow">Grand jury halts Preston investigation </a>
+					<span class="date">Published 6/14/2012 at 10:38 a.m.</span> <a href="/news/2012/jun/14/grand-jury-halts-preston-investigation/?partner=popular#comments" class="comment_count" rel="nofollow">97 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/nov/22/tracking-device-used-fired-deputys-car/?partner=popular" title=" Investigators used a GPS tracker to check on the movements of a longtime Oconee County deputy, Mike Crenshaw, who was fired this week by Sheriff James Singleton. 
-" rel="nofollow">Tracking device used on fired deputy’s car</a>
-					<span class="date">Published 11/22/2011 at 6:49 p.m.</span> <a href="/news/2011/nov/22/tracking-device-used-fired-deputys-car/?partner=popular#comments" class="comment_count" rel="nofollow">22 comments</a>
+					<a href="/news/2012/jun/14/county-leaders-mum-on-how-grand-jury-report-will/?partner=popular" title="Anderson County leaders either don't know or aren't saying how a state grand jury's decision this week to stop investigating Joey Preston's contract buyout will affect a lawsuit aimed at reclaiming his $1.1 million severance package. " rel="nofollow"> County leaders mum on how grand jury report will affect severance-pay case </a>
+					<span class="date">Published 6/14/2012 at 8:52 p.m.</span> <a href="/news/2012/jun/14/county-leaders-mum-on-how-grand-jury-report-will/?partner=popular#comments" class="comment_count" rel="nofollow">61 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/nov/22/undercover-operation-about-alcohol-sales-leads-arr/?partner=popular" title="The majority of stores selling liquor or beer in Williamston sold to an underage informant during a recent undercover investigation, according to the town police chief." rel="nofollow">Undercover operation about alcohol sales leads to arrests in Williamston</a>
-					<span class="date">Published 11/22/2011 at 6:12 a.m.</span> <a href="/news/2011/nov/22/undercover-operation-about-alcohol-sales-leads-arr/?partner=popular#comments" class="comment_count" rel="nofollow">21 comments</a>
+					<a href="/news/2012/jun/15/obama-policy-spare-many-youths-deportation/?partner=popular" title="The policy change will affect as many as 800,000 immigrants who have lived in fear of deportation" rel="nofollow">Obama policy to spare many from deportation  </a>
+					<span class="date">Published 6/15/2012 at 3:31 p.m.</span> <a href="/news/2012/jun/15/obama-policy-spare-many-youths-deportation/?partner=popular#comments" class="comment_count" rel="nofollow">32 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/nov/22/ted-luckadoo-retires/?partner=popular" title="Legendary Westside coach calls it a career after 40 years." rel="nofollow">Ted Luckadoo retires</a>
-					<span class="date">Published 11/22/2011 at 4:36 p.m.</span> <a href="/news/2011/nov/22/ted-luckadoo-retires/?partner=popular#comments" class="comment_count" rel="nofollow">17 comments</a>
+					<a href="/news/2012/jun/16/anderson-county-council-agenda-makes-no-mention-pr/?partner=popular" title="The Anderson County Council will gather Tuesday for its first regular meeting since a state grand jury announced that it had stopped investigating Joey Preston’s contract buyout and had found no crime" rel="nofollow">Anderson County Council agenda makes no mention of Preston lawsuit</a>
+					<span class="date">Published 6/16/2012 at 2:21 p.m.</span> <a href="/news/2012/jun/16/anderson-county-council-agenda-makes-no-mention-pr/?partner=popular#comments" class="comment_count" rel="nofollow">29 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/nov/23/saving-kay-easley-man-helps-one-womans-search-home/?partner=popular" title=" A voice told Michael Barnes to turn around when he saw the woman shuffling down Main Street
-" rel="nofollow"> Saving Kay: Easley man helps one woman’s search for home</a>
-					<span class="date">Published 11/23/2011 at 3:27 p.m.</span> <a href="/news/2011/nov/23/saving-kay-easley-man-helps-one-womans-search-home/?partner=popular#comments" class="comment_count" rel="nofollow">11 comments</a>
+					<a href="/news/2012/jun/14/county-official-details-plans-for-new-ball-and/?partner=popular" title="Two additional ball fields and a dog park would be built near the Civic Center of Anderson under plans that an Anderson County official outlined Thursday night. " rel="nofollow">County official details plans for new ball fields and dog park near civic center </a>
+					<span class="date">Published 6/14/2012 at 10:32 p.m.</span> <a href="/news/2012/jun/14/county-official-details-plans-for-new-ball-and/?partner=popular#comments" class="comment_count" rel="nofollow">29 comments</a>
 				</li>
 			
 		</ul>
@@ -1063,29 +1057,28 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2011/nov/17/oconee-rabun-counties-plan-celebration-deliverance/?partner=popular" title="Next June the hills of northern Oconee County will once again echo the sounds of dueling banjos" rel="nofollow">Oconee, Rabun counties plan celebration of ‘Deliverance’ anniversary</a>
-					<span class="date">Published 11/17/2011 at 3:34 p.m.</span> <a href="/news/2011/nov/17/oconee-rabun-counties-plan-celebration-deliverance/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
+					<a href="/news/2012/jun/12/anmed-health-extends-reach-into-georgia-market/?partner=popular" title="AnMed Health is expanding its presence in northeast Georgia with the announcement Tuesday of two major partnerships in the cities of Elberton and Hartwell. " rel="nofollow">AnMed Health extends reach into Georgia market  </a>
+					<span class="date">Published 6/12/2012 at 4:40 p.m.</span> <a href="/news/2012/jun/12/anmed-health-extends-reach-into-georgia-market/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/nov/17/main-street-building-reflect-new-style-downtown-an/?partner=popular" title="A two-story building at South Main and West Benson streets in downtown Anderson is about to go through a facelift, bringing a modern style to accent the early 20th-century buildings that are there now." rel="nofollow">Main Street building to reflect new style for downtown Anderson </a>
-					<span class="date">Published 11/17/2011 at 8:44 p.m.</span> <a href="/news/2011/nov/17/main-street-building-reflect-new-style-downtown-an/?partner=popular#comments" class="comment_count" rel="nofollow">25 comments</a>
+					<a href="/news/2012/jun/12/aim-all-area-boys-soccer-team/?partner=popular" title="Walhalla's Carlos Aguilar, Pendleton's Noah Barend highlight all-area team " rel="nofollow">AIM All-Area Boys Soccer Team </a>
+					<span class="date">Published 6/12/2012 at 4:00 a.m.</span> <a href="/news/2012/jun/12/aim-all-area-boys-soccer-team/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/nov/17/twelve-arrested-drug-raid-anderson-house/?partner=popular" title="Twelve people, including an 83-year-old woman, were arrested during a drug raid Wednesday night in Anderson." rel="nofollow">Twelve arrested in drug raid at Anderson house</a>
-					<span class="date">Published 11/17/2011 at 11:46 p.m.</span> <a href="/news/2011/nov/17/twelve-arrested-drug-raid-anderson-house/?partner=popular#comments" class="comment_count" rel="nofollow">20 comments</a>
+					<a href="/news/2012/jun/11/parents-call-for-district-4-school-to-resign/?partner=popular" title=" A capacity crowd of 75 attended an Anderson County District 4 school board meeting Monday night and those who spoke demanded that the district superintendent resign. " rel="nofollow">Parents call for District 4 school superintendent to resign </a>
+					<span class="date">Published 6/11/2012 at 9:40 p.m.</span> <a href="/news/2012/jun/11/parents-call-for-district-4-school-to-resign/?partner=popular#comments" class="comment_count" rel="nofollow">34 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/nov/20/man-trying-restore-antebellum-middle-class-home-an/?partner=popular" title="A man who has spent his life restoring historic structures has taken on one in Anderson" rel="nofollow">Man trying to restore Antebellum 'middle class' home in Anderson</a>
-					<span class="date">Published 11/20/2011 at 6:16 p.m.</span> <a href="/news/2011/nov/20/man-trying-restore-antebellum-middle-class-home-an/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
+					<a href="/news/2012/jun/14/grand-jury-halts-preston-investigation/?partner=popular" title="Concludes no crimes committed for 2008 buyout of contract" rel="nofollow">Grand jury halts Preston investigation </a>
+					<span class="date">Published 6/14/2012 at 10:38 a.m.</span> <a href="/news/2012/jun/14/grand-jury-halts-preston-investigation/?partner=popular#comments" class="comment_count" rel="nofollow">97 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/nov/23/saving-kay-easley-man-helps-one-womans-search-home/?partner=popular" title=" A voice told Michael Barnes to turn around when he saw the woman shuffling down Main Street
-" rel="nofollow"> Saving Kay: Easley man helps one woman’s search for home</a>
-					<span class="date">Published 11/23/2011 at 3:27 p.m.</span> <a href="/news/2011/nov/23/saving-kay-easley-man-helps-one-womans-search-home/?partner=popular#comments" class="comment_count" rel="nofollow">11 comments</a>
+					<a href="/news/2012/jun/11/chemical-company-to-open-new-plant-in-anderson/?partner=popular" title="A company that provides chemicals for the paperboard and packaging industries announced Tuesday that it is establishing a new plant in Anderson County." rel="nofollow">Chemical company opens new plant in Anderson County </a>
+					<span class="date">Published 6/11/2012 at 6:32 p.m.</span> <a href="/news/2012/jun/11/chemical-company-to-open-new-plant-in-anderson/?partner=popular#comments" class="comment_count" rel="nofollow">4 comments</a>
 				</li>
 			
 		</ul>
@@ -1124,20 +1117,20 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<div class="sidebar_current_weather clear">
 	
 			<div id="sidebar_current_icon">
-				<img src="http://media.scrippsnewspapers.com/static/asphalt/dev/img/weather/icons/1_170.png" width="120px" alt="Fair">
+				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/1_170.png" width="120px" alt="Fair">
 			</div> <!-- end #radar -->
 	
 			<div id="sidebar_current_weather">
 				<span class="current_temp_label">Currently</span>
-				<span class="current_temp">42<span class="current_temp_degree">°</span></span>
+				<span class="current_temp">79<span class="current_temp_degree">°</span></span>
 				<span class="current_conditions">Fair</span>
 				<span class="current_wind">Wind: Calm</span>
 			</div> <!-- end #current_conditions -->
 	
 			<div id="sidebar_hi_low">
 				<span class="today_temp_label">Today</span>
-				<span class="hi_temp">66<span class="current_temp_degree">°</span></span>
-				<span class="lo_temp">38<span class="current_temp_degree">°</span></span>
+				<span class="hi_temp">82<span class="current_temp_degree">°</span></span>
+				<span class="lo_temp">64<span class="current_temp_degree">°</span></span>
 			</div> <!-- end #hi_low -->
 			
 		</div> <!-- end #weather -->
@@ -1147,48 +1140,48 @@ We will respond to your request and, if applicable and appropriate, make the req
 	<div id="sidebar_weather_3day" class="bucket_secondary preventFOUC">
 		<div id="sidebar_weather_forecast_3day" class="clear">
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Fri</div><div class="sidebar_weather_day">10:00 PM</div>
-				<img src="http://media.scrippsnewspapers.com/static/asphalt/dev//img/weather/icons/33_100.png" alt="Clear">
-				<div class="sidebar_forecast_conditions">Clear</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">46°</span></div>
+				<div class="sidebar_weather_day">Mon</div><div class="sidebar_weather_day">02:00 AM</div>
+				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/35_100.png" alt="Partly Cloudy">
+				<div class="sidebar_forecast_conditions">Partly Cloudy</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">66°</span></div>
 			</div>
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Sat</div><div class="sidebar_weather_day">10:00 AM</div>
-				<img src="http://media.scrippsnewspapers.com/static/asphalt/dev//img/weather/icons/6_100.png" alt="Mostly Cloudy">
-				<div class="sidebar_forecast_conditions">Mostly Cloudy</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">53°</span></div>
+				<div class="sidebar_weather_day">Mon</div><div class="sidebar_weather_day">02:00 PM</div>
+				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/3_100.png" alt="Partly Sunny">
+				<div class="sidebar_forecast_conditions">Partly Sunny</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">85°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Sat</div><div class="sidebar_weather_day">10:00 PM</div>
-				<img src="http://media.scrippsnewspapers.com/static/asphalt/dev//img/weather/icons/40_100.png" alt="Mostly Cloudy Showers">
-				<div class="sidebar_forecast_conditions">Mostly Cloudy Showers</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">56°</span></div>
+				<div class="sidebar_weather_day">Tue</div><div class="sidebar_weather_day">02:00 AM</div>
+				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/35_100.png" alt="Partly Cloudy">
+				<div class="sidebar_forecast_conditions">Partly Cloudy</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">67°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="clear"></div>
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 46°</p>
-						<p>Humidity: 63%</p>
-						<p>Precip: 0%</p>
-					</div>
-				</div>
-			</div><!-- End sidebar_forecast_detail -->
-			<div class="sidebar_forecast_detail">
-				<div class="sidebar_forecast_details">
-					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 53°</p>
-						<p>Humidity: 74%</p>
+						<p>Feels Like: 66°</p>
+						<p>Humidity: 84%</p>
 						<p>Precip: 6%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
+					<div class="sidebar_forecast_rulepadding">
+						<p>Feels Like: 85°</p>
+						<p>Humidity: 41%</p>
+						<p>Precip: 7%</p>
+					</div>
+				</div>
+			</div><!-- End sidebar_forecast_detail -->
+			<div class="sidebar_forecast_detail">
+				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding last">
-						<p>Feels Like: 56°</p>
-						<p>Humidity: 83%</p>
-						<p>Precip: 53%</p>
+						<p>Feels Like: 67°</p>
+						<p>Humidity: 87%</p>
+						<p>Precip: 8%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
@@ -1202,7 +1195,7 @@ We will respond to your request and, if applicable and appropriate, make the req
 			
 			
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://ushare.independentmail.com/MediaItemView.aspx?id=2017696"><img src="http://c33522.r22.cf0.rackcdn.com/8e4fe6eb-b854-4e34-974b-e79f77874823.jpg"></a> <a href="http://ushare.independentmail.com/MediaItemView.aspx?id=2017696" title="End of summer">End of summer </a>
+	<a href="http://ushare.independentmail.com/Media/View/2017696"><img src="http://c33522.r22.cf0.rackcdn.com/8e4fe6eb-b854-4e34-974b-e79f77874823.jpg"></a> <a href="http://ushare.independentmail.com/Media/View/2017696" title="End of summer">End of summer </a>
 	<div class="date ugc_sidebar">
 		10/19/11<br>
 		6:58 p.m.<br>
@@ -1210,7 +1203,7 @@ We will respond to your request and, if applicable and appropriate, make the req
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://ushare.independentmail.com/MediaItemView.aspx?id=2017695"><img src="http://c33522.r22.cf0.rackcdn.com/62a608b8-5b5a-42ce-8e3e-144580f89117.jpg"></a> <a href="http://ushare.independentmail.com/MediaItemView.aspx?id=2017695" title="End of summer">End of summer </a>
+	<a href="http://ushare.independentmail.com/Media/View/2017695"><img src="http://c33522.r22.cf0.rackcdn.com/62a608b8-5b5a-42ce-8e3e-144580f89117.jpg"></a> <a href="http://ushare.independentmail.com/Media/View/2017695" title="End of summer">End of summer </a>
 	<div class="date ugc_sidebar">
 		10/19/11<br>
 		6:58 p.m.<br>
@@ -1218,7 +1211,7 @@ We will respond to your request and, if applicable and appropriate, make the req
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://ushare.independentmail.com/MediaItemView.aspx?id=2017694"><img src="http://c33522.r22.cf0.rackcdn.com/7e3b463f-293d-426f-b23f-dd822a7b86f1.jpg"></a> <a href="http://ushare.independentmail.com/MediaItemView.aspx?id=2017694" title="End of summer">End of summer </a>
+	<a href="http://ushare.independentmail.com/Media/View/2017694"><img src="http://c33522.r22.cf0.rackcdn.com/7e3b463f-293d-426f-b23f-dd822a7b86f1.jpg"></a> <a href="http://ushare.independentmail.com/Media/View/2017694" title="End of summer">End of summer </a>
 	<div class="date ugc_sidebar">
 		10/19/11<br>
 		6:57 p.m.<br>
@@ -1226,7 +1219,7 @@ We will respond to your request and, if applicable and appropriate, make the req
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://ushare.independentmail.com/MediaItemView.aspx?id=2017693"><img src="http://c33522.r22.cf0.rackcdn.com/8a9f955b-8d4c-4e97-a1f8-ed1736c07d6a.jpg"></a> <a href="http://ushare.independentmail.com/MediaItemView.aspx?id=2017693" title="End of summer">End of summer </a>
+	<a href="http://ushare.independentmail.com/Media/View/2017693"><img src="http://c33522.r22.cf0.rackcdn.com/8a9f955b-8d4c-4e97-a1f8-ed1736c07d6a.jpg"></a> <a href="http://ushare.independentmail.com/Media/View/2017693" title="End of summer">End of summer </a>
 	<div class="date ugc_sidebar">
 		10/19/11<br>
 		6:57 p.m.<br>
@@ -1234,7 +1227,7 @@ We will respond to your request and, if applicable and appropriate, make the req
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://ushare.independentmail.com/MediaItemView.aspx?id=2017692"><img src="http://c33522.r22.cf0.rackcdn.com/2db01e51-1bec-4257-a384-9a4e1eb747c7.jpg"></a> <a href="http://ushare.independentmail.com/MediaItemView.aspx?id=2017692" title="End of summer">End of summer </a>
+	<a href="http://ushare.independentmail.com/Media/View/2017692"><img src="http://c33522.r22.cf0.rackcdn.com/2db01e51-1bec-4257-a384-9a4e1eb747c7.jpg"></a> <a href="http://ushare.independentmail.com/Media/View/2017692" title="End of summer">End of summer </a>
 	<div class="date ugc_sidebar">
 		10/19/11<br>
 		6:57 p.m.<br>
@@ -1242,7 +1235,7 @@ We will respond to your request and, if applicable and appropriate, make the req
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://ushare.independentmail.com/MediaItemView.aspx?id=1390783"><img src="http://c33522.r22.cf0.rackcdn.com/ddcd88f0-214f-4398-a949-e603923163a6.jpg"></a> <a href="http://ushare.independentmail.com/MediaItemView.aspx?id=1390783" title="Storm across Lake Hartwell">Storm across Lake Hartwell </a>
+	<a href="http://ushare.independentmail.com/Media/View/1390783"><img src="http://c33522.r22.cf0.rackcdn.com/ddcd88f0-214f-4398-a949-e603923163a6.jpg"></a> <a href="http://ushare.independentmail.com/Media/View/1390783" title="Storm across Lake Hartwell">Storm across Lake Hartwell </a>
 	<div class="date ugc_sidebar">
 		7/25/11<br>
 		1:25 p.m.<br>
@@ -1285,7 +1278,12 @@ We will respond to your request and, if applicable and appropriate, make the req
 					
 					
 					
-						
+						<div class="bigbox_wrapper clear">
+	<div class="bigbox">
+		<div class="adtag" id="BIGBOX_2"><script>yld_mgr.place_ad_here("BIGBOX_2");</script> </div>
+	</div> <!-- end .bigbox -->
+</div> <!-- end .bigbox_wrapper -->
+
 					
 					
 					
@@ -1355,37 +1353,16 @@ We will respond to your request and, if applicable and appropriate, make the req
 				<li id="carousel_page1">
 					
 					<div class="skybox">
-						<a href="http://www.independentmail.com/brighter_christmas_fund/" title="BCF"><img src="http://web.independentmail.com/skybox/images/BrighterChristmasFund.jpg" width="120" height="107" alt="BCF"></a>
-<h4><a href="http://www.independentmail.com/brighter_christmas_fund/" title="BCF">Brighter Christmas Fund</a></h4>
-<p><a href="http://www.independentmail.com/brighter_christmas_fund/" title="BCF">Helping Upstate families have a better holiday! </a></p>
+						<a href="http://www.independentmail.com/apps/" title="Apps!"><img src="http://web.independentmail.com/skybox/images/APPS.jpg" width="120" height="107" alt="Apps"></a>
+<h4><a href="http://www.independentmail.com/apps/" title="Apps">Mobile Apps</a></h4>
+<p><a href="http://www.independentmail.com/apps/" title="Apps">Get news on your smart phone! Check out our apps for iPhone, Android and more</a></p>
+
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
-						<a href="http://www.independentmail.com/taxnotices/" title="911"><img src="http://web.independentmail.com/skybox/images/taxnotices.jpg" width="120" height="107" alt="911"></a>
-<h4><a href="http://www.independentmail.com/taxnotices/" title="911">Delinquent Tax Sale</a></h4>
-<p><a href="http://www.independentmail.com/taxnotices/" title="911">View all delinquent tax sale items here.</a></p>
-					</div> <!-- end .skybox -->
-					
-					<div class="skybox">
-						<a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time."><img src="http://web.independentmail.com/skybox/images/oaw_skybox.jpg" width="120" height="107"></a>
-<h4><a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time.">Clemson Fans!</a></h4>
-<p><a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time.">Find our Clemson Tigers coverage at our new website: OrangeandWhite.com</a></p>
-					</div> <!-- end .skybox -->
-					
-				</li><!-- End carousel_page1 -->
-			
-				<li id="carousel_page2">
-					
-					<div class="skybox">
-						<a href="http://www.independentmail.com/halloween-stories/" title="Halloween"><img src="http://web.independentmail.com/skybox/images/HALLOWEEN.jpg" width="120" height="107" alt="Halloween"></a>
-<h4><a href="http://www.independentmail.com/halloween-stories/" title="Halloween">Halloween Writing Contest</a></h4>
-<p><a href="http://www.independentmail.com/halloween-stories/" title="Halloween">Find your story! </a></p>
-					</div> <!-- end .skybox -->
-					
-					<div class="skybox">
-						<a href="http://www.independentmail.com/911/" title="911"><img src="http://web.independentmail.com/skybox/images/911.jpg" width="120" height="107" alt="911"></a>
-<h4><a href="http://www.independentmail.com/911/" title="911">9/11: We Remember</a></h4>
-<p><a href="http://www.independentmail.com/911/" title="911">Special section honors those lost 10 years ago. </a></p>
+						<a href="http://www.independentmail.com/bestofbe/" title="Best of Be"><img src="http://web.independentmail.com/skybox/images/BE_BEST_2012.jpg" width="120" height="107" alt="Best of Be"></a>
+<h4><a href="http://www.independentmail.com/bestofbe/" title="Best of Be">Best of Be 2012</a></h4>
+<p><a href="http://www.independentmail.com/bestofbe/" title="Best of Be">Vote for your favorite places to eat, shop and just have fun! </a></p>
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
@@ -1394,14 +1371,36 @@ We will respond to your request and, if applicable and appropriate, make the req
 <p><a href="/gasprices/" title="Lowest Upstate gas prices">Find the cheapest fuel where you live</a></p>
 					</div> <!-- end .skybox -->
 					
+				</li><!-- End carousel_page1 -->
+			
+				<li id="carousel_page2">
+					
+					<div class="skybox">
+						<a href="http://twitter.com/independentmail"><img src="http://web.independentmail.com/skybox/images/TWITTER.jpg" width="120" height="107" alt="Twitter"></a>
+<h4><a href="http://twitter.com/independentmail" title="Salute your Graduate">Follow us on Twitter!</a></h4>
+<p><a href="http://twitter.com/independentmail" title="News on Twitter">Stay up-to-date with your news. Follow us on Twitter, @independentmail.</a></p>
+					</div> <!-- end .skybox -->
+					
+					<div class="skybox">
+						<a href="http://www.independentmail.com/news/blogs/steve-quam/" title="Pedaling for Parkinsons"><img src="http://web.independentmail.com/skybox/images/QUAM.jpg" width="120" height="107" alt="Pedaling for Parkinsons"></a>
+<h4><a href="http://www.independentmail.com/news/blogs/steve-quam/" title="Lowest Upstate gas prices">Pedaling for Parkinson's</a></h4>
+<p><a href="http://www.independentmail.com/news/blogs/steve-quam/" title="Pedaling for Parkinsons">Read Steve Quam's weekly blog here!</a></p>
+					</div> <!-- end .skybox -->
+					
+					<div class="skybox">
+						<a href="http://www.independentmail.com/summercamps/" title="Summer Camps"><img src="http://web.independentmail.com/skybox/images/CAMPS.jpg" width="120" height="107" alt="Summer Camps"></a>
+<h4><a href="http://www.independentmail.com/summercamps/" title="Summer Camps">Looking for some summer fun?</a></h4>
+<p><a href="http://www.independentmail.com/summercamps/" title="Summer Camps">Check out our list of summer camps in the Upstate!</a></p>
+					</div> <!-- end .skybox -->
+					
 				</li><!-- End carousel_page2 -->
 			
 				<li id="carousel_page3">
 					
 					<div class="skybox">
-						<a href="http://twitter.com/independentmail"><img src="http://web.independentmail.com/skybox/images/NewTwitter.jpg" width="120" height="107" alt="Twitter"></a>
-<h4><a href="http://twitter.com/independentmail" title="Salute your Graduate">Better Tweets</a></h4>
-<p><a href="http://twitter.com/independentmail" title="News on Twitter">Follow us  on Twitter, @independentmail. We've simplified our tweets!</a></p>
+						<a href="http://www.independentmail.com/lakehartwell/" title="Lake Hartwell"><img src="http://web.independentmail.com/skybox/images/skybox.jpg" width="120" height="107" alt="Lake Hartwell"></a>
+<h4><a href="http://www.independentmail.com/lakehartwell/" title="Lake Hartwell">Lake Hartwell's 50th</a></h4>
+<p><a href="http://www.independentmail.com/lakehartwell/" title="Lake Hartwell">See stories, a list of events and historic photos here! </a></p>
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
@@ -1411,11 +1410,9 @@ We will respond to your request and, if applicable and appropriate, make the req
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
-						<a href="/restaurants/"><img src="http://web.independentmail.com/skybox/images/Dinning Guide.jpg" width="120" height="107"></a>
-<h4><a href="/restaurants/">Dining Guide</a></h4>
-<p>Find the best Upstate restaurants. Rate them and leave your comments.</p>
-
-
+						<a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time."><img src="http://web.independentmail.com/skybox/images/oaw_skybox.jpg" width="120" height="107"></a>
+<h4><a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time.">Clemson Fans!</a></h4>
+<p><a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time.">Find our Clemson Tigers coverage at our new website: OrangeandWhite.com</a></p>
 					</div> <!-- end .skybox -->
 					
 				</li><!-- End carousel_page3 -->
@@ -1423,34 +1420,18 @@ We will respond to your request and, if applicable and appropriate, make the req
 				<li id="carousel_page4">
 					
 					<div class="skybox">
-						<a href="http://www.independentmail.com/news/news/bin-laden-dead/" title="Death of bin Laden"><img src="http://web.independentmail.com/skybox/images/OSAMA.jpg" width="120" height="107" alt="Death of bin Laden"></a>
-<h4><a href="http://www.independentmail.com/news/news/bin-laden-dead/" title="Death of bin Laden">The Death of Osama bin Laden</a></h4>
-<p><a href="http://www.independentmail.com/news/news/bin-laden-dead/" title="Death of bin Laden">See the full coverage here.</a></p>
-					</div> <!-- end .skybox -->
-					
-					<div class="skybox">
-						<a href="http://www.independentmail.com/tvlistings/" title="TV Guide"><img src="http://web.independentmail.com/skybox/images/TV Guide.jpg" width="120" height="107" alt="TV Guide"></a>
-<h4><a href="http://www.independentmail.com/tvlistings/" title="TV Guide">TV Guide</a></h4>
-<p><a href="http://www.independentmail.com/tvlistings/" title="TV Guide">Check out our your local TV listings here!</a></p>
-					</div> <!-- end .skybox -->
-					
-					<div class="skybox">
-						<a href="http://www.independentmail.com/bands/submit/" title="Calling All Musicians"><img src="http://web.independentmail.com/skybox/images/Band.jpg" width="120" height="107" alt="Calling All Musicians"></a>
-<h4><a href="http://www.independentmail.com/bands/submit/" title="Calling All Musicians">Calling All Musicians</a></h4>
-<p><a href="http://www.independentmail.com/bands/submit/" title="Calling All Musicians">Tell us all about your band through our online form</a></p>
-					</div> <!-- end .skybox -->
-					
-				</li><!-- End carousel_page4 -->
-			
-				<li id="carousel_page5">
-					
-					<div class="skybox">
-						<a href="http://ushare.independentmail.com/" title="Share Your Photos!"><img src="http://web.independentmail.com/skybox/images/SNOWSKYBOX.jpg" width="120" height="107" alt="Snow pics"></a>
+						<a href="http://ushare.independentmail.com/" title="Share Your Photos!"><img src="http://web.independentmail.com/skybox/images/USHARE1.jpg" width="120" height="107" alt="Snow pics"></a>
 <h4><a href="http://ushare.independentmail.com/" title="Snow pics">Share Your Photos!</a></h4>
 <p><a href="http://ushare.independentmail.com/" title="Snow pics">Text or upload your best shots here</a></p>
 					</div> <!-- end .skybox -->
 					
-				</li><!-- End carousel_page5 -->
+					<div class="skybox">
+						<a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Reader Rewards"><img src="http://web.independentmail.com/skybox/images/rewards.jpg" width="120" height="107" alt="Rewards"></a>
+<h4><a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Rewards">Reader Rewards</a></h4>
+<p><a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Apps">Let your subscription give back. Get discounts and perks at local businesses!</a></p>
+					</div> <!-- end .skybox -->
+					
+				</li><!-- End carousel_page4 -->
 			
 	
 		</ul> <!-- end #skybox_carousel -->
@@ -1566,7 +1547,7 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<div id="copyright" class="clear">
 			<img src="http://media.independentmail.com/corp_assets/asphalt/img/sing_logo.gif" alt="Scripps Interactive Newspaper Group"> 
 			Scripps Interactive Newspapers Group<br>
-			2011 The E.W. Scripps Co.<br>
+			2012 The E.W. Scripps Co.<br>
 			<span class="partners"><a href="/local-news/partners/" title="More news from our local partners">More news from our local partners »</a></span>
 			<a href="/privacy/" title="Privacy Policy">Privacy Policy</a> | <a href="/user/" title="User Agreement">User Agreement</a> | <a href="/privacy/#about_our_ads">About Our Ads</a>
 			
@@ -1617,7 +1598,7 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<script>
 		  window.fbAsyncInit = function() {
 		    FB.init({appId: '332135147741', status: true, cookie: true,
-		             xfbml: true});
+		             xfbml: true, oauth: true});
 		  };
 		  (function() {
 		    var e = document.createElement('script'); e.async = true;
@@ -1647,13 +1628,12 @@ We will respond to your request and, if applicable and appropriate, make the req
 		
 		
 		
-		
 		var _sf_async_config={};
 	    /** CONFIGURATION START **/
-	    _sf_async_config.uid = 30936;
+	    _sf_async_config.uid = 15115;
 	    _sf_async_config.domain = 'independentmail.com';
-	    _sf_async_config.sections = '';
-	    _sf_async_config.authors = '';
+	    _sf_async_config.sections = '';  //CHANGE THIS
+	    _sf_async_config.authors = '';    //CHANGE THIS
 	    /** CONFIGURATION END **/
 	    (function(){
 	      function loadChartbeat() {
@@ -1670,6 +1650,7 @@ We will respond to your request and, if applicable and appropriate, make the req
 	      window.onload = (typeof window.onload != 'function') ?
 	         loadChartbeat : function() { oldonload(); loadChartbeat(); };
 	    })();
+	
 	</script>
 	
 	
