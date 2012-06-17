@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the answerbag.com privacy policy that was archived on 2011-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229045044id_/http%3A//www.answerbag.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the answerbag.com privacy policy that was archived on 2012-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618014534id_/http%3A//www.answerbag.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
         <title>  Answerbag</title>
@@ -49,34 +49,34 @@
         			 
 
              
-		        <link href="http://i.abimg.net/css?k=1325062150a" type="text/css" rel="stylesheet">
+		        <link href="http://i.abimg.net/css?k=1339896274a" type="text/css" rel="stylesheet">
 		        
-                    <link href="http://i.abimg.net/ui/stylesheets/pages/footer-pages.css?j=1325062150a" type="text/css" rel="stylesheet">
+                    <link href="http://i.abimg.net/ui/stylesheets/pages/footer-pages.css?j=1339896274a" type="text/css" rel="stylesheet">
                 
                 
 		<!-- IE Specific Stylesheets : start -->
 		<!--[if IE 9]>
-			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie9.css?j=1325062150a" type="text/css" media="screen" />
+			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie9.css?j=1339896274a" type="text/css" media="screen" />
 		<![endif]-->
 		<!--[if IE 8]>
-			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie8.css?j=1325062150a" type="text/css" media="screen" />
+			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie8.css?j=1339896274a" type="text/css" media="screen" />
 		<![endif]-->
 		<!--[if lte IE 7]>
-			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie7.css?j=1325062150a" type="text/css" media="screen" />
+			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie7.css?j=1339896274a" type="text/css" media="screen" />
 		<![endif]-->
 		<!--[if lte IE 6]>
-			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie6.css?j=1325062150a" type="text/css" media="screen" />
+			<link rel="stylesheet" href="http://i.abimg.net/ui/stylesheets/ie6.css?j=1339896274a" type="text/css" media="screen" />
 		<![endif]-->
 		<!-- IE Specific Stylesheets : end -->
         
-				<script src="http://ui.abimg.net/js/min/prototaculous.min.js?k=1325062150a" type="text/javascript"></script>
+				<script src="http://ui.abimg.net/js/min/prototaculous.min.js?k=1339896274a" type="text/javascript"></script>
 				<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 		<script src="http://ui.abimg.net/ui/scripts/jquery.tools.min.js" type="text/javascript"></script>
 		<script src="http://ui.abimg.net/ui/scripts/template.js" type="text/javascript"></script>
 
         
 		<script src="//cdn.optimizely.com/js/1617017.js"></script>
-				<script src="http://ui.abimg.net/js/min/answerbag.min.js?k=1325062150a" type="text/javascript"></script>
+				<script src="http://ui.abimg.net/js/min/answerbag.min.js?k=1339896274a" type="text/javascript"></script>
 		
 		
 		<script type="text/javascript">
@@ -103,33 +103,33 @@
 
 				window.fb_login_now = function(show_confirmation) {
 					FB.login(function(response) {
-						if (response.session && response.perms) {
-							$.ajax({
-								url: '/ajax/facebook_auth',
-								type: 'POST',
-								dataType: 'json',
-								data: { perms: response.perms },
-								success: function(json) {
-									if (typeof json == 'string') { // error string
-										AB.dialog('error?error='+escape(json));
-										return;
-									}
+						if (response.authResponse) {
+                            $.ajax({
+                                url: '/ajax/facebook_auth',
+                                type: 'POST',
+                                dataType: 'json',
+                                data: { perms: 'email' },
+                                success: function(json) {
+                                    if (typeof json == 'string') { // error string
+                                        AB.dialog('error?error='+escape(json));
+                                        return;
+                                    }
 
-									AB.user_id = json.user_id;
+                                    AB.user_id = json.user_id;
 
-									if (json.new_account) {
-										AB.dialog('login/registered/facebook');
-									} else if (show_confirmation) {
-										AB.dialog('login/logged-in');
-									} else {
-										AB.onLogin();
-									}
-								}
-							});
+                                    if (json.new_account) {
+                                        AB.dialog('login/registered/facebook');
+                                    } else if (show_confirmation) {
+                                        AB.dialog('login/logged-in');
+                                    } else {
+                                        AB.onLogin();
+                                    }
+                                }
+                            });
 						} else if(show_confirmation) {
 							AB.dialog('login?error='+escape('You must authorize Answerbag to login with Facebook.'));
 						}
-					}, { perms:'email' });
+					}, { scope:'email' });
 					return false;
 				};
 
@@ -220,11 +220,12 @@
 		</script><script src="https://a248.e.akamai.net/demdex.download.akamai.com/dm/28/demdex.js" type="text/javascript"></script>
 		<!-- End Demdex Tag Insertion Manager -->
 		
-    </head>
-    
-    <body id="Template2a">
-		<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+
 		<script>
+jQuery(document).ready(function() {
+//jQuery('body').append('<div id="fb-root"></div>');
+//			jQuery.getScript(document.location.protocol + '//connect.facebook.net/en_US/all.js');
+
 			window.fbAsyncInit = function() {
 				(function($) {
 					// code using $ for jquery
@@ -251,7 +252,7 @@
 				});
 								FB.Event.subscribe('edge.create', function (href, widget) {
 					new Ajax.Request('/ajax/ajax_request?type=fblike&url=' + href);
-				});  				
+				});
 								// trigger our own like when a facebook like is activated
 				/* [AL] Disabling Universal Like since conflicts with regular likes
 				(function($) {
@@ -280,9 +281,21 @@
 				e.async = true;
 				document.getElementById('fb-root').appendChild(e);
 			}());
+
+
+
+		});
+
 		</script>
+    </head>
+
+    <body id="Template2a">
+    <div id="fb-root"></div>
+
+
     
-        
+
+
 
         <!-- Header : start -->
 
@@ -332,7 +345,7 @@
                         <li id="categories_tab"><a href="/categories/" onclick="toggle_categories(); return false;">Categories</a></li>
                        	<li id="questions_tab"><a href="/questions/">Questions</a></li>
                         <li id="forums_tab"><a data-lk="/forums/" class="">Forums</a></li>
-															<li id="blog_tab" class="hoverIndicator"><a data-lk="/blog/" class="">Blog</a><div class="blogIndicator"><div class="content"><dl><dt>NEW!</dt><dd></dd></dl></div><div class="bottom"></div></div></li>
+															<li id="blog_tab" class="hoverIndicator"><a data-lk="/blog/" class=""> <span>Blog </span><span class="blogCount" id="blogCountNum">(1)</span><span class="hidden">Sock Puppet Theater and PB Without J</span></a><div class="blogIndicator"><div class="content"><dl><dt>NEW!</dt><dd></dd></dl></div><div class="bottom"></div></div></li>
 							                    </ul></div>
                     <div class="navContainer">
                         <div class="CategoryNav FLC" id="category_dropdown" style="background-color:white; z-index:100000; height: 180px; padding: 0 20px 0 20px; display:none;">
@@ -546,7 +559,7 @@ We collect any information you enter on the Site or give us in any other way (su
             </li>
             <li>
                 <h2 class="Title5d">CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY.</h2>
-                <p>For customer service matters (including questions relating to this Policy), you may email us at <a href="mailto:admin@answerbag.com">admin@answerbag.com</a>. To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 15801 NE 24th St. Bellevue, WA 98008. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to the email address that we have on record for you.</p>
+                <p>For customer service matters (including questions relating to this Policy), you may email us at <a href="mailto:admin@answerbag.com">admin@answerbag.com</a>. To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 5808 Lake Washington Blvd., Suite 300, Kirkland, WA 98033. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to the email address that we have on record for you.</p>
             </li>
         </ol>
 
@@ -597,7 +610,7 @@ We collect any information you enter on the Site or give us in any other way (su
                     <li class="latestTweets">
                         <dl>
                             <dt class="Heading2a SectionTitle">Latest Tweet</dt>
-                            <dd class="tweet">Poll: Should illegal immigrants be granted American citizenship? <a href="http://t.co/3RXX6BWm" rel="nofollow">http://t.co/3RXX6BWm</a></dd>
+                            <dd class="tweet">Should the U.S. #legalize #marijuana once and for all? <a href="http://t.co/WiqKJTB0" rel="nofollow">http://t.co/WiqKJTB0</a> <a href="http://t.co/qE05e98U" rel="nofollow">http://t.co/qE05e98U</a></dd>
                             <dd>
                                 <div class="TwitterFollowUsV2">
                                     <p class="Title5a"><a href="http://twitter.com/AnswerBag">Follow Answerbag on Twitter!</a></p>
@@ -617,9 +630,9 @@ We collect any information you enter on the Site or give us in any other way (su
             <div class="Frame">
                 <div class="copyright Note FLC">
                     <p>		<script type="text/javascript">
-			var html_compressed = '<span>Copyright &copy; 2003-2011</span>';
+			var html_compressed = '<span>Copyright &copy; 2003-2012</span>';
 			document.write(html_compressed);
-		</script><span>Copyright © 2003-2011</span> Answerbag</p>
+		</script><span>Copyright © 2003-2012</span> Answerbag</p>
                     <ul>
                         <li><a href="/category/adult_569/">AB4Adults</a></li>
                         <li><a href="http://www.answerbag.co.uk/">Answerbag UK</a></li>
@@ -636,10 +649,9 @@ We collect any information you enter on the Site or give us in any other way (su
             	
             
     
-    
 
     <script type="text/javascript">request_google_ads();</script>
-				
+
     <!-- OPTIMOST GLOBAL MODULE AND COUNTER CODE -->
     <script type="text/javascript">
 		jQuery.noConflict()(function ($){
@@ -661,6 +673,18 @@ We collect any information you enter on the Site or give us in any other way (su
     }
     </script>
     <!-- END OPTIMOST GLOBAL MODULE AND COUNTER CODE -->
+
+    <script src="http://d2bgg7rjywcwsy.cloudfront.net/js/mdetect.js"></script>
+    <script src="http://d2bgg7rjywcwsy.cloudfront.net/js/nonmobile.js"></script>
+    <div id="tapitBanner" style="width:320px; height:50px; left:0; position:absolute; display:none;">
+    	<style>
+    		#tapitBanner img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+    	</style>
+    	<script type="text/javascript" src="http://d2bgg7rjywcwsy.cloudfront.net/js/tapit.js"></script>
+    	<script type="text/javascript">
+    		if( DetectSmartphone() || DetectTierTablet() ) { adrequest( {"zone": 4784, "location": false, "mode": "live" } ); }
+    	</script>
+    </div>
 
     <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
     <script type="text/javascript">
