@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ruger.com privacy policy that was archived on 2011-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111130054706id_/http%3A//www.ruger.com/footer/privacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ruger.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617083709id_/http%3A//www.ruger.com/footer/Privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,86 +9,12 @@
 </head>
 <body>
 <table border="0" cellspacing="0" cellpadding="0" class="root" align="center">
-   <script type="text/javascript">
-	function toggleGrowingAd(theDivID, theMinSize, theMaxSize, speed) {
-		var theGrowableDiv = document.getElementById(theDivID);
-		if (theGrowableDiv) {
-			var theCurrentHeight = theGrowableDiv.style.height;
-			var cHeightNumeric   = parseInt(theCurrentHeight.replace(/[^0-9]/g, ''));
-
-
-			var targetSize      = theMaxSize;
-			var changeDirection = 1; // default is to grow the div
-			if (cHeightNumeric > theMinSize) {
-				// div is already expanded, shrink it instead
-				changeDirection = 0;
-				targetSize      = theMinSize;
-			}
-			
-			var userAgent = navigator.userAgent;
-			var isiDevice = false;
-			
-			if ((userAgent.match(/iPad/i) != null) || (userAgent.match(/iPhone/i) != null) || (userAgent.match(/iPod/i) != null)) {
-				isiDevice = true;
-			}
-
-			if (isiDevice) {
-				theGrowableDiv.style.height = targetSize;
-			} else {
-				var f = function() {
-					changeDivSize(theDivID, targetSize, speed, changeDirection);
-				};
-				setTimeout(f, 0);
-			}
-		}
-	}
-
-	function changeDivSize(theDivID, theTargetSize, speed, stepDirection) {
-		var theDiv           = document.getElementById(theDivID);
-		var theCurrentHeight = theDiv.style.height;
-		var cHeightNumeric   = parseInt(theCurrentHeight.replace(/[^0-9]/g, ''));
-		var cHeightAdjusted  = cHeightNumeric;
-
-		if (stepDirection) {
-			// increase the size
-			cHeightAdjusted = (cHeightNumeric+speed);
-			cHeightAdjusted = Math.min(theTargetSize, cHeightAdjusted);
-		} else {
-			// decrease the size
-			cHeightAdjusted = (cHeightNumeric-speed);
-			cHeightAdjusted = Math.max(theTargetSize, cHeightAdjusted);
-		}
-		theDiv.style.height = cHeightAdjusted;
-
-		if(cHeightAdjusted != theTargetSize) {
-			var f = function() {
-				changeDivSize(theDivID, theTargetSize, speed, stepDirection);
-			};
-			setTimeout(f, 1);
-		}
-	}
-</script>
-<tbody><tr>
-	<td colspan="2">
-		<div align="center" id="growableAd" style="overflow: hidden; padding: 0px; margin: 0px; width: 995px; height: 40px;">
-			<img src="/images/expandableHeaders/million.jpg" width="995" height="243" border="0" usemap="#growableAdMap">
-			<map name="growableAdMap">
-				<area href="javascript: toggleGrowingAd('growableAd', 40, 243, 8);" shape="rect" coords="0,0,995,40">
-				<area href="/micros/million/index.html" target="_blank" shape="rect" coords="0,40,995,243">
-			</map>
-		</div>
-	</td>
-</tr>
-
-<tr>
+   <tbody><tr>
 	<td colspan="2" class="header">
 		<p><a href="http://www.shopruger.com" target="_blank" title="Visit the Ruger Sportswear &amp; Accessories Store">Shopruger.com</a><em>•</em><a href="/corporate/index.html" title="Visit the Ruger Corporate Site">Corporate</a><em>•</em><a href="/casting/index.html" title="Visit the Pine Tree Castings Site">Castings</a><em>•</em><a href="/LE/index.html" title="Visit the Ruger LE Site">LE/Military</a></p>
-		<div class="headerLogo"><a href="/index.html"><img src="/images/logoHeader.gif" alt="Ruger Logo" width="198" height="38" border="0" title="Back to Ruger.com Home Page"></a></div>
+		<div class="headerLogo"><a href="/index.html"><img src="/images/logoHeader.gif" alt="Ruger Logo" border="0" title="Back to Ruger.com Home Page"></a></div>
 	</td>
 </tr>
-
-
-
   <tr>
     <td class="section"><img src="../images/backgrounds/quickMenuHeader.jpg" width="168" height="29"></td>
     <td class="dropdownNav" id="dropdownNav">
@@ -139,13 +65,14 @@
       </li>
       <li><a href="javascript: touchMenu('m4');" onmouseover="mopen('m4')" onmouseout="mclosetime()" style="width: 155px;">LINKS OF INTEREST</a>
         <div style="visibility: hidden; width:155px;" id="m4" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <a href="/micros/million/index.html" target="_blank">1 Million Gun Challenge</a>
         <a href="/micros/pepperSpray/index.html" target="_blank">Pepper Spray Products</a>
         <a href="/micros/rugerRimfire/index.html" target="_blank">Ruger Rimfire</a>
-        <a href="http://www.rugerphoto.com/" target="_blank">Ruger Photo</a>
+        <!--<a href="http://www.rugerphoto.com/" target="_blank">Ruger Photo</a>-->
         <a href="/links/auction.html">Ruger Auction</a>
         <a href="/micros/DBV/index.html" target="_blank">Don't Be A Victim</a>
         <a href="/links/adventures.html">Ruger's Adventures</a>
-        <a href="/links/eliteSportsExpress.html">Elite Sports Express</a>
+        <!--<a href="/links/eliteSportsExpress.html">Elite Sports Express</a>-->
         <a href="/links/rugerEvents.html">Ruger Events</a>
         <a href="/links/industryLinks.html">Industry Links</a>
         <a href="/links/govLinks.html">Government Links</a>
@@ -186,6 +113,8 @@
     <div id="g1" style="background-image: url(/images/backgrounds/quickMenuDark.jpg);">
       <p><a href="#" name="category" class="category" onclick="showGroup('1'); return false;">Bolt-Action Rifles</a></p>
       <span>
+      <!-- American -->
+        <p class="label"><a href="/products/americanRifle/models.html">Ruger American Rifle™</a></p>
        <!-- Gunsite Scout -->
         <p class="label"><a href="/products/gunsiteScoutRifle/models.html">Gunsite Scout Rifle</a></p>
         <!-- M77 Hawkeye -->
@@ -201,7 +130,7 @@
         <p><a href="/products/m77HawkeyeSporter/models.html">Sporter</a></p>
         <p><a href="/products/m77HawkeyeTactical/models.html">Tactical</a></p>
         <p><a href="/products/m77HawkeyePredator/models.html">Predator</a></p>
-        <p><a href="/products/m77HawkeyeDE/models.html">Distributor Exclusives</a></p>
+        
         <!-- M77 Mark II -->
         <p class="label"><a href="/products/m77MarkIITarget/models.html">M77® Mark II Target</a></p>
         <!--<p><a href="/products/m77MarkIITarget/models.html">Target</a></p>
@@ -238,11 +167,13 @@
       <span>
         <p class="label"><a href="/products/sr556/index.html">SR-556®</a></p>
         <p><a href="/products/sr556Standard/models.html">Standard</a></p>
+        <p><a href="/products/sr556Carbine/models.html">Carbine</a></p>
         <p><a href="/products/sr556E/models.html">E-Model</a></p>
         <p><a href="/products/sr556Uppers/models.html">Uppers</a></p>
-        <p class="prodLg"><a href="/products/sr22/models.html">SR-22®</a></p>
+        <p class="prodLg"><a href="/products/sr22Rifle/models.html">SR-22® Rifle</a></p>
         <!-- 10/22 -->
         <p class="label"><a href="/products/1022/index.html">10/22®</a></p>
+        <p><a href="/products/1022Takedown/models.html">Takedown</a></p>
         <p><a href="/products/1022Carbine/models.html">Carbine</a></p>
         <p><a href="/products/1022Target/models.html">Target</a></p>
         <p><a href="/products/1022Compact/models.html">Compact</a></p>
@@ -254,20 +185,8 @@
         <p><a href="/products/mini14RanchRifle/models.html">Ranch Rifle</a></p>
         <p><a href="/products/mini14TargetRifle/models.html">Target Rifle</a></p>
         <p><a href="/products/mini14TacticalRifle/models.html">Tactical Rifle</a></p>
-        <p><a href="/products/miniThirty/models.html">Mini Thirty Rifle</a></p>
+        <p><a href="/products/miniThirty/models.html">Mini Thirty® Rifle</a></p>
         <!--<p><a href="/products/mini14DE/models.html">Distributor Exclusives</a></p>-->
-      </span>
-    </div>
-    
-  	<!-- Shotguns -->
-    <div id="g4" style="background-image: url(/images/backgrounds/quickMenuDark.jpg);">
-      <p><a href="#" name="category" class="category" onclick="showGroup('4'); return false;">Shotguns</a></p>
-      <span>
-        <!-- Red Label -->
-        <p class="label"><a href="/products/redLabel/index.html">Red Label</a></p>
-        <p><a href="/products/redLabel12Gauge/models.html">12 Gauge</a></p>
-        <p><a href="/products/redLabel20Gauge/models.html">20 Gauge</a></p>
-        <p><a href="/products/redLabel28Gauge/models.html">28 Gauge</a></p>
       </span>
     </div>
     
@@ -278,7 +197,7 @@
         <p class="label"><a href="/products/lcp/models.html">LCP®</a></p>
         <p><a href="/products/lcp/models.html">Standard</a></p>
         <p><a href="/products/lcpDE/models.html">Distributor Exclusives</a></p>
-        <!-- LCc -->
+        <!-- LC9 -->
         <p class="label"><a href="/products/lc9/models.html">LC9™</a></p>
         <!-- SR9c -->
         <p class="label"><a href="/products/sr9c/models.html">SR9c™</a></p>
@@ -302,7 +221,12 @@
     <div id="g6" style="background-image: url(/images/backgrounds/quickMenuDark.jpg);">
       <p><a href="#" name="category" class="category" onclick="showGroup('6'); return false;">Rimfire Pistols</a></p>
       <span>
-        <!-- 22 Charger -->
+        <!-- SR22Pistol -->
+        <p class="label"><a href="/products/sr22Pistol/models.html">SR22™</a></p>
+        <p><a href="/products/sr22Pistol/models.html">Standard</a></p>
+        <p><a href="/products/sr22PistolDE/models.html">Distributor Exclusives</a></p>
+				
+				<!-- 22 Charger -->
         <p class="label"><a href="/products/22Charger/models.html">22 Charger™</a></p>
         
         <!-- Mark III -->
@@ -314,10 +238,9 @@
         <p><a href="/products/markIIIDE/models.html">Distributor Exclusives</a></p>
         <!-- 22/45 -->
         <p class="label"><a href="/products/2245/index.html">22/45™</a></p>
+        <p><a href="/products/2245Lite/models.html">Lite</a></p>
         <p><a href="/products/2245ThreadedBarrel/models.html">Threaded Barrel</a></p>
         <p><a href="/products/2245Target/models.html">Target</a></p>
-        <p><a href="/products/2245Hunter/models.html">Hunter</a></p>
-        <p><a href="/products/2245SlabSided/models.html">Slab-Sided Barrel</a></p>
         <p><a href="/products/2245DE/models.html">Distributor Exclusives</a></p>
       </span>
     </div>
@@ -355,7 +278,7 @@
         <p class="label"><a href="/products/newBearcat/models.html">New Bearcat®</a></p>
         <!-- New Model Single-Six -->
         <p class="label"><a href="/products/newModelSingleSix/index.html">New Model Single-Six®</a></p>
-        <p><a href="/products/newModelSingleSixSingleTen/models.html">Single-Ten™</a></p>
+        <p><a href="/products/newModelSingleSixSingleTen/models.html">Single-Ten®</a></p>
         <p><a href="/products/newModelSingleSixConvertible/models.html">Convertible</a></p>
         <p><a href="/products/newModelSingleSixHunter/models.html">Hunter</a></p>
         <p><a href="/products/newModelSingleSix17HMR/models.html">.17 HMR</a></p>
@@ -403,13 +326,13 @@
       <p><a href="/dataProcess/catalogRequest.php" name="category" class="category">Ruger Catalogs</a></p>
       <span></span>
     </div>
-   
-  </td>
+  <a href="http://www.nssf.org/gunvote/" target="_blank"><img src="/images/buttons/gunVote-QM.png" width="118" height="118" style="border:none; margin: 12px 0px 0px 15px;"></a><br>
+<a href="http://www.triggerthevote.org/landing2/" target="_blank"><img src="/images/buttons/triggerTheVote.png" style="border:none; margin: 12px 0px 0px 15px;"></a></td>
 
     <td class="content"><img src="../images/headers/F-PrivacyPolicy.jpg" width="825" height="111">
       <p>Effective September 1, 2010</p>
 <p><strong>This Web Site Privacy Policy</strong> ("Privacy Policy") is provided by Sturm, Ruger &amp; Co., Inc. ("Sturm, Ruger," "we," "our," or "us").&nbsp; This Privacy Policy describes Sturm, Ruger's practices regarding Personal Information (as defined below) collected via the Sturm, Ruger web sites that include a link to this Privacy Policy (the "Web Sites").&nbsp; Unless specifically stated otherwise, this Privacy Policy <strong>applies solely</strong> to Personal Information that we gather or collect via such Web Sites.&nbsp; It does not apply to any information collected offline or otherwise outside of the Web Sites.</p>
-<p> Please take a moment to review the terms of this Privacy Policy.&nbsp; Please also review our                                                                                       <a href="/footer/legalStatement.html">Terms of Use</a>, which govern your use of our Web Sites. Please note that certain features or services discussed in this Privacy Policy may not be offered or available on all of our Web Sites.</p>
+<p> Please take a moment to review the terms of this Privacy Policy.&nbsp; Please also review our                                                                                       <a href="Terms.html">Terms of Use</a>, which govern your use of our Web Sites. Please note that certain features or services discussed in this Privacy Policy may not be offered or available on all of our Web Sites.</p>
 <p> <strong>What Personal Information Does Sturm, Ruger Collect About Me?</strong><br>
   When you visit a Web Site, we may collect two types of information from you: (1) Personal Information you voluntarily choose to disclose to us, and (2) Web Site Usage Information that we automatically collect as you interact with the Web Site.</p>
 <p><u><strong>Information You Voluntarily Provide to Us</strong></u><br>
@@ -464,9 +387,9 @@ We appreciate the trust that you, our customers, have placed in us and look forw
   
   
 		<p>
-			<a href="/footer/contact.html">Contact</a>|<a href="/footer/emailListSignUp.html">Newsletter &amp; Email List Sign-Up</a>|<a href="/footer/employment.html">Employment</a>|<a href="/footer/privacyPolicy.html">Privacy Policy</a>|<a href="/footer/legalStatement.html">Terms of Use</a>|<a href="/footer/socialMediaRules.html">Social Media Rules</a>
+			<a href="/footer/contact.html">Contact</a>|<a href="/footer/emailListSignUp.html">Newsletter &amp; Email List Sign-Up</a>|<a href="/footer/employment.html">Employment</a>|<a href="/footer/Privacy.html">Privacy Policy</a>|<a href="/footer/Terms.html">Terms of Use</a>|<a href="/footer/socialMediaRules.html">Social Media Rules</a>
 			<br>
-			Copyright © 2011 by Sturm, Ruger &amp; Co., Inc.
+			Copyright © 2012 by Sturm, Ruger &amp; Co., Inc.
 		</p>
 
 
