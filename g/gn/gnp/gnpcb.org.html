@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gnpcb.org privacy policy that was archived on 2011-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111109095931id_/http%3A//www.crossway.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gnpcb.org privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617173026id_/http%3A//www.crossway.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   
@@ -7,7 +7,7 @@
     
     
     <title>Privacy Policy  | Crossway</title>
-    <link rel="stylesheet" href="/css/crossway.css" type="text/css">
+    <link rel="stylesheet" href="/css/crossway.css?nc=051512" type="text/css">
     <link rel="shortcut icon" href="/images/favicon.ico">
     <!--[if lte IE 8]>
         <link rel="stylesheet" href="/css/ielte8.css" type="text/css" />
@@ -18,70 +18,9 @@
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
     <script type="text/javascript" src="/js/jquery.clearInput.js"></script>
     <script type="text/javascript" src="/js/jquery.corner.js"></script>
-    <link rel="stylesheet" href="/js/prettyPhoto/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8">
-    <script src="/js/prettyPhoto/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
-    <script type="text/javascript">
-      $(document).ready(function() {
-        $('.pagination a, .pagination span').corner("3px");
-        $(".searchbx").clearDefault();        
-        $('.browse-hd a:not(.open)').addClass('collapsed').parent().next().hide(); 
-        $('.browse-hd a').click(function(){
-          $(this).toggleClass('collapsed');
-          $(this).parent().next().slideToggle("fast");
-          return false;
-        });
-        $('#subjects>li>a').addClass('collapsed').next().hide(); 
-        $('#subjects>li>a').click(function(){
-          $(this).toggleClass('collapsed');
-          $(this).next().slideToggle("fast");
-          return false;          
-        });
-        $('a[rel="popup"]').click(function(){
-          window.open($(this).attr('href'),'pop','width=600,height=500,scrollbars=1'); return false;
-        });
-        // Cookie for the alert div
-        alert = true;
-        if (alert) {
-        now = new Date(); 
-        starts = new Date("Oct 21 2011 13:00:00 -05:00"); expires = new Date("Oct 31 2011 13:00:00 -05:00");
-        if (starts < now && now < expires){
-            nextday = new Date("Oct 26 2011 13:00:00 -05:00"); twoday = new Date("Oct 25 2011 13:00:00 -05:00"); threeday = new Date("Oct 24 2011 13:00:00 -05:00");
-            shipby = "Next";
-            if(now < nextday){
-              if(now < threeday){
-                shipby = "3rd";
-              } else if(now < twoday){
-                shipby = "2nd";
-              }
-            }
-            $('#alert-message').html('<strong>Please note:</strong> In order to guarantee that you will receive your order by Halloween, you must choose UPS ' + shipby + ' Day Air as your shipping option.').show();
-        }
-//        if (now < expires){
-//          if(document.cookie.indexOf('alerts1031=off') == -1) {
-//            document.cookie = "alerts1031=on; expires='Mon, 31 Oct 2011 13:00:00 CST'; path=/;";
-//          }
-//          if(document.cookie.indexOf('alerts1031=on') != -1) {            
-//            $message = $('#alert-message').append('<a href="">[x] close</a>');
-//            $message.show().find('a').live('click', function(){
-//              document.cookie = "alerts1031=off; expires='Mon, 31 Oct 2011 13:00:00 CST'; path=/;";
-//              $(this).parent('div').slideUp('fast');
-//              return false;
-//            });
-//          }
-//        }
-        } // end of alert
-
-        $('.tip-link').click(function() {
-          $(this).next('.tip').toggle('fast');
-          return false;
-        });
-        $('.close-tip').click(function() {
-          $(this).parent().hide('fast');
-          return false;
-        });
-        $(".video-link, .modal").prettyPhoto();
-      });
-    </script>
+    <link rel="stylesheet" href="/js/prettyPhoto-3.1.4/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8">
+    <script src="/js/prettyPhoto-3.1.4/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/js/crossway.js?nc=053012" type="text/javascript"></script>
     
       <script type="text/javascript">
         $(document).ready(function() {
@@ -91,8 +30,9 @@
       </script>
     
     <script type="text/javascript">
+      var ga_id = 'UA-81419-1';
       var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-81419-1']);
+      _gaq.push(['_setAccount', ga_id]);
       _gaq.push(['_trackPageview']);
       
       (function() {
@@ -112,10 +52,10 @@
             <li class="first"><a href="/customer/account/">Sign In</a></li>
             
         
-          <li><a href="/forms/comment/">Contact</a></li>
+          <li><a href="/group/contact/">Contact</a></li>
           <li><a href="/faq/">FAQ</a></li>
-          <li><a href="/donate/">Donate</a></li>                
         
+                       
         </ul>
       </div><!-- End #head-row -->
 
@@ -124,6 +64,7 @@
         <ul id="main-nav">
           <li id="navbooks"><a href="/books/">Books</a></li>
           <li id="navbibles"><a href="/bibles/">Bibles</a></li>
+          <li id="navtracts"><a href="/tracts/">Tracts</a></li>
           <li id="navauthors"><a href="/authors/">Authors</a></li>
           <li id="navblog"><a href="/blog/">Blog</a></li>
           <li id="navabout"><a href="/about/">About</a></li>
@@ -149,12 +90,11 @@
       
       <div id="shop-nav-row">
         <span id="breadcrumbs"><a id="home" href="/">Home</a>  &gt; Privacy Policy</span>
-                <ul id="shop-nav">
-          <li class="first"><a href="http://www.goodnewstracts.org">Tracts</a></li>
-          <li><a href="/trade-customers/">Resellers</a></li>
-          <li><a href="/customer/account/">Account</a></li>
-          <li id="cart"><a href="/checkout/cart/">Cart</a></li>
-        </ul>
+        <ul id="shop-nav">
+  <li class="first"><a href="/trade-customers/">Resellers</a></li>
+  <li><a href="/customer/account/">Account</a></li>
+  <li id="cart"><a href="/checkout/cart/">Cart</a></li>
+</ul>
 
       </div>
       
@@ -165,6 +105,7 @@
     <div id="interior-left">
 
       <div id="content">
+        
         
         <h1>Privacy Policy</h1>
 <p>The following policy applies to usage of our website and orders placed thereon. For information about our “offline” privacy policy, please contact Customer Service.</p>
@@ -198,7 +139,7 @@
               <li><a href="/about/good-news-tracts/">Good News Tracts</a></li>
               <li><a href="/about/statement-faith/">Statement of Faith</a></li>
             </ul>
-          <h3><a href="/forms/comment/">Contact</a></h3>
+          <h3><a href="/group/contact/">Contact</a></h3>
             <ul>
               <li><a href="/contact/socialmedia-phones-email-mail/">Social Media, Phones, E-mail, Mail</a></li>
               <li><a href="/catalogs/">Product Catalogs</a></li>
@@ -228,7 +169,7 @@
 
       <div id="footer">
         <ul id="foot-nav">
-          <li>Copyright © 2001 – 2011 Crossway. All rights reserved.</li>
+          <li>Copyright © 2001 – 2012 Crossway. All rights reserved.</li>
           <li><a href="/privacy/">Privacy Policy</a></li>
           <li><a href="/forms/catalog/">Request a Catalog</a></li>
           <li><a href="/contact/jobs/">Job Opportunities</a></li>
@@ -237,11 +178,7 @@
       </div>
     </div><!-- End #container -->
     <script type="text/javascript">
-      var pageTracker = [];
-      if (_gaq._getAsyncTracker) {
-        pageTracker = _gaq._getAsyncTracker('');
-      } 
-      var addthis_config = { data_ga_tracker: pageTracker };
+      var addthis_config = { data_ga_tracker: ga_id };
     </script>
     <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js"></script>
   
