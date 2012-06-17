@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dome9.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219063047id_/http%3A//www.dome9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dome9.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618004810id_/http%3A//www.dome9.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dome9 - Secure Your Cloud
+# Privacy Policy
 
 **Dome9 Privacy Statement**
 
