@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowmails.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523050341id_/http%3A//wowmails.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowmails.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617194407id_/http%3A//wowmails.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
