@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trump.com privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226234432id_/http%3A//www.trump.com/Privacy_Policy/Privacy_Policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trump.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617191320id_/http%3A//www.trump.com/Privacy_Policy/Privacy_Policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -917,21 +917,22 @@ swfobject.embedSWF("/_flash/interactiveMap.swf", "mapDivTrumpMap", "893", "492",
 		<td><a href="/Merchandise/merchandise.asp"><img src="/_javascript/deluxe-menu.files/nav/Sub_merchandise_b.gif" onmouseover="MM_swapImage('Sub_merchandise_b','','/_javascript/deluxe-menu.files/nav/Sub_merchandise_b_R.gif.gif',1)" onmouseout="MM_swapImgRestore()" name="Sub_merchandise_b" border="0" alt="" /></a></td>
 		
 	</tr>
-	<tr>
-		
-		<td><a href="/Trump_University/Education.asp"><img src="/_javascript/deluxe-menu.files/nav/Sub_university_b.gif" onmouseover="MM_swapImage('Sub_university_b','','/_javascript/deluxe-menu.files/nav/Sub_university_b_R.gif.gif',1)" onmouseout="MM_swapImgRestore()" name="Sub_university_b" border="0" alt="" /></a></td>
-		
-	</tr>
+ 
 	<tr>
 		
 		<td><a href="/News_Announcements/News_Announcements.asp"><img src="/_javascript/deluxe-menu.files/nav/Sub_news_b.gif" onmouseover="MM_swapImage('Sub_news_b','','/_javascript/deluxe-menu.files/nav/Sub_news_b_R.gif.gif',1)" onmouseout="MM_swapImgRestore()" name="Sub_news_b" border="0" alt="" /></a></td>
 		
 	</tr>
+    
 	<tr>
 		
 		<td><a href="/Contact_Us/Social_Media.asp"><img src="/_javascript/deluxe-menu.files/nav/Sub_connect_b.gif" onmouseover="MM_swapImage('Sub_connect_b','','/_javascript/deluxe-menu.files/nav/Sub_connect_b.gif',1)" onmouseout="MM_swapImgRestore()" name="Sub_connect_b" border="0" alt="" /></a></td>
 		
 	</tr>
+ <tr>
+ 	<Td><img src="/_javascript/deluxe-menu.files/nav/blank.gif" border="0" alt="" /></Td>
+ 
+    </tr>
 </table>
 </noscript>
 		</td>
@@ -1029,7 +1030,74 @@ swfobject.embedSWF("/_flash/interactiveMap.swf", "mapDivTrumpMap", "893", "492",
             </tr>
         	<tr class="footer">
         	  <td bgcolor="#000000"></td>
-        	  <td><script language="javascript" src="/_javascript/emailValidation.js" type="text/javascript"></script>
+        	  <td><script type="text/javascript" language="javascript">function LTrim(str)
+        {
+               var whitespace = new String(" \t\n\r");
+               var s = new String(str);
+                if (whitespace.indexOf(s.charAt(0)) != -1) {
+
+                    var j=0, i = s.length;
+                    while (j < i && whitespace.indexOf(s.charAt(j)) != -1)
+                        j++;
+                    s = s.substring(j, i);
+                }
+
+                return s;
+        }
+function RTrim(str)
+       {
+                var whitespace = new String(" \t\n\r");
+                var s = new String(str);
+                if (whitespace.indexOf(s.charAt(s.length-1)) != -1) {
+                    var i = s.length - 1;       
+                    while (i >= 0 && whitespace.indexOf(s.charAt(i)) != -1)
+                        i--;
+                    s = s.substring(0, i+1);
+                }
+
+                return s;
+        }
+
+
+function Trim(str)
+        {
+                return RTrim(LTrim(str));
+        }
+function ValidateSignupEmail(theForm) {
+   if (Trim(theForm.EmailSignup.value) == "")
+  {
+    alert("Please enter your email address.");
+    theForm.EmailSignup.focus();
+    return (false);
+  }
+	var checkStr = theForm.EmailSignup.value;
+	var ch = checkStr.indexOf('@');
+
+	if (ch==0 || ch==-1) {
+		alert("Please enter a valid email address.");
+		theForm.EmailSignup.focus();
+		return (false);
+	}
+	var checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzƒŠŒŽšœžŸÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþ0123456789@.-+_'!#$%&()*,/";
+	var checkStr = theForm.EmailSignup.value;
+	var allValid = true;
+	for (i = 0;  i < checkStr.length;  i++) {
+		ch = checkStr.charAt(i);
+		for (j = 0;  j < checkOK.length;  j++)
+			if (ch == checkOK.charAt(j))
+				break;
+				if (j == checkOK.length) {
+					allValid = false;
+					break;
+				}
+	}
+	if (!allValid) {
+		alert("Please enter a valid email address.");
+		theForm.EmailSignup.focus();
+		return (false);
+	}
+		return (true);
+}</script>
 
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -1044,13 +1112,13 @@ swfobject.embedSWF("/_flash/interactiveMap.swf", "mapDivTrumpMap", "893", "492",
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/legal-disclaimer/" class="footer">Legal/Disclaimer</a>
 		</td>
         <td width="13%" align="right" valign="middle"><strong>eMail Sign up:</strong></td>
-        <td width="220"><form name="form1" method="post" action="" onsubmit="return ValidateSignupEmail(this);"><table width="220" border="0" cellspacing="0" cellpadding="0">
+        <td width="220"><form id="form1" name="form1" method="post" action="" onsubmit="return ValidateSignupEmail(this);"><table width="220" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
               <td width="75%" align="right">
-			  	<input name="EmailSignup" type="text" class="emailsignup" value="Enter eMail Address" onfocus="if(this.value=='Enter eMail Address')this.value='';" onblur="if(this.value=='')this.value='Enter eMail Address';">
+			  <input name="EmailSignup" type="text" class="emailInput" onfocus="if(this.value=='Enter eMail Address')this.value='';" onblur="if(this.value=='')this.value='Enter eMail Address';" value="Enter eMail Address">
 			  </td>
               <td width="25%" align="left" valign="middle" style="padding-left:5px; ">
-				<a href="/eMail_Sign_Up/eMail_Sign_Up.asp"><input type="image" src="/_images/_buttons/go_b.gif"><input type="hidden" name="Submit2" value="true"></a>
+				<input type="image" src="/_images/_buttons/go_b.gif"><input type="hidden" name="Submit2" value="true">
 			  </td>
             </tr>
         </tbody></table></form></td>
@@ -1073,6 +1141,8 @@ swfobject.embedSWF("/_flash/interactiveMap.swf", "mapDivTrumpMap", "893", "492",
             <p><a href="/Real_Estate_Portfolio/Real_Estate_Portfolio/Real_Estate_Portfolio.asp"><strong>Real Estate Portfolio</strong></a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Interactivemap/Area_Map.asp">Interactive Map</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffffff"><strong>Domestic</strong></font><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Virginia/Trump_Vineyard_Estates/Trump_Vineyard_Estates.asp">Charlottesville, VA</a><br />
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Virginia/Trump_Vineyard_Estates/Trump_Vineyard_Estates.asp">Trump Vineyard Estates</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Chicago/Trump_Chicago_Tower/Trump_Chicago_Tower.asp">Chicago, IL</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Chicago/Trump_Chicago_Tower/Trump_Chicago_Tower.asp">Trump Intl. Hotel &amp; Tower&reg; Chicago</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Florida/Trump_Grande/Trump_Grande.asp">Florida</a><br />
@@ -1083,7 +1153,7 @@ swfobject.embedSWF("/_flash/interactiveMap.swf", "mapDivTrumpMap", "893", "492",
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/New_Jersey/Trump_Plaza/Trump_Plaza.asp">Jersey City, NJ</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/New_Jersey/Trump_Plaza/Trump_Plaza.asp">Trump Plaza</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Las_Vegas/Trump_Las_Vegas_Tower/Trump_Las_Vegas_Tower.asp">Las Vegas, NV</a><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Las_Vegas/Trump_Las_Vegas_Tower/Trump_Las_Vegas_Tower.asp">Trump Intl. Hotelâ„¢ Las Vegas</a><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Las_Vegas/Trump_Las_Vegas_Tower/Trump_Las_Vegas_Tower.asp">Trump Intl. Hotel&trade; Las Vegas</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Los_Angeles/Trump_Estates/Trump_Estates.asp">Los Angeles, CA</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Los_Angeles/Trump_Estates/Trump_Estates.asp">The Estates at Trump National</a><br />
            <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Louisiana/Trump_New_Orleans_Tower/Trump_New_Orleans_Tower.asp">New Orleans, LA</a><br />
@@ -1098,7 +1168,7 @@ swfobject.embedSWF("/_flash/interactiveMap.swf", "mapDivTrumpMap", "893", "492",
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/New_York/Trump_Park_Residences/Trump_Park_Residences.asp">Trump Park Residences, Yorktown</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/New_York/Trump_Place/Trump_Place.asp">Trump Place</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/New_York/Trump_Plaza/Trump_Plaza.asp">Trump Plaza, New Rochelle</a><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/New_York/Trump_Soho/Trump_Soho.asp">Trump SoHoâ„¢ New York</a><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/New_York/Trump_Soho/Trump_Soho.asp">Trump SoHo&trade; New York</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/New_York/Trump_Tower/Trump_Tower.asp">Trump Tower</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/New_York/Trump_Tower_City_Center/Trump_Tower_City_Center.asp">Trump Tower at City Center, Westchester</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/New_York/Trump_World_Tower/Trump_World_Tower.asp">Trump World Tower</a><br />
@@ -1109,8 +1179,7 @@ swfobject.embedSWF("/_flash/interactiveMap.swf", "mapDivTrumpMap", "893", "492",
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Connecticut/Trump_Parc_Stamford/Trump_Parc_Stamford.asp">Stamford, CT</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Connecticut/Trump_Parc_Stamford/Trump_Parc_Stamford.asp">Trump Parc Stamford</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Honolulu/Trump_Honolulu_Tower/Trump_Honolulu_Tower.asp">Waikiki, HI</a><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Honolulu/Trump_Honolulu_Tower/Trump_Honolulu_Tower.asp">Trump Intl. Hotelâ„¢ Waikiki Beach Walk&reg;</a><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffffff"><strong>International</strong></font><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Honolulu/Trump_Honolulu_Tower/Trump_Honolulu_Tower.asp">Trump Intl. Hotel&trade; Waikiki Beach Walk&reg;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffffff"><strong>International</strong></font><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--<a href="/Real_Estate_Portfolio/Dominican_Republic/Trump_Cap_Cana/Trump_Cap_Cana.asp">Cap Cana, Dominican Republic</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Real_Estate_Portfolio/Dominican_Republic/Trump_Cap_Cana/Trump_Cap_Cana.asp">Trump at Cap Cana</a> 
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--><!--<a href="/Real_Estate_Portfolio/Dubai/Trump_Jumeirah_Tower/Trump_Jumeirah_Tower.asp">Dubai, UAE</a>--> 
@@ -1129,29 +1198,34 @@ swfobject.embedSWF("/_flash/interactiveMap.swf", "mapDivTrumpMap", "893", "492",
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Booking_Html.asp">Reserve Now</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Interactivemap/Hotel_Area_Map.asp">Interactive Map</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.trumphotelcollection.com/" target="_blank">Hotel Collection Website</a><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.trumphotelcollection.com/" target="_blank">TRUMP CARD&reg;</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffffff"><strong>Open</strong></font><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Chicago/Trump_Chicago.asp">Chicago, IL</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Chicago/Trump_Chicago.asp">Trump Intl. Hotel &amp; Tower&reg; Chicago</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Las_Vegas/Trump_Las_Vegas.asp">Las Vegas, NV</a><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Las_Vegas/Trump_Las_Vegas.asp">Trump Intl. Hotelâ„¢ Las Vegas</a><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_New_York/Trump_New_York.asp">New York, NY</a><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Las_Vegas/Trump_Las_Vegas.asp">Trump Intl. Hotel&trade; Las Vegas</a><br />            
+            <a href="/Hotel_Collection/Trump_Doral/Trump_Doral.asp">Miami, Florida</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Doral/Trump_Doral.asp">Doral Golf Resort &amp; Spa </a><br />
+<a href="/Hotel_Collection/Trump_New_York/Trump_New_York.asp">New York, NY</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_New_york/Trump_New_York.asp">Trump Intl. Hotel &amp; Tower&reg; New York</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Panama/Trump_Panama.asp">Panama City, Panama</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Panama/Trump_Panama.asp">Trump Ocean Club</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_SoHo/Trump_SoHo.asp">SoHo, NY</a><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_SoHo/Trump_SoHo.asp">Trump SoHoâ„¢ New York</a><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_SoHo/Trump_SoHo.asp">Trump SoHo&trade; New York</a><br />
+            
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Toronto/Trump_Toronto.asp">Toronto, Canada</a><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Toronto/Trump_Toronto.asp">Trump Intl. Hotel &amp; Tower Toronto&reg;</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Waikiki/Trump_Waikiki.asp">Waikiki, HI</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Waikiki/Trump_Waikiki.asp">Trump Intl. Hotel&trade; Waikiki Beach Walk&reg;</a><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffffff"><strong>Opening January 2012</strong></font><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Toronto/Trump_Toronto.asp">Toronto, Canada</a><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Toronto/Trump_Toronto.asp">Trump Intl. Hotel &amp; Tower Toronto&reg;</a><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffffff"><strong>Coming Soon</strong></font><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Scotland/Trump_Scotland.asp">Aberdeen, Scotland</a><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Scotland/Trump_Scotland.asp">Trump Scotland</a><br />
+            <!--<a href="/Hotel_Collection/Trump_Scotland/Trump_Scotland.asp">Aberdeen, Scotland</a><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Scotland/Trump_Scotland.asp">Trump Scotland</a>-->
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--<a href="/Hotel_Collection/Trump_Cap_Cana/Trump_Cap_Cana.asp">Cap Cana, Dominican Republic</a><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Cap_Cana/Trump_Cap_Cana.asp">Trump at Cap Cana</a>--><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--<a href="/Hotel_Collection/Trump_Jumeirah/Trump_Jumeirah.asp">Dubai, UAE</a>--><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--<a href="/Hotel_Collection/Trump_Jumeirah/Trump_Jumeirah.asp">Trump Intl. Hotel &amp; Tower Dubai</a>--><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Cap_Cana/Trump_Cap_Cana.asp">Trump at Cap Cana</a>--><!--<a href="/Hotel_Collection/Trump_Jumeirah/Trump_Jumeirah.asp">Dubai, UAE</a>--> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#ffffff"><strong>Coming Soon</strong></font><br />
+
+                                        <a href="/Hotel_Collection/Trump_Washington_DC/Trump_Washington_DC.asp"> </a>                                        
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Washington_DC/Trump_Washington_DC.asp">Washington D.C.</a><br />
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_Washington_DC/Trump_Washington_DC.asp">Trump International Hotel, Washington D.C.<br />
+                                        </a> <a href="/Hotel_Collection/Trump_Washington_DC/Trump_Washington_DC.asp"></a><br /><!--<a href="/Hotel_Collection/Trump_Jumeirah/Trump_Jumeirah.asp">Trump Intl. Hotel &amp; Tower Dubai</a>--><br />
            <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_New_orleans/Trump_New_Orleans.asp">New Orleans, LA</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Hotel_Collection/Trump_New_orleans/Trump_New_Orleans.asp">Trump Intl. Hotel &amp; Tower New Orleans</a><br />-->
             </p>
@@ -1161,10 +1235,12 @@ swfobject.embedSWF("/_flash/interactiveMap.swf", "mapDivTrumpMap", "893", "492",
             <p><a href="/Golf_Clubs/Trump_Golf.asp"><strong>Golf Clubs</strong></a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.trumpgolf.com" target="_blank">Trump Golf Website</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Golf_Clubs/Scotland/Scotland.asp">Aberdeen, Scotland</a><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Golf_Clubs/Charlotte/Charlotte.asp">Charlotte, NC</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Golf_Clubs/Bedminster/Bedminster.asp">Bedminster, NJ</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Golf_Clubs/Colts_Neck/Colts_Neck.asp">Colts Neck, NJ</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Golf_Clubs/Hudson_Valley/Hudson_Valley.asp">Hudson Valley, NY</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Golf_Clubs/Los_Angeles/Los_Angeles.asp">Los Angeles, CA</a><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Golf_Clubs/Doral/Doral.asp">Miami, FL</a><br />          
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Golf_Clubs/West_Palm_Beach/West_Palm_Beach.asp">Palm Beach County, FL</a><br />
             <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Golf_Clubs/Philadelphia/Philadelphia.asp">Philadelphia, NJ</a><br />-->
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Golf_Clubs/Puerto_Rico/Puerto_Rico.asp">Rio Grande, Puerto Rico</a><br />
@@ -1177,7 +1253,7 @@ swfobject.embedSWF("/_flash/interactiveMap.swf", "mapDivTrumpMap", "893", "492",
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Trump_Restaurants/Trump_Restaurants.asp">Dining</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.danielnyc.com/" target="_blank">Daniel - New York</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.jean-georges.com/" target="_blank">Jean Georges - New York</a><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.megunyc.com/" target="_blank">Megu - New York</a><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.megurestaurants.com/" target="_blank">Megu - New York</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.quattromiami.com/" target="_blank">Quattro - New York</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.trumpchicagohotel.com/Food_Wine/sixteen.asp" target="_blank">Sixteen - Chicago</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.trumpontheocean.com/" target="_blank">Trump on the Ocean - New York</a><br />
@@ -1198,8 +1274,8 @@ swfobject.embedSWF("/_flash/interactiveMap.swf", "mapDivTrumpMap", "893", "492",
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Merchandise/Trump_Home.asp">Trump Home</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Merchandise/Trump_Ice.asp">Trump Ice</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Merchandise/trump_tea.asp">Trump Tea</a> </p>
-            <p><a href="/Trump_University/Education.asp"><strong>Education &amp; Services</strong></a><br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Trump_Network/Trump_Network.asp">Trump Network</a></p>
+            <!--<p><a href="/Trump_University/Education.asp"><strong>Education &amp; Services</strong></a><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Trump_Network/Trump_Network.asp">Trump Network</a></p>-->
             <p><a href="/News_Announcements/News_Announcements.asp"><strong>News &amp; Announcements</strong></a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Press_Room/Press.asp">Press</a><br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/Press_Room/Press_Room.asp">Press Releases</a><br />
@@ -1224,11 +1300,11 @@ swfobject.embedSWF("/_flash/interactiveMap.swf", "mapDivTrumpMap", "893", "492",
 				<a title="Chicago Luxury Hotels" href="http://www.trumpchicagohotel.com/" target="_blank" style="text-decoration:none" onclick="javascript:pageTracker._trackPageview('/outgoing/trumpchicagohotel.com');this.href=pageTracker._getLinkerUrl(this.href);">Trump International Hotel &amp; Tower® Chicago</a>&nbsp;&nbsp;&nbsp;&nbsp;
 				<a title="Las Vegas Luxury Hotels" href="http://www.trumplasvegashotel.com/" target="_blank" style="text-decoration:none" onclick="javascript:pageTracker._trackPageview('/outgoing/trumplasvegashotel.com');this.href=pageTracker._getLinkerUrl(this.href);">Trump International Hotel™ Las Vegas</a><br>
 				<a title="Chicago Luxury Hotels" href="http://www.trumpwaikikihotel.com/" target="_blank" style="text-decoration:none" onclick="javascript:pageTracker._trackPageview('/outgoing/trumpwaikikihotel.com');this.href=pageTracker._getLinkerUrl(this.href);">Trump International Hotel™ Waikiki Beach Walk®</a>&nbsp;&nbsp;&nbsp;&nbsp;
-				<a title="Chicago Luxury Hotels" href="http://www.trumpsohohotel.com/" target="_blank" style="text-decoration:none" onclick="javascript:pageTracker._trackPageview('/outgoing/trumpsohohotel.com');this.href=pageTracker._getLinkerUrl(this.href);">Trump Soho™ New York</a>&nbsp;&nbsp;&nbsp;&nbsp;
+				<a title="Chicago Luxury Hotels" href="http://www.trumpsohohotel.com/" target="_blank" style="text-decoration:none" onclick="javascript:pageTracker._trackPageview('/outgoing/trumpsohohotel.com');this.href=pageTracker._getLinkerUrl(this.href);">Trump SoHo™ New York</a>&nbsp;&nbsp;&nbsp;&nbsp;
 				<a title="Chicago Luxury Hotels" href="http://www.trumppanamahotel.com/" target="_blank" style="text-decoration:none" onclick="javascript:pageTracker._trackPageview('/outgoing/trumppanamahotel.com');this.href=pageTracker._getLinkerUrl(this.href);">Trump Ocean Club® International Hotel &amp; Tower Panama</a>&nbsp;&nbsp;&nbsp;&nbsp;
 				<a title="Chicago Luxury Hotels" href="http://www.trumptorontohotel.com/" target="_blank" style="text-decoration:none" onclick="javascript:pageTracker._trackPageview('/outgoing/trumptorontohotel.com');this.href=pageTracker._getLinkerUrl(this.href);">Trump International Hotel &amp; Tower Toronto®</a><br>
 				<a title="Las Vegas Luxury Hotels" href="http://www.trumpvegascondos.com/" target="_blank" style="text-decoration:none" onclick="javascript:pageTracker._trackPageview('/outgoing/trumpvegascondos.com');this.href=pageTracker._getLinkerUrl(this.href);">Vegas Condos</a><br>
-				Copyright © 2011 Donald J. Trump<br>
+				Copyright © 2012 Donald J. Trump<br>
 			</font>
 			<a href="http://www.cendyn.com" target="_blank" class="footer" style="font-size:9px;">Internet Marketing</a> <font style="color:#c6c6c6; font-size:9px; font-family:Arial;">by</font> <a href="http://www.cendyn.com" target="_blank" class="footer" style="font-size:9px;">Cendyn</a><br>
 		</td>
@@ -1255,4 +1331,4 @@ swfobject.embedSWF("/_flash/interactiveMap.swf", "mapDivTrumpMap", "893", "492",
 
 
 
-<img src="/google-tracking-failed.gif?location=https://web.archive.org/web/20111226234432id_/http%3A//www.trump.com/Privacy_Policy/Privacy_Policy.asp&amp;event=onload&amp;errDesc=undefined" height="1" width="1"></body></html>
+<img src="/google-tracking-failed.gif?location=https://web.archive.org/web/20120617191320id_/http%3A//www.trump.com/Privacy_Policy/Privacy_Policy.asp&amp;event=onload&amp;errDesc=undefined" height="1" width="1"></body></html>
