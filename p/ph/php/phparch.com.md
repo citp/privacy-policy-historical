@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phparch.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218202219id_/http%3A//www.phparch.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phparch.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617151006id_/http%3A//www.phparch.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « php|architect – The site for PHP professionals
 
@@ -36,4 +36,4 @@ We reserve the right to modify the terms of this Privacy Policy at any time by p
 
 Even though this Privacy Policy states the standard terms under which we operate, in some circumstances beyond our control we may not be able to meet them, and you data may be disclosed, against our wishes, to third parties as a result. We therefore disclaim all warranties and representations, whether express or implied, of nondisclosure of your information.
 
-Should you require to contact us for information about this Privacy Policy, please do so [through our website](https://web.archive.org/policies/contact-us "Contact php|architect").
+Should you require to contact us for information about this Privacy Policy, please do so [through our website](http://www.phparch.com/policies/contact-us "Contact php|architect").
