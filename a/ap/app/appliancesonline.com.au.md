@@ -1,65 +1,90 @@
-> *The following text is extracted and transformed from the appliancesonline.com.au privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227104505id_/http%3A//www.appliancesonline.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliancesonline.com.au privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617152034id_/http%3A//www.appliancesonline.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Appliances Online
+# Privacy Policy - Appliances Online | Sale - Stock Running Low
 
-Appliances Online and its related companies are committed to providing you with a high level of customer service. This includes protecting and maintaining the privacy, accuracy and security of your personal information. We are bound by and will abide by the National Privacy Principles in the Privacy Act (Cth) 1988. This is in addition to our existing obligations under the Privacy Act. 
+Appliances Online Pty Ltd (" **AppliancesOnline.com.au™** ") and its related companies are committed to providing you with a high level of customer service. This includes protecting and maintaining the privacy, accuracy and security of your personal information. We are bound by, and will abide by, the National Privacy Principles in the Privacy Act (Cth) 1988 (" **Privacy Act** "). 
 
 ## What personal information do we collect and hold?
 
-In the process of conducting our business we are likely to collect a wide range of personal information about you. The type of personal information we collect always includes your name, residential and billing address, email address, telephone or mobile numbers and products and services we provide to you. 
+In the process of conducting our business, we are likely to collect a wide range of personal information about you. The type of personal information we collect generally includes your name, residential and billing address, email address, telephone or mobile numbers and products and services we provide to you.
 
-We don't store any credit card information on our web site. We pass it onto our bank for processing. However, we do keep hold of the last 4 digits for verification of your card on delivery. 
+Unless you have agreed to have your credit card information stored in our system, we don't store any credit card information obtained through our website. We pass it onto our bank or where applicable, our supplier for processing. However, we do hold the last 4 digits for verification of your card on delivery. In some instances we request a copy of your driver's licence and credit card to confirm delivery when you are not going to be at home or the products have been purchased as a gift to ensure the transaction is not fraudulent. This information is destroyed as soon as its accuracy is confirmed.
 
 ## How do we collect personal information?
 
-Appliances Online collects personal information directly from you when you submit it online at AppliancesOnline.com.au or by telephone. There may be occasions when we collect information from publicly available sources or third parties. This information includes names, email addresses, telephone numbers and social media profile name sourced from permission based marketing activities. 
+AppliancesOnline.com.au™ collects personal information directly from you when you submit it online at AppliancesOnline.com.au™ or by telephone. There may also be occasions when we collect information from publicly available sources or third parties. This information includes names, email addresses, telephone numbers and social media profile name sourced from permission based marketing activities.
 
-## Cookies and Web beacons
+## Cookies and web beacons
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We use session ID cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited. 
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We use cookies to make it easier for you to navigate our site and where applicable, provide customer services to you (e.g. online live chats to assist with your purchase). If you reject cookies, you may still use our site, but your ability to use some features of our site will be limited.
 
-Some of our business partners (e.g. tracking utility company) use cookies and Web beacons on our site. We have no access to or control over these tracking technologies. 
+Some of our business partners (e.g. tracking utility company) also use cookies and web beacons on our site. We have no access to or control over these tracking technologies.
 
-Appliances Online advertises with Google. Google may show you our ads based on your having visited our site. If you do not wish to see these ads you can opt-out by visiting the Google advertising opt-out page here http://www.google.com/privacy_ads.html.
+AppliancesOnline.com.au™ advertises with Google. Google may show you our advertisements based on your previous visits to our site. If you do not wish to see these advertisements you can opt-out by visiting the Google advertising opt-out page here: <http://www.google.com/privacy_ads.html>
 
-## Rate and Review
+## Rate and review
 
-If you provide a review or rating for a product available through Appliances Online we reserve the right to publish part or all of your review or rating together with your first name and suburb.
+If you provide a review or rating for a product available through AppliancesOnline.com.au™ we reserve the right to publish part or all of your review or rating together with your first name and suburb.
 
-## Links to Other Sites
+## Links to other sites
 
-This Web site contains links to other sites that are not owned or controlled by Appliances Online. Please be aware that we, Appliances Online, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site. 
+This website contains links to other sites that are not owned or controlled by AppliancesOnline.com.au™ and you access these sites at your own risk. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that you visit to identify how it collects and uses personal information. This privacy policy applies only to information collected by this website.
 
 ## How do we use personal information?
 
-In order to improve and better our offers and service we may keep track of patterns of use in the e-mails and social interactions we send. By supplying us your information, you have given us and our subsidiary companies permission to communicate to you via mail, e-mail, SMS, MMS, social media and telephone to inform you about services we deliver relevant to you indefinitely. 
+We may use your personal information to:
+
+  * provide you with our products and services;
+  * respond to questions or product requests (including via online live chats);
+  * forecast future needs of our products and services;
+  * keep a record of our dealings with each other and enable us to contact you when necessary; and
+  * develop a data profile to enable us to tailor our services to you.
+
+
+
+In addition, in order to improve and better our offers and service we may keep track of patterns of use in the e-mails and social interactions we send. By supplying us your information, you give us and our related companies permission to communicate to you via email, SMS, MMS, social media and telephone to inform you about services we deliver relevant to you. This permission is not limited in time unless you choose to opt out by contacting us using the contact information provided below, or by utilising an ‘unsubscribe’ facility on a communication we send to you. 
 
 ## Disclosure of personal information
 
-We may use or disclose your personal information to organisations outside Appliances Online and our related companies for purposes relating to the management of your account with us. Such organisations include: Service providers who manage the services provided to you; mailing systems which organise delivery of the products you have purchased; live help service providers, maintenance and repair services; market research; and our professional advisers, accountants, lawyers and auditors.
+We never sell, rent, lease or disclose your personal information to other organisations, except as outlined in this privacy policy. We may disclose your personal information to organisations outside AppliancesOnline.com.au™ and our related companies for purposes relating to the management of your account with us. Such organisations include: our banks or third party supplier for securing payment of the products or services we provided to you; service providers who manage or review the services provided to you; mailing systems which organise delivery of the products you have purchased; live help service providers, maintenance and repair services; delivery service providers; market research; and our professional advisers, accountants, lawyers, auditors and where applicable credit report agencies or debt collectors.
 
-We require these organisations to adhere to strict confidentiality about your personal information and also seek to ensure that they adhere to the National Privacy Principles. These service providers may not use your personal information for their own marketing purposes.
+We require these organisations to maintain the confidentiality of your personal information and also seek to ensure that they adhere to the National Privacy Principles. These service providers are not permitted to use your personal information for their own marketing purposes.
+
+In addition, we may release your personal information under the following circumstances:
+
+  * when required to do so by a court or under applicable laws or regulation (for example, a subpoena) or where requested by a government agency; 
+  * where we consider a company or an individual may be engaged in fraudulent activity or other deceptive practices that a governmental agency should be made aware of; and 
+  * to appropriate persons, where your communication suggests possible harm to others. 
+
+
 
 ## Security
 
-Appliances Online take reasonable steps to ensure that your personal information is secure. We have robust systems and procedures in place to protect your privacy whenever we collect, store and use or disclose personal information. We are continually upgrading these systems and reviewing our procedures to ensure the highest standards of security are used to protect your personal information. As a condition of working at Appliances Online all our employees sign a confidentiality agreement.
+AppliancesOnline.com.au™ takes reasonable steps to ensure that your personal information is secure. We have robust systems and procedures in place to protect your privacy whenever we collect, store, and use or disclose personal information. We regularly upgrade these systems and review our procedures to ensure high standards of security are used to protect your personal information. As a condition of working at AppliancesOnline.com.au™ all our employees sign a confidentiality agreement. However, since no system is 100% secure or error free, we cannot guarantee that your personal information is totally protected, for example, from hackers or misuse. If you enter personal information on our website, you should exercise due care to safeguard any passwords, ID number, or other special access features associated with your use of our website. 
+
+We will take reasonable steps to destroy or permanently de-identify personal information from our systems which is no longer required by us. 
 
 ## How to access and amend personal information
 
-If you wish to obtain a copy of our data privacy policy, access the personal information we hold about you or your personal information is inaccurate, incomplete outdated or to unsubscribe, please direct any queries regarding your privacy rights to our Privacy Officer on (02) 9735 5400 or email privacy(at)appliancesonline.com.au.  
-The release of information is subject to some exceptions such as information relating to existing or any anticipated legal proceedings, together with exceptions provided by the Privacy Act. Our objective is to respond to any request within a reasonable timeframe and no later than 30 days.
+We strive to keep your personal information accurate, up-to-date and complete. Our policy enables you to find out what information we hold about you and correct that information if it is wrong.
 
-## How your information may be shared
+If you become aware that any information we hold about you is incorrect or out-of-date, please let us know immediately. We will be happy to accept updated personal information in writing from the owner of that information at any time. However, in order to protect your privacy and security, we will take reasonable steps to verify your identity before granting you access or enabling you to make corrections of your personal information.
 
-Except for the purposes outlined in the Appliances Online Privacy Policy, we never sell or disclose your personal information. However, we may release personal information under the following circumstances:
+Our objective is to respond to any request within a reasonable timeframe and no later than 30 days.
 
-  * when requested by the courts or laws (for example, a subpoena) or regulation or is requested by a government agency; 
-  * where we deem a company or an individual may be engaged in fraudulent activity or other deceptive practices that a governmental agency should be made aware of; and/or to appropriate persons, where your communication suggests possible harm to others.
+We may refuse access to personal information where the information being sought is mixed with other information that would disclose personal information of another person, where the information relates to existing or anticipated legal proceedings, where providing access would be unlawful or where denying access is authorised by law. 
 
+## Changes in this privacy policy
 
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes to this privacy policy will be published by posting an updated privacy policy on this website. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-## Changes in this Privacy Policy
+## Contact us
 
-If we decide to change our privacy policy, we will post those changes to this document, the home page and other places we deem appropriate so that you are aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+We encourage and value your feedback. If you have any questions about our privacy policy, or have a problem or complaint, please let us know. Our contact details are:
 
-Feel free to call our customer service team on 1300 000 500 
+**Appliances Online Pty Ltd**  
+Level 2, 90 New South Head Road Edgecliff NSW 2027
+
+**Phone:** 1300 000 500  
+**Fax:** (02) 9326 1289  
+**E-mail:** privacy(at)AppliancesOnline.com.au
