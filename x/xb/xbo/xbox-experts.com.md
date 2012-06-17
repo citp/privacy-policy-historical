@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the xbox-experts.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218185204id_/http%3A//xbox-experts.com/index.php%3Fn%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbox-experts.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617022540id_/http%3A//xbox-experts.com/index.php%3Fn%3Dprivacy) for the most accurate reproduction.*
 
 # Xbox-experts.com - Privacy Policy
 
 This Privacy Policy describes how we handle your personal information for our services on the Xboxexperts website and others that this policy appears in the footer.
 
-You can browse our website anonymously without revealing any personal information about you. This ends when you provide us your personal information, for example when you sign up for the shop. If you choose to give us this personal infomation, you consent to the transfer and storage on our servers located in Germany, D&uuml;sseldorf.
+You can browse our website anonymously without revealing any personal information about you. This ends when you provide us your personal information, for example when you sign up for the shop. If you choose to give us this personal infomation, you consent to the transfer and storage on our servers located in Germany.
 
 The following personal information may be collected and stored:  
 \- email address, physical address and contact information(name, shipping address, country) and also billing information, like bank account or Paypal;
