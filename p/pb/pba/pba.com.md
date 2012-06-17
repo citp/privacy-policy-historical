@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pba.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218191239id_/http%3A//pba.com/Corporate/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pba.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617114405id_/http%3A//www.pba.com/Corporate/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | PBA.com
 
