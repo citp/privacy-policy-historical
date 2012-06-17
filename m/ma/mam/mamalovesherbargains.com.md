@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mamalovesherbargains.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206104222id_/http%3A//mamalovesherbargains.com/pr-friendly) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamalovesherbargains.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617181450id_/http%3A//mamalovesherbargains.com/pr-friendly) for the most accurate reproduction.*
 
-# Disclosure & Privacy Policies | This Mama Loves Her Bargains
+# Disclosure & Privacy Policies - This Mama Loves Her Bargains
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fmamalovesherbargains.com%2Fpr-friendly%2F&media=)
 
 **DISCLOSURE POLICY:**  
 _This policy is valid from 26 May 2010_  
@@ -27,8 +29,6 @@ This Mama Loves Her Bargains is not responsible for the content of external int
 
 This Mama Loves Her Bargains may on occasion ask for personal information, such as for giveaways. This information will not be sold or used for any purpose other than  contacting the winner of the giveaway. Your information may be sent to giveaway providers for mailing the giveaway. This Mama Loves Her Bargains  is not responsible for information shared with giveaway sponsors as a means of mailing a giveaway. It is the intent of This Mama Loves Her Bargains that this information be colleted for confirming winners of a giveaway as a method of prize distribution only.
 
-_This privacy policy was written with the help of[ MrsMoneysaver’s policy ](http://www.mrsmoneysaver.com/disclosure/)and [The Coupon Challenge](http://thecouponchallenge.com/)._
+_This privacy policy was written with the help of[ MrsMoneysaver’s policy ](http://www.mrsmoneysaver.com/disclosure/)and [The Coupon Challenge](http://thecouponchallenge.com/)._
 
-#### About the Author
-
-I'm a 30-something mom to three, social media junkie, blogger extraordinaire, earth lover, earth protector, and striving to change the world one cloth diaper at a time. When I'm not playing Supermom you can find me playing word games, crafting, cake decorating or shooting pictures. 
+### Share and Enjoy
