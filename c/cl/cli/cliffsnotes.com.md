@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cliffsnotes.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117141135id_/http%3A//www.cliffsnotes.com/cliffsnotes-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cliffsnotes.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617204613id_/http%3A//www.cliffsnotes.com/cliffsnotes-privacy-policy.html) for the most accurate reproduction.*
 
 # CliffsNotes.com Privacy Policy
 
