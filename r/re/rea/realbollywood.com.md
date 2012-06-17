@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the realbollywood.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204081402id_/http%3A//www.realbollywood.com/disclaimer-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbollywood.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617130959id_/http%3A//www.realbollywood.com/disclaimer-and-privacy) for the most accurate reproduction.*
 
 # Privacy
 
-**Privacy Policy for www.realbollywood.com**
+Rating: 4.3/ **10** (10 votes cast)
+
+ **Privacy Policy for www.realbollywood.com**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at realbollywood@gmail.com.
 
