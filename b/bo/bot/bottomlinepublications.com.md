@@ -1,20 +1,13 @@
-> *The following text is extracted and transformed from the bottomlinepublications.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109172744id_/http%3A//bottomlinepublications.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D65%26Itemid%3D108) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinepublications.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617205309id_/http%3A//bottomlinepublications.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  [ Privacy Policy](https://web.archive.org/index.php?option=com_content&view=article&id=65:privacy-policy&catid=22:1-big-block&Itemid=108)
-
-Details
-     Category: [1 big block layout](https://web.archive.org/index.php?option=com_content&view=category&id=22&Itemid=108)
-     Published on Monday, 31 October 2011 00:00 
-     Written by Charity Musielak 
-
 **Boardroom, Inc.**  
- **BottomLineSecrets.com**
+ **BottomLinePublications.com**
 
 **Effective: June, 2011**
 
-Thank you for visiting Boardroom.com, BottomLineStores.com, BottomLinePublications.com, BottomLinePubs.com, HighEnergyForLife.com, BottomLineSecrets.com plus any other domains which may be adopted by Boardroom and/or product-based domain names used occasionally for promotional purposes by Boardroom, Inc. (the " Web Sites").
+Thank you for visiting Boardroom.com, BottomLineStores.com, BottomLinePublications.com, BottomLinePubs.com, HighEnergyForLife.com plus any other domains which may be adopted by Boardroom and/or product-based domain names used occasionally for promotional purposes by Boardroom, Inc. (the " Web Sites").
 
 This Policy explains what information Boardroom Inc. ("Boardroom" or "we") collects on the Web Sites and how such information is used. By visiting any of the Web Sites, you signify your acceptance of this Policy.
 
@@ -96,3 +89,6 @@ Boardroom takes reasonable precautions to safeguard information transmitted betw
 As Boardroom continues to explore new business opportunities, it may need to, and reserves the right to, transfer and assign customer contact and Site(s)(s) usage information collected on the Site(s) to one or more affiliated and unaffiliated entities as part of a business transaction.
 
 If you have any questions or concerns regarding our privacy policy please email us at OnlinePrivacy(at)Boardroom.com
+
+  
+
