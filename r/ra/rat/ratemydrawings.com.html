@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the ratemydrawings.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101123049id_/http%3A//www.ratemydrawings.com/pages/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ratemydrawings.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617134119id_/http%3A//www.ratemydrawings.com/pages/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>RateMyDrawings - Privacy</title>
 <style type="text/css">
 <!--
-@import url("/css/styles_3_14.css");
+@import url(http://fonts.googleapis.com/css?family=Terminal+Dosis:500,300);
+@import url("/css/styles_4_00.css?v1.6");
 -->
 </style>
-<link href="http://fonts.googleapis.com/css?family=Lato:light" rel="stylesheet" type="text/css">
 <!--[if lte IE 6]>
 <script type="text/javascript" src="/css/supersleight-min.js"></script>
 <![endif]-->
@@ -47,17 +47,74 @@
 <body>
 <!-- HEADER -->
 <!-- mheader -->
+
 <!--[if IE 6]>
 <script type="text/javascript" src="iepngfix_tilebg.js"></script>  
 <![endif]-->
 <div id="header">
 <div id="headerContainer">
-<div id="headerlogo"><a href="/index.php"><img src="/images/logo_ratemydrawings_09.png" alt="RateMyDrawings" width="265" height="69" border="0"></a></div>
-<div id="usercount" style="text-align:left;">
-<strong style="color:#fff">551741</strong> Drawings<br>By <strong style="color:#fff">60557</strong> Artists</div>
-<div style="float:right;"><div id="login">
-<div id="loginbtn">Members: <a href="/community/login.php">LOG IN &gt; </a></div>
-<div id="loginbtn">New user? <a href="/community/register.php" style="color:#FFFF00;">JOIN &amp; DRAW NOW!</a></div>
+<div id="headerlogo"><a onmouseover="document.getElementById('homeIcon').style.display='block'" onmouseout="document.getElementById('homeIcon').style.display='none'" style="display:block;" href="/index.php"><img src="/images/logo_ratemydrawings_12.png" alt="Home" width="225" height="69" border="0"></a>
+<div id="homeIcon" style="display:none; position:absolute; right:20px; top: 12px; color:#fff;width:14px; height:10px; background-image:url('/images/icon_home_hover.png');"></div>
+</div>
+<!--[if IE 7]>
+<style type="text/css">
+#nav {width: 40%;}
+</style>
+<![endif]-->
+<div id="nav">
+<ul id="men" style="max-width:1160px; margin:0 auto;">
+	<li><a href="/startdrawing.php">Draw</a>
+    <ul>
+	<li style="text-indent:10px;"><div style="width: 6px;height: 15px;background-image: url('/images/icon_rmdtiny.png');position: absolute;top:6px;left:11px;"></div><a href="/startdrawing.php">Start a drawing</a>
+    </li><li><a href="/chat/">DrawChat</a></li>
+    <li><a href="/competitions/">Competitions</a></li>     
+    </ul>
+
+    </li>
+
+	<li><a href="/top-drawings/">Browse</a>
+    <ul>
+        <li><a href="/top-drawings/">Top Drawings</a></li> 
+        <li><a href="/drawings/">Recent Drawings</a></li>
+        <li><a href="/top-drawings/&amp;show=awarded">Awarded Drawings</a></li>
+    <li style="width:100%;"><a href="/chat/gallery/">DrawChat Gallery</a></li>
+	<li><a href="/collections/">Collections</a></li>
+    </ul>
+    </li> 
+	<li><a href="/topusers/">Artists</a>
+      <ul>
+        <li><a href="/topusers/">Top Ranks</a></li>
+        <li><a href="/topusers/featured/">Featured</a></li>
+        <li><a href="/topusers/upcoming/">Upcoming</a></li>
+        <li><a href="/topusers/new/">New members</a></li>
+    </ul>
+    </li>
+
+	
+	<li><a href="/community.php">Community</a>
+		<ul>
+			<li><a href="/community.php">Community feed</a></li>
+            <li><a href="/community/">Forum Discussions</a></li>
+            <li><a href="/tutorials/">Tutorials</a></li>
+			<li><a href="/usersonline.php">Who's Online?</a></li>
+			<li><a href="/rmd-birthdays.php">Member Birthdays</a></li>
+			
+		</ul>
+	</li>
+	
+	<li style="background-image:none; padding-left:3px;"><a href="/pages/about-rate-my-drawings.php">+More</a>
+		  <ul>
+		<li><a href="/community/viewforum.php?id=8">Help Forums</a></li>
+		<li><a href="/pages/about-rate-my-drawings.php">About</a></li>
+		<li><a href="/pages/advertise.php">Advertise</a></li>
+		<li><a href="/pages/donate.php">Donate</a></li></ul>
+	</li>
+  </ul>
+</div>
+
+<div id="meDiv" style="float:right;"><div id="login">
+<div id="loginbtn" style="border-right:1px solid #666;"><a href="/community/login.php">Sign in </a></div>
+<div id="loginbtn"><a href="/community/register.php">Join us</a></div>
 </div>
 </div>
 <div id="searchBox">
@@ -65,26 +122,58 @@
 function initSearch(){
 	var searchField = document.getElementById('sf');
 	searchField.focus();
-	searchField.value='';
+	if(searchField.value=='Search'){
+		searchField.value='';
+	}
+
 }
 function changeSearch(){
 	var searchField = document.getElementById('sf');
 	if(searchField.value==''){
-		searchField.value='Search Halloween';
+		searchField.value='Search';
 	}
 }
+window.onresize = function(){
+	if (document.body && document.body.offsetWidth) {
+	 winW = document.body.offsetWidth;
+	 //winH = document.body.offsetHeight;
+	}
+	if (document.compatMode=='CSS1Compat' &&
+		document.documentElement &&
+		document.documentElement.offsetWidth ) {
+	 winW = document.documentElement.offsetWidth;
+	 //winH = document.documentElement.offsetHeight;
+	}
+	if (window.innerWidth && window.innerHeight) {
+	 winW = window.innerWidth;
+	 //winH = window.innerHeight;
+	}
+	if(winW<970){
+		document.getElementById('searchBox').style.float = 'none';
+		document.getElementById('searchBox').style.position = 'absolute';
+		document.getElementById('searchBox').style.left = '20px';
+		document.getElementById('searchBox').style.top = '27px';
+		document.getElementById('header').style.height = '90px';
+	} else {
+		document.getElementById('searchBox').style.float = 'left';	
+		document.getElementById('searchBox').style.position = 'relative';
+		document.getElementById('searchBox').style.left = 'auto';
+		document.getElementById('searchBox').style.top = 'auto';
+		document.getElementById('header').style.height = '69px';
+	}
+};
 </script>
 <form action="http://www.ratemydrawings.com/search.php" style="padding:0; margin:0; ">
-<input id="sf" name="s" type="text" style="background-color:#333333; color:#FFFFFF; font-size:16px; border:2px solid #999999; background-image:url('/images/icon_rmdtiny.png'); background-repeat:no-repeat; background-position:98% center; width:160px; padding:4px; color:#CCCCCC;" value="Search Halloween" size="20" maxlength="30" onmouseover="javascript:initSearch()" onblur="javascript:changeSearch()">
-<input type="submit" name="sa" value="Go" style="padding:2px;">
+<input id="sf" name="s" type="text" style="background-color:#1a2b37; color:#FFFFFF; font-size:12px; border:1px solid #999999; background-image:url('/images/icon_rmdtiny.png'); background-repeat:no-repeat; background-position:98% center; width:115px; padding:3px; color:#CCCCCC;" value="Search" maxlength="40" onmouseover="javascript:initSearch()" onblur="javascript:changeSearch()"><input type="submit" name="sa" value="go" style="margin-left:-2px;font-size:11px; padding:4px; background-color:#1A2B37; border:1px solid #999; color: #fff;">
 </form>
 <br>
 </div>
 </div>
-</div><!-- END HEADER -->
+</div>
+<!-- END HEADER -->
 <!-- NAV -->
-
-<div id="nav" style="padding-left:20px;">
+<!--
+<div id="nav">
 <ul id="men" style="max-width:1160px; margin:0 auto;">
 	<li><a href="/index.php">Home</a></li>
 	<li><a href="/startdrawing.php">Draw <strong>Online</strong></a></li>
@@ -117,7 +206,7 @@ function changeSearch(){
 		<li><a href="/pages/donate.php">Donate</a></li></ul>
 	</li>
   </ul>
-</div>
+</div>-->
 <!--[if lt IE 7]>
 <div style='background: #FEEFDA; text-align: center; clear: both; height: 75px; position: relative;'>
 <div style='position: absolute; right: 3px; top: 3px; font-family: courier new; font-weight: bold;'><a href='#' onclick='javascript:this.parentNode.parentNode.style.display="none"; return false;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-cornerx.jpg' style='border: none;' alt='Close this notice'/></a></div>
@@ -219,28 +308,29 @@ function changeSearch(){
     <div style="clear:both"></div>
   </blockquote>
 </div>
-<div style="clear:both; height:30px;"></div>
+<div style="clear:both; height:40px;"></div>
 <div id="onlinefollow">
-<div style="margin:0 auto; width:880px;">
-<div style="float:left; margin: 0 0 0 20px; font-size:18px; width: 215px;">348 online <span style="font-size:12px; color:#999999;">members &amp; visitors</span></div>
-<div style="float:left; margin: 5px 0 0 0; font-size:12px; width:140px;"><a href="/usersonline.php">See who's online</a></div>
-<div style="float:left; margin: 5px 0 0 0; font-size:12px; width:90px">Follow us on:</div>
+<div style="margin:0 auto; max-width:1180px;">
+<div style="float:left; margin: 0 0 0 20px; font-size:18px; width: 215px;">329 online <span style="font-size:12px; color:#999999;">members &amp; visitors</span></div>
+<div style="float:left; margin: 5px 20px 0 0; font-size:12px; "><a href="/usersonline.php">See who's online</a></div>
+<div style="float:left; margin: 5px 0 0 0; font-size:12px; ">Follow us on:</div>
 <div style="float:left; margin: 0 0 0 0;">
-<a href="http://www.facebook.com/pages/RateMyDrawings/113960868615500" target="_blank"><img src="/images/facebook_logo.png" alt="RateMyDrawings on Facebook" width="86" height="25" border="0" style="margin:0 0 0 20px;"></a>
-<a href="http://ratemydrawings.deviantart.com/" target="_blank"><img src="/images/deviantart_logo.png" alt="RateMyDrawings on DeviantArt" width="86" height="25" border="0" style="margin:0 0 0 15px;"></a>
-<a href="http://www.youtube.com/ratemydrawings" target="_blank"><img src="/images/youtube_logo.png" alt="RateMyDrawings on YouTube" width="66" height="25" border="0" style="margin:0 0 0 10px;"></a>
+<a href="http://www.facebook.com/RateMyDrawings" target="_blank"><img src="/images/facebook_logo.png" alt="RateMyDrawings on Facebook" width="86" height="25" border="0" style="margin:0 0 0 20px;"></a><a href="http://www.youtube.com/ratemydrawings" target="_blank"><img src="/images/youtube_logo.png" alt="RateMyDrawings on YouTube" width="66" height="25" border="0" style="margin:0 0 0 10px;"></a>
 <a href="http://twitter.com/ratemydrawings" target="_blank"><img src="/images/twitter_logo.png" alt="RateMyDrawings on Twitter" width="96" height="25" border="0" style="margin:0 0 0 5px;"></a></div>
 </div>
 <div style="clear:both"></div>
 </div>
+
+
 <div id="mixnetworkfoot">
+<div style="margin:0 auto 0 auto; max-width:1180px">
 <img style="position:absolute; margin-left:25px;" src="/images/copyright.png" width="27" height="26">
 <p style="margin:0; position:absolute; font-size:12px; color:#999999; width:310px; height:100px; margin-left:58px;">
 Copyright Mixart New Media LLC.<br>
 
 As creators of drawings, you own the rights to your own drawings. Respect copyright protected artwork.<br>
-More information in our <a style="color:#999999; text-decoration:underline" href="/pages/terms.php">Terms</a> and <a style="color:#999999;text-decoration:underline" href="/pages/copyright.php">Copyright Policy</a>.</p>
-<p style="margin:0; position:absolute; font-size:13px; color:#999999; width:330px; height:100px; margin-left:405px;">
+More information in our <a href="/pages/terms.php" style="color:#999999;">Terms</a> and <a href="/pages/copyright.php" style="color:#999999;">Copyright Policy</a>.</p>
+<p style="width:40%; margin:0; position:absolute; font-size:13px; color:#999999; height:100px; margin-left:405px;">
     <a class="footlink" href="/pages/about-rate-my-drawings.php">About RateMyDrawings</a>
     <a class="footlink" href="/pages/terms.php">Terms &amp; Conditions</a>
     <a class="footlink" href="/pages/advertise.php">Advertise on RMD</a>
@@ -249,12 +339,12 @@ More information in our <a style="color:#999999; text-decoration:underline" href
     <a class="footlink" href="/pages/behavior.php">Behavior Guide</a>
 
 </p>
-<div style="font-size: 12px; color:#999999; float:right; width:180px;"><a href="http://www.mixart.com/" target="_blank"><img style="border:3px solid #e3e3e3;" src="/images/mixart_network.png" alt="Mixart Network" width="130" height="53"></a>
+<div id="footlogo" style="font-size: 12px; color:#999999; float:right; width:180px;"><a href="http://www.mixart.com/" target="_blank"><img style="border:3px solid #e3e3e3;" src="/images/mixart_network.png" alt="Mixart Network" width="130" height="53"></a>
 <br>
 Mixart New Media LLC.<br>
 Online Art Communities</div>
 </div>
-
+</div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -263,7 +353,6 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-251123-2");
 pageTracker._trackPageview();
 </script>
-
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <script type="text/javascript">_qacct="p-812JUGOgcH8OM";quantserve();</script>
