@@ -1,13 +1,16 @@
-> *The following text is extracted and transformed from the jpeterman.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111070226id_/http%3A//www.jpeterman.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpeterman.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618010357id_/http%3A//www.jpeterman.com/Privacy) for the most accurate reproduction.*
 
 # The J. Peterman Company - Privacy Policy
 
 Privacy Policy
 
-Welcome. We appreciate your participation and value your personal privacy at our website, jpeterman.com. The goal of our policy is to explain to you the information we collect, how we use and share this information, and how you can edit your personal information. This policy applies to the information we collect on this website, that you were participating in when you clicked through to this policy, which is owned and operated by The J. Peterman Company. We collect customer information to improve your overall shopping experience with us. We respect your privacy and are committed to maintaining and using this information responsibly. 
+Welcome. We appreciate your participation and value your personal privacy at our website, jpeterman.com. The goal of our policy is to explain to you the information we collect, how we use and share this information, and how you can edit your personal information. This policy applies to the information we collect on this website, that you were participating in when you clicked through to this policy, which is owned and operated by The J. Peterman Company. We collect customer information to improve your overall shopping experience with us. We respect your privacy and are committed to maintaining and using this information responsibly.   
 
-This Privacy Policy sets forth the rules and policies governing your use of our website, jpeterman.com. By using our website, you agree to accept these policies. We may change this policy from time to time without notice therefore we recommend you check back periodically to ensure you are comfortable with our most recent policy. Immediately after we post any changes to this policy, those changes are deemed effective, whether or not you have reviewed them. By using our website after we post any changes to this policy, you agree to accept those changes. If at any time you choose not to accept this Privacy Policy, please do not use our website. This document is organized as follows: 
 
+This Privacy Policy sets forth the rules and policies governing your use of our website, jpeterman.com. By using our website, you agree to accept these policies. We may change this policy from time to time without notice therefore we recommend you check back periodically to ensure you are comfortable with our most recent policy. Immediately after we post any changes to this policy, those changes are deemed effective, whether or not you have reviewed them. By using our website after we post any changes to this policy, you agree to accept those changes. If at any time you choose not to accept this Privacy Policy, please do not use our website. This document is organized as follows:   
+
+
+  
 1\. What information do we collect?  
 2\. How do we use this information?  
 3\. How do we store this information?  
@@ -16,19 +19,26 @@ This Privacy Policy sets forth the rules and policies governing your use of our 
 6\. How can you access us from outside the U.S.?  
 7\. How do you contact us?
 
+  
+
+
 **1\. What information do we collect?**
 
 You may submit personal information to our website in numerous ways. First, you may share your name, email address and certain information about your likes and dislikes when you sign up for our website, or request a newsletter. We collect information when you register or update your account, log-in, place an order, opt-in to receive our emails, shop online, request a catalog, or participate in a contest, promotion or survey. This information may include, but is not limited to, name, email address, billing and shipping address, credit card information and phone number. You may also provide personal information when you post comments to jpeterman.com, or to one of our other branded sites. In addition, if you have registered with another of our owned and operated sites, we will have any personal information about you that you provided at the sister site(s) as well. Whether or not you provide personal information is your choice; however, sometimes it may be required to participate in a particular activity or gain access to certain content on our sites.
 
-We also automatically collect general information, or what we call non-personal information, from you when you access our website. This information can include, among other things, the type of browser you are using, the third party website from which your visit originated, the operating system you are using, the domain name of your Internet service provider, the search terms you use on our website, the specific web pages you visit, and the duration of your visits.
+We also automatically collect general information, or what we call non-personal information, from you when you access our website. This information can include, among other things, the type of browser you are using, the third party website from which your visit originated, the operating system you are using, the domain name of your Internet service provider, the search terms you use on our website, the specific web pages you visit, and the duration of your visits.  
+
+
+  
+
 
 **2\. How do we use this information?**
 
 We will not sell, rent or share your email address with third parties to send you unsolicited email. However, in our ongoing effort to provide you with the best service possible, we may share your information with our other brands within our company.
 
-When you supply your postal address, either when requesting a catalog or placing an order, you may receive a catalog by mail from us or one of our other brands. We occasionally make our postal list available for limited use by a few reputable and carefully screened firms, but at your request, we will not share your postal address with anyone. Requests can be sent to the [contact us](http://www.jpeterman.com/contact-us.asp) page. 
+When you supply your postal address, either when requesting a catalog or placing an order, you may receive a catalog by mail from us or one of our other brands. We occasionally make our postal list available for limited use by a few reputable and carefully screened firms, but at your request, we will not share your postal address with anyone. Requests can be sent to the [contact us](http://www.jpeterman.com/contact-us.asp) page.
 
-When you place an order on jpeterman.com, we use this information to process and track your order and contact you via email, postal mail or phone if we have any questions or concerns regarding your order. If you provide an email address during checkout, you will also receive order and shipping confirmation emails. 
+When you place an order on jpeterman.com, we use this information to process and track your order and contact you via email, postal mail or phone if we have any questions or concerns regarding your order. If you provide an email address during checkout, you will also receive order and shipping confirmation emails.
 
 We also maintain a record of your purchases made on our site and through our family of websites and combine this with information you have provided over the phone in order to serve you better. We may combine information you provide with demographic information, information gathered from our other brands and affiliated companies, and information that is publicly available. We may also use information about your product preferences and interests in order to improve our site design and enhance your shopping experience.
 
@@ -66,6 +76,11 @@ If you have any questions or concerns regarding our privacy policy, please conta
 
 By Email:  [contact us](http://www.jpeterman.com/contact-us.asp)
 
-By Mail:   J. Peterman Customer Service  
-               1001 Primrose Court   
-               Lexington, Kentucky 40511
+By Mail:
+
+J. Peterman Customer Service  
+5345 Creek Rd.  
+Blue Ash, Ohio 45242
+
+  
+
