@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the norwichunion.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214075744id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norwichunion.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617105456id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Legal - Privacy Policy - Aviva
-
-  * _You are currently within_[Homepage](https://web.archive.org/ "Homepage")
-  * [Legal](https://web.archive.org/legal/ "Legal")
-  * Privacy policy
-
-
-
-## Privacy policy
 
 The pages on this website are only directed at United Kingdom residents and comply with appropriate UK legislation and regulation. We have provided this privacy policy to help you understand how we collect and use your personal information when you visit our website.
 
@@ -18,7 +10,7 @@ Who we are
 Wherever the name “Aviva” is used within these pages, this refers to one or more of the trading companies of Aviva that operate in the United Kingdom and who may or may not offer insurance and financial products or services on this site.
 
   * For more information concerning Aviva - [www.aviva.com](http://www.aviva.com/)
-  * [A full list of trading companies](https://web.archive.org/legal/list-of-aviva-companies.html)
+  * [A full list of trading companies](http://www.aviva.co.uk/legal/list-of-aviva-companies.html)
 
 
 What information we collect and how
@@ -28,11 +20,11 @@ The information that we collect via this website may include:-
 
   1. Any personal details that you type in and submit such as your name, address, e-mail address, date of birth, lifestyle and other information.
 
-  2. Data that allows us to remember you, any interests that you have recorded and how you use this website. This saves you from re-keying information when you return to the site and allows us to arrange our website content to match your preferred interests.
+  2. Data that allows us to remember you, any interests that you have recorded and how you use this website. This saves you from re-keying information when you return to the site and allows us to arrange our website content to match your preferred interests. We may use this information, now or later, to resolve any queries or issues that arise.
 
 We use “cookies” to collect this data. Cookies are text-only strings of information that are stored on your web browser or hard disk. You have the ability to accept or decline cookies by modifying the settings of your web browser. However, you may not be able to use all the interactive facilities of our site if cookies are disabled.
 
-Further details are available on our [Aviva Cookie Policy](https://web.archive.org/legal/aviva-cookie-policy.html) or for further information about how to disable cookies in your browser please visit the [About Cookies Website](http://www.aboutcookies.org/).
+Further details are available on our [Aviva Cookie Policy](http://www.aviva.co.uk/legal/aviva-cookie-policy.html) or for further information about how to disable cookies in your browser please visit the [About Cookies Website](http://www.aboutcookies.org/).
 
   3. Your IP address (this is your computer's individual identification number for internet connection) that is automatically logged by our web server. This is used to note your interest in our website.
 
@@ -54,7 +46,7 @@ In the case of personal data, with limited exceptions, and on payment of the app
 Marketing
     
 
-[Aviva group](https://web.archive.org/legal/aviva-group-products-and-services.html) and its agents or business partners may use your information to keep you informed by post, telephone, e-mail, text messaging or other electronic means, about insurance and financial products and services which may be of interest to you. Your information may also be disclosed and used for these purposes after your policy has lapsed. By providing us with your contact details, you consent to being contacted for these purposes. At that time, we will provide you with a means of opting-out and in addition, you can contact us at any time to have your details removed from lists used by us for direct marketing purposes.
+[Aviva group](http://www.aviva.co.uk/legal/aviva-group-products-and-services.html) and its agents or business partners may use your information to keep you informed by post, telephone, e-mail, text messaging or other electronic means, about insurance and financial products and services which may be of interest to you. Your information may also be disclosed and used for these purposes after your policy has lapsed. By providing us with your contact details, you consent to being contacted for these purposes. At that time, we will provide you with a means of opting-out and in addition, you can contact us at any time to have your details removed from lists used by us for direct marketing purposes.
 
 Your rights
     
