@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the renjusblog.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104121853id_/http%3A//www.renjusblog.com/1999/12/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renjusblog.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617154348id_/http%3A//www.renjusblog.com/1999/12/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Friday, December 31, 1999 | [ 0 comments »](http://www.renjusblog.com/1999/12/privacy-policy.html#comments)
+Friday, December 31, 1999 | [ 0 comments »](http://www.renjusblog.com/1999/12/privacy-policy.html#comment-form)
 
 Sponsored Links
 
