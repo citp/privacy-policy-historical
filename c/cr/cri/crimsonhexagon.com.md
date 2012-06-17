@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the crimsonhexagon.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219172040id_/http%3A//www.crimsonhexagon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crimsonhexagon.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618002355id_/http%3A//www.crimsonhexagon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Crimson Hexagon
+# Privacy Policy - Crimson Hexagon
 
-Crimson Hexagon, Inc. (“Crimson Hexagon,” “us,” “we,” or “our”) is committed to protecting the privacy of the users (“user”, “you” or “your”) of its website (“Site”). Crimson Hexagon’s Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the information you provide to us and in making informed decisions when using our Site. This Privacy Policy will be continuously assessed against new technologies and business practices. This Privacy Policy applies to this Site and governs data collection and usage at this Site. The United States has data protection laws that may not be consistent with those of other countries. By using this Site, you consent to the processing of data about you in the manner and for the purposes set out in this Privacy Policy. Please read it in its entirety.
+Crimson Hexagon, Inc. (“Crimson Hexagon”, “us,” “we,” or “our”) is committed to protecting the privacy of the users (“user”, “you” or “your”) of its website (“Site”). Crimson Hexagon’­s Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the information you provide to us and in making informed decisions when using our Site. This Privacy Policy will be continuously assessed against new technologies and business practices. This Privacy Policy applies to this Site and governs data collection and usage at this Site. The United States has data protection laws that may not be consistent with those of other countries. By using this Site, you consent to the processing of data about you in the manner and for the purposes set out in this Privacy Policy. Please read it in its entirety.
 
 ### USE OF COOKIES AND OTHER TECHNOLOGIES
 
-We may employ cookie technology to store and sometimes track information about the users of the Site. Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a website. Cookies are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies can remember what information a user accesses on one web page to simplify subsequent interactions with that website by the same user or to use the information to streamline the user’s transactions on related web pages. Most web browsers automatically accept cookies, but you can change your browser to prevent the browser from accepting cookies.
+We may employ cookie technology to store and sometimes track information about the users of the Site. Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a website. Cookies are small pieces of data that are stored by a user’­s web browser on the user’s hard drive. Cookies can remember what information a user accesses on one web page to simplify subsequent interactions with that website by the same user or to use the information to streamline the user’s transactions on related web pages. Most web browsers automatically accept cookies, but you can change your browser to prevent the browser from accepting cookies.
 
 We may use web beacons (small pieces of data that are embedded in images on the pages of websites) and auditing software to track page views and entry and exit points to and from the Site. In addition, we may use web beacons, cookies, customized links and/or similar technologies to determine whether electronic newsletters sent by us to those who have requested them from us have been opened and which links are clicked. Any data collected will only be used in an aggregate form and will not contain any Personal Information, as that term is defined below.
 
@@ -26,7 +26,7 @@ In general, we will use Personal Information only for the purpose for which such
 
 We may share Personal Information with third parties that provide services to Crimson Hexagon (including handling and delivering of email communications and newsletter, and website hosting services) as reasonably necessary for them to provide said services. Service providers of Crimson Hexagon who have (or will have) access to Personal Information, however, are (or will be) required to protect this information in a manner that is consistent with this Privacy Policy and not to use it for any purpose other than to carry out the services they are performing for Crimson Hexagon.
 
-We may use Traffic Data to analyze trends, administer the Site, track user’s movement, and gather broad demographic information for aggregate use.
+We may use Traffic Data to analyze trends, administer the Site, track user’­s movement, and gather broad demographic information for aggregate use.
 
 We may provide Traffic Data and/or other aggregate non-personally identifying information to third parties.
 
@@ -34,7 +34,7 @@ Notwithstanding the foregoing, we may transfer, sell or assign information conce
 
 ### OPT-OUT/DISCONTINUE
 
-If you do not wish to receive information or other material from us, you may “opt-out” of receiving these communications by sending us an email at [remove@crimsonhexagon.com](mailto:remove@crimsonhexagon.com).
+If you do not wish to receive information or other material from us, you may ‘opt-out’ of receiving these communications by sending us an email at [remove@crimsonhexagon.com](mailto:remove@crimsonhexagon.com).
 
 ### CORRECT; UPDATE
 
@@ -46,7 +46,7 @@ This Site may contain links to third-party websites. These links are provided so
 
 ### BLOGS/BULLETIN BOARDS/CHAT ROOMS
 
-If you use a blog, bulletin board or chat room on this Site, you should be aware that any Personal Information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the Personal Information you choose to submit in these forums.
+If you use a blog, bulletin board or chat room on this Site, you should be aware that any Personal Information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the Personal Information you choose to submit in these forums.
 
 ### **SECURITY**
 
@@ -74,6 +74,6 @@ If you have any questions or concerns regarding our Privacy Policy or any questi
 
 ### SPECIAL NOTIFICATION FOR CALIFORNIA RESIDENTS
 
-Users who reside in California and have provided Personal Information to Crimson Hexagon have the right to receive: (a) information identifying any third party to whom Crimson Hexagon may have disclosed, within the past year, personal information pertaining to you and your family for that party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information, please email your request to [privacy@crimsonhexagon.com](mailto:privacy@crimsonhexagon.com). This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
+Users who reside in California and have provided Personal Information to Crimson Hexagon have the right to receive: (a) information identifying any third party to whom Crimson Hexagon may have disclosed, within the past year, personal information pertaining to you and your family for that party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information, please email your request to [privacy@crimsonhexagon.com](mailto:privacy@crimsonhexagon.com). This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
 
-**Effective Date:** June 18, 2008
+**Effective:** November 2011
