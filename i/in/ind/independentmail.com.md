@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125150819id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617181316id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Information & News from Anderson Independent Mail (Anderson, SC)
 
@@ -73,9 +73,9 @@ To learn more about Yahoo!’s ad practices, including how to opt out of using a
 
 Yahoo! is a member of the Network Advertising Initiative. See [http://www.networkadvertising.org](http://www.networkadvertising.org/).
 
-**J. AP NEWS REGISTRY**
+**J. NEWSRIGHT**
 
-We use services provided by AP News Registry for a variety of reasons, including, but not limited to, understanding how our content is used across the Internet, improving news coverage and to protect our intellectual and other property rights. AP News Registry collects non-personally identifiable content usage information and may use cookies in conjunction with this activity. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information, including how to opt-out of certain AP News Registry collection activities. Your continued readership of the site means you accept the privacy policy of the AP News Registry.
+We use services provided by NewsRight for a variety of reasons, including, but not limited to, understanding how our content is used across the Internet, improving news coverage and to protect our intellectual and other property rights. NewsRight collects non-personally identifiable content usage information and may use cookies in conjunction with this activity. Please refer to the NewsRight privacy policy [here](http://www.newsregistry.com/privacycenter/servicepolicy.aspx) for further information, including how to opt-out of certain NewsRight collection activities. Your continued readership of the site means you accept the privacy policy of NewsRight. 
 
 **K. SOLE STATEMENT**
 
