@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stockopedia.co.uk privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203145503id_/http%3A//www.stockopedia.co.uk/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockopedia.co.uk privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617130135id_/http%3A//www.stockopedia.co.uk/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stockopedia
 
-Stockopedia ('we' or 'us') is committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. If you have any questions or concerns regarding this statement, you should contact us via email (admin @ stockopedia.co.uk).
+Stockopedia ('we' or 'us') is committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. If you have any questions or concerns regarding this statement, you should contact us via email (subscriptions @ stockopedia.co.uk).
 
 ## (1) Information collection
 
@@ -26,7 +26,7 @@ Whilst session cookies will be deleted from your computer when you close your br
 
 Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including ours.
 
-In addition, we use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html.>
+In addition, we use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
 
 ## (3) Use of personal data
 
@@ -54,6 +54,8 @@ You acknowledge that our website is a social networking website and, where you s
 
 Where you specifically agree to this (for example, during the website registration process) we may use your personal information to send to you marketing communications which we think may be of interest to you about our business or the businesses of carefully-selected third parties by post, fax, email, SMS or similar technology.
 
+Where you have provided us with credit card details in relation to a subscription service, we do not store these details nor do we share customer payment details with any 3rd parties other than our partners, Paypal and Recurly who we use for secure payments.
+
 ## (4) Other disclosures
 
 In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you:
@@ -80,9 +82,11 @@ You expressly agree to such transfers of personal information.
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-Personal information comprised in media uploaded to the website will, of course, be publicly available on the internet around the world. We will however store all the other personal information you provide on our secure servers, which incorporate both password and firewall protection.
+All personal information you provide will be stored on our secure servers, which incorporate both password and firewall protection. Please note that your username will be publicly visible but this can be a pseudonym.
 
-Data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+If you choose to publish information about yourself in your public profile or in articles you choose to publish on the website (both optional), this information will, of course, be publicly available on the internet.
+
+While all payment information is sent over a secure protocol, other data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
 You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in).
 
@@ -94,7 +98,7 @@ We may update this privacy policy from time-to-time by posting a new version on 
 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00).
 
-You may instruct us not to process your personal data for marketing purposes by email (to admin @ stockopedia.co.uk) at any time.
+You may instruct us not to process your personal data for marketing purposes by email (to subscriptions @ stockopedia.co.uk) at any time.
 
 ## (9) Third party websites
 
@@ -106,4 +110,4 @@ Please let us know if the personal information which we hold about you needs to 
 
 ## (11) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by emailing admin @ stockopedia.co.uk or by post to Stockopedia Ltd at Office 404, 4th Floor, Albany House, 324/326 Regent Street, London, W1B 3HH, U.K.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by emailing subscriptions @ stockopedia.co.uk, calling us on 020 3286 4722, or by post to Stockopedia Ltd at Office B224, Macmillan House, Paddington, London, W2 1FT, UK.
