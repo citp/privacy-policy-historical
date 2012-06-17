@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eyeslipsface.co.uk privacy policy that was archived on 2011-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227063756id_/http%3A//www.eyeslipsface.co.uk/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eyeslipsface.co.uk privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617185709id_/http%3A//www.eyeslipsface.co.uk/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" --><head>
     <!-- InstanceBeginEditable name="Head" -->
@@ -303,6 +303,58 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
 </head>
 <body id="osduk">
   
+  <script type="text/javascript">
+    $(document).ready( function() {
+      updateCountdown(48523, 'Half Price Bamboo Brushes<br /><span class=minspend>(minimum spend &pound;20.00)</span>', '<table width=100% cellspacing=0 cellpadding=3 border=0><tr><td width=50 align=right class=useCode>use&nbsp;<br />code</td><td align=center class=voucherCode>BAMBOO4U</td></tr></table>');
+    });
+
+    function updateCountdown(secs, voucherAppliesStr, voucherCodeStr) {
+      var daysLeft; var hoursLeft; var minsLeft; var secsLeft;
+      daysLeft=(secs-(secs%86400))/86400;
+      secsLeft=secs%86400;
+      hoursLeft=(secsLeft-(secsLeft%3600))/3600;
+      secsLeft=secsLeft%3600;
+      minsLeft=(secsLeft-(secsLeft%60))/60;
+      secsLeft=secsLeft%60;
+      $('#offerContainer').html(voucherAppliesStr);
+      $('#voucherDetails').html(voucherCodeStr);
+      if (daysLeft<0||hoursLeft<0||minsLeft<0||secsLeft<0) {
+        $('#daysLeft').html('00');
+        $('#hoursLeft').html('00');
+        $('#minsLeft').html('00');
+        $('#secsLeft').html('00');
+      } else {
+        if (daysLeft<10) { $('#daysLeft').html('0'+daysLeft); }
+        else { $('#daysLeft').html(daysLeft); }
+        if (hoursLeft<10) { $('#hoursLeft').html('0'+hoursLeft); }
+        else { $('#hoursLeft').html(hoursLeft); }
+        if (minsLeft<10) { $('#minsLeft').html('0'+minsLeft); }
+        else { $('#minsLeft').html(minsLeft); }
+        if (secsLeft<10) { $('#secsLeft').html('0'+secsLeft); }
+        else { $('#secsLeft').html(secsLeft); }
+        setTimeout('updateCountdown('+(secs-1)+',\''+voucherAppliesStr+'\', \''+voucherCodeStr+'\');', 1000);
+      }
+    }
+  </script>
+  
+  <link href="../css/layout.css" rel="stylesheet" type="text/css">
+  
+  <div id="offerCountdownOuter">
+    <div id="offerCountdown">
+      <div id="offerContainer"></div>
+      <div id="countdownContainer" style="padding-top: 3px; width: 168px; height: 42px; float: left;">
+        <div id="daysLeft" class="countBox"></div>
+        <div id="dhSeperator" class="countSeperator"></div>
+        <div id="hoursLeft" class="countBox"></div>
+        <div id="hmSeperator" class="countSeperator"></div>
+        <div id="minsLeft" class="countBox"></div>
+        <div id="msSeperator" class="countSeperator"></div>
+        <div id="secsLeft" class="countBox"></div>
+      </div>
+      <div id="voucherDetails" style="padding-top: 3px; width: 250px; height: 42px; float: left;"></div>
+    </div>
+  </div>
+
   <div id="headerOuter">
     <div id="header">
       <div class="logo"><a href="index.htm"><img src="main_images/logo.gif" alt="Eyse Lips Face UK" width="146" height="134" border="0"></a></div>
@@ -313,8 +365,9 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
           <a href="blog.htm">beauty blogs</a>&nbsp;&nbsp;|&nbsp;&nbsp;
           <a href="referafriend.htm">refer a friend</a>&nbsp;&nbsp;|&nbsp;&nbsp;
           <a href="ourphilosophy.htm">our philosophy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="useraccount.htm">my account</a>
-			</div><div class="basket">
-            <a href="http://www.facebook.com/pages/elf-Cosmetics/8993201739" target="_blank"><img src="main_images/facebook.gif" alt="Join us on Facebook" border="0" align="absmiddle">&nbsp;join us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</div>
+        <div class="basket">
+            <a href="http://www.facebook.com/pages/elf-Cosmetics/8993201739" target="_blank"><img src="main_images/social_icons_facebook.jpg" alt="Join us on Facebook" border="0" align="absmiddle"></a>&nbsp;<a href="https://twitter.com/#!/ELFCosmeticsUK" target="_blank"><img src="main_images/social_icons_twitter.jpg" alt="Follow us on Twiter" width="21" height="21" border="0" align="absmiddle"></a>&nbsp;<a href="http://pinterest.com/elfcosmeticsuk/" target="_blank"><img src="main_images/social_icons_pinterest.jpg" alt="Pinterest us" width="21" height="21" border="0" align="absmiddle"></a>&nbsp;<a href="http://www.youtube.com/user/elfcosmeticsUK" target="_blank"><img src="main_images/social_icons_youtube.jpg" alt="See us on You Tube" width="21" height="21" border="0" align="absmiddle"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <img src="/images/gb(1).jpg" alt="Choose your currency" border="0" onclick="location.href='privacy.asp?catID=&amp;prodID=&amp;cat=&amp;gtlID=&amp;currency=GBP&amp;ShippingRegion=&amp;redirect=true'" style="cursor: pointer; cursor: hand;" align="absmiddle">&nbsp;&nbsp;<img src="/images/eu.jpg" alt="Choose your currency" border="0" onclick="location.href='privacy.asp?catID=&amp;prodID=&amp;cat=&amp;gtlID=&amp;currency=EUR&amp;ShippingRegion=&amp;redirect=true'" style="cursor: pointer; cursor: hand;" align="absmiddle">&nbsp;&nbsp;<img src="/images/flag_denmark.jpg" alt="Choose your currency" border="0" onclick="location.href='privacy.asp?catID=&amp;prodID=&amp;cat=&amp;gtlID=&amp;currency=DKK&amp;ShippingRegion=&amp;redirect=true'" style="cursor: pointer; cursor: hand;" align="absmiddle">&nbsp;&nbsp;<img src="/images/flag_norway.jpg" alt="Choose your currency" border="0" onclick="location.href='privacy.asp?catID=&amp;prodID=&amp;cat=&amp;gtlID=&amp;currency=NOK&amp;ShippingRegion=&amp;redirect=true'" style="cursor: pointer; cursor: hand;" align="absmiddle">&nbsp;&nbsp;<img src="/images/flag_sweden.jpg" alt="Choose your currency" border="0" onclick="location.href='privacy.asp?catID=&amp;prodID=&amp;cat=&amp;gtlID=&amp;currency=SEK&amp;ShippingRegion=&amp;redirect=true'" style="cursor: pointer; cursor: hand;" align="absmiddle">&nbsp;&nbsp;
             <img src="main_images/flag_italy.jpg" border="0" align="absmiddle" onclick="location.href='http://www.eyeslipsface.it/'" style="cursor: pointer; cursor: hand;">&nbsp;
             <img src="main_images/spain.jpg" border="0" align="absmiddle" onclick="location.href='http://www.elfcosmeticos.es/'" style="cursor: pointer; cursor: hand;">&nbsp;
@@ -322,7 +375,7 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
             <img src="main_images/slovak.jpg" border="0" align="absmiddle" onclick="location.href='http://www.elfkozmetika.sk/'" style="cursor: pointer; cursor: hand;">&nbsp;&nbsp;&nbsp;&nbsp;
               <a href="customerservices.htm">customer services</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
               <img src="main_images/nav_shoppingbag.gif" alt="Shopping bag" width="19" height="18" align="absbottom">&nbsp;&nbsp;<a href="cart.htm">shopping&nbsp;bag</a>&nbsp;:&nbsp;<br>
-              items&nbsp;(0); value&nbsp;£0.00</div>
+      items&nbsp;(0); value&nbsp;£0.00</div>
     
             <div class="search" style="width:690px;">
               <form action="searchresults.asp" method="post" name="searchFRM" id="searchFRM">
@@ -349,9 +402,10 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
         <ul style="background: #fff;">
           <li id="secondLvl">
             <ul style="background: #fff;" class="col">
-              <li id="thirdLvl"><a href="/product~prodID~285.htm">essential 32pc eye palette</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~305.htm">100pc eye shadow collection</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~466.htm">glitter eyeshadow</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~463.htm">primer eyeshadow</a></li>
               <li id="thirdLvl"><a href="/product~prodID~16.htm">all over color stick</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~457.htm">smokey eyeshadow palette</a></li>
               <li id="thirdLvl"><a href="/product~prodID~184.htm">beauty books</a></li>
               <li id="thirdLvl"><a href="/product~prodID~14.htm">brightening eye colour</a></li>
               <li id="thirdLvl"><a href="/product~prodID~13.htm">brightening eye liner</a></li>
@@ -360,13 +414,14 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
               <li id="thirdLvl"><a href="/product~prodID~67.htm">duo eye shadow cream</a></li>
               <li id="thirdLvl"><a href="/product~prodID~11.htm">earth and water mascara duo</a></li>
               <li id="thirdLvl"><a href="/product~prodID~149.htm">eyelid primer</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~359.htm">6pc eyeshadow set</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~440.htm">beauty on the go compact</a></li>
               <li id="thirdLvl"><a href="/product~prodID~297.htm">lengthening &amp; defining mascara</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~385.htm">pro mini eyeshadow palette</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~319.htm">48pc eyeshadow collection</a></li>
               <li id="thirdLvl"><a href="/product~prodID~289.htm">cream eyeshadow palette</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~442.htm">beauty on the go 3-palette storage case</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~290.htm">beauty school - eyeshadow palette</a></li>
               <li id="thirdLvl"><a href="/product~prodID~324.htm">6 in 1 beauty to go</a></li>
               <li id="thirdLvl"><a href="/product~prodID~69.htm">false lashes</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~74.htm">get the look</a></li>
               <li id="thirdLvl"><a href="/product~prodID~66.htm">liquid eyeliner</a></li>
               <li id="thirdLvl"><a href="/product~prodID~151.htm">liquid eyeshadow</a></li>
               <li id="thirdLvl"><a href="/product~prodID~188.htm">shimmer eyeliner pencil</a></li>
@@ -383,6 +438,7 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
           <li id="secondLvl">
             <ul style="background: #fff;" class="col">
               <li id="thirdLvl"><a href="/product~prodID~18.htm">all over color stick</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~468.htm">shimmer lip gloss</a></li>
               <li id="thirdLvl"><a href="/product~prodID~25.htm">custom lips</a></li>
               <li id="thirdLvl"><a href="/product~prodID~23.htm">long wear lip liner</a></li>
               <li id="thirdLvl"><a href="/product~prodID~21.htm">hypershine lip gloss</a></li>
@@ -411,6 +467,7 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
               <li id="thirdLvl"><a href="/product~prodID~30.htm">tinted moisturiser spf 15</a></li>
               <li id="thirdLvl"><a href="/product~prodID~68.htm">tone correcting concealer</a></li>
               <li id="thirdLvl"><a href="/product~prodID~193.htm">zit zapper</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~426.htm">beauty encyclopedia</a></li>
             </ul>
           </li>
         </ul>
@@ -441,16 +498,16 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~152.htm">eye liner</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~81.htm">eyeshadow</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~150.htm">eyeshadow primer</a></li>
-              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~89.htm">eyeshadow set</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~244.htm">mineral eye brightener</a></li>
             </ul>
           </li>
           <li id="secondLvl" style="width: 173px;">
             <a href="#" class="catmineral catHeadlips" style="width: 165px; height:23px; line-height: 23px;">lips</a>
             <ul style="background: #fff;" class="col">
-              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~153.htm">lip gloss</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~87.htm">lipstick</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~153.htm">lip gloss</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~154.htm">lip liner</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~273.htm">moisturising lip tint spf 8</a></li>
             </ul>
           </li>
           <li id="secondLvl" style="width: 173px;">
@@ -463,6 +520,7 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~86.htm">mineral booster</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~85.htm">mineral glow</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~271.htm">personal blend foundation spf 15</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~453.htm">mineral face cleanser</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~88.htm">kabuki brushes</a></li>
             </ul>
           </li>
@@ -504,7 +562,9 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
           <li id="secondLvl" style="width: 173px;">
             <a href="#" class="catstudio catHeadeyes" style="width: 165px; height:23px; line-height: 23px;">eyes</a>
             <ul style="background: #fff;" class="col">
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~455.htm">kohl eyeliner</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~179.htm">cream eyeliner</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~470.htm">studio lash extending mascara</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~116.htm">eye primer and liner sealer</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~121.htm">eyebrow kit</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~113.htm">eyebrow lifter and filler</a></li>
@@ -513,9 +573,13 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~117.htm">eyeliner &amp; shadow stick</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~118.htm">lengthening and volumising mascara</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~181.htm">mineral infused mascara</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~434.htm">volume plumping mascara</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~145.htm">single eyeshadow</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~265.htm">studio cream eyeshadow</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~436.htm">high definition undereye setting powder</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~349.htm">exact lash mascara</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~311.htm">studio mascara primer</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~423.htm">complete the look palette</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~245.htm">studio matte eyeshadow</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~246.htm">studio pigment eyeshadow</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~126.htm">under eye concealer &amp; highlighter</a></li>
@@ -543,8 +607,10 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
           <li id="secondLvl" style="width: 173px;">
             <a href="#" class="catstudio catHeadface" style="width: 165px; height:23px; line-height: 23px;">face</a>
             <ul style="background: #fff;" class="col">
-              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~269.htm">studio cream blush</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~160.htm">blush</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~450.htm">shimmer sheets</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~269.htm">studio cream blush</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~429.htm">wrinkle refiner</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~123.htm">blush and bronzer compact</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~124.htm">bronzers</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~180.htm">concealer</a></li>
@@ -553,12 +619,14 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~162.htm">corrective concealer</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~144.htm">high definition powder</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~176.htm">mineral infused face primer</a></li>
-              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~316.htm">makeup lock &amp; seal</a></li>
-              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~161.htm">pressed powder</a></li>
-              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~258.htm">complete coverage concealer</a></li>
-              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~268.htm">flawless finish foundation</a></li>
-              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~237.htm">tinted moisuriser spf 20</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~272.htm">radiance enhancer</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~270.htm">studio body glow</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~161.htm">pressed powder</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~316.htm">makeup lock &amp; seal</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~258.htm">complete coverage concealer</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~417.htm">studio body shimmer</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~268.htm">flawless finish foundation</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~237.htm">tinted moisturiser spf 20</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~163.htm">shimmer palette</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~122.htm">translucent matte powder</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~207.htm">studio makeup mist &amp; set</a></li>
@@ -567,6 +635,8 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
           <li id="secondLvl" style="width: 173px;">
             <a href="#" class="catstudio catHeadbrushesandtools" style="width: 165px; height:23px; line-height: 23px;">brushes and tools</a>
             <ul style="background: #fff;" class="col">
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~460.htm">glitter eyeshadow applicator</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~438.htm">makeup remover pen</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~170.htm">11 piece brush collection</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~240.htm">2 in 1 sponge</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~247.htm">angled eyeliner brush</a></li>
@@ -578,6 +648,7 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~135.htm">complexion brush</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~314.htm">retractable lip brush</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~140.htm">concealer brush</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~444.htm">lotion wipes</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~139.htm">contour brush</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~168.htm">daily brush cleaner</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~239.htm">eye colour applicators (x 12)</a></li>
@@ -586,8 +657,8 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~137.htm">fan brush</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~169.htm">kabuki brushes</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~241.htm">lip gloss wands (x12)</a></li>
-              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~132.htm">makeup remover cleansing cloths</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~128.htm">makeup artist brush belt</a></li>
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~132.htm">makeup remover cleansing cloths</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~136.htm">powder brush</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~238.htm">mascara wands (x12)</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~173.htm">large brush holder</a></li>
@@ -603,15 +674,17 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
             <a href="#" class="catstudio catHeadkits" style="width: 165px; height:23px; line-height: 23px;">kits</a>
             <ul style="background: #fff;" class="col">
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~166.htm">dual mirror compact</a></li>
-              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~131.htm">hollywood eyelashes kit</a></li>
               <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~165.htm">makeup collections</a></li>
-              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~362.htm">day to night beauty on the go</a></li>
-              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~354.htm">studio makeup clutch palette</a></li>
             </ul>
           </li>
           <li id="secondLvl">
             <ul style="background: #fff;" class="col">
-              <li id="thirdLvl"><a href="/product~prodID~349.htm">exact lash mascara</a></li>
+            </ul>
+          </li>
+          <li id="secondLvl" style="width: 173px;">
+            <a href="#" class="catstudio catHeadtools" style="width: 165px; height:23px; line-height: 23px;">tools</a>
+            <ul style="background: #fff;" class="col">
+              <li id="thirdLvl" style="width: 173px;"><a href="/product~prodID~458.htm">zit eraser</a></li>
             </ul>
           </li>
         </ul>
@@ -636,7 +709,9 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
           <li id="secondLvl">
             <ul style="background: #fff;" class="col">
               <li id="thirdLvl"><a href="/product~prodID~38.htm">concealer brush</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~431.htm">powder brush</a></li>
               <li id="thirdLvl"><a href="/product~prodID~39.htm">total face brush</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~448.htm">10 piece brush set</a></li>
               <li id="thirdLvl"><a href="/product~prodID~40.htm">eyeliner brush</a></li>
               <li id="thirdLvl"><a href="/product~prodID~41.htm">eye shadow brush</a></li>
               <li id="thirdLvl"><a href="/product~prodID~42.htm">foundation brush</a></li>
@@ -644,7 +719,6 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
               <li id="thirdLvl"><a href="/product~prodID~44.htm">defining eye brush</a></li>
               <li id="thirdLvl"><a href="/product~prodID~45.htm">blending eye brush</a></li>
               <li id="thirdLvl"><a href="/product~prodID~46.htm">eyelash and brow wand</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~338.htm">gem tools - kabuki brush</a></li>
               <li id="thirdLvl"><a href="/product~prodID~262.htm">smudge brush</a></li>
               <li id="thirdLvl"><a href="/product~prodID~223.htm">eye crease brush</a></li>
               <li id="thirdLvl"><a href="/product~prodID~47.htm">lip defining brush</a></li>
@@ -659,43 +733,12 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
         </ul>
       </li>
       <li id="firstLvl">
-        <a href="/category~catID~25.htm" class="cat25">sale</a>
-        <ul style="background: #fff;">
-          <li id="secondLvl">
-            <ul style="background: #fff;" class="col">
-              <li id="thirdLvl"><a href="/product~prodID~410.htm">christmas makeup clutch palette</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~402.htm">6pc eyeshadow set</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~407.htm">100pc eye shadow collection</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~411.htm">makeup collections</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~396.htm">custom lips</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~400.htm">matte finisher clear nail polish</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~403.htm">day to night beauty on the go</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~397.htm">custom face</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~395.htm">custom eyes</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~409.htm">gem tools</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~405.htm">6 in 1 beauty to go</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~391.htm">nail polish</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~401.htm">lipstick</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~406.htm">48pc eyeshadow collection</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~399.htm">studio matte lip colour</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~404.htm">pro mini eyeshadow palette</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~393.htm">daily brush cleaner</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~394.htm">studio makeup mist &amp; set</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~392.htm">shimmer eyeliner pencil</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~398.htm">studio cream eyeliner</a></li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li id="firstLvl">
         <a href="/category~catID~6.htm" class="cat6">tools</a>
         <ul style="background: #fff;">
           <li id="secondLvl">
             <ul style="background: #fff;" class="col">
-              <li id="thirdLvl"><a href="/product~prodID~342.htm">gem tools - tool kit</a></li>
               <li id="thirdLvl"><a href="/product~prodID~335.htm">gem tools- travel mirror</a></li>
               <li id="thirdLvl"><a href="/product~prodID~332.htm">gem tools - tweezer and pouch</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~367.htm">gem tools - kabuki brush</a></li>
               <li id="thirdLvl"><a href="/product~prodID~53.htm">eye widener</a></li>
               <li id="thirdLvl"><a href="/product~prodID~70.htm">false lashes</a></li>
               <li id="thirdLvl"><a href="/product~prodID~60.htm">slant tweezer</a></li>
@@ -716,44 +759,61 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
         <ul style="background: #fff;">
           <li id="secondLvl">
             <ul style="background: #fff;" class="col">
-              <li id="thirdLvl"><a href="/product~prodID~360.htm">day to night beauty on the go</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~330.htm">eyelid primer</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~347.htm">radiance enhancer</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~363.htm">christmas makeup clutch palette</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~301.htm">luscious liquid lipstick</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~306.htm">100pc eye shadow collection</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~345.htm">lipstick</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~302.htm">natural radiance blusher</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~357.htm">6pc eyeshadow set</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~346.htm">studio glossy gloss</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~329.htm">brightening eye liner</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~387.htm">pro mini eyeshadow palette</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~464.htm">primer eyeshadow</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~472.htm">high definition powder</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~467.htm">glitter eyeshadow</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~276.htm">studio matte lip colour</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~465.htm">mineral eye liner</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~469.htm">shimmer lip gloss</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~249.htm">mineral eye shadow</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~471.htm">studio lash extending mascara</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~443.htm">beauty on the go 3-palette storage case</a></li>
               <li id="thirdLvl"><a href="/product~prodID~351.htm">studio glitter gloss</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~353.htm">studio pout perfector</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~320.htm">48pc eyeshadow collection</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~428.htm">wrinkle refiner</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~347.htm">radiance enhancer</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~451.htm">shimmer sheets</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~345.htm">lipstick</a></li>
               <li id="thirdLvl"><a href="/product~prodID~322.htm">6 in 1 beauty to go</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~459.htm">zit eraser</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~445.htm">studio lotion wipes</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~432.htm">powder brush</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~363.htm">makeup clutch palette</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~346.htm">studio glossy gloss</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~439.htm">makeup remover pen</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~422.htm">single eyeshadow</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~414.htm">studio body glow</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~461.htm">glitter eyeshadow applicator</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~446.htm">lip balm spf 15</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~433.htm">foundation</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~416.htm">studio body shimmer</a></li>
               <li id="thirdLvl"><a href="/product~prodID~317.htm">makeup lock &amp; seal</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~454.htm">mineral face cleanser</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~441.htm">beauty on the go compact</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~424.htm">complete the look palette</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~353.htm">studio pout perfector</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~330.htm">eyelid primer</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~462.htm">smokey eyeshadow palette</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~435.htm">volume plumping mascara</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~419.htm">mineral moisturising lip tint spf 8</a></li>
               <li id="thirdLvl"><a href="/product~prodID~318.htm">beauty books</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~308.htm">personal blend foundation spf 15</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~315.htm">studio retractable lip brush</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~456.htm">kohl eyeliner</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~447.htm">10 piece brush set</a></li>
               <li id="thirdLvl"><a href="/product~prodID~340.htm">studio lip liner and blend brush</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~266.htm">studio mascara primer</a></li>
               <li id="thirdLvl"><a href="/product~prodID~313.htm">corrective concealer - erase &amp; conceal</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~266.htm">studio mascara primer</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~315.htm">studio retractable lip brush</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~308.htm">personal blend foundation spf 15</a></li>
               <li id="thirdLvl"><a href="/product~prodID~348.htm">elements - custom eyes</a></li>
               <li id="thirdLvl"><a href="/product~prodID~298.htm">lengthening &amp; defining mascara</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~339.htm">gem tools - kabuki brush</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~350.htm">exact lash mascara</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~333.htm">gem tools - tweezer and pouch</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~355.htm">studio makeup clutch palette</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~344.htm">gem tools - tool kit</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~336.htm">gem tools- travel mirror</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~437.htm">high definition undereye setting powder</a></li>
               <li id="thirdLvl"><a href="/product~prodID~299.htm">smudge brush</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~350.htm">exact lash mascara</a></li>
               <li id="thirdLvl"><a href="/product~prodID~303.htm">super glossy lip shine spf 15</a></li>
               <li id="thirdLvl"><a href="/product~prodID~252.htm">studio pigment eyeshadow</a></li>
               <li id="thirdLvl"><a href="/product~prodID~325.htm">mineral booster</a></li>
               <li id="thirdLvl"><a href="/product~prodID~277.htm">studio cream eyeshadow</a></li>
               <li id="thirdLvl"><a href="/product~prodID~300.htm">brightening eye colour</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~309.htm">mineral lipstick</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~420.htm">waterproof eyeliner pen</a></li>
               <li id="thirdLvl"><a href="/product~prodID~310.htm">studio cream eyeliner</a></li>
               <li id="thirdLvl"><a href="/product~prodID~312.htm">studio blush</a></li>
             </ul>
@@ -765,19 +825,13 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
         <ul style="background: #fff;">
           <li id="secondLvl">
             <ul style="background: #fff;" class="col">
-              <li id="thirdLvl"><a href="/product~prodID~358.htm">6pc eyeshadow set</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~386.htm">pro mini eyeshadow palette</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~366.htm">100pc eye shadow collection</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~361.htm">day to night beauty on the go</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~425.htm">complete the look palette</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~449.htm">10 piece brush set</a></li>
               <li id="thirdLvl"><a href="/product~prodID~323.htm">6 in 1 beauty to go</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~321.htm">48pc eyeshadow collection</a></li>
               <li id="thirdLvl"><a href="/product~prodID~307.htm">beauty books</a></li>
               <li id="thirdLvl"><a href="/product~prodID~334.htm">gem tools- travel mirror</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~384.htm">essential 32pc eye palette</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~341.htm">gem tools - tool kit</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~365.htm">christmas makeup clutch palette</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~356.htm">studio makeup clutch palette</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~337.htm">gem tools - kabuki brush</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~365.htm">makeup clutch palette</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~430.htm">gift boxes</a></li>
               <li id="thirdLvl"><a href="/product~prodID~331.htm">gem tools - tweezer and pouch</a></li>
               <li id="thirdLvl"><a href="/product~prodID~185.htm">beauty encyclopedia</a></li>
               <li id="thirdLvl"><a href="/product~prodID~93.htm">e.l.f. professional 5 pc. brush collection</a></li>
@@ -785,9 +839,13 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
               <li id="thirdLvl"><a href="/product~prodID~92.htm">e.l.f. professional travel kit</a></li>
               <li id="thirdLvl"><a href="/product~prodID~95.htm">french manicure sets</a></li>
               <li id="thirdLvl"><a href="/product~prodID~75.htm">get the look</a></li>
-              <li id="thirdLvl"><a href="/product~prodID~99.htm">mineral eyeshadow set</a></li>
               <li id="thirdLvl"><a href="/product~prodID~96.htm">mineral starter kits</a></li>
               <li id="thirdLvl"><a href="/product~prodID~97.htm">mineral glow kit</a></li>
+            </ul>
+          </li>
+          <li id="secondLvl" style="width: 173px;">
+            <a href="#" class="catgifts catHeadgifts" style="width: 165px; height:23px; line-height: 23px;">gifts</a>
+            <ul style="background: #fff;" class="col">
             </ul>
           </li>
         </ul>
@@ -801,6 +859,7 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
               <li id="thirdLvl"><a href="/product~prodID~104.htm">dump bag</a></li>
               <li id="thirdLvl"><a href="/product~prodID~105.htm">organiser</a></li>
               <li id="thirdLvl"><a href="/product~prodID~106.htm">signature</a></li>
+              <li id="thirdLvl"><a href="/product~prodID~107.htm">wristlets</a></li>
             </ul>
           </li>
         </ul>
@@ -814,7 +873,6 @@ function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumb
     #maintabs li a.cat10, #maintabs li a.cat10:link, #maintabs li a.cat10:active, #maintabs li a.cat10:visited, #maintabs li a.cat10:hover { color: #000000; }
     #maintabs li a.cat13, #maintabs li a.cat13:link, #maintabs li a.cat13:active, #maintabs li a.cat13:visited, #maintabs li a.cat13:hover { color: #000000; }
     #maintabs li a.cat5, #maintabs li a.cat5:link, #maintabs li a.cat5:active, #maintabs li a.cat5:visited, #maintabs li a.cat5:hover { color: #000000; }
-    #maintabs li a.cat25, #maintabs li a.cat25:link, #maintabs li a.cat25:active, #maintabs li a.cat25:visited, #maintabs li a.cat25:hover { color: #; }
     #maintabs li a.cat6, #maintabs li a.cat6:link, #maintabs li a.cat6:active, #maintabs li a.cat6:visited, #maintabs li a.cat6:hover { color: #000000; }
     #maintabs li a.cat22, #maintabs li a.cat22:link, #maintabs li a.cat22:active, #maintabs li a.cat22:visited, #maintabs li a.cat22:hover { color: #FF0000; }
     #maintabs li a.cat9, #maintabs li a.cat9:link, #maintabs li a.cat9:active, #maintabs li a.cat9:visited, #maintabs li a.cat9:hover { color: #000000; }
@@ -922,7 +980,7 @@ We may amend this privacy policy from time to time by changing it on the Site. I
 				<a href="faq.htm">FAQs</a>&nbsp;
 			</div>
 			<div class="copyright">
-				Copyright © 2007-2011 ELF Cosmetics UK. <a href="http://www.onestepdesign.co.uk" target="_blank" title="Web design">Web design</a> by <a href="http://www.onestepdesign.co.uk" target="_blank" title="One Step Design">OSDUK</a>
+				Copyright © 2007-2012 ELF Cosmetics UK. <a href="http://www.onestepdesign.co.uk" target="_blank" title="Web design">Web design</a> by <a href="http://www.onestepdesign.co.uk" target="_blank" title="One Step Design">OSDUK</a>
 			</div>
 		</div>
 		<div id="bottomSpace"><!-- InstanceBeginEditable name="Home" --><!-- InstanceEndEditable --></div>
