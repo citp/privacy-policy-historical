@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwantanewgirlfriend.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009125030id_/http%3A//www.iwantanewgirlfriend.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantanewgirlfriend.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617090638id_/http%3A//www.iwantanewgirlfriend.com/privacy.asp) for the most accurate reproduction.*
 
 # :: I Want a New Girlfriend
 
