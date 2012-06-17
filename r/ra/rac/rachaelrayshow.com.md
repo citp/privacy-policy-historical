@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rachaelrayshow.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218190945id_/http%3A//www.rachaelrayshow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rachaelrayshow.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617112119id_/http%3A//www.rachaelrayshow.com/privacy) for the most accurate reproduction.*
 
 # Rachael Ray Show
 
@@ -30,6 +30,7 @@ Please read this Privacy Policy carefully. In addition, please review our [Terms
   * Chat Rooms, Forums, And Message Boards
   * Third Party Content and Links To Other Web Sites
   * Consent To Transfer
+  * California Visitors
   * Security
   * A Special Note For Parents Concerning Privacy
   * Notification Of Changes And Your Acceptance Of The Privacy Policy
@@ -160,6 +161,12 @@ Return to Top
 #### CONSENT TO TRANSFER 
 
 The Web Site is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Web Site or providing us with your information, you consent to this transfer. 
+
+Return to Top
+
+#### CALIFORNIA VISITORS 
+
+Residents of the State of California may request a list of all third parties to which the Web Site has disclosed certain information during the preceding year for the third parties' direct marketing purposes, if any. If you are a California resident and want such a list, please contact us. For all requests, you must put the statement "Your California Privacy Rights" in the body of your request and include the Web Site's name, "RachaelRayShow.com," as well as your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information. 
 
 Return to Top
 
