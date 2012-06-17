@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boardingarea.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120946id_/http%3A//www.boardingarea.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardingarea.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617212056id_/http%3A//www.boardingarea.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Boarding Area - Voices of the Business Traveler
+# Boarding Area - Voices of the Frequent Flyer
 
 ## Privacy Policy
 
