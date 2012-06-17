@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebieniche.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229191102id_/http%3A//www.freebieniche.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebieniche.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617130815id_/http%3A//www.freebieniche.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Freebie Niche - Make Money Showing People How To Get Free Stuff
 
