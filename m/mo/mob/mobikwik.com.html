@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mobikwik.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231204438id_/http%3A//www.mobikwik.com/privacyPolicy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mobikwik.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617180729id_/http%3A//www.mobikwik.com/privacyPolicy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -56,7 +56,7 @@
 <meta name="verify-v1" content="TBjs4ojL/r1eK3noWckkd0op1YZ9iDvFlDeR+wR+85k=">
 
 
-</head>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 
 
@@ -70,7 +70,7 @@
 	<div class="page-container"> <!-- Page container starts -->
 	
 		<div class="header"> <!-- Header starts -->
-			<a class="header-logo" href="/">
+			<a class="header-logo" href="landing.do">
 				<img src="http://static.mobikwik.com/views/images/header/logo.png" alt="Online Recharge" title="Online Recharge">
             </a>
             <ul class="header-nav">
@@ -87,8 +87,19 @@
 
 
 
+
+<script>
+
+try{
+	document.cookie = "mobiloginid"+"="+"undefined";
+}catch(e){
+	
+}
+</script>
+
+<div id="mobilogindiv" style="display:block">
 	<a href="#login-form" id="login-button" class="btnSmallIconRight"><span class="btnIconDownArrow">Login</span></a>
-	<div><a href="registrationForm.do" class="headerLink mTB10">Register</a></div>
+	<div><a href="http://www.mobikwik.com/registrationForm.do" class="headerLink mTB10">Register</a></div>
 	<div id="login-form"><a name="login-form"> </a>
 		<form name="j_spring_security_check" action="j_spring_security_check" method="post">
 			<table>
@@ -108,11 +119,233 @@
 				<span>Login</span>
 			</a>
 			</form>
-			<div><a href="registrationForm.do" class="loginFormLink"> Register with MobiKwik </a></div>
-			<div> <a href="forgotPassword.do" class="loginFormLink">Forgot password ?</a></div>
-            <div><a href="forgotEmailID.do" class="loginFormLink">Forgot Email ID ?</a></div>
-		
+			
+			<div><a href="http://www.mobikwik.com/registrationForm.do" class="loginFormLink"> Register with MobiKwik </a></div>
+			<div> <a href="http://www.mobikwik.com/forgotPassword.do" class="loginFormLink">Forgot password ?</a></div>
+            <div><a href="http://www.mobikwik.com/forgotEmailID.do" class="loginFormLink">Forgot Email ID ?</a></div>
+			</div>
            </div>
+           	<div id="fblogindiv" style="display:none">
+			
+			<img src="http://www.mobikwik.com/views/images/f-login.gif" onclick="divertToLoginForm()" style="cursor:pointer">
+			<br>
+			<span style="border-top-width: 1px; font-weight: bold; color: rgb(247, 139, 34); position: relative; right: 17%;">OR</span>
+			<br>
+			<a href="http://www.mobikwik.com/loginForm.do" class="loginFormLink"><span style="border-top-width: 1px; font: bold 12px/16px Helvetica,&quot;Trebuchet MS&quot;,&quot;DejaVu Sans&quot;,Arial,sans-serif;">Log in with Email</span></a>
+			
+			
+			</div>
+			
+			
+			<script>
+//alert("hi") ;
+		var gloablUid = "" ;
+		var globalEmailId = "" ;
+		var globalmobiLoginStatus = false ;
+var globalSignedRequest = "" ;
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '277496178971437', // App ID
+      channelUrl : '//www.mobikwik.com/landing.do', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+	
+    // Additional initialization code here
+	
+	FB.getLoginStatus(function(response) {
+  if (response.status === 'connected') {
+    // the user is logged in and connected to your
+    // app, and response.authResponse supplies
+    // the user's ID, a valid access token, a signed
+    // request, and the time the access token 
+    // and signed request each expire
+    //var uid = response.authResponse.userID;
+    //gloablUid = uid;
+    //var accessToken = response.authResponse.accessToken;
+	//alert(response.email);
+	//document.getElementById("logIn").style.display="none";
+	 //document.getElementById("registrationFrame").style.display="block";
+	//alert(response.authResponse.signedRequest);
+	//globalSignedRequest = response.authResponse.signedRequest ;
+	var urlVar = 'null' ;
+		var userIdName = 'null' ;
+		var pCode = 'null' ; 
+	//alert(userIdName+"  "+pCode);
+	/*if((userIdName == null || userIdName == "" || userIdName == "null" || userIdName == "undefined") && (pCode == null || pCode== "" || pCode == "null" || pCode == "undefined")){
+		document.getElementById("passcodepopup").style.display="block" ;
+	}*/
+/*	if(urlVar!= null && urlVar != "null" && urlVar != "undefined" && urlVar != "yes"){
+document.getElementById("passcodepopup").style.display="block" ;
+	}*/
+
+	/*if(!globalmobiLoginStatus){
+		document.getElementById("passcodepopup").style.display="block" ;
+	}*/
+	if(window.location.hash.length > 0 || urlVar == "yes"){
+		logInFOrFB();
+	}
+	
+	if(document.forms[0].j_username == null || document.forms[0].j_username == "null" || document.forms[0].j_username == "" || document.forms[0].j_username == "undefined"){
+		//document.getElementById("mobilogindiv").style.display="none" ;
+		//document.getElementById("fblogindiv").style.display="none" ;
+	}else{
+		document.getElementById("mobilogindiv").style.display="none" ;
+		document.getElementById("fblogindiv").style.display="block" ;
+	}
+	 
+	//testIfData() ;
+  } else if (response.status === 'not_authorized') {
+    // the user is logged in to Facebook, 
+    //but not connected to the app
+	//alert("not_authorized");
+	//document.getElementById("registrationFrame").style.display="block";
+  } else {
+ // alert("not connected");
+ //document.getElementById("logIn").style.display="block";
+ //document.getElementById("registrationFrame").style.display="block";
+    // the user isn't even logged in to Facebook.
+	//testIfData() ;
+  }
+ });
+  };
+  
+  
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     d.getElementsByTagName('head')[0].appendChild(js);
+   }(document));
+</script>
+<script> 
+     function displayUser(user) {
+	 //alert(user.email);
+       //var userName = document.getElementById('userName');
+       //var greetingText = document.createTextNode('Greetings, '
+        // + user.email + '.');
+  // userName.appendChild(greetingText);
+    	 globalEmailId= user.email;
+    	 gloablUid = user.id ;
+var urlVar = 'null' ;
+//alert(document.forms[0].j_username) ;
+if(urlVar == null || urlVar == "null" || urlVar == "undefined"){
+	if(document.forms[0].j_username == null || document.forms[0].j_username == "null" || document.forms[0].j_username == "" || document.forms[0].j_username == "undefined"){}else{
+		document.getElementById("mobiemailidfb").value = globalEmailId ;
+		document.getElementById("mobiemailidfb").disabled=true;
+		document.getElementById("passcodepopup").style.display="block" ;
+}
+
+        }
+
+    	/* if(document.getElementById("mobikwikLoginDiv").children[0].href.split("j_spring_security_logout").length >1){
+    		 document.getElementById("mobikwikLoginDiv").style.display="none" ;
+    		 document.getElementById("facebookLoginDiv").style.display="block" ;
+    		 document.getElementById("profilePicUSer").src = "https://graph.facebook.com/"+gloablUid+"/picture" ;
+    	 }else{
+    		 document.getElementById("passcodepopup").style.display="block" ;
+    	 }*/
+    	 
+     }
+
+	 function logInFOrFB(){
+	 
+     var appID = "277496178971437";
+     if (window.location.hash.length == 0) {
+       var path = 'https://www.facebook.com/dialog/oauth?';
+   var queryParams = ['client_id=' + appID,
+     'redirect_uri=' + window.location+'&fbl=1',
+	 'scope=email,read_stream,publish_stream',
+     'response_type=token'];
+   var query = queryParams.join('&');
+   var url = path + query;
+   //window.open(url);
+  window.location = path + query;
+  //window.location.reload() ;
+     } else {
+       var accessToken = window.location.hash.substring(1);
+       var path = "https://graph.facebook.com/me?";
+   var queryParams = [accessToken, 'callback=displayUser'];
+   var query = queryParams.join('&');
+   var url = path + query;
+
+   // use jsonp to call the graph
+       var script = document.createElement('script');
+       script.src = url;
+       document.body.appendChild(script);        
+     }
+	 
+	 }
+	 
+	 
+	 function loginMobi(val){
+		 if(document.getElementById(val).value != ""){
+			 document.getElementById("passcodepopup").style.display="none" ;
+			 document.forms[0].j_username.value = globalEmailId ;
+				document.forms[0].j_password.value = document.getElementById(val).value ; 
+				document.forms[0].submit() ;
+		 }else{
+			 document.getElementById("passcodepopup").style.display="block" ;
+			 return ;
+		 }
+		 
+		 
+	/*	 document.getElementById("mobikwikLoginDiv").style.display="none" ;
+		 document.getElementById("facebookLoginDiv").style.display="block" ;
+		 document.getElementById("profilePicUSer").src = "https://graph.facebook.com/"+gloablUid+"/picture" ;*/
+		
+	 }
+	 
+	 function divertToLoginForm() {
+		 window.location = "http://www.mobikwik.com/loginForm.do?flogin=1" ;
+		 
+	 }
+	 
+	 
+   </script>
+   
+   <div id="fb-root"></div>
+   
+   <div class="pop_main" id="passcodepopup" style="z-index:3; position:fixed">
+	<div class="pop_submain"></div>
+	<div>
+		<div class="pp_main2" style="border: 3px solid rgb(193, 193, 193); margin: 0px; top: 62px; height: 250px; width: 34%; left: 32%;">
+			<div id="fullclose" style="padding: 10px 10px 0 0; height: 80%;">
+				<a href="#"><img src="http://www.mobikwik.com/views/images/close_grey.png" alt="" onclick="alerts_hide('passcodepopup');" class="float_right">
+				</a>
+				<div class="option" style="padding-top: 1px; position: relative; top: 30px; font-size: 20px; width: 344px; left:70px;">
+					<span>Please enter your Mobikwik password. </span>
+					</div>
+					
+					<div class="option" style="padding-top: 1px; position: relative; top: 70px;">
+				<span style="margin-top: 1px; position: relative; right: 18%;">Mobikwik Email:&nbsp;</span><input type="text" id="mobiemailidfb" size="100" style="margin-top: 1px; position: relative; border: 1px solid rgb(204, 204, 204); width: 222px; right: 15%;">
+				
+				
+				</div>
+					
+					
+				<div class="option" style="padding-top: 1px; position: relative; top: 81px;">
+				<span style="margin-top: 1px; position: relative; right: 18%;">Mobikwik Password:&nbsp;</span><input type="password" id="mobiPassCode" style="margin-top: 1px; position: relative; border: 1px solid rgb(204, 204, 204); right: 15%; width: 222px;">
+				
+				
+				</div>
+				<div style="position: relative; top: 100px;">
+				<a href="#" id="mobiPassword" class="recharge-button-small" onclick="loginMobi('mobiPassCode')" style="position: relative; margin-left: 0px; right: 38%;"><span>
+								Login </span>
+						</a>
+						<a href="forgotPassword.do" style="position: relative; margin-left: 0px; right: 0%; top: 5px; left:20%"><span>	Forgot Password </span>
+						</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+   
+           
 
 
 
@@ -190,16 +423,17 @@
 		
 			
 		
-		<div class="footer-container"> <!-- /Footer Container Starts-->
+		<div class="footer-container" style="position: static;"> <!-- /Footer Container Starts-->
 
 			<div class="footer"> <!-- /Footer Starts -->
-				<div class="footer-content-wrapper"> <!-- /Footer Content Wrapper Starts -->
+				<div class="footer-content-wrapper" style="position: static;"> <!-- /Footer Content Wrapper Starts -->
 							
-				<div class="footer-content-box">
+				<div class="footer-content-box" style="padding-left: 25px; margin-left: 25px;">
 					<p class="heading">Operators</p>
 					 <ul>
-                      <li><a href="airtel-online-recharge">Airtel</a></li>
+                      	<li><a href="airtel-online-recharge">Airtel</a></li>
 						<li><a href="vodafone-online-recharge">Vodafone</a></li>
+						<li><a href="reliance-online-recharge">Reliance</a></li>
 						<li><a href="reliance-cdma-online-recharge">Reliance-CDMA</a></li>
 						<li><a href="reliance-gsm-online-recharge">Reliance-GSM</a></li>
 						<li><a href="tata-indicom-online-recharge">Tata Indicom</a></li>
@@ -213,21 +447,76 @@
 						<li><a href="videocon-online-recharge">Videocon</a></li>
 						<li><a href="uninor-online-recharge">Uninor</a></li>
 						<li><a href="loop-mobile-online-recharge">Loop</a></li>
-                      </ul>
+					</ul>
+				</div>
+
+				<div class="footer-content-box" style="padding-left: 25px; margin-left: 25px;">
+					<p class="heading">DTH</p>
+						<ul>
+							<li><a href="airtel-dth-recharge">Airtel DTH</a></li>
+							<li><a href="reliance-big-tv-recharge">Reliance Big TV</a></li>
+							<li><a href="videocon-d2h-recharge">Videocon D2H</a></li>
+							<li><a href="sun-direct-recharge-packages">Sun Direct</a></li>
+							<li><a href="tata-sky-recharge">TATA Sky</a></li>
+							<li><a href="dishtv-recharge-packages">Dish TV</a></li>
+						</ul>
+					
+					<p class="heading">Data Card</p>
+					<ul>
+						<li><a href="idea-net-setter-plans">Idea Net Setter</a></li>
+						<li><a href="mts-mblaze-data-card-plans">MTS Mblaze</a></li>
+						<li><a href="tata-photon-plus-prepaid-plans">Tata Photon Plus</a></li>
+						<li><a href="reliance-netconnect-3g-plans">Reliance Netconnect</a></li>
+					</ul>
 				</div>
 
 				<div class="footer-content-box">
+					<p class="heading">Help</p>
+					<ul>
+						<li><a href="http://blog.mobikwik.com/tour">MobiKwik Tour Videos</a></li>
+						<li><a href="http://www.mobikwik.com/howItWorks.do">How Stuff Works</a></li>
+						<li><a href="http://www.mobikwik.com/FAQS.do">Frequent Questions</a></li>
+						<li><a href="http://www.mobikwik.com/startSupport.do"><b>Customer Support</b></a></li>
+						<li><a href="http://www.mobikwik.com/termsConditions.do">Terms and Conditions</a></li>
+						<li><a href="http://www.mobikwik.com/privacyPolicy.do">Privacy Policy</a></li>
+						<li><a href="http://www.mobikwik.com/refundPolicy.do">Refund Policy</a></li>
+						<li><a href="http://www.mobikwik.com/views/mobikwik-balance.html">Why Mobikwik Balance</a></li>
+					</ul>
 					<p class="heading">Features</p>
 						<ul>
 							<li><a href="SmsRecharge.do">SMS Recharge</a></li>
                             <li><a href="MobileRechargeApplication.do">Java/Android Mobile Application</a></li>
 							<li><a href="secureProfile.do">Add Mobile Numbers</a></li>
 							<li><a href="rechargeFlowInit.do?rechargeAmount=1111111111&amp;cellNumber=1111111110">Add to MobiKwik Balance</a></li>
-							<li><a href="TXHistory.do">Print Recharge Bill</a></li>
-							<li><a href="TXHistory.do">View Transaction History</a></li>
+							<li><a href="TXhistory.do">Print Recharge Bill</a></li>
+							<li><a href="TXhistory.do">View Transaction History</a></li>
 							<li><a href="http://blog.mobikwik.com/api/">Mobile Recharge API</a></li>
 						</ul>
-					
+						
+				</div>
+
+
+				<div class="footer-content-box">
+					<p class="heading"><a href="http://www.mobikwik.com/PaymentOption.do">Payment Options</a></p>
+					<ul>
+						<li><a href="http://www.mobikwik.com/PaymentOption.do">Pay by Net Banking</a></li>
+						<li><a href="http://www.mobikwik.com/PaymentOption.do"><b>Pay by ATM Debit Card</b></a></li>
+						<li><a href="http://www.mobikwik.com/PaymentOption.do">Pay by Credit Card</a></li>
+						
+					</ul>
+			
+					<p></p>
+					<ul>
+						<li><img title="Visa-online-recharge" alt="Visa-online-recharge" src="http://www.mobikwik.com/views/images/paymentoptions/Visa-online-recharge.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img title="VisaElectron-online-recharge" alt="VisaElectron-online-recharge" src="http://www.mobikwik.com/views/images/paymentoptions/VisaElectron-online-recharge.gif"></li>
+					</ul>
+									
+					<p></p>
+					<ul>
+						<li><img title="MasterCard-online-recharge" alt="MasterCard-online-recharge" src="http://www.mobikwik.com/views/images/paymentoptions/MasterCard-online-recharge.gif"><!-- Maestro -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Maestro-online-recharge.gif" src="http://www.mobikwik.com/views/images/paymentoptions/Maestro-online-recharge.gif"></li>
+						<!-- <li>Pay by ItzCash Card</li>
+						<li>Pay by Cheque</li>
+						<li>Pay by PayPal</li> -->
+					</ul>
 					<p class="heading">Search</p>
 					<ul>
 						<li><a href="online-mobile-recharge">Search Recharge &amp; Topups</a></li>
@@ -237,68 +526,26 @@
 				</div>
 
 				<div class="footer-content-box">
-					<p class="heading">Help</p>
-					<ul>
-						<li><a href="http://blog.mobikwik.com/tour">MobiKwik Tour Videos</a></li>
-						<li><a href="howItWorks.do">How Stuff Works</a></li>
-						<li><a href="FAQS.do">Frequent Questions</a></li>
-						<li><a href="startSupport.do">Report a Problem</a></li>
-						<li><a href="termsConditions.do">Terms and Conditions</a></li>
-						<li><a href="privacyPolicy.do">Privacy Policy</a></li>
-						<li><a href="refundPolicy.do">Refund Policy</a></li>
-					</ul>
-					<p class="heading">Contact Us</p>
-					<ul>
-						<li><a href="startSupport.do">Customer Support</a></li>
-						<li><a href="mailto:support@mobikwik.com">Email</a></li>
-						<li><a href="http://www.facebook.com/Mobikwik">Facebook</a></li>
-						<li><a href="http://www.twitter.com/Mobikwik">Twitter</a></li>
-						<li><a href="contactUs.do">Address and Phone</a></li>
-                                                <li><a href="http://blog.mobikwik.com">Mobikwik Blog</a></li>   
-					</ul>
-				</div>
-
-
-				<div class="footer-content-box">
-					<p class="heading"><a href="PaymentOption.do">Payment Options</a></p>
-					<ul>
-						<li><b>Pay by ATM Debit Card</b></li>
-						<li>Visa Electron</li>
-						<li>Maestro</li>
-					</ul>
-			
-					<p></p>
-					<ul>
-						<li><b>Pay by Credit Card</b></li>
-						<li>Visa</li>
-						<li>Mastercard</li>
-						<li>American Express</li>
-						<li>Diner's Club</li>
-					</ul>
-									
-					<p></p>
-					<ul>
-						<li><b>Pay by Net Banking</b></li>
-						<li>Pay by ItzCash Card</li>
-						<li>Pay by Cheque</li>
-						<li>Pay by PayPal</li>
-					</ul>
-				</div>
-
-				<div class="footer-content-box">
 				<p class="heading">Company</p>
 					<ul>
-					<li><a href="http://blog.mobikwik.com/about/">About MobiKwik</a></li>
-					<li><a href="http://blog.mobikwik.com/testimonials/">Testimonials</a></li>
-					<li><a href="http://blog.mobikwik.com/team/">Team</a></li>
-					<li><a href="career.do">Jobs</a></li>
-					<li><a href="http://blog.mobikwik.com/pr">Press Releases</a></li>
+					<li><a href="http://blog.mobikwik.com/about/">About</a></li>
+					<li><a href="http://www.mobikwik.com/team">Team</a></li>
+					<li><a href="http://www.mobikwik.com/career.do">Jobs</a></li>
 					<li><a href="http://blog.mobikwik.com">Blog</a></li>
+					<li><a href="http://www.mobikwik.com/contactUs.do">Contact Us</a></li>
+					<li><a href="http://blog.mobikwik.com/testimonials/">Testimonials</a></li>
+					<li><a href="http://blog.mobikwik.com/pr">Press</a></li>
 					<li><a href="http://feeds.feedburner.com/MobiKwik">RSS Feeds</a></li>
 					</ul>                        	
 				<p></p>
 				<p></p>
-				<!-- BEGIN DigiCert Site Seal Code --><div id="digicertsitesealcode" style="width: 81px; margin: 5px auto 5px 5px;" align="center"><script language="javascript" type="text/javascript" src="https://www.digicert.com/custsupport/sealtable.php?order_id=00235159&amp;seal_type=a&amp;seal_size=large&amp;seal_color=blue&amp;new=1"></script><a href="http://www.digicert.com/">SSL Certificate</a><script language="javascript" type="text/javascript">coderz();</script></div><!-- END DigiCert Site Seal Code -->
+				<div id="DigiCertClickID_9GFW7kYM">
+					<a href="http://www.digicert.com/">SSL Certificate</a>
+				</div>
+				<script type="text/javascript">
+					var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_9GFW7kYM", "7", "m", "black", "9GFW7kYM"]);(function(){var cid=document.createElement("script");cid.type="text/javascript";cid.async=true;cid.src=("https:" === document.location.protocol ? "https://" : "http://")+"seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());
+				</script><script type="text/javascript" async="" src="https://seal.digicert.com/seals/cascade/seal.min.js"></script>
+				<!-- End DigiCert/ClickID site seal HTML and JavaScript -->
                                  </div>
 		
 				</div> <!-- /Footer Content wrapper -->
@@ -336,7 +583,7 @@
 	<script type="text/javascript" src="http://static.mobikwik.com/views/js/utility.js"></script>
 	<script type="text/javascript" src="http://static.mobikwik.com/views/js/tabs.js"></script>
 	-->
-	<script type="text/javascript" src="http://static.mobikwik.com/views/js/global.js"></script>
+	<script type="text/javascript" src="http://www.mobikwik.com/views/js/global.js"></script>
 	
 
 
