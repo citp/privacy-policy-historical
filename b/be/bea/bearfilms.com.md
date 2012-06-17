@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearfilms.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124031255id_/http%3A//bearfilms.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearfilms.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617152326id_/http%3A//bearfilms.com/privacy.html) for the most accurate reproduction.*
 
 # BearFilms.com - Privacy Policy
 
