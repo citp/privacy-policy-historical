@@ -1,59 +1,9 @@
-> *The following text is extracted and transformed from the earmaster.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216220838id_/http%3A//www.earmaster.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earmaster.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617180312id_/http%3A//www.earmaster.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # EarMaster Privacy Policy
 
-  * [Home](http://www.earmaster.com/)  
-  * [Ear Training](https://web.archive.org/eartraining/)
-    * [What is ear training?](https://web.archive.org/eartraining/)
-    * [Interval song examples](https://web.archive.org/intervalsongs/)
-    * [Ear training exercises](https://web.archive.org/eartraining/exercises.htm)
-    * [Ear training lessons](https://web.archive.org/eartraining/lessons.htm)
-  * [Products](https://web.archive.org/products/)
-    * [Features](https://web.archive.org/products/)
-    * [Comparison chart](https://web.archive.org/comparison.htm)
-    * [Description of activities](https://web.archive.org/eartraining/exercises.htm)
-    * [Video presentations](https://web.archive.org/presentation/)
-    * [Included lessons](https://web.archive.org/eartraining/lessons.htm)
-    * [Reviews in the press](https://web.archive.org/press/reviews.htm)
-  * [For Teachers](https://web.archive.org/school/)
-    * [EarMaster School](https://web.archive.org/school/)
-    * [Academic licenses](https://web.archive.org/licenses.htm)
-    * [Teacher testimonials](https://web.archive.org/teacher-testimonials.htm)
-    * [Institutions using EarMaster](https://web.archive.org/school/institutions.htm)
-    * [Reviews in the press](https://web.archive.org/press/reviews.htm)
-  * [Download](https://web.archive.org/download/)
-    * [EarMaster Essential 5](https://web.archive.org/download/essential.htm)
-    * [EarMaster Pro 5](https://web.archive.org/download/pro.htm)
-    * [EarMaster School 5](https://web.archive.org/download/school.htm)
-    * [Press material](https://web.archive.org/press/)
-  * [Shop](https://web.archive.org/orderinfo/)
-    * [Buy EarMaster](https://web.archive.org/orderinfo/)
-    * [Special offers](https://web.archive.org/offers.htm)
-    * [Affiliate plan](https://web.archive.org/affiliate/)
-    * [Reseller Area](https://web.archive.org/reseller/)
-    * [Distributors](https://web.archive.org/distributors.htm)
-  * [Community](https://web.archive.org/community/)
-    * [Community forum](https://web.archive.org/community/)
-    * [User comments](https://web.archive.org/user-comments.htm)
-    * [Artists](https://web.archive.org/endorsement.htm)
-  * [Support](https://web.archive.org/support/)
-    * [Support Portal](https://web.archive.org/support/)
-    * [FAQ](https://web.archive.org/support/faq.htm)
-    * [Support forum](https://web.archive.org/community/viewforum.php?f=2)
-    * [Register your product](https://web.archive.org/register/)
-    * [Serial number recovery](https://web.archive.org/register/recover-serial.htm)
-    * [Network installation](https://web.archive.org/support/network_install_guide.htm)
-  * [About us](https://web.archive.org/about-us.htm)
-    * [News](https://web.archive.org/news.htm)
-    * [Jobs](https://web.archive.org/job/)
-    * [Newsletter](https://web.archive.org/register/newsletter.htm)
-    * [Press material](https://web.archive.org/press/)
-    * [Contact](https://web.archive.org/contact.htm)
-    * [About EarMaster the company](https://web.archive.org/about-us.htm)
-
+|   
   
-| 
-
 **EarMaster Privacy Policy**
 
 EarMaster is committed to protecting the privacy of all information provided by our users. Please read the privacy policy below.
@@ -71,5 +21,5 @@ If you have any questions about our Privacy Policy, you may contact us at one of
 
 |     
 ---|---  
-Copyright © 1996-2011 - EarMaster ApS - All rights reserved  
+Copyright © 1996-2012 - EarMaster ApS - All rights reserved  
 [sitemap](https://web.archive.org/sitemap.php) | [privacy](https://web.archive.org/privacy-policy.htm) | [contact](https://web.archive.org/contact.htm)
