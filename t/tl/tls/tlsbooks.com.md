@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tlsbooks.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231113534id_/http%3A//www.tlsbooks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlsbooks.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617120523id_/http%3A//www.tlsbooks.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for visitors to tlsbooks.com
 
@@ -21,6 +21,9 @@ The following information about Google and the [DoubleClick DART cookie](http://
 
 #### Did you know that . . .
 
-this site depends on visitors like you for support. Many hours and resources have been allocated to bringing you these educational resources. If you print materials from tlsbooks.com, we hope you will consider a small yearly donation to enable us to keep the site available. [Click here](http://www.tlsbooks.com/supportthissite.htm "Consider a small yearly donation to help keep this site online.") for more information. 
+many hours and resources have been expended in order to provide you with these educational materials. The materials are available for you to print and use with your child or students in your class. When these materials are used in any other way, it is a violation of copyright law and defeats our original intentions. The use of our materials in any other manner than stated in our [terms](http://www.tlsbooks.com/tlsbookstermsofuse.htm "Read our terms of use or get permission to reuse materials from tlsbooks.com.") may lead to total discontinuation of this free service. Please honor our terms of use. Thank you. 
+
+  
+
 
 #### Your privacy is important to us.
