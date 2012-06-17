@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friendorfollow.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219081958id_/http%3A//www.friendorfollow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendorfollow.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618002053id_/http%3A//www.friendorfollow.com/privacy) for the most accurate reproduction.*
 
-# Who Unfollowed Me on Twitter? | Friend or Follow
+# Privacy Policy | Friend or Follow
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at dusty@dustyreagan.com. 
 
