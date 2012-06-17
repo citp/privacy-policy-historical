@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theyeogiyo.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217033610id_/http%3A//theyeogiyo.com/Main/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theyeogiyo.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617165143id_/http%3A//www.theyeogiyo.com/Main/privacy-policy.php) for the most accurate reproduction.*
 
 # The Yeogiyo | Privacy Policy
 
