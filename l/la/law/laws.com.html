@@ -1,39 +1,25 @@
-<!--The following is the downloaded HTML source of the laws.com privacy policy that was archived on 2011-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111010000126id_/http%3A//www.laws.com/category/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the laws.com privacy policy that was archived on 2012-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618013751id_/http%3A//www.laws.com/category/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<!--meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /-->
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<title>Privacy Policy</title>
-	<meta name="google-site-verification" content="EM1-rY08N330VudYv2Ob5jpFN6VtE5cUoCFEKbiQzUo">
-	<meta name="description" content="We provide the most relevant and accurate information about laws and attorney.">
+		<meta name="description" content="We provide the most relevant and accurate information about laws and attorney.">
 	<meta name="keywords" content=" lawyer,laws, attorney">
 	<link href="http://www.laws.com/fav.ico" rel="shortcut icon">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.laws.com/public/js/jquery-1.4.min.js"></script><script type="text/javascript" src="http://www.laws.com/public/js/script.js"></script><script type="text/javascript" src="http://www.laws.com/public/js/jquery.form.min.js"></script><script type="text/javascript" src="http://www.laws.com/public/js/jquery.colorbox-min.js"></script><script type="text/javascript" src="http://www.laws.com/public/js/swfobject.js"></script><link rel="stylesheet" type="text/css" href="http://www.laws.com/themes/default/images/style.css"><link rel="stylesheet" type="text/css" href="http://www.laws.com/themes/default/images/colorbox.css"><link rel="stylesheet" type="text/css" href="http://www.laws.com/themes/default/images/tips/tips.css">
-<!--[if IE]>
-<![endif]-->
-<script language="javascript">
-function displaycalldiv(div_id) {
-	$('#'+div_id).show();
-}
-function laywerSearch(f){
-	if(f.spec.value==''){
-		//alert('Please select a Specialty!');
-		if(f.state.value=='') alert('Please input your state!');
-		else{
-			var loc='http://attorney.laws.com/'+f.state.value;
-			window.location=loc;
-		}
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://img.laws.com/js/jquery-1.4.min.js"></script><script type="text/javascript" src="http://img.laws.com/js/jquery.form.min.js"></script><script type="text/javascript" src="http://img.laws.com/js/jquery.colorbox-min.js"></script><script type="text/javascript" src="http://img.laws.com/js/swfobject.js"></script><script type="text/javascript" src="http://img.laws.com/js/jquery.customselect.js"></script><script type="text/javascript" src="http://img.laws.com/js/script.js"></script><link rel="stylesheet" type="text/css" href="http://img.laws.com/images/v4/style.css"><link rel="stylesheet" type="text/css" href="http://img.laws.com/images/colorbox.css"><link rel="stylesheet" type="text/css" href="http://img.laws.com/images/tips/tips.css"><script language="javascript">
+function answerSearch(f){
+	if(f.key.value==''){
+		window.location='http://answers.laws.com';
 	}else{
-		var loc='http://attorney.laws.com/'+f.spec.value+'-attorney';
-		if(f.state.value!='') loc+='/'+f.state.value;
-		else if(f.zip.value!='') loc+='/'+f.zip.value;
-	  //loc=loc.replace(/-+/g,"-");
+		var loc='http://answers.laws.com/'+f.key.value;
 		window.location=loc;
 	}
 	return false;
 }
 function lawsSearch(f,s){
+	//SetCookie('searchMode','laws');
 	if(s){
 		if(f.key.value==''){
 			window.location='http://find.laws.com';
@@ -47,7 +33,7 @@ function lawsSearch(f,s){
 	if(f.spec.value==''){
 		alert('Please select a Specialty!');
 	}else{
-		var loc='http://find.laws.com/'+f.spec.value;
+		var loc='http://find.laws.com/'+f.spec.value.toLowerCase();
 		//if(f.state.value!='') loc+='/'+f.state.value;
 		if(f.key.value!='') loc+='/'+f.key.value.replace(/\W/g,"-");
 	  //loc=loc.replace(/-+/g,"-");
@@ -56,93 +42,105 @@ function lawsSearch(f,s){
 	}
 	return false;
 }
-function answerSearch(f){
-	if(f.key.value==''){
-		window.location='http://answers.laws.com';
+function laywerSearch(f){
+	//SetCookie('searchMode','lawyer');
+	if(f.spec.value==''){
+		alert('Please select Category!');
+		return false;
+		if(f.state.value=='') alert('Please select your state!');
+		else{
+			var loc='http://attorney.laws.com/'+f.state.value;
+			window.location=loc;
+		}
 	}else{
-		var loc='http://answers.laws.com/'+f.key.value;
+		var loc='http://attorney.laws.com/'+f.spec.value.toLowerCase().replace(/\W/g,"-")+'-attorney';
+		if(f.state.value!='') loc+='/'+f.state.value;
+		if(f.city.value!='') loc+='/'+f.city.value.replace(/\W/g,"-");
+		//else if(f.zip.value!='') loc+='/'+f.zip.value;
+	  //loc=loc.replace(/-+/g,"-");
 		window.location=loc;
 	}
 	return false;
 }
 $(function(){
 	$('#qucik-key').autocomplete({ 
-		url: '/ajax/autosearch_'
-	});
-	$('#text-laws-key').autocomplete({ 
 		url: '/ajax/autosearch_',
-		top: '50px'
+		top: '30px',
+		width: 340
 	});
 })
 </script>
 <script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-18673459-1']);
-_gaq.push(['_setDomainName', '.laws.com']);
-_gaq.push(['_trackPageview']);
-(function() {
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18673459-1']);
+  _gaq.push(['_setDomainName', '.laws.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+  })();
 </script>
 </head>
-<body style="overflow-x:hidden;">
-<!--–-INFOLINKS_OFF–--->
-<!-- START MAIN -->
-<div id="main">
-<!-- START WRAPPER -->
+<body>
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "9613893" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";;
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=9613893&cv=2.0&cj=1"; />
+</noscript>
+<!-- End comScore Tag -->
 <div id="wrapper">
-	
-	<!--HEADER-->
-		<div id="header">
-						<form action=" http://law.laws.com/ " id="cse-search-box1">
-				<input type="hidden" name="cx" value="partner-pub-0677520657540607:w68dzvbzpgh">
+		<a href="http://marketing.laws.com" class="top-right" style="background:none;width:143px;height:22px;padding-top:0px"><img src="http://www.laws.com/themes/default/images/attorney.gif" alt="Laws"></a>
+	<div id="top-menu">
+    	<a href="javascript:;" class="home" style="cursor:default;margin-right:0;width:4px;height:6px;position:relative\9;top:-8px\9;">&nbsp;</a>
+    	<a href="http://www.laws.com">Laws</a>
+        <a href="http://attorney.laws.com">Find an Attorney</a>
+                <a href="http://lawyer.laws.com">Guide To Lawyers</a>
+                <a href="http://find.laws.com" class="active">Find Laws</a>
+                <a href="http://legal-forms.laws.com">Legal Forms</a>
+        <a href="http://state-laws.laws.com">State Laws</a>
+            </div>
+    <div class="clearfix"></div>
+    <a href="http://www.laws.com" class="logo"><font style="font-size:14px;text-transform:none;line-height:28px">Legal Innovation Through Technology</font></a>
+      <div id="search">
+    	<!--<div class="margin"></div>-->
+        <div class="content">
+        	        	<div style="height:10px"></div>
+        	          <form action="http://law.laws.com/" id="cse-search-box1">
+				<input type="hidden" name="cx" value="009537753732463824233:yheuuizgblq">
     		<input type="hidden" name="cof" value="FORID:10">
     		<input type="hidden" name="ie" value="ISO-8859-1">
-        		<div class="logo">
-                	<a href="http://www.laws.com"><img src="http://www.laws.com/themes/default/images/logo.gif" alt=""></a>
-                </div>
-                <div class="right">
-                	<div align="right">
-                		                		<a href="http://www.laws.com/registration" rel="nofollow"><img src="http://www.laws.com/themes/default/images/attorney.gif" alt="Laws"></a></div>
-                	<div class="gap5"></div>
-                    <div class="gap2"></div>
-                	<div class="menu">
-                    	<ul>
-												<li><a href="http://www.laws.com" class="first">Home</a></li>
-                            <li><a href="http://attorney.laws.com">Find an Attorney</a></li>
-                            <li><a href="http://find.laws.com">Find Laws</a></li>
-                            <li><a href="http://legal-forms.laws.com">Legal Forms</a></li>
-                            <li><a href="http://state-laws.laws.com">State Laws</a></li>
-                        </ul>
-											<div class="fl">
-                    	<div class="gap2"></div>
-                        <div class="gap1"></div>
-                    	<div class="fl gap20"></div>
-                    	<div class="fl search-panel">
-	                    	<div><input type="text" id="qucik-key" name="q" value="Search Site" class="search-input" onfocus="if(this.value=='Search Site' || this.value=='') this.value='';" onblur="if(this.value=='') this.value='Search Site';"> 
-                        <input type="submit" value="SEARCH" name="sa" class="btn-search"></div>
-                        </div>
-                        <div class="clear"></div>
-                    </div>
-                    </div>
-                </div>
-            <div class="clear"></div>
-          </form>
+                        	<input type="text" id="qucik-key" name="q" value="Search Laws" onfocus="if(this.value=='Search Laws') {this.value='';$(this).css('font-weight','bold');}" onblur="if(this.value=='') {this.value='Search Laws';$(this).css('font-weight','normal');}" class="input-txt-big" style="font-weight:normal"> <input type="submit" name="sa" class="input-btn" value="Search">
+            </form>
+            <form name="quickls" class="hide" id="lawyersearch" method="get" action="http://www.laws.com/lawyer/list" onsubmit="if(this.spec.value=='Search Lawyer') this.spec.value='';return laywerSearch(this);" style="margin:0;padding:0">
+            	                <input type="text" id="qucik-spec" name="spec" value="Search Lawyer" onfocus="if(this.value=='Search Lawyer') {this.value='';$(this).css('font-weight','bold');}" onblur="if(this.value=='') {this.value='Search Lawyer';$(this).css('font-weight','normal');}" class="input-txt-big" style="font-weight:normal"> <input type="submit" class="input-btn" value="Search">
+            </form>
         </div>
-        <!--/HEADER-->
+    </div>
+       <div class="clearfix"></div>
 
 
- <script type="text/javascript" src="/public/js/swfobject.js"></script><link rel="stylesheet" type="text/css" href="/themes/default/images/blog.css">    <div id="content">
+ <div id="main-menu" style="height:6px !important; background-position:bottom !important;"></div>
+    <div id="content">
     <div id="main" class="clearfix clear">
     	
     	<div style="margin-top:10px;font-size:13px;line-height:20px;border:1px solid #ccc;padding:10px">
       	<h3 style="background:#eee;height:30px;line-height:30px;padding-left:5px;margin-bottom:10px">Privacy Policy</h3>
-        	<p><span class="style2">PRIVACY POLICY<br></span></p><span class="style2">Your
+				<div style="text-align:center;margin:10px">
+					<img src="http://www.laws.com/uploads/cms/20111126/4ed1b7dc6d55b.gif" onload="if(this.width>456) this.width=456">
+        </div>
+        	<p><span class="Apple-style-span" style="font-size: 14px; line-height: 18px; ">Your
  privacy is important to us at Laws.com. We are committed to respecting 
 your privacy and the confidentiality of your personal information, 
-traffic information and communications content. <br><br>This Privacy Policy describes our collection, use and sharing of personal information, which members voluntarily provide to us.<br><br><br>1. Collection of Information<br><br><br>Personal
+traffic information and communications content.&nbsp;</span></p><span class="style2"><br>This Privacy Policy describes our collection, use and sharing of personal information, which members voluntarily provide to us.<br><br><br>1. Collection of Information<br><br><br>Personal
  information. When you sign up for a particular service that requires 
 registration at our website, we ask you to provide us your personal 
 information. If we later use this information in a manner different from
@@ -303,8 +301,7 @@ transferred and becomes subject to a different privacy policy.<br><br><br>6. Cha
 you and your account. It is important, therefore, that you review this 
 Privacy Policy regularly to ensure that you are updated as to any 
 changes. <br><br>If you have questions or comments about this Privacy 
-Policy, please email to us info@laws.com or contact us at Laws.com, 1 
-International Blvd., Suite 203, Mahwah, NJ 07495.<br><br><br>Notice and Take-down procedures<br><br><br>If
+Policy, please email to us info@laws.com.<br><br><br>Notice and Take-down procedures<br><br><br>If
  you believe any material accessible on laws.com to infringe your 
 copyright, you may request immediate removal of those materials from the
  website by contacting laws.com editors (identified below) and providing
@@ -321,34 +318,28 @@ website or content.<br><br>Thank you for reading through the terms and
 conditions of laws.com. We hope that you enjoy hospital.com and its 
 content and spread it through your network of friends and family. Should
  you have any questions or comments regarding laws.com, they should be 
-directed at info@laws.com.<br><br><br></span><p class="style2"><u><span class="style3">Notice and Take-down 
-procedures</span></u><span class="style3"><br><br>If you believe any material 
-accessible on laws.com to infringe your copyright, you may request immediate 
-removal of those materials from the website by contacting laws.com editors 
-(identified below) and providing the following information:<br><br>1.&nbsp; 
-Identification of the copyrighted work you believe to be infringed.&nbsp; Please 
-describe the work, and where to find a copy of the authorized version of the 
-work.<br><br>2.&nbsp; Identification of the material that you believe to be 
-infringing and its location.&nbsp; Please describe the material, and provide us with 
-a URL and other pertinent information that allows us to locate the 
-material.<br><br>3.&nbsp; Contact information including your name, address, telephone 
-number and email<br><br>Email: 
-Editor@laws.com<br><br><u>Summary</u><br><br>Except as expressly provided in 
-a particular "legal notice" on the site, these terms and conditions and the laws .com Privacy Policy constitute the entire agreement between you and laws .com with the use of laws.com website or content.<br><br>Thank you 
-for reading through the terms and conditions of laws.com.&nbsp; We hope that you 
-enjoy laws.com and its content and spread it through your network of friends 
-and family.&nbsp; Should you have any questions or comments regarding laws.com, 
-they should be directed at our staff.</span></p>        </div>
+directed at info@laws.com.<br></span><br>        </div>
 
       
     </div>
     <!-- Main End -->
  </div>
-<!--replace-->
-<div class="gap10"></div>
+<div class="clearfix"></div>
+		<div id="search" style="float:none;width:620px;margin:auto;padding:0">
+        <div class="content" style="padding:10px 0 0 0">
+        	           <form action="http://law.laws.com/" id="cse-search-box1">
+				<input type="hidden" name="cx" value="009537753732463824233:yheuuizgblq">
+    		<input type="hidden" name="cof" value="FORID:10">
+    		<input type="hidden" name="ie" value="ISO-8859-1">
+            	<input type="text" name="q" value="Search Site" onfocus="if(this.value=='Search Site') this.value='';" onblur="if(this.value=='') this.value='Search Site';" class="input-txt-bigger"> <input type="submit" class="input-btn" value="Search">
+            </form>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+
 <!--FOOTER-->
 <div id="footer">
-	<div class="wrap">
+					<div class="wrap">
     	<div class="gap10"></div>
         <div>
         	<div class="top"></div>
@@ -357,26 +348,29 @@ they should be directed at our staff.</span></p>        </div>
                     	<div class="top-sec">
                         	<div class="left">
                             	<div class="fl hgap70"></div>
-                                <div class="fl">
-                                    <h1>Attorneys, Get Listed Today!<br>CALL &nbsp;(855) LAWS - COM</h1>
+                                <div class="fl" style="height:80px;">
+                                    <div class="attorney" style="margin:10px 60px;width:265px;background:transparent url(http://www.laws.com/themes/default/images/sprite.gif) -292px -400px no-repeat;height:44px;position:relative;cursor:pointer" onclick="window.location='http://marketing.laws.com'">
+                            				<img src="http://www.laws.com/themes/default/images/click-here.gif" style="position:relative;left:15px;top:23px;">
+                            				</div> 
+                            				<div class="clearfix"></div>	
                                 </div>
                                 <div class="fl gap20"></div>
-                                <div class="fl"><h1><a href="http://www.laws.com/registration" rel="nofollow"><img src="http://www.laws.com/themes/default/images/register-btn.gif"></a></h1></div>
-                                <div class="clear"></div>	
+                                                                <div class="clearfix"></div>	
                             </div>
                             <div class="fr gap20"></div> 
                         	<div class="right">
                         		                		<form id="footlogin" name="footlogin" action="/index/login_" method="post" rel="nofollow">
                             	<div class="fs13">Login Here. Don't have a Listing? <a name="signup" href="http://www.laws.com/registration" rel="nofollow" class="blue-black-3">Signup</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.laws.com/index/forgot" rel="nofollow" class="blue-black-3" style="font-size:11px;color:#999999">Forgot your password?</a></div>
-                                <div class="gap5"></div>
+                                <div style="height:5px"></div>
                                 <div id="flogininfo"></div>
                                 <div>
-                                	<div class="fl"><input type="text" name="zhm_email" value="Email Address" onfocus="if(this.value=='Email Address') this.value='';" onblur="if(this.value=='') this.value='Email Address';" class="input1"></div>
+                                	<div class="fl"><input type="text" name="zhm_email" value="Email Address" onfocus="if(this.value=='Email Address') this.value='';" onblur="if(this.value=='') this.value='Email Address';" class="input1" style="width:130px"></div>
                                     <div class="fl gap10"></div>
-                                    <div class="fl"><input type="password" id="pwd-pwd" name="zhm_pwd" class="input1"></div>
+                                    <div class="fl"><input type="password" id="pwd-pwd" name="zhm_pwd" class="input1" style="width:130px"></div>
                                     <div class="fl gap10"></div>
                                     <div class="fl"><input type="image" src="http://www.laws.com/themes/default/images/login-btn.gif" style="border:none" rel="nofollow"></div>
-                                    <div class="clear"></div>
+                                    <div class="clearfix"></div>
+                                    <div class="gap20"></div> 
                                     <input type="hidden" id="hidden-jumpUrl" name="jumpUrl" value="/user/afterlogin">                                </div>
                           </form>
                           
@@ -385,6 +379,14 @@ they should be directed at our staff.</span></p>        </div>
 	
 var ajaxImage = ['/public/images/ajaxloading.gif','/public/images/ok.gif','/public/images/error.gif'];
 var submitvalue = '';
+
+function highLightField(field,formid){
+	$("input",$("#"+formid)).removeClass("error_input");
+	$("input[name="+field+"]",$("#"+formid)).addClass("error_input");
+	$("textarea",$("#"+formid)).removeClass("error_input");
+	$("textarea[name="+field+"]",$("#"+formid)).addClass("error_input");
+	if ($.isFunction(window.customErrorField)) customErrorField(field,formid);
+}
 	
 $(function(){
 	
@@ -403,8 +405,8 @@ $(function(){
 		success: showResponsefootlogin
 	};
 	$('#footlogin').submit(function() {
-		$('#flogininfo').html('<IMG SRC="'+ajaxImage[0]+'"  BORDER="0" ALT="loading..." align="absmiddle"> Loading data, Please wait...');
-		$('#flogininfo').fadeTo("slow",0.85);
+		//$('#flogininfo').html('<IMG SRC="'+ajaxImage[0]+'"  BORDER="0" ALT="loading..." align="absmiddle"> Processing...');
+		//$('#flogininfo').fadeTo("slow",0.85);
 	 
 		submitvalue = $('input:submit',this).val();
 		//$('input:submit',this).val('Submiting, Please wait...');
@@ -416,28 +418,23 @@ $(function(){
 });
 function showResponsefootlogin(responseText, statusText)  {
     if(responseText.status==1){
-    	if(responseText.info!='') $('#flogininfo').html('<IMG SRC="'+ajaxImage[1]+'" BORDER="0" ALT="success..." align="absmiddle"> <span style="color:blue">'+responseText.info+'</span>');
+    	//if(responseText.info!='') $('#flogininfo').html('<IMG SRC="'+ajaxImage[1]+'" BORDER="0" ALT="success..." align="absmiddle"> <span style="color:blue">'+responseText.info+'</span>');
     	
     	if($('#hidden-jumpUrl',$('#footlogin')).val()!=undefined){
-    		setInterval("window.location.href=$('#hidden-jumpUrl',$('#footlogin')).val();",2500);
+    		setTimeout("window.location.href=$('#hidden-jumpUrl',$('#footlogin')).val();",2500);
     	}else{
-    		setInterval("window.location.reload()",2000);
+    		setTimeout("window.location.reload()",2000);
     	}
     }else{
-    	$('#flogininfo').html('<IMG SRC="'+ajaxImage[2]+'" BORDER="0" ALT="error..." align="absmiddle"> <span style="color:red">'+responseText.info+'</span>');
+    	//$('#flogininfo').html('<IMG SRC="'+ajaxImage[2]+'" BORDER="0" ALT="error..." align="absmiddle"> <span style="color:red">'+responseText.info+'</span>');
 			//$('input:submit',$('#footlogin')).val(submitvalue);
 			$('#flogininfo').fadeOut(2500);
 			if(responseText.data!=''){
-				highLightField(responseText.data);
+				highLightField(responseText.data,'footlogin');
 			}
     }
 }
-
-function highLightField(field){
-	$("input").removeClass("error_input");
-	$("input[name="+field+"]").addClass("error_input");
-	if ($.isFunction(window.customErrorField)) customErrorField(field);
-}		
+		
 </script>
 	<script language="javascript">
 $(function() { 
@@ -448,6 +445,7 @@ function showtext_pass(form, element, text) {
     phony.attr("type", "text");
     phony.attr("id", element.attr("id"));
     phony.attr("class","input1");
+    phony.css("width","130px");
     phony.val(text);
     phony.insertAfter(element);
     element.hide();
@@ -457,35 +455,67 @@ function showtext_pass(form, element, text) {
 }
 </script>                                 
                             </div>
-                            <div class="clear"></div>
+                            <div class="clearfix"></div>
                         </div>
                         <div class="gap25"></div>
                         <div class="mid-sec">
                         	<div class="fl hgap70"></div>
                             <div class="live-support" style="width:650px;background:none;padding-left:0px">
                             	
-                            	<div class="attorney" style="margin-left:200px;width:265px;background:transparent url(http://www.laws.com/themes/default/images/sprite.gif) -292px -400px no-repeat;height:44px;position:relative;cursor:pointer" onclick="window.location='http://www.laws.com/registration'">
-                            	<img src="http://www.laws.com/themes/default/images/click-here.gif" style="position:relative;left:15px;top:23px;">
-                            	</div> 
                             	<div class="gap10"></div>
                             
-                            	<div style="font-size:10px"><strong>Disclaimer</strong> <br>There is no confidential attorney-client relationship formed by using <a target="" title="" href="http://www.laws.com">Laws.com</a> website and information provided on this site is not legal advice. For legal advice, please contact your attorney. Attorneys listed on this website are not referred or endorsed by this website. By using <a target="" title="" href="http://www.laws.com">Laws.com</a> you agree to Laws.com <a target="" title="" href="http://www.laws.com/category/TermsOfUse">Terms Of Use</a>.<br></div>
+                            	<div style="font-size:11px"><strong>Disclaimer</strong> <br>There is no confidential attorney-client relationship formed by using Laws.com website and information provided on this site is not legal advice. For legal advice, please contact your attorney. Attorneys listed on this website are not referred or endorsed by this website. By using Laws.com you agree to Laws.com Terms Of Use.<br></div>
                             	
-                            	                                
+                                
                             </div>
-                            <div class="links" style="padding-left:50px">
-                            	<a href="#">&nbsp;</a>                            </div>
-                            <div class="fl gap50"></div>
-                            <!--div class="fl">
-                            	<div class="gap5"></div-->
-                            	                                                            <!--/div-->
-                            <div class="clear"></div>
+                            <div class="links" style="padding:0 10px 0 50px;width:140px;min-height:100px">
+                            	                            	<a href="http://www.laws.com/category/about" rel="nofollow">Contact Us</a>
+                            	<a href="http://www.laws.com/category/AboutUs" rel="nofollow">About Us</a>
+                            	<a href="http://www.laws.com/category/TermsOfUse" rel="nofollow">Terms of Use</a>
+                            	<a href="http://www.laws.com/category/PrivacyPolicy" rel="nofollow">Privacy Policy</a>
+                            	<a href="http://www.laws.com/category/AdvertisingPolicy" rel="nofollow">Advertising Policy</a>
+                            	<a href="http://advertising.laws.com" rel="nofollow">Advertise on Laws.com</a>
+                                                          </div>
+                            
+                            <div class="clearfix"></div>
                             <div class="gap25"></div>
                         </div>
                         
-                                                
-                        <div class="gap20"></div>
-												<div align="center">Copyright © 2010 Laws.com  |   All rights reserved.
+                                                <div style="padding:0 60px">
+			<div class="tracks" style="float:left;padding:10px 30px"><img name="trustseal" alt="Privacy Verified Seal" style="border: 0;" src="https://secure.trust-guard.com/seals/5945/privacy/header/gray"></div>
+
+						
+			<div class="tracks" style="float:left;padding:10px 30px">
+				<img style="border: none" alt="Privacy Policy by TRUSTe" src="//privacy-policy.truste.com/verified-seal/laws.com/green/h.png">
+			</div>
+			
+			<div class="tracks" style="float:left;padding:0px 30px">
+			<img src="http://www.laws.com/themes/default/images/membership/verisign.jpg" width="98" height="72" alt="">
+			</div>
+			
+			<div class="tracks" style="float:left;padding:10px 30px">
+				<script type="text/JavaScript">
+//<![CDATA[
+var sealServer=document.location.protocol+"//seals.websiteprotection.com/sealws/4e0415c1-3540-4ba5-8a31-1fda0a0607d7.gif";var certServer=document.location.protocol+"//certs.websiteprotection.com/sealws/?sealId=4e0415c1-3540-4ba5-8a31-1fda0a0607d7";var hostName="laws.com";document.write(unescape('<div style="text-align:center;margin:0 auto;"><img src="'+sealServer+'" alt="Website Protection&#153; Site Scanner protects this website from security threats." title="This Website Protection site seal is issued to '+ hostName +'. Copyright ? 2011, all rights reserved."oncontextmenu="alert(\'Copying Prohibited by Law\'); return false;" border="0" /></a><!--div id="bannerLink"><a href="https://www.godaddy.com/" target="_blank">Go Daddy</a></div--></div>'));
+//]]>
+</script><div style="text-align:center;margin:0 auto;"><img src="https://seals.websiteprotection.com/sealws/4e0415c1-3540-4ba5-8a31-1fda0a0607d7.gif" alt="Website Protection™ Site Scanner protects this website from security threats." title="This Website Protection site seal is issued to laws.com. Copyright ? 2011, all rights reserved." oncontextmenu="alert('Copying Prohibited by Law'); return false;" border="0"><!--div id="bannerLink"><a href="https://www.godaddy.com/" target="_blank">Go Daddy</a></div--></div>
+			</div>
+			
+			<div class="clearfix"></div>
+		</div>
+		                        
+                        
+                        <div class="gap10"></div>
+												<div align="center">Copyright © 2011 Laws.com  |   All rights reserved.
+<!-- Compete XL Code for laws.com -->
+<script type="text/javascript">
+__compete_code = '250a6b512229e7d50c8933dc0744d7c3';
+/* Set control variables below this line. */ 
+</script>
+<script type="text/javascript" src="//c.compete.com/bootstrap/s/250a6b512229e7d50c8933dc0744d7c3/laws-com/bootstrap.js"></script>
+<noscript>
+    <img width="1" height="1" src="https://ssl-laws-com-250a6b.c-col.com"/>
+</noscript>													
 												</div>
 												
                         <div class="gap15"></div>
@@ -498,8 +528,12 @@ function showtext_pass(form, element, text) {
     </div>
 </div>
 <!--/FOOTER-->
-</div>
-</div>
+
+
+<script language="javascript">
+function customErrorField(field,formid){
+	}
+</script>
 
 <div class="hide">
 <div id="confirmdiv" class="colorbox">
@@ -530,6 +564,16 @@ function showtext_pass(form, element, text) {
         </div>
         
     </div>
+</div>
+
+<div id="windiv">
+<div id="wininner">
+<div id="windivtitle">Tips</div>
+<div id="windivmsg"></div>
+<div id="winbtn">
+<input type="button" value="OK" class="defaultSubmit" onclick="$('#windiv').slideUp()">
+</div>
+</div>
 </div>
 
 <!-- Start of StatCounter Code -->
@@ -579,5 +623,4 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
 
-
-<!--93ae3fe119077ae33385be8d94414264--></body></html>
+<!--93ae3fe119077ae33385be8d94414264--></div></body></html>
