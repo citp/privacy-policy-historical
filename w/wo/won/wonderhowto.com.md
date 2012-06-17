@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderhowto.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227124548id_/http%3A//www.wonderhowto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderhowto.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617025932id_/http%3A//www.wonderhowto.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Wonder How To
 
@@ -42,7 +42,7 @@ We use industry standard security measures to protect against collected informat
 
 ### Links to Advertisers and Other Websites
 
-Advertisements and links to third-party advertisers may be displayed on the Website or emailed to you. Third-party ad servers use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. WonderHowTo does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks WonderHowTo to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html) and [here](http://www.networkadvertising.org/managing/opt_out.asp). The information advertisers or other third parties collect is governed by their privacy policies, not by this Privacy Policy. In addition, User Submissions may contain links to other websites. We are not responsible for the privacy practices or the content of web publishers, advertisers, or other websites that may be linked to the Website. 
+Advertisements and links to third-party advertisers may be displayed on the Website or emailed to you. Third-party ad servers use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. WonderHowTo does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks WonderHowTo to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.google.com/privacy_ads.html) and [here](http://www.networkadvertising.org/managing/opt_out.asp). The information advertisers or other third parties collect is governed by their privacy policies, not by this Privacy Policy. In addition, User Submissions may contain links to other websites. We are not responsible for the privacy practices or the content of web publishers, advertisers, or other websites that may be linked to the Website. 
 
 ### Acceptance of Privacy Policy
 
@@ -50,7 +50,7 @@ By using the Website, you are accepting the then-current Privacy Policy, which m
 
 ### Questions
 
-If you have any questions about our Privacy Policy, please contact us at [privacy@wonderhowto.com](mailto:privacy@wonderhowto.com). 
+If you have any questions about our Privacy Policy, please contact us at [privacy@wonderhowto.com](mailto:privacy@wonderhowto.com) . 
 
 ### Recent Updates
 
