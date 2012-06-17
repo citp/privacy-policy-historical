@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vinathemes.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015020623id_/http%3A//www.vinathemes.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinathemes.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617191806id_/http%3A//www.vinathemes.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Vina Themes: Privacy Policy - Free Premium Blogger and Wordpress Themes
 
