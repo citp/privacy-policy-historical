@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pba.com privacy policy that was archived on 2011-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218191239id_/http%3A//pba.com/Corporate/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pba.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617114405id_/http%3A//www.pba.com/Corporate/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -21,7 +21,7 @@
     <!-- master style sheet -->
     <link rel="stylesheet" href="/Content/css/02-global1.2.home.css" type="text/css" media="screen" charset="utf-8">
     <link rel="stylesheet" href="/Content/css/03-superfish.home.css" type="text/css" media="screen" charset="utf-8">
-    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.3.2.min.js"></script>
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.3.2.min.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.3/jquery-ui.min.js"></script>
     <script type="text/javascript">
         if (typeof jQuery == 'undefined') {
@@ -91,7 +91,7 @@
             $('#top-search').css('display', 'inline');
             //$('#google_ads_div_pba_livescoring_ad_container').css('width', '300');
             //END HACK
-
+            $('.connect_widget_number_cloud').css('display','none');
         });
     </script>
     
@@ -144,10 +144,19 @@
         GA_googleFetchAds();
     </script>
     <script src="http://www.xtraframe.tv/pba/scripts/inline.js"></script>
+    <!-- Use the script below if you want the pop-out ad in the NeuLion video to go left instead of right-->
+    <!--<script>iptv_direction="left";</script>-->
 </head>
-
-     
 <body>
+<div id="fb-root"></div>
+<script>    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));</script>
+
     <div id="wrapper">
         <div id="header" class="container_16">
             <div id="ad-search" class="grid_16 clearfix">
@@ -231,6 +240,7 @@
                                 <li><a href="/Resources/Faqs/">Frequently Asked Questions</a></li>
                                 <li><a href="http://www.pba.com/Content/Files/Members/PointList.pdf" target="_blank">Point List</a></li>
                                 <li><a href="http://www.pba.com/Content/Files/Members/rule_book_cropped.pdf" target="_blank">Rule Book</a></li>
+                                <li><a href="/Corporate/Scholarships/">Billy Welu Scholarship</a></li>
                                 <li><a href="/Resources/ProShops/">Pro Shops</a></li>
                                 <li><a href="http://www.ontheballbowling.com/shop/13" target="_blank">Custom Bowling Balls</a></li>
                                 <li><a href="/ProductRegistration/Manufacturers/">Approved Equipment</a></li>
@@ -428,12 +438,13 @@
 </div><!-- // side-ad  -->
 
 <div id="social-links">
-	<ul>
-		
-		<li><a target="_blank" href="http://www.new.facebook.com/pages/Professional-Bowlers-Association-PBA/16478974773" id="facebook">Facebook</a></li>
+ <ul>
+		<li>
+        <div class="fb-like" style="margin-bottom:10px;float:left;" data-href="https://www.facebook.com/ProfessionalBowlersAssociation" data-send="false" data-layout="box_count" data-width="50" data-show-faces="false" data-font="verdana"></div>
+        <div style="float:left;margin-top:42px;margin-left:0px;"><a style="float:left;padding:0px 0px 0px 3px;" target="_blank" href="https://www.facebook.com/ProfessionalBowlersAssociation">Facebook</a></div><br style="clear:both;">
+        </li>
 		<li><a target="_blank" href="http://feeds.feedburner.com/ProfessionalBowlersAssociationNews" id="RSSFeed">RSS Feed</a></li>
 		<li><a target="_blank" href="http://twitter.com/pbatour/" id="twitter">Twitter</a></li>
-		
 		<li><a target="_blank" href="http://www.youtube.com/user/PBAProBowlersAssn" id="youtube">YouTube</a></li>
 	</ul>
 	
@@ -451,20 +462,21 @@
                     <h4>Our Sponsors <a href="/Sponsors/" id="sponsor-showmore">More →</a></h4>
                     <div id="sponsor-tiles">
                         <ul>
+                            <li><a href="http://alkaseltzerplus.com/asp/" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/alkaseltzerplus.com/');" id="spons-alka-seltzer">Alka-Seltzer</a></li>
                             <li><a href="http://www.barbasol.com" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.barbasol.com/');" id="spons-barbasol">Barbasol</a></li>
                             <li><a href="http://scienceofpain.com" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.scienceofpain.com/');" id="spons-bayer">Bayer</a></li>
                             <li><a href="http://www.brunswickbowling.com" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.brunswickbowling.com/');" id="spons-brunswick">Brunswick</a></li>
                             <li><a href="http://www.budweiser.com" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.budweiser.com/');" id="spons-budweiser">Budweiser</a></li>
                             <li><a href="http://www.geico.com" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.geico.com/');" id="spons-geico">Geico</a></li>
                             
-                            <li><a href="http://www.gorving.com/" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.gorving.com/');" id="spons-go-rving">Go RVing</a></li>
+                            
                         </ul>
                         <ul>
                              <li><a href="http://www.jacklinks.com/" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.jacklinks.com/');" id="spons-jacklinks">Jack Link's</a></li>
                             <li><a href="http://www.justformen.com/" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.justformen.com/');" id="spons-justformen">Just For Men</a></li>
                             
                             
-                            <li><a href="http://www.oneaday.com/mens_proedge.html" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.oneaday.com/');" id="spons-oneaday">One A Day</a></li>
+                            
                             <li><a href="http://www.pepsi.com" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.pepsi.com/');" id="spons-pepsi">Pepsi</a></li>
                             <li><a href="http://www.bowl.com" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.bowl.com/');" id="spons-usbc">USBC</a></li>
                         </ul>
@@ -481,7 +493,7 @@
             <div class="inner">
                 <div class="grid_7">
                     <p>
-                        © 2000-2011
+                        © 2000-2012
                         Professional Bowlers Association.
                         <br>
                         All rights reserved.</p>
@@ -538,14 +550,15 @@
         <!-- // footer -->
     </div>
     <!-- // wrapper -->
-    <!--<div id="Pop" class="window">
+    <div id="Pop" class="window">
         <div><a class="close">X Close</a></div>
         
-        <a href="http://www.xtraframe.tv">
-        <img src="/Content/images/XF_Neulion.jpg" alt="XtraFrame" />
+        
+        <a href="http://www.facebook.com/ProfessionalBowlersAssociation">
+        <img src="/Content/images/PBA_Fan-A-Thon_520X300B.jpg" alt="XtraFrame">
         </a>
-    </div>-->
-    
+    </div>
+    <div id="mask"></div>
     
     
 
