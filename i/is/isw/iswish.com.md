@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iswish.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526075406id_/http%3A//www.iswish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iswish.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617065002id_/http%3A//www.iswish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iSwish
 
@@ -6,7 +6,7 @@
 
 The iSwish website is operated by iSwish Ltd (co number 2216785) and is referred to in this document as "we" "us" and "our". iSwish is committed to protecting and respecting the privacy of its users. In this policy we will outline our collection and usage practices. iSwish will maintain the confidentiality, security and integrity of all personal information collected.
 
-For additional information please review our [terms and conditions](http://iswish.com/terms-and-conditions).
+For additional information please review our [terms and conditions](http://www.iswish.com/terms-and-conditions).
 
 ## Collection of Personal Information
 
@@ -34,11 +34,11 @@ Account and other personal information will only be disclosed when one of the fo
 
 
 
-Please [contact us](http://iswish.com/contact-us) should you wish to request whether this information has been provided.
+Please [contact us](http://www.iswish.com/contact-us) should you wish to request whether this information has been provided.
 
 Whilst we will look to ensure all personal information shared is held in a secure and proper manner, we cannot be held responsible for failure by any of our business partners to deal with your personal information in accordance with our legal obligations. Should you be directed to other sites that are beyond our control, we recommend you refer to these companies own policies in relation to the protection of your personal information.
 
-If you wish to take dispute tribunal proceedings against another member, you can [contact us](http://iswish.com/contact-us) or the Disputes Tribunal for a statutory declaration, requesting contact details for the sole purpose of making a claim.
+If you wish to take dispute tribunal proceedings against another member, you can [contact us](http://www.iswish.com/contact-us) or the Disputes Tribunal for a statutory declaration, requesting contact details for the sole purpose of making a claim.
 
 ## Direct Marketing
 
@@ -52,7 +52,7 @@ It is our policy to remove any member from any mailing list upon their request.
 
 You may access your account details via your registered email and password which enables you to review and alter your personal information including changing your email address, password, phone number, etc. You are solely responsible for maintaining and updating your personal details and ensuring that this information is correct, current and complete and to have any inaccuracies in your information corrected promptly. iSwish will store previous email addresses against your profile to ensure compliance with our terms and conditions - in particular relating to the requirement of one account per member.
 
-Should you wish to close your account, please [contact us](http://iswish.com/contact-us) and we will act as soon as reasonably possible.
+Should you wish to close your account, please [contact us](http://www.iswish.com/contact-us) and we will act as soon as reasonably possible.
 
 ## Account Protection
 
@@ -97,22 +97,22 @@ We reserve the right to make changes to this privacy policy in the future as we 
 
 ## Contact
 
-Should you require any further information, regarding this privacy policy, please do not hesitate to contact us via the [contact us](http://iswish.com/contact-us) page.
+Should you require any further information, regarding this privacy policy, please do not hesitate to contact us via the [contact us](http://www.iswish.com/contact-us) page.
 
 ### So what can you do now?
 
-  * [Browse Mens](http://iswish.com/listings/mens/)
-  * [Browse Womens](http://iswish.com/listings/womens/)
-  * [Browse Kids](http://iswish.com/listings/kids/)
+  * [Browse Mens](http://www.iswish.com/listings/mens/)
+  * [Browse Womens](http://www.iswish.com/listings/womens/)
+  * [Browse Kids](http://www.iswish.com/listings/kids/)
 
 
-  * [Add an Item](http://iswish.com/add-item/)
-  * [Invite a Friend](http://iswish.com/invite-friend/)
-  * [View Your Profile](http://iswish.com/personal-profile/)
+  * [Add an Item](http://www.iswish.com/add-item/)
+  * [Invite a Friend](http://www.iswish.com/invite-friend/)
+  * [View Your Profile](http://www.iswish.com/personal-profile/)
 
 
-  * [Find your Mirror Match](http://iswish.com/mirror-search/)
-  * [Search for Items](http://iswish.com/search/)
-  * [My Wardrobe](http://iswish.com/my-wardrobe/)
+  * [Find your Mirror Match](http://www.iswish.com/mirror-search/)
+  * [Search for Items](http://www.iswish.com/search/)
+  * [My Wardrobe](http://www.iswish.com/my-wardrobe/)
 
 
