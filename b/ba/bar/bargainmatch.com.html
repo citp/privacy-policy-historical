@@ -1,98 +1,833 @@
-<!--The following is the downloaded HTML source of the bargainmatch.com privacy policy that was archived on 2008-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081203144425id_/http%3A//www.bargainmatch.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bargainmatch.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617203021id_/http%3A//cb.bargainmatch.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/themes/bargainmatch/favicon.ico" type="image/x-icon">
+<title>Privacy Policy</title> 
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script type="text/javascript" language="JavaScript">
+// This is the implementation of SimpleSwap
+// by Jehiah Czebotar
+// Version 1.1 - June 10, 2005
+// Distributed under Creative Commons
+//
+// Include this script on your page
+// then make image rollovers simple like:
+// <img src="/images/ss_img.gif" oversrc="/images/ss_img_over.gif">
+//
+// http://jehiah.com/archive/simple-swap
+// 
 
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="-1">
 
-<title>Privacy Policy for BargainMatch.com</title>
+function SimpleSwap(el,which){
+  el.src=el.getAttribute(which || "origsrc");
+}
 
-<meta name="keywords" content="{$meta_keywords|default:" "}"="">
+function SimpleSwapSetup(){
+  var x = document.getElementsByTagName("img");
+  for (var i=0;i<x.length;i++){
+    var oversrc = x[i].getAttribute("oversrc");
+    if (!oversrc) continue;
+      
+    // preload image
+    // comment the next two lines to disable image pre-loading
+    x[i].oversrc_img = new Image();
+    x[i].oversrc_img.src=oversrc;
+    // set event handlers
+    x[i].onmouseover = new Function("SimpleSwap(this,'oversrc');");
+    x[i].onmouseout = new Function("SimpleSwap(this);");
+    // save original src
+    x[i].setAttribute("origsrc",x[i].src);
+  }
+}
 
-<meta name="description" content="{$meta_description|default:" "}"="">
+var PreSimpleSwapOnload =(window.onload)? window.onload : function(){};
+window.onload = function(){PreSimpleSwapOnload(); SimpleSwapSetup();}
 
-<link rel="stylesheet" href="/style/default.css" type="text/css">
-<link rel="stylesheet" href="/style/tbshadow.css" type="text/css">
+function cc(theID, theClass) 
+{
+	whichID=document.getElementById(theID);
+	whichID.className=theClass;
+}
 
-<script language="JavaScript" type="text/javascript" src="/javascript/default.js"></script>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head>
-<body bgcolor="#FFFFFF">
+lastClass="hide";
 
-<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="206" rowspan="2"><a href="http://www.bargainmatch.com"><img src="/images/BargainMatchLogo.gif" width="206" height="70" border="0"></a></td>
-    <td width="627" rowspan="2"><form name="search" action="/search.php" method="get">
-        <table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="8"><img src="/images/spacer.gif" width="14" height="8"></td>
-            <td width="250"><!--<span class="header_blue">shopping<img src="/images/spacer.gif" width="5" height="1" align="top" /> </span><span class="header_blue_ul">coupons</span> --></td>
-            <td width="100%" rowspan="3" align="left" valign="bottom"><img src="images/spacer.gif" width="1" height="3">
-                <input class="searchButton" type="Submit" value="Search" name="Search"></td>
-          </tr>
-          <tr>
-            <td><img src="images/spacer.gif" width="8" height="1"></td>
-            <td><img src="images/spacer.gif" width="1" height="3"></td>
-          </tr>
-          <tr>
-            <td><img src="/images/spacer.gif" width="1" height="1"></td>
-            <td width="250"><input class="text_input" maxlength="255" size="41" name="product">
-            </td>
-          </tr>
-        </tbody></table>
-    </form></td>
-    <td width="510">&nbsp;</td>
-    <td width="8">&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div align="right"></div></td>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table>
-<br>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#e5ecf9">
-  <tbody><tr>
-    <td bgcolor="#4BAD24"><img src="images/spacer.gif" width="1" height="1"></td>
-    <td align="right" bgcolor="#4BAD24"><img src="images/spacer.gif" width="1" height="1"></td>
-  </tr>
-  <tr>
-    <td width="44%" bgcolor="#E1F2DA"><font size="+1">&nbsp;<span class="search_type">Privacy Policy</span></font></td>
-    <td width="56%" align="right" bgcolor="#E1F2DA"><font color="#000000" size="-1">&nbsp;&nbsp; </font></td>
-  </tr>
-</tbody></table>
-<br>
-<p>This statement discloses the privacy practices for BargainMatch.com and the BargainMatch Toolbar. Our goal is to provide product descriptions, prices, and reviews from thousands of our partner merchants in an easy-to-use format. </p>
-<p><strong> What Personally Identifiable Information of yours is collected?</strong></p>
-<p> When you visit BargainMatch.com, you may be asked to provide certain information about yourself (e.g., contact and demographic information), including when you download the BargainMatch Toolbar or contribute product review information. We use this information to learn more about you, so we can provide you with the relevant product content and information most attuned to your interests. You must be at least 13 years of age to download the Bargain Match Toolbar. </p>
-<p> Usage of the BargainMatch Toolbar does not collect, store, track, or communicate your personally identifiable information. Your web usage is totally anonymous. The application only response to our services when you shop on a partner merchant store what has live coupon inventory in our database or when you reach a product page where such product is also sold by a partner merchant. </p>
-<p><strong> COOKIES </strong></p>
-<p> To enable many of the features available at BargainMatch.com, we assign "cookies" to your Internet browser. A cookie is a small text file that contains a unique identification number stored on your computer. Cookies by themselves cannot be used to find out the identity of any user. This unique identification number automatically identifies your browser - but not you - to our computers whenever you interact with BargainMatch.com. Only when you agree to provide personally identifiable information directly to BargainMatch.com through our registration form will we be able to know anything about you other than the random number that our server computers originally assign to your browser. </p>
-<p> BargainMatch.com uses "cookie" technology to make your visits more convenient for you. We use cookies to give you the option of saving your email address so you don't have to enter it repeatedly when you are entering different sweepstakes and contest offered on BargainMatch.com and to identify where you came from and if you've been to BargainMatch.com before. These are set so we may better customize your experience on BargainMatch.com for your future visits. You are free to reject or "Not Accept" the placement of some or all of our cookies, but you will not be able to auto-enter your email address, participate in our instant win games or customize your future visits. </p>
-<p> There is a lot of confusion about cookies, how they are used, and what they can do. Cookies only contain information that the server computer "knew" in the first place, and can only be read by the serving domain that placed them. For instance, if XYZ.com (a fictitious company) utilizes cookies, BargainMatch.com's servers can't read their contents nor can XYZ.com's servers read ours. Cookies are an essential part of how the Internet works today, and allow server computers to recognize your computer's browser when you return. If you have ever visited a Web page that automatically provides personalized content without you having to "sign in," such as your own stock portfolio, this is almost certainly being accomplished with a cookie. Since cookies are only text files, they cannot "run" on your computer and have no ability to search your computer for other information, or transmit it to anyone. </p>
-<p><strong> What Organization is collecting the information?</strong></p>
-<p> The data you provide to BargainMatch.com is collected by Litmus Media, Inc. BargainMatch.com is a web site owned and operated by Litmus Media, Inc. </p>
-<p><strong> How the information is used?</strong></p>
-<p> The personal profile information you submit to BargainMatch.com remains your property, but by submitting that information you grant BargainMatch.com the right to use that information for marketing purposes. BargainMatch.com may also use such information to fulfill prizes, track compliance with our rules, or for content improvement and feedback purposes. </p>
-<p> Our services have been designed to enable personalized content to those members who wish to receive it. The majority of the services that are provided for free at BargainMatch.com are the result of advertising revenues. Our ability to provide enhanced services and content to our members is dependent on our ability to provide venues for our advertising partners that reach specific demographic segments of our member base. The better job BargainMatch.com does in providing a mechanism for advertisers to reach specific sub-segments of our members, the more revenue we can generate from advertising and that ultimately is what allows you to get to the wealth of free information that is available at BargainMatch.com. </p>
-<p><strong> How the information is shared</strong> ? </p>
-<p> We may share, rent or sell the personal information that you supply to us and we may join together with other businesses to bring selected retail opportunities to our members. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation. In addition, BargainMatch.com reserves the right to release current or past member information in the event BargainMatch.com believes that the membership is being or has been used in violation of the Rules or to commit unlawful acts, if the information is subpoenaed, if BargainMatch.com is sold or acquired, or when BargainMatch.com deems it necessary or appropriate. By agreeing to these terms, you hereby consent to disclosure of any record or communication to any third party when BargainMatch.com, in its sole discretion, determines the disclosure to be appropriate. </p>
-<p><strong> What kind of security procedures are in place to protect against the loss, misuse, or alteration of information under the company's control? </strong></p>
-<p> BargainMatch.com operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our members. </p>
-<p><strong> Third-Party Links </strong></p>
-<p> For your convenience BargainMatch.com contains links to third-party merchant websites that are not owned or controlled by us. We are not responsible for the privacy practices of these other Web sites. We encourage you to note when you leave BargainMatch.com and to read the privacy statements of these other Web sites. This Privacy Policy applies solely to information collected through BargainMatch.com. </p>
-<p><strong> Children</strong></p>
-<p> You must be at least 13 years of age to register and use BargainMatch.com. If you are under 13, you will not be allowed to register with BargainMatch.com. BargainMatch.com has implemented this policy and technology to comply with the Federal Children's Online Privacy Protection Act of 1998 (COPPA). </p>
-<p><strong> Contacting BargainMatch.com </strong></p>
-<p> BargainMatch.com respects your privacy and uses the information you provide us with integrity and full disclosure. If you ever feel this policy has been broken, let us know. If you have any questions about this Privacy Policy, the practices of BargainMatch.com, or your dealings with us, please contact us by email to support @ litmusmedia.com or by postal mail to: BargainMatch.com, 310 Armour Road, Suite 203, North Kansas City, MO 64116, Attn: Privacy Dept. </p>
-<!-- END HEADER -->
-<p>&nbsp;</p>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="center" class="copywrite"><a href="/about_us.php"><font color="0B2B68">About BargainMatch.com</font></a> &nbsp;|&nbsp; <font color="0B2B68">Contact Us</font> &nbsp;|&nbsp; <a href="/privacy.php"><font color="0B2B68">Privacy</font></a></td>
-  </tr>
-  <tr>
-    <td align="center" class="copywrite" id="copywrite">(C) Copyright 2005, Litmus Media, Inc. All Rights Reserved </td>
-  </tr>
-</tbody></table>
-<p>&nbsp;</p>
-</body></html>
+function toggleCats() 
+{
+	if (lastClass=="hide") 
+		{	currentClass="show"; currentBodyClass="showcats"; 	}
+	else{	currentClass="hide"; currentBodyClass="hidecats"; 	}
+	
+	whichID=document.getElementById('cats');
+	whichID.className=currentClass;
+	whichID=document.getElementById('body');
+	whichID.className=currentBodyClass;
+	lastClass=currentClass;
+}
+</script>
+<!--script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
+<script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js" type="text/javascript" charset="utf-8"></script> 
+<script src="http://jquery-ui.googlecode.com/svn-history/r3692/trunk/ui/jquery.ui.widget.js" type="text/javascript"></script> 
+<!-- Smooth Div Scroll 1.1 - minified for faster loading--> 
+<script src="/js/jquery.smoothDivScroll-1.1-min.js" type="text/javascript"></script> 
+
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/themes/base/jquery-ui.css" type="text/css"> 
+<style type="text/css">
+#ui-datepicker-div { font-size: 70%; } /* Override massive fonts */
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/jquery-ui.min.js"></script> 
+<script type="text/javascript" src="/js/zeroclipboard/ZeroClipboard.js"></script>
+
+<!--[if lte IE 6]>
+        <script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->
+
+<!-- the CSS for Smooth Div Scroll --> 
+<link rel="Stylesheet" type="text/css" href="/themes/bargainmatch/scroll/smoothDivScroll.css"> 
+<script type="text/javascript">
+	$(function() {
+			$("div#makeMeScrollable").smoothDivScroll({ autoScroll: "onstart", autoScrollStep: 1, autoScrollInterval: 15, startAtElementId: "startAtMe", visibleHotSpots: "always", autoScrollDirection: "endlessloopright"});
+	});
+
+</script>	
+<script type="text/javascript">
+function showLiveSearchResult(str)
+{
+if (str.length==0)
+  {
+  document.getElementById("livesearch").innerHTML="";
+  document.getElementById("livesearch").style.display="none";
+  return;
+  }
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	document.getElementById("livesearch").style.display="block";
+    document.getElementById("livesearch").innerHTML=xmlhttp.responseText;
+    }
+  }
+xmlhttp.open("GET","/store/livesearch/?q="+str,true);
+xmlhttp.send();
+}
+</script><link href="http://cb.bargainmatch.com/themes/bargainmatch/bargainmatch.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+.pageHeaderBar { 
+	position:absolute; /* absolute to overlay header | relative for above header */
+	border: none; 
+	padding: 0; 
+	margin: 0px 0px 0px 10px; 
+	width: 930px; 
+	height: 24px; 
+	text-align: right; /* left or right alignment */
+	background:url('/themes/bargainmatch/loginBGGrad.png') transparent repeat-x top left;
+	}
+
+.pageHeaderActions {
+	border: none; 
+	left: 610px; 
+	height: 24px;
+	width: 320px; 	 
+	float:right; 
+	text-align: left; 
+	padding: 0; 
+	margin: 0;
+}
+
+.pageHeaderBaroldie { 
+	border: none; 
+	margin: 0px 0px 0px 10px; 
+	padding: 0; 
+	width: 930px; 
+	height: 24px; 
+	text-align: right; /* left or right alignment */
+	background:url('/themes/bargainmatch/loginBGGrad.png') transparent repeat-x top left;
+	}
+
+.pageHeaderActionsoldie {
+	border: none; 
+	margin: 0px 0px 0px 610px; 
+	width: 330px;
+	float:right;
+	height: 24px;
+	text-align: left; 
+	padding: 0; 
+}
+
+
+#login	{ 
+	display: none; 
+	width:310px;
+	height:270px;
+	background:url('/themes/bargainmatch/popLoginTall.png') no-repeat top left;
+	position:absolute;
+	top:20px;
+	left:605px;
+	z-index: 3000; 
+}
+
+</style>	
+
+
+</head> 
+ 
+<body id="body"> 
+<div class="outerbox container"> 
+
+	<div class="header">
+		<div class="pageHeaderBar">
+			<div class="pageHeaderActions">
+				<div class="nav">
+				    <ul>
+				    					    	
+				    	<li><a href="javascript:void(0)" id="log-in"><span>Log In</span></a></li>
+				  								<li><a href="http://cb.bargainmatch.com/user/create"><span>Sign Up - FREE!</span></a></li>
+												<li><a href="http://cb.bargainmatch.com/contact"><span>Contact</span></a></li>
+						
+						
+				    </ul>
+				</div>
+			</div>
+		</div>
+		
+		<div id="login"> 
+			<div class="loginForm"><div class="popTitle"><div style="height:5px;"></div></div>
+				<br class="smallbr">
+				<form name="formLogin" action="/user/login" method="post"> 
+				<input type="hidden" name="submit" value="Log In">
+				<input type="hidden" name="target" value="user/reporting">
+					<div class="popLabel">Email address</div>
+					<div class="popInput"><input type="text" class="popInputForm" name="email" id="email" value=""></div>
+					<br class="smallbr">
+					
+					<div class="popLabel">Password</div>
+					<div class="popInput"><input type="password" class="popInputForm" name="password" id="pass" value=""></div>
+					<br class="smallbr">
+					
+			
+			
+										<div class="popLabel forgotPassword">
+						
+						
+						<img src="/themes/bargainmatch/iconHelp16.png" width="16" height="16" alt="" align="left"><a href="http://cb.bargainmatch.com/user/forgot_password" class="forgotPass">Forgot Password?</a> 
+					
+					
+					</div>
+										
+			
+				
+
+					<div class="popInput">
+						<input type="checkbox" name="remember" id="remember" value="1" class="nopadd nomarg">&nbsp;<label for="remember">
+						<span class="popCookie">Remember me</span></label>
+						<br class="smallbr">
+						<div class="butLoginPopupAlt"><input type="Image" class="" name="" value="Log In" src="/themes/bargainmatch/blank.png" width="90" height="27" alt=""></div>
+					</div>
+					<br class="smallbr">			
+				</form> 
+
+
+
+
+
+			
+			<div class="left" style="display:block; float:left; width: 260px; text-align:left; margin: 20px 10px 10px 20px;"> 
+
+					<p class="basicText" style="font-size: 11px; line-height: 14px;">
+					<span class="headline" style="font-size: 13px; line-height: 17px;">Connect with Facebook</span><br>
+					Already have an account on Facebook? Use it to sign in or join BargainMatch!<br>		
+
+					</p><div id="fb-root"></div>
+				    <script src="http://connect.facebook.net/en_US/all.js"></script>
+				    <script>
+			         FB.init({ 
+            			appId:'188796747822387', cookie:true, 
+			            status:true, xfbml:true, oauth: true 
+			         });
+					 FB.UIServer.setActiveNode = function(a,b){FB.UIServer._active[a.id]=b;} // IE hack to correct FB bug
+					</script>	
+										<script>
+					 FB.getLoginStatus(function(response) {
+					  if (response.authResponse) {
+						FB.api('/me', function(user) {
+						   if(user != null) {
+							  var email = user.email
+							  if(email){
+								  document.location = 'http://cb.bargainmatch.com/user/create/?email='+email+'&fbsignup=1&fbauto=1&productid=&target=%2Fprivacy&type=';
+							  }
+						   }
+						 });
+					  }
+					});
+
+      				</script>
+									 	<fb:login-button scope="email" onlogin="document.location = 'http://cb.bargainmatch.com/privacy/?fbt=1&amp;target=user%2Freporting'">Connect with Facebook</fb:login-button> 
+			
+				</div> 
+							
+			</div>
+			
+						<div class="loginCTA">
+				<div class="popTitleCTA">Sign Up!</div>
+				<br class="smallbr">
+				<div class="popTextCTA">Become a member, today. It's FREE and easy!
+					<br class="smallbr">&nbsp;<br class="smallbr">	
+										<a href="http://cb.bargainmatch.com/user/create">Click here - it's FREE!</a>
+										<br class="smallbr">
+				</div>
+			</div>
+						
+		</div>			
+
+<script type="text/javascript"> 
+ 
+	$(function() {
+		$('a#log-in, a.login').click(function(){$('#login').slideToggle();});
+	
+		if($('#login em').html()==''){$('#login').hide();}
+		else{ $('#login em').hide(); $('#login em').slideDown(); }
+		
+		$('b.top a').each(function (i, el) {
+				$(el).prepend(i+1+'. ');
+	      });
+		
+	})
+	
+</script> 		
+		<script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script>
+<script type="text/javascript">
+    new HelloBar(27491,33417);
+</script>
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+<!-- start Mixpanel --><script type="text/javascript">(function(d,c){var a,b,g,e;a=d.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===d.location.protocol?"https:":"http:")+'//api.mixpanel.com/site_media/js/api/mixpanel.2.js';b=d.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b);c._i=[];c.init=function(a,d,f){var b=c;"undefined"!==typeof f?b=c[f]=[]:f="mixpanel";g="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config".split(" ");
+for(e=0;e<g.length;e++)(function(a){b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,0)))}})(g[e]);c._i.push([a,d,f])};window.mixpanel=c})(document,[]);
+mixpanel.init("76b4a1206a4b5955a461103e6781a931");</script><!-- end Mixpanel -->
+<a href="/"><img src="/themes/bargainmatch/bargainmatch.png" width="280" height="59" alt="Big Savings + Cash Back!" border="0" class="logo"></a>
+<script type="text/javascript">mixpanel.track("Visit");</script>
+
+
+	</div>
+
+
+	<div class="innerbox navbar"> 
+	
+	<!-- ******************************************************************** -->
+	<!-- **** START TOP NAV BAR WITH SEARCH & CATEGORIES **** -->
+	<!-- ******************************************************************** -->
+	<!-- **** START TOP NAV **** -->
+		
+		<div id="topnav">
+			<!-- **** CATEGORY EXPANDER TOGGLE **** -->
+			<div class="barCat"><a href="javascript:toggleCats();"><img src="/themes/bargainmatch/butShopByCatOff.png" oversrc="/themes/bargainmatch/butShopByCatOn.png" width="194" height="29" alt="" origsrc="https://web.archive.org/themes/bargainmatch/butShopByCatOff.png"></a></div>
+			<div class="barSearch">
+			<span class="searchTitle">I'm Shopping For...</span>
+			<!-- **** START SEARCH FORM **** -->
+			<div class="searchInputBG">
+				<form id="sform" name="sform" action="/product">
+					
+					<div id="livesearchcontainer">
+
+		  <div id="livesearch"></div>
+
+		
+					<input name="keyword" type="text" value="" class="searchInputText" autocomplete="off" onkeyup="showLiveSearchResult(this.value);"></div></form></div>
+					<input type="image" name="search" id="buttonSearch" src="/themes/bargainmatch/formSearchButton.png" width="80" height="29" class="searchButton">   
+				
+			</div>
+			<!-- **** /END SEARCH FORM **** -->
+			<div class="barExtra">
+				<!-- **** SHOP BY STORE **** -->
+				<a href="/store"><img src="/themes/bargainmatch/butShopByStoreOff.png" oversrc="/themes/bargainmatch/butShopByStoreOn.png" width="92" height="29" alt="Shop by Store" border="0" origsrc="https://web.archive.org/themes/bargainmatch/butShopByStoreOff.png"></a>
+				<!-- **** FIND COUPONS **** -->
+				<a href="/coupon"><img src="/themes/bargainmatch/butFindCouponsOff.png" oversrc="/themes/bargainmatch/butFindCouponsOn.png" width="92" height="29" alt="Find Coupons" border="0" origsrc="https://web.archive.org/themes/bargainmatch/butFindCouponsOff.png"></a>
+			</div>
+		</div>
+		<!-- **** /END TOP NAV **** -->
+		
+		<!-- **** START CATEGORY EXPANDER **** -->
+		<div id="cats" class="hide">
+			<ul id="catnav">
+				<li><a href="http://cb.bargainmatch.com/category/Electronics--17"><img src="/themes/bargainmatch/catElectronicsOff.png" oversrc="/themes/bargainmatch/catElectronicsOn.png" width="125" height="29" alt="Electronics" border="0" origsrc="https://web.archive.org/themes/bargainmatch/catElectronicsOff.png"></a></li>
+				<li><a href="http://cb.bargainmatch.com/category/Home-and-Garden--18"><img src="/themes/bargainmatch/catHomeGardenOff.png" oversrc="/themes/bargainmatch/catHomeGardenOn.png" width="152" height="29" alt="Home and Garden" border="0" origsrc="https://web.archive.org/themes/bargainmatch/catHomeGardenOff.png"></a></li>
+				<li><a href="http://cb.bargainmatch.com/category/Clothing-and-Accessories--22"><img src="/themes/bargainmatch/catClothingShoesJewelryOff.png" oversrc="/themes/bargainmatch/catClothingShoesJewelryOn.png" width="214" height="29" alt="Clothes, Shoes and Jewelry" border="0" origsrc="https://web.archive.org/themes/bargainmatch/catClothingShoesJewelryOff.png"></a></li>
+				<li><a href="http://cb.bargainmatch.com/category/Media--2"><img src="/themes/bargainmatch/catMoviesMusicOff.png" oversrc="/themes/bargainmatch/catMoviesMusicOn.png" width="158" height="29" alt="Movies and Music" border="0" origsrc="https://web.archive.org/themes/bargainmatch/catMoviesMusicOff.png"></a></li>
+				<li><a href="http://cb.bargainmatch.com/category/Computers--15"><img src="/themes/bargainmatch/catComputersOfficeOff.png" oversrc="/themes/bargainmatch/catComputersOfficeOn.png" width="174" height="29" alt="Computers and Office" border="0" origsrc="https://web.archive.org/themes/bargainmatch/catComputersOfficeOff.png"></a></li>
+				<li><a href="http://cb.bargainmatch.com/category/Books--1"><img src="/themes/bargainmatch/catBooksOff.png" oversrc="/themes/bargainmatch/catBooksOn.png" width="83" height="29" alt="Books" border="0" origsrc="https://web.archive.org/themes/bargainmatch/catBooksOff.png"></a></li>
+				<li><a href="http://cb.bargainmatch.com/category/Video-Games--157"><img src="/themes/bargainmatch/catVideoGamesOff.png" oversrc="/themes/bargainmatch/catVideoGamesOn.png" width="125" height="29" alt="Video Games" border="0" origsrc="https://web.archive.org/themes/bargainmatch/catVideoGamesOff.png"></a></li>
+				<li><a href="http://cb.bargainmatch.com/category/Health-and-Beauty--20"><img src="/themes/bargainmatch/catHealthBeautyOff.png" oversrc="/themes/bargainmatch/catHealthBeautyOn.png" width="152" height="29" alt="Health and Beauty" border="0" origsrc="https://web.archive.org/themes/bargainmatch/catHealthBeautyOff.png"></a></li>
+				<li><a href="http://cb.bargainmatch.com/category/Flowers-and-Gifts--19"><img src="/themes/bargainmatch/catFlowersGiftsGourmetOff.png" oversrc="/themes/bargainmatch/catFlowersGiftsGourmetOn.png" width="214" height="29" alt="Flowers, Gifts and Gourmet" border="0" origsrc="https://web.archive.org/themes/bargainmatch/catFlowersGiftsGourmetOff.png"></a></li>
+				<li><a href="http://cb.bargainmatch.com/category/Sports-and-Outdoors--24"><img src="/themes/bargainmatch/catSportsOutdoorsOff.png" oversrc="/themes/bargainmatch/catSportsOutdoorsOn.png" width="158" height="29" alt="Sports and Outdoors" border="0" origsrc="https://web.archive.org/themes/bargainmatch/catSportsOutdoorsOff.png"></a></li>
+				<li><a href="http://cb.bargainmatch.com/category/Kids-and-Family--21"><img src="/themes/bargainmatch/catToysKidsBabyOff.png" oversrc="/themes/bargainmatch/catToysKidsBabyOn.png" width="174" height="29" alt="Toys, Kids and Baby" border="0" origsrc="https://web.archive.org/themes/bargainmatch/catToysKidsBabyOff.png"></a></li>
+				<li><a href="http://cb.bargainmatch.com/category/Cars--25"><img src="/themes/bargainmatch/catAutoOff.png" oversrc="/themes/bargainmatch/catAutoOn.png" width="83" height="29" alt="Auto" border="0" origsrc="https://web.archive.org/themes/bargainmatch/catAutoOff.png"></a></li>
+			</ul>
+		</div>
+		<!-- **** /END CATEGORY EXPANDER **** -->
+	</div> 
+	
+		
+		
+	<div class="clear">&nbsp;</div> 
+	<!-- ******************************************************************** -->
+	<!-- **** /END TOP NAV BAR WITH SEARCH & CATEGORIES **** -->
+	<!-- ******************************************************************** -->
+	
+	
+	<div class="headerBarNONE"></div>
+
+
+	<!-- ******************************************************************** -->
+	<!-- **** START LIST COLUMN **** -->
+	<!-- ******************************************************************** -->
+
+	<div class="colFullBG">
+		
+	<div class="colFullContent"> 
+						
+		<!-- ******************************************************************** -->
+		<!-- **** START CONTENT **** -->
+		<!-- ******************************************************************** -->
+
+		
+						
+<div>
+    <p>
+    </p>
+    <p>
+        <b>Overview</b>
+    </p>
+    <p>
+    </p>
+    <p>
+        This website and any associated browser or mobile based applications are powered by Inuvo's BargainMatch software application.
+    </p>
+    <p>
+    </p>
+    <p>
+        Inuvo Inc. takes consumer privacy seriously. We are committed to following industry standards, best practices and guidelines relating to the use of
+        consumer information and privacy. Inuvo recognizes and complies with the self regulatory policies of the Network Advertising Initiative (NAI).
+    </p>
+    <p>
+    </p>
+    <p>
+        This privacy policy is intended to inform consumers about the way Inuvo uses and protects the information we collect about customers and users.
+        Information is collected by Inuvo this website, and across our various Technology Platforms. All use of Inuvo's products and services, as well as
+        visits to our websites, are subject to this privacy policy.
+    </p>
+    <p>
+    </p>
+    <p>
+        <b>Information Collected via the Website</b>
+    </p>
+    <p>
+    </p>
+    <p>
+        We collect Personally Identifiable Information ("PII") from Inuvo websites when you choose to provide it to us via an information request form or
+        contact us email. PII is any information that can be used to identify or locate a particular person or entity. This includes, but is not limited to,
+        name, postal address, telephone number or email address. For example, you may choose to send us PII about yourself in an email or by completing an
+        online form on an Inuvo website. We use this information only to contact you to respond to your inquiry. Once collected, we will store your PII for a
+        reasonable time for record-keeping purposes and promotional marketing efforts.
+    </p>
+    <p>
+    </p>
+    <p>
+        Inuvo collects PII on our websites when you sign up as an Account Holder. Account Holder information collected includes PII necessary to conduct
+        business including, but not limited to, account holder name, phone number, email address, payment information. Payments made to and/or from Inuvo
+        require the provision of and specified collection of additional PII, which may include, but is not limited to, bank account information and credit card
+        numbers. Phone, facsimile, email and/or cell numbers may be used to contact Account Holders as needed. All Account Holder information collected is
+        maintained in a password-protected environment where your passwords are not accessible to any Inuvo employee as they are stored via one-way encryption.
+    </p>
+    <p>
+    </p>
+    <p>
+        We also collect Non-Personally Identifiable Information (Non-PII) via Inuvo websites and our various Technology Platforms. Non-PII <b>cannot</b> be
+        used to contact any single person or entity and may include, but is not limited to, IP address, content viewed, ad interaction, interaction with other
+        advertiser websites, browser type, Internet Service Provider, the time/date of your visit to the website, your computer's operating system (e.g.,
+        Windows XP), search terms used and other click and browsing behavior. Inuvo uses this information for internal purposes such as to administer our
+        websites, improve and customize our websites, and to understand and analyze how our websites are being used for marketing purposes. See Information
+        Collection and Use for more details.
+    </p>
+    <p>
+    </p>
+    <p>
+        <b>Cookies and Web Beacons</b>
+    </p>
+    <p>
+    </p>
+    <p>
+        We use cookies and web beacons to help manage our websites and analyze usage patterns. Cookies are small packets of data stored on a user's computer
+        that allow sites to recognize the computer when a user revisits a website. Cookies can be used to provide consumer services such as auto login,
+        information delivery and a better understanding of how users interact with the site. These cookies enable sites to customize the site to a user's needs
+        and interests, so that they can be as valuable and relevant as possible. The use of a web beacon allows a website to record that someone has visited a
+        particular webpage, along with additional Non-PII that the website may choose to include with the beacon.
+    </p>
+    <p>
+    </p>
+    <p>
+        You are always free to decline cookies. You can configure your browser to accept all cookies, reject all cookies, erase cookies or notify you when a
+        cookie is set. For more information about cookies and web beacons, visit http://www.allaboutcookies.org/cookies/.
+    </p>
+    <p>
+    </p>
+    <p>
+        <b>Public Forums</b>
+    </p>
+    <p>
+    </p>
+    <p>
+        Inuvo websites make chat rooms, forums, message boards, blogs commentary and/or news groups available to users. Please remember that any information
+        that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your PII through these channels.
+    </p>
+    <p>
+    </p>
+    <p>
+        <b>Third-Party Websites</b>
+    </p>
+    <p>
+    </p>
+    <p>
+        Inuvo websites may contain links to other websites, including Advertiser offers for Publisher participation. Such websites may use cookies and/or other
+        data collection tools. Inuvo is not responsible for the privacy practices, policies or content of such other websites. Inuvo encourages everyone to
+        read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. Inuvo has no control
+        over the use of information by third-party websites, and you should exercise caution when deciding to disclose any PII to those websites.
+    </p>
+    <p>
+    </p>
+    <p>
+        <a name="OLE_LINK2"></a>
+        <a name="OLE_LINK1"><b>Browser or Mobile Applications</b></a>
+    </p>
+    <p>
+    </p>
+    <p>
+        When you use a BargainMatch powered browser application some PII may be required so that you can log into your account to track your rewards earnings. 
+        Additionally, unless you opt-out, Inuvo and/or its marketing partners may access the following non-PII data on an Anonymous basis:
+    </p>
+    <p>
+    </p>
+    <ul type="disc">
+        <li>
+            the operating system of the computer and the type and version of the browser running on the computer;
+        </li>
+        <li>
+            the unique identifier of the application running on the computer;
+        </li>
+        <li>
+            the search text typed in Google, Yahoo! Or Bing;
+        </li>
+        <li>
+            the search tags embedded by the application;
+        </li>
+        <li>
+            the mouse-over on search tags embedded by the application;
+        </li>
+        <li>
+            the clicks on message prompts inserted by the application; and
+        </li>
+    </ul>
+    <p>
+        We may use this PII and non-PII to do the following:
+    </p>
+    <p>
+    </p>
+    <ul type="disc">
+        <li>
+            process and fulfill your rewards transactions;
+        </li>
+        <li>
+            personalize your experience with targeted advertisements based on your expressed interests;
+        </li>
+        <li>
+            analyze and improve the effectiveness of the application to provide you and fellow users a better experience.
+        </li>
+    </ul>
+    <p>
+        You can disable or uninstall any of our applications at any time by going to the extension preferences section of your browser and clicking on disable,
+        uninstall or their equivalents on your browser. If you use an applications on multiple computers or browsers, you will need to repeat these steps for
+        each install.
+    </p>
+    <p>
+    </p>
+    <p>
+        <b>Storage of PII</b>
+    </p>
+    <p>
+    </p>
+    <p>
+        All information collected via information request forms or contact us emails is only used to respond to that inquiry. Once collected, we will store
+        your PII for a reasonable time for record-keeping purposes and promotional marketing efforts.
+    </p>
+    <p>
+    </p>
+    <p>
+        All Account Holder information collected is maintained in a password-protected environment. This information is used for client/customer service, media
+        delivery, contact, billing-payables and receivables and/or other reporting purposes.
+    </p>
+    <p>
+    </p>
+    <p>
+        <b>Storage of Non-PII</b>
+    </p>
+    <p>
+    </p>
+    <p>
+        We maintain Non-PII collected by our technology for up to 180 days. This data includes, but is not limited to, IP address, content viewed, ad
+        interaction, interaction with other advertiser websites, browser type, Internet Service Provider, the time/date of your visit to our websites, your
+        computer's operating system (e.g., Windows XP), search terms used and other click and browsing behavior.
+    </p>
+    <p>
+    </p>
+    <p>
+        <b>Security</b>
+    </p>
+    <p>
+    </p>
+    <p>
+        Inuvo uses industry standard practices to safeguard the confidentiality of information and treats data as an asset that must be protected against loss
+        and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the
+        company.
+    </p>
+    <p>
+    </p>
+    <p>
+        <b>Sharing and Disclosure</b>
+    </p>
+    <p>
+    </p>
+    <p>
+        We do not sell, rent or share PII collected on Inuvo websites with non-affiliated third parties without your consent.
+    </p>
+    <p>
+    </p>
+    <p>
+        Inuvo may share Non-PII collected via our Technology Platforms with third-party service providers whom have contracted with third-party marketing
+        partners, business partners and/or Inuvo clients, and as expressly provided for herein. Similarly, we may enhance the Non-PII collected via our
+        Technology Platforms with Non-PII collected from third-party marketing partners, business partners and/or Inuvo clients. This information cannot be
+        used to contact or identify any person individually.
+    </p>
+    <p>
+    </p>
+    <p>
+        We may disclose information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take
+        action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the
+        physical safety of any person.
+    </p>
+    <p>
+    </p>
+    <p>
+        Finally, we may transfer information, including any PII collected via Inuvo websites, to a successor entity in connection with a corporate merger,
+        consolidation, sale of assets, bankruptcy, or other corporate change.
+    </p>
+    <p>
+    </p>
+    <p>
+        <b>Opt-Out of Non-PII Data Collection</b>
+    </p>
+    <p>
+    </p>
+    <p>
+        If you'd like to opt-out from having Inuvo collect your anonymous Non-PII information in connection with our Technology Platforms, click the link
+        below. In doing so, Inuvo will place an opt-out cookie on your browser. The opt-out cookie means information will not be collected. If you delete,
+        block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. Please note
+        that by clicking on the link below you will be immediately opted out.
+    </p>
+    <p>
+    </p>
+    <p>
+        <b><u>Click here to opt-out of Non-PII data collection</u></b>
+        .
+    </p>
+    <p>
+    </p>
+    <p>
+        <b>Opt-Out or Update Your PII</b>
+    </p>
+    <p>
+    </p>
+    <p>
+        As an Account Holder, you will only receive email communications from Inuvo for business administration purposes, including website and platform
+        service updates. Any promotional emails you may receive will have an opt-out option within the footer of the email. If you opt-out, you will be removed
+        from the promotional email list, however, as an Account Holder, you will still receive any/all business administration emails applicable to your
+        account. As an Account Holder, you can update your PII through most of our websites yourself by simply logging into your account and modifying your
+        account profile.
+    </p>
+    <p>
+    </p>
+    <p>
+        If you have voluntarily submitted your PII via one of our websites through an information request form or contact us email, then you may be receiving
+        promotional marketing communications from Inuvo.
+    </p>
+    <p>
+    </p>
+    <p>
+        At any time, you can unsubscribe directly from any of these communications by following the opt-out instructions included within the footer of the
+        communication received.
+    </p>
+    <p>
+    </p>
+    <p>
+If you'd like us to update, correct or delete your PII that you have provided to us, please send your request to us at         <a href="mailto:privacy@inuvo.com">privacy@inuvo.com</a> and we will process your request within a reasonable period of time after receipt. You can
+        also contact us by mail by writing us at:
+    </p>
+    <p>
+    </p>
+    <p>
+        Inuvo, Inc.
+        <br>
+        Attn: Marketing and Communications
+        <br>
+        15550 Lightwave Drive
+        <br>
+        Suite 300
+        <br>
+        Clearwater, FL 33670
+    </p>
+    <p>
+    </p>
+    <p>
+        <b>The Right to Change This Policy</b>
+    </p>
+    <p>
+    </p>
+    <p>
+        Inuvo reserves the right to modify this privacy statement at any time, so please review it frequently.
+    </p>
+    <p>
+    </p>
+    <p>
+        <b>Contact Us</b>
+    </p>
+    <p>
+    </p>
+    <p>
+        If you have questions about our privacy policy, please contact us at <a href="mailto:privacy@inuvo.com">privacy@inuvo.com</a> or by mail at:
+    </p>
+    <p>
+    </p>
+    <p>
+        Inuvo, Inc.
+        <br>
+        Attn: Marketing and Communications
+        <br>
+        15550 Lightwave Drive
+        <br>
+        Suite 300
+        <br>
+        Clearwater, FL 33670
+    </p>
+    <p>
+    </p>
+    <p>
+         
+    </p>
+    <p>
+    </p>
+</div>
+		
+
+		<!-- ******************************************************************** -->
+		<!-- **** /END CONTENT **** -->
+		<!-- ******************************************************************** -->
+
+		
+	</div> 
+ 
+	<!-- ******************************************************************** -->
+	<!-- **** /END LIST COLUMN **** -->
+	<!-- ******************************************************************** -->
+
+	
+	</div>
+	<!-- **** FOOTER CONTAINER **** -->
+	<div class="colFullFooterBG"></div>
+
+	
+	<br clear="all">
+	
+	<div id="footer"><div id="bmLinks">
+<ul>
+<li>
+
+ 
+All original content copyright © 2012 <a href="http://www.inuvo.com/" target="_blank" class="fLink">Inuvo</a> ®. All rights reserved.<br>All other products, services, and company names are trademarks, <br>registered trademarks or service marks of their respective owners.<br>
+Tax and shipping costs are estimates. Please see the store's website for exact pricing.<br>&nbsp;<br>
+Powered by <a href="http://www.inuvo.com/bargainmatch" target="_blank" class="fLink">BargainMatch</a> 
+<!--in partnership with <a href="" target="_blank" class="fLink"></a>.-->
+<br>&nbsp;<br>
+
+</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+
+<li><a href="http://cb.bargainmatch.com" class="fLink">Home</a></li>
+
+ 
+<li><a href="http://bargainmatch.wordpress.com" class="fLink" target="_blank">Blog</a></li>
+ 
+<li><a href="http://cb.bargainmatch.com/faq" class="fLink">FAQ</a></li>
+
+ 
+
+<li><a href="http://cb.bargainmatch.com/contact" class="fLink">Contact Us</a></li>
+<li><a href="http://cb.bargainmatch.com/terms" class="fLink">Terms of Use</a></li>
+<li><a href="/privacy" target="_top" class="fLink">Privacy</a></li>
+</ul>
+</div>
+<script src="http://s7.addthis.com/js/250/addthis_widget.js#username=bargainmatch"></script>
+
+<!-- Yahoo! Web Analytics - All rights reserved --> <script type="text/javascript" src="http://d.yimg.com/mi/ywa.js"> </script> <script type="text/javascript"> var YWATracker = YWA.getTracker("10001532001145"); YWATracker.submit(); </script> <noscript>
+ <div><img src="http://a.analytics.yahoo.com/p.pl?a=10001532001145&js=no" width="1" height="1" alt="" /></div> </noscript>
+<!-- End of Yahoo! Web Analytics Code -->
+
+<img src="http://i.simpli.fi/dpx?cid=17&amp;action=100&amp;segment=BM&amp;campaign_id=0" width="1" height="1">
+
+
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20348643-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+<script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1799.js"%3E%3C%2Fscript%3E'))</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1799.js"></script>
+
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+if(document.location.protocol!='https:')
+  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb6.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(5243,0.8,"www07");
+</script>
+<!-- ClickTale end of Bottom part -->
+
+</div>
+
+	</div>
+	<!-- **** /END INNERBOX NAVBAR **** --> 
+
+ 
+<!-- **** /END OUTERBOX CONTAINER **** -->
+
+ 
+ </body></html>
