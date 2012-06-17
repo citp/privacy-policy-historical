@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allisports.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001933id_/http%3A//www.allisports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allisports.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617170023id_/http%3A//www.allisports.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS | Alli Sports Action Sports
 
 **This is the privacy policy (“ _Privacy Policy_ ”) for allisports.com (" _Site_ ," " _we_ ," " _us_ ," or " _our_ "), an Internet website** **provided by ALLI, Alliance of Action Sports, LLC (f/k/a Action Sports Tour, LLC) (“ _ALLI_ ”)**. ** **   
 
