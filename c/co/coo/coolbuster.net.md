@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the coolbuster.net privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107173420id_/http%3A//www.coolbuster.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbuster.net privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618011101id_/http%3A//www.coolbuster.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | COOLBUSTER.net
+
+  
+
 
 This post confirms my ownership of the site and that this site adheres to Google AdSense program policies and Terms and Conditions." - COOLBUSTER.net
 
@@ -33,13 +36,8 @@ DoubleClick DART Cookie
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....
 
   * Google Adsense
-  * Chitika
-  * Linkshare
   * Infolinks
-  * Project Wonderful
   * Nuffnang
-  * Bidvertiser
-  * Contextweb
 
 
 
@@ -50,5 +48,3 @@ www.coolbuster.net has no access to or control over these cookies that are used 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.coolbuster.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
-
-› [Read More](http://www.coolbuster.net/p/privacy-policy.html)
