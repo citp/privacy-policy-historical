@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the volunteerhub.com privacy policy that was archived on 2011-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218201757id_/http%3A//www.volunteerhub.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the volunteerhub.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617073552id_/http%3A//www.volunteerhub.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us"><head>
 
 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-	  <base href="http://www.volunteerhub.com/">
+	  <base href="http://www.volunteerhub.com">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="VolunteerHub, Volunteer Hub, volunteer organizations">
@@ -52,14 +52,13 @@
 					acymailing['EMAILCAPTION'] = 'E-mail';
 					acymailing['VALID_EMAIL'] = 'Please enter a valid e-mail address';
 					acymailing['ACCEPT_TERMS'] = 'Please check the Terms and Conditions';
-					acymailing['CAPTCHA_MISSING'] = 'Please enter the security code displayed in the image';
+					acymailing['CAPTCHA_MISSING'] = 'Please enter security code displayed in the image';
 					acymailing['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
 			//-->
   </script>
   <script type="text/javascript">Shadowbox.init({ autoplayMovies: false, showMovieControls: false, skipSetup: false });</script>
 
 	<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
-	<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
 	<link rel="stylesheet" href="/templates/volunteer_hub/css/template.css" type="text/css">
 	<link rel="stylesheet" href="/templates/volunteer_hub/css/style.css" type="text/css">
 	<!--<link rel="stylesheet" href="/templates/volunteer_hub/css/previewstyle.css" type="text/css" />-->
@@ -99,7 +98,27 @@ if((navigator.userAgent=="Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleW
 var style_txt="<style type='text/css'>#first_div_left{ margin-left:-185px!important;}</style>";
 document.write(style_txt);
 }
+
+   if (navigator.appName == 'Microsoft Internet Explorer')
+   {
+      var ua = navigator.userAgent;
+      var re  = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+      if (re.exec(ua) != null)
+        var rv = parseFloat( RegExp.$1 );
+        var ie7="<style type='text/css'>#rrtext{ min-height:72px!important;}</style>";
+        var ie9="<style type='text/css'>#rrtext{ height:75px!important;}</style>";
+		if(rv==9){ document.write(ie9);}
+		if(rv==7){ document.write(ie7);} 
+	
+   }
+
 </script>
+	<script type="text/javascript">
+	jQuery.noConflict();
+	jQuery(document).ready(function(){
+		jQuery(".subbutton").attr('value','');
+	});
+	</script>
 </head>
 
 <body style="margin:0 auto; font-family:helvetica;">
@@ -139,7 +158,7 @@ height:100px">
 	<div id="menu">
 		  		  <div id="menu_items">
 		  		<div class="moduletable_nav">
-					<ul class="menu_nav"><li class="item1"><a href="http://www.volunteerhub.com/"><span>Home</span></a></li><li class="parent item27"><a href="/tour"><span>Tour</span></a><ul><li class="item34"><a href="/tour"><span>Overview</span></a></li><li class="parent item53"><a href="/tour/volunteer-management"><span>Volunteer Management</span></a></li><li class="item54"><a href="/tour/nonprofit-event-management"><span>Event Management</span></a></li><li class="item55"><a href="/tour/security"><span>Security</span></a></li></ul></li><li class="parent item2"><a href="/clients"><span>Clients</span></a><ul><li class="item56"><a href="/clients"><span>Existing Clients</span></a></li><li class="item57"><a href="/clients/animal-shelter-software"><span>Animal Rights</span></a></li><li class="item122"><a href="/clients/cultural-volunteering"><span>Arts &amp; Culture</span></a></li><li class="item123"><a href="/clients/church-volunteer-software"><span>Churches</span></a></li><li class="item124"><a href="/clients/school-volunteer-programs"><span>Education</span></a></li><li class="item125"><a href="/clients/environmental-volunteers"><span>Environment</span></a></li><li class="item163"><a href="/clients/festival-volunteer-management"><span>Festivals</span></a></li><li class="item126"><a href="/clients/fundraising-volunteers"><span>Fundraising</span></a></li><li class="item127"><a href="/clients/volunteers-for-health"><span>Health</span></a></li><li class="item128"><a href="/clients/community-outreach-programs"><span>Human Services</span></a></li><li class="item129"><a href="/clients/international-volunteers"><span>International</span></a></li><li class="item130"><a href="/clients/library-volunteers"><span>Libraries</span></a></li><li class="item131"><a href="/clients/community-service-volunteers"><span>Municipalities</span></a></li><li class="item132"><a href="/clients/nonprofit-membership-software"><span>Membership</span></a></li><li class="item133"><a href="/clients/political-volunteers"><span>Political</span></a></li><li class="item134"><a href="/clients/public-service-volunteering"><span>Public Service</span></a></li><li class="item137"><a href="/clients/league-scheduling-software"><span>Teams &amp; Leagues</span></a></li></ul></li><li class="parent item37"><a href="/request-quote"><span>Purchase</span></a><ul><li class="item60"><a href="/request-quote"><span>Request Quote</span></a></li><li class="item118"><a href="/free-trial"><span>Free Trial</span></a></li><li class="item119"><a href="/free-demo"><span>Live Demo</span></a></li><li class="item138"><a href="/return-on-investment-calculator"><span>ROI Calculator</span></a></li></ul></li><li class="item41"><a href="/support"><span>Support</span></a></li><li class="item74"><a href="/blog"><span>Blog</span></a></li><li class="parent item75"><a href="/about-us"><span>About</span></a><ul><li class="item116"><a href="/about-us"><span>About</span></a></li><li class="item117"><a href="/contact-us"><span>Contact Us</span></a></li></ul></li></ul>		</div>
+					<ul class="menu_nav"><li class="item1"><a href="http://www.volunteerhub.com/"><span>Home</span></a></li><li class="parent item27"><a href="/tour"><span>Tour</span></a><ul><li class="item34"><a href="/tour"><span>Overview</span></a></li><li class="parent item53"><a href="/tour/volunteer-management"><span>Volunteer Management</span></a></li><li class="item54"><a href="/tour/nonprofit-event-management"><span>Event Management</span></a></li><li class="item55"><a href="/tour/security"><span>Security</span></a></li></ul></li><li class="parent item2"><a href="/clients"><span>Clients</span></a><ul><li class="item56"><a href="/clients"><span>Existing Clients</span></a></li><li class="item57"><a href="/clients/animal-shelter-software"><span>Animal Rights</span></a></li><li class="item122"><a href="/clients/cultural-volunteering"><span>Arts &amp; Culture</span></a></li><li class="item123"><a href="/clients/church-volunteer-software"><span>Churches</span></a></li><li class="item124"><a href="/clients/school-volunteer-programs"><span>Education</span></a></li><li class="item125"><a href="/clients/environmental-volunteers"><span>Environment</span></a></li><li class="item163"><a href="/clients/festival-volunteer-management"><span>Festivals</span></a></li><li class="item126"><a href="/clients/fundraising-volunteers"><span>Fundraising</span></a></li><li class="item127"><a href="/clients/volunteers-for-health"><span>Health</span></a></li><li class="item128"><a href="/clients/community-outreach-programs"><span>Human Services</span></a></li><li class="item129"><a href="/clients/international-volunteers"><span>International</span></a></li><li class="item130"><a href="/clients/library-volunteers"><span>Libraries</span></a></li><li class="item131"><a href="/clients/community-service-volunteers"><span>Municipalities</span></a></li><li class="item132"><a href="/clients/nonprofit-membership-software"><span>Membership</span></a></li><li class="item133"><a href="/clients/political-volunteers"><span>Political</span></a></li><li class="item134"><a href="/clients/public-service-volunteering"><span>Public Service</span></a></li><li class="item137"><a href="/clients/league-scheduling-software"><span>Teams &amp; Leagues</span></a></li></ul></li><li class="parent item37"><a href="/plans"><span>Purchase</span></a><ul><li class="item59"><a href="/plans"><span>Pricing Plans</span></a></li><li class="item118"><a href="/free-trial"><span>Free Trial</span></a></li><li class="item119"><a href="/free-demo"><span>Live Demo</span></a></li><li class="item138"><a href="/return-on-investment-calculator"><span>ROI Calculator</span></a></li></ul></li><li class="item41"><a href="/support"><span>Support</span></a></li><li class="item74"><a href="/blog"><span>Blog</span></a></li><li class="parent item75"><a href="/about-us"><span>About</span></a><ul><li class="item116"><a href="/about-us"><span>About</span></a></li><li class="item117"><a href="/contact-us"><span>Contact Us</span></a></li></ul></li></ul>		</div>
 	
 		  <script type="text/javascript"> bgimg();</script>
 		  </div>
@@ -260,13 +279,14 @@ To find other contact details for VolunteerHub, see <a class="t_tour" href="/">w
 									<table class="acymailing_form">
 				<tbody><tr>
 												<td class="acyfield_email">
-								<input id="user_email_formAcymailing1" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" class="txt_newsletter" type="text" name="user[email]" size="15" value="E-mail">
+								<input id="user_email_formAcymailing1" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" class="inputbox" type="text" name="user[email]" size="15" value="E-mail">
 							</td> 					<td class="acysubbuttons">
-												<input class="btn_submit" type="submit" value="" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing1'); }catch(err){alert('The form could not be submitted');return false;}">
+												<input class="button subbutton" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing1'); }catch(err){alert('The form could not be submitted '+err);return false;}">
 											</td>
 				</tr>
 			</tbody></table>
-						<input type="hidden" name="ctrl" value="sub">
+						<input type="hidden" name="ajax" value="0">
+			<input type="hidden" name="ctrl" value="sub">
 			<input type="hidden" name="task" value="notask">
 			<input type="hidden" name="redirect" value="http%3A%2F%2Fwww.volunteerhub.com%2Fprivacy">
 			<input type="hidden" name="redirectunsub" value="http%3A%2F%2Fwww.volunteerhub.com%2Fprivacy">
@@ -276,8 +296,7 @@ To find other contact details for VolunteerHub, see <a class="t_tour" href="/">w
 						<input type="hidden" name="Itemid" value="140">			</div>
 		</form>
 	</div>
-	</div>
-		</div>
+	</div>		</div>
 	
 			 		</div>
 
@@ -340,7 +359,7 @@ To find other contact details for VolunteerHub, see <a class="t_tour" href="/">w
 <div class="f_list">
 <ul>
 <li><a class="f13" href="/free-trial"> Free Trial </a></li>
-<li><a class="f13" href="/request-quote"> Request Quote </a></li>
+<li><a class="f13" href="/plans"> Pricing Plans </a></li>
 <li><a class="f13" href="/free-demo"> Live Demo </a></li>
 <li><a class="f13" href="/support"> Support </a></li>
 <li><a class="f13" href="/return-on-investment-calculator"> ROI Calculator </a></li>
