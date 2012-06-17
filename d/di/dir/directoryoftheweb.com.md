@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the directoryoftheweb.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218202854id_/http%3A//www.directoryoftheweb.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryoftheweb.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617145523id_/http%3A//www.directoryoftheweb.com/policy.html) for the most accurate reproduction.*
 
 # Privacy
 
 Featured 
 
+[SEO Submission Services Submit China](http://www.directoryoftheweb.com/computers/internet/web-design-and-development/Promotion/Search-Engine-Optimization-Firms/SEO-Submission-Services-Submit-China-l6060.html)
+
 [Industrial Sweeper](http://www.directoryoftheweb.com/business/construction-and-maintenance/tools-and-equipment/Industrial-Sweeper-l4804.html)
 
 [Adeptel](http://www.directoryoftheweb.com/business/telecommunications/Call-Centers/Adeptel-l4586.html)
-
-[Send Flowers to China](http://www.directoryoftheweb.com/shopping/flowers/florists/Send-Flowers-to-China-l1.html)
 
 Top categories 
 
@@ -38,15 +38,15 @@ No listings with Pagerank yet.
 
 New listings 
 
-[Part Time Finance Director](http://www.directoryoftheweb.com/business/accounting/business-to-business/Part-Time-Finance-Director-l5435.html)
+[Clicks2Sales](http://www.directoryoftheweb.com/regional/europe/netherlands/computers/internet/web-design-and-development/promotion/search-engine-optimization-firms/Clicks2Sales-l6112.html)
 
-[Flash Drive Data Recovery](http://www.directoryoftheweb.com/computers/data-formats/Flash-Drive-Data-Recovery-l5103.html)
+[Motivated Entrepreneurs](http://www.directoryoftheweb.com/business/entrepreneurs/Motivated-Entrepreneurs-l6109.html)
 
-[Cheap Contact Lenses](http://www.directoryoftheweb.com/health/senses/Cheap-Contact-Lenses-l5052.html)
+[SEO Submission Services Submit China](http://www.directoryoftheweb.com/computers/internet/web-design-and-development/Promotion/Search-Engine-Optimization-Firms/SEO-Submission-Services-Submit-China-l6060.html)
 
-[Industrial Sweeper](http://www.directoryoftheweb.com/business/construction-and-maintenance/tools-and-equipment/Industrial-Sweeper-l4804.html)
+[Spedition](http://www.directoryoftheweb.com/regional/europe/germany/Spedition-l6012.html)
 
-[Organic Hydroponic Store](http://www.directoryoftheweb.com/shopping/home-and-garden/hydroponics/Organic-Hydroponic-Store-l4786.html)
+[Vivint](http://www.directoryoftheweb.com/home/home-improvement/Automation/Vivint-l5997.html)
 
 | 
 
@@ -70,34 +70,34 @@ This privacy statement is subject to change at any time.
 
 Tags 
 
-[new](http://www.directoryoftheweb.com/mod/tagcloud/?tag=new) [International](http://www.directoryoftheweb.com/mod/tagcloud/?tag=International) [University](http://www.directoryoftheweb.com/mod/tagcloud/?tag=University) [Association](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Association) [for](http://www.directoryoftheweb.com/mod/tagcloud/?tag=for) [Books](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Books) [Information](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Information) [Library](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Library) [Society](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Society) [American](http://www.directoryoftheweb.com/mod/tagcloud/?tag=American) [Inc.](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Inc.) [Online](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Online) [World](http://www.directoryoftheweb.com/mod/tagcloud/?tag=World) [Museum](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Museum) [Art](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Art) [Center](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Center) [Institute](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Institute) [Archive](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Archive) [Science](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Science) [National](http://www.directoryoftheweb.com/mod/tagcloud/?tag=National) [Press](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Press) [Games](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Games) [the](http://www.directoryoftheweb.com/mod/tagcloud/?tag=the) [business](http://www.directoryoftheweb.com/mod/tagcloud/?tag=business) [Resources](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Resources) [Sports](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Sports) [Arts](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Arts) [Health](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Health) [News](http://www.directoryoftheweb.com/mod/tagcloud/?tag=News) [and](http://www.directoryoftheweb.com/mod/tagcloud/?tag=and)
+[Science](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Science) [Archive](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Archive) [Press](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Press) [National](http://www.directoryoftheweb.com/mod/tagcloud/?tag=National) [business](http://www.directoryoftheweb.com/mod/tagcloud/?tag=business) [Health](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Health) [Books](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Books) [Information](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Information) [Association](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Association) [World](http://www.directoryoftheweb.com/mod/tagcloud/?tag=World) [Society](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Society) [News](http://www.directoryoftheweb.com/mod/tagcloud/?tag=News) [Arts](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Arts) [for](http://www.directoryoftheweb.com/mod/tagcloud/?tag=for) [Institute](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Institute) [Inc.](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Inc.) [Sports](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Sports) [Resources](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Resources) [American](http://www.directoryoftheweb.com/mod/tagcloud/?tag=American) [the](http://www.directoryoftheweb.com/mod/tagcloud/?tag=the) [Games](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Games) [Library](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Library) [new](http://www.directoryoftheweb.com/mod/tagcloud/?tag=new) [University](http://www.directoryoftheweb.com/mod/tagcloud/?tag=University) [Online](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Online) [Museum](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Museum) [Art](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Art) [International](http://www.directoryoftheweb.com/mod/tagcloud/?tag=International) [Center](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Center) [and](http://www.directoryoftheweb.com/mod/tagcloud/?tag=and)
 
 [All Tags](http://www.directoryoftheweb.com/mod/tagcloud/)
 
 Most searched 
 
 **[alphaSearch](http://www.directoryoftheweb.com/search.php?what=alphaSearch&type=1)**  
-**Results:** 142 **Count:** 5626 
+**Results:** 20 **Count:** 18788 
 
 * * *
 
 **[free book](http://www.directoryoftheweb.com/search.php?what=free%20book&type=1)**  
-**Results:** 649 **Count:** 971 
+**Results:** 652 **Count:** 1803 
 
 * * *
 
 **[manufacturer](http://www.directoryoftheweb.com/search.php?what=manufacturer&type=1)**  
-**Results:** 53 **Count:** 703 
+**Results:** 53 **Count:** 1030 
 
 * * *
 
 **[flower](http://www.directoryoftheweb.com/search.php?what=flower&type=1)**  
-**Results:** 33 **Count:** 576 
+**Results:** 33 **Count:** 936 
 
 * * *
 
 **[shopping](http://www.directoryoftheweb.com/search.php?what=shopping&type=1)**  
-**Results:** 27 **Count:** 496 
+**Results:** 27 **Count:** 809 
 
 * * *  
   
