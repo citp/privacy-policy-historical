@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obscureinternet.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218093132id_/http%3A//obscureinternet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obscureinternet.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617151025id_/http%3A//obscureinternet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Obscure Internet
 
@@ -61,4 +61,10 @@ USA
 jalaraque@obsoletegamer.com  
 305-205-8554
 
-Rating: 0.0/ **10** (0 votes cast)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fobscureinternet.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
+
+Spread the Obscure!
+
+  * [](http://reddit.com/submit?url=http%3A%2F%2Fobscureinternet.com%2Fprivacy-policy%2F&title=Privacy%20Policy "Reddit")
+  * 
+
