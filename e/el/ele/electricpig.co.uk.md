@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricpig.co.uk privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218203227id_/http%3A//www.electricpig.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricpig.co.uk privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617152713id_/http%3A//www.electricpig.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electricpig
 
@@ -25,13 +25,29 @@ Our Web sites do not include links to third party Web service providers.
 
 Our Web sites contain advertising and some contextual affiliate marketing links.
 
-**Cookies**
+**Cookies**  
+You should be aware that by using the site, information and data may be automatically collected through the use of Cookies. 
 
-You should be aware that by using the site, information and data may be automatically collected through the use of Cookies. “Cookies” are small text files that store basic information that a web site can use to recognise repeat site visits and, as an example, recall your name if this has been previously supplied. We may use this information (and share it with third party business partners) to observe your internet use and to compile data in order to improve the Site, target advertising to You and assess general effectiveness of such advertising.
+What are cookies?  
+“Cookies” are small text files that store basic information that a web site can use to recognise repeat site visits and, as an example, recall Your name if this has been previously supplied. We may use this information (and share it with third party business partners) to observe your internet use and to compile data in order to improve the Site, target advertising to You and assess general effectiveness of such advertising. Cookies do not attach to Your system or damage Your files. 
 
-Cookies do not attach to Your system or damage Your files. If You do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookies feature. Note, however, that “personalised” services may be affected if the Cookies option is disabled.
+What sort of cookies do we use?  
+1\. Strictly necessary cookies  
+Essential cookies that enable You to browse the site and use its features.  
+2\. Functionality cookies  
+Cookies that improve the functionality of the site by storing Your preferences.  
+3\. Performance cookies  
+Cookies that help to improve the site performance and provide You with a better user experience.  
+4\. Online behavioural advertising cookies  
+Cookies that serve You advertisements, relevant to You and Your interests.
 
-If you wish to disable the setting of Cookies in your browser, please visit [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) for the most up to date instructions.
+Does anyone else use cookies on the site?  
+Third party cookies  
+We may also use or allow third parties to serve cookies.  
+For example, like many companies, we use Google Analytics to help us monitor site traffic. If we include content from other sites (like Youtube, Facebook, Twitter), You may be sent cookies from these sites. We don’t control them, and You might want to check these third-party sites for more information about their cookies and how to manage them.
+
+How can You manage cookies?  
+If You do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookies feature. Note, however, that “personalised” services may be affected if the Cookies option is disabled. If you wish to disable the setting of Cookies in your browser, please visit [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) for the most up to date instructions.
 
 **Data Collection and Purpose Specification**
 
@@ -109,15 +125,15 @@ We cannot demonstrate that our privacy policy accords with the privacy instrumen
 
 If you have an enquiry or concern about our privacy policy, please contact [ElectricPig.tv](mailto:feedback@electricpig.tv).
 
-We do not recommend another means by which visitors’ concerns may be addressed. 
+We do not recommend another means by which visitors’ concerns may be addressed.
 
   * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F%20\(via%20@sociablesite\) "Twitter")
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&t=Privacy%20Policy "Facebook")
   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&ui=2&tf=1&shva=1 "email")
   *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&title=Privacy%20Policy&notes=If%20you%27d%20like%20to%20know%20our%20policy%20on%20all%20things%20related%20to%20Privacy%2C%20you%27d%20better%20take%20a%20look.%20It%20makes%20for%20right%20tasty%20reading%21%0D%0A%0D%0APrivacy%20Statement%20of%20Republic%20Publishing%20Ltd%0D%0A%0D%0AInformation%20about%20our%20Organisation%20and%20Web%20site%0D%0A%0D%0AModern%20information%20an "Delicious")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&title=Privacy%20Policy&notes=If%20you%27d%20like%20to%20know%20our%20policy%20on%20all%20things%20related%20to%20Privacy%2C%20you%27d%20better%20take%20a%20look.%20It%20makes%20for%20right%20tasty%20reading%21%0D%0APrivacy%20Statement%20of%20Republic%20Publishing%20Ltd%0D%0A%0D%0AInformation%20about%20our%20Organisation%20and%20Web%20site%0D%0A%0D%0AModern%20information%20and%20 "Delicious")
   * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&srcTitle=Electricpig+The+only+tech+you+need "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&title=Privacy%20Policy&source=Electricpig+The+only+tech+you+need&summary=If%20you%27d%20like%20to%20know%20our%20policy%20on%20all%20things%20related%20to%20Privacy%2C%20you%27d%20better%20take%20a%20look.%20It%20makes%20for%20right%20tasty%20reading%21%0D%0A%0D%0APrivacy%20Statement%20of%20Republic%20Publishing%20Ltd%0D%0A%0D%0AInformation%20about%20our%20Organisation%20and%20Web%20site%0D%0A%0D%0AModern%20information%20an "LinkedIn")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&title=Privacy%20Policy&source=Electricpig+The+only+tech+you+need&summary=If%20you%27d%20like%20to%20know%20our%20policy%20on%20all%20things%20related%20to%20Privacy%2C%20you%27d%20better%20take%20a%20look.%20It%20makes%20for%20right%20tasty%20reading%21%0D%0APrivacy%20Statement%20of%20Republic%20Publishing%20Ltd%0D%0A%0D%0AInformation%20about%20our%20Organisation%20and%20Web%20site%0D%0A%0D%0AModern%20information%20and%20 "LinkedIn")
   * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&Title=Privacy%20Policy "BlinkList")
   * 
 
