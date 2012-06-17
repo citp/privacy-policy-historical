@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seologic.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224234215id_/http%3A//www.seologic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seologic.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617220706id_/http%3A//www.seologic.com/privacy) for the most accurate reproduction.*
 
 # SEOLogic.com Privacy Statement - SEO Logic®
 
