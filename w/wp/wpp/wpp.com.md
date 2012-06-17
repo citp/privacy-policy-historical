@@ -1,40 +1,105 @@
-> *The following text is extracted and transformed from the wpp.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213143359id_/http%3A//www.wpp.com/wpp/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpp.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617204058id_/http%3A//www.wpp.com/wpp/privacy.htm) for the most accurate reproduction.*
 
 # WPP Internet Privacy Policy - WPP
 
   
 
 
-This website is provided by WPP plc ("WPP"). We take very seriously the privacy of our website users and the security of their personal information.
+**May 2012**
 
-For your convenience, this website contains links to a number of other websites, both inside and outside the WPP plc. The privacy policies and procedures described here do not apply to those sites; we suggest contacting those sites directly for information on their data collection and distribution policies. 
+This website is operated by WPP PLC ("we" or "us"). By using and visiting our website and by submitting your personal information to us you agree to us using your personal information as set out in this privacy policy.
 
-The purpose of this privacy policy is to set out the principles governing our use of personal information that we may obtain about you. By using the websites, or by registering as a user of the services that we provide, you agree to this use. We ask you to read this privacy policy carefully. Any dispute which may arise over privacy will be subject to this policy, the data protection notice (if any) incorporated into this website and the provisions of English law.
+ **[If you just want to know about how we use cookies please click here](http://www.wpp.com/wpp/cookies.htm)**.
 
-We may change our privacy policy from time to time. We therefore ask you to check it occasionally to ensure that you are aware of the most recent version that will apply each time you access this website.
+We respect the privacy of users of our website and recognise that when you choose to provide us with information about yourself, you trust us to act in a responsible manner with that information. This privacy policy contains important information about how we use your personal information.
 
-Personal information collection and use   
-WPP will only collect personally identifiable data, such as your name or email address, when it is voluntarily submitted to us at this website. WPP and the companies we hire will use this information to comply with your request for information or as otherwise disclosed to you when you submit your information.
+ **What information do we collect?**  
+At times we may request that you voluntarily supply us with personal information. Generally this information is requested when you want us to provide you with information.  
+We may gather the following information about you: 
 
-From time to time, we may refer to that information to better understand your needs and how we can improve our services. We may use that information to contact you. We will not otherwise transfer the personally identifiable information you provide at this website to any third party unless otherwise disclosed to you.
+  * Name
+  * Email address
+  * Telephone number
+  * IP address (a unique identifier for your computer or other device)
+  * Mobile device ID
 
-WPP adheres to the 8 principals of the Data Protection Act 1988 and does not transfer personal information abroad without suitable safeguards.  
 
 
-Non-personal information collection and use   
-In common with many commercial organisations we monitor the use of this website by collecting aggregate information. We may automatically collect non-personal information about you such as the type of internet browsers you use, the pages you visit or the website which directed you to our site. You cannot be identified from this information and it is used only to assist us in providing an effective service on this website.
+Information provided by you in relation to submitting a job application to us (this may include sensitive personal information e.g. ethnic origin)
 
-Use of cookies   
-Cookies are small files which are sent to your web browser and stored on your computer's hard drive. This website uses 'session cookies' - temporary cookies that remain in your browser until you leave the website. These allow you to carry information across our site without having to re-enter it; it also enables us to analyse web traffic and improve our online services. They can not be used to identify you. You may set your web browser to notify you of cookie placement requests or to decline cookies completely. You can delete the files that contain cookies; those files are stored as part of your internet browser.
+**How do we use it?**  
+We will use this information in the following ways: 
 
-Under 13 year olds   
-This website is not intended or designed to attract children under the age of 13. We do not knowingly collect personally identifiable data from or about any person under the age of 13. If you are under 13 years old and wish to ask a question or use this site in any way which requires you to submit your personal information, please get your parent or guardian to do so on your behalf.
+  * to provide you with information that you have requested e.g. a newsletter, bulletins;
+  * to respond to specific queries you may raise regarding WPP and its operating companies;
+  * to provide you with better ways of accessing information from this website;
+  * to process and consider your job application;
+  * to allow you to submit articles to the WPP Reading Room;
 
-Security of your personal data   
-We have implemented technologies and policies with the objective of protecting your privacy from unauthorised access and improper use and will update these measures as appropriate as new technologies become available.
 
-Access and corrections   
-Under European data protection law you have a right to request access to personal data which are held about you on payment of a small fee. You also have the right to require any inaccuracies in your information to be corrected free of charge.
 
-Who is responsible for personal information collected on this site?   
-If you have any questions about WPP's privacy policy, please email our [Head of Web Services](mailto:editor@wpp.com), who controls the personal data collected on this website.
+For how we use your information that is collected using cookies and similar technologies please [see the "Cookies" here](http://www.wpp.com/wpp/cookies.htm).
+
+ **Do we pass your information to third parties?**  
+We may send your personal information to other group companies, affiliates and third parties to help us process your personal information for the purposes set out in this policy.
+
+We may disclose your personal information if we or any of our assets are the subject of a sale or similar corporate transaction. We will ensure that the third parties who receive your personal information are required to keep it confidential.
+
+We may disclose personal information to third parties when we reasonably believe we are required by law, and in order to investigate, prevent, or take action regarding suspected or actual unlawful or otherwise prohibited activities, including, but not limited to, fraud.
+
+ **How do we use your information for marketing?**  
+We will only provide information to you that you have asked for via the website.
+
+ **Where do we send your information?**  
+We are a global company and therefore we may transfer your personal information to countries around the world including the US and other countries outside Europe. We will, where necessary, put in place appropriate safeguards to ensure your information is protected.
+
+ **How long do we keep your information?**  
+We will keep your information for a reasonable period for the purposes set out above.
+
+ **Cookies**
+
+ **What are cookies?**  
+We may use information obtained from cookies or similar technology. Cookies are text files containing small amounts of information which we download onto your computer or device when you visit our website. Therefore, when we refer to "you" in this section we mean your computer. We can recognise these cookies on subsequent visits and they allow us to remember you.
+
+Cookies come in many forms. We have set out below the main types and categories of cookies that are used. This section refers to all types and categories of cookies and not just those we use on our website.
+
+ **First and third-party cookies** \- whether a cookie is first-party or third-party refers to the domain placing the cookie. First-party cookies are those set by a website that is being visited by the user, the website displayed in the URL window e.g. **[www.wpp.com](http://www.wpp.com/)**. Third-Party cookies are cookies that are set by a domain other than that of the website being visited by the user. If a user visits a website and another entity sets a cookie through that website this would be a third-party cookie.
+
+ **Persistent cookies** – these cookies remain on a user's device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.
+
+ **Session cookie** – these cookies allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted.
+
+ **What do we use cookies for?  
+** Cookies fall into one or more of the categories set out below. This website uses cookies that fall into all the categories. Also we use data from targeting cookies placed on your computer by third parties when you have visited other websites.
+
+ **1\. Strictly necessary cookies – These cookies enable services you have specifically asked for.**  
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies certain services you have asked for cannot be provided. e,g, the [ASP.NET cookie](http://www.wpp.com/wpp/cookies.htm#ASP).
+
+ **2 . Performance cookies – These cookies collect information on the pages visited.**  
+These cookies collect information about how users use a website, for instance which pages users go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. They are only used to improve how the website works.
+
+ **3\. Functionality cookies – These cookies remember choices you make to improve your experience.**  
+These cookies allow the website to remember choices you make and provide enhanced, more personal features. For instance, e.g. the **AddThis** cookie that is used in WPP’s corporate reports. The **AddThis** cookie provides ‘share this page’ functionality, where a user can email a link from a report to their friends. They may also be used to help provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity to other websites.
+
+ **4\. Targeting cookies or advertising cookies – these cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.**  
+These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organisation such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+
+If you want to delete any cookies that may already be on your computer or device, please refer to the instructions for your file management software to locate the file or directory that stores cookies. If you want to stop cookies being stored on your computer in future, please refer to your browser manufacturer’s instructions by clicking “Help” in your browser menu. Further information on cookies is available at **[www.allaboutcookies.org](http://www.allaboutcookies.org/)**. By deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website.
+
+ **Third Party Websites  
+** Our website links to third party sites which we do not operate or endorse. These websites may use cookies and collect your personal information in accordance with their own privacy policies. This privacy policy does not apply to third party websites and we are not responsible for third party websites.
+
+ **How do we protect your information?**  
+We take appropriate measures to ensure that your personal information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.
+
+ **Under 13 year olds**  
+This web site is not intended or designed to attract children under the age of 13. We do not knowingly collect personal information from or about any person under the age of 13. If you are under 13 years old and wish to ask a question or use this site in any way which requires you to submit your personal information, please get your parent or guardian to do so on your behalf.
+
+ **How to obtain a copy of your information**  
+You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. Please contact us using the details set out below.
+
+ **How to contact us if your information or choices change**  
+If your personal information or your preferences change, you don't want us to send you the information you have r equested or if you have any queries about how we use your personal information, please let us know by [contacting our Compliance Officer](http://www.wpp.com/wpp/contactus.htm?topic=website).
+
+ **Changes to this privacy policy**  
+We reserve the right, at our discretion, to change, modify, add, or remove portions from this privacy policy at any time. You are encouraged to review this privacy policy from time to time. 
