@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india-server.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102090424id_/http%3A//www.india-server.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india-server.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617163500id_/http%3A//www.india-server.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy:: Indiaserver.com
 
@@ -8,9 +8,13 @@ Unless you voluntarily identify yourself (through registration), we will have no
 
 Indiaserver.com may contain links to other websites. Such websites have their own privacy policies, which are beyond our control. Once you leave indiaserver.com, use of any information you provide is governed by the privacy policy of the site you are visiting. That privacy policy may differ from ours. If you can't find the privacy policy of any of these sites (that you are visiting) via a link from the site's homepage, it is suggested that you should contact the website for more information.
 
-When you register with indiaserver.com, we may contact you from time to time for updating you about such features that, we believe, may benefit you. All information collected on indiaserver.com is securely stored within the indiaserver.com database, which is secured and password-protected. We take every care regarding the security of our database but as no security system is impenetrable, we cannot guarantee the security of our database, nor can we assure that information you supply will not be intercepted while being transmitted to us over the Internet.
+When you register with indiaserver.com, we may contact you from time to time for updating you about such features that, we believe, may benefit you. All information collected on indiaserver.com is securely stored within the indiaserver.com database, which is secured and password-protected. We take every care regarding the security of our database but as no security system is impenetrable, we cannot guarantee the security of our database, nor can we assure that information you supply will not be intercepted while being transmitted to us over the Internet. 
 
 It is to be taken into consideration that the internet is an ever evolving media and we may change our privacy policy from time to time to incorporate necessary future changes. Our use of any information we collect will always be consistent with the same policy under which the information was gathered, regardless of the content of the new policy.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+
+Information related to Google Ads:
 
   * Google, as a third party vendor, uses cookies to serve ads on the site.
   * Google's use of the DART cookie enables it to serve ads to users based on their visit to the site and other sites on the Internet.
