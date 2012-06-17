@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tutoringhut.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101045624id_/http%3A//www.tutoringhut.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D11%26Itemid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutoringhut.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617151247id_/http%3A//www.tutoringhut.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Tutoring Hut - Privacy Policy
 
 > > **PRIVACY POLICY**
 >> 
@@ -84,7 +84,7 @@
 >> 
 >> **What is TutoringHut.com’s policy on allowing you to update, correct, or delete your personally identifiable information?**
 >> 
->> If you wish to update, correct, or delete any of the information about you stored by TutoringHut.com you can do so by visiting the account settings on your account profile. For all other information changes or requests, please send an inquiry to [info@TutoringHut.com](mailto:info@TutoringHut.com) .
+>> If you wish to update, correct, or delete any of the information about you stored by TutoringHut.com you can do so by visiting the account settings on your account profile. For all other information changes or requests, please send an inquiry to [info@TutoringHut.com](mailto:info@TutoringHut.com).
 >> 
 >> **What security precautions are in place to protect the loss, misuse, or alteration of your information?**
 >> 
@@ -110,7 +110,7 @@
 >> 
 >> The email address that you submit during registration, as well as your name and user identification, may be searchable by other TutoringHut.com users, unless you choose to opt out of this feature.
 >> 
->> You may receive notification e-mails from TutoringHut.com regarding system information, online applications and/or wall posts. If you do not wish to receive e-mails from us, please change the Email Preferences setting of your User Profile and/or submit an email request to [info@TutoringHut.com](mailto:info@TutoringHut.com) . Please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
+>> You may receive notification e-mails from TutoringHut.com regarding system information, online applications and/or wall posts. If you do not wish to receive e-mails from us, please change the Email Preferences setting of your User Profile and/or submit an email request to [info@TutoringHut.com](mailto:info@TutoringHut.com). Please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
 >> 
 >> In communicating with you, we may send e-mail as unencrypted plain text because we are aware that most customers cannot easily process encrypted e-mail. This is done for your convenience, but with the security concern that, if misrouted or intercepted, it could be read more easily than encrypted e-mail.
 >> 
