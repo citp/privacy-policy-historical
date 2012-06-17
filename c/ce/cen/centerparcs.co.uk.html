@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the centerparcs.co.uk privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101122205id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centerparcs.co.uk privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617221311id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-    <title>Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><head>
+    <title>Information | Privacy Policy | Center Parcs</title>
 
     <link rel="shortcut icon" href="/system/modules/centerparcs.template.main/resources/images/favicon.ico">
     <link rel="icon" href="/system/modules/centerparcs.template.main/resources/images/favicon.png" type="image/png">
+    
+    
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="content-language" content="en">
@@ -15,25 +17,75 @@
     <meta name="distribution" content="global">
     <meta name="robots" content="all">
     <meta name="rating" content="general">
+    
+
+
+
+
+
+
+    
+    
+	    
+    
+
+    
+    
+	    
+    
+
+    
+    
+	    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
     <!-- insert stylesheets needed for the template -->
     <link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/style.css">
     <link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/home_page.css">
-   
+    <link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/CR-Style-corners.css">
+    <link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/player-pod.css">
+
+
+    <!--[if IE 7]>
+     <link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/CR-Style-corners-ie7.css">
+    <![endif]-->
+    <!--[if IE 8]>
+    <link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/CR-Style-IE8.css">
+    <![endif]-->
     <!--[if lte IE 8]>
     <link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/style-ie678.css">
     <![endif]-->
-
     <!--[if lt IE 7]>
     <link rel="stylesheet" type="text/css" href="/system/modules/centerparcs.template.main/resources/css/home_page_ie6.css" />
     <![endif]-->
     <link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/screen.css">
     <link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/screen_table.css">
     <!--script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/mootools.js"--><!--/script-->
-    <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/jquery.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/jquery.js"></script>
+    <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/mapWidget.js"></script>
     <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/left_navigation_effect.js"></script>
-    <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/common.js"></script>
+    <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/player-pod.js"></script>
+    <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/menu.js"></script>
     <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/jquery.galleriffic.js"></script>
     <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/ufo.js"></script>
+    <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/common.js"></script>
+    
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
 
     <!--[if lt IE 7]>
     <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/DD_belatedPNG.js"></script>
@@ -59,12 +111,12 @@
 	var timerSpeed;
 	var ifTimerStarted = false;
 
+	var media;
 	var picture;
 	var picture_description;
 	var picture_news;
 	var picture_btn_gr;
 	var options;
-	var hreflink;
 
 	var tabsCount;
 	var selectedTab = 0;
@@ -72,9 +124,13 @@
 	var imagesTooltipList;
 	var descriptionList;	
 	var hrefList;	
+	var imageTypeListContent;
 		
 	function initTimer()
 	{
+	
+		var test = document.getElementById("titleCount");
+		if (test != null) {
 		tabsCount = document.getElementById("titleCount").innerHTML;
 		timerSpeed = document.getElementById("timerVal").innerHTML;
 		var imageListContent = document.getElementById("imageListContent").innerHTML;
@@ -85,9 +141,12 @@
 		descriptionList = descriptionListContent.split(';');
 		var hrefListContent = document.getElementById("hrefListContent").innerHTML;
 		hrefList = hrefListContent.split(';');
-
+		var imageTypeListContent = document.getElementById("imageTypeListContent").innerHTML;
+		imagesTypeList = imageTypeListContent.split(';');
+		
 		startTimer();
 		/*timer = setInterval("onTimer()", 1000);*/
+		}
 	}
 
 	function clearTimer()
@@ -100,12 +159,14 @@
 
 	function onTimer()
 	{
-		var i = selectedOption;
-		i++;
-		if (i >= options.length)
-			i = 0;
+		if (options != null) {
+			var i = selectedOption;
+			i++;
+			if (i >= options.length)
+				i = 0;
 
-		select(options[i]);
+			select(options[i]);
+		}
 	}
 
 	function onTabsTimer()
@@ -114,37 +175,40 @@
 		if(selectedTab >= tabsCount) {
 			selectedTab = 0;
 		}
-		picture.src = imagesList[selectedTab];
-		picture.alt = imagesTooltipList[selectedTab];
-		picture_description.style.background = "url(" + descriptionList[selectedTab] + ") no-repeat #EEE";
 		
-		hreflink.href = hrefList[selectedTab];
+//		picture.src = imagesList[selectedTab];
+//		picture.alt = imagesTooltipList[selectedTab];
+
+		showMedia(imagesTypeList[selectedTab], imagesList[selectedTab], imagesTooltipList[selectedTab], hrefList[selectedTab]);
+		picture_description.style.background = "url(" + descriptionList[selectedTab] + ") no-repeat #EEE";
 		
 		showClickPoints();
 	}
 
 	function showSelected(imageSrc, imageAlt)
 	{
-		if (prevOption >= 0)
-		{
-			options[prevOption].bgColor = prevColor;
-		}
-
-		if (selectedOption >= 0)
-		{
-			prevColor = options[selectedOption].bgColor;
-
-			for(i = 0; i < options.length; i++) {
-				options[i].bgColor = "#FFFFFF";
+		if (options != null) {
+			if (prevOption >= 0)
+			{
+				options[prevOption].bgColor = prevColor;
 			}
 
-			options[selectedOption].bgColor = selectedColor;
+			if (selectedOption >= 0)
+			{
+				prevColor = options[selectedOption].bgColor;
 
-			if(imageSrc != null) {
+				for(i = 0; i < options.length; i++) {
+					options[i].bgColor = "#FFFFFF";
+				}
 
-			picture_news.src = imageSrc;
-			picture_news.alt = imageAlt;
-			/*picture_news.alt = imageSrc;*/
+				options[selectedOption].bgColor = selectedColor;
+	
+				if(imageSrc != null) {
+
+				picture_news.src = imageSrc;
+				picture_news.alt = imageAlt;
+				/*picture_news.alt = imageSrc;*/
+				}
 			}
 		}
 	}
@@ -167,6 +231,11 @@
 
 	function initialize()
 	{
+		if (media == null)
+		{
+			media = document.getElementById("mediaContainer");
+		}
+		
 		if (picture == null)
 		{
 			picture = document.getElementById("picture");
@@ -195,13 +264,10 @@
 
 		if (options != null) {
 			select(options[0], null);
-			initTimer();
 		}
+
+		initTimer();
 		
-		if (hreflink == null)
-		{
-			hreflink = document.getElementById("hrefLink");
-		}
 	}
 
 	function showClickPoints()
@@ -219,6 +285,48 @@
 		}
 	}
 
+	function cleanMedia() 
+	{
+	  if (media != null) {
+		  var children = media.childNodes;
+		  while(media.childNodes.length > 0) {
+		    media.removeChild(children[0]); 
+		  }
+		  media.innerHTML= "";
+	  }
+	}
+
+	function showMedia(type, url, alt, href)
+	{
+	  cleanMedia();
+
+	  if((type == 'youtube') || (type == 'flash')) {
+            media.innerHTML= '<object style="width:100%; height:100%;"><embed style="width:100%; height:100%;" src="'+ url + '?version=3&amp;rel=0&amp;autoplay=1&amp;showinfo=0' + '" allowscriptaccess="always" allowfullscreen="true" type="application/x-shockwave-flash" wmode="transparent"></embed><param name="wmode" value="transparent"></object>'
+	  }
+	  else if(type == 'brightcove') {
+            media.innerHTML  = 
+					'<!-- Start of Brightcove Player -->' +
+					'<object wmode="transparent" id="myExperience' + url + '" class="BrightcoveExperience">' +
+					'  <param name="bgcolor" value="#FFFFFF" />' +
+					'  <param name="wmode" value="transparent" />' +
+					'  <param name="playerID" value="701933632001" />' +
+					'  <param name="playerKey" value="AQ~~,AAAADcYDruk~,DXsIcQBciLmRX-djLFmWdzTAS5FBpsWT" />' +
+					'  <param name="isVid" value="true" />' +
+					'  <param name="dynamicStreaming" value="true" />' +
+					'  <param name="autoStart" value="true" />' +
+					'  <param name="@videoPlayer" value="' + url + '" />' +
+					'</object>' +
+					'<!-- End of Brightcove Player -->';
+	    brightcove.createExperiences();
+	  }
+	  else if(type == 'flash') {
+	  }
+	  else if(type == 'image') {
+            media.innerHTML  = 
+		'<a href="' + href + '" id="hrefLink"><img style="font-size: 0px; border: 0px none;" alt="' + alt + '" src="' + url + '" id="picture"></a>'
+	  }
+	}
+	
 	function showNextImage()
 	{
 	
@@ -230,11 +338,13 @@
 		{
 			selectedTab = selectedTab + 1;
 		}
-		picture.src = imagesList[selectedTab];
-		picture.alt = imagesTooltipList[selectedTab];
-		picture_description.style.background = "url(" + descriptionList[selectedTab] + ") no-repeat #EEE";
 		
-		hreflink.href = hrefList[selectedTab];
+//		picture.src = imagesList[selectedTab];
+//		picture.alt = imagesTooltipList[selectedTab];
+		
+		showMedia(imagesTypeList[selectedTab], imagesList[selectedTab], imagesTooltipList[selectedTab], hrefList[selectedTab]);
+		
+		picture_description.style.background = "url(" + descriptionList[selectedTab] + ") no-repeat #EEE";
 		
 		showClickPoints();
 		
@@ -251,11 +361,13 @@
 		{
 			selectedTab = selectedTab - 1;
 		}
-		picture.src = imagesList[selectedTab];
-		picture.alt = imagesTooltipList[selectedTab];
-		picture_description.style.background = "url(" + descriptionList[selectedTab] + ") no-repeat #EEE";
-		hreflink.href = hrefList[selectedTab];
 		
+//		picture.src = imagesList[selectedTab];
+//		picture.alt = imagesTooltipList[selectedTab];
+
+		showMedia(imagesTypeList[selectedTab], imagesList[selectedTab], imagesTooltipList[selectedTab], hrefList[selectedTab]);
+		
+		picture_description.style.background = "url(" + descriptionList[selectedTab] + ") no-repeat #EEE";
 		showClickPoints();
 		
 		pauseStartSlideshow(true);
@@ -317,6 +429,10 @@
     
     <!-- End -->
 
+    <!-- Maxymiser script start -->
+    <script type="text/javascript" src="//maxymiser.hs.llnwd.net/o36/centerparcs/js/mmcore.js"></script>
+    <!-- Maxymiser script end -->
+
     
     </head>
    
@@ -330,6 +446,7 @@
 	    
 	    
 	    
+	    
 	
     
 
@@ -337,8 +454,16 @@
     
     
     
-	<body onload="initialize()" style="background-color: #9CB08B">
+	<body onload="initialize()" style="background-color: #a0ab40">
     
+    
+
+    
+
+    
+
+    
+
     
 
     <a name="bodytop" id="bodytop"></a>
@@ -346,7 +471,13 @@
  
     <!-- Head navigation -->
     
-<div class="header_outer" style="background: #425B31 url(/images/gr_header_bg.gif) repeat;">
+
+
+
+<div class="header_outer" style="background-color: #6b7425">
+
+  <img src="/config/new_header_bg.png" style="position: absolute; left: 50%; margin: 0 0 0 -899px">
+  
     
     
 	
@@ -354,6 +485,13 @@
 
 
 
+
+
+    
+    
+    
+    
+    
     
     
     
@@ -364,11 +502,61 @@
 
     
 	
+	
+		<div class="head-free-html-block">
+		<!--free HTML block-->
+		<div class="header_links"><a id="mobile_site" style="display: none; left: -680px; position: absolute; top: -10px" href="http://m.centerparcs.co.uk?view=mobile">Return to Mobile Site</a></div>
+<script type="text/javascript">
 
-	<div class="head head_logo" style="background-image: url(/images/CPLogo_header.gif)">
+    var mobile = (/iphone|ipod|googlebot-mobile/i.test(navigator.userAgent.toLowerCase()));  
+    if (mobile) {  
+
+        if(document.getElementById("mobile_site") != null) {
+               document.getElementById("mobile_site").style.display = "block";
+        }
+    }
+
+</script>
+<p><style type="text/css">
+table.free img {
+float: right;
+margin: 0px;
+}</style></p>
+<div align="right">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table class="free" width="595" border="0">
+    <tbody>
+        <tr valign="middle">
+            <td align="right" width="595">
+            <table class="free" width="80" border="0">
+                <tbody>
+                    <tr>
+                        <td width="20"><a target="_blank" href="http://www.youtube.com/user/CenterParcsUK?ob=0&amp;feature=results_main"><img alt="Watch us on YouTube" src="/images/logos/youtube_header.gif"></a></td>
+                        <td width="20"><a target="_blank" href="http://www.facebook.com/pages/Center-Parcs-UK/150505034974246"><img alt="Follow us on facebook" src="/images/logos/fb_header.gif"></a></td>
+                        <td width="20"><a target="_blank" href="http://twitter.com/#!/CenterParcsUK"><img alt="Follow us on Twitter" border="0" src="/images/logos/twitter_header.gif"></a></td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+            <td width="35">&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+		</div>
+	
+	
+	
+	<div class="head head_logo" style="background-image: url(/images/CR-homepage/header_logo.png)">
 	    <div class="hidden1">
-		<a href="/index.jsp" title="Center Parcs"><b>Center Parcs</b></a>
+		<a href="/index_emergency.jsp" title="Center Parcs"><b>Center Parcs</b></a>
 	    </div>
+	    
+	    
+	    
+	    
+	    
 	    <div class="header_links">
 	    <div class="header_links_inner">
 		
@@ -378,7 +566,6 @@
 		    
 			
 			    <a href="/meetings/" class="link">Conferences &amp; Events</a>
-			    <p class="header_dot_divider">.</p>
 			
 			
 			
@@ -391,19 +578,6 @@
 			
 			
 			    <a href="http://www.centerparcs.jobs/exp/" class="link">Careers</a>
-			    <p class="header_dot_divider">.</p>
-			
-			
-		    
-		
-		    
-		    
-		    
-		    
-			
-			
-			    <a href="javascript:window.external.AddFavorite('http://www.centerparcs.co.uk', 'Center Parcs')" class="link">Bookmark</a>
-			    <p class="header_dot_divider">.</p>
 			
 			
 		    
@@ -414,7 +588,6 @@
 		    
 			
 			    <a href="/company/about_us.jsp" class="link">Company Information</a>
-			    <p class="header_dot_divider">.</p>
 			
 			
 			
@@ -425,21 +598,8 @@
 		    
 		    
 			
-			    <a href="/faqs/" class="link">Need Help? FAQ's </a>
-			    <p class="header_dot_divider">.</p>
 			
-			
-			
-		    
-		
-		    
-		    
-		    
-		    
-			
-			    <a href="/information/contact/index.jsp" class="link">Contact Us</a>
-			    <p class="header_dot_divider">.</p>
-			
+			    <a href="http://centerparcs.custhelp.com/app/home" class="link">Need Help?&nbsp;&nbsp;&nbsp;</a>
 			
 			
 		    
@@ -451,9 +611,9 @@
 		    
 		    
 			
-			    <a href="/information/contact/index.jsp" class="link_bold">08448 267 723</a>
+			
+			    <a href="http://centerparcs.custhelp.com/app/answers/detail/a_id/4934" class="link_bold">Contact Centre 08448 267 723</a>
 			    
-			
 			
 			
 		    
@@ -472,8 +632,14 @@
     
 </div>
 
+<style type="text/css">
+.body_outer {
+    background: url("/config/new-main-top-bg.png") no-repeat scroll 50% 0 transparent;
+}
+</style>
 
-<div class="body_outer" style=" background-color: #9CB08B;">
+<div class="body_outer">
+
 
 <!-- 
 Start of DoubleClick Floodlight Tag: Please do not remove 
@@ -486,13 +652,13 @@ Creation Date: 06/18/2010
 var axel = Math.random() + ""; 
 var a = axel * 10000000000000; 
 document.write('<iframe src="http://fls.doubleclick.net/activityi;src=1765036;type=2010w602;cat=cente299;ord=' + a + '?" width="1" height="1" frameborder="0"></iframe>'); 
-</script><iframe src="http://fls.doubleclick.net/activityi;src=1765036;type=2010w602;cat=cente299;ord=4344927599498.9243?" width="1" height="1" frameborder="0"></iframe> 
+</script><iframe src="http://fls.doubleclick.net/activityi;src=1765036;type=2010w602;cat=cente299;ord=6436991781881.322?" width="1" height="1" frameborder="0"></iframe> 
 <noscript> 
 <iframe src="http://fls.doubleclick.net/activityi;src=1765036;type=2010w602;cat=cente299;ord=1?" width="1" height="1" frameborder="0"></iframe> 
 </noscript> 
 <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
 
-<script language="JavaScript" src="/system/modules/centerparcs.template.main/resources/script/s_code_oct08.js"></script><img name="s_i_centerparcscoukprod" height="1" width="1" border="0" alt="" src="https://centerparcs.112.2O7.net/b/ss/centerparcscoukprod/1/H.6-pdv-2/s28756361019503?[AQB]&amp;ndh=1&amp;t=30/0/2020%2014%3A14%3A41%204%200&amp;ce=ISO-8859-1&amp;ns=centerparcs&amp;cdp=3&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20111101122205id_/http%253A//www.centerparcs.co.uk/information/privacy/index.jsp&amp;cc=GBP&amp;ch=Contact%20Us/Website%20Information&amp;server=www.centerparcs.co.uk&amp;c16=Weekday%3AThursday%3A2%3A00PM&amp;v37=Weekday%3AThursday%3A2%3A00PM&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript" src="/system/modules/centerparcs.template.main/resources/script/s_code_oct08.js"></script><img name="s_i_centerparcscoukprod" height="1" width="1" border="0" alt="" src="https://centerparcs.112.2O7.net/b/ss/centerparcscoukprod/1/H.6-pdv-2/s24448297761389?[AQB]&amp;ndh=1&amp;t=30/0/2020%2014%3A14%3A45%204%200&amp;ce=ISO-8859-1&amp;ns=centerparcs&amp;cdp=3&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20120617221311id_/http%253A//www.centerparcs.co.uk/information/privacy/index.jsp&amp;cc=GBP&amp;ch=Contact%20Us/Website%20Information&amp;server=www.centerparcs.co.uk&amp;c16=Weekday%3AThursday%3A2%3A00PM&amp;v37=Weekday%3AThursday%3A2%3A00PM&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script language="JavaScript"><!--
 /* You may give each page an identifying name, server, and channel on the next lines. */
  if (typeof(s) + '' != 'undefined') {
@@ -548,6 +714,24 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 
 
 
+
+
+	
+
+
+<style type="text/css">
+.left_nav_su_link_text {
+    color: #000000;
+}
+li.left_nav_sub2_first a {
+    color: #000000;
+}
+
+li.left_nav_sub2 a {
+    color: #000000;
+}
+</style>
+
 <div class="left_menu">
         <ul class="left_nav_ul">
                 
@@ -587,9 +771,12 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
                                         
                                                          
 
-                                        <li id="id1" class="left_nav_li">
-					    <a id="id1_a" href="/index.jsp" style="overflow: hidden;">
-						<img src="/images/left_nav/home.jpg" onmouseover="this.src='/images/left_nav/home_select.jpg'" onmouseout="this.src='/images/left_nav/home.jpg';" alt="Home">
+		                        
+
+                                        <li id="id1" class="left_nav_li rounded_6px">
+					    <a class="rounded_6px" id="id1_a" href="/index.jsp" style="background-color: #9cb08c ">
+						<img src="/images/left_nav/home.png" alt="Home">
+						<span>Home</span>
 					    </a>
 					</li>                   
                                 
@@ -633,9 +820,12 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
                                         
                                                          
 
-                                        <li id="id2" class="left_nav_li">
-					    <a id="id2_a" href="/discover/index.jsp" style="overflow: hidden;">
-						<img src="/images/left_nav/discover.jpg" onmouseover="this.src='/images/left_nav/discover_select.jpg'" onmouseout="this.src='/images/left_nav/discover.jpg';" alt="Discover Center Parcs">
+		                        
+
+                                        <li id="id2" class="left_nav_li rounded_6px">
+					    <a class="rounded_6px" id="id2_a" href="/discover/index.jsp" style="background-color: #4d663c ">
+						<img src="/images/left_nav/discover.png" alt="Discover Center Parcs">
+						<span>Discover Center Parcs</span>
 					    </a>
 					</li>                   
                                 
@@ -679,9 +869,12 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
                                         
                                                          
 
-                                        <li id="id3" class="left_nav_li">
-					    <a id="id3_a" href="/villages/index.jsp" style="overflow: hidden;">
-						<img src="/images/left_nav/locations.jpg" onmouseover="this.src='/images/left_nav/locations_select.jpg'" onmouseout="this.src='/images/left_nav/locations.jpg';" alt="Locations">
+		                        
+
+                                        <li id="id3" class="left_nav_li rounded_6px">
+					    <a class="rounded_6px" id="id3_a" href="/villages/index.jsp" style="background-color: #896532 ">
+						<img src="/images/left_nav/locations.png" alt="Locations">
+						<span>Locations</span>
 					    </a>
 					</li>                   
                                 
@@ -725,9 +918,12 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
                                         
                                                          
 
-                                        <li id="id4" class="left_nav_li">
-					    <a id="id4_a" href="/thingstodo.jsp" style="overflow: hidden;">
-						<img src="/images/left_nav/todo.jpg" onmouseover="this.src='/images/left_nav/todo_select.jpg'" onmouseout="this.src='/images/left_nav/todo.jpg';" alt="Things to do">
+		                        
+
+                                        <li id="id4" class="left_nav_li rounded_6px">
+					    <a class="rounded_6px" id="id4_a" href="/thingstodo.jsp" style="background-color: #ce7019 ">
+						<img src="/images/left_nav/todo.png" alt="Things to do">
+						<span>Things to do</span>
 					    </a>
 					</li>                   
                                 
@@ -771,9 +967,12 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
                                         
                                                          
 
-                                        <li id="id5" class="left_nav_li">
-					    <a id="id5_a" href="/accommodation/index.jsp" style="overflow: hidden;">
-						<img src="/images/left_nav/accommodation.jpg" onmouseover="this.src='/images/left_nav/accommodation_select.jpg'" onmouseout="this.src='/images/left_nav/accommodation.jpg';" alt="Accommodation">
+		                        
+
+                                        <li id="id5" class="left_nav_li rounded_6px">
+					    <a class="rounded_6px" id="id5_a" href="/accommodation/index.jsp" style="background-color: #801c18 ">
+						<img src="/images/left_nav/accommodation.png" alt="Accommodation">
+						<span>Accommodation</span>
 					    </a>
 					</li>                   
                                 
@@ -817,9 +1016,12 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
                                         
                                                          
 
-                                        <li id="id6" class="left_nav_li">
-					    <a id="id6_a" href="/makeabooking.jsp" style="overflow: hidden;">
-						<img src="/images/left_nav/make_booking.jpg" onmouseover="this.src='/images/left_nav/make_booking_select.jpg'" onmouseout="this.src='/images/left_nav/make_booking.jpg';" alt="Make a booking">
+		                        
+
+                                        <li id="id6" class="left_nav_li rounded_6px">
+					    <a class="rounded_6px" id="id6_a" href="/makeabooking.jsp" style="background-color: #575081 ">
+						<img src="/images/left_nav/make_booking.png" alt="Make a booking">
+						<span>Make a booking</span>
 					    </a>
 					</li>                   
                                 
@@ -863,9 +1065,12 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
                                         
                                                          
 
-                                        <li id="id7" class="left_nav_li">
-					    <a id="id7_a" href="/mybooking.jsp" style="overflow: hidden;">
-						<img src="/images/left_nav/my_booking.jpg" onmouseover="this.src='/images/left_nav/my_booking_select.jpg'" onmouseout="this.src='/images/left_nav/my_booking.jpg';" alt="My booking">
+		                        
+
+                                        <li id="id7" class="left_nav_li rounded_6px">
+					    <a class="rounded_6px" id="id7_a" href="/mybooking.jsp" style="background-color: #6087a6 ">
+						<img src="/images/left_nav/my_booking.png" alt="My Booking">
+						<span>My Booking</span>
 					    </a>
 					</li>                   
                                 
@@ -894,8 +1099,40 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 
     
 	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+    
+    
+    
+    
+    
+	
     
 
+    
+    
+	
+    
+    
     
     
 	
@@ -958,6 +1195,7 @@ function validateForm(urlStep3, urlStep1, urlStep2) {
   
   var ddVillage = document.getElementById("Select3");
   var ddBreak = document.getElementById("Select7");
+  var ddChildren16 = document.getElementById("Select23");
   var offerCode = document.getElementById("offerCode");
   var additionalReq = document.getElementById('Select15').value; 
 
@@ -974,17 +1212,25 @@ function validateForm(urlStep3, urlStep1, urlStep2) {
 
   offerCode.value = offerCode.value.toUpperCase();
    
+  form.durationSelect.value = ddBreak.options[ddBreak.selectedIndex].value; 
   if (ddBreak.options[ddBreak.selectedIndex].value == "Select") {
     if (additionalReq.indexOf("No") == 0) {
       alert("Please select how long you would like to stay from the drop-down list.");
       return false;
     }
+    else {
+      form.durationSelect.value = "";
+    }
   }
   
+  form.accCode.value = ddVillage.options[ddVillage.selectedIndex].value;
   if (ddVillage.options[ddVillage.selectedIndex].value == "Select") {
     if (additionalReq.indexOf("No") == 0) {
       alert("Please select a village from the drop-down list.");
       return false;
+    }
+    else {
+      form.accCode.value = "";
     }
   }
 
@@ -1001,7 +1247,7 @@ function validateForm(urlStep3, urlStep1, urlStep2) {
      hiddenVals.appendChild(createHidden("ageChildren1", 16));
   }
   
-  form.duration.value = getDropDownValue(form.durationSelect);
+  form.duration.value = getDropDownValue(form.durationSelect_);
   if (isNaN(parseInt(form.duration.value))) {
     var bp = overrideDates.findBookPattern(form.duration.value, getDropDownText(form.dayinmonth));
 
@@ -1045,11 +1291,16 @@ function validateForm(urlStep3, urlStep1, urlStep2) {
     }
   }
   
-  if ((parseInt(form.childrenUnder16.value) > 0) && (parseInt(form.numberInfants1.value) + parseInt(form.numberToddlers1.value) + parseInt(form.numberChildren1.value) < 1)) {
+  if ((parseInt(form.childrenUnder16_.value) > 0) && (parseInt(form.numberInfants1.value) + parseInt(form.numberToddlers1.value) + parseInt(form.numberChildren1.value) < 1)) {
     if (additionalReq.indexOf("No") == 0) {
       alert("Please advise the ages of the children in your party.\n");
       return false;
     }
+  }
+
+  form.childrenUnder16.value = ddChildren16.options[ddChildren16.selectedIndex].value;
+  if (ddChildren16.options[ddChildren16.selectedIndex].value == "Select") {
+      form.childrenUnder16.value = "";
   }
   
   var requiredBedrooms = Math.ceil(numberPeople / 2);
@@ -1063,7 +1314,7 @@ function validateForm(urlStep3, urlStep1, urlStep2) {
   }
 
 
-  if (offerCode.value.indexOf("CB") == 0 || offerCode.value.indexOf("WH") ==0) {
+  if (offerCode.value.indexOf("CB") == 0 || offerCode.value.indexOf("WH") ==0 || additionalReq.indexOf("Yes") == 0) {
 
   // hidden value for Step2
     hiddenVals = findElement("step2");
@@ -1109,9 +1360,28 @@ function validateForm(urlStep3, urlStep1, urlStep2) {
   }
 
   if (additionalReq.indexOf("Yes") == 0) {
-    form.action = urlStep1;
+    if (offerCode.value.indexOf("CB") == 0 || offerCode.value.indexOf("WH") ==0) {
+      form.action = urlStep2;
+      form.step.value= "searchPt2";
+    }
+    else {
+      if (form.accCode.value != "" && form.durationSelect.value != "") {
+        form.action = urlStep2;
+      }
+      else {
+        form.action = urlStep1;
+      }  
+    }
+  }  
+  else {
+    if (offerCode.value.indexOf("CB") == 0 || offerCode.value.indexOf("WH") ==0) {
+      form.action = urlStep1 + "wrapper.jsp";
+      form.step.value= "newSearch2";
+      hiddenVals = findElement("step2");
+      hiddenVals.appendChild(createHidden("_pageName", "comeBackSoon"));
+    }
   }
-
+  
   var dateCookie = new Cookie(document,"dateCookie");
   dateCookie.monyr = getDropDownValue(form.monthyear);
   dateCookie.day = getDropDownValue(form.dayinmonth);
@@ -1154,7 +1424,7 @@ function pageInit() {
   for (var period in overrideDates) {
     if (typeof overrideDates[period] == "object") {
       if (overrideDates[period].getDate("end", "FSS") >= form.dateRangeStart.value) {
-        form.durationSelect.options[form.durationSelect.options.length] = new Option(overrideDates[period].name, period);
+        form.durationSelect_.options[form.durationSelect_.options.length] = new Option(overrideDates[period].name, period);
       } else if (overrideDates[period].getDate("start", "FSS") < form.dateRangeStart.value) {
         overrideDates[period].closeOutStart = createDate(form.dateRangeStart.value);
       }
@@ -1182,7 +1452,7 @@ function pageInit() {
 
   changedates(true);
 
-  modifyCalendar(document.FSSform.durationSelect);
+  modifyCalendar(document.FSSform.durationSelect_);
   toggleCodeInput();
 
   if (document.FSSform.arrDate.value) {
@@ -1206,13 +1476,13 @@ function durationChange() {
   else {
     showCalendar();
     changedates();
-    modifyCalendar(document.FSSform.durationSelect);
+    modifyCalendar(document.FSSform.durationSelect_);
   }
 }
 
 function dayChange() { 
   var form = document.FSSform;
-  var bp = overrideDates.findBookPattern(getDropDownValue(form.durationSelect), getDropDownText(form.dayinmonth));
+  var bp = overrideDates.findBookPattern(getDropDownValue(form.durationSelect_), getDropDownText(form.dayinmonth));
   if (bp != null) { 
     form.duration.value = bp.duration;
     bp.onSelect(form);        
@@ -1325,6 +1595,16 @@ function showCalendar() {
 
 
 
+
+
+
+
+
+
+
+
+
+	
 	
 	
 		<div class="content" id="content_id" style="float: left; margin-top: 5px; width: 583px; display: block;">
@@ -1332,9 +1612,14 @@ function showCalendar() {
 
 
 
+
     
     
 
+    
+    
+    
+    
     
     
     
@@ -1345,18 +1630,28 @@ function showCalendar() {
 	
 	
     
+    
 
     
     
     
     
     
+    
+    
+    
+    
+    
+    
+    
+
 
 
 <div class="left_" style="float: right;">
 
 	
 
+	
 
     <div class="promobox" style="float: none;">
 
@@ -1376,7 +1671,8 @@ function showCalendar() {
     </div>
 
 </div>
-	
+
+
     
     
     
@@ -1396,52 +1692,51 @@ function showCalendar() {
 	    
 	
 
-	<p align="left"><strong><u>PRIVACY STATEMENT</u><br>
-GENERAL</strong><br>
-This privacy statement sets out how Center Parcs Limited complies with European Union data protection requirements. It applies to the entire web site and you can access it via our homepage and from the bottom of every page by clicking on the appropriate link.&nbsp; We may change this privacy statement from time to time by updating this page.&nbsp; You should check this page from time to time to ensure you are happy with any changes.&nbsp;&nbsp;&nbsp;<br>
+	<p align="left"><b><u>PRIVACY STATEMENT</u></b></p>
+<p><b>GENERAL</b><br>
+This privacy statement sets out how Center Parcs Limited complies with European Union data protection requirements. It applies to the entire web site and you can access it via our homepage and from the bottom of every page by clicking on the appropriate link. We may change this privacy statement from time to time by updating this page therefore, you should continue to check this page to ensure you are happy with any changes.<br>
+<br>
 Center Parcs Limited and its parent, subsidiary and associated companies are committed to respecting your privacy. We have structured our web site so that, in general, you can visit the Center Parcs web site without identifying yourself or revealing any personal information. Once you choose to provide us with any information by which you can be identified, then you can be assured that it will only be used in accordance with this privacy statement.<br>
-For your protection, we are registered under the Data Protection Act 1998 and have given all appropriate notifications to the Information Commissioner.<br>
-<strong>WHAT WE COLLECT<br>
-</strong>We may collect the following information:<br>
+For your protection, we are registered under the Data Protection Act 1998 and have given all appropriate notifications to the Information Commissioner.</p>
+<p><b>WHAT WE COLLECT</b><br>
+We may collect the following information:<br>
 •&nbsp;Where you can order holidays, breaks, products or other services, we will collect your name, contact (telephone, fax, mail and e-mail addresses) and billing information, transaction and credit card information.&nbsp;<br>
 •&nbsp;We may also ask you to provide us with information regarding your personal or professional interests, demographics, experiences with our holidays, breaks, products or other services and contact preferences in order to provide you with further correspondence about our holidays, breaks, products or other services.&nbsp;<br>
-•&nbsp;Some pages use cookies and web beacons, a data analysis technique. In order to learn more about cookies, please refer to the section at the end of this Privacy Statement.&nbsp;&nbsp;<br>
-<strong>WHAT DO WE DO WITH THE INFORMATION WE GATHER?<br>
-</strong>We require this information to understand your needs and provide you with a better service and in particular for the following reasons:<br>
-•&nbsp;Internal record keeping.&nbsp;<br>
-•&nbsp;To improve our products and services.&nbsp;<br>
-•&nbsp;Our representatives may follow up, either by e-mail, phone, fax or mail, to people who have purchased holidays or goods from our site, as part of our customer care procedures.&nbsp;<br>
-•&nbsp;To send out emails about a specific booking or in response to an enquiry using the e-mail address that you have provided during your time on the Center Parcs website.&nbsp;<br>
-•&nbsp;To send promotional e-mails about new products, special offers or other information that we think you may find interesting using a valid e-mail address if you have provided one and have not opted-out of receiving email communications from Center Parcs. To opt out of these promotional email communications, please <a target="_blank" href="http://emailalerts.centerparcs.co.uk/public/unsubscribe.jsp">click this link</a>.<br>
-You may change your mind about the permission you have given us to use your personal information at any time by emailing us at&nbsp;<a target="_blank" href="mailto:data.protection@centerparcs.co.uk">data.protection@centerparcs.co.uk</a> or writing to:<br>
-Data Protection Compliance Officer<br>
+Brochure requests<br>
+•&nbsp;Some pages use cookies and web beacons, a data analysis technique. In order to learn more about cookies, please refer to the section at the end of this Privacy Statement.&nbsp;&nbsp;</p>
+<p><b>WHAT DO WE DO WITH THE INFORMATION WE GATHER?</b><br>
+We require this information to understand your needs and provide you with a better service and in particular for the following reasons:<br>
+• Internal record keeping.<br>
+• To improve our products and services.<br>
+• Our representatives may follow up, either by e-mail, phone, fax or mail, to people who have purchased holidays or goods from our site, as part of our customer care procedures.<br>
+• To send out emails about a specific booking or in response to an enquiry using the e-mail address that you have provided during your time on the Center Parcs website.<br>
+• To send promotional e-mails about new products, special offers or other information that we think you may find interesting using a valid e-mail address if you have provided one and have not opted-out of receiving email communications from Center Parcs. To opt out of these promotional email communications, please <a target="_blank" href="http://emailalerts.centerparcs.co.uk/public/unsubscribe.jsp">click this link</a>.</p>
+<p>We may occasionally use third party companies to manage collation, processing and storage of your personal information and sensitive personal information on our behalf. These companies may be located outside the European Economic Area, however they are carefully selected and screened to ensure suitable protection of your security and privacy and are permitted to use the information only in accordance with our instructions.</p>
+<p>You may change your mind about the permission you have given us to use your personal information at any time by emailing us at <a href="mailto:data.protection@centerparcs.co.uk">data.protection@centerparcs.co.uk</a> or writing to:</p>
+<p>Data Protection Compliance Officer<br>
 Center Parcs Limited<br>
 Head Office<br>
 One Edison Rise<br>
-New Ollerton<br>
-Newark<br>
-Nottinghamshire<br>
-NG22 9DP<br>
-&nbsp;<br>
-<strong>WHAT IF YOU THINK WE HAVE INCORRECT INFORMATION OR YOU WOULD LIKE A COPY OF THE INFORMATION WE HOLD ABOUT YOU?<br>
-</strong>You may request details of personal information that we hold about you under the Data Protection Act 1998.&nbsp;&nbsp; A small fee will be payable.&nbsp;&nbsp; This fee will not exceed £10 per data subject.&nbsp;&nbsp; If you would like a copy of the information held on you please write to:<br>
-Data Protection Compliance Officer<br>
+Nottinghamshire, NG22 9DP</p>
+<p><b>WHAT IF YOU THINK WE HAVE INCORRECT INFORMATION OR YOU WOULD LIKE A COPY OF THE INFORMATION WE HOLD ABOUT YOU?</b><br>
+You may request details of personal information that we hold about you under the Data Protection Act 1998. A small fee will be payable. This fee will not exceed £10 per data subject. If you would like a copy of the information held on you please write to:</p>
+<p>Data Protection Compliance Officer<br>
 Center Parcs Limited<br>
 One Edison Rise<br>
 New Ollerton<br>
 Newark<br>
 Nottinghamshire NG22 9DP<br>
-Email:&nbsp;<a target="_blank" href="mailto:data.protection@centerparcs.co.uk">data.protection@centerparcs.co.uk</a><br>
-If you believe that any information we are holding on you is incorrect or incomplete, please write or e-mail us as soon as possible to the above address.&nbsp;&nbsp; We will correct any information which was found to be incorrect promptly.<br>
-<strong>SECURITY<br>
-</strong>We are committed to ensuring that your information is secure.&nbsp;&nbsp; In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect on line.&nbsp;&nbsp; We use encryption when collecting or transferring sensitive data such as credit card information.<br>
-<strong>OTHER WEB SITES<br>
-</strong>Our web site may contain links to enable you to visit other web sites of interest easily.&nbsp;&nbsp; However, once you have used these links to leave our site you should note that we do not have any control over that other web site.&nbsp;&nbsp; Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement.&nbsp;&nbsp; You should exercise caution and look at the privacy statement applicable to the web site in question.<br>
-<strong>HOW WE USE COOKIES<br>
-</strong>A cookie is a piece of text which asks permission to be placed on your computer's hard drive.&nbsp;&nbsp; Once you agree, your browser adds that text in a small file.&nbsp;&nbsp; A cookie helps analyse web traffic or lets you know when you visit a particular site.&nbsp;&nbsp; Cookies allow web applications to respond to you as an individual.&nbsp;&nbsp; The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.&nbsp;&nbsp; For example, when you visit an electronic store, a cookie makes it easier to shop, by allowing you to place things into a shopping basket; the basket itself is not the cookie, the cookie is placed on your hard drive and keeps track of your basket versus others in use at the same time.</p>
-<p>We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes the pages visited, a booking and value of the booking. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this website analysis tool by clicking here&nbsp;<a target="_blank" href="http://centerparcs.112.2o7.net/optout.html">http://centerparcs.112.2o7.net/optout.html</a>&nbsp;</p>
-<p>Overall, cookies help us provide you with a better web site, by enabling us to monitor which pages you find useful and which you do not.&nbsp;&nbsp; A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.&nbsp;&nbsp; This practice is strictly in force.&nbsp;&nbsp; We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile.&nbsp;&nbsp; You may set your web browser (Microsoft internet explorer or Netscape navigator) to notify you of cookie placement requests or decline cookies completely.&nbsp;&nbsp; You can delete the files that contain cookies - those files are stored as part of your internet browser.<br>
-&nbsp;</p>
+Email: <a href="mailto:data.protection@centerparcs.co.uk">data.protection@centerparcs.co.uk</a></p>
+<p>If you believe that any information we are holding on you is incorrect or incomplete, please write or e-mail us as soon as possible to the above address. We will correct any information which was found to be incorrect promptly.</p>
+<p><b>SECURITY</b><br>
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and organisational controls to safeguard the information we collect online.</p>
+<p><b>OTHER WEB SITES</b><br>
+Our web site may contain links to enable you to visit other web sites of interest easily. However, once you have used these links to leave our site you should note that we do not have any control over that other web site. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the web site in question.</p>
+<p><b>HOW WE USE COOKIES</b><br>
+A cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For example, when you visit an online store, a cookie allows your basket content to be remember as your browse from page to page. The cookie file is placed on your hard drive and keeps track of your basket, and can be used to analyse your journey through the website to improve the website in the future.</p>
+<p>We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes the pages visited, a booking and value of the booking. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this website analysis tool by clicking here: <a href="http://centerparcs.112.2o7.net/optout.html">http://centerparcs.112.2o7.net/optout.html</a></p>
+<p>Overall, cookies help us provide you with a better web site, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly in force. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. You may set most popular web browsers to notify you of cookie placement requests or decline cookies completely. You can delete the files that contain cookies - those files are stored as part of your web browser.</p>
+<p>The law which applies to how we use cookies and similar technologies for storing information on a user’s equipment such as their computer or mobile device changed on 26 May 2011. We will be working towards implementing the new guidelines for the use of cookies. If you want to read more information about this law, please download the document: Changes to the rules on using cookies and similar technologies for storing information from the Information Commissioner's Office website.</p>
 
 <script>
 // moock fpi [f.lash p.layer i.nspector]
@@ -1607,6 +1902,7 @@ function GetFlashEmbed (versionNo,id,strSrc,strBgColor,strWidth,strHeight,strFVa
 	    
 	    
 	    
+	    
 		
 		    
 		    
@@ -1614,14 +1910,17 @@ function GetFlashEmbed (versionNo,id,strSrc,strBgColor,strWidth,strHeight,strFVa
 	
     
 
+    
     <div style="background: url(/images/main_left_bottom.jpg) no-repeat;" class="main_corner_left_bottom"></div>
     <div style="background: url(/images/main_right_bottom.jpg) no-repeat;" class="main_corner_right_bottom"></div>
-    <div style="clear: both;"></div>
+    <!--CR<div style="clear: both;"></div> -->
 
     </div>
     <div style="clear: both;"></div>
     </div>
 
+
+
     
     
 	
@@ -1629,12 +1928,21 @@ function GetFlashEmbed (versionNo,id,strSrc,strBgColor,strWidth,strHeight,strFVa
 
 
 
+
+
     
     
     
     
     
     
+    
+    
+    
+    
+    
+    
+	    
     
 
     
@@ -1655,10 +1963,26 @@ function GetFlashEmbed (versionNo,id,strSrc,strBgColor,strWidth,strHeight,strFVa
 		
 	    
 
-	    <div class="footer_grey_outer" style="background-color: #9CB08B;">
-	    <div class="footer_grey footer_grey_height_unique" style="background-color: #425B31;">
+	    <!--<div class="footer_grey_outer" style="background-color: #a0ab40;">-->
+	    <div class="footer_grey_outer">
+	    		
+		<!--<div class="footer_grey footer_grey_height_unique" style="background-color: #425B31;">-->
+		<div class="footer_grey footer_grey_height_unique">
+		
+		
+		
+		<div class="footer_corners top">
+			<i class="footer-l-c"></i>
+			<i class="footer-r-c"></i>
+			<i class="footer-c"></i>
+		</div>
+		<div class="footer_corners bottom">
+			<i class="footer-l-c"></i>
+			<i class="footer-r-c"></i>
+			<i class="footer-c"></i>
+		</div>
 		<div class="footer_logo_column">
-		    <img src="/images/CP-logo-green-back.gif" class="footer_logo">
+		    <img src="/images/CR-homepage/footer_logo.png" class="footer_logo">
 		    <p id="footer_copyright_text" class="footer_copyright_text">© Center Parcs 2008</p>
 		</div>
 		<div class="footer_text_column">
@@ -1783,6 +2107,28 @@ function GetFlashEmbed (versionNo,id,strSrc,strBgColor,strWidth,strHeight,strFVa
 			    
 		        
 		    
+		        
+		        
+		        
+		        
+			    
+			        <li><p><a href="/family_breaks.jsp" class="footer_link">Family breaks</a></p></li>
+			    
+			    
+			    
+		        
+		    
+		        
+		        
+		        
+		        
+			    
+			        <li><p><a href="/short_breaks.jsp" class="footer_link">Short Breaks</a></p></li>
+			    
+			    
+			    
+		        
+		    
 		</ul>
 	       </div>
 
@@ -1864,7 +2210,7 @@ function GetFlashEmbed (versionNo,id,strSrc,strBgColor,strWidth,strHeight,strFVa
 		        
 		        
 			    
-			        <li><p><a href="/new_year_breaks.jsp" class="footer_link">New Year Breaks</a></p></li>
+			        <li><p><a href="/new_year.jsp" class="footer_link">New Year Breaks</a></p></li>
 			    
 			    
 			    
@@ -1916,7 +2262,7 @@ function GetFlashEmbed (versionNo,id,strSrc,strBgColor,strWidth,strHeight,strFVa
 		        
 		        
 			    
-			        <li><p><a href="/information/index.jsp" class="footer_link">Sitemap</a></p></li>
+			        <li><p><a href="/sitemap.jsp" class="footer_link">Sitemap</a></p></li>
 			    
 			    
 			    
@@ -2010,7 +2356,15 @@ function GetFlashEmbed (versionNo,id,strSrc,strBgColor,strWidth,strHeight,strFVa
 
 	
     
+    
+    
+<style type="text/css">
+.body-bottom-bg {
+    background: url("/config/new-main-bottom-bg.png") no-repeat scroll 50% 0 transparent;
+}    
+</style>
 
+<div class="body-bottom-bg"></div>
 
 <!-- Survey -->
 <!-- Begin -->
@@ -2067,16 +2421,16 @@ function GetFlashEmbed (versionNo,id,strSrc,strBgColor,strWidth,strHeight,strFVa
 
     <!--  Google Analytics BEGIN -->
     <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-   </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-   <script type="text/javascript">
-       try {
-           var pageTracker = _gat._getTracker("UA-6199520-1");
-           pageTracker._setDomainName(".centerparcs.co.uk");
-           pageTracker._trackPageview("Step 3:Search Results");
-       } catch(err) {}</script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-6199520-1']);
+    _gaq.push(['_setDomainName', 'centerparcs.co.uk']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') +'.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
     <!--  Google Analytics END-->
 
     <!-- Search Ignite BEGIN click tracking script  version 4.0 -->
@@ -2095,6 +2449,7 @@ function GetFlashEmbed (versionNo,id,strSrc,strBgColor,strWidth,strHeight,strFVa
     </noscript>
 
     <!--Search Ignite END click tracking script  version 4.0 -->
+
 
     
     
