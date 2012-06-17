@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qxiu.net privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103234529id_/http%3A//www.qxiu.net/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qxiu.net privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617231526id_/http%3A//www.qxiu.cn/Privacy.htm) for the most accurate reproduction.*
 
 # Qxiu Open Directory:Privacy Policy.
 
