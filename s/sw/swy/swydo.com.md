@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the swydo.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218200623id_/http%3A//www.swydo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swydo.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617120544id_/http%3A//www.swydo.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
-
-**Swydo Privacy Policy**
+# Privacy policy
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
@@ -11,14 +9,14 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 
 
-**INFORMATION GATHERING AND USAGE**
+## Information gathering and usage
 
   * When you register for Swydo we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
   * Swydo uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
 
 
-**COOKIES**
+## Cookie
 
   * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
   * Cookies are required to use the Swydo service.
@@ -26,21 +24,23 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 
 
-**DATA STORAGE**
+## Data storage
 
 Swydo uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run swydo. Although Swydo owns the code, databases, and all rights to the Swydo application, you retain all rights to your data.
 
-**DISCLOSURE**
+## **DISCLOSURE**
 
 ****Swydo may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service
 
-**CHANGES**
+## Changes
 
 
 
 
 Swydo may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Swydo primary account holder account or by placing a prominent notice on our site.
 
-**QUESTIONS**
+## Questions
 
 Any questions about this Privacy Policy should be addressed to support at swydo.com or by mail at: Swydo, Franciscusweg 249, 1216SG Hilversum, Netherlands
+
+Sign up for the free plan. No credit card required. [Start using Swydo](https://swydo.com/user/auth/signup)
