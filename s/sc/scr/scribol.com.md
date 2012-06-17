@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scribol.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210145052id_/http%3A//scribol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribol.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617195314id_/http%3A//scribol.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Scribol
+# Scribol - Privacy Policy
 
 We are committed to safeguarding the privacy of visitors to the Scribol website (the “Site”); this policy sets out how we will treat your personal information.
 
@@ -28,9 +28,9 @@ We may use both “session” cookies and “persistent” cookies on the Site f
 
 Session cookies will be deleted from your computer when you close your browser. Persistent cookies may remain stored on your computer until deleted, or until they reach a specified expiry date. We use these persistent cookies to better serve you with the kinds of content that we feel may be of interest to you.
 
-We use Google Analytics to analyse the use of the Site. Google Analytics generates statistical and other information about the Site use by means of cookies, which are stored on users' computers. The information generated relating to the Site is used to create reports about the use of the Site. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>.
+We use Google Analytics to analyse the use of the Site. Google Analytics generates statistical and other information about the Site use by means of cookies, which are stored on users' computers. The information generated relating to the Site is used to create reports about the use of the Site. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>. 
 
-Advertisers on our site may also send you cookies which may behave and be used in a similar way to that described above.
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
