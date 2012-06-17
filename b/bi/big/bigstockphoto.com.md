@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigstockphoto.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213044738id_/http%3A//www.bigstockphoto.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigstockphoto.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618011501id_/http%3A//www.bigstockphoto.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Stock Photos & Vector Art | BIGSTOCK
+# Privacy Policy | Stock Photos & Vector Art | Bigstock
 
 The practices of SS SPV LLC d/b/a Bigstock (hereinafter "Bigstock"), with respect to personal information, are governed by this Privacy Policy as same may be amended from time to time. Bigstock encourages visitors to and users of **Bigstock.com** (hereinafter referred to as "you" and "users") **** to regularly review this Privacy Policy.
 
