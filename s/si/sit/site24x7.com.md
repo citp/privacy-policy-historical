@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site24x7.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210072047id_/http%3A//www.site24x7.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site24x7.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617182423id_/http%3A//www.site24x7.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Site24x7 - Privacy Policy
 
@@ -61,7 +61,7 @@ We store and maintain the data stored in your Account at our facilities in the U
 
 
 
-We use temporary and permanent cookies to enhance your experience of the service. Temporary cookies will be removed from your computer each time you close your browser. By selecting 'keep me signed-in' option in Site24x7 service, a permanent cookie will be stored in your computer and you will not be required to sign-in by providing complete login information each time you return to our website. If you have turned cookies off, you may not be able to use registered areas of the websites.
+We use the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone, operating system and other visitor details collected in our log files to analyze the trends, administer the website, track visitor's movements and to improve our website.
 
 ## **Cookies**
 
