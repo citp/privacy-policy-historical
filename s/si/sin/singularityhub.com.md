@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singularityhub.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209152856id_/http%3A//singularityhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singularityhub.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617050209id_/http%3A//singularityhub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Singularity Hub
 
@@ -6,7 +6,8 @@
 
 The privacy of our visitors to singularityhub.com is important to us.
 
-At singularityhub.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit singularityhub.com, and how we safeguard your information. We never sell your personal information to third parties.
+At singularityhub.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit singularityhub.com, and how we safeguard your information. We never sell your personal information to third parties.  In the event that we are ever acquired or merged with another company we will notify you that your information is being transferred  
+and becomes subject to a different privacy policy.
 
 **Log Files**  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
@@ -26,9 +27,5 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
 
 ### Get Our Newsletter
-
-### Tell Your Friends About Us
-
-If you think this site would be useful to your friend, use this form to send a link.
 
 ### Popular On The Hub
