@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthandage.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102033806id_/http%3A//www.healthandage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthandage.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617171445id_/http%3A//www.healthandage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HealthandAge – Medical Articles and News for Health in Aging > Live Well, Live Longer
 
