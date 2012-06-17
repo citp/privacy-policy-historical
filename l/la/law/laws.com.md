@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the laws.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010000126id_/http%3A//www.laws.com/category/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laws.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618013751id_/http%3A//www.laws.com/category/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
-PRIVACY POLICY  
+Your privacy is important to us at Laws.com. We are committed to respecting your privacy and the confidentiality of your personal information, traffic information and communications content. 
 
-
-Your privacy is important to us at Laws.com. We are committed to respecting your privacy and the confidentiality of your personal information, traffic information and communications content. 
-
+  
 This Privacy Policy describes our collection, use and sharing of personal information, which members voluntarily provide to us.
 
 1\. Collection of Information
@@ -87,7 +85,7 @@ Except as provided below, we will not transfer any personal information, traffic
 
 Laws.com may update this Privacy Policy at any time, with or without notice. Our current Privacy Policy applies to all information that we have about you and your account. It is important, therefore, that you review this Privacy Policy regularly to ensure that you are updated as to any changes. 
 
-If you have questions or comments about this Privacy Policy, please email to us info@laws.com or contact us at Laws.com, 1 International Blvd., Suite 203, Mahwah, NJ 07495.
+If you have questions or comments about this Privacy Policy, please email to us info@laws.com.
 
 Notice and Take-down procedures
 
@@ -107,20 +105,5 @@ Except as expressly provided in a particular "legal notice" on the site, these t
 
 Thank you for reading through the terms and conditions of laws.com. We hope that you enjoy hospital.com and its content and spread it through your network of friends and family. Should you have any questions or comments regarding laws.com, they should be directed at info@laws.com.
 
- _Notice and Take-down procedures_
+  
 
-If you believe any material accessible on laws.com to infringe your copyright, you may request immediate removal of those materials from the website by contacting laws.com editors (identified below) and providing the following information:
-
-1.  Identification of the copyrighted work you believe to be infringed.  Please describe the work, and where to find a copy of the authorized version of the work.
-
-2.  Identification of the material that you believe to be infringing and its location.  Please describe the material, and provide us with a URL and other pertinent information that allows us to locate the material.
-
-3.  Contact information including your name, address, telephone number and email
-
-Email: Editor@laws.com
-
- _Summary_
-
-Except as expressly provided in a particular "legal notice" on the site, these terms and conditions and the laws .com Privacy Policy constitute the entire agreement between you and laws .com with the use of laws.com website or content.
-
-Thank you for reading through the terms and conditions of laws.com.  We hope that you enjoy laws.com and its content and spread it through your network of friends and family.  Should you have any questions or comments regarding laws.com, they should be directed at our staff.
