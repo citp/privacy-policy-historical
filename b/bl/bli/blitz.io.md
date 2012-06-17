@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the blitz.io privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218093604id_/http%3A//blitz.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blitz.io privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617151041id_/http%3A//blitz.io/privacy) for the most accurate reproduction.*
 
 # Blitz - Privacy
 
 [Blitz](http://blitz.io/)
 
-  * [Tour](http://blitz.io/tour)
+  * [Why Blitz](http://blitz.io/why-blitz)
+  * [Services](http://blitz.io/for/performance)
   * [Pricing](https://secure.blitz.io/pricing)
   * [Customers](http://blitz.io/customers)
-  * [Support](https://secure.blitz.io/support)
-  * [Login](https://secure.blitz.io/login)
+  * [Sign In](https://secure.blitz.io/login)
 
 
 
@@ -16,16 +16,16 @@
 
 ### Privacy Policy
 
-Mu Dynamics, Inc. takes your privacy seriously. Mu Dynamics does not collect or use personal information from a visitor to our site unless the visitor intentionally provides it and consents to its usage. When accessing certain documents or services on our website, visitors may be asked to provide certain information, such as how they can be contacted, where they work, and what they do. We may also track information about the web pages and content accessed by visitors at the Mu Dynamics website and the number of times such content is accessed by a visitor. Mu Dynamics collects this information in an effort to better meet the needs of visitors to its website to answer questions, and to improve delivery of information and services to visitors of the website. The information is used solely by Mu Dynamics, and we do not sell this information to third parties. 
+Spirent Communications takes your privacy seriously. Spirent does not collect or use personal information from a visitor to our site unless the visitor intentionally provides it and consents to its usage. When accessing certain documents or services on our website, visitors may be asked to provide certain information, such as how they can be contacted, where they work, and what they do. We may also track information about the web pages and content accessed by visitors at the Spirent website and the number of times such content is accessed by a visitor. Spirent collects this information in an effort to better meet the needs of visitors to its website to answer questions, and to improve delivery of information and services to visitors of the website. The information is used solely by Spirent, and we do not sell this information to third parties. 
 
 COLLECTION OF PERSONAL DATA
     
 
-Mu Dynamics' websites can generally be used without disclosing any personal information. When our websites are used, some non-personal data may be stored automatically on our hosting computers for administrative, quality and security purposes. If we give this anonymous data to external organizations, we require the recipients to follow our policies related to personal identification. 
+Spirent's websites can generally be used without disclosing any personal information. When our websites are used, some non-personal data may be stored automatically on our hosting computers for administrative, quality and security purposes. If we give this anonymous data to external organizations, we require the recipients to follow our policies related to personal identification. 
 
 Personal information is only collected if you provide it to us. Information that may be collected includes your first and last name, mailing address (including street, city, state, country, and postal code), e-mail address, telephone number, and company information. 
 
-Mu Dynamics collects visitor information in various areas of its website, including the following: 
+Spirent collects visitor information in various areas of its website, including the following: 
 
   * Viewing of product demonstrations
   * Accessing of white papers
@@ -40,7 +40,7 @@ Mu Dynamics collects visitor information in various areas of its website, includ
 USE OF COOKIES
     
 
-Mu Dynamics' website employs "cookies" to improve the efficiency and utility of your use of the website. If your browser is set to reject cookies, websites that are cookie enabled will not recognize you when you return to the website, and some website functionality may be lost. 
+Spirent's website employs "cookies" to improve the efficiency and utility of your use of the website. If your browser is set to reject cookies, websites that are cookie enabled will not recognize you when you return to the website, and some website functionality may be lost. 
 
 Two types of cookies may be used on this website: session cookies (which are temporary cookies that remain in the cookie file of your browser until you leave the site) and persistent cookies (which remain in the cookie file of your browser for much longer, though how long will depend on the lifetime of the specific cookie). 
 
@@ -62,19 +62,9 @@ By using our website, you consent to the collection and use of information as se
 ABILITY TO OPT-OUT
     
 
-Mu Dynamics provides visitors who elect to receive electronic or other communications the ability to opt-out of those communications by sending us a notice to unsubscribe. Mu Dynamics respects your wishes and will delete you from mailing or other types of lists. Please send unsubscribe requests to mu-info@mudynamics.com. 
+Spirent provides visitors who elect to receive electronic or other communications the ability to opt-out of those communications by sending us a notice to unsubscribe. Spirent respects your wishes and will delete you from mailing or other types of lists. Please send unsubscribe requests to support@blitz.io 
 
 CHANGES TO THIS PRIVACY POLICY
     
 
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on June 9, 2011. 
-
-Blitz
-
-Docs
-
-Community
-
-About Us
-
-Mu Dynamics provides solutions to test and validate cloud infrastructures and apps to ensure that they are functional, scalable, secure and resilient. 
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on June 8, 2012. 
