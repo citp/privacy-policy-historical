@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the engvid.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121120639id_/http%3A//www.engvid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engvid.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617235155id_/http%3A//www.engvid.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · engVid
+# Privacy Policy engVid
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at langvid AT langvid DOT com.
 
