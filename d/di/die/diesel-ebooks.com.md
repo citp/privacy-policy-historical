@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211005339id_/http%3A//www.diesel-ebooks.com/cms/about_diesel/About-Diesel/1.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617174557id_/http%3A//www.diesel-ebooks.com/cms/about_diesel/About-Diesel/1.html%23Privacy) for the most accurate reproduction.*
 
 # World Famous eBook Store | Diesel eBook Store
 
@@ -12,7 +12,7 @@ Let’s see.  What else?  
 
 Ah yes, led by Scott Redford and Kelley Allen – two long-time veterans of the eBook business – Diesel is bullish about digital content.  It truly fascinates us.  As if you couldn’t already tell, right?  
 
-Which is why we’ve worked real hard to give you instant access to over 2.4 million titles from hundreds of publishers including Harlequin, HarperCollins, John Wiley & Sons, McGraw-Hill, Simon & Schuster and Random House. 
+Which is why we’ve worked real hard to give you instant access to over 3 million titles from hundreds of publishers including Harlequin, HarperCollins, John Wiley & Sons, McGraw-Hill, Simon & Schuster and Random House. 
 
 But that wasn’t enough for us.  We had to make all those eBooks easy for you to find, too.  So, we developed our very own, proprietary Diesel technology.  It lets us organize our massive inventory into more than 40 categories and 2,700 subcategories.  You’ll be hard-pressed to find a more intuitive way to break your eBook search down, anywhere.  
 
