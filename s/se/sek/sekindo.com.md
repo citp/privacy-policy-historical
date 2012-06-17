@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sekindo.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215163153id_/http%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sekindo.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617030832id_/https%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
 
 # SekiNdo - Privacy Policy
 
@@ -119,4 +119,4 @@
    
    
 [Affiliate Network](https://web.archive.org/)     [Terms of Service](https://web.archive.org/help/terms.php)     [About Us](https://web.archive.org/help/aboutUs.php)     [Contact Us](https://web.archive.org/help/contact.php)     [Press & News](https://web.archive.org/help/press.php)     [How It Works](https://web.archive.org/help/howItWorks.php)     [Q&A](https://web.archive.org/help/faqs.php)     [Privacy Policy](https://web.archive.org/help/privacy.php)     [Fee Schedule](https://web.archive.org/help/fee.php)     [Copyright Policy](https://web.archive.org/help/copyright.php)     [Blog](http://sekindo.wordpress.com/)     [Creative Solutions](https://web.archive.org/advertiser/creative.php)  
-© 2007-2011 SekiNdo LTD. All Rights Reserved 
+© 2007-2012 SekiNdo. All Rights Reserved 
