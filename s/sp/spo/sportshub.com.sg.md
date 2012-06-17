@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportshub.com.sg privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213143845id_/http%3A//www.sportshub.com.sg/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportshub.com.sg privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617162751id_/http%3A//www.sportshub.com.sg/privacy.htm) for the most accurate reproduction.*
 
 # Singapore Indoor Stadium
 
