@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the 7forallmankind.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228181939id_/http%3A//www.7forallmankind.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7forallmankind.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617224741id_/http%3A//www.7forallmankind.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy - 7 For All Mankind
 
-Effective Date April 7, 2007 
+EFFECTIVE DATE APRIL 7, 2007
 
 Onestop Internet, Inc. ("Onestop") operates this Web site, pursuant to agreements with 7 For All Mankind. ("7 For All Mankind"). Both Onestop and 7 For All Mankind ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site.
 
-Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our **[Customer Service Department](https://web.archive.org/store/os/feedback.aspx)** in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.
+Please be advised that the practices described in this Privacy Policy apply only to information gathered through:(i) this website (ii) where applicable, our **[Customer Service Department](https://web.archive.org/store/os/feedback.aspx)** in connection with this website, (iii) our free standing retail stores, (iv) information provided to us in conjunction with marketing promotions and sweepstakes. The practices described in this Privacy Policy do not necessarily reflect our practices with respect to information gathered through other websites that we operate or through other off-line means. 
 
 If you have any questions regarding this Privacy Policy, you should contact our **[Customer Service Department](https://web.archive.org/store/os/feedback.aspx)**.
 
-**What Information About Me Is Collected and Stored?** We collect and store information that you enter into this Web site or that you provide to our [**Customer Service Department**](https://web.archive.org/store/os/feedback.aspx). For example, when you open an account or place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, email address, telephone number, credit card number and expiration date. This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. This information also may be used to contact you about sales, special offers and new site features, unless you have opted not to receive promotional communications in connection with this Web site.
+**What Information About Me Is Collected and Stored?**
+
+We collect and store information that you enter into this Web site or that you provide to our [**Customer Service Department**](https://web.archive.org/store/os/feedback.aspx). For example, when you open an account or place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, email address, telephone number, credit card number and expiration date. This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. This information also may be used to contact you about sales, special offers and new site features, unless you have opted not to receive promotional communications in connection with this Web site.
 
 We collect and store certain other information automatically whenever you interact with this Web site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Web site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web site and to provide our customers with a fulfilling shopping experience.
 
@@ -18,9 +20,13 @@ Also, like many Web sites, we use "cookies", which are files stored on your comp
 
 We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you. 
 
-**Is Information Collected From Children?** This Web Site is a general audience website and is not directed for use by children. We do not intend to collect Personal Information from anyone who is under the age of 13. If you are under the age of 13, you should not provide any Personal Information to us and you should use this Web Site only with the involvement of a parent or guardian.
+**Is Information Collected From Children?**
 
-**With Whom Do You Share Your Information?** We do not share with others, or sell or rent to others, any personal information that you provide to us through this Web site or through our Customer Service Department, except with your consent or as described in this Privacy Policy.
+This Web Site is a general audience website and is not directed for use by children. We do not intend to collect Personal Information from anyone who is under the age of 13. If you are under the age of 13, you should not provide any Personal Information to us and you should use this Web Site only with the involvement of a parent or guardian.
+
+**With Whom Do You Share Your Information?**
+
+We do not share with others, or sell or rent to others, any personal information that you provide to us through this Web site or through our Customer Service Department, except with your consent or as described in this Privacy Policy.
 
 We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing. We provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform.
 
@@ -30,11 +36,17 @@ We may share non-personal information with our marketing partners, advertisers a
 
 As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that Onestop or 7 For All Mankind, or substantially all of our respective assets, are acquired by a third party, such information may be one of the transferred assets (unless the information was collected under a previous Privacy Policy that did not permit such disclosure). Under such circumstances, Onestop or 7 For All Mankind, as the case may be, would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy.
 
-**What Steps Are Taken To Keep My Information Secure?** We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our **[Customer Service Department](https://web.archive.org/store/os/feedback.aspx)**.
+**What Steps Are Taken To Keep My Information Secure?**
 
-**How Can I Access, Correct and Update My Personal Information?** You can access, correct and update certain personal information that you have provided to us by clicking on "Update Account" within the "[ **My Account**](https://web.archive.org/store/os/myaccount.aspx)" area of this Web site.
+We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our **[Customer Service Department](https://web.archive.org/store/os/feedback.aspx)**.
 
-**Can I Indicate Whether or Not I Want To Receive Promotional Communications?** You will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally you may e-mail us at our **[Customer Service Department](https://web.archive.org/store/os/feedback.aspx)**.
+**How Can I Access, Correct and Update My Personal Information?**
+
+You can access, correct and update certain personal information that you have provided to us by clicking on "Update Account" within the "[ **My Account**](https://web.archive.org/store/os/myaccount.aspx)" area of this Web site.
+
+**Can I Indicate Whether or Not I Want To Receive Promotional Communications?**
+
+You will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally you may e-mail us at our **[Customer Service Department](https://web.archive.org/store/os/feedback.aspx)**.
 
 or write to us at:
 
@@ -43,12 +55,20 @@ or write to us at:
 
 Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order.
 
-**What Happens When I Link To or From Another Web Site?** This Web site may contain links to Web sites operated by third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites. We encourage you to be aware of when you leave this Web site and to read the privacy policies of each and every Web site that you visit.
+**What Happens When I Link To or From Another Web Site?**
+
+This Web site may contain links to Web sites operated by third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites. We encourage you to be aware of when you leave this Web site and to read the privacy policies of each and every Web site that you visit.
 
 If you have accessed this Web site through a link from certain of our advertising or marketing partners, this Web site may include a frame of the applicable advertising or marketing partner. Nevertheless, the information you provide to us through these framed Web pages is collected by us, and our use of this information is governed by this Privacy Policy.
 
-**What About Contests and Sweepstakes?** When we run a contest or sweepstakes relating to this Web site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed.
+**What About Contests and Sweepstakes?**
 
-**What About Online Surveys?** We may from time to time conduct on-line surveys. When you complete an online survey, we may ask for certain information including your age, zip code, shopping habits, email and/or mailing address. This information will be treated in accordance with this Privacy Policy.
+When we run a contest or sweepstakes relating to this Web site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed.
 
-**How Will I Be Informed About Changes Regarding This Privacy Policy?** If we make any material changes to this Privacy Policy, we will post a notice on this Web site notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Web site periodically to see if any recent changes to this Privacy Policy have occurred.
+**What About Online Surveys?**
+
+We may from time to time conduct on-line surveys. When you complete an online survey, we may ask for certain information including your age, zip code, shopping habits, email and/or mailing address. This information will be treated in accordance with this Privacy Policy.
+
+**How Will I Be Informed About Changes Regarding This Privacy Policy?**
+
+If we make any material changes to this Privacy Policy, we will post a notice on this Web site notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Web site periodically to see if any recent changes to this Privacy Policy have occurred.
