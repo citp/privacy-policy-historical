@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sarahsdeals.net privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204234128id_/http%3A//www.sarahsdeals.net/2008/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarahsdeals.net privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617184139id_/http%3A//www.sarahsdeals.net/2008/08/privacy-policy.html) for the most accurate reproduction.*
 
-# Sarah's Deals West Michigan Deal Blog: Privacy Policy
+# Privacy Policy
 
 ###  Privacy Policy 
 
