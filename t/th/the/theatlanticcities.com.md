@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theatlanticcities.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123160916id_/http%3A//www.theatlanticcities.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatlanticcities.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617190430id_/http%3A//www.theatlanticcities.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Atlantic Cities
 
-**Last Updated:   September 7, 2011**
+**Last Updated:   April 24, 2012**
 
 **Privacy Policy**
 
@@ -69,6 +69,16 @@ This Privacy Policy may be changed at any time at our discretion.
 **How Can I Request that my Personally Identifiable Information not be Shared? How Can I Review My Personally Identifiable Information?**
 
 As indicated above, if you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling or writing us (see addresses below). Similarly, please contact us at the same addresses if at any time you wish to review your personally identifiable information.
+
+_**Online**_  
+Atlantic Monthly Group, Inc.  
+600 New Hampshire Avenue, NW  
+Washington, DC 20037
+
+**_Print_**  
+Atlantic Customer Care  
+P.O. Box 420235  
+Palm Coast, FL 32142-0235
 
 **Any Questions?**
 
