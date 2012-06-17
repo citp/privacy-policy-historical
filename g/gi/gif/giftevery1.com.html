@@ -1,0 +1,607 @@
+<!--The following is the downloaded HTML source of the giftevery1.com privacy policy that was archived on 2012-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617161420id_/http%3A//www.giftevery1.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
+<title>Privacy Policy</title>
+<meta name="keywords" content="">
+<base href="http://www.giftevery1.com/">
+	<link href="http://www.giftevery1.com/image/data/cart.png" rel="icon">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/iceage/stylesheet/template_styles.css">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/iceage/stylesheet/stylesheet.css">
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/iceage/stylesheet/ie6.css" />
+<script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
+<script>
+DD_belatedPNG.fix('img, #header .div3 a, #content .left, #content .right, .box .top');
+</script>
+<![endif]-->
+<script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/thickbox/thickbox-compressed.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/thickbox/thickbox.css">
+<script type="text/javascript" src="catalog/view/javascript/jquery/tab.js"></script>
+<script type="text/javascript"><!--
+function bookmark(url, title) {
+	if (window.sidebar) { // firefox
+    window.sidebar.addPanel(title, url, "");
+	} else if(window.opera && window.print) { // opera
+		var elem = document.createElement('a');
+		elem.setAttribute('href',url);
+		elem.setAttribute('title',title);
+		elem.setAttribute('rel','sidebar');
+		elem.click();
+	} else if(document.all) {// ie
+   		window.external.AddFavorite(url, title);
+	}
+}
+//--></script>
+
+<script type="text/javascript">
+	var	image_loading 		= 'catalog/view/theme/iceage/images/az_loading.gif';
+	var	image_width 		= '50';
+	var	image_height 		= '';
+	var	text_cart_quantity 	= 'Quantity:';
+	var	text_cart_subtotal	= 'Sub-Total:';
+	var	text_cart_empty		= 'Shopping cart is empty';
+	var	cart_text		= '&raquo; View Shopping Cart';
+	var	cart_link		= 'http://www.giftevery1.com/index.php?route=checkout/cart';
+	var session_id      = '';
+	var	fetch_url		= 'index.php?route=module/iceage/dropdowncart';
+</script>
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="az_menubar">
+			<div id="az_menu_tab_bg"></div>
+			<ul id="az_menu_tab">
+				<li style="z-index: 99;"><a href="http://www.giftevery1.com/index.php?route=common/home"><span class="az_menu_l"></span><span class="az_menu_m">Home</span><span class="az_menu_r"></span></a></li>
+									<li style="z-index: 98;"><a href="http://www.giftevery1.com/index.php?route=account/login"><span class="az_menu_l"></span><span class="az_menu_m">Log In</span><span class="az_menu_r"></span></a></li>
+								<li style="z-index: 97;"><a href="http://www.giftevery1.com/index.php?route=account/account"><span class="az_menu_l"></span><span class="az_menu_m">Account</span><span class="az_menu_r"></span></a></li>
+				<li style="z-index: 96;"><a href="http://www.giftevery1.com/index.php?route=checkout/cart"><span class="az_menu_l"></span><span class="az_menu_m">Basket</span><span class="az_menu_r"></span></a></li>
+				<li style="z-index: 95;"><a href="http://www.giftevery1.com/index.php?route=checkout/shipping"><span class="az_menu_l"></span><span class="az_menu_m">Checkout</span><span class="az_menu_r"></span></a></li>
+			</ul>
+			<div class="az_shopcart"></div>
+			<div class="az_topfiller"></div>
+			<div class="az_logo"></div>
+			<div id="btn_animBoxCart" class="jsTrigger header_cart">
+				<div id="az_shoppingcart">
+					<div class="boxcont"></div>
+					<div id="animBoxCart"></div>
+				</div>
+				<script type="text/javascript"><!--
+					jQuery(document).ready(function ($) {
+						$('#add_to_cart').replaceWith('<a onclick="" id="add_to_cart" class="button">' + $('#add_to_cart').html() + '</a>');
+						$('#add_to_cart').click(function () {
+							$.ajaxq("add_queue", {
+								type: 'post',
+								url: 'index.php?route=module/az_modules/basiccart',
+								dataType: 'html',
+								data: $('#product :input'),
+								success: function (html) {
+									var result = html.split("|");
+									$('.az_cartItems').html(result[0]);
+									$('.az_cartPrice').html(result[1]);
+								},
+								complete: function () { }
+							});
+						});
+					});
+				//--></script>
+			</div>
+		</div>
+		<div class="az_blankfiller"></div>
+		<div id="az_banner">
+			<div id="infoboxes">
+				<table cellpadding="0" cellspacing="0" border="0" align="center">
+					<tbody><tr>
+						<td valign="top">
+							<div id="az_currencies">
+																	<form action="http://www.giftevery1.com/index.php?route=common/home" method="post" enctype="multipart/form-data" id="currency_form">
+										<div class="switcher">
+																																																																																		<div class="selected"><a>US Dollar</a></div>
+																																		<div class="option">
+																									<a onclick="$('input[name=\'currency_code\']').attr('value', 'EUR'); $('#currency_form').submit();">Euro</a>
+																									<a onclick="$('input[name=\'currency_code\']').attr('value', 'GBP'); $('#currency_form').submit();">Pound Sterling</a>
+																									<a onclick="$('input[name=\'currency_code\']').attr('value', 'USD'); $('#currency_form').submit();">US Dollar</a>
+																							</div>
+										</div>
+										<div style="display: inline;">
+											<input type="hidden" name="currency_code" value="">
+											<input type="hidden" name="redirect" value="http://www.giftevery1.com/index.php?route=information/information&amp;information_id=3">
+										</div>
+									</form>
+															</div>
+						</td>
+						<td style="width: 20px;"></td>
+						<td valign="top">
+							<div id="az_languages">
+																	<form action="http://www.giftevery1.com/index.php?route=common/home" method="post" enctype="multipart/form-data" id="language_form" style="">
+										<div class="switcher">
+																																																		<div class="selected"><a><img src="image/flags/gb.png" alt="English">&nbsp;&nbsp;English</a></div>
+																																					<div class="option">
+																											<a onclick="$('input[name=\'language_code\']').attr('value', 'en'); $('#language_form').submit();"><img src="image/flags/gb.png" alt="English">&nbsp;&nbsp;English</a>
+																									</div>
+																					</div>
+										<div>
+											<input type="hidden" name="language_code" value="">
+											<input type="hidden" name="redirect" value="http://www.giftevery1.com/index.php?route=information/information&amp;information_id=3">
+										</div>
+									</form>
+															</div>
+						</td>
+						<td style="width: 20px;"></td>
+						<td valign="top">
+							<div id="az_search">
+								<input type="text" value="Keywords" id="filter_keyword" onclick="this.value = '';">
+								<input type="hidden" value="0" id="filter_category_id">
+								<a onclick="moduleSearch();" class="az_go_btn"><span class="az-template-button" title=""><span class="az-button-left2">&nbsp;</span><span class="az-button-middle2"><span class="az-button-text">Search</span></span><span class="az-button-right2">&nbsp;</span></span></a>
+									<!--	<div id="az_advanced_link"><a href="http://www.giftevery1.com/index.php?route=product/search">Advanced Search</a></div>-->
+							</div>
+						</td>
+					</tr>
+				</tbody></table>
+			</div>
+			<div id="az_information">
+				»<a href="http://www.giftevery1.com/index.php?route=product/special">Special Offers</a>
+				»<a onclick="bookmark(document.location, 'Privacy Policy');">Bookmark</a>
+				»<a href="http://www.giftevery1.com/index.php?route=information/contact">Contact</a>
+				»<a href="http://www.giftevery1.com/index.php?route=information/sitemap">Sitemap</a>
+			</div>
+			<a href="http://www.giftevery1.com/index.php?route=common/home"></a>
+		</div>
+	</div>
+<script type="text/javascript"><!-- 
+function getURLVar(urlVarName) {
+	var urlHalves = String(document.location).toLowerCase().split('?');
+	var urlVarValue = '';
+	
+	if (urlHalves[1]) {
+		var urlVars = urlHalves[1].split('&');
+
+		for (var i = 0; i <= (urlVars.length); i++) {
+			if (urlVars[i]) {
+				var urlVarPair = urlVars[i].split('=');
+				
+				if (urlVarPair[0] && urlVarPair[0] == urlVarName.toLowerCase()) {
+					urlVarValue = urlVarPair[1];
+				}
+			}
+		}
+	}
+	
+	return urlVarValue;
+} 
+
+$(document).ready(function() {
+	route = getURLVar('route');
+	
+	if (!route) {
+		$('#tab_home').addClass('selected');
+	} else {
+		part = route.split('/');
+		
+		if (route == 'common/home') {
+			$('#tab_home').addClass('selected');
+		} else if (route == 'account/login') {
+			$('#tab_login').addClass('selected');	
+		} else if (part[0] == 'account') {
+			$('#tab_account').addClass('selected');
+		} else if (route == 'checkout/cart') {
+			$('#tab_cart').addClass('selected');
+		} else if (part[0] == 'checkout') {
+			$('#tab_checkout').addClass('selected');
+		} else {
+			$('#tab_home').addClass('selected');
+		}
+	}
+});
+//--></script>
+<script type="text/javascript"><!--
+$('#search input').keydown(function(e) {
+	if (e.keyCode == 13) {
+		moduleSearch();
+	}
+});
+
+function moduleSearch() {
+	url = 'index.php?route=product/search';
+	
+	var filter_keyword = $('#filter_keyword').attr('value')
+	
+	if (filter_keyword) {
+		url += '&keyword=' + encodeURIComponent(filter_keyword);
+	}
+	
+	var filter_category_id = $('#filter_category_id').attr('value');
+	
+	if (filter_category_id) {
+		url += '&category_id=' + filter_category_id;
+	}
+	
+	location = url;
+}
+//--></script><div id="az_main_content">
+	<div id="az_left_bar" class="side-col">
+	<div class="az_left_bar_top"></div>
+	<!-- left_navigation //-->
+			<div class="az_box2_new">
+	<div class="az_box_top_new">
+		<div class="az_box_top_l_new">
+			<div class="az_box_top_r_new">
+				<div class="az_box_top_m_new">
+					<div class="boxTitle">Shopping Cart</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="az_box_cont_new">
+		<div class="az_box_cont_l_new">
+			<div class="az_box_cont_r_new">
+				<div class="az_box_cont_m_new">
+					<div class="boxContents">
+													<div style="text-align: center;">0 items</div>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="az_box_bottom_new">
+		<div class="az_box_bottom_l_new">
+			<div class="az_box_bottom_r_new">
+				<div class="az_box_bottom_m_new"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript"><!--
+$(document).ready(function () {
+	$('#add_to_cart').replaceWith('<a onclick="" id="add_to_cart" class="button">' + $('#add_to_cart').html() + '</a>');
+
+	$('#add_to_cart').click(function () {
+		$.ajax({
+			type: 'post',
+			url: 'index.php?route=module/cart/callback',
+			dataType: 'html',
+			data: $('#product :input'),
+			success: function (html) {
+				$('#module_cart .middle').html(html);
+			},	
+			complete: function () {
+				var image = $('#image').offset();
+				var cart  = $('#module_cart').offset();
+	
+				$('#image').before('<img src="' + $('#image').attr('src') + '" id="temp" style="position: absolute; top: ' + image.top + 'px; left: ' + image.left + 'px;" />');
+	
+				params = {
+					top : cart.top + 'px',
+					left : cart.left + 'px',
+					opacity : 0.0,
+					width : $('#module_cart').width(),  
+					heigth : $('#module_cart').height()
+				};		
+	
+				$('#temp').animate(params, 'slow', false, function () {
+					$('#temp').remove();
+				});		
+			}			
+		});			
+	});			
+});
+//--></script>
+			<div class="az_box2_new">
+	<div class="az_box_top_new">
+		<div class="az_box_top_l_new">
+			<div class="az_box_top_r_new">
+				<div class="az_box_top_m_new">
+					<div class="boxTitle">Categories</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="az_box_cont_new">
+		<div class="az_box_cont_l_new">
+			<div class="az_box_cont_r_new">
+				<div class="az_box_cont_m_new">
+					<div class="boxContents"><ul><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=1">African American</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=2">Angels / Fairies</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=3">Animal Items</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=22">Anniversary / Wedding Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=23">Antique Replicas</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=24">Apparel - Shirts &amp; More</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=25">Asian Decor</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=26">Automotive Accessories</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=27">Baby Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=28">Beauty and Health</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=29">Birdhouses - Birdfeeders</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=30">Bed and Bath</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=31">Birthday Gift Ideas</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=32">Business and Travel</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=33">Candles / Candle Holders</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=34">Candles - Oils / Oil Burners</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=35">Candles / Oils- Scented</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=36">Canvas Prints</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=37">Ceramic - Santa Barbara</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=38">Chess Sets</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=39">Children's Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=44">Clocks</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=45">Collectibles</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=46">Dolls</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=47">Easter Gifts - NEW</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=48">Educational Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=49">Electronics</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=50">Egyptian Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=51">Fountains</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=52">Furniture</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=53">Garden and Outdoors</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=55">Glassware Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=56">Graduation Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=57">Golf Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=58">Halloween Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=59">Valentine's Day</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=60">Father's Day Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=61">Mother's Day Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=62">Home Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=63">Incense</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=64">Jewelry Collection</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=66">John Deere Collectibles</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=67">Kitchen Collection</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=70">Lamps and Lanterns</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=71">Knives and Swords</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=72">Medieval Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=73">Military</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=74">Miniatures - New</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=75">Musical</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=76">MLB Major League Baseball</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=77">NFL Football</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=78">NBA Basketball</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=79">NASCAR Racing Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=80">Native American</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=81">Nautical / Fishing</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=82">Patchwork Art</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=83">Patriotic Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=84">Pens</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=85">Perfume and Cologne</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=86">Pewter</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=87">Picture Frames</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=88">Plates</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=89">Purses / Handbags</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=90">Religious / Inspirational</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=91">Seasonal Ideas</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=92">See No Evil, Hear No Evil</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=93">Shabby Elegance</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=94">Spanish Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=95">Sporting Goods</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=96">Pennant Flags</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=97">Star Wars Collectibles</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=98">Stationery</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=99">Supplies:Catalog/Brochure</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=100">Teacher Appreciation Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=101">Tools and Hardware</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=102">Victorian Gifts</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=103">Wall Decor</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=104">Watches</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=105">Wearables</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=106">Western</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=107">Western Decor</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=109">WindChimes</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=110">Vase</a></li><li><a href="http://www.giftevery1.com/index.php?route=product/category&amp;path=111">Vases</a></li></ul></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="az_box_bottom_new">
+		<div class="az_box_bottom_l_new">
+			<div class="az_box_bottom_r_new">
+				<div class="az_box_bottom_m_new"></div>
+			</div>
+		</div>
+	</div>
+</div>			<div class="az_box2_new">
+	<div class="az_box_top_new">
+		<div class="az_box_top_l_new">
+			<div class="az_box_top_r_new">
+				<div class="az_box_top_m_new">
+					<div class="boxTitle">Bestsellers</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="az_box_cont_new">
+		<div class="az_box_cont_l_new">
+			<div class="az_box_cont_r_new">
+				<div class="az_box_cont_m_new">
+					<div class="boxContents">
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="az_box_bottom_new">
+		<div class="az_box_bottom_l_new">
+			<div class="az_box_bottom_r_new">
+				<div class="az_box_bottom_m_new"></div>
+			</div>
+		</div>
+	</div>
+</div>			<div class="az_box2_new">
+	<div class="az_box_top_new">
+		<div class="az_box_top_l_new">
+			<div class="az_box_top_r_new">
+				<div class="az_box_top_m_new">
+					<div class="boxTitle">Information</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="az_box_cont_new">
+		<div class="az_box_cont_l_new">
+			<div class="az_box_cont_r_new">
+				<div class="az_box_cont_m_new">
+					<div class="boxContents">
+						<ul>
+													<li><a href="http://www.giftevery1.com/index.php?route=information/information&amp;information_id=4">About Us</a></li>
+													<li><a href="http://www.giftevery1.com/index.php?route=information/information&amp;information_id=3">Privacy Policy</a></li>
+													<li><a href="http://www.giftevery1.com/index.php?route=information/information&amp;information_id=5">Terms &amp; Conditions</a></li>
+													<li><a href="http://www.giftevery1.com/index.php?route=information/contact">Contact Us</a></li>
+							<li><a href="http://www.giftevery1.com/index.php?route=information/sitemap">Site Map</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="az_box_bottom_new">
+		<div class="az_box_bottom_l_new">
+			<div class="az_box_bottom_r_new">
+				<div class="az_box_bottom_m_new"></div>
+			</div>
+		</div>
+	</div>
+</div>			<div class="az_box2_new">
+	<div class="az_box_top_new">
+		<div class="az_box_top_l_new">
+			<div class="az_box_top_r_new">
+				<div class="az_box_top_m_new">
+					<div class="boxTitle">Featured</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="az_box_cont_new">
+		<div class="az_box_cont_l_new">
+			<div class="az_box_cont_r_new">
+				<div class="az_box_cont_m_new">
+					<div class="boxContents">
+													<table cellpadding="2" cellspacing="0" style="width: 100%;">
+																	<tbody><tr>
+										<td valign="top" width="1"><a href="http://www.giftevery1.com/index.php?route=product/product&amp;product_id=28"><img src="http://www.giftevery1.com/image/cache/data/14088-38x38.jpg" alt="Anamalz Wooden Rhi0"></a></td>
+										<td valign="top"><a href="http://www.giftevery1.com/index.php?route=product/product&amp;product_id=28">Anamalz Wooden Rhi0</a>
+																							<br>
+																									<span style="font-size: 11px; color: #900;">$25.95</span>
+																																	</td>
+									</tr>
+																	<tr>
+										<td valign="top" width="1"><a href="http://www.giftevery1.com/index.php?route=product/product&amp;product_id=42"><img src="http://www.giftevery1.com/image/cache/data/12680-38x38.jpg" alt="Art Glass Dolphin Figurine"></a></td>
+										<td valign="top"><a href="http://www.giftevery1.com/index.php?route=product/product&amp;product_id=42">Art Glass Dolphin Figurine</a>
+																							<br>
+																									<span style="font-size: 11px; color: #900;">$19.95</span>
+																																	</td>
+									</tr>
+																	<tr>
+										<td valign="top" width="1"><a href="http://www.giftevery1.com/index.php?route=product/product&amp;product_id=43"><img src="http://www.giftevery1.com/image/cache/data/12869-38x38.jpg" alt="Dolphin Mini Pocket Knife"></a></td>
+										<td valign="top"><a href="http://www.giftevery1.com/index.php?route=product/product&amp;product_id=43">Dolphin Mini Pocket Knife</a>
+																							<br>
+																									<span style="font-size: 11px; color: #900;">$7.95</span>
+																																	</td>
+									</tr>
+																	<tr>
+										<td valign="top" width="1"><a href="http://www.giftevery1.com/index.php?route=product/product&amp;product_id=45"><img src="http://www.giftevery1.com/image/cache/data/32005-38x38.jpg" alt="Lucky Elephant Plant Stand"></a></td>
+										<td valign="top"><a href="http://www.giftevery1.com/index.php?route=product/product&amp;product_id=45">Lucky Elephant Plant Stand</a>
+																							<br>
+																									<span style="font-size: 11px; color: #900;">$49.95</span>
+																																	</td>
+									</tr>
+																	<tr>
+										<td valign="top" width="1"><a href="http://www.giftevery1.com/index.php?route=product/product&amp;product_id=44"><img src="http://www.giftevery1.com/image/cache/data/33838-38x38.jpg" alt="Patriotic Elephant Pair"></a></td>
+										<td valign="top"><a href="http://www.giftevery1.com/index.php?route=product/product&amp;product_id=44">Patriotic Elephant Pair</a>
+																							<br>
+																									<span style="font-size: 11px; color: #900;">$39.95</span>
+																																	</td>
+									</tr>
+															</tbody></table>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="az_box_bottom_new">
+		<div class="az_box_bottom_l_new">
+			<div class="az_box_bottom_r_new">
+				<div class="az_box_bottom_m_new"></div>
+			</div>
+		</div>
+	</div>
+</div>		<!-- left_navigation_eof //-->
+	<div class="az_left_bar_bottom"></div>
+</div>
+<!-- class="az_left_bar" --><div id="az_right_bar" class="side-col">
+	<div class="az_right_bar_top"></div>
+	<!-- right_navigation //-->
+		<!-- right_navigation_eof //-->
+	<div class="az_right_bar_bottom"></div>
+</div><!-- class="az_right_bar" -->	<div id="az_site_content">
+		<div class="az_site_content_top"></div>
+		<script type="text/javascript"><!--
+					function getURLVar(urlVarName) {
+						var urlHalves = String(document.location).toLowerCase().split('?');
+						var urlVarValue = '';
+						
+						if (urlHalves[1]) {
+							var urlVars = urlHalves[1].split('&');
+							
+							for (var i = 0; i <= (urlVars.length); i++) {
+								if (urlVars[i]) {
+									var urlVarPair = urlVars[i].split('=');
+									
+									if (urlVarPair[0] && urlVarPair[0] == urlVarName.toLowerCase()) {
+										urlVarValue = urlVarPair[1];
+									}
+								}
+							}
+						}
+						return urlVarValue;
+					}
+					
+					$(document).ready(function() {
+						route = getURLVar('route');
+						if (!route) {
+							$('#tab_home').addClass('selected');
+						} else {
+							part = route.split('/');
+							
+							if (route == 'common/home') {
+								$('#tab_home').addClass('selected');
+							} else if (route == 'account/login') {
+								$('#tab_login').addClass('selected');
+							} else if (part[0] == 'account') {
+								$('#tab_account').addClass('selected');
+							} else if (route == 'checkout/cart') {
+								$('#tab_cart').addClass('selected');
+							} else if (part[0] == 'checkout') {
+								$('#tab_checkout').addClass('selected');
+							} else {
+								$('#tab_home').addClass('selected');
+							}
+						}
+					});
+				//--></script>
+				<script type="text/javascript"><!--
+					$('#az_search input, #search input').keydown(function(e) {
+						if (e.keyCode == 13) {
+							moduleSearch();
+						}
+					});
+					
+					function moduleSearch() {
+						url = 'index.php?route=product/search';
+						var filter_keyword = $('#filter_keyword').attr('value')
+						if (filter_keyword) {
+							url += '&keyword=' + encodeURIComponent(filter_keyword);
+						}
+						
+						var filter_category_id = $('#filter_category_id').attr('value');
+						if (filter_category_id) {
+							url += '&category_id=' + filter_category_id;
+						}
+						location = url;
+					}
+				//--></script>
+				<script type="text/javascript"><!--
+					$('.switcher').bind('click', function() {
+						$(this).find('.option').slideToggle('fast');
+					});
+					$('.switcher').bind('mouseleave', function() {
+						$(this).find('.option').slideUp('fast');
+					});
+				//--></script>
+		<div id="content">
+			<div class="az_pagetitle">
+				<div class="az_pbox_top_new">
+					<div class="az_pbox_top_l_new">
+						<div class="az_pbox_top_r_new">
+							<div class="az_pbox_top_m_new">
+								<div class="boxTitle"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="az_pbox_cont_new">
+					<div class="az_pbox_cont_l_new">
+						<div class="az_pbox_cont_r_new">
+							<div class="az_pbox_cont_m_new">
+								<div class="boxContents">Privacy Policy</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="az_pbox_bottom_new">
+					<div class="az_pbox_bottom_l_new">
+						<div class="az_pbox_bottom_r_new">
+							<div class="az_pbox_bottom_m_new"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="middle">
+		    	<p>
+	&nbsp;</p>
+<p class="MsoNormal">
+	<span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;
+mso-ansi-language:EN-US">Giftevery1.com takes privacy seriously. The following statement reveals what you can expect from us regarding any personal data that you share with the site, and your rights and responsibilities associated with it. <br>
+	<br>
+	At Giftevery1.com, we understand the importance of protecting the confidentiality of information and other personal data provided by our clients. The protection of your privacy is kept in mind while designing and operating our system, and we make every effort to safeguard the patients’ data in accordance with all applicable legal requirements.<br>
+	<br>
+	This statement describes our work arrangement, discussing how we acquire and use your personal information, and our policies and practices for keeping it secure. The users are urged to read this policy carefully and to periodically check for revisions. The date at the top of the page indicates the latest update of the policy.<br>
+	<br>
+	We utilize [Secure Socket Layer (SSL) 128-bit encryption, firewalls and intrusion detection systems to keep your data safe. Only authorized employees are permitted to access the information provided by the clients and they are not allowed to use that data for any thong other than authorized business purposes].<br>
+	<br>
+	Our security methods are effective and reliable, but no system is completely impassable, so we cannot guarantee that your information in our system is absolutely shielded. Also, we cannot guarantee that the information provided by you will not be intercepted as it is transmitted over the internet. Giftevery1 has several links to other websites. By providing such links we do not intend to endorse or promote their products/services. Also, we hold no responsibility of the content or information provided on these sites and are not accountable for their privacy practices. Clients are recommended to review the privacy statements posted on these sites before using or disclosing any personal information.<br>
+	<br>
+	Giftevery1 does not record or track user visits; the information about the identity of our clients and their visits to our website are not recorded. A small file called “session cookie” is sometimes written on the user’s computer, and it expires when the user leaves the website. The information retained by session cookies only lasts during the session or for completing a particular online transaction; these cannot track users as they visit different sites over time.<br>
+	<br>
+	We do not collect or use information about children under the age of 18 years, without the consent of their parents. Any information that we identify as belonging to a child under 18 will only be used to inform him/her that we will require parental consent before offering any help.<br>
+	<br>
+	Any concerns or questions regarding the privacy practice at Giftevery1 can be e-mailed to info@ Giftevery1.com<o:p></o:p></span></p>
+    <div class="buttons">
+      <table>
+        <tbody><tr>
+          <td align="right"><div style="text-align: right;"><a onclick="location = 'http://www.giftevery1.com/index.php?route=common/home'" class="button"><span class="az-template-button" title="Continue"><span class="az-button-left">&nbsp;</span><span class="az-button-middle"><span class="az-button-text">Continue</span></span><span class="az-button-right">&nbsp;</span></span></a></div></td>
+        </tr>
+      </tbody></table>
+    </div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="az_site_content_bottom"></div>
+	</div>
+	<!-- class="az_site_content" -->
+</div>
+<div class="break"></div>
+		<div id="footer">
+			<ul id="az_footer_links">
+				<li><a href="http://www.giftevery1.com/index.php?route=common/home">HOME PAGE</a></li>
+				<li>/</li>
+				<li><a href="http://www.giftevery1.com/index.php?route=product/special">SPECIALS</a></li>
+				<li>/</li>
+				<li><a href="http://www.giftevery1.com/index.php?route=account/account">MY ACCOUNT</a></li>
+				<li>/</li>
+				<li><a href="http://www.giftevery1.com/index.php?route=checkout/cart">SHOPPING CART</a></li>
+				<li>/</li>
+				<li><a href="http://www.giftevery1.com/index.php?route=checkout/shipping">CHECKOUT</a></li>
+				<li>/</li>
+				<li><a href="http://www.giftevery1.com/index.php?route=information/contact">CONTACT US</a></li>
+			</ul>
+			<div id="az_notes"></div>
+		</div>
+	</div> <!-- WRAPPER END -->
+	
+ </body></html>
