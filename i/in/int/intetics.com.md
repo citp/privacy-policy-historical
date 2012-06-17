@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intetics.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130184828id_/http%3A//intetics.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intetics.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617120217id_/http%3A//www.intetics.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement « Intetics Co.
 
