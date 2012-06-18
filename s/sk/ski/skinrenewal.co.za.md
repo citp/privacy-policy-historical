@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the skinrenewal.co.za privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414095445id_/http%3A//www.skinrenewal.co.za/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinrenewal.co.za privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618094046id_/http%3A//www.skinrenewal.co.za/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - Skin Renewal
+
+##  Privacy Statement
 
 Skin Renewal is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Skin Renewal Web site and governs data collection and usage. By using the Skin Renewal website, you consent to the data practices described in this statement.
 
@@ -59,4 +61,4 @@ Skin Renewal will occasionally update this Statement of Privacy to reflect compa
 ### Contact Information
 
   
-Skin Renewal welcomes your comments regarding this Statement of Privacy. If you believe that Skin Renewal has not adhered to this Statement, please contact Skin Renewal at [info@platinumseed.com](mailto:info@platinumseed.com) . We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Skin Renewal welcomes your comments regarding this Statement of Privacy. If you believe that Skin Renewal has not adhered to this Statement, please contact Skin Renewal at info@platinumseed.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.
