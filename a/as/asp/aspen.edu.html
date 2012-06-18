@@ -1,56 +1,65 @@
-<!--The following is the downloaded HTML source of the aspen.edu privacy policy that was archived on 2011-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209114632id_/http%3A//www.aspen.edu/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aspen.edu privacy policy that was archived on 2012-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618212646id_/http%3A//www.aspen.edu/Privacy-Policy) for the most accurate reproduction.-->
 
 <html><head>
+  
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-	
-    <meta name="DESCRIPTION" content="">
-    <meta name="KEYWORDS" content="">
-    
-    
-    
-      
-      
-      
-      
-        
-        
-        <link rel="canonical" href="http://aspen.edu/">
-      
-    
-    
-    
-    
-    <title></title>	  
-    
-    <link rel="stylesheet" href="https://s3.amazonaws.com/Aspen/aspen_blue/css/master.css" type="text/css" media="screen" title="no title" charset="utf-8">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.js"></script>
-    <script>window.jQuery || document.write("<script src='js/jquery-1.6.2.min.js'>\x3C/script>")</script><script src="js/jquery-1.6.2.min.js"></script>
-    <script src="/js/jquery.placeholder.js" type="text/javascript" charset="utf-8"></script>
-    <script src="http://www.aspen.edu/js/jquery.popupWindow.js" type="text/javascript" charset="utf-8"></script>
-    <script type="text/javascript" charset="utf-8">
-      	$(document).ready(function() {
-        	$("input:text").placeholder();
-            $('.subMenu').data('hover','0');
-            $('.top_menu_item').hover(function(){
-              var id = $(this).attr('id');
-              var offset = $(this).offset();
-              var thiswidth = $(this).width();
-              var left = offset.left;
-              $('.subMenu').hide();
-              $('#sub_'+id).css('min-width',thiswidth)
-              $('#sub_'+id).css('left',left).show();
-            }, function () {
-				      $('.subMenu:eq(100)').hide();
-			      });
-            
-            $('.subMenu').mouseleave(function(){
-            	$(this).hide();
+	<meta name="DESCRIPTION" content="">
+  <meta name="KEYWORDS" content="">
+
+  <title></title>
+  
+  <link rel="stylesheet" href="https://s3.amazonaws.com/Aspen/aspen_blue/css/master.css" type="text/css" media="screen" title="no title" charset="utf-8">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.js"></script>
+  <script>window.jQuery || document.write("<script src='js/jquery-1.6.2.min.js'>\x3C/script>")</script><script src="js/jquery-1.6.2.min.js"></script>
+  <script src="/js/jquery.placeholder.js" type="text/javascript" charset="utf-8"></script>
+  <script src="http://www.aspen.edu/js/jquery.popupWindow.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript" charset="utf-8">
+    	$(document).ready(function() {
+      	$("input:text").placeholder();
+          $('.subMenu').data('hover','0');
+          $('.top_menu_item').hover(function(){
+            var id = $(this).attr('id');
+            var offset = $(this).offset();
+            var thiswidth = $(this).width();
+            var left = offset.left;
+            $('.subMenu').hide();
+            $('#sub_'+id).css('min-width',thiswidth)
+            $('#sub_'+id).css('left',left).show();
+          }, function () {
+			      $('.subMenu:eq(100)').hide();
+		      });
+          
+          $('.subMenu').mouseleave(function(){
+          	$(this).hide();
+          });
+          
+          $('#logo,.separator').mouseenter(function(){
+            $('.subMenu').hide();
+          });
+          
+		      $('.liveChat').popupWindow({  centerBrowser:1  });
+		      
+            // add padding to make the top menu look symmetric
+            var width = 0;
+            $('.top_menu_item').each(function(){
+                width = width +  $(this).outerWidth()
             });
             
-			      $('.liveChat').popupWindow({  centerBrowser:1  });
-      	});
-    </script>
+            var numberOfMenuItems = $('.top_menu_item').length;
+            var bigWidth = $('#top-menu').width();
+            var emptySpace = bigWidth - width;
+            var padding = ((emptySpace/numberOfMenuItems)/2)-2;
+            
+            $('#top-menu .separator')
+              .css('padding-left',padding)
+              .css('padding-right',padding);
+            $('.top_menu_item:eq(0)').css('margin-left',padding);
+            $('.top_menu_item:eq((numberOfMenuItems-1))').css('margin-right',padding);
+            // Finish symmetric menu info
+		      
+    	});
+  </script>
 </head>
 <body>
 	<style type="text/css" media="screen">
@@ -61,19 +70,19 @@
 		#start-chat, #chat-top { float: left; }
 		#search-form-holder { clear: both; float: right; display: none;}
 		#search-button { margin-left: 5px; margin-right: 4px; }
+		#top-menu .separator { background-position: center center !important; }
 	</style>
 	<div id="wrapper">
     	<div id="header">
         <div id="logo"><a href="http://www.aspen.edu/"><img src="https://s3.amazonaws.com/Aspen/aspen_blue/images/aspen-logo.png"></a></div>
         <div id="search-section">
-        	<div id="start-chat"><a href="http://messenger.providesupport.com/messenger/aspen.html" class="liveChat"><img src="https://s3.amazonaws.com/Aspen/aspen_blue/images/start-chat-button.png"></a></div>
-          	<div id="chat-top"><span>t:</span> 1-800-441-4746 | <a href="/site/About-Us/Contact-Us">Contact Us</a> | <a href="http://classroom.aspen.edu">Student Login</a></div>
+          	<div id="chat-top"><span>t:</span> 1-800-373-7814 | <a href="/site/About-Us/Contact-Us">Contact Us</a> | <a href="http://classroom.aspen.edu">Student Login</a> | <a href="http://messenger.providesupport.com/messenger/aspen.html" class="liveChat">Chat with an Enrollment Counselor</a></div>
           	<div id="search-form-holder">
 				<input type="text" name="search" value="" id="search" placeholder="search">
 				<input type="image" src="https://s3.amazonaws.com/Aspen/aspen_blue/images/go-button.png" id="search-button">
           </div>
         </div>
-        <div id="top-menu"><div id="menu_1" class="top_menu_item"><a href="/Degrees">programs by degree</a></div><div class="separator"></div><div id="menu_2" class="top_menu_item"><a href="/Schools">schools</a></div><div class="separator"></div><div id="menu_3" class="top_menu_item"><a href="/Admissions">admissions</a></div><div class="separator"></div><div id="menu_4" class="top_menu_item"><a href="/Tuition">tuition</a></div><div class="separator"></div><div id="menu_5" class="top_menu_item"><a href="/About-Us">about aspen university</a></div></div>
+        <div id="top-menu"><div id="menu_1" class="top_menu_item"><a href="/Degrees">degrees</a></div><div class="separator"></div><div id="menu_2" class="top_menu_item"><a href="/Schools">schools</a></div><div class="separator"></div><div id="menu_3" class="top_menu_item"><a href="/Admissions">admissions</a></div><div class="separator"></div><div id="menu_4" class="top_menu_item"><a href="/Tuition">tuition</a></div><div class="separator"></div><div id="menu_5" class="top_menu_item"><a href="/About-Us">about aspen university</a></div></div>
 	</div>
 <script type="text/javascript" charset="utf-8">
 	$(document).ready(function() {
@@ -279,7 +288,7 @@ Denver, Colorado 80246<br>
             <div class="left">
               <p class="header">start the aspen admissions process here</p>
               <p class="dots">...</p>
-              <p>Begin your application to Aspen University here. The process is simple, and there is no application fee. We'll assign you an Aspen advisor who'll answer any questions you have.</p>
+              <p>Begin your application to Aspen University here. The process is simple, and there is no application fee. We'll assign you an Enrollment Counselor who'll answer any questions you have.</p>
               <p class="button"><a href="http://application.aspen.edu"><img src="https://s3.amazonaws.com/Aspen/aspen_blue/images/apply-now-cta.png"></a></p>
             </div>
             <div class="separator"></div>
@@ -307,13 +316,7 @@ Denver, Colorado 80246<br>
               <li><input type="image" name="submit123" value="" id="submit123" src="https://s3.amazonaws.com/Aspen/aspen_blue/images/123-continue-button.png"></li>
           </form>
           <div class="separator"></div>
-          <div id="chat">
-            <p class="start">let's start</p>
-            <img src="https://s3.amazonaws.com/Aspen/aspen_blue/images/small-picture.jpg">
-            <p class="chat">chat with<br> an aspen advisor<br> now</p>
-            <a href="http://messenger.providesupport.com/messenger/aspen.html" class="liveChat"><img src="https://s3.amazonaws.com/Aspen/aspen_blue/images/start-chat-button.png"></a>
-          </div>
-          <div class="separator"></div>
+          
         </div><!-- #right-side -->
 
 
@@ -323,59 +326,40 @@ Denver, Colorado 80246<br>
 
       <div id="home-seperator"></div>
 
-      <div id="footer">
-        <ul id="footer_first">
-          <li><a href="http://www.aspen.edu">Home</a></li>
-          <li><a href="http://www.aspen.edu/Degrees/Associates-Degree">Associates Degree</a></li>
-          <li><a href="http://www.aspen.edu/Degrees/Bachelors-Degree">Bachelors Degree</a></li>
-          <li><a href="http://www.aspen.edu/Degrees/Masters-Degree">Masters Degree</a></li>
-          <li><a href="http://www.aspen.edu/Degrees/Doctorate-Degree">Doctoral Degree</a></li>
-          <li><a href="http://www.aspen.edu/Degrees/Certificate-Programs">Certificate Programs</a></li>
-        </ul>
-        <ul id="footer_second">
-          <li><a href="http://www.aspen.edu/Schools/College-Of-Professional-Studies">College of Professional Studies</a></li>
-          <li><a href="http://www.aspen.edu/Schools/Graduate-School-Of-Business">Graduate School of Business</a></li>
-          <li><a href="http://www.aspen.edu/Schools/School-Of-Criminal-Justice">School of Criminal Justice</a></li>
-          <li><a href="http://www.aspen.edu/Schools/Graduate-School-Of-Health-Professions-and-Studies">Graduate School of Health Professions</a></li>
-          <li><a href="http://www.aspen.edu/Schools/Graduate-School-Of-Technology">Graduate School of Technology</a></li>
-          <li><a href="http://www.aspen.edu/Schools/Graduate-School-Of-Education">Graduate School of Education</a></li>
-        </ul>
-        <ul id="footer_third">
-          <li><a href="http://www.aspen.edu/About-Us/Our-Mission">Our Mission</a></li>
-          <li><a href="http://www.aspen.edu/Admissions/Requirements">Admission Requirements</a></li>
-          <li><a href="http://www.aspen.edu/Tuition/Military-Benefits">Military Benefits</a></li>
-          <li><a href="http://www.aspen.edu/Admissions/International-Students">International Students</a></li>
-          <li><a href="http://www.aspen.edu/Tuition/Financial-Aid">Financial Aid</a></li>          
-          <li><a href="http://www.aspen.edu/About-Us/Accreditation">Accreditation</a></li>
-        </ul>
-        <ul id="footer_fourth">
-          <li><a href="http://www.aspen.edu/Tuition/Tuition-Rates">Tuition Rates</a></li>
-          <li><a href="http://www.aspen.edu/Admissions/Frequently-Asked-Questions">FAQ</a></li>
-          <li><a href="http://www.aspen.edu/About-Us/Contact-Us">Contact Us</a></li>
-          <!-- <li><a href="http://s3.amazonaws.com/Aspen/Documents/Aspen%20University%202011%20Catalog.pdf">Course Catalog</a></li> -->
-          <li><a href="https://www.aspensecure.com/enroll_new.php">Enrollment Form</a></li>
-          <li><a href="https://www.aspensecure.com/online_enroll/categories.php">Pay Fees</a></li>
-        </ul>
-        <div id="folow-buttons">
-          <ul id="footer_fifth">
-            <li><a href="http://www.aspen.edu/Privacy-Policy">Privacy Policy</a></li>
-            <li><a href="http://www.aspen.edu/Info/EULA">End User License Agreement</a></li>
-            <li><a href="http://www.aspen.edu/Info/FERPA-Policy">FERPA Policy</a></li>
-          </ul>
-        
-          <p>FOLLOW US</p>
-          <a href="https://twitter.com/aspenuniversity" class="twitter-follow-button" data-show-count="false">Follow @aspenuniversity</a>
-          <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
-          <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Faspenuniversity&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=108168719288128" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true"></iframe>
-          <a href="http://www.linkedin.com/company/359795?trk=tyah" target="_blank"><img src="https://s3.amazonaws.com/Aspen/aspen_blue/images/linkedin.png"></a>
-        </div>
+      <div id="footer" style="background-image: url('/images/footer-background2.jpg');">
 
-        <div class="disclaimer">Aspen University is nationally accredited by the Accrediting Commission, Distance Education and Training Council.<br>
-          © 2011 Aspen University | 720 South Colorado Boulevard Suite 1150N Denver, CO 80246 | Toll Free: 1-800-441-4746 | <a href="http://www.aspen.edu/Privacy-Policy">Privacy Policy</a> <p></p>
+        <div id="socialDiv">
+          <div id="followUs">FOLLOW US:</div> 
+          
+          <div>
+          <a href="https://twitter.com/share" class="twitter-share-button" data-text="Take The Next Step Towards Your Goals. Get Social With Aspen University!" data-via="aspenuniversity" data-hashtags="TeamAspen">Tweet</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          </div>
+          
+          <div>
+            <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Faspenuniversity&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=20&amp;appId=108168719288128" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:20px;" allowtransparency="true"></iframe>  
+          </div>
+          
+            <div id="linkedIn">
+              <script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+              <script type="IN/CompanyProfile" data-id="359795" data-format="click" data-text="Aspen University"></script>
+            </div>
+
+        </div>
+        
+        <p class="footerLinks">   
+          <a href="/About-Us/Accreditation">Accreditation</a> | <a href="/About-Us/Academic-Calendar">2012 Academic Calendar</a> | <a href="/About-Us/Catalog">2011-2012 Course Catalog</a> | <a href="https://www.aspensecure.com/enroll_new.php">Enrollment Form</a> | <a href="https://www.aspensecure.com/online_enroll/categories.php">Pay Fees</a> | <a href="/Tuition/Refund-Policy">Refund Policy</a>  <br> 
+          <a href="/Admissions/Frequently-Asked-Questions">Frequently Asked Questions</a> | <a href="/Privacy-Policy">Privacy Policy</a> | <a href="/Info/EULA">End User License Agreement</a> | <a href="/Info/FERPA-Policy">Family Educational Rights &amp; Privacy Act</a> | <a href="/About-Us/Gainful-Employment">Gainful Employment Disclosure</a>
+        </p>
+
+        <div class="disclaimer" style="padding-top: 5px;">Aspen University is nationally accredited by the Accrediting Commission, Distance Education and Training Council.<br>
+          © 2012 Aspen University | 720 South Colorado Boulevard Suite 1150N Denver, CO 80246 | Toll Free: 1-800-373-7814 <p></p>
         
       </div><!--  #footer  -->
 
   </div><!-- #wrapper -->
+
+
 
     
       
@@ -421,7 +405,7 @@ Denver, Colorado 80246<br>
             
             <li>
               
-                <a href="/Degrees/Certificate-Programs">certificate</a>
+                <a href="/Degrees/Certificate-Programs">certificate programs</a>
                             
             </li>
             
@@ -545,14 +529,6 @@ Denver, Colorado 80246<br>
             
             <li>
               
-                <a href="/Tuition/Refund-Policy">Refund Policy</a>
-                            
-            </li>
-            <li class="menu-separator"></li>
-          
-            
-            <li>
-              
                 <a href="/Tuition/Tuition-Rates">tuition rates</a>
                             
             </li>
@@ -572,22 +548,6 @@ Denver, Colorado 80246<br>
                 <a href="/Tuition/Military-Benefits">military benefits</a>
                             
             </li>
-            <li class="menu-separator"></li>
-          
-            
-            <li>
-              
-                <a href="https://www.aspensecure.com/enroll_new.php">enrollment form</a>
-                            
-            </li>
-            <li class="menu-separator"></li>
-          
-            
-            <li>
-              
-                <a href="https://www.aspensecure.com/online_enroll/categories.php">pay fees</a>
-                            
-            </li>
             
           
         </div>
@@ -605,15 +565,7 @@ Denver, Colorado 80246<br>
             
             <li>
               
-                <a href="/About-Us/Academic-Calendar">academic calendar</a>
-                            
-            </li>
-            <li class="menu-separator"></li>
-          
-            
-            <li>
-              
-                <a href="/About-Us/Policies-and-Regulations">university policies and regulations</a>
+                <a href="/About-Us/Our-Mission">our mission</a>
                             
             </li>
             <li class="menu-separator"></li>
@@ -629,15 +581,7 @@ Denver, Colorado 80246<br>
             
             <li>
               
-                <a href="/About-Us/Our-Mission">our mission</a>
-                            
-            </li>
-            <li class="menu-separator"></li>
-          
-            
-            <li>
-              
-                <a href="/About-Us/Presidents-Message">message from the president</a>
+                <a href="/About-Us/Policies-and-Regulations">university policies</a>
                             
             </li>
             <li class="menu-separator"></li>
@@ -654,22 +598,6 @@ Denver, Colorado 80246<br>
             <li>
               
                 <a href="/About-Us/Contact-Us">contact us</a>
-                            
-            </li>
-            <li class="menu-separator"></li>
-          
-            
-            <li>
-              
-                <a href="/About-Us/Catalog">2011 course catalog</a>
-                            
-            </li>
-            <li class="menu-separator"></li>
-          
-            
-            <li>
-              
-                <a href="http://s3.amazonaws.com/Aspen/Documents/Aspen%20University%202010%20Catalog.pdf">2010 course catalog</a>
                             
             </li>
             
