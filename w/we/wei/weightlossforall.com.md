@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the weightlossforall.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229103001id_/http%3A//www.weightlossforall.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlossforall.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618194949id_/http%3A//www.weightlossforall.com//privacy-policy.htm) for the most accurate reproduction.*
 
-# Our privacy policy
+# Our Privacy Policy
 
-**Our privacy policy**
+Sign up for our monthly newsletter and receive a **free e-book!** We never share, rent or sell email addresses! 
 
-** Privacy Statement**
+We are Listed in Many Trusted Directories.
 
-WeightLossForAll.com guarantee we will not sell, trade or share your information with any other individual or entity. We respect the privacy of all our visitors and will do everything within our power to protect your name and email address. 
+[DMOZ.org](http://dmoz.org/Health/Weight_Loss/)
 
-On signing up to our monthly newsletter we transfer the information onto a separate disk and promptly delete the details from our computer. This ensures those details cannot be transmitted to another computer in the unlikely event a hacker manages to penetrate our firewall or other security software.
+[Yahoo](http://dir.yahoo.com/Health/Weight_Issues/Weight_Loss/)
 
-Please read our [terms](https://web.archive.org/web/20101229103001id_/http%3A//www.weightlossforall.com/terms-and-conditions.htm) before signing up for the newsletter!
+#### Privacy Statement
 
-WeightLossForAll.com uses third-party advertising companies to serve ads to support the site. Some of these companies (Google) may use technology such as cookies and web beacons when they advertise on this site to collect some **_non-personal_** information (such as your IP address and what web browser you use). This is done for the sole purpose of helping them improve ad targeting (for example, showing ads for sports equipment to a sports enthusiast). 
+WeightLossForAll.com guarantee we will not sell, trade or share your information with any other individual or entity. We respect the privacy of all our visitors and will do everything within our power to protect your name and email address.
 
-Specifically, Google's use of the DART cookie enables them to serve ads based on your visit to this site and other sites on the Internet (Google allows you to [opt out here](http://www.google.com/privacy_ads.html)). You can also choose to turn off cookies in your browser settings. However, bare in mind that doing so will most likely affect your ability to use WeightLossForAll.com as well as many other websites.   
+WeightLossForAll.com uses third-party advertising companies to serve ads to support the site. Some of these companies (Google) may use technology such as cookies and web beacons when they advertise on this site to collect some **_non-personal_** information (such as your IP address and what web browser you use). This is done for the sole purpose of helping them improve ad targeting (for example, showing ads for sports equipment to a sports enthusiast).
+
+Specifically, Google's use of the DART cookie enables them to serve ads based on your visit to this site and other sites on the Internet (Google allows you to [opt out here](http://www.google.com/privacy_ads.html)). You can also choose to turn off cookies in your browser settings. However, bare in mind that doing so will most likely affect your ability to use WeightLossForAll.com as well as many other websites.  
  
+
+[Contact us](http://www.weightlossforall.com/contact-us.htm) if you have any questions.
 
 Thank you!
 
-**The weight loss team**
-
-* * *
-
-* * *
+- **The Weight Loss Team**
