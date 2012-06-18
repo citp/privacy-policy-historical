@@ -1,24 +1,31 @@
-> *The following text is extracted and transformed from the nzsale.co.nz privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207162121id_/http%3A//www.nzsale.co.nz/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzsale.co.nz privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618090328id_/http%3A//www.nzsale.co.nz/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # NZSALE - Privacy Policy
 
-NZSALE.CO.NZ, referred to below as Nzsale, is an online retailer of consumer goods.
+NZSALE.CO.NZ, referred to below as Nzsale, is an online retailer of consumer goods owned and operated by Ozsale Pty Limited.
 
 Nzsale values our relationship with you and the other users of this website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Web Site. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page.
 
 ## NZSALE's Commitment to Online Security
 
-Your personal information is treated with the greatest of care. Sensitive payment information such as credit card details are NEVER stored on the Internet with our system.
+Your personal information is treated with the greatest of care. Sensitive payment information such as credit card details is NEVER stored on the Internet with our system.
 
 ## How Your Information May Be Shared
 
-We never sell or rent your personal information. NZSALE may release personal information under the following circumstances:
+We never sell or rent your personal information. NZSALE generally does not share your personal information with others unless this is necessary for the purposes for which you gave it to us but there may be times when we need to disclose your personal information. NZSALE may release personal information under the following circumstances and/or to the following parties: 
 
-  * Where release is required by law (for example, a subpoena) or regulation or is requested by a government agency;
+  * Where release is required or authorised by law (for example, a subpoena) or regulation or is requested by a law enforcement agency or emergency services;
   * Where our records indicate a company or an individual may be engaged in fraudulent activity or other deceptive practices that a governmental agency should be made aware of;
   * To appropriate persons, where your communication suggests possible harm to others.
+  * To our related companies (some of which are based outside of New Zealand) who may use and disclose your information for the same or similar purposes as us.
+  * To facilitate the sale or other disposition of our business.
+  * For carrying out marketing and products analysis and marketing Nzsale and Nzsale related companies’ products and services.
 
 
+
+## Member’s Right to Access and Correct Personal Information
+
+You have right to access and correct your personal information held by us about you, if we hold that information in a way that it can be readily retrieved. You can access and correct your personal information under “My Account”. Alternatively you can send us an email via our “My Contacts” page.
 
 ## Invite a friend
 
@@ -46,7 +53,7 @@ Nzsale also uses persistent cookies to personalise the user experience, to help 
 
 ## Membership Removal
 
-If you wish to be removed from our database for any reason, simply send us an email requesting to be removed via our contact us page.
+If you wish to be removed from our database for any reason, simply send us an email requesting to be removed via our “My Contact” page.
 
 ## Updates to our information practices
 
