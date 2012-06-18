@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the bee4.biz privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102101040id_/http%3A//bee4.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bee4.biz privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618143436id_/http%3A//bee4.biz/privacy) for the most accurate reproduction.*
 
 # Link shortener that pays
-
-
-
 
 **_What we collect_**
 
