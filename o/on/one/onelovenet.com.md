@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onelovenet.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220033341id_/http%3A//www.onelovenet.com/index.cgi/def/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelovenet.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618174806id_/http%3A//www.onelovenet.com/index.cgi/def/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Find Singles Free Dating Site OneLoveNet.com, Online Dating Service, Personal Ads
 
@@ -27,7 +27,11 @@ My Messages
 * [Inbox](http://www.onelovenet.com/index.cgi/def/myinbox/)  
 * [Sent Messages](http://www.onelovenet.com/index.cgi/def/mysent/)  
 Find Singles for Free @ OneLoveNet.com, 100% Free Dating Site & Marchmaking Service. Soon, we will list other 100% free dating sites for you. Stay connected!  
-Being a quickly growing free online dating personals website and service, OneLoveNet.com provides new personal ads every day for men, women, boys & girls.|  |  Privacy Policy
+Being a quickly growing free online dating personals website and service, OneLoveNet.com provides new personal ads every day for men, women, boys & girls.|  | 
+
+* * *
+
+Privacy Policy
 
 **REGISTRATION**  
 If you register on OneLoveNet.com as a member, we collect and store all the information you enter. Our Statistics, are derived from these information. This information may be used to target our registered members for new services and promotions. Your e-mail address may be used by OneLoveNet.com and certain partners to contact you regarding new services and products in which you may be interested.  
