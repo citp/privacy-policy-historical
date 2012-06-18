@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fourpxarticles.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615063219id_/http%3A//www.fourpxarticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourpxarticles.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618174118id_/http%3A//www.fourpxarticles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FourPx Articles
+# Privacy Policy | Fourpx Articles
 
 FourPx Articles is strongly committed to protecting your privacy while interacting with our content, products and services in a safe and secure environment.
 
