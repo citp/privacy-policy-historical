@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spotrac.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219200331id_/http%3A//www.spotrac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotrac.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618151014id_/http%3A//www.spotrac.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Spotrac
 
-All player, team, and league information found on spotrac.com is for informational purposes only and is not guaranteed for accuracy by spotrac.com. We do our very best to keep our site properly updated. If you should find information within the site that you do not feel is accurate please email the update at [mistakes@spotrac.com](mailto:mistakes@spotrac.com). 
+All player, team, and league information found on spotrac.com is for informational purposes only and is not guaranteed for accuracy by spotrac.com. We do our very best to keep our site properly updated. If you should find information within the site that you do not feel is accurate please email the update at [info@spotrac.com](mailto:info@spotrac.com). 
 
 We take privacy of our users very seriously. This privacy policy explains what information we will collect about you, how we will use it and the steps we will take to ensure that it is kept secure. 
 
@@ -18,7 +18,7 @@ What Information We Collect
 ** We collect information regarding your visit to this site (such as which pages you’ve visited, how often you’ve visited and comments you’ve provided) and the information you supply when subscribing to any portion of this site (such as your name and e-mail address) will be held and securely stored by spotrac.com.
 
  **How We Will Use Your Information  
-** Your information will help us to improve our site and design features that are important to you, our customers.We will also use your information to tell you about any of our new features, products or services that we think might interest you. If you do not wish us to use your information as set out in this paragraph you should email us at [privacy@spotrac.com](mailto:privacy@spotrac.com).
+** Your information will help us to improve our site and design features that are important to you, our customers.We will also use your information to tell you about any of our new features, products or services that we think might interest you. If you do not wish us to use your information as set out in this paragraph you should email us at [info@spotrac.com](mailto:privacy@spotrac.com).
 
 By supplying us with your information, you have confirmed that you do not consider use of your information in accordance with this privacy policy to be a breach of any rights under all applicable laws, online privacy policies and regulations.
 
