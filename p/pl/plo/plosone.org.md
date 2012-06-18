@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plosone.org privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527143211id_/http%3A//www.plosone.org/static/privacy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plosone.org privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618082154id_/http%3A//www.plosone.org/static/privacy.action) for the most accurate reproduction.*
 
 # PLoS ONE : accelerating the publication of peer-reviewed science
 
