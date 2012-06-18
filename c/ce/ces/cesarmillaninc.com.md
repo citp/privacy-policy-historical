@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cesarmillaninc.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215618id_/http%3A//www.cesarsway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesarmillaninc.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618065510id_/http%3A//www.cesarsway.com/privacy) for the most accurate reproduction.*
 
-# Website Privacy Policy | CesarsWay.com
+# Website Privacy Policy | Dog Whisperer Cesar Millan
 
 This privacy policy describes the collection of information by Cesar Millan, Inc. (“CMI”, “we”, “us” or “our”) from users of our websites www.cesarmillaninc.com and www.cesarsway.com (collectively, the “Site”), and users of the various services we provide on the Site (collectively, the “Service”), as well as our use and disclosure of that information. By using the Site or any Service, you consent to the collection and use of information in accordance with this policy.
 
@@ -60,7 +60,7 @@ We may allow you to select privacy options that limit access to some types of pe
 
 If you receive marketing or promotional communications from us, you may unsubscribe at any time by following the instructions contained within the message that we send. You may also opt-out from receiving marketing or promotional communications from us by sending us an email or by writing to us at the address given at the end of this policy. 
 
-Additionally, if you do not wish to be notified by email, postal mail, telephone, or text messages regarding products, services, [events](http://www.cesarsway.com/channel/news-and-events), programs, and offers that we believe you may find of interest, you may opt-out from such communications by sending us an email or by writing to us at the address given at the end of this policy. Even if you opt-out from marketing and promotional communications, you may still receive messages regarding any accounts you maintain with us, and regarding important updates to our Site or our Service.
+Additionally, if you do not wish to be notified by email, postal mail, telephone, or text messages regarding products, services, events, programs, and offers that we believe you may find of interest, you may opt-out from such communications by sending us an email or by writing to us at the address given at the end of this policy. Even if you opt-out from marketing and promotional communications, you may still receive messages regarding any accounts you maintain with us, and regarding important updates to our Site or our Service.
 
 ### Children
 
@@ -74,7 +74,7 @@ This Site is generally intended for United States visitors. If you visit from ot
 
 For your convenience, our Site may contain links to other Web sites, products, or services that we do not own or operate. If you choose to visit or use any third-party products or services, please be aware that this policy will not apply to your activities or any information you disclose while using third-party products or services or otherwise interacting with third parties.
 
-For example, and without limitation, the Cesar Millan-branded services located at www.sessionswithcesar.com (including the “Sessions with Cesar” materials and the “Cesar Live” webinars), the “Cesar’s Pack” [community](http://www.cesarsway.com/channel/community)/forums and all other materials available on such web pages: (i) are not operated by CMI and (ii) may be accessible from and provide links to other third-party websites and access to content, products and services of third parties. CMI is not responsible for examining or evaluating, and we do not warrant the offerings of, any of these (or other) third-party websites, and CMI does not assume any responsibility or liability for the actions, products, services or content of these or other third-party websites or any third parties. You should refer to the separate terms of use, privacy policies, and other rules posted on such websites before you use them.
+For example, and without limitation, the Cesar Millan-branded services located at www.sessionswithcesar.com (including the “Sessions with Cesar” materials and the “Cesar Live” webinars), the “Cesar’s Pack” community/forums and all other materials available on such web pages: (i) are not operated by CMI and (ii) may be accessible from and provide links to other third-party websites and access to content, products and services of third parties. CMI is not responsible for examining or evaluating, and we do not warrant the offerings of, any of these (or other) third-party websites, and CMI does not assume any responsibility or liability for the actions, products, services or content of these or other third-party websites or any third parties. You should refer to the separate terms of use, privacy policies, and other rules posted on such websites before you use them.
 
 ### Security
 
