@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210145027id_/http%3A//www.huddle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618072521id_/http%3A//www.huddle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Huddle.com
 
@@ -8,7 +8,7 @@
 
 Ninian Solutions Limited (“we”, “us” or “our”) are committed to protecting and respecting your privacy.
 
-This policy (together with our terms of use http://www.huddle.com/terms-of-use/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our terms of use http://www.huddle.com/terms-of-use/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 We may change this Policy from time to time. If we make any changes to this Policy, we will change the “last updated” date above. If there are material changes to this Policy, we will notify you more directly. We encourage you to check this Policy whenever you use our Web sites and services to understand how your personal information is used.
 
@@ -23,7 +23,6 @@ We may collect and process the following data about you:
   * Information that you provide us by completing surveys on our site or as carried out by our approved third parties.
   * If you contact us for customer or technical support, we may keep a record of that correspondence or conversation.
   * Information that you provide us when carrying out transactions through our site including payment details such as credit card information and billing addresses.
-  * Information we receive from our third party partners such as LinkedIn, Xing, Ning during the registration process such as first name, surname and email address.
   * Information we receive from third party search engines such as Google, Yahoo and Microsoft (Bing and MSN) relating to your search activity.
   * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access.
 
@@ -44,7 +43,7 @@ We use information held about you in the following ways:
 
 **IP addresses and cookies**
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers.  This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
 Also, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer when you browse our sites. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service.
 
@@ -52,7 +51,7 @@ You may refuse to accept our cookie by activating the setting on your browser wh
 
 **Third Party Partners Programme**
 
-When you visit our site, we place a cookie file on your hard drive of your computer so that our advertising partners are able to recognise you when you visit their websites.  We do this so that our advertising partners are able to show you advertisements relating to our products and services when you visit their website.
+When you visit our site, we place a cookie file on your hard drive of your computer so that our advertising partners are able to recognise you when you visit their websites. We do this so that our advertising partners are able to show you advertisements relating to our products and services when you visit their website.
 
 You may opt out of receiving our advertisements through our advertising partners by:
 
@@ -69,13 +68,13 @@ You may at anytime opt-out of receiving this information by clicking on the opt-
 
 **How you can change or remove information**
 
-You may change or remove your profile information displayed through our site at any time by going to your profile and editing your information.  However, if you want to change the personal information we hold about you in our systems, you will need email your request to privacy@huddle.com.
+You may change or remove your profile information displayed through our site at any time by going to your profile and editing your information. However, if you want to change the personal information we hold about you in our systems, you will need email your request to privacy@huddle.com.
 
-If you want to stop using your account you may deactivate it. When you deactivate an account, you will not be able to use our service and your information will not be capable of being viewed through our site.  However, even after you deactivate your account, copies of your information including but not limited to name and email address may be retained by us as backup copies for legal and compliance reasons.
+If you want to stop using your account you may deactivate it. When you deactivate an account, you will not be able to use our service and your information will not be capable of being viewed through our site. However, even after you deactivate your account, copies of your information including but not limited to name and email address may be retained by us as backup copies for legal and compliance reasons.
 
 **Where we store your personal data**
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”).  It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the provision of CRM services, marketing campaigns, support and hosting services on our behalf.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the provision of CRM services, marketing campaigns, support and hosting services on our behalf. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 All information you provide to us is stored on secure servers operated by us or our third party providers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
