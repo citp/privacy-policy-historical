@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the estore.com.au privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115143513id_/http%3A//www.estore.com.au/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estore.com.au privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618050626id_/http%3A//www.estore.com.au/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# eStore.com.au | Online Technology & Computer Store - Buy Computers, Software, Laptops & Printers
+# Privacy Policy | eStore
 
 ## eStore Privacy Policy 
 
