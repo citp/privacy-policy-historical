@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeroworktraffic.com privacy policy that was archived on 2011-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110820134022id_/http%3A//www.zeroworktraffic.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeroworktraffic.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618020448id_/http%3A//www.zeroworktraffic.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zero Work Traffic
 
@@ -38,7 +38,7 @@ We can be reached by contacting:
 
 ZWT
 
-Email: [Please use our contact form here](https://www.zeroworktraffic.com/member/membership-contact/)
+Email: [Please use our contact form here](http://www.zeroworktraffic.com/member/membership-contact/)
 
 Changes to this Policy
 
