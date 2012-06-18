@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defensereview.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127011818id_/http%3A//www.defensereview.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defensereview.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618065741id_/http%3A//www.defensereview.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Defense Review - Privacy Policy
 
@@ -12,7 +12,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, DefenseReview.Com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, DefenseReview.Com uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
@@ -22,7 +22,7 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ## Special Note About Google Advertising
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies. 
 
 ## Contact Information
 
@@ -30,5 +30,5 @@ Concerns or questions about this privacy policy can be directed to usdefcon@gmai
 
 #### Search terms for the article:
 
-[google regular routine maintenance of our servers](http://www.defensereview.com/search/google-regular-routine-maintenance-of-our-servers/ "google regular routine maintenance of our servers"), [how to enable cookies](http://www.defensereview.com/search/how-to-enable-cookies/ "how to enable cookies")
+[defense review policy](http://www.defensereview.com/search/defense-review-policy/ "defense review policy"), [google regular routine maintenance of our servers](http://www.defensereview.com/search/google-regular-routine-maintenance-of-our-servers/ "google regular routine maintenance of our servers"), [how to enable cookies](http://www.defensereview.com/search/how-to-enable-cookies/ "how to enable cookies"), [ttp://www defensereview com/privacy-policy-2/](http://www.defensereview.com/search/ttpwww-defensereview-comprivacy-policy-2/ "ttp://www defensereview com/privacy-policy-2/")
 
