@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the go4schools.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114091127id_/http%3A//www.go4schools.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4schools.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618065639id_/http%3A//www.go4schools.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : GO 4 Schools
 
-Last modified: March 29, 2011
+GO 4 Schools would like to place cookies on your computer to help us make this site better. To find out more about the cookies, see our [privacy policy](http://www.go4schools.com/PrivacyPolicy.aspx).
+
+I accept cookies from this site.
+
+Last modified: May 24, 2012
 
 Hyperspheric Solutions Ltd ("Hyperspheric"), the company behind the GO 4 Schools product, recognises that privacy is important. This Privacy Policy applies to the GO 4 Schools product ("www.go4schools.com") and lets you know how any personal information is processed and used by us. Our procedures covering the storage and disclosure of your information are designed to comply with the Data Protection Act 1998.
 
@@ -22,7 +26,7 @@ In order to provide our full range of services, we may collect the following typ
 
   * Cookies – When you visit GO 4 Schools, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, and tracking user trends.
   * Log information – When you access GO 4 Schools, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-  * User communications – When you send email or other communications related to GO 4 Schools, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+  * User communications – When you send email or other communications related to GO 4 Schools, we may retain those communications in order to process your enquiries, respond to your requests and improve our services.
   * Links – GO 4 Schools may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our product.
 
 
@@ -37,9 +41,35 @@ This information is used for the provision of the GO 4 Schools service, plus:
 
 In order to log on to GO 4 Schools you must have supplied one or more schools with your email address or been supplied with an email address by a school. We will use such email addresses solely to allow you to log on to GO 4 Schools and to communicate with you on the request of the appropriate school.
 
-### Choices for personal information
+### Use of cookies by GO 4 Schools
 
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, GO 4 Schools may not function properly if your cookies are disabled.
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
+
+The table below explains the cookies we use and why.
+
+Cookie | Name | Purpose | More information  
+---|---|---|---  
+GO 4 Schools site cookie acceptance | GO4SchoolsCookiesAccepted |  This cookie is used to record if a user has accepted the use of cookies on the GO 4 Schools website.  |    
+GO 4 Schools site remember email address | 
+
+  * stars_rememberEmail
+  * stars_emailAddress
+
+|  These cookies are used to securely record a user's email address so that it can be remembered on the login page.  |    
+GO 4 Schools site ribbon settings | stars_ribbonStats |  This cookie is used to record and persist choices made by the user when viewing tabular and graphical data within our site.  |    
+ASP.NET Session ID | ASP.NET_SessionId |  These cookies are essential in order to enable you to move around the website and use its features. Without this cookie, the service you have asked for cannot be provided.  | [Visit the Microsoft website](http://support.microsoft.com/kb/899918)  
+Google Analytics | 
+
+  * _utma
+  * _utmb
+  * _utmc
+  * _utmz
+
+|  These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  | [Click here for an overview of privacy at Google](http://www.google.com/analytics/learn/privacy.html)  
+  
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+To opt out of being tracked by Google Analytics across all websites visit [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
 
 ## Information sharing
 
@@ -53,7 +83,7 @@ Please contact us at the address below for any additional questions about the ma
 
 ## Information security
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+We take appropriate security measures to protect against unauthorised access to or unauthorised alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorised access to systems where we store personal data.
 
 We restrict access to personal information to Hyperspheric employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
