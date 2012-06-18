@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the minecraftskins.info privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206042411id_/http%3A//www.minecraftskins.info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftskins.info privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618201915id_/http%3A//www.minecraftskins.info/privacypolicy.html) for the most accurate reproduction.*
 
 # Minecraft Skins | Privacy Policy
-
-Welcome to MinecraftSkins.info! Select a category from the menu above or use the search bar to browse our selection of high quality Minecraft skins. When you find one you like, click ‘change’ to replace your current skin or click ‘download’ to save it for later. 
 
 Log Files
 
@@ -16,4 +14,4 @@ We also use third party advertisements on minecraftskins.info to support our sit
 
 DoubleClick DART cookies
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising. This cookie is used to serve ads specific to you and your interests. The ads served will be targeted based on your previous browsing history. DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising. This cookie is used to serve ads specific to you and your interests. The ads served will be targeted based on your previous browsing history. DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [www.doubleclick.com/privacy/dart_adserving.aspx](http://www.doubleclick.com/privacy/dart_adserving.aspx)
