@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the perkspot.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622040751id_/http%3A//www.perkspot.com/site/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perkspot.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618193937id_/http%3A//www.perkspot.com/privacy-policy) for the most accurate reproduction.*
 
-# PerkSpot » Privacy Policy
+# Privacy Policy « « perkspot.com perkspot.com
 
-**Your Privacy**  
-We are committed to protecting your privacy. At no time will we trade, sell, or distribute for free organization specific or personal information, including email addresses or other user IDs, to any individual, company, vendor or organization,  
+**Your Privacy  
+**We are committed to protecting your privacy. At no time will we trade, sell, or distribute for free organization specific or personal information, including email addresses or other user IDs, to any individual, company, vendor or organization,  
 in ways other than disclosed in this privacy statement.
 
 This privacy statement covers the site www.perkspot.com and private label sub-domains delivered by 12 Interactive LLC, (i.e. abc.perkspot.com, etc.). Because 12 Interactive LLC wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices.
@@ -46,7 +46,7 @@ This privacy statement covers the use of cookies by www.perkspot.com and private
 **Emails**  
 12 Interactive LLC will not send unsolicited emails to registered users of PerkSpot without consent. Additionally, users may choose to receive PerkSpot correspondence, including email reminders of specific vendor offers and PerkSpot newsletters. The “my account” channel on the site displays the correspondence you’ve elected to receive, and provides the option to unsubscribe from future PerkSpot related emails.
 
-All emails sent by PerkSpot contain directions on how to unsubscribe from future correspondence. At any time, users may opt out of PerkSpot related correspondence by sending an email to sales@perkspot.com. Users may also access their personal information, including email address to make edits in the “My Account” section of the website.
+All emails sent by PerkSpot contain directions on how to unsubscribe from future correspondence. At any time, users may opt out of PerkSpot related correspondence by sending an email to cs@perkspot.com. Users may also access their personal information, including email address to make edits in the “My Account” section of the website.
 
 In addition, a registered user who wishes that their personal information, including email address to be completely removed from the PerkSpot database should email help@perkspot.com. We will respond to your request within thirty [30] business days. An employee’s complete removal of his or her personal information from the database negates that employee’s ability to login to PerkSpot.
 
@@ -54,10 +54,10 @@ In addition, a registered user who wishes that their personal information, inclu
 Users will be notified of changes or revisions to this privacy policy, including our email practices, by a notice posted on the login page of PerkSpot. The notice will contain a link, whereby the privacy policy can be examined in full. In this way registered users are made aware of policy changes prior to shopping or browsing the website. As always, a user who is not amenable to the conditions of a revised privacy policy may opt out of PerkSpot by the means outlined earlier in this document.
 
 **Purchasing Items Directly Through PerkSpot**  
-Agents  
+**Agents**  
 12 Interactive LLC uses an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain share, store or use personally identifiable information for any other purposes.
 
-Service Providers  
+**Service Providers**  
 12 Interactive LLC uses other third parties to process credit card transactions on the site(s). When you sign up for programs directly related to PerkSpot, 12 Interactive LLC will share first name, last name, credit card information and billing address as necessary for the third party to provide that service. 12 Interactive LLC will not share email addresses with those third parties for the purpose of processing credit card transactions. These third parties are prohibited from using your personally identifiable information, including email address, for any other purpose. PerkSpot is a portal that provides access to exclusive discounts redeemable at the point of purchase at a certain vendor’s online or offline location. In rare cases, PerkSpot may serve as both vendor and portal, and will collect certain information necessary to complete an online purchase. Like every online purchase, you will be required to submit the following information to buy an item where PerkSpot is the vendor:  
 • Shipping or billing address or both  
 • Credit card information  
@@ -92,7 +92,7 @@ of our users.
 **Contact Us**  
 Please direct your questions or comments to:
 
-By Email: sales@perkspot.com  
+By Email: privacy@perkspot.com  
 By Phone: 312.423.7887
 
 By Mail:  
