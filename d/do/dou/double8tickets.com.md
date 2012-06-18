@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the double8tickets.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501063810id_/http%3A//www.double8tickets.com/tandc.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the double8tickets.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618075036id_/http%3A//www.double8tickets.com/tandc.html) for the most accurate reproduction.*
 
-# Buy Concert tickets at Double8tickets.com
+# tickets, Concert Tickets, Double8tickets.com
 
-**Terms and Conditions** **Thank you!**  
+**Thank you!**  
 Thank you for using Double8Tickets.com, London's favourite ticket broker. Please check your tickets immediately on receipt, as queries should be dealt with within 48 hours. 
 
 **About us**  
