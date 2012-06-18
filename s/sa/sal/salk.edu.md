@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salk.edu privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124110036id_/http%3A//www.salk.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salk.edu privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618161705id_/http%3A//www.salk.edu/privacy) for the most accurate reproduction.*
 
 # Salk Institute - About Salk
 
