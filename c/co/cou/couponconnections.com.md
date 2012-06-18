@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponconnections.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214023108id_/http%3A//couponconnections.com/2010/04/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponconnections.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618173305id_/http%3A//couponconnections.com/2010/04/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Extreme Couponing - Coupon Connections
 
@@ -28,8 +28,10 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 AdSense Privacy Policy Provided by [JenSense](http://draft.blogger.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
 
+_[Disclosure](http://74.220.219.79/~couponc5/disclosure-policy/): This post may contain affiliate links. When you use them, you help support this site. Thanks!_
+
 [](http://www.printfriendly.com/print/v2?url=http://couponconnections.com/2010/04/privacy-policy/)
 
-_[Disclosure](http://couponconnections.com/disclosure-policy/): This post may contain affiliate links. When you use them, you help support this site. Thanks!_
+ _[Disclosure](http://couponconnections.com/disclosure-policy/): This post may contain affiliate links. When you use them, you help support this site. Thanks!_
 
 Tagged as: [privacy policy](http://couponconnections.com/tag/privacy-policy/)
