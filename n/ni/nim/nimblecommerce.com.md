@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimblecommerce.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209165552id_/http%3A//www.nimblecommerce.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimblecommerce.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618163714id_/http%3A//www.nimblecommerce.com/privacyPolicy) for the most accurate reproduction.*
 
 # NimbleCommerce - Group Buying and Local Commerce Platform
 
@@ -40,11 +40,11 @@ We may also provide Your Information to a third party in connection with the sal
 
 As a convenience to our visitors, this Website currently contains links to a number of sites that we believe may offer useful information. The policies and procedures we described here do not apply to those sites. We suggest contacting those sites directly for information on their privacy, security, data collection, and distribution policies. 
 
-NimbleCommerce offers you a means to choose how we may use information you provided. If, at any time after registering for information or ordering the Services, you change your mind about receiving information from us or about sharing information with third parties, send us a request specifying your new choice. Send your request to [support@nimblecommerce.com](mailto:support@nimblecommerce.com). 
+NimbleCommerce offers you a means to choose how we may use information you provided. If, at any time after registering for information or ordering the Services, you change your mind about receiving information from us or about sharing information with third parties, send us a request specifying your new choice. Send your request to [support@nimblecommerce.com](mailto:support@nimblecommerce.com). 
 
 ### Correcting and Updating Your Information
 
-To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a NimbleCommerce Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [support@nimblecommerce.com](mailto:support@nimblecommerce.com).
+To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a NimbleCommerce Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing[support@nimblecommerce.com](mailto:support@nimblecommerce.com).
 
 ###  Additional Information 
 
