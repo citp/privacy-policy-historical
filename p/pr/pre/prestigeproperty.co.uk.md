@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestigeproperty.co.uk privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105220736id_/http%3A//prestigeproperty.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestigeproperty.co.uk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618052136id_/http%3A//www.prestigeproperty.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Prestige Property Group
 
@@ -23,3 +23,15 @@ This site has security measures in place to protect the loss, misuse and alterat
 ## Opt Out / Closing Your PPG Account
 
 We understand that you may wish to discontinue or close either your Property Portfolio or your record at the PPG offices (if you have submitted information to us in the past) for whatever reason. To request closure, please use the Enquiry form via the Contact Us link at the foot of this page.
+
+## Cookies and Data Gathering
+
+We use standard browser cookies to enable certain functions as you browse our website; for instance, to save your name and email address when you send an enquiry form in order to automatically fill in the next one. They are also used as part of the portfolio login system to keep track of your account and allow you to save properties.
+
+This information is stored only on your computer and most browsers allow you to view the contents of the cookies used by our and other websites.
+
+Like most other websites, we also use cookies to capture a small amount of information about where you have come from (Google, Yahoo, Bing, etc) to enable us to better target our advertising resources.
+
+Cookies are also used as part of the Google Analytics package we use to provide broad statistics on visitor numbers and similar information.
+
+We do not pass any cookie information we use or collect to third parties.
