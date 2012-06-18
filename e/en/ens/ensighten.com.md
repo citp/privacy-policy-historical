@@ -1,66 +1,69 @@
-> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230053113id_/http%3A//ensighten.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618140054id_/http%3A//www.ensighten.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Ensighten Privacy Policy
+# Privacy Policy | Ensighten
 
-## Ensighten Customer Internet Privacy Statement
+###  Last Updated May 14, 2012 
 
-**Last Updated 1/28/2011**
+##  **Our Commitment To Privacy**
 
-## Our Commitment To Privacy
+Your privacy is important to us and maintaining your trust is our priority. To ensure that your privacy is protected, we provide this notice which explains our online information practices as well as the decisions you may make regarding how your information is collected and used. 
 
-Your privacy is important to us and maintaining your trust is our priority. To ensure that your privacy is protected, we provide this notice which explains our online information practices as well as the decisions you may make regarding how your information is collected and used.
+##  **Our Principles**
 
-## Our Principles
+Ensighten adheres to industry best practice privacy principles outlined by the [Web Analytics Association Code of Ethics](http://www.webanalyticsassociation.org/?page=codeofethics) with respect to the data collection practices at our websites; including the site that you are now visiting and the site that each of our clients uses to access the data we collect on the client's behalf pursuant to the client's instructions. Our fundamental privacy principles incorporate the guidelines suggested by the Federal Trade Commission for web sites that collect personally identifying information - Notice, Choice, Access, and Security - which are discussed below. 
 
-Ensighten adheres to industry best practice privacy principles outlined by the [Web Analytics Association Code of Ethics](http://www.webanalyticsassociation.org/?page=codeofethics) with respect to the data collection practices at our websites; including the site that you are now visiting and the site that each of our clients uses to access the data we collect on the client’s behalf pursuant to the client’s instructions. Our fundamental privacy principles incorporate the guidelines suggested by the Federal Trade Commission for web sites that collect personally identifying information - Notice, Choice, Access, and Security - which are discussed below.
+**Notice**  – Ensighten is committed to making our data collection practices readily available to you so that you can make informed decisions about your activities at our websites. 
 
-**Notice** \- Ensighten is committed to making our data collection practices readily available to you so that you can make informed decisions about your activities at our websites.
+**Choice**  – Ensighten provides you with the opportunity to elect not to participate in our data collection activities. 
 
-**Choice** \- Ensighten provides you with the opportunity to elect not to participate in our data collection activities.
+**Access**  – We provide all visitors to our websites with the opportunity to review, modify, and delete any personally identifiable information that has previously been provided. 
 
-**Access** \- We provide all visitors to our websites with the opportunity to review, modify, and delete any personally identifiable information that has previously been provided.
+##  **What We Collect and How We Use It**
 
-## What We Collect and How We Use It
+When you visit this website, we collect certain non-personally-identifiable information such as your IP address, referring web site, what pages you visited, and the time that you visited. We will also collect any personally identifiable information that you may send to us or provide to us on our forms (such as Resume Submission or Request for Information). We use this information in connection with fulfilling your request, for our own marketing purposes, or to consider your application for employment. We may also provide this information to our marketing partners so that you may receive marketing information from them, but only if you affirmatively request that we do so. Finally, we may forward to our vendors information that you provide to us, but only for the limited purpose of providing a service to us, such as fulfilling on our behalf a request for information about Ensighten. 
 
-When you visit this website, we collect certain non-personally-identifiable information such as your IP address, referring web site, what pages you visited, and the time that you visited. We will also collect any personally identifiable information that you may send to us or provide to us on our forms (such as Resume Submission or Request for Information). We use this information in connection with fulfilling your request, for our own marketing purposes, or to consider your application for employment. We may also provide this information to our marketing partners so that you may receive marketing information from them, but only if you affirmatively request that we do so. Finally, we may forward to our vendors information that you provide to us, but only for the limited purpose of providing a service to us, such as fulfilling on our behalf a request for information about Ensighten.
+When our client users access their data via our secure web interface, we collect information about the way they use our Services, such as their IP address, the type of browser they are using, and the numbers and durations of site visits. We also collect user ID, username, and password. We use the information that we collect to improve the way that we provide our Services, to relay administrative information, and to verify login information. As we continue to develop our business, we may sell certain of our assets. In such transactions, visitor information likely will be one of the transferred business assets. Also, in the event that Ensighten, Inc. or substantially all of its assets is acquired, our visitor information may be an asset that is reviewed and transferred. Also, as with the data we collect on behalf of our clients, we reserve a limited right to disclose any data we collect at our sites if required by law or valid order of a court or other governmental authority. 
 
-When our client users access their data via our secure web interface, we collect information about the way they use our Services, such as their IP address, the type of browser they are using, and the numbers and durations of site visits. We also collect user ID, username, and password. We use the information that we collect to improve the way that we provide our Services, to relay administrative information, and to verify login information. As we continue to develop our business, we may sell certain of our assets. In such transactions, visitor information likely will be one of the transferred business assets. Also, in the event that Ensighten, LLC or substantially all of its assets is acquired, our visitor information may be an asset that is reviewed and transferred. Also, as with the data we collect on behalf of our clients, we reserve a limited right to disclose any data we collect at our sites if required by law or valid order of a court or other governmental authority.
+##  **Update Your Information**
 
-## Update Your Information
+We provide all visitors to our websites with the opportunity to review, modify, and delete any personally identifiable information that has previously been provided. You can send an email to [privacy@ensighten.com](mailto:privacy@ensighten.com), or call us toll free on 888-553-6744. 
 
-We provide all visitors to our websites with the opportunity to review, modify, and delete any personally identifiable information that has previously been provided. You can send an email to [privacy@ensighten.com](mailto:privacy@ensighten.com), or call us toll free on 888-553-6744.
+##  **Consumer Privacy**
 
-## Unsubscribe from Our Mailing List
+When you use websites owned by our customers that are using our services or products, you may also be providing certain additional types of information other than those described above, such as tracking tags and cookies. This information is used only to the extent necessary to provide our services to the website you are visiting for the duration of your visit and we do not access, store, or use this information in any other way. In all cases, whether this information belongs to either you or to the owner of the website you are visiting depends upon the individual privacy practices of that website. You should always check the individual privacy policy of each website you visit before providing any information.  Regardless of whether you or the owner of the applicable website own your data, we make no claim to your information and cannot and will not be responsible for it.    
 
-You may at any time ask us to remove you from any mailing list on which you previously asked us to include you by sending us an email at [unsubscribe@ensighten.com](mailto:unsubscribe@ensighten.com), or by calling us toll free on 888-553-6744.
+##  **Unsubscribe from Our Mailing List**
 
-## Online Privacy Policy Only
+You may at any time ask us to remove you from any mailing list on which you previously asked us to include you by sending us an email at [unsubscribe@ensighten.com](mailto:unsubscribe@ensighten.com), or by calling us toll free on 888-553-6744. 
 
-This privacy policy applies only to information collected online through our website and does not extend to information collected offline.
+##  **Online Privacy Policy Only**
 
-## Other Web Sites
+This privacy policy applies only to information collected online through our website and does not extend to information collected offline. 
 
-This privacy statement applies solely to information collected by this website, which contains links to other sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every website that they visit.
+##  **Other Web Sites**
 
-## Consent
+This privacy statement applies solely to information collected by this website, which contains links to other sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every website that they visit. 
 
-By using our site, you consent to our online privacy policy.
+##  **Consent**
 
-## Changes to Our Privacy Policy
+By using our site, you consent to our online privacy policy. 
 
-If we change our privacy policy, we will post those changes on this page in addition to updating the Privacy Policy modification date at the top.
+##  **Changes to Our Privacy Policy**
 
-## If You Contact Us
+If we change our privacy policy, we will post those changes on this page in addition to updating the Privacy Policy modification date at the top. 
 
-We answer the email we receive by sending an email response to the sender. We also store the email we receive for archival purposes and for our own marketing purposes if we feel that it is consistent with the nature of the inquiry. We will not use return email addresses for any other purpose unless you give us permission to do so.
+##  **If You Contact Us**
 
-## How To Contact Us
+We answer the email we receive by sending an email response to the sender. We also store the email we receive for archival purposes and for our own marketing purposes if we feel that it is consistent with the nature of the inquiry. We will not use return email addresses for any other purpose unless you give us permission to do so. 
 
-Should you have other questions or concerns about this privacy policy, the practices of this site or Ensighten Services, you may contact us using the below information:
+##  **How To Contact Us**
 
-Ensighten, LLC  
+Should you have other questions or concerns about this privacy policy, the practices of this site or Ensighten Services, you may contact us using the below information: 
+
+**Ensighten, Inc.**  
 Privacy Department  
-1771 West Diehl Road, Suite 330  
-Naperville, IL 60563  
-Phone: 888-553-6744  
-[info@ensighten.com](mailto:info@ensighten.com "Ensighten Information")
+1601 S. De Anza Blvd  
+Suite 165  
+Cupertino, CA. 95014  
+Phone: 650-241-3345  
+[info@ensighten.com](mailto:info@ensighten.com)
