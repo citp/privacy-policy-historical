@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the everydayfunnyfunny.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125160014id_/http%3A//everydayfunnyfunny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayfunnyfunny.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618170606id_/http%3A//everydayfunnyfunny.com/privacy-policy) for the most accurate reproduction.*
 
 # Everyday Funny Funny | Privacy Policy
 
 **Privacy Policy for EverydayFunnyFunny.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact](http://everydayfunnyfunny.com/contact/ "contact") us by email.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email.
 
 At EverydayFunnyFunny.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by EverydayFunnyFunny.com and how it is used.
 
