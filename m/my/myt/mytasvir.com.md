@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytasvir.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118222719id_/http%3A//mytasvir.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytasvir.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618161547id_/http%3A//mytasvir.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Mytasvir » More Information » Privacy Policy - عکس - تصویر
 
@@ -34,7 +34,7 @@ Mytasvir doesn't permit the following types of files:
 
 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Service](http://www.mytasvir.com/info.php?act=rules "Terms of Service")
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Service](http://mytasvir.com/info.php?act=rules "Terms of Service")
 
 **Legal Terms**
 
@@ -52,4 +52,4 @@ The images are the copyright of their respective owners. You must own the copyri
 
 Any images found to break our terms and conditions will be removed without no warning. Mytasvir provides no warranty or guarantee of the service and assume no liability that may be incurred as a result of your use of this service. To report any type of abuse, use our contact us page.
 
-If you have any question, please do not hesitate to [contact us](http://www.mytasvir.com/contact.php?act=contact_us). 
+If you have any question, please do not hesitate to [contact us](http://mytasvir.com/contact.php?act=contact_us). 
