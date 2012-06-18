@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222000048id_/http%3A//www.dwp.gov.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618144330id_/http%3A//www.dwp.gov.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DWP
 
@@ -92,6 +92,3 @@ top of page
 If this privacy policy changes, we will update this page. Check this page to make sure you are aware of what information we collect, how we use it and the circumstances we may share it with other organisations.
 
 top of page
-
-
-
