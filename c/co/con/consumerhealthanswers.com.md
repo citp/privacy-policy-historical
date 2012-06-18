@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the consumerhealthanswers.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228004551id_/http%3A//www.consumerhealthanswers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerhealthanswers.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618084808id_/http%3A//www.consumerhealthanswers.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | ConsumerHealthAnswers.com: Good Health Means Being Informed
+# Privacy Policy |
 
 Consumerhealthanswers.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
