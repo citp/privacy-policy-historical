@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231220510id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618063026id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
 
 # Fish and Wildlife Service
 
@@ -23,7 +23,7 @@ We use the information we collect to measure the number of visitors to the diffe
 **Information Collected from E-mails and Forms**  
 You may decide to send us personally identifying information through e-mail messages or through on-line forms. Electronic communication allows us to collect information that will improve our web site for you, and we encourage it. We use personally-identifying information from consumers in various ways to further our customer's protection and to provide better service. This may be to correct broken links that you have identified or provide additional information that you have requested. 
 
-Visit the Department's [**Talk to Us**](http://www.fws.gov/scripts/exit-to-fed.cfm?link=http://www.doi.gov/footer/question.htm) page to learn what can happen to the information you provide us when you send us e-mail or fill out a questionnaire or guestbook. Any information that we collect via a questionnaire or a guestbook may be subject to disclosure, but will be handled in accordance with the requirements of the Privacy Act and the Freedom of Information Act to ensure the greatest protection of personal privacy in the face of any required disclosure. 
+Visit the Department of the Interior's [**Privacy Policy**](http://www.doi.gov/privacy.cfm) page to learn what can happen to the information you provide us when you send us e-mail or fill out a questionnaire or guestbook. Any information that we collect via a questionnaire or a guestbook may be subject to disclosure, but will be handled in accordance with the requirements of the Privacy Act and the Freedom of Information Act to ensure the greatest protection of personal privacy in the face of any required disclosure. 
 
 **Security Checks**   
 For web site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor network traffic, identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload or change information on this web site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
@@ -75,6 +75,6 @@ Please use [alternative images if you need a graphic](http://www.fws.gov/help/al
 
 There are procedures for obtaining approval for the use of the official Service logo on a joint publication with the Service, including electronic publications such as Web sites. Contact [Mark Newcastle](mailto:Mark_Newcastle@fws.gov) in the External Affairs office at (703) 358-2196 for assistance. 
 
-The restrictions described above apply also to the use of the images of the [Federal Duck Stamps](http://www.fws.gov/duckstamps) and the [Federal Aid in Wildlife Restoration and Federal Aid in Sport Fish Restoration symbols](http://www.fws.gov/federalaid/info/falogos.html), and the "[blue goose](http://policy.fws.gov/library/99fr33904a.html)" image used to identify wildlife refuges. 
+The restrictions described above apply also to the use of the images of the [Federal Duck Stamps](http://www.fws.gov/duckstamps) and the [Federal Aid in Wildlife Restoration and Federal Aid in Sport Fish Restoration symbols](http://wsfrprograms.fws.gov/Subpages/ToolkitFiles/fasymb.pdf) [PDF], and the "[blue goose](http://www.fws.gov/midwest/ottawa/Images/bluegoose.gif)" image used to identify wildlife refuges. 
 
 Comments? Questions? Please check our answers to [Frequently Asked Questions](http://www.fws.gov/faq) (FAQ's) before you [contact us](http://www.fws.gov/duspit/contactus.htm) . 
