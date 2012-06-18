@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wellcomecollection.org privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220023759id_/http%3A//www.wellcomecollection.org/about-this-site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcomecollection.org privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618020749id_/http%3A//www.wellcomecollection.org/about-this-site/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Wellcome Collection
+
+ 
 
 The Wellcome Trust regards the lawful and correct treatment of personal information as very important and to this end is fully committed to the principles of data protection, as set out in the Data Protection Act.
 
@@ -28,7 +30,7 @@ When you log into this site your computer will automatically be issued with a co
 
 The Trust also uses cookies to gather non-personal statistical information about visitors to our sites, such as the number of visits to pages, the amount of time spent viewing a page, the path taken by visitors to a particular page and other general information. The Trust uses this information to improve our websites.
 
-You have the opportunity to set your computer to accept all cookies, to notify you when a cookie is issued, or choose not to receive cookies at any time. The last of these options may prevent you from accessing all functions of this site. [Find out more about cookies](http://www.allaboutcookies.org/).
+You have the opportunity to set your computer to accept all cookies, to notify you when a cookie is issued, or choose not to receive cookies at any time. The last of these options may prevent you from accessing all functions of this site. [Find out more about our use of cookies](https://web.archive.org/about-this-site/use-of-cookies.aspx).
 
 ## How do we protect personal information?
 
