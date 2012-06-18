@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carrentalexpress.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101230438id_/http%3A//www.carrentalexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrentalexpress.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618161720id_/http%3A//www.carrentalexpress.com/privacy-policy) for the most accurate reproduction.*
 
-# Car Rental Express Privacy Policy | Car Rental Express
+# Car Rental Express Privacy Policy
 
 _Updated March 9, 2009_
 
