@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bath.ac.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101225218id_/http%3A//www.bath.ac.uk/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bath.ac.uk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618121157id_/http%3A//www.bath.ac.uk/web/privacy) for the most accurate reproduction.*
 
 # Privacy | University of Bath
 
@@ -56,7 +56,7 @@ This data will be used by ourselves and our agents.
 
 Cookies are used to track visitors to our site.
 
-### E-mail and oniline forms
+### E-mail and online forms
 
 We collect the following information:
 
