@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coop.co.uk privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219202530id_/http%3A//www.co-operative.coop/terms/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coop.co.uk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618143953id_/http%3A//www.co-operative.coop/terms/privacystatement) for the most accurate reproduction.*
 
 # privacy statement
 
@@ -33,8 +33,6 @@ This privacy policy explains what information we collect about you, how we may u
 
 We collect details from you when you request a product, service, offers or news from us from our website, emails, telephone conversations, and written and verbal communication. We may supplement the information that you provide with other information that we obtain from our dealings with you or which we receive from other parts of The Co-operative Group or our Partners.
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service.](http://www.clicktale.com/privacy_service.aspx) We are using the information collected by ClickTale service to glean actionable insights into improving the application process. You can choose to disable the Service at <http://www.clicktale.net/disable.html>. 
-
 [Back to top](https://www.co-operative.coop/terms/privacystatement/#About "Back to top of page")
 
 ## What do we do with the information?
@@ -57,7 +55,7 @@ We will use the personal information gathered in our normal course of business p
 
 We may contact you by post, email, telephone or fax for these purposes.
 
- [Back to top](https://www.co-operative.coop/terms/privacystatement/#About "Back to top of page")
+[Back to top](https://www.co-operative.coop/terms/privacystatement/#About "Back to top of page")
 
 ## Disclosure of your information to service providers
 
@@ -77,9 +75,15 @@ Some of these countries may not have laws that protect privacy rights as extensi
 
 ## The use of cookies
 
-In common with many other website operators, we do employ cookies (download of files to your PC to record your visits to the site) to measure site information. Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored.
+Cookies are small text files which are stored on your computer, mobile phone or device.  Cookies may be placed on your device when you visit a website or open a marketing email.
 
-Please note, if you do turn cookies off this will limit the service that we are able to provide to you and may affect your visitor experience. For further information on cookies and how to switch them off see [www.allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies website").
+The Co-operative Group uses cookies for a variety of reasons, such as to remember your preferences when you visit our sites, tailor your visit, monitor traffic to enable us to improve our sites, or to ensure we remember the contents of your shopping basket when you next visit the site.
+
+We also set third parties cookies to allow you to easily link to third parties you may be subscribed to, such as Facebook, Twitter and Youtube.  We do not control these cookies and how your information may be used, so please visit the third parties’ websites for more information on these cookies.
+
+Our partners may also set cookies when they direct you to our site to buy a product.  These cookies allow us to pay our partners a referral fee based on the nature of any purchase you make. 
+
+To find out more information as to the cookies we use and why, then please click here for a link to our [Cookie's List and How to Reject Cookies Page](http://www.co-operative.coop/terms/privacystatement/cookies).
 
 [Back to top](https://www.co-operative.coop/terms/privacystatement/#About "Back to top of page")
 
@@ -94,6 +98,8 @@ Please note that you may change your mind at any time by contacting us by any of
 ## Changing your personal information
 
 If you believe that we are storing details relating to you and that these are incorrect or you wish to remove them, please contact us the relevant business.
+
+[Back to top](https://www.co-operative.coop/terms/privacystatement/#About "Back to top of page")
 
 ## Changes to this privacy policy
 
