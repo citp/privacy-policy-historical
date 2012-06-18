@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the kftv.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121231754id_/http%3A//www.kftv.com/infozone/resources/privpolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kftv.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619013625id_/http%3A//www.wilmington.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy | Wilmington Group plc
 
-  * What does this policy cover? 
-  * How does Wilmington Group safeguard my privacy? 
-  * What personally identifiable information does Wilmington Group collect from me? 
-  * How does Wilmington Group use cookies and monitoring? 
-  * How does Wilmington Group use my information? 
-  * With whom does Wilmington Group share my information? 
-  * How can I access my information? 
+  * What does this policy cover?
+  * How does Wilmington Group safeguard my privacy?
+  * What personally identifiable information does Wilmington Group collect from me?
+  * How does Wilmington Group use cookies and monitoring?
+  * How does Wilmington Group use my information?
+  * With whom does Wilmington Group share my information?
+  * How can I access my information?
 
 
 
-**_What does this policy cover?_**
+### What does this policy cover?
 
-This policy covers the processing of personal data by Wilmington Group plc and its _associated companies_ ("Wilmington Group") whose registered office is at 19 - 21 Christopher Street, London EC2A 2BS. Wilmington Group can be contacted at [_enquiries@wilmington.co.uk_](mailto:enquiries@wilmington.co.uk).
+This policy covers the processing of personal data by Wilmington Group plc and its associated companies ("Wilmington Group") whose registered office is at 19 - 21 Christopher Street, London EC2A 2BS. Wilmington Group can be contacted at [enquiries@wilmington.co.uk](mailto:enquiries@wilmington.co.uk).
 
 This policy will help you understand how Wilmington Group (or its successors in title) will treat your personal information. This policy may change from time to time so please check back regularly.
 
-**_How does Wilmington Group safeguard my privacy?._**
+### How does Wilmington Group safeguard my privacy?
 
 It is very important to us that you should be able to use and enjoy our websites and services without having to compromise your privacy in any way.
 
@@ -32,7 +32,7 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 
 No data transmission over the Internet can be guaranteed entirely secure. While we strive to protect your personal information, Wilmington Group can neither ensure nor warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
-**_What personally identifiable information does Wilmington Group collect from me?_**
+### What personally identifiable information does Wilmington Group collect from me?
 
 Wilmington Group collects information in several ways from different parts of our network of websites and in the course of our activities.
 
@@ -44,7 +44,7 @@ Your responses help us to sell data and appropriate advertising space and so min
 
 Whenever Wilmington Group collects personal information we try to include a link to this Privacy Policy on the page in question.
 
-**_How does Wilmington Group use cookies and monitoring?_**
+### How does Wilmington Group use cookies and monitoring?
 
 Wilmington Group uses cookies as a means of offering and providing customisable and personalised services. However, your browser has settings that will allow you to accept all cookies, be informed as cookies arrive or reject all cookies. The downside of rejecting all cookies is that we are then unable to match the site content we offer you to what we know about your preferences from your previous visits.
 
@@ -54,7 +54,7 @@ Wilmington Group collects IP addresses for system administration, for independen
 
 When you telephone a Wilmington Group company, or someone who is dealing with calls on our behalf, we may record the conversation to ensure the security of any transaction discussed, to help us to review our quality of service and to assist in the training and development of the employees who take such calls.
 
-**_How does Wilmington Group use my information?_**
+### How does Wilmington Group use my information?
 
 Wilmington Group's primary goal in collecting your personal information is to provide you with a customised experience of our website(s). By knowing a little about you, Wilmington Group is able to deliver more relevant advertisements and content to you, and by demonstrating the quality of our users we are able to secure data sales and advertising funding which keeps down the costs of the services we provide to our users.
 
@@ -68,7 +68,7 @@ Wilmington Group undertakes research on our users' demographics, interests and b
 
 Please be aware that Wilmington Group advertisers or websites that have links on our site may collect personally identifiable information about you. The information practices of those websites linked to Wilmington Group are not covered by this privacy statement.
 
-**_With whom does Wilmington Group share my information?_**
+### With whom does Wilmington Group share my information?
 
 Wilmington Group plc and its associated companies are prohibited by virtue of the Data Protection Act 1998 from disclosing any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or when it is necessary under the circumstances described below. The following describes some of the ways that your information may be disclosed.
 
@@ -90,6 +90,6 @@ On some types of Wilmington Group promotions, we will ask for your email address
 
 As indicated here, from time to time Wilmington Group may allow user information to be used by other reputable organisations as permitted under the Data Protection Act 1998. If you do not wish to allow your data to be shared, you can choose not to use a particular service, not to participate in certain promotions or contests, or you can select to opt-out of your information being shared on the registration page as appropriate.
 
-**_How can I access my information?_**
+### How can I access my information?
 
-If you have any requests concerning access to your personal information or any queries with regard to these practices, please contact our Data Protection Officer by e-mail: [_enquiries@wilmington.co.uk_](mailto:enquiries@wilmington.co.uk).
+If you have any requests concerning access to your personal information or any queries with regard to these practices, please contact our Data Protection Officer by e-mail: [enquiries@wilmington.co.uk](mailto:enquiries@wilmington.co.uk).
