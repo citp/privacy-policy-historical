@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidonresults.net privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206214142id_/http%3A//www.paidonresults.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidonresults.net privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618062706id_/http%3A//www.paidonresults.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Paid On Results - Affiliate Marketing Network
 
