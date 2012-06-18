@@ -1,252 +1,129 @@
-<!--The following is the downloaded HTML source of the vook.com privacy policy that was archived on 2011-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201234851id_/http%3A//vook.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D10) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vook.com privacy policy that was archived on 2012-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618205635id_/http%3A//vook.com/pp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
-<title>Privacy Policy - Vook</title>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+<meta charset="utf-8">
 
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width">
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Content-Language" content="en">
-<meta name="description" content="Vook “Vook” shares your concern about protection your personal information online This Privacy Policy regarding information collect sites third-party websites that through applications eBooks that create Please note that this Privacy Policy change from time time changed will post updated Privacy Policy this page your review Questions comments regarding this policy should directed attention General Counsel Vook address listed “contact">
-<meta name="keywords" content="vook, video, video book, ebook, online publisher, publisher">
+<!-- Use the .htaccess and remove these lines to avoid edge case issues.
+       More info: h5bp.com/i/378 -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
+<title>Privacy Policy | Vook</title>
+<meta name="description" content="">
 
-<base href="http://vook.com/">
-<link href="/skins/computer_shop/customer/images/icons/favicon.ico" rel="shortcut icon">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://vook.com/xmlrpc.php">
 
-<link href="/skins/computer_shop/customer/styles.css" rel="stylesheet" type="text/css">
-<link href="/skins/computer_shop/customer/print.css" rel="stylesheet" media="print" type="text/css">
-<link href="/skins/computer_shop/customer/dropdown.css" rel="stylesheet" type="text/css">
-<!--[if lte IE 7]>
-<link href="/skins/computer_shop/customer/styles_ie.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<link href="css/colorbox.css" rel="stylesheet" type="text/css" media="screen">
+<!-- Included CSS Files -->
 
-<link href="/skins/computer_shop/customer/addons/hot_deals_block/styles.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/lib/jquery/jquery.js"></script>
-<script type="text/javascript" src="/js/core.js"></script>
-<script type="text/javascript" src="/js/ajax.js"></script>
-<script type="text/javascript">
-//<![CDATA[
-var index_script = 'index.php';
+<link rel="stylesheet" href="http://vook.com/wp-content/themes/vook/css/foundation.css?1335988284">
+<link rel="stylesheet" href="http://vook.com/wp-content/themes/vook/css/app.css?1335988284">
+<link rel="stylesheet" href="http://vook.com/wp-content/themes/vook/style.css?1335988284">
 
-var lang = {
-	cannot_buy: 'You cannot buy the product with these option variants ',
-	no_products_selected: 'No products selected',
-	error_no_items_selected: 'No items selected! At least one checkbox must be ticked off to perform this action.',
-	delete_confirmation: 'Are you sure you want to delete the selected items?',
-	text_out_of_stock: 'Out of stock',
-	in_stock: 'In stock',
-	items: 'item(s)',
-	text_required_group_product: 'Please select a product for the required group [group_name]',
-	notice: 'Notice',
-	warning: 'Warning',
-	loading: 'Loading...',
-	none: 'None',
-	text_are_you_sure_to_proceed: 'Are you sure you want to proceed? ',
-	text_invalid_url: 'You have entered an invalid URL',
-	text_cart_changed: 'Items in the shopping cart have been changed. Please press \"OK\" to save changes or \"Cancel\" to leave items unchanged.',
-	error_validator_email: 'The e-mail address in the <b>[field]<\/b> field is invalid.',
-	error_validator_confirm_email: 'The e-mail addresses in the <b>[field]<\/b> and confirmation fields do not match.',
-	error_validator_phone: 'The phone number in the <b>[field]<\/b> field is invalid. The correct format is (555) 555-55-55 or 55 55 555 5555.',
-	error_validator_integer: 'The value of the <b>[field]<\/b> field is invalid. It should be integer.',
-	error_validator_multiple: 'The <b>[field]<\/b> field does not have selected options.',
-	error_validator_password: 'The passwords in the <b>[field2]<\/b> and <b>[field1]<\/b> fields do not match.',
-	error_validator_required: 'The <b>[field]<\/b> field is mandatory.',
-	error_validator_zipcode: 'The ZIP / Postal code in the <b>[field]<\/b> field is incorrect. The correct format is [extra].',
-	error_validator_message: 'The value of the <b>[field]<\/b> field is invalid.',
-	text_page_loading: 'Loading... Your request is being processed, please wait.',
-	view_cart: 'View cart',
-	checkout: 'Checkout',
-	product_added_to_cart: 'Product added to your cart',
-	products_added_to_cart: 'Products added to your cart',
-	product_added_to_wl: 'Product added to your Wish list',
-	product_added_to_cl: 'Product added to your Compare list',
-	close: 'Close'
-}
-
-var warning_mark = "&lt;&lt;";
-
-var currencies = {
-	'primary': {
-		'decimals_separator': '.',
-		'thousands_separator': ',',
-		'decimals': '2',
-		'coefficient': '1.00000'
-	},
-	'secondary': {
-		'decimals_separator': '.',
-		'thousands_separator': ',',
-		'decimals': '2',
-		'coefficient': '1.00000'
-	}
-};
-
-var cart_language = 'EN';
-var images_dir = '/skins/computer_shop/customer/images';
-var notice_displaying_time = 5;
-var cart_prices_w_taxes = false;
-var translate_mode = false;
-var iframe_urls = new Array();
-var iframe_extra = new Array();
-var regexp = new Array();
-$(document).ready(function(){
-	jQuery.runCart('C');
-});
-
-document.write('<style>.cm-noscript { display:none }</style>'); // hide noscript tags
-//]]>
-</script>
-
-<!--[if lt IE 8]>
-<script type="text/javascript">
-//<![CDATA[
-$(document).ready(function(){
-	$('ul.dropdown li').hover(function(){
-		$(this).addClass('hover');
-		$('> .dir',this).addClass('open');
-		$('ul:first',this).css('display', 'block');
-	},function(){
-		$(this).removeClass('hover');
-		$('.open',this).removeClass('open');
-		$('ul:first',this).css('display', 'none');
-	});
-});
-//]]>
-</script>
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="http://vook.com/wp-content/themes/vook/css/ie.css">
 <![endif]-->
 
-<script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
-<script type="text/javascript" src="/js/jquery.vook.js"></script>
-<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 
-<body>
-<div class="helper-container">
-	<a name="top"></a>
-	
-<div id="ajax_loading_box" class="ajax-loading-box"><div class="right-inner-loading-box"><div id="ajax_loading_message" class="ajax-inner-loading-box">Loading...</div></div></div>
-	
-
-<div class="cm-notification-container">
-
-</div>
-
-		
-<div id="container" class="container-right">
-		<div id="header">
-<div class="header-helper-container">
-	<div class="logo-image">
-		<a href="/"><img src="/skins/computer_shop/customer/images/vook_logo.png" width="90" height="61" border="0" alt="Vook INC"></a>
-	</div>
-	
-	<p class="quick-links">&nbsp;
-			<a href="index.html">Learn about VookMaker, ePublishing made simple</a>
-			<a href="/contact-us.html">Contact Us</a>
-			<a href="http://vook.com/blog">Blog</a>
-	</p>
-	
-	
-<div id="top_menu">
-<ul class="top-menu dropdown"><li class="first-level "><span><a href="/index.php?dispatch=categories.catalog">Catalog</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=profiles.update">My Account</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=checkout.cart">View cart</a></span></li><li class="first-level cm-active"><span><a href="/support.html">Support</a></span></li></ul>
-
-</div>
-<span class="helper-block">&nbsp;</span>
-</div>
-
-<div class="top-tools-container">
-	<span class="float-left">&nbsp;</span>
-	<span class="float-right">&nbsp;</span>
-	<div class="top-tools-helper">
-		<div class="float-right" id="sign_io"><!--dynamic:sign_io-->
-														 
-				<a id="sw_login" href="index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D10">Sign in</a>
-				or
-				<a href="index.php?dispatch=profiles.add">Register</a>
-						
-					<!--/dynamic--><!--sign_io--></div>
-		<div class="top-search">
-			<form action="index.php" name="search_form" method="get">
-<input type="hidden" name="subcats" value="Y">
-<input type="hidden" name="type" value="extended">
-<input type="hidden" name="status" value="A">
-<input type="hidden" name="pshort" value="Y">
-<input type="hidden" name="pfull" value="Y">
-<input type="hidden" name="pname" value="Y">
-<input type="hidden" name="pkeywords" value="Y">
-<input type="hidden" name="search_performed" value="Y">
+<script src="//ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://vook.com/wp-content/themes/vook/vendor/modernizr-2.5.3.min.js?1335988284"></script>
  
+<link rel="alternate" type="application/rss+xml" title="Vook » Feed" href="http://vook.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Vook » Comments Feed" href="http://vook.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Vook » Privacy Policy Comments Feed" href="http://vook.com/pp/feed/">
+<script type="text/javascript" src="http://vook.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://vook.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://vook.com/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Team &amp; Investors" href="http://vook.com/team-and-investors/">
+<link rel="next" title="Terms of Service" href="http://vook.com/tos/">
+<meta name="generator" content="WordPress 3.3.2">
 
-<span class="search-products-text">Search:</span>
+<!-- All in One SEO Pack 1.6.14.2 by Michael Torbert of Semper Fi Web Design[783,811] -->
+<link rel="canonical" href="http://vook.com/pp/">
+<!-- /all in one seo pack -->
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-8174406-12']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+	</head>
+ 
+<body class="page page-id-3782 page-template-default">
+    <div class="clearfix fluid  panel nice no_margin_bottom"></div>
+    <header class="head fluid panel stripe">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="two columns">
+                    <h1>
+                        <a class="logo" href="http://vook.com/" title="Vook" rel="home">Vook                        </a>
+                    </h1>
+                </div>                
+
+                <nav class="seven columns">
+                    <ul class="nav-bar">
+                        <li class="radius white button"><a href="/whats-vook">What’s Vook</a></li>
+<li class="radius white button"><a href="/plans-and-pricing">Plans &amp; Pricing</a></li>
+<li class="radius white button"><a href="/distribution">Distribution</a></li>
+                        <li class="radius white button has-flyout"> 
+                            <a href="#" class="main">Love+Support </a>
+                            <a href="#" class="flyout-toggle"><span></span></a>
+                            <ul class="flyout small love_support">
+                                    <li><a href="//guide.vook.com/prepare/" target="_blank" class="gs"> Getting started </a></li>
+                                    <li><a href="//guide.vook.com/" target="_blank" class="ug"> User guide </a></li>
+                                    <li><a href="//community.vook.com/vook?from_gsfn=true" target="_blank" class="gsp"> Get support </a></li>
+                                    <li><a href="//community.vook.com/vook/questions/popular" target="_blank" class="faq"> FAQ </a></li>
+                                    <li><a href="//community.vook.com/vook?from_gsfn=true" target="_blank" class="fb"> Feedback </a></li>
+                                </ul>
+                        </li>
+                    </ul>
+                </nav>
+                <nav class="three columns">
+                    <ul class="nav-bar signup">
+                        <li class="radius blue button"><a href="https://tool.vook.com/">Sign Up</a></li>
+<li class="radius blue button"><a href="https://tool.vook.com/">Log In</a></li>
+                    </ul>
+                </nav>
 
 
-<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/computer_shop/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search"><a href="index.php?dispatch=products.search" class="search-advanced">Advanced search</a>
+            </div>
 
-</form>
-		</div>
-	</div>
-</div>
+        </div>
+    </header>
+    <div class="fluid panel texture">
+	<section class="container texture">
+		<div class="row">
+			<div class="panel round">		
+				
 
-<div class="content-tools">
-	<span class="float-left">&nbsp;</span>
-	<span class="float-right">&nbsp;</span>
-	<div class="content-tools-helper clear">
-		<div class="float-left social_btn">&nbsp;&nbsp;&nbsp;
-			<a href="http://twitter.com/vooktv" target="_blank"><img src="images/t_btn.png"></a>&nbsp;
-			<a href="http://www.facebook.com/vooktv" target="_blank"><img src="images/f_btn.png"></a>
-		</div>
-		
-<div id="cart_status">
-<!--dynamic:cart_status-->
-<div class="float-left">
-			<img id="sw_cart_box" class="cm-combination cm-combo-on valign hand" src="/skins/computer_shop/customer/images/icons/empty_cart_icon.gif" alt="Cart is empty" title="Cart is empty"><strong>&nbsp;&nbsp;&nbsp;Cart is empty</strong>
-		
-	<div id="cart_box" class="cart-list hidden cm-popup-box cm-smart-position">
-		<img src="/skins/computer_shop/customer/images/icons/empty_cart_list_icon.gif" alt="Cart" class="cm-popup-switch hand cart-list-icon">
-		<div class="list-container">
-			<div class="list">
-							<p class="center">Cart is empty</p>
-						</div>
-			<div class="buttons-container">
-				<a href="index.php?dispatch=checkout.cart" class="view-cart">View cart</a>
-				<a href="index.php?dispatch=checkout.checkout">Checkout</a>
-			</div>
-		</div>
-	</div>
-</div><!--/dynamic-->
-
-<div class="checkout-link">
-
-<a href="index.php?dispatch=checkout.checkout">Checkout</a>
-
-</div>
-<!--cart_status--></div>		<div class="float-right">
 			
-			<!--dynamic:languages-->
-						<!--/dynamic-->
 
-					</div>
-	</div>
-</div></div>
-		
-	<div id="content">
-		<div class="content-helper clear">
-						
-						<div class="central-column">
-				<div class="central-content">
+		<article id="post-3782" class="post-3782 page type-page status-publish hentry">
+			<header>
 					
-	<div class="breadcrumbs">
-		<a href="/">Home</a><img src="/skins/computer_shop/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy Policy
-	</div>
-					<div class="mainbox-container">
-		<h1 class="mainbox-title"><span>Privacy Policy</span></h1>
-		<div class="mainbox-body">
-<div class="wysiwyg-content">
-		<p>Vook, Inc. (“Vook”) shares your concern about the protection of your personal information online. This is our Privacy Policy regarding the information we collect on our web sites, on third-party websites that we use, or through applications and eBooks that we create. Please note that this Privacy Policy may change from time to time. If changed, we will post an updated Privacy Policy on this page for your review.</p>
-<p>Questions or comments regarding this policy should be directed to the attention of the General Counsel, Vook, Inc. at the address listed on the “contact us” section of the Vook homepage. In addition, you may send us an email at customersupport@vook.com.</p>
+					<h1>Privacy Policy</h1>
+							</header>				
+
+				
+<!-- AddThis Button Begin -->
+<script type="text/javascript">var addthis_product = 'wpp-264';
+var addthis_config = {"data_track_clickback":true,"data_track_addressbar":false,"ui_language":"en","ui_cobrand":"Vook"};if (typeof(addthis_share) == "undefined"){ addthis_share = {"templates":{"twitter":"{{title}} {{url}} via @vooktv"},"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":{"login":"vookinc","apiKey":"R_f76d9aa125ced644a12c860d09ab614b"}}};}</script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f71bb9440ca854c"></script><p>Vook, Inc. (“Vook”) shares your concern about the protection of your personal information online. This is our Privacy Policy regarding the information we collect on our web sites, on third-party websites that we use, or through applications and eBooks that we create. Please note that this Privacy Policy may change from time to time. If changed, we will post an updated Privacy Policy on this page for your review.</p>
+<p>Questions or comments regarding this policy should be directed to the attention of the General Counsel, Vook, Inc. at the address listed on the “contact us” section of the Vook homepage. In addition, you may send us an email at <a href="mailto:customersupport@vook.com">customersupport@vook.com</a>.</p>
 <p>Information Gathered and Tracked by Vook</p>
 <p>We gather two types of data about our users: personal information and tracking information.</p>
 <p><strong>PERSONAL INFORMATION</strong></p>
-<p>&nbsp;Personal information is provided by users when registering to purchase a Vook product, for our free newsletters, from our social media presence or through registration pages on sites we control, and voluntarily at certain other points, such as entering contests or completing surveys. At present, we do not collect personally identifiable information from the users of our apps and ebooks distributed through third-party distributors, such as Apple and Amazon.com</p>
+<p>Personal information is provided by users when registering to purchase a Vook product, for our free newsletters, from our social media presence or through registration pages on sites we control, and voluntarily at certain other points, such as entering contests or completing surveys. At present, we do not collect personally identifiable information from the users of our apps and ebooks distributed through third-party distributors, such as Apple and Amazon.com</p>
 <p><strong>Interacting with Vook</strong></p>
 <p>By Interacting with Vook, as defined below, we collect certain information from you.</p>
 <p>Interacting with Vook includes, but is not limited to:</p>
@@ -259,248 +136,146 @@ $(document).ready(function(){
 <p>In order to purchase a product on Vook.com, you will have to supply us with your email address and choose a unique User Name and Password. You will be required to verify your email address by clicking on the activation link in the Welcome Letter that will be sent to you upon your submission of a completed registration form. Further, through the sale process, we may collect credit card or other payment account information which we maintain in encrypted form on secure servers.</p>
 <p>Vook complies with the CAN-SPAM Act of 2003. From time to time Vook may acquire lists of email addresses from nationally-recognized third party data providers. Any user receiving such correspondence from us has the option to immediately opt-out from receiving further communications from Vook, such opt-out will always be included in the footer of the email communication.</p>
 <p><strong>TRACKING INFORMATION</strong></p>
-<p>Tracking information is automatically collected about all visitors to our sites. This information consists of both individual and aggregated tracking information and is automatically gathered using "cookies." A cookie is a small data file containing information, such as a user's login name, that is written to the user's hard drive by a web server and used to track the pages visited.</p>
-<p>We use cookies in several ways to track user behavior. Cookies store visitors' preferences and past activity in order to provide better service when visitors return. They are also used to customize the web page content on visitors' browser type or other information that the visitor sends. The information we gather on an individual basis is used for internal purposes only, such as accessing a member's account information. We also use tracking information on an aggregate basis, to track the readership of stories and usage of our products, to analyze traffic patterns on our sites, and to provide anonymous reporting of usage for internal and external clients. In all cases, cookies used by Vook are encoded and contain a unique digital signature to prevent tampering. They do not contain user passwords. We also employ technology that is commonly referred to as "action tags" (also known as "web beacons," "scripts" or "one pixel .gif files") to measure the effectiveness of our advertisements.</p>
+<p>Tracking information is automatically collected about all visitors to our sites. This information consists of both individual and aggregated tracking information and is automatically gathered using “cookies.” A cookie is a small data file containing information, such as a user’s login name, that is written to the user’s hard drive by a web server and used to track the pages visited.</p>
+<p>We use cookies in several ways to track user behavior. Cookies store visitors’ preferences and past activity in order to provide better service when visitors return. They are also used to customize the web page content on visitors’ browser type or other information that the visitor sends. The information we gather on an individual basis is used for internal purposes only, such as accessing a member’s account information. We also use tracking information on an aggregate basis, to track the readership of stories and usage of our products, to analyze traffic patterns on our sites, and to provide anonymous reporting of usage for internal and external clients. In all cases, cookies used by Vook are encoded and contain a unique digital signature to prevent tampering. They do not contain user passwords. We also employ technology that is commonly referred to as “action tags” (also known as “web beacons,” “scripts” or “one pixel .gif files”) to measure the effectiveness of our advertisements.</p>
 <p>In addition to cookies placed by Vook or its agents, as described above, advertisers and third-party advertising vendors, including Google, that serve ads onto our web sites and in our apps and eBooks, and other third party partners may use their own cookies or other tracking technologies for advertising or other purposes. We cannot be responsible for the privacy policies or practices of any such advertisers and vendors. Additionally, third party advertising vendors, including Google, show our ads on sites on the Internet. These companies utilize certain technologies including cookies to deliver targeted advertisements and marketing messages and to collect information about your visit to our sites and other web sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit http://www.networkadvertising.org/optout_nonppii.asp.</p>
-<p>You can control your browser's settings regarding cookies by selecting "Internet Options" or "Preferences" in the menu bar of your browser. This will allow you to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable cookies altogether. However, because cookies allow you to easily navigate our web sites without having to constantly log in using your User Name and Password, we recommend that you leave them turned on.</p>
-<p>&nbsp;<strong>USE OF THE INFORMATION</strong></p>
-<p>&nbsp;Vook uses the personal information and tracking information obtained from its users as stated in this Privacy Policy, and for the following purposes:</p>
+<p>You can control your browser’s settings regarding cookies by selecting “Internet Options” or “Preferences” in the menu bar of your browser. This will allow you to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable cookies altogether. However, because cookies allow you to easily navigate our web sites without having to constantly log in using your User Name and Password, we recommend that you leave them turned on.</p>
+<p><strong>USE OF THE INFORMATION</strong></p>
+<p>Vook uses the personal information and tracking information obtained from its users as stated in this Privacy Policy, and for the following purposes:</p>
 <ul>
-<li>To enhance users' experiences on our sites and in our      apps and ebooks</li>
+<li>To enhance users’ experiences on our sites and in our apps and ebooks</li>
 <li>To improve our content;</li>
-<li>To notify visitors about updates to our web sites, apps      and ebooks, and new product lines;</li>
-<li>To ensure the technical functioning of our web sites      and services;</li>
-<li>To provide you via email, telephone, or SMS text      message with information and offers for our products and services. </li>
-<li>To contact you via email, telephone, or SMS text      message with special offers and advertisements for products or services      offered by third parties.&nbsp;</li>
-<li>In any case, you can opt out of receiving emails from      us by clicking on the unsubscribe notification in any email you receive      from us.</li>
+<li>To notify visitors about updates to our web sites, apps and ebooks, and new product lines;</li>
+<li>To ensure the technical functioning of our web sites and services;</li>
+<li>To provide you via email, telephone, or SMS text message with information and offers for our products and services.</li>
+<li>To contact you via email, telephone, or SMS text message with special offers and advertisements for products or services offered by third parties.</li>
+<li>In any case, you can opt out of receiving emails from us by clicking on the unsubscribe notification in any email you receive from us.</li>
 </ul>
 <p>Information Sharing</p>
 <p>Vook does not sell or disclose personal information about you described above to with other people or nonaffiliated companies, except to provide you with products or services, when we have your permission, or under the following circumstances:</p>
 <ul>
-<li>In response to subpoenas, court orders, or legal      process, or otherwise to cooperate with law enforcement agencies or state      and federal regulators;</li>
-<li>We provide the information to our subsidiaries and      affiliated companies;</li>
-<li>We provide the information on a confidential basis to      nonaffiliated companies we engage as contractors or agents to perform services      for us, such as maintaining software or administering a sweepstakes or      contest. Information will be shared with such contractors only to the      extent reasonably necessary for them to perform services on our behalf,      and pursuant to confidentiality obligations;</li>
-<li>If we sell or otherwise transfer substantially all of      our assets related to any web site that we own or operate and any product      or service that we offer. In that event, we will require such third party      to honor our then-current Privacy Policy, until the third party provides      you with notice of changes to our Privacy Policy and permits you to      exercise any rights you may have under applicable law to limit disclosures      of information about you;</li>
-<li>We may disclose all the information we collect as      described above to other companies such as direct marketers to perform      marketing services on our behalf, or to third parties with whom we have      joint marketing agreements; and</li>
-<li>We may share with third parties certain pieces of <span style="text-decoration: underline;">aggregated,      non-personal information</span>, such as the number of users who clicked on a      particular link or how many users clicked on a particular advertisement.      Such information does not identify you individually.</li>
+<li>In response to subpoenas, court orders, or legal process, or otherwise to cooperate with law enforcement agencies or state and federal regulators;</li>
+<li>We provide the information to our subsidiaries and affiliated companies;</li>
+<li>We provide the information on a confidential basis to nonaffiliated companies we engage as contractors or agents to perform services for us, such as maintaining software or administering a sweepstakes or contest. Information will be shared with such contractors only to the extent reasonably necessary for them to perform services on our behalf, and pursuant to confidentiality obligations;</li>
+<li>If we sell or otherwise transfer substantially all of our assets related to any web site that we own or operate and any product or service that we offer. In that event, we will require such third party to honor our then-current Privacy Policy, until the third party provides you with notice of changes to our Privacy Policy and permits you to exercise any rights you may have under applicable law to limit disclosures of information about you;</li>
+<li>We may disclose all the information we collect as described above to other companies such as direct marketers to perform marketing services on our behalf, or to third parties with whom we have joint marketing agreements; and</li>
+<li>We may share with third parties certain pieces of <span style="text-decoration: underline;">aggregated, non-personal information</span>, such as the number of users who clicked on a particular link or how many users clicked on a particular advertisement. Such information does not identify you individually.</li>
 </ul>
-<p>&nbsp;<strong>SECURITY</strong></p>
+<p><strong>SECURITY</strong></p>
 <p>Vook limits access to personal information about you to those employees whom we determine need access to that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your personal information. However, no security system is impenetrable. We cannot guarantee the security of our servers, nor can we guarantee that information that users supply will not be intercepted while being transmitted to us over the Internet.</p>
-<p>&nbsp;<strong>YOUR INDEPENDENT RELATIONSHIPS WITH OTHER COMPANIES</strong></p>
-<p>Please note that this Privacy Policy will not apply to your independent relationships with other companies that from time to time may offer you products and services on Vook's sites. Those companies' privacy policies will govern how they collect, use and disclose personal information that you provide to them. Vook is not responsible for the privacy practices or content of those websites. We encourage you to review the privacy policy of any company before submitting your personal information.</p>
+<p><strong>YOUR INDEPENDENT RELATIONSHIPS WITH OTHER COMPANIES</strong></p>
+<p>Please note that this Privacy Policy will not apply to your independent relationships with other companies that from time to time may offer you products and services on Vook’s sites. Those companies’ privacy policies will govern how they collect, use and disclose personal information that you provide to them. Vook is not responsible for the privacy practices or content of those websites. We encourage you to review the privacy policy of any company before submitting your personal information.</p>
 <p>Questions or comments regarding this policy should be directed to the attention of the General Counsel, Vook, Inc. at the address set forth in the contact section of this website.</p>
 <p>Vook reserves the right to modify this policy.</p>
-		
-		
-	</div>
-	
+						
+		</article>
 
-
-
-</div>
-</div>
-
-
-
-		<div class="ad-container center">
-		<a href="/index.php?dispatch=statistics.banners&amp;banner_id=6">		<img class=" " src="/images/banner/banner_zmot.png" width="700" height="268" alt="" border="0">		</a>	</div>
-					</div>
-			</div>
-		
-						<div class="left-column">
-				<div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>My account</span></h3>
-	<div class="sidebox-body"><!--dynamic:my_account-->
-
-<ul class="arrows-list">
-					 
-		<li><a href="index.php?dispatch=auth.login_form&amp;return_url=%2Fprivacy-policy.html" class="underlined">Sign in</a> / <a href="index.php?dispatch=profiles.add" class="underlined">Register</a></li>
-		<li><a href="index.php?dispatch=orders.search" class="underlined">Orders</a></li>
-
-</ul>
-
-<div class="updates-wrapper">
-
-<form action="index.php" method="get" name="track_order_quick">
-
-<p>Track my order(s):</p>
-
-<div class="form-field">
-<label for="track_order_item" class="cm-required hidden">Track my order(s):</label>
-<input type="hidden" name="redirect_url" value="/privacy-policy.html"><input type="text" size="20" class="input-text cm-hint" id="track_order_item" name="track_data" value="Order ID/E-mail"><input type="image" src="/skins/computer_shop/customer/images/icons/go.gif" alt="Go" title="Go" class="go-button"><input type="hidden" name="dispatch" value="orders.track_request"></div>
-
-</form>
-
-</div>
-<!--/dynamic--></div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div>
-<div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>Categories</span></h3>
-	<div class="sidebox-body"><ul>
-	<li><a href="index.php?dispatch=product_features.view">Show All</a></li>
-		<li><a href="/arts-and-photography.html">Arts &amp; Photography</a></li>
-		<li><a href="/business-and-investing.html">Business &amp; Investing</a></li>
-		<li><a href="/childrens-books.html">Children's Books</a></li>
-		<li><a href="/cooking-food-and-wine.html">Cooking, Food &amp; Wine</a></li>
-		<li><a href="/entertainment.html">Entertainment</a></li>
-		<li><a href="/health-mind-and-body.html">Health, Mind &amp; Body</a></li>
-		<li><a href="/literature-and-fiction.html">Literature &amp; Fiction</a></li>
-		<li><a href="/mystery-and-thrillers.html">Mystery &amp; Thrillers</a></li>
-		<li><a href="/nonfiction.html">Nonfiction</a></li>
-		<li><a href="/parenting-and-families.html">Parenting &amp; Families</a></li>
-		<li><a href="/professional-and-technical.html">Professional &amp; Technical</a></li>
-		<li><a href="/reference.html">Reference</a></li>
-		<li><a href="/religion-and-spirituality.html">Religion &amp; Spirituality</a></li>
-		<li><a href="/romance.html">Romance</a></li>
-		<li><a href="/self-help.html">Self-Help</a></li>
-		<li><a href="/sports.html">Sports</a></li>
-		<li><a href="/fitness.html">Fitness</a></li>
-		<li><a href="/real-estate.html">Real estate</a></li>
-	</ul>
-</div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div>
-<div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>Media coverage</span></h3>
-	<div class="sidebox-body"><ul>
-	<li><strong>05/19/2011</strong></li>
-	<li><a href="/150-000-textvook-ebooks-downloaded-on-the-amazon-kindle-in-one-day.html#17" class="underlined">150,000+ TextVook eBooks downloaded on the Amazon Kindle in One Day</a></li>
-		<li class="delim"></li>
-		<li><strong>04/27/2011</strong></li>
-	<li><a href="/textvook-animated-apps-and-ebooks-help-readers-get-smart-quickly.html#16" class="underlined">TextVook Animated Apps and eBooks Help Readers “Get Smart, Quickly”</a></li>
-		<li class="delim"></li>
-		<li><strong>03/16/2011</strong></li>
-	<li><a href="/apocalypse-2012-app-released-by-best-selling-investigative-journalist.html#14" class="underlined">Apocalypse 2012 App Released by Best-Selling Investigative Journalist</a></li>
-		<li class="delim"></li>
-		<li><strong>02/15/2011</strong></li>
-	<li><a href="/leading-publisher-hay-house-taps-mothervook-to-produce-hundreds-of-enhanced-e-books.html#13" class="underlined">Leading Publisher Hay House Taps MotherVook to Produce Hundreds of Enhanced E-Books</a></li>
-		<li class="delim"></li>
-		<li><strong>02/11/2011</strong></li>
-	<li><a href="/digital-publisher-vook-thanks-its-customers.html#12" class="underlined">Digital Publisher Vook THANKS its Customers</a></li>
-		<li class="delim"></li>
-		<li><strong>01/18/2011</strong></li>
-	<li><a href="/digital-publisher-vook-closes-5.25-million-financing.html#11" class="underlined">Digital Publisher Vook Closes $5.25 Million Financing</a></li>
-	</ul>
-
-<p class="right">
-	<a href="index.php?dispatch=news.list" class="extra-link">view all</a>
-</p>
-</div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div>
-<div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>Bestsellers</span></h3>
-	<div class="sidebox-body"><ul class="bullets-list">
-
-	<li>
-		<a href="/deepak-chopras-buddha-guide.html" title="Deepak Chopra's Buddha Guide">Deepak Chopra's Buddha Guide</a>
-	</li>
-	<li>
-		<a href="/pilates-day-by-day-15-minute-workout.html" title="Pilates: Day by Day - 15 Minute Workout">Pilates: Day by Day - 15 Minute Workout</a>
-	</li>
-	<li>
-		<a href="/promises.html" title="Promises">Promises</a>
-	</li>
-
-</ul>
-</div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div>
-
+		<nav class="breadcrumbs next_previous">
+					</nav>
 
 
 
 			</div>
-						
-								</div>
-	</div>
-	
-	<div id="footer">
-		<div class="footer-helper-container">
-						
-<div class="bottom-search center">
-	<span class="float-left">&nbsp;</span>
-	<span class="float-right">&nbsp;</span>
-	<form action="index.php" name="search_form" method="get">
-<input type="hidden" name="subcats" value="Y">
-<input type="hidden" name="type" value="extended">
-<input type="hidden" name="status" value="A">
-<input type="hidden" name="pshort" value="Y">
-<input type="hidden" name="pfull" value="Y">
-<input type="hidden" name="pname" value="Y">
-<input type="hidden" name="pkeywords" value="Y">
-<input type="hidden" name="search_performed" value="Y">
- 
-
-<span class="search-products-text">Search:</span>
-
-
-<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/computer_shop/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search">
-
-</form>
-</div>
-<p class="quick-links">
-			<a href="index.html">Learn about VookMaker, ePublishing made simple</a>
-			<a href="/contact-us.html">Contact Us</a>
-			<a href="http://vook.com/blog">Blog</a>
-		<a href="index.php?dispatch=pages.view&amp;page_id=9">Terms of Use</a>
-	<a href="index.php?dispatch=pages.view&amp;page_id=8">Terms of Sale</a>
-	<a href="index.php?dispatch=pages.view&amp;page_id=10">Privacy Policy</a>
-</p>
-<p class="bottom-copyright class">Copyright © 2009-2011 Vook INC. &nbsp;
-</p>
-
-
-
 		</div>
-	</div>
+	</section>
 </div>
+
+
+	<footer class="fluid footer panel black">
+
+		<div class="container">
+			<div class="row">
+				<nav class="three columns">
+					<ul>
+					<li id="linkcat-5" class="linkcat"><h4>About</h4>
+	<ul class="xoxo blogroll">
+<li><a href="/news">News</a></li>
+<li><a href="/blog">Blog</a></li>
+<li><a href="/team-and-investors">Team &amp; Investors</a></li>
+<li><a href="https://vook.jobscore.com/jobs/vook/" target="_blank">Careers</a></li>
+<li><a href="/contact" title="<a href='/contact'>Get in touch with us</a>">Contact Us</a></li>
+
+	</ul>
+</li>
+					<li id="linkcat-6" class="linkcat"><h4>Legal</h4>
+	<ul class="xoxo blogroll">
+<li><a href="/tos/">Terms of Service</a></li>
+<li><a href="/pp/">Privacy Policy</a></li>
+
+	</ul>
+</li>
+					</ul>
+
+				</nav>
+				<div class="three columns need_help _blank">
+					<h3><a href="//community.vook.com/vook" title="<a href='//community.vook.com/vook'>Join our community forum, collaborate with others, and get your questions answered</a>" target="_blank">Need Help?</a></h3>
+<p><a href="//community.vook.com/vook" title="<a href='//community.vook.com/vook'>Join our community forum, collaborate with others, and get your questions answered</a>" target="_blank"><span style="display:none">Need Help?</span></a>
+<a href="//community.vook.com/vook">Join our community forum, collaborate with others, and get your questions answered</a></p>
+					
+				</div>
+				<div class="offset-by-one five columns">
+					<div class="row">
+						<h3 class="twelve columns"> Stay in touch </h3>
+					</div> 
+					<div class="row sit">
+						<div class="five columns">
+							
+							<ul>
+								<li>
+									<a href="//www.twitter.com/vooktv" target="_blank" class="connect_twitter"> Twitter </a>
+								</li>
+								<li>
+									<a href="//www.facebook.com/vooktv" target="_blank" class="connect_facebook"> Facebook</a>
+								</li>
+							</ul>
+						</div>
+						<div class="seven columns">
+							<form id="newsletter-subscribe" action="http://vook.com/wp-content/themes/vook/vook-newsletter.php" method="POST">
+								<label for="newsletter"> Sign up for our newsletter </label>
+								<input id="newsletter" name="newsletter_email" type="text" placeholder="enter your email address">
+								<input type="submit" class="large nice magenta button curve" value="Subscribe">
+								<div class="message"></div>
+							</form>
+						</div>
+					</div>
+	
+					<div class="vook_store _blank">
+						<h3><a href="https://store.vook.com" title="<a href='https://store.vook.com'>Search for eBooks published by Vook</a>" target="_blank">Vook Store</a></h3>
+<p><a href="https://store.vook.com" title="<a href='https://store.vook.com'>Search for eBooks published by Vook</a>" target="_blank"><span style="display:none">Vook Store</span></a>
+<a href="https://store.vook.com">Search for eBooks published by Vook</a></p>
+					</div>
+				</div>
 			</div>
 
+			<div class="row">
+				<div class="copyright">
+					©2012 Vook, Inc. All rights reserved, Vook® is a registered trademark of Vook, Inc.
+				</div>
+			</div>
+		</div>
 
-<script type="text/javascript">
-//<![CDATA[
-$(document).ready(function(){
-	jQuery.ajaxRequest('index.php?dispatch=statistics.collect', {
-		method: 'post',
-		data: {
-			've[url]': location.href,
-			've[title]': document.title,
-			've[browser_version]': jQuery.ua.version,
-			've[browser]': jQuery.ua.browser,
-			've[os]': jQuery.ua.os,
-			've[client_language]': jQuery.ua.language,
-			've[referrer]': document.referrer,
-			've[screen_x]': (screen.width || null),
-			've[screen_y]': (screen.height || null),
-			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1322783330.8493
-		},
-		hidden: true
-	});
-});
-//]]>
-</script>
-
-<noscript>
-<object data="index.php?dispatch=statistics.collect&amp;ve[url]=http%3A%2F%2Fvook.com%2Findex.php%3Fdispatch%3Dpages.view%26page_id%3D10&amp;ve[title]=Vook - Privacy%20Policy&amp;ve[referrer]=&amp;ve[time_begin]=1322783330.8493" width="0" height="0"></object>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-	var _gaq = _gaq || [];
-	_gaq.push(["_setAccount", "UA-8174406-1"]);
-	_gaq.push(["_trackPageview"]);
-	
-	(function() {
-		var ga = document.createElement("script");
-		ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
-		ga.setAttribute("async", "true");
-		document.documentElement.firstChild.appendChild(ga);
-	})();
-//]]>
-</script>
+	</footer>
 
 
+<!-- AddThis Button Begin -->
+<script type="text/javascript">var addthis_product = 'wpp-264';
+var addthis_config = {"data_track_clickback":true,"data_track_addressbar":false,"ui_language":"en","ui_cobrand":"Vook"};if (typeof(addthis_share) == "undefined"){ addthis_share = {"templates":{"twitter":"{{title}} {{url}} via @vooktv"},"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":{"login":"vookinc","apiKey":"R_f76d9aa125ced644a12c860d09ab614b"}}};}</script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f71bb9440ca854c"></script>
+	<!-- Included JS Files -->
+	<script src="http://vook.com/wp-content/themes/vook/vendor/jquery-1.7.2.min.js?1335988284"></script>	
+	<script src="http://vook.com/wp-content/themes/vook/vendor/underscore-min.js?1335988284"></script>	
+	<script src="http://vook.com/wp-content/themes/vook/vendor/foundation.js?1335988284"></script>	
+	<script src="http://vook.com/wp-content/themes/vook/vendor/foundation.app.js?1335988284"></script>
+	<script src="http://vook.com/wp-content/themes/vook/js/foundation.js?1335988284"></script>
+	<script src="http://vook.com/wp-content/themes/vook/js/app.js?1335988284"></script>
+
+	<script>
+		var _gaq = [['_setAccount','UA-8174406-12'],['_setDomainName','vook.com'],['_trackPageview']];
+		(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+		g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+		s.parentNode.insertBefore(g,s)}(document,'script'));
+	</script>
+	<script>
+		var addthis_config = { data_ga_property: 'UA-8174406-12' }; 
+	</script>
 
 </body></html>
