@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101222601id_/http%3A//www.burtsbees.com/u/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618154305id_/http%3A//www.burtsbees.com/u/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security - Burt's Bees
 
@@ -50,7 +50,7 @@ By using this Site, you agree to the terms of this Privacy Policy. Whenever you 
 
 ## Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [Learn more about SSL. >](https://seal.verisign.com/splash?lang=en&dn=WWW.BURTSBEES.COM&form_file=fdf/splash.fdf)
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [Learn more about SSL](http://www.verisign.com/ssl/index.html).
 
 We implement various security measures in accordance with industry standards to protect the security of your personal information both online and offline. This Site takes reasonable steps to protect personally identifiable information as you transmit it to our Site and to protect such information from loss, misuse and unauthorized access, disclosure, alteration, or destruction. You should always keep in mind that no Internet transmission is ever completely secure or error-free. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
