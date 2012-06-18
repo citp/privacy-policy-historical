@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weblogplaza.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204025912id_/http%3A//weblogplaza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblogplaza.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618170017id_/http%3A//weblogplaza.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy | WeblogPlaza.com – Free Weblog(s)
+# Privacy | Free Weblog – WeblogPlaza.com
 
 When accessing our Website, WeblogPlaza will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
