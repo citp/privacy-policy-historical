@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the badgeville.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222014956id_/http%3A//www.badgeville.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgeville.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618030247id_/http%3A//www.badgeville.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Badgeville
+# Privacy Policy | badgeville.com
 
 #### Badgeville Privacy Policy
 
-Badgeville, Inc. ("Badgeville", "we" or "us") knows that you care about how your information is collected, used and shared. This Privacy Policy explains what information we collect when you use the www.badgeville.com website (the "Site"), how that information may be used, and how you can control the collection, and/or deletion of that information.
+Badgeville, Inc. ("Badgeville", "we" or "us") knows that you care about how your information is collected, used and shared. This Privacy Policy explains what information we collect when you use the [www.badgeville.com](http://www.badgeville.com/ "www.badgeville.com") website (the "Site"), how that information may be used, and how you can control the collection, and/or deletion of that information.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
@@ -22,7 +22,7 @@ Our Use of Cookies: When you access the Site, we may send one or more cookies - 
 
 We use the information we collect to provide you the Site. We use cookies, clear gifs, and log file information to record your activity on the Site and monitor aggregate and anonymous data to help us analyze and monitor the effectiveness of the Site and to address any technical problems.
 
-By providing Badgeville your email address, you consent to our using that email address to send you related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, or special offers. You may opt out of receiving newsletters and special offers by contacting Badgeville at marketing@badgeville.com or by clicking on the opt-out button included in the footer of any such newsletter or special offer and following the provided instructions.
+By providing Badgeville your email address, you consent to our using that email address to send you related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, or special offers. You may opt out of receiving newsletters and special offers by contacting Badgeville at [marketing@badgeville.com](mailto:marketing@badgeville.com) or by clicking on the opt-out button included in the footer of any such newsletter or special offer and following the provided instructions.
 
 **HOW WE SHARE YOUR INFORMATION**
 
@@ -36,11 +36,11 @@ Non-Personally Identifiable Information: We may share non-personally identifiabl
 
 Badgeville uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. However, no method of transmission over the Internet or method of electronic storage is completely secure or error-free. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absoute security.
 
-In the event that personal information is compromised as a result of a breach of security, Badgeville will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law. If you suspect that your Badgeville user account has been compromised, you should notify us immediately at marketing@badgeville.com.
+In the event that personal information is compromised as a result of a breach of security, Badgeville will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law. If you suspect that your Badgeville user account has been compromised, you should notify us immediately at [marketing@badgeville.com](mailto:marketing@badgeville.com).
 
 **CHILDREN'S PRIVACY**
 
-The Site is not intended for use by anyone under the age of 13. If you are under 13, you should not register for or utilize the Site or provide us with any personally identifiable information, including but not limited your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information from our system. If you believe that we might have any information from or about a child under 13, please contact us at marketing@badgeville.com.
+The Site is not intended for use by anyone under the age of 13. If you are under 13, you should not register for or utilize the Site or provide us with any personally identifiable information, including but not limited your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information from our system. If you believe that we might have any information from or about a child under 13, please contact us at [marketing@badgeville.com](mailto:marketing@badgeville.com).
 
 **LINKS TO OTHER WEB SITES**
 
@@ -48,13 +48,14 @@ We are not responsible for the practices employed by websites linked to or from 
 
 **CHANGES TO OUR PRIVACY POLICY**
 
-If we change our privacy policy we will post those changes at this URL: www.badgeville.com to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted at that URL.
+If we change our privacy policy we will post those changes at this URL: [www.badgeville.com](http://www.badgeville.com/ "www.badgeville.com") to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted at that URL.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at marketing@badgeville.com, or send mail to:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [marketing@badgeville.com](mailto:marketing@badgeville.com), or send mail to:
 
-Badgeville, Inc.  
-1134 Crane Street, Suite 200  
-Menlo Park, CA 94025  
+Badgeville, Inc.
 
+1134 Crane Street, Suite 200
+
+Menlo Park, CA 94025
 
 This Privacy Policy does not apply to any third party site or service that is not owned or operated by Badgeville but through which you may access or engage with the Badgeville services.
