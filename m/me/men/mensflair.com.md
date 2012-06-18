@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the mensflair.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219191335id_/http%3A//www.mensflair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensflair.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618173946id_/http%3A//www.mensflair.com/privacy) for the most accurate reproduction.*
 
-# Privacy » Men's Flair
-
-[](http://www.mensflair.com/ "Men's Flair - men's style as seen by those living it")
-
-## [Privacy](http://www.mensflair.com/privacy "Privacy")
+# Privacy - Men's Flair
 
 **Privacy Policy**
 
