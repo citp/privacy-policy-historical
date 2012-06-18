@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228235744id_/http%3A//www.ganeshaspeaks.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618112418id_/http%3A//www.ganeshaspeaks.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Free Astrology, Free Horoscope by GaneshaSpeaks.com
 
