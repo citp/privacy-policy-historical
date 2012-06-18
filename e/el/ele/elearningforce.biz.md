@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elearningforce.biz privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204093348id_/http%3A//www.elearningforce.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elearningforce.biz privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618155825id_/http%3A//www.elearningforce.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # ELEARNINGFORCE - Privacy Policy
 
@@ -13,4 +13,4 @@ When you provide ELEARNINGFORCE with personal information – for example, when 
 
 ELEARNINGFORCE  makes every effort to ensure the security and integrity of emails on our systems. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information after we’ve received it, ELEARNINGFORCE cannot ensure or guarantee the security of information when it is being transmitted. 
 
-Note: This privacy policy only covers the website at [www.elearningforce.com](http://www2010/); other links within this site to other websites are not covered by this policy. Once you have accessed another website via one of our links you will be subject to the security and privacy policy of that site.
+Note: This privacy policy only covers the website at [www.elearningforce.com](http://www/); other links within this site to other websites are not covered by this policy. Once you have accessed another website via one of our links you will be subject to the security and privacy policy of that site.
