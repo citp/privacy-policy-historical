@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the flsenate.gov privacy policy that was archived on 2011-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206234543id_/http%3A//flsenate.gov/About/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flsenate.gov privacy policy that was archived on 2012-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618154720id_/http%3A//www.flsenate.gov/About/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<title>Privacy Statement Flsenate.gov - The Florida Senate</title>
+  <title>Privacy Statement Flsenate.gov - The Florida Senate</title>
 
 <link href="/common/css/reset.css" type="text/css" rel="stylesheet" media="screen">
 <link href="/common/css/960.css" type="text/css" rel="stylesheet" media="screen">
 <link href="/common/css/styles.css" type="text/css" rel="stylesheet" media="all">
 <link href="/common/css/pending.css" type="text/css" rel="stylesheet" media="screen">
 <link href="/common/css/print.css" type="text/css" rel="stylesheet" media="print">
+<link href="/common/css/colorbox.css" type="text/css" rel="stylesheet" media="screen">
 <!-- targets IE 8 & lower -->
 <!--[if lt IE 9]>
 	<link href="/common/css/ie.css" type="text/css" rel="stylesheet" media="screen">
@@ -24,13 +25,18 @@
 }
 </style>
 <![endif]-->
-<script type="text/JavaScript" src="/common/js/jquery-1.4.2.min.js"></script>
-<script type="text/JavaScript" src="/common/js/superfish.js"></script>
 
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Common/js/jquery-1.6.4.min.js"></script>
+<script type="text/JavaScript" src="/common/js/superfish.js"></script>
 <script type="text/JavaScript" src="/common/js/IntegratedSearch.js"></script>
 <script type="text/JavaScript" src="/common/js/Tracker.js"></script>
 <script type="text/JavaScript" src="/common/js/Tabs.js"></script>
 <script type="text/JavaScript" src="/common/js/Translate.js"></script>
+<script type="text/javascript" src="/common/js/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="/common/js/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="/common/js/jquery.highlight-searchterms.js"></script>
+<script type="text/javascript" src="/common/js/PhotoViewer.js"></script>
+
 <script type="text/JavaScript">
 
   $(function(){ 
@@ -41,98 +47,116 @@
 			autoArrows:  false,                           // disable generation of arrow mark-up
 			dropShadows: false                            // disable drop shadows
 		});
-
+		
+		/*	if (document.cookie.indexOf('visited=true') == -1)
+			{
+				var sixtyDays = 1000*60*60*24*60;
+				var expires = new Date((new Date()).valueOf() +  sixtyDays);
+				document.cookie = "visited=true;expires=" +  expires.toUTCString();
+				$.colorbox({width:'20%',height:'25%',inline:true, href:"#subscribe",opacity:0,scrolling:false,fixed:true,right:175,top:50});
+				setTimeout('$.fn.colorbox.close()',10000);
+			}
+	  */
+	$("#search").show();
   });
+</script>
+
+	
+	
+	
+
+		
+		<script type="text/javascript">
+			$(function(){
+				$('#Content').removeHighlight();
+				$('.HighlightBlock').removeHighlight();
+			});
+		</script>
+
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31712878-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 
 
 </head>
-<body>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 57px; padding-right: 28px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
 <!-- Htop: begin -->
 <p id="skip"><a href="#ddmenu">Skip to Navigation</a> | <a href="#main">Skip to Main Content</a> | <a href="#footer">Skip to Site Map</a></p>
 <div id="htop" class="clearfix">
   <div class="container_16">
     <div class="grid_7">
-      <p>
-        <a href="http://myfloridahouse.gov/">MyFloridaHouse.gov</a> | <a href="http://archive.flsenate.gov">Flsenate.gov Archives</a> 
+      <p> <a href="http://www.myfloridahouse.gov/">MyFloridaHouse.gov</a> | <a href="http://archive.flsenate.gov">Flsenate.gov Archives</a>
+      
         
+        
+      </p>
+    </div>
+    <div class="grid_9"> 
        
-        </p>
-        
-    </div>
-    <div class="grid_9">
-          
       
-        <p class="righttext">Senate Tracker:
-          <a href="/login/create.cfm">Sign Up</a> | <a href="/login/">Login</a></p>
-      
-    </div>
+          <p class="righttext">Senate Tracker: <a href="/login/create.cfm">Sign Up</a> | <a href="/login/">Login</a></p>
+         </div>
   </div>
 </div>
 <!-- Htop: end -->
-<div id="outside-container" class="container_16">
+
+<div id="outside-container" class="container_16"> 
   <!-- Header: begin -->
-  <div id="header" class="grid_16 clearfix">
+  <div id="header" class="grid_16 clearfix"> 
     <!-- Search box: begin -->
+        
     <div id="searchbox">
-    	
-      <form action="/Session/Bill.cfm" method="post" class="JumpToForm">
-        <p id="billjump">
-          <label for="BillNumber">Go to Bill:</label>
-          <input type="search" size="6" name="BillNumber" id="BillNumber">
-          <label class="print" for="position">Year:</label>
-          <select name="SessionName" id="position">
-            
-            
-            <option value="2012" selected="selected">2012</option>
-            
-            <option value="2011">2011</option>
-            
-            <option value="2010O">2010O</option>
-            
-            <option value="2010A">2010A</option>
-                       
-          </select>
-        </p>
-        <p id="divid">
-          <input type="submit" value="Go" class="blue button round">
-        </p>
-      </form>
-      
-      <form action="/Search/Results.cfm" method="post" class="JumpToForm" id="IntegratedSearchForm">
-        <p id="search">
-          <label for="searchQuery" class="print">Search FL Legislature:</label>
-          <input type="searchQuery" size="20" name="searchQuery" id="searchQuery">
-          <input type="hidden" name="submitFlag" id="submitFlag" value="false">
-          <input type="submit" value="Search" class="blue button round" title="Information prior to 2011 is on Flsenate.gov archives.">
-          <a href="/search/Results">Advanced</a></p>
-      </form>
-    </div>
-    <!-- Search box: end -->
-    <!-- Search Results: begin -->
-    <div id="SearchResults" style="display:none">
-      <ul>
-        <li>
-          <h2><a href="#" class="right"><img src="/common/images/icons/close.png" height="13" width="13" alt="Close Quick Search"></a> Quick Search </h2>
-          <h3>Legislation</h3>
-          <ul id="LegislationSearchResults">           
-          </ul>
-        </li>
-        <li>
-          <h3>Statutes</h3>
-          <ul id="CatchlineSearchResults">
-          </ul>
-        </li>
-        <li>
-          <h3>Senators</h3>
-          <ul id="SenatorsSearchResults">
-          </ul>
-        </li>
-        <li>
-          <h3><a href="/Search/Results/" id="SearchResultsViewAll">Make this an Advanced Search »</a></h3>
-        </li>
-      </ul>
-    </div>
+         	
+					<form action="/Session/Bill.cfm" method="post" class="JumpToForm">
+						 <p id="billjump">
+						<label for="BillNumber">Go to Bill:</label>
+						<input type="search" size="6" name="BillNumber" id="BillNumber">
+						<label class="print" for="position">Year:</label>
+						<select name="SessionName" id="position">
+							
+							
+								<option value="2012B">2012B</option>
+							
+								<option value="2012" selected="selected">2012</option>
+							
+								<option value="2011">2011</option>
+							
+								<option value="2010A">2010A</option>
+							
+								<option value="2010O">2010O</option>
+							
+						</select>
+				        </p> <p id="divid">
+						<input type="submit" value="Go" class="blue button round">
+						 </p>
+					</form>
+
+                	<noscript><p id="search">Javascript Must Be Enabled for Site Search</p></noscript> 
+                	<form accept-charset="utf-8" action="/search/results.cfm" class="JumpToForm" method="get"> 
+                    <p id="search" style="">
+                    	
+							<input type="text" autocomplete="off" size="22" name="q" title="search" placeholder="Search all Flsenate.gov" id="searchQuery">
+                        
+ 						<input type="submit" value="Search" class="blue button round">  </p>                    
+				    </form>
+                                       
+				
+	</div>
+
+
+
+
+
     <h1 class="print">The Florida Senate</h1>
     <div id="logo"><a href="/"><img src="/common/images/flsenate-logo.png" width="228" height="83" border="0" alt="The Florida Senate"></a></div>
     <!-- Nav: begin -->
@@ -176,19 +200,19 @@
         <li><a href="/Media">Media</a>
           <ul style="display: none; visibility: hidden;">
             <li><a href="/Media/PressReleases">Press Releases</a></li>
-            <li><a href="/Media/Publications">Publications</a></li>            
+            <li><a href="/Media/Publications">Publications</a></li>
             <li><a href="/Media/Videos">Videos</a></li>
             <li><a href="/Media/Photos">Photos</a></li>
             <li><a href="/Media/Speeches">Speeches</a></li>
-            <li><a href="/Media#broadcast">Video Broadcast Schedule</a></li>            
-            
+            <li><a href="/Media#broadcast">Video Broadcast Schedule</a></li>
+             
             
           </ul>
         </li>
         <li><a href="/About">About</a>
           <ul style="display: none; visibility: hidden;">
-            <li>
-              
+            <li> 
+               
               <a href="http://flsenate.gov/cgi-bin/View_Page.pl?Mode=Archives&amp;Tab=info_center&amp;submenu=7&amp;File=index.cfm&amp;Directory=Info_Center/Archive/&amp;Location=app">Historical Information</a></li>
             <li><a href="/About/Opportunities">Opportunities</a></li>
             <li><a href="http://www.flsenate.gov/senatekids/index.cfm">Senate Kids</a></li>
@@ -218,33 +242,27 @@
         <li id="menu_end"><a href="/Tracker">Tracker</a></li>
       </ul>
     </div>
-    <!-- Nav: end -->
+    <!-- Nav: end --> 
   </div>
-  <!-- Header: end -->
+  <!-- Header: end --> 
   <!-- Main Area: begin -->
-  <div id="main" class="grid_16">
+  <div id="main" class="grid_16"> 
+     
     
-
-      <div id="message" class="rounded">
-        
-        
-       </div>
-
+    <div id="message" class="rounded"> 
       
-
-    
-    <div id="breadcrumbs">
-      <a href="/">Home</a> &gt; <a href="/About">About</a> &gt; Privacy Statement
+      
     </div>
+     
+     
+     
     
+    <div id="breadcrumbs"> <a href="/">Home</a> &gt; <a href="/About">About</a> &gt; Privacy Statement </div>
+     
+
     <!-- Columns: begin -->
     <div id="Content">
-    
-         
-    <div id="language" style="">Language: 
-         <a href="#" class="selectedLanguage" id="EnglishLanguageLink" style="display: none;">View in English</a> 
-         <a lang="es" href="#" id="SpanishLanguageLink">Ver en Español</a>
-    </div>
+      <div id="language" style="">Language: <a href="#" class="selectedLanguage" id="EnglishLanguageLink" style="display: none;">View in English</a> <a lang="es" href="#" id="SpanishLanguageLink">Ver en Español</a> </div>
       <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv - START - Included Content - vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv -->
       
 <!-- Column 1: begin-->
@@ -256,7 +274,7 @@
 			    <div class="english"><h1>Privacy Statement</h1></div>
 			    <div class="spanish" lang="es" style="display:none"><h1>Política de Privacidad</h1></div>                
 			            	
-			    <div class="english"><!-- Cached at: 12/06/2011 06:45:42:PM  -->
+			    <div class="english"><!-- Cached at: 06/18/2012 11:46:52:AM  -->
     <p>
 	Thank you for visiting the Florida Senate's website, <i>flsenate.gov</i>. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit <i>flsenate.gov</i>, unless you affirmatively choose to make such information available to us.</p>
 <h3>
@@ -278,7 +296,7 @@
 	Claude Pepper Building, Room 704<br />
 	111 West Madison Street<br />
 	Tallahassee, FL 32399-1400.</p>---> </div>
-			    <div class="spanish" lang="es" style="display:none"><!-- Cached at: 12/06/2011 06:45:43:PM  -->
+			    <div class="spanish" lang="es" style="display:none"><!-- Cached at: 06/18/2012 11:46:52:AM  -->
     <p>
 	Gracias por visitar el sitio Web del Senado de Florida, flsenate.gov. Su privacidad es muy importante para nosotros. En pocas palabras, nuestra política es no recolectar información personal sobre usted cuando visite flsenate.gov, a menos que elija afirmativamente facilitar dicha información a nosotros.</p>
 <h3>
@@ -296,12 +314,13 @@
 			
 </div>
 <!-- Column 1: end--> 
-      <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ - END - Included Content - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+      <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ - END - Included Content - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ --> 
     </div>
-    <!-- Main Area: end -->
+    <!-- Main Area: end --> 
   </div>
+
   <!-- Footer: begin -->
-  <div id="footer" class="grid_16">
+  <div id="footer" class="grid_16"> 
     <!-- Footer Group: begin -->
     <div id="footergroup">
       <div class="grid_3">
@@ -321,7 +340,7 @@
         <ul>
           <li><a href="/Search/BillSearchTips">Bill Search Tips</a></li>
           <li><a href="/Search/StatuteSearchTips">Statute Search Tips</a></li>
-          
+          <li><a href="/Search/SiteSearchTips">Site Search Tips</a></li>
         </ul>
       </div>
       <div class="grid_3">
@@ -352,13 +371,13 @@
           <li><a href="/Media/Photos">Photos</a></li>
           <li><a href="/Media/Speeches">Speeches</a></li>
           <li><a href="/Media#broadcast">Video Broadcast Schedule</a></li>
-          
+           
           
         </ul>
         <p><a href="/About">About</a></p>
         <ul>
-          <li>
-            
+          <li> 
+             
             <a href="http://archive.flsenate.gov/cgi-bin/View_Page.pl?Mode=Archives&amp;Tab=info_center&amp;submenu=7&amp;File=index.cfm&amp;Directory=Info_Center/Archive/&amp;Location=app">Historical Information</a></li>
           <li><a href="/About/Opportunities">Opportunities</a></li>
           <li><a href="http://www.flsenate.gov/senatekids/index.cfm">Senate Kids</a></li>
@@ -411,27 +430,25 @@
         </ul>
       </div>
     </div>
-    <!--Footer Group: end <p id="disclaimer">-->
+    <!--Footer Group: end <p id="disclaimer">--> 
     <br class="clear">
-    <div id="disclaimer">
-     
+    <div id="disclaimer"> 
       
       
       
-      
-      <!-- This Cache Snippet is 0 seconds old (CACHE_WAS_GOOD) -->
+       
+       
+      <!-- This Cache Snippet is 13 seconds old (CACHE_WAS_GOOD) --> 
       <p>
 	Disclaimer: The information on this system is unverified. The journals or printed bills of the respective chambers should be consulted for official purposes.</p>
 
         <p><span class="noPrint"><a href="/About/Privacy">Privacy Statement</a>|<a href="/About/Accessibility">Accessibility Policy</a><br>
-          </span> Copyright © 2000-
-          2011
-          &nbsp;State of Florida.</p>
-    </div>
+          </span> Copyright © 2000- 2012 &nbsp;State of Florida.</p> </div>
   </div>
   <!-- Footer: end -->
   <div id="SenateLiveContent" style="display:none"></div>
 </div>
+
 
 
 
