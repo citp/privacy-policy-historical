@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradsdeals.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229212450id_/http%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradsdeals.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618064625id_/http%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
 
 # BradsDeals Privacy Policy
 
@@ -65,3 +65,5 @@ We may disclose information when legally compelled to do so, in other words, whe
 ### What About Other Web Sites Linked to Our Web Site?
 
 We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein.
+
+Shop Smart Holdings Inc. has financial relationships with some of the merchants included on our site. Shop Smart Holdings Inc. may be compensated if consumers choose to apply for or purchase products or services via the links on our site.
