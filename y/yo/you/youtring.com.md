@@ -1,71 +1,91 @@
-> *The following text is extracted and transformed from the youtring.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018005839id_/http%3A//www.youtring.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtring.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618091528id_/http%3A//www.phonekall.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# YouTring - Privacy Policy
+# Privacy Policy
 
-By your access to and use of this website you agree to our processing, storing and using the personal and all other the information, in accordance with the principles set out in this Privacy Policy. We assure you that we recognise and fully respect the privacy and personal data of the visitors to this website.
+  * [Home](https://web.archive.org/web/20120618091528id_/http%3A//www.phonekall.com/Default.aspx)
+  * Privacy Policy 
 
-We endeavour to take all reasonable efforts which are required for maintaining online privacy norms on up-to-date basis which shows you the way towards safe and secured transactions
 
-  1\. Purpose of This Policy:
 
-The purpose of this policy is to assure you that we recognise and fully respect the privacy and personal data of the visitors/users/members of this website and to explain what personal information we collect from this website and how we ensure its' best protection. By your access to and use of this website you agree to our processing, storing and using those information in accordance with the principles set out in this Privacy Policy. 
+This Privacy Policy culls out how we treat and safeguard your personal information. We are committed to safeguarding the privacy of our website users. This Privacy Policy explains what personal data of the users are collected from this website, how we process, store, disclose and use the personal information. 
 
-  2\. Collection of Information:
+Collection of Data
 
-We collect personal information when you register yourself as a member/user of our websites or Software or otherwise voluntarily provide such information. 
+We may collect, store and process the following information about the users to the website:
 
-We will limit the collection and use of your information to a minimum. We will only collect such information as is required to help you access the services offered by us or to keep you updated/informed about the new services offered by our Company or its associates as well as to inform you about any changes in the terms of use. 
+  * Information about your computer like IP address, geographical location, operating systems etc.
+  * Information about your visits to and use of the websites like browser type and versions, website navigations etc.
+  * Information regarding purchases you make from our website
+  * Information you provide us when you register with us like names, email address, telephone numbers, postal address etc.
+  * Any other information that may be provided by you at your sole discretion
 
-  3\. Uses of Information:
 
-We collect information about you as per section 2 above, to provide you with a safe, smooth, efficient, and customized experience. 
 
-The information you provide may be used for promotional, analytical and statistical purposes. 
+  
 
-We shall use your information to send you promotional email messages including newsletters which we believe will be interesting or useful to you. You may also receive such promotional messages from our different trading names, associates, group partners and our affiliates. When you give us your personal information, we will give you the opportunity to opt out of receiving such information but remember that this will preclude you from receiving any of our special offers or promotions in future.
 
-We may also use your information for new, unanticipated uses not previously disclosed in this notice. 
+Usage of Data
 
-We may also use personal information for auditing, research and analysis to operate and improve our technologies and websites. Your personal information may be used to provide you with updated about other services, customer support and troubleshoot problems. We may also send you email notifications from time to time, such as change in status or for Legal or security purposes. 
+The information collected by us shall be used for the following purposes:
 
-In case you chose to avail any other services offered by our associates or group companies, we may share your information with those associates or group companies. We may also share your personal information with third parties in limited circumstances, including when complying with Legal process, preventing fraud or imminent harm, and ensuring the security of our network and websites. 
+  * For promotional, analytical and statistical purposes.
+  * For auditing, research and analysis to operate and improve our technologies and websites.
+  * To verify your authority
+  * To contact you when reasonably necessary
+  * To detect and prevent faults, breaches of our network security, the law or our contract terms
+  * To comply with legal process, preventing fraud or imminent harm and ensuring the security of our network and websites.
+  * To administer or monitor the website
+  * To supply the services availed through the website
+  * To send statements or invoices for the services availed
+  * To collect or refund payments, as the case may be
+  * To send general marketing or non marketing communications which we think may be of interest to you 
+  * For any other purposes not known at present. In case, we plan to use your information for any other purposes, we shall intimate you in advance and shall take your prior consent.
 
-We use your personally identifiable information to verify your authority, to access this website, contact you when reasonably necessary, to detect and prevent faults, breaches of our network security, the law or our contract terms. 
 
-  4\. Linked Websites:
 
-Our website may contain links that will let you leave our website and access another website. Linked websites are not under our control and it is possible that these websites have a different privacy policy. So we urge you to be careful when you enter any personal information online. We advise you to read and abide by the Privacy Policy of those third party website. 
+An opt-out opportunity shall be provided to you when you provide any information to us. But opting out from receiving such information shall preclude you from receiving such information in future. You may also instruct us not to use your personal information for any marketing communications by email at any time.
 
-We accept no responsibility or liability for any damage/loss caused/suffered by you or any other party through your use of those linked websites.
+  
 
-    5\. Disclosure of Information:
 
-We do not share, sell or rent your e-mail, postal address, or any other data we hold about you to any third party, unless a prior consent is obtained from you. We may however disclose your personal information as and when required under law, in cases where it is obligatory to do so. 
+Disclosure of information
 
-Company can (and you authorize Company to) disclose your name, street address, city, state, zip code, country, phone number, email, and company name to Intellectual Property right's owners, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity.
+We may disclose your personal information in the following circumstances:
 
-  6\. Changing The Information We Hold About You: 
+  * As and when required under law or where it is obligatory to do so. 
+  * If we believe it to be appropriate in connection with an investigation of fraud or fraud prevention
+  * In connection with any ongoing or likelihood legal proceedings in case of infringement, piracy, or for any other unlawful activity.
+  * To any of our employees, officers, staff or contractors to fulfill the obligation mentioned in this policy or the terms of use.
+  * In order to establish, exercise or defend our legal rights
+  * To our contractors, processing partners etc. located outside European Economic Area 
 
-We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and amend it, when reasonably possible. If you would like to change the registration or any other information we hold about you from our database, you may do so by sending a mail to info@youtring.com or by amending your details at your profile in the "My Account" section of our site. 
 
-  7\. Security of Information: 
 
-We will take all reasonable steps to safeguard the security and confidentiality of any information you provide to us. We cannot, however, guarantee the security of any information you disclose online. You accept the inherent security implications of providing information over the Internet and will not hold us responsible for any breach of security or disclosure of information. 
+Unless a prior written consent is provided by you, we shall not disclose, sell or share your personal information to any third party, except as provided hereinabove.
 
-  8\. Cookies: 
+Security of Information
 
-We may use cookies and other technologies to enhance your online experience and to learn about how you use our websites in order to improve the quality of our websites. 
+We shall take all precautionary measures including operational as well as technical to avoid any failure, loss or misuse of any personal data. We store all information you provide on our firewall protected secure servers. We also use SSL Technology to encrypt any transactions you enter electronically on our website. We do not guarantee the safety or security of disclosing or transferring any information online. You understand and acknowledge that disclosing or transmitting information over the internet may not be completely secure and hence will not hold us liable for any breach of security or disclosure of information.
 
-To view our Cookie Policy, please [click here.](https://web.archive.org/web/20101018005839id_/http%3A//www.youtring.com/cookie-policy.aspx)
+Verifying and updating any Information
 
-  9\. Changes To Privacy Policy: 
+You may verify or update any information we hold about you. We make good faith efforts to provide you with access to your personal information upon your request. You may be required to make the payment of the fee as fixed by law and supply of your identity proof as evidence, to access your information. In case you feel that any information we hold about you is incorrect or needs updating, please contact us immediately and we shall ensure to update or correct the same at the earliest.
 
-We reserve the right to revise this policy at any time. If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with others. 
+Changes to Privacy Policy
 
-  10\. Consent: 
+We may at our sole discretion change this Privacy Policy to show any amendment, rectification or modification. The updated Policy shall be uploaded on the website. You should regularly visit this page to ensure you are aware of the changes, if any.
 
-By using this website you consent to the collection and use of your personal information in the manner set out above. 
+Privacy Policy of Third Parties
 
-  11\. More Information: 
+You may be linked to third party websites, through our websites. Those linked third party websites are not under our control and may contain a different privacy policy. You are advised to read the privacy policy of those third party websites. We shall not be responsible or liable for any damages or losses suffered through your use of the linked websites.
 
-If you do not wish that we should use your information in the manner listed above or if you have any questions regarding the privacy policy of the Company or require any further information please send your request by email to [info@youtring.com](mailto:info@youtring.com)
+Cookies Policy
+
+We may use cookies and other technologies to enhance your online experience and to learn about how you use our websites in order to improve the quality of our websites.To view our Cookie Policy, please [click here](https://web.archive.org/web/20120618091528id_/http%3A//www.phonekall.com/cookiespolicy.aspx).
+
+Consent
+
+You automatically consent to our collection, usage and disclosure of your information by using and continuing to use this website. In case you do not agree to such collection, usage or disclosure, you may simply stop using the website. If you have any enquiry, suggestions or feedback, you may contact us at [info@phonekall.com](mailto:info@phonekall.com)
+
+  
+
