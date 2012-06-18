@@ -1,71 +1,80 @@
-> *The following text is extracted and transformed from the woodforest.com privacy policy that was archived on 2005-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051127005053id_/http%3A//woodforest.com/privacy/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodforest.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618232117id_/http%3A//www.woodforest.com/About-Us/Privacy--Security) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Security
 
-Privacy Policy
-Overview
-Woodforest National Bank recognizes that customer information is confidential and personal. As
-an organization, our management team takes specific steps to ensure the privacy of information
-about you and your account is protected. As an organization in the financial services industry, we
-recognize that privacy is critical, and the sensitivity to protecting information is continually growing
-with the expansion of electronic commerce. You may count on us to protect your information with
-a high level of security and appropriate discretion.
-Woodforest National Bank has adopted specific personal data protection principles which detail
-our institution’s handling of personal information. We place a high priority on the confidentiality of
-customer information. It is our intent to protect information provided by you as our customer!
-We acknowledge that our bank collects, retains, and utilizes information about its customers
-where management deems it useful (and permitted by law) to further our business efforts.
-Information about our customers, for example, assists our staff in developing new or enhancing
-existing products and services, and thereafter, offering them to our customers.
-Woodforest National Bank has established in-depth security standards and procedures to guard
-and protect customer information against unauthorized access. These controls and procedures
-are periodically reviewed and tested to ensure that these practices or processes serve our
-primary mission to protect confidential information. Further, management and staff are able to
-access personal confidential customer information only if and when they have a business reason
-to know.
-On certain occasions, customer information may be provided to a third-party which has provided
-an appropriate reason to request such information. The third party receiving such information
-must adhere to the privacy principles that cover such information regarding confidentiality.
-Information disclosures to an independent third party regarding personal, confidential information
-or other personally identifiable data for that entity’s specific usage is not allowed except where the
-exchange occurs with a reputable information reporting agency. Information exchanges with
-reporting agencies is deemed important to maximize the accuracy and detail of information
-reported. In certain situations, information is provided as detailed in the following specific
-situations:
-    1. Customer requests it;
-    2. Per request of customer, data are provided to help complete a customer-approved
-         transaction;
-    3. Disclosure is required by/per law (e.g., court order, investigation, or fraudulent
-         investigation);
-    4. Customer has been informed, and has had the opportunity to approve/decline in prior
-         written communication, the possibility of disclosure of information for marketing or similar
-         purposes.
-Statement of Data Protection Principles
-    •    We will not sell or provide personal information to third parties for independent use.
-    •    If we collect information about you from someone else, we will make sure you know we
-         have done so, as soon as and wherever possible
-    •    We will only collect information which is necessary for performing bank business on your
-         behalf
+At Woodforest, your right to privacy and your online security is extremely important to us.
+
+Below are links to several important documents that you should review prior to using our site or our online banking services. We have also included helpful tips for maintaining online security and articles on current online scams and issues.
+
+Please feel free to [contact us](https://web.archive.org/About-Us/Contact-Us) if you have any additional questions or concerns.
+
+  * [Your Privacy Rights](https://web.archive.org/Renderers/ShowMedia.ashx?id=48a7979f-d3c0-4d03-89d6-b29854bfa0c5) (87KB PDF)
+  * [Woodforest Security Center](https://web.archive.org/About-Us/Privacy--Security/Security-Center)
 
 
-     •   When and where practical, we will collect personal information directly from you
-     •   We shall only use or disclose that information about you that is consistent with your
-         directions and expectations, or is in the public interest (general banking loan and/or
-         account relationship(s) and your performance per pre-agreed upon terms and/or
-         conditions)
-     •   We will ensure that information about you is accurate when we collect or use it, to the
-         best of our capabilities
-     •   We will keep information secure
-     •   Whenever possible, we will provide you with opportunities to see the personal information
-         we hold for you and furthermore, we will explain what we do with it, and correct it if it is
-         wrong
-     •   We will be open with you about what kinds of personal information we hold and what we
-         do with it
-If at any time you have a concern about your information security, you may contact us through e-
-mail at info@woodforest.com, call our institution at 832-375-2000 (Houston), 1-877-YOUR WNB
-(Toll Free), or write us at:
-Woodforest National Bank
-Information Privacy
-P.O. Box 7889
-The Woodlands, TX 77387-7889
-Rev. 8/2004
+
+## Bank Safely Online!
+
+Internet banking security is a top priority at Woodforest. We utilize state of the art security to protect your information. We encourage you to remain aware of the potential for online fraud and to be prepared to react to any suspicious activity that puts your security at risk. We are providing you with the following information to help you protect yourself and keep your online banking information safe.
+
+## Online Fraud
+
+The most common type of online fraud involves fraudulent emails sent to random email addresses for the purpose of stealing personal account and financial information, including online banking logon details. This practice is known as "phishing" or "spoofing".
+
+Phishing criminals cast a very broad net by sending thousands of fraudulent emails to random email addresses, knowing that some of their targets will be among the recipients. In the process they end up sending email to many people who aren't customers.
+
+These emails appear to be legitimate and try to entice you to disclose private information. This is done by asking you to reply directly to the email, or by asking you to follow a link within the email to log into an imitation website. Any details you provide may then be collected and used without your knowledge, including your user ID, password and account information.
+
+It's important to note that a phishing attack does not involve a breach of Woodforest security. Phishing criminals rely on unsuspecting customers to reveal their personal account and financial information through fraudulent sources outside of Woodforest's secure online banking system
+
+## Protect Yourself
+
+Woodforest recommends the following to protect you from online fraud.
+
+  * Never respond to an email asking you to provide personal account or login information. REMEMBER: Woodforest will NEVER send you an email asking you to provide personal account or login information, including debit or credit card information, user ID or password
+  * Do not use URL links in an email to access a financial institution Web page.
+  * Always log into Woodforest Online Banking Services directly by typing www.woodforest.com into your address bar, or by bookmarking our site in your Favorites.
+  * Only communicate personal information, such as account information, through our secure messaging feature on our website, or through a phone call you initiate.
+  * Ensure your computer is protected by up-to-date antivirus software.
+  * Use a personal firewall.
+  * Use the most current web browser and apply security patches.
+  * Protect your username and password 
+    * Never share your username and password with anyone.
+    * Create a username and password that are difficult to guess.
+    * Change your password often.
+    * Never write down your username or password.
+    * Do not use the same password for all accounts.
+  * Use secure sites when shopping or banking online.
+  * Use only one credit card for online purchases
+
+
+
+[Click here for more online security tips!](https://web.archive.org/About-Us/Privacy--Security/Security-Center)
+
+## Reporting Fraud
+
+If you **responded** to a fraudulent email, contact Woodforest Customer Care at **1-877-968-7962** or [visit your local branch](https://web.archive.org/WFNB/Locations) immediately.
+
+If you receive an email that says it's from Woodforest, but you suspect it might be a phishing email, forward the entire original email including the original header information to [reportphishing@woodforest.com](mailto:reportphishing@woodforest.com) .
+
+If you receive a fraudulent "phishing" email, forward the entire original email including the original header information to:
+
+  * Federal Trade Commission at [uce@ftc.gov](mailto:uce@ftc.gov) or [spam@uce.gov](mailto:spam@uce.gov)
+  * [reportphishing@antiphishing.org](mailto:reportphishing@antiphishing.org)
+  * [reportphishing@woodforest.com](mailto:reportphishing@woodforest.com)
+
+
+
+If you suspect your personal information has been compromised, contact any of the following three major credit bureaus to place a fraud alert on your credit file:
+
+  * Equifax at www.equifax.com  
+800-525-6285
+  * Experian at www.experian.com  
+888-397-3742
+  * TransUnion at www.transunion.com  
+800-680-7289
+  * For more information regarding phishing schemes or identity theft visit:   
+www.ftc.gov  
+www.antiphishing.org
+
+
