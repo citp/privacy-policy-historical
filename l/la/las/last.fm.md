@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the last.fm privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204192731id_/http%3A//www.last.fm/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the last.fm privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618115618id_/http%3A//www.last.fm/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Last.fm
 
-**Updated on: February 11, 2009**
+**Updated on: March 22, 2012**
 
   * We have a pretty simple privacy policy. We are reasonably sure this won’t annoy anyone.
   * The entry of personal data on this site is completely optional and will require you to setup an account with a password and an email address. Please choose a password that is not easy for someone else to guess, such as birthday, national identification number and phone number.
@@ -11,7 +11,7 @@
   * We may use the email address provided by you to contact you from time to time about the Last.fm service. We won’t pass your email address on to anyone to contact you directly about their own products or services, not even Lars Ulrich at gunpoint (unless you have provided your prior consent to do so). Our policy is to provide a clear and easy way for you to opt out of receiving specific types of emails.
   * Your pseudonymous listening habit data will be available to other Last.fm users for non-commercial use and to third parties via our API for their own commercial and/or non-commercial purposes. This statistical information is used to help third parties understand the likes and dislikes of music fans on Last.fm.
   * We may display links to third party sites which allow you to provide personal information to them directly. We advise you to check their terms of use and privacy policies of these sites to find out how they are treating your personal information.
-  * We use cookies (which can only be read by us) to collect data that we can use to improve the efficiency and quality of our service to you. If you want, you can turn these cookies off, but it may mean that the Last.fm service doesn’t function quite as well. Third party advertisement companies may also collect information (which is generally not personally identifiable) from you via cookies about the websites that you visit and your other activities on the Last.fm service. We encourage you to read these businesses’ privacy policies if you are concerned about how they will handle your information.
+  * We use cookies (which can only be read by us) to collect data that we can use to improve the efficiency and quality of our service to you. If you want, you can turn these cookies off, but it may mean that the Last.fm service doesn’t function quite as well. Third party advertisement companies may also collect information (which is generally not personally identifiable) from you via cookies about the websites that you visit and your other activities on the Last.fm service. We encourage you to read these businesses’ privacy policies if you are concerned about how they will handle your information and your choices concerning their use of your information. Please read paragraph 12 of this policy for more information about the cookies used on the Last.fm website. Unless you have disabled the use of cookies on your browser, by using the Last.fm services, you agree to the use of all the cookies listed in paragraph 12.
   * Children under the age of 13 are not eligible to use our service and must not attempt to register with us and/or submit any personal information to us. Young people between 13 and 17 should not send any information about themselves to anyone over the Internet (including to us) without asking their parents/legal guardians for permission beforehand.
 
 
@@ -78,11 +78,33 @@ Certain third-party advertisements on the Website may enable you to submit your 
 
 Last.fm cannot guarantee that all third parties will abide by such restrictions. Of course, you can report any suspected misuse of your personal information to us by emailing us at [legal@last.fm](mailto:legal@last.fm) and we will endeavour to investigate your claim. Where we deem it appropriate, we will take appropriate action against such third party, which may include terminating their access to personal information.
 
-We use cookies to help you use Last.fm to collect data that we can use to improve the efficiency and quality of our service. We use these cookies to identify you as a valid user and to help personalise your Last.fm experience in conjunction with your profile. We currently employ persistent cookies which stay on your computer after you have gone offline. Persistent cookies remain in the “cookies” folder after you have closed your web browser.
+We use the following cookies to help you use Last.fm to collect data that we can use to improve the efficiency and quality of our service:
 
-Most browsers have cookies turned on as a default, but you can always disable cookies or only allow non-persistent cookies via your browser preferences. If you choose to disable cookies, however, you won’t be able enjoy a significant proportion of Last.fm’s functionality. Please remember that cookies cannot read your hard drive or give any information collected to any third party. A cookie can only be read by the organisation that sets it.
+  * Session cookies;
+  * Language preference cookies;
+  * Mobile or full site preference cookies;
+  * Music referencer cookies; and
+  * Ad refresh cookies.
 
-We may use third-party advertising companies to target and serve ads when you visit our Website. These companies may use information (generally not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and other tracking technologies to measure advertising effectiveness. Any information that these third parties collect via cookies is generally not personally identifiable (unless, for example, you provide personal information to them through an ad or e-mail message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer Web site at <http://www.networkadvertising.org/consumer>.
+
+
+We use these cookies to:
+
+  * identify you as a valid user;
+  * maintain and recognise you when you login;
+  * keep track of your music play history;
+  * monitor the ads on your visual radio; and
+  * help personalise your Last.fm experience in conjunction with your profile, such as remembering volume control, language preferences and other personal settings.
+
+
+
+We currently employ persistent cookies which stay on your computer after you have gone offline. Persistent cookies remain in the “cookies” folder after you have closed your web browser.
+
+We also employ cookies that carry out statistical analysis. Such cookies may monitor your Internet browsing habits and identify the search categories which you often employ and the sites you frequently visit. This data may be used for ad customisation and means that you will receive advertisements which are more relevant to you. For example, our users located in Germany and Italy may have some of our services provided to them by Yahoo!. Yahoo! uses cookies to carry out statistical analysis based on web-browsing behaviour. For more information about Yahoo!’s practices and your choices about how you can control Yahoo!’s access to and use of this information, please visit here <http://info.yahoo.com/privacy/uk/yahoo/opt_out/targeting/details.html>. Our website in Germany uses the Scalable Central Measurement Method by INFOnline ([https://www.infonline.de](https://www.infonline.de/)) for evaluation of statistical data related to the use of our services. You can opt-out from the respective data processing by clicking the following link and follow further instructions: [http://optout.ivwbox.de](http://optout.ivwbox.de/)
+
+Most browsers have cookies turned on as a default, but you can always disable cookies or only allow non-persistent cookies via your browser preferences. If you choose to disable cookies, however, you won’t be able enjoy a significant proportion of Last.fm’s functionality. Please remember that cookies cannot read your hard drive or give any information collected to any third party. A cookie can only be read by the organisation that sets it. If you have not disabled cookies on your internet browser, by using the Last.fm services, you are consenting to the use of cookies described above.
+
+We may use third-party advertising companies to target and serve ads when you visit our Website. These companies may use information (generally not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and other tracking technologies to measure advertising effectiveness. Any information that these third parties collect via cookies is generally not personally identifiable (unless, for example, you provide personal information to them through an ad or e-mail message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer Web site at <http://www.networkadvertising.org/consumer>. Further information can be found on <http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1272/>
 
 Last.fm endeavours to protect the security of your information as much as we endeavour to protect our own information and network. We employ firewalls and store all of our files and information on terminals which require password access.
 
@@ -106,4 +128,4 @@ If Last.fm makes any changes to this Policy these changes will be detailed on th
 
 If you decide that you do not want your personal information to be used in the way described in this Policy, you can send us a notice that you wish to withdraw your consent as set out above by emailing [legal@last.fm](mailto:legal@last.fm). Because the Last.fm community relies on users sharing information, withdrawing your consent will mean that you are not able to receive the full benefits of Last.fm’s service as a user. **Additionally, if you do not provide your consent, or if you withdraw your consent, you should not use the Website as a registered user, which means that many features will be unavailable to you.**
 
-This Privacy Policy is effective as of August 2008 and was last updated February 11, 2009.
+This Privacy Policy is effective as of August 2008 and was last updated 22 March, 2012.
