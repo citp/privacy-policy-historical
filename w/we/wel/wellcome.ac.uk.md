@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellcome.ac.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151509id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcome.ac.uk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618160841id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
 
 # Privacy statement | Wellcome Trust
 
@@ -24,11 +24,11 @@ All data collected by the Trust for the purpose of surveys will be held and proc
 
 ## **Do we use 'cookies'?**
 
-When you log into this site, your computer will automatically be issued with a cookie. Cookies are text files that identify your computer to our server. Cookies do not identify the individual user, just the computer used. Cookies enable our server to remember you are the same person as you move through a survey.
+Like most other organisations, the Wellcome Trust uses cookies on its websites.
 
-The Trust also uses cookies to gather non-personal statistical information about visitors to our sites, such as the number of visits to pages, the amount of time spent viewing a page, the path taken by visitors to a particular page and other general information. We use this information to improve our websites. 
+Cookies are text files that are placed on your computer when you visit a website, which identify your computer to the server. Cookies do not identify the individual user, just the computer used.
 
-You have the opportunity to set your computer to accept all cookies, to notify you when a cookie is issued or to choose not to receive cookies at any time. The last of these options may prevent you from accessing all functions of this site.  [Find out more about cookies](http://www.allaboutcookies.org/ "Find out more about cookies"). 
+Cookies provide information to the website owner and some are essential to allow parts of the website to operate.  [Find out more about cookies and the Trust’s use of them.](https://web.archive.org/web/20120618160841id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/WTVM055401.htm "Find out more about cookies and the Trust’s use of them.")
 
 ## **Do we use CCTV?**
 
