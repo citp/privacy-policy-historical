@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the waterpik.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209232002id_/http%3A//www.waterpik.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterpik.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618134042id_/http%3A//www.waterpik.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Waterpik Privacy Policy
+# Water Pik, Inc. Privacy Policy
 
 This Policy applies to all personal information submitted by consumers to Water Pik, Inc. ("Water Pik") through any medium including any of Water Pik's Web sites. By submitting personal information to Water Pik or using its Web sites or interactive banner ads, you signify your acceptance of this Privacy Policy. If you object to any of these terms, please do not submit any personal information to Water Pik. We believe that your privacy is extremely important. For this reason, except as described below, Water Pik does not trade, sell or rent to any third parties personal information submitted by you. The Privacy Policy outlined below explains how Water Pik may gather and use the information you provide.
 
