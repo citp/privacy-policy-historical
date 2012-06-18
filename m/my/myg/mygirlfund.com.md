@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygirlfund.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227041039id_/https%3A//www.mygirlfund.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygirlfund.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618113300id_/https%3A//mygirlfund.com/privacypolicy) for the most accurate reproduction.*
 
 # MyGirlFund: Privacy Policy
 
