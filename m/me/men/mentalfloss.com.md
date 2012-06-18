@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mentalfloss.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220140144id_/http%3A//mentalfloss.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentalfloss.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618231752id_/http%3A//mentalfloss.com/privacy.php) for the most accurate reproduction.*
 
-# mental_floss Privacy Policy
+# Random, Interesting, Amazing Facts - Fun Quizzes and Trivia - Mental Floss
 
 **We're really very private.**
 
