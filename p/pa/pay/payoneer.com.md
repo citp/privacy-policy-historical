@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payoneer.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204184207id_/http%3A//www.payoneer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payoneer.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618132829id_/http%3A//www.payoneer.com/privacy.aspx) for the most accurate reproduction.*
 
-# Payoneer uses MasterCard prepaid cards to enable payouts from websites to individuals worldwide.
+# Privacy | Payoneer
 
 This Privacy Disclosure explains the privacy policies of Payoneer® (“Company”) with respect to the Payoneer services.
 
