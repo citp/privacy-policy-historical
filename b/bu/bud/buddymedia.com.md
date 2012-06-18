@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buddymedia.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221013920id_/http%3A//www.buddymedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddymedia.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618122548id_/http%3A//www.buddymedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Home » Buddy Media
+# Privacy Policy | Buddy Media
 
 Effective Date: September 1, 2011
 
@@ -79,8 +79,8 @@ If you have any questions or comments about this Online Privacy Policy, or if yo
   * Writing to us at:  
 Buddy Media, Inc.  
 Attention: Steven Oh  
-360 W. 31st Street  
+155 6th Avenue  
 12th Floor  
-New York, NY 10001 
+New York, NY 10013 
 
 
