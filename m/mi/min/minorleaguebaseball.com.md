@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minorleaguebaseball.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143212id_/http%3A//web.minorleaguebaseball.com/milb/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minorleaguebaseball.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618103942id_/http%3A//www.milb.com/milb/info/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy | MiLB.com Official Info | The Official Site of Minor League Baseball
 
@@ -56,7 +56,7 @@ Your Website account preferences are password protected for your privacy and sec
 
 **How You Can Review Your Personal Information**
 
-If you want to review or revise the personal information you provided during registration on this Website, and whether you want to receive communications from us, you can either (1) **[click here to log in](https://secure.minorleaguebaseball.com/enterworkflow.do?flowId=registration.profile)** , and then click on the applicable menu option on the left side of the page, or (2) call MiLB.com Customer Service at 866-644-2687. If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should contact MiLB.com Customer Service at 866-644-2687.
+If you want to review or revise the personal information you provided during registration on this Website, and whether you want to receive communications from us, you can either (1) **[click here to log in](https://secure.milb.com/enterworkflow.do?flowId=registration.profile)** , and then click on the applicable menu option on the left side of the page, or (2) call MiLB.com Customer Service at 866-644-2687. If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should contact MiLB.com Customer Service at 866-644-2687.
 
 **
 
@@ -88,7 +88,7 @@ Contact Us; Privacy Administrator
 
 **
 
-If you have questions or concerns about this Privacy Policy, you can contact us at: **[privacy@website.milb.com](https://web.archive.org/web/20111101143212id_/http%3A//web.minorleaguebaseball.com/milb/info/privacy@website.milb.com)**.
+If you have questions or concerns about this Privacy Policy, you can contact us at: **[privacy@website.milb.com](https://web.archive.org/web/20120618103942id_/http%3A//www.milb.com/milb/info/privacy@website.milb.com)**.
 
 **
 
