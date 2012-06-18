@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the socialsecurity.gov privacy policy that was archived on 2011-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218020425id_/http%3A//www.socialsecurity.gov/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the socialsecurity.gov privacy policy that was archived on 2012-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618143824id_/http%3A//www.socialsecurity.gov/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="hide js"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
     <!-- REQUIRED META INFORMATION -->
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -15,16 +15,30 @@
 <meta name="dc.date.reviewed" scheme="ISO8601" content="2011-07-14">
 <meta name="dc.title" content="Our Internet Privacy Policy">
 <meta name="dc.language" scheme="ISO639-2" content="eng">
-<meta name="dc.creator" content="DComm.OCPT, OGC.OPD">
-<meta name="lead_content_manager" content="lmont, molse">
+<meta name="dc.creator" content="DComm.OOG, OGC.OPD">
+<meta name="lead_content_manager" content="lmolse, jkauf">
 <meta name="coder" content="lmont">
     <!-- OCOMM STYLES & SCRIPTS -->
     <link href="/framework/css/style.css" type="text/css" rel="stylesheet" media="all">
     <!-- NO SCRIPT STYLES -->
-<noscript><link href="/framework/css/ssa/noscript.css" type="text/css" rel="stylesheet" media="all" /></noscript>
+<noscript><link href="/framework/css/noscript.css" type="text/css" rel="stylesheet" media="all" /></noscript>
+
+<!-- JQUERY/JQUERY UI -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/jquery-ui.min.js"></script>
+
+<!-- PLUGINS -->
+<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.5.3/modernizr.min.js"></script>
+
+<!-- FALLBACK IN CASE CDNS AREN'T AVAILABLE -->
+<script>
+    window.jQuery || document.write('<script src="/framework/js/plugins/jquery.min.js"><\/script>')
+    jQuery.ui || document.write('<script src="/framework/js/plugins/jquery-ui.min.js"><\/script>')
+    window.Modernizr || document.write('<script src="/framework/js/plugins/modernizr.min.js"><\/script>')
+</script><script src="/framework/js/plugins/jquery.min.js"></script>
 
 <!-- FORESEE SURVEY SCRIPT -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/foresee/foresee-trigger.js"></script>
+<script src="/scripts/foresee/foresee-trigger.js"></script>
 
 <!-- GOOGLE ANALYTICS SCRIPT -->
 <script>
@@ -43,6 +57,8 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+<!-- GOOGLE ANALYTICS ADD-ON FOR TRACKING DOWNLOADS -->
+<script src="/framework/js/plugins/entourage.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script src="/scripts/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
 <body data-spanish-file="/espanol/sp_privacy.htm">
@@ -50,30 +66,34 @@
 <div id="page">
 
 <!-- PAGE HEADER -->
-<div class="container_12" id="header" role="banner"> 
+<div id="banner" role="banner"> 
 <header>
-
-        <a class="skip-navigation" href="#content">Skip to content</a>
+    <!-- HEADER CONTAINER -->
+    <div class="row-12">
+        <a id="skip-navigation" href="#content">Skip to content</a>
 
         <!-- LOGO -->
-        <div class="grid_6" id="logo">
+        <div class="column-6" id="logo">
 		<a href="/">
         <h1>Social Security</h1>
         <span>The Official Website of the U.S. Social Security Administration</span>
         </a>
-        </div><!-- end .grid_6 #logo -->
+        </div>
+        <!-- END LOGO -->
 
-        <div class="grid_6" id="toolbars">
+        <!-- TOOLBARS -->
+        <div class="column-6" id="toolbars">
+
         <!-- GLOBAL TOOLBAR -->
         <ul id="global">
             <li id="language"><a href="/espanol/">Español</a> | </li>
             <li id="multi-language"><a href="/multilanguage/">Other languages</a> | </li>
-            <li id="text-size" class="menu">
-            <a href="/accessibility/textsize.html"><span>Text Size</span></a>
-                <ul class="shadow">
-                 <li><a class="standard" href="#1">Standard</a></li>
-                 <li><a class="medium" href="#2">Medium</a></li>
-                 <li><a class="large" href="#3">Large</a></li>
+            <li id="text-size">
+            <a class="submenu" href="/accessibility/textsize.html">Text Size</a>
+                <ul>
+                 <li><a class="standard" href="#">Standard</a></li>
+                 <li><a class="medium" href="#">Medium</a></li>
+                 <li><a class="large" href="#">Large</a></li>
                 </ul>
             </li>
             <li>| <a href="/accessibility/">Accessibility Help</a></li>
@@ -81,41 +101,28 @@
 
         <!-- HELP TOOLBAR -->
         <ul id="help">
-        <li><a class="disclaimer" href="http://www.facebook.com/socialsecurity" rel="noIcon"><img alt="Facebook" src="/images/template/shared/icons/facebook-small.png"></a></li>  
-        <li><a class="disclaimer" href="http://twitter.com/socialsecurity" rel="noIcon"><img alt="Twitter" src="/images/template/shared/icons/twitter-small.png"></a></li> 
-        <li><a class="disclaimer" href="http://www.youtube.com/socialsecurityonline" rel="noIcon"><img alt="YouTube" src="/images/template/shared/icons/youtube-small.png"></a></li>
-         <li>| <a href="http://ssa-custhelp.ssa.gov/" title="Frequently Asked Questions">FAQs</a> | </li>
-        <li class="menu right-facing"><a href="/pgm/reach.htm"><span>Contact Us</span></a>
-         <ul class="shadow">
-            <li><a href="http://ssa-custhelp.ssa.gov/app/ask_feedback">Online</a></li>
-            <li><a href="/pgm/services.htm">Phone</a></li>
-            <li><a href="/pgm/mail.htm">Mail</a></li>
-            <li><a href="/locator/">Local Office</a></li>
-            <li><a href="/foreign/">Outside the U.S.</a></li>
-            <li><a href="/pgm/reach.htm" title="See More Contact Options">More...</a></li>
-         </ul>
-        </li>
+         <li><a href="http://ssa-custhelp.ssa.gov/" title="Frequently Asked Questions">FAQs</a></li>
+         <li>| <a href="/pgm/login.html" title="Login">Login</a></li>
+         <li id="mail">| <a class="no-icon" href="mailto:?subject=Interesting Page&amp;body=You might be interested in the following...">Mail</a></li>
+         <li>| <a href="/pgm/reach.htm">Contact Us</a> |</li>
+         <li><a class="disclaimer facebook" href="http://www.facebook.com/socialsecurity" rel="noIcon"><span>Facebook</span></a></li>  
+         <li><a class="disclaimer twitter" href="http://twitter.com/socialsecurity" rel="noIcon"><span>Twitter</span></a></li> 
+         <li><a class="disclaimer youtube" href="http://www.youtube.com/socialsecurityonline" rel="noIcon"><span>YouTube</span></a></li>
         </ul>
-        <!-- SEARCH BOX -->
-        <div class="rounded" id="search-box">
-            <form id="gs" role="search" name="gs" method="GET" action="http://search.ssa.gov/search?">
-                <input id="q" name="q" maxlength="256" title="Search Social Security..." value="Search Social Security...">
-                <input class="search-button" type="submit" value="GO">
-                <input type="hidden" name="entqr" value="0">
-                <input type="hidden" name="output" value="xml_no_dtd">
-                <input type="hidden" name="sort" value="date:D:L:d1">
-              <!--  <input type="hidden" name="entsp" value="0"> -->
-                <input type="hidden" name="ud" value="1">                 <input type="hidden" name="ie" value="UTF-8">
-                <input type="hidden" name="client" value="default_frontend">
-                <input type="hidden" name="oe" value="UTF-8">
-                <input type="hidden" name="proxystylesheet" value="default_frontend">
-                <input type="hidden" name="proxyreload" value="1">
-            </form>
-        </div><!-- end #search-box -->
-        </div><!-- end .grid_6 #toolbars -->
 
+        <!-- SEARCH BOX -->
+        <div class="input-append form-search" id="search-box">
+          <form method="get" action="http://search.usa.gov/search" role="search">  
+           <input type="hidden" name="affiliate" value="ssa"> 
+           <input type="search" name="query" id="q" autocomplete="off" title="Search Social Security" placeholder="Search Social Security..."><span><button class="btn" type="submit">GO</button></span>
+          </form>
+        </div>
+        </div>
+        <!-- END TOOLBARS -->
+    </div>
+    <!-- END BANNER CONTAINER -->
 </header>
-</div><!-- end #banner -->
+</div>
 
 <!-- PAGE NAVIGATION -->
 <nav>
@@ -134,15 +141,7 @@
 <div id="title-bar">
   <h2>Internet Privacy Policy</h2>
 </div>
-<div class="container_12" id="utility-bar">
-<div class="grid_12" id="ssa-services">
- <ul>
-  <li id="mail"><a href="#">Mail</a></li>
-  <li id="print"><a href="#">Print</a></li>
-  <li id="gov-delivery" style="display:none;"><a href="#" title="Get email updates | Open Dialog Box">Get email updates</a></li>
- </ul>
-</div>
-</div><!-- end #utility-bar -->
+<!-- DEFERRED -->
 <!-- PAGE CONTENT -->
 <div id="content" role="main">
 
@@ -161,16 +160,21 @@ The Privacy Policy below explains our online  information practices.&nbsp; This 
     -->
         <div class="accordion">
         <p class="header"><a href="#oi0" id="oi0">Our Use Of Web Measurement And Customization Technologies</a></p>
-        <div>In order to optimize your experience and provide statistically  accurate data about how you use our web site, we use web measurement and  customization technologies.&nbsp; These technologies  are commonly known as “cookies,” but may include other technologies.&nbsp; We have no plans to implement any other such  technology, but will continually review any potential future uses of cookies or  other technologies and revise this policy as needed.
+        <div>
+          <p>In order to optimize your experience and provide statistically  accurate data about how you use our web site, we use web measurement and  customization technologies.&nbsp; These technologies  are commonly known as “cookies,” but may include other technologies.&nbsp; We have no plans to implement any other such  technology, but will continually review any potential future uses of cookies or  other technologies and revise this policy as needed.
+</p>
           <p>When we use such technologies, a small piece of text is sent  to your computer along with the web page when you visit a site.&nbsp; No other  web site can access the cookie we set; your computer will share the information  in the cookie only with the computer that sent it. </p>
-          <p>There are three “tiers” of these web measurement and  customization technologies, as established by the Office of Management and  Budget:</p>
+<p>There are three “tiers” of these web measurement and  customization technologies, as established by the Office of Management and  Budget:</p>
           <p>Tier 1 – Single session. This technology “remembers” the  online interactions within a single session or visit to a single web site; they  let our server know that a person is continuing a visit to our site and connect  the person’s activities for analysis. Any information related to a particular  visit to the web site is deleted from the person’s computer immediately after  the session ends.</p>
           <p>Tier 2 – Multi-session without personally identifiable  information (PII).&nbsp; This type of  technology&nbsp; notices when a person returns  to a web site and remembers his or her online interactions and preferences  across multiple sessions, typically for the purpose of web analytics, but also  for customizing people’s online experience. </p>
           <p>Tier 3 – Multi-session with PII.&nbsp; This type of cookie is the same as Tier 2,  but back-end web site programming ties it to people’s PII. <em>We do not, and have no plan to</em>, use Tier 3 cookies. </p>
           <p><strong>1.&nbsp; The purpose of the web  measurement and customization technology </strong></p>
           <p>We can provide a better experience for you if we understand  how you use the site.&nbsp; To this end, we  use Tier 1 technology when you transact business on line with us, such as  applying for benefits or changing your address.&nbsp; We store this “session  cookie” on your computer only during your visit.&nbsp; The session cookie keeps  you and us from losing information you have entered during a business  transaction with us.&nbsp;Once you exit our application, your computer deletes the  cookie from your computer. When you partially complete one of our on-line  applications, we provide you with a secure means of returning to your  application that does not use any web measurement technology.</p>
           <p>We use Tier 2 technology to help us analyze site use by  identifying you as a new or returning visitor; this does nothing other than  distinguish whether you have been to our site before.&nbsp; Our web measurement applications compare the  behavior of new and returning visitors in the aggregate to help us identify work  flows and trends and also resolve common problems on our site. We do not use  this technology to identify you or any other person.</p>
-          <p>We use Tier 2 technology on our Open Government page hosted by  IdeaScale to make your login easier, prevent anonymous abuse of the service,  and ensure fair voting. We also maintain pages on Facebook and YouTube, both of  which use Tier 2 technology. We will update our policy as necessary should we  extend our use of these technologies in other similar services.</p>
+          <p>We use Tier 2 web measurement technology to improve our  website and provide a better user experience for our customers. This technology  anonymously tracks how visitors interact with socialsecurity.gov, including  where they came from, what they did on the site, and whether they completed any  pre-determined tasks while on the site.</p>
+          <p>This technology is provided by Google Analytics and the  information collected is used to optimize our website; helping us determine top  tasks, improve our user interface and diversify our content offerings to meet  the needs of our customers. No personally identifiable information is  collected, so the anonymity of the end user is protected.&nbsp; The measurement  data that is collected is only retained for as long as is needed for proper  analysis and optimization of the website and is accessible only to employees  whose position necessitates it.</p>
+          <p>Since disabling this web measurement technology requires  modifying individual browser settings it is enabled by default. If you wish to  opt-out, you can find step-by-step instructions for changing your settings at <a href="http://www.usa.gov/optout_instructions.shtml">http://www.usa.gov/optout_instructions.shtml</a>.  Google also provides a browser plug-in that will allow you to opt-out of all  Google Analytics measurements, which you can find at <a href="http://tools.google.com/dlpage/gaoptout">http://tools.google.com/dlpage/gaoptout</a>.  Please note that opting-out in no way effects your access to content within socialsecurity.gov  or how you see the site. </p>
+<p>We also use Tier 2 technology on our Open Government page hosted by  IdeaScale to make your login easier, prevent anonymous abuse of the service,  and ensure fair voting. We also maintain pages on Facebook and YouTube, both of  which use Tier 2 technology. We will update our policy as necessary should we  extend our use of these technologies in other similar services.</p>
           <p>In the future, we plan to make  it possible for you to customize your online experience with us by saving your  website preferences. &nbsp;While we are not  presently offering such an option, Tier 2 technology is the usual way of providing  for such a service.</p>
           <p><strong>2. The usage Tier, session type, and technology used </strong></p>
           <p>We implement Tier 1 (Single  session) and Tier 2 (Multi-session without PII) technologies using the  text-based “cookie” technology. </p>
@@ -233,121 +237,75 @@ The Privacy Policy below explains our online  information practices.&nbsp; This 
 <p class="header"><a href="#oi9" id="oi9">Social Media Sites</a></p>
 <div>The Social Security Administration (SSA) uses third party social media  sites to increase transparency, encourage public collaboration with SSA, and in  general make our content available in other formats or forums. Please be aware  that the privacy protection provided on third party social media sites may not  be the same as the privacy protections described for SSA’s website at  www.socialsecurity.gov. While we do moderate comments or opinions made on third  party social media sites, we do not collect, maintain, or disseminate any personally  identifiable information made available to SSA by those sites or users of those  sites.</div>
         </div><!-- end .accordion --></div> 
-<div class="grid_4"><!-- end .border-left-bg --><div class="image-container"><img src="/images/privacy.jpg" width="187" height="186" alt=" "></div></div><!-- end .grid_4 -->
+<div class="grid_4"><!-- end .border-left-bg --><div class="image-container"><img src="/images/privacy.jpg" width="187" height="186" alt=""></div></div><!-- end .grid_4 -->
 
 </div></div><!-- end #content -->
 
 <!-- PAGE FOOTER -->
-<div class="container_12" id="footer" role="contentinfo">
+<div id="footer" role="contentinfo">
  <footer>
-        <div class="grid_2">
-        <ul class="indent">
-            <li>Home
-	                <ul>
-    	                <li><a href="/">English</a></li>
-                        <li><a href="/espanol/">Español</a></li>
-                        <li><a href="/multilanguage/">Other Languages</a></li>
-	                </ul>
-	        </li>
-        </ul>
-         </div>
-         <div class="grid_2">
-        <ul>
-            <li>Help
-                 <ul>
-                   <li><a href="http://ssa-custhelp.ssa.gov/" title="Frequently Asked Questions">FAQs</a></li>
-                   <li><a href="/pgm/reach.htm">Contact Us</a></li>
-                 </ul>
-            </li>
-        </ul>
-         
-         </div>
-         <div class="grid_2">
-            <ul>
-             <li>Organizational Information
-             <ul>
-              <li><a href="/sitemap.htm">Site Map</a></li> 
-              <li><a href="/aboutus/">About Us</a></li> 
-             </ul>
-            </li>
-           </ul>         
-         </div>
-         <div class="grid_2">
+    <!-- FOOTER CONTAINER -->
+    <div class="row-12">
+        <div class="column-2 no-bg">&nbsp;</div>
+        <div class="column-2">
+          <h4>Home</h4>
            <ul>
-            <li>Policy
+            <li><a href="/">English</a></li>
+            <li><a href="/espanol/">Español</a></li>
+            <li><a href="/multilanguage/">Other Languages</a></li>
+          </ul>
+         </div>
+         <div class="column-2">
+            <h4>Policy</h4>
             <ul>
-              <li><a href="/foia/">FOIA</a></li> 
-              <li><a href="/eeo/nofear/">No FEAR</a></li>            
+             <li><a href="/foia/">FOIA</a></li> 
+             <li><a href="/eeo/nofear/">No FEAR</a></li>            
              <li><a href="/privacy.html">Privacy</a></li> 
              <li><a href="/accessibility/">Web Accessibility</a></li> 
              <li><a href="/websitepolicies.htm">Website Policies</a></li> 
             </ul>           
-           </li>
-          </ul>
          </div>
-         <div class="grid_2">
-            <ul>
-            <li>Related Websites
-                <ul>
+         <div class="column-2">
+            <h4>Related Websites</h4>
+                <ul>                    
                     <li><a href="http://www.usa.gov">USA.gov</a></li>
                     <li><a href="http://www.govbenefits.gov">Benefits.gov</a></li>
                     <li><a href="http://mymoney.gov">MyMoney.gov</a></li>
-                    <li><a href="http://www.expectmore.gov">ExpectMore.gov</a></li>
                     <li><a href="http://regulations.gov">Regulations.gov</a></li>
+                    <li><a href="/pgm/other.html">Other Government Websites</a></li>
                 </ul>
-            </li>
-            </ul>
          </div>
-         <div class="grid_2 no-bg">
-            <ul>
-            <li>Follow Us On...
+         <div class="column-3 no-bg">
+            <h4>Organizational Info</h4>
                 <ul>
-                    <li><a class="disclaimer" href="http://www.facebook.com/socialsecurity">Facebook</a></li>  
-                    <li><a class="disclaimer" href="http://twitter.com/socialsecurity">Twitter</a></li> 
-                    <li><a class="disclaimer" href="http://www.youtube.com/socialsecurityonline">YouTube</a></li>
+                    <li><a href="/sitemap.htm">Site Map</a></li>  
+                    <li><a href="/aboutus/">About Us</a></li> 
                 </ul>
-            </li></ul>
         </div>
+        <div class="column-1 no-bg">&nbsp;</div>
+    </div>
+    <!-- END FOOTER CONTAINER -->
  </footer>
-</div><!-- end #footer -->
+</div>
 
 </div><!-- end #page -->
 <!-- OCOMM BODY CONTENT -->
 <!-- SCROLL TO TOP LINK -->
-<div id="top-link"><a class="rounded" href="#title-bar">Back to top</a></div>
+<div id="top-link"><a href="#title-bar">Back to top</a></div>
 
 <!-- PAGE LAST MODIFIED INFORMATION -->
-<div id="date-modified">Last reviewed or modified 08/15/2011</div>
-
-<!-- DISCLAIMER TEXT -->
-<div id="disclaimer" style="display:none;" title="External Link Disclaimer">
-<div class="bold">
-<p>You are exiting the Social Security Administration's website.</p>
-<p>You will now access:<br><a href="#" id="link"></a></p>
-<p>Select OK to proceed.</p>
-<p class="underline">Disclaimer</p>
-</div>
-<p>The Social Security Administration (SSA) website contains links to websites not affiliated with the United States government. These may include State and Local governmental agencies, international agencies, and private entities.</p>
-<p>SSA cannot attest to the accuracy of information provided by such websites. If we provide a link to such a website, this does not constitute an endorsement by SSA or any of its employees of the information or products presented on the non-SSA website.</p>
-<p>Also, such websites are not within our control and may not follow the same privacy, security or accessibility policies. Once you visit such a website, you are subject to the policies of that site.</p>
-</div><!-- end #disclaimer -->
-
-<!-- LAB JS SCRIPT LOADER -->
-<script src="/framework/js/plugins/LAB.min.js"></script>
-
-<!-- JQUERY/JQUERY UI -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>
-    window.jQuery || document.write('<script src="/framework/js/plugins/jquery.min.js"><\/script>')
-</script><script src="/framework/js/plugins/jquery.min.js"></script>
-<script>
-    jQuery.ui || document.write('<script src="/framework/js/plugins/jquery-ui.min.js"><\/script>')
-</script><script src="/framework/js/plugins/jquery-ui.min.js"></script>
+<div id="date-modified">Last reviewed or modified 05/17/2012</div>
 
 <!-- SSA FRAMEWORK -->
-<script src="/framework/js/ssa.base.js"></script>
-<script src="/framework/js/ssa.init.js"></script>
+<script src="/framework/js/ssa.framework.js"></script>
+
+<!-- SEARCH.USA.GOV SCRIPT -->
+<script>
+  //<![CDATA[
+    var aid = "ssa";
+  //]]>
+</script>
+<script src="http://search.usa.gov/javascripts/stats.js"></script>
 
 <!-- WEB TRENDS SCRIPTS -->
 <script src="/includes/wtinit.js" type="text/javascript"></script>
