@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uglii.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151802id_/http%3A//www.uglii.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uglii.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618161712id_/http%3A//www.uglii.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Uglii
 
