@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flycell.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223075746id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flycell.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618213938id_/http%3A//www.flycell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Flycell
 
@@ -34,7 +34,11 @@ Flycell operates sites on behalf of some of its customers (for example, other bu
 
 ## Changing your information
 
-To update your personal information, simply sign in to the Site and go to My Account from your personal home page. You may also contact our Support team by writing [help@flycell.com](https://web.archive.org/web/20111223075746id_/http%3A//www.flycell.com/help@flycell.com). You can make changes to your account information at any time. 
+To update your personal information, simply sign in to the Site and go to My Account from your personal home page. You may also contact our Support team by writing [help@flycell.com](https://web.archive.org/web/20120618213938id_/http%3A//www.flycell.com/help@flycell.com). You can make changes to your account information at any time. 
+
+## Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [help@flycell.com](mailto:help@flycell.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Protecting your information
 
@@ -58,11 +62,15 @@ The personal information that you provide is an important part of our business. 
 
 ## Cookies
 
-Cookies are pieces of information that your browser receives from Web sites and stores on your computer�s hard drive. Information in cookies includes preferences you select while visiting a particular Web site. For example, by storing cookies on your hard drive, you�ll return to a specific Web site with the same settings you used on a previous visit. 
+Cookies are pieces of information that your browser receives from Web sites and stores on your computer's hard drive. Information in cookies includes preferences you select while visiting a particular Web site. For example, by storing cookies on your hard drive, you�ll return to a specific Web site with the same settings you used on a previous visit. 
 
 We do require cookies in order to manage and protect your Flycell session, and if you choose, to store your e-mail address (so you don't have to type it in every time you log in). If you have cookies turned off, you will not be able to access the Flycell Service. We do link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
-In addition, 3rd-Party tracking cookies may be used to gather analytical data as it relates to website usage and content downloads. 
+In addition, 3rd-Party tracking cookies may be used to gather analytical data as it relates to website usage and content downloads. The use of cookies by our partners, affiliates, tracking utility company, or service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company and service providers use session ID cookies to make it easier for you to navigate our site or in order for you to use the shopping cart. 
+
+## Web beacons
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. 
 
 ## Log files
 
@@ -102,11 +110,9 @@ When a child who indicates that his or her age is under 13 attempts to register 
 
 ## TRUSTe Disclosure
 
-Flycell, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.flycell.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Flycell, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.flycell.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@flycell.com](mailto:support@flycell.com) or [help@flycell.com](mailto:help@flycell.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-If you have questions or concerns regarding this statement, you should first contact [support@flycell.com](https://web.archive.org/web/20111223075746id_/http%3A//www.flycell.com/support@flycell.com) or [help@flycell.com](mailto:help@flycell.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactory addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. 
-
-Flycell Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Flycell Inc. will respond to your request to access or delete personal information within 30 days as is required under the EU Safe Harbor program. 
+Acotel Interactive, Inc. d/b/a Flycell, Inc. complies with the U.S. - EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Acotel Interactive, Inc. d/b/a Flycell, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Acotel Interactive, Inc. d/b/a Flycell, Inc.'s certification, please visit <http://www.export.gov/safeharbor/>. 
 
 ## Ownership
 
@@ -115,11 +121,11 @@ Flycell, Inc. owns and operates Flycell and the Sites and is the sole owner of t
 ## Contact Information
 
 Flycell, Inc.  
-120 Broadway 15th Floor  
-New York, NY 10271   
+80 Pine St. 29th Floor  
+New York, NY 10005   
 [support@flycell.com](mailto:support@flycell.com)   
 [help@flycell.com](mailto:help@flycell.com)
 
-## Last Updated July 31, 2008
+## Last Updated May 16, 2012
 
-Copyright 2008 © Flycell, Inc. 
+Copyright 2012 © Flycell, Inc. 
