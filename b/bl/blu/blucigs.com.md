@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227054128id_/http%3A//www.blucigs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618144709id_/http%3A//www.blucigs.com/privacy-policy) for the most accurate reproduction.*
 
 # blu Cigs Privacy Policy | Electronic Cigarettes by blu Cigs | FREE SHIPPING
 
@@ -8,12 +8,12 @@
 
 **blu** has established a privacy policy with the mission of building member trust and confidence by promoting the use of fair information practices. If you have questions or concerns regarding this statement, you should first contact [billing@blucigs.com](mailto:billing@blucigs.com).
 
-This site is owned and operated by **blu**
+This site is owned and operated by LOEC, Inc dba **blu ecigs**
 
-**blu**  
-401 N. Tryon Street   
-Suite 1080 10th Floor   
-Charlotte, NC 28202 
+**blu eCigs**  
+One Pinebrook Plaza Suite 250  
+9101 Southern Pine Boulevard  
+Charlotte, NC 28273 
 
 Customer Service Department: 1.888.207.4588 
 
