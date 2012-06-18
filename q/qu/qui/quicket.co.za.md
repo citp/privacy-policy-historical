@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quicket.co.za privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231042130id_/http%3A//www.quicket.co.za/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicket.co.za privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618184440id_/http%3A//www.quicket.co.za/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Quicket - Privacy Policy
 
-Welcome to the www.Quicket.co.za website (including all webpages, subdomains and subparts therein contained, the "Site") of Bunker Hills Investments 313 Pty (Ltd) t/a Quicket ("Quicket", "we", "us" and/or "our"). The Site has been created (i) to provide information about Quicket, (ii) to provide customized online event management, registration and ticketing services (the "Quicket Services"), and (iii) to provide information about events listed on the Site. 
+Welcome to the www.Quicket.co.za website (including all webpages, subdomains and subparts therein contained, the "Site") of Munyhub Online Ticketing (Pty) Ltd t/a Quicket ("Quicket", "we", "us" and/or "our"). The Site has been created (i) to provide information about Quicket, (ii) to provide customized online event management, registration and ticketing services (the "Quicket Services"), and (iii) to provide information about events listed on the Site. 
 
 This Privacy Policy sets forth Quicket's policy with respect to information, including personally identifiable information ("Personal Data"), that is collected from Site users and visitors (including through those users' and visitors' agents) ("you" or "your"), including (i) registered users who are event organizers and planners ("Organizers"), (ii) registered users who want to purchase tickets to, register for or donate to events (whether free or paid) listed by Organizers on the Site ("Buyers"), and (iii) other non-Organizer users or visitors to the Site ("other non-Organizers"). 
 
