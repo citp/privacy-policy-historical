@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburysbank.co.uk privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209214455id_/http%3A//www.sainsburysbank.co.uk/savings/legal_regulatory_privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburysbank.co.uk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618050232id_/http%3A//www.sainsburysbank.co.uk/savings/legal_regulatory_privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,7 +67,7 @@ top
 
 We may use your account details, transactions and information provided to us by third parties in our customer contact programme. Occasionally, we and other parts of J Sainsbury plc, may contact you by letter, telephone, e-mail and text message or otherwise to inform you about other products and services that may interest you. We try to limit our customer contact programme to acceptable levels, but if you wish to exercise your right to opt out, simply write to us at Freepost RRZC-LYZB-SKYA, Sainsbury's Bank, PO Box 445, Halifax, HX1 9GN. Alternatively, you may e-mail us at [sainsburysnocontact@st-ives.co.uk](mailto:sainsburysnocontact@st-ives.co.uk)
 
-Please confirm your name and address on all communications.  Your request may take up to feight weeks to action.
+Please confirm your name and address on all communications.  Your request may take up to eight weeks to action.
 
 **Please note however that opting out could stop us contacting you about any of our products or services that may benefit you. For example, you may not hear about a new savings product  that offers you a better rate or a discount that may save you money.**
 
