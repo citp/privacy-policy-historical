@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 24hourhiphop.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113173906id_/http%3A//24hourhiphop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourhiphop.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618163415id_/http%3A//24hourhiphop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « 24HourHipHop.com
+
+## Privacy Policy
 
   1. **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
 
