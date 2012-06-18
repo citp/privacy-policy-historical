@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the zmogo.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121015444id_/http%3A//www.zmogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmogo.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618075434id_/http%3A//www.zmogo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | zMogo Tech Stuff
+
+  
+
 
 **Privacy Policy for zmogo.com**
 
