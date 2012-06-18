@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ericlofholm.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128121707id_/http%3A//www.saleschampion.com/eric-lofholm/company-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericlofholm.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618200052id_/http%3A//www.saleschampion.com/eric-lofholm/company-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sales Training
-
-PRIVACY POLICY
+# Privacy Policy | Eric Lofholm Training For Sales Mastery
 
 Eric Lofholm International Inc. takes pride in creating richer, deeper interactive experiences that combines original, independent and user-generated content.
 
@@ -28,15 +26,15 @@ We also use technologies, including electronic images known as Web bugs-sometime
 
 We use cookies and tracking technologies in a variety of ways, including:
 
-  1. Keeping count of return visits to our site or our advertisers' or partners' sites;
+  1. Keeping count of return visits to our site or our advertisers’ or partners’ sites;
   2. Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage;
   3. Determining which features our overall user population likes best;
-  4. Saving your password so you don't have to re-enter it each time you visit our sites;
+  4. Saving your password so you don’t have to re-enter it each time you visit our sites;
   5. Displaying the most appropriate advertising or content based on your interests.
 
 
 
-We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
+We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers’ use of tracking technology is subject to their own privacy policies.
 
 **3\. How does SalesChampion.com use the information?**
 
@@ -59,7 +57,7 @@ We will make your personally identifiable information available to other compani
   2. You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms, photo sharing or other forms of public communication and interaction.
   3. You use cobranded services (i.e., sites or services that we offer to you in connection with a partner, who is identified on the site). When you use a cobranded service within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies.
   4. We hire third-party vendors to provide specialized services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use.
-  5. You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person's list of people to whom they may not send emails.
+  5. You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person’s list of people to whom they may not send emails.
   6. You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process.
   7. When required by law, such as when we respond to subpoenas, court orders, or legal process.
   8. We believe that your actions violate applicable laws, Eric Lofholm International Inc.  Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others.
@@ -87,7 +85,7 @@ We also give users the following options:
 
 **6\. How can I review and update my personally identifiable information?**
 
-You can review, correct, or change the information collected during registration for any of our sites by calling our main office at 916-789-9966.  Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can call our main office or use the "contact us" page on this site to send us an e-mail.
+You can review, correct, or change the information collected during registration for any of our sites by calling our main office at 916-789-9966.  Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can call our main office or use the “contact us” page on this site to send us an e-mail.
 
 **7\. How will I know if the privacy policy is changed?**
 
@@ -95,10 +93,10 @@ Any modifications to our privacy practices will be reflected first within this a
 
 **8\. Privacy of children**
 
-None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age.
+None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the Children’s Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age.
 
 **Questions, Comments**
 
 Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent to our main office at 6518 Lonetree Blvd., Rocklin, CA 95765, Phone (916) 789-9966. We read every message submitted. We may also file your comments to improve the site, or review and discard the information.
 
-Effective date: Nov 26, 2010 
+Effective date: Nov 26, 2010
