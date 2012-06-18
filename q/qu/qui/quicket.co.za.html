@@ -1,28 +1,12 @@
-<!--The following is the downloaded HTML source of the quicket.co.za privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231042130id_/http%3A//www.quicket.co.za/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quicket.co.za privacy policy that was archived on 2012-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618184440id_/http%3A//www.quicket.co.za/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
     
     
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 	Quicket - Privacy Policy
-</title><meta property="fb:page_id" content="203195039742896"><link href="/styles/css/styles.css" rel="stylesheet" type="text/css"><link rel="Stylesheet" href="/scripts/plugins/facebook-multi-friend/jquery.facebook.multifriend.select.css"><link rel="Stylesheet" href="/scripts/jquery/uploader/fileuploader.css"><link href="/scripts/themes/base/jquery.ui.all.css" rel="Stylesheet" type="text/css"><link href="/scripts/plugins/fancybox/jquery.fancybox-1.3.4.css" rel="Stylesheet" type="text/css">
-    
-    <script type="text/javascript" async="" src="https://oggchat2.icoa.com/js/oggwindow.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery-1.6.1.min.js"></script>
-    <script type="text/javascript" src="/scripts/plugins/facebook-multi-friend/jquery.facebook.multifriend.select.js"></script>
-    <script type="text/javascript" src="/scripts/plugins/jquery.tools.min.js"></script>
-    <script type="text/javascript" src="/scripts/plugins/copy/zclip.js"></script>
-    <script type="text/javascript" src="/scripts/jquery/ui/jquery-ui-1.8.14.custom.js"></script>
-    <script type="text/javascript" src="/scripts/jquery/ui/jquery.ui.datepicker.min.js"></script>
-    
-
-    <script type="text/javascript" src="/scripts/jquery/uploader/fileuploader.js"></script>
-
-    <script type="text/javascript" src="/scripts/plugins/form/jquery.form.js"></script>
-    <script type="text/javascript" src="/scripts/serviceproxy.js"></script>
-    <script type="text/javascript" src="/scripts/quicketjsapi.js"></script>
-    <script type="text/javascript" src="/scripts/plugins/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+</title><meta property="fb:page_id" content="203195039742896"><link rel="stylesheet" type="text/css" href="/styles/cached_css.css?r=3D5BE1CF1796BF7EFE903DEFD772FF2D"><script type="text/javascript" async="" src="https://oggchat2.icoa.com/js/oggwindow.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/cached_js.js?r=798EDAF338C5C475460A9DC5BCA04B8A"></script><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <script type="text/javascript">
         $(document).ready(function () {
             $(".error-message").click(function () { $(this).fadeOut("slow"); });
@@ -44,22 +28,7 @@
                 });
             });
 
-            $('#feedbacktablink').click(function () {
-                showFeedBack();
-                return false;
-            });
-
-            $('#btnSendFeedback').click(function (e) {
-                e.preventDefault();
-                sendFeedBack();
-                return false;
-            });
-
-            $('#btnCancelFeedback').click(function (e) {
-                e.preventDefault();
-                showFeedBack();
-                return false;
-            });
+            
         });
 
         var logoutFacebook = function () {
@@ -70,36 +39,6 @@
             if (val.isValid) { $("#ErrorMessageWrapper").fadeOut("slow"); }
             else { ValidationSummaryOnSubmit(); $("#ErrorMessageWrapper").fadeIn("slow"); }
         }
-         
-        var shown = false;
-        function showFeedBack() {
-            if (shown == false) {
-                $('.feedback').animate({ left: '0' }, 400);
-                shown = true;
-            }
-            else {
-                $('.feedback').animate({ left: '-547' }, 400);
-                shown = false;
-            }
-
-        }
-
-        function sendFeedBack() {
-            $('#feedBackActions').hide();
-            $('#feedbackwaiting').show();
-            quicket.SubmitFeedback($('#txtNameFeedback').val(), $('#txtEmailFeedback').val(), $('#txtCommentsFeedback').val(), function (data) {
-                $('#feedBackActions').show();
-                $('#feedbackwaiting').hide();
-                if (data != '') {
-                    $('#feedbackerrors').html(data);
-                    return;
-                }
-                $('#txtCommentsFeedback').val('');
-                showFeedBack();
-            });
-
-        }
-
     </script>
     <style type="text/css">
         .error-message ul li{text-align:center;}
@@ -146,6 +85,7 @@
             });
             $(window).triggerHandler('fbAsyncInit')            
             var button = $("#fb-auth");
+            button.show();
             var fbLoading = $("#fb-loading");
             button.unbind('click');
             
@@ -170,6 +110,11 @@
                                     {
                                        _gaq.push(['_trackEvent', 'Registration', 'Click', '']);
                                     }    
+                                    if (r == "emailexists")
+                                    {
+                                        alert("Cannot login with or register Facebook, your email address already exists on our system, please sign in using Quickets signin process");                                        
+                                        return;
+                                    }
                                      
                                 });
                             });
@@ -197,6 +142,11 @@
                                             {
                                                 _gaq.push(['_trackEvent', 'Registration', 'Click', '']);
                                             }  
+                                            if (r == "emailexists")
+                                            {
+                                                alert("Cannot login or register with Facebook, your email address already exists on our system, please sign in using Quickets signin process.");
+                                                return;
+                                            }
                                              
                                         
                                         });
@@ -216,9 +166,8 @@
         };
     </script>
     <form method="post" action="privacy-policy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAmYPZBYCAgEPZBYaAgMPFgIeBWNsYXNzBQRsb2dvZAIGDxYCHgtfIUl0ZW1Db3VudAIGFgxmD2QWAgIBDw8WAh4EVGV4dAVOPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucXVpY2tldC5jby56YS9ob3ctaXQtd29ya3MuYXNweCI+aG93IGl0IHdvcmtzPC9hPjwvbGk+ZGQCAQ9kFgICAQ8PFgIfAgVPPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucXVpY2tldC5jby56YS9saXN0cHJvZHVjdHMuYXNweCI+YnJvd3NlIGV2ZW50czwvYT48L2xpPmRkAgIPZBYCAgEPDxYCHwIFVzxsaT48YSBocmVmPSJodHRwOi8vd3d3LnF1aWNrZXQuY28uemEvYWNjb3VudC9ldmVudHMvY3JlYXRlLmFzcHgiPmNyZWF0ZSBldmVudDwvYT48L2xpPmRkAgMPZBYCAgEPDxYCHwIFTjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnF1aWNrZXQuY28uemEvcXVpY2tldC1zZWN1cml0eS5hc3B4Ij5zZWN1cml0eTwvYT48L2xpPmRkAgQPZBYCAgEPDxYCHwIFPjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnF1aWNrZXQuY28uemEvZmVlcy5hc3B4Ij5mZWVzPC9hPjwvbGk+ZGQCBQ9kFgICAQ8PFgIfAgVUPGxpIGNsYXNzPSJyaWdodCI+PGEgaHJlZj0iaHR0cDovL3d3dy5xdWlja2V0LmNvLnphL2NvbnRhY3R1cy5hc3B4Ij5jb250YWN0PC9hPjwvbGk+ZGQCCA8PFgIeC05hdmlnYXRlVXJsBRlodHRwOi8vd3d3LnF1aWNrZXQuY28uemEvZGQCCQ8PFgIfAwUqaHR0cDovL3d3dy5xdWlja2V0LmNvLnphL2hvdy1pdC13b3Jrcy5hc3B4ZGQCCg8PFgIfAwUiaHR0cDovL3d3dy5xdWlja2V0LmNvLnphL2ZlZXMuYXNweGRkAgsPDxYCHwMFJ2h0dHA6Ly93d3cucXVpY2tldC5jby56YS9jb250YWN0dXMuYXNweGRkAgwPDxYCHwMFM2h0dHA6Ly93d3cucXVpY2tldC5jby56YS9hY2NvdW50L2V2ZW50cy9jcmVhdGUuYXNweGRkAg0PDxYCHwMFKmh0dHA6Ly93d3cucXVpY2tldC5jby56YS9saXN0cHJvZHVjdHMuYXNweGRkAg4PDxYCHwMFJWh0dHA6Ly93d3cuZmFjZWJvb2suY29tL1F1aWNrZXQuY28uemFkZAIPDw8WAh8DBSBodHRwOi8vd3d3LnR3aXR0ZXIuY29tL1F1aWNrZXRzYWRkAhAPDxYCHwMFLmh0dHA6Ly93d3cucXVpY2tldC5jby56YS9xdWlja2V0LXNlY3VyaXR5LmFzcHhkZAIRDw8WAh8DBSxodHRwOi8vd3d3LnF1aWNrZXQuY28uemEvcHJpdmFjeS1wb2xpY3kuYXNweGRkAhIPDxYCHwMFMmh0dHA6Ly93d3cucXVpY2tldC5jby56YS90ZXJtcy1hbmQtY29uZGl0aW9ucy5hc3B4ZGRkUbyUjaMgiWO/QS2LNIcpYvDhXSE=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAmYPZBYCAgEPZBYaAgcPFgIeBWNsYXNzBQRsb2dvZAINDxYCHgtfIUl0ZW1Db3VudAIGFgxmD2QWAgIBDw8WAh4EVGV4dAVOPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucXVpY2tldC5jby56YS9ob3ctaXQtd29ya3MuYXNweCI+aG93IGl0IHdvcmtzPC9hPjwvbGk+ZGQCAQ9kFgICAQ8PFgIfAgVPPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cucXVpY2tldC5jby56YS9saXN0cHJvZHVjdHMuYXNweCI+YnJvd3NlIGV2ZW50czwvYT48L2xpPmRkAgIPZBYCAgEPDxYCHwIFVzxsaT48YSBocmVmPSJodHRwOi8vd3d3LnF1aWNrZXQuY28uemEvYWNjb3VudC9ldmVudHMvY3JlYXRlLmFzcHgiPmNyZWF0ZSBldmVudDwvYT48L2xpPmRkAgMPZBYCAgEPDxYCHwIFTjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnF1aWNrZXQuY28uemEvcXVpY2tldC1zZWN1cml0eS5hc3B4Ij5zZWN1cml0eTwvYT48L2xpPmRkAgQPZBYCAgEPDxYCHwIFPjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnF1aWNrZXQuY28uemEvZmVlcy5hc3B4Ij5mZWVzPC9hPjwvbGk+ZGQCBQ9kFgICAQ8PFgIfAgVUPGxpIGNsYXNzPSJyaWdodCI+PGEgaHJlZj0iaHR0cDovL3d3dy5xdWlja2V0LmNvLnphL2NvbnRhY3R1cy5hc3B4Ij5jb250YWN0PC9hPjwvbGk+ZGQCEQ8PFgIeC05hdmlnYXRlVXJsBRlodHRwOi8vd3d3LnF1aWNrZXQuY28uemEvZGQCEw8PFgIfAwUqaHR0cDovL3d3dy5xdWlja2V0LmNvLnphL2hvdy1pdC13b3Jrcy5hc3B4ZGQCFQ8PFgIfAwUiaHR0cDovL3d3dy5xdWlja2V0LmNvLnphL2ZlZXMuYXNweGRkAhcPDxYCHwMFJ2h0dHA6Ly93d3cucXVpY2tldC5jby56YS9jb250YWN0dXMuYXNweGRkAhkPDxYCHwMFM2h0dHA6Ly93d3cucXVpY2tldC5jby56YS9hY2NvdW50L2V2ZW50cy9jcmVhdGUuYXNweGRkAhsPDxYCHwMFKmh0dHA6Ly93d3cucXVpY2tldC5jby56YS9saXN0cHJvZHVjdHMuYXNweGRkAh0PDxYCHwMFJmh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9RdWlja2V0LmNvLnphZGQCHw8PFgIfAwUhaHR0cHM6Ly93d3cudHdpdHRlci5jb20vUXVpY2tldHNhZGQCIQ8PFgIfAwUuaHR0cDovL3d3dy5xdWlja2V0LmNvLnphL3F1aWNrZXQtc2VjdXJpdHkuYXNweGRkAiMPDxYCHwMFLGh0dHA6Ly93d3cucXVpY2tldC5jby56YS9wcml2YWN5LXBvbGljeS5hc3B4ZGQCJQ8PFgIfAwUyaHR0cDovL3d3dy5xdWlja2V0LmNvLnphL3Rlcm1zLWFuZC1jb25kaXRpb25zLmFzcHhkZGTBc4AbCjXhRY5eBwMggTMosVJE7w==">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKT2tSwBQKJ7pD4DgLKjfKIDIZakaJxveARq9VdV03Qhy/EFuaV">
     <div id="ErrorMessageWrapper" class="error-message" style="display: none;">
         <span id="ErrorMessage"></span>
     </div>
@@ -241,7 +190,7 @@
                     
                             <div class="lightgreen floatl">
                                 
-                                    <a onclick="_gaq.push(['_trackEvent', 'SignUp', 'MasterPage', 'Button']);" href="/account/register.aspx?returnurl=http%3a%2f%2fwww.quicket.co.za%2fprivacy-policy.aspx">sign up</a>
+                                    <a onclick="_gaq.push(['_trackEvent', 'SignUp', 'MasterPage', 'Button']);" href="/account/register.aspx?returnurl=http%3a%2f%2fwww.quicket.co.za%2fprivacy-policy.aspx">register</a>
                                 
                             </div>
                             <div class="darkgreen floatl" style="margin-left: 10px;">
@@ -288,7 +237,7 @@
     <h1>Quicket Privacy Policy:</h1> <p>
 
 Welcome to the www.Quicket.co.za website (including all webpages, subdomains and
-subparts therein contained, the "Site") of Bunker Hills Investments 313 Pty (Ltd) t/a Quicket
+subparts therein contained, the "Site") of Munyhub Online Ticketing (Pty) Ltd t/a Quicket
 ("Quicket", "we", "us" and/or "our"). The Site has been created (i) to provide information
 about Quicket, (ii) to provide customized online event management, registration and ticketing
 services (the "Quicket Services"), and (iii) to provide information about events listed on the
@@ -606,9 +555,9 @@ You may contact us at the following address: http://www.Quicket.co.za/contactus.
                     NETWORK</h4>
                 <ul>
                     <li>
-                        <a id="lnkFooterFacebook" href="http://www.facebook.com/Quicket.co.za" target="_blank">Facebook</a></li>
+                        <a id="lnkFooterFacebook" href="https://www.facebook.com/Quicket.co.za" target="_blank">Facebook</a></li>
                     <li>
-                        <a id="lnkFooterTwitter" href="http://www.twitter.com/Quicketsa" target="_blank">Twitter</a></li>
+                        <a id="lnkFooterTwitter" href="https://www.twitter.com/Quicketsa" target="_blank">Twitter</a></li>
                 </ul>
             </div>
             <div class="set right">
@@ -626,54 +575,7 @@ You may contact us at the following address: http://www.Quicket.co.za/contactus.
         </div>
     </div>
     <!-- footer -->
-    <div class="feedback">
-        <a class="feedbacktab" id="feedbacktablink" href="http://www.quicket.co.za/contactus.aspx">
-        </a>
-        <h2>
-            Send us feedback</h2>
-        <fieldset>
-            <div id="feedbackerrors">
-            </div>
-            Please send us comments and suggestions so we can improve Quicket!
-            <div class="clear h15">
-            </div>
-            <ul>
-                <li>
-                    <label>
-                        Name <span class="required">*</span></label>
-                    <input name="txtNameFeedback" id="txtNameFeedback" type="text" class="input">
-                </li>
-                <li>
-                    <label>
-                        Email Address <span class="required">*</span></label>
-                    <input name="txtEmailFeedback" id="txtEmailFeedback" type="text" class="input">
-                </li>
-                <li>
-                    <label>
-                        Comments <span class="required">*</span></label>
-                    <textarea rows="6" class="textarea" name="txtCommentsFeedback" id="txtCommentsFeedback"></textarea>
-                </li>
-            </ul>
-            <div class="actionbuttonsmall actionbuttonnoshadow floatr" id="feedBackActions">
-                <div class="lightgreen floatl" style="margin-right:20px;">
-                    <a id="btnCancelFeedback" href="javascript:__doPostBack('ctl00$ctl00$btnCancelFeedback','')">Cancel</a>
-                </div>
-                <div class="orange floatl">
-                    <a id="btnSendFeedback" href="javascript:__doPostBack('ctl00$ctl00$btnSendFeedback','')">Send</a>
-                </div>
-                
-            </div>
-            <div class="clear h5">
-            </div>
-            <div id="feedbackwaiting" style="display: none;">
-                <img src="/images/ajax-loader.gif" style="margin-right: 15px; line-height: 32px;
-                    vertical-align: middle;"><span style="line-height: 32px;">We are busy sending your
-                        feedback, thank you.</span>
-            </div>
-            <div class="clear">
-            </div>
-        </fieldset>
-    </div>
+    
     <script type="text/javascript">
         (function () {
             var e = document.createElement('script'); e.async = true;
