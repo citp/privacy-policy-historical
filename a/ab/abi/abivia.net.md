@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abivia.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101230609id_/http%3A//www.abivia.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abivia.net privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618142357id_/http%3A//www.abivia.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Abivia Web Development and Hosting
+# Privacy Policy - Abivia Web Hosting and Web Site Development
 
 Your privacy is important to us. We recognize and respect your need for appropriate protection and management of the personal information that you share with us. We are aware of concerns over what happens to personal information that is gathered over the Internet. Our philosophy is to ensure quality for you in all facets of your experience, including your comfort while online with us.
 
