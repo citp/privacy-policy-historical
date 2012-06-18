@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawsociety.org.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005159id_/http%3A//www.lawsociety.org.uk/privacystatement.law) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawsociety.org.uk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618113426id_/http%3A//www.lawsociety.org.uk/privacystatement.law) for the most accurate reproduction.*
 
 # The Law Society
 
@@ -75,15 +75,7 @@ At all times, The Law Society will control and be responsible for the use of you
 
 ## **Cookies**
 
-Cookies are small text files that are placed on your computer while you are visiting a website. Cookies help to make websites work. They also provide us with information about how users interact with our site. We use this information to improve your experience on our website.
-
-We do not use cookies to collect information that identifies you personally. 
-
-The law about cookies changed in May 2011. Websites must get your agreement before they set a cookie on your computer or handheld device.
-
-We are working to find the best way to get your agreement to set cookies without disrupting your experience of our website. 
-
-In the meantime, you can tell your web browser to notify you whenever a website attempts to set a cookie. You can also tell your browser to refuse all cookies, although doing so will affect your experience of many websites.
+Please see our separate page on [cookies](https://web.archive.org/cookies.page). 
 
 ## **Payment details**
 
