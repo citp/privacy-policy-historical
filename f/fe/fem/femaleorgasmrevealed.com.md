@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the femaleorgasmrevealed.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230115510id_/http%3A//www.femaleorgasmrevealed.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femaleorgasmrevealed.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618054743id_/http%3A//www.femaleorgasmrevealed.com/new/privacy.html) for the most accurate reproduction.*
 
-# The Female Orgasm Revealed - Privacy Policy
+# Privacy Policy
 
 ** Privacy Policy**
 
@@ -28,4 +28,4 @@ We can be reached by contacting:
 
 www.femaleorgasmrevealed.com
 
-Email: support@portepublishing.com
+Gabrielle Moore's Customer Service: [**www.GabrielleMoore.com/support**](http://www.gabriellemoore.com/support)
