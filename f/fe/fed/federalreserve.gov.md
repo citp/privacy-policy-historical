@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130706id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618173813id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
 
 # FRB: Privacy
 
@@ -55,7 +55,7 @@ The Board’s website is part of a Federal computer system used to accomplish Fe
 
 ##  How to Contact Us about the Website 
 
-If you have a question about the way your information is used in connection with this website or about the Board's privacy policy and information practices, you may send an online [Privacy Policy Comment](https://web.archive.org/web/20111101130706id_/http%3A//www.federalreserve.gov/feedback.cfm) or send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551. 
+If you have a question about the way your information is used in connection with this website or about the Board's privacy policy and information practices, you may send an online [Privacy Policy Comment](https://web.archive.org/web/20120618173813id_/http%3A//www.federalreserve.gov/feedback.cfm) or send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551. 
 
 ##  Responsibility 
 
@@ -71,7 +71,7 @@ The Board complies with the E-Government Act of 2002. The Act requires an agency
 
 [Consumer Advisory Council Web Nomination System (PDF)](https://web.archive.org/files/pia_cac_wns.pdf)
 
-[Consumer Complaint and Inquiry Systems (PDF)](https://web.archive.org/files/pia_ccis.pdf)
+[Consumer Complaint and Inquiry Systems (PDF)](https://web.archive.org/files/pia-ccis.pdf)
 
 [Document Management System for Division of Banking Supervision and Regulation and Division of Consumer and Community Affairs (PDF)](https://web.archive.org/files/pia_bsr_dcca_docmgmt.pdf)
 
@@ -84,6 +84,10 @@ The Board complies with the E-Government Act of 2002. The Act requires an agency
 [Fair Lending Tool (PDF)](https://web.archive.org/files/pia_fairlendingtool.pdf)
 
 [Federal Reserve Application Name Check System (PDF)](https://web.archive.org/files/pia_francsys.pdf)
+
+[International Training Course On-Line Registration System (PDF)](https://web.archive.org/files/pia-itcolrs.pdf)
+
+[Nationwide Mortgage Licensing System and Registry (PDF)](https://web.archive.org/files/pia-nmlsr.pdf)
 
 [Office of Inspector General Information Technology Infrastructure Systems (PDF)](https://web.archive.org/files/pia_oig_it.pdf)
 
