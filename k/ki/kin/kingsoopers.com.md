@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsoopers.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219211014id_/http%3A//www.kingsoopers.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsoopers.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618170802id_/http%3A//www.kingsoopers.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # King Soopers - Company Information - Privacy Policy
 
