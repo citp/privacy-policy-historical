@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rcn.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228113919id_/http%3A//www.rcn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcn.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618031642id_/http%3A//www.rcn.com/privacy-policy) for the most accurate reproduction.*
 
-# RCN | Policies & Disclaimers | Privacy Policy
+# RCN D.C. Metro | Policies & Disclaimers | Privacy Policy
 
 ### RCN Privacy Policy 
 
