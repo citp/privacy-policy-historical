@@ -1,17 +1,31 @@
-> *The following text is extracted and transformed from the imgcentral.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513193502id_/http%3A//www.imgcentral.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgcentral.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618084244id_/http%3A//imgcentral.com/about) for the most accurate reproduction.*
 
-# Welcome to MultiHoster, a free image upload solution. Simply browse, select, and upload!
+# Privacy | Tattoo and Piercing Gallery
 
-MultiHoster policy is to respect and protect the privacy of our users. MultiHoster will not disclose your personal information to third parties without your consent.
+Privacy Policy for www.imgcentral.com
 
-MultiHoster will not sell or give your email address to anyone and you will never be placed on any lists. However, MultiHoster may disclose your information when MultiHoster believes in good faith that the law requires it.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email
 
-MultiHoster may use your email address to inform you about MultiHoster major service changes, important updates, or special promotions.
+At www.imgcentral.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.imgcentral.com and how it is used.
 
-MultiHoster website record your IP address but uses it only for internal purposes. It will never be given to any other person/company/website for any reason.
+Log Files  
+Like many other Web sites, www.imgcentral.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-MultiHoster website uses cookies only to maintain your information as you move throughout this site. A cookie is a small piece of information used to identify an individual when the person is accessing a site. At no time is any personal information stored in a cookie, nor is any tracking information made available to other sites for any reason.
+Cookies and Web Beacons  
+www.imgcentral.com does not use cookies.
 
-MultiHoster reserve the right to change this Policy anytime without prior notification. In this case the new Policy will be published at http://www.imgcentral.com/info.php?act=privacy_policy
+DoubleClick DART Cookie  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.imgcentral.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.imgcentral.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-If you have any question, please do not hesitate to [Contact us](http://www.imgcentral.com/contact.php?act=contact_us). 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.imgcentral.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.imgcentral.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.imgcentral.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
