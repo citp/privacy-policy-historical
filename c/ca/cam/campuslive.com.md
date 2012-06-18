@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the campuslive.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109180808id_/http%3A//www.campuslive.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campuslive.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618181632id_/http%3A//www.campuslive.com/info/privacy) for the most accurate reproduction.*
 
-# CampusLIVE at UMass - College is a Game.
+# CampusLIVE - Bite-Sized Contests About Stuff You Love
 
 The web site www.campuslive.com ("the Web site") is provided by CampusLIVE, Inc. ("CampusLIVE"). Throughout this Privacy Policy ("Policy") the words "we," "us," and "our" refer to CampusLIVE and its corporate affiliates. By accessing or using this Web site or by registering as a member of this Web site, you consent to the use of your Personal Data (defined below) as described in this Policy. This Policy applies to all users of the Web site, including users who are also registered members. If you are unwilling to consent to our collection and use of your Personal Data as described in this Policy or to accept the terms in the [Terms of Use](https://web.archive.org/info/terms) that apply to use of the Web site, you should not use the Web site.
 
