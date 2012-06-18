@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachaudio.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219193815id_/http%3A//www.beachaudio.com/info.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachaudio.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618031108id_/http%3A//www.beachaudio.com/info.php%23Privacy) for the most accurate reproduction.*
 
 # Beach Audio - About Us | Customer Help Center : Consumer Electronics, Video Games, Cables, Appliances, and much more!
 
@@ -17,7 +17,7 @@ All items we sell are BRAND NEW and FACTORY SEALED. We do not sell any refurbish
 
 We are quite proud of the ratings and testimonials we receive from independent sources. 
 
-Please visit our [Ratings & Testimonials](https://web.archive.org/web/20111219193815id_/http%3A//www.beachaudio.com/testimonials.php) page to see for yourself!
+Please visit our [Ratings & Testimonials](https://web.archive.org/web/20120618031108id_/http%3A//www.beachaudio.com/testimonials.php) page to see for yourself!
 
 ###  Sales and Support 
 
@@ -44,7 +44,7 @@ International orders are an important part of how we serve our customers around 
 
 To place an order for international shipment, browse our web site and add items to your cart as usual. On the cart page, under "Shipping Options", there is a button that reads "International Checkout". After you have added all the items you wish to purchase to your cart, click that button. 
 
-The contents of your cart will automatically be transferred to our partner '[InternationalCheckout.com](http://www.internationalcheckout.com/)' where you will complete the order process. The friendly and professional people at International Checkout will process your order as well as handle all inquiries regarding your international order. Inquiries should be directed to cs@InternationalCheckout.com.
+The contents of your cart will automatically be transferred to our partner '[bongous.com](https://bongous.com/)' where you will complete the order process.The friendly and professional people at Bongo International will process your order as well as handle all inquiries regarding your international order.
 
 ###  Pricing/Description Mistakes
 
