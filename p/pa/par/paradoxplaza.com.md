@@ -1,59 +1,72 @@
-> *The following text is extracted and transformed from the paradoxplaza.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207043738id_/http%3A//www.paradoxplaza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paradoxplaza.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618184339id_/http%3A//www.paradoxplaza.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Paradox Interactive
+# Paradox Interactive AB - Paradox Interactive
 
-## Privacy Statement for www.paradoxplaza.com
+**Privacy Policy**
 
-This privacy statement was last updated on November 27, 2006. Paradox Interactive (the Company”) created this privacy statement in order to disclose the information gathering and dissemination practices for the Company and the Web site at [www.paradoxplaza.com](http://www.paradoxplaza.com/ "www.paradoxplaza.com") (the "Web Site"). Upon reading this privacy statement, you will know:
+Paradox Interactive AB, and its subsidiaries and affiliates (“Paradox Interactive,” “we” or “us”) respect your privacy and are committed to complying fully with United States laws and regulations regarding online privacy protection, and any information you provide to Paradox Interactive via www.paradoxplaza.com and its subsidiary sites (collectively, the “Site”), will be treated in accordance with those laws and regulations and as set forth herein this privacy policy (the “Privacy Policy”). Visitors to the Site from outside the United States are advised that this Privacy Policy is intended to meet the laws and requirements of the United States, which may not be the same as the laws and regulations of your home country.
 
-  1. What personally identifiable information of yours or third party personally identifiable information is collected from you by the Company through the Web Site?
-  2. The organization collecting the information.
-  3. How the information is used.
-  4. With whom the information may be shared.
-  5. What choices are available to you regarding collection, use and distribution of the information?
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under the Company's control.
-  7. How you can access and correct any inaccuracies in the information collected about you.
+We are providing you with this Privacy Policy in order to inform you of our policies with respect to information collected from visitors to the Site. Your use of the Site constitutes your acceptance of this Privacy Policy and your consent to the practices it describes. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITE.
 
+ **1\. Automatic Collection of Anonymous Information**  
+Paradox Interactive may collect information including internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We collect this information in the form of log files so that we can analyze trends, administer the site, track users’ movement in the aggregate, and gather broad demographic information for aggregate use. Log files are not linked to Personally Identifiable Information (defined below).  Additionally, we may use a tracking utility that uses log files to analyze user movement.
 
+ **2\. Personally Identifiable Information**
 
-Questions regarding this statement should be directed to the Web administrator by emailing [marketing@paradoxplaza.com](mailto:marketing@paradoxplaza.com).
+Personally identifiable information is any information that concerns you individually and would permit someone to contact you, for example, your name, address, telephone/fax number, e-mail address, any credit card information you submit to the site, or any information you submit to the Site that identifies you individually (“Personally Identifiable Information”).
 
-## Web Site Privacy Statement
+We will not collect any Personally Identifiable Information about you unless you provide it. Therefore, if you do not want Paradox Interactive to obtain any Personally Identifiable Information about you, do not submit it.
 
-The Company will not share your information with outside parties unless otherwise required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on this Web site or us. The Company is the sole owner of the information gathered on this site. In addition, we do not collect or maintain information from those actually known to be under the age of 13, and no part of our site is structured to attract anyone under the age of 13.
+You can visit and browse the Site without revealing Personally Identifiable Information about yourself. You may also choose to disclose Personally Identifiable Information about yourself, which may be maintained as described below. We may collect Personally Identifiable Information about you through registration forms, which may require you to provide, without limitation, your name, e-mail address, postal address, telephone number, birth date, areas of interest, product usage, and/or a unique individual password. Such forms may be required to purchase products from Paradox Interactive, to enter a promotion, to become a registered user, or to request information about Paradox Interactive and its products and services through another site.
 
-## What Information is Collected and How it is Used?
+Should you choose to communicate with Paradox Interactive through e-mail, via the Site, by telephone, in writing, or through other means, we may collect the information in these communications, and such information may be Personally Identifiable Information.
 
-### Product or Information Inquiry Forms
+We may also collect Personally Identifiable Information about you when you make a purchase through the Site. If you would like to correct or delete any Personally Identifiable Information, please contact us at **[www.paradoxplaza.com/support](http://www.paradoxplaza.com/support) or [support@paradoxplaza.com](mailto:support@paradoxplaza.com).**
 
-We collect contact information such as name, mailing address, email address, phone number, and company information such as company name. This information is used to provide you with the information you have requested. Your information is not shared with third parties and is never used for purposes other than those for which it was collected.
+ **3\. “Cookies”**
 
-### Contact Us
+The Paradox Interactive servers, or the servers of companies that are used to operate the Site, may place a “cookie” on your computer in order to allow you to use the Site and to personalize your experience.
 
-We use email links areas of the site to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. Your personal information is not shared with third parties and is never used for purposes other than those for which it was collected.
+A cookie can be stored by your browser on your computer's hard drive. Cookies allow us to recognize your computer while you are on the Site and help customize your online experience and make it more convenient for you. Cookies are also useful in allowing more efficient log-in for users, tracking transaction histories and preserving information between sessions. The information collected from cookies may also be used to improve the functionality of the Site and to measure traffic patterns.
 
-### Logged Files and Cookies
+Advertisers and/or other content providers that may appear on our Site may also use cookies that are not sent by us. Such advertisements or content may use cookies to help track and target the interests of users of the Site in order to present customized and personalized advertisements or other messages that the user might find interesting. Paradox Interactive is not responsible for any such cookies. Please note that most web browser applications (such as Microsoft Internet Explorer and Mozilla Firefox) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of the Site.
 
-The Web Site logs IP addresses and browser types for systems administration purposes. These logs may be analyzed to improve the value of the materials available on the Web Site and to collect information on an aggregate basis about visitors. We do not link IP addresses to any personally identifiable information. No cookies are currently used by this site. If you purchase from us using the PayPal purchasing system it may use cookies, in accordance with the privacy policies stated at [www.paypal.com](http://www.paypal.com/ "www.paypal.com").
+ **4\. Information Use**
 
-### Links
+Paradox Interactive may use Personally Identifiable Information collected through the Site to, among other things, respond to inquiries or comments, to verify the identity of users, to maintain or administer user accounts, to maintain the security and integrity of the Site and its data, to provide support to users, to process transactions, to communicate with users regarding transactions made via the Site, to improve and personalize the Site for user preferences, to provide users with product or service updates, promotional notices, and to offer services and products of interest to users.
 
-The Web Site contains links to other Web sites. Please note that these Web sites' privacy policies may differ from those of this Web Site. We encourage you to read the privacy statement of any Web site you may visit.
+Paradox Interactive uses the anonymous information collected automatically by our servers primarily to help us administer and improve our Site. We may also use aggregated anonymous information to provide information about our Site to advertisers, potential business partners and other unaffiliated entities. Again, this information is not personally identifiable.
 
-## Choices Regarding the Use of Your Information
+ **5\. Disclosure of Information**
 
-### Product or Inquiry Forms
+We may use unaffiliated companies to help us maintain and operate the Site or for other reasons related to the operation of our business, and those companies may receive your Personally Identifiable Information for that purpose. We may also disclose Personally Identifiable Information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law. Finally, we may sell or buy corporate assets, and in such transactions user information may be one of the transferred business assets. If Paradox Interactive or certain of its assets are acquired, user information may be transferred. Paradox Interactive does not sell Personally Identifiable Information to third parties.
 
-If you need to update the information, you supplied to us, or no longer wish to receive information from us, please send email to that effect to [marketing@paradoxplaza.com](mailto:marketing@paradoxplaza.com).
+ **6\. Security**
 
-### Security
+Paradox Interactive maintains physical, electronic, and procedural safeguards to help guard Personally Identifiable Information. If transactions are offered on the Site, transaction information is transmitted to and from the Site in encrypted form using industry-standard Secure Sockets Layer (SSL) connections to help protect such information from interception. Paradox Interactive restricts authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information. Paradox Interactive also has security measures in place to protect the loss, misuse, and alteration of the information under our control (e.g., verification of Site user’s identity through username and password). Please be aware, however, that any e-mail or other transmission you send through the internet cannot be completely protected against unauthorized interception, and it is your sole responsibility to protect the secrecy of your password.
 
-Protecting the privacy and security of your personal information is a top priority. We have taken careful measures to prevent the loss, misuse, and alteration of your information. If we receive any from you on our web site, it is stored behind a firewall. Our employees are aware of our privacy and security policies. Your information is only accessible to those employees and contractors who need it in order to perform their jobs.
+ **7\. Children's Privacy**
 
-### Notification of Changes
+You must be 13 years of age to create an account on the Site.  Paradox Interactive does not knowingly collect information from children under 13.  If you are a parent or guardian of a child under 13 whom you believe has created an account on the Site, you may contact us at **[www.paradoxplaza.com/support](http://www.paradoxplaza.com/support) or [support@paradoxplaza.com](mailto:support@paradoxplaza.com).**
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection through this Web site, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already collected through our site, we will post a prominent notice on our web site notifying users of the change.
+ **8\. External Links**
 
-### Privacy Policy Compliance
+This Privacy Policy does not extend to other sites on the Internet that are owned and operated by third party vendors and other third parties to which we may link (“External Sites”). Please be aware that Paradox Interactive is not responsible for the privacy practices or the content of External Sites. External Sites may use cookies. Paradox Interactive encourages you to read the privacy policies provided by External Sites before you provide Personally Identifiable Information to them.
 
-If you feel that we have not complied with the policies outlined in this privacy statement, please contact us and we will take action.
+ **9\. Severance**
+
+If any of this Privacy Policy is determined to be illegal, invalid or otherwise unenforceable by reason of the laws of any state or country in which this Privacy Policy is intended to be effective, then to the extent and within the jurisdiction in which that term is illegal, invalid or unenforceable, it shall be severed and deleted from this Privacy Policy and the remaining terms of the Privacy Policy shall survive, remain in full force and effect, and continue to be binding and enforceable.
+
+ **10\. Governing Law/Jurisdiction**
+
+This Privacy Policy is governed by and construed in accordance with the laws of the State of New York. You agree to submit to the personal jurisdiction of the courts of the State of New York for any cause of action arising out of or relating to this Privacy Policy, and hereby waive any right to participate in any type of law suit brought and/or maintained as a class action or similar in nature to a class action.
+
+ **11\. Modifications of this Privacy Policy**
+
+ **Paradox Interactive** shall have the right, at its sole discretion, to modify, add or remove any terms or conditions of this Privacy Policy without notice or liability to you. Any changes to the Privacy Policy shall be effective immediately following the posting of any such changes on the Site. Please review this Privacy Policy regularly to ensure you are aware of any changes made by Paradox Interactive. Your continued use of the Site after changes are posted means you agree to be legally bound by this Privacy Policy as updated and amended.
+
+ **12\. Contacting Us**
+
+If you have questions about this Privacy Policy, the information practices of Paradox Interactive or your dealings with Paradox Interactive, please contact us at **[www.paradoxplaza.com/support](http://www.paradoxplaza.com/support) or [support@paradoxplaza.com](https://web.archive.org/web/20120618184339id_/http%3A//www.paradoxplaza.com/support@paradoxplaza.com).**
+
+ ** _Date Last Modified: March 6, 2012_**
