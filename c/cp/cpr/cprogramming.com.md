@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221153445id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618162932id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cprogramming.com
 
@@ -21,6 +21,10 @@ You are asked, but not required, to fill out a survey by BURST!Media. The inform
 ### Mailing list
 
 You may choose to sign up for the Cprogramming.com mailing list. If you do so, Cprogramming.com will send you periodic email related to learning about C and C++ programming. Your email address is provided only to us and to the service that runs the mailing list software. We will not sell your email address or share it with anyone else. Each mailing list email contains information on how to unsubscribe. You may unsubscribe from the mailing list at any time. 
+
+### Purchases
+
+You may choose to purchase products for sale from Cprogramming.com, such as the ebook Jumping into C++. If you buy a product from us, we will recieve basic information about you, such as your name, email address, IP address, country of residence, and, if you choose to enter it, your mailing address. Cprogramming.com may use your email contact information to send you information about your purchase, such as notification of new releases or formats available. Cprogramming.com does not have access to or store your credit card number or other financial information. This information is available solely to the payment processor you select (i.e. PayPal or Google Checkout). 
 
 ### Other services
 
