@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yum.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230074029id_/http%3A//www.yum.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yum.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619010059id_/http%3A//www.yum.com/privacy.asp) for the most accurate reproduction.*
 
 # Yum! Brands - Defining Global Company that Feeds the World
 
