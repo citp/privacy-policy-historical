@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspen.edu privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209114632id_/http%3A//www.aspen.edu/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspen.edu privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618212646id_/http%3A//www.aspen.edu/Privacy-Policy) for the most accurate reproduction.*
 
 # 
 
