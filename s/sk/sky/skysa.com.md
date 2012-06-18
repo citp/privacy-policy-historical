@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skysa.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128063432id_/http%3A//www.skysa.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skysa.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618070820id_/http%3A//www.skysa.com/page/privacy) for the most accurate reproduction.*
 
-# Free Website Toolbar, Website Apps, Chat Room, Web based IM, and more
+# Free Website Apps, Toolbar, Chat Room, Website IM, and more. Easy Copy and Paste HTML Code.
 
 Your privacy on the Internet is of the utmost importance to us. At Skysa , we want to make your experience online satisfying and safe.
 
