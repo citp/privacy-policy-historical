@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nctimes.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213141id_/http%3A//www.nctimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nctimes.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618113019id_/http%3A//www.nctimes.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
 Welcome to the web sites of the North County Times. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
 
