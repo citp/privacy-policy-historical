@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the matomymarket.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227074805id_/http%3A//www.matomymarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matomymarket.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618104647id_/http%3A//www.matomymarket.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Matomy Market
+# Privacy Policy | MatomyMarket
 
 Matomy Market (the  **“Company”**  or  **“We”** ) is committed to protect the privacy of users who access its Website (the “Site”). This Privacy Policy Statement (the  **“Privacy Policy”** ) explains the types of information We gather and what We do with it. By using the Site, you agree to the terms and policies described in this Privacy Policy.
 
 **1\. Collecting Personally Identifiable Information**  
-**“Personally Identifiable Information”**  means any information obtained through your use of the Site which might reasonably be used to specifically identify you and may include, among other, your name, title, company, address, email. To the extent Personally Identifiable Information has been collected from you, you acknowledge such collection is done on a voluntary basis to enable the Company to provide you efficient access to features, functions, promotions, products and services.
+**“Personally Identifiable Information”**  means any information obtained through your use of the Site which might reasonably be used to specifically identify you and may include, among other, your name, title, company, address, email. To the extent Personally Identifiable Information has been collected from you, you acknowledge such collection is done on a voluntary basis to enable the Company to provide you efficient access to features, functions, promotions, products and services.  You expressly agree that We may send you or continue sending you promotional offers, updates, and other marketing materials. We will only send you materials using the e-mail address and text number you provided us. You may withdraw your consent at anytime by contacting us using the contact form on the contact page or by visiting the ‘My Account’ section of your account.
 
 In addition, We collect information from you for the purpose of opening an account, billing payment and payment instruments from you for products and services you order or purchase from the Company.
 
@@ -14,6 +14,12 @@ We automatically collect non-personal information such as IP addresses during yo
 
 **3\. Use of Digital Identifiers**  
 A digital identifier is information that a Site puts on your hard disk so that it can remember something about you at a later time (More technically, it is information for future use that is stored by the server on the client side of a client/server communication, such as “cookies”.) We automatically use ‘digital identifiers’ for tracking transactions, identification, security and the user characteristics as set forth herein. No Personally Identifiable Information is collected by use of digital identifier and We use the information collected through such digital identifier to analyze trends, administer the Site, track movements on the Site and gather aggregate demographic information about visitors so we can continually improve the Site.
+
+If you do not wish to accept that your computer receives and stores cookies or similar digital identifiers (collectively “Cookies”), you may chose to not receive or block Cookies by adjusting your browser settings. However, note that you will lose some features and functionality if you choose to disable Cookies as certain features and functionality made available through the site may only be used fully if your browser allows Cookies.
+
+For more information about setting selected leading browsers to disable Cookies please visit the following link: <http://www.aboutcookies.org/>
+
+Please follow [this link](http://docs.matomy.com/1/Matomy-Market-Cookie-Usage.pdf "Matomy Market Cookie Usage ") to learn about how Matomy Market uses cookies.
 
 **4\. Security**  
 We employ industry standard security measures to ensure the security of all data. Any data that is stored on our servers is treated as proprietary and confidential and is not available to the public. We maintain an internal security policy with respect to the confidentiality of your data, allowing access only to those employees or third parties who have a need to know such information.
