@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216202334id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619004138id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # GameFly: Privacy Policy
 
   1. Anyone may browse our site, but you must provide personal information in order to register with us to take full advantage of all services that our site has to offer. 
     * Learn more
   2. We may contact you by email or SMS text and we may share your profile information publicly with other GameFly members (please manage your profile information via the GameFly App). 
-    * [Access My Account](http://www.gamefly.com/account/) to manage your e-mail/SMS preferences
+    * [Access My Account](http://www.gamefly.com/account/) to manage your e-mail/mobile preferences
   3. We set cookies on your Web browser so that we can recognize you and personalize our site to your preferences. 
     * Learn more
   4. We allow our third party advertising partner to set cookies on your Web browser in order to serve targeted advertisements to you on our Website. 
@@ -53,7 +53,7 @@ Typically, we ask you to submit personal, financial and/or demographic informati
   * Register for and use a GameFly Account (e.g., to rent or buy games, sign-up for newsletters)
   * Register for and use the GameFly Application
   * Use our GameFly Referrals feature
-  * Use our GameFly SMS Alerts feature
+  * Use our GameFly Mobile Alerts feature
   * Use our Buy Alerts feature
   * "Contact Us"
 
@@ -64,7 +64,7 @@ _* To simply browse our Website or App, you are not required to provide any pers
 **GameFly Account Registration**  
 To create a GameFly account, we ask you for certain personally identifying information, including your full name, e-mail address, postal address, telephone number, and billing information (such as a credit card number). We also ask you to create a password and to provide other information such as your gender, game and platform preferences (e.g., about the games and hardware you own), hobbies and interests, and other information (including "demographic information") as part of your user profile - we may link this demographic information to your personal information.
 
-Once collected, we use the information above to: (i) create, confirm and give you access to your GameFly account; (ii) process and ship your orders; (iii) communicate with you (via e-mail, SMS or phone) about the status of your orders or to provide Buy Alerts and SMS messages you request; (iv) answer any requests that you may have; (v) send you GameFly newsletters that you have chosen to receive; and (vi) serve advertisements to your Web browser that we believe may be of interest to you ( **see "Online Advertising" below for more information** ). We may also use your GameFly account e-mail address to send you service-related announcements that tell you about updates to our Privacy Policy or [Terms of Use](http://www.gamefly.com/about-us/terms-of-use/), new areas or features on our Website, changes to our online service or technical support policies, and other related changes. We may also use your personal and demographic information aggregated with other members' information for our internal marketing and demographic studies, so we can improve the online products and services we provide you and to better meet your needs.
+Once collected, we use the information above to: (i) create, confirm and give you access to your GameFly account; (ii) process and ship your orders; (iii) communicate with you (via e-mail, SMS, MMS, or voice) about the status of your orders or to provide Buy Alerts and SMS/MMS messages you request; (iv) answer any requests that you may have; (v) send you GameFly newsletters that you have chosen to receive; and (vi) serve advertisements to your Web browser that we believe may be of interest to you ( **see "Online Advertising" below for more information** ). We may also use your GameFly account e-mail address to send you service-related announcements that tell you about updates to our Privacy Policy or [Terms of Use](http://www.gamefly.com/about-us/terms-of-use/), new areas or features on our Website, changes to our online service or technical support policies, and other related changes. We may also use your personal and demographic information aggregated with other members' information for our internal marketing and demographic studies, so we can improve the online products and services we provide you and to better meet your needs.
 
 _* If you want to be excluded from receiving promotional email communications, you may unsubscribe via the opt-out link embedded in the communication or by logging in to[My Account](http://www.gamefly.com/account/) and updating your E-mail Subscription preferences._
 
@@ -78,10 +78,10 @@ When you use the GameFly Referrals Program (or the "Referral Program"), we may a
 
 _* You and your friends may opt-out of participation in the Referral Program at any time via the opt-out links in the communications sent to you and your friends, or by sending us an e-mail to[friends_optout@gamefly.com](mailto:friends_optout@gamefly.com)._
 
-**GameFly SMS Alerts**  
-You may sign up to receive GameFly SMS Alerts to your mobile device that inform you when GameFly has shipped and received your game rentals. When you sign up to receive GameFly SMS Alerts, we ask you to submit the mobile phone number to which you would like the alerts to be sent. Mobile phone numbers collected on the GameFly SMS Alerts Preferences page will be used only for delivery of requested SMS alerts, and for no other purpose, and will be otherwise treated in accordance with this Privacy Policy.
+**GameFly Mobile Alerts**   
+You may sign up to receive GameFly Mobile Alerts to your mobile device that inform you when GameFly has shipped and received your game rentals. When you sign up to receive GameFly Mobile Alerts, we ask you to submit the mobile phone number to which you would like the alerts to be sent. Mobile phone numbers collected on the GameFly Mobile Alerts Preferences page will be used only for delivery of requested mobile alerts, and for no other purpose, and will be otherwise treated in accordance with this Privacy Policy. When we send Mobile Alerts to you, our service provider may obtain and store information about your carrier and phone make and model, so that they can optimize and deliver our messages to you. That data is only used for message delivery operations and is only shared with other service providers in the message delivery chain.
 
-_* By signing up for SMS Alerts, you agree to pay any fees or costs required by your mobile device provider. You may choose to stop receiving SMS Alerts via the unsubscribe option in each SMS Alert sent to you or by logging in to[My Account](http://www.gamefly.com/account/) and updating your SMS Alerts preferences._
+_* By signing up for Mobile Alerts, you agree to pay any fees or costs required by your mobile device provider. You may choose to stop receiving Mobile Alerts via the unsubscribe option in each SMS Alert sent to you or by logging in to[My Account](http://www.gamefly.com/account/) and updating your Mobile Alerts preferences._
 
 **"Contact Us" Form**  
 If you choose to contact us via our online form, we ask you to provide your first name, e-mail address, and a description of your question or comment. This form is intended for questions and comments only. We use the information you provide solely to respond to your inquiry and for no other purpose. We may retain and aggregate your comments for demographic purposes and to improve our services.
@@ -108,7 +108,7 @@ In addition, our third-party advertising partners will place a unique cookie on 
 We may share your information with third parties in certain situations outlined below.
 
 **Third Party Service Providers**  
-We work with third-party companies, agents, and contractors ("Vendors") to perform some important tasks, such as processing credit card transactions, fulfilling and delivering your orders, operating and maintaining our Referral Program, and marketing/advertising programs. We require that our Vendors maintain the confidentiality of any information about our members that may be disclosed to them and to use such information solely for the purpose of providing the contracted-for services on GameFly's behalf.
+We work with third-party companies, agents, and contractors ("Vendors") to perform some important tasks, such as processing credit card transactions, fulfilling and delivering your orders, operating and maintaining our Referral Program, delivering Mobile Alerts, and marketing/advertising programs. We require that our Vendors maintain the confidentiality of any information about our members that may be disclosed to them and to use such information solely for the purpose of providing the contracted-for services on GameFly's behalf.
 
 **Online Advertising Practices**  
  _Advertising Third-party Products & Services:_ The third-party ads appearing on our Website are delivered to your browser by DoubleClick, our Web advertising partner. DoubleClick may set and access its own cookies on your Web browser in order to serve ads it believes may be of interest to you based on the profile information you provided to us at registration (e.g., demographic information) as well as information collected about you by DoubleClick elsewhere on the Web. DoubleClick may use information about you gathered from our website (including your demographic information provided to us upon registration as well as your browsing behavior on our site) to serve third party ads to you elsewhere on the Internet. DoubleClick's use of cookies on our Website is subject to DoubleClick's privacy policies. For more information about DoubleClick and how cookies work, please visit [DoubleClick's website](http://www.google.com/intl/en/privacy/) and the [Network Advertising Initiative's homepage](http://www.networkadvertising.org/managing/opt_out.asp). _Please see “Can I choose how my personal information is used?” below to learn more about setting your Web browser to block cookies._
@@ -137,7 +137,7 @@ We may provide our prospective partners, advertisers, and other third parties wi
 
 ##### Can I choose how my personal information is used?
 
-_If you wish to view or update the personal information set forth in your account_ , such as your name, e-mail address, password, billing address, credit card number, e-mail subscription preferences, or other account information, log in to My Account. There is a link to [My Account](http://www.gamefly.com/account/) on most pages of the GameFly Website. Please note that you must log in with your e-mail address and password before you can update any account information. If you believe that your account information contains errors, and you cannot correct those errors from the [My Account](http://www.gamefly.com/account/) page, please contact [Customer Service](http://www.gamefly.com/help/Default/Contact/).
+_If you wish to view or update the personal information set forth in your account_ , such as your name, e-mail address, password, billing address, credit card number, e-mail subscription preferences, or other account information, log in to My Account. There is a link to [My Account](http://www.gamefly.com/account/) on most pages of the GameFly Website. Please note that you must log in with your e-mail address and password before you can update any account information. If you believe that your account information contains errors, and you cannot correct those errors from the [My Account](http://www.gamefly.com/account/) page, please contact [Customer Service](http://www.gamefly.com/support/index/contact/).
 
 _If you wish to opt out of receiving the GameFly newsletter, special offers, and promotional information_ , log in to [My Account](http://www.gamefly.com/account/) and change your E-mail Subscriptions; or, contact [support@gamefly.com](mailto:support@gamefly.com). In addition, at the bottom of every GameFly communication sent to you, we provide you an unsubscribe or opt-out link to discontinue receiving future communications (i.e., unsubscribe).
 
