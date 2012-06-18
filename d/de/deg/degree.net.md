@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degree.net privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126224314id_/http%3A//www.degree.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degree.net privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618231333id_/http%3A//www.degree.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MBA Programs
 
@@ -35,6 +35,7 @@ We collect Personal Information when you interact with us on the Site.  We may 
 We may use Personal Information:
 
   * When you request, to connect you with vendors who will provide you with information about products and services.
+  * When you’ve submitted your Personal Information to us, which submission you understand and agree to constitute making an “inquiry” to us and our affiliated entities, to contact you or allow our vendors to contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/or federal Do Not Call list, because your inquiry serves as an exception to state and/or federal Do Not Call laws.
   * to respond to your inquiries and fulfill your requests, such as to send you newsletters.
   * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information.
   * to send you surveys and marketing communications that we believe may be of interest to you.
