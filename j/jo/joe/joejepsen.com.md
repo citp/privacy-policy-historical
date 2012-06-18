@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the joejepsen.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209114937id_/http%3A//joejepsen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joejepsen.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618214006id_/http%3A//joejepsen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JoeJepsen.com
 
 > _**PLEASE NOTE:  
 >  This Site is not directed at children. Visitors and Authorized Customers are required to be eighteen years or older.**_
 
+  
+[AdChoices](https://quantcast.com/adchoices-pub?pub=ZoTAZasAvd5mvxeAyWgH3A)  
+  
 Welcome to JoeJepsen.com (the “Site”).
 
 We understand that privacy online is important to users of our Site, especially when conducting business.  
