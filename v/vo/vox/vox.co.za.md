@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vox.co.za privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105095910id_/http%3A//www.vox.co.za/Legal/PrivacyPolicy.cms%3Ffooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vox.co.za privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618111352id_/http%3A//www.vox.co.za/Legal/PrivacyPolicy.cms%3Ffooter) for the most accurate reproduction.*
 
 # Vox Telepreneur
 
