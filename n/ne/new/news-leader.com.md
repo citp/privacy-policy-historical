@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the news-leader.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213331id_/http%3A//www.news-leader.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-leader.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618182826id_/http%3A//www.news-leader.com/section/privacy) for the most accurate reproduction.*
 
-# privacy | Springfield News-Leader | News-Leader.com
+# PRIVACY | Springfield News-Leader | News-Leader.com
 
 Last Updated: November 9, 2011
 
@@ -96,3 +96,23 @@ Online Privacy Coordinator
 Gannett Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107
+
+Enter your email and we will send you a link to reset your password.
+
+[](https://web.archive.org/ "Return to Homepage")
+
+Become a subscriber today to enjoy these benefits:
+
+  * 24/7 access to our Web site
+  * iPad-optimized edition
+  * Mobile site & iPhone app
+
+
+
+[View subscription options](https://web.archive.org/section/subscription-options) [Log in](http://www.news-leader.com/section/como?screen=login)
+
+[](https://web.archive.org/ "Return to Homepage")
+
+We're sorry, this account no longer has full access. You can still look at a limited number of articles per month.
+
+[View my account](https://myaccount.news-leader.com/account/ "My account")
