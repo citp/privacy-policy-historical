@@ -1,65 +1,97 @@
-> *The following text is extracted and transformed from the churchill.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228180903id_/http%3A//www.churchill.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchill.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618063657id_/http%3A//www.churchill.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Churchill Insurance UK
 
-##   You are here: [Home page](https://web.archive.org/web/20111228180903id_/http%3A//) > [Terms](https://web.archive.org/web/20111228180903id_/http%3A//www.churchill.com/) > **Privacy policy**
+The U K Insurance Limited owned brands that may share data are, Churchill Insurance, Direct Line Insurance, Privilege and Green Flag, who are all part of the same Group.
 
-You are giving your information to U K Insurance Limited, who is a member of The Royal Bank of Scotland Group (The Group). In this Information statement ‘we’ ‘us’ and ‘our’ refers to U K Insurance Limited unless otherwise stated.
+At Churchill we are aware of the trust you place in us when you buy our products and our responsibility to protect your information. 
 
-For information about our group of companies please visit [www.rbs.com](http://www.rbs.com/ "www.rbs.com \(opens in a new window\)") and click on ‘About Us’, or for similar enquiries please telephone 0131 556 8555 or Textphone 0845 900 5960.
+This notice describes who we are, why we need to collect your information and how we will use it. 
 
-If you contact us electronically, we may collect your electronic identifier e.g. Internet Protocol (IP) address or telephone number supplied by your service provider.
-
-  
-
-
-We will use your information to manage your insurance policy, including underwriting and claims handling. This may include disclosing it to other insurers, third party underwriters and reinsurers.
-
-Your information comprises of all the details we hold about you and your transactions and includes information obtained from third parties.
-
-We may use and share your information with other members of the Group to help us and them: 
-
-  * assess financial and insurance risks;
-  * recover debt;
-  * prevent and detect crime;
-  * develop our services, systems and relationships with you;
-  * understand our customers’ requirements;
-  * develop and test products and services.
-
-
-
-We do not disclose your information to anyone outside the Group except:
-
-Where we have your permission; or  
-where we are required or permitted to do so by law; or  
-to credit reference and fraud prevention agencies and other companies that provide a service to us or you; or  
-where we may transfer rights and obligations under this agreement.
-
-We may transfer your information to other countries on the basis that anyone to whom we pass it provides an adequate level of protection. However, such information may be accessed by law enforcement agencies and other authorities to prevent and detect crime and comply with legal obligations.
-
-From time to time we may change the way we use your information. Where we believe you may not reasonably expect such a change we shall write to you. If you do not object to the change within 60 days, you consent to that change.
+We will tell you who we share your information with and how we use it to improve the service we provide to our customers. 
 
   
 
 
-_We are also required to supply motor insurance policy details to the Motor Insurance Database (MID) run by the Motor Insurers Information Centre (MIIC) to which the Police, DVLA/DVANI (Driver and Vehicle Licensing Agencies) and other insurers have access._ Law enforcement agencies may access and use this information.
+**Why we need your information**
 
-  
+We will use your information to give you quotations, and manage your insurance policy, including underwriting and claims handling. 
+
+Your information comprises of all the details we hold about you and your transactions and includes information we obtain about you from third parties. 
+
+We will only collect the information we need so that we can provide you with the service you expect from us.
+
+From time to time we may need to change the way we use your information. Where we believe you may not reasonably expect such a change we will write to you. When we do so, you will have 60 days to object to the change but if we do not hear from you within that time you consent to that change.
+
+**Who we will share your information with**
+
+Churchill insurance policies are underwritten by U K Insurance Limited (UKI). When you give us your information, it will be shared within the UKI owned brands. We will do that in order to provide you with the best possible products and service experience. 
+
+During the course of our dealings with you we may need to disclose some of your information to other insurers, third party underwriters, reinsurers, credit reference and fraud prevention and law prevention agencies and other companies that provide service to us or you, to: 
+
+  * assess financial and insurance risks
+  * recover debt
+  * prevent and detect crime
+  * develop our products, services, systems and relationships with you
+  * understand our customers’ requirements
+  * rating and pricing.
 
 
-Some of the personal information we ask you for may be sensitive personal data, as defined by the Data Protection Act 1998 (such as information about health or criminal convictions) We will not use such sensitive personal data about you or others except for the specific purpose for which you provide it and to provide the services described in your policy documents.
+
+We do not disclose your information to anyone outside the Group except where: 
+
+  * we have your permission
+  * we are required or permitted to do so by law
+  * we may transfer rights and obligations under this agreement
+
+
+
+**Where we transfer your information**
+
+From time to time we may require services from suppliers that are based worldwide and your information will be shared with them for the purposes of providing that service. Where we engage these suppliers we make sure that they apply the same levels of protection, security and confidentiality we apply. However, such information may be accessed by law enforcement agencies and other authorities to prevent and detect crime and comply with legal obligations.
+
+**Motor Insurance Database (MID)**
+
+Information relating to your policy will be added to the Motor Insurance Database (MID) managed by the Motor Insurers’ Bureau (MIB). The MID and the data stored on it may be used by certain statutory and/or authorised bodies including the Police, the DVLA, the DVANI, the Insurance Fraud Bureau and other bodies permitted by law for purposes not limited to but including: 
+
+  * Electronic Licensing (Tax Discs);
+  * Continuous Insurance Enforcement;
+  * Law enforcement (prevention, detection, apprehension and/or prosecution of offenders);
+  * The provision of government services and/or other services aimed at reducing the level and incidence of uninsured driving.
+
+
+
+If you are involved in a road traffic accident (either in the UK, the EEA or certain other territories), insurers and/or the MIB may search the MID to obtain relevant information.
+
+Persons (including his or her appointed representatives) pursuing a claim in respect of a road traffic accident (including citizens of other countries) may also obtain relevant information which is held on the MID.
+
+It is vital that the MID holds your correct registration number. It is our responsibility to update your policy to the MID. We fully comply with the agreements in place with the MIB to update your details within seven days; however it is important that you check your policy documents ensuring that the registration number is recorded correctly.
+
+If it is incorrectly shown on the MID you are at risk of having your car seized by the Police. You can check that your correct registration number is shown on the MID at [www.askMID.com](http://www.askmid.com/ "www.askMID.com \(opens in a new window\)").
+
+If the registration number is not shown correctly on your policy documents, or you cannot find your car on the MID, please contact us immediately.
+
+**Sensitive Information**
+
+Some of the personal information we ask you for may be sensitive personal information, as defined by the Data Protection Act 1998 (such as information about health or criminal convictions). We will not use such sensitive personal data about you or others except for the specific purpose for which you provide it and to provide the services described in your policy documents.
 
 You will have been asked to agree to this when you first contacted us but please ensure that you only provide us with sensitive information about other people with their agreement.
 
-  
-
+**Dealing with other people**
 
 It is our policy to deal with your spouse or partner who calls us on your behalf, provided they are named on the policy. If you would like someone else to deal with your policy on your behalf on a regular basis please let us know. In some exceptional cases we may also deal with other people who call on your behalf, with your consent. If at any time you would prefer us to deal only with you, please let us know.
 
-  
+**Credit Reference Agencies**
 
+UKI carries out a consumer search when any application for insurance is submitted. This is done using public data to evaluate insurance risks and no financial information is reviewed as part of this process. There is no visible credit footprint and after 12 months is automatically deleted.
 
-To assess your insurance application and the terms on which cover may be offered, we may obtain information about you from credit reference agencies to check your credit status and identity. The agencies will record our enquiries. This will not affect your credit standing.
+**Keeping you informed**
+
+From time to time we may contact you with special offers or suggest products which may be of interest to you. If you would like not to receive any of these updates you can ask us to stop at any time. You can do that by simply calling our customers services department or by writing to the Data Protection Officer at Churchill Court, Westmoreland Road, Bromley BR1 1DP. 
+
+**Access to your information**
+
+You have the right to see the information we hold about you. This is called Subject Access Request. If you would like a copy of your information, please write to: The Data Protection Officer, Churchill Court, Westmoreland Road, Bromley BR1 1DP quoting your reference. A fee may be payable.
 
   
 
@@ -80,17 +112,17 @@ Check and/or file details with fraud prevention agencies and databases and if we
 
 Law enforcement agencies may access and use this information.
 
-We and other organisations may also access and use this information to prevent fraud and money laundering, for example when:
+We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: 
 
-Checking applications for, and managing credit and other facilities and recovering debt;  
-Checking insurance proposals and claims;  
-Checking details of job applicants and employees.
+  * Checking applications for, and managing credit and other facilities and recovering debt
+  * Checking insurance proposals and claims;
+  * Checking details of job applicants and employees.
+
+
 
 We, and other organisations that may access and use information recorded by fraud prevention agencies, may do so from other countries.
 
-We can provide the names and addresses of the agencies we use if you would like a copy of your information held by them. Please contact us at the address below. The agencies may charge a fee.
-
-If you would like a copy of the information we hold about you, please write to: The Data Protection Officer, Regulatory Risk Department, Churchill Court, Westmoreland Road, Bromley BR1 1DP quoting your reference. A fee may be payable.
+We can provide the names and addresses of the agencies we use if you would like a copy of your information held by them. Please contact us at, UKI, Churchill Court, Westmoreland Road, Bromley, BR1 1DP quoting your reference. The agencies may charge a fee.
 
   
 
@@ -166,19 +198,15 @@ Internet Explorer 9.0+ | To prevent new cookies from being installed |  \- Go to
 Internet Explorer 9.0+ | To delete existing cookies |  \- Go to Tools in the menu bar  
 \- Click on Internet Options  
 \- Click on the General tab which should be under "Browsing History" and click "Delete"  
+\- Ensure “Cookies” check box is selected, then click “Delete”   
 Internet Explorer 8.0+ | To prevent new cookies from being installed |  \- Go to Tools in the menu bar  
-\- Click on Internet Options  
+\- Click on Internet Options   
 \- Click on the Privacy tab on top  
-\- Click on "Sites"  
-\- A new window should open called "Per Site Privacy Actions"  
-\- Type in the URL of the site in the "Address of website" box and click on Block  
-Internet Explorer 8.0+ | To delete existing cookies |  \- Go to Tools in the menu bar  
+\- Adjust the slider up to the “Block all Cookies” button   
+Internet Explorer 8.0+ | To delete existing cookies | \- Go to Tools in the menu bar  
 \- Click on 'Internet Options'  
-\- Click on the Privacy tab on top  
-\- Click on "Sites"  
-\- A new window should open called "Per Site Privacy Actions"  
-\- Under the "Managed websites" box should be a list of all the websites you have visited  
-\- To remove all cookies click on the "Remove all" button  
+\- Click on the General tab which should be under "Browsing History" and click "Delete”  
+\- Ensure “Cookies” check box is selected, then click “Delete”   
 Internet Explorer 7.0+ | To prevent new cookies from being installed |  \- Go to Tools in the menu bar  
 \- Click on Options  
 \- Click on the Privacy tab on top  
@@ -201,15 +229,16 @@ Firefox 2.0+ 3.0+ , 4.0+ | To delete existing cookies |  \- Go to Tools in the m
 \- Click on "Clear Private Data Now"  
 Google Chrome | To prevent new cookies from being installed |  \- Click on the spanner icon in the top right of the browser  
 \- Click on "Options"  
-\- Click on "Under the Bonnet" (UK) / "Under the Hood" (US)  
+\- Click on "Under the bonnet“/”Under the hood”  
 \- Click on the "Content settings" button in the Privacy section  
-\- Ensure that "Allow local data to be set" is selected  
-\- Select "Block sites from setting any data"  
-Google Chrome | To delete existing cookies |  \- Click on the spanner icon in the top right of the browser  
+\- Select "Block sites from setting any data"   
+Google Chrome | To delete existing cookies | -Click on the spanner icon in the top right of the browser  
 \- Click on "Options"  
-\- Click on "Under the Bonnet" (UK) / "Under the Hood" (US)  
-\- Click on the "Content settings" button in the Privacy section  
+\- Click on "Under the bonnet“/ “Under the hood”  
 \- Click on the "Clear browsing data" button  
+\- Select "Obliterate the following items from:" from drop down field  
+\- Ensure the check box for “Delete cookies and other site data”  is ticked  
+\- Click “Clear browsing data”   
 Safari | To prevent new cookies from being installed and delete existing cookies |  \- Go to the Safari menu (icon in top right of browser) and select Preferences  
 \- In the popup window that appears, select the Security icon (a padlock)  
 \- Under "Accept Cookies", select the "Never" button  
