@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rozee.pk privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230154152id_/http%3A//www.rozee.pk/rozeedocs/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rozee.pk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618212929id_/http%3A//www.rozee.pk/rozeedocs/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ROZEE.PK | Jobs in Pakistan, Careers in Pakistan, Employment, Careers
 
@@ -75,6 +75,9 @@ We retain indefinitely all the information we gather about you in an effort to m
    
 **Security of the Profile Information**  
 We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.  
+   
+**Use of Material**  
+The contents of ROZEE.PK (the "Website") such as text, graphics, images, logos, button icons, software and other material are protected under Pakistan and foreign copyright, trademark and other laws. All material is the property of Naseeb Online Services or its content suppliers or clients. The collection, arrangement and assembly of all content on this Website is the exclusive property of Naseeb Online Services and is protected by Pakistan and international copyright laws. You may not sell or modify the content on the Website or reproduce, display, publicly perform, distribute, or otherwise use its material in any way for any public or commercial purpose. The use of the content on any other Web Site or in a networked computer environment for any purpose is prohibited.  
    
 **Children's use of ROZEE.PK**  
 The ROZEE.PK web site is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.  
