@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the quepublishing.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112203736id_/http%3A//www.informit.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quepublishing.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618043312id_/http%3A//www.quepublishing.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# InformIT: Privacy Policy
+# Privacy Policy | Que
 
 We make every effort to preserve user privacy, however we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site.
 
 ### Information Collection and Use
 
-InformIT.com is operated from 800 East 96th Street, Indianapolis, IN, 46240, and is part of the Pearson Education family. We can be reached by e-mail at **[comments@informit.com](mailto:comments@informit.com)**.
+QuePublishing.com is operated from 800 East 96th Street, Indianapolis, IN, 46240, and is part of the Pearson Education family. We can be reached by e-mail at **[information@quepublishing.com](mailto:information@quepublishing.com)**.
 
-We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. InformIT.com collects information from our users at several different points on our web site. Pearson Education recognizes the importance of protecting the privacy of Personal Identifying Information about you as a user of our web site. 
+We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. QuePublishing.com collects information from our users at several different points on our web site. Pearson Education recognizes the importance of protecting the privacy of Personal Identifying Information about you as a user of our web site. 
 
-We consider the following to be Personal Identifying Information: your e-mail address, name, password, mailing address, and credit card information. This web site does not collect Personal Identifying Information about a user other than information that is voluntarily provided to our Company; in this way, we can serve the user's needs as well as our own legitimate business purposes. (For example, we retain the Personal Identifying Information that a user provides when he or she chooses to register with InformIT.com).
+We consider the following to be Personal Identifying Information: your e-mail address, name, password, mailing address, and credit card information. This web site does not collect Personal Identifying Information about a user other than information that is voluntarily provided to our Company; in this way, we can serve the user's needs as well as our own legitimate business purposes. (For example, we retain the Personal Identifying Information that a user provides when he or she chooses to register with QuePublishing.com).
 
 Our company uses a user's Personal Identifying Information in order to help us improve our web site, or for our company's marketing and promotional purposes if you have opted to receive these kinds of communications. This information will be treated confidentially within our company. While our policy is not to share this information with third parties, we do share aggregate information with other companies within Pearson Education, Inc.
 
@@ -48,19 +48,19 @@ From time to time we partner with outside service providers. When the user signs
 
 ### Links
 
-This web site contains links to other sites. Please be aware that we (InformIT.com) are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+This web site contains links to other sites. Please be aware that we (QuePublishing.com) are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
 ### Newsletters
 
-If you have elected to receive e-mail newsletters but want to unsubscribe, simply visit the following page, enter your email address in the field supplied, and click on the Submit button. On the resulting page, check the newsletters you would no longer like to receive, and click the Unsubscribe button: **[http://www.informit.com/u.asp](https://web.archive.org/u.asp)**
+If you have elected to receive e-mail newsletters but want to unsubscribe, simply visit the following page, enter your email address in the field supplied, and click on the Submit button. On the resulting page, check the newsletters you would no longer like to receive, and click the Unsubscribe button: **[http://www.quepublishing.com/u.aspx](https://web.archive.org/u.aspx)**
 
 ### Service Announcements
 
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an e-mail. Generally, users may not opt-out of these communications, though they can deactivate their account information. However, these communications are not promotional in nature.
+On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an e-mail. Generally, users may not opt out of these communications, though they can deactivate their account information. However, these communications are not promotional in nature.
 
 ### Customer Service
 
-We communicate with users on a regular basis to provide requested services and in regard to issues relating to their account we reply via e-mail or phone in accordance with the users' wishes when a user submits their information through our Feedback and Comments form.
+We communicate with users on a regular basis to provide requested services and in regard to issues relating to their account we reply via e-mail or phone in accordance with the user's wishes when a user submits their information through our Feedback and Comments form.
 
 ### Surveys & Contests
 
@@ -68,7 +68,7 @@ From time-to-time our site requests information from users via surveys or contes
 
 ### E-mail A Friend
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and e-mail address. InformIT.com will automatically send the friend a one-time e-mail inviting them to visit the site. InformIT.com stores this information for the sole purpose of sending this one-time e-mail. The friend may contact InformIT.com at **[comments@informit.com](mailto:comments@informit.com)** to request the removal of this information from their database.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and e-mail address. QuePublishing.com will automatically send the friend a one-time e-mail inviting them to visit the site. QuePublishing.com stores this information for the sole purpose of sending this one-time e-mail. The friend may contact QuePublishing.com at **[information@quepublishing.com](mailto:comments@informit.com)** to request the removal of this information from their database.
 
 ### Security
 
@@ -86,10 +86,10 @@ If a user's personally identifiable information changes (such as your e-mail add
 
 Users of our site are always notified when their information is being collected by any outside parties. When products or services are jointly offered or co-branded we will indicate who is collecting the information and it will be clear which privacy statement applies when information is being collected under a co-branded situation. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
 
-If you choose to remove yourself from our mailing list(s) simply visit the following page and uncheck any communication you no longer want to receive: **<http://memberservices.informit.com/my_account/newsletters.aspx>**
+If you choose to remove yourself from our mailing list(s) simply visit the following page and uncheck any communication you no longer want to receive: **[https://memberservices.informit.com/my_account/newsletters.aspx?partner=71](https://web.archive.org/my_account/newsletters.aspx?partner=71)**
 
 ### Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. However, if you have removed your personal information you will not be contacted, nor will your information be used in this new manner.
+If we decide to change our privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. However, if you have removed your personal information you will not be contacted, nor will your information be used in this new manner.
 
 Effective Date: June 14, 2007
