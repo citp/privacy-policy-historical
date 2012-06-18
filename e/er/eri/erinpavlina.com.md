@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erinpavlina.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204015234id_/http%3A//erinpavlina.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erinpavlina.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618233928id_/http%3A//www.erinpavlina.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Erin Pavlina - Privacy Policy
 
