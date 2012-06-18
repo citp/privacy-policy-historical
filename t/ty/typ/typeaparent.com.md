@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the typeaparent.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220155202id_/http%3A//typeaparent.com/about-type-a-parent/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typeaparent.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618161345id_/http%3A//typeaparent.com/about-type-a-parent/privacy-policy) for the most accurate reproduction.*
 
-# Type-A Parent | Privacy Policy
+# Privacy Policy | Type-A Parent
 
 Type-A Mom is committed to protecting your privacywhen you use our services (“Services”). In this policy we explain howand why we collect your information, what we do with it and whatcontrols you have over our use of it.
 
 From time to time, we add or change functions, features or productsto our Web Sites or add or change Services. This, and our commitment toprotecting the privacy of your personal information, may result inperiodic changes to this Privacy Policy. As a result, please rememberto refer back to this Privacy Policy regularly to review anyamendments.
 
-Any questions regarding our Privacy Policy should be directed to [@typeamom](mailto:kelby%3Ca%20href=).net">kelby at typeamom dot net.
+Any questions regarding our Privacy Policy should be directed to [kelby at typeamom dot net](mailto:kelby@typeamom.net).
 
 ## Your acceptance of these Privacy Statement terms
 
@@ -49,3 +49,5 @@ Type-A Mom may disclose aggregate statistics aboutour sales, our Web Site visito
 Type-A Mom may disclose personal information ifrequired to do so by law or if it believes that such action isnecessary to protect and defend the rights, property or personal safetyof Type-A Mom and its Web Sites, visitors to the WebSites and customers of our Services.
 
 Our Web Site contains links to the sites of third parties. When youvisit these sites, we suggest that you read their privacy policies. Type-A Mom is not responsible for the privacy policies orthe content of such sites.
+
+Rating: 0.0/ **10** (0 votes cast)
