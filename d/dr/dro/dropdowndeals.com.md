@@ -1,95 +1,72 @@
-> *The following text is extracted and transformed from the dropdowndeals.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225062220id_/http%3A//www.dropdowndeals.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropdowndeals.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618201742id_/http%3A//www.dropdowndeals.com/privacy) for the most accurate reproduction.*
 
 # Drop Down Deals - Privacy Policy
 
-Drop Down Deals LLC ("Drop Down Deals") respects the privacy of its users and non-users. This privacy policy discloses any information we obtain and how we use it. Drop Down Deals also goes to great lengths to ensure that the information and content that users add to our system is secure and only accessible to intended users. Drop Down Deals may modify this policy from time to time, and the changes will be posted here.
+Web Deals Interactive LLC Privacy Policy
 
-**What information do we collect?**  
-We collect information from you when you use a Drop Down Deals service, register on our site or enter a contest.
+**1\. INTRODUCTION**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
+Web Deals Interactive LLC (the "Company," "we" or "us") operates the downloadable browser add-on “DropDownDeals” (the "App"), which allows you to enhance your web searches. The App, and any other applications, products, services, features, content, promotions or games offered from time to time by the Company at [www.DropDownDeals.com](https://web.archive.org/web/20120618201742id_/http%3A//www.dropdowndeals.com/www.DropDownDeals.com) (the "Site") or otherwise in connection with its business shall be referred to herein as the "Services". The Company is based in the United States and the Services are hosted in the United States.
 
-**What do we use your information for?**  
-Any of the information we collect from you may be used in one of the following ways by Drop Down Deals or our strategic affiliates or partners. We exercise the greatest precaution and prudence when sharing user information with our strategic affiliates and partners.
+As set forth in the Company's Terms of Service currently available at [http://www.DropDownDeals.com/Terms](http://www.dropdowndeals.com/terms), the Services are general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please contact us through our support page [http://www.DropDownDeals.com/contact](http://www.dropdowndeals.com/contact)
 
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
+This Privacy Policy applies to all users, including those who use the Services without being registered with the Company and those who have registered with any Company Service. This Privacy Policy describes the Company's collection and use of users' personal information (e.g., information that identifies a specific person, such as full name or email address) where that information is not otherwise publicly available on the Services. We also describe generally the Company's practices for handling non-personally identifiable information (e.g., interests, demographics and site usage) to the extent such information is associated with a particular user or user account. Your access to and use of certain Services may require you to accept additional terms and conditions or a privacy policy applicable to such Services.
 
+**2\. SUBMISSION AND COLLECTION OF INFORMATION**
 
+_User Submitted Information_
 
-The email address you provide for order processing may be used to send you information and updates pertaining to your user account, in addition to receiving occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+**Third Party Information and Content.** If you access the Services through a third party connection or log-in, your user submitted information may also include your user name associated with that third party service, any information or content you have permitted the third party to share with the Company, and any information you have made public in connection with that third party service (collectively, "Third Party Information and Content"). Third Party Information and Content obtained in this manner will be governed by this Privacy Policy and the terms and conditions applicable to use of the Services. In addition, the Company may supplement the information we collect with information we obtain from third parties to improve the quality of the Services. 
 
-**How do we protect your information?**  
-We are committed to maintaining the security of your information. We have implemented a variety of sophisticated and up to date measures to maintain the safety of your personal information. The limited information (i.e.: email) we do possess is completely safe and secure.
+_Collected Information_
 
-**BROWSER COOKIES**  
-Browser cookie will be dropped at various times including upon click of a coupon or deal based upon requirements. If the end user chooses to click on the drop down offer, they will be redirected to the partner's (aka advertiser's) site via affiliate cookies. We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+**Transactional and Site Activity Information.** When users access the Services, we collect certain non-personally identifiable information about those visits for marketing purposes. For example, in order to permit your connection to the Services, our servers receive and record information about your computer, operating system and browser, including your IP address, browser type, and other software or hardware information. If you access the Services from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device in order to serve content to it. 
 
-**INFORMATION DISCLOSURES**  
-Drop Down Deals reserves the rights to disclose personally-identifiable information in the following cases:  
+**Tracking Technologies.** The Company may use cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology), which are comprised of small bits of data that often include an anonymous unique identifier. Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that site. These technologies may be used to collect and store information about your usage of the Services, such as pages you have visited, search queries you have run, links you have clicked and advertisements you have seen so that we can serve you more relevant ads when using the Services. The Company may also use cookies and similar tools to relate your use of Services to personal information obtained from you or a reputable third party. For example, if you have asked us to provide you information about our upcoming products or promotions, cookie and/or click stream data about your activities on the Company Website may allow us to limit the materials we provide you to items we think you will find interesting, based on your prior online activities and preferences.
 
+**Third Party Collection.** Third parties that support the Services by serving advertisements or providing other services, such as providing users with the ability to comment on content, allowing users to share content or tracking aggregate site usage statistics may also use cookies and other tracking technologies described above to collect similar information. The Company does not control these third parties and their use of these technologies is governed by the privacy policies of the third parties using such technologies. For more information about third party ad networks that use these technologies, see [www.aboutads.info](http://www.aboutads.info/). Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g., http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies). Users can manage the use of Flash technologies, including cookies, with the Flash management tools available at Adobe's website, see <http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html>. Please note that by blocking any or all cookies you may not have access to the Services or certain features thereof.
 
-  1. To respond to subpoenas, court orders, legal processes, or to establish and excercise our legal rights to defend against a legal claim
-  2. If Drop Down Deals LLC is acquired by or merged with another company, we might transfer your personal and non-personal information to that company. When this happens, Drop Down Deals will notify you before any information is transferred.
+**3\. NOTICE AND MODIFICATIONS**
 
+**Means of Notice and Privacy Policy Modifications.** This Privacy Policy is the means by which the Company provides you with notice about its collection and use of your personal information. The Company will not use your personal information in a manner different from what is described in this Privacy Policy. The Company may modify this Privacy Policy at any time, and each such modification will be effective upon posting on the Site. Your continued use of the Services following any such modification constitutes your acceptance of the Privacy Policy as so modified. It is therefore important that you review this Privacy Policy regularly. You may also receive a copy of this Privacy Policy by emailing us at [privacy@DropDownDeals.com](mailto:privacy@DropDownDeals.com); Subject: Privacy Policy. 
 
+**Location of Data.** The Services are hosted in the United States. If you are a user located outside the United States, you understand and consent to having any personal information you provide transferred to, processed, and stored in the United States and other countries where data protection and other privacy laws may not offer the same level of protection as in your jurisdiction, such as the European Union. This includes the use of cookies and other tracking technologies as described above. As a result, please read this Privacy Policy with care.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you use Drop Down Deals services or visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
+**Linked Services.** The Services may also be linked to sites or services operated by the Company’s affiliates or third parties, and may carry advertisements or offer content, functionality, games, rewards programs, newsletters, contests or sweepstakes, or applications developed and maintained by third parties including, any online store. The Company is not responsible for the privacy practices of any such third parties, and once you leave the Services via a link, enable a third party service, or click an advertisement, you should check the applicable privacy policy of the third party site. Users who visit a Company affiliated site should still refer to its separate privacy policy, which may differ in some respects from this Privacy Policy.
 
-**NO ERROR-FREE PERFORMANCE**  
-Drop Down Deals does not guarantee error-free performance. Drop Down Deals will always try its best to protect its user and data privacy; however, it may not catch all unintended privacy issues. Drop Down Deals is not responsible for any damages, including incidental, consequential, or punitive damages, relating to the practices described in this policy.
+**4\. USE & DISCLOSURE**
 
-**Third party links**  
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+_Information Made Public Through Use of the Services_
 
-**California Online Privacy Protection Act Compliance**  
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Third Party Information and Content may be publicly available according to the permissions you grant to the Company, the applicable policies of the third party and the terms and conditions and/or terms of use for the Services.
 
-Childrens Online Privacy Protection Act Compliance
+_Company's Use and Disclosure of Information_
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We only share your non-public personal information with non-affiliated third parties when we believe sharing is permitted by you or authorized by this Privacy Policy. In addition, the Company may share your personal information with our affiliated companies.
 
-**Online Privacy Policy Only**  
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+We use the information we collect from and about users for the following purposes: 
 
-**ACCEPTANCE**  
-This privacy policy is incorporated into and subject to Drop Down Deals' Terms of Service. Use of Drop Down Deals Technology, Inc.'s services is subject to your compliance with those terms and conditions, which constitute a legal agreement between you and Drop Down Deals Technology, Inc. THE USE OF THIS WEB SITE AND DROP DOWN DEALS' APPLICATIONS CONSTITUTES THE ACCEPTANCE OF BOTH TERMS OF SERVICE AND PRIVACY POLICY AGREEMENTS. If you do not agree with the terms and conditions of either document, please discontinue using any of Drop Down Deals Technology, Inc.'s services.
+**To provide and manage the Services.** We use the information we collect from and about users to provide the Services to you, to measure and improve the Services, to keep the Services ad supported and free of charge to you, to personalize your experience by delivering relevant content, advertising and marketing messages, to allow you to comment on content, participate in online games, contests, promotions or rewards programs, to enable you to communicate and share with other users or services, and to provide you with customer support and respond to inquiries. We may use aggregated, anonymous data about use of and activity on the Services to assist us in this regard and such data is not subject to this Privacy Policy.
 
-**Yontoo Layers Information Collection and Transfer**  
-To provide services to the User, Drop Down Deals requires Yontoo Layers software to be installed. Yontoo is a browser plugin platform that enables application developers to build browser applications such as Drop Down Deals.
+**To protect the rights of Company and our users.** There may be instances when the Company may disclose user information without providing notice or choice, including situations where the Company has a good faith belief that such disclosure is necessary in order to: (i) protect or defend the legal rights or property of the Company, our affiliated companies or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of users of the Services or members of the public; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law or legal process.
 
-When you install Yontoo Layers a set of non-personally identifiable values are stored on your computer and transferred back and stored on Yontoo’s servers. This set of data consists of a randomly generated value that identifies the Yontoo Plug-in associated with each of your Yontoo supported browsers, and a randomly generated value representing your computer. These non-personally identifiable values enable Yontoo to provide you with the services and Layer Apps that you have selected to enable.
+**To complete a merger or sale of assets.** If the Company sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, the Company may transfer your information to the party or parties involved in the transaction as part of that transaction.
 
-Once you have installed Yontoo Layers, each time you load or refresh a page in one of the Yontoo supported browsers, a request will be made to a Yontoo owned server to determine whether or not you have enabled any Services for the domain you are currently browsing. To determine this, the request made by Yontoo Layers will collect and pass back the following non-personally identifiable information: The unique identifier representing the Yontoo Layers plug-in installed in your browser and the URL representing the domain and page you are currently browsing. This data is used for the sole purpose of determining whether or not you have enabled any Layer Apps for the given domain and page. This Web usage information is never stored on Yontoo’s servers.
+**5\. SECURITY**
 
-If you utilize one of the Layer Apps that runs on the Facebook domain, Yontoo may also collect your Facebook username and user ID. This information will be stored in a cookie on your computer, and passed back as part of the aforementioned request. The sole purpose of this additional information is to provide you with a more personalized experience while utilizing Facebook related Layer Apps. This information will be stored on Yontoo’s servers and is correlated with the above-mentioned Yontoo plug-in identifier.
+The Company uses reasonable administrative, technical, personnel and physical measures to safeguard user information in its possession against loss, theft and unauthorized use, disclosure or modification. Unfortunately, no transmission of data over the Internet can ever be guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal information, the Company cannot ensure or warrant the security of any personal information you transmit to us. Any such transmission is done at your own risk. If you believe that your interaction with us is no longer secure, please notify us of the problem by emailing [privacy@DropDownDeals.com](mailto:privacy@DropDownDeals.com).
 
-No information from children under age 13. If you are under age 13, please do not attempt to register for Yontoo Layers or provide any personal information about yourself to Yontoo. If Yontoo learns that they have collected personal information from a child under age 13, they will delete that information as quickly as possible. If you believe that Yontoo might have any information from a child under age 13, please contact Yontoo through its support page (<http://www.yontoo.com/Support.aspx>).
+**6\. USER CONTROL**
 
-Parental participation: Yontoo strongly recommends that minors ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe internet use practices.
+You may uninstall software related to the Services at any time by following the instructions provided in the Company's Terms of Service currently available at [http://www.DropDownDeals.com/Terms](http://www.dropdowndeals.com/terms). Note that after you uninstall the software, certain related files may remain on your system. These remnant files are a record of your previous download of the Company's software, and are not executable programs. These files help the Company to prevent fraud on the Services and to better service you if you choose to download the software again. We will not use the files to track you or otherwise collect or store information about you. Remember that even after you uninstall software or cancel your account, copies of some information that is publicly viewable may remain viewable in circumstances where, for example, you have commented on content on the Services or if another person copied, stored or shared your information. We may also retain backup information related to your account on our servers for some time after cancellation for fraud detection or to comply with applicable law or our internal security policies.
 
-This information collection, transfer and storage as described in this section, is required for Yontoo Layers functionality. If you do not wish for any of this information to be collected or potentially shared as described in the following section (Yontoo Layers Information Sharing), you should not use the Yontoo Software or Services.
+**7\. CONTACT US**
 
-**Yontoo Layers Information Sharing**  
-Yontoo may collect and analyze your usage patterns such as which sites you visit, that are not personally identifiable. These non-personally identifiable data are used to improve Yontoo’s services, and may be shared with third parties.
+If you have questions about this Privacy Policy, or if you would like access to your personal information to correct, update, or delete it, please contact us as described below:
 
-Yontoo Layers may engage with third party analytics providers, such as Google Analytics, to provide Yontoo with data to improve its software and services. Any information, such as URL visited, that Yontoo provides to one of these third parties is not personally identifiable.
+Web Deals Interactive LLC  
+427 N Tatnall St, #65176  
+Wilmington, DE 19801-223  
+[privacy@DropDownDeals.com](mailto:privacy@DropDownDeals.com)
 
-Yontoo reserves the right to track and use aggregate information about users of Yontoo Layers, such as operating system, browser type and locality, for a variety of purposes. Such aggregate information does not identify individual consumers. We may share such aggregate and related demographic information with third parties.
-
-**Yontoo Layers Privacy Policy**  
-Yontoo respects the privacy of its users and non-users. Yontoo goes to great lengths to ensure that the information collected by Yontoo Layers is secure and only accessible by intended users. Yontoo may modify this policy from time to time, and the changes will be posted on the Yontoo website (<http://www.yontoo.com/PrivacyPolicy.aspx>).
-
-**Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-[http://www.DropDownDeals.com/contact](http://www.dropdowndeals.com/contact)
-
-Drop Down Deals LLC  
-5857 Owens Avenue, Suite 300  
-Carlsbad, CA 92008
-
-[terms@dropdowndeals.com](mailto:terms@dropdowndeals.com)
+**Your California Privacy Rights.** California Civil Code Section 1798.83 permits users who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send a request to [privacy@DropDownDeals.com](mailto:privacy@DropDownDeals.com) or the above-referenced mailing address.
