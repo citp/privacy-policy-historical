@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opening-times.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011325id_/http%3A//opening-times.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opening-times.co.uk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618223730id_/http%3A//opening-times.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Opening-Times.co.uk - Opening Times
 
