@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the sotech.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225092548id_/http%3A//sotech.com/main2007/eval.asp%3Fpid%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sotech.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618120207id_/http%3A//www.sotech.com/main2007/eval.asp%3Fpid%3D24) for the most accurate reproduction.*
 
 # Socratic Technologies, Inc.
 
-Socratic Technologies, Inc. supports the [Interactive Marketing Research Organization (IMRO)](http://www.imro.org/) and subscribes to the IMRO Code of Ethics as they apply to conducting online research.
-
-Socratic Technologies, Inc. is a voluntary member of the [DOC Safe Harbor program](http://www.export.gov/safeharbor/index.html).
+Socratic Technologies, Inc. is a voluntary member of the [DOC Safe Harbor program](http://export.gov/safeharbor/).
 
 ## Code of Ethics
 
-As a means of achieving and implementing ethical research practices, the IMRO endorses the following Code of Ethics:
+As a means of achieving and implementing ethical research practices, Socratic Technologies, Inc. endorses the following Code of Ethics:
 
-The use of interactive and Internet research technologies provides an unprecedented communication mechanism for the exchange of ideas on a worldwide basis. These same tools also have the potential for misuse, particularly in consideration of the privacy rights of individuals. The Interactive Marketing Research Organization is founded on the principles of upholding the highest standards of both ethical and professional conduct in the use of research technologies.
+The use of interactive and Internet research technologies provides an unprecedented communication mechanism for the exchange of ideas on a worldwide basis. These same tools also have the potential for misuse, particularly in consideration of the privacy rights of individuals.  Socratic is founded on the principles of upholding the highest standards of both ethical and professional conduct in the use of research technologies.
 
 Over and above normal standards of research, our professional activities shall be conducted with particular respect for the individual's right to privacy, both in terms of confidentiality of information collected during the marketing research process and the right to be free from unsolicited and unwanted contact.
 
@@ -20,7 +18,7 @@ By default and design, confidentiality shall be granted for all information coll
 
 ## Rights of Privacy
 
-The right of the individual to be free from unsolicited contact is duly recognized. By default and design, customers and individuals will have the right to opt out of the research process. Specifically, IMRO members will abstain from the following types of surreptitious sampling and unsolicited or unethical recruitment techniques, known collectively as "spamming:"
+The right of the individual to be free from unsolicited contact is duly recognized. By default and design, customers and individuals will have the right to opt out of the research process. Specifically, Socratic will abstain from the following types of surreptitious sampling and unsolicited or unethical recruitment techniques, known collectively as "spamming:"
 
   * Collection of respondent emails from Web sites, portals, Usenet or other bulletin board postings without specifically notifying individuals that they are being "recruited" for research purposes;
   * The use of Spambots, Spiders, Sniffers or other "agents" that collect personal information without the respondents' explicit awareness;
@@ -40,10 +38,10 @@ Unsolicited/Unethical Recruitment (Spamming) can include but is not limited to t
 
 
 
-In all cases, the purpose of research conducted by IMRO members will be clearly and accurately stated along with the limitations of the use of personal information gathered. Individuals will have the right to be removed from potential research respondent lists and given a clear and simple way of communicating such a decision.
+In all cases, the purpose of research conducted will be clearly and accurately stated along with the limitations of the use of personal information gathered. Individuals will have the right to be removed from potential research respondent lists and given a clear and simple way of communicating such a decision.
 
-Members will not willing and knowingly mislead respondents as to the parameters of the research process including length of survey, incentive, use of data, etc.
+Socratic will not willingly and knowingly mislead respondents as to the parameters of the research process including length of survey, incentive, use of data, etc.
 
-IMRO members will at all times conform to the 1998 Children's Online Privacy Protection Act (COPPA) and not collect personal data from children under the age of thirteen without the express approval of their parents or guardians.
+Socratic will at all times conform to the 1998 Children's Online Privacy Protection Act (COPPA) and not collect personal data from children under the age of thirteen without the express approval of their parents or guardians.
 
-IMRO members pledge to comply with the local, national and regional laws and regulations regarding the use of all modes of data collection including both interactive and traditional channels of communication in the countries where research is being performed.
+Socratic pledges to comply with the local, national and regional laws and regulations regarding the use of all modes of data collection including both interactive and traditional channels of communication in the countries where research is being performed.
