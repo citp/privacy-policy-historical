@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214054238id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619001627id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Namesco
 
@@ -83,3 +83,18 @@ If you use this Website to purchase services you may occasionally receive inform
 ### POLICY CHANGES
 
 Changes in this policy will be posted on our Website. You are advised to check our Website regularly to view our most recent Privacy Policy.
+
+*Get a .uk (co.uk, .me.uk, .org.uk) domain name with a 1 year registration, FREE with any of our Annual Web Hosting, SiteMaker or Ecommerce Packages.
+
+‡ 4 Months Free Web Hosting applies to Professional, Premium and Platinum Annual and Multi-Year Hosting and is applied by giving 1/3 off the original annual price. Discount applies to new purchases and for the first billing period only. Offer cannot be used in conjunction with any other offer and may be withdrawn at any time at the discretion of Namesco. Standard terms and conditions of service apply.
+
+**The 99p price for .EU domains excludes VAT (£1.18 incl. VAT) and is for initial billing period only. Standard renewal rate applies. Offers may be withdrawn at any time at the discretion of Namesco. Standard terms and conditions of service apply.
+
+#### Dada Group Figures and Stats
+
+  * 1,800,000 domains registered in over 250 extensions
+  * 40,000 new registrations per month
+  * 500,000 websites hosted on our platforms
+  * 490,000 clients are using our products
+
+
