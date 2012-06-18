@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the civilwar.org privacy policy that was archived on 2011-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218084926id_/http%3A//www.civilwar.org/aboutus/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the civilwar.org privacy policy that was archived on 2012-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618144015id_/http%3A//www.civilwar.org/aboutus/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -8,7 +8,7 @@
 
 
 <meta name="generator" content="Convio CMS"> 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=152955081401319"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
 
 
 <script language="JavaScript" type="text/javascript" src="/components/print/printer-friendly.js"></script>
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '3022:0';
-CONVIO.pageSessionID = 'ysgzib2x72.app334b';
+CONVIO.pageSessionID = 'yb0cb1r1j4.app332b';
 CONVIO.pageSessionName = 'JServSessionIdr004';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1324198166179"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1340030414958"></script>
 <script type="text/javascript">
 
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
@@ -65,6 +65,7 @@ CONVIO.gigya.conf = {
 <script src="http://www.civilwar.org/assets/scripts/jquery.js" type="text/javascript"></script>
 <script src="http://www.civilwar.org/assets/scripts/swfobject.js" type="text/javascript"></script>
 <script src="http://www.civilwar.org/assets/scripts/png.js" type="text/javascript"></script>
+<script src="http://www.civilwar.org/assets/scripts/jquery-scrollto-min.js" type="text/javascript"></script>
 
 <!--Global scripts-->
 <script src="http://www.civilwar.org/assets/scripts/global.js" type="text/javascript"></script>
@@ -101,32 +102,20 @@ CONVIO.gigya.conf = {
 <!--JW Player-->
 <script type="text/javascript" src="http://www.civilwar.org/jwplayer/jwplayer.js"></script>
 
-<!--iBox-->
-<script type="text/javascript" src="http://www.civilwar.org/assets/ibox/ibox.js"></script>
-<script type="text/javascript" src="http://www.civilwar.org/assets/ibox/ibox-extras.js"></script>
-<script type="text/javascript" src="http://www.civilwar.org/assets/ibox/ibox_jwplayer.js"></script>
-<link rel="stylesheet" type="text/css" href="http://www.civilwar.org/assets/ibox/skins/lightbox/lightbox.css">
+<!-- fancyBox -->
+<script type="text/javascript" src="http://www.civilwar.org/assets/scripts/fancybox/jquery-fancybox-pack.js?v=2.0.5"></script>
+<script type="text/javascript" src="http://www.civilwar.org/assets/scripts/fancybox/helpers/jquery-fancybox-thumbs.js?v=2.0.5"></script>
+
+<link rel="stylesheet" href="http://www.civilwar.org/assets/scripts/fancybox/jquery-fancybox.css?v=2.0.5" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.civilwar.org/assets/scripts/fancybox/helpers/jquery-fancybox-thumbs.css?v=2.0.5" type="text/css" media="screen">
+
 <script type="text/javascript">
-iBox.setPath('http://www.civilwar.org/assets/ibox/');
-iBox.inherit_frames = true;
-iBox.default_width = 500;
-
-function swapbox(url)
-{
-	iBox.hide();
-	setTimeout(function() {iBox.showURL(url);},1000);
-}
-
-iBox.addEvent(iBox, 'show', function() {
-	var newinput = document.createElement("input");
-	newinput.type = "hidden";
-	newinput.name = "NEXTURL";
-	newinput.id = "NEXTURL";
-	newinput.value = location.href + "?registered=true";
-	setTimeout(function() {if($("#survey_1661")) {$("#survey_1661").appendChild(newinput);}},3000);
-});
+	$(document).ready(function() {
+		$("*[rel=ibox]").fancybox({helpers: {thumbs: {width: 100, height: 100}}});
+		$("*[rel^=fancybox]").fancybox({helpers: {thumbs: {width: 100, height: 100}}});
+		$("*[rel^=fancybox-membercenter]").fancybox({type: 'iframe', width: 525, scrolling: 'no'});
+	});
 </script>
-
 
 <!--Google Analytics-->
 <script type="text/javascript">
@@ -146,6 +135,42 @@ iBox.addEvent(iBox, 'show', function() {
 </script>
 </head>
 <body class="sub">
+<!--Social media JS -->
+<div id="fb-root"></div>
+<script type="text/javascript">
+//<![CDATA[
+//Facebook
+window.fbAsyncInit = function() {
+	FB.init({
+		appId: '152955081401319',
+		channelUrl: '//www.civilwar.org/channel.html',
+		cookie: true,
+	});
+
+	$('.socialmedia').css('display','none');
+	$('.socialmedia').after('<div style="text-align: right;" class="socialmedia loading">Loading...</div>');
+
+	$(window).load(function() {
+		window.setTimeout(function() {
+			$('.socialmedia').css('display','block');
+			$('.socialmedia.loading').css('display','none');
+			$('.socialmedia .fb-like span').css('width','80px'); //Fix Facebook's broken width calculation
+		},100);
+	});
+};
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=152955081401319";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+//Twitter
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+//]]>
+</script>
+<!-- /social media -->
 <div id="content_wrapper">
 <div id="content">
 <div class="header">
@@ -177,8 +202,8 @@ iBox.addEvent(iBox, 'show', function() {
 	<!--<li>RSS</li>-->
 
 
-	<li><a href="http://www.civilwar.org/assets/member-center/site-registration.html" rel="ibox">Free Registration</a></li>
-	<li><a href="#login-form" rel="ibox">Login</a></li>
+	<li><a href="http://www.civilwar.org/assets/member-center/site-registration.html">Free Registration</a></li>
+	<li><a href="#login-form" rel="fancybox-login">Login</a></li>
 </ul>
 
 <div id="login-form" class="loginbox" style="display: none;">
@@ -206,8 +231,8 @@ iBox.addEvent(iBox, 'show', function() {
 			</tbody></table>
 			<input type="checkbox" name="RememberMe" id="RememberMe" value="RememberMe" checked="checked"> Remember Me?
 		</form>
-		<p class="otheroptions">Lost password? <a href="http://www.civilwar.org/assets/member-center/forgot-password.html" onclick="swapbox('http://www.civilwar.org/assets/member-center/forgot-password.html'); return false;">Password Recovery</a><br>
-		Need a login? <a href="http://www.civilwar.org/assets/member-center/site-registration.html" onclick="swapbox('http://www.civilwar.org/assets/member-center/site-registration.html'); return false;">Free Registration</a></p>
+		<p class="otheroptions">Lost password? <a href="http://www.civilwar.org/assets/member-center/forgot-password.html" rel="fancybox-membercenter2">Password Recovery</a><br>
+		Need a login? <a href="http://www.civilwar.org/assets/member-center/site-registration.html" rel="fancybox-membercenter3">Free Registration</a></p>
 	</div>
 </div>
 
@@ -303,7 +328,7 @@ iBox.addEvent(iBox, 'show', function() {
 <li><a href="http://www.civilwar.org/aboutus/contactus.html">Contact Us »</a></li>
 </ul>	
 	</li>
-	<li class="navStore" id="primary_home5"><a href="http://www.cafepress.com/cwpt/">Store</a>
+	<li class="navStore" id="primary_home5"><a href="http://www.cafepress.com/civilwartrust/">Store</a>
 		<ul>
 
 
@@ -316,6 +341,7 @@ iBox.addEvent(iBox, 'show', function() {
 <li><a href="http://astore.amazon.com/civiwarprestr-20/">Bookstore »</a></li>
 <li><a href="http://members.civilwar.org/site/Donation2?df_id=1340&amp;1340.donation=form1">Gift Memberships »</a></li>
 <li><a href="http://www.civilwar.org/giveanacre">Give an Acre »</a></li>
+<li><a href="http://www.civilwar.org/cards">Credit Cards »</a></li>
 </ul>	
 	</li>
 </ul>
@@ -342,13 +368,6 @@ iBox.addEvent(iBox, 'show', function() {
 
 <div class="subpage_content">
 	<div id="breadcrumb"><a href="#" onclick="history.back(-1); return false;">« Back</a></div>
-	
-	
-	<ul class="item_options">
-		<li><a href="http://www.facebook.com/share.php?u=http://www.civilwar.org/aboutus/privacy-policy.html" onclick="pageTracker._trackPageview('/outgoing/social/facebook/aboutus/privacy-policy.html');" class="facebook">Facebook</a></li>
-		<li><a href="http://twitter.com/home/?status=I'm currently reading http://www.civilwar.org/aboutus/privacy-policy.html on @civilwartrust's site. Check it out!" onclick="pageTracker._trackPageview('/outgoing/social/twitter/aboutus/privacy-policy.html');" class="twitter">Twitter</a></li>
-		<li class="last"><a href="#" onclick="doPrinterFriendly(); return false;" class="print">Print</a></li>
-	</ul>
 	<h1>Civil War Trust's Privacy Policy</h1>
 	<div class="copy_container">
 		<ul class="section_nav">
@@ -465,8 +484,9 @@ iBox.addEvent(iBox, 'show', function() {
 <li class="main sub_first">
 <div>Civil War Trust Resources</div>
 <ul>
-<li><a href="http://www.civilwar.org/aboutus/annual-reports/2010-annual-report.pdf">Annual Report - PDF (2010) »</a></li>
-<li><a href="http://www.civilwar.org/aboutus/accomplishments.html">Key Accomplishments&nbsp;»</a></li>
+<li><a href="http://www.civilwar.org/aboutus/annual-reports/2011-annual-report.pdf">Annual Report - PDF (2011) »</a></li>
+<li><a href="http://www.civilwar.org/aboutus/annual-reports/2011-annual-report-insert.pdf">"Leading the Charge: Roll Call of Honor" - PDF (2011) »</a></li>
+<li><a href="http://www.civilwar.org/preview!www.civilwar.org&#10;&lt;li&gt;&lt;a%20href=">Key Accomplishments&nbsp;»</a></li>
 <li><a href="http://www.civilwar.org/history-under-siege/">Most Endangered Battlefields Report&nbsp;»</a></li>
 <li><a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=6260">Charity Navigator: Civil War Trust&nbsp;»</a></li>
 <li><a href="http://www.guidestar.org/pqShowGsReport.do?partner=justgive&amp;npoId=81545">Guidestar: Civil War Trust&nbsp;»</a></li>
@@ -484,7 +504,11 @@ iBox.addEvent(iBox, 'show', function() {
 </div>
 		</ul>
 		<div class="copy">
-		<p>The Civil War Trust's website is intended to supply our viewer with information about battlefield preservation and the&nbsp;Civil War Trust's&nbsp;mission. In the course of providing these online services, information may be exchanged between the Civil War Trust, servers, online users and their browsers. In order to access certain material or services on this site, you may be asked to provide your name, address, and additional information. This privacy policy states the Civil War Trust's policy with regard to the personal information you provide.
+			<div class="item_options">
+				<div class="fb-like" data-href="http://www.civilwar.org/aboutus/privacy-policy.html" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
+				<a href="https://twitter.com/share" class="twitter-share-button" data-via="civilwartrust">Tweet</a>
+			</div>
+			<p>The Civil War Trust's website is intended to supply our viewer with information about battlefield preservation and the&nbsp;Civil War Trust's&nbsp;mission. In the course of providing these online services, information may be exchanged between the Civil War Trust, servers, online users and their browsers. In order to access certain material or services on this site, you may be asked to provide your name, address, and additional information. This privacy policy states the Civil War Trust's policy with regard to the personal information you provide.
 </p><p>
 </p><h2>Personal Information Collected</h2>
 <p>In general, when you visit our website and access information, you remain anonymous. We do not require you to register or provide personal information to us to view our site. There are occasions when we will ask for additional information. We do this to better understand and respond to your needs, and provide you with services that may be valuable to you. For example, personally identifiable information will be collected in order for you to become a member or donate to the Civil War Trust online. The Civil War Trust&nbsp;collects personal information from the following online items:</p>
@@ -516,26 +540,13 @@ iBox.addEvent(iBox, 'show', function() {
 <h2></h2>
 <p></p>
 <p></p>
-		
-
-
-
-
-
-  
-
-<div id="followbuttons">
-	<p><strong>Want the Latest?</strong> Follow us on Twitter and Facebook:</p>
-	<div>
-		<div id="fb-root"></div>
-		<script src="http://connect.facebook.net/en_US/all.js#appId=187673141301728&amp;xfbml=1"></script>
-		<fb:like href="http://www.facebook.com/civilwartrust" send="false" layout="button_count" width="100" "="" font=""></fb:like>
-
-		<a href="http://twitter.com/civilwartrust" class="twitter-follow-button">Follow @civilwartrust</a>
-		<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-	</div>
-</div>
-
+			<div id="followbuttons">
+				<p><strong>Want the Latest?</strong> Follow us on Twitter and Facebook:</p>
+				<div>
+					<div class="fb-like-box" data-href="http://www.facebook.com/civilwartrust" data-width="190" data-show-faces="false" data-stream="false" data-header="true"></div>
+					<a href="https://twitter.com/civilwartrust" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @civilwartrust</a>
+				</div>
+			</div>
 		</div>
 	</div>
 	<div style="clear: both; overflow: hidden; height: 1px;"></div>
@@ -562,7 +573,6 @@ iBox.addEvent(iBox, 'show', function() {
 
 
 
-<script type="text/javascript" src="https://cmsadmin30.convio.net/system/auth/author-toolbar.jsp?hostID=11474462"></script>
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 
@@ -595,8 +605,12 @@ if (! CONVIO.user) { CONVIO.user = {}; }
 CONVIO.user.isAnonymous = true;
 </script>
 
-<script type="text/javascript" src="/components/floatbar/floatbar.js"></script>
 
+
+<script type="text/javascript" src="https://cmsadmin30.convio.net/system/auth/author-toolbar.jsp"></script>
+
+
+<script type="text/javascript" src="/components/floatbar/floatbar.js"></script>
 
 
 
@@ -662,8 +676,8 @@ CONVIO.user.isAnonymous = true;
   
 
 <div>
-	<img class="acreage" alt="30,000" src="http://telegraph.civilwar.org/cmsscripts/acres/?acres=30000">
-	<h2 class="acres">30,000 Acres Saved</h2>
+	<img class="acreage" alt="32,000" src="http://telegraph.civilwar.org/cmsscripts/acres/?acres=32000">
+	<h2 class="acres">32,000 Acres Saved</h2>
 	<a href="http://www.civilwar.org/land-preservation/saved-land.html" class="acres">Help Save History</a>
 </div>
 
@@ -717,26 +731,25 @@ CONVIO.user.isAnonymous = true;
 	<li><a href="http://www.civilwar.org/resources">Resources</a> | </li>
 	<li><a href="#login-form" rel="ibox">Member Center</a> | </li>
 	
-	<li><a href="http://www.civilwar.org/aboutus/privacy-policy.html">Privacy Policy</a> | </li>
-	<li><a href="http://www.civilwar.org/aboutus/contactus.html">Contact Us</a></li>
+	<li><a href="http://www.civilwar.org/aboutus/privacy-policy.html" rel="nofollow">Privacy Policy</a> | </li>
+	<li><a href="http://www.civilwar.org/aboutus/contactus.html" rel="nofollow">Contact Us</a></li>
 </ul>
 
 <ul class="item_options">
 	<li class="text"><p>Join Civil<br>War Trust</p></li>
-	<li><a class="facebook" href="http://www.facebook.com/civilwartrust">Facebook</a></li>
-	<li><a class="twitter" href="http://www.twitter.com/civilwartrust">Twitter</a></li>
-	<li><a class="flickr" href="http://www.flickr.com/photos/cwpt/">Flickr</a></li>
-	<li><a class="youtube" href="http://www.youtube.com/cwptbattlefields">Youtube</a></li>
+	<li><a class="facebook" href="http://www.facebook.com/civilwartrust" rel="nofollow">Facebook</a></li>
+	<li><a class="twitter" href="http://www.twitter.com/civilwartrust" rel="nofollow">Twitter</a></li>
+	<li><a class="flickr" href="http://www.flickr.com/photos/cwpt/" rel="nofollow">Flickr</a></li>
+	<li><a class="vimeo" href="http://www.vimeo.com/civilwartrust" rel="nofollow">Vimeo</a></li>
 </ul>
 <ul class="confidence">
 	<li class="text"><p>Give with<br>Confidence</p></li>
 	<li><img src="http://www.civilwar.org/assets/images/logos/best-in-america-50px.png" alt="Best Charities in America"></li>
-	<li><a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=6260"><img src="http://www.civilwar.org/assets/images/logos/charity-navigator-logo-50px.jpg" alt="Charity Navigator Four Star Charity"></a></li>
-	<li><a href="http://www2.guidestar.org/organizations/54-1426643/civil-war-preservation-trust.aspx"><img src="http://www.civilwar.org/assets/images/logos/guidestar-50px.png" alt="Civil War Trust on Guidestar"></a></li>
+	<li><a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=6260" rel="nofollow"><img src="http://www.civilwar.org/assets/images/logos/charity-navigator-logo-50px.jpg" alt="Charity Navigator Four Star Charity"></a></li>
+	<li><a href="http://www2.guidestar.org/organizations/54-1426643/civil-war-preservation-trust.aspx" rel="nofollow"><img src="http://www.civilwar.org/assets/images/logos/guidestar-50px.png" alt="Civil War Trust on Guidestar"></a></li>
 </ul>
 </div>
 </div>
-
 <div id="poweredBy" style="float: right;">
 
 
@@ -764,9 +777,7 @@ CONVIO.user.isAnonymous = true;
 </div>
 <!-- END: Powered By -->
 </div>
-
-
-
+<script type="text/javascript">$('#cv-poweredBy a').attr('rel','nofollow');</script>
 <script type="text/javascript">
 var back = document.getElementById('breadcrumb-back');
 if (back != null)
