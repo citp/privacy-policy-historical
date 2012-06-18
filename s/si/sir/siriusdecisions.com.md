@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siriusdecisions.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220062938id_/http%3A//www.siriusdecisions.com/live/home/document.php%3FdA%3Dprivacy%26FID%3DMarketing) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siriusdecisions.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618165509id_/http%3A//www.siriusdecisions.com/live/home/document.php%3FdA%3Dprivacy%26FID%3DMarketing) for the most accurate reproduction.*
 
-# Privacy Policy
+# SiriusDecisions | Privacy Policy
 
 **Information Collection and Use   
 **When you register on SiriusDecisions Web site(s), or for SiriusDecisions events, or purchase products, we ask you for personal information. We use this information to provide you with the best advice and highest-quality service as well as with offers that we think are relevant to you. We may also contact you regarding a Web site problem or other customer service-related issues. 
@@ -21,7 +21,7 @@ SiriusDecisions does not market to children and does not knowingly collect perso
 
 SiriusDecisions uses third-party service providers such as credit card processing companies, shipping companies, mailing houses and event coordinators together with other service providers as required to satisfy client requests. 
 
-When you register for a SiriusDecisions event, we provide necessary information to hotels and to facilities hosting events. These parties are allowed to use that personal information only to provide services relevant to the event. 
+When you register for a SiriusDecisions event, we provide necessary information to hotels and to facilities hosting events. These parties are allowed to use that personal information only to provide services relevant to the event. SiriusDecisions uses the information obtained from you for the purposes of enabling your attendance at SiriusDecisions conferences. SiriusDecisions may disclose your information to third party service providers for this purpose. SiriusDecisions may also disclose your information to other conference attendees. If you wish to opt-out of sharing your information with sponsors/exhibitors and other conferees, please contact us in writing at SiriusDecisions Events, 187 Danbury Rd, Wilton, CT 06897. Attendee list does not include any email, address or phone details. SiriusDecisions will not disclose your personal information to any other third party without your consent except when required to do so by law. 
 
 **Usage Entitlements**
 
