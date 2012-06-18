@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209181548id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619013535id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Experience-Essential-Oils.com
 
@@ -79,14 +79,21 @@ _a copy of_
 
 * * *
 
-**Main Event December 6 and 8**
+###   
+_New Internet Radio Show On Fridays at 2 PM EST_
 
-Want To Learn More? Listen to the [Preview Call for this Event!](http://www.experience-essential-oils.com/essential-oil-teleseminars-and-webinars.html)
+_Change Your Vibe_ with Nan Martin is a weekly show where listeners can learn about energy healing techniques and essential oils!
+
+**Fridays at 11 AM Pacific or  
+2 PM Eastern**  
+[**Info and Call in Number Here!**](http://www.experience-essential-oils.com/free-internet-radio-program.html)
+
+* * *
 
 ###   
-_Miss Part 1 of Breaking through Barriers?_
+_Free Teleseminar! Break through Barriers with Essential Oils Now!_
 
-**Part 1 is Complimentary, so Listen to this[Life Changing Seminar Now!](http://www.experience-essential-oils.com/breaking-through-emotional-barriers-with-essential-oils.html)**
+[**Listen to Nan's Life Changing Seminars Now!**](http://www.experience-essential-oils.com/breaking-through-emotional-barriers-with-essential-oils.html)
 
 * * *
 
