@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designerpages.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120084813id_/http%3A//www.designerpages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerpages.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618222744id_/http%3A//www.designerpages.com/privacy) for the most accurate reproduction.*
 
 # Designer Pages: Privacy Policy
 
@@ -21,22 +21,6 @@ The information We may collect is categorized as follows:
 
 
 
-We generally use information for the following purposes: to customize the advertising and content you see, to provide you with the Services, to improve the Services, to contact you, to conduct research, and to provide reporting for Third Parties. In addition:
-
-  * We provide your name, email address, company and search information to Third Parties. These Third Parties may use your personal information to communicate with you about their offers and offers from Our Company if they choose to do so.
-  * We may use information to resolve disputes, investigate problems, or enforce the Terms of Service. At times, We may review status or activity of multiple users to do so. We may disclose or access information whenever We believe in good faith that the law so requires or if We otherwise consider it necessary to do so to maintain and improve Our Services.
-  * We may provide targeted advertisements based on personal information. Advertisers may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. By interacting with or viewing an ad, you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. We may provide personal information to an advertiser if you interact with or view a targeted ad.
-
-
-
 As part of Our Services, We use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer’s hard drive. We use web beacons to access Our cookies inside and outside Our Site and in connection with Our Services. We may also use web beacons to determine whether you have visited a link on Our Site. In some instances, We allow other companies that show advertisements on some of Our pages to use their own cookies, which are subject to their own privacy policies. We encourage you to read their privacy policies before responding to their offers.
 
-You can edit your account information at any time through normal updating methods. To delete your account, please email the Company at [accounts@designerpages.com](mailto:accounts@designerpages.com). Please click here to read about information that might possibly remain in Our archived records after your account has been deleted.
-
 We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. Further, We limit access to personal information about you to employees who We believe reasonably need to come into contact with that information to provide the Services to you or in order to do their jobs.
-
-We have no way of distinguishing the age of individuals who access Our Site, and so We carry out the same privacy policy for individuals of all ages. If a child has provided the Company with personal information without parental or guardian consent, the parent or guardian should contact the Company to remove the information and opt out of promotional opportunities.
-
-We may update this Privacy Policy from time to time. Any changes to Our Privacy Policy will be communicated through Our Site. We will also contact registered users by email when and if significant changes are made to this Privacy Policy.
-
-By using Our Site, you consent to the collection and use of this information in the manner We describe.
