@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fleshlight-international.eu privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228152350id_/http%3A//www.fleshlight.com/faq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshlight-international.eu privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618090649id_/http%3A//www.fleshlight-international.eu/faq-privacy-policy) for the most accurate reproduction.*
 
-# Fleshlight privacy Policy
+# None
 
 Frequently Asked Questions 
 
