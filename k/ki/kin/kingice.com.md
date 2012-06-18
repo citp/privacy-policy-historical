@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230223718id_/http%3A//www.kingice.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618203256id_/http%3A//www.kingice.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  |  [NEW ARRIVALS](http://www.kingice.com/new-arrivals.html "New Arrivals")  
+|  |  [](https://web.archive.org/new-arrivals.html "New Arrivals")  
 ---  
    
-[HIP HOP COLLECTIONS](http://www.kingice.com/Collections-100572.html "Hip Hop Collections")  
+[](https://web.archive.org/Collections-100572.html "Hip Hop Collections")  
    
-[CELEBRITY JEWELRY](http://www.kingice.com/Celebrity-Jewelry-100596.html "Celebrity Jewelry")  
+[](https://web.archive.org/Celebrity-Jewelry-100596.html "Celebrity Jewelry")  
    
-[TOP SELLERS](http://www.kingice.com/top-sellers.html "Top Sellers")  
+[](https://web.archive.org/top-sellers.html "Top Sellers")  
    
-[TESTIMONIALS](http://www.kingice.com/testimonial.aspx "Testimonial")  
+[](https://web.archive.org/testimonial.aspx "Testimonial")  
    
-[80% CLEARANCE](http://www.kingice.com/Jewelry-Sale-100518.html "Clearance")  
+[](https://web.archive.org/Social-Media-Contests-100672.html "Top Sellers")  
+   
+[](https://web.archive.org/Jewelry-Sale-100518.html "Clearance")  
 | 
 
   
