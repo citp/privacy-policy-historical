@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the logallot.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129120504id_/http%3A//logallot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logallot.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618132502id_/http%3A//www.logallot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | logallot.com
+# LogAllot.com -
 
-  
-
-
-## Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our [privacy policy](http://www.logallot.com/privacy-policy/ "privacy policy").
 
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
 
