@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the whichvoip.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101115616id_/http%3A//www.whichvoip.com/common/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whichvoip.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618030609id_/http%3A//www.whichvoip.com/common/privacy.htm) for the most accurate reproduction.*
 
-# WhichVoIP.com Privacy Policy
+# Privacy Policy | WhichVoIP
+
+_Last Updated: December 22nd, 2011_
 
 **www.whichvoip.com("WhichVoIP", "we", "our")** is committed to protecting the privacy of visitors on-line while interacting with the content, products and services on this site (the "Site"). This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. This Privacy Policy describes in some detail the information that we collect from you ( **or "User"** ) as part of the normal operation of our service, and what may happen to the information we collect.
 
@@ -45,6 +47,10 @@ You will receive notice when your Personal Information might be provided to any 
 We use non-identifying and aggregate information to better design our website and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.
 
 We may also work with outside companies to provide you with customized advertising or content. Your Personal Information and Website Information may be shared with these companies. However we will not allow these companies to share your Personal Information with any third party or from using it for any other purpose. 
+
+## Use of Review Submission Information
+
+By submitting a review on this Site the User permits the Site to use this information for validating that the User submitting the review is a current, or previous, customer of the Service Provider in review. This may include sharing some or all of the information obtained from the review submission with the service provider under review for verification purposes to help mitigate false review submissions.
 
 ## Email/ Newsletter Opt-out
 
@@ -118,4 +124,9 @@ We may change this Privacy Policy from time to time. We will post any changes he
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us.](https://web.archive.org/web/20111101115616id_/http%3A//www.whichvoip.com/common/contact_us.htm)
+If you have any questions or suggestions regarding our privacy policy, please [contact us.](https://web.archive.org/web/20120618030609id_/http%3A//www.whichvoip.com/common/contact_us.htm)
+
+## Share using the social media buttons below
+
+  *   *   *   * 
+
