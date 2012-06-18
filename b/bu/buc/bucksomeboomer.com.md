@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bucksomeboomer.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219171126id_/http%3A//www.bucksomeboomer.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucksomeboomer.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618132824id_/http%3A//www.bucksomeboomer.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Bucksome Boomer
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at bucksome@bucksomeboomer.com.
 
