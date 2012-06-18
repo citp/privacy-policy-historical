@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dfghosting.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007071728id_/http%3A//dfghosting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfghosting.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618092742id_/http%3A//dfghosting.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « DFGHosting
+# Privacy Policy « Web Hosting & Domain Names by DFGHosting.com
 
 #### Effective May 15, 2010
 
@@ -12,7 +12,11 @@ We collect the minimum amount of information about you that is commensurate with
 
 #### Information Collected
 
-We may collect any or all of the information that via both automated means such as communications profiles and cookies. Personal Information you give us depends on the type of service, support, or sale inqury, and may include your name, address, telephone number, fax number and email address, dates of service provided, types of service provided, payment history, manner of payment, amount of payments, date of payments, domain name, credit card or other payment information. The financial information will be transferred only be used to bill you for the products and services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. All sensitive information is collected on a secure server and data is transferred . When transferring personal information a security icon will appear in your browser.
+We may collect any or all of the information that via both automated means such as communications profiles and cookies. Personal Information you give us depends on the type of service, support, or sale inqury, and may include your name, address, telephone number, fax number and email address, dates of service provided, types of service provided, payment history, manner of payment, amount of payments, date of payments, domain name, credit card* or other payment information. The financial information will be transferred only be used to bill you for the products and services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. All sensitive information is collected on a secure server and data is transferred . When transferring personal information a security icon will appear in your browser.
+
+  * We do not store or collect any credit card information locally on our servers. All credit card information is collected through third party processing centers. Any information collected during credit card transactions and submitted by you, the buyer, will be used only for the purpose of completing the transaction, delivering the product and addressing any customer service issues.
+
+
 
 #### Information Use
 
@@ -32,7 +36,7 @@ We do not disclose any personal information obtained about you from this website
 
 #### Correcting/Updating Personal Information
 
-If a customer’s personally identifiable information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer’s personal data in our records. In most cases, this can be achieved via our billing system at https://dfghosting.com/clientarea.php. Otherwise, please contact us at [support@dfghosting.com](mailto:support@dfghosting.com)
+If a customer’s personally identifiable information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer’s personal data in our records. In most cases, this can be achieved via our billing system at https://dfghosting.com/clientarea.php. Otherwise, please contact us at supp[...](http://www.google.com/recaptcha/mailhide/d?k=01JGWfGRbitA9wY7hkSp0VRw==&c=E1ICz-kjGEMocSV4Lg4DrHnqkbPc497wkpGw7zPy8sw= "Reveal this e-mail address")@dfghosting.com
 
 #### Opt Out & Modifications
 
@@ -66,4 +70,4 @@ DarkForge will seek to resolve any concerns.
 
 #### Contacting Us
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [privacy@dfghosting.com](mailto:privacy@dfghosting.com). You can also correct any factual errors in that information or require us to remove your details from any list under our control. You can also email us at [privacy@dfghosting.com](mailto:privacy@dfghosting.com).
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at priv[...](http://www.google.com/recaptcha/mailhide/d?k=01JGWfGRbitA9wY7hkSp0VRw==&c=pqwshhMH_2X0Ztv8-sJqAX_fvmPlqut14Hzl90KvFcw= "Reveal this e-mail address")@dfghosting.com. You can also correct any factual errors in that information or require us to remove your details from any list under our control. You can also email us at priv[...](http://www.google.com/recaptcha/mailhide/d?k=01JGWfGRbitA9wY7hkSp0VRw==&c=pqwshhMH_2X0Ztv8-sJqAX_fvmPlqut14Hzl90KvFcw= "Reveal this e-mail address")@dfghosting.com.
