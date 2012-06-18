@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakersground.net privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105194247id_/http%3A//www.lakersground.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakersground.net privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618234307id_/http%3A//www.lakersground.net/privacy.php) for the most accurate reproduction.*
 
 # LakersGround.net - Premier Coverage of the L.A. Lakers
 
@@ -22,6 +22,8 @@ We never sell or rent your personal information.
 * LakersGround may release personal information to appropriate governmental authorities under the following circumstances: Where release is required by law (for example, a subpoena) or regulation, or is requested by a government agency conducting investigations or proceedings; 
 * Where our records indicate a user may be engaged in fraudulent activity or other deceptive practices such as copyright infringement that a governmental agency should be made aware of; 
 * Where your communication suggests possible harm to others. 
+
+LakersGround uses third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **How LakersGround protects kids' privacy**  
 LakersGround complies fully with the Children's Online Privacy Protection Act of 1998 (COPPA). We will not knowingly collect, use or distribute personally identifiable information from children under the age of 13 without prior verifiable consent from a parent or guardian. Any such information we do collect from children under the age of 13 will be used solely for internal purposes, and will not be sold or otherwise distributed to third parties. We will not knowingly allow a child under the age of 13 access to forums, private messages or other services within LakersGround that would allow them to publicly post or otherwise distribute personally identifiable information without prior verifiable consent from a parent or guardian. We will not knowingly ask a child or teen to divulge more information than is needed to participate in any LakersGround activity or service. We will not knowingly provide any direct link to Websites that are unsuitable for children or teens. 
