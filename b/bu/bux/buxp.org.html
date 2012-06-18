@@ -1,242 +1,219 @@
-<!--The following is the downloaded HTML source of the buxp.org privacy policy that was archived on 2011-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219072408id_/http%3A//www.buxp.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buxp.org privacy policy that was archived on 2012-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618225305id_/http%3A//www.buxp.org/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="description" content=" BUXP is one of the largest revenue sharing networks of its kind, providing excellent earning opportunities for our affiliates, and high quality website advertising solutions for our advertisers.">
+	<meta name="keywords" content="buxp, ptc, bux, buy website traffic, buy youtube views, earn money online, earn money from home, paid to click, get paid to, buy web traffic, cheap website traffic, purchase advertising">
+	<title>BUXP - Exclusive Revenue Sharing Network</title>
+	<link href="./newDesign/style.css" rel="stylesheet" type="text/css">
+	<link href="./jquery/css/flexigrid/flexigrid.pack.css" rel="stylesheet" type="text/css">
+	<link type="text/css" href="./jquery/css/blitzer/jquery-ui.css" rel="stylesheet">
+	<link type="text/css" href="jquery/css/blitzer/jqtransform.css" rel="stylesheet">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+	<script type="text/javascript" src="./jquery/js/jquery.js"></script>
+	<script type="text/javascript" src="./jquery/js/jquery-ui.js"></script>
+	<script type="text/javascript" src="./jquery/js/jquery.qtip.js"></script>
+	<script type="text/javascript" src="./jquery/js/flexigrid.js"></script>
+	<script type="text/javascript" src="./jquery/js/jquery.jqtransform.js"></script>
+	<script type="text/javascript" language="javascript">
+	var is_hover_login = false;
+	var hold_login = false;
+	$(document).ready(function() {
+		$("#jqtransform").jqTransform(); // if a table is present...
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		$("#loginbutton").hover(function() {
+			$("#rlbox").show();
+			//$("#site_stats").hide();
+			is_hover_login = true;
+		}, function() {
+			is_hover_login = false;
+			setTimeout("hide_login()", 500);
+		});
 
-<meta name="description" content=" BUXP is one of the largest revenue sharing networks of its kind, providing excellent earning opportunities for our affiliates, and high quality website advertising solutions for our advertisers.">
+		$("#rlbox").hover(function() {
+			is_hover_login = true;
+		}, function() {
+			is_hover_login = false;
+			setTimeout("hide_login()", 500);
+		});
 
-<meta name="keywords" content="buxp, ptc, bux, buy website traffic, buy youtube views, earn money online, earn money from home, paid to click, get paid to, buy web traffic, cheap website traffic, purchase advertising">
+		$("#rlbox input").keydown(function() {
+			hold_login = true;
+		});
 
-<title>BUXP - Exclusive Revenue Sharing Network</title>
+		$("#login_button").click(function() {
+			$("#logintopbox").submit();
+		});
+		$("#register_button").click(function() {
+			window.location.href = "register.php";
+		});
+	});
 
-<link href="./newDesign/style.css" rel="stylesheet" type="text/css">
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script></head>
-
-
-
-
-
-
-
+	function hide_login()
+	{
+		if (is_hover_login == false && hold_login == false)
+		{
+			$("#rlbox").hide();
+			//$("#site_stats").show();
+		}
+	}
+	</script>
+</head>
 <body>
-
-
-
 <!-- start WRAP -->
-
 <div id="wrap">
-
-
-
 	<!-- start HEADER -->
-
 	<div id="header">
-
-	
 
 		<a href="./" class="logo"></a>
 
-		
-
 		<!-- start RIGHT -->
-
 		<div class="right">
 
-		
-
+						<p class="topLinks" style="position: relative;">
+				<a href="./register.php">Register</a><span></span><a href="./login.php" id="loginbutton">Login</a>
+				</p><div id="rlbox" style="display: none; z-index: 999; position: relative; top: 22px; right: -157px; font-size: 0.9em !important; width: 250px;" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-resizable">
+					<div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix">
+						<span class="ui-dialog-title">Login</span>
+					</div>
+					<div id="dialog" class="ui-dialog-content ui-widget-content" style="width: auto; min-height: 59.4px; height: auto;" scrolltop="0" scrollleft="0">
+						<form action="login.php" method="post" id="logintopbox">
+						<table>
+						<tbody><tr>
+							<td class="midtext" align="right"><b>Username</b>:</td>
+							<td class="midtext"><input type="text" name="username" size="20"></td>
+						</tr>
+						<tr>
+							<td class="midtext" align="right"><b>Password</b>:</td>
+							<td class="midtext"><input type="password" name="password" size="20"></td>
+						</tr>
+						<tr>
+							<td class="midtext" align="right"><img src="image.php" onclick="this.src='image.php?newtime=' + (new Date()).getTime();">:</td>
+							<td class="midtext"><input type="text" name="code" size="20" maxlength="17"></td>
+						</tr>
+						</tbody></table>
+						</form>
+					</div>
+					<div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix">
+						<div class="ui-dialog-buttonset">
+							<button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false" id="register_button">
+								<span class="ui-button-text">Create a free account</span>
+							</button>
+							<button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false" id="login_button">
+								<span class="ui-button-text"><b>Login</b></span>
+							</button>
+						</div>
+					</div>
+				</div>
+			<p></p>
 			
-			<p class="topLinks"><a href="./register.php">Register</a><span></span><a href="./login.php">Login</a></p>
 
-			
-			
-
-
-			
-
-			<p class="stats">Total Paid $102206 &nbsp; | &nbsp; Total Users 239843 &nbsp; | &nbsp; Since 2008</p>
-
-		
+			<p class="stats" id="site_stats">Total Paid $120762 &nbsp; | &nbsp; Total Users 284896 &nbsp; | &nbsp; Since 2008</p>
 
 		</div>
-
 		<!-- end RIGHT -->
 
-	
-
 	</div>
-
 	<!-- end HEADER -->
 
-	
-
 	<!-- start NAVIGATION -->
+	<ul id="navigation_header">
 
-	<ul id="navigation">
-
-	
-
-		
-		<li><a href="./ads.php" class="topMenu dDown">Earn Money</a>
-
+				<li><a href="./ads.php" class="topMenu dDown">Earn Money</a>
 			<ul class="subMenu">
-
                 	<li><a href="./ads.php">Browse Ads</a></li>
-
 					<li><a href="./viewvids.php">Browse Videos</a></li>
-
-					
- 					<li><a href="./survey.php">Browse Surveys</a></li>
-
+					 					<li><a href="./survey.php">Browse Surveys</a></li>
 					<li><a href="./promote.php">Promote Ads</a></li>
-
-					
-			</ul>
-
+								</ul>
 		</li>
-
 		<li><a href="./products.php" class="topMenu dDown">Store</a>
-
 			<ul class="subMenu">
-
                 	<li><a href="./products.php#ref">Buy Referrals</a></li>
-
 					<li><a href="./products.php#ref">Buy Membership</a></li>
-
- 					<li><a href="./products.php#ad">Advertise</a></li>
-
-					
-			</ul>
-
+ 					<li><a href="./products.php#ad" class="advertise"><b>Advertise</b></a>
+<ul class="subSubMenu">
+<li><a href="./advertise.php">Buy Website Traffic</a></li>
+					<li><a href="./advertise_yt.php">Buy Youtube Views</a></li>
+ 					<li><a href="./br.php">Buy Banner Space</a></li>
+					<li><a href="./f_twitter.php">Buy Twitter Followers</a></li>
+					<li><a href="./purchasefb.php">Buy Facebook Likes</a></li></ul></li>
+								</ul>
 		</li>
-
 		<li><a href="" class="topMenu dDown">Extra</a>
-
 			<ul class="subMenu">
-
                 	<li><a href="./ehosting.php">Web Hosting</a></li>
-
 					<li><a href="./toolbar.php">Toolbar</a></li>
-
+					<li><a href="./tutorial.php">Tutorial</a></li>
  					<li><a href="./game.php">Game</a></li>
-
  					<li><a href="http://www.cafepress.com/buxp" target="_blank">Gift Shop</a></li>
-
  					<li><a href="http://myrewardtoday.com" target="_blank">Partner Sites</a>
 					<ul class="subSubMenu">
 					<li><a href="http://myrewardtoday.com">My Reward Today</a></li>
 <li><a href="http://techfreakz.com">TechFreakz</a></li>
 					</ul>
 					</li>
-
 			</ul>
-
 		</li>
-
 		<li><a href="./advertise.php" class="topMenu dDown advertise">Advertise</a>
-
 			<ul class="subMenu">
-
                 	<li><a href="./advertise.php">Buy Website Traffic</a></li>
-
-					<li><a href="./advertise_yt.php">Buy Youtube Views</a></li>
-
+					<li><a href="./advertise_yt.php">Buy Youtube Views</a>
+				<ul class="subSubMenu">
+				<li><a href="advertise_yt.php">YT Views</a></li>
+				<li><a href="advertise_yt.php">YT Comments &amp; Likes</a></li>
+				<li><a href="advertise_yt.php">YT Dislikes</a></li>
+				</ul></li>
  					<li><a href="./br.php">Buy Banner Space</a></li>
-
+					<li><a href="./f_twitter.php">Buy Twitter Followers</a></li>
+					<li><a href="./purchasefb.php">Buy Facebook Likes</a></li>
 			</ul>
 
-
-
-		</li><li class="support"><a href="./contact.php" class="topMenu dDown">Support</a>
-
+	</li><li class="support"><a href="./contact.php" class="topMenu dDown">Support</a>
 			<ul class="subMenu">
-
                 	<li><a href="./contact.php">Contact</a></li>
-
 					<li><a href="http://www.allbuxp.com">Blog</a></li>
-
  					<li><a href="./forum">Forum</a></li>
-
  					<li><a href="./faq.php">FAQ</a></li>
-
 			</ul>
-
 		</li>
-
-	</ul>
-
+		<li class="support"><a href="./tutorial.php" class="topMenu">Tutorial</a>
+	</li></ul>
 	<!-- end NAVIGATION -->
 
-	
-
 	<!-- start MAIN -->
-
 	<div id="mainBP">
-
 	<!-- start TOPBP -->
 	<div id="topBP">
 
-
-	
-
-		
-		<!-- start MAINBUTTONS -->
-
+				<!-- start MAINBUTTONS -->
 		<div class="mainButtons">
 
-		
-
 			<a href="./login.php">Login</a>
-
 			<a href="./register.php">Register</a>
-
-			<a href="./filezilla/chat.php" target="_blank">Support</a>			
-
-		
+			<a href="./filezilla/chat.php" target="_blank">Support</a>
 
 		</div>
-
 		<!-- end MAINBUTTONS -->
-
 		
-		
-
 		<!-- start RIGHT -->
-
 		<div class="right">
 
-		
-
+						<p class="title">BuxP is an exclusive revenue sharing network</p>
+			<p class="text">BUXP is one of the largest revenue sharing networks of its kind, providing excellent earning opportunities
+			for our affiliates, and high quality advertising options for our  advertisers. We have more than 270,000 affiliates and
+			21,000 advertisers who agree with us.</p>
 			
-			<p class="title">BuxP is an exclusive revenue sharing network</p>
-
-			<p class="text">BUXP is one of the largest revenue sharing networks of its kind, providing excellent earning opportunities 
-
-			for our affiliates, and high quality advertising options for our  advertisers. We have more than 190,000 affiliates and 
-
-			12,500 advertisers who agree with us.</p>
-
-			
-		
-
 		</div>
 
 		<!-- end RIGHT -->
-
 		</div>
 		<!-- start TOPBP -->
-
 		<div class="clr"></div>
 
 		
-
-		
-		
-
 		<!-- start CONTENT -->
-
 		<div id="content"><div class="heading">Privacy Policy</div>
 <br><br>
 This is the website of BUXP, Ltd.
@@ -283,7 +260,7 @@ If you do not want to receive e-mail from us in the future, please let us know b
 		<a href="./forum">Forum</a> &nbsp; | &nbsp;
 		<a href="http://www.buxp.org/contact.php">Contact</a> &nbsp; | &nbsp;
 		<a href="./forum/viewforum.php?f=5">Payments</a> &nbsp; | &nbsp;
-		<a href="http://www.buxp.org/job.php">Jobs</a><br><span>BUXP 2008 - 2011 - belongs to <a href="http://www.pandux.net" target="_blank">pandux</a> network<br>Template by <a href="http://www.gptengine.com" target="_blank">GPTEngine.com</a>.</span></p>
+		<a href="http://www.buxp.org/job.php">Jobs</a><br><span>BUXP 2008 - 2011 - belongs to <a href="http://www.pandux.net" target="_blank">pandux</a> network<br></span></p>
 	
 	</div>
 	<!-- end CONT -->
