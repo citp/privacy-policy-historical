@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the keek.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229010059id_/http%3A//www.keek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keek.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618231042id_/http%3A//www.keek.com/privacy) for the most accurate reproduction.*
 
 # Keek - Privacy Policy
-
-* * *
 
 This is the Privacy Policy of the Keek Inc. website located at www.keek.com (together with our affiliates and subsidiaries, “Keek”, “we”, “us”, “our” and terms of similar meaning) and our related products and services (the “Site”). It describes the information that we collect from users of our Site (“Users”) as part of the normal operation of our Site, and how we use and disclose this information. 
 
@@ -92,6 +90,13 @@ Except as otherwise expressly included in this Privacy Policy, this document onl
   
 
 
+#### Email Opt-out
+
+If you do not wish to receive email from Keek you may opt-out and/or deactivate your account by following the instructions included in each communication or by Keek support at [support@keek.com](mailto:support@keek.com) , writing us a letter or by phone. 
+
+  
+
+
 #### Questions?
 
 It is our goal to make our privacy practices easy to understand. If you have questions or concerns, please email our privacy officer at: 
@@ -100,6 +105,7 @@ It is our goal to make our privacy practices easy to understand. If you have que
 Att: Privacy Officer  
 One Eglinton East, Suite 500  
 Toronto, Ontario M4P 3A1  
+416-782-0200  
 [privacy@keek.com](mailto:privacy@keek.com)
 
-Last updated on September 1, 2011
+Last updated on January 30, 2012
