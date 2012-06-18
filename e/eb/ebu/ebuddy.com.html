@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ebuddy.com privacy policy that was archived on 2011-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227181448id_/http%3A//www.ebuddy.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebuddy.com privacy policy that was archived on 2012-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618113239id_/http%3A//www.ebuddy.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -22,17 +22,69 @@
 <meta name="RATING" content="GENERAL">
     <title>Privacy Statement | eBuddy</title>
     
+<script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript">
+var newWebsiteUrl, userQuota, domain;
+
+newWebsiteUrl = 'http://new.ebuddy.com';
+userQuota = 5;
+var domainName = location.hostname;
+domain = domainName.substr(domainName.indexOf('ebuddy'));
+
+function getCookie(c_name) {
+    var i, x, y, ARRcookies = document.cookie.split(";");
+    for (i = 0; i < ARRcookies.length; i++) {
+        x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("="));
+        y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1);
+        x = x.replace(/^\s+|\s+$/g, "");
+        if (x == c_name) {
+            return decodeURIComponent(y);
+        }
+    }
+}
+
+function setCookie(cookie, value, expireDaysNum) {
+    var exdate = new Date();
+    exdate.setDate(exdate.getDate() + expireDaysNum);
+    var cookieValue = value + "; expires=" + exdate.toUTCString() + "; path=/; domain=." + domain;
+    document.cookie = cookie + "=" + cookieValue;
+}
+
+function generateVersion(){
+    var randomnumber = Math.floor(Math.random()*1001);
+    var version = (randomnumber > userQuota*10) ? 'old' : 'new';
+    // alert(randomnumber + ' and '+ version)
+    return version;
+}
+
+function isRoot(){
+    return (window.location.pathname == '/' && (window.location.hash == '#' || window.location.hash == '') )
+}
+
+//debugger;
+var version = getCookie('w_version');
+
+if ( isRoot() && !version) {
+    version = generateVersion();
+    setCookie("w_version", version, 365);
+}
+
+if (version == 'new' && isRoot() && location.href.indexOf(newWebsiteUrl) == -1) {
+    window.location.href = newWebsiteUrl;
+}
+
+</script>
+
     <link rel="shortcut icon" href="/_images/favicon.ico" type="image/x-icon">
-    <link href="http://akcontent.ebuddy.com/website/2.20.12/css/cssdefault/layout-rect.css" rel="stylesheet" type="text/css">
-    <link href="http://akcontent.ebuddy.com/website/2.20.12/css/cssdefault/login.css" rel="stylesheet" type="text/css">
-    <link href="http://akcontent.ebuddy.com/website/2.20.12/css/cssdefault/login2.css" rel="stylesheet" type="text/css">
-    <link href="http://akcontent.ebuddy.com/website/2.20.12/css/cssdefault/navigation.css" rel="stylesheet" type="text/css">
-    <link href="http://akcontent.ebuddy.com/website/2.20.12/css/cssdefault/page.css" rel="stylesheet" type="text/css">
-    <link href="http://akcontent.ebuddy.com/website/2.20.12/css/cssdefault/dropdown.css" rel="stylesheet" type="text/css">
-    <link href="http://akcontent.ebuddy.com/website/2.20.12/css/cssdefault/styles.css" rel="stylesheet" type="text/css">
-    <link href="http://akcontent.ebuddy.com/website/2.20.12/css/cssdefault/hpt.css" rel="stylesheet" type="text/css">
+    <link href="http://akcontent.ebuddy.com/website/2.20.20/css/cssdefault/layout-rect.css" rel="stylesheet" type="text/css">
+    <link href="http://akcontent.ebuddy.com/website/2.20.20/css/cssdefault/login.css" rel="stylesheet" type="text/css">
+    <link href="http://akcontent.ebuddy.com/website/2.20.20/css/cssdefault/login2.css" rel="stylesheet" type="text/css">
+    <link href="http://akcontent.ebuddy.com/website/2.20.20/css/cssdefault/navigation.css" rel="stylesheet" type="text/css">
+    <link href="http://akcontent.ebuddy.com/website/2.20.20/css/cssdefault/page.css" rel="stylesheet" type="text/css">
+    <link href="http://akcontent.ebuddy.com/website/2.20.20/css/cssdefault/dropdown.css" rel="stylesheet" type="text/css">
+    <link href="http://akcontent.ebuddy.com/website/2.20.20/css/cssdefault/styles.css" rel="stylesheet" type="text/css">
+    <link href="http://akcontent.ebuddy.com/website/2.20.20/css/cssdefault/hpt.css" rel="stylesheet" type="text/css">
     <!--include js file for login box -->
-    <script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript">
+    <script type="text/javascript">
     var __LOAD_START__ = new Date();
 	try {
 	    var domainName = location.hostname;
@@ -56,7 +108,7 @@
 	<script>
 	jQuery.noConflict();
 	</script>
-	<script type="text/javascript" src="http://akcontent.ebuddy.com/website/2.20.12/js/default/langDrop.js"></script>
+	<script type="text/javascript" src="http://akcontent.ebuddy.com/website/2.20.20/js/default/langDrop.js"></script>
        
 </head>
 <body>
@@ -72,7 +124,7 @@
                 <!-- google search bar -->
         <div class="google" id="google">
         <!--<form method="get" action="http://www.google.com/custom" target="google_window">
-					<a href="http://www.google.com/"><img src="http://akcontent.ebuddy.com/website/2.20.12/_images/google_logo_blue.png" border="0" alt="Google" align="middle" width="50" height="18"></img></a>
+					<a href="http://www.google.com/"><img src="http://akcontent.ebuddy.com/website/2.20.20/_images/google_logo_blue.png" border="0" alt="Google" align="middle" width="50" height="18"></img></a>
 					<label for="sbi" style="display: none">Enter your search terms</label>
 					<input type="text" name="q" size="23" maxlength="255" value="" id="sbi"></input>
 					<label for="sbb" style="display: none">Submit search form</label>
@@ -104,7 +156,7 @@
             <ul class="navigation">
                 <li id="nav_mobile"><a href="/mobile.php">Mobile</a></li>
                 <li id="nav_mobie"><a href="/ebuddy_id.php">eBuddy ID</a></li>
-                <li id="nav_xms"><a href="http://www.ebuddyxms.com/"><img src="http://akcontent.ebuddy.com/website/2.20.12/_images/eBuddyXMS.png" alt="eBuddy XMS"></a></li>
+                <li id="nav_xms"><a href="http://www.ebuddyxms.com/"><img src="http://akcontent.ebuddy.com/website/2.20.20/_images/eBuddyXMS.png" alt="eBuddy XMS"></a></li>
                 <li id="nav_blog"><a href="http://blog.ebuddy.com">Blog</a></li>
                 <li id="nav_help"><a href="http://ebuddy.zendesk.com">Help</a></li>
             </ul>
@@ -396,7 +448,7 @@ This Privacy Policy shall be governed by and construed in accordance withthe law
        <iframe src="" id="langbar" name="langbar" width="115px" marginwidth="0" height="1px" marginheight="0" align="middle" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
     </div>
     <div id="Footer_content">
-		<p class="genLeft">Copyright © 2003 - 2011 eBuddy. All rights reserved. Patent Pending.</p>
+		<p class="genLeft">Copyright © 2003 - 2012 eBuddy. All rights reserved. Patent Pending.</p>
 		<ul class="genRight">
 			<li class="current" id="home"><a href="/index.php">Home</a></li>
 			<li><a href="/advertising">Advertising</a></li>
@@ -530,7 +582,7 @@ This Privacy Policy shall be governed by and construed in accordance withthe law
 </script>
 
 <!-- eBuddy JS Code -->
-<script type="text/javascript" src="http://akcontent.ebuddy.com/website/2.20.12/js/ebuddy.js"></script>
+<script type="text/javascript" src="http://akcontent.ebuddy.com/website/2.20.20/js/ebuddy.js"></script>
 <script type="text/javascript" src="/pixels.js.php"></script>
 
     
