@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amfam.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208193427id_/http%3A//www.amfam.com/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amfam.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618050838id_/http%3A//www.amfam.com/security/privacy.asp) for the most accurate reproduction.*
 
 # Privacy and Security Policy | American Family Insurance
 
@@ -13,7 +13,7 @@
 
 ### General Privacy Notice
 
-The companies of American Family Insurance Group (see [Company Identification](http://www.amfam.com/security/identification.asp)) recognize the importance of our customers’ trust. Keeping our customers’ personal information confidential is a top priority for all American Family Insurance employees, agents and their staff. This Notice, which is required by state and federal law, explains our Privacy Policies.
+The companies of American Family Insurance Group (see [Company Identification](http://wwwqa.amfam.com/security/identification.asp)) recognize the importance of our customers’ trust. Keeping our customers’ personal information confidential is a top priority for all American Family Insurance employees, agents and their staff. This Notice, which is required by state and federal law, explains our Privacy Policies.
 
   1. We safeguard, according to strict standards of security and confidentiality, nonpublic, personal information our customers share with us. "Nonpublic, personal information", for example, would include such information as your name, address, social security number and credit information. We maintain safeguards, physical and electronic, to protect that information. We conduct our business in a manner that keeps personal customer information secure. 
   2. We limit the collection and use of customer information to the minimum we require to deliver superior service and to administer our business. We collect personal information about customers from the following sources:   
@@ -26,7 +26,7 @@ The companies of American Family Insurance Group (see [Company Identification](h
   3. It is our policy that only authorized American Family Insurance employees, agents and their staff who need to know your personal information will access and use it. American Family Insurance workers who violate our Privacy Policies are subject to the disciplinary process. 
   4. It is our policy not to share personal customer information (either current or former customers) outside American Family Insurance for any purpose other than the underwriting or administration of a customer’s policy/account or for marketing of additional American Family Insurance products, unless the disclosure has been authorized by the customer or is permitted or required by law. 
   5. Whenever we retain other organizations to provide support services on behalf of American Family Insurance, we require them to protect customers’ personal information. 
-  6. To help us keep your information up-to-date and accurate, please [contact your agent](http://hpqa/agentlocator/) if there is any change in your personal information.
+  6. To help us keep your information up-to-date and accurate, please [contact your agent](http://apps.amfam.com/agentlocator/) if there is any change in your personal information.
   7. When necessary, we review and revise our Privacy Policies to protect personal customer information.
 
 
@@ -53,6 +53,6 @@ When you interact with the American Family Insurance Website, we strive to make 
 
 ### Health Information Privacy Notice (for health insurance policyholders)
 
-We understand the personal nature of your medical information and are committed to protecting it. If you have a health insurance policy from American Family Insurance Group, we provide you the following [Notice of Privacy Practices for Health Information](http://www.amfam.com/pdf/insurance/health/21872.pdf)1.
+We understand the personal nature of your medical information and are committed to protecting it. If you have a health insurance policy from American Family Insurance Group, we provide you the following [Notice of Privacy Practices for Health Information](https://web.archive.org/pdf/insurance/health/21872.pdf)1.
 
-1Please note that you will need [Adobe Acrobat Reader](http://www.adobe.com/products/acrobat/readstep2.html) to open this PDF file. American Family Insurance is not liable for any direct or indirect technical or system issues or consequences from your use of third-party technologies or programs accessible through our site. If you need assistance with Adobe Acrobat Reader, please go to [Adobe's Customer Support](http://www.adobe.com/support/main.html) page.
+1A PDF reader is required to open a PDF. American Family Insurance is not liable for any direct or indirect technical or system issues or consequences from your use of third-party technologies or programs accessible through our site.
