@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the otterbox.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222200002id_/http%3A//www.otterbox.com/policies/policies%2Cdefault%2Cpg.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otterbox.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618232312id_/http%3A//www.otterbox.com/policies/policies%2Cdefault%2Cpg.html%23privacy) for the most accurate reproduction.*
 
 # Policies
 
   1. Privacy Policy
-  2. Return Policy
-  3. Security Policy
+  2. Security Policy
 
 
 
@@ -68,25 +67,6 @@ By using this site, you consent to the collection and use of this information by
 
 **TOP OF PAGE**
 
-## Returning Products
-
-**Otter Products, LLC Return Policy***
-
-  * We will accept returns within 90 days of the original purchase on if the product was purchased directly from Otter Products.
-  * Credits will be issued in the form of a refund to the Credit Card used for the original purchase. Refunds are for product only, as shipping charges are non-refundable.
-  * Please contact Customer Service toll free at: 855-683-7269 or use one of the option on our contact us page at: [http://www.otterbox.com/contact-us/](https://www.otterbox.com/contact-us/contact-us,default,pg.html) to obtain a Return Authorization number.
-  * You will be asked to provide your original order number, so please have this information readily available. You will also be asked the reason for your return (this information will be used for our records).
-  * You will receive your Return Authorization via e-mail which will include your RA# as well as instructions for the return. Otter Products is not responsible for return shipping charges.
-  * Please allow 3-4 business days after receipt of your return for your credit to be issued. You will receive an e-mail confirmation of the credit once it has been issued.
-
-
-
-***** Otter Products, LLC return policy as stated above is not applicable to any Partners of Otter Products, LLC (i.e. Resellers, Distributors, VARS, etc.). To obtain more information about our Partners return policy, please contact your Account Executive for more details.
-
-Please see our [warranty](https://www.otterbox.com/warranty/warranty,default,pg.html "Warranty") for more information.
-
-**TOP OF PAGE**
-
 ## Security Policy
 
 At Otter Products, LLC (DBA OtterBox) the security of your personal and financial information is extremely important to us. We insure confidentiality and security in our online shopping experience in the following ways:
@@ -99,7 +79,7 @@ At Otter Products, LLC (DBA OtterBox) the security of your personal and financia
 
 While there is some risk inherent in every Internet transaction, you can rest assured that we are working overtime to ensure that risk is minimal.
 
-If you are still unsure about the security of your information or if you use a browser that does not support SSL technology, please call us toll free with your information at 855-683-7269
+If you are still unsure about the security of your information or if you use a browser that does not support SSL technology, please call us toll free with your information at 855-688-7269
 
 **Please do not use email to send us your financial information; email is not a secure channel**.
 
