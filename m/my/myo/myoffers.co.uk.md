@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206183104id_/http%3A//www.myoffers.co.uk/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618020859id_/http%3A//www.myoffers.co.uk/privacy_statement.aspx) for the most accurate reproduction.*
 
 # MyOffers Privacy Statement
 
 Contents
-    Introduction
-    Collection of your personal information
-    Use of your personal information
-    General disclosure of personal information
-    Sponsored questionnaires and co-branded sites
-    Managing your personal information
-    Deregistration and un-subscribing from emails
-    Security and storage of your personal information
-    Use of Cookies
-    Changes to this privacy statement
-    Contact information
+     Introduction
+     Collection of your personal information
+     Use of your personal information
+     General disclosure of personal information
+     Sponsored questionnaires and co-branded sites
+     Managing your personal information
+     Deregistration and un-subscribing from emails
+     Security and storage of your personal information
+     Use of Cookies
+     Changes to this privacy statement
+     Contact information
 
-#### Introduction
+####  Introduction
 
 This privacy statement covers the site [http://www.myoffers.co.uk](http://www.myoffers.co.uk/ "MyOffers"). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. If you have questions or concerns regarding this statement, you should first contact [Ivan Southall](http://www.myoffers.co.uk/contact_us.aspx).
 
@@ -25,7 +25,7 @@ MyOffers recognizes that your privacy and the protection of your personal inform
 
 MyOffers is registered under the Data Protection Act 1998 under registration number Z4685005. The information you provide is safeguarded under the terms of that Act. To find out more information about the data protection act please visit [http://www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/ "Information Commissioner")
 
-#### Collection of your personal information
+####  Collection of your personal information
 
 In order to use this Web site, you must first complete the registration form and choose a password. During registration you are required to give contact information (such as name and email address). We use this information to contact you.
 
@@ -39,7 +39,7 @@ MyOffers collects demographic (information about you, such as name, age and addr
 
 MyOffers also uses the data that is collected about you to determine the order of the questionnaires and prizes that are displayed to you. MyOffers will show you the most relevant content.
 
-#### Use of your personal information
+####  Use of your personal information
 
 MyOffers will not use or share your personal information in a manner that differs from what is described within this Privacy Statement and within the registration opt-in statement without your prior consent. The following statement is prominently displayed before you can join MyOffers
 
@@ -51,7 +51,7 @@ Sponsors of the MyOffers questionnaires have their own privacy policies and some
 
 Your data together with that of other subscribers to MyOffers may be aggregated at Postcode or other levels for the building of statistical and analytical tables. 
 
-#### General disclosure of personal information
+####  General disclosure of personal information
 
 Aggregate Information (non-personally identifiable)
 
@@ -65,7 +65,7 @@ The collection of data by MyOffers through registration on third party sites may
 
 The data that you provide to MyOffers, is held by both MyOffers and the sponsors, of the questionnaires that you answer, as Data Controllers. MyOffers holds your data in a central database and this database is only accessed by reference to interest or demographic categories in order to provide you with information that may be of interest to you. The process of supplying you with this information is at all times under the control of MyOffers although specialist third party suppliers may carry out the dispatch.
 
-#### Sponsored questionnaires and co-branded sites
+####  Sponsored questionnaires and co-branded sites
 
 Every user must agree and opt-in to the following statement before completing their MyOffers registration:
 
@@ -83,7 +83,7 @@ You should be aware that such outside service providers might be based in countr
 
 Except as provided above, MyOffers will not provide your personal information to any third party without your prior consent; however, under certain circumstances the force of law may require the provision of information to the legal authorities. In order to maintain the integrity of its website and safeguard the interests of its subscribers MyOffers will comply with any such legally binding request.
 
-#### Managing your personal information
+####  Managing your personal information
 
 The data you provide to MyOffers will be held as you have provided it. You may at any time amend or update your data by visiting MyOffers at <http://www.myoffers.co.uk/account.aspx>, login and click on 'My Account'. There you will find the Personal Information panel where you can amend or update your details.
 
@@ -91,7 +91,7 @@ You are entitled to see the information held about you and you may ask us to mak
 
 We are entitled by law to charge a maximum fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-#### De-registration and un-subscribing from emails
+####  De-registration and un-subscribing from emails
 
 You may at any time deregister from MyOffers by visiting <http://www.myoffers.co.uk/account.aspx>, and selecting the de-register button located within My Account. The consequences of deregistration are that your account details will be placed in a suppression file and you will not receive any further email communications from MyOffers.
 
@@ -117,7 +117,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
-#### Security and storage of your personal information
+####  Security and storage of your personal information
 
 The Internet is not a 100% secure medium for communication and, accordingly, MyOffers cannot guarantee the security of any information you send to MyOffers via the Internet. MyOffers is not responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.
 
@@ -127,25 +127,34 @@ You must type the correct password to access your MyOffers account information. 
 
 Personal information collected by MyOffers may be stored and processed outside the United Kingdom. By using MyOffers, you consent to any such transfer of information outside of the United Kingdom.
 
-#### Use of Cookies
+####  Use of Cookies
 
 A cookie is a very small text file that a Web site saves to your computer's hard disk to store information that you provide about yourself or to store your preferences. If you visit the website again, it is recognized as a repeat visit by means of the cookie. The cookie contains merely a unique number and therefore no personal data. The cookie cannot be used to identify you on websites of third parties.
 
 It is possible to configure your web browser to refuse cookies or to be informed if a cookie is set. We refer you to the manual of your web browser.
 
-MyOffers uses cookies whenever you login to MyOffers. MyOffers stores your unique ID number, and the time you signed in, in an encrypted cookie on your hard disk. This cookie allows you to move from page to page at the site without having to Login in again on each page. MyOffers uses session cookies to store data on our server that are individually identifiable when you log out of MyOffers, these session cookies are deleted from your computer.
+MyOffers uses cookies whenever you visit or login to MyOffers. MyOffers stores your unique ID number, and the time you signed in, in an encrypted cookie on your hard disk. This cookie allows you to move from page to page at the site without having to Login in again on each page. MyOffers uses session and cache cookies to store data on our server that are individually identifiable these session cookies are deleted from your computer when your browser is closed.
+
+Myoffers uses Google Analytics which sets cookies in order to provide Myoffers with site activity reporting. 
 
 MyOffers also uses cookies to improve the login experience. For example, MyOffers may store your login details in a cookie that will remain on your computer after you log out. This cookie allows you to be automatically logged in the next time you visit MyOffers. If you are using a public computer or do not otherwise want this information to be stored, you can un-check the "remember me" tick box when you log-in or register, and this cookie will not be used.
 
+####  Non MyOffers Cookies
+
 Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
 
-The sites or services you visited may store their own cookies on your computer. MyOffers recommends that you read each site's privacy statement to understand their policies and practices regarding the use of cookies. You have the ability to accept or decline cookies using the settings on your browser. If you have cookies disabled in your browser you are still able to use the MyOffers site but you will not have the benefit of an automatic login.
+The sites or services you visited may store their own cookies on your computer. MyOffers recommends that you read each site's privacy statement to understand their policies and practices regarding the use of cookies. You have the ability to accept or decline cookies using the settings on your browser. If you have cookies disabled in your browser you may still able to use the MyOffers site but may find that certain features of the site do not function and you will not have the benefit of an automatic login.
+
+Information for disabling cookies for the following browsers can be found below.  
+[Internet Explorer](http://support.microsoft.com/kb/196955)  
+[Google Chrome](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies)  
+[Mozilla Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
 
 The functionality of MyOffers depends upon your browser accepting session cookies. MyOffers tracks visitors to and on the MyOffers site by using referrer tracking. MyOffers uses click thru and open mail tracking when sending emails. This process allows MyOffers and its clients the ability to profile the recipients of their communications.
 
-Or our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
+Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
-To learn more about our advertising company's use of clear gifs, please go to [http://www.fastclick.com](http://www.fastclick.com/ "Fast Click")
+To learn more about our advertising company's use of clear gifs, please go to [ http://www.fastclick.com](http://www.fastclick.com/ "FastClick")
 
 On this website we use several packages to measure and analyse information about visits to our website. To that effect we may use your IP address to collect, among other things, internet traffic data and data regarding your browser type and computer.
 
@@ -153,9 +162,9 @@ We will not use the IP addresses or cookies to identify you personally.
 
 We use these services in order to increase the efficiency of our websites.
 
-This privacy statement covers the use of cookies by [http://www.myoffers.co.uk](http://www.myoffers.co.uk/ "MyOffers") only and does not cover the use of cookies by any advertisers
+This privacy statement covers the use of cookies by [http://www.myoffers.co.uk](http://www.myoffers.co.uk/ "MyOffers") only and does not cover the use of cookies by any advertisers.
 
-#### Changes to this privacy statement
+####  Changes to this privacy statement
 
 MyOffers will occasionally update this privacy statement. MyOffers will obtain your opt-in consent for any updates to this privacy statement that materially expand the sharing or use of your personal information in ways not disclosed in this privacy statement at the time of collection.
 
@@ -163,7 +172,7 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 Your friend may [contact us](http://www.myoffers.co.uk/contact_us.aspx) to request that we remove this information from our database.
 
-#### Contact Information
+####  Contact Information
 
 If you have questions regarding this privacy statement, please contact MyOffers by:
 
