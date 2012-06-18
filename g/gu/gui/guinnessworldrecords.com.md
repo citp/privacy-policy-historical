@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guinnessworldrecords.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101144019id_/http%3A//corporate.guinnessworldrecords.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guinnessworldrecords.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618030802id_/http%3A//corporate.guinnessworldrecords.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Guinness World Records - Privacy Policy
 
@@ -257,4 +257,4 @@ If you're using Netscape Communicator 4.0:
 
 Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie.
 
-[Download Parental Consent Form](https://web.archive.org/web/20111101144019id_/http%3A//corporate.guinnessworldrecords.com/gwr_parental_consent_form.doc)
+[Download Parental Consent Form](https://web.archive.org/web/20120618030802id_/http%3A//corporate.guinnessworldrecords.com/gwr_parental_consent_form.doc)
