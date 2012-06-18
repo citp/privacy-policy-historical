@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mfa.org privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106234345id_/http%3A//www.mfa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfa.org privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618113615id_/http%3A//www.mfa.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Museum of Fine Arts, Boston
 
@@ -20,7 +20,7 @@ When you purchase an MFA membership or make a donation to the MFA online, we wil
 
 ###  Online Surveys
 
-From time to time, the MFA may invite you to participate in surveys posted on the MFA Web Site or sent to you by e-mail. You may decide whether or not you wish to complete such surveys, which may ask about your background, occupation, or similar questions. We use this information to help us better understand our visitors needs and interests, which in turn allows us to better meet your expectations.
+From time to time, the MFA may invite you to participate in surveys posted on the MFA Web Site or sent to you by e-mail. You may decide whether or not you wish to complete such surveys, which may ask about your background, occupation, or similar questions. We use this information to help us better understand our visitors' needs and interests, which in turn allows us to better meet your expectations. Our online surveys are powered by SurveyGizmo.
 
 ###  Online Contests
 
