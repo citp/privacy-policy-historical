@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastlaneentrepreneurs.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204145324id_/http%3A//www.fastlaneentrepreneurs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastlaneentrepreneurs.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618122856id_/http%3A//www.fastlaneentrepreneurs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -31,9 +31,9 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, communications that the consumer/visitor has directed to the site.  
+Upon request we offer visitors the ability to have inaccuracies corrected in [contact](http://www.fastlaneentrepreneurs.com/contact-the-fastlane/ "contact") information, communications that the consumer/visitor has directed to the site.  
 Consumers can have this information corrected by sending us e-mail at the above address.
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
-If you feel that this site is not following its stated information policy, you may contact us via email by using the above “Contact” link.
+If you feel that this site is not following its stated information policy, you may [contact](http://www.fastlaneentrepreneurs.com/contact-the-fastlane/ "contact") us via email by using the above “[Contact](http://www.fastlaneentrepreneurs.com/contact-the-fastlane/ "Contact")” link.
