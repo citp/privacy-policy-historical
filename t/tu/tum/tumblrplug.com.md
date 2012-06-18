@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tumblrplug.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126235318id_/http%3A//tumblrplug.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumblrplug.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618135449id_/http%3A//tumblrplug.com/privacypolicy.php) for the most accurate reproduction.*
 
 # TumblrPlug - Promote your tumblr
 
-[[ **Front Page**](http://tumblrplug.com/)] [[ **Wall of Portraits**](http://tumblrplug.com/wallofportraits.php)] [[ **Share**](http://www.tumblr.com/share/?v=4&u=www.tumblrplug.com&t=Get%20more%20followers%20by%20plugging%20at%20tumblrplug.com)] [[ **Rules**](http://tumblrplug.com/rules.php)] [[ **FAQ**](http://tumblrplug.com/faq.php)] [[ **Contact**](http://tumblrplug.com/contact.php)] [ **[884 Online](https://web.archive.org/web/20111126235318id_/http%3A//tumblrplug.com/online.php "See who is online")** ] [[ **Tumblr Scripts**](http://freehostedscripts.net/)] [[ **Banner Maker**](http://quickbanner.net/)] 
+[[ **Front Page**](http://tumblrplug.com/)] [[ **Wall of Portraits**](http://tumblrplug.com/wallofportraits.php)] [[ **News**](http://tumblrplug.com/news.php)] [[ **Rules**](http://tumblrplug.com/rules.php)] [[ **FAQ**](http://tumblrplug.com/faq.php)] [[ **Contact**](http://tumblrplug.com/contact.php)] [ **[1429 Online](https://web.archive.org/web/20120618135449id_/http%3A//tumblrplug.com/online.php "See who is online")** ] [[ **Tumblr Scripts**](http://freehostedscripts.net/)] [[ **Banner Maker**](http://quickbanner.net/)] 
 
 Welcome to Tumblrplug.com, Privacy Policy.
 
