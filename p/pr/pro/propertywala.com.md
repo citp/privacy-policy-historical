@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the propertywala.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214052338id_/http%3A//info.propertywala.com/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertywala.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618230649id_/http%3A//info.propertywala.com/about/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – PropertyWala.com
+# Privacy Policy | PropertyWala.com
 
 We are committed to protecting the privacy of your personal information. This privacy policy is designed to inform you how we make use of information gathered from you and others visiting the PropertyWala.com website.
 
