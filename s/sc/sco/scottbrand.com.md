@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottbrand.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220214146id_/http%3A//www.scottbrand.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottbrand.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618105551id_/http%3A//www.scottbrand.com/privacypolicy) for the most accurate reproduction.*
 
 # Scott® Bath Tissue Products | Bathroom Tissue Rolls
 
