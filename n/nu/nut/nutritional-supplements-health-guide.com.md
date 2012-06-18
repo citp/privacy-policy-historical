@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritional-supplements-health-guide.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212043256id_/http%3A//www.nutritional-supplements-health-guide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritional-supplements-health-guide.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618184728id_/http%3A//www.nutritional-supplements-health-guide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Nutritional-Supplements-Health-Guide.com
 
@@ -71,6 +71,3 @@ This policy and the use of this Site are governed by Turkey law. If a dispute ar
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Istanbul,TR, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 Nutritional-Supplements-Health-Guide.com is controlled, operated and administered entirely within Turkey. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-  
-
