@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the strutta.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207132931id_/http%3A//www.strutta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strutta.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618084539id_/http%3A//www.strutta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Strutta
 
-Last Updated: September, 2009
+Last Updated: April, 2012
 
-Thank you for your visit. At Strutta.com Media Inc. (“ **Strutta** ” or “ **we** ”), we share your concerns about privacy and hope this Strutta.com Privacy Policy (the “ **Privacy Policy** ”) will help you understand our privacy policies and the rights you have to use or access of www.strutta.com (the “Site”) or any service available on the Site, as a visitor, user or contest organizer, sponsor or publisher. If you are accepting this Privacy Policy on behalf of a company or other legal entity, you represent that you have the authority to bind such entity to this Privacy Policy, in which case the terms "you" or "your" shall refer to such entity. This Privacy Policy covers how Strutta treats your personal information that we collect or receive. For the purposes of this Privacy Policy, “personal information” is personally identifiable information about you such as your name, address, email address, and other information which is not otherwise publicly available. This Privacy Policy is subject to the Strutta.com [Terms of Service](https://web.archive.org/terms-of-service) (the “ **Terms of Service** ”). Your use or access of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Policy and the Terms of Service.
+Thank you for your visit. At Strutta.com Media Inc. (“ **Strutta** ” or “ **we** ”), we share your concerns about privacy and hope this Strutta.com Privacy Policy (the “ **Privacy Policy** ”) will help you understand our privacy policies and the rights you have to use or access of www.strutta.com, including any sites or applications hosted on the strutta.com domain which may appear as iframes in third party sites (collectively, the “ **Site** ”), any service available on the Site, as a visitor, user or contest organizer, sponsor or publisher. If you are accepting this Privacy Policy on behalf of a company or other legal entity, you represent that you have the authority to bind such entity to this Privacy Policy, in which case the terms "you" or "your" shall refer to such entity. This Privacy Policy covers how Strutta treats your personal information that we collect or receive. For the purposes of this Privacy Policy, “personal information” is personally identifiable information about you such as your name, address, email address, and other information which is not otherwise publicly available. This Privacy Policy is subject to the Strutta.com [Terms of Service](https://web.archive.org/terms-of-service) (the “ **Terms of Service** ”). Your use or access of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Policy and the Terms of Service.
 
 Strutta may update this Privacy Policy at any time, and without notification to you, and you should review this Privacy Policy from time to time by accessing the Site. Your continued use of the Site shall be deemed irrevocable acceptance of any such revisions.
 
@@ -18,17 +18,17 @@ You have access to edit your information at any time on request.
 
 We are committed to protecting the privacy of personal information.
 
-When you register for a Strutta account and become a registered user of the Site, we ask for personal information that will be used to activate your account, provide you with access to the Site, communicate with you about the status of your account, and for other purposes set out in this Privacy Policy.
+When you register for a Strutta account, including registering or logging in with any third party authentication service, and become a registered user of the Site, we ask for personal information that will be used to activate your account, provide you with access to the Site, communicate with you about the status of your account, and for other purposes set out in this Privacy Policy.
 
 ### Information Collection
 
 By providing personal information to us and by using or accessing the Site, you voluntarily consent to the collection, use and disclosure of personal information as specified in this Privacy Policy. Without limiting the foregoing, we may on occasion ask you to consent when we collect, use, or disclose your personal information in specific circumstances. Sometimes your consent will be implied through your conduct with us if the purpose of the collection, use or disclosure is obvious and you voluntarily provide the information.
 
-We do not knowingly provide access to the Site to, and will not knowingly collect personal information from, anyone under the age of 18 unless such user has parental or legal guardian consent.
+We do not knowingly provide access to the Site to, and will not knowingly collect personal information from, anyone under the age of 13 unless such user has parental or legal guardian consent.
 
 ### Registration and Strutta Account Information
 
-You do not have to be a registered user to access the Site or view content on the Site but if you would like to upload content, participate in any online contest, games, and sweepstakes (each a “ **Contest** ”) or promotions, marketing activities or other activities or events (each an “ **Activity** ”) enabled through the Site, ensure any votes or ratings you have cast in an Contest or Activity are recorded, post comments or flag content or carry out other activities which require you to be registered user, you must complete a basic registration form and create a Strutta account. We do ask for some personal information when you create an account on Strutta, including but not limited to your name, email address and password, which is used to protect your Strutta account from unauthorized access and to provide the Site to you in accordance with this Privacy Policy (the “ **Account Information** ”).
+You do not have to be a registered user to access the Site or view content on the Site but if you would like to upload content, participate in any online contest, games, and sweepstakes (each a “ **Contest** ”) or promotions, marketing activities or other activities or events (each an “ **Activity** ”) enabled through the Site, ensure any votes or ratings you have cast in an Contest or Activity are recorded, post comments or flag content or carry out other activities which require you to be registered user, you must complete a basic registration form and create a Strutta account or login using a third party authentication. We do ask for some personal information when you create an account on Strutta, including but not limited to your name, email address and password, which is used to protect your Strutta account from unauthorized access and to provide the Site to you in accordance with this Privacy Policy (the “ **Account Information** ”).
 
 We may use your Account Information for the following purposes:
 
@@ -54,6 +54,10 @@ We may use your Account Information for the following purposes:
 
 
 We may occasionally communicate with you regarding products, services, news and events offered by or through Strutta. You have the ability to opt-in or opt-out of certain messages and can update your account profile at any time to change your settings. The only kind of communications that you may not opt-out of are those required to communicate Site-related announcements, including information specific to your account, planned Site or account suspensions and outages. We will attempt to minimize this type of communication to you.
+
+### Applications on Facebook
+
+A Contest or Activity enabled through the Site may be displayed as an application on Facebook. If you are accessing the Site through an application on Facebook or logging in to the Site using Facebook, you are providing your information to Strutta in accordance with this Privacy Policy, and not to Facebook. Any information collected through an application on Facebook will also be subject to Facebook's [Data Use Policy](http://www.facebook.com/about/privacy/). More information about how to control information shared with applications on Facebook is available [here](http://www.facebook.com/about/privacy/your-info-on-other#applications).
 
 ### Fees and Payment Information
 
@@ -91,7 +95,7 @@ We use this information for statistical purposes and to help Strutta provide you
 
 ### Participation in Activities
 
-To participate in a Contest or Activity, you may be required to input additional information about yourself, which is completely voluntary on your part. Disclosing the information necessary to use these features on the Site is your choice. If you choose to participate in an Contest or Activity and provide additional information, you agree that such additional information and your Account Information may be provided by Strutta to a Contest or Activity organizer, sponsor or other third parties who may need to use such information for such Contest or Activity. We are not responsible for, and cannot control, the use by Contest or Activity organizers or other third parties of such information.
+To participate in a Contest or Activity, you may be required to input additional information about yourself, which is completely voluntary on your part. Disclosing the information necessary to use these features on the Site is your choice. If you choose to participate in an Contest or Activity and provide additional information, you agree that such additional information and your Account Information may be provided by Strutta to a Contest or Activity organizer, sponsor or other third parties who may need to use such information for such Contest or Activity.
 
 ### Uploading Content
 
