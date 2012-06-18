@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cricwaves.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228153400id_/http%3A//www.cricwaves.com/cricket/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricwaves.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618065334id_/http%3A//www.cricwaves.com/cricket/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Cricwaves: Contact - Cricket Live Score, Free Score Widgets
+# Cricwaves: Privacy Policy - Live Cricket and Free Score Widgets
 
 Cricwaves Team recognizes the importance of protecting the privacy of information we may collect from our visitors. This privacy policy discloses how we collect, protect, use and share information gathered about you on our Web Site. We hope that this disclosure will help increase your confidence in this web site.
 
@@ -19,6 +19,8 @@ Cricwaves.com will NOT disclose any personal information except in the following
   * Protect and defend the rights of property of Cricwaves.com.
 
 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
 As a means of providing useful resources to our users, Cricwaves.com provides links to other web sites. We try to carefully choose web sites that we believe are useful and meet our high standards. However, because web sites can change so quickly, we do not guarantee the standards of any website links we provide nor do we imply endorsement. Cricwaves.com is not responsible for the privacy practices or the content of such web sites. Cricwaves.com does not share any of the individual personal information that you provide with the sites to which Cricwaves.com links, although we may share traffic data with such web sites such as how many people visit our site. 
 
