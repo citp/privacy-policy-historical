@@ -1,21 +1,135 @@
-> *The following text is extracted and transformed from the findmysoft.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219050729id_/http%3A//www.findmysoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmysoft.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618030103id_/http%3A//www.findmysoft.com/privacy) for the most accurate reproduction.*
 
 # » FindMySoft.com - Privacy
 
 Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it.
 
-FindMySoft won't collect any personally-identifiable information about you, such as your name, address, phone number or email address from this web site without your knowledge, and will take measures to protect your privacy. Personally-identifiable iformation will only be collected from software developers using the software submission form and from any other user that contacts us using the contact form.
+**Owner of the Data Processing System**   
+Internext Media SRL, Strapungere Silvestru, Nr 7, Iasi, Romania  
+legal[at]findmysoft.com
 
-Information from traffic references: when you visit a website, you unveil certain information about you, such as your IP address, time of visit, place from which you accessed our website. FindMySoft, like other operators, stores this information. 
+**Kinds of Data beyng Collected**  
+The Data that may be collected by this Site are name, surname, address, phone number, email, fax, social security number, IP address and other Data relating to the User's identity or technical access to the Site by the User. When Sensitive Personal Data are transferred (personal data revealing racial or ethnic, religious, philosophical or other beliefs, political opinions, membership of political parties, trade unions, associations or organizations of a religious, philosophical or political nature, and personal data disclosing information about health and sex life), it may be necessary to obtain consent in order to process them. The Browser Data referring to the technical use of the Site must be collected, and transfer is not optional. The User may freely provide the remaining Data, including personal information, unless it is expressly indicated otherwise. Failure to process certain Data (e.g. contact details, or addresses, or data concerning behavior or user preferences, etc.) may make it impossible for the Site to provide its services. If the User utilizes the Site to publish or otherwise share Personal Data with third parties, he or she assumes full responsibility: the User states possession of the right to communicate or disclose personal data to third parties, and that they have received prior information thereto, thus relieving the Site of all responsibility for their improper use following disclosure or dissemination.
 
-**Cookies**
+**Method of Processing**
 
-Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit FindMySoft.com. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.
+The Data Controller processes the Data of the Interested Parties and Users in a lawful and proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data. Processing is carried out using computers and / or telematic means, with organizational methods and logics strictly related to the stated purposes. In addition to the owner, in some cases, access to the Data may be available to personnel involved in the organization of the Site (administrative, commercial, marketing, legal, system administrators) or external parties (such as third party technical service providers, mail carriers , hosting providers, IT companies, communications agencies) appointed, if necessary, as Managers by the Owner of the Processing procedure. The updated list of Managers can be requested from the Owner by contacting the above address at any time. 
 
-In order to offer you a personalized service, FindMySoft may use cookies to ease storing and tracking your preferences. For instance, we may use cookies to make sure you don't see the same ad twice, or to deliver content specific to your interests. 
+**Place**
 
-**Third Party Ad Servers**
+The Data are processed at the headquarters of the Data Controller. Any processing of Data outside one of the EU Member States may require the consent of the User or the Interested Party. **
 
-FindMySoft allows other companies, called third-party ad servers or ad networks, to serve advertisements within the FindMySoft site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the FindMySoft site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+Time
 
-FindMySoft does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. The advertiser may also use information regarding your use of the FindMySoft site, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you. 
+**
+
+The Data are kept for the time necessary to perform the service requested by the User, and the User can always ask for removal from the servers of the Site for legitimate reasons. 
+
+**The use of the collected Data**
+
+The provision of the service or delivery of goods for sale purchased on the Site, and more generally, for administrative and accounting or technical purposes; 
+
+  * the Provision Of The Service
+  * a response to specific requests for information by the User;
+  * a User update on new products or services provided by the Site or concerning particular business offers;
+  * the User to be informed of any Site maintenance or inconvenience;
+  * any commercial profiling of the User;
+  * to display banners related to User interests (behavioral targeting / advertising);
+  * defense by the Website Owner, in court or in the stages leading to possible legal action, against improper use of the same or related services by the User.
+
+
+
+Some forms of processing (sending promotional information, commercial profiling, behavioral advertising, geolocation, etc.) may require the express consent of the User or the Interested Party.  
+Specific information may be shown on the pages of the Site in connection with particular services or processing of Data provided by the User or by the Interested Party. **
+
+Services provided by this website
+
+** The use of Data for additional purposes by the Data Controller, or for services for which it is necessary to collaborate with third parties, listed below, may in some cases require the free and specific consent of the User or the Interested Party.   
+**  
+Social Applications**
+
+These services allow the web site to access the data on your profile in the social networks, and to interact through your post. These services are not activated automatically, but require express authorization by the user. 
+
+**Facebook App (This Website)**
+
+This is a service managed by Facebook Inc., a company that complies with the Safe Harbor Privacy Policy Framework initiative, guaranteeing the handling of Personal Information in compliance with European security standards. The service allows websites to obtain information about the User within Social Networks (for instance name and surname), as well as to interact with his/her/its account, for example by posting messages or other contents. This service becomes active only after the express consent of the user, by means of an appropriate authorization window.  
+For further information on the use of Personal Information by Facebook Inc., please consult the following link: [www.facebook.com/privacy/explanation.php](http://www.facebook.com/privacy/explanation.php)   
+The personal data collected are: Various types of data.  
+
+**Social Networks**
+
+The User can share information and Data supplied to this Site with the social networks with which the User is registered, accepting their privacy policy. 
+
+**Facebook social buttons/widgets (Facebook)**
+
+Facebook Social button is a service run by Facebook Inc., a company that complies with the Safe Harbor Privacy Policy Framework initiative, guaranteeing the handling of Personal Data in compliance with European security standards. The service makes it possible to interact with the social network via this Website. Facebook, through the User click, acquires information about his/her/its visit to the Site. Facebook does not share any information or data in its possession with the Site or the Data Controller.   
+Place of Data Processing: USA  
+More information: [www.facebook.com/privacy/explanation.php](http://www.facebook.com/privacy/explanation.php)   
+The personal data collected are: Cookie and IP. **Analytics**
+
+The services contained in this section, provided by third parties, are used to track User behavior and, in case of profiling, they can require the User's express consent. 
+
+**Google Analytics (Google)**
+
+Google Analytics is a web analysis service supplied by Google, Inc. ("Google"), which uses "cookies" to collect Users' Personal Data which are forwarded to, and deposited on, Google's servers in the United States. Google uses the Data collected to (i) track and examine the Website's usage, (ii) prepare reports on the Website's activities for the website managers and (iii) supply other optional services. Google may use the Data collected to carry out behavioral targeting of the Website's Users. Google does not associate the user's IP address with any other information in Google's possession. Any refusal to utilize the cookies, by selecting the appropriate setup on your browser, may prevent the use of some functions of this Website.   
+Place of Data Processing: USA   
+More information: [www.google.com/intl/en/analytics/privacyoverview.html](http://www.google.com/intl/en/analytics/privacyoverview.html)  
+**  
+Google Adsense (Google)**
+
+The advertising services, provided by third parties, may allow the Website to use User’s Data for commercial communication purposes displayed in the form of banners and other advertisements on the Website based on Users’ interests. Google Adsense is an advertising service that indexes, also through automatic means such as web spider or crawler, all or part of the Data of the User's Website. Google may also record through special "DoubleClick" cookies the User's behavior in his/her interaction with the User's Website. The cookies are used by Google and third parties to show different advertisements on the basis of User’s previous behavior.   
+The Users may decide to disable all the DoubleClick cookies by clicking on: [www.google.com/settings/ads/onweb/optout?hl=en](http://www.google.com/settings/ads/onweb/optout?hl=en)   
+Place of Data Processing: USA: [google.com/privacy/ads/](http://google.com/privacy/ads/)   
+The personal data collected are: Cookie and IP.  
+
+**Twitter social buttons/widgets (Twitter)**
+
+This is a service supplied by Twitter, a company that complies with the Safe Harbor Privacy Policy Framework initiative, guaranteeing the handling of Personal Data in compliance with European security standards. By simply clicking on the Twitter push-button on the Site ("Twitter Button"), the service makes it possible to share liking of the Site on Twitter.com, without having to exit the Website's page. In this way the User links his/her/its Twitter profile to the Webite and makes this information accessible to anyone on the web.  
+Place of Data Processing: USA   
+More information: [twitter.com/privacy](http://twitter.com/privacy). 
+
+**Google +1 Button (Google)**
+
+Google +1 is a service managed by Google Inc. which makes it possible for Users to publicly share information and to receive personalized content from Google and its partners. As the User clicks on the +1 button, this action is recorded by Google, along with information about the page the User is viewing. In order to use the Google +1 button, Users need to have a public Google Profile visible to the world, which at a minimum includes the name chosen for the profile. Google may display profile identities to people who have Users' email address or other identifying information. The information the User provides to Google through this Website is used according to Google Privacy Policy. Google may share aggregate statistics related to Users' +1 activity with the public, other Users and partners (such as publishers, advertisers, or connected sites). Personal Data are stored in Google own servers, located in the United States and in other country. Google adheres to the U.S. Safe Harbor privacy principles. Sometimes the treatment of Personal Data is carried on outside the User's country of residence.  
+Place of Data Processing: USA   
+More information: [www.google.com/intl/en/+/policy/+1button.html](http://www.google.com/intl/en/+/policy/+1button.html)     
+The personal data collected are: Cookie and IP. 
+
+**Definitions and legal references**
+
+**Personal information**
+
+Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number. 
+
+**Browsing Details**
+
+Details collected automatically from the site, including the IP addresses or domain names of the computers utilized by the users who connect to the site, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file obtained in reply, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of provenance, the features of the browser and the operating system utilized by the visitor, the various time details per visit (for instance the time spent on each page) and the details about the path followed within the site with special reference to the sequence of pages visited, other parameters about the operating system and the user's IT environment.
+
+**User**
+
+Means the individual user of the Site's services or products 
+
+**Interested Party**
+
+Indicates the subject to which the Personal Data refers, using the services or the products of the site. **
+
+Data Processor
+
+**
+
+The natural person, legal person, public administration or any other organization, association or organization designated by the Data Controller for the Personal Data processing system. **
+
+Data Controller
+
+**
+
+The natural person, legal person, public administration or any other organization, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Site.   
+**
+
+Legal information
+
+**
+
+This privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of cookies. This privacy statement applies solely to the Site and is not meant to refer to other sites whose links are possibly contained therein. 
+
+Updated: **June 02, 2012**
