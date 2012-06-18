@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marsdd.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219192307id_/http%3A//www.marsdd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marsdd.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618171411id_/http%3A//www.marsdd.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – MaRS: Building Canada's next generation of growth companies
+# Privacy Policy | MaRS Discovery District
 
 **We Respect Your Privacy**  
 MaRS approaches our communications on the Internet with respect for, and commitment to protecting, your privacy rights. This privacy policy (the “Policy”) describes how we collect, protect, use and share information gathered about you on the Site. We hope that this disclosure will help increase your confidence in the Site and enhance your experience on the Internet. Please note that by visiting MaRS at the Site, you are accepting the practices described in this Policy.
