@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the dieselstation.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121121055id_/http%3A//www.dieselstation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dieselstation.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618204713id_/http%3A//www.dieselstation.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy - Exotic Car Pictures and Wallpapers at DieselStation - Fuel for your Desktop
-
-[Updates](http://www.dieselstation.com/updates-c6-p1.html) > [Site Updates](http://www.dieselstation.com/site-updates-c79-p1.html)
-
-01-Oct-2007 by [Administrator](https://web.archive.org/users/profile/62)
+# Privacy
 
 By using dieselstation.com, you agree to the collection and use of your personal information as described in this policy. If we change our privacy policy, we will post those changes on our web site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we are going to use users' information in a manner different from that stated at the time of collection we will notify users via email or by placing a prominent notice on our site. 
 
@@ -69,6 +65,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 Last Updated on April 14, 2010.
 
-[Source: DieselStation]
-
-Views: 9590
+Following is the list of recent pictures updates on our site.
