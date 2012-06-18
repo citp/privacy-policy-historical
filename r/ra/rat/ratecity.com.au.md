@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220022840id_/http%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratecity.com.au privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618122250id_/http%3A//www.ratecity.com.au/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Compare Credit Cards, Home Loans, Car Insurance, Savings Accounts and Personal Loans | RateCity.com.au
 
 _Last updated: 13 September, 2007_
 
