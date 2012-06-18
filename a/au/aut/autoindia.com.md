@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoindia.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101224153id_/http%3A//www.autoindia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoindia.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618123505id_/http%3A//auto.in/privacy.php) for the most accurate reproduction.*
 
 # Cars India , New Indian Cars, Cars in india, Car prices India, car reviews, used cars for sale, car deals, pre owned cars, best car deals, compare cars
 
