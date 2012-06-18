@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the southbeachsmoke.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215316id_/http%3A//www.southbeachsmoke.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southbeachsmoke.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618121709id_/http%3A//www.southbeachsmoke.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | South Beach Smoke
+# Electronic Cigarette Cartridges, e Cigarette Cartridges Buy Now!
 
-## Privacy Policy
+###  Privacy 
 
-  
-Effective June 1, 2010
-
+Effective June 1, 2010  
 **Website Privacy Policy & Terms of Use**
 
-Click here for our [Terms of Use](https://web.archive.org/web/20111231215316id_/http%3A//www.southbeachsmoke.com/terms.aspx)
+Click here for our [Terms of Use](https://web.archive.org/web/20120618121709id_/http%3A//www.southbeachsmoke.com/terms.html)
 
 South Beach Smoke E-Cigarette is intended for use by adult smokers and not intended for pregnant women or those who are sensitive to nicotine. Nicotine is highly addictive and may be dangerous to your health. South Beach Smoke E Cigarette is not intended as a smoking cessation device. The South Beach Smoke Electronic Cigarette offers smokers a tar-free way to enjoy smoking.
 
@@ -50,7 +48,7 @@ We will use your personal information to respond to requests you may make of us,
 
 Unless you specify that you'd prefer not to hear from us, we may also use the e-mail address you provide at registration to contact you for promotional, administrative, or other reasons. You may have these communications terminated. This likely will take 48 hours from the time you give us notice.
 
-The information gathered automatically by our system—such as your computer's IP address, the kind of browser you're using, and a record of your navigation through our site—may be used by us so we can understand how to make our site convenient and useful to our audience and to improve our products and services.
+The information gathered automatically by our systemâ€”such as your computer's IP address, the kind of browser you're using, and a record of your navigation through our siteâ€”may be used by us so we can understand how to make our site convenient and useful to our audience and to improve our products and services.
 
 We may link information collected from you through various means, including information collected automatically and through the use of cookies and personal information, with information we learn via South Beach Smoke Customer Care and from Home Delivery Program members. Our goal is to help offer you content, advertisements, products, and services that are most likely to appeal to you.
 
