@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230090120id_/http%3A//leisure.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618103428id_/http%3A//leisure.com/privacy.php) for the most accurate reproduction.*
 
 # Leisure | Privacy Statement
 
@@ -58,4 +58,4 @@ Leisure.com reserves the right to alter our Privacy Statement at our discretion.
 
 ### Contact the Leisure team
 
-You may contact the Leisure Team by [Clicking Here](https://web.archive.org/web/20111230090120id_/http%3A//contact/) to visit the Contact page.
+You may contact the Leisure Team by [Clicking Here](https://web.archive.org/web/20120618103428id_/http%3A//contact/) to visit the Contact page.
