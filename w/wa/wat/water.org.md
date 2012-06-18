@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the water.org privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219215830id_/http%3A//water.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the water.org privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619015310id_/http%3A//water.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_This Privacy Policy was last modified on March 30, 2011, and replaces the one published and made effective on August 3, 2009._
+_This Privacy Policy was last modified on April 12, 2012, and replaces the one published and made effective on August 3, 2009._
 
 Your privacy is important to us. Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.  We will not use or share your information with anyone except as described in this Privacy Policy.  This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources.
 
@@ -18,7 +18,7 @@ Water.org is grateful for the donations that help us continue our valuable work.
 
 #### Registration Information:
 
-You are not required to provide any personal information on our website unless you choose to do so.  We do ask for personal information on our online donation pages to properly enable donation transaction processing. When you donate to Water.org online, you will provide us information about yourself, your firm or company, and your practices when you donate, you may choose register for certain services, or register for email newsletters and alerts.  If you have any questions regarding the security of your registration information, please [contact us](https://web.archive.org/contact/) or call (816) 877-8400 for more information.
+You are not required to provide any personal information on our website unless you choose to do so.  We do ask for personal information on our online donation pages to properly enable donation transaction processing. When you donate to Water.org online, you will provide us information about yourself, your firm or company, and your practices when you donate, you may choose register for certain services, or register for email newsletters and alerts.  When you choose to participate in various fundraising or awareness campaigns of Water.org, we may request additional information including, but not limited to, your name, an image or photograph, contact information, and narratives authored by you. By choosing to provide any of this information, you are explicitly granting Water.org permission to use any provided information for pubic use, posting, and consumption. If you have any questions regarding the security of your registration information, please [contact us](https://web.archive.org/contact/) or call (816) 877-8400 for more information.
 
 #### Email Information:
 
@@ -42,7 +42,7 @@ As you visit our Web site, the site uses its cookies to differentiate you from o
 
 ### Sharing Information with Third Parties
 
-Water.org will not sell or trade donor’s information with any organization, nor will Water.org send mailings on behalf of other organizations.  You are not required to provide any personal information on our website unless you choose to do so. We do ask for personal information on our online donation pages to properly enable donation transaction processing. We use this information to acknowledge receipt of your donation for tax purposes. If you give a gift to Water.org, your name and address will be placed on our physical mailing list.  If you do not wish to receive physical mail from Water.org you may call us at any time at (816) 877-8400, or [contact us](https://web.archive.org/contact/), to be removed. If you are making a donation in honor of or in memory of someone, we will not use their personal information for any purpose other than sending the acknowledgement card.
+Water.org will not sell or trade donor’s information with any organization, nor will Water.org send mailings on behalf of other organizations.  You are not required to provide any personal information on our website unless you choose to do so. We do ask for personal information on our online donation pages to properly enable donation transaction processing. We use this information to acknowledge receipt of your donation for tax purposes and may publicly acknowledge your gift on Water.org and/or other web services. If you give a gift to Water.org, your name and address will be placed on our physical mailing list. If you do not wish to receive physical mail from Water.org you may call us at any time at (816) 877-8400, or [contact us](https://web.archive.org/contact/), to be removed. 
 
 ### Certain Disclosures
 
