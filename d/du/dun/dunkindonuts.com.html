@@ -1,11 +1,14 @@
-<!--The following is the downloaded HTML source of the dunkindonuts.com privacy policy that was archived on 2011-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229091645id_/https%3A//www.dunkindonuts.com/content/dunkindonuts/en/help/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dunkindonuts.com privacy policy that was archived on 2012-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618071854id_/http%3A//www.dunkindonuts.com/content/dunkindonuts/en/help/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="keywords" content="Help">
     <meta http-equiv="description" content="Dunkin' Donuts Privacy Policy">
     <meta http-equiv="title" content="Privacy Policy">
+
+    
+    
 
     <meta name="viewport" content="target-densitydpi=device-dpi">
     
@@ -17,38 +20,27 @@
     <meta property="og:image" content="/etc/designs/dunkindonuts/images/DD_Logo_share.jpg">
     
     <link rel="image_src" href="/etc/designs/dunkindonuts/images/DD_Logo_share.jpg">
-	
-	<link rel="apple-touch-icon" href="/content/dam/Dunkin_Donuts/icons/touch-icon-iphone.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/content/dam/Dunkin_Donuts/icons/touch-icon-ipad.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/content/dam/Dunkin_Donuts/icons/touch-icon-iphone4.png"> 
-	<link rel="shortcut icon" type="image/ico" href="/content/dam/Dunkin_Donuts/icons/favicon.ico">
+    
+    <link rel="apple-touch-icon" href="/content/dam/Dunkin_Donuts/icons/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/content/dam/Dunkin_Donuts/icons/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/content/dam/Dunkin_Donuts/icons/touch-icon-iphone4.png"> 
+    <link rel="shortcut icon" type="image/ico" href="/content/dam/Dunkin_Donuts/icons/favicon.ico">
     
     <script type="text/javascript">
+CQURLInfo = {
+    "contextPath": null,
+    "requestPath": '/content/dunkindonuts/en/help/privacypolicy',
+    "selectorString": null,
+    "selectors": [],
+    "extension": 'html',
+    "suffix": null
+};</script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
+<script type="text/javascript">
     {
-        var asynchronousJSLoad = function(src){
-            var doubleDelegate = function(func1, func2) {
-                return function() {
-            var args = Array.prototype.slice.call(arguments, 0);
-            if (func1) {
-                window.setTimeout(function() {
-                    func1.apply(this, args);
-                },1);
-            }
-            if (func2) {
-                window.setTimeout(function() {
-                    func2.apply(this, args);
-                },1);
-            }
-        };
-            };
-            window.onload = doubleDelegate(window.onload,function() {
-                var script = document.createElement("script");
-                script.src = src;
-                document.getElementsByTagName('head')[0].appendChild(script);
-            });
-        };
-
-        asynchronousJSLoad("http://www.dunkindonuts.com/libs/wcm/stats/tracker.js?path=/content/dunkindonuts/en/help/privacypolicy");
+        window.setTimeout(function() {
+            $CQ.getScript("http://www.dunkindonuts.com/libs/wcm/stats/tracker.js?path=/content/dunkindonuts/en/help/privacypolicy");
+        }, 1);
     }
     </script>
 
@@ -56,7 +48,7 @@
     
         if (window.randomBannerList) {
             var trackImg = new Image();
-            trackImg.src = 'http://www.dunkindonuts.com/libs/wcm/mvt/tracker/view?path=' + encodeURIComponent('/content/dunkindonuts/en/help/privacypolicy') + '&vars=' + encodeURIComponent(window.randomBannerList);
+            trackImg.src = CQ.shared.HTTP.getXhrHookedURL('http://www.dunkindonuts.com/libs/wcm/mvt/tracker/view?path=' + encodeURIComponent('/content/dunkindonuts/en/help/privacypolicy') + '&vars=' + encodeURIComponent(window.randomBannerList));
         }
     
     }</script>
@@ -78,6 +70,7 @@
     <script src="/etc/designs/dunkindonuts/js/jquery.input_hint.js" type="text/javascript"></script>
     <link href="http://www.google.com/uds/solutions/videobar/gsvideobar.css" rel="stylesheet" type="text/css">
     
+    <!--[if IE 6]><link href="/etc/designs/dunkindonuts/css/ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
     <!--[if gt IE 6]><link href="/etc/designs/dunkindonuts/css/ie.css" rel="stylesheet" type="text/css" /><![endif]-->
     <!--[if IE 8]><link href="/etc/designs/dunkindonuts/css/ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
 	
@@ -90,6 +83,7 @@
 	var required = "Please enter {0} to proceed.";
 	var maxlength = "The length of {0} should not be greater than {1} symbols."; 
 	var incorrectFormat = "Incorrect format of {0}";
+	
 		
 	var errorMessages = {
 		corporate_title: {
@@ -135,7 +129,7 @@
 		},
 		profile_card_pin: {
 			required:  $.validator.format(required, "PIN/ID#"),
-			maxlength: $.validator.format(incorrectFormat, "PIN/ID#"),
+			maxlength: $.validator.format(maxlength, "PIN/ID#","8"),
 			digits:    $.validator.format(incorrectFormat, "PIN/ID#")						
 		},
 		profile_street_address1: {
@@ -182,7 +176,7 @@
 		},
 		ddcard_pin: {
 			required:  $.validator.format(required, "PIN/ID#"),
-			maxlength: $.validator.format(incorrectFormat, "PIN/ID#"),
+			maxlength: $.validator.format(maxlength, "PIN/ID#","8"),
 			digits:    $.validator.format(incorrectFormat, "PIN/ID#")					
 		},
 		address_first_name: {
@@ -299,7 +293,7 @@
 //-->
 </script>
 
-<script src="http://www.dunkindonuts.com/libs/wcm/stats/tracker.js?path=/content/dunkindonuts/en/help/privacypolicy"></script></head>
+<link type="text/css" rel="stylesheet" href="/libs/cq/personalization/clientlib/themes/default.css"></head>
 
 
 
@@ -307,12 +301,15 @@
  
 
 <body>
-	<div class="clickstreamcloud"><script type="text/javascript" src="/libs/cq/personalization/scripts/clientlib.js"></script>  <style type="text/css">  .sb, .sbi, .sb *, .sbi * { position:relative; z-index:1; }  * html .sb, * html .sbi { height:1%; }  .sbi { display:inline-block; }  .sb-inner { background:#ddd; }  .sb-shadow { background:#000; }  .sb-border { background:#bbb; }  </style>
-<link rel="stylesheet" href="/libs/cq/personalization/scripts/clientlib/themes/default.css" type="text/css">
-<!--[if lte IE 6]>
-    <link rel="stylesheet" type="text/css" href="/libs/cq/personalization/scripts/clientlib/themes/default/clickstreamcloud/clickstreamcloud_ie6.css">
-<![endif]-->
+	<div class="clickstreamcloud">
+<script type="text/javascript" src="/etc/clientlibs/foundation/librarymanager.js"></script>
+<script type="text/javascript">
+CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/shared.js","c":[]},{"p":"/libs/cq/personalization/clientlib.js","c":[]},{"p":"/libs/cq/personalization/clientlib/themes/default.css","c":[]},{"p":"/libs/cq/personalization/clientlib/ie6/themes/default.css","c":["ie6"]}],false);
+</script><script src="/etc/clientlibs/foundation/shared.js" type="text/javascript"></script>
+<script src="/libs/cq/personalization/clientlib.js" type="text/javascript"></script>
+
 <script type="text/javascript" src="/etc/segmentation.segment.js"></script>
+
 
 <div id="clickstreamcloud-gui"></div></div>
 
@@ -394,15 +391,16 @@
 	})
 })(jQuery)
 </script>
-<input type="hidden" name="date" value="Thu Dec 29 04:16:45 EST 2011"><div class="form"></div>
+<input type="hidden" name="date" value="Mon Jun 18 03:18:48 EDT 2012"><div class="form"></div>
 
 	               	<div class="end0 end">
 
- <div class="form_row">
+<div class="form_row">
    <div class="form_leftcol"></div>
    <div class="form_rightcol">
 </div>
-  </div></div></form>
+  </div><div class="form_row_description"></div>
+</div></form>
 	            </div>
            </div>
         
@@ -552,7 +550,7 @@ $(document).ready(function(){
                    
                             
                    
-                   <a href="/content/dunkindonuts/en/menu/espressobeverages.html">Espresso Beverages</a>
+                   <a href="/content/dunkindonuts/en/menu/espressobeverages.html">Specialty Coffee</a>
                    
                             
                    
@@ -611,7 +609,7 @@ $(document).ready(function(){
                    
                             
                    
-                   <a href="/content/dunkindonuts/en/menu/othersandwiches.html">Other Sandwiches</a>
+                   <a href="/content/dunkindonuts/en/menu/sandwiches.html">Bakery Sandwiches</a>
                    
                             
                    
@@ -673,7 +671,7 @@ $(document).ready(function(){
                    
                             
                    
-                   <a class="clearfloat left_float" target="_blank" href="http://www.opportunitiesbrewin.com/">Careers</a>
+                   <a class="clearfloat left_float" target="_blank" href="https://www.peopleanswers.com/pa/testPortalEntry.do?pc=991603&amp;src=825452">Careers</a>
                    <div class="new_window_link"></div>
                    
                             
@@ -723,6 +721,11 @@ $(document).ready(function(){
                             
                    
                    <a target="_blank" href="http://shop.DunkinDonuts.com/shoponline/Product.aspx?CategoryId=GIFT&amp;GroupId=DDSVC">Buy DD Cards</a>
+                   <div class="new_window_link"></div>
+                   
+                            
+                   
+                   <a target="_blank" href="http://shop.DunkinDonuts.com/shoponline/Category.aspx?CategoryId=EQUIP">Equipment</a>
                    <div class="new_window_link"></div>
                    
                             
@@ -888,11 +891,12 @@ $(document).ready(function(){
 
         <div class="createaccend1 end">
 
- <div class="form_row">
+<div class="form_row">
    <div class="form_leftcol"></div>
    <div class="form_rightcol">
 </div>
-  </div></div></form>
+  </div><div class="form_row_description"></div>
+</div></form>
           <!-- Column one end -->
           
     
@@ -925,11 +929,12 @@ $(document).ready(function(){
 
           <div class="signinend1 end">
 
- <div class="form_row">
+<div class="form_row">
    <div class="form_leftcol"></div>
    <div class="form_rightcol">
 </div>
-  </div></div></form>
+  </div><div class="form_row_description"></div>
+</div></form>
       </div>
       
       
@@ -1175,7 +1180,7 @@ $(document).ready(function(){
             <span class="btnlabel">GO</span>
             <span class="btnaction btnArrow"></span>
         </button>
-        <input type="hidden" name="date" value="Thu Dec 29 04:16:45 EST 2011">
+        <input type="hidden" name="date" value="Mon Jun 18 03:18:48 EDT 2012">
         
         </div>
     </form>
@@ -1300,7 +1305,7 @@ $(document).ready(function(){
              
                             <li><div class="clearfloat"><div class="floatLeft"><a href="/content/dunkindonuts/en/company.html">Company Snapshot</a></div></div></li>
                             
-                            <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://www.opportunitiesbrewin.com/">Careers</a></div><div class="new_window_link"></div></div></li>
+                            <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="https://www.peopleanswers.com/pa/testSplashPageEntry.do?splashURL=portalDunkinDonuts1&amp;random=1776569474">Careers</a></div><div class="new_window_link"></div></div></li>
                             
                             <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://www.dunkinfranchising.com/aboutus/franchise/franchise-home.html">Franchising</a></div><div class="new_window_link"></div></div></li>
                             
@@ -1326,8 +1331,45 @@ $(document).ready(function(){
     
     <div id="parnters_logos">
         <div class="clearfloat"></div>
-        <div class="partnersLogosPar parsys iparsys"><div class="iparys_inherited"><div class="partnersLogosPar parsys iparsys"><div class="section"><div class="parbase teaser"><script type="text/javascript" src="/libs/cq/personalization/components/teaser/teaser-client.js"></script><script type="text/javascript">{initializeTeaserLoader([{"path":"/content/campaigns/dunkindonuts/footer/dallas","name":"dallas","campainName":"footer","id":"footer_dallas","segments":["/etc/segmentation/dunkindonuts/Footer/dallas"],"tags":[]},{"path":"/content/campaigns/dunkindonuts/footer/boston","name":"boston","campainName":"footer","id":"footer_boston","segments":["/etc/segmentation/dunkindonuts/Footer/boston"],"tags":[]},{"path":"/content/campaigns/dunkindonuts/footer/new_york","name":"new_york","campainName":"footer","id":"footer_new_york","segments":["/etc/segmentation/dunkindonuts/Footer/new_york"],"tags":[]},{"path":"/content/campaigns/dunkindonuts/footer/national","name":"national","campainName":"footer","id":"footer_national","segments":[],"tags":[]}], "first", "_content_dunkindonuts_en_jcr_content_partnersLogosPar_teaser", "false");
-        }</script><div id="_content_dunkindonuts_en_jcr_content_partnersLogosPar_teaser" class="campaign campaign-footer"></div></div>
+        <div class="partnersLogosPar parsys iparsys"><div class="iparys_inherited"><div class="partnersLogosPar parsys iparsys"><div class="section"><div class="parbase teaser"><script type="text/javascript">{initializeTeaserLoader([{"path":"/content/campaigns/dunkindonuts/footer/dallas","name":"dallas","campainName":"footer","id":"footer_dallas","segments":["/etc/segmentation/dunkindonuts/Footer/dallas"],"tags":[]},{"path":"/content/campaigns/dunkindonuts/footer/boston","name":"boston","campainName":"footer","id":"footer_boston","segments":["/etc/segmentation/dunkindonuts/Footer/boston"],"tags":[]},{"path":"/content/campaigns/dunkindonuts/footer/new_york","name":"new_york","campainName":"footer","id":"footer_new_york","segments":["/etc/segmentation/dunkindonuts/Footer/new_york"],"tags":[]},{"path":"/content/campaigns/dunkindonuts/footer/national","name":"national","campainName":"footer","id":"footer_national","segments":[],"tags":[]}], "first", "_content_dunkindonuts_en_jcr_content_partnersLogosPar_teaser", "false", "http://www.dunkindonuts.com/libs/wcm/stats/tracker.js");
+        }</script><div id="_content_dunkindonuts_en_jcr_content_partnersLogosPar_teaser" class="campaign campaign-footer"><noscript><div class="par parsys"><div class="parbase partnersLogo image section">
+<a href="/content/dunkindonuts/en/amex.html" target="_blank"><img title="" alt="" class="cq-dd-image" src="/content/campaigns/dunkindonuts/footer/national/jcr:content/par/partnerslogo.img.jpg/dunkindonuts"></a>
+<script type="text/javascript"> 
+$(document).ready (function() {
+    var width = 0;
+    var logos = document.getElementById("parnters_logos");
+    var imgs = logos.getElementsByTagName("img");
+    //alert('img count = '+imgs.length);
+    for (i=0; i<imgs.length; i++){
+        width = width + imgs[i].offsetWidth + 10;
+    }
+    if(imgs.length>=1){
+        //alert(width+" --> "+((980 - width)/2));
+        imgs[0].style.marginLeft = (980 - width)/2 + "px";
+    }
+}) 
+</script>
+    </div>
+<div class="parbase partnersLogo image section">
+<a href="http://www.baskinrobbins.com" target="_blank"><img title="" alt="" class="cq-dd-image" src="/content/campaigns/dunkindonuts/footer/national/jcr:content/par/partnerslogo_0.img.jpg/dunkindonuts"></a>
+<script type="text/javascript"> 
+$(document).ready (function() {
+    var width = 0;
+    var logos = document.getElementById("parnters_logos");
+    var imgs = logos.getElementsByTagName("img");
+    //alert('img count = '+imgs.length);
+    for (i=0; i<imgs.length; i++){
+        width = width + imgs[i].offsetWidth + 10;
+    }
+    if(imgs.length>=1){
+        //alert(width+" --> "+((980 - width)/2));
+        imgs[0].style.marginLeft = (980 - width)/2 + "px";
+    }
+}) 
+</script>
+    </div>
+</div>
+</noscript></div></div>
 </div></div>
 </div><div class="section"><div class="new"></div>
 </div>
@@ -1344,7 +1386,7 @@ $(document).ready(function(){
 <script type="text/javascript" src="/etc/designs/dunkindonuts/js/patnersLogo.js"></script> 
     </div>
     
-<div id="scTagOutput" style="display:none;"><a style="position:fixed;bottom:0;left:0;width:6px;height:6px;display:block;background:#FF6200;" id="scdebuglnk" href="javascript:scShowTagDebugList();"></a><ul id="scDebugList" style="display:none;"><li>SiteCatylist tag not found in xml.</li><li><a name="sculanchor"></a>pathname: /web/20111229091645id_/https%3A//www.dunkindonuts.com/content/dunkindonuts/en/help/privacypolicy.html</li></ul></div>
+<div id="scTagOutput" style="display:none;"><a style="position:fixed;bottom:0;left:0;width:6px;height:6px;display:block;background:#FF6200;" id="scdebuglnk" href="javascript:scShowTagDebugList();"></a><ul id="scDebugList" style="display:none;"><li>SiteCatylist tag not found in xml.</li><li><a name="sculanchor"></a>pathname: /web/20120618071854id_/http%3A//www.dunkindonuts.com/content/dunkindonuts/en/help/privacypolicy.html</li></ul></div>
 
 <!-- SiteCatalyst code version: H.22.1.
 Copyright 1996-2010 Adobe, Inc. All Rights Reserved
@@ -1353,7 +1395,7 @@ More info available at http://www.omniture.com -->
 <script language="JavaScript" type="text/javascript" src="/etc/designs/dunkindonuts/js/s_code.js"></script>
 <script language="JavaScript" type="text/javascript" src="/etc/designs/dunkindonuts/js/global.js"></script>
 <script type="text/javascript">
-   ddScServer = "10.100.39.132";
+   ddScServer = "10.106.76.16";
    ddScLoggedIn = "false";
    ddScUserId = "";
 </script> 
