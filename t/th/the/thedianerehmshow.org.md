@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedianerehmshow.org privacy policy that was archived on 2011-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110822050252id_/http%3A//wamu.org/about/website/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedianerehmshow.org privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619062005id_/http%3A//wamu.org/about/website/privacy_policy) for the most accurate reproduction.*
 
-# WAMU 88.5 FM American University Radio - Privacy Policy
+# Privacy Policy | WAMU 88.5 - American University Radio
 
 Protecting your privacy begins with a complete understanding of what information can be collected from you and how that information is used. Should you have any questions regarding your privacy and our policy after reading this document, please contact us for clarification at: feedback@wamu.org. You are also encouraged to review our [Terms of Use](http://www.wamu.org/about/website/terms_of_use.php).
 
