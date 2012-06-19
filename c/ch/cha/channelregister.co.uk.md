@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelregister.co.uk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206013021id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelregister.co.uk privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619035247id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register • The Register
 
@@ -19,27 +19,29 @@ The Register site does record IP addresses and produces server logs - as all Web
 
 ### Cookies
 
-The Register site sets cookies in order to help with the management of its advertising and to enable certain user features, such as account login. The data is used by our Advertising Server to help decide which adverts to display on the page at any given time. You may of course choose to block these cookies if you wish, and the majority of the site will continue to function normally.
+The Register site sets cookies in order to help with the management of its advertising and to enable certain user features. Read all about our cookies, and how to manage them [here](http://www.theregister.co.uk/Profile/cookies/).
 
 ### Advertising
 
-The Register runs advertising for a wide variety of organisations. These adverts are served from our advertising servers as well as from third-party ad servers managed by the advertiser. Recent third-party ad servers include DoubleClick, Atlas DMT and BlueStreak.
+The Register runs advertising for a wide variety of organisations. These adverts are served from our advertising servers as well as from third-party advertising servers managed by the advertiser. Recent third-party ad servers include DoubleClick, Atlas DMT and MediaMind.
 
 These ad servers may attempt to set cookies on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of advert delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
 
 The respective privacy policies of these ad servers can be found here:
 
-[DoubleClick Privacy Policy](http://www.doubleclick.com/us/about_doubleclick/privacy/)
+[DoubleClick Privacy Policy](http://www.google.com/intl/en/privacy/privacy-policy.html)
 
-DoubleClick also has a cookie opt-out facility [here](http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/)
+DoubleClick also has a cookie opt-out facility [here](http://www.google.com/privacy/ads/)
 
 [Atlas DMT Privacy Policy](http://www.atlasdmt.com/privacy.aspx)
+
+[MediaMind Privacy Policy](http://www.mediamind.com/Content.aspx?page=privacy_policy)
 
 If you encounter any problems with advertising please email [ads@theregister.co.uk](mailto:ads@theregister.co.uk)
 
 ### Email and Online Forms
 
-Readers who choose to subscribe to our optional headlines-by-email service, or complete any of our online forms, may be asked to supply personal data. If they choose to do so, that information is recorded and used for broad demographic information, which may be used to target advertising. If permission is granted, this information may be used to target specific users with occasional emails informing them about commercial services provided by The Register.
+Readers who choose to subscribe to our headlines-by-email service, or complete any of our online forms, may be asked to supply personal data. If they choose to do so, that information is recorded and used for broad demographic information, which may be used to target advertising. If permission is granted, this information may be used to target specific users with occasional emails informing them about commercial services provided by The Register.
 
 If permission is granted, this information may be used to send occasional emails containing offers from our partners. This will only ever be provided to readers who have specifically given us permission to use their information in this way.
 
@@ -61,22 +63,6 @@ The Register will never use your data for anything beyond the reason stated and 
 
 We reserve the right to publish emails and letters sent to The Register. If the sender asks that that we don't reveal his or her identity, that information won't be published. We never publish a private email address unless specifically asked to do so by its owner.
 
-### Third Parties
-
-The Register has partnered with other organisations to provide you with a number of service. All have their own privacy policies, which can be found here :-
-
-### Quantcast
-
-The Register is currently conducting market research in conjunction with Quantcast. [Privacy Policy](http://www.quantcast.com/docs/privacy)
-
-### WorldPay
-
-WorldPay provide The Register with their credit card processing facilities. [Privacy Policy](http://www.worldpay.com/guarantee/terms.shtml)
-
-### IT Jobboard
-
-[IT Jobs in the UK](http://www.theitjobboard.co.uk/) powering The Register's Jobs hunting service. [Privacy Policy](http://www.theitjobboard.co.uk/browse/Privacy-and-Registration/en)
-
 ### Rackspace
 
 Rackspace host The Register's websites. [Privacy Policy](http://www.rackspace.co.uk/content/s2/PDFs/Legal/PrivacyStatement60131.pdf?from=5061727964710674)
@@ -84,18 +70,6 @@ Rackspace host The Register's websites. [Privacy Policy](http://www.rackspace.co
 ### Data Protection
 
 Anyone who provides The Register with personal information is given the opportunity to manage how that information is used. This includes opting out of any services and restricting the use of that information. You can do that by visiting [this address](http://account.theregister.co.uk/register/) or by contacting The data controller (Caroline Wilson).
-
-### "Reg Jobs" Jobs by Email
-
-Anyone signing up for the "Reg Jobs" Jobs by Email service will be providing their data to [theitjobboard.co.uk](http://theitjobboard.co.uk/). You can cancel or modify your Jobs by Email preferences at any time.
-
-### Pricegrabber
-
-[Pricegrabber](http://www.pricegrabber.co.uk/info_disclaimer.php) runs our price comparison services.
-
-### Betanews
-
-They provide our software downloads section, their privacy policy [is here](http://www.betanews.com/privacy).
 
 ### Accessing your Data
 
@@ -111,7 +85,7 @@ As statutory and online requirements change so this policy document may change. 
 
 If you wish to contact Situation Publishing Limited regarding any aspect of the Privacy Policy you should use the following contact details:
 
-### By Post:
+### By Post
 
 The Data Controller   
 Situation Publishing Limited   
