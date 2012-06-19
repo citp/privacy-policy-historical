@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yardvps.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007231411id_/http%3A//www.yardvps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yardvps.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619050940id_/http%3A//www.yardvps.com/privacy.html) for the most accurate reproduction.*
 
-# YardVPS - Privacy Policy
+# YardVPS | Privacy Policy
 
-**YardVPS** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.YardVPS.com](http://www.yardvps.com/)
+**YardVPS** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.yardvps.com](http://www.yardvps.com/)
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site.
 
@@ -24,10 +24,9 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 **Choice/Opt-Out**
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send   
-email to [**Sales@YardVPS.com**](mailto:sales@yardvps.com)
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to [**sales@yardvps.com**](mailto:sales@yardvps.com)
 
 **Correct/Update**
 
 This site gives users the following options for changing and modifying information previously provided.   
-**Email :**[ **Sales@YardVPS.com**](mailto:sales@yardvps.com)
+**Email :**[ **sales@yardvps.com**](mailto:sales@yardvps.com)
