@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219080028id_/http%3A//www.wfmz.com/Privacy-Policy/-/121798/141168/-/ok7y5bz/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619042732id_/http%3A//www.wfmz.com/Privacy-Policy/-/121798/141168/-/ok7y5bz/-/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Home - Home
 
-  * **PRIVACY STATEMENT FOR wfmz.com**  
+**PRIVACY STATEMENT FOR wfmz.com**  
 as required by the CHILDREN'S ONLINE PRIVACY PROTECTION ACT  
 WFMZ Online - Maranatha Broadcasting Company, Inc.  
 ---  
    
  **Maranatha Broadcasting Company, Inc.**  
-has created this privacy statement in order to demonstrate our  
-firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site.  
+has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site.  
   
 This is how we will handle information we learn about you from your visit to our website. The information we receive depends upon what you do when visiting our site.
 
@@ -23,19 +22,18 @@ This is how we will handle information we learn about you from your visit to our
 
 **If you register for any of our online services:** This site offers several services for which registration is required. These include (but are not limited to) Stormcenter Update school closing information, and our Headline Email News Service. The information gathered is necessary for the functionality of these services. 
 
-**Cookies** A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. WFMZ uses a cookie when you register for Stormcenter Update information, when you participate in one of our online surveys, and at other times. The Stormcenter Update cookie allows you to get your information faster, without having to enter your login and password each time you check for updates. You may [CLICK HERE](http://www.wfmz.com/What-Is-A-Cookie/-/121798/143726/-/vmukup/-/index.html) to learn about the Stormcenter Update cookie. 
+**Cookies** A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. WFMZ uses a cookie when you register for Stormcenter Update information, when you participate in one of our online surveys, and at other times. The Stormcenter Update cookie allows you to get your information faster, without having to enter your login and password each time you check for updates. You may [CLICK HERE](https://web.archive.org/What-Is-A-Cookie/-/121798/143726/-/vmukup/-/index.html) to learn about the Stormcenter Update cookie. 
 
-**Advertising** We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+**Advertising** We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Here is a url for more information about this practice and to know your choices about not having this information used by these companies: [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Correct / update policy** Users may correct or change the information collected during registration for Stormcenter Update. The instructions for doing this can be found in the Stormcenter Update portion of our website. Users may change this information at any time and as often as necessary. Users who are experiencing problems or who have any questions about how our services work can contact us at: 
 
-Phone: 610.797.4530   WFMZ Online  
+Phone: 610.797.4530  
+
+WFMZ Online  
 300 East Rock Road  
 Allentown, PA 18103-7599
 
  **Delete / deactivate policy** Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter. Currently, we do not offer users a means by which to completely delete personal information established at the time of registration for any service. 
 
 We want to be very clear: We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us.
-
-
-
