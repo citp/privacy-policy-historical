@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efunda.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220080432id_/http%3A//www.efunda.com/members/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efunda.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619071756id_/http%3A//www.efunda.com/members/privacy.cfm) for the most accurate reproduction.*
 
 # eFunda Privacy Notice
 
@@ -51,4 +51,4 @@ In particular:
 ---  
 [**Home**](http://www.efunda.com/home.cfm)  [Membership](http://www.efunda.com/whyjoin.cfm)  [About Us](http://www.efunda.com/about/about.cfm)  [Privacy](http://www.efunda.com/members/privacy.cfm)  [Disclaimer](http://www.efunda.com/disclaimer.cfm)  [Contact](http://www.efunda.com/about/contact.cfm)  [Advertise](http://dhmedia.com/media-sales/efunda.html)   
   
-Copyright © 2011 eFunda, Inc.
+Copyright © 2012 eFunda, Inc.
