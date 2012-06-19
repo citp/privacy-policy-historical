@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daltonsbusiness.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220062730id_/http%3A//www.daltonsbusiness.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daltonsbusiness.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619055147id_/http%3A//www.daltonsbusiness.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -32,8 +32,7 @@ If we do change or amend our privacy policy we will notify users via the Daltons
 For further information please contact: [ queries@daltonsbusiness.com](mailto:queries@daltonsbusiness.com)
 
 **DaltonsBusiness.com**  
-3rd Floor, Ludgate House,  
-245 Blackfriars Road,  
-London  
-SE1 9UY  
-Fax: 020 7955 3761 
+Gainsborough House,  
+2 Sheen Road,  
+Richmond  
+TW9 1AE
