@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the macobserver.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112091817id_/http%3A//www.macobserver.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macobserver.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619081739id_/http%3A//www.macobserver.com/tmo/privacy) for the most accurate reproduction.*
 
-# TMO Privacy Policy
+# Privacy Policy | The Mac Observer
+
+## TMO Privacy Policy:
 
 The Mac Observer, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website.
 
@@ -17,7 +19,7 @@ In an attempt to provide increased value to our visitors, our sites provide link
 Our online surveys ask visitors for contact information (including, but not limited to, their email address) and demographic information (including, but not limited to, their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may cancel future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
 **Site Advertisers**  
-We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received from banner ads are collected by our ad company, and we do not necessarily have access to this information. 
+We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received from banner ads are collected by our ad company, and we do not necessarily have access to this information. These companies may also use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Public Forums**  
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
