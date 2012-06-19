@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatwaves.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202020730id_/http%3A//www.bharatwaves.com/portal/modules/bwinfo/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatwaves.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619024454id_/http%3A//www.bharatwaves.in/portal/modules/bwinfo/privacypolicy.php) for the most accurate reproduction.*
 
 # Contribute
 
