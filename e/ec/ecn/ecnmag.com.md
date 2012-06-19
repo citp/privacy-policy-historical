@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the ecnmag.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108052821id_/http%3A//www.ecnmag.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecnmag.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619094109id_/http%3A//www.ecnmag.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Statement | ECN: Electronic Component News
+# Privacy Policy | ECN Magazine
 
 Overview
 
-[WWW.ECNmag.com](http://www.ecnmag.com/ "ECN Magazine")  appreciates your visiting this web site. Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.
+ _ECN Magazine_ appreciates your visiting this web site. Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.
 
 This Privacy Policy describes the policies of Advantage BusinessMedia (“ABM” or “we”), regarding the collection, use, disclosure and protection of the following types of information: 
 
-• Information obtained when you (“you” or “User”) visit the [www.ecnmag.com](http://www.ecnmag.com/ "ECN Magazine") web site (the “Site”).   
+• Information obtained when you (“you” or “User”) visit the [www.ecnmag.com](http://www.ecnmag.com/) web site (the “Site”).   
 • Information obtained through e-mail communications with you related to the Site. 
 
 This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy. 
 
 We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.
 
-Information We Collect and How We Collect It  
+ **Information We Collect and How We Collect It**  
 We require you to provide certain information about yourself when you register with this Site and when you request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., moderated discussions and bulletin boards). 
 
 The information we collect may include information from which you may be personally identified (“Personally Identifiable Information”), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge. 
 
 When you visit this Site, we may collect the [IP](http://www.ecnmag.com/searchkeyword.aspx?q=IP&ao=0 "Read more about IP") address of your computer. We also use automatic data collection[*] technology to record other information that identifies your computer and tracks your behavior on the Site. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
 
-How We Use Your Information   
+ **How We Use Your Information**   
 We use Personally Identifiable Information collected on this Site for the following purposes:
 
 • To provide you with this Site and other products and services.   
@@ -37,7 +37,7 @@ We may use the information you provide us to send you e-mail, fax and other comm
 
 We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [privacymanager@advantagemedia.com](mailto:privacymanager@advantagemedia.com) with the subject line “opt out – third party.”
 
-Our Disclosure of Your Information  
+ **Our Disclosure of Your Information**  
 We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows: 
 
 • Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.   
@@ -49,27 +49,25 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
 • When disclosure is necessary to accomplish the purpose for which you provide it.   
 • We may share any information (including Personally Identifiable Information) you provide with other Advantage Business Media member companies for any uses consistent with those disclosed in this Privacy Policy.
 
-Security  
+ **Security**  
 We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties. 
 
 Right to Access and Change Information   
 You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to [privacymanager@advantagemedia.com](mailto:privacymanager@advantagemedia.com). However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
 
-Links  
+ **Links**  
 This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites. 
 
-This Site is operated by:  
+**This Site is operated by:**  
 Advantage Business Media  
 100 Enterprise Dr  
 Suite 600  
 Rockaway, NJ 07866  
 Email: [privacymanager@advantagemedia.com](mailto:privacymanager@advantagemedia.com)
 
-Automatic Data Collection: Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. 
+ **Automatic Data Collection:** Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. 
 
-Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include those described in the preceding paragraph. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. You may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at [www.privacychoices.org.](http://www.privacychoices.org./)
-
-with the subject line "opt out - third party."
+Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include those described in the preceding paragraph. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. You may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at [www.privacychoices.org](http://www.privacychoices.org/) with the subject line "opt out - third party."
 
  **Our Disclosure of Your Information**  
 We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed.
@@ -87,4 +85,4 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
 • When disclosure is necessary to accomplish the purpose for which you provide it.
 
  **Security**  
-We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclos
+We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure.
