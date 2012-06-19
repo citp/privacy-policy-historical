@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mandmdirect.ie privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221081139id_/http%3A//www.mandmdirect.ie/Security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandmdirect.ie privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619193328id_/http%3A//www.mandmdirect.ie/Security.htm) for the most accurate reproduction.*
 
 # Security details for MandMDirect.ie. adidas , Ben Sherman, Diesel, Nike and loads more.
 
-**Ordering and paying for online orders with MandMDirect.ie is both safe and secure.**
+**Ordering and paying for online orders with MandMDirect is both safe and secure.**
 
 Security is one of the greatest fears when placing online orders and we as a company have invested in a totally secure and safe site for you to shop. Once you checkout, we encrypt all your details using Internet standard encryption technology (SSL). 
 
@@ -19,14 +19,14 @@ When you register with our website we need to know your name, email address, cor
 The Internet is not a secure medium. However we have put in place various security procedures as set out in this policy, including firewall security and password protection 
 
 **Cookies**   
-MandMDirect.com makes use of cookies (cookies are small pieces of information that are sent from our website to the cookie file of the browser on your computer’s hard disc).
+MandMDirect makes use of cookies (cookies are small pieces of information that are sent from our website to the cookie file of the browser on your computer’s hard disc).
 
 Cookies are used for several reasons:  
 a)To allow you to carry information across pages of our website and avoid having to re-enter information when you return to the site.  
 b)To monitor our website traffic and analyse how our website works. This will allow us to make changes to the website in the future and make it easier to use.  
 c)To deliver more relevant advertisements on websites that display advertising by showing you products you might be interested in based on your most recent visit to our site. 
 
-You have the ability to accept or decline cookies by modifying the settings in your browser. The majority of browsers will allow the user to alter the settings used for cookies. The help menu on your browser will have further details. Please remember that turning cookies off will restrict your access to our website.If you have your browser set to disable all cookies then you will not be able to access many parts of the MandMDirect.com website. If your browser is set to prompt you when cookies are being used, you will have to answer ‘yes’ when prompted to gain full access. 
+You have the ability to accept or decline cookies by modifying the settings in your browser. The majority of browsers will allow the user to alter the settings used for cookies. The help menu on your browser will have further details. Please remember that turning cookies off will restrict your access to our website.If you have your browser set to disable all cookies then you will not be able to access many parts of the MandMDirect website. If your browser is set to prompt you when cookies are being used, you will have to answer ‘yes’ when prompted to gain full access. 
 
 #### Sale of business
 
