@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wenhaircare.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228025354id_/http%3A//www.wenhaircare.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wenhaircare.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619131712id_/http%3A//www.wenhaircare.com/privacy.php) for the most accurate reproduction.*
 
 # WEN Haircare - Privacy Policy
 
@@ -73,3 +73,7 @@ Attn: California Privacy Rights
 #### Notification of Changes
 
 We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. As we may make changes at any time without notifying you, we suggest that you periodically consult this Privacy Policy. Your continued use of the Website after the changes are posted constitutes your agreement to the changes, both with regard to information we have previously collected from you and with regard to information we collect from you in the future. If you do not agree to the changes, please discontinue your use of our Website.
+
+#### Customer Care
+
+To contact Customer Care, please call 1-800-964-1892.
