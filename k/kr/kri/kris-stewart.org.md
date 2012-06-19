@@ -1,26 +1,28 @@
-> *The following text is extracted and transformed from the kris-stewart.org privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510235059id_/http%3A//www.flaunt.nu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kris-stewart.org privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619174615id_/http%3A//www.flaunt.nu/privacy-policy) for the most accurate reproduction.*
 
-# Flaunt // Your #1 Free Fansite Hosting!
+# Flaunt Network // Your #1 Free Fansite Hosting Since 2009!
 
-**Flaunt Network** respects the privacy of each user and visitor. This privacy policy document outlines the types of personal information which is received and collected by Flaunt Network, and how it is used. Read the following information to learn more about the legitimate policies.
+The following privacy policy applies to Flaunt.nu and all fansites hosted by Flaunt Network. If you require any more information or have any questions about our privacy policy, please feel free to contact us at [flaunt.nu@gmail.com](mailto:flaunt.nu@gmail.com). At Flaunt Network, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Flaunt Network sites and how it is used. 
 
-**_Log Files_**  
-Flaunt Network is rightfully entitled to collect, and store personal information provided during account registrations, or webhosting application submissions. All log files automatically record non-personal information (IP address, browser, accessed pages, Internet Service Provider, date/time stamp, referring/exit pages, and number of clicks to analyze trends administer the site, track user’s movement around the site, and gather demographic information). IP addresses, and other such information are not linked to any information that is personally identifiable.
+**Log Files**  
+Like many other Web sites, Flaunt Network makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-**_Cookies And Web Beacons_**  
-Flaunt Network does not use cookies.
+**DoubleClick DART Cookie**  
+• Google, as a third party vendor, uses cookies to serve ads on Flaunt Network.  
+• Google’s use of the DART cookie enables it to serve ads to our users based on their visit to Flaunt Network and other sites on the Internet.  
+• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-**_How This Information Is Used_**  
-Flaunt Network shall not distribute personal information to any third parties. Flaunt Network is only entitled to share this information if required by law, to apply its Terms of Service, to protect its rights and property, or if Flaunt Network is acquired by a third party. Flaunt Network shall not use personal information to send commercial messages without the prior consent of a user or visitor. Any personal information voluntarily disclosed through a public profile, content submissions, or posts to the discussion areas become available to the public. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: Google Adsense, ValueClick Media and Zype Media.
 
-**_Copyrighted Materials_**  
-Flaunt Network respects the legitimate rights of genuine copyright owners. Therefore, users are not to post any content which infringes on a third party’s intellectual property rights. 
+**Opt-Out Cookie**  
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
-**_DoubleClick DART Cookie_**  
-Google, as a third party vendor, uses cookies to serve ads on Flaunt Network. Google’s use of the DART cookie enables it to serve ads to users based on their visit to Flaunt Network and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.  
-Some of Flaunt Network advertising partners may use cookies and web beacons on the site. Flaunt Network advertising partners include Google Adsense and Teen Hollywood.  
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on Flaunt Network send directly to browsers. They automatically receive an IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that a visitor see.  
-Flaunt Network has no access to or control over these cookies that are used by third-party advertisers.  
-One should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Flaunt Network’s privacy policy does not apply to, and it cannot control the activities of, such other advertisers or web sites.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
-**If you require any more information or have any questions about the privacy policy, please feel free to contact us by email at[flaunt.nu@gmail.com](mailto:flaunt.nu@gmail.com).**
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [http://www.valueclickmedia.com/member_privacy.shtml](http://valueclickmedia.com/member_privacy.shtml).
+
+Flaunt Network has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Flaunt Network privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
