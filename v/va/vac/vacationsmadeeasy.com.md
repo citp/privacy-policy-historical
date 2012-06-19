@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vacationsmadeeasy.com privacy policy that was archived on 2011-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111022064151id_/http%3A//www.vacationsmadeeasy.com/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationsmadeeasy.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619065708id_/http%3A//www.vacationsmadeeasy.com/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Vacations Made Easy Disclaimers
+
+ 
 
 VacationsMadeEasy.com created this Web Site Privacy Policy ("Privacy Policy") in order to ensure the confidence of visitors and customers of our web site (the "Site"), and to demonstrate our commitment to fair information practices and the protection of privacy. 
 
