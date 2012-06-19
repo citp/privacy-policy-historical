@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netlog.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008161151id_/http%3A//en.netlog.com/go/about/legal/view%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlog.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619173936id_/http%3A//en.netlog.com/go/about/legal/view%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -83,12 +83,11 @@ Your personal data may be stored in a country outside the EU.
 
 ## Contact information
 
-**Netlog NV**  
+**Massive Media NV**  
 E. Braunplein 18  
 B-9000 Gent  
 Belgium
 
-Tel +32 2 400 43 21  
 Fax +32 2 400 43 20
 
 VAT BE 0859635972  
