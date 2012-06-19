@@ -1,31 +1,26 @@
-> *The following text is extracted and transformed from the scratchlive.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205045157id_/http%3A//serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratchlive.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620005750id_/http%3A//serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
 
-# Serato Websites Privacy Policy | Serato Audio Research
+# Serato Websites Privacy Policy | Serato.com
 
-· Introduction  
-· Who does this Privacy Policy apply to?  
-· What information do we collect?  
-· How is the information collected?  
-· What is your Identifiable Information used for?  
-· Disclosure of your personal information  
-· Accessing your personal information  
-· Private Messages
+[Legal](https://web.archive.org/legal)
 
-## Introduction
+Serato Websites Privacy Policy
+
+#### Introduction
 
 Serato Inc Limited Partnership, "Serato", own and run several websites, namely Serato.com, [ScratchLive.net](http://scratchlive.net/) and [Whitelabel.net](http://whitelabel.net/), collectively "Serato Websites".
 
 Serato Websites are run on a number of servers leased by Serato and located in the USA, collectively "Serato Servers". During your use of Serato Websites, Serato collects assorted information about your specific website usage. Additionally, you may be asked to provide us with personally identifying information that enables us to provide you with website personalisation options and/or various online services. This document describes what information we collect, when we collect it, what we use the information for and to whom we may disclose it.  Serato may update this statement from time to time so you are encouraged to periodically revisit this page for the latest Serato Website Privacy Policy.
 
-## Who does this Privacy Policy apply to?
+#### Who does this Privacy Policy apply to?
 
 This privacy policy applies to anyone using Serato Websites. If you have entered into any other agreements with Serato which set out further terms of your use of Serato Websites, then those terms will apply in addition to this Privacy Policy.
 
-## What information do we collect?
+#### What information do we collect?
 
 The information collected by Serato Websites can be broadly separated into two categories: 1) Non-Identifiable Information and 2) Identifiable Information.
 
-### **Non-Identifiable Information**
+##### Non-Identifiable Information
 
 All usage activities on Serato Websites are subject to the collection of the following Non-Identifiable Information:
 
@@ -39,7 +34,7 @@ All usage activities on Serato Websites are subject to the collection of the fol
 
 This information is considered non-personal because it provides no uniquely identifying information about you.
 
-### **Identifiable Information**
+##### Identifiable Information
 
 Participation in certain Serato Websites services requires certain Identifiable Information from you. Examples of services requiring Identifiable Information include participating in forum discussions, making online product purchases and downloading certain content.
 
@@ -57,13 +52,13 @@ In other cases Personal Information is only visible to yourself and to Serato em
 
 Activity Information includes forum posts written by you, records of downloads, and other activity that is not in the User Profile section of the Serato Websites.
 
-### **A Note about Credit Card and Bank Account Information**
+##### A Note about Credit Card and Bank Account Information
 
 Serato Servers never store highly sensitive bank account and credit card information. Purchases from Serato Websites that require the inputting of credit card information use a specialised, accredited credit card payment service, Direct Payment Solutions (DPS), for the purposes of acquiring and processing credit card data.
 
 For further information about DPS please read their [Privacy Policy](http://www.paymentexpress.com/about/about_paymentexpress/privacy_policy.html) and [Legal Notice](http://www.paymentexpress.com/about/about_paymentexpress/legal_notice.html).
 
-## How is the information collected?
+#### How is the information collected?
 
 Non-Identifiable Information is collected via two different services: 1) Google Inc.'s Google Analytics web analysis service and 2) Chartbeat Inc.'s real-time analytics service.
 
@@ -71,15 +66,11 @@ Google Analytics uses "cookies", which are small text files stored on your compu
 
 For further information on Google Analytics please read Google's [Terms of Service](http://www.google.com/analytics/tos.html) and [Privacy Statement](http://www.google.com/privacy.html).
 
-Chartbeat Inc collects certain information regarding your use of our websites, such as your IP address and browser type. Your session on our websites will be tracked, but you will remain anonymous. Chartbeat gathers this information for systems administration purposes, abuse prevention and to track user trends. Chartbeat may also use your IP address to identify the general geographic area from which you are accessing our websites. Chartbeat does not link IP addresses to any personally identifiable information.
-
-For further information on Chartbeat's real-time analytics service, please read Chartbeat's [Privacy Policy](http://chartbeat.com/privacy/).
-
 Identifiable Information is collected via web forms that require your direct input, and stored on Serato Servers. Ownership and control of all data provided to Serato Websites is covered in our [Website Terms and Conditions](https://web.archive.org/legal/website-terms-and-conditions).
 
 Serato Websites use their own cookie to "remember" you from one visit to another. This allows you to browse Serato Websites with the personalised functionality enabled via your Identifiable Information but without having to re-enter it each visit. The cookie itself contains no Identifiable Information - it simply provides a link between your web browser and your Identifiable Information stored on Serato Servers.
 
-## What is your Identifiable Information used for?
+#### What is your Identifiable Information used for?
 
 Your identifiable information may be used by Serato and its employees for the following purposes:
 
@@ -97,48 +88,22 @@ Your identifiable information may be used by Serato and its employees for the fo
 
 
 
-## Disclosure of your personal information
+#### Disclosure of your personal information
 
-Serato take your privacy very seriously and will undertake all reasonable measures to ensure that your Private Personal Information is stored securely and provided only to approved third parties who, in Serato’s view, share a similar high regard for personal privacy.  Private Personal Information will only be provided to third parties for the purposes of after sales support and ongoing product development. However, we offer no guarantees that your Private Personal Information is safe from unauthorised access.
+Serato take your privacy very seriously and will undertake all reasonable measures to ensure that your Private Personal Information is stored securely and provided only to approved third parties who, in Serato's view, share a similar high regard for personal privacy.  Private Personal Information will only be provided to third parties for the purposes of after sales support and ongoing product development. However, we offer no guarantees that your Private Personal Information is safe from unauthorised access.
 
 Serato will ensure that third parties can only access Private Personal Information that is relevant to their ongoing business relationship with Serato.
 
-Serato will not provide your Private Personal Information to third parties unless the provision of that information is, in Serato’s opinion, of direct and obvious benefit to you. Any Private Personal Information that is provided to third parties will be provided for a purpose that is related to one of the purposes set out under the heading "What is your Identifiable Information Used For" above.
+Serato will not provide your Private Personal Information to third parties unless the provision of that information is, in Serato's opinion, of direct and obvious benefit to you. Any Private Personal Information that is provided to third parties will be provided for a purpose that is related to one of the purposes set out under the heading "What is your Identifiable Information Used For" above.
 
 Serato may release Private Personal Information and other Identifiable Information when Serato considers it appropriate to do so for legal compliance and law enforcement, or to facilitate court proceedings.
 
-## Accessing your personal information
+#### Accessing your personal information
 
 All Personal Information stored on Serato Servers may be viewed and edited by you at any time. Should you be unable to edit your Personal Information you should notify us and we will take reasonable steps to ensure that it is accurate, complete and up to date.
 
 Serato can, at their discretion, continue to store your Personal Information beyond such a time that you no longer wish to use Serato Websites, products or services. Retained Personal Information remains subject to all privacy policies as outlined in this document. Personal Information is retained for the purposes outlined in "What is Your Identifiable Information used for?".
 
-## Private Messages
+#### Private Messages
 
 Serato websites provide the means for users to send messages to one another such that they are visible only to a selected group of users. Serato will endeavor to honor the private nature of these messages but reserve the right to read them if they have reason to suspect that they are being used for purposes which violate the [Website Terms and Conditions](https://web.archive.org/legal/website-terms-and-conditions), [Whitelabel.net End User Agreement](https://web.archive.org/legal/whitelabel-end-user-agreement), [Playlists Terms and Conditions](https://web.archive.org/legal/playlists-terms-and-conditions) or [Forum Rules](https://web.archive.org/legal/website-forum-rules).
-
-Processing Facebook authorization... Cancel
-
-Logging in... 
-
-## Already a Serato.com member?
-
-[Yeah](https://web.archive.org/login/facebook) Nah
-
-Link Facebook to your existing account.
-
-Just let me in.
-
-Creating Serato.com account... 
-
-Linking Serato.com & Facebook accounts... 
-
-Your Facebook account is already linked to another Serato.com account.
-
-If you believe this is an error, [email us](mailto:web@serato.com?Subject=Facebook%20Account%20Error) with the details.
-
-Close
-
-There may have been an error communicating with Facebook. Please try again later.
-
-Close
