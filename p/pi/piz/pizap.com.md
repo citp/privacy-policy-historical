@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the pizap.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizap.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620001411id_/http%3A//www.pizap.com/privacypolicy.php) for the most accurate reproduction.*
 
 # piZap - free online photo editor - fun photo effects editor
 
-| 
+  | 
 
 **What information we collect**
 
-PiZap.com is a free online application used for making edits and adding decorations to photos. **Users may use the application without signing up or providing any personal information**. Users that create an account **must be at least 13 years old**. Users that create an account are not required to supply their name, address or phone number. The only required information is a username (generic), a password (encrypted), and a valid e-mail Address. **This e-mail address is only used to verify the ownership of the account when a request is made for account deletion, or when the user requests to change their password. We do not make this e-mail address public or use it for marketing purposes. We do not share this e-mail address with any third parties.** Every effort is made to keep these e-mail addresses safe and secure. User's that connect via their Facebook account will have their public Facebook account name used as their piZap.com username which is displayed on their "my pizap" page and on any photo page that they create.
+PiZap.com is a free online application used for making edits and adding decorations to photos. **Users may use the application without signing up or providing any personal information**. Users that create an account **must be at least 13 years old**. Users that create an account are not required to supply their name, address or phone number. The only required information is a username (generic), a password (encrypted), and a valid e-mail Address. **We do not make this e-mail address public. We do not share this e-mail address with any third parties.** Every effort is made to keep these e-mail addresses safe and secure. We may from time to time send emails to registered users about product updates, new features, and general announcements. Users may opt out of these emails at any time by clicking the unsubscribe link on every email. User's that connect via their Facebook account will have their public Facebook account name used as their piZap.com username which is displayed on their "my pizap" page and on any photo page that they create.
 
 **Direct Notice to Parents**
 
-At piZap.com we take child protection and privacy very seriously. We are here to assist parents if they feel that their child is using piZap.com inappropriately or if someone has posted a photo of your child that you would like us to remove. piZap.com is not marketed to children under the age of 13 and you must be at least 13 years of age to create a piZap account. If you are a parent and your child is using piZap.com and you wish to have any photo or account removed from the website for any reason, please [contact us](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php) with a link to content or account. We will follow up with you either by e-mail or phone to verify your identity and remove the content. 
+At piZap.com we take child protection and privacy very seriously. We are here to assist parents if they feel that their child is using piZap.com inappropriately or if someone has posted a photo of your child that you would like us to remove. piZap.com is not marketed to children under the age of 13 and you must be at least 13 years of age to create a piZap account. If you are a parent and your child is using piZap.com and you wish to have any photo or account removed from the website for any reason, please [contact us](https://web.archive.org/web/20120620001411id_/http%3A//www.pizap.com/contact_us.php) with a link to content or account. We will follow up with you either by e-mail or phone to verify your identity and remove the content. 
 
 **Images posted on piZap.com and Image Removal**
 
-Images posted on piZap.com are not directly linked to any personally identifiable information that has been collected by users. Users may delete or request to have deleted any image that they post to piZap.com at any time for any reason. Simply click the "DELETE" link found on your image page or [contact us](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php) and include the URL (link) to the photo you wish to have removed. We will respond to the delete request within 24 hours.
+Images posted on piZap.com are not directly linked to any personally identifiable information that has been collected by users. Users may delete or request to have deleted any image that they post to piZap.com at any time for any reason. Simply click the "DELETE" link found on your image page or [contact us](https://web.archive.org/web/20120620001411id_/http%3A//www.pizap.com/contact_us.php) and include the URL (link) to the photo you wish to have removed. We will respond to the delete request within 24 hours.
 
 **Removal of piZap account.**
 
-You may request to have your piZap account removed and deleted at any time for any reason. Simply [contact us](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php) and include the e-mail address associated with the account and we will send you a verification e-mail to verify that you are the owner of the account. Once the account owner is veri fed the account and all associated images will be deleted.
+You may request to have your piZap account removed and deleted at any time for any reason. Simply [contact us](https://web.archive.org/web/20120620001411id_/http%3A//www.pizap.com/contact_us.php) and include the e-mail address associated with the account and we will send you a verification e-mail to verify that you are the owner of the account. Once the account owner is veri fed the account and all associated images will be deleted.
 
 **Copyright of content on piZap.com**
 
@@ -37,10 +37,10 @@ Please be aware that the user name you choose, and any other personally identifi
 
 **2\. Use of data and images**
 
-  * You may delete or request to have deleted any image that you have added to this website. [Contact us](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php) and include the URL of the image you would like removed.
+  * You may delete or request to have deleted any image that you have added to this website. [Contact us](https://web.archive.org/web/20120620001411id_/http%3A//www.pizap.com/contact_us.php) and include the URL of the image you would like removed.
   * Images that you designate as "public" by saving to pizap.com with the checkbox for "submit to public gallery" checked, may be featured or displayed in the piZap gallery, though the chances of any single image showing up are fairly low.
   * Images that you designate as "private" by unchecking the "submit to public gallery" checkbox, will only be seen by those that you share your images with however the URL to those images is not password protected. If you share the URL, people will be able to see those images. You may request to have them deleted at any time or delete them yourself by hitting the Delete link.
-  * If you view an image on this website this is offensive, vulgar, racist, pornographic, or violates a copyright, please [contact us](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php) with the the link or image name.
+  * If you view an image on this website this is offensive, vulgar, racist, pornographic, or violates a copyright, please [contact us](https://web.archive.org/web/20120620001411id_/http%3A//www.pizap.com/contact_us.php) with the the link or image name.
 
 
 
@@ -58,7 +58,7 @@ Data may be used to customize and improve your user experience on this site. Eff
 
 
 **4** **. Editing or deleting your account information**  
-You can request that your user account be deleted; to do so, please [contact us](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php).   
+You can request that your user account be deleted; to do so, please [contact us](https://web.archive.org/web/20120620001411id_/http%3A//www.pizap.com/contact_us.php).   
 
 
 **5\. Changes to this privacy policy**  
@@ -70,7 +70,7 @@ While this privacy policy states standards for maintenance of data, and while ef
 
 
 **7\. Contact information**  
-If you have any questions about this policy or about this web site, please feel free to [contact us.](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php)
+If you have any questions about this policy or about this web site, please feel free to [contact us.](https://web.archive.org/web/20120620001411id_/http%3A//www.pizap.com/contact_us.php)
 
 \-----
 
@@ -121,9 +121,14 @@ We respect other people's rights, and expect you to do the same.
     3. If you repeatedly infringe other people's intellectual property rights, we will disable your account when appropriate.
     4. You will not use our copyrights or trademarks (including pZap, the piZap Logos), or any confusingly similar marks, without our written permission.
     5. You will not post anyone's identification documents or sensitive financial information on piZap.
-  6. PiZap.com is owned and operated by Digital Palette LLC Based in Santa Clara, CA. Please [contact us](https://web.archive.org/web/20111220223035id_/http%3A//www.pizap.com/contact_us.php) with any concerns or questions about our site. Thank You.
+  6. PiZap.com is owned and operated by Digital Palette LLC Based in Santa Clara, CA. Please [contact us](https://web.archive.org/web/20120620001411id_/http%3A//www.pizap.com/contact_us.php) with any concerns or questions about our site. Thank You.
 
 
 
-|   
----|---|---
+|    
+---|---|---  
+  
+Welcome to piZap.com, fun and easy photo editng. PiZap is a free online photo editor featuring photo effects, awesome collages, photo stickers and one click effects for your digital photos.Try piZap on facebook! Edit your facebook photos, edit your facebook timeline cover photo. PiZap was created as a tool primarily for social networking users who want to post their images to their favorite social networking sites like Facebook, Twitter, Pinterest,MySpace, Hi5, Orkut, Friendster, and many more. PiZap provides a very easy to use photo editor that lets you add photo effects, custom text or speech bubbles, hundreds of original colorful stickers, a full painting program, and much more. PiZap also has built in tools for sending e-cards, downloading your image, embedding your image in any website, or sharing the link directly to your image. We have also partnered with Zazzle.com to provide you with the ability to add your image to thousands of customizable products. Above all piZap was made for people to have fun and be creative with the thousands of digital images that they currently store on their computers. With expert tools like Photoshop only available to a few, and many other online photo editors being clunky or hard to use, piZap is here to save the day. Grab your digital camera and have fun piZapping!  Also, don't forget to edit your Facebook photos or use our [Facebook Timeline cover editor.](https://web.archive.org/web/20120620001411id_/http%3A//www.pizap.com/application.php)
+
+® © 2012 piZap.com   
+
