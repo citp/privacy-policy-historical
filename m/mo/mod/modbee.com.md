@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modbee.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210729id_/http%3A//www.modbee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modbee.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620005440id_/http%3A//www.modbee.com/privacy-policy) for the most accurate reproduction.*
 
 # Modbee.com | Privacy Policy
 
@@ -106,7 +106,7 @@ In addition, our advertisers, content providers, partners and other Internet sit
 
 ### Notice to California Residents - Your California Privacy Rights:
 
-If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom Modbee.com may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to [webstaff@modbee.com](https://web.archive.org/web/20111231210729id_/http%3A//www.modbee.com/webstaff@modbee.com).
+If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom Modbee.com may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to [webstaff@modbee.com](mailto:webstaff@modbee.com).
 
 ### International users
 
