@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209212727id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619173358id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PhotoBox - PhotoBox
 
@@ -49,11 +49,11 @@ The emails we send fall into two categories:
     * To explain how PhotoBox credits that you have purchased work
     * To remind you to use PhotoBox credits before they expire
     * Surveys to capture your feedback on orders you have placed with PhotoBox
+    * Surveys to capture your feedback on contact with our customer service team
+
+
 
 Should you wish to, you can opt out of receiving our service emails here: <http://photobox-en.custhelp.com/app/ask>.
-
-
-
 
 While we do our best to act on your preferences as soon as we can, please be aware that it may take up to 14 days for changes to your preferences concerning newsletters or service emails to take effect.
 
