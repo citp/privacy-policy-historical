@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mofa.go.jp privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203012713id_/http%3A//www.mofa.go.jp/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofa.go.jp privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619181326id_/http%3A//www.mofa.go.jp/about/privacy.html) for the most accurate reproduction.*
 
 # MOFA: Privacy Policy
 
@@ -12,7 +12,7 @@ At the Ministry of Foreign Affairs (hereinafter referred to as "the Ministry"), 
 
 ### 2\. Scope of information acquisition
 
-(1) We automatically collect and store Internet domain names, IP addresses, information about access to the Site (i.e., the date and time you access the Site and the pages you visit) and so on. However, we do not use a cookie (information transmitted from the server to the user's browser and stored on the user's computer in order for the server to identify users). 
+(1) We automatically collect and store Internet domain names, IP addresses, information about access to the Site (i.e., the date and time you access the Site and the pages you visit) and so on. Cookies (information transmitted from the server to the user's browser and stored on the user's computer in order for the server to identify users) may be used to the purposes to figure out the accurate number of accesses and to improve convenience of the browser display function. 
 
 (2) At the "What's New" Mail Service corner, we ask users to register their e-mail address, and optionally gender, age range, occupation, and country they live in.
 
