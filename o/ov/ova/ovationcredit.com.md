@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ovationcredit.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101191501id_/http%3A//www.ovationcredit.com/policies/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovationcredit.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619144153id_/http%3A//www.ovationcredit.com/policies/privacy.php) for the most accurate reproduction.*
 
 # Ovation Credit Services – Privacy Policy
 
@@ -56,8 +56,6 @@ Ovation will not share, sell, transfer or convey your personal information to an
 
 ## Your Credit Report Ratings
 
-### Expect the Best from Ovation
-
 Don't understand your credit report? Don't know what the numbers and letters mean under the ratings section. Let us help you understand your credit report a little better. Below are the numbers used to rate an account and the "R" before the number means that it is a Revolving account.
 
   * **R0** \- Too new to rate. Approved but not used
@@ -98,3 +96,6 @@ Studies show that less than 10% of the population looks at their credit report a
 These improvements generally lead to higher credit scores and better borrowing opportunities.
 
 Individual results may vary.
+
+For a Free Consultation   
+Call 866-639-3426 
