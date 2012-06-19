@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuff.co.nz privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204164812id_/http%3A//www.stuff.co.nz/about-stuff/legal/25044/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuff.co.nz privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619080300id_/http%3A//www.stuff.co.nz/about-stuff/legal/25044/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - legal - about-stuff | Stuff.co.nz
 
