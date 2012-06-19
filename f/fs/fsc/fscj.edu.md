@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fscj.edu privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220063324id_/http%3A//www.fscj.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fscj.edu privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619190449id_/http%3A//www.fscj.edu/privacy) for the most accurate reproduction.*
 
 # Policies and Procedures - Internet Privacy Policy
 
@@ -9,6 +9,8 @@ Chapter 2006-232, Laws of Florida, requires Florida State College at Jacksonvill
 
 Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public records request, do not send electronic mail to Florida State College at Jacksonville. Instead, make contact by phone or in writing.  
   
+## Internet Privacy Policy
+
 Thank you for visiting Florida State College at Jacksonville. Your privacy is very important to us. Simply stated, our policy is not to collect personal information about you when you visit our Web site unless you affirmatively choose to make such information available to us.
 
 When you visit our Web site, our Web server automatically recognizes only the Internet domain and IP address from which you accessed our Web site. This information does not result in the identification of your personal e-mail address or other personal information.
