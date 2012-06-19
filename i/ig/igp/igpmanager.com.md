@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igpmanager.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220162046id_/http%3A//www.igpmanager.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igpmanager.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619191537id_/http%3A//www.igpmanager.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - iGP Manager
+# Privacy Policy
 
 iGP Games means iGP Games Limited and its other subsidiaries and affiliates (hereinafter referred to as "us," "we," or "iGP Games") are committed to respecting the privacy rights of the customers, visitors, and other users of iGP Games' computer game iGP Manager (the “Game”) and its related website igpmanager.com (the “Site”).  This Privacy Policy (“ **Policy** ”) explains how we use and protect the information that we handle.  Please read this Policy carefully as it will apply each time you submit information or data to the Game or Site and you agree that we may use that data and information in accordance with this Policy.
 
@@ -70,7 +70,7 @@ A. Dispute Resolution Outside The European Union
 
 If you are a resident of any country not a current member of the European Union, you agree that should any dispute or claim arise out of, or relate to, this Policy (“Claim”), you will attempt in good faith to negotiate a written resolution of the Claim directly with us.  You agree that if the matter remains unresolved for thirty (30) days after one party has provided written notice of the Claim to the other party, all parties shall join in mediation services in England with a mutually agreed mediator in an attempt to resolve the dispute.  Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover legal fees, even if you would otherwise be entitled to them.
 
-iGP Games will send its notice to the address it has on file to the extent that you have provided additional contact information to iGP Games (e.g. by participating in a promotional or survey, or contacting a customer services representative).  Otherwise, iGP Games will send its notice to the email address associated with your Account.  You will send your notice to iGP Games, Third Floor, Regent Street, London, W1B 3HH.  Please note that this informal resolution procedure does not suspend any statutory limitation periods applicable to the bringing of a Claim.
+iGP Games will send its notice to the address it has on file to the extent that you have provided additional contact information to iGP Games (e.g. by participating in a promotional or survey, or contacting a customer services representative).  Otherwise, iGP Games will send its notice to the email address associated with your Account.  You will send your notice to iGP Games, Third Floor, 207 Regent Street, London, W1B 3HH.  Please note that this informal resolution procedure does not suspend any statutory limitation periods applicable to the bringing of a Claim.
 
 B. Dispute Resolution Within The European Union
 
