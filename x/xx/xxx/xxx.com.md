@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the xxx.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924065444id_/http%3A//www.xxx.com/verify/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxx.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619171853id_/http%3A//www.xxx.com/privacy-policy/%23read) for the most accurate reproduction.*
 
-# XXX.Com Age Verification
+# XXX.com - 100% Free Sex Enterntainment
 
 XXX.com respects your privacy. This policy explains how XXX.com will treat information that it may obtain from you as you make use of the XXX.com site. The owners and operators of XXX.com ("XXX") provide the XXX.com site, the XXX Blog, XXX Radio, and all services provided through them (the "Service") subject to the terms of this Privacy Policy. By using the Service, you accept and agree to this Privacy Policy. 
 
-The Privacy Policy may change from time to time, without notice other than appearing on the XXX website. Your continued use of the Service constitutes your agreement to all revisions to the TOS. This Privacy Policy was last revised on 10th of May 2011.
+The Privacy Policy may change from time to time, without notice other than appearing on the XXX website. Your continued use of the Service constitutes your agreement to all revisions to the Terms Of Service. This Privacy Policy was last revised on 10th of May 2011.
 
 ## The XXX Service and Third Party Sites
 
@@ -20,7 +20,7 @@ XXX also uses cookies and/or web beacons. (A cookie is a small amount of data th
 
 We may use cookies or web beacons to: (1) determine whether users of the Service are unique, or whether the same user is using the Service on multiple occasions; (2) help deliver advertisements; (3) track usage throughout various components of the XXX website and the Service (e.g., tracking where traffic comes from, how traffic flows within the Service, etc.); (4) store your agreement to the terms and conditions for entering and using the Service; (5) monitor aggregate metrics such as total number of visitors, pages viewed, etc.
 
-These kinds of information do not, on their own, personally identify you. However, they can potentially be combined with information obtained from other sources in order to identify you. XXX does not ordinarily seek or obtain personally identifying information about users from others. It does reserve the right to seek such information in the event of a violation of the XXX [Terms of Service](https://web.archive.org/tos-only.php), in the event of a dispute between XXX and you, or if required by law to do so.
+These kinds of information do not, on their own, personally identify you. However, they can potentially be combined with information obtained from other sources in order to identify you. XXX does not ordinarily seek or obtain personally identifying information about users from others. It does reserve the right to seek such information in the event of a violation of the XXX [Terms of Service](https://web.archive.org/terms-of-service/#read), in the event of a dispute between XXX and you, or if required by law to do so.
 
 ## Content You Submit XXX to or Communicate Using the Service
 
@@ -44,7 +44,7 @@ We do not knowingly allow children to use the Service, and all users of the Serv
 
 ## Permitted Disclosures of Personal Information
 
-XXX generally does not collect personally identifiable information (data such as your name, email address, password, and the content of your communications) unless you submit or communicate User Content through the Service, or register with us in order to use certain features of the Service. XXX will not disclose any personally identifiable information it collects or obtains except: (1) as described in the XXX [Terms of Service](https://web.archive.org/tos-only.php) or this Privacy Policy; (2) after obtaining your permission to a specific use or disclosure; (3) if XXX is required to do so in order to comply with any valid legal process or governmental request (such as a court order, search warrant, subpoena, civil discovery request, or statutory requirement); (4) as required to protect XXX's property, safety, or operations, or the property or safety of others; or (5) as otherwise required by law.
+XXX generally does not collect personally identifiable information (data such as your name, email address, password, and the content of your communications) unless you submit or communicate User Content through the Service, or register with us in order to use certain features of the Service. XXX will not disclose any personally identifiable information it collects or obtains except: (1) as described in the XXX [Terms of Service](https://web.archive.org/terms-of-service/#read) or this Privacy Policy; (2) after obtaining your permission to a specific use or disclosure; (3) if XXX is required to do so in order to comply with any valid legal process or governmental request (such as a court order, search warrant, subpoena, civil discovery request, or statutory requirement); (4) as required to protect XXX's property, safety, or operations, or the property or safety of others; or (5) as otherwise required by law.
 
 ## Security
 
@@ -52,4 +52,4 @@ Some components of the Service may use security measures to protect against the 
 
 ## Questions or Concerns
 
-If you have any questions, concerns or complaints about XXX's Privacy Policy and use of personal information, please contact us at [contact@xxx.com](mailto:contact@xxx.com).
+If you have any questions, concerns or complaints about XXX's Privacy Policy and use of personal information, please [contact us here](https://web.archive.org/contact-us/). By using our contact us form your are agreeing to enter the XXX website.
