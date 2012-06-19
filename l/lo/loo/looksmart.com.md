@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205451id_/http%3A//www.looksmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619234353id_/http%3A//www.looksmart.com/privacy-policy) for the most accurate reproduction.*
 
 # LookSmart > Bottom Nav > Privacy Policy
 
@@ -64,6 +64,10 @@ As previously noted, you may always choose to not provide us with any of the inf
 To learn more about the collection of information by third party advertising networks, including how to opt out of such collection, see the links below.
 
 To opt out of collection by Omniture, please visit: <http://www.omniture.com/en/privacy/policy#optout>
+
+We use the DataXu platform for our display and video advertising.  For more information regarding opt-out for data collection and ad targeting for display and video, please visit: 
+
+<http://www.networkadvertising.org/managing/opt_out.asp>
 
 **6\. How can I update or correct my information?**
 
