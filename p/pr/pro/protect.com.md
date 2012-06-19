@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the protect.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205112241id_/http%3A//www.protect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protect.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619094639id_/http%3A//www.protect.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Protect.com
+# Privacy Policy – Protect.com
 
 Thank you for visiting Protect.com (referred to in this privacy policy as “the Site”), which is owned and operated by One On One Marketing, Inc., a Utah corporation (throughout the privacy policy referred to as “One On One,” “us,” “our,” or “we”). One On One takes privacy and transparency very seriously. Please read the following policy to understand how your personal information will be collected and treated as you make full use of the Site.
 
