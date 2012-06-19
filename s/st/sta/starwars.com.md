@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221032410id_/http%3A//www.starwars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619171902id_/http%3A//www.starwars.com/privacy) for the most accurate reproduction.*
 
 # StarWars.com | Privacy Policy
 
@@ -88,7 +88,7 @@ We may provide you with various ways to share links to content on the Site with 
 
 For example, we may provide you with the opportunity to email a link to a web page on the Site to another person. To use this feature, we require you to provide your email address and the email address of each person to whom you send the link. The user-inputted email addresses in this context are not stored or used for any other purpose other than to transmit your email message.
 
-We also may allow you to share links to content on the Site with users of various third-party social networking, search and sharing services. When sharing links to content using one of these third-party services, if you are not already logged in to the third-party service, you will need to supply login credentials for it. If you are not a registered user of the third-party service, you will need to sign up for it. You are supplying the registration information or login credentials for the third-party service directly to that third-party, and not to us. By using any of these third-party services to share links to content on the Site, you permit us to access, use and disclose any information relating to your account on each such third-party service (such as your user name and profile information) that is available to us through the third-party service’s application programming interface (API) pursuant to this Policy and the third-party service’s applicable terms of use.
+We also may allow you to share links to content on the Site with users of various third-party social networking, search and sharing services. When sharing links to content using one of these third-party services, if you are not already logged in to the third-party service, you will need to supply login credentials for it. If you are not a registered user of the third-party service, you will need to sign up for it. You are supplying the registration information or login credentials for the third-party service directly to that third-party, and not to us. By using any third-party services to log in to the Site, you permit us to store, access and use all information related to your third party account that may be accessible to us through the third-party portal or application programming interface (API) pursuant to this Policy.
 
 _Opinions_
 
@@ -201,4 +201,19 @@ Alternatively, you may [click here](https://web.archive.org/webapps/registration
 
 TRUSTe will serve as a liaison with us to resolve your concerns relating to this Policy or privacy issues on the Site.
 
-© 2011 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved.
+**Your California Privacy Rights**
+
+In addition to the rights set forth in this Privacy Policy, California Civil Code Section 1798.83 permits California residents who are individual consumers or users of Lucasfilm Ltd. products to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at:
+
+> Lucas Online  
+>  One Letterman Drive  
+>  P.O. Box 29901  
+>  San Francisco, CA 94129-0901  
+>  Attn: Webmaster  
+>  (415) 623-1113  
+>  [webmaster@starwars.com](mailto:webmaster@starwars.com)  
+> 
+
+Please include your name, address, and email address. We will respond via email unless you specifically request a response by postal mail.
+
+© 2012 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved.
