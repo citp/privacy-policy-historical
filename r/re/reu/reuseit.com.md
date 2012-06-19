@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reuseit.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201051405id_/http%3A//www.reuseit.com/help.php%3Fid%3D18%23help165) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reuseit.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619165532id_/http%3A//www.reuseit.com/help/security-privacy/privacy-policy) for the most accurate reproduction.*
 
-# Security & Privacy - reuseit.com
+# Privacy Policy - reuseit.com
 
-### [Privacy Policy](https://web.archive.org/help/security-privacy/privacy-policy)
+### Privacy Policy
 
 It's straightforward. We don't rent or sell your personal information to anyone. That includes your name, address, email, etc. You have our word.
 
@@ -65,3 +65,9 @@ To protect your privacy and security, we will also take reasonable steps to veri
 #####  How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please call us toll free at 888.707.3873 or send us an email at service@reuseit.com
+
+\---------------------------------------------
+
+In addition to the permitted uses provided above, we may transfer or assign all information collected or provided (including without limitation all of your personally identifiable information) in conjunction with a merger or the sale of all or a portion of our business (or a similar event). 
+
+We may revise or amend these policies at any time without notice to you by posting a revised version on our website at this location, which revision or amendment will be effective (including with respect to existing users, accounts, and information collected) upon posting, and your sole remedies should you disagree with any such revision or amendment will be, as applicable, (1) to opt-out of receiving our newsletters, as provided in each newsletter (or by emailing us at [service@reuseit.com](mailto:service@reuseit.com)), or (2) to terminate your account with our website should you disagree with any amendment or revision relating to uses other than the distribution of our newsletters, and to cease to submit information to our website or to otherwise use it.
