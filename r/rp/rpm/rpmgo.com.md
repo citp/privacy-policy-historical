@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the rpmgo.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221145145id_/http%3A//www.rpmgo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpmgo.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619171715id_/http%3A//www.rpmgo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - rpmGo.com
-
-[Follow @rpmgo](http://twitter.com/rpmgo)
-
-  * [2013 Mercedes-Benz SL revealed, heading to Detroit Motor Show](http://www.rpmgo.com/2013-mercedes-benz-sl-revealed-heading-detroit-motor-show)
-  * [Volvo V60 Plug-in Hybrid on sale next year in Europe for 57,000 Euros](http://www.rpmgo.com/volvo-v60-plug-hybrid-sale-next-year-europe-57000-euros)
-  * [Top five cars at 2011 Bologna Motor Show](http://www.rpmgo.com/top-five-cars-2011-bologna-motor-show)
-  * [Cars We Hate Part 21 - China’s Top 10](http://www.rpmgo.com/cars-hate-part-21-chinas-top-10)
-
-
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
