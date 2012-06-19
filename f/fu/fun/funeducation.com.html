@@ -1,131 +1,12 @@
-<!--The following is the downloaded HTML source of the funeducation.com privacy policy that was archived on 2011-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227082142id_/http%3A//www.funeducation.com/Company/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the funeducation.com privacy policy that was archived on 2012-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120619183131id_/http%3A//www.funeducation.com/Company/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	FunEducation, Inc. Privacy Statement
-</title><link rel="alternate" type="application/rss+xml" title="FunEducation.com Testing News" href="http://www.funeducation.com/xmlNews/RSS-FunEd/"> 
+</title><link rel="alternate" type="application/rss+xml" title="FunEducation.com Testing News" href="http://www.funeducation.com/xmlNews/RSS-FunEd/">
+    <script language="javascript" type="text/javascript" src="/Jscripts/funed1.js"></script>
+<link href="../../App_Themes/FunedTheme/TestEngine.css" type="text/css" rel="stylesheet"></head>
 
-    <script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
-
-<link href="../../App_Themes/FunedTheme/TestEngine.css" type="text/css" rel="stylesheet"><script type="text/JavaScript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-   }
-   
-//-->
-</script><script language="javascript">
-        function validateSearchBox(aEvent)
-        {
-          try
-          {
-            var keyEvent = aEvent ? aEvent : window.event; 
-            if (keyEvent.keyCode == 13) {
-                validateSearchCriteriaBox();
-            }
-          }
-          catch(c){}
-        }
-        function validateSearchCriteriaBox( ){
-            isitvalid = true;    
-            // Check if user entered anything to search
-            // Remove extra spaces
-            // Max 3 words Logic
-            // No word less than 2 chars
-       
-            var keywordvalue = document.getElementById('txtSearchCriteriaHeader').value;
-            len = keywordvalue.length;
-       
-            prevchar = " ";
-            curchar  = "";
-            newstring = "";
-
-            /* Start of removing extra spaces */
-            for ( i=0;i<len;i++){
-                curchar = keywordvalue.charAt(i);
-                if ( curchar == " " && prevchar == curchar ){
-                } else {
-                    newstring = newstring + curchar;
-                }
-
-                prevchar = curchar;
-            }
-            len = newstring.length; 
-            /* Remove remaining spaces at end */
-            if ( len != 0 && newstring.charAt(len-1)==" " ){
-                newstring = newstring.substring( 0, len-1);	 
-            } 
-            /* End of removing extra spaces */
-		
-            document.getElementById('txtSearchCriteriaHeader').value=newstring;
-            
-            len = newstring.length;
-  
-            tokens = newstring.split( " "  );
-            numtokens = tokens.length;
-            if ( len == 0 ){                                  /* Is the length 0 */
-                document.getElementById('txtSearchCriteriaHeader').value=newstring;
-                document.getElementById('txtSearchCriteriaHeader').focus();
-                isitvalid = false;
-            } else if ( newstring=="Search Tests") {
-                document.getElementById('txtSearchCriteriaHeader').value=newstring;
-                document.getElementById('txtSearchCriteriaHeader').focus();
-                isitvalid = false;
-            }else if ( numtokens > 3 ) {                     /* Too many tokens ? */
-                alert("Please limit your entry to a maximum of 3 Keywords");
-                isitvalid = false;
-            } else {
-                if ( isitvalid ) {    
-                    /* Check for length of tokens */
-                    for ( i=0;i<numtokens;i++){
-                        if ( tokens[i].length < 2){  // Length of each word should be greater than 1.
-                            alert( "Keyword " + (i+1) +" too short. Enter atleast 2 characters.");
-                            isitvalid = false;
-                            break;
-                        }
-                    }
-                } 
-            }
-            
-            document.getElementById('txtSearchCriteriaHeader').focus();
-            if (isitvalid){
-             location.href = "http://www.funeducation.com/Search?q="+document.getElementById('txtSearchCriteriaHeader').value;
-            }
-    }
-    </script></head>
-
-
-    
 <body bgcolor="#707070" leftmargin="0" topmargin="0" onload="MM_preloadImages('/images/gobut_search2.gif','/images/funtestbut2.gif','/images/Button_News_Mouseover.gif','/images/myresultsbut2.gif','/images/help2.gif','/images/signin2.gif','/images/homebut2.gif','/images/gobuttype2_b.gif')">
 <table width="100%" border="0" style="left:0px;top:0px" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr>
@@ -138,10 +19,11 @@ function MM_swapImage() { //v3.0
 <tr>
 <td width="12%">&nbsp;</td>
 <td width="749px" align="center" valign="top">
-<table width="749px" border="0" cellpadding="0" cellspacing="0">
+<table width="763px" border="0" cellpadding="0" cellspacing="0" align="center">
   <tbody><tr> 
     <td width="10" valign="top" bgcolor="#FFFFFF"><img src="/images/in_lefttop.gif" width="10" border="0" height="56"></td>
-    <td width="249" align="center" bgcolor="#FFFFFF"><a href="http://www.funeducation.com/"><img border="0" src="/images/inpage_logo.gif" alt="logo" width="196" height="32"></a></td>
+    <td width="249" align="center" bgcolor="#FFFFFF"><a href="http://www.funeducation.com/">
+        <img alt="Logo" border="0" src="/images/inpage_logo.gif"></a></td>
     <td width="500" height="56" align="right" valign="top" bgcolor="#FFFFFF" background="/images/in_header_1.jpg">
         <div align="right">
             <table width="280" border="0" cellpadding="0" cellspacing="0" class="bodytext">
@@ -155,7 +37,8 @@ function MM_swapImage() { //v3.0
     <td width="6" align="left" valign="top"><img src="/images/inrighttop.gif" width="6" height="56"></td>
   </tr>
   <tr> 
-    <td colspan="3" valign="top" background="/images/menubkd_in.gif">
+    <td colspan="3" valign="top" background="/images/menubkd_in.gif"> 
+  
     <table width="757" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td height="2" valign="top"></td>
@@ -187,11 +70,12 @@ function MM_swapImage() { //v3.0
         <a onmouseover="MM_swapImage('Image6','','http://www.funeducation.com/images/PageDesign/signin2.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.funeducation.com/Account/Signin"> <img src="http://www.funeducation.com/images/PageDesign/signin1.gif" name="Image6" width="61" height="22" border="0" id="Image6"></a></td>
       </tr>
     </tbody></table>
+  
     </td>
-    <td width="6" rowspan="3" background="/images/in_rightshadow.gif">&nbsp;</td>
+    <td width="6" background="/images/in_rightshadow.gif"><img border="0" src="/images/Spacers/transparent.gif" height="5px"></td>
   </tr>
   </tbody></table>
-  <table width="763px" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="763px" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
       <td valign="top" width="10px" bgcolor="#FFFFFF"></td>
      <td valign="top" bgcolor="#FFFFFF"></td>
@@ -202,15 +86,11 @@ function MM_swapImage() { //v3.0
  </td>
  <td valign="top" height="260px" bgcolor="#FFFFFF">
  <form name="aspnetForm" method="post" action="" id="aspnetForm" target="_parent">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTMwNzg3NDY3OQ9kFgJmD2QWAgIBDxYCHgZ0YXJnZXQFB19wYXJlbnRkZHChF2xx4B6xtubsJ4Jv/oz9OFdxOCZWPek5CCGhB8SN">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTMwNzg3NDY3OQ9kFgJmD2QWAgIBDxYCHgZ0YXJnZXQFB19wYXJlbnRkZJQFN2ipCcLDY+YYl4+ZNVcRbCdS4YCQOM7f7l+GVqk0">
 
     <div style="background-color: White; vertical-align: top;" align="left">
-        <table width="100%" style="text-align:left;">
-            <tbody><tr valign="top">
-                <td>
-                    &nbsp;&nbsp;&nbsp;&nbsp;</td>
-                <td align="left">
-                    
+        <table width="100%" cellpadding="0" border="0">
+            <tbody><tr><td>
      
 <table border="0" width="95%" height="651" cellspacing="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#111111">
   <tbody><tr>
@@ -519,13 +399,10 @@ function MM_swapImage() { //v3.0
   </tr>
 </tbody></table>
 
-                </td>
-            </tr>
+            </td></tr>
         </tbody></table>
     </div>
 </form>
-
-
 </td>
 </tr>
 <tr>
@@ -633,8 +510,10 @@ function MM_swapImage() { //v3.0
         </tr>
         <tr>
             <td height="19" colspan="2" align="center" valign="top">
-            <span class="copyrighttext">© 1999-2011 FunEducation, Inc. All Rights Reserved.&nbsp;&nbsp;
-            <a target="_blank" href="http://www.funeducation.com/Feedback" style="color:#C0C0C0">Give Feedback</a>
+            <span class="copyrighttext">© 1999-2012 FunEducation, Inc. All Rights Reserved.&nbsp;&nbsp;
+            <a target="_blank" href="http://www.funeducation.com/Feedback/" style="color:#C0C0C0">Give Feedback</a>&nbsp; |&nbsp;
+          <a href="http://www.funeducation.com/Company/Terms/" style="color:#C0C0C0">Terms of Service</a>&nbsp; |&nbsp;
+          <a href="http://www.funeducation.com/Company/Privacy/" style="color:#C0C0C0">Privacy</a>
             </span>
             </td>
             <td valign="top" height="19" width="6">&nbsp;
