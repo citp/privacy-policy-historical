@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashtrackz.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224112659id_/http%3A//www.flashtrackz.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashtrackz.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619172149id_/http%3A//www.flashtrackz.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Play the hottest Free Games here with over 9500 online games to enjoy. We add new free online games every day!
 
