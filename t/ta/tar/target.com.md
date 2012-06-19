@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the target.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219070035id_/http%3A//sites.target.com/site/en/spot/page.jsp%3Ftitle%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the target.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619074921id_/http%3A//sites.target.com/site/en/spot/page.jsp%3Ftitle%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Target
 
@@ -8,7 +8,7 @@ At Target, we value your trust. We want you to know how we collect, use, share a
 
 ## What Information is Collected?
 
-We collect information from the following: 
+We collect information from the following:
 
   * Information you give us when interacting with Target, for example, in stores, online, or via mobile applications
   * Information from social media services, for example, Target's Facebook page
@@ -20,7 +20,7 @@ Read more...
 
 ## How is this Information Used?
 
-We use guest information for multiple purposes: 
+We use guest information for multiple purposes:
 
   * Product and Service Fulfillment
   * Our Marketing Purposes
@@ -34,7 +34,7 @@ Read more...
 
 ## How is this Information Shared?
 
-We may share information: 
+We may share information:
 
   * With the Target Family
   * With our service providers (for example, a printer or mobile marketing provider)
@@ -64,22 +64,9 @@ We maintain administrative, technical, and physical safeguards to protect your i
 
 Read more...
 
-## How Do You Contact Target?
-
-**Mail:**
-     Target Stores, Target Executive Offices  
-PO Box 9350  
-Minneapolis MN 55440
-
-**Phone:**
-     800-440-0680
-
-**E-mail:**
-    [guest.relations@target.com](mailto:guest.relations@target.com)
-
 ## What Information is Collected?
 
-We collect information, including when you: 
+We collect information, including when you:
 
   * Purchase, order, return, exchange or request information about our products and services in our stores, website, or mobile applications
   * Create a Target.com account
@@ -95,7 +82,7 @@ We collect information, including when you:
 
 
 
-Types of information we collect include: 
+Types of information we collect include:
 
   * Your name
   * Your mailing address
@@ -114,13 +101,13 @@ _Target Cookies_
 
 We use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with our website through your computer or mobile device. This information, which includes the pages you visit on our site, which web address you came from, and the type of browser you are using, helps us customize your website experience and make our marketing messages more relevant. This information also allows us to provide features such as storage of items in your cart between visits. This includes Target content presented on another website or mobile application, for example, Target Weekly Ad.
 
-In order to provide the best guest experience possible, we also use this information for reporting and analysis purposes, such as how you are shopping our website, performance of our marketing efforts, and your response to those marketing efforts. 
+In order to provide the best guest experience possible, we also use this information for reporting and analysis purposes, such as how you are shopping our website, performance of our marketing efforts, and your response to those marketing efforts.
 
 To learn more about managing Target cookies, go to the Choice section of this privacy policy.
 
 _Third-Party Cookies_
 
-We partner with third-party vendors to deliver advertisements about our products and services when you visit other websites across the Internet. These vendors place third party cookies which help us provide you with advertisements that are customized to your particular product preferences and improve the effectiveness of our marketing efforts. 
+We partner with third-party vendors to deliver advertisements about our products and services when you visit other websites across the Internet. These vendors place third party cookies which help us provide you with advertisements that are customized to your particular product preferences and improve the effectiveness of our marketing efforts.
 
 To opt out of third-party vendors' cookies, go to the Choice section of this privacy policy.
 
@@ -134,7 +121,7 @@ Any information you submit in a public forum (e.g. a blog, chat room, or social 
 
 ## How is this Information Used?
 
-Examples of how we use your information include: 
+Examples of how we use your information include:
 
 ### Product and Service Fulfillment
 
@@ -178,7 +165,7 @@ Examples of how we use your information include:
 
 We share information we collect within the Target family, which includes all Target subsidiaries and affiliates. The Target family may use this information to offer you products and services that may be of interest to you.
 
-The Target Family includes: 
+The Target Family includes:
 
   * Target Stores and websites
   * Target National Bank, which issues the Target Credit Card and the Target Visa card
@@ -231,7 +218,11 @@ If you do not wish us to share information with other companies (for their marke
 
 ### Mobile
 
-We distribute mobile coupons and text messages to mobile devices of guests who have requested this information via an opt in request. To opt out of a specific mobile messaging campaign, reply "stop" to text messages sent from 827438 (TARGET). To opt out of all Target mobile marketing, text "stop all" to 827438 (TARGET).
+We distribute mobile coupons and text messages to mobile devices of guests who have requested this information via an opt in request. To opt out of a specific mobile messaging campaign, reply "stop" to text messages sent from 827438 (TARGET). To opt out of Target mobile marketing, text "stop all" to 827438 (TARGET). Note: the Target mobile marketing opt out does not apply to marketing you receive in connection with your use of the Target Wireless Service.
+
+### Wireless (WiFi) Service
+
+Target offers free wireless service in select Target Stores. Please see our [Target Wireless Service Privacy Notice](https://web.archive.org/site/en/spot/page.jsp?title=guest_wifi_serviceprivacy) for details about how we collect, use, share and protect information about you in connection with your use of the Wireless Service. To opt out of receiving enhanced marketing and analytics in connection with your use of the WiFi service please refer to the Target Wireless Service Privacy Notice.
 
 ### Target Cookies
 
@@ -274,17 +265,6 @@ We recognize the particular importance of protecting privacy where children are 
 
 ## How Do You Contact Target?
 
-**Mail:**
-     Target Stores, Target Executive Offices  
-PO Box 9350  
-Minneapolis MN 55440
-
-**Phone:**
-     800-440-0680
-
-**E-mail:**
-    [guest.relations@target.com](mailto:guest.relations@target.com)
-
 ## Target Privacy Policy Scope
 
 This privacy policy applies to all current or former guest information collected by or provided to Target with the following exceptions:
@@ -292,7 +272,8 @@ This privacy policy applies to all current or former guest information collected
   * Information collected or provided in connection with a Target Visa Credit Card, Target Credit Card, or Target Debit Card is treated as described in the [REDcard Privacy Policy.](https://redcard.target.com/redcard/content/rcw_tnb_privacy_policy_nonpopup)
   * Information collected or provided when you use a Target Pharmacy or the Rx Rewards program is treated as described in the [Target Pharmacy Notice of Privacy Policy.](http://sites.target.com/site/en/spot/page.jsp?title=pharmacy_privacy_policy) Information collected by or provided to a Target Clinic is treated as described in the [Target Clinic Notice of Privacy Policy.](http://sites.target.com/site/en/spot/page.jsp?title=clinic_privacy_policy)
   * Information collected or provided to Target Commercial Interiors is treated as described in the [Target Commercial Interiors Privacy Policy.](http://www.targetcommercialinteriors.com/privacy_policy.php)
-  * Information collected or provided in connection with completing an application for employment with Target. 
+  * Information collected or provided in connection with us of Target’s Wireless Service is treated as described in the [Target Wireless Service Privacy Notice](https://web.archive.org/site/en/spot/page.jsp?title=guest_wifi_serviceprivacy).
+  * Information collected or provided in connection with completing an application for employment with Target.
 
 
 
@@ -302,7 +283,10 @@ Our website may offer links to other sites. If you visit one of these sites, you
 
 By interacting with Target, you consent to our use of information that is collected or submitted as described in this privacy policy. We may change or add to this privacy policy, so we encourage you to review it periodically. To help you track the changes, we will include a history of material changes below. This history begins as of July 2004 and includes the date of the update and a description of any material changes.
 
-## Last update: 04/08/2011
+## Last update: 05/03/2012
+
+Apr 2012
+    Added information about Target’s Wireless (WiFi) Service select Stores, including link to Wireless Service Privacy Notice.
 
 Apr 2011
     Added offline, mobile, and social collection, use, and sharing of information, expanded guest choice options
