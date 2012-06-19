@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the csnphilly.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106183155id_/http%3A//www.csnphilly.com/pages/inner_09/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csnphilly.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619052720id_/http%3A//www.csnphilly.com/info/privacy-policy) for the most accurate reproduction.*
 
-# privacy_policy
+# Privacy Policy
 
-Comcast SportsNet Philadelphia, L.P. (“Network,” “we,” or “us”) operates the www.csnphilly.com website (with all subdomains thereto, the “Site”) and Network focuses on delivering sports news and information to our Internet users in the market we serve.  Network is similarly focused on respecting and protecting the privacy of its users.  This privacy policy (“Privacy Policy”) tells you how we collect information from you, how we use it and to whom we share it.  When you access the Site, we recognize you may be entrusting us with personally identifiable information and we are committed to honoring that trust by working to safeguard your privacy.  This Privacy Policy describes the principles that govern our information practices and other privacy aspects of the Site.  In this Privacy Policy, we refer to information that specifically identifies you or can be used to contact you as “personally identifiable information” or “personal information.” This Privacy Policy applies only to information collected by Network online and does not apply to information collected or obtained by Network by any other means.  
+  
+
+
+Comcast SportsNet Philadelphia, LP (“Network,” “we,” or “us”) operates the www.csnphilly.com website, the www.700level.com website, and the www.beerleaguer.com web site (along with all respective sub-domains thereto), (each such website a “Site” and collectively the “Sites”) and Network focuses on delivering sports news and information to our Internet users in the market we serve.  Network is similarly focused on respecting and protecting the privacy of its users.  This privacy policy (“Privacy Policy”) tells you how we collect information from you, how we use it and to whom we share it.  When you access the Sites, we recognize you may be entrusting us with personally identifiable information and we are committed to honoring that trust by working to safeguard your privacy.  This Privacy Policy describes the principles that govern our information practices and other privacy aspects of the Sites.  In this Privacy Policy, we refer to information that specifically identifies you or can be used to contact you as “personally identifiable information” or “personal information.” This Privacy Policy applies only to information collected by Network online and does not apply to information collected or obtained by Network by any other means.  
 
 Network’s Security Measures
 
@@ -14,11 +17,11 @@ The Information Network Collects and How It Is Used
 
 Collection of Personally Identifiable Information 
 
-When using the Site, you may be asked to provide various types of personally identifiable information to enhance your experience on the Site.  For example, the Site asks for personally identifiable information (such as your name, address, zip code, phone number, and email address) when you register for an account, make a purchase, sign up for email newsletters, use the forward information function, enter a contest, post or ask a question, or participate in a promotion.  You can always go back to read this Privacy Policy by clicking on the Privacy Policy link on the bottom of all of the pages on Site.  Please also see below about “cookies” and what other information is collected.
+When using the Sites, you may be asked to provide various types of personally identifiable information to enhance your experience on the Site.  For example, the Site asks for personally identifiable information (such as your name, address, zip code, phone number, and email address) when you register for an account, make a purchase, sign up for email newsletters, use the forward information function, enter a contest, post or ask a question, or participate in a promotion.  You can always go back to read this Privacy Policy by clicking on the Privacy Policy link on the bottom of all of the pages on Site.  Please also see below about “cookies” and what other information is collected.
 
-Children’s Privacy  
-Simply stated, Network does not knowingly collect personally identifiable information from children under the age of 13.  If we learn that we have collected personally identifiable information on a child under the age of 13, we will delete that data from our systems.  Network encourages parents and guardians to go online with their children and suggests the following to help make a child’s online experience safer: 
+Children’s Privacy
 
+Simply stated, Network does not knowingly collect personally identifiable information from children under the age of 13.  If we learn that we have collected personally identifiable information on a child under the age of 13, we will delete that data from our systems.  Network encourages parents and guardians to go online with their children and suggests the following to help make a child’s online experience safer:   
 •    Teach children never to give personally identifiable information (such as name, address, phone number, school, etc.) unless supervised by a parent or responsible adult;  
 •    Know the websites your children are visiting and which websites are appropriate; and   
 •    Look for website privacy policies. Know how your child’s information is treated.  
@@ -37,16 +40,19 @@ We use and share the personally identifiable information you provide on the Site
 •    To enhance your web browsing experience and help personalize the Site for your viewing preferences;  
 •    To allow you to forward information to another individual such as a friend or co-worker.  Network does not store the personal information about the third party to whom you forward such information; we only collect the information for the sole purpose of sending a one-time email.  If you choose to use our referral service to inform a colleague or friend, we will only ask for a contact name and email address;   
 •    To meet contractual obligations; and  
-•    As permitted by applicable law.  
-
+•    As permitted by applicable law.
 
 Aggregate Information
 
-On an aggregate basis only, we collect comprehensive demographic information and data, and other non-personally identifying information about users of the Site.  We do not typically disclose any personally identifiable information as part of this aggregate information, but we may lend, sell, share or otherwise disclose aggregate information with others so we can perform research and provide the results to third parties, enhance and market the Site, and conduct accounting and process record keeping functions.  To the extent aggregate information is associated with your personal information, Network will treat the associated information as personal information under this privacy policy.
+On an aggregate basis only, we collect comprehensive demographic information and data, and other non-personally identifying information about users of the Sites.  We do not typically disclose any personally identifiable information as part of this aggregate information, but we may lend, sell, share or otherwise disclose aggregate information with others so we can perform research and provide the results to third parties, enhance and market the Site, and conduct accounting and process record keeping functions.  To the extent aggregate information is associated with your personal information, Network will treat the associated information as personal information under this privacy policy.
 
 Service Providers
 
 We use operational service providers to perform certain services on our behalf, such as maintaining the Site and our mailing lists, storing, processing and transmitting data, creating and executing email campaigns, processing purchase and subscription transactions, and providing marketing assistance, web analytics and data analysis.  We may provide your personally identifiable information to these operational service providers when the information is necessary for them to perform their duties.  We request that our operational service providers protect your privacy and not disclose your personally identifiable information to third party marketers that are not associated with Network.  Additionally, we request such providers not to use your personally identifiable information for their own marketing or promotional purposes.
+
+Comcast.net Users
+
+If you arrive at the Site by clicking through a link from the Comcast.net web site and subsequently provide us with any information in connection with your use of the Site, we may provide that information to Comcast Interactive Media, LLC, Comcast Cable Communications Management, LLC and their respective subsidiaries and affiliates that own and operate web sites and Internet services on their behalf (collectively, “Comcast”).  The use of your information by Comcast will be governed by Comcast’s privacy policy, currently located at http://xfinity.comcast.net/privacy/2011-03.  Our use of the information you provide to us will continue to be governed by this Privacy Policy.  
 
 Cookies and IP Address Information
 
@@ -56,7 +62,7 @@ Additionally, we may use IP address information to count and track aggregate vis
 
 Third Party Ad Servers
 
-We may use third-party advertising companies and advertising networks to serve certain ads to you on our behalf when you visit the Site or other websites.  These third-party delivered ads appearing on the Site may be delivered to you by DoubleClick and 24/7 Real Media.  Please be aware that we may add or subtract from this list of third-party advertising companies in the future, in our sole discretion and without notice to you.  Information (not including your name, address email address or telephone number) about your visits to this and other websites, may be used in order to provide advertisements about goods and services of interest to you.  In the course of serving advertisements to this Site, a third-party advertising company may place or recognize a unique cookie or web beacon on your browser. For more information about DoubleClick and 24/7 Real Media, cookies, and how to "opt-out," please click here. 
+We may use third-party advertising companies and advertising networks to serve certain ads to you on our behalf when you visit the Site or other websites.  These third-party delivered ads appearing on the Site may be delivered to you by DoubleClick and 24/7 Real Media.  Please be aware that we may add or subtract from this list of third-party advertising companies in the future, in our sole discretion and without notice to you.  Information (not including your name, address email address or telephone number) about your visits to this and other websites, may be used in order to provide advertisements about goods and services of interest to you.  In the course of serving advertisements to this Site, a third-party advertising company may place or recognize a unique cookie or web beacon on your browser. For more information about DoubleClick and 24/7 Real Media, cookies, and how to "opt-out," please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Clear Gifs
 
@@ -74,17 +80,17 @@ Changes to Our Privacy Policy
 
 We encourage you to review our Privacy Policy not just the first time you visit the Site, but periodically afterwards since we may modify our Privacy Policy from time to time.  The date of the last update of the Privacy Policy will always be posted below:
 
-THIS PRIVACY POLICY WAS LAST REVISED ON NOVEMBER 19, 2009.
+THIS PRIVACY POLICY WAS LAST REVISED ON JUNE 8, 2011.
 
-If we make any substantive changes to our Privacy Policy in the future with regard to how we use your personally identifiable information, we will incorporate those changes here.  Your continued use of the Site after the changes are posted constitutes your agreement to the changes.  If you do not agree to the changes, please discontinue use of the Site.  Lastly, if Network is sold or merged with another company, your personally identifiable information will be included as part of the sale but unless you’re notified that the Privacy Policy is changed, your personally identifiable information will be maintained in the same manner.
+If we make any substantive changes to our Privacy Policy in the future with regard to how we use your personally identifiable information, we will incorporate those changes here.  Your continued use of the Site after the changes are posted constitutes your agreement to the changes.  If you do not agree to the changes, please discontinue use of the Sites.  Lastly, if Network is sold or merged with another company, your personally identifiable information will be included as part of the sale but unless you’re notified that the Privacy Policy is changed, your personally identifiable information will be maintained in the same manner.
 
 Accessing and Updating Information 
 
-To access or update the personally identifiable information that Network may have, please send an email to [legal@comcastsportsnet.com](mailto:legal@comcastsportsnet.com) with your request.   Please include your email address and indicate the nature of your request or the information you wish to change.  In addition, you may delete the cookie stored on your computer, which will cause our system to perceive you as a new user with no known user data.  You may also set your browser to reject cookies, but doing so may prevent you from using some of our services.  There may be certain instances when Network may not be able to respond, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the personally identifiable information has been lawfully obtained from third party sources. 
+To access or update the personally identifiable information that Network may have, please send an email to legal@comcastsportsnet.com with your request.   Please include your email address and indicate the nature of your request or the information you wish to change.  In addition, you may delete the cookie stored on your computer, which will cause our system to perceive you as a new user with no known user data.  You may also set your browser to reject cookies, but doing so may prevent you from using some of our services.  There may be certain instances when Network may not be able to respond, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the personally identifiable information has been lawfully obtained from third party sources. 
 
 Email Opt-Out Policy
 
-You may opt-out of receiving promotional email communications from us by emailing us at: [legal@comcastsportsnet.com](mailto:legal@comcastsportsnet.com) or writing to us at:  Comcast Sports Group, One Comcast Center, Philadelphia, PA 19103, Attn:  Business and Legal Affairs.
+You may opt-out of receiving promotional email communications from us by emailing us at: legal@comcastsportsnet.com or writing to us at:  Comcast Sports Group, One Comcast Center, Philadelphia, PA 19103, Attn:  Business and Legal Affairs.
 
 In addition, when we contact you via email, we may include instructions to unsubscribe from future emails if you so choose.
 
@@ -96,9 +102,10 @@ The Site is solely intended for users located in the U.S.  However, like almost
 
 California Privacy Rights 
 
-If you are a California resident and would like to opt-out from the disclosure of personally identifiable information to third parties for their direct marketing purposes, please make your request by email to: [legal@comcastsportsnet.com](mailto:legal@comcastsportsnet.com) or write to us at:  Comcast Sports Group, One Comcast Center, Philadelphia, PA 19103, Attn:  Business and Legal Affairs.
+If you are a California resident and would like to opt-out from the disclosure of personally identifiable information to third parties for their direct marketing purposes, please make your request by email to: legal@comcastsportsnet.com or write to us at:  :  Comcast Sports Group, One Comcast Center, Philadelphia, PA 19103, Attn:  Business and Legal Affairs.
 
-Legal Disclaimer  
+Legal Disclaimer
+
 Though we will make every effort to preserve user privacy, we may need to disclose personally identifiable information when required by law or if we have a good-faith belief the action is necessary to comply with a pending judicial proceeding, a court order or legal process served on Network or to protect our rights or the rights of others, to fight fraud, identity theft, to ensure the integrity and operation of our business and systems, or to protect the rights, property or safety of Network, its employees, members or others.
 
 Contact Us 
@@ -108,8 +115,7 @@ Please feel free to share any comments and concerns with us.  If you have any q
 Comcast Sports Group  
 One Comcast Center  
 Philadelphia, PA 19103  
-Attn:  Business and Legal Affairs.
+Attn:  Business and Legal Affairs.  
+Or by email at: legal@comcastsportsnet.com
 
-Or by email at: [legal@comcastsportsnet.com](mailto:legal@comcastsportsnet.com)
-
-©2009 Comcast Sports Management Services, LLC.  All rights reserved.
+©2011 Comcast Sports Management Services, LLC.  All rights reserved.
