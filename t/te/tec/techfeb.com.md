@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techfeb.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220062824id_/http%3A//www.techfeb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfeb.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619190614id_/http%3A//www.techfeb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of TechFeb | TechFeb
+# Privacy Policy of TechFeb
 
 ****TechFeb.com**** from time to time collect name, email address and/or details of website visitors. This may include the content of the mailing lists, any blog comments entered or any content in any other section. These details will not be passed onto any other third party or other organization unless we are required to by government or other law enforcement authority.
 
