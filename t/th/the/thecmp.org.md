@@ -1,0 +1,42 @@
+> *The following text is extracted and transformed from the thecmp.org privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619060836id_/http%3A//www.thecmp.org/Comm/PrivacyStatement.htm) for the most accurate reproduction.*
+
+# CMP Privacy Statement
+
+PRIVACY POLICY  
+CORPORATION FOR THE PROMOTION OF RIFLE PRACTICE  
+AND FIREARMS SAFETY, INC.   
+OPERATING  
+THE CIVILIAN MARKSMANSHIP PROGRAM
+
+The Civilian Marksmanship Program respects the privacy of every person who participates in CMP sponsored events, sales, competitions and other CMP activities. CMP does not sell customer information to any third party. CMP does supply such information where required to verify eligibility to participate or purchase firearms.   
+By registering to compete in any CMP event, submitting an application of any kind and for any purpose to CMP, registering for any forum moderated by CMP, registering for CMP's on-line store, or making application to purchase any product CMP sells, you agree to the CMP privacy policy contained in this document.
+
+The CMP collects personal information about you from the following sources: 
+
+  * Information received from your application to participate in CMP activities, registration for such activities, consents, waivers, applications to purchase firearms, registration for forums or registrations for on-line purchase programs; 
+  * Governmental agencies tasked with conducting background checks to determine the eligibility of firearms purchasers; 
+  * Information provided by affiliated clubs, schools, ROTC units or other such organizations at your request or on your behalf. 
+
+
+
+CMP will use such information to: 
+
+  * Communicate with you regarding your participation in events; 
+  * Confirm your registration for competitions or verify the correctness of such information with you; 
+  * Verify your eligibility to participate in such event or activity; 
+  * Verify your eligibility to purchase firearms and other products from CMP; 
+  * Share identification of your competitive results on CMP web sites and in CMP publications; 
+  * Inform affiliate Match Directors of your participation in their events. 
+
+
+
+On rare occasions CMP may be obligated to share such information with law enforcement officers upon their request.  
+Non public personal information collected from you is stored in secured warehouses subject to limited access by employees who undergo criminal background checks.  
+CMP websites place one or more cookies on the visitors web browsers to collect miscellaneous traffic data, and maintain application status.  
+The CMP maintains two email lists, **Shooter's News** and **Sales Updates**. The CMP periodically sends **Shooter's News** bulletins and notifications about the posting of new articles on its on-line newsletter **The First Shot On-Line**. The CMP will add your email address to these distribution lists for these email communications. Your name is added either by an explicit online subscription, or by registering for an event.  
+By default, when you register for an event you are added to these two distribution lists. You have the right to decline to be added to either list when you register. If you are already a member of a CMP newsletter list, declining to register for CMP related updates will not change your existing status.  
+**You may unsubscribe or opt out of mailing lists**  
+The unsubscribe page for CMP Competitor Tracker may be found at <http://clubs.odcmp.com/cgi-bin/unsubscribe.cgi>  
+The unsubscribe page for sales may be found at [custserve@odcmp.com](mailto:custserve@odcmp.com).  
+Errors in contact information may be corrected by notification to [custserve@odcmp.com](mailto:custserve@odcmp.com).  
+To contact a CMP official regarding this policy please email [coo@odcmp.com](mailto:coo@odcmp.com).
