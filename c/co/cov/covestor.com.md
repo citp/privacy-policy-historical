@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004512id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619035135id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
 
-# Privacy on Covestor
+# Privacy - Covestor
 
 ### Last updated 12 July 2011
 
 Covestor Limited have adopted this policy with recognition that protecting the privacy and security of the personal information we obtain about our members, clients and model managers is an important responsibility. We also know that you expect us to service you in an accurate and efficient manner. To do so, we must collect and maintain certain personal information about you.
 
-This policy outlines the types of information we collect about you and how we use and safeguard that information. If you have any questions or concerns regarding this statement, you should contact [Customer Service](http://site.covestor.com/contact/email-us?c=all&d=sec).
+This policy outlines the types of information we collect about you and how we use and safeguard that information. If you have any questions or concerns regarding this statement, you should contact  [ Customer Service ](http://site.covestor.com/contact/email-us?c=SEC&d=&isPress=false) .
 
   
 
