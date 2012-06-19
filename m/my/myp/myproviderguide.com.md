@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myproviderguide.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220215439id_/http%3A//www.myproviderguide.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myproviderguide.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619084923id_/http%3A//www.myproviderguide.com/page/privacy.html) for the most accurate reproduction.*
 
 # Privacy - My Provider Guide
 
@@ -18,26 +18,26 @@ To prevent unauthorized access, to maintain data accuracy, and ensure the correc
 
 ## Latest Discussion Board Posts [](https://web.archive.org/discussions)
 
-**Posted By: _desire21_** on 12/20 at 2:28 pm 
+**Posted By: _parisdivine_** on 06/17 at 5:44 pm 
 
-**[SEXy TifF LookInG For BiG 8-) FRIEndS 817-213-6895](https://web.archive.org/discussions/viewtopic.php?p=1260#p1260) **
+**[Last minute cancellations](https://web.archive.org/discussions/viewtopic.php?p=1733#p1733) **
 
-_Photo0785.jpgHello boys I'm Tiffany. I'm new to MPG and I'm looking to meet new people and have new experiences. Let me satisfy you with my tantric touch that will leave you in bliss. 817-213-6895_
+_Realizing that this is not an exacting science, and things happen... What to do about last minute cancellations? Iam a very low volume entertainer, who entertains more often outcall than in. Can we avoid cancellation expenses without causing i..._
 
-**Posted By: _dianara_** on 12/20 at 4:18 am 
+**Posted By: _nyoriental_** on 06/16 at 1:33 am 
 
-**[MANHATTAN OUTCALL MASSAGE BY UPSCALE BLACK & CHEROKEE BEAUTY](https://web.archive.org/discussions/viewtopic.php?p=1259#p1259) **
+**[Hot Real Asian Playmate Models-Come have a taste!](https://web.archive.org/discussions/viewtopic.php?p=1732#p1732) **
 
-_I HOPE EVERYONE HAS A SAFE AND HAPPY HOLIDAY SEASON!!! :D_
+_Hi gentlemen, This is Lucy, what you all have been waiting for all natural, 23 yrs old Asian hottie. I will pamper, spoil and comfort you. Your time with me will be special, cozy, and un-rushed You'll definitely be impressed by my intelligen..._
 
-**Posted By: _Tiffany96monroe_** on 12/19 at 11:33 pm 
+**Posted By: _destinydelight1_** on 06/13 at 12:11 pm 
 
-**[Video Verified on MPG!!!!! Real Deal Hot Stuff...](https://web.archive.org/discussions/viewtopic.php?p=1258#p1258) **
+**[Have you ever tried to make your own vagina at home? ;)](https://web.archive.org/discussions/viewtopic.php?p=1731#p1731) **
 
-_Available for Upscale Gentleman in Southern-Northern Cali Area Fly Me to you. Hi, my name is Tiffany! I am new to the web, and I am looking to make new friends! I am the perfect fun loving girl to fulfill your most intimate desires. I ..._
+_Lol funny can admire human creativity http://dld.bz/b5dBP_
 
-**Posted By: _NancyShiferaw_** on 12/19 at 11:26 pm 
+**Posted By: _monagirl_** on 06/11 at 3:55 pm 
 
-**[Rain Available for Your Pleasure](https://web.archive.org/discussions/viewtopic.php?p=1257#p1257) **
+**[Hi I am Mona Independent escort in Delhi](https://web.archive.org/discussions/viewtopic.php?p=1730#p1730) **
 
-_Hello Gentlemen I am Rain a fun and somewhat playful girl, who enjoys the company of men. I am a all natural blonde beauty, who loves to play, I love to be whatever comes to mind, a bit goofy as a school girl, yet as studious in the art of passion..._
+_Delhi escort services, educated open-minded and full cooperative college escort girl, model escorts, Airhostesses, Asian escorts, Punjabi, Russian escorts, slim or busty housewife escorts in India, Sexy aunties and beautiful Independent escort in ..._
