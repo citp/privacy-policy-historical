@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the languagenut.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220081637id_/http%3A//www.languagenut.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the languagenut.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619145836id_/http%3A//languagenut.com/us/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY : Language nut
 
@@ -48,4 +48,4 @@ You should be aware that if we are requested by the police or any other regulato
 
 We use Cookies to keep track of your use of this Website and any shopping session to personalise your experience and so that you may obtain access to your training session or to retrieve your shopping basket at any time - if you do not accept Cookies you will be unable to use this Website.
 
-Issue Date 20/12/2011
+Issue Date 19/06/2012
