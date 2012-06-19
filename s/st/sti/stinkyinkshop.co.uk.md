@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stinkyinkshop.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227124239id_/http%3A//www.stinkyinkshop.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stinkyinkshop.co.uk privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619073158id_/http%3A//www.stinkyinkshop.co.uk/pages/privacy) for the most accurate reproduction.*
 
 # Stinkyink Privacy Policy
 
@@ -41,6 +41,8 @@ Stinkyink aids in offering its community members a simple, easy, and personalise
 
 Cookies help us determine the type of content and sites to which you link, the length of time you spend at any particular area of the site, and the services you choose to use. Cookies also tell us which advertising you have seen on our site. Essentially, cookies are your identification cards for the Stinkyink servers, that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus. Cookies allow us to serve you better and more efficiently, and to personalize your experience at the Stinkyink website. Nevertheless, you should be able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser. In essence, Stinkyink views the use of its cookies as a "luxurious tool" which enables its user to move freely from service to service without the hassle of having to "re-identify" themselves.
 
+You can find out more about how we use cookies on our [Cookie Policy](https://web.archive.org/pages/cookies/) page
+
 ## Information Choices
 
 Stinkyink users always have a choice whether or not to disclose information. Certain information is required for registration of our services, but most other requested information is optional. It is a top priority at Stinkyink to make its user feel comfortable and in control.
@@ -61,7 +63,7 @@ Questions regarding this statement or the privacy practices of Stinkyink should 
 
 Stinkyink users also have the option of directly contacting our customer service department via telephone, fax, and/or standard mail.
 
-We feel we have a duty to provide our members with a safe, secure, and private website. The Stinkyink name and reputation is at the crux of our business, and we will take all necessary actions to uphold and reinforce our strong standing as a leading online stock photography site.
+We feel we have a duty to provide our members with a safe, secure, and private website. The Stinkyink name and reputation is at the crux of our business, and we will take all necessary actions to uphold and reinforce our strong standing as a leading online printer consumables website.
 
 ## Copyright Policy
 
@@ -75,12 +77,14 @@ For permission on copyright or any question, please contact info@Stinkyink.com
   * [Testimonials See why our customers love us](https://web.archive.org/pages/testimonials/)
   * [FAQ's Frequently Asked Questions](https://web.archive.org/pages/frequently-asked-questions/)
   * [Delivery Options You'll get your ink, in a blink!](https://web.archive.org/pages/delivery-options/)
+  * [Payment Methods Pay the easy way with Stinkyink!](https://web.archive.org/pages/payment-methods/)
   * [Safe Shopping How we protect you from nasties](https://web.archive.org/pages/secure-shopping/)
   * [Quality StatementsOnly the highest quality](https://web.archive.org/pages/quality-guarantee/)
   * [EventsMeet us on the road](https://web.archive.org/pages/events/)
   * [Press RoomGet the Scoop on Stinkyink](https://web.archive.org/pages/press/)
   * [Terms & Conditions All the small print](https://web.archive.org/pages/terms/)
   * [Privacy Policy How we use your information](https://web.archive.org/pages/privacy/)
+  * [Cookie Policy Cookies - not just for snacking!](https://web.archive.org/pages/cookies/)
 
 
 
