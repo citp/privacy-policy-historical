@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fathomaway.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229165843id_/http%3A//fathomaway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fathomaway.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619032838id_/http%3A//www.fathomaway.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FATHOM Travel Guides and Blog
 
