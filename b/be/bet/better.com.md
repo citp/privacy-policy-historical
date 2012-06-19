@@ -1,38 +1,93 @@
-> *The following text is extracted and transformed from the better.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902093916id_/http%3A//www.better.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the better.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619092328id_/http%3A//www.better.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# 
 
-  |    
-At Better.com we appreciate your privacy and hope that you feel comfortable trusting us. Better.com provides a comparison shopping service that enables consumers to compare prices, products and stores when they shop online. We believe that you have a right to know what information we collect, how we intend to use that information, whom we intend to share it with, and what measures we take to keep that information secure. 
+**What information do we collect?**
 
-## Collecting Your Information
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
 
-We collect information at several stages during your interaction with . When you first enter our site, we note your IP address and time of your visit. As you browse the site, we record your zipcode via a cookie so we can serve more location specific information on your next visit. We will not collect any personally identifiable information about you. Cookies do not recognise you as a person, just your computer. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-You are always free to decline our cookies if your browser permits although in that case you may not be able to use certain features on our site.
+Google, as a third party vendor, uses cookies to serve ads on your site.Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-## Third Party Advertising
+ **What do we use your information for?**
 
-We work with third parties who use cookies to collect non-personally identifiable information when you visit our Web site and other sites. This information may be used to provide you with better shopping or savings opportunities through advertisements on this and other Web sites that you visit, or to conduct market research and website analysis. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-## User Submitted Reviews
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-We discourage you from entering any personal information and please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. It is not required for you to submit personally identifiable information to enable you to submit a review. 
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-## Sharing of information
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-Better.com does not share any contact information or IP address information with its partners. We will only use information that helps our customers to find the lowest prices. 
+; To process transactions
 
-## How We Protect Your Information
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-The privacy and protection of your personal information is vitally important to us. Better.com does not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding your Better.com usage are provided in the aggregate only and do not include any personally identifiable information about any individual user. 
+; To administer a contest, promotion, survey or other site feature
 
-This Website Privacy Statement is effective as of the date listed below. Even if you read and/or agreed to a prior policy statement, you need to review this updated version. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.
+; To send periodic emails
 
-## Questions?
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20110902093916id_/http%3A//www.better.com/contact.aspx). **Effective Date: Privacy Notice last modified February 11, 2008.**
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-© 2008 Better.com 
+ **How do we protect your information?**
 
-|  
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+ **Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms](https://web.archive.org/terms/)
+
+ **Your Consent**
+
+By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on Nov 26 2011
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+/contact  
+legal@better.com
