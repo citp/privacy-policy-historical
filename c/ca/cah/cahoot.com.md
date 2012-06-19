@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cahoot.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209041814id_/http%3A//www.cahoot.com/security/security_and_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cahoot.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619034449id_/http%3A//www.cahoot.com/security/security_and_privacy.html) for the most accurate reproduction.*
 
-# security and privacy
+# security and cookie policy
 
 We are committed to protecting the privacy of all personal information which we obtain from you when you visit the cahoot website and when you use your cahoot account. Our aim is to safeguard the security and privacy of your personal information whilst providing you with a personalised service that keeps you up-to-date with products and services which meet your preferences and needs. By using the cahoot website, you agree to the collection and use of such information in accordance with the following Privacy Policy and Data Protection Statement.
 
-For information on what we're doing to keep your money safe and what you can do to help see our [online security page](https://web.archive.org/web/20111209041814id_/http%3A//www.cahoot.com/security/online_security.html).
+For information on what we're doing to keep your money safe and what you can do to help see our [online security page](https://web.archive.org/web/20120619034449id_/http%3A//www.cahoot.com/security/online_security.html).
 
 ## security
 
@@ -58,42 +58,29 @@ Rapport doesn't replace the benefits of anti-virus and firewall software or your
 
   1. #### Cookies
 
-Cookies are small files which are stored on the user's hard drive for the purpose of identifying their computer and preferences. The cahoot system requires this information to operate its banking processes. We also use cookies to obtain general statistical data about users of our website and their interests so that we can improve our website in accordance with user preferences. We may share aggregated demographic data with our business partners in order to provide users with information and offers that best match their interests. 
+**Why are cookies essential to how customers use the cahoot website?**
 
-If you open an account, we will use information gathered via cookies to keep you informed of products and services offered by us or our business partners in which we think you might be interested. 
+This website, along with most other major websites, uses cookies. Cookies are pieces of information that a website transfers to the cookie file on your computer's hard disk. Cookies enable users to navigate around websites and (where appropriate) enable us to tailor the content to fit the needs of visitors who have accessed the Site and help us improve the user experience. Without cookies enabled we can not guarantee that the website and your experience whilst visiting are as we intended it to be. **None of the cookies used on our websites collect personally identifiable information about you.**
 
-##### Enabling/Disabling cookies
+**At cahoot we use cookies in the following ways:**  
 
-If you wish to disable cookies on your browser, follow the instructions below and select the disable/reject options instead.
+    * We use cookies within our Online Banking site to protect our customers and prevent fraudulent activity.Without cookies enabled you will not be able to access cahoot Online Banking. 
+    * We use cookies within our online application forms. Without cookies enabled you will not be able to apply for our products. 
+    * To monitor and manage our website traffic. 
+    * To understand how our advertising campaigns and promotions within the cahoot website are working to improve our site design, offers and promotions. None of the cookies used on our website collect personally identifiable information about you and no information is passed to third parties. 
+Two types of cookies are used on this website:  
 
-If you do disable cookies, you will not be able to make full use of cahoot's banking service. 
+    * Session Cookies. These are temporary cookies, which only exist in the period you access the website (or more strictly, until you close the browser after accessing the website). Session cookies help the cahoot website remember what you chose on the previous page, therefore avoiding having to re-enter information. On our website, these cookies do not contain personal information, and cannot be used to identify you. 
+    * Persistent Cookies. These are cookies, which remain on your device after you have visited our website. These cookies help us identify you as a unique visitor (by storing a randomly generated number). 
 
-If cookies are disabled on your browser, here are the instructions on how to re-enable them. Please follow the instructions specific to your browser version. 
+The length of time a cookie will remain on your device will depend on the type of cookie.
 
-##### Microsoft Internet Explorer v5
+**How to control and delete cookies**
 
-    1. Click on the 'Tools' menu,
-    2. Select 'Internet Options...',
-    3. Click on the 'Security' tab and choose the 'Custom Level...' button,
-    4. Find the 'Cookies' option and enable both types, 'stored...' (Permanent cookies) and 'per session...' (Temporary cookies)
-    5. Click OK to confirm
+cahoot will not use cookies to collect personally idetifiable information about you. However, if you wish to restrict or block the cookies which are set by us, or indeed any other website, you can do this through your browser settings. The Help function within your browser should tell you how.
 
-##### Microsoft Internet Explorer v6
+Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer (including those from this visit) as well as more general information about cookies. For information on how to do this on the browser of your mobile device you will need to refer to your handset manual.
 
-    1. Click on the 'Tools' menu,
-    2. Select 'Internet Options…',
-    3. Click on the 'Privacy' tab and choose the 'Advanced options…' button,
-    4. Check the 'Override automatic cookie handling' tick-box, 
-    5. Enable the 'First party' cookies by choosing the 'Accept' or 'Prompt' option, 
-    6. Enable the 'Third party' cookies by choosing the 'Accept' or 'Prompt' option
-    7. Click OK to confirm
-
-##### Netscape Navigator v7
-
-    1. Click on 'Edit' on the menu bar and select 'Preferences...',
-    2. Click the 'Security & Privacy' arrow category and select 'Cookies',
-    3. In 'Acceptance Policy' at the top, choose the 'Allow cookies based on privacy settings' option
-    4. Click OK to confirm
   2. #### Application information
 
 In order to apply for the cahoot account or any other product or service featured on our website, you will be asked to provide certain relevant personal information which we need to process your application request. We will use your information to confirm your identity and maintain your account.
@@ -130,6 +117,6 @@ Where you and another person wish to open a joint account, each one of you needs
 
 From time to time, we may need to transfer your personal information outside the European Economic Area where this is necessary to operate your account or provide information to a cahoot business partner. Where we do so we will take reasonable steps to ensure that your personal data receives similar protections as those within the European Economic Area.
 
-Our [ data protection statement ](https://web.archive.org/web/20111209041814id_/http%3A//www.cahoot.com/terms/pdf/data_protection_statement.pdf) relates to the information you give in the online application form and to any other information which you provide to cahoot or which it holds on you whether or not you become a customer.
+Our [ data protection statement ](https://web.archive.org/web/20120619034449id_/http%3A//www.cahoot.com/terms/pdf/data_protection_statement.pdf) relates to the information you give in the online application form and to any other information which you provide to cahoot or which it holds on you whether or not you become a customer.
 
 back
