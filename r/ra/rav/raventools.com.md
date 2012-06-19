@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raventools.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220124555id_/http%3A//raventools.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raventools.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619050131id_/http%3A//raventools.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Raven Internet Marketing Tools
 
@@ -90,4 +90,4 @@ Raven regularly reviews its compliance with this Policy. Please feel free to dir
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o Raven Internet Marketing Tools, 1414 17th Ave S, Nashville, TN 37212, USA.
+If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o Raven Internet Marketing Tools, 1101 McGavock St, Suite 201, Nashville, TN 37203, USA.
