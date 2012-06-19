@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229062401id_/http%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619192207id_/http%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
 
 # Credit Karma Privacy Policy | Credit Karma
 
@@ -25,7 +25,7 @@ Credit Karma uses aggregate data collected in log files and cookies for general 
 If you post a comment regarding one of the special offers on the site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of this forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in this forum. We reserve the right to remove any offensive or personally identifiable information that is posted.
 
 Special Offers on the Site:  
-These offers vary from day to day, but in general if you are interested in a particular offer you will be taken to a third party site to complete the transaction. Know that the third parties' privacy policy governs the collection and use of your personally identifiable information and we encourage you to read their privacy polices.
+These offers vary from day to day, but in general if you are interested in a particular offer you will be taken to a third party site to complete the transaction. Know that the third parties' privacy policy governs the collection and use of your personally identifiable information and we encourage you to read their privacy policies.
 
 Invite-A-Friend:  
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Credit Karma stores this information for the sole purpose of sending this one-time email and tracking the success of our Invite-A-Friend referral program.
@@ -55,10 +55,10 @@ These third parties are prohibited from using your personally identifiable infor
 Marketing choices and access to your information:  
 You can access and make changes to the personal information you submit, including your marketing preferences, at anytime by using the username and password you selected at the time of registration.
 
-New categories of marketing communications might be added to the Marketing Preferences page from time to time, but we will require your consent and notice before marketing to you in this new way. We give you the opportunity to "opt-out" of having personal information used. For example, you can elect not to receive newsletters or alert emails. You can do this by logging into your account and visiting the "Account" page and you may also follow the unsubscribe instructions included in each email. 
+New categories of marketing communications might be added to the Marketing Preferences page from time to time, but we will require your consent and notice before marketing to you in this new way. We give you the opportunity to "opt-out" of having personal information used. For example, you can elect not to receive newsletters or alert emails. You can do this by logging into your account and visiting the "My Profile" page and you may also follow the unsubscribe instructions included in each email. 
 
 Special Offers and Updates:  
-We will occasionally send you information on products, services, special deals, or promotions. Out of respect for your privacy, we present the option not to receive these types of communications by logging into your account and visiting the "account" page and by following the unsubscribe instructions included in each promotional email.
+We will occasionally send you information on products, services, special deals, or promotions. Out of respect for your privacy, we present the option not to receive these types of communications by logging into your account and visiting the "My Profile" page and by following the unsubscribe instructions included in each promotional email.
 
 Service-related Announcements:  
 We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
@@ -86,7 +86,7 @@ Third party links:
 Credit Karma may post links to third party web sites that are not subject to this privacy policy. We do not exercise control over the external sites. These sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. We urge you to review their privacy policy policies before providing them with any personal information. 
 
 Access to Personally Identifiable Information:  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our "Account" page. 
+If your personally identifiable information changes, you may correct or update it by making the change on our "My Profile" page. If you no longer desire our service, you may delete or deactivate it by following the instructions detailed in the [Terms of Use Agreement](http://www.creditkarma.com/about/terms). 
 
 Protecting your information:  
 Credit Karma maintains physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information that we collect about you.
