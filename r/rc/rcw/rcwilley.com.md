@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213014id_/http%3A//www.rcwilley.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619131732id_/http%3A//www.rcwilley.com/Privacy.jsp) for the most accurate reproduction.*
 
 # RC Willey - Privacy Policy
 
