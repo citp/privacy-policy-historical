@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eso.tv privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629233950id_/http%3A//us.eso.tv/main/localizationcontent%3Fkey%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eso.tv privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619180542id_/http%3A//ie.eso.tv/main/localizationcontent%3Fkey%3Dprivacy_policy) for the most accurate reproduction.*
 
-# us.eso.tv
+# ie.eso.tv
 
 ## Privacy Policy
 
