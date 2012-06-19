@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the liquor.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529024033id_/http%3A//liquor.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquor.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619084448id_/http%3A//liquor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy — Liquor.com
+# Privacy Policy | Liquor.com
 
-Liquor.com Holdings, Inc. (”Liquor.com”) takes very seriously the private nature of your personal information. It is the goal of Liquor.com to bring you information that is relevant and targeted to your individual needs and, at the same time, protect your privacy. This Privacy Policy describes how we treat the information we collect when you visit our Web site and/or register for our email publication. Please read this notice carefully.
+Liquor.com Holdings, Inc. (“Liquor.com”) takes very seriously the private nature of your personal information. It is the goal of Liquor.com to bring you information that is relevant and targeted to your individual needs and, at the same time, protect your privacy. This Privacy Policy describes how we treat the information we collect when you visit our Web site and/or register for our email publication. Please read this notice carefully.
 
 ## PERSONAL INFORMATION
 
@@ -34,7 +34,7 @@ You may have read about “cookies” or bits of information that are placed by 
 
 ## IP ADDRESS
 
-Your Internet Protocol (”IP”) address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may, from time to time, use your IP address to help diagnose problems with our server, gather broad demographic information and administer our Website.
+Your Internet Protocol (“IP”) address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may, from time to time, use your IP address to help diagnose problems with our server, gather broad demographic information and administer our Website.
 
 ## Parental Discretion
 
@@ -56,7 +56,7 @@ Please note that continued access of Liquor.com will constitute your acceptance 
 
 Thank you for taking the time and interest to review our policies at Liquor.com. If you have concerns or questions about any aspect of the Liquor.com Privacy Policy, please contact us. We welcome your questions and feedback.
 
-Please send all emails to: info@liquor.com.
+Please send all emails to: [info@liquor.com](mailto:info@liquor.com).
 
 Thank you,
 
