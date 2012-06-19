@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theroyalweddingwilliamkate.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220134508id_/http%3A//www.theroyalweddingwilliamkate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theroyalweddingwilliamkate.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619205124id_/http%3A//www.theroyalweddingwilliamkate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Wedding William Kate
 
@@ -60,4 +60,4 @@ TheRoyalWeddingWilliamKate.com wants to protect your privacy. This Privacy Polic
 
 17\. If we need to change our Privacy Policy we will post the changes on this page, and may place notices on other pages of the website to draw your attention to any change. Continued use of the Website will signify that you agree to any such changes.
 
-[ ](http://www.londonmintoffice.org/wsp/lmo/frontend.cgi?func=catalog.show&func_id=387&table=PRODUCT)
+[ ](http://www.londonmintoffice.org/royal-commemoratives/)
