@@ -1,72 +1,70 @@
-> *The following text is extracted and transformed from the jeeran.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212023421id_/http%3A//www.jeeran.com/privacy.aspx%3Flang%3De) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeeran.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619164227id_/http%3A//jeeran.com/s/policy) for the most accurate reproduction.*
 
-# jeeran.com - Arab Web Hosting Community - موقع الإستضافة العربي
+# Privacy Policy Statement
 
-| jeeran.com Privacy Policy
+This Privacy Statement ("Statement") describes the personal information we collect through our websites and mobile applications (the "Site"), and how we collect and use it. The terms "we", "us", and "Jeeran" refer to Jeeran Holdings Inc., a British Virgin Islands corporation.
 
-Jeeran.com takes your privacy seriously. Please read the following to learn more about our privacy policy.
+## 1\. Information We Collect and How We Use It
 
- **What This Privacy Policy Covers**
+Account information. We ask for and store information about you when you create an account on the Site, such as your name, email address, and signup location. You can also import your account information from a third party to make the Jeeran registration process easier. We use your name to create your account name (first name and last initial), and we use your signup location to help target the Site to the town you live in. We use your email address to send you updates, provide services to you in connection with the Site, and to contact you on behalf of other users sending you messages, complements, and the like. We may also use your signup location, birth date, and gender (if you supply them) to display relevant advertising to you. You can change your account information here. 
 
-  * This policy covers how Jeeran.com treats personal information that Jeeran.com collects and receives, including information related to your past use of Jeeran.com products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
-  * This policy does not apply to the practices of companies that Jeeran.com does not own or control or to people that Jeeran.com does not employ or manage.
+Public content. You can contribute to the Site in a number of different ways, including writing reviews, uploading photos, participating in talk threads, sending compliments, filling out your public profile, and voting on other users' contributions. We may store these contributions (your "Public Content"), display them to other users, and use them for promotional purposes. Note that if you include personally identifiable information in your Public Content, it can be used and viewed by others. We are not responsible for the information you choose to include in your Public Content.
 
+Messaging. The Site allows you to exchange messages with others using the messaging feature and email. We may store these messages in order to deliver them and allow you to manage them. The Site also allows you to send information from the Site to your phone via text message. In order to carry out these requests, we may log your phone number, your carrier, and the date and time that the message was processed. Your carrier may charge you for texts that you receive.
 
+Location data. The Site can provide helpful information based on where you are. If you tell us where you are (e.g., by allowing your mobile device to send us your location), we may store and use that information to provide you with location-based information and advertising. If you want to deactivate this feature, you can either reinstall the application or deactivate GPS on your mobile device. The Site also allows you to tell other users where you are, if you choose.
 
- **Information Collection and Use**
+Inviting friends. You can invite your friends to join the Site by providing their contact information, or by entering your log-in credentials to import your address book from other sites. We may store and use your friends' contact information to invite them to join and connect with you on the Site. Your friends will always have the opportunity to opt-out of receiving further emails from us.
 
-      **General**
+Third party 's Services. We allow you to access third party services, such as Facebook and Twitter, to share your selected Public Content with those services, and import information about who you are connected with on those other services so you can connect with them on the Site. You can always opt out on your Jeeran account page. Some of those third party services may also provide us with information from your accounts there to enhance and personalize your use of this Site. For example, you can allow Facebook to tell us who your Facebook friends are so you can follow their activity on Jeeran. You can adjust your Jeeran privacy settings to block this feature, in which case we will delete the information that we receive from your accounts with those other services. Go here to learn more. You can also further modify your privacy settings with those other services directly. For example, you can adjust your privacy setting on Facebook here to prevent your Facebook friends from sharing information about you from their Facebook accounts with Jeeran.
 
-  * Jeeran.com collects personal information when you register with Jeeran.com, when you use Jeeran.com products or services, when you visit Jeeran.com pages or the pages of certain Jeeran.com partners, and when you enter promotions or sweepstakes. Jeeran.com may combine information about you that we have with information we obtain from business partners or other companies.
-  * When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with Jeeran.com and sign in to our services, you are not anonymous to us.
-  * Jeeran.com collects information about your transactions with us and with some of our business partners.
-  * Jeeran.com automatically receives and records information on our server logs from your browser, including your IP address, Jeeran.com cookie information, and the page you request.
-  * Jeeran.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+Activity and log data. We automatically store information related to your use of the Site, such as the pages you view on the Site, your browser type, IP address, the phone numbers and names of businesses that you call through the Site, requested URL, browser language, referring URL, and the date and time of your visit. We use this type of information to administer the Site and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site.
 
+Cookies. We send cookies to your computer in order to uniquely identify your browser and improve the quality of our service. "Cookies" refer to small pieces of information that a website sends to your computer's hard drive while you are viewing the Site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of the Site may not work properly or at all. Our cookies are linked to your information, such as your name, email address and password. We enable some of our business partners to use cookies in conjunction with your use of the Site. We have no access to or control over the use of these cookies. These cookies collect information about your use of the Site, such as where you came from, which pages you visited within the Site, and possibly other sites you visit if those sites cooperate with the same third party, but do not collect your name, email address, contact information or other personally identifiable information that by itself would allow the third party to identify or contact you.
 
+Feedback. You should feel free to give us feedback, register a complaint, or ask questions about the Site. We may store your communications, including any personal information you include in them, so that we can effectively respond to you.
 
- **Information Sharing and Disclosure**
+Administration. We may use the information described above for routine administrative purposes, such as investigating abuses on the Site, responding to user inquiries and enforcing and applying our Terms of Service and Statement.
 
-  * Jeeran.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-    * We provide the information to trusted partners who work on behalf of or with Jeeran.com under confidentiality agreements. These companies may use your personal information to help Jeeran.com communicate with you about offers from Jeeran.com and our marketing partners. However, these companies do not have any independent right to share this information.
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Jeeran.com's terms of use, or as otherwise required by law.
-    * We transfer information about you if Jeeran.com is acquired by or merged with another company. In this event, Jeeran.com will notify you before information about you is transferred and becomes subject to a different privacy policy.
-  * Jeeran.com displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.
-    * Jeeran.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
-    * Jeeran.com advertisers include financial service providers (such as banks, insurance agents, stock brokers, and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
-  * Jeeran.com works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed reference links.
+Data storage. We store data in the Hashemite Kingdom of Jordan.
 
+Credit Card Purchases. If you purchase business advertising or other Jeeran products and services online, we collect and store billing and credit card information. This information will only be shared with third parties who perform tasks (such as fulfilling orders and processing credit card payments) required to complete the purchase transaction. When you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using 128-bit secure socket layer technology (SSL).
 
+## 2\. Transfer of Information
 
- **Cookies**
+Public Content. If you post content for public view on the Site, we may distribute such Public Content to a wider audience by sharing it (or portions of it) with third parties so that they can publish it on their own websites and media platforms. We may ask them to credit you as the source of these contributions by including your account name and profile photo.
 
-  * Jeeran.com may set and access Jeeran.com cookies on your computer.
-  * Jeeran.com lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Jeeran.com's cookies.
+Third party service providers. We may use third parties to provide technical and customer support, perform tracking and reporting functions, conduct quality assurance testing, perform payment processing and provide other services in connection with the Site. We may share information about you with them so that they can perform the services they are required to perform, but they are not permitted to use your personal information other than to provide the services requested by you.
 
+Third party advertising. Third parties serve some of the ads on the Site. We do not send any individualized personal information to them, but they may have access to information that they obtain through cookies or that you share with them yourself. You can opt-out of some these practices by visiting the Network Advertising Initiative's opt-out page here, and Omniture's opt-out page here. Note that we do not rent, share, sell or trade personally identifiable information with third parties for their direct marketing purposes.
 
+Aggregate information. We may share non-personal information in the aggregate to third parties relating to user behavior in connection with actual or prospective business relationship with those third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertising banners.
 
- **Your Ability to Edit and Delete Your Account Information and Preferences**
+Business transfers. We may share your information with our subsidiaries, joint ventures, or other companies under a common control that we may have now or in the future, in which case we will require them to honor this Statement. If another company acquires our company or all or substantially all of our assets, that company will possess your information, and will assume the rights and obligations with respect to that information as described in this Statement.
 
-      **General**
+Investigations. We reserve the right to investigate abuses on the Site, and enforce and apply our Terms of Service and Statement. We may disclose information about you to third parties if we have a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our Terms of Service and Statement; (c) comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; or (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public.
 
-  * You can edit your Jeeran.com Account Information, including your marketing preferences, at any time.
-  * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
-  * We reserve the right to send you certain communications relating to the Jeeran.com service, such as service announcements, administrative messages and the Jeeran.com Newsletter, that are considered part of your Jeeran.com account, without offering you the opportunity to opt-out of receiving them.
-  * You can delete your Jeeran.com account by contacting our support department.
+## 3\. Managing Your Information
 
+We provide a number of tools to manage the use of your information on the Site. For an overview, click here. You may receive weekly newsletter communications from us. However, despite any requests to close your account or your indicated email preferences, we may still need to contact you as required by law or on legal matters, for example to inform you of any updates to our Terms of Service or this Statement.
 
+## 4\. Links
 
- **Confidentiality and Security**
+The Site may contain links to third party websites with which we have no affiliation. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
 
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+## 5\. Our Policy Towards Children
 
- **Changes to this Privacy Policy**
+The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please contact us here. If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
 
-Jeeran.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Jeeran.com account or by placing a prominent notice on our site.
+## 6\. Security
 
- **Questions and Suggestions**
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have questions or suggestions, please contact our support department
+## 7\. Dispute Resolution
 
-| 
+If you believe that Jeeran has not adhered to this Statement you may write to the Jeeran Privacy Office at the following address:  
+[Contact us](mailto:support@jeeran.com)
+
+## 8\. Modifications to this Statement
+
+We may revise this Statement from time to time. The most current version of the Statement will govern our use of your information and will always be located here. If we make a change to this Statement that, in our sole discretion, is material, we will notify you either by prominently posting a notice of such changes prior to implementing the change on the Site and/or via the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Statement.
