@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-cig.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609181013id_/http%3A//www.e-cig.com/shopping/shopcontent.asp%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-cig.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619173352id_/http%3A//www.e-cig.com/shopping/shopcontent.asp%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
-# Electronic Cigarette | E Cigarette | E Liquid -
+# Best Electronic Cigarettes | E Cigarettes | E Liquid Site - Electronic Cigarette privacy
 
 **Privacy:**
 
@@ -22,7 +22,8 @@ We will preserve the content of any e-mail that you send us, if we believe that 
 
 **Disclosure of Information**
 
-We declare that no information volunteered to us will be divulged to ANY third party, and that all information will be used solely for our own customer service purposes. As a customer of ours, you will find that we are secure, reliable, and discreet. We do not distribute our customer's email addresses to anyone. You will never receive spam, junk email or any other unsolicited advertising from anyone who was given your email address from us.   
+We declare that no information volunteered to us will be divulged to ANY third party, and that all information will be used solely for our own customer service purposes. As a customer of ours, you will find that we are secure, reliable, and discreet. We do not distribute our customer's email addresses to anyone. You will never receive spam, junk email or any other unsolicited advertising from anyone who was given your email address from us. 
 
+**Acceptance and Changes to Security and Privacy Statement**
 
 You acknowledge and accept that your use of the E-CIG Web Site indicates your acceptance of the E-CIG Terms of Use and the Security and Privacy Statement. This is the current Security and Privacy Statement. It replaces any other Security and Privacy Statement for the this Web Site.
