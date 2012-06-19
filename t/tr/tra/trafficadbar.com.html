@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the trafficadbar.com privacy policy that was archived on 2011-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216121030id_/http%3A//www.trafficadbar.com/general/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trafficadbar.com privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620011124id_/http%3A//www.trafficadbar.com/general/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta name="keywords" content="free website traffic visitor url 80.175.37.102">
+<meta name="keywords" content="free website traffic visitor url 80.175.37.112">
 <meta name="description" content="Free website traffic and visitors to your website.">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <title>Free advertising traffic exchange - Traffic Ad Bar</title>
+<link rel="image_src" type="image/gif" href="http://www.trafficadbar.com/images/main-logo.gif">
 <link href="http://i.trafficadbar.com/css/style.css" rel="stylesheet" type="text/css" media="screen">
 <link href="http://i.trafficadbar.com/css/forms.css" rel="stylesheet" type="text/css" media="screen">
 <link href="http://i.trafficadbar.com/css/colors.css" rel="stylesheet" type="text/css" media="screen">
@@ -13,19 +14,28 @@
 	var g={};
 </script>
 	<script language="JavaScript">
-	start   	= 	1324037430;
-	end     	= 	new Array('1324278000');
+	start   	= 	1340154684;
+	end     	= 	new Array('1340344800','1337104800');
 	desc_text	=	new Array("The next level ladder<br>will be set in:-<br><div style='white-space:nowrap;color:#dd0000;font-size:12px;line-height:141%;font-weight:bolder;' id='cdownt0'></div>");
 	inter		=	0;
+	
+
 	
 	var currentTime = new Date();
 	currentTime 	= currentTime.getTime();
 		
 	function cdown(elem) {
+		if (!document.getElementById('cdown1')) {
+			end.splice(1,1);
+		}
+	
 		if (document.getElementById('cdown0')) {
 		if (inter == 0) {
 			if (desc_text[0]) {
 				document.getElementById('cdown0').innerHTML = "<div style='width:160px;white-space:nowrap;background-color:#ffff00;border:3px solid #000;color:#000;font-size:12px;line-height:141%;font-weight:bolder;'>" + desc_text[0] + "</div>";
+			}
+			if (end[1]) {
+				document.getElementById('cdown1').innerHTML = "<div style='margin:0 auto;width:320px;white-space:nowrap;background-color:#ffff00;border:3px solid #000;color:#000;font-size:12px;line-height:141%;font-weight:bolder;'>" + desc_text[1] + "</div>";
 			}
 		}
 		
@@ -42,7 +52,7 @@
 	                hours   =   Math.floor((time_left - (days*3600*24))/3600);
 	                minutes =   Math.floor((time_left - (days*3600*24) - (hours*3600))/60);
 	                seconds =   Math.round(((time_left - (days*3600*24) - (hours*3600) - (minutes*60)))*10)/10;
-	                if (i == 0) {
+	                if (i < 2) {
 		                seconds	=	seconds + '';
 		                if (seconds.length < 3) {
 			                seconds	=	seconds + '.0';
@@ -62,13 +72,19 @@
 	                wr_txt  = wr_txt	+      hours + "h : " + minutes + "m :&nbsp;" + seconds + "s";
 	
 	                document.getElementById('cdownt' + i).innerHTML = wr_txt;
-	                setTimeout(cdown,100);
+	                
 	        }
 	        else
 	        {
-				document.getElementById('cdown' + i).innerHTML = "<b><font size='5' color=red>The level ladder is set!</font></b>";	        
+				if (i==0) {
+					document.getElementById('cdown' + i).innerHTML = "<b><font size='5' color=red>The level ladder is set!</font></b>";
+				}
+				if (i==1) {
+					document.getElementById('cdown' + i).innerHTML = "";
+				}
 	    	}
 		}
+		setTimeout(cdown,100);
 	    }
 	}	
 	</script>	
@@ -105,7 +121,7 @@
 			<div style="background-color:#ffff00;color:#000;font-size:22px;border:1px solid #000;margin:0px 4px 4px;padding:2px;">Some of our users who are online right now!</div>
 			</center><br>
 			<div id="home_page_images">
-			<div><a href="/website_traffic/home/user_profile.php?uid=28395"><img src="/images/profile_image.php?uid=28395&amp;img=2"><br>Andy</a><br><img src="/images/countries/us.gif" alt="United States" title="United States"></div><div><a href="/website_traffic/home/user_profile.php?uid=36304"><img src="/images/profile_image.php?uid=36304&amp;img=2"><br>Stefano</a><br><img src="/images/countries/it.gif" alt="Italy" title="Italy"></div><div><a href="/website_traffic/home/user_profile.php?uid=28564"><img src="/images/profile_image.php?uid=28564&amp;img=2"><br>Mohammed</a><br><img src="/images/countries/ma.gif" alt="Morocco" title="Morocco"></div><div><a href="/website_traffic/home/user_profile.php?uid=42820"><img src="/images/profile_image.php?uid=42820&amp;img=2"><br>Edston</a><br><img src="/images/countries/jm.gif" alt="Jamaica" title="Jamaica"></div><div><a href="/website_traffic/home/user_profile.php?uid=39882"><img src="/images/profile_image.php?uid=39882&amp;img=2"><br>Evgen0308k</a><br><img src="/images/countries/ru.gif" alt="Russian Federation" title="Russian Federation"></div><div><a href="/website_traffic/home/user_profile.php?uid=38361"><img src="/images/profile_image.php?uid=38361&amp;img=2"><br>Krish</a><br><img src="/images/countries/th.gif" alt="Thailand" title="Thailand"></div><div><a href="/website_traffic/home/user_profile.php?uid=35265"><img src="/images/profile_image.php?uid=35265&amp;img=2"><br>Yaser</a><br><img src="/images/countries/eg.gif" alt="Egypt" title="Egypt"></div><div><a href="/website_traffic/home/user_profile.php?uid=43121"><img src="/images/profile_image.php?uid=43121&amp;img=2"><br>Catalin</a><br><img src="/images/countries/ro.gif" alt="Romania" title="Romania"></div><div><a href="/website_traffic/home/user_profile.php?uid=44613"><img src="/images/profile_image.php?uid=44613&amp;img=2"><br>Iveta</a><br><img src="/images/countries/sk.gif" alt="Slovak Republic" title="Slovak Republic"></div><div><a href="/website_traffic/home/user_profile.php?uid=28606"><img src="/images/profile_image.php?uid=28606&amp;img=2"><br>Garry</a><br><img src="/images/countries/us.gif" alt="United States" title="United States"></div><div><a href="/website_traffic/home/user_profile.php?uid=37400"><img src="/images/profile_image.php?uid=37400&amp;img=2"><br>Sue</a><br><img src="/images/countries/us.gif" alt="United States" title="United States"></div><div><a href="/website_traffic/home/user_profile.php?uid=42910"><img src="/images/profile_image.php?uid=42910&amp;img=2"><br>Blaise</a><br><img src="/images/countries/gb.gif" alt="Great Britain (UK)" title="Great Britain (UK)"></div>			</div>
+			<div><a href="/website_traffic/home/user_profile.php?uid=9711"><img src="/images/profile_image.php?uid=9711&amp;img=2"><br>Cari</a><br><img src="/images/countries/us.gif" alt="United States" title="United States"></div><div><a href="/website_traffic/home/user_profile.php?uid=7490"><img src="/images/profile_image.php?uid=7490&amp;img=2"><br>Oluwadare samuel</a><br><img src="/images/countries/ng.gif" alt="Nigeria" title="Nigeria"></div><div><a href="/website_traffic/home/user_profile.php?uid=41471"><img src="/images/profile_image.php?uid=41471&amp;img=2"><br>Anthony</a><br><img src="/images/countries/us.gif" alt="United States" title="United States"></div><div><a href="/website_traffic/home/user_profile.php?uid=38115"><img src="/images/profile_image.php?uid=38115&amp;img=2"><br>Toni</a><br><img src="/images/countries/us.gif" alt="United States" title="United States"></div><div><a href="/website_traffic/home/user_profile.php?uid=51556"><img src="/images/profile_image.php?uid=51556&amp;img=2"><br>Paulo</a><br><img src="/images/countries/br.gif" alt="Brazil" title="Brazil"></div><div><a href="/website_traffic/home/user_profile.php?uid=54932"><img src="/images/profile_image.php?uid=54932&amp;img=2"><br>Darlene</a><br><img src="/images/countries/us.gif" alt="United States" title="United States"></div><div><a href="/website_traffic/home/user_profile.php?uid=14476"><img src="/images/profile_image.php?uid=14476&amp;img=2"><br>John</a><br><img src="/images/countries/gb.gif" alt="Great Britain (UK)" title="Great Britain (UK)"></div><div><a href="/website_traffic/home/user_profile.php?uid=39781"><img src="/images/profile_image.php?uid=39781&amp;img=2"><br>Douglas</a><br><img src="/images/countries/us.gif" alt="United States" title="United States"></div><div><a href="/website_traffic/home/user_profile.php?uid=5972"><img src="/images/profile_image.php?uid=5972&amp;img=2"><br>Octave</a><br><img src="/images/countries/ca.gif" alt="Canada" title="Canada"></div><div><a href="/website_traffic/home/user_profile.php?uid=10249"><img src="/images/profile_image.php?uid=10249&amp;img=2"><br>Khadiga</a><br><img src="/images/countries/us.gif" alt="United States" title="United States"></div><div><a href="/website_traffic/home/user_profile.php?uid=55093"><img src="/images/profile_image.php?uid=55093&amp;img=2"><br>Jaroslaw</a><br><img src="/images/countries/pl.gif" alt="Poland" title="Poland"></div><div><a href="/website_traffic/home/user_profile.php?uid=48614"><img src="/images/profile_image.php?uid=48614&amp;img=2"><br>Yudi</a><br><img src="/images/countries/id.gif" alt="Indonesia" title="Indonesia"></div>			</div>
 					<center>
 				<a href="http://www.alexa.com/siteinfo/www.trafficadbar.com" target="new"><script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/t/a?url=www.trafficadbar.com"></script></a>
 			</center>			
@@ -205,7 +221,7 @@
 		</ul>
 			If you have any questions/comments about privacy, you should email us. 
 	
-				</div>
+	<div style="clear:both;"></div>			</div>
 		</div>	
 	 </div>
     </div>
@@ -222,7 +238,7 @@
       </div>
       <div class="footer_copyrights">
         <div align="center">
-        	© Copyright 2009-2011 Traffic Ad Bar, DP Internet Trading Ltd. All Rights Reserved.		
+        	© Copyright 2009-2012 Traffic Ad Bar, DP Internet Trading Ltd. All Rights Reserved.		
 		</div>
       </div>
             <div class="footer_designed">
