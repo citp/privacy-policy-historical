@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppcsecure.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119202933id_/http%3A//www.ppcsecure.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppcsecure.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619215536id_/http%3A//www.ppcsecure.com/privacy.aspx) for the most accurate reproduction.*
 
 # PPCsecure - Privacy Policy
 
@@ -42,7 +42,7 @@ This privacy policy only pertains to this website and any other website owned by
 
 **_Business Transition_**
 
-In the event that PPCSecure is sold to, acquired, or merged with another company, your information and account data will likely be amongst the transferred assets. You will be notified via email within 30 days of such a transaction taking place and we will also post notice of such on the homepage of this website. 
+In the event that PPCSecure is sold to, acquired, or merged with another company, your information and account data will likely be amongst the transferred assets. You will be notified via email within 14 days of such a transaction taking place and we will also post notice of such on the homepage of this website. 
 
 **_Modifications to This Privacy Statement_**
 
