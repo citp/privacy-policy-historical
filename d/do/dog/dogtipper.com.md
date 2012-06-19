@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the dogtipper.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101111938id_/http%3A//www.dogtipper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtipper.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619154032id_/http%3A//www.dogtipper.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy | DogTipper.com
+# Privacy - DogTipper.com : DogTipper.com
 
 This privacy policy applies to the use of DogTipper.com.
 
-We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site. 
+We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
 
 At DogTipper.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Dogtipper.com, and how we safeguard your information. We never sell your personal information to third parties.
+
+**Third Party Information**
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/).
 
 **Log Files**
 
@@ -30,9 +34,9 @@ This website may contain links to other sites that are not controlled in any way
 
 **Registration and Use of Personal Information**
 
-Registration is not required in order to use or access this website. However, this site may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles. 
+Registration is not required in order to use or access this website. However, this site may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles.
 
-If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent. 
+If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.
 
 Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.
 
@@ -46,9 +50,9 @@ If your personally identifiable information changes, or if you no longer wish us
 
 **Security**
 
-We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore“ — as is the case with any organization – we are not in a position to guarantee the absolute security of your information. 
+We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore“ — as is the case with any organization – we are not in a position to guarantee the absolute security of your information.
 
-You may submit any questions you may have about our security procedures by emailing us at editors@dogtipper.com. 
+You may submit any questions you may have about our security procedures by emailing us at editors@dogtipper.com.
 
 **Links to Other Websites**
 
@@ -67,4 +71,8 @@ editors@dogtipper.com
 PO Box 1389  
 Cedar Park, TX 78630
 
-This privacy policy was last updated on April 6, 2009.
+This privacy policy was last updated on June 7, 2012.
+
+### About [Paris Permenter and John Bigley](http://www.dogtipper.com/author/Paris%20and%20John "Paris Permenter and John Bigley")
+
+DogTipper publishers Paris Permenter and John Bigley are a husband-wife team of full-time writers. The couple has authored over two dozen books and 2,500+ magazine articles.
