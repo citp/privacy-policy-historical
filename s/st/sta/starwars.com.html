@@ -1,8 +1,13 @@
-<!--The following is the downloaded HTML source of the starwars.com privacy policy that was archived on 2011-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221032410id_/http%3A//www.starwars.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starwars.com privacy policy that was archived on 2012-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120619171902id_/http%3A//www.starwars.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch hashchange history multiplebgs boxshadow textshadow csstransforms csstransforms3d csstransitions fontface"><head><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
 <link rel="image_src" href="http://www.starwars.com/img/starwars_fb.png">
+<meta property="og:title" content="StarWars.com | Privacy Policy">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://www.starwars.com/img/starwars_fb.png">
+<meta property="og:url" content="http://www.starwars.com/privacy/">
+<meta property="og:site_name" content="StarWars.com">
 <!-- BEGIN macro standardHeadContent -->
 <title>StarWars.com | Privacy Policy</title>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
@@ -10,7 +15,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 <!-- specific styles -->
-<link rel="stylesheet" type="text/css" href="/style/v2.css">
+<link rel="stylesheet" type="text/css" href="/style/v2.css?v=4">
 <!--[if IE 6]>
 <script>window.location="/browser_support.html";</script>
 <![endif]-->
@@ -44,18 +49,18 @@ document.getElementsByTagName("head")[0].appendChild(cssNode);
 };
 </script>
 <!-- Libraries -->
-<script src="/script/functions.js"></script>
+<script src="/script/functions.js?v=3"></script>
 <script src="/script/com/swfobject/swfobject.js"></script>
-<script src="/script/com/jquery/jquery.address-1.4.min.js"></script>
+<script src="/script/com/jquery/jquery.address-1.4.min.js?tracker=null"></script>
 <script src="/script/com/modernizr/modernizr.custom.13589.js"></script>
 <script src="/script/com/bigspaceship/loading/Basil.js"></script>
 <script src="/script/com/starwars/site/application.js"></script>
 <script src="/script/net/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 <script src="/script/net/fancybox/jquery.easing-1.3.pack.js"></script>
 <script src="/script/net/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
-<script src="/script/share.js"></script>
+<script src="/script/share.js?v=2"></script>
 <link rel="stylesheet" href="/script/net/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
-<link rel="stylesheet" type="text/css" href="/style/global.css">
+<link rel="stylesheet" type="text/css" href="/style/global.css?v=4">
 <script>
 if((navigator.userAgent.match(/iPad/i))) {
 document.write("<link rel='stylesheet' type='text/css' href='/style/ipad.css' />");
@@ -66,87 +71,106 @@ document.write("<link rel='stylesheet' type='text/css' href='/style/iphone.css' 
 </script>
 <!-- START GOOGLE ANALYTICS -->
 <script type="text/javascript">
+analytics_filepath = ".google-analytics.com/ga.js";
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-19534373-1']);
 _gaq.push(['_setDomainName', '.starwars.com']);
 _gaq.push(['_trackPageview']);
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + analytics_filepath;
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
 <script type="text/javascript">
-function recordOutboundLink(link, category, action) {
+function recordOutboundLink() {
+var link = arguments[0];
+var category = arguments[1];
+var action = arguments[2];
+var target = (arguments[3]) ? arguments[3] : "_blank" ;
 _gat._getTrackerByName()._trackEvent(category, action);
-setTimeout('window.open("' + link.href + '","_blank")', 100);
+setTimeout('window.open("' + link.href + '", "' + target + '")', 100);
+}
+function recordInternalLink() {
+var link = arguments[0];
+var category = arguments[1];
+var action = arguments[2];
+var target = (arguments[3]) ? arguments[3] : "_self" ;
+_gat._getTrackerByName()._trackEvent(category, action);
+setTimeout('window.open("' + link.href + '", "' + target + '")', 100);
+}
+function recordLink(category, action) {
+_gat._getTrackerByName()._trackEvent(category, action);
 }
 </script>
 <!-- END GOOGLE ANALYTICS -->
 <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+<meta property="fb:page_id" content="169299103121699">
 <!-- END macro standardHeadContent -->
 </head>
 <body class="screen dark-bg" style="visibility: visible; overflow-x: hidden;">
 <nav class="mod navigation line" data-jsclass="App.modules.Navigation" style="visibility: visible;">
 <div class="gridContainer starwars-navigation-out">
-<h1><a href="/" class="phark">Star Wars</a></h1>
+<h1><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_home');return false;" href="/" class="phark">Star Wars</a></h1>
 <ul class="main">
 <li class="category explore has-subnav out">
-<h3 class="title"><a href="/explore/" class="title">Explore</a></h3>
+<h3 class="title"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_explore');return false;" href="/explore/" class="title">Explore</a></h3>
 <div class="sub">
 <ul class="handle">
-<li class="encyclopedia out"><a href="/explore/encyclopedia/">Encyclopedia</a></li>
-<li class="themovies out"><a href="/explore/the-movies/">The Movies</a></li>
-<li class="theclonewars out"><a href="/explore/the-clone-wars/">The Clone Wars</a></li>
-<li class="video-games out"><a href="/explore/video-games/">Video Games</a></li>
+<li class="encyclopedia out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_explore-encyclopedia');return false;" href="/explore/encyclopedia/">Encyclopedia</a></li>
+<li class="themovies out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_explore-themovies');return false;" href="/explore/the-movies/">The Movies</a></li>
+<li class="theclonewars out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_explore-theclonewars');return false;" href="/explore/the-clone-wars/">The Clone Wars</a></li>
+<li class="video-games out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_explore-videogames');return false;" href="/explore/video-games/">Video Games</a></li>
 </ul>
 </div>
 </li><!-- .explore end -->
 <li class="play has-subnav out">
-<h3 class="title"><a href="/play/" class="title">Play</a></h3>
+<h3 class="title"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_play');return false;" href="/play/" class="title">Play</a></h3>
 <div class="sub">
 <ul class="handle">
-<li class="onlinegames out"><a href="/play/online-games/">Games</a></li>
-<li class="activities out"><a href="/play/online-activities/">Activities</a></li>
-<li class="soundboards out"><a href="/play/online-activities/soundboards/">Soundboards</a></li>
+<li class="onlinegames out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_play-onlinegames');return false;" href="/play/online-games/">Games</a></li>
+<li class="activities out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_play-activities');return false;" href="/play/online-activities/">Activities</a></li>
+<li class="soundboards out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_play-soundboards');return false;" href="/play/online-activities/soundboards/">Soundboards</a></li>
+<li class="ecards out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_play-ecards');return false;" href="/play/ecards/">E-Cards</a></li>
 </ul>
 </div>
 </li><!-- .play end -->
 <li class="watch has-subnav out">
-<h3 class="title"><a href="/watch/" class="title">Watch</a></h3>
+<h3 class="title"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_watch');return false;" href="/watch/" class="title">Watch</a></h3>
 <div class="sub">
 <ul class="handle">
-<li class="themovies out"><a href="/watch/the-movies/">The Movies</a></li>
-<li class="theclonewars out"><a href="/watch/the-clone-wars/">The Clone Wars</a></li>
-<li class="videogames out"><a href="/watch/video-games/">Video Games</a></li>
-<li class="behindthescenes out"><a href="/watch/behind-the-scenes/">Behind the Scenes</a></li>
-<li class="humor out"><a href="/watch/humor/">Humor</a></li>
-<li class="products out"><a href="/watch/products/">Products</a></li>
+<li class="themovies out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_watch-themovies');return false;" href="/watch/the-movies/">The Movies</a></li>
+<li class="theclonewars out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_watch-theclonewars');return false;" href="/watch/the-clone-wars/">The Clone Wars</a></li>
+<li class="videogames out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_watch-videogames');return false;" href="/watch/video-games/">Video Games</a></li>
+<li class="behindthescenes out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_watch-behindthescenes');return false;" href="/watch/behind-the-scenes/">Behind the Scenes</a></li>
+<li class="humor out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_watch-humor');return false;" href="/watch/humor/">Humor</a></li>
+<li class="events out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_watch-events');return false;" href="/watch/events/">Events</a></li>
 </ul>
 </div>
 </li><!-- .watch end -->
 <li class="connect has-subnav out">
-<h3 class="title"><a href="/connect/" class="title">Connect</a></h3>
+<h3 class="title"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_connect');return false;" href="/connect/" class="title">Connect</a></h3>
 <div class="sub">
 <ul class="handle">
-<li class="blog out"><a href="http://starwarsblog.starwars.com/">Star Wars Blog</a></li>
-<li class="fansites out"><a href="/connect/fan-sites/">Fan Sites</a></li>
-<li class="aroundtheweb out"><a href="/connect/around-the-web/">Around the Web</a></li>
+<li class="blog out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_connect-blog');return false;" href="http://starwarsblog.starwars.com/">Star Wars Blog</a></li>
+<li class="fansites out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_connect-fansites');return false;" href="/connect/fan-sites/">Fan Sites</a></li>
+<li class="aroundtheweb out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_connect-aroundtheweb');return false;" href="/connect/around-the-web/">Around the Web</a></li>
+<li class="celebration out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_connect-celebration');return false;" href="/connect/celebration/">Celebration VI</a></li>
 </ul>
 </div>
 </li><!-- .connect end -->
 <li class="shop has-subnav out">
-<h3 class="title"><a href="/shop/" class="title">Shop</a></h3>
+<h3 class="title"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_shop');return false;" href="/shop/" class="title">Shop</a></h3>
 <div class="sub">
 <ul class="handle">
-<li class="products out"><a href="/shop/all/">Products</a></li>
-<li class="wheretobuy out"><a href="/shop/where-to-buy/">Where to Buy</a></li>
-<li class="licensees out"><a href="/shop/licensees/">Licensees</a></li>
+<li class="products out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_shop-products');return false;" href="/shop/all/">Products</a></li>
+<li class="wheretobuy out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_shop-wheretobuy');return false;" href="/shop/where-to-buy/">Where to Buy</a></li>
+<li class="licensees out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_shop-licensees');return false;" href="/shop/licensees/">Licensees</a></li>
 </ul>
 </div>
 </li><!-- .shop end -->
 <li class="search has-subnav out">
-<h3 class="title"><a href="/search" class="title">Search</a></h3>
+<h3 class="title"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_search');return false;" href="/search" class="title">Search</a></h3>
 <div class="sub">
 <div class="wrap size1of1">
 <form id="frmMainSearch" name="frmSearch" action="/search" method="POST">
@@ -158,14 +182,14 @@ setTimeout('window.open("' + link.href + '","_blank")', 100);
 <div class="popular-searches">
 <h3>Popular Searches</h3>
 <ol>
-<li><a href="/search?q=LEGO">LEGO</a></li>
-<li><a href="/search?q=Yoda">Yoda</a></li>
-<li><a href="/search?q=Lightsaber">Lightsaber</a></li>
-<li><a href="/search?q=Darth+Maul">Darth Maul</a></li>
-<li><a href="/search?q=Darth+Vader">Darth Vader</a></li>
-<li><a href="/search?q=Full+Episodes">Full Episodes</a></li>
-<li><a href="/search?q=Boba+Fett">Boba Fett</a></li>
-<li><a href="/search?q=Soundboard">Soundboard</a></li>
+<li><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_search-lego');return false;" href="/search?q=LEGO">LEGO</a></li>
+<li><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_search-yoda');return false;" href="/search?q=Yoda">Yoda</a></li>
+<li><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_search-lightsaber');return false;" href="/search?q=Lightsaber">Lightsaber</a></li>
+<li><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_search-darthmaul');return false;" href="/search?q=Darth+Maul">Darth Maul</a></li>
+<li><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_search-darthvader');return false;" href="/search?q=Darth+Vader">Darth Vader</a></li>
+<li><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_search-fullepisodes');return false;" href="/search?q=Full+Episodes">Full Episodes</a></li>
+<li><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_search-bobafett');return false;" href="/search?q=Boba+Fett">Boba Fett</a></li>
+<li><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_search-soundboard');return false;" href="/search?q=Soundboard">Soundboard</a></li>
 </ol>
 </div>
 </div>
@@ -174,9 +198,9 @@ setTimeout('window.open("' + link.href + '","_blank")', 100);
 </ul>
 <div id="utilityHolder">
 <ul class="utility">
-<li class="news out"><a href="/news">News</a></li>
-<li class="events out"><a href="/events">Events</a></li>
-<li class="account out"><a class="fancy" href="#LoginOverlay">My Account</a></li>
+<li class="news out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_news');return false;" href="/news">News</a></li>
+<li class="events out"><a onclick="recordInternalLink(this, 'starwars-header', 'starwars-header_events');return false;" href="/events">Events</a></li>
+<li class="account out"><a class="fancy" onclick="recordLink('starwars-header', 'starwars-header_account-overlay');return true;" href="#LoginOverlay">My Account</a></li>
 </ul><!-- .utility end -->
 </div>
 </div>
@@ -192,18 +216,11 @@ setTimeout('window.open("' + link.href + '","_blank")', 100);
 </header>
 <section>
 <aside class="options">
-<ul>
-<li class="starwars active">
-<a style="padding-left:27px;" data-type="starwars">
-<img src="/login/login_starwars.png">
-</a>
-</li>
-</ul>
 </aside>
 <div class="logins starwars">
 <div class="login-starwars">
 <form name="loginForm" action="/webapps/registration/sign-in.action" method="POST">
-<input type="hidden" name="forward" value="/web/20111221032410id_/http://www.starwars.com/privacy/">
+<input type="hidden" name="forward" value="/web/20120619171902id_/http://www.starwars.com/privacy/">
 <script>
 document.loginForm.forward.value = window.location.pathname;
 </script>
@@ -225,6 +242,16 @@ document.loginForm.forward.value = window.location.pathname;
 </div>
 </form>
 <p>Don't have a SW.com account? <a href="/webapps/registration/sign-in">Register Now!</a></p>
+<p id="or"><span>OR</span></p>
+<script>
+if($.browser.msie && navigator.userAgent.indexOf("Trident/5")>-1){
+windowWidth = 1015;
+} else {
+windowWidth = 985;
+}
+</script>
+<p style="height:47px;margin-bottom:10px;"><a onclick="window.open('/webapps/registration/facebook?login=true&amp;path=/privacy/index.html','facebook','width='+windowWidth+',height=521,scrollbars=no,resizable=yes,toolbar=no,directories=no,menubar=no,status=no'); return false;" href="/webapps/registration/facebook?login=true&amp;path=/privacy/index.html"><img src="/img/registration/2012/loginWithFacebook.png" width="225px" height="47px"></a></p>
+<p>You can use your Facebook account<br>to log in to StarWars.com</p>
 </div>
 </div>
 </section>
@@ -330,7 +357,7 @@ list-style:decimal outside;
 <p><i>Sharing Features </i></p>
 <p>We may provide you with various ways to share links to content on the Site with third parties. </p>
 <p>For example, we may provide you with the opportunity to email a link to a web page on the Site to another person. To use this feature, we require you to provide your email address and the email address of each person to whom you send the link. The user-inputted email addresses in this context are not stored or used for any other purpose other than to transmit your email message.</p>
-<p>We also may allow you to share links to content on the Site with users of various third-party social networking, search and sharing services. When sharing links to content using one of these third-party services, if you are not already logged in to the third-party service, you will need to supply login credentials for it. If you are not a registered user of the third-party service, you will need to sign up for it. You are supplying the registration information or login credentials for the third-party service directly to that third-party, and not to us. By using any of these third-party services to share links to content on the Site, you permit us to access, use and disclose any information relating to your account on each such third-party service (such as your user name and profile information) that is available to us through the third-party service’s application programming interface (API) pursuant to this Policy and the third-party service’s applicable terms of use.</p>
+<p>We also may allow you to share links to content on the Site with users of various third-party social networking, search and sharing services. When sharing links to content using one of these third-party services, if you are not already logged in to the third-party service, you will need to supply login credentials for it. If you are not a registered user of the third-party service, you will need to sign up for it. You are supplying the registration information or login credentials for the third-party service directly to that third-party, and not to us. By using any third-party services to log in to the Site, you permit us to store, access and use all information related to your third party account that may be accessible to us through the third-party portal or application programming interface (API) pursuant to this Policy.</p>
 <p><i>Opinions</i></p>
 <p>We may ask for user's opinions from time to time. Users may send us questions or comments, which may require Personal Information for a response. We have a policy against accepting unsolicited material, however, so do not submit any unsolicited or unique creative ideas, drawings or other materials, and refer to our policy on unsolicited submissions in the <a href="/terms/index.html" title="Star Wars Terms of Use"><i>Star Wars</i> Site Terms of Use</a>. IF YOU ARE UNDER 13, YOU WILL NEED YOUR PARENT’S OR GUARDIAN’S CONSENT BEFORE YOU CAN PROVIDE THIS INFORMATION.</p>
 <p><i>Online Contests, Sweepstakes, and other Promotions</i></p>
@@ -408,7 +435,19 @@ San Francisco, CA 94129-0901<br>
 </blockquote>
 <p>Alternatively, you may <a href="/webapps/registration/feedback/index.jsp">click here</a> to submit your question or request online. If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed satisfactorily, you should then contact the TRUSTe Watchdog Dispute Resolution Program at <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=http://www.starwars.com">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=http://www.starwars.com</a>.</p>
 <p>TRUSTe will serve as a liaison with us to resolve your concerns relating to this Policy or privacy issues on the Site.</p>
-<p>© 2011 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved.</p>
+<p><b>Your California Privacy Rights</b></p>
+<p>In addition to the rights set forth in this Privacy Policy, California Civil Code Section 1798.83 permits California residents who are individual consumers or users of Lucasfilm Ltd. products to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at:</p>
+<blockquote>
+Lucas Online<br>
+One Letterman Drive<br>
+P.O. Box 29901<br>
+San Francisco, CA 94129-0901<br>
+Attn: Webmaster<br>
+(415) 623-1113<br>
+<a href="mailto:webmaster@starwars.com">webmaster@starwars.com</a><br>
+</blockquote>
+<p>Please include your name, address, and email address. We will respond via email unless you specifically request a response by postal mail.</p>
+<p>© 2012 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved.</p>
 </div>
 </article>
 </section>
@@ -435,10 +474,10 @@ San Francisco, CA 94129-0901<br>
 <li class="onlinegames"><a href="/play/online-games/">Games<span class="rollover" style="width: 0; display:none;">Games</span></a></li>
 <li class="activities"><a href="/play/online-activities/">Activities<span class="rollover" style="width: 0; display:none;">Activities</span></a></li>
 <li class="soundboards"><a href="/play/online-activities/soundboards/">Soundboards<span class="rollover" style="width: 0; display:none;">Soundboards</span></a></li>
+<li class="ecards"><a href="/play/ecards/">E-Cards<span class="rollover" style="width: 0; display:none;">E-Cards</span></a></li>
 </ul>
-</li></ul>
-
-
+</li>
+</ul>
 <ul class="size2of12 full">
 <li class="category watch">
 <h4 class="title"><a href="/watch/">Watch<span class="rollover" style="width: 0; display:none;">Watch</span></a></h4>
@@ -449,6 +488,7 @@ San Francisco, CA 94129-0901<br>
 <li class="videogames"><a href="/watch/video-games/">Video Games<span class="rollover" style="width: 0; display:none;">Video Games</span></a></li>
 <li class="humor"><a href="/watch/humor/">Humor<span class="rollover" style="width: 0; display:none;">Humor</span></a></li>
 <li class="products"><a href="/watch/products/">Products<span class="rollover" style="width: 0; display:none;">Products</span></a></li>
+<li class="events"><a href="/watch/events/">Events<span class="rollover" style="width: 0; display:none;">Events</span></a></li>
 </ul>
 </li>
 <li class="category connect">
@@ -457,6 +497,7 @@ San Francisco, CA 94129-0901<br>
 <li class="blog"><a href="http://starwarsblog.starwars.com/">Star Wars Blog<span class="rollover" style="width: 0; display:none;">Star Wars Blog</span></a></li>
 <li class="fansites"><a href="/connect/fan-sites/">Fan Sites<span class="rollover" style="width: 0; display:none;">Fan Sites</span></a></li>
 <li class="aroundtheweb"><a href="/connect/around-the-web/">Around the Web<span class="rollover" style="width: 0; display:none;">Around the Web</span></a></li>
+<li class="celebration"><a href="/connect/celebration/">Celebration VI<span class="rollover" style="width: 0; display:none;">Celebration VI</span></a></li>
 </ul>
 </li>
 </ul>
@@ -523,6 +564,5 @@ po.src = 'https://apis.google.com/js/plusone.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 })();
 </script>
-<!-- Begin: www.iperceptions.com --><script src="http://ips-invite.iperceptions.com/webValidator.aspx?sdfc=998c0eef-103924-d2d753ab-1878-404b-961e-d5d3767f521d&amp;lID=1&amp;loc=STUDY&amp;cD=90&amp;rF=False&amp;iType=1&amp;domainname=0" type="text/javascript" defer="defer"></script><!-- End: www.iperceptions.com -->
 
 <div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
