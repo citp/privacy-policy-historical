@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the amc.edu privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121010742id_/http%3A//www.amc.edu/About%2520Us/web_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amc.edu privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619164148id_/http%3A//www.amc.edu/About%2520Us/web_privacy.html) for the most accurate reproduction.*
 
 # Albany Medical Center: Consumer Website Privacy Statement
+
+  
+
 
 **Introduction  
 ** Your Privacy is important to us at Albany Medical Center (AMC). The only information AMC obtains about individual visitors to this website is information supplied voluntarily by the visitor. This statement outlines the policies and practices of AMC regarding the collection and use of your personal information from your visit to our website. AMC has created this privacy statement to demonstrate our commitment to maintain the privacy of visitors to our website.
