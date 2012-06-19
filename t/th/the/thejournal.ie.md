@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thejournal.ie privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221032104id_/http%3A//www.thejournal.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejournal.ie privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619052129id_/http%3A//www.thejournal.ie/privacy) for the most accurate reproduction.*
 
-# Privacy · TheJournal.ie
+# TheJournal.ie - Read, Share and Shape the News
 
 ### Introduction
 
-Your privacy is important to us and this privacy statement sets out how Distilled Media Ltd. collects, uses and protects any information you give us when you use TheJournal.ie. If you give us any information by which you can be identified when using TheJournal.ie then we will use it only in accordance with this privacy statement.
+Your privacy is important to us and this privacy statement sets out how Journal Media Ltd. collects, uses and protects any information you give us when you use TheJournal.ie. If you give us any information by which you can be identified when using TheJournal.ie then we will use it only in accordance with this privacy statement.
 
 We may change this privacy statement from time to time. When we do we will notify you of the changes by adding an “updated” icon next to the Privacy link on the front page of the site for two weeks from the date of the change. By continuing to use the site you agree to these changes.
 
