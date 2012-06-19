@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydeal.com.my privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213012632id_/http%3A//www.mydeal.com.my/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydeal.com.my privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620004033id_/http%3A//www.mydeal.com.my/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyDEAL.com.my - Malaysia at half the price!
 
@@ -8,8 +8,8 @@ MYDEAL.com.my may collect and use the following kinds of personal information:
 
 Any information about your use of this website  
 Any information that you provide while registering with the website  
-Any information about transactions carried out over this website   
-Any information that you provide for the purpose of subscribing to the website services   
+Any information about transactions carried out over this website  
+Any information that you provide for the purpose of subscribing to the website services  
 Any other information that you send to MYDEAL.com.my
 
 MYDEAL.com.my may use your personal information to:
@@ -27,6 +27,14 @@ Send you marketing communications
 Where MYDEAL.com.my discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
 
 In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, MYDEAL.com.my may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
+
+Cookies are small packets of data that are stored in your browser when you visit our site. Data stored includes, but not limited to, user preferences, session and other information. We use these information to understand our users better, customize our services and promote effective and tailored ads. In short, cookies allow us to improve overall user experience.
+
+On certain pages on the site, third parties may also place or recognize unique cookies in your browser. The use of these cookies is not governed by this policy but is subject to their own policies and we do not have control over that.
+
+You can choose to refuse or remove cookies. However if you do this, some website services or features may not function properly.
+
+We do promotions on other third party sites, including Google, hence our ads are shown on these sites. However, our ads are completely independent of the the sites' policy, content, etc.
 
 MYDEAL.com.my will take all reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
@@ -48,10 +56,11 @@ This website may contain links to other websites; MYDEAL.com.my is not responsib
 
 If you have any questions about this privacy policy or MYDEAL.com.my’s treatment of your personal information, please write to:
 
-By email to: [info@MyDEAL.com.my](mailto:info@MyDEAL.com.my)   
-Or   
+By email to: [info@MyDEAL.com.my](mailto:info@MyDEAL.com.my)  
+Or  
 By post to:  
-MyDEAL Sdn Bhd  
-Unit 12-06, Level 12, Plaza 138,   
-No. 138, Jalan Ampang,   
-50450 Kuala Lumpur
+MyDeal Sdn. Bhd.  
+Unit 15-01, 15th Floor  
+Menara Multi-Purpose  
+No.8 Jalan Munshi Abdullah  
+50100 Kuala Lumpur
