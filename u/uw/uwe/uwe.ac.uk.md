@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104035410id_/http%3A//www.uwe.ac.uk/aboutus/websiteinformation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619235035id_/http%3A//www.uwe.ac.uk/aboutus/websiteinformation/privacy) for the most accurate reproduction.*
 
 # Privacy - UWE Bristol: Website information
 
-The University of the West of England, Bristol respects the privacy of users of its web site. This Privacy Policy applies to any page from which it is linked. Special terms which apply only to **Blackboard** (the University's virtual learning environment ) are grouped later in this document. Users of **myUWE** should also consult our advice on [Protecting your privacy](http://info.uwe.ac.uk/myuwe/guidance/protectingprivacy.asp).
+The University of the West of England, Bristol (UWE) respects the privacy of users of its web site. This Privacy Policy applies to any UWE web site  from which it is linked. Special terms which apply only to **Blackboard** (the University's virtual learning environment ) are grouped later in this document. Users of **myUWE** should also consult our advice on [Protecting your privacy](http://info.uwe.ac.uk/myuwe/guidance/protectingprivacy.asp).
+
+## Cookies
+
+Please see the University's [Cookie Policy](https://web.archive.org/aboutus/websiteinformation/cookiepolicy.aspx). Also, the information (below) on tracking in **Blackboard** , which depends on use of cookies.
 
 ## Information you supply
 
@@ -18,11 +22,9 @@ You are not personally identifiable as an individual from such information alone
 
 To maintain and improve the quality of our website we use the Digital Analytix web metrics service provided by comScore. The Digital Analytix  Privacy Policy states that comScore"do not link IP-addresses of your website visitors to individuals" and that where measuring data includes personal data that comScore will process such data only on our behalf and will not use the data on its own behalf, nor make the data available to other comScore customers, unless the data have been anonimised and aggregated (i.e. are no longer linked to an individual or to our website).
 
-Some UWE web pages use Google Analytics rather than Digital Analytix. These include the [UWE new campus](http://www.uwenewcampus.com/) web pages. Google Analytics is a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies to measure use of websites. For more information about these cookies please see our [Cookie Policy](https://web.archive.org/aboutus/websiteinformation/cookiepolicy.aspx).
+Some UWE web pages use Google Analytics rather than Digital Analytix. These include the [UWE new campus](http://www.uwenewcampus.com/) web pages and internal wesbites for staff and students. Google Analytics is a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies to measure use of websites. For more information about these cookies please see our [Cookie Policy](https://web.archive.org/aboutus/websiteinformation/cookiepolicy.aspx).
 
-## Cookies
-
-Please see the University's [Cookie Policy](https://web.archive.org/aboutus/websiteinformation/cookiepolicy.aspx). Also, the information (below) on tracking in **Blackboard** , which depends on use of cookies.
+If you visited the UWE website by following a Google Adwords link, Google willl have set a cookie to confirm that you have used their service.  The UWE website will support confirmation that the Adword has been used.
 
 ## Personal disclosures
 
@@ -48,12 +50,7 @@ This statement should be read in conjunction with the University's IT Monitoring
 
 Participation in a Blackboard course or organisation may require you to send and receive e-mail. Your tutor may correspond with you through e-mail and may in addition require you to communicate with fellow students through e-mail. Your e-mail address will also be published if you post to a discussion board within Blackboard. By participating in a Blackboard course or organisation you consent to the publication of your e-mail address within the Blackboard system. UWE Students must not publish another students e-mail address without their express informed consent.
 
-You should not use the e-mail facility within Blackboard to e-mail _en masse_ to your fellow students, unless this has been expressly authorised by the tutor. You are reminded that the sending of e-mail via Blackboard is governed by the University's E-mail Policy.  
-
-
-## Web beacons
-
-We use web beacons to gather information about how our web site is used. We do not gather personal information from their use.
+You should not use the e-mail facility within Blackboard to e-mail _en masse_ to your fellow students, unless this has been expressly authorised by the tutor. You are reminded that the sending of e-mail via Blackboard is governed by the University's E-mail Policy.
 
 ## UWE e-mail privacy
 
