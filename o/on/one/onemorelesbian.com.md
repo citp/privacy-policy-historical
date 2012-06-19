@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onemorelesbian.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210034id_/http%3A//www.onemorelesbian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemorelesbian.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619044436id_/http%3A//www.onemorelesbian.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch your favorite lesbian movies, short films, television storylines, web series, and more on one site | One More Lesbian
+# Privacy Policy | One More Lesbian | Film, Television and Video On Demand
 
 Please also visit our[ Terms of Use](http://www.onemorelesbian.com/terms-of-use) section that explains other terms governing the use of our website.
 
