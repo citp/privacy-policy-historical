@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themirch.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220080948id_/http%3A//www.themirch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themirch.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619192120id_/http%3A//www.themirch.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Themirch.com
+# Privacy Policy - Myadsclassified.com
 
 **
 
@@ -60,6 +60,6 @@ Changes to the Privacy Policy
 
 We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings.
 
-As Themirch.com continues to develop, we may add new services and features to our site. In the event that these additions, changes to the law or changes to Themirch.com's terms of use affect our Privacy Policy, this document will and can be updated when it is appropriated. Your continued use of the web site after the effective date of any changes will constitute your acceptance of all of the changes.
+As Themirch.com continues to develop, we may add new services and features to our site. In the event that these additions, changes to the law or changes to Themirch.com 's terms of use affect our Privacy Policy, this document will and can be updated when it is appropriated. Your continued use of the web site after the effective date of any changes will constitute your acceptance of all of the changes.
 
 While this Privacy Policy states our standards for maintenance of Data and we will make efforts to meet them, we are not in a position to guarantee these standards. There may be factors beyond our control that may result in disclosure of data. As a consequence, we disclaim any warranties or representations relating to maintenance or nondisclosure of Data.
