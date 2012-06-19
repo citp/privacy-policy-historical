@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstbanknigeria.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122134237id_/http%3A//www.firstbanknigeria.com/Home/tabid/37/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstbanknigeria.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619230902id_/http%3A//www.firstbanknigeria.com/Home/tabid/37/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # First Bank of Nigeria Plc. > Home
 
