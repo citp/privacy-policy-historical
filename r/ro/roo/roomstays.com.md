@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomstays.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095301id_/http%3A//www.roomstays.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomstays.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619054046id_/http%3A//www.roomstays.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - RoomStays.com
 
@@ -23,7 +23,7 @@ Cookies are pieces of information that is stored in your computer about you duri
 
 ##### Logged Information
 
-The information that we use to analyze the trends is the customer’s IP addresses. This also allows us to monitor the movements of the users as well as to effectively administer the website. This opens doors to broad demographic information, and other statistics. The IP addresses, however, are not liked to personally identifiable information.
+The information that we use to analyze the trends is the customer's IP addresses. This also allows us to monitor the movements of the users as well as to effectively administer the website. This opens doors to broad demographic information, and other statistics. The IP addresses, however, are not liked to personally identifiable information.
 
 ##### Credit Card Processing
 
