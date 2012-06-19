@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the takepart.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011430id_/http%3A//www.takepart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takepart.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619043115id_/http%3A//www.takepart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TakePart - News, Culture, Videos and Photos That Make the World Better
+# Privacy Policy
 
 Effective February 25, 2009
 
