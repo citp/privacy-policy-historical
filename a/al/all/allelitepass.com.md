@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allelitepass.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219082436id_/http%3A//track.elitedollarz.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allelitepass.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619044837id_/http%3A//track.elitedollarz.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
