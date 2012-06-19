@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techno360.in privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221181108id_/http%3A//www.techno360.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techno360.in privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619190858id_/http%3A//www.techno360.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,3 +43,9 @@ These third-party ad servers or ad networks use technology to the advertisements
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [www.techno360.in](http://www.techno360.in/)‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+### [Ramakanth](http://www.techno360.in/author/Ramakanth/ "Ramakanth")
+
+Ramakanth is lead writer & one of the Founder of Techno360. He covers security, freebies, web-browsers,Windows OS and a variety of other subjects. He earned his degree at Anna university,worked in IT support for several years, and has been writing at Techno360 since 2008.
+
+[More Posts](http://www.techno360.in/author/Ramakanth/ "More posts by Ramakanth") \- [Website](http://www.techno360.in/ "Ramakanth")
