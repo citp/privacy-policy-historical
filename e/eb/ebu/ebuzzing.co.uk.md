@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebuzzing.co.uk privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113025206id_/http%3A//www.ebuzzing.co.uk/mention) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuzzing.co.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620000249id_/http%3A//www.ebuzzing.co.uk/legal) for the most accurate reproduction.*
 
-# ebuzzing
+# Legal info
 
 ebuzzing respects your privacy. Our purpose in collecting information from you is to help us provide you with better service and tailor ebuzzing to your needs, likes and dislikes. We will not wilfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. ebuzzing complies with the Data Protection Act 1998 in all use of personal data. 
 
