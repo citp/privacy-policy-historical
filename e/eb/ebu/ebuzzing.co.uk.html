@@ -1,237 +1,125 @@
-<!--The following is the downloaded HTML source of the ebuzzing.co.uk privacy policy that was archived on 2011-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111113025206id_/http%3A//www.ebuzzing.co.uk/mention) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebuzzing.co.uk privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620000249id_/http%3A//www.ebuzzing.co.uk/legal) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
-<meta property="fb:admins" content="100001775184018,100001788355269">
+<meta property="fb:admins" content="100001775184018">
 <meta property="fb:app_id" content="166665226705007">
 <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-<title>ebuzzing</title>
-<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="http://www.ebuzzing.co.uk/css/style_v2.css">
+<title>Legal info</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="http://www.ebuzzing.co.uk/css/style_v3.css">
 <link type="text/css" media="screen" rel="stylesheet" href="http://www.ebuzzing.co.uk/css/colorbox.css">
 <link type="text/css" media="screen" rel="stylesheet" href="http://www.ebuzzing.co.uk/css/form.css">
 <!--[if lte IE 6]>
 	<link rel="stylesheet" type="text/css" href="http://www.ebuzzing.co.uk/css/ie6_v2.css"/>
-<![endif]--> 
-
-<script type="text/javascript" src="http://www.ebuzzing.co.uk/js/swfobject.js"></script>
+<![endif]-->
+<!--[if IE 8]>
+	<link rel="stylesheet" media="screen" type="text/css" href="/css/ie8.css" />
+<![endif]-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.ebuzzing.co.uk/js/swfobject.js"></script>
 <script type="text/javascript" src="http://www.ebuzzing.co.uk/js/checkform.js"></script>
+
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.ebuzzing.co.uk/js/lib/jquery/jquery.colorbox-min.js"></script>
-<script src="http://www.ebuzzing.co.uk/js/cufon-yui.js" type="text/javascript"></script>
-<script src="http://www.ebuzzing.co.uk/js/code.font.js" type="text/javascript"></script>
-<script type="text/javascript">
-    /** cfun menu **/
-    Cufon.replace('.menu');
-    Cufon.replace('.title-column');
-    Cufon.replace('.title-page');
-    Cufon.replace('.title-side');
-    Cufon.replace('.blog-post-title');
-    Cufon.replace('.blog-side-title');
-    Cufon.replace('.index-title-schema');
-    Cufon.replace('.index-h4');
-    Cufon.replace('.vid-article');
-    
-</script>
+
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2652807-3']);
+			_gaq.push(['_setDomainName', 'ebuzzing.co.uk']);
+		    _gaq.push(['_setCustomVar', 1, 'dom_id', '3', 2]);
+    _gaq.push(['_trackPageview']);
+
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		<!--#google analytics script-->
 </head>
 <body>
-    <!--header-->
-    <script language="javascript">
+	<script src="/js/header.js" type="text/javascript"></script>
 
-$(document).ready(function(){
-    /* choose language */
-    var nav_delay = 1000;
-    var nav_timer;
-     function hideNav(jelement){
-        if (typeof(jelement) == 'undefined'){
-            jelement = $("ul.topnav");
-        }else{
-            jelement = $(jelement);
-        }
-        jelement.parent().find("ul.subnav").slideUp('slow').hide();
-        
-    }
-    function resetTimerNav(){  
-        clearTimeout(nav_timer);
-    }
-    $("ul.topnav>li>a").click(function() { //When trigger is clicked...  
-        $("ul.topnav>li>a").parent().find("ul.subnav").slideDown('fast').show(); //Drop down the subnav on click  
-        //Following events are applied to the subnav itself (moving subnav up and down)  
-
-        return false;
-        //Following events are applied to the trigger (Hover events for the trigger)  
-        }).hover(function() {
-            
-            $(this).addClass("subhover"); //On hover over, add class "subhover"  
-        }, function(){  //On Hover Out 
-            $(this).removeClass("subhover");
-            //clearTimeout(nav_timer);
-    });  
-    
-      
-  
-    $("ul.topnav").mouseenter(function() {
-            if (typeof(nav_timer) != 'undefined'){ 
-                clearTimeout(nav_timer);
-            }
-    });
-    $("ul.topnav").mouseleave(function(){
-            nav_timer = setTimeout(hideNav,200, [this]); 
-            
-        });  
-  
-
-
-    /* Connexion form */
-    
-    function setfocus(element){
-        element.focus();
-    }
-    $(".connect>span").click(function() { //When trigger is clicked...  
-        if (!$(this).hasClass('open')){
-            return false;
-        }
-        var div_form = $(this).parent().find("div.ident-form");
-        
-        $(this).parent().find("div.ident-form").slideDown('fast', function(){setfocus(div_form.find('input[name=login]'));}).show(); //Drop down the subnav on cli
-        //$(this).html('<a>login</a>');
-        
-        
-        $(this).addClass('open');
-        
-        return false;
-        //Following events are applied to the trigger (Hover events for the trigger)  
-        });
-    $('.connect #forgot_btn').click(function(){
-        $('#form_conn').hide();
-        $('#forget').show();
-        return false;
-    });
-    $('.door').click(function(){
-        //Following events are applied to the subnav itself (moving subnav up and down)  
-            $("div.ident-form").slideUp('fast').hide(); //Drop down the subnav on click  
-            $(".connect>span").addClass('open');
-            return false;
-    });
-    $('.connect #forgot_btn2').click(function(){        
-        $('#forget').hide();
-        $('#form_conn').show();
-        return false;
-    });
-    
-    
-    /** box inscription **/
-    $(document).ready(function(){
-        $('.editeur_inscription').colorbox({href:'/membre/_block/form_preinscription.php',height:'640px',width:'1024px'
-            //onClosed:function(){ document.location.href='../' }
-        }); 
-    });
-  
-}); 
-</script>
-
+<div class="p container white">
 <div class="header">
-    <div class="wrap">
-    	        <a class="logo" href="http://www.ebuzzing.co.uk"> 
-            <img src="http://www.ebuzzing.co.uk/language/uk/images/logoebuzzing.png" alt="logo">
-        </a>
-        <div class="menu">
-            <ul>
-                                    <li><a href="http://www.ebuzzing.co.uk">Home</a></li>
-                                    <li><a href="/annonceurs/">Advertisers</a></li>
-                                    <li><a href="/bloggeurs/">Editors</a></li>
-                                    <li><a href="http://blogen.ebuzzing.com">Our blog</a></li>
-                                    <li><a href="/a_propos/a_propos.php">About</a></li>
-                                    <li><a href="/contact-us/">Contact</a></li>
-                            </ul>
-        </div>
-                <!-- INSCRIPTION -->
+	<div class="wrap">
+		<a class="logo" href="http://www.ebuzzing.co.uk">Ebuzzing</a>
+		<div class="menu">
+			<ul><li><a href="/">Home</a></li><li><a href="/advertisers/">Advertisers</a></li><li><a href="/publishers/">Publishers</a></li><li><a href="http://labs.ebuzzing.co.uk">Ebuzzing Labs</a></li><li><a href="http://blog.ebuzzing.co.uk">Our blog</a></li></ul>		</div>
+				<!-- INSCRIPTION -->
 
-        <div class="subscribe"><a class="editeur_inscription" href="/membre/?inscrit=1&amp;devenez=buzz">Create an account</a></div>
-        <!--formulaire de connexion-->            
+		<div class="subscribe"><a class="editeur_inscription" href="/membre/?inscrit=1&amp;devenez=buzz">Create an account</a></div>
+		<!--formulaire de connexion-->
 
-            <div class="connect">
-                <div class="ident-form login ">
-                    <span class="door"></span>
-                    <div class="cl"></div>
-                    <form action="../" method="post" name="identi" id="identi">                        <!--#form connect-->
-                        <div name="form_conn" id="form_conn">
-                            <div class="login-line"> 
-                                <label class="login-label">Username:</label>  
-                                <input class="login-text" type="text" name="login">
-                                <div class="cl"></div>
-                            </div>
-                            <div class="login-line"> 
-                                <label class="login-label">Password:</label> 
-                                <input class="login-text" type="password" name="pass"> 
-                                <div class="cl"></div>
-                            </div>
-                                                        <div class="login-line login-last-line">
-                                <p class="login-forgot">
-                                    <input type="checkbox" name="post_autologin" value="true">&nbsp;stay connected                                    <br><a id="forgot_btn" href="#">Forgotten Password</a><br>
-                                </p>
-                                <input class="login-button" type="submit" value="Validate"> 
-                                <div class="cl"></div>
-                            </div>
-                        </div>
-                        <!--#form connect-->
-                        
-                        <!--form password forgot-->
-                        <div id="forget" name="oublier" style="display:none">                        
-                            <div class="login-line"> 
-                                <label class="login-label">Enter your email:</label>  
-                                <input class="login-text" type="text" name="email1">
-                                <div class="cl"></div>
-                            </div>
-                            <div class="login-line login-last-line"> 
-                                <p class="login-forgot login-forgot-suite"><a class="" id="forgot_btn2" href="#">&lt;&lt; login</a></p>
-                                <input class="login-button" type="submit" value="Validate"> 
-                            </div>                                                
-                        </div>
-                        <!--#form password forgot-->
-                    </form>
-                </div>
-                <span class="open"><a href="">Login</a></span>
-            </div>
-        <!--#formulaire de connexion-->
-                <div class="flag">
-            <ul class="topnav">
-                <li>
-                    <a href="#"><img src="http://www.ebuzzing.co.uk/images/flag/flag-uk.png" alt="uk"></a>
-                    <ul class="subnav">
-                                  
-                            <li><a href="http://www.ebuzzing.com"><img src="http://www.ebuzzing.co.uk/images/flag/flag-fr.png">France</a></li>
-                                         
-                            <li><a href="http://www.ebuzzing.co.uk"><img src="http://www.ebuzzing.co.uk/images/flag/flag-uk.png">United Kingdom</a></li>
-                                         
-                            <li><a href="http://www.ebuzzing.co.uk"><img src="http://www.ebuzzing.co.uk/images/flag/flag-us.png">United States</a></li>
-                                         
-                            <li><a href="http://www.ebuzzing.it"><img src="http://www.ebuzzing.co.uk/images/flag/flag-it.png">Italia</a></li>
-                                         
-                            <li><a href="http://www.buzzeff.com"><img src="http://www.ebuzzing.co.uk/images/flag/flag-ma.png">Maroc</a></li>
-                                         
-                            <li><a href="http://www.ebuzzing.de"><img src="http://www.ebuzzing.co.uk/images/flag/flag-de.png">Deutschland</a></li>
-                                         
-                            <li><a href="http://www.ebuzzing.es"><img src="http://www.ebuzzing.co.uk/images/flag/flag-es.png">España</a></li>
-                                                   </ul>
-                </li>
-            </ul>
-        </div>
-        <div class="title">
-                            <h2 class="title-page">
-                    <a class="title-page" href="">Privacy policy</a>
-                                    </h2>
-                    </div>
-    </div>
+			<div class="connect">
+				<div class="ident-form login ">
+					<span class="door"></span>
+					<div class="cl"></div>
+					<form action="../" method="post" name="identi" id="identi">						<!--#form connect-->
+						<div name="form_conn" id="form_conn">
+							<div class="login-line">
+								<label class="login-label">Username:</label>
+								<input class="login-text" type="text" name="login">
+								<div class="cl"></div>
+							</div>
+							<div class="login-line">
+								<label class="login-label">Password:</label>
+								<input class="login-text" type="password" name="pass">
+								<div class="cl"></div>
+							</div>
+														<div class="login-line login-last-line">
+								<p class="login-forgot">
+									<input type="checkbox" name="post_autologin" value="true">&nbsp;stay connected									<br><a id="forgot_btn" href="#">Forgotten Password</a><br>
+								</p>
+								<input class="login-button" type="submit" value="Validate">
+								<div class="cl"></div>
+							</div>
+						</div>
+						<!--#form connect-->
+
+						<!--form password forgot-->
+						<div id="forget" name="oublier" style="display:none">
+							<div class="login-line">
+								<label class="login-label">Enter your email:</label>
+								<input class="login-text" type="text" name="email1">
+								<div class="cl"></div>
+							</div>
+							<div class="login-line login-last-line">
+								<p class="login-forgot login-forgot-suite"><a class="" id="forgot_btn2" href="#">&lt;&lt; login</a></p>
+								<input class="login-button" type="submit" value="Validate">
+							</div>
+						</div>
+						<!--#form password forgot-->
+					</form>
+				</div>
+				<span class="open"><a href="">Login</a></span>
+			</div>
+		<!--#formulaire de connexion-->
+		
+
+						
+
+		<!--<div class="title">
+							<h2 class="index-title-page index-title-page-uk"></h2>
+				<p class="index-title-schema index-title-schema-uk">We reach <span class="txt-highlight txt-highlight-uk">40.000.000</span> unique visitors each month</p>
+					</div>-->
+	</div>
 </div>
 
+<!--/div-->
+<div class="p container gray">
+
+	<div class="wrap">
+
+					<div class="breadcrumb">
+				<ul>
+				<li><a href="/">Ebuzzing</a></li><li><a href="/legal/">Privacy policy</a></li>				</ul>
+			</div>
+		
 
 
-    <!--#header-->
-    
-    <!--#content-->
-	<div class="content wrap full-width">
-        <div class="custom-domain" id="custom-domain-0"><div class="text">
+		<div class="main full-width">
+	<div class="custom-domain" id="custom-domain-0"><div class="text">
 <h1 class="main-title">Privacy policy</h1>
 <p>
 ebuzzing respects your privacy. Our purpose in collecting information from you is to help us provide you with better service and tailor ebuzzing to your needs, likes and dislikes. We will not wilfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. ebuzzing complies with the Data Protection Act 1998 in all use of personal data.
@@ -264,29 +152,103 @@ By using our site, you consent to the collection and use of your information as 
 <p>
 Feel free to contact us any time with any questions you may have regarding our privacy statement. Our email address is <a href="mailto:ebuzzing@ebuzzing.co.uk" style="text-decoration:underline;">ebuzzing@ebuzzing.co.uk</a>.
 </p>
-</div></div>	</div>
-    <!--#content-->
-    
-    <!--footer-->
-    
-<!--footer-->
-<div class="footer">
-    <div class="wrap">
-        <p class="left"><a href="http://www.ebuzzing.com">© Ebuzzing 2007-2011. </a></p>
-            
-            <!--copy right mentions legales, contact...-->
-        <ul class="right">
-            <li><a rel="nofollow" href="http://www.wikiogroup.com" target="_blank">Wikio group</a></li>
-            <li><a href="http://www.ebuzzing.co.uk/recrutement/" class="lien1">Recruitment</a></li>
-            <li><a href="http://www.ebuzzing.co.uk/bloggeurs/faq.php" class="lien1">FAQ</a></li>
-                                <li><a href="http://www.ebuzzing.co.uk/contact-us">Contact</a></li>
-                    <li><a href="http://www.ebuzzing.co.uk/mention">Privacy Policy</a></li>
-                                        <li><a href="http://www.ebuzzing.co.uk/CGV">Terms &amp; Conditions</a></li>                    </ul>
-            <!--#copy right mentions legales, contact...-->
-           
-            
-    </div>
-</div>
-<!--#footer-->    <!--#footer-->
+</div></div></div>
+	</div>
 
-</body></html>
+	<br style="clear: both;">
+
+	<!---->
+
+<!--footer-->
+	<div class="wrap">
+			<div class="footer">
+				<div class="colfoot">
+					<h4 class="footitle">
+						<a href="http://www.ebuzzing.co.uk/corporate/group/">About ebuzzing</a>
+					</h4>
+					<ul>
+						<li><a href="http://www.ebuzzing.co.uk/privacy/">Privacy</a></li>
+						<li><a href="http://www.ebuzzing.co.uk/corporate/group/">Company</a></li>
+						<li><a href="http://www.ebuzzing.co.uk/corporate/team/">The Team</a></li>
+						<li><a href="http://www.ebuzzing.co.uk/corporate/technologies/">Our technology</a></li>
+						<li><a href="http://www.ebuzzing.co.uk/corporate/investors/">Investors</a></li>
+						<li><a href="http://www.ebuzzing.co.uk/corporate/offices/">Locations</a></li>
+						<li><a href="http://blog.ebuzzing.co.uk">News</a></li> <!-- BLOG -->
+						<li><a href="http://blog.ebuzzing.co.uk/pages/press-review-5985279.html">Press Reviews</a></li>  <!-- BLOG -->
+						<li><a href="http://blog.ebuzzing.co.uk/pages/recruitment-5985263.html">Careers</a></li>  <!-- BLOG -->
+						<li><a href="http://www.ebuzzing.co.uk/contact/">Contact</a></li>
+					</ul>
+					<h4 class="footitle">
+						<a href="http://www.ebuzzing.co.uk/advertisers/">For Brands</a>
+					</h4>
+					<ul>
+						<li><a href="http://www.ebuzzing.co.uk/advertisers/">Our offers</a></li>
+						<li><a href="http://www.ebuzzing.co.uk/advertisers/facebook-fan-recruitment/">Facebook Fan Recruitment</a></li>
+						<li><a href="http://www.ebuzzing.co.uk/advertisers/video-seeding/">Social Video Advertising</a></li>
+						<li><a href="http://www.ebuzzing.co.uk/advertisers/sponsored-conversation/">Sponsored Posts</a></li>
+						<li><a href="http://labs.ebuzzing.co.uk">ereputation tools</a></li>  <!-- SOCIAL LABS -->
+						<li><a href="http://www.ebuzzing.co.uk/contact/">Contact</a></li>
+					</ul>
+				</div>
+				<div class="colfoot">
+				<h4 class="footitle">
+						<a href="http://labs.ebuzzing.co.uk">Ebuzzing Labs</a>  <!-- SOCIAL LABS -->
+					</h4>
+					<ul>
+						<li><a href="http://labs.ebuzzing.co.uk/top-blogs/">Top blogs</a></li>   <!-- SOCIAL LABS -->
+						<li><a href="http://labs.ebuzzing.co.uk/top-news/">Top News</a></li>    <!-- SOCIAL LABS -->
+						<li><a href="http://labs.ebuzzing.co.uk/top-videos/">Top videos</a></li>  <!-- SOCIAL LABS -->
+						<li><a href="http://labs.ebuzzing.co.uk/top-brands/">Top Brands</a></li>  <!-- SOCIAL LABS -->
+						<li><a href="http://www.ebuzzing.co.uk/corporate/ebuzzing-labs/" style="text-transform : capitalize;">About</a></li> 
+						   <!-- SOCIAL LABS -->
+					</ul>
+				<h4 class="footitle">
+					Our social platforms				</h4>
+					<ul>
+						<li><a href="http://www.ebuzzing.co.uk/corporate/overblog/">OverBlog</a></li>
+						<li><a href="http://www.ebuzzing.co.uk/corporate/nomao/">Nomao</a></li>
+					</ul>
+					<h4 class="footitle">
+						<a href="http://www.ebuzzing.co.uk/publishers/">For influencers</a>
+					</h4>
+					<ul>
+						<li><a href="http://www.ebuzzing.co.uk/publishers/">Monetise your audience</a></li>
+						<li><a href="http://labs.ebuzzing.co.uk">Free tools</a></li>   <!-- SOCIAL LABS -->
+						<li><a href="http://www.ebuzzing.co.uk/publishers/how-it-works/">Registration</a></li>
+						<li><a href="http://www.ebuzzing.co.uk/contact/">Contact</a></li>
+					</ul>
+				</div>
+				<div class="colfoot lastcol">
+					<ul class="social">
+						<li><a target="_blank" href="http://twitter.com/#!/ebuzzingUK">
+							<img src="/images/social/twitter.png" alt="Follow us on Twitter"></a></li>  <!-- PAGES SOCIALES -->
+						<li><a target="_blank" href="http://www.facebook.com/ebuzzing">
+							<img src="/images/social/facebook.png" alt="Follow us on Facebook"></a></li>  <!-- PAGES SOCIALES -->
+						<li><a target="_blank" href="http://www.linkedin.com/company/ebuzzing">
+               <img src="/images/social/linkedin.png" alt="See our Profile on Linkedin"></a></li>  <!-- PAGES SOCIALES -->
+						<li><a target="_blank" href="http://blog.ebuzzing.co.uk/rss-articles.xml">
+               <img src="/images/social/rss.png" alt="Keep posted"></a></li>  <!-- PAGES SOCIALES -->
+					</ul>
+					<div class="worldmap">
+						<h4 class="footitle">Ebuzzing Worldwide</h4>
+						<img src="/images/worldmap.png" alt="Ebuzzing Worldwide">
+					</div>
+					<p class="copyrights">
+						<a href="http://www.ebuzzing.co.uk" title="United Kingdom">UK</a> - 
+						<a href="http://www.ebuzzing.fr" title="France">FR</a> - 
+						<a href="http://www.ebuzzing.it" title="Italia">IT</a> - 
+						<a href="http://www.ebuzzing.es" title="España">ES</a> - 
+						<a href="http://www.ebuzzing.de" title="Deutschland">DE</a> - 
+						<a href="http://www.buzzef.com" title="Maghreb">MA</a>
+						<br>© Ebuzzing 2011 - <a href="http://www.ebuzzing.co.uk/legal/">Privacy policy</a> </p>
+				</div>
+				<div class="cb"></div>
+			</div>
+		</div>
+	</div>	<!--cedexis_tag-->
+		<!--#cedexis_tag-->
+
+	
+<!-- ebz js-->
+
+</div></body></html>
