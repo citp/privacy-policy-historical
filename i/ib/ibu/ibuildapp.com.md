@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibuildapp.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206230021id_/http%3A//ibuildapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibuildapp.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619034347id_/http%3A//ibuildapp.com/privacy-policy) for the most accurate reproduction.*
 
 # iBuildApp :: Create Free iPhone App Using Online Interface Builder| Android, iPad
 
