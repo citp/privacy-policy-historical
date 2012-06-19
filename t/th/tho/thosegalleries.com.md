@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thosegalleries.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618012553id_/http%3A//www.linkbucks.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thosegalleries.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619173015id_/http%3A//www.linkbucks.com/policy) for the most accurate reproduction.*
 
 # Linkbucks.com - Make money when people leave your website!
 
