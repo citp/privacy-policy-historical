@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hrp.org.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101111638id_/http%3A//www.hrp.org.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrp.org.uk privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619151956id_/http%3A//www.hrp.org.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Historic Royal Palaces > Home > Privacy Policy
+
+[](http://www.hrp.org.uk/)
 
 You are here: 
 
@@ -61,6 +63,10 @@ Cookies can help a website to arrange content to match your preferred interests 
 #####  Disabling/Enabling Cookies
 
 You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled.
+
+Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+
+If you'd like to opt out of cookies, please go to the Network Advertising Initiative website <http://www.networkadvertising.org/managing/opt_out.asp> (opens in a new window - please note that we're not responsible for the content of external websites)
 
   4. ###  General
 
