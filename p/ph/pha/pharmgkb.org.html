@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the pharmgkb.org privacy policy that was archived on 2011-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111215142745id_/http%3A//www.pharmgkb.org/home/policies/website_privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pharmgkb.org privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620011427id_/http%3A//www.pharmgkb.org/home/policies/website_privacy_policy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="yui3-js-enabled"><head>
+<!DOCTYPE html><html lang="en"><head>
   <title>Website Privacy Policy [PharmGKB]</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="keywords" content="pharmacogenetic,pharmacogenomic,knowledge base,database">
-  <meta http-equiv="X-UA-COMPATIBLE" content="IE=8">
   <link rel="SHORTCUT ICON" href="/favicon.ico">
   <link rel="search" type="application/opensearchdescription+xml" title="Search PharmGKB" href="/downloads/PharmGkbSearch.xml">
   <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build//reset-fonts-grids/reset-fonts-grids.css">
   <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build//assets/skins/sam/skin.css">
-  <link rel="stylesheet" type="text/css" href="/style/pyui.css">
+  <link rel="stylesheet" type="text/css" href="/style/pyui.css?v=1">
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=PT+Sans:400">
   
 
 
@@ -23,88 +24,90 @@
     _gaq.push(['_setAccount', 'UA-138735-1']);
     _gaq.push(['_trackPageview']);
     
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    (function () {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
     })();
   </script>
   
 </head>
 <body class="yui-skin-sam yui3-skin-sam">
-
-
+  
 <input id="yui-history-field" type="hidden">
 <a name="top"></a>
 <div id="doc2">
+  <nav id="hdQuickLinks">
+    <a href="/index.jsp">HOME</a> |
+    <a href="/views/publicationSummary.action">PUBLICATIONS</a> |
+    <a href="/submit/startFeedback.action?redirect=%2Fhome%2Fpolicies%2Fwebsite_privacy_policy.jsp">FEEDBACK</a> |
+    <a href="/startSignIn.action?redirect=%2Fhome%2Fpolicies%2Fwebsite_privacy_policy.jsp">SIGN IN</a>
+    
+    |
+    <form action="/search/search.action" onsubmit="return doSearch('hdQuery', 'Search PharmGKB');" method="get" class="globalSearch">
+      <input type="hidden" name="exactMatch" value="true">
+      <input type="hidden" id="hdQueryFlag" name="autoFlag" value="false">
+      <input type="search" id="hdQuery" name="query" value="Search PharmGKB" results="5" autosave="pgkbSearchHistory" onfocus="if (this.value == 'Search PharmGKB') { YAHOO.util.Dom.removeClass(this, 'placeholder'); this.value = ''; }" onblur="if (this.value == '') { YAHOO.util.Dom.addClass(this, 'placeholder'); this.value = 'Search PharmGKB'; }"><input type="submit" value="Submit">
+      <div id="hdQuerySuggestions"></div>
+    </form>
+  </nav>
   <div id="hd">
-    <div class="yui-gb">
-      <div class="yui-u first">
-        <a href="/index.jsp"><img src="/images/header/title.png" alt="PharmGKB:  The Pharmacogenomics Knowledge Base" width="288" height="55"></a>
+    <div class="logo">
+      <a href="/index.jsp"><img src="/images/header/title.png" alt="PharmGKB: The Pharmacogenomics Knowledgebase" width="265" height="50"></a>
+      
+      <div class="logoTagline">
+        Pharmacogenomics. Knowledge. Implementation.
       </div>
-      <div id="hdSearch" class="yui-u searchBar">
-        
-        <form action="/search/search.action" onsubmit="return doSearch('hdQuery', 'Search PharmGKB');" method="get">
-          <input type="hidden" name="exactMatch" value="true">
-          <input type="text" id="hdQuery" name="query" value="Search PharmGKB" onfocus="if (this.value == 'Search PharmGKB') { this.className = ''; this.value = ''; }" onblur="if (this.value == '') { this.className = 'placeholder'; this.value = 'Search PharmGKB'; }">
-          <input type="hidden" id="hdQueryFlag" name="autoFlag" value="false">
-          <button type="submit" onmouseover="this.className='hover';" onmouseout="this.className='';"><img src="/images/icon-search.png" alt="Do Search"></button>
-          <button type="button" style="cursor: help;" onclick="openHelp('/help/faqs/general/searchpharmgkb.htm');" onmouseover="this.className='hover';" onmouseout="this.className='';">?</button>
-          <div id="hdQuerySuggestions"></div>
-        </form>
-        
-      </div>
-      <div id="hdButtons" class="yui-u">
-        <a id="btnSignIn" href="/startSignIn.action?redirect=%2Fhome%2Fpolicies%2Fwebsite_privacy_policy.jsp">Sign In</a>
-        
-        <a id="btnFeedback" href="/submit/startFeedback.action?redirect=%2Fhome%2Fpolicies%2Fwebsite_privacy_policy.jsp">Feedback</a>
-      </div>
+      
     </div>
-    <div id="hdBar" class="yuimenubar yuimenubarnav">
-      <div class="bd">
-        <ul class="first-of-type">
-          <li class="yuimenubaritem first-of-type"><span class="yuimenubaritemlabel" "="">Home</span>
+  </div>
+  <nav>
+  <div id="hdBar" class="yuimenubar yuimenubarnav">
+    <div class="bd">
+      <ul class="first-of-type">
+        <li class="yuimenubaritem first-of-type"><span class="yuimenubaritemlabel">About Us</span>
   <div class="yuimenu">  <div class="bd"><ul class="first-of-type">
-    <li class="yuimenuitem first-of-type"><a class="yuimenuitemlabel" href="/index.jsp">Home</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/home/pharmgkb_mission_statement.jsp">Mission</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/home/overview.jsp">Overview</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/redirect.jsp?p=http%3A%2F%2Fweb.mac.com%2Frussbaltman%2FSite%2FPharmGKBlog%2FPharmGKBlog.html" target="_blank">Blog</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/home/viewNewsArchive.action">News</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/views/viewEvents.action">Events</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/home/pharmgkb_projects.jsp">Projects</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/home/policies/index.jsp">Policies</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/home/pharmgkb_team.jsp">Team</a></li>
+    <li class="yuimenuitem first-of-type"><a class="yuimenuitemlabel" href="/aboutUs.jsp">About Us</a></li>
+    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/page/overview">Overview</a></li>
+    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/page/sab">SAB</a></li>
+    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/page/history">History</a></li>
+    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/page/outreach">Outreach</a></li>
+    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/page/policies">Policies</a></li>
     <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/home/registration/step1.action">Register</a></li>
   </ul></div></div>
 </li>
-<li class="yuimenubaritem"><span class="yuimenubaritemlabel" "="">Search</span>
+<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/news.jsp">News &amp; Events</a>
+</li><li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/projects.jsp">Projects</a>
+</li><li class="yuimenubaritem"><span class="yuimenubaritemlabel">Search</span>
   <div class="yuimenu">  <div class="bd"><ul class="first-of-type">
     <li class="yuimenuitem first-of-type"><a class="yuimenuitemlabel" href="/search/index.jsp">Search</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/query/index.jsp">Queries</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/browseAlpha.action?browseKey=annotatedGenes">Genes</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/browseAlpha.action?browseKey=variantDrug">Drugs</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/browseAlpha.action?browseKey=variantDisease">Diseases</a></li>
+    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/browseAlpha.action?browseKey=allGenes">Genes</a></li>
+    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/browseAlpha.action?browseKey=allDrugs">Drugs</a></li>
+    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/browseAlpha.action?browseKey=allDiseases">Diseases</a></li>
     <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/browse/pathways.action">Pathways</a></li>
   </ul></div></div>
 </li>
-<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/resources/downloads_and_web_services.jsp">Download</a>
+<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/downloads.jsp">Download</a>
 </li><li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/resources/index.jsp">Help</a>
-</li><li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/views/loadConsortia.action">Consortia</a>
 
-        </li></ul>
-      </div>
+        
+      </li></ul>
     </div>
-    <!-- end header -->
   </div>
+  </nav>
+  <!-- end header -->
   <div id="bd">
     <!-- start content -->
 <div class="wikiHome">
 <h1>Website Privacy Policy</h1>
-				    <p>PharmGKB has adopted a set of information management guidelines which serve as the basis for our relationship with our users. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect and registered users will be notified via email.</p>
+                    <p>PharmGKB has adopted a set of information management guidelines which serve as the basis for our relationship with our users. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect and registered users will be notified via email.</p>
 
 <p>PharmGKB is not responsible for the content or the privacy policies of Web sites to which it may link.</p>
 
-<h4><a name="WebsitePrivacyPolicy-WhatinformationdoesPharmGKBgather%2Ftrackaboutyou%3F"></a>What information does PharmGKB gather/track about you?</h4>
+<h4 id="WebsitePrivacyPolicy-WhatinformationdoesPharmGKBgathertrackaboutyou">What information does PharmGKB gather/track about you?</h4>
 
 <dl>
   <dt>Registration:</dt>
@@ -122,7 +125,7 @@
 </dl>
 
 
-<h4><a name="WebsitePrivacyPolicy-WhatdoesPharmGKBdowiththeinformationitgathers%2Ftracks%3F"></a>What does PharmGKB do with the information it gathers/tracks?</h4>
+<h4 id="WebsitePrivacyPolicy-WhatdoesPharmGKBdowiththeinformationitgatherstracks">What does PharmGKB do with the information it gathers/tracks?</h4>
 
 <dl>
   <dt>Statistical Analysis:</dt>
@@ -140,7 +143,7 @@
 </dl>
 
 
-<h4><a name="WebsitePrivacyPolicy-WithwhomdoesPharmGKBsharetheinformationitgathers%2Ftracks%3F"></a>With whom does PharmGKB share the information it gathers/tracks?</h4>
+<h4 id="WebsitePrivacyPolicy-WithwhomdoesPharmGKBsharetheinformationitgatherstracks">With whom does PharmGKB share the information it gathers/tracks?</h4>
 
 <p>PharmGKB does not share the information it gathers/tracks with anyone.</p>
 
@@ -153,7 +156,7 @@
 </dl>
 
 
-<h3><a name="WebsitePrivacyPolicy-CompliancewithLegalProcess"></a>Compliance with Legal Process</h3>
+<h3 id="WebsitePrivacyPolicy-CompliancewithLegalProcess">Compliance with Legal Process</h3>
 
 <p>We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to</p>
 <ul>
@@ -164,7 +167,7 @@
 </ul>
 
 
-<h3><a name="WebsitePrivacyPolicy-CorrectionsandOptingOut"></a>Corrections and Opting-Out</h3>
+<h3 id="WebsitePrivacyPolicy-CorrectionsandOpting-Out">Corrections and Opting-Out</h3>
 
 <p>Upon request, PharmGKB will</p>
 
@@ -176,41 +179,36 @@
 
 <p>Please note that since PharmGKB accounts are tied to data submissions, users cannot cancel their accounts.</p>
 </div>
-
-  <!-- end content -->
+<!-- end content -->
   </div>
-  <div id="ft">
+  <footer id="ft">
     <!-- footer -->
     <div id="footerBar" class="yuimenubar yuimenubarnav">
       <div class="bd">
         <ul class="first-of-type">
           <li class="yuimenubaritem first-of-type"><a class="yuimenubaritemlabel" href="/submit/startFeedback.action?redirect=%2Fhome%2Fpolicies%2Fwebsite_privacy_policy.jsp">Feedback</a></li>
-          <li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/sitemap.jsp">Sitemap</a></li>
-          <li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/home/policies/website_privacy_policy.jsp">Privacy Policy</a></li>
-          <li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/home/policies/web-data.jsp">Usage Conditions</a></li>
+          <li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/page/citingPharmgkb">Citing PharmGKB</a></li>
           <li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/home/acknowledgments.jsp">Acknowledgements</a></li>
-          <li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/home/policies/index.jsp#citing">Citing PharmGKB</a></li>
-          
           
         </ul>
       </div>
     </div>
     <div id="ftContent">
-      PharmGKB® is a registered trademark of <a href="http://www.hhs.gov/" target="offsite">HHS</a> and is
-      financially supported by <a href="http://www.nih.gov/" target="offsite">NIH</a>/<a href="http://www.nigms.nih.gov/" target="offsite">NIGMS</a>.
-      It is managed at <a href="http://www.stanford.edu/" target="offsite">Stanford University</a> (R24 GM61374).<br>
-      ©2001-2011 PharmGKB.
+      PharmGKB® is a registered trademark of <a href="/redirect.jsp?p=http%3A%2F%2Fwww.hhs.gov%2F" target="offsite">HHS</a> and is
+      financially supported by <a href="/redirect.jsp?p=http%3A%2F%2Fwww.nih.gov%2F" target="offsite">NIH</a>/<a href="/redirect.jsp?p=http%3A%2F%2Fwww.nigms.nih.gov%2F" target="offsite">NIGMS</a>.
+      It is managed at <a href="/redirect.jsp?p=http%3A%2F%2Fwww.stanford.edu%2F" target="offsite">Stanford University</a> (R24 GM61374).<br>
+      ©2001-2012 PharmGKB.
     </div>
-    <div id="debugLogMsgs"></div>
+    <div id="debugLogMsgs" class="yui3-skin-sam"></div>
     <div id="pgkbDialog" class="yui-pe-content" style="display: none;">
       <div class="hd" id="pgkbDialogHead"></div>
       <div class="bd" id="pgkbDialogBody">
       </div>
     </div>
-  </div>
+  </footer>
 </div>
 
-<script type="text/javascript" src="/yui?3.3.0/build/yui/yui-min.js"></script>
+<script src="http://yui.yahooapis.com/3.5.0/build/yui/yui-min.js"></script>
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/json/json-min.js"></script>
 
@@ -227,13 +225,10 @@
 
 <!-- end page-specific stuff -->
 <script type="text/javascript">
-  YAHOO.util.Event.onContentReady("hd", function() {
-    new YAHOO.widget.Button("btnSignIn");
-    new YAHOO.widget.Button("btnFeedback");
-    
+  YAHOO.util.Event.onContentReady("hdQuickLinks", function() {
     var query = document.getElementById('hdQuery');
     if (query.value == 'Search PharmGKB') {
-      query.className = 'placeholder';
+      YAHOO.util.Dom.addClass(query, 'placeholder');
     } else {
       query.focus();
     }
@@ -249,9 +244,10 @@
         });
       });
   
+  YUI().use('pgkb-core', function (Y) {
+    Y.pgkb.initPage();
+  });
 </script>
-
-
 
 
 </body></html>
