@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfan.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226154627id_/http%3A//newyork.cbslocal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfan.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619091104id_/http%3A//newyork.cbslocal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy « CBS New York
 
