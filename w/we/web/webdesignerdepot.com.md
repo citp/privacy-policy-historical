@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesignerdepot.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225132410id_/http%3A//www.webdesignerdepot.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignerdepot.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619191230id_/http%3A//www.webdesignerdepot.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy | Webdesigner Depot
 
