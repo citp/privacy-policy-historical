@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abstrusegoose.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101113125id_/http%3A//abstrusegoose.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abstrusegoose.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619074455id_/http%3A//abstrusegoose.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
