@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the henkel.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222091214id_/http%3A//www.henkel.com/privacy-policy-12200.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henkel.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620005329id_/http%3A//www.henkel.com/privacy-policy-12200.htm) for the most accurate reproduction.*
 
-# Henkel - Privacy Statement
+# Privacy Statement - Henkel
 
 **1\. General**  
 Henkel AG & Co. KGaA, hereinafter referred to as Henkel, respects the privacy of each person who visits our website. Now we would like to inform you of the type of data collected by Henkel and how they are used. You will also learn how you can check the accuracy of this information and arrange for the deletion of these data by Henkel. Data are collected, processed and used in conformity with the data protection regulations of the country in which the responsible data processing department is located. We take any action required to ensure compliance. 
@@ -26,7 +26,7 @@ Any changes to this Privacy Statement will be published on this page. This enabl
 ** To facilitate the use of our website, we are using "cookies". Cookies are small units of data temporarily stored on the hard disk of your computer by your browser that are necessary for using our website. The information contained in cookies serves, e.g., the purpose of session control, in particular improved navigation and allows for a high level of user-friendliness of a website. The cookies that we use do not store any person-related data. The majority of web browsers automatically accepts cookies. You can avoid this by changing the settings of your browser. You can remove the cookies stored on your PC any time by deleting the temporary Internet files (Browser bar "Tools/Extras"-"Internet options").
 
 **6\. Your Wishes and Queries / Data Protection Officer  
-** Stored data will be deleted by Henkel upon expiration of the statutory or contractual filing period or if Henkel no longer requires the same. At any time, you may, of course, ask for the deletion of your data. You are also entitled at any time to revoke your consent to the use or processing of your person-related data with future effect. In these cases, or if you have any other wishes in connection with your person-related data, please send an e-mail or a letter to our data protection officer, Mr. Andreas von Bernstorff, Henkelstrasse 67, D 40191 Düsseldorf, Germany ([E-Mail](https://web.archive.org/data-protection-contact-12201.htm)). Please also contact us this way, if you would like to know whether we have collected data about you and, if so, which data. We shall endeavor to comply with your wish immediately.
+** Stored data will be deleted by Henkel upon expiration of the statutory or contractual filing period or if Henkel no longer requires the same. At any time, you may, of course, ask for the deletion of your data. You are also entitled at any time to revoke your consent to the use or processing of your person-related data with future effect. In these cases, or if you have any other wishes in connection with your person-related data, please send an e-mail or a letter to our data protection officer, Mr. Andreas von Bernstorff, Henkelstrasse 67, D 40191 Düsseldorf, Germany ([E-Mail](https://web.archive.org/data-protection-contact-12201.htm): [Datenschutz@henkel.com](mailto:Datenschutz@henkel.com)). Please also contact us this way, if you would like to know whether we have collected data about you and, if so, which data. We shall endeavor to comply with your wish immediately.
 
 **7\. Public Register of Processing  
 ** The Federal Data Protection Act (BDSG) stipulates in § 4 g that the data protection officer shall make the following data available to anyone in a suitable manner in accordance with § 4 e:
@@ -44,13 +44,24 @@ Any changes to this Privacy Statement will be published on this page. This enabl
 The corporation may acquire domestic and foreign companies of all kinds or participate in them and do any business and action which is conducive to the objects of the corporation. 
 
 (5) Description of the groups of persons affected and the respective data or data categories:   
-Data relating to customers, employees, pensioners, employees of affiliated companies, employees of external companies (subcontractors), leasing personnel, job applicants, external inventors or heirs, respectively, suppliers and service-providers, external customers, consumers, volunteers in consumer tests, visitors to the corporations site, investors as well as financial analysts and shareholders - insofar as necessary for fulfilling the purposes specified under 4.
+Data relating to customers, employees, pensioners, employees of affiliated companies, employees of external companies (subcontractors), leasing personnel, job applicants, external inventors or heirs, respectively, suppliers and service-providers, external customers, consumers, volunteers in consumer tests, visitors to the corporations site, investors as well as financial analysts and shareholders - insofar as necessary for fulfilling the purposes specified under 7. (4).
 
 (6) Recipients or categories of recipients to whom the data may be disclosed notified:   
-Public authorities, health insurance funds and employers' liability association in the event of the presence of the relevant legal regulations, external contractors in accordance with §11 BDSG, external service-providers, Henkel pensioners' association, affiliated companies and internal departments for fulfilling the purposes specified in 4. 
+Public authorities, health insurance funds and employers' liability association in the event of the presence of the relevant legal regulations, external contractors in accordance with §11 BDSG, external service-providers, Henkel pensioners' association, affiliated companies and internal departments for fulfilling the purposes specified in 7. (4). 
 
 (7)  Regular periods for deletion of the data:   
-The legislators have issued a wide range of storage duties and periods of storage. The data are deleted as a matter of routine after the expiration of these periods. Data not affected by such provisions are deleted if the purposes specified in 4. have ceased to exist.
+The legislators have issued a wide range of storage duties and periods of storage. The data are deleted as a matter of routine after the expiration of these periods. Data not affected by such provisions are deleted if the purposes specified in 7. (4) have ceased to exist.
 
 (8) Planned data transfer to third countries:   
 As part of a global HR information system, the personnel data are to be made available to selected management executives in third countries. Corresponding data protection agreements in accordance with EU standard will be contractually agreed upon with the respective companies.
+
+**8.  Facebook Social Plugins**  
+Our web pages might be equipped with plug-ins of the social network facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). 
+
+Such plug-ins might in particular be Facebook's "Like" or "Gefällt mir"-button respectively. If you access one of our web pages that are equipped with such a plug-in, your internet browser will make a direct connection to the Facebook servers and the plug-in will be displayed on the screen through communication to your browser. The plug-in will inform the Facebook server which of our web pages you have visited. 
+
+If you are a member of Facebook and are logged on to Facebook user account while visiting our web page, Facebook will relate this information to your Facebook user account. On making use of any of the plug-in functions (e.g. clicking the “Like” button, leaving a comment), this information will also be related to your Facebook user account.
+
+Further information on the collection and use of data by Facebook and on the rights and possibilities available to you for protecting your privacy in this context can be found in Facebook’s data protection information: <http://www.facebook.com/policy.php>. 
+
+To avoid allowing Facebook to be able to relate the visit of our web page to your Facebook user account, you need to log-off your Facebook user account prior to visiting our web pages.
