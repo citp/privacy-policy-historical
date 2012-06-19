@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227101238id_/http%3A//www.site5.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619052449id_/http%3A//www.site5.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Site5 - Privacy Policy
 
@@ -73,6 +73,8 @@ While we cannot guarantee that loss, misuse or alteration to data will not occur
 ## 11\. Safe Harbor
 
 Site5 has certified its participation and compliance with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the transfer of personal information from European Union member countries and Switzerland to the United States. The principles of Safe Harbor compliance are notice, choice, onward transfer, security, data integrity, access, and enforcement. Additional information about the Safe Harbor principles and certification process can be found at the US Department of Commerce's [Safe Harbor](http://www.export.gov/safeharbor/) website.
+
+Site5 has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Site5, please visit the BBB EU Safe Harbor [web site](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ## 12\. Your Responsibility
 
