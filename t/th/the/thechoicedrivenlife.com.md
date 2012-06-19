@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thechoicedrivenlife.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101113058id_/http%3A//www.thechoicedrivenlife.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechoicedrivenlife.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619030206id_/http%3A//www.thechoicedrivenlife.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | choices, choices we make , life choices , good choices, how to choose , making life choices , purpose, destiny, personal development , personal success ,healthy choices,pursuit of happiness,
+# Privacy Policy - The Choice Driven Life | Discover The Life You Were Born To Live | choices| the choice| how to choose| to choose| passion| destiny| future | life | live a life | how to live life | prayer | discover |
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
