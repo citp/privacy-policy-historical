@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bunnings.com.au privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101194936id_/http%3A//www.bunnings.com.au/default_privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnings.com.au privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620001506id_/http%3A//www.bunnings.com.au/default_privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Bunnings Warehouse
 
@@ -30,7 +30,7 @@ Hawthorn East,
 Victoria 3123. 
 
 Telephone (03) 88319740  
-E-mail [privacy@bunnings.com.au ](mailto:privacy@bunnings.com.au/)
+E-mail [privacy@bunnings.com.au ](mailto:privacy@bunnings.com.au)
 
 #### BUNNINGS PRIVACY POLICY 
 
@@ -117,7 +117,7 @@ E-mail: [privacy@bunnings.com.au ](mailto:privacy@bunnings.com.au)
 
 E-mail: [privacy@bunnings.com.au ](mailto:privacy@bunnings.com.au)
 
-27\. Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's web-site at [www.privacy.gov.au.](http://www.privacy.gov.au./)
+27\. Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's web-site at [www.privacy.gov.au.](http://www.privacy.gov.au/)
 
 **Acceptance** 28\. You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use. 
 
