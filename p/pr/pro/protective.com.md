@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protective.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220081044id_/http%3A//www.protective.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protective.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620014349id_/http%3A//www.protective.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Protective Life: Privacy Policy
 
@@ -82,17 +82,8 @@ To read the Privacy Policy of our subsidiary, ProEquities, please visit:
 
 <http://www.proequities.com/privacy.aspx> 
 
-## Protective Life and Annuity Insurance Company 
-
-To read the Privacy Policy of our subsidiary, Protective Life and Annuity Insurance Company, please visit:  
-<https://www.protectivelifeandannuity.com/placms/uadetail.aspx?id=402> 
-
-## West Coast Life Insurance Company 
-
-To read the Privacy Policy of our subsidiary, West Coast Life Insurance Company, please visit:  
-<https://www.westcoastlife.com/wclcms/uadetail.aspx?id=402> 
-
 ## Asset Protection Division
 
-To read the Privacy Policy of our Asset Protection Division, please visit:  
+To read the Privacy Policy of our Asset Protection Division, please visit:
+
 <http://www.protectiveassetprotection.com/PrivacyPolicy.aspx> 
