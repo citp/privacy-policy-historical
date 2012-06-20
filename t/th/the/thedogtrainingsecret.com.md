@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedogtrainingsecret.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226160639id_/http%3A//www.thedogtrainingsecret.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedogtrainingsecret.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620090427id_/http%3A//www.thedogtrainingsecret.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,5 +17,15 @@ All affiliate information, including address, phone number, e-mail address, and 
 If you have questions or concerns regarding this statement, please contact our Customer Support.
 
  
+
+### My #1 Dog Training Tip
+
+  * [](http://www.thedogtrainingsecret.com/tips)
+
+
+
+### Other Resources We Suggest
+
+### More Dog Training Topics
 
 TheDogTrainingSecret.com cannot guarantee that by simply watching our free videos that your dog will immeadiately start behaving, as this depends on too many outside circumstances beyond our control, including time you are willing to commit and your ability to apply what you learn, and the unique and possibly unpredictable characteristics of your dog. We do gaurantee that if our methods do not work for you we will refund you if you ask.
