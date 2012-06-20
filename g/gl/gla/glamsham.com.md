@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the glamsham.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231065201id_/http%3A//www.glamsham.com/legal/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamsham.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620202640id_/http%3A//www.glamsham.com/legal/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy@glamsham.com
+
+|  |  |  |  |  |   
+|   
+
 
 **glamsham.com's Privacy Policy.**
 
@@ -37,3 +41,6 @@ In the course of serving advertisements to this site, our third-party advertiser
 **If you wish to unsubscribe, kindly Click Here**
 
 If you have any questions about this privacy policy, the practices of this site, or your dealings with glamsham.com, please write to: response@glamsham.com
+
+|  |  |  |   
+
