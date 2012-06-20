@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123employee.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111082839id_/http%3A//www.123employee.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123employee.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620230447id_/http%3A//www.123employee.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,8 +22,14 @@ We may use information that you supply to us to bring selected offers to our mem
 **Security:**  
 This web site has security measures in place to protect against loss, misuse and/or alteration of the information that you provide. Furthermore, we have taken every precaution technically possible to prevent any unauthorized access to the contents of this web server.
 
+**Contact:**  
+You agree that you give 123Employee the right to contact you via, email, phone or by any means.  You will have the option to opt out of any and all correspondence at any time.
+
 **Contacting 123Employee:**  
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us.
 
 **Policy Changes:**  
 123Employee reserves the right to change this privacy policy at any time.This Privacy Policy was last revised on April 7, 2009.
+
+**Contact:**  
+You agree that you give 123Employee the right to contact you via, email, phone or by any means. You will have the option to opt out of any and all correspondence at any time.
