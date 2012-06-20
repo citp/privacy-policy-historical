@@ -1,6 +1,36 @@
-> *The following text is extracted and transformed from the urpad.net privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207151004id_/http%3A//urpad.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urpad.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620042108id_/http%3A//www.urpad.net/privacy-policy.shtml) for the most accurate reproduction.*
 
 # URPad | Privacy Policy
+
+## Web Hosting Plans
+
+  * Stable & Reliable Servers  
+URPad.net utilizes powerful, high performance Intel Dual Xeon processors for maximum performance. At URPad, we never compromise on quality.
+  * 99.9% Uptime Guarantee!  
+URPad.net guarantees a 99.9% uptime with all shared, reseller, and VPS services.
+  * 24/7 Support  
+URPad provides US based support technicians ready to assist you, day or night 24/7 every day of the year.
+
+
+
+## URPad Features
+
+  * Free Website Transfer
+  * 24x7x365 US Support
+  * Instant Setup
+  * RAID Storage
+  * POP, Imap Support
+  * Top Notch Services
+  * Premium Network
+  * 99.9% Uptime Guarantee
+  * NO Contracts
+  * NO Hidden Charges
+  * Secure Servers 
+  * Server Monitoring
+
+
+
+## URPad.net Privacy Policy
 
 URPad.net has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
