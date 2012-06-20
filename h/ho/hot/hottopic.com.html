@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the hottopic.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101164320id_/http%3A//community.hottopic.com/content/privacy-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hottopic.com privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620141257id_/http%3A//community.hottopic.com/content/privacy-security) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="https://www.facebook.com/2008/fbml" class="js"><!-- Hostname = community1.hottopic.com --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="https://www.facebook.com/2008/fbml" class="js"><!-- Hostname = community2.hottopic.com --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
     <title>Privacy &amp; Security | Hot Topic</title>
@@ -175,7 +175,7 @@ $( document ).ready( function() {
 
 <body style="margin:0; padding:0;" class="lightbox-processed">
 <div style="position:absolute;left:0;top:0;">
-<!--community1.hottopic.com-->
+<!--community2.hottopic.com-->
 </div>
     <!--SLI Header Begin-->
         <div id="container"> <!-- wrapper div -->
@@ -197,15 +197,16 @@ $( document ).ready( function() {
 		var httpsCheckPromo = window.location.toString();
 
 		if(httpsCheckPromo.indexOf("https") > -1){
-			imagePath = "https" + imagePath.substring(4,imagePath.length);
+			//imagePath = "https" + imagePath.substring(4,imagePath.length);
 		}
 
 
 		if(promoBoxHolder){
+			var htHttpCacheHost = 'http://assets-www.hottopic.com' ;
 			promoBoxHolder.style.display = 'block';
 			promoBoxHolder.style.marginLeft = left.toString()+'px';
 			promoBoxHolder.style.marginTop = top.toString()+'px';
-			promoBoxHolder.innerHTML = '<a href="javascript:hidePromo();"><img src="'+imagePath+'" border="0"/></a>';
+			promoBoxHolder.innerHTML = '<a href="javascript:hidePromo();"><img src="'+htHttpCacheHost+imagePath+'" border="0"/></a>';
 		}
 
 	}
@@ -225,7 +226,7 @@ $( document ).ready( function() {
 		<div id="main_logo">
 			
 			<a href="http://www.hottopic.com/hottopic/Homepage.jsp"> 
-			<img src="/media/hottopic/images/headers/main-logo_v1_m56577569830699536.gif" alt="Hot Topic Logo - Everything about the music" title="Hot Topic Logo - Everything about the music" border="0">
+			<img src="http://assets-www.hottopic.com/media/hottopic/images/headers/main-logo_v1_m56577569830699536.gif" alt="Hot Topic Logo - Everything about the music" title="Hot Topic Logo - Everything about the music" border="0">
 			</a>
 		</div>
 		<!-- End Logo -->
@@ -236,7 +237,7 @@ $( document ).ready( function() {
 
 		<!-- start promo text -->
 			<div id="promoText" style="position:absolute; top:70px; width:450px; z-index:10;" align="left">
-				<span style="font-size:11px; font-family:arial; font-weight:bold;">Get Everything You Need!&nbsp;&nbsp;</span><a style="color:red; font-size:11px; font-family:arial; font-weight:bold;" href="http://www.hottopic.com/hottopic/HolidayGiftGuide.jsp">Shop</a><span style="font-size:11px; font-family:arial; font-weight:bold;">&nbsp;Our Holiday Gift Guide</span>
+				<span style="font-size:11px; font-family:arial; font-weight:bold;">$4.99 Standard Shipping Everyday -&nbsp;</span><a style="color:red; font-size:11px; font-family:arial; font-weight:bold;" href="http://www.hottopic.com//hottopic/Apparel.jsp?cm_SP=Homepage-_-PromoRibbon-_-499Shipping">Shop Now</a>
 			</div>
 		<!-- end promo text -->
 
@@ -278,7 +279,7 @@ $( document ).ready( function() {
 
 						
 							<li>
-								<a href="http://community1.hottopic.com/customerservice_info" alt="CUSTOMER SERVICE" title="CUSTOMER SERVICE" style="text-transform:uppercase;">CUSTOMER SERVICE</a>
+								<a href="http://community.hottopic.com/customerservice_info" alt="CUSTOMER SERVICE" title="CUSTOMER SERVICE" style="text-transform:uppercase;">CUSTOMER SERVICE</a>
 							</li>
 						
 
@@ -333,7 +334,7 @@ $( document ).ready( function() {
 
                 <div id="LogIn_pos" style="text-align: right; vertical-align: middle;"><a title="Log In" href="https://www.hottopic.com/hottopic/member/Login.jsp" id="LogIn_btn">LOG IN / JOIN</a> <!-- TO YOUR --><!-- <img src="/media/hottopic/images/member/HT1_logosmall_v1_m56577569830699493.jpg" style="vertical-align: middle;" />--> <!-- ACCOUNT -->
                 </div>
-                <div style="display:none" id="Want_rewards2"><a title="LEARN MORE ABOUT HT+1" href="http://community1.hottopic.com/hottopic/HTPlusOne/?cm_re=HTPlusOne-_-Header-_-Join" id="Manage_Upgrade" target="_blank"><img src="/media/hottopic/images/member/LOGINMESSAGE_LearnMore_v1_m56577569830699491.gif" border="0"></a>
+                <div style="display:none" id="Want_rewards2"><a title="LEARN MORE ABOUT HT+1" href="http://community.hottopic.com/hottopic/HTPlusOne/?cm_re=HTPlusOne-_-Header-_-Join" id="Manage_Upgrade" target="_blank"><img src="http://assets-www.hottopic.com/media/hottopic/images/member/LOGINMESSAGE_LearnMore_v1_m56577569830699491.gif" border="0"></a>
                 </div>
         
 	</td>
@@ -342,8 +343,8 @@ $( document ).ready( function() {
 
 	<form style="display: inline; margin: 0;" name="frm_ht_search" method="get" onsubmit="goSearch(); return false;" action="http://search.hottopic.com/search">
 <input type="hidden" name="bmForm" value="frm_ht_search">
-<input type="hidden" name="bmFormID" value="jd1Hjfr">
-<input type="hidden" name="bmUID" value="jd1Hjfs">
+<input type="hidden" name="bmFormID" value="jvKBrCQ">
+<input type="hidden" name="bmUID" value="jvKBrCR">
 <input type="hidden" name="bmIsForm" value="true">
 <input type="hidden" name="bmPrevTemplate" value="/hottopic/Homepage.jsp">
 
@@ -361,9 +362,9 @@ $( document ).ready( function() {
 						
     	
 	</form></td>
-    <td><input type="hidden" name="bmImage" value="submit_search.x"><input type="hidden" name="bmImage" value="submit_search.y"><input type="hidden" name="bmImage" value="submit_search"><input type="image" name="submit_search" src="/media/hottopic/images/topnav/SearchButton_20110616_03_v1_m56577569830726808.gif" border="0" alt="SEARCH" title="SEARCH" class="SearchButton" onclick="goSearch(); return false;">
+    <td><input type="hidden" name="bmImage" value="submit_search.x"><input type="hidden" name="bmImage" value="submit_search.y"><input type="hidden" name="bmImage" value="submit_search"><input type="image" name="submit_search" src="http://assets-www.hottopic.com/media/hottopic/images/topnav/SearchButton_20110616_03_v1_m56577569830726808.gif" border="0" alt="SEARCH" title="SEARCH" class="SearchButton" onclick="goSearch(); return false;">
 			<input type="hidden" name="bmFields" value="bmText,bmPrevTemplate,bmImage,bmForm,bmIsForm,bmUID,bmHidden,bmFormID">
-<input type="hidden" name="bmHash" value="c1fd7c965574c4e99c33f33901857725c08a1d41">
+<input type="hidden" name="bmHash" value="5d0ed2de39efbfdddb3ed146a4d38c08a3071664">
 		</td>
   </tr>
 </tbody></table>
@@ -371,95 +372,87 @@ $( document ).ready( function() {
 <!-- end of search and sign in -->
 
 		<!-- start Top Nav -->
-		<div class="TopNav" style="position:absolute; top:88px; left:0px; z-index: 0; width:846px; height:53px; background-image:url(https://community.hottopic.com/images/topNaveBGTitle.gif); background-repeat:x;">
+		<div class="TopNav" style="position:absolute; top:88px; left:0px; z-index: 0; width:846px; height:53px; background-image:url(http://assets-www.hottopic.com/media/hottopic/images/external/topNaveBGTitle_v1_m56577569830741258.gif); background-repeat:x;">
 			<div id="globalheader">
 				<!--googleoff: all-->
 				<ul id="globalnav">
 
 							
 								<li>
-									<a href="http://www.hottopic.com/hottopic/WhatsNew.jsp" onmouseover="document.getElementById('primaryTopNav_0').src='/media/hottopic/images/topnav/20111101_topnav_rollover_01_v1_m56577569830732160.jpg';" onmouseout="document.getElementById('primaryTopNav_0').src='/media/hottopic/images/topnav/20111101_topnav_01_v1_m56577569830732149.jpg';">
-										<img id="primaryTopNav_0" src="/media/hottopic/images/topnav/20111101_topnav_01_v1_m56577569830732149.jpg" border="0" alt="New" title="New">
+									<a href="http://www.hottopic.com/hottopic/WhatsNew.jsp" onmouseover="document.getElementById('primaryTopNav_0').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_over_01_v1_m56577569830736598.jpg';" onmouseout="document.getElementById('primaryTopNav_0').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_01_v1_m56577569830736588.jpg';">
+										<img id="primaryTopNav_0" src="http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_01_v1_m56577569830736588.jpg" border="0" alt="New Arrivals" title="New Arrivals">
 									</a>
 								</li>
 							
 
 							
 								<li>
-									<a href="http://www.hottopic.com/hottopic/Apparel/FeaturedClothing.jsp" onmouseover="document.getElementById('primaryTopNav_1').src='/media/hottopic/images/topnav/20111101_topnav_rollover_02_v1_m56577569830732161.jpg';" onmouseout="document.getElementById('primaryTopNav_1').src='/media/hottopic/images/topnav/20111101_topnav_02_v1_m56577569830732150.jpg';">
-										<img id="primaryTopNav_1" src="/media/hottopic/images/topnav/20111101_topnav_02_v1_m56577569830732150.jpg" border="0" alt="Clothing" title="Clothing">
+									<a href="http://www.hottopic.com/hottopic/Apparel.jsp" onmouseover="document.getElementById('primaryTopNav_1').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_over_02_v1_m56577569830736599.jpg';" onmouseout="document.getElementById('primaryTopNav_1').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_02_v1_m56577569830736589.jpg';">
+										<img id="primaryTopNav_1" src="http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_02_v1_m56577569830736589.jpg" border="0" alt="Clothing" title="Clothing">
 									</a>
 								</li>
 							
 
 							
 								<li>
-									<a href="http://www.hottopic.com/hottopic/Apparel/Bottoms/Denim.jsp" onmouseover="document.getElementById('primaryTopNav_2').src='/media/hottopic/images/topnav/20111101_topnav_rollover_03_v1_m56577569830732162.jpg';" onmouseout="document.getElementById('primaryTopNav_2').src='/media/hottopic/images/topnav/20111101_topnav_03_v1_m56577569830732151.jpg';">
-										<img id="primaryTopNav_2" src="/media/hottopic/images/topnav/20111101_topnav_03_v1_m56577569830732151.jpg" border="0" alt="Denim" title="Denim">
+									<a href="http://www.hottopic.com/hottopic/Tshirts.jsp" onmouseover="document.getElementById('primaryTopNav_2').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_over_03_v1_m56577569830736600.jpg';" onmouseout="document.getElementById('primaryTopNav_2').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_03_v1_m56577569830736590.jpg';">
+										<img id="primaryTopNav_2" src="http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_03_v1_m56577569830736590.jpg" border="0" alt="T-shirts" title="T-shirts">
 									</a>
 								</li>
 							
 
 							
 								<li>
-									<a href="http://www.hottopic.com/hottopic/Accessories/FeaturedAccessories.jsp" onmouseover="document.getElementById('primaryTopNav_3').src='/media/hottopic/images/topnav/20111101_topnav_rollover_04_v1_m56577569830732163.jpg';" onmouseout="document.getElementById('primaryTopNav_3').src='/media/hottopic/images/topnav/20111101_topnav_04_v1_m56577569830732152.jpg';">
-										<img id="primaryTopNav_3" src="/media/hottopic/images/topnav/20111101_topnav_04_v1_m56577569830732152.jpg" border="0" alt="Accessories" title="Accessories">
+									<a href="http://www.hottopic.com/hottopic/Denim.jsp" onmouseover="document.getElementById('primaryTopNav_3').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_over_04_v1_m56577569830736601.jpg';" onmouseout="document.getElementById('primaryTopNav_3').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_04_v1_m56577569830736591.jpg';">
+										<img id="primaryTopNav_3" src="http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_04_v1_m56577569830736591.jpg" border="0" alt="Denim" title="Denim">
 									</a>
 								</li>
 							
 
 							
 								<li>
-									<a href="http://www.hottopic.com/hottopic/Shoes.jsp" onmouseover="document.getElementById('primaryTopNav_4').src='/media/hottopic/images/topnav/20111101_topnav_rollover_05_v1_m56577569830732164.jpg';" onmouseout="document.getElementById('primaryTopNav_4').src='/media/hottopic/images/topnav/20111101_topnav_05_v1_m56577569830732153.jpg';">
-										<img id="primaryTopNav_4" src="/media/hottopic/images/topnav/20111101_topnav_05_v1_m56577569830732153.jpg" border="0" alt="Shoes" title="Shoes">
+									<a href="http://www.hottopic.com/hottopic/Accessories.jsp" onmouseover="document.getElementById('primaryTopNav_4').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_over_05_v1_m56577569830736602.jpg';" onmouseout="document.getElementById('primaryTopNav_4').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_05_v1_m56577569830736592.jpg';">
+										<img id="primaryTopNav_4" src="http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_05_v1_m56577569830736592.jpg" border="0" alt="Accessories" title="Accessories">
 									</a>
 								</li>
 							
 
 							
 								<li>
-									<a href="http://www.hottopic.com/hottopic/Brands.jsp" onmouseover="document.getElementById('primaryTopNav_5').src='/media/hottopic/images/topnav/20111101_topnav_rollover_06_v1_m56577569830732165.jpg';" onmouseout="document.getElementById('primaryTopNav_5').src='/media/hottopic/images/topnav/20111101_topnav_06_v1_m56577569830732154.jpg';">
-										<img id="primaryTopNav_5" src="/media/hottopic/images/topnav/20111101_topnav_06_v1_m56577569830732154.jpg" border="0" alt="Brands" title="Brands">
+									<a href="http://www.hottopic.com/hottopic/Shoes.jsp" onmouseover="document.getElementById('primaryTopNav_5').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_over_06_v1_m56577569830736603.jpg';" onmouseout="document.getElementById('primaryTopNav_5').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_06_v1_m56577569830736593.jpg';">
+										<img id="primaryTopNav_5" src="http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_06_v1_m56577569830736593.jpg" border="0" alt="Shoes" title="Shoes">
 									</a>
 								</li>
 							
 
 							
 								<li>
-									<a href="http://www.hottopic.com/hottopic/Music.jsp" onmouseover="document.getElementById('primaryTopNav_6').src='/media/hottopic/images/topnav/20111101_topnav_rollover_07_v1_m56577569830732166.jpg';" onmouseout="document.getElementById('primaryTopNav_6').src='/media/hottopic/images/topnav/20111101_topnav_07_v1_m56577569830732155.jpg';">
-										<img id="primaryTopNav_6" src="/media/hottopic/images/topnav/20111101_topnav_07_v1_m56577569830732155.jpg" border="0" alt="Music" title="Music">
+									<a href="http://www.hottopic.com/hottopic/Music.jsp" onmouseover="document.getElementById('primaryTopNav_6').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_over_07_v1_m56577569830736604.jpg';" onmouseout="document.getElementById('primaryTopNav_6').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_07_v1_m56577569830736594.jpg';">
+										<img id="primaryTopNav_6" src="http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_07_v1_m56577569830736594.jpg" border="0" alt="Music" title="Music">
 									</a>
 								</li>
 							
 
 							
 								<li>
-									<a href="http://www.hottopic.com/hottopic/PopCulture.jsp" onmouseover="document.getElementById('primaryTopNav_7').src='/media/hottopic/images/topnav/20111101_topnav_rollover_08_v1_m56577569830732167.jpg';" onmouseout="document.getElementById('primaryTopNav_7').src='/media/hottopic/images/topnav/20111101_topnav_08_v1_m56577569830732156.jpg';">
-										<img id="primaryTopNav_7" src="/media/hottopic/images/topnav/20111101_topnav_08_v1_m56577569830732156.jpg" border="0" alt="Pop Culture" title="Pop Culture">
+									<a href="http://www.hottopic.com/hottopic/PopCulture.jsp" onmouseover="document.getElementById('primaryTopNav_7').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_over_08_v1_m56577569830736605.jpg';" onmouseout="document.getElementById('primaryTopNav_7').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_08_v1_m56577569830736595.jpg';">
+										<img id="primaryTopNav_7" src="http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_08_v1_m56577569830736595.jpg" border="0" alt="Pop Culture" title="Pop Culture">
 									</a>
 								</li>
 							
 
 							
 								<li>
-									<a href="http://www.hottopic.com/hottopic/Deals.jsp" onmouseover="document.getElementById('primaryTopNav_8').src='/media/hottopic/images/topnav/20111101_topnav_rollover_09_v1_m56577569830732168.jpg';" onmouseout="document.getElementById('primaryTopNav_8').src='/media/hottopic/images/topnav/20111101_topnav_09_v1_m56577569830732157.jpg';">
-										<img id="primaryTopNav_8" src="/media/hottopic/images/topnav/20111101_topnav_09_v1_m56577569830732157.jpg" border="0" alt="Deals" title="Deals">
+									<a href="http://www.hottopic.com/hottopic/Deals.jsp" onmouseover="document.getElementById('primaryTopNav_8').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_over_09_v1_m56577569830736606.jpg';" onmouseout="document.getElementById('primaryTopNav_8').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_09_v1_m56577569830736596.jpg';">
+										<img id="primaryTopNav_8" src="http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_09_v1_m56577569830736596.jpg" border="0" alt="Deals" title="Deals">
 									</a>
 								</li>
 							
 
 							
 								<li>
-									<a href="http://www.hottopic.com/hottopic/Clearance.jsp" onmouseover="document.getElementById('primaryTopNav_9').src='/media/hottopic/images/topnav/20111101_topnav_rollover_10_v1_m56577569830732169.jpg';" onmouseout="document.getElementById('primaryTopNav_9').src='/media/hottopic/images/topnav/20111101_topnav_10_v1_m56577569830732158.jpg';">
-										<img id="primaryTopNav_9" src="/media/hottopic/images/topnav/20111101_topnav_10_v1_m56577569830732158.jpg" border="0" alt="Clearance" title="Clearance">
-									</a>
-								</li>
-							
-
-							
-								<li>
-									<a href="http://www.hottopic.com/hottopic/HolidayGiftGuide.jsp" onmouseover="document.getElementById('primaryTopNav_11').src='/media/hottopic/images/topnav/20111101_topnav_rollover_11_v1_m56577569830732170.jpg';" onmouseout="document.getElementById('primaryTopNav_11').src='/media/hottopic/images/topnav/20111101_topnav_11_v1_m56577569830732159.jpg';">
-										<img id="primaryTopNav_11" src="/media/hottopic/images/topnav/20111101_topnav_11_v1_m56577569830732159.jpg" border="0" alt="Holiday Gift Guide" title="Holiday Gift Guide">
+									<a href="http://www.hottopic.com/hottopic/Clearance.jsp" onmouseover="document.getElementById('primaryTopNav_9').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_over_10_v1_m56577569830736607.jpg';" onmouseout="document.getElementById('primaryTopNav_9').src='http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_10_v1_m56577569830736597.jpg';">
+										<img id="primaryTopNav_9" src="http://assets-www.hottopic.com/media/hottopic/images/topnav/20120322_topnav_10_v1_m56577569830736597.jpg" border="0" alt="Clearance" title="Clearance">
 									</a>
 								</li>
 							
@@ -478,7 +471,7 @@ $( document ).ready( function() {
 
 	
 	<script>
-	//True Effect - Eddie Gonzales - 4-28-2011
+	// True Effect - Eddie Gonzales - 4-28-2011
 	<!--
 		var truePageName = "";
 		var trueProductId = "";
@@ -487,9 +480,9 @@ $( document ).ready( function() {
 	// -->
 </script>
 
-<script language="javascript1.1" src="/media/hottopic/javascript/eluminate_jsfp_v1_m56577569830731207.js" type="text/javascript"></script>
-<script language="javascript1.1" src="/media/hottopic/javascript/techprops_v1_m56577569830731232.js" type="text/javascript"></script>
-<script language="javascript1.1" src="/media/hottopic/javascript/cmdatatagutils_v1_m56577569830731201.js" type="text/javascript"></script>
+<script language="javascript1.1" src="http://assets-www.hottopic.com/media/hottopic/javascript/eluminate_jsfp_v1_m56577569830741073.js" type="text/javascript"></script>
+<script language="javascript1.1" src="http://assets-www.hottopic.com/media/hottopic/javascript/techprops_v1_m56577569830741105.js" type="text/javascript"></script>
+<script language="javascript1.1" src="http://assets-www.hottopic.com/media/hottopic/javascript/cmdatatagutils_v1_m56577569830741066.js" type="text/javascript"></script>
 
 
 
@@ -538,9 +531,9 @@ $( document ).ready( function() {
 <li class="leaf"><a href="/storelocator" title="">FIND A STORE</a></li>
 <li class="collapsed"><a href="/content/faqs" title="">FAQS</a></li>
 <li class="collapsed"><a href="/content/ht-foundation" title="">HOT TOPIC FOUNDATION</a></li>
-<li class="leaf"><a href="/content/ht1-terms-use" title="">HT+1 TERMS OF USE</a></li>
+<li class="leaf"><a href="/content/ht1-terms-use-0" title="">HT+1 TERMS OF USE</a></li>
 <li class="leaf active-trail"><a href="/content/privacy-security" title="" class="active">PRIVACY &amp; SECURITY</a></li>
-<li class="leaf"><a href="/content/returns-faq">EXCHANGES/RETURNS</a></li>
+<li class="leaf"><a href="/content/exchangesreturns-faqs">EXCHANGES/RETURNS</a></li>
 <li class="leaf"><a href="/content/shipping" title="">SHIPPING</a></li>
 <li class="leaf"><a href="/content/size-chart" title="">SIZE CHART</a></li>
 <li class="leaf"><a href="/contact/customer_service" title="">TALK TO US</a></li>
@@ -556,9 +549,9 @@ $( document ).ready( function() {
 <li class="leaf"><a href="/storelocator" title="">FIND A STORE</a></li>
 <li class="collapsed"><a href="/content/faqs" title="">FAQS</a></li>
 <li class="collapsed"><a href="/content/ht-foundation" title="">HOT TOPIC FOUNDATION</a></li>
-<li class="leaf"><a href="/content/ht1-terms-use" title="">HT+1 TERMS OF USE</a></li>
+<li class="leaf"><a href="/content/ht1-terms-use-0" title="">HT+1 TERMS OF USE</a></li>
 <li class="leaf active-trail"><a href="/content/privacy-security" title="" class="active">PRIVACY &amp; SECURITY</a></li>
-<li class="leaf"><a href="/content/returns-faq">EXCHANGES/RETURNS</a></li>
+<li class="leaf"><a href="/content/exchangesreturns-faqs">EXCHANGES/RETURNS</a></li>
 <li class="leaf"><a href="/content/shipping" title="">SHIPPING</a></li>
 <li class="leaf"><a href="/content/size-chart" title="">SIZE CHART</a></li>
 <li class="leaf"><a href="/contact/customer_service" title="">TALK TO US</a></li>
@@ -950,7 +943,7 @@ Customer Service at 1.800.892.8674. International Customers, please call +1.626.
 	</div>  <!-- end of footer-wrapper -->
 
     	<div id="footer_bottom" style=" margin-top:-10px;">        <script type="text/javascript" src="http://community.hottopic.com/hottopic/js/footer_logo.js"></script>
-        <div id="footer_copyRight" style=" width: 100%; text-align:center;">Copyright Hot Topic ©2011 All Rights Reserved</div>
+        <div id="footer_copyRight" style=" width: 100%; text-align:center;">Copyright Hot Topic ©2012 All Rights Reserved</div>
       </div>
       <div class="FooterPartners">
               </div>
@@ -967,8 +960,8 @@ Customer Service at 1.800.892.8674. International Customers, please call +1.626.
   <!--[if IE]>
 
 <![endif]-->
-<!--Hostname=community1.hottopic.com-->
-<img src="/images/community1.hottopic.com.gif">
+<!--Hostname=community2.hottopic.com-->
+<img src="/images/community2.hottopic.com.gif">
 
 
 </div></div><div id="overlay" style="display: none;"></div>      <div id="lightbox" style="display: none;">        <div id="outerImageContainer" style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"><div id="modalContainer" style="display: none; padding: 10px;"></div><div id="frameContainer" style="display: none; padding: 10px;"></div><div id="imageContainer" style="display: none; padding: 10px;"><img id="lightboxImage"><div id="hoverNav"><a id="prevLink" href="#" style="padding-top: 10px;"></a><a id="nextLink" href="#" style="padding-top: 10px;"></a></div></div><div id="loading"><a href="#" id="loadingLink"></a></div></div>        <div id="imageDataContainer" class="clearfix" style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);">          <div id="imageData"><div id="frameHoverNav"><a id="framePrevLink" href="#" style="padding-top: 10px;"></a><a id="frameNextLink" href="#" style="padding-top: 10px;"></a></div><div id="imageDetails"><span id="caption"></span><span id="numberDisplay"></span></div><div id="bottomNav"><a id="bottomNavClose" href="#" style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"></a><a id="bottomNavZoom" href="#"></a><a id="bottomNavZoomOut" href="#"></a><a id="lightshowPause" href="#" style="display: none;"></a><a id="lightshowPlay" href="#" style="display: none;"></a></div></div>        </div>      </div></body></html>
