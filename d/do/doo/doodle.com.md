@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231030634id_/http%3A//www.doodle.com/about/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620103016id_/http%3A//doodle.com/about/policy.html) for the most accurate reproduction.*
 
 # Doodle: Privacy Policy
 
@@ -16,9 +16,9 @@ Doodle is designed to allow you to use the service almost anonymously if you wis
 
 Doodle records certain requests and transactions in log files. This log data is used for troubleshooting, statistics, quality assurance, and to monitor system security and can be analyzed to that end. Doodle can publish anonymous statistics under the condition that no personally identifiable information can be derived from such statistics.
 
-Doodle also uses Google Analytics to compile usage statistics. Analytics is a service provided by Google, Inc. Google’s privacy policy can be accessed here: <http://www.google.com/privacy.html>. Doodle [anonymizes IP addresses](http://code.google.com/apis/analytics/docs/gaJS/gaJSApi_gat.html#_gat._anonymizeIp) before they are sent to Google Analytics. 
+Doodle also uses KISSmetrics and Google Analytics to compile usage statistics. These services are provided by Space Pencil, Inc. and by Google, Inc., respectively. Their privacy policies can be found at <http://www.kissmetrics.com/privacy> and <http://www.google.com/privacy>. Doodle [anonymizes IP addresses](http://code.google.com/apis/analytics/docs/gaJS/gaJSApi_gat.html#_gat._anonymizeIp) before they are sent to Google Analytics. 
 
-Doodle also employs Net-Metrix and AGOF to certify its traffic statistics in Switzerland and Germany. Detailed information (in German) on how this certification works and what information is collected can be found here: [Net-Metrix](http://www.net-metrix.ch/index.php?nodeId=157), [AGOF](http://www.agof.de/methode.585.html). An appendix at the end of the [German version of this policy](http://doodle.com/about/policy.html?locale=DE) also provides further information on how information is collected for web traffic that originates from Germany. 
+Doodle also employs NET-Metrix and AGOF to certify its traffic statistics in Switzerland and Germany. Detailed information (in German) on how this certification works and what information is collected can be found here: [NET-Metrix](http://www.net-metrix.ch/index.php?nodeId=157), [AGOF](http://www.agof.de/methode.585.html). An appendix at the end of the [German version of this policy](http://doodle.com/about/policy.html?locale=DE) also provides further information on how information is collected for web traffic that originates from Germany. 
 
 ## Cookies
 
@@ -32,6 +32,10 @@ Advertising is one of Doodle’s revenue streams. Therefore, Doodle displays adv
 
 You can delete outdated or completed (or, in fact, any) polls manually at any time using the admin link. When deleting a poll, that poll’s information will be deleted from the Doodle databases. Furthermore, outdated polls are automatically deleted from time to time, but no earlier than 30 days after the last date in the poll, or 30 days after the last access to a poll without dates.
 
+## Inactive accounts
+
+Doodle can delete user accounts and Premium Doodle accounts if they remain inactive (i.e. not accessed) for 1 year or longer.
+
 ## Unauthorized access
 
 Doodle implements several mechanisms to prevent unauthorized access to polls, accounts, or other data.
@@ -44,11 +48,11 @@ Doodle accounts are protected by passwords. You should choose a secure password 
 
 As an option, you can contact and invite people to participate in a poll from Doodle. In this case, Doodle needs to know the e-mail addresses of the people to be contacted. You can enter these e-mail addresses in the corresponding form. Doodle stores these e-mail addresses in your user account (MyDoodle) for your convenience; Doodle will be able to offer you the same contacts again next time you use the service. You can have Doodle delete all stored e-mail addresses any time using the corresponding function in your user account (MyDoodle).
 
-General remark: Like all other personal information, Doodle will not share participants' e-mail addresses with third parties. Doodle will not send any e-mail communication participants' e-mail addresses without your consent.
+General remark: Like all other personal information, Doodle will not share participants' e-mail addresses with third parties. Doodle will not send any e-mail communication to participants' e-mail addresses without your consent.
 
 ## Contacts integration
 
-As an alternative (or complement) to the Doodle contacts, you can use your existing Google contacts to gain access to the e-mail addresses of the people to be contacted. In this case, you authorize Doodle to access your Google contacts. Your Google contacts will still be stored at Google, while Doodle makes a copy of the e-mail addresses to have efficient access. Please note also: The process of accessing your Google contacts is set up (thanks to OAuth) to make sure that Doodle at no time has access to your Google password. You can delete the e-mail addresses stored at Doodle at any time ([Link](https://doodle.com/mydoodle/deleteContacts.html)).
+As an alternative (or complement) to the Doodle contacts, you can use your existing Google contacts to gain access to the e-mail addresses of the people to be contacted. In this case, you authorize Doodle to access your Google contacts. Your Google contacts will still be stored at Google, while Doodle makes a copy of the e-mail addresses to have efficient access. Please note also: The process of accessing your Google contacts is set up (thanks to OAuth) to make sure that Doodle at no time has access to your Google password. You can delete the e-mail addresses stored at Doodle at any time ([Link -> "Delete all cached contacts"](http://doodle.com/mydoodle/manageAccount.html#calendars)).
 
 ## Calendar integration
 
@@ -72,7 +76,11 @@ If you send Doodle a message, this message can be stored to process it, to compi
 
 ## Payment processing
 
-Doodle supports two of the leading payment processing providers, Moneybookers and PayPal. You can find their privacy policies here: [Moneybookers](http://www.moneybookers.com/app/help.pl?s=privacy), [PayPal](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside). To make payments as easy and user-friendly as possible, Doodle sends your name and e-mail address to these providers during a payment process. All this information would be requested by the provider anway. 
+Doodle supports the leading payment processing provider, PayPal. You can find their privacy policies here: [PayPal](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside). To make payments as easy and user-friendly as possible, Doodle sends your name and e-mail address to Paypal during a payment process. All this information would be requested by the provider anway. 
+
+## Location of data
+
+The Doodle databases are located in Switzerland.
 
 ## Sharing personal information
 
@@ -84,4 +92,4 @@ Doodle may share personal information with other companies or individuals only i
 
 Doodle reserves the right to update this Privacy Policy at any time. The most current version of this policy is available at <http://doodle.com/about/policy.html>.
 
-Jul 22 2011
+Apr 5 2012
