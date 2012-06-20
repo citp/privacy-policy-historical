@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cudo.com.au privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202180826id_/http%3A//cudo.com.au/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cudo.com.au privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620053828id_/http%3A//cudo.com.au/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,13 +70,13 @@ To try and identify Coupons that may be of interest to you, CUDO has relationshi
 
 When you purchase a Coupon, CUDO may need to forward your name and contact information to the relevant Merchant in order to redeem the Coupon to receive the Deal or you may be required to provide your personal information to the relevant Merchant at the time you redeem your Coupon. In those instances, your personal information will be governed by the privacy policy of the relevant Merchant.
 
-Also, with your consent, CUDO may pass your personal information on to Merchants from whom you have received a Deal, so that the Merchant can keep you informed of future events/offers they may be providing. If you are required to make a booking with a Merchant in order to redeem your Coupon, you may be asked at the time of that booking if you would like to receive this information. You may change your preference at any time directly with the Merchant which has collected your personal information. If you do not have the Merchant’s contact details you may contact our Privacy Officer directly.
+Also, with your consent, CUDO may pass your personal information on to Merchants from whom you have received a Deal, so that the Merchant can keep you informed of future events/offers they may be providing. If you are required to make a booking with a Merchant in order to redeem your Coupon, you may be asked at the time of that booking if you would like to receive this information. You may change your preference at any time directly with the Merchant which has collected your personal information. If you do not have the Merchant’s contact details you may contact our Privacy Officer directly. ****
 
-**Our Use of Cookies through CUDO Websites  
-**  
-CUDO Websites use cookies. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Most web browsers are set to accept cookies. However, if you do not wish to receive any cookies, you may set your browser to refuse them. In some instances this may mean you will not be able to take full advantage of parts of the CUDO Websites.   
-The use of cookies can enhance your enjoyment of what we offer, because they help us personalise your experience of the CUDO Websites by providing information which is most relevant to your interests. Cookies provide us with aggregated information on how users interact on the CUDO Websites, track which advertisements are effective and help us improve your experience on our website. Cookies do not personally identify you, but your browser. 
+**Use of Cookies through CUDO Websites** ****CUDO Websites use cookies. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Most web browsers are set to accept cookies. However, if you do not wish to receive any cookies, you may set your browser to refuse them. In some instances this may mean you will not be able to take full advantage of parts of the CUDO Websites.  
 
+The use of cookies can enhance your enjoyment of what we offer, because they help us personalise your experience of the CUDO Websites by providing information which is most relevant to your interests. Cookies provide us with aggregated information on how users interact and behave on the CUDO Websites, track which advertisements are effective and help us improve your experience on our website. Cookies do not personally identify you, but your browser. Cookies on the Cudo Websites may be dropped by Cudo or nominated third parties to help us best customise your experience on the Cudo Websites and ensure our advertising campaigns remain effective and appropriate.
+
+****  
 **To whom might CUDO disclose Personal Information?**
 
 CUDO may disclose personal information it collects about you for a variety of purposes in connection with CUDO providing its products and service and special offers to you (including to our agents, contractors or to a related company). CUDO may provide your personal information to:  
