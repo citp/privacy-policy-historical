@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the alpari-forex.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229225017id_/http%3A//www.alpari-forex.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari-forex.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620075105id_/http%3A//www.alpari-forex.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy & Refund Policy. Forex with Alpari
 
 ### Obligations of the Company
 
-Alpari places a high priority on the privacy of clients, both present and former. This Privacy Policy (the "Policy") describes how the Company collects, uses and protects the personal information of the Client. The Client is not required to furnish any additional information beyond that which has already been provided to the Company.
+Alpari (the Company) places a high priority on the privacy and integrity of the personal information of our Clients, both present and future and other visitors to the site. The Company strives to ensure the safety and confidentiality of all information received from the Client. This Privacy Policy (the "Policy") describes how the Company collects, uses and protects the personal information of the Client.
 
-### Financial Information
+### The Client's Personal Data
 
-When a Client opens a demo or live account, the Company collects certain information from the Client (“Personal Data”) for business purposes. This information helps the Company provide products and services that are more suitable to the Client's interests. Additionally, this information helps the Company improve the quality of its consulting.
-
-### The Personal Data that is collected by the Company may include:
+To open a demo or live account, the Company will need certain information (Personal Data) about the Client. The Personal Data that is collected by the Company may include:
 
   * 1\. information provided on applications and other Company forms, such as name, address, date of birth, passport data and occupation. 
-  * 2\. financial information: income, assets, investment experience. 
+  * 2\. financial information such as income, assets, investment experience. 
   * 3\. documents provided to confirm identity, such as passport, utility bills, and/or bank statements or company incorporation information;
   * 4\. payment documents: money transfer orders, bank statements, bank card copies, etc.
 
@@ -25,10 +23,11 @@ The Company may use a Client's Personal Data for one or more of the following pu
 
   * 1\. to confirm the Client's identity;
   * 2\. to process trading and non-trading operations;
-  * 3\. to inform the Client of Company products or services that may be of interest to the Client;
-  * 4\. to provide other services that are relevant to the Client's business relationship with the Company;
-  * 5\. to keep a correct database of the Client’s account data;
-  * 6\. to analyze statistical data to provide Clients with the most suitable products and services;
+  * 3\. carry out the company's anti-money laundering policy;
+  * 4\. to inform the Client of Company products or services that may be of interest to the Client;
+  * 5\. to provide other services that are relevant to the Client's business relationship with the Company;
+  * 6\. to keep a correct database of the Client’s account data;
+  * 7\. to analyze statistical data to provide Clients with the most suitable products and services;
 
 
 
@@ -43,11 +42,15 @@ The Company may convey the Client's Personal Data to associated or affiliated co
 
 ### Use of Information
 
-By opening an account with the Company, the Client consents to the Company collecting, maintaining, using and disclosing their Personal Data in accordance with the terms of this Policy.
+By accepting the Client Agreement, the Client consents to the Company collecting, maintaining, using and disclosing their Personal Data in accordance with the terms of this Policy.
 
-Alpari takes security issues very seriously and takes all reasonable steps to ensure the Security of the Client's personal data. Alpari adheres to strict security standards and procedures and uses leading security technologies to protect clients' Personal Data.
+### Security and Protection
 
-These data are transferred to the Company through a secure connection and are not accessible by unauthorized parties.
+Alpari takes the issue of security very seriously and takes all possible measures to ensure the safety of your confidential information, including adhering to strict standards for the internal use of confidential information and using leading data storage technology.
+
+When making a payment with a credit/debit card, you will be transferred to the site of the processing center where you will fill out a form. To prevent the unauthorized use of your credit/debit card, your card information is transmitted to Alpari in shortened form and through a secure server.
+
+### Returns Policy for Credit/Debit Cards
 
 In certain exceptional circumstances, Alpari may refund payments made by credit or debit card. In this case, the funds will be refunded to the card that was used for the deposit.
 
