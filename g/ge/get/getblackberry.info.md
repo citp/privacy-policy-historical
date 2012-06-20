@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getblackberry.info privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221170519id_/http%3A//www.getblackberry.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getblackberry.info privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620074413id_/http%3A//www.getblackberry.info/privacy) for the most accurate reproduction.*
 
-# Privacy | Get BlackBerry Apps
+# Privacy | Get BlackBerry Info
 
 Privacy Policy
 
