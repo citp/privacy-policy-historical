@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manila-paper.net privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222140345id_/http%3A//manila-paper.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manila-paper.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620200533id_/http%3A//manila-paper.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Manila Paper
+# Privacy Policy
 
 **The Manila Paper** respects your privacy and we are committed to safeguarding your privacy while online on this site. The following discloses the information gathering and dissemination practices for this Web site.  
 Log Files
