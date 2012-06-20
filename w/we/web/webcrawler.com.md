@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102054318id_/http%3A//www.webcrawler.com/webcrawler_yaylf/ws/privacy/_iceUrlFlag%3D11%3F_IceUrl%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620151113id_/http%3A//www.webcrawler.com/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ In the event InfoSpace goes through a business transition, such as a merger, bei
 
 ### Choice/Opt-out
 
-We desire to keep you in control of your personal information. Accordingly, you can review, correct, change or remove your personal registration information and elect not to receive future communications from us by sending us an e-mail at [Contact us](https://web.archive.org/info.wbcrwl.yaylf/support/contactus)
+We desire to keep you in control of your personal information. Accordingly, you can review, correct, change or remove your personal registration information and elect not to receive future communications from us by sending us an e-mail at [Contact us](https://web.archive.org/support/contactus)
 
 ### Notification of Changes
 
@@ -84,6 +84,6 @@ Bellevue, Washington 98004 USA
 \+ (1) 425.201.6100 phone   
 \+ (1) 425.201.6150 fax 
 
-E-mail: [Contact us](https://web.archive.org/info.wbcrwl.yaylf/support/contactus)
+E-mail: [Contact us](https://web.archive.org/support/contactus)
 
 Policy effective January 1, 2005
