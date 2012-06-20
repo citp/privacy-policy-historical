@@ -1,55 +1,99 @@
-> *The following text is extracted and transformed from the about.me privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011103717id_/https%3A//about.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the about.me privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620131116id_/http%3A//privacy.aol.com/privacy-policy) for the most accurate reproduction.*
 
-# About.me / Privacy Policy
+# Full Privacy Policy - AOL Privacy
 
-We are revising the About.me Terms of Service and Privacy Policy, effective October 11, 2011. You can review the updated [Privacy Policy](http://privacy.aol.com/) and [Terms of Service](http://legal.aol.com/TOS/), and learn more about the revisions by reading our [Frequently Asked Questions](http://privacy.aol.com/faq/).
+Print as PDF
 
-* * *
+This privacy policy applies to the information AOL Inc. collects about you as a user of AOL sites, services, and the software we use to provide you our services. Some of these services may provide you with additional information and choices about your privacy, which you should review.
 
-This Privacy Policy describes about.me's policies and procedures on the collection, use and disclosure of your information. about.me receives your information through our various web sites, SMS, APIs, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by about.me in the United States or any other country where about.me operates.
+This policy does not apply to information about you collected by third party websites and offerings linked to or otherwise accessible from AOL. The information collected or received by third parties is subject to their own privacy policies.
 
-If you have any questions or comments about this Privacy Policy, please contact us at [privacyquestions@aol.com](mailto:privacyquestions@aol.com).
+### Collection of Your AOL Information
 
-### Information Collection and Use
+We collect or receive information about you when you interact with AOL. Registering with AOL is optional and we may collect information even if you do not register. Depending on how you use AOL's Services, your AOL information may include:
 
-We collect and use your information to provide our Services and improve them over time.
+  * registration-related information (such as name, addresses, e-mail addresses, telephone numbers, birth date, or gender);
+  * information about the AOL Services that you use, how frequently you use them (such as your use of email or instant messenger); and your responses to the offerings and advertisements presented on AOL or other features made available by AOL, including those available on third party websites;
+  * information about the searches you perform through AOL Services and how you use the results of those searches;
+  * personal financial information related to the use of AOL financial features (such as [My Portfolios](http://www.dailyfinance.com/portfolios/myportfolios/)). Your use of AOL financial features is subject to additional [privacy terms](http://privacy.aol.com/financial/).
+  * transaction-related information (such as credit card or other preferred means of payment, billing or shipping information, or a history of products purchased through AOL);
+  * customer service information about you as an AOL user;
+  * location data and other information about mobile devices used to access and interact with AOL; or
+  * other information specifically related to your use of particular AOL services or offerings, including information that you publicly post using tools made available by AOL.
 
-Information Collected Upon Registration: When you create or reconfigure an about.me account, you provide some personal information, such as your name, user-name, password, and email address. Some of this information, for example, your name and username, may be listed publicly on our Services, including on your profile page and in search results. Some Services, such as search, public user profiles and viewing lists, do not require registration.
 
-Additional Information: You may provide us with additional information to make public, such as a short biography, your location, or a picture. You may customize your account with information such as a cell phone number for the delivery of SMS messages or your address book so that we can help you find about.me users you know. We may use your contact information to send you information about our Services or to market to you. You may unsubscribe from these messages by following the instructions contained within the messages or the instructions on our web site. If you email us, we may keep your message, email address and contact information to respond to your request. Providing the additional information described in this section is entirely optional.
 
-Location Information: You may choose to note your location in your on your about.me profile. 
+Your AOL information may be supplemented with additional information from other companies such as publicly available information, information about households, and other information which we may append or match to your AOL information.
 
-Log Data: Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, pages visited, and search terms. Other actions, such as interactions with advertisements, may also be included in Log Data.
+AOL may also receive or collect certain technical information when you use our services. This may include: the type of browser or operating system you are using, your manner of connecting to the Internet and the name of your Internet service provider; your Internet protocol address; information about AOL services that you used prior to registering with AOL; and data relating to computer malfunctions or problems occurring when you use your computer with AOL services. Additionally, we may collect information about other software on your computer for the limited purpose of protecting your security or improving your online experience.
 
-Links: about.me may keep track of how you interact with links by redirecting clicks or through other means. We do this to help improve our Services, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.
+### How Your AOL Information is used
 
-Cookies: Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles or lists. A cookie is a small data file that is transferred to your computer's hard disk. about.me may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
+Your AOL information is used for purposes that include:
 
-Third Party Services: about.me uses a variety of services hosted by third parties to help provide our Services, and to help us understand the use of our Services, such as Google Analytics. These services may collect information sent by your browser as part of a web page request, such as cookies or your IP request.
+  * to operate and improve the sites, services, and offerings available through AOL;
+  * to personalize the content and advertisements provided to you (including to present offers to you on behalf of business partners and advertisers);
+  * to fulfill your requests for products, programs, and services;
+  * to communicate with you and respond to your inquiries;
+  * to conduct research about your use of AOL; and
+  * to help offer you other products, programs, or services that may be of interest.
 
-### Information Sharing and Disclosure
 
-We do not disclose your private information except in the limited circumstances described here.
 
-Your Consent: We may share or disclose your information with your consent, such as when you use a third party web client to access your about.me account.
+AOL may use [cookies, web beacons, or other technologies](http://privacy.aol.com/cookies-web-beacons/) in combination with your AOL information to enhance and personalize your experience on AOL.  AOL may use the Screen Name Service, or other technologies, to register or authenticate you and enable you to take advantage of services.
 
-Service Providers: We engage certain trusted third parties to perform functions and provide services to us. We may share your personal information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to obligations mirroring the protections of this privacy policy.
+AOL may use information about your use of certain communication tools (for example, AOL e-mail or AOL Instant Messenger); however, AOL does not read your private online communications when you use AOL communications tools without your consent.
 
-Law and Harm: We may disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect about.me's rights or property.
+### Sharing of Your AOL Information
 
-Business Transfers: In the event that about.me is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this privacy policy will apply to your information as transferred to the new entity.
+AOL does not rent or sell your AOL information (such as name, address, telephone number, screen name and credit card information) to third parties for their marketing purposes. AOL may share your AOL information with third parties to provide products and services you have requested, when we have your consent, or as described in this Privacy Policy.
 
-Non-Private or Non-Personal Information: We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public bio or the number of users who clicked on a particular link (even if only one did).
+Your AOL information may be shared with sites and services subject to this Privacy Policy. You have choices about how your AOL information is used.
 
-### Modifying Your Personal Information
+The contents of your online communications, as well as other information about you as an AOL user, may be accessed and disclosed in response:  to lawful governmental requests or legal process (for example, a court order, search warrant or subpoena), in other circumstances in which AOL has a good faith belief that a crime has been or is being committed by an AOL user, that an emergency exists that poses a threat to the safety of you or another person, when necessary either to protect the rights or property of AOL, or for us to render the service you have requested.
 
-If you are a registered user of our Services, we provide you with tools to access or modify the personal information you provided to us and associated with your account.
+Please note that if you use AOL communications tools to disclose information about yourself publicly (for example, in chat rooms or online message boards made available by AOL), others outside of AOL may obtain access to information you provide.
 
-### Our Policy Towards Children
+AOL’s offerings may include features or functionalities provided by third parties. In the process of providing such functionalities within AOL services, your browser may automatically send certain technical information to the third party provider. The use of these third-party provided features or functionalities is subject to their own privacy policies.
 
-Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [privacyquestions@aol.com](mailto:privacyquestions@aol.com). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
+Business partners or other third parties may receive data about groups of AOL users, but do not receive information that personally identifies you.
 
-### Changes to this Policy
+We may use agents and contractors in order to help operate AOL. Their use of information is limited to these purposes.
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at http:/about.me/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @About.me update or e-mail to the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+In the event that ownership of AOL was to change as a result of a merger, acquisition, or transfer to another company, your AOL information may be transferred. If such a transfer results in a material change in the use of your AOL information, you will be provided notice about the choices you have to decline to permit such a transfer.
+
+### Display of Advertising
+
+Your AOL information may be used for the presentation of advertisements. AOL may use ad networks to customize and display advertising on AOL Services. AOL may share certain information about you as a user (such as age, zip code, or other information we have collected or received) with certain ad network and service providers to help them deliver more relevant content and advertisements through their networks. You can [learn more](http://privacy.aol.com/advertising-and-privacy/) about advertising displayed on AOL as well as how you can control the use of your AOL information for such advertising.
+
+### Your Choices about Your AOL Information
+
+  * AOL provides you with access to your registration information and any billing or shipping information and the ability to edit this information at [My Account](http://bill.aol.com/); as well as the ability to cancel AOL fee-based services.
+  * Visit [AOL Marketing Preferences](http://marketingpreferences.aol.com/) to review your AOL marketing preferences and make choices about how your AOL information may be used to provide marketing offers to you. These preferences do not apply to communications that are directly related to your registration with AOL, or the fulfillment of a specific transaction you have requested (for example, a service advisory from AOL, or an acknowledgment of a purchase order).
+  * Visit [AOL Advertising and Privacy ](http://privacy.aol.com/advertising-and-privacy/)to learn more about your choices related to online advertising.
+  * Some AOL services ([AOL Search](http://search.aol.com/aol/settings) and [Netscape ISP](http://myaccount.isp.netscape.com/myaccount/), for example) may also offer you the ability to manage and control information collected or used when you use these services.
+
+
+
+### Our Commitment to Security
+
+AOL has established safeguards to help prevent unauthorized access to or misuse of your AOL information, but cannot guarantee that your information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or the policies of AOL and its affiliated providers). To protect your privacy and security, we may use passwords to help verify your identity before granting access or making corrections to your AOL information.
+
+### Protecting Children
+
+AOL Services are intended for a general audience, and children under the age of thirteen should not register without the consent of a parent or guardian. AOL offers services directed toward children such as the [AOL Kids](http://kids.aol.com/) service and parentally controlled screen names. For information about our practices for the handling of children's online data please review our [Note to Parents](http://kids.aol.com/KOL/2/SubPages/#parents).
+
+### How to Contact Us
+
+If you have any questions or concerns about the AOL Privacy Policy or its implementation, you may [contact us.](mailto:privacyquestions@aol.com)
+
+AOL has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](mailto:privacyquestions@aol.com). If you are not satisfied with our response you can [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
+
+### Changes to this Privacy Policy and Additional Information
+
+AOL may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to AOL’s information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from AOL as well as for special features and services not described in this Policy that may be introduced in the future.
+
+European Union Residents:  AOL adheres to the [EU-US Safe Harbor Privacy Principles](http://privacy.aol.com/eu-safe-harbor/) of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/).
+
+_Last Updated_  
+_03-30-2012_
