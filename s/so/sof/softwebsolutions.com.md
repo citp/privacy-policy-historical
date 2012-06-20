@@ -1,34 +1,26 @@
-> *The following text is extracted and transformed from the softwebsolutions.com privacy policy that was archived on 2010-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100204071507id_/http%3A//www.softwebsolutions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwebsolutions.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620192255id_/http%3A//www.softwebsolutions.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Softweb Solutions
 
-Welcome to the www.softwebsolutions.com site. This site is owned by **Softweb Solutions Inc.** and maintained by **Priya Softweb Solutions Pvt. Ltd.** (an Offshore Development Center for Softweb Solutions Inc.). **Henceforth onwards, Softweb Solutions Inc. and Priya Softweb Solutions Pvt. Ltd. together will be termed as Softweb Solutions.**
+Softweb Solutions respects the privacy of its users. We sometimes collect information during your visits to understand what differentiates you from each of our millions of other users.
 
-This online privacy policy discloses Softweb Solutions' online information gathering practices and describes the usage of the information gathered on this Web site.
+In order to demonstrate our commitment to your privacy, we have prepared this statement disclosing the privacy practices for the entire Softweb Solutions site. Additional terms and conditions, if any, regarding the collection and use of your information may also be provided to you before you sign up for a particular service.
 
-The only personally identifiable information collected on this site is submitted to us freely and deliberately by site users. We collect and use this information in the following ways:
+Here, you will learn what personally identifiable information of yours is collected, how and when we might use your information how we protect your information, who has access to your information, and how you can correct any inaccuracies in the information.
 
-Contact Us  
-We collect your contact information through our 'Contact' form so that we can respond to your requests. We may keep this information in a database. You may bypass the form submission if you wish by using the email address provided and by using your personal mail application to submit your request.
+What Information is Collected Softweb Solutions collects certain information from and about its users in two ways—directly from the user and from our web server logs. User-supplied information: When you submit a form we may ask you for your name, email address and some other personal information. The more accurate information you volunteer, the better we are able to customize your Softweb Solutions experience.
 
-Apply for a job  
-When applying for a job using the online form. The data you submit is stored in a secure database. We have taken careful measures to ensure the integrity and security of your data. It is stored behind a firewall and is only accessible by using a secure ID and password, which is distributed to Human Resources or Web site staff members who need it to do their jobs. Softweb Solutions will not share email addresses or contact information we collect through our Web site with any third parties unless required by law.
+Log Information When you visit an internet website, you disclose certain information about yourself, such as your Internet Protocol (IP) address, the time of your visit and the referring location (e.g., the site or page that offered a link to a Softweb Solutions page). Softweb Solutions, like many other sites, records this basic information about visits to its site. You should remember that whenever you voluntarily disclose personal information online, your information can be collected and used by others. Although Softweb Solutions tries to protect your personal information, Softweb Solutions cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. You are also solely responsible for maintaining the secrecy of any passwords you set up and/or any account information.
 
-If you send us an email message, we may keep that message, your email address, and any other data submitted with the message.
+How and When Information is Used We use information in different ways, depending on the type of information. User-supplied information: This information is used for purposes such as personalization and verification. Web server logs: This information helps us identify which areas of our site are of interest to our visitors. Softweb Solutions also collects the Internet Protocol (IP) addresses of its visitors for the purposes of system administration.
 
-Cookies  
-Softweb Solutions uses cookies on this Web site. We utilize cookie technology to enhance and customize your experience. Cookies contain no personally identifying information.
+Third Party Vendors and Cookies Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page.](http://www.google.com/privacy/ads/)  
 
-Server logs  
-Server logs capture certain non-personally identifying data, such as the time and date of a Web visit, the browser and operating system being used, the IP address or domain name of the user's ISP, and the Web URL a user linked from. This information is used generally to help us plan system enhancements when necessary and to provide content which is compatible with our visitors' Web browsing systems.
 
-Hyperlinks to Other Web Sites  
-softwebsolutions.com includes links to Web sites of other companies. We do not log visitors' clicks from our site to other sites. Please note that we take no responsibility for the content of any external Web site.
+How We Protect Your Information The privacy and protection of your personal information is vitally important to us. Softweb Solutions does not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective partners regarding your Softweb Solutions usage are provided in the aggregate only and do not include any personally identifiable information about any individual user.
 
-Security  
-We have taken careful measures to ensure the integrity and security of your data. It is stored behind a firewall and is only accessible by using a secure ID and password that is distributed to staff members who need it to do their jobs.
+Unfortunately, no data transmission over the internet can be guaranteed to be 100% secure. Accordingly, despite our efforts to protect your personal information, Softweb Solutions cannot ensure or warrant the security of any information you transmit to us, or to or from our online products or services. You transmit all such information at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems.
 
-Acceptance of Softweb Solutions' Online Privacy Policy  
-By using this site, you agree to Softweb Solutions' online privacy policy. If you do not agree to this policy, please do not use this site. We may change or modify this policy without notice, please check back periodically.
+Who Has Access to the Information Except as described, Softweb Solutions will not willfully disclose any individually identifiable information about its users to any third party without first receiving that user's permission. Softweb Solutions may disclose personal information when we believe in good faith that the law requires it or to protect the rights or property of Softweb Solutions.
 
-[](https://web.archive.org/web/20100204071507id_/http%3A//www.softwebsolutions.com/request_a_quote.aspx "Request A Quote")
+We welcome any questions or comments you have about the Softweb Solutions site.
