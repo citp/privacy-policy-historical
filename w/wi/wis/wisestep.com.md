@@ -1,82 +1,98 @@
-> *The following text is extracted and transformed from the wisestep.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124002527id_/http%3A//www.wisestep.com/PrivacyPolicy.aspx%3FTB_iframe%3Dtrue%26height%3D450%26width%3D900) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisestep.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620095657id_/http%3A//www.wisestep.com/content/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Wisestep.com
 
-At WiseStep.com we know that you care how information about you is used and shared; Your privacy is important to us. The details below allow you to learn more about how your information is used and with whom it is shared and so on  
-WiseStep.com is a network of Professionals connecting with each other or their friends, to share opportunities in business, career, knowledge and other professional or social areas. When you open an account with us, you provide personally identifiable information. 
+At Wisestep, we know how much you care about how your information is stored and shared. Being a networking platform, Wisestep requires some of your information to help you connect with peers and professionals, or post, find and share opportunities in your professional life. So, Wisestep collects information on what pages consumers access and visit and information volunteered to us through studies and surveys. This information is used to improve our Web Content and to the quality of our Services. Read this Privacy Policy to know more of what information we collect, why we collect them and how you can control what you share.
 
-**A. Information Collected  
-**  
-1\. To become a WiseStep.com member, you must open an account yourself or at the request of an existing member. To open an account you are required to provide the following mandatory information: name, email address, country, industry, Postal code and a password. 
+What we collect
 
-2\. You can create your own profile page that has information on your education, work experience and share it with the other members. You can choose to display the information you want to, to other members of the site by modifying your profile settings. WiseStep.com will use this information to customize your experience on the web site. For example, when you login to your account we will display the new users who have joined the network. Similarly job opportunities that are new on the website may be shown to you.
+Wisestep requires you to register with an Email address to join as its Member. While registering as a Member, Wisestep requires you to provide your Name, Email Address, Country, Industry, Postal Code and a Password for your Wisestep Account. Wisestep requires its Members to keep their Passwords confidential; Disclosure of your Account Information to others might lead to Identity Theft and Impersonation.
 
-3\. To Invite others to connect with you directly on WiseStep.com, you can either invite them directly if you know their email addresses or if they are already existing members of WiseStep.com you can get introduced to them through other members. This information will be used by WiseStep.com to send your invitation including a message that you write. The names and email addresses of people that you invite will be used only to send your invitation and reminders. WiseStep.com may choose to remind some of the users of any pending request that is initiated by other members on the website. You may also choose to Import contacts from your other email providers or networking communities. All information imported will only be viewable by you and will not be searchable by others in the WiseStep.com network. None of your friends will be contacted or sent emails until you decide to invite them. 
+Wisestep Users can create their Profile Page and update it with their Educational Qualification and Work Experience. This can then be shared within the network, among your friends and contacts. Wisestep lets each User choose what they want to share and what they want to hide. This information will help Wisestep customize your networking experience, by suggesting possible friends and contacts and finding relevant career opportunities.
 
-4\. All information that you enter or import about your contacts will be covered by the same terms of this privacy policy as it covers your own personally identifiable information.
+Users and Employers on Wisestep can invite their contacts through Emails or from any networking site. For this, Wisestep requires persmission to import details from your other accounts. Wisestep does not store the passwords of your email address or other social networks. The contacts, once imported into Wisestep, are not permanently stored, and cannot be searched by anyone else on the network. All information on your friends will be covered by the same Privacy Policy.
 
-5\. WiseStep.com provides specific areas on the website where external weblinks may appear. WiseStep.com does not endorse these websites but these websites may choose to customize the links shown on WiseStep.com depending on their customization of weblinks based on the WiseStep.com professional community.
+Wisestep includes other external links within the site. This does not mean that Wisestep endorses or certifies these sites or their products. The hyperlinked sites will be covered by their own Privacy Policies. Wisestep requests its Members to view these sites in their own discretion.
 
-**B. Cookies & Web Logs   
-**  
-WiseStep.com uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows WiseStep.com to recognize you as a user when you return to our site using the same computer and web browser. Unfortunately, if your browser settings do not allow cookies, you will not be able to use our website. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on the web site.  
-One type of cookie, known as a "persistent" cookie, is set once you have logged in to your WiseStep.com account. The next time you visit the WiseStep.com web site, the persistent cookie will allow us to recognize you as an existing user so you will not need to log in before using the service. Additionally, if you log out of the WiseStep.com site you will need to re-enter your password the next time you visit in order to log in to your account. Another type of cookie, called a "session" cookie, is used to identify a particular visit to the WiseStep.com site. Session cookies expire after a short time or when you close your web browser.
+Cookies and Web Logging   
+Cookies are tiny data files within your computer that allows Wisestep to recognize you when you return to our site from the same computer and the same browser. If your browser does not enable cookies, you might not be able to use Wisestep efficiently. Cookies allow Wisestep to customize your networking and remember what you were upto the last time you logged off.
 
-Due to the communications standards on the Internet, when you visit the WiseStep.com web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave WiseStep.com. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the WiseStep.com service. The linkage between your IP address and your personally identifiable information is never shared with third-parties without your permission or except when required by law.
+Wisestep uses two kinds of cookies. The first lets the site recognize you as an existing user and, thereby, not asking you to log in every time. The other is active only briefly and expires when you close your browser.
 
-**C. Information Sharing  
-**  
-1\. 
+Due to communication standards, whenever you visit the Wisestep site, we recieve information on what site you visited last and which site your are leaving to. We also get information on your IP address, the address of your Computer, your computer Operating System and your Web Browser. This helps us to study overall trends and improve our Service at Wisestep. Your IP address and your personal information will not be shared with third-parties without your permission or except when required by law.
 
-_Information Use:_
+Sharing with Other Platforms (Facebook, Linkedin, etc.)  
+Wisestep understands how important it is to keep personal information confidential. Wisestep never shares, sells, rents out or otherwise provide access to your personal information to third-parties for marketing puposes. 
 
-**WiseStep.com is an online service dedicated to help professionals in effectively connecting with one another. The personally identifiable information you choose to provide on this site is used to help you describe yourself to other users. Other information, that does not personally identify you as an individual, is collected by WiseStep.com from the site (such as, by way of example, patterns of utilization) and is exclusively owned by WiseStep.com. This information can be utilized by WiseStep.com in such manner as WiseStep.com, in its sole discretion, deems appropriate**
+Members at Wisestep can control the Information they chose to share on these External Platforms. This Information will be composed of what the Member wants to display or publish on other sites and platforms..
 
-2\. 
+Users in Wisestep can have a Public Profile. They can choose and customize what information to display on this profile and hide the rest. However, once your profile is made public, third-party search engines might cache your profile. 
 
-_Sharing Information with Third Parties:_
+If Wisestep is bought out or enters a joint venture, your information will be transferred. In this case, Wisestep will inform its Members by email or on the site before their information is transferred and is subject to a new Privacy Policy.
 
-At WiseStep.com the privacy of your information is important to us 
+Facebook App
 
-1\. We will never sell, rent, or otherwise provide your personally identifiable information to any third party for marketing purposes. 
+Information Collected from Facebook App  
+When you register on Wisestep from Facebook, you will be prompted to grant permissions allowing Wisestep to collect and store Information from your Facebook Account. 
 
-2\. We will only share your personally identifiable information with third parties to carry out your instructions and to provide specific services. 
+The Information retrieved includes: 
 
-3\. These third parties do not retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information. 
+  * Your Log-in Email Address
+  * Your About Me Section (Name, Profile Picture, Interests, etc.)
+  * Your Birthday
+  * Your Work History and Experience
+  * Your Friend List on Facebook
+  * About Me Sections of your Friends 
+  * Your Likes
+  * Your Facebook Pages
+  * Your Publishing and Offline Access Permissions
 
-WiseStep.com offers a "public profile" feature which allows users to publish portions of their WiseStep.com profile, including your "name", but not your other profile information. Users can choose to set their own preferences from the settings section and may opt-out of this feature; however WiseStep.com does not warrant how third-parties search engines will update their cache if the information is made public and then restricted by members at a later date.  
-We may provide aggregated data about the usage of our services to third-parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our members using different criteria that is considered standard in marketing and market research or other criteria at our sole discretion
 
-We will transfer information about you if WiseStep.com enters a joint venture or is acquired by or merged with another company. In this event, WiseStep.com will notify you by email or by informing members on the web site before information about you is transferred and becomes subject to a different privacy policy.
 
-4\. Communications between Users:
+All information collected by Wisestep will be used in accordance with this Policy and adhering to Facebook Guidelines. 
 
-Many communications or messages that you initiate through WiseStep.com, will list your email address and name in the header of the message. Emails you initiate may also provide aggregate information about your network (for instance how many people are in your network), but will never list the people to whom you are directly connected. Other communications that you initiate through the WiseStep.com website, like a request for contact, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another user if both of you have indicated that you would like to establish contact with each other.
+How we use Information collected from Facebook  
+Wisestep will use all Information collected to make professional networking a more personalized experience. All information collected will be utilized to provide more relevant career opportunities, business leads, features and services to our Users. 
 
-5\. Legal Disclaimer:
+Here are a few ways how your information is used: 
 
-It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.
+  * To create your Career Profile
+  * To find and match suitable Career Opportunities
+  * To send Messages and Notifications
+  * To invite Contacts to Wisestep
+  * To Recommend and send Invitations to potential Contacts
+  * To present relevant Content, Features and Services
+  * To Inform you of your professional Network Activity
+  * To collect Feedback and Suggestions
 
-**D. External Links**
 
-WiseStep.com may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by WiseStep.com.
 
-**E. WiseStep.com Communications**
+Communication on Facebook  
+The Wisestep App offers itself as an alternate professional platform for Facebook Users. As such, Wisestep Members will be able to share Job Opportunities and other Information through their Facebook Account. Users on Wisestep can choose to Share new Career Updates, interesting Job Opportunities, Awards or Rewards received on their Facebook Profile. Wisestep will not publish these Posts without the User’s prior permissions. Any such Postings will solely depend on the User’s discretion. 
 
-WiseStep.com will communicate with you through email and messages posted on this website. These include a series of welcome, reminder emails which help and inform new and old users about various features of the service. Please be aware that you will always receive certain emails from WiseStep.com related to the proper functioning of your account, such as email notices when another user in your network sends you an opportunity. WiseStep.com may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please send a request to support@WiseStep.com
+Communicating with Other Members  
+All communications and messages you send through Wisestep will carry your Name in the header. This is just to let the recipient know, who sent the message. While sending emails, Wisestep might recieve aggregate information on your network, but never list the people you are connected to. Other communications you initiate through Wisestep, like a request or an invitation, will list your name as the sender, but will not include personally identifiable information. Such information can be shared only between two Members once they have established contact and want to share it with each other.
 
-**F. Accessing and Changing Your Account Information**
+Communicating with Wisestep  
+All Members at Wisestep will recieve messages posted on the site or through email. These might include Welcome notes, Reminder alerts and Notifications regarding their Job and Career Opportunities. Wisestep will also send you email alerts when you recieve messages from other Members. You may also recieve promotional information from Wisesetep regarding new features and Services. You can manage your own notification settings from the Account Settings section. Similar account settings will soon be available for the Employers Section. For any issues please write to us at [support@wisestep.com](mailto:support@wisestep.com).
 
-You can review the personal information you provided us and make any desired changes to the information, or to the settings for your WiseStep.com account, at any time by logging in to your account on the WiseStep.com website and editing the information on your Profile page. You can close your account through the WiseStep.com website or by writing to us at support@WiseStep.com . If you close your WiseStep.com account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the WiseStep.com Privacy Policy that you have previously agreed to. To close your account and remove your information from the WiseStep.com service, please send your request to support@WiseStep.com Please send your request using the email account that you have registered with WiseStep.com under your name. You will receive a response to requests sent to support@WiseStep.com ithin five business days of our receiving it.
+Communicating on External Platforms  
+The Wisestep website and application is also available to users on other external platforms and websites like Facebook, In cases of such hosted Services, the Member will be bound by the Terms of Service and Privacy statement of the External Platform. The Terms of Service of the External platform overrides that of Wisestep, wherever mentioned. In case no mention is made pertaining to any specific issue on the Host site, the terms of Wisestep will apply,
 
-**G. Security**
+Sharing details of your External Platform account with others will allow them to access your Wisestep Account on that External Platform even though you have not divulged information on your Wisestep Account. Members are advised not to share details of their Facebook Account with anyone else. 
 
-In order to secure your personal information, access to your data on WiseStep.com is password-protected. To protect any data you store on our servers we also regularly audit our system for possible vulnerabilities and attacks and we use a tier-one secured-access data center.
+When a Member joins Wisestep through any Extenal Platform, Wisestep will ask for Permission to access some information from their External Platform Account to make your experience better and more relevant on wisestep.com. 
 
-**H. Changes**
+Job Applications and Applicant Information  
+Members at Wisestep can respond to open Job Postings and Careers Opportunities available on Wisestep, and send in Job Applications. In order to facilitate the Hiring Process, your Job Application and accompanying Information will be mailed to the Recruiter/Employer who posted the Job. They might contact you directly using the Contact Information you provide or through Wisestep.com and keep your Details on their Record for future Hiring. If the Member applying for the Job permits so, their Application and can also be shared with other Recruiters and Employers within the Wisestep network.
 
-WiseStep.com may update this privacy policy. In the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on this site. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. Notice of all changes that materially affects the way in which your personally identifiable data may be used or shared will be posted in updates to our privacy policy. If you continue to use the WiseStep.com service after notice of changes has been sent or published on our site, you hereby provide your consent to the changed practices.
+Changing your Account Information  
+Members can access and edit their personal information by logging into Wisestep and viewing the Profile Page. Here, the Member can set the visibility of their account information to other Members and third-parties.
 
-**I. Questions or Comments**
+Members can terminate their account at Wisestep by sending a request to[ support@wisestep.com](mailto:support@wisestep.com). On terminating the account, all personally identifiable information of the Member would be permanently removed from the site. However, Wisestep will retain some information to prevent fraud or future abuse, for legitimate business reasons, for ananlysis of non-personal data, and if so required by law. The data thus stored will be subject to the same Privacy Policy as agreed upon by the Member.
 
-If you have questions or comments about this privacy policy, please contact support@WiseStep.com 
+Security  
+In order to protect your personal information, your Wisestep Account is provided with a personalized Password. Kindly do not reveal the password to anyone else or save it in a publically accessible computer. Wisestep uses a secure access data center for storing your details. If you suspect that your account has been accessed by someone else, report immediately to [support@wisestep.com](mailto:support@wisestep.com).
+
+Change in Privacy Policy  
+Wisestep might change or update its Privacy Policy at short notice. In case there are significant changes in the way your information is treated, a notice would be put up on the website informing Members of the same. If a Member continues to use the platform after this notice, it is taken that he agrees to the updated Privacy Policy.
