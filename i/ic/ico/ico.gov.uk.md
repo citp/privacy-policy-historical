@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ico.gov.uk privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213114432id_/http%3A//www.ico.gov.uk/Global/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.gov.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620132634id_/http%3A//www.ico.gov.uk/Global/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Privacy notice - Information Commissioner's Office - ICO
 
@@ -20,9 +20,9 @@ When someone visits [www.ico.gov.uk](http://www.ico.gov.uk/) we collect standard
 
 ### Use of cookies by the ICO
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
 
-One of the cookies we use is essential for parts of the site to operate and has already been set (see ‘Essential site cookie’ below). A second cookie (see ‘Content Management System cookie’ below) is set on a small number of users’ machines, depending on the browser they use, when they arrive at the ICO site. We do not use this cookie for any purpose and are working with the suppliers of our Content Management System to remove it or find another solution. You may delete and block all cookies from this site, but parts of the site will not work.
+The table below explains the cookies we use and why. 
 
 ## Cookie
 
@@ -39,23 +39,34 @@ One of the cookies we use is essential for parts of the site to operate and has 
 ## More information  
   
 ---|---|---|---  
-Essential site cookie (for online notification form) | 
-
-ASP.NET_SessionId
-
-Value: l05aucudkhggfv45dd2l3g55
-
-| This cookie is essential for the online notification form – the form that data controllers can use to notify with the ICO – to operate and is set upon your arrival to the ICO site. This cookie is deleted when you close your browser. | 
-
-[Visit the Microsoft website](http://support.microsoft.com/kb/899918 "External link")  
   
+Google Analytics
+
+| 
+
+_utma  
+_utmb  
+_utmc  
+_utmz
+
+| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | 
+
+[Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")  
+  
+ICO site cookie acceptance | 
+
+ICOCookiesAccepted
+
+| This cookie is used to record if a user has accepted the use of cookies on the ICO website. |   
 Online notification form cookie | 
 
 ASP.NET_SessionId
 
-Value: zppgzxbvizwteb55r4lsycba
+| 
 
-| This cookie is used to enhance security on our online notification form – the form that data controllers can use to notify with the ICO. It is set for users of the online notification form only. This cookie is deleted when you close your browser. | 
+This cookie is essential for the online notification form – the form that data controllers can use to notify with the ICO – to operate. It is set only for those people using the form. This cookie is deleted when you close your browser.
+
+| 
 
 [Visit the Microsoft website](http://support.microsoft.com/kb/899918 "External link")  
   
@@ -65,41 +76,11 @@ ico62#sc_wede
 
 | 
 
-This cookie is set by our Content Management System on a small number of browsers, upon arrival to the ICO site. It is not used by the ICO for any purpose. This cookie is deleted when a user closes their browser.
+This cookie is set by our content management system on a small number of browsers, upon arrival to the ICO site. It is not used by the ICO for any purpose. This cookie is deleted when a user closes their browser.
 
 | 
 
-We have recently become aware of this cookie. We are working with the supplier of our content management system to remove it or, if it can’t be removed, to find another solution.  
-  
-Google Analytics | 
-
-_utma  
-_utmb  
-_utmc  
-_utmz
-
-| 
-
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where vistors have come to the site from and the pages they visited.
-
-| 
-
-[Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")  
-  
-ICO site cookie acceptance | ICOCookiesAccepted | This cookie is used to record if a user has accepted the use of cookies on the ICO website. |   
-Annual report webcast cookie, hosted by Workcast | 
-
-ASP.NET_SessionId
-
-Value: g5d51avbxt51dojpyv0ezn45
-
-| This cookie is used to record that users have viewed the webcast. It collects information in an anonymous form. This cookie expires when you close your browser. | [View the Workcast privacy policy](http://www.workcast.co.uk/privacy.aspx "External link")  
-Annual report webcast - attendee cookie | workcast_apc  | Some webcasts would use this cookie to record a user’s activity during a webcast, for example if they had asked a question, and would use the cookie to show the user their question and other activity on subsequent visits. This functionality is not available on this webcast. This cookie will record an anonymous ID for each user, but it will not use the information for any purpose. The cookie will last for three months. | [View the Workcast privacy policy](http://www.workcast.co.uk/privacy.aspx "External link")  
-Annual report webcast - authentication cookie  | workcast_aac  | 
-
-Some webcasts require users to fill in a form to view them; some presentations also require a user to view a number of different webcasts. In those cases, this cookie is used to allow users to view different webcasts without needing to fill in a form again. This functionality is not turned on for this webcast. This cookie will record an anonymous ID for each user, but it will not use the information for any purpose. The cookie will last for 30 days.
-
-| [View the Workcast privacy policy](http://www.workcast.co.uk/privacy.aspx "External link")   
+The supplier of our content management system (the software we use to update our website) is working to remove this cookie from their product.  
   
 Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
@@ -116,6 +97,8 @@ The search engine on our website is designed to be as powerful and easy to use a
 ## People who call our helpline
 
 When you call the ICO's helpline we collect Calling Line Identification (CLI) information. We use this information to help improve its efficiency and effectiveness.
+
+Our helpline also offers a translation service for customers when English is not their first language, this is provided by a third party company. The company that provides this service does not retain any information from the calls or record them.
 
 ## People who make a complaint to us
 
@@ -170,11 +153,11 @@ ICO tries to be as open as it can be in terms of giving people access to their p
 
 
 
-To make a request to the ICO for any personal information we may hold you need to put the request in writing addressing it to our Internal Compliance Team, or writing to the address provided below. 
+To make a request to the ICO for any personal information we may hold you need to put the request in writing addressing it to our Information Governance department, or writing to the address provided below. 
 
 If you agree, we will try to deal with your request informally, for example by providing you with the specific information you need over the telephone.
 
-If we do hold information about you, you can ask us to correct any mistakes by, once again, contacting the Internal Compliance Team.
+If we do hold information about you, you can ask us to correct any mistakes by, once again, contacting the Information Governance department.
 
 ## Disclosure of personal information
 
@@ -195,12 +178,12 @@ This privacy notice does not cover the links within this site linking to other w
 
 ## Changes to this privacy notice
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 28 September 2011.
+We keep our privacy notice under regular review. This privacy notice was last updated on 11 June 2012.
 
 ## How to contact us
 
-Requests for information about our privacy policy can be emailed to the Internal Compliance Department or by writing to:  
-Internal Compliance Department  
+Requests for information about our privacy policy can be emailed to the Information Governance department or by writing to:  
+Information Governance  
 Information Commissioner's Office  
 Wycliffe House  
 Water Lane  
