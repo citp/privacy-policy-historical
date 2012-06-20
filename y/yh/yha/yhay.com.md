@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yhay.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214002602id_/http%3A//www.ientry.com/page/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yhay.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620173956id_/http%3A//www.ientry.com/page/corp/privacy.html) for the most accurate reproduction.*
 
 # iEntry Network - Privacy Policy
 
