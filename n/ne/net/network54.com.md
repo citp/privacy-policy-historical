@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the network54.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221202246id_/http%3A//www.network54.com/Help%3Ftopic%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the network54.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620095546id_/http%3A//www.network54.com/Help%3Ftopic%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy
 
