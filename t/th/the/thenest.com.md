@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the thenest.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221173936id_/http%3A//www.thenest.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenest.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620221135id_/http%3A//www.thenest.com/global/privacy.html) for the most accurate reproduction.*
 
-# - TheNest.com
+# Privacy Policy - Your Privacy Rights
 
 If you have questions or concerns regarding this statement, you should first contact The Nest Member Services by emailing [membersupport@thenest.com](mailto:membersupport@thenest.com) and writing "Privacy Policy" in the subject line. You may also write to The Nest Member Services at 195 Broadway, Floor 25, New York, NY 10007 or call (212) 219-8555.
+
+As we describe below, we may share your personal information with third parties for their marketing purposes. You can elect for us not to do so by editing your privacy preferences in your member profile at http://global.thenest.com/join/EmailPreferences.aspx, or by emailing us at membersupport@thenest.com (please include your name, address, and email address).
 
 ### HOW WE COLLECT YOUR INFORMATION
 
@@ -48,4 +50,4 @@ We use third-party advertising companies to serve our ads on our Web site. These
 
 If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt-out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
 
-Jun 18, 2009 
+Feb 08, 2012 
