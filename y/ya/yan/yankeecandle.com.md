@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yankeecandle.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211170717id_/http%3A//www.yankeecandle.com/customer-service/privacy-and-security/t) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yankeecandle.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620043335id_/http%3A//www.yankeecandle.com/customer-service/privacy-and-security/t) for the most accurate reproduction.*
 
-# Customer Service | Privacy And Security | YankeeCandle.com
+# Yankee Candle : Privacy and Security
 
 ---  
   
