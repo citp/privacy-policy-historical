@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loadingartist.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021759id_/http%3A//www.loadingartist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadingartist.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620051219id_/http%3A//www.loadingartist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Loading Artist
 
@@ -51,11 +51,11 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.loadingartist.com/terms-and-conditions>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.loadingartist.com/terms-and-conditions](https://web.archive.org/terms-and-conditions)
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.loadingartist.com/privacy-policy).
+By using our site, you consent to our [online privacy policy](https://web.archive.org/privacy-policy).
 
 **Changes to our Privacy Policy**
 
