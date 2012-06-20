@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupon.ae privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202144259id_/http%3A//www.groupon.ae/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.ae privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620021434id_/http%3A//www.groupon.ae/data_privacy) for the most accurate reproduction.*
 
 # Up to 90% discount on restaurants, spas, wellness, fitness - Groupon.ae
 
@@ -22,7 +22,7 @@ We collect two types of information about our Website Users: Personally Identifi
 
 **Tell-A-Friend/Buy it for a Friend**. If you choose to use our referral service or buy a deal for a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email with the gift you bought for them or inviting him or her to visit the site. Groupon stores this information for the sole purpose of sending this one-time email, sending their gift, and tracking the success of our referral program.
 
-Your friend may contact us at support@groupon.ae to request that we remove this information from our database.
+Your friend may contact us at groupon.ae/contact to request that we remove this information from our database.
 
 We use Personally Identifiable Information to provide products and services to you, administer sweepstakes and contests, enhance the operation of the Website, improve our marketing and promotional efforts, analyze Website use, improve our product and service offerings, and to tailor your experience with third parties as provided in Item 3 of this Privacy Policy. For example, if you send our customer service an email we may use your comments and feedback to tell others about our services, and may post your comment in our marketing materials or on our Website. Your comments may contain personal information such as your name, we will obtain consent from you to post your name along with your comment prior to posting your comment for public view. In addition, if you use our Website to send information or a product to another person, we may store your personal information. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Website Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.
 
@@ -54,7 +54,7 @@ We also use Third Party Service Providers to track and analyze Non-Personally Id
 
 **5\. Updating and Correcting Information**
 
-We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account and accessing the "my account" section of the site, or by sending us an email at support@groupon.ae We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information.
+We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account and accessing the "my account" section of the site, or by contacting us through, [groupon.ae/contact](http://www.groupon.ae/contact). We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information.
 
 If you choose to store credit card information on the site, this is stored on a secure page and you may delete your credit card information at any time by going to the "my account" section of your profile.
 
@@ -62,7 +62,7 @@ If you choose to store credit card information on the site, this is stored on a 
 
 As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website.
 
-As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at support@groupon.ae,  or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
+As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by submitting a request at [groupon.ae/contact](http://www.groupon.ae/contact),  or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
 
 **7\. Security of Information**
 
@@ -82,7 +82,7 @@ This Privacy Policy only addresses the use and disclosure of information we coll
 
 **10\. Miscellaneous Privacy Issues**
 
-Groupon, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@groupon.ae. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Groupon, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us through [groupon.ae/contact](http://www.groupon.ae/contact). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 **Children**. We do not knowingly collect personal information from anyone under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. Groupon does not sell products for purchase by children. In certain instances, we sell children's products for purchase by adults.
 
@@ -98,8 +98,4 @@ Whether you’re a new or loyal customer, restaurant owner, marketer, publisher,
 
 Groupon, FZ LLC.  
 Attn: Copyright Agent   
-Office 341 Building 7
-
-Dubai Media City, Dubai UAE
-
-[support@groupon.ae](mailto:support@groupon.ae)
+Office 139 Building 9
