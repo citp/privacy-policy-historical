@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insound.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222012745id_/http%3A//www.insound.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insound.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620070114id_/http%3A//www.insound.com/privacy-statement) for the most accurate reproduction.*
 
 # Insound.com: Vinyl, MP3s, Band Posters, T-shirts, Turntables, and more.
 
