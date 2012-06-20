@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelvista.net privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216122159id_/http%3A//www.travelvista.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelvista.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620113556id_/http%3A//www.travelvista.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | World Travel
+# Privacy Policy Tourism, Tourist Attractions in Privacy Policy , Places To Visit in Privacy Policy , Hotels in Privacy Policy | World Travel
 
 Travel Vista has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
