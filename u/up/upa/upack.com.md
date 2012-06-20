@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095039id_/http%3A//www.upack.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620234913id_/http%3A//www.upack.com/about/privacy.asp) for the most accurate reproduction.*
 
 # ABF U-Pack Moving Privacy Policy
 
@@ -33,9 +33,3 @@ Please note that by using the U-Pack Moving Web site, you consent to the collect
 Please note that we updated this privacy policy on July 2, 2007 to clarify that we share information with companies that assist us in providing services to our customers, and they may only use that information to assist us, not for their own purposes. What has not changed is that we will not sell, rent, or trade your information to others without your consent.
 
 We practice permission marketing. If you would like to remove yourself from receiving future messages please visit our [opt out page](https://web.archive.org/un.asp). In any event, U-Pack will never provide your e-mail address to third parties.
-
-Moving Tip
-
-Moving Tip #10
-
-Proper packing and loading is essential for a successful move. [See our tips](https://web.archive.org/moving-resources/moving-advice.asp).
