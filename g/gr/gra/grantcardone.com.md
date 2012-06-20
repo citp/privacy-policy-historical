@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grantcardone.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214010707id_/http%3A//www.grantcardone.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantcardone.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620064515id_/http%3A//www.grantcardone.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Grant Cardone
+# Sales Training Speakers, Sales Training Success, Grant Cardone Privacy Policy | Grant Cardone
 
 At GRANT CARDONE, we take privacy issues seriously. By ensuring that you are aware of and understand the GRANT CARDONE Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
 
