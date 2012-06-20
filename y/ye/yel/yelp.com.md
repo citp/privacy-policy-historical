@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006130658id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy%26country%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620194744id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy%26country%3DUS) for the most accurate reproduction.*
 
 # Privacy Policy | Yelp
 
-**Last Updated on September 21, 2011.** This updated Privacy Policy will become effective and binding on October 21, 2011 ( **"Effective Date"** ). Please read it carefully. You understand and agree that your continued access to or use of the Site after the Effective Date indicates your acceptance of and consent to the new Policy. To review the current policy, please click [here](http://www.yelp.com/static?p=privacy_archived).
+**Last Updated on September 21, 2011.** To review the previous policy, please click [here](http://www.yelp.com/static?p=privacy_archived).
 
-This Privacy Policy describes our policies on the collection, use, and disclosure of your information in connection with your use of our websites, emails, and mobile applications ( **"Site"** ). The terms **"we"** , **"us"** , and **"Yelp"** refer to Yelp! Inc., a Delaware corporation. When you use the Site, you consent to our collection, use, and disclosure of your information as described in this Privacy Policy.
+This Privacy Policy describes our policies on the collection, use, and disclosure of your information in connection with your use of our websites, emails, and mobile applications ( **"Site"** ). The terms **"we"** , **"us"** , and **"Yelp"** refer to Yelp Inc., a Delaware corporation. When you use the Site, you consent to our collection, use, and disclosure of your information as described in this Privacy Policy.
 
 * ## Information You Submit
 
 We may store the information you submit to or through the Site. We use the information to fulfill your requests, provide Site functionality, improve Site quality, personalize your experience, display relevant advertising, provide customer support, message you, back up our systems, allow for disaster recovery, and comply with legal obligations. Among the information you submit to or through the Site, please note:
 
-  1. **Account Registration:** You must provide a valid email address in order to sign up for an Account on the Site. In addition, you may provide us with your full name, gender, and birth date. When you sign up for a Yelp account, we opt you in to receive emails from other Yelp users, business owners and Yelp by default. You can manage your email preferences and modify some of the information associated with your account [here](https://web.archive.org/profile_info). Note that you cannot opt out of receiving required administrative or legal notices. If you feel that an unauthorized account has been created depicting you or your likeness, you can request its removal [here](https://web.archive.org/contact).
-  2. **Public Content:** Your reviews, quick tips, photos, check-ins, message board posts, bookmarks, friends, lists, compliments, account profile (including your first name and last initial, but excluding your other account registration information), and other content you post to the Site are meant for public consumption. We may display this content on the Site, and further distribute it to a wider audience through third party sites and services.
+  1. **Account Registration:** You must provide a valid email address in order to sign up for an Account on the Site. In addition, you may provide us with your full name, gender, and birth date. When you sign up for a Yelp account, we opt you in to receive emails from other Yelp users, business owners and Yelp by default. You can manage your email preferences and modify some of the information associated with your account [here](https://web.archive.org/profile_bio). Note that you cannot opt out of receiving required administrative or legal notices. If you feel that an unauthorized account has been created depicting you or your likeness, you can request its removal [here](https://web.archive.org/contact).
+  2. **Public Content:** Your reviews, tips, photos, check-ins, message board posts, bookmarks, friends, lists, compliments, account profile (including your first name and last initial, but excluding your other account registration information), and other content you post to the Site are meant for public consumption. We may display this content on the Site, and further distribute it to a wider audience through third party sites and services.
   3. **Contacts:** You can invite your friends to join the Site by providing their contact information, or by allowing us to use your address book from your computer, mobile device, or other sites. If you invite a friend to join and connect with you on the Site, we may use and store your friends' contact information long enough to process your requests.
   4. **Messaging:** If you exchange messages with others through the Site, we may store these messages in order to deliver them and allow you to manage them. If you send information from the Site to your phone via SMS text message, we may log your phone number, phone carrier, and the date and time that the message was processed. Carriers may charge recipients for texts that they receive.
   5. **Credit Card Purchases:** If you purchase business advertising, Deals, or other Yelp products or services online, we may collect and store billing and credit card information. This information will only be shared with third parties who perform tasks required to complete the purchase transaction (such as fulfilling orders and processing credit card payments). When you submit credit card numbers, we encrypt that information using industry standard technology.
@@ -44,7 +44,7 @@ We do not rent, share, sell or trade personally identifiable information with th
 
 * ## Controlling Your Personal Data
 
-Other users may be able to identify you, or associate you with your user account if you include personal information in your Public Content. You can reduce the risk of being personally identified by using the Site pseudonymously, though doing so could detract from the credibility of your contributions to the Site. Users can also use the Member Search feature to find one another based on their names or email addresses. You can opt-out of this feature [here](https://web.archive.org/profile_info).
+Other users may be able to identify you, or associate you with your user account if you include personal information in your Public Content. You can reduce the risk of being personally identified by using the Site pseudonymously, though doing so could detract from the credibility of your contributions to the Site. Users can also use the Member Search feature to find one another based on their names or email addresses. You can opt-out of this feature [here](https://web.archive.org/profile_bio).
 
 Please also note that the messages you send or receive using the Site are only private to the extent that you and the sender/recipient keep them private. For example, we do not have any control over whether a recipient of one of your personal messages publicly posts it or its contents.
 
@@ -66,7 +66,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 If you believe that Yelp has not adhered to this Privacy Policy you may write to the Yelp Privacy Officer at the following address:
 
-Yelp! Inc.  
+Yelp Inc.  
 Attn: Privacy Officer  
 706 Mission Street  
 San Francisco, CA 94103  
