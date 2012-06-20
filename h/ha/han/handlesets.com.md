@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handlesets.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221173740id_/http%3A//www.handlesets.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handlesets.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620075309id_/http%3A//www.handlesets.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # Handlesets.com: Security & Privacy
 
@@ -37,14 +37,14 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 Because we value your right to privacy, we do not sell or otherwise share your contact information to unrelated third parties. Handlesets.com and our Network of Stores use email as one of the primary methods of communicating with our customers. The emails we send may be related to a variety of issues, including:
 
   * A direct response to an inquiry,
-  * Communication concerning an order (receipt, shipping confirmation, etc), or 
+  * Communication concerning an order (receipt, shipping confirmation, etc), or
   * Promotional emails you have indicated you wish to receive.
 
 
 
 From time to time, we may notify you of special offers based on your purchasing history with us. If you create a Saved Cart, or have one created by our staff, you may receive follow-up emails related to this Cart. You may unsubscribe at any time by following the simple instructions contained in the emails. Unsubscribing will not apply to any future Saved Carts that are created. If you have signed up to receive our promotional emails and wish to stop your subscription, you'll find easy-to-follow unsubscribe instructions in each promotional email. You may also change your subscription status at any time by:
 
-  * [Logging into your account](https://web.archive.org/index.cfm?page=account:home) and editing your "Change Billing Info"
+  * Logging into your account and editing your "Change Billing Info"
   * Sending an email to [newsletters@Handlesets.com](mailto:newsletters@Handlesets.com)
   * Contacting us by phone at (888) 649-0865. Representatives in our call center can also alter your subscription preferences.
 
@@ -57,5 +57,9 @@ Information about our customers is an important part of our business, and we are
 ## Conditions of Use, Notices, and Revisions
 
 If you choose to visit Handlesets.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Handlesets.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
+
+## Does Build.com Participate in the Safe Harbor Program?
+
+Build.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and European Commission. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](http://export.gov/safeharbor/) or view our [Safe Harbor Privacy Policy](https://web.archive.org/index.cfm?page=help:safeharborprivacypolicy)
 
 **Copyright © 2000-2010 Build.com, Inc. All Rights Reserved.**
