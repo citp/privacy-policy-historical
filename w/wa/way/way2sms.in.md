@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the way2sms.in privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328144940id_/http%3A//wwwa.way2sms.com/content/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2sms.in privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620035739id_/http%3A//www.way2sms.com/content/privacypolicy.html) for the most accurate reproduction.*
 
-# Way2SMS - FREE SMS any where in India
+# Way2SMS - Privacy Policy
+
+## Privacy Policy 
 
 Way2Online Interactive India Pvt Ltd and its subsidiaries ([www.way2sms.com](http://www.way2sms.com/)) takes your privacy seriously. Please read the following to learn more about our privacy policy.You are advised to please read the Privacy Policy carefully. By accessing the services provided by Way2SMS.com you agree to the collection and use of your data by Way2SMS in the manner provided in this Privacy Policy.
 
@@ -8,7 +10,7 @@ if you have questions or concerns regarding this statement, you should contact W
 
 **What this Privacy Policy Covers**
 
-  * This Privacy Policy covers Way2SMS.COM treatment of personally identifiable information that Way2SMS collects when you are on the site, and when you use Way2SMS services. This policy also covers Way2SMS’s treatment of any personally identifiable information that Way2SMS’s business partners share with Way2SMS.
+  * This Privacy Policy covers Way2SMS.COM treatment of personally identifiable information that Way2SMS collects when you are on the site, and when you use Way2SMS services. This policy also covers Way2SMSâ€™s treatment of any personally identifiable information that Way2SMSâ€™s business partners share with Way2SMS.
   * This policy does not apply to the practices of companies that Way2Online or Way2SMS does not own or control, or to people that Way2SMS does not employ or manage. 
 
 
@@ -93,7 +95,7 @@ Generally, we use anonymous traffic information to:
 
 **Information Sharing And disclosure**
 
-** ** We do not share or rent your email addresses or Mobile number with third parties except our alliance partners.
+We do not share or rent your email addresses or Mobile number with third parties except our alliance partners.
 
 Way2SMS will send personally identifiable information about you to other companies or people when: 
 
@@ -106,6 +108,30 @@ Way2SMS will send personally identifiable information about you to other compani
 
 
 We share your information with advertisers on an aggregate basis only.
+
+**Terms and Conditions for using the "Connect to Facebook and Facebook Chat" application:**
+
+Once you connect your facebook account on our website [www.way2sms.com](http://www.way2sms.com/), in addition to our privacy policy, the following terms shall specifically apply:
+
+  * You unequivocally agree that we shall have access to all your information which is defined and uploaded as 'basic account information' (including your date of birth) and 'public information' by Facebook under http:/[developers.facebook.com/policy/#definitions](http://developers.facebook.com/policy/#definitions).
+  * You authorize us to access your data/information (including 'basic account information' and 'public information') from [www.facebook.com](http://www.facebook.com/), even while you are not online on [www.way2sms.com](http://www.way2sms.com/).
+  * You authorize us to pull posts from your Facebook account.
+  * You authorize us to push posts to your Facebook account.
+  * We undertake not to transmit and/or transfer your 'data/information' to any other third party. In this regard we undertake to adhere to the policies as set out by Facebook under the caption "Storing and Using data you receive from us" on [www.facebook.com](http://www.facebook.com/).
+  * You agree that you will be bound to comply with all stipulations in this regard from time to time as set forth by us without needing any further notice of the same. The publication of any such conditions on the website shall constitute sufficient notice to you.
+
+
+
+**Further in addition to the above, by accepting the abovesaid terms you agree that:**
+
+  * We may collect your information, as required by us, including basic account information, public information, posts and other data related to you as found on [www.facebook.com](http://www.facebook.com/) (referred to as 'your information'), irrespective of your online status on [www.way2sms.com](http://www.way2sms.com/).
+  * We may store 'your information' as required by us on our website [www.way2sms.com](http://www.way2sms.com/)
+  * You authorize us to access 'your information' as available on Facebook for the purposes of enhancing our user experience on our website '[www.way2sms.com](http://www.way2sms.com/)'.
+  * You agree that besides the aforementioned privacy policy terms specifically in relation to "Connect with Facebook" application, all your data/information obtained from your facebook account shall be subject to our overall privacy policy as well.
+  * In relation to any queries/feedback regarding the "Connect to facebook" feature on our website, the users should contact at [support@way2sms.com](mailto:support@way2sms.com).
+  * In the event of any conflict between the privacy policy of [way2sms.com](http://way2sms.com/) and the privacy policy of [facebook.com](http://facebook.com/), the privacy policy of [way2sms.com](http://way2sms.com/) shall prevail.
+
+
 
 **Security**
 
@@ -126,7 +152,7 @@ We reserve the right to change or update this policy at any time by placing a pr
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our homepage.
 
-If you have questions or suggestions email us at  [info@way2sms.com](http://way2sms.com/)
+If you have questions or suggestions email us atÂ  [info@way2sms.com](http://way2sms.com/)
 
 **Contact Information**  
 You can contact us at: 
