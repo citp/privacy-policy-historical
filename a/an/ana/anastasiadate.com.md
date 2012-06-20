@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the anastasiadate.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214193736id_/http%3A//www.anastasiadate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anastasiadate.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621004627id_/http%3A//www.anastasiadate.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Depending on what you do when you visit any Web site, you are providing information about your visit to the site's owners. This includes AnastasiaDate.com. We value privacy and think you do too, so we want you to have the information you need to make your own decisions about your personal privacy. When you visit or supply information to any Web site, we think it's a good idea for you to first understand what that site's privacy policies are. If the site doesn't tell you, don't hesitate to ask.
 
-The bottom line at www.AnastasiaDate.com is that we only use the information that we get from your visit for internal tracking purposes, to make AnastasiaDate.com as useful and interesting to you as we can, and to respond to your requests for information or other services. Except for as specifically noted, we do not use your personal information for any other purpose; we never sell it to any third party; and we never share it with any third party.
+The bottom line at www.AnastasiaDate.com is that we only use the information that we get from your visit for internal tracking purposes, to make AnastasiaDate.com as useful and interesting to you as we can, and to respond to your requests for information or other services. Except for as specifically noted, we do not use your personal information for any other purpose; we never sell it to any third party; and we never share it with any third party. 
 
 Read more about how your personal information is managed:
 
@@ -67,7 +67,7 @@ We may use information to:
 
 When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply in case we correspond further. Beyond our initial reply, we will never use your email address to send you any unsolicited message or information, nor will we share it with or sell it to anyone else for such use.
 
-You will also receive our email newsletters, account updates and special offers targeted to your interests sent to you by AnastasiaDate.
+You will also receive our email newsletters, account updates and special offers targeted to your interests sent to you by AnastasiaDatea.
 
 We will not use your address or other information to provide you with any unsolicited message or information (unless that is part of the service you are requesting), nor will we share it with or sell, rent or lease it to any third party for such use.
 
