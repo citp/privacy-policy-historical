@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superantispyware.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214002544id_/http%3A//www.superantispyware.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superantispyware.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620195709id_/http%3A//www.superantispyware.com/privacy_policy.html) for the most accurate reproduction.*
 
 # SUPERAntiSpyware.com - Privacy Policy
 
@@ -91,4 +91,4 @@ SUPERAntiSpyware may update this policy at any time. We will notify you about si
   
 [Terms of Service](https://web.archive.org/termsofservice.html) | [Privacy Policy](https://web.archive.org/privacy_policy.html) | [Company](https://web.archive.org/company.html) | [Contact](https://web.archive.org/contact.html)
 
-(c) Copyright 2005-2011 - SUPERAntiSpyware.com
+(c) Copyright 2005-2012 - SUPERAntiSpyware.com
