@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the outdoorandcountry.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204853id_/http%3A//www.outdoorandcountry.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorandcountry.co.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620120252id_/http%3A//www.outdoorandcountry.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - The Outdoor & Country Store
 
 **We are committed to protecting and respecting your privacy.**
 
-**This policy (together with our[Terms of Use](https://web.archive.org/web/20111231204853id_/http%3A//www.outdoorandcountry.co.uk/returnspolicy.aspx) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.**
+**This policy (together with our[Terms of Use](https://web.archive.org/web/20120620120252id_/http%3A//www.outdoorandcountry.co.uk/returnspolicy.aspx) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.**
 
 **For the purpose of the Data Protection Act 1998 (the Act), the data controller is Smith and Morris Retail Limited T/A The Outdoor and Country Store of The Old School, Stone Road, Blackbrook, Newcastle-under-Lyme, Staffordshire, ST5 5EG.**
 
 **Our nominated representative for the purpose of the Act is Jonathan Capener.**
 
-## INFORMATION WE MAY COLLECT FROM YOU 
+## INFORMATION WE MAY COLLECT FROM YOU
 
 You do not have to register to view most of our website. However, some personal information is required if you choose to place an order, contact us via email or request a catalogue. 
 
@@ -41,7 +41,7 @@ You may refuse to accept cookies by activating the setting on your browser which
 
 Please note that our advertisers and tracking software may also use cookies (third-party), over which we have no control.
 
-## WHERE WE STORE YOUR PERSONAL DATA 
+## WHERE WE STORE YOUR PERSONAL DATA
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
@@ -49,7 +49,7 @@ All information you provide to us is stored on secure servers. Any payment trans
 
 Unfortunately, the transmission of information via the internet is not completely secure. Athough we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-## USES MADE OF THE INFORMATION 
+## USES MADE OF THE INFORMATION
 
 We use information held about you in the following ways: 
 
@@ -76,7 +76,7 @@ We may disclose your personal information to third parties:
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
 
   * If Smith and Morris Retail Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/web/20111231204853id_/http%3A//www.outdoorandcountry.co.uk/returnspolicy.aspx) or [Terms and Conditions of Supply](https://web.archive.org/web/20111231204853id_/http%3A//www.outdoorandcountry.co.uk/returnspolicy.aspx) and other agreements; or to protect the rights, property, or safety of Smith and Morris Retail Ltd T/A The Outdoor and Country Store, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/web/20120620120252id_/http%3A//www.outdoorandcountry.co.uk/returnspolicy.aspx) or [Terms and Conditions of Supply](https://web.archive.org/web/20120620120252id_/http%3A//www.outdoorandcountry.co.uk/returnspolicy.aspx) and other agreements; or to protect the rights, property, or safety of Smith and Morris Retail Ltd T/A The Outdoor and Country Store, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -86,17 +86,17 @@ You have the right to ask us not to process your personal data for marketing pur
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-## ACCESS TO INFORMATION 
+## ACCESS TO INFORMATION
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. We will provide you with a readable copy of the personal data that we keep about you within 15 working days. There is no charge for this, but evidence of proof of your identity will be required.
 
 It is in our interest and yours to hold accurate date. If the data we hold on you is inaccurate in any way where appropriate you may have the data: erased; rectified or amended; completed.
 
-##  CHANGES TO OUR PRIVACY POLICY 
+## CHANGES TO OUR PRIVACY POLICY
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-## DISPUTE 
+## DISPUTE
 
 We aim to ensure that we have resolved any matters satisfactorily, however if you are not satisfied with our response you may contact: 
 
