@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instructure.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206154603id_/http%3A//www.instructure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instructure.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620210825id_/http%3A//www.instructure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Instructure
 
@@ -31,8 +31,8 @@ Instructure, Inc. (" **Instructure** ") is committed to protecting your privacy.
 
   
 Instructure, Inc.  
-6415 South 3000 East Suite 100  
-Salt Lake City, UT 84121  
+9020 S Sandy Parkway, STE 300  
+Salt Lake City, UT 84070  
 (801) 869.5000 
 
   11. **Dispute Resolution.** If you believe that Instructure has not adhered to this Statement, please contact Instructure by e-mail at privacy@instructure.com. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation.
@@ -40,4 +40,4 @@ Salt Lake City, UT 84121
 
 
 
-This Privacy Policy was last revised on October 20, 2010.
+This Privacy Policy was last revised on March 21, 2012.
