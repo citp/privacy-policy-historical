@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cdcovers.to privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003705id_/http%3A//cdcovers.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdcovers.to privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620210050id_/http%3A//www.cdcovers.to/privacy-policy) for the most accurate reproduction.*
 
-# CDcovers.to - free cd and dvd cover search
+# CDcovers.to - Download cd, dvd and blu-ray covers
 
-**Privacy policy**
+## Privacy policy
 
 CDcovers.to respects and protects the privacy of the individuals that use CDcovers.to's search engine services. Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission, as explained in this privacy policy.
 
@@ -11,10 +11,6 @@ CDcovers.to respects and protects the privacy of the individuals that use CDcove
 Upon your first visit to CDcovers.to, CDcovers.to sends a "cookie" to your computer. A cookie is a piece of data that identifies you as a unique user. CDcovers.to uses cookies to improve the quality of our service and to understand our user base more. CDcovers.to does this by storing user preferences in cookies. CDcovers.to will not disclose its cookies to third parties.
 
 Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Beaware, however, that some parts of the CDcovers.to Search Service may not function properly if you refuse cookies.
-
-**Third party advertising**
-
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 **Third party cookies**
 
