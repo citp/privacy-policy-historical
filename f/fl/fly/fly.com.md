@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the fly.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609062122id_/http%3A//www.fly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fly.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620024417id_/http%3A//www.fly.com/privacy) for the most accurate reproduction.*
 
 # Fly.com Privacy Policy
 
-  
-The Fly.com Website is made available by Travelzoo Inc.
+The Fly.com Website is made available by Travelzoo Inc. 
 
-  
 Travelzoo Inc. is committed to protecting your privacy. Please read our privacy policy below to learn more. 
 
-What This Privacy Policy ("Policy") Covers
+What This Privacy Policy ("Policy") Covers  
+
 
   * This Policy explains the privacy practices of Travelzoo Inc. and its family of related companies (collectively, "Travelzoo") and applies to your use of Travelzoo's online products and services including various e-mail newsletters published by Travelzoo, the Websites that link to this policy, and any related information services (collectively, the "Online Services").  
  
@@ -35,8 +34,9 @@ What This Privacy Policy ("Policy") Covers
 
 Sharing and Disclosing Information
 
-  * Travelzoo does not rent or sell personal information about you to third parties. We reserve the right for third parties to collect non-personal information. We also reserve the right to share the personal information we collect about you through our Online Services with third parties when we have your permission or under the circumstances described below.   
- 
+  * Travelzoo does not rent or sell personal information about you to third parties. We reserve the right for third parties to collect non-personal information. We also reserve the right to share the personal information we collect about you through our Online Services with third parties when we have your permission or under the circumstances described below. 
+
+
   * Travelzoo may use the data we collect about you for the following purposes:   
  
   * To provide you with the products or services you have requested from us or through our Online Services;  
@@ -67,8 +67,9 @@ Cookies and Other Technologies
 
   * We use cookies and other technologies, such as Web beacons, pixel tags, and clear gifs, to personalize our Online Services to your preferences and to provide an automatic log-in process.    
  
-  * Travelzoo may use Web beacons to access Travelzoo cookies in connection with our Online Services.   
- 
+  * Travelzoo may use Web beacons to access Travelzoo cookies in connection with our Online Services. 
+
+
   * A Web beacon is an electronic file stored in a Web page that allows us to count visitors to our Websites and to recognize users by accessing Travelzoo cookies which help us personalize your experience when you use our Online Services.   
  
   * Travelzoo also uses Web beacons to conduct research on behalf of our partners and for auditing purposes. No personally identifiable information about you is shared with partners from this research. 
@@ -110,7 +111,9 @@ Changes to Our Privacy Policy
 If you have comments about this Privacy Policy, please write to us at: 
 
   
-Travelzoo Inc.  
+Travelzoo Inc.
+
+Attention: Fly.com  
 Privacy Policy Issues  
 590 Madison Avenue  
 37th Floor  
