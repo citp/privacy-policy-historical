@@ -1,0 +1,33 @@
+> *The following text is extracted and transformed from the zolo.ca privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620122436id_/http%3A//zolo.ca/privacy.php) for the most accurate reproduction.*
+
+# Homes in Canada -zolo.ca
+
+## PRIVACY POLICY
+
+  * Zolo.ca and its Suppliers respects the privacy and security of our Internet users. Personally identifying information collected on this web site is not disclosed to any third party without user consent.
+  * ### IP Addresses
+
+Zolo.ca and its Suppliers records IP (Internet Protocol) address numbers and other site usage statistics in order to better understand how visitors use our web site.
+  * ### Cookies
+
+"Cookies" are small text files that a Web site transfers to a site visitor's hard disk or browser for added functionality, or for tracking Web site usage. We do not use cookies to gather personal information like a person's name or e-mail address. In order to measure the effectiveness of our online presence, Zolo.ca and its Suppliers uses cookies to identify repeat visitors to our Web site, to determine the path visitors take on our site, and to identify unique visitors. Any information gathered by the use of cookies is compiled on an aggregate, anonymous basis.
+  * ### Registration Forms
+
+Personal information gathered from registration forms (such as name, email or street address) is used to send information related to our products and services to consenting users. When you indicate that you want to receive a product or service, or contact a person or organization, we share the data needed for you to receive what you have indicated.
+  * ### Security
+
+Zolo.ca and its Suppliers places a high priority on security. Our computer system uses a combination of hardware and software designed to protect against unauthorized entry and loss, theft, or misuse of personal information. Although we will make every effort to protect personal information, no computer system is immune from hackers and others who might misuse information. We are not responsible for any breach of security that is beyond our reasonable control.
+  * ### Links to Third Party Sites
+
+This web site contains hyperlinks to web sites operated by parties other than Zolo.ca. Please be aware that these sites may record personal information and other data according to their own privacy policies. We encourage you to review any privacy policies or notices posted on those linked sites.
+  * ### Hyperlinks
+
+This Web site contains hyperlinks or "links" to other sites, and other sites may "link" to this site. Web sites linking to and from this site may have different privacy practices and policies from the ones described here for zolo.ca. Visitors to our site should read the terms of use and privacy statements of other Web sites they visit. This privacy statement applies solely to information collected by this Web site.
+  * ### Changes to zolo.ca Internet Privacy Policy
+
+Zolo.ca may, from time to time, make changes to this policy. We recommend that visitors to this site re-visit this privacy policy on occasion to learn of new privacy practices and changes to our policy.
+  * ### How to Get in Touch with zolo.ca about this Privacy Policy
+
+It's important to us, at Zolo.ca, to hear what visitors have to say about our services, and our policies. If site visitors have any questions, concerns, or complaints about this Privacy Policy, or want to let us know what they think about any of our off-line and on-line products and services, they can email us at privacy@zolo.ca.
+
+
