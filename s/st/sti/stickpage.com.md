@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stickpage.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231115116id_/http%3A//www.stickpage.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickpage.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621000614id_/http%3A//www.stickpage.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Stickpage.com Privacy Policy
 
