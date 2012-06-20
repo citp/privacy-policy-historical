@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the estarland.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220155323id_/http%3A//www.estarland.com/index.asp%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estarland.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620195917id_/http%3A//www.estarland.com/index.asp%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # eStarland Privacy / Security Policy - Video Games & Anime Merchandise
 
 Privacy and Security Statement
 
-**Your privacy and security is our number one concern.**
+**Your privacy and security is our number one concern. **
+
+**
 
 * * *
 
- **Privacy Statement**
+Privacy Statement**
 
 eStarland.com takes the privacy of our customer’s information very seriously. Our Privacy Policy outlines how any personal information you submit to eStarland.com will be used. We want your shopping experience to be worry-free. To that end, we are committed to protecting the privacy rights of all visitors to eStarland.com. 
 
@@ -28,9 +30,11 @@ The eStarland site utilizes alphanumeric identifiers called " **Cookies** " in t
 
 While eStarland guards your information, it is important to keep your own computer secure. Anyone who has access to your computer may be able to view your information at eStarland, so it is important to protect your login and password information. 
 
+**
+
 * * *
 
-**eStarland.com Site Security Statement**
+eStarland.com Site Security Statement**
 
 The security of all Transactions at eStarland.com is a top priority for our business. Our website is protected with **Go Daddy's 256-bit encryption technology** , which allows you to enjoy **the strongest possible online security** to assure that your credit card information and personal details are kept secure. You can shop with assurance that your order will be safe with us. 
 
@@ -38,9 +42,11 @@ Information that is received by eStarland is transmitted via Secure Sockets Laye
 
 All payments are processed with secure payments technology through Authorize.net. Financial Information is protected with high-level encryption and is kept secure through every step of the process. 
 
+**
+
 * * *
 
-******Safe Shopping Guarantee**
+****Safe Shopping Guarantee**
 
 Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, eStarland.com will cover the entire liability for you, up to the full $50.00. eStarland.com will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made at eStarland.com while using the secure server. 
 
