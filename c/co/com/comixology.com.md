@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comixology.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206134231id_/http%3A//www.comixology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comixology.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620174825id_/http%3A//www.comixology.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - comiXology
+# Privacy Policy - Comics by comiXology
 
 The privacy policy (“Privacy Policy”) of Iconology, Inc. and its affiliates (collectively, “Company”) addresses Company’s collection and use of any User Information (as defined herein) that Company gathers when You interact with Company, including information gathered when You visit the Website, You register with Company, You use the Service or You interact with Company support.
 
@@ -12,7 +12,7 @@ Please review the entire policy to learn about what type of User Information Com
 
 This policy may change from time to time so please check back periodically so you are familiar with our current Privacy Policy. 
 
-**Company’s Collection of User Information:**
+### Company’s Collection of User Information:
 
 Company collects Website user information (“User Information”) in various ways, including (i) obtaining Registration Data (e.g. name, e-mail address, mailing address, credit card information, industry, occupation or other personally identifiable information) that You supply when subscribing to our Service through the Website and other personally identifiable information that You provide when You request information from Company, discuss a Service issue over the telephone with a Company employee, participate in on-line surveys, download the Software or a Software update, purchase other products or services from Company or otherwise use the Service, and (ii) obtaining preference tracking information from our use of "cookies" and other technology and other aggregate activity logging (“Movement User Information”). 
 
@@ -36,56 +36,62 @@ To the extent that any Registration Data or other personally identifiable inform
 
 By submitting your information to us and by using the Website, You are consenting to our use of Your data as described herein and are consenting to the Terms of Use. If you do not consent, You should not register with Company and you should not use the Website. 
 
-**Use of User Information Collected:**
+### Use of User Information Collected:
 
 The User Information that we collect may be added to our databases and used for future communications regarding Website updates, new products and services, and status of membership subscriptions placed online. The User Information that we collect from cookies and browser identification provides demographic data about our End Users in the aggregate that we use to improve our Service and tailor our offerings. Personally identifiable information included in User Information, including any Registration Data, may also be used for marketing and promotional purposes for a statistical analysis of the behavior of End Users, for product development, for content improvement, or to customize the content and layout of our Website. 
 
 In addition, we will, on occasion, send emails to End Users about our services or third-party products when you have expressed an interest in them. If You do not want to receive email or other mail from us, either choose to “Opt Out” and remove yourself from continued receipt of e-mail messages or send an email to us at [optout@comixology.com](mailto:optout@comixology.com?subject=Opt%20Out).
 
-Our policy is not to share User Information with third parties other than as specified under the heading “When do we Share User Information with Third-Parties?” unless required by law, or unless you explicitly request us to share your User Information with a third-party. We recognize that your User Information is valuable and we take all reasonable measures to protect Your User Information while it is in our care and will use it only as we set forth in this policy.
+Our policy is not to share User Information with third parties other than as specified under the heading [“When do we Share User Information with Third-Parties?”](http://www.comixology.com/#share) unless required by law, or unless you explicitly request us to share your User Information with a third-party. We recognize that your User Information is valuable and we take all reasonable measures to protect Your User Information while it is in our care and will use it only as we set forth in this policy.
 
-**When do we Share User Information with Third-Parties?**
+### When do we Share User Information with Third-Parties? 
 
 We may share your User Information with third-parties under the following circumstances:
 
-  * **Affiliated Business We Do Not Control, including Retailers that have executed a Retailer Subscription Agreement**
+  * ### Affiliated Business We Do Not Control, including Retailers that have executed a Retailer Subscription Agreement
 
 We work closely with certain business partners, including Retailers that have executed a Retailer Subscription Agreement. Part of the value of the Service is that we can provide the information in an End User’s pull lists and other general ordering information and information about End User use of the Website to Retailers.
 
-In addition, if You are an End User and You fill out forms or otherwise provide us with Registration Data or other personally identifiable information and You “Opt-in” to receive information about your area Retailers, we may provide your Registration Data or other personally identifiable information to the area Retailers that have executed a Retailer Subscription Agreement with the Company so that they can provide a service to You, including making the comic books on Your pull lists available to You. In this respect, these area Retailers may contact you directly about comic books that they have available or other products and services that may be of interest. These area Retailers may also further solicit You in the future.
+In addition, if You are an End User and You fill out forms or otherwise provide us with Registration Data or other personally identifiable information and You, "Opt-in" to receive information about your area Retailers, we may provide your Registration Data or other personally identifiable information to the area Retailers that have executed a Retailer Subscription Agreement with the Company so that they can provide a service to You, including making the comic books on Your pull lists available to You. In this respect, these area Retailers may contact you directly about comic books that they have available or other products and services that may be of interest. These area Retailers may also further solicit You in the future.
 
 Should you fill out forms or otherwise provide us with Registration Data or other personally identifiable information and choose to access other products or services offered directly through our Website or through the website of one of our business partners, we may also share Your information with certain of our business partners offering these products or services who may in turn solicit you in the future. For example, if You create or use a comiXology login on the Website or a comiXology-compatible login on the website of one of our business partners and You use either such login to access a product or service provided by us or by our business partner, we may share User Information, such as your e-mail address and your opt-in/opt-out status, with our business partner. Such sharing of information is intended for Your convenience so that You experience seamless continuity when transferring between the products and services we provide and the products and services our business partners provide.
 
-  * **Business Transfers**  
-As we continue to develop our business, we might sell or buy assets. In such transactions, subscriber information generally is one of the transferred business assets. Also, in the unlikely event that Company or substantially all of its assets are acquired, End User and Retailer information will of course be one of the transferred assets. 
-  * **Protection of Company and Others**  
-We release User Information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use, the EULA, the Retailer Subscription Agreement and other agreements; or to protect the rights, property, or safety of Company, our End Users, or others. This includes exchanging information with other companies and organizations for fraud protection. 
-  * **Aggregate Site Use Information**  
-We may release aggregate Site User Information (without revealing any personally identifiable information about You) to advertisers and other third-parties in order to describe use of the Website and otherwise promote the user experience on the Website and share the results of pull lists. 
+  * ### Business Transfers
+
+As we continue to develop our business, we might sell or buy assets. In such transactions, subscriber information generally is one of the transferred business assets. Also, in the unlikely event that Company or substantially all of its assets are acquired, End User and Retailer information will of course be one of the transferred assets.
+
+  * ### Protection of Company and Others
+
+We release User Information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use, the EULA, the Retailer Subscription Agreement and other agreements; or to protect the rights, property, or safety of Company, our End Users, or others. This includes exchanging information with other companies and organizations for fraud protection.
+
+  * ### Aggregate Site Use Information
+
+We may release aggregate Site User Information (without revealing any personally identifiable information about You) to advertisers and other third-parties in order to describe use of the Website and otherwise promote the user experience on the Website and share the results of pull lists.
+
 
 
 
 By submitting Your information to us, You are consenting to the uses we describe above. If You do not consent to these uses, we suggest you opt out where available, activate blocking technology if available in your browser, choose not to submit your data to us when we request it from You or otherwise choose not to use the Website.
 
-**What websites does this Privacy Policy apply to?**
+### What websites does this Privacy Policy apply to?
 
 This Privacy Policy applies to the Company’s Website only. There are links on this Website to other websites and this Privacy Policy does not apply to any other website that has a link on our Website. If you click on a link and leave our Website, You should check the privacy policy of that website.
 
-**How Secure is the User Information?**
+### How Secure is the User Information?
 
 The importance of security for all User Information associated with our visitors and subscribers is of utmost concern to us.  We use Secure Sockets Layer (SSL) encryption on all web pages where personally identifiable information is required and otherwise exercise reasonable care in providing secure transmission of your information from your PC to our servers and ensuring the security of your information on our systems. To make purchases from the Service, you must use an SSL-enabled browser such as Safari, Netscape Navigator 3.0 or later or Internet Explorer which protects the confidentiality of your personal and credit card information while it is transmitted over the Internet.  Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take steps to protect your information, Company can't ensure or warrant the security of any information you transmit to us or from our online products or services, and You do so entirely at your own risk.
 
-**What Choices Do I Have?**
+### What Choices Do I Have? 
 
 You can choose not to provide your Registration Data to us or You may choose to not fill out any forms on the Website. 
 
-Should you receive an unwanted email or direct mail piece from Company, You have the option to “Opt Out” of future emails or send an email to Company as described under “Use of User Information Collected” to be removed from future direct mailings.
+Should you receive an unwanted email or direct mail piece from Company, You have the option to “Opt Out” of future emails or send an email to Company as described under “[Use of User Information Collected](http://www.comixology.com/#user)” to be removed from future direct mailings.
 
-**How Can I Access and Update My Registration Data?**
+### How Can I Access and Update My Registration Data?
 
 Any party who has provided contact information may go to the Member Profile link located at [www.comixology.com](http://www.comixology.com/) to update his/her Registration Data. 
 
-**Conditions of Use, Notices, and Revisions**
+### Conditions of Use, Notices, and Revisions
 
 If You choose to visit any part of the Website, Your visit and any dispute over privacy is subject to this notice (“Privacy Notice”) and our general Terms of Use, including disclaimers of warranties and application of the law of the State of New York. 
 
