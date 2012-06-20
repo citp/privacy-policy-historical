@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gomage.com privacy policy that was archived on 2011-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111220075154id_/http%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gomage.com privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620161009id_/http%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Privacy Policy</title>
@@ -7,6 +7,7 @@
 <meta name="description" content="GoMage LightCheckout extension allows to make the checkout process faster and easier for your customers. No more unnecessary steps on the Checkout Page. Only one step! GoMage LightCheckout will help you to increase your online sales.">
 <meta name="keywords" content="GoMage, Magento, LightCheckout, Light Checkout, One Step Checkout, Magento extension, Magento module, E-commerce">
 <meta name="robots" content="INDEX,FOLLOW">
+<meta name="viewport" content="width=1024">
 <link rel="icon" href="http://www.gomage.com/skin/frontend/gomagenew/default/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.gomage.com/skin/frontend/gomagenew/default/favicon.ico" type="image/x-icon">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -16,7 +17,6 @@
 //]]>
 </script>
 <link rel="stylesheet" type="text/css" href="http://www.gomage.com/skin/frontend/gomagenew/default/css/styles.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.gomage.com/skin/frontend/gomagenew/default/css/base.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.gomage.com/skin/frontend/gomagenew/default/css/print.css" media="print">
 <script type="text/javascript" src="http://www.gomage.com/media/js/50c0b2f7ee7f97b5a3be61e997398a99.js"></script>
 <!--[if lt IE 8]>
@@ -60,16 +60,16 @@ optionalZipCountries = [];
             })();
             var _gaq = _gaq || [];
 
-            _gaq.push(["_setAccount", "UA-17547917-1"], ["_trackPageview","/privacy-policy/"]);
+            _gaq.push(["_setAccount", "UA-17547917-1"], ["_trackPageview","/privacy-policy"]);
 
             if(Ajax.Responders){
                 Ajax.Responders.register({
                   onComplete: function(response){
                     if(!response.url.include("progress")){
                         if(response.url.include("saveOrder")){
-                            _gaq.push(["_trackPageview", "/privacy-policy/"+ "opc-review-placeOrderClicked"]);
+                            _gaq.push(["_trackPageview", "/privacy-policy"+ "opc-review-placeOrderClicked"]);
                         }else if(accordion.currentSection){
-                            _gaq.push(["_trackPageview", "/privacy-policy/"+ accordion.currentSection]);
+                            _gaq.push(["_trackPageview", "/privacy-policy"+ accordion.currentSection]);
                         }
                     }
                   }
@@ -114,7 +114,7 @@ d.write('<sc'+'ript src="'+
 +new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
 '" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
 //]]>
-</script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=3143899316&amp;utmx=&amp;utmxx=&amp;utmxtime=1580445457110" type="text/javascript" charset="utf-8"></script>
+</script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=3143899316&amp;utmx=&amp;utmxx=&amp;utmxtime=1582511808220" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript">
 //<![CDATA[
 utmx("url",'A/B');
@@ -138,16 +138,56 @@ utmx("url",'A/B');
 <body>
 
 <div class="wrapper">
-
-	<div class="page">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+	<style type="text/css">
+		/* Global site notices */
+		.global-site-notice { border:1px solid #cfcfcf; border-width:0 0 1px; background:#ffff90; font-size:12px; line-height:1.25; text-align:center; color:#2f2f2f; }
+		.global-site-notice .notice-inner { width:860px; margin:0 auto; padding:12px 0 12px 80px; background:url(http://www.gomage.com/skin/frontend/gomagenew/default/images/i_notice.gif) 20px 25px no-repeat; text-align:left; }
+		.global-site-notice .notice-inner p { margin:0; border:1px dotted #cccc73; padding:10px; }
+		.global-site-notice .notice-inner .actions { padding-top:10px; }
+		
+		/* Cookie Notice */
+		.notice-cookie { }
+		
+		/* Noscript Notice */
+		.noscript {} 
+	</style>
+    <div class="global-site-notice notice-cookie" id="notice-cookie-block" style="display: none">
+        <div class="notice-inner">
+            <p>This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href="http://www.gomage.com/privacy-policy/">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below.</p>
+            <div class="actions"><button class="button" onclick="allowSaveCookie()"><span><span>Allow</span></span></button></div>
+        </div>
+    </div>
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    function allowSaveCookie() {
+        Mage.Cookies.set('user_allowed_save_cookie', 'a:1:{i:1;i:1;}', new Date(new Date().getTime() + 31536000 * 1000));
+        if (Mage.Cookies.get('user_allowed_save_cookie')) {
+            window.location.reload();
+        } else {
+            window.location.href = 'http://www.gomage.com/cms/index/noCookies/';
+        }
+    }
+    $('notice-cookie-block').show();
+    /* ]]> */
+    </script>
+ 	<div class="page">
 	
 		<div class="header-container">
 			<div class="header ">
-				<h1 class="logo">
+				<div class="logo">
 					<a href="http://www.gomage.com/" title="" class="logo">
 						<img src="http://www.gomage.com/skin/frontend/gomagenew/default/images/logo.gif" alt="">
 					</a>
-				</h1>
+				</div>
 				<div class="quick-access">
 	<ul class="links">
 		<li class="first"><a href="https://www.gomage.com/customer/account/">My Account</a></li>
@@ -166,7 +206,17 @@ utmx("url",'A/B');
 		-->
 	</ul>
 </div>
+    
+     <!-- .we-can-help -->
+    <div class="we-can-help">
+      <strong>Need help buying now?</strong>
+      Call our Sales Team at <span>+48-22-219-5163</span>, <span>+1-917-720-3250</span>
+    </div>
+    <!-- /.we-can-help -->
  
+
+
+   <!-- http://www.LiveZilla.net Text Chat Link Code --><script type="text/javascript" src="/livechat/image.php?v=PGEgaHJlZj1cImphdmFzY3JpcHQ6dm9pZCh3aW5kb3cub3BlbignaHR0cDovL3d3dy5nb21hZ2UuY29tL2xpdmVjaGF0L2NoYXQucGhwJywnJywnd2lkdGg9NTkwLGhlaWdodD01ODAsbGVmdD0wLHRvcD0wLHJlc2l6YWJsZT15ZXMsbWVudWJhcj1ubyxsb2NhdGlvbj15ZXMsc3RhdHVzPXllcyxzY3JvbGxiYXJzPXllcycpKVwiIDwhLS1jbGFzcy0tPj48IS0tdGV4dC0tPjwvYT48IT5DaGF0IFdpdGggVXM8IT5DaGF0IFdpdGggVXM8IT5jaGF0"></script><noscript><div><a href="http://www.gomage.com/livechat/chat.php" onclick="return !window.open(this.href)">Chat With Us</a></div></noscript><!-- http://www.LiveZilla.net Text Chat Link Code -->
 
 								
 			</div>
@@ -204,9 +254,10 @@ utmx("url",'A/B');
                 		</li>
             		    				    				</ul>
 			</li>
-			<li class="faq "><a href="http://www.gomage.com/faq/"><span>Faq</span></a>
+      <li class="faq"><a href="http://wiki.gomage.com/" onclick="return !window.open(this.href)"><span>WIKI</span></a></li>
+			<!-- <li class="faq "><a href="http://www.gomage.com/faq/"><span>Faq</span></a>
 			    
-			    			    			</li>
+			    			    			</li> -->
 			  
 			<li class="our-clients "><a href="http://www.gomage.com/our-clients/"><span>Our Clients</span></a></li>
 			
@@ -251,7 +302,7 @@ utmx("url",'A/B');
     jQuery(document).ready(function(){
        jQuery("#search").autocompleteArray([
 
-         "demo","Theme","feed pro","feed","vat","advanced navigation","Cant open temp file","developer license","amazon","google base","free extensions","checkout","VAT number(Not Verified)","lightcheckout","affiliate program","GoMage SagePay","navigation","Procart","Gomage Feed Pro","magento one page check out","refund","support","gomage","activation key","ebay","filter","GOMAGE FEED PRO - CONFIGURE DATA FEED FILE","p","paypal","Already registered? Please   log in here","category","data feeds","deal","GoMage LightCheckout developer","live chat","multi fees","one step checkout","pro","sage pay","shipping","update","ajax cart","dev license","domain","feeds","gift","GoMage Advanced Navigation","jewelry","key","LightCheckout Installation Guide","products","search","slide","tag","toys","url","../../../../../../../../../../windows/win.ini","1 Wentworth Mews","</title><sсriрt>alert(/xss found by me/)</sсriрt>","add to checkout page","Can't generate feed file","Can't save data","cascading drop down","check","config products","coupons","crafty clicks integration","Data feed","Data fred","DataFeed Pro","discount","edit feed file","extension","extension license","facebook","feed-pro","fields","free","gomage 2.1","GoMage Feed Pro extension","GoMage LightCheckout","how to install","Image","language","mage freed pro","magento product feed","make an offer","merge column","mobile","money back","multi store","newsletter","output type","pay per dowload","Products Filter Configuration","register","shipping integration","shopzilla","simple","special offer"                                                                      
+         "demo","Theme","feed pro","advanced navigation","Cant open temp file","feed","vat","amazon","checkout","lightcheckout","google base","developer license","free extensions","VAT number(Not Verified)","navigation","Procart","one step checkout","affiliate program","GoMage Advanced Navigation","Gomage Feed Pro","refund","ebay","GoMage SagePay","magento one page check out","GoMage LightCheckout","search","slide","support","tax","activation key","ajax cart","filter","gomage","google shopping","jewelry","light checkout","LightCheckout Installation Guide","live chat","price grabber","shipping","upgrade","xml","cart pro","category","change box","data feeds","developer key","domain","facebook","gift","GOMAGE FEED PRO - CONFIGURE DATA FEED FILE","magento feed","p","paypal","sage pay","toys","update","' and 1=","1 OR 1=1","ajax","Already registered? Please   log in here","and 1=","auto suggest","Cannot change dir.","color","crafty clicks integration","deal","dev license","free","GoMage LightCheckout developer","install","installation","magento countdown extension","money back","multi fees","newsletter","pro","\'","' 1 AND 1=1","1 AND 1=1","advanced","cart","contact","coupons","Delivery","Empty or Invalid data file","extension","extension license","feed-pro","feeds","geoip","gift wrapping","GoMage Feed","google","how to install","Image","key","language","license","product tabs"                                                                      
          
          ],
          {
@@ -285,15 +336,141 @@ utmx("url",'A/B');
     	                    <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
-<div class="std"><h3>Privacy statement</h3>
+<div class="std"><h2 style="font-size:14px">Privacy statement</h2>
 <p>We respect the privacy of our customers and adhere to high standards of protection of our customers’ data.  Any information received will be used for the sole purpose of providing services to our customers.</p>
-<h3>Information collection and use</h3>
+<h2 style="font-size:14px">Information collection and use</h2>
 <p>At the time of purchase and/or registration of Software, you will be asked to provide personal data such as full name, email address, telephone number and company information through the website.</p>
 <p>All information received from the User is used exclusively to improve the quality of the services rendered as well as to prepare generalized statistical data to be used to create a generalized user profile.</p>
 <p>GoMage.com guarantees the confidentiality of any and all data supplied by the User when utilizing the GoMage.com software or services and when visiting the GoMage.com website.  We do not disclose any information provided by the User to any third party unless ordered to by a court of law, during the investigation of a criminal offense or as required under other provisions of disclosure of personal data.</p>
-<h5>IMPORTANT! GOMAGE.COM DOES NOT COLLECT DATA ON PLASTIC CARDS</h5>
-<h3>Your personal data protection</h3>
-<p>GoMage.com takes all necessary steps to safeguard Your data including the use of specialized services to secure payment of all Software or Services purchased through the website. All confidential information transmitted and received by us from the specialized services is encrypted with the help of software that uses Secure Sockets Layer (SSL).</p></div>    	            </div>
+<h3 style="font-size:12px">IMPORTANT! GOMAGE.COM DOES NOT COLLECT DATA ON PLASTIC CARDS</h3>
+<h2 style="font-size:14px">How we use cookies</h2>
+<p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
+<p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.</p>
+<p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
+<h2 style="font-size:14px">Links to other websites</h2>
+<p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
+<h2 style="font-size:14px">Controlling your personal information</h2>
+<p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
+<ul class="arrow">
+<li>whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes</li>
+<li>if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@gomage.com</li>
+</ul>
+<p>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p>
+<p>You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to .</p>
+<p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p>
+<h2 style="font-size:14px">Your personal data protection</h2>
+<p>GoMage.com takes all necessary steps to safeguard Your data including the use of specialized services to secure payment of all Software or Services purchased through the website. All confidential information transmitted and received by us from the specialized services is encrypted with the help of software that uses Secure Sockets Layer (SSL).</p>
+<h2 style="font-size:14px"><a name="list"></a>List of cookies we collect</h2>
+<p>The table below lists the cookies we collect and what information they store.</p>
+<table class="data-table privacy-table">
+<thead> 
+<tr>
+<th>COOKIE name</th><th>COOKIE Description</th>
+</tr>
+</thead> 
+<tbody>
+<tr>
+<th>CART</th>
+<td>The association with your shopping cart.</td>
+</tr>
+<tr>
+<th>CATEGORY_INFO</th>
+<td>Stores the category info on the page, that allows to display pages more quickly.</td>
+</tr>
+<tr>
+<th>COMPARE</th>
+<td>The items that you have in the Compare Products list.</td>
+</tr>
+<tr>
+<th>CURRENCY</th>
+<td>Your preferred currency</td>
+</tr>
+<tr>
+<th>CUSTOMER</th>
+<td>An encrypted version of your customer id with the store.</td>
+</tr>
+<tr>
+<th>CUSTOMER_AUTH</th>
+<td>An indicator if you are currently logged into the store.</td>
+</tr>
+<tr>
+<th>CUSTOMER_INFO</th>
+<td>An encrypted version of the customer group you belong to.</td>
+</tr>
+<tr>
+<th>CUSTOMER_SEGMENT_IDS</th>
+<td>Stores the Customer Segment ID</td>
+</tr>
+<tr>
+<th>EXTERNAL_NO_CACHE</th>
+<td>A flag, which indicates whether caching is disabled or not.</td>
+</tr>
+<tr>
+<th>FRONTEND</th>
+<td>You sesssion ID on the server.</td>
+</tr>
+<tr>
+<th>GUEST-VIEW</th>
+<td>Allows guests to edit their orders.</td>
+</tr>
+<tr>
+<th>LAST_CATEGORY</th>
+<td>The last category you visited.</td>
+</tr>
+<tr>
+<th>LAST_PRODUCT</th>
+<td>The most recent product you have viewed.</td>
+</tr>
+<tr>
+<th>NEWMESSAGE</th>
+<td>Indicates whether a new message has been received.</td>
+</tr>
+<tr>
+<th>NO_CACHE</th>
+<td>Indicates whether it is allowed to use cache.</td>
+</tr>
+<tr>
+<th>PERSISTENT_SHOPPING_CART</th>
+<td>A link to information about your cart and viewing history if you have asked the site.</td>
+</tr>
+<tr>
+<th>POLL</th>
+<td>The ID of any polls you have recently voted in.</td>
+</tr>
+<tr>
+<th>POLLN</th>
+<td>Information on what polls you have voted on.</td>
+</tr>
+<tr>
+<th>RECENTLYCOMPARED</th>
+<td>The items that you have recently compared.</td>
+</tr>
+<tr>
+<th>STF</th>
+<td>Information on products you have emailed to friends.</td>
+</tr>
+<tr>
+<th>STORE</th>
+<td>The store view or language you have selected.</td>
+</tr>
+<tr>
+<th>USER_ALLOWED_SAVE_COOKIE</th>
+<td>Indicates whether a customer allowed to use cookies.</td>
+</tr>
+<tr>
+<th>VIEWED_PRODUCT_IDS</th>
+<td>The products that you have recently viewed.</td>
+</tr>
+<tr>
+<th>WISHLIST</th>
+<td>An encrypted list of products added to your Wishlist.</td>
+</tr>
+<tr>
+<th>WISHLIST_CNT</th>
+<td>The number of items in your Wishlist.</td>
+</tr>
+</tbody>
+</table></div>    	            </div>
     	        </div>        
     	        <!-- end content -->
 			</div>
@@ -311,12 +488,15 @@ utmx("url",'A/B');
 <li><a title="Refund Policy" href="/refund-policy/">Refund Policy</a></li>
 <li><a title="Discount Program" href="/discount-program/">Discount Program</a></li>
 <li class="last"><a title="Our Partners" href="/our-partners/">Our Partners</a></li>
-</ul><address>© 2010-2011 GoMage.com. All Rights Reserved.</address>
+</ul><address>© 2010-2012 GoMage.com. All Rights Reserved.</address>
 <div class="payment">
 	<script type="text/javascript"> SiteSeal("https://seal.networksolutions.com/images/basicrecgreen.gif", "NETSB", "none");</script>
 	<script type="text/javascript"> SiteSeal("https://seal.networksolutions.com/images/confirmrecgreen.gif", "NETSS", "none");</script>
 	<a href="#" onclick="javascript:window.open('https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="http://www.gomage.com/skin/frontend/gomagenew/default/images/paypal3.png" alt="Additional Options"></a>
 </div>
+
+<img class="web-tool-award" src="http://www.gomage.com/skin/frontend/gomagenew/default/images/webtools2012.png" alt="GoMage awarded Best Web Tool 2012 by WHS" width="80" height="106">
+<a class="web-tool-award" onclick="return !window.open(this.href)" href="http://www.webhostingsearch.com/web-tools.php" title="GoMage awarded Best Web Tool 2012 by WHS"></a>
     </div>    
 </div>    
         
