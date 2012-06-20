@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabone.ie privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207140833id_/http%3A//www.grabone.ie/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabone.ie privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620132237id_/http%3A//www.grabone.ie/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GrabOne
 
@@ -46,7 +46,7 @@ Failure to provide necessary personal information when requested may result in c
   7. Changes to Policy back to top
     1. We reserve the right to change this policy at any time by notifying users of the existence of a revised policy by updating the "last updated" notice beside the link to this policy. By continuing to use the Website, you agree to be bound by the amended policy. You should check from time to time to see if the policy has changed or not.
   8. Holding, Correcting and Updating back to top
-    1. Any personal information that you provide to us will be collected and held by us at GrabOne.  Under the Data Protection Acts you have rights of access to and correction of personal information that we hold.
+    1. Any personal information that you provide to us will be collected and held by us at GrabOne (Ireland) Ltd.  Under the Data Protection Acts you have rights of access to and correction of personal information that we hold.
     2. Although we take reasonable steps to ensure that all data we use is accurate, we depend on our users to update or correct their personal information whenever necessary. We offer the ability for users to correct or change their personal information online at any time and as often as necessary.
     3. If you have any questions about how our services work or regarding this statement, [Contact Us](https://web.archive.org/contact-us).
     4. For information about Ireland’s Data Protection Acts 1988 – 2003 and how they protect the personal information of individuals in the Republic of Ireland, [click here](http://dataprotection.ie/).
