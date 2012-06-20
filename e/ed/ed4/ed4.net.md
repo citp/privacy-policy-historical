@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ed4.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205161408id_/http%3A//www.e-dialog.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed4.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620031856id_/http%3A//www.e-dialog.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - e-Dialog.com - e-Dialog - Integrated E-Mail & Cross-Channel Marketing Solutions
 
@@ -16,24 +16,29 @@ e-Dialog is a member of several associations focused around building and maintai
 
 
 **Compliance**  
-e-Dialog is a licensee of the TRUSTe Privacy Program and has been certified compliant to the European Union Safe Harbor policies. This privacy statement discloses the privacy practices for www.e-dialog.com. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trust mark, this website has agreed to notify you of: 
+e-Dialog is a licensee of the TRUSTe Privacy Program and has been certified compliant to the European Union and Swiss Safe Harbor policies. This privacy statement discloses the privacy practices for www.e-dialog.com. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trust mark, this website has agreed to notify you of: 
 
-  1. What personally identifiable information of yours is collected through the web site
-  2. The organization collecting the information
-  3. How the information is used
-  4. With whom the information may be shared
-  5. What choices are available to you regarding collection, use and distribution of the information
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under e-Dialog’s control 7. How you can correct any inaccuracies in the information
+  * What personally identifiable information of yours is collected through the web site
+  * The organization collecting the information
+  * How the information is used
+  * With whom the information may be shared
+  * What choices are available to you regarding collection, use and distribution of the information
+  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under e-Dialog’s control   
+
+  * How you can correct any inaccuracies in the information
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should first contact e-Dialog by e-mail at e-Dialog privacy. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with the Web site to resolve   
-your concerns.
+If you feel that this company is not abiding by its posted privacy policy, you should first contact e-Dialog by e-mail at [privacypolicy@e-dialog.com](mailto:privacypolicy@e-dialog.com). 
+
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.e-dialog.com&sealid=101)
 
 **Safe Harbor**  
-e-Dialog abides by the principles of the Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. If you feel that this company is not abiding by its posted privacy policy or is not in compliance with the Safe Harbor principles, you should first contact e-Dialog’s privacy manager by e-mail at e-Dialog privacy.
+e-Dialog complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  e-Dialog has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view e-Dialog’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+If you feel that this company is not abiding by its posted privacy policy or is not in compliance with the Safe Harbor principles, you should first contact e-Dialog’s privacy manager by email at [privacypolicy@e-dialog.com](mailto:privacypolicy@e-dialog.com)
 
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact the DMA or TRUSTe Safe Harbor Dispute Resolution Programs. They will then serve as a liaison to e-Dialog to resolve your concerns.
 
@@ -45,19 +50,18 @@ Washington, DC 20036
 Safeharbor
 
 **Information Collection & Use **  
-e-Dialog is the sole owner of the information collected at our site. We do not sell, share or rent information to third parties or partners. The information collected at our site is used exclusively to determine the most appropriate information to send to those who request it.
+e-Dialog is the sole owner of the information collected at our site. We do not sell, share or rent information to third parties or partners. The information collected at our site is used exclusively to determine the most appropriate information to send to those who request it.  
+Information collected at this site includes: 
 
-Information collected at this site includes:   
-_Request Information Form:_ Requires users to give us contact information including E-mail address, phone number and company information.  
-_Resume Submissions:_ This information is used only to screen candidates and contact them for interviews.  
-_Log Files:_ We use IP addresses to monitor our site and collect aggregate data for future use. IP addresses are anonymous and are not linked to any individual’s personal information.  
-_Surveys:_ Periodically, e-Dialog will survey our clients for purposes of improving the quality of our service and customer satisfaction. Client participation is completely voluntary.  
-_Sharing:_ Occasionally, e-Dialog may share aggregated information with our clients or partners. This information is not linked to any personal information that can identify any individual person. Nor does it disclose confidential or proprietary client information.  
-_Cookies:_ Our website uses Cookies. We use cookies to determine visitor trends and behavior on our website. We do this to improve the service that we offer our clients and visitors. We do not disclose information obtained by the use of cookies to third parties. Our cookies are in no way linked to any personally identifiable information.  
-Client-side cookies may be used to verify the login status of customers using products or services linked directly with our website. Client-side cookies are also used to track and measure the success of a particular marketing campaign. Client-side cookies are in no way linked to any personally identifiable information.  
-If you prefer not to receive cookies while browsing our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of our Website.   
-_P3P Policy:_ The Platform for Privacy Preferences Project (P3P), developed by the World Wide Web Consortium, is emerging as an industry standard providing a simple, automated way for users to gain more control over the use of personal information on Web sites they visit. To view our P3P policy, visit http://www.e-dialog.com/w3c/policy.xml.   
-**Ad Server Relationships:** We do not partner with or have special relationships with ad server companies.
+  * _Request Information Form:_ Requires users to give us contact information including E-mail address, phone number and company information.
+  * _Resume Submissions:_ This information is used only to screen candidates and contact them for interviews.
+  * _Log Files:_ We use IP addresses to monitor our site and collect aggregate data for future use. IP addresses are anonymous and are not linked to any individual’s personal information.
+  * _Surveys:_ Periodically, e-Dialog will survey our clients for purposes of improving the quality of our service and customer satisfaction. Client participation is completely voluntary.
+  * _Sharing:_ Occasionally, e-Dialog may share aggregated information with our clients or partners. This information is not linked to any personal information that can identify any individual person. Nor does it disclose confidential or proprietary client information.
+  * _Cookies:_ Our website uses Cookies. We use cookies to determine visitor trends and behavior on our website. We do this to improve the service that we offer our clients and visitors. We do not disclose information obtained by the use of cookies to third parties. Our cookies are in no way linked to any personally identifiable information. Client-side cookies may be used to verify the login status of customers using products or services linked directly with our website. Client-side cookies are also used to track and measure the success of a particular marketing campaign. Client-side cookies are in no way linked to any personally identifiable information. If you prefer not to receive cookies while browsing our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of our Website.
+  * _P3P Policy:_ The Platform for Privacy Preferences Project (P3P), developed by the World Wide Web Consortium, is emerging as an industry standard providing a simple, automated way for users to gain more control over the use of personal information on Web sites they visit. To view our P3P policy, visit http://www.e-dialog.com/w3c/policy.xml. Ad Server Relationships: We do not partner with or have special relationships with ad server companies.
+
+
 
 **Security & Privacy**  
 The importance of security for all personally identifiable information associated with our clients and their customers is of utmost concern to us. We exercise great care in providing secure transmission of information, utilizing encryption software. We store the information in a database in a secure environment at a Class A Internet service provider.
@@ -96,7 +100,7 @@ e-Dialog, Inc.
 65 Network Drive, Suite 400  
 Burlington, MA 01803  
 Phone: 888-256-7687  
-E-mail: [inforequest@e-dialog.com](mailto:inforequest@e-dialog.com)
+E-mail: [privacypolicy@e-dialog.com](mailto:privacypolicy@e-dialog.com)
 
   
 **Additional Resources**  
