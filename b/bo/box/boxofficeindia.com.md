@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxofficeindia.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219051145id_/http%3A//www.boxofficeindia.com/cpages.php%3FpageName%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficeindia.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620070444id_/http%3A//www.boxofficeindia.com/cpages.php%3FpageName%3Dpolicy) for the most accurate reproduction.*
 
 # Boxofficeindia.com
 
