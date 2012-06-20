@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreety.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231180714id_/http%3A//www.spreety.com/Membership-About.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreety.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620115048id_/http%3A//www.spreety.com/Membership-About.aspx) for the most accurate reproduction.*
 
 # About Spreety TV Online Copyright / Privacy Policy
 
@@ -24,6 +24,8 @@ Spreety will review all claims of copyright infringement received and remove con
 Spreety is committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use, and disclosure of personal information, Spreety makes every effort to ensure compliance with applicable Federal law. 
 
 As a general rule, Spreety does not collect personally-identifying information about you when you visit our site, unless you choose to provide such information to us. The information we receive depends upon what you do when visiting our site. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
 
 _If you visit our site to read or download information, we may collect and store the following information:_
 
