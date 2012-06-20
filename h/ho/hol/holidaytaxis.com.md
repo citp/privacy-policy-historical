@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221082651id_/http%3A//www.holidaytaxis.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620092238id_/http%3A//www.holidaytaxis.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Holiday Taxis
+# Privacy Policy | HolidayTaxis.com
 
-Holiday Taxis is the trading name of Airport to Hotel (UK) Limited whose registered number is 4391036 and whose registered address is - Suite B, 2nd Floor Moore House, 13 Black Lion Street, Brighton, East Sussex, BN1 1ND.
+HolidayTaxis.com is the trading name of Airport to Hotel (UK) Limited whose registered number is 4391036 and whose registered address is - Suite B, 2nd Floor Moore House, 13 Black Lion Street, Brighton, East Sussex, BN1 1ND.
 
-At Holiday Taxis we are committed to protecting your privacy and take the responsibility regarding the security of our customers' information very seriously. Please read the following for further details on our privacy policy.
+At HolidayTaxis.com we are committed to protecting your privacy and take the responsibility regarding the security of our customers' information very seriously. Please read the following for further details on our privacy policy.
 
 ### What information do we collect and how do we use it?
 
@@ -18,15 +18,15 @@ Credit card details will be handled securely to ensure confidentiality. SSL (Sec
 
 ### Who do you share your information with?
 
-Holiday Taxis collates your information solely for the purpose of making your booking. If you have booked via a Holiday Taxis affiliate site, then the affiliate has the right to request and receive your booking data, but not your payment data. If you have booked via the main Holiday Taxis website we do not share, sell, trade or rent your personal information with anyone.
+HolidayTaxis.com collates your information solely for the purpose of making your booking. If you have booked via a HolidayTaxis.com affiliate site, then the affiliate has the right to request and receive your booking data, but not your payment data. If you have booked via the main HolidayTaxis.com website we do not share, sell, trade or rent your personal information with anyone.
 
-### Holiday Taxis special offer service.
+### HolidayTaxis.com special offer service.
 
-Holiday Taxis have many trade partners who from time to time give us access to offers and promotions they may have running, allowing you to become one of the first to be notified of any great travel bargains. You give us prior authorisation to email these offers by registering on the website and can of course opt out by unsubscribing at any time.
+HolidayTaxis.com have many trade partners who from time to time give us access to offers and promotions they may have running, allowing you to become one of the first to be notified of any great travel bargains. You give us prior authorisation to email these offers by registering on the website and can of course opt out by unsubscribing at any time.
 
 ### Other Web sites
 
-There are several places on the Holiday Taxis Web site where you can link through to other sites. Once you click through onto another site, Holiday Taxis privacy practices no longer apply. We recommend you view privacy statements for all third party Websites to understand their own policies for collecting and disclosing your information.
+There are several places on the HolidayTaxis.com Web site where you can link through to other sites. Once you click through onto another site, HolidayTaxis.com privacy practices no longer apply. We recommend you view privacy statements for all third party Websites to understand their own policies for collecting and disclosing your information.
 
 ### Security and Data Protection [(click here for more information)](https://web.archive.org/about/data/)
 
@@ -38,7 +38,7 @@ Cookies are small pieces of information that are stored by your browser on your 
 
 ### Your Consent
 
-By using the Holiday Taxis Web siteand our affiliate sites, you consent to the collection and use of this information by Holiday Taxis in the ways outlined above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of the information that we collect, how we use it and in what circumstances we disclose it.
+By using the HolidayTaxis.com Web siteand our affiliate sites, you consent to the collection and use of this information by HolidayTaxis.com in the ways outlined above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of the information that we collect, how we use it and in what circumstances we disclose it.
 
 ### Third-Party Web Beacons
 
