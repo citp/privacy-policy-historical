@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20somethingfinance.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223035844id_/http%3A//20somethingfinance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20somethingfinance.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620045100id_/http%3A//20somethingfinance.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,13 +16,13 @@ Like many other Web sites, 20somethingfinance.com makes use of log files. The in
 
 **COOKIES AND WEB BEACONS.** 20somethingfinance.com may place a “cookie” in a file on your computer. The cookie itself does not collect or reveal any personally identifying information about you. The company that serves ads on our Website uses cookies for various tracking purposes. You always have the option of disabling cookies via your browser preferences. 20somethingfinance.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**THIRD PARTY USE.** We use third parties, called third-party ad servers or ad networks, to deliver ads to you on our behalf. They also may collect and use non-personally identifiable information about your visits to the Services and other Web sites in order to present advertisements that may be of interest to you. If you would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.For information about cookies from Google Analytics, visit [Google Analytics](http://google.com/analytics).
+**THIRD PARTY USE.** We use third parties, called third-party ad servers or ad networks, to deliver ads to you on our behalf. They also may collect and use non-personally identifiable information about your visits to the Services and other Web sites in order to present advertisements that may be of interest to you. If you would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.For information about cookies from Google Analytics, visit [Google Analytics](http://www.google.com/analytics/).
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-[Google Adsense](http://google.com/adsense)  
-[Commission Junction](http://cj.com/)  
-[Amazon](http://amazon.com/)  
-[Flexoffers](http://flexoffers.com/)
+[Google Adsense](https://google.com/adsense)  
+[Commission Junction](http://www.cj.com/)  
+[Amazon](http://www.amazon.com/)  
+[Flexoffers](http://www.flexoffers.com/)
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on 20somethingfinance.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
@@ -37,7 +37,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 **DOUBLECLICK DART COOKIE.**  
 .:: Google, as a third party vendor, uses cookies to serve ads on 20somethingfinance.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to 20somethingfinance.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/).
 
 **WHEN YOU PARTICIPATE IN AN ONLINE SURVEY.** We may share survey information about our users with advertisers and business partners. However, we keep and share only aggregate numbers. For example, we will say x percent of our users are females and y percent males. We do not reveal any individual information about you.
 
@@ -53,7 +53,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 **  
 EXCEPTIONAL CIRCUMSTANCES.** In addition to the above circumstance, we may disclose information about you (i) if we are required to do so by law, (ii) in response to legal process, (iii) to law enforcement authorities or other government officials, or (iv) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
 
-**TERMS OF SERVICE:** For the 20somethingfinance.com terms of service, [click here](http://20somethingfinance.com/terms-of-service/).
+**TERMS OF SERVICE:** For the 20somethingfinance.com terms of service, [click here](http://20somethingfinance.com/terms-of-use/).
 
 **CONTACT:** If you have any questions, please contact us via the 20somethingfinance.com [contact form](http://20somethingfinance.com/contact/).
 
