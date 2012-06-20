@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the strategywiki.org privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203140523id_/http%3A//strategywiki.org/wiki/StrategyWiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategywiki.org privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620194959id_/http%3A//strategywiki.org/wiki/StrategyWiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # StrategyWiki:Privacy policy — StrategyWiki, the video game walkthrough and strategy guide wiki
 
 [](https://web.archive.org/wiki/File:Stop_orange_icon.png "This is a proposed policy. It is not yet binding.")Proposed!
 
 **This is a proposed policy. It is not yet binding.** While it is a good idea to follow what is written on this page, note that it is not final and thus is subject to change. Please make use of the [discussion page](https://web.archive.org/wiki/StrategyWiki_talk:Privacy_policy "StrategyWiki talk:Privacy policy") to propose changes or to finalize this policy.
-
-[](https://web.archive.org/wiki/File:Rename_icon.png "This article needs renaming!")[Rename](https://web.archive.org/wiki/Special:MovePage/StrategyWiki:Privacy_policy "Special:MovePage/StrategyWiki:Privacy policy") this [page](http://strategywiki.org/w/index.php?title=StrategyWiki:Privacy_policy&action=edit)!
-
-**This article needs renaming!** Its name does not follow current naming conventions and it needs to be moved. Please [move](https://web.archive.org/wiki/Special:MovePage/StrategyWiki:Privacy_policy "Special:MovePage/StrategyWiki:Privacy policy") this page so it has a more appropriate name ("StrategyWiki:Guide/Privacy policy" has been suggested), or help by discussing possible changes on the [talk page](https://web.archive.org/wiki/StrategyWiki_talk:Privacy_policy "StrategyWiki talk:Privacy policy").
-
-If you need help with wiki markup, see the [wiki markup page](https://web.archive.org/wiki/StrategyWiki:Guide/Wiki_markup "StrategyWiki:Guide/Wiki markup"). If you want to try out wiki markup without damaging a page, why not use the [sandbox](https://web.archive.org/wiki/StrategyWiki:Sandbox "StrategyWiki:Sandbox")?
 
 ## [[edit](https://web.archive.org/w/index.php?title=StrategyWiki:Privacy_policy&action=edit&section=1 "Edit section: General scope")] General scope
 
