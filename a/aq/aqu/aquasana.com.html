@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the aquasana.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231213830id_/http%3A//www.aquasana.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aquasana.com privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620162239id_/http%3A//www.aquasana.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
 		<title>Aquasana Water Filters - Privacy Policy</title>
 		<link rel="shortcut icon" href="http://www.aquasana.com/favicon.ico" type="image/x-icon">
 		<meta name="description" content="Aquasana Privacy Policy">
@@ -15,7 +14,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <!-- scripts -->
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
 function changeImages(e,i) {
 		document.getElementById(e).src = i;
@@ -94,13 +93,13 @@ function DisplayDIV(d) { document.getElementById(d).style.display = "block"; }
 </script>
 
 
-<script src="js/jquery-1.6.2.min.js" type="text/javascript"></script>
-<script src="js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
-<script src="js/tooltip.min.js" type="text/javascript"></script>
-<script src="js/tooltip.slide.min.js" type="text/javascript"></script>
-<script src="js/jquery.qtip.js" type="text/javascript"></script>
+<script src="/js/jquery-1.6.2.min.js" type="text/javascript"></script>
+<script src="/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+<script src="/js/tooltip.min.js" type="text/javascript"></script>
+<script src="/js/tooltip.slide.min.js" type="text/javascript"></script>
+<script src="/js/jquery.qtip.js" type="text/javascript"></script>
 <!-- IE 6 PNG fix -->
-<script src="js/iepngfix_tilebg.js" type="text/javascript"></script> 
+<script src="/js/iepngfix_tilebg.js" type="text/javascript"></script> 
 
 <script type="text/javascript">
 		var t;
@@ -137,14 +136,14 @@ function DisplayDIV(d) { document.getElementById(d).style.display = "block"; }
 			{
 					 content: {
 							// Set the text to an image HTML string with the correct src URL to the loading image you want to use
-							text: '<form method="post">Enter your discount or promo code:<br /><input class="inputbox" name="discountcode" size="10" maxlength="15" /><input class="submitbutton" type="image" src="/images/go_blue.gif"></form>',
+							text: '<form method="post"><div style="font-size:80%">Do you have a different discount or promo code?<br />Enter it here:</div><input class="inputbox" name="discountcode" size="10" maxlength="15" /><input class="submitbutton" type="image" src="/images/go_blue.gif"></form>',
 							/*
 							ajax: {
 								 url: .attr('rel') // Use the rel attribute of each element for the url to load
 							},
 							*/
 							title: {
-								 text: 'Enter a discount or promo code', // Give the tooltip a title using each elements text
+								 text: 'Your discount code: LS', // Give the tooltip a title using each elements text
 								 button: true
 							}
 					 },
@@ -209,28 +208,25 @@ function DisplayDIV(d) { document.getElementById(d).style.display = "block"; }
 
 <!-- Google Analytics Stuff -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var aggregateTracker = _gat._getTracker("UA-3695031-5"); //code for aggregate tracking new profile and code
-aggregateTracker._setDomainName("none");
-aggregateTracker._setAllowLinker(true);
-aggregateTracker._trackPageview();
-} catch(err) {}</script>
-<script type="text/javascript">
-try {
-var aquasanaTracker = _gat._getTracker("UA-3695031-2"); //code for aquasana.com
-aquasanaTracker._trackPageview();
-} catch(err) {}</script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3695031-2']);
+  _gaq.push(['_setDomainName', 'aquasana.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End of Google Analytics Stuff -->
+
 
 
 <!-- styles -->
-<link rel="stylesheet" type="text/css" href="/css/styles.css?t=1323988047">
+<link rel="stylesheet" type="text/css" href="/css/styles.css?t=1340047334">
 <link rel="stylesheet" type="text/css" href="/css/newtabs.css">
 <link rel="stylesheet" type="text/css" href="/css/jquery.qtip.css">
-
 
 </head>
 
@@ -251,7 +247,7 @@ aquasanaTracker._trackPageview();
             </div>
 						<div style="clear:both;"></div>
 						<div id="dc_head">
-															Do you have a discount or promo code? <a id="dcttlink">Enter it here</a>
+															Your discount code: <a id="dcttlink" data-hasqtip="0">LS</a>
 													</div>
             
 						<div style="clear:both;"></div>
@@ -267,7 +263,8 @@ aquasanaTracker._trackPageview();
                                     <li><a href="http://www.aquasana.com/category.php?category_id=5">Replacement Filters</a></li>
                                     <li><a href="http://www.aquasana.com/category.php?category_id=8">Water Bottles</a></li>
                                     <li><a href="http://www.aquasana.com/category.php?category_id=6">Water Filter Accessories</a></li>
-                                    <li><a href="http://www.aquasana.com/mywater.php" style="margin-top:-5px; height:35px;">myWater</a></li>
+                                    <li><a href="http://www.aquasana.com/category.php?category_id=7">Vitamin Squeeze</a></li>
+                                    <li><a href="http://www.aquasana.com/mywater.php">myWater</a></li>
                                 </ul>
                             </div>
                     </li>
@@ -321,7 +318,7 @@ aquasanaTracker._trackPageview();
             </div>
         
         </div><!--end of header-->
-        
+
         <div style="clear:both;"></div>
 <div id="main">
 	<div id="contents">
@@ -330,7 +327,7 @@ aquasanaTracker._trackPageview();
 				<p><span class="heading">Aquasana® Privacy Policy</span><br>
 (last revised August 31, 2011)
 
-</p><p>Sun Water Systems, Inc. and its affiliates and subsidiaries (collectively, "Aquasana") are committed to the protection and appropriate use of the information you submit to us online. This Privacy Policy (the "Policy") describes how we collect, use and safeguard personal information obtained from individual consumers in the United States through this website (the "Site").</p>
+</p><p>Aquasana, Inc. and its affiliates and subsidiaries (collectively, "Aquasana") are committed to the protection and appropriate use of the information you submit to us online. This Privacy Policy (the "Policy") describes how we collect, use and safeguard personal information obtained from individual consumers in the United States through this website (the "Site").</p>
 <h3>What personal information do we collect?</h3>
 <p>Aquasana may collect personal information from visitors to this Site such as names, postal addresses, e-mail addresses, user ID, password and, if you make an online purchase, credit card information. </p>
 <p>Personal information is collected only for specific purposes and with the knowledge of the person providing the personal information. To access the Site you are not required to register or submit any personal information. The content of this Site is not directed to children and Aquasana does not knowingly collect personal information from persons under eighteen years of age. </p>
@@ -428,25 +425,7 @@ Haltom City, Texas 76117
 <p>Please note that this Policy applies to all of our Sites hosted in the United States.</p>			</div>
 			</div>
 	<div id="RightGutterCallOut">
-		<h1>Recommended Products:</h1><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=2"><img src="/images/CartImages/aq4100_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form2" action="/addtocart.php"><h2>Shower Filter</h2><p><i>Item # AQ-4100</i></p><p><b>List Price: $84.99</b></p><p><a href="/product_detail.php?product_id=2">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form2','',''); return false;" class="AddToCart"></p><input type="hidden" id="add2" name="add" value="2"><input type="hidden" name="qty" value="1"></form></div></div><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=11"><img src="/images/CartImages/aq4000w_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form11" action="/addtocart.php"><h2>Countertop Water Filter</h2><p><i>Item # AQ-4000</i></p><p><b>List Price: $124.99</b></p><p><a href="/product_detail.php?product_id=11">View Product Details</a></p><p><script type="text/javascript">
-	function swapRealId11() {
-		var i = document.getElementById('add11');
-		var s = document.getElementById('finish11');
-		if (s.selectedIndex == 1) i.value = '11';
-		if (s.selectedIndex == 2) i.value = '12';
-		if (s.selectedIndex == 3) i.value = '13';
-	}
-</script>
-<select class="input" name="finish11" id="finish11" onchange="swapRealId11();"><option value="">- select finish -</option><option value="WH" selected="selected">White</option><option value="BLK">Black</option><option value="BR">Brushed (+ $25.00)</option></select><br><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form11','finish11','finish'); return false;" class="AddToCart"></p><input type="hidden" id="add11" name="add" value="11"><input type="hidden" name="qty" value="1"></form></div></div><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=21"><img src="/images/CartImages/aq4601.55_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form21" action="/addtocart.php"><h2>Premium Under Counter Water Filter</h2><p><i>Item # AQ-4601</i></p><p><b>List Price: $249.99</b></p><p><a href="/product_detail.php?product_id=21">View Product Details</a></p><p><script type="text/javascript">
-	function swapRealId21() {
-		var i = document.getElementById('add21');
-		var s = document.getElementById('faucet_finish21');
-		if (s.selectedIndex == 1) i.value = '21';
-		if (s.selectedIndex == 2) i.value = '22';
-		if (s.selectedIndex == 3) i.value = '23';
-	}
-</script>
-<select class="input" name="faucet_finish21" id="faucet_finish21" onchange="swapRealId21();"><option value="">- select faucet finish -</option><option value="BN" selected="selected">Brushed Nickel</option><option value="CH">Chrome</option><option value="ORB">Oil Rubbed Bronze</option></select><br><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form21','faucet_finish21','faucet finish'); return false;" class="AddToCart"></p><input type="hidden" id="add21" name="add" value="21"><input type="hidden" name="qty" value="1"></form></div></div><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=27"><img src="/images/CartImages/eq300_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form27" action="/addtocart.php"><h2>Rhino® Whole House Water Filter</h2><p><i>Item # EQ-300</i></p><p><b>List Price: $999.00</b></p><p><a href="/product_detail.php?product_id=27">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form27','',''); return false;" class="AddToCart"></p><input type="hidden" id="add27" name="add" value="27"><input type="hidden" name="qty" value="1"></form></div></div>	</div>
+		<h1>Recommended Products:</h1><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=2"><img src="/images/CartImages/aq4100_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form2" action="/addtocart.php"><h2>Shower Filter</h2><p><b>List Price: <s>$84.99</s><br><span class="highlight-green">Your Price: $67.99</span></b></p><p><a href="/product_detail.php?product_id=2">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form2','',''); return false;" class="AddToCart"></p><input type="hidden" id="add2" name="add" value="2"><input type="hidden" name="qty" value="1"></form></div></div><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=11"><img src="/images/CartImages/aq4000w_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form11" action="/addtocart.php"><h2>Countertop Water Filter - White</h2><p><b>List Price: <s>$124.99</s><br><span class="highlight-green">Your Price: $99.99</span></b></p><p><a href="/product_detail.php?product_id=11">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form11','',''); return false;" class="AddToCart"></p><input type="hidden" id="add11" name="add" value="11"><input type="hidden" name="qty" value="1"></form></div></div><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=21"><img src="/images/CartImages/aq4601.55_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form21" action="/addtocart.php"><h2>Premium Under Counter Water Filter - Brushed Nickel</h2><p><b>List Price: <s>$249.99</s><br><span class="highlight-green">Your Price: $199.99</span></b></p><p><a href="/product_detail.php?product_id=21">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form21','',''); return false;" class="AddToCart"></p><input type="hidden" id="add21" name="add" value="21"><input type="hidden" name="qty" value="1"></form></div></div><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=27"><img src="/images/CartImages/eq300_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form27" action="/addtocart.php"><h2>Rhino® Whole House Water Filter</h2><p><b>List Price: <s>$1,099.00</s><br><span class="highlight-green">Your Price: $769.30</span></b></p><p><a href="/product_detail.php?product_id=27">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form27','',''); return false;" class="AddToCart"></p><input type="hidden" id="add27" name="add" value="27"><input type="hidden" name="qty" value="1"></form></div></div>	</div>
 </div>
 
 		</div><!--End of container-->
@@ -455,15 +434,14 @@ Haltom City, Texas 76117
 				<div id="FooterCustomerService">
 						<h2>CUSTOMER SERVICE</h2>
 						Mon-Fri 7am-8pm<br>
-						Sat 10am-2pm (CT)<br>
 						<span class="NoBottle">866-NO-BOTTLE<br>866-662-6885</span>
 				</div>
 				<div id="FooterBadges">
 						<div class="FooterBadge">
-								<img src="/images/icon72-inc500-aquasana-water-filters.gif" alt="Sun Water Systems makes the Inc 500">
+								<img src="/images/icon72-inc500-aquasana-water-filters.gif" alt="Aquasana makes the Inc 500">
 						</div>
 						<div class="FooterBadge">
-								<img src="/images/icon72-UL-waterfilter-certified.gif" alt="water filters tested to NSF standards by Underwriters Laboratories">
+								<img src="/images/icon72-nsf.gif" alt="drinking water filters certified by NSF">
 						</div>
 						<div class="FooterBadge">
 								<img src="/images/icon72-healthy-water-filter.gif" alt="award winning Aquasana water filters">
@@ -474,16 +452,16 @@ Haltom City, Texas 76117
 				</div>
 				<div id="FooterIcons">
 						<div class="FooterIcon">
-							<a href="http://www.facebook.com/aquasana" target="_blank"><img src="/images/icon32-facebook-aquasana-water-filters.gif" alt="" border="0"></a>
+							<a href="http://www.facebook.com/aquasana" target="_blank"><img src="/images/icon32-facebook-aquasana-water-filters.gif" alt="find Aquasana on facebook" border="0"></a>
 						</div>
 						<div class="FooterIcon">
-							<a href="http://twitter.com/aquasana" target="_blank"><img src="/images/icon32-twitter-aquasana-water-filters.gif" alt="" border="0"></a>
+							<a href="http://twitter.com/aquasana" target="_blank"><img src="/images/icon32-twitter-aquasana-water-filters.gif" alt="follow Aquasana on twitter" border="0"></a>
 						</div>
 						<div class="FooterIcon2">
-							<a href="http://www.flickr.com/photos/aquasana" target="_blank"><img src="/images/icon32-flickr-aquasana-water-filters.gif" alt="" border="0"></a>
+							<a href="http://www.flickr.com/photos/aquasana" target="_blank"><img src="/images/icon32-flickr-aquasana-water-filters.gif" alt="Aquasana's photostream on flickr" border="0"></a>
 						</div>
 						<div class="FooterIcon2">
-							<a href="http://www.youtube.com/aquasana" target="_blank"><img src="/images/icon32-youtube-aquasana-water-filters.gif" alt="" border="0"></a>
+							<a href="http://www.youtube.com/aquasana" target="_blank"><img src="/images/icon32-youtube-aquasana-water-filters.gif" alt="Aquasana's YouTube channel" border="0"></a>
 						</div>
 				</div>
 				<div id="FooterElse">
@@ -506,8 +484,8 @@ Haltom City, Texas 76117
 						</div>
 					</a>
 				</div>
-		</div> <!-- End PreFooter -->
 
+		</div> <!-- End PreFooter -->
 
 	</div> <!-- End of outer -->
 
@@ -521,16 +499,9 @@ Haltom City, Texas 76117
 			<a href="http://www.aquasana.com/water4life.php">WATER FOR LIFE PROGRAM</a>
 		</div>
 		<div id="copyrightInfo">
-			Copyright 2002 - 2011 Sun Water Systems 
+			Copyright 2002 - 2012 Aquasana, Inc.
 		</div>
-<script language="JavaScript" type="text/javascript">
-<!-- Yahoo! Inc.
-var ysm_accountid  = "128K7R8EU7D3UKMQ7MB8AC408O4";
-document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " 
-+ "SRC=//" + "srv3.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid 
-+ "></SCR" + "IPT>");
-// -->
-</script><script language="JavaScript" type="text/javascript" src="//srv3.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=128K7R8EU7D3UKMQ7MB8AC408O4"></script>
+
 
 <!-- Channeladvisor tracking pixel -->
 <script language="JavaScript" type="text/javascript">
