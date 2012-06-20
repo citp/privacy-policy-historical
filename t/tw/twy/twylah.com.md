@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the twylah.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103101510id_/http%3A//www.twylah.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twylah.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620080541id_/http%3A//www.twylah.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Twylah
 
 Effective November, 2010 
 
-Your privacy is important to us. This Privacy Policy describes Twylah's policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.twylah.com (this "Site"). Site access is made available to you subject to your compliance with the Terms of Service (the “Terms of Service”), available at [twylah.com/tos](https://web.archive.org/tos.html), and this Privacy Policy (this “Privacy Policy”). This Privacy Policy applies only to information that you provide to us through this Site. 
+Your privacy is important to us. This Privacy Policy describes Twylah's policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.twylah.com (this "Site"). Site access is made available to you subject to your compliance with the Terms of Service (the “Terms of Service”), available at [twylah.com/tos](https://web.archive.org/tos), and this Privacy Policy (this “Privacy Policy”). This Privacy Policy applies only to information that you provide to us through this Site. 
 
 **Acceptance of the Privacy Policy**
 
-This Privacy Policy is incorporated into and is subject to the Terms of Service, which are available at [twylah.com/tos](https://web.archive.org/tos.html). By visiting and using the Site, you agree to abide by the terms and conditions of this Privacy Policy and represent and warrant that you have the legal right to do so on your behalf, and you consent to the collection, use and disclosure of your personal information by Twylah in accordance with the terms and conditions of this Privacy Policy. 
+This Privacy Policy is incorporated into and is subject to the Terms of Service, which are available at [twylah.com/tos](https://web.archive.org/tos). By visiting and using the Site, you agree to abide by the terms and conditions of this Privacy Policy and represent and warrant that you have the legal right to do so on your behalf, and you consent to the collection, use and disclosure of your personal information by Twylah in accordance with the terms and conditions of this Privacy Policy. 
 
 IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY OR THE TERMS OF SERVICE, PLEASE DO NOT PROVIDE TWYLAH WITH ANY INFORMATION AND DO NOT USE THE SITE. 
 
