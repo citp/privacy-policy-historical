@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123719id_/http%3A//www.drivers.com/privacy_drivers.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620031506id_/http%3A//www.drivers.com/privacy_drivers.php) for the most accurate reproduction.*
 
 # Drivers.com - Instantly Update Outdated or Corrupt Toshiba DVD Drivers
 
