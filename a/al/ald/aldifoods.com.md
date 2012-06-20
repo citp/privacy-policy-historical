@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldifoods.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101110107id_/http%3A//aldi.us/us/html/privacy_policy_ENU_HTML.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldifoods.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620110951id_/http%3A//aldi.us/us/html/privacy_policy_ENU_HTML.htm) for the most accurate reproduction.*
 
 # ALDI - Privacy Policy
 
@@ -8,5 +8,24 @@ Thank you for visiting our web site. This privacy policy tells you how we use pe
 When voluntarily submitted by our visitors, we collect personally identifiable information like names, postal addresses, email addresses, etc. The information you provide is used to fulfill your specific request.  
 
 
-We may share information with governmental agencies, suppliers to Aldi, or other companies assisting us in investigating product complaints or other issues, or in fraud prevention or investigation. We may do so when: (1) permitted or required by law, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions, (3) investigating product issues and complaints, (4) investigating fraud that has already taken place, or (5) evaluating and working on Special Buy items or other special programs.  
+We may share information with governmental agencies, suppliers to ALDI, or other companies assisting us in investigating product complaints or other issues, or in fraud prevention or investigation. We may do so when: (1) permitted or required by law, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions, (3) investigating product issues and complaints, (4) investigating fraud that has already taken place, or (5) evaluating and working on Special Buy items or other special programs.  
 
+
+**IP ADDRESSES AND COOKIES  
+**  
+We may collect information about your computer either for system administration or to report to our advertisers which includes (where available) your IP address, operating system and browser type. This statistical data about our users' browsing actions and patterns will be collected using Cookies, which alone cannot identify any individual.
+
+Cookies are small pieces of information that are stored on the hard drive of your computer and they enable a server to collect information from an Internet browser. You can find out more about how Cookies work at [http://www.cookiecentral.com](http://www.cookiecentral.com/).
+
+In short, Cookies can help us to improve our site and to deliver a better, more personalized service. They enable us:
+
+  * To estimate our audience size and usage pattern which can help us to improve your user experience. 
+  * To store information about your preferences so we can do things like greet you personally and speed up your log-in when you come back to the site. 
+  * To speed up your searches. 
+  * To recognize you when you return to our site.
+
+
+
+You can set your browser to accept or reject certain Cookies or, if you prefer, you can set your browser to alert you each time a Cookie is detected. Previous Cookies that have been stored on your computer can also be deleted. However, if you block our Cookies or you subsequently delete a Cookie that has been placed, it will not be possible for you to use this website effectively - the system relies on Cookies to identify you as the user.
+
+Please be assured that ALDI does not use Cookies to retrieve personal information about you from your computer - we will only gain such information if you have knowingly and willingly provided access to us.
