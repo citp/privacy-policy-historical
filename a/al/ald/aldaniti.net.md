@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldaniti.net privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226115159id_/http%3A//aldaniti.net/politica.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldaniti.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620101522id_/http%3A//www.aldaniti.net/politica.php) for the most accurate reproduction.*
 
 # aldaniti international network ltd.
 
@@ -63,7 +63,7 @@ We are entitled by law to charge a maximum fee of £10 to meet our costs in prov
 
 You may at any time deregister from Aldaniti by visiting <http://www.aldaniti.net/myaccount.asp> and selecting the deregister button located within "My Account". You may also decline to receive any further emails from Aldaniti by following the steps set out at the bottom of every email that Aldaniti sends out either on behalf of Aldaniti or selected third parties.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us. We offer an opportunity to opt-out of certain communications on our "My Account" section at the Aldaniti web site - <http://www.aldaniti.net/myaccount.asp> or you may contact us at info@aldaniti.net or Aldaniti International Network, Ltd Clytha House, 44, New Street , Ross on Wye, HerefordShire HR97DA, United Kingdom. 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us. We offer an opportunity to opt-out of certain communications on our "My Account" section at the Aldaniti web site - <http://www.aldaniti.net/myaccount.asp> or you may contact us at info@aldaniti.net or Aldaniti International Network, 12 Brookend Street Ross-on-Wye, HerefordShire, HR9 7EG, United Kingdom. 
 
 **Security and storage of your personal information**
 
@@ -145,13 +145,10 @@ By email: [info@aldaniti.net](mailto:info@aldaniti.net)
 **By post:**
 
 Aldaniti International Network, Ltd Limited  
-Clytha House, 44, New Street ,   
-Ross on Wye,   
-HerefordShire   
-HR97DA, United Kingdom
 
+
+**Por correo postal:**  
 Aldaniti International Network, Ltd Limited  
-Clytha House, 44, New Street ,   
-Ross on Wye,   
+12 Brookend Street Ross-on-Wye,   
 HerefordShire   
-HR97DA, United Kingdom 
+HR9 7EG, United Kingdom
