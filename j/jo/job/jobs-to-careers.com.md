@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobs-to-careers.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221213114id_/http%3A//www.jobs-to-careers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs-to-careers.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620121939id_/http%3A//www.jobs-to-careers.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Jobs to Careers
 
 ## Privacy Policy
 
-Last update on: September 23rd, 2011
+Last update on: April 4th, 2012
 
 Jobs-to-Careers.com ("Jobs-to-Careers" or "we") is a website owned by InsidersReferral.com Inc. We know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose personally identifiable information (referred to as "personal information" in this Privacy Policy
 
@@ -19,6 +19,8 @@ In order to become a Jobs-to-Careers user, you may optionally create an account 
 ### **Cookies, Log Files & IP Address:**
 
 As you use our Service, we may also passively collect certain information, including your Internet protocol address, browser type, domain names, access times, and operating system. We may also use passive tools such as cookies, clear GIFs, and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of your use of the Service. This type of information is collected to make our Services more useful to you and to help us improve the Site. You must accept cookies to access Jobs-to-Careers as a registered user. If we link or associate any information gathered through passive means with personal information, we treat the combined information as personal information under this Privacy Policy. Otherwise, we use information collected by passive means in non-personally identifiable form only.
+
+Once we redirect you to a job page hosted by third-party sites, third parties may be placing and reading cookies on your browser, or using web beacons to collect information. You understand that Jobs-to-Careers has no control over third-party sites, thus your privacy is subject to third-party site's privacy policy.
 
 ### **Information from Other Sources:**
 
