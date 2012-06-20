@@ -1,87 +1,121 @@
-> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924044808id_/http%3A//www.ljhooker.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621001324id_/http%3A//about.ljhooker.com.au/privacy-policy%3Fsid%3Drsl) for the most accurate reproduction.*
 
-# Privacy Policy - LJ Hooker
+# Privacy Policy - about.ljhooker.com.au
 
-LJ Hooker acknowledges and respects the privacy of individuals.  This policy sets out the way in which we will use, manage and protect your personal information in accordance with the Privacy Act 1988 (Cth). 
+**LJ HOOKER PRIVACY POLICY**
 
- Unless stated by you to the contrary, you acknowledge and consent to the use or disclosure of your personal information including your name, address, email address and other information you provide to us, in circumstances that are:  
-•    Set out in the Privacy Policy; or  
-•    Permitted under the Privacy Act 1988 (Cth).
+LJ Hooker acknowledges and respects the privacy of individuals.  This policy sets out the way in which we will use, manage and protect your personal information in accordance with the Privacy Act 1988 (Cth).
 
-  **COLLECTION OF INFORMATION**
+  Unless stated by you to the contrary, you acknowledge and consent to the use or disclosure of your personal information including your name, address, email address and other information you provide to us, in circumstances that are:
 
- We may collect personal information from you including your name, address, telephone number and email address, when you knowingly provide us with information such as when you visit our Website and register your needs, attend at or enquire about properties we have for sale or for lease, enter into a competition or promotion, transact through our franchisees, participate in a survey including ‘after sales service’ follow-up, or apply to become a franchise operator.   
-  **  
-USE OF YOUR INFORMATION**
+•    Set out in the Privacy Policy; or  
+•    Permitted under the Privacy Act 1988 (Cth).
 
- Personal information that you submit to us may be used by us for reasonable business purposes, in that we may store (database) and process that information to better understand your needs and how we can improve our services.  Your personal information may also be used for the following purposes:   
-•    * LJ Hooker Personnel to make contact for the purpose of providing services  
-•     Franchisee purposes including assessment of franchise applications and management of the franchise   
-•     Trade promotion purposes   
-•     Purposes related to promotion, marketing and operations   
-•     Statistical purposes
+  
+**SENSITIVE INFORMATION**  
+We will not collect use or disclose sensitive information (such as information about racial or ethnic origins or political or religious beliefs) except with your specific consent or in the circumstances permitted in the Privacy Act 1988 (Cth).  
+ 
 
- For any of the above purposes we may contact you by electronic or other means.
+**PRIVACY AND OUR WEBSITE**  
+**Clickstream Data**  
+Each time you visit the Website our server collects some anonymous information, known as click-stream data, including the type of browser and system you are using; the address of the Website you have come from and move to after your visit; the date and time of your visit; and your server's IP address.
 
-* LJ Hooker Personnel means those persons employeed or engaged by LJ Hooker or its Franchisees or Licencees to provide the required services.  
-  **  
-DISCLOSURE TO THIRD PARTIES**
+  We may collect this information for statistical purposes to find out how the Website is used and navigated, including the number of hits, the frequency and duration of visits, most popular session times. We may use this information to evaluate and improve the Website’s performance.
 
- Personal information that you submit to us will only be disclosed to a third party, if we are required or authorised by law to disclose the information. Otherwise we will not disclose your personal information to any third parties. 
+  **Cookies**  
+A Cookie is a piece of information that our web server may send to your machine when you visit the Website. The Cookie is stored on your machine, but does not identify you or give us any information about your computer.  
+A Cookie helps us to recognise you when you re-visit the Website and to co-ordinate your access to different pages on the Website. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. If you want to do this, refer to your Browser instructions or help screen to learn more.
 
-  **ACCESS, ACCURACY AND SECURITY**
+**Links to other Web sites**  
+Our Web site may contain links that make it easy for you to visit other sites which might be of interest to you. If you use the links to leave our Web site and visit a Web site operated by somebody else, you should note that we do not have any control over that Web site. Accordingly, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites. You should exercise caution and look at the Privacy statement applicable to the Web site in question.
 
- We will take reasonable steps to ensure that the personal information we collect is accurate, complete and up-to-date.
+  
+**COLLECTION OF INFORMATION**  
+We may collect personal information from you including your name, address, telephone number and email address, when you knowingly provide us with information such as when you visit our Website and register your needs, attend at or enquire about properties we have for sale or for lease, enter into a competition or promotion, transact through our franchisees, participate in a survey including ‘after sales service’ follow-up, or apply to become a franchise operator.
 
- You can access and request correction of any personal information concerning you at any time. You may also request that we delete your personal information at any time. Any such requests should be made directly by contacting us at the details set out below. 
+**USE OF YOUR INFORMATION**  
+Personal information that you submit to us may be used by us for reasonable business purposes, in that we may store (database) and process that information to better understand your needs and how we can improve our services.  Your personal information may also be used for the following purposes:
 
- We will take reasonable steps to protect personal information from misuse, loss and unauthorised access, modification or disclosure.
+•    LJ Hooker Personnel to make contact for the purpose of providing services  
+•    Franchisee purposes including assessment of franchise applications and management of the franchise  
+•    Trade promotion purposes  
+•    Purposes related to promotion, marketing and operations  
+•    Statistical purpose
 
-  **  
-OVERSEAS DISCLOSURE**
+* LJ Hooker Personnel means those persons employed or engaged by LJ Hooker or its Franchisees or Licensees to provide the required services.
 
- LJ Hooker conducts its business overseas and has overseas offices.  In making disclosure of personal information to third parties outside Australia, LJ Hooker will at all times comply with the Privacy Act 1988 and the National Privacy Principles and LJ Hooker will ensure that:   
-•    the third party is subject to a scheme, law or contract that upholds principles of fair dealing of the information; or   
-•    you consent to the disclosure of your personal information or disclosure is requried by a contract in which you are involved; or   
-•    the disclosure is for your benefit and we believe that you would have consented to the disclosure, but it is impractical to get your permission; or   
-•    the information that is being disclosed will be held and used in accordance with the National Privacy Principles.  
- **   
-SENSITIVE INFORMATION**
+  
+**DISCLOSURE TO THIRD PARTIES**  
+Personal information that you submit to us will only be disclosed to a third party, if we are required or authorised by law to disclose the information. Otherwise we will not disclose your personal information to any third parties.
 
- We will not collect use or disclose sensitive information (such as information about racial or ethnic origins or political or religious beliefs) except with your specific consent or in the circumstances permitted in the Privacy Act 1988 (Cth). 
+**ACCESS, ACCURACY AND SECURITY**  
+We will take reasonable steps to ensure that the personal information we collect is accurate, complete and up-to-date.
 
-  **  
-PRIVACY AND OUR WEBSITE**
+  You can access and request correction of any personal information concerning you at any time. You may also request that we delete your personal information at any time. Any such requests should be made directly by contacting us at the details set out below.
 
- Clickstream Data
+  We will take reasonable steps to protect personal information from misuse, loss and unauthorised access, modification or disclosure.
 
- Each time you visit the Website our server collects some anonymous information, known as click-stream data, including the type of browser and system you are using; the address of the Website you have come from and move to after your visit; the date and time of your visit; and your server's IP address. 
+  **LJ HOOKER FINANCE PRIVACY POLICY**
 
- We may collect this information for statistical purposes to find out how the Website is used and navigated, including the number of hits, the frequency and duration of visits, most popular session times. We may use this information to evaluate and improve the Website’s performance.
+LJ Hooker Finance acknowledges and respects the privacy of individuals.  This policy sets out the way in which we will use, manage and protect your personal information in accordance with the Privacy Act 1988 (Cth). The following privacy policy governs the collection of information.
 
- Cookies 
+  We may collect personal information from you including your name, address, telephone number and email address, when you knowingly provide us with information such as when you visit our Website and register your needs, attend at or enquire about properties we have for sale or for lease, engage LJ Hooker Finance for the purpose of obtaining finance, enter into a competition or promotion, transact through our franchisees, participate in a survey including ‘after sales service’ follow-up, or apply to become a franchise operator.
 
- A Cookie is a piece of information that our web server may send to your machine when you visit the Website. The Cookie is stored on your machine, but does not identify you or give us any information about your computer.
+In addition to the above, further information will be required to enable us to assess the suitability and eligibility for obtaining a home loan, personal loan, commercial loan and other types of finance or for the provisions of other services. This will include occupation and financial information regarding your income and expenditure, Assets and Liabilities statements and specific requirements and objectives about your financial goals. We are required to collect this information in order to complete an application for finance. If you do not provide all of the required information, an application may not be considered for approval.
 
- A Cookie helps us to recognise you when you re-visit the Website and to co-ordinate your access to different pages on the Website. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. If you want to do this, refer to your Browser instructions or help screen to learn more.
+If you supply to us personal information about another person, you represent that you are authorised to do so and agree that you have obtained consent from that person for us to use and disclose their personal information and that they may access any personal information we hold about them.
 
- **MORE ON PRIVACY  
- **  
-You can obtain further information about privacy in Australia and the protection of your personal information on the Australian federal Privacy Commissioner’s website www.privacy.gov.au
+**USE OF YOUR INFORMATION**  
+Personal information that you submit to us may be used by us for reasonable business purposes, in that we may store (database) and process that information to better understand your needs and how we can improve our services.  Your personal information may also be used for the following purposes:
 
-  **CONTACT US**
+•    LJ Hooker Personnel to make contact for the purpose of providing services  
+•    Submit loans through one of its mortgage aggregators in brokering your mortgage, personal loan or other types of finance  
+•    Submit loans through the LJ Hooker Home Loan aggregator in brokering your mortgage, personal loan or other types of finance  
+•    You have consented to LJ Hooker Finance and its mortgage aggregator disclosing the information on your application form, to a lender for the purposes of obtaining finance.    
+•    Some of the information on your application form is provided to one of our mortgage aggregators in order to administer the commission payable by the lender.  
+•    Trade promotion purposes  
+•    Purposes related to promotion, marketing and operations  
+•    Statistical purpose
 
- Privacy Offier
+For any of the above purposes we may contact you by electronic or other means.  
+You have consented to LJ Hooker Finance and its mortgage aggregator disclosing the information on your application form, to a lender for the purposes of obtaining finance.
 
- L.J. Hooker has appointed a privacy officer to be the first point of contact for all privacy related matters and to assist in ensuring LJ Hooker’s compliance with privacy obligations.
+* LJ Hooker Personnel means those persons employed or engaged by LJ Hooker or its Franchisees or Licensees to provide the required services.
 
- Please contact us if you wish to discuss any privacy issues, or if you do not wish to receive any future communications from us at the details below:
+**DISCLOSURE TO THIRD PARTIES**  
+Personal information that you submit to us will only be disclosed to a third party, if we are required or authorised by law to disclose the information. Otherwise we will not disclose your personal information to any third parties.
 
-ADDRESS:      
+  **ACCESS, ACCURACY AND SECURITY**  
+We will take reasonable steps to ensure that the personal information we collect is accurate, complete and up-to-date.
+
+  You can access and request correction of any personal information concerning you at any time. You may also request that we delete your personal information at any time. Any such requests should be made directly by contacting us at the details set out below.
+
+  We will take reasonable steps to protect personal information from misuse, loss and unauthorised access, modification or disclosure.
+
+Your LJ Hooker Property Finance Consultant keeps a copy of your application in order to communicate with you about the application, and provide other services to you. You have a right to access this information, in accordance with the Privacy Act. The information held by our mortgage aggregator is also accessible to you in accordance with the Privacy Act. If you wish to exercise your right of access, please contact your Property Finance Consultant direct or alternatively see contact details below for the LJ Hooker Privacy officer.
+
+**OVERSEAS DISCLOSURE**  
+LJ Hooker conducts its business overseas and has overseas offices.  In making disclosure of personal information to third parties outside Australia, LJ Hooker will at all times comply with the Privacy Act 1988 and the National Privacy Principles and LJ Hooker will ensure that:
+
+•    the third party is subject to a scheme, law or contract that upholds principles of fair dealing of the information; or  
+•    you consent to the disclosure of your personal information or disclosure is required by a contract in which you are involved; or  
+•    the disclosure is for your benefit and we believe that you would have consented to the disclosure, but it is impractical to get your permission; or  
+•    the information that is being disclosed will be held and used in accordance with the National Privacy Principles.
+
+**MORE ON PRIVACY**  
+You can obtain further information about privacy in Australia and the protection of your personal information on the Australian federal Privacy Commissioner’s website www.privacy.gov.au  
+ 
+
+**CONTACT US**  
+Privacy Officer  
+L.J. Hooker has appointed a privacy officer to be the first point of contact for all privacy related matters and to assist in ensuring LJ Hooker’s compliance with privacy obligations.
+
+  Please contact us if you wish to discuss any privacy issues, or if you do not wish to receive any future communications from us at the details below:  
+ADDRESS:     
 Matthew Montano  
-Hooker Corporation Limited   
+LJ Hooker Corporation Limited  
 International Operations, 191 Botany Road, Alexandria NSW 2015.
 
- TEL:  +61 2 8303 7000  
-FAX:+61 2 9319 5079  
-EMAIL: customerservice@ljh.com.au
+  TEL:    +61 2 8303 7000  
+FAX:    +61 2 9319 5079  
+EMAIL:    customerservice@ljh.com.au
