@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techxilla.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623135820id_/http%3A//www.techxilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techxilla.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621005652id_/http%3A//www.techxilla.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Techxilla
 
 _Your privacy on Techxilla  is of extreme importance to us. This privacy statement outlines what information we gather and how it is used when you visit [www.techxilla.com](http://www.techxilla.com/). We never sell your information to third parties._
 
