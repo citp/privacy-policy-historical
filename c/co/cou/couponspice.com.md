@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couponspice.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220062940id_/http%3A//couponspice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponspice.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620214202id_/http%3A//couponspice.com/privacy) for the most accurate reproduction.*
 
-# ..:: Welcome to Coupon Spice, couponing with integrity ::..
+# Privacy |
 
 **What information do we collect?**
 
