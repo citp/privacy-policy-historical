@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203133id_/http%3A//newswise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621005956id_/http%3A//www.newswise.com/privacy) for the most accurate reproduction.*
 
 # Newswise | Privacy Statement
 
@@ -39,7 +39,7 @@ Newswise offers you the opportunity to change or update your profile information
 For our Newswise newswire digest services, you may unsubscribe at any time by clicking on the “unsubscribe” link on any email received.
 
   
-**Do the Newswise website use cookies?**
+**Does the Newswise website use cookies?**
 
 Newswise sends a “cookie” to your computer that contains an identification number that is unique to the computer you are using. We use this cookie to provide you with a continuous experience, and for us to record how our service is being used.
 
