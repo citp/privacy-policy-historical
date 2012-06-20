@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andalucia.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231155342id_/http%3A//www.andalucia.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andalucia.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620041929id_/http%3A//www.andalucia.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Andalucia.com - Copyright Information
 
@@ -17,6 +17,10 @@ Data on companies and, in particular, on people that is received through informa
 **By clicking the “SEND” button that appears on the information request form (CONTACT - OR OTHER DATA SENDING OPTIONS), it shall be understood as expressly accepted that the data will be processed for the aforementioned purposes,** in accordance with the requirements set forth in article 21 of Law 34/2002, on Information Society and Electronic Commerce Services, for sending commercial communications by email and other equivalent means. 
 
 Users may oppose their data being processed for the aforementioned purposes by sending a letter by post to the address Avd. del Carmen 9 Edf. Puertosol 1ª planta Oficna 30, Estepona, through the procedure that authorises **Andalucia.com SLu** in each case, and by providing proof of identity in order to exercise this right to opposition. 
+
+Use of Cookies 
+
+We may use outside companies to display ads and collect information on our site. These ads may contain cookies for optimization purposes, and we do not have access to this information. These companies may use this information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on site, other Web sites and other forms of media about goods and services of interest to you. If you would like more information. For more information, or to learn about opting-out of such advertising technologies, please visit: **<http://www.networkadvertising.org/managing/opt_out.asp> **and **[www.google.com](https://web.archive.org/web/20120620041929id_/http%3A//www.andalucia.com/www.google.com)**
 
   
 
