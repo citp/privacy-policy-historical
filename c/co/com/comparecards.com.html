@@ -1,19 +1,23 @@
-<!--The following is the downloaded HTML source of the comparecards.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102133218id_/http%3A//www.comparecards.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comparecards.com privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620150148id_/http%3A//www.comparecards.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head> 
-			
+	
+		
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+	<meta name="robots" content="noodp,noydir">
 	<meta name="verify-v1" content="+VHb4GpZoeJuh7hIE0jFwA1SP+uA39iwEH1HEofTpUc=">
 	<meta name="google-site-verification" content="ZNhLQ_8i1FXKH96hYK30gqefjpbQTq0yPRkrSHT8RAQ">
+	<meta name="msvalidate.01" content="5680D1B7CE1211C45CFEC8899D1CC61A">
 	<title>CompareCards.com Website Privacy Policy</title>
 	<meta name="description" content="Our company's privacy policy with regards to interactions with the CompareCards.com website.">
 	<meta name="keywords" content="">
 	<meta name="template-location" content="static/landing_page">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">		
-	<link href="/pub/css/all.css" rel="stylesheet" type="text/css" media="all">
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    		
+	<link href="/pub/css/all.css?lm=11994695d5d1e45edd80ca9d636e57e0" rel="stylesheet" type="text/css" media="all">
 	<link href="/pub/css/btns.css" rel="stylesheet" type="text/css" media="all">
-			
+		<link href="/pub/plugins/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css">		
 	<script type="text/javascript" async="" src="https://chat.livechatinc.net/licence/1035691/script.cgi?lang=en&amp;groups=0"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 	<script type="text/javascript" src="/pub/js/main.js"></script> 
 	<script type="text/javascript" src="/pub/js/jquery-1.4.4.min.js"></script> 
@@ -21,7 +25,7 @@
 	<script type="text/javascript" src="/pub/js/jquery.main.js"></script> 
 	<script type="text/javascript" src="/pub/js/jquery.form.js"></script> 
 	<script type="text/javascript" src="/pub/js/inputs.js"></script> 
-		<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/pub/css/lt7.css" media="screen"/><![endif]--> 
+		<script type="text/javascript" src="/pub/plugins/fancybox/jquery.fancybox-1.3.4.pack.js"></script>	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/pub/css/lt7.css" media="screen"/><![endif]--> 
 	
 	<!-- Google Analytics -->
 <script type="text/javascript">
@@ -37,6 +41,7 @@
   })();
 
 </script>	
+		
 	<!--LiveChat Tracking-->
 	<script type="text/javascript">	
 	  (function() {
@@ -80,6 +85,22 @@
     
     <script type="text/javascript" charset="utf-8">
 	$(document).ready(function(){  
+		
+		//analytical template
+		$('.snapshot-card-img-a').hover(
+			function() {
+				var cid = $(this).attr('data-id');
+				$('#snapshot-card-img-' + cid).css('opacity', '0.8');
+				$('#apply-hover-' + cid).show();
+			},
+			function() {
+				var cid = $(this).attr('data-id');
+				$('#snapshot-card-img-' + cid).css('opacity', '1.0');
+				$('#apply-hover-' + cid).hide();
+			}
+		);
+		//analytical template
+		
 		$("#t1 a:first").click(function(){
 			var $a = $(this);
 			$('#main_nav a.main-link-hover').removeClass('main-link-hover').addClass('main-link');
@@ -136,10 +157,26 @@
 			
 			return false;
 		});
-	});
+		
+		//credit score boxes
+		$('.credit-score-pop').live('click', function() {
+			$('#credit-score-pop-680').modal();
+			return false;
+		});
+		
+		//track redirects on credit products
+		$('.cpredirect').live('click', function() {
+			if ($(this).attr('title')) {
+				_gaq.push(['_trackEvent', 'Credit Product Application', 'Completion', $(this).attr('title')]);
+			}
+			//
+			//
+		});
+		
+			});
 	</script></head> 
 <body> 
-	<div id="wrapper"> 
+	<div id="wrapper">
 		<div id="main"> 
 			<div class="content-holder"> 
 				<div class="content-w1"> 
@@ -177,45 +214,46 @@
 
 </div>					</div> 
 					<div id="sidebar">
+						<meta itemprop="author" rel="author" content="Chris Mettler">
 						
 	<ul class="sidebar-menu" id="main_nav">
 		<li id="t1">
-			<a href="#" class="main-link-hover">Cards by Category</a>
+			<a href="#" class="main-link-hover nsae" data-nsae="right_nav;accordian;category;expander">Cards by Category</a>
 			<ul class="subnav" id="m1" style="display:block">
-				<li><a href="http://www.comparecards.com/category/balance-transfer">Balance Transfer Cards</a></li>
-				<li><a href="http://www.comparecards.com/category/low-interest">0% / Low Interest Cards</a></li>
-				<li><a href="http://www.comparecards.com/category/business">Business Cards</a></li>
-				<li><a href="http://www.comparecards.com/category/reward">Rewards Cards</a></li>
-				<li><a href="http://www.comparecards.com/category/cash-back">Cash Back Cards</a></li>
-				<li><a href="http://www.comparecards.com/category/student">Student Cards</a></li>
-				<li><a href="http://www.comparecards.com/category/airline">Airline Cards</a></li>
-				<li><a href="http://www.comparecards.com/category/gas">Gas Credit Cards</a></li>
-				<li><a href="http://www.comparecards.com/category/prepaid-debit">Pre-paid Debit Cards</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;category;top_cards" href="http://www.comparecards.com/best-credit-card-offers">Top Credit Card Offers</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;category;link;3" href="http://www.comparecards.com/category/balance-transfer">Balance Transfer Cards</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;category;link;2" href="http://www.comparecards.com/category/low-interest">0% / Low Interest Cards</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;category;link;10" href="http://www.comparecards.com/category/business">Business Cards</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;category;link;5" href="http://www.comparecards.com/category/reward">Rewards Cards</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;category;link;7" href="http://www.comparecards.com/category/cash-back">Cash Back Cards</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;category;link;9" href="http://www.comparecards.com/category/student">Student Cards</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;category;link;6" href="http://www.comparecards.com/category/airline">Airline Cards</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;category;link;12" href="http://www.comparecards.com/category/gas">Gas Credit Cards</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;category;link;8" href="http://www.comparecards.com/category/prepaid-debit">Pre-paid Debit Cards</a></li>
 			</ul>
 		</li>
 		<li id="t2">
-			<a href="#" class="main-link">Cards by Credit Score</a>
+			<a href="#" class="main-link nsae" data-nsae="right_nav;accordian;credit_quality;expander">Cards by Credit Score</a>
 			<ul class="subnav" id="m2">
-				<li><a href="http://www.comparecards.com/credit-quality/excellent">Excellent Credit (+730)</a></li>
-				<li><a href="http://www.comparecards.com/credit-quality/good">Good Credit (680 – 720)</a></li>
-				<li><a href="http://www.comparecards.com/credit-quality/fair">Fair Credit (620 – 679)</a></li>
-				<li><a href="http://www.comparecards.com/credit-quality/bad">Bad Credit (Below 619)</a></li>
-				<li><a href="http://www.comparecards.com/credit-quality/no-credit">No Credit</a></li>
-				<li><a href="https://www.gofreecredit.com/r/4e4028adcb/?subid=">Don't Know Credit Score?</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;credit_quality;link;1" href="http://www.comparecards.com/credit-quality/excellent">Excellent Credit (+730)</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;credit_quality;link;2" href="http://www.comparecards.com/credit-quality/good">Good Credit (680 – 720)</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;credit_quality;link;3" href="http://www.comparecards.com/credit-quality/fair">Fair Credit (620 – 679)</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;credit_quality;link;4" href="http://www.comparecards.com/credit-quality/bad">Bad Credit (Below 619)</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;credit_quality;link;5" href="http://www.comparecards.com/credit-quality/no-credit">No Credit</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;credit_quality;get_score" href="https://www.gofreecredit.com/r/4e4028adcb/?subid=">Don't Know Credit Score?</a></li>
 			</ul>
 		</li>
 		<li id="t3">
-			<a href="#" class="main-link">Cards by Issuer</a>
+			<a href="#" class="main-link nsae" data-nsae="right_nav;accordian;issuer;expander">Cards by Issuer</a>
 			<ul class="subnav" id="m3">
-				<li><a href="http://www.comparecards.com/brand/american-express">American Express</a></li>
-				<li><a href="http://www.comparecards.com/issuer/bank-of-america">Bank of America</a></li>
-				<li><a href="http://www.comparecards.com/issuer/capital-one">Capital One</a></li>
-				<li><a href="http://www.comparecards.com/issuer/chase">Chase</a></li>
-				<li><a href="http://www.comparecards.com/issuer/citi">Citibank</a></li>
-				<li><a href="http://www.comparecards.com/brand/discover">Discover</a></li>
-				<li><a href="http://www.comparecards.com/issuer/hsbc">HSBC</a></li>
-				<li><a href="http://www.comparecards.com/brand/mastercard">Mastercard</a></li>
-				<li><a href="http://www.comparecards.com/brand/visa">Visa</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;issuer;link;6" href="http://www.comparecards.com/brand/american-express">American Express</a></li>
+				<!--<li><a href="http://www.comparecards.com/issuer/bank-of-america">Bank of America</a></li>-->
+				<li><a class="nsae" data-nsae="right_nav;accordian;issuer;link;12" href="http://www.comparecards.com/issuer/capital-one">Capital One</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;issuer;link;13" href="http://www.comparecards.com/issuer/chase">Chase</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;issuer;link;14" href="http://www.comparecards.com/issuer/citi">Citibank</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;issuer;link;7" href="http://www.comparecards.com/brand/discover">Discover</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;issuer;link;8" href="http://www.comparecards.com/brand/mastercard">MasterCard</a></li>
+				<li><a class="nsae" data-nsae="right_nav;accordian;issuer;link;9" href="http://www.comparecards.com/brand/visa">Visa</a></li>
 			</ul>
 		</li>
 	</ul>
@@ -230,30 +268,50 @@
 		<!--<a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=110020213517"><img src="/pub/images/logo08.gif" width="129" height="72" title="Click to verify BBB accreditation and to see a BBB report." alt="Click to verify BBB accreditation and to see a BBB report." /></a>-->
 		</li>
 		<li><a href="http://privacy-policy.truste.com/click-to-verify/www.comparecards.com" title="Privacy Policy by TRUSTe" target="_blank"><img style="border: none" alt="Privacy Policy by TRUSTe" src="http://privacy-policy.truste.com/verified-seal/www.comparecards.com/green/h.png" class="opacity5"></a></li>
+	</ul>
 		
-		<li><a href="http://www.comparecards.com/brand/visa"><img src="/pub/images/logo01.gif" width="93" height="21" alt="visa"></a></li> 
-		<li><a href="http://www.comparecards.com/brand/mastercard"><img src="/pub/images/logo02.gif" width="93" height="31" alt="master card"></a></li> 
-		<li><a href="http://www.comparecards.com/brand/discover"><img src="/pub/images/logo03.gif" width="93" height="20" alt="discover"></a></li> 
-		<li><a href="http://www.comparecards.com/brand/american-express"><img src="/pub/images/logo04.gif" width="93" height="46" alt="american express"></a></li> 
-		<li><a href="http://www.comparecards.com/issuer/citi"><img src="/pub/images/logo05.gif" width="93" height="33" alt="citi"></a></li> 
-		<li><a href="http://www.comparecards.com/issuer/capital-one"><img src="/pub/images/logo06.gif" width="93" height="39" alt="capital one"></a></li> 
-		<li><a href="http://www.comparecards.com/issuer/chase"><img src="/pub/images/logo07.gif" width="93" height="19" alt="chase"></a></li> 
+	<div class="as-seen-in-side">
+		<strong>Over 1,000,000</strong>
+		<em>cardholders since 2005</em>
+		<strong>As Seen In</strong>
+		<img alt="" src="/pub/images/as-seen-in.png">
+	</div>
+	
+	<ul class="logo-list"> 	
+		<li><img src="/pub/images/logo01.gif" width="93" height="21" alt="visa"></li> 
+		<li><img src="/pub/images/logo02.gif" width="93" height="31" alt="master card"></li> 
+		<li><img src="/pub/images/logo03.gif" width="93" height="20" alt="discover"></li> 
+		<li><img src="/pub/images/logo04.gif" width="93" height="46" alt="american express"></li> 
+		<li><img src="/pub/images/logo05.gif" width="93" height="33" alt="citi"></li> 
+		<li><img src="/pub/images/logo06.gif" width="93" height="39" alt="capital one"></li> 
+		<li><img src="/pub/images/logo07.gif" width="93" height="19" alt="chase"></li> 
 	</ul> 
 	<div class="debt"> 
 		<p><strong>Credit Card Calculators</strong></p> 
-		<p style="font-size:11px; margin-bottom:6px;"><a href="http://www.comparecards.com/calculators/payoff">Payoff</a> | <a href="http://www.comparecards.com/calculators/balance-transfer">Balance Transfer</a></p> 
+		<p style="font-size:11px; margin-bottom:6px;"><a href="http://www.comparecards.com/calculators/payoff" class="nsae" data-nsae="right_nav;calculators;payoff">Payoff</a> 
+		| <a href="http://www.comparecards.com/calculators/balance-transfer" class="nsae" data-nsae="right_nav;calculators;balance_transfer">Balance Transfer</a></p> 
 		<img src="/pub/images/img11.jpg" width="72" height="81" alt="calculator"> 
 	</div> 
 	<div class="credit-score"> 
-		<p>Don't know your <br> Credit Score? <br><a href="/about/credit-reports-scores">Click here.</a></p> 
+		<p>Don't know your <br> Credit Score? <br><a href="/about/credit-reports-scores" class="nsae" data-nsae="right_nav;credit_score">Click here.</a></p> 
 	</div> 
 	<div class="newsletter-sidebar"> 
-		<a href="http://www.comparecards.com/newsletter">Join Our Newsletter</a>
+		<a href="http://www.comparecards.com/newsletter" class="nsae" data-nsae="right_nav;newsletter">Join Our Newsletter</a>
 	</div>
 	
 		
+	<div id="fb-root"></div>
+	<script>/*(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=245668665457479";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));*/</script>
+	<!--<div class="fb-like" data-href="http://www.facebook.com/ChargeResponsibly" data-send="true" data-layout="button_count" data-width="150" data-show-faces="true"></div>-->
+	
 	<div class="gplus">
-		<g:plusone href="http://www.comparecards.com/"></g:plusone>
+		<g:plusone href="http://www.comparecards.com"></g:plusone>
 	</div>
 	
 						</div> 
@@ -264,11 +322,11 @@
 		
 		<div id="header">
 			
-				<strong class="logo"><a href="http://www.comparecards.com/">CompareCards.com</a></strong> 
+				<strong class="logo"><a href="http://www.comparecards.com/" class="nsae" data-nsae="head_nav;logo_home">CompareCards.com</a></strong> 
 	<ul class="action-nav"> 
-		<li><a class="btn-bookmark" href="#" onclick="javascript:CreateBookmarkLink('http://www.comparecards.com/privacy-policy');">Bookmark</a></li> 
-		<li><a class="btn-about" href="http://www.comparecards.com/about-us">About</a></li> 
-		<li><a class="btn-contact" href="http://www.comparecards.com/contact">Contact</a></li> 
+		<li><a class="btn-bookmark nsae" href="#" onclick="javascript:CreateBookmarkLink('http://www.comparecards.com/privacy-policy');" data-nsae="head_nav;bookmark">Bookmark</a></li> 
+		<li><a rel="author" class="btn-about nsae" href="http://www.comparecards.com/about-us" data-nsae="head_nav;about">About</a></li><!-- RichSnip Tag -->
+		<li><a class="btn-contact nsae" href="http://www.comparecards.com/contact" data-nsae="head_nav;contact">Contact</a></li> 
 		<li><div id="LiveChat_1294947322"></div>
 			
 			<script type="text/javascript">
@@ -288,6 +346,7 @@
 		</li> 
 	</ul> 
 	<div class="trusted-box"><!--#1 Trusted Free Credit Card Guide for <strong>over 400,000</strong><br />Consumers Since 2005 and Counting!--><img alt="" src="/pub/images/kf/images/trust/Last.png"></div>
+	
 	<div class="verisign-block">
 		<a href="http://www.verisign.com/verisign-trust-seal" target="_blank"><img alt="" src="/pub/images/kf/images/verisign.png"></a>
 	</div>            
@@ -296,9 +355,9 @@
 		
 	<div class="menu-block"><div class="nav-block">
 	<ul> 
-		<li class="active "><a href="http://www.comparecards.com/" class="topnav home" style="border-left:0"><span style="" class="home-link">Home</span></a></li> 
+		<li class="active "><a href="http://www.comparecards.com/" class="topnav home nsae" data-nsae="main_nav;home" style="border-left:0"><span style="" class="home-link">Home</span></a></li> 
 		<li class="mega">
-			<a href="http://www.comparecards.com/compare-credit-cards" class="topnav"><span>Find a Credit Card</span></a>
+			<a href="http://www.comparecards.com/compare-credit-cards" class="topnav nsae" data-nsae="main_nav;find_card;parent"><span>Find a Credit Card</span></a>
 			<div class="mega-content" style="width:500px;">
 				
 					<div id="credit-card-nav">		
@@ -307,50 +366,47 @@
 	
 						<div style="float:left; width:240px;">
 							<ul>
-								<li><a href="http://www.comparecards.com/category/balance-transfer" class="balance-transfer">Balance Transfer Credit Cards</a></li>
-								<li><a href="http://www.comparecards.com/category/low-interest" class="low-interest">Low Interest Credit Cards</a></li>
-								<li><a href="http://www.comparecards.com/category/low-interest" class="low-interest">0% Apr Credit Cards</a></li>
-								<li><a href="http://www.comparecards.com/category/reward" class="reward">Rewards Credit Cards</a></li>
-								<li><a href="http://www.comparecards.com/category/cash-back" class="cash-back">Cash Back Credit Cards</a></li>
-								<li><a href="http://www.comparecards.com/category/student" class="student">Student Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/category/balance-transfer" class="balance-transfer nsae" data-nsae="main_nav;find_card;category;3">Balance Transfer Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/category/low-interest" class="low-interest nsae" data-nsae="main_nav;find_card;category;2">Low Interest Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/category/reward" class="reward nsae" data-nsae="main_nav;find_card;category;5">Rewards Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/category/cash-back" class="cash-back nsae" data-nsae="main_nav;find_card;category;7">Cash Back Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/category/student" class="student nsae" data-nsae="main_nav;find_card;category;9">Student Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/category/canada" class="canada nsae" data-nsae="main_nav;find_card;category;44">Canadian Credit Cards</a></li>
 							</ul>   
 						</div>
 						
 						<div style="margin-left:255px; width:240px;">
 							<ul>
-								<li><a href="http://www.comparecards.com/category/instant-approval" class="instant-approval">Instant Approval Credit Cards</a></li>
-								<li><a href="http://www.comparecards.com/category/airline" class="airline">Airline Credit Cards</a></li>
-								<li><a href="http://www.comparecards.com/category/prepaid-debit" class="prepaid-debit">Prepaid Debit Cards</a></li>
-								<li><a href="http://www.comparecards.com/category/business" class="business">Business Credit Cards</a></li>
-								<li><a href="http://www.comparecards.com/category/gas" class="gas">Gas Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/best-credit-card-offers" class="top-offers nsae" data-nsae="main_nav;find_card;category;top_cards">Top Credit Card Offers</a></li>
+								<li><a href="http://www.comparecards.com/category/instant-approval" class="instant-approval nsae" data-nsae="main_nav;find_card;category;4">Instant Approval Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/category/airline" class="airline nsae" data-nsae="main_nav;find_card;category;6">Airline Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/category/prepaid-debit" class="prepaid-debit nsae" data-nsae="main_nav;find_card;category;8">Prepaid Debit Cards</a></li>
+								<li><a href="http://www.comparecards.com/category/business" class="business nsae" data-nsae="main_nav;find_card;category;10">Business Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/category/gas" class="gas nsae" data-nsae="main_nav;find_card;category;12">Gas Credit Cards</a></li>
 							</ul> 
 						</div>
 						<div style="clear:left"></div>
 	
 						<strong>By Issuer</strong>
 	
-						<div style="float:left; width:180px;">
+						<div style="float:left; width:240px;">
 							<ul>
-								<li><a href="http://www.comparecards.com/brand/american-express" class="american-express">American Express</a></li>
-								<li><a href="http://www.comparecards.com/issuer/bank-of-america" class="bank-america">Bank of America</a></li>
-								<li><a href="http://www.comparecards.com/issuer/capital-one" class="capital-one">Capital One</a></li>
+								<!--<li><a href="http://www.comparecards.com/issuer/bank-of-america" class="bank-america">Bank of America</a></li>-->
+								<li><a href="http://www.comparecards.com/issuer/capital-one" class="capital-one nsae" data-nsae="main_nav;find_card;issuer;12">Capital One Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/issuer/citi" class="citi nsae" data-nsae="main_nav;find_card;issuer;14">Citibank Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/issuer/chase" class="chase nsae" data-nsae="main_nav;find_card;issuer;13">Chase Credit Cards</a></li>
+								<!--<li><a href="http://www.comparecards.com/issuer/hsbc" class="hsbc nsae" data-nsae="main_nav;find_card;issuer;16">HSBC Credit Cards</a></li>-->
+								<!--<li><a href="http://www.comparecards.com/issuer/barclaycard" class="barclaycard">Barclaycard</a></li>-->
 							</ul>   
 						</div>
 						
-						<div style="float:left; padding-left:20px; width:120px;">
+						<div style="float:left; padding-left:15px;">
 							<ul>
-								<li><a href="http://www.comparecards.com/issuer/citi" class="citi">Citi Bank</a></li>
-								<li><a href="http://www.comparecards.com/issuer/chase" class="chase">Chase</a></li>
-								<li><a href="http://www.comparecards.com/brand/discover" class="discover">Discover</a></li>
+								<li><a href="http://www.comparecards.com/brand/american-express" class="american-express nsae" data-nsae="main_nav;find_card;issuer;6">American Express Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/brand/mastercard" class="mastercard nsae" data-nsae="main_nav;find_card;issuer;8">MasterCard Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/brand/visa" class="visa nsae" data-nsae="main_nav;find_card;issuer;9">Visa Credit Cards</a></li>
+								<li><a href="http://www.comparecards.com/brand/discover" class="discover nsae" data-nsae="main_nav;find_card;issuer;7">Discover Credit Cards</a></li>
 							</ul> 
-						</div>
-						
-						<div style="float:left; padding-left:20px; width:150px;">
-							<ul>
-								<li><a href="http://www.comparecards.com/issuer/hsbc" class="hsbc">HSBC</a></li>
-								<li><a href="http://www.comparecards.com/brand/mastercard" class="mastercard"> Mastercard</a></li>
-								<li><a href="http://www.comparecards.com/brand/visa" class="visa">Visa</a></li>
-							</ul>
 						</div>
 						<div style="clear:left"></div>
 										
@@ -358,21 +414,21 @@
 						
 						<div style="float:left;">
 							<ul>
-								<li><a href="http://www.comparecards.com/credit-quality/excellent" class="excellent">Excellent</a></li>
-								<li><a href="http://www.comparecards.com/credit-quality/good" class="good"> Good</a></li>
+								<li><a href="http://www.comparecards.com/credit-quality/excellent" class="excellent nsae" data-nsae="main_nav;find_card;credit_quality;1">Excellent</a></li>
+								<li><a href="http://www.comparecards.com/credit-quality/good" class="good nsae" data-nsae="main_nav;find_card;credit_quality;2"> Good</a></li>
 							</ul>   
 						</div>
 						
 						<div style="float:left; padding-left:40px;">
 							<ul>
-								<li><a href="http://www.comparecards.com/credit-quality/fair" class="fair">Fair</a></li>
-								<li><a href="http://www.comparecards.com/credit-quality/bad" class="bad">Bad</a></li>   
+								<li><a href="http://www.comparecards.com/credit-quality/fair" class="fair nsae" data-nsae="main_nav;find_card;credit_quality;3">Fair</a></li>
+								<li><a href="http://www.comparecards.com/credit-quality/bad" class="bad nsae" data-nsae="main_nav;find_card;credit_quality;4">Bad</a></li>   
 							</ul> 
 						</div>
 						
 						<div style="float:left; padding-left:40px;">
 							<ul>
-								<li><a href="http://www.comparecards.com/credit-quality/no-credit" class="no-credit"> Limited / No</a></li>
+								<li><a href="http://www.comparecards.com/credit-quality/no-credit" class="no-credit nsae" data-nsae="main_nav;find_card;credit_quality;5"> Limited / No</a></li>
 							</ul> 
 						</div>
 						<div style="clear:left"></div>
@@ -382,66 +438,54 @@
 			</div>
 		</li> 
 		<li class="mega">
-			<a href="http://www.comparecards.com/top50" class="topnav"><span>Credit Card Guides</span></a>
-			<div class="mega-content" style="width:180px;">
+			<a href="http://www.comparecards.com/top50" class="topnav nsae" data-nsae="main_nav;credit_guides;parent"><span>Credit Card Guides</span></a>
+			<div class="mega-content" style="width:220px;">
 				<ul class="plus levels">
-					<li><a href="http://www.comparecards.com/top50">Top 50 Credit Cards</a></li>
-					<li><a href="http://www.comparecards.com/glossary">Credit Card Glossary</a></li>
-					<li><a href="http://www.comparecards.com/compare-credit-cards">Card Comparison Guide</a></li>
-					<li><a href="http://www.comparecards.com/about/credit-card-videos">Credit Card Videos</a></li>
-					<li><a href="http://www.comparecards.com/about/credit-scores-101">Credit Scores 101</a></li>
+					<li><a href="http://www.comparecards.com/best-credit-card-offers" class="nsae" data-nsae="main_nav;credit_guides;editors_choice">Editor's Choice Credit Cards</a></li>
+					<li><a href="http://www.comparecards.com/glossary" class="nsae" data-nsae="main_nav;credit_guides;glossary">Credit Card Glossary</a></li>
+					<li><a href="http://www.comparecards.com/compare-credit-cards" class="nsae" data-nsae="main_nav;credit_guides;comparison_guide">Card Comparison Guide</a></li>
+					<li><a href="http://www.comparecards.com/credit-card-videos" class="nsae" data-nsae="main_nav;credit_guides;videos">Credit Card Videos</a></li>
+					<li><a href="http://www.comparecards.com/about/credit-scores-101" class="nsae" data-nsae="main_nav;credit_guides;credit_scores_101">Credit Scores 101</a></li>
 			   </ul>
 			</div>
 		</li>
 		<li class="mega">
-			<a href="http://www.comparecards.com/calculators/payoff" class="topnav"><span>Credit Card Tools</span></a>
+			<a href="http://www.comparecards.com/calculators/payoff" class="topnav nsae" data-nsae="main_nav;credit_tools;parent"><span>Credit Card Tools</span></a>
 			<div class="mega-content" style="width:400px;">
 				<div style="float:left; width:170px;">
 					<strong>Credit Calculators</strong>
 					<ul>
-						<li><a href="http://www.comparecards.com/calculators/payoff">Debt Payoff</a></li>
-						<li><a href="http://www.comparecards.com/calculators/balance-transfer">Balance Transfer</a></li>
+						<li><a href="http://www.comparecards.com/calculators/payoff" class="nsae" data-nsae="main_nav;credit_tools;calculators;debt_payoff">Debt Payoff</a></li>
+						<li><a href="http://www.comparecards.com/calculators/balance-transfer" class="nsae" data-nsae="main_nav;credit_tools;calculators;balance_transfer">Balance Transfer</a></li>
 					</ul>
 				</div>
 				<div style="margin-left:195px; width:200px;">
 					<strong>Resources</strong>
 					<ul>
-						<li><a href="http://ftc.gov/bcp/menus/consumer/credit/loans.shtm" target="_blank">FTC.gov</a></li>
-						<li><a href="http://nfcc.org/consumer_tools/ConsumerTools.cfm" target="_blank">NFCC.org</a></li>
-						<li><a href="http://kiplinger.com/topic.php/Credit+%26+Money+Management" target="_blank">Kiplinger on Credit</a></li>
-						<li><a href="http://nationalscoreindex.com/" target="_blank">Experian Credit Index</a></li>
-						<li><a href="http://federalreserve.gov/creditcard/" target="_blank">Federal Reserve Guide</a></li>
-						<li><a href="http://mass.gov?pageID=ocaterminal&amp;L=4&amp;L0=Home&amp;L1=Consumer&amp;L2=Finance&amp;L3=Credit+%26+Debt&amp;sid=Eoca&amp;b=terminalcontent&amp;f=credit_card_secrets&amp;csid=Eoca" target="_blank">Credit Card Secrets</a></li>
+						<li><a href="http://ftc.gov/bcp/menus/consumer/credit/loans.shtm" target="_blank" class="nsae" data-nsae="main_nav;credit_tools;resources;ftc">FTC.gov</a></li>
+						<li><a href="http://nfcc.org/consumer_tools/ConsumerTools.cfm" target="_blank" class="nsae" data-nsae="main_nav;credit_tools;resources;nfcc">NFCC.org</a></li>
+						<li><a href="http://kiplinger.com/topic.php/Credit+%26+Money+Management" target="_blank" class="nsae" data-nsae="main_nav;credit_tools;resources;kiplinger">Kiplinger on Credit</a></li>
+						<li><a href="http://nationalscoreindex.com/" target="_blank" class="nsae" data-nsae="main_nav;credit_tools;resources;experian">Experian Credit Index</a></li>
+						<li><a href="http://federalreserve.gov/creditcard/" target="_blank" class="nsae" data-nsae="main_nav;credit_tools;resources;federal_reserve">Federal Reserve Guide</a></li>
 						
-						<li><a href="/saved-credit-cards">Save Cards Side-by-Side</a></li>
+						<li><a href="/saved-credit-cards" class="nsae" data-nsae="main_nav;credit_tools;resources;save_cards">Save Cards Side-by-Side</a></li>
 					</ul>
 				</div>
 				<div style="clear:left;"></div>
 			</div>
 		</li> 
 		<li class="mega">
-			<a href="/about/credit-reports-scores" class="topnav"><span>Credit Reports &amp; Scores</span></a>
+			<a href="/about/credit-reports-scores" class="topnav nsae" data-nsae="main_nav;credit_scores;parent"><span>Credit Reports &amp; Scores</span></a>
 			<div class="mega-content" style="width:200px;">
 				<ul>
-					<li><a href="/about/free-trial-credit-scores">Free Trial Credit Scores </a></li>
-					<li><a href="/about/credit-reports-scores">Credit Reports </a></li>
-					<li><a href="/about/identity-theft">Identity Theft Protection </a></li>
-					<li><a href="/about/credit-monitoring">Credit Monitoring </a></li>
+					<li><a href="/about/free-trial-credit-scores" class="nsae" data-nsae="main_nav;credit_scores;free_trial">Free Trial Credit Scores </a></li>
+					<li><a href="/about/credit-reports-scores" class="nsae" data-nsae="main_nav;credit_scores;credit_reports">Credit Reports </a></li>
+					<li><a href="/about/identity-theft" class="nsae" data-nsae="main_nav;credit_scores;identity_theft">Identity Theft Protection </a></li>
+					<li><a href="/about/credit-monitoring" class="nsae" data-nsae="main_nav;credit_scores;credit_monitoring">Credit Monitoring </a></li>
 				</ul>
 			</div>
 		</li> 
-		<li class="mega">
-			<a href="/blog" class="topnav" style="border-right:0"><span>Credit Card News</span></a>
-			<div class="mega-content" style="width:190px;">
-				<ul>
-					<li><a href="/blog/category/articles">Articles</a></li>
-					<li><a href="/blog">Charge Responsibly Blog</a></li>
-					<li><a href="/blog/?cat=6">Credit News</a></li>
-					<li><a href="http://www.comparecards.com/newsletter">Newsletter</a></li>
-					<li><a href="http://www.comparecards.com/polls">Polls</a></li>
-				</ul>
-			</div>
-		</li> 
+		<li class="no-arrow"><a href="/blog" class="topnav nsae" data-nsae="main_nav;credit_news;parent" style="border-right:0" target="_blank"><span>Blog</span></a></li> 
 		
 	</ul> 
 	</div></div>			</div>
@@ -469,53 +513,45 @@
 				<div class="col col2"> 
 					<strong class="title">Site Links</strong> 
 					<ul> 
-						<li><a href="http://www.comparecards.com/">Home</a></li> 
-						<li><a href="http://www.comparecards.com/about-us">About Us</a></li> 
-						<li><a href="http://www.comparecards.com/contact">Contact Us</a></li> 
-						<li><a href="http://www.comparecards.com/privacy-policy">Privacy Policy</a></li> 
-						<li><a href="http://www.comparecards.com/terms-and-conditions">Terms and Conditions</a></li> 
-						<li><a href="http://www.comparecards.com/sitemap">Site Map</a></li> 
+						<li><a class="nsae" data-nsae="footer;nav;home" href="http://www.comparecards.com/">Home</a></li> 
+						<li><a class="nsae" data-nsae="footer;nav;about" href="http://www.comparecards.com/about-us">About Us</a></li> 
+						<li><a class="nsae" data-nsae="footer;nav;contact" href="http://www.comparecards.com/contact">Contact Us</a></li> 
+						<li><a class="nsae" data-nsae="footer;nav;media_center" href="http://www.comparecards.com/in-the-news">Media Center</a></li> 
+						<li><a class="nsae" data-nsae="footer;nav;sitemap" href="http://www.comparecards.com/sitemap">Site Map</a></li> 
 					</ul> 
-				</div> 
-				<div class="col col3"> 
-					<strong class="title">Categories</strong> 
-					<div class="list-frame"> 
-						<ul> 
-														<li><a href="http://www.comparecards.com/category/low-interest">Low Interest</a></li>
-														<li><a href="http://www.comparecards.com/category/canada">Canada</a></li>
-														<li><a href="http://www.comparecards.com/category/balance-transfer">Balance Transfer</a></li>
-														<li><a href="http://www.comparecards.com/category/instant-approval">Instant Approval</a></li>
-														<li><a href="http://www.comparecards.com/category/reward">Reward</a></li>
-														<li><a href="http://www.comparecards.com/category/airline">Airline</a></li>
-														<li><a href="http://www.comparecards.com/category/cash-back">Cash Back</a></li>
-														<li><a href="http://www.comparecards.com/category/prepaid-debit">Prepaid Debit</a></li>
-														<li><a href="http://www.comparecards.com/category/student">Student</a></li>
-														<li><a href="http://www.comparecards.com/category/business">Business</a></li>
-														<li><a href="http://www.comparecards.com/category/bad-credit">Bad Credit</a></li>
-														<li><a href="http://www.comparecards.com/category/gas">Gas</a></li>
-													</ul> 
-					</div> 
+					<ul class="links-col-2"> 
+						<li><a class="nsae" data-nsae="footer;nav;privacy" href="http://www.comparecards.com/privacy-policy">Privacy Policy</a></li> 
+						<li><a class="nsae" data-nsae="footer;nav;terms" href="http://www.comparecards.com/terms-and-conditions">Terms and Conditions</a></li> 
+					</ul> 
 				</div> 
 				<div class="col col4"> 
 					<strong class="title">Subscribe</strong> 
 					<ul class="social-links"> 
-						<li><a class="btn-facebook" href="http://www.facebook.com/ChargeResponsibly" target="_blank">facebook</a></li> 
-						<li><a class="btn-tweeter" href="http://twitter.com/CompareCards" target="_blank">twitter</a></li> 
-						<li><a class="btn-youtube" href="http://www.youtube.com/chargeresponsibly" target="_blank">youtube</a></li> 
-						<li><a href="/blog/?feed=rss2">rss</a></li> 
+						<li><a class="btn-facebook nsae" data-nsae="footer;subscribe;facebook" href="http://www.facebook.com/ChargeResponsibly" target="_blank">facebook</a></li> 
+						<li><a class="btn-tweeter nsae" data-nsae="footer;subscribe;twitter" href="http://twitter.com/CompareCards" target="_blank">twitter</a></li>
+						<li><a class="btn-youtube nsae" data-nsae="footer;subscribe;youtube" href="http://www.youtube.com/chargeresponsibly" target="_blank">youtube</a></li> 
+						<li><a href="/blog/?feed=rss2" class="nsae" data-nsae="footer;subscribe;rss">rss</a></li> 
 					</ul> 
 				</div> 
 			</div>
 						<div class="footer-text"> 
-				<p>Disclamer: * See the online credit card application for details about terms and conditions. We make every effort to maintain accurate information. However, all credit card information is presented without warranty. To confirm terms and conditions, click on the "Apply Here" button and review info on the secure credit card terms page.</p> 
+				<p>Disclamer: * See the online credit card application for details about terms and conditions. This site may be compensated by credit card issuers when a reader applies for a credit card through the links on this site.  We make every effort to maintain accurate information. However, all credit card information is presented without warranty. To confirm terms and conditions, click on the "Apply Here" button and review info on the secure credit card terms page.</p> 
 				<ul> 
-					<li>© 2005-2011</li> 
-					<li>CompareCards.com LLC</li> 
+					<li>© 2005-2012</li> 
+					<li>Iron Horse Holdings</li> 
 					<li>All Rights Reserved</li>
-										<li>-</li>
-									</ul> 
+				</ul> 
 			</div> 
 		</div> 
 	</div> 
+	
+
+	<div id="credit-score-pop-680" style="display:none;">
+		<a href="https://www.gofreecredit.com/r/4e4028adcb/?subid="><img src="/pub/images/credit-score-pop.jpg"></a>
+	</div>
+	
+	<!-- Interal URI: static/landingPage?url_key=privacy-policy -->
+	
+	
  
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
