@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the israel-music.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221170128id_/http%3A//www.israel-music.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israel-music.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620074112id_/http%3A//www.israel-music.com/privacy) for the most accurate reproduction.*
 
 # Israel Music - Privacy Policy
 
@@ -19,7 +19,9 @@ We will not sell or share your personal details with unrelated third parties, pa
 Only we have access to the information we collect and our visitors are allowed to access their contact information (such as email address or postal address). If you believe that our website has collected incorrect information or if you would like to dispute any information, please [contact us](https://web.archive.org/contact/) at:
 
 Tamuz Records Ltd.  
-PO Box 198  
-Ra'anana, 43102  
+PO Box 5916  
+Herzliya, 46158  
 ISRAEL  
 +972-9-7423837
+
+Need help? We're available 24/7 at: +972-3-5124024 
