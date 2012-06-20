@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bettermedicine.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202145831id_/http%3A//www.bettermedicine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettermedicine.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620174140id_/http%3A//www.bettermedicine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Better Medicine
 
-Health Grades, Inc. (" **HealthGrades** ") has developed this privacy policy (the " **Privacy Policy** ") for the benefit of the users (" **Users** " or " **you** ") of its web site, namely, BETTERMEDICINE.COM, to demonstrate our serious commitment to protecting privacy on this Site. The following information summarizes HealthGrades' personal data gathering and distribution practices for [http://www.bettermedicine.com](http://www.bettermedicine.com/ "BetterMedicine") (the " **Site** "). HealthGrades reserves the right to change this Privacy Policy, or any other policy or practice, at any time. Your use, or continued use, of this Site will be conclusively deemed acceptance of this Privacy Policy and any changes or modifications to this Privacy Policy, respectively. Please see HealthGrades' [User Agreement](http://www.healthgrades.com/consumer/index.cfm?fuseaction=modNW&modtype=content&modact=useragreement_full "User Agreement") for more information on the Terms and Conditions governing the use of this Site.
+Health Grades, Inc. (" **HealthGrades** ") has developed this privacy policy (the " **Privacy Policy** ") for the benefit of the users (" **Users** " or " **you** ") of its web site, namely, [http://www.bettermedicine.com](http://www.bettermedicine.com/ "BetterMedicine") (the " **Site** "), to demonstrate our serious commitment to protecting privacy on this Site. The following information summarizes HealthGrades' personal data gathering and distribution practices for the Site. HealthGrades reserves the right to change this Privacy Policy, or any other policy or practice, at any time. Your use, or continued use, of this Site will be conclusively deemed acceptance of this Privacy Policy and any changes or modifications to this Privacy Policy, respectively. Please see HealthGrades' [User Agreement](http://www.healthgrades.com/consumer/index.cfm?fuseaction=modNW&modtype=content&modact=useragreement_full "User Agreement") for more information on the Terms and Conditions governing the use of this Site.
 
 ###  Why does HealthGrades need my personal information?
 
@@ -74,7 +74,7 @@ HealthGrades has established guidelines on how it labels advertising so that you
 
 Advertisement. The word "Advertisement”" is used to label the most common form of advertising on the Site. The content of the banner or similar advertisement itself is controlled by the advertiser. Ads are labeled with the word “Advertisement” adjacent to the advertisement.
 
-If you click on an advertisement, it will usually link to a website that is operated by the advertiser. As noted above, HealthGrades has no control over the advertiser’s website or the policies on that site. You should familiarize yourself with the terms of use, privacy policies, and other policies applicable to those sites before using them.
+If you click on an advertisement, it will usually link to a web site that is operated by the advertiser. As noted above, HealthGrades has no control over the advertiser’s web site or the policies on that site. You should familiarize yourself with the terms of use, privacy policies, and other policies applicable to those sites before using them.
 
 The fact that an advertisement appears on a page has no bearing or influence on the editorial content on the page outside of the labeled advertisement itself. Other content on the page is under HealthGrades’ editorial control.
 
@@ -88,4 +88,6 @@ As an additional service to its users, HealthGrades has included in its Site var
 
 HealthGrades welcomes questions or comments Users may have regarding this Privacy Policy or the use of your personal data. Please send any questions or comments to HealthGrades at the following e-mail address, [info@healthgrades.com](mailto:info@healthgrades.com).
 
-Date Last Updated: July 15, 2011
+Find more information about the HealthGrades [Editorial Policy](http://www.bettermedicine.com/editorial-policy "BetterMedicine") and [Advertising Policy](http://www.bettermedicine.com/advertising-policy "Advertising Policy"). 
+
+Date Last Updated: March 22, 2012
