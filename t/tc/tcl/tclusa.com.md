@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tclusa.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101221202id_/http%3A//www.tclusa.com/en-US/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tclusa.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620175917id_/http%3A//www.tclusa.com/en-US/Privacy.html) for the most accurate reproduction.*
 
 # TCL USA - privacy
 
@@ -8,13 +8,13 @@
 
 ### Your _Privacy_ Is Important to us!
 
-We at **TCL** , value your trust and confidence. We believe that we earn your trust and confidence when we continue to bring you exceptional products or services for your home and do so in a very private and secure manner. We believe that trust and confidence is sustained as we honor that commitment to you, day in and day out. This privacy statement is applicable to the information we receive about you via [www.tclusa.com](http://tclusa.com/). We created this privacy statement to inform you of our commitment to you. 
+We at **TCL** , value your trust and confidence. We believe that we earn your trust and confidence when we continue to bring you exceptional products or services for your home and do so in a very private and secure manner. We believe that trust and confidence is sustained as we honor that commitment to you, day in and day out. This privacy statement is applicable to the information we receive about you via [www.tclusa.com](http://www.tclusa.com/). We created this privacy statement to inform you of our commitment to you. 
 
 ### Working to meet your needs through information
 
 IN THE COURSE OF DOING BUSINESS, WE COLLECT AND USE VARIOUS TYPES OF INFORMATION, SUCH AS INFORMATION AVAILABLE FROM PUBLIC RECORDS AND MARKET RESEARCH, AS WELL AS INFORMATION YOU PROVIDE TO US. WE USE THIS INFORMATION TO SERVE YOU AND TO HELP YOU LEARN MORE ABOUT HOME DIGITAL PRODUCTS. 
 
-We collect personally identifiable information from you, for example, when you purchase a product from [www.tclusa.com](http://tclusa.com/), when you register on our website, complete a survey, or when you request information from [www.tclusa.com](http://tclusa.com/). 
+We collect personally identifiable information from you, for example, when you purchase a product from [www.tclusa.com](http://www.tclusa.com/), when you register on our website, complete a survey, or when you request information from [www.tclusa.com](http://www.tclusa.com/). 
 
 The personal information we collect includes, for example, name, address preferences, credit card information to process purchases, email addresses, click stream and navigation data.
 
@@ -38,7 +38,7 @@ We limit who receives information and what type of information is shared. We sha
 
 Additionally, the information that is collected when people visit this site tells TCL, for example, the number of visits to the site, the average time spent on the site, the pages viewed by our visitors, and the purchases of our visitors. This information allows us to make modifications to the content and design of the web site to more effectively serve the interests of our visitors. TCL may provide aggregated and anonymized data of this nature to third parties. 
 
-The site also collects your IP address to help administer our Web site. Some [www.tclusa.com](http://tclusa.com/) pages use cookies so that we can beTCLr serve you when you use and return to our site. 
+The site also collects your IP address to help administer our Web site. Some [www.tclusa.com](http://www.tclusa.com/) pages use cookies so that we can beTCLr serve you when you use and return to our site. 
 
 ### OFFERING YOU CHOICES 
 
@@ -56,7 +56,7 @@ We believe that protecting the privacy of children is important. Our Web site is
 
 ### Other Sites 
 
-[www.tclusa.com](http://tclusa.com/) may contain links to other sites; however, we are not responsible for the content or the privacy practices employed by the other sites. We encourage you to read these other privacy statements. 
+[www.tclusa.com](http://www.tclusa.com/) may contain links to other sites; however, we are not responsible for the content or the privacy practices employed by the other sites. We encourage you to read these other privacy statements. 
 
 ### Effective Date 
 
@@ -64,6 +64,6 @@ This policy is effective September, 2002. We may make and post changes to this s
 
 ### Ask Us 
 
-If you have questions or comments about our privacy practices, you can contact us at: [www.tclusa.com](http://tclusa.com/). Your e-mail address will be added to the personally identifiable information we collect from you.
+If you have questions or comments about our privacy practices, you can contact us at: [www.tclusa.com](http://www.tclusa.com/). Your e-mail address will be added to the personally identifiable information we collect from you.
 
 * * *
