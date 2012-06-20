@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hidefwallpaper.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230200315id_/http%3A//hidefwallpaper.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidefwallpaper.org privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620042916id_/http%3A//hidefwallpaper.org/privacy) for the most accurate reproduction.*
 
 # Privacy policy | HiDefWallpaper.org
 
