@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curbly.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105024320id_/http%3A//www.curbly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curbly.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621011414id_/http%3A//www.curbly.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -23,11 +23,13 @@ This policy applies to all information collected on the Curbly Website and any i
 
 
 
+Our advertising partners may engage in the collection of non-personally identifiable information about you through the use of cookies and pixel tags.
+
+You can opt out of behavioral targeting through the opt-out link located at <http://www.networkadvertising.org/managing/opt_out.asp>
+
+We are participating in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising, with the provision an "Ad Choices" link on our site or within advertising units that link to <http://www.aboutads.info/choices/>. 
+
 The information you submit to Curbly may also include text, photographs, video, graphics, music and any other materials you might submit as part of, or in conjunction with, your use of the Curbly Website. 
-
-### Chatrooms, bulletin boards and product reviews 
-
-The Curbly Website may include chatrooms, bulletin boards, product reviews, or other message areas that allow users to post information to the Curbly Website. When you post messages, other site visitors can also view them. We urge you to exercise caution when providing personally identifiable financial or other information in the chatrooms, bulletin boards, product reviews or other message areas. Remember that any information you disclose in these areas becomes public information. 
 
 ### Our Collection of Your Data
 
@@ -38,6 +40,20 @@ In addition to the personal information you supply, we collect certain informati
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "Advertising and Privacy â€“ Google Privacy Center").
 
 
+
+### Affiliate Link Disclosure
+
+Curbly participates in an affiliate program with Amazon.com and SkimLinks.com. Links originating on Curbly sites that lead to product purchases through these vendors generate affiliate revenue for Curbly. 
+
+Learn more about SkimLinks affiliate links here: <http://skimlinks.com/privacy#visit>. You can disable the use of Skimlinks optimisation cookies. Visit this link to learn how: <http://skimlinks.com/privacy#personalizedlinks>. 
+
+### Sponsored Posts
+
+Curbly may accept and publish sponsored posts, which will be highlighted as sponsored content. While we may be compensated for creating this content, all opinions contained therein are ours alone.
+
+### Chatrooms, bulletin boards and product reviews 
+
+The Curbly Website may include chatrooms, bulletin boards, product reviews, or other message areas that allow users to post information to the Curbly Website. When you post messages, other site visitors can also view them. We urge you to exercise caution when providing personally identifiable financial or other information in the chatrooms, bulletin boards, product reviews or other message areas. Remember that any information you disclose in these areas becomes public information. 
 
 ### How we use information 
 
