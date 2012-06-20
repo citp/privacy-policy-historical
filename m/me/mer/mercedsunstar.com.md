@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercedsunstar.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231023429id_/http%3A//www.mercedsunstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedsunstar.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620082052id_/http%3A//www.mercedsunstar.com/privacy-policy) for the most accurate reproduction.*
 
 # MercedSun-Star.com Privacy policy
 
@@ -70,7 +70,7 @@ To describe our services to prospective partners, advertisers and others, we may
 
 MercedSun-Star.com is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of MercedSun-Star.com in order to access general MercedSun-Star.com content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below.
 
-MercedSun-Star.com, 3033 North G Street Merced CA 95340, or 721-722-1511, or [](mailto:)
+MercedSun-Star.com, 3033 North G Street Merced CA 95340, or 721-722-1511, or [webstaff@mercedsunstar.com](mailto:webstaff@mercedsunstar.com)
 
 ### Member mail and e-mail offers
 
@@ -104,6 +104,10 @@ You should know that when you voluntarily disclose personal information on the M
 
 In addition, our advertisers, content providers, partners and other Internet sites or services that may be accessible through MercedSun-Star.com have separate data and privacy practices that are independent of us, and we disclaim any responsibility or liability for their policies or actions. Please contact those sites directly if you have questions about their privacy policies.
 
+### Notice to California Residents - Your California Privacy Rights:
+
+If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom MercedSun-Star.com may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to [webstaff@mercedsunstar.com](mailto:webstaff@mercedsunstar.com).
+
 ### International users
 
 If you are an international user, by using MercedSun-Star.com or by registering for any of its services, you agree that MercedSun-Star.com may collect, use and transfer your personal information as described in this privacy policy, including transfers outside the country where you live. If you reside in a country in the European Union or other jurisdiction that provides access rights under law, you may access your personal information or have it corrected or updated by going to your account information page in the Member Center and personally updating the information in accordance with applicable law or by contacting us at the address or e-mail set forth below. In some jurisdictions, you may be charged a reasonable fee for access to information.
@@ -114,4 +118,4 @@ MercedSun-Star.com supports P3P, the Platform for Privacy Preferences, which all
 
 ### Contact Information
 
-If you have any questions or comments about our policies, we may be reached at MercedSun-Star.com, 3033 North G Street Merced CA 95340, at 721-722-1511 or at [](mailto:).
+If you have any questions or comments about our policies, we may be reached at MercedSun-Star.com, 3033 North G Street Merced CA 95340, at 721-722-1511 or at [webstaff@mercedsunstar.com](mailto:webstaff@mercedsunstar.com).
