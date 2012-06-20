@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2sms.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211093608id_/http%3A//www1.way2sms.com/content/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2sms.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620035739id_/http%3A//www.way2sms.com/content/privacypolicy.html) for the most accurate reproduction.*
 
 # Way2SMS - Privacy Policy
 
@@ -108,6 +108,30 @@ Way2SMS will send personally identifiable information about you to other compani
 
 
 We share your information with advertisers on an aggregate basis only.
+
+**Terms and Conditions for using the "Connect to Facebook and Facebook Chat" application:**
+
+Once you connect your facebook account on our website [www.way2sms.com](http://www.way2sms.com/), in addition to our privacy policy, the following terms shall specifically apply:
+
+  * You unequivocally agree that we shall have access to all your information which is defined and uploaded as 'basic account information' (including your date of birth) and 'public information' by Facebook under http:/[developers.facebook.com/policy/#definitions](http://developers.facebook.com/policy/#definitions).
+  * You authorize us to access your data/information (including 'basic account information' and 'public information') from [www.facebook.com](http://www.facebook.com/), even while you are not online on [www.way2sms.com](http://www.way2sms.com/).
+  * You authorize us to pull posts from your Facebook account.
+  * You authorize us to push posts to your Facebook account.
+  * We undertake not to transmit and/or transfer your 'data/information' to any other third party. In this regard we undertake to adhere to the policies as set out by Facebook under the caption "Storing and Using data you receive from us" on [www.facebook.com](http://www.facebook.com/).
+  * You agree that you will be bound to comply with all stipulations in this regard from time to time as set forth by us without needing any further notice of the same. The publication of any such conditions on the website shall constitute sufficient notice to you.
+
+
+
+**Further in addition to the above, by accepting the abovesaid terms you agree that:**
+
+  * We may collect your information, as required by us, including basic account information, public information, posts and other data related to you as found on [www.facebook.com](http://www.facebook.com/) (referred to as 'your information'), irrespective of your online status on [www.way2sms.com](http://www.way2sms.com/).
+  * We may store 'your information' as required by us on our website [www.way2sms.com](http://www.way2sms.com/)
+  * You authorize us to access 'your information' as available on Facebook for the purposes of enhancing our user experience on our website '[www.way2sms.com](http://www.way2sms.com/)'.
+  * You agree that besides the aforementioned privacy policy terms specifically in relation to "Connect with Facebook" application, all your data/information obtained from your facebook account shall be subject to our overall privacy policy as well.
+  * In relation to any queries/feedback regarding the "Connect to facebook" feature on our website, the users should contact at [support@way2sms.com](mailto:support@way2sms.com).
+  * In the event of any conflict between the privacy policy of [way2sms.com](http://way2sms.com/) and the privacy policy of [facebook.com](http://facebook.com/), the privacy policy of [way2sms.com](http://way2sms.com/) shall prevail.
+
+
 
 **Security**
 
