@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emsc-csem.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011444id_/http%3A//www.emsc-csem.org/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emsc-csem.org privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620063800id_/http%3A//www.emsc-csem.org/policy.php) for the most accurate reproduction.*
 
 # EMSC's Privacy Policy
 
