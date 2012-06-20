@@ -1,0 +1,402 @@
+<!--The following is the downloaded HTML source of the buyhatke.com privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620054807id_/http%3A//www.buyhatke.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+<title>Privacy Policies || Buyhatke.com </title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+</head><body onload="init()"><div id="fb-root"></div>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=132391863527860"></script><script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=132391863527860";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<link rel="stylesheet" type="text/css" href="styles/main.css">
+<script type="text/javascript" src="initAll.js">
+</script>
+<script>
+        function searchKeyPress(e)
+        {
+                // look for window.event in case event isn't passed in
+                if (window.event) { e = window.event; }
+                if (e.keyCode == 13)
+                {
+                        checkLogin();
+                }
+        }
+        </script>
+
+<script type="text/javascript" src="scripts/jquery.tools.min.js"></script>
+
+<script type="text/javascript">
+$('document').ready(function(){
+$('#log').focus(function(){
+ if($(this).val() == "Username"){
+    $(this).val("");
+	}
+ });
+ 
+ $('#log').blur(function(){
+ if($(this).val() == ""){
+    $(this).val("Username");
+	}
+ });
+ 
+ $('#pwd').focus(function(){
+ if($(this).val() == "Password"){
+    $(this).val("");
+	}
+ });
+
+ $('#pwd').blur(function(){
+ if($(this).val() == ""){
+    $(this).val("Password");
+	}
+ });
+ });
+</script>
+
+
+<!-- tooltip element -->
+<style>
+.myLOGO{
+z-index: 1000!important;
+}
+</style>
+
+
+
+
+<div class="main">
+
+<div id="coverAll">
+<div class="wrapper">
+    <div class="inner">
+<div class="bar_top logo" style="z-index:10000;width:273px;margin-left:-1px;">
+<a href="/"><img src="images/logo1.png" height="86" width="273"></a>
+</div>
+<div class="bar" style="float:right;margin-top:-95px;">
+<span style="color:#27a5c5;font-family:Century Gothic,Calibri;font-size:16px;">sign-in</span>
+<input type="text" name="log" id="log" value="Username"><span style="background-color:#27a5c5;color:white;padding:5px;padding-left:12px;padding-right:12px;border-radius:2px;font-family:Century Gothic,Calibri;font-size:13px;cursor:pointer;" onclick="checkLogin();return false;">Login</span></div>
+<div class="bar" style="float:right;margin-top:-65px;">
+<div class="fb-like" style="margin-right:-15px;" data-href="http://buyhatke.com/privacy.php" data-send="false" data-layout="button_count" data-width="0" data-show-faces="false"></div>
+<input type="password" name="pwd" id="pwd" value="Password" onkeypress="searchKeyPress(event);"><a href="registration/" style="cursor:pointer;background-color:#27a5c5;color:white;padding:5px;border-radius:2px;font-family:Century Gothic,Calibri;font-size:13px;">Register
+
+</a></div><a href="registration/" style="cursor:pointer;background-color:#27a5c5;color:white;padding:5px;border-radius:2px;font-family:Century Gothic,Calibri;font-size:13px;">
+<div class="bar" style="float:right;margin-top:-40px;">
+
+<label><input class="rememberme" name="rememberme" id="rememberme" type="checkbox" checked="checked" value="forever"> &nbsp;Remember me</label>
+</div>
+</a><div class="bar" style="float:right;margin-top:-22px;"><a href="registration/" style="cursor:pointer;background-color:#27a5c5;color:white;padding:5px;border-radius:2px;font-family:Century Gothic,Calibri;font-size:13px;">
+</a><a href="http://buyhatke.com/fb_login.php">
+					<img src="../login/fb_login.png"></a>
+</div>
+<div class="bar" id="status" style="float:right;margin-top:-4px;">
+Forgot Password ? <a style="color:#27a5c5" href="http://buyhatke.com/registration/forgotPass.php">Click Here</a>
+</div>
+<div id="myNav">
+<ul>
+<li><a href="index.php">Home</a></li>
+<li><a href="play/index.php">Live Auctions</a></li>
+<li><a href="http://compare.buyhatke.com">Compare Hatke</a></li>
+<li><a href="luckyWinner.php">Win Hatke</a></li>
+<li><a href="play/howITworks.php">How it works</a></li>
+<li><a href="FAQ.php" class="selectedNow">FAQs</a></li>
+</ul>
+</div>
+
+
+
+<!-- Right Banner Start -->
+
+
+<!-- Right Banner End -->
+			
+			  
+		
+        
+			<!-- FRONT BANNER END --><script type="text/javascript">
+function getXMLHTTPRequest() {
+try {
+req = new XMLHttpRequest();
+} catch(err1) {
+  try {
+  req = new ActiveXObject("Msxml2.XMLHTTP");
+  } catch (err2) {
+    try {
+    req = new ActiveXObject("Microsoft.XMLHTTP");
+    } catch (err3) {
+      req = false;
+    }
+  }
+}
+return req;
+}
+var http10 = getXMLHTTPRequest();
+function checkLogin(){
+   var id = document.getElementById('log').value;
+   var pwd = document.getElementById('pwd').value;
+   if(document.getElementById('rememberme').checked){
+     var flag = 1;
+     }
+     else {
+     var flag = 0;
+     }
+   var myurl = "login.php";
+ var myurl1 = myurl;
+  myRand = parseInt(Math.random()*999999999999999);
+  var modurl = myurl1+"?rand="+myRand+"&user="+id+"&pass="+pwd ;
+ if(flag==1){
+   modurl = modurl + "&rem=" + flag;
+   }
+  http10.open("GET", modurl, true);
+  http10.onreadystatechange = useHttpResponse22;
+  http10.send(null);
+  function useHttpResponse22() {
+   if (http10.readyState == 4) {
+    if(http10.status == 200) {
+      var mytext = http10.responseText;
+	  if(mytext!=1){
+	document.getElementById('status').innerHTML = mytext;
+	}
+	else {
+	window.location.reload();
+	}
+        }
+     }
+     else {
+         // don't do anything until any result is obtained
+        }
+    } 
+   }
+</script>
+
+
+
+
+
+
+    
+
+<!--
+<div id='updates' style='background-color:#27a5c5;max-width:700px;min-height:30px;font-family:Calibri;color:black;font-weight:bold;text-align:center;font-size:15px;'><center><b></b></center></div>
+<div id='heading'><center><a href='#'><img src='images/winners.png' border='0'></a></center></div>-->
+<div id="prod_div">
+Privacy
+</div>
+<style type="text/css">
+#prod_div{
+background-image: url('images/ribbon.png');
+background-repeat: no-repeat;
+min-height: 55px;
+width: 140px;
+font-family: calibri, verdana, georgia;
+font-size: 1.7em;
+font-weight: bold;
+color: white;
+padding-top: 9px;
+padding-left: 40px;
+margin-left: -33px;
+}
+
+#coverAll{
+background-color: white;
+padding: 0px;
+}
+#heading {
+margin-right: 20px;
+margin-top: -30px;
+float: right;
+
+}
+
+</style><link rel="stylesheet" href="styles/styles.css" type="text/css" media="all">
+<script type="text/javascript" src="scripts/mootools-yui-compressed.js"></script>
+<script type="text/javascript" src="scripts/win7.js"></script>
+<script type="text/javascript" src="scripts/jquery.min.js"></script>
+
+
+
+
+
+
+
+
+<div class="bar_footer wrap">
+
+   	
+	   <div class="block_3 floatl" id="acc_contents" style="min-width:850px;align:center;">
+        <h1 style="color:#5ec6d3">Privacy Policies</h1>
+		<!--<h3 style='color:red'>Opportunity to Partner or License Technology</h3> -->	
+		<h3 style="color:red">General</h3>
+		<p>You may use BuyHatke at any time without registering. When you visit our website, data is saved on our servers in
+
+an anonymous format, as is the website that you visit us from, the websites that you proceed to from our site, and
+
+your IP address. As this is being done, no personal data is associated with you. </p>
+<p>However, we do need some personal information from you so that you can actively participate in BuyHatke. We
+
+would therefore like to request that you agree to the collection and storage of some of your data. You can revoke your
+
+consent any time by cancelling your registration.</p>
+<p>Once you have registered for "My BuyHatke", you are asked to choose a BuyHatke user name together with a
+
+password, which then allows you to take advantage of all of the BuyHatke services.</p>
+	<h3 style="color:red">Data Collection</h3>
+		<p>Personal data is the information needed to identify you, for example your name, address, date of birth, e-mail
+
+address, mobile phone number, etc. With your consent, personal data are recorded and processed by BuyHatke, in
+
+particular:</p>
+<ul style="display:block;">
+<li>When you register with "My BuyHatke"</li><br>
+<li>When you buy bids</li><br>
+<li>When you win an auction</li><br>
+<li>We will only collect your account or credit card data if this is necessary in order to process payment.</li>
+</ul>
+		<p>Usage data are personal data that identify the user, as well as information on the BuyHatke services the user
+
+utilizes, for example your BuyHatke user name together with the associated password and your IP address when you
+
+purchase bids or win an auction. We collect these data only to make it possible for you to use BuyHatke. The data is
+
+stored only for as long as it is necessary to process bids you have bought and auctions you have won.</p>
+		
+		<h3 style="color:red">Use of the data</h3>
+		<p>Personal data such as name, address, etc. are used to process item shipment after an auction is won. We ask for
+
+your e-mail address so that we can stay in contact with you by e-mail. We need your account data or credit card data
+
+to process payment transactions you are involved with. We also use your personal data to communicate with you
+
+regarding orders, to process auctions, marketing retentions and to process other transactions. Similarly, we use your
+
+data in order to inform you of marketing promotions or to enable third parties authorized by us to perform technical,
+
+logistical, or other services. All data is stored securely on our servers.  </p>
+		
+		<h3 style="color:red">E-mail and SMS Newsletters</h3>
+		<p>When you register with BuyHatke, you agree to receive e-mail and SMS newsletters. We will use this method to
+
+inform you of new functions or special promotions on our website. You can at any time opt-out of these by changing
+
+your settings.  </p>
+
+		<h3 style="color:red">Forwarding Personal Data to Third Parties</h3>
+		<p>Your personal information may be passed on to third parties only if this is necessary to process a payment
+
+transaction or a business transaction with our partners. Essentially these are respectable businesses that strictly
+
+comply with applicable data protection regulations. BuyHatke will not release any personal information on you or
+
+forward this to third parties insofar as you have not given your express consent to do so, or unless we are required to
+
+do so by law.</p>
+<p>When you use BuyHatke and bid by mobile phone, you consent to have your phone number provided to Bidon private
+
+Limited by the phone company so that you can be notified in the case of an item being purchased at auction.</p>
+<p>
+In other situations, personal data will be passed on only to the extent that we are required to do so by law. For
+
+example, personal data is passed on to the law enforcement and regulatory authority.
+</p>
+		<h3 style="color:red">Providing Data within the Corporate Group</h3>
+		<p>BuyHatke assures you that should data be provided this way, security and confidentiality will be guaranteed with no
+
+change, and that the data will continue to be subject to the Data Protection Statement above.
+</p>
+	
+<h3 style="color:red">Viewing/Changing Personal Data</h3>
+		<p>You can view the information in your BuyHatke account at any time and update it as necessary using your BuyHatke
+
+user name and your BuyHatke password. Your mobile phone number for activating your account can only be
+
+changed by contacting our Customer Service.
+</p>
+<p>Once we are informed, we will adjust incorrect data accordingly.
+<br>
+We will notify you upon request at any time as to whether and what personal data in respect to your identity or your
+
+pseudonym has been stored.</p>
+
+<h3 style="color:red">Revoking Consent/Deleting Your Account</h3>
+		<p>You can revoke your consent to the storage and processing of your personal data here at any time, effective
+
+immediately.
+<br>
+You can delete or deactivate your BuyHatke account at any time. When you delete your membership, your personal
+
+data is removed from our database unless we are required to save the data. As a rule it takes two to three business
+
+days until your information is completely removed from all records.
+</p>
+
+<h3 style="color:red">The Use of Cookies at our Website</h3>
+		<p>BuyHatke uses so-called "cookies", which are files that are stored on your computer that can be retrieved to assist in
+
+customizing your experience with the online service. The information saved supports the functionality of the site, for
+
+example by keeping track of your visual preferences or controlling the frequency of "pop-up" windows. These cookies
+
+are deleted after one month. You are free to prevent cookies from being saved on your hard drive by adjusting the
+
+corresponding settings in your browser. It is not necessary to accept cookies in order to use our service. However, we
+
+would like to point out that turning off these settings may result in limited functionality.
+</p>
+
+
+<h3 style="color:red">Security Measures</h3>
+		<p>The information in your BuyHatke account and in your BuyHatke profile is password protected, so that only you have
+
+access to this personal information. Please note that you are not permitted to provide your password to anyone else.
+
+BuyHatke will never ask for your password in e-mails that you receive unexpectedly or that you did not request.
+
+Please remember to log out of your account and to close your internet browser window when you leave the BuyHatke
+
+site; this is especially important if you use a PC in public locations. At present, this is the safest way to ensure that no
+
+one has access to your personal information. We assume no liability for the abuse of login data and passwords used.
+</p>
+
+<h3 style="color:red">Protection from Web Crawlers or Spam</h3>
+		<p>BuyHatke assures you that we will use your e-mail address with your express consent only for the purposes stated in
+
+the Terms of Use. We will not sell your e-mail address to third parties, and we will prevent your e-mail address from
+
+being recorded by "web crawlers" or "web spiders" to the best of our ability. If you believe that your e-mail address
+
+has been recorded in this way, please let us know immediately.
+</p>
+
+<h3 style="color:red">Data Protection Guidelines Changes</h3>
+		<p>When there are changes to the Data Protection Guidelines, we will indicate this on the BuyHatke website.
+</p>
+<br><br>
+
+    </div>    
+
+    
+ 
+
+<div class="bar_bottom bar_yellow txtr">
+	<small class="ctl"></small>
+	<small class="ctr"></small>
+	<small class="cbl"></small>
+	<small class="cbr"></small>
+	
+    <p>
+    <a href="http://buyhatke.com/termsAndConditions.php">Terms &amp; Conditions</a> | <a href="bidding.php">Responsible Bidding</a> |  <a href="strategy.php">Bidding Strategies</a> |  
+    <a href="privacy.php">Privacy</a> | <a href="contactUS.php">Contact</a> | <a href="about.php">About Us</a> | <a href="partnership.php">Partnerships</a> | 
+    <a href="careers.php">Careers</a> | <a href="#">Media</a> | <a href="#">Site Map</a><br>© Bidon Services Private Limited. All rights reserved. 
+    </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<link rel="shortcut icon" href="images/favicon.ico"></div></body></html>
