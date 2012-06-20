@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tradesparq.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204050859id_/http%3A//www.tradesparq.com/user_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradesparq.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620172733id_/http%3A//www.tradesparq.com/public/html/cp/privacy) for the most accurate reproduction.*
 
-# TradeSparq.com - China suppliers, social commerce, manufacturers, made in china, importers, exporters, China trade, export network, import network, manufacturers network
+# Privacy Policy at Tradesparq
 
-Tradesparq is committed to privacy protection. By registering for our service, you accept the terms of this Privacy Policy. 
+### Tradesparq is committed to privacy protection. By registering for our service, you accept the terms of this Privacy Policy.
 
-##  By submitting personal information to Tradesparq, you expressly consent to the processing of your personal information according to this Privacy Policy. 
+By submitting personal information to Tradesparq, you expressly consent to the processing of your personal information according to this Privacy Policy. 
 
 ### 1.Notification of Changes
 
@@ -16,7 +16,7 @@ Tradesparq is not responsible for the privacy practices or the content of any ot
 
 ### 3.Information We Gather During Registration
 
-If you register to use Tradesparq we collect and store information that specifically identifies you or your account ("Personally Identifiable Information"). At this time, the most information you would be required to submit is information about whether you are a “buyer”, “seller”, or “service provider”, your name, password, and email address. Persons wishing to pay for banner advertisements or preferred search listings are also required to enter a valid credit card number and name as it appears on the credit card or other information such as bank routing and account numbers to facilitate ACH payments. We may, in the future, include other optional requests for information from you, to help us to tailor the site for you and deliver personalized information to you. We may supplement our information with additional information purchased from third parties for marketing purposes. Credit card information and any bank information will be transmitted via SSL encryption for your protection. 
+If you register to use Tradesparq we collect and store information that specifically identifies you or your account ("Personally Identifiable Information"). At this time, the most information you would be required to submit is information about whether you are a "buyer", "seller", or "service provider", your name, password, and email address. Persons wishing to pay for banner advertisements or preferred search listings are also required to enter a valid credit card number and name as it appears on the credit card or other information such as bank routing and account numbers to facilitate ACH payments. We may, in the future, include other optional requests for information from you, to help us to tailor the site for you and deliver personalized information to you. We may supplement our information with additional information purchased from third parties for marketing purposes. Credit card information and any bank information will be transmitted via SSL encryption for your protection. 
 
 ### 4.Tradesparq Profiles, Connections, Groups, Events, etc.
 
@@ -60,7 +60,7 @@ Tradesparq may enter into co-branding relationships with third-party web sites a
 
 ### 14.Third Party Intermediaries
 
-Tradesparq uses an outside credit card processing company to bill Users for Services. Tradesparq may also engage other third party intermediaries in order to provide our users with additional offerings and services. Tradesparq makes no representations on these third parties and their use of personal identifiable information. Please refer to the third party’s website and terms of service for their specific privacy policies. 
+Tradesparq uses an outside credit card processing company to bill Users for Services. Tradesparq may also engage other third party intermediaries in order to provide our users with additional offerings and services. Tradesparq makes no representations on these third parties and their use of personal identifiable information. Please refer to the third party's website and terms of service for their specific privacy policies. 
 
 ### 15.Comments Submitted by Users
 
@@ -84,4 +84,4 @@ Though we make every effort to preserve User privacy, we may need to disclose yo
 
 ### 20.Contacting Us
 
-If you have any questions about this Privacy Agreement or the practices of this website, you may contact service@tradesparq.com. 
+If you have any questions about this Privacy Agreement or the practices of this website, you may contact [service@tradesparq.com](mailto:service@tradesparq.com). 
