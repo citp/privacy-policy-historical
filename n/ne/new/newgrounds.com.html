@@ -1,459 +1,447 @@
-<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101223359id_/http%3A//www.newgrounds.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621014451id_/http%3A//www.newgrounds.com/wiki/help-information/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Newgrounds Wiki - Privacy Policy</title>
-	<link rel="stylesheet" href="http://css.ngfiles.com/ng_publish.css?1319207311" type="text/css" media="screen">
-	<link rel="stylesheet" href="http://css.ngfiles.com/iphone.css" type="text/css" media="only screen and (max-device-width: 480px)">
-	<link rel="stylesheet" href="http://css.ngfiles.com/print.css" type="text/css" media="print">
-	<!-- CSS -->
 
-	<script type="text/javascript" src="http://js.ngfiles.com/ng_publish.js?1319207310"></script>
-	<!-- JS -->
+	<meta http-equiv="X-UA-Compatible" content="IE=9">
 
+	
+							<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+		
+				<script type="text/javascript">
+		// <![CDATA[
+			if (!window.jQuery) {
+				document.write('<script src="http://js.ngfiles.com/jquery/jquery.js" type="text/javascript"><\/script>');
+			}
+		// ]]>
+		</script><script src="http://js.ngfiles.com/jquery/jquery.js" type="text/javascript"></script>
+
+	
+							<script type="text/javascript" src="http://js.ngfiles.com/ng_publish.js?1337011283"></script>
+			
+		
+		
+	
+	<script type="text/javascript" src="http://js.ngfiles.com/css_browser_selector.js"></script>
+
+		
+				<script type="text/javascript" src="http://www.ngads.com/checkabp.js?thisistotrickabp=http://server.cpmstar.com/view.aspx"></script>
+<script type="text/javascript">
+	// <![CDATA[
+		var $ng_adcode_ctime = 1340243091;
+		var $ng_adcode_country = 2;
+		var $ng_adcode_revsharing_id = null;
+		var $ng_adcode_page = "general";
+		var $ng_adcode_suitability = "E";
+	//]]>
+</script>
+<script type="text/javascript" src="http://ads.newgrounds.com/cache/ad_controller.js?rand=1338488345"></script>	
+						<link rel="stylesheet" href="http://css.ngfiles.com/ng_publish.css?1340118693" type="text/css" media="all">
+					<link rel="stylesheet" href="http://css.ngfiles.com/iphone.css?1328564601" type="text/css" media="only screen and (max-device-width: 480px)">
+					<link rel="stylesheet" href="http://css.ngfiles.com/print.css?1328564601" type="text/css" media="print">
+			
+	<!--[if lte IE 8]>
 	<script type="text/javascript">
 	// <![CDATA[
-		// ==================== Code for handling the AJAX login box ========================
-		// We're embedding this here, rather than in a .js, because we need to guarantee it's loaded just below
-
-		var u_cookie = 'NG_GG_username';
-		var pm_count_cookie_name = 'unread_PMs';
-		var unread_pm_count = null;
-		var page_is_dynamic = true;
-		var user_logged_in = false;
-
-		function ReturnCookie(this_name)
-		{
-			var parts = document.cookie.split(';');
-			var sub_parts;
-
-			for(var i=0; i<parts.length; i++) {
-				sub_parts = parts[i].split('=');
-
-				sub_parts[0] = sub_parts[0].replace(/\s/, '');
-
-				if(sub_parts[0] == this_name) {
-					return(unescape(sub_parts[1]));
-				}
-			}
-
-			// If we're here, we didn't find the cookie
-			return(null);
-		}
-
-		// Set cookies from JavaScript using this - swiped from http://www.dustindiaz.com/top-ten-javascript/
-		function SetCookie(name, value, expires)
-		{
-			if(typeof expires == 'undefined') {
-				expires = 0;
-			}
-
-			var today = new Date();
-			today.setTime(today.getTime());
-
-			if(expires) {
-				expires = expires * 1000 * 60 * 60 * 24;
-			}
-
-			var expires_date = new Date(today.getTime() + expires);
-
-			document.cookie = name + '=' + escape(value) + ((expires) ? ';expires='+expires_date.toGMTString() : '' ) + ';path=/;domain=.newgrounds.com';
-		}
-
-		function DivSwap(old_div_id, new_div_id)
-		{
-			var old_div = $(old_div_id);
-			var new_div = $(new_div_id);
-
-			if((old_div) && (new_div)) {
-				new_div.style.display = "block";
-				old_div.style.display = "none";
-			}
-		}
-
-		function IsSoftLoggedIn()
-		{
-			return((ReturnCookie(String.fromCharCode(118,109,107,49,100,117,53,108,56,109)) != null) || (ReturnCookie(String.fromCharCode(118,109,107,108,100,117,53,73,56,109)) != null));
-		}
-
-		function LoadLoginBox()
-		{
-			// Let's make sure the browser isn't preserving some weird state
-			if(!(typeof request_in_progress == 'undefined')) {
-				// This variable may not have been loaded yet, since it's coming from a .js file
-				request_in_progress = false;
-			}
-
-			// Always see if they've got a username cookie to put as a default value in the login box
-			var username = ReturnCookie(u_cookie);
-			if(username != null) {
-				$('lb_username').value = username;
-			}
-
-			// Also always check for a # of unread PMs, handed off from PHP
-			if(unread_pm_count != null) {
-				// Got a value, set it and store it in a cookie
-				SetUnreadPMCount(unread_pm_count);
-			} else {
-				// Didn't get a value.  See if we've got anything stored from before, in a cookie
-				var unread_pm_count_cookie = ReturnCookie(pm_count_cookie_name);
-
-				if((unread_pm_count_cookie != null) && (unread_pm_count_cookie > 0)) {
-					SetUnreadPMCount(unread_pm_count_cookie);
-				}
-			}
-
-			// Now swap in the appropriate box
-			if(!(IsSoftLoggedIn())) {
-				// They're not logged in, so show the login form
-				DivSwap('loginbox', 'loginbox_notloggedin');
-			} else {
-				// They are logged in, so show their account options
-				// Gotta do this here, so the username displays properly on page refreshes
-				SetLoggedInUsername(username);
-
-				DivSwap('loginbox', 'loginbox_loggedin');
-			}
-		}
-
-		function SetUnreadPMCount(value)
-		{
-			var new_count = '';
-			if(value > 0) {
-				new_count = ' (' + FormatNumber(value) + ')';
-			}
-
-			$('unread_pm_count_display').innerHTML = new_count;
-			SetCookie(pm_count_cookie_name, value);
-		}
-
-		function SetLoggedInUsername(name)
-		{
-			$('loginbox_username').innerHTML = '<a href="http://' + name.toLowerCase() + '.newgrounds.com/">' + name + '</a>';
-			$(username_fieldname).value = name;				// Also set the name in the login text field
-		}
-
-		/* disabled for now
-		document.observe('dom:loaded', function() {
-			new Ajax.Autocompleter('topsearch_terms', 'searchhint', '/ajax/searchsuggestion.php', {
-				onShow: function(e, u) {
-					$('topsuperbanner').style.visibility = 'hidden';
-					// Positioning is taken care of in CSS. Disregard the search element.
-					Effect.Appear(u,{duration:0.15});
-				},
-
-				onHide: function(e, u) {
-					$('topsuperbanner').style.visibility = 'visible';
-					new Effect.Fade(u,{duration:0.15});
-				},
-
-				minChars: 3,
-				frequency: 0.1,
-
-				callback: function(terms) {
-					return 'topsearch_terms=' + escape(terms.value) + '&topsearch_type=' + $F('topsearch_type');
-				}
-			});
-		});
-		*/
-
-		// assume ads are blocked until imported javascript tells us otherwise
+		PHP.set('is_ie', true);
 	// ]]>
 	</script>
-	<script type="text/javascript" src="http://www.ngads.com/checkabp.js?thisistotrickabp=http://server.cpmstar.com/view.aspx"></script>
+	<![endif]-->
 
-	<link rel="shortcut icon" type="image/png" href="http://img.ngfiles.com/favicon.ico">
-	<meta property="fb:page_id" content="54838269438">
-	<meta property="fb:app_id" content="201819236116">
+	<!--[if lte IE 9]>
+	<link rel="stylesheet" href="http://css.ngfiles.com/ie9.css?1328656560" type="text/css" media="screen" />
+	<![endif]-->
+
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" href="http://css.ngfiles.com/ie8.css?1337819134" type="text/css" media="screen" />
+	<![endif]-->
+
+	<!--[if lte IE 7]>
+	<link rel="stylesheet" href="http://css.ngfiles.com/ie7.css?1328564601" type="text/css" media="screen" />
+	<![endif]-->
+
+	<!--[if lte IE 6]>
+	<link rel="stylesheet" href="http://css.ngfiles.com/ie6.css?1328564601" type="text/css" media="screen" />
+	<![endif]-->
+
+	<style type="text/css">
+	  /* this way the menus work with or without the javascript working */
+		#header dl dd {
+			display: none;
+		}
+		#header dl:hover dd {
+			/*display: block; */
+		}
+	</style>
+
+		
+	<link rel="icon" type="image/png" href="http://www.newgrounds.com/img/icons/favicon.png">
+	<link rel="shortcut icon" href="http://www.newgrounds.com/favicon.ico" type="image/vnd.microsoft.icon">
+	<link rel="apple-touch-icon" href="http://img.ngfiles.com/misc/newgrounds_webclip.png">
 
 	<meta http-equiv="content-type" content="text/html; charset=windows-1252">
-	<meta name="viewport" content="width=780">
+	<meta name="viewport" content="width=976">
+
+		
+			<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-850825-1']);
+
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
 </head>
+
+
+
 
 <body>
 
-<div id="mainframe">
-	<div id="main">
-		<!-- SKINAD_OUTER -->
-		<div id="center">
-			<!-- SKINAD -->
-			<div id="banner">
-				<h1 class="ng"><a href="http://www.newgrounds.com/">Newgrounds.com — Everything, By Everyone.</a></h1>
+<div id="blackout" style="display: none">
+	<div id="blackout_bg"></div>
+	<div class="pagecentered" id="blackout_center">
+			</div>
+</div>
 
-				<div id="wholeloginbox" class="loginbox">
-					<div id="loginbox">
-						<strong class="status">Checking login status…</strong>
-					</div>
-					<div id="loginbox_notloggedin" class="hidecode">
-						<form method="post" action="http://www.newgrounds.com/account/" id="loginboxform" onsubmit="AttemptLogin();return(false);">
+<a href="#main" class="skipto">Skip to content.</a>
+<div id="outer">
+	<div id="header" class="header">
+		<div class="siteinfo">
 
-						<ul>
-							<li><a href="http://www.newgrounds.com/join">Not a member? SIGN UP!</a></li>
-							<li><input type="submit" class="hiddensubmit" value="s"><a href="http://www.newgrounds.com/join/forgot">Forgot login?</a></li>
-						</ul>
+			<h1><a href="http://www.newgrounds.com">Newgrounds.com — Everything, By Everyone.</a></h1>
 
-						<p>
-							<strong>USERNAME:</strong>
-							<input type="text" name="lb_username" id="lb_username" maxlength="20" class="inputfield formtext">
-						</p>
-						<p>
-							<strong>PASSWORD:</strong>
-							<input type="password" name="lb_userpass" id="lb_userpass" maxlength="10" class="inputfield formtext">
-						</p>
-
-						<div id="loginbox_button">
-							<p class="save">
-								<input type="checkbox" name="lb_remember" id="lb_remember" value="on">
-								<a class="textclick" href="javascript:HandleClick('lb_remember');">Save Info!</a>
-							</p>
-							<span class="btn"><a href="javascript:AttemptLogin();">Jack In!&nbsp;&gt;</a></span>
-						</div>
-						<div id="loginbox_animation_login" class="hidecode">
-							<p class="save"><strong class="status">Logging in…</strong></p>
-						</div>
-
-						</form>
-					</div>
-					<div id="loginbox_loggedin" class="logged hidecode">
-						<div id="loginbox_loggedin_msg">
-							<strong class="status">Logged in as:<br><span id="loginbox_username">.</span></strong>
-						</div>
-						<div id="loginbox_animation_logout" class="hidecode">
-							<strong class="status">Logging out…</strong>
-						</div>
-						<span class="btn"><a href="http://www.newgrounds.com/pm/">Inbox<em id="unread_pm_count_display"></em></a></span>
-						<span class="btn"><a href="http://www.newgrounds.com/account/">My Account</a></span>
-						<span class="btn"><a href="http://www.newgrounds.com/account/logout" onclick="AttemptLogout();return(false);">Log Out</a></span>
-					</div>
+			<div class="navigation">
+				<div class="navbar" id="header_nav">
+					<dl id="games">
+						<dt><a href="http://www.newgrounds.com/games">Games</a></dt>
+						<dd><a href="http://www.newgrounds.com/games/browse">Latest</a></dd>
+						<dd><a href="http://www.newgrounds.com/games/browse/sort/score/interval/month">Greatest</a></dd>
+						<dd><a href="http://www.newgrounds.com/games/browse/sort/views/interval/week">Popular</a></dd>
+						<dd><a href="http://www.newgrounds.com/games/under_judgment">Under Judgment</a></dd>
+						<dd><a href="http://www.newgrounds.com/portal">Classic Portal</a></dd>
+						<dd><a href="http://www.newgrounds.com/projects/games/submit"><em>Submit Yours!</em></a></dd>
+					</dl>
+					<dl id="movies">
+						<dt><a href="http://www.newgrounds.com/movies">Movies</a></dt>
+						<dd><a href="http://www.newgrounds.com/movies/browse">Latest</a></dd>
+						<dd><a href="http://www.newgrounds.com/movies/browse/sort/score/interval/month">Greatest</a></dd>
+						<dd><a href="http://www.newgrounds.com/movies/browse/sort/views/interval/week">Popular</a></dd>
+						<dd><a href="http://www.newgrounds.com/movies/under_judgment">Under Judgment</a></dd>
+						<dd><a href="http://www.newgrounds.com/portal">Classic Portal</a></dd>
+						<dd><a href="http://www.newgrounds.com/projects/movies/submit"><em>Submit Yours!</em></a></dd>
+					</dl>
+					<dl id="audio">
+						<dt><a href="http://www.newgrounds.com/audio">Audio</a></dt>
+						<dd><a href="http://www.newgrounds.com/audio/browse/sort/date">Latest</a></dd>
+						<dd><a href="http://www.newgrounds.com/audio/browse/sort/score/interval/month">Greatest</a></dd>
+						<dd><a href="http://www.newgrounds.com/audio/browse/sort/views/interval/week">Popular</a></dd>
+						<dd><a href="http://www.newgrounds.com/bbs/forum/13">Audio Forum</a></dd>
+						<dd><a href="http://www.newgrounds.com/projects/audio/submit"><em>Submit Yours!</em></a></dd>
+					</dl>
+					<dl id="art">
+						<dt><a href="http://www.newgrounds.com/art">Art</a></dt>
+						<dd><a href="http://www.newgrounds.com/art/browse">Latest</a></dd>
+						<dd><a href="http://www.newgrounds.com/art/browse/sort/score/interval/month">Greatest</a></dd>
+						<dd><a href="http://www.newgrounds.com/art/browse/sort/views/interval/week">Popular</a></dd>
+						<dd><a href="http://www.newgrounds.com/bbs/forum/14">Art Forum</a></dd>
+						<dd><a href="http://www.newgrounds.com/art/submit/create"><em>Submit Yours!</em></a></dd>
+					</dl>
+					<dl id="channels">
+						<dt><a href="http://www.newgrounds.com/collection">Channels</a></dt>
+						<dd><a href="http://www.newgrounds.com/collection/series">Series</a></dd>
+						<dd><a href="http://www.newgrounds.com/collection">Collections</a></dd>
+						<dd><a href="http://www.newgrounds.com/movies/under_judgment">Judgment</a></dd>
+					</dl>
+					<dl id="community">
+						<dt><a href="http://www.newgrounds.com/bbs">Community</a></dt>
+						<dd><a href="http://www.newgrounds.com/bbs">Forums</a></dd>
+						<dd><a href="http://chat.newgrounds.com">Chat</a></dd>
+						<dd><a href="http://www.newgrounds.com/calendar">Calendar</a></dd>
+						<dd><a href="http://www.newgrounds.com/news/artists">Artist News</a></dd>
+						<dd><a href="http://www.newgrounds.com/rankings">Rankings</a></dd>
+						<dd><a href="http://www.newgrounds.com/downloads">Downloads</a></dd>
+						<dd><a href="http://www.newgrounds.com/wiki">Wiki</a></dd>
+					</dl>
+					<dl id="shop">
+						<dt><a href="http://www.newgrounds.com/store">Shop</a></dt>
+						<dd><a href="http://www.newgrounds.com/store/category/apparel">T-Shirts</a></dd>
+						<dd><a href="http://www.newgrounds.com/store/category/collectible">Collectibles</a></dd>
+						<dd><a href="http://www.newgrounds.com/store/category/print">Print</a></dd>
+						<dd><a href="http://www.newgrounds.com/store/category/disc">Discs</a></dd>
+					</dl>
 				</div>
+			</div>
 
-				<form method="get" id="search" action="#" onsubmit="RunSearch('topsearch', 'portal');return(false);">
-					<input type="text" id="topsearch_terms" size="12" class="search inputfield formtext">
-					<select id="topsearch_type" class="formtext pulldown">
-						<option value="title">Title&nbsp;&nbsp;</option>
-						<option value="author">Author&nbsp;&nbsp;</option>
-					</select>
-					<span class="btn"><a href="#" onclick="RunSearch('topsearch', 'portal');return(false);">Search!</a></span>
+							<h6>
+					<a href="http://keepwalking.newgrounds.com">Wall Artist</a>				</h6>
+			
+		</div>
+
+
+		<div class="sitelinks">
+
+			
+				<form id="loginboxform" action="http://www.newgrounds.com/login" method="post" class="loginbox">
+					
+					<label id="header_label_username" for="username" style="display:none">Username</label>
+					<input type="text" maxlength="20" id="username" name="username" value="">
+
+					<label id="header_label_password" for="password" style="display:none">Password</label>
+					<input type="password" maxlength="32" id="password" name="password">
+
+					<input type="hidden" name="referrer" value="http://www.newgrounds.com/wiki/help-information/privacy-policy?path=/wiki/help-information/privacy-policy">
+					<div class="checkboxes">
+						<input type="checkbox" value="on" id="remember" name="remember">
+						<span><label for="remember">Save Info?</label></span>
+					</div>
+					<button type="submit">Log In</button>
+					<ul class="loginlinks">
+						<li><a href="http://www.newgrounds.com/join">Not a member? Sign Up!</a></li>
+						<li><a href="http://www.newgrounds.com/join/forgot">Forgot login?</a></li>
+					</ul>
+
 				</form>
-				<div class="linkcomplete" id="searchhint"></div>
-			</div>
-			<div id="nav-sub">
-				<dl>
-					<dd><a href="http://www.newgrounds.com/primer">About Newgrounds</a> |</dd>
-					<dd><a href="http://www.newgrounds.com/news/">Blogs</a> |</dd>
-					<dd><a href="http://www.newgrounds.com/portal/view/537101">Chat</a> |</dd>
-					<dd><a href="http://www.newgrounds.com/downloads/">Downloads</a> |</dd>
-					<dd><a href="http://www.newgrounds.com/lit/faq">Help / FAQ</a> |</dd>
-					<dd><a href="http://www.newgrounds.com/lit/">Lit</a> |</dd>
-					<dd><a href="http://www.newgrounds.com/mature/">Mature</a> |</dd>
-					<dd><a href="http://www.newgrounds.com/network/">Network</a> |</dd>
-					<dd><a href="http://www.newgrounds.com/rankings/">Rankings</a> |</dd>
-					<dd><a href="http://www.newgrounds.com/submit">Submit Content!</a></dd>
-				</dl>
-			</div>
+			
+			<form class="search" id="topsearch" action="http://www.newgrounds.com/search" method="get">
+				<input type="text" name="topsearch_text" id="topsearch_text">
+				<div class="select">
+					<div></div>
+					<span>Movies</span>
 
-			<div id="nav-main">
-				<dl>
-					<dd id="flashportal"><a href="http://www.newgrounds.com/portal/">Flash Portal</a></dd>
-					<dd id="audioportal"><a href="http://www.newgrounds.com/audio/">Audio Portal</a></dd>
-					<dd id="artportal"><a href="http://www.newgrounds.com/art/">Art Portal</a></dd>
-					<dd id="games"><a href="http://www.newgrounds.com/game/">Games</a></dd>
-					<dd id="movies"><a href="http://www.newgrounds.com/movies/">Movies</a></dd>
-					<dd id="collections"><a href="http://www.newgrounds.com/collection/">Collections</a></dd>
-					<dd id="series"><a href="http://www.newgrounds.com/collection/series">Series</a></dd>
-					<dd id="forums"><a href="http://www.newgrounds.com/bbs/">Forums</a></dd>
-					<dd id="store"><a href="http://www.newgrounds.com/store/">Store</a></dd>
-				</dl>
-			</div>
-			<br clear="left">
+										<select class="formtext" name="topsearch_type" id="topsearch_type">
+						<option value="16">Games</option>
+<option value="15" selected="selected">Movies</option>
+<option value="17">Audio</option>
+<option value="14">Art</option>
+<option value="4">Forums</option>					</select>
+				</div>
+				<button type="submit">Search</button>
+			</form>
 
 			<script type="text/javascript">
 			// <![CDATA[
-				LoadLoginBox();
+				PHP.set('search_urls', {"16":"\/portal\/search\/games","15":"\/portal\/search\/movies","17":"\/audio\/search\/title","14":"\/art\/search","4":"\/bbs\/search\/topic","9":"\/users\/search"});
 			// ]]>
 			</script>
 
-			<!-- USERBANNER -->
-
-			<div id="cont-out">
-				<div id="cont-mid">
-					<div id="cont">
-
-						<!-- NOAD -->
-						<div class="box adhead">
-							<div class="boxtop"><div></div></div>
-							<div class="boxl">
-								<div class="boxr">
-									<div class="boxm horzad">
-										<script type="text/javascript">
-// <![CDATA[ 
-addSwappableElement("<iframe src=\"http:\/\/ads.newgrounds.com\/ads.php?t=1&amp;s=et\" frameborder=\"0\" height=\"90\" width=\"728\" scrolling=\"no\" class=\"horzad\" id=\"topsuperbanner\"><\/iframe>", "wide", "bottomad");// ]]> 
-
-</script>
-									</div>
-								</div>
-							</div>
-							<div class="boxbot"><div></div></div>
-						</div>
-						<br clear="left">
-
-						<!-- End of the top header include -->
-<style type="text/css">
-	 .wikitext .boxsizer {
-	 	font-size:1.2em;
-	 }
-	 
-	 .wikitext h1{
-	 	clear:left;
-	 	postition:relative;
-	 	margin:0;
-	 	padding:0;
-	 	float:none;
-	 }
-	
-	 .wikitext h2 {
-	 	clear:left;
-	 	postition:relative;
-	 	margin:0;
-	 	padding:0;
-	 	float:none;
-	 }
-	 
-	 .wikitext h3 {
-	 	clear:left;
-	 	postition:relative;
-	 	margin:0;
-	 	padding:0;
-	 	float:none;
-	 }
-	 
-	 wikitext h4{
-	 	clear:left;
-	 	postition:relative;
-	 	margin:0;
-	 	padding:0;
-	 	float:none;
-	 }
-
-.wikitext ul {
-list-style-position: inside;
-list-style-type: disc;
-margin-bottom: 5px;
-}
-.wikitext ol {
-list-style-position: inside;
-}
-.wikitext ol li {
-margin-left: 20px;
-}
-.wikitext ul li {
-margin-left: 20px;
-}
-.wikitext .boxsizer > ul, .wikitext .boxsizer > ol {
-list-style-position: outside;
-}
-li.toc2 { margin-left: 5px; }
-li.toc3 { margin-left: 10px; }
-li.toc4 { margin-left: 15px; }
-
-</style>
-<!-- Starting CSS Layout 'onethird-twothirds' -->
-<div><div id="leftcol">
-<div class="box title">
-	<div class="boxtop"><div></div></div>
-	<div class="boxl">
-		<div class="boxr">
-			<div class="boxm">
-				<div class="headsizer">
-					<div class="heading">
-						<h2 class="i-arrow">Navigation</h2> 
-					</div>
-					
-																<div class="boxsizer dottedtall">
-							<h4>^ <a href="http://www.newgrounds.com/wiki">Wiki</a></h4>
-						</div>
-											<div class="boxsizer dottedtall">
-							<h4>^ <a href="http://www.newgrounds.com/wiki/help-information">Help &amp; Information</a></h4>
-						</div>
-					
-					<div class="boxsizer">
-						<ul>
-															<li>
-																												* <a href="http://www.newgrounds.com/wiki/help-information/content-submission">Content Submission</a>
-																		
-								</li>
-															<li>
-																												* <a href="http://www.newgrounds.com/wiki/help-information/dmca-notice">DMCA Notice</a>
-																		
-								</li>
-															<li>
-																												* <a href="http://www.newgrounds.com/wiki/help-information/forums">Forums</a>
-																		
-								</li>
-															<li>
-																												* <strong>Privacy Policy</strong>
-																		
-								</li>
-															<li>
-																												* <a href="http://www.newgrounds.com/wiki/help-information/private-messaging">Private Messaging</a>
-																		
-								</li>
-															<li>
-																												* <a href="http://www.newgrounds.com/wiki/help-information/site-moderation">Site Moderation</a>
-																		
-								</li>
-															<li>
-																												* <a href="http://www.newgrounds.com/wiki/help-information/store">Store</a>
-																		
-								</li>
-															<li>
-																												* <a href="http://www.newgrounds.com/wiki/help-information/terms-of-use">Terms of Use</a>
-																		
-								</li>
-															<li>
-																												* <a href="http://www.newgrounds.com/wiki/help-information/user-accounts">User Accounts</a>
-																		
-								</li>
-															<li>
-																												* <a href="http://www.newgrounds.com/wiki/help-information/web-browser-requirements">Web Browser Requirements</a>
-																		
-								</li>
-													</ul>
-						
-					</div>
-				</div>
-			</div>
 		</div>
 	</div>
-	<div class="boxbot"><div></div></div>
-</div></div><div id="rightcol">
-<div class="box title twothird">
-	<div class="boxtop"><div></div></div>
-	<div class="boxl">
-		<div class="boxr">
-			<div class="boxm">
-				<div class="headsizer">
-					<div class="heading">
-						<h2 class="i-arrow">Newgrounds Wiki<span class="gray">:</span> <span>Privacy Policy</span></h2>
-											</div>
-				</div>
 
-				<div class="bundle">
-					<ul class="bread">
-													<li><a href="http://www.newgrounds.com">NG Home</a></li>
-													<li><a href="http://www.newgrounds.com/wiki">Wiki</a></li>
-													<li><a href="http://www.newgrounds.com/wiki/help-information">Help &amp; Information</a></li>
-													<li>Privacy Policy</li>
-											</ul>
+			<div class="headerads">
+			<!-- include ads here -->
+			<script type="text/javascript">
+				$ng_adcode_config.drawUnit('top-superbanner','728x90');
+			</script>			<script type="text/javascript">
+			$ng_adcode_config.drawStoreAd(212,90,0);
+		</script>
+		</div>
+	
+	<div id="main">
+
+		
+		
+		
+<input type="hidden" name="userkey" id="userkey" value="df10e%O435df40e5e5b%34f5O5b46072549%P89263r42%%d07de4%7%0%119%3559sfdb70bb8O8c12r5735rs%197369%%sd%1%4cad05df9fcreP5e4a%afrPa63843er06e06eab28e914d426938429b15f15665%s%4d7P%%O%rr4010-3415673">
+
+<div class="thincol">
+	<div>
+		<div class="podtop">
+			<h2>Browse Sections</h2>
+		</div>
+
+		<div class="podcontent">
+			<div class="browse-wiki">
+				<a href="/wiki/about-newgrounds" class="about ">About Newgrounds<span></span></a>
+				<a href="/wiki/help-information" class="using expanded">Help &amp; Information<span></span></a>
+				<a href="/wiki/creator-resources" class="creator ">Creator Resources<span></span></a>
+			</div>
+							<hr>
+				<ul class="browse" id="wiki_tree">
+						<li class="collapsed">
+				<a href="/wiki/help-information/web-browser-requirements">Web Browser Requirements</a>
+									<a class="expand_list" href="/wiki/help-information/web-browser-requirements">[expand/collapse]</a>
+					<ul>
+						<li>
+				<a href="/wiki/help-information/web-browser-requirements/enabling-javascript">Enabling Javascript</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/web-browser-requirements/enabling-cookies">Enabling Cookies</a>
+							</li>
+			</ul>							</li>
+								<li class="collapsed">
+				<a href="/wiki/help-information/user-accounts">User Accounts</a>
+									<a class="expand_list" href="/wiki/help-information/user-accounts">[expand/collapse]</a>
+					<ul>
+						<li>
+				<a href="/wiki/help-information/user-accounts/batting-average">Batting Average</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/user-accounts/whistle-status">Whistle Status</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/user-accounts/experience-points">Experience Points</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/user-accounts/level">Level</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/user-accounts/voting-power">Voting Power</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/user-accounts/blams-and-saves">Blams and Saves</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/user-accounts/aura">Aura</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/user-accounts/experience-rank">Experience Rank</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/user-accounts/medals">Medals</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/user-accounts/high-scores">High Scores</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/user-accounts/rank">Rank</a>
+							</li>
+			</ul>							</li>
+								<li class="collapsed">
+				<a href="/wiki/help-information/content-submission">Content Submission</a>
+									<a class="expand_list" href="/wiki/help-information/content-submission">[expand/collapse]</a>
+					<ul>
+						<li>
+				<a href="/wiki/help-information/content-submission/tagging">Tagging</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/content-submission/games-and-movies">Games and Movies</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/content-submission/art">Art</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/content-submission/audio">Audio</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/content-submission/project-system">Project System</a>
+							</li>
+			</ul>							</li>
+								<li>
+				<a href="/wiki/help-information/site-moderation">Site Moderation</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/store">Store</a>
+							</li>
+								<li class="collapsed">
+				<a href="/wiki/help-information/forums">Forums</a>
+									<a class="expand_list" href="/wiki/help-information/forums">[expand/collapse]</a>
+					<ul>
+						<li class="collapsed">
+				<a href="/wiki/help-information/forums/forum-rules">Forum Rules</a>
+									<a class="expand_list" href="/wiki/help-information/forums/forum-rules">[expand/collapse]</a>
+					<ul>
+						<li>
+				<a href="/wiki/help-information/forums/forum-rules/art-forum-rules">Art Forum Rules</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/forums/forum-rules/audio-forum-rules">Audio Forum Rules</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/forums/forum-rules/programming-forum-rules">Programming Forum Rules</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/forums/forum-rules/collab-forum-rules">Collab Forum Rules</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/forums/forum-rules/clubs-and-crews-forum-rules">Clubs and Crews Forum Rules</a>
+							</li>
+			</ul>							</li>
+			</ul>							</li>
+								<li>
+				<a href="/wiki/help-information/private-messaging">Private Messaging</a>
+							</li>
+								<li class="collapsed">
+				<a href="/wiki/help-information/terms-of-use">Terms of Use</a>
+									<a class="expand_list" href="/wiki/help-information/terms-of-use">[expand/collapse]</a>
+					<ul>
+						<li>
+				<a href="/wiki/help-information/terms-of-use/newgrounds-api">Newgrounds API</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/terms-of-use/revenue-terms-and-conditions">Revenue Terms and Conditions</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/terms-of-use/review-guidelines">Review Guidelines</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/terms-of-use/game-and-movie-guidelines">Game and Movie Guidelines</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/terms-of-use/art-guidelines">Art Guidelines</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/terms-of-use/audio-guidelines">Audio Guidelines</a>
+							</li>
+			</ul>							</li>
+								<li>
+				<a>Privacy Policy</a>
+							</li>
+								<li>
+				<a class="unpublished" href="/wiki/help-information/content-browsing">Content Browsing</a>
+							</li>
+								<li>
+				<a href="/wiki/help-information/dmca-notice">DMCA Notice</a>
+							</li>
+											<li>
+				<a href="/wiki/help-information/rss">RSS</a>
+							</li>
+			</ul>					</div>
+		<div class="podbot"></div>
+	</div>
+
+	<script type="text/javascript">
+				$ng_adcode_config.drawUnit('left-rectangle','300x250');
+			</script>
+</div>
+
+<script type="text/javascript">
+	// <![CDATA[ */
+		jQuery(function($) {
+			$('a.expand_list').click(function () {
+				var my_li = $(this).closest('li');
+				if (my_li.hasClass('collapsed')) {
+					my_li.removeClass('collapsed');
+					my_li.addClass('expanded');
+				} else if (my_li.hasClass('expanded')) {
+					my_li.addClass('collapsed');
+					my_li.removeClass('expanded');
+				}
+
+				return false;
+			});
+		});
+	// ]]>
+</script>
+
+<a name="TOC"></a>
+<div class="fatcol">
+	<div class="wikitext">
+	<div class="podtop">
+		<h2 class="i-arrow">Newgrounds Wiki: Privacy Policy</h2>
+		<div>
 				</div>
+	</div>
+
+	<div class="podcontent">
 				
-				<div class="hr"><hr></div>
 				
-								<div id="editor_off" class="wikitext">
-				
-																
-						<div>
-							<div class="boxsizer">
 Newgrounds has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site, Newgrounds.com.<br><br>
 <strong>Information Automatically Logged</strong><br><br>
 We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you for online voting.<br><br>
@@ -494,165 +482,180 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 This site gives users the option of changing and modifying information previously provided. This may be done from the <a href="http://www.newgrounds.com/account/">account options page</a>.<br><br>
 <strong>Contacting the Web Site</strong><br><br>
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: tom @ newgrounds.com.
-</div>						</div>
-						
-															
-				</div>
-								
-								
-				
-							</div>
 
-		</div>
-	</div>
-	<div class="boxbot"><div></div></div>
-</div></div></div>
-						<!-- Beginning of the bottom footer include -->
-						<div class="box adfoot">
-							<div class="boxtop"><div></div></div>
-							<div class="boxl">
-								<div class="boxr">
-									<div class="boxm horzad">
-										<script type="text/javascript">
-// <![CDATA[ 
-addSwappableElement("<iframe src=\"http:\/\/www.newgrounds.com\/includes\/ad_bottom.php?id=2\" scrolling=\"no\" frameborder=\"0\" height=\"90\" width=\"728\" id=\"bottomsuperbanner\" class=\"horzad\"><\/iframe>", "wide", "bottomad");// ]]> 
-
-</script>
-									</div>
-								</div>
-							</div>
-							<div class="boxbot"><div></div></div>
-						</div>
-
-						
-
-						<!-- UP-HEADER:BEGIN -->
-
-						<br clear="all">
-						<div class="clearfix"></div>
 					</div>
-				</div>
+
+	<div class="podbot"></div>
+</div>
+
+	</div>
+
+		<br style="clear: both">
+	</div>
+
+	<div id="footer">
+
+	<div class="featuredcontent">
+		<div class="featurebar">
+	<dl>
+		<dt>Featured Content</dt>
+					<dd id="featgames" class="currentfeat">
+				<a href="http://www.newgrounds.com/wiki/help-information/privacy-policy?footer_feature=games">Games</a>
+			</dd>
+					<dd id="featmovies">
+				<a href="http://www.newgrounds.com/wiki/help-information/privacy-policy?footer_feature=movies">Movies</a>
+			</dd>
+					<dd id="feataudio">
+				<a href="http://www.newgrounds.com/wiki/help-information/privacy-policy?footer_feature=audio">Audio</a>
+			</dd>
+					<dd id="featart">
+				<a href="http://www.newgrounds.com/wiki/help-information/privacy-policy?footer_feature=art">Art</a>
+			</dd>
+					<dd id="featchannels">
+				<a href="http://www.newgrounds.com/wiki/help-information/privacy-policy?footer_feature=channels">Channels</a>
+			</dd>
+					<dd id="featusers">
+				<a href="http://www.newgrounds.com/wiki/help-information/privacy-policy?footer_feature=users">Users</a>
+			</dd>
+			</dl>
+</div>
+
+<div class="footerfeatures">
+
+			<a href="http://www.newgrounds.com/wiki/help-information/privacy-policy?footer_feature=users" class="fprev">
+			<span>Previous Section</span>
+		</a>
+	
+	<div id="content">
+					<div class="game">
+	<h4><a href="/portal/view/597198">Etna Color change</a></h4>
+	<a href="/portal/view/597198" class="rated-e">
+		<span></span>
+		<img src="http://picon.ngfiles.com/597000/flash_597198_medium.png" alt="Etna Color change" title="">	</a>
+	<p>Simple color changing game</p>
+	<span>
+		<span class="star-variable"><span style="width: 41%;">2.04 / 5.00</span></span>
+		1,976 Views
+	</span>
+</div>
+					<div class="game">
+	<h4><a href="/portal/view/597202">Run and Kill Or Die Pro</a></h4>
+	<a href="/portal/view/597202" class="rated-e">
+		<span></span>
+		<img src="http://picon.ngfiles.com/597000/flash_597202_medium.jpg" alt="Run and Kill Or Die Pro" title="">	</a>
+	<p>Disclaimer I did you the EXAMPLE BUT ADDED 20 MORE LEVELS!!!!!</p>
+	<span>
+		<span class="star-variable"><span style="width: 46%;">2.29 / 5.00</span></span>
+		3,299 Views
+	</span>
+</div>
+					<div class="game">
+	<h4><a href="/portal/view/597203">The Power</a></h4>
+	<a href="/portal/view/597203" class="rated-e">
+		<span></span>
+		<img src="http://picon.ngfiles.com/597000/flash_597203_medium.png" alt="The Power" title="">	</a>
+	<p>Platform Adventure game where you seek to know The Power</p>
+	<span>
+		<span class="star-variable"><span style="width: 71%;">3.56 / 5.00</span></span>
+		62,517 Views
+	</span>
+</div>
 			</div>
-		</div>
-	</div>
+
+			<a href="http://www.newgrounds.com/wiki/help-information/privacy-policy?footer_feature=movies" class="fnext">
+			<span>Next Section</span>
+		</a>
+	
 </div>
 
-<div id="foot">
-	<div id="originalfooterdiv">
-		<div class="box boxsizer">
-	<div class="featurefix">
-
-		<h4>Movies of the Week</h4>
-		
-				<div><a href="http://www.newgrounds.com/portal/view/581946" class="feature">
-			<img src="http://picon.ngfiles.com/581000/portal_581946.gif" alt="Nyan Caxx">
-			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">Nyan Caxx</span>We don't watch Nyan Cat at work anymore.			</span></span></span>
-		</a></div>
-				<div><a href="http://www.newgrounds.com/portal/view/582071" class="feature">
-			<img src="http://picon.ngfiles.com/582000/portal_582071.gif" alt="CS: GO Trailer">
-			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">CS: GO Trailer</span>COUNTER-STRIKE HAS NEVER BEEN THIS AWESOME!!!			</span></span></span>
-		</a></div>
-				<div><a href="http://www.newgrounds.com/portal/view/581989" class="feature">
-			<img src="http://picon.ngfiles.com/581000/portal_581989.gif" alt="I Like Trains">
-			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">I Like Trains</span>...do you?			</span></span></span>
-		</a></div>
-		
 	</div>
-		
-	<div class="featurefix">
 
-		<h4>Games of the Week</h4>
-		
-				<div><a href="http://www.newgrounds.com/portal/view/581901" class="feature">
-			<img src="http://picon.ngfiles.com/581000/portal_581901.gif" alt="Lab of the Dead">
-			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">Lab of the Dead</span>Experiment on zombies with weapons, food and objects as a scientist survivor.			</span></span></span>
-		</a></div>
-				<div><a href="http://www.newgrounds.com/portal/view/581884" class="feature">
-			<img src="http://picon.ngfiles.com/581000/portal_581884.gif" alt="Pirates of the Undead Sea">
-			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">Pirates of the Undead Sea</span>Point and click adventure about an undead pirate at the bottom of the sea.			</span></span></span>
-		</a></div>
-				<div><a href="http://www.newgrounds.com/portal/view/581874" class="feature">
-			<img src="http://picon.ngfiles.com/581000/portal_581874.gif" alt="Missilebreak Outvaders">
-			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">Missilebreak Outvaders</span>Defend your cities from alien invaders in this retro blend of three classic arcade games.			</span></span></span>
-		</a></div>
-				
-	</div>
-		
-	<div class="featurefix">
-
-		<h4>Today's Best</h4>
-		
-				<div><a href="http://www.newgrounds.com/portal/view/582847" class="feature">
-			<img src="http://picon.ngfiles.com/582000/portal_582847.gif" alt="SWEET GRIM">
-			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">SWEET GRIM</span>Watch out, kids! He would kill for a bunch of sweet candies...			</span></span></span>
-		</a></div>
-				<div><a href="http://www.newgrounds.com/portal/view/582834" class="feature">
-			<img src="http://picon.ngfiles.com/582000/portal_582834.gif" alt="Symphonic TD - Halloween">
-			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">Symphonic TD - Halloween</span>Conduct even harder against a spooky new set of music! Don't be scared!!			</span></span></span>
-		</a></div>
-				<div><a href="http://www.newgrounds.com/portal/view/582844" class="feature">
-			<img src="http://picon.ngfiles.com/582000/portal_582844.gif" alt="The Monster And The Poop">
-			<span class="fout"><span class="fmid"><span class="fin">
-				<span class="ftitle">The Monster And The Poop</span>An assigment featuring poop.			</span></span></span>
-		</a></div>
-		
-	</div>
-</div>		<span id="originalfooterspan">
-			<strong class="dotted yellow">© Copyright 1995-2011 Newgrounds, Inc. All Rights Reserved. <a href="http://www.newgrounds.com/privacy" class="yellow">Privacy Policy</a> | <a href="http://www.newgrounds.com/legal" class="yellow">Terms of Use</a></strong>
-			<strong class="dotted">newgrounds.com — Your #1 online entertainment community. All your base are belong to us.</strong>
-			<strong class="dotted yellow">
-				<a href="http://www.newgrounds.com/portal/">Flash Portal</a> |
-				<a href="http://www.newgrounds.com/audio/">Audio Portal</a> |
-				<a href="http://www.newgrounds.com/game/">Games</a> |
-				<a href="http://www.newgrounds.com/movies/">Movies</a> |
-				<a href="http://www.newgrounds.com/collection/">Collections</a> |
-				<a href="http://www.newgrounds.com/collection/series">Series</a> |
-				<a href="http://www.newgrounds.com/bbs/">Forums</a> |
-				<a href="http://www.newgrounds.com/store/">Store</a>
-			</strong>
-			<strong class="dotted orange">
-				<a href="http://www.newgrounds.com/primer">About Newgrounds</a> |
-				<a href="http://www.newgrounds.com/lit/faq">Help / FAQ</a> |
-				<a href="http://www.newgrounds.com/news/">Blogs</a> |
-				<a href="http://www.newgrounds.com/chat/">Chat</a> |
-				<a href="http://www.newgrounds.com/lit/">Literature</a> |
-				<a href="http://www.newgrounds.com/mature/">Mature</a> |
-				<a href="http://www.newgrounds.com/rankings/">Rankings</a> |
-				<a href="http://www.newgrounds.com/network/">Network</a> |
-				<a href="http://www.newgrounds.com/downloads/">NG Arsenal</a>
-			</strong>
-			<strong class="dotted red">
-				<a href="http://www.newgrounds.com/staff">The Staff</a> |
-				<a href="http://www.newgrounds.com/ngmag/">NG Mag</a> |
-				<a href="http://www.newgrounds.com/link">Link to Us!</a> |
-				<a href="http://www.newgrounds.com/submit">Submit Content!</a> |
-				<a href="http://www.newgrounds.com/feeds/rss/">RSS</a>
-			</strong>
-		</span>
-	</div>
-</div>
-
-	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 	<script type="text/javascript">
 	// <![CDATA[
-		_uacct = "UA-850825-1";
-		urchinTracker();
+		PHP.set('feature_url', "\/ajax\/footer_feature.php");
+
+		(function () {
+			var featuredcontent = jQuery('#footer div.featuredcontent');
+			featuredcontent.delegate('div.featurebar a, a.fprev, a.fnext', 'click', function (e) {
+				featuredcontent.load(
+					PHP.get('feature_url'),
+					this.href.split('?')[1]
+				);
+				e.preventDefault();
+			});
+		})();
+
 	// ]]>
 	</script>
 
+		<div class="footerads">
+							<script type="text/javascript">
+			$ng_adcode_config.drawStoreAd(212,90,0);
+		</script>				<script type="text/javascript">
+				$ng_adcode_config.drawUnit('bottom-superbanner','728x90');
+			</script>					</div>
+
+		<div class="siteinfo">
+			<div class="copyright">
+				<p><strong>© Copyright 1995-2012 Newgrounds, Inc. All rights reserved. <a href="/wiki/help-information/privacy-policy">Privacy Policy</a> | <a href="/wiki/help-information/terms-of-use">Terms of Use</a></strong></p>
+				<p>newgrounds.com — Your #1 online entertainment &amp; artist community! All your base are belong to us.</p>
+			</div>
+
+			<div class="navigation">
+				<dl>
+					<dt>Main Sections</dt>
+					<dd><a href="/games"><span>Games</span></a></dd>
+					<dd><a href="/movies"><span>Movies</span></a></dd>
+					<dd><a href="/art"><span>Art</span></a></dd>
+					<dd><a href="/audio"><span>Audio</span></a></dd>
+					<dd><a href="/store"><span>Store</span></a></dd>
+				</dl>
+				<dl>
+					<dt>Extra, Extra!</dt>
+					<dd><a href="/collection/series"><span>Series</span></a></dd>
+					<dd><a href="/collection"><span>Collections</span></a></dd>
+					<dd><a href="/games/under_judgment"><span>Game Judging</span></a></dd>
+					<dd><a href="/movies/under_judgment"><span>Movie Judging</span></a></dd>
+					<dd><a href="/portal"><span>Classic Portal</span></a></dd>
+					<dd><a href="/downloads"><span>Downloads</span></a></dd>
+					<dd><a href="/wiki/creator-resources"><span>Creator Resources</span></a></dd>
+				</dl>
+				<dl>
+					<dt>Community</dt>
+					<dd><a href="/bbs"><span>Forums</span></a></dd>
+					<dd><a href="/calendar"><span>Calendar</span></a></dd>
+					<dd><a href="/news/artists"><span>Artist News</span></a></dd>
+					<dd><a href="/rankings"><span>Rankings</span></a></dd>
+					<dd><a href="/wiki"><span>NG Wiki</span></a></dd>
+				</dl>
+				<dl>
+					<dt>NG Related</dt>
+					<dd><a href="/wiki/about-newgrounds"><span>About NG</span></a></dd>
+					<dd><a href="/wiki/help-information"><span>Site Help</span></a></dd>
+					<dd><a href="/wiki/about-newgrounds/staff"><span>The Staff</span></a></dd>
+					<dd><a href="/wiki/about-newgrounds/history"><span>NG History</span></a></dd>
+					<dd><a href="/wiki/help-information/rss"><span>RSS</span></a></dd>
+				</dl>
+			</div>
+
+		</div>
+
+	</div>
+
+
+
+</div>
+
+
 <script type="text/javascript">
 	// <![CDATA[
-		fillSwappableElements();
+		//fillSwappableElements();
+		$ng_adcode_config = null; // free memory
 	// ]]>
 </script>
+
+
+
 
 
 </body></html>
