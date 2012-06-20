@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mauijim.com privacy policy that was archived on 2011-10-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111001023313id_/http%3A//www.mauijim.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mauijim.com privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620173613id_/http%3A//www.mauijim.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy</title>
@@ -50,6 +50,8 @@
 <script type="text/javascript" src="http://www.mauijim.com/js/lib/ds-sleight.js"></script>
 <script type="text/javascript" src="http://www.mauijim.com/skin/frontend/enterprise/mauijim_v2/js/iehover-fix.js"></script>
 <![endif]-->
+<!--<link rel="stylesheet" type="text/css" href="
+            " media="all" />-->
 
 <script type="text/javascript">
 //<![CDATA[
@@ -71,7 +73,7 @@ optionalZipCountries = [];
 </script>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
 <body class=" cms-page-view cms-privacy-policy">
-
+    
 <!-- BEGIN GOOGLE ANALYTICS CODE -->
 <script type="text/javascript">
 //<![CDATA[
@@ -87,97 +89,47 @@ optionalZipCountries = [];
 //]]>
 </script>
 <!-- END GOOGLE ANALYTICS CODE -->
-        <input type="hidden" id="my_locale" value="en_US">
-<div class="wrapper">
-	<script type="text/javascript">
-
-if(!Mage.Cookies.get('background_id')){
-	//Mage.Cookies.set('background_id', rand(1, 3));
-	var date_new = new Date().getTime() + 86400000;
-	document.cookie = 'background_id' + "=" + rand(1, 5) + ("; expires=" + new Date( date_new ));
-
-    Mage.Cookies.expires = new Date( date_new );
-	Mage.Cookies.set('carusel_start', 1);
-}
-/*document.observe("dom:loaded", function() {
-	$('hp-1-fon').hide();
-	$('hp-2-fon').hide();
-	$('hp-3-fon').hide();
-	
-	if(Mage.Cookies.get('background_id')==1){
-		$('hp-1-fon').show();
-	}
-	else if(Mage.Cookies.get('background_id')==2){
-		$('hp-2-fon').show();
-	}
-	else if(Mage.Cookies.get('background_id')==3){
-		$('hp-3-fon').show();
-	}
-	else{
-		$('hp-1-fon').show();
-	}
-	
-});
-*/
-</script>
-
-<div id="bigImage-fon" style="position:fixed; width:100%; min-width:600px; height:100%; top:0; left:0; z-index:-1; background:;">
-	<img id="hp-1-fon" style="width:100%; display:none;" src="http://www.mauijim.com/skin/frontend/enterprise/mauijim_v2/images/hp/bg1.jpg">
-	<img id="hp-2-fon" style="width:100%; display:none;" src="http://www.mauijim.com/skin/frontend/enterprise/mauijim_v2/images/hp/bg2.jpg">
-	<img id="hp-3-fon" style="width:100%; display:none;" src="http://www.mauijim.com/skin/frontend/enterprise/mauijim_v2/images/hp/bg3.jpg">
-	<img id="hp-4-fon" style="width:100%; display:none;" src="http://www.mauijim.com/skin/frontend/enterprise/mauijim_v2/images/hp/bg4.jpg">
-	<img id="hp-5-fon" style="width:100%; display:none;" src="http://www.mauijim.com/skin/frontend/enterprise/mauijim_v2/images/hp/bg5.jpg">
-</div>
-<script language="JavaScript">
-    var i = 0;
-    jQuery.noConflict();
-    jQuery(document).ready(function() {
-	jQuery('#nav li a[href=http://www.mauijim.com/let-us-help.html]').children('span').css({cursor:'default'});
-	jQuery('.breadcrumbs ul li a[href=http://www.mauijim.com/let-us-help.html]').css({textDecoration:'none'});
-	jQuery('#nav li a[href=http://www.mauijim.com/let-us-help.html], .breadcrumbs ul li a[href=http://www.mauijim.com/let-us-help.html]').removeAttr('href');
-	jQuery('.sitemap li a[href=http://www.mauijim.com/let-us-help.html]').css({cursor:'default'}).removeAttr('href');
-	if (typeof(use_background)!='undefined' && use_background){
-            jQuery('#hp-1-fon').hide();
-            jQuery('#hp-2-fon').hide();
-            jQuery('#hp-3-fon').hide();
-            jQuery('#hp-4-fon').hide();
-			jQuery('#hp-5-fon').show();
-            jQuery('#colMain').css({padding:'0 28px 14px', margin:'-26px 0 0'});
-			jQuery('#myDiv').css({background:'none', margin: '0 auto 26px'});
-			jQuery('.main-col-crn').css({background:'none'});
-
-        }
-    });
+            <input type="hidden" id="my_locale" value="en_US">
+    <div class="wrapper">
+        <script type="text/javascript">
+    var num_images = 6;
+    var background_id = 1;
+    
+    if(!Mage.Cookies.get('background_id')){
+        var date_new = new Date().getTime() + 86400000;
+        background_id = rand(1, num_images);
+        document.cookie = 'background_id' + "=" + background_id + ("; expires=" + new Date( date_new ));
+        Mage.Cookies.expires = new Date( date_new );
+    }else{
+        background_id = Mage.Cookies.get('background_id');
+    }
+    
     function ShowBackground()
     {
-        $('hp-1-fon').hide();
-        $('hp-2-fon').hide();
-        $('hp-3-fon').hide();
-		$('hp-4-fon').hide();
-		$('hp-5-fon').hide();
-        
-        if(Mage.Cookies.get('background_id')==1){
-            $('hp-1-fon').show();
-        }
-        else if(Mage.Cookies.get('background_id')==2){
-            $('hp-2-fon').show();
-        }
-        else if(Mage.Cookies.get('background_id')==3){
-            $('hp-3-fon').show();
-        }
-		else if(Mage.Cookies.get('background_id')==4){
-            $('hp-4-fon').show();
-        }
-		else if(Mage.Cookies.get('background_id')==5){
-            $('hp-5-fon').show();
-        }
-        else{
-            $('hp-1-fon').show();
-        }
-    }
-    ShowBackground();
+        $('hp-fon').src='http://www.mauijim.com/skin/frontend/enterprise/brilliance/images/bkg/bkg' + background_id+ '.jpg';
+    }    
 </script>
-        <noscript>
+
+<div id="bigImage-fon" style="position:fixed; width:100%; min-width:600px; height:100%; top:0; left:0; z-index:-1; background:#000000;">
+    <img id="hp-fon" style="width:100%;" src="http://www.mauijim.com/skin/frontend/enterprise/brilliance/images/bkg/bkg0.png">
+</div>
+<script language="JavaScript">
+	var letusUrl='http://www.mauijim.com/let-us-help.html';	
+    jQuery.noConflict();
+    jQuery(document).ready(function() {
+	jQuery('#nav li a[href="' + letusUrl + '"]').children('span').css({cursor:'default'});
+	jQuery('.breadcrumbs ul li a[href="' + letusUrl + '"]').css({textDecoration:'none'});
+	jQuery('#nav li a[href="' + letusUrl + '"], .breadcrumbs ul li a[href="' + letusUrl + '"]').removeAttr('href');
+	jQuery('.sitemap li a[href="' + letusUrl + '"]').css({cursor:'default'}).removeAttr('href');
+	if (typeof(use_background)!='undefined' && use_background){
+            jQuery('#colMain').css({padding:'0 28px 14px', margin:'-26px 0 0'});
+            jQuery('#myDiv').css({background:'none', margin: '0 auto 26px'});
+            jQuery('.main-col-crn').css({background:'none'});
+        }
+    });
+
+    ShowBackground();
+</script>            <noscript>
         <div class="noscript">
             <div class="noscript-inner">
                 <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
@@ -185,9 +137,8 @@ if(!Mage.Cookies.get('background_id')){
             </div>
         </div>
     </noscript>
-    <div class="page">
-		
-		
+        <div class="page">
+            
 
 <div class="header-container">
     <div class="header">
@@ -271,20 +222,20 @@ if(!Mage.Cookies.get('background_id')){
 </form>
 </div>
 		<div class="tel_header">
-		<p>1-888-666-5905</p>		</div>
+		<p>1 888 628-4546</p>		</div>
 		
 		<div class="switches">        <div id="captiontoswitcher">
             <div style="" class="current change-language language-en" onclick="javascript: if(getElementById('popupswitcher').style.display=='block') { getElementById('popupswitcher').style.display='none'; getElementById('changelable').style.color='#cccccc'; } else {getElementById('popupswitcher').style.display='block';getElementById('changelable').style.color='#ff9933'; }">
-                English: 
-			    <span id="changelable" onmouseover="lang2array();">Change</span>
+				United States, English: 
+				<span id="changelable" onmouseover="lang2array();">Change</span>
             </div>
 
 <script type="text/javascript">  
 var arrayStored = false;
 var arr = new Object();
 
-/* Extra 65 lines of JS code just to make it work in FF an IE */
-/* Hope they'll burn in hell */
+/* JS code to make it work in FF and IE */
+
 
 function toObj (obj) {
     row = new Object();
@@ -305,12 +256,14 @@ function getOpt (id) {
     dummy = document.createElement("option");
     dummy.innerHTML = 'select...';
     element.appendChild(dummy);
-    for (i = 0; i < window.arr[id].length; i++) {
-        oOption = document.createElement("option");
-	    oOption.value = window.arr[id][i]["value"];
-	    oOption.innerHTML = window.arr[id][i]["text"];
-	    element.appendChild(oOption);
-    };
+    if (window.arr[id] != undefined) {
+	    for (i = 0; i < window.arr[id].length; i++) {
+	        oOption = document.createElement("option");
+		    oOption.value = window.arr[id][i]["value"];
+		    oOption.innerHTML = window.arr[id][i]["text"];
+		    element.appendChild(oOption);
+	    };
+    }
 }
 
 function lang2array () {
@@ -389,7 +342,7 @@ function gogogo()
         <div class="switcher-store">
             <div class="forlabel"><label>Select Your Country</label></div>
             <select id="select-store" onchange="storeselect(this.value);">
-            <option class="current" value="2"><!--R3 YXP <strong>-->United States<!--/strong--></option><option value="25" style="display:block;">Australia</option><option value="26" style="display:block;">New Zealand</option><option value="24" style="display:block;">Canada</option><option value="17" style="display:block;">Belgium</option><option value="16" style="display:block;">France</option><option value="11" style="display:block;">Germany</option><option value="21" style="display:block;">Greece</option><option value="20" style="display:block;">Italy</option><option value="19" style="display:block;">Portugal</option><option value="18" style="display:block;">Spain</option><option value="7" style="display:block;">Ireland</option><option value="6" style="display:block;">United Kingdom</option>            </select>
+            <option class="current" value="2"><!--R3 YXP <strong>-->United States<!--/strong--></option><option value="25" style="display:block;">Australia</option><option value="26" style="display:block;">New Zealand</option><option value="24" style="display:block;">Canada</option><option value="22" style="display:block;">All Middle East</option><option value="16" style="display:block;">France</option><option value="11" style="display:block;">Germany</option><option value="49" style="display:block;">Hong Kong</option><option value="29" style="display:block;">India</option><option value="20" style="display:block;">Italy</option><option value="27" style="display:block;">Mexico</option><option value="18" style="display:block;">Spain</option><option value="30" style="display:block;">Finland</option><option value="7" style="display:block;">Ireland</option><option value="6" style="display:block;">United Kingdom</option>            </select>
         </div>
         
     </td>
@@ -398,9 +351,7 @@ function gogogo()
     <td class="switchtablerow3">
             <div class="switcher-store">
 		    <div class="forlabel"><label>Select your language</label></div>
-            <select id="lengselector" onchange="specleng(this.value);">
-            <option>select...</option>
-            <option id="group25" value="32" style="display:none;">English-British</option><option id="group26" value="33" style="display:none;">English-British</option><option id="group24" value="30" style="display:none;">English</option><option id="group17" value="22" style="display:none;">Dutch</option><option id="group16" value="20" style="display:none;">French</option><option id="group11" value="13" style="display:none;">German</option><option id="group21" value="26" style="display:none;">Greek</option><option id="group20" value="25" style="display:none;">Italian</option><option id="group19" value="24" style="display:none;">Portugues</option><option id="group18" value="23" style="display:none;">Spanish-Castellano</option><option id="group7" value="9" style="display:none;">English-British</option><option id="group6" value="8" style="display:none;">English-British</option>            </select>
+            <select id="lengselector" onchange="specleng(this.value);"><option>select...</option></select>
 	    </div>
     </td>
 </tr>
@@ -414,12 +365,16 @@ function gogogo()
 <div class="bottom-fon"></div>
 
 <input id="nessesssw" type="hidden" value="0">
-<input id="resulturl" type="hidden">
-<input id="stepcreate" type="hidden" value="">
-<input type="hidden" id="currentlengstore" value="en"><input type="hidden" value="australia" id="webgroup25" name="Australia"><input type="hidden" value="australia_english_british" id="leng32"><input type="hidden" value="en3" id="leng54"><input type="hidden" value="australia" id="webgroup26" name="New Zealand"><input type="hidden" value="new_zeland_english_british" id="leng33"><input type="hidden" value="canada" id="webgroup24" name="Canada"><input type="hidden" value="canada_english" id="leng30"><input type="hidden" value="canada_french" id="leng31"><input type="hidden" value="dubai" id="webgroup22" name="All Middle East"><input type="hidden" value="arabic" id="leng27"><input type="hidden" value="english_us" id="leng28"><input type="hidden" value="france" id="webgroup17" name="Belgium"><input type="hidden" value="belgium_dutch" id="leng22"><input type="hidden" value="belgium_french" id="leng21"><input type="hidden" value="france" id="webgroup16" name="France"><input type="hidden" value="french" id="leng20"><input type="hidden" value="france_1" id="webgroup41" name=""><input type="hidden" value="belgium_dutch_1" id="leng48"><input type="hidden" value="belgium_french_1" id="leng49"><input type="hidden" value="france_1" id="webgroup42" name=""><input type="hidden" value="french_1" id="leng50"><input type="hidden" value="germany" id="webgroup13" name="Austria"><input type="hidden" value="austria_german" id="leng18"><input type="hidden" value="germany" id="webgroup11" name="Germany"><input type="hidden" value="german" id="leng13"><input type="hidden" value="germany" id="webgroup12" name="Netherlands"><input type="hidden" value="dutch" id="leng14"><input type="hidden" value="germany" id="webgroup15" name="Poland"><input type="hidden" value="polish" id="leng19"><input type="hidden" value="germany" id="webgroup14" name="Switzerland"><input type="hidden" value="switzerland_french" id="leng16"><input type="hidden" value="switzerland_german" id="leng15"><input type="hidden" value="switzerland_italian" id="leng17"><input type="hidden" value="india" id="webgroup29" name="India"><input type="hidden" value="india_en_british" id="leng36"><input type="hidden" value="italy" id="webgroup21" name="Greece"><input type="hidden" value="greek" id="leng26"><input type="hidden" value="italy" id="webgroup20" name="Italy"><input type="hidden" value="italian" id="leng25"><input type="hidden" value="base" id="webgroup1" name="Main Website Store"><input type="hidden" value="default" id="leng1"><input type="hidden" value="mexico" id="webgroup28" name="Dominican Republic"><input type="hidden" value="dominican_spanish" id="leng34"><input type="hidden" value="mexico" id="webgroup27" name="Mexico"><input type="hidden" value="mexico_spanish" id="leng35"><input type="hidden" value="promo" id="webgroup45" name="Budwieser"><input type="hidden" value="en2" id="leng53"><input type="hidden" value="promo" id="webgroup46" name="Generic"><input type="hidden" value="en4" id="leng55"><input type="hidden" value="promo" id="webgroup43" name="NAPA"><input type="hidden" value="en1" id="leng51"><input type="hidden" value="promo" id="webgroup44" name="No Promotion"><input type="hidden" value="no_promotion" id="leng52"><input type="hidden" value="promo" id="webgroup47" name="starwood"><input type="hidden" value="en5" id="leng56"><input type="hidden" value="spain" id="webgroup19" name="Portugal"><input type="hidden" value="portuguese" id="leng24"><input type="hidden" value="spain" id="webgroup18" name="Spain"><input type="hidden" value="spanish_castellano" id="leng23"><input type="hidden" value="sweden" id="webgroup9" name="Denmark"><input type="hidden" value="danish" id="leng11"><input type="hidden" value="sweden" id="webgroup30" name="Finland"><input type="hidden" value="sweden_finland_english" id="leng37"><input type="hidden" value="sweden" id="webgroup10" name="Norway"><input type="hidden" value="norwegian" id="leng12"><input type="hidden" value="sweden" id="webgroup8" name="Sweden"><input type="hidden" value="swedish" id="leng10"><input type="hidden" value="uk" id="webgroup7" name="Ireland"><input type="hidden" value="ireland_english_british" id="leng9"><input type="hidden" value="uk" id="webgroup6" name="United Kingdom"><input type="hidden" value="uk_english_british" id="leng8"><input type="hidden" value="uk_1" id="webgroup37" name=""><input type="hidden" value="ireland_english_british_1" id="leng44"><input type="hidden" value="uk_1" id="webgroup38" name=""><input type="hidden" value="uk_english_british_1" id="leng45"><input type="hidden" value="us" id="webgroup4" name="Puerto Rico"><input type="hidden" value="puerto_rico_english_us" id="leng6"><input type="hidden" value="puerto_rico_spanish_latin_americ" id="leng5"><input type="hidden" value="us" id="webgroup2" name="United States"><input type="hidden" value="en" id="leng2"><input type="hidden" value="us_spanish_latin_america" id="leng3"></div>
+<input id="resulturl" type="hidden" value="?websitec=us">
+<input id="stepcreate" type="hidden" value="1">
+<input type="hidden" id="currentlengstore" value="en"><input type="hidden" value="aa" id="webgroup54" name="AA - United States"><input type="hidden" value="aa_en" id="leng63"><input type="hidden" value="australia" id="webgroup25" name="Australia"><input type="hidden" value="australia_english_british" id="leng32"><input type="hidden" value="en3" id="leng54"><input type="hidden" value="australia" id="webgroup26" name="New Zealand"><input type="hidden" value="new_zeland_english_british" id="leng33"><input type="hidden" value="canada" id="webgroup24" name="Canada"><input type="hidden" value="canada_english" id="leng30"><input type="hidden" value="canada_french" id="leng31"><input type="hidden" value="dubai" id="webgroup22" name="All Middle East"><input type="hidden" value="arabic" id="leng27"><input type="hidden" value="english_us" id="leng28"><input type="hidden" value="france" id="webgroup17" name="Belgium"><input type="hidden" value="belgium_dutch" id="leng22"><input type="hidden" value="belgium_french" id="leng21"><input type="hidden" value="france" id="webgroup16" name="France"><input type="hidden" value="french" id="leng20"><input type="hidden" value="france_1" id="webgroup41" name=""><input type="hidden" value="belgium_dutch_1" id="leng48"><input type="hidden" value="belgium_french_1" id="leng49"><input type="hidden" value="france_1" id="webgroup42" name=""><input type="hidden" value="french_1" id="leng50"><input type="hidden" value="germany" id="webgroup13" name="Austria"><input type="hidden" value="austria_german" id="leng18"><input type="hidden" value="germany" id="webgroup11" name="Germany"><input type="hidden" value="german" id="leng13"><input type="hidden" value="germany" id="webgroup12" name="Netherlands"><input type="hidden" value="dutch" id="leng14"><input type="hidden" value="germany" id="webgroup15" name="Poland"><input type="hidden" value="polish" id="leng19"><input type="hidden" value="germany" id="webgroup14" name="Switzerland"><input type="hidden" value="switzerland_french" id="leng16"><input type="hidden" value="switzerland_german" id="leng15"><input type="hidden" value="switzerland_italian" id="leng17"><input type="hidden" value="hongkong" id="webgroup49" name="Hong Kong"><input type="hidden" value="hongkong_english_british" id="leng58"><input type="hidden" value="india" id="webgroup29" name="India"><input type="hidden" value="india_en_british" id="leng36"><input type="hidden" value="italy" id="webgroup21" name="Greece"><input type="hidden" value="greek" id="leng26"><input type="hidden" value="italy" id="webgroup20" name="Italy"><input type="hidden" value="italian" id="leng25"><input type="hidden" value="base" id="webgroup1" name="Main Website Store"><input type="hidden" value="default" id="leng1"><input type="hidden" value="mexico" id="webgroup28" name="Dominican Republic"><input type="hidden" value="dominican_spanish" id="leng34"><input type="hidden" value="mexico" id="webgroup27" name="Mexico"><input type="hidden" value="mexico_spanish" id="leng35"><input type="hidden" value="promo" id="webgroup45" name="Budwieser"><input type="hidden" value="en2" id="leng53"><input type="hidden" value="promo" id="webgroup53" name="Cisco"><input type="hidden" value="en7" id="leng62"><input type="hidden" value="promo" id="webgroup48" name="GE Healthcare"><input type="hidden" value="en6" id="leng57"><input type="hidden" value="promo" id="webgroup46" name="Generic"><input type="hidden" value="en4" id="leng55"><input type="hidden" value="promo" id="webgroup43" name="NAPA"><input type="hidden" value="en1" id="leng51"><input type="hidden" value="promo" id="webgroup44" name="No Promotion"><input type="hidden" value="no_promotion" id="leng52"><input type="hidden" value="promo" id="webgroup52" name="Nova"><input type="hidden" value="en8" id="leng61"><input type="hidden" value="promo" id="webgroup47" name="starwood"><input type="hidden" value="en5" id="leng56"><input type="hidden" value="spain" id="webgroup19" name="Portugal"><input type="hidden" value="portuguese" id="leng24"><input type="hidden" value="spain" id="webgroup18" name="Spain"><input type="hidden" value="spanish_castellano" id="leng23"><input type="hidden" value="sweden" id="webgroup9" name="Denmark"><input type="hidden" value="danish" id="leng11"><input type="hidden" value="sweden" id="webgroup30" name="Finland"><input type="hidden" value="sweden_finland_english" id="leng37"><input type="hidden" value="sweden" id="webgroup10" name="Norway"><input type="hidden" value="norwegian" id="leng12"><input type="hidden" value="sweden" id="webgroup8" name="Sweden"><input type="hidden" value="swedish" id="leng10"><input type="hidden" value="uk" id="webgroup7" name="Ireland"><input type="hidden" value="ireland_english_british" id="leng9"><input type="hidden" value="uk" id="webgroup6" name="United Kingdom"><input type="hidden" value="uk_english_british" id="leng8"><input type="hidden" value="uk_1" id="webgroup37" name=""><input type="hidden" value="ireland_english_british_1" id="leng44"><input type="hidden" value="uk_1" id="webgroup38" name=""><input type="hidden" value="uk_english_british_1" id="leng45"><input type="hidden" value="us" id="webgroup4" name="Puerto Rico"><input type="hidden" value="puerto_rico_english_us" id="leng6"><input type="hidden" value="puerto_rico_spanish_latin_americ" id="leng5"><input type="hidden" value="us" id="webgroup2" name="United States"><input type="hidden" value="en" id="leng2"><input type="hidden" value="us_spanish_latin_america" id="leng3"></div>
 </form>
-        </div>
-                          
+</div>
+<script type="text/javascript">
+// Tyler Hebel - Lyons
+// prevent all languages from appearing in language dropdown in case user doesn't hover over "Change" (which fires lang2array())
+lang2array();
+</script>
 </div>
     </div>
     <div class="nav-container">
@@ -442,16 +397,16 @@ function gogogo()
 <span>Collegiate</span>
 </a>
 </li><li class="level1 nav-1-4">
-<a href="http://www.mauijim.com/shop/guy-harvey.html">
-<span>Guy Harvey</span>
-</a>
-</li><li class="level1 nav-1-5">
 <a href="http://www.mauijim.com/shop/mauigradient.html">
 <span>MauiGradient</span>
 </a>
-</li><li class="level1 nav-1-6">
+</li><li class="level1 nav-1-5">
 <a href="http://www.mauijim.com/shop/maui-flex.html">
 <span>MauiFlex</span>
+</a>
+</li><li class="level1 nav-1-6">
+<a href="http://www.mauijim.com/shop/maui-pure.html">
+<span>MauiPure</span>
 </a>
 </li><li class="level1 nav-1-7">
 <a href="http://www.mauijim.com/shop/new-releases.html">
@@ -498,7 +453,7 @@ function gogogo()
 <a href="http://www.mauijim.com/lens-technology.html" class="level-top">
 <span>SEE THE DIFFERENCE</span>
 </a>
-</li><li class="level0 nav-3 level-top last parent">
+</li><li class="level0 nav-3 level-top parent">
 <a href="http://www.mauijim.com/let-us-help.html" class="level-top">
 <span>Let Us Help</span>
 </a>
@@ -572,12 +527,19 @@ function gogogo()
 </a>
 </li>
 </ul>
+</li><li class="level0 nav-4 level-top">
+<a href="http://www.mauijim.com/repairs-1.html" class="level-top">
+<span>Repairs</span>
+</a>
+</li><li class="level0 nav-5 level-top last">
+<a href="http://www.mauijim.com/teammaui.html" class="level-top">
+<span>Team 'Ohana</span>
+</a>
 </li>    </ul>
 </div>
 
     </div>
-		
-        <div class="breadcrumbs">
+            <div class="breadcrumbs">
     <div style="width:960px; margin:0 auto">
 		<ul>
 							<li class="home">
@@ -590,20 +552,15 @@ function gogogo()
 						
 		</ul>
 	</div>
-	<div class="add_cms"><p>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>	</div>
+	<div class="add_cms">&nbsp;	</div>
 </div>
 
-		
-		<div id="global_messages" class="oneCol">
-		
-				
-		</div>
-		
-		<div class="main-col-crn"></div>
-      
-		<div class="main col1-layout" id="myDiv">
-            <div class="col-main" id="colMain">
-                    <div class="page-title">
+            <div id="global_messages" class="oneCol">
+                            </div>
+            <div class="main-col-crn"></div>
+            <div class="main col1-layout" id="myDiv">
+                <div class="col-main" id="colMain">
+                        <div class="page-title">
         <h1>Maui Jim USA, Inc., Privacy Policy</h1>
     </div>
 <div class="std"><div id="privacy-police">
@@ -630,15 +587,15 @@ function gogogo()
 <p>If you have any questions or concerns about our privacy policy, please feel free to contact us at 1.888.666.5905. Many mahalos ("thank you" in Hawaiian) for your interest and cooperation with Maui Jim USA, Inc!</p>
 </div>
 <div style="clear: both; height: 0pt;">&nbsp;</div>
-</div></div>					
+</div></div>			
+                </div>
+                <div id="r3-modalbox"></div>
             </div>
-		<div id="r3-modalbox"></div>
-		</div>
-		
-                		
+            <div class="bottom-round-corners"></div>  
+                                    
 <div class="footer-container">
-    <div class="footer">
-        
+	<div class="footer">
+		
     <div class="form-subscribe" id="espots">
 	<div class="follow-us">
 		<a href="http://www.facebook.com/pages/Maui-Jim/92885507619?ref=ts" target="_blank">
@@ -679,117 +636,72 @@ function gogogo()
 <li><a href="http://www.mauijim.com/about-us">About Us</a></li>
 <li class="last"><a href="http://www.mauijim.com/news-events">News &amp; Events</a></li>
 <li class="last"><a href="http://www.mauijim.com/corporate-gifts">Corporate Gifts</a></li>
-<li class="last"><a href="http://www.mauijim.com/careers">Careers</a></li>
+<li class="last"><a href="https://mauijimcareers.silkroad.com/">Careers</a></li>
 <li class="last"><a href="http://www.mauijim.com/faqcms">FAQ/Help</a></li>
-<li class="last"><a href="write-a-review" target="_self">Write a Review</a></li>
-<li class="last"><a href="https://www.mauijim.com/trade-login">Trade Login</a></li>
+<li class="last"><a href="http://www.mauijim.com/write-a-review">Write a Review</a></li>
+<li class="last"><a href="https://www-2.mauijim.com/mjweb/LogInSubmit.do">Trade Login</a></li>
 </ul>		<p class="copyright">
-		
-		© 2011 Maui Jim, Inc. Lahaina, Hawaii		
-			<span>
-			<a href="http://www.mauijim.com/privacy-policy/" style="background:none; border-left: none; padding-left:0px">Privacy Policy</a>
+		<span>
+			© 2012 Maui Jim, Inc. Lahaina, Hawaii			<a href="http://www.mauijim.com/privacy-policy/" style="background:none; margin-left: 3px;">Privacy Policy</a>
 			<a href="http://www.mauijim.com/intellectual-property-notice/">Intellectual Property Notice</a>
-			<a href="http://www.mauijim.com/catalog/seo_sitemap/category/">Site map</a>
-			</span>
-			
-		</p><div id="credits"><p>See how Maui Jim comes alive with Polage® Art by <a href="http://www.austine.com/files/MJ_polages.htm" target="_blank">Austine Wood-Comarow</a></p></div>
-		
+							<a href="http://www.mauijim.com/virtualfitlive-terms-conditions/">VIRTUALFITLIVE Terms &amp; Conditions</a>
+						<a href="http://www.mauijim.com/catalog/seo_sitemap/category/">Site map</a>
+		</span>
+		</p><div id="credits"><p>See how Maui Jim comes alive with Polage® Art by <a href="http://www.austine.com/files/MJ_polages.htm" target="_blank">Austine Wood Comarow</a></p></div>
 		<p></p>
 	</div>
 </div>
     <script language="JavaScript">
     jQuery.noConflict();
-    jQuery('.footer ul li a[href='+location.href+']').attr({'id':'active'});
-    jQuery('.header .quick-access .links li a[href='+location.href+']').attr({'id':'active'});
-    jQuery('.footer p.copyright a[href='+location.href+']').attr({'id':'active'});
-</script>
-	</div>
-</div>
-
- 
-<script language="JavaScript">
-
-        if(document.getElementById('hp_1')
-            || document.getElementById('hp_2')
-            || document.getElementById('hp_3')
-            || document.getElementById('hp_4')
-            || document.getElementById('hp_5')
-            )
-        {
-            document.getElementById('hp_1').style.display = 'none';
-            document.getElementById('hp_2').style.display = 'none';
-            document.getElementById('hp_3').style.display = 'none';
-            document.getElementById('hp_4').style.display = 'none';
-            document.getElementById('hp_5').style.display = 'none';
-        
-            if(Mage.Cookies.get('background_id')==1){
-                document.getElementById('hp_1').style.display = 'block';
-                var hp_id = 'hp_1';
-            }
-            else if(Mage.Cookies.get('background_id')==2){
-                document.getElementById('hp_2').style.display = 'block';
-                var hp_id = 'hp_2';
-            }
-            else if(Mage.Cookies.get('background_id')==3){
-                document.getElementById('hp_3').style.display = 'block';
-                var hp_id = 'hp_3';
-            }
-            else if(Mage.Cookies.get('background_id')==4){
-                document.getElementById('hp_4').style.display = 'block';
-                var hp_id = 'hp_4';
-            }
-            else if(Mage.Cookies.get('background_id')==5){
-                document.getElementById('hp_5').style.display = 'block';
-                var hp_id = 'hp_5';
-            }
-            else{
-                document.getElementById('hp_1').style.display = 'block';
-                var hp_id = 'hp_1';
+    jQuery('.footer ul li a[href="'+location.href+'"]').attr({'id':'active'});
+    jQuery('.header .quick-access .links li a[href="'+location.href+'"]').attr({'id':'active'});
+    jQuery('.footer p.copyright a[href="'+location.href+'"]').attr({'id':'active'});
+</script>        </div>
+    </div>
+     
+    <script language="JavaScript">
+        if (typeof hp_id !== 'undefined') {
+            if (typeof hp_imageSize !== 'undefined'){
+                $('hp-fon').src='http://www.mauijim.com/skin/frontend/enterprise/brilliance/images/hp/hp_bkg' + hp_id + '_' + hp_imageSize + '.jpg';
             }
         }
-		
-var min_height = 0;
-function changeHeight(){
-	h = (window.innerHeight ? window.innerHeight : (document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.offsetHeight)) - 267	;
-    
-	var imageHeight = h + 440;
-	
-	if(imageHeight <= 719){
-		//document.getElementById(hp_id).style.height = '719px'; 
-	}
-	else{
-		//document.getElementById(hp_id).style.height = imageHeight + 'px'; 
-	}
-	
-	var colMain = $('colMain');
-    if (colMain){
-		if (typeof (defaultHeight) == 'undefined')
-		{
-			min_height = colMain.offsetHeight;
-		}
-		else
-		{
-			min_height = defaultHeight;
-		}
-    } 
-    if(min_height > h) h = min_height;
-    
-    var myDiv = $('myDiv');
-    if (myDiv){
-        myDiv.style.height=h+1+'px';
-   } 
-}
-Event.observe(window, 'resize', changeHeight);
-Event.observe(window, 'load', changeHeight);
+        
+        if(document.getElementById('hp-1-fon')) {
+            document.getElementById('hp-1-fon').style.display = 'none';
+        }        
 
-  jQuery(document).ready(function() {
-      if (jQuery('head title').html().indexOf('404 Not Found') + 1){
-          jQuery('head title').html('404 Not Found'); 
-      }
-  });
+        var min_height = 0;
+        function changeHeight(){    
 
-</script> 
+        	h =  (window.innerHeight ? window.innerHeight : (document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.offsetHeight)) - 267	;
+          		
+			var colMain = $('colMain');
+	            
+			if (colMain){
+                if (typeof (defaultHeight) == 'undefined') {
+                    min_height = colMain.offsetHeight;
+                }else{
+                    min_height = defaultHeight;
+                }
+			} 
+	            
+			if(min_height > h) h = min_height;
+            
+            
+            var myDiv = $('myDiv');
+            if (myDiv){
+                myDiv.style.height=h+1+'px';
+            } 
+        }
 
+        Event.observe(window, 'resize', changeHeight);
+        Event.observe(window, 'load', changeHeight);
 
+        jQuery(document).ready(function() {
+            if (jQuery('head title').html().indexOf('404 Not Found') + 1){
+                jQuery('head title').html('404 Not Found'); 
+            }
+        });
+    </script>
 
 </body></html>
