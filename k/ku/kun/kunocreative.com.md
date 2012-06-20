@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kunocreative.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220034722id_/http%3A//www.kunocreative.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kunocreative.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620144619id_/http%3A//www.kunocreative.com/about/privacy) for the most accurate reproduction.*
 
 # Inbound Marketing Agency Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ### Confidentiality
 
-All of all clients records are considered confidential. Strategies, documents, graphic concepts, proposals and related materials are not considered public information. Design work for completed project may be displayed only as examples of work either on our web site or in printed form.
+All of all clients records are considered confidential. Strategies, documents, graphic concepts, proposals and related materials are not considered public information. Design work for completed projects may be displayed only as examples of work either on our web site or in printed form.
 
 ### Personal information and other data we collect
 
