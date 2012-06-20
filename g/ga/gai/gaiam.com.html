@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gaiam.com privacy policy that was archived on 2011-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110611033946id_/http%3A//www.gaiam.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gaiam.com privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620141220id_/http%3A//www.gaiam.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
         
@@ -71,13 +71,15 @@
 	<link rel="canonical" href="http://www.gaiam.com/category/customer-service/privacy-and-security.do">
 
 
-<script type="text/javascript" src="/includes/jquery/jquery-1.4.min.js"></script>
+<script type="text/javascript" src="/includes/jquery/jquery-1.4.min.js"></script><!--ClientSideValidation--><script type="text/javascript" src="/mod/clientsidevalidation/includes/javascripts/jquery.validate-1.7.min.js"></script><script type="text/javascript" src="/mod/clientsidevalidation/includes/javascripts/clientSideValidation.js"></script><script type="text/javascript" src="/mod/clientsidevalidation/includes/javascripts/clientSideValidationOOTB.jsp"></script><link href="/mod/clientsidevalidation/includes/themes/clientsidevalidation.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="/includes/jquery/plugins/jquery.hoverIntent.minified.js"></script>
 <script type="text/javascript" src="/includes/jquery/plugins/jquery.bgiframe.min.js"></script>
 <script type="text/javascript" src="/includes/jquery/plugins/jquery.popDown.js"></script>
 <script type="text/javascript" src="/includes/jquery/plugins/jquery.autocomplete.js"></script>
 
+<script type="text/javascript" src="/omniture/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
 <script src="/mod/productquickview/includes/pqv.compressed.js"></script>
+
 
 
 <!-- SC-2010-58066 -->
@@ -102,6 +104,15 @@ pageTracker._trackPageview();
 
 <link href="/mod/productquickview/includes/themes/default.css" rel="stylesheet" type="text/css">
 <link href="/mod/productquickview/includes/themes/pqv.css" rel="stylesheet" type="text/css">
+
+<!-- Adding the Bazaarvoice JavaScript API -->
+<script type="text/javascript" src="http://gaiam.ugc.bazaarvoice.com/static/9381/bvapi.js">
+</script>
+<script type="text/javascript">
+    $BV.configure("global", {
+        submissionContainerUrl: ""
+    });
+</script>
 
         
 
@@ -148,48 +159,16 @@ pageTracker._trackPageview();
 
   
   
+  
+  
+  
 
 
 
         <link rel="shortcut icon" href="/images/set_a/en_us/favicon.ico" type="image/vnd.microsoft.icon">
         <script type="text/javascript" src="/includes/headerScripts.js"></script>
         		
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<!-- MyBuys libraries and style sheet - Place in <head> element -->
-<link href="http://t.p.mybuys.com/css/mbstyles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
-<script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js">
-</script>
-<script type="text/javascript" src="http://t.p.mybuys.com/clients/GAIAM/js/setup.js">
-</script>
-<!-- End MyBuys libraries and style sheet -->
+	
        
         
         
@@ -197,78 +176,35 @@ pageTracker._trackPageview();
 		    document.domain = 'gaiam.com';
 		</script>
         
-          
-           
-           
-              
-                <link type="text/css" rel="STYLESHEET" href="http://reviews.gaiam.com/static/9381/bazaarvoice.css">
-                <script language="JavaScript" src="http://reviews.gaiam.com/static/9381/bazaarvoice.js" type="text/javascript"></script>
-               <script type="text/javascript" language="javascript">
-                <!--
-                function ratingsDisplayed(totalReviewsCount, avgRating, ratingsOnlyReviewCount, buyAgainPercentage, productID)
-                {
-                   if (totalReviewsCount > 0) {
-                     //document.getElementById("BVReviewsContainer").style.display = "block";
-                            var bvRevCntr = document.getElementById("BVReviewsContainer");
-                    if (bvRevCntr) { bvRevCntr.style.display = "block"; }
-                            var bvSVPLink = document.getElementById("BVSVPLinkContainer");
-                    if (bvSVPLink) { bvSVPLink.style.display = "block"; }
-                   }
-                            var bvRevSecondaryCntr = document.getElementById("BVSecondaryCustomerRatings");
-                    if (bvRevSecondaryCntr) { bvRevSecondaryCntr.style.display = "block"; }
-                   // Other custom items leveraging these values.
-                }
-                //-->
-                </script>
-              
-           
-        
     
       
-      
-        
-           
-          
-            <link type="text/css" rel="STYLESHEET" href="http://answers.gaiam.com/answers/9381/static/bazaarvoiceQA.css">
-            <script language="JavaScript" src="http://answers.gaiam.com/answers/9381/static/bazaarvoiceQA.js" type="text/javascript"></script>
-           <script type="text/javascript" language="javascript">
-            <!--
-            function BVQADisplayed(questionCount, answerCount)
-            {
-                   if (questionCount > 0) 
-                   {
-                        var bvALPLink = document.getElementById("BVALPLinkContainer");
-                        if (bvALPLink) 
-                        { bvALPLink.style.display = "block"; }
-                   } 
-                           // Other custom items leveraging these values.
-
-            }
-            //-->
-            </script>
-          
-       
-     
     
       
  
+	
+
+<!-- Start Quantcast Tag -->
+ 	<script type="text/javascript">
+ 		_qoptions={qacct:"p-17sIJYQR1pff2",labels:"_fp.event.Homepage"};
+ 	</script>
+ 	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+ 	<noscript>
+ 		<img src="http://pixel.quantserve.com/pixel/p-17sIJYQR1pff2.gif?labels=_fp.event.Homepage" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>  
+	</noscript>
+<!-- End Quantcast tag -->
+
+        <!-- Begin Hiconversion Head Enabling. Do NOT move. Must come directly before the closing head tag -->
+        <script id="hiconversion_head_include" type="text/javascript" src="https://www.hiconversion.com/enabling/update.jsp?external=&amp;version=1.0">
+        </script>
+        <script id="hiconversion_head_script" type="text/javascript">if (typeof hiconversion_head_update == 'function') hiconversion_head_update()</script>
+        <!-- End Hiconversion Head Enabling -->
     </head>
 <body class="main">
-
-
-<!-- Start of DoubleClick Spotlight Tag: Please do not remove-->
-<!-- This tag must be placed within the opening <body> tag, as close to the beginning of it as possible-->
-
-<script language="JavaScript" type="text/javascript">
-var axel = Math.random()+"";
-var a = axel * 10000000000000;
-document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163;type=retar388;cat=;ord='+ a + '?" type="text/javascript"></SCR'+'IPT>');
-</script><script src="http://fls.doubleclick.net/activityj;src=2229163;type=retar388;cat=;ord=3928275954030.398?" type="text/javascript"></script>
-<noscript>
-<IMG SRC="http://ad.doubleclick.net/activity;src=2229163;type=retar388;cat=;ord=1?" WIDTH=1 HEIGHT=1 BORDER=0 ALT=""/>
-</noscript>
-<!-- End of DoubleClick Spotlight Tag:  Please do not remove-->
-
+<div class="mboxDefault" style="visibility: visible; display: block;"></div>
+<script language="JavaScript1.2">
+mboxCreate('global',
+'path='+location.pathname);
+</script><div id="mboxMarker-default-global-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://gaiaminc.tt.omtrdc.net/m2/gaiaminc/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580484009050-166976&amp;mboxPage=1580484009050-166976&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=1&amp;path=%2Fweb%2F20120620141220id_%2Fhttp%253A%2F%2Fwww.gaiam.com%2Fcategory%2Fcustomer%252Bservice%2Fprivacy%252Band%252Bsecurity.do&amp;mbox=global&amp;mboxId=0&amp;mboxTime=1580484009156&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20120620141220id_%2Fhttp%253A%2F%2Fwww.gaiam.com%2Fcategory%2Fcustomer%252Bservice%2Fprivacy%252Band%252Bsecurity.do&amp;mboxReferrer=&amp;mboxVersion=40" language="JavaScript"></script>
 <table width="956" border="0" cellpadding="0" cellspacing="0" class="mainLayoutTable">
 
   <tbody><tr>
@@ -347,6 +283,8 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 
 
 
+
+
 <script>
   function checkKeyword(keyword, defaultText) {
     var minKeywordLength = 0;
@@ -356,7 +294,7 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
     var errMsg = '';
     var searchTerms = '';
     searchTerms = keyword.value;
-    defaultText = "Keyword or Item#";
+    defaultText = "Search Keyword or Item#";
     var noSearchTerm = "Please enter a keyword or item number";
     var shortSearchTerm = "Your keyword or item number must be at least 3 characters long";
     if (searchTerms == defaultText) {
@@ -375,7 +313,7 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
   }
 
   function checkIfDefault(keyword) {
-    var defaultSearchTerm = "Keyword or Item#";
+    var defaultSearchTerm = "Search Keyword or Item#";
     if(keyword==defaultSearchTerm) {
       return '';
     }
@@ -384,6 +322,10 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
     }
   }
 </script>
+
+
+
+
 
   
 
@@ -445,59 +387,150 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 
 
 
-	
-		<table border="0" width="956" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td class="clearbg" rowspan="2" valign="top"><a href="/home.do"><img src="/images/set_a/en_us/global/globalnav/logo01.gif" border="0" alt="Yoga, Fitness and Healthy Green Shopping"></a></td>
-			
-			<td class="clearbg" valign="top" align="right">
-				<table cellpadding="0" cellspacing="0" border="0">
-					<tbody><tr>
-						<td class="clearbg">
-							<img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="1" height="28" border="0">
-						</td>
-					</tr>
-					<tr>
-						<td align="right" style="font-size:5px;" valign="top" height="25">
-							<table cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr>
-							<td class="questglobal" align="right" valign="middle" width="308px"><b>Questions</b>? (877) 989-6321, 7AM-6PM MST, M-F</td>
-							<td><a href="http://life.gaiam.com/" target="_blank"><img src="/images/set_a/en_us/global/globalnav/gaiamcommunity.gif" border="0" alt="Gaiam Life" class="alignBottom"></a>
-							<a href="http://www.gaiam.com" target="_blank" rel="nofollow"><img src="/images/set_a/en_us/global/globalnav/gaiamtravel.gif" border="0" alt="Gaiam Lifestyle Media &amp; Personal Growth Solutions" class="alignBottom"></a></td>
-							</tr>
-							<tr><td colspan="2" align="right"><div><img src="/images/set_a/en_us/global/globalnav/topnavhorzdivider.gif" border="0" alt="" height="1" class="alignTop"><div></div></div></td></tr>
-							</tbody></table>
-						</td>
-					</tr>
-					<tr>
-						<td align="right">
-							<table cellpadding="0" cellspacing="0" border="0" style="margin-right:10px;">
-								<tbody><tr>
-									<td><a href="/account.do?method=start" onmouseover="rollover('top_myaccount','/images/set_a/en_us/global/globalnav/myaccount_on.gif');" onmouseout="rollover('top_myaccount','/images/set_a/en_us/global/globalnav/myaccount_off.gif');"><img src="/images/set_a/en_us/global/globalnav/myaccount_off.gif" border="0" alt="My Account" name="top_myaccount"></a></td>
-									<td>
-										<img src="/images/set_a/en_us/global/globalnav/topnavgreendot.gif" border="0" alt="">
-									</td>
-									<td><a href="/category/customer+service.do" onmouseover="rollover('top_customerserv','/images/set_a/en_us/global/globalnav/customerserv_on.gif');" onmouseout="rollover('top_customerserv','/images/set_a/en_us/global/globalnav/customerserv_off.gif');"><img src="/images/set_a/en_us/global/globalnav/customerserv_off.gif" border="0" alt="Customer Service" name="top_customerserv"></a></td>
-									<td>
-										<img src="/images/set_a/en_us/global/globalnav/topnavgreendot.gif" border="0" alt="">
-									</td>
-									<td><a href="/catalogQuickShop.do" onmouseover="rollover('top_cqs','/images/set_a/en_us/global/globalnav/catquickshop_on.gif');" onmouseout="rollover('top_cqs','/images/set_a/en_us/global/globalnav/catquickshop_off.gif');"><img src="/images/set_a/en_us/global/globalnav/catquickshop_off.gif" border="0" alt="Catalog Quick Shop" name="top_cqs"></a></td>
-									<td>
-										<img src="/images/set_a/en_us/global/globalnav/topnavgreendot.gif" border="0" alt="">
-									</td>									
-									<td><a href="/category/online+catalogs.do" onmouseover="rollover('top_onlinecatalog','/images/set_a/en_us/global/globalnav/onlinecatalog_on.gif');" onmouseout="rollover('top_onlinecatalog','/images/set_a/en_us/global/globalnav/onlinecatalog_off.gif');"><img src="/images/set_a/en_us/global/globalnav/onlinecatalog_off.gif" border="0" alt="Online Catalogs" name="top_onlinecatalog"></a></td>
-								</tr>	
-							</tbody></table>
-						</td>
-					</tr>
-				</tbody></table>		
-			</td>
-		</tr>
-	</tbody></table>
-	
-	
 
-<!--TopNav End-->
+  <table class="mainLayoutTable" cellspacing="0" cellpadding="0" border="0" width="956">
+    <tbody>
+		<tr>
+        <td class="navheaderbg">
+          <table cellspacing="0" cellpadding="0" border="0" width="956">
+            <tbody>
+              <tr>
+                <td class="clearbg" valign="top" rowspan="2">
+                  <a href="/home.do"><img src="/images/set_a/en_us/global/globalnav/shopLogo.gif" alt="Yoga, Fitness and Healthy Green Shopping" class="logo-img"></a>
+                </td>
+                <td class="clearbg" valign="top" align="right">
+                  <table cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td class="clearbg top-nav">
+                          <ul class="globalCartNavWrapper">
+                            <li><div rel="nofollow">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery("#globalBasket").popDown({navLink:"/basket.do?nav=%2Fcategory%2Fid%2F202&gc=1",navOverClass:"globalCartNavOver",closeDelay:300});
+});
+</script>
+
+
+
+
+
+<div id="globalBasket" class="popDownWrapper globalCartWrapper">    
+    
+        <div id="globalBasketDiv1" class="popDownNav globalCartNav">  
+		<div class="globalCartBasketInfo">
+                    <span class="navHeader">shopping cart</span>
+                    <span class="navQty">0 items</span>
+                    <span class="navTotal">$0.00</span>
+                    
+	</div>
+	</div> 
+	<div id="globalCartLayerDiv1" class="popDownLayer globalCartLayer">       
+       
+
+		
+		  
+		  
+			<div class="globalCartEmpty">Your Shopping Cart is <b>Empty</b></div>
+		  
+				
+		
+	</div>
+</div>
+<!-- BEGIN Alvenda TRACKING Code, changed for SC-2010-58346-->
+
+<script type="text/javascript" src="http://alvenda.s3.amazonaws.com/gaiam/alvenda_remarketing_tag.js"></script>
+<!-- END Alvenda TRACKING Code-->
+
+
+</div></li> 
+                          </ul>
+                          <ul class="CatTopNav">
+                            <li><a href="http://life.gaiam.com/" target="blank">solutions for living</a></li>
+                            <li><a href="http://www.gaiam.com" target="blank">main page</a></li>
+                            <li>
+				
+					<a href="/account.do?method=start" class="sign-in-up">my account</a>
+				
+			    </li>
+                            <li><a href="/category/subscription/subscribe.do" class="sign-in-up">subscribe</a></li>
+                          </ul>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="clearbg special-offer">
+			
+						</td>
+					</tr>
+					<tr>
+                        <td class="clearbg customer-search">
+                          <ul class="help-search">
+                            <li class="customer-service">(877) 989-6321</li>
+                            <li class="need-help"><a href="/category/customer+service.do">need help?</a></li>
+                            <li class="catalogs"><a href="/category/online+catalogs.do">catalogs</a></li>
+                            <li class="search-site">
+                              
+                                <form class="main-search" name="searchForm" method="post" action="http://www.gaiam.com/search.do" onsubmit="document.searchForm.pageName.value=getVariableValue('pageName');return checkKeyword(this.keyword);">
+                                
+                                <input type="hidden" name="pageName" value="">
+                                <input type="text" id="navsearchbox" class="search-box" name="keyword" value="Search Keyword or Item#" onfocus="this.value=checkIfDefault(this.value);">
+                                <input type="image" alt="Go" name="Search" src="/images/set_a/en_us/global/globalgraphics/search-btn2.gif" class="search-btn">
+                              </form>
+                              
+                            </li>
+                          </ul>
+                        </td>
+							</tr>
+                    </tbody>
+							</table>
+						</td>
+					</tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>      
+    </tbody>
+  </table>
+
+
+
+
 
 
 
@@ -508,6 +541,9 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
   
   
 
+  
+  
+  
   
   
 
@@ -583,6 +619,15 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 
 
 
+
+    
+        
+    
+    
+
+
+
+
 <!--CatNav Start-->
 
 
@@ -592,79 +637,53 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 <script>
   var aCatImgs = new Array();
   
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav01_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav01_on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-bedbath.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-bedbath-on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-bedbath-active.gif";
   
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav02_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav02_on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-home.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-home-on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-home-active.gif";
   
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav03_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav03_on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-clothing.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-clothing-on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-clothing-active.gif";
   
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav04_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav04_on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-yoga.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-yoga-on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-yoga-active.gif";
   
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav05_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav05_on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-fitness.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-fitness-on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-fitness-active.gif";
   
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav06_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav06_on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-healthbeauty.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-healthbeauty-on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-healthbeauty-active.gif";
   
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav07_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav07_on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-dvds.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-dvds-on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-dvds-active.gif";
   
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav08_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/globalnav08_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-fairtrade.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-fairtrade-on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-fairtrade-active.gif";
   
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/gift_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/gift_on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-gifts.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-gifts-on.gif";
+    aCatImgs[aCatImgs.length] = "/images/set_a/en_us/global/globalnav/images/mainnav-gifts-active.gif";
   
-    aCatImgs[aCatImgs.length] = "/images//set_a/en_us/global/globalnav/images/globalnav09_off.gif";
-    aCatImgs[aCatImgs.length] = "/images//set_a/en_us/global/globalnav/images/globalnav09_on.gif";
+    aCatImgs[aCatImgs.length] = "/images//set_a/en_us/global/globalnav/images/mainnav-clearance.gif";
+    aCatImgs[aCatImgs.length] = "/images//set_a/en_us/global/globalnav/images/mainnav-clearance-on.gif";
+    aCatImgs[aCatImgs.length] = "/images//set_a/en_us/global/globalnav/images/mainnav-clearance-active.gif";
   
     
     
+    aCatImgs[aCatImgs.length] = "/images/-active.gif";
   
   preload(aCatImgs);
 </script>
 
-<script>
-  function checkKeyword(keyword, defaultText) {
-    var minKeywordLength = 0;
-    var maxKeywordLength = 0;
-    minKeywordLength += 3;
-    maxKeywordLength += 30;
-    var errMsg = '';
-    var searchTerms = '';
-    searchTerms = keyword.value;
-    defaultText = "Keyword or Item#";
-    var noSearchTerm = "Please enter a keyword or item number";
-    var shortSearchTerm = "Your keyword or item number must be at least 3 characters long";
-    if (searchTerms == defaultText) {
-      alert(noSearchTerm);
-      return false;
-    }
-    if (searchTerms == '') {
-      alert(noSearchTerm);
-      return false;
-    } else if ( searchTerms.length < minKeywordLength ) {
-        alert(shortSearchTerm);
-        return false;
-    } else {
-        return true;
-    }
-  }
-
-  function checkIfDefault(keyword) {
-    var defaultSearchTerm = "Keyword or Item#";
-    if(keyword==defaultSearchTerm) {
-      return '';
-    }
-    else {
-      return keyword;
-    }
-  }
-</script>
 <table cellspacing="0" cellpadding="0" class="topNavContainer">
   <tbody><tr>
   	<td>
@@ -677,9 +696,10 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 			
 			
 
-             
 
-		      
+                            
+
+                            
 				
 				
 								
@@ -689,12 +709,13 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 						
 					
 				
-               
+                            
 			
 
-             
 
-		      
+                            
+
+                            
 				
 				
 								
@@ -704,12 +725,13 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 						
 					
 				
-               
+                            
 			
 
-             
 
-		      
+                            
+
+                            
 				
 				
 								
@@ -719,12 +741,13 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 						
 					
 				
-               
+                            
 			
 
-             
 
-		      
+                            
+
+                            
 				
 				
 								
@@ -734,12 +757,13 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 						
 					
 				
-               
+                            
 			
 
-             
 
-		      
+                            
+
+                            
 				
 				
 								
@@ -749,12 +773,13 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 						
 					
 				
-               
+                            
 			
 
-             
 
-		      
+                            
+
+                            
 				
 				
 								
@@ -764,12 +789,13 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 						
 					
 				
-               
+                            
 			
 
-             
 
-		      
+                            
+
+                            
 				
 				
 								
@@ -779,12 +805,13 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 						
 					
 				
-               
+                            
 			
 
-             
 
-		      
+                            
+
+                            
 				
 				
 								
@@ -794,17 +821,13 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 						
 					
 				
-               
+                            
 			
 
-             
 
-		      
-			
+                            
 
-             
-
-		      
+                            
 				
 				
 								
@@ -814,12 +837,30 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 						
 					
 				
-               
+                            
 			
 
-             
 
-		      
+                            
+
+                            
+				
+				
+								
+				
+					
+					
+						
+					
+				
+                            
+			
+
+
+                            
+
+                            
+			
 			
 			
 
@@ -858,12 +899,21 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 
 
 
+    
+        
+    
+    
+
+
+
+
+
 <script type="text/javascript" src="/includes/jquery/plugins/jquery.hoverIntent.minified.js"></script>
 <script type="text/javascript" src="/includes/jquery/plugins/jquery.bgiframe.min.js"></script>
 <script type="text/javascript" src="/includes/jquery/plugins/superfish.js"></script>
 <script type="text/javascript" src="/includes/jquery/plugins/supersubs.js"></script>
 
-<ul class="sf-menu"><li class="firstNav"><a class="sf-top-level-link" href="http://www.gaiam.com/category/bed-bath.do" onmouseover="rollover('category:360494','/images/set_a/en_us/global/globalnav/images/globalnav01_on.gif');" onmouseout="rollover('category:360494','/images/set_a/en_us/global/globalnav/images/globalnav01_off.gif');"><img border="0" name="category:360494" src="/images/set_a/en_us/global/globalnav/images/globalnav01_off.gif" alt="Bed &amp; Bath"></a><ul><li><a href="http://www.gaiam.com/category/bed-bath/sheets.do">Sheets</a></li><li><a href="http://www.gaiam.com/category/bed-bath/quilts-throws-blankets.do">Quilts &amp; Throws</a></li><li><a href="http://www.gaiam.com/category/bed-bath/bedding-basics.do">Bedding Basics</a></li><li><a href="http://www.gaiam.com/category/bed-bath/towels-bath.do">Towels &amp; Bath Accessories</a></li><li><a href="http://www.gaiam.com/category/bed-bath/shower-filters.do">Shower Filters</a></li><li><a href="http://www.gaiam.com/category/bed-bath/bed-bath-toprated.do">Top Rated</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/eco-home-outdoor.do" onmouseover="rollover('category:100011','/images/set_a/en_us/global/globalnav/images/globalnav02_on.gif');" onmouseout="rollover('category:100011','/images/set_a/en_us/global/globalnav/images/globalnav02_off.gif');"><img border="0" name="category:100011" src="/images/set_a/en_us/global/globalnav/images/globalnav02_off.gif" alt="Home"></a><ul><li><a href="http://www.gaiam.com/category/eco-home-outdoor/living-space.do">Furniture &amp; Decor</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/household.do">Household Supplies</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/air-heating-cooling.do">Air Quality, Heating &amp; Cooling</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/water-quality.do">Water Filters</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/laundry.do">Laundry &amp; Storage</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/appliances.do">Home Appliances</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/outdoor.do">Outdoor</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/pest-control.do">Pest Control</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/top-rated.do">Top Rated Home</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/apparel.do" onmouseover="rollover('category:100119','/images/set_a/en_us/global/globalnav/images/globalnav03_on.gif');" onmouseout="rollover('category:100119','/images/set_a/en_us/global/globalnav/images/globalnav03_off.gif');"><img border="0" name="category:100119" src="/images/set_a/en_us/global/globalnav/images/globalnav03_off.gif" alt="Clothing"></a><ul><li><a href="http://www.gaiam.com/category/apparel/outfits.do">Outfits</a></li><li><a href="http://www.gaiam.com/category/apparel/womens-clothing.do">Casual Clothing</a></li><li><a href="http://www.gaiam.com/category/apparel/yoga-fitness-wear.do">Yoga &amp; Fitness Wear</a></li><li><a href="http://www.gaiam.com/category/apparel/loungewear.do">Sleep</a></li><li><a href="http://www.gaiam.com/category/apparel/intimates.do">Intimates</a></li><li><a href="http://www.gaiam.com/category/apparel/accessories.do">Accessories</a></li><li><a href="http://www.gaiam.com/category/apparel/top-rated.do">Top Rated Clothing Products</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/yoga-studio.do" onmouseover="rollover('category:100067','/images/set_a/en_us/global/globalnav/images/globalnav04_on.gif');" onmouseout="rollover('category:100067','/images/set_a/en_us/global/globalnav/images/globalnav04_off.gif');"><img border="0" name="category:100067" src="/images/set_a/en_us/global/globalnav/images/globalnav04_off.gif" alt="Yoga"></a><ul><li><a href="http://www.gaiam.com/category/yoga-studio/yoga-mats.do">Yoga Mats</a></li><li><a href="http://www.gaiam.com/category/yoga-studio/yoga-props.do">Yoga Props &amp; Accessories</a></li><li><a href="http://www.gaiam.com/category/yoga-studio/yoga-media.do">Yoga DVDs</a></li><li><a href="http://www.gaiam.com/category/yoga-studio/yoga-instructors.do">Yoga Instructors</a></li><li><a href="http://www.gaiam.com/category/yoga-studio/yoga-clothes.do">Yoga Clothes</a></li><li><a href="http://www.gaiam.com/category/yoga-studio/top-rated.do">Top Rated Yoga Products</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/fitness-center.do" onmouseover="rollover('category:100174','/images/set_a/en_us/global/globalnav/images/globalnav05_on.gif');" onmouseout="rollover('category:100174','/images/set_a/en_us/global/globalnav/images/globalnav05_off.gif');"><img border="0" name="category:100174" src="/images/set_a/en_us/global/globalnav/images/globalnav05_off.gif" alt="Fitness"></a><ul><li><a href="http://www.gaiam.com/category/fitness-center/fitness-gear.do">Fitness Gear</a></li><li><a href="http://www.gaiam.com/category/fitness-center/fitness-dvds.do">Fitness DVDs</a></li><li><a href="http://www.gaiam.com/category/fitness-center/eastern-practices.do">Meditation &amp; Energy Practice</a></li><li><a href="http://www.gaiam.com/category/fitness-center/fitness-instructors.do">Fitness Instructors</a></li><li><a href="http://www.gaiam.com/category/fitness-center/water-bottles.do">Water bottles</a></li><li><a href="http://www.gaiam.com/category/fitness-center/top-rated.do">Top Rated Fitness Products</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/wellness-clinic.do" onmouseover="rollover('category:100320','/images/set_a/en_us/global/globalnav/images/globalnav06_on.gif');" onmouseout="rollover('category:100320','/images/set_a/en_us/global/globalnav/images/globalnav06_off.gif');"><img border="0" name="category:100320" src="/images/set_a/en_us/global/globalnav/images/globalnav06_off.gif" alt="Health &amp; Beauty"></a><ul><li><a href="http://www.gaiam.com/category/wellness-clinic/pain-relief-back-care.do">Pain Relief &amp; Back Care</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/detox-weight-loss.do">Detox &amp; Weight Loss</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/personal-care.do">Body Care</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/alternative-therapy.do">Therapies</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/stress-relief.do">Stress Relief</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/innerbalance.do">InnerBalance®</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/top-rated.do">Top Rated Health &amp; Beauty Products</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/bestselling-wellness-clinic-products.do">Bestselling Health &amp; Beauty Products</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/media-library.do" onmouseover="rollover('category:100088','/images/set_a/en_us/global/globalnav/images/globalnav07_on.gif');" onmouseout="rollover('category:100088','/images/set_a/en_us/global/globalnav/images/globalnav07_off.gif');"><img border="0" name="category:100088" src="/images/set_a/en_us/global/globalnav/images/globalnav07_off.gif" alt="Media Library"></a><ul><li><a href="http://www.gaiam.com/category/media-library/yoga-dvds.do">Yoga DVDs</a></li><li><a href="http://www.gaiam.com/category/media-library/fitness-dvds.do">Fitness DVDs</a></li><li><a href="http://www.gaiam.com/category/media-library/wellness-dvds.do">Wellness DVDs</a></li><li><a href="http://www.gaiam.com/category/media-library/personal-development.do">Personal Development</a></li><li><a href="http://www.gaiam.com/category/media-library/movies.do">Movies</a></li><li><a href="http://www.gaiam.com/category/media-library/sustainability.do">Sustainability</a></li><li><a href="http://www.gaiam.com/category/media-library/explorations-catalog.do">Explorations</a></li><li><a href="http://www.gaiam.com/category/media-library/top-rated.do">Top Rated DVD Products</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/fair-trade.do" onmouseover="rollover('category:100802','/images/set_a/en_us/global/globalnav/images/globalnav08_off.gif');" onmouseout="rollover('category:100802','/images/set_a/en_us/global/globalnav/images/globalnav08_off.gif');"><img border="0" name="category:100802" src="/images/set_a/en_us/global/globalnav/images/globalnav08_off.gif" alt="One World by Gaiam&amp;#153; Fair Trade Marketplace"></a><ul><li><a href="http://www.gaiam.com/category/fair-trade/home-decor.do">Home Décor</a></li><li><a href="http://www.gaiam.com/category/fair-trade/spa.do">Spa</a></li><li><a href="http://www.gaiam.com/category/fair-trade/bags.do">Bags &amp; Totes</a></li><li><a href="http://www.gaiam.com/category/fair-trade/jewelry-scarves.do">Jewelry &amp; Scarves</a></li><li><a href="http://www.gaiam.com/category/fair-trade/clothing.do">Clothing</a></li><li><a href="http://www.gaiam.com/category/fair-trade/top-rated.do">Top Rated</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/outlet-sale.do" onmouseover="rollover('category:100291','/images//set_a/en_us/global/globalnav/images/globalnav09_on.gif');" onmouseout="rollover('category:100291','/images//set_a/en_us/global/globalnav/images/globalnav09_off.gif');"><img border="0" name="category:100291" src="/images//set_a/en_us/global/globalnav/images/globalnav09_off.gif" alt="Outlet Sale"></a><ul><li><a href="http://www.gaiam.com/category/outlet-sale/clothing-accessories.do">Clothing &amp; Accessories Outlet</a></li><li><a href="http://www.gaiam.com/category/outlet-sale/home-garden.do">Home &amp; Garden Outlet</a></li><li><a href="http://www.gaiam.com/category/outlet-sale/yoga-fitness.do">Yoga &amp; Fitness Outlet</a></li><li><a href="http://www.gaiam.com/category/outlet-sale/health-wellness.do?sortby=ourPicks">Personal Care &amp; Wellness Outlet</a></li><li><a href="http://www.gaiam.com/category/outlet-sale/media.do">Media Outlet</a></li></ul></li></ul>
+<ul class="sf-menu"><li class="firstNav"><a class="sf-top-level-link" href="http://www.gaiam.com/category/bed-bath.do" onmouseover="rollover('category:360494','/images/set_a/en_us/global/globalnav/images/mainnav-bedbath-on.gif');" onmouseout="rollover('category:360494','/images/set_a/en_us/global/globalnav/images/mainnav-bedbath.gif');"><img border="0" name="category:360494" src="/images/set_a/en_us/global/globalnav/images/mainnav-bedbath.gif" alt="Bed &amp; Bath"></a><ul><li><a href="http://www.gaiam.com/category/bed-bath/sheets.do">Sheets</a></li><li><a href="http://www.gaiam.com/category/bed-bath/quilts-throws-blankets.do">Quilts &amp; Throws</a></li><li><a href="http://www.gaiam.com/category/bed-bath/bedding-basics.do">Bedding Basics</a></li><li><a href="http://www.gaiam.com/category/bed-bath/towels-bath.do">Towels &amp; Bath Accessories</a></li><li><a href="http://www.gaiam.com/category/bed-bath/shower-filters.do">Shower Filters</a></li><li><a href="http://www.gaiam.com/category/bed-bath/bed-bath-toprated.do">Top Rated Bed &amp; Bath Products</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/eco-home-outdoor.do" onmouseover="rollover('category:100011','/images/set_a/en_us/global/globalnav/images/mainnav-home-on.gif');" onmouseout="rollover('category:100011','/images/set_a/en_us/global/globalnav/images/mainnav-home.gif');"><img border="0" name="category:100011" src="/images/set_a/en_us/global/globalnav/images/mainnav-home.gif" alt="Home"></a><ul><li><a href="http://www.gaiam.com/category/eco-home-outdoor/living-space.do">Furniture &amp; Decor</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/outdoor.do">Outdoor</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/household.do">Household Supplies</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/water-quality.do">Water Filters</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/laundry.do">Laundry &amp; Storage</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/appliances.do">Home Appliances</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/air-heating-cooling.do">Air Quality, Heating &amp; Cooling</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/pest-control.do">Pest Control</a></li><li><a href="http://www.gaiam.com/category/eco-home-outdoor/top-rated.do">Top Rated Home Products</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/apparel.do" onmouseover="rollover('category:100119','/images/set_a/en_us/global/globalnav/images/mainnav-clothing-on.gif');" onmouseout="rollover('category:100119','/images/set_a/en_us/global/globalnav/images/mainnav-clothing.gif');"><img border="0" name="category:100119" src="/images/set_a/en_us/global/globalnav/images/mainnav-clothing.gif" alt="Clothing"></a><ul><li><a href="http://www.gaiam.com/category/apparel/yoga-fitness-wear.do">Yoga &amp; Fitness Wear</a></li><li><a href="http://www.gaiam.com/category/apparel/womens-clothing.do">Casual Clothing</a></li><li><a href="http://www.gaiam.com/category/apparel/loungewear.do">Sleep</a></li><li><a href="http://www.gaiam.com/category/apparel/intimates.do">Intimates</a></li><li><a href="http://www.gaiam.com/category/apparel/accessories.do">Accessories &amp; Shoes</a></li><li><a href="http://www.gaiam.com/category/apparel/outfits.do">Outfits</a></li><li><a href="http://www.gaiam.com/category/apparel/top-rated.do">Top Rated Clothing Products</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/yoga-studio.do" onmouseover="rollover('category:100067','/images/set_a/en_us/global/globalnav/images/mainnav-yoga-on.gif');" onmouseout="rollover('category:100067','/images/set_a/en_us/global/globalnav/images/mainnav-yoga.gif');"><img border="0" name="category:100067" src="/images/set_a/en_us/global/globalnav/images/mainnav-yoga.gif" alt="Yoga"></a><ul><li><a href="http://www.gaiam.com/category/yoga-studio/yoga-props.do">Yoga Props &amp; Accessories</a></li><li><a href="http://www.gaiam.com/category/yoga-studio/yoga-clothes.do">Yoga Clothes</a></li><li><a href="http://www.gaiam.com/category/yoga-studio/yoga-mats-by-thickness.do">Yoga Mats By Thickness</a></li><li><a href="http://www.gaiam.com/category/yoga-studio/yoga-mats-by-stickiness.do">Yoga Mats By Stickiness</a></li><li><a href="http://www.gaiam.com/category/yoga-studio/yoga-mats-by-price.do">Yoga Mats by Price</a></li><li><a href="http://www.gaiam.com/category/yoga-studio/yoga-mats-by-practice.do">Yoga Mats By Practice</a></li><li><a href="http://www.gaiam.com/category/yoga-studio/yoga-mats.do">Shop All Yoga Mats</a></li><li><a href="http://www.gaiam.com/category/yoga-studio/yoga-media.do">Yoga DVDs</a></li><li><a href="http://www.gaiam.com/category/yoga-studio/yoga-instructors.do">Yoga Instructors</a></li><li><a href="http://www.gaiam.com/category/yoga-studio/top-rated.do">Top Rated Yoga Products</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/fitness-center.do" onmouseover="rollover('category:100174','/images/set_a/en_us/global/globalnav/images/mainnav-fitness-on.gif');" onmouseout="rollover('category:100174','/images/set_a/en_us/global/globalnav/images/mainnav-fitness.gif');"><img border="0" name="category:100174" src="/images/set_a/en_us/global/globalnav/images/mainnav-fitness.gif" alt="Fitness"></a><ul><li><a href="http://www.gaiam.com/category/fitness-center/fitness-gear.do">Fitness Gear</a></li><li><a href="http://www.gaiam.com/category/fitness-center/fitness-dvds.do">Fitness DVDs</a></li><li><a href="http://www.gaiam.com/category/fitness-center/eastern-practices.do">Tai Chi &amp; Qigong</a></li><li><a href="http://www.gaiam.com/category/fitness-center/fitness-instructors.do">Fitness Instructors</a></li><li><a href="http://www.gaiam.com/category/fitness-center/water-bottles.do">Water bottles</a></li><li><a href="http://www.gaiam.com/category/fitness-center/top-rated.do">Top Rated Fitness Products</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/wellness-clinic.do" onmouseover="rollover('category:100320','/images/set_a/en_us/global/globalnav/images/mainnav-healthbeauty-on.gif');" onmouseout="rollover('category:100320','/images/set_a/en_us/global/globalnav/images/mainnav-healthbeauty.gif');"><img border="0" name="category:100320" src="/images/set_a/en_us/global/globalnav/images/mainnav-healthbeauty.gif" alt="Health &amp; Beauty"></a><ul><li><a href="http://www.gaiam.com/category/wellness-clinic/pain-relief-back-care.do">Back Care</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/pain+relief.do">Pain Relief</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/detox-weight-loss.do">Detox</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/meditation-energy-practice.do">Meditation</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/alternative-therapy.do">Therapies</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/personal-care.do">Body Care</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/stress-relief.do">Stress Relief</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/innerbalance.do">InnerBalance®</a></li><li><a href="http://www.gaiam.com/category/wellness-clinic/top-rated.do">Top Rated Health &amp; Beauty Products</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/media-library.do" onmouseover="rollover('category:100088','/images/set_a/en_us/global/globalnav/images/mainnav-dvds-on.gif');" onmouseout="rollover('category:100088','/images/set_a/en_us/global/globalnav/images/mainnav-dvds.gif');"><img border="0" name="category:100088" src="/images/set_a/en_us/global/globalnav/images/mainnav-dvds.gif" alt="Media Library"></a><ul><li><a href="http://www.gaiam.com/category/media-library/yoga-dvds.do">Yoga DVDs</a></li><li><a href="http://www.gaiam.com/category/media-library/fitness-dvds.do">Fitness DVDs</a></li><li><a href="http://www.gaiam.com/category/media-library/wellness-dvds.do">Wellness DVDs</a></li><li><a href="http://www.gaiam.com/category/media-library/personal-development.do">Personal Development</a></li><li><a href="http://www.gaiam.com/category/media-library/sustainability.do">Sustainability</a></li><li><a href="http://www.gaiam.com/category/media-library/explorations-catalog.do">Explorations</a></li><li><a href="http://www.gaiam.com/category/media-library/simple-choices.do">Simple Choices Make a Difference®</a></li><li><a href="http://www.gaiam.com/category/media-library/top-rated.do">Top Rated DVDs</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/fair-trade.do" onmouseover="rollover('category:100802','/images/set_a/en_us/global/globalnav/images/mainnav-fairtrade-on.gif');" onmouseout="rollover('category:100802','/images/set_a/en_us/global/globalnav/images/mainnav-fairtrade.gif');"><img border="0" name="category:100802" src="/images/set_a/en_us/global/globalnav/images/mainnav-fairtrade.gif" alt="One World by Gaiam&amp;#153; Fair Trade Marketplace"></a><ul><li><a href="http://www.gaiam.com/category/fair-trade/home-decor.do">Home Décor</a></li><li><a href="http://www.gaiam.com/category/fair-trade/spa.do">Spa</a></li><li><a href="http://www.gaiam.com/category/fair-trade/bags.do">Bags &amp; Totes</a></li><li><a href="http://www.gaiam.com/category/fair-trade/jewelry-scarves.do">Jewelry &amp; Accessories</a></li><li><a href="http://www.gaiam.com/category/fair-trade/clothing.do">Clothing</a></li><li><a href="http://www.gaiam.com/category/fair-trade/top-rated.do">Top Rated Fair Trade Products</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/gift-guide.do" onmouseover="rollover('category:100852','/images/set_a/en_us/global/globalnav/images/mainnav-gifts-on.gif');" onmouseout="rollover('category:100852','/images/set_a/en_us/global/globalnav/images/mainnav-gifts.gif');"><img border="0" name="category:100852" src="/images/set_a/en_us/global/globalnav/images/mainnav-gifts.gif" alt="Gaiam Gift Guide"></a><ul><li><a href="http://www.gaiam.com/category/gift-guide/top-50-gifts.do">Top 50 Gifts</a></li><li><a href="http://www.gaiam.com/category/gift-guide/green-gifts.do">Top 25 Green Gifts</a></li><li><a href="http://www.gaiam.com/category/gift-guide/yoga-gifts.do">Yoga &amp; Fitness Gifts</a></li><li><a href="http://www.gaiam.com/category/gift-guide/home-gifts.do">Bed, Bath &amp; Home Gifts</a></li><li><a href="http://www.gaiam.com/category/gift-guide/clothing-gifts.do">Clothing &amp; Accessory Gifts</a></li><li><a href="http://www.gaiam.com/category/gift-guide/wellness-gifts.do">Wellness &amp; Beauty Gifts</a></li><li><a href="http://www.gaiam.com/category/gift-guide/affordable-gifts.do">Gifts By Price</a></li></ul></li><li><a class="sf-top-level-link" href="http://www.gaiam.com/category/outlet-sale.do" onmouseover="rollover('category:100291','/images//set_a/en_us/global/globalnav/images/mainnav-clearance-on.gif');" onmouseout="rollover('category:100291','/images//set_a/en_us/global/globalnav/images/mainnav-clearance.gif');"><img border="0" name="category:100291" src="/images//set_a/en_us/global/globalnav/images/mainnav-clearance.gif" alt="Outlet Sale"></a><ul><li><a href="http://www.gaiam.com/category/outlet-sale/clothing-accessories.do">Clothing &amp; Accessories Outlet</a></li><li><a href="http://www.gaiam.com/category/outlet-sale/home-garden.do">Home &amp; Garden Outlet</a></li><li><a href="http://www.gaiam.com/category/outlet-sale/yoga-fitness.do">Yoga &amp; Fitness Outlet</a></li><li><a href="http://www.gaiam.com/category/outlet-sale/health-wellness.do">Personal Care &amp; Wellness Outlet</a></li><li><a href="http://www.gaiam.com/category/outlet-sale/media.do">Media Outlet</a></li></ul></li></ul>
 
 <script type="text/javascript">
 	jQuery(document).ready(function($){
@@ -885,6 +935,8 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 		jQuery("ul.sf-menu").find("a[onmouseover]").each(function (i){
 			jQuery(this).parent("li").find("ul:first").hover(jQuery(this).attr("onmouseover"), jQuery(this).attr("onmouseout"));
 		});
+                jQuery('.sf-menu > li:last').addClass('lastNav');           //switch the class on the last one so it's right aligned.
+
 	});
 </script>
 <!-- dhtml menu end -->
@@ -898,24 +950,14 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
 </tr>
 </tbody></table>
 </td>
-<td align="right">
-    <table cellpadding="0" cellspacing="0" border="0" class="searchContainer">
-        <form name="searchForm" method="post" action="http://www.gaiam.com/search.do" onsubmit="document.searchForm.pageName.value=getVariableValue('pageName');return checkKeyword(this.keyword);"></form>
-         
-           <input type="hidden" name="pageName" value="">
-            <tbody><tr>
-                <td width="46" align="left">
-<img src="/images/set_a/en_us/global/globalgraphics/searchtext.gif" border="0" alt="Search:" class="alignBottom">
-</td>
-                <td align="right" id="navsearchboxwrapper">				  <input type="text" name="keyword" value="Keyword or Item#" size="10" maxlength="30" class="navsearchbox" id="navsearchbox" onfocus="this.value=checkIfDefault(this.value);" style="width:119px;"></td>
-				<td width="41" align="right">
-<input type="image" name="Search" src="/images/set_a/en_us/global/globalgraphics/search_btn.gif" border="0" alt="Go">
-				</td>
-            </tr>
-        
-    </tbody></table>
+</tr>
+
+<tr>
+<td>
+	<!--<a href="/category/terms/site-offer-details.do?intcmp=SW75FSbnr"><img src="/text/content/siteWideBanner/images/site_wide_banner_2012.06.05.jpg" alt="FREE standard shipping on orders of $75 or more!" border="0"/></a>-->
 </td>
 </tr>
+
 </tbody></table>
 
     
@@ -924,6 +966,9 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
   
   
 
+  
+  
+  
   
   
 
@@ -935,7 +980,7 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
     <td colspan="3">
         <table cellpadding="0" cellspacing="0" border="0" width="100%">
             <tbody><tr>
-			    <td><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="5" height="1" border="0"></td>
+			    <td><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="0" height="1" border="0"></td>
                 <td width="175" class="promoContainer" align="right">                   
                     
                       <!-- <a href="#" onClick="return flyopen(500,1000, 'https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=4UU25MU6&content=/bmlweb/np90drollingiw.html','Guarantee');">
@@ -943,83 +988,7 @@ document.write('<SCR'+'IPT SRC="http://fls.doubleclick.net/activityj;src=2229163
                     
                                        
                 </td>
-                <td class="cartContainer" width="140" align="right" height="50">
-                    <table cellpadding="0" cellspacing="0">
-                        <tbody><tr>
-                           <td colspan="3" align="right"><div rel="nofollow"> 
-							 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-jQuery(document).ready(function(){
-	jQuery("#globalBasket").popDown({navLink:"/basket.do?nav=%2Fcategory%2Fid%2F202&gc=1",navOverClass:"globalCartNavOver",closeDelay:300});
-});
-</script>
-
-
-
-	
-<div id="globalBasket" class="popDownWrapper globalCartWrapper">    
-    
-	<div id="globalBasketDiv1" class="popDownNav globalCartNav">
-		<div class="globalCartBasketImg"><img src="/images/set_a/en_us/global/globalgraphics/shoppingcart.gif" border="0" alt="Shopping" basket=""></div>
-		<div class="globalCartBasketInfo"><span class="navHeader">Shopping Cart</span> <span class="navQty">0 items</span> <span class="navsepa">&nbsp;&nbsp;| &nbsp;&nbsp;</span><span class="navTotal">$0.00</span></div>
-	</div>
-
-	<div id="globalCartLayerDiv1" class="popDownLayer globalCartLayer">       
-       
-
-		
-		  
-		  
-			<div class="globalCartEmpty">Your Shopping Cart is <b>Empty</b></div>
-		  
-				
-		
-	</div>
-</div>
-<!-- BEGIN Alvenda TRACKING Code, changed for SC-2010-58346-->
-
-<script type="text/javascript" src="http://alvenda.s3.amazonaws.com/gaiam/alvenda_remarketing_tag.js"></script>
-<!-- END Alvenda TRACKING Code-->
-							 </div></td>
-                       </tr>
-                    </tbody></table>
-                </td>
             </tr>
             <tr>
                 <td colspan="3" height="10"></td>
@@ -1032,7 +1001,7 @@ jQuery(document).ready(function(){
   
   <tr valign="top">
     
-    <td width="11" class="contentbg"><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="11" height="1" border="0"></td>
+    <td width="0" class="contentbg"><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="0" height="1" border="0"></td>
     <td width="738" class="contentbg" id="main02Body">
       <div>
         
@@ -1265,7 +1234,7 @@ jQuery(document).ready(function(){
     </div>        
     </td>
 	
-    <td width="5" class="contentbg"><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="5" height="245" border="0"></td>
+    <td width="0" class="contentbg"><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="0" height="245" border="0"></td>
 	
   </tr>
 
@@ -1344,20 +1313,7 @@ jQuery(document).ready(function(){
 
 
 
-<!--BEGIN ATLAS ROI TRACKING Code-->
-<script language="javascript" src="https://track.roiservice.com/track/track.aspx?ROIID=936738107000025"></script>
-<script language="javascript">
-<!--
-  if (typeof(ROIID) + '' != 'undefined') {
-    TrackEvent('LandingPage', 0);
-  }
-//-->
-</script>
-<!--END ATLAS ROI TRACKING Code--> 
 
-<!-- PepperJam TRACKING Code removed-->
-
-<!-- PepperJam TRACKING Code removed-->
 
 
 <table width="956" border="0" cellpadding="0" cellspacing="0">
@@ -1392,7 +1348,7 @@ function MM_preloadImages() { //v3.0
                     <script type="text/javascript">jQuery.noConflict();</script>-->
                     <input type="text" onfocus="if (!jQuery(this).hasClass('clicked')) { jQuery(this).addClass('clicked').val(''); }" value="Enter Email" size="38" maxlength="75" name="EMAIL_ADDRESS_">
                     <input type="hidden" name="_ri_" value="X0Gzc2X%3DUQpglLjHJlTQF3QzgDTJWQzgDTjmQzgDMl7QQzgQvQvzdcVwjpnpgHlpgneHmgJoXX0Gzc2X%3DUQpglLjHJlTQF3QzgDTJWQzgDTjmQzgDMl6QQGQvQvci">
-                    <input name="Submit2" type="submit" class="submitbutton_green" id="Submit" value="SIGN ME UP">
+                    <input name="Submit2" type="submit" class="submitbutton_green" id="SubmitFooter" value="">
                     <input type="hidden" name="EMAIL_SOURCE" value="GAIAM_COM">
                     <input type="hidden" name="EMAIL_SOURCE_DETAIL" value="GLOBAL_FOOTER">
                     <br>
@@ -1448,11 +1404,12 @@ function MM_preloadImages() { //v3.0
           <a href="/category/customer-service/satisfaction-guaranteed.do">Satisfaction Guaranteed</a><br>
           <a href="/category/customer+service/shipping-information.do">Shipping Information </a><br>
           <a href="http://www.zoomerang.com/Survey/WEB224MYHGZ5FM">Submit a Testimonial</a><br>
-          <a href="/category/subscription/subscribe.do">Email Subscribe</a><br></td>
+          <a href="/category/subscription/subscribe.do">Email Subscribe</a><br>
+		  <a href="/mobile.do">View On A Mobile Device</a><br></td>
         <td width="1" valign="top" bgcolor="#CCCCCC"></td>
         <td valign="top" class="bttmnav"><strong>Quick Links</strong><br>
           <a href="http://www.gaiam.com/" target="_blank">Gaiam Main Page</a><br>
-          <a href="/catalogQuickShop.do">Catalog Quick Shop</a><br>
+		  <a href="/catalogQuickShop.do">Catalog Quick Shop</a><br>
           <a href="/category/online+catalogs.do">Browse Online Catalogs</a><br>
           <a href="/ancillary/catalogrequest.do">Request A Catalog</a><br>
           <a href="/text/pdf/Order_Form.pdf" rel="nofollow">Order Form PDF</a><br>
@@ -1465,11 +1422,12 @@ function MM_preloadImages() { //v3.0
           <a href="http://corporate.gaiam.com/">Corporate Site</a><br>
           <a href="/category/conscious-commerce.do">Conscious Commerce </a><br>
           <a href="/category/company-info/social-responsibility.do">Social Responsibility</a><br>
-          <a href="/category/company-info/social-responsibility.do">Investor Relations</a><br>
+		  <a href="/category/corporate/retail-store.do">Boulder, CO Retail Store</a><br>
+          <a href="http://corporate.gaiam.com" targe="_blank">Investor Relations</a><br>
           <a href="/category/company-info/press-media-inquiries.do">Press / Media Inquiries</a><br>
           <a href="/category/company-info/international.do">International</a><br>
           <a href="/category/company-info/affiliate-program.do">Affiliate Program</a><br>
-          <a href="https://apps.irecruit-us.com/82/listings.php?OrgID=I20100605" target="_blank">Careers at Gaiam</a><br>
+          <a href="https://www.irecruit-us.com/listings.php?OrgID=I20100605" target="_blank">Careers at Gaiam</a><br>
           <a href="/ancillary/sitemap.do">Site Map</a></td>
         <td width="1" valign="top" bgcolor="#CCCCCC"></td>
         <td valign="top" class="bttmnav"><strong>Popular Searches</strong><br>
@@ -1489,10 +1447,11 @@ function MM_preloadImages() { //v3.0
           <a href="/category/eco-home-outdoor/outdoor/composting.do">Composters</a></td>
         <td width="1" valign="top" bgcolor="#CCCCCC"></td>
         <td valign="top" class="bttmnav"><strong>Gaiam Network</strong><br>
-          <a href="http://www.gaiamyogaclub.com/" target="_blank">Gaiam Yoga Club</a><br>
+          <a href="http://www.gaiamtv.com/?utm_source=Gaiam&amp;utm_medium=LandingPg&amp;utm_campaign=GaiamFooter" target="_blank">Gaiam TV</a><br>
+		  <a href="http://www.gaiamyogastudio.com/?utm_source=Gaiam&amp;utm_medium=LandingPg&amp;utm_campaign=GaiamFooter" target="_blank">Gaiam Yoga Studio</a><br>
           <a href="http://life.gaiam.com/" target="_blank">Gaiam Life Magazine</a><br>
           <a href="http://www.spiritualcinemacircle.com/" target="_blank">Spiritual Cinema Circle</a><br>
-          <a href="http://www.nathab.com/polar-bear-tours" target="_blank">Nathab Adventure Travel</a><br>
+          <a href="http://www.nathab.com/polar-bear-tours/" title="polar bear tours" target="_blank">Nathab Adventure Travel</a><br>
           <a href="http://www.gaiamuniversity.com" target="_blank">Gaiam University</a><br>
           <a href="http://blog.gaiam.com/" target="_blank">Gaiam Blog</a><br>
           <a href="http://www.youtube.com/user/gaiam" target="_blank">Gaiam on YouTube</a><br>
@@ -1519,7 +1478,7 @@ function MM_preloadImages() { //v3.0
         <td width="400" valign="top"><p class="bttmnav">For assistance, call toll free <strong>(877) 989-6321</strong>, 7AM-6PM MST, M-F <br>
           <a href="/category/customer+service/privacy+and+security.do">Privacy Policy</a> | <a href="/category/customer+service/terms+of+use.do">Terms of Use</a><br>
           <br>
-          © 2011 Gaiam, Inc. - All Rights Reserved</p></td>
+          © 2012 Gaiam, Inc. - All Rights Reserved</p></td>
         <td><a href="/category/customer+service/satisfaction+guaranteed.do"><img src="/text/content/bottom_email_bar/images/gaiam_satisfaction_guarantee.gif" alt="Gaiam guarantees your satisfaction 100%" width="164" height="84" border="0" name="imgopacity" id="imgopacity"></a></td>
         <td><a href="/category/customer-service/green+packaging.do"><img src="/text/content/bottom_email_bar/images/gaiam_green_packaging.gif" alt="Gaiam's green packaging - ugly boxes save trees." width="164" height="84" border="0" name="imgopacity" id="imgopacity"></a></td>
         <td><img src="/images/set_a/en_us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
@@ -1529,23 +1488,7 @@ function MM_preloadImages() { //v3.0
         <td><a target="_blank" href="https://www.scanalert.com/RatingVerify? rel=" nofollow"=""> <img width="115" height="32" border="0" src="https://images.scanalert.com/meter/www.gaiam.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" name="imgopacity" id="imgopacity"> </a></td>
         </tr>
     </tbody></table>
-      <script type="text/javascript">
-var xp;
-var d;
-function showMenu(l)
-{
-	if (d==l) window.clearTimeout(xp);
-	document.getElementById(l).style.display="block";
-}
-function hideMenu(l)
-{
-	d=l;
-	xp = window.setTimeout('document.getElementById(d).style.display="none"',5);
-}
-      </script>
-      <!-- i2a tracking code-->
-    <script type="text/javascript" src="/includes/i2a.js">
-      </script></td>
+      </td>
   </tr>
 
 
@@ -1561,6 +1504,9 @@ function hideMenu(l)
   
   
 
+  
+  
+  
   
   
 
@@ -1646,7 +1592,7 @@ function getId() {
   return "mlgaiam58prod"
 }
 function getSerializationID() {
-  return "8773095"
+  return "9496023"
 }
 </script>
 <script language="JavaScript" type="text/javascript" src="/omniture/s_code.js"></script><img name="s_i_mlgaiam58prod" height="1" width="1" border="0" alt="">
@@ -1655,7 +1601,7 @@ function getSerializationID() {
 
 
 
-    var oOmnitureJSON = {"eVar4":"Customer Service","eVar5":"Customer Service: Privacy and Security","pageName":"Customer Service - Privacy and Security","eVar15":"Browse","eVar3":"Customer Service","prop2":"Customer Service: Privacy and Security","prop1":"Customer Service","eVar6":"Customer Service: Privacy and Security","prop3":"Customer Service: Privacy and Security","channel":"Customer Service"};
+    var oOmnitureJSON = {"eVar4":"Customer Service","eVar5":"Customer Service: Privacy and Security","pageName":"Customer Service - Privacy and Security","eVar3":"Customer Service","prop2":"Customer Service: Privacy and Security","prop1":"Customer Service","eVar6":"Customer Service: Privacy and Security","prop3":"Customer Service: Privacy and Security","channel":"Customer Service"};
 
     parseOmnitureJSON(oOmnitureJSON);
 
@@ -1732,6 +1678,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
 
 
+
  
 
 
@@ -1739,6 +1686,10 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
 
 
+<script type="text/javascript" src="//824-ct.c3tag.com/c3metrics-824.js"></script>
+<!-- Begin Hiconversion Body Enabling. Do NOT move. Must come directly before the closing body tag -->
+<script id="hiconversion_body_script" type="text/javascript">if (typeof hiconversion_body_update == 'function') hiconversion_body_update()</script>
+<!-- End Hiconversion Body Enabling -->
 
 <script type="text/javascript" src="/includes/footerScripts.js"></script>
 
