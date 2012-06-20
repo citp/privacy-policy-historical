@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the uksmallbusinessdirectory.co.uk privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207232657id_/http%3A//www.uksmallbusinessdirectory.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uksmallbusinessdirectory.co.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620132633id_/http%3A//www.uksmallbusinessdirectory.co.uk/privacy.htm) for the most accurate reproduction.*
 
-# UK Small Business Directory - privacy policy 3/05/10
-
-  
-
+# UK Small Business Directory - privacy policy
 
 ## Privacy policy
 
@@ -207,27 +204,21 @@ CV365HG
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-The UK Small Business Directory is owned and run by Access Appraisals Ltd. a company registered in England and Wales and with the company number 4537420.  
+  
+
+
+## Contact the UK Small Business Directory
+
+The UK Small Business Directory is a division of Access Appraisals Ltd. a company registered in England and Wales (company no. 4537420 and VAT no. 812 494925) Access Appraisals Ltd. are registered under the Data Protection act with the registration number Z9389941 For further information, please contact Mr.T J Simmonds.
+
 Our registered address is;
 
-KENTON HOUSE  
-OXFORD STREET  
-MORETON-IN-MARSH  
-GLOUCESTERSHIRE  
+Kenton House  
+Oxford Street  
+Moreton-in-Marsh  
+Gloucestershire  
 GL56 0LA
 
 and our business address is;
 
-Access Appraisals Ltd.  
-The White Cottage  
-Stourton  
-Shipston-on-Stour  
-Warwickshire  
-CV365HG  
-[tj@uksbd.co.uk](mailto:tj@uksbd.co.uk)  
-01608 685039
-
-Access Appraisals Ltd. are registered under the Data Protection act with the registration number Z9389941  
-For further information, please contact Mr.T J Simmonds either at the address, email or phone number listed above. 
-
-[Terms & Conditions](http://www.uksmallbusinessdirectory.co.uk/terms-and-conditions.html)
+[Contact](http://www.uksmallbusinessdirectory.co.uk/contact.asp) : [Premier](http://www.uksmallbusinessdirectory.co.uk/premier.htm) : [How To](http://www.uksmallbusinessdirectory.co.uk/how-to/) : [IT Services](http://www.uksmallbusinessdirectory.co.uk/it.htm) : [Business Services](http://www.uksmallbusinessdirectory.co.uk/business-services.htm) : [Business Insurance](http://www.uksmallbusinessdirectory.co.uk/insurance/) : [Search Engine Optimisation](http://www.uksmallbusinessdirectory.co.uk/search-engine-optimisation.htm) : [Online Marketing](http://www.uksmallbusinessdirectory.co.uk/online-marketing.htm) : [Website Design](http://www.uksmallbusinessdirectory.co.uk/website-design.htm) : [Free Online Advertising](http://www.uksmallbusinessdirectory.co.uk/advertising.html) : [Business Mobiles](http://www.uksmallbusinessdirectory.co.uk/Uksbdphones/business-mobile-phones.html) : [Full Listings](http://www.uksmallbusinessdirectory.co.uk/full_list.asp) : [Help](http://www.uksmallbusinessdirectory.co.uk/help.html)
