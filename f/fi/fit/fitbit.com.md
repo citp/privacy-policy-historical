@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitbit.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228134222id_/http%3A//www.fitbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitbit.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620180827id_/http%3A//www.fitbit.com/privacy) for the most accurate reproduction.*
 
 # Fitbit Privacy Policy
 
@@ -28,24 +28,24 @@ Fitbit uses your personal information to:
   * Deliver to you any administrative notices and communications relevant to your use of the Fitbit Products and Service;
   * Provide you with updates regarding Fitbit Products and Services;
   * Perform internal market research, project planning, troubleshooting problems, and to detect and protect against error, fraud or other criminal activity;
-  * Enforce the Fitbit Terms of Use.
+  * Enforce the Fitbit Terms of Use; and
 
 
 
 ## Disclosure to Third Parties
 
-At times Fitbit may make certain personal information available to strategic partners that work with Fitbit to provide services to you. For example, if you elect to sync your Fitbit Product data with a third party nutrition or fitness application, we will share your personal information with that application. In such cases, your account with such third party will continue to be subject to that third party's privacy policy and your Fitbit User Account will continue to be governed by this Policy. 
+At times Fitbit may make certain personal information available to strategic partners that work with Fitbit to provide services to you. For example, if you elect to sync your Fitbit Product data with a third party nutrition or fitness application, we will share your personal information with that application. In such cases, your account with such third party will continue to be subject to that third party's privacy policy and your Fitbit User Account will continue to be governed by this Policy.
 
-Fitbit may also share your personal information with companies who provide services such as information processing, order fulfillment, product delivery, customer data management, customer research and the like. These companies are obligated to protect your information and may be located wherever Fitbit does business. 
+Fitbit may also share your personal information with companies who provide services such as information processing, order fulfillment, product delivery, customer data management, customer research and the like. These companies are obligated to protect your information and may be located wherever Fitbit does business.
 
-We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users or if we are required to do so by any applicable law, rule, regulation, subpoena or other legal process. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party. 
+We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users or if we are required to do so by any applicable law, rule, regulation, subpoena or other legal process. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
 
 ## Use of Aggregated Anonymous User Data
 
 Fitbit may disclose non-personally identifiable aggregated user data, such as aggregated gender, age, height, weight, and usage data gathered from Fitbit devices (without the inclusion of a user's name or other identifying information) to:
 
   * Organizations approved by Fitbit that conduct consumer research into health and wellness;
-  * Users of the Service for purposes of comparison of their personal health and wellness situation relative to the broader community;
+  * Users of the Service for purposes of comparison of their personal health and wellness situation relative to the broader community; and
   * Advertisers and other third parties for their marketing and promotional purposes.
 
 
@@ -60,13 +60,13 @@ If you choose to delete cookies from your device or block them from being stored
 
 "Web beacons" are images embedded in a Web page or email for the purpose of measuring and analyzing Site usage and activity. Fitbit, or third party service providers acting on our behalf, may use Web beacons to help us analyze Site usage and improve the Service.
 
-We may use third party service providers to help us analyze certain online activities and improve our products and the Service. For example, these service providers may help us measure the performance of our online campaigns or analyze visitor activity on Fitbit.com. We may permit these service providers to use cookies and other technologies to perform these services for Fitbit. We do not share any personal information about our customers with these third party service providers, and these service providers do not collect such information on our behalf. Our third party service providers are required to comply fully with this Policy. 
+We may use third party service providers to help us analyze certain online activities and improve our products and the Service. For example, these service providers may help us measure the performance of our online campaigns or analyze visitor activity on Fitbit.com. We may permit these service providers to use cookies and other technologies to perform these services for Fitbit. We do not share any personal information about our customers with these third party service providers, and these service providers do not collect such information on our behalf. Our third party service providers are required to comply fully with this Policy.
 
 ## Information You Elect to Share With Others
 
 If you use a message board, blog, journal or any other method of posting user-generated content on our Site or through the Service, you should be aware that such information can be read, collected or used by others and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these areas.
 
-Through the Service, Fitbit enables you to share information with others. Many users find this to be an important motivator in achieving their fitness goals. Fitbit is dedicated to providing you with full control of your personal data. As such, Fitbit provides you with privacy settings, which you can change at any time by visiting [www.fitbit.com/user/profile/privacy](https://web.archive.org/user/profile/privacy). Fitbit generally allows you to set categories or pieces of data to be private, viewable to friends only, or viewable to the public. We encourage you to consider these privacy settings before sharing information on the Site or through the Service, and to periodically review your privacy settings and adjust them in accordance with your preferences. 
+Through the Service, Fitbit enables you to share information with others. Many users find this to be an important motivator in achieving their fitness goals. Fitbit is dedicated to providing you with full control of your personal data. As such, Fitbit provides you with privacy settings, which you can change at any time by visiting [www.fitbit.com/user/profile/privacy](https://web.archive.org/user/profile/privacy). Fitbit generally allows you to set categories or pieces of data to be private, viewable to friends only, or viewable to the public. We encourage you to consider these privacy settings before sharing information on the Site or through the Service, and to periodically review your privacy settings and adjust them in accordance with your preferences.
 
 Fitbit's default settings for new users who signed up for a Fitbit account on or after August 8, 2011 are as follows:
 
@@ -82,47 +82,53 @@ Generally, Fitbit limits search engine access to the Site, and instructs search 
 
 ## Third Party Products or Services Offered Through the Fitbit Site
 
-There are a number of separate products and services offered by third parties advertised by us on our Site and through the Service that may be complementary to your use of the Fitbit Products or Service, such as health clubs, weight loss programs and sports and fitness equipment makers (collectively, "Fitbit Offers"). If you choose to use these separate products or services, disclose information to the providers, or grant them permission to collect information about you, then their use of your information is governed by their privacy policies. You should evaluate the practices of external service providers before deciding to use their services. Fitbit is not responsible for their privacy practices. If you click on a link to a third party site, Fitbit encourages you to check the privacy policy of that site. Fitbit may present links in a format that enables us to keep track of whether these links have been followed and whether any action has been taken on a third party web site. We use this information to improve the quality of the Fitbit Offers and customized content on the Service. 
+There are a number of separate products and services offered by third parties advertised by us on our Site and through the Service that may be complementary to your use of the Fitbit Products or Service, such as health clubs, weight loss programs and sports and fitness equipment makers (collectively, "Fitbit Offers"). If you choose to use these separate products or services, disclose information to the providers, or grant them permission to collect information about you, then their use of your information is governed by their privacy policies. You should evaluate the practices of external service providers before deciding to use their services. Fitbit is not responsible for their privacy practices. If you click on a link to a third party site, Fitbit encourages you to check the privacy policy of that site. Fitbit may present links in a format that enables us to keep track of whether these links have been followed and whether any action has been taken on a third party web site. We use this information to improve the quality of the Fitbit Offers and customized content on the Service.
 
 Third parties offering products or services will not be given your personal information without your explicit permission.
 
 ## Contests, Giveaways and Surveys
 
-From time to time, Fitbit may offer you the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with such activities will be treated in accordance with this Policy, except as specifically set forth in the rules for those contests, giveaways or promotions. From time to time, Fitbit may also ask you to participate in surveys designed to help Fitbit improve the Service. Any personal information provided to Fitbit in connection with any survey will be used only in relation to that survey and as elsewhere set forth in this Policy. 
+From time to time, Fitbit may offer you the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with such activities will be treated in accordance with this Policy, except as specifically set forth in the rules for those contests, giveaways or promotions. From time to time, Fitbit may also ask you to participate in surveys designed to help Fitbit improve the Service. Any personal information provided to Fitbit in connection with any survey will be used only in relation to that survey and as elsewhere set forth in this Policy.
 
 ## Children
 
-We do not knowingly collect any personal information from children under 13. If we discover that a child under the age of 13 has provided us with personally identifying information, we will take steps to delete the information as soon as possible. 
+We do not knowingly collect any personal information from children under 13. If we discover that a child under the age of 13 has provided us with personally identifying information, we will take steps to delete the information as soon as possible.
 
 ## Your Right to Delete Your Data
 
-If you would like to cancel your Fitbit account you may do so by emailing customer support at [support@fitbit.com](mailto:support@fitbit.com). When you request cancellation of your account, your personally identifiable information will be deleted, including but not limited your email address, name, photo(s), friends list and links to social and partner sites such as Facebook Twitter, and Google Health. Archival copies of your account information that exist within our back-up system will be deleted in accordance with our normal back-up expiration schedule. Following cancellation or termination of your account, Fitbit may continue to utilize de-identified and anonymized historical data associated with your use of the Fitbit Products. In addition, please note that if you checked the "Allow My Profile to be Found" box in your account settings, a cached version of your profile may continue to be visible to others through search engines. 
+If you would like to cancel your Fitbit account you may do so by emailing [our support](http://help.fitbit.com/customer/portal/emails/new) . When you request cancellation of your account, your personally identifiable information will be deleted, including but not limited your email address, name, photo(s), friends list and links to social and partner sites such as Facebook Twitter, and Google Health. Archival copies of your account information that exist within our back-up system will be deleted in accordance with our normal back-up expiration schedule. Following cancellation or termination of your account, Fitbit may continue to utilize de-identified and anonymized historical data associated with your use of the Fitbit Products. In addition, please note that if you checked the "Allow My Profile to be Found" box in your account settings, a cached version of your profile may continue to be visible to others through search engines. 
 
 ## Email Communications From Us
 
-We may provide our registered customers with weekly summaries of their User Account data and email alerts. We also allow users to subscribe to email newsletters and from time to time may transmit emails promoting Fitbit or third-party goods or services. 
+We may provide our registered customers with weekly summaries of their User Account data and email alerts. We also allow users to subscribe to email newsletters and from time to time may transmit emails promoting Fitbit or third-party goods or services.
 
-Fitbit subscribers have the ability to opt-out of receiving our weekly summaries and promotional emails and to terminate their newsletter subscriptions by following the instructions provided in such emails. 
+Fitbit subscribers have the ability to opt-out of receiving our weekly summaries and promotional emails and to terminate their newsletter subscriptions by following the instructions provided in such emails.
 
-Opting out in this manner will not end transmission of service-related emails, such as email alerts. 
+Opting out in this manner will not end transmission of service-related emails, such as email alerts.
 
 ## Data Security
 
-We use a combination of firewall barriers, encryption techniques and authentication procedures, among others, to maintain the security of your data and to protect Fitbit accounts and systems from unauthorized access. 
+We use a combination of firewall barriers, encryption techniques and authentication procedures, among others, to maintain the security of your data and to protect Fitbit accounts and systems from unauthorized access.
 
-When you register for the Service, Fitbit requires a password from you for your privacy and security. This password is stored in an encrypted fashion on our systems. 
+When you register for the Service, Fitbit requires a password from you for your privacy and security. This password is stored in an encrypted fashion on our systems.
 
-It is important to understand that these precautions apply only to our Site and systems. We exercise no control over how your information is stored, maintained or displayed by third parties or on third-party sites. 
+It is important to understand that these precautions apply only to our Site and systems. We exercise no control over how your information is stored, maintained or displayed by third parties or on third-party sites.
 
-## Non-U.S. users
+## Privacy Complaints by European Union Citizens
 
-Fitbit's Services are hosted and operated entirely in the United States and are subject to United States law. Any personal information that you provide to Fitbit is being provided to Fitbit solely in the United States and will be hosted on United States servers. You consent to the transfer of your personal information to the United States. If you are accessing the Fitbit Services from outside the United States, please be advised that United States law may not offer the same privacy protections as the law of your jurisdiction. 
+Fitbit's Services are hosted and operated entirely in the United States and are subject to United States law. Any personal information that you provide to Fitbit is being provided to Fitbit solely in the United States and will be hosted on United States servers. You consent to the transfer of your personal information to the United States. If you are accessing the Fitbit Services from outside the United States, please be advised that United States law may not offer the same privacy protections as the law of your jurisdiction.
+
+Fitbit complies with the U.S. - EU Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Fitbit has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the Safe Harbor Principles, Fitbit commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first [contact support](http://help.fitbit.com/customer/portal/emails/new) .
+
+Fitbit has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed Fitbit, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ## Your Responsibility for Maintaining the Confidentiality of your Login ID and Password
 
-You are responsible for maintaining the security of your login ID and password. If you believe that your login ID or password have been compromised you should immediately change your password and contact us at [support@fitbit.com](mailto:support@fitbit.com). We are not responsible if someone else accesses your account through registration information they have obtained from you or through a violation by you of this Policy or the Fitbit Terms of Use. 
+You are responsible for maintaining the security of your login ID and password. If you believe that your login ID or password have been compromised you should immediately change your password and [contact support](http://help.fitbit.com/customer/portal/emails/new) . We are not responsible if someone else accesses your account through registration information they have obtained from you or through a violation by you of this Policy or the Fitbit Terms of Use. 
 
-If you have a security related concern, please contact us at [support@fitbit.com](mailto:support@fitbit.com). 
+If you have a security related concern, please [contact support](http://help.fitbit.com/customer/portal/emails/new) . 
 
 ## Updates to this Policy
 
@@ -130,6 +136,6 @@ We may update this Policy periodically. The date last revised appears at the bot
 
 ## Contact us if you have any questions or concerns
 
-If you have questions, comments, concerns or feedback regarding this Policy or any other privacy or security concern, send an e-mail to [support@fitbit.com](mailto:support@fitbit.com). 
+If you have questions, comments, concerns or feedback regarding this Policy or any other privacy or security concern, send an e-mail to [our support](http://help.fitbit.com/customer/portal/emails/new) . 
 
-This policy was last updated on December 15, 2011. 
+This policy was last updated on January 6, 2012. 
