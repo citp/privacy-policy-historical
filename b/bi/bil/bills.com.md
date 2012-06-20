@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bills.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201034149id_/http%3A//www.bills.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bills.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620023847id_/http%3A//www.bills.com/privacypolicy) for the most accurate reproduction.*
 
-# 
-
-## Privacy Policy
+# Privacy Policy
 
 **_Bills.com Privacy Policy_**  
 Last updated: April 15, 2011.
