@@ -1,39 +1,21 @@
-> *The following text is extracted and transformed from the budgettravel.ie privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231114907id_/http%3A//www.budgettravel.ie/Footer-Menu/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgettravel.ie privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620215744id_/http%3A//www.budgettravel.ie/privacy-policy/privacy-policy.asp) for the most accurate reproduction.*
 
-# Cheap Holidays, Last Minute Holiday & Package Holidays - Budget Travel Ireland
+# Budget Travel | Last Minute Holidays from Ireland, Cheap Sun Package Holidays from Ireland, Cheap All Inclusive Sun Package Holidays and Deals
 
-#### Booking Online
+Club Travel Limited trades under the following brand names – 
 
-As a valued Budget Travel customer, your personal privacy is very important to us. We take great care with personal information that is provided to us on-line, taking steps to keep it secure and to ensure it is used only for legitimate purposes. By using the Budget Travel website, you accept the practices described in this privacy policy. We may update our privacy policy from time to time to take account of changing requirements such as changes in technology or legislation and we request that you refer back to this privacy policy frequently to become aware of any such revisions. In addition we recommend that you review the private policy of any other website accessed through the Budget travel website as these sites may be subject to different privacy practices. Budget Travel Limited shall not be responsible for these websites or the information made available thereon.
+ClubTravel, Go4Less, Budget Travel, Destinations Worldwide Holidays, Australian Holidays, 1800Hotels, Caribbean Collection, Travel4students, HRG, EasyFare, TravelCare, Go South America, Escape2, Eurasia.
 
-#### Use of Customer Information
+As a valued Club Travel customer, your personal privacy is very important to us. This page outlines our policy concerning personal information. By using the Club Travel website, you accept the practices described in this Privacy Policy. We may update our Privacy Policy from time to time to take account of changing requirements such as changes in technology or legislation, and request that you refer back to this Policy frequently to become aware of any such revisions. In addition, we recommend that you review the privacy policy of any website accessed through the Club Travel website as these sites may be subject to different privacy practices. Club Travel is not responsible for these websites or for the information made available thereon.
 
-Your information is collected when you request information from us, contact us or make a booking with us. We will up-date your information whenever we get the opportunity to keep it current, accurate and complete.
+When you purchase flights online or access your personal profile you can do so through a secure server. The use of Secure Socket Layer (SSL) technology means that all personal information, such as your credit card number, will be encrypted as it travels from your computer to the Club Travel Online Booking Engine. When received, the information is decrypted and processed in the same way as a normal credit card transaction by telephone.
 
-Any information obtained via this website or any other website controlled by Budget Travel Limited will be used by Budget Travel Limited to identify you as a customer, to process your booking, to verify credit or other charge card details and to deliver relevant information to you in connection with your travel and any other ancillary services which you may wish to avail of. For these purposes, we may transit your personal information to our own offices, authorized agents, other carriers and services providers, credit and charge card companies and data processing companies working on our behalf. Your personal information and any records relating to your travel will also be retained for audit functions. We ask for your telephone number so that we can contact your urgently if there is a problem with your reservation.
+If your browser supports SSL, and if you entered our site via our secure server access, then transmission of any sensitive data will be protected. If your browser does not support SSL, we recommend that you upgrade to the latest version of any browser to enhance the security of further transactions, otherwise the transmission of your personal data may not be protected and Club Travel disclaims any responsibility in this regard.
 
-We may use the information collected by us to notify you about new Budget Travel services, important operational changes and special offers that we think you will find valuable.
+We use your personal information to identify you as a customer, to process your booking, to verify credit or other charge card details (if applicable) and to deliver relevant information to you in connection with your travel and any ancillary services which you may wish to avail of. Your information may also be used for immigration and customs control (see further below), security, administrative and legal purposes. For these purposes, we may transmit your personal information to our own offices, authorised agents, other carriers and service providers, credit and charge card companies, data processing companies working on our behalf and to government agencies. Some of these entities may be located outside the European Economic Area. Your personal information and any records relating to your air travel will also be retained for audit functions. 
 
-Some of your information may be considered sensitive personal data under the EU Data Protection Directive, for example information relating to health. Should this arise, we will require you to consent to the use of such information. We will endeavor to draw your attention to this if it applies, when you first supply us with your information.
+Laws in force in the USA require Club Travel to collect certain information from all passengers travelling to and from the USA, prior to travel. This information includes information held in the machine-readable zone (MRZ) of your passport (passport number, country of issue, passport expiry date, given names, last name, gender and date of birth) together with other information which is not held in the MRZ of your passport (country of residence, citizenship, alien registration card number, destination address in the USA).
 
-#### Direct Marketing Material
+In addition, under U.S. Law, U.S. Customs and Border Protection (CBP) will receive certain travel and reservation information, known as Passenger Name Record or PNR data, about passengers flying between the European Union and the U.S. CBP has undertaken that it uses this PNR data for the purposes of preventing and combating terrorism and other transnational serious crimes. The PNR may include information provided during the booking process or held by airlines or travel agents. The information will be retained for at least three years and six months and may be shared with other authorities.
 
-If you do not want to receive any marketing material from us, you may indicate this us when making your booking on our website. If you change your mind you should inform us in writing.
-
-#### Use of "Cookies" and Links to Other Websites
-
-If our contract and dealing with you is via our website, we may use "cookies", which is a small piece of data sent from our web server to your computer and stored in a text file on your hard drive. Cookies allow us to identify your computer but not you personally. You can set your web browser to refuse cookies. We use cookies to measure site usage and related information. If you are making a purchase, we may also use cookies to keep track of the transaction from one web page to another.
-
-Our website may contain links to other websites not controlled by us. These sites may send you cookies and collect data and personal information. We are not responsible for the actions, content or the privacy policies of those websites to which our website may link.
-
-#### Confidentiality and Security of Personal Information
-
-When you book a holiday on-line, we offer the use of secure software that encrypts all information you input before it is sent to us. The use of Secure Socket Layer (SSL) Technology means that all personal information, such as your credit card number will be encrypted as it travels from your computer to the Budget Travel on-line booking engine. When received, the information is decrypted and processed in the same way as a normal credit card transaction by telephone. If your browser supports SSL, and if you entered our site via our secure server access, then transmission of any sensitive data would be protected.
-
-If your browser does not support SSL we recommend that you upgrade to the latest version of any browser to enhance the security of further transactions, otherwise transmission of your personal data may not be protected and Budget Travel disclaims any responsibility in this regard. We have taken all reasonable steps to have in place appropriate security measures to protect your information.
-
-#### Making Corrections and Contacting Us
-
-If you need to alter your details for any reason you may do so by writing to the Marketing Department at 134 Lwr Baggot Street, Dublin 2.
-
-You may withdraw your consent to the use of your personal information for any purposes, other than the fulfillment of a booking, by writing to us at the above address.
+Further information about these arrangements, including measures to safeguard your personal data, can be obtained on [www.dhs.gov](http://www.dhs.gov/) and [ec.europa.eu](http://ec.europa.eu/).
