@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minecraft-server-list.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204181020id_/http%3A//minecraft-server-list.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-server-list.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620115412id_/http%3A//minecraft-server-list.com/minelog/privacy) for the most accurate reproduction.*
 
-# Privacy Policy / Statement for Minecraft Server List
+# Privacy Policy / Statement - Minecraft-server-list.com | Minecraft Server List Minelog
 
 Minecraft-server-list.com will only collect and use information from our users to be able to make a better and more reliable service for our users. All data we collect will never be shared with any third-party, but only used in-house to improve the site.
 
@@ -8,7 +8,8 @@ If you got any specific questions or seek more information about this, please co
 
  **Type of data our server will collect:**  
 **Cookies:**  
-We use cookies to store information about users, to be able to deliver users the same preferences as used on earlier visits. We record which pages users visit, IP address, browser type, time on site, referring pages. We do not publish any of this, but simply use it to improve this service.
+We use cookies to store information about users, to be able to deliver users the same preferences as used on earlier visits. We record which pages users visit, IP address, browser type, time on site, referring pages. We do not publish any of this, but simply use it to improve this service.  
+Cookie will also be stored if you select the “Remember me” checkbox on login. This is to store your details to keep you logged in. You can click Logout to clear this cookie.
 
  **Statistics / Logs:**  
 We use 2 third-party statistic modules (Livewebstats.dk and Google Analytics) whom also place a cookie and collect visitor data. Again these data are only avaliable to Minecraft-server-list.com and will not be shared with any third-party.
@@ -36,3 +37,8 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 Privacy policies have been updated: 2011.04.14
+
+ **GD Star Rating**  
+ _a WordPress rating system_
+
+Privacy Policy / Statement - Minecraft-server-list.com, 6.3 out of 10 based on 8 ratings 
