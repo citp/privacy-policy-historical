@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openvpn.net privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113062714id_/http%3A//www.openvpn.net/index.php/component/content/article/479.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openvpn.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620210555id_/http%3A//openvpn.net/index.php/component/content/article/479.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.openvpn.net](http://www.openvpn.net/index.php/component/content/article/481.html)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.openvpn.net](http://openvpn.net/index.php/component/content/article/481.html)
 
  **Your Consent**
 
