@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponsnapshot.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204032529id_/http%3A//www.couponsnapshot.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsnapshot.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620152617id_/http%3A//www.couponsnapshot.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CouponSnapshot
 
@@ -8,7 +8,7 @@ CouponSnapshot is committed to safeguarding your privacy online. Please read the
 
 ### Personal Data
 
-Only a user's email address is collected when users provide registration to CouponSnapshot. By registering, you agree that CouponSnapshot may send you periodical emails promoting coupons and specials from the CouponSnapshot merchant base that may be of interest to you. All CouponSnapshot email newsletters may be opted out of by simply clicking on a link within each email to remove your email address from the list. Email addresses are never shared or sold to third-party marketers or third-party agencies.
+Only a user's email address is collected when users provide registration to CouponSnapshot. By registering, you agree that CouponSnapshot may send you periodical emails promoting coupons and specials from the CouponSnapshot merchant base that may be of interest to you. Email addresses are never shared or sold to third-party marketers or third-party agencies.
 
 ### Aggregated Information
 
@@ -27,12 +27,21 @@ CouponSnapshot encourages parents and guardians to spend time with their childre
 Individuals under 13  
 No information should be submitted to or posted on CouponSnapshot by users under the age of 13 years without consent of their parent or guardian. CouponSnapshot does not provide any personally-identifying information for users under the age of 13, regardless of its source, to any third party for any purpose whatsoever unless disclosed during collection.
 
+### Newsletter & Coupon Alert
+
+CouponSnapshot sends newsletter or coupon alert based on your needs. Newsletter is periodical emails with promoting coupons from CouponSnapshot merchant, regularly once a week. Coupon Alert is aperiodically emails with promoting informaitons of merchants or products you subscribed.  
+Once successfully registering means you accept our privacy policy. CouponSnapshot may send you coupon alert and newsletter. Besides, if you want to opt out, just click "Unsubscribe Here" at the bottom of newsletter or coupon alert.
+
 ### Links to Other Sites
 
-CouponSnapshot contains links to sites other than CouponSnapshot; those sites may not follow the same privacy policies as CouponSnapshot. 
+CouponSnapshot contains links to sites other than CouponSnapshot; those sites may not follow the same privacy policies as CouponSnapshot.
 
 ### Effect of Privacy Policy
 
-This privacy policy is not intended to and does not create any contractual or legal rights in or on behalf of any party. CouponSnapshot reserves the right to change this privacy policy at any time and users will be notified of any changes made.
+This privacy policy is not intended to and does not create any contractual or legal rights in or on behalf of any party. We may update this privacy policy to this page, and we encourage you to periodically review this page for the latest information about our privacy practices.
+
+### Contact Us
+
+Please contact us if you have any questions or comments about our privacy policy. You can reach us via following address: [support@CouponSnapshot.com](mailto:support@CouponSnapshot.com)
 
 **USE OF THIS SITE SIGNIFIES YOUR CONSENT TO THIS ONLINE PRIVACY POLICY AND THE TERMS AND CONDITIONS OF USE.**
