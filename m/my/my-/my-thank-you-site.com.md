@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-thank-you-site.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206212327id_/http%3A//www.my-thank-you-site.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-thank-you-site.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620020403id_/http%3A//www.my-thank-you-site.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,12 @@ Thank you for coming!
 [ **Thank You Notes**](http://www.my-thank-you-site.com/thank-you-notes.html)
 
   
-**Share this page:  **| | | |   
+**Share this page:  **  
+
+
+What's This?
+
+| | | |   
 ---|---|---|---|---  
 | | |   
   
