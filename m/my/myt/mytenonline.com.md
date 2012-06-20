@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytenonline.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218211406id_/http%3A//mytenonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytenonline.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620040755id_/http%3A//www.mytenonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : My10Online
+# Privacy Policy | My10Online
 
 You are here: [Home](http://my10online.com/) / Privacy Policy
 
