@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the youtorrent.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231143516id_/http%3A//www.youtorrent.com/p/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the youtorrent.com privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620091845id_/http%3A//www.youtorrent.com/p/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -36,28 +36,51 @@
   })();
 </script>
 
-</head>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 <body onload="breakout_of_frame()">
-<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<div id="fb-root"></div>
 <script>
-window.fbAsyncInit = function() {
-  FB.init({appId: '37763829845', status: true, cookie: true, xfbml: true});
-  FB.Event.subscribe('auth.sessionChange', function(response) {
-    if (response.session) {
-      window.location.reload();
-    } else {
-      window.location.reload();
-    }
-  });
-};
-(function() {
-var e = document.createElement('script');
-e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-e.async = true;
-document.getElementById('fb-root').appendChild(e);
-}());
+
+	window.fbAsyncInit = function() {
+    	FB.init({
+			appId      : '37763829845',
+			/*channelUrl : 'http://dev.youtorrent.com/channel.html', // Channel File*/
+			status     : true, // check login status
+			cookie     : true, // enable cookies to allow the server to access the session
+			xfbml      : true  // parse XFBML
+		});
+
+		// Additional initialization code here
+		FB.Event.subscribe('auth.login', function(response) {
+			if ($.browser.mozilla) {
+				window.location.replace("/redirect.php");
+			}
+			else {
+				window.location.reload();
+			}
+		});
+		FB.Event.subscribe('auth.logout', function(response) {
+			if ($.browser.mozilla) {
+				window.location.replace("/redirect.php");
+			}
+			else {
+				window.location.reload();
+			}
+		});    
+  	};
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     d.getElementsByTagName('head')[0].appendChild(js);
+   }(document));
 </script>
+ 
+
+
 <div id="pagecontainer">
 <div id="container">
 	<div id="header">
@@ -78,15 +101,9 @@ document.getElementById('fb-root').appendChild(e);
 			<a href="/browse/all">All</a>
 			<a href="/browse/music">Music</a>
 			<a href="/browse/movies">Movies</a>
-			<a href="/browse/tv">TV</a>
-			<a href="/browse/games">Games</a>
-            
-            <div id="login-status">      
-			<span>|</span>			
-            			<a href="/login">Login</a>
-			<a href="/register">Register</a>
-						
-            </div>
+			<a href="/browse/software">Apps</a>
+			<span>|</span>
+			<a id="client" href="/client">Client</a>
 		</div>
     	
 		<div id="searchbox">
@@ -166,12 +183,12 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 			<a href="/contact">Contact Us</a>
           </div>
           <div class="company">
-             Copyright © 2011 <span id="_rrt" title="0.0354s">YouTorrent</span> | <a href="/p/terms-and-conditions/">Terms and Conditions</a> | <a href="/p/privacy-policy/">Privacy Policy</a>
+             Copyright © 2012 <span id="_rrt" title="0.0385s">YouTorrent</span> | <a href="/p/terms-and-conditions/">Terms and Conditions</a> | <a href="/p/privacy-policy/">Privacy Policy</a>
           </div>
         </div>
         <div class="right">
         
-			<div id="summarydata">Searching 142,421 torrents containing 980,940 files ( 28.82 TBs ) with 207,237 seeds, 16,095 peers</div>
+			<div id="summarydata">Searching 148,789 torrents containing 1,072,339 files ( 32.17 TBs ) with 246,989 seeds, 15,529 peers</div>
 			<div id="blogentry" class="replaceme">Blog: <a href="http://blog.youtorrent.com/2010/09/24/youtorrent-is-ready-for-something-big/" title="YouTorrent is ready for something big!">YouTorrent is ready for something big!</a></div>
         </div>
 	</div>
