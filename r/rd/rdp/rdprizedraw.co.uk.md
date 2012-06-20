@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rdprizedraw.co.uk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228044910id_/http%3A//www.readersdigest.co.uk/about-us/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdprizedraw.co.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620093143id_/http%3A//www.readersdigest.co.uk/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Readers Digest
 
 ** **  
 In over 80 years of providing quality products, Reader's Digest has adhered to the highest standards in assuring our customers' privacy. All information - including customer accounts, transactions, and all correspondence, is handled with the utmost care and in accordance with all legislative requirements.
@@ -55,5 +55,5 @@ Reader's Digest, PO Box 444, Isle of Man, IM99 3ZF
 If you have any further questions about our Privacy Policy or how we manage the information you give us, contact us [here](http://www.readersdigest.co.uk/contact.html "Contact Reader's Digest")
 
   
-( 10 Votes )     
+( 14 Votes )     
 
