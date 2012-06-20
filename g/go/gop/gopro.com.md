@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the gopro.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231115302id_/http%3A//gopro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopro.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620123511id_/http%3A//gopro.com/privacy-policy) for the most accurate reproduction.*
 
 # GoPro.com Privacy Policy
 
 ## About GoPro & This Privacy Policy
 
-Effective Date: 1/1/2010 This Privacy Policy governs the following URL: http://www.goprocamera.com 
+Effective Date: 4/16/2012 
+
+This Privacy Policy governs http://gopro.com
+
+[](https://privacy.truste.com/privacy-seal/GoPro/validation?rid=42516734-1fc6-49a9-8e04-8f540be45b4a "TRUSTe online privacy certification")
 
 ## GoPro Contact Info:
 
@@ -14,25 +18,31 @@ Suite 250
 Half Moon Bay, CA  
 94019
 
-GoPro cares deeply about online privacy. If you have any questions concerning this privacy policy, we can be reached via email by filling out our contact form located at the following URL: [www.goprocamera.com/support](https://web.archive.org/support)
+GoPro cares deeply about online privacy. GoPro complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. GoPro has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, GoPro commits to resolve complaints about your privacy and our collection or use of your personal information. For all inquiries or complaints regarding this privacy policy, including European Union or Swiss citizens, should first contact GoPro filling out our Support contact form here: 
+
+[GoPro.com/support/](https://web.archive.org/support/)
+
+GoPro has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by GoPro, please visit the BBB EU SAFE HARBOR web site for more information and to file a complaint: [BBB.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints).
 
 ## Personally Identifiable User Information
 
 ### Registration
 
-In order to use certain features of this Web site, we request certain personally identifiable information from you on the registration form and/or require you to create a user name and password. During registration you are required to give contact information (such as name and email address). We use this information to contact you about the services or members on our site in which you have expressed interest. You may have the option to provide demographic information such as interests or profession,; we encourage you to submit this information so we can provide you a more personalized customer experience. Types of communications you may elect to receive from GoPro that require use of personally indentifiable information include Customer Service emails in response to order or product related support issues, Special Promotions and Updates to notify you of promotional opportunities, Newsletters to stay abreast of GoPro related news & events, & Product or Service Announcements to advise of temporary service outages or technical product announcements. GoPro is the sole owner of the information collected on GoProCamera.com. GoPro collects personally identifiable information from our users at several different points on our Web site. 
+In order to use certain features of this Web site, we request certain personally identifiable information from you on the registration form and/or require you to create a user name and password. During registration you are required to give contact information (such as name and email address). We use this information to contact you about the services or members on our site in which you have expressed interest. You may have the option to provide demographic information such as interests or profession,; we encourage you to submit this information so we can provide you a more personalized customer experience. Types of communications you may elect to receive from GoPro that require use of personally indentifiable information include Customer Service emails in response to order or product related support issues, Special Promotions and Updates to notify you of promotional opportunities, Newsletters to stay abreast of GoPro related news & events, & Product or Service Announcements to advise of temporary service outages or technical product announcements. GoPro is the sole owner of the information collected on GoPro.com. GoPro collects personally identifiable information from our users at several different points on our Web site.
 
 ### Orders
 
-If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. Types of order-related communications that require use of personal information include Order Confirmation email to confirm the placement, & summarize the contents of your order, Shipping Confirmation email to notify you when your order ships, and Customer Satisfaction Emails to ensure you are satisfied with your GoPro product. 
+If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. Types of order-related communications that require use of personal information include Order Confirmation email to confirm the placement, & summarize the contents of your order, Shipping Confirmation email to notify you when your order ships, and Customer Satisfaction Emails to ensure you are satisfied with your GoPro product.
 
 ### Contest Entries
 
-If you enter a promotion or contest on our site, we require that you provide certain personally identifiable information, including but not limited to your name, address, favorite sports & activities, computer specifications, &website usage preferences. This information is necessary to process your Application and/or Complete Entry, contact you in response to your contest participation, and to improve the GoPro customer experience.. Types of promotion or contest related communications include Complete Entry Confirmation emails confirming your participation in a given promotion or contest, Thank You Emails thanking you for participation in a given promotion or contest, Congratulations Emails advising you that you may have won or advanced to a new stage of a promotion or contest, and Invitations to future contests & events. 
+If you enter a promotion or contest on our site, we require that you provide certain personally identifiable information, including but not limited to your name, address, favorite sports & activities, computer specifications, &website usage preferences. This information is necessary to process your Application and/or Complete Entry, contact you in response to your contest participation, and to improve the GoPro customer experience. Types of promotion or contest related communications include Complete Entry Confirmation emails confirming your participation in a given promotion or contest, Thank You Emails thanking you for participation in a given promotion or contest, Congratulations Emails advising you that you may have won or advanced to a new stage of a promotion or contest, and Invitations to future contests & events.
 
 ## Uses of Information
 
-The website uses both non-personally-identifiable information and personal information to improve the overall GoPro consumer website experience, provide relevant & targeted content to website Visitors, Customers, & opt-in Subscribers, and to provide paying Customers with efficient communications related to their GoPro order. Our websites use non-personally-identifiable to more efficiently inform the general public about GoPro products, services & community activities, and to improve performance of our websites & business services. Our websites use personal information to facilitate communications between GoPro & interested parties, or to enable the purchase & fulfillment of GoPro products & services. 
+The website uses both non-personally-identifiable information and personal information to improve the overall GoPro consumer website experience, provide relevant & targeted content to website Visitors, Customers, & opt-in Subscribers, and to provide paying Customers with efficient communications related to their GoPro order. Our websites use non-personally-identifiable information to more efficiently inform the general public about GoPro products, services & community activities, and to improve performance of our websites & business services. Our websites use personal information to facilitate communications between GoPro & interested parties, or to enable the purchase & fulfillment of GoPro products & services.
 
 ### Email Communications
 
@@ -40,7 +50,7 @@ GoPro will use your name & email address so that we can contact you via email co
 
 ### Orders
 
-If you place an order on GoProCamera.com, we will use your name & email address to send you an Order Confirmation Email, a Shipping Confirmation Email, and Customer Satisfaction Emails. If you do not wish to participate in Customer Satisfaction emails, you may Opt-Out of such emails upon receipt by clicking “Unsubscribe” link contained in the email. 
+If you place an order on GoPro.com, we will use your name & email address to send you an Order Confirmation Email, a Shipping Confirmation Email, and Customer Satisfaction Emails. If you do not wish to participate in Customer Satisfaction emails, you may Opt-Out of such emails upon receipt by clicking “Unsubscribe” link contained in the email.
 
 ### Special Offers and Updates
 
@@ -60,7 +70,7 @@ Based upon the personally identifiable information you provide us at the time of
 
 ### Choice/Opt-out
 
-Upon membership registration and order placement, we provide you the option to NOT receive Newsletters & Special Promotions and Updates emails from GoPro. We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form by leaving the “Opt-In” checkbox blank. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at support@gopro.com. You will be notified when your personally identifiable information is collected by any third party that is not our service provider, so you can make an informed choice as to whether or not to share your information with that party. If you do not wish to have your personally identifiable information shared and want to opt-out from receiving further communications from any third party that is not our agent or service provider. Please contact that 3rd party directly. 
+Upon membership registration and order placement, we provide you the option to NOT receive Newsletters & Special Promotions and Updates emails from GoPro. We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form by leaving the “Opt-In” checkbox blank. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at support@gopro.com. You will be notified when your personally identifiable information is collected by any third party that is not our service provider, so you can make an informed choice as to whether or not to share your information with that party. If you do not wish to have your personally identifiable information shared and want to opt-out from receiving further communications from any third party that is not our agent or service provider, please contact that 3rd party directly.
 
 ## Non-Personally-Identifiable User Information
 
@@ -86,7 +96,7 @@ When you use ShareThis to bookmark and share our products and site, you will be 
 
 ### TRUSTe
 
-GoPro is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site GoProCamera.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Support Team by completing the email contact form located at http://www.goprocamera.com/contact. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint&url= TRUSTe will then serve as a liaison with us to resolve your concerns.
+GoPro is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site GoPro.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Support Team by completing the email contact form located at [http://GoPro.com/support/](https://web.archive.org/support/). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint&url= TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 ## 3rd Party Service Providers
 
@@ -98,11 +108,11 @@ GoPro contains links to other websites. GoPro is not responsible for the privacy
 
 ## Correcting/Updating or Removing Information
 
-GoPro users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile and Account Info. Users may also email us to correct or change any information by filling out our contact form located at the following URL: [http://www.goprocamera.com/support](https://web.archive.org/support)
+GoPro users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile and Account Info. Users may also email us to correct or change any information by filling out our contact form located at [http://GoPro.com/support/](https://web.archive.org/support/)
 
 ## Co-Branded Websites
 
-At times GoPro will partner with 3rd party websites in a co-branded relationship, where a co-branded web page(s) is used to promote GoPro products, services, photos or videos. These web pages may be designed to look & feel just like or GoProCamera.com, but are actually hosted on a different domain. When we enter into co-branded partnerships we may at times share your name and email address in order for GoPro to communicate with you about GoPro related promotions, news, & updates via tools provided by our 3rd party co-branded partner website. Information collected on 3rd party co-branded webpages may not be covered under our privacy statement. All information collected on 3rd party co-branded websites is owned and controlled by that companies privacy statement. Please be sure to read the privacy policy of any website that asks you to submit personally identifiable information.
+At times GoPro will partner with 3rd party websites in a co-branded relationship, where a co-branded web page(s) is used to promote GoPro products, services, photos or videos. These web pages may be designed to look & feel just like or GoPro.com, but are actually hosted on a different domain. When we enter into co-branded partnerships we may at times share your name and email address in order for GoPro to communicate with you about GoPro related promotions, news, & updates via tools provided by our 3rd party co-branded partner website. Information collected on 3rd party co-branded webpages may not be covered under our privacy statement. All information collected on 3rd party co-branded websites is owned and controlled by that companies privacy statement. Please be sure to read the privacy policy of any website that asks you to submit personally identifiable information.
 
 ## Customer Testimonials
 
@@ -118,7 +128,7 @@ From time to time, our information practices may change. To notify you of these 
 
 ## Community and Aggregate Information Security
 
-GoPro takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on GoPro, please contact us by filling out the contact form located at the following URL: [http://www.goprocamera.com/support](https://web.archive.org/support)
+GoPro takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on GoPro, please contact us by filling out the contact form located at [http://GoPro.com/support/](https://web.archive.org/support/)
 
 ## Personal Information Security
 
