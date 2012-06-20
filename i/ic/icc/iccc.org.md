@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the iccc.org privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130152037id_/http%3A//www.iccc.org/Website/ICCC/Website.nsf/WebPage/PrivacyPolicy%3FOpenDocument%26ppos%3D0%26spos%3D0%26tpos%3D0%26rsn%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccc.org privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620181653id_/http%3A//www.iccc.org/Website/ICCC/Website.nsf/WebPage/PrivacyPolicy%3FOpenDocument%26ppos%3D0%26spos%3D0%26tpos%3D0%26rsn%3D) for the most accurate reproduction.*
 
 # ICCC - Privacy Policy
 
-|  | | |   
----|---|---  
- |   
-  
- |   
+ | 
+
 Privacy Policy
 
 **1\. Introduction**
@@ -58,22 +55,6 @@ In using the Application, you may encounter “cookies”. “Cookies” are fil
 
 **9\. Resolving Your Privacy Concerns**
 
-In the event of questions about: (i) access to your Personal Information; (ii) our collection, use, management or disclosure of Personal Information; or (iii) this Policy; please contact us via e-mail at [**_iccc@iccc.org_**](mailto:iccc@iccc.org).|    
-  
+In the event of questions about: (i) access to your Personal Information; (ii) our collection, use, management or disclosure of Personal Information; or (iii) this Policy; please contact us via e-mail at [**_iccc@iccc.org_**](mailto:iccc@iccc.org).
 
-
-
-|   
----  
-  
-[](https://web.archive.org/Website/ICCC/Website.nsf/WebPage/ICCCSponsors?OpenDocument&ppos=5&spos=3&tpos=0&rsn=y&Language=EN)  
-  
----  
-|   
----  
-|   
-[]()|   
-  
-| **Mississauga Wednesday, November 9, 2011[Business Networking Event](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/981CED6829AD065E8525792F005888C5?OpenDocument&ppos=1&spos=0)** **TORONTO Thursday, November 10, 2011[Lisa Raitt on Canada's Economy](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/2C785EA8A3CDAF8B8525794200716E0F?OpenDocument&ppos=1&spos=0)** **Alberta Saturday, November 12, 2011[Annual Gala](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/66E029D3CABD48AA852579290066792C?OpenDocument&ppos=1&spos=0)** **TORONTO Thursday, November 24, 2011[Chai with CEO: Patrick D'Souza](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/C13B91CE65A570A685257949006D57BD?OpenDocument&ppos=1&spos=0)** **Mississauga Friday, December 2, 2011[Holiday Dinner and Dance](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/9126F3801865BAC1852579210061DAEE?OpenDocument&ppos=1&spos=0)**  
----|---  
-| [](https://web.archive.org/Website/ICCC/Calendar.nsf/Web%20Course%20Calendar?OpenForm&ppos=1&spos=0&rsn=0)
+|  
