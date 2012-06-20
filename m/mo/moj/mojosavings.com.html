@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mojosavings.com privacy policy that was archived on 2011-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111220170556id_/http%3A//mojosavings.com/privacy-policy-disclosure) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mojosavings.com privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620052632id_/http%3A//mojosavings.com/privacy-policy-disclosure) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Privacy Policy &amp; Disclosure | Mojosavings.com</title>
@@ -13,112 +13,7 @@
 		<link rel="stylesheet" type="text/css" media="all" href="http://mojosavings.com/wp-content/themes/mojosavings/ie7.css" />
 	<![endif]-->
 	<link rel="pingback" href="http://mojosavings.com/xmlrpc.php">
-	<script type="text/javascript">
-//<![CDATA[
-var BrowserDetect = {
-init: function () {
-this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
-this.version = this.searchVersion(navigator.userAgent)|| this.searchVersion(navigator.appVersion)|| "an unknown version";
-this.OS = this.searchString(this.dataOS) || "an unknown OS";
-},
-searchString: function (data) {
-for (var i=0;i<data.length;i++)	{
-        var dataString = data[i].string;
-        var dataProp = data[i].prop;
-        this.versionSearchString = data[i].versionSearch || data[i].identity;
-        if (dataString) {if (dataString.indexOf(data[i].subString) != -1)
-                return data[i].identity;}
-        else if (dataProp){return data[i].identity;}
-}
-},
-searchVersion: function (dataString) {
-var index = dataString.indexOf(this.versionSearchString);
-if (index == -1) return;
-return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
-},
-dataBrowser: [
-        {string: navigator.userAgent,subString: "Chrome",identity: "Chrome"},
-        {string: navigator.userAgent,subString: "OmniWeb",versionSearch: "OmniWeb/",identity: "OmniWeb"},
-        {string: navigator.vendor,subString: "Apple",identity: "Safari",versionSearch: "Version"},
-        {prop: window.opera,identity: "Opera"},
-        {string: navigator.vendor,subString: "iCab",identity: "iCab"},
-        {string: navigator.vendor,subString: "KDE",identity: "Konqueror"},
-        {string: navigator.userAgent,subString: "Firefox",identity: "Firefox"},
-        {string: navigator.vendor,subString: "Camino",identity: "Camino"},
-        {string: navigator.userAgent,subString: "Netscape",identity: "Netscape"},
-        {string: navigator.userAgent,subString: "MSIE",identity: "Explorer",versionSearch: "MSIE"},
-        {string: navigator.userAgent,subString: "Gecko",identity: "Mozilla",versionSearch: "rv"},
-        {string: navigator.userAgent,subString: "Mozilla",identity: "Netscape",versionSearch: "Mozilla"}],
-dataOS:[{string: navigator.platform,subString: "Win",identity: "Windows"},
-        {string: navigator.platform,subString: "Mac",identity: "Mac"},
-        {string: navigator.userAgent,subString: "iPhone",identity: "iPhone/iPod"},
-        {string: navigator.platform,subString: "Linux",identity: "Linux"}]
-};
-BrowserDetect.init();
-
-function bookMark(theurl, thetitle, browser){
-    switch(browser){
-        case "Firefox":
-            window.sidebar.addPanel(thetitle, theurl,"");
-            break;
-        case "Explorer":
-            window.external.AddFavorite( theurl, thetitle);
-            break;
-        case "Chrome":
-        case "Safari":
-        case "Opera":
-        case "Netscape":
-            switch(BrowserDetect.OS){
-            case "Windows":
-            case "Linux":
-            alert('press ctrl+D to bookmark this page');
-            break;
-            case "Mac":
-                alert('press cmd+D to bookmark this page');
-            break;
-            }
-            break;
-    }
-}
-//]]>
-</script>
-                        <style type="text/css" media="screen">
-                                .socialwrap li.icon_text a img, .socialwrap li.iconOnly a img, .followwrap li.icon_text a img, .followwrap li.iconOnly a img{border-width:0 !important;background-color:none;}#follow.right {width:32px;position:fixed; right:0; top:100px;background-color:#878787;padding:10px 0;font-family:impact,charcoal,arial, helvetica,sans-serif;-moz-border-radius-topleft: 5px;-webkit-border-top-left-radius:5px;-moz-border-radius-bottomleft:5px;-webkit-border-bottom-left-radius:5px;border:2px solid #fff;border-right-width:0}#follow.right ul {padding:0; margin:0; list-style-type:none !important;font-size:24px;color:black;}
-#follow.right ul li {padding-bottom:10px;list-style-type:none !important;padding-left:4px;padding-right:4px}
-#follow img{border:none;}#follow.right ul li.follow {margin:0 4px;}
-#follow.right ul li.follow img {border-width:0;display:block;overflow:hidden; background:transparent url(http://mojosavings.com/wp-content/plugins/share-and-follow/images/impact/follow-right.png) no-repeat -0px 0px;height:79px;width:20px;}
-#follow.right ul li a {display:block;}
-#follow.right ul li.follow span, #follow ul li a span {display:none}.share {margin:0 3px 3px 0;}
-.phat span {display:inline;}
-ul.row li {float:left;list-style-type:none;}
-li.iconOnly a span.head {display:none}
-#follow.left ul.size16 li.follow{margin:0px auto !important}
-li.icon_text a {padding-left:0;margin-right:3px}
-li.text_only a {background-image:none !important;padding-left:0;}
-li.text_only a img {display:none;}
-li.icon_text a span{background-image:none !important;padding-left:0 !important; }
-li.iconOnly a span.head {display:none}
-ul.socialwrap li {margin:0 3px 3px 0 !important;}
-ul.socialwrap li a {text-decoration:none;}ul.row li {float:left;line-height:auto !important;}
-ul.row li a img {padding:0}.size16 li a,.size24 li a,.size32 li a, .size48 li a, .size60 li a {display:block}ul.socialwrap {list-style-type:none !important;margin:0; padding:0;text-indent:0 !important;}
-ul.socialwrap li {list-style-type:none !important;background-image:none;padding:0;list-style-image:none !important;}
-ul.followwrap {list-style-type:none !important;margin:0; padding:0}
-ul.followwrap li {margin-right:3px;margin-bottom:3px;list-style-type:none !important;}
-#follow.right ul.followwrap li, #follow.left ul.followwrap li {margin-right:0px;margin-bottom:0px;}
-.shareinpost {clear:both;padding-top:15px}.shareinpost ul.socialwrap {list-style-type:none !important;margin:0 !important; padding:0 !important}
-.shareinpost ul.socialwrap li {padding-left:0 !important;background-image:none !important;margin-left:0 !important;list-style-type:none !important;text-indent:0 !important}
-.socialwrap li.icon_text a img, .socialwrap li.iconOnly a img{border-width:0}ul.followrap li {list-style-type:none;list-style-image:none !important;}
-div.clean {clear:left;}
-div.display_none {display:none;}
-                        </style>
-                                                <style type="text/css" media="print">
-                                body {background: white;font-size: 12pt;color:black;}
- * {background-image:none;}
- #wrapper, #content {width: auto;margin: 0 5%;padding: 0;border: 0;float: none !important;color: black;background: transparent none;}
- a { text-decoration : underline; color : #0000ff; }
-#menu, #navigation, #navi, .menu {display:none}
-                        </style>
-                        
+	
 		<style type="text/css" media="screen">
 		/* Default CSS generated by dTabs */
 #menucat .dmenu ul {
@@ -265,34 +160,28 @@ filter:alpha(opacity=\'80\');
 		<link rel="alternate" type="application/rss+xml" title="Mojosavings.com » Privacy Policy &amp; Disclosure Comments Feed" href="http://mojosavings.com/privacy-policy-disclosure/feed/">
 <link rel="stylesheet" id="wp-email-css" href="http://mojosavings.com/wp-content/plugins/wp-email/email-css.css" type="text/css" media="all">
 <link rel="stylesheet" id="tabbed-widgets-css" href="http://mojosavings.com/wp-content/plugins/tabbed-widgets/css/tabbed-widgets.css" type="text/css" media="all">
-<link rel="stylesheet" id="dtree.css-css" href="http://mojosavings.com/wp-content/plugins/wp-dtree-30/wp-dtree.min.css" type="text/css" media="all">
 <link rel="stylesheet" id="wp-pagenavi-css" href="http://mojosavings.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css" type="text/css" media="all">
+<link rel="stylesheet" id="dtree.css-css" href="http://mojosavings.com/wp-content/plugins/wp-dtree-30/wp-dtree.min.css" type="text/css" media="all">
 <script type="text/javascript" src="http://mojosavings.com/wp-includes/js/jquery/jquery.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var WPdTreeSettings = {
-	animate: "",
-	duration: "",
-	imgurl: "http://mojosavings.com/wp-content/plugins/wp-dtree-30/"
-};
+var WPdTreeSettings = {"animate":"1","duration":"250","imgurl":"http:\/\/mojosavings.com\/wp-content\/plugins\/wp-dtree-30\/"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://mojosavings.com/wp-content/plugins/wp-dtree-30/wp-dtree.min.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mojosavings.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mojosavings.com/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="Mojosavings.com" href="http://mojosavings.com/">
 <link rel="prev" title="Search" href="http://mojosavings.com/search/">
 <link rel="next" title="CVS 101" href="http://mojosavings.com/new-to-couponing/cvs-101/">
-<meta name="generator" content="WordPress 3.2.1">
+<meta name="generator" content="WordPress 3.3.2">
 
-<!-- All in One SEO Pack 1.6.13.8 by Michael Torbert of Semper Fi Web Design[269,325] -->
+<!-- All in One SEO Pack 1.6.14.3 by Michael Torbert of Semper Fi Web Design[269,325] -->
 <meta name="description" content="Privacy Policy &amp; Disclosure">
 <meta name="keywords" content="privacy policy, disclosure, mojo savings">
 <link rel="canonical" href="http://mojosavings.com/privacy-policy-disclosure/">
 <!-- /all in one seo pack -->
      <link rel="stylesheet" href="http://cdn.printfriendly.com/printfriendly.css" type="text/css">
-  	<script type="text/javascript" src="http://mojosavings.com/wp-content/themes/mojosavings/fn.js"></script>
-	<script src="http://cdn.printfriendly.com/printfriendly.js" type="text/javascript"></script>
+  	<script src="http://cdn.printfriendly.com/printfriendly.js" type="text/javascript"></script>
 <meta name="microid" content="4273e6c502294be6f9102b2e7b97373a4f8bf79b">
 </head>
 
@@ -324,18 +213,22 @@ var WPdTreeSettings = {
 				<ul id="mainnav" class="topnav"><li id="menu-item-35023" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35023"><a href="http://www.mojosavings.com">Home</a></li>
 <li id="menu-item-35025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35025"><a href="http://mojosavings.com/new-to-couponing/getting-started/">Get Started</a></li>
 <li id="menu-item-35024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35024"><a href="http://mojosavings.com/coupon-database/">Coupon Database</a></li>
-<li id="menu-item-35027" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35027"><a href="http://mojosavings.com/category/free-sample/">Free Samples</a></li>
+<li id="menu-item-121466" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121466"><a href="http://mojosavings.com/category/diy/">DIY Projects</a></li>
 <li id="menu-item-35026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35026"><a href="http://mojosavings.com/contact-us/">Contact Us</a></li>
 <li id="menu-item-62664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62664"><a href="http://mojosavings.com/faqs/">FAQ’s</a></li>
 <li><form method="get" id="search" action="/">
 	<input type="text" name="s" id="searchBox" value="" placeholder="Search our Site">
 	<input type="submit" id="searchSubmit" name="search_submit">
-</form></li></ul>				<ul id="subnav" class="topnav"><li id="menu-item-35044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35044"><a href="http://mojosavings.com/category/drug-stores/walgreens/">Walgreen’s</a></li>
-<li id="menu-item-35031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35031"><a href="http://mojosavings.com/category/drug-stores/cvs/">CVS</a></li>
-<li id="menu-item-35040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35040"><a href="http://mojosavings.com/category/drug-stores/rite-aid-drug-stores/">Rite Aid</a></li>
-<li id="menu-item-35042" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35042"><a href="http://mojosavings.com/category/grocery-stores/target-grocery-stores/">Target</a></li>
-<li id="menu-item-35043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35043"><a href="http://mojosavings.com/category/grocery-stores/wal-mart/">Wal-Mart</a></li>
-<li id="menu-item-35046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35046"><a href="#">Grocery Store Matchups</a>
+</form></li></ul>				<ul id="subnav" class="topnav"><li id="menu-item-138171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138171"><a href="http://mojosavings.com/category/coupons/">Coupons</a></li>
+<li id="menu-item-138172" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138172"><a href="http://mojosavings.com/category/free-sample/">Free Samples</a></li>
+<li id="menu-item-138170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138170"><a href="http://mojosavings.com/category/drug-stores/">Drug Stores</a>
+<ul class="sub-menu">
+	<li id="menu-item-35044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35044"><a href="http://mojosavings.com/category/drug-stores/walgreens/">Walgreen’s</a></li>
+	<li id="menu-item-35031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35031"><a href="http://mojosavings.com/category/drug-stores/cvs/">CVS</a></li>
+	<li id="menu-item-35040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35040"><a href="http://mojosavings.com/category/drug-stores/rite-aid-drug-stores/">Rite Aid</a></li>
+</ul>
+</li>
+<li id="menu-item-35046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35046"><a href="#">Grocery Stores</a>
 <ul class="sub-menu">
 	<li id="menu-item-75318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75318"><a href="http://dealiciousfinds.com/category/albertsons/">Albertsons</a></li>
 	<li id="menu-item-75320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75320"><a href="http://www.cincinnaticents.com/category/aldi">Aldi</a></li>
@@ -353,29 +246,18 @@ var WPdTreeSettings = {
 	<li id="menu-item-75331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75331"><a href="http://mojosavings.com/category/grocery-stores/meijer/">Meijer</a></li>
 	<li id="menu-item-75332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75332"><a href="http://www.wickedcooldeals.com/category/store-deals/price-chopper-deals">Price Chopper</a></li>
 	<li id="menu-item-75333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75333"><a href="http://mojosavings.com/category/grocery-stores/publix-grocery-deal/">Publix</a></li>
-	<li id="menu-item-75334" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75334"><a href="http://www.bargainblessings.com/category/safeway/">Safeway</a></li>
+	<li id="menu-item-75334" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75334"><a href="http://mojosavings.com/?s=safeway&amp;search_submit=Submit">Safeway</a></li>
 	<li id="menu-item-75335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75335"><a href="http://www.wickedcooldeals.com/category/store-deals/shaws-deals">Shaws</a></li>
 	<li id="menu-item-75336" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75336"><a href="http://generoussavings.com/?cat=36">ShopRite</a></li>
+	<li id="menu-item-35042" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35042"><a href="http://mojosavings.com/category/grocery-stores/target-grocery-stores/">Target</a></li>
 	<li id="menu-item-75337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75337"><a href="http://dealiciousfinds.com/category/tom-thumb/">Tom Thumb</a></li>
 	<li id="menu-item-75338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75338"><a href="http://mojosavings.com/category/grocery-stores/trader-joes/">Trader Joe’s</a></li>
+	<li id="menu-item-35043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35043"><a href="http://mojosavings.com/category/grocery-stores/wal-mart/">Wal-Mart</a></li>
 	<li id="menu-item-75339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75339"><a href="http://www.healthylifedeals.com/p/whole-foods.html">Whole Foods</a></li>
 	<li id="menu-item-75340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75340"><a href="http://www.addictedtosaving.com/tag/winn-dixie-coupon-matchups/">Winn Dixie</a></li>
 </ul>
 </li>
-<li id="menu-item-35049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35049"><a href="#">Printable Coupon Resources</a>
-<ul class="sub-menu">
-	<li id="menu-item-71573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71573"><a href="http://enlnks.com/aff_c?offer_id=21&amp;aff_id=19">Cellfire Coupons</a></li>
-	<li id="menu-item-35054" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35054"><a href="http://lm.logicalmedia.com/z/18020/CD7606">Cool Savings</a></li>
-	<li id="menu-item-35052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35052"><a href="http://lm.logicalmedia.com/z/12918/CD7606">Coupons.com</a></li>
-	<li id="menu-item-65805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65805"><a href="http://partners.mysavings.com/z/7715/CD1306/">Coupon Network</a></li>
-	<li id="menu-item-35050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35050"><a href="http://coupons.redplum.com/offers/default.aspx?Id=MojoSavings&amp;DefaultZipCode=">Red Plum Coupons</a></li>
-	<li id="menu-item-71572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71572"><a href="http://riteaid.adperk.com/">Rite Aid Video Values</a></li>
-	<li id="menu-item-71571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71571"><a href="http://partners.mysavings.com/z/8157/CD1306/">Saving Star eCoupons</a></li>
-	<li id="menu-item-35051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35051"><a href="http://mojosavings.com/grocery-coupons/">Smart Source Coupons</a></li>
-	<li id="menu-item-35055" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35055"><a href="http://gan.doubleclick.net/gan_click?lid=41000000029606694&amp;pubid=21000000000237456">Target Printable Coupons</a></li>
-</ul>
-</li>
-<li id="menu-item-62667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62667"><a href="http://mojosavings.com/category/restaurant/restaurant-deals-restaurant/">Restaurant Deals</a></li>
+<li id="menu-item-141358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141358"><a href="http://mojosavings.com/category/retail-coupons/">Retail Coupons</a></li>
 <li id="menu-item-43714" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43714"><a href="http://mojosavings.com/category/contests-sweepstakes/">Contests &amp; Sweepstakes</a></li>
 </ul>			</div>
 		</div>
@@ -395,10 +277,14 @@ google_ad_height = 90;
 							<div class="post_body">
 								<div class="top_body">
 									<h1 class="title"><a href="http://mojosavings.com/privacy-policy-disclosure/">Privacy Policy &amp; Disclosure</a></h1>
-									<span class="author">by Mojo</span>									<div class="date">
+									<span class="author">by Mojo									<span class="fbshare">
+										<a name="fb_share" type="box_count" share_url="http://mojosavings.com/privacy-policy-disclosure/"></a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+									</span>
+									</span>									<div class="date">
 										<strong>30</strong>Nov									</div>
 								</div>
-								<div class="content"><div class="wpfblike" style="height: 20px;"><iframe src="http://www.facebook.com/plugins/like.php?href=http://mojosavings.com/privacy-policy-disclosure/&amp;layout=default&amp;show_faces=false&amp;width=360&amp;action=like&amp;colorscheme=light&amp;send=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:360px;"></iframe></div>									<p>&nbsp;</p>
+								<div class="content">
+									<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><span style="color: #ff0000;"><strong>Privacy Policy for www.mojosavings.com</strong></span></p>
 <p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at mojosavings@gmail.com.</p>
@@ -432,7 +318,18 @@ Google Adsense</p>
 <p>This blog does not contain any content which might present a conflict of interest.</p>
 <p><strong>Material Connection Disclosure</strong></p>
 <p>Unless otherwise expressly stated, you should assume that Mojo Savings&nbsp;has an affiliate relationship or other material connection to the providers of goods and services mentioned by, recommended, hyperlinked to, or otherwise referenced on&nbsp;Mojo Savings. In addition, you should assume that&nbsp;Mojo Savings&nbsp;may be compensated monetarily or non-monetarily when you visit, purchase goods or services from, or take any other action on a third-party website mentioned by, recommended, hyperlinked to, or otherwise referenced on&nbsp;Mojo Savings. You should always perform due diligence before buying any goods or services online or offline.</p>
-<div class="shareinpost"><ul class="socialwrap row"><li class="iconOnly"><a onclick="javascript:pageTracker._trackPageview('/outgoing/delicious.com/post?url=http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F&amp;title=Privacy+Policy+and+Disclosure');" rel="nofollow" target="_blank" href="http://delicious.com/post?url=http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F&amp;title=Privacy+Policy+and+Disclosure" title="Bookmark this post : Privacy Policy &amp; Disclosure on Delicious"><img src="http://mojosavings.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://mojosavings.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-150px 0px" class="image-24" width="24" alt="blank Privacy Policy &amp; Disclosure" title="Privacy Policy &amp; Disclosure"> <span class="head">Bookmark on Delicious</span></a></li><li class="iconOnly"><a onclick="javascript:pageTracker._trackPageview('/outgoing/digg.com/submit?url=http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F&amp;title=Privacy+Policy+and+Disclosure&amp;bodytext=%26nbsp%3B%0D%0A%0D%0A%26nbsp%3B%0D%0A%0D%0APrivacy+Policy+for+www.mojosavings.com%0D%0A%0D%0AIf+you+require+any+more+information+or+have+any+questions+about+our+privacy+policy%2C+please+feel+free+to+contact+us+by+email+at+mojosavings%40gmail.com.%0D%0A%0D%0AAt+www.mojosavings.com%2C+the+privacy+of+our+visitors+is+of+extreme+importance+to+us.+This+privacy+policy+d');" rel="nofollow" target="_blank" href="http://digg.com/submit?url=http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F&amp;title=Privacy+Policy+and+Disclosure&amp;bodytext=%26nbsp%3B%0D%0A%0D%0A%26nbsp%3B%0D%0A%0D%0APrivacy+Policy+for+www.mojosavings.com%0D%0A%0D%0AIf+you+require+any+more+information+or+have+any+questions+about+our+privacy+policy%2C+please+feel+free+to+contact+us+by+email+at+mojosavings%40gmail.com.%0D%0A%0D%0AAt+www.mojosavings.com%2C+the+privacy+of+our+visitors+is+of+extreme+importance+to+us.+This+privacy+policy+d" title="Digg this post : Privacy Policy &amp; Disclosure"><img src="http://mojosavings.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://mojosavings.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-200px 0px" class="image-24" width="24" alt="blank Privacy Policy &amp; Disclosure" title="Privacy Policy &amp; Disclosure"> <span class="head">Digg this post</span></a></li><li class="iconOnly"><a onclick="javascript:pageTracker._trackPageview('/outgoing/www.facebook.com/sharer.php?u=http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F&amp;t=Privacy+Policy+and+Disclosure');" rel="nofollow" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F&amp;t=Privacy+Policy+and+Disclosure" title="Recommend this post : Privacy Policy &amp; Disclosure on Facebook"><img src="http://mojosavings.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://mojosavings.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-275px 0px" class="image-24" width="24" alt="blank Privacy Policy &amp; Disclosure" title="Privacy Policy &amp; Disclosure"> <span class="head">Share on Facebook</span></a></li><li class="iconOnly"><a onclick="javascript:pageTracker._trackPageview('/outgoing/www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F&amp;title=Privacy+Policy+and+Disclosure&amp;&amp;summary=%26nbsp%3B%0D%0A%0D%0A%26nbsp%3B%0D%0A%0D%0APrivacy+Policy+for+www.mojosavings.com%0D%0A%0D%0AIf+you+require+any+more+information+or+have+any+questions+about+our+privacy+policy%2C+please+feel+free+to+contact+us+by+email+at+mojosavings%40gmail.com.%0D%0A%0D%0AAt+www.mojosavings.com%2C+the+privacy+of+our+visitors+is+of+extreme+importance+to+us.+This+privacy+policy+d');" rel="nofollow" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F&amp;title=Privacy+Policy+and+Disclosure&amp;&amp;summary=%26nbsp%3B%0D%0A%0D%0A%26nbsp%3B%0D%0A%0D%0APrivacy+Policy+for+www.mojosavings.com%0D%0A%0D%0AIf+you+require+any+more+information+or+have+any+questions+about+our+privacy+policy%2C+please+feel+free+to+contact+us+by+email+at+mojosavings%40gmail.com.%0D%0A%0D%0AAt+www.mojosavings.com%2C+the+privacy+of+our+visitors+is+of+extreme+importance+to+us.+This+privacy+policy+d" title="Share this post : Privacy Policy &amp; Disclosure on Linkedin"><img src="http://mojosavings.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://mojosavings.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-675px 0px" class="image-24" width="24" alt="blank Privacy Policy &amp; Disclosure" title="Privacy Policy &amp; Disclosure"> <span class="head">Share on Linkedin</span></a></li><li class="iconOnly"><a onclick="javascript:pageTracker._trackPageview('/outgoing/www.reddit.com/submit?url=http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F&amp;title=Privacy+Policy+and+Disclosure');" rel="nofollow" target="_blank" href="http://www.reddit.com/submit?url=http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F&amp;title=Privacy+Policy+and+Disclosure" title="Share this post : Privacy Policy &amp; Disclosure on Reddit"><img src="http://mojosavings.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://mojosavings.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1075px 0px" class="image-24" width="24" alt="blank Privacy Policy &amp; Disclosure" title="Privacy Policy &amp; Disclosure"> <span class="head">share via Reddit</span></a></li><li class="iconOnly"><a onclick="javascript:pageTracker._trackPageview('/outgoing/www.stumbleupon.com/submit?url=http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F&amp;title=Privacy+Policy+and+Disclosure');" rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F&amp;title=Privacy+Policy+and+Disclosure" title="Share this post : Privacy Policy &amp; Disclosure with Stumblers"><img src="http://mojosavings.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://mojosavings.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1225px 0px" class="image-24" width="24" alt="blank Privacy Policy &amp; Disclosure" title="Privacy Policy &amp; Disclosure"> <span class="head">Share with Stumblers</span></a></li><li class="iconOnly"><a onclick="javascript:pageTracker._trackPageview('/outgoing/twitter.com/home/?status=http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F');" rel="nofollow" target="_blank" href="http://twitter.com/home/?status=http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F" title="Tweet this post : Privacy Policy &amp; Disclosure on Twitter"><img src="http://mojosavings.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://mojosavings.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1325px 0px" class="image-24" width="24" alt="blank Privacy Policy &amp; Disclosure" title="Privacy Policy &amp; Disclosure"> <span class="head">Tweet about it</span></a></li><li class="iconOnly"><a rel="nofollow" target="_self" href="javascript:window.bookMark('http%3A%2F%2Fmojosavings.com%2Fprivacy-policy-disclosure%2F', 'Privacy+Policy+and+Disclosure', BrowserDetect.browser);" title="Bookmark this post : Privacy Policy &amp; Disclosure"><img src="http://mojosavings.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" style="background: transparent url(http://mojosavings.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-75px 0px" class="image-24" width="24" alt="blank Privacy Policy &amp; Disclosure" title="Privacy Policy &amp; Disclosure"> <span class="head">Bookmark in Browser</span></a></li><li class="iconOnly"><a onclick="javascript:pageTracker._trackPageview('/mailto/?subject=Mojosavings.com%20:%20Privacy%20Policy%20&amp;%20Disclosure&amp;body=here%20is%20a%20link%20to%20a%20site%20I%20really%20like.%20%20%20http://mojosavings.com/privacy-policy-disclosure/');" rel="_self" href="mailto:?subject=Mojosavings.com%20:%20Privacy%20Policy%20&amp;%20Disclosure&amp;body=here%20is%20a%20link%20to%20a%20site%20I%20really%20like.%20%20%20http://mojosavings.com/privacy-policy-disclosure/" title="Tell a friend about this post : Privacy Policy &amp; Disclosure "><img src="http://mojosavings.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://mojosavings.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-250px 0px" class="image-24" alt="blank Privacy Policy &amp; Disclosure" title="Privacy Policy &amp; Disclosure"> <span class="head">Tell a friend</span></a></li></ul><div class="clean"></div> </div>								</div>
+<div class="socialbuttons">
+<ul>
+<li class="facebook"><a target="_blank" href="http://www.facebook.com/share.php?u=http://mojosavings.com/privacy-policy-disclosure/&amp;t=Privacy Policy &amp; Disclosure"></a></li>
+<li class="twitter"><a target="_blank" href="http://twitter.com/home?status=Privacy Policy &amp; Disclosure http://mojosavings.com/privacy-policy-disclosure/"></a></li>
+<li class="googleplus"><a target="_blank" href="https://m.google.com/app/plus/x/?v=compose&amp;content=Privacy Policy &amp; Disclosure: http://mojosavings.com/privacy-policy-disclosure/"></a></li>
+<li class="pinterest"><a href="javascript:void((function(){var%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());"></a></li>
+<li class="email"><a href="mailto:?subject=Privacy Policy &amp; Disclosure&amp;body=Check%20out%20this%20post%20I%20found%20on%20Kosher%20on%20a%20Budget!%20%20%20http://mojosavings.com/privacy-policy-disclosure/"></a></li>
+<li class="print"><a target="_blank" href="http://www.printfriendly.com/print/v2?url=http://mojosavings.com/privacy-policy-disclosure/"></a></li>
+<li class="disclosure"><a href="http://mojosavings.com/privacy-policy-disclosure/"></a></li>
+</ul>
+</div>
+								</div>
 							</div><!-- end Post body-->
 							<div class="post_foot"><div class="googleplusone"><g:plusone href="http://mojosavings.com/privacy-policy-disclosure/"></g:plusone></div><div class="pf"><div class="wpfblike" style="height: 20px;"><iframe src="http://www.facebook.com/plugins/like.php?href=http://mojosavings.com/privacy-policy-disclosure/&amp;layout=button_count&amp;show_faces=false&amp;width=360&amp;action=like&amp;colorscheme=light&amp;send=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:360px;"></iframe></div><div class="print"><div class="pfButton"><script src="http://cdn.printfriendly.com/printfriendly.js" type="text/javascript"></script><a href="http://www.printfriendly.com" id="pfLink" onclick="window.print(); return false;" title="Print an optimized version of this web page"><img class="printfriendly" style="border:none; padding:0;" src="http://cdn.printfriendly.com/pf-button-both.gif" alt="Print" width="113" height="17"></a></div></div>
 
@@ -444,13 +341,13 @@ Google Adsense</p>
 					<a href="http://mojosavings.com/privacy-policy-disclosure/#comments" class="commentstotal">2 Comments</a>
 				</div>-->
 				</div><!-- end post foot -->
-							<div style="width:60px; margin:0 100px 2.5em; text-align:center;"><script type="text/javascript"><!--
+							<div style="width: 300px; margin: 0 auto 3em auto; text-align: center;"><script type="text/javascript"><!--
 google_enable_async = true;
-google_ad_client = "pub-2708451808794675";
-/* 468x60, created 7/29/09 */
-google_ad_slot = "6397612266";
-google_ad_width = 468;
-google_ad_height = 60;
+google_ad_client = "ca-pub-2708451808794675";
+/* 300 text */
+google_ad_slot = "4739073909";
+google_ad_width = 300;
+google_ad_height = 250;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
@@ -491,7 +388,7 @@ google_ad_height = 60;
 							<input type="hidden" name="comment_post_ID" value="6536" id="comment_post_ID">
 <input type="hidden" name="comment_parent" id="comment_parent" value="0">
 						</p>
-						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="ca3136378a"></p><p style="margin-top: 15px;">Comments links could be <a href="http://www.michelem.org/wordpress-plugin-nofollow-free/">nofollow free</a>.</p>					</form>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="836439fc24"></p><p style="margin-top: 15px;">Comments links could be <a href="http://www.michelem.org/wordpress-plugin-nofollow-free/">nofollow free</a>.</p>					</form>
 							</div><!-- #respond -->
 						
 </div><!-- #comments -->
@@ -512,6 +409,46 @@ google_ad_height = 250;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div>
+		</div></div><div id="text-44" class="widget widget_text"><div class="wcontent">			<div class="textwidget">                                            
+<script type="text/javascript" src="http://ap.lijit.com///www/delivery/fpi.js?z=156066&amp;u=mojosavings&amp;width=300&amp;height=250"></script></div>
+		</div></div><div id="execphp-3" class="widget widget_execphp"><div class="wcontent"><h5 class="wtitle">Subscribe</h5>			
+			<div class="execphpwidget"><div id="socialwidget"><h6 style="margin-left:5px;">Receive Updates by Email</h6><form id="sidebar_subscribe" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=mojosavings/RIzU', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+			<input type="text" placeholder="enter your email address" name="email" id="sidebar_subscribe_email">
+			<input type="hidden" value="mojosavings/RIzU" name="uri">
+			<input type="hidden" name="loc" value="en_US">
+			<input type="submit" name="subscribe_submit" id="sidebar_subscribe_submit" value="Subscribe">
+		</form>
+
+<div id="mojo_community">
+			<a id="sb_twitter" href="http://twitter.com/MoJoSavings" target="_blank" rel="nofollow"><span>Twitter</span> Followers: 5616</a>
+			<a id="sb_feedburner" href="http://feeds.feedburner.com/mojosavings/RIzU" target="_blank" rel="nofollow"><span>Feedburner</span>Subscribers: 19548</a>
+			</div>
+
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fmojosavings&amp;send=false&amp;layout=standard&amp;width=280&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35&amp;appId=164808723602928" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:280px; height:35px; margin-left: 5px;" allowtransparency="true"></iframe>
+
+<div class="buttons"><img width="300" height="49" border="0" usemap="#map" alt="MojoSavings.com | Mobile | Twitter | Facebook | RSS | iPhone | iPad | Droid | Blackberry" src="http://mojosavings.com/wp-content/uploads/2012/01/socialicons.png"><map name="Map" id="Map"><area alt="Twitter" target="_top" href="http://twitter.com/mojosavings" coords="5,-1,57,48" shape="rect"><area alt="Facebook" target="_blank" href="http://www.facebook.com/mojosavings" coords="58,1,104,50" shape="rect"><area alt="RSS Feed" target="_top" href="http://feeds.feedburner.com/mojosavings/RIzU" coords="105,1,152,50" shape="rect"><area alt="Download Apps for iPhone, iPad, Android and Blackberry" target="_top" href="http://mojosavings.mjbapp.com/" coords="152,2,302,51" shape="rect"></map></div>
+
+<div class="plusone"><g:plusone size="medium" href="http://www.mojosavings.com/"></g:plusone></div>
+
+<div class="pinterest"><a href="http://pinterest.com/mojosavings/"><img src="http://passets-cdn.pinterest.com/images/pinterest-button.png" width="78" height="26" alt="Follow Me on Pinterest"></a></div>
+</div></div>
+		</div></div><div id="text-14" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Coupon Resources</h5>			<div class="textwidget"><a href="http://mojosavings.com/coupon-database/"><img src="http://mojosavings.com/wp-content/uploads/2010/09/coupondatabasebutton.jpg" width="300" height="100" alt="Coupon Database"></a>
+<br>
+<h3><span style="text-decoration: underline;">Printable Coupon Resources</span></h3>
+<p><a href="http://strk.enlnks.com/aff_c?offer_id=118&amp;aff_id=19">Coupons.com</a>
+<br>
+<a href="http://coupons.redplum.com/offers/default.aspx?Id=MojoSavings&amp;DefaultZipCode">RedPlum.com</a>
+<br>
+<a href="http://www.mojosavings.com/grocery-coupons">Smart Source</a>
+<br>
+<a href="http://gan.doubleclick.net/gan_click?lid=41000000029606694&amp;pubid=21000000000237456">Target Printable Coupons</a>
+<br>
+<a href="http://enlnks.com/aff_c?offer_id=21&amp;aff_id=19">Cellfire eCoupons</a>
+<br>
+<a href="http://partners.mysavings.com/z/8161/CD1306/">SavingStar eCoupons</a>
+<br>
+<a href="http://mojosavings.com/couponnetwork-coupons/">Coupon Network</a>
+</p></div>
 		</div></div><div id="text-40" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Recommended Coupons!</h5>			<div class="textwidget"><script type="text/javascript">
 <!--
     escalate_ad_affiliate_id = "19";
@@ -529,47 +466,8 @@ google_ad_height = 250;
 <script type="text/javascript" src="http://www.escalatenetwork.com/widget2/show_ads.js">
 </script>
 	</div>
-		</div></div><div id="text-42" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Mojo Savings Mobile Apps!</h5>			<div class="textwidget"><center><a href="http://itunes.apple.com/us/app/mojo-savings/id466798511?mt=8"><img src="http://mojosavings.com/wp-content/uploads/2011/11/App-Store.png" width="300" height="100" alt="Mojo Savings on the App Store"></a></center>
-<br>
-
-<a href="https://market.android.com/details?id=org.majoobi.App.mojosavings"><img src="http://mojosavings.com/wp-content/uploads/2011/11/Android-Market.png" width="300" height="100" alt="Mojo Savings on the Android Market"></a></div>
-		</div></div><div id="text-14" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Coupon Resources</h5>			<div class="textwidget"><a href="http://mojosavings.com/coupon-database/"><img src="http://mojosavings.com/wp-content/uploads/2010/09/coupondatabasebutton.jpg" width="300" height="100" alt="Coupon Database"></a>
-<br>
-<h3><span style="text-decoration: underline;">Printable Coupon Resources</span></h3>
-<p><a href="http://enlnks.com/aff_c?offer_id=118&amp;aff_id=19">Coupons.com</a>
-<br>
-<a href="http://coupons.redplum.com/offers/default.aspx?Id=MojoSavings&amp;DefaultZipCode">RedPlum.com</a>
-<br>
-<a href="http://www.mojosavings.com/grocery-coupons">Smart Source</a>
-<br>
-<a href="http://gan.doubleclick.net/gan_click?lid=41000000029606694&amp;pubid=21000000000237456">Target Printable Coupons</a>
-<br>
-<a href="http://enlnks.com/aff_c?offer_id=21&amp;aff_id=19">Cellfire eCoupons</a>
-<br>
-<a href="http://partners.mysavings.com/z/8161/CD1306/">SavingStar eCoupons</a>
-<br>
-<a href="http://partners.mysavings.com/z/7715/CD1306/">Coupon Network</a>
-</p></div>
-		</div></div><div id="tabbed-widget-3" class="widget tabbed-widget"><div class="wcontent"><div class="tw-tabs"><div id="tw-content-3-0" class="tw-content"><span style="display:none;">Receive updates by Email</span><h4 id="tw-title-3-0" class="tw-title">Subscribe</h4><h6 style="margin-left:10px;">Receive Updates by Email</h6><form id="sidebar_subscribe" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=mojosavings/RIzU', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-			<input type="text" placeholder="enter your email address" name="email" id="sidebar_subscribe_email">
-			<input type="hidden" value="mojosavings/RIzU" name="uri">
-			<input type="hidden" name="loc" value="en_US">
-			<input type="submit" name="subscribe_submit" id="sidebar_subscribe_submit" value="Subscribe">
-		</form><div id="mojo_community">
-			<a id="sb_twitter" href="http://twitter.com/MoJoSavings" target="_blank" rel="nofollow"><span>Twitter</span>Followers: 5,244</a>
-			<a id="sb_feedburner" href="http://feeds.feedburner.com/mojosavings/RIzU" target="_blank" rel="nofollow"><span>Feedburner</span>Subscribers: 17,883</a>
-			<div id="gplusone"><g:plusone href="http://mojosavings.com"></g:plusone></div>
-			</div><iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fmojosavings&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=215" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:215px;"></iframe></div><div id="tw-content-3-1" class="tw-content"><span style="display:none;">Samples</span><h4 id="tw-title-3-1" class="tw-title">Samples</h4>			<div class="textwidget"><ul>
-<li><a href="http://mojosavings.com/category/free-sample/">All Recent Free Samples</a></li>
-		<li><a href="http://lm.logicalmedia.com/z/14172/CD7606">FreeFlys</a></li>
-		<li><a href="http://partners.mysavings.com/z/778/CD1306">My Savings</a></li>
-<li><a href="http://www.freestuff4free.com">Free Stuff</a></li>	
-
-<li><a href="http://enlnks.com/SFEo">That Freebie Site</a></li>	
-</ul>
-<br>
-</div>
-		</div><div id="tw-content-3-2" class="tw-content"><span style="display:none;">Categories</span><h4 id="tw-title-3-2" class="tw-title">Categories</h4><p>View our Most Popular Categories</p><div class="menu-favorite-categories-container"><ul id="menu-favorite-categories" class="menu"><li id="menu-item-37540" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37540"><a href="http://mojosavings.com/category/coupons/">Coupons</a></li>
+		</div></div><div id="text-32" class="widget widget_text"><div class="wcontent">			<div class="textwidget"><script language="javascript" id="mNSC" src="http://search.keywordblocks.com/cmedianet?cid=8CU6J53B1&amp;size=300x250&amp;crid=238515447"></script></div>
+		</div></div><div id="customcats" class="widget custom_cats_make_widget"><div class="wcontent"><h5 class="wtitle">Categories</h5><p>View our Most Popular Categories</p><div class="menu-favorite-categories-container"><ul id="menu-favorite-categories" class="menu"><li id="menu-item-37540" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37540"><a href="http://mojosavings.com/category/coupons/">Coupons</a></li>
 <li id="menu-item-37548" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37548"><a href="http://mojosavings.com/category/deal-scenarios/">Deal Scenarios</a></li>
 <li id="menu-item-37546" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37546"><a href="http://mojosavings.com/category/free-sample/">Free Sample</a></li>
 <li id="menu-item-38475" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38475"><a href="http://mojosavings.com/category/giveaways/">Giveaways</a></li>
@@ -597,7 +495,6 @@ google_ad_height = 250;
 	<option class="level-0" value="388">Aldi Deals</option>
 	<option class="level-0" value="464">Rite Aid</option>
 	<option class="level-0" value="485">Walgreen’s</option>
-	<option class="level-0" value="489">Redbox</option>
 	<option class="level-0" value="508">Giveaways</option>
 	<option class="level-0" value="509">Contests &amp; Sweepstakes</option>
 	<option class="level-0" value="545">Back to school</option>
@@ -615,6 +512,7 @@ google_ad_height = 250;
 	<option class="level-0" value="810">Surveys</option>
 	<option class="level-0" value="829">Recipes</option>
 	<option class="level-0" value="857">Home</option>
+	<option class="level-0" value="922">Panda Express</option>
 	<option class="level-0" value="923">Entertainment</option>
 	<option class="level-0" value="937">Books</option>
 	<option class="level-0" value="962">Wal-Mart</option>
@@ -640,6 +538,7 @@ google_ad_height = 250;
 	<option class="level-0" value="1288">Sutters Creek</option>
 	<option class="level-0" value="1347">World Market</option>
 	<option class="level-0" value="1354">Domino’s</option>
+	<option class="level-0" value="1364">GAP</option>
 	<option class="level-0" value="1387">Burger King</option>
 	<option class="level-0" value="1442">KMART</option>
 	<option class="level-0" value="1503">B.J.’s Wholesale</option>
@@ -667,11 +566,13 @@ google_ad_height = 250;
 	<option class="level-0" value="3189">photo deals</option>
 	<option class="level-0" value="3359">Staples</option>
 	<option class="level-0" value="3547">Macy’s</option>
+	<option class="level-0" value="3646">Petco</option>
 	<option class="level-0" value="5107">Deal Scenarios</option>
 	<option class="level-0" value="5718">cookbooks</option>
 	<option class="level-0" value="6931">Wendy’s</option>
 	<option class="level-0" value="7100">Mobile Coupons</option>
 	<option class="level-0" value="9542">Groupon</option>
+	<option class="level-0" value="9575">Couponing for Community</option>
 	<option class="level-0" value="9727">H-E-B</option>
 	<option class="level-0" value="9870">BiLo</option>
 	<option class="level-0" value="9934">Safeway</option>
@@ -698,7 +599,6 @@ google_ad_height = 250;
 	<option class="level-0" value="17007">Trader Joe’s</option>
 	<option class="level-0" value="17114">entergiveaways</option>
 	<option class="level-0" value="17948">Whole Foods</option>
-	<option class="level-0" value="18227">Kindle</option>
 	<option class="level-0" value="19526">Facebook offer</option>
 	<option class="level-0" value="19599">Lowes Foods</option>
 	<option class="level-0" value="19960">Recyclebank</option>
@@ -707,10 +607,6 @@ google_ad_height = 250;
 	<option class="level-0" value="22524">Bonefish Grill</option>
 	<option class="level-0" value="22616">Parenting</option>
 	<option class="level-0" value="22645">Cash Back</option>
-	<option class="level-0" value="22671">Reader Mojo</option>
-	<option class="level-0" value="23613">Blockbuster</option>
-	<option class="level-0" value="24810">Calendar</option>
-	<option class="level-0" value="24840">Military freebies</option>
 	<option class="level-0" value="25559">Dollar General</option>
 	<option class="level-0" value="25724">Gluten Free Coupons</option>
 	<option class="level-0" value="25753">Organic food coupons</option>
@@ -718,6 +614,14 @@ google_ad_height = 250;
 	<option class="level-0" value="26026">Staples</option>
 	<option class="level-0" value="26406">Kindle ebooks</option>
 	<option class="level-0" value="26770">Menards</option>
+	<option class="level-0" value="29024">Michaels</option>
+	<option class="level-0" value="30233">Hobby Lobby</option>
+	<option class="level-0" value="30553">JoAnn Fabric Store</option>
+	<option class="level-0" value="30814">DIY</option>
+	<option class="level-0" value="30923">JoAnn Fabric Store</option>
+	<option class="level-0" value="33160">Expired</option>
+	<option class="level-0" value="34417">Farm Fresh</option>
+	<option class="level-0" value="35208">Military freebies</option>
 </select>
 <script type="text/javascript"><!--
     var dropdown = document.getElementById("cat");
@@ -727,14 +631,27 @@ google_ad_height = 250;
 		}
     }
     dropdown.onchange = onCatChange;
---></script></div></div></div></div><div id="text-41" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Great Offers!</h5>			<div class="textwidget"><a href="http://strk.enlnks.com/aff_c?offer_id=365&amp;aff_id=19&amp;file_id=2868" target="_blank"><img src="http://media.enimgs.net/brand/files//escalatenetwork/365/BT125_125.jpg" width="125" height="125" alt="" border="0"></a><img src="http://strk.enlnks.com/aff_i?offer_id=365&amp;aff_id=19&amp;file_id=2868" width="1" height="1" alt="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://strk.enlnks.com/aff_c?offer_id=380&amp;aff_id=19" target="_blank"><img src="http://media.enimgs.net/brand/files//escalatenetwork/380/125x125_v5.jpg" alt="" width="125" height="125" border="0"></a><img src="http://strk.enlnks.com/aff_i?offer_id=380&amp;aff_id=19" width="1" height="1" alt="">
-&nbsp; 
-&nbsp; 
-<a href="http://strk.enlnks.com/aff_c?offer_id=233&amp;aff_id=19&amp;file_id=2286" target="_blank"><img src="http://media.enimgs.net/brand/files//escalatenetwork/233/WomanFreebies125x125.gif" alt="" width="125" height="125" border="0"></a><img src="http://strk.enlnks.com/aff_i?offer_id=233&amp;aff_id=19&amp;file_id=2286" width="1" height="1" alt="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://strk.enlnks.com/aff_c?offer_id=235&amp;aff_id=19" target="_blank"><img src="http://media.enimgs.net/brand/files//escalatenetwork/235/CPBF125.gif" width="125" height="125" border="0" alt=""></a><img src="http://strk.enlnks.com/aff_i?offer_id=235&amp;aff_id=19" width="1" height="1" alt="">
-&nbsp; 
-&nbsp; 
-<a href="http://strk.enlnks.com/aff_c?offer_id=262&amp;aff_id=19" target="_blank"><img src="http://media.enimgs.net/brand/files//escalatenetwork/262/MySurvey300x250B.jpg" width="125" height="125" border="0" alt=""></a><img src="http://strk.enlnks.com/aff_i?offer_id=262&amp;aff_id=19" width="1" height="1" alt="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://strk.enlnks.com/aff_c?offer_id=381&amp;aff_id=19" target="_blank"><img src="http://media.enimgs.net/brand/files//escalatenetwork/381/125-X-125_version1.gif" alt="" width="125" height="125" border="0"></a><img src="http://strk.enlnks.com/aff_i?offer_id=381&amp;aff_id=19" width="1" height="1" alt=""></div>
+--></script></div></div><div id="text-42" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Mojo Savings Mobile Apps!</h5>			<div class="textwidget"><center><a href="http://itunes.apple.com/us/app/mojo-savings/id466798511?mt=8"><img src="http://mojosavings.com/wp-content/uploads/2011/11/App-Store.png" width="300" height="100" alt="Mojo Savings on the App Store"></a></center>
+<br>
+
+<a href="https://market.android.com/details?id=org.majoobi.App.mojosavings"><img src="http://mojosavings.com/wp-content/uploads/2011/11/Android-Market.png" width="300" height="100" alt="Mojo Savings on the Android Market"></a></div>
 		</div></div><div id="text-38" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Grocery Store Weekly Deals</h5>			<div class="textwidget"><table border="2" width="275" bgcolor="#FCFDFD">
+<tbody>
+<tr>
+<td style="width: 147px; padding-right: 20px;"><a href="http://mojosavings.com/category/grocery-stores/target-grocery-stores/" target="_blank">Target</a></td>
+<td style="width: 147px;"><a href="http://mojosavings.com/category/grocery-stores/wal-mart/" target="_blank">Walmart</a></td>
+</tr>
+<tr>
+<td style="width: 147px; padding-right: 20px;"><a href="http://mojosavings.com/category/drug-stores/cvs/" target="_blank">CVS</a></td>
+<td style="width: 147px;"><a href="http://mojosavings.com/category/drug-stores/walgreens/" target="_blank">Walgreens</a></td>
+</tr>
+<tr>
+<td style="width: 147px;"><a href="http://mojosavings.com/category/drug-stores/rite-aid-drug-stores/" target="_blank">Rite Aid</a></td>
+</tr>
+</tbody>
+</table>
+<br>
+<table border="2" width="275" bgcolor="#FCFDFD">
 <tbody>
 <tr>
 <td><a href="http://dealiciousfinds.com/category/albertsons/" target="_blank">Albertsons</a></td>
@@ -790,20 +707,23 @@ google_ad_height = 250;
 </tr>
 </tbody>
 </table></div>
-		</div></div><div id="text-34" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">RedPlum Coupons</h5>			<div class="textwidget"><script id="rp-widget-script" type="text/javascript" src="http://www.redplum.com/syndication/widgets/offercarousel/widget.js?synSrc=MojoSavings&amp;style=simple_300x250&amp;numOffers="></script>
-<div id="rp-widget-container"></div></div>
-		</div></div><div id="text-8" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Sponsors</h5>			<div class="textwidget"><div style="text-align:center;">
-<table border="0" width="100%">
-<tbody><tr>
-<td> <div align="center"><a href="http://www.stockpilingmoms.com" title="Stockpiling Moms"><img src="http://www.stockpilingmoms.com/wp-content/uploads/2010/02/button150x150.png" width="125" height="125" alt=""></a></div></td>
-<td><a href="http://jennysfreecoupons.com/"><img src="http://mojosavings.com/wp-content/uploads/2011/07/FCM_125x125.png" width="125" height="125" alt=""></a></td>
-</tr>
-<tr><td><center><a href="http://www.mommyluvs2save.com/" target="_blank"><img border="0" alt="" src="http://mojosavings.com/wp-content/uploads/2011/09/ml2save_125.jpg" width="125" height="125"></a></center></td><td><script type="text/javascript" src="http://www.offeron.com/scripts/adtag.js"> </script>
-<script type="text/javascript">    showad(125,125,'m');</script></td></tr><tr><td><center><a href="http://www.rewardsrunner.com?src=mojosav&amp;T1=rrbanner&amp;T2=bannerad"><img src="http://mojosavings.com/wp-content/uploads/2011/11/RR_5DD_125x125.jpg" alt=""></a></center></td><td><center>Advertise Here</center></td></tr>
-</tbody></table>
-</div></div>
-		</div></div><div id="text-32" class="widget widget_text"><div class="wcontent">			<div class="textwidget"><script type="text/javascript" src="http://assets1.grouponcdn.com/javascripts/common/widget.js"></script><script type="text/javascript">new GRPN.Widget({"referral_code":"uu6298494"}).render();</script></div>
-		</div></div><div id="text-31" class="widget widget_text"><div class="wcontent">			<div class="textwidget"><script type="text/javascript" src="http://adunit.lsl8.com/ug2vfB3dx0WwxRReKaTSKQ"></script></div>
+		</div></div><div id="text-41" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Great Offers!</h5>			<div class="textwidget"><a href="http://strk.enlnks.com/aff_c?offer_id=365&amp;aff_id=19&amp;file_id=2868" target="_blank"><img src="http://media.enimgs.net/brand/files//escalatenetwork/365/BT125_125.jpg" width="125" height="125" alt="" border="0"></a><img src="http://strk.enlnks.com/aff_i?offer_id=365&amp;aff_id=19&amp;file_id=2868" width="1" height="1" alt="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://strk.enlnks.com/aff_c?offer_id=380&amp;aff_id=19" target="_blank"><img src="http://media.enimgs.net/brand/files//escalatenetwork/380/125x125_v5.jpg" alt="" width="125" height="125" border="0"></a><img src="http://strk.enlnks.com/aff_i?offer_id=380&amp;aff_id=19" width="1" height="1" alt="">
+&nbsp; 
+&nbsp; 
+<a href="http://strk.enlnks.com/aff_c?offer_id=233&amp;aff_id=19&amp;file_id=2286" target="_blank"><img src="http://media.enimgs.net/brand/files//escalatenetwork/233/WomanFreebies125x125.gif" alt="" width="125" height="125" border="0"></a><img src="http://strk.enlnks.com/aff_i?offer_id=233&amp;aff_id=19&amp;file_id=2286" width="1" height="1" alt="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://strk.enlnks.com/aff_c?offer_id=235&amp;aff_id=19" target="_blank"><img src="http://media.enimgs.net/brand/files//escalatenetwork/235/CPBF125.gif" width="125" height="125" border="0" alt=""></a><img src="http://strk.enlnks.com/aff_i?offer_id=235&amp;aff_id=19" width="1" height="1" alt="">
+&nbsp; 
+&nbsp; 
+<a href="http://strk.enlnks.com/aff_c?offer_id=262&amp;aff_id=19" target="_blank"><img src="http://media.enimgs.net/brand/files//escalatenetwork/262/MySurvey300x250B.jpg" width="125" height="125" border="0" alt=""></a><img src="http://strk.enlnks.com/aff_i?offer_id=262&amp;aff_id=19" width="1" height="1" alt="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://strk.enlnks.com/aff_c?offer_id=381&amp;aff_id=19" target="_blank"><img src="http://media.enimgs.net/brand/files//escalatenetwork/381/125-X-125_version1.gif" alt="" width="125" height="125" border="0"></a><img src="http://strk.enlnks.com/aff_i?offer_id=381&amp;aff_id=19" width="1" height="1" alt=""></div>
+		</div></div><div id="text-7" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Samples</h5>			<div class="textwidget"><ul>
+<li><a href="http://mojosavings.com/category/free-sample/">All Recent Free Samples</a></li>
+		<li><a href="http://lm.logicalmedia.com/z/14172/CD7606">FreeFlys</a></li>
+		<li><a href="http://partners.mysavings.com/z/778/CD1306">My Savings</a></li>
+<li><a href="http://www.icravefreebies.com/">I Crave Freebies</a></li>	
+
+<li><a href="http://enlnks.com/SFEo">That Freebie Site</a></li>	
+</ul>
+<br>
+</div>
 		</div></div><div id="text-5" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Getting Started</h5>			<div class="textwidget">Welcome aboard! We are glad to have you. We can teach you how to be savvy by working your MoJo and saving up to 50% of your budget whether you need to, or want to. We did it and so can you. Join us and ride the wave to savings!
 <br>
 <h3>Getting Started</h3>
@@ -819,29 +739,15 @@ google_ad_height = 250;
 </ul>
 <br>
 </div>
-		</div></div><div id="text-17" class="widget widget_text"><div class="wcontent">			<div class="textwidget">
-
-<script type="text/javascript">
-<!--
-	escalate_ad_affiliate_id = "19";
-	escalate_ad_size = "300x250";
-	escalate_ad_font_family = "1"
-	escalate_ad_font_size = "medium";
-	escalate_ad_font_color = "000";
-	escalate_ad_link_color = "00f";
-	escalate_ad_bg_color = "ebebeb";
-	escalate_ad_border_color = "438ccb";
-//-->
-</script>
-<script type="text/javascript" src="http://www.escalatenetwork.com/widget/show_ads.js">
-</script>
-		</div>
-		</div></div><div id="text-27" class="widget widget_text"><div class="wcontent">			<div class="textwidget"><iframe name="eversave300x250IFrame" id="eversave300x250IFrame" src="http://www.eversave.com/common/Banner300x250IF.jsp?bannerID=170&amp;sourceid=76188" marginwidth="0" marginheight="0" width="300" height="250" scrolling="no" frameborder="0"></iframe>
-<br>
-<br>
-<a href="http://partners.mysavings.com/z/8156/CD1306/"><img src="http://img.directtrack.com/mysavings/8156.gif" alt="SavingStar" border="0" width="300" height="249"></a>
- </div>
 		</div></div><div id="text-29" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Swagbucks</h5>			<div class="textwidget"><script type="text/javascript" src="http://cdn.widgetserver.com/syndication/subscriber/InsertWidget.js"></script><script type="text/javascript">if (WIDGETBOX) WIDGETBOX.renderWidget('76e88692-0d7b-4f8d-80d0-166571ccd9cd');</script><noscript>Get the <a href="http://www.widgetbox.com/widget/swidget-10">Swidget 1.0</a> widget and many other <a href="http://www.widgetbox.com/">great free widgets</a> at <a href="http://www.widgetbox.com">Widgetbox</a>! Not seeing a widget? (<a href="http://docs.widgetbox.com/using-widgets/installing-widgets/why-cant-i-see-my-widget/">More info</a>)</noscript></div>
+		</div></div><div id="text-8" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Sponsors</h5>			<div class="textwidget"><div style="text-align:center;">
+<table border="0" width="100%">
+<tbody><tr>
+<td> <div align="center"><a href="http://www.stockpilingmoms.com" title="Stockpiling Moms"><img src="http://www.stockpilingmoms.com/wp-content/uploads/2010/02/button150x150.png" width="125" height="125" alt=""></a></div></td>
+<td><a href="http://jennysfreecoupons.com/"><img src="http://mojosavings.com/wp-content/uploads/2011/07/FCM_125x125.png" width="125" height="125" alt=""></a></td>
+</tr>
+<tr><td><center><a href="http://www.mommyluvs2save.com/" target="_blank"><img border="0" alt="" src="http://mojosavings.com/wp-content/uploads/2011/09/ml2save_125.jpg" width="125" height="125"></a></center></td><td>Advertise Here</td></tr>
+</tbody></table></div>
 		</div></div><div id="text-22" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Grab Our Button</h5>			<div class="textwidget">                                                                 
                                                                      
                                                                  
@@ -855,7 +761,18 @@ google_ad_height = 250;
 		</div></div><div id="text-37" class="widget widget_text"><div class="wcontent"><h5 class="wtitle">Policies of Mojo</h5>			<div class="textwidget"><a href="http://mojosavings.com/privacy-policy-disclosure/">Privacy Policy</a>
 <br>
 <br>
-<a href="http://mojosavings.com/privacy-policy-disclosure/">Disclosure Policy</a></div>
+<a href="http://mojosavings.com/privacy-policy-disclosure/">Disclosure Policy</a>
+
+<br>
+<br>
+<center><a href="http://www.escalatenetwork.com/publishers/?referral_id=19"><img src="http://cdn.escalatenetwork.com/banners/EN_Buttons/EN-125px-Seal-Grey.png"></a></center>
+
+
+<!-- Site Meter XHTML Strict 1.0 -->
+<script type="text/javascript" src="http://s28.sitemeter.com/js/counter.js?site=s28mojosavings">
+</script>
+<!-- Copyright (c)2009 Site Meter -->
+</div>
 		</div></div>	</div> 
 </div><div class="clear"></div>
 </div>
@@ -873,29 +790,6 @@ google_ad_height = 250;
 </ul>			</div>
 		</div>
 	</div>
-<script type="text/javascript">
-/* <![CDATA[ */
-var emailL10n = {
-	ajax_url: "http://mojosavings.com/wp-content/plugins/wp-email/wp-email.php",
-	max_allowed: "15",
-	text_error: "The Following Error Occurs:",
-	text_name_invalid: "- Your Name is empty/invalid",
-	text_email_invalid: "- Your Email is empty/invalid",
-	text_remarks_invalid: "- Your Remarks is invalid",
-	text_friend_names_empty: "- Friend Name(s) is empty",
-	text_friend_name_invalid: "- Friend Name is empty/invalid: ",
-	text_max_friend_names_allowed: "- Maximum 15 Friend Names allowed",
-	text_friend_emails_empty: "- Friend Email(s) is empty",
-	text_friend_email_invalid: "- Friend Email is invalid: ",
-	text_max_friend_emails_allowed: "- Maximum 15 Friend Emails allowed",
-	text_friends_tally: "- Friend Name(s) count does not tally with Friend Email(s) count",
-	text_image_verify_empty: "- Image Verification is empty"
-};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://mojosavings.com/wp-content/plugins/wp-email/email-js.js"></script>
-<script type="text/javascript" src="http://mojosavings.com/wp-content/plugins/tabbed-widgets/js/jquery-ui-custom.min.js"></script>
-<script type="text/javascript" src="http://mojosavings.com/wp-content/plugins/tabbed-widgets/js/jquery-cookie.min.js"></script>
 <script language="javascript" type="text/javascript">var kpg_nrci_image="http://mojosavings.com/wp-content/plugins/no-right-click-images-plugin/not.gif";var kpg_nrci_extra="N";var kpg_nrci_drag="Y";</script>
 <script language="javascript" type="text/javascript" src="http://mojosavings.com/wp-content/plugins/no-right-click-images-plugin/no-right-click-images.js"></script>
 <script type="text/javascript">var $rotateoptions = new Array();
@@ -905,12 +799,6 @@ $rotateoptions[2]["rotate"] = 0;
 $rotateoptions[2]["random_start"] = 0;
 $rotateoptions[2]["start_tab"] = 0;
 $rotateoptions[2]["interval"] = 10000;
-$rotateoptions[3] = new Array();
-$rotateoptions[3]["style"] = "tabs";
-$rotateoptions[3]["rotate"] = 0;
-$rotateoptions[3]["random_start"] = 0;
-$rotateoptions[3]["start_tab"] = 0;
-$rotateoptions[3]["interval"] = 10000;
 </script>
 <script type="text/javascript" src="http://mojosavings.com/wp-content/plugins/tabbed-widgets/js/init-plugin.js"></script>
 
@@ -924,7 +812,17 @@ var pageTracker = _gat._getTracker("UA-10132683-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<!-- AdSense Manager v4.0.2 (0.741 seconds.) -->
+<!-- AdSense Manager v4.0.3 (0.961 seconds.) --><script type="text/javascript">
+/* <![CDATA[ */
+var emailL10n = {"ajax_url":"http:\/\/mojosavings.com\/wp-admin\/admin-ajax.php","max_allowed":"15","text_error":"The Following Error Occurs:","text_name_invalid":"- Your Name is empty\/invalid","text_email_invalid":"- Your Email is empty\/invalid","text_remarks_invalid":"- Your Remarks is invalid","text_friend_names_empty":"- Friend Name(s) is empty","text_friend_name_invalid":"- Friend Name is empty\/invalid: ","text_max_friend_names_allowed":"- Maximum 15 Friend Names allowed","text_friend_emails_empty":"- Friend Email(s) is empty","text_friend_email_invalid":"- Friend Email is invalid: ","text_max_friend_emails_allowed":"- Maximum 15 Friend Emails allowed","text_friends_tally":"- Friend Name(s) count does not tally with Friend Email(s) count","text_image_verify_empty":"- Image Verification is empty"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://mojosavings.com/wp-content/plugins/wp-email/email-js.js"></script>
+<script type="text/javascript" src="http://mojosavings.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js"></script>
+<script type="text/javascript" src="http://mojosavings.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js"></script>
+<script type="text/javascript" src="http://mojosavings.com/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js"></script>
+<script type="text/javascript" src="http://mojosavings.com/wp-content/plugins/tabbed-widgets/js/jquery-cookie.min.js"></script>
+
 <!-- Start of StatCounter Code -->
 <script type="text/javascript">
 var sc_project=4988135; 
@@ -937,4 +835,7 @@ var sc_security="a27e5c9f";
 <script async="" type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script async="" src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
 
-</body></html>
+
+<!-- Dynamic page generated in 0.963 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2012-06-06 11:29:12 -->
+<!-- Compression = gzip --></div></body></html>
