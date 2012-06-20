@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowpublic.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219185612id_/http%3A//www.nowpublic.com/newsroom/community/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowpublic.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621014053id_/http%3A//www.nowpublic.com/newsroom/community/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Community | Newsroom | NowPublic
 
