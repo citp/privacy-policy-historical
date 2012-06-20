@@ -1,31 +1,59 @@
-> *The following text is extracted and transformed from the cashreview.net privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216134353id_/http%3A//www.cashreview.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashreview.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620120336id_/http%3A//www.cashreview.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | CashReview.net
+# Privacy | CashReview.net
 
-Your Privacy:
+_What Information Do We Collect?_
 
-Your privacy is important to me.  To better protect your privacy I’ll provide this notice explaining my online information practices and the choices you can make about the way your information is collected and used.
+We collect information from you when you register on my site or subscribe to my newsletter. When ordering or registering on my site, as appropriate, you may be asked to enter your e-mail address. You may, however, visit my site anonymously.
 
-To make this notice easy to find, I make it available on my homepage and at every point where personally identifiable information may be requested.
+_What Do We Use Your Information For?_
 
-I will not be putting up spammy-ass Adsense on this site, so you don’t have to worry about cookies from Google or other advertising companies.
+Any of the information we collect from you may be used in one of the following ways:
 
-Collection of Personal Information:
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions
 
-When visiting CashReview.net or any of my [Internet marketing coaching](http://www.cashreview.net/internet-marketing-coaching/) or product [review](http://www.cashreview.net/review/ "Review") posts, the IP address used to access the site will be logged along with the dates and times of access.  This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use.
 
-Most importantly, any recorded IP addresses are not linked to personally identifiable information. I do have a hover pop and a multiple opt-in forms throughout the site.  Your information is 100% safe and secure and will never be rented, shared, sold or compromised in any other way.
 
-This is something I take very serious.  SPAM sucks and I would never contribute to the “shadeball” marketing movement.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested; to administer a contest, promotion, survey or other site feature; or to send periodic emails.
 
-Links to Third Party Websites:
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, promotions, and so on.
 
-I’ve included links on this site for your use and reference.  I’m not responsible for the privacy policies on these websites.  You should be aware that the privacy policies of these sites may differ from mine.
+Note: If at any time you would like to unsubscribe from receiving future emails, we have included a one-click unsubscribe link at the bottom of each email.
 
-Changes to This Privacy Statement:
+_How Do We Protect Your Information?_
 
-The contents of this statement may be altered at any time, at my totally powerful discretion. If you have any questions regarding the privacy policy of **CashReview.net** , then you may contact me by clicking on the “Contact” tab (go figure, right?) in the upper right hand corner of any page.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-Be safe out there.
+_Do We Use Cookies?_
 
-Brad Campbell
+We do not use cookies.
+
+_Do We Disclose Any Information to Outside Parties?_
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist in operating this website, conducting this business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce my site policies, or protect our own (or others) rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+_Third party links:_
+
+Occasionally, at our discretion, we may include or offer third party products or services on this website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of this website and welcome any feedback about these third party sites.
+
+_California Online Privacy Protection Act Compliance:_
+
+Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+_Childrens Online Privacy Protection Act Compliance:_
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), as we do not collect any information from anyone under 13 years of age. This website, products and services are all directed to people who are at least 13 years old or older.
+
+_Terms and Conditions:_
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of this website by [clicking here](http://www.cashreview.net/disclaimer/).
+
+_Your Consent:_
+
+By using this site, you consent to our web site privacy policy.
+
+_Changes to Our Privacy Policy:_
+
+If we decide to change this privacy policy, I’ll post those changes on this page. This policy was last modified on March 12th, 2012.
