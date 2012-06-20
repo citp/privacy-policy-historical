@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesecret.tv privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112525id_/http%3A//www.thesecret.tv/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesecret.tv privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620030646id_/http%3A//www.thesecret.tv/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Official Web Site of The Secret and The Power
+# Privacy Policy :: Official Web Site of The Secret
 
 The Secret's Customer Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by Prime Time US Inc. ("The Secret" or "us" or "we") anytime you interact with The Secret or visit our website. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at The Secret, and we go to great lengths to protect it. 
 
