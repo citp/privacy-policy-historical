@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2btrade.biz privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218201934id_/http%3A//www.b2btrade.biz/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2btrade.biz privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620094327id_/http%3A//www.b2btrade.biz/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of B2btrade.biz - Asia B2B trade Portal for Import Export Business focus on Asia
 
@@ -59,7 +59,7 @@ We can't guarantee your email address wont be extracted by a third party email e
 
 B2Btrade.biz gives you the ability to edit your b2btrade.biz Account Information and preferences at any time.
 
-You may request deletion of your b2btrade.biz account by sending an email to info@b2btrade.biz. 
+You may request deletion of your b2btrade.biz account by sending an email to bizviet@gmail.com. 
 
 **Changes to this Privacy Policy**
 
@@ -71,9 +71,7 @@ B2Btrade.biz is not directed to children under the age of 13. We operate our sit
 
 **Questions or Suggestions**
 
-If you have questions or suggestions complete a feedback form or send an email to info@b2btrade.biz. 
-
-Asia B2B Trade Portal 
+If you have questions or suggestions complete a feedback form or send an email to bizviet@gmail.com. 
 
 |    
 |   
