@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentable.co.uk privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226195413id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentable.co.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620041950id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Online Reservations Privacy Policy - OpenTable
 
@@ -50,9 +50,9 @@ Where you have consented to receive marketing communications from OpenTable, you
 
 You may also consent to receive marketing communications from the restaurant at which you've made a reservation. OpenTable plays no role in the content, frequency, timing or unsubscription process of any restaurant's marketing communications. If you would like to unsubscribe from a restaurant's marketing communications, please contact the appropriate restaurant directly. 
 
-**Location data:**
+**Mobile:**
 
-OpenTable Websites can provide helpful information based on where you are. If you tell us where you are (i.e., by allowing your mobile device to send us your location), we may use that information to provide you with location-based information. If you want to deactivate this feature, you can disable location services on your mobile device, please contact your carrier for more information. 
+When you visit or use the OpenTable Websites on a mobile device, OpenTable may collect information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services and information, as well as to produce aggregate statistical data for the improvement of services offered by the OpenTable Websites. We outsource some of our technical, tracking and reporting functions, and other services to third parties. We may share information from or about you with them so that they can perform their services. Most mobile devices allow you to turn off location services. For more information about how to do this, please contact your mobile service carrier or your device manufacturer.
 
 **Social Media**
 
@@ -143,4 +143,6 @@ OpenTable is a participant in the U.S.-EU Safe Harbor program and the U.S.-Swiss
 
 **_BBB Safe Harbor Privacy Dispute Resolution_**
 
-OpenTable is a participant in the Council of Business Bureau's BBB Safe Harbor Privacy Dispute Program. If you believe OpenTable has not satisfactorily addressed your data privacy concerns, you may contact the Council of Business Bureau at www.bbb.org
+In compliance with the U.S.-EU Safe Harbor Privacy Principles and U.S.-Swiss Safe Harbor Privacy Principles, OpenTable commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact OpenTable via email at info@opentable.com or by mail at: OpenTable, Attn: Legal Department, 799 Market Street 4th Floor, San Francisco, CA 94103.
+
+OpenTable has further committed to refer unresolved privacy complaints under the U.S.-EU Safe Harbor Privacy Principles and U.S.-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by OpenTable, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
