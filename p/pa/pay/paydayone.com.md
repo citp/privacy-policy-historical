@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayone.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226235747id_/http%3A//www.paydayone.com/modules/privacypolicy/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayone.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620211739id_/http%3A//www.paydayone.com/modules/privacypolicy/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ What?  |  The types of personal information we collect and share depend on the p
 
   
   
-How?  |  All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons PayDay One chooses to share; and whether you can limit this sharing.   
+How?  |  All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons PayDay One chooses to share; and whether you can limit this sharing.   
 Reasons we can share your personal information  |  Does PayDay One share?  |  Can you limit this sharing?   
 **For our everyday business purposes** – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus  |  Yes  |  No   
 **For our marketing purposes** – to offer our products and services to you  |  Yes  |  No   
@@ -52,7 +52,7 @@ What we do?
 ---  
 How does PayDay One protect my personal information?  |  To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
 
-We also maintain physical, electronic and procedural safeguards i.e. computer virus protection software, firewalls, 128 bit Secure Socket Layer. Only authorized employees have access.   
+We also maintain physical, electronic and procedural safeguards (i.e. computer virus protection software, firewalls, 128-bit Secure Socket Layer). Only authorized employees have access.   
   
 How does PayDay One collect my personal information?  |  We collect your personal information, for example, when you 
 
@@ -65,9 +65,9 @@ How does PayDay One collect my personal information?  |  We collect your persona
 
 
 We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
-Why can’t I limit all sharing?  |  Federal law gives you the right to limit only 
+Why can't I limit all sharing?  |  Federal law gives you the right to limit only 
 
-  * Sharing for affiliates’ everyday business purposes-information about your creditworthiness
+  * Sharing for affiliates' everyday business purposes-information about your creditworthiness
   * Affiliates from using your information to market to you
   * Sharing for nonaffiliates to market to you.
 
@@ -76,19 +76,19 @@ Why can’t I limit all sharing?  |  Federal law gives you the right to limit on
 State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.   
 What happens when I limit sharing for an account I hold jointly with someone else?  |  Your choices will apply to everyone on your account.   
 Definitions   
-Affiliates  |  Financial and nonfinancial companies related by common ownership or control.
+Affiliates  |  Financial and nonfinancial companies related by common ownership or control. 
 
   * Our affiliates include companies with a common corporate identity of PayDay One such as PDO Financial, LLC.
 
   
   
-Nonaffiliates  |  Financial and nonfinancial companies not related by common ownership or control.
+Nonaffiliates  |  Financial and nonfinancial companies not related by common ownership or control. 
 
   * Nonaffiliates we share with can include direct marketing companies for application resell, direct mail and other purposes.
 
   
   
-Joint Marketing  |  A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+Joint Marketing  |  A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
   * Our joint marketing partners include financial institutions, credit card companies, partners that promote our products, pre-paid debit card providers and other lending companies.
 
@@ -96,10 +96,10 @@ Joint Marketing  |  A formal agreement between nonaffiliated financial companies
   
 Other important information   
 ---  
-**Vermont residents** : We will not disclose information about you with affiliates or non-affiliated, third party companies or financial institutions, other than as required or permitted by law, without your express permission.  
-**California residents** : We will not share information we collect about you with affiliated or non-affiliated third parties, except in the limited circumstances permitted under state law, or if you give us your permission.  
-**North Dakota residents** : We will not disclose information about you with non-affiliated, third party companies or financial institutions, other than as required or permitted by law, without your express permission.  
-**Nevada residents** : If you would like more information regarding this notice or Nevada’s law regarding corporate do-not-call registries, you can contact us at the toll-free number or address included in this notice or the Bureau of Consumer Protection, Office of the Nevada Attorney General at 555 E. Washington Street, Suite 3900, Las Vegas, Nevada 89101; Phone: (702)486-3132/Email: [ BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us).   
+**Vermont residents** : We will not disclose information about you with affiliates or non-affiliated, third-party companies or financial institutions, other than as required or permitted by law, without your express permission.  
+**California residents** : We will not share information we collect about you with affiliated or non-affiliated third-parties, except in the limited circumstances permitted under state law, or if you give us your permission.  
+**North Dakota residents** : We will not disclose information about you with non-affiliated, third-party companies or financial institutions, other than as required or permitted by law, without your express permission.  
+**Nevada residents** : If you would like more information regarding this notice or Nevada's law regarding corporate do-not-call registries, you can contact us at the toll-free number or address included in this notice or the Bureau of Consumer Protection, Office of the Nevada Attorney General at 555 E. Washington Street, Suite 3900, Las Vegas, Nevada 89101; Phone: (702)486-3132/Email: [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us).   
   
 Ohio CSO Privacy Policy
 
@@ -116,7 +116,7 @@ What?  |  The types of personal information we collect and share depend on the p
 
   
   
-How?  |  All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons PayDay One Express of Ohio chooses to share; and whether you can limit this sharing.   
+How?  |  All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons PayDay One Express of Ohio chooses to share; and whether you can limit this sharing.   
 Reasons we can share your personal information  |  Does PayDay One Express of Ohio share?  |  Can you limit this sharing?   
 **For our everyday business purposes** – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus  |  Yes  |  No   
 **For our marketing purposes** – to offer our products and services to you  |  Yes  |  No   
@@ -143,7 +143,7 @@ What we do?
 ---  
 How does PayDay One Express of Ohio protect my personal information?  |  To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
 
-We also maintain physical, electronic and procedural safeguards i.e. computer virus protection software, firewalls, 128 bit Secure Socket Layer. Only authorized employees have access.   
+We also maintain physical, electronic and procedural safeguards (i.e. computer virus protection software, firewalls, 128-bit Secure Socket Layer). Only authorized employees have access.   
   
 How does PayDay One Express of Ohio collect my personal information?  |  We collect your personal information, for example, when you 
 
@@ -156,9 +156,9 @@ How does PayDay One Express of Ohio collect my personal information?  |  We coll
 
 
 We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
-Why can’t I limit all sharing?  |  Federal law gives you the right to limit only 
+Why can't I limit all sharing?  |  Federal law gives you the right to limit only 
 
-  * Sharing for affiliates’ everyday business purposes-information about your creditworthiness
+  * Sharing for affiliates' everyday business purposes-information about your creditworthiness
   * Affiliates from using your information to market to you
   * Sharing for nonaffiliates to market to you.
 
@@ -167,19 +167,19 @@ Why can’t I limit all sharing?  |  Federal law gives you the right to limit on
 State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.   
 What happens when I limit sharing for an account I hold jointly with someone else?  |  Your choices will apply to everyone on your account.   
 Definitions   
-Affiliates  |  Financial and nonfinancial companies related by common ownership or control.
+Affiliates  |  Financial and nonfinancial companies related by common ownership or control. 
 
   * Our affiliates include companies with a common corporate identity of PayDay One Express of Ohio such as PDO Financial, LLC.
 
   
   
-Nonaffiliates  |  Financial and nonfinancial companies not related by common ownership or control.
+Nonaffiliates  |  Financial and nonfinancial companies not related by common ownership or control. 
 
   * Nonaffiliates we share with can include direct marketing companies for application resell, direct mail and other purposes.
 
   
   
-Joint Marketing  |  A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+Joint Marketing  |  A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
   * Our joint marketing partners include financial institutions, credit card companies, partners that promote our products, pre-paid debit card providers and other lending companies.
 
@@ -202,7 +202,7 @@ What?  |  The types of personal information we collect and share depend on the p
 
 When you are _no longer_ our customer, we continue to share your information as described in this notice.   
   
-How?  |  All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons RCL Finance, Inc. chooses to share; and whether you can limit this sharing.   
+How?  |  All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons RCL Finance, Inc. chooses to share; and whether you can limit this sharing.   
 Reasons we can share your personal information  |  Does RCL Finance, Inc. share?  |  Can you limit this sharing?   
 **For our everyday business purposes** – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus  |  Yes  |  No   
 **For our marketing purposes** – to offer our products and services to you  |  Yes  |  No   
@@ -229,9 +229,9 @@ How does RCL Finance, Inc. collect my personal information?  |  We collect your 
 
 
 We also collect your personal information from other companies.   
-Why can’t I limit all sharing?  |  Federal law gives you the right to limit only 
+Why can't I limit all sharing?  |  Federal law gives you the right to limit only 
 
-  * Sharing for affiliates’ everyday business purposes-information about your creditworthiness
+  * Sharing for affiliates' everyday business purposes-information about your creditworthiness
   * Affiliates from using your information to market to you
   * Sharing for nonaffiliates to market to you.
 
@@ -253,15 +253,15 @@ Non-affiliates  |  Financial and nonfinancial companies not related by common ow
   
 Joint Marketing  |  A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-  * RCL Finance, Inc. doesn’t jointly market.
+  * RCL Finance, Inc. doesn't jointly market.
 
   
   
 Texas CSO Privacy Policy
 
-Rev. November 2010
+Rev. January 2012
 
-FACTS  |  WHAT DOES PAYDAY ONE EXPRESS DO WITH YOUR PERSONAL INFORMATION?   
+FACTS  |  WHAT DOES PAYDAY ONE EXPRESS2 OF TEXAS, LLC D/B/A PAYDAY ONE ("PAYDAY ONE") DO WITH YOUR PERSONAL INFORMATION?   
 ---|---  
 Why?  |  Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.   
 What?  |  The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
@@ -272,12 +272,12 @@ What?  |  The types of personal information we collect and share depend on the p
 
   
   
-How?  |  All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons PayDay One Express chooses to share; and whether you can limit this sharing.   
-Reasons we can share your personal information  |  Does PayDay One Express share?  |  Can you limit this sharing?   
+How?  |  All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons PayDay One chooses to share; and whether you can limit this sharing.   
+Reasons we can share your personal information  |  Does PayDay One share?  |  Can you limit this sharing?   
 **For our everyday business purposes** – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus  |  Yes  |  No   
 **For our marketing purposes** – to offer our products and services to you  |  Yes  |  No   
 **For joint marketing** with other financial companies  |  Yes  |  No   
-**For our affiliates’ everyday business purposes** – information about your transactions and experiences  |  Yes  |  No   
+**For our affiliates' everyday business purposes** – information about your transactions and experiences  |  Yes  |  No   
 **For our affiliates' everyday business purposes** – information about your creditworthiness  |  Yes  |  Yes   
 **For our affiliates to market to you** |  Yes  |  Yes   
 **For nonaffiliates to market to you** |  Yes  |  Yes   
@@ -297,11 +297,11 @@ However, you can contact us at any time to limit our sharing.
 Questions?  |  Call 866-580-1226; go to [www.paydayone.com](https://web.archive.org/); email us at [support@paydayone.com](mailto:support@paydayone.com).   
 What we do?   
 ---  
-How does PayDay One Express protect my personal information?  |  To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
+How does PayDay One protect my personal information?  |  To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
 
-We also maintain physical, electronic and procedural safeguards i.e. computer virus protection software, firewalls, 128 bit Secure Socket Layer. Only authorized employees have access.   
+We also maintain physical, electronic and procedural safeguards (i.e. computer virus protection software, firewalls, 128-bit Secure Socket Layer). Only authorized employees have access.   
   
-How does PayDay One Express collect my personal information?  |  We collect your personal information, for example, when you 
+How does PayDay One collect my personal information?  |  We collect your personal information, for example, when you 
 
   * Apply for a loan
   * Give us your income information
@@ -312,9 +312,9 @@ How does PayDay One Express collect my personal information?  |  We collect your
 
 
 We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
-Why can’t I limit all sharing?  |  Federal law gives you the right to limit only 
+Why can't I limit all sharing?  |  Federal law gives you the right to limit only 
 
-  * Sharing for affiliates’ everyday business purposes-information about your creditworthiness
+  * Sharing for affiliates' everyday business purposes-information about your creditworthiness
   * Affiliates from using your information to market to you
   * Sharing for nonaffiliates to market to you.
 
@@ -323,19 +323,19 @@ Why can’t I limit all sharing?  |  Federal law gives you the right to limit on
 State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.   
 What happens when I limit sharing for an account I hold jointly with someone else?  |  Your choices will apply to everyone on your account.   
 Definitions   
-Affiliates  |  Financial and nonfinancial companies related by common ownership or control.
+Affiliates  |  Financial and nonfinancial companies related by common ownership or control. 
 
-  * Our affiliates include companies with a common corporate identity of PayDay One Express such as PDO Financial, LLC.
+  * Our affiliates include companies that have common corporate ownership with PayDay One such as PDO Financial, LLC.
 
   
   
-Nonaffiliates  |  Financial and nonfinancial companies not related by common ownership or control.
+Nonaffiliates  |  Financial and nonfinancial companies not related by common ownership or control. 
 
   * Nonaffiliates we share with can include direct marketing companies for application resell, direct mail and other purposes.
 
   
   
-Joint Marketing  |  A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+Joint Marketing  |  A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
   * Our joint marketing partners include financial institutions, credit card companies, partners that promote our products, pre-paid debit card providers and other lending companies.
 
@@ -356,12 +356,12 @@ What?  |  The types of personal information we collect and share depend on the p
 
   
   
-How?  |  All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons DSI chooses to share; and whether you can limit this sharing.   
+How?  |  All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons DSI chooses to share; and whether you can limit this sharing.   
 Reasons we can share your personal information  |  Does DSI share?  |  Can you limit this sharing?   
 **For our everyday business purposes** – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus  |  Yes  |  No   
 **For our marketing purposes** – to offer our products and services to you  |  Yes  |  No   
 **For joint marketing** with other financial companies  |  Yes  |  No   
-**For our affiliates’ everyday business purposes** – information about your transactions and experiences  |  Yes  |  No   
+**For our affiliates' everyday business purposes** – information about your transactions and experiences  |  Yes  |  No   
 **For our affiliates' everyday business purposes** – information about your creditworthiness  |  Yes  |  Yes   
 **For our affiliates to market to you** |  Yes  |  Yes   
 **For nonaffiliates to market to you** |  Yes  |  Yes   
@@ -381,7 +381,7 @@ What we do?
 ---  
 How does DSI protect my personal information?  |  To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
 
-We also maintain physical, electronic and procedural safeguards i.e. computer virus protection software, firewalls, 128 bit Secure Socket Layer. Only authorized employees have access.   
+We also maintain physical, electronic and procedural safeguards (i.e. computer virus protection software, firewalls, 128-bit Secure Socket Layer). Only authorized employees have access.   
   
 How does DSI collect my personal information?  |  We collect your personal information, for example, when you 
 
@@ -394,9 +394,9 @@ How does DSI collect my personal information?  |  We collect your personal infor
 
 
 We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
-Why can’t I limit all sharing?  |  Federal law gives you the right to limit only 
+Why can't I limit all sharing?  |  Federal law gives you the right to limit only 
 
-  * Sharing for affiliates’ everyday business purposes-information about your creditworthiness
+  * Sharing for affiliates' everyday business purposes-information about your creditworthiness
   * Affiliates from using your information to market to you
   * Sharing for nonaffiliates to market to you.
 
@@ -405,22 +405,22 @@ Why can’t I limit all sharing?  |  Federal law gives you the right to limit on
 State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.   
 What happens when I limit sharing for an account I hold jointly with someone else?  |  Your choices will apply to everyone on your account.   
 Definitions   
-Affiliates  |  Financial and nonfinancial companies related by common ownership or control.
+Affiliates  |  Financial and nonfinancial companies related by common ownership or control. 
 
   * DSI does not share with our affliliates.
 
   
   
-Nonaffiliates  |  Financial and nonfinancial companies not related by common ownership or control.
+Nonaffiliates  |  Financial and nonfinancial companies not related by common ownership or control. 
 
   * Nonaffiliates we share with can include direct marketing companies for application resell, direct mail and other purposes.
 
   
   
-Joint Marketing  |  A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+Joint Marketing  |  A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
   * Our joint marketing partners include financial institutions, credit card companies, partners that promote our products, pre-paid debit card providers and other lending companies.
 
   
   
-© 2002 - 2010 PayDay One All Rights Reserved.
+© 2002 - 2012 PayDay One All Rights Reserved.
