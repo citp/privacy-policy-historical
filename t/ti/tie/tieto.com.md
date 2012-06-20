@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tieto.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124032024id_/http%3A//www.tieto.com/misc/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tieto.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620195135id_/http%3A//www.tieto.com/misc/privacy-statement) for the most accurate reproduction.*
 
 # Tieto website privacy statement
 
@@ -67,13 +67,17 @@ Google will use this information for the purpose of evaluating your use of the w
 
 Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-### File description and contacting Tieto
+### File descriptions and contacting Tieto
 
 If you have any questions regarding this Privacy Statement or if you are concerned about how your personal data is processed by Tieto, please contact Tieto by [Nina Suominen](mailto:nina.suominen@tieto.com) or by sending an e-mail to [info@tieto.com](mailto:info@tieto.com).
 
 Files description related to the processing of personal data under this Website for marketing and communication purposes is attached as a file below.
 
-[Download file description](https://web.archive.org/archive/materials/misc/privacy-statement---file-description "Privacy statement - file description") (pdf)
+[Download file description](https://web.archive.org/archive/materials/misc/privacy-statement---file-description/File_description_tieto.com_2011-06-03.pdf "Privacy statement - file description") (pdf)
+
+File description related to processing of personal data under this Website for recruitment and HR purposes is attached as file below.
+
+[Download file description - recruitment](https://web.archive.org/archive/materials/misc/file-description---recruitment-pdf/iRECRUITMENT_Description-of-file_Data-protection-template_490635_4_June2011.pdf "Privacy statement - file description - recruitment \(pdf\)") (pdf)
 
 ### Changes to the Privacy Statement
 
