@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20north.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209115347id_/http%3A//www.20north.com/info/privacyandpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20north.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620234521id_/http%3A//www.20north.com/info/privacyandpolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Shop online from our international catalog of Sports and Outdoor gear, Watches, Shoes, Clothing, Electronics, Toys, Games and Accessories @ 20North
 
