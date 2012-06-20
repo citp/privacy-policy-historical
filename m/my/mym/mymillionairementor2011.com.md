@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymillionairementor2011.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124011430id_/http%3A//mymillionairementor2011.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymillionairementor2011.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620101839id_/http%3A//mymillionairementor2011.com/privacy) for the most accurate reproduction.*
 
 # My Millionaire Mentor 2011 - Privacy
 
