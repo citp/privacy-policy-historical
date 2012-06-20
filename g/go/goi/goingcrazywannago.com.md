@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the goingcrazywannago.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227135204id_/http%3A//goingcrazywannago.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goingcrazywannago.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620143538id_/http%3A//goingcrazywannago.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Going Crazy!! Wanna Go??!!
+# Privacy Policy - Going Crazy!! Wanna Go??!! | Going Crazy!! Wanna Go??!! | Going Crazy!! Wanna Go??!!
 
 **Privacy Policy**
 
-If you have questions about this Privacy Policy, please contact me [here](https://web.archive.org/web/20111227135204id_/http%3A//goingcrazywannago.com/janet@goingcrazywannago.com "Email").
+If you have questions about this Privacy Policy, please contact me [here](http://goingcrazywannago.com/privacy-policy/ "Email").
 
 The privacy of my followers is very important to me. I want to tell you about how the types of personal information I receive and  
 collect when you visit my site is protected and how I strive to safeguard your information. I would never sell your personal information to third parties.
@@ -56,16 +56,6 @@ The identifiable information I collect is securely stored within my database, an
 
 **Revisions and Amendment**
 
-If you have further privacy concerns please do not hesitate to contact me [here](https://web.archive.org/web/20111227135204id_/http%3A//goingcrazywannago.com/janet@goingcrazywannago.com "Email").
+If you have further privacy concerns please do not hesitate to contact me [here](http://goingcrazywannago.com/privacy-policy/ "Email").
 
 This Privacy Policy is effective as of August 2, 2011. This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. Going Crazy!! Wanna Go??!! reserves the right, at any time and without notice, to add to, modify, change or update this Privacy Policy, simply by posting such change, update or modification on the site. Any such change, update or modification will be effective immediately upon posting.
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Privacy%20Policy%0D%0A%0D%0AIf%20you%20have%20questions%20about%20this%20Privacy%20Policy%2C%20please%20contact%20me%20here.%0D%0A%0D%0AThe%20privacy%20of%20my%20followers%20is%20very%20important%20to%20me.%20I%20want%20to%20tell%20you%20about%20how%20the%20types%20of%20personal%20information%20I%20receive%20and%0D%0Acollect%20when%20you%20visit%20my "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F&srcTitle=Going+Crazy%21%21+Wanna+Go%3F%3F%21%21+My+Tornado+of+Thoughts+blurted+out+Here%21%21 "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fgoingcrazywannago.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Going+Crazy%21%21+Wanna+Go%3F%3F%21%21+My+Tornado+of+Thoughts+blurted+out+Here%21%21&summary=Privacy%20Policy%0D%0A%0D%0AIf%20you%20have%20questions%20about%20this%20Privacy%20Policy%2C%20please%20contact%20me%20here.%0D%0A%0D%0AThe%20privacy%20of%20my%20followers%20is%20very%20important%20to%20me.%20I%20want%20to%20tell%20you%20about%20how%20the%20types%20of%20personal%20information%20I%20receive%20and%0D%0Acollect%20when%20you%20visit%20my "LinkedIn")
-  * 
-
