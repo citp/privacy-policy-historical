@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casalemedia.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224133606id_/http%3A//www.casalemedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casalemedia.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620123220id_/http%3A//www.casalemedia.com/privacy) for the most accurate reproduction.*
 
 # Casale Media - Privacy Policy
 
@@ -41,8 +41,8 @@ Log files are created to analyze trends, keep track of user movement in the aggr
 
 The Casale Media Online Advertising Network prides itself on providing an atmosphere that is non-disruptive to Internet users. Our proprietary targeting methodologies enable advertisers to effectively target their campaigns to the audience(s) they are looking to reach without engaging in profiling practices. 
 
-<http://www.casalemedia.com/>  
-The following discloses the information gathering and dissemination practices of the Casale Media website, located at <http://www.casalemedia.com/>.
+**Web site (http://www.casalemedia.com/)**  
+The following discloses the information gathering and dissemination practices of the Casale Media website, located at <http://www.casalemedia.com/>. 
 
 Casale Media believes in all Internet users' rights to privacy. Casale Media does not engage in any form of distribution or sale of Personally Identifiable Information to third parties for their own promotional use, including but not limited to, names, email/postal addresses, and phone numbers. 
 
