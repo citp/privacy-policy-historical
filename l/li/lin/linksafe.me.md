@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksafe.me privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208061021id_/http%3A//linksafe.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksafe.me privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620131601id_/http%3A//linksafe.me/privacy) for the most accurate reproduction.*
 
 # LinkSafe.me - Protect your links with redirection, password, captcha and more!
 
