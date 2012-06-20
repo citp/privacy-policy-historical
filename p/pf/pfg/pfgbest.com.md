@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfgbest.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208012808id_/http%3A//www.pfgbest.com/common/docs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfgbest.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620183319id_/http%3A//www.pfgbest.com/common/docs/privacy.asp) for the most accurate reproduction.*
 
 # PFGBEST - Privacy Policy
 
