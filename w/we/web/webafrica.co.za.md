@@ -1,9 +1,22 @@
-> *The following text is extracted and transformed from the webafrica.co.za privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203091241id_/http%3A//www.webafrica.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webafrica.co.za privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620175502id_/http%3A//www.webafrica.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy
 
   
   
+
+
+  * Definitions
+  * Status
+  * Collection of personal data
+  * Email communications
+  * Collection of anonymous data
+  * Access to personal data
+  * Links to other web sites
+  * Security
+  * Children’s privacy
+  * Queries
+
 
 
 **Purpose**
