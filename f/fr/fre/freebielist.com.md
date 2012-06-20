@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the freebielist.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621212616id_/http%3A//www.freebielist.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebielist.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620160212id_/http%3A//www.freebielist.com/info/termsprivacy) for the most accurate reproduction.*
 
-# FreebieList.com - Privacy Policy
+# Terms and Privacy Policy - freebielist.com
+
+FreebieList.com is a Web site that reviews various freebies available on the Internet. We research every site carefully before including them in our directory but cannot guarantee the reliability or accuracy of our content. We are not responsible for any of the Web sites that we link to. As such, we will not be held liable for any damages or losses that may arise from the use of information contained here at FreebieList.com.
+
+## Copyright Information
+
+All content at FreebieList.com is copyrighted. FreebieList.com respects other people's intellectual property and is an original piece of work. No part of FreebieList.com (be it text, graphics or otherwise) may be reproduced, downloaded, copied, mirrored, distributed or stored on a network without prior consent. **Pirating our content may result in legal action being taken.**
 
 ## Privacy Policy
 
@@ -18,4 +24,8 @@ We require your e-mail address if you wish to receive our opt-in newsletter. We 
 
 We are not responsible for the privacy practices of other Web sites. Due to the nature of the Internet, we cannot be held responsible for any information being intercepted by a third party.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with FreebieList.com, please [contact us](https://web.archive.org/web/20090621212616id_/http%3A//www.freebielist.com/info/contact.htm) and we'll be more than happy to help you out!
+**Cookies**
+
+freebielist.com uses cookies - data to identify your computer or mobile device. These are used to improve your user experience and for other advertising purposes. You cannot be personally identified by a cookie but if you prefer not to accept cookies, these can be turned off by using your Web browser.
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with FreebieList.com, please [contact us](http://www.freebielist.com/info/contact) and we'll be more than happy to help you out!
