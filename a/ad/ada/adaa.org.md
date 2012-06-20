@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adaa.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102053558id_/http%3A//www.adaa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaa.org privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620141539id_/http%3A//www.adaa.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Anxiety Disorders Association of America, ADAA
+# Privacy Policy | Anxiety and Depression Association of America, ADAA
 
 We are committed to protecting your privacy.
 
