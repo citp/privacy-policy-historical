@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smashwallpapers.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122120304id_/http%3A//www.smashwallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashwallpapers.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620172937id_/http%3A//www.smashwallpapers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SmashWallpapers - Amazing Wallpapers
+# Privacy Policy | Smash Wallpapers - Free source for top quality wallpapers from the world
 
 Smash Wallpapers  has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
