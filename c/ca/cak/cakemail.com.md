@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakemail.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215003440id_/http%3A//www.cakemail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakemail.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620200109id_/http%3A//www.cakemail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CakeMail
 
@@ -39,7 +39,7 @@ Members, clients and users may decline at any time to make personal information 
 
 Similarly, permission-based marketing emails shall not be sent to users who are minors without the prior written consent of their parents or legal guardians. In the case of any doubt regarding the registration information provided by a prospective client, CakeMail reserves the right to require additional proof of identity and age. CakeMail reserves the right to cancel a CakeMail client’s membership without warning when regulations governing the usage policy described above are not met.
 
-## Corrections and unsubscriptions
+## Corrections and unsubscribing
 
 A client of the CakeMail service may communicate, through the contact section of the web site [www.cakemail.com](http://www.cakemail.com/), with our customer service in regards to correcting or validating information submitted during registration.
 
@@ -68,6 +68,8 @@ Invisible GIFs and pixel tags are utilized in the permission-based marketing e-m
 CakeMail reserves the right to gather IP addresses in its files for statistical purposes or to test the functionality of Cake’s e-mail servers.
 
 Cookies are employed in the management execution of interfaces of the site [www.cakemail.com](http://www.cakemail.com/). These cookies are used for the sole purpose of offering clients of CakeMail access to more personalized information on the products and services of the company. The user visiting the [www.cakemail.com](http://www.cakemail.com/) sites will always maintain anonymity.
+
+Cookies are also employed as part of online advertising campaigns. Third party vendors, including Google, display CakeMail advertisements on sites on the internet. These third party vendors, including Google, use these cookies to serve ads based on a user’s prior visits to www.cakemail.com. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/ads/preferences/html/intl/en/plugin/)
 
 ## Notification of changes
 
