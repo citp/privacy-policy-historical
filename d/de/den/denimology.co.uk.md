@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the denimology.co.uk privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211034540id_/http%3A//www.denimology.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denimology.co.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620165210id_/http%3A//www.denimology.com/privacy.html) for the most accurate reproduction.*
 
-# Denimology - Privacy Policy
+# Denimology.com - Privacy Policy
 
 At Denimology, we are committed to protecting the privacy of our users and visitors. The following Privacy Policy outlines the information Denimology, Inc. ("Denimology") may collect and how we may use that information to better serve visitors and members of Denimology. 
 
