@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the routeone.co.uk privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223064002id_/http%3A//www.routeone.co.uk/content/Information/SecurityAndPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routeone.co.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620214951id_/http%3A//www.routeone.co.uk/content/Information/SecurityAndPrivacy) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -57,7 +57,7 @@ If you wish to verify the details you have submitted to Route One you may do s
 
 Route One Limited (at the address below) is the data controller for the purpose of the Data Protection Act 1998 (the Act). 
 
-You have the right to access the information which Route One holds about you and your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of 10 to meet our costs in providing you with details of the information we hold about you. 
+You have the right to access the information which Route One holds about you and your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10.00 to meet our costs in providing you with details of the information we hold about you. 
 
 We are always pleased to hear from our customers (even if it is a complaint!). We are always grateful for any time you spend providing us with the knowledge we need to ensure our customers are completely satisfied - we want you to return to the site and to recommend us to your friends and family. If you have any questions or feedback about this statement, or if you would like us to stop processing your information, please do not hesitate to contact a customer service member of the Route One team, who will be delighted to answer any questions you may have. 
 
