@@ -1,53 +1,47 @@
-> *The following text is extracted and transformed from the citymob.co.za privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228214257id_/http%3A//citymob.co.za/cape-town/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citymob.co.za privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620035338id_/http%3A//citymob.co.za/privacy_policy) for the most accurate reproduction.*
 
-# CityMob | Privacy Policy
+# Privacy Policy - citymob.co.za
 
-## Privacy Policy
-
-This tells you how we use personal information collected on Citymob.co.za. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed at any time, but any changes will be posted and changes will only apply to activities and information on a going forward basis. 
+This tells you how we obtain, use and disclose personal information collected on Citymob. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed at any time, but any changes will be posted and changes will only apply to activities and information going forward. 
 
 Note: The privacy practices set forth in this privacy policy are for this website only. If you link to other websites, please review the privacy policies posted at those sites.
 
-**1\. Personal Data**
+##### 1\. Personal Data
 
-Using Citymob.co.za requires the following mandatory information:
+Using Citymob requires the following mandatory information: 
 
-  * Name / Address / Email Address / Password / Payment details 
-  * Visitors and users of the platform also need to provide the following information:
-  * City / Subscription to newsletter / Current and expired coupons /
+  * Name / Billing Details / Email Address / Password / Credit card / Debit card details / City
 
 
 
-  
-The following optional information will be used to manage your Citymob.co.za account and can be voluntarily added to  your profile:
+The following optional information will be used to manage your Citymob account and can be voluntarily added to your profile: 
 
-  * Gender / Language / Date of birth / Facebook account / Twitter account
-
+  * Gender / Language / Race/Date of birth / Facebook account / and various other demographic data.
 
 
-**2\. The collection, storage, processing and use of the personal information discussed in the preceding paragraph is used for the following purposes:**
+
+##### 2\. The personal information above is collected, stored, processed and used for the following purposes:
 
   * User registration and account management.
-  * Provision of services offered by Citymob.co.za.
+  * Provision of services offered by Citymob.
   * As market research to improve our service.
-  * Dispatch newsletter on Citymob.co.za offers
-  * The analysis is carried out with no relation to the personal data. The user will remain anonymous.
+  * Dispatch newsletter on special promotional deals
+  * Any analysis is carried out with no relation to the personal data. The user will remain anonymous.
 
 
 
-**3\. No transmission of data to third parties**
+##### 3\. Sharing of data
 
-  * Personal information will only be used by Citymob.co.za and authorized employees or representatives in our direct employ. This data will be confidential and not passed on to third parties not involved in the provision of a coupon. This excludes cases where disclosure is necessary for a collection company.
+Citymob may from time to time share your information with its stakeholders, including participating vendors.
 
+##### 4\. Data access
 
+The customer can demand access to personal data stored in the Citymob database by requesting it. We will also remove your data from our database on request, unless there is a legal reason why we need to keep the data. Access can be gained, the data can be corrected, and any concerns related to the use of your data can be raised by writing to info@Citymob.co.za. Please include a certified copy of your identity document. 
 
-  
-**4\. Data access**
+##### 5\. Analytics
 
-The customer can demand access to personal data stored in the Citymob.co.za database by requesting for it to be removed, unless this conflicts with existing data storage legal regulations. Access to the data can be gained by writing to [info@citymob.co.za](mailto:info@citymob.co.za) including a certified copy of the identity of the applicant.
+Citymob uses various tracking programs offered by third parties such as Google Analytics, a web analytics service provided by Google Inc. ("Google"). This program uses cookies, which are text files placed on your computer that provide the analysis and tracking of the usage of the site. The information generated by the cookie about your use of this website (including your IP address) is transmitted to a Google server in the U.S. and stored there. 
 
-**5\. Analytics**
+For further information visit www.aboutcookies.org . You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser. 
 
-Citymob.co.za uses various tracking programs offered by third parties such as Google Analytics, a web analytics  service provided by Google Inc. ("Google"). This program uses cookies, which are text files placed on your computer  that provide the analysis and tracking of the usage of the site. The information generated by the cookie about your  use of this website (including your IP address) is transmitted to a Google server in the U.S. and stored there. By  using this site you agree to the processing of your data by Google in the manner described and for the foregoing  purpose. This data protection declaration is part of the website. If sections or separate parts of this statement lose its  legitimacy or do not correspond to the remaining parts of the document, it will not be affected in its content and  validity.
-
-6\. Your personal details can be reviewed in the "My Account" section after login.
+By accepting these terms you agree to the processing of your data by Google in the manner described and for the foregoing purpose. 
