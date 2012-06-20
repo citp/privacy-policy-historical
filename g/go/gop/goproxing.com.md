@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goproxing.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210321id_/http%3A//www.goproxing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goproxing.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620163439id_/http%3A//www.goproxing.com/privacy.php) for the most accurate reproduction.*
 
-# Goproxing - Surfing
+# Unblock Youtube/Facebook/Twitter Now!
 
 ## Privacy Policy
 
@@ -23,11 +23,3 @@ We may also use third-party advertising partners on our website. Advertisers may
 The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. If you do not wish to receive any such indirect cookies, please disable the "Allow Cookies" option.
 
 * For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
-
-  * [Home](https://web.archive.org/web/20111231210321id_/http%3A//www.goproxing.com/index.php)
-  * [Manage Cookies](https://web.archive.org/web/20111231210321id_/http%3A//www.goproxing.com/cookies.php)
-  * [Privacy Policy](https://web.archive.org/web/20111231210321id_/http%3A//www.goproxing.com/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20111231210321id_/http%3A//www.goproxing.com/disclaimer.php)
-  * [Terms of Use](https://web.archive.org/web/20111231210321id_/http%3A//www.goproxing.com/terms.php)
-
-
