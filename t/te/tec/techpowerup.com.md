@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techpowerup.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203123310id_/http%3A//www.techpowerup.com/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techpowerup.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620065743id_/http%3A//www.techpowerup.com/legal.php) for the most accurate reproduction.*
 
 # techPowerUp! :: Privacy Policy
 
@@ -18,7 +18,7 @@ We have the following privacy seals and/or dispute resolution mechanisms. If you
 
 ## Additional Information
 
-This policy is valid until 1 Jan, 2010 at 12:00:00 CET. 
+This policy is valid until 1 Jan, 2020 at 12:00:00 CET. 
 
 ## Data Collection
 
