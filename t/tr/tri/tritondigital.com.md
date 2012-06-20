@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tritondigital.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221084307id_/http%3A//tritondigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tritondigital.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620101321id_/http%3A//www.tritondigital.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Triton Digital - Richer Media
 
