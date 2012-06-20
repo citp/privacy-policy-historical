@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228175739id_/http%3A//www.hrw.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620181106id_/http%3A//www.hrw.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Human Rights Watch
 
@@ -91,6 +91,9 @@ Although your privacy is very important to us, due to the existing legal, regula
 **Contact Information:** If you have any questions about this Privacy Policy, including any complaints regarding our handling of personal information, please send an email to _privacy@hrw.org_ or a letter to "Development Associate " at the following address: 
 
 Human Rights Watch  
-2nd Floor, 2-12 Pentonville Road 
-
-London N1 9HF, UK 
+Attention: Development Associate  
+Address: First Floor  
+Audrey House  
+16 -20 Ely Place  
+London, England  
+EC1N 6SN 
