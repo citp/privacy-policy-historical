@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companycheck.co.uk privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205040125id_/http%3A//companycheck.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companycheck.co.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620105543id_/http%3A//companycheck.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Company Check - find free company information
 
@@ -30,13 +30,13 @@ If you use our recommendation service to email one of our pages to a friend, you
 
 We collect IP addresses for site security and to help us understand how people use our sites so that we can improve our sites and our users' respective experiences. For similar quality reasons, we use a feature known as a "cookie." Cookies contain bits of information that websites transfer to your computer's hard drive for record-keeping purposes. Cookies can make the Web more convenient by storing information about your preferences on a site. Although we may assign your browser a cookie, the cookie does not tell us who you are. Only you can tell us that. 
 
-When you place an order for a product or service, we need to know the sort of information typically used for credit card transactions, such as your name, mailing and billing addresses, telephone number, and credit card number and expiration date. Gathering this information allows us to process and fulfill your order and notify you of your order status. We use Google Checkout and PayPay UK to handle all our transactions.
+When you place an order for a product or service, we need to know the sort of information typically used for credit card transactions, such as your name, mailing and billing addresses, telephone number, and credit card number and expiration date. Gathering this information allows us to process and fulfil your order and notify you of your order status. We use Google Checkout and PayPal UK to handle all our transactions.
 
 If you enter companies into a Monitor or Alert system, we will save that information, and use it to identify content that we think is relevant to you. We will also use that information in the aggregate to help us better understand what our community and our premium members are interested in, so we can create and target our content better.
 
 We may also collect your email address when you submit content to our sites (for example, a contest entry, or a review of a product). Unless we get your approval, we will not display your address with your submission.
 
-Besides cookies, we may also use tiny electronic images (called "single-pixel GIFs" or "Web beacons"), which allow us to count users who have visited specific pages or access certain cookies. We may use single-pixel GIFs in the following ways:
+Besides cookies, we may also use tiny electronic images (called "single-pixel GIF's" or "Web beacons"), which allow us to count users who have visited specific pages or access certain cookies. We may use single-pixel GIF's in the following ways:
 
   * To count and recognize users. 
   * To conduct research on behalf of some partners on their websites, and for auditing purposes. 
@@ -45,13 +45,13 @@ Besides cookies, we may also use tiny electronic images (called "single-pixel GI
 
 
 
-Advertising networks that serve ads on our site may also use single-pixel GIFs in their advertisements. In general, any electronic image viewed as part of a Web page, including an ad banner, can act as a Web beacon.
+Advertising networks that serve ads on our site may also use single-pixel GIF's in their advertisements. In general, any electronic image viewed as part of a Web page, including an ad banner, can act as a Web beacon.
 
 ### How Does Company Check Ltd Use Your Personal Information?
 
 Company Check Ltd collects personal information to provide you, the user, with the best and most personalized experience possible, and to provide our advertisers with an efficient way to reach the right audience. In short, by knowing a little about you, Company Check Ltd can deliver more relevant content and advertisements to you.
 
-We conduct research on our users' demographics, interests, and behavior based upon the information you provide us when you register or participate in contests or other promotions on our site, or based upon the information on our server log files. This research is compiled and analyzed on an aggregated basis. We may also notify you of products, services, or areas of our site that we think may interest you based on the information we've received.
+We conduct research on our users' demographics, interests, and behaviour based upon the information you provide us when you register or participate in contests or other promotions on our site, or based upon the information on our server log files. This research is compiled and analysed on an aggregated basis. We may also notify you of products, services, or areas of our site that we think may interest you based on the information we've received.
 
 In addition to helping us process your order, we use the information we collect from you when you buy a product or service from us so that we can provide you with an enhanced, more personalized shopping experience. We will also send you occasional discount alerts and notices about products and services that we think may interest you.
 
@@ -90,13 +90,13 @@ Most browsers are set up to accept cookies, but you can configure yours to refus
 
 ### Will Company Check Ltd Disclose Any of Your Personal Information?
 
-Company Check Ltd will not disclose any personally identifiable information about individual users, except as described in this Privacy Statement. With the few exceptions that we explain here, we do not give, rent, lend, or sell individual information to anyone outside our company, although we do provide aggregate information. For example, we might tell an advertiser that there are 30,000 users monitoring companies in London, but we will not tell them that you are one of them, nor will we tell them that your email address is cleverboy@gettingbetterinfo.com. We may also use this aggregated information to help the advertisers reach the kind of audience they want. They may give us an ad and tell us the type of audience they want to reach. Company Check Ltd (or people working on our behalf, under contracts and confidentiality agreements) would then take the ad and display it to users who have told us they meet those criteria. We may also disclose aggregate information (for example, information showing that 50,000 of our visitors clicked on a particular advertising banner last month) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+Company Check Ltd will not disclose any personally identifiable information about individual users, except as described in this Privacy Statement. With the few exceptions that we explain here, we do not give, rent, lend, or sell individual information to anyone outside our company, although we do provide aggregate information. For example, we might tell an advertiser that there are 30,000 users monitoring companies in London, but we will not tell them that you are one of them, nor will we tell them that your email address is visitor@ourwebsite.com. We may also use this aggregated information to help the advertisers reach the kind of audience they want. They may give us an ad and tell us the type of audience they want to reach. Company Check Ltd (or people working on our behalf, under contracts and confidentiality agreements) would then take the ad and display it to users who have told us they meet those criteria. We may also disclose aggregate information (for example, information showing that 50,000 of our visitors clicked on a particular advertising banner last month) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
 
 As for individually identifiable information, we may disclose it only under the following circumstances:
 
   * We may disclose information to others when we have your consent. 
   * If you sign up for a service that relies upon third parties for important elements, we will provide your personal information to the third parties so that they can provide you with their services, and those companies will treat the data under their own policies. We will tell you about these service providers at the time you sign up for the service. 
-  * If you buy something from us, we will disclose your personal information to the extent necessary to fulfill your order and charge your credit card (if applicable).
+  * If you buy something from us, we will disclose your personal information to the extent necessary to fulfil your order and charge your credit card (if applicable).
   * If you use our recommendation service to email one of our articles to a friend, Company Check Ltd will automatically send this person a one-time email, with the recommended URL attached. The email address you give us will appear on the "From" line of the email, thereby disclosing this information to whoever opens and reads the email. Similarly, if you send email from our site, by using "Reply to Author" or "Email this Post," your address may appear as the return address of that email. 
   * We may disclose your personal information as required by applicable law, or in response to legal process, to protect the rights or property of Company Check Ltd, or to protect the safety of Company Check Ltd, our users, or others. 
   * We may sometimes conduct mailings to other people's lists. So we may cross reference our user lists to prevent duplication and spam.
@@ -116,7 +116,7 @@ Only you have access to these password-protected areas. Do not share your passwo
 
 If you register with Company Check Ltd or sign up for or buy any of our products or services, we will send you information about our various products and services, or other products and services that we believe may interest you.
 
-If you do not want to receive such offers and mailings, let us know on our [contact page](https://web.archive.org/contact.php), or you may send a letter to Company Check Ltd, Hendford Manor, Hendford, Yeovil, Somerset, BA20 1UN. 
+If you do not want to receive such offers and mailings, let us know on our [contact page](https://web.archive.org/contact.php), or you may send a letter to Company Check Ltd, 5 College Street, Nottingham, NG1 5AQ. 
 
 We'll remove your name from our lists as soon as we can. Another way is to simply to click the "unsubscribe" link found in every one of our email messages.
 
