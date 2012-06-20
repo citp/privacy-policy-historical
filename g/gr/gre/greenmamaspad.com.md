@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenmamaspad.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221084108id_/http%3A//www.greenmamaspad.com/p/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmamaspad.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620180850id_/http%3A//www.greenmamaspad.com/p/policy.html) for the most accurate reproduction.*
 
-# Green Mama's Pad | Connecticut Mom Blog: Green Mama's Pad Policies
+# Marianna | Connecticut Mom Blog: Marianna's Policies
 
 This blog is a personal blog written and edited by me. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
@@ -16,7 +16,7 @@ Any post on this blog that includes any of the above content will be clearly mar
 
 To get your own policy, go to http://www.disclosurepolicy.org
 
- **What information do we collect?**   
+**What information do we collect?**   
 We collect information from you when you enter a giveaway. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously. 
