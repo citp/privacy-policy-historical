@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koprol.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221052243id_/http%3A//info.yahoo.com/privacy/ide/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koprol.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620140833id_/http%3A//info.yahoo.com/privacy/ide/yahoo) for the most accurate reproduction.*
 
 # Yahoo! Privacy Policy
 
@@ -100,7 +100,7 @@ Yahoo! may update this policy. We will notify you about significant changes in t
 
 ## QUESTION AND SUGGESTIONS 
 
-If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/ide/privacy/cgi_feedback?radio30=radio305) or you can contact either Yahoo! Southeast Asia Pte. Ltd. or PT Yahoo! Indonesia at:
+If you have questions or suggestions, please complete a [feedback form](http://help.yahoo.com/l/uk/yahoo/privacy/general.html) or you can contact either Yahoo! Southeast Asia Pte. Ltd. or PT Yahoo! Indonesia at:
 
 Yahoo! Southeast Asia Pte. Ltd.  
 60 Anson Road, #13-00 Mapletree Anson, Singapore 079914
