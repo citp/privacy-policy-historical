@@ -1,32 +1,31 @@
-> *The following text is extracted and transformed from the dazzleyellowpages.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221165813id_/http%3A//www.dazzleyellowpages.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazzleyellowpages.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620214328id_/http%3A//www.dazzleyellowpages.com/Privacy-Policy) for the most accurate reproduction.*
 
-# DazzleYellowPages.com - Privacy Policy
+# Privacy Policy of DazzleYellowPages.com
 
-| 
+Dazzle Yellow Pages respects your right to privacy.
 
-|     
----  
-**Privacy Policy of DazzleYellowPages.com**  
-   
-  
-Dazzle Yellow Pages respects your right to privacy. **This privacy policy applies only to the privacy of users of the dazzleyellowpages.com.comweb site. It does not apply to the offline activities of Shyam InfoNet. or any of its affiliates.** **Privacy Policy Effective Date / Updates**  
-This Privacy Policy is effective as of April 13, 2006. Our business changes constantly. This Privacy Policy will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may e-mail periodic reminders of material changes to our Privacy Policy, unless you have instructed us not to, but you should check our web site frequently to see recent changes. Notice of any changes to this Privacy Policy shall be given by posting the version of the Privacy Policy containing such changes on this web site. **What information does the Web site gather?**
+**This privacy policy applies only to the privacy of users of the dazzleyellowpages.com.comweb site. It does not apply to the offline activities of Shyam InfoNet. or any of its affiliates.**
+
+**Privacy Policy Effective Date / Updates**  
+This Privacy Policy is effective as of April 13, 2006. Our business changes constantly. This Privacy Policy will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may e-mail periodic reminders of material changes to our Privacy Policy, unless you have instructed us not to, but you should check our web site frequently to see recent changes. Notice of any changes to this Privacy Policy shall be given by posting the version of the Privacy Policy containing such changes on this web site. 
+
+**What information does the Web site gather?**
 
 When you visit this site you may provide information on two different levels about your visit: 
 
-|  |  Anonymous statistics collected as you browse the site  
----|---  
-|  Personal information you knowingly give us  
+|  Anonymous statistics collected as you browse the site  
+---  
+ Personal information you knowingly give us  
   
 Please be assured that we do not collect personal information about you from the website unless you provide it to us. This means that you can visit our Web sites without telling us who you are or revealing any personally identifiable information about yourself (such as your e-mail address). 
 
-As you browse the site, our web servers collect information about your visit, not about you personally. Via web server logs, we monitor statistics such as:
+As you browse the site, our web servers collect information about your visit, not about you personally. Via web server logs, we monitor statistics such as: 
 
-|   How many people visit our site  
----|---  
-|   Which pages people visit on our site  
-|   From which domains our visitors come (e.g., aol.com, google.com, yahoo.com)  
-|   Which browsers people use to visit our site  
+ How many people visit our site  
+---  
+ Which pages people visit on our site  
+ From which domains our visitors come (e.g., aol.com, google.com, yahoo.com)  
+ Which browsers people use to visit our site  
   
 None of this information is associated with you as an individual (see information about cookies below). We use these statistics to improve our Web site, to monitor its performance, and to make the Web site easier for you and other visitors to use. 
 
@@ -47,10 +46,10 @@ We do not sell or disclose personally identifiable information obtained online a
 
 Dazzle Yellow Pages may share non-personally identifiable information with non-"Dazzle Yellow Pages Family" companies in order to assess the results of a promotion, event or third party relationship, to provide information to current or prospective customers, to complete a search or to otherwise enhance your online experience. For example, we may provide statistical information that is not identified with you: 
 
-|  |  The number of people who visit the website, which pages were visited and for how long, the referral URL, the user's IP address, and the User Agent.  
----|---|---  
-|   |  When we host co-branded versions of the dazzleyellowpages.com site (or portions of the dazzleyellowpages.com site). Our co-branded sites may also contain clear GIFs (electronic images that allow this site to collect anonymous information about your visit to the site).  
-|   |  Non-personally identifiable information may also be disclosed to non-Dazzle Yellow Pages-Family companies if it is required by law, or disclosure is necessary to protect the safety of customers, employees or property.  
+The number of people who visit the website, which pages were visited and for how long, the referral URL, the user's IP address, and the User Agent.  
+---  
+When we host co-branded versions of the dazzleyellowpages.com site (or portions of the dazzleyellowpages.com site). Our co-branded sites may also contain clear GIFs (electronic images that allow this site to collect anonymous information about your visit to the site).  
+Non-personally identifiable information may also be disclosed to non-Dazzle Yellow Pages-Family companies if it is required by law, or disclosure is necessary to protect the safety of customers, employees or property.  
   
 **This does not contain any information that would personally identify you.** In addition, Dazzle Yellow Pages may support features and content that appear on other companies' web sites that you may visit. These companies may collect information about you, but Dazzle Yellow Pages does not have control over the collection practices of these companies. If you are visiting a web site that indicates that it is "powered by dazzleyellowpages.com.com," you are advised to read the privacy policy of that web site for its policies regarding information collection and usage. 
 
@@ -63,27 +62,26 @@ This website contains links to other web sites. These other web sites may, among
 **What is Dazzle Yellow Pages's position regarding online advertising and third party ad servers?**  
 Dazzle Yellow Pages accepts advertisements from third parties that serve advertising into the dazzleyellowpages.com sites. Dazzle Yellow Pages may use "clear gifs" provided by such third parties in the pages containing the ad(s) that Dazzle Yellow Pages sends to your browser. These "clear gifs" provide usage pattern information about the ads to third parties. The data does not contain personally identifiable information. 
 
-As part of the online advertising process, we may use information supplied from third party ad serving companies as well as other third party companies in several ways such as to:
+As part of the online advertising process, we may use information supplied from third party ad serving companies as well as other third party companies in several ways such as to: 
 
-|  |  gain a better understanding of the type of individuals viewing or visiting different web sites  
----|---|---  
-|   |  evaluate and prioritize site selection when developing online media plan  
-|   |  geographically target advertising  
-|   |  deliver product and pricing advertising/information applicable to the customers' state  
-|   |  gauge the effectiveness of our online advertising  
+gain a better understanding of the type of individuals viewing or visiting different web sites  
+---  
+evaluate and prioritize site selection when developing online media plan  
+geographically target advertising  
+deliver product and pricing advertising/information applicable to the customers' state  
+gauge the effectiveness of our online advertising  
   
-**  
-Non Personally Identifiable Information Collected Automatically**   
+**Non Personally Identifiable Information Collected Automatically**   
 A cookie is a small, encrypted data string our server writes to your hard drive that contains your unique User ID for our Web site. Cookies help us to identify returning visitor's to our websites, which allows us to give you a more personalized, useful experience on our website. 
 
 Cookies help Dazzle Yellow Pages to enhance the user's online experience and are used to: 
 
-|  |  deliver the appropriate geographic message  
----|---|---  
-|   |  manage frequency of ad exposure; avoid over delivery of the same message  
-|   |  tailor an advertisement to better match your interests and preferences  
-|   |  ensure that you see the correct products and pricing applicable to the state in which you live  
-|   |  understand advertising effectiveness  
+deliver the appropriate geographic message  
+---  
+manage frequency of ad exposure; avoid over delivery of the same message  
+tailor an advertisement to better match your interests and preferences  
+ensure that you see the correct products and pricing applicable to the state in which you live  
+understand advertising effectiveness  
   
 However, customers are free to delete website cookies. Most internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. To disable cookies, see "Setting Cookie Preferences" at the end of this policy. 
 
@@ -117,11 +115,12 @@ A cookie is a small, encrypted data string our server writes to your hard drive 
 
 **Here is How to Set Your Cookie Preferences:**
 
-|  |  Netscape Navigator 3.x: In the Options menu, select Network Preferences. In Network Preferences, click on the Protocols tab and there you may choose to be warned before accepting cookies.  
----|---|---  
-|   |  Netscape Navigator 4.x: In the Edit menu, select Preferences. In the Preferences dialog box, in the left hand side menu, click on 'Advanced' and 4 options concerning cookies appear on the lower right. Choose Help for further details. You can find more information about cookies and Netscape on the Netscape web site.  
-|   |  Microsoft Internet Explorer 3.x: In the view menu, select Options. Click on Advanced tab. You may choose to be warned before accepting cookies.  
-|   |  Microsoft Internet Explorer 4.x: In the view menu, select Options. Click on Advanced tab and scroll down to a yellow triangle icon with an exclamation labeled "Cookies" where you have 3 options.  
-|   |  Other Browsers: Contact the manufacturer of the browser for information.  
-  
- 
+**Netscape Navigator 3.x:** In the Options menu, select Network Preferences. In Network Preferences, click on the Protocols tab and there you may choose to be warned before accepting cookies.
+
+**Netscape Navigator 4.x:** In the Edit menu, select Preferences. In the Preferences dialog box, in the left hand side menu, click on 'Advanced' and 4 options concerning cookies appear on the lower right. Choose Help for further details. You can find more information about cookies and Netscape on the Netscape web site.
+
+**Microsoft Internet Explorer 3.x:** In the view menu, select Options. Click on Advanced tab. You may choose to be warned before accepting cookies.
+
+**Microsoft Internet Explorer 4.x:** In the view menu, select Options. Click on Advanced tab and scroll down to a yellow triangle icon with an exclamation labeled "Cookies" where you have 3 options.
+
+**Other Browsers:** Contact the manufacturer of the browser for information.
