@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the todoist.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211041627id_/http%3A//todoist.com/Help/viewPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todoist.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620032103id_/http%3A//todoist.com/Help/viewPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Todoist Privacy Policy
 
-Todoist collects the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve Todoist and the quality of our service, and is not shared with or sold to other organizations. 
+Todoist collects the e-mail addresses of those who communicate with us via e-mail, aggregates information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve Todoist and the quality of our service, and is not shared with or sold to others. 
 
 #### Information gathering and usage
 
-When registering for Todoist we ask for information such as your name and email address. For Todoist Premium we also store your PayPal email and mobile phone number. Your information is only used internally and won't shared with other organizations. 
+When registering for Todoist we ask for information such as your name and email address. For Todoist Premium we also store your PayPal email and mobile phone number. Your information is only used internally and won't shared with others. 
 
 #### Your data
 
@@ -16,7 +16,7 @@ Todoist uses third party vendors and hosting partners to provide the necessary h
 
 #### Cookies
 
-We use cookies to store visitors preferences, customize Web page content based on visitors' browser type or other information that the visitor sends. Cookies are required to use Todoist. 
+We use cookies to store visitors preferences, customize Web page content based on visitors browser type or other information that the visitor sends. Cookies are required to use Todoist. 
 
 #### Ad servers
 
@@ -24,7 +24,7 @@ We do not partner with or have special relationships with any ad server companie
 
 #### Security
 
-When we transfer and receive certain types of sensitive information we redirect visitors to a secure server. 
+When we transfer and receive certain types of sensitive information we redirect visitors to a SSL secure server. 
 
 #### Changes
 
