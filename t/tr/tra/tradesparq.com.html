@@ -1,405 +1,586 @@
-<!--The following is the downloaded HTML source of the tradesparq.com privacy policy that was archived on 2011-02-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110204050859id_/http%3A//www.tradesparq.com/user_privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tradesparq.com privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620172733id_/http%3A//www.tradesparq.com/public/html/cp/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="" xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta content="Tradesparq Corporation" name="Publisher">
-<meta name="description" content="Tradesparq Online Privacy Statement Highlights">
-<meta content="privacy, privacy policy" name="Keywords">
-<link href="templates/en_us/css/base.css" rel="stylesheet" type="text/css">
-<link href="templates/en_us/css/layout.css" rel="stylesheet" type="text/css">
-<link href="templates/en_us/css/foot.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="scms/include/js/jquery.js"></script>
-<script type="text/javascript" src="templates/en_us/js/language/en_us.js"></script>
-<script type="text/javascript" src="scms/js/general.function.js"></script>
-<script type="text/javascript" src="templates/en_us/js/function.common.js"></script>
-<script type="text/javascript" src="templates/en_us/js/asyncscript.js"></script>
-<script type="text/javascript" src="templates/en_us/js/firstebox/jquery.firstebox.js"></script>
-<script type="text/javascript" src="templates/en_us/js/jquery.progressbar.js"></script>
-<script type="text/javascript" src="templates/en_us/js/jquery.pngFix.pack.js"></script>
-<script type="text/javascript"> 
-    $(document).ready(function(){ 
-        $(document).pngFix(); 
-    }); 
-</script>
-<script type="text/javascript" src="templates/en_us/js/indexeffect.js"></script>
-<link rel="stylesheet" href="templates/en_us/js/firstebox/css/firstebox.css" type="text/css" media="screen">
-<meta name="robots" content="index, follow">
-<meta name="Description" content="">
-<link rel="shortcut icon" href="templates/en_us/favicon.ico" type="image/x-icon">
-<link href="templates/en_us/import/page.css" rel="stylesheet" type="text/css">
-<!--[if IE 6]>
-<link href="templates/en_us/css/ie6.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<!--[if IE 7]>
-<link href="templates/en_us/css/ie7.css" rel="stylesheet" type="text/css" />
-<![endif]-->
+<base href="http://www.tradesparq.com/">
+<title>Privacy Policy at Tradesparq</title>
+<meta name="description" content="Tradesparq is committed to your privacy protection as indicated within this privacy policy">
+<link rel="shortcut icon" href="http://www.tradesparq.com/images/favicon.ico">
+<link rel="Stylesheet" type="text/css" href="http://www.tradesparq.com/min/index.php?f=stylesheets/css/public/all_public.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.tradesparq.com/app/modules/public/js/head/all_public_js_1.0.js"></script>
+</head>
+<body class="bgbody">
 
-<title>TradeSparq.com - China suppliers, social commerce, manufacturers, made in china, importers, exporters, China trade, export network, import network, manufacturers network</title>
-<script type="text/javascript">
+<script>
+$(function(){
+	$('.dlc dd').click(
+		function(){$(this).parents('.dlc').find('input').focus();}
+	);
 	
-</script>
-<script src="https://cdn.uservoice.com/javascripts/widgets/tab.js" type="text/javascript" async=""></script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript" async=""></script><script src="https://www.tradesparq.com/piwik/piwik.js" type="text/javascript" async=""></script></head>
-<body>
-	<script type="text/javascript" language="javascript">
-    jQuery(function(){
-        jQuery("#sub").click(function(){
-            var sea = jQuery(".search_select").val();
-            var keywords = jQuery("#keyword").val();
+	$('.dlc input').focus(function(){
+		//$(this).parents('.dlc').find('dt').addClass('focus');
+		$(this).parents('.dlc').find('dd').addClass('focus');
+	}).blur(function(){
+		$(this).parents('.dlc').find('dd').removeClass('focus');
+	});
 
-           window.location.href = 'user_search.php?keywords='+keywords+'&search='+sea;
-        });
+	$("#sign_up").bind('click', function(event){
+		event.preventDefault();
+		$('form[name=sign_up]').submit();
+	});
 	
-        jQuery("#keyword").live("keydown",function(event){
-            if(event.keyCode==13){
-                jQuery('#sub').click();
-            }
-        });
-	
-        //show dropdown label
-	
-        jQuery('input[name=keyword]').keyup(function(event){
-            var value = jQuery.trim(jQuery(this).val()) ;
-            var obj = jQuery(this) ;
-            var x = obj.offset().left ;
-            var y = obj.offset().top + 20 ;
-            var category = jQuery(".search_select").val();
-
-            //alert(category);
-		
-            if(category == 'user'){//search people
-                jQuery.get('user_ajax_search_people.php', {name: value}, function(data){
-                    if(!is_empty(data) && data != 'ERROR' && data != 'null'){
-                        var dd = eval(data) ;
-                        var div = '' ;
-                        for(var i=0;i<dd.length;i++){
-                            div += "<a name="+dd[i]+" href=\"javascript:\" onclick=\"select_member_name(jQuery(this).text());jQuery(this).parent().parent().hide();\">"+dd[i]+"</a>" ;
-                        }
-                        jQuery('#user_window .user').html(div) ;
-                        jQuery('#user_window').css({left:x, top:y}).show() ;
-                    }
-			
-                }) ;
-            }else if(category == 'product' || category == 'ads'){
-                jQuery.get('user_ajax_search_product.php', {name: value}, function(data){
-			
-                    //alert(data);
-
-                    if(!is_empty(data) && data != 'ERROR' && data != 'null'){
-                        var dd = eval(data) ;
-                        var div = '' ;
-                        for(var i=0;i<dd.length;i++){
-                            div += "<a name="+dd[i].name+" href=\"javascript:\" onclick=\"select_member_name(jQuery(this).text());jQuery(this).parent().parent().hide();\">"+dd[i].name+"</a>" ;
-                        }
-                        jQuery('#user_window .user').html(div) ;
-                        jQuery('#user_window').css({left:x, top:y}).show() ;
-                    }
-			
-                }) ;
-            }
-        }) ;
-        
-        $('#activator').click(function(){
-            $('#overlay').fadeIn('fast',function(){
-            	var top = $(window).scrollTop();
-                $('#box').animate({'top':'' + (160 + top) + 'px'},500);
-            });
-        });
-        $('#boxclose').click(function(){
-            $('#box').animate({'top':'-200px'},500,function(){
-                $('#overlay').fadeOut('fast');
-            });
-        });
-	
-    });
-
-    function select_member_name(valueee){
-        document.getElementById('keyword').value=valueee;
-        document.getElementById('keyword').focus();
-    }
-
-</script>
-<style type="text/css">
-    .user a{
-        display:block ;
-        text-decoration:none ;
-        color:#000 ;
-        padding-top:2px ;
-        padding-bottom:2px ;
-    }
-    .user a:hover{
-        background-color:blue ;
-        color:#fff ;
-    }
-</style>
-<!--Follow Us-->
-<div class="shape" style="z-index:9999;">
-        <a class="activator" id="activator"><img src="templates/en_us/images/side_follow_us.png" border="0"></a><a href="http://tradesparq.uservoice.com/forums/82201" onmouseover="UserVoice.Popin.preload(uservoiceOptions);" onclick="UserVoice.Popin.show(uservoiceOptions); return false;"><img src="templates/en_us/images/side_feedback.png" border="0"></a>
-</div>  
-<div class="overlay" id="overlay" style="display:none;"></div>
-<div class="box" id="box">
- 	<a class="boxclose" id="boxclose"></a>
- 	<h1>Follow Us</h1>
-	<div class="box_contents">
-        <a href="http://www.linkedin.com/groupRegistration?gid=3072902" target="_blank"><img src="templates/en_us/images/LinkedIn.png" class=""></a>
-    	<a href="http://www.linkedin.com/groupRegistration?gid=3072902" target="_blank" class="text">LinkedIn</a>
-		    	<a href="http://www.facebook.com/#!/group.php?gid=126241464069584&amp;ref=ts" target="_blank"><img src="templates/en_us/images/Facebook.png" class=""></a>
-    	<a href="http://www.facebook.com/#!/group.php?gid=126241464069584&amp;ref=ts" target="_blank" class="text">Facebook</a>
-    		</div>
-</div>  
-
-<!--end follow us-->
-
-<!--dropdown label-->
-<div id="user_window" style="width:180px ;border:1px #2C7EA3 solid; position:absolute; display:none ;z-index:9999 ; background:#fff ;">
-    <div class="user" style="width:180px ; overflow:hidden ;"></div>
-    <div style="text-align:right"><a href="javascript:void(0);" onclick="jQuery(this).parent().parent().hide();">Close</a></div>
-</div>
-
-<div id="head">
-	<div class="logo"><a href="http://www.tradesparq.com"><img src="templates/en_us/images/logo.gif" alt="China Suppliers and Manufacturers TradeSparq.com"></a></div>
-    <div id="head_right">
-        <div class="navs">
-            <ul>
-                                <li style=" background: none;"><a href="sign_in2.php">Sign In</a></li>
-                <li><a href="register.php">Join now</a></li>
-                <li><a href="how_works.php">How it works</a></li>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="user_contact_us.php">Feedback</a></li>
-            </ul>
-        </div>
-        <div class="search_component">
-       		<div class="search_button">
-       		    <select name="search" class="search_select">
-       		        <option value="all">Search All</option>
-       		        <option value="user">Search People</option>
-       		        <option value="ads">Search Ads</option>
-       		        <option value="product">Search Products</option>
-       		        <option value="group">Search Groups</option>
-       		        <option value="event">Search Events</option>
-       		    </select>
-       		</div>
-       		<div class="left">
-       		    <div class="search_input">
-       		        <input name="keyword" id="keyword" value="" type="text" class="search_input">
-       		    </div>
-       		    <div class="search_submit">
-					<a href="javascript:void(0);" id="sub"><img src="templates/en_us/images/serch.jpg"></a>
-				</div>
-       		</div>
-	    </div> <!-- /search component -->
-   	</div>
-    <div class="clear"></div>
-    <div id="_loading" class="loading"></div>
-</div>
-<div class="clear"></div>    <div id="main">
-    	<div class="foot_main_top"></div>
-        <div class="foot_main_bj">
-        	<div class="privacy_policy_top_menu"><span></span></div>
-          <div class="foot_main_tb">
-          	<div class="privacy_top_tex">
-            	Tradesparq is committed  to privacy protection. By registering for our service, you accept the terms of this Privacy Policy.
-                <h2>
-            	By submitting personal information to Tradesparq, you expressly consent to the processing of your personal information according to this Privacy Policy.
-            	</h2>
-            </div>
-            <h3>1.Notification of Changes</h3>
-            <div class="privacy_policy_content">
-            	We may update this Privacy Policy from time to time as the Tradesparq changes and expands. If we update this Privacy Policy, we will post the updated Policy on this page. Unless otherwise provided below, the revised terms will take effect when they are posted. Once any changes that we make to this Privacy Policy become effective, your continued use of Tradesparq after such time will signify your acceptance of the new terms. If we are going to use your Personally Identifiable Information (as defined below) in a manner different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that affect User information already stored in our database, we will post a prominent notice on our web site notifying Users of the change. In some cases when we post the notice we may also email Users who have not opted out of receiving communications from us, notifying them of the changes in our privacy practices. 
-            </div>
-            
-             <h3>2.Tradesparq Links to Other Sites</h3>
-            <div class="privacy_policy_content">
-            	Tradesparq is not responsible for the privacy practices or the content of any other web sites to which the site links or which link to the site. By clicking on a link, logo or other item, please note that you may no longer be on the Tradesparq website. To check what Internet location you are on, note the URL at the top and/or bottom of your browser. We encourage you to read the posted privacy statement of that web site whenever interacting with any site. 
-            </div>
-            
-             <h3>3.Information We Gather During Registration</h3>
-            <div class="privacy_policy_content">
-            	If you register to use Tradesparq we collect and store information that specifically identifies you or your account ("Personally Identifiable Information"). At this time, the most information you would be required to submit is information about whether you are a “buyer”, “seller”, or “service provider”, your name, password, and email address. Persons wishing to pay for banner advertisements or preferred search listings are also required to enter a valid credit card number and name as it appears on the credit card or other information such as bank routing and account numbers to facilitate ACH payments. We may, in the future, include other optional requests for information from you, to help us to tailor the site for you and deliver personalized information to you. We may supplement our information with additional information purchased from third parties for marketing purposes. Credit card information and any bank information will be transmitted via SSL encryption for your protection. 
-            </div>
-            
-             <h3>4.Tradesparq Profiles, Connections, Groups, Events, etc.</h3>
-            <div class="privacy_policy_content">
-            	These areas of the site are for the benefit of Users. The private and shared areas of the site help to facilitate communication and the exchange and sharing of information between Users. Tradesparq may use non-Personally Identifiable Information from these and other areas of the site for statistical analysis, product development, marketing, and research. Tradesparq reserves the right to monitor communications throughout our site, and if we believe that a User is violating our User Agreement or any of our Policies; international, federal or state laws; and/or our stated policies, we may terminate such usage. 
-            </div>
-            
-            
-             <h3>5.Online Surveys and Contests</h3>
-            <div class="privacy_policy_content">
-            	Periodically, Tradesparq conducts online User surveys to collect information about our Users, their preferences and work habits. These surveys are optional and if you choose to respond, your responses will be kept anonymous. Similarly, we may offer contests to qualifying Users in which we ask for contact and demographic information such as name, email address and mailing address. None of this information is shared with third parties, except in summary form, if at all. The demographic information that Tradesparq collects in the registration process and through online surveys is used to help us improve the Tradesparq site to meet the needs and preferences of our Users. This may include targeting advertising or other information to you about our offerings. Information we gather through a contest may also be disclosed to third parties as necessary for prize fulfillment and other aspects of any contest or similar offering. 
-            </div>
-            
-            
-             <h3>6.The Payment System</h3>
-            <div class="privacy_policy_content">
-            	Tradesparq offers a payment system via a licensed third-party payment gateway (Payment Asia) that allows Users to pay for banner advertising and preferred search result listings with a credit card, debit card or via Alipay. If you make use of this service, the payment system will collect your credit card number and/or other entered financial institution information and will use that information to bill you any fees and/or to perform the billing operation on behalf of the Provider, including but not limited to the use and disclosure of such credit card number and information to third parties as necessary to complete such billing operation. 
-
-            </div>
-            
-            
-             <h3>7.Automatically Gathered Information</h3>
-            <div class="privacy_policy_content">
-            	Tradesparq automatically collects your browser type and browser software version to tailor the presentation of the Tradesparq site to your platform and to maintain a record of your activity on the site. Tradesparq uses cookies to enable Users to specify unique preferences and to track User trends and patterns. Users always have the option of disabling cookies via their browser preferences. If you disable cookies on your browser, please note that some parts of our site may not function as effectively or may be considerably slower. As an automatic process, our web server software records a log file of IP addresses that access the Tradesparq site. We also collect IP address information but do not ordinarily link IP addresses to Users' Personally Identifiable Information, other than for statistical analysis as needed. However, we can and will use IP addresses to identify a User when we, in our sole discretion, determine that it is necessary to enforce compliance with our various policies or to protect our service, site, customers or others.
-            </div>
-            
-            
-             <h3>8.Email Referral Feature</h3>
-            <div class="privacy_policy_content">
-            	Tradesparq offers the ability to send friends or colleagues emails about product or service information available through Tradesparq. If you choose to use this feature, be assured that Tradesparq only uses these email addresses on a one-time basis to send the requested posting and we use your email address to copy you on the message or to send on your behalf.
-            </div>
-            
-            
-             <h3>9.Profiles</h3>
-            <div class="privacy_policy_content">
-            	After registering on Tradesparq you may set up your profile describing your company, services, products and specifications, and qualifications as a Seller or Service Provider, or your company and related information for you, as a Buyer. We strongly encourage you to complete your profile as much as possible as this may directly affect your likelihood of finding worthwhile opportunities or, as a Buyer, outstanding Seller or Service Provider candidates. 
-            </div>
-            
-            
-             <h3>10.How We Use Registration Information</h3>
-            <div class="privacy_policy_content">
-            	We use Personally Identifiable Information for our own internal purposes including contacting you via email to inform you about updates to the Tradesparq Site and providing you with information relating to e-commerce transactions that you conduct on the site. We reserve the right to disclose your information as required by law. We do not rent or sell our Users' Personally Identifiable Information to third parties. We do, however, provide you with the opportunity to receive communications via email. To opt-out from any non-critical email messages, simply click on the "unsubscribe" link contained within the email.
-            </div>
-            
-            
-             <h3>11.Use of General Data</h3>
-            <div class="privacy_policy_content">
-            	Tradesparq reserves the right to use the general data it obtains from Users' use of the system, including all statistical information. You acknowledge that such data belongs to Tradesparq and that Tradesparq shall have the right to use such data as it determines in its sole discretion. 
-            </div>
-            
-            
-             <h3>12.Advertising</h3>
-            <div class="privacy_policy_content">
-            	Tradesparq may send you email communications including information that we may think may be of interest to you. We do not send any of your Personally Identifiable Information to our advertisers. You may see a cookie from a third-party banner server, and this cookie comes from the third-party banner server, not Tradesparq. Again, we do not pass along any Personally Identifiable Information to this party. To opt-out from any non-critical email messages, simply click on the "unsubscribe" link contained within the email.
-            </div>
- 
-            
-             <h3>13.Co-Branded Services</h3>
-            <div class="privacy_policy_content">
-            	Tradesparq may enter into co-branding relationships with third-party web sites and companies to provide products and services to our Users. Tradesparq may share your Personally Identifiable Information, including User ID and password, with certain co-branded third-party service or product Providers as required to provide a specific product or service. However, these third-party partners may not use this Personally Identifiable Information for any reason other than to provide the service or product that the User has explicitly signed up for. While it is Tradesparq's general policy not to share anything other than summarized or aggregated data with the partner, any Personally Identifiable Information you provide may also be received by the co-branded site and could be stored and used by the co-branded service or product Provider according to their privacy policy. Please take the time to review these third-party privacy policies. 
-            </div>
-            
-             <h3>14.Third Party Intermediaries</h3>
-            <div class="privacy_policy_content">
-            	Tradesparq uses an outside credit card processing company to bill Users for Services. Tradesparq may also engage other third party intermediaries in order to provide our users with additional offerings and services. Tradesparq makes no representations on these third parties and their use of personal identifiable information. Please refer to the third party’s website and terms of service for their specific privacy policies.
-            </div>
-            
-             <h3>15.Comments Submitted by Users</h3>
-            <div class="privacy_policy_content">
-            	Tradesparq constantly seeks to improve the quality of and the User experience on the Tradesparq website. We value your input and encourage you to help us expand and make improvements to Tradesparq by providing us with any thoughts or comments you might have regarding the site. When sending us comments we may receive your email address or User ID and the country in which you are located. This information is optional. If you provide this information, we will only use it to acknowledge or respond to your comments. Submitting comments via an email will not cause you to receive any secondary or promotional material, unless specifically requested by you. In certain circumstances, we may ask for your permission to post your comments in marketing or promotional materials. 
-            </div>
-            
-             <h3>16.Security</h3>
-            <div class="privacy_policy_content">
-            	We will use commercially reasonable methods to keep Personally Identifiable Information securely in our files and systems. Our Payment System is operated by a licensed third-party vendor using secure Internet connections, including SSL (Secure Sockets Layer) encryption, to help protect your financial data. Please note that with current technology, we cannot guarantee the security of your data as it travels over the Internet. 
-            </div>
-            
-             <h3>17.Terminating Your Membership</h3>
-            <div class="privacy_policy_content">
-            	We save your Personally Identifiable Information until your membership with us is terminated. To terminate membership, contact Tradesparq Customer Service as indicated on our contact page. If you terminate your membership, your Personally Identifiable Information cannot be recovered and you may continue to receive email communications for a short period of time until we have updated all of our databases. After termination of your membership, your Personally Identifiable Information may remain on our archived database and records for a reasonable time as residual information. We will not use this residual information. Notwithstanding the above, we will maintain information on Users who have been removed for violating any of our agreements. 
-            </div>
-            
-            
-             <h3>18.Updating and Correcting Information</h3>
-            <div class="privacy_policy_content">
-            	Please notify Customer Support of any changes or errors related to any of your information that we have on file. Upon receipt of such requests, we will update our files within 30 days.
-            </div>
-            
-            
-            <h3>19.Legal Disclaimer</h3>
-            <div class="privacy_policy_content">
-            	Though we make every effort to preserve User privacy, we may need to disclose your Personally Identifiable Information when required by law when we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process. 
-            </div>
-            
-            <h3>20.Contacting Us</h3>
-            <div class="privacy_policy_content">
-            	If you have any questions about this Privacy Agreement or the practices of this website, you may contact <a href="#">service@tradesparq.com</a>. 
-            </div>
-            
-          </div>	
-           
-            
-        </div>
-        <div class="foot_main_foot"></div>
-        <div id="footer">
-        <ul>
-        	<li style="border:none;"><a href="user_upgrade_your_account.php">Upgrade Account 升级账号</a></li>
-			<li><a href="user_bank_details.php">Bank Details 银行明细</a></li>
-            <li><a href="user_foot_help.php">Help</a></li>
-            <li><a href="user_terms_conditions.php">Terms &amp; Conditions</a></li>
-            <li><a href="user_directads.php">Advertising </a></li>
-            <li><a href="user_privacy_policy.php">Privacy Policy</a></li>
-            <li><a href="sitemap.php">Site Map</a></li>
-            <li><a href="user_contact_us.php">Contact Us</a></li>
-            <li><a href="javascript:showSearches();">Popular Searches</a></li>
-            <li><a href="./news">News</a></li>
-        </ul>
-    <div class="footer_content">
-        Copyright © 2009-2011 Tradesparq Ltd. All rights reserved.
-    </div>
-</div>
-<script type="text/javascript">
-  var uservoiceOptions = {
-    key: 'tradesparq',
-    host: 'tradesparq.uservoice.com', 
-    forum: '82201',
-    lang: 'en',
-    showTab: false
-  };
-
-  loadScriptAsync("cdn.uservoice.com/javascripts/widgets/tab.js", function(){});
-  
-</script>
-<!-- G Analytics -->
-<script type="text/javascript">
-loadScriptAsync("google-analytics.com/ga.js", function(){
-	try {
-	var pageTracker = _gat._getTracker("UA-11204542-2");
-	pageTracker._trackPageview();
-	} catch(err) {}
-}, 'ssl.', 'www.');
-</script>
-<!-- End G Analytics Tag -->
-
-<!-- Piwik -->
-<script type="text/javascript">
-loadScriptAsync("www.tradesparq.com/piwik/piwik.js", function(){
-	try {
-	var piwikTracker = Piwik.getTracker("http://www.tradesparq.com/piwik/piwik.php", 1);
-	piwikTracker.trackPageView();
-	piwikTracker.enableLinkTracking();
-	} catch( err ) {}
 });
 </script>
-<noscript><p><img src="http://www.tradesparq.com/piwik/piwik.php?idsite=1" style="border:0" alt=""/></p></noscript>
-<!-- End Piwik Tag -->
 
-<!-- Google Code for Join Member Conversion Page -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1024215550;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "ffffff";
-var google_conversion_label = "6OdCCPLH4wEQ_pOx6AM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1024215550/?label=6OdCCPLH4wEQ_pOx6AM&amp;guid=ON&amp;script=0"/>
+<div class="navbar">
+    <div class="main line">
+        <div class="fl_l ptm"> 
+			<a rel="nofollow" href="http://www.tradesparq.com/"><img src="http://www.tradesparq.com/images/logo_blk.gif" width="161" height="40" alt="China Manufacturers"></a> 
+		</div>
+		<div class="head_search"> 
+			<input type="text" class="fl_l" name="public_keyword" value=""><a href="javascript:void(0);" class="btn_blue public_search fl_l">Search</a>
+		</div>
+                <ul class="fl_r ul_fl_mrm mtm navList">
+            <li> <a rel="nofollow" href="javascript:void(0);" lang="english">EN |</a> <a rel="nofollow" href="javascript:void(0);" lang="chinese">中文</a> </li>
+            <li class="login"> <a rel="nofollow" href="http://www.tradesparq.com/public/user/login" id="sign_toggle" class="btn_head"> Login Here </a> </li>
+        </ul>
+        <ul class="fl_r ul_fl_mrm mtm navList" id="homeNav-list">
+        </ul>
+    </div>
 </div>
-</noscript>
+<div class="line main pvm">
+    <div class="unit size3of4">
+        <div class="mod bgmain man mlm">
+            <div class="inner mam pbm text_l">
+                <div class="hd pageTitle mam">
+    <h1>Privacy Policy</h1>
+</div>
+<div class="bd">
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>Tradesparq is committed to privacy protection. By registering for our service, you accept the terms of this Privacy Policy.</h3>
+            </div>
+            <div class="bd">
+                <p> By submitting personal information to Tradesparq, you expressly consent to the processing of your personal information according to this Privacy Policy. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>1.Notification of Changes</h3>
+            </div>
+            <div class="bd">
+                <p> We may update this Privacy Policy from time to time as the Tradesparq changes and expands. If we update this Privacy Policy, we will post the updated Policy on this page. Unless otherwise provided below, the revised terms will take effect when they are posted. Once any changes that we make to this Privacy Policy become effective, your continued use of Tradesparq after such time will signify your acceptance of the new terms. If we are going to use your Personally Identifiable Information (as defined below) in a manner different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that affect User information already stored in our database, we will post a prominent notice on our web site notifying Users of the change. In some cases when we post the notice we may also email Users who have not opted out of receiving communications from us, notifying them of the changes in our privacy practices. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>2.Tradesparq Links to Other Sites</h3>
+            </div>
+            <div class="bd">
+                <p> Tradesparq is not responsible for the privacy practices or the content of any other web sites to which the site links or which link to the site. By clicking on a link, logo or other item, please note that you may no longer be on the Tradesparq website. To check what Internet location you are on, note the URL at the top and/or bottom of your browser. We encourage you to read the posted privacy statement of that web site whenever interacting with any site. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>3.Information We Gather During Registration</h3>
+            </div>
+            <div class="bd">
+                <p> If you register to use Tradesparq we collect and store information that specifically identifies you or your account ("Personally Identifiable Information"). At this time, the most information you would be required to submit is information about whether you are a "buyer", "seller", or "service provider", your name, password, and email address. Persons wishing to pay for banner advertisements or preferred search listings are also required to enter a valid credit card number and name as it appears on the credit card or other information such as bank routing and account numbers to facilitate ACH payments. We may, in the future, include other optional requests for information from you, to help us to tailor the site for you and deliver personalized information to you. We may supplement our information with additional information purchased from third parties for marketing purposes. Credit card information and any bank information will be transmitted via SSL encryption for your protection. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>4.Tradesparq Profiles, Connections, Groups, Events, etc.</h3>
+            </div>
+            <div class="bd">
+                <p> These areas of the site are for the benefit of Users. The private and shared areas of the site help to facilitate communication and the exchange and sharing of information between Users. Tradesparq may use non-Personally Identifiable Information from these and other areas of the site for statistical analysis, product development, marketing, and research. Tradesparq reserves the right to monitor communications throughout our site, and if we believe that a User is violating our User Agreement or any of our Policies; international, federal or state laws; and/or our stated policies, we may terminate such usage. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>5.Online Surveys and Contests</h3>
+            </div>
+            <div class="bd">
+                <p> Periodically, Tradesparq conducts online User surveys to collect information about our Users, their preferences and work habits. These surveys are optional and if you choose to respond, your responses will be kept anonymous. Similarly, we may offer contests to qualifying Users in which we ask for contact and demographic information such as name, email address and mailing address. None of this information is shared with third parties, except in summary form, if at all. The demographic information that Tradesparq collects in the registration process and through online surveys is used to help us improve the Tradesparq site to meet the needs and preferences of our Users. This may include targeting advertising or other information to you about our offerings. Information we gather through a contest may also be disclosed to third parties as necessary for prize fulfillment and other aspects of any contest or similar offering. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>6.The Payment System</h3>
+            </div>
+            <div class="bd">
+                <p> Tradesparq offers a payment system via a licensed third-party payment gateway (Payment Asia) that allows Users to pay for banner advertising and preferred search result listings with a credit card, debit card or via Alipay. If you make use of this service, the payment system will collect your credit card number and/or other entered financial institution information and will use that information to bill you any fees and/or to perform the billing operation on behalf of the Provider, including but not limited to the use and disclosure of such credit card number and information to third parties as necessary to complete such billing operation. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>7.Automatically Gathered Information</h3>
+            </div>
+            <div class="bd">
+                <p> Tradesparq automatically collects your browser type and browser software version to tailor the presentation of the Tradesparq site to your platform and to maintain a record of your activity on the site. Tradesparq uses cookies to enable Users to specify unique preferences and to track User trends and patterns. Users always have the option of disabling cookies via their browser preferences. If you disable cookies on your browser, please note that some parts of our site may not function as effectively or may be considerably slower. As an automatic process, our web server software records a log file of IP addresses that access the Tradesparq site. We also collect IP address information but do not ordinarily link IP addresses to Users' Personally Identifiable Information, other than for statistical analysis as needed. However, we can and will use IP addresses to identify a User when we, in our sole discretion, determine that it is necessary to enforce compliance with our various policies or to protect our service, site, customers or others. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>8.Email Referral Feature</h3>
+            </div>
+            <div class="bd">
+                <p> Tradesparq offers the ability to send friends or colleagues emails about product or service information available through Tradesparq. If you choose to use this feature, be assured that Tradesparq only uses these email addresses on a one-time basis to send the requested posting and we use your email address to copy you on the message or to send on your behalf. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>9.Profiles</h3>
+            </div>
+            <div class="bd">
+                <p> After registering on Tradesparq you may set up your profile describing your company, services, products and specifications, and qualifications as a Seller or Service Provider, or your company and related information for you, as a Buyer. We strongly encourage you to complete your profile as much as possible as this may directly affect your likelihood of finding worthwhile opportunities or, as a Buyer, outstanding Seller or Service Provider candidates. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>10.How We Use Registration Information</h3>
+            </div>
+            <div class="bd">
+                <p> We use Personally Identifiable Information for our own internal purposes including contacting you via email to inform you about updates to the Tradesparq Site and providing you with information relating to e-commerce transactions that you conduct on the site. We reserve the right to disclose your information as required by law. We do not rent or sell our Users' Personally Identifiable Information to third parties. We do, however, provide you with the opportunity to receive communications via email. To opt-out from any non-critical email messages, simply click on the "unsubscribe" link contained within the email. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>11.Use of General Data</h3>
+            </div>
+            <div class="bd">
+                <p> Tradesparq reserves the right to use the general data it obtains from Users' use of the system, including all statistical information. You acknowledge that such data belongs to Tradesparq and that Tradesparq shall have the right to use such data as it determines in its sole discretion. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>12.Advertising</h3>
+            </div>
+            <div class="bd">
+                <p> Tradesparq may send you email communications including information that we may think may be of interest to you. We do not send any of your Personally Identifiable Information to our advertisers. You may see a cookie from a third-party banner server, and this cookie comes from the third-party banner server, not Tradesparq. Again, we do not pass along any Personally Identifiable Information to this party. To opt-out from any non-critical email messages, simply click on the "unsubscribe" link contained within the email. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>13.Co-Branded Services</h3>
+            </div>
+            <div class="bd">
+                <p> Tradesparq may enter into co-branding relationships with third-party web sites and companies to provide products and services to our Users. Tradesparq may share your Personally Identifiable Information, including User ID and password, with certain co-branded third-party service or product Providers as required to provide a specific product or service. However, these third-party partners may not use this Personally Identifiable Information for any reason other than to provide the service or product that the User has explicitly signed up for. While it is Tradesparq's general policy not to share anything other than summarized or aggregated data with the partner, any Personally Identifiable Information you provide may also be received by the co-branded site and could be stored and used by the co-branded service or product Provider according to their privacy policy. Please take the time to review these third-party privacy policies. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>14.Third Party Intermediaries</h3>
+            </div>
+            <div class="bd">
+                <p> Tradesparq uses an outside credit card processing company to bill Users for Services. Tradesparq may also engage other third party intermediaries in order to provide our users with additional offerings and services. Tradesparq makes no representations on these third parties and their use of personal identifiable information. Please refer to the third party's website and terms of service for their specific privacy policies. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>15.Comments Submitted by Users</h3>
+            </div>
+            <div class="bd">
+                <p> Tradesparq constantly seeks to improve the quality of and the User experience on the Tradesparq website. We value your input and encourage you to help us expand and make improvements to Tradesparq by providing us with any thoughts or comments you might have regarding the site. When sending us comments we may receive your email address or User ID and the country in which you are located. This information is optional. If you provide this information, we will only use it to acknowledge or respond to your comments. Submitting comments via an email will not cause you to receive any secondary or promotional material, unless specifically requested by you. In certain circumstances, we may ask for your permission to post your comments in marketing or promotional materials. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>16.Security</h3>
+            </div>
+            <div class="bd">
+                <p> We will use commercially reasonable methods to keep Personally Identifiable Information securely in our files and systems. Our Payment System is operated by a licensed third-party vendor using secure Internet connections, including SSL (Secure Sockets Layer) encryption, to help protect your financial data. Please note that with current technology, we cannot guarantee the security of your data as it travels over the Internet. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>17.Terminating Your Membership</h3>
+            </div>
+            <div class="bd">
+                <p> We save your Personally Identifiable Information until your membership with us is terminated. To terminate membership, contact Tradesparq Customer Service as indicated on our contact page. If you terminate your membership, your Personally Identifiable Information cannot be recovered and you may continue to receive email communications for a short period of time until we have updated all of our databases. After termination of your membership, your Personally Identifiable Information may remain on our archived database and records for a reasonable time as residual information. We will not use this residual information. Notwithstanding the above, we will maintain information on Users who have been removed for violating any of our agreements. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>18.Updating and Correcting Information</h3>
+            </div>
+            <div class="bd">
+                <p> Please notify Customer Support of any changes or errors related to any of your information that we have on file. Upon receipt of such requests, we will update our files within 30 days. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>19.Legal Disclaimer</h3>
+            </div>
+            <div class="bd">
+                <p> Though we make every effort to preserve User privacy, we may need to disclose your Personally Identifiable Information when required by law when we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process. </p>
+            </div>
+        </div>
+    </div>
+    <div class="mod mbm mustang">
+        <div class="inner">
+            <div class="hd">
+                <h3>20.Contacting Us</h3>
+            </div>
+            <div class="bd">
+                <p> If you have any questions about this Privacy Agreement or the practices of this website, you may contact <a rel="nofollow" href="mailto:service@tradesparq.com">service@tradesparq.com</a>. 
+            </p></div>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+	<div class="unit size1of4 lastUnit">
+        <div class="mtm mll">
+	<div class="mod mhn">
+		<div class="inner">
+			<div class="hd mbs">
+				<div class="h4">Sign up now for free!</div>
+			</div>
+			<div class="bd">
+				<p class="">Find Products, Connect &amp; Verify.</p>
+				<a class="btn_blue" rel="nofollow" href="http://www.tradesparq.com/public/user/register">Join Now</a>
+			</div>
+		</div>
+	</div>
+</div>    </div>
+</div>
+<div class="text_l">
+    
+<div class="ftbt3 text_l">
+	<div class="o1024">
+        <div class="mod bgblue3">
+            <div class="inner">
+                <div class="hd">
+                    <div class="h4">Navigate</div>
+                </div>
+                <div class="bd link_list">
+					<a rel="nofollow" href="http://www.tradesparq.com/">Home</a>
+					<a rel="nofollow" href="http://www.tradesparq.com/public/html/cp/what">What Is Tradesparq?</a>
+					<a rel="nofollow" href="http://www.tradesparq.com/public/html/cp/privacy">Privacy Policy</a>
+					<a rel="nofollow" href="http://www.tradesparq.com/public/html/cp/advertise">Advertising</a>
+					<a rel="nofollow" href="http://www.tradesparq.com/public/html/cp/terms">Terms &amp; Conditions</a>
+					<a rel="nofollow" href="http://www.tradesparq.com/public/html/contact">Contact Us</a>
+					<a rel="nofollow" href="http://www.tradesparq.com/public/html/vip">VIP</a>
+					<a rel="nofollow" href="http://www.tradesparq.com/public/html/press">Press</a>
+					<a href="http://www.tradesparq.com/public/html/sitemap">Site Map</a>
+					<a href="http://www.tradesparq.com/showroom/directory">China Manufacturers Directory</a>
+                </div>
+            </div>
+        </div>
+	</div>
+	<div class="o1024">
+	    <div class="mod bgblue3">
+	        <div class="inner">
+	            <div class="unit size1of3">
+					<div class="mrm">
+	            		<div class="hd">
+	            		    <div class="h4">
+								<a rel="nofollow" href="http://www.tradesparq.com/public/search/product_keyword">
+            			    		Browse China Products            			    	</a>
+							</div>
+	            		</div>
+	            		<div class="bd mbm">
+							<div class="link_list">
+								<a href="http://www.tradesparq.com/public/search/product_keyword/A/1">A</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/B/1">B</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/C/1">C</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/D/1">D</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/E/1">E</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/F/1">F</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/G/1">G</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/H/1">H</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/I/1">I</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/J/1">J</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/K/1">K</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/L/1">L</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/M/1">M</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/N/1">N</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/O/1">O</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/P/1">P</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/Q/1">Q</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/R/1">R</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/S/1">S</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/T/1">T</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/U/1">U</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/V/1">V</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/W/1">W</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/X/1">X</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/Y/1">Y</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/Z/1">Z</a>
+								<a href="http://www.tradesparq.com/public/search/product_keyword/0-9/1">0-9</a>
+							</div>
+	            		</div>
+					</div>
+				</div>
+	            <div class="unit size1of3">
+					<div class="mhs">		
+	            		<div class="hd">
+	            		    <div class="h4">
+								<a rel="nofollow" href="http://www.tradesparq.com/public/search/user_keyword">
+            			    		Browse Exporters            			    	</a>
+							</div>
+	            		</div>
+	            		<div class="bd mbm">
+							<div class="link_list">
+								<a href="http://www.tradesparq.com/public/search/user_keyword/A/1">A</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/B/1">B</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/C/1">C</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/D/1">D</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/E/1">E</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/F/1">F</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/G/1">G</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/H/1">H</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/I/1">I</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/J/1">J</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/K/1">K</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/L/1">L</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/M/1">M</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/N/1">N</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/O/1">O</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/P/1">P</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/Q/1">Q</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/R/1">R</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/S/1">S</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/T/1">T</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/U/1">U</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/V/1">V</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/W/1">W</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/X/1">X</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/Y/1">Y</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/Z/1">Z</a>
+								<a href="http://www.tradesparq.com/public/search/user_keyword/0-9/1">0-9</a>
+							</div>
+	            		</div>
+	            	</div>
+				</div>
+		    	<div class="unit size1of3 lastUnit">
+					<div class="mlm">
+	           			<div class="hd">
+	            		    <div class="h4">
+								<a rel="nofollow" href="http://www.tradesparq.com/public/search/keyword">
+            			    		Browse Industries            			    	</a>
+							</div>
+	            		</div>
+	            		<div class="bd mbm">
+							<div class="link_list">
+								<a href="http://www.tradesparq.com/public/search/keyword/A/1">A</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/B/1">B</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/C/1">C</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/D/1">D</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/E/1">E</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/F/1">F</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/G/1">G</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/H/1">H</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/I/1">I</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/J/1">J</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/K/1">K</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/L/1">L</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/M/1">M</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/N/1">N</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/O/1">O</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/P/1">P</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/Q/1">Q</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/R/1">R</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/S/1">S</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/T/1">T</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/U/1">U</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/V/1">V</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/W/1">W</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/X/1">X</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/Y/1">Y</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/Z/1">Z</a>
+								<a href="http://www.tradesparq.com/public/search/keyword/0-9/1">0-9</a>
+							</div>
+	            		</div>
+					</div>
+				</div>
+	        </div>
+	    </div>
+	</div>
+	<div class="o1024 line">
+   		<div class="mod bgblue3">
+    	   	<div class="inner">
+    	       	<div class="bd">
+    	           	<p>
+						Copyright © 2010-2012 Tradesparq Ltd. All rights reserved. 
+						<a rel="nofollow" id="feedrss" title="Subscribe" href="http://www.tradesparq.com/public/rss" class="">Subscribe to RSS</a>
+					</p>
+    	       	</div>
+    	   	</div>
+		</div>
+	</div>	
+</div></div>
+<script id="jtmpl_error_tip" type="text/x-jquery-tmpl">
+<div jtmpl="jtmpl_error_tip" js="ts-errortip">
+    <div class="mod dialog_${errorClass}">
+        <div class="inner">
+            {{if title}}
+            <div class="hd">
+                <div class="h3">
+                    ${title}
+                </div>
+            </div>
+            {{/if}}
+            <div class="bd">
+                {{if text}}
+                <p>{{html text}}</p>
+                {{/if}}
+                {{if message}}
+                <div>
+                    <span>{{html message}}</span>
+                </div>
+                {{/if}}
+            </div>
+            {{if autoClose !== true}}
+            <div class="ft">
+                <div class="fl_r">
+                    {{if type == 'confirm'}} <a class="mrs btn_${type} f_close">
+                    Cancel                    </a> or <a class="mls btn3 btn_${type} f_ok">
+                    Ok                    </a> {{else}} <a class="mrs btn3 btn_${type} f_close">
+                    Close                    </a> {{/if}}
+                </div>
+            </div>
+            {{/if}}
+        </div>
+    </div>
+</div>
 
+</script>
+<script id="jtmpl_going" type="text/x-jquery-tmpl">
+<div>
+    <div class="mod dialog_confirm f_going" jtmpl="jtmpl_going" type="alert">
+        <div class="inner">
+            {{if title}}
+            <div class="hd">
+                <h3>${title}</h3>
+            </div>
+            {{/if}}
+            {{if data}}
+            <div class="bd">
+                <p>{{html data}}</p>
+            </div>
+            {{/if}}
+        </div>
+    </div>
+</div>
+
+</script>
+<script id="jtmpl_show_dialog" type="text/x-jquery-tmpl">
+<div id="show_dialog" title="Connect">
+	<div class="mod gremlin man">
+        <div class="inner brM pal">
+            <div class="bd">
+				<p>{{html message}}</p>
+			</div>
+			{{if dissapear || (footnote === false)}}
+			{{else}}
+			<a href="javascript:void(0);" id="f_ok" class="fl_r btn3">OK</a>
+			{{/if}}
+		</div>
+	</div>
+</div>
+</script>
+<script id="jtmpl_home_homeNav" type="text/x-jquery-tmpl">
+<li {{if homeNav}} {{else}}class="none"{{/if}} >
+	<a rel="nofollow" href="${link}" >${title}</a>
+</li>
+</script>
 <script type="text/javascript">
-function showSearches(){
-$('div.link_foot').toggle();
+var base_url = "http://www.tradesparq.com/";
+
+//解决IE6兼容trim()
+if(typeof String.prototype.trim !== 'function'){   
+	String.prototype.trim = function(){
+		return this.replace(/^\s+|\s+$/g, ''); 
+	};
 }
 </script>
 
-    </div>
-	
+<script type="text/javascript">
+$(function(){
+	$(".public_search").live('click', function(){
+		var keyword = $.trim($("input[name=public_keyword]").val());
+		if(!is_empty(keyword))
+		{
+			keyword = keyword.replace(/\b\w+\b/g, function(keyword){
+				  return keyword.substring(0,1).toUpperCase()+keyword.substring(1);}
+				  );
+			keyword = keyword.replace(/ /g, "-");
+		}
 
+		var lang = "english";
+		var url = "http://www.tradesparq.com/catalog/all/" + encodeURI(keyword) + "-manufacturers";
+		
+		if(lang == 'chinese')
+		{
+			url += "?lang="+lang;
+		}
+		window.location.href = url; 
+		return false;
+	});
+	
+	$("input[name=public_keyword]").live("keydown",function(event){
+		if(event.keyCode==13){
+			jQuery('.public_search').click();
+			return false;
+		}
+	});
+});
+</script>
+
+<script type="text/javascript">
+var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-11204542-2"]);_gaq.push(["_trackPageview"]);(function(){var b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})();
+</script>
+
+<script type="text/javascript">
+var switchTo5x=true;
+
+$.getScript('http://w.sharethis.com/button/buttons.js', function(){
+	stLight.options({publisher:'0ee4497e-e1ae-4091-a66f-b79f6db356f4'});
+});
+</script>
 
 
 </body></html>
