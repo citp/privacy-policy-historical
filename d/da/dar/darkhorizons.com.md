@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darkhorizons.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101231408id_/http%3A//www.darkhorizons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkhorizons.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620152348id_/http%3A//www.darkhorizons.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Dark Horizons
 
@@ -26,7 +26,7 @@ Companies that place ads on the darkhorizons.com Web site may also use their own
 
 ### Cookie Notification and Disabling
 
-Most browsers permit you to set the browser to accept, reject, or notify you of cookie use. However, some parts of the www.darkhorizons.com web site may not function properly if your browser is set to reject cookies.
+Most browsers permit you to set the browser to accept, reject, or notify you of cookie use. However, some parts of the www.darkhorizons.com web site may not function properly if your browser is set to reject cookies. Users can opt out of advertising behavioral targeting through the opt-out link located [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Personally Identifiable Information
 
@@ -38,7 +38,7 @@ We collect personally identifiable information when you (1) use the social netwo
 
 ### How We Use Personally Identifiable Information
 
-Dark Futures Pty Ltd. only uses your personally identifiable information to respond to your questions or requests to contact us.
+Dark Futures Pty Ltd. only uses your personally identifiable information to respond to your questions or requests to contact us. We are participants in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising.
 
 ### Anonymous Information Collected on this Website
 
