@@ -1,0 +1,712 @@
+<!--The following is the downloaded HTML source of the asda.com privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621014217id_/http%3A//www.asda.com/help/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta name="author" content="ASDA">
+<meta name="language" content="en">
+<meta name="robots" content="index,follow,noodp,noydir">
+
+<meta name="google-site-verification" content="M86TDSQNA37jsqobIoM7mNm8zQuzATQ3iNYMLbBeHbU">
+<meta name="y_key" content="5bc02b829a2c0f7a">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="Keywords" content="privacy">
+<meta name="Description" content="ASDA.com - Privacy Policy">
+
+<link rel="canonical" href="http://www.asda.com/help/privacy.html">
+
+<link href="../css/reset.css" media="screen" rel="stylesheet" type="text/css">
+<link href="../css/style.css" media="screen" rel="stylesheet" type="text/css">
+<link href="css/style.css" media="screen" rel="stylesheet" type="text/css">
+
+<link rel="icon" href="http://www.asda.com/favicon.ico" type="image/x-icon"> 
+<link rel="shortcut icon" href="http://www.asda.com/favicon.ico" type="image/x-icon">
+
+<title>ASDA Website - Privacy Policy</title>
+
+<script src="../javascript/jquery.min.js" type="text/javascript"></script>
+<script src="../javascript/jquery.cycle.all.js" type="text/javascript"></script>
+<script src="../javascript/jquery.easing.1.3.js" type="text/javascript"></script>
+<script src="../javascript/portfolio.js" type="text/javascript"></script>
+<script src="../javascript/homeactionsNew.js" type="text/javascript"></script>
+<script src="../javascript/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+        function megaHoverOver(){
+                $(this).find(".sub").stop().fadeTo('fast', 1).show();
+                        
+                //Calculate width of all ul's
+                (function($) { 
+                        jQuery.fn.calcSubWidth = function() {
+                                rowWidth = 0;
+                                //Calculate row
+                                $(this).find("ul").each(function() {                                    
+                                        rowWidth += $(this).width(); 
+                                });     
+                        };
+                })(jQuery); 
+                
+                if ( $(this).find(".row").length > 0 ) { //If row exists...
+                        var biggestRow = 0;     
+                        //Calculate each row
+                        $(this).find(".row").each(function() {                                                     
+                                $(this).calcSubWidth();
+                                //Find biggest row
+                                if(rowWidth > biggestRow) {
+                                        biggestRow = rowWidth;
+                                }
+                        });
+                        //Set width
+                        $(this).find(".sub").css({'width' :biggestRow});
+                        $(this).find(".row:last").css({'margin':'0'});
+                        
+                } else { //If row does not exist...
+                        
+                        $(this).calcSubWidth();
+                        //Set Width
+                        $(this).find(".sub").css({'width' : rowWidth});
+                        
+                }
+        }       
+        function megaHoverOut(){ 
+          $(this).find(".sub").stop().fadeTo('fast', 0, function() {
+                  $(this).hide(); 
+          });
+        }
+        var config = {    
+                 sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
+                 interval: 100, // number = milliseconds for onMouseOver polling interval    
+                 over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
+                 timeout: 500, // number = milliseconds delay before onMouseOut    
+                 out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
+        };
+        $("ul#topnav li .sub").css({'opacity':'0'});
+        $("ul#topnav li").hoverIntent(config);
+});
+
+(function () {
+        $.fn.infiniteCarousel = function () {
+                function repeat(str, n) {
+                        return new Array( n + 1 ).join(str);
+                }
+
+                return this.each(function () {
+                // magic!
+                        var $wrapper = $('> div', this).css('overflow', 'hidden'),
+                                $slider = $wrapper.find('> ul').width(9999),
+                                $items = $slider.find('> li'),
+                                $single = $items.filter(':first'),
+
+                                singleWidth = $single.outerWidth(),
+                                visible = Math.ceil($wrapper.innerWidth() / singleWidth),
+                                currentPage = 1,
+                                pages = Math.ceil($items.length / visible);
+
+/* TASKS */
+// 1. pad the pages with empty element if required
+                        if ($items.length % visible != 0) {
+                                // pad
+                                $slider.append(repeat('<li class="empty" />', visible - ($items.length % visible)));
+                                $items = $slider.find('> li');
+                        }
+
+// 2. create the carousel padding on left and right (cloned)
+                        $items.filter(':first').before($items.slice(-visible).clone().addClass('cloned'));
+                        $items.filter(':last').after($items.slice(0, visible).clone().addClass('cloned'));
+                        $items = $slider.find('> li');
+
+// 3. reset scroll
+                        $wrapper.scrollLeft(singleWidth * visible);
+
+// 4. paging function
+                        function gotoPage(page) {
+                                var dir = page < currentPage ? -1 : 1,
+                                        n = Math.abs(currentPage - page),
+                                        left = singleWidth * dir * visible * n;
+
+                                $wrapper.filter(':not(:animated)').animate({
+                                        scrollLeft : '+=' + left
+                                }, 500, function () {
+                                        // if page == last page - then reset position
+                                        if (page > pages) {
+                                        $wrapper.scrollLeft(singleWidth * visible);
+                                                page = 1;
+                                        } else if (page == 0) {
+                                                page = pages;
+                                                $wrapper.scrollLeft(singleWidth * visible * pages);
+                                        }
+
+                                        currentPage = page;
+                                });
+                        }
+
+// 5. insert the back and forward link
+                        $wrapper.after('<a href="#" class="arrow back" title="Click here to go back">&lt;back</a><a href="#" class="arrow forward" title="Click here to go forward">forward&gt;</a>');
+
+// 6. bind the back and forward links
+                        $('a.back', this).click(function () {
+                                gotoPage(currentPage - 1);
+                                return false;
+                        });
+
+                        $('a.forward', this).click(function () {
+                                gotoPage(currentPage + 1);
+                                return false;
+                        });
+
+                        $(this).bind('goto', function (event, page) {
+                                gotoPage(page);
+                        });
+
+                        // THIS IS NEW CODE FOR THE AUTOMATIC INFINITE CAROUSEL
+                        $(this).bind('next', function () {
+                                gotoPage(currentPage + 1);
+                        });
+                });
+        };
+})(jQuery);
+
+$(document).ready(function () {
+        // THIS IS NEW CODE FOR THE AUTOMATIC INFINITE CAROUSEL
+        var autoscrolling = true;
+
+        $('.infiniteCarousel').infiniteCarousel().mouseover(function () {
+                autoscrolling = false;
+        }).mouseout(function () {
+                autoscrolling = true;
+        });
+
+        setInterval(function () {
+                if (autoscrolling) {
+                        $('.infiniteCarousel').trigger('next');
+                }
+        }, 6000);
+});
+</script>
+</head>
+
+<body class="">
+<script language="JavaScript" type="text/javascript" src="../javascript/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName="ASDA.com : Privacy Policy"
+s.channel="ASDA.com"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//-->
+</script>
+<div id="pgCont">
+        <div id="pgHold">
+                <div id="pgContent">
+                <div id="pgContentMain">
+                <h1>ASDA Website - Privacy Policy</h1>
+                <h2><strong>Our Privacy Mission Statement:</strong></h2>
+        <blockquote>
+        "At ASDA, we value the trust placed in us by customers, suppliers and colleagues who give us their personal data.  Data security is one of our highest priorities and we aim to be as clear as possible about what we do with personal data and why we do it."
+        </blockquote>
+        <h2><strong>Our Privacy Statement for ASDA websites</strong></h2>
+        <p>
+        Your privacy is really important to us, and we understand how important it is to you. Our aim is to be as clear and open as possible about what we do and why we do it. ASDA is committed to the online privacy of all its users. 
+        </p>
+        <p>
+        This Privacy Policy regulates the use by ASDA and its partner companies of the information you provide when using ASDA websites.
+        </p>
+        <p>
+        This ASDA website is run by the ASDA group of companies ("<strong>we</strong>", "<strong>us</strong>", "<strong>our</strong>") and our carefully selected partners ("<strong>Partners</strong>"). We run this site in order to promote products and services and, where these are provided by our Partners, to be the link between our customers and our Partners.
+        </p>
+        <p>  
+                Where we talk about an order in this policy, this can mean an order for goods or services, registration on a site, an application for a quotation or application for a product or service or the opening of an account.
+        </p>
+                <h2><strong>Information We Collect</strong></h2>
+                <p>
+        To be able to order from us we have to collect certain information from you.  As part of this, you will need to give your contact information. We use the information given to us by you to provide the service you request from us in the way that is set out in this privacy policy. You can change your registration details easily through the account facilities available on the website.
+        </p>
+        <p>
+        <strong>User name and password</strong> - If we collect a user name and password, this is so we can keep your information safe and so that we can have your information to hand each time you visit us.
+        </p>
+                <p>
+        <strong>Name, address and postcode</strong> - Without this we won't know where to send your order or to whom. We also use postcodes to quickly get your full address to save you typing it out, and in some cases to identify whether we deliver or offer services in your area.  
+        </p>
+                <p>
+        <strong>Age / date of birth</strong> – we may need to collect your age or date of birth in order to be able to offer you certain products, such as insurance, financial services products or alcohol, and we may also use this to send you age or birthday related offers if you agree.
+        </p>
+                <p>
+        <strong>Email address</strong> - we send a confirmation of your orders via email which may include delivery details, order tracking and our customer services details, in case you need to contact us about your order.  
+        </p>
+        <p>
+        <strong>Telephone numbers</strong> - if there are any problems with your order or we need to check anything, we need to be able to contact you quickly.  
+        </p>
+                <p>
+        <strong>Payment card number, expiry date, issue no and name of card holder</strong> – when you purchase a product or service we need these details so we can collect payment in the same way as when we take payment in a store via chip and pin.
+        </p>
+        <p>
+        <strong>Where you heard about us</strong> – we may ask you this to help make our marketing more efficient.
+        </p>
+                <p>
+        <strong>Correspondence</strong> – if you contact us we may keep a record of that correspondence.
+        </p>
+        <p>
+        <strong>Sensitive personal data</strong> - sensitive personal data includes, for example, information related to your health, race or ethnic origin or religion.   We may need sensitive personal data from you for certain products and services, and in some cases, we may be able to assume sensitive personal data about you from the information you provide.  By letting us have any sensitive personal data, you expressly consent to us using and telling others about any of your sensitive personal data so we can provide you with the goods or services requested by you in the way set out in this Privacy Policy. 
+        </p>
+                <p>
+        <strong>Third party information</strong> - if you give us information about another person (for example if someone else is taking delivery for you or is included in the purchase of a product) you confirm that you have identified ASDA to them and told them what we will use their information for, as set out in this Privacy Policy and that they have given permission for us to be able to use their personal information in the manner described.  Their personal information will be used to make sure that the delivery is performed correctly, to get in touch with them (if we need to) and to respond to any communications from them.  They will not be sent marketing information unless they become a customer and provide us with any necessary consents.
+        </p>
+        <p>
+        <strong>IP addresses</strong> - when you visit our site, we will automatically receive your IP address, a unique identifier for your computer or other access device.
+        </p>
+        <p>
+        You may also provide us with personal information if you contact customer services, if you enter promotions or competitions run by us or if you get in touch with us in some other way, for example by way of an email facility provided on the website.
+        </p>
+        <h2><strong>How We Use The Information We Collect</strong></h2>
+                <p>
+        Our main uses of your information are explained above which in general is to process your orders, as well as to help us understand your needs and provide you with a better service.  Your account may be used to store information about your previous purchases, personal preferences and shopping lists.  But you should also be aware of the following uses:
+        </p>
+        <p>
+        <strong>Marketing</strong> – we or our Partners  may use the information we collect to inform you, by letter, phone, SMS, email or otherwise, about special offers and products and services that we think may be of interest to you and we may tell you about other organisations' products and services.  We will tell you about this when we collect your information and <strong>if you do not wish to receive these communications, please let us know</strong>.  You can change your mind at any time by going to the account facilities available on the website (where available) or by contacting our Data Protection Officer at <a href="mailto:dataprotection@asda.co.uk">dataprotection@asda.co.uk</a>.  You can also unsubscribe following the instructions that we will include in any communication, such as email or text, we send to you.
+        </p>
+        <p>
+        <strong>Customer care and correspondence</strong> - as part of our customer care procedures, we may follow-up, either by letter, phone, SMS email or otherwise with customers who have purchased goods or services from our website or who have posted comments about ASDA on the internet, for example to resolve a complaint or to ask for a testimonial.
+        </p>
+        <p>
+        <strong>Market research</strong> - from time to time, we may also use your information to contact you for market research purposes. We may contact you by letter, phone, SMS, email or otherwise.
+        </p>
+        <p>
+        <strong>Personalise shopping</strong> - we may personalise your experience by using your past purchases and browsing habits to present special offers and new products and services that we think may be of interest to you.  As technology develops, this will really help us to improve our service to you.
+        </p>
+        <p>
+        <strong>Website improvement</strong> - to help us design our website and improve your experience, we may collect information about the way you use and access our website.  Our web system collects information about each visitor, including IP address, the length of time spent on the website and the order in which pages are visited. We may employ third party experts to help us look at this information.  However, we make sure that anyone we employ treats all information with the same sensitivity and security that we treat it.  This is explained in more detail in the cookies section below.
+        </p>
+        <p>
+        <strong>Fraud Prevention</strong> - in order to protect our customers and us from fraud and theft, we may look at the information that we get from making identity checks and other information in our customer records, including how you conduct your account, and may pass this to our Partners, other retailers or third parties and to financial and other organisations (including law enforcement agencies) involved in fraud prevention and detection, to use in the same way.  When you apply for products or services through our website you may also need to go through a more detailed credit check on terms which we will tell you about first.
+        </p>
+        <h2 id="cookies"><strong>Cookies</strong></h2>
+                <p>
+                Our sites use a number of different cookies. Below we explain the cookies we use and why we use them.
+                </p>
+                <p><strong>What is a cookie?</strong>
+                <br>
+                A cookie is a small text file that may be placed on your device when you visit our sites. When you next visit our sites the cookie allows us to distinguish you from other users.
+                </p>
+                <p>
+                <strong>There are two broad categories of cookies:</strong>
+                </p>
+                <ol>
+                <li><strong>Persistent cookies</strong>
+                        <br>
+                        Persistent cookies remain on your device until deleted manually or automatically.
+                        </li>
+                        <li><strong>Session cookies</strong>
+                        <br>
+                        Session cookies remain on your device until you close your browser when they are automatically deleted.
+                        </li>
+                </ol>
+                <p>
+                <strong>Cookies we use and why we use them</strong>
+                </p>
+                <ol>
+                        <li><strong>Essential cookies</strong>
+                        <br>
+                        Essential cookies are technical cookies that are required for the operation of our sites. Without essential cookies our sites can’t operate properly. Essential cookies include, for example, cookies that enable you to log into secure areas.
+                        </li>
+                        <li><strong>Performance cookies</strong>
+                        <br>
+                        Performance cookies allow us to recognise and count the number of visitors to our sites and to see how visitors move around them. This helps us to improve the way our sites work by enabling us to tailor our sites to the way visitors use them. The information we collect from performance cookies is aggregated which means that we cannot identify you from it.
+                        </li>
+                        <li><strong>Experience cookies</strong>
+                        <br>
+                        Experience cookies allow our sites to remember the choices you make. Our sites use experience cookies to provide you with enhanced and personalised features. For example, we use information collected through what are known as “web-analytic” cookies to compare the choices you make to those of our other customers so that we can learn from those choices.
+                        <br>
+                        Information collected by experience cookies cannot track your browsing activity when you leave our sites to browse other sites.
+                        </li>
+                        <li><strong>Marketing cookies</strong>
+                        <br>
+                        Marketing cookies record your visits to our sites, the pages you have visited and the links you have followed. We use this information to make our sites and the advertising displayed on them more relevant to your interests. For example sometimes we use marketing cookies to limit the number of times that you see an advert. Sometimes we share information about your browsing activity, (which we have collected from cookies), with our advertising partners. They may use this information to advertise products, which may interest you, on other sites.
+                        </li>
+                </ol>
+                <p>
+                <strong>Your right to refuse cookies and what happens if you refuse them</strong>
+                <br>
+                You can refuse cookies by activating the relevant setting on your browser. However, if you do so you may not be able to access all or parts of our sites. If you carry on using our sites and do not change your browser settings we will assume you consent to us using cookies as described above.
+                </p>
+                <!--
+                <p>
+        A cookie is a small piece of text that a website may place on your computer's hard drive.
+        <br />
+        We use cookies to:
+        </p>
+        <ol>
+                <li>operate online ordering (cookies are needed to browse, apply and purchase);</li>
+            <li>greet you personally and speed up your log-in when you come back to the site and to remember your previous orders; </li>
+            <li>help us look at web traffic to allow us to improve your experience; and</li>
+            <li>make sure of the security and authenticity of registered users.</li>
+                </ol>                        
+                <p>
+        You may set up your web browser to notify you of cookie placement requests or decline cookies completely (although declining them may prevent you from being able to use the website properly or at all). How to do this is explained below.
+        </p>
+        <p>
+        We may look at cookies stored on your computer when you visit our website in future or when you open an email from us.  We are able to do this by including web beacons (also known as clear GIFS or web bugs) in our emails and on our website.  Our web beacons do not store information on your computer but, by speaking with our cookies on your computer, they can tell us when you have opened emails from us and what pages you look at.
+        </p>
+        <p>
+        We may also use third party web analytics services (for example Google Analytics, a popular web analytics service provided by Google, Inc.) to help us look at how users use the site.  The service provider may be based outside the UK but your information will only be used for the purpose of looking at your use of our website, putting together reports on website activity and providing other services connected with website activity and internet usage.  The service provider may also let third parties have this information where required to do so by law, or where such third party provides the information on the service provider's behalf.  The service provider will not associate your IP address with any other data held by them. 
+        </p>
+        <p>
+        If you have Adobe Flash installed on your computer (most computers do) and you use our audio or video players, the web analytics service may try to store some additional data on your computer.  This data is known as a Local Shared Object or Flash cookie.  This helps us look at the popularity of our media files.  We can count the total number of times each file is played, how many people watch videos right to the end and how many people give up half way through.  Adobe's website explains how to control Flash cookies on your computer.
+        </p>
+          <p>
+          You may come across Asda adverts and content while you are on other websites. For these adverts, and if your computer is set to allow cookies, our third party provider will use software that can set a cookie through your browser to enable us to monitor whether you see the adverts, click on them and buy from our website. Some of this information is personal but none of it is sensitive. We collect this so we can make our adverts relevant to you based on your past visits to websites. We only share this information within Asda. If you would prefer not to receive or see this content on the websites you visit or to exercise your choice about the collection, use and sharing of this information with us, please visit the <a href="http://www.criteo.com/en/privacy-policy" target="_blank" title="Click here for more information about Criteo">Criteo website</a>. Criteo adheres to the <a href="http://www.youronlinechoices.com/" target="_blank" title="Click here for more information about IAB Good Practice Principles">IAB Good Practice Principles</a>.
+          </p>
+        <p>
+        <strong>Turning cookies and web beacons off</strong> - If you want to delete any cookies or web beacons that are already on your computer or stop future cookies or web beacons, please go to the instructions for your file management software or look at <a href="http://www.AboutCookies.org" target="_blank" title="Click here for more information about Cookies">www.AboutCookies.org</a>.  Please remember that cookies are needed to browse, add to trolley and checkout.
+        </p>
+                -->
+        <h2><strong>Who We Share The Information With</strong></h2>
+                <p>
+        We will not sell, distribute or lease your personal information to third parties (other than our Partners) unless you say we can or are required by law. We may need to disclose your information to process and fulfil your order, to provide services you request, for internal business analysis purposes, for marketing, for the purposes of fraud prevention, or if ASDA itself, or any of our business is bought or sold.
+        </p>
+        <p>
+        <strong>Market Research</strong> - we may provide information at an aggregated statistical level about our customers, sales, traffic patterns and related site information to third parties, but this information will not identify individuals.
+        </p>
+        <p>
+        <strong>Processing by third parties</strong> - from time to time we may employ other companies and individuals to perform functions on our behalf. Examples include completing orders, delivering packages, sending postal mail, e-mail or SMS messages, removing repetitive information from customer lists, confirming contact details, looking at information, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service (such as through our call centre staff in the UK or South Africa). They have access to personal information needed to perform their functions, but may not use it for other purposes. They must also process the personal information as set out in this Privacy Policy and as permitted by the UK's Data Protection Act.
+        </p>
+        <p>
+        <strong>International transfers</strong> - in order to carry out the steps set out above we may send your personal information outside of the European Economic Area and, if necessary, across international borders. The data protection laws in these countries may not be as comprehensive as in the European Economic Area. However, we have taken appropriate steps to make sure there is the same level of protection for the processing carried out in these countries as within the European Economic Area.
+        <br>
+        Any details you provide may be electronically sent to the US to our parent company Wal-Mart Stores Inc., which helps us in running our websites. However, any such information will be dealt with in accordance with the UK’s Data Protection Act.
+        </p>
+        <h2><strong>Storage of Data</strong></h2>
+                <p>
+        We will not store your personal information for any longer than we need to, however we may be obliged by law to store your communications and personal information including activity logs and we may need to show details of these to government or authorised officials upon request. Like many websites, we use log files to monitor the effectiveness of our online marketing programmes. 
+        </p>
+        <h2><strong>Access Rights</strong></h2>
+                <p>
+        You have a right to access the personal information that is held about you. To obtain a copy of the personal information ASDA holds about you, please write to us at the following address enclosing your postal details and a cheque for £10, which we are entitled by law to charge, payable to ASDA Stores Limited:
+        <br>
+        Data Protection Officer,
+        <br>
+        Legal Department,
+        <br>
+        ASDA Stores Limited, 
+        <br>
+        ASDA House, 
+        <br>
+        Great Wilson Street, 
+        <br>
+        Southbank, 
+        <br>
+        Leeds, LS11 5AD
+        </p>
+         <p>
+        <strong>Security</strong> - at ASDA, information security is very important and we have taken many steps to make sure your shopping experience with us is secure. Information about you will be kept safe and secure.
+        <br>
+        In order to prevent unauthorised access or disclosure of your information, we have put in place suitable physical, electronic and managerial procedures to protect and secure information that is collected online. 
+        </p>
+        <p>
+        <strong>Keeping your information secure</strong> - to help us keep your information confidential you should:
+        </p>
+        <ol>
+                <li>Keep your password secret.</li>
+            <li>Never distribute the website addresses for pages that you have looked at while logged in as a registered customer.</li>
+            <li>You should choose a password that is not obvious or known to anyone else. You should never give a third party your password, as you will be responsible for all activity and charges incurred through use of your password whether authorised by you or not.
+                        </li>
+            <li>If you forget your password, you can request a new password, which will be emailed to the address we hold for you. You can change your password anytime through the account facilities on the website.  Should we think that there is likely to be, or has been any breach of security, we may change your password and notify you of the change by email.
+                        </li> 
+        </ol>
+        <p>
+        <strong>Payment Card Security</strong> - we use Verisign, 3DS and the latest SSL (Secure Sockets Layer) technology to make sure that the details you provide when placing an order are kept private and secure, making shopping on our website safe. Our secure server encrypts your credit or debit card number details along with your personal information and changes them into bits of code that are then securely sent over the internet. Your browser will show when you are in a secure environment by displaying either a locked padlock or an image of a key in the grey bar at the bottom of the page; it may also warn you when you are entering a secured environment as you go to place your order. Once your payment information is received by us, your payment card is processed through the same systems that handle our store sales - so they're tried and tested over many years of secure operation.
+        </p>
+        <p>
+        <strong>Security in our offices</strong> - access to your information is restricted in our stores and offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. The servers that store this information are kept in a secure environment.
+        </p>
+        <h2><strong>Links</strong></h2>
+                <p>
+        Our website may contain links to let you visit other websites of interest easily. Once you have used these links to leave our website, you should be aware that we do not have any control over that other website. As such we cannot be responsible for the protection and privacy of any information which you provide whilst visiting these websites, and they are not governed by this Privacy Policy. ASDA is not responsible for any products and/or services featured on any third party website. You should exercise caution and look at the Privacy Policy applicable to the website in question.
+        </p>
+        <h2><strong>Notification of Changes to This Policy</strong></h2>
+                <p>
+        If we decide to change our Privacy Policy, we will post these changes on this website so you know what information we collect and how we use it. If at any point we decide to use personally identifiable information in a way different from that told to you at the time it was collected, we will tell you. You will have a choice as to whether or not we use your information in this different manner.
+        </p>
+        <h2><strong>Feedback</strong></h2>
+                <p>
+        We want to make sure we're giving you the information about privacy and security that you want - let us know what you think. If you have any feedback, questions or concerns, please <a href="http://your.asda.com/section-contact-asda">contact us.</a>
+        </p>
+        </div>
+        </div>
+        <!--Footer-->
+    
+        <div id="footerpanel">
+                <div class="clear">
+                        <h6>About us</h6>
+                        <p>
+                        <a href="http://storelocator.asda.com" onclick="javascript: pageTracker._trackPageview('/aboutus/aboutUsStoreLocator');">Store locator,</a> <a href="http://your.asda.com" onclick="javascript: pageTracker._trackPageview('/aboutus/aboutUsCorporate');">Corporate,</a> <a href="http://www.asda.jobs" onclick="javascript: pageTracker._trackPageview('/aboutus/aboutUsCareers');">Careers,</a> <a href="http://your.asda.com/community" onclick="javascript: pageTracker._trackPageview('/aboutus/aboutUsCommunity');">Community</a>                 </p>
+                </div>
+                <div class="clear">
+                        <h6>Help</h6>
+                        <p>
+                        <a href="http://your.asda.com/section-contact-asda" onclick="javascript: pageTracker._trackPageview('/help/helpReturnsExchanges');">Returns &amp; Exchanges</a>                 </p>
+                </div>
+                <div class="clear">
+                        <h6>Stay in touch</h6>
+                        <p>
+                        <a href="http://your.asda.com/section-contact-asda" onclick="javascript: pageTracker._trackPageview('/stayintouch/stayInTouchContactUs');">Contact us</a>, <a href="http://www.twitter.com/asda" onclick="javascript: pageTracker._trackPageview('/stayintouch/stayInTouchTwitter');">Follow Asda on Twitter</a>                        </p>
+                </div>
+        </div>
+        <div id="symed_bot">
+                <img src="../images/saving-you-money.gif" alt="ASDA - saving you money everyday" width="543" height="35">
+        </div>
+        </div>
+        <div id="menuoverlay">
+                <div id="menuoverlaycontent">           </div>
+        </div>
+        <div id="pgHead">
+                <div id="pgLogo">
+                        <img src="../images/asda-logo.gif" id="asdaLogo" alt="Asda Logo" width="183" height="72">
+                        <script>$("body").removeClass("noscript");</script>
+                        <div class="atoz">
+                        <img src="../images/findIt.gif" alt="Find it" width="61" height="26">
+                        <img src="../images/aToZ.gif" class="ab" onclick="javascript:showatoz();" alt="View an A-Z list of Asda.com" width="149" height="26">                 </div>
+                </div>
+                <div id="pgMenu">
+
+                                <ul id="topnav">
+                        <li id="menuHome">
+                                        <a class="mHome on">Home</a>                            </li>
+
+                                                <li id="menuGroceries">
+                                <a href="http://groceries.asda.com" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subGroceriesTabHead');" class="mGroceries">Groceries</a>
+
+                                <div class="sub" style="opacity: 0;">
+                                <ul>
+
+                                <li><a href="http://groceries.asda.com" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subTakeALook');">Take A Look</a></li>
+                                <li><a href="https://groceries.asda.com/asda-estore/register/signincontainer.jsp" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subSignin');">Sign in</a></li>
+
+                                <li><a href="http://groceries.asda.com/asda-estore/register/checkpostcodecontainer.jsp" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subRegisternow');">Register now</a></li>
+                                <li><a href="http://www.asda.com/priceguarantee" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subApg');">Price Guarantee</a></li>
+
+                                <li><a href="http://groceries.asda.com/asda-estore/specialoffers/specialofferscontainer.jsp?aisleid=so-aisle&amp;departmentid=so-department" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subSpecialoffers');">Special offers</a></li>
+
+                                <!--<li><a href="http://www.asda.com/wine/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/asdawine');">Asda Wine &amp; Champagne</a></li>-->
+
+                                <li><a href="http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?departmentid=1214921923714" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subNewIdeas');">New &amp; Ideas</a></li>
+
+                                <li class="btmLink"><a href="http://groceries.asda.com/asda-estore/banneroffers/banneroffercontainer.jsp?listId=1215003925580" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/theCookBook');">The Cook Book</a></li>
+                                </ul>
+
+                          </div>
+                          </li>
+                        <li id="menuHG">
+
+                                        <a href="http://direct.asda.com" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subDirectTabHead');" class="mHG">Asda Direct</a>
+                                        <div class="sub" style="opacity: 0;">
+
+                                        <ul>
+                        <li><a href="http://direct.asda.com/Asda-Electricals/40,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subElectricals');">Electricals</a></li>
+
+                        <li><a href="http://direct.asda.com/Home-Appliances/401,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subHomeAppliances');">Home Appliances</a></li>
+                        <li><a href="http://direct.asda.com/Asda-Furniture/30,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subFurniture');">Furniture</a></li>
+                        <li><a href="http://direct.asda.com/Asda-Home/20,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subHomegarden');">Home</a></li>
+                        <li><a href="http://direct.asda.com/asda-toys/50,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subToys');">Toys</a></li>
+                        <li><a href="http://direct.asda.com/asda-babyshop/60,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subBabyshop');">Baby</a></li>
+                        <li><a href="http://direct.asda.com/Asda-Sports-+-Leisure/80,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subSportsandleisure');">Sports &amp; Leisure</a></li>
+
+                        <li><a href="http://direct.asda.com/asda-jewellery/90,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subJewelleryandgifts');">Jewellery &amp; Watches</a></li>     
+                        <!--<li><a href="http://direct.asda.com/Fragrance/1901,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subFragrance');">Fragrance</a></li>-->
+
+                        <li><a href="http://direct.asda.com/Gifts-Party/190,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subGiftsAndParty');">Gifts &amp; Party</a></li>
+                        <li><a href="http://direct.asda.com/Offers-Events/100,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subOffersAndEvents');">Offers &amp; Events</a></li>
+
+                        <li class="btmLink"><a href="http://direct.asda.com/Clearance/120,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subClearance');">Clearance</a></li>
+                                        </ul>
+                        </div>
+
+                                </li>
+                        <li id="menuEnts">
+                                        <a href="http://direct.asda.com/Music-Video-Games/37,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subEnts');" class="mEnts">Entertainment</a>
+                                        <div class="sub" style="opacity: 0;">
+
+                                        <ul>
+                                                                <li><a href="http://direct.asda.com/Music/3701,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subCDs');">Music</a></li>
+                                <li><a href="http://direct.asda.com/Video/3703,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subVideo');">Video</a></li>
+                        <li><a href="http://direct.asda.com/Games/3702,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subGames');">Games</a></li>
+                        <li><a href="http://direct.asda.com/DVD/370303,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/dvds');">DVDs</a></li>
+                        <li class="btmLink"><a href="http://direct.asda.com/Blu-Ray/370301,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/bluray');">Blu-ray</a></li>
+
+                                        </ul>
+
+                      </div>
+                                </li>
+                        <li id="menuGeorge">
+                                        <a href="http://direct.asda.com/george/clothing/10,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subGeorge');" class="mGeorge">George</a>
+                                        <div class="sub" style="opacity: 0;">
+                                        <ul>
+                                        <li><a class="redMenu" href="http://direct.asda.com/george/sale/09,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subGeorgesale');">George Sale</a></li>
+
+                                                <li><a href="http://direct.asda.com/george/women-s-clothing/01,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subWomensClothing');">Womens Clothing</a></li>
+
+                                                <li><a href="http://direct.asda.com/george/men-s-clothing/04,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subMensClothing');">Mens Clothing</a></li>
+                                                <li><a href="http://direct.asda.com/george/kid-s-clothing/03,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subKidsClothing');">Kids Clothing</a></li>
+                                                <li><a href="http://direct.asda.com/george/shoes/05,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subShoes');">Shoes</a></li>
+                                                <li><a href="http://direct.asda.com/george/baby-clothes/07,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subBabyClothes');">Baby Clothes</a></li>
+
+                                                <li><a href="http://direct.asda.com/george/women-s-clothing/lingerie/01357,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subLingerie');">Lingerie</a></li>
+
+                                        <li><a href="http://direct.asda.com/george/school-uniform/010,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subSchooluniform');">School Uniform</a></li>
+
+                                        <li><a href="http://www.facebook.com/GeorgeatAsdaOfficial" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subGeorgeFB');">George on Facebook</a></li>
+                                        <li class="btmLink"><a href="http://georgestyle.george.com/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subGeorgeblog');">George Blog</a></li>
+                                        </ul>
+
+                          </div>
+
+                                  </li>
+                                  <li id="menuBK">
+
+                                        <span class="mBK">
+                    <a href="http://direct.asda.com/asda-babyshop/60,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subBabyshop');">Baby</a> <a>&amp; Kids</a>
+
+                    </span>
+                    <div class="sub" style="opacity: 0;">
+
+                                        <ul>
+                                                <li><a href="http://direct.asda.com/asda-babyshop/60,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subBabyshop');">Baby Shop</a></li>
+
+                        <li><a href="http://direct.asda.com/Travel-Pushchairs/601,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subTravelPushchairs');">Travel &amp; Pushchairs</a></li>
+                        <li><a href="http://direct.asda.com/Nursery-Furniture/604,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subNurseryFurniture');">Nursery Furniture</a></li>
+
+                                                <li><a href="http://direct.asda.com/george/baby-clothes/07,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subBabyClothes');">Baby Clothes</a></li>
+
+                        <li><a href="http://direct.asda.com/george/kid-s-clothing/03,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subKidsClothing');">Kids Clothing</a></li>
+                        <li><a href="http://direct.asda.com/george/school-uniform/010,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/george/subSchooluniform');">School Uniform</a></li>
+
+                                                <li><a href="http://direct.asda.com/asda-toys/50,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subBabyClub');">Toys</a></li>
+                        <li class="btmLink"><a href="http://babyclub.asda.com/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subBabyClub');">Baby Club</a></li>
+
+                                        </ul>
+
+                    </div>
+
+                                  </li>
+                         <li id="menuGF">
+                     <span class="mGF">
+
+                     <a href="http://www.asda-gifts.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subGiftstabhead');">Gifts,</a> <a href="http://www.asda-photo.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subPhotostabhead');">Photos</a> <a href="http://www.asda-flowers.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subFlowerstabhead');">&amp; Flowers</a>
+
+                     </span> 
+                                        <div class="sub" style="opacity: 0;">
+
+                                        <ul>
+                                                <li><a href="http://www.asda-flowers.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subFlowers');">Flowers</a></li>
+
+                                                <li><a href="http://www.asda-photo.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subPhoto');">Photo Prints &amp; Gifts</a></li>
+                                                <li><a href="http://direct.asda.com/asda-jewellery/90,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/jewelleryandgifts');">Jewellery &amp; Watches</a></li>
+
+                        <li><a href="http://direct.asda.com/Gifts-Party/190,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/giftsandparty');">Gifts &amp; Party</a></li>
+
+                                                <li><a href="http://www.asda-gifts.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subGifts');">Gift Experiences</a></li>
+
+                        <li class="btmLink"><a href="http://www.asda-cards.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subCards');">Personalised Cards</a></li>
+                                        </ul>
+                    </div>
+
+                                </li>
+                        <li id="menuTH">
+                                        <a href="http://www.asda-travel.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subTravel');" class="mTH">Travel &amp; Holiday</a>
+
+                    <div class="sub" style="opacity: 0;">
+                        <ul class="mTHRight">
+                                                <li><a href="http://www.asda-travel.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subTravelHolidays');">Book Travel &amp; Holidays</a></li>
+
+                                                <li><a href="http://www.asdafinance.com/travel/travel-insurance/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subTravelInsurance');">Travel Insurance</a></li>
+                        <li><a href="http://www.asdafinance.com/travel/travel-money/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subtravelMoney');">Travel Money</a></li>                      
+                        <li class="btmLink"><a href="http://www.asdafinance.com/motoring/breakdown-cover/european-cover/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subEuropeanCarCover');">European Breakdown Cover</a></li>
+
+                                        </ul>
+                        </div>
+                </li>
+                                <li id="menuHP">
+
+                                        <a href="http://groceries.asda.com/asda-estore/catalog/sectionpagecontainer.jsp?departmentid=1214921923791" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subHealthBeauty');" class="mHP">Health &amp; Beauty</a>
+                    <div class="sub" style="opacity: 0;">
+                                        <ul class="mHPRight">
+
+                                                <li><a href="http://www.asda-contactlenses.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subContactLenses');">Contact Lenses</a></li>
+                                                <!--<li><a href="http://www.asda-pharmacy.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subPharmacy');">Pharmacy</a></li>-->
+                                                <li><a href="http://groceries.asda.com/asda-estore/banneroffers/banneroffercontainer.jsp?listId=1214950155659" onclick="javascript: pageTracker._trackPageview('/outgoing/original/groceries/subColdFlu');">Cold &amp; Flu</a></li>
+
+                        <li><a href="http://direct.asda.com/Fragrance/1901,default,sc.html" onclick="javascript: pageTracker._trackPageview('/outgoing/original/direct/subFragrance');">Fragrance</a></li>
+                        <li class="btmLink"><a href="http://www.asda-gifts.co.uk/Category/Id/11500/Name/Top_Pampering_Gifts" onclick="javascript: pageTracker._trackPageview('/outgoing/original/gm/subPampering');">Pampering Gifts</a></li>                       
+                                        </ul>
+
+                  </div>
+                                </li>
+                                <li id="menuFS">
+                                        <a href="http://www.asdafinance.com/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subFinancialServices');" class="mFS">Financial Services</a>
+
+                        <div class="sub" style="opacity: 0;">
+                                        <ul class="mFSRight">
+                                                <li><a href="http://www.asdafinance.com/credit-cards-loans/credit-card/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subCreditCard');">Credit Card</a></li>
+
+                                                <li><a href="http://www.asdacards.co.uk/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subChristmasSavingsCard');">Gift Cards</a></li>
+
+                                                <li><a href="http://www.asdafinance.com/insurance/breakdown/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subBreakdownCover');">Breakdown Cover</a></li>
+                                                <li class="btmLink"><a href="http://www.asdafinance.com/at-home/gas-and-electricity/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subGasElectricity');">Gas &amp; Electricity</a></li>
+
+                                        </ul>
+                </div>
+                                </li>
+
+                        <li id="menuIns">
+                                        <a href="http://www.asdafinance.com/insurance/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subInsurance');" class="mIns">Insurance</a>
+
+                                <div class="sub" style="opacity: 0;">
+                                        <ul class="mInsRight">
+
+                                                <li><a href="http://www.asdafinance.com/insurance/travel-insurance/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subTravelInsurance');">Travel Insurance</a></li>
+                                                <li><a href="http://www.asdafinance.com/insurance/home-insurance/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subHomeInsurance');">Home Insurance</a></li>
+                                                <li><a href="http://www.asdafinance.com/insurance/pet-insurance/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subPetInsurance');">Pet Insurance</a></li>
+
+                        <li><a href="http://www.asdafinance.com/insurance/over-50s/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/over50s');">Over 50s Life Cover</a></li>                            
+                                                <li><a href="http://www.asdafinance.com/insurance/life-insurance/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subLifeInsurance');">Life Insurance</a></li>
+
+                                                <li class="btmLink"><a href="http://www.asdafinance.com/insurance/car-insurance/" onclick="javascript: pageTracker._trackPageview('/outgoing/original/fs/subCarInsurance');">Car Insurance</a></li>
+
+                                        </ul>
+                 </div>
+                                 </li>
+                          </ul>
+
+                        </div>
+                </div>
+        </div>
+
+
+<!--Start Google Analytics-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2423686-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--End Google Analytics-->
+
+<!--Start Razorfish Tag-->
+<script type="text/javascript">document.write('<s'+'cript language="JavaScript" src="http://view.atdmt.com/jaction/asda_com_homepage_Corp_1_New25"></s'+'cript>')</script><script language="JavaScript" src="http://view.atdmt.com/jaction/asda_com_homepage_Corp_1_New25"></script>
+<noscript>
+<iframe src="http://view.atdmt.com/iaction/asda_com_homepage_Corp_1_New25" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+<!--End Razorfish Tag-->
+
+<!--Start Post Load Content-->
+<script language="javascript" src="javascript/post-load-content.js"></script>
+<!--End Post Load Content-->
+
+<!--Start Crimtan Tag-->
+<img width="1" height="1" border="0" vspace="0" hspace="0" src="http://p.ctasnet.com/partners/universal/in?pid=1417&amp;t=i">
+<script src="http://p.ctasnet.com/partners/universal/in?pid=10219" type="text/javascript" language="JavaScript"></script>
+<!--End Crimtan Tag-->
+
+
+</body></html>
