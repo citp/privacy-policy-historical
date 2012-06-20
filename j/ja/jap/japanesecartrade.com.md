@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the japanesecartrade.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103063541id_/http%3A//www.japanesecartrade.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanesecartrade.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620172056id_/http%3A//www.japanesecartrade.com/privacy.php) for the most accurate reproduction.*
 
-# Japanese Used Cars Exporters, Japan Used Cars, Japanese Car...
+# Japanese Used Cars Exporters, Japan Used Cars, Japanese Car Importers...
 
 | **Please read our Privacy Policy carefully !**  
 ---  
