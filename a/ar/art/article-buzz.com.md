@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the article-buzz.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611054431id_/http%3A//www.article-buzz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-buzz.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620210305id_/http%3A//www.article-buzz.com/privacy.php) for the most accurate reproduction.*
 
-# Article Directory | Content Articles for Reprint | Free Article Submission | RSS Feeds
+# Article Directory - Article-Buzz.com
 
 ## Article-Buzz.com Privacy Policy
 
@@ -55,9 +55,21 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 Article-Buzz.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Article-Buzz.com has any information from or about anyone under 13, please contact us through the email link below. 
 
 **Contacting Us**  
-We can be reached by e-mailing us via this "MailTo" Link [admin@Article-Buzz.com](mailto:admin@Article-Buzz.com)
+Contact Us [Here](https://web.archive.org/contacts.php)
 
 **Changes to this Policy**  
 Article-Buzz.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+| 
+
+Navigation
+
+Resources
+
+Information
+
+Main Categories
+
+[](http://www.sitepronews.com/) [](http://www.article-buzz.com/hostgator.html)
