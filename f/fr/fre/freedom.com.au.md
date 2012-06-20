@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220062806id_/http%3A//www.freedom.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620073736id_/http%3A//www.freedom.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Freedom Furniture and Homewares
 
@@ -11,13 +11,13 @@ Steinhoff Asia Pacific Limited trading as Freedom and its Related Bodies Corpora
 
 ###  Now for the details
 
-At Freedom, we are fully committed to respecting your privacy. The following Privacy Policy has been published to provide a clear and concise outline of how and when personal information is collected, used, stored, and distributed by Freedom. This policy also applies to Freedom's website: [www.freedom.com.au](https://web.archive.org/web/20111220062806id_/http:/).
+At Freedom, we are fully committed to respecting your privacy. The following Privacy Policy has been published to provide a clear and concise outline of how and when personal information is collected, used, stored, and distributed by Freedom. This policy also applies to Freedom's website: [www.freedom.com.au](https://web.archive.org/web/20120620073736id_/http:/).
 
 Freedom, is bound by the Privacy Act 1988 and the National Privacy Principles set by the Federal Privacy Commissioner. For more information, visit [www.privacy.gov.au](http://www.privacy.gov.au/).
 
 ###  Collection and use of personal information
 
-In order for you to access certain services and to purchase our products via our website, Freedom collects personal information that personally identifies you (“ **Personal Information** ”). Personal Information may include: (i) name, mailing and email addresses; (ii) residential address, city, state, postcode, area code, gender, age, purchase history, income, hobbies and interests (iii) products you own, model numbers, date and place of purchase. If you communicate with us by e-mail, or complete online forms, surveys or contest entries, any information provided in such communication may be collected as Personal Information. For example, we may request personal information from you when you:
+In order for you to access certain services and to purchase our products whether in our stores, online or over the phone, Freedom collects personal information that personally identifies you (“ **Personal Information** ”). Personal Information may include: (i) name, mailing and email addresses; (ii) residential address, city, state, postcode, area code, gender, age, purchase history, income, hobbies and interests (iii) products you own, model numbers, date and place of purchase. If you communicate with us by e-mail, or complete online forms, surveys or contest entries, any information provided in such communication may be collected as Personal Information. For example, we may request personal information from you when you:
 
   * order goods that require delivery (including goods ordered online);
   * apply for finance;
