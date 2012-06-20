@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sextoys.co.uk privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221233026id_/http%3A//www.sextoys.co.uk/customer_info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextoys.co.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620203005id_/http%3A//www.sextoys.co.uk/customer_info/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - 100% Free Delivery at SexToys.co.uk
+# Privacy Policy - Save on Adult Toys at SexToys.co.uk
 
 We will treat all your Personal Information as confidential (although we reserve the right to disclose this information in the circumstances set out below). We will keep it on a secure server and we will fully comply with all applicable UK Data Protection and consumer legislation.
 
@@ -38,3 +38,27 @@ Net 1on1 Ltd
 Luton  
 Beds  
 LU1 1UU
+
+#### What are cookies?
+
+Cookies are tiny text files stored on your computer when you visit certain web pages. At sextoys.co.uk we use cookies to keep track of what you have in your basket, and to remember you when you return to our site.
+
+To order products on sextoys.co.uk, you need to have cookies enabled - see the section on Managing cookies. If you don't wish to enable cookies, you'll still be able to browse the site and use it for research purposes. Most web browsers have cookies enabled, but see Managing cookies for help to turn them on should you need to.
+
+Please note that cookies can't harm your computer. We don't store personally identifiable information such as credit card details in cookies we create, but we do use encrypted information gathered from them to help improve your experience of the site. For example, they help us to identify and resolve errors, or to determine relevant related products to show you when you're browsing.
+
+We're giving you this information as part of our initiative to comply with recent legislation, and to make sure we're honest and clear about your privacy when using our website. We know you'd expect nothing less from us, and please be assured that we're working on a number of other privacy and cookie-related improvements to the website.
+
+To make full use of the online shopping and personalised features on sextoys.co.uk, your computer, tablet or mobile phone will need to accept cookies, as we can only provide you with certain personalised features of this website by using them.
+
+Our cookies don't store sensitive information such as your name, address or payment details: they simply hold the 'key' that, once you're signed in, is associated with this information. However, if you'd prefer to restrict, block or delete cookies from sextoys.co.uk, or any other website, you can use your browser to do this. Each browser is different, so check the 'Help' menu of your particular browser (or your mobile phone's handset manual) to learn how to change your cookie preferences.
+
+**Sextoys.co.uk 'share' tools**  
+If you take the opportunity to 'share' sextoys.co.uk content with friends through social networks - such as Facebook and Twitter - you may be sent cookies from these websites. We don't control the setting of these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.
+
+**Further information about cookies**  
+If you'd like to learn more about cookies in general and how to manage them, visit aboutcookies.org (opens in a new window - please note that we can't be responsible for the content of external websites).
+
+When you visit sextoys.co.uk you may notice some cookies that aren't related to sextoys.co.uk. If you go on to a web page that contains embedded content, for example from YouTube, you may be sent cookies from these websites. We don't control the setting of these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.
+
+If cookies aren't enabled on your computer, it will mean that your shopping experience on our website will be limited to browsing and researching; you won't be able to add products to your basket and buy them.
