@@ -1,55 +1,71 @@
-> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120558id_/http%3A//www.healthpartners.com/portal/208.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620234845id_/http%3A//www.healthpartners.com/public/privacy) for the most accurate reproduction.*
 
-# HealthPartners.com - Our Privacy Policy
+# HealthPartners - Website privacy policy
 
-If you are a member of a HealthPartners health plan, please consult the [Health Plan Notice of Privacy Practices](https://web.archive.org/files/22750.pdf) for a description of our privacy practices and the rights of our health plan members. If you are a self-insured member (that is, if your employer is self-insured), please check with your employer for more information about your employer's health plans privacy practices. 
+**Effective as of: 06/12/2012**
 
-If you are a patient at a HealthPartners clinic or Regions Hospital, please consult the [Care Delivery Notice of Privacy Practices for Clinics, Hospitals and Other Care Providers Affiliated With HealthPartners](https://web.archive.org/files/22751.pdf) for a description of our privacy practices and the rights of our clinic and hospital patients. 
+This notice describes how HealthPartners manages and protects Health Information and Personal Information that you give us, how we will use and share that information, and how you may exercise your rights with regard to your Personal Information and Health Information. **Please read this carefully.**
 
-**WEB SITE PRIVACY POLICY**
+### **Changes to Web Privacy Practices**
 
-Effective Date: March 1, 2008 
+We may change or supplement our Web Privacy Practices from time to time and we will post revised versions on this site. We will indicate the effective date of any revised policy at the top of this page. Changes apply to the information collected from the date we post the revision, as well as to information we already hold. We encourage you to frequently read this page so you are aware of any changes that may have been made since your last visit to the web site.
 
-This Web Site Privacy Policy applies to use of this Web site by a visitor. This Privacy Policy discusses what information we collect, how we use it, and how we protect it. HealthPartners members and patients of HealthPartners Clinics and Regions Hospital should also consult the applicable Notice of Privacy Practices described above which may provide additional protection. 
+### **PRIVACY OF HEALTH INFORMATION**
 
-**Your Personal Information**   
-Personal information refers to specific facts used to identify you as an individual. This information includes your name, email address or other individually identifiable information. We collect personal information at this site only when you supply it to us, such as when you send an e-mail or sign up for a program or service. To learn what areas of our site are most popular, we collect anonymous, non-personal data about the pages you go to through the use of cookies small files that are placed on your computer's hard drive. Each cookie is automatically deleted after a period of time or when you close your web browser. 
+If you are a member of a HealthPartners health plan, please consult the [Health Plan Notice of Privacy Practices](http://www.healthpartners.com/files/22750.pdf) for a description of our privacy practices and the rights of our health plan members. If your employer is self-insured, please check with your employer for more information about your employer's health plan’s privacy practices.
 
-**How does HealthPartners use my information?**   
-We may use and disclose your personal information for the following purposes: 
+If you are a patient at a HealthPartners-affiliated clinic hospital, please consult the [Care Delivery Notice of Privacy Practices for Clinics, Hospitals and Other Care Providers Affiliated With HealthPartners](http://www.healthpartners.com/files/22751.pdf)for a description of our privacy practices and the rights of our clinic and hospital patients.
 
-(1) To our employees and contractors who provide services to you; 
+### **WEB SITE PRIVACY**
 
-(2) To organizations that perform services for us or on our behalf, including, without limitation, to provide customer service; to conduct research, marketing, or data processing; or to provide marketing and promotional services for HealthPartners, to the extent that information is necessary; 
+This Web Site Privacy Policy describes what information we collect from you as a visitor or user of this web site, how we use it, and how we protect it. This Policy applies to you if you use this site regardless of whether you are a member of a HealthPartners health plan or a patient at a HealthPartners-affiliated clinic or hospital.
 
-(3) To protect the site and our rights; to protect ourselves against liability or prevent fraudulent activity; or, where necessary, to permit us to pursue available remedies or limit any damages that we may sustain; 
+### **Your Personal Information**
 
-(4) In connection with the sale, merger, spin-off, or other corporate reorganization, where the information is provided to the new controlling entity in the regular course of business; 
+“Personal information” refers to specific facts that can be used to identify or contact you as an individual. Personal Information includes, for example, your name, home address and phone number, birth date, your sex, email address or other information that is unique to you. We collect Personal Information at this site only when you supply it to us, such as when you send an e-mail or sign up for a program or service or purchase something through our site.
 
-(5) If required to comply with a subpoena, warrant, or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with the rules or court relating to the production of records; and 
+“Personal Information” does _not_ include information that identifies a computer that is used to access the site because it does not identify anything about the _person_ who is using the computer. (See the section below about “Cookies and other information about your visit.”)
 
-(6) If we believe in good faith that a law, regulation, rule or guideline requires it. 
+### **Security of Personal Information**
 
-**How does HealthPartners protect my information?**   
-We maintain a variety of physical, electronic and procedure safeguards designed to protect your personal information and prevent unauthorized access. 
+We maintain a variety of physical, electronic, and procedural safeguards designed to protect your Personal Information and prevent unauthorized access when the information is in our control. However, you should remember that no system can perfectly prevent an unauthorized person from intentionally viewing information while it is in transit over the Internet or via email. Therefore, HealthPartners cannot and does not guarantee the confidentiality or security of information you send to us via the Internet or by email from others beyond our control who intentionally find ways to access the information.
 
-When you submit personal information over our Web site, the only people who are allowed to see it are those who need it in order to provide the information or service you requested. We may need to share your personal information to comply with legal, regulatory or accreditation requirements. 
+### **How HealthPartners Uses and Shares Personal Information**
 
-Although we have used reasonable precautions to safeguard the confidentiality of information received and sent over the Internet or by e-mail, the e-mail functionality on our site does not provide a completely secure and confidential means of communication. It is possible that the information you send by e-mail may be accessed or viewed by an unauthorized third party while in transit to us. Such access is beyond our control. 
+We may use and share your Personal Information for the following purposes:
 
-**External Links**   
-This site may contain links to Websites operated by third parties. These links are provided solely for convenience and reference purposes only. The inclusion of any link does not imply endorsement by HealthPartners of the content of any Web site to which this Web site provides a link, nor are we liable for your reliance on or use of any information or materials contained in them. This Privacy Policy applies only to this Web site. Please be aware that HealthPartners isn't responsible for and has no control over the privacy policies and practices of third party sites. We encourage you to read the privacy statements of each and every Website that requests personal information from you. 
+  1. In order to allow you to participate in a program you have enrolled in or to provide a product or service you have asked for or purchased, we will use your Personal Information and share it to our employees, contractors, and others to the extent necessary for us to provide the service or product.
+  2. We will share Personal Information to the extent necessary to comply with a subpoena, court or administrative order, law, rule, regulation, or similar requirement that we believe in good faith legally obligates us to share it.
+  3. We may use Personal Information to the extent necessary to protect our web site, our rights, and to avoid or minimize our liability. For example, we may use Personal Information to identify someone who is using our site for an illegal purpose and disclose it to law enforcement or our attorneys to consider taking legal action.
+  4. We may share Personal Information in the regular course of business in connection with the sale, merger, spin-off, or other corporate reorganization to the new controlling entity.
+  5. If your employer makes participation in a program a condition of enrolling in its health plan, or as a condition of receiving an incentive (for example, a gift card or reduced co-pays), and you agree to participate in the program, you are authorizing HealthPartners to give your employer (or a third-party designated by your employer) certain information about you. The only information we will provide is: 
+    * Your name;
+    * Your address;
+    * Your date of birth;
+    * The date you enrolled in the program; and
+    * The date you completed the program.
 
-**Changes to the Privacy Policy**   
-We may change or supplement this Privacy Policy from time to time and we will post revised versions of this Policy on the site. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the site, as well as to existing information held by us. 
 
-**Contact Information**   
-All questions and concerns about your privacy can be sent to [Privacy@healthpartners.com](mailto:privacy@healthpartners.com) or by mail to: 
+
+### **Cookies and other information about your visit**
+
+We collect information about visitors to our site using “cookies.” A cookie is a small text file that is created when someone uses a browser to visit a web site. Cookies are stored on the computer’s browser directory or program data subfolder. Most major web sites, including this one, use cookies to help visitors navigate the site more successfully and to provide information about visitors’ behavior that help us improve the site and our marketing programs. A cookie may identify the computer that is being used to visit the site, but not who the visitor is.
+
+If you do not want to have cookies placed on your computer, you can set your web browser to not accept them, or you can delete them manually.
+
+Our web server also automatically collects the IP (for “Internet Protocol”) address of each computer that accesses our site. An IP address is a series of numerals that is assigned to each computer that accesses the Internet. An IP address is not Personal Information because it identifies only the computer, not the person who is using it. We use IP addresses in aggregate form to help us understand how our site is being used and how we can better serve visitors.
+
+### **External Links**
+
+This site may contain links to web sites operated by third parties other than HealthPartners. This Web Site Privacy Policy applies only to this web site and not to any third-party site we may link to. HealthPartners isn't responsible for and has no control over the privacy policies and practices of third party sites and we encourage you to read the privacy statements of each and every web site that requests Personal Information from you before you provide any information.
+
+### **Contact Information**
+
+All questions and concerns about your privacy can be sent to [Privacy@healthpartners.com](mailto:privacy@healthpartners.com) or by mail to:
 
 HealthPartners   
 8170 33rd Ave. S.   
-Bloomington, MN 55425 
+Bloomington, MN 55425   
+Attention: Tobi Tanzer
 
-GP:2279548v1 
-
- 
+GP:2279548v2  
