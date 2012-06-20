@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the aquasana.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213830id_/http%3A//www.aquasana.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquasana.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620162239id_/http%3A//www.aquasana.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Aquasana Water Filters - Privacy Policy
 
 Aquasana® Privacy Policy  
 (last revised August 31, 2011) 
 
-Sun Water Systems, Inc. and its affiliates and subsidiaries (collectively, "Aquasana") are committed to the protection and appropriate use of the information you submit to us online. This Privacy Policy (the "Policy") describes how we collect, use and safeguard personal information obtained from individual consumers in the United States through this website (the "Site").
+Aquasana, Inc. and its affiliates and subsidiaries (collectively, "Aquasana") are committed to the protection and appropriate use of the information you submit to us online. This Privacy Policy (the "Policy") describes how we collect, use and safeguard personal information obtained from individual consumers in the United States through this website (the "Site").
 
 ### What personal information do we collect?
 
