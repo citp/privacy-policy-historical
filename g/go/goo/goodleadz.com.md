@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the goodleadz.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227122112id_/http%3A//www.goodleadz.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodleadz.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620130332id_/http%3A//www.goodleadz.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - GoodleAdz.com
 
-**  
-What information do we collect?**
+**What information do we collect?**
 
 • We collect information from you when you register on our site, subscribe to our newsletter, fill out a form or Enter a Contest. 
 
@@ -24,7 +23,7 @@ Any of the information we collect from you may be used in one of the following w
 • To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
-> 
+>  
 
 • To administer a contest, promotion, survey or other site feature
 
@@ -54,6 +53,6 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
  **Your Consent**
 
-By using our site, you consent to our [web site Terms and Conditions](http://www.goodleadz.com/privacy-policy/38-terms-and-conditions.html)[.](http://www.goodleadz.com/privacy-policy/38-terms-and-conditions.html)
+By using our site, you consent to our web site [Terms and Conditions](http://www.goodleadz.com/terms-and-conditions.html).
 
 This policy was last modified on 1-15-11
