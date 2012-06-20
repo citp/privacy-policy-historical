@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nestle.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230013825id_/http%3A//www.nestle.com/Footer/Pages/YourData.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestle.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620192520id_/http%3A//www.nestle.com/Footer/Pages/YourData.aspx) for the most accurate reproduction.*
 
 # Privacy Notice | Nestlé Global
 
@@ -223,4 +223,4 @@ If you have any questions regarding this Privacy Notice please contact Nestlé a
 Return to top
 
 **VEVEY,  September 2011**  
-**Copyright** © Société des Produits Nestlé S.A. 2010
+**Copyright** © 2010 Société des Produits Nestlé S.A.
