@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the auctionzip.com privacy policy that was archived on 2011-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111222044647id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auctionzip.com privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620171634id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>
@@ -10,26 +10,10 @@
 <meta name="copyright" content="Copyright 2011">
 <meta name="description" content="Large database of live auctions. Auctioneers you may post your Auction listings FREE! Search by Area - Auctioneer - Category - Keyword. Site contains full listings, photos, Auctioneer links and information. Free for Auctioneers and free for Auction goers.">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script type="text/javascript" src="/includes/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/includes/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/includes/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="/includes/js/custom-min.js"></script>
-
-<!-- Start Visual Website Optimizer Code -->
-	<script type="text/javascript">
-	var _vis_opt_account_id = 8099;
-	var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
-	document.write('<s' + 'cript src="' + _vis_opt_protocol + 'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='+encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>');
-	</script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=8099&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20111222044647id_%2Fhttp%253A%2F%2Fwww.auctionzip.com%2Fagreements%2Fprivacy.html&amp;random=0.03660197240861085" type="text/javascript"></script>
-	<script type="text/javascript">
-	if(typeof(_vis_opt_settings_loaded) == "boolean") { document.write('<s' + 'cript src="' + _vis_opt_protocol + 'd5phz18u4wuww.cloudfront.net/vis_opt_no_jquery.js" type="text/javascript">' + '<\/s' + 'cript>'); }
-	// if your site already has jQuery 1.4.2, replace vis_opt.js with vis_opt_no_jquery.js above
-	</script>
-	<script type="text/javascript">
-	if(typeof(_vis_opt_settings_loaded) == "boolean" && typeof(_vis_opt_top_initialize) == "function"){ _vis_opt_top_initialize();
-	vwo_$(document).ready(function() { _vis_opt_bottom_initialize(); }); }
-	</script>
-<!-- End Visual Website Optimizer Code -->
-<script type="text/javascript" src="/includes/js/twitter-min.js"></script>
-
+<script type="text/javascript" src="/includes/js/emailCapture.js"></script>
 <link rel="stylesheet" type="text/css" href="/includes/css/style-min.css">
 
 		<link rel="stylesheet" type="text/css" href="/includes/css/font-family.css">
@@ -61,7 +45,7 @@
 			<a class="closeICON" href="javascript: showLogin();"><img src="/images/closeIcon.gif" alt="CLOSE" border="0"></a>
 			
 			<div class="logBox">
-				<form id="signin" method="post" action="/cgi-bin/azlogin.cgi" name="signin">
+				<form id="signin" method="post" action="https://www.auctionzip.com/cgi-bin/azlogin.cgi" name="signin">
 					<div class="clearfix">
 						<span class="forgotPW">( E-Mail, User ID, or Auctioneer ID )</span>
 					  <label class="formItems" for="email">Login:</label>
@@ -104,10 +88,11 @@
 			<li><a href="http://www.auctionzip.com/azlive.html?method=getUpcomingAuctions">Online Bidding</a></li> 
 			<li><a href="http://www.auctionzip.com/Auctioneer-Directory/">Auctioneer Directory</a></li>
 			<li><a href="http://www.auctionzip.com/cgi-bin/azlogin.cgi">Member Login &amp; Sign Up</a></li> 
-			<!--<li><a href="https://www.auctionzip.com/cgi-bin/azlogin.cgi?mde=4">Stay in Touch</a></li>-->
+			<li></li>
 		</ul>
+		  
 		
-		<div class="navRight">
+		<div class="navRight"> 
 			<form method="post" action="javascript: void(0);" onsubmit="javascript: submitAuctioneerSearch('http://www.auctionzip.com'); return false;">
 				<p>
 					AuctionZip Auctioneer ID#
@@ -115,9 +100,75 @@
 					<input type="button" class="fixGreen submitx" onclick="javascript: submitAuctioneerSearch('http://www.auctionzip.com'); return false;" value="GO">
 				</p>
 			</form>
-		</div>
+		</div> 
 	</div>
+	<div id="navEmailCapture"> 
+		<div id="alertShadow"></div>
+		<div id="overlayContainerContainer">	
+			<div id="overlayContainer">
+				<div class="arrow arrow-border"></div>
+				<div id="overlayToggle">
+					<span class="xbutton">X</span>
+				</div>   
+				<img class="emailEnvelope" src="/images/envelope.png">
+				<p class="overlayEmailHeader">Stay in touch with AuctionZip</p>
+				<div class="emailCapSecContainer"><p class="emailCapSec">Be connected to the hottest items and auction trends</p></div>
+				<img class="star" src="/images/free.png">
+				<form id="overlayEmailForm" action="http://cl.s4.exct.net/subscribe.aspx?lid=95435" method="post" name="subscribeForm">
+					<input type="text" value="" style="position:absolute; visibility: hidden;" name="thx" class="successPage">
+					<input type="hidden" name="err" value="http://www.auctionzip.com/email_error.html" class="errorPage">
+					<input type="hidden" name="usub" value="http://www.auctionzip.com/email_error.html">
+					<input type="hidden" name="MID" value="1002939">
+					<input type="hidden" name="Company" value="AuctionZip">
+					<input type="hidden" name="Company_ID" value="4">
+					<input type="hidden" name="Web_Collect" value="Yes">
+					<input type="hidden" name="Newsletter" value="Yes">
+					<input type="hidden" name="Marketing_Offers" value="Yes">
+					<input type="hidden" name="SubAction" value="sub_add_update"> 
+					<input type="text" value="" style="position:absolute; visibility: hidden;" name="ETSubscriberKey" class="subKey">
+					<input type="hidden" name="Program" value="site">
+					<input type="hidden" name="Subprogram" value="header">
+					<input id="navCapture" class="defaultText email_user defaultTextActive" name="Email Address" type="text" title="Enter your email">
+					<input id="overlaySubmit" class="submitBtn" type="submit" value="Submit">                          
+				</form>
+				<div class="clear1"></div>
+				<p class="privacy">We value your privacy! <a target="_blank" href="/agreements/privacy.html">Click here</a> to read our policies.</p>
+
+			</div>
+		</div>
+	</div> 
+	
+	<div id="sliderEmailCapture">
+		<div class="closeBtn">
+			<span class="xbutton">X</span>
+		</div>  
+		<p class="overlayEmailHeader">Want more auction action?</p>
+		<div class="emailCapSecContainer"><p class="emailCapSec">Sign up in one step for a <span class="freeColor">FREE</span> weekly auction newsletter</p></div>
+		<img class="slider-photo" src="/images/sliderPhoto.jpg">
+		<form id="sliderEmailForm" action="http://cl.s4.exct.net/subscribe.aspx?lid=95435" method="post" name="subscribeForm">
+			<input type="text" value="" style="position:absolute; visibility: hidden;" name="thx" class="successPage">
+			<input type="hidden" name="err" value="http://www.auctionzip.com/email_error.html" class="errorPage">
+			<input type="hidden" name="usub" value="http://www.auctionzip.com/email_error.html">
+			<input type="hidden" name="MID" value="1002939">
+			<input type="hidden" name="Company" value="AuctionZip">
+			<input type="hidden" name="Company_ID" value="4">
+			<input type="hidden" name="Web_Collect" value="Yes"> 
+			<input type="hidden" name="Newsletter" value="Yes">
+			<input type="hidden" name="Marketing_Offers" value="Yes">
+			<input type="hidden" name="SubAction" value="sub_add_update">  
+			<input type="text" value="" style="position:absolute; visibility: hidden;" name="ETSubscriberKey" class="subKey">
+			<input type="hidden" name="Program" value="site">
+			<input type="hidden" name="Subprogram" value="Slide-in">
+			<input id="sliderCapture" class="defaultText email_user defaultTextActive" name="Email Address" type="text" title="Enter your email">
+			<input id="sliderSubmit" src="/images/button.png" class="submitBtn" type="submit" value="Sign Up FREE">                          
+		</form>
+		<div class="clear1"></div>
+		<p class="privacy">We value your privacy! <a target="_blank" href="/agreements/privacy.html">Click here</a> to read our policies.</p>
+
+	</div>
+	
 	<!-- End navBar // -->
+
 			
 			<!-- innerContent // -->
 			<div id="innerContent" class="clearfix">
@@ -467,14 +518,14 @@
 	<ul class="footerLink">
 		<li class="headingLink">Online Bidding</li>
 			<li><a href="http://www.auctionzip.com/azlive.html?method=getUpcomingAuctions">Upcoming Auctions</a></li>
-			<li><a href="http://www.auctionzip.com/azlDemo.html">Online Bidding Tutorial</a></li>
+			<li><a href="http://www.auctionzip.com/Tutorial.html">Online Bidding Tutorial</a></li>
 			<li><a href="http://www.auctionzip.com/azlive.html?method=getHelpInfo">Online Bidding Help</a></li>
 	</ul>
 	
 	<ul class="footerLink">
 		<li class="headingLink">Quick Links</li>
 			<li><a href="http://www.auctionzip.com/cgi-bin/azlogin.cgi">Create Account</a></li>
-			<li><a href="http://blog.auctionzip.com/">Auction News</a></li>
+			<li><a href="http://info.auctionzip.com/ontheblock">Auction News</a></li>
 			<li><a href="http://www.auctionzip.com/azforum/">Auction Forum</a></li>
 			<li><a href="http://www.auctionzip.com/about.html">About Us</a></li>
 			<li><a href="http://www.auctionzip.com/contacts.html">Contact Us</a></li>
@@ -499,7 +550,7 @@
 					<form name="fsrchbox" id="fsrchbox" action="/cgi-bin/auctionsearch.cgi" method="get">
 				<p>
 					Search for auctions within
-						<select name="txtSearchRadius" id="ftxtSearchRadius" style="border: 1px solid #BABABA; background-color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 11px; height: 17px;">
+						<select name="txtSearchRadius" id="ftxtSearchRadius" onchange="document.getElementById('fnewsearch').value=1;" style="border: 1px solid #BABABA; background-color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 11px; height: 17px;">
                               <option value="30">
                                   30
                                 </option>
@@ -525,15 +576,15 @@
                                   Any
                                 </option>
 						</select>
-					miles of zip code: <input type="text" id="ftxtSearchZip" name="txtSearchZip" size="5" class="txt1" value="">
+					miles of zip code: <input type="text" id="ftxtSearchZip" onchange="document.getElementById('fnewsearch').value=1;" name="txtSearchZip" size="5" class="txt1" value="">
 				</p>
 				<p>
 					With the following keyword(s):
-					<input type="text" size="40" name="txtSearchKeywords" class="txt2" value="">
+					<input type="text" size="40" name="txtSearchKeywords" onchange="document.getElementById('fnewsearch').value=1;" class="txt2" value="">
 				</p>
 				<p>
 					In category:
-					<select name="idxSearchCategory" style="float: none !important; width: 140px !important; border: 1px solid #BABABA; background-color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 10px; width:180px;">
+					<select name="idxSearchCategory" onchange="document.getElementById('fnewsearch').value=1;" style="float: none !important; width: 140px !important; border: 1px solid #BABABA; background-color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 10px; width:180px;">
                               <option value="0" selected="">
                                   All Auction Categories
                                 </option>
@@ -587,11 +638,12 @@
 					<input type="hidden" id="ftxtSearchMonth" name="month" value="">
 					<input type="hidden" id="ftxtSearchYear" name="year" value="">
 					<input type="hidden" id="searchPath" name="searchPath" value="foot">
-					
+					<input type="hidden" value="0" name="newsearch" id="fnewsearch">
 					<input type="submit" class="az_button" value="Search" onclick="if((document.getElementById(&quot;ftxtSearchZip&quot;).value == &quot;&quot;)&amp;&amp;(document.getElementById(&quot;ftxtSearchRadius&quot;).value != 0)){alert(&quot;Please enter a starting Zip code for your search.&quot;);return(false);};">
 				</p>
 			</form>
 
+		<a href="http://www.bbb.org/boston/business-reviews/auctioneers/auction-holdings-in-allston-ma-126734"><img src="../../images/bbb.png" style="margin-right:40px;"></a><a href="http://www.auctioneers.org/"><img src="../../images/naa.png"></a>
 	</div>
 	
 </div>
@@ -613,17 +665,16 @@
 				</div>
 			</div>
 			
-			
+			<!--Google Analytics tracking code -->
 			<script type="text/javascript">
-			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-			<script type="text/javascript">
-			try{
-			var pageTracker = _gat._getTracker("UA-6322901-1");
-			if (typeof(_vis_opt_GA_track) == "function") { _vis_opt_GA_track(); }
-			pageTracker._trackPageview();
-			} catch(err) {}
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-6322901-1']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
 			</script>
 
 			<!-- Start of HubSpot Logging Code  -->
