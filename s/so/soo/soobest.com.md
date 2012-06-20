@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soobest.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220084613id_/http%3A//www.soobest.com/help_article/about-us/privacy-policy-32.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soobest.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620052946id_/http%3A//www.soobest.com/help_article/about-us/privacy-policy-32.html) for the most accurate reproduction.*
 
-# Privacy Policy_SooBEST.com - Fast Fashion Online Store for Bridal Wedding Gown Dress, Evening Dress, Fashion Jewelry
+# Privacy Policy_SooBEST.com - Buy Wedding Dresses, Evening Dresses, Fashion Jewelry at Wholesale Price
 
 Thank you for accessing the web site of SooBEST.com. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
@@ -71,6 +71,7 @@ Service hotline: +1 (800) 208-2835
 
 Fax: +1 (888)859 9278
 
-Company: EUROKEY GLOBAL LIMITED
+Website: Soobest.com  
+
 
 Address: FLAT 107, 25 INDESCON SQUARE, LONDON, E14 9DG, THE UNITED KINDOM
