@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latestcasinobonuses.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206154502id_/http%3A//www.latestcasinobonuses.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestcasinobonuses.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620150519id_/http%3A//www.latestcasinobonuses.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Latest Casino Bonuses Privacy Policy
 
@@ -19,13 +19,13 @@ We at Latest Casino Bonuses care about your privacy, so we make sure it is stric
   * Your transactions with Latest Casino Bonuses and some of our business partners will be acquired.
   * Latest Casino Bonuses’ server logs automatically record information from your browser, such as your IP address, Latest Casino Bonuses cookie information, and your page request.
   * These are the general purposes for which Latest Casino Bonuses may use the information: compliance with your demand for services and products, advertizing and customization of the content presented to you, improvement of our services, contacting you, anonymous reporting for internal and external clients, research purposes.
-  * Since we do not have products and services for that age, children under the age of 13 are not to register at Latest Casino Bonuses. Disclosure and Sharing of Information
-  * Your personal information will not be shared or sold to other people and companies, except when you’ve requested a product or service from us, with your permission, or when:  
-o Latest Casino Bonuses needs to provide the information to the partners who either have a confidentiality agreement with us or work on our behalf. Your personal information may be used by these companies to help us convey offers from us and our marketing partners to you, but they have no right to share this information independently.  
-o Latest Casino Bonuses is required to answer to court orders, subpoenas, legal processes, when it needs to defend itself against legal claims, or exercise its legal rights;  
-o Latest Casino Bonuses finds it necessary to share information for the purposes of investigation, prevention, or taking certain action regarding illegal activities, potential threats to the physical safety of any person, suspected fraud, violations of our terms of use, or as otherwise required by law.  
-o Latest Casino Bonuses transfers information in case of the company’s acquisition or merger with another company, in which case you will be notified before your personal information gets transferred and becomes subject to a different privacy policy.  
-o You view or interact with a personal information-based targeted ad, displayed by Latest Casino Bonuses, as in that case you are consenting to the possibility that the advertiser may assume that you meet the target criteria used to present the ad. Still, Latest Casino Bonuses does not provide any personal information to the advertiser. Advertisers cover a number of industries, including casinos, stores and travel services.
+  * Since we do not have products and services for that age, children under the age of 18 are not to register at Latest Casino Bonuses. Disclosure and Sharing of Information
+  * Your personal information will not be shared or sold to other people and companies, except when you’ve requested a product or service from us, with your permission, or when: 
+    1. Latest Casino Bonuses needs to provide the information to the partners who either have a confidentiality agreement with us or work on our behalf. Your personal information may be used by these companies to help us convey offers from us and our marketing partners to you, but they have no right to share this information independently.
+    2. Latest Casino Bonuses is required to answer to court orders, subpoenas, legal processes, when it needs to defend itself against legal claims, or exercise its legal rights;
+    3. Latest Casino Bonuses finds it necessary to share information for the purposes of investigation, prevention, or taking certain action regarding illegal activities, potential threats to the physical safety of any person, suspected fraud, violations of our terms of use, or as otherwise required by law.
+    4. Latest Casino Bonuses transfers information in case of the company’s acquisition or merger with another company, in which case you will be notified before your personal information gets transferred and becomes subject to a different privacy policy.
+    5. You view or interact with a personal information-based targeted ad, displayed by Latest Casino Bonuses, as in that case you are consenting to the possibility that the advertiser may assume that you meet the target criteria used to present the ad. Still, Latest Casino Bonuses does not provide any personal information to the advertiser. Advertisers cover a number of industries, including casinos, stores and travel services.
 
 
 
