@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126112201id_/http%3A//multilingualbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620111503id_/http%3A//www.multilingualbooks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
+
+Your visit is appreciated, Thank You...
 
 The Internet Language Company (ILC) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website (www.multilingualbooks.com). 
 
@@ -56,8 +58,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 
 **Multilingual Books  
-1309 NE Ravenna Boulevard  
-Seattle, WA 98105  
+11515 NE 26th Ave Suite 201  
+Seattle, WA 98125  
 **
 
 **E-mail:** **[sales@multilingualbooks.com](mailto:sales@multilingualbooks.com)**
