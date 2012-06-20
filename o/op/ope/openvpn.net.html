@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the openvpn.net privacy policy that was archived on 2011-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111113062714id_/http%3A//www.openvpn.net/index.php/component/content/article/479.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the openvpn.net privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620210555id_/http%3A//openvpn.net/index.php/component/content/article/479.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
-	  <base href="http://www.openvpn.net/index.php/component/content/article/479.html">
+	  <base href="http://openvpn.net/index.php/component/content/article/479.html">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="vpn, openvpn, enterprise vpn, open source vpn, vpn client, vpn server, virtual private network">
@@ -13,7 +13,7 @@
   <link href="/templates/telethra/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="stylesheet" href="/plugins/system/rokbox/themes/light/rokbox-style.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_roknavmenu/themes/fusion/css/fusion.css" type="text/css">
-  <link rel="stylesheet" href="http://www.openvpn.net//modules/mod_rokajaxsearch/css/rokajaxsearch.css" type="text/css">
+  <link rel="stylesheet" href="http://openvpn.net//modules/mod_rokajaxsearch/css/rokajaxsearch.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_rokajaxsearch/themes/blue/rokajaxsearch-theme.css" type="text/css">
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
@@ -52,9 +52,9 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 					'advsearch': ' Advanced search',
 					'page': ' Page',
 					'page_of': ' of',
-					'searchlink': 'http://www.openvpn.net/index.php?option=com_search&amp;view=search&amp;tmpl=component',
-					'advsearchlink': 'http://www.openvpn.net/index.php?option=com_search&amp;view=search',
-					'uribase': 'http://www.openvpn.net/',
+					'searchlink': 'http://openvpn.net/index.php?option=com_search&amp;view=search&amp;tmpl=component',
+					'advsearchlink': 'http://openvpn.net/index.php?option=com_search&amp;view=search',
+					'uribase': 'http://openvpn.net/',
 					'limit': '10',
 					'perpage': '3',
 					'ordering': 'newest',
@@ -92,43 +92,91 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 	var pageTracker = _gat._getTracker("UA-3330956-1");
 	pageTracker._trackPageview();
 	} catch(err) {}</script>
-
-
+<script src="/jquery-1.7.1.min.js"></script>
+<script>
+	jQuery(document).ready(function(){
+		//services
+			$('#sr-text').hide();
+			$('#sl-text').hide();
+			$('#cm-text').hide();
+		$('.sr').hover(function(){
+			$(this).children('div').children('a').css("display","block");
+			servicesHoverTxt('sr');
+		});
+		$('.sr').mouseleave(function(){
+			$(this).children('div').children('a').css("display","none");
+			servicesOutTxt('sr');
+		});
+		
+		//solution
+		$('.sl').hover(function(){
+			$(this).children('div').children('a').css("display","block");
+			servicesHoverTxt('sl');
+		});
+		$('.sl').mouseleave(function(){
+			$(this).children('div').children('a').css("display","none");
+			servicesOutTxt('sl');
+		});
+		
+		//community
+		$('.cm').hover(function(){
+			$(this).children('div').children('a').css("display","block");
+			servicesHoverTxt('cm');
+		});
+		$('.cm').mouseleave(function(){
+			$(this).children('div').children('a').css("display","none");
+			servicesOutTxt('cm');
+		});
+	});
+	
+	function servicesHoverTxt(id){
+		$('#'+id+'-text').show();
+		$('#text-sr').hide();
+	}
+	function servicesOutTxt(id){
+		$('#'+id+'-text').hide();
+		$('#text-sr').show();
+	}
+</script>
 </head>
 
 <body>
 <div id="top">
 
 	<div id="header">
+
 		<div id="h-els">
-					<div class="moduletable-supernav">
-					<ul id="mainlevel-supernav"><li><a href="/index.php/about/about-us.html" class="mainlevel-supernav">About</a></li><li><a href="/index.php/the-news/press-releases.html" class="mainlevel-supernav">News</a></li><li><a href="/index.php/contact-us.html" class="mainlevel-supernav">Contact</a></li><li><a href="/index.php/partners.html" class="mainlevel-supernav">Partners</a></li><li><a href="/index.php/support-center.html" class="mainlevel-supernav">Support</a></li><li><a href="/index.php/register.html" class="mainlevel-supernav">Register</a></li><li><a href="/index.php/login.html" class="mainlevel-supernav">Login</a></li></ul>		</div>
-			<div class="moduletable-search">
+			<a class="mainlevel-supernav" style="float:right;margin-right: 5px;" href="/index.php/login.html">Sign in</a><!--		<div class="moduletable-search">
 					<table border="0" valign="top" style="height: 10px;">
 <tbody>
 <tr>
-<td><a target="_blank" title="Follow us on Twitter" href="http://www.twitter.com/#openvpn"><img alt="Follow us on Twitter" src="/images/twitter3s.png"></a></td>
+<td><a target="_blank" title="Follow us on Twitter" href="http://www.twitter.com/#openvpn"><img alt="Follow us on Twitter" src="/images/twitter3s.png" /></a></td>
 </tr>
 </tbody>
 </table>		</div>
 			<div class="moduletable-search">
-					<form name="rokajaxsearch" id="rokajaxsearch" class="blue" action="http://www.openvpn.net/" method="get">
+					<form name="rokajaxsearch" id="rokajaxsearch" class="blue" action="http://openvpn.net/" method="get">
 <div class="rokajaxsearch-search">
-	<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" value=" Search...">
-	<input type="hidden" name="searchphrase" value="any">
-	<input type="hidden" name="limit" value="">
-	<input type="hidden" name="ordering" value="newest">
-	<input type="hidden" name="view" value="search">
-	<input type="hidden" name="Itemid" value="99999999">
-	<input type="hidden" name="option" value="com_search">
+	<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" value=" Search..." />
+	<input type="hidden" name="searchphrase" value="any"/>
+	<input type="hidden" name="limit" value="" />
+	<input type="hidden" name="ordering" value="newest" />
+	<input type="hidden" name="view" value="search" />
+	<input type="hidden" name="Itemid" value="99999999" />
+	<input type="hidden" name="option" value="com_search" />
 
 	
 	<div id="roksearch_results"></div>
 </div>
 <div id="rokajaxsearch_tmp" style="visibility:hidden;display:none;"></div>
 </form>		</div>
-	
-		</div>
+	-->
+
+<div id="OP-Twitter">
+      <div id="OP-Twitter-Left"> Follow us </div>
+      <div id="OP-Twitter-Right"><a target="_blank" title="Follow us on Twitter" href="https://www.twitter.com/#openvpn"><img alt="Follow us on Twitter" src="/templates/telethra/images/OP-twitter.png"></a></div>
+    </div>	
+</div>	
 		<div id="h-nav">
 					<div class="moduletable">
 					<div id="horizmenu-surround">
@@ -140,13 +188,13 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 			
 </li>	
     	    		<li class="item595 parent root">
-			<a class="daddy item" href="http://www.privatetunnel.com" target="_blank">
+			<a class="daddy item" href="https://www.privatetunnel.com/index.php?referral=OPENVPN" target="_blank">
 						<span>VPN Service</span>
 		</a>
 			<ul class="level2">
 					
 			<li class="item601">
-			<a class="item" href="http://www.privatetunnel.com/" target="_blank">
+			<a class="item" href="https://www.privatetunnel.com/index.php?referral=OPENVPN" target="_blank">
 						<span>Your Private Tunnel to the Internet</span>
 		</a>
 			
@@ -222,7 +270,7 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 			
 </li>	
 					
-			<li class="item429">
+			<li class="item746">
 			<a class="item" href="/index.php/access-server/docs/admin-guides.html">
 						<span>HOWTO</span>
 		</a>
@@ -330,14 +378,14 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 			
 </li>	
 					
-			<li class="item92 parent">
+			<li class="item92">
 			<a class="item" href="/index.php/open-source/documentation/manuals.html">
 						<span>Manuals</span>
 		</a>
 			
 </li>	
 					
-			<li class="item100 parent">
+			<li class="item100">
 			<a class="item" href="/index.php/open-source/documentation/change-log.html">
 						<span>Change Log</span>
 		</a>
@@ -426,11 +474,34 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 			</ul>
 		
 </li>	
+    	    		<li class="item739 parent root">
+			<a class="daddy item" href="/index.php/download.html">
+						<span>Downloads</span>
+		</a>
+			<ul class="level2">
+					
+			<li class="item744">
+			<a class="item" href="/index.php/download/access-server-downloads.html">
+						<span>Access Server Downloads</span>
+		</a>
+			
+</li>	
+					
+			<li class="item743">
+			<a class="item" href="/index.php/download/community-downloads.html">
+						<span>Community Downloads</span>
+		</a>
+			
+</li>	
+			</ul>
+		
+</li>	
     	    </ul>
 </div>
 		</div>
 	
 		</div>
+
 
 	</div>
 	
@@ -473,9 +544,32 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 	
 	</div>
 </div>
+<div class="clear"></div>
+<div id="OP-Footer">
+    <div id="OP-Footer-left">
+      <div id="OP-FooterLeft-link">
+        <ul>
+          <li>© 2002-2012 OpenVPN Technologies, Inc. &nbsp; 		<div class="moduletable">
+					<a href="/index.php/component/content/article/479.html">Privacy Policy</a>		</div>
+	&nbsp;		<div class="moduletable">
+					<a href="/index.php/component/content/article/481.html">Terms of Use</a>		</div>
+	</li>
+        </ul>
+      </div>
+    </div>
+    <div id="OP-Footer-Right">
+      <div id="OP-Footer-link">
+        		<div class="moduletable-supernav">
+					<ul id="mainlevel-supernav"><li><a href="/index.php/about/about-us.html" class="mainlevel-supernav">About</a></li><li><a href="/index.php/the-news/press-releases.html" class="mainlevel-supernav">News</a></li><li><a href="/index.php/contact-us.html" class="mainlevel-supernav">Contact</a></li><li><a href="/index.php/partners.html" class="mainlevel-supernav">Partners</a></li><li><a href="/index.php/support-center.html" class="mainlevel-supernav">Support</a></li></ul>		</div>
+	
+      </div>
+    </div>
+    <!--OP footer end-->
+  </div>
 
-<div id="footer">
-	<div class="copyright">Copyright © 2002-2011 OpenVPN Technologies, Inc. All Rights Reserved.</div>
+
+<!--<div id="footer">
+	<div class="copyright">Copyright © 2002-2012 OpenVPN Technologies, Inc. All Rights Reserved.</div>
 	<div style="float:right;color:blue;font-size:11px;color:#CC6600;font-weight:normal;padding-left:10px;padding-right:10px">
 	    		<div class="moduletable">
 					<a href="/index.php/component/content/article/479.html">Privacy Policy</a>		</div>
@@ -494,9 +588,10 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 	</div>
 
 </div>
-
+-->
 <div style="display:none">
 </div>
+
 
 
 
