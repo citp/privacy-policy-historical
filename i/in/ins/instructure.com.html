@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the instructure.com privacy policy that was archived on 2011-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206154603id_/http%3A//www.instructure.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the instructure.com privacy policy that was archived on 2012-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620210825id_/http%3A//www.instructure.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js "><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -24,21 +24,62 @@
   <link rel="alternate" type="application/rss+xml" title="Instructure Blog" href="/blog-rss">  
 
   <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
-  <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="https://web.archive.org/web/20111012090324/https://ssl.google-analytics.com/ga.js"></script><script src="/js/libs/modernizr-1.6.js?v3"></script>
+  <script id="hs-analytics" src="//js.hubspot.com/analytics/166399.js"></script><script async="" src="https://web.archive.org/web/20111012090324/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//d2f7h8c8hc0u7y.cloudfront.net/performable/pax/8VAtGg.js"></script><script src="/js/libs/modernizr-1.6.js?v3"></script>
+  <script>var scriptsToRunOnReady = []</script>
 </head>
 <body>
-  <div id="header-container" class="clearfix">
+<script type="text/javascript">
+(function() {
+ var p = document.createElement('script');
+ p.type = 'text/javascript'; p.async = true;
+ p.src = '//d2f7h8c8hc0u7y.cloudfront.net/performable/pax/8VAtGg.js';
+ var s = document.getElementsByTagName('script')[0];
+ s.parentNode.insertBefore(p, s);
+})();
+</script>
+
+  <style>
+    header { height: 89px;}
+    #header-logo{
+      position: absolute;
+      bottom: 34px;
+      left: 0;
+    }
+    #header-container-new{
+      background-color: white;
+    }
+    #header-container-new #search_form #q { 
+      background-image: url('/assets/351/search_field.png');
+      color: #a1a1a1;
+    }
+    #new-top-nav { position: absolute; right: 0; bottom: 40px; margin: 0; padding: 0; list-style: none;
+      border: 1px solid #e2e2e2;
+      border-radius: 5px;
+    }
+    #new-top-nav li { border-left: 1px solid #e2e2e2; float: left; margin: 0; padding: 0; }
+    #new-top-nav li:first-child { border-left: none; }
+    #new-top-nav a { float: left; display: block; padding: 8px 19px; text-decoration: none; color: #464646; outline: none; text-shadow: 0 1px rgba(255,255,255, 0.7); }
+    #new-top-nav li.current a { background-color: #d2e9f6; }
+    #new-top-nav a:focus,
+    #new-top-nav a:hover { background-color: #b7dcf1 !important; }
+  </style>
+  <div id="header-container-new" class="clearfix">
     <header class="container_12">
       <ul id="header-top">
         <li><a href="http://help.instructure.com">Get Help</a></li>
         <li>
-          <form action="http://www2.instructure.com/s/9392/8724526b4da497942d481f53a4e1d9ae" method="get" id="search_form"><input type="hidden" name="exclude_pages" value="/rss/,/sitemap.xml/"><p><input type="text" id="q" name="q" value="" size="15" alt="search" placeholder="Search..."> <input class="search_button" value="Search" type="submit"></p></form>
-
+          <form action="/search" method="get" id="search_form">
+            <p>
+              <input type="text" id="q" name="q" value="" size="15" alt="search" placeholder="Search...">
+              <input id="btn_search" class="search_button" value="Search" type="submit">
+            </p>
+          </form>
         </li>
       </ul>
-      <a href="/"><img style="margin-top:5px;" src="/images/header-logo.png" width="225" height="42" alt="Instructure"></a>
-      <ul id="top-nav">
-        <li><a href="/teachers">Instructors</a></li> <li><a href="/administrators">Administrators</a></li> <li><a href="/students">Students</a></li> <li><a href="/technology">Technology</a></li> <li><a href="/hosting">Hosting</a></li> <li><a href="/blog">Blog</a></li>
+      <a id="header-logo" href="/"><img src="/assets/350/new-header-logo.png" alt="instructure"></a>
+      <ul id="new-top-nav">
+        <li><a href="/canvas">Canvas</a></li> <li><a href="/k12">K-12</a></li> <li><a href="/cloud">Cloud</a></li> <li><a href="/mobile">Mobile</a></li> <li><a href="/events">Events</a></li>
+        <li><a href="http://voice.instructure.com">Blog</a></li>
       </ul>
     </header>
   </div>
@@ -238,8 +279,8 @@
     following address or phone number:
       <p><br>
         Instructure, Inc.<br>
-        6415 South 3000 East Suite 100<br>
-        Salt Lake City, UT 84121<br>
+        9020 S Sandy Parkway, STE 300<br>
+        Salt Lake City, UT 84070<br>
         (801) 869.5000
       </p>
     </li>
@@ -265,7 +306,7 @@
     and agreement to be bound by the terms and conditions of such changes.</li>
   </ol>
 
-  <p>This Privacy Policy was last revised on October 20, 2010.</p>
+  <p>This Privacy Policy was last revised on March 21, 2012.</p>
   
 </div>
 
@@ -278,7 +319,7 @@
         <div class="grid_3 prefix_1 alpha">
           <h5>See Canvas in action.</h5>
           <p>Get a hands-on look at how Instructure Canvas really works.</p>
-          <a class="ir try-canvas-button" href="http://demos.instructure.com/register">Try Canvas!</a>
+          <a id="btn_tryCanvas" class="ir try-canvas-button" href="http://acme.instructure.com/register">Try Canvas!</a>
         </div>
         <ul class="grid_2">
           <li><h5>Info</h5></li>
@@ -295,12 +336,13 @@
           <li><a href="http://twitter.com/instructure">Twitter</a></li>
           <li><a href="/blog">Blog</a></li>
           <li><a href="http://facebook.com/instructure">Facebook</a></li>
+          <li><a href="/partners">Partners</a></li>
         </ul>
         <div class="grid_4 omega">
           <div id="footer-follow-us">
             <h5>Follow Us</h5>
             <a href="http://facebook.com/instructure"><img src="/images/facebook_icon.png" width="41" height="41" alt="Facebook Icon"></a>
-            <a href="http://www.youtube.com/canvaslms"><img src="/images/youtube_icon.png" width="41" height="41" alt="Youtube Icon"></a>
+            <a href="http://video.instructure.com"><img src="/assets/308/vimeo3.png" height="41" alt="Vimeo Icon" width="41"></a>
             <a href="http://twitter.com/instructure"><img src="/images/twitter_icon.png" width="41" height="41" alt="Twitter Icon"></a>
             <a href="/blog-rss"><img src="/images/rss_icon.png" width="41" height="41" alt="Rss Icon"></a>
           </div>
@@ -310,7 +352,7 @@
             
             <form action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
               <input type="text" name="email" placeholder="Email Address" id="email_address_subscribe">
-              <input type="image" src="/images/subscribe_button.png">
+              <input id="btn_subscribe" type="image" src="/images/subscribe_button.png">
               
               <input type="hidden" name="lead_status" value="Nurturing">
               <input type="hidden" name="first_name" value="Email">
@@ -325,7 +367,7 @@
           </div>
         </div>
       </div>
-      <div id="footer-bottom" class="container_12">© Copyright 2011 Instructure Inc. All Rights Reserved.
+      <div id="footer-bottom" class="container_12">© Copyright 2012 Instructure Inc. All Rights Reserved.
       </div>
     </footer>
   </div>
@@ -340,28 +382,90 @@
   <script src="http://platform.twitter.com/widgets.js"></script>
   <!--[if lt IE 7 ]><script src="/js/ie7.js"></script><![endif]-->  
 
+  <script>
+  jQuery(function($){
+    $.each(scriptsToRunOnReady, function(i, fn){ $(fn); });
+    if (window.location.hash === "#tell_me_more_dialog") {
+      $('#tell_me_more_dialog').dialog('open');
+    }
+  });
+
+  (function($){
+    $.fn.shuffle = function() {
+      return this.each(function(){
+        var items = $(this).children();
+        return (items.length)
+          ? $(this).html($.shuffle(items))
+          : this;
+      });
+    }
+   
+    $.shuffle = function(arr) {
+      for(
+        var j, x, i = arr.length; i;
+        j = parseInt(Math.random() * i),
+        x = arr[--i], arr[i] = arr[j], arr[j] = x
+      );
+      return arr;
+    }
+  })(jQuery);
+
+	$('#quote_container .slideshow, #quote_images .slideshow').shuffle();
+	$('#org_type').change(function () {$('#organization_type').val($(this).val());});
+		
+	$("#btn_learnMore, #btn_instantDemo, #btn_freeForTeacher, #btn_tryCanvas, #btn_subscribe, #btn_submit, #btn_search").click(
+		function () {
+			_gaq.push(['_trackEvent', 'Buttons', $(this).attr('id')]);
+		}
+	);
+	
+	$('#learn_more').submit(
+		function () {
+			_gaq.push(['_trackPageview', '/form/filled']);
+		}
+	);
+	
+	$('#learn_more :input').each(
+		function () {
+			switch ( $(this).attr('type') ) {
+				case "select-one":
+					$(this).change( function () { 
+						_gaq.push(['_trackEvent', 'Forms', $(this).attr('id')]); 
+					});	
+				break;
+	
+				case "text":
+				case "textarea":
+					$(this).focus( function () { 
+						_gaq.push(['_trackEvent', 'Forms', $(this).attr('id')]); 
+					});	
+				break;
+	
+				case "radio":
+				case "checkbox":
+					$(this).click( function () { 
+						_gaq.push(['_trackEvent', 'Forms', $(this).prop('id')]); 
+					});	
+				break;
+		}
+	});
+</script>
+
   <!-- Begin Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
   <script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
   <script type="text/javascript">__sfga();</script>
   <!-- End Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
 
-<!-- begin Pardot tracking code -->
-<script type="text/javascript">
-	piAId = '10392';
-	piCId = '1191';
-	
-	(function() {
-		function async_load(){
-			var s = document.createElement('script'); s.type = 'text/javascript';
-			s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-			var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-		}
-		if(window.attachEvent) { window.attachEvent('onload', async_load); }
-		else { window.addEventListener('load', async_load, false); }
-	})();
-</script>
-<!-- end Pardot tracking code -->
-
+<!-- Start of Async HubSpot Analytics Code -->
+    <script type="text/javascript">
+        (function(d,s,i) {
+            if (d.getElementById(i)){return;}
+            var n = d.createElement(s),e = document.getElementsByTagName(s)[0];
+            n.id=i;n.src = '//js.hubspot.com/analytics/166399.js';
+            e.parentNode.insertBefore(n, e);
+        })(document, "script", "hs-analytics");
+    </script>
+<!-- End of Async HubSpot Analytics Code -->
 
 <div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-use_it_form" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-use_it_form">Free Account Registration</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div style="" id="use_it_form" class="ui-dialog-content ui-widget-content">
     <h3>I am a ...</h3>
@@ -390,124 +494,106 @@
 			</div>
   	</div>
   </div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-tell_me_more_dialog" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-tell_me_more_dialog">Tell Me More</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div class="pretty-dialog ui-dialog-content ui-widget-content" id="tell_me_more_dialog" style="">
-    <form action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
+    <form id="learn_more" action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
       <style>
-        #tell_me_more_dialog .invalid {
-          border-color: #e2b2b2;
-          background: #fff3f3;
-        }
-      </style>
-      <p>Give us your name, email and the organization that you represent and we'll get back to you to coordinate the evaluation of Canvas for your class or school.</p>
-      <div id="invalid_inputs_notification" class="ui-widget" style="display:none;">
-        <div class="ui-state-error ui-corner-all" style="padding: .7em;"> 
-          Please fill in all the required fields
-        </div>
-      </div>
-      <div>
-        <span>
-          <label for="name">First Name</label>
-          <input id="first_name" name="first_name">
-        </span>
-        <span class="last">
-          <label for="last_name">Last Name</label>
-          <input id="last_name" name="last_name">
-        </span>
-      </div>
-      <div>
-        <label for="company">School / Organization</label>
-        <input style="width:97.5%" id="company" name="company">
-      </div>
-      <div>
-        <span>
-          <label for="title">Title</label>
-          <select style="width:93%" name="title" id="title">
-            <option value="">-- Choose One --</option>
-            <option value="Dean">Dean</option>
-            <option value="CIO">CIO</option>
-            <option value="Provost">Provost</option>
-            <option value="VP">VP</option>
-            <option value="School Administrator">School Administrator</option>
-            <option value="Director">Director</option>
-            <option value="Instructional Designer">Instructional Designer</option>
-            <option value="Technologist">Technologist</option>
-            <option value="LMS Administrator">LMS Administrator</option>
-            <option value="Support">Support</option>
-            <option value="Teacher/Instructor">Teacher/Instructor</option>
-            <option value="Student">Student</option>
-            <option value="Other">Other</option>
-          </select>
-        </span>
-        <span class="last">
-          <label for="organization_type">Organization Type</label>
-          <select style="width: 100%" name="00NA0000000dTsv" id="organization_type">
-            <option value="">-- Choose One--</option>
-            <option value="Higher Ed">Higher Ed</option>
-            <option value="K12">K12</option>
-            <option value="Corporate">Corporate</option>
-          </select>
-        </span>
-      </div>
-      <div>
-        <span>
-          <label for="organization_size">Organization Size</label>
-          <select style="width: 93%" name="00NA0000000dTt0" id="organization_size">
-            <option value="">-- Choose One--</option>
-            <option>0 - 500</option>
-            <option>500 - 1,000</option>
-            <option>1,000 - 5,000</option>
-            <option>5,000 - 10,000</option>
-            <option>10,000 - 30,000</option>
-            <option>30,000+</option>
-          </select>
-        </span>
-        <span class="last">
-          <label for="title">Current LMS</label>
-          <select style="width:100%" name="00NA0000000dTsl" id="current_lms">
-            <option value="">-- Choose One --</option>
-            <option value="Agilix">Agilix</option>
-            <option value="Angel">Angel</option>
-            <option value="BlackBoard">BlackBoard</option>
-            <option value="D2L">D2L</option>
-            <option value="e-College">e-College</option>
-            <option value="Moodle">Moodle</option>
-            <option value="None">None</option>
-            <option value="Other">Other</option>
-            <option value="Sakai">Sakai</option>
-            <option value="TimeCruiser">TimeCruiser</option>
-            <option value="WebCT">WebCT</option>
-            <option value="Homegrown / Proprietary">Homegrown / Proprietary</option>
-          </select>
-        </span>
-      </div>
-      <div>
-        <span>
-          <label for="phone">Phone</label>
-          <input name="phone" id="phone">
-        </span>
-        <span class="last">
-          <label for="email">Email</label>
-          <input name="email" id="email">
-        </span>
-      </div>
-      <div>
-        <label for="00NA0000001r9z3">Tell us a little about why you want to use Canvas</label>
-        <textarea id="00NA0000001r9z3" name="00NA0000001r9z3"></textarea>
-      </div>
-      <div>
-        <input type="checkbox" id="tell_me_more_opt_in" name="00NA0000006iDjG" value="1" style="width:auto; vertical-align:baseline;"><!-- opt-in -->
-        <label style="display:inline;" for="tell_me_more_opt_in">Keep me posted on news, tips and updates</label>
-      </div>
-      <input type="hidden" name="oid" value="00DA0000000Ibsk">
-      <input type="hidden" name="retURL" value="http://www.instructure.com/landing-pages/thank-you-for-requesting-more-info">
-      <input type="hidden" name="lead_source" value="Website Learn More" id="lead_source">
-      <input type="hidden" name="first_name"> 
-      <input type="hidden" name="last_name"> 
-      <input type="hidden" name="city"> 
-      <input type="hidden" name="state">
-      <input type="hidden" name="country">
-      <input type="hidden" id="00NA0000006hyKy" name="00NA0000006hyKy"><!-- ip -->
-      <input type="hidden" id="00NA0000006iDjG" name="00NA0000006iDjG" value="1"><!-- opt-in -->
-      <input type="hidden" name="sfga" value=""> <!-- google analytics -->
-      <input style="display:none;" type="submit">
+									#tell_me_more_dialog .invalid {
+										border-color: #e2b2b2;
+										background: #fff3f3;
+									}
+								</style>
+								
+								<p>Give us your name, email and the organization that you represent and we'll get back to you to coordinate the evaluation of Canvas for your class or school.</p>
+								
+								<div id="invalid_inputs_notification" class="ui-widget" style="display:none;">
+									<div class="ui-state-error ui-corner-all" style="padding: .7em;">Please fill in all the required fields</div>
+								</div>
+	
+								<div>
+									<span>
+										<label for="first_name">First Name</label>
+										<input id="first_name" name="first_name">
+									</span>
+									
+									<span class="last">
+										<label for="last_name">Last Name</label>
+										<input style="width: 95%;" id="last_name" name="last_name">
+									</span>
+								</div>
+								
+								<div>
+									<label for="company">School / Organization</label>
+									<input style="width:97.5%" id="company" name="company">
+								</div>
+								
+								<div>
+									<span>
+										<label for="title">Title</label>
+										<select style="width:93%" name="title" id="title">
+											<option value="">-- Choose One --</option>
+											<option value="Dean">Dean</option>
+											<option value="CIO">CIO</option>
+											<option value="Provost">Provost</option>
+											<option value="VP">VP</option>
+											<option value="School Administrator">School Administrator</option>
+											<option value="Director">Director</option>
+											<option value="Instructional Designer">Instructional Designer</option>
+											<option value="Technologist">Technologist</option>
+											<option value="LMS Administrator">LMS Administrator</option>
+											<option value="Support">Support</option>
+											<option value="Teacher/Instructor">Teacher/Instructor</option>
+											<option value="Student">Student</option>
+											<option value="Other">Other</option>
+										</select>
+									</span>
+								
+									<span class="last">
+										<label for="org_type">Organization Type</label>
+										<select style="width:103%" id="org_type" name="00NA0000009oYKu">
+											<option value="">--None--</option>
+											<option value="Higher Ed">Higher Ed</option>
+											<option value="K12">K12</option>
+											<option value="Corporate">Corporate</option>
+											<option value="Other">Other</option>
+										</select>
+									</span>
+								</div>
+																								
+								<div>
+									<span>
+										<label for="phone">Phone</label>
+										<input name="phone" id="phone">
+									</span>
+									
+									<span class="last">
+										<label for="email">Email</label>
+										<input name="email" id="email">
+									</span>
+								</div>
+								
+								<div>
+									<label for="00NA0000001r9z3">Tell us a little about why you want to use Canvas</label>
+									<textarea id="00NA0000001r9z3" name="00NA0000001r9z3"></textarea>
+								</div>
+								
+								<div>
+									<input type="checkbox" id="tell_me_more_opt_in" name="00NA0000006iDjG" value="1" style="width:auto; vertical-align:baseline;"><!-- opt-in -->
+									<label style="display:inline;" for="tell_me_more_opt_in">Keep me posted on news, tips and updates</label>
+								</div>
+							
+							<!-- Organization Type -->
+							<input type="hidden" id="organization_type" name="00NA0000000dTsv" value=""> 
+
+							<input type="hidden" name="oid" value="00DA0000000Ibsk">
+							<input type="hidden" name="retURL" value="http://www.instructure.com/landing-pages/thank-you-for-requesting-more-info">
+							<input type="hidden" name="lead_source" value="Website Learn More" id="lead_source">
+							<input type="hidden" name="first_name"> 
+							<input type="hidden" name="last_name"> 
+							<input type="hidden" name="city"> 
+							<input type="hidden" name="state">
+							<input type="hidden" name="country">
+							<input type="hidden" id="00NA0000006hyKy" name="00NA0000006hyKy"><!-- ip -->
+							<input type="hidden" id="00NA0000006iDjG" name="00NA0000006iDjG" value="1"><!-- opt-in -->
+							<input type="hidden" name="sfga" value=""> <!-- google analytics -->
+							<input style="display:none;" type="submit">
     </form>
   </div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Submit</span></button></div></div></div></body></html>
