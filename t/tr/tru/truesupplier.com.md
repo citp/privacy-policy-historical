@@ -1,39 +1,44 @@
-> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104215555id_/http%3A//www.truesupplier.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620071012id_/http%3A//www.truesupplier.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# Help zone :: Truesupplier - Blackberry Accessories & PDA Accessories wholesale Co.
+# Help zone :: Truesupplier - Blackberry Accessories,iPhone Accessories & HTC Accessories wholesale Co.
 
 | [](http://www.truesupplier.com/) |  |   
 ---  
-CALL US: +86-755-8884-7001   International: +86-755-8256-6932   |   
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=379&banner_redirect=http://www.truesupplier.com/blackberry-torch-9800-bezel-faceplates-cover-red-color-att-pr-26373.html) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=358&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=ipad+leather+case+with+keypad) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=341&banner_redirect=http://www.truesupplier.com/oem-apple-iphone-4-lcd-screen-pr-23203.html)   
+CALL US: +86-755-8884-7001   International: +86-755-8884-6981   |   
+  
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=468&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=iphone+4+4s+metal+bumper) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=453&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=9900+LCD+assembly) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=465&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=transparent+waterdrop)   
   
   
 
 
-| thank you very much! I have a BlackBerry Bold and now it's all fantastic white. Perfect  
+| Hi there service was excelent. Shipping was quick and was very happy with regular mail didn\'t pay extra tax. Also product was excellent. I wouldn\'t shop anywhere else. Good thing I found you guys when I was shopping around. I\'m going to do some enterprising get around show off the quality products yo others and maybe shop again for sure in the future. Thank you  
 ---  
-stefano   
+Lochnes76   
   
 * * *  
   
-Great seller.. I love to deal with them.. would defiantly deal with them all the time  
-Fatima Al-Rumaihi   
+I always use this trader for any of my blackberry needs. Have to say one of the most trusted seller on the web and goods always turn up as described. :)  
+Deepak  
+(NIWA)   
   
 * * *  
   
-I was pleasantly pleased when I first discovered this particular site for the simple fact they offer a surplus of product and for a bargain too. Better than any site thus far, keep up the excellent work TrueSupplier!!!  
-Mike Lockett   
+Happy to use your service. Received the product in India dot on the 15th Day...excellent.   
+I have ordered again hope to get the product within the schedule time.   
+EXCELLENT SERVICE!!!!!  
+Arunasish  
+(Business)   
   
 * * *  
   
-[**Write Your Own Testimonial**](https://web.archive.org/web/20110104215555id_/http%3A//www.truesupplier.com/testimonials.php?mode=new_form)  
+[**Write Your Own Testimonial**](https://web.archive.org/web/20120620071012id_/http%3A//www.truesupplier.com/testimonials.php?mode=new_form)  
   
   
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=239&banner_redirect=http://www.truesupplier.com/metal-blackberry-bold-9700-9020-onyx-battery-cover-red-sun-pr-20367.html)
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=418&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=iphone+4+gold+and+black+side+buttons)
 
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=374&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=psp+go+housing)
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=471&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=Apple+iPhone+4S+Battery+Cover+With+Protruding+Diamond+Logo)
 
-[Truesupplier - Blackberry Accessories & PDA Accessories wholesale Co.](http://www.truesupplier.com/) :: [Help zone](https://web.archive.org/web/20110104215555id_/http%3A//www.truesupplier.com/help.php) | Privacy statement  
+[Truesupplier - Blackberry Accessories,iPhone Accessories & HTC Accessories wholesale Co.](http://www.truesupplier.com/) :: [Help zone](https://web.archive.org/web/20120620071012id_/http%3A//www.truesupplier.com/help.php) | Privacy statement  
 ---  
   
 Thank you for accessing the web site ("Site") of truesupplier.com, Inc. ("truesupplier.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
@@ -53,7 +58,7 @@ INFORMATION COLLECTION AND USE
     * help us create content on this Site that is most relevant to you. 
     * alert you to new information, products, and services that we offer. 
 | (a)  
-|  Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. If you have elected to use the Bill Me Later® payment method, you will have to provide the last four (4) digits of your social security number and your birth date. We use this information solely to facilitate the Bill Me Later® transaction and will not store or keep this information in our files. In addition, we may also ask you for your country of residence and/or your organization's country of operation, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you.  
+|  Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. If you have elected to use the Bill Me LaterÂ® payment method, you will have to provide the last four (4) digits of your social security number and your birth date. We use this information solely to facilitate the Bill Me LaterÂ® transaction and will not store or keep this information in our files. In addition, we may also ask you for your country of residence and/or your organization's country of operation, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you.  
   
 ---|---  
 
@@ -108,13 +113,9 @@ Truesupplier.com
   
     
   
-  
 
 
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=231&banner_redirect=http://www.truesupplier.com/blackberry-bold-9700-9020-onyx-battery-back-cover-lsy-style-pr-20274.html)
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=435&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=Apple+iPad+2+Leather+case+cover+pouch+cayman)
 
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=352&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=9800+keyboard)   
-  
-  
-|   
----
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=364&banner_redirect=http://www.truesupplier.com/apple-iphone-4-genuine-leather-case-covers-voodo-product-black-pr-25449.html)   
+
