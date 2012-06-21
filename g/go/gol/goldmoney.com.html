@@ -1,18 +1,15 @@
-<!--The following is the downloaded HTML source of the goldmoney.com privacy policy that was archived on 2011-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216181545id_/http%3A//www.goldmoney.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldmoney.com privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621235335id_/http%3A//www.goldmoney.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <!-- Fix for IE8 Javascript -->
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">	
+<meta http-equiv="X-UA-Compatible" content="IE8=EmulateIE7">	
 
-<!-- Load jQuery and jQueryUi once only here - These will be cached on Akami and user's machines -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery-ui-1.8.16.custom/js/jquery-1.6.2.min.js" type="text/javascript"></script>
-<link href="/js/jquery-ui-1.8.16.custom/css/gm-smoothness/jquery-ui-1.8.16.custom.css" rel="stylesheet" type="text/css">
-<script src="/js/jquery-ui-1.8.16.custom/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+<!-- Load javascript files jQuery and jQueryUi once only here - These will be cached on Akami and user's machines -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-ui-1.8.16.custom/js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.8.16.custom/js/jquery-ui-1.8.16.custom.min.js"></script>
 
-<!-- Load jQuery cookie -->
-<script src="/js/jquery.cookie.js" type="text/javascript"></script>
 	
 <title>Policy on Privacy and Confidentiality - GoldMoney</title>
 <!-- metas -->
@@ -22,23 +19,70 @@
 <meta name="robots" content="FOLLOW">
 <meta http-equiv="content-language" content="en">
 <!-- end-metas -->
+
 <link rel="canonical" href="http://www.goldmoney.com/privacy-policy.html">
+
+<!-- Language versions of page -->
+<link rel="alternate" hreflang="de" href="http://www.goldmoney.com/de/datenschutz.html">
+<!-- end Language versions of page -->
+
 <!-- styles -->
-<link href="/template/english/css/styles.min.css" rel="stylesheet" type="text/css" media="all">
-<link href="/template/english/css/styles_research.min.css" rel="stylesheet" type="text/css" media="all">
+<link href="http://www.goldmoney.com/js/jquery-ui-1.8.16.custom/css/gm-smoothness/jquery-ui-1.8.16.custom.css" rel="stylesheet" type="text/css">
+<link href="http://www.goldmoney.com/template/english/css/gm_stylesheet_003_en.min.css" rel="stylesheet" type="text/css" media="all">
 <!-- end-styles -->
+
 <link rel="alternate" type="application/rss+xml" title="Gold Research" href="">
 <!-- Javascript -->
-<script src="/template/english/js/gm_general.min.js" type="text/javascript"></script>
 
-<script src="/js/init.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-843699-1']);
-_gaq.push(['_setDomainName', '.goldmoney.com']);
+_gaq.push(['_setDomainName', 'none']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_setAllowHash', false]);
 _gaq.push(['_setCampaignCookieTimeout', 2592000000]); // 30 days
-</script>
-<script type="text/javascript">
+
+/**
+ * jQuery Cookie plugin
+ *
+ * Copyright (c) 2010 Klaus Hartl (stilbuero.de)
+ * Dual licensed under the MIT and GPL licenses:
+ * http://www.opensource.org/licenses/mit-license.php
+ * http://www.gnu.org/licenses/gpl.html
+ *
+ */
+jQuery.cookie = function (key, value, options) {
+
+    // key and at least value given, set cookie...
+    if (arguments.length > 1 && String(value) !== "[object Object]") {
+        options = jQuery.extend({}, options);
+
+        if (value === null || value === undefined) {
+            options.expires = -1;
+        }
+
+        if (typeof options.expires === 'number') {
+            var days = options.expires, t = options.expires = new Date();
+            t.setDate(t.getDate() + days);
+        }
+
+        value = String(value);
+
+        return (document.cookie = [
+            encodeURIComponent(key), '=',
+            options.raw ? value : encodeURIComponent(value),
+            options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IE
+            options.path ? '; path=' + options.path : '',
+            options.domain ? '; domain=' + options.domain : '',
+            options.secure ? '; secure' : ''
+        ].join(''));
+    }
+
+    // key and possibly options given, get cookie...
+    options = value || {};
+    var result, decode = options.raw ? function (s) { return s; } : decodeURIComponent;
+    return (result = new RegExp('(?:^|; )' + encodeURIComponent(key) + '=([^;]*)').exec(document.cookie)) ? decode(result[1]) : null;
+};
 
 function gm_checkRefCode(options){
 	
@@ -104,25 +148,19 @@ if(gmpcucode > 0){
 
 function post_tracking(){
 	if((refcode_tested == true) && (currency_tested == true)){
-		
 		var track_array = ['_trackPageview'];
-		
 		if(Boolean(refcode_status)){
-			
 			if (document.location.search.length > 0) {
 				var connector = "&";
 			} else {
 				var connector = "?";
 			}
-			
 			track_array.push(document.location + connector + 'gmrefcode=' + saved_refcode);
 		}
-		
 		if(selected_currency.length > 0){							
 			var data = '/?home_currency=' + selected_currency;
 			track_array.push(data);
 		}
-		
 		_gaq.push(track_array);
 	}
 }
@@ -135,21 +173,34 @@ ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
 var s = document.getElementsByTagName('script')[0];
 s.parentNode.insertBefore(ga, s);
 })();
-</script><!-- Start Kampyle Css -->
+</script>
+<!-- Start Kampyle Css -->
 <link rel="stylesheet" type="text/css" media="screen" href="/kampyle/css/k_button.css">
 <!-- End Kampyle Css -->
 
-</head>
-
+<script type="text/javascript" async="" defer="" src="https://my.nanorep.com/widget/scripts/float.js?account=goldmoney&amp;innerFrameUrl=http://www.goldmoney.com/nanorep/cdcRelay.html&amp;cdcVersion=3"></script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=52272769"></script></head>
 <body class="js">
+	
 <div id="top-of-page-anchor"></div>
 <input type="hidden" id="js_onlyNums" value="Please enter numbers only.">
 <input type="hidden" id="js_download" value="Download">
 <input type="hidden" id="js_hide" value="Hide">
 <input type="hidden" id="js_printVersion" value="Print version">
 
-<!--[if lte IE 6]><script src="http://www.goldmoney.com//template/english/js/ie6_warning/warning.js" type="text/javascript"></script><![endif]-->
-
+<!--[if lte IE 6]>
+<div id="ie6_warning_info" class="info_dialog" title="IE6 Warning" style="display: none;"><div id="ie6_warning_info_box"></div>	<table width="100%">		<tr>			<td><input type="checkbox" id="hide_next_time" value="1">&nbsp;Hide this message next time</td>			<td align="right"><a id="info_window_close" style="text-decoration: underline; cursor: pointer;">close this window</a></td>		</tr></table></div><script type="text/javascript">		$("#ie6_warning_info_box").html('<ifr' + 'ame width="763" height="525" frameborder="0" src="info-gs-ie6.html"></ifr' + 'ame>');
+		jQuery(document).ready(function($) {
+			if(gm_get_show_next_time_cookie() == false){
+				$( "div#ie6_warning_info" ).dialog({
+					width: 778, modal: true, beforeClose: function(event, ui) { gm_ie6_warning_close_window(); }
+				});
+			}
+			$("#info_window_close").click(function(){
+				$( "div#ie6_warning_info" ).dialog( "close" );
+			});
+		});
+</script>
+<![endif]-->
 
 <!-- PAGE WRAPPER -->
 
@@ -164,26 +215,30 @@ s.parentNode.insertBefore(ga, s);
 <!-- head -->
 <div id="head">
 		<div class="headimg">
-		<a title="GoldMoney. The best way to buy gold &amp; silver" href="http://www.goldmoney.com"><img src="http://www.goldmoney.com/template/english/images/logo.jpg" alt="GoldMoney. The best way to buy gold &amp; silver" width="194px" height="46px"></a>
+		<a title="GoldMoney. The best way to buy gold &amp; silver" href="http://www.goldmoney.com" id="logo_jpg" class="sprites_001"></a>
 	</div>
-	<div class="headgen">
+		<div id="live_person"><div id="lpButDivID-1336039322"></div></div>
+	<div id="contact_numbers4">Call us Monday to Friday, 9-17h (GMT+1)
+<br><a href="tel:1-855-583-4653">1-855-583-GOLD</a> (4653) USA &amp; CA
+<br><a href="tel:+44-1534-633-933">+44-1534-633-933</a> UK &amp; Int.</div>
+		<div class="headgen">
 		<div class="headsignin">
 			<table border="0" cellspacing="0" cellpadding="0" align="right">
 				<tbody><tr>
-					<td valign="middle" style="padding-right: 10px;"><font class="c333px12">Already a customer? <a href="https://secure.goldmoney.com/user/login.php">Sign in here</a></font></td>
-					<td style="padding-right: 20px;"><a href="https://secure.goldmoney.com/user/login.php"><img src="http://www.goldmoney.com/template/english/images/btn_login.png" alt="Login" width="17px" height="38px"></a></td>
-					<td><a href="https://secure.goldmoney.com/user/opnhld.php"><img src="http://www.goldmoney.com/template/english/images/btn_signup_new.gif" alt="Free Sign Up" width="110px" height="38px"></a></td>
+					<td valign="middle" style="padding-right: 10px;"><font class="c333px12"><a href="https://secure.goldmoney.com/user/login.php">Customer login</a></font></td>
+					<td style="padding-right: 10px;"><a href="https://secure.goldmoney.com/user/login.php" id="btn_login_png" class="sprites_001" alt="Login"></a></td>
+					<td><a href="https://secure.goldmoney.com/user/signup/phase1/step1?langid=0"><img src="http://www.goldmoney.com/template/english/images/btn_signup_new2.png" alt="Free Sign Up" width="100px" height="36px"></a></td>
 				</tr>
 			</tbody></table>
 		</div>
 				<div class="headsearch">
-			<form action="http://www.goldmoney.com/search.html" id="cse-search-box" class="search_text_box">
+			<form action="http://www.goldmoney.com/search.html" id="cse-search-box" class="search_text_box" method="post">
 				<div>
 					<input type="hidden" name="cx" value="011728765736798233088:zwrdttohb58">
 					<input type="hidden" name="cof" value="FORID:10">
 					<input type="hidden" name="ie" value="UTF-8">
-					<input type="text" name="q" id="q" autocomplete="off" size="35">
-					<input type="image" name="sa" src="http://www.goldmoney.com/template/english/images/search_button.png" alt="Search">
+					<input type="text" name="q" id="q" autocomplete="off" size="26" style="width: 148px;">
+					<input type="submit" name="sa" class="sprites_001" id="search_button_png" value="" alt="Search">
 				</div>
 			</form>
 		</div>
@@ -238,28 +293,6 @@ s.parentNode.insertBefore(ga, s);
 <li class="ddc2"><a href="/standardlifesipp.html" class="submenu">SIPP UK - Standard Life</a></li>
 <li class="ddc2"><a href="/gold-sipp.html" class="submenu">SIPP UK - Berkeley Burke</a></li>
 <li class="ddc2"><a href="/gold-ira-pension.html" class="submenu">IRA USA - Entrust Group</a></li>
-<li class="ddc-seperator">&nbsp;</li><li class="ddc1"><a href="/online-payments.html" class="submenu">Pay with Metals</a></li>
-</ul> <!-- end ul ddc1 -->
-</div> <!--end div menu-column -->
-
-					</div> <!--  end div : ddContainerLarge -->
-				</div>    <!--  end div : submenu-wrapper -->
-    		</td>
-    				<td>
-    			<a href="http://www.goldmoney.com/why-invest.html">
-    			    			    			Why Invest    			    			</a>
-				    			<div class="dropdown-menu-wrapper">
-						<div class="ddContainerLarge1" style="width:190px;">
-<div class="menu-column" style="width:190px;">
-<ul class="ddc1">
-<li class="ddc1"><a href="/preserve-purchasing-power.html" class="submenu">Preserve Your Purchasing Power</a></li>
-<li class="ddc1"><a href="/optimise-your-investments.html" class="submenu">Optimise Your Investments</a></li>
-<li class="ddc1"><a href="/guide-new-investors.html" class="submenu">Guide for New Investors</a></li>
-<li class="ddc-seperator">&nbsp;</li><li class="ddc1"><a href="/goldmoney-benefits.html" class="submenu">GoldMoney Benefits</a></li>
-<li class="ddc2"><a href="/complete-ownership.html" class="submenu">100% Ownership</a></li>
-<li class="ddc2"><a href="/metal-security.html" class="submenu">Security</a></li>
-<li class="ddc2"><a href="/quality-gold-silver.html" class="submenu">Quality</a></li>
-<li class="ddc2"><a href="/why-goldmoney-convenient.html" class="submenu">Convenience</a></li>
 <li class="ddc-seperator">&nbsp;</li></ul> <!-- end ul ddc1 -->
 </div> <!--end div menu-column -->
 
@@ -275,7 +308,7 @@ s.parentNode.insertBefore(ga, s);
 <ul class="ddc1">
 <li class="ddc1"><a href="/how-it-works.html" class="submenu">Overview</a></li>
 <li class="ddc-seperator">&nbsp;</li><li class="ddc1"><a href="/private-customers.html" class="submenu">Private Customers</a></li>
-<li class="ddc2"><a href="/australia-new-zealand-customers.html" class="submenu">Australia, New Zealand</a></li>
+<li class="ddc2"><a href="/australia-customers.html" class="submenu">Australia</a></li>
 <li class="ddc2"><a href="/belgium-customers.html" class="submenu">Belgium</a></li>
 <li class="ddc2"><a href="/canada-customers.html" class="submenu">Canada</a></li>
 <li class="ddc2"><a href="/china-customers.html" class="submenu">China</a></li>
@@ -285,7 +318,9 @@ s.parentNode.insertBefore(ga, s);
 <li class="ddc2"><a href="/india-customers.html" class="submenu">India</a></li>
 <li class="ddc2"><a href="/italy-customers.html" class="submenu">Italy</a></li>
 <li class="ddc2"><a href="/japan-customers.html" class="submenu">Japan</a></li>
+<li class="ddc2"><a href="/jersey-customers.html" class="submenu">Jersey</a></li>
 <li class="ddc2"><a href="/malaysia-customers.html" class="submenu">Malaysia</a></li>
+<li class="ddc2"><a href="/new-zealand-customers.html" class="submenu">New Zealand</a></li>
 <li class="ddc2"><a href="/panama-customers.html" class="submenu">Panama</a></li>
 <li class="ddc2"><a href="/singapore-hong-kong-customers.html" class="submenu">Singapore, Hong Kong</a></li>
 <li class="ddc2"><a href="/south-africa-customers.html" class="submenu">South Africa</a></li>
@@ -310,7 +345,36 @@ s.parentNode.insertBefore(ga, s);
 <li class="ddc2"><a href="/help-setup-bank-account.html" class="submenu">Setting Up Your Bank Account</a></li>
 <li class="ddc2"><a href="/help-remove-funds.html" class="submenu">Removing Funds</a></li>
 <li class="ddc-seperator">&nbsp;</li><li class="ddc1"><a href="/faq.html" class="submenu">FAQ</a></li>
-</ul> <!-- end ul ddc1 -->
+<li class="ddc2"><a href="/faq_group_about_goldmoney.html" class="submenu">About GoldMoney</a></li>
+<li class="ddc2"><a href="/faq_group_cap.html" class="submenu">CAP</a></li>
+<li class="ddc2"><a href="/faq_group_governance.html" class="submenu">Governance &amp; Regulation</a></li>
+<li class="ddc2"><a href="/faq_group_transfers_funds.html" class="submenu">Transfers and Funds</a></li>
+<li class="ddc2"><a href="/faq_group_buying_selling.html" class="submenu">Buying and Selling</a></li>
+<li class="ddc2"><a href="/faq_group_goldmoney_bars.html" class="submenu">GoldMoney Bars</a></li>
+<li class="ddc2"><a href="/faq_group_metal_storage.html" class="submenu">Metal Storage</a></li>
+<li class="ddc2"><a href="/faq_group_security.html" class="submenu">Security</a></li>
+<li class="ddc-seperator">&nbsp;</li></ul> <!-- end ul ddc1 -->
+</div> <!--end div menu-column -->
+
+					</div> <!--  end div : ddContainerLarge -->
+				</div>    <!--  end div : submenu-wrapper -->
+    		</td>
+    				<td>
+    			<a href="http://www.goldmoney.com/why-invest.html">
+    			    			    			Why Invest    			    			</a>
+				    			<div class="dropdown-menu-wrapper">
+						<div class="ddContainerLarge1" style="width:190px;">
+<div class="menu-column" style="width:190px;">
+<ul class="ddc1">
+<li class="ddc1"><a href="/preserve-purchasing-power.html" class="submenu">Preserve Your Purchasing Power</a></li>
+<li class="ddc1"><a href="/optimise-your-investments.html" class="submenu">Optimise Your Investments</a></li>
+<li class="ddc1"><a href="/guide-new-investors.html" class="submenu">Guide for New Investors</a></li>
+<li class="ddc-seperator">&nbsp;</li><li class="ddc1"><a href="/goldmoney-benefits.html" class="submenu">GoldMoney Benefits</a></li>
+<li class="ddc2"><a href="/complete-ownership.html" class="submenu">100% Ownership</a></li>
+<li class="ddc2"><a href="/metal-security.html" class="submenu">Security</a></li>
+<li class="ddc2"><a href="/quality-gold-silver.html" class="submenu">Quality</a></li>
+<li class="ddc2"><a href="/why-goldmoney-convenient.html" class="submenu">Convenience</a></li>
+<li class="ddc-seperator">&nbsp;</li></ul> <!-- end ul ddc1 -->
 </div> <!--end div menu-column -->
 
 					</div> <!--  end div : ddContainerLarge -->
@@ -343,7 +407,7 @@ s.parentNode.insertBefore(ga, s);
 </div> <!--end div menu-column -->
 <div class="menu-column" style="width:150px;">
 <ul class="ddc1">
-<li class="ddc1"><a href="/research-and-development.html" class="submenu">Research &amp; Development</a></li>
+<li class="ddc1"><a href="/pay-with-gold.html" class="submenu">Pay With Gold</a></li>
 <li class="ddc-seperator">&nbsp;</li><li class="ddc1"><a href="/certificates-and-reports.html" class="submenu">Certificates &amp; Reports</a></li>
 <li class="ddc2"><a href="/vault-reports.html" class="submenu">Vault Reports</a></li>
 <li class="ddc2"><a href="/audit-certificates.html" class="submenu">Audit Certificates</a></li>
@@ -383,6 +447,7 @@ s.parentNode.insertBefore(ga, s);
 <li class="ddc1"><a href="/gold-audio-podcasts.html" class="submenu">Podcasts</a></li>
 <li class="ddc1"><a href="/rss-subscribe.html" class="submenu">RSS</a></li>
 <li class="ddc1"><a href="/gold-events.html" class="submenu">Events</a></li>
+<li class="ddc1"><a href="/laboratory.html" class="submenu">GoldMoney Laboratory</a></li>
 <li class="ddc1"><a href="/goldmoney-foundation/home.html" class="submenu">GoldMoney Foundation</a></li>
 </ul> <!-- end ul ddc1 -->
 </div> <!--end div menu-column -->
@@ -400,18 +465,66 @@ s.parentNode.insertBefore(ga, s);
 <!-- / menu submenu bar -->
 
 <!-- breadcrumb -->
-	<div id="path"><div id="pathleft"><p><a href="/index.html">Home</a> &gt; Privacy Policy </p></div><div style="clear:both;"></div></div><!-- /breadcrumb -->
+	<div id="path"><div id="pathleft"><p><a href="/index.html">Home</a> &gt; Privacy Policy &amp; Cookies </p></div><div style="clear:both;"></div></div><!-- /breadcrumb -->
 <style type="text/css">
 /*-----------------------------------------------------------------------------------------
  								Template 3 - layout
 -----------------------------------------------------------------------------------------*/
-#template {width: 915px; margin-top: 15px;}
 #column {float: left; width: 915px; padding: 0; background-color: #fff;}
-.content-box {width: auto; border: 1px solid #aaa; margin-top: 6px; padding: 10px; background-color: #fff;}
 </style>
 	
 <div id="template">
-	<div id="column"><div style="float: right;"><a href="http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.goldmoney.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank"><img width="50" height="70" style="border: medium none;" src="http://privacy-policy.truste.com/certified-seal/ctv/en/www.goldmoney.com/seal_m.png" alt="Validate TRUSTe privacy certification"></a></div> <h1>Privacy Policy</h1> <p>Effective Date: 30 August 2011</p> <p>GoldMoney.com (GoldMoney) is owned by Net Transactions Limited. This privacy policy covers the collection and use of information collected on the GoldMoney.com website.</p> <p>GoldMoney has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a onclick="_gaq.push([ &amp;quot;_trackPageview&amp;quot;, &amp;quot;/outbound/www.truste.com/privacy-program-requirements/index.html&amp;quot; ]);" target="_blank" href="http://www.truste.com/privacy-program-requirements/index.html">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please <a href="/contact-us.html">contact us</a>.  If you are not satisfied with our response you can <a onclick="_gaq.push([ &amp;quot;_trackPageview&amp;quot;, &amp;quot;/outbound/watchdog.truste.com/pvr.php?page=complaint&amp;quot; ]);" target="_blank" href="http://watchdog.truste.com/pvr.php?page=complaint">contact TRUSTe here</a>. The TRUSTe program covers only information that is collected through this Web site.</p> <h2>Collection and Use of Personal Information</h2> <p>When you open a Holding with us, we collect the following personal information from you:</p> <ul> 	<li>Contact Information such as name, email address, mailing address and telephone number</li> 	<li>Unique Identifiers such as user name and password</li> </ul> <p>When you sign up for our Newsletter we collect your email address and name.</p> <p>As is true of most Web sites, but subject to your browser settings, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages and operating system.</p> <p>We use this information to:</p> <ul> 	<li>Improve our Web site and user experience</li> 	<li>Conduct research and analysis</li> </ul> <p></p> <h4>Choice/Opt-Out</h4> <p>You may choose to stop receiving our Newsletter by following the unsubscribe instructions included in these emails or by <a href="/contact-us.html">contacting us here</a>.</p> <h2>Information Sharing</h2> <p>GoldMoney will treat as confidential all information it holds in relation to a Customer where that information is not in the public domain. Subject to this Clause GoldMoney will not disclose such confidential information to third-parties.</p> <p>We will share your personal information with third parties only in the ways that are described in this privacy statement. We will not sell, rent, loan, trade or lease any of your personal information collected, including application forms, financial data or email addresses. GoldMoney may ask for your permission by email to disclose your personal data to service providers not affiliated with GoldMoney, but you have the right to refuse.</p> <p>We may provide your personal information to companies that provide services to help us with our business activities such as emailing newsletters or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.</p> <p>We will disclose otherwise confidential personal data and confidential information if we are compelled to do so by laws and regulations applicable to us and/or our agents, and whether in Jersey or elsewhere.</p> <h2>Cookies and Other Tracking Technologies</h2> <p></p> <h4>Log Files</h4> <p>As is true of most Web sites, but subject to your browser settings, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data.</p> <p>We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.</p> <p>We do not link this automatically-collected data to personally identifiable information.</p> <p>We use a third-party tracking service, Google Analytics, that uses cookies to track aggregate non-personally identifiable information about visitors to our site such as number of visits, searched pages and browser type to improve our website and customer experience.</p> <h4>Cookies</h4> <p>A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.</p> <p>We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. More information on <a onclick="_gaq.push([ &amp;quot;_trackPageview&amp;quot;, &amp;quot;/outbound/en.wikipedia.org/wiki/HTTP_cookie&amp;quot; ]);" target="_blank" href="http://en.wikipedia.org/wiki/HTTP_cookie">cookies can be found here</a>.</p> <p>We set a persistent cookie to store your preferred currency, language settings and affiliate code, which is a unique code associated to the website that referred you to GoldMoney. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.</p> <p>If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.</p> <h4>Other Third Party Tracking</h4> <p>Our third party advertising partner employs clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help us better manage content on our site by informing us what content is effective.  We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.</p> <h2>Security</h2> <p>The security of your personal information is important to us. When you enter sensitive information such as log-in credentials we encrypt the transmission of that information using secure socket layer technology (SSL).</p> <p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.</p> <p>If you have any questions about security on our Web site, please <a href="/contact-us.html">contact us</a>.</p> <p>For security reasons, we do not recommend saving your Holding number and Passphrase in your computer's memory (do not allow your browser to remember your Passphrase). Consequently, we advise entering your Holding number and Passphrase each time you begin a new browser session and wish to view your Holding. Please read our <a href="http://www.goldmoney.com/faq.html?faq_cat=10">Security FAQ</a> for important tips on accessing GoldMoney securely.</p> <h2>Additional Policy Information</h2> <p></p> <h4>Data Retention</h4> <p>We will retain your information for as long as your Holding is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact us. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.</p> <h4>Links to Other Web Sites</h4> <p>Our website includes links to other Web sites whose privacy practices may differ from those of GoldMoney. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.</p> <h4>Email a Friend</h4> <p>If you choose to use our service to email a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Your friend may contact our&nbsp;<a href="/contact-us.html">Relationship Management team</a> to request that we remove this information from our database.</p> <h4>Access to Personally Identifiable Information</h4> <p>If your personally identifiable information changes, you may correct, update or amend it by contacting our <a href="/contact-us.html">Relationship Management team</a>.</p> <p>We will respond to your request generally within one business day.</p> <h4>Notification of Privacy Statement Changes</h4> <p>We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your Holding) or by means of a notice on this website prior to the change becoming effective.</p> <h2>Contact Information</h2> <p>You can contact us by writing us at the address below or by <a href="/contact-us.html">contacting our Relationship Management team</a>.</p> <p><b>Jersey Office Address </b> <br> Net Transactions Limited  <br> 1st Floor  <br> 32 Commercial Street  <br> St Helier, Jersey  <br> JE2 3RU <br> British Channel Islands (UK)</p></div>
+	<div id="column"><div style="float: right;"><a target="_blank" title="Validate TRUSTe privacy certification" href="http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.goldmoney.com/seal_m"><img width="50" height="70" alt="Validate TRUSTe privacy certification" src="http://privacy-policy.truste.com/certified-seal/ctv/en/www.goldmoney.com/seal_m.png" style="border: medium none;"></a></div>
+ <h1>Privacy Policy</h1>
+ <p>Effective Date: 30 August 2011</p>
+ <p>GoldMoney.com (GoldMoney) is owned by Net Transactions Limited. This privacy policy covers the collection and use of information collected on the GoldMoney.com website.</p>
+ <p>GoldMoney has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/index.html" target="_blank" onclick="_gaq.push([ '_trackPageview', '/outbound/www.truste.com/privacy-program-requirements/index.html' ]);">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please <a href="http://www.goldmoney.com/contact-us.html">contact us</a>.  If you are not satisfied with our response you can <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank" onclick="_gaq.push([ '_trackPageview', '/outbound/watchdog.truste.com/pvr.php?page=complaint' ]);">contact TRUSTe here</a>. The TRUSTe program covers only information that is collected through this Web site.</p>
+ <h2>Collection and Use of Personal Information</h2>
+ <p>When you open a Holding with us, we collect the following personal information from you:</p>
+ <ul> 	<li>Contact Information such as name, email address, mailing address and telephone number</li> 	<li>Unique Identifiers such as user name and password</li> </ul> <p>When you sign up for our Newsletter we collect your email address and name.</p>
+ <p>As is true of most Web sites, but subject to your browser settings, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages and operating system.</p>
+ <p>We use this information to:</p>
+ <ul> 	<li>Improve our Web site and user experience</li> 	<li>Conduct research and analysis</li> </ul> <p></p>
+ <h4>Choice/Opt-Out</h4> <p>You may choose to stop receiving our Newsletter by following the unsubscribe instructions included in these emails or by <a href="http://www.goldmoney.com/contact-us.html">contacting us here</a>.</p>
+ <h2>Information Sharing</h2>
+ <p>GoldMoney will treat as confidential all information it holds in relation to a Customer where that information is not in the public domain. Subject to this Clause GoldMoney will not disclose such confidential information to third-parties.</p>
+ <p>We will share your personal information with third parties only in the ways that are described in this privacy statement. We will not sell, rent, loan, trade or lease any of your personal information collected, including application forms, financial data or email addresses. GoldMoney may ask for your permission by email to disclose your personal data to service providers not affiliated with GoldMoney, but you have the right to refuse.</p>
+ <p>We may provide your personal information to companies that provide services to help us with our business activities such as emailing newsletters or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.</p>
+ <p>We will disclose otherwise confidential personal data and confidential information if we are compelled to do so by laws and regulations applicable to us and/or our agents, and whether in Jersey or elsewhere.</p>
+ <h2>Cookies and Other Tracking Technologies</h2>
+ <p></p>
+ <h4>Log Files</h4> <p>As is true of most Web sites, but subject to your browser settings, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data.</p>
+ <p>We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.</p>
+ <p>We do not link this automatically-collected data to personally identifiable information.</p>
+ <p>We use a third-party tracking service, Google Analytics, that uses cookies to track aggregate non-personally identifiable information about visitors to our site such as number of visits, searched pages and browser type to improve our website and customer experience.</p>
+ <h4>Cookies</h4> <p>A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.</p>
+ <p>We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. More information on <a href="http://en.wikipedia.org/wiki/HTTP_cookie" target="_blank" onclick="_gaq.push([ '_trackPageview', '/outbound/en.wikipedia.org/wiki/HTTP_cookie' ]);">cookies can be found here</a>.</p>
+ <p>We set a persistent cookie to store your preferred currency, language settings and affiliate code, which is a unique code associated to the website that referred you to GoldMoney. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.</p>
+ <p>If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.</p>
+ <h4>Other Third Party Tracking</h4> <p>Our third party advertising partner employs clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help us better manage content on our site by informing us what content is effective.  We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.</p>
+ <h2>Security</h2>
+ <p>The security of your personal information is important to us. When you enter sensitive information such as log-in credentials we encrypt the transmission of that information using secure socket layer technology (SSL).</p>
+ <p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.</p>
+ <p>If you have any questions about security on our Web site, please <a href="http://www.goldmoney.com/contact-us.html">contact us</a>.</p>
+ <p>For security reasons, we do not recommend saving your Holding number and Passphrase in your computer's memory (do not allow your browser to remember your Passphrase). Consequently, we advise entering your Holding number and Passphrase each time you begin a new browser session and wish to view your Holding. Please read our <a href="http://www.goldmoney.com/faq.html?faq_cat=10">Security FAQ</a> for important tips on accessing GoldMoney securely.</p>
+ <h2>Additional Policy Information</h2>
+ <p></p>
+ <h4>Data Retention</h4> <p>We will retain your information for as long as your Holding is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact us. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.</p>
+ <h4>Links to Other Web Sites</h4> <p>Our website includes links to other Web sites whose privacy practices may differ from those of GoldMoney. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.</p>
+ <h4>Email a Friend</h4> <p>If you choose to use our service to email a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Your friend may contact our&nbsp;<a href="http://www.goldmoney.com/contact-us.html">Relationship Management team</a> to request that we remove this information from our database.</p>
+ <h4>Access to Personally Identifiable Information</h4> <p>If your personally identifiable information changes, you may correct, update or amend it by contacting our <a href="http://www.goldmoney.com/contact-us.html">Relationship Management team</a>.</p>
+ <p>We will respond to your request generally within one business day.</p>
+ <h4>Notification of Privacy Statement Changes</h4> <p>We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your Holding) or by means of a notice on this website prior to the change becoming effective.</p>
+ <h2>Contact Information</h2>
+ <p>You can contact us by writing us at the address below or by <a href="http://www.goldmoney.com/contact-us.html">contacting our Relationship Management team</a>.</p>
+ <p><b>Jersey Office Address </b> <br>
+ Net Transactions Limited  <br>
+ 1st Floor  <br>
+ 32 Commercial Street  <br>
+ St Helier, Jersey  <br>
+ JE2 3RU <br>
+ British Channel Islands (UK)</p>
+</div>
 </div>
 
 <!-- foot -->
@@ -451,13 +564,17 @@ s.parentNode.insertBefore(ga, s);
 <a href="/standardlifesipp.html" class="menu_level_2 ">SIPP UK - Standard Life</a>
 <a href="/gold-sipp.html" class="menu_level_2 ">SIPP UK - Berkeley Burke</a>
 <a href="/gold-ira-pension.html" class="menu_level_2 ">IRA USA - Entrust Group</a>
-<br><a href="/online-payments.html" class="menu_level_1 ">Pay with Metals</a>
-					</div> <!--  end div : foot-menu-column-left-1-2 -->
+<br>					</div> <!--  end div : foot-menu-column-left-1-2 -->
 
 				</div> <!--  end div : foot-menu-column-left-1 -->
 
 				<div id="foot-menu-column-left-2">
-					<a href="/why-invest.html" class="menu_level_0 ">Why Invest</a>
+					<a href="/how-it-works.html" class="menu_level_0 ">How It Works</a>
+<a href="/private-customers.html" class="menu_level_2 ">Private Customers</a>
+<a href="/corporate-customers.html" class="menu_level_2 ">Corporate Customers</a>
+<a href="/help.html" class="menu_level_2 ">Tutorials</a>
+<a href="/faq.html" class="menu_level_2 ">FAQ</a>
+<br><a href="/why-invest.html" class="menu_level_0 ">Why Invest</a>
 <a href="/preserve-purchasing-power.html" class="menu_level_2 ">Preserve your Purchasing Power</a>
 <a href="/optimise-your-investments.html" class="menu_level_2 ">Optimise Your Investments</a>
 <a href="/guide-new-investors.html" class="menu_level_2 ">Guide to New Investors</a>
@@ -467,21 +584,18 @@ s.parentNode.insertBefore(ga, s);
 <a href="/metal-security.html" class="menu_level_2 ">Security</a>
 <a href="/quality-gold-silver.html" class="menu_level_2 ">Quality</a>
 <a href="/why-goldmoney-convenient.html" class="menu_level_2 ">Convenience</a>
-<br><a href="/gold-research.html" class="menu_level_0 ">Gold Research</a>
+<br>				</div> <!--  end div : foot-menu-column-left-2 -->
+
+				<div id="foot-menu-column-left-3">
+					<a href="/gold-research.html" class="menu_level_0 ">Gold Research</a>
 <a href="/gold-research-news.html" class="menu_level_2 ">News</a>
 <a href="/gold-research-analysis.html" class="menu_level_2 ">Analysis</a>
 <a href="/gold-charts.html" class="menu_level_2 ">Charts</a>
 <a href="/gold-research-videos.html" class="menu_level_2 ">Videos</a>
+<a href="/gold-audio-podcasts.html" class="menu_level_2 ">Podcasts</a>
 <a href="/rss-subscribe.html" class="menu_level_2 ">RSS</a>
+<a href="/laboratory.html" class="menu_level_2 ">GoldMoney Laboratory</a>
 <a href="/gold-events.html" class="menu_level_2 ">Events</a>
-<br>				</div> <!--  end div : foot-menu-column-left-2 -->
-
-				<div id="foot-menu-column-left-3">
-					<a href="/how-it-works.html" class="menu_level_0 ">How It Works</a>
-<a href="/private-customers.html" class="menu_level_2 ">Private Customers</a>
-<a href="/corporate-customers.html" class="menu_level_2 ">Corporate Customers</a>
-<a href="/help.html" class="menu_level_2 ">Tutorials</a>
-<a href="/faq.html" class="menu_level_2 ">FAQ</a>
 <br><a href="/about-us.html" class="menu_level_0 ">About GoldMoney</a>
 <a href="/mission.html" class="menu_level_2 ">Mission</a>
 <a href="/history.html" class="menu_level_2 ">History</a>
@@ -489,7 +603,7 @@ s.parentNode.insertBefore(ga, s);
 <a href="/organisation.html" class="menu_level_2 ">Organisation</a>
 <a href="/goldmoney-foundation/home.html" class="menu_level_2 ">GoldMoney Foundation</a>
 <a href="/press-room.html" class="menu_level_2 ">Press Room</a>
-<a href="/research-and-development.html" class="menu_level_2 ">Research and Development</a>
+<a href="/pay-with-gold.html" class="menu_level_2 ">Pay With Gold</a>
 <a href="/affiliate-programme.html" class="menu_level_2 ">Affiliate Programme</a>
 <a href="/partners.html" class="menu_level_2 ">Partners</a>
 <a href="/certificates-and-reports.html" class="menu_level_2 ">Certificates &amp; Reports</a>
@@ -499,7 +613,7 @@ s.parentNode.insertBefore(ga, s);
 				<div id="foot-menu-column-left-4">
 					<a href="/contact-us.html" class="menu_level_0 ">Contact Us</a>
 <a href="/fees.html" class="menu_level_0 ">Fees</a>
-<a href="/privacy-policy.html" class="menu_level_0 ">Privacy Policy</a>
+<a href="/privacy-policy.html" class="menu_level_0 ">Privacy Policy &amp; Cookies</a>
 <a href="/disclaimer.html" class="menu_level_0 ">Disclaimer</a>
 <a href="/customer-agreement.html" class="menu_level_0 ">Customer Agreement</a>
 <a href="/sitemap.html" class="menu_level_0 ">Sitemap</a>
@@ -507,55 +621,71 @@ s.parentNode.insertBefore(ga, s);
 			</div> <!--  end div : foot-column-left -->
 
 			<div id="foot-column-right">
-				<ul>
-					<li><font class="px12upbld">Connect with us</font></li>
-					<li><a href="/rss-subscribe.html?langid=0" title="Subscribe To RSS FEED"><img src="/template/english/images/icons/rss.png" alt="Subscribe To RSS FEED" width="18px" height="18px"></a>&nbsp;<a href="/rss-subscribe.html?langid=0" title="Subscribe To RSS FEED"><u>RSS</u></a>
-</li>
-				</ul>
-				<table width="100%" style="padding-bottom: 5px;">
+				<table>
 					<tbody><tr>
-						<td><a href="http://www.youtube.com/user/GoldMoneyNews" onclick="_gaq.push(['_trackEvent', 'widgets', 'Link to YouTube']);" target="_blank"><img src="/template/english/images/youtube_icon.jpg" alt="GoldMoney on YouTube" title="GoldMoney on YouTube" style="margin: 0;"></a>
+						<td valign="middle" class="rss_text"><font class="px12upbld">Connect with us</font></td>
+					</tr>
+				</tbody></table>
+				<table width="100%" style="padding-bottom: 10px; padding-top: 0;">
+					<tbody><tr style="height: 35px;">
+						<td width="55" style="padding-bottom: 5px;"><a href="/rss-subscribe.html?langid=0" title="Subscribe To RSS FEED" style="display: inline-block;" alt="Subscribe To RSS FEED"><img src="/template/english/images/icons/rss.png" alt="Subscribe To RSS FEED" width="25" height="25"></a>
+&nbsp;<a href="/rss-subscribe.html?langid=0" title="Subscribe To RSS FEED" style="vertical-align: super;" id="rss_text"><u>RSS</u></a>
 </td>
-						<td><a onclick="_gaq.push([ '_trackPageview', '/outbound/www.flickr.com/goldmoneynews' ]);" href="http://www.flickr.com/goldmoneynews" target="_blank"><img width="40" height="40" src="/images/icons/flickr_logo.png"></a>
-</td>
-						<td><a onclick="_gaq.push([ '_trackPageview', '/outbound/www.facebook.com/pages/GoldMoney/255272643187' ]);" href="http://www.facebook.com/pages/GoldMoney/255272643187" target="_blank"><img width="40" height="40" src="/images/icons/facebook_logo.png"></a>
-</td>
-						<td><a onclick="_gaq.push([ '_trackPageview', '/outbound/www.linkedin.com/groups?about=&amp;gid=2673600' ]);" href="http://www.linkedin.com/groups?about=&amp;gid=2673600" target="_blank"><img width="40" height="40" src="/images/icons/linkedin_logo.png"></a>
+						<td align="left"><table><tbody><tr><td>
+<a onclick="_gaq.push([ '_trackPageview', '/outbound/www.facebook.com/pages/GoldMoney/255272643187' ]);" href="http://www.facebook.com/pages/GoldMoney/255272643187" target="_blank" id="facebookLikeIcon" class="sprites_001">
+</a>
+</td><td>
+<div id="facebookLikeText" class="sprites_001">&gt;2.3k</div>
+</td></tr></tbody></table>
 </td>
 					</tr>
 				</tbody></table>
 				<table width="100%" style="padding-bottom: 5px;">
 					<tbody><tr>
-						<td><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-<script type="text/javascript">
-if((window.twitterTrackEvent_follow) !== true) {
-twitterTrackEvent_follow = function(intent_event) {
-if (intent_event) {
-_gaq.push(['_trackEvent', 'widgets', 'Twitter follow button from page: privacy-policy']);
-};
-}
-$(document).ready(function(){
-twttr.events.bind('follow', twitterTrackEvent_follow);
-});
-};
-</script>
-<a href="http://twitter.com/GoldMoneyNews" data-lang="en" class="twitter-follow-button">Follow @GoldMoneyNews</a>
+						<td><table><tbody><tr><td>
+<a onclick="_gaq.push([ '_trackPageview', '/outbound/twitter.com/GoldMoneyNews' ]);" href="http://twitter.com/GoldMoneyNews" target="_blank" id="twitterFollowIcon" class="sprites_001">
+</a>
+</td><td>
+<div id="twitterFollowText" class="sprites_001">&gt;26k Followers</div>
+</td></tr></tbody></table>
+</td>
+					</tr>
+				</tbody></table>
+				<table width="100%" style="padding-bottom: 5px;">
+					<tbody><tr>
+						<td><a href="http://www.youtube.com/user/GoldMoneyNews" onclick="_gaq.push(['_trackEvent', 'widgets', 'Link to YouTube']);" target="_blank" id="youtube_icon_jpg" class="sprites_001" alt="GoldMoney on YouTube" title="GoldMoney on YouTube"></a>
+</td>
+						<td><a onclick="_gaq.push([ '_trackPageview', '/outbound/www.linkedin.com/groups?about=&amp;gid=2673600' ]);" href="http://www.linkedin.com/groups?about=&amp;gid=2673600" target="_blank" id="linkedin_logo_png" class="sprites_001">
+</a>
+</td>
+						<td><a onclick="_gaq.push([ '_trackPageview', '/outbound/www.flickr.com/goldmoneynews' ]);" href="http://www.flickr.com/goldmoneynews" target="_blank">
+   <img src="/template/english/images/icons/flickr.png">
+</a>
+</td>
+						<td><table><tbody><tr><td>
+<a onclick="_gaq.push([ '_trackPageview', '/outbound/plus.google.com/114815572034471682746/posts' ]);" href="https://plus.google.com/114815572034471682746/posts" target="_blank" id="googlePlusFollowIcon" class="sprites_001">
+</a>
+</td><td>
+<div id="googlePlusFollowText" class="sprites_001">&gt;50</div>
+</td></tr></tbody></table>
 </td>
 					</tr>
 				</tbody></table>
 				<table width="100%" style="border-top: 1px solid #CCC; border-bottom: 1px solid #CCC;">
 					<tbody><tr>
-						<td><script type="text/javascript" "_trackpageview"="">dn="www.goldmoney.com";tpt="opaque";vrsn_style="WW";splash_url="https://trustsealinfo.verisign.com";seal_url="https://seal.verisign.com";u1=splash_url+"/splash?form_file=fdf/splash.fdf&dn="+dn;u2=seal_url+"/getseal?at=0&sealid=2&dn="+dn;var sopener;function vrsn_splash(){if(sopener&&!sopener.closed){sopener.focus();}else{tbar="location=yes,status=yes,resizable=yes,scrollbars=yes,width=560,height=500";var sw=window.open(u1,'VRSN_Splash',tbar);if(sw){sw.focus();sopener=sw;}}}var ver=-1;var v_ua=navigator.userAgent.toLowerCase();var re=new RegExp("msie ([0-9]{1,}[\.0-9]{0,})");if(re.exec(v_ua)!==null){ver=parseFloat(RegExp.$1);}var v_old_ie=(v_ua.indexOf("msie")!=-1);if(v_old_ie){v_old_ie=ver<5;}function v_mact(e){var s;if(document.addEventListener){s=(e.target.name=="seal");if(s){vrsn_splash();return false;}}else if(document.captureEvents){var tgt=e.target.toString();s=(tgt.indexOf("splash")!=-1);if(s){vrsn_splash();return false;}}return true;}function v_mDown(event){if(document.addEventListener){return true;}event=event||window.event;if(event){if(event.button==1){if(v_old_ie){return true;}else{vrsn_splash();return false;}}else if(event.button==2){vrsn_splash();return false;}}else{return true;}}document.write("<a HREF=\"javascript:vrsn_splash()\" \"_trackPageview\" tabindex=\"-1\"><IMG NAME=\"seal\" BORDER=\"true\" SRC=\""+u2+"\" oncontextmenu=\"return false;\" alt=\"Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security\"></A>");if((v_ua.indexOf("msie")!=-1)&&(ver>=7)){var plat=-1;var re=new RegExp("windows nt ([0-9]{1,}[\.0-9]{0,})");if(re.exec(v_ua)!==null){plat=parseFloat(RegExp.$1);}if((plat>=5.1)&&(plat!=5.2)){document.write("<div style='display:none'>");document.write("<img src='https://extended-validation-ssl.verisign.com/dot_clear.gif'/>");document.write("</div>");}}if(document.addEventListener){document.addEventListener('mouseup',v_mact,true);}else{if(document.layers){document.captureEvents(Event.MOUSEDOWN);document.onmousedown=v_mact;}}function v_resized(){if(pageWidth!=innerWidth||pageHeight!=innerHeight){self.history.go(0);}}if(document.layers){pageWidth=innerWidth;pageHeight=innerHeight;window.onresize=v_resized;}</script><a href="javascript:vrsn_splash()" "_trackpageview"="" tabindex="-1"><img name="seal" border="true" src="https://seal.verisign.com/getseal?at=0&amp;sealid=2&amp;dn=www.goldmoney.com" oncontextmenu="return false;" alt="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security"></a></td>
-						<td><a href="//privacy-policy.truste.com/click-with-confidence/ctv/en/www.goldmoney.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/certified-seal/ctv/en/www.goldmoney.com/seal_m.png" alt="Validate TRUSTe privacy certification" width="50" height="70"></a></td>
+						<td><script type="text/javascript">
+dn="www.goldmoney.com";tpt="opaque";vrsn_style="WW";splash_url="https://trustsealinfo.verisign.com";seal_url="https://seal.verisign.com";u1=splash_url+"/splash?form_file=fdf/splash.fdf&dn="+dn;u2=seal_url+"/getseal?at=0&sealid=2&dn="+dn;var sopener;function vrsn_splash(){if(sopener&&!sopener.closed){sopener.focus();}else{tbar="location=yes,status=yes,resizable=yes,scrollbars=yes,width=560,height=500";var sw=window.open(u1,'VRSN_Splash',tbar);if(sw){sw.focus();sopener=sw;}}}var ver=-1;var v_ua=navigator.userAgent.toLowerCase();var re=new RegExp("msie ([0-9]{1,}[\.0-9]{0,})");if(re.exec(v_ua)!==null){ver=parseFloat(RegExp.$1);}var v_old_ie=(v_ua.indexOf("msie")!=-1);if(v_old_ie){v_old_ie=ver<5;}function v_mact(e){var s;if(document.addEventListener){s=(e.target.name=="seal");if(s){vrsn_splash();return false;}}else if(document.captureEvents){var tgt=e.target.toString();s=(tgt.indexOf("splash")!=-1);if(s){vrsn_splash();return false;}}return true;}function v_mDown(event){if(document.addEventListener){return true;}event=event||window.event;if(event){if(event.button==1){if(v_old_ie){return true;}else{vrsn_splash();return false;}}else if(event.button==2){vrsn_splash();return false;}}else{return true;}}document.write("<a HREF=\"javascript:vrsn_splash()\" \"_trackPageview\" tabindex=\"-1\"><IMG NAME=\"seal\" BORDER=\"true\" SRC=\"/template/english/images/norton.jpg\" oncontextmenu=\"return false;\" alt=\"Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security\"></A>");if((v_ua.indexOf("msie")!=-1)&&(ver>=7)){var plat=-1;var re=new RegExp("windows nt ([0-9]{1,}[\.0-9]{0,})");if(re.exec(v_ua)!==null){plat=parseFloat(RegExp.$1);}if((plat>=5.1)&&(plat!=5.2)){document.write("<div style='display:none'>");document.write("<img src='/template/english/images/norton.jpg'/>");document.write("</div>");}}if(document.addEventListener){document.addEventListener('mouseup',v_mact,true);}else{if(document.layers){document.captureEvents(Event.MOUSEDOWN);document.onmousedown=v_mact;}}function v_resized(){if(pageWidth!=innerWidth||pageHeight!=innerHeight){self.history.go(0);}}if(document.layers){pageWidth=innerWidth;pageHeight=innerHeight;window.onresize=v_resized;}</script><a href="javascript:vrsn_splash()" "_trackpageview"="" tabindex="-1"><img name="seal" border="true" src="/template/english/images/norton.jpg" oncontextmenu="return false;" alt="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security"></a></td>
+						<td>
+							<div id="e99cfc85-1209-4d39-9e9c-32bbd29e5f01">
+								<script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Net-Transactions-Limited/asc?rid=e99cfc85-1209-4d39-9e9c-32bbd29e5f01"></script>
+								<a href="//privacy.truste.com/privacy-seal/Net-Transactions-Limited/validation?rid=159a0451-365c-40f7-8ded-c35e96af1b84" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/certified-seal/ctv/en/www.goldmoney.com/seal_m.png" alt="TRUSTe online privacy certification" width="50" height="70"></a>
+							</div>
+						</td>
 						<td><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.goldmoney.com"><img width="85" height="45" border="0" src="//images.scanalert.com/meter/www.goldmoney.com/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a></td>
 					</tr>
-<!--					<tr>
-						<td class="c333px12">VeriSign identity protection</td>
-						<td class="c333px12">Certified privicy</td>
-						<td class="c333px12">Proven security</td>
-					</tr> -->
 				</tbody></table>
-				<p>Net Transactions Limited<br>1st Floor • 32 Commercial Street • St Helier<br>Jersey, JE2 3RU • British Channel Islands (UK)<br><br>Copyright  © 2001-2011 Net Transactions Limited (Jersey, British Channel Islands)<br><br>GoldMoney is the Registered Business Name of Net Transactions Limited which is regulated by the Jersey Financial Services Commission under the Financial Services (Jersey) Law 1998.</p>
+				
+				<p>Net Transactions Limited<br>1st Floor • 32 Commercial Street • St Helier<br>Jersey, JE2 3RU • British Channel Islands (UK)<br><br>Copyright  © 2001-2012 Net Transactions Limited (Jersey, British Channel Islands)<br><br>GoldMoney is the Registered Business Name of Net Transactions Limited which is regulated by the Jersey Financial Services Commission under the Financial Services (Jersey) Law 1998.</p>
 			</div> <!--  end div : foot-column-right -->
 
 			<div style="float: right; display: block;">
@@ -568,6 +698,21 @@ twttr.events.bind('follow', twitterTrackEvent_follow);
   </div> <!--  end div : foot -->
   <!-- /foot -->
  </div>
+
+<!-- Load javascript files after main body is loaded -->
+<script type="text/javascript" src="/js/gm-js-scripts-002.min.js"></script>
+
+<!--Start Nano Rep-->
+	<div id="nanoRepProxyContainer" style="z-index: 100;"><a href="http://www.nanorep.com" style="font-size:12px;color:#000;" title="nanoRep customer support software">Loading nanoRep customer support software</a></div>
+	<script type="text/javascript">
+	var _nRepData = _nRepData || [];
+	_nRepData['float'] = new Array();
+	_nRepData['float']['bgColor'] = '#268cd4';
+	/* API here */;
+	(function(){var windowLoadFunc = function(){var _nRepData = window._nRepData || [];_nRepData['windowLoaded'] = true;if (typeof(_nRepData['windowOnload']) === 'function') _nRepData['windowOnload']();};if (window.attachEvent)window.attachEvent('onload', windowLoadFunc);else if (window.addEventListener)window.addEventListener('load', windowLoadFunc, false);var sc = document.createElement('script');sc.type = 'text/javascript';sc.async = true;sc.defer = true;sc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'my.nanorep.com/widget/scripts/float.js?account=goldmoney&innerFrameUrl=http://www.goldmoney.com/nanorep/cdcRelay.html&cdcVersion=3'; var _head = document.getElementsByTagName('head')[0];_head.appendChild(sc);})();
+	</script>
+<!--End Nano Rep-->
+
 <!--  Google Custom Site Search -->
 <script type="text/javascript" src="http://www.google.com/jsapi"></script>
 <script type="text/javascript">
@@ -581,14 +726,18 @@ twttr.events.bind('follow', twitterTrackEvent_follow);
 </script>
 <!--  End: Google Custom Site Search -->
 <!-- Google Search branding : <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=en"></script> -->
-
 <!--Start Kampyle Feedback Form Button-->
-<div id="k_close_button" class="k_float k_middle kc_right" style="display: block;">X</div>
+<div id="k_close_button" class="k_float k_middle kc_right" style="z-index: 10; display: block;">X</div>
 <div><a href="http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=2771913&amp;lang=en&amp;form_id=61835" target="kampyleWindow" id="kampylink" class="k_float k_middle k_right" onclick="javascript:k_button.open_ff('site_code=2771913&amp;lang=en&amp;form_id=61835');return false;"><img src="/kampyle/images/feedback_EN.png" alt="Feedback Form" border="0"></a></div>
 <a href="#" style="display:none" target="kampyleWindow" id="k_popup_link" onclick="javascript:k_button.open_ff('site_code=2771913&amp;form_id=62319&amp;lang=en');return false;"></a>
 <script src="/kampyle/js/k_button.js" type="text/javascript"></script>
-<script src="/kampyle/js/k_push.js" type="text/javascript"></script>
 <!--End Kampyle Feedback Form Button-->
+
+<!-- BEGIN LivePerson Button Code -->
+<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/52272769/?cmd=mTagRepstate&amp;site=52272769&amp;buttonID=15&amp;divID=lpButDivID-1336039322&amp;bt=1&amp;c=1"></script>
+<!-- END LivePerson Button code -->
+
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "52272769",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
 
 
 </body></html>
