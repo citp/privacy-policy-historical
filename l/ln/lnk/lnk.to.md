@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lnk.to privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101064648id_/http%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lnk.to privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621074503id_/https%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
 
-# bitly | shorten, share and track your links
+# bitly | ♥ your bitmarks
 
 ### Bitly Privacy Policy
 
@@ -154,6 +154,6 @@ Bitly may amend this Privacy Policy from time to time. Use of information we col
 
 ### What If I Have Questions or Concerns?
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to: [privacy@bitly.com](mailto:privacy@bitly.com). We will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to: [support@bitly.com](mailto:support@bitly.com). We will make every effort to resolve your concerns. 
 
 Effective Date: June 14, 2011. 
