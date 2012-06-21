@@ -1,76 +1,42 @@
-> *The following text is extracted and transformed from the hardwarezone.com.my privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617021500id_/http%3A//www.hardwarezone.com.my/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwarezone.com.my privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621164730id_/http%3A//sph.com.sg/legal/sph_privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - HardwareZone.com.my
+# Singapore Press Holdings | Media Kit
 
-HardwareZone.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices. 
+**SPH Privacy Policy**
 
-**Information Automatically Logged**  
-We use your IP address to help diagnose problems with our server and to administer our Website. Your IP address is also used to gather broad demographic information, and for other purposes. Logged IP address is used to track users as and when necessary, for example, when member has violated our [Terms of Service](https://web.archive.org/pages/tos) or when required by law. 
+This Privacy Policy applies to all information collected by Singapore Press Holdings Ltd and/or its related entities, affiliates and subsidiaries (individually and collectively, " **SPH** ") under **Clause 1** below. 
 
-**1\. Cookies**  
-Our Website uses cookies to keep track of your shopping cart, and to deliver content specific to your interests. We also use cookies to save your password so you don't have to re-enter it each time you visit our site. 
+For the purpose of this Policy, “ **we** ” and “ **our** ” shall refer to SPH. 
 
-**2\. Advertisers**  
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Website, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
-
-**3\. Registration Forms**  
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), unique identifiers (like their NRIC number/social security number), and demographic information (like their zip code, age, or income level). 
-
-Contact information from the registration forms is used to send material about our website. The member's contact information is also used to send promotional material from some of our partners to our members, and to get in touch with the member when necessary. 
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-Unique identifiers (such as NRIC number/social security numbers) are collected from Website visitors for use as account numbers in our record system. 
-
-Demographic and profile data is also collected at our site. 
-
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-**4\. Surveys**  
-Our online surveys ask visitors for contact information (like email address), unique identifiers (like NRIC number/social security number), and demographic information (like zip code, age, or income level). 
-
-Contact information from the surveys is used to send material about our website. The member's contact information is also used to send promotional material from some of our members to our customers, and to get in touch with the member when necessary. 
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-Unique identifiers (such as NRIC number/social security numbers) are collected from Website visitors for use as account numbers in our record system. 
-
-Demographic and profile data is also collected at our site.  
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-**5\. Contests**  
-We run contests on our site in which we ask visitors for contact information (like email address), unique identifiers (like NRIC number/social security number), and demographic information (like postal code, age, or income level). 
-
-Contact information from the contests is used to send material about our website. The member's contact information is also used to send promotional material from some of our members to our customers, and to get in touch with the member when necessary. 
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-Unique identifiers (such as NRIC number/social security numbers) are collected from Website visitors for use as account numbers in our record system. 
-
-Demographic and profile data is also collected at our site. 
-
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-**6\. External Links**  
-This site contains links to other sites. HardwareZone.com is not responsible for the privacy practices or the content of such Websites. 
-
-**7\. Discussion Forums**  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-**8\. Children's Guidelines**  
-This site DOES NOT MEET the Online Privacy Protection Act guidelines. The following criteria are violated: 
-
-This site allows children to post or distribute any personally identifiable information without first obtaining verifiable parental consent.  
-This site does not provide children notice of what information is collected.  
-This site does not encourage children to get their parent's permission before sharing personal information online.  
-This site does not allow the parent to obtain the information collected from the child and provide a way for the parent to prevent the future use of that information. 
-
-**9\. Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us. You can visit the following URLs:  
-[Singapore members](http://forums.hardwarezone.com.sg/profile.php?do=editprofile)  
-[Malaysia members](http://forums.hardwarezone.com.my/profile.php?do=editprofile)  
-[Australia members](http://www.hardwarezone.com.au/forums/profile.php?do=editprofile)  
-_Note: You will need to have your username and password ready._
-
-**10\. Contacting the Website**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact: [admin@hardwarezone.com](mailto:admin@hardwarezone.com)
+| **1.** | **When is information collected from you?**  
+---|---  
+**1.1** | When you register for or use any of our services on websites owned and/or operated by us.  
+**1.2** | When you take part in any contest, survey or promotion conducted by us and/or our business partners.  
+**1.3** | When you register as a member of websites owned and/or operated by us, or hosted by us on behalf of our business partners or use services on such websites.   
+  |    
+**2.** | **What is the information used for?** ****  
+**2.1** | Information which you provide to us may be used and disclosed by us and our affiliates, business partners and contractors (who may be based outside Singapore) for the following purposes:  
+  |  | **2.1.1** | to respond to your requests and queries;  
+---|---  
+**2.1.2** | to provide goods and services to you;  
+**2.1.3** | to verify and process your personal particulars and payments;  
+**2.1.4** | to communicate with you;  
+**2.1.5** | to enforce contractual and legal rights and obligations;  
+**2.1.6** | for marketing research, user profile and statistical analysis;   
+**2.1.7** | to send you information, promotions, updates, and marketing and advertising materials in relation to our goods and services and those of third party organisations;  
+**2.1.8** | complying with law, the requests of law enforcement and regulatory officials, or orders of court; and  
+**2.1.9** | for any other purposes for which we have obtained your consent, including during the registration process under our[ __Member Terms and Conditions__](https://web.archive.org/web/20120621164730id_/http%3A//sph.com.sg/legal/member_conditions.html).  
+**2.2** | In the event that you participate in contests or other promotional programs on our websites sponsored or organized by third parties or purchase goods and services offered by third parties or offer goods and services to third parties on our sites, your information may be disclosed to and used by such third parties.   
+  |    
+**3.** | **Use of cookies**  
+**3.1** | SPH uses "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites.  The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites.   
+**3.2** | Like many web site operators, SPH may use an independent company (the “ **Third Party** **Market Research Company** ”) to measure and analyse the Internet usage across SPH web sites.  SPH uses the Third Party Market Research **** Company’s services to collect the following core information on the usage of our web sites, including:   
+  |  | **3.2.1** | The number of page views (or page impressions) that occur on SPH web sites;   
+---|---  
+**3.2.2** | The number of unique visitors to SPH web sites;   
+**3.2.3** | How long these unique visitors (on average) spend on SPH web sites when they do visit; and   
+**3.2.4** | Common entry and exit points into SPH web sites.   
+**3.3** | This information is collated by the Third Party Market Research Company and provided to SPH to assist in analysing the usage of SPH web sites. Such data is also accessible by media organizations and research companies, for the purpose of conducting industry comparisons with other Internet portals.   
+**3.4** | Pages on SPH web sites may be coded with software which enables the Third Party Market Research Company and SPH to track visitors to our web sites.  
+  
+(Last updated on 25 January 2011) 
