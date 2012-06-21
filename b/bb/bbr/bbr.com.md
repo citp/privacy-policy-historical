@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbr.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222145426id_/http%3A//www.bbr.com/about/privacy%3Flinkid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbr.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622013728id_/http%3A//www.bbr.com/about/privacy%3Flinkid%3Dfooter) for the most accurate reproduction.*
 
 # Berry Bros & Rudd - Privacy and Security
 
@@ -57,7 +57,7 @@ If you do receive unwanted email from us all our correspondence offers clear ins
 * * *
 
 **Storage methods and duration**  
-Deliveries should be signed for as `Not Examined' and you should inspect the goods as soon as possible and notify us immediately of breakages or wine shortages. We are unable to guarantee credit or replacements unless we are notified within 14 days of delivery of the order. Please be aware that multi-case orders can become separated. If you do not receive the balance of your order within 3 working days of the first delivery please contact us. Standard UK deliveries should always arrive within 6 working days of the date of order. If you will not be at the delivery address at the time of delivery and wish us to leave your order in a safe place, please advise us. We regret that neither we nor our carriers can accept responsibility for any subsequent loss or damage which occurs once the consignment has been left. Contact us on +44 (0)800 280 2440 or e-mail [bbr@bbr.com](mailto:bbr@bbr.com)
+Deliveries should be signed for as `Not Examined' and you should inspect the goods as soon as possible and notify us immediately of breakages or wine shortages. We are unable to guarantee credit or replacements unless we are notified within 14 days of delivery of the order. Please be aware that multi-case orders can become separated. If you do not receive the balance of your order within 3 working days of the first delivery please contact us. Standard UK deliveries should always arrive within 6 working days of the date of order. If you will not be at the delivery address at the time of delivery and wish us to leave your order in a safe place, please advise us. We regret that neither we nor our carriers can accept responsibility for any subsequent loss or damage which occurs once the consignment has been left. Contact us on +44 (0)800 280 2440or e-mail [bbr@bbr.com](mailto:bbr@bbr.com)
 
 * * *
 
@@ -69,7 +69,7 @@ Except where the law permits or unless you specifically agree, Berry Bros. & Rud
 **Cookies/Software agents**  
 "Cookies" are pieces of software, which may be sent and recorded on your computer. These cookies enable us to collect information about how our websites and services are being used and to manage them more efficiently. Until you have registered on Berry Bros. & Rudd's website, the cookie will only track general usage patterns and technical information about your computer type and will not be used to identify you individually. After registration, cookies will be used to collect information on you to facilitate your website experience.
 
-You can turn off the ability to receive cookies by adjusting the browser on your computer but you should note that if you do so, this may materially distort the quality of service and data you receive. Cookies are not used to collect your personal information. Cookies are also used as a site security method to stop abuse of our subscriber service.
+You can turn off the ability to receive cookies by adjusting the browser on your computer but you should note that if you do so, this may materially distort the quality of service and data you receive. Cookies are not used to collect your personal information. Cookies are also used as a site security method to stop abuse of our subscriber service. Read in more [detail about the cookies we use and how to manage them](http://www.bbr.com/about/website-cookies)
 
 * * *
 
@@ -92,12 +92,8 @@ We use the finest **encryption** systems available to ensure your credit card de
 
 As an additional security precaution we do not store any credit card details on our website.
 
-To assure you of our attention to these issues we belong to the [ISIS](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=6149351B-9088-4F70-BEEB-1832FA1E4AA4) (Internet Shopping is Safe) scheme and the ["Wine by Mail Order Code of Practice"](http://www.wsa.org.uk/english2/services/ndb.htm).  
+To assure you of our attention to these issues we belong to the [ISIS](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=6149351B-9088-4F70-BEEB-1832FA1E4AA4) (Internet Shopping is Safe) scheme and the ["Wine by Mail Order Code of Practice"](http://www.wsa.org.uk/english2/services/ndb.htm).
 
-
-|  |   
----|---|---  
-  
 * * *
 
 **Name of company**  
@@ -106,4 +102,4 @@ Berry Bros. & Rudd means BB&R Limited and subsidiaries or corporate entities as 
 * * *
 
 **Questions**  
-If you have any questions about Berry Bros. & Rudd privacy/data protection policy or the use of data in a particular service, you should write to Robin McMillan, Chief Operating Officer, Berry Bros. & Rudd, Hamilton Close, Houndmills, Basingstoke, Hampshire RG21 6YB. The law allows you to write and ask to see and correct the information held about you, although this may require payment of a reasonable fee.
+If you have any questions about Berry Bros. & Rudd privacy/data protection policy or the use of data in a particular service, you should write to Janet Impey, Company Secretary , 3 St James's Street, London, SW1A 1EG. The law allows you to write and ask to see and correct the information held about you, although this may require payment of a reasonable fee.
