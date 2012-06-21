@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the capeinfo.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125084807id_/http%3A//capeinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capeinfo.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621144901id_/http%3A//capeinfo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# capeinfo.com - Privacy policy
 
 CapeInfo strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalised experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by CapeInfo online and does not impact information collected or used by CapeInfo or its affiliates through other means. 
 
