@@ -1,16 +1,31 @@
-> *The following text is extracted and transformed from the evi.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213155633id_/http%3A//corporate.trueknowledge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evi.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621120646id_/http%3A//corporate.trueknowledge.com/privacy) for the most accurate reproduction.*
 
 # True Knowledge — Privacy
 
-True Knowledge Limited is committed to protecting the privacy and confidentiality of information  
-provided by all users of  
-<http://www.trueknowledge.com/>.  
-Please read the following privacy policy to understand how we use and protect the information  
-that is provided to us by users of this website. 
+True Knowledge Limited is committed to protecting the privacy and confidentiality of information provided by all users of <http://www.trueknowledge.com/> and the Evi Service. Please read the following privacy policy to understand how we use and protect the information that is provided to us by users of this website.
 
-##  By visiting and/or registering on this site, you consent to the collection,  
-use and transfer of your information under the terms of this policy.  
+##  By visiting and/or registering on this site, or downloading and using the Evi mobile application, you consent to the collection, use and transfer of your information under the terms of this policy.  
 
+
+### Information that we collect from you via the Evi software and service
+
+When you download and use Evi you may be asked to provide certain information about yourself to provide you with a better experience with Evi.
+
+Evi will optionally ask for your name. This will be stored securely on our servers and is used to provide a more personalised experience with Evi.
+
+Evi will optionally request permission to connect to partner services of which you may have an account with. This is to allow Evi to learn more about you to provide you with a better, more personalised experience. Any data stored is subject to the partner’s terms of service and is solely for the use of Evi – it will not be shared with any other third party.
+
+When you use the Evi Software and Service, location data from your mobile device is transmitted to and stored on our servers to provide relevant local information. Text input and transcripts of speech utterances via the Evi Software are also stored to enable the Service to provide the relevant information for your needs and to improve future responses. Certain device information may also be transmitted to and stored on our servers that may uniquely identify your device. This includes:
+
+  * IP address
+  * Make and model of device
+  * Operating system version
+
+
+
+We also use, within the Evi mobile application, Flurry Services in order to collect statistical data about your usage of our application, without infringing your privacy rights. This data is used to improve the services offered to you. Flurry is not responsible for any use by us of any data about you. If you do not want Flurry to track data from your device you can opt-out by clicking on this link: <http://www.flurry.com/resources/privacy.html>.
+
+Speech recognition within the iOS version is provided by Nuance Communications who may use speech data created by you to improve the performance of their service and to train, tune, enhance and improve the speech recognition and other components of its software and services. If you wish to learn more, please visit <http://www.nuance.com/company/company-overview/company-policies/privacy-policies/index.htm>
 
 ### Information that we collect from you
 
@@ -117,4 +132,4 @@ Any changes to our privacy policy in the future will be posted to the site and, 
 
 ### Contact
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to William Tunstall-Pedoe at True Knowledge Limited, 66-68 Hills Road, Cambridge CB2 1LA, United Kingdom or at [privacy@trueknowledge.com](mailto:privacy@trueknowledge.com) .
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to William Tunstall-Pedoe at True Knowledge Limited, Poseidon House, Castle Park, Cambridge, CB3 0RD, United Kingdom or at [privacy@trueknowledge.com](mailto:privacy@trueknowledge.com) .
