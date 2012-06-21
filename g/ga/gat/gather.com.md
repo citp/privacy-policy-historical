@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gather.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227155820id_/http%3A//www.gather.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gather.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621134734id_/http%3A//www.gather.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Gather
 
@@ -27,7 +27,7 @@ At Skyword Inc. ("Skyword"), we strive to develop innovative products and servic
 **Posting on the Service**
 
   * Use care when posting Personal Information or your personal content on our Service or in our Gather Groups (as defined below), particularly sensitive information such as social security numbers, financial information, home addresses or phone numbers.
-  * You should be aware that, when you post information via the Service, the information that you post Ð including but not limited to the content of the post, header information, username and email address associated with the posting Ð may be read, copied, used and re-distributed by people you do not know.
+  * You should be aware that, when you post information via the Service, the information that you post ï¿½ including but not limited to the content of the post, header information, username and email address associated with the posting ï¿½ may be read, copied, used and re-distributed by people you do not know.
   * The contents of the postings that you submit to the Service are stored and maintained on our servers in order to publish the postings and provide the Service. In order to protect our Members from email harvesting software and bots, we attempt to "mask" email addresses so that they are typically human readable but not machine readable. In addition, we collect and maintain information about your account activity, such as the contents of your posts, the links that you click on, your email activity, search inquiries, Gather Groups that you join or manage, messages or topics you track and your preferred settings when the using the Service.
 
 
@@ -68,6 +68,7 @@ At Skyword Inc. ("Skyword"), we strive to develop innovative products and servic
 **Cookies**
 
   * The Service may set and access "cookies" on your computer. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our Service, target advertising, and to better understand how people interact with us. We do this by storing user preferences in cookies and by tracking user trends and patterns of how you use our Service. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent, but this may impact the quality of our Service.
+  * We may use third party advertising technology to serve ads when you access the Services and may from time to time use various outside ad-serving companies to serve advertisements. They may collect anonymous information about your visits to the Site and your interaction with our Service. They may also use information about your visits to gather.com and other websites to target advertisements for goods and services. This anonymous information is collected through the use of pixel tags or cookies, which are industry standard technologies, used by most major websites. No personally identifiable information is collected or used in this process from the Services. If you would like more information about this practice and to know your choices about not having this anonymous information used by a third party service provider, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 
 
