@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonfloor.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217041220id_/http%3A//www.commonfloor.com/public/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonfloor.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621051118id_/http%3A//www.commonfloor.com/public/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at CommonFloor.com
 
@@ -61,6 +61,6 @@ _You hereby acknowledge that CommonFloor.com is not responsible for any intercep
 
 
   * You can email us on contactus@commonfloor.com or support@commonfloor.com
-  * Our office address maxHeap Technologies Pvt. Ltd. No. 22, Ist Floor, Cunningham Classic, Cunningham Road, Bangalore 560052. Karnataka, India 
+  * Our office address maxHeap Technologies Pvt. Ltd. #289, 6th Main, 4th Cross New Thipasandra Main Road, Indira Nagar HAL III Stage, Bangalore 75 Karnataka, India 
 
 
