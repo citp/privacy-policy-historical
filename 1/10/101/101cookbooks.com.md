@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 101cookbooks.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227122651id_/http%3A//www.101cookbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101cookbooks.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621024253id_/http%3A//www.101cookbooks.com/privacy.html) for the most accurate reproduction.*
 
-# 
-
-#### 101 Cookbooks Privacy Policy
+# 101 Cookbooks - Healthy Recipe Journal
 
 101Cookbooks.com is firmly committed to maintaining the privacy and protection of your personal information. This Privacy Policy outlines our efforts to maintain your privacy. 
 
@@ -32,14 +30,12 @@ We respond to subpoenas, court orders, or legal process, or to establish or exer
 
 Each email sent contains an easy and automated way for you to stop receiving email messages from 101cookbooks.com in the future. If you would like to do this—to "opt-out" —simply follow the links at the bottom of every email message. 
 
-If you have received unwanted or unsolicited email sent via the 101cookbooks.com system or purporting to be sent via the 101cookbooks.com system, please forward a copy of that email with your comments to [abuse@101cookbooks.com for review](mailto:abuse@101cookbooks.com). We will look into the matter immediately.  
+If you have received unwanted or unsolicited email sent via the 101cookbooks.com system or purporting to be sent via the 101cookbooks.com system, please forward a copy of that email with your comments to [contact101cookbooks AT gmail.com](mailto:contact101cookbooks@gmail.com) for review. We will look into the matter immediately.  
 **  
 Privacy Policy Changes**
 
-This policy was last updated on April 7, 2009.  
+This policy was last updated on May 13, 2012.  
 
 
   
 
-
-#### Recently on 101 Cookbooks
