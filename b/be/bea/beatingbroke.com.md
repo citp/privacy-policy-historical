@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beatingbroke.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127060557id_/http%3A//www.beatingbroke.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatingbroke.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621114913id_/http%3A//www.beatingbroke.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Beating Broke | Beating Broke
 
@@ -8,4 +8,21 @@ Your privacy is important to us. To better protect your privacy we provide this 
  **Google Adsense and the DoubleClick DART Cookie**  
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url [Last updated Thu, 07 Jul 2011 02:50](http://www.google.com/privacy_ads.html%3Ehttp://www.google.com/privacy_ads.html%3C/a%3E%20Tracking%20of%20users%20through%20the%20DART%20cookie%20mechanisms%20are%20subject%20to%20Google%E2%80%99s%20own%20privacy%20policies.%3C/p%3E%3Cp%3EOther%20Third%20Party%20ad%20servers%20or%20ad%20networks%20may%20also%20use%20cookies%20to%20track%20users%20activities%20on%20this%20website%20to%20measure%20advertisement%20effectiveness%20and%20other%20reasons%20that%20will%20be%20provided%20in%20their%20own%20privacy%20policies,%20Beating%20Broke%20has%20no%20access%20or%20control%20over%20these%20cookies%20that%20may%20be%20used%20by%20third%20party%20advertisers.%3Cp/%3E%3Cstrong%3ECollection%20of%20Personal%20Information%3C/strong%3E%3Cbr/%3EWhen%20visiting%20Beating%20Broke,%20the%20IP%20address%20used%20to%20access%20the%20site%20will%20be%20logged%20along%20with%20the%20dates%20and%20times%20of%20access.%20This%20information%20is%20purely%20used%20to%20analyze%20trends,%20administer%20the%20site,%20track%20users%20movement%20and%20gather%20broad%20demographic%20information%20for%20internal%20use.%20Most%20importantly,%20any%20recorded%20IP%20addresses%20are%20not%20linked%20to%20personally%20identifiable%20information.%3C/p%3E%3Cp/%3E%3Cstrong%3ELinks%20to%20third%20party%20Websites%3C/strong%3E%3Cbr/%3EWe%20have%20included%20links%20on%20this%20site%20for%20your%20use%20and%20reference.%20We%20are%20not%20responsible%20for%20the%20privacy%20policies%20on%20these%20websites.%20You%20should%20be%20aware%20that%20the%20privacy%20policies%20of%20these%20sites%20may%20differ%20from%20our%20own.%3C/p%3E%3Cp/%3E%3Cstrong%3EChanges%20to%20this%20Privacy%20Statement%3C/strong%3E%3Cbr/%3EThe%20contents%20of%20this%20statement%20may%20be%20altered%20at%20any%20time,%20at%20our%20discretion.%3C/p%3E%3Cp%3EIf%20you%20have%20any%20questions%20regarding%20the%20privacy%20policy%20of%20Beating%20Broke%20then%20you%20may%20contact%20us%20at%20admin@beatingbroke.com%3Cp/%3E%3Cdivstyle=)
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url [http://www.google.com/privacy_ads.html](http://www.google.com/policies/privacy/ads/) Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Beating Broke has no access or control over these cookies that may be used by third party advertisers.
+
+ **Collection of Personal Information**  
+When visiting Beating Broke, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+
+ **Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+
+ **Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion.
+
+If you have any questions regarding the privacy policy of Beating Broke then you may contact us at admin@beatingbroke.com
+
+Last updated Thu, 07 Jul 2011 02:50
+
+Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
