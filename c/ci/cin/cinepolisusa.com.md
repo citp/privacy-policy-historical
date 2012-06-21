@@ -1,143 +1,130 @@
-> *The following text is extracted and transformed from the cinepolisusa.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220021543id_/http%3A//www.cinepolisusa.com/Home/Terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinepolisusa.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621145456id_/http%3A//www.cinepolisusa.com/Home/Privacy) for the most accurate reproduction.*
 
-# Cinepolis | Terms
+# Cinepolis Luxury Cinemas | Privacy Policy | San Diego, Del Mar, Carlsbad, La Costa, Laguna Niguel, Ocean Ranch | Movie theater with leather recliners, full bar and fine dining
 
-By accessing this page, you acknowledge having read and understood its contents and states agree with them.
+Thank you for visiting www.cinepolisusa.com. We value our customers and are committed to responsible privacy practices. 
 
-The content of this page and its updates, are the exclusive property of California Cinema Investments and are protected by the laws California, the United States of America, as well as international law.
+California Cinema Investments Inc. operates this website (http://www.cinepolisusa.com), and this Privacy Policy (“Policy”) discloses the privacy practices for this website and the related services and activities offered through it (collectively referred to as our “Site”). California Cinema Investments Inc. and its affiliates and subsidiaries (collectively referred to as “us”, “we” and “our”) are dedicated to your online privacy.
 
-The content of this site, should only be used as a resource of information and advertising and, where appropriate, purchase goods and services sold by California Cinema Investments. 
+This Policy is subject to and fully incorporates our [Site Terms of Use](https://web.archive.org/Home/Terms/). By accessing and using our Site, you agree to be bound by all the terms and conditions of this Policy and the Site Terms of Use. If you do not agree to be bound to these terms and conditions, do not access or use our Site.
 
-Any use, including advertising, republication, display, performance or marketing content on this site, including trademarks or advertisements on any network computer or website is strictly prohibited without the prior consent in writing of California Cinema Investments.
+Please read the following carefully.
 
-Cinepolis Luxury Cinemas brand is duly registered for California Cinema Investments, so its total or partial use is strictly prohibited and subject to the penalties provided under applicable laws.
+  1. What information do we collect from you?
+  2. Where and when do we collect information and how do we use it?
+  3. With whom do we share information we collect from you?
+  4. How can you review, revise or delete information we collect from you?
+  5. Can you opt-out of receiving communications from us?
+  6. What security protections are in place to protect information collected by us?
+  7. Do we use “cookies” and other information gathering technologies?
+  8. Do we collect information from children?
+  9. What you need to know about third-party sites and other privacy policies.
+  10. What else you need to know about this Policy.
+  11. Contact us.
 
-The whole design of this site content, including graphics, photographs, texts, information and associated computer software, are copyrighted and exclusive of California Cinema Investments.
 
-The information contained in this website is only illustrative and therefore in no way constitutes a binding offer that compels the user and California Cinema Investments, or its subsidiaries, affiliates or associates to hold any contract in connection with such operations.
 
-California Cinema Investments, its subsidiaries, affiliates or associates reserve the right to modify the information contained herein when appropriate and without notice, to limit or deny access to such information.
+## 1\. What information do we collect from you?
 
-California Cinema Investments, its subsidiaries, affiliates or associates are not responsible for any damages arising from unauthorized access, use or misuse of the contents of this site.
+We collect two categories of information from users of our Site — “Personally Identifiable Information” and “Non-Personally Identifiable Information”. We collect this information so we can offer you our services and products and give you an efficient and customized experience with our Site.
 
-California Cinema Investments, Its subsidiaries, affiliates or associates are not responsible for any discrepancies that may arise between the version of your paper and electronic versions of the same published on this site.
+“Personally Identifiable Information” is information you voluntarily give us that specifically identifies you.
 
-California Cinema Investments, Its subsidiaries, affiliates or associates assume no responsibility for the content and services to commercial or otherwise, websites that may be electronically linked (link) directly or indirectly through the portal www.cinepolisusa.com 
+When you create or register an account, purchase products or services, participate in any of our programs, send us questions or feedback, register your e-mail address with us, communicate with us, or otherwise participate in our Site, we may ask you to give us information about yourself. You have the option to use our Site, and if you do use our Site, we will ask you to give us and we will collect the following Personally Identifiable Information: your first and last name, address, telephone number, e-mail address, payment method and other information once it is associated with you. We may also collect information about your movie preferences, your purchases and information you disclose to the general public through review pages, blogs and message boards. This Policy refers to this personal information as “Personally Identifiable Information”.
 
-California Cinema Investments , Its subsidiaries, affiliates or associates, assume no liability resulting from the exchange of electronic information between users of the Internet and assumes no liability due to technical problems that may occur on computers that are used during connection the Internet, either through this website or other websites.
+“Non-Personally Identifiable Information” is information that does not identify you or any specific person.
 
-Operations that can be done through the portal of California Cinema Investments and / or its subsidiaries or affiliates shall be governed by the terms and conditions established by company and the laws of California.
+When you visit our Site, we automatically collect information relevant to your visit, such as the frequency and length of your visit to our Site, what website you came from, the search engine you used, which website you go to next, what web browser and operating system you use, and your Internet Protocol (IP) address. Again, this non-personal information is not associated with any specific individual. This Policy refers to this non-personal information as “Non-Personally Identifiable Information”.
 
-Any dispute arising from the application of the same will be heard before the courts and authorities of the City San Diego, CA the parties expressly renounce any other jurisdiction that may correspond by reason of their present or future domicile or for any other cause.
+## 2\. Where and when do we collect information and how do we use it?
 
-## POLICY DATA SECURITY
+We collect Personally Identifiable Information when you participate in our Site, such as when you create or register an account, purchase products or services, participate in any of our programs, send us questions or feedback, register your e-mail address with us, communicate with us, or otherwise participate in our Site. We will primarily use your Personally Identifiable Information for the purposes for which you provided it to us, such as providing you with our products and services, and enhancing the quality of our Site for you. We will also use your Personally Identifiable Information to improve our marketing and promotional efforts and to customize our Site’s content and services for your and all of our customers. Sometimes we will use your Personally Identifiable Information to notify you of important changes to this Policy, and to send you news, offers and savings related to our products and services.
 
-The personal data of customers and any information collected on this website is handled completely and totally confidential and used exclusively to identify the customer for their purchase and are not shared with third parties for any reason, except for orders of a judicial nature and / or ministerial.
+Sometimes, we might combine or supplement your Personally Identifiable Information with information we receive from our affiliates or third-party providers. If we do combine or supplement your Personally Identifiable Information, we will treat all of that information as covered by this Policy.
 
-## PRIVACY AND SECURITY POLICY
+We collect Non-Personally Identifiable Information when you visit our Site. Additionally, we may engage third-party providers or advertisers to collect Non-Personally Identifiable Information and share that non-personal information with us. This Non-Personally Identifiable Information is not specific to you and may be aggregated with Non-Personally Identifiable Information collected from other users.
 
-California Cinema Investments, Its subsidiaries, affiliates or partners, are committed to ensuring the confidentiality / privacy of personal information obtained through its services online, according to the provisions of State and Federal Law on Personal Data held by individuals.
+We use Non-Personally Identifiable Information to improve our Site and troubleshoot issues related to our Site, such as our servers and software. We also use Non-Personally Identifiable Information to better understand our Site and user demographics, provide you with better products and services, and provide advertisements that may be of interest to you.
 
-We suggest you read the rules described below, to understand the processing of your personal information when using our services and sites www.cinepolisusa.com This Privacy Policy may have changes in the future, it is recommended to check them periodically.
+## 3\. With whom do we share information we collect from you?
 
-1 .- Type of personal information that is obtained
+We share Personally Identifiable Information and Non-Personally Identifiable Information among ourselves, such as our affiliates and subsidiaries. We also share Personally Identifiable Information with our service providers, partners and third-party services providers to deliver to you the products or services you have requested. For example, we must release your credit card information to the card-issuing bank to confirm payment for the products and services purchased on our Site or give your address to the delivery service company so they can deliver your product to you. We will encourage our third-party service providers and partners to respect your privacy, but we (and you acknowledge that we) cannot control how they use your Personally Identifiable Information and this Policy does not govern their use of your Personally Identifiable Information.
 
-California Cinema Investments, Its subsidiaries, affiliates or partners, collect information in different ways, from various areas of our website. All information collected is subject to existing provisions of the Federal Personal Data held by individuals, standards of confidentiality and privacy all personal information that users voluntarily enters our site, the creation of personal profile, registration service notification of special offers via e-mail, the registration of our loyalty programs, sending e-cards and the information you enter during your participation in sweepstakes, contests and online surveys we do occasionally. For each of these programs, the information sought is different and is stored in separate databases.
+When we share your Personally Identifiable Information among our affiliates and subsidiaries, your Personally Identifiable Information may be transferred outside of the United States of America. If you do not want us to transfer your Personally Identifiable Information outside of the United States of America, do not give us your Personally Identifiable Information.
 
-Contact online: The information requested in this section allows California Cinema Investments , Its subsidiaries, affiliates or associates, contact customers when necessary. Enter the requested information to the user is: name, surname, name of the company where he works, address, email address and telephone number.
+If we later decide that we want to sell, rent or otherwise transfer your Personally Identifiable Information to others who are not our affiliates, subsidiaries, or authorized third-party service providers or partners, we will first get your permission. If you opt-in to receive communications from us and our third-party service providers and partners, we will share your Personally Identifiable Information as necessary to supply you with those communications.
 
-Notification Program offers via email. The information that visitors provide us includes: name, surname, email address, address, country, telephone number, preferences and habits, among others. The user can modify this information at any time and will be used to tailor promotions and notices sent to the preferences indicated by himself.
+We may share Non-Personally Identifiable Information with third-party advertisers or others parties outside ourselves to improve our Site and enhance your online experience. Again, this Non-Personally Identifiable Information is not specific to you and does not include any Personally Identifiable Information.
 
-Send electronic postcards. The information that visitors provide us include: sender's name, e-mail address of the sender, recipient's name, address e-mail address, age range, country, gender and zip code. This information will be used to tailor promotions and notices sent to the customer.
+If you have authorized third-parties, such as a social networking services like Facebook or Twitter, to gather information about your activities on our Site (e.g., to notify your friends that you have purchased movie tickets), we may share Personally Identifiable Information with these third-parties as previously authorized by you.
 
-Sweepstakes, contests and online surveys: The type of information sought by these means can be very variable, may include personal data, habits and preferences, opinions about the services of our sites and comments about services offered. The information gathered will be for the exclusive use of California Cinema Investments and aim at feedback from users about the services we provide in order to improve them.
+As part of our ongoing business operations, we may transfer Personally Identifiable Information and Non-Personally Identifiable Information as part of a business transaction, such as a merger or corporate purchase and sale. In this connection, your Personally Identifiable Information will be treated as a business asset and possibly transferred to a business that will control or own us and our assets.
 
-After information reaches California Cinema Investments, it is stored on a secure server that resides behind a firewall designed to block access from outside the company. Unfortunately, no data transmission over the Internet can guarantee 100% security. Therefore, although the California Cinema Investments, its subsidiaries, affiliates or associates, strive to protect your personal information, cannot ensure or warrant the security with respect solely to the transmission of information related to any of our online services as they are services provided by third parties whose systems, processes and security are not available to California Cinema Investments its subsidiaries, affiliates or partners, so in this unique concept, and California Cinema Investments or its subsidiaries, affiliates or associates, are obliged to answer for the failure, misuse or error in the information or receiving proper and complete. Once data is received and effectively, California Cinema Investments, its subsidiaries, affiliates or associates, are obliged to safeguard their security systems. In this issue, the colleagues from California Cinema Investments, Its subsidiaries, affiliates or partners, have focused their efforts to offer the latest technology and updated to provide the highest possible security.
+Sometimes we might be required by law to share your Personally Identifiable Information with others, such as in response to a court order, subpoena or government investigation. Also, we reserve the right to share your Personally Identifiable Information with others when we believe it is reasonably necessary to protect others and ourselves.
 
-2 .- How to use your personal information
+YOUR CALIFORNIA PRIVACY RIGHTS. California CIVIL CODE Section 1798.83 permits visitors of our Site who are California residents to request certain information regarding disclosure of Personally Identifiable Information to third-parties for their direct marketing purposes. You have the right to request information regarding such disclosure by contacting us at Cinépolis Luxury Cinemas, Attention: Privacy Manager, at: 8910 University Center Lane, Suite 640, San Diego, CA 92122, or [privacypolicy@cinepolis.com](mailto:privacypolicy@cinepolis.com). All such requests must be labeled “Your California Privacy Rights” on the e-mail subject line or envelope or post card, and you must include your name, address and e-mail address.
 
-California Cinema Investments, its subsidiaries, affiliates or associates, using the information provided during the registration process profile, a program registration and promotions for internal research on demographics, interests and behavior of our users, this study is compiled and analyzed together.
+## 4\. How can you review, revise or delete information we collect from you?
 
-The most important objective of California Cinema Investments, its subsidiaries, affiliates or associates to collect personal data to understand and give the user a better experience when visiting our site and purchase our services, since knowing more visitors we can provide products according to their needs and as most appropriate content and advertising.
+We understand that your Personally Identifiable Information is important to you. You always have the right to ask us for a copy of the Personally Identifiable Information you have given to us. Additionally, you can review and revise your Personally Identifiable Information by logging into your account and changing your personal information, or by asking us to revise your Personally Identifiable Information.
 
-By collecting user information online, we can develop internal statistics that tell us what products and services most valued by different customer segments, also serves to give the formality due to the transactional process.
+If you want us to delete your Personally Identifiable Information, tell us so. However, some of your Personally Identifiable Information, such as your transaction history on our Site, cannot be deleted. If you request us to revise or delete your Personally Identifiable Information, you may not be able to access all of the features of our Site.
 
-In our communication program offers via email, only the California Cinema Investments, its subsidiaries, affiliates or associates have access to the information collected. This type of advertising is done through advertisements and promotional e-mail messages, which will only be sent to you at registration if you indicated you would like to receive, this information may you modify it at any time. In emails sent, may occasionally include third party offers to be our partners.
+To receive a copy of, to request us to revise or request us to delete your Personally Identifiable Information, please write or e-mail us at Cinépolis Luxury Cinemas, Attention: Privacy Manager, at: 8910 University Center Lane, Suite 640, San Diego, CA 92122, or [privacypolicy@cinepolis.com](mailto:privacypolicy@cinepolis.com). All such requests must be labeled “My Personally Identifiable Information Request” on the e-mail subject line or on the envelope or post card, and you must include your name, address and e-mail address. When you contact us regarding your Personally Identifiable Information, we will first need to verify your identity before releasing your Personally Identifiable Information to you. If you make such a request, we will respond within a reasonable time.
 
-In addition to requesting information during the registration process above, we may request personal information at other times, for example by participating in a contest or in any promotion of our site and to report a problem with our site or services. California Cinema Investments, its subsidiaries, affiliates or partners also tend to do surveys online users, whose responses are used in internal studies.
+## 5\. Can you opt-out of receiving communications from us?
 
-3 .- What are cookies and how are they used?
+We and our third-party services providers and partners may occasionally send you e-mails and other communications regarding our products and services. Additionally, when you participate in our Site, such as register an account, purchase products or services, or register your e-mail address with us, we may ask you if you want to receive communications from us and our services providers.
 
-Cookies are small pieces of information that are sent by the Web site to your browser.
+If you do not want to receive communications from us or our third-party service providers and partners, tell us so when you register an account, purchase products or services or otherwise participate in our Site. At any time, you can opt-out from receiving communications from us or our third-party service providers or partners by writing or e-mailing us at Cinépolis Luxury Cinemas, Attention: Privacy Manager, at: 8910 University Center Lane, Suite 640, San Diego, CA 92122, or [privacypolicy@cinepolis.com](mailto:privacypolicy@cinepolis.com). All such requests must be labeled “Communication Opt-Out” on the e-mail subject line or on the envelope or post card, and you must include your name, address and/or e-mail address.
 
-Cookies are stored on the hard drive of your computer and used to determine your preferences when you connect to the services of our sites and to track certain behaviors or activities conducted by you within our sites.
+If you opt-out from receiving communications from us and our service providers, we will implement your request within a reasonable time. However, your decision to opt-out will not affect our communications with you to complete your transactions or fulfill your requests, such as a movie ticket purchase or other ministerial/administrative communications.
 
-In some sections of our site we require that the client has cookies enabled and that some of the functionality they require to work. Cookies allow us to:
+## 6\. What security protections are in place to protect information collected by us?
 
-a) Recognize when you enter our site and offer a personalized experience.
+We realize that you must trust us when you give us your Personally Identifiable Information. Accordingly, when you use our Site, you can be assured that your Personally Identifiable Information is safe and secure. We encrypt your Personally Identifiable Information during its transmission and storage to keep it secure, using methods such as Secure Sockets Layer. We take reasonable measures to ensure that your Personally Identifiable Information is secure, such as requiring you to use a password for your account, storing all of your Personally Identifiable Information in encrypted files, and taking procedural and managerial steps within our companies to protect against the loss, misappropriation or alteration of your Personally Identifiable Information.
 
-b) Know your personal settings you specified site, for example, cookies allow us to detect the bandwidth you have selected when entering the home page of our site, so we know what kind of information is desirable download.
+Additionally, credit card transactions and order fulfillment may be handled by established third-party banking, processing agents and distribution institutions. If we use these third-party service providers, we will give them Personally Identifiable Information needed to verify and authorize your credit card or other payment information and to process and deliver your order.
 
-c) Calculate the size of our audience and measure certain traffic parameters, because each browser that you access our site acquires a cookie that is used to determine the frequency of use and sections of the sites visited, reflecting their habits and preferences information that is useful to improve the content, headlines and promotions to users.
+Unfortunately, no transmission of data over the Internet or any network can be guaranteed to be 100% secure. Accordingly, while we strive to protect your Personally Identifiable Information, you acknowledge that there are security and privacy limitations of the Internet which are beyond our control, the security, integrity and privacy of any information and date exchanged between you and our Site cannot be guaranteed, and any such information and data may be view or tampered with in transit by a third-party.
 
-Cookies also help us to track certain activities, for example, in some of the surveys we launched online, we may use cookies to detect if the user has already filled out the survey and avoid deploying it again, if they did. The button "help" is in the toolbar of most browsers will tell you how to avoid accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable all cookies. However, cookies allow you to take advantage of beneficial features we offer, so we recommend that you leave them turned on.
+When we share your Personally Identifiable Information with nonaffiliated third-parties, we will require these third-parties to take reasonable measures to protect your Personally Identifiable Information.
 
-4 .- Confidentiality of information
+## 7\. Do we use “cookies” and other information gathering technologies?
 
-When in www.cinepolisusa.com site and asking for personal information, you share the information only with California Cinema Investments, its subsidiaries, affiliates or associates unless otherwise specified.
+Yes, we use “cookies”. Cookies are a standard feature found in most websites on the Internet. Cookies are small files deployed from a website, like our Site, and placed on your hard drive. These files allow us to gather information about how and when visitors use our Site so we can, among other things, understand our user demographics, deliver relevant advertisements, and administer our Site. Cookies supply us with information such as the frequency and length of your visit to our Site, what website you came from, the search engine you used, which website you go to next, what web browser and operating system you use, and your IP address. Additionally, these files help us “remember” you and your preferences, so you don’t have to re-enter information about yourself, like your User ID and Password and your preferences. Cookies make your use of our Site easier, make our Site run more smoothly and help us to maintain security. Your web browser may give you the option to disable or erase our cookies. You are free to disable and erase our cookies. However, if you do so, our Site may not work properly.
 
-California Cinema Investments, its subsidiaries, affiliates or associates will not share confidential information with third parties unless you have express permission of those who signed, or has been required by court or prosecutor, to comply with applicable laws and instructed processes.
+Our Site may also use web beacons or transparent GIFs (invisible files stored on web pages) to, among other things, access cookies and count users who visit our Site. Additionally, we may in the future use other information gathering technologies in connection with our Site.
 
-California Cinema Investments, its subsidiaries, affiliates or associates do not sell or rent user information. If the user's personal data should be shared with business partners or sponsors, the user will be notified before they are collected or transferred, to get their permission. If the user does not want your information shared, you can choose not to use a particular service or not to participate in certain promotions or contests.
+We may permit third-party advertisers to place advertisements and links on our Site. When you click on an advertisement or link on our Site, these third-party advertisers may use cookies, web beacons and other information gathering technologies to gather information about you. We do not and cannot (and you acknowledge that we do not and cannot) control how these third-parties use Non-Personally Identifiable Information collected from you. These third-parties have their own privacy policies and disclosure practices that may be different from this Policy. We are not responsible for the actions of these third-parties. Please contact these third-parties directly and ask them about their privacy policies and disclosure practices.
 
-California Cinema Investments, its subsidiaries, affiliates or partners may disseminate statistics on all users (for example, the percentage of our users are male and over a certain age, etc.). to describe our services and for other lawful purposes in cases with the law.
+## 8\. Do we collect information from children?
 
-California Cinema Investments, its subsidiaries, affiliates or partners can spread the account information in special cases when we think that providing this information can help identify, locate or bring legal action against persons who may violate the Terms of Service www site, cinepolisusa.com.
+In addition to this Policy, we have created special policies for the collection of information from children under 13 years of age (“children” or “child”).
 
-California Cinema Investments, or its subsidiaries, affiliates or associates assume any obligation to keep confidential any information you provide, including the information you provide through newsletters and online discussions (chats), and the information obtained through the cookies as described in paragraph 3, above in terms of the provisions in Article 109 of the Federal Law of Copyright and Section I, Article 76 bis of the Federal Law Consumer.
+Before a child is permitted to use certain features of our Site, such as register for an account, purchase products or services, or communicate with us, and before we collect a child’s Personally Identifiable Information through our Site, we must first obtain verifiable consent from the child’s parent. The parental consent must be completed on the [form provided here](http://cdn.cinepolisusa.com/sitecontent/Parental_Consent_Form_12.09.11_finalv.pdf). The completed parental consent form must be delivered by first class mail or by e-mail to Cinépolis Luxury Cinemas, Attention: Privacy Manager, at: 8910 University Center Lane, Suite 640, San Diego, CA 92122, or [privacypolicy@cinepolis.com](mailto:privacypolicy@cinepolis.com). All such consent forms must be labeled “Children’s Privacy Policy – Parental Consent” in the e-mail subject line or on the envelope or post card, and you must include your name, address and e-mail address. Once we have verified that you are the child’s parent, we will send you an e-mail stating so and confirming your consent.
 
-5 .- Change / Update Information
+Once we obtain parental consent, we will only use the child’s Personally Identifiable Information for those purposes for which it was provided. We do not disclose a child’s Personally Identifiable Information outside of ourselves and our third-party service providers and partners. We will not condition a child’s participation with our Site on the child disclosing more Personally Identifiable Information than is reasonable necessary to participate with features of our Site.
 
-Personal data provided by the user is part of a file containing your profile. You can modify your profile at any time using your user / member and his personal identification number assigned or that he chose.
+You as the parent have the right at all times to review and revise the Personally Identifiable Information we have collected from your child. You can ask us for a copy of your child’s Personally Identifiable Information. You can also ask us to revise or delete your child’s Personally Identifiable Information. However, some of your child’s Personally Identifiable Information, such as transaction history on our Site, cannot be deleted. If you request us to revise or delete your child’s Personally Identifiable Information, your child may not be able to access all of the features of our Site.
 
-California Cinema Investments, its subsidiaries, affiliates or associates advise users to update their data each time they undergo some modification, as this will provide a more personalized service.
+To receive a copy of, to request us to revise or request us to delete your child’s Personally Identifiable Information, please write or e-mail us at Cinépolis Luxury Cinemas, Attention: Privacy Manager, 8910 University Center Lane, Suite 640, San Diego, CA 92122 , or [privacypolicy@cinepolis.com](mailto:privacypolicy@cinepolis.com). All such requests must be labeled “My Child’s Personally Identifiable Information Request” in the e-mail subject line or on the envelope or post card, and you must include your name, address and e-mail address. When you contact us regarding your child’s Personally Identifiable Information, we will first need to verify your identity before releasing your child’s Personally Identifiable Information to you.
 
-If you participate in the service of email promotions at any time you can disable the service.
+Unless modified by these special child policies, all other terms and conditions of this Policy apply to a child’s Personally Identifiable Information.
 
-6 .- Protection of personal information
+## 9\. What you need to know about third-party sites and other privacy policies.
 
-The information provided by the user, is secured by a personal identification number to which only the user can access and which only he has knowledge.
+This Policy only covers Personally Identifiable Information and Non-Personally Identifiable Information we collect from you through this Site – www.cinepolisusa.com. Other websites and third-parties accessible through our Site may have privacy policies and disclosure practices that are different from this Policy. We are not responsible for the actions of these other websites and third-parties. Please contact these websites and third-parties directly to learn about their privacy policies and disclosure practices.
 
-We recommend that you not divulge your password to anyone. California Cinema Investments, its subsidiaries, affiliates or associates will not request your password on any phone call or unsolicited email. At all times, the user is solely and ultimately responsible for maintaining the confidentiality of your user ID / partner, personal password, password and confidential number with which to access services and content on our site. To reduce the risk of the California Cinema Investments, its subsidiaries, affiliates or associates recommend the user out of your account and close your browser window when you finish your activity, especially if you share your computer with someone or use a computer in a public place like a library or Internet cafe.
+## 10\. What else you need to know about this Policy.
 
-Once data is received, we will do everything possible to safeguard its security on our systems. In this issue, the colleagues from the California Cinema Investments, its subsidiaries, affiliates or associates has focused its efforts to offer the latest technology and updated to provide the highest possible security.
+We reserve the right to modify this Policy at any time. Any modifications to this Policy will be effective upon delivery of notice to you or upon our prominently posting a notice of such modification to this Policy. If we make any material changes to this Policy, we will notify you by sending an e-mail to the address you have provided to us. You acknowledge and agree that it is your responsibility to maintain a valid e-mail address as a registered user of our Site, review our Site covered by this Policy and be aware of any modifications to this Policy. 
 
-7 .- Children's Privacy
+This Policy covers all Personally Identifiable Information and Non-Personally Identifiable Information collected by us through our Site. This Policy does not cover any information we collect outside of our Site or information you share in any public space or domain, such as a blog, review page, or message board. Information you disclose to the general public may be gathered by third-parties who may use that information. We cannot control how these third-parties use that information you disclose to the general public and you assume any and all risk of disclosing that information.
 
-Safeguarding children's personal information is extremely important. California Cinema Investments, its subsidiaries, affiliates or associates raised the minimum necessary information needed to provide such services.
+## 11\. Contact us.
 
-California Cinema Investments, its subsidiaries, affiliates or partners do not request personally identifiable information to minors. Children should always ask their parents for permission before sending personal information to other users that are online.
+If you have any questions about this Policy or want to give us feedback, please contact us by writing or e-mailing us at Cinépolis Luxury Cinemas, Attention: Privacy Manager, at:8910 University Center Lane, Suite 640, San Diego, CA 92122, or [privacypolicy@cinepolis.com](mailto:privacypolicy@cinepolis.com).
 
-8 .- Acceptance of Terms
-
-This Statement of Confidentiality / Privacy is subject to the terms and conditions of the California Cinema Investments, its subsidiaries, affiliates or associates, which constitutes a legal agreement between the user and the California Cinema Investments, its subsidiaries, affiliates or partners.
-
-If the user uses the services of the California Cinema Investments, its subsidiaries, affiliates or associated in any of our sites, you have read, understood and agreed to the terms outlined above. If you disagree with them, you should not provide any personal information or use services www.cinepolisusa.com
-
-9 .- Minimum principles of our privacy / confidentiality
-
-Here, briefly describe the principles governing their privacy and confidentiality of information provided by users of its e-services online:
-
-a) California Cinema Investments, its subsidiaries, affiliates or associates shall seek the customer information that is needed to provide personalized services that are available on their websites, which will be used solely for the purposes requested. 
-
-b) California Cinema Investments, its subsidiaries, affiliates or associates strives to ensure the quality of information collected about users of online services, particularly when obtained through a supplier to the information or services.
-
-c) California Cinema Investments, its subsidiaries, affiliates or associates focuses its efforts to offer the latest technology and updated to offer its customers / users the greatest possible safety in the handling and transfer of information that is required in the various processes data requirements.
-
-d) California Cinema Investments, its subsidiaries, affiliates or associates avoid disclosure of information about the customer / user, do so only with respect to data that are expressly authorized to do so.
-
-e) At all times California Cinema Investments, its subsidiaries, affiliates or partners are aware of the concerns that show our clients / customers regarding the handling of information provided for the various processes online.
-
-f) California Cinema Investments, its subsidiaries, affiliates or associates ensures that these principles of privacy / confidentiality extends to all trade relations within the group.
-
-g) California Cinema Investments, its subsidiaries, affiliates or partners share responsibility for the care information with their employees, making them partners with the guidelines set forth in documents of "Policy of privacy / confidentiality."
+Effective Date: This Policy is effective immediately.   
+Last Updated: September 26th, 2011.
