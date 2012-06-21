@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payvment.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228144714id_/http%3A//www.payvment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payvment.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621071440id_/http%3A//www.payvment.com/privacy) for the most accurate reproduction.*
 
 # Payvment - eCommerce and Discovery on Facebook: Privacy Policy
 
