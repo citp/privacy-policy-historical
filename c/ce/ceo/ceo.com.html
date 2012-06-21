@@ -1,89 +1,82 @@
-<!--The following is the downloaded HTML source of the ceo.com privacy policy that was archived on 2011-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203175914id_/http%3A//www.ceo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ceo.com privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621194931id_/http%3A//www.ceo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:x2="http://www.w3.org/2002/06/xhtml2" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta itemprop="image" content="http://www.ceo.com/wp-content/themes/ceo/images/icons/nl-social-gp.png">
+<meta name="viewport" content="width=1080, maximum-scale=1.0">
+<!--<meta itemprop="image" content="http://www.ceo.com/wp-content/themes/ceo/images/icons/nl-social-gp.png" />-->
 <meta name="bitly-verification" content="4e3d8e19e2ac">
 <title>CEO.com Privacy Policy | CEO.com</title>
 <link rel="stylesheet" type="text/css" href="http://www.ceo.com/wp-content/themes/ceo/js/extjs/resources/css/ext-all.css">
 <link rel="stylesheet" type="text/css" href="http://www.ceo.com/wp-content/themes/ceo/js/extjs/resources/css/xtheme-gray.css">
-<!--<script type="text/javascript" src="http://www.ceo.com/wp-content/themes/ceo/js/extjs/adapter/ext/ext-base.js"></script>
-<script type="text/javascript" src="http://www.ceo.com/wp-content/themes/ceo/js/extjs/ext-all.js"></script>-->
-<script type="text/javascript" defer="" async="" src="http://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js" defer=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.ceo.com/wp-content/themes/ceo/js/jquery.js"></script>
-<script src="http://www.ceo.com/wp-content/themes/ceo/js/jquery-ui.min.js"></script>
-<script src="http://www.ceo.com/wp-content/themes/ceo/js/colorbox/jquery.colorbox.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.ceo.com/wp-content/themes/ceo/assets/reset2.css">
+<link rel="stylesheet" type="text/css" href="http://www.ceo.com/wp-content/themes/ceo/assets/base.css">
+<link rel="stylesheet" type="text/css" href="http://www.ceo.com/wp-content/themes/ceo/assets/skin.min.css?v=1.6">
+<link href="http://www.ceo.com/wp-content/themes/ceo/style.css" type="text/css" media="screen">
+<link href="http://www.ceo.com/wp-content/themes/ceo/js/slider/slider.css" rel="stylesheet" type="text/css">
+<link media="screen" rel="stylesheet" href="http://www.ceo.com/wp-content/themes/ceo/js/colorbox/colorbox.css">
+<script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js" defer=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.ceo.com/wp-content/themes/ceo/js/head.min.js"></script>
 <script type="text/javascript">
+head.js({jquery: "http://www.ceo.com/wp-content/themes/ceo/js/jquery.js?v=1.7.2"})
+	.js("http://www.ceo.com/wp-content/themes/ceo/js/jquery-ui.min.js")
+	.js("http://www.ceo.com/wp-content/themes/ceo/js/jquery.tools.min.js")
+	.js("http://www.ceo.com/wp-content/themes/ceo/js/colorbox/jquery.colorbox.js")
+	.js("http://www.ceo.com/wp-content/themes/ceo/js/jquery.cycle.all.js")
+	.js("http://www.ceo.com/wp-content/themes/ceo/js/main.js?v=1.5")
+	.js("http://www.ceo.com/wp-content/themes/ceo/js/tips/jquery.bt.js");
+</script>
+<script type="text/javascript"> 
+var $buoop = {vs:{i:8,f:1,o:10.1,s:1,n:9}} 
+$buoop.ol = window.onload; 
+window.onload=function(){ 
+ try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
+ var e = document.createElement("script"); 
+ e.setAttribute("type", "text/javascript"); 
+ e.setAttribute("src", "http://browser-update.org/update.js"); 
+ document.body.appendChild(e); 
+} 
+</script>
+ <script type="text/javascript">
 	var site_root = 'http://www.ceo.com',
 			newsletter_modal_bottom = 0;
 		
+	// This section is for scripts associated with tablet support
+	var useragent = 'ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)';
+	var browsertype = 'desktop';
+	
 	function isiPad(){
+		head.ready(function() {
 		var p = navigator.platform;
 		return(p.indexOf("iPad") != -1);
+		});
 	}
-
+		
+	var versre = /\d+_\d+_?\d?/;
+	var vers = useragent.match(versre);
+	
+	if(typeof vers!="undefined" && vers!=null){
+		if(vers[0]){
+			var iosver = vers[0].replace(/_/g,'.').substring(0,1);
+		}
+	}
+	if(isiPad()){
+			$('a.cboxElement').each(function(){
+				var $lnk = $(this);
+				//console.log('removing cbox for link: ' + $lnk.attr('href'));
+				$lnk.removeClass('cboxElement');
+				$lnk.attr("target","_self");
+			});
+		document.write('<link media="screen" rel="stylesheet" href="http://www.ceo.com/wp-content/themes/ceo/assets/ipad.css" />');
+	}
+	
 </script>
-<script src="http://www.ceo.com/wp-content/themes/ceo/js/main.js"></script>
-<script src="http://www.ceo.com/wp-content/themes/ceo/js/tips/jquery.bt.js" type="text/javascript" charset="utf-8"></script>
 
-<link rel="stylesheet" type="text/css" href="http://www.ceo.com/wp-content/themes/ceo/assets/reset2.css">
-<link rel="stylesheet" type="text/css" href="http://www.ceo.com/wp-content/themes/ceo/assets/base.css">
-<!--<link rel="stylesheet" type="text/css" href="http://www.ceo.com/wp-content/themes/ceo/assets/grids.css" />-->
-<link rel="stylesheet" type="text/css" href="http://www.ceo.com/wp-content/themes/ceo/assets/skin.css">
-
-<link href="http://www.ceo.com/wp-content/themes/ceo/style.css" type="text/css" media="screen">
-
-				
-		<script language="javascript" type="text/javascript">
-			var txtEmailPopup;
-			function SendNewLetterRequest() {
-			
-				if (!txtEmailPopup.isValid())
-				{
-					alert('Please enter a valid email address.');
-					return;
-				}
-				else {
-					document.getElementById("frmNLTop").submit();
-				}			
-			}
-		
-			function OpenNewsletter() {
-				$("#divNewsLetterPopup").slideDown('slow',function(){});;
-			}			
-			
-			function CloseNewsletter() {
-				$("#divNewsLetterPopup").slideUp('slow',function(){ $("#divNewsLetterPopup").css('display', 'none') });;
-			}
-			
-		</script>
-    
-    <link media="screen" rel="stylesheet" href="http://www.ceo.com/wp-content/themes/ceo/js/colorbox/colorbox.css">
-		<script type="text/javascript" src="http://www.ceo.com/wp-content/themes/ceo/js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
-    <script type="text/javascript">
-		
-			var ua = navigator.userAgent;
-			var versre = /\d+_\d+_?\d?/;
-			var vers = ua.match(versre);
-			if(vers[0]){
-				var iosver = vers[0].replace(/_/g,'.');
-			}
-			if(isiPad()){
-				/*
-				if(iosver < '5.0.0'){
-					document.write('<link media="screen" rel="stylesheet" href="http://www.ceo.com/wp-content/themes/ceo/assets/ipad4.css" />');
-				} else {
-					document.write('<link media="screen" rel="stylesheet" href="http://www.ceo.com/wp-content/themes/ceo/assets/ipad.css" />');
-				}
-				*/
-				document.write('<link media="screen" rel="stylesheet" href="http://www.ceo.com/wp-content/themes/ceo/assets/ipad.css" />');
-			}
-    </script>
-    
-<link rel="alternate" type="application/rss+xml" title="CEO.com » Feed" href="http://www.ceo.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="CEO.com » Comments Feed" href="http://www.ceo.com/comments/feed/">
+		    
+	<script type="text/javascript">
+		head.js("http://www.ceo.com/wp-content/themes/ceo/js/jquery.cookie.js")
+			.js("http://platform.linkedin.com/in.js");
+	</script>
+	
 				
 	<script type="text/javascript">//<![CDATA[
 	// Google Analytics for WordPress by Yoast v4.06 | http://yoast.com/wordpress/google-analytics/
@@ -97,17 +90,10 @@
 	})();
 	// End of Google Analytics for WordPress by Yoast v4.0
 	//]]></script>
-<link rel="alternate" type="application/rss+xml" title="CEO.com » CEO.com Privacy Policy Comments Feed" href="http://www.ceo.com/privacy-policy/feed/">
-<script type="text/javascript" src="http://www.ceo.com/wp-includes/js/l10n.js?ver=20101110"></script>
-<script type="text/javascript" src="http://www.ceo.com/wp-content/themes/ceo/js/jquery.tools.min.js?ver=3.2.1"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ceo.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ceo.com/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="CEO.com" href="http://www.ceo.com/">
 <link rel="prev" title="Stock Option Repricing" href="http://www.ceo.com/ceo-guides/human-resource-management/stock-option-repricing/">
 <link rel="next" title="CEO.com Terms of Use" href="http://www.ceo.com/ceo-com-terms-of-use/">
-<meta name="generator" content="WordPress 3.2.1">
 
-<!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[603,649] -->
+<!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[591,637] -->
 <link rel="canonical" href="http://www.ceo.com/privacy-policy/">
 <!-- /all in one seo pack -->
 <!-- This is for the adwords account -->
@@ -121,11 +107,22 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+
+
+<script>
+head.js("http://platform.twitter.com/widgets.js");
+</script>
 </head>
 <body>
+
 	<div id="fb-embed"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 	<script>
-  window.fbAsyncInit = function() { FB.init({status: true, cookie: true, xfbml: true}); };
+	window.fbAsyncInit = function() {
+		FB.init({status: true, cookie: true, xfbml: true});
+		FB.Event.subscribe('edge.create', function(href, widget) {
+			countFacebookLike();
+		});
+	};
   (function() {
       var e = document.createElement('script'); e.async = true;
       e.src = document.location.protocol +
@@ -134,38 +131,9 @@
       }());
   </script>
 		<!-- Header -->
-		<div id="divNewsLetterPopup" class="bgTpGry" style="display:none;">
-			<div class="cWrp">
-				<div class="tGL"><div class="tGR">
-				<div class="tGC">
-					<!-- Start Top Dock-->
-						<div style="margin-left:20px;margin-top:20px;">
-							<div style="font-size: 20px; width: 240px; position: relative; float: left;	">
-								NEWSLETTER SIGN UP
-							</div>
-							<div id="NewsletterPromoText" style="position: relative; float: left; margin-left: 10px; width: 330px;">
-								The Daily Low Down for the Top Spot
-							</div>
-							<div class="nwsPopup"><form id="frmNLTop" method="post" name="frmNLTop" action="http://www.ceo.com/newsletter-signup"><input type="text" class="blur" id="txtEmailPopup" value="Enter Email" name="txtEmailPopup"><input type="button" value="SUBSCRIBE" onclick="SendNewLetterRequest();"></form></div>
-						</div>
-						<a class="hide" href="javascript:CloseNewsletter();">&nbsp;</a>
-					<!-- End Top Dock -->
-				</div></div>
-				</div>
-			</div>
-		</div> 
        <div id="mHdr"><div class="cWrp">
-			<div class="cLogo"><a href="http://www.ceo.com"><img src="http://www.ceo.com/wp-content/themes/ceo/images/struct/logo_ceodotcom.png"></a></div>
-			<div class="hdrAd"><script type="text/javascript"><!--
-google_ad_client = "ca-pub-7065266018022619";
-/* Internal Pages - Top Banner */
-google_ad_slot = "4267141459";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>      <!--<img src="http://www.ceo.com/wp-content/themes/ceo/images/top-banner-ad-domo.jpg" width="728" height="90" />-->
+			<div class="cLogo"><a href="http://www.ceo.com">CEO.com</a></div>
+			<div class="hdrAd"><a href="http://www.domo.com/what-we-do/additional-resources/4/110#executive-briefs?dkw=bace101"><img src="http://www.ceo.com/wp-content/uploads/2012/05/728x90_3measures4.jpg"></a>      <!--<img src="http://www.ceo.com/wp-content/themes/ceo/images/top-banner-ad-domo.jpg" width="728" height="90" />-->
       </div>
 		</div></div>
     <!-- / Header -->
@@ -175,7 +143,7 @@ google_ad_height = 90;
 				<ul class="mnu">
 					<li>
 						<!--<a class="news" href="http://www.ceo.com/news"></a>-->
-            <a class="news" href="#"></a>
+            <a class="menus-news-insights news" href="http://www.ceo.com/news_and_insights"></a>
 						<div class="drpDwn nwsDwn">
             
               <div id="NewsByCatsMenu">
@@ -208,25 +176,26 @@ google_ad_height = 90;
 					</li>
 					<li class="miDiv"></li>
 					<li>
-						<a class="ceoGuides" href="http://www.ceo.com/ceo-guides"></a>
+						<a class="menus-ceo-guides ceoGuides" href="http://www.ceo.com/ceo-guides"></a>
 					</li>
 					<li class="miDiv"></li>
 					<li>
-						<a class="ceoWatch" href="http://www.ceo.com/ceo-watch"></a>
+						<a class="menus-ceo-watch ceoWatch" href="http://www.ceo.com/ceo-watch"></a>
 					</li>
 					<li class="miDiv"></li>
 					<li>
-						<a class="video" href="http://www.ceo.com/videos"></a>
+						<a class="menus-videos video" href="http://www.ceo.com/videos"></a>
 					</li>
 					<li class="miDiv"></li>
-					<li><a class="about" href="http://www.ceo.com/about-us"></a></li>
+					<li><a class="menus-about-us about" href="http://www.ceo.com/about-us"></a></li>
 				</ul>
-				<span class="srch"><form id="searchformMain" action="http://www.ceo.com" method="get" role="search"><input type="text" name="s"><input type="button" onclick="javascript:document.getElementById('searchformMain').submit();"></form></span>
+				<div class="srch"><form id="searchformMain" action="http://www.ceo.com" method="get"><input type="text" name="s"><input type="button" onclick="javascript:document.getElementById('searchformMain').submit();"></form></div>
 			</div>
 		</div>
     <!-- / Menu -->
 	<div id="mCnt">
 		<div class="cWrp">
+
 
 <div class="lClm iCntPrp" id="MailLCol">
 	<div class="breadcrumbs">
@@ -239,7 +208,7 @@ google_ad_height = 90;
 	<div id="sharepad">
     <div class="sharebuttonbox" id="socialGP"><a href="http://www.ceo.com/privacy-policy/" id="gpluslink-side"></a><div id="gplus-side"></div></div>
     <div class="sharebuttonbox" id="socialFB"><div id="fb-root"></div><fb:like href="http://www.ceo.com/privacy-policy/" send="false" layout="box_count" width="90" show_faces="false" font=""></fb:like></div>
-    <div class="sharebuttonbox" id="socialTW"><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a></div>
+    <div class="sharebuttonbox" id="socialTW"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.ceo.com%2Fprivacy-policy%2F&amp;count=vertical" style="width:57px; height:70px;"></iframe></div>
     <div class="sharebuttonbox" id="socialLI"><script type="in/share" data-url="http://www.ceo.com/privacy-policy/" data-counter="top" defer="defer"></script></div>
     <span class="st_email_vcount" st_title="CEO.com Privacy Policy" st_url="http://www.ceo.com/privacy-policy/" displaytext="share"></span>
     <span class="st_sharethis_vcount" st_title="CEO.com Privacy Policy" st_url="http://www.ceo.com/privacy-policy/" displaytext="share"></span>
@@ -288,12 +257,12 @@ To develop and provide content and advertising to you that is targeted to your i
   To enhance your experience we may provide you with interactive communications, such as our electronic newsletters, to the e-mail address that you provide to us. Such interactive communications are provided only to those users who have expressly provided us with their permission to receive them as part of their user profile.</p>
 <p>From time to time we may provide e-mails highlighting new features, promotions or contests on the website to those users who have expressly provided us with their permission to send such communications as part of their user profile.</p>
 <p><strong>To Provide Communications From Third Parties</strong><br>
-  We respect the privacy of our users and shall not disclose or distribute our user list to any third party, nor shall we permit anyone else to do so. However, we do make available for rental our list of those registrants who have expressly provided us with their permission to receive third party offers as part of their user profile. In those cases, your e-mail address will be transferred to the third party.</p>
+  We respect the privacy of our users and shall not, with the exception of related entities or specifically designated affiliates, disclose or distribute our user list to any third party, nor shall we permit anyone else to do so. However, we do make available for rental our list of those registrants who have expressly provided us with their permission to receive third party offers as part of their user profile. In those cases, your e-mail address will be transferred to the third party.</p>
 <p><strong>Control of Your Information</strong><br>
-  Registered users may elect to stop receiving newsletters or marketing material from CEO.com or on behalf of external third party business partners. by following instructions at the end of any such e-mail received.
+  Registered users may elect to stop receiving newsletters or marketing material from CEO.com or on behalf of external third party business partners by following instructions at the end of any such e-mail received.
   </p>
 <p><strong>Sharing of Information</strong><br>
-  We may use the information that we collect on the Site to contact you in order to help us better serve you, including but not limited to conducting surveys regarding the Site and requesting feedback regarding the Site..&nbsp; This information may also be used to improve the services the Site provides to you and your company. The information is collected and stored in a manner that we determine is appropriate for the nature of the data that we collect, and the need to fulfill your request. This information is not provided to third parties for their own use, unless specifically authorized by you.&nbsp; We do not share, sell, rent, or trade PII with third parties for their promotional purposes.</p>
+  We may use the information that we collect on the Site to contact you in order to help us better serve you, including but not limited to conducting surveys regarding the Site and requesting feedback regarding the Site. This information may also be used to improve the services the Site provides to you and your company. The information is collected and stored in a manner that we determine is appropriate for the nature of the data that we collect, and the need to fulfill your request. This information is not provided to third parties for their own use, unless specifically authorized by you.&nbsp; We do not share, sell, rent, or trade PII with third parties for their promotional purposes.</p>
 <p>We use third party service providers to provide automated data processing, marketing automation, data appends, contact discovery, and delivery services on the Site for our own purposes.&nbsp; When you sign up for certain of our services, we may share your personally identifiable information as necessary for one or more third parties to provide that service.&nbsp; These third parties are prohibited from using your personally identifiable information for any other purpose.</p>
 <p>We may disclose personal information when required by law, or in order to comply with a current judicial proceeding, a court order, or legal process served on the Site. Certain personal information that we collect on the Site may be distributed among ourselves or other third parties solely for the purposes of processing your request or arranging delivery of the content product, or service that you have requested. We may store and process personal information in the United States or any other country in which we (or any of our agents) maintain facilities.
   </p>
@@ -323,32 +292,38 @@ The ownership of CEO.com may change at some point in the future. Should that occ
 <div class="rClm">
 	<div id="HomeCol3">
 		<div id="NwsLtrSignup" class="clearafter">
-  	<h3>Connect with CEO.com</h3>
-    <p><strong>The Chief's Daily and Weekly Brief Newsletter</strong><br>
-		Top business insights, CEO news, and buzz-daily</p>
-    <div id="NwsLtrButtons">
-    	<a href="http://www.ceo.com/newsletter-signup/" id="NwsSU">Sign Up Now</a>
-    	<a href="http://www.ceo.com/newsletter-signup/" id="NwsLM">Learn More</a>
-    </div>
+    <a href="http://www.ceo.com/newsletter-signup/" id="NwsSU">Sign Up Now</a>
+  	<!-- <h3>Connect with CEO.com</h3> -->
+    <!-- <p><strong>The Chief's Daily and Weekly Brief Newsletter</strong><br /> -->
+		<!-- Top business insights, CEO news, and buzz-daily</p> -->
+    <!-- <div id="NwsLtrButtons"> -->
+    	<!-- <a href="/newsletter-signup/" id="NwsSU">Sign Up Now</a> -->
+    	<!-- <a href="/newsletter-signup/" id="NwsLM">Learn More</a> -->
+    <!-- </div> -->
       </div>
   <div id="HomeSocial" class="clearafter">
   	<ul>
     	<li><a href="http://www.facebook.com/pages/CEOcom/118572358204955" id="hmfb">Follow Us on Facebook</a></li>
-      <li><a href="http://twitter.com/ceo_com" id="hmttr">Follow Us on Twitter</a></li>
-      <li><a href="http://www.ceo.com/rss" id="hmrss">Get the RSS Feed</a></li>
+      <li><a href="http://twitter.com/ceodotcom" id="hmttr">Follow Us on Twitter</a></li>
+      <li><a href="http://www.ceo.com/rss" id="hmrss" class="track_rss">Get the RSS Feed</a></li>
       <!--<li><a href="http://plus.google.com/ceocom/" id="hmgp">Follow Us on Google Plus</a></li>-->
       <li id="sideplusone"><g:plusone annotation="none"></g:plusone></li>
     </ul>
   </div>  <div id="PopStories" class="clearafter">
   	<h3>Popular Stories</h3>
     <ul>
-			      <li><div class="storyclickcount red">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="264727-pops" href="http://www.forbes.com/sites/jessethomas/2011/11/22/5-personal-branding-tips-for-ceos-with-dan-schawbel/" style="color:#4C4C4C;text-decoration:none;">5 Personal Branding Tips For CEOs</a></li>
-					<div id="tip264727-pops" class="tooltip">
+			      <li><div class="storyclickcount blue">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281530-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fblogs.hbr.org%2Fschwartz%2F2012%2F06%2Fshare-this-with-your-ceo.html&amp;id=281530" style="color:#4C4C4C;text-decoration:none;">Every CEO Should Read This</a></li>
+					<div id="tip281530-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fblogs.hbr.org%2Fschwartz%2F2012%2F06%2Fshare-this-with-your-ceo.html&amp;id=281530">Every CEO Should Read This</a></h2>
+      <p><span class="publisher"></span>Encourage your people to set aside times every day for uninterrupted focus — above all by doing the most important thing first every day for 60 to 90 minutes, and then taking a break.</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fblogs.hbr.org%2Fschwartz%2F2012%2F06%2Fshare-this-with-your-ceo.html&amp;id=281530" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://www.forbes.com/sites/jessethomas/2011/11/22/5-personal-branding-tips-for-ceos-with-dan-schawbel/" id="gpluslink264727-pops"></a><div id="gplus264727-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.forbes.com/sites/jessethomas/2011/11/22/5-personal-branding-tips-for-ceos-with-dan-schawbel/" id="tbutta264727-pops"></a><div id="tbuttholder264727-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://www.forbes.com/sites/jessethomas/2011/11/22/5-personal-branding-tips-for-ceos-with-dan-schawbel/" id="fblikea264727-pops"></a><div id="fblikeholder264727-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.forbes.com/sites/jessethomas/2011/11/22/5-personal-branding-tips-for-ceos-with-dan-schawbel/" id="lisharea264727-pops"></a><div id="liholder264727-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://blogs.hbr.org/schwartz/2012/06/share-this-with-your-ceo.html" id="gpluslink281530-pops"></a><div id="gplus281530-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://blogs.hbr.org/schwartz/2012/06/share-this-with-your-ceo.html" id="tbutta281530-pops"></a><div id="tbuttholder281530-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://blogs.hbr.org/schwartz/2012/06/share-this-with-your-ceo.html" id="fblikea281530-pops"></a><div id="fblikeholder281530-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://blogs.hbr.org/schwartz/2012/06/share-this-with-your-ceo.html" id="lisharea281530-pops"></a><div id="liholder281530-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -359,19 +334,19 @@ The ownership of CEO.com may change at some point in the future. Should that occ
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://www.forbes.com/sites/jessethomas/2011/11/22/5-personal-branding-tips-for-ceos-with-dan-schawbel/">5 Personal Branding Tips For CEOs</a></h2>
-      <p><span class="publisher"></span>One of the biggest challenges CEOs face is building and then maintaining their personal brand without sacrificing their own outlook or interfering with their company’s integrity. I recently met Dan Schawbel, an author and public speaker widely considered as the go-to expert on the topic of...</p>
-      <p><a href="http://www.forbes.com/sites/jessethomas/2011/11/22/5-personal-branding-tips-for-ceos-with-dan-schawbel/" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount orange">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="264870-pops" href="http://chiefexecutive.net/ceo-outlook-2012" style="color:#4C4C4C;text-decoration:none;">CEO Outlook, 2012</a></li>
-					<div id="tip264870-pops" class="tooltip">
+      	      <li><div class="storyclickcount gray">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281380-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fblogs.hbr.org%2Fhbsfaculty%2F2012%2F06%2Fstop-working-all-those-hours.html&amp;id=281380" style="color:#4C4C4C;text-decoration:none;">It's About Results, Not Hours</a></li>
+					<div id="tip281380-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fblogs.hbr.org%2Fhbsfaculty%2F2012%2F06%2Fstop-working-all-those-hours.html&amp;id=281380">It's About Results, Not Hours</a></h2>
+      <p><span class="publisher"></span>Smart leaders realize that the only way they can succeed is by getting the most out of their employees. And the only way they can get the best out of their employees is to focus on results, not hours.</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fblogs.hbr.org%2Fhbsfaculty%2F2012%2F06%2Fstop-working-all-those-hours.html&amp;id=281380" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://chiefexecutive.net/ceo-outlook-2012" id="gpluslink264870-pops"></a><div id="gplus264870-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://chiefexecutive.net/ceo-outlook-2012" id="tbutta264870-pops"></a><div id="tbuttholder264870-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://chiefexecutive.net/ceo-outlook-2012" id="fblikea264870-pops"></a><div id="fblikeholder264870-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://chiefexecutive.net/ceo-outlook-2012" id="lisharea264870-pops"></a><div id="liholder264870-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://blogs.hbr.org/hbsfaculty/2012/06/stop-working-all-those-hours.html" id="gpluslink281380-pops"></a><div id="gplus281380-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://blogs.hbr.org/hbsfaculty/2012/06/stop-working-all-those-hours.html" id="tbutta281380-pops"></a><div id="tbuttholder281380-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://blogs.hbr.org/hbsfaculty/2012/06/stop-working-all-those-hours.html" id="fblikea281380-pops"></a><div id="fblikeholder281380-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://blogs.hbr.org/hbsfaculty/2012/06/stop-working-all-those-hours.html" id="lisharea281380-pops"></a><div id="liholder281380-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -382,23 +357,19 @@ The ownership of CEO.com may change at some point in the future. Should that occ
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://chiefexecutive.net/ceo-outlook-2012">CEO Outlook, 2012</a></h2>
-      <p><span class="publisher"></span>What concerns you most about the year ahead for your industry and your company?
-What about the general economy and political environment?
-What needs to be done?
-
-When Chief Executive asked these questions to CEOs, the responses came pouring in. Voicing their feelings on what lies ahead, 15 CEOs...</p>
-      <p><a href="http://chiefexecutive.net/ceo-outlook-2012" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount orange">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="264807-pops" href="http://www.ibtimes.com/articles/255962/20111125/experts-euro-scrapped-months.htm" style="color:#4C4C4C;text-decoration:none;">Experts: Euro To Be Scrapped Within Months</a></li>
-					<div id="tip264807-pops" class="tooltip">
+      	      <li><div class="storyclickcount gray">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281634-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fericjackson%2F2012%2F06%2F19%2F89-business-cliches-that-will-get-any-mba-promoted-to-middle-management-and-make-them-totally-useless%2F&amp;id=281634" style="color:#4C4C4C;text-decoration:none;">89 Totally Useless Business Cliches</a></li>
+					<div id="tip281634-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fericjackson%2F2012%2F06%2F19%2F89-business-cliches-that-will-get-any-mba-promoted-to-middle-management-and-make-them-totally-useless%2F&amp;id=281634">89 Totally Useless Business Cliches</a></h2>
+      <p><span class="publisher"></span>It’s a paradigm shift. We’re data-driven. We need to wrap our heads around this. It’s a win-win. ROI [used in any sentence].</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fericjackson%2F2012%2F06%2F19%2F89-business-cliches-that-will-get-any-mba-promoted-to-middle-management-and-make-them-totally-useless%2F&amp;id=281634" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://www.ibtimes.com/articles/255962/20111125/experts-euro-scrapped-months.htm" id="gpluslink264807-pops"></a><div id="gplus264807-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.ibtimes.com/articles/255962/20111125/experts-euro-scrapped-months.htm" id="tbutta264807-pops"></a><div id="tbuttholder264807-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://www.ibtimes.com/articles/255962/20111125/experts-euro-scrapped-months.htm" id="fblikea264807-pops"></a><div id="fblikeholder264807-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.ibtimes.com/articles/255962/20111125/experts-euro-scrapped-months.htm" id="lisharea264807-pops"></a><div id="liholder264807-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://www.forbes.com/sites/ericjackson/2012/06/19/89-business-cliches-that-will-get-any-mba-promoted-to-middle-management-and-make-them-totally-useless/" id="gpluslink281634-pops"></a><div id="gplus281634-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://www.forbes.com/sites/ericjackson/2012/06/19/89-business-cliches-that-will-get-any-mba-promoted-to-middle-management-and-make-them-totally-useless/" id="tbutta281634-pops"></a><div id="tbuttholder281634-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://www.forbes.com/sites/ericjackson/2012/06/19/89-business-cliches-that-will-get-any-mba-promoted-to-middle-management-and-make-them-totally-useless/" id="fblikea281634-pops"></a><div id="fblikeholder281634-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://www.forbes.com/sites/ericjackson/2012/06/19/89-business-cliches-that-will-get-any-mba-promoted-to-middle-management-and-make-them-totally-useless/" id="lisharea281634-pops"></a><div id="liholder281634-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -409,21 +380,19 @@ When Chief Executive asked these questions to CEOs, the responses came pouring i
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://www.ibtimes.com/articles/255962/20111125/experts-euro-scrapped-months.htm">Experts: Euro To Be Scrapped Within Months</a></h2>
-      <p><span class="publisher"></span>A panel of economic experts at the Institute of Economic Affairs (IEA) have said that the euro "will be scrapped within months."
-
-The panellists, which included the economics editor of Sky News, Ed Conway, Conservative MPs Bill Cash and Dominic Raab, as well as the former MEP John Stevens,...</p>
-      <p><a href="http://www.ibtimes.com/articles/255962/20111125/experts-euro-scrapped-months.htm" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount orange">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="264922-pops" href="http://online.wsj.com/article/SB10001424052970203935604577066773790883672.html" style="color:#4C4C4C;text-decoration:none;">Zuckerberg Shoots For $100 Billion IPO</a></li>
-					<div id="tip264922-pops" class="tooltip">
+      	      <li><div class="storyclickcount gray">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281164-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.inc.com%2Feric-v-holtzclaw%2Fkeep-your-best-employees-five-steps.html&amp;id=281164" style="color:#4C4C4C;text-decoration:none;">5 Ways To Keep Your Best Employees</a></li>
+					<div id="tip281164-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.inc.com%2Feric-v-holtzclaw%2Fkeep-your-best-employees-five-steps.html&amp;id=281164">5 Ways To Keep Your Best Employees</a></h2>
+      <p><span class="publisher"></span>Looking to attract and retain the talent required to take your company out of start-up phase and onto the next level? Be open to change.</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.inc.com%2Feric-v-holtzclaw%2Fkeep-your-best-employees-five-steps.html&amp;id=281164" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://online.wsj.com/article/SB10001424052970203935604577066773790883672.html" id="gpluslink264922-pops"></a><div id="gplus264922-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://online.wsj.com/article/SB10001424052970203935604577066773790883672.html" id="tbutta264922-pops"></a><div id="tbuttholder264922-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://online.wsj.com/article/SB10001424052970203935604577066773790883672.html" id="fblikea264922-pops"></a><div id="fblikeholder264922-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://online.wsj.com/article/SB10001424052970203935604577066773790883672.html" id="lisharea264922-pops"></a><div id="liholder264922-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://www.inc.com/eric-v-holtzclaw/keep-your-best-employees-five-steps.html" id="gpluslink281164-pops"></a><div id="gplus281164-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://www.inc.com/eric-v-holtzclaw/keep-your-best-employees-five-steps.html" id="tbutta281164-pops"></a><div id="tbuttholder281164-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://www.inc.com/eric-v-holtzclaw/keep-your-best-employees-five-steps.html" id="fblikea281164-pops"></a><div id="fblikeholder281164-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://www.inc.com/eric-v-holtzclaw/keep-your-best-employees-five-steps.html" id="lisharea281164-pops"></a><div id="liholder281164-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -434,19 +403,19 @@ The panellists, which included the economics editor of Sky News, Ed Conway, Cons
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://online.wsj.com/article/SB10001424052970203935604577066773790883672.html">Zuckerberg Shoots For $100 Billion IPO</a></h2>
-      <p><span class="publisher"></span>Facebook Chief Executive Mark Zuckerberg has in the past publicly expressed reluctance to do an IPO. And he has opted to keep Facebook private longer than many suspected he would. Now Facebook is inching closer to an initial public offering that it hopes will value the company at more than $100...</p>
-      <p><a href="http://online.wsj.com/article/SB10001424052970203935604577066773790883672.html" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount orange">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="264803-pops" href="http://www.forbes.com/sites/toddwoody/2011/11/23/are-googles-green-days-over/" style="color:#4C4C4C;text-decoration:none;">Larry Page Is Killing Green In Google</a></li>
-					<div id="tip264803-pops" class="tooltip">
+      	      <li><div class="storyclickcount gray">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281382-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.huffingtonpost.com%2F2012%2F06%2F15%2Fwarren-buffett-denis-abrams_n_1600382.html%3F1339780034&amp;id=281382" style="color:#4C4C4C;text-decoration:none;">Buffett Fires CEO For Taking Island Vacation...</a></li>
+					<div id="tip281382-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.huffingtonpost.com%2F2012%2F06%2F15%2Fwarren-buffett-denis-abrams_n_1600382.html%3F1339780034&amp;id=281382">Buffett Fires CEO For Taking Island Vacation...</a></h2>
+      <p><span class="publisher"></span>It's sad to say, but true: Even Warren Buffett fires people.</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.huffingtonpost.com%2F2012%2F06%2F15%2Fwarren-buffett-denis-abrams_n_1600382.html%3F1339780034&amp;id=281382" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://www.forbes.com/sites/toddwoody/2011/11/23/are-googles-green-days-over/" id="gpluslink264803-pops"></a><div id="gplus264803-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.forbes.com/sites/toddwoody/2011/11/23/are-googles-green-days-over/" id="tbutta264803-pops"></a><div id="tbuttholder264803-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://www.forbes.com/sites/toddwoody/2011/11/23/are-googles-green-days-over/" id="fblikea264803-pops"></a><div id="fblikeholder264803-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.forbes.com/sites/toddwoody/2011/11/23/are-googles-green-days-over/" id="lisharea264803-pops"></a><div id="liholder264803-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://www.huffingtonpost.com/2012/06/15/warren-buffett-denis-abrams_n_1600382.html?1339780034" id="gpluslink281382-pops"></a><div id="gplus281382-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://www.huffingtonpost.com/2012/06/15/warren-buffett-denis-abrams_n_1600382.html?1339780034" id="tbutta281382-pops"></a><div id="tbuttholder281382-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://www.huffingtonpost.com/2012/06/15/warren-buffett-denis-abrams_n_1600382.html?1339780034" id="fblikea281382-pops"></a><div id="fblikeholder281382-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://www.huffingtonpost.com/2012/06/15/warren-buffett-denis-abrams_n_1600382.html?1339780034" id="lisharea281382-pops"></a><div id="liholder281382-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -457,19 +426,19 @@ The panellists, which included the economics editor of Sky News, Ed Conway, Cons
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://www.forbes.com/sites/toddwoody/2011/11/23/are-googles-green-days-over/">Larry Page Is Killing Green In Google</a></h2>
-      <p><span class="publisher"></span>Since taking over as Google’s chief executive from Eric Schmidt, Larry Page has been cleaning house, shuttering services and initiatives that haven’t lived up to their billing. On Tuesday, Google axed its big green initiative called RE &lt; C – renewable energy cheaper than coal – an ambitious...</p>
-      <p><a href="http://www.forbes.com/sites/toddwoody/2011/11/23/are-googles-green-days-over/" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount yellow">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="265112-pops" href="http://www.inc.com/ss/how-mark-zuckerberg-kept-control-facebook#0" style="color:#4C4C4C;text-decoration:none;">Why Zuckerberg Is Filthy, Stinking, Insanely Rich</a></li>
-					<div id="tip265112-pops" class="tooltip">
+      	      <li><div class="storyclickcount gray">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281528-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.openforum.com%2Farticles%2F4-secrets-of-successful-introverts&amp;id=281528" style="color:#4C4C4C;text-decoration:none;">4 Secrets Of Successful Introverts</a></li>
+					<div id="tip281528-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.openforum.com%2Farticles%2F4-secrets-of-successful-introverts&amp;id=281528">4 Secrets Of Successful Introverts</a></h2>
+      <p><span class="publisher"></span>Although the ways in which introvert leadership differs from extrovert leadership are complex, there are a number of clear distinctions that any business leader can emulate. Here are the four most powerful secrets of the introvert leader:</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.openforum.com%2Farticles%2F4-secrets-of-successful-introverts&amp;id=281528" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://www.inc.com/ss/how-mark-zuckerberg-kept-control-facebook#0" id="gpluslink265112-pops"></a><div id="gplus265112-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.inc.com/ss/how-mark-zuckerberg-kept-control-facebook#0" id="tbutta265112-pops"></a><div id="tbuttholder265112-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://www.inc.com/ss/how-mark-zuckerberg-kept-control-facebook#0" id="fblikea265112-pops"></a><div id="fblikeholder265112-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.inc.com/ss/how-mark-zuckerberg-kept-control-facebook#0" id="lisharea265112-pops"></a><div id="liholder265112-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://www.openforum.com/articles/4-secrets-of-successful-introverts" id="gpluslink281528-pops"></a><div id="gplus281528-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://www.openforum.com/articles/4-secrets-of-successful-introverts" id="tbutta281528-pops"></a><div id="tbuttholder281528-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://www.openforum.com/articles/4-secrets-of-successful-introverts" id="fblikea281528-pops"></a><div id="fblikeholder281528-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://www.openforum.com/articles/4-secrets-of-successful-introverts" id="lisharea281528-pops"></a><div id="liholder281528-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -480,19 +449,19 @@ The panellists, which included the economics editor of Sky News, Ed Conway, Cons
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://www.inc.com/ss/how-mark-zuckerberg-kept-control-facebook#0">Why Zuckerberg Is Filthy, Stinking, Insanely Rich</a></h2>
-      <p><span class="publisher"></span>Unlike many founders, Zuckerberg has managed to retain a significant stake in his company, and his 24 percent of Facebook will make him an uber-billionaire when the company goes public. Here's what Zuckerberg did right to get to this point, and you, too, can become mega-rich. (Well, probably not....</p>
-      <p><a href="http://www.inc.com/ss/how-mark-zuckerberg-kept-control-facebook#0" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount yellow">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="264899-pops" href="http://www.inc.com/marla-tabaka/speak-up-to-boost-your-brand-through-public-speaking.html" style="color:#4C4C4C;text-decoration:none;">Do You Stink At Public Speaking?</a></li>
-					<div id="tip264899-pops" class="tooltip">
+      	      <li><div class="storyclickcount gray">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281596-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.inc.com%2Fmargaret-heffernan%2Ffire-an-employee-nicely-heres-how.html&amp;id=281596" style="color:#4C4C4C;text-decoration:none;">How To Fire People Without Being A Jerk</a></li>
+					<div id="tip281596-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.inc.com%2Fmargaret-heffernan%2Ffire-an-employee-nicely-heres-how.html&amp;id=281596">How To Fire People Without Being A Jerk</a></h2>
+      <p><span class="publisher"></span>No boss should enjoy losing an employee. But you can help smooth out the exit.</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.inc.com%2Fmargaret-heffernan%2Ffire-an-employee-nicely-heres-how.html&amp;id=281596" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://www.inc.com/marla-tabaka/speak-up-to-boost-your-brand-through-public-speaking.html" id="gpluslink264899-pops"></a><div id="gplus264899-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.inc.com/marla-tabaka/speak-up-to-boost-your-brand-through-public-speaking.html" id="tbutta264899-pops"></a><div id="tbuttholder264899-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://www.inc.com/marla-tabaka/speak-up-to-boost-your-brand-through-public-speaking.html" id="fblikea264899-pops"></a><div id="fblikeholder264899-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.inc.com/marla-tabaka/speak-up-to-boost-your-brand-through-public-speaking.html" id="lisharea264899-pops"></a><div id="liholder264899-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://www.inc.com/margaret-heffernan/fire-an-employee-nicely-heres-how.html" id="gpluslink281596-pops"></a><div id="gplus281596-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://www.inc.com/margaret-heffernan/fire-an-employee-nicely-heres-how.html" id="tbutta281596-pops"></a><div id="tbuttholder281596-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://www.inc.com/margaret-heffernan/fire-an-employee-nicely-heres-how.html" id="fblikea281596-pops"></a><div id="fblikeholder281596-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://www.inc.com/margaret-heffernan/fire-an-employee-nicely-heres-how.html" id="lisharea281596-pops"></a><div id="liholder281596-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -503,19 +472,19 @@ The panellists, which included the economics editor of Sky News, Ed Conway, Cons
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://www.inc.com/marla-tabaka/speak-up-to-boost-your-brand-through-public-speaking.html">Do You Stink At Public Speaking?</a></h2>
-      <p><span class="publisher"></span>It takes confidence to get in front of an audience. If you don't feel ready to take center-stage, try beginning with a few less-threatening ways to launch your speaking career.</p>
-      <p><a href="http://www.inc.com/marla-tabaka/speak-up-to-boost-your-brand-through-public-speaking.html" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount yellow">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="265038-pops" href="http://www.dailymail.co.uk/news/article-2067520/One-biggest-IT-companies-world-abolish-emails.html" style="color:#4C4C4C;text-decoration:none;">This CEO Just Banned Emails</a></li>
-					<div id="tip265038-pops" class="tooltip">
+      	      <li><div class="storyclickcount gray">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281704-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.inc.com%2Fdavid-lonsdale%2Fselling-your-company-seven-things-you-need-to-know.html&amp;id=281704" style="color:#4C4C4C;text-decoration:none;">7 Things To Know Before Selling Your Company</a></li>
+					<div id="tip281704-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.inc.com%2Fdavid-lonsdale%2Fselling-your-company-seven-things-you-need-to-know.html&amp;id=281704">7 Things To Know Before Selling Your Company</a></h2>
+      <p><span class="publisher"></span>Selling your company may be the most important business decision you ever make -- but it's a very strange process. What you need to know.</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.inc.com%2Fdavid-lonsdale%2Fselling-your-company-seven-things-you-need-to-know.html&amp;id=281704" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://www.dailymail.co.uk/news/article-2067520/One-biggest-IT-companies-world-abolish-emails.html" id="gpluslink265038-pops"></a><div id="gplus265038-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.dailymail.co.uk/news/article-2067520/One-biggest-IT-companies-world-abolish-emails.html" id="tbutta265038-pops"></a><div id="tbuttholder265038-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://www.dailymail.co.uk/news/article-2067520/One-biggest-IT-companies-world-abolish-emails.html" id="fblikea265038-pops"></a><div id="fblikeholder265038-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.dailymail.co.uk/news/article-2067520/One-biggest-IT-companies-world-abolish-emails.html" id="lisharea265038-pops"></a><div id="liholder265038-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://www.inc.com/david-lonsdale/selling-your-company-seven-things-you-need-to-know.html" id="gpluslink281704-pops"></a><div id="gplus281704-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://www.inc.com/david-lonsdale/selling-your-company-seven-things-you-need-to-know.html" id="tbutta281704-pops"></a><div id="tbuttholder281704-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://www.inc.com/david-lonsdale/selling-your-company-seven-things-you-need-to-know.html" id="fblikea281704-pops"></a><div id="fblikeholder281704-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://www.inc.com/david-lonsdale/selling-your-company-seven-things-you-need-to-know.html" id="lisharea281704-pops"></a><div id="liholder281704-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -526,20 +495,19 @@ The panellists, which included the economics editor of Sky News, Ed Conway, Cons
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://www.dailymail.co.uk/news/article-2067520/One-biggest-IT-companies-world-abolish-emails.html">This CEO Just Banned Emails</a></h2>
-      <p><span class="publisher"></span>Thierry Breton, Atos’s 56-year-old chief executive officer who is a former French finance minister, said the ‘zero e-mail’ policy could be in place within a year-and-a-half.
-‘It is not right that some of our fellow employees spend hours in the evening dealing with their e-mails,’ said Mr...</p>
-      <p><a href="http://www.dailymail.co.uk/news/article-2067520/One-biggest-IT-companies-world-abolish-emails.html" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount yellow">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="264903-pops" href="http://video.techcrunch.com/video/15750006-founder-stories-how-michael-bloomberg-got-his-start-i-brought-you-a-cup-of-coffee" style="color:#4C4C4C;text-decoration:none;">How Michael Bloomberg Made Billions</a></li>
-					<div id="tip264903-pops" class="tooltip">
+      	      <li><div class="storyclickcount ">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281384-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fallthingsd.com%2F20120614%2Fits-time-for-an-internal-memo-dibble-takes-over-all-tech-at-yahoo%2F&amp;id=281384" style="color:#4C4C4C;text-decoration:none;">Yahoo's Kind-Of CEO Just Made A Huge Change</a></li>
+					<div id="tip281384-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fallthingsd.com%2F20120614%2Fits-time-for-an-internal-memo-dibble-takes-over-all-tech-at-yahoo%2F&amp;id=281384">Yahoo's Kind-Of CEO Just Made A Huge Change</a></h2>
+      <p><span class="publisher"></span>Even though he is interim CEO, Ross Levinsohn just made a significant change in Yahoo’s tech organization, putting David Dibble in charge of both central technology and core platforms.</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fallthingsd.com%2F20120614%2Fits-time-for-an-internal-memo-dibble-takes-over-all-tech-at-yahoo%2F&amp;id=281384" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://video.techcrunch.com/video/15750006-founder-stories-how-michael-bloomberg-got-his-start-i-brought-you-a-cup-of-coffee" id="gpluslink264903-pops"></a><div id="gplus264903-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://video.techcrunch.com/video/15750006-founder-stories-how-michael-bloomberg-got-his-start-i-brought-you-a-cup-of-coffee" id="tbutta264903-pops"></a><div id="tbuttholder264903-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://video.techcrunch.com/video/15750006-founder-stories-how-michael-bloomberg-got-his-start-i-brought-you-a-cup-of-coffee" id="fblikea264903-pops"></a><div id="fblikeholder264903-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://video.techcrunch.com/video/15750006-founder-stories-how-michael-bloomberg-got-his-start-i-brought-you-a-cup-of-coffee" id="lisharea264903-pops"></a><div id="liholder264903-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://allthingsd.com/20120614/its-time-for-an-internal-memo-dibble-takes-over-all-tech-at-yahoo/" id="gpluslink281384-pops"></a><div id="gplus281384-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://allthingsd.com/20120614/its-time-for-an-internal-memo-dibble-takes-over-all-tech-at-yahoo/" id="tbutta281384-pops"></a><div id="tbuttholder281384-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://allthingsd.com/20120614/its-time-for-an-internal-memo-dibble-takes-over-all-tech-at-yahoo/" id="fblikea281384-pops"></a><div id="fblikeholder281384-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://allthingsd.com/20120614/its-time-for-an-internal-memo-dibble-takes-over-all-tech-at-yahoo/" id="lisharea281384-pops"></a><div id="liholder281384-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -550,19 +518,19 @@ The panellists, which included the economics editor of Sky News, Ed Conway, Cons
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://video.techcrunch.com/video/15750006-founder-stories-how-michael-bloomberg-got-his-start-i-brought-you-a-cup-of-coffee">How Michael Bloomberg Made Billions</a></h2>
-      <p><span class="publisher"></span>Before he was Mayor of New York City, Michael Bloomberg worked his tail off to start his own business.  In this interview with TechCrunch, Bloomberg explains what it took to go from struggling entrepreneur to self-made billionaire.</p>
-      <p><a href="http://video.techcrunch.com/video/15750006-founder-stories-how-michael-bloomberg-got-his-start-i-brought-you-a-cup-of-coffee" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount yellow">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="265053-pops" href="http://www.washingtonpost.com/national/on-innovations/the-real-cloud-revolution-is-all-about-consumerization/2011/11/29/gIQAHRpT9N_story.html" style="color:#4C4C4C;text-decoration:none;">The Real Cloud Revolution</a></li>
-					<div id="tip265053-pops" class="tooltip">
+      	      <li><div class="storyclickcount ">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281521-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.inc.com%2Fjeff-haden%2Fkey-to-leadership-managing-employees.html&amp;id=281521" style="color:#4C4C4C;text-decoration:none;">The Only Management Strategy You'll Ever Need</a></li>
+					<div id="tip281521-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.inc.com%2Fjeff-haden%2Fkey-to-leadership-managing-employees.html&amp;id=281521">The Only Management Strategy You'll Ever Need</a></h2>
+      <p><span class="publisher"></span>Great leaders don't need to struggle to motivate, inspire, and lead their employees. Here's why.</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.inc.com%2Fjeff-haden%2Fkey-to-leadership-managing-employees.html&amp;id=281521" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://www.washingtonpost.com/national/on-innovations/the-real-cloud-revolution-is-all-about-consumerization/2011/11/29/gIQAHRpT9N_story.html" id="gpluslink265053-pops"></a><div id="gplus265053-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.washingtonpost.com/national/on-innovations/the-real-cloud-revolution-is-all-about-consumerization/2011/11/29/gIQAHRpT9N_story.html" id="tbutta265053-pops"></a><div id="tbuttholder265053-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://www.washingtonpost.com/national/on-innovations/the-real-cloud-revolution-is-all-about-consumerization/2011/11/29/gIQAHRpT9N_story.html" id="fblikea265053-pops"></a><div id="fblikeholder265053-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.washingtonpost.com/national/on-innovations/the-real-cloud-revolution-is-all-about-consumerization/2011/11/29/gIQAHRpT9N_story.html" id="lisharea265053-pops"></a><div id="liholder265053-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://www.inc.com/jeff-haden/key-to-leadership-managing-employees.html" id="gpluslink281521-pops"></a><div id="gplus281521-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://www.inc.com/jeff-haden/key-to-leadership-managing-employees.html" id="tbutta281521-pops"></a><div id="tbuttholder281521-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://www.inc.com/jeff-haden/key-to-leadership-managing-employees.html" id="fblikea281521-pops"></a><div id="fblikeholder281521-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://www.inc.com/jeff-haden/key-to-leadership-managing-employees.html" id="lisharea281521-pops"></a><div id="liholder281521-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -573,21 +541,19 @@ The panellists, which included the economics editor of Sky News, Ed Conway, Cons
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://www.washingtonpost.com/national/on-innovations/the-real-cloud-revolution-is-all-about-consumerization/2011/11/29/gIQAHRpT9N_story.html">The Real Cloud Revolution</a></h2>
-      <p><span class="publisher"></span>Everyone is talking about the “cloud,” but is there anything new here? How is the “cloud” different from “internet” or “web?”
-
-There is something new — and it’s a big deal — but it’s not what everyone usually talks about.</p>
-      <p><a href="http://www.washingtonpost.com/national/on-innovations/the-real-cloud-revolution-is-all-about-consumerization/2011/11/29/gIQAHRpT9N_story.html" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount yellow">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="265072-pops" href="http://www.forbes.com/sites/brettnelson/2011/11/30/americas-most-promising-companies-the-top-20/" style="color:#4C4C4C;text-decoration:none;">America's 20 Most Promising Companies</a></li>
-					<div id="tip265072-pops" class="tooltip">
+      	      <li><div class="storyclickcount lightgray">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281728-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fcarminegallo%2F2012%2F06%2F20%2Fsteve-jobs-to-pixar-chief-just-make-it-great%2F&amp;id=281728" style="color:#4C4C4C;text-decoration:none;">Steve Jobs' 4 Magic Words To Pixar</a></li>
+					<div id="tip281728-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fcarminegallo%2F2012%2F06%2F20%2Fsteve-jobs-to-pixar-chief-just-make-it-great%2F&amp;id=281728">Steve Jobs' 4 Magic Words To Pixar</a></h2>
+      <p><span class="publisher"></span>“Just make it great.”</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fcarminegallo%2F2012%2F06%2F20%2Fsteve-jobs-to-pixar-chief-just-make-it-great%2F&amp;id=281728" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://www.forbes.com/sites/brettnelson/2011/11/30/americas-most-promising-companies-the-top-20/" id="gpluslink265072-pops"></a><div id="gplus265072-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.forbes.com/sites/brettnelson/2011/11/30/americas-most-promising-companies-the-top-20/" id="tbutta265072-pops"></a><div id="tbuttholder265072-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://www.forbes.com/sites/brettnelson/2011/11/30/americas-most-promising-companies-the-top-20/" id="fblikea265072-pops"></a><div id="fblikeholder265072-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.forbes.com/sites/brettnelson/2011/11/30/americas-most-promising-companies-the-top-20/" id="lisharea265072-pops"></a><div id="liholder265072-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://www.forbes.com/sites/carminegallo/2012/06/20/steve-jobs-to-pixar-chief-just-make-it-great/" id="gpluslink281728-pops"></a><div id="gplus281728-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://www.forbes.com/sites/carminegallo/2012/06/20/steve-jobs-to-pixar-chief-just-make-it-great/" id="tbutta281728-pops"></a><div id="tbuttholder281728-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://www.forbes.com/sites/carminegallo/2012/06/20/steve-jobs-to-pixar-chief-just-make-it-great/" id="fblikea281728-pops"></a><div id="fblikeholder281728-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://www.forbes.com/sites/carminegallo/2012/06/20/steve-jobs-to-pixar-chief-just-make-it-great/" id="lisharea281728-pops"></a><div id="liholder281728-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -598,19 +564,19 @@ There is something new — and it’s a big deal — but it’s not what everyon
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://www.forbes.com/sites/brettnelson/2011/11/30/americas-most-promising-companies-the-top-20/">America's 20 Most Promising Companies</a></h2>
-      <p><span class="publisher"></span>The companies on our AMPC list hail from 22 industries, with software-and-services taking the biggest slice (35%). Some fast facts: 90 have raised outside capital; 70 have a CEO who is also one of the founders; 12 have one younger than 35 years old; 7 have yet to generate revenue; and one sells a...</p>
-      <p><a href="http://www.forbes.com/sites/brettnelson/2011/11/30/americas-most-promising-companies-the-top-20/" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount yellow">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="265277-pops" href="http://mashable.com/2011/12/02/social-ceo-infographic/" style="color:#4C4C4C;text-decoration:none;">Infographic: 5 Big Reasons CEOs Should Get Social </a></li>
-					<div id="tip265277-pops" class="tooltip">
+      	      <li><div class="storyclickcount lightgray">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281542-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fmashable.com%2F2012%2F06%2F19%2Fbig-data-myths%2F&amp;id=281542" style="color:#4C4C4C;text-decoration:none;">Top 5 Myths About Big Data</a></li>
+					<div id="tip281542-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fmashable.com%2F2012%2F06%2F19%2Fbig-data-myths%2F&amp;id=281542">Top 5 Myths About Big Data</a></h2>
+      <p><span class="publisher"></span>No, big data does not mean Hadoop.</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fmashable.com%2F2012%2F06%2F19%2Fbig-data-myths%2F&amp;id=281542" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://mashable.com/2011/12/02/social-ceo-infographic/" id="gpluslink265277-pops"></a><div id="gplus265277-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://mashable.com/2011/12/02/social-ceo-infographic/" id="tbutta265277-pops"></a><div id="tbuttholder265277-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://mashable.com/2011/12/02/social-ceo-infographic/" id="fblikea265277-pops"></a><div id="fblikeholder265277-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://mashable.com/2011/12/02/social-ceo-infographic/" id="lisharea265277-pops"></a><div id="liholder265277-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://mashable.com/2012/06/19/big-data-myths/" id="gpluslink281542-pops"></a><div id="gplus281542-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://mashable.com/2012/06/19/big-data-myths/" id="tbutta281542-pops"></a><div id="tbuttholder281542-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://mashable.com/2012/06/19/big-data-myths/" id="fblikea281542-pops"></a><div id="fblikeholder281542-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://mashable.com/2012/06/19/big-data-myths/" id="lisharea281542-pops"></a><div id="liholder281542-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -621,19 +587,19 @@ There is something new — and it’s a big deal — but it’s not what everyon
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://mashable.com/2011/12/02/social-ceo-infographic/">Infographic: 5 Big Reasons CEOs Should Get Social </a></h2>
-      <p><span class="publisher"></span>An infographic that highlights data about how some in the C-suite are using social media sites, how they consume news and the benefits of being a socially savvy CEO.</p>
-      <p><a href="http://mashable.com/2011/12/02/social-ceo-infographic/" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount yellow">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="264816-pops" href="http://www.businessinsider.com/overcome-by-change-the-failure-of-two-companies-to-seize-the-initiative-and-master-oncoming-change-2011-11" style="color:#4C4C4C;text-decoration:none;">2 Big Companies That Failed To Adapt To Technology</a></li>
-					<div id="tip264816-pops" class="tooltip">
+      	      <li><div class="storyclickcount lightgray">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281620-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.forbes.com%2Fpictures%2Fmkl45gljh%2F8-tips-for-boosting-productivity-at-work-this-summer%2F&amp;id=281620" style="color:#4C4C4C;text-decoration:none;">8 Tips For Boosting Productivity This Summer</a></li>
+					<div id="tip281620-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.forbes.com%2Fpictures%2Fmkl45gljh%2F8-tips-for-boosting-productivity-at-work-this-summer%2F&amp;id=281620">8 Tips For Boosting Productivity This Summer</a></h2>
+      <p><span class="publisher"></span>Summer is upon us and over the next few weeks schools will be closing, the sun will be shining, and you’ll be daydreaming that you’re at the beach or on a boat or anywhere but your desk....</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.forbes.com%2Fpictures%2Fmkl45gljh%2F8-tips-for-boosting-productivity-at-work-this-summer%2F&amp;id=281620" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://www.businessinsider.com/overcome-by-change-the-failure-of-two-companies-to-seize-the-initiative-and-master-oncoming-change-2011-11" id="gpluslink264816-pops"></a><div id="gplus264816-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.businessinsider.com/overcome-by-change-the-failure-of-two-companies-to-seize-the-initiative-and-master-oncoming-change-2011-11" id="tbutta264816-pops"></a><div id="tbuttholder264816-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://www.businessinsider.com/overcome-by-change-the-failure-of-two-companies-to-seize-the-initiative-and-master-oncoming-change-2011-11" id="fblikea264816-pops"></a><div id="fblikeholder264816-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.businessinsider.com/overcome-by-change-the-failure-of-two-companies-to-seize-the-initiative-and-master-oncoming-change-2011-11" id="lisharea264816-pops"></a><div id="liholder264816-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://www.forbes.com/pictures/mkl45gljh/8-tips-for-boosting-productivity-at-work-this-summer/" id="gpluslink281620-pops"></a><div id="gplus281620-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://www.forbes.com/pictures/mkl45gljh/8-tips-for-boosting-productivity-at-work-this-summer/" id="tbutta281620-pops"></a><div id="tbuttholder281620-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://www.forbes.com/pictures/mkl45gljh/8-tips-for-boosting-productivity-at-work-this-summer/" id="fblikea281620-pops"></a><div id="fblikeholder281620-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://www.forbes.com/pictures/mkl45gljh/8-tips-for-boosting-productivity-at-work-this-summer/" id="lisharea281620-pops"></a><div id="liholder281620-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -644,19 +610,19 @@ There is something new — and it’s a big deal — but it’s not what everyon
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://www.businessinsider.com/overcome-by-change-the-failure-of-two-companies-to-seize-the-initiative-and-master-oncoming-change-2011-11">2 Big Companies That Failed To Adapt To Technology</a></h2>
-      <p><span class="publisher"></span>The stories of Borders and The San Jose Mercury News are wonderful illustrations of the wrenching changes facing the bookseller and newspaper industries, and aptly demonstrate the difficulties of maintaining dominance in a shifting competitive environment.  These are stories of failure, but we can...</p>
-      <p><a href="http://www.businessinsider.com/overcome-by-change-the-failure-of-two-companies-to-seize-the-initiative-and-master-oncoming-change-2011-11" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount yellow">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="264975-pops" href="http://www.inc.com/ilya-pozin/9-things-that-motivate-employees-more-than-money.html" style="color:#4C4C4C;text-decoration:none;">9 Cheap Ways To Boost Morale</a></li>
-					<div id="tip264975-pops" class="tooltip">
+      	      <li><div class="storyclickcount lightgray">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281637-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.entrepreneur.com%2Farticle%2F223639&amp;id=281637" style="color:#4C4C4C;text-decoration:none;">Richard Branson: How To Build An Empire</a></li>
+					<div id="tip281637-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.entrepreneur.com%2Farticle%2F223639&amp;id=281637">Richard Branson: How To Build An Empire</a></h2>
+      <p><span class="publisher"></span>"I'm in a position where I can make a difference and think I shouldn't waste that."</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.entrepreneur.com%2Farticle%2F223639&amp;id=281637" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://www.inc.com/ilya-pozin/9-things-that-motivate-employees-more-than-money.html" id="gpluslink264975-pops"></a><div id="gplus264975-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.inc.com/ilya-pozin/9-things-that-motivate-employees-more-than-money.html" id="tbutta264975-pops"></a><div id="tbuttholder264975-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://www.inc.com/ilya-pozin/9-things-that-motivate-employees-more-than-money.html" id="fblikea264975-pops"></a><div id="fblikeholder264975-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.inc.com/ilya-pozin/9-things-that-motivate-employees-more-than-money.html" id="lisharea264975-pops"></a><div id="liholder264975-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://www.entrepreneur.com/article/223639" id="gpluslink281637-pops"></a><div id="gplus281637-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://www.entrepreneur.com/article/223639" id="tbutta281637-pops"></a><div id="tbuttholder281637-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://www.entrepreneur.com/article/223639" id="fblikea281637-pops"></a><div id="fblikeholder281637-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://www.entrepreneur.com/article/223639" id="lisharea281637-pops"></a><div id="liholder281637-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -667,19 +633,19 @@ There is something new — and it’s a big deal — but it’s not what everyon
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://www.inc.com/ilya-pozin/9-things-that-motivate-employees-more-than-money.html">9 Cheap Ways To Boost Morale</a></h2>
-      <p><span class="publisher"></span>The ability to motivate employees is one of the greatest skills an entrepreneur can possess. Two years ago, I realized I didn’t have this skill. So I hired a CEO who did. Here are nine things I learned from him:</p>
-      <p><a href="http://www.inc.com/ilya-pozin/9-things-that-motivate-employees-more-than-money.html" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount yellow">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="264812-pops" href="http://www.leadersbeacon.com/when-bad-leadership-happens-to-good-people/" style="color:#4C4C4C;text-decoration:none;">When Bad Leadership Happens To Good People</a></li>
-					<div id="tip264812-pops" class="tooltip">
+      	      <li><div class="storyclickcount lightgray">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281509-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Ftechcrunch.com%2F2012%2F06%2F18%2Fgoogle-acquires-over-50-patents-from-magnolia-broadband%2F&amp;id=281509" style="color:#4C4C4C;text-decoration:none;">Google Just Acquired Over 50 Patents... </a></li>
+					<div id="tip281509-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Ftechcrunch.com%2F2012%2F06%2F18%2Fgoogle-acquires-over-50-patents-from-magnolia-broadband%2F&amp;id=281509">Google Just Acquired Over 50 Patents... </a></h2>
+      <p><span class="publisher"></span>Google has acquired more than 50 patents from New Jersey-based fabless semiconductor company Magnolia Broadband.</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Ftechcrunch.com%2F2012%2F06%2F18%2Fgoogle-acquires-over-50-patents-from-magnolia-broadband%2F&amp;id=281509" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://www.leadersbeacon.com/when-bad-leadership-happens-to-good-people/" id="gpluslink264812-pops"></a><div id="gplus264812-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.leadersbeacon.com/when-bad-leadership-happens-to-good-people/" id="tbutta264812-pops"></a><div id="tbuttholder264812-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://www.leadersbeacon.com/when-bad-leadership-happens-to-good-people/" id="fblikea264812-pops"></a><div id="fblikeholder264812-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.leadersbeacon.com/when-bad-leadership-happens-to-good-people/" id="lisharea264812-pops"></a><div id="liholder264812-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://techcrunch.com/2012/06/18/google-acquires-over-50-patents-from-magnolia-broadband/" id="gpluslink281509-pops"></a><div id="gplus281509-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://techcrunch.com/2012/06/18/google-acquires-over-50-patents-from-magnolia-broadband/" id="tbutta281509-pops"></a><div id="tbuttholder281509-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://techcrunch.com/2012/06/18/google-acquires-over-50-patents-from-magnolia-broadband/" id="fblikea281509-pops"></a><div id="fblikeholder281509-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://techcrunch.com/2012/06/18/google-acquires-over-50-patents-from-magnolia-broadband/" id="lisharea281509-pops"></a><div id="liholder281509-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -690,19 +656,19 @@ There is something new — and it’s a big deal — but it’s not what everyon
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://www.leadersbeacon.com/when-bad-leadership-happens-to-good-people/">When Bad Leadership Happens To Good People</a></h2>
-      <p><span class="publisher"></span>Good people are the ones who suffer the most at the expense of bad leadership. Plato said, “The measure of a man is what he does with power.” And this holds true for leaders. Whether it is an abuse of power or the failure to carry out leadership responsibilities; bad leadership happens to good...</p>
-      <p><a href="http://www.leadersbeacon.com/when-bad-leadership-happens-to-good-people/" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
-      	      <li><div class="storyclickcount yellow">&nbsp;</div><a type="text" class="ttlink cboxElement ttlinkleft" id="264985-pops" href="http://www.autonews.com/apps/pbcs.dll/article?AID=/20111128/OEM02/311289936/1179" style="color:#4C4C4C;text-decoration:none;">One Of These Guys Will Replace Alan Mulally</a></li>
-					<div id="tip264985-pops" class="tooltip">
+      	      <li><div class="storyclickcount lightgray">&nbsp;</div><a type="text" class="ttlink cboxElementOld ttlinkleft" id="281221-pops" href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fmanagement.fortune.cnn.com%2F2012%2F06%2F14%2Fso-you-want-to-snag-a-corporate-board-seat%2F&amp;id=281221" style="color:#4C4C4C;text-decoration:none;">How To Snag A Corporate Board Seat</a></li>
+					<div id="tip281221-pops" class="tooltip">
+    <div class="tipCont">
+      <h2><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fmanagement.fortune.cnn.com%2F2012%2F06%2F14%2Fso-you-want-to-snag-a-corporate-board-seat%2F&amp;id=281221">How To Snag A Corporate Board Seat</a></h2>
+      <p><span class="publisher"></span>Most companies still recruit directors the old-fashioned way -- it's all about who knows you -- but there are other ways to land a spot.</p>
+      <p><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fmanagement.fortune.cnn.com%2F2012%2F06%2F14%2Fso-you-want-to-snag-a-corporate-board-seat%2F&amp;id=281221" class="cboxElementOld viewfull">View full article »</a></p>
+    </div>
   	<div class="ceoa">
-			      			<div class="sharebuttonbox"><a href="http://www.autonews.com/apps/pbcs.dll/article?AID=/20111128/OEM02/311289936/1179" id="gpluslink264985-pops"></a><div id="gplus264985-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.autonews.com/apps/pbcs.dll/article?AID=/20111128/OEM02/311289936/1179" id="tbutta264985-pops"></a><div id="tbuttholder264985-pops"></div></div>
-    	      <div class="sharebuttonbox"><a href="http://www.autonews.com/apps/pbcs.dll/article?AID=/20111128/OEM02/311289936/1179" id="fblikea264985-pops"></a><div id="fblikeholder264985-pops"></div></div>
-      <div class="sharebuttonbox"><a href="http://www.autonews.com/apps/pbcs.dll/article?AID=/20111128/OEM02/311289936/1179" id="lisharea264985-pops"></a><div id="liholder264985-pops"></div></div>
+			      	  <div class="sharebuttonbox google_share_wrapper"><a href="http://management.fortune.cnn.com/2012/06/14/so-you-want-to-snag-a-corporate-board-seat/" id="gpluslink281221-pops"></a><div id="gplus281221-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-plusone.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox twitter_share_wrapper"><a href="http://management.fortune.cnn.com/2012/06/14/so-you-want-to-snag-a-corporate-board-seat/" id="tbutta281221-pops"></a><div id="tbuttholder281221-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-twshare.jpg" alt="" style="padding-top:42px;"></div></div>
+            <div class="sharebuttonbox facebook_share_wrapper" style="width: 50px; overflow: hidden;"><a href="http://management.fortune.cnn.com/2012/06/14/so-you-want-to-snag-a-corporate-board-seat/" id="fblikea281221-pops"></a><div id="fblikeholder281221-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-fblike.jpg" alt="" style="padding-top:42px;"></div></div>
+      <div class="sharebuttonbox linkedin_share_wrapper" style="margin-right: 0px;"><a href="http://management.fortune.cnn.com/2012/06/14/so-you-want-to-snag-a-corporate-board-seat/" id="lisharea281221-pops"></a><div id="liholder281221-pops"><img src="http://www.ceo.com/wp-content/themes/ceo/images/btn-linkedin.jpg" alt="" style="padding-top:42px;"></div></div>
       <div class="sharethisbuttons clearafter">
       					<script>
 					//stLight.options({
@@ -713,11 +679,6 @@ There is something new — and it’s a big deal — but it’s not what everyon
         </script>
 				      </div>
 			    </div>
-    <div class="tipCont">
-      <h2><a href="http://www.autonews.com/apps/pbcs.dll/article?AID=/20111128/OEM02/311289936/1179">One Of These Guys Will Replace Alan Mulally</a></h2>
-      <p><span class="publisher"></span>Alan Mulally will be a hard act to follow as CEO of Ford Motor Co. The former Boeing executive, who arrived in Detroit in 2006 to a chorus of skeptics, pulled off what Time magazine called "the biggest business turnaround of the Great Recession." In the process, Mulally transformed Ford's culture,...</p>
-      <p><a href="http://www.autonews.com/apps/pbcs.dll/article?AID=/20111128/OEM02/311289936/1179" class="cboxElement viewfull">View full article »</a></p>
-    </div>
 	</div>
           </ul>
   </div>
@@ -738,38 +699,39 @@ google_ad_height = 250;
   <div id="FCCarouselInt">
   	<div class="wrapper">
       <ul>
-          	<li><a href="http://www.ceo.com/?p=265158"><div><img width="85" height="85" src="http://www.ceo.com/wp-content/uploads/2011/12/Screen-Shot-2011-12-01-at-3.34.04-PM1-85x85.png" class="attachment-featured-content wp-post-image" alt="Screen Shot 2011-12-01 at 3.34.04 PM" title="Screen Shot 2011-12-01 at 3.34.04 PM"></div><div class="text"><p class="fctitle">Mark Cuban: Startups, Investing, And Daily Deals</p><p></p></div></a></li>
-        	<li><a href="http://www.ceo.com/?p=264903"><div><img width="85" height="85" src="http://www.ceo.com/wp-content/uploads/2011/11/Screen-Shot-2011-11-28-at-2.52.57-PM1-85x85.png" class="attachment-featured-content wp-post-image" alt="Screen Shot 2011-11-28 at 2.52.57 PM" title="Screen Shot 2011-11-28 at 2.52.57 PM"></div><div class="text"><p class="fctitle">How Michael Bloomberg Made Billions</p><p></p></div></a></li>
-        	<li><a href="http://www.ceo.com/?p=264870"><div><img width="85" height="85" src="http://www.ceo.com/wp-content/uploads/2011/11/bradfarris-85x85.jpg" class="attachment-featured-content wp-post-image" alt="bradfarris" title="bradfarris"></div><div class="text"><p class="fctitle">CEO Outlook, 2012</p><p></p></div></a></li>
-        	<li><a href="http://www.ceo.com/?p=264101"><div><img width="85" height="85" src="http://www.ceo.com/wp-content/uploads/2011/11/Into-the-Cloud-85x85.gif" class="attachment-featured-content wp-post-image" alt="Into-the-Cloud" title="Into-the-Cloud"></div><div class="text"><p class="fctitle">Infographic: Should Your Company Live In The Cloud?</p><p></p></div></a></li>
-        	<li><a href="http://www.ceo.com/?p=263997"><div><img width="85" height="85" src="http://www.ceo.com/wp-content/uploads/2011/11/jack-dorsey-85x85.jpg" class="attachment-featured-content wp-post-image" alt="jack-dorsey" title="jack-dorsey"></div><div class="text"><p class="fctitle">Jack Dorsey: How I Balance Twitter AND Square</p><p></p></div></a></li>
-    	
+          	<li><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702303379204577474953586383604.html&amp;id=281739"><div><img width="85" height="85" src="http://assets1.ceo.com/wp-content/uploads/2012/06/ceo-boot-85x85.png" class="attachment-featured-content wp-post-image" alt="CEO Boot" title=""></div><div class="text"><p class="fctitle">Who's the Boss? There Isn't One</p><p></p></div></a></li>
+		    	<li><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fericjackson%2F2012%2F06%2F19%2F89-business-cliches-that-will-get-any-mba-promoted-to-middle-management-and-make-them-totally-useless%2F&amp;id=281634"><div><img width="85" height="85" src="http://assets2.ceo.com/wp-content/uploads/2012/06/cliche3-85x85.png" class="attachment-featured-content wp-post-image" alt="cliche3" title=""></div><div class="text"><p class="fctitle">89 Totally Useless Business Cliches</p><p></p></div></a></li>
+		    	<li><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fblogs.hbr.org%2Fschwartz%2F2012%2F06%2Fshare-this-with-your-ceo.html&amp;id=281530"><div><img width="85" height="85" src="http://assets1.ceo.com/wp-content/uploads/2012/06/productivity-85x85.png" class="attachment-featured-content wp-post-image" alt="productivity" title=""></div><div class="text"><p class="fctitle">Every CEO Should Read This</p><p></p></div></a></li>
+		    	<li><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fventurebeat.com%2F2012%2F06%2F15%2Fthe-5-traits-of-radically-successful-people%2F&amp;id=281377"><div><img width="85" height="85" src="http://assets2.ceo.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-10.50.45-AM-85x85.png" class="attachment-featured-content wp-post-image" alt="Credit: Venture Beat Screenshot" title=""></div><div class="text"><p class="fctitle">5 Traits Of Radically Successful People</p><p></p></div></a></li>
+		    	<li><a href="http://www.ceo.com/flink/?lnk=http%3A%2F%2Fwww.fastcompany.com%2F1839723%2F9-job-interview-tips-from-a-ceo-headhunter&amp;id=281268"><div><img width="85" height="85" src="http://assets1.ceo.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-15-at-9.12.59-AM-85x85.png" class="attachment-featured-content wp-post-image" alt="Credit: Fast Company" title=""></div><div class="text"><p class="fctitle">10 Job Interview Tips From A CEO Headhunter</p><p></p></div></a></li>
+			
       </ul>
   	</div>
   </div>
 </div>
 
-<!--<div class="ad3"><img src="http://www.ceo.com/wp-content/themes/ceo/images/ads/ad_mattdamon.png" /></div>-->
 
-
-<!--<div class="lCAd"><a href="#"><img src="http://www.ceo.com/wp-content/themes/ceo/images/ads/ad_pootietang.png" /></a></div>--></div>
+</div>
 	
 
 </div>
 <!-- Footer -->
 	<div id="mFtr"><div class="cWrp">
 			<div class="lClmn">
-				<span class="clogo">
-                	<a href="#"><img src="http://www.ceo.com/wp-content/themes/ceo/images/struct/logo_ftr_ceodotcom.png"></a>
+				<span class="clogo logo_ftr_ceodotcom">
+                	<a href="http://www.ceo.com">CEO.com</a>
                 </span>
 				<span class="share">
-                		<a href="http://www.ceo.com/rss"><img src="http://www.ceo.com/wp-content/themes/ceo/images/share/ico_ftr_rssfeed.png"></a>
-                    <a href="http://www.ceo.com/newsletter-signup"><img src="http://www.ceo.com/wp-content/themes/ceo/images/share/ico_ftr_newsletter.png"></a>
-                    <a href="http://twitter.com/ceo_com"><img src="http://www.ceo.com/wp-content/themes/ceo/images/share/ico_ftr_twitter.png"></a>
-                    <!--<a href="#"><img src="http://www.ceo.com/wp-content/themes/ceo/images/share/ico_ftr_linkedin.png" /></a>-->
+				<ul>
+					<li><a href="http://www.facebook.com/pages/CEOcom/118572358204955" class="ico_ftr_facebook">Facebook</a></li>
+					<li><a href="http://twitter.com/ceodotcom" class="ico_ftr_twitter">Twitter</a></li>
+					<li><a href="http://www.ceo.com/rss" class="ico_ftr_rssfeed track_rss">RSS</a></li>
+					<li id="sideplusone"><g:plusone annotation="none"></g:plusone></li>
+				</ul>
+					<!--<a href="#"><img src="http://www.ceo.com/wp-content/themes/ceo/images/share/ico_ftr_linkedin.png" /></a>-->
                     <!--<a href="#"><img src="http://www.ceo.com/wp-content/themes/ceo/images/share/ico_ftr_facebook.png" /></a>-->
                 </span>
-				<ul>
+				<ul style="width: 100%;">
 					<li><a href="http://www.ceo.com/about-us">About Us</a></li>
 					<li><a href="http://www.ceo.com/privacy-policy">Privacy Policy</a></li>
 					<li><a href="http://www.ceo.com/ceo-com-terms-of-use">Terms of Use</a></li>
@@ -781,7 +743,7 @@ google_ad_height = 250;
 			</div>
 			<div class="mClmn">
 					<ul>
-						<li class="clmTtl">News</li>
+						<li class="clmTtl">News &amp; Insights</li>
                       
             <li><a href="http://www.ceo.com/finance">Finance</a></li>
                       
@@ -846,7 +808,7 @@ google_ad_height = 250;
             	              <li><a href="http://www.ceo.com/ceo-guides/strategy/a-ceos-guide-to-negotiations/" class="menupagechild">Negotiations</a></li>
             	              <li><a href="http://www.ceo.com/ceo-guides/strategy/strategic-planning/" class="menupagechild">Strategic Planning</a></li>
             	              <li><a href="http://www.ceo.com/ceo-guides/technology-innovation/managing-creativity-innovation/" class="menupagechild">Managing Creativity &amp; Innovation</a></li>
-            	              <li><a href="http://www.ceo.com/ceo-guides/technology-innovation/research-development/" class="menupagechild">R&amp;D</a></li>
+            	              <li><a href="http://www.ceo.com/?page_id=62864" class="menupagechild">R&amp;D</a></li>
             	<!--						  <li><a href="#">Finance</a></li>
               <li><a href="#">Business and Government</a></li>
               <li><a href="#">Business Expansion</a></li>
@@ -863,7 +825,7 @@ google_ad_height = 250;
 					</ul>
 			</div>
 			<div class="rClmn">
-				<span class="srch"><form id="searchformFooter" action="http://www.ceo.com" method="get" role="search"><input type="text" name="s"><input type="button" onclick="javascript:document.getElementById('searchformFooter').submit();"></form></span>
+				<div class="srch"><form id="searchformFooter" action="http://www.ceo.com" method="get" role="search"><input type="text" name="s"><input type="button" onclick="javascript:document.getElementById('searchformFooter').submit();"></form></div>
           <ul>
             <li class="clmTtl">More from CEO.com</li>
               <!--<li><a href="#">CEO Blogs</a></li>-->
@@ -883,10 +845,10 @@ google_ad_height = 250;
             <li><a href="http://www.ceo.com/contribute">Contribute</a></li>
             <li><a href="http://www.ceo.com/contact-us">Advertise with Us</a></li>
             <li><a href="http://www.ceo.com/ceo-of-tomorrow-scholarship">CEO of Tomorrow Scholarship</a></li>
-            <li><a href="http://www.domo.com/">Powered By Domo<br><img src="http://www.ceo.com/wp-content/themes/ceo/images/domo-logo.jpg" width="60" height="60" alt="Domo" style="margin: 10px 0 0 0;"></a></li>
+            <li style="padding-top: 35px;"><a href="http://www.domo.com/?dkw=baceo"><div style="margin-bottom: 5px;">Brought to you by</div><div class="domo-logo">Domo</div></a></li>
 					</ul>
 			</div>
-            <div class="cpyRgt">© 2011 CEO.com. All rights reserved.</div>
+            <div class="cpyRgt">© 2012 CEO.com. All rights reserved.</div>
 		</div>
  </div>
 
@@ -898,7 +860,7 @@ google_ad_height = 250;
       <ul>
         <li>CEO trends and activity</li>
         <li>Actionable leadership insights</li>
-        <li>Exclusive stories, guides, and research</li>
+        <li>Exclusive stories, guides and research</li>
       </ul>
     </div>
     <div id="SubRight">
@@ -914,78 +876,69 @@ google_ad_height = 250;
       </div>
       <div id="HomeSocial" class="clearafter subscribe">
         <ul>
-          <li><a href="http://www.facebook.com/pages/ceocom/105948809494647" id="hmfb">Follow Us on Facebook</a></li>
-          <li><a href="http://twitter.com/ceo_com" id="hmttr">Follow Us on Twitter</a></li>
+          <li><a href="http://www.facebook.com/CEOdotCom" id="hmfb">Follow Us on Facebook</a></li>
+          <li><a href="http://twitter.com/ceodotcom" id="hmttr">Follow Us on Twitter</a></li>
           <li><a href="http://www.ceo.com/rss" id="hmrss">Get the RSS Feed</a></li>
-          <li><a href="http://plus.google.com/ceocom/" id="hmgp">Follow Us on Google Plus</a></li>
-        </ul>
+                  </ul>
       </div>
     </div>
   </div>
 </div>
 
 
-<div id="NLSubMod">
-	<div id="NLSubTab">
-  	<a href="#" id="NLToggle">Toggle</a>
-  	<a href="#" id="NLClose">Close</a>
-  </div>
-	<div id="NLSection" class="clearafter">
-  	<div>
-    	<a href="http://www.ceo.com/newsletter-signup/">Subscribe</a>
-      <a href="http://www.ceo.com/newsletter-signup/" id="NLLearnMore">Learn More</a>
-        </div>
-  </div>
-  <div id="NLSocial" class="clearafter">
-  	<ul>
-    	<li><a href="http://www.facebook.com/pages/CEOcom/118572358204955" id="nlfb">Follow Us on Facebook</a></li>
-      <li><a href="http://twitter.com/ceo_com" id="nltw">Follow Us on Twitter</a></li>
-      <li><a href="http://www.ceo.com/rss" id="nlrss">Get the RSS Feed</a></li>
-      <li id="nlgplus"><g:plusone annotation="none" href="http://www.ceo.com"></g:plusone></li>
-    </ul>
-  </div>
-  <div id="NLCloseBot">
-  	<a href="#" id="NLClose2">Close</a>
-  </div>
-</div>
+<!-- Do not remove the comment below, it is used for analytics!  Thanks! -->
+<!-- PageFinishNow -->
 <!-- / Footer -->
+
 	<!-- SiteCatalyst code version: H.22.1.
 	Copyright 1996-2011 Adobe, Inc. All Rights Reserved
 	More info available at http://www.omniture.com -->
-	<script language="JavaScript" type="text/javascript" src="http://www.ceo.com/wp-content/themes/ceo/includes/s_code.js"></script>
-	<script language="JavaScript" type="text/javascript"><!--
-	/* You may give each page an identifying name, server, and channel on
-	the next lines. */
-		s.pageName="CEO.com Privacy Policy"
-	s.channel="CEO.com Privacy Policy"
-		s.server=""
-	s.pageType=""
-	s.prop1 = s.getTimeParting('h','-7','2011')
-	s.prop2 = s.getTimeParting('d','-7','2011')
-	s.prop3 = s.getTimeParting('w','-7','2011')
-	s.prop4=""
-	s.prop5 = s.getQueryParam("s")
-	s.prop25 = window.location.href
-	/* Conversion Variables */
-	s.campaign=s.getQueryParam('ceoid')
-	s.state=""
-	s.zip=""
-		s.events="event1"
-		s.products=""
-	s.purchaseID=""
-	s.eVar1= s.pageName
-	s.eVar2= s.getVisitNum()
-	s.eVar3=""
-	s.eVar4=""
-	s.eVar5=""
-	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-	var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+	<script>
+	head.js("http://www.ceo.com/wp-content/themes/ceo/includes/s_code.js?v=1.0", function() {
+		<!--
+			/* You may give each page an identifying name, server, and channel on
+			the next lines. */
+						s.pageName="CEO.com Privacy Policy"
+			s.channel="CEO.com Privacy Policy"
+						s.server=""
+			s.pageType=""
+			s.prop1 = s.getTimeParting('h','-7','2012')
+			s.prop2 = s.getTimeParting('d','-7','2012')
+			s.prop3 = s.getTimeParting('w','-7','2012')
+			s.prop4=""
+			s.prop5 = s.getQueryParam("s")
+			s.prop13 = ""
+			s.prop14 = s.pageName
+			s.prop25 = window.location.href
+			/* Conversion Variables */
+			s.campaign=s.getQueryParam('ceoid')
+			s.state=""
+			s.zip=""
+						s.events="event1"
+						s.products=""
+			s.purchaseID=""
+			s.eVar1= s.pageName
+			s.eVar2= s.getVisitNum()
+			s.eVar3=""
+			s.eVar4=""
+			s.eVar5=""
+			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+			var s_code=s.t();if(s_code)document.write(s_code)//-->
+	});
+	</script>
 	<script language="JavaScript" type="text/javascript"><!--
 	if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 	//--></script><noscript><img src="http://omniture.d1.sc.omtrdc.net/b/ss/popchart/1/H.22.1--NS/0"
 	height="1" width="1" border="0" alt="" /></noscript><!-- DO NOT REMOVE -->
 	<!-- End SiteCatalyst code version: H.22.1. -->
 	<script type="text/javascript">
+		head.ready("jquery", function() {
+		var rssButton = $(".track_rss");
+		rssButton.click(function(){
+			trackRSSClick(this);
+		});
+		});
+		
 		function trackDownload(obj, linkname)
 		{
 			s.linkTrackVars='None';
@@ -996,8 +949,11 @@ google_ad_height = 250;
 		{
 			s.prop8 = $(obj).attr("data-position");
 			s.prop9 = $(obj).attr("data-category");
-			s.prop10 = "Headline Hover Link Clicked";
-			s.linkTrackVars = 'prop8,prop9,prop10';
+			s.prop10 = "Headline Hover Link Clicked " + s.prop8;
+			s.eVar6 = $(obj).parent().parent().find('h2 a').text();
+			s.events="event11";
+			s.linkTrackVars = 'prop8,prop9,prop10,eVar6';
+			s.linkTrackEvents = 'event11';
 			s.linkInternalFilters=getDomain(obj.href)
 			s.tl(obj, 'o');
 		}
@@ -1005,8 +961,11 @@ google_ad_height = 250;
 		{
 			s.prop8 = $(obj).attr("data-position");
 			s.prop9 = $(obj).attr("data-category");
-			s.prop10 = "Headline Stack Click";
-			s.linkTrackVars = 'prop8,prop9,prop10';
+			s.prop10 = "Headline Stack Click " + s.prop8;
+			s.events="event10";
+			s.eVar6 = $(obj).text();
+			s.linkTrackVars = 'prop8,prop9,prop10,eVar6';
+			s.linkTrackEvents = 'event10';
 			s.linkInternalFilters=getDomain(obj.href)
 			s.tl(obj, 'o');
 		}
@@ -1014,8 +973,19 @@ google_ad_height = 250;
 		{
 			s.prop8 = $(obj).attr("data-position");
 			s.prop9 = $(obj).attr("data-category");
-			s.prop10 = "Headline Hover";
-			s.linkTrackVars = 'prop8,prop9,prop10';
+			s.prop10 = "Headline Hover " + s.prop8;
+			s.events="event9";
+			s.prop14 = s.prop10;
+			s.eVar6 = $(obj).text();
+			s.eVar14 = "+1";
+			s.linkTrackVars = 'prop8,prop9,prop10,prop14,eVar6,eVar14';
+			s.linkTrackEvents = 'event9';
+			s.tl(obj, 'o');
+		}
+		function trackRSSClick(obj)
+		{
+			s.events = 'event15';
+			s.linkTrackEvents = 'event15';
 			s.tl(obj, 'o');
 		}
 		function getDomain(url) {
@@ -1055,20 +1025,14 @@ google_ad_height = 250;
 </script>
 
 <script type="text/javascript">
-//async script, twitter button fashiolista.com style
-	(function() {
-	var s = document.createElement('SCRIPT');
-	var c = document.getElementsByTagName('script')[0];
-	s.type = 'text/javascript';
-	s.defer = "defer";
-	s.async = true;
-	s.src = 'http://platform.twitter.com/widgets.js';
-	c.parentNode.insertBefore(s, c);
-	})();
+window.twttr = (function (d,s,id) {
+    var t, js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+    js.src="http://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+    return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+  }(document, "script", "twitter-wjs"));
 </script>
 
-<!--<script src="http://connect.facebook.net/en_US/all.js#appId=213890405325957&amp;xfbml=1" defer="defer"></script>-->
-<!--<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>-->
 
 
-</div></body></html>
+</div><script type="text/javascript" src="http://browser-update.org/update.js"></script></body></html>
