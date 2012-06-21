@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the admarketplace.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223084832id_/http%3A//admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admarketplace.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621080948id_/http%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
 
 # adMarketplace.com: Privacy Statement
-
-[Home](https://web.archive.org/web/20111223084832id_/http%3A//admarketplace.com/index.php) 〉〉 Privacy Statement
 
 adMarketplace, Inc.'s ("adMarketplace's") website, [www.adMarketplace.com](http://www.admarketplace.com/), serves two basic functions. First, it is a portal for information about adMarketplace products and services as well as online advertising generally. Second, it contains password-protected pages where adMarketplace partners can access partner-only materials. 
 
@@ -102,4 +100,4 @@ As our company and services evolve, this Privacy Policy may be revised to reflec
 
 ### Questions?
 
-Please [contact us](https://web.archive.org/web/20111223084832id_/http%3A//admarketplace.com/contact.php?type=other) with any questions about this website Privacy Policy.
+Please [contact us](https://web.archive.org/web/20120621080948id_/http%3A//www.admarketplace.com/contact.php?type=other) with any questions about this website Privacy Policy.
