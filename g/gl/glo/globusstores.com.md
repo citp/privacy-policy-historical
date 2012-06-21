@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globusstores.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130000531id_/http%3A//www.globusstores.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globusstores.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621202154id_/http%3A//www.globusstores.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Globus — Privacy Policy
+# Privacy Policy | Globus
 
 Globus Stores Pvt Ltd including www.globus.in, respects your privacy. This Privacy Policy outlines the manner your data is collected and used by SSL. You are advised to please read the Privacy Policy carefully. By accessing the services provided by www.globus.in you agree to the collection and use of your data by www.globus.in in the manner provided in this Privacy Policy.
 
