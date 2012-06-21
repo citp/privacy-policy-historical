@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newnfldraft.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222040551id_/http%3A//newnfldraft.com/newnfldraft-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newnfldraft.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621080721id_/http%3A//newnfldraft.com/newnfldraft-privacy-policy) for the most accurate reproduction.*
 
 # Newnfldraft Privacy Policy | 2012 NFL Mock Draft | New NFL Draft
 
@@ -37,6 +37,8 @@ Sharing Your Information
 
 Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp
+
 Newnfldraft.com Personnel: Newnfldraft.com personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Newnfldraft.com business.
 
 Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Newnfldraft.com, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
@@ -61,4 +63,4 @@ If you decide to visit Newnfldraft.com website, your visit and any possible disp
 
 Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of 4/17/09 and last updated 4/17/09.
+This Privacy Policy is effective as of 4/17/09 and last updated 4/16/12.
