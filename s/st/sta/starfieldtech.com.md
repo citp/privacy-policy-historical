@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starfieldtech.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220072537id_/http%3A//www.starfieldtech.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfieldtech.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621040709id_/http%3A//www.starfieldtech.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Starfield Technologies, Inc. - STARFIELD TECHNOLOGIES, INC. PRIVACY POLICY
+# Starfield Technologies - Starfield Technologies PRIVACY POLICY
 
 Last Revised: November 01, 2011
 
@@ -100,4 +100,4 @@ Suite 219
 Scottsdale, AZ, 85260, U.S.A. 
 
 Revised: November 01, 2011  
-Copyright © 2000 - 2011. All Rights Reserved. 
+Copyright © 2000 - 2011 Starfield Technologies, LLC. All Rights Reserved. 
