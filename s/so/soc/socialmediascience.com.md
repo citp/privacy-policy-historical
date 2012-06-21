@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmediascience.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221175805id_/http%3A//socialmediascience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediascience.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621114904id_/http%3A//socialmediascience.com/privacy-policy) for the most accurate reproduction.*
 
 # Social Media Science: Privacy Policy
 
