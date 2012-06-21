@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bewellbuzz.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221180914id_/http%3A//www.bewellbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bewellbuzz.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621031018id_/http%3A//www.bewellbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Be Well Buzz
 
@@ -12,7 +12,7 @@ In addition to personal information—such as name, street and e-mail addresses,
 
 ### How does BeWellBuzz.com use my personal information?
 
-The more we know about you, the better we are able to customize our web site to suit your personal preferences and interests. The e-mail address you provide may be used by BeWellBuzz.com for any reason, such as contacting you for editorial purposes or to advise you of any changes to our site. We may also from time to time send you messages about our marketing partners’ [products](http://www.bewellbuzz.com/bewellbuzz-products/ "products").
+The more we know about you, the better we are able to customize our web site to suit your personal preferences and interests. The e-mail address you provide may be used by BeWellBuzz.com for any reason, such as contacting you for editorial purposes or to advise you of any changes to our site. We may also from time to time send you messages about our marketing partners’ products.
 
 To maintain a site that is free of charge and does not require registration, we display advertisements on our web site. We also use the information you give us to help our advertisers target the audience they want to reach. At no time does any party other than BeWellBuzz.com have access to your personally identifiable information, and you will never be contacted by any party other than BeWellBuzz.com. The only exceptions to the foregoing are that we may disclose personally identifiable information (i) in response to legal process, for example, in response to a court order or subpoena, (ii) in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law, or (iii) in the event we are acquired by or merged with another company.
 
@@ -25,3 +25,12 @@ Non-personally identifiable information (such as stated above) may be shared in 
 Any information you disclose voluntarily on our comments pages or in any forums we may develop in the future becomes public information. We cannot control the actions of our site users and advise you to use your discretion in sharing information about yourself on the internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online.
 
 (revised 12.15.2010)
+
+### [BeWellBuzz](http://www.bewellbuzz.com/author/Buzz%20Team/ "BeWellBuzz")
+
+Our mission and goal is to provide you with the best, researched and factual natural health information on the internet. Created by Larry Oz, a natural health journalist who seeks to awaken people to their highest levels of personal truth. Please spread this article far and wide by sharing it with family and friends. As always, please seek professional advice before implementing any practice. BeWellBuzz.com is brought to you by [Halcyon Publishing](http://www.halcyonpublishing.net/).
+
+[More Posts](http://www.bewellbuzz.com/author/Buzz%20Team/ "More posts by BeWellBuzz") \- [Website](http://www.bewellbuzz.com/ "BeWellBuzz")
+
+Follow Me:  
+[](http://www.twitter.com/http://twitter.com/bewellbuzz)[](http://www.facebook.com/http://www.facebook.com/bewellbuzz)
