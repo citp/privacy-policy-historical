@@ -1,32 +1,28 @@
-> *The following text is extracted and transformed from the 33across.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626033057id_/http%3A//www.33across.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 33across.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621044628id_/http%3A//33across.com/privacy-policy.php) for the most accurate reproduction.*
 
-# 33Across - SocialDNA Targeting - Privacy Policy
+# 33Across | Your Brand Graph
 
-_June 30, 2010_
+## OUR MISSION
 
-33Across, Inc. ("33Across") provides marketing technology and services to website owners and online marketers (our "Clients"). Our mission is to improve the online experience by delivering more relevant advertising to consumers. We consider the protection of user privacy and anonymity to be of paramount importance, and provide this privacy policy to inform consumers about how our technology collects and uses consumer data. This policy also outlines our privacy practices on our corporate Website ("Website"), www.33across.com. If you have any questions about this privacy policy, please feel free to contact us at . By visiting the Website, you are accepting the practices outlined in this privacy policy. This privacy policy does not apply to the practices of third parties that 33Across does not employ or manage.
+_August 15, 2011_
 
-#### USER PREFERENCES MANAGER
+33Across, Inc. ("33Across") provides marketing technology and services to website owners and online marketers (our "Clients"). Our mission is to improve the online experience by delivering more relevant advertising to consumers. We consider the protection of user privacy and anonymity to be of paramount importance, and provide this privacy policy to inform consumers about how our technology collects and uses consumer data. This policy also outlines our privacy practices on our corporate Website ("Website"), www.33across.com. If you have any questions about this privacy policy, please feel free to contact us at [privacy@33across.com](mailto:privacy@33across.com). By visiting the Website, you are accepting the practices outlined in this privacy policy. This privacy policy does not apply to the practices of third parties that 33Across does not employ or manage.
 
-Explore your preferences as predicted by 33Across.  
-Click [HERE](https://web.archive.org/web/20110626033057id_/http%3A//www.33across.com/preferences.html) or on the image below:
+## USER PREFERENCES MANAGER
 
-[](https://web.archive.org/web/20110626033057id_/http%3A//www.33across.com/preferences.html)
+[Click here](http://socialdna.33across.com/preferences.php) to Explore your preferences as predicted by 33Across.
 
-  
-
-
-### PRIVACY PRACTICES FOR OUR TECHNOLOGY
+## PRIVACY PRACTICES FOR OUR TECHNOLOGY
 
 #### OVERVIEW OF OUR TECHNOLOGY
 
 33Across provides technology services to Clients that enable them to collect and use Social Engagement Data to improve the relevance of advertising which appears on web pages. "Social Engagement Data" consists of anonymous information regarding the relationships between people, the website pages they visit and/or the actions they take on a website, such as installing or sharing applications, widgets or other content. For example, 33Across may collect Social Engagement Data when an individual visits a Client's webpage, installs or shares an application, or connects with friends from within one of our Client(s) websites. Data is only collected from the websites of Clients who use our services.
 
-Clients use the Social Engagement Data we capture to classify website users who are likely to share similar interests or preferences. For example, if a person expresses an interest in comedy films, our technology would help our Clients identify other people who are likely to enjoy comedy films based on similarities in Social Engagement Data between the different people. By using our technology, Clients categorize people with similar characteristics or interests, improving their ability to deliver more relevant advertising. 33Across maintains Social Engagement Data for up to 60 days for purposes of identifying people with similar characteristics or interests. After 60 days, Social Engagement Data is no longer used for these purposes, but is used for research and reporting on an aggregated basis for up to 2 years.
+Clients use the Social Engagement Data we capture to classify website users who are likely to share similar interests or preferences. For example, if a person expresses an interest in comedy films, our technology would help our Clients identify other people who are likely to enjoy comedy films based on similarities in Social Engagement Data between the different people. By using our technology, Clients categorize people with similar characteristics or interests, improving their ability to deliver more relevant advertising. 33Across maintains Social Engagement Data for up to 60 days for purposes of identifying people with similar characteristics or interests. After 60 days, Social Engagement Data is no longer used for these purposes, but is used for research and reporting on an aggregated basis for up to 2 years. The cookies we use to improve the relevance of advertising which appears on web pages are set to expire after 1 year.
 
 You may encounter our technology when: you visit one of our Clients' websites; we purchase online advertisements on a website that you visit; and/or when our Clients purchase online advertisements on a website that you visit.
 
-### DATA OUR TECHNOLOGY COLLECTS FROM CLIENT WEBSITES
+## DATA OUR TECHNOLOGY COLLECTS FROM CLIENT WEBSITES
 
 #### PERSONALLY IDENTIFIABLE INFORMATION
 
@@ -46,7 +42,7 @@ You may click [HERE](http://optout.33across.com/api/) to opt-out of data collect
 
 Opting out does not mean you will no longer receive online advertising. It does mean that 33Across will no longer deliver ads tailored to your Web preferences and usage patterns. The 33Across Opt-out Tool is cookie-based. In order for the Tool to work on your computer, your browser must be set to accept cookies. If you buy a new computer, change web browsers or delete this cookie, you will need to perform the opt-out task again. Be advised that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser.
 
-### PRIVACY PRACTICES FOR OUR WEBSITE
+## PRIVACY PRACTICES FOR OUR WEBSITE
 
 #### PERSONALLY IDENTIFIABLE INFORMATION
 
@@ -66,15 +62,15 @@ The 33Across Website may contain links to and advertisements for websites operat
 
 #### UPDATING / DELETING YOUR PII
 
-Although we don't collect PII via our Technology, if you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the 33Across Website, please send your request to us at  and we will process your request within a reasonable period of time after receipt. Please note that some information may remain in our records after your deletion request.
+Although we don't collect PII via our Technology, if you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the 33Across Website, please send your request to us at [privacy@33across.com](mailto:privacy@33across.com). and we will process your request within a reasonable period of time after receipt. Please note that some information may remain in our records after your deletion request.
 
-### GENERAL PRIVACY INFORMATION
+## GENERAL PRIVACY INFORMATION
 
 #### INFORMATION SECURITY
 
 The security of your information is important to us, including but not limited to the PII collected via the Website. We have implemented reasonable security measures to protect the information in our care, both during transmission and once we receive it. This includes, but is not limited to, the use of firewalls and encryption. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
 
-If you have any questions about our security practices, please send an email to us at 
+If you have any questions about our security practices, please send an email to us at [privacy@33across.com](mailto:privacy@33across.com)
 
 #### INFORMATION RELATING TO CHILDREN
 
@@ -100,10 +96,10 @@ If you decide to visit the Website, your visit and any possible dispute over pri
 
 #### CONTACT INFORMATION
 
-For questions or concerns relating to privacy, please send us an email at . Alternatively, you may contact us at the address below:
+For questions or concerns relating to privacy, please send us an email at [privacy@33across.com](mailto:privacy@33across.com). Alternatively, you may contact us at the address below:
 
 33Across Inc.  
 Attn: Privacy Officer  
-460 West 34th Street  
-14th Floor  
+229 West 28th Street,   
+12th Fl  
 New York, NY 10001
