@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the yesiamcheap.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203201718id_/http%3A//yesiamcheap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesiamcheap.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621030623id_/http%3A//yesiamcheap.com/disclosures/privacy-policy) for the most accurate reproduction.*
 
-# Policies | Yes, I Am Cheap
-
-As of November 1, 2010
+# Privacy | Yes, I Am Cheap
 
 This website displays advertisements from various sources. Please read this privacy policy as it may be updated occasionally with no notice to you.
 
@@ -16,13 +14,10 @@ We use third-party advertising companies to serve ads when you visit our website
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy
 
 
 
-From time to time, we may publish posts or reviews that may have been sponsored by an advertiser.  Such posts will be clearly categorized as a sponsored post. Sponsored posts may or may not have been written by an advertiser.  Reviews are always my own personal opinion, regardless of whether or not they have been sponsored.
+We do not govern or control the content places on sites to which we may have linked.  Please review the privacy policy of each site that you visit.
 
-We are not responsible for the content of any sites to which we have linked.
-
-Hey, thanks for coming back! If you haven't already, please consider subscribing to my [RSS feed](http://yesiamcheap.com/feed/) to get the latest information and following me on [Twitter](http://www.twitter.com/yesiamcheap) for daily freebies and financial insights. Thanks again.  
-
+Finally, I’m not going to sell your information.  Come on people.  There’s enough SPAM in the world and it’s totally not worth it to me to sell your e-mail addresses.
