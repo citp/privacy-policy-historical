@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planet49.com.my privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207084356id_/http%3A//www.planet49.com.my/wingame/datenschutz.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet49.com.my privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621073053id_/http%3A//www.planet49.com.my/wingame/datenschutz.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
