@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cashuniversity.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227084531id_/http%3A//cashuniversity.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashuniversity.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621130431id_/http%3A//cashuniversity.com/privacy.php) for the most accurate reproduction.*
 
 # Cash University Affiliate Network and CPA Network
-
-### Privacy Policy
 
 CashUniversity ("CU") is a property of CU Media, LLC, a Nevada corporation. 
 
