@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofreebies.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219080950id_/http%3A//www.gofreebies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofreebies.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621213650id_/http%3A//www.gofreebies.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GoFreebies.com
 
@@ -9,7 +9,7 @@
 
   * We will not share your personal information to third parties for marketing purposes. Any promotional messages that you receive as a result of providing your personal information to GoFreebies will be sent by GoFreebies. This may be done on behalf of an advertiser, however your information will not be shared or given to marketers. If your information is shared with third parties, it will be shared only to provide our basic website service to you, such as our newsletter service. Your information will not be shared with any third party who does not protect or dispose of your information in accordance with our own policy. The only exception to this policy is during registration - your information is shared safely with our trusted partner to display a sponsored advertisement to you. If you choose not to accept the offer, your information will not be used any further by this partner. 
   * We use cookies to track our members, votes, and member clicks to freebie offers. This is done in order to provide the best freebie results for our members 
-  * You can opt out of promotional mails [here](https://web.archive.org/web/20111219080950id_/http%3A//www.gofreebies.com/optIn.asp). You can opt out of everything [here](https://web.archive.org/web/20111219080950id_/http%3A//www.gofreebies.com/remove.asp). You can contact us [here](https://web.archive.org/web/20111219080950id_/http%3A//www.gofreebies.com/contact.asp)
+  * You can opt out of promotional mails [here](https://web.archive.org/web/20120621213650id_/http%3A//www.gofreebies.com/optIn.asp). You can opt out of everything [here](https://web.archive.org/web/20120621213650id_/http%3A//www.gofreebies.com/remove.asp). You can contact us [here](https://web.archive.org/web/20120621213650id_/http%3A//www.gofreebies.com/contact.asp)
 
 
 
@@ -55,11 +55,14 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 **Links to other websites**  
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over the content of other websites. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
+**Advertisements on our website**  
+You may encounter third party advertisements on our website via text links, standard banner advertisements, or other forms of advertising. When engaging with these ads, you will be accepting the privacy policy of each of the advertiser websites that you click out to. You have the option to opt out from some advertisements on our website. To do so, visit the following URL: <http://www.networkadvertising.org/managing/opt_out.asp>.
+
 **Controlling your personal information**  
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * Whenever you are asked to fill in a form on the website, do not check to receive partner bonus messages or our newsletter. If you choose not to receive our newsletter, you will also be opted out of our daily prize drawing 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us [here](https://web.archive.org/web/20111219080950id_/http%3A//www.gofreebies.com/contact.asp). You may also automatically opt out using [here](https://web.archive.org/web/20111219080950id_/http%3A//www.gofreebies.com/remove.asp)
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us [here](https://web.archive.org/web/20120621213650id_/http%3A//www.gofreebies.com/contact.asp). You may also automatically opt out using [here](https://web.archive.org/web/20120621213650id_/http%3A//www.gofreebies.com/remove.asp)
   * We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
   * You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write to  
 GoFreebies Privacy  
