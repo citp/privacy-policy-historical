@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affinity.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130815id_/http%3A//www.affinity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinity.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621144626id_/http%3A//www.affinity.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Affinity Advertiser & Publisher Solutions
 
@@ -17,6 +17,13 @@ If you are applying for an account with Affinity, we may require that you provid
 
 **Cookies**  
 Affinity may, at times, use cookies. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.
+
+**Third Party Cookies**  
+Affinity may, at times, drop third party web beacons. Opting out of third parties' services will prevent them from collecting data when a user visits any of Affinity's partner/customer sites. By doing so, advertisements will no longer be tailored to your interests.
+
+To opt out of having data collected and written to cookies placed by third parties, please visit: [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
+
+Note that after choosing to opt out, if you use a different computer or a different browser, or if you delete or block browser cookies, you may need to repeat the opt-out steps. Most web browsers also enable you to block browser cookies. You can refer to your web browser's documentation to get more information on how to block or delete cookies directly through your browser settings.
 
 **Links to Other Websites**  
 The Site contains links to other websites. Those websites may send their own cookies to users, collect data, or solicit personal information. Affinity is in no way responsible or liable for the privacy practices or content of such third party websites. This Statement applies only to our own services and our Site, and does not apply to any other third party services or websites. We encourage you to carefully read the privacy statement of any website you visit. 
