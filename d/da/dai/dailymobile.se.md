@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailymobile.se privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123195857id_/http%3A//dailymobile.se/2010/01/01/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymobile.se privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621212952id_/http%3A//dailymobile.se/2010/01/01/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Daily Mobile
 
@@ -98,32 +98,15 @@ If you feel that this site is not following its stated information policy, you m
 
 ## **Follow us on Facebook:**
 
+### Author Profile
+
+  
+
+
   
 
 
 * * *
-
-  
-
-
-  
-
-
-### Related Posts On Daily Mobile:
-
-  * [](http://dailymobile.se/2010/08/31/nokia-to-set-up-enterprise-email-server-in-india-by-november/)
-
-  * [](http://dailymobile.se/2009/03/06/htc-loses-germany-patent-suit/)
-
-  * [](http://dailymobile.se/2011/10/03/htc-handsets-collecting-data/)
-
-  * [](http://dailymobile.se/2010/01/04/video-htc-touch-hd2-with-privacy-filter/)
-
-
-
-
-  
-
 
 * * *
 
