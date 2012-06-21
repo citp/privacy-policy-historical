@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the codeplex.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201231006id_/http%3A//www.codeplex.com/site/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeplex.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621200555id_/http%3A//www.codeplex.com/site/legal/privacy) for the most accurate reproduction.*
 
 # CodePlex - Privacy Statement
 
-###  Last updated: March 2009
+### Last updated: March 2009
 
 Microsoft is committed to protecting your privacy, while delivering software that brings you the performance, power, and convenience you desire in your personal computing. This privacy statement explains many of the data collection and use practices of Microsoft CodePlex (“CodePlex”). It focuses on features that communicate with the Internet. It does not apply to other online or offline Microsoft sites, products, or services. 
 
 CodePlex is Microsoft's open source project hosting web site. CodePlex enables you to start a new project, join an existing one, or download software created by the community.
+
+## Collection and Use of Your Information
 
 The information we collect from you will be used by Microsoft and its controlled subsidiaries and affiliates to enable the features you are using and provide the service(s) or carry out the transaction(s) you have requested or authorized. It may also be used to analyze and improve Microsoft products and services.
 
@@ -22,9 +24,15 @@ When you use software with Internet-enabled features, information about your com
 
 The privacy details for each CodePlex feature, software or service listed in this privacy statement describe what additional information is collected and how it is used.
 
+## Security of your information
+
 Microsoft is committed to helping protect the security of your information. We use a variety of security technologies and procedures to help protect your information from unauthorized access, use, or disclosure. For example, we store the information you provide on computer systems with limited access, which are located in controlled facilities. 
 
+## Changes to this privacy statement
+
 We will occasionally update this privacy statement to reflect changes in our products, services, and customer feedback. When we post changes, we will revise the "last updated" date at the top of this statement. If there are material changes to this statement or in how Microsoft will use your personal information, we will notify you either by posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how Microsoft is protecting your information.
+
+## For More Information
 
 Microsoft welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://www.codeplex.com/site/contact). 
 
@@ -33,7 +41,11 @@ Microsoft Corporation
 One Microsoft Way  
 Redmond, Washington 98052 USA 
 
+## Specific Features
+
 The remainder of this document will address the following specific features:
+
+## Registration
 
 What This Feature Does: CodePlex registration allows you to create a User Account that you can use to upload new source code, participate in discussion forums, rate existing projects, and register issues. 
 
@@ -42,6 +54,8 @@ Information Collected, Processed, or Transmitted: When you register, CodePlex wi
 Use of Information: Your User Name will be used to identify each source code file, rating, discussion comment, or issue you post on the site. Your email address will be used to validate your account, and may also be used to allow other users to contact you. When another user contacts you, they will not see your email address. 
 
 Choice/Control: You may not post to CodePlex without first registering, however if you chose not to register, you may still download projects. You may choose to Opt-Out of allowing other users to contact you by updating the contact preference in your CodePlex Profile.
+
+## Profile
 
 What This Feature Does: When you post new source code, participate in discussion forums, rate existing projects, and register issues, your post will be tagged with your User Name. Other users may click on your User Name to view your Profile. 
 
