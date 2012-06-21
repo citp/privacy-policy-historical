@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squareberry.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223004144id_/http%3A//squareberry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squareberry.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621042059id_/http%3A//squareberry.com/privacy-policy) for the most accurate reproduction.*
 
 # Squareberry | Privacy Policy
 
@@ -94,7 +94,9 @@ If you have any questions about the security of Squareberry or you have question
 If you have any questions or need more information regarding this Privacy Policy, please contact us at:
 
 Squareberry  
-January 1, 2011  
+c/o IVI Technologies, Inc  
+8672 sw 40th Street  
+Suite 206  
 Miami, FL 33155
 
   
