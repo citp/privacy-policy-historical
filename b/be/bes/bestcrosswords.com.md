@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestcrosswords.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222200056id_/http%3A//www.bestcrosswords.com/bestcrosswords/Policy.page%3Bjsessionid%3D148AF1B68BE474402DB2B8D3B8BBB018) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcrosswords.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621040620id_/http%3A//www.bestcrosswords.com/bestcrosswords/Policy.page) for the most accurate reproduction.*
 
 # BestCrosswords.com - BESTCROSSWORDS.COM Privacy Policy
 
@@ -8,7 +8,7 @@ Welcome to BESTCROSSWORDS.COM, which is provided by PYROMOD SOFTWARE INC (either
 
 ## TERMS OF SERVICE
 
-Please review our [Terms of Service](https://web.archive.org/bestcrosswords/TermsOfService.page), which also governs your visit to BESTCROSSWORDS.COM. 
+Please review our [Terms of Service](https://web.archive.org/bestcrosswords/TermsOfService.page;jsessionid=47F31A2E2E1A096C847A3B5569898FEA), which also governs your visit to BESTCROSSWORDS.COM. 
 
 ## CHANGES TO THIS PRIVACY POLICY
 
@@ -20,7 +20,7 @@ The information we learn from customers helps us personalize and continually imp
 
   * **Information You Give Us:** We receive and store any information you enter on our web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future browsing for you, improving our games, and communicating with you. 
   * **Automatic Information:** Our servers automatically record information that your browser sends whenever you access BESTCROSSWORDS.COM. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
-  * **Advertisers:** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+  * **Advertisers:** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
 
 
 
@@ -28,7 +28,7 @@ The information we learn from customers helps us personalize and continually imp
 
 The information we collect is used to improve the content of our web site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-  * When it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](https://web.archive.org/bestcrosswords/TermsOfService.page), or as otherwise required by law. 
+  * When it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](https://web.archive.org/bestcrosswords/TermsOfService.page;jsessionid=47F31A2E2E1A096C847A3B5569898FEA), or as otherwise required by law. 
   * If PYROMOD SOFTWARE INC is acquired by or merged with another company. In this event, PYROMOD SOFTWARE INC will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
 
@@ -45,7 +45,7 @@ PYROMOD SOFTWARE INC processes personal information only for the purposes for wh
 
 ## QUESTIONS
 
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this web site, you can contact us [here](https://web.archive.org/bestcrosswords/Contact.page). 
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this web site, you can contact us [here](https://web.archive.org/bestcrosswords/Contact.page;jsessionid=47F31A2E2E1A096C847A3B5569898FEA). 
 
 |  |   
 ---|---|---|---|---
