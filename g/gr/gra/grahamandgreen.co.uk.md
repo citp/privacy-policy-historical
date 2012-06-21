@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222140310id_/http%3A//www.grahamandgreen.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621101547id_/http%3A//www.grahamandgreen.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Security
+
+**Cookies**
+
+In our effort to be transparent with our visitors and to comply with the recent legislation we are providing you with details of how Graham and Green use cookies on this website.
+
+Graham and Green use cookies (small text files) to store information on your computer. Cookies can not harm your computer and we do not store any personally identifiable information such as credit card details. Some of these cookies are required to make our site work, remember what you have placed in your basket, ensure your security when logged into the website and maintain the functions that support your customer journey. We also have performance cookies that help us improve our service by giving us insight into how the site is being used.
+
+We regard these as essential cookies and must be accepted in order to continue use of the website.
+
+Third party & remarketing cookies are connected with services such as social media networks that provide like, share & pin buttons. We partner with carefully selected suppliers who may also store cookies on your computer to present remarketing banners to you based on recently viewed products or products that may be of interest to you.
+
+You can disable cookies through your web browser's settings at anytime. Please bear in mind that turning disabling cookies may severly affect and limit the use of our website.
+
+For further information on the cookie legislation and information on how to enable/disable cookies please search for the ICO (Information Comissioner's Office).
+
+**Privacy & Security**
 
 The Graham and Green website ('site') is a UK-based website and is in accordance with the requirements of the UK Data Protection Act 1998 relating to the personal information you supply on the Site. The Site uses a security system that protects your information from unauthorised use.
 
