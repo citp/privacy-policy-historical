@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the narutospot.net privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122010819id_/http%3A//www.narutospot.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutospot.net privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621173130id_/http%3A//www.narutospot.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Naruto Shippuden Episodes 237 Online Subbed and Dubbed Streaming
+# Privacy Policy | Watch Naruto Shippuden Episodes Online Subbed and Dubbed Streaming
 
 Narutospot is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible.  
 
