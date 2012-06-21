@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204854id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621042516id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us | OfferStation.com
 
@@ -52,59 +52,48 @@ OfferStation reserves the right to modify, update, and change this policy at our
 
 [
 
-## Metrojaya Festive Sale
+## Concorde Hotel Kuala Lumpur Ramadan Buffet Promotion
 
-](http://www.offerstation.com/sales-warehouse-clearance/81125/metrojaya-festive-sale.htm)
-
-[
-
-## Metrojaya Cardmembers' Special
-
-](http://www.offerstation.com/offers-promotions/82202/metrojaya-cardmembers-special.htm)
+](http://www.offerstation.com/dining-food-offers/92407/concorde-hotel-kuala-lumpur-ramadan-buffet-promotion.htm)
 
 [
 
-## KL Sogo Christmas Celebration
+## Padini Concept Store Mid Year Sale
 
-](http://www.offerstation.com/happenings-events/82962/kl-sogo-christmas-celebration.htm)
-
-[
-
-## Zara Sale
-
-](http://www.offerstation.com/sales-warehouse-clearance/83069/zara-sale.htm)
+](http://www.offerstation.com/sales-warehouse-clearance/92222/padini-concept-store-mid-year-sale.htm)
 
 [
 
-## Public Bank PB Golden Prosperity Promotion
+## FREE Parkson Vouchers with Citibank Card
 
-](http://www.offerstation.com/offers-promotions/81767/public-bank-pb-golden-prosperity-promotion.htm)
-
-[
-
-## The Body Shop Year End Sale
-
-](http://www.offerstation.com/sales-warehouse-clearance/83102/the-body-shop-year-end-sale.htm)
+](http://www.offerstation.com/offers-promotions/92163/free-parkson-vouchers-with-citibank-card.htm)
 
 [
 
-## New Samsung Galaxy W (Wonder)
+## New Hui Lau Shan Outlet
 
-](http://www.offerstation.com/whats-new/81347/new-samsung-galaxy-w-\(wonder\).htm)
+](http://www.offerstation.com/dining-food-offers/92463/new-hui-lau-shan-outlet.htm)
 
 [
 
-## Complimentary Bottle of Wine at Subak Restaurant
+## FREE New iPad with AmBank Balance Transfer / QuickCash
 
-](http://www.offerstation.com/dining-food-offers/83188/complimentary-bottle-of-wine-at-subak-restaurant.htm)
+](http://www.offerstation.com/offers-promotions/89126/free-new-ipad-with-ambank-balance-transfer--quickcash.htm)
 
-[](http://www.adventurebots.com/?utm_source=osmy&utm_medium=mrec&utm_content=abfamily&utm_campaign=launch)
+[
 
-FROM FACEBOOK
+## Crocs 1Malaysia Mega Sale Carnival
 
-LATEST COMMENTS
+](http://www.offerstation.com/sales-warehouse-clearance/92314/crocs-1malaysia-mega-sale-carnival.htm)
 
-REMINDERS
+[
 
-  
+## NAZA TTDI Property Carnival
 
+](http://www.offerstation.com/happenings-events/92581/naza-ttdi-property-carnival.htm)
+
+[
+
+## Maybank Money Express Contest
+
+](http://www.offerstation.com/contest-prizes/83206/maybank-money-express-contest.htm)
