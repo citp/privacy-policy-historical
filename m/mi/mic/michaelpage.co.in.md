@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaelpage.co.in privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209040431id_/http%3A//michaelpage.co.in/ContentArticle/page/7252.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelpage.co.in privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621063820id_/http%3A//www.michaelpage.co.in/ContentArticle/page/7252.html) for the most accurate reproduction.*
 
 # Privacy Policy - Michael Page International
 
@@ -65,7 +65,7 @@ A cookie is a small data file which is sent from our web server to your individu
 ** You can contact our Privacy Officer as follows:
 
 [privacyofficer@michaelpage.co.in](mailto:privacyofficer@michaelpage.co.in):                       
-+65 6416 9930  
++91 (0) 22 4368 8000  
 Michael Page International Recruitment Private Limited  
 Level 12 Express Towers  
 Nariman Point, Mumbai, India 
