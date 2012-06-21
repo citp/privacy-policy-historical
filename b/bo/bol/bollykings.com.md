@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bollykings.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223050806id_/http%3A//www.bollykings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollykings.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621181031id_/http%3A//www.bollykings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bollykings
+# Privacy Policy
 
 ### Your privacy is critically important to us. At Bollykings.com we have a few fundamental principles:
 
- **What information do we collect from our users and how do we collect it?**
+ **Information we collect from our users**
 
 This site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals, for instance, when subscribing to our Newsletter. In particular, when purchasing a subscription, you must provide [contact](http://www.bollykings.com/contact/ "contact") information (such as name and e-mail address).
 
