@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touchdown.co.uk privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205110523id_/http%3A//www.touchdown.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchdown.co.uk privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621212113id_/http%3A//www.touchdown.co.uk/privacy) for the most accurate reproduction.*
 
 # Touchdown HolidaysPrivacy Policy
 
