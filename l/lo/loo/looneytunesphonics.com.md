@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looneytunesphonics.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228004101id_/http%3A//www.looneytunesphonics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looneytunesphonics.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621162711id_/http%3A//www.looneytunesphonics.com/privacy.php) for the most accurate reproduction.*
 
 # Our Privacy Policy : Reading Programs for Kids : Looney Tunes Phonics
 
