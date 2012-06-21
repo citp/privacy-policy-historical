@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricliterature.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126040849id_/http%3A//electricliterature.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricliterature.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621214917id_/http%3A//electricliterature.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Electric Literature
 
