@@ -1,48 +1,130 @@
-<!--The following is the downloaded HTML source of the styloko.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101155236id_/http%3A//www.styloko.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the styloko.com privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621211236id_/http%3A//www.styloko.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head><title>
-
-</title><link media="all" rel="stylesheet" type="text/css" href="Styles/all.css"><link media="all" rel="stylesheet" type="text/css" href="Styles/form.css"><link rel="shortcut icon" href="Images/favicon.ico" type="image/x-icon">
+	Privacy Statement
+</title><link media="all" rel="stylesheet" type="text/css" href="Styles/all.css?v=2.0.3.3"><link media="all" rel="stylesheet" type="text/css" href="Styles/form.css?v=2.0.3.3"><link rel="shortcut icon" href="Images/favicon.ico">
         <style type="text/css">
              .errorMsg, .infoMsg { padding-left: 10px; }
              .errorMsg { color: Red; }
              .infoMsg { color: Black; }
         </style>
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Scripts/jquery-1.4.4.min.js"></script>
-        <script type="text/javascript" src="/Scripts/jquery-ui-1.8.9.custom.min.js"></script>
-        <script type="text/javascript" src="/Scripts/jquery.main.js"></script>
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="/Scripts/jquery-1.7.2.min.js?v=2.0.3.3"></script>
+        <script type="text/javascript" src="/Scripts/jquery.effects.js?v=2.0.3.3"></script>
+        <script type="text/javascript" src="/Scripts/jquery-ui-1.8.18.custom.min.js?v=2.0.3.3"></script>
+        <script type="text/javascript" src="/Scripts/jquery.main.js?v=2.0.3.3"></script>
+        <script type="text/javascript" src="/Scripts/jquery.tools.min.js?v=2.0.3.3"></script>
+        <script type="text/javascript" src="/Scripts/history.js?v=2.0.3.3"></script>
+        <script type="text/javascript" src="/Scripts/AjaxClient.js?v=2.0.3.3"></script>
+        <script type="text/javascript">
+            function InitToolTips(el) {
+                var opts = {
+                    position: 'top center',
+                    tipClass: 'hint',
+                    offset: [-5, 0],
+                    predelay: 100
+                };
+                if (el && el.length > 0) {
+                    $('.hint', el).hide();
+                    $('[title]:not(.no-tip)', el).tooltip(opts);
+                }
+                else {
+                    $('.hint').hide();
+                    $('[title]:not(.no-tip)').tooltip(opts);
+                }
+            }
+            function BeforeAddingStylokoWidget() {
+                $('#use-add-to-scrapbook-button').OpenPopup();
+            }
+            function cookieInfoClosed() {
+                var cookieValue = $.cookie('Styloko');
+                cookieValue = cookieValue.replace(/ciim=\d/gi,
+                    'ciim=2');
+                $.cookie('Styloko', cookieValue, { expires: 365, raw: true, path: '/' });
+            }
+            $(function () {
+                $('.site-menu').next().remove();
+                $('.site-menu').css('visibility', 'visible');
+                $('.site-menu a').removeAttr('title');
+                $('#FooterMenu li:not(:last-child)').append('&frasl;');
+                $('form').preventDoubleSubmit();
+                InitToolTips();
+
+                var manager = Sys.WebForms.PageRequestManager.getInstance();
+                manager.add_endRequest(function () {
+                    InitToolTips();
+                    $('form').preventDoubleSubmit();
+                });
+
+                var cookiesInfo = $('#CookiesInfo').delay(30000).fadeOut(200, cookieInfoClosed);
+                $('#closer', cookiesInfo)
+                    .show()
+                    .bind('click', function (e) {
+                        e.preventDefault();
+                        cookiesInfo.stop(true).fadeOut(200, cookieInfoClosed);
+                    });
+            });
+        </script>
         
-    
-    <style type="text/css">
-        .main {
-            width: 100%;
-            position: relative;
-            padding: 30px 0 79px;
-        }
-        .block h3 {
-            margin: 10px 0px 5px 0px;
-            font-size: 0.917em;
-            line-height: 1.273;
-            font-weight: normal;
-            letter-spacing: 4px;
-            text-transform: uppercase;
-        }
-    </style>
-    
-
-
-</head>
+    <link media="all" rel="stylesheet" type="text/css" href="/Styles/static-page.css?v=2.0.3.3">
+<link id="PopupContainerCss" rel="stylesheet" type="text/css" href="Styles/PopupContainer.css?v=2.0.3.3"></head>
     <body id="body" class="mode-normal">
+        <div id="fb-root"></div>
+        <script>
+            function RegisterLike(url, outerId, system) {
+                var client = new AjaxClient();
+                client.contentType = 'application/x-www-form-urlencoded';
+                client.SendRequest_('RegisterLike',
+                            [{ name: 'url', value: url },
+                            { name: 'outerId', value: outerId },
+                            { name: 'system', value: system}]);
+            }
+
+            // Init Facebook
+            window.fbAsyncInit = function () {
+                FB.init({ appId: '221403491225722', status: true, cookie: true, xfbml: true });
+                FB.Event.subscribe('edge.create', function (href, widget) {
+                    FB.getLoginStatus(function (response) {
+                        RegisterLike(href, response.authResponse ? response.authResponse.userID : '', 1);
+                    });
+                });
+            };
+            (function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+                fjs.parentNode.insertBefore(js, fjs);
+            } (document, 'script', 'facebook-jssdk'));
+
+            // Init Twitter
+            window.twttr = (function (d, s, id) {
+                var t, js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
+                js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+                return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
+            } (document, "script", "twitter-wjs"));
+            twttr.ready(function (twttr) {
+                twttr.events.bind('tweet', function (event) {
+                    RegisterLike(event.target.baseURI, '', 2);
+                });
+            });
+        </script>
         <form method="post" action="privacy" id="ctl05">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCZg9kFgJmD2QWBAIBD2QWAgIEDxUDHC9TY3JpcHRzL2pxdWVyeS0xLjQuNC5taW4uanMmL1NjcmlwdHMvanF1ZXJ5LXVpLTEuOC45LmN1c3RvbS5taW4uanMXL1NjcmlwdHMvanF1ZXJ5Lm1haW4uanNkAgMPFgIeBWNsYXNzBQttb2RlLW5vcm1hbBYCAgEPZBYCAgkPDxYCHgdWaXNpYmxlaGRkZEeTaFGfk/ejflVg0UVdrJdQ41wixVSXJvXjJtE7NLMS">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzkzODI4NzA3D2QWAmYPZBYEAgEPZBYCAgQPFQwcL1NjcmlwdHMvanF1ZXJ5LTEuNy4yLm1pbi5qcxovU2NyaXB0cy9qcXVlcnkuZWZmZWN0cy5qcycvU2NyaXB0cy9qcXVlcnktdWktMS44LjE4LmN1c3RvbS5taW4uanMXL1NjcmlwdHMvanF1ZXJ5Lm1haW4uanMcL1NjcmlwdHMvanF1ZXJ5LnRvb2xzLm1pbi5qcxMvU2NyaXB0cy9oaXN0b3J5LmpzFi9TY3JpcHRzL0FqYXhDbGllbnQuanMHU3R5bG9rbwRjaWltBGNpaW0BMgdTdHlsb2tvZAIDDxYCHgVjbGFzcwULbW9kZS1ub3JtYWwWAmYPZBYIAgcPPCsADQIADxYCHgtfIURhdGFCb3VuZGdkDBQrAAYFEzA6MCwwOjEsMDoyLDA6MywwOjQUKwACFg4eBFRleHQFD01ZJm5ic3A7U1RZTE9LTx4FVmFsdWUFD01ZJm5ic3A7U1RZTE9LTx4LTmF2aWdhdGVVcmwFBi9ob21lIx4HRW5hYmxlZGceClNlbGVjdGFibGVnHghEYXRhUGF0aAUGL2hvbWUjHglEYXRhQm91bmRnZBQrAAIWDh8CBQlTQ1JBUEJPT0sfAwUJU0NSQVBCT09LHwQFCC9sYXRlc3QjHwVnHwZnHwcFCC9sYXRlc3QjHwhnFCsABQUPMDowLDA6MSwwOjIsMDozFCsAAhYQHwIFBkxBVEVTVB8DBQZMQVRFU1QfBAUHL2xhdGVzdB4HVG9vbFRpcAUOUmVjZW50bHkgYWRkZWQfBWcfBmcfBwUHL2xhdGVzdB8IZ2QUKwACFhAfAgUHUE9QVUxBUh8DBQdQT1BVTEFSHwQFCC9wb3B1bGFyHwkFH1RoZSBtb3N0IGxpa2VkIGFuZCB0YWxrZWQgYWJvdXQfBWcfBmcfBwUIL3BvcHVsYXIfCGdkFCsAAhYQHwIFDE1ZIFNDUkFQQk9PSx8DBQxNWSBTQ1JBUEJPT0sfBAUML215c3R5bGVmaWxlHwkFDllvdXIgc2NyYXBib29rHwVnHwZnHwcFDC9teXN0eWxlZmlsZR8IZ2QUKwACFhAfAgUJRk9MTE9XSU5HHwMFCUZPTExPV0lORx8EBQovZm9sbG93aW5nHwkFEUZyb20geW91ciBuZXR3b3JrHwVnHwZnHwcFCi9mb2xsb3dpbmcfCGdkFCsAAhYOHwIFCFNIT1BQSU5HHwMFCFNIT1BQSU5HHwQFES9hbGxzYWxlcy93b21lbnMjHwVnHwZnHwcFFy9hbGxzYWxlcy97ZGVwYXJ0bWVudH0jHwhnFCsABAULMDowLDA6MSwwOjIUKwACFhAfAgUJQUxMIFNBTEVTHwMFCUFMTCBTQUxFUx8EBRAvYWxsc2FsZXMvd29tZW5zHwkFHEV2ZXJ5dGhpbmcgY3VycmVudGx5IG9uIHNhbGUfBWcfBmcfBwUWL2FsbHNhbGVzL3tkZXBhcnRtZW50fR8IZ2QUKwACFhAfAgUITVkgU0FMRVMfAwUITVkgU0FMRVMfBAUIL215c2FsZXMfCQUdWW91ciBmYXZvdXJpdGUgYnJhbmRzIG9uIHNhbGUfBWcfBmcfBwUIL215c2FsZXMfCGdkFCsAAhYQHwIFCkVWRVJZVEhJTkcfAwUKRVZFUllUSElORx8EBRMvYWxscHJvZHVjdHMvd29tZW5zHwkFD1Nob3AgZXZlcnl0aGluZx8FZx8GZx8HBRkvYWxscHJvZHVjdHMve2RlcGFydG1lbnR9HwhnZBQrAAIWDh8CBQRCTE9HHwMFBEJMT0cfBAUQL3dvbWVucy1mYXNoaW9uIx8FZx8GZx8HBRYve2RlcGFydG1lbnR9LWZhc2hpb24jHwhnFCsAAwUHMDowLDA6MRQrAAIWDh8CBQVXT01FTh8DBQVXT01FTh8EBQ8vd29tZW5zLWZhc2hpb24fBWcfBmcfBwUPL3dvbWVucy1mYXNoaW9uHwhnZBQrAAIWDh8CBQNNRU4fAwUDTUVOHwQFDS9tZW5zLWZhc2hpb24fBWcfBmcfBwUNL21lbnMtZmFzaGlvbh8IZ2QUKwACFg4fAgURU1RSRUVUJm5ic3A7U1RZTEUfAwURU1RSRUVUJm5ic3A7U1RZTEUfBAUWL2dyb3VwL01zLlN0cmVldHN0eWxlIx8FZx8GZx8HBSEvZ3JvdXAve3N0cmVldHN0eWxlfS5zdHJlZXRzdHlsZSMfCGcUKwADBQcwOjAsMDoxFCsAAhYQHwIFBVdPTUVOHwMFBVdPTUVOHwQFFS9ncm91cC9Ncy5TdHJlZXRzdHlsZR8JBRhTdHJlZXQgc3R5bGUgYW5kIGNhdHdhbGsfBWcfBmcfBwUVL2dyb3VwL21zLnN0cmVldHN0eWxlHwhnZBQrAAIWEB8CBQNNRU4fAwUDTUVOHwQFFS9ncm91cC9Nci5TdHJlZXRzdHlsZR8JBRhTdHJlZXQgc3R5bGUgYW5kIGNhdHdhbGsfBWcfBmcfBwUVL2dyb3VwL21yLnN0cmVldHN0eWxlHwhnZBYgZg9kFgICAQ8PFgIfAgUPTVkmbmJzcDtTVFlMT0tPZGQCAQ9kFgICAQ8PFgIfAgUJU0NSQVBCT09LZGQCAg9kFgQCAQ8PFgIfAgUGTEFURVNUZGQCAw8PFgIfAgUOUmVjZW50bHkgYWRkZWRkZAIDD2QWBAIBDw8WAh8CBQdQT1BVTEFSZGQCAw8PFgIfAgUfVGhlIG1vc3QgbGlrZWQgYW5kIHRhbGtlZCBhYm91dGRkAgQPZBYEAgEPDxYCHwIFDE1ZIFNDUkFQQk9PS2RkAgMPDxYCHwIFDllvdXIgc2NyYXBib29rZGQCBQ9kFgQCAQ8PFgIfAgUJRk9MTE9XSU5HZGQCAw8PFgIfAgURRnJvbSB5b3VyIG5ldHdvcmtkZAIGD2QWAgIBDw8WAh8CBQhTSE9QUElOR2RkAgcPZBYEAgEPDxYCHwIFCUFMTCBTQUxFU2RkAgMPDxYCHwIFHEV2ZXJ5dGhpbmcgY3VycmVudGx5IG9uIHNhbGVkZAIID2QWBAIBDw8WAh8CBQhNWSBTQUxFU2RkAgMPDxYCHwIFHVlvdXIgZmF2b3VyaXRlIGJyYW5kcyBvbiBzYWxlZGQCCQ9kFgQCAQ8PFgIfAgUKRVZFUllUSElOR2RkAgMPDxYCHwIFD1Nob3AgZXZlcnl0aGluZ2RkAgoPZBYCAgEPDxYCHwIFBEJMT0dkZAILD2QWBAIBDw8WAh8CBQVXT01FTmRkAgMPDxYCHwJlZGQCDA9kFgQCAQ8PFgIfAgUDTUVOZGQCAw8PFgIfAmVkZAIND2QWAgIBDw8WAh8CBRFTVFJFRVQmbmJzcDtTVFlMRWRkAg4PZBYEAgEPDxYCHwIFBVdPTUVOZGQCAw8PFgIfAgUYU3RyZWV0IHN0eWxlIGFuZCBjYXR3YWxrZGQCDw9kFgQCAQ8PFgIfAgUDTUVOZGQCAw8PFgIfAgUYU3RyZWV0IHN0eWxlIGFuZCBjYXR3YWxrZGQCCw9kFgICAw88KwANAgAPFgIfAWdkDBQrAAYFEzA6MCwwOjEsMDoyLDA6MywwOjQUKwACFg4fAgUFQUJPVVQfAwUFQUJPVVQfBAUGL2Fib3V0HwVnHwZnHwcFBi9hYm91dB8IZ2QUKwACFg4fAgUKQ09OVEFDVCBVUx8DBQpDT05UQUNUIFVTHwQFCC9jb250YWN0HwVnHwZnHwcFCC9jb250YWN0HwhnZBQrAAIWDh8CBQRKT0JTHwMFBEpPQlMfBAUFL2pvYnMfBWcfBmcfBwUFL2pvYnMfCGdkFCsAAhYQHwIFEVBSSVZBQ1kgU1RBVEVNRU5UHwMFEVBSSVZBQ1kgU1RBVEVNRU5UHwQFCC9wcml2YWN5HwVnHwZnHwcFCC9wcml2YWN5HwhnHghTZWxlY3RlZGdkFCsAAhYOHwIFElRFUk1TICYgQ09ORElUSU9OUx8DBRJURVJNUyAmIENPTkRJVElPTlMfBAUGL3Rlcm1zHwVnHwZnHwcFBi90ZXJtcx8IZ2QWCmYPZBYCZg8VAQVBQk9VVGQCAQ9kFgJmDxUBCkNPTlRBQ1QgVVNkAgIPZBYCZg8VAQRKT0JTZAIDD2QWAmYPFQERUFJJVkFDWSBTVEFURU1FTlRkAgQPZBYCZg8VARJURVJNUyAmIENPTkRJVElPTlNkAg8PZBYCAgMPPCsADQIADxYCHwFnZAwUKwAJBR8wOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3FCsAAhYOHwIFBUFCT1VUHwMFBUFCT1VUHwQFBi9hYm91dB8FZx8GZx8HBQYvYWJvdXQfCGdkFCsAAhYOHwIFCkNPTlRBQ1QgVVMfAwUKQ09OVEFDVCBVUx8EBQgvY29udGFjdB8FZx8GZx8HBQgvY29udGFjdB8IZ2QUKwACFg4fAgUESk9CUx8DBQRKT0JTHwQFBS9qb2JzHwVnHwZnHwcFBS9qb2JzHwhnZBQrAAIWEB8CBRFQUklWQUNZIFNUQVRFTUVOVB8DBRFQUklWQUNZIFNUQVRFTUVOVB8EBQgvcHJpdmFjeR8FZx8GZx8HBQgvcHJpdmFjeR8IZx8KZ2QUKwACFg4fAgUSVEVSTVMgJiBDT05ESVRJT05THwMFElRFUk1TICYgQ09ORElUSU9OUx8EBQYvdGVybXMfBWcfBmcfBwUGL3Rlcm1zHwhnZBQrAAIWBh8CBQ5PbmxpbmUgRmFzaGlvbh8DZR8EBQJ+L2QUKwACFgYfAgUDUlNTHwNlHwQFBC9yc3NkFCsAAhYGHwIFDUZhc2hpb24gc2FsZXMfA2UfBAUNL2Zhc2hpb25zYWxlc2RkAhEPZBYCZg8WAh8ABSNwb3B1cC1jb250YWluZXIgcG9wdXAtd2luZG93LWhpZGRlbhYCAgEPFgIeB1Zpc2libGVnZBgCBRBjdGwwMCRGb290ZXJNZW51Dw9kBRFQUklWQUNZIFNUQVRFTUVOVGQFDWN0bDAwJFN1Yk1lbnUPD2QFEVBSSVZBQ1kgU1RBVEVNRU5UZFWCdxXAhonGJV5Byxp/H5X/oGIfPC2OwP0XKkcuq5JZ">
+</div>
 
 
-<script src="/ScriptResource.axd?d=B8FKz4jLoF58qld05ApbpUsJr9bo1kF2mp4KYj_wKLtafTKLv5x1cruE0VzpEIJIW2lR5x2p9bIAFyUOmEkVLajKL515VsyjahoQsPKYDdkYMgbOGcM4MSZYflUCVsKm0&amp;t=ffffffffbd2983fc" type="text/javascript"></script>
-            <input type="hidden" name="ctl00$ctl00$ctl00$ScriptManager1" id="ScriptManager1">
+<script src="Scripts/jquery.cookie.js?v=2.0.3.3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=b-LYGrZ7Czh6TDRWKdRy6ckQHp8yTcnLAQpVUiFHoEiUNOTYST2xWkqChCTL5b60_o1uBG5oXWW6XwKLfURhq-7lrxtu-z4Bjt_ZMubXz7qbVonicPP7_RAEYM6VAcniqqGRQVG-3cBcwXd3mHuGuQ2&amp;t=68c4b60a" type="text/javascript"></script>
+<script src="Scripts/BrowserDetect.js?v=2.0.3.3" type="text/javascript"></script>
+<script src="Scripts/popup-container.js?v=2.0.3.3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=B_la53JXhJOpHzpzBsFkp0w0nRMxw-PbMXp8XkydGdvzK9lqYphLZaZ3nBtecjf7Rt_LXWI_swaPAS7D9MDfwijzyxpn8kyV_m9kPlc1SeFgGwoXCHHoqyog0cGmVmNP0&amp;t=ffffffffc9f82b39" type="text/javascript"></script>
+            <input type="hidden" name="ctl00$ScriptManager1" id="ScriptManager1">
 <script type="text/javascript">
 //<![CDATA[
-Sys.Application.setServerId("ScriptManager1", "ctl00$ctl00$ctl00$ScriptManager1");
+Sys.Application.setServerId("ScriptManager1", "ctl00$ScriptManager1");
 Sys.Application._enableHistoryInScriptManager();
 //]]>
 </script>
@@ -53,175 +135,212 @@ Sys.Application._enableHistoryInScriptManager();
 	    		    <div class="header-holder">
 			    	    <div class="header-frame">
                             <h1 class="logo"><a id="HomeLink" href="./">Styloko</a></h1>
-                            <div id="LoginBlock" class="login-block">
-	
+                            
+                            <div class="site-menu main-menu" id="MainMenu">
+	<ul class="level1">
+		<li><a class="level1" href="/home#">
+                                    <span>MY&nbsp;STYLOKO</span>
+                                </a></li><li><a class="popout level1" href="/latest#">
+                                    <span>SCRAPBOOK</span>
+                                </a><ul class="level2">
+			<li><a title="Recently added" class="level2" href="/latest">
+                                    <span class="text">LATEST</span>
+                                    <span class="tooltip">Recently added</span>
+                                </a></li><li><a title="The most liked and talked about" class="level2" href="/popular">
+                                    <span class="text">POPULAR</span>
+                                    <span class="tooltip">The most liked and talked about</span>
+                                </a></li><li><a title="Your scrapbook" class="level2" href="/mystylefile">
+                                    <span class="text">MY SCRAPBOOK</span>
+                                    <span class="tooltip">Your scrapbook</span>
+                                </a></li><li><a title="From your network" class="level2" href="/following">
+                                    <span class="text">FOLLOWING</span>
+                                    <span class="tooltip">From your network</span>
+                                </a></li>
+		</ul></li><li><a class="popout level1" href="/allsales/womens#">
+                                    <span>SHOPPING</span>
+                                </a><ul class="level2">
+			<li><a title="Everything currently on sale" class="level2" href="/allsales/womens">
+                                    <span class="text">ALL SALES</span>
+                                    <span class="tooltip">Everything currently on sale</span>
+                                </a></li><li><a title="Your favourite brands on sale" class="level2" href="/mysales">
+                                    <span class="text">MY SALES</span>
+                                    <span class="tooltip">Your favourite brands on sale</span>
+                                </a></li><li><a title="Shop everything" class="level2" href="/allproducts/womens">
+                                    <span class="text">EVERYTHING</span>
+                                    <span class="tooltip">Shop everything</span>
+                                </a></li>
+		</ul></li><li><a class="popout level1" href="/womens-fashion#">
+                                    <span>BLOG</span>
+                                </a><ul class="level2">
+			<li><a class="level2" href="/womens-fashion">
+                                    <span class="text">WOMEN</span>
+                                    <span class="tooltip"></span>
+                                </a></li><li><a class="level2" href="/mens-fashion">
+                                    <span class="text">MEN</span>
+                                    <span class="tooltip"></span>
+                                </a></li>
+		</ul></li><li><a class="popout level1" href="/group/Ms.Streetstyle#">
+                                    <span>STREET&nbsp;STYLE</span>
+                                </a><ul class="level2">
+			<li><a title="Street style and catwalk" class="level2" href="/group/Ms.Streetstyle">
+                                    <span class="text">WOMEN</span>
+                                    <span class="tooltip">Street style and catwalk</span>
+                                </a></li><li><a title="Street style and catwalk" class="level2" href="/group/Mr.Streetstyle">
+                                    <span class="text">MEN</span>
+                                    <span class="tooltip">Street style and catwalk</span>
+                                </a></li>
+		</ul></li>
+	</ul>
+</div>
+                            
+                                    <div class="login-view">
+                                        <a id="LoginView1_Login" href="/login">LOGIN</a>
+			                            <a id="LoginView1_Register" href="/register">REGISTER</a>
+                                    </div>
                                 
-    
-            <!-- not-logged hidden -->
-		    <ul class="not-logged">
-			    <li><a href="/login">Login</a>⁄</li>
-			    <li><a href="/register">Register</a></li>
-		    </ul>
-        
-
-                            
-</div>
-                            <!-- nav -->
-                            <div id="navNotAuth">
-	
-					            <ul class="nav mainNav">
-						            <li><a href="womens-fashion">WOMEN'S</a></li>
-						            <li><a href="mens-fashion">MEN'S</a></li>
-						            <li><a id="SalesAlertsLink" href="/fashionsales">SALES FINDER</a></li>
-					            </ul>
-                            
-</div>
-                            
 				        </div>
 			        </div>
 		        </div>
                 <div class="main">
+                    <div id="SubMenuPanel" class="sub-menu-wrapper">
+	
+                        <div class="sub-menu-wrapper-inner">
+                            
+                            <div class="site-menu sub-menu" id="SubMenu">
+		<ul class="level1">
+			<li><a class="level1" href="/about">
+                                    <span>ABOUT</span>
+                                </a></li><li><a class="level1" href="/contact">
+                                    <span>CONTACT US</span>
+                                </a></li><li><a class="level1" href="/jobs">
+                                    <span>JOBS</span>
+                                </a></li><li><a class="level1 selected" href="/privacy">
+                                    <span>PRIVACY STATEMENT</span>
+                                </a></li><li><a class="level1" href="/terms">
+                                    <span>TERMS &amp; CONDITIONS</span>
+                                </a></li>
+		</ul>
+	</div>
+                        </div>
                     
-    
+</div>
+                    
     <div class="main-content">
-        <!-- content -->
-        <div id="content">
-            <h2><strong>⁄ PRIVACY STATEMENT</strong></h2>
-            <div class="block">
-                
-    <p>
-      Styloko takes privacy extremely seriously. This Privacy Policy describes how we treat and use the information we
-      collect when you use Styloko.com or sign-up for our newsletters.
-    </p>
-    <p>
-      Styloko provides you the opportunity to agree or decline to give your personal information via the Internet.
-    </p>
-    <p>
-      Styloko will inform you of the purpose for the collection and does not intend to transfer your personal information
-      to third parties without your consent, except under the limited conditions described under the discussion entitled
-      “Information Sharing and Disclosure” below. If you choose to provide us with your personal information, we may
-      transfer that information, within the company or to a third party service provider as necessary.
-    </p>
+        <div class="static-content">
+            <div class="story top">
+                <span class="title">Privacy Statement</span>
+                <div class="story-main-text">
+                    <p>
+                      Styloko takes privacy extremely seriously. This Privacy Policy describes how we treat and use the information we
+                      collect when you use Styloko.com or sign-up for our newsletters.
+                    </p>
+                    <p>
+                      Styloko provides you the opportunity to agree or decline to give your personal information via the Internet.
+                    </p>
+                    <p>
+                      Styloko will inform you of the purpose for the collection and does not intend to transfer your personal information
+                      to third parties without your consent, except under the limited conditions described under the discussion entitled
+                      “Information Sharing and Disclosure” below. If you choose to provide us with your personal information, we may
+                      transfer that information, within the company or to a third party service provider as necessary.
+                    </p>
 
-    <h3>Domain Information Collection</h3>
-    <p>
-      Styloko may collect domain information to enable us to analyze how our visitors use this site. This data enables us
-      to become more familiar with which people visit our site, how often they visit, and what parts of the site they visit
-      most often. Styloko uses this information to improve its Web-based offerings. This information is collected
-      automatically and requires no action on your part.
-    </p>
+                    <h3>Domain Information Collection</h3>
+                    <p>
+                      Styloko may collect domain information to enable us to analyze how our visitors use this site. This data enables us
+                      to become more familiar with which people visit our site, how often they visit, and what parts of the site they visit
+                      most often. Styloko uses this information to improve its Web-based offerings. This information is collected
+                      automatically and requires no action on your part.
+                    </p>
 
-    <h3>Use of Cookies and Tracking User Traffic</h3>
-    <p>
-      Some pages on this site may use “cookies”—small files that the site places on your hard drive for identification
-      purposes. A cookie file can contain information such as a user ID to track the pages visited, but the only personal
-      information a cookie can contain is information you supply yourself. These files are used for site registration and
-      customization the next time you visit us.
-    </p>
-    <p>
-      Some parts of the site may also use cookies to track user traffic patterns. Styloko does this in order to determine
-      the usefulness of our Web site information to our users and to see how effective our navigational structure is in
-      helping users reach that information. Please note that cookies cannot read data off of your hard drive. Your Web
-      browser may allow you to be notified when you are receiving a cookie, giving you the choice to accept it or not.
-      If you prefer not to receive cookies while browsing our Web site, you can set your browser to warn you before
-      accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all
-      cookies by turning them off in your browser, By not accepting cookies, some pages may not fully function and you
-      may not be able to access certain information on this site.
-    </p>
+                    <h3>Use of Cookies and Tracking User Traffic</h3>
+                    <p>
+                      Some pages on this site may use “cookies”—small files that the site places on your hard drive for identification
+                      purposes. A cookie file can contain information such as a user ID to track the pages visited, but the only personal
+                      information a cookie can contain is information you supply yourself. These files are used for site registration and
+                      customization the next time you visit us.
+                    </p>
+                    <p>
+                      Some parts of the site may also use cookies to track user traffic patterns. Styloko does this in order to determine
+                      the usefulness of our Web site information to our users and to see how effective our navigational structure is in
+                      helping users reach that information. Please note that cookies cannot read data off of your hard drive. Your Web
+                      browser may allow you to be notified when you are receiving a cookie, giving you the choice to accept it or not.
+                      If you prefer not to receive cookies while browsing our Web site, you can set your browser to warn you before
+                      accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all
+                      cookies by turning them off in your browser, By not accepting cookies, some pages may not fully function and you
+                      may not be able to access certain information on this site.
+                    </p>
 
-    <h3>Information Sharing and Disclosure</h3>
-    <p>
-      Your personal information is never shared outside the company without your permission, except under conditions
-      listed below:
-    </p><ul>
-      <li>
-        Consenting to share your information to a third party service provider working on our behalf to serve you.
-        Requiring us to provide you with a product or service.
-      </li>
-      <li>
-        Styloko will also disclose your personal information, if required to do so by law, or in urgent circumstances,
-        to protect personal safety, the public or our sites.
-      </li>
-    </ul>
-    <p></p>
+                    <h3>Information Sharing and Disclosure</h3>
+                    <p>
+                      Your personal information is never shared outside the company without your permission, except under conditions
+                      listed below:
+                    </p><ul>
+                      <li>
+                        Consenting to share your information to a third party service provider working on our behalf to serve you.
+                        Requiring us to provide you with a product or service.
+                      </li>
+                      <li>
+                        Styloko will also disclose your personal information, if required to do so by law, or in urgent circumstances,
+                        to protect personal safety, the public or our sites.
+                      </li>
+                    </ul>
+                    <p></p>
 
-    <h3>Internet Security</h3>
-    <p>
-      Styloko strives to protect your personal information; however, we urge you to take every precaution to protect your
-      personal data when you are on the Internet. Change your passwords often, use a combination of letters
-    </p>
-
-
-    <h3>Protecting the Privacy of Children</h3>
-    <p>
-      Children under 13 years old are not the target audience for our Web site. To protect their privacy, Styloko prohibits
-      the solicitation of personal information from these children.
-    </p>
+                    <h3>Internet Security</h3>
+                    <p>
+                      Styloko strives to protect your personal information; however, we urge you to take every precaution to protect your
+                      personal data when you are on the Internet. Change your passwords often, use a combination of letters
+                    </p>
 
 
-    <h3>Links to Third Party Sites</h3>
-    <p>
-      This site may contain links to other sites. Styloko does not share your personal information with those Web sites and
-      is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those
-      companies.
-    </p>
+                    <h3>Protecting the Privacy of Children</h3>
+                    <p>
+                      Children under 13 years old are not the target audience for our Web site. To protect their privacy, Styloko prohibits
+                      the solicitation of personal information from these children.
+                    </p>
 
-    <h3>Changes to this Privacy Policy</h3>
-    <p>
-      Styloko reserves the right to change, modify or update this policy at any time without notice. Any substantial changes
-      in the way we use your personal information will be posted on this site.
-    </p>
 
-    <p>
-      If you have questions or concerns about our Privacy Policy, please email us at the contact information on the site.
-    </p>
+                    <h3>Links to Third Party Sites</h3>
+                    <p>
+                      This site may contain links to other sites. Styloko does not share your personal information with those Web sites and
+                      is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those
+                      companies.
+                    </p>
 
+                    <h3>Changes to this Privacy Policy</h3>
+                    <p>
+                      Styloko reserves the right to change, modify or update this policy at any time without notice. Any substantial changes
+                      in the way we use your personal information will be posted on this site.
+                    </p>
+
+                    <p>
+                      If you have questions or concerns about our Privacy Policy, please email us at the contact information on the site.
+                    </p>
+                </div>
             </div>
-        </div>
-        <!-- sidebar -->
-        <div id="sidebar">
-            <h2><strong>⁄ FURTHER INFORMATION</strong></h2>
-            <!-- addnav -->
-            <ul class="addnav">
-            <li>
-                <a href="/about">ABOUT</a>    </li>
-            <li>
-                <a href="/contact">CONTACT US</a>    </li>
-            <li>
-                <a href="/jobs">JOBS</a>    </li>
-            <li>
-                <a href="/privacy">PRIVACY STATEMENT</a>    </li>
-            <li>
-                <a href="/terms">TERMS &amp; CONDITIONS</a>    </li>
-            <li>
-                <a href="/rss">RSS</a>    </li>
-            </ul>
-        </div>
     </div>
-
+</div>
 
                 </div>
             </div>
             <!-- footer -->
 	        <div id="footer">
 	
-		        <!-- navbar -->
-		        <ul class="navbar">
-			        <li><a href="/about">About</a>⁄</li>
-			        <li><a href="/contact">Contact Us</a>⁄</li>
-			        <li><a href="/jobs">Jobs</a>⁄</li>
-			        <li><a href="/privacy">Privacy Statement</a>⁄</li>
-			        <li><a href="/terms">Terms &amp; Conditions</a>⁄</li>
-                    <li><a href="./">Online Fashion</a>⁄</li>
-			        <li><a href="/rss">RSS</a>⁄</li>
-                    <li><a href="/fashionsales">Fashion sales</a></li>
-		        </ul>
+                <!-- navbar -->
+                <div class="navbar">
+                    
+                    <div class="site-menu " id="FooterMenu">
+		<ul class="level1">
+			<li><a class="level1" href="/about">ABOUT</a></li><li><a class="level1" href="/contact">CONTACT US</a></li><li><a class="level1" href="/jobs">JOBS</a></li><li><a class="level1 selected" href="/privacy">PRIVACY STATEMENT</a></li><li><a class="level1" href="/terms">TERMS &amp; CONDITIONS</a></li><li><a class="level1" href="./">Online Fashion</a></li><li><a class="level1" href="/rss">RSS</a></li><li><a class="level1" href="/fashionsales">Fashion sales</a></li>
+		</ul>
+	</div>
+                </div>
 		        <!-- tools -->
 		        <ul class="tools">
 			        <li class="facebook"><a href="http://www.facebook.com/styloko" target="_blank">facebook</a></li>
 			        <li class="twitter"><a href="http://twitter.com/styloko" target="_blank">twitter</a></li>
 		        </ul>
-		        <p>© 2010 Styloko. All rights reserved. </p>
+		        <p>© 2011 Styloko. All rights reserved. </p>
 	        
 </div>
             <!-- google analytics -->
@@ -236,7 +355,43 @@ Sys.Application._enableHistoryInScriptManager();
                     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                 })();
             </script>
-        </form>
+            <div id="use-add-to-scrapbook-button" class="popup-container popup-window-hidden">
+	<div class="popup-container-holder">
+		<div class="popup-container-frame">
+            <div class="popup-container-content">
+                <!-- close -->
+                <a href="Controls/#" id="ctl06_CloseLink" class="close">close</a>
+                
+                    <div id="use-add-to-scrapbook-button-container">
+                        <p>If you would like to add anything into your scrapbook, you can use the add to my scrapbook button next to each item.</p>
+                        <img src="Images/use-add-to-scrapbook-button.jpg">
+                        <a href="#" class="styloko-button normal-size right close">CLOSE</a>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+            
+            <div id="CookiesInfo">
+	
+                <a id="closer" href="#">close</a>
+                <h1>Cookies on Styloko</h1>
+                <p>Syloko uses cookies to ensure that we provide the best experience on our website. We do not store any personally identifiable data in the cookies. If you continue without changing your settings, we'll assume that you are happy to receive all cookies from the website.</p>
+            
+</div>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+AjaxClientGlobal.serviceUrl = '/Service.asmx';//]]>
+</script>
+<script type="text/javascript">new Sys.WebForms.Menu({ element: 'MainMenu', disappearAfter: 0, orientation: 'horizontal', tabIndex: 0, disabled: false });</script><script type="text/javascript">new Sys.WebForms.Menu({ element: 'SubMenu', disappearAfter: 0, orientation: 'horizontal', tabIndex: 0, disabled: false });</script><script type="text/javascript">new Sys.WebForms.Menu({ element: 'FooterMenu', disappearAfter: 0, orientation: 'horizontal', tabIndex: 0, disabled: false });</script>
+<script type="text/javascript">
+//<![CDATA[
+$('#use-add-to-scrapbook-button').bind('show.popup', PopupContainer.OnShowPopup);$('#use-add-to-scrapbook-button').bind('close.popup', PopupContainer.OnClosePopup);//]]>
+</script>
+</form>
     
 
 </body></html>
