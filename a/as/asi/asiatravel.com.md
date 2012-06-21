@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the asiatravel.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217034927id_/http%3A//www.asiatravel.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiatravel.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621031807id_/http%3A//www.asiatravel.com/policy.html) for the most accurate reproduction.*
 
-# Pivacy Policy - AsiaTravel.com
+# Asiatravel.com Privacy Policy
 
-**Asiatravel.com - Privacy Policy**
+**Asiatravel.com - Privacy Policy  
+**
 
-Asiatravel.com values your privacy.  It is important that you have a clear understanding of our practices with regards to information collection and information usage, that you have full control of which personal information you provide to Asiatravel.com.
+Asiatravel.com values your privacy. It is important that you have a clear understanding of our practices with regards to information collection and information usage, that you have full control of which personal information you provide to Asiatravel.com.
 
-**Information Collected**
+**Information Collected  
+**
 
 When making a booking through asiatravel.com, we need to collect certain details in relation to processing the transaction and fulfilling your order, including (but not limited to) the following: your name, nationality, credit card details, and contact information (email, phone, and fax).
 
@@ -14,9 +16,10 @@ We also collect your name and email information from submission of your queries 
 
 You agree that by disclosing your personal information to us, we may include your record in our database.
 
-**Use and Care of Information**
+**Use and Care of Information  
+**
 
-Asiatravel.com remains the owner of any information collected on the web site and has no intention to change this policy in the future. Use of contact information (e.g. email) is for us to send to you confirmation / related information for your booking/s such as vouchers, etc. You may also receive promotional communications from time to time. 
+Asiatravel.com remains the owner of any information collected on the web site and has no intention to change this policy in the future. Use of contact information (e.g. email) is for us to send to you confirmation / related information for your booking/s such as vouchers, etc. You may also receive promotional communications from time to time.
 
 Should you prefer not to receive promotional emails an unsubscribe link is located below the promotional emails. You may also contact our [Customer Service](mailto:customerservice@asiatravel.com).
 
@@ -26,18 +29,21 @@ Asiatravel.com also reserves the right to disclose personal information only if 
 
 Where links are present that will result in you leaving the Asiatravel.com website and being taken to third-party websites, please do note that any information that you may provide to these third-party websites are not covered by Asiatravel.com privacy policy and as such we do recommend that you review their privacy and security policies.
 
-**Data Security**
+**Data Security  
+**
 
-We, at Asiatravel.com give the utmost importance to keeping your data secure at all times. Secure Sockets Layer (SSL) technology, a strong encryption technology to ensure the safe transmission of all credit card transactions and personal information, is implemented. 
+We, at Asiatravel.com give the utmost importance to keeping your data secure at all times. Secure Sockets Layer (SSL) technology, a strong encryption technology to ensure the safe transmission of all credit card transactions and personal information, is implemented.
 
-A digital certificate from Thawte, a recognized industry leader has been obtained. You can view this site certificate on the secure pages by clicking on the padlock icon (or solid key) found on the status bar of your browser. 
+A digital certificate from Thawte, a recognized industry leader has been obtained. You can view this site certificate on the secure pages by clicking on the padlock icon (or solid key) found on the status bar of your browser.
 
-**Cookies**
+**Cookies  
+**
 
-Asiatravel.com may use technologies such as “cookies” in order to record session information, collect visit and access details to our web pages that enable us to continue to improve our services and provide better and useful features to our site users/guests. 
+Asiatravel.com may use technologies such as “cookies” in order to record session information, collect visit and access details to our web pages that enable us to continue to improve our services and provide better and useful features to our site users/guests.
 
 Cookies are pieces of information that are normally used by many websites for record-keeping purposes that can help sites remember, for example, your preferences. A cookie, in and of itself does not personally identify any user/guest.
 
-**Changes to the policy**
+**Changes to the policy  
+**
 
 Kindly note that this privacy policy may be updated every now and then. For any significant changes, a more prominent notice will be provided.
