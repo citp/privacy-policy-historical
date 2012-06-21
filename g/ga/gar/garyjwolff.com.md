@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the garyjwolff.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010737id_/http%3A//www.garyjwolff.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garyjwolff.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622013349id_/http%3A//www.garyjwolff.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for garyjwolff.com
 
-[Home](https://web.archive.org/web/20111102010737id_/http%3A//www.garyjwolff.com/index.html): Privacy Policy
+[Home](http://www.garyjwolff.com/index.html): Privacy Policy
 
 ## Privacy Policy for  
 www.garyjwolff.com
 
-I HATE legal stuff, but in order to use Google Adsense, I needed a Privacy Policy. So here is my best attempt at being a good citizen.  
+I HATE legal stuff, but in order to use Google Adsense and other affiliate marketing programs on this website, I needed a Privacy Policy. So here is my best attempt at being a good citizen.  
 
 Having been spammed virtually millions of times since I started doing email in 1995, perhaps more than anyone else, I can fully appreciate the importance of protecting people's privacy. 
 
@@ -28,7 +28,7 @@ Once information is reviewed, it is either discarded or stored in my files, for 
 ### Use of Cookies
 
   
-Cookies may be used to help you personalize your online experience. Cookies are identifiers that are routinely transferred by virtually every website these days to your computer's hard drive through your Web browser to enable website systems to recognize your browser. 
+Cookies may be used to help personalize your online experience. Cookies are identifiers that are routinely transferred by virtually every website these days to your computer's hard drive through your Web browser to enable website systems to recognize your browser. 
 
 The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the site's pages, or register with any of the site's services, a cookie simply enables a website to recall your specific  
 information on subsequent visits.
@@ -62,7 +62,7 @@ If this website is sold, the information obtained from you through your volunta
 ### How You Can Correct or Remove Information
 
   
-This privacy policy is provided as a statement to you of my commitment to protect your personal information. If you have submitted personal information through this website and would like that information deleted from my records or would like to update or correct that information, please use my [Contact Me](https://web.archive.org/web/20111102010737id_/http%3A//www.garyjwolff.com/contact-me-form.html) page.
+This privacy policy is provided as a statement to you of my commitment to protect your personal information. If you have submitted personal information through this website and would like that information deleted from my records or would like to update or correct that information, please use my [Contact Me](http://www.garyjwolff.com/contact-me-form.html) page.
 
 ### Google Search Box
 
