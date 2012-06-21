@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chartboost.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228144324id_/http%3A//www.chartboost.com/web/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartboost.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621082219id_/http%3A//www.chartboost.com/web/privacy_policy) for the most accurate reproduction.*
 
-# ChartBoost
+# Chartboost
 
 This privacy statement ("Privacy Policy") explains how information is collected and utilized by Chartboost, Inc. ("Chartboost") its subsidiaries and affliated companies. This Privacy Policy applies to the Chartboost website at www.chartboost.com, (the "Site") and Chartboost's other online services. If you have any concerns about privacy on the Site, please send an email to privacy@chartboost.com and we will try to address it.
 
