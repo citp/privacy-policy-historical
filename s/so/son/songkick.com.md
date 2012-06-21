@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the songkick.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228161434id_/http%3A//www.songkick.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songkick.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621195304id_/http%3A//www.songkick.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Songkick
 
-_TO OUR COMMUNITY: If this sort of thing interests you, we would like your feedback on this Privacy Policy and our Terms of Service. My hope is that we will make changes as your use of the new version of Songkick evolves over the coming months. Feel free to email me directly ([pete@songkick.com](mailto:pete@songkick.com)) with any questions, criticisms and suggestions._
-
--Pete Smith, COO/Co-founder
+_TO OUR COMMUNITY: If this sort of thing interests you, we would like your feedback on this Privacy Policy and our Terms of Service. Feel free to email us directly ([support@songkick.com](mailto:support@songkick.com)) with any questions, criticisms and suggestions._
 
 Songkick knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the www.songkick.com website and domain name (collectively, the “Website”), and/or using any other linked pages, features, content, or application services offered from time to time by Songkick in connection therewith (collectively the “Service”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
@@ -102,7 +100,6 @@ Songkick allows you to access the following information about you for the purpos
   * Username and password
   * User preferences
   * Zip- and/or post-codes
-  * Your music preferences
 
 
 
