@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdvideosoft.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221030118id_/http%3A//www.dvdvideosoft.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdvideosoft.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622003850id_/http%3A//www.dvdvideosoft.com/privacy.htm) for the most accurate reproduction.*
 
 # DVDVideoSoft.com: Download free DVD, iPod, YouTube video converter and editor software and freeware
 
