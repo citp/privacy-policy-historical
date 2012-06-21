@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turner.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123155948id_/http%3A//www.turner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turner.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621220349id_/http%3A//www.turner.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | turner.com
 
@@ -90,7 +90,7 @@ This Privacy Statement applies to general audience sites on the World Wide Web o
   * [www.turner.com](http://www.turner.com/)
   * [www.TBSsuperstation.com](http://www.tbssuperstation.com/)
   * [www.tbs17.com](http://www.tbs17.com/)
-  * [www.tnt.tv](http://www.tnt.tv/)
+  * [www.tntdrama.com](http://www.tntdrama.com/)
   * [www.TurnerClassicMovies.com](http://www.turnerclassicmovies.com/)
 
 
