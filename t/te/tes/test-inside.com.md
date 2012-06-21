@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the test-inside.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017113556id_/http%3A//www.test-inside.com/testinside/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the test-inside.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621114639id_/http%3A//www.test-inside.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Notice - TestInside
-
-### Privacy Notice
+# Test-inside Privacy Notice
 
 #### Privacy Notice
 
@@ -14,21 +12,21 @@ At Testinside, your right to privacy and data security is a very important. That
 
 #### Testinside only requests for specific information used in our product or service 
 
-In a few areas on our Web site and online customer support tools, we ask you to provide information that will enable us to enhance your site visit, to assist you with purchase and technical support issues or to follow up with you after your visit. It is completely optional for you to participate. For example, we request information from you when you: 
+In a few areas on our Web site and online customer support tools, we ask you to provide information that will enable us to enhance your site visit, to assist you with purchase and technical support issues or to follow up with you after your visit. It is completely optional for you to participate. For example, we request information from you when you:
 
-  * Register a new user on test-inside.com
-  * Request a quote for some products
-  * Place an order
-  * Provide feedback in an online survey
-  * Request e-mail notification of your order status
-  * Subscribe to a newsletter or a mailing list
-  * Request assistance from our "Livesupport!"
+  * Register a new user on test-inside.com 
+  * Request a quote for some products 
+  * Place an order 
+  * Provide feedback in an online survey 
+  * Request e-mail notification of your order status 
+  * Subscribe to a newsletter or a mailing list 
+  * Request assistance from our "Livesupport!" 
 
 
 
-Information we may request includes your name, e-mail address, phone number, address, company name, customer preference information, order number, as well as other similar personal information. If we ever ask for significantly different information we will inform you. 
+Information we may request includes your name, e-mail address, phone number, address, company name, customer preference information, order number, as well as other similar personal information. If we ever ask for significantly different information we will inform you.
 
-#### Testinside only uses your personal information for specific purposes 
+#### Testinside only uses your personal information for specific purposes
 
 The information you provide will be kept confidential and used to support your customer relationship with Testinside. Among other things, we want to help you quickly find information on test-inside.com and alert you to product upgrades, special offers, updated information and other new products and services from Testinside. Agents or contractors of Testinside who have access to your personal information and prospect information are required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for Testinside. Testinside may enhance or merge your information collected at its site with data from third parties for purposes of marketing products or services to you. In addition, Testinside may be required to disclose personal information in connection with law enforcement, fraud prevention, regulation, and other legal action or if Testinside reasonably believes it is necessary to do so to protect Testinside, its customers, or the public.
 
@@ -38,11 +36,11 @@ Information regarding you (such as name, address and phone number) or your order
 
 #### Testinside wants to help you keep your personal information accurate
 
-To view or edit the information that has been stored online, please visit the My Account of the Testinside Web site. 
+To view or edit the information that has been stored online, please visit the My Account of the Testinside Web site.
 
 #### Internet Commerce
 
-The online store at test-inside.com is designed to give you options concerning the privacy of your credit card information, name, address, e-mail and any other information you provide us. Testinside is committed to data security with respect to information collected on our site. We offer the industry standard security measures available through your browser called SSL encryption, at our payment gateways. It has always been a Testinside practice to contact customers in the event of a potential problem with your purchase or any normal business communication regarding your purchase. 
+The online store at test-inside.com is designed to give you options concerning the privacy of your credit card information, name, address, e-mail and any other information you provide us. Testinside is committed to data security with respect to information collected on our site. We offer the industry standard security measures available through your browser called SSL encryption, at our payment gateways. It has always been a Testinside practice to contact customers in the event of a potential problem with your purchase or any normal business communication regarding your purchase.
 
 #### Customized Experience
 
@@ -54,6 +52,4 @@ We reserve the right to change the terms, conditions, notices and privacy under 
 
 #### Contact Testinside
 
-If you would like to contact us for any reason regarding our privacy practices, please write us at the following email address: sales(at)test-inside.com
-
-Complaints and Suggestions: admin(at)test-inside.com 
+If you would like to contact us for any reason regarding our privacy practices, please write us at the following email address: [sales@test-inside.com](mailto:sales@test-inside.com) Complaints and Suggestions: [support@test-inside.com](mailto:support@test-inside.com)
