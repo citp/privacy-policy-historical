@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the itsallgay.eu privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202152042id_/http%3A//www.itsallgay.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsallgay.eu privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621093600id_/http%3A//www.itsallgay.eu/privacy) for the most accurate reproduction.*
 
 # Its All Gay
 
 [](http://www.itsallgay.eu/ "Its All Gay")
 
-[](http://www.lawdit.co.uk/stay_legal_audits/itsallgay.asp) [For our lawyers compliance certification click here](http://www.lawdit.co.uk/stay_legal_audits/itsallgay.asp)
-
 ### www.itsallgay.com Privacy Policy
 
-Your right to privacy is important to us
-
-Our third party licensors are fully registered under the Data Protection Act 1998 and aim to comply with all the protection the Act affords to you. Further information on the Act is on the internet at www.informationcommissioner.gov.uk. The data protection registration is held under the name of GLBT Limited. Under the Data Protection Act 1998, we have a legal duty to protect any personal information we collect from you. Save for information being passed on between us and our third party licensors, we do not pass or sell on your details to any third party unless you give us permission to do so or the law requires/permits it. 
+Your right to privacy is important to us  
+We have a legal duty to protect any personal information we collect from you. Save for information being passed on between us and our third party licensors, we do not pass or sell on your details to any third party unless you give us permission to do so or the law requires/permits it. 
 
 #### User Provided Information -
 
@@ -26,7 +23,7 @@ When you visit the itsallgay Website, our servers automatically record certain i
 
 #### Where your information is held -
 
-Your information is held on our servers and our servers are based in Amsterdam. We must advise that the security is not as good as a service provider based here in the United Kingdom. However, we do have security measures in place with the service providers that host our servers to offer some level of protection of your data. 
+Your information is held on our servers and our servers are based in Amsterdam. We have security measures in place with the service providers that host our servers to offer some level of protection of your data. 
 
 #### The Way itsallgay Uses Information -
 
@@ -43,3 +40,5 @@ We do not share your personally identifiable information (such as name or email 
 We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the itsallgay Website.  
 We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with the Laws of England & Wales.  
 itsallgay also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that itsallgay believes, in good faith, is appropriate or necessary to enforce our Terms of Service, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the itsallgay Website, and to protect the rights, property, or personal safety of itsallgay, our users or others.
+
+GLBT Ltd, St James Court, St Denis Street, Port Louis, Mauritius 
