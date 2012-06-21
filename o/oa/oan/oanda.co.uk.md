@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oanda.co.uk privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207161847id_/http%3A//fxtrade.oanda.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oanda.co.uk privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621085518id_/http%3A//fxtrade.oanda.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OANDA fxTrade Europe
 
@@ -78,4 +78,4 @@ You acknowledge that you will be providing personal information to OANDA Europe 
 
 We will never ask you for security information such as passwords over the phone or by email. If you receive a call or email which you are not sure has come from OANDA Europe, please contact us at [infosec@oanda.co.uk](mailto:infosec@oanda.co.uk). 
 
-We value our customers' opinions. If they have comments or questions about our Privacy Policy, they are invited to us at [privacy@oanda.co.uk](mailto:privacy@oanda.co.uk) or write to us at **Privacy Office, 6th Floor, 52 Grosvenor Gardens, London, SW1W 0AU, United Kingdom**
+We value our customers' opinions. If they have comments or questions about our Privacy Policy, they are invited to us at [privacy@oanda.co.uk](mailto:privacy@oanda.co.uk) or write to us at **Privacy Office, 1st Floor, 25 Watling Street, London, EC4M 9BR, United Kingdom**
