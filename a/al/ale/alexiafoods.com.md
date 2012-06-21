@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexiafoods.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101234012id_/http%3A//www.conagrafoods.com/utilities/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexiafoods.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621104635id_/http%3A//www.conagrafoods.com/utilities/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - ConAgra Foods
 
