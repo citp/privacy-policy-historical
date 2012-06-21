@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realbird.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221083054id_/http%3A//www.realbird.com/Default.aspx%3Fp%3Dcontent.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbird.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621125845id_/http%3A//www.realbird.com/Default.aspx%3Fp%3Dcontent.privacy) for the most accurate reproduction.*
 
 # Real estate listing marketing, single property website, syndication, social media and mobile real estate
 
