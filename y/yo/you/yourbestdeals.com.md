@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbestdeals.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217034219id_/http%3A//www.yourbestdeals.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbestdeals.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621203910id_/http%3A//www.yourbestdeals.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # YourBestDeals.com Privacy Policy
 
