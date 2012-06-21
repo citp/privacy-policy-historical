@@ -1,0 +1,1156 @@
+<!--The following is the downloaded HTML source of the iconsumerknowledge.com privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621145854id_/http%3A//www.iconsumerknowledge.com%3Fpage_id%3D80) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script language="javascript">
+
+var isFF = navigator.userAgent.indexOf("Gecko");
+
+function getexpirydate( nodays){
+
+var UTCstring;
+
+Today = new Date();
+
+nomilli=Date.parse(Today);
+
+Today.setTime(nomilli+nodays*24*60*60*1000);
+
+UTCstring = Today.toUTCString();
+
+return UTCstring;
+
+}
+
+function getcookie(cookiename) {
+
+ var cookiestring=""+document.cookie;
+
+ var index1=cookiestring.indexOf(cookiename);
+
+ if (index1==-1 || cookiename=="") return ""; 
+
+ var index2=cookiestring.indexOf(';',index1);
+
+ if (index2==-1) index2=cookiestring.length; 
+
+ return unescape(cookiestring.substring(index1+cookiename.length+1,index2));
+
+}
+
+function setcookie(name,value,duration){
+
+cookiestring=name+"="+escape(value)+";EXPIRES="+getexpirydate(duration);
+
+document.cookie=cookiestring;
+
+if(!getcookie(name)){
+
+return false;
+
+}
+
+else{
+
+return true;
+
+}
+
+}
+
+function date1(){
+
+now = new Date();
+
+then = new Date(" Jan 01 1970 00:00:00");
+
+seconds=now-then/1000;
+
+month=1+now.getMonth();
+
+day=now.getDate();
+
+year=now.getFullYear();
+
+document.write( day+"-"+month+"-"+year+"");
+
+}
+
+var shownleave = 0;
+
+function exitbox(){
+
+if (shownleave == 1) return;
+
+shownleave = 1;
+
+nowatch = 1;
+
+if(getcookie('safeexit') == 'yes'){
+
+return;
+
+}
+
+else
+
+{
+
+try {var adeel = window.showModalDialog("","Exit PopOVER","dialogHeight: 500px;dialogWidth: 500px;dialogTop: px; dialogLeft: px; edge: Raised; center: Yes; help: no; resizable: Yes; status: no;"); }
+
+catch (e) {adeel = 1};
+
+if (adeel = 19) return;
+
+var confMsg = "Are you sure you dont want to take advantage of the Electronic Cigarette Free Trial.  With our exclusive promotion for our readers, it is free, all you have to do is pay a shipping and handling charge of $4.95. Dont forget - they will only be available for a limited time.";
+
+try {window.event.returnValue = confMsg;}
+
+catch(e) { }
+
+//return confMsg;
+
+}}
+
+var exitlayer;
+
+function prepareExitTrack() {
+
+mkoverlayexit(); sl =0;
+
+exitlayer = document.getElementById("itexit").cloneNode(true);
+
+document.body.appendChild(exitlayer);
+
+}
+
+
+
+var n=50
+
+var exitoverlay;
+
+function mkoverlayexit() {
+
+exitoverlay = document.createElement('DIV');
+
+exitoverlay.style.position = 'absolute';
+
+exitoverlay.style.left = '0px';
+
+exitoverlay.style.top = '0px';
+
+var w = (document.body.scrollWidth>document.body.clientWidth)? document.body.scrollWidth : document.body.clientWidth;
+
+var h = (document.body.scrollHeight>document.body.clientHeight)? document.body.scrollHeight : document.body.clientHeight;
+
+w = w + 50;
+
+h = h + 50;
+
+exitoverlay.style.width = w;
+
+exitoverlay.style.height = h;
+
+exitoverlay.innerHTML = "<table width = " + w + " height = " + h + "> </table>"
+
+exitoverlay.style.backgroundColor = "#7F7F7F"
+
+exitoverlay.above = exitlayer;
+
+exitoverlay.style.visibility = "hidden";
+
+document.body.appendChild(exitoverlay);
+
+exitoverlay.style.opacity = 0;
+
+exitoverlay.style.filter = 'alpha(opacity=' + 0 + ')';
+
+}
+
+var sl = 0;
+
+var tm = 0;
+
+function shadeinexoverlay() {
+
+exitoverlay.style.opacity = ((n/100) / 10) * sl;
+
+exitoverlay.style.filter = 'alpha(opacity=' + (n / 10) * sl + ')';
+
+sl+=1;
+
+if (sl<=10)  setTimeout('shadeinexoverlay()',tm); }
+
+function shadeoutexoverlay() {
+
+exitoverlay.style.opacity = (n/100) / 10 * sl;
+
+exitoverlay.style.filter = 'alpha(opacity=' + n / 10 * sl + ')';
+
+sl-=1;
+
+if (sl>=0)  {setTimeout('shadeoutexoverlay()',tm); }
+
+else {exitoverlay.style.visibility = "hidden";
+
+exitlayer.style.visibility = "hidden";
+
+} }
+
+var x,y, nowatch = 0; var shownexit = 0;
+
+function mouseProc(e) {
+
+if (document.all) {x = event.clientX; y = event.clientY}
+
+else {x = e.pageX - document.body.scrolLLeft; y = e.pageY - document.body.scrollTop;}
+
+if ((y<20) && (nowatch == 0)){
+
+if (shownexit == 0) {
+
+shownexit = 1;
+
+exitlayer.style.top=  parseInt(((document.layers)?window.pageYOffset:document.body.scrollTop) + (((!document.all)?window.innerHeight:document.body.clientHeight) - 500) / 2);
+
+exitlayer.style.left=  parseInt(((document.layers)?window.pageXOffset:document.body.scrollLeft) + (((!document.all)?window.innerWidth:document.body.clientWidth) - 500) / 2);
+
+exitlayer.style.visibility="visible";
+
+exitoverlay.style.visibility="visible";
+
+shadeinexoverlay();
+
+}
+
+}
+
+}
+
+function dismissexit(){
+
+try {if (document.getElementById('idiframe')) {frames['idiframe'].location.href = 'about:blank';}} catch (e) {}
+
+nowatch = 1;
+
+sl = 10; shadeoutexoverlay();
+
+}
+
+document.onmouseout=mouseProc;
+
+document.onmousemove=mouseProc;
+
+function init() {
+
+setcookie('safeexit','no',1);
+
+prepareExitTrack();
+
+if (window.attachEvent) {
+
+window.attachEvent("onbeforeunload", cookiecheck); 
+
+window.attachEvent("onunload", cookiecheck); }
+
+else {
+
+window.onbeforeunload = cookiecheck; 
+
+window.onunload = cookiecheck; }
+
+}
+
+function cookiecheck(){
+
+var currentvalue;
+
+var uservalue =1;
+
+if(getcookie('popover') > 0){
+
+currentvalue = getcookie('popover');
+
+if(currentvalue == (uservalue+1))
+
+{
+
+}
+
+else
+
+{
+
+currentvalue = parseInt(currentvalue) + 1;
+
+setcookie('popover', currentvalue ,364);
+
+exitbox();
+
+}
+
+}
+
+else
+
+{
+
+setcookie('popover',2,364);
+
+exitbox();
+
+}
+
+}
+
+</script>
+
+
+
+<!-- IPO CODE: EXIT END -->
+
+
+
+
+
+
+
+<!-- IPO CODE: ONLOAD START -->
+
+
+
+<script> function IPOLoad() {
+
+
+
+init();init();
+
+
+
+
+
+}</script><!-- IPO CODE: ONLOAD END -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://gettopup.com/releases/latest/top_up-min.js"></script>
+
+<script type="text/javascript" src="http://www.iconsumerknowledge.com/wp-content/themes/gazette/countdown/countdown.js"></script>
+
+ 
+
+<title>Our Privacy Policy  –  IConsumerKnowledge</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="robots" content="noindex, nofollow">
+
+
+
+    <link rel="stylesheet" type="text/css" href="http://www.iconsumerknowledge.com/wp-content/themes/gazette/style.css" media="screen">
+
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.iconsumerknowledge.com/?feed=rss2">
+
+    <link rel="pingback" href="http://www.iconsumerknowledge.com/xmlrpc.php">
+
+       
+
+    <!--[if IE 6]>
+
+    <script type="text/javascript" src="http://www.iconsumerknowledge.com/wp-content/themes/gazette/includes/js/suckerfish.js"></script>
+
+    <![endif]-->
+
+    
+    
+    <link rel="alternate" type="application/rss+xml" title="IConsumerKnowledge » Our Privacy Policy Comments Feed" href="http://www.iconsumerknowledge.com/?feed=rss2&amp;page_id=80">
+<script type="text/javascript" src="http://www.iconsumerknowledge.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://www.iconsumerknowledge.com/wp-includes/js/jquery/jquery.js?ver=1.7.1"></script>
+<script type="text/javascript" src="http://www.iconsumerknowledge.com/wp-content/themes/gazette/includes/js/scripts.js?ver=3.3.2"></script>
+<script type="text/javascript" src="http://www.iconsumerknowledge.com/wp-content/themes/gazette/includes/js/superfish.js?ver=3.3.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.iconsumerknowledge.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.iconsumerknowledge.com/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Contact US" href="http://www.iconsumerknowledge.com/?page_id=78">
+<link rel="next" title="Advertisement" href="http://www.iconsumerknowledge.com/?page_id=904">
+<meta name="generator" content="WordPress 3.3.2">
+<link rel="canonical" href="http://www.iconsumerknowledge.com/?page_id=80">
+
+<!-- Theme version -->
+<meta name="generator" content="Gazette 2.9.5">
+<meta name="generator" content="WooFramework 5.3.12">
+
+<!-- Alt Stylesheet -->
+<link href="http://www.iconsumerknowledge.com/wp-content/themes/gazette/styles/default.css" rel="stylesheet" type="text/css">
+
+<!-- Woo Shortcodes CSS -->
+<link href="http://www.iconsumerknowledge.com/wp-content/themes/gazette/functions/css/shortcodes.css" rel="stylesheet" type="text/css">
+
+<!-- Custom Stylesheet -->
+<link href="http://www.iconsumerknowledge.com/wp-content/themes/gazette/custom.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+
+.wooslider .slider-container,.slider-container .slide  { height: 292px!important } 
+.wooslider .slider-container .slide-content { top: 292px } }
+</style>
+<!-- begin wp geolocation script -->
+<script language="javascript" src="http://j.maxmind.com/app/geoip.js"></script>
+<script language="javascript">
+mmjsCountryCode = geoip_country_code();
+mmjsCountryName = geoip_country_name();
+mmjsCity = geoip_city();
+mmjsRegion = geoip_region();
+mmjsRegionName = geoip_region_name();
+mmjsLat = geoip_latitude();
+mmjsLong = geoip_longitude();
+mmjsPostalCode = geoip_postal_code();
+mmjsIPAddress = "204.236.226.210";
+</script>
+<!-- end wp geolocation script -->
+			
+
+
+	
+
+
+
+
+
+
+
+
+<script language="javascript" type="text/javascript">
+
+        var areYouReallySure2 = true;
+        var internalLink2 = true;
+        function areYouSure2() {
+
+            if (!areYouReallySure2 && !internalLink2) {
+
+                window.onbeforeunload = null;
+
+                alert("*****************************************************\n\nWait!\n\nBefore you leave, please take a look at this limited time offer to take advantage of the new Government Regulations for home refinancing.\n\n Remember, this your chance to refinance your house under new regulations and even put cash into your pocket.\n\nClick cancel to start learning on the new regulations passed to the banks. This Loop-Hole and new regulations may only be available for a limited time.\n\n*****************************************************");
+
+                window.location = "http://www.lifestyle-journals.com/wp-content/themes/gazette/track.php?offer=refi";
+
+                return "\nClick **Cancel** below to reconsider and refinance your house. No credit check required, no SSN required.\n\n";
+
+            }
+
+
+
+        }
+
+        window.onbeforeunload = areYouSure2;
+
+    </script>
+
+
+
+
+
+
+
+<script language="javascript" type="text/javascript">
+
+        var areYouReallySure = true;
+        var internalLink = true;
+        function areYouSure() {
+
+            if (!areYouReallySure && !internalLink) {
+
+                window.onbeforeunload = null;
+
+                //alert("*****************************************************\n\nWait!\n\nBefore you leave, please take a look at this limited time offer. Remember, this your chance to save 75-95% off retail brand new items like laptops, HDTVS, and iPads!\n\nWhy miss the chance to get the best deals on brand name products?\n\nClick cancel to start saving up to 95% off popular, brand name products.\n\n*****************************************************");
+
+                window.location = "http://www.life-stylechoices.com/?p=1309";
+
+                //return "\n\nAre You Sure You Want To Leave? It takes just a few minutes to save up to $9400 starting today. How? See on this page and calculate for yourself.\n\n\n\nClick ******CANCEL****** below to reconsider \n\n\n\nAnd spend 2 minutes to save up $9400 today!\n\n";
+
+            }
+
+
+
+        }
+
+        window.onbeforeunload = areYouSure;
+
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+
+<!--
+
+.lhighlight {
+
+	background-color: #FFFF00;
+
+}
+
+.barticleimage { float: left; padding: 0pt; margin: 0pt 14px 8px 0pt; background-color: rgb(224, 224, 224); border: 1px dotted rgb(255, 255, 255); width: 270px; }
+
+.barticletopimage {  }
+
+.barticleimage img {  }
+
+.barticleimage p {
+
+	padding: 0pt 5px 0pt 10px;
+
+	margin: 5px 0pt 6px;
+
+	font-size: 0.95em;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+}
+
+
+
+}
+
+-->
+
+</style>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" async="" src="https://static.getclicky.com/js"></script></head>
+
+
+
+<body class="page page-id-80 page-template-default unknown">
+
+<!-- IPO CODE: EXIT START --><p></p>
+
+<div id="itexit" style="position: absolute; visibility: hidden;
+
+left: 200px;
+
+top: 200px;
+
+width: 500px;
+
+height: 530px;
+
+border: 2px hidden #0000FF;
+
+background-color: #FFFFFF">
+
+<div align="right"><span style="font-family: Tahoma; font-size: xx-small;"><a href="javascript:void(0);" onclick="dismissexit();return false">[Close]</a></span>&nbsp;&nbsp;</div>
+
+<span style="font-family: Tahoma;"><iframe id="idiframe" src=" " scrolling="no" frameborder="0" height="530" width="97%"></iframe></span></div>
+
+<p><!-- IPO CODE: EXIT END -->
+
+
+
+<!-- Set video category -->
+
+
+
+
+</p><div id="page">
+
+
+
+<div id="nav"> <!-- START TOP NAVIGATION BAR -->
+
+	
+
+		<div id="nav-left">
+
+			<ul id="nav1" class="menu"><li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a href="/">Home</a></li>
+<li id="menu-item-72" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72"><a href="/?page_id=76">About</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="/?page_id=78">Contact</a></li>
+<li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-74"><a href="/?page_id=80">Privacy Policy</a></li>
+</ul>
+
+
+                
+
+		
+
+
+
+		<center>Advertisement</center>
+
+
+
+
+		</div><!--/nav-left -->
+
+
+
+		<div id="nav-right">	
+
+		
+
+			<form method="get" id="searchform" action="http://www.iconsumerknowledge.com/">
+
+				
+
+				<div id="search">
+
+					<input type="text" value="Enter search keyword" onclick="this.value='';" name="s" id="s">
+
+					<input name="" type="image" src="http://www.iconsumerknowledge.com/wp-content/themes/gazette/images/search.gif" value="Go" class="btn">
+
+				</div><!--/search -->
+
+				
+
+			</form>
+
+		
+
+		</div><!--/nav-right -->
+
+		
+
+	</div><!--/nav-->
+
+	
+
+	<div class="fix"></div>
+
+	
+
+	<div id="header"><!-- START LOGO LEVEL WITH RSS FEED -->
+
+		
+
+		<div id="logo">
+
+
+
+	       
+
+		
+
+            <a href="#" title="The Source For Consumer Knowledge &amp; Tips">
+
+                <img src="http://www.iconsumerknowledge.com/wp-content/uploads/2012/06/consumer_knowledge_371.png" alt="IConsumerKnowledge">
+
+            </a>
+
+         
+
+
+
+        
+
+        
+            <span class="site-title"><a href="http://www.iconsumerknowledge.com">IConsumerKnowledge</a></span>
+
+        
+            <span class="site-description">The Source For Consumer Knowledge &amp; Tips</span>
+
+
+
+	      	
+
+		</div><!-- /#logo -->
+
+		
+
+		<!-- Top Ad Starts -->
+
+			<div id="topbanner">
+
+		
+		<a href="http://www.iconsumerknowledge.com/?p=2435&amp;source=BANNER"><img src="http://www.iconsumerknowledge.com/wp-content/uploads/2012/06/quitbanner1.jpg" width="468" height="60" alt="Advert"></a>
+		
+		
+
+</div>
+		<!-- Top Ad Ends -->
+
+		
+
+	</div><!--/header -->
+
+    
+
+    	
+
+	
+
+	<div id="suckerfish"><!-- START CATEGORY NAVIGATION (SUCKERFISH CSS) -->
+
+			
+			<ul id="nav2">
+
+			
+            
+
+					<li class="cat-item cat-item-1"><a href="http://www.iconsumerknowledge.com/?cat=1" title="Diet Category">Diet &amp; Exercise</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.iconsumerknowledge.com/?cat=13" title="Finance Category">Finance</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.iconsumerknowledge.com/?cat=3" title="Health &amp; Fitness Category">Health &amp; Fitness</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.iconsumerknowledge.com/?cat=5" title="View all posts filed under Mental Health">Mental Health</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.iconsumerknowledge.com/?cat=4" title="View all posts filed under Parenting">Parenting</a>
+</li>
+	
+
+                
+
+            
+			</ul>
+
+					
+
+	</div><!--/nav2-->
+
+	
+
+    <div id="columns"><!-- START MAIN CONTENT COLUMNS -->
+		<div class="col1">
+
+				
+		<div id="archivebox">
+        	
+            	<h2>Our Privacy Policy</h2>        
+		
+		</div><!--/archivebox-->
+	
+					
+
+				<div class="post-alt blog" id="post-80">
+		
+					<div class="entry">
+						
+<!-- AddThis Button Begin -->
+<script type="text/javascript">var addthis_product = 'wpp-257';
+var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=bryanlinux"></script><div class="addthis_toolbox addthis_default_style" addthis:url="http://www.iconsumerknowledge.com/?page_id=80" addthis:title="Our Privacy Policy"><a class="addthis_button_facebook like"></a><a class="addthis_button_twitter"></a><a class="addthis_button_email"></a><a class="addthis_button_google"></a><a class="addthis_button_favorites"></a><a class="addthis_button_myspace"></a><a class="addthis_button_stumbleupon"></a><a class="addthis_button_print"></a><a class="addthis_button_compact"></a></div><p>&nbsp;<br>
+IConsumerKnowledge.com respects your privacy and is committed to protecting the personal information that you furnish. In general, you can visit IConsumerKnowledge.com on the Internet without identifying yourself or providing personal information. There are times when IConsumerKnowledge.com may need personal information from you and this Privacy Statement describes the information IConsumerKnowledge.com collects from you and how we may use it.</p>
+<p>What Information Is Collected From You?</p>
+<p>Personal Information means any information that may be used to identify an individual. This includes but is not limited to: first and last name, email address, mailing and residential address, telephone number, title, birth date, gender, occupation, company you work for and other information needed to provide a service you have requested. When you browse our website and subsidiary sites, you do so anonymously, unless you have previously indicated that you wish IConsumerKnowledge.com  to remember your login and password. IConsumerKnowledge.com  does log your IP address (the Internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there. However, we do not link your IP address to any personal information unless you have registered and logged in to our website. When you visit certain IConsumerKnowledge.com  web pages, you need to be registered and to login with a password. The use of those web pages, and the information downloadable from those sites, may be governed by a written agreement between your employer and IConsumerKnowledge.com . Unless you request your personal information to be deleted, it may be retained by IConsumerKnowledge.com  to verify compliance with the agreement, to track software and documents downloaded by you, or track page visits and usage of other applications available on our site. IConsumerKnowledge.com  may receive personal information from its business partners and suppliers. IConsumerKnowledge.com  only uses such information if it has been collected in accordance with acceptable privacy practices consistent with its policy and applicable laws.</p>
+<p>Uses of the information</p>
+<p>When we collect personal information from you, we will inform you at that time of the reason we have requested it. The information will only be used for IConsumerKnowledge.com  business purposes, such as, to respond to requests for products, documentation, and services, to process an order, to conduct a transaction, to correspond, to enable a subscription or event registration, to handle job applications or send direct marketing information and perform market research. IConsumerKnowledge.com  will also use your information to personalize the content you view and to better understand how you use the website in order to improve the services IConsumerKnowledge.com  provides. In general, IConsumerKnowledge.com  assumes that you have given permission to collect and use your personal information in accordance with your acceptance of the Terms of Use, of which this Privacy Statement is a part. You have the right to request that IConsumerKnowledge.com  not contact you for the purposes of sending you newsletters, customer surveys, direct marketing, or market research information. You can exercise this right by clicking on the appropriate option or check box at the point of collection or by editing your personal profile. In specific cases, IConsumerKnowledge.com  will request your direct consent to use your personal information by providing an “opt-in” check box in information collection fields before it can be used for any purposes other than that for which it was given.</p>
+<p>Cookies</p>
+<p>The IConsumerKnowledge.com  Website uses cookies. A cookie is a small data file that is placed on your hard drive when you visit certain web pages. It is used to identify yourself to a website when you revisit it, to load your preferences and to track the pages you have visited. The only personal information held in such a cookie is information you have provided to IConsumerKnowledge.com . You have the choice of whether or not to accept cookies by means of your browser settings, although you may not be able to use certain features and functionalities of the IConsumerKnowledge.com  website if you do disable them. If you choose to provide us with personal information, we may transfer that information, within IConsumerKnowledge.com  or to IConsumerKnowledge.com ’ business partners, across borders and from your country of residence or jurisdiction to other countries or jurisdictions around the world. IConsumerKnowledge.com  will only share identifiable information with its business partners, if you have provided us with your consent to do so. In the event that IConsumerKnowledge.com  sells a part or parts of its business, the identifiable information that IConsumerKnowledge.com  has collected could be transferred to the acquiring company unless you instruct IConsumerKnowledge.com  not to do so in writing.</p>
+<p>Information Security</p>
+<p>Please take note of the following to ensure information security: You should be aware that when you disclose identifiable information in the discussion forum or chat rooms, such information is accessible to and collectable by others present. IConsumerKnowledge.com  advises you to protect yourself against unauthorized access to your computer and disclosure of your IConsumerKnowledge.com  password. If you believe that your password has been compromised, you should immediately change your password.</p>
+<p>Business Relationships</p>
+<p>During your online IConsumerKnowledge.com  experience, you may encounter links to the sites of IConsumerKnowledge.com ’ business partners who might include standards bodies, customers, channel customers, or suppliers. Though a connection might be made to a IConsumerKnowledge.com  business partner site, IConsumerKnowledge.com  is not responsible for the privacy practices of other businesses. IConsumerKnowledge.com  strives to comply with all applicable laws around the world that are designed to protect your privacy. Although legal requirements may vary from country to country, IConsumerKnowledge.com  intends to adhere to the principles set forth in this Privacy Statement even if, in conjunction with the above, we transfer your information from your country of residence to countries that may not require the same level of protection for your information. Our goal is to protect your information no matter where that information is collected, transported, or retained.</p>
+<p>Questions and Notification of Changes</p>
+<p>If you have any questions about the IConsumerKnowledge.com  Privacy Statement or would like to access or modify your identifiable information, please contact us • The IConsumerKnowledge.com  Privacy Statement was last updated on May 18, 2011. • IConsumerKnowledge.com  reserves the right to change this Privacy Statement at any time. Modifications to this Privacy Statement can be made without prior notification. • Continued use of the IConsumerKnowledge.com  Websites signifies your acceptance of any changes to the Privacy Statement.</p>
+					</div>
+				
+				</div><!--/post-->
+
+				
+									
+
+		</div><!--/col1-->
+
+<div class="col2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	  
+
+ 		<div id="tabs">
+           
+            <ul class="wooTabs">
+                                <li class="popular"><a href="#tab-pop">Popular</a></li>                <li class="latest"><a href="#tab-latest">Latest</a></li>                <li class="comm"><a href="#tab-comm">Comments</a></li>                            	            </ul>
+            
+            <div class="clear"></div>
+            
+            <div class="boxes box inside">
+                        
+	                            
+                                <ul id="tab-pop" class="list">            
+                    	<li>
+		<a href="http://www.iconsumerknowledge.com/?p=39" title="A Way To Sleep Better?"><img src="http://www.iconsumerknowledge.com/wp-content/uploads/2010/11/sleep-3x3.jpg" alt="" width="3" height="3" class="woo-image thumbnail"></a>		<a title="A Way To Sleep Better?" href="http://www.iconsumerknowledge.com/?p=39">A Way To Sleep Better?</a>
+		<span class="meta">November 4, 2010</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.iconsumerknowledge.com/?p=41" title="Want A Sexy, Lean Body?"><img src="http://www.iconsumerknowledge.com/wp-content/uploads/2010/11/ripped-3x3.jpg" alt="" width="3" height="3" class="woo-image thumbnail"></a>		<a title="Want A Sexy, Lean Body?" href="http://www.iconsumerknowledge.com/?p=41">Want A Sexy, Lean Body?</a>
+		<span class="meta">November 4, 2010</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.iconsumerknowledge.com/?p=43" title="Take Care Of Your Heart…"><img src="http://www.iconsumerknowledge.com/wp-content/uploads/2010/11/heart-3x3.jpg" alt="" width="3" height="3" class="woo-image thumbnail"></a>		<a title="Take Care Of Your Heart…" href="http://www.iconsumerknowledge.com/?p=43">Take Care Of Your Heart…</a>
+		<span class="meta">November 4, 2010</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.iconsumerknowledge.com/?p=45" title="Stay Away From Salt!"><img src="http://www.iconsumerknowledge.com/wp-content/uploads/2010/11/salt-3x3.jpg" alt="" width="3" height="3" class="woo-image thumbnail"></a>		<a title="Stay Away From Salt!" href="http://www.iconsumerknowledge.com/?p=45">Stay Away From Salt!</a>
+		<span class="meta">November 4, 2010</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.iconsumerknowledge.com/?p=47" title="End Jealousy…"><img src="http://www.iconsumerknowledge.com/wp-content/uploads/2010/11/jelous-3x3.jpg" alt="" width="3" height="3" class="woo-image thumbnail"></a>		<a title="End Jealousy…" href="http://www.iconsumerknowledge.com/?p=47">End Jealousy…</a>
+		<span class="meta">November 4, 2010</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.iconsumerknowledge.com/?p=49" title="Are You Pregnant?"><img src="http://www.iconsumerknowledge.com/wp-content/uploads/2010/11/pregnant-3x3.jpg" alt="" width="3" height="3" class="woo-image thumbnail"></a>		<a title="Are You Pregnant?" href="http://www.iconsumerknowledge.com/?p=49">Are You Pregnant?</a>
+		<span class="meta">November 4, 2010</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.iconsumerknowledge.com/?p=51" title="Have You Tried Yoga?"><img src="http://www.iconsumerknowledge.com/wp-content/uploads/2010/11/yoga-3x3.jpg" alt="" width="3" height="3" class="woo-image thumbnail"></a>		<a title="Have You Tried Yoga?" href="http://www.iconsumerknowledge.com/?p=51">Have You Tried Yoga?</a>
+		<span class="meta">November 4, 2010</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+				<a title="Is The Electronic Cigarette Healthy? Is It The Future of Smoking?" href="http://www.iconsumerknowledge.com/?p=2435">Is The Electronic Cigarette Healthy? Is It The Future of Smoking?</a>
+		<span class="meta">June 7, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+				<a title="The Men’s Fountain of Youth? Learn How Thousands of Men Are Reviving Their Youth With New Breakthrough." href="http://www.iconsumerknowledge.com/?p=2507">The Men’s Fountain of Youth? Learn How Thousands of Men Are Reviving Their Youth With New Breakthrough.</a>
+		<span class="meta">June 18, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+				<a title="If You Are 62 or Older…You May Have A Check Waiting For You" href="http://www.iconsumerknowledge.com/?p=2472">If You Are 62 or Older…You May Have A Check Waiting For You</a>
+		<span class="meta">June 8, 2012</span>
+		<div class="fix"></div>
+	</li>
+	                    
+                </ul>
+                                                <ul id="tab-latest" class="list">
+                    	<li>
+				<a title="The Men’s Fountain of Youth? Learn How Thousands of Men Are Reviving Their Youth With New Breakthrough." href="http://www.iconsumerknowledge.com/?p=2507">The Men’s Fountain of Youth? Learn How Thousands of Men Are Reviving Their Youth With New Breakthrough.</a>
+		<span class="meta">June 18, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+				<a title="Don’t Listen To Your Bank, Now Is Your Chance To Refinance Your Home With Ultra Low Rates…You Just Have To Know How" href="http://www.iconsumerknowledge.com/?p=2492">Don’t Listen To Your Bank, Now Is Your Chance To Refinance Your Home With Ultra Low Rates…You Just Have To Know How</a>
+		<span class="meta">June 13, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+				<a title="How to Dramatically Comfort Your Joints" href="http://www.iconsumerknowledge.com/?p=2485">How to Dramatically Comfort Your Joints</a>
+		<span class="meta">June 12, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+				<a title="If You Are 62 or Older…You May Have A Check Waiting For You" href="http://www.iconsumerknowledge.com/?p=2472">If You Are 62 or Older…You May Have A Check Waiting For You</a>
+		<span class="meta">June 8, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+				<a title="Is The Electronic Cigarette Healthy? Is It The Future of Smoking?" href="http://www.iconsumerknowledge.com/?p=2435">Is The Electronic Cigarette Healthy? Is It The Future of Smoking?</a>
+		<span class="meta">June 7, 2012</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.iconsumerknowledge.com/?p=51" title="Have You Tried Yoga?"><img src="http://www.iconsumerknowledge.com/wp-content/uploads/2010/11/yoga-3x3.jpg" alt="" width="3" height="3" class="woo-image thumbnail"></a>		<a title="Have You Tried Yoga?" href="http://www.iconsumerknowledge.com/?p=51">Have You Tried Yoga?</a>
+		<span class="meta">November 4, 2010</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.iconsumerknowledge.com/?p=49" title="Are You Pregnant?"><img src="http://www.iconsumerknowledge.com/wp-content/uploads/2010/11/pregnant-3x3.jpg" alt="" width="3" height="3" class="woo-image thumbnail"></a>		<a title="Are You Pregnant?" href="http://www.iconsumerknowledge.com/?p=49">Are You Pregnant?</a>
+		<span class="meta">November 4, 2010</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.iconsumerknowledge.com/?p=47" title="End Jealousy…"><img src="http://www.iconsumerknowledge.com/wp-content/uploads/2010/11/jelous-3x3.jpg" alt="" width="3" height="3" class="woo-image thumbnail"></a>		<a title="End Jealousy…" href="http://www.iconsumerknowledge.com/?p=47">End Jealousy…</a>
+		<span class="meta">November 4, 2010</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.iconsumerknowledge.com/?p=45" title="Stay Away From Salt!"><img src="http://www.iconsumerknowledge.com/wp-content/uploads/2010/11/salt-3x3.jpg" alt="" width="3" height="3" class="woo-image thumbnail"></a>		<a title="Stay Away From Salt!" href="http://www.iconsumerknowledge.com/?p=45">Stay Away From Salt!</a>
+		<span class="meta">November 4, 2010</span>
+		<div class="fix"></div>
+	</li>
+		<li>
+		<a href="http://www.iconsumerknowledge.com/?p=43" title="Take Care Of Your Heart…"><img src="http://www.iconsumerknowledge.com/wp-content/uploads/2010/11/heart-3x3.jpg" alt="" width="3" height="3" class="woo-image thumbnail"></a>		<a title="Take Care Of Your Heart…" href="http://www.iconsumerknowledge.com/?p=43">Take Care Of Your Heart…</a>
+		<span class="meta">November 4, 2010</span>
+		<div class="fix"></div>
+	</li>
+	                    
+                </ul>
+                                				<ul id="tab-comm" class="list">
+                                        
+                </ul>                
+                                                
+                                
+
+            </div><!-- /.boxes -->
+			
+        </div><!-- /wooTabs -->
+    
+          
+	
+	<div class="fix"></div>
+    
+    <div class="subcol fl">
+
+	 
+                   
+    </div><!--/subcol-->
+	
+	<div class="subcol fr">
+	
+	 
+			
+	</div><!--/subcol-->
+		
+<div class="fix"></div>
+	
+</div><!--/col2-->
+
+		<div class="fix"></div>
+
+
+
+	</div><!--/columns -->
+
+	
+
+	<div id="footer">
+
+		 <p class="fl">© 2012 IConsumerKnowledge   </p><p class="fr"><a href="http://www.iconsumerknowledge.com">IConsumerKnowledge.com</a> </p>
+
+	</div><!--/footer -->
+
+
+
+</div><!--/page -->
+
+
+
+
+
+
+
+
+<!-- AddThis Button Begin -->
+<script type="text/javascript">var addthis_product = 'wpp-257';
+var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=bryanlinux"></script><!-- Woo Tabs Widget -->
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	// UL = .wooTabs
+	// Tab contents = .inside
+	
+	var tag_cloud_class = '#tagcloud'; 
+	
+	//Fix for tag clouds - unexpected height before .hide() 
+	var tag_cloud_height = jQuery('#tagcloud').height();
+	
+	jQuery('.inside ul li:last-child').css('border-bottom','0px'); // remove last border-bottom from list in tab content
+	jQuery('.wooTabs').each(function(){
+		jQuery(this).children('li').children('a:first').addClass('selected'); // Add .selected class to first tab on load
+	});
+	jQuery('.inside > *').hide();
+	jQuery('.inside > *:first-child').show();
+	
+	jQuery('.wooTabs li a').click(function(evt){ // Init Click funtion on Tabs
+	
+		var clicked_tab_ref = jQuery(this).attr('href'); // Strore Href value
+		
+		jQuery(this).parent().parent().children('li').children('a').removeClass('selected'); //Remove selected from all tabs
+		jQuery(this).addClass('selected');
+		jQuery(this).parent().parent().parent().children('.inside').children('*').hide();
+		
+		jQuery('.inside ' + clicked_tab_ref).fadeIn(500);
+		 
+		 evt.preventDefault();
+	
+	})
+})
+</script>
+<script type="text/javascript" src="http://cdn.wibiya.com/Toolbars/dir_0835/Toolbar_835094/Loader_835094.js?ver=3.3.2"></script>
+<!-- Clicky Web Analytics - http://getclicky.com, WordPress Plugin by Yoast - http://yoast.com -->
+	<script type="text/javascript">
+	function clicky_gc( name ) {
+		var ca = document.cookie.split(';');
+		for( var i in ca ) {
+			if( ca[i].indexOf( name+'=' ) != -1 )
+				return decodeURIComponent( ca[i].split('=')[1] );
+		}
+		return '';
+	}
+	var clicky_custom_session = { 
+		username: clicky_gc( 'comment_author_41f8c5b165a327725a9d71cb0809598c' )
+	};
+  	</script>
+<script type="text/javascript">
+	var clicky = { log: function(){ return; }, goal: function(){ return; }};
+	var clicky_site_id = 66430987;
+	(function() {
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.async = true;
+		s.src = ( document.location.protocol == 'https:' ? 'https://static.getclicky.com' : 'http://static.getclicky.com' ) + '/js';
+		( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+	})();
+</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/66430987ns.gif" /></p></noscript>
+<!-- End Clicky Tracking -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div align="center"><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><table border="2" width="60%" style="border: 2px dotted #808080" bordercolor="#808080" id="table1"><tbody><tr><td><p align="center"><strong>DISCLAIMER</strong></p><p><font color="black"> The authors of this web site are not sponsored by or affiliated with any of the third-party trade mark or third-party registered trade mark owners, and make no representations about them, their owners, their products or services.</font></p><p><font color="black">* THIS PAGE RECEIVES COMPENSATION FOR CLICKS ON OR PURCHASE OF PRODUCTS FEATURED ON THIS SITE.</font></p></td></tr></tbody></table></div><br><br>
+
+
+
+
+<center>
+
+This content is original and written content by IConsumerKnowledge.com and is not permitted to be copied or distributed without consent of IConsumerKnowledge.com or legal action will be initiated.<br><br>&nbsp;
+
+<a href="http://www.dmca.com/Protection/Status.aspx?ID=36c8c21c-4839-41c5-ae60-aa74aeb8b229" title="DMCA"> <img src="http://images.dmca.com/Badges/DMCA_logo-std-btn225w.png?ID=36c8c21c-4839-41c5-ae60-aa74aeb8b229" alt="DMCA.com"></a>
+
+</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <!-- WP Super Cache is installed but broken. The path to wp-cache-phase1.php in wp-content/advanced-cache.php must be fixed! --></body></html>
