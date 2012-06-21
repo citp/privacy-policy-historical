@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1stonlinesolutions.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226232131id_/http%3A//www.1stonlinesolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stonlinesolutions.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621195148id_/http%3A//www.1stonlinesolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy First Online Solutions
 
@@ -53,5 +53,13 @@ Primarily, we collect and store data about you to help us provide better service
   6. Third Party Links Links on our site that belong to third parties may be found. These websites have their Privacy Policy, which you agree to when you link to the site. You should read this third party policy. We do not accept claims of liability or responsibility in any way for these policies or links, as we have no way to control the third party sites. 
   7. Accessing Information The Data Protection Act 1998 provides you with the right to access the information that we collect about you. Please note any demand for access may be subject to a fee of £10 which covers our costs in providing you with the data requested. The contact information below needs to be used to request access about details we collect and store on you. 
   8. Contacting Us We welcome any queries, requests you may have regarding this Privacy Policy, or comments. Please do not hesitate and feel free to contact us at payments@1stonlinesolutions.com. 
+
+
+
+  * London, United Kingdom
+  * Melbourne, Victoria, Australia
+  * Austin, TX, USA
+  * Varna, Bulgaria
+  * Sofia, Bulgaria
 
 
