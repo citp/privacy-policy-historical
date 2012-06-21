@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peruthisweek.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223200122id_/http%3A//www.peruthisweek.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peruthisweek.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622012549id_/http%3A//www.peruthisweek.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Peru this Week - - Privacy Policy
 
 This is the privacy policy for www.peruthisweek.com and www.livinginperu.com and for certain services provided through the websites owned and operated by Peru Experience S.A.C ("PE").  
 At PE we collect different types of information about our users for four main reasons:
