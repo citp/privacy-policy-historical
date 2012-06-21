@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceo.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203175914id_/http%3A//www.ceo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceo.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621194931id_/http%3A//www.ceo.com/privacy-policy) for the most accurate reproduction.*
 
 # CEO.com Privacy Policy | CEO.com
 
@@ -51,13 +51,13 @@ To enhance your experience we may provide you with interactive communications, s
 From time to time we may provide e-mails highlighting new features, promotions or contests on the website to those users who have expressly provided us with their permission to send such communications as part of their user profile.
 
 **To Provide Communications From Third Parties**  
-We respect the privacy of our users and shall not disclose or distribute our user list to any third party, nor shall we permit anyone else to do so. However, we do make available for rental our list of those registrants who have expressly provided us with their permission to receive third party offers as part of their user profile. In those cases, your e-mail address will be transferred to the third party.
+We respect the privacy of our users and shall not, with the exception of related entities or specifically designated affiliates, disclose or distribute our user list to any third party, nor shall we permit anyone else to do so. However, we do make available for rental our list of those registrants who have expressly provided us with their permission to receive third party offers as part of their user profile. In those cases, your e-mail address will be transferred to the third party.
 
 **Control of Your Information**  
-Registered users may elect to stop receiving newsletters or marketing material from CEO.com or on behalf of external third party business partners. by following instructions at the end of any such e-mail received. 
+Registered users may elect to stop receiving newsletters or marketing material from CEO.com or on behalf of external third party business partners by following instructions at the end of any such e-mail received. 
 
 **Sharing of Information**  
-We may use the information that we collect on the Site to contact you in order to help us better serve you, including but not limited to conducting surveys regarding the Site and requesting feedback regarding the Site..  This information may also be used to improve the services the Site provides to you and your company. The information is collected and stored in a manner that we determine is appropriate for the nature of the data that we collect, and the need to fulfill your request. This information is not provided to third parties for their own use, unless specifically authorized by you.  We do not share, sell, rent, or trade PII with third parties for their promotional purposes.
+We may use the information that we collect on the Site to contact you in order to help us better serve you, including but not limited to conducting surveys regarding the Site and requesting feedback regarding the Site. This information may also be used to improve the services the Site provides to you and your company. The information is collected and stored in a manner that we determine is appropriate for the nature of the data that we collect, and the need to fulfill your request. This information is not provided to third parties for their own use, unless specifically authorized by you.  We do not share, sell, rent, or trade PII with third parties for their promotional purposes.
 
 We use third party service providers to provide automated data processing, marketing automation, data appends, contact discovery, and delivery services on the Site for our own purposes.  When you sign up for certain of our services, we may share your personally identifiable information as necessary for one or more third parties to provide that service.  These third parties are prohibited from using your personally identifiable information for any other purpose.
 
