@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nickels-n-dimes.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115114538id_/http%3A//blog.nickels-n-dimes.com/about-2/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickels-n-dimes.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621123628id_/http%3A//blog.nickels-n-dimes.com/about-2/disclosure-privacy-policy) for the most accurate reproduction.*
 
-# Disclosure / Privacy Policy Nickels-n-Dimes Nickels-n-Dimes
+# Disclosure / Privacy Policy Nickels-n-Dimes Nickels-n-Dimes | Save Money | Free Kindle Books | Coupons | Magazine Deals | Grocery Store Deals | Free Christian Fiction Books
 
 ### DISCLOSURE POLICY
 
@@ -56,6 +56,6 @@ For any other information email [webmaster.](mailto:lisa\(@\)nickels-n-dimes\(.\
 
 _If you enjoyed this post, make sure you subscribe to my[RSS feed](http://feeds.feedburner.com/nnd)!!_
 
-_© 2008-2011, Nickels-n-Dimes. All rights reserved._
+_© 2008-2012, Nickels-n-Dimes. All rights reserved._
 
-_This post may contain an affiliate link. Please see our full_[ _disclosure policy_](http://blog.nickels-n-dimes.com/about-2/disclosure-privacy-policy/) _for more information._
+_This post may contain affiliate links. Please see our full_[ _disclosure policy_](http://blog.nickels-n-dimes.com/about-2/disclosure-privacy-policy/) _for more information._
