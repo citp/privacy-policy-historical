@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digs.by privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101064648id_/https%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digs.by privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621074503id_/https%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
 
-# bitly | shorten, share and track your links
+# bitly | ♥ your bitmarks
 
 ### Bitly Privacy Policy
 
@@ -53,7 +53,7 @@ We may receive a confirmation when you open an email from us. We use this confir
   * Bitly cookies also allow Bitly to track when you have clicked on a Bitly shortened URL. Each click of a shortened URL is tracked using a unique identifier assigned to you in one or more cookies stored by your web browser and associated with Bitly. 
   * Bitly cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed a Bitly URL and may associate that information with your Account if you have one. 
   * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave cookies active, because they enable you to take advantage the most attractive features of the Services. 
-  * You may also ask bitly not to place cookies on your web browser when you are logged in. When cookies are disabled in this manner, clicks on bitly links are not tied back to or associated with your web browser. To make this change, click here to opt out
+  * You may also ask bitly not to place cookies on your web browser when you are logged in. When cookies are disabled in this manner, clicks on bitly links are not tied back to or associated with your web browser. 
   * This Privacy Policy covers the use of cookies by Bitly only and does not cover the use of cookies by third parties. Bitly does not control when or how third parties place cookies on your computer. For example, third party websites to which a URL points may set cookies on your computer. 
 
 
@@ -154,6 +154,6 @@ Bitly may amend this Privacy Policy from time to time. Use of information we col
 
 ### What If I Have Questions or Concerns?
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to: [privacy@bitly.com](mailto:privacy@bitly.com). We will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to: [support@bitly.com](mailto:support@bitly.com). We will make every effort to resolve your concerns. 
 
 Effective Date: June 14, 2011. 
