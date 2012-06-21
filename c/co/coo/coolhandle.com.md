@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolhandle.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103085517id_/http%3A//www.coolhandle.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolhandle.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621020054id_/http%3A//www.coolhandle.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Web Hosting by CoolHandle
+# Privacy Policy | Web Hosting by CoolHandle.com
 
 ## Privacy Policy
 
@@ -36,9 +36,11 @@ CoolHandle disclaims any intention to censor, edit, or engage in ongoing review 
 
 Please note that CoolHandle may use this information collected to direct service notices as well as provide you with other general information that may be of interest to you and information about our services or product offerings that you have opted to receive, as well as other important information regarding your account or services at our discretion. You may not opt our of receiving service related email communications.
 
-For any corrections all CoolHandle customer may use the client area to view or change any of their information. 
+For any corrections all CoolHandle customer may use the client area to view or change any of their information.
 
 Customers may opt out of receiving newsletters and/or promotional emails from CoolHandle by sending a request to , by using the unsubscribe instructions included in each promotional communication, or by changing your email preferences on the site within your Account information. In this request, customers must identify their domain name and contact information. Customers may not opt out of receiving information from CoolHandle which is essential for maintaining or updating customers account or system information.
+
+**No personal information will be shared with any third parties without the customer’s permission.**
 
 ### Third Party Advertising and Cookies
 
