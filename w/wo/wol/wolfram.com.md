@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolfram.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205135453id_/http%3A//www.wolfram.com/legal/privacy/wolfram-research.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfram.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621202153id_/http%3A//www.wolfram.com/legal/privacy/wolfram-research.html) for the most accurate reproduction.*
 
 # Wolfram Research Privacy Policy
 
@@ -8,7 +8,7 @@ The information we obtain from site participants and visitors helps us enhance a
 
 Information about our users is an important part of our business, and we are not in the business of selling it to others. If you opt to allow us to share your information, we will do so only with Wolfram Research partners who also respect privacy concerns. 
 
-If you choose to receive communication from Wolfram Research, we may send you email describing special offers or services. If at any time you want to stop receiving communication from us, please [unsubscribe](http://www.wolfram.com/unsubscribe/). 
+If you choose to receive communication from Wolfram Research, we may send you email describing special offers or services. If at any time you want to stop receiving communication from us, please click the unsubscribe link in the footer of any email message from us. 
 
 We may release personally identifying information when we believe release is appropriate in order to comply with law; enforce our [Terms of Use](https://web.archive.org/legal/terms/wolfram-research.html) and other agreements; or protect the rights, property, or safety of Wolfram Research, our users, or others. 
 
