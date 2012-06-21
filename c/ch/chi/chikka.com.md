@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chikka.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004163911id_/http%3A//www.chikka.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chikka.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621171216id_/http%3A//www.chikka.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Chikka
-
-##  Privacy Policy 
+# Privacy - Chikka
 
 Chikka Philippines, Inc. and all its affiliates understand your concerns about how your information is used and shared, and we appreciate your trust that we will do so carefully and sensibly. 
 
