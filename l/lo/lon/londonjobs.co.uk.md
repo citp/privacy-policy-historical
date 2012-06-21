@@ -1,102 +1,77 @@
-> *The following text is extracted and transformed from the londonjobs.co.uk privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105062518id_/http%3A//www.londonjobs.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonjobs.co.uk privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621123646id_/http%3A//www.londonjobs.co.uk/privacy) for the most accurate reproduction.*
 
-# LondonJobs Privacy Statement
+# LondonJobs - Terms & Conditions - Privacy policy
 
-  * [My LondonJobs](https://web.archive.org/cgi-bin/myjobsite.cgi?caid=20342.29653.1320415619)
-  * [Client Home](https://web.archive.org/cgi-bin/myadvmgr.cgi?caid=20342.29653.1320415619)
-  * [About us](https://web.archive.org/home/aboutus.html)
+Effective from 25th May 2012
 
+This privacy policy applies only to this website_ (the “Site”). If you do not accept this privacy policy, you must not use the Site.
 
+## Collection of Personal Information
 
-**LondonJobs has created this privacy statement in order to demonstrate our firm commitment to privacy. At LondonJobs and our Associated Companies, we take your privacy seriously. Please be assured that we will safeguard any information that you provide. We will never release your personal details to other companies without your express permission. The following discloses our information gathering and dissemination practices for all web sites operated by Jobsite UK (Worldwide) Ltd.**
+We collect personal information from you (such as name, address, telephone number, email address etc) when you fill in registration forms, submit comments to the Site, participate in message boards, blogs or any other user generated content facilities or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it.
 
-### The Protection of Your CV
+## Collection of Other Information
 
-We regard your CV as a very personal document and we wish you to have full control over who can view it and whether or not you wish to have your contact details (name, address, telephone number, email address etc) visible to recruiters. 
+In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site. A cookie is a small text file that is placed on your computer's hard drive by your web browser. Cookies allows us to identify your computer and find out details about your visit. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, you may not be able to use some of the core features of the site such as logging in, setting up jobs-by-email and saving your preferences.
 
-As an operator of a number of international recruitment websites, we give you the option of putting your CV in our searchable database which is a significant aid to quickly finding employment. We provide you a choice in how you do this. The choice allows you to select the level of confidentiality that you believe is appropriate. 
+The information collected by cookies and web beacons is not personally identifiable, it only includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the site and geographical location.
 
-The level of control is provided to you by your choice of whether to make your CV searchable by our Clients or not. Making your CV searchable considerably increases your exposure to potential employers. To prevent your CV from being searched and viewed by our Clients you should choose to "hide" your CV during the registration process. Choosing "hide" means that your CV is not accessible by any recruiter but you can gain access to it and use it when applying for individual jobs. 
+For detailed information about cookies and web beacons used on our site and how to opt out - please visit our [Cookies Use](https://web.archive.org/web/20120621123646id_/http%3A//cookies) page.
 
-We use our best efforts to limit access to our CV services to recruiters who agree to abide by our terms and conditions. If any recruiter is found to be breaching these terms and conditions, then we will immediately terminate their use of our services. A link to our client terms and conditions may be found at the bottom of this page. 
+## Use of Your Information
 
-You may remove your CV from our searchable database at any time. However, recruiters who have paid for access to the database may have retained a copy of your CV in their own files or databases. We are not responsible for the retention, use, or privacy of your CV by recruiters in these instances. 
+By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which includes (without limitation):
 
-### Jobs by Email Service
-
-The Jobs by Email service matches a job seekers requirements for employment with the profile of vacancies advertised on any one of our Sites. For job seekers who subscribe to this service you receive an email listing those jobs that we believe you should be interested in. Your requirements are defined by you using "strings" which can be used to specify geographic region, specific job titles, skills or other definition of the job you want. You can change the strings at any time or unsubscribe at any time. 
-
-### Email-a-Friend
-
-Our Email-a-Friend service makes it easy for our users to recommend jobs to friends or relatives. Simply complete the Email-a-Friend form and we will send an email to your specified recipient(s) containing a link to the selected job. We will not use your recipient's details for any other purpose than the fulfillment of this service. 
-
-### Application Forms and Psychometric Tests
-
-When you apply for positions with some of our Clients, you will be requested to complete an application form and may be requested to take a psychometric test. The information submitted by you on the application form or any psychometric test paper will be used by our Client to assess your suitability for the position to which it applies. We are not responsible for framing the questions in our Client's application forms or psychometric test papers, and merely provide the electronic means to enable our Client to present the application form or psychometric test paper to you, and to collect the application form or psychometric test paper once it has been completed by you. We do not process any of the data in completed forms or papers other than psychometric test scores, which we present to our Clients in our applicants' database. We may, however, temporarily store your completed forms or papers. 
-
-Our psychometric specialist suppliers may administer tests on our behalf and on behalf of our Clients. If we use a specialist, we will ensure that only an anonymous identifier and your psychometric test paper is disclosed to the specialist so that the specialist will be unable to identify you. We will keep the database matching your details to the anonymous identifier confidential, and will not disclose it to any third parties. 
-
-You expressly agree, acknowledge and accept that we provide this service as a mere conduit for the applications forms. Whilst we will use our best endeavours to ensure that the application form is suitable for its purpose using suitable protection methods, please note that we do not guarantee that our protection methods will ensure that the application form does not include: 
-
-  * false, inaccurate or misleading information;
-  * material that infringes third party's Intellectual Property Rights;
-  * defamatory, libellous or otherwise unlawful information;
-  * information that violate any law, statute, regulation or order (including, without limitation, those concerning consumer protection, unfair competition, anti-discrimination or the advertising prohibited goods or services); or
-  * any virus, worm, Trojan horse, time bomb, cancelbot or other code that contains contaminating or destructive properties.
+  * personalising your visits to the Site to improve the services provided to you;
+  * informing you about the latest changes to the Site, products, services or promotional offers that you might find interesting;
+  * customer service and support; 
+  * communicating (and personalising such communication) with you;
+  * enabling you to share our content with others e.g. using an ‘Email a friend’ or ‘Share this’ functionality;
+  * conducting market research; and/or
+  * carrying out technical and statistical analysis to measure the performance of our services and the Site.
 
 
 
-Consequently, we cannot accept any liability for any direct or indirect damages (including, without limitation, loss of profits, loss of contracts), or any consequential, special, exemplary, punitive or any other monetary or other damages or liabilities arising out of or relating to your use of the application form. In addition, we reserve the right to remove your completed application form and suspend our services in relation to it if we consider in our absolute discretion that providing the service may incur a legal liability for you, our Clients, or us. 
+## Sharing Your Information
 
-If you have any concerns over any application form, please contact us for advice. Our contact details are set out below. 
+We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers.  Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer.
 
-### General Privacy Statement
+We may disclose your information (including personal information) to other companies within the Daily Mail and General Trust plc group of companies (the “DMGT Group”, see [www.dmgt.co.uk](http://www.dmgt.co.uk/ "www.dmgt.co.uk") for further information) and may use and share within the DMGT Group information that we learn from your interactions with us and other companies within the DMGT Group.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and to gather broad demographic information. 
+Subject to your consent, your personal information may be used by us and/or other companies within the DMGT Group to contact you by email, fax, telephone, SMS and/or post with information and offers on products/services provided by us and/or other companies within the DMGT Group.
 
-Advertisements on our site are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/). 
+Subject to your consent, we may supply personal information about you to selected third parties so that they may contact you with information and offers which may be of interest to you.
 
-If you are using a shared computer, please ensure that you log out of MyLondonJobs or close down the browser before leaving the computer for the next user. 
+We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information. 
 
-Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only. 
+We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
 
-This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites. 
+## Keeping Your Personal Information Secure
 
-We may use your personal data to contact you from time to time and provide you with marketing information about us, other companies within our parent group (www.dmgt.co.uk) or our partners which we think may be of interest to you. Such information will either be sent by us or by our agents on our behalf and therefore, we may disclose your personal data to our agents for this purpose. If at any time you wish to stop the delivery of such information you can opt-out of any unwanted emails or alternatively please [contact our Customer Support Team using our online form](https://web.archive.org/home/help_candidate.html). 
+We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorized access, use or disclosure as required by law in England. 
 
-### Security
+## Accessing Your Personal Information
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. You can gain access to your LondonJobs account and modify the information stored there by supplying an email address and password. You must ensure that this information is kept secret. 
+If you wish to review or receive copies of the personal information we hold about you, change your marketing preferences or have any other privacy queries, please write to us (including full details of your request) at the following address:
 
-### Children
+**Privacy Team**
 
-As a recruitment site we do not specifically collect information about children. We believe that children should get their parents' consent before giving out personal information. If you are concerned about your child's use of any of our web sites we encourage you to use Web filtering technology to supervise your child's access to the site. 
+Jobsite UK (Worldwide) Limited
 
-### Opting out of LondonJobs' services
+Langstone Technology Park
 
-We allow users to opt-out of having Jobs-by-Email Alerts sent to them at any time, and allows users to hide their CVs both at the time that the CV is placed on the site, and at any time afterwards.   
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.   
-You can [contact our Customer Support Team using our online form](https://web.archive.org/home/help_candidate.html)   
-You can visit the following URL: [http://www.londonjobs.co.uk/cgi-bin/myjobsite.cgi](https://web.archive.org/cgi-bin/myjobsite.cgi)   
-In extreme circumstances, you can call the following telephone number: +44 (0)844 561 9200 
+Langstone Road
 
-### Correct/Update
+Havant
 
-This site gives users the following options for changing and modifying information previously provided.   
-Visit [http://www.londonjobs.co.uk/cgi-bin/myjobsite.cgi](https://web.archive.org/cgi-bin/myjobsite.cgi)
+Hampshire
 
-### Contacting the Web Site
+United Kingdom
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+PO9 1SA
 
-LondonJobs  
-Langstone Technology Park  
-Langstone Road  
-Havant  
-Hampshire  
-United Kingdom  
-PO9 1SA 
+ We may charge a small administration fee (not exceeding the maximum permitted by law in England) in relation to fulfilling a request for access to personal information.
 
-[Customer Support Contact Form](https://web.archive.org/home/help_candidate.html)
+## Changes to this Privacy Policy
 
-* * *
+If we change this privacy policy, we will post the revised privacy policy here with an updated effective date. If we make significant changes to the privacy policy, we may also notify you by other means such as sending an email or posting a notice on our home page.
