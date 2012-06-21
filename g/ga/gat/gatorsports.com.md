@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gatorsports.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622200042id_/http%3A//www.gatorsports.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorsports.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621102449id_/http%3A//www.gatorsports.com/privacypolicy) for the most accurate reproduction.*
 
 # privacypolicy | Gatorsports.com | The Gainesville Sun
 
-This Privacy Policy discloses the privacy practices for The Gainesville Sun newspaper and Gatorsports.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Gainesville Sun" include Gatorsports.com and The Gainesville Sun newspaper. The Gainesville Sun is part of The New York Times Regional Media Group ("NYTRMG") – a division of The New York Times Company.
+This Privacy Policy discloses the privacy practices for The Gainesville Sun newspaper and Gatorsports.com (the "Site"). For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Gainesville Sun" include Gatorsports.com and The Gainesville Sun newspaper. 
 
 Third party sites that Gatorsports.com links to are governed by their own privacy policies. We are not responsible for the content or the privacy policies of those websites or other websites to which they link.
 
@@ -51,21 +51,21 @@ The Gainesville Sun collects the mobile phone number you use to send us a text m
 
 ### Information Collected by Us using Technology
 
-As is standard practice on many Web sites, we use “cookies”, Web Beacons and other similar technologies to recognize you and provide personalization, as well as to help us understand, where our visitors are going and how much time they spend there. You will not be able to access certain areas of our Web sites, including Gatorsports.com, if your computer does not accept cookies from us.
+As is standard practice on many Web sites, we use "cookies", Web Beacons and other similar technologies to recognize you and provide personalization, as well as to help us understand, where our visitors are going and how much time they spend there. You will not be able to access certain areas of our Web sites, including Gatorsports.com, if your computer does not accept cookies from us.
 
 We reserve the right to place a Gatorsports.com cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
 
-For more detailed information about our use of cookies, see the “[Cookies](https://web.archive.org/section/registrationfaq#cookies)” section on the [Registration FAQ](https://web.archive.org/section/registrationfaq).
+For more detailed information about our use of cookies, see the "[Cookies](https://web.archive.org/section/registrationfaq#cookies)" section on the [Registration FAQ](https://web.archive.org/section/registrationfaq).
 
 ### Information Collected by Third Parties using Technology
 
 Some of the services and/or advertisements on certain of our Web sites (including Gatorsports.com) are delivered or served by third-party companies that may place or recognize cookies or Web Beacon to track certain non-personally identifiable information about our Web site users. For example, in the course of serving certain advertisements, some advertisers may place or recognize a unique cookie on your browser, in order to collect certain non-personally identifiable information about your visits to our Web sites and other Web sites. In many cases, this information could be used to show you ads based on your interests on other Web sites.
 
-We do not have access to, nor control over, advertisers’ or service providers' cookies or how they may be used.
+We do not have access to, nor control over, advertisers' or service providers' cookies or how they may be used.
 
 You have choices about the collection of interest based information in this way:
 
-  1. If you would like more information about advertisers’ use of cookies, and about your option not to accept these cookies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+  1. If you would like more information about advertisers' use of cookies, and about your option not to accept these cookies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
   2. If you would like to opt-out of having interest-based information collected during your visits to this or other sites, [click here](http://www.aboutads.info/choices/).
 
 
@@ -74,11 +74,11 @@ Your access to our Web sites will not be affected if you do not accept cookies s
 
 ### Yahoo Ads
 
-Yahoo! is an ad network partner that displays ads on NYTRMG sites. To improve your ad experience on NYTRMG sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. [Learn more about Yahoo!'s ad practices](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html), including how to opt out of using anonymous information to select which ads to show you.
+Yahoo! is an ad network partner that displays ads on our sites. To improve your ad experience on our sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. [Learn more about Yahoo!'s ad practices](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html), including how to opt out of using anonymous information to select which ads to show you.
 
 ### Analytics Technologies
 
-NYTRMG, of which we are a part, is currently using Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of Gatorsports.com is owned and used by The Gainesville Sun or NYTRMG. The Gainesville Sun reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about Omniture's privacy policy, including how to opt out, go to <http://www.omniture.com/en/privacy/policy>
+Our sites currently use Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of Gatorsports.com is owned and used by The Gainesville Sun. The Gainesville Sun reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about Omniture's privacy policy, including how to opt out, go to <http://www.omniture.com/en/privacy/policy>
 
 We reserve the right to change the vendors who provide us with usage data.
 
@@ -94,7 +94,7 @@ Log data is only used in aggregate to analyze usage of our Web site.
 
 ### Statistical Analysis
 
-The Gainesville Sun may perform statistical, demographic and marketing analyses of subscribers, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our subscriber base. We also use such information to allow advertising to be targeted, in aggregate, to the users for whom such advertising is most pertinent. The Gainesville Sun may share personal information with NYTRMG for analysis purposes, including analysis to improve customer relationships.
+The Gainesville Sun may perform statistical, demographic and marketing analyses of subscribers, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our subscriber base. We also use such information to allow advertising to be targeted, in aggregate, to the users for whom such advertising is most pertinent. 
 
 ### Products and Service Message from The Gainesville Sun
 
@@ -160,7 +160,7 @@ Manage your Gatorsports.com account at Member Center: You may review and update 
 
 There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the free registration process, sign up for our e-mail newsletters and manage your home and email newsletter delivery options. To gain access to the areas of the Member Center containing personal information, you will be asked to enter your password. If you do not remember your password, you can reset your password. If you need further assistance, please contact Customer Service at or [ online@gvillesun.com](mailto:%20%20online@gvillesun.com). 
 
-## How do I opt-out from receiving promtional offers?
+## How do I opt-out from receiving promotional offers?
 
 ### E-mail Promotions
 
@@ -185,3 +185,7 @@ In accordance with the Children's Online Privacy Protection Act (COPPA), The Gai
 ## Other Information: Changes to This Policy
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect. Registered users will be notified via e-mail.
+
+## News Registry
+
+This Web site uses services provided by News Registry. News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of News Registry. Please refer to the News Registry privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
