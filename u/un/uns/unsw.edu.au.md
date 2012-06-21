@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the unsw.edu.au privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114114258id_/http%3A//www.unsw.edu.au/gen/pad/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unsw.edu.au privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621062536id_/http%3A//www.unsw.edu.au/privacy) for the most accurate reproduction.*
 
-# UNSW: The University of New South Wales - Sydney Australia - UNSW Websites Privacy Statement
+# Privacy Policy | The University of New South Wales
 
-UNSW Websites Privacy Statement
+Personal information collected at the University of New South Wales ("UNSW") through UNSW websites is handled in accordance with the _Privacy and Personal Information Protection Act 1998 (NSW)_ ("the Act"). This UNSW Websites Privacy Statement describes the ways in which UNSW deals with personal information and other data collected through UNSW websites.
 
-Personal information collected at the University of New South Wales ("UNSW") through UNSW websites is handled in accordance with the Privacy and Personal Information Protection Act 1998 (NSW) ("the Act"). This UNSW Websites Privacy Statement describes the ways in which UNSW deals with personal information and other data collected through UNSW websites.
+ **What is Personal Information?**
 
-What is Personal Information?  
 Personal Information is defined in the Act as being information or an opinion about an individual whose identity is apparent or can reasonably be ascertained from that information or opinion. Personal Information includes, for example, names, addresses, telephone numbers, email addresses, dates of birth and passport numbers.
 
 There are circumstances in which, under the Act, information about an individual is not considered to be Personal Information, including:
@@ -16,9 +15,9 @@ There are circumstances in which, under the Act, information about an individual
 
 
 
-Collection of Personal Information
+ **Collection of Personal Information**
 
-_Personal Information provided by you_
+ **Personal Information provided by you**
 
 UNSW has a number of privacy statements setting out how personal information is handled by the University. These include the [Student Privacy Code of Practice](https://my.unsw.edu.au/student/privacy.html), the [Human Resources Privacy Statement](http://www.hr.unsw.edu.au/employee/privacy.html) and other statements or policies that UNSW may approve from time to time.
 
@@ -26,11 +25,11 @@ UNSW provides feedback facilities on its websites to allow users to provide inpu
 
 Information that you disclose in online forums or other interactive media is considered by UNSW and the common law to be public information and may therefore not be subject to protection under the Act.
 
- _Automatic collection of personal information_
+ **Automatic collection of personal information**
 
 UNSW may collect personal information and other data from you through the use of a Cookie or other automated means including server logs. A Cookie is a packet of data that a website puts on your computer's hard disk to identify you as a visitor to that website. The information collected by UNSW through Cookies and other means may include: your server address; your domain name; your IP address; the date and time of your visit; the pages accessed and documents downloaded; the previous site visited; the type of browser you used. You may choose to disallow Cookies through your web browser settings.
 
-Use and disclosure of Personal Information
+ **Use and disclosure of Personal Information**
 
 Personal information provided by you to UNSW will be used by UNSW for the primary purpose for which you provided it and for other secondary purposes directly related to that primary purpose. The University is not responsible for the privacy practices of web sites external to UNSW.
 
@@ -40,7 +39,7 @@ UNSW will not otherwise disclose your personal information without your consent 
 
 Personal information collected through UNSW websites which is no longer required by UNSW and which need not be retained by law will be destroyed.
 
-Access to your Personal Information
+ **Access to your Personal Information**
 
 You have a right to access your personal information held by UNSW. You can also request amendment to that information if you believe that it is incorrect or make complaints about the information handling practices of UNSW or breaches of your privacy by UNSW.
 
