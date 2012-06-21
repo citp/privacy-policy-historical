@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travel-ticker.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107000417id_/http%3A//www.travel-ticker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel-ticker.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621192909id_/http%3A//www.travel-ticker.com/privacy) for the most accurate reproduction.*
 
 # Travel Ticker
 
@@ -34,7 +34,7 @@ This website may share your information with the following entities:
 
 **Referring websites:** If you were referred to this website from another site (for example, through a link you clicked on another site that directed you to this one), we may share some information about you with that referring website. We have not placed limitations on the referring websites' use of your personal information and we encourage you to review the privacy policies of any website that referred you here.
 
-**Companies within our corporate family:** We may share your personal information with our parent company and corporate affiliates, such as Expedia.com, TripAdvisor, CarRentals.com and Hotels.com, as well as international corporate affiliates such as Hotels.uk.com. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future.
+**Companies within our corporate family:** We may share your personal information with our parent company and corporate affiliates, such as Expedia.com, CarRentals.com and Hotels.com, as well as international corporate affiliates such as Hotels.uk.com. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future.
 
 We also may share your information:
 
@@ -124,4 +124,4 @@ Travel Ticker Customer Care
 San Francisco, CA 94111  
 USA
 
-This Privacy Policy is effective as of April 1, 2010.
+This Privacy Policy is effective as of January 13, 2012.
