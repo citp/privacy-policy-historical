@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycellphonereviews.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211142id_/http%3A//mycellphonereviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycellphonereviews.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621235908id_/http%3A//mycellphonereviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cell Phone Reviews
+# Privacy Policy | My Cell Phone Reviews
 
 If you require any more information or have any questions about our privacy policy, please feel free to [Contact Us](http://mycellphonereviews.com/contact-us "Contact Us")
 
