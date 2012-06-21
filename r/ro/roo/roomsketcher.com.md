@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomsketcher.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222205334id_/http%3A//www.roomsketcher.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomsketcher.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621131035id_/http%3A//www.roomsketcher.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy for Viseno | RoomSketcher
 
@@ -86,4 +86,4 @@ In order to provide service to you, we will send you communications related to y
 
 We allow you to change, update, or delete the information you may provide in your optional registration form. If you would like to change, update, or delete your personal information, please send an email containing your request to customer service.
 
-[To the top](https://web.archive.org/web/20111222205334id_/http://www.roomsketcher.com/en/privacy/privacy/#help_content)
+[To the top](https://web.archive.org/web/20120621131035id_/http://www.roomsketcher.com/en/privacy/privacy/#help_content)
