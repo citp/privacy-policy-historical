@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the globis.ac.jp privacy policy that was archived on 2011-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218110805id_/http%3A//www.globis.ac.jp/etc/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globis.ac.jp privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621123513id_/http%3A//www.globis.ac.jp/etc/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js no-flexbox flexbox-legacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -27,6 +27,38 @@ $(function() {
 	 DD_belatedPNG.fix('img, .png_bg');
 	</script>
 <![endif]-->
+<script src="/js/modernizr.js"></script>
+<script>
+$(document).ready(function(){
+
+if(!Modernizr.input.placeholder){
+
+	$('[placeholder]').focus(function() {
+	  var input = $(this);
+	  if (input.val() == input.attr('placeholder')) {
+		input.val('');
+		input.removeClass('placeholder');
+	  }
+	}).blur(function() {
+	  var input = $(this);
+	  if (input.val() == '' || input.val() == input.attr('placeholder')) {
+		input.addClass('placeholder');
+		input.val(input.attr('placeholder'));
+	  }
+	}).blur();
+	$('[placeholder]').parents('form').submit(function() {
+	  $(this).find('[placeholder]').each(function() {
+		var input = $(this);
+		if (input.val() == input.attr('placeholder')) {
+		  input.val('');
+		}
+	  })
+	});
+
+}
+
+});
+</script>
 </head>
 <body id="privacy_page">
 <!--container-->
@@ -41,13 +73,13 @@ $(function() {
 
 <div class="head_right_area">
         
-<div class="span01"><a href="/index.html">GLOBIS MBA TOP</a>|<a href="/faq/index.html">FAQ</a>|<a href="/programs/corporate/sponsorship.html">Corporate Sponsorship</a></div>
+<div class="span01"><a href="/index.html">GLOBIS MBA TOP</a>|<a href="/faq/index.html">FAQ</a>|<a href="/programs/corporate/sponsorship.html">Corporate Sponsorship</a>|<a href="/japanese/index.html" style="padding-right:0;">Japanese</a></div>
 
-<div><a href="https://gmscommon.globis.co.jp/gmsdb/StudentLogin.do" target="_blank" class="head_link01">Student Login</a></div>
+<div class="span01_01"><div><span>Student Login for</span><a href="https://student.globis.ac.jp/portal/t/at0000" target="_blank" class="head_link01">MBA</a><a href="https://gmscommon.globis.co.jp/gmsdb/StudentLogin.do" target="_blank" class="head_link01">Pre-MBA</a></div></div>
 
 <div class="span01_02"><form action="/search/index.html" name="search_form" id="search_form" method="get">
               <div id="head_seach">
-                <input type="text" name="keyword" value="" class="site_search_txt">
+                <input type="text" name="keyword" value="" class="site_search_txt" placeholder="SEARCH">
                 <div id="head_seach_txt2"><a href="javascript:document.search_form.submit();">Search</a></div>
               </div>
 			  <!-- <input type="submit" value="Search" style="display:none;"> -->
@@ -63,7 +95,6 @@ $(function() {
 <div class="head_link02_01 btn02"><a href="/materials/download.html" class="head_lonk_txt">Download Brochure</a></div>
 <div class="head_link02_01 btn03"><a href="/programs/pre/index.html" class="head_lonk_txt">Start from Pre-MBA</a></div>
 <div class="head_link02_01 btn01"><a href="/admissions/index.html" class="head_lonk_txt">Apply Now!</a></div>
-<!--<div class="head_link02_01 btn01"><a href="/events/index.html" class="head_lonk_txt">Attend Events</a></div>-->
 <div class="cla"><br></div>
 </div>
 
@@ -82,22 +113,19 @@ $(function() {
 <!--gmenu01-->
             <li class="gmenu01 main_li"><a href="/about/index.html" class="main">About GLOBIS</a>
              <ul class="gmenu_sub01 up">
-             	<li class="sub00"><a href="/about/index.html" id="gm1">About GLOBIS</a></li>
+             	<li class="sub00"><a href="/about/index.html" id="gm1" name="gm1">About GLOBIS</a></li>
 				<li class="sub01 menu01_sub">
                 <div class="bg_gmenu_sub_bg png_bg">
                 	<ol class="bg_gmenu_sub_list">
-  				<li><a href="/about/message.html">Dean's Message</a></li>
+  				<li><a href="/about/message.html">President's Message</a></li>
           <li><a href="/about/history.html">GLOBIS History</a></li>
 					<li><a href="/about/offer.html">What We Offer</a></li>
 					<li><a href="/about/differences/index.html">The GLOBIS Difference</a></li>
-<!--            <li class="sub_menu_list03"><a href="/differences/mission.html">Developing Your Personal Mission</a></li>
-            <li class="sub_menu_list03"><a href="/differences/spirit.html">Entrepreneurial Spirit</a></li>
-            <li class="sub_menu_list03 line"><a href="/differences/application.html">Practical Application</a></li>-->
 					<li><a href="/about/beyond.html">Beyond a Business School</a></li>
 					<li><a href="/about/socialmedia.html">Social Media</a></li>
-					<li><a href="/video/index.html">GLOBIS Video</a></li>
+					<!--<li><a href="/video/index.html">GLOBIS Video</a></li>-->
 					<li class="end_line"><a href="/about/overview.html">School Overview</a></li>
-                	</ol></div><div class="bg_gmenu_sub_bottom"><img src="/img/bg_gmenu_sub_bottom.png" width="200" height="8"></div>
+                	</ol></div><div class="bg_gmenu_sub_bottom"><img src="/img/bg_gmenu_sub_bottom.png" alt="" width="200" height="8"></div>
                 </li>
           	</ul>
             </li>
@@ -106,7 +134,7 @@ $(function() {
 <!--gmenu03-->
             <li class="gmenu03 main_li"><a href="/programs/index.html" class="main">Programs</a>
              <ul class="gmenu_sub01 up">
-             	<li class="sub00"><a href="/programs/index.html" id="gm3">Programs</a></li>
+             	<li class="sub00"><a href="/programs/index.html" id="gm3" name="gm3">Programs</a></li>
 				<li class="sub01 menu02_sub">
 <div class="bg_gmenu_sub_bg png_bg">
 <ol class="bg_gmenu_sub_list">
@@ -114,22 +142,22 @@ $(function() {
 <li><a href="/programs/parttime/index.html">Part-time MBA</a></li>
 <li><a href="/programs/pre/index.html">Pre-MBA</a></li>
 <li><a href="http://mba.globis.ac.jp/" target="_blank">Japanese MBA</a></li>
-<li class="end_line"><a href="/programs/corporate/index.html">Corporate Training</a></li>
+<li class="end_line"><a href="/programs/corporate/index.html">Corporate Management Programs</a></li>
 </ol>
 </div>
-<div class="bg_gmenu_sub_bottom"><img src="/img/bg_gmenu_sub_bottom.png" width="200" height="8"></div>
+<div class="bg_gmenu_sub_bottom"><img src="/img/bg_gmenu_sub_bottom.png" alt="" width="200" height="8"></div>
                 </li>          	</ul></li>
 
              <li class="gmenu03_02 main_li"><a href="/admissions/index.html" class="main">Admissions</a>
              <ul class="gmenu_sub01 up">
-             	<li class="sub00"><a href="/admissions/index.html" id="gm4">Admissions</a></li>
+             	<li class="sub00"><a href="/admissions/index.html" id="gm4" name="gm4">Admissions</a></li>
           	</ul></li>
 <!--//gmenu03-->
 
 <!--gmenu02-->
             <li class="gmenu02 main_li"><a href="/curriculum/index.html" class="main">Curriculum</a>
              <ul class="gmenu_sub02 up">
-             	<li class="sub00"><a href="/curriculum/index.html" class="main" id="gm2">Curriculum</a></li>
+             	<li class="sub00"><a href="/curriculum/index.html" class="main" id="gm2" name="gm2">Curriculum</a></li>
 				<li class="sub01 menu02_sub">
 <div class="bg_gmenu_sub_bg png_bg">               
 <ol class="bg_gmenu_sub_list">
@@ -139,7 +167,7 @@ $(function() {
 <li class="end_line"><a href="https://gmscommon.globis.co.jp/gmsdb/HomepageScheduleIchiranE.do?command=init&amp;daigakuinKamokuFlg=1" target="_blank">University Course Schedule</a></li>
 </ol>
 </div>
-<div class="bg_gmenu_sub_bottom"><img src="/img/bg_gmenu_sub_bottom.png" width="200" height="8"></div>
+<div class="bg_gmenu_sub_bottom"><img src="/img/bg_gmenu_sub_bottom.png" alt="" width="200" height="8"></div>
                 </li>
           	</ul>
             </li>
@@ -148,21 +176,21 @@ $(function() {
 <!--gmenu04-->
             <li class="gmenu04 main_li"><a href="/faculty/index.html" class="main">Faculty</a>
              <ul class="gmenu_sub01 up">
-             	<li class="sub00"><a href="/faculty/index.html" id="gm5">Faculty</a></li>
+             	<li class="sub00"><a href="/faculty/index.html" id="gm5" name="gm5">Faculty</a></li>
 				<li class="sub01 menu02_sub">
                 <div class="bg_gmenu_sub_bg png_bg">
                 	<ol class="bg_gmenu_sub_list">
                     <li><a href="/faculty/search.html">Faculty Search</a></li>
 					<li><a href="/faculty/interview.html">Faculty Interviews</a></li>
 					<li class="end_line"><a href="/faculty/recruitment.html">Faculty Recruitment</a></li>
-</ol></div><div class="bg_gmenu_sub_bottom"><img src="/img/bg_gmenu_sub_bottom.png" width="200" height="8"></div>
+</ol></div><div class="bg_gmenu_sub_bottom"><img src="/img/bg_gmenu_sub_bottom.png" alt="" width="200" height="8"></div>
                 </li>          	</ul></li>
 <!--//gmenu04-->
 
 <!--gmenu05-->
             <li class="gmenu05 main_li"><a href="/life/index.html" class="main">Student Life</a>
              <ul class="gmenu_sub01 up">
-             	<li class="sub00"><a href="/life/index.html" id="gm6">Student Life</a></li>
+             	<li class="sub00"><a href="/life/index.html" id="gm6" name="gm6">Student Life</a></li>
 <li class="sub01 menu02_sub">
                 <div class="bg_gmenu_sub_bg png_bg">
                 	<ol class="bg_gmenu_sub_list">
@@ -174,27 +202,28 @@ $(function() {
   <li><a href="/life/tokyo.html">Life in Japan &amp; Tokyo</a></li>
   <li><a href="/life/alumniservices.html">Alumni Services</a></li>
   <li class="end_line"><a href="/faq/japan.html">FAQ</a></li>
-	</ol></div><div class="bg_gmenu_sub_bottom"><img src="/img/bg_gmenu_sub_bottom.png" width="200" height="8"></div>
+	</ol></div><div class="bg_gmenu_sub_bottom"><img src="/img/bg_gmenu_sub_bottom.png" alt="" width="200" height="8"></div>
                 </li></ul></li>
 <!--//gmenu05-->
 
 <!--gmenu06-->
             <li class="gmenu06 main_li"><a href="/careers/index.html" class="main">Careers</a>
              <ul class="gmenu_sub01 up">
-             	<li class="sub00"><a href="/careers/index.html" id="gm7">Careers</a></li>
+             	<li class="sub00"><a href="/careers/index.html" id="gm7" name="gm7">Careers</a></li>
 					<li class="sub01 menu02_sub">
                 <div class="bg_gmenu_sub_bg png_bg">
                 	<ol class="bg_gmenu_sub_list">
                     <li><a href="/careers/services.html">Career Services</a></li>
+                    <li><a href="/careers/cmp.html">Corporate Mentorship Program</a></li>
                     <li class="end_line"><a href="/faq/careers.html">FAQ</a></li>
-</ol></div><div class="bg_gmenu_sub_bottom"><img src="/img/bg_gmenu_sub_bottom.png" width="200" height="8"></div>
+</ol></div><div class="bg_gmenu_sub_bottom"><img src="/img/bg_gmenu_sub_bottom.png" alt="" width="200" height="8"></div>
                 </li>          	</ul></li>
 <!--//gmenu06-->
 
 <!--gmenu07-->
             <li class="gmenu07 main_li"><a href="/events/index.html" class="main">Events</a>
              <ul class="gmenu_sub01 up">
-             	<li class="sub00"><a href="/events/index.html" id="gm8">Events</a></li>
+             	<li class="sub00"><a href="/events/index.html" id="gm8" name="gm8">Events</a></li>
 					<li class="sub01 menu02_sub">
                 <div class="bg_gmenu_sub_bg png_bg">
                 	<ol class="bg_gmenu_sub_list">
@@ -202,20 +231,20 @@ $(function() {
                     <li><a href="/events/seminar/index.html">Seminars/Workshops</a></li>
                     <li><a href="/events/party/index.html">Networking Parties</a></li>
                     <li class="end_line"><a href="/events/overseas/index.html">Overseas Events</a></li>
-</ol></div><div class="bg_gmenu_sub_bottom"><img src="/img/bg_gmenu_sub_bottom.png" width="200" height="8"></div>
+</ol></div><div class="bg_gmenu_sub_bottom"><img src="/img/bg_gmenu_sub_bottom.png" alt="" width="200" height="8"></div>
                 </li>          	</ul></li>
 <!--//gmenu07-->
 
 <!--gmenu08-->
             <li class="gmenu08 main_li"><a href="/contact/index.html" class="main">Contact/Map</a>
              <ul class="gmenu_sub01 up">
-             	<li class="sub00"><a href="/contact/index.html" id="gm9">Contact/Map</a></li>
+             	<li class="sub00"><a href="/contact/index.html" id="gm9" name="gm9">Contact/Map</a></li>
 					<li class="sub01 menu02_sub">
                 <div class="bg_gmenu_sub_bg png_bg">
                 	<ol class="bg_gmenu_sub_list">
                     <li><a href="/contact/consultation.html">Individual Consultation</a></li>
                     <li class="end_line"><a href="/contact/staff.html">Our Staff</a></li>
-</ol></div><div class="bg_gmenu_sub_bottom" style="width:124px; "><img src="/img/bg_gmenu_sub_bottom.png" width="" height="8"></div>
+</ol></div><div class="bg_gmenu_sub_bottom" style="width:124px; "><img src="/img/bg_gmenu_sub_bottom.png" alt="" height="8"></div>
                 </li>          	</ul></li>
 
             
@@ -403,15 +432,15 @@ Updated April 1, 2008
 <ul class="txt_area">
 <li>
 <div class="day">
-<a href="/events/opencampus/detail-4863.html">
-Mon. Dec 19, 2011</a></div>
-<div class="txt"><a href="/events/opencampus/detail-4863.html">MBA Open Campus Christmas version!</a></div>
+<a href="/events/opencampus/detail-5092.html">
+Fri. Jun 22, 2012</a></div>
+<div class="txt"><a href="/events/opencampus/detail-5092.html">MBA Open Campus and Speech by Dean...</a></div>
 </li>
 <li style="border:0; ">
 <div class="day">
-<a href="/events/seminar/detail-4852.html">
-Tue. Jan 31, 2012</a></div>
-<div class="txt"><a href="/events/seminar/detail-4852.html">Professional Seminar: Revitalizing Japan:...</a></div>
+<a href="/events/seminar/detail-5101.html">
+Fri. Jun 22, 2012</a></div>
+<div class="txt"><a href="/events/seminar/detail-5101.html">GLOBIS 20th Anniversary TOP Seminar:...</a></div>
 </li>
   <li class="allevents"><a href="/events/index.html">All Events</a></li>
 </ul>
@@ -446,7 +475,7 @@ var url=location.href;
 var link_to="http://www.facebook.com/sharer.php?u=" + url;
 document.write("<a href='javascript:void(0);' rel='nofollow' onclick=\"window.open('" + link_to + "','','width=600,height=500');\"><img src='/img/icon_f.jpg' alt='Facebook' /></a>");
 // -->
-</script><a href="javascript:void(0);" rel="nofollow" onclick="window.open('http://www.facebook.com/sharer.php?u=https://web.archive.org/web/20111218110805id_/http%3A//www.globis.ac.jp/etc/privacy.html','','width=600,height=500');"><img src="/img/icon_f.jpg" alt="Facebook"></a>
+</script><a href="javascript:void(0);" rel="nofollow" onclick="window.open('http://www.facebook.com/sharer.php?u=https://web.archive.org/web/20120621123513id_/http%3A//www.globis.ac.jp/etc/privacy.html','','width=600,height=500');"><img src="/img/icon_f.jpg" alt="Facebook"></a>
 <!--
 <a href="http://www.facebook.com/sharer.php?u=&amp;t=" rel="nofollow" target="_blank" share_url=""><img src="/img/icon_f.jpg" alt="Facebook" /></a>
 <a name="fb_share" type="button_count" share_url="" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript" style="display:none; "></script>
@@ -532,7 +561,7 @@ document.write("<a href='javascript:void(0);' rel='nofollow' onclick=\"window.op
 <div class="span_div">
 <ul>
 <li class="title01 pt0"><a href="/about/index.html">About GLOBIS</a></li>
-<li><a href="/about/message.html">Dean's Message</a></li>
+<li><a href="/about/message.html">President's Message</a></li>
 <li><a href="/about/history.html">GLOBIS History</a></li>
 <li><a href="/about/offer.html">What We Offer</a></li>
 <li><a href="/about/differences/index.html">The GLOBIS Difference</a></li>
@@ -543,7 +572,7 @@ document.write("<a href='javascript:void(0);' rel='nofollow' onclick=\"window.op
 </div>
 <!--//span_div-->
 
-<!--span_div-->
+<!--
 <div class="span_div">
 <ul>
 <li class="title01 pt0"><a href="/video/index.html">GLOBIS Videos</a></li>
@@ -552,7 +581,7 @@ document.write("<a href='javascript:void(0);' rel='nofollow' onclick=\"window.op
 <li><a href="/video/school_introduction.html">School Introduction</a></li>
 </ul>
 </div>
-<!--//span_div-->
+-->
 
 </div>
 <!--//span_div_float-->
@@ -586,15 +615,18 @@ document.write("<a href='javascript:void(0);' rel='nofollow' onclick=\"window.op
 <div class="span_div">
 <ul>
 <li class="title02 pt0"><a href="/programs/pre/index.html">Pre-MBA</a></li>
-<li><a href="/programs/pre/details.html">Pre-MBA Details and Merits</a></li>
+<!--<li><a href="/programs/pre/details.html">Pre-MBA Details and Merits</a></li>-->
 <li><a href="/programs/pre/fees.html">Fees &amp; Financing</a></li>
 <li><a href="/programs/pre/apply.html">Apply</a></li>
 <li><a href="/programs/pre/schedule.html">Course schedule</a></li>
 <li><a href="/programs/pre/voice.html">Pre-MBA Student Interviews</a></li>
 <li><a href="/programs/pre/openenrollment.html">Open Enrollment Courses</a></li>
 <li>&nbsp;</li>
-<li><a href="http://mba.globis.ac.jp/" target="_blank">Japanese MBA</a></li>
-<li><a href="/programs/corporate/index.html">Corporate Training</a></li>
+<li class="title02 pt0"><a href="http://mba.globis.ac.jp/" target="_blank">Japanese MBA</a></li>
+<li>&nbsp;</li>
+<li class="title02"><a href="/programs/corporate/index.html">Corporate Management Programs</a></li>
+<li><a href="/programs/corporate/training/index.html">Corporate Training</a></li>
+<li><a href="/programs/corporate/sponsorship.html">MBA/Pre-MBA Sponsorships</a></li>
 </ul>
 </div>
 <!--//span_div-->
@@ -655,6 +687,7 @@ document.write("<a href='javascript:void(0);' rel='nofollow' onclick=\"window.op
 <ul>
 <li class="title01 pt0 pb0"><a href="/careers/index.html">Careers</a></li>
 <li><a href="/careers/services.html">Career Services</a></li>
+<li><a href="/careers/cmp.html">Corporate Mentorship Program</a></li>
 </ul>
 </div>
 <!--//span_div-->
@@ -695,22 +728,28 @@ document.write("<a href='javascript:void(0);' rel='nofollow' onclick=\"window.op
 <!--//span_div_float-->
 
 <div class="cla"><br></div>
+
 </div>
 
-
+<div class="footer_txtlink">
+<a href="/index.html">GLOBIS MBA Tokyo</a>|<a href="/etc/privacy.html">Privacy Policy</a>|<a href="/etc/sitemap.html">Site Map</a>|<a href="/about/index.html">About GLOBIS</a>|<a href="http://e.globis.co.jp/en/gg/index.html" target="_blank">GLOBIS Group</a>|<a href="/contact/index.html" class="pr0">Contact Map</a>
+</div><!-- /.footer_txtlink -->
 
 
 
 <div class="footer_sub">
 
-<div class="footer_logoarea"><a href="/index.html"><img src="/img/logo_foot.gif" alt="GLOBIS" width="36" height="36"></a>
-<div class="txt">Copyright 2011 Graduate School of Management<br>GLOBIS University</div>
+<div class="footer_logoarea">
+<a href="/index.html"><img src="/img/logo_foot_20th_2.jpg" alt="GLOBIS"></a>
+<div class="txt">Copyrights © Globis Graduate School of Management Globis University All Rights Reserved.</div>
 <div class="cla"><br></div>
 </div><!-- /.footer_logoarea -->
 
-<div class="footer_txtlink pt15">
-<a href="/index.html">GLOBIS MBA Tokyo</a>|<a href="/etc/privacy.html">Privacy Policy</a>|<a href="/etc/sitemap.html">Site Map</a>|<a href="/about/index.html">About GLOBIS</a>|<a href="http://e.globis.co.jp/en/gg/index.html" target="_blank">GLOBIS Group</a>|<a href="/contact/index.html" class="pr0">Contact Map</a>
-</div><!-- /.footer_txtlink -->
+<div class="footer_logoarea_2">
+<img src="/img/kijyun.gif" alt="">
+<div class="txt">The Graduate School of Management, GLOBIS University is certified as conforming to the standards of a Business School by the Japan University Accreditation Association.</div>
+<div class="cla"><br></div>
+</div><!-- /.footer_logoarea_2 -->
 
 <div class="cla"><br></div>
 
