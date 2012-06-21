@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnatraininghelp.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211180821id_/http%3A//cnatraininghelp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnatraininghelp.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621165605id_/http%3A//cnatraininghelp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
