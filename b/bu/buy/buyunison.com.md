@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyunison.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105093454id_/http%3A//www.buyunison.com/showpages.asp%3Fpid%3D1000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyunison.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621130611id_/http%3A//www.buyunison.com/showpages.asp%3Fpid%3D1000) for the most accurate reproduction.*
 
 # BuyUnison.com - Privacy Statement
 
