@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abhinav.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201130212id_/http%3A//www.abhinav.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abhinav.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621212345id_/http%3A//www.abhinav.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Abhinav Outsourcings website.
 
