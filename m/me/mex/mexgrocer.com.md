@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217042211id_/http%3A//www.mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621230914id_/http%3A//www.mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MexGrocer.com - Privacy Policy
 
@@ -68,7 +68,7 @@ Choice/Opt-out 
 
 Users who no longer wish to receive our newsletter may opt-out of receiving these communications by replying to “REMOVE” or “Unsubscribe” in the subject line in the email sent out or email us at [info@mexgrocer.com](mailto:info@mexgrocer.com) and let us know that you want to opt-out of further newsletter communications. ~~~~
 
-Notification of Changes 
+Notification of Changes  
 
 If we decide to change our privacy policy, we will prominently post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
@@ -84,7 +84,7 @@ Though we make every effort to preserve your privacy we may need to disclose per
 
 Your **** Feedback
 
-At MexGrocer.com, your privacy is extremely important. If you have any questions about the privacy statement, the practices of this site, or your dealings with MexGrocer, please click [Contact Us](https://web.archive.org/web/20111217042211id_/http%3A//www.mexgrocer.com/contact.html) and let us know or write us by mail at: 
+At MexGrocer.com, your privacy is extremely important. If you have any questions about the privacy statement, the practices of this site, or your dealings with MexGrocer, please click [Contact Us](https://web.archive.org/web/20120621230914id_/http%3A//www.mexgrocer.com/contact.html) and let us know or write us by mail at: 
 
 MexGrocer.com LLC  
 4060 Morena Blvd. Suite C  
