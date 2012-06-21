@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travisperkins.co.uk privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217174832id_/http%3A//www.travisperkins.co.uk/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travisperkins.co.uk privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621212208id_/http%3A//www.travisperkins.co.uk/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Travis Perkins - Travis Perkins
 
@@ -8,24 +8,58 @@ We are committed to protecting your privacy and we comply with the data protecti
 
 ### What information do we collect and how do we use it?
 
-We will not collect any personal information about you unless you have chosen to give it to us. If you require further information, wish to open an account or would like to contact your local branch, we may ask for your name, address, e-mail address and telephone number so that we can contact you accordingly. When you enter a competition or promotional feature, we may ask for your name, address, e-mail address and telephone number so we can administer the competition and notify winners.
+We will collect information about you when you open an account, register with this website, place an order for products or services, request further information from us or if you wish to contact your local branch. The type of information we may collect includes your name, postal address, job title, e-mail address and telephone number so that we can contact you accordingly.
 
-We may use the information provided by you to communicate with you, to provide a more personalised online experience, for record keeping purposes, and in aggregate (and therefore anonymously) for market research purposes, to track activity on our site, to publish trends and/or to improve usefulness and content. We may also use the information we collect to keep you updated with information about promotional offers and what is coming soon at Travis Perkins.
+When you enter a competition or promotional feature, we may also ask for your name, postal address, e-mail address and telephone number so we can administer the competition and notify winners.
 
-We may use other companies to provide services on our behalf. These services may include but are not limited to answering customers' questions about products or services, sending postal mail and e-mails and analysing data. We will only provide those companies with the information they need to deliver the service and they are prohibited from using that information for any other purpose.
+We may also obtain information about your usage of this website using **[Cookies](http://www.travisperkins.co.uk/Cookie-Policy "Click here to view our Cookie Policy")**.
 
-We never make your personal details available to companies outside the Travis Perkins plc Group for marketing purposes.
+Separate terms and conditions may apply when you open an account or if you decide to participate in a competition so please make sure that you read these at the relevant time.
 
-### How is customer information protected?
+### How do we use the information we collect about you?
 
-Internally, we restrict access to personal information. Only employees who need the information in order to do their jobs have access to it.
+We may use the information provided by you:
+
+•    to process your order or manage your account (if applicable),   
+•    to contact you for your views on our services,   
+•    to notify you about important changes or developments to our site or services,   
+•    to provide a more personalised online experience,  
+•    for record keeping purposes,  
+•    to keep you informed about our products and services that we offer. If you agree, we may also pass your information to other companies in the Group so that they keep you informed about the products or services which they offer. For more information see the paragraph below, and   
+•    for market research purposes, on an anonymous basis to track activity on our site, to publish trends and/or to improve usefulness and content.
+
+We only retain your information for a limited period in order to respond to your query, provide you with the information you require or to send you updates on our products and services for as long as you indicate that you are happy for us to do so. We are required to keep some records for a longer period of time to meet our legal obligations.
+
+### Keeping you Informed
+
+If you have bought or enquired about our products or services previously, we may also use the information we collect to let you know about our other products and services which may be of interest to you and to keep you updated with information about promotional offers and what is coming soon at Travis Perkins. If you agree, we would also like to send you information about the products and services offered by other companies in the Group.
+
+If the email address you have provided to us is a corporate email address, we may contact you at any time to let you know about our products and services.
+
+However, you will be able to let us know if you no longer want to receive material from us each time that you receive a communication by following the link to unsubscribe.
+
+### Disclosing your data
+
+We never make your personal details available to companies outside of the Travis Perkins group for marketing purposes and will only disclose your personal details to other companies within the Travis Perkins group if you have agreed to us doing so.
+
+However, we may use other companies to provide services to you on our behalf. These services may include but are not limited to answering your questions about products or services, sending postal mail and e-mails and analysing data. We will only provide those companies with the information they need to deliver the service we have engaged them for and they are prohibited from using that information for any other purpose.
+
+We may have to disclose your information by law or because a court or the police or other law enforcement agency has asked us for it. In the event that a majority of our shares were bought by another company or we transferred a substantial amount of our assets to another company, we would disclose your personal information to that purchaser.
+
+### How is your information protected?
+
+We take protection of your information seriously and have appropriate physical and technological security measures in place to keep it safe.  Internally, we restrict access to personal information. Only employees who need the information in order to do their jobs have access to it.  We never transfer your data outside of the UK.
 
 ### Cookies
 
-Cookies are small files that a web site places on your hard disk to enable additional features of the web site to work. Our cookies do not contain any personally identifying information but they do enable us to provide a user-friendly experience. We do not use cookies to gather personal information such as a person's name or e-mail address. In order to track usage on our web site, we may use cookies to identify repeat visitors to the web site and to determine the path visitors take on our site. Any information gathered by the use of cookies is compiled on an aggregate, anonymous basis.
+To obtain further information relating to the Cookies operating on our website, view our [**Cookies Policy**](http://www.travisperkins.co.uk/Cookie-Policy).
 
-Use of cookies is an industry standard and many web sites use them. Most internet browsers automatically accept cookies. If you do not wish to receive cookies, or want to be notified of when they are placed, you can set your internet browser to do so, if your browser so permits. Without cookies enabled you can still use some of the features of our site.
+### Changes to this privacy policy ** **
 
-### Changes to this Privacy Policy
+We keep our Privacy Policy under regular review and if we change our Privacy Policy we will post those changes on this page so that you are always aware of what information we collect and how we use it. This policy was last updated in April 2012.
 
-If we decide to change our Privacy Policy we will post those changes on this page so that you are always aware of what information we collect and how we use it.
+### Your rights
+
+You may request details of personal information that we hold about you.  If you would like a copy of it, please email us at marketing@travisperkins.co.uk or write to us at Marketing 4th Floor, Travis Perkins PLC, Lodge Way House, Lodge Way, Harlestone Road, Northampton, NN5 7UG. A small fee may be payable.
+
+We want to make sure that your personal information is accurate and up to date. Therefore, if you think any information we hold about you is incorrect or incomplete, please email or write to us at the addresses given above as soon as possible so we can update our records. 
