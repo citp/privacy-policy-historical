@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dailymobile.se privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123195857id_/http%3A//dailymobile.se/2010/01/01/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dailymobile.se privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621212952id_/http%3A//dailymobile.se/2010/01/01/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -22,7 +22,21 @@
 <link rel="pingback" href="http://dailymobile.se/xmlrpc.php">
 
 <link rel="stylesheet" id="NextGEN-css" href="http://dailymobile.se/wp-content/plugins/nextgen-gallery/css/nggallery.css?ver=1.0.0" type="text/css" media="screen">
-<script async="" src="http://track.netshelter.net/async/js/sites/dailymobile.se-async.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://dailymobile.se/wp-includes/js/l10n.js?ver=20101110"></script>
+<link rel="stylesheet" id="shutter-css" href="http://dailymobile.se/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.css?ver=1.3.0" type="text/css" media="screen">
+<script async="" src="http://track.netshelter.net/async/js/sites/dailymobile.se-async.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://dailymobile.se/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var shutterSettings = {
+	msgLoading: "L O A D I N G",
+	msgClose: "Click to Close",
+	imageCount: "1"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://dailymobile.se/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.js?ver=1.3.0"></script>
+<script type="text/javascript" src="http://dailymobile.se/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://dailymobile.se/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.88"></script>
+<script type="text/javascript" src="http://dailymobile.se/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.05"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dailymobile.se/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dailymobile.se/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="Daily Mobile" href="http://dailymobile.se/">
@@ -34,7 +48,7 @@
 <link rel="shortlink" href="http://dailymobile.se/?p=71099">
 <link rel="shortcut icon" href="http://images.dailymobile.se/wp-content/uploads/2008/08/blog.png">
 <link rel="apple-touch-icon" href="http://images.dailymobile.se/wp-content/uploads/2008/08/ipod.png">
-<!-- fedmich facebook/digg thumbnail v1.11 -->
+<!-- fedmich facebook/digg thumbnail v1.12 -->
 <!-- /fedmich facebook/digg thumbnail -->
 
 <!-- platinum seo pack 1.2.7 -->
@@ -43,11 +57,8 @@
 <meta name="keywords" content="uncategorized">
 <link rel="canonical" href="http://dailymobile.se/2010/01/01/privacy-statement/">
 <!-- /platinum one seo pack -->
-<link rel="stylesheet" href="http://dailymobile.se/wp-content/plugins/wp-page-numbers/tiny/wp-page-numbers.css" type="text/css" media="screen"><!--Wp-Thumbie Style Sheet-->
-<link rel="stylesheet" href="http://dailymobile.se/wp-content/plugins/wp-thumbie/wp_thumbie_verticle.css" type="text/css" media="screen">
-<!--Wp-Thumbie Style Sheet-->
-
-<meta name="NextGEN" content="1.4.3">
+<link rel="stylesheet" href="http://dailymobile.se/wp-content/plugins/wp-page-numbers/tiny/wp-page-numbers.css" type="text/css" media="screen">
+<meta name="NextGEN" content="1.7.4">
 
 <script type="text/javascript" src="http://dailymobile.se/wp-content/themes/mandigo/js/jquery.js"></script>
 <script type="text/javascript" src="http://dailymobile.se/wp-content/themes/mandigo/js/jquery.ifixpng.js"></script>
@@ -71,21 +82,167 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+//Evil Robot Detection
+
+	var category = 'trafficQuality';
+	var dimension = 'botDetection';
+	var human_events = ['onkeydown','onmousemove'];
+
+	if ( navigator.appName == 'Microsoft Internet Explorer' && !document.referrer) {
+		for(var i = 0; i < human_events.length; i++){
+			document.attachEvent(human_events[i], ourEventPushOnce);
+		}
+	}else{
+		_gaq.push( [ '_trackEvent', category, dimension, 'botExcluded', 1, true ] );
+	}
+
+	function ourEventPushOnce(ev) {
+
+		_gaq.push( [ '_trackEvent', category, dimension, 'on' + ev.type, 1, true ] );
+
+		for(var i = 0; i < human_events.length; i++){
+			document.detachEvent(human_events[i], ourEventPushOnce);
+		}
+
+	} // end ourEventPushOnce()
+
+	//End Evil Robot Detection
+
 </script>
 
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
+
+<!--DFP-->
+
 <script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1367388074356271");
-GS_googleEnableAllServices();
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
 </script>
+
 <script type="text/javascript">
-GA_googleAddSlot("ca-pub-1367388074356271", "DM-160x600-Global");
-GA_googleAddSlot("ca-pub-1367388074356271", "DM-300x600");
+googletag.cmd.push(function() {
+googletag.defineSlot('/4054398/DM-160x600-Netshelter-Passback', [160, 600], 'div-gpt-ad-1337396022785-0').addService(googletag.pubads());
+googletag.defineSlot('/4054398/DM-300x250-NetShelter-Passback', [300, 250], 'div-gpt-ad-1337396022785-1').addService(googletag.pubads());
+googletag.defineSlot('/4054398/DM-468x60-NetShelter-Passback', [468, 60], 'div-gpt-ad-1337396022785-2').addService(googletag.pubads());
+googletag.defineSlot('/4054398/DM-728x90-Netshelter-Passback', [728, 90], 'div-gpt-ad-1337396022785-3').addService(googletag.pubads());
+googletag.defineSlot('/4054398/DM-WS-640x480', [640, 480], 'div-gpt-ad-1337396022785-4').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
 </script>
+
+<!-- Floating Bar -->
+
+<style type="text/css">
+
+#topbar{
+position:absolute;
+border: 1px solid #cccccc;
+padding: 2px;
+background-color: #ededed;
+width: 650px;
+visibility: hidden;
+z-index: 100;
+text-align:center;
+}
+
+</style>
+
 <script type="text/javascript">
-GA_googleFetchAds();
-</script><!-- VIDEO PLAYER -->
+
+/***********************************************
+* Floating Top Bar script- © Dynamic Drive (www.dynamicdrive.com)
+* Sliding routine by Roy Whittle (http://www.javascript-fx.com/)
+* This notice must stay intact for legal use.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var persistclose=1 //set to 0 or 1. 1 means once the bar is manually closed, it will remain closed for browser session
+var startX = 30 //set x offset of bar in pixels
+var startY = 30 //set y offset of bar in pixels
+var verticalpos="frombottom" //enter "fromtop" or "frombottom"
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset);
+if (end == -1) end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function closebar(){
+if (persistclose)
+document.cookie="remainclosed=1"
+document.getElementById("topbar").style.visibility="hidden"
+}
+
+function staticbar(){
+	barheight=document.getElementById("topbar").offsetHeight
+	var ns = (navigator.appName.indexOf("Netscape") != -1) || window.opera;
+	var d = document;
+	function ml(id){
+		var el=d.getElementById(id);
+		if (!persistclose || persistclose && get_cookie("remainclosed")=="")
+		el.style.visibility="visible"
+		if(d.layers)el.style=el;
+		el.sP=function(x,y){this.style.left=x+"px";this.style.top=y+"px";};
+		el.x = startX;
+		if (verticalpos=="fromtop")
+		el.y = startY;
+		else{
+		el.y = ns ? pageYOffset + innerHeight : iecompattest().scrollTop + iecompattest().clientHeight;
+		el.y -= startY;
+		}
+		return el;
+	}
+	window.stayTopLeft=function(){
+		if (verticalpos=="fromtop"){
+		var pY = ns ? pageYOffset : iecompattest().scrollTop;
+		ftlObj.y += (pY + startY - ftlObj.y)/8;
+		}
+		else{
+		var pY = ns ? pageYOffset + innerHeight - barheight: iecompattest().scrollTop + iecompattest().clientHeight - barheight;
+		ftlObj.y += (pY - startY - ftlObj.y)/8;
+		}
+		ftlObj.sP(ftlObj.x, ftlObj.y);
+		setTimeout("stayTopLeft()", 10);
+	}
+	ftlObj = ml("topbar");
+	stayTopLeft();
+}
+
+if (window.addEventListener)
+window.addEventListener("load", staticbar, false)
+else if (window.attachEvent)
+window.attachEvent("onload", staticbar)
+else if (document.getElementById)
+window.onload=staticbar
+</script>
+
+<!-- video -->
+
+<script language="javascript" src="http://cdn-static.liverail.com/js/companions.js"></script>
+<script language="javascript"> lrCompanionPurge["300x250"] = true; </script><!-- VIDEO PLAYER -->
 
 <script type="text/javascript" src="http://www.idgtechnetwork.com/design/video/scripts/player-a0.js"></script>
 <script language="javascript" src="http://cdn-static.liverail.com/js/companions.js"></script>
@@ -101,7 +258,6 @@ GA_googleFetchAds();
 
 		<ul class="pages png head_overlay">
 			<li class="page_item"><a href="http://dailymobile.se/">Home</a></li>
-<li class="page_item page-item-68992"><a href="http://dailymobile.se/funny-pictures/" title="LOL">LOL</a></li>
 <li class="page_item page-item-33655"><a href="http://dailymobile.se/forum-enter/" title="Forum">Forum</a></li>
 <li class="page_item page-item-35163"><a href="http://dailymobile.se/apple-iphone/" title="iPhone">iPhone</a></li>
 <li class="page_item page-item-35254"><a href="http://dailymobile.se/nokia-blog/" title="Nokia">Nokia</a></li>
@@ -123,15 +279,14 @@ GA_googleFetchAds();
 <script type="text/javascript" src="http://widgets.amung.us/tab.js"></script><script type="text/javascript">WAU_tab('nz5btxzk', 'left-middle')</script>
 <!-- This script must accompany each ad tag within the template file.  -->
 <!-- begin ad tag 728x90 - IN THE LOOP -->
-<!-- begin ad tag (tile=1) UPDATED SEPT 08 2011 -->
+<center>
+<!-- 728x90 ad DFP -->
+<!-- DM-728x90-Netshelter-Passback -->
+<div id="div-gpt-ad-1340203053660-0" style="width:728px; height:90px;">
 <script type="text/javascript">
-//<![CDATA[
-ord = window.ord || Math.floor(Math.random()*1E16);
-document.write('<script type="text/javascript" src="http://ad5.netshelter.net/adj/ns.dailymobile/blog;ppos=atf;kw=;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?"><\/script>');
-//]]>
-</script><script type="text/javascript" src="http://ad5.netshelter.net/adj/ns.dailymobile/blog;ppos=atf;kw=;tile=1;dcopt=ist;sz=728x90;ord=5435402621195824?"></script>
-<noscript><a  href="http://ad5.netshelter.net/jump/ns.dailymobile/blog;ppos=btf;kw=;tile=1;sz=728x90;ord=123456789?" target="_blank" class="external"><img src="http://ad5.netshelter.net/ad/ns.dailymobile/blog;ppos=atf;kw=;tile=1;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
-<!-- end ad tag -->
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1340203053660-0'); });
+</script>
+</div>
 <table>
 <tbody><tr>
 	<td id="content" class="narrowcolumn" rowspan="2">
@@ -149,18 +304,21 @@ document.write('<script type="text/javascript" src="http://ad5.netshelter.net/ad
 
 
 		<div class="post" id="post-71099">
-
+<!--- before date ---->
 			<div class="postinfo">
 
 				
 						<div class="datestamp">
 							<div>
-								<span class="cal1 cal1x">Jan</span>
+								<span class="cal1 cal1x">01</span>
 								<span class="cal2">01</span>
 								<span class="cal3">2010</span>
 							</div>
 						</div>
 		
+
+
+
 
 				<h2 class="posttitle"><a href="http://dailymobile.se/2010/01/01/privacy-statement/" rel="bookmark" title="Permanent Link: Privacy Statement">Privacy Statement</a></h2>
 
@@ -169,14 +327,14 @@ document.write('<script type="text/javascript" src="http://ad5.netshelter.net/ad
 <br>
 
 
-
-Posted by: <a href="http://dailymobile.se/author/justin/" title="Posts by IronGator">IronGator</a> in <a href="http://dailymobile.se/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a>				</small>
+Posted by: <a href="http://dailymobile.se/author/justin/" title="Posts by MASMedia">MASMedia</a> in <a href="http://dailymobile.se/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a>				</small>
 
 <a href="http://dailymobile.se/feed/"></a> <strong><a href="http://dailymobile.se/feed/"><img class="alignnone size-medium wp-image-2380" title="Subscribe to Daily Mobile RSS Feed" src="http://images.dailymobile.se/wp-content/uploads/2009/03/feed-icon-14x14.png" alt="RSS feed" width="14" height="14"></a> <a href="http://twitter.com/dailymobile" class="external" target="_blank"></a> <a href="http://twitter.com/dailymobile"><img class="alignnone size-full wp-image-24179" title="Follow us on Twitter" src="http://images.dailymobile.se/wp-content/uploads/2009/03/twitter-icon.jpg" alt="Follow us on Twitter" width="14" height="14"></a></strong> <a href="http://forum.dailymobile.se/"><img class="alignnone size-full wp-image-25210" title="Daily Mobile Forum" src="http://images.dailymobile.se/wp-content/uploads/2009/04/perfekt-icon-kopia.png" alt="Forum Logo" width="15" height="15"></a>
 
 
 
 			</div>
+<!-- below title before content -->
 
 
 			<div class="entry">
@@ -264,11 +422,20 @@ Posted by: <a href="http://dailymobile.se/author/justin/" title="Posts by IronGa
 <div class="forumURL"><p><a href="http://forum.dailymobile.se/index.php?topic=52329.0"></a></p><blockquote><a href="http://forum.dailymobile.se/index.php?topic=52329.0"><br>
 <h2 style="text-align: center;"><strong>Read Comments / Comment this post</strong></h2><br>
 </a></blockquote><p></p></div><div class="shr-publisher-71099"></div><br><br>
-<h1 style="text-align: center;"><strong>--------&gt; <a href="http://funny-pictures-blog.com/" target="_blank" class="external">LOL</a></strong> &lt;--------</h1>
+
+<h2 style="text-align: center;"><strong>Follow us on Facebook:</strong></h2>
+<div style="border:1px solid #f9f9f9; display:block; text-align:center"><iframe style="text-align:center" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FDaily-Mobile%2F162391363790697&amp;layout=standard&amp;show_faces=true&amp;width=470&amp;action=like&amp;colorscheme=light&amp;height=30" scrolling="no" frameborder="0" allowtransparency="true"></iframe></div>
+
+
+<!-- Author Profile -->
+<div style="display:block;padding:10px;border:1px solid #cccccc;background:#f9f9f9;">
+<center><h3>Author Profile</h3><br>
+
+</center></div>
 <br><br>
-<br>
-<h2 style="text-align: left;"><strong>Follow us on Facebook:</strong></h2>
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FDaily-Mobile%2F162391363790697&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowtransparency="true"></iframe>
+
+
+
 
 
 <div align="center"><!-- This script must accompany each ad tag within the template file.  -->
@@ -280,9 +447,13 @@ Posted by: <a href="http://dailymobile.se/author/justin/" title="Posts by IronGa
 ord = window.ord || Math.floor(Math.random()*1E16);
 document.write('<script type="text/javascript" src="http://ad3.netshelter.net/adj/ns.dailymobile/blog;ppos=btf;kw=;tile=2;sz=300x250,336x280;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad3.netshelter.net/adj/ns.dailymobile/blog;ppos=btf;kw=;tile=2;sz=300x250,336x280;ord=5435402621195824?"></script>
+</script><script type="text/javascript" src="http://ad3.netshelter.net/adj/ns.dailymobile/blog;ppos=btf;kw=;tile=2;sz=300x250,336x280;ord=4916092501674696?"></script>
 <noscript><a  href="http://ad3.netshelter.net/jump/ns.dailymobile/blog;ppos=btf;kw=;tile=2;sz=300x250,336x280;ord=123456789?" target="_blank" class="external"><img src="http://ad3.netshelter.net/ad/ns.dailymobile/blog;ppos=btf;kw=;tile=2;sz=300x250,336x280;ord=123456789?" border="0" alt="" /></a></noscript>
 <!-- end ad tag -->
+<br>
+<a href="http://3dfc9cxaz9ko-m9lf4n8twrr1b.hop.clickbank.net/" target="_top" style="font-size:18px; font-weight:bold" class="external">How To Make Money From Mobile Marketing</a>
+
+
 
 </div><br>
 
@@ -290,7 +461,7 @@ document.write('<script type="text/javascript" src="http://ad3.netshelter.net/ad
 <br>
 
 
-<div id="wp_thumbie" style="border: 0pt none ; margin: 0pt; padding: 0pt; clear: both;"><div id="wp_thumbie_rl1"><br><h3>Related Posts On Daily Mobile:</h3></div><ul class="wp_thumbie_ul_list" style="list-style-type: none;"><li id="wp_thumbie_li" style="height:74px;"><div id="wp_thumbie_image"><a href="http://dailymobile.se/2010/08/31/nokia-to-set-up-enterprise-email-server-in-india-by-november/" target="_top"><img id="wp_thumbie_thumb" src="http://dailymobile.se/wp-content/plugins/wp-thumbie/timthumb.php?src=/wp-content/uploads/2010/08/nokia-booth.jpg&amp;w=120&amp;h=70&amp;zc=1"></a></div><div id="wp_thumbie_title"><a href="http://dailymobile.se/2010/08/31/nokia-to-set-up-enterprise-email-server-in-india-by-november/" target="_top">Nokia to set up enterprise email server in India by November</a></div><p id="description"></p></li><li id="wp_thumbie_li" style="height:74px;"><div id="wp_thumbie_image"><a href="http://dailymobile.se/2009/03/06/htc-loses-germany-patent-suit/" target="_top"><img id="wp_thumbie_thumb" src="http://dailymobile.se/wp-content/plugins/wp-thumbie/timthumb.php?src=/wp-content/uploads/2009/03/htc-logo.jpg&amp;w=120&amp;h=70&amp;zc=1"></a></div><div id="wp_thumbie_title"><a href="http://dailymobile.se/2009/03/06/htc-loses-germany-patent-suit/" target="_top">HTC loses Germany patent suit</a></div><p id="description"></p></li><li id="wp_thumbie_li" style="height:74px;"><div id="wp_thumbie_image"><a href="http://dailymobile.se/2011/10/03/htc-handsets-collecting-data/" target="_top"><img id="wp_thumbie_thumb" src="http://dailymobile.se/wp-content/plugins/wp-thumbie/timthumb.php?src=/wp-content/uploads/2011/09/HTC500x3001.jpeg&amp;w=120&amp;h=70&amp;zc=1"></a></div><div id="wp_thumbie_title"><a href="http://dailymobile.se/2011/10/03/htc-handsets-collecting-data/" target="_top">HTC handsets collecting data</a></div><p id="description"></p></li><li id="wp_thumbie_li" style="height:74px;"><div id="wp_thumbie_image"><a href="http://dailymobile.se/2010/01/04/video-htc-touch-hd2-with-privacy-filter/" target="_top"><img id="wp_thumbie_thumb" src="http://dailymobile.se/wp-content/plugins/wp-thumbie/timthumb.php?src=/wp-content/plugins/wp-thumbie/images/default.png&amp;w=120&amp;h=70&amp;zc=1"></a></div><div id="wp_thumbie_title"><a href="http://dailymobile.se/2010/01/04/video-htc-touch-hd2-with-privacy-filter/" target="_top">Video: HTC TOUCH HD2 with Privacy Filter</a></div><p id="description"></p></li></ul><div id="wp_thumbie_rl2"><a href="http://dailymobile.se/"><small>Back to main page</small></a></div></div><br>
+<br>
 <hr>
 <br>
 <div class="alignleft"><strong>Newer Posts &gt;&gt;</strong> <a href="http://dailymobile.se/2010/01/01/symbian-app-resco-photo-viewer-5-03-beta-best-gallery-app-for-symbian-devices/" rel="next">Symbian App: Resco Photo Viewer 5.03 BETA – Best Gallery app for Symbian Devices</a></div><br>
@@ -309,41 +480,14 @@ document.write('<script type="text/javascript" src="http://ad3.netshelter.net/ad
 
 	<td colspan="2" id="sidebox">
 	<ul class="sidebars">
-	<li id="text-511171007" class="widget widget_text">			<div class="textwidget"><center><!-- Start of Brightcove Player -->
+	<li id="text-511170991" class="widget widget_text">			<div class="textwidget"><center>
 
-<div style="display:none">
-
-</div>
-
-<!--
-By use of this code snippet, I agree to the Brightcove Publisher T and C 
-found at https://accounts.brightcove.com/en/terms-and-conditions/. 
--->
-
-<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
-<script type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
-
-<object id="myExperience" class="BrightcoveExperience">
-  <param name="bgcolor" value="#FFFFFF">
-  <param name="width" value="300">
-  <param name="height" value="340">
-  <param name="playerID" value="1159528520001">
-  <param name="playerKey" value="AQ~~,AAAAqi9sjyE~,Dwl9l9mSdE30E72z-lrYmLORzgT5249u">
-  <param name="isVid" value="true">
-  <param name="isUI" value="true">
-  <param name="dynamicStreaming" value="true">
-  
-</object>
-
-<!-- 
-This script tag will cause the Brightcove Players defined above it to be created as soon
-as the line is read by the browser. If you wish to have the player instantiated only after
-the rest of the HTML is processed and the page load is complete, remove the line.
--->
-<script type="text/javascript">brightcove.createExperiences();</script>
-
-<!-- End of Brightcove Player -->
-
+<script type="text/javascript">
+var ifr = top.location != location ? 1 : 0;
+var site = ifr && document.referrer != '' && document.referrer != null ? document.referrer : location.toString(); site = escape(site); site = site.replace(/'/g, '%27');
+document.write('<img style="display:none" src="http://tracking.oggifinogi.com/trk/impression.gif?cid=8c0d3b67-2f76-41be-b196-d2ef915823a6&pid=5e966eaa-902a-40eb-a1ff-3b46a02cf801&r=' + site +'&ifr=' + ifr +'&cb=' + Math.random() +'&tt=2&ns=0" />');
+document.write('<scri' + 'pt type="text/javascript" src=\'http://raw.oggifinogi.com/GetInitScript?oggiId=5e966eaa-902a-40eb-a1ff-3b46a02cf801&oggiWidth=300px&oggiHeight=350px&oggiCampaignId=8c0d3b67-2f76-41be-b196-d2ef915823a6&oggiVary=&oggiImpolite=true&oggiIsIframe=' + ifr +'&oggiSite=' + site +'\'></scri'+ 'pt>');
+</script><img style="display:none" src="http://tracking.oggifinogi.com/trk/impression.gif?cid=8c0d3b67-2f76-41be-b196-d2ef915823a6&amp;pid=5e966eaa-902a-40eb-a1ff-3b46a02cf801&amp;r=https%3A//web.archive.org/web/20120621212952id_/http%253A//dailymobile.se/2010/01/01/privacy-statement&amp;ifr=0&amp;cb=0.9852792171763616&amp;tt=2&amp;ns=0"><script type="text/javascript" src="http://raw.oggifinogi.com/GetInitScript?oggiId=5e966eaa-902a-40eb-a1ff-3b46a02cf801&amp;oggiWidth=300px&amp;oggiHeight=350px&amp;oggiCampaignId=8c0d3b67-2f76-41be-b196-d2ef915823a6&amp;oggiVary=&amp;oggiImpolite=true&amp;oggiIsIframe=0&amp;oggiSite=https%3A//web.archive.org/web/20120621212952id_/http%253A//dailymobile.se/2010/01/01/privacy-statement"></script>
 
 <!-- Companion Banner Container -->
 <div id="lr_comp_default_300x250" style="width: 300px; height: 250px;">
@@ -351,12 +495,13 @@ the rest of the HTML is processed and the page load is complete, remove the line
 <!-- begin ad tag-->
 <script language="JavaScript" type="text/javascript">
 if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
-document.write('<script language="JavaScript" src="http://a.collective-media.net/adj/idgt.dailymobileforum/idgtcoad;sec=video;sec=coad;tile=2;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://a.collective-media.net/adj/idgt.dailymobileforum/idgtcoad;sec=video;sec=coad;tile=2;sz=300x250;ord=5435402621195824?" type="text/javascript"></script><noscript><a  href="http://a.collective-media.net/jump/idgt.dailymobileforum/idgtcoad;sec=video;sec=coad;tile=2;sz=300x250;ord=123456789?" target="_blank" class="external"><img src="http://a.collective-media.net/ad/idgt.dailymobileforum/idgtcoad;sec=video;sec=coad;tile=2;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
+document.write('<script language="JavaScript" src="http://a.collective-media.net/adj/idgt.dailymobile/idgtcoad;sec=video;sec=coad;tile=2;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
+</script><script language="JavaScript" src="http://a.collective-media.net/adj/idgt.dailymobile/idgtcoad;sec=video;sec=coad;tile=2;sz=300x250;ord=4916092501674696?" type="text/javascript"></script><noscript><a  href="http://a.collective-media.net/jump/idgt.dailymobile/idgtcoad;sec=video;sec=coad;tile=2;sz=300x250;ord=123456789?" target="_blank" class="external"><img src="http://a.collective-media.net/ad/idgt.dailymobile/idgtcoad;sec=video;sec=coad;tile=2;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
 <!-- End ad tag -->
 
 </div>
 <div id="lr_comp_300x250" style=" width: 300px; height: 250px; display: none;"></div>
+
 </center></div>
 		</li>
 	</ul>
@@ -385,34 +530,6 @@ document.write('<script language="JavaScript" src="http://a.collective-media.net
 
 </div>
 		</li>
-<li id="image_feed_widget-5" class="widget image_feed_widget"><h4 class="widgettitle">FUNNY PICTURES</h4>
-
-                <ul class="image-feed-list">		    <li>
-                      <div class="image-feed-small">
-                          <a href="http://funny-pictures-blog.com/2011/11/23/funny-gif-wtf/" target="_BLANK" title="Funny GIF – WTF - Postada em 23 Nov 2011, 19:57" class="external">
-                            <img class="aligncenter size-full wp-image-17352" src="http://funny-pictures-blog.com/wp-content/uploads/2011/11/Funny-GIF-WTF.gif" alt="Funny GIF WTF" width="233" height="180" title="Funny GIF   WTF">                          </a>
-                      </div>
-		    </li>
-		  		    <li>
-                      <div class="image-feed-small">
-                          <a href="http://funny-pictures-blog.com/2011/11/23/sexy-pool-trick-shots/" target="_BLANK" title="Sexy Pool Trick Shots - Postada em 23 Nov 2011, 18:57">
-                                                      </a>
-                      </div>
-		    </li>
-		  		    <li>
-                      <div class="image-feed-small">
-                          <a href="http://funny-pictures-blog.com/2011/11/23/funny-meme-close-enough/" target="_BLANK" title="Funny MEME – Close Enough - Postada em 23 Nov 2011, 17:57" class="external">
-                            <img class="aligncenter size-full" src="http://funny-pictures-blog.com/wp-content/uploads/2011/09/Funny-MEME---Close-Enough.jpg" alt="Funny MEME   Close Enough" title="Funny MEME   Close Enough">                          </a>
-                      </div>
-		    </li>
-		  		</ul>
-
-                <div style="clear:both;"></div>
-
-                
-                <div style="clear:both;"></div>
-
-                </li>
 <li id="text-511170091" class="widget widget_text"><h4 class="widgettitle">Info</h4>
 			<div class="textwidget"><ul>
 	<li><strong>Visit our <a href="http://dailymobile.se/2010/07/14/daily-mobile-mobile-edition-for-blackberrys-iphone-ipad-and-android-devices/">Mobile Version</a></strong></li>
@@ -437,171 +554,168 @@ document.write('<script language="JavaScript" src="http://a.collective-media.net
 <li class="page_item page-item-33655"><a href="http://dailymobile.se/forum-enter/" title="Forum">Forum</a></li>
 <li class="page_item page-item-1043"><a href="http://dailymobile.se/unboxing-pictures/" title="Gallery">Gallery</a></li>
 <li class="page_item page-item-35163"><a href="http://dailymobile.se/apple-iphone/" title="iPhone">iPhone</a></li>
-<li class="page_item page-item-68992"><a href="http://dailymobile.se/funny-pictures/" title="LOL">LOL</a></li>
 <li class="page_item page-item-35254"><a href="http://dailymobile.se/nokia-blog/" title="Nokia">Nokia</a></li>
+<li class="page_item page-item-71098"><a href="http://dailymobile.se/privacy/" title="Privacy">Privacy</a></li>
 <li class="page_item page-item-44649"><a href="http://dailymobile.se/sony-ericsson-blog/" title="Sony Ericsson">Sony Ericsson</a></li>
 <li class="page_item page-item-1023"><a href="http://dailymobile.se/nokia-symbian-themes/" title="Themes">Themes</a></li>
 <li class="page_item page-item-1135"><a href="http://dailymobile.se/wallpapers/" title="Wallpapers">Wallpapers</a></li>
 		</ul>
 		</li>
-<li id="bns-smf-feeds-5" class="widget bns-smf-feeds"><h4 class="widgettitle"><a class="bns-smf-feeds rsswidget external" href="http://funny-pictures-blog.com/index.php?type=rss2;action=.xml;sa=recent;board=;c=;limit=10" target="_blank" title="Syndicate this content"><img style="background:orange;color:white;border:none;" width="14" height="14" src="http://dailymobile.se/wp-includes/images/rss.png" alt="RSS"></a> <a class="bns-smf-feeds rsswidget external" href="http://funny-pictures-blog.com" target="_blank" title="The Best Funny Pictures - LOL Pics - Funniest Funny Pictures - Funny Videos - Funny Pictures - Funny Pics - FAIL Blog - FAIL Videos - FAIL Pictures - LOL Cats - Humor Pictures">Funny Pictures Blog</a></h4>
-<ul class="bns-smf-feeds"><li><a class="bns-smf-feeds rsswidget external" href="http://funny-pictures-blog.com/2011/11/23/funny-gif-wtf/" target="_blank" title="">Funny GIF – WTF</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://funny-pictures-blog.com/2011/11/23/sexy-pool-trick-shots/" target="_blank" title="">Sexy Pool Trick Shots</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://funny-pictures-blog.com/2011/11/23/funny-meme-close-enough/" target="_blank" title="">Funny MEME – Close Enough</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://funny-pictures-blog.com/2011/11/23/funny-meme-how-to-open-a-bra/" target="_blank" title="">Funny MEME – How to open a bra</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://funny-pictures-blog.com/2011/11/23/lolpics-challenge-denied/" target="_blank" title="">LOLPics – Challenge Denied</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://funny-pictures-blog.com/2011/11/23/funny-pictures-i-have-a-dream/" target="_blank" title="">Funny Pictures – I have a dream</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://funny-pictures-blog.com/2011/11/23/lolpics-skyrim/" target="_blank" title="">LOLPics – Skyrim</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://funny-pictures-blog.com/2011/11/23/funny-comics-i-love-my-phone/" target="_blank" title="">Funny Comics – I love my phone</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://funny-pictures-blog.com/2011/11/23/funny-meme-rage-comics/" target="_blank" title="">Funny MEME – Rage Comics</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://funny-pictures-blog.com/2011/11/23/lolpics-fail-2/" target="_blank" title="">LOLPics – FAIL</a></li></ul></li>
 <li id="bns-smf-feeds-4" class="widget bns-smf-feeds"><h4 class="widgettitle"><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/index.php?type=rss2;action=.xml;sa=recent;board=;c=;limit=10" target="_blank" title="Syndicate this content"><img style="background:orange;color:white;border:none;" width="14" height="14" src="http://dailymobile.se/wp-includes/images/rss.png" alt="RSS"></a> <a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com" target="_blank" title="Your iPhone, Your way">Daily iPhone Blog News:</a></h4>
-<ul class="bns-smf-feeds"><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2011/11/23/gun-master-free-app-of-the-day/" target="_blank" title="News from DailyiPhoneBlog.com: Gun Master is todays free iPhone app so hurry up and download it while its free. Name: Gun Master| Download from: iTunes | Price: Free Copyright © DailyiPhoneBlog.com. All rights reserved. Use of this feed is limited to personal use. Publishing of this feed is not allowed.">Gun Master – Free app of the day</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2011/11/23/mac-osx-running-on-samsungs-windows-8-tablet/" target="_blank" title="News from DailyiPhoneBlog.com: Copyright © DailyiPhoneBlog.com. All rights reserved. Use of this feed is limited to personal use. Publishing of this feed is not allowed.">Mac OSX running on Samsungs Windows 8 Tablet</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2011/11/23/ebay-ipad-app-updated/" target="_blank" title="News from DailyiPhoneBlog.com: Feldman discovers the new “Watch with eBay” feature in the eBay for iPad app. “Watch with eBay” lets you easily find items related to what you are currently watching on television. Copyright © DailyiPhoneBlog.com. All rights reserved. Use of this feed is limited to personal use. Publishing of this feed is not allowed.">eBay iPad app updated</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2011/11/23/samsung-ad-bashes-the-iphone/" target="_blank" title="News from DailyiPhoneBlog.com: Copyright © DailyiPhoneBlog.com. All rights reserved. Use of this feed is limited to personal use. Publishing of this feed is not allowed.">Samsung ad bashes the iPhone</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2011/11/23/todays-iphone-4s-iphone-4-wallpapers-27/" target="_blank" title="News from DailyiPhoneBlog.com: You can download todays iPhone 4S / iPhone 4 Wallpapers from our iPhone 4 Wallpaper gallery. Enjoy! Note: Did you know that we update our iPhone 3GS , iPhone 4S / iPhone4 and iPad/ iPad2 wallpaper galleries once / day? You can find the latest wallpapers in the sidebar, so make sure to check [...]">Todays iPhone 4S / iPhone 4 wallpapers</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2011/11/23/todays-ipad-2-ipad-wallpapers-52/" target="_blank" title="News from DailyiPhoneBlog.com: You can download today’s iPad and iPad2 Wallpapers from our iPad / iPad2 Wallpaper gallery. Enjoy! Note: Did you know that we update our iPhone 3GS , iPhone 4 and iPad/ iPad2 wallpaper galleries once / day? You can find the latest wallpapers in the sidebar, so make sure to check that out every [...]">Todays iPad 2 / iPad wallpapers</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2011/11/23/todays-iphone-wallpapers-64/" target="_blank" title="News from DailyiPhoneBlog.com: You can download todays iPhone 3G / 3GS Wallpapers from our iPhone 3GS Wallpaper gallery. Enjoy! Note: Did you know that we update our iPhone 3GS , iPhone 4 and iPad/ iPad2 wallpaper galleries once / day? You can find the latest wallpapers in the sidebar, so make sure to check that out every [...]">Todays iPhone wallpapers</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2011/11/22/fragger-free-app-of-the-day/" target="_blank" title="News from DailyiPhoneBlog.com: The world of Fragger is at risk, and he needs your help to explode all enemies! Unleash your shooting abilities to kill all the enemies and unlock 3 different perks! Name: Fragger| Download from: iTunes | Price: Free Copyright © DailyiPhoneBlog.com. All rights reserved. Use of this feed is limited to personal [...]">Fragger – Free app of the day</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2011/11/22/new-ipad-2-tv-ad-love/" target="_blank" title="News from DailyiPhoneBlog.com: Whatever it is you’re into, the iPad lets you get deeper and more involved than ever before. Copyright © DailyiPhoneBlog.com. All rights reserved. Use of this feed is limited to personal use. Publishing of this feed is not allowed.">NEW iPad 2 TV Ad – Love</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2011/11/22/infinity-blade-2-story-trailer/" target="_blank" title="News from DailyiPhoneBlog.com: Copyright © DailyiPhoneBlog.com. All rights reserved. Use of this feed is limited to personal use. Publishing of this feed is not allowed.">Infinity Blade 2 – Story Trailer</a></li></ul></li>
+<ul class="bns-smf-feeds"><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2012/06/21/todays-ipad-2-ipad-wallpapers-21062012/" target="_blank" title="News from DailyiPhoneBlog.com: You can download today’s iPad and iPad2 Wallpapers from our iPad / iPad2 Wallpaper gallery. Enjoy! Note: Did you know that we update our iPhone 3GS , iPhone 4 and iPad/ iPad2 wallpaper galleries once / day? You can find the latest wallpapers in the sidebar, so make sure to check that out every [...]">Today’s iPad 2 / iPad wallpapers 21/06/2012</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2012/06/21/todays-iphone-4s-iphone-4-wallpapers-21062012/" target="_blank" title="News from DailyiPhoneBlog.com: You can download todays iPhone 4S / iPhone 4 Wallpapers from our iPhone 4 Wallpaper gallery. Enjoy! Note: Did you know that we update our iPhone 3GS , iPhone 4S / iPhone4 and iPad/ iPad2 wallpaper galleries once / day? You can find the latest wallpapers in the sidebar, so make sure to check [...]">Today’s iPhone 4S / iPhone 4 wallpapers 21/06/2012</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2012/06/21/todays-iphone-wallpapers-21062012/" target="_blank" title="News from DailyiPhoneBlog.com: You can download todays iPhone 3G / 3GS Wallpapers from our iPhone 3GS Wallpaper gallery. Enjoy! Note: Did you know that we update our iPhone 3GS , iPhone 4 and iPad/ iPad2 wallpaper galleries once / day? You can find the latest wallpapers in the sidebar, so make sure to check that out every [...]">Today’s iPhone wallpapers 21/06/2012</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2012/06/21/asphalt-7-heat-released-video-review/" target="_blank" title="News from DailyiPhoneBlog.com: Gameloft has released Asphalt 7: Heat, one of the most anticipated racing games for iOS. Check the video review after the break. A FIRST-CLASS LINEUP Drive 60 different cars from the world’s most prestigious manufacturers, like Ferrari, Lamborghini and Aston Martin, including the legendary DeLorean. RACE ACROSS THE GLOBE Gear u">Asphalt 7: Heat released – Video Review</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2012/06/21/turtles-tale-runaway-hd-free-for-a-limited-time/" target="_blank" title="News from DailyiPhoneBlog.com: Turtle’s Tale: Runaway HD is free for a limited time. Hurry up! Check the gameplay video after the break. Turtle’s Tale: Runaway is a physics-based game and your goal is to help Sandy the sea turtle to find her way home. UNIQUE GAMEPLAY Draw lines to help Sandy roll to the destination by avoiding obstacles and moving [...]">Turtle’s Tale: Runaway HD – FREE for a limited time!</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2012/06/20/todays-new-ipad-wallpapers-20062012/" target="_blank" title="News from DailyiPhoneBlog.com: You can download today’s new iPad Wallpapers from our new iPad Wallpaper gallery. Enjoy! Wallpapers by Brett Jordan Note: Did you know that we update our new iPad Wallpaper gallery, iPhone 3GS , iPhone 4S / iPhone4 and iPad/ iPad2 wallpaper galleries once / day? You can find the latest wallpapers in the sidebar, so [...]">Today’s new iPad wallpapers 20/06/2012</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2012/06/20/todays-ipad-2-ipad-wallpapers-20062012/" target="_blank" title="News from DailyiPhoneBlog.com: You can download today’s iPad and iPad2 Wallpapers from our iPad / iPad2 Wallpaper gallery. Enjoy! Note: Did you know that we update our iPhone 3GS , iPhone 4 and iPad/ iPad2 wallpaper galleries once / day? You can find the latest wallpapers in the sidebar, so make sure to check that out every [...]">Today’s iPad 2 / iPad wallpapers 20/06/2012</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2012/06/20/todays-iphone-4s-iphone-4-wallpapers-20062012/" target="_blank" title="News from DailyiPhoneBlog.com: You can download todays iPhone 4S / iPhone 4 Wallpapers from our iPhone 4 Wallpaper gallery. Enjoy! Note: Did you know that we update our iPhone 3GS , iPhone 4S / iPhone4 and iPad/ iPad2 wallpaper galleries once / day? You can find the latest wallpapers in the sidebar, so make sure to check [...]">Today’s iPhone 4S / iPhone 4 wallpapers 20/06/2012</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2012/06/20/todays-iphone-wallpapers-20062012/" target="_blank" title="News from DailyiPhoneBlog.com: You can download todays iPhone 3G / 3GS Wallpapers from our iPhone 3GS Wallpaper gallery. Enjoy! Note: Did you know that we update our iPhone 3GS , iPhone 4 and iPad/ iPad2 wallpaper galleries once / day? You can find the latest wallpapers in the sidebar, so make sure to check that out every [...]">Today’s iPhone wallpapers 20/06/2012</a></li><li><a class="bns-smf-feeds rsswidget external" href="http://dailyiphoneblog.com/2012/06/20/display-recorder-%E2%80%93-ios-app-review/" target="_blank" title="News from DailyiPhoneBlog.com: Display Recorder records your iPhone/iPod Touch and iPad screen in real time. You can now easily record what’s going on on your iPhone/iPod Touch and iPad screen. Check the video review after the break. List of features available on DisplayRecorder: Records directly to high quality H264 mp4. Records both video &amp; audio. On-d">Display Recorder – iOS app review</a></li></ul></li>
 <li id="bns-smf-feeds-3" class="widget bns-smf-feeds"><h4 class="widgettitle"><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?type=rss2;action=.xml;sa=recent;board=;c=;limit=10" target="_blank" title="Syndicate this content"><img style="background:orange;color:white;border:none;" width="14" height="14" src="http://dailymobile.se/wp-includes/images/rss.png" alt="RSS"></a> <a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php" target="_blank" title="Live information from Daily Mobile Forum">Forum Posts</a></h4>
-<ul class="bns-smf-feeds"><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=57247.msg745840#msg745840" target="_blank" title="Quote from: Caciones on Today at 21:50AWESOME NEWS:FINAL NAVI BAR WORKING DAMN BEAUTIFUL! Bug freeeeeee! Really, even I am amazed">Re: Nokia 5233|5230|5530|5800|X6 - All RMs - Blaze v2.1 Beta - All New Video Added!!</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=57247.msg745839#msg745839" target="_blank" title="Quote from: Caciones on Today at 21:50FINAL NAVI BAR WOKRING DAMN BEAUTIFUL! Bug freeeeeee! Really, even I am amazed">Re: Nokia 5233|5230|5530|5800|X6 - All RMs - Blaze v2.1 Beta - All New Video Added!!</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=57247.msg745838#msg745838" target="_blank" title="Quote from: saarthak_08 on Today at 21:51thanks dear... u r avatar is like &quot;super fast train&quot; , u seems alwys in hurry (fast )Nah, its just that...even i was a great tech geek in older days, but then ...">Re: Nokia 5233|5230|5530|5800|X6 - All RMs - Blaze v2.1 Beta - All New Video Added!!</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=57247.msg745837#msg745837" target="_blank" title="Quote from: shetty_chadda on Today at 21:48Even +1 for you, as you also work hard !!thanks dear... u r avatar is like &quot;super fast train&quot; , u seems alwys in hurry (fast )">Re: Nokia 5233|5230|5530|5800|X6 - All RMs - Blaze v2.1 Beta - All New Video Added!!</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=57247.msg745836#msg745836" target="_blank" title="AWESOME NEWS:FINAL NAVI BAR WORKING DAMN BEAUTIFUL! Bug freeeeeee! Really, even I am amazed">Re: Nokia 5233|5230|5530|5800|X6 - All RMs - Blaze v2.1 Beta - All New Video Added!!</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=57247.msg745835#msg745835" target="_blank" title="Quote from: saarthak_08 on Today at 21:46hehehehe right mate +1 for beautiful smiley Even +1 for you, as you also work hard !!">Re: Nokia 5233|5230|5530|5800|X6 - All RMs - Blaze v2.1 Beta - All New Video Added!!</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=50795.msg745834#msg745834" target="_blank" title="is there italian languages?">Re: Nokia 5230 || RM-588 V50.0.01 || based on C6-V40 || Fully stable || PERFECTED!</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=57190.msg745831#msg745831" target="_blank" title="I am gonna wait for sammy to make a quad core device.. Probably sgs3..">Re: HTC Edge: 1.5Ghz First Quad-Core Phone leaks,has monster specs</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=57247.msg745832#msg745832" target="_blank" title="Quote from: shetty_chadda on Today at 21:43Just thought of helping him..As learned for BLAZE TEAM, that we need to care and help each other.. And ya also stay united [img]http://www.frendz4m.com/forum/images/fri...">Re: Nokia 5233|5230|5530|5800|X6 - All RMs - Blaze v2.1 Beta - All New Video Added!!</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=57951.msg745829#msg745829" target="_blank" title="Hey guys. I've a request: can you find to me another flash wallpapers like the one (aquarium) in the telephone? That is to say, s flash wallpaper that change the background when it's night or day (like the &quot;aquarium&quot;). PleaseeeeeeeeeP.S: Sorry for my ...">(Request) Flash Wallpapers for Sony Ericsson Vivaz like the "aquarium"</a></li></ul></li>
+<ul class="bns-smf-feeds"><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=70629.msg952491#msg952491" target="_blank" title="Quote from: ad95 on Today at 21:37hey bro can u tell me how to arrange songs in alphabetical order ??add all the songs that you want to a playlist and then arrange them by alphabetical order">Re: LCG Jukebox Updated To v2.73(0) - [26-04-2012]</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=75079.msg952490#msg952490" target="_blank" title="I am trying to figure out if they are updating the kernel on WP7 phones. If they did I think would be almost a hard reset Phone clearing update like Symbian Belle was.">Re: Why I Am Psyc'd for Windows Phone 7.8</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=75114.msg952489#msg952489" target="_blank" title="Very beautiful, but you can give me a background image?">Re: digital clock angry bird  font color</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=75052.msg952488#msg952488" target="_blank" title="some screenshots with topbar">Re: Nokia 5800XM | RM-356 LITE CFW Released!!!</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=75110.msg952487#msg952487" target="_blank" title="You should know before u buy your phone, that there will be no (few) HD games for Symbian.">Re: Why Gameloft Not Making Game From Symbian Belle</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=70921.msg952484#msg952484" target="_blank" title="Quote from: ToPaZ on Today at 16:18Any updates on this?Are making server changes and some other that you will notice very very soon. After we established those changes, we will get back on solving this p...">Re: Forum's taptalk plugin outdated</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=74563.msg952483#msg952483" target="_blank" title="no the 808 have a smaller output hdmi i think it is micro usb the cable from n8 is to big i test it">Re:  Nokia 808 pureview Users here !</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=74716.msg952482#msg952482" target="_blank" title="Shahspik, can you please make a greek avkon2?Or if it is not difficult for you, could you please send me in P.M the links to download tools for editing nvg/svg files.(I want to learn creating avkons and splashscreens in order to not bother you occasio...">Re: Mod - New Avkon2 By Shahspik [Flags]</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=63498.msg952481#msg952481" target="_blank" title="Hi all .. i hope u enjoy!">Re: Update : Big Analog Clock &amp; Toggle Widgets by ali30n</a></li><li><a class="bns-smf-feeds rsswidget" href="http://forum.dailymobile.se/index.php?topic=14689.msg952480#msg952480" target="_blank" title="for flashing manually only two filer required1.  .c0r file downloaded from navifirm2.  rofs2 file provided with cfwclick on mcu and locate .c0r file and click on ppm and locate rofs2 file and flash">Re: Nokia 5530 firmware discussion</a></li></ul></li>
 <li id="categories-511170092" class="widget widget_categories"><h4 class="widgettitle">Categories</h4>
 		<ul>
-	<li class="cat-item cat-item-67"><a href="http://dailymobile.se/category/android/" title="View all posts filed under Android">Android</a> (2167)
+	<li class="cat-item cat-item-550"><a href="http://dailymobile.se/category/accessories-and-gadgets/" title="View all posts filed under Accessories and Gadgets">Accessories and Gadgets</a> (6)
 </li>
-	<li class="cat-item cat-item-391"><a href="http://dailymobile.se/category/android-apps/" title="View all posts filed under Android Apps">Android Apps</a> (568)
+	<li class="cat-item cat-item-788"><a href="http://dailymobile.se/category/acer/" title="View all posts filed under Acer">Acer</a> (5)
 </li>
-	<li class="cat-item cat-item-392"><a href="http://dailymobile.se/category/android-wallpapers/" title="View all posts filed under Android Wallpapers">Android Wallpapers</a> (29)
+	<li class="cat-item cat-item-67"><a href="http://dailymobile.se/category/android/" title="View all posts filed under Android">Android</a> (2600)
 </li>
-	<li class="cat-item cat-item-57"><a href="http://dailymobile.se/category/blackberry/" title="View all posts filed under Blackberry">Blackberry</a> (325)
+	<li class="cat-item cat-item-391"><a href="http://dailymobile.se/category/android-apps/" title="View all posts filed under Android Apps">Android Apps</a> (663)
 </li>
-	<li class="cat-item cat-item-9"><a href="http://dailymobile.se/category/bluetooth/" title="View all posts filed under Bluetooth">Bluetooth</a> (168)
+	<li class="cat-item cat-item-768"><a href="http://dailymobile.se/category/android-games/" title="View all posts filed under Android Games">Android Games</a> (20)
 </li>
-	<li class="cat-item cat-item-86"><a href="http://dailymobile.se/category/stats/" title="View all posts filed under Daily Mobile Stats">Daily Mobile Stats</a> (25)
+	<li class="cat-item cat-item-626"><a href="http://dailymobile.se/category/android-rom/" title="Android ROM's">Android ROM</a> (12)
 </li>
-	<li class="cat-item cat-item-15"><a href="http://dailymobile.se/category/pictures-phone-gallery/" title="View all posts filed under Gallery">Gallery</a> (1393)
+	<li class="cat-item cat-item-392"><a href="http://dailymobile.se/category/android-wallpapers/" title="View all posts filed under Android Wallpapers">Android Wallpapers</a> (64)
 </li>
-	<li class="cat-item cat-item-288"><a href="http://dailymobile.se/category/ipad/" title="View all posts filed under iPad">iPad</a> (462)
+	<li class="cat-item cat-item-777"><a href="http://dailymobile.se/category/apple-2/" title="View all posts filed under Apple">Apple</a> (26)
 </li>
-	<li class="cat-item cat-item-291"><a href="http://dailymobile.se/category/ipad-wallpapers/" title="View all posts filed under iPad Wallpapers">iPad Wallpapers</a> (8)
+	<li class="cat-item cat-item-631"><a href="http://dailymobile.se/category/asus/" title="View all posts filed under Asus">Asus</a> (4)
 </li>
-	<li class="cat-item cat-item-10"><a href="http://dailymobile.se/category/iphone/" title="View all posts filed under iPhone">iPhone</a> (2093)
+	<li class="cat-item cat-item-779"><a href="http://dailymobile.se/category/bada-os/" title="View all posts filed under Bada OS">Bada OS</a> (1)
 </li>
-	<li class="cat-item cat-item-80"><a href="http://dailymobile.se/category/iphone-accessories/" title="View all posts filed under iPhone Accessories">iPhone Accessories</a> (193)
+	<li class="cat-item cat-item-57"><a href="http://dailymobile.se/category/blackberry/" title="View all posts filed under Blackberry">Blackberry</a> (352)
 </li>
-	<li class="cat-item cat-item-79"><a href="http://dailymobile.se/category/iphone-app/" title="View all posts filed under iPhone Apps">iPhone Apps</a> (847)
+	<li class="cat-item cat-item-9"><a href="http://dailymobile.se/category/bluetooth/" title="View all posts filed under Bluetooth">Bluetooth</a> (171)
 </li>
-	<li class="cat-item cat-item-60"><a href="http://dailymobile.se/category/iphone-wallpapers/" title="View all posts filed under iPhone Wallpapers">iPhone Wallpapers</a> (60)
+	<li class="cat-item cat-item-86"><a href="http://dailymobile.se/category/stats/" title="View all posts filed under Daily Mobile Stats">Daily Mobile Stats</a> (26)
 </li>
-	<li class="cat-item cat-item-414"><a href="http://dailymobile.se/category/ipod/" title="View all posts filed under iPod">iPod</a> (176)
+	<li class="cat-item cat-item-15"><a href="http://dailymobile.se/category/pictures-phone-gallery/" title="View all posts filed under Gallery">Gallery</a> (1397)
+</li>
+	<li class="cat-item cat-item-885"><a href="http://dailymobile.se/category/google-2/" title="View all posts filed under Google">Google</a> (7)
+</li>
+	<li class="cat-item cat-item-517"><a href="http://dailymobile.se/category/htc-3/" title="View all posts filed under HTC">HTC</a> (105)
+</li>
+	<li class="cat-item cat-item-769"><a href="http://dailymobile.se/category/intel/" title="View all posts filed under Intel">Intel</a> (1)
+</li>
+	<li class="cat-item cat-item-836"><a href="http://dailymobile.se/category/ios-2/" title="View all posts filed under iOS">iOS</a> (9)
+</li>
+	<li class="cat-item cat-item-288"><a href="http://dailymobile.se/category/ipad/" title="View all posts filed under iPad">iPad</a> (554)
+</li>
+	<li class="cat-item cat-item-291"><a href="http://dailymobile.se/category/ipad-wallpapers/" title="View all posts filed under iPad Wallpapers">iPad Wallpapers</a> (10)
+</li>
+	<li class="cat-item cat-item-10"><a href="http://dailymobile.se/category/iphone/" title="View all posts filed under iPhone">iPhone</a> (2197)
+</li>
+	<li class="cat-item cat-item-80"><a href="http://dailymobile.se/category/iphone-accessories/" title="View all posts filed under iPhone Accessories">iPhone Accessories</a> (199)
+</li>
+	<li class="cat-item cat-item-79"><a href="http://dailymobile.se/category/iphone-app/" title="View all posts filed under iPhone Apps">iPhone Apps</a> (888)
+</li>
+	<li class="cat-item cat-item-60"><a href="http://dailymobile.se/category/iphone-wallpapers/" title="View all posts filed under iPhone Wallpapers">iPhone Wallpapers</a> (61)
+</li>
+	<li class="cat-item cat-item-414"><a href="http://dailymobile.se/category/ipod/" title="View all posts filed under iPod">iPod</a> (209)
 </li>
 	<li class="cat-item cat-item-5"><a href="http://dailymobile.se/category/applications-java/" title="View all posts filed under Java Applications">Java Applications</a> (102)
 </li>
-	<li class="cat-item cat-item-11"><a href="http://dailymobile.se/category/lg/" title="View all posts filed under LG">LG</a> (589)
+	<li class="cat-item cat-item-11"><a href="http://dailymobile.se/category/lg/" title="View all posts filed under LG">LG</a> (620)
 </li>
-	<li class="cat-item cat-item-90"><a href="http://dailymobile.se/category/maemo/" title="View all posts filed under Maemo">Maemo</a> (421)
+	<li class="cat-item cat-item-90"><a href="http://dailymobile.se/category/maemo/" title="View all posts filed under Maemo">Maemo</a> (423)
 </li>
-	<li class="cat-item cat-item-94"><a href="http://dailymobile.se/category/maemo-applications/" title="View all posts filed under Maemo Applications">Maemo Applications</a> (112)
+	<li class="cat-item cat-item-94"><a href="http://dailymobile.se/category/maemo-applications/" title="View all posts filed under Maemo Applications">Maemo Applications</a> (113)
 </li>
 	<li class="cat-item cat-item-95"><a href="http://dailymobile.se/category/maemo-themes/" title="View all posts filed under Maemo Themes">Maemo Themes</a> (3)
 </li>
-	<li class="cat-item cat-item-373"><a href="http://dailymobile.se/category/meego/" title="View all posts filed under MeeGo">MeeGo</a> (149)
+	<li class="cat-item cat-item-373"><a href="http://dailymobile.se/category/meego/" title="View all posts filed under MeeGo">MeeGo</a> (162)
 </li>
-	<li class="cat-item cat-item-56"><a href="http://dailymobile.se/category/motorola/" title="View all posts filed under Motorola">Motorola</a> (729)
+	<li class="cat-item cat-item-1020"><a href="http://dailymobile.se/category/microsoft-2/" title="View all posts filed under Microsoft">Microsoft</a> (1)
 </li>
-	<li class="cat-item cat-item-12"><a href="http://dailymobile.se/category/nokia/" title="View all posts filed under Nokia">Nokia</a> (5155)
+	<li class="cat-item cat-item-56"><a href="http://dailymobile.se/category/motorola/" title="View all posts filed under Motorola">Motorola</a> (757)
 </li>
-	<li class="cat-item cat-item-299"><a href="http://dailymobile.se/category/nokia-symbian3/" title="View all posts filed under Nokia / Symbian^3">Nokia / Symbian^3</a> (1101)
+	<li class="cat-item cat-item-12"><a href="http://dailymobile.se/category/nokia/" title="View all posts filed under Nokia">Nokia</a> (5563)
 </li>
-	<li class="cat-item cat-item-3"><a href="http://dailymobile.se/category/accessories-nokia/" title="View all posts filed under Nokia Accessories">Nokia Accessories</a> (190)
+	<li class="cat-item cat-item-299"><a href="http://dailymobile.se/category/nokia-symbian3/" title="View all posts filed under Nokia / Symbian^3">Nokia / Symbian^3</a> (1262)
 </li>
-	<li class="cat-item cat-item-6"><a href="http://dailymobile.se/category/applications-s60/" title="View all posts filed under Nokia Apps (S60v3)">Nokia Apps (S60v3)</a> (633)
+	<li class="cat-item cat-item-834"><a href="http://dailymobile.se/category/nokia-808-pureview/" title="View all posts filed under Nokia 808 PureView">Nokia 808 PureView</a> (22)
 </li>
-	<li class="cat-item cat-item-63"><a href="http://dailymobile.se/category/applications-s60v5/" title="View all posts filed under Nokia Apps (S60v5)">Nokia Apps (S60v5)</a> (641)
+	<li class="cat-item cat-item-3"><a href="http://dailymobile.se/category/accessories-nokia/" title="View all posts filed under Nokia Accessories">Nokia Accessories</a> (193)
 </li>
-	<li class="cat-item cat-item-409"><a href="http://dailymobile.se/category/nokia-apps-s3/" title="View all posts filed under Nokia Apps (S^3)">Nokia Apps (S^3)</a> (342)
+	<li class="cat-item cat-item-6"><a href="http://dailymobile.se/category/applications-s60/" title="View all posts filed under Nokia Apps (S60v3)">Nokia Apps (S60v3)</a> (638)
+</li>
+	<li class="cat-item cat-item-63"><a href="http://dailymobile.se/category/applications-s60v5/" title="View all posts filed under Nokia Apps (S60v5)">Nokia Apps (S60v5)</a> (655)
+</li>
+	<li class="cat-item cat-item-409"><a href="http://dailymobile.se/category/nokia-apps-s3/" title="View all posts filed under Nokia Apps (S^3)">Nokia Apps (S^3)</a> (394)
+</li>
+	<li class="cat-item cat-item-518"><a href="http://dailymobile.se/category/nokia-belle/" title="View all posts filed under Nokia Belle">Nokia Belle</a> (116)
 </li>
 	<li class="cat-item cat-item-62"><a href="http://dailymobile.se/category/nokia-s40v3-themes/" title="View all posts filed under Nokia S40v3 Themes">Nokia S40v3 Themes</a> (8)
 </li>
-	<li class="cat-item cat-item-13"><a href="http://dailymobile.se/category/nokia-s60-themes/" title="View all posts filed under Nokia S60v3 Themes">Nokia S60v3 Themes</a> (192)
+	<li class="cat-item cat-item-13"><a href="http://dailymobile.se/category/nokia-s60-themes/" title="View all posts filed under Nokia S60v3 Themes">Nokia S60v3 Themes</a> (193)
 </li>
-	<li class="cat-item cat-item-59"><a href="http://dailymobile.se/category/symbian-s60v5-themes/" title="View all posts filed under Nokia S60v5 Themes">Nokia S60v5 Themes</a> (126)
+	<li class="cat-item cat-item-516"><a href="http://dailymobile.se/category/nokia-s60v5-cfw/" title="View all posts filed under Nokia S60V5 Custom FW">Nokia S60V5 Custom FW</a> (1)
 </li>
-	<li class="cat-item cat-item-448"><a href="http://dailymobile.se/category/nokia-s3-themes/" title="View all posts filed under Nokia S^3 Themes">Nokia S^3 Themes</a> (18)
+	<li class="cat-item cat-item-59"><a href="http://dailymobile.se/category/symbian-s60v5-themes/" title="View all posts filed under Nokia S60v5 Themes">Nokia S60v5 Themes</a> (127)
 </li>
-	<li class="cat-item cat-item-66"><a href="http://dailymobile.se/category/off-topic/" title="View all posts filed under Off Topic">Off Topic</a> (212)
+	<li class="cat-item cat-item-448"><a href="http://dailymobile.se/category/nokia-s3-themes/" title="View all posts filed under Nokia S^3 Themes">Nokia S^3 Themes</a> (67)
 </li>
-	<li class="cat-item cat-item-65"><a href="http://dailymobile.se/category/operator-news/" title="View all posts filed under Operator News">Operator News</a> (342)
+	<li class="cat-item cat-item-66"><a href="http://dailymobile.se/category/off-topic/" title="View all posts filed under Off Topic">Off Topic</a> (229)
 </li>
-	<li class="cat-item cat-item-14"><a href="http://dailymobile.se/category/other-phone-brands/" title="View all posts filed under Other Phone Brands">Other Phone Brands</a> (600)
+	<li class="cat-item cat-item-65"><a href="http://dailymobile.se/category/operator-news/" title="View all posts filed under Operator News">Operator News</a> (382)
 </li>
-	<li class="cat-item cat-item-58"><a href="http://dailymobile.se/category/press-releases/" title="View all posts filed under Press releases">Press releases</a> (619)
+	<li class="cat-item cat-item-14"><a href="http://dailymobile.se/category/other-phone-brands/" title="View all posts filed under Other Phone Brands">Other Phone Brands</a> (615)
 </li>
-	<li class="cat-item cat-item-16"><a href="http://dailymobile.se/category/reviews-previews/" title="View all posts filed under Reviews">Reviews</a> (690)
+	<li class="cat-item cat-item-791"><a href="http://dailymobile.se/category/panasonic/" title="View all posts filed under Panasonic">Panasonic</a> (1)
 </li>
-	<li class="cat-item cat-item-17"><a href="http://dailymobile.se/category/samsung/" title="View all posts filed under Samsung">Samsung</a> (1261)
+	<li class="cat-item cat-item-58"><a href="http://dailymobile.se/category/press-releases/" title="View all posts filed under Press releases">Press releases</a> (630)
 </li>
-	<li class="cat-item cat-item-497"><a href="http://dailymobile.se/category/smartphones/" title="View all posts filed under Smartphones">Smartphones</a> (65)
+	<li class="cat-item cat-item-16"><a href="http://dailymobile.se/category/reviews-previews/" title="View all posts filed under Reviews">Reviews</a> (778)
 </li>
-	<li class="cat-item cat-item-18"><a href="http://dailymobile.se/category/sonyericsson/" title="View all posts filed under Sony Ericsson">Sony Ericsson</a> (1795)
+	<li class="cat-item cat-item-17"><a href="http://dailymobile.se/category/samsung/" title="View all posts filed under Samsung">Samsung</a> (1431)
+</li>
+	<li class="cat-item cat-item-778"><a href="http://dailymobile.se/category/samsung-galaxy-s-iii/" title="View all posts filed under Samsung Galaxy S III">Samsung Galaxy S III</a> (31)
+</li>
+	<li class="cat-item cat-item-497"><a href="http://dailymobile.se/category/smartphones/" title="View all posts filed under Smartphones">Smartphones</a> (199)
+</li>
+	<li class="cat-item cat-item-18"><a href="http://dailymobile.se/category/sony/" title="View all posts filed under Sony">Sony</a> (1861)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://dailymobile.se/category/accessories-sony/" title="View all posts filed under Sony Accessories">Sony Accessories</a> (134)
 </li>
 	<li class="cat-item cat-item-64"><a href="http://dailymobile.se/category/sony-ericsson-themes/" title="View all posts filed under Sony Ericsson Themes">Sony Ericsson Themes</a> (11)
 </li>
-	<li class="cat-item cat-item-4"><a href="http://dailymobile.se/category/accessories-se/" title="View all posts filed under Sony SE Accessories">Sony SE Accessories</a> (128)
-</li>
-	<li class="cat-item cat-item-8"><a href="http://dailymobile.se/category/applications-se/" title="View all posts filed under Sony SE Applications">Sony SE Applications</a> (86)
+	<li class="cat-item cat-item-8"><a href="http://dailymobile.se/category/applications-se/" title="View all posts filed under Sony SE Applications">Sony SE Applications</a> (89)
 </li>
 	<li class="cat-item cat-item-7"><a href="http://dailymobile.se/category/applications-s60-signing/" title="View all posts filed under Symbian S60 Signing">Symbian S60 Signing</a> (13)
 </li>
-	<li class="cat-item cat-item-481"><a href="http://dailymobile.se/category/tablets/" title="View all posts filed under Tablets">Tablets</a> (148)
+	<li class="cat-item cat-item-481"><a href="http://dailymobile.se/category/tablets/" title="View all posts filed under Tablets">Tablets</a> (254)
 </li>
-	<li class="cat-item cat-item-1"><a href="http://dailymobile.se/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a> (163)
+	<li class="cat-item cat-item-787"><a href="http://dailymobile.se/category/toshiba/" title="View all posts filed under Toshiba">Toshiba</a> (3)
 </li>
-	<li class="cat-item cat-item-20"><a href="http://dailymobile.se/category/video/" title="View all posts filed under Video">Video</a> (5176)
+	<li class="cat-item cat-item-1"><a href="http://dailymobile.se/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a> (185)
 </li>
-	<li class="cat-item cat-item-21"><a href="http://dailymobile.se/category/wallpapers/" title="View all posts filed under Wallpapers">Wallpapers</a> (163)
+	<li class="cat-item cat-item-20"><a href="http://dailymobile.se/category/video/" title="View all posts filed under Video">Video</a> (5523)
 </li>
-	<li class="cat-item cat-item-40"><a href="http://dailymobile.se/category/htc/" title="View all posts filed under Windows Mobile">Windows Mobile</a> (532)
+	<li class="cat-item cat-item-21"><a href="http://dailymobile.se/category/wallpapers/" title="View all posts filed under Wallpapers">Wallpapers</a> (349)
 </li>
-	<li class="cat-item cat-item-286"><a href="http://dailymobile.se/category/windows-phone-7/" title="View all posts filed under Windows Phone 7">Windows Phone 7</a> (410)
+	<li class="cat-item cat-item-888"><a href="http://dailymobile.se/category/windows-8-2/" title="View all posts filed under Windows 8">Windows 8</a> (5)
 </li>
-	<li class="cat-item cat-item-480"><a href="http://dailymobile.se/category/windows-phone-7-apps/" title="View all posts filed under Windows Phone 7 Apps">Windows Phone 7 Apps</a> (49)
+	<li class="cat-item cat-item-40"><a href="http://dailymobile.se/category/htc/" title="View all posts filed under Windows Mobile">Windows Mobile</a> (552)
+</li>
+	<li class="cat-item cat-item-286"><a href="http://dailymobile.se/category/windows-phone-7/" title="View all posts filed under Windows Phone 7">Windows Phone 7</a> (647)
+</li>
+	<li class="cat-item cat-item-480"><a href="http://dailymobile.se/category/windows-phone-7-apps/" title="View all posts filed under Windows Phone 7 Apps">Windows Phone 7 Apps</a> (115)
+</li>
+	<li class="cat-item cat-item-536"><a href="http://dailymobile.se/category/windows-phone-8/" title="View all posts filed under Windows Phone 8">Windows Phone 8</a> (6)
+</li>
+	<li class="cat-item cat-item-660"><a href="http://dailymobile.se/category/zte/" title="View all posts filed under ZTE">ZTE</a> (1)
 </li>
 		</ul>
 </li>
-<li id="last-year" class="widget last_widget"><h4 class="widgettitle">This Day Past Years</h4>
-<script language="Javascript" type="text/javascript">
-		function ly_show_hide(num)
-		{
-			var l = document.getElementById("year-list-" + num);
-			var c = document.getElementById("year-control-" + num);
-
-			if(l.style.display == "none") {
-				l.style.display = "block";
-				c.innerHTML = "<img alt='' class='no-rate' src='http://dailymobile.se/wp-content/plugins/last-year-widget/icon_minus.gif' title='Collapse' />";
-			}
-			else {
-				l.style.display = "none";
-				c.innerHTML = "<img alt='' class='no-rate' src='http://dailymobile.se/wp-content/plugins/last-year-widget/icon_plus.gif' title='Expand' />";
-			}
-		}
-	</script>
-<p><strong>2010</strong><a id="year-control-2010" href="javascript:ly_show_hide(2010);"><img alt="" class="no-rate" src="http://dailymobile.se/wp-content/plugins/last-year-widget/icon_minus.gif" title="Expand"></a></p>
-<ul class="archived-control" id="year-list-2010" style="display: block">
-<li><a href="http://dailymobile.se/2010/11/23/android-app-tetris/">Android app: Tetris</a></li><li><a href="http://dailymobile.se/2010/11/23/iphone-skyfire-2-1-for-iphone-in-app-store-today/">iPhone: Skyfire 2.1 for iPhone in App Store today</a></li><li><a href="http://dailymobile.se/2010/11/23/android-skyfire-3-0-web-browser-with-facebook-connect-preview/">Android: Skyfire 3.0 Web Browser with Facebook Connect - Preview</a></li><li><a href="http://dailymobile.se/2010/11/23/limited-number-of-nokia-n8s-facing-power-fault-manufacturer-reveals/">Limited number of Nokia N8s facing power fault, manufacturer reveals</a></li><li><a href="http://dailymobile.se/2010/11/23/nokia-pocket-dance-new-nokia-tv-ad/">Nokia Pocket Dance - New Nokia TV Ad</a></li><li><a href="http://dailymobile.se/2010/11/23/nokia-5530-firmware-updated-to-v32-007/">Nokia 5530 firmware updated to v32.007</a></li><li><a href="http://dailymobile.se/2010/11/23/download-jailbreak-ios-4-2-1-with-redsn0w-iphone-4-ipad-iphone/">Jailbreak iOS 4.2.1 with redsn0w</a></li><li><a href="http://dailymobile.se/2010/11/23/symbian-theme-new-plum-by-mariano/">Symbian theme: New Plum By Mariano</a></li><li><a href="http://dailymobile.se/2010/11/23/android-app-super-pac-pac-man-clone/">Android app: Super Pac (Pac-Man clone)</a></li><li><a href="http://dailymobile.se/2010/11/23/download-doom-android-live-wallpaper/">Android: Doom Live Wallpaper - Freeware</a></li><li><a href="http://dailymobile.se/2010/11/23/review-nokia-c6-01-2/">Review: Nokia C6-01</a></li></ul>
-<br><p><strong>2009</strong><a id="year-control-2009" href="javascript:ly_show_hide(2009);"><img alt="" class="no-rate" src="http://dailymobile.se/wp-content/plugins/last-year-widget/icon_plus.gif" title="Expand"></a></p>
-<ul class="archived-control" id="year-list-2009" style="display: none">
-<li><a href="http://dailymobile.se/2009/11/23/new-botnet-like-worm-hits-jailbroken-iphones/">New botnet-like Worm Hits Jailbroken iPhones!</a></li><li><a href="http://dailymobile.se/2009/11/23/google-maps-navigation-now-available-for-android-1-6/">Google Maps Navigation now available for Android 1.6</a></li><li><a href="http://dailymobile.se/2009/11/23/skype-demoed-on-the-nokia-n900/">Skype demoed on the Nokia N900</a></li><li><a href="http://dailymobile.se/2009/11/23/2-really-nice-themes-for-iphone-and-ipod-touch/">2 Really nice themes for iPhone and iPod Touch</a></li><li><a href="http://dailymobile.se/2009/11/23/nokia-point-find-now-available-globally-on-most-s60-devices/">Nokia Point &amp; Find now available globally on most S60 devices</a></li><li><a href="http://dailymobile.se/2009/11/23/brickhouse-security-presents-the-micro-bluetooth-spy-earpiece-james-bond-wants-one/">Brickhouse Security Presents The Micro bluetooth Spy Earpiece - James Bond wants one!</a></li><li><a href="http://dailymobile.se/2009/11/23/first-look-at-sony-ericsson-kurara/">First look at the Sony Ericsson Kurara</a></li><li><a href="http://dailymobile.se/2009/11/23/spotify-finally-launched-for-symbian/">Spotify finally launched for Symbian</a></li><li><a href="http://dailymobile.se/2009/11/23/memory-touch-app-for-symbian-s60v5/">Memory Touch App for Symbian S60v5</a></li><li><a href="http://dailymobile.se/2009/11/23/nokia-5800-n97-and-samsung-omnia-hd-theme-robot-2009-by-longertommy/">Nokia 5800, N97 and Samsung Omnia HD Theme - Robot 2009 by Longertommy</a></li><li><a href="http://dailymobile.se/2009/11/23/oxford-on-the-nokia-n97/">'Oxford' on the Nokia N97</a></li></ul>
-<br><p><strong>2008</strong><a id="year-control-2008" href="javascript:ly_show_hide(2008);"><img alt="" class="no-rate" src="http://dailymobile.se/wp-content/plugins/last-year-widget/icon_plus.gif" title="Expand"></a></p>
-<ul class="archived-control" id="year-list-2008" style="display: none">
-<li><a href="http://dailymobile.se/2008/11/23/frozen-bubble-twisted/">Frozen Bubble Twisted</a></li><li><a href="http://dailymobile.se/2008/11/23/samsung-i8510-innov8-camera-sample/">Samsung i8510 INNOV8 Camera Sample</a></li><li><a href="http://dailymobile.se/2008/11/23/java-application-velox-v21-calcualte-speed-and-travelled-distance-via-gps/">Java Application: Velox v2.1 - Calcualte speed and travelled distance via GPS</a></li><li><a href="http://dailymobile.se/2008/11/23/facebook-panel-for-sony-ericsson-xperia-x1/">Facebook Panel for Sony Ericsson Xperia X1</a></li><li><a href="http://dailymobile.se/2008/11/23/pictures-pink-samsung-soul-u900/">Pictures: Pink Samsung Soul U900</a></li></ul>
-<br><p><strong>2007</strong><a id="year-control-2007" href="javascript:ly_show_hide(2007);"><img alt="" class="no-rate" src="http://dailymobile.se/wp-content/plugins/last-year-widget/icon_plus.gif" title="Expand"></a></p>
-<ul class="archived-control" id="year-list-2007" style="display: none">
-<li><a href="http://dailymobile.se/2007/11/23/pictures-sony-ericsson-k850-black-edition/">Pictures: Sony Ericsson K850 Black Edition</a></li><li><a href="http://dailymobile.se/2007/11/23/how-strong-is-nokia-n82%e2%80%99s-battery/">How strong Is Nokia N82’s battery?</a></li><li><a href="http://dailymobile.se/2007/11/23/another-3d-demo-accelerator-application-for-symbian-s60v3/">Another 3D Demo Accelerator Application For Symbian S60v3</a></li><li><a href="http://dailymobile.se/2007/11/23/video-nokia-n810-unboxing/">Video: Nokia N810 Unboxing</a></li><li><a href="http://dailymobile.se/2007/11/23/video-pocket-internet-explorer-vs-opera-mini-4/">Video: Pocket Internet Explorer VS Opera Mini 4</a></li></ul></li>
 <li id="text-511170980" class="widget widget_text"><h4 class="widgettitle">Friends sites: </h4>
 			<div class="textwidget"><ul>
-	<li><a href="http://funny-pictures-blog.com/" class="external" target="_blank">Funny Pictures Blog</a></li>
+	
 	<li><a href="http://dailyiphoneblog.com/" class="external" target="_blank">Daily iPhone Blog</a></li>
-	<li><a href="http://humourtouch.com/" class="external" target="_blank">Humor</a></li>
-	<li><a href="http://www.killsometime.com/" class="external" target="_blank">Funny Videos</a></li>
-	<li><a href="http://www.simpleguitarsongs.net/" class="external" target="_blank">Simple Guitar Songs</a></li>
-	<li><a href="http://funny-quotes-blog.com/" class="external" target="_blank">Funny Quotes and Jokes</a></li>
-	<li><a href="http://nikkiandjohn.com/" class="external" target="_blank">Nikki and John</a></li>
-	<li><a href="http://www.gifbin.com/" class="external" target="_blank">GIFBin</a></li>
-	<li><a href="http://www.speltipsduellen.se/" class="external" target="_blank">SpelTipsDuellen</a></li>
-	<li><a href="http://pete.com/" class="external" target="_blank">Funny Photo</a></li>
-	<li><a href="http://www.foundshit.com/" class="external" target="_blank">Found Shit</a></li>
-	<li><a href="http://www.funcage.com/" class="external" target="_blank">Random Funny Pics</a></li>
-	<li><a href="http://vesslan.com/" class="external" target="_blank">Vesslan</a></li>
-	<li><a href="http://www.funny-pranks.net/" class="external" target="_blank">Funny Pranks</a></li>
-	<li><a href="http://funnyd00ds.com/" class="external" target="_blank">Funny Videos</a></li>
-	<li><a href="http://www.gibbleguts.com/" class="external" target="_blank">Gibbleguts Cartoons</a></li>
-	<li><a href="http://siemreap.info/" class="external" target="_blank">Siem Reap</a></li>
+	
 	<li><a href="http://www.ipow.se/" class="external" target="_blank">Tillbehör till iPhone och iPad</a></li>
 	<li><a href="http://passionemobile.wordpress.com/" class="external" target="_blank">P@ssioneMobile</a></li>
 	<li><a href="http://www.nokialino.it/" class="external" target="_blank">Nokia Lino</a></li>
@@ -609,11 +723,10 @@ document.write('<script language="JavaScript" src="http://a.collective-media.net
 	<li><a href="http://www.symbiantweet.com/" class="external" target="_blank">Symbian Tweet</a></li>
 	<li><a href="http://buongiornotech.myblog.it/" class="external" target="_blank">Buongiorno Tech</a></li>
 	<li><a href="http://www.pestaola.gr/" target="_blank" class="external">Pestaola.gr</a></li>
-	<li><a href="http://www.thai.nu" class="external" target="_blank">Thailand</a></li>
-	<li><a href="http://www.videobash.com/" class="external" target="_blank">Funny Videos</a></li>
+	
 	<li><a rel="nofollow" href="http://symbianworld.org/" class="external" target="_blank">Symbian World</a></li>
 	<li><a rel="nofollow" href="http://thenokiareview.com/" class="external" target="_blank">The Nokia Review</a></li>
-	<li><a href="http://funny-pictures-blog.com" class="external" target="_blank">Funny Pictures Blog</a></li>
+	
 </ul></div>
 		</li>
 <li id="text-511170981" class="widget widget_text">			<div class="textwidget"><!-- begin ad tag (tile=3) UPDATED SEPT 08 2011 -->
@@ -622,7 +735,7 @@ document.write('<script language="JavaScript" src="http://a.collective-media.net
 ord = window.ord || Math.floor(Math.random()*1E16);
 document.write('<script type="text/javascript" src="http://ad5.netshelter.net/adj/ns.dailymobile/blog;ppos=btf;kw=;tile=3;sz=120x600,160x600;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad5.netshelter.net/adj/ns.dailymobile/blog;ppos=btf;kw=;tile=3;sz=120x600,160x600;ord=5435402621195824?"></script>
+</script><script type="text/javascript" src="http://ad5.netshelter.net/adj/ns.dailymobile/blog;ppos=btf;kw=;tile=3;sz=120x600,160x600;ord=4916092501674696?"></script>
 <noscript><a  href="http://ad5.netshelter.net/jump/ns.dailymobile/blog;ppos=btf;kw=;tile=3;sz=120x600,160x600;ord=123456789?" target="_blank" class="external"><img src="http://ad5.netshelter.net/ad/ns.dailymobile/blog;ppos=btf;kw=;tile=3;sz=120x600,160x600;ord=123456789?" border="0" alt="" /></a></noscript>
 <!-- end ad tag --></div>
 		</li>
@@ -650,99 +763,157 @@ document.write('<script type="text/javascript" src="http://ad5.netshelter.net/ad
 <li id="text-511171004" class="widget widget_text">			<div class="textwidget"><link rel="stylesheet" type="text/css" href="http://cache.blogads.com/463646681/feed.css">
 <script language="javascript" src="http://cache.blogads.com/463646681/feed.js"></script></div>
 		</li>
-<li id="ngg-images-2" class="widget ngg_images"><h4 class="widgettitle">Latest 360x640 Wallpapers</h4>
+<li id="ngg-images-3" class="widget ngg_images">
+<div class="hslice" id="ngg-webslice">
+<h4 class="entry-title widgettitle">Nokia 360×640 Wallpapers</h4>
 
 <div class="ngg-widget entry-content">
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-5800-wallpapers/thumbs/thumbs_Paradise.jpg" width="80" height="142" title="Paradise" alt="Paradise"></a>
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-5800-wallpapers/thumbs/thumbs_Painting.jpg" width="80" height="142" title="Painting" alt="Painting"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-5800-wallpapers/nokia-5800-360x640-wallpaper-524.jpg" title="" class="shutterset_ngg-images-3"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-5800-wallpapers/thumbs/thumbs_nokia-5800-360x640-wallpaper-524.jpg" width="75" height="100" title="nokia-5800-360x640-wallpaper-524" alt="nokia-5800-360x640-wallpaper-524"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-5800-wallpapers/nokia-5800-360x640-wallpaper-523.jpg" title="" class="shutterset_ngg-images-3"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-5800-wallpapers/thumbs/thumbs_nokia-5800-360x640-wallpaper-523.jpg" width="75" height="100" title="nokia-5800-360x640-wallpaper-523" alt="nokia-5800-360x640-wallpaper-523"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-5800-wallpapers/nokia-5800-360x640-wallpaper-522.jpg" title="" class="shutterset_ngg-images-3"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-5800-wallpapers/thumbs/thumbs_nokia-5800-360x640-wallpaper-522.jpg" width="75" height="100" title="nokia-5800-360x640-wallpaper-522" alt="nokia-5800-360x640-wallpaper-522"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-5800-wallpapers/nokia-5800-360x640-wallpaper-521.jpg" title="" class="shutterset_ngg-images-3"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-5800-wallpapers/thumbs/thumbs_nokia-5800-360x640-wallpaper-521.jpg" width="75" height="100" title="nokia-5800-360x640-wallpaper-521" alt="nokia-5800-360x640-wallpaper-521"></a>
+</div>
 </div>
 </li>
 <li id="text-511170985" class="widget widget_text">			<div class="textwidget"><p style="text-align: center;">(Nokia 5800, N8, E7, C7, N97, 5530, 5230, X6, Sony Ericsson Satio, Vivaz, Samsung i8910 HD, HTC devices etc.)</p>
 <p style="text-align: center;"><a href="http://dailymobile.se/2010/01/01/nokia-5800-n97-x6-satio-i8910hd-5530-wallpapers/"><strong><strong>Visit the wallpaper section</strong></strong></a></p></div>
 		</li>
-<li id="ngg-images-3" class="widget ngg_images"><h4 class="widgettitle">Latest 320x480 Wallpapers</h4>
+<li id="ngg-images-12" class="widget ngg_images">
+<div class="hslice" id="ngg-webslice">
+<h4 class="entry-title widgettitle">Apple iPhone 3G Wallpapers</h4>
 
 <div class="ngg-widget entry-content">
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-wallpapers/thumbs/thumbs_iphone-3g-iphone-3gs-wallpapers-200.png" width="80" height="120" title="iphone-3g-iphone-3gs-wallpapers-200" alt="iphone-3g-iphone-3gs-wallpapers-200"></a>
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-wallpapers/thumbs/thumbs_iphone-3g-iphone-3gs-wallpapers-199.png" width="80" height="120" title="iphone-3g-iphone-3gs-wallpapers-199" alt="iphone-3g-iphone-3gs-wallpapers-199"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-wallpapers/iphone-3g-iphone-3gs-wallpapers-795.jpg" title="" class="shutterset_ngg-images-12"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-wallpapers/thumbs/thumbs_iphone-3g-iphone-3gs-wallpapers-795.jpg" width="75" height="100" title="iphone-3g-iphone-3gs-wallpapers-795" alt="iphone-3g-iphone-3gs-wallpapers-795"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-wallpapers/iphone-3g-iphone-3gs-wallpapers-792.jpg" title="" class="shutterset_ngg-images-12"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-wallpapers/thumbs/thumbs_iphone-3g-iphone-3gs-wallpapers-792.jpg" width="75" height="100" title="iphone-3g-iphone-3gs-wallpapers-792" alt="iphone-3g-iphone-3gs-wallpapers-792"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-wallpapers/iphone-3g-iphone-3gs-wallpapers-664.jpg" title="" class="shutterset_ngg-images-12"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-wallpapers/thumbs/thumbs_iphone-3g-iphone-3gs-wallpapers-664.jpg" width="75" height="100" title="iphone-3g-iphone-3gs-wallpapers-664" alt="iphone-3g-iphone-3gs-wallpapers-664"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-wallpapers/iphone-3g-iphone-3gs-wallpapers-662.jpg" title="" class="shutterset_ngg-images-12"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-wallpapers/thumbs/thumbs_iphone-3g-iphone-3gs-wallpapers-662.jpg" width="75" height="100" title="iphone-3g-iphone-3gs-wallpapers-662" alt="iphone-3g-iphone-3gs-wallpapers-662"></a>
+</div>
 </div>
 </li>
 <li id="text-511170986" class="widget widget_text">			<div class="textwidget"><p style="text-align: center;">(Apple iPhone 2G/3G/3GS and iPod Touch etc.)</p>
 <p style="text-align: center;"><a href="http://dailyiphoneblog.com/iphone-wallpapers/" class="external" target="_blank"><strong><strong>Visit the wallpaper section</strong></strong></a></p></div>
 		</li>
-<li id="ngg-images-7" class="widget ngg_images"><h4 class="widgettitle">Latest 640x960 Wallpapers</h4>
+<li id="ngg-images-13" class="widget ngg_images">
+<div class="hslice" id="ngg-webslice">
+<h4 class="entry-title widgettitle">Apple iPhone 4/4S</h4>
 
 <div class="ngg-widget entry-content">
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-4-wallpapers/thumbs/thumbs_iphone-5-wallpapers-23.jpg" width="80" height="120" title="iphone-5-wallpapers-23" alt="iphone-5-wallpapers-23"></a>
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-4-wallpapers/thumbs/thumbs_iphone-5-wallpapers-22.jpg" width="80" height="120" title="iphone-5-wallpapers-22" alt="iphone-5-wallpapers-22"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-4-wallpapers/iphone-4-iphone-4s-wallpapers-369.jpg" title="" class="shutterset_ngg-images-13"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-4-wallpapers/thumbs/thumbs_iphone-4-iphone-4s-wallpapers-369.jpg" width="75" height="100" title="iphone-4-iphone-4s-wallpapers-369" alt="iphone-4-iphone-4s-wallpapers-369"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-4-wallpapers/iphone-4-iphone-4s-wallpapers-368.jpg" title="" class="shutterset_ngg-images-13"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-4-wallpapers/thumbs/thumbs_iphone-4-iphone-4s-wallpapers-368.jpg" width="75" height="100" title="iphone-4-iphone-4s-wallpapers-368" alt="iphone-4-iphone-4s-wallpapers-368"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-4-wallpapers/iphone-4-iphone-4s-wallpapers-87.jpg" title="" class="shutterset_ngg-images-13"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-4-wallpapers/thumbs/thumbs_iphone-4-iphone-4s-wallpapers-87.jpg" width="75" height="100" title="iphone-4-iphone-4s-wallpapers-87" alt="iphone-4-iphone-4s-wallpapers-87"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-4-wallpapers/iphone-4-iphone-4s-wallpapers-82.jpg" title="" class="shutterset_ngg-images-13"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/iphone-4-wallpapers/thumbs/thumbs_iphone-4-iphone-4s-wallpapers-82.jpg" width="75" height="100" title="iphone-4-iphone-4s-wallpapers-82" alt="iphone-4-iphone-4s-wallpapers-82"></a>
+</div>
 </div>
 </li>
 <li id="text-511170997" class="widget widget_text">			<div class="textwidget"><p style="text-align: center;">(Apple iPhone 4 and iPod Touch 4G etc.)</p>
 <p style="text-align: center;"><a href="http://dailyiphoneblog.com/iphone-4-wallpapers/" class="external" target="_blank"><strong><strong>Visit the wallpaper section</strong></strong></a></p></div>
 		</li>
+<li id="text-511171008" class="widget widget_text"><h4 class="widgettitle">new iPad Wallpapers</h4>
+			<div class="textwidget"><p style="text-align: center;"><a href="http://dailyiphoneblog.com/new-ipad-wallpapers/" class="external" target="_blank"><img class="aligncenter size-full wp-image-56006" title="new iPad Wallpapers" src="http://dailymobile.se/wp-content/uploads/2012/03/new-ipad-hand.jpg" alt="iPad Wallpapers" width="157" height="116"></a></p>
+<p style="text-align: center;">Click <a href="http://dailyiphoneblog.com/new-ipad-wallpapers/" class="external" target="_blank">here </a>for the latest new iPad Wallpapers (2048x2048)</p></div>
+		</li>
 <li id="text-511170994" class="widget widget_text"><h4 class="widgettitle">iPad / iPad 2 Wallpapers</h4>
 			<div class="textwidget"><p style="text-align: center;"><a href="http://dailyiphoneblog.com/ipad-wallpapers/" class="external" target="_blank"><img class="aligncenter size-full wp-image-56006" title="iPad Wallpapers" src="http://images.dailymobile.se/wp-content/uploads/2010/05/ipad-wallpaper1.jpg" alt="iPad Wallpapers" width="157" height="116"></a></p>
 <p style="text-align: center;">Click <a href="http://dailyiphoneblog.com/ipad-2-wallpapers/" class="external" target="_blank">here </a>for the latest iPad / iPad 2 Wallpapers (1024x1024)</p></div>
 		</li>
-<li id="ngg-images-4" class="widget ngg_images"><h4 class="widgettitle">Latest 800x480 Wallpapers</h4>
+<li id="ngg-images-5" class="widget ngg_images">
+<div class="hslice" id="ngg-webslice">
+<h4 class="entry-title widgettitle">Nokia N900 Wallpapers  800×480</h4>
 
 <div class="ngg-widget entry-content">
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-n900-wallpapers/thumbs/thumbs_Thunder_Cat.jpg" width="170" height="102" title="Thunder_Cat" alt="Thunder_Cat"></a>
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-n900-wallpapers/thumbs/thumbs_Space.jpg" width="170" height="102" title="Space" alt="Space"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-n900-wallpapers/nokia-n900-800x480-wallpaper-526.jpg" title="" class="shutterset_ngg-images-5"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-n900-wallpapers/thumbs/thumbs_nokia-n900-800x480-wallpaper-526.jpg" width="150" height="100" title="nokia-n900-800x480-wallpaper-526" alt="nokia-n900-800x480-wallpaper-526"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-n900-wallpapers/nokia-n900-800x480-wallpaper-525.jpg" title="" class="shutterset_ngg-images-5"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/nokia-n900-wallpapers/thumbs/thumbs_nokia-n900-800x480-wallpaper-525.jpg" width="150" height="100" title="nokia-n900-800x480-wallpaper-525" alt="nokia-n900-800x480-wallpaper-525"></a>
+</div>
 </div>
 </li>
 <li id="text-511170987" class="widget widget_text">			<div class="textwidget"><p style="text-align: center;">(Nokia N900 etc)</p>
 <p style="text-align: center;"><a href="http://dailymobile.se/2010/01/01/nokia-n900-wallpaper-gallery-800x480/"><strong><strong>Visit the wallpaper section</strong></strong></a></p></div>
 		</li>
-<li id="ngg-images-5" class="widget ngg_images"><h4 class="widgettitle">Latest 240x320 Wallpapers</h4>
+<li id="ngg-images-6" class="widget ngg_images">
+<div class="hslice" id="ngg-webslice">
+<h4 class="entry-title widgettitle">Nokia Wallpapers 240×320 </h4>
 
 <div class="ngg-widget entry-content">
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/mobile-wallpapers-240x340/thumbs/thumbs_Lluminated.jpg" width="80" height="106" title="Lluminated" alt="Lluminated"></a>
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/mobile-wallpapers-240x340/thumbs/thumbs_Flowers.jpg" width="80" height="106" title="Flowers" alt="Flowers"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/mobile-wallpapers-240x340/sony-ericsson-240x320-wallpaper-529.jpg" title="" class="shutterset_ngg-images-6"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/mobile-wallpapers-240x340/thumbs/thumbs_sony-ericsson-240x320-wallpaper-529.jpg" width="75" height="100" title="sony-ericsson-240x320-wallpaper-529" alt="sony-ericsson-240x320-wallpaper-529"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/mobile-wallpapers-240x340/sony-ericsson-240x320-wallpaper-528.jpg" title="" class="shutterset_ngg-images-6"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/mobile-wallpapers-240x340/thumbs/thumbs_sony-ericsson-240x320-wallpaper-528.jpg" width="75" height="100" title="sony-ericsson-240x320-wallpaper-528" alt="sony-ericsson-240x320-wallpaper-528"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/mobile-wallpapers-240x340/sony-ericsson-240x320-wallpaper-527.jpg" title="" class="shutterset_ngg-images-6"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/mobile-wallpapers-240x340/thumbs/thumbs_sony-ericsson-240x320-wallpaper-527.jpg" width="75" height="100" title="sony-ericsson-240x320-wallpaper-527" alt="sony-ericsson-240x320-wallpaper-527"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/mobile-wallpapers-240x340/sony-ericsson-240x320-wallpaper-526.jpg" title="" class="shutterset_ngg-images-6"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/mobile-wallpapers-240x340/thumbs/thumbs_sony-ericsson-240x320-wallpaper-526.jpg" width="75" height="100" title="sony-ericsson-240x320-wallpaper-526" alt="sony-ericsson-240x320-wallpaper-526"></a>
+</div>
 </div>
 </li>
 <li id="text-511170988" class="widget widget_text">			<div class="textwidget"><p style="text-align: center;">(Sony Ericsson / LG / Samsung / HTC / Nokia (N78, N79, N82, N85, N86, N95, N96 etc) Sony Ericsson X10 Mini / Pro etc)</p>
 <p style="text-align: center;"><a href="http://dailymobile.se/2010/01/02/mobile-wallpaper-gallery-240x320/"><strong><strong>Visit the wallpaper section</strong></strong></a></p></div>
 		</li>
-<li id="ngg-images-6" class="widget ngg_images"><h4 class="widgettitle">Latest 320x240 landscape wallpapers</h4>
+<li id="ngg-images-7" class="widget ngg_images">
+<div class="hslice" id="ngg-webslice">
+<h4 class="entry-title widgettitle">Nokia 320×240 Landscape Wallpapers</h4>
 
 <div class="ngg-widget entry-content">
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/landscape-wallpapers-320x240/thumbs/thumbs_Looneytunes.jpg" width="170" height="128" title="Looneytunes" alt="Looneytunes"></a>
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/landscape-wallpapers-320x240/thumbs/thumbs_Gone_Nuclear.jpg" width="170" height="128" title="Gone_Nuclear" alt="Gone_Nuclear"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/landscape-wallpapers-320x240/nokia-320x240-wallpaper-530.jpg" title="" class="shutterset_ngg-images-7"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/landscape-wallpapers-320x240/thumbs/thumbs_nokia-320x240-wallpaper-530.jpg" width="150" height="100" title="nokia-320x240-wallpaper-530" alt="nokia-320x240-wallpaper-530"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/landscape-wallpapers-320x240/nokia-320x240-wallpaper-529.jpg" title="" class="shutterset_ngg-images-7"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/landscape-wallpapers-320x240/thumbs/thumbs_nokia-320x240-wallpaper-529.jpg" width="150" height="100" title="nokia-320x240-wallpaper-529" alt="nokia-320x240-wallpaper-529"></a>
+</div>
 </div>
 </li>
 <li id="text-511170990" class="widget widget_text">			<div class="textwidget"><p style="text-align: center;">(Landscape Wallpapers - Nokia E61, E63, E66, E71, E72 etc.</p>
 <p style="text-align: center;"><a href="http://dailymobile.se/2010/01/03/landscape-mobile-wallpapers-320%C3%97240/"><strong><strong>Visit the wallpaper section</strong></strong></a></p></div>
 		</li>
-<li id="ngg-images-9" class="widget ngg_images"><h4 class="widgettitle">Latest 960x854 Wallpapers</h4>
+<li id="ngg-images-8" class="widget ngg_images">
+<div class="hslice" id="ngg-webslice">
+<h4 class="entry-title widgettitle">Android Wallpapers 960×854 </h4>
 
 <div class="ngg-widget entry-content">
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x854-wallpapers/thumbs/thumbs_Smiling_Jacks.jpg" width="175" height="156" title="Smiling_Jacks" alt="Smiling_Jacks"></a>
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x854-wallpapers/thumbs/thumbs_Skyline_Gtr35.jpg" width="175" height="156" title="Skyline_Gtr35" alt="Skyline_Gtr35"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x854-wallpapers/android-960x854-wallpaper-527.jpg" title="" class="shutterset_ngg-images-8"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x854-wallpapers/thumbs/thumbs_android-960x854-wallpaper-527.jpg" width="75" height="100" title="android-960x854-wallpaper-527" alt="android-960x854-wallpaper-527"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x854-wallpapers/android-960x854-wallpaper-526.jpg" title="" class="shutterset_ngg-images-8"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x854-wallpapers/thumbs/thumbs_android-960x854-wallpaper-526.jpg" width="75" height="100" title="android-960x854-wallpaper-526" alt="android-960x854-wallpaper-526"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x854-wallpapers/android-960x854-wallpaper-525.jpg" title="" class="shutterset_ngg-images-8"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x854-wallpapers/thumbs/thumbs_android-960x854-wallpaper-525.jpg" width="75" height="100" title="android-960x854-wallpaper-525" alt="android-960x854-wallpaper-525"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x854-wallpapers/android-960x854-wallpaper-524.jpg" title="" class="shutterset_ngg-images-8"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x854-wallpapers/thumbs/thumbs_android-960x854-wallpaper-524.jpg" width="75" height="100" title="android-960x854-wallpaper-524" alt="android-960x854-wallpaper-524"></a>
+</div>
 </div>
 </li>
 <li id="text-511170999" class="widget widget_text">			<div class="textwidget"><p style="text-align: center;">High-end Android devices such as the Motorola Droid X, Droid, Droid 2, Sonyericsson X10, Nexus One etc.</p>
 <p style="text-align: center;"><a href="http://dailymobile.se/2010/07/14/android-wallpapers-960x854/"><strong><strong>Visit the wallpaper section</strong></strong></a></p></div>
 		</li>
-<li id="ngg-images-10" class="widget ngg_images"><h4 class="widgettitle">Latest 960x800 Wallpapers</h4>
+<li id="ngg-images-9" class="widget ngg_images">
+<div class="hslice" id="ngg-webslice">
+<h4 class="entry-title widgettitle">Android Wallpapers 960×800</h4>
 
 <div class="ngg-widget entry-content">
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x800-wallpapers/thumbs/thumbs_Untitled.jpg" width="170" height="142" title="Untitled" alt="Untitled"></a>
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x800-wallpapers/thumbs/thumbs_Halloween_Tree.jpg" width="170" height="142" title="Halloween_Tree" alt="Halloween_Tree"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x800-wallpapers/android-960x800-wallpaper-526.jpg" title="" class="shutterset_ngg-images-9"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x800-wallpapers/thumbs/thumbs_android-960x800-wallpaper-526.jpg" width="75" height="100" title="android-960x800-wallpaper-526" alt="android-960x800-wallpaper-526"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x800-wallpapers/android-960x800-wallpaper-525.jpg" title="" class="shutterset_ngg-images-9"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x800-wallpapers/thumbs/thumbs_android-960x800-wallpaper-525.jpg" width="75" height="100" title="android-960x800-wallpaper-525" alt="android-960x800-wallpaper-525"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x800-wallpapers/android-960x800-wallpaper-524.jpg" title="" class="shutterset_ngg-images-9"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x800-wallpapers/thumbs/thumbs_android-960x800-wallpaper-524.jpg" width="75" height="100" title="android-960x800-wallpaper-524" alt="android-960x800-wallpaper-524"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x800-wallpapers/android-960x800-wallpaper-523.jpg" title="" class="shutterset_ngg-images-9"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-960x800-wallpapers/thumbs/thumbs_android-960x800-wallpaper-523.jpg" width="75" height="100" title="android-960x800-wallpaper-523" alt="android-960x800-wallpaper-523"></a>
+</div>
 </div>
 </li>
 <li id="text-511171000" class="widget widget_text">			<div class="textwidget"><p style="text-align: center;">High-end Android devices such as the Nexus One, T-Mobile G2, HTC Desire, HTC Desire HD, HTC Desire Z, Motorola Droid Incredible, Acer Liquid, Samsung Galaxy S etc.</p>
 <p style="text-align: center;"><a href="http://dailymobile.se/2010/07/15/android-wallpapers-960x800/"><strong><strong>Visit the wallpaper section</strong></strong></a></p></div>
 		</li>
-<li id="ngg-images-8" class="widget ngg_images"><h4 class="widgettitle">Latest 640x480 Wallpapers</h4>
+<li id="ngg-images-10" class="widget ngg_images">
+<div class="hslice" id="ngg-webslice">
+<h4 class="entry-title widgettitle">Android Wallpapers 640×480</h4>
 
 <div class="ngg-widget entry-content">
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-640x480-wallpapers/thumbs/thumbs_Star_Wars.jpg" width="170" height="128" title="Star_Wars" alt="Star_Wars"></a>
-<a href="#" style="cursor:default;" onclick="return false;"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-640x480-wallpapers/thumbs/thumbs_Music.jpg" width="170" height="128" title="Music" alt="Music"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/android-640x480-wallpapers/android-640x480-wallpaper-531.jpg" title="" class="shutterset_ngg-images-10"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-640x480-wallpapers/thumbs/thumbs_android-640x480-wallpaper-531.jpg" width="150" height="100" title="android-640x480-wallpaper-531" alt="android-640x480-wallpaper-531"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/android-640x480-wallpapers/android-640x480-wallpaper-530.jpg" title="" class="shutterset_ngg-images-10"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/android-640x480-wallpapers/thumbs/thumbs_android-640x480-wallpaper-530.jpg" width="150" height="100" title="android-640x480-wallpaper-530" alt="android-640x480-wallpaper-530"></a>
+</div>
 </div>
 </li>
 <li id="text-511170998" class="widget widget_text">			<div class="textwidget"><p style="text-align: center;">First and second generation HTC products such as the HTC Hero, G1, Aria, Legend, G2 Magic, Aria, G1, Droid Eris etc, Mostly Android devices.</p>
 <p style="text-align: center;"><a href="http://dailymobile.se/2009/03/20/android-wallpapers-640x480-section/"><strong><strong>Visit the wallpaper section</strong></strong></a></p></div>
+		</li>
+<li id="ngg-images-11" class="widget ngg_images">
+<div class="hslice" id="ngg-webslice">
+<h4 class="entry-title widgettitle"> Windows Phone Wallpapers 480×800</h4>
+
+<div class="ngg-widget entry-content">
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/windows-phone-480x800-wallpaper/windows-phone-480x800-wallpaper-528.jpg" title="" class="shutterset_ngg-images-11"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/windows-phone-480x800-wallpaper/thumbs/thumbs_windows-phone-480x800-wallpaper-528.jpg" width="75" height="100" title="windows-phone-480x800-wallpaper-528" alt="windows-phone-480x800-wallpaper-528"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/windows-phone-480x800-wallpaper/windows-phone-480x800-wallpaper-527.jpg" title="" class="shutterset_ngg-images-11"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/windows-phone-480x800-wallpaper/thumbs/thumbs_windows-phone-480x800-wallpaper-527.jpg" width="75" height="100" title="windows-phone-480x800-wallpaper-527" alt="windows-phone-480x800-wallpaper-527"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/windows-phone-480x800-wallpaper/windows-phone-480x800-wallpaper-526.jpg" title="" class="shutterset_ngg-images-11"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/windows-phone-480x800-wallpaper/thumbs/thumbs_windows-phone-480x800-wallpaper-526.jpg" width="75" height="100" title="windows-phone-480x800-wallpaper-526" alt="windows-phone-480x800-wallpaper-526"></a>
+<a href="http://dailymobile.se/wp-content/uploads/wallpapers/windows-phone-480x800-wallpaper/windows-phone-480x800-wallpaper-525.jpg" title="" class="shutterset_ngg-images-11"><img src="http://dailymobile.se/wp-content/uploads/wallpapers/windows-phone-480x800-wallpaper/thumbs/thumbs_windows-phone-480x800-wallpaper-525.jpg" width="75" height="100" title="windows-phone-480x800-wallpaper-525" alt="windows-phone-480x800-wallpaper-525"></a>
+</div>
+</div>
+</li>
+<li id="text-511171007" class="widget widget_text">			<div class="textwidget"><p style="text-align: center;">Windows Phone 7 Devices including the Nokia Lumia 900, Nokia Lumia 800, Nokia Lumia 710, HTC 7 Surround, Samsung Focus, LG Optimus 7,LG Optimus Quantum, HTC TITAN, HTC TITAN II, HTC Arrive, HTC Radar, HTC Trophy, HTC 7 Pro.</p>
+<p style="text-align: center;"><a href="http://dailymobile.se/2010/01/17/480x800-windows-phone-wallpapers/"><strong><strong>Visit the wallpaper section</strong></strong></a></p></div>
 		</li>
 <li id="text-511171005" class="widget widget_text">			<div class="textwidget"><link rel="stylesheet" type="text/css" href="http://cache.blogads.com/639880261/feed.css">
 <script language="javascript" src="http://cache.blogads.com/639880261/feed.js"></script>
@@ -752,7 +923,7 @@ document.write('<script type="text/javascript" src="http://ad5.netshelter.net/ad
 	</td>
 </tr>
 </tbody></table>
-</div>
+</center></div>
 
 
 
@@ -819,6 +990,7 @@ var SHRSB_Globals = {
 		
 		jQuery('p:has(.dropcap)').append('<br class="clear"/>');
 
+		jQuery('.commentlist p a').each(function() { if (jQuery(this).width() > 455) jQuery(this).text('link'); });
 
 		jQuery('#content').css({verticalAlign:'top'});
 		window.onLoad = function() { jQuery('#content').css({verticalAlign:'top'}); }
@@ -829,7 +1001,7 @@ var SHRSB_Globals = {
 				if (ul.hasClass('sliding')) return;
 				a  = jQuery(this).find('a' );
 				y = a.position().top + a.height();
-				x = a.position().left + a.width() - ul.width();
+				x = a.position().left + a.width() / 2 - ul.width() / 2;
 				jQuery(this)
 					.find('ul')
 					.css({left:x, top:y})
@@ -861,20 +1033,19 @@ var SHRSB_Globals = {
 });
 // ]]> -->
 </script>
-<a href="http://dailymobile.se/feed/"><img class="alignnone size-medium wp-image-2380" title="feed-icon" src="http://images.dailymobile.se/wp-content/uploads/2008/08/feed-icon.gif" alt="" width="16" height="16" align="middle"></a>
-
-<a href="http://www.bloggportalen.se" target="_blank" class="external"><img src="http://bloggportalen.aftonbladet.se/BlogPortal/view/Statistics?id=115835" align="middle"></a>
+<!--<a  href="http://www.bloggportalen.se" target="_blank" class="external"><img src="http://bloggportalen.aftonbladet.se/BlogPortal/view/Statistics?id=115835" align="middle" /></a>-->
 
 <script type="text/javascript">var tsId=207937;</script>
 
 <iframe src="http://www.dailymobile.se/wp-mail.php" name="mailiframe" width="0" height="0" frameborder="0" scrolling="no" title=""></iframe>
-<p style="text-align: center;"><strong><a href="http://dailymobile.se/wp-login.php">[ Admin Login ]</a> - <a href="http://dailymobile.se/sitemap.xml">Sitemap</a>
+ <p style="text-align: center;"><strong><a href="http://dailymobile.se/wp-login.php">[ Admin Login ]</a> | <a href="http://dailymobile.se/sitemap.xml">Sitemap</a> | 
  - 
 
-<a href="http://dailymobile.se/2010/01/01/privacy-statement/">Privacy Statement</a>
+<a href="http://dailymobile.se/2010/01/01/privacy-statement/">Privacy Statement</a> | <a href="http://dailymobile.se/feed/"><img class="alignnone size-medium wp-image-2380" title="feed-icon" src="http://images.dailymobile.se/wp-content/uploads/2008/08/feed-icon.gif" alt="" width="16" height="16" align="middle"></a> | © Copyright MAS Media Inc.
+
 <br>
 
-</strong></p><p style="text-align: center;"><strong>Monitored by <a href="http://pingdom.com/" target="_blank" class="external">Pingdom.com</a> - Be the first to know when your site is down - Stats by <a href="http://whos.amung.us/" class="external" target="_blank">whos.amung.us</a><br>
+<!--<p style="text-align: center;">Monitored by <a  href="http://pingdom.com/" target="_blank" class="external">Pingdom.com</a> - Be the first to know when your site is down - Stats by <a  href="http://whos.amung.us/" class="external" target="_blank">whos.amung.us</a><br>-->
 
 
 
@@ -910,8 +1081,16 @@ var SHRSB_Globals = {
 
 
 
+
+
 <script type="text/javascript" src="http://s.skimresources.com/js/22572X810896.skimlinks.js"></script>
 
+<!-- DM-WS-640x480 -->
+<div id="div-gpt-ad-1337377897228-0" style="width:640px; height:480px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1337377897228-0'); });
+</script>
+</div>
 
 
 </div></strong></div></body></html>
