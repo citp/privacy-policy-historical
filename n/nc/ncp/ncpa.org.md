@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncpa.org privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223004322id_/http%3A//www.ncpa.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncpa.org privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621025721id_/http%3A//www.ncpa.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for NCPA Websites | National Center for Policy Analysis | NCPA
 
