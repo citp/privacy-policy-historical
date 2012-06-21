@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the policybazaar.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219044723id_/http%3A//www.policybazaar.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policybazaar.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621052657id_/http%3A//www.policybazaar.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – Compare Health Insurance Online, Insurance Broker India
 
@@ -55,5 +55,4 @@ Visitors to this website/portal and every third party is hereby informed that th
 |   
 ---  
   
-Powered By Achyut Insurance Brokers (India) Pvt. Ltd. IRDA License no. 274, License Code DB-191/03. All rights reserved.  
-Insurance is the subject matter of solicitation.
+Insurance is the subject matter of solicitation. 
