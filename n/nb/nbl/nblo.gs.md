@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nblo.gs privacy policy that was archived on 2011-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111003171007id_/http%3A//w.networkedblogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nblo.gs privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621042103id_/http%3A//www.networkedblogs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NetworkedBlogs by Ninua
 
@@ -42,7 +42,7 @@ NetworkedBlogs provides blogging-enthusiasts a forum to connect with their reade
 
 ## Other
 
-  * When you use NetworkedBlogs, you are subject to the [NetworkedBlogs Terms of Service](https://web.archive.org/tos/).
+  * When you use NetworkedBlogs, you are subject to the [NetworkedBlogs Terms of Service](https://web.archive.org/tos).
   * Please refer to the NetworkedBlogs Help if you have questions about this service.
 
 
