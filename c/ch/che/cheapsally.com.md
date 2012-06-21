@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapsally.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222190456id_/http%3A//www.cheapsally.com/contact-us/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapsally.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621084051id_/http%3A//www.cheapsally.com/contact-us/%23privacy-policy) for the most accurate reproduction.*
 
 # Contact Us
 
@@ -10,11 +10,11 @@ Las Vegas, NV 89121
 
 ## Sally wants everyone to play nice!
 
- **Acceptance of Terms:**
+**Acceptance of Terms:**
 
 By using CheapSally.com in any way you are agreeing to comply with the terms listed below. CheapSally.com reserves the right to update the terms and conditions at any time at their discretion. CheapSally.com users are encouraged to check this page regularly to view updated terms. To use CheapSally.com, you must be legally competent to enter a binding agreement.
 
- **Terms & Conditions:**
+**Terms & Conditions:**
 
 You accept to waive any claim related to the inclusion, placement, exclusion, or removal of any [coupon code](http://www.cheapsally.com/coupons/) details in the CheapSally.com.com directory and to grant CheapSally.com a non-exclusive, royalty-free license to use, publish, copy, edit, modify, or create derivative works from your submission.
 
@@ -26,7 +26,7 @@ CheapSally.com may also allow advertisers and other third parties to place cooki
 
 We are not responsible for any failure to remove or delay in removing harmful, inaccurate, unlawful, or otherwise objectionable content on CheapSally.com originating with or otherwise provided by third parties.
 
-CheapSally.com and its associated merchants are not responsible for the accuracy of user submitted content.
+CheapSally.com and its associated merchants are not responsible for the accuracy of user submitted content or for inaccurate coupons or coupons that aren’t working. Coupons are rated on a scale of 0-100% confidence. We verify certain coupons that work, when we do, we update the confidence level to 100%
 
 We provide links to other World Wide Web sites or resources. We do not control these sites and resources, do not endorse them, and are not responsible for any aspects of those sites, including their availability, content, accuracy, legality or delivery of services. You waive any claim resulting from your exposure to material on or through CheapSally.com that is offensive, indecent, or otherwise objectionable. You must be at least 18 to view the adult-oriented sites listed with CheapSally.com.
 
@@ -36,7 +36,7 @@ Use of this website for any purpose other than private, non-commercial purposes 
 
 Some links on this website are redirected to advertiser websites via internal and external tracking systems.
 
- **Copyright:**
+**Copyright:**
 
 The term “copyright” protects rights to the intellectual property created and published online at CheapSally.com. It includes visual design, layout, code and processes. No person or organization may use or reproduce in any form any part of CheapSally.com without prior written consent. This prohibition applies to unauthorized uses or reproduction for public or private use.
 
@@ -44,7 +44,7 @@ CheapSally.com does not permit reproduction, transmission, or storage of content
 
 CheapSally.com™ is a trademark of Cheap Sally, LLC.
 
- **Advertisers/[Retailers](http://www.cheapsally.com/retailers/):**
+**Advertisers/[Retailers](http://www.cheapsally.com/retailers/):**
 
 Advertisers may contact us at anytime to remove or eliminate certain [coupons](http://www.cheapsally.com/coupons/) or content. Please send an email to contact@CheapSally.com.
 
@@ -52,13 +52,13 @@ Advertisers may contact us at anytime to remove or eliminate certain [coupons](h
 
 Cheap Sally, LLC, respects our visitors’ right to privacy online. We hold your information in confidence.
 
- **Asking for your Information**
+**Asking for your Information**
 
 We will sometimes ask you for personal information such as your name, address, e-mail and other details. By providing your information to us, we can deliver the most relevant information to you only when you have requested to hear about it.
 
 When we ask for personal information for any reason, we will provide a link to this policy statement to make our intentions clear.
 
- **Personal Privacy Information**
+**Personal Privacy Information**
 
 Cheap Sally, LLC, will take all appropriate steps to keep your personal information confidential. Those steps include limiting access to visitor information databases, communicating this policy statement to all employees and establishing and enforcing penalties for violating this statement.
 
@@ -70,14 +70,14 @@ Cheap Sally, LLC, may team with others to provide our visitors with enhanced Int
 
 In addition, we may provide links to sites that operate under different privacy practices. We encourage our visitors to review the privacy policies of such sites before providing any personal information. Although we cannot control the use of information provided to such third parties, we will try to link only to those sites that have suitable privacy policies.
 
- **Security**
+**Security**
 
 To protect your personal information, we store your information in a secure area. Access to such information is strictly monitored.
 
- **Cookies**
+**Cookies**
 
 We currently use “cookies” on our site. Our cookies tag each visitor’s browser with a random, unique number. The cookie simply assigns a number and does not disclose any personal information about the person using the browser. By noting where these uniquely numbered browsers go on our site, we can study traffic patterns and improve our site.
 
- **Contact Us**
+**Contact Us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or the information you have submitted, please contact us at contact@cheapsally.com
