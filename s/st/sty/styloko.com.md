@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the styloko.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155236id_/http%3A//www.styloko.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styloko.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621211236id_/http%3A//www.styloko.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Statement
 
 Styloko takes privacy extremely seriously. This Privacy Policy describes how we treat and use the information we collect when you use Styloko.com or sign-up for our newsletters. 
 
