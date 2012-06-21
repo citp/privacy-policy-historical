@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sisweb.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221205315id_/http%3A//www.sisweb.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sisweb.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621062044id_/http%3A//www.sisweb.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,24 +10,23 @@ We collect information from you when you register on our site, place an order, s
 
 Any data we request that is not required will be specified as voluntary or optional. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information, organization name, or billing information. You may, however, visit our site anonymously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address, phone number, credit card information, organization name, or billing information. You may, however, visit our site anonymously.
 
  **What do we use your information for?**
+
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
 Any of the information we collect from you may be used in one of the following ways: 
 
   * To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
+The email address and/or phone you provide for order processing may be used to send you information and updates pertaining to your order or request.  
+
   * To personalize your experience  
-(your information helps us to better respond to your individual needs) 
-  * To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
-  * To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
-  * To send emails  
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order or request.  
-If you decide to opt-in to our mailing list, you will receive periodic emails that may include company news, updates, related product or service information, etc.  
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+Your information helps us to better respond to your individual needs. 
+  * To improve our customer service and web site  
+Your information helps us to more effectively respond to your customer service requests and support needs. We continually strive to improve our website offerings based on the information and feedback we receive from you. 
+  * To send you our corporate newsletter or literature  
+Upon submitting our mailing list update form or placing an order, you may also be subscribed to our corporate e-mail newsletter "S.I.S. Mass Spec Source" (distributed at most once, sometimes twice, a month), but you can unsubscribe to this at any time by clicking the "Unsubscribe" link in the e-mail. At times we have also done print mailings, and at any time you can request or unrequest our print catalog and other printed product literature, or change your address and contact information, via our [mailing list update form](https://web.archive.org/maillist.htm). 
 
 
 
@@ -43,7 +42,7 @@ After a transaction, your private information (credit cards, social security num
 
  **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
  **Do we disclose any information to outside parties?**
 
@@ -83,7 +82,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-This policy was last modified on **April 16, 2010**.
+This policy was last modified on **June 13, 2012**.
 
  **Contacting Us**
 
