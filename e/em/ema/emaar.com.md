@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emaar.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211134932id_/http%3A//www.emaar.com/index.aspx%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emaar.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621122241id_/http%3A//www.emaar.com/index.aspx%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy PolicyEmaar
 
@@ -6,7 +6,7 @@ Emaar Properties PJSC and its subsidiaries and affiliated companies (hereinafter
 
 We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information. 
 
-You should read this notice in conjunction with the [Terms and Conditions](https://web.archive.org/web/20111211134932id_/http%3A//www.emaar.com/index.aspx?page=termandconditions) of use for the Site. 
+You should read this notice in conjunction with the [Terms and Conditions](https://web.archive.org/web/20120621122241id_/http%3A//www.emaar.com/index.aspx?page=termandconditions) of use for the Site. 
 
  ** _Acceptance_**
 
