@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wholesale-dress.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102120448id_/http%3A//www.wholesale-dress.net/privacy-policy-a614.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesale-dress.net privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621075659id_/http%3A//www.wholesale-dress.net/privacy-policy-a614.html) for the most accurate reproduction.*
 
-# Privacy policy_Security & privacy_Wholesale, wholesale fashion clothing, wholesale lots of cheap clothing.
+# Wholesale article
 
 Wholesale-dress.net respects your privacy and secures your online safety seriously. In order to provide you with the best products, efficient customer service, and fast updates, we record a variety of information from your visit to our site. To better protect your privacy, we’d like to explain our online information practices and the way your information is collected and used.
 
-**Wholesale-dress.net Privacy Policy**
+ **Wholesale-dress.net Privacy Policy**
 
 Thank you for accessing the website of Wholesale City Co., Ltd. (site address: <http://www.wholesale-dress.net/>). We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice.
 
