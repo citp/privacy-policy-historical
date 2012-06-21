@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gla.ac.uk privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112233916id_/http%3A//www.gla.ac.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gla.ac.uk privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621235852id_/http%3A//www.gla.ac.uk/legal/privacy) for the most accurate reproduction.*
 
 # University of Glasgow :: Legal statements :: Privacy
 
@@ -26,7 +26,7 @@ The University's website does not automatically capture or store personal data f
 
 Cookies are small text files passed to your computer by the web server via your browser, and may be used to collect information to help identify you and prepare customised pages for you. Cookies may remain on your computer either for the duration of the session or indefinitely. You can configure most standard web browsers to refuse cookies. 
 
-The University makes use of Google Analytics to produce statistics on website usage: which helps us to impove our site and the experience of our users. Google Analytics uses cookies in this process. 
+The University makes use of Google Analytics to produce anonymised statistics on website usage: which helps us to impove our site and the experience of our users. Google Analytics uses cookies in this process. 
 
 Information on cookies can be obtained from [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
