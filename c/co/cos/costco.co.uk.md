@@ -1,55 +1,29 @@
-> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110234829id_/http%3A//www.costco.co.uk/privacy_policy/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621073223id_/http%3A//www.costco.co.uk/privacy) for the most accurate reproduction.*
 
-# 
+# Costco UK - Join the Millions who are already saving!
 
-**Changes to this Statement**
+### Costco Wholesale UK Limited Privacy Statement  
+(United Kingdom) Last updated 25th May 2012 
 
-We reserve the right to change this privacy statement at any time, but will alert you that changes have been made by indicating at the top of the privacy statement the date it was last updated. We encourage you to review our privacy statement to make sure you understand how information you provide will be used. If there is ever a material change to how we use information you provide and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance.  
+####  This privacy statement (also referred to as Costco's Privacy Policy) explains our privacy practices for our   
+UK members, and UK foreign members who:  
+(1) shop in our United Kingdom warehouses or  
+(2) use our United Kingdom Web site, [www.costco.co.uk](http://www.costco.co.uk/)
 
-
-**Questions or Concerns**
-
-If you have any questions or concerns about this privacy statement or would like to contact us for any reason, you can do the following:  
-
-
-  * Visit us at any Membership desk at any UK Costco warehouse location;
-  * Call our Membership service representatives at 01923 830477;
-  * E-mail us at [memberservices@costco.co.uk](mailto:memberservices@costco.co.uk); or
-  * Write us at: Costco Wholesale UK Ltd., UK Home Office, Hartspring Lane, Watford, WD25 8JS
+#### Costco's Commitment to Privacy  
 
 
+We respect your right to privacy. Your ability to make informed choices about the uses of your information is important to us. This privacy statement explains our policy regarding the collection, use, disclosure and protection of personal information. The terms of this privacy statement apply to information collected from you, unless different terms are specified as part of a special offer, or in another form or contract we provide you and you consent to those terms by participating in the special offer or the program, or otherwise. The links below provide detailed information about our privacy practices:
 
-**Choice**
+#### What is Personal Information?
 
-We give you the opportunity to opt-out of receiving certain information or to request that certain information not be shared with third parties by giving you numerous methods to inform us of your decision. Your choice to opt-out will not apply to your spouse and any add-on members.
+Personal information is information that identifies an individual or is directly associated with a specific person or entity such as a member's name, address, telephone number, e-mail address, debit/credit card number, photograph, or information about activities which can be directly linked to that person, such as his or her purchases. Personal information also includes information such as your medical history. As a convenience to our members, we allow the primary cardholder to add his/her spouse or others to membership. In all circumstances, other than your choice to opt-out (see Choice below), reference in this policy statement to "you" or "your" also includes your spouse and the others added-on to your membership by you. Reference in this statement to "personal information" includes information provided by you, your spouse or others added-on. Please note that we may provide information about purchases made by additional cardholders to the primary cardholder. 
 
-If you do not want to receive Promotional Information (see Use of Personal Information by Costco) or information about Member Services, you can: (a) visit us at any Membership desk at any UK Costco warehouse location; (b) call our Membership service representatives at 01923 830477; (c) e-mail us at [memberservices@costco.co.uk](mailto:memberservices@costco.co.uk); or (d) write us at: Costco Wholesale UK Ltd., UK Home Office, Hartspring Lane, Watford, WD25 8JS.
+Our definition of personal information does not include "aggregate" information. Aggregate information is data we collect about a group or category of products, services or customers, from which individual customer identities have been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service, but no personal information will be included in the resulting data. Likewise, information about the products you purchase may be collected and combined with information about the products purchased by others. Aggregate data helps us understand trends and customer needs so that we can better consider new products and services, and tailor existing products and services to customer desires. 
 
-If you do not want to receive promotional e-mails, you can: (a) call our Membership service representatives at 01923 830477; (b) e-mail us at [memberservices@costco.co.uk](mailto:memberservices@costco.co.uk); or (c) write us at: Costco Wholesale UK Ltd., UK Home Office, Hartspring Lane, Watford, WD25 8JS
+#### Collection of Personal Information
 
-**Protection of Personal Information**
-
-We have put into place security measures in an effort to protect personal information from loss, misuse or alteration while it is under our control. Personal information we collect is stored electronically and may be combined with other membership information. We use technical, contractual, administrative and physical measures in an effort to protect against unauthorised access.
-
-**D. Sharing of Personal Information**
-
-We do not sell, rent, share or disclose personal information to third parties without your prior consent, except in the limited circumstances described below:  
-**  
-Order Fulfillment  
-**We may provide to a third party certain information that is necessary to fulfill an order you have placed with us. For example, if you pay by a debit card, your card number and sales transaction information are passed on to the card processor and/or issuer (including their service providers such as fraud verification services). However, we give vendors, suppliers, and others involved in the commerce distribution chain only the information needed to provide you the products or services you order, such as shipping and/or billing address, e-mail address, telephone number and product orders. Moreover, we require them to keep the information confidential and not to use it for other purposes. We are not responsible for any additional information you provide directly to these parties, and we encourage you to become familiar with their practices before disclosing information directly to them
-
- **Other Disclosures**  
-In addition, we may disclose personal information in the good faith belief that we are lawfully authorised to do so, or that doing so is reasonably necessary to comply with legal process or authorities, respond to any claims, or to protect the rights, property or personal safety of Costco Wholesale, our customers, our employees or the public. Information about our customers, including personal information, may be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets or acquisition
-
-**Use of Personal Information by Costco**
-
-The personal information we collect is generally used to process your requests or transactions, provide you with high-quality service, tell you about opportunities we think will be of interest, and understand your needs so that we can serve you better.   
-For example, we may use your telephone number, your e-mail or your postal address to : (1) alert you about product recalls or safety issues; or (2) communicate membership opportunities and programs. We also may use personal information we collect to provide you with promotional information, which is information we believe will add value to your membership, such as coupon savings booklets, promotions, or information about Member Services ("Promotional Information"). If you prefer not to receive Promotional Information from us, we make it easy for you to let us know. You can contact us at any time to decline Promotional Information (see Choice below).
-
-**Collection of Personal Information**
-
-We collect the personal information that you provide us, such as when you:  
-
+We collect the personal information that you provide us, such as when you:
 
   * sign up for or renew your Costco membership;
   * purchase products or services at our warehouse locations;
@@ -57,32 +31,76 @@ We collect the personal information that you provide us, such as when you:
 
 
 
-**What is Personal Information?**
+#### Use of Personal Information by Costco
 
-Personal information is information that identifies an individual or is directly associated with a specific person or entity such as a customer's name, address, telephone number, e-mail address, debit card number, or information about activities which can be directly linked to that person, such as his or her purchases. Personal information also includes information such as your medical history. As a convenience to our members, we allow the primary cardholder to add his/her spouse or others to membership. In all circumstances, other than your choice to opt-out (see Choice below), reference in this policy statement to "you" or "your" also includes your spouse and the others added-on to your membership by you. Reference in this statement to "information you provide" includes information provided by you, your spouse or others added on.
+The personal information we collect is generally used to process your requests or transactions, provide you with high-quality service, tell you about opportunities we think will be of interest, and understand your needs so that we can serve you better. For example, we may use your telephone number, your e-mail or your postal address to : (1) alert you about product recalls or safety issues; or (2) communicate membership opportunities and programmes. We also may use personal information we collect to provide you with promotional information, which is information we believe will add value to your membership, such as coupon savings booklets, promotions, or information about Member Services ("Promotional Information"). If you prefer not to receive Promotional Information from us, we make it easy for you to let us know. You can contact us at any time to decline Promotional Information (see Choice below). 
 
-Our definition of personal information does not include "aggregate" information. Aggregate information is data we collect about a group or category of products, services or customers, from which individual customer identities have been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service, but no personal information will be included in the resulting data. Likewise, information about the products you purchase may be collected and combined with information about the products purchased by others. Aggregate data helps us understand trends and customer needs so that we can better consider new products and services, and tailor existing products and services to customer desires.
+The provision of certain Costco services (such as our healthcare facilities) may involve the processing of sensitive personal information, and may be subject to additional privacy terms and the giving of any necessary consent. 
 
-  
+#### Sharing of Personal Information
+
+We do not sell, rent, share or disclose personal information to third parties without your prior consent, except to the primary cardholder as described above or in the limited circumstances described below: 
+
+#### Order Fulfillment
+
+We may provide to a third party certain information that is necessary to fulfill an order you have placed with us. For example, if you pay by a debit/credit card, your card number and sales transaction information are passed on to the card processor and/or issuer (including their service providers such as fraud verification services). However, we give vendors, suppliers, and others involved in the commerce distribution chain only the information needed to provide you the products or services you order, such as shipping and/or billing address, e-mail address, telephone number and product orders. Moreover, we require them to keep the information confidential and not to use it for other purposes. We are not responsible for any additional information you provide directly to these parties, and we encourage you to become familiar with their practices before disclosing information directly to them. 
+
+#### Other Disclosures
+
+We may provide to a third party the personal information necessary to allow them to offer or provide any benefits to which you are entitled under the terms of your Costco membership. 
+
+In addition, we may disclose personal information in the good faith belief that we are lawfully authorised to do so, or that doing so is reasonably necessary to comply with legal process or authorities, respond to any claims, or to protect the rights, property or personal safety of Costco Wholesale UK Limited, our members, our employees or the public. Information about our members, including personal information, may be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets or acquisition. Finally, we may transfer personal information to affiliated companies of Costco Wholesale UK Limited operating in countries outside the European Economic Area, subject to appropriate protections. 
+
+#### Protection of Personal Information
+
+We have put into place security measures in an effort to protect personal information from loss, misuse or alteration while it is under our control. Personal information we collect is stored electronically and may be combined with other membership information. We use technical, contractual, administrative and physical measures in an effort to protect against unauthorised access. 
+
+#### Choice
+
+We give you the opportunity to opt-out of receiving certain information or to request that certain information not be shared with third parties by giving you numerous methods to inform us of your decision. Your choice to opt-out will not apply to your spouse and any add-on members. 
+
+If you do not want to receive Promotional Information (see Use of Personal Information by Costco) or information about Member Services, you can:  
+(a) visit us at any Membership desk at any UK Costco warehouse location;  
+(b) call our Membership service representatives at 01923 830477;  
+(c) e-mail us at [memberservices@costco.co.uk](mailto:memberservices@costco.co.uk); or  
+(d) write to us at: Costco Wholesale UK Ltd., UK Home Office, Hartspring Lane, Watford, WD25 8JS. 
+
+If you do not want to receive promotional e-mails, you can:  
+(a) call our Membership service representatives at 01923 830477;  
+(b) e-mail us at [memberservices@costco.co.uk](mailto:memberservices@costco.co.uk); or  
+(c) write to us at: Costco Wholesale UK Ltd., UK Home Office, Hartspring Lane, Watford, WD25 8JS 
+
+#### Questions or Concerns
+
+If you have any questions or concerns about this privacy statement or would like to contact us for any reason, you can do the following:
+
+  * Visit us at any Membership desk at any UK Costco warehouse location;
+  * Call our Membership service representatives at 01923 830477;
+  * E-mail us at [memberservices@costco.co.uk](mailto:memberservices@costco.co.uk);
+  * Write to us at: Costco Wholesale UK Ltd., UK Home Office, Hartspring Lane, Watford, WD25 8JS
 
 
-******Costco's Commitment to Privacy**
 
-We respect your right to privacy. Your ability to make informed choices about the uses of your information is important to us. This privacy statement explains our policy regarding the collection, use, disclosure and protection of personal information. The terms of this privacy statement apply to information collected from you, unless different terms are specified as part of a special offer, or in another form or contract we provide you and you consent to those terms by participating in the special offer or the program, or otherwise. The links below provide detailed information about our privacy practices:
+#### Cookies
 
-This privacy statement (also referred to as Costco's Privacy Policy) explains our privacy practices for our members who: (1) shop in our United Kingdom warehouses or (2) use our Web site, **_www.costco.co.uk_**.
+  * **What is a cookie?**
 
-**Costco Wholesale Corporation** **  
-**Privacy Statement**  
-**(United Kingdom)  
-Last Updated January 2006
+"Cookies are usually small text files, given ID tags that are stored on your computer's browser directory or program data subfolders. Cookies are created when you use your browser to visit a website that uses cookies to keep track of your movements within the site, help you resume where you left off, remember your registered login, theme selection, preferences, and other customization functions. The website stores a corresponding file (with same ID tag) to the one they set in your browser and in this file they can track and keep information on your movements within the site and any information you may have voluntarily given while visiting the website, such as e-mail address."
 
-[](https://web.archive.org/web/20111110234829id_/http%3A//www.costco.co.uk/Membership_home/membership_home.htm)
+The above paragraph is an excerpt from [www.allaboutcookies.org/cookies/](http://www.allaboutcookies.org/cookies/)
 
-[](https://web.archive.org/web/20111110234829id_/http%3A//www.costco.co.uk/default.html)
+  * Costco.co.uk uses Cookies to keep track of your progress when applying for membership online, if you do not accept Cookies you will be unable to use the site for Membership application(s).
 
-_Privacy Statement_
+  * The Google Maps service used for the [warehouse locator](https://web.archive.org/web/20120621073223id_/http%3A//locations/) also requires the use of cookies to function. For further information about Googles privacy policy please refer to <http://www.google.com/intl/en/policies/privacy/>
 
-**® Costco Wholesale UK Ltd, UK Home Office Hartspring Lane, Watford, Herts WD25 8JS  
-****Registered No. 2635489** __  
+  * Personal information is not stored in the Cookies, and all cookies are deleted when the browser is closed. 
 
+
+
+
+#### Changes to this Statement
+
+We reserve the right to change this privacy statement at any time, but will alert you that changes have been made by indicating at the top of the privacy statement the date it was last updated. We encourage you to review our privacy statement to make sure you understand how information you provide will be used. If there is ever a material change to how we use information you provide and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance. 
+
+Privacy Statement ® Costco Wholesale UK Ltd, UK Home Office Hartspring Lane, Watford, Herts WD25 8JS  
+Registered No. 2635489   VAT No. GB 650 1862 52 
