@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the operationsmile.org privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217234012id_/http%3A//www.operationsmile.org/misc/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operationsmile.org privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621231137id_/http%3A//www.operationsmile.org/misc/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Operation Smile
 
