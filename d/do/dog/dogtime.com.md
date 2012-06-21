@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dogtime.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207182212id_/http%3A//dogtime.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtime.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621173243id_/http%3A//dogtime.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy | DogTime.com - Find your wag.
+# Privacy policy
 
 We are committed to maintaining the privacy of personal information that you provide to us when using DogTime, CatTime, our Facebook applications, Save a Dog or Save a Cat, or any web sites or applications we provide or may provide on other web sites.We will refer to these sites collectively as "the Sites" and individually as a "Site." This Privacy Policy describes how we treat personal information received about you when you visit and applies to all of the Sites.By using the Sites, you consent to the terms and conditions of this Privacy Policy.
 
