@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastjizz.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026194837id_/http%3A//www.fastjizz.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastjizz.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621055038id_/http%3A//www.fastjizz.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fast Jizz
 
@@ -28,4 +28,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 YOUR RIGHTS
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at Sly.Garfunkle@fastjizz.com. 
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at slygarfunkle@gmail.com. 
