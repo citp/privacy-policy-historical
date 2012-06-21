@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the localslags.co.uk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014725id_/http%3A//app.localslags.co.uk/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localslags.co.uk privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621170903id_/http%3A//app.localslags.co.uk/help/privacy.cfm) for the most accurate reproduction.*
 
 # Local Slags :: Privacy Policy
 
 ## Local Slags Member Privacy Policy
 
-_Last updated on Monday 8th August, 2011_
+_Last updated on Thursday 21st June, 2012_
 
 ### Proprietor
 
