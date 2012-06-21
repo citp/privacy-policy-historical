@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210341id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621051043id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
 
 # Inspire Me Today - Daily Inspiration, Interviews, Videos and More!
 
@@ -136,6 +136,25 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 [](http://www.inspiremetoday.com/courses)
 
-[](https://secure.vitamix.com/redirect.aspx?COUPON=06-005644)  
   
+
+
+#### [](http://www.inspiremetoday.com/blog/feed "Subscribe to the Blog by RSS") [Recent Blog Posts](http://www.inspiremetoday.com/blog/)
+
+* * *
+
+[Blackout](https://web.archive.org/blog/?p=4972)  
+  
+June 20, 2012  
+By B. Lynn Goodwin. "Hello. I'm calling from the Starbuck's on Camino Ramon in Danville," the young manager in the gree...
+
+[The Pain Is Real](https://web.archive.org/blog/?p=5018)  
+  
+June 19, 2012  
+By Penny Kane. It's hard for me to write this. The emotion that it stirs up even after all of these years is intense....
+
+  
+
+
+[](https://secure.vitamix.com/redirect.aspx?COUPON=06-005644)  
 ---|---|---|---|---
