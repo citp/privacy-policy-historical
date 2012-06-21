@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcrew.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213075631id_/http%3A//www.jcrew.com/footer/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcrew.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621182623id_/http%3A//www.jcrew.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Help-Privacy Policy
 
@@ -44,7 +44,7 @@ When you place an order on any of our websites, we use this information to proce
 
 We also maintain a record of your purchases made on any of our websites and combine this with information you have provided in our retail stores or over the phone in order to serve you better. We may combine information you provide with demographic information and information that is publicly available. We may also use information about your product preferences and interests in order to improve our site design and enhance your shopping experience. If you communicate online with our customer service representatives, we will use the information you convey to respond to your requests and serve you better.
 
-When we offer sweepstakes, contests, promotions or surveys, you may be required to provide certain personal information so we can notify winners and/or fulfill promotional obligations. In these instances, you have the option to receive emails or other communications from us regarding our products, services, contests, and promotions. Even if you have previously chosen not to receive email or postal mail from us, you may still receive information as it relates to the sweepstakes, contest, promotion or survey in which you have participated.   
+When we offer sweepstakes, contests, promotions or surveys, you may be required to provide certain personal information so we can notify winners and/or fulfill promotional obligations. In these instances, you have the option to receive emails, postal mail from us regarding our products, services, contests, and promotions. Even if you have previously chosen not to receive email or postal mail from us, you may still receive information as it relates to the sweepstakes, contest, promotion or survey in which you have participated.   
 We may also share your information, including, without limitation, your email address (but not your credit card information) with unaffiliated third parties that would enable them to contact you about products or services you may be interested in.
 
 In the unlikely event of a sale of some or all of our business, J.Crew may disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this privacy policy. 
