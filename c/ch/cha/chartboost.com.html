@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chartboost.com privacy policy that was archived on 2011-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228144324id_/http%3A//www.chartboost.com/web/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chartboost.com privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621082219id_/http%3A//www.chartboost.com/web/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -7,20 +7,19 @@
 	<meta name="description" content="chartboost gets your iPhone apps into the App Store ranks">
 	<meta name="keywords" content="App Store,charts,ranking,marketing,rewarded installs,pay per installs">
 	
-	<meta property="og:title" content="ChartBoost">
-	<meta property="og:url" content="http://www.chartboost.com">
+	<meta property="og:title" content="Chartboost">
+	<meta property="og:url" content="http://www.chartboost.com/">
 	<meta property="og:image" content="http://www.chartboost.com/img/web/logo_onwhite_300x38.png">
-	<meta property="og:description" content="ChartBoost - Sign up today to get your apps into the charts!">
-	<meta property="og:site_name" content="ChartBoost">
+	<meta property="og:description" content="A mobile platform for internal cross-promotion, direct cross-promotion with other apps, or promoting across a wide network of apps.">
+	<meta property="og:site_name" content="Chartboost">
 	
-	<title>ChartBoost</title>
+	<title>Chartboost</title>
 	<link type="text/css" rel="stylesheet" media="all" href="/css/base.css">
 	<link href="/css/web/base.css" rel="stylesheet" type="text/css">
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
 	<script src="/js/jquery.lightbox.js" type="text/javascript" charset="utf-8"></script>
 	<script type="text/javascript" src="/js/ajax.js"></script>
 	<script type="text/javascript" src="/js/web/modules.js"></script>
-	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false">
 	<script type="text/javascript">	
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-21675447-1']);
@@ -88,6 +87,16 @@
 			<li><a class="nav_links " href="/pricing-and-faq">PRICING &amp; FAQ</a></li>
 			<li><a class="nav_links " href="/how-it-works">HOW IT WORKS</a></li>
 		</ul>
+					<div id="flags" style="background-image:url('/img/web/flags/flag_us.jpg');"></div>
+				<div id="flags_hover">
+			<div class="title">SELECT LANGUAGE</div>
+			<div class="flag_row">
+				<div class="flag"><a href="https://www.chartboost.com" style="background-image:url('/img/web/flags/flag_us.jpg');"></a></div>
+				<div class="flag"><a href="https://cn.chartboost.com" style="background-image:url('/img/web/flags/flag_cn.jpg');"></a></div>
+				<div class="flag"><a href="https://jp.chartboost.com" style="background-image:url('/img/web/flags/flag_jp.jpg');"></a></div>
+				<div class="flag"><a href="https://kr.chartboost.com" style="background-image:url('/img/web/flags/flag_kr.jpg');"></a></div>
+			</div>
+		</div>
 		<div class="clear"></div>
 	</div>
 </div>
@@ -170,6 +179,21 @@ add_cc('signup_form');
 
 		var form = $("#signup_form");
         form.validation();
+    });
+    
+    /* Flag Stuff */
+    flag_state = 0;
+    $('#flags').mouseenter(function() {
+    	if (flag_state != 0) return;
+    	
+    	$('#flags').animate({ right:"-60px" }, 200, function() { $('#flags_hover').show(); $('#flags_hover').animate({right:0}, 200, function() {  }); })
+    	
+    	//$('#flags').hide();
+    	flag_state = 1;	
+    });
+    $('#flags_hover').mouseleave(function() {
+    	flag_state = 0;
+    	$('#flags_hover').animate({ right:"-220px" }, 200, function() { $('#flags').show(); $('#flags').animate({right:0}, 200, function() {  }); })
     });
 </script>
 		    <div id="page">
@@ -475,7 +499,7 @@ add_cc('signup_form');
 				<li><a href="/web/about?#contact" class="light">Contact Us</a></li>
 			</ul>
 			<ul>
-				<li><a href="#" id="signup" class="signup_link" location="Footer">Sign Up</a></li>
+				<li><a href="#" id="signup" class="bold signup_link" location="Footer">Sign Up</a></li>
 			</ul>
 			<ul>
 								<li><a href="#" id="login" class="bold login_link">Login</a></li>
