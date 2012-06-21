@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the localrecruit.co.uk privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223112121id_/http%3A//www.localrecruit.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localrecruit.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622013117id_/http%3A//www.localrecruit.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Local Recruit: Privacy Policy
-
-## Privacy Policy
 
 Within this Privacy Policy the term 'Local Recruit.co.uk' covers all sites owned and run through the LocalRecruit network, and sites owned by Blue Splodge i Ltd.
 
@@ -25,6 +23,14 @@ When you use the LocalRecruit.co.uk site, our servers (which may be hosted by a 
 ## What are "Cookies" and how are they used?
 
 We may gather information regarding your computer for our services and ‘Cookies’ may be used to gather this general internet data.  This collection of data is used by LocalRecruit.co.uk for statistical analysis about our website.  Any information shared will not identify who you are, but rather be mathematical data about our visitors and their use on our site.  The data does not give out any personal details, and this information helps us improve our site and services to you.
+
+With regards to Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) (used to serve ads on this site):
+
+  * Google, as a third-party vendor, uses cookies to serve ads on this site.
+  * Google's use of the DART cookie enables it and its partners to serve ads to our users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
+
+
 
 ## Disclosure of Data
 
