@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denver.org privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222031646id_/http%3A//www.denver.org/about-dmcvb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denver.org privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621104309id_/http%3A//www.denver.org/about-dmcvb/privacy) for the most accurate reproduction.*
 
 # Privacy
 
