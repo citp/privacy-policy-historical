@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classicrummy.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231045549id_/http%3A//www.classicrummy.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicrummy.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621232014id_/http%3A//www.classicrummy.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Rummy, Indian Rummy, 13 Cards Rummy - classicrummy.com
+# Classic Rummy - Privacy Policy
 
 ## Privacy Policy
 
