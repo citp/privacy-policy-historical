@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splashtop.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107121846id_/http%3A//www.splashtop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashtop.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621223415id_/http%3A//www.splashtop.com/privacy) for the most accurate reproduction.*
 
 # Splashtop Inc. - Privacy Policy
 
