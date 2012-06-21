@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228191526id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621222322id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Script Database (IMSDb)
 
@@ -25,11 +25,11 @@ Movie Software
   
 Latest Comments   
 ---  
-[My Girl](https://web.archive.org/Movie%20Scripts/My%20Girl%20Script.html)| 10/10  
-[Darkman](https://web.archive.org/Movie%20Scripts/Darkman%20Script.html)| 10/10  
-[Jurassic Park](https://web.archive.org/Movie%20Scripts/Jurassic%20Park%20Script.html)| 1/10  
-[Independence Day](https://web.archive.org/Movie%20Scripts/Independence%20Day%20Script.html)| 1/10  
-[Reader, The](https://web.archive.org/Movie%20Scripts/Reader,%20The%20Script.html)| 10/10  
+[Girl with the Dragon Tattoo, The](https://web.archive.org/Movie%20Scripts/Girl%20with%20the%20Dragon%20Tattoo,%20The%20Script.html)| 10/10  
+[Wall Street](https://web.archive.org/Movie%20Scripts/Wall%20Street%20Script.html)| 9/10  
+[Shame](https://web.archive.org/Movie%20Scripts/Shame%20Script.html)| 7/10  
+[Girl with the Dragon Tattoo, The](https://web.archive.org/Movie%20Scripts/Girl%20with%20the%20Dragon%20Tattoo,%20The%20Script.html)| 10/10  
+[Star Wars: Return of the Jedi](https://web.archive.org/Movie%20Scripts/Star%20Wars:%20Return%20of%20the%20Jedi%20Script.html)| 10/10  
   
 | 
 
