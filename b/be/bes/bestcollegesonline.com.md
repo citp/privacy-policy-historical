@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestcollegesonline.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225212629id_/http%3A//www.bestcollegesonline.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcollegesonline.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621183124id_/http%3A//www.bestcollegesonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Best Colleges Online
+# Best Colleges Online for Privacy Policy
 
 BestCollegesOnline takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
@@ -21,6 +21,3 @@ Note that you can change your browser settings to disable cookies if you have pr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to info (@) bestcollegesonline.com for further clarification.
-
-  
-
