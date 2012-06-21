@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the cognifit.com privacy policy that was archived on 2011-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228013452id_/http%3A//www.cognifit.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cognifit.com privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621090759id_/http%3A//www.cognifit.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" xmlns:fb="http://www.facebook.com/2008/fbml" lang="es" class=" webkit chrome linux js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" xmlns:fb="http://www.facebook.com/2008/fbml" lang="es"><head>
 		<title>Privacy Policy</title>		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Language" content="EN">
 <meta name="language" content="en">
@@ -9,12 +9,14 @@
 <meta name="GOOGLEBOT" content="INDEX,FOLLOW">
 <meta name="robots" content="index | follow">
 <meta name="REVISIT-AFTER" content="7 days">
-<meta name="description" content="The privacy policy of the company. You will find information on the policy the company follow on personal information and other important data.">
-<meta name="keywords" content="privacy policy, cognifit, science, technology, brain, program, training, assessment, task">		<link href="/css/facebox.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/css/tango/skin.css" media="screen" rel="stylesheet" type="text/css">
+<meta name="description" content="The privacy policy of CogniFit. You will find information on the policy the company follow on personal information and other important data.">
+<meta name="keywords" content="privacy policy, cognifit, science, technology, brain, program, training, assessment, task">		<link href="/css/v_9/facebox.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/v_9/tango/skin.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-<link href="/css/corp.css?version=2_0_0_05" media="screen" rel="stylesheet" type="text/css">				
-		<link href="/css/main.css?version=2_0_0_05" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/v_9/corp.css?version=2_1_0_01" media="screen" rel="stylesheet" type="text/css">				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js_v_9/jquery/jquery-1.6.1.min.js?version=2_1_0_01"></script>
+<script type="text/javascript" src="/js_v_9/facebox-functions.js?version=2_1_0_01"></script>
+<script type="text/javascript" src="/js_v_9/jquery/carrusel.js?version=2_1_0_01"></script>		
+		<link href="/css/v_9/main.css?version=2_1_0_01" media="screen" rel="stylesheet" type="text/css">
 		
 		<meta name="google-site-verification" content="lsb8DF-oKuLYu4S7wV8Lz9HfqTwbtM3Cz9YBZ9iX5uU">
 		<meta property="og:title" content="CogniFit">
@@ -23,449 +25,473 @@
 		<meta property="og:image" content="http://www.cognifit.com/img/headerfb.jpg">
 		<meta property="og:site_name" content="CogniFit Brain Fitness - Try it now!">
 		<meta property="fb:app_id" content="147013575367957">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/css_browser_selector.js" type="text/javascript"></script>
-		<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
-			
-		<script>
+
+		<script src="/js_v_9/css_browser_selector.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+<script type="text/javascript" src="/js_v_3/jquery/jquery.scrollTo.js?version=2_1_0_01"></script>
+		<script type="text/javascript" src="/js_v_9/Login.js?version=2_1_0_01"></script>
 		
-		function LogarFacebook() {
-			$("#capaLoadingLogin").css("display", "");
-			$("#capaLoadingLogin").css("top", "50px");
+		
+		 <script type="text/javascript">
 
 
-			FB.getLoginStatus(function(response) {
-				  if (response.status === 'connected') {
-					  
-					  conectar_con_facebook(response);
-				  } else if (response.status === 'not_authorized') {
-					  
-				  } else {
-					  FB.login(function(response) {
-							if (response.authResponse) {
-								conectar_con_facebook(response);
-							}else{
-								$("#capaLoadingLogin").css("display", "none");
-							}
-						}, {
-								scope:'email, user_birthday'
-							});
-				  }
+		 $(document).ready(function() {
+
+				$('a.panellog').click(function () {
+
+					$('a.panellog').removeClass('selectedlog');
+					
+					$(this).addClass('selectedlog');
+
+					current = $(this);
+
+					$('#wrapperlog').scrollTo($(this).attr('href'), 800);
+
+					return false;
 				});
-			
-			}
+
+				$(window).resize(function () {
+					resizePanel();
+				});
+
+			});
+
+		 
+         function conectar_con_facebook(response){
+             $.ajax({
+                 contentType: "application/x-www-form-urlencoded",
+                 dataType: 'json',
+                 type: "POST",
+                 url: "/default/index/facebook-connect/",
+                 data: 'id_facebook='+response.authResponse.userID,
+                 success: function(datos){
+						$("#capaLoadingLogin").css("display", "none");
+                     if(datos.respuesta){
+                         if(datos.existe){
+								if(datos.cambiarFoto){
+									window.location.href = "/default/index/foto-facebook/facebook/"+response.authResponse.userID;
+								}else{
+									window.location.href = datos.destino;
+								}
+                         }else{
+                             window.location.href = "/default/index/registro-facebook/facebook/"+response.authResponse.userID;
+                         }
+                     }
+                 }
+             });
+         }
+  
+		
+         function LogarFacebook() {
+     		$("#capaLoadingLogin").css("display", "");
+     		$("#capaLoadingLogin").css("top", "59px");
+
+
+     		FB.login(function(response) {
+     			if (response.authResponse) {
+     				conectar_con_facebook(response);
+     			}else{
+     				$("#capaLoadingLogin").css("display", "none");
+     			}
+     		},{
+     			scope:'email, user_birthday, publish_actions'
+     		});
+
+     	}
 CheckFb = function(){FB.init({appId  : '147013575367957',status : true, cookie : true, xfbml  : true,oauth: true  });};
 		</script>
-                <link href="/css/EI9.css?version=2_0_0_05" type="text/css" rel="stylesheet">
+                <link href="/css/v_9/EI9.css?version=2_1_0_01" type="text/css" rel="stylesheet">
 	</head>
 		
-<body class="corp rest signup">
-	<div id="fb-root"></div>
+<body class="corp rest signup locale_en">
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "Pvsxf1a8Md000z", domain:"cognifit.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Pvsxf1a8Md000z" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+					
+								
+				
+				
+				     
+     
+     
+     <div class="loginDropBox">
+	<div class="loginDropDiv" id="capaLoginNew" style="display:none">
+		<div class="dropLogin border-radius">
+			<p class="border-radius main-btn-login1 gradient-darkBlue">
+				<a class="panellog" href="#item2log" onclick="$(&quot;#capaLoginNew&quot;).toggle();">Login with CogniFit</a>
+			</p>
+			<div style="float: right;" class="fb-connect-ancho" onclick="LogarFacebook();" onmouseover="CheckFb();"><span>Login with Facebook</span></div>
+		</div>                                
+	</div>
+</div> 
+<div id="wrapperlog">
+        
+            <div id="masklog" class="loginHead">
 
-	<div class="wrap clearfix">
-		 <a href="/"><h1 class="mod-izq reemplazo sprite-home" id="logoHome">CogniFit</h1></a>
-		
-		<div class="mod-der" style="position: relative;">
-			<img id="capaLoadingLogin" src="/img/loading.gif" style="position: absolute; left: 700px; top: 20px; display: none;">
-			<form id="login" class="clearfix" method="post" action="" onsubmit="return Login.doLogin(this); return false;">
-				<div class="log-email">
-					<label for="log-email">Email:</label>
-					<input type="text" tabindex="1" value="" name="email" id="log-email" class="">
-					
-					<label for="remember-me" id="remember">
-					<input type="checkbox" tabindex="3" value="1" name="remember-me" id="remember-me">Keep me logged in
-					</label>
-				</div>
-				<div class="log-pass">
-					<label for="log-pass">Password:</label>
-					<input type="password" tabindex="2" name="log-pass" id="log-pass" class="">
-					
-					<a href="#" id="forgot" class="lightbox forgotPass cboxElement" onclick="Login.OpenForgot();">Forgot your password?</a>
-				</div>
-				<div class="submit">
-					<input type="submit" class="btn btn-submit" tabindex="4" value="Login" name="login">
-				</div>
-				
-				<div class="fb-connect" onclick="LogarFacebook();" onmouseover="CheckFb();"></div>
-				<script>CheckFb();</script>
-				
-				
-				
-				
-				<div>
-					<div style="color: #cc0000; display: none;" id="Login-Result-Failure"></div>
-				</div>
-                    
-			</form>	
-			
-			
-		</div><!-- /mod-der -->	
-	</div><!-- /header -->		
-	
-	 <!-- Menu -->
+                <div id="item1log" class="itemlog">
+                <a name="item1log" class="selectedlog" href="#item1log"></a>
+                    <div class="contentlog">
+                        <!-- loggin 1 -->
+                        <div id="header" class="wrap clearfix">
+                        	<a href="/" title="Cognifit">
+                        		<h1 class="mod-izq reemplazo corp-home2a-sp main-home2-logo">Cognifit</h1>
+                            </a>
+                            <div class="mod-der">
+                                
+                                                                <p onclick="$(&quot;#capaLoginNew&quot;).toggle();" class="logDrop main-btn-login1 border-radius gradient-darkBlue"><span class="mod-der sp-mycognifit icon-myc-flecha"></span>Login</p> 
+                                
+                               
+                                
+                                
+                            </div><!-- /mod-der -->
+                        </div><!-- /header -->
+
+                    </div></div>
+
+
+                <div id="item2log" class="itemlog">
+                <a name="item2log" href="#item2log"></a>
+                    <div class="contentlog">
+                        <!-- loggin 2 -->
+                        <div class="wrap clearfix loginHead">
+                           
+                        <a href="/"><h1 id="logoHome" class="mod-izq reemplazo sprite-home">Cognifit</h1></a>
+							<iframe src="/default/index/black" id="tempLog" name="tempLog" style="display: none;"></iframe>
+                            <div style="position: relative;" class="mod-der">
+                                <img alt="loading" style="display: none;" src="/img/loading.gif" id="capaLoadingLogin">
+                                    <form target="tempLog" action="/default/index/black" onsubmit="Login.doLoginNew(this);" method="post" class="clearfix" id="login-head">
+                                        <div class="log-email">
+                                            <label for="log-email">Email:</label>
+                                            <input type="text" class="" id="log-email" name="email" value="" tabindex="1">
+
+                                                <label id="remember" for="remember-me">
+                                                    <input type="checkbox" id="remember-me" name="remember-me" value="1" tabindex="3">Keep me logged in                                                </label>
+                                        </div>
+                                        <div class="log-pass">
+                                            <label for="log-pass">Password:</label>
+                                            <input type="password" class="" id="log-pass" name="log-pass" tabindex="2">
+
+                                                <a onclick="Login.OpenForgot();" class="lightbox forgotPass cboxElement" id="forgot" href="#">Forgot your password?</a>
+                                        </div>
+                                        <div class="submit">
+                                            <input type="submit" name="login" value="Login" tabindex="4" class="main-btn-login2">
+                                        </div>
+					                                        <div>
+                                            <div id="Login-Result-Failure" style="display: none"></div>
+                                        </div>
+
+                                    </form>
+
+
+                            </div><!-- /mod-der -->
+                        </div>
+
+                    </div></div>
+
+            </div></div>
 	
 	<div id="menuh">
-             <div class="">
-                 <div class="wrap">
-		<ul>
+
+        		<ul class="wrap">
 				
-				<li><a class="" href="/whats-cognifit">Brain Fitness</a></li>
-				<li><a class="" href="/neuroscience">Neuroscience</a></li>
-				<li><a class="" href="/cognitive-development">Technology</a></li>
-				<li><a class="" href="/science/cognitive-vitality-key">Cognition</a></li>
+				<li><a class="" href="/whats-cognifit">What Is CogniFit? </a></li>
+				<li><a class="" href="/how-it-works">How It Works</a></li>
+				<li><a class="" href="/science/cognitive-skills"><span title="Brain Training"></span>Cognitive Skills</a></li>
+				<li><a class="" href="/neuroscience">Scientific Validation</a></li>
 				
 		</ul>
                
 
-                          	 </div></div></div><!-- /menuh -->
+           </div><!-- /menuh -->
 	
-	<div id="content" class="wrap clearfix">
-		<h2>CogniFit.com Privacy Policy</h2>
+	<div id="content" class="wrap clearfix prPolitic">
+		<h2 class="titlePriv">CogniFit.com Privacy Policy</h2>
+        
+		
 
-		<p>We respect your privacy. This policy explains the accepted privacy practices for our services at <a href="http://www.cognifit.com/">www.cognifit.com</a>, including the purchase and online use of the CogniFit software and suite of applications and any future software, product or applications (the <strong>"Websites"</strong> <strong>"Product"</strong> and <strong>"Products"</strong> respectively, or  collectively: the <strong>"Services"</strong>). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices. You can access our Privacy Policy here.</p>
+        	<h2 class="prinTitle"><span class="sp-titleDraw txt-notAuth">CogniFit.com Privacy Policy</span></h2>
 
-    	<p>This policy is incorporated by reference to the Websites' Terms and Conditions (<strong>"Terms of Use"</strong>) and the Products' License Agreement (<strong>"License Agreement"</strong>).</p>
+		
+		<p>We respect your privacy. This policy explains the accepted privacy practices for our services at <a href="http://www.cognifit.com/">www.cognifit.com</a>, including the purchase and online use of the CogniFit software and suite of applications and any future software, product, neurons or applications (the <strong>"Websites"</strong> <strong>"Product"</strong> and <strong>"Products"</strong> respectively, or  collectively: the <strong>"Services"</strong>). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices. You can access our Privacy Policy here.</p>
+
+    	<p>This policy is incorporated by reference to the Websites' Terms and Conditions (<strong>"Terms of Use"</strong>).</p>
 
 		<p class="sub"><strong>Personally identifiable Information that we may collect:</strong></p>
 
 		<p>
-        We collect your personally identifiable information only if you voluntarily submit such information to us. When you register or purchase the Products,
-        we may ask you to provide us with details such as your age, name, your physical address, e-mail address, and telephone number or others. By registering or
-        purchasing Products, you represent and warrant that you are 18 years of age or older or that you have the consent of your legal guardian. When you purchase a Product, or take an online assessment test,
-        we may ask you to provide us with additional details, such as credit card information, as well as characteristic information such as gender, language,
-        country of birth, birth date, computer experience, health condition, whether you are left or right-handed, whether you are color blind, and other
-        questions related to your everyday life and personal habits (e.g. occupation, sleep hours, medications, alcohol consumption, smoking habits, etc.). We
-        will specifically designate the fields for completion.
-		</p>
+        We collect your personally identifiable information only if you voluntarily submit such information to us. When you register, use or purchase the Products, we may ask you to provide us with details such as your age, name, your physical address, e-mail address, and telephone number, nationality, city and country of residence or others. By registering, using or purchasing Products, you represent and warrant that you are 18 years of age or older or that you have the consent of your legal guardian. When you purchase a Product, take an online assessment test, complete a training, play a task/game or play with neurons, we may ask you to provide us with additional details, such as credit card information, as well as characteristic information such as gender, language, country of birth, birth date, computer experience, health condition, whether you are left or right-handed, whether you are color blind, and other questions related to your everyday life and personal habits (e.g. occupation, sleep hours, medications, alcohol consumption, smoking habits, etc.). We will specifically designate the fields for completion.		</p>
 
 		<p>
-        Further personally identifiable information may be collected while we monitor your performance and progress and when we exchange communications with
-        you, for example, if you submit an inquiry to our customer support.
-		</p>
+        Further personally identifiable information may be collected while we monitor your performance and progress and when we exchange communications with you, for example, if you submit an inquiry to our customer support.		</p>
 
 		<p>
-        We may automatically collect information through the use of log files and other means. If you register with the Services, then the information gathered
-        will be partially personally identifiable. If you are not a registered user, we will not knowingly make use of information personally identifying you,
-        except as specifically indicated in this policy, or on our Websites.
-		</p>
+        We may automatically collect information through the use of log files and other means. If you register with the Services, then the information gathered will be partially personally identifiable. If you are not a registered user, we will not knowingly make use of information personally identifying you, except as specifically indicated in this policy, or on our Websites.		</p>
 
 		<p class="sub"><strong>What do we do with your personally identifiable information?</strong></p>
 
 		<p>We may use personally identifiable information for the following purposes:</p>
 
-		<ul style="font-size:16px">
+		<ul>
 			<li>to provide you with the Products and Services and to enable you to use and pay for them;</li>
-			<li>to provide you with an evaluation and assessment based upon the results of tests you take and the personal details you provided;</li>
+			<li>to provide you with an evaluation and assessment based upon the results of tests you take and the personal details you provided. To provide you with a choice of tasks and games to train and play on and allow you to play with the neurons;</li>
 			<li>to improve and customize your experience with the Services;</li>
 			<li>to enable the development and improvement of the Products;</li>
 			<li>to better learn about and understand cognitive patterns of users;</li>
 			<li>to provide you with support, assistance and updates;</li>
 			<li>to handle inquiries and complaints and to collect fees;</li>
 			<li>to send you updates and notices, to provide you with information relating to the Services and to provide you with further marketing and advertising material, subject to your prior indication of consent. At any time you may opt out of our mailing lists, by changing your notification preferences in your account page on the Websites. In any case, we will not share your personally identifiable information with any advertisers, without your explicit consent;</li>
-			<li>to facilitate communication between you and us, and between you and others;</li>
-			<li>to enforce the Terms of Use and the License Agreement;</li>
+			<li>to facilitate communication between you and us, and between you and other users on the Websites;</li>
+			<li>to enforce the Terms of Use;</li>
 			<li>to contact you when we believe it to be necessary;</li>
 			<li>to comply with any applicable law and assist law enforcement agencies as required;</li>
 			<li>to collect fees and debts, and to prevent fraud, misappropriation, infringements, identity thefts and any other misuse of the Services;</li>
-			<li>to take any action in any case of dispute, or legal proceeding of any kind between you and us, or between you and other users or third parties with	respect to, or in relation with the Services;</li>
+			<li>to take any action in any case of dispute, or legal proceeding of any kind between you and us, or between you and other users or third parties with respect to, or in relation with the Services;</li>
 			<li>to transmit or transfer your personal information to locations other than your place of residence;</li>
-			<li>for any other purpose stipulated in this policy, or in the Terms of Use and the License Agreement.</li>
+			<li>for any other purpose stipulated in this policy, or in the Terms of Use.</li>
 			<li>to recommend new applications and offer you further Services</li>
 		</ul>
 
 		<p class="sub"><strong>Additional Personal Information we may collect</strong></p>
 
 		<p>
-        While you are using the Products online, the software processes the data you entered and produces an output of your results and assessment. We may use
-        your results with those of other users and for other statistical and analytical purposes. CogniFit will use your username and password to automatically
-        save the full evaluation results of any evaluation you take. Your personal information will be kept with us in compliance with this policy.
-		</p>
+        While you are using the Products online, the software processes the data you entered and produces an output of your results and assessment and let you play games/tasks and play with neurons. We may use your results with those of other users and for other statistical and analytical purposes. CogniFit will use your username and password to automatically save the full results of any evaluation, game, task and training session you take including the amount of neurons available on your account. Your personal information will be kept with us in compliance with this policy. You can decide to share your identifiable information such as you name, score and neurons with other users on the CogniFit Websites. You can change at any time your privacy preferences in your account page on the Websites.		</p>
 
 		<p>
-        If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason
-        for which it was provided to us.
-		</p>
+        If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us (for example when you add a 'friend' to your account or invite a new user, we will use the information provided to contact this person via email or other communication tool).		</p>
 
 		<p>
-        If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason
-        for which it was provided to us.
-		</p>
-
-		<p>
-        We do not knowingly collect personal information from children under 13. If we learn that we have collected the personal information of a child under
-        13 we will take steps to delete the information as soon as possible.
-		</p>
+        We do not knowingly collect personal information from children under 13. If we learn that we have collected the personal information of a child under 13 we will take steps to delete the information as soon as possible.		</p>
 
 		<p class="sub"><strong>The information we share with others</strong></p>
 
 		<p>We may share personally identifiable information with others in any of the following instances, or subject to your explicit consent:</p>
 
-		<ul style="font-size:16px">
-			<li>when you use the Services. In these cases, we will share your information only to the extent required to facilitate your use of the Services;</li>
-			<li>when you perform an online assessment test or an assessment in any other form. In these cases, we may share your personal details and our
-				evaluation of your performance with a third party (such as your insurance company, or your employer's car fleet manager), if the test was ordered
-				by the third party, or otherwise conducted in collaboration with the third party;</li>
-			<li>if we reasonably believe that you have breached the Terms of Use or the License Agreement, or abused your rights to use any of the Services, or
-				performed any act or omission that we reasonably believe to be violating any applicable law, rules, or regulations. We may share your information
-				in these cases with law enforcement and other competent authorities and with any third party, as may be required to handle any result of your
-				wrongdoing;</li>
+		<ul>
+			<li>when you use the Services. In these cases, we will share your information only to the extent required to facilitate your use of the Services (such as when you play with neurons or invite a friend on the Websites</li>
+			<li>when you perform an online assessment test, training session, play a game/task or an assessment in any other form. In these cases, we may share your personal details and our evaluation of your performance with a third party (such as your insurance company, or your employer's car fleet manager), if the test was ordered by the third party, or otherwise conducted in collaboration with the third party;</li>
+			<li>if we reasonably believe that you have breached the Terms of Use, or abused your rights to use any of the Services, or performed any act or omission that we reasonably believe to be violating any applicable law, rules, or regulations. We may share your information in these cases with law enforcement and other competent authorities and with any third party, as may be required to handle any result of your wrongdoing;</li>
 			<li>if we are required, or reasonably believe that we are required by law to share or disclose your information;</li>
-			<li>in any case of dispute, or legal proceeding of any kind between you and us, or between you and other users or third parties with respect to, or in
-				relation with the Services;</li>
+			<li>in any case of dispute, or legal proceeding of any kind between you and us, or between you and other users or third parties with respect to, or in relation with the Services;</li>
 			<li>in any case where we may reasonably believe that sharing information is necessary to prevent imminent physical harm or damage to property;</li>
-			<li>if we organize the operation of the Services within a different framework, or through another legal structure or entity, or if we are acquired by,
-				or merged with another entity, provided however, that those entities agree to be bound by the provisions of this policy, with respective changes
-				taken into consideration;</li>
-			<li>we may also share personally identifiable information with companies or organizations connected, or affiliated with us, such as subsidiaries,
-				sister-companies and parent companies, with the express provision that their use of such information must comply with this policy.</li>
+			<li>if we organize the operation of the Services within a different framework, or through another legal structure or entity, or if we are acquired by, or merged with another entity, provided however, that those entities agree to be bound by the provisions of this policy, with respective changes taken into consideration;</li>
+			<li>we may also share personally identifiable information with companies or organizations connected, or affiliated with us, such as subsidiaries, sister-companies and parent companies, with the express provision that their use of such information must comply with this policy.</li>
 		</ul>
 
 		<p class="sub"><strong>Log files and aggregated information</strong></p>
 
 		<p>
-        When you use the Websites or purchase a Product, we automatically collect further information and store it in web-server log files. For example, we may
-        record the frequency and scope of your use of the Websites, the duration of your sessions, the web pages that you visit, the information that you read,
-        advertisements that you view or click on, and the geographic location of the computer system that you are using to sign-in or use the Websites.
-		</p>
+        When you use the Websites or purchase a Product, we automatically collect further information and store it in web-server log files. For example, we may record the frequency and scope of your use of the Websites, the duration of your sessions, the web pages that you visit, the information that you read, advertisements that you view or click on, and the geographic location of the computer system that you are using to sign-in or use the Websites.		</p>
 
 		<p>
-        We may use anonymous, statistical or aggregated information, including by posting, disseminating, transmitting or otherwise communicating or making
-        available such information through the Services, and providing the information to users, suppliers, business partners, affiliates and any other third
-        party, at our sole discretion, provided however, that the information will not identify you personally and that we will not knowingly, or intentionally
-        use such information to reveal your identity without your consent, under the terms of this policy.
-		</p>
+        We may use anonymous, statistical or aggregated information, including by posting, disseminating, transmitting or otherwise communicating or making available such information through the Services, and providing the information to users, suppliers, business partners, affiliates and any other third party, at our sole discretion, provided however, that the information will not identify you personally and that we will not knowingly, or intentionally use such information to reveal your identity without your consent, under the terms of this policy.		</p>
 
 		<p>
-        We may also use anonymous, statistical or aggregated information to properly operate and administer the Services, to improve the quality of the
-        Services, to enhance your experience and customize the Services, to create new services, to change or cancel existing content or services and to
-        facilitate other internal, functional and statistical purposes.
-		</p>
+        We may also use anonymous, statistical or aggregated information to properly operate and administer the Services, to improve the quality of the Services, to enhance your experience and customize the Services, to create new services, to change or cancel existing content or services and to facilitate other internal, functional and statistical purposes.		</p>
 
 		<p class="sub"><strong>Accessing your personal account</strong></p>
 
 		<p>
-        At any time, you may access your personal account and edit, or amend your personal information. If you find that the information, such as the billing
-        or shipping information is not accurate, complete or updated, than you must make all necessary changes to correct it. Please keep in mind that
-        providing false, incorrect, incomplete, or out dated information may prevent you from registering with or using the Services, and/or may impair our
-        ability to provide you with the Services, handle shipping arrangements or provide you with support and contact you when required.
-		</p>
+        At any time, you may access your personal account and edit, or amend your personal information and privacy preferences. If you find that the information, such as the billing or shipping information is not accurate, complete or updated, than you must make all necessary changes to correct it. Please keep in mind that providing false, incorrect, incomplete, or out dated information may prevent you from registering with or using the Services, and/or may impair our ability to provide you with the Services or provide you with support and contact you when required.		</p>
 
 		<p class="sub"><strong>Data retention</strong></p>
 
 		<p>
-        At any time, we may review, retain and disclose any information as we deem necessary to satisfy any applicable law, regulation, legal process or
-        governmental request, as well as our internal needs. However, by doing so we do not either expressly or impliedly endorse, affirm or in any manner
-        assume any responsibility for such information.
-		</p>
+        At any time, we may review, retain and disclose any information as we deem necessary to satisfy any applicable law, regulation, legal process or governmental request, as well as our internal needs. However, by doing so we do not either expressly or impliedly endorse, affirm or in any manner assume any responsibility for such information.		</p>
 
 		<p class="sub"><strong>Deletion of personally identifiable information</strong></p>
 
 		<p>
-		If you wish to delete your personally identifiable information that is stored in our databases, you may contact us at <a href="http://www.cognifit.com/support/customerservice">Customer Support</a>. CogniFit will inform you whether
-		your request has been accepted and may
-        refuse to comply with your request, for example, if CogniFit believes that deleting certain information might prevent maintaining necessary contact
-        with you, or jeopardize certain activities on the Websites, or harm other users. In any case, CogniFit may keep any aggregated or anonymized
-        information for statistical, marketing and other purposes.
-		</p>
+		If you wish to delete your personally identifiable information that is stored in our databases, you may contact us at <a href="mailto:support@cognifit.com">Customer Support</a>. You can also delete your account directly from your account settings on the Websites. CogniFit will inform you whether your request has been accepted and may refuse to comply with your request, for example, if CogniFit believes that deleting certain information might prevent maintaining necessary contact with you, or jeopardize certain activities on the Websites, or harm other users. In any case, CogniFit may keep any aggregated or anonymized information for statistical, marketing and other purposes.		</p>
 
 		<p class="sub"><strong>Information security</strong></p>
 
 		<p>
-        The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security
-        number, national ID, personal health information) on our registration or order forms, we encrypt that information using secure socket layer technology
-        (SSL). [To learn more about SSL, follow this link [http://www.verisign.com/ssl/index.html ]
-		</p>
+        The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number, national ID, personal health information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [To learn more about SSL, follow this link [http://www.verisign.com/ssl/index.html ]		</p>
 
 		<p>
-        We implement information-security systems and procedures to secure the information stored on our servers. Such systems and procedures reduce the risk
-        of security breaches, but they do not provide absolute security. Therefore, we cannot guarantee that our services are immune to unauthorized access to
-        the information stored therein and to other information-security risks.
-		</p>
+        We implement information-security systems and procedures to secure the information stored on our servers. Such systems and procedures reduce the risk of security breaches, but they do not provide absolute security. Therefore, we cannot guarantee that our services are immune to unauthorized access to the information stored therein and to other information-security risks.		</p>
 
 		<p class="sub"><strong>Blogs</strong></p>
 
 		<p>
-        Our Web site may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read,
-        collected, and used by others who access them.
-		</p>
+        Our Websites may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.		</p>
 
 		<p class="sub"><strong>Customer Testimonials/Comments/Reviews</strong></p>
 
-		<p>We may post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's
-        consent via email prior to posting the testimonial to post their name along with their testimonial.
-		</p>
+		<p>We may post customer testimonials/comments/reviews on our Websites which may contain personally identifiable information.		</p>
 
 		<p class="sub"><strong>Widgets</strong></p>
 
 		<p>
-        Our Web site may include Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g.
-        displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be
-        set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created
-        it.
-		</p>
+        Our Websites may include Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.		</p>
 
 		<p class="sub"><strong>Cookies</strong></p>
 
 		<p>
-        We may use cookies on the Websites. Cookies are packets of information sent by our servers to your web browser and then sent back by the browser each
-        time it accesses our servers. We may use cookies on your web browser whether you are a registered user, or not.
-		</p>
+        We may use cookies on the Websites. Cookies are packets of information sent by our servers to your web browser and then sent back by the browser each time it accesses our servers. We may use cookies on your web browser whether you are a registered user, or not.		</p>
 
 		<p>
-        We may use cookies for various purposes, such as to save you the need to re-enter your user name and password each time you log in, to facilitate the
-        use of the Services, to collect statistical information with respect to the use of the Services, to verify information, to customize the Services to
-        your personal preferences and for information security purposes.
-		</p>
+        We may use cookies for various purposes, such as to save you the need to re-enter your user name and password each time you log in, to facilitate the use of the Services, to collect statistical information with respect to the use of the Services, to verify information, to customize the Services to your personal preferences and for information security purposes.		</p>
 
 		<p>
-        Some of the cookies may expire when the session ends and you exit your browser. Other cookies are saved on your computer's hard drive. If you wish to
-        block our cookies, then please use the help button in your browser and follow the necessary instructions. However, bear in mind that disabling cookies
-        may complicate or even prevent your use of the Services, or certain features thereof.
-		</p>
+        Some of the cookies may expire when the session ends and you exit your browser. Other cookies are saved on your computer's hard drive. If you wish to block our cookies, then please use the help button in your browser and follow the necessary instructions. However, bear in mind that disabling cookies may complicate or even prevent your use of the Services, or certain features thereof.		</p>
 
 		<p>
-        We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
-		</p>
+        We do not link the information we store in cookies to any personally identifiable information you submit while on our site.		</p>
 
 		<p>
-        We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us
-        about visitors to our site.
-		</p>
+        We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.		</p>
 
 		<p class="sub"><strong>Changes to this Privacy Policy</strong></p>
 
 		<p>
-        If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so
-        that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-		</p>
+        If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.		</p>
 
 		<p>
-        We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will
-        notify you here, by email, or by means of a notice on our home page.
-		</p>
+        We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.		</p>
 
 		<p class="sub"><strong>Contact us</strong></p>
 
 		<p>You are welcome to contact us with requests, comments and questions regarding this privacy policy at the by using the 'Support' form on the Website.</p>
 
-		<p>Last update: May 1<sup>st</sup>, 2011</p>
+		<p>Last update: May 15<sup>st</sup>, 2012</p>
 </div>
-        <div class="wrapFooBottom">
+
+	<div class="wrapFooBottom">
+
+
 <div class="menuFoot">
-
-        <div class="wrapFooTitl">
-
-            
-            <ul>
-                <li class="brainin"><a href="/brain">Brain</a></li>
-                <li class="mentalHea"><a href="/mental-health">Mental Health</a></li>
-                <li class="memo"><a href="/memory">Memory</a></li>
-                <li class="cognig"><a href="/cognition">Cognition</a></li>
-                <li class="min"><a href="/mind">Mind</a></li>
-                <li class="whaT"><a href="/">CogniFit Brain Fitness</a></li>
-            </ul>
-	</div>
+ 
+  		 <div class="wrapFooTitl">            
+		    <ul>
+		        <li class="brainin"><a href="/brain">Brain</a></li>
+		        <li class="mentalHea"><a href="/mental-health">Mental Health</a></li>
+		        <li class="memo"><a href="/memory">Memory</a></li>
+		        <li class="cognig"><a href="/cognition">Cognition</a></li>
+		        <li class="min"><a href="/mind">Mind</a></li>
+		        <li class="whaT"><a href="/">CogniFit</a></li>
+		    </ul>
+		</div>
 
             
-<!--             <div class="contentFoot">-->
-            <div class="brain">
-                <ul class="letter">
-                    <li><a href="/science/neurology-brain-research-cognitive-science">Brain Research</a></li>
-                    <li><a href="/brain-fitness">Brain Fitness</a></li>
-                    <li><a href="/brain-training">Brain Training</a></li>
-                    <li><a href="/science/brain-health">Brain Health</a></li>
-                    <li><a href="/science/top-brainfacts/food-and-nutrition">Nutrition</a></li>
-                    <li><a href="/brain-plasticity-and-cognition">Brain Plasticity</a></li>
-                    <li><a href="/science/brain-function">Brain Function</a></li>
-                    <li><a href="/science/didyou-know/brain-games">Brain Games</a></li>
-                    <li><a href="/brain-injury">Brain Injury</a></li>
-                    <li><a href="/brain-parts">Brain parts</a></li>
-                    <li><a href="http://blog.cognifit.com/2012/06/forming-new-habits-is-intensive-brain.html">About the Brain</a></li>
-                </ul>
-            </div>
+		<!--             <div class="contentFoot">-->
+		    <div class="brain">
+		        <ul class="letter">
+		            <li><a href="/science/neurology-brain-research-cognitive-science">Brain Research</a></li>
+		            <li><a href="/brain-fitness">Brain Fitness</a></li>
+		            <li><a href="/brain-training">Brain Training</a></li>
+		            <li><a href="/science/brain-health">Brain Health</a></li>
+		            <li><a href="/science/top-brainfacts/food-and-nutrition">Nutrition</a></li>
+		            <li><a href="/brain-plasticity-and-cognition">Brain Plasticity</a></li>
+		            <li><a href="/science/brain-function">Brain Function</a></li>
+		            <li><a href="/science/didyou-know/brain-games">Brain Games</a></li>
+		            <li><a href="/brain-injury">Brain Injury</a></li>
+		            <li><a href="/brain-parts">Brain Parts</a></li>
+		        </ul>
+		    </div>
+ 
+		   
+		    <div class="mentalHealth">
+		        <ul class="letter">
+		            <li><a href="/alzheimer-disease">Alzheimer's Disease (AD)</a></li>
+		            <li><a href="/science/recovering-brainhealth/dementia">Dementia</a></li>
+		            <li><a href="/traumatic-brain-injury">Traumatic Brain Injury (TBI)</a></li>
+		            <li><a href="/science/recovering-brainhealth/multiple-sclerosis">Multiple Sclerosis (MS)</a></li>
+		            <li><a href="/science/recovering-brainhealth/parkinson-disease">Parkinson's</a></li>
+		            <li><a href="/science/recovering-brainhealth/dyslexia">Dyslexia</a></li>
+		            <li><a href="/science/recovering-brainhealth/chemo-fog">Chemo Brain</a></li>
+		            <li><a href="/science/recovering-brainhealth/adhd">ADHD</a></li>
+		            <li><a href="/science/didyou-know/insomnia" class="insomny">Insomnia</a></li>
+		            <li><a href="/mild-cognitive-impairment">Mild Cognitive Impairment (MCI)</a></li>
+		            <li><a href="/depression">Depression</a></li>
+		        </ul> 
+		    </div>
 
-           
-            <div class="mentalHealth">
-                <ul class="letter">
-                    <li><a href="/alzheimer-disease">Alzheimer's Disease (AD)</a></li>
-                    <li><a href="/science/recovering-brainhealth/dementia">Dementia</a></li>
-                    <li><a href="/traumatic-brain-injury">Traumatic Brain Injury (TBI)</a></li>
-                    <li><a href="/science/recovering-brainhealth/multiple-sclerosis">Multiple Sclerosis (MS)</a></li>
-                    <li><a href="/science/recovering-brainhealth/parkinson-disease">Parkinson's</a></li>
-                    <li><a href="/science/recovering-brainhealth/dyslexia">Dyslexia</a></li>
-                    <li><a href="/science/recovering-brainhealth/chemo-fog">Chemo Brain</a></li>
-                    <li><a href="/science/recovering-brainhealth/adhd">ADHD</a></li>
-                    <li><a href="/science/didyou-know/insomnia" class="insomny">Insomnia</a></li>
-                    <li><a href="/mild-cognitive-impairment">Mild Cognitive Impairment (MCI)</a></li>
-                    <li><a href="/depression">Depression</a></li>
-                </ul> 
-            </div>
+		    <div class="memory">
+		        <ul class="letter">
+		            <li><a href="/science/top-brainfacts/memory-problems">Memory Problems</a></li>
+		            <li><a href="/science/top-brainfacts/memory-games">Memory Games</a></li>
+		            <li><a href="/science/daily-brainfunctions/memory-training">Memory Training</a></li>
+		            <li><a href="/science/top-brainfacts/memory-loss">Memory Loss</a></li>
+		            <li><a href="/science/top-brainfacts/memory-exercise">Memory Exercise</a></li>
+		            <li><a href="/science/mental-training">Mental Training</a></li>
+		            <li><a href="/mental-exercise">Mental Exercise</a></li>
+		        </ul>
+		    </div>
+		    
+		    <div class="cognition">
+		        <ul class="letter">
+		            <li><a href="/cognitive-development">Cognitive Development</a></li>
+		            <li><a href="/science/cognitive-skills">Cognitive Skills</a></li>
+		            <li><a href="/science/didyou-know/cognitive-research">Cognitive Research</a></li>
+		            <li><a href="/science/didyou-know/neurons">Neurons</a></li>
+		            		            <li><a href="/science/brain-facts-cognitive-science">Cognitive Science</a></li>
+		        </ul>
+		    </div>
 
-            <div class="memory">
-                <ul class="letter">
-                    <li><a href="/science/top-brainfacts/memory-problems">Memory Problems</a></li>
-                    <li><a href="/science/top-brainfacts/memory-games">Memory Games</a></li>
-                    <li><a href="/science/daily-brainfunctions/memory-training">Memory Training</a></li>
-                    <li><a href="/science/top-brainfacts/memory-loss">Memory Loss</a></li>
-                    <li><a href="/science/top-brainfacts/memory-exercise">Memory Exercise</a></li>
-                    <li><a href="/science/mental-training">Mental Training</a></li>
-                    <li><a href="/mental-exercise">Mental Exercise</a></li>
-                </ul>
-            </div>
-
-            <div class="cognition">
-                <ul class="letter">
-                    <li><a href="/cognitive-development">Cognitive Development</a></li>
-                    <li><a href="/science/cognitive-skills">Cognitive Skills</a></li>
-                    <li><a href="/science/didyou-know/cognitive-research">Cognitive Research</a></li>
-                    <li><a href="/science/didyou-know/neurons">Neurons</a></li>
-                    <li><a href="/neuroscience">Neuroscience</a></li>
-                    <li><a href="/science/brain-facts-cognitive-science">Cognitive Science</a></li>
-                </ul>
-            </div>
-
-            <div class="mind">
-                <ul class="letter">
-                    <li><a href="/mind-training">Mind Training</a></li>
-                    <li><a href="/mind-exercise">Mind Exercise</a></li>
-                    <li><a href="/mind-quiz">Mind Quiz</a></li>
-                    <li><a href="/mind-games">Mind Games</a></li>
-                    <li><a href="/motor-control">Motor Control</a></li>
-                    <li><a href="/perception">Perception</a></li>
-                    <li><a href="/attention">Attention</a></li>
-                </ul>
-            </div>
+		    <div class="mind">
+		        <ul class="letter">
+		            <li><a href="/mind-training">Mind Training</a></li>
+		            <li><a href="/mind-exercise">Mind Exercise</a></li>
+		            <li><a href="/mind-quiz">Mind Quiz</a></li>
+		            <li><a href="/mind-games">Mind Games</a></li>
+		            <li><a href="/motor-control">Motor Control</a></li>
+		            <li><a href="/perception">Perception</a></li>
+		            <li><a href="/attention">Attention</a></li>
+		        </ul>
+		    </div>
 
 
-            <div class="whaTis">
-                <ul class="letter">
-                    <li><a href="/about-team">About Us</a></li>
-                    <li><a href="/whats-cognifit">What is CogniFit</a></li>
-                    <li><a href="/science/scientific-validation">Science</a></li>
-                    <li><a href="/privacy-policy">Privacy Policy</a></li>
-                    <li><a href="http://blog.cognifit.com/">CogniFit's Blog</a></li>
-                </ul>
-            </div>
+		    <div class="whaTis">
+		        <ul class="letter">
+		            <li><a href="/about-team">About Us</a></li>
+		            <li><a href="/whats-cognifit">What is CogniFit</a></li> 
+		            <li><a href="/neuroscience">Neuroscience</a></li>
+		            <li><a href="/privacy-policy">Privacy Policy</a></li>
+		            <li><a href="http://blog.cognifit.com/">CogniFit's Blog</a></li>
+		        </ul>
+		    </div>		
+		    </div>
+		      
 
-            
-           
+     <div class="piesWrap"></div>
+      	 </div><!-- /donw-footer -->
+         <div class="copypie">
+         	<span style="float:left;margin-left: 23px;margin-right: 26px;">CogniFit © 2012</span>    
+         	
+				   		
+			<span style="float:left;">
+										
+						<a href="javascript:void(0);" onclick="Locale.Change('en');" style="padding-left:20px;color: #017FC4;font-size: 12px;font-weight:bold; ">
+						English</a>
+										
+						<a href="javascript:void(0);" onclick="Locale.Change('es');" style="padding-left:20px;color: #017FC4;font-size: 12px; ">
+						Español</a>
+										
+						<a href="javascript:void(0);" onclick="Locale.Change('fr');" style="padding-left:20px;color: #017FC4;font-size: 12px; ">
+						Français</a>
+										
+						<a href="javascript:void(0);" onclick="Locale.Change('de');" style="padding-left:20px;color: #017FC4;font-size: 12px; ">
+						Deutsch</a>
+										
+						<a href="javascript:void(0);" onclick="Locale.Change('it');" style="padding-left:20px;color: #017FC4;font-size: 12px; ">
+						Italiano</a>
+							</span>
+		
+				
+		</div>     
 
-           
-            </div><!-- /donw-footer -->
-             <div class="piesWrap"></div>
-            </div>
-             <div class="copypie">CogniFit © 2012</div>
+
+
+
+
+
+
 
         <div class="columOnefoo">
 
         </div>
-	 <!--<ul>
-				<li class="last">CogniFit &copy; 2012 AS</li>
-                <li ><a class="" href="/privacy-policy">privacy policy</a></li>
-                <li ><a class="active" href="/about-team">about</a></li>
-                <li ><a class="" href="/neuroscience">science</a></li>
-                <li class="last"><a class="" href="/partners">partners</a></li>
-				
-            </ul>-->
+	 
 
 
 	<div style="display: none;">
@@ -479,7 +505,7 @@ CheckFb = function(){FB.init({appId  : '147013575367957',status : true, cookie :
 						 <label for="lgbox-resendpass">Email: </label>
 						 <input type="text" id="lgbox-resendpass" name="resend-pass" value="" onkeypress="if(!Login.pulsar(event)) return Login.requestForgottenPassword() ;">
 						 
-						<input type="button" name="request" value="Request" class="btn2" onclick="Login.requestForgottenPassword()">
+						<input style="padding:2px 20px 4px" type="button" name="request" value="Request" class="border-radius btn2 gradient-darkBlue" onclick="Login.requestForgottenPassword()">
 					</fieldset>
 				</form>	
 				<div id="respuesta-olvido-contrasena"><br><br></div>
@@ -494,47 +520,22 @@ CheckFb = function(){FB.init({appId  : '147013575367957',status : true, cookie :
 		
 	</div>	
 	
-        <script type="text/javascript" src="/js/jquery/jquery-1.6.1.min.js?version=2_0_0_05"></script>
-<script type="text/javascript" src="/js/facebox-functions.js?version=2_0_0_05"></script>
-<script type="text/javascript" src="/js/jquery/carrusel.js?version=2_0_0_05"></script>		
+        
 		
 		
-        <script type="text/javascript" src="/js/Login.js?version=2_0_0_05"></script>
+		
+       
         <script type="text/javascript">
             $(document).ready(function(){			
-                $(".forgotPass").colorbox({width:"580px",height:"200px", inline:true, href:"#div-forgotPass"});
+            	$(".forgotPass").colorbox({width:"580px",height:"220px", inline:true, href:"#div-forgotPass"});
                 $(".successSignup").colorbox({width:"580px", inline:true, href:"#div-successSignup"});			
             });			
         </script>
 		
-        <script type="text/javascript">
-            function conectar_con_facebook(response){
-                $.ajax({
-                    contentType: "application/x-www-form-urlencoded",
-                    dataType: 'json',
-                    type: "POST",
-                    url: "/default/index/facebook-connect/",
-                    data: 'id_facebook='+response.authResponse.userID,
-                    success: function(datos){
-						$("#capaLoadingLogin").css("display", "none");
-                        if(datos.respuesta){
-                            if(datos.existe){
-								if(datos.cambiarFoto){
-									window.location.href = "/default/index/foto-facebook/facebook/"+response.authResponse.userID;
-								}else{
-									window.location.href = datos.destino;
-								}
-                            }else{
-                                window.location.href = "/default/index/registro-facebook/facebook/"+response.authResponse.userID;
-                            }
-                        }
-                    }
-                });
-            }
-        </script>
+       
 		
         <script type="text/javascript">var switchTo5x=true;</script>
-        <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js?version=2_0_0_05"></script>
+        <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js?version=2_1_0_01"></script>
         <script type="text/javascript">stLight.options({publisher:'ac8895ac-9bb0-4dac-acb2-384df350bc3b'});
         </script>
         <script type="text/javascript">
@@ -550,8 +551,36 @@ CheckFb = function(){FB.init({appId  : '147013575367957',status : true, cookie :
             })();
 		
 		</script>
+        <script type="text/javascript">
+        var lastChecked = null;
 
-		<!-- 542/202 -->
+        $(document).ready(function() {
+                $('.checkbox_noticia').click(function(event) {
+                        if(!lastChecked) {
+
+                                lastChecked = this;
+                                return;
+                        }
+
+                        if(event.shiftKey) {
+
+                            var start = $('.checkbox_noticia').index(this);
+                            var end = $('.checkbox_noticia').index(lastChecked);
+
+                            for(i=Math.min(start,end);i<=Math.max(start,end);i++) {
+                                        $('.checkbox_noticia')[i].checked = lastChecked.checked;
+                                }
+                        }
+
+                        lastChecked = this;
+                });
+
+                
+        });
+
+
+</script>
+		<!-- 84/25 -->
 
 
 
