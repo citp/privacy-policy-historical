@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213152945id_/http%3A//antezeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621222441id_/http%3A//antezeta.com/privacy.html) for the most accurate reproduction.*
 
 # » Antezeta - Data Privacy Statement
 
@@ -45,16 +45,16 @@ Our site offers the possibility for you to contact us via e-mail. Should you so 
 
 This site may use cookies to offer personalization for returning site visitors and to improve the quality of site statistics. For more information about cookies, see any of the following cookies resources.
 
-  * U.S. Department of Energy Computer Incident Advisory Capability Information Bulletin [I-034 Internet Cookies](http://www.ciac.org/ciac/bulletins/i-034.shtml "U.S. Department of Energy Computer Incident Advisory Capability Information Bulletin I-034 Internet Cookies")
+  * U.S. Department of Energy Computer Incident Advisory Capability Information Bulletin [I-034 Internet Cookies](http://web.archive.org/web/20090205111631/http://ciac.org/ciac/bulletins/i-034.shtml "U.S. Department of Energy Computer Incident Advisory Capability Information Bulletin I-034 Internet Cookies")
   * [The Unofficial Cookie FAQ](http://www.cookiecentral.com/faq/ "The Unofficial Cookie FAQ")
   * [aboutcookies.org](http://www.aboutcookies.org/ "aboutcookies.org")
-  * [The original Netscape Cookie Specification](http://wp.netscape.com/newsref/std/cookie_spec.html "The original Netscape Cookie Specification")
+  * [The original Netscape Cookie Specification](http://web.archive.org/web/20050322102715/http://wp.netscape.com/newsref/std/cookie_spec.html "The original Netscape Cookie Specification")
 
 
 
 #### Google Advertising & Cookies
 
-Some pages on this domain may carry Google advertising to offset the costs of maintaing the content. Please refer to Google's [help documentation](https://www.google.com/adsense/support/bin/answer.py?answer=100557) on the subject for current information on their use of cookies in their advertising system.
+Some pages on this domain may carry Google advertising to offset the costs of maintaing the content. Please refer to Google's [help documentation](http://www.google.com/policies/privacy/ads/) on the subject for current information on their use of cookies in their advertising system.
 
 ## How we use your information
 
