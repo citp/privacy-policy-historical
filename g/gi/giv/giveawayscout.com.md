@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giveawayscout.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228145647id_/http%3A//www.giveawayscout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giveawayscout.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621184735id_/http%3A//www.giveawayscout.com/privacy) for the most accurate reproduction.*
 
 # GiveawayScout.com - All blog giveaways, coupons, contests and sweepstakes in one place
 
