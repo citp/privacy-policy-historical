@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the avanset.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103012918id_/http%3A//www.visualcertexam.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avanset.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621042532id_/http%3A//www.avanset.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Visual CertExam Software
+# Privacy Policy - Company - Avanset
 
-Visual CertExam Software has established this Online Privacy Policy to help you understand how we intend to treat your Personal Information. We are committed to respecting your online privacy and recognize the need for appropriate protection and management of personal identification information ("Personal Information") you share with us.
+Avanset has established this Online Privacy Policy to help you understand how we intend to treat your Personal Information. We are committed to respecting your online privacy and recognize the need for appropriate protection and management of personal identification information ("Personal Information") you share with us.
 
 ## Personal Information
 
@@ -12,15 +12,15 @@ In general, you may visit our web site without telling us who you are or reveali
 
 ## Order
 
-When you place an order online with us, we redirect you to third-party web site, provided by ShareIt. ShareIt has it own privacy policy, please read it before making an order.
+When you place an order online with us, we redirect you to third-party web site, provided by [Cleverbridge AG](http://www.cleverbridge.com/). Cleverbridge has it own [privacy policy](http://www.cleverbridge.com/corporate/support/privacy-policy), please read it before making an order.
 
-We do not gather any credit card information from your product registration, we have no such technical possibility, and we do not keep any such kind of information. So, for your own privacy, please do not send us any credit card information via open channels (e.g. to our support e-mail), use this information only when placing your order via ShareIt.
+We do not gather any credit card information from your product registration, we have no such technical possibility, and we do not keep any such kind of information. So, for your own privacy, please do not send us any credit card information via open channels (e.g. to our support e-mail), use this information only when placing your order via Cleverbridge.
 
 We use the information you provide about yourself when placing an order to complete that order. The customer's contact information is also used to contact the visitor when necessary. Your contact information will never be given or sold to a third party.
 
 If you choose, we may use your e-mail address and mailing address to notify you of product updates, special offers, and new products or to assess your satisfaction with the product after you have registered to trial, download, or purchase our software, unless you opt-out from receiving future communication from us.
 
-We use return e-mail addresses to answer the e-mail we receive. Information submitted via e-mail to Visual CertExam Software is not shared with outside parties except to the extent necessary to complete the request or answer the question that has been submitted to us.
+We use return e-mail addresses to answer the e-mail we receive. Information submitted via e-mail to Avanset is not shared with outside parties except to the extent necessary to complete the request or answer the question that has been submitted to us.
 
 ## Software
 
@@ -36,4 +36,4 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 
 ## For More Information
 
-If you have any other questions regarding our privacy policy, please do not hestitate to [contact us](https://web.archive.org/contact.html).
+If you have any other questions regarding our privacy policy, please do not hesitate to contact us.
