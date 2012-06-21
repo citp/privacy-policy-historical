@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halfordsautocentres.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223004208id_/http%3A//www.halfordsautocentres.com/en-gb/information/Privacy--Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfordsautocentres.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621153718id_/http%3A//www.halfordsautocentres.com/en-gb/information/Privacy--Security) for the most accurate reproduction.*
 
 # Halfords Autocentres| Privacy & Security
 
@@ -89,7 +89,7 @@ All networks connected to the internet speak IP, the technical standard which al
 IP address  
 If you are connected to the Internet you have one, for example it may look something like this 198.184.98.9 Web Server Delivers (serves up) web pages to your computer.
 
-This privacy policy only covers the Website at [http://www.halfordsautocentres.com](https://web.archive.org/web/20111223004208id_/http://www.halfordsautocentres.com/). Other links within this site to other websites are not covered by this.  
+This privacy policy only covers the Website at [http://www.halfordsautocentres.com](https://web.archive.org/web/20120621153718id_/http://www.halfordsautocentres.com/). Other links within this site to other websites are not covered by this.  
 
 
 For enquiries please contact [reception@halfordsautocentres.co.uk](mailto:reception@halfordsautocentres.co.uk).
