@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldmoney.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216181545id_/http%3A//www.goldmoney.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmoney.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621235335id_/http%3A//www.goldmoney.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Policy on Privacy and Confidentiality - GoldMoney
 
@@ -8,7 +8,7 @@ Effective Date: 30 August 2011
 
 GoldMoney.com (GoldMoney) is owned by Net Transactions Limited. This privacy policy covers the collection and use of information collected on the GoldMoney.com website.
 
-GoldMoney has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://web.archive.org/contact-us.html). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site.
+GoldMoney has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](http://www.goldmoney.com/contact-us.html). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site.
 
 ## Collection and Use of Personal Information
 
@@ -32,7 +32,7 @@ We use this information to:
 
 #### Choice/Opt-Out
 
-You may choose to stop receiving our Newsletter by following the unsubscribe instructions included in these emails or by [contacting us here](https://web.archive.org/contact-us.html).
+You may choose to stop receiving our Newsletter by following the unsubscribe instructions included in these emails or by [contacting us here](http://www.goldmoney.com/contact-us.html).
 
 ## Information Sharing
 
@@ -76,7 +76,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, please [contact us](https://web.archive.org/contact-us.html).
+If you have any questions about security on our Web site, please [contact us](http://www.goldmoney.com/contact-us.html).
 
 For security reasons, we do not recommend saving your Holding number and Passphrase in your computer's memory (do not allow your browser to remember your Passphrase). Consequently, we advise entering your Holding number and Passphrase each time you begin a new browser session and wish to view your Holding. Please read our [Security FAQ](http://www.goldmoney.com/faq.html?faq_cat=10) for important tips on accessing GoldMoney securely.
 
@@ -92,11 +92,11 @@ Our website includes links to other Web sites whose privacy practices may differ
 
 #### Email a Friend
 
-If you choose to use our service to email a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Your friend may contact our [Relationship Management team](https://web.archive.org/contact-us.html) to request that we remove this information from our database.
+If you choose to use our service to email a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Your friend may contact our [Relationship Management team](http://www.goldmoney.com/contact-us.html) to request that we remove this information from our database.
 
 #### Access to Personally Identifiable Information
 
-If your personally identifiable information changes, you may correct, update or amend it by contacting our [Relationship Management team](https://web.archive.org/contact-us.html).
+If your personally identifiable information changes, you may correct, update or amend it by contacting our [Relationship Management team](http://www.goldmoney.com/contact-us.html).
 
 We will respond to your request generally within one business day.
 
@@ -106,7 +106,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 ## Contact Information
 
-You can contact us by writing us at the address below or by [contacting our Relationship Management team](https://web.archive.org/contact-us.html).
+You can contact us by writing us at the address below or by [contacting our Relationship Management team](http://www.goldmoney.com/contact-us.html).
 
 **Jersey Office Address**   
 Net Transactions Limited   
