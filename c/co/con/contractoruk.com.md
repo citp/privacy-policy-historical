@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contractoruk.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130205553id_/http%3A//www.contractoruk.com/about/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractoruk.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621181245id_/http%3A//www.contractoruk.com/about/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement :: Contractor UK
 
@@ -22,5 +22,16 @@ We use a technology called "cookies" as part of a normal business procedure to t
 
 **6** We will not transfer your information outside the EEA (European Economic Area) without first obtaining your consent.
 
-**7** If you have any questions about privacy please contact us at [editor@contractoruk.com](mailto:info@contractoruk.com).  
- 
+**7** If you have any questions about privacy please contact us at [editor@contractoruk.com](mailto:info@contractoruk.com).
+
+We use cookies on our site for several purposes.  They allow us to identify your device uniquely. These cookies do not contain any personal information. These cookies control basic functionality of the website by storing your preferences. Other cookies are used to give us feedback about the performance of our site so that we can make it as good as possible - again these do not contain personal information about you in any way.
+
+Our website also serves banner adverts to publicise jobs and services that you may be interested in.  Some of these ads may also place cookies on your device from our ad server located at ads.contractoruk.com and occasionally from other advertiser networks.  These cookies may use online behavioural advertising cookies which may help deliver adverts based on other sites you have visited. The social media icons on our site may also set cookies on your device. 
+
+If the cookie originates from our domain it is known as a first party cookie whereas the domains that are placed from sites other than our own are known as third party cookies.  You can control whether these types of cookies are accepted by your device or not by changing the settings in your browser.  Here are some examples of how you can control these cookies in the most widely used browsers in use today.
+
+  * [Managing cookies using Firefox](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
+  * [Managing cookies using Chrome](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies)
+  * [Managing cookies using Internet Explorer 9](http://windows.microsoft.com/en-GB/windows7/How-to-manage-cookies-in-Internet-Explorer-9)
+
+
