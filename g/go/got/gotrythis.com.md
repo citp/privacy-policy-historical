@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotrythis.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101113550id_/http%3A//www.gotrythis.com/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotrythis.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622013744id_/http%3A//www.gotrythis.com/policy/privacy.html) for the most accurate reproduction.*
 
 # 
 
