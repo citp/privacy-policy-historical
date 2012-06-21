@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressbox.co.uk privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013032457id_/http%3A//www.pressbox.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressbox.co.uk privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621092911id_/http%3A//www.pressbox.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # pressbox - uk press - release distribution - press store - copywriting services
 
