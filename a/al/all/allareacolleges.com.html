@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allareacolleges.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231021340id_/http%3A//www.allareacolleges.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allareacolleges.com privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621044623id_/http%3A//allareacolleges.com/privacy.asp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <title>AllAreaColleges.com</title>
@@ -19,6 +19,90 @@
 ***********************************************/
 
 </script>
+
+
+
+
+
+
+
+
+<script language="javascript">
+function ValidateData()
+{
+
+if (document.f1.ddlProgram.selectedIndex == "") 
+		{
+		alert ("Please Select Program.");
+		document.f1.ddlProgram.focus();
+		return false;
+		}
+
+
+
+if (document.f1.ddlFilter4Degree.selectedIndex == "") 
+		{
+		alert ("Please Select Degree.");
+		document.f1.ddlFilter4Degree.focus();
+		return false;
+		}
+		
+		
+if (document.f1.rad[0].checked == false && document.f1.rad[1].checked == false && document.f1.rad[2].checked == false) 
+		{
+		alert ("Please check School Type.");
+		document.f1.rad[0].focus();
+		return false;
+		}
+	
+if (document.f1.rad[0].checked == true || document.f1.rad[2].checked == true) 
+		{
+		if(document.f1.zip.value=='')
+				{
+				alert("Please Enter Your Zip Code.");
+				document.f1.zip.focus();
+				return false;
+				}
+		if(isNaN(document.f1.zip.value))
+				{
+				alert("Zip Code must be numeric.");
+				document.f1.zip.focus();
+				return false;
+				}
+		if(document.f1.zip.value.length<5)
+				{
+				alert("Please Enter Your 5 cheracter Zip Code.");
+				document.f1.zip.focus();
+				return false;
+				}
+		}
+
+
+/*if (document.f1.ddlFilter4Degree.value == "Certificate/Diploma") 
+		{
+window.location.href="results2.asp";
+		return false;
+		}*/
+
+if (document.f1.ddlProgram.value == "Medical/Nursing") 
+		{
+		window.location.href="results_medical.asp";
+		return false;
+		}
+
+return true;
+}
+</script>
+
+
+
+
+
+
+
+
+
+
 
 
 <style type="text/css">
@@ -130,6 +214,7 @@ a.hiddenajaxlink{display: none}
       </tr>
     </tbody></table></td>
   </tr>
+ 
   <tr>
     <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
@@ -188,8 +273,9 @@ a.hiddenajaxlink{display: none}
           <p>Your privacy is important   to Dual City Media. If you have questions about any of the provisions   described above, please contact us at <a href="mailto:info@dualcitymedia.com" target="_blank">info@dualcitymedia.com</a>.</p>
           <p><strong>Alternatively,   you may contact us at:</strong></p>
           <p><em>Dual City Media.com,   LLC&nbsp;<br>
-            </em><em>3109 West   50th Street, Suite 138</em><em>&nbsp;<br>
-              Minneapolis, MN 55410</em>&nbsp;<br>
+            </em><em>
+			5115 Excelsior Boulevard, Suite 217</em><em>&nbsp;<br>
+            St Louis Park, MN 55416</em>&nbsp;<br>
           </p>
           <p><em>Tel: 888-940-4666</em>&nbsp;<br>
           </p>
