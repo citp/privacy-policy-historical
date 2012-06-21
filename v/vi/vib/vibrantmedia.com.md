@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vibrantmedia.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217045559id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibrantmedia.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621220136id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
 
 # Vibrant Privacy Statement
 
-Vibrant Media, Inc. (“Vibrant Media” “we” or “us”) is a Publisher-side Technology Company. We help many of the websites that you visit serve advertisements. We provide this privacy policy so we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services (our "Clients"). This policy also outlines our privacy practices on our corporate Website ("Website"), www.VibrantMedia.com. If you have any questions regarding our privacy practices, please feel free to contact us by [clicking here](https://web.archive.org/about/contact.asp?ref=privacy).
+Vibrant Media, Inc. (“Vibrant Media” “we” or “us”) is a Publisher-side Technology Company. We help many of the websites that you visit serve advertisements. We provide this privacy policy so we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services (our "Clients"). This policy also outlines our privacy practices on our corporate Website ("Website"), www.VibrantMedia.com. If you have any questions regarding our privacy practices, please feel free to contact us at [info@vibrantmedia.com](mailto:info@vibrantmedia.com).
 
 If you'd like to opt-out from having Vibrant Media collect your Non-PII in connection with our Technology, please   
 [click here](http://intellitxt.com/opt_out/ch_optout.asp). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor our online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
@@ -33,7 +33,7 @@ The Website may contain links to and advertisements for websites operated by thi
 
 _Updating / Deleting your PII_
 
-If you'd like us to update, correct, delete, or deactivate any PII that you have provided to us on this Website, please send your request to us by [clicking here](https://web.archive.org/about/contact.asp?ref=privacy) and we will process your request within a reasonable period of time after receipt. 
+If you'd like us to update, correct, delete, or deactivate any PII that you have provided to us on this Website, please send your request to us at [info@vibrantmedia.com](mailto:info@vibrantmedia.com) and we will process your request within a reasonable period of time after receipt. 
 
 _United States_
 
@@ -71,7 +71,7 @@ We retain the Non-PII collected via our Technology for up to 13 months. After 13
 
 _Deleting your PII_
 
-Although we don’t collect any PII via our Technology, If you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the Website, please send your request to us by [clicking here](https://web.archive.org/about/contact.asp?ref=privacy) and we will process your request within a reasonable period of time after receipt.
+Although we don’t collect any PII via our Technology, If you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the Website, please send your request to us at [info@vibrantmedia.com](mailto:info@vibrantmedia.com) and we will process your request within a reasonable period of time after receipt.
 
 _Opting out from Cookies_
 
@@ -101,8 +101,8 @@ If you have any questions, comments or complaints about www.vibrantmedia.com or 
 
 **Via mail:**  
 Vibrant Media, Inc.  
-75 Hawthorne Street, Suite 2000  
-San Francisco, CA 94105
+201 Post Street, Floor 11  
+San Francisco, CA 94108 
 
 **Via email:**  
 info@vibrantmedia.com
