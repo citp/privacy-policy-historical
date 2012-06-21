@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206132320id_/http%3A//www.academicinfo.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621193812id_/http%3A//www.academicinfo.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Degrees & Guides
 
@@ -21,6 +21,12 @@ Cookies naturally stored on a user's computer are collected by us as it enables 
 We also collect information on your IP (Internet Protocol) address, your internet domain, your computer's operating systems and your navigation path.
 
 This information lets us see how users are finding our sites, and it tells us which pages are visited the most often so we can make our Websites more useful.
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website.
+  * Google's use of the DART cookie enables it and its partners to serve ads to our users based on their visit to this site and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). 
+
+
 
 **Our Security Measures**  
 Our Websites have security measures in place to protect against the loss, misuse, and alteration of the information under our control.
