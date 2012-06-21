@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acer.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101224903id_/http%3A//www.acer.co.uk/ac/en/GB/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622003146id_/http%3A//www.acer.co.uk/ac/en/GB/content/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -83,7 +83,7 @@ Acer may also collect, aggregate and maintain anonymous information about our cu
 
 **Policy Governs Use; Changes to Privacy Policy:**
 
-The terms of this policy will govern the use and any information collected while it is in place. Acer reserves the right to change this policy at any time and we therefore encourage you to check back on our websites from time to time. Changes to this privacy policy are effective at the time they are posted to our websites. Last update: may 2009
+The terms of this policy will govern the use and any information collected while it is in place. Acer reserves the right to change this policy at any time and we therefore encourage you to check back on our websites from time to time. Changes to this privacy policy are effective at the time they are posted to our websites. Last update: May 2009.
 
 **Questions:**
 
