@@ -1,99 +1,117 @@
-<!--The following is the downloaded HTML source of the nblo.gs privacy policy that was archived on 2011-10-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111003171007id_/http%3A//w.networkedblogs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nblo.gs privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621042103id_/http%3A//www.networkedblogs.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
   <title>Privacy Policy | NetworkedBlogs by Ninua</title>
   <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <meta property="fb:app_id" content="9953271133">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  
+  <!-- CSS -->
   <link type="text/css" rel="stylesheet" href="http://static.networkedblogs.com/static/css/jquery.qtip.min.css">
-  <link type="text/css" rel="stylesheet" href="http://static.networkedblogs.com/static/css/styles.css?v=7.353706685431562971">
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
-  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/primer.js?v=7.353706685431562971"></script>
+  <link type="text/css" rel="stylesheet" href="http://static.networkedblogs.com/static/css/styles.css?v=live.359743152409891105">
+  <link type="text/css" rel="stylesheet" href="http://static.networkedblogs.com/static/css/nb-custom-theme/jquery-ui-1.8.16.custom.css?v=1">
+  
+  <!--[if IE]><style type="text/css">.clearfix {zoom: 1;}</style><![endif]-->
+  
+  <!-- JS -->
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+
+  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/primer.js?v=live.359743152409891105"></script>
   <script type="text/javascript" src="http://static.networkedblogs.com/static/js/jquery.qtip.min.js"></script>
   <script type="text/javascript" src="http://static.networkedblogs.com/static/js/history.adapter.jquery.js"></script>
   <script type="text/javascript" src="http://static.networkedblogs.com/static/js/history.js"></script>
-  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/jquery-ui-1.8.7.custom.min.js"></script>
-  <link type="text/css" rel="stylesheet" href="http://static.networkedblogs.com/static/css/smoothness/jquery-ui-1.8.7.custom.css">
+  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/require.js"></script>
   <script type="text/javascript" src="http://static.networkedblogs.com/static/js/jquery.cookie.js"></script>
+  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/ui.js?v=live.359743152409891105"></script>
+
   <script type="text/javascript">
-	// To track outbound links with Google Analytics.
-	function trackAndRedirect(link, category, action) {
-	  if (!category) category = "Outbound Links";
-	  if (!action) action = link.href;
-	  try {
-		_gaq.push(['_trackEvent', category, action]);
-		setTimeout('document.location = "' + link.href + '"', 100);
-		return false;
-	  }catch(err){}
-	}
-	function trackEvent(category, action) {
-	  _gaq.push(['_trackEvent', category, action]);
-	}
+  // To track outbound links with Google Analytics.
+  function trackAndRedirect(link, category, action) {
+    if (!category) category = "Outbound Links";
+    if (!action) action = link.href;
+    try {
+    _gaq.push(['_trackEvent', category, action]);
+    setTimeout('document.location = "' + link.href + '"', 100);
+    return false;
+    }catch(err){}
+  }
+  function trackEvent(category, action) {
+    _gaq.push(['_trackEvent', category, action]);
+  }
+
+  // To avoid errors on IE 7 & 8, disable console.log().
+  // Run before any js that might call console
+  if (typeof console === "undefined" || typeof console.log === "undefined") {
+    var console = {};
+    console.log = function() {};
+   }
   </script>
   <script type="text/javascript">
-	// JS Global variables
-	var config = new Array();
-	config.STATIC_ROOT_URL = "http://static.networkedblogs.com/static/";
-	config.WEBSITE_DOMAIN = "networkedblogs.com";
-	config.WEBSITE_APP_ROOT_URL = "http://networkedblogs.com/";
+  // JS Global variables
+  var config = new Array();
+  config.STATIC_ROOT_URL = "http://static.networkedblogs.com/static/";
+  config.WEBSITE_DOMAIN = "networkedblogs.com";
+  config.WEBSITE_APP_ROOT_URL = "http://www.networkedblogs.com/";
   config.FACEBOOK_APP_ROOT_URL = "http://apps.facebook.com/blognetworks/";
-  config.JS_API_ROOT_URL = "http://w.networkedblogs.com/api/";
+  config.JS_API_ROOT_URL = "http://www.networkedblogs.com/api/";
   config.MAX_USER_LINKS = "5";
+  config.FACEBOOK_APP_ID = "9953271133";
+  config.FB_SILHOUETTE_IMAGE_URL = "http://static.ak.connect.facebook.com/pics/q_silhouette_logo.gif";
   var page_name="public_privacy";
-	var page_group="public";
+  var page_group="public";
   var platform="";
+  var auth_type = "None";
 
   var viewer = null;
+  var blocked_mode = false;
   
+
+  
+
+  var additional_params = {
+    
+    'parent_page_name': 'public_privacy'
+  };
+
+  // init primer library
+  Primer.init({
+    'ajax_params': additional_params,
+    'title_suffix': ' | NetworkedBlogs by Ninua'
+  });
   </script>
-  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/ui.js?v=7.353706685431562971"></script>
-  
   <!-- Google Analytics -->
   <script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-11094983-1']);
-	_gaq.push(['_setDomainName', 'networkedblogs.com']);
-	_gaq.push(['_setAllowHash', 'false']);
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11094983-1']);
+  _gaq.push(['_setDomainName', 'networkedblogs.com']);
+  _gaq.push(['_setAllowHash', 'false']);
     
       _gaq.push(['_trackPageview']);  // Normal page tracking
     
-	(function() {
-	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  window.onerror = function(message, file, line) {
+    var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+    _gaq.push(['_trackEvent', 'Exceptions', 'Application', sFormattedMessage, null, true]);
+    console.log("Get error:", sFormattedMessage);
+  };
   </script>
-	<!--[if IE]>
-	<style type="text/css">
-	  .clearfix {zoom: 1;}
-	</style>
-	<![endif]-->
+  
 </head>
 <body>
   
 
-  
-    <div id="stripe"></div>
-    <div id="stripe_alt">
-      
-        
-      
-    </div>
-  
-
-	<!--TODO:
-	page_name source_edit is incorrect when loading add_blog
-	remove exception, and add ".add" classes to ".nux" definitions  -->
-  <div id="page" class="public  ">
-  	
-
 <!-- Header -->
 
-	
-	
-		
-		
-			
-				<div id="public_header" class="clearfix">
+  
+    <div id="public_header" class="clearfix">
   <a id="public_logo" href="/"><span style="display: none;">NetworkedBlogs by Ninua</span></a>
   
   
@@ -112,35 +130,40 @@
   
   
 </div>
-			
-		
-	
+  
 
 <!-- End Header -->
 
-	  <div style="display: none;">
-			<script type="text/javascript"><!--
-			google_ad_client = "pub-3134991802916668";
-			/* All Pages 728x90 */
-			google_ad_slot = "3177113470";
-			google_ad_width = 728;
-			google_ad_height = 90;
-			//-->
-			</script>
-			<!--script type="text/javascript"
-			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-			</script-->
-    </div>
+  <!--TODO:
+  page_name source_edit is incorrect when loading add_blog
+  remove exception, and add ".add" classes to ".nux" definitions  -->
+  <div id="page" class="
+      public
+      
+      
+      
+      ">
 
-	
-
-  <div id="contentArea" class="clearfix">
     
+
+    
+
+
+
+
+
+<!-- CONTENT -->
+<div id="contentArea" class="
+    
+      
+    
+    clearfix">
+  
 
 <!-- NO SIDEBAR -->
 
 <!-- CONTENT -->
-<div id="divMainContent">
+<div id="divMainContent" class="no_sidebar_centered">
     
   <h1 class="top">Privacy Policy</h1>
 	
@@ -191,7 +214,7 @@
 		
     <h2>Other</h2>
     <ul>
-        <li>When you use NetworkedBlogs, you are subject to the <a href="/tos/">NetworkedBlogs Terms of Service</a>.</li>
+        <li>When you use NetworkedBlogs, you are subject to the <a href="/tos">NetworkedBlogs Terms of Service</a>.</li>
         <li>Please refer to the NetworkedBlogs Help if you have questions about this service.</li>
     </ul>
     
@@ -200,65 +223,95 @@
 </div>
 
 
-  </div>
+</div>
+  
+<!-- ADS -->
 
+  
+
+
+</div> <!-- page -->
+
+<!-- FOOTER -->
+<div class="clearfix"></div>
 
   
     
       <div id="footer">
-        <div id="inner_footer">
-          <b>© 2011 Ninua Inc.</b>
-          <a href="/about/">About Us</a> | 
-          <a href="/privacy/">Privacy Policy</a> | 
-          <a href="/tos/">Terms of Service</a> | 
-          <a href="http://help.networkedblogs.com/">Help &amp; Feedback</a>
-        </div>
+          <b>© 2012 Ninua Inc.</b>
+          <a href="http://www.networkedblogs.com/about" rel="nofollow">About Us</a>
+          <a href="http://www.networkedblogs.com/privacy" rel="nofollow">Privacy Policy</a>
+          <a href="http://www.networkedblogs.com/tos" rel="nofollow">Terms of Service</a>
+          <a href="http://www.networkedblogs.com/help" rel="nofollow">Help &amp; Feedback</a>
+          
+          <div class="clearfix"></div>
       </div>
-      
-      
       
     
   
 
 
-  </div> <!-- page -->
   <div id="fb-root"></div>
   
   <!-- Facebook -->
   <script>
-		window.fbAsyncInit = function() 
-		{
-		  FB.init({appId: '9953271133', status: true, cookie: true,
-		           xfbml: true,
-               channelURL : 'http://w.networkedblogs.com//static/html/fbchannel.html',
+    window.fbAsyncInit = function() 
+    {
+      if (blocked_mode)
+        return;
+    
+      FB.init({appId: '9953271133', status: true, cookie: true,
+               xfbml: true,
+               channelUrl: 'http://www.networkedblogs.com/static/html/fbchannel.html',
                oauth  : true // enable OAuth 2.0
                });
-		  FB.Event.subscribe("auth.authResponseChange", function(response){
+      
+      FB.Event.subscribe("auth.authResponseChange", function(response){
         console.log('auth changed: ', response);
         // In this event, Facebook has not updated it's cookies yet, so we
         // call indirectly so the JS SDK gets the chance to set the cookies.
         setTimeout(function(){verify_fb_status(response);}, 10);
       });
-
+      
+      FB.Event.subscribe("auth.statusChange", function(response){
+        // Note: Bugs in Facebook's SDK cause the auth.statusChange event not to
+        // be called every time it should, especially when user is logged out.
+        // So to get around that, we call verify_fb_status() from
+        // getLoginStatus() and from the authResponseChange event. If it wasn't
+        // for that bug, then this event is all we need.
+        console.log('status changed: ', response);
+      });
+      
       FB.getLoginStatus(function(response) {
         console.log('get login status: ', response);
         verify_fb_status(response);
-      });
-		};
 
-		$('#logout').bind('click', function() {
+        if (viewer)
+          syncRequestsCount();
+      });
+
+      
+    };
+
+    $('#logout').bind('click', function() {
       fb_logout();
       return false;
     });
-    
-		(function() {
-		    var e = document.createElement('script'); 
-		    e.async = true;
-		    e.src = document.location.protocol +
-		            '//connect.facebook.net/en_US/all.js';
-		    document.getElementById('fb-root').appendChild(e);
-		}());
-	</script>
+
+    // Show/hide settings menu.
+    $('#profile_link').mouseenter(function(){$('#account_dropdown').show();});
+    $('#account_dropdown').mouseleave(function(){$(this).hide();});
+
+    (function() {
+      var e = document.createElement('script');
+      e.async = true;
+      
+        e.src = document.location.protocol +
+            '//connect.facebook.net/en_US/all.js';
+      
+      document.getElementById('fb-root').appendChild(e);
+    }());
+  </script>
 
   <!-- preload some images -->
   <div style="display:none;">
