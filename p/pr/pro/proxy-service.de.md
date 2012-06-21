@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxy-service.de privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123142143id_/http%3A//www.proxy-service.de/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxy-service.de privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621161856id_/http%3A//www.proxy-service.de/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,17 +24,17 @@ We may also use third-party advertising partners on our website. Advertisers may
 
 The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. If you do not wish to receive any such indirect cookies, please disable the "Allow Cookies" option.
 
-* For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
+* For more information on configuring your browser, see www.aboutcookies.org or the documentation for your browser. We are not responsible for the content of any third-party websites.
 
 **Policy Modifications**
 
 We reserve the right to review and change this Policy for this Site and/or any other rules and policies relating to the Site at any time and to provide notification solely by posting an updated version on the Site.
 
-  * [Home](https://web.archive.org/web/20111123142143id_/http%3A//www.proxy-service.de/index.php) \- 
-  * [Edit Browser Agent](https://web.archive.org/web/20111123142143id_/http%3A//www.proxy-service.de/edit-browser.php) \- 
-  * [Manage Cookies](https://web.archive.org/web/20111123142143id_/http%3A//www.proxy-service.de/cookies.php)
-  * [Privacy](https://web.archive.org/web/20111123142143id_/http%3A//www.proxy-service.de/privacy.php) \- 
-  * [Our Terms](https://web.archive.org/web/20111123142143id_/http%3A//www.proxy-service.de/terms.php) \- 
-  * [Impressum](https://web.archive.org/web/20111123142143id_/http%3A//www.proxy-service.de/impressum.php)
+  * [Home](https://web.archive.org/web/20120621161856id_/http%3A//www.proxy-service.de/index.php) \- 
+  * [Edit Browser Agent](https://web.archive.org/web/20120621161856id_/http%3A//www.proxy-service.de/edit-browser.php) \- 
+  * [Manage Cookies](https://web.archive.org/web/20120621161856id_/http%3A//www.proxy-service.de/cookies.php)
+  * [Privacy](https://web.archive.org/web/20120621161856id_/http%3A//www.proxy-service.de/privacy.php) \- 
+  * [Our Terms](https://web.archive.org/web/20120621161856id_/http%3A//www.proxy-service.de/terms.php) \- 
+  * [Impressum](https://web.archive.org/web/20120621161856id_/http%3A//www.proxy-service.de/impressum.php)
 
 
