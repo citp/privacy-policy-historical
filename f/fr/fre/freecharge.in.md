@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecharge.in privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229205108id_/http%3A//www.freecharge.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecharge.in privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621180134id_/http%3A//www1.freecharge.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy |Freecharge.in - India's Top Online Prepaid Mobile Recharge Service Providers
 
