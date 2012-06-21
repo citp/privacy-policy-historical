@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetdownloadmanager.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228172401id_/http%3A//www.internetdownloadmanager.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetdownloadmanager.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621053025id_/http%3A//www.internetdownloadmanager.com/support/privacy.html) for the most accurate reproduction.*
 
 # Internet Download Manager - the fastest download accelerator
 
@@ -40,7 +40,7 @@ For questions regarding this Privacy Policy please email Tonec Inc. at privacy@t
 
 _Internet Download Manager, Tonec Inc. 641 Lexington Avenue, 15th fl. New York, NY, 10022 E-mail: info@tonec.com_
 
-_©  1999-2008. All rights reserved._
+_©  1999-2012. All rights reserved._
 
   
 
