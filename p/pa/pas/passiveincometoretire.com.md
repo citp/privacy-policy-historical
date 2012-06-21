@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passiveincometoretire.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213213734id_/http%3A//www.passiveincometoretire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passiveincometoretire.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621045101id_/http%3A//www.passiveincometoretire.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Passive Income to Retire
 
@@ -19,3 +19,7 @@ We also use third party advertisements on PassiveIncomeToRetire.com to support o
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
+
+## Disclaimer
+
+Please note that Passive Income to Retire has financial relationships with some of the merchants mentioned here. Passive Income to Retire may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for the said merchant.
