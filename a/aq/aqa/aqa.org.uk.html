@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the aqa.org.uk privacy policy that was archived on 2011-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111114014615id_/http%3A//www.aqa.org.uk/footer/privacy-statement.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aqa.org.uk privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621152009id_/http%3A//web.aqa.org.uk/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>AQA Website Privacy Statement</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Privacy and Fair Processing Statement including Cookie regulation">
 <link rel="stylesheet" href="/aqa_v2.css" type="text/css">
 <link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
 
@@ -13,6 +14,84 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/newaqa.js" type="text/javascript"> </script>
 
 
+
+<script type="text/javascript">
+var replaceLinksAndOutbound = function() {
+  $('a:not([href^="mailto:"])').each(function() {
+    var mydomain = new RegExp(document.domain, 'i');
+    var mydomainList = new RegExp('aqa\.org\.uk|sciencelab\.org\.uk|custhelp\.com', 'i');
+    var isDownload = new RegExp("doc$|pdf$|xls$|ppt$|zip$|txt$|wma$|mov$|avi$|wmv$|mp3$", 'i');
+
+    if (!isDownload.test(this.href)) {    
+    if (!mydomain.test(this.href) && mydomainList.test(this.href)){
+      $(this).click(function() {
+        _gaq.push( [ '_link', this.href ]);
+        return false;
+      });
+    } else {
+        if (!mydomain.test(this.href) && !mydomainList.test(this.href)){
+               $(this).click(function() {
+                               _gaq.push( [ '_trackEvent', 'outbound', 'click', this.href ]);
+                               //return false;
+                       });
+        }
+    }
+    }
+  });
+}
+
+
+var replaceForms = function() {
+  $('form').submit(function() {
+    var mydomain = new RegExp(document.domain, 'i');
+    var mydomainList = new RegExp('aqa\.org\.uk|sciencelab\.org\.uk|custhelp\.com', 'i');
+ 
+    if (!mydomain.test(this.action) && mydomainList.test(this.action)) {
+   
+      _gaq.push( [ '_linkByPost', this ]);
+    }
+  });
+}
+
+  var eventmailto = function() {
+    $('a[href^="mailto:"]').each(function() {
+     
+        $(this).click(function() {
+          _gaq.push( [ '_trackEvent', 'mailto', 'click', this.href.replace("mailto:", "") ]);
+          // return false;
+       });
+
+ });
+ }
+
+  var download = function () {
+             var extArr = ['.doc', 'pdf', '.xls', '.ppt', '.zip', '.txt', '.wma', '.mov', '.avi', '.wmv', '.mp3','.swf'];
+            for (var i = 0; i < extArr.length; i++) {
+                $('a[href$="' + extArr[i] + '"]').each(function () {
+                    $(this).click(function () {
+                        _gaq.push(['_trackEvent', 'download', 'click', this.href]);
+                        //return false;
+                    });
+                });
+             }
+        }
+
+ 
+
+  var replaceAll = function() {
+  
+   replaceLinksAndOutbound();
+   replaceForms();
+   eventmailto();
+   download();
+ 
+
+} 
+
+$(window).load(replaceAll);
+</script>
+
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -20,9 +99,8 @@
   _gaq.push(['_setDomainName', 'aqa.org.uk']);
   _gaq.push(['_setAllowLinker', true]);
   _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackEvent']);
-  _gaq.push(['_trackDocument']);
-
+  
+  
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -39,18 +117,25 @@
 <div class="centreWin">
 <!--[if lt IE 7]>
 <link rel="stylesheet" href="/css/ie6.css" type="text/css" />
-
-
 <![endif]-->
-		<div id="aqa-header-wrapper">
-			<div id="logo"><a href="/index.php"><img src="/img/redesign/AQA-LOGO.GIF" alt=""></a></div>
-			<div id="aqa-header-right">
-
-				<ul><li class="first"><a href="/media-centre/">News</a></li><li><a href="/askaqa.php">Ask AQA</a></li><li><a href="/help/eaqa.php">e-AQA</a></li><li><a href="http://shop.aqa.org.uk/">Shop</a></li><li><a href="/contact.php">Contact us</a></li><li><a href="/sitemap.php">Sitemap</a></li><li><a href="/help/help.php">Help</a></li>
-				</ul>
-				<div id="aqa-search-box">
-					<form method="" action="http://search.aqa.org.uk/search">
-					<!--<form method="get" action="http://web.aqa.org.uk/offline.php"> -->
+	<div id="aqa-header-wrapper">
+		<div id="logo">
+			<a href="/index.php"><img src="/img/redesign/AQA-LOGO.GIF" alt=""></a>
+		</div>
+		<div id="aqa-header-right">
+			<ul>
+				<li class="first"><a href="/media-centre/">News</a></li>
+				<li><a href="/askaqa.php">Ask AQA</a></li>
+				<li><a href="/help/eaqa.php">e-AQA</a></li>
+				<li><a href="http://shop.aqa.org.uk/">Shop</a></li>
+				<li><a href="/contact.php">Contact us</a></li>
+				<li><a href="http://www.aqa.org.uk/jobs">Jobs</a></li>
+				<li><a href="/sitemap.php">Sitemap</a></li>
+				<li><a href="/help/help.php">Help</a></li>
+			</ul>
+			<div id="aqa-search-box">
+				<form method="get" action="http://web.aqa.org.uk/search.php">	
+				<!--<form method="get" action="http://web.aqa.org.uk/search_offline.php">-->
 					<p>
 					<input type="text" id="formSearch" name="q" maxlength="255" value="search" onblur="if (this.value == '') {this.value = 'search';}" onfocus="if (this.value == 'search') {this.value = '';}">
 					<input type="submit" class="searchButton" name="btnG" value="">
@@ -60,23 +145,18 @@
 					<input type="hidden" name="proxystylesheet" value="default_frontend">
 					<input type="hidden" name="output" value="xml_no_dtd">
 					</p>
-					</form>
-
+				</form>
 			</div>
-
-
-			</div>
-			<div style="clear: both;"></div>
-
-		</div>
+		</div><!-- end aqa-header-right -->
+		<div style="clear: both;"></div>
+	</div><!-- end aqa-header-wrapper -->
 
 <div id="aqa-all-nav-wrapper">
 			<div id="aqa-nav-wrapper">
-				<ul id="aqa-level1"><li class="first sel"><a href="/">Home</a></li><li><a href="http://www.aqa.org.uk/subjects.php">Subjects</a></li><li><a href="http://www.aqa.org.uk/qualifications.php">Qualifications</a></li><li><a href="http://www.aqa.org.uk/support.php">Support</a></li><li><a href="http://www.aqa.org.uk/administration.php">Administration</a></li><li class="last"><a href="http://www.aqa.org.uk/about-us.php">About us</a></li></ul>
-
-			</div>
+				<ul id="aqa-level1"><li class="first sel"><a href="/">Home</a></li><li><a href="http://www.aqa.org.uk/subjects.php">Subjects</a></li><li><a href="http://www.aqa.org.uk/qualifications.php">Qualifications</a></li><li><a href="http://www.aqa.org.uk/support.php">Support</a></li><li><a href="/qual/cpd/index.php">CPD</a></li><li><a href="http://www.aqa.org.uk/administration.php">Administration</a></li><li class="last"><a href="http://www.aqa.org.uk/about-us.php">About us</a></li></ul>
+</div>
 			<div id="aqa-nav-wrapper2">
-			<ul><li><a href="http://www.aqa.org.uk/teachers.php ">Teachers</a></li><li><a href="http://www.aqa.org.uk/exams-officers.php">Exams Officers</a></li><li><a href="http://www.aqa.org.uk/examiners-and-moderators.php">Examiners and Moderators</a></li><li><a href="http://www.aqa.org.uk/students-and-parents.php">Students and Parents</a></li><li><a href="/media-centre/">Media Centre</a></li><li><a href="http://www.aqa.org.uk/curriculum-managers.php">Curriculum Managers</a></li></ul>
+			<ul><li><a href="http://www.aqa.org.uk/teachers.php ">Teachers</a></li><li><a href="http://www.aqa.org.uk/exams-officers.php">Exams Officers</a></li><li><a href="http://www.aqa.org.uk/examiners-and-moderators.php">Examiners and Moderators</a></li><li><a href="http://www.aqa.org.uk/students-and-parents.php">Students and Parents</a></li><li><a href="/trainee-teachers/intro.php">Trainee Teachers</a></li><li><a href="/curriculum-managers.php">Curriculum Managers</a></li></ul>
 			</div>
 		</div><!--end include swoosh nav file-->
 <div class="mainbody">
@@ -86,79 +166,59 @@
 <div id="contentNOnav">
 <div class="fixh1"><h1 class="centre">AQA Privacy and Fair Processing Statement</h1>
 </div>
-
+<div id="termspage">
 <p><strong>The purpose of this statement is to set out how we use your personal information. By accessing and using AQA's Websites, or by supplying your personal information at an event, online, by email, telephone or on an application form, you agree to your personal data being processed by us in accordance with this statement, which forms part of the AQA Terms and Conditions. AQA abides by the eight Data Protection Act 1998 principles and it requires all those who supply or use this data to abide by those principles. </strong></p>
 
 <p>AQA reserve the right to change this Privacy Policy at any time with or without prior notice. By providing AQA with your contact information and by using the AQA website you agree to this policy.</p>
 
-<ul class="privacyBullet">
+<ol class="infoList">
+
+<li><strong>Collecting personal information</strong>
+
+<br>AQA is committed to respecting and protecting your privacy. When you register with AQA for one of its services, including this Website, you will be asked to provide certain personal information, for example your name, address, email address or phone number. AQA will store this data securely and hold it on computers or otherwise, and use it for the purposes outlined below.</li>
 
 
-<li><strong>1. Collecting personal information</strong>
-<ul>
-<li>AQA is committed to respecting and protecting your privacy. When you register with AQA for one of its services, including this Website, you will be asked to provide certain personal information, for example your name, address, email address or phone number. AQA will store this data securely and hold it on computers or otherwise, and use it for the purposes outlined below.</li>
-	</ul>
-	</li>
+<li><strong>Use of personal information </strong>
 
-<li><strong>2. Use of personal information </strong>
-<ul>
-<li>AQA collects personal data for the purposes of administering examinations, ancillary support and the provision of services, administration of staff, contractors and self-employed specialists, payment validations, including taking and processing payments, and market research.<br>
-AQA only uses personal information within the context of the purposes outlined above and it will only keep the information as long as is necessary to support these purposes.<br>
+<br>AQA collects personal data for the purposes of administering examinations, ancillary support and the provision of services, administration of staff, contractors and self-employed specialists, payment validations, including taking and processing payments, and market research.<br><br>
+AQA only uses personal information within the context of the purposes outlined above and it will only keep the information as long as is necessary to support these purposes.<br><br>
 If you do not inform AQA that you do not wish to receive marketing messages from AQA then AQA may send you, from time to time, messages to keep you informed of suitable products or services.  AQA will give you the opportunity of "opting out" of receiving such communications both when you give AQA your information and with each marketing message AQA may send you.</li>
-</ul>
-</li>
 
-<li><strong>3. Controlling access to personal information </strong>
-<ul>
-<li>AQA will not pass on your details to any third party (other than agents working directly on our behalf) unless you give AQA permission to do so or AQA is required to do so by law.</li>
-</ul>
-</li>
-
-<li><strong>4. Storing your personal information </strong>
-<ul>
-<li>AQA employs strict information security procedures to store and handle your information. We protect your information against unauthorised access, unlawful processing, and accidental loss, destruction and damage.</li>
-</ul>
-</li>
+<li><strong>Controlling access to personal information </strong>
+<br>AQA will not pass on your details to any third party (other than agents working directly on our behalf) unless you give AQA permission to do so or AQA is required to do so by law.</li>
 
 
-<li><strong>5. Data Protection Act - requesting further information from AQA </strong>
-<ul>
-<li>The Assessment and Qualifications Alliance is Registered with the Information Commissioner's Office (Registration No PZ6944888) under the requirements of the Data Protection Act (1998).<br>
-If you have had any dealings with AQA (for example as a teacher, candidate, parent of a candidate, examiner, employee or as a supplier of goods and services) it is possible that AQA holds information about you as a 'data subject'.<br>
+<li><strong>Storing your personal information </strong>
+<br>AQA employs strict information security procedures to store and handle your information. We protect your information against unauthorised access, unlawful processing, and accidental loss, destruction and damage.</li>
+
+<li><strong>Data Protection Act - requesting further information from AQA </strong>
+<br>The Assessment and Qualifications Alliance is Registered with the Information Commissioner's Office (Registration No PZ6944888) under the requirements of the Data Protection Act (1998).<br><br>
+If you have had any dealings with AQA (for example as a teacher, candidate, parent of a candidate, examiner, employee or as a supplier of goods and services) it is possible that AQA holds information about you as a 'data subject'.<br><br>
 You are entitled to ask AQA to disclose the information that it holds about you and, on payment of a standard fee of £10, AQA will share it with you within 40 days.
-You are entitled to ask AQA to correct any inaccuracies in any of the data it holds about you.<br>
+You are entitled to ask AQA to correct any inaccuracies in any of the data it holds about you.<br><br>
 You would normally direct your request for such disclosure to the Department within AQA with whom you have had dealings. However, if you are uncertain about the identity of your contact or the relevant Department, please address your enquiry to Dr A Bird, Chief Operating Officer, AQA, Devas Street, Manchester, M15 6EX.</li>
-</ul>
-</li>
 
 
-<li><strong>6. Payment </strong>
-<ul>
-<li>Any information collected on the AQA website is encrypted using SSL technology and AQA use a payment service provider that is Level 1 PCI DSS compliant.<br>
-Your credit/debit card details will be stored in an encrypted and secure environment that is certified as Level 1 PCI DSS compliant.<br>
-If your session is timed out for any reason you will not be able to access the previously input data. This can be inconvenient but it is for your security.<br>
+
+<li><strong>Payment </strong>
+<br>Any information collected on the AQA website is encrypted using SSL technology and AQA use a payment service provider that is Level 1 PCI DSS compliant.<br><br>
+Your credit/debit card details will be stored in an encrypted and secure environment that is certified as Level 1 PCI DSS compliant.<br><br>
+If your session is timed out for any reason you will not be able to access the previously input data. This can be inconvenient but it is for your security.<br><br>
 Some of AQA's online systems and payment systems are hosted and/or operated by a third party.  This means that your data may be held temporarily by a third party but this will be held solely on behalf of and under the control of AQA.</li>
-</ul>
+
+<li><strong>Links to third parties </strong>
+<br>The AQA Website includes links to other third-party websites. AQA is not responsible for the data protection and privacy policies, procedures or the content of these linked websites, or any viruses which may be contained in them. You should read the relevant statements that apply to those sites.</li>
+
+<li><a name="cookies"></a><strong>Cookies</strong>
+<br>AQA uses cookies to personalise your use of certain AQA websites, particularly in relation to repeated purchases. A cookie is a small text file sent from a website and stored on your computer's hard drive. When you revisit the website, it uses the information in the cookie to, for example, fill in a form or set a personal preference such as a language option.<br><br>
+We are currently reviewing our procedures following changes in the law about cookie usage. In the meantime, we will continue to take great care to protect your information and never share personal information with other organisations.
 </li>
 
 
-<li><strong>7.  Links to third parties </strong>
-<ul>
-<li>The AQA Website includes links to other third-party websites. AQA is not responsible for the data protection and privacy policies, procedures or the content of these linked websites, or any viruses which may be contained in them. You should read the relevant statements that apply to those sites.</li>
-</ul>
-</li>
-
-
-<li><strong>8. Cookies</strong>
-<ul>
-<li>AQA uses cookies to personalise your use of certain AQA websites, particularly in relation to repeated purchases. A cookie is a small text file sent from a website and stored on your computer's hard drive. When you revisit the website, it uses the information in the cookie to, for example, fill in a form or set a personal preference such as a language option.</li>
-</ul>
-</li>
-	
-
-</ul>
+</ol>
 
 <p class="version">Version 4.2</p>
+
 </div>
 
     </div>
@@ -168,7 +228,7 @@ Some of AQA's online systems and payment systems are hosted and/or operated by a
 <!--include footer nav file-->
 <div class="clear">&nbsp;</div>
 <div class="update">
-	This page was last updated on Thursday 06 October  2011 at 15 32</div>
+	This page was last updated on Wednesday 23 May  2012 at 14 17</div>
  
 
 <hr class="HR">
@@ -180,7 +240,7 @@ Some of AQA's online systems and payment systems are hosted and/or operated by a
 <li><a href="/accessibility.php">Accessibility</a></li>
 <li><a href="mailto:mailbox@aqa.org.uk">Feedback</a></li>
 
-<li><a href="/terms.php#copy">© AQA 2011</a></li>
+<li><a href="/terms.php#copy">© AQA 2012</a></li>
 </ul>
 </div></div>
 
@@ -229,4 +289,4 @@ function recordOutboundLink(link, category, action) {
 
 
 
-</body></html>
+</div></body></html>
