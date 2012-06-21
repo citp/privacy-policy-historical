@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227073759id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621182948id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
 
 # Oodle Classifieds - Privacy Policy
 
@@ -25,7 +25,7 @@ Oodle, or people that place listings on Oodle, may provide links to third party 
 
 Registration is required to place a listing through our service or to use other types of functionality that require the service to recognize a user (e.g., Oodle Alerts). If you decide to register or sign up for certain services, you will need to give us certain Personally Identifiable Information, such as a valid e-mail address and zip code. You will also have the option to provide other Personally Identifiable Information such as your address. This Personally Identifiable Information will be used to personalize and improve your experience of our service. This information will not be disclosed to any third-party without your explicit consent. 
 
-Registered users may choose to receive a copy of our newsletter or receive other mailings from us regarding our service or the Sites. You may opt-out of receiving future mailings as part of the registration process. 
+Registered users and users that provide their email address to Oodle may receive a copy of our newsletter and other occasional mailings from us regarding our service or the Sites. You may opt-out of receiving future mailings at any time by clicking the unsubscribe link on the email, or by updating your subscription information on the [Subscription Tab](http://www.oodle.com/account/subscription/) in the My Account section. 
 
 You can review and change your Personally Identifiable Information or password at any time on the [My Profile Tab](http://www.oodle.com/account/profile/) in the My Account section. 
 
@@ -96,17 +96,11 @@ If we merge with or are acquired by another company, the resulting combined comp
 
 ### International Users
 
-The Sites are hosted in the United States. If you use the Sites from outside of the United States, you are voluntarily transferring information (potentially including personally-identifiable information) and content to the United States and agreeing that Oodle’s collection, use, storage and sharing of your information and content is exclusively subject to the laws of the United States, not of the jurisdiction in which you are located. Privacy Complaints from European Union Citizens; in compliance with the Safe Harbor Principles, Oodle commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Oodle at abuse@oodle.com Oodle has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Oodle, you may contact the BBB EU SAFE HARBOR program at the address below: 
+The Sites are hosted in the United States. If you use the Sites from outside of the United States, you are voluntarily transferring information (potentially including personally-identifiable information) and content to the United States and agreeing that Oodle’s collection, use, storage and sharing of your information and content is exclusively subject to the laws of the United States, not of the jurisdiction in which you are located. Privacy Complaints from European Union Citizens; in compliance with the Safe Harbor Principles, Oodle commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Oodle at abuse@oodle.com Oodle has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Oodle, you may contact the BBB EU SAFE HARBOR program at: <http://www.bbb.org/us/safe-harbor-complaints>  
 
-Council of Better Business Bureaus, Inc.  
-BBB EU SAFE HARBOR  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
 
 ### More Questions?
 
 If you have any questions about this Privacy Policy or want to report abuse, please contact us at [abuse@oodle.com](http://www.oodle.com/info/help/?&node_id=2&mode=contact). 
 
-Last update June 29, 2011
+Last update February 16, 2012
