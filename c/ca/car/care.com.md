@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228230210id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621033912id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
 
 # Privacy Policy - Care.com
 
@@ -81,5 +81,5 @@ If you have any questions on our Privacy Policy, you can contact us at:
 
 Legal Department   
 Care.com, Inc.   
-201 Jone Road, Suite 500   
+201 Jones Road, Suite 500   
 Waltham, MA 02451 USA 
