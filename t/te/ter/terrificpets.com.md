@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the terrificpets.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217054132id_/http%3A//www.terrificpets.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrificpets.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621043201id_/http%3A//terrificpets.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Dogs - Cats - Horses - TerrificPets.com
 
-TerrificPets.com is the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. TerrificPets.com collects information from our users at several different points on our website. 
+TerrificPets.com, an OffLeashMedia company, is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. TerrificPets.com collects information from our users at several different points on our website. 
 
 ### Registration 
 
