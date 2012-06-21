@@ -1,55 +1,46 @@
-> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217025354id_/http%3A//www.mgon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621044742id_/http%3A//www.thesimsresource.com/helpcenter/privacy) for the most accurate reproduction.*
 
-# Welcome to Media and Games Online Network - MGON
+# TSR - Privacy Policy
 
-Below you will find information about MGON's privacy policy.   
-  
-MGON International AB's Privacy Statement   
-MGON International AB is committed to the responsible management of consumer information. Internet user privacy is a high priority to MGON International AB, our advertisers and our web publishers. 
+## Introduction
 
-MGON International AB continually reviews its data practices and privacy policy in light of consumer demands, public interests and governmental concerns. 
+The Sims Resource takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally identifiable information (referred to as "data" below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor does it apply to persons that are not employees or agents of the site or that are not under The Sims Resource's control. Please take time to read this site's [Terms of use](https://web.archive.org/helpcenter/terms).
 
-MGON International AB operates a network of several web site properties including this one, and causes advertisements to be delivered to such web sites on behalf of advertisers. For more information about the business of MGON International AB, please see our [company section](http://www.mgon.com/corporate/index.phtml).
+## 1\. Collection of data
 
-Personal  
-Throughout the entire network of official MGON sites, MGON will not collect any personally-identifiable information about you (name, address, telephone number, email address) unless you provide it to us voluntarily. If you do not want your personal information collected, please do not submit it. An official MGON site is one that is designed and controlled by MGON International AB. 
+Registration for an account on this site requires only a valid e-mail address and a user name that has not been chosen already. You are not required to provide any other information if you do not want to. Please be aware that the user name you choose, the e-mail address you provide and any other information you enter may render you personally identifiable, and may possibly be displayed on this web site intentionally (depending on choices you make during the registration process, or depending on the way in which the site is configured) or unintentionally (subsequent to a successful act of intrusion by a third party). As on many web sites, The Sims Resource will automatically receive general information that is contained in server log files, such as your IP address and cookie information. Information about how advertising may be served on this site is set forth below.
 
-If you do submit your email or postal addresses online, you may receive periodic mailings from us with information on new services or products. If you do not wish to receive such mailings, please let us know by contacting us at the email or phone listed at the bottom of this statement.
+## 2\. Use of data
 
-If you submit your telephone number online, you may receive telephone contact from us regarding information you have requested online. You may also receive telephone contact regarding new services or products. If you do not wish to receive telephone calls, please let us know by contacting us at the email or phone listed at the bottom of this statement.
+Data may be used to customize and improve your user experience on this site. Efforts will be made to prevent your data being made available to third parties unless (i) provided for otherwise in this Privacy Policy; (ii) your consent is obtained, such as when you choose to opt-in or opt-out for the sharing of data; (iii) a service provided on our site requires interaction with a third party, or is provided by a third party, such as an application service provider; (iv) pursuant to legal action or law enforcement; (v) it is found that your use of this site violates the site policy, terms of service, terms of use or other usage guidelines, or if it is deemed reasonably necessary by the site editor to protect the site editor's legal rights and/or property; or (vi) this site is purchased by a third party, in which case that third party will be able to use the data in the same manner as set forth in this policy. In the event you choose to use links displayed on this web site to visit other web sites, you are advised to read the privacy policies published on those sites.
 
-If you have already submitted this information and would like for us to remove it from our files, please contact us at the email or phone listed at the bottom of this statement. We will use reasonable efforts to delete your information from our existing files. 
+## 3\. Cookies
 
-_Non-personally Identifiable Information Collected Automatically_
+Like many web sites, this web site sets and uses cookies to enhance your user experience (to remember your personal settings, for instance). Advertisements may display on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement. However, the parties providing the advertising do not have access to this site's cookies. These parties usually use non-personally-identifiable or anonymous codes to obtain information about your visits to this site. You can visit the Network Advertising Initiative if you want to find out more information about this practice, and to learn about your options, including your options with regard to the following companies that may serve advertising on this site:
 
-For each visitor to an MGON International website, our Web server automatically recognizes your domain, the type of Internet browser you are using, the type of computer operating system you are using, and the domain name of the web site from which you linked to our site. This non-personally identifiable information is collected automatically, used for internal review, then discarded. 
+[ [Burst Publisher Network](http://www.burstmedia.com/) ] [ [Valueclick Media](http://www.valueclickmedia.com/) ] [ [Tribal Fusion](http://www.tribalfusion.com/) ] [ [Intergi](http://www.intergi.com/) ] [ [Google Adsense](http://www.google.com/adsense) ] [ [Pubmatic Adflex](http://www.pubmatic.com/) ]
 
-Who to Contact  
-Please e-mail questions or requests for more information about MGON International AB's privacy policies and initiatives to [privacy@mgon.com](mailto:privacy@mgon.com). 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-Any consumer may request removal of his or her name from MGON International AB's any consumer database MGON may maintain by sending e-mail to [optout@mgon.com](mailto:optout@mgon.com). You must provide your name, complete street address, city, state, ZIP code and e-mail address. We will use reasonable efforts to delete this information from our existing files. 
+## 4\. Minors
 
-Or alternatively, our office can be contacted on +46 - (0)270 - 73530 
+The Sims Resource does not allow persons who are aged thirteen or younger to become members of this site. For more information, please contact the site administrator through the [Support System](https://web.archive.org/support/send/section/Other).
 
-Consumers' Privacy Rights   
-MGON International AB holds the consumer relationship in the highest regard and pledges: 
+## 5\. Editing or deleting your account information
 
-To ensure that consumers have the ultimate right to control dissemination of their personal information. We support the self-regulation efforts of the direct marketing industry and believe this action is the best way to protect consumer privacy. We support legislation and regulatory efforts, which introduce fair, workable guidelines that protect the privacy of consumers. We will work to ensure that any such guidelines are consistent with and complement established self-regulatory measures, and that they allow the consumer to continue receiving the benefits that sophisticated marketing techniques can provide.
+You are provided with the ability to edit the information stored for your user account information during registration, by visiting your user [account control panel](https://web.archive.org/mytsr/account/account). You can request that your user account be deleted; to do so, please contact the site administrator through the [Support System](https://web.archive.org/support/send/section/Other). Content or other data that you may have provided, and that is not stored within your user account, such as creations published, may continue to remain on the site at the site owners discretion, even after your user account is deleted. Please see the site's Terms of use for more information.
 
-To respond quickly to questions about the accuracy of information we process for our customers. We appreciate the fact that inaccurate data can have a negative impact upon consumers. If a data error is called to our attention, we will use our best efforts to determine the source of the error and to notify the responsible party and update our records. If the error is in data, which originates with us, we will promptly correct it. 
+## 6\. Changes to this privacy policy
 
-To monitor privacy issues and assure that any changes in legislation or industry standards regarding privacy issues are reflected in our Privacy Policy. MGON International AB has appointed an executive level Privacy Committee, which uses a variety of resources to stay informed about changes in legislation and regulation. We are in constant contact with our network affiliates to identify and resolve misunderstandings about the law, industry standards or our Privacy Policy. 
+Changes may be made to this policy from time to time. You will be notified of substantial changes to this policy either by through the posting of a prominent announcement on the site, and/or by a mail message sent to the e-mail address you have provided, which is stored within your user settings.
 
-To maintain strict data security systems that ensure specific individual information will not be made available to any unauthorized person. We use a multi-level security system to control access to information stored for our customers. We also provide stringent physical security and only provided access to authorized personal. Now go play some games!!!
+## 7\. No Guarantees
 
-Enjoy your stay in the MGONetwork!
+While this privacy policy states standards for maintenance of data, and while efforts will be made to meet the said standards, The Sims Resource staff are not in a position to guarantee compliance with these standards. There may be factors beyond our control that may result in disclosure of data. Consequently, the site editor offers no warranties or representations as regards maintenance or non-disclosure of data.
 
-Third Party Ad Servers  
-MGON International AB uses ad servers (such as Falk Ad Solution) to serve the advertisements that you see on the pages of the MGONetwork. That partner may use cookies in the process of serving advertisements, but it will not collect any personal identifiable information about you. For further information on these third parties, cookies, and how to opt-out, please follow the links below:
+## 8\. Contact information
 
-[AdAllies](http://adallies.com/policy.html)
+If you have any questions about this policy or about this web site, please feel free to contact the site administrator through our [Support System](https://web.archive.org/support/send/section/Other).  
+The Sims Resource is owned and operated by IBIBI HB, Kungsgatan 3, Soderhamn, 826 30, SWEDEN.
 
-[Falk](http://www.falkag.de/)
-
-[Adtegrity](http://www.adtegrity.com/privacy.asp)  
-
+Last updated: **26th March 2010**
