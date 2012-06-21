@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suntimes.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227153603id_/http%3A//www.suntimes.com/aboutus/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suntimes.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621033559id_/http%3A//www.suntimes.com/aboutus/privacypolicy/index.html) for the most accurate reproduction.*
 
 # Privacy policy from the Chicago Sun-Times
 
