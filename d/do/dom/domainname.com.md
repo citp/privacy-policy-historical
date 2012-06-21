@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the domainname.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207232420id_/https%3A//www.domainname.com/dnc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainname.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621192648id_/http%3A//www.domainname.com/dnc/privacy-policy.php) for the most accurate reproduction.*
 
-# DomainName, Inc. - Privacy Policy
-
-[Portal Home](http://www.domainname.com/index.php) > [Privacy Policy](http://www.domainname.com/dnc/privacy-policy.php)
+# Privacy Policy - DomainName, Inc.
 
 DomainName.com respects your privacy. We have created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for the site [www.domainname.com](http://www.domainname.com/).
 
@@ -56,7 +54,3 @@ United States_ _ ___
 [_support@domainname.com_](mailto:support@domainname.com) _ ___
 
 * The e-mail and/or postal mail you elect to receive may include offerings from trusted DomainName advertising partners. We never sell your personal information for these offerings.
-
-Powered by [WHMCompleteSolution](http://www.whmcs.com/)
-
-DomainName, Inc. 11400 W. Olympic Blvd. Suite 200 Los Angeles, CA 90064 USA 
