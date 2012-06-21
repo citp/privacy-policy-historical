@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forextips.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223111536id_/http%3A//www.forextips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextips.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622010627id_/http%3A//www.forextips.com/privacy-policy) for the most accurate reproduction.*
 
 # | Privacy Policy | Forex Tips
 
@@ -46,4 +46,31 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
   1. You can send email to MTI at ts@markettraders.com.
   2. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact MTI Toll Free at 1-800-866-7431 .
 
+
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\)%20/blogplay.com/%20blogplay.com "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=No%20data%20you%20provide%20ForexTips.com%20as%20part%20of%20your%20basic%20registration%20or%20personalization%20will%20be%20sold%20to%20outside%20organizations.%20ForexTips.com%2C%20however%2C%20reserves%20the%20right%20to%20disclose%20personal%20identifying%20information%20when%20required%20or%20permitted%20by%20law.%20 "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&srcTitle=Forex+Tips+Foreign+Currency+Exchange+Trading+Education "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Forex+Tips+Foreign+Currency+Exchange+Trading+Education&summary=No%20data%20you%20provide%20ForexTips.com%20as%20part%20of%20your%20basic%20registration%20or%20personalization%20will%20be%20sold%20to%20outside%20organizations.%20ForexTips.com%2C%20however%2C%20reserves%20the%20right%20to%20disclose%20personal%20identifying%20information%20when%20required%20or%20permitted%20by%20law.%20 "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
+
+Kick-Start your Forex FUTURE with a **Free** Webinar!
+
+  
+
+
+Market Traders/Next Step Financial Holdings Webinars
+
+  
+
+
+  
+
+
+  
 
