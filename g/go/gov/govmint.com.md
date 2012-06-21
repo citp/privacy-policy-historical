@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govmint.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214050308id_/http%3A//www.govmint.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govmint.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621141507id_/http%3A//www.govmint.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - GovMint
 
@@ -57,7 +57,7 @@ Our approach to security
 We maintain reasonable physical, technical, and procedural measures to limit access to personal information to authorized individuals with appropriate purposes. Our web site is a "Secure Site" recognized by VeriSign, a leading computer network security company. If you believe that someone has improperly used personally identifiable information about you or has made purchases that you did not authorize, please contact us immediately. We are a member of BBBOnline, the online area of the Better Business Bureau, and we will strive to resolve any customer service complaints promptly in accordance with BBB procedures. 
 
 Policy changes   
-Govmint.com may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at [http://www.govmint.com/privacy.asp](https://web.archive.org/web/20111214050308id_/http%3A//www.govmint.com/privacy.asp). If policy changes materially affect our uses and disclosures of personal information that we have previously collected, we will notify you and, if appropriate, provide an opportunity to prevent us from applying the revised policy to such information. 
+Govmint.com may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at [http://www.govmint.com/privacy.asp](https://web.archive.org/web/20120621141507id_/http%3A//www.govmint.com/privacy.asp). If policy changes materially affect our uses and disclosures of personal information that we have previously collected, we will notify you and, if appropriate, provide an opportunity to prevent us from applying the revised policy to such information. 
 
 We use third party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [ here.](http://www.fetchback.com/optout.html)
 
