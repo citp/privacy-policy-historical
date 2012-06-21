@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glarysoft.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216042242id_/http%3A//www.glarysoft.com/inf/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glarysoft.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621233251id_/http%3A//www.glarysoft.com/inf/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
