@@ -1,18 +1,25 @@
-<!--The following is the downloaded HTML source of the classicrummy.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231045549id_/http%3A//www.classicrummy.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the classicrummy.com privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621232014id_/http%3A//www.classicrummy.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="google-site-verification" content="NBxsYkrNhZ084q6OFBJEH2308sMmA54QlcCUg4YBVVw">
-	<title>Rummy, Indian Rummy, 13 Cards Rummy - classicrummy.com</title>
-				<meta name="Description" content="classicrummy.com one of the best Indian Rummy website. Play Rummy, Indian Rummy, 13 Cards Rummy Online &amp; Win Cash Prizes.">
-				<meta name="Keywords" content="Rummy, Indian Rummy, 13 Cards Rummy">
-				<meta name="Robots" content="index,follow">
+	<title>Classic Rummy - Privacy Policy</title>
+<meta name="Description" content="Classic Rummy is one of the best Indian Rummy websites. Play Classic Indian rummy card games online with your friends, family and loved ones round the clock and win loads of real cash prizes for free.">
+<meta name="Keywords" content="Indian Rummy, PlayRummy, Rummy Games, Rummy Online, Rummy Cards">
+<meta name="Robots" content="index,follow">
 
-				<meta name="Author" content="info@classicrummy.com "> <link href="https://fonts.googleapis.com/css?family=Cantarell:regular,italic,bold&amp;subset=latin" rel="stylesheet" type="text/css">
+<meta name="Author" content="info@classicrummy.com "> <link href="https://fonts.googleapis.com/css?family=Cantarell:regular,italic,bold&amp;subset=latin" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Droid+Serif&amp;subset=latin" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="http://www.classicrummy.com/templates//assets/css/layout-en.css">
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.classicrummy.com/templates/assets/js/all.js?ver=1325080690"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.classicrummy.com/templates/assets/js/jquery-1.7.min.js?ver=1340191451"></script>
+  <script type="text/javascript" src="http://www.classicrummy.com/templates/assets/js/jquery-ui-1.8.4.custom.min.js?ver=1340191451"></script>
+  <script type="text/javascript" src="http://www.classicrummy.com/templates/assets/js/cozy.core.js?ver=1340191451"></script>
+  <script type="text/javascript" src="http://www.classicrummy.com/templates/assets/js/cozy.xd.js?ver=1340191451"></script>
+  <script type="text/javascript" src="http://www.classicrummy.com/templates/assets/js/cozy.subscribe.js?ver=1340191451"></script>
+  <script type="text/javascript" src="http://www.classicrummy.com/templates/assets/js/cozy.ui.js?ver=1340191451"></script>
+  <script type="text/javascript" src="http://www.classicrummy.com/templates/assets/js/frontend.js?ver=1340191451"></script>
+  <script type="text/javascript" src="http://www.classicrummy.com/templates/assets/js/jquery.innerfade.js?ver=1340191451"></script>
 
 
 </head>
@@ -57,95 +64,8 @@
 
           </ul>
 
-        <script type="text/javascript">
-function sitelogin()  {
-    $('#fb-button').remove();
-    CozyUi.Helpers.showLoadingImage('fconnect','ajax-loader.gif', 'middle');
-    var host = Cozy.Helpers.getHost();
-    $.ajax({
-      url: host + '/fconnect/login_handler.php',
-      method: 'post',
-      success: function(data) {
-				
-				console.log(data);
-        var response = $.parseJSON(data);
-				console.log(response);
-        if(response.success_flag){
-          $('#fconnect').html(response.success_message);
-          parent.window.location.reload();
-          //CozyUi.Helpers.removeLoadingImage('fconnect');
-        }
-        else{
-          $('#fconnect').html(response.error_message);
-        }
-      }
-    });
-}
-</script>
-
-<script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async="true"></script>
-<script type="text/javascript">
-
-window.fbAsyncInit = function() {
-  FB.init({appId: '174908202527879', status: true, cookie: true, xfbml: true,oauth: true
-  });
-
-  /* All the events registered */
-/*  FB.Event.subscribe('auth.login', function(response) {
-    sitelogin();
-  });
-*/
-  FB.Event.subscribe('auth.logout', function(response) {
-    //Nothing to do for now..
-  });
-
-};
-
-function fb_login() {
-//  $.getScript('https://connect.facebook.net/en_US/all.js', function () {
-    FB.login( function (response) {
-			console.log(response);
-		  if(response.authResponse) {
-			  sitelogin();
-			} else  {
-				     // logged in but didnt allow the application.
-				}
-     }, {scope:'publish_stream,email'});
-//  });
-}
-</script>
-
-<style type="text/css">
-.fconnect {
-  color: #fff;
-  float: right;
-  margin-top: 30px;
-  width:180px;
- 
-}
-/*.fconnect p{
-  float: right;
-  margin-top: -5px;
-}*/
-.fconnect a img{
-  border: none;
-  float: right;
-}
-.fconnect a img:alt {
-  border: none;
-  font-size: 12px;
-  color: white;
-}
-</style>
-
-    <div id="fb-root"></div>
-      <!--fb:login-button size="large" background="white" length="long" autologoutlink="true" perms="email,user_birthday,status_update,publish_stream,read_stream,offline_access"></fb:login-button-->
-    <div class="fconnect" id="fconnect">
-      <a href="javascript:fb_login();" id="fb-button">
-        <img src="/templates/assets/images/en/ui/fconnect.png" alt="Login with Facebook" width="180" height="40">
-      </a>
-    </div>
-             <span id="bestplace"><a href="http://www.classicrummy.com/download"><img src="/templates/assets/images/en/ui/download_now.gif" width="147" height="51"></a></span>
+						 <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+                     <span id="bestplace"><a href="http://www.classicrummy.com/download"><img src="/templates/assets/images/en/ui/download_now.gif" width="147" height="51"></a></span>
                 </div>
         <!--playersectionends -->
       </div>
@@ -380,6 +300,32 @@ Legal Processes or Government Request
   <div class="right-conbox"> <span class="subtext-speak">SPREAD THE WORD -
     SHARE THE REWARD</span>
     <ul id="testimonial-list">
+<li> <img src="/templates/assets/images/en/ui/Cool.png" class="pimg" width="70" height="70">
+classic rummy is a classic site. best place to win cash which is 100% pure winner for gold coin.<br><span class="speaker">-Ankit Badheka</span></li>
+<li> <img src="/templates/assets/images/en/ui/suresh5410.png" class="pimg" width="70" height="70">
+Classic rummy is a great site. It is very easy to play in classic rummy.This site traffics and options also very clear to understand the game. This site bonus cash chips and withdrawal is very good for us. Thanks to classic rummy.<br><span class="speaker">-Suresh5410</span></li>
+	
+<li> <img src="/templates/assets/images/en/ui/chiru2019.png" class="pimg" width="70" height="70">
+Classic rummy is a good site where the arrangement of all the cards and tables was excellent and also they provide a good environment  for playing rummy. It is good for Both time pass as well as for gaining money with a lot of entertainment.<br><span class="speaker">-Chiru2019</span></li>
+
+<li> <img src="/templates/assets/images/en/ui/shri2110.png" class="pimg" width="70" height="70">
+Classic rummy is a site as the name says it as classic feeling on the table. The only site i love to play is classic, i cant say how my time get passed playing here Thanks to the site team for resolving the issues when ever occurred.Thanks!!<br><span class="speaker">-Shri2110</span></li>
+
+<li> <img src="/templates/assets/images/en/ui/chiranjeevi2012.png" class="pimg" width="70" height="70">
+Classic Rummy is an excellent site for playing rummy both for fun and also to gain money. The main thing why all the users attract to this site is the arrangement of all the tables and cards in a nice manner.<br><span class="speaker">-Chiranjeevi2012</span></li>
+
+<li> <img src="/templates/assets/images/en/ui/sandy007.png" class="pimg" width="70" height="70">
+ This is an awesome experience for any player and its a pleasure to play rummy in classicrummy.... this is the one and only easiest way to earn money online.I have found this site after experiencing with more thant 10 of other rummy sites.. <br><span class="speaker">-Sandy007</span></li>
+ 
+ <li> <img src="/templates/assets/images/en/ui/sivaramkrishna.png" class="pimg" width="70" height="70">
+ Classic Rummy is great site for entertainment and also for earning money. In addition they are providing great offers for the rummy lovers. <br><span class="speaker">-Sivaramkrishna</span></li>
+
+<li> <img src="/templates/assets/images/en/ui/nizamudeen.gif" class="pimg" width="70" height="70">
+Nothing Much to discover about the classic rummy.  This website which is an another Best friend.  Classic rummy always find someone to stick with u to make ur time precious. since the money plays a vital role for us.<br><span class="speaker">-nizamudeen</span></li>
+<li> <img src="/templates/assets/images/en/ui/Hari.gif" class="pimg" width="70" height="70">
+I am a great fan of Rummy game.It is one of the best rummy playing sites available online. I am glad I had higher chances of winning here. ClassicRummy rocks!<br><span class="speaker">-Hari</span></li>
+<li> <img src="/templates/assets/images/en/ui/surendra-raju.gif" class="pimg" width="70" height="70">
+Classic Rummy combining the element of player's skill with the element of luck, each game promises a great playing experience<br><span class="speaker">-Surendra raju</span></li>
 	<li> <img src="/templates/assets/images/en/ui/GMK2.png" class="pimg" width="70" height="70">
 This is very good site for getting enjoyment and time pass and good friendship with others.  This site supporting team also very helpful to everyone. Thanks for support team and classic rummy site. <br><span class="speaker">-murali krishna</span></li>
 	<li> <img src="/templates/assets/images/en/ui/Mangesh_Bairagi.png" class="pimg" width="70" height="70">
@@ -509,13 +455,16 @@ You make us feel proud that finally the best rummy site has arrived, and you guy
     <div class="footer-content">
       <div class="footer-top">
 	
-        <a href="http://affiliate.classicrummy.com/" target="_blank">
+        <a href="http://affiliate.classicrummy.com" target="_blank">
           <img src="/templates/assets/images/en/ui/become-affiliate-1.png" alt="Classic Rummy Affiliates" width="288" height="78">
          </a>
-        <a class="hbutton2" href="http://affiliate.classicrummy.com/" target="_blank">Learn More</a> 
+        <a class="hbutton2" href="http://affiliate.classicrummy.com" target="_blank">Learn More</a> 
 		<div class="fbanners">
 			<ul id="footbanners">
-				<li><img src="/templates/assets/images/en/ui/468x60-3.gif" alt="Play Free Rummy � Win Bonus Chips" width="468" height="60"></li>
+				<li>
+				
+								<img src="/templates/assets/images/en/ui/468x60-3.gif" alt="Play Free Rummy � Win Bonus Chips" width="468" height="60">
+								</li>
 			</ul>
 		</div>
 		
@@ -527,7 +476,7 @@ You make us feel proud that finally the best rummy site has arrived, and you guy
 					<ul>
 						<li><a href="/index.php">Home</a></li>
 						<li><a href="/aboutus.php">About Us</a></li>
-						<li><a href="/faq.php">How to Play</a></li>
+						<li><a href="/howtoplayrummy.php">How to Play</a></li>
 						<li><a href="/play.php">Play Rummy</a></li>
             						<li><a href="/banking.php">Cash Games</a></li>
             						<li><a href="/friend.php" class="nb">Tell a Friend</a></li>
@@ -538,8 +487,7 @@ You make us feel proud that finally the best rummy site has arrived, and you guy
 					<ul>
 						<li><a href="/support.php">Contact Us</a></li>
 						<li><a href="/legal.php">Legal</a></li>
-						<li><a href="/faq.php">FAQ</a></li>
-						<li><a href="/rules.php">Rules</a></li>
+						<li><a href="/rummyrules.php">Rules</a></li>
 						<li><a href="/terms_use.php">Terms of Use</a></li>
 						<li><a href="/privacy_policy.php">Privacy Policy</a></li>
 						<li><a href="/disclaimer.php" class="nb">Disclaimer</a></li>
@@ -548,7 +496,7 @@ You make us feel proud that finally the best rummy site has arrived, and you guy
 				</ul>
 		</div>
 		<div class="footertxt">
-			<a href="http://www.hdfcbank.com/personal/default.htm" target="_blank"><img src="/templates/assets/images/en/banking/hdfc_logo.gif" width="99" height="37"></a>
+			<!--a href="http://www.hdfcbank.com/personal/default.htm" target="_blank"><img src="/templates/assets/images/en/banking/hdfc_logo.gif" width="99" height="37" /></a-->
 			<a href="http://www.ccavenue.com/ccavenue_index.jsp" target="_blank"><img src="/templates/assets/images/en/ui/ccavenue_logo.gif" width="99" height="37"></a>
 			<a href="http://www.techprocess.co.in/" target="_blank"><img src="/templates/assets/images/en/ui/techprocess.gif" width="99" height="37"></a>
 			<a href="http://www.mol.com" target="_blank"><img src="/templates/assets/images/en/ui/mol_logofoot.gif" width="99" height="37"></a>
@@ -587,19 +535,30 @@ You make us feel proud that finally the best rummy site has arrived, and you guy
 		</div-->
         
       </div>
+	  <p class="copyright">Copyright © 2010-2012 Classic Rummy. All Rights Reserved.</p>
       <div class="accordion-container">
-          <p class="accordion-heading ">Copyright © 2010-2011 Classic Rummy. All Rights Reserved.</p>
-		  <div class="footer-logos"><a href="/terms_use.php"><img src="/templates/assets/images/en/ui/eighteenplus.png" height="40" width="40"></a><!--a href="/templates/assets/pdf/Innopark_RNG_certificate_070311.pdf" target="_blank"--><img src="/templates/assets/images/en/ui/rng_itechlabs.png" height="40" width="101"><!--/a--></div>
+          <h1>
+		  13 Cards Indian Rummy Online</h1>
+          <!--p class="accordion-heading ">Copyright &copy; 2010-2012 Classic Rummy. All Rights Reserved.</p-->
+		  <div class="footer-logos"><a href="/terms_use.php"><img src="/templates/assets/images/en/ui/eighteenplus.png" height="40" width="40"></a><a href="/templates/assets/pdf/Innopark_RNG_certificate_070311.pdf" target="_blank"><img src="/templates/assets/images/en/ui/rng_itechlabs.png" height="40" width="101"></a>
+		  <!--<table width="135" border="0" cellpadding="1" cellspacing="1" style="display:inline"><tr><td width="135" align="center"><script src="https://sealserver.trustkeeper.net/compliance/seal_js.php?code=x4ipVcxxrVRIpWYNVXMpiSvaX2IqDb&style=normal&size=105x54&language=en"></script><noscript><a href="https://sealserver.trustkeeper.net/compliance/cert.php?code=x4ipVcxxrVRIpWYNVXMpiSvaX2IqDb&style=normal&size=105x54&language=en" target="hATW"><img src="https://sealserver.trustkeeper.net/compliance/seal.php?code=x4ipVcxxrVRIpWYNVXMpiSvaX2IqDb&style=normal&size=105x54&language=en" border="0" alt="Trusted Commerce"/></a></noscript></td></tr></table> -->
+		  <!--script src="https://sealserver.trustkeeper.net/compliance/seal_js.php?code=x4ipVcxxrVRIpWYNVXMpiSvaX2IqDb&style=normal&size=105x54&language=en"></script-->
+		  
+		  <img src="/templates/assets/images/en/ui/trustwave.png" border="0" title="This site protected by Trustwave's Trusted Commerce program" alt="This site protected by Trustwave's Trusted Commerce program" onclick="javascript:window.open('https://sealserver.trustwave.com/cert.php?customerId=x4ipVcxxrVRIpWYNVXMpiSvaX2IqDb&amp;size=105x54&amp;style=normal', 'c_TW', 'location=no, toolbar=no, resizable=yes, scrollbars=no, directories=no, status=no, width=590, height=500'); return false;" style="cursor:pointer;">
+		  
+		  </div>
           <p class="accordion-content">
-		Play 13 cards <a href="http://www.classicrummy.com/index.php"> rummy online</a> and win huge cash rewards easily as playing Indian rummy is now so easy with Classic Rummy. Know more about how to play rummy online and its rules and play to win big cash instantly. Explore great opportunities of winning unbelievable cash with Classic Rummy. <b>Play Indian rummy</b> and win spectacular cash is now very easy with Classic Rummy.
-			<br>
-Sign up today, which is very simple! <a href="http://www.classicrummy.com/play.php">Play rummy</a> at promotional games with the free 1000 promo chips on registration and win more promo chips. We ensure 20% Cash bonus on every purchase. Players can enjoy the tantalising cash prizes and cash bonuses. Recently launched 'Best of 3 games' gives more chances of winning at promotional games and <a href="http://www.classicrummy.com/banking.php">cash games</a>. You can earn money in different ways at Classic Rummy. If you explore the richness of the site to your friend as Referral, you will be able to win 1000 promo chips. Win 250 promo chips, if you become a fan of Face-book page or Twitter. Go beyond with the unlimited fun enjoying to the fullest winning big real cash easily with Classic Rummy.
-<br><br>
-Classic Rummy is an authentic and safe website with secured multiple banking options. The system is integrated with CC Avenues, HDFC and Paymate that allows to purchase with debit cards, credit cards, net banking and mobile payments.<br><br>
+		<!--Play 13 cards <a href="http://www.classicrummy.com/index.php"> rummy online</a> and win huge cash rewards easily as playing Indian rummy is now so easy with Classic Rummy. Know more about how to play rummy online and its rules and play to win big cash instantly. Explore great opportunities of winning unbelievable cash with Classic Rummy. <b>Play Indian rummy</b> and win spectacular cash is now very easy with Classic Rummy.
+			<br/>
+		Sign up today, which is very simple! <a href="http://www.classicrummy.com/play.php">Play rummy</a> at promotional games with the free 1000 promo chips on registration and win more promo chips. We ensure 20% Cash bonus on every purchase. Players can enjoy the tantalising cash prizes and cash bonuses. Recently launched 'Best of 3 games' gives more chances of winning at promotional games and <a href="http://www.classicrummy.com/banking.php">cash games</a>. You can earn money in different ways at Classic Rummy. If you explore the richness of the site to your friend as Referral, you will be able to win 1000 promo chips. Win 250 promo chips, if you become a fan of Face-book page or Twitter. Go beyond with the unlimited fun enjoying to the fullest winning big real cash easily with Classic Rummy.
+		<br/><br/>
+		Classic Rummy is an authentic and safe website with secured multiple banking options. The system is integrated with CC Avenues and Paymate that allows to purchase with debit cards, credit cards, net banking and mobile payments.<br/><br/>
 
-Our  <a href="http://affiliate.classicrummy.com" target="_blank"> Affiliate Programmes </a> bring good business opportunities to grow along with us. Check out and earn good profits from our growth.<br><br>
+		Our  <a href="http://affiliate.classicrummy.com" target="_blank"> Affiliate Programmes </a> bring good business opportunities to grow along with us. Check out and earn good profits from our growth.<br/><br/>
 
-Join the best online rummy site with a top quality customer service support - Classic Rummy.</p>
+		Join the best online rummy site with a top quality customer service support - Classic Rummy.-->
+		
+	Classic Rummy is the ultimate <b>Online Rummy gaming</b> site which offers different variants of <a href="http://www.classicrummy.com/play.php">Indian Rummy games</a> like <a href="http://www.classicrummy.com/promotions.php">13 cards Rummy</a> and Strikes Rummy. Classic Rummy offers multi player games and <a href="http://www.classicrummy.com/tournaments.php">Rummy tournaments</a> which can be played for free as well for cash. Classic Rummy welcomes you with 100% cash bonus on your first deposit and 20% cash bonus on all your regular reloads. Refer your friends to Classic Rummy and win upto 10,000/-. Play, Win, Enjoy with your friends and Family. </p>
       </div>
     </div>
   </div>
@@ -760,6 +719,7 @@ z-index:202;
   <!--footer container ends here-->
         
         <!--wrapper ends here-->
+		
 
 
 
