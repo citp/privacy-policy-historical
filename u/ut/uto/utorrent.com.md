@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220133756id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621062152id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - µTorrent - a (very) tiny BitTorrent client
 
@@ -82,8 +82,8 @@ If you have any questions about our privacy practices, please do not hesitate to
     
     
     BitTorrent, Inc.
-    612 Howard St. Suite 400
-    San Francisco, California 94105
+    303 2nd St. Suite S200
+    San Francisco, California 94107
 
 ### End User License Agreements and Terms and Conditions.
 
