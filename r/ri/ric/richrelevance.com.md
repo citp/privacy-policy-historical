@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the richrelevance.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211604id_/http%3A//www.richrelevance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richrelevance.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622015356id_/http%3A//www.richrelevance.com/privacy) for the most accurate reproduction.*
 
 # Privacy | RichRelevance
 
 ## RichRelevance Privacy Policy
 
-_Your privacy is very important to us.   This Privacy Policy explains how we collect, use and disclose your information through our recommendation, personalization and advertising retargeting services (“Services”) and through our corporate website located at ____www.richrelevance.com_ _. If you have any questions, please do not hesitate to contact us at_ _. To opt out of our behavioral advertising product,_[ _click here._](https://web.archive.org/web/20111231211604id_/http%3A//www.richrelevance.com/opt-out)
+_Your privacy is very important to us.   This Privacy Policy explains how we collect, use and disclose your information through our recommendation, personalization and advertising retargeting services (“Services”) and through our corporate website located at ____www.richrelevance.com_ _. If you have any questions, please do not hesitate to contact us at_ _. To opt out of our behavioral advertising product,_[ _click here._](https://web.archive.org/web/20120622015356id_/http://www.richrelevance.com/privacy/opt-out)
 
 **Except as explicitly set forth herein, RichRelevance, Inc. (“RichRelevance”, “We”, “Us” OR “Our”) does not collect your Personal Information through our Services. In limited instances, certain of our Customers provide us with their consumer end users’ email addresses so that we can personalize their email communications to you; however, we make no use of such email addresses other than as instructed by such Customers. Furthermore, none of the Non-Personally Identifiable Information we do collect, individually or grouped together, can be traced back to you.** We do allow you to provide certain non-financial personal information on our website so that we may respond to inquiries you make.
 
