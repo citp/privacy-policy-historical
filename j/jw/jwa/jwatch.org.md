@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113172834id_/http%3A//www.jwatch.org/misc/privacy.dtl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621221915id_/http%3A//www.jwatch.org/misc/privacy.dtl) for the most accurate reproduction.*
 
 # Journal Watch: Privacy Policy
 
-Last updated: Oct. 16, 07  
+Last updated: May 25, 2012  
  
 
 ## Principles Governing This Site
@@ -37,7 +37,7 @@ We use log files to collect general data about the movement of visitors through 
 
 ### _Cookies_
 
-We also use cookies to collect information and help personalize your online experience. Cookies are small files stored on your computer that we use to recognize you and your access privileges and preferences. Cookies allow you to store your username and password so you don’t have to log in each time you visit. We store minimal personally identifying information in cookies and protect this information. We do not store complete records or credit card numbers in cookies. Most Web browsers automatically accept cookies. Most browsers can be configured to prevent this, but you may not be able to access some parts of our site without cookies.
+We also use cookies to collect information and help personalize your online experience. Cookies are small files stored on your computer that we use to recognize you and your access privileges and preferences. Cookies allow you to store your username and password so you don’t have to log in each time you visit. We store minimal personally identifying information in cookies and protect this information. We do not store complete records or credit card numbers in cookies. Most Web browsers automatically accept cookies. Most browsers can be configured to prevent this, but you may not be able to access some parts of our site without cookies. You can find out more about how we use cookies at our [Cookie Information](http://www.jwatch.org/misc/help/cookies.dtl) page or visit our [Help with Cookies](http://www.jwatch.org/misc/help/help_with_cookies.dtl) page.
 
 ### _Clear Gifs (Web Beacons/Web Bugs)_
 
@@ -99,7 +99,7 @@ This privacy policy may be periodically updated. We will post a notice that this
 
 ### Contact Us
 
-Please direct any questions regarding this privacy policy to jwatch@mms.org   
+Please direct any questions regarding this privacy policy to [jwatch@mms.org](mailto:jwatch@mms.org)  
 Journal Watch is owned and published by the Massachusetts Medical Society. Our publishing offices are located at 860 Winter Street, Waltham, Massachusetts 02451-1413, USA; telephone: (781) 893-3800. 
 
 back to top
