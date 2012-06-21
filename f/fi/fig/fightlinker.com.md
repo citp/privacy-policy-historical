@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the fightlinker.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101225341id_/http%3A//www.fightlinker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightlinker.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621150136id_/http%3A//www.fightlinker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fightlinker - UFC, Strikeforce, and Mixed Martial Arts (MMA) blog
+# Privacy Policy | Fightlinker.com
 
 ## Information that is gathered from visitors
 
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
+In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit.
 
 Cookies may be used to remember visitor preferences when interacting with the website.
 
-Where registration is required, the visitor's email and a username will be stored on the server.
+Where registration is required, the visitor’s email and a username will be stored on the server.
 
 ## How the Information is used
 
-The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising.
+The information is used to enhance the vistor’s experience when using the website to display personalised content and possibly advertising.
 
 E-mail addresses will not be sold, rented or leased to 3rd parties.
 
@@ -34,6 +34,8 @@ Cookies are small digital signature files that are stored by your web browser th
 
 Google, as a third party vendor, uses cookies to serve ads.
 
-Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
+Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
 
 Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies [click here](http://www.networkadvertising.org/managing/opt_out.asp).
