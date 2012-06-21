@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viglink.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208094546id_/http%3A//www.viglink.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viglink.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621023936id_/http%3A//www.viglink.com/policies/privacy) for the most accurate reproduction.*
 
 # VigLink - Privacy Policy
 
@@ -84,4 +84,4 @@ Please also feel free to contact us if you have any questions about this Privacy
 
 [privacy@viglink.com](mailto:privacy@viglink.com)
 
-VigLink 548 Market St #35730 San Francisco CA 94104 
+VigLink 427 N Tatnall St #35730 Wilmington, DE 19801-2230 
