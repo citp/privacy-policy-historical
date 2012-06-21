@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blurbpoint.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219043250id_/http%3A//www.blurbpoint.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurbpoint.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622010700id_/http%3A//www.blurbpoint.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Blurbpoint: Privacy & Policy
 
-ELSNER has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements ](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@blurbpoint.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe certification only covers information collected on [www.blurbpoint.com](http://www.blurbpoint.com/). 
+Blurbpoint: Privacy & PolicyELSNER has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements ](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@blurbpoint.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe certification only covers information collected on [www.blurbpoint.com](http://www.blurbpoint.com/). 
 
 **Information Collection & Use**
 
@@ -11,19 +11,15 @@ In order to use this Web site, become an affiliate, or reseller, you must first 
 
 ELSNER is the sole owner of the information collected on www.blurbpoint.com. ELSNER collects personally identifiable information from our users at several different points on our Web site. 
 
-_**Orders**_
-
+_**Orders**_   
 If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date to secure payment gateway ie. Paypal ,2Checkout). 
 
 We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
 
 **Communications from the Site**
 
- _Newsletters_
-
-If you wish to subscribe to our newsletter(s), we will use your email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the `Choice and Opt-out` section. 
-
-_Special Offers and Updates_
+ _Newsletters_   
+If you wish to subscribe to our newsletter(s), we will use your email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the `Choice and Opt-out` section. _Special Offers and Updates_
 
 We will occasionally send you information on products, services, special deals, promotions. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the `Choice and Opt-out.` 
 
@@ -108,4 +104,4 @@ If you have any questions or suggestions regarding our privacy policy, please co
 T/6/7 Shubh Complex , Nr Rajasthan Hospital,   
 Shahibaugh , Ahmedabad-380004   
 Gujarat , India   
-Effective: 6/27/2011 
+Effective: 6/27/2011
