@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the radioplanet.tv privacy policy that was archived on 2011-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110124020852id_/http%3A//www.radioplanet.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioplanet.tv privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621144606id_/http%3A//www.radioplanet.tv/privacy) for the most accurate reproduction.*
 
 # Privacy | RadioPlanet.tv | Where Hip Hop Meets Hollywood
 
-**Effective: Janary 11, 2010**
+**Updated: April 20, 2012**
 
 We value your privacy, and we want to help make your experience with RadioPlanet as satisfying and safe as possible. We have established this Privacy Policy to explain how we collect Personal Information (as defined below), and how we use and disclose that Personal Information. “Personal Information,” as used in this Privacy Policy, is information that allows a person to directly identify an individual, such as name or email address, and information that we combine directly with such identifying information. By using the site, you expressly consent to the information handling practices described in this Privacy Policy.
 
@@ -20,9 +20,9 @@ We allow other companies, called third-party ad servers or ad networks, such as 
 
 We do not provide your Personal Information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks us to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience that they were trying to reach.
 
-You may [click here](http://www.networkadvertising.org/managing/opt_out.asp) to visit the Network Advertising Initiative’s opt-out page, where you can learn more about its member companies’ practices and to opt out from the collection and use of information by its member companies.
+You may [click here](http://web.archive.org/web/20100924182914/http://www.networkadvertising.org/managing/opt_out.asp) to visit the Network Advertising Initiative’s opt-out page, where you can learn more about its member companies’ practices and to opt out from the collection and use of information by its member companies.
 
-Additionally, if any Google AdSense advertisements are used, you may opt out of Google’s use of the DART cookie by visiting the Google ad and content network privacy policy located [here](http://www.google.com/privacy_ads.html).
+Additionally, if any Google AdSense advertisements are used, you may opt out of Google’s use of the DART cookie by visiting the Google ad and content network privacy policy located [here](http://web.archive.org/web/20100924182914/http://www.google.com/privacy_ads.html).
 
 We reserve the right to add or remove third-party ad networks and ad servers in our discretion. We may not at all times list such updated ad network or ad server partners in this Privacy Policy.
 
@@ -40,18 +40,18 @@ The Children’s Online Privacy Protection Act (“COPPA”) protects the online
 
 The following are some resources that may help parents and legal guardians in monitoring and limiting your children’s access to certain types of material on the Internet. While we do not endorse these products, we provide information about them as a public service to our community.
 
-  * [ConnectSafely](http://www.connectsafely.org/)
-  * [The Family Online Safety Institute](http://www.fosi.org/)
-  * [ iKeepSafe](http://www.ikeepsafe.net/)
-  * [OnGuard Online](http://www.onguardonline.gov/), maintained by the Federal Trade Commission
-  * [Netsmartz.org](http://www.netsmartz.org/)
-  * [ The Child Safety Network ](http://www.csn.org/)
-  * [ Cyber Sitter ](http://www.cybersitter.com/)
-  * [Common Sense Media](http://www.commonsensemedia.org/)
-  * [WebWiseKids.org ](http://www.webwisekids.org/)
-  * [Center for Safe and Responsible Internet Use](http://www.cyberbully.org/)
-  * [ Cyber Angels](http://www.cyberangels.org/)
-  * [Cyber Bullying US](http://www.cyberbullying.us/)
+  * [ConnectSafely](http://web.archive.org/web/20100924182914/http://www.connectsafely.org/)
+  * [The Family Online Safety Institute](http://web.archive.org/web/20100924182914/http://www.fosi.org/)
+  * [iKeepSafe](http://web.archive.org/web/20100924182914/http://www.ikeepsafe.net/)
+  * [OnGuard Online](http://web.archive.org/web/20100924182914/http://www.onguardonline.gov/), maintained by the Federal Trade Commission
+  * [Netsmartz.org](http://web.archive.org/web/20100924182914/http://www.netsmartz.org/)
+  * [The Child Safety Network](http://web.archive.org/web/20100924182914/http://www.csn.org/)
+  * [Cyber Sitter](http://web.archive.org/web/20100924182914/http://www.cybersitter.com/)
+  * [Common Sense Media](http://web.archive.org/web/20100924182914/http://www.commonsensemedia.org/)
+  * [WebWiseKids.org](http://web.archive.org/web/20100924182914/http://www.webwisekids.org/)
+  * [Center for Safe and Responsible Internet Use](http://web.archive.org/web/20100924182914/http://www.cyberbully.org/)
+  * [Cyber Angels](http://web.archive.org/web/20100924182914/http://www.cyberangels.org/)
+  * [Cyber Bullying US](http://web.archive.org/web/20100924182914/http://www.cyberbullying.us/)
 
 
 
