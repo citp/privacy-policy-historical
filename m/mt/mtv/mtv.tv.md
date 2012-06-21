@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtv.tv privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222005659id_/http%3A//www.mtv.tv/info/Footer-Site-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.tv privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621095648id_/http%3A//www.mtv.tv/info/Footer-Site-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy| MTV European
 
@@ -68,3 +68,5 @@ In the unlikely event that we sell or otherwise dispose of some or all of our bu
 We will try to email you if there are any changes to this policy that materially affect how we use your information. However, we encourage users to be responsible about their privacy and to check this policy from time to time and to update their preferences.
 
 This policy was last updated 8th February 2008.
+
+**This site uses cookies. Please see our[Cookie Policy](https://web.archive.org/info/Footer-Cookie-Policy)**
