@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickbooth.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228010108id_/http%3A//www.clickbooth.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickbooth.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621030304id_/http%3A//www.clickbooth.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -99,7 +99,7 @@ _**CONTACT INFORMATION**_
 Questions or comments regarding this Policy should be submitted to the Clickbooth Compliance Department by mail or e-mail as follows:
 
 Clickbooth.com, LLC  
-Ziare Brown, VP Compliance and Enforcement  
+Compliance and Enforcement  
 5901 N. Honore Ave.  
 Suite 210  
 Sarasota, FL 34243  
