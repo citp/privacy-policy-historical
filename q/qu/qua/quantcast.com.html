@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the quantcast.com privacy policy that was archived on 2011-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230063714id_/http%3A//www.quantcast.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quantcast.com privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621175124id_/http%3A//www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="quantcast" class=" no_js"><head> 
   <title>Quantcast Privacy Policy</title>
@@ -11,6 +11,7 @@ var homePage = false;
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js?v=1"></script>
   <script type="text/javascript" src="//ak.quantcast.com/wp-content/themes/quantcast/js/jquery.jstree.js?v=1"></script>
   <script type="text/javascript" src="//ak.quantcast.com/wp-content/themes/quantcast/js/minified.js?v=1"></script> 
+  <script type="text/javascript" src="//ak.quantcast.com/js/google-analytics-utils.js"></script>
   <script type="text/javascript" src="//ak.quantcast.com/js/track.js"></script>
   <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
 <!-- Start Quantcast Tag --> 
@@ -30,7 +31,10 @@ scpt.parentNode.insertBefore(elem, scpt);
 <script type="text/javascript"> 
 try{function h(x){return(encodeURIComponent||escape)(x||'')}var qo='',qm='',m='webpage',e='load',u='undefined';if(typeof _qoptions!=u&&_qoptions){var q=_qoptions;for(var k in q){if(typeof(q[k])!='string')continue;if(k=='qacct'){_qacct=q[k]}else{qo+=';'+k+'='+h(q[k])}if(k=='media'){m=q[k]}if(k=='event'){e=q[k]}}_qoptions=null}if(_qacct.length==0)throw'';if(m=='webpage'&&e=='load'){if((typeof _qpixelsent!=u)&&(_qpixelsent==_qacct))throw'';_qpixelsent=_qacct}if(typeof _qmeta!=u&&_qmeta){qm=';m='+h(_qmeta);_qmeta=null}_qimg=new Image();_qimg.alt='';_qimg.src=(window.location.protocol=='https:'?'https://secure':'http://pixel')+'.quantserve.com/pixel;r='+Math.round(Math.random()*2147483647)+';ns='+(self==top?'0':'1')+';url='+h(window.location.href)+';ref='+h(window.document.referrer)+';et='+new Date().getTime()+';a='+_qacct+qo+qm}catch(e){}
 /*<!-- End Quantcast Tag -->*/
-
+/* Start KISSinsight pageType declaration */
+	KISSinsightsVars = {};
+	KISSinsightsVars.pageType = 'Iq';
+/* End KISSinsight pageType declaration */
 </script>
   <link rel="next" title="Learning Center" href="//www.quantcast.com/learning-center/">
 
@@ -42,7 +46,7 @@ try{function h(x){return(encodeURIComponent||escape)(x||'')}var qo='',qm='',m='w
 <style type="text/css">.broken_link, a.broken_link {
 	text-decoration: line-through;
 }</style>	
-  <link type="text/css" rel="stylesheet" href="//ak.quantcast.com/dynamic-css/screen-optimized.css">
+  <link type="text/css" rel="stylesheet" href="//ak.quantcast.com/dynamic-css/screen-optimized.css?v=adiosjd">
   <link type="text/css" rel="stylesheet" href="//ak.quantcast.com/wp-content/themes/quantcast/css/style.min.css">
   <link type="text/css" rel="stylesheet" href="//ak.quantcast.com/wp-content/themes/quantcast/css/print.min.css" media="print">
   <!--[if !IE]><!-->
@@ -82,7 +86,8 @@ jQuery("#personalHeader").load("/global/personalHeader", { r: Math.random() });
 <a id="searchFormLogo" href="/" onclick="trackEvent('Header Links','Quantcast Logo')">Quantcast Home</a>
 <h1 id="branding">
 Quantcast -- Audience Measurement, Lookalike Modeling, Audience Buying</h1>
-<form id="search-form" method="get" action="/search" onsubmit="trackEvent('Header Search','Form Submit')">
+<img src="//ak.quantcast.com/images/logoPlusTagline.png" id="branding-for-print">
+<form id="search-form" method="get" action="/search" onsubmit="trackEvent('Header Search','Form Submit',jQuery('.maininput').val())">
 <div id="search-div" class="search column span-12">
 <p id="search-label" class="label">
 <label for="query" class="over">
@@ -90,9 +95,9 @@ Quantcast -- Audience Measurement, Lookalike Modeling, Audience Buying</h1>
 <input type="text" id="query" class="search-main placeholder" name="q" autocomplete="off" value="">
 </p>
 <p id="masthead-advanced" class="advanced">
-<a href="/top-sites" onclick="trackEvent('Header Search','Top Million Sites')">Top Million Sites</a>
+<a href="/top-sites" onclick="trackEvent('Header Search','Top Million Sites')">Top Sites</a>
 </p>
-<p id="masthead-examples" class="examples">try these: <a href="/time.com" onclick="trackEvent('Header Search','time.com')">time.com</a>, <a href="/gawker.com" onclick="trackEvent('Header Search','gawker.com')">gawker.com</a>, <a href="/wikia.com" onclick="trackEvent('Header Search','wikia.com')">wikia.com</a>, <a href="/search?q=faqs" onclick="trackEvent('Header Search','FAQs')">FAQs</a></p>
+<p id="masthead-examples" class="examples">try these: <a href="/examiner.com" onclick="trackEvent('Header Search','examiner.com')">examiner.com</a>, <a href="/legacy.com" onclick="trackEvent('Header Search','legacy.com')">legacy.com</a>, <a href="/globalpost.com" onclick="trackEvent('Header Search','globalpost.com')">globalpost.com</a>, <a href="/search?q=faqs" onclick="trackEvent('Header Search','FAQs')">FAQs</a></p>
 </div>
 <button id="findProfileButton" type="submit" onclick="trackEvent('Header Search','Search Button')">
 
@@ -115,19 +120,19 @@ height: "500"
 <ul id="mc_menu_4" class="mc_menu mc_depth_3">
 <li id="menu_item_150" class="mc_menu_item external_link mc_depth_3 first"><a href="/" title="home" rel="">Home</a></li><li id="menu_item_43" class="mc_menu_item external_link mc_depth_3"><a href="/measurement" title="" rel="">Measurement</a>
 <ul id="mc_submenu_43" class="mc_menu mc_depth_2">
-<li id="menu_item_148" class="mc_menu_item external_link mc_depth_2 first"><a href="/measurement/why-get-quantified" title="" rel="">Why Get Quantified?™</a></li><li id="menu_item_47" class="mc_menu_item external_link mc_depth_2"><a href="/measurement/planner-overview" title="" rel=""> Quantcast Planner</a></li><li id="menu_item_50" class="mc_menu_item external_link mc_depth_2"><a href="/measurement/integrations" title="" rel="">Integrations</a></li><li id="menu_item_49" class="mc_menu_item external_link mc_depth_2 last"><a href="/measurement/quantified-publishers" title="" rel="">Participants</a></li></ul>
+<li id="menu_item_148" class="mc_menu_item external_link mc_depth_2 first"><a href="/measurement/why-get-quantified" title="" rel="">Why Get Quantified?™</a></li><li id="menu_item_161" class="mc_menu_item external_link mc_depth_2"><a href="/measurement/mobile-web" title="" rel="">Mobile Web Traffic</a></li><li id="menu_item_47" class="mc_menu_item external_link mc_depth_2"><a href="/measurement/planner-overview" title="" rel=""> Quantcast Planner</a></li><li id="menu_item_50" class="mc_menu_item external_link mc_depth_2"><a href="/measurement/integrations" title="" rel="">Integrations</a></li><li id="menu_item_49" class="mc_menu_item external_link mc_depth_2 last"><a href="/measurement/quantified-publishers" title="" rel="">Participants</a></li></ul>
 </li><li id="menu_item_37" class="mc_menu_item external_link mc_depth_3"><a href="/audience" title="" rel="">Reach Audiences</a>
 <ul id="mc_submenu_37" class="mc_menu mc_depth_2">
-<li id="menu_item_153" class="mc_menu_item external_link mc_depth_2 first"><a href="/audience/reach-audience-for-marketers" title="" rel="">Audience for Marketers</a></li><li id="menu_item_154" class="mc_menu_item external_link mc_depth_2"><a href="/audience/reach-audience-for-media-sellers/" title="" rel="">Audience for Publishers and Platforms</a></li><li id="menu_item_147" class="mc_menu_item external_link mc_depth_2"><a href="/audience/verticals" title="" rel="">Vertical Solutions</a></li><li id="menu_item_130" class="mc_menu_item external_link mc_depth_2"><a href="/audience/showcase-your-audience-segments" title="" rel="">Showcase Your Audience Segments</a></li><li id="menu_item_74" class="mc_menu_item external_link mc_depth_2"><a href="/audience/quantcast-lookalikes" title="" rel="">Quantcast Lookalikes</a></li><li id="menu_item_75" class="mc_menu_item external_link mc_depth_2 last"><a href="/audience/participants" title="" rel="">Participants</a></li></ul>
+<li id="menu_item_153" class="mc_menu_item external_link mc_depth_2 first"><a href="/audience/reach-audience-for-marketers" title="" rel="">Audience for Marketers</a></li><li id="menu_item_154" class="mc_menu_item external_link mc_depth_2"><a href="/audience/reach-audience-for-media-sellers/" title="" rel="">Audience for Publishers and Platforms</a></li><li id="menu_item_147" class="mc_menu_item external_link mc_depth_2"><a href="/audience/verticals" title="" rel="">Vertical Solutions</a></li><li id="menu_item_130" class="mc_menu_item external_link mc_depth_2"><a href="/audience/showcase-your-audience-segments" title="" rel="">Showcase Your Audience Segments</a></li><li id="menu_item_74" class="mc_menu_item external_link mc_depth_2"><a href="/audience/quantcast-lookalikes" title="" rel="">Quantcast Lookalikes</a></li><li id="menu_item_162" class="mc_menu_item external_link mc_depth_2"><a href="/audience/quantcast-brand-lookalikes#amex" title="" rel="">Brand Lookalikes With American Express</a></li><li id="menu_item_163" class="mc_menu_item external_link mc_depth_2"><a href="https://www.quantcast.com/audience/quantcast-brand-lookalikes#symphonyiri" title="" rel="">Brand Lookalikes With SymphonyIRI</a></li><li id="menu_item_75" class="mc_menu_item external_link mc_depth_2 last"><a href="/audience/participants" title="" rel="">Participants</a></li></ul>
 </li><li id="menu_item_38" class="mc_menu_item external_link mc_depth_3"><a href="/learning-center" title="" rel="">Learning Center</a>
 <ul id="mc_submenu_38" class="mc_menu mc_depth_2">
-<li id="menu_item_42" class="mc_menu_item external_link mc_depth_2 first"><a href="/learning-center/case-studies" title="" rel="">Case Studies</a></li><li id="menu_item_82" class="mc_menu_item external_link mc_depth_2"><a href="/learning-center/videos" title="" rel="">Videos</a></li><li id="menu_item_83" class="mc_menu_item external_link mc_depth_2"><a href="/learning-center/faqs" title="" rel="">FAQs</a></li><li id="menu_item_84" class="mc_menu_item external_link mc_depth_2"><a href="/learning-center/glossary" title="" rel="">Glossary</a></li><li id="menu_item_85" class="mc_menu_item external_link mc_depth_2"><a href="/learning-center/guides" title="" rel="">Guides</a></li><li id="menu_item_122" class="mc_menu_item external_link mc_depth_2"><a href="/how-we-do-it/privacy-policy" title="" rel="">Privacy Policy</a></li><li id="menu_item_111" class="mc_menu_item external_link mc_depth_2"><a href="/how-we-do-it/consumer-choice/opt-out" title="" rel="">Audience Opt-Out</a></li><li id="menu_item_116" class="mc_menu_item external_link mc_depth_2 last"><a href="/learning-center/quantcast-terms" title="" rel="">Terms of Service</a></li></ul>
+<li id="menu_item_42" class="mc_menu_item external_link mc_depth_2 first"><a href="/learning-center/case-studies" title="" rel="">Case Studies</a></li><li id="menu_item_85" class="mc_menu_item external_link mc_depth_2"><a href="/learning-center/guides" title="" rel="">Guides</a></li><li id="menu_item_82" class="mc_menu_item external_link mc_depth_2"><a href="/learning-center/videos" title="" rel="">Videos</a></li><li id="menu_item_83" class="mc_menu_item external_link mc_depth_2"><a href="/learning-center/faqs" title="" rel="">FAQs</a></li><li id="menu_item_84" class="mc_menu_item external_link mc_depth_2"><a href="/learning-center/glossary" title="" rel="">Glossary</a></li><li id="menu_item_122" class="mc_menu_item external_link mc_depth_2"><a href="/how-we-do-it/privacy-policy" title="" rel="">Privacy Policy</a></li><li id="menu_item_111" class="mc_menu_item external_link mc_depth_2"><a href="/how-we-do-it/consumer-choice/opt-out" title="" rel="">Audience Opt-Out</a></li><li id="menu_item_116" class="mc_menu_item external_link mc_depth_2 last"><a href="/learning-center/quantcast-terms" title="" rel="">Terms of Service</a></li></ul>
 </li><li id="menu_item_39" class="mc_menu_item external_link mc_depth_3"><a href="/how-we-do-it" title="" rel="">How We Do It</a>
 <ul id="mc_submenu_39" class="mc_menu mc_depth_2">
 <li id="menu_item_155" class="mc_menu_item external_link mc_depth_2 first"><a href="/how-we-do-it" title="" rel="">About our Data</a></li><li id="menu_item_69" class="mc_menu_item external_link mc_depth_2"><a href="/how-we-do-it/consumer-choice" title="" rel="">Consumer Choice</a></li><li id="menu_item_65" class="mc_menu_item external_link mc_depth_2"><a href="/how-we-do-it/mrc-accredited-traffic-measurement" title="" rel="">MRC Accreditation</a></li><li id="menu_item_158" class="mc_menu_item external_link mc_depth_2"><a href="/how-we-do-it/trusted-data-collection-certification" title="" rel="">Trusted Data Collection Certification</a></li><li id="menu_item_70" class="mc_menu_item external_link mc_depth_2"><a href="/how-we-do-it/consumer-choice/privacy-policy" title="" rel="">Privacy Policy</a></li><li id="menu_item_71" class="mc_menu_item external_link mc_depth_2 last"><a href="/how-we-do-it/data-citation-policy" title="" rel="">Data Citation Policy</a></li></ul>
 </li><li id="menu_item_40" class="mc_menu_item external_link mc_depth_3"><a href="/about" title="" rel="">About</a>
 <ul id="mc_submenu_40" class="mc_menu mc_depth_2">
-<li id="menu_item_156" class="mc_menu_item external_link mc_depth_2 first"><a href="/about/overview" title="" rel="">Overview</a></li><li id="menu_item_45" class="mc_menu_item external_link mc_depth_2"><a href="/about/management-team" title="Management Team" rel="">Management Team</a></li><li id="menu_item_52" class="mc_menu_item external_link mc_depth_2"><a href="/about/careers" title="" rel="">Careers</a></li><li id="menu_item_53" class="mc_menu_item external_link mc_depth_2"><a href="/about/investors" title="" rel="">Investors</a></li><li id="menu_item_54" class="mc_menu_item external_link mc_depth_2"><a href="/about/press" title="" rel="">Press</a></li><li id="menu_item_55" class="mc_menu_item external_link mc_depth_2"><a href="/contact" title="" rel="">Contact Us</a></li><li id="menu_item_56" class="mc_menu_item external_link mc_depth_2"><a href="/about/enewsletter-sign-up" title="" rel="">Newsletter Sign Up</a></li><li id="menu_item_126" class="mc_menu_item external_link mc_depth_2 last"><a href="/trademarks" title="" rel="">Trademarks</a></li></ul>
+<li id="menu_item_156" class="mc_menu_item external_link mc_depth_2 first"><a href="/about/overview" title="" rel="">Overview</a></li><li id="menu_item_45" class="mc_menu_item external_link mc_depth_2"><a href="/about/management-team" title="Management Team" rel="">Management Team</a></li><li id="menu_item_52" class="mc_menu_item external_link mc_depth_2"><a href="/about/careers" title="" rel="">Careers</a></li><li id="menu_item_53" class="mc_menu_item external_link mc_depth_2"><a href="/about/investors" title="" rel="">Investors</a></li><li id="menu_item_54" class="mc_menu_item external_link mc_depth_2"><a href="/press" title="" rel="">Press</a></li><li id="menu_item_55" class="mc_menu_item external_link mc_depth_2"><a href="/contact" title="" rel="">Contact Us</a></li><li id="menu_item_56" class="mc_menu_item external_link mc_depth_2"><a href="/about/enewsletter-sign-up" title="" rel="">Newsletter Sign Up</a></li><li id="menu_item_126" class="mc_menu_item external_link mc_depth_2 last"><a href="/trademarks" title="" rel="">Trademarks</a></li></ul>
 </li><li id="menu_item_41" class="mc_menu_item external_link mc_depth_3 last"><a href="/inside-quantcast/" title="" rel="">Blog</a></li></ul>
 	</div>
 	<div class="menubar-ie7"></div>
@@ -251,7 +256,7 @@ height: "500"
 <a id="homeFootSiteMap" href="/sitemap-page" onclick="javascript:trackEvent('Footer Nav','Site Map');">Site Map</a> |
 <a id="homeFootSiteDataUpdates" href="#dataUpdates" class="openPopover" onclick="javascript:trackEvent('Footer Nav','Data Updates');">Data Updates</a>
 <div class="copyright">
-©2011 Quantcast Corporation
+©2012 Quantcast Corporation
 </div>
 </div>
 <div class="popover" id="dataUpdates" style="display: none;">
@@ -268,48 +273,45 @@ height: "500"
 <tbody>
 <tr class="stripe">
 <td>Daily Traffic</td>
-<td>Dec 19, 2011</td>
+<td>Jun 20, 2012</td>
 <td>
-<strong>Delayed -</strong>
-Dec 20, 2011 by 6PM PST</td>
+Jun 21, 2012 by 9AM PDT</td>
 </tr>
 <tr class="">
 <td>Non-Quantified Traffic</td>
-<td>Dec 2011</td>
+<td>Jun 2012</td>
 <td>
-Jan 2012</td>
+Jul 2012</td>
 </tr>
 <tr class="stripe">
 <td>Quantified Demographics</td>
-<td>Dec 3, 2011</td>
+<td>Jun 19, 2012</td>
 <td>
-<strong>Delayed -</strong>
-Dec 21, 2011 by 9AM PST</td>
+Jun 27, 2012 by 9AM PDT</td>
 </tr>
 <tr class="">
 <td>Non-Quantified Demographics</td>
-<td>Nov 2011</td>
+<td>Jun 2012</td>
 <td>
-<strong>Delayed -</strong>
-Dec 2011</td>
+Jul 2012</td>
 </tr>
 <tr class="stripe">
 <td>Geographics</td>
-<td>Dec 2011</td>
+<td>Jun 2012</td>
 <td>
-Jan 2012</td>
+Jul 2012</td>
 </tr>
 <tr class="">
 <td>Business</td>
-<td>Dec 2011</td>
+<td>Jun 2012</td>
 <td>
-Jan 2012</td>
+Jul 2012</td>
 </tr>
 <tr class="stripe">
 <td>Lifestyle</td>
-<td>Dec 2011</td>
+<td>Jun 2012</td>
 <td>
-Jan 2012</td>
+Jul 2012</td>
 </tr>
 <tr class="">
 <td>&nbsp;</td>
@@ -373,17 +375,39 @@ var pageSpecificLabels = {
 '/' : '_fp.channel.Homepage,_fp.event.Logged Out',
 '/about/landing' : '_fp.channel.Media,_fp.event.Media Landing Page',
 '/about/enewsletter-sign-up' : '_fp.channel.About,_fp.event.Newsletter+Sign-Up',
-'/learning-center/case-studies' : '_fp.channel.Learning+Center,_fp.event.Case+Studies',
+'/about/overview' : '_fp.channel.About,_fp.event.About Overview',
 '/audience' : '_fp.channel.Audience,_fp.event.Audience LP',
 '/audience/reach-audience-for-marketers' : '_fp.channel.Audience,_fp.event.Audience for Marketers',
 '/audience/reach-audience-for-media-sellers' : '_fp.channel.Audience,_fp.event.Audience for Pub',
-'/audience/verticals' : '_fp.channel.Audience,_fp.event.Audience Vertical Solutions',
 '/audience/showcase-your-audience-segments' : '_fp.channel.Audience,_fp.event.Showcase Your Audience',
 '/audience/quantcast-lookalikes' : '_fp.channel.Audience,_fp.event.Audience QC LALs',
 '/audience/participants' : '_fp.channel.Audience,_fp.event.Audience Participants'};
 function quantserveTrack(URLPathName) {
 if (document.location.search.indexOf('ad-landing') != -1) { //page=*?*ad-landing*
 labelsVar = "_fp.channel.Media,_fp.event.Media Sign Up Thank You";
+}
+else if (document.location.pathname.indexOf('/learning-center') != -1) { //section=*/learning-center*
+if (document.location.pathname.indexOf('/case-studies') != -1) {
+labelsVar = '_fp.channel.Learning+Center,_fp.event.Case+Studies';
+}
+else {
+labelsVar = '_fp.channel.Learning+Center,_fp.event.Learning Center Page';
+}
+}
+else if (document.location.pathname.indexOf('/audience/verticals') != -1) { //section=*/verticals*
+labelsVar = '_fp.channel.Audience,_fp.event.Audience Vertical Solutions';
+}
+else if (document.location.pathname.indexOf('/measurement') != -1) { //section=*/measurement*
+labelsVar = '_fp.channel.Measurement,_fp.event.Measurement Page';
+}
+else if (document.location.pathname.indexOf('/how-we-do-it') != -1) { //section=*/how-we-do-it*
+labelsVar = '_fp.channel.How+We+Do+It,_fp.event.How We Do It Page';
+}
+else if (document.location.pathname.indexOf('/contact') != -1) { //page=*/contact, /contact#businessInquiry or /contact#troubleTicket*
+labelsVar = '_fp.channel.Contact,_fp.event.Contact Page';
+}
+else if (document.location.pathname.indexOf('/inside-quantcast') != -1) { //section=*/inside-quantcast*
+labelsVar = '_fp.channel.Inside-Quantcast,_fp.event.Blog';
 }
 else {
 if (pageSpecificLabels[URLPathName] != undefined) {
@@ -396,7 +420,7 @@ qacct:"p-9fYuixa7g_Hm2", // global tag for all time
 labels:"user.,NEWBIE.,ABTestAttrs.,_fp.event.PrivacyPolicy",
 event:"loaded"
 },
-{ qacct:"p-fdPOEe5CwS0oM", /* (...jsp comments...) Marketing campaign tag requested by (...jsp comments...) */
+{ qacct:"p-fdPOEe5CwS0oM", 
 labels:labelsVar
 }]);
 }
@@ -404,30 +428,48 @@ else { // track only the global tag for all time
 _qevents.push( { qacct:"p-9fYuixa7g_Hm2",labels:"user.,NEWBIE.,ABTestAttrs.,_fp.event.PrivacyPolicy",event:"loaded" } );
 }
 }
-$(document).ready(function() {
+$(window).load(function() {
 var URLPathName = document.location.pathname.replace('', '');
 quantserveTrack(URLPathName);
+
+loadKISSinsightIframe();
 });
+function loadKISSinsightIframe() {
+if ((window.KISSinsightsVars != undefined) && (KISSinsightsVars.pageType != undefined)) {
+pageType = KISSinsightsVars.pageType;
+}
+else {
+KISSinsightsVars = {};
+pageType = 'all';
+}
+var ua = $.browser;
+if ((ua.msie) && (parseFloat(ua.version) < 9 )) {
+return;
+}
+else {
+jQuery('.KISSinsights-iframe').remove();
+var newIframe = document.createElement('iframe');
+newIframe.id = 'KISSinsights-iframe-' + pageType;
+newIframe.src = '/kissinsights-survey/?pageType='+pageType;
+newIframe.className = 'KISSinsights-iframe';
+newIframe.style.height = '2px';
+newIframe.style.width = '2px';
+newIframe.style.border = '0';
+jQuery(newIframe).appendTo('#footer');
+}
+}
 </script>
 <noscript>
 <div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-9fYuixa7g_Hm2.gif" height="1" width="1" alt="Quantcast"/></div>
 </noscript>
-<script type="text/javascript">
-var _kiq = _kiq || [];
-var ua = $.browser;
-if ( ua.msie && parseInt(ua.version) < 9 ) {
-_kiq.push(['disableAuto']);
-}
-</script>
-<script type="text/javascript" src="//s3.amazonaws.com/ki.js/26396/5ds.js" async="true"></script>
+<script src="//munchkin.marketo.net/munchkin.js" type="text/javascript"></script> <script>mktoMunchkin("516-DGM-318");</script>
 <!--
 
 -->
-<script src="//munchkin.marketo.net/munchkin.js" type="text/javascript"></script> <script>mktoMunchkin("516-DGM-318");</script>
 	</div>
 	
 
 
-<!-- Dynamic page generated in 0.236 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2011-12-20 23:47:26 -->
+<!-- Dynamic page generated in 0.286 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2012-06-21 01:35:20 -->
 </body></html>
