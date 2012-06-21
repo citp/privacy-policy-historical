@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stelladot.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219084513id_/http%3A//www.stelladot.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stelladot.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621235355id_/http%3A//www.stelladot.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Stella & Dot
+# Privacy Policy | Stella & Dot
 
 Stella & Dot wants your experience with us to be nothing short of fabulous. To this end, we have systems in place for securely managing your personal information. We take our responsibility of protecting your personal information seriously and have created this Policy to help you understand the type of information we collect and your rights to and our responsibilities in safeguarding it.
 
