@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dhs.gov privacy policy that was archived on 2011-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111222013801id_/http%3A//www.dhs.gov/xutil/gc_1157139158971.shtm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dhs.gov privacy policy that was archived on 2012-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621152157id_/http%3A//www.dhs.gov/xutil/gc_1157139158971.shtm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<title>DHS | Web Site Privacy Policy</title>
@@ -48,20 +48,31 @@
 <script type="text/javascript" src="/scripts/jquery/js/extLinks.js"></script>
 <link rel="stylesheet" href="/scripts/jquery/css/redmond/jquery-ui-1.8.11.custom.css" type="text/css">
 
+    <script type="text/javascript">
+//<![CDATA[
+var usagov_sayt_url = "http://search.usa.gov/sayt?aid=2459&";
+//]]>
+</script>
+    <script src="http://search.usa.gov/javascripts/jquery/jquery.min.js" type="text/javascript"></script>
+<script src="http://search.usa.gov/javascripts/jquery/jquery.bgiframe.min.js" type="text/javascript"></script>
+<script src="http://search.usa.gov/javascripts/jquery/jquery.autocomplete.min.js" type="text/javascript"></script>
+<script src="http://search.usa.gov/javascripts/sayt.js" type="text/javascript"></script>
+    <link href="http://search.usa.gov/stylesheets/compiled/sayt.css" media="screen" rel="stylesheet" type="text/css">
+
 	
-<script type="text/javascript" src="/foresee/foresee-surveydef.js"></script></head>
+</head>
 
 <body>
 <a href="#content" id="skip" accesskey="2">Skip Navigation</a>
 <div id="header">  
 
-	<div id="banner" class="m05" classname="m05"><a href="/" accesskey="1">
+	<div id="banner" class="p16" classname="p16"><a href="/" accesskey="1">
  
 	</a><div id="support"><a href="/" accesskey="1">
     </a><a class="external" href="http://www.facebook.com/#!/homelandsecurity"><img src="/graphics/icon-facebook.png" alt="Facebook icon"></a>
 		<a class="external" href="http://twitter.com/dhsgov/"><img src="/graphics/icon-twitter.png" alt="Twitter icon"></a>
 		<a class="external" href="http://www.youtube.com/ushomelandsecurity"><img src="/graphics/icon-youtube.png" alt="YouYube icon"></a> <span class="padded"><a href="/xabout/">About</a>|<a href="http://blog.dhs.gov/">Blog</a>|<a href="/xutil/contactus.shtm">Contact Us</a>|<a href="/xutil/sitemap.shtm">Site Map</a></span>
-		<form action="http://search.fema.gov/search" method="get" name="gs" id="gs">
+<!--		<form action="http://search.fema.gov/search" method="get" name="gs" id="gs">
 			<label for="q" class="unloved">Search</label>
 			<input id="q" name="q" maxlength="128" value="" type="text">
 			<input value="Search" name="btnG" type="submit" class="orangeButton">
@@ -72,7 +83,18 @@
 			<input value="dhs" name="client" type="hidden">
 			<input value="dhs" name="proxystylesheet" type="hidden">
 			<input value="dhs" name="site" type="hidden">
-		</form>
+		</form>-->
+        
+     
+
+  <form accept-charset="UTF-8" action="http://search.dhs.gov/search?affiliate=dhs" id="search_form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+    <input id="affiliate" name="affiliate" type="hidden" value="dhs">
+    <label for="query" class="unloved">Search</label>
+    <input autocomplete="off" class="usagov-search-autocomplete" id="query" name="query" size="40" type="text">
+    <input name="commit" type="submit" value="Search" class="orangeButton">
+  </form>
+
+
 	</div>
 	
 	<img src="/graphics/dhs-signature.png" alt="The Department of Homeland Security" id="signature"> 
