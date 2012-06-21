@@ -1,35 +1,32 @@
-> *The following text is extracted and transformed from the org.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604075455id_/http%3A//your.com/privstmt.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the org.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621224357id_/http%3A//www.digimedia.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Your.com - Your license to find anything on the web
+# None
 
-DigiMedia.com, L.P. has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site, Your.com (the "Web Site"). DigiMedia.com, L.P. and Your.com are collectively referred to in this Privacy Policy as "DigiMedia". 
+Welcome to this Digimedia.com, L.P. ("Digimedia") site. This policy describes the information collected on this site and how it may be used and/or shared. 
 
-**Use of IP Information**
+Regarding IP Addresses. Digimedia and/or third parties use your IP address to identify you, gather broad demographic information, help diagnose problems with our server, and to administer our site. 
 
-DigiMedia uses your IP address to analyze trends, track user movement, help diagnose problems with our server, and to administer the Web Site. Your IP address is also used to help identify you and to gather broad demographic information for aggregate use. 
+Regarding Cookies. Digimedia and/or third parties may be placing or reading "cookies" on your internet browser. Cookies are bits of text transferred to your computer hard drive through your browser. They allow Digimedia and/or third party systems to recognize your browser, remember your information and link your activities to you. Should you block or disable these cookies, this site may not work and/or appear as intended. Nevertheless, if you want to take these steps, you can do so by following instructions related to your browser. Cookies collect types of information such as the following: 
 
-We use cookies to deliver content specific to your interests and for other purposes. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+  * Site traffic (for example: the domain name and host from which you access the internet and the internet address of the site from which you came to ours),
+  * Statistics (for example: the date and time you access our site, the keywords and/or links clicked, and the pages you visit),
+  * IP information (for example: your computer's IP address, information about the operating system, platform and web browser type/version you utilize),
+  * Demographic information & other non-personally identifiable information about you,
+  * Advertisement information, and/or
+  * Information to fight fraud or misuse.
 
-**Links to Other Sites; Outside/Third Party Advertisers**  
-The Web Site contains links to other sites neither owned nor operated by DigiMedia. As such, DigiMedia is not responsible for the privacy practices or the content of such web sites. DigiMedia encourages our users to be aware when they leave our site and to read the privacy policies of each and every web site that collects personally identifiable information. This privacy policy applies solely to information collected by this Web site.   
-In addition to its own advertisements, DigiMedia uses partners and other third parties to display advertisements on the Web Site. These partner or third party ads may contain cookies. While we use cookies in other parts of the Web Site, cookies received with banner ads or hyperlink advertisements are collected by those partners and third party advertisers, and we do not have access to this information. 
 
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. DigiMedia utilizes a variety of security measures to maintain the safety of the information collected at the web site. All information is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems. If you have any questions about security, please contact security@Your.com.
 
-**Personally Identifiable Information**  
-As of April 25, 2001, we do not collect any personally identifiable information from any user. 
+Regarding Personally Identifiable Information. Some Digimedia sites may collect personally identifiable information when you choose to provide it through a contact form, registration form or when purchasing a service or product. This type of information may include your name, addresses, email addresses, phone numbers, and financial information. This information is used to contact you in reference to an inquiry, to manage and/or promote our relationship with you. 
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on the Web Site's Homepage so users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+Regarding Sensitive Information. Some Digimedia sites may, as part of your purchase of a product or service, collect sensitive information, such as your credit card number. In such case, sensitive information will be encrypted and protected with SSL, the current industry standard encryption protocol. You will know you are on such an SSL page when you see a picture of a closed lock at the bottom or top of some Web browsers. Another way to tell if you are on a secure page is to look at the address or URL of the page. (Look in the address box or right-click on the page and select "Properties".) These secure SSL encrypted pages have URLs that start with https:// instead of http://.
 
-**Contacting the Web Site**  
-If you have any questions about this privacy policy, the practices of this site, or your dealings with the Web Site, you can contact DigiMedia at the following address. 
+Regarding Information Collected by Third Parties. This site may consist of third-party advertising, links to other sites, and/or content from third parties. Digimedia may share non-personally identifiable (for example: demographic) information to facilitate the delivery of relevant content and/or advertisements. Third party sites, businesses, advertisers, or advertising entities working on their behalf, sometimes use technology to deliver the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons, and other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and identification of advertisers that provide an opt-out mechanism, please visit the following: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-DigiMedia.com, L.P.  
-Attn: Your.com  
-P.O. Box 750237  
-Duncan, OK 73575   
-help@Your.com 
+Regarding ownership and transfer of information. All information collected on this site is considered to be an asset of Digimedia and as such may be shared and/or transferred as described in this policy and/or as part of an acquisition (or contemplated acquisition) of Digimedia and/or this site.
 
-[PLEASE REVIEW OUR USER AGREEMENT.](https://web.archive.org/web/20010604075455id_/http%3A//your.com/useragmt.html)
+Regarding changes to this policy. Digimedia may alter this policy from time to time, so you are encouraged to review the policy periodically. 
+
+Legal Disclaimer. Digimedia may disclose personal information when required by law or in the good faith belief that such action is necessary in order to conform to the edicts of the law, or to comply with a legal process served on our Web site.
+
+If you have further questions, send an email to [admin@digimedia.com](mailto:admin@digimedia.com). 
