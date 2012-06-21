@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmovies.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231161146id_/http%3A//www.mindmovies.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmovies.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621094016id_/http%3A//www.mindmovies.com/footer/privacy.html) for the most accurate reproduction.*
 
 # Mind Movies
 
@@ -62,4 +62,4 @@ MindMovies may edit this policy from time to time. If we make any substantial ch
 
 **Questions or Suggestions**
 
-If you have questions or suggestions complete a [ feedback form ](http://mindmovies.com/footersupport/support.php).
+If you have questions or suggestions complete a [ feedback form ](http://mindmovies.com/footer/support.php).
