@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capcom-unity.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227000146id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capcom-unity.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622015056id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
 
 # Capcom Privacy Policy
 
@@ -206,6 +206,6 @@ Capcom USA is a licensee of the ESRB's Privacy Online Program. If you believe th
 
 We may amend this Privacy Policy at any time. If we make any material changes in how we collect, use, or share your personal information, we will prominently post notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy. 
 
-Here is a [PDF version](https://web.archive.org/web/20111227000146id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
+Here is a [PDF version](https://web.archive.org/web/20120622015056id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
 
 | 
