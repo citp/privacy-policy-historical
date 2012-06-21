@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnsonelectric.com privacy policy that was archived on 2011-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110716210734id_/http%3A//www.johnsonelectric.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnsonelectric.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621042750id_/http%3A//www.johnsonelectric.com/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Johnson Electric
 
@@ -26,7 +26,7 @@ Persons to Whom the Personal Data May be Transferred
   4. External Links - This website may contain links to third party websites. JE is not responsible for the privacy policies of such websites. JE encourages you to review the privacy policy of each website you linked to from this website and contact the owner of the websites if you have any queries. 
   5. Security - If you doubt the security of using the Internet to send information that you consider confidential, you should not send that information to JE over the Internet. JE has implemented appropriate technical security measures to try to protect your personal data from unauthorized access or improper use. 
   6. Cookies - To better serve you when you return to this website, JE may set and access cookies on your computer's hard disc. A cookie is a small amount of anonymous information recording your preferences when browsing this website. You can set your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Please check the "Help" menu of your browser to set cookie preferences as each browser is different.) 
-  7. Password and Account - If you join our membership program, you will receive a password and account designation upon completing the registration procedure. You are responsible for maintaining the confidentiality of the password and account, and are responsible for all activities that occur under your password or account. You agree to:
+  7. Password and Account - If you join our membership program, you will receive a password and account designation upon completing the registration procedure. You are responsible for maintaining the confidentiality of the password and account, and are responsible for all activities that occur under your password or account. You agree to: 
     * immediately notify JE of any unauthorized use of your password or account or any other breach of security; and 
     * ensure that you exit from your account at the end of each session. 
 JE will not be responsible for any loss or damage arising from your failure to comply with the aforementioned. 
