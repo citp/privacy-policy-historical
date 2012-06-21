@@ -1,23 +1,18 @@
-> *The following text is extracted and transformed from the zuora.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224031531id_/http%3A//zuora.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuora.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621020821id_/http%3A//www.zuora.com/company/privacy.html) for the most accurate reproduction.*
 
-# On-Demand Subscription Management - Zuora Privacy Statement
+# Zuora's Privacy Statement | Zuora
 
-### Zuora Privacy Policy
+* * *
 
-Founded in 2007 by SaaS industry veterans from [salesforce.com](http://www.salesforce.com/ "salesforce.com") and [WebEx](http://www.webex.com/ "webex.com"), Zuora has created an on demand platform designed to simplify the way online subscription services are purchased, billed, and provisioned. Zuora, Inc. is backed by Benchmark Capital and located in Redwood City, California. For more information about Zuora, Inc. visit [www.zuora.com](https://web.archive.org/web/20111224031531id_/http%3A//zuora.com/index.html "www.zuora.com") or email [info@zuora.com](mailto:info@zuora.com "info@zuora.com").
+Founded in 2007 by SaaS industry veterans from salesforce.com and WebEx, Zuora has created an on demand platform designed to simplify the way online subscription services are purchased, billed, and provisioned. Zuora, Inc. is backed by Benchmark Capital and located in Redwood City, California. For more information about Zuora, Inc. visit [www.zuora.com](https://web.archive.org/web/20120621020821id_/http%3A//www.zuora.com/) or email [info@zuora.com](mailto:info@zuora.com).
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.zuora.com/seal_m "Validate TRUSTe privacy certification")Zuora has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [compliance@zuora.com](mailto:compliance@zuora.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+[](http://privacy.truste.com/privacy-seal/Zuora/validation?rid=5855bf10-cd21-4068-810f-c29f16f5630a "Validation Page for Online Privacy Certification by TRUSTe")
 
-Zuora has been awarded the TRUSTe seal signifying their privacy policy and privacy practices complies with TRUSTe’s EU Safe Harbor program requirements which are consistent with the U.S. – EU & Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from the European Union and Switzerland. Information regarding the E.U. Safe Harbor Framework can be found at: <http://www.export.gov/safeharbor/>.
+Zuora has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [compliance@zuora.com](mailto:info@zuora.com). If you are not satisfied with our response you can contact TRUSTe here.
 
-| 
+Zuora has been awarded the TRUSTe seal signifying their privacy policy and privacy practices complies with TRUSTe's EU Safe Harbor program requirements which are consistent with the U.S. ' EU & Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from the European Union and Switzerland. Information regarding the E.U. Safe Harbor Framework can be found at: <http://www.export.gov/safeharbor/>.
 
-[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)
-
-[](http://www.export.gov/safeharbor "US EU Safe Harbor")  
----|---  
-  
-If you have questions or concerns regarding this Policy, you should first contact [support@zuora.com](mailto:support@zuora.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet by [clicking here](http://www.truste.org/consumers/watchdog_complaint.php), by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420. If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, [click here](http://www.truste.org/consumers/watchdog_complaint.php) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+If you have questions or concerns regarding this Policy, you should first contact [support@zuora.com](mailto:support@zuora.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet by clicking here, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420. If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
 ### Collected Information
 
@@ -25,27 +20,27 @@ We require people who register to use a Zuora online application (the "Services"
 
 ### Communications from the Site
 
-Zuora does not distribute or share customer e-mail addresses or any other personal information, except as noted in its [Terms of Service](https://web.archive.org/web/20111224031531id_/http%3A//zuora.com/MSA.html "Terms of Service"), or as may be required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process.
+Zuora does not distribute or share customer e-mail addresses or any other personal information, except as noted in its [Terms of Service](https://web.archive.org/web/20120621020821id_/http%3A//www.zuora.com/company/msa.html "MASTER SUBSCRIPTION AGREEMENT"), or as may be required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process.
 
-Zuora uses the information we collect to set up the Services for individuals and their organizations. We may also use the information to contact customers and prospects to further discuss their interest in our company, the Services we provide and ways we can improve them, and to send information such as announcements of promotions and events regarding our company or partners. We may also e-mail a customer newsletter and updates about the Services or the company. You can opt out of receiving these communications by following the instructions at the bottom of each communication or at any time by e-mailing [support@zuora.com](mailto:support@zuora.com "support@zuora.com").
+Zuora uses the information we collect to set up the Services for individuals and their organizations. We may also use the information to contact customers and prospects to further discuss their interest in our company, the Services we provide and ways we can improve them, and to send information such as announcements of promotions and events regarding our company or partners. We may also e-mail a customer newsletter and updates about the Services or the company. You can opt out of receiving these communications by following the instructions at the bottom of each communication or at any time by e-mailing [support@zuora.com](mailto:support@zuora.com).
 
 ### Correcting, Deleting and Updating Your Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, discontinue the use of our service or delete it by making the change on our member information page or by emailing our Customer Support at [support@zuora.com](mailto:support@zuora.com "support@zuora.com"). We will respond to your request to access within 30 days.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, discontinue the use of our service or delete it by making the change on our member information page or by emailing our Customer Support at [support@zuora.com](mailto:support@zuora.com). We will respond to your request to access within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-All financial and billing information that we collect through a Zuora Web site and the Services is used solely to provide and bill for the Services. Zuora does not use this billing information for marketing or promotional purposes. Except as we explicitly state at the time we request information, or as provided for in the Zuora [Terms of Service](https://web.archive.org/web/20111224031531id_/http%3A//zuora.com/MSA.html "Terms of Service"), we do not disclose to any third party the information provided.
+All financial and billing information that we collect through a Zuora Web site and the Services is used solely to provide and bill for the Services. Zuora does not use this billing information for marketing or promotional purposes. Except as we explicitly state at the time we request information, or as provided for in the Zuora [Terms of Service](https://web.archive.org/web/20120621020821id_/http%3A//www.zuora.com/company/msa.html "MASTER SUBSCRIPTION AGREEMENT"), we do not disclose to any third party the information provided.
 
-Zuora has referral relationships with third-party companies and individuals ("Referral Partners") who refer their customers to Zuora. Customers who become paying users of a Zuora Service through a Referral Partner are considered customers of both Zuora and the Referral Partner. Zuora and a Referral Partner may share customer contact as well as account, financial and billing information with respect to their joint business relationship with the customer. The sharing of this information allows Zuora and the Referral Partner to establish the identity of the shared customer and determine referral fees owed. This sharing also allows Referral Partners to provide consolidated billing services to the shared customer. Shared contact and account, financial and billing information is governed by the Zuora [Terms of Service](https://web.archive.org/web/20111224031531id_/http%3A//zuora.com/MSA.html "Terms of Service"). Zuora does not share your business data with Referral Partners.
+Zuora has referral relationships with third-party companies and individuals ("Referral Partners") who refer their customers to Zuora. Customers who become paying users of a Zuora Service through a Referral Partner are considered customers of both Zuora and the Referral Partner. Zuora and a Referral Partner may share customer contact as well as account, financial and billing information with respect to their joint business relationship with the customer. The sharing of this information allows Zuora and the Referral Partner to establish the identity of the shared customer and determine referral fees owed. This sharing also allows Referral Partners to provide consolidated billing services to the shared customer. Shared contact and account, financial and billing information is governed by the Zuora [Terms of Service](https://web.archive.org/web/20120621020821id_/http%3A//www.zuora.com/company/msa.html "MASTER SUBSCRIPTION AGREEMENT"). Zuora does not share your business data with Referral Partners.
 
-Zuora has integration relationships with third-party companies and individuals ("Integration Partners"). These relationships extend the functionality of the Services and the Integration Partner application or service ("Integrated Service") by allowing the Services and the Integrated Service to exchange customer data and to establish linked business processes between the two. Customers who pay Zuora for use of the Services and use this Integrated Service are considered customers of both Zuora and the Integration Partner. Zuora and an Integration Partner may share customer contact, account, financial and billing information, and business data with respect to their integrated business relationship with the customer. The sharing of this information allows Zuora and the Integration Partner to establish the identity of the shared customer and determine referral fees owed. This sharing also allows the Integration Partner to provide consolidated billing services to the shared customer and allows for the enhanced functionality of the integrated service. Shared contact, account, financial and billing information, and business data is governed by the Zuora [Terms of Service](https://web.archive.org/web/20111224031531id_/http%3A//zuora.com/MSA.html "Terms of Service").
+Zuora has integration relationships with third-party companies and individuals ("Integration Partners"). These relationships extend the functionality of the Services and the Integration Partner application or service ("Integrated Service") by allowing the Services and the Integrated Service to exchange customer data and to establish linked business processes between the two. Customers who pay Zuora for use of the Services and use this Integrated Service are considered customers of both Zuora and the Integration Partner. Zuora and an Integration Partner may share customer contact, account, financial and billing information, and business data with respect to their integrated business relationship with the customer. The sharing of this information allows Zuora and the Integration Partner to establish the identity of the shared customer and determine referral fees owed. This sharing also allows the Integration Partner to provide consolidated billing services to the shared customer and allows for the enhanced functionality of the integrated service. Shared contact, account, financial and billing information, and business data is governed by the Zuora [Terms of Service](https://web.archive.org/web/20120621020821id_/http%3A//www.zuora.com/company/msa.html "MASTER SUBSCRIPTION AGREEMENT").
 
 Zuora uses third-party intermediaries to manage credit card processing. These intermediaries are solely links into the distribution chain. They are not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing.
 
 Other third parties, such as content providers, may provide information on a Zuora Web site, but they are not permitted to collect any information, nor does Zuora share any personally identifiable user information with these parties. We also use a third party platform host, who hosts the forms on our site, they do not have any access to the personal information that you submit on our site.
 
-Zuora customers use Zuora Services to host data and information. Zuora will not review, share, distribute, print, or reference any such data except as provided in the Zuora [Terms of Service](https://web.archive.org/web/20111224031531id_/http%3A//zuora.com/MSA.html "Terms of Service"), or as may be required by law. We will view or access individual records only with your permission (for example, to resolve a problem or support issue). Users of the Services are responsible for maintaining the confidentiality and security of their user registration and passwords.
+Zuora customers use Zuora Services to host data and information. Zuora will not review, share, distribute, print, or reference any such data except as provided in the Zuora [Terms of Service](https://web.archive.org/web/20120621020821id_/http%3A//www.zuora.com/company/msa.html "MASTER SUBSCRIPTION AGREEMENT"), or as may be required by law. We will view or access individual records only with your permission (for example, to resolve a problem or support issue). Users of the Services are responsible for maintaining the confidentiality and security of their user registration and passwords.
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process.
 
@@ -57,11 +52,11 @@ Cookies are files web browsers place on a computer's hard drive. They are used t
 
 ### Third Party Cookies
 
-The use of cookies by our affiliates or tracking utility company is not covered by our privacy statement. We do not have access or control over these cookies.
+The use of cookies by our affiliates or tracking utility company is not covered by our privacy statement. We do not have access or control over these cookies. To learn more or opt out of third party tracking, you can go to the [Digital Advertising Alliance](http://www.aboutads.info/ "opt out of third party tracking via Digital Advertising Alliance").
 
 ### Clear Gifs (Web Beacons/Web Bugs)
 
-Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do tie the information gathered by clear gifs to our customers’ personally identifiable information.
+Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do tie the information gathered by clear gifs to our customers' personally identifiable information.
 
 ### Third Party Sites
 
@@ -75,15 +70,15 @@ The security of your personal information is important to us. When you enter sen
 
 ### Opt-Out Policy
 
-Zuora offers you a means to choose how we may use information you provide. If, at any time after registering for information or ordering the Services, you change your mind about receiving certain email communications from us or about sharing personal information with third parties, send us a request to opt-out from receiving promotional emails or from having your personal information shared with third parties. Send your request to [support@zuora.com](mailto:support@zuora.com "support@zuora.com").
+Zuora offers you a means to choose how we may use information you provide. If, at any time after registering for information or ordering the Services, you change your mind about receiving certain email communications from us or about sharing personal information with third parties, send us a request to opt-out from receiving promotional emails or from having your personal information shared with third parties. Send your request to [support@zuora.com](mailto:support@zuora.com).
 
 ### Correcting and Updating Your Information
 
-To update, change or delete registration information and billing information, or to discontinue the Services, log on to the Services at a Zuora Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [support@zuora.com](mailto:support@zuora.com "support@zuora.com"). We will respond to your request to access within 30 days.
+To update, change or delete registration information and billing information, or to discontinue the Services, log on to the Services at a Zuora Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [support@zuora.com](mailto:support@zuora.com). We will respond to your request to access within 30 days.
 
 ### Blog
 
-If you use a bulletin board, chat room, blog or forum on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [support@zuora.com](mailto:support@zuora.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+If you use a bulletin board, chat room, blog or forum on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [support@zuora.com](mailto:support@zuora.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### Customer Testimonials
 
@@ -91,7 +86,7 @@ We post customer testimonials/comments/reviews on our web site which may contain
 
 ### Additional Information
 
-Questions regarding this Privacy Policy or the security practices of the Services should be directed to [support@zuora.com](mailto:support@zuora.com "support@zuora.com").
+Questions regarding this Privacy Policy or the security practices of the Services should be directed to [support@zuora.com](mailto:support@zuora.com).
 
 ### Changes to This Policy
 
@@ -103,16 +98,12 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices you may contact us at:
 
-Zuora, Inc.
+Zuora, Inc.   
+3400 Bridge Pkwy, Suite 101   
+Redwood City, CA 94065   
+(650) 641-3777   
+[compliance@zuora.com](mailto:compliance@zuora.com)
 
-1400 Bridge Pkwy, Suite 203
+If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint "Validation Page for Online Privacy Certification by TRUSTe").
 
-Redwood City, CA 94065
-
-(650) 641-3777
-
-[compliance@zuora.com](mailto:compliance@zuora.com "compliance@zuora.com")
-
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "TRUSTe here").
-
-Update effective 28 June 2011
+_Update effective 28 June 2011_
