@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lanyrd.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128004943id_/http%3A//lanyrd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanyrd.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621220911id_/http%3A//lanyrd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lanyrd
 
@@ -43,6 +43,8 @@ Lanyrd takes all measures reasonably necessary to protect against the unauthoris
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Lanyrd uses cookies to help Lanyrd identify and track visitors, their usage of Lanyrd website, and their website access preferences.
 
 Lanyrd visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Lanyrd’s websites, with the drawback that certain features of Lanyrd’s websites may not function properly without the aid of cookies.
+
+You can read more about [our usage of cookies here](https://web.archive.org/help/cookies/).
 
 ## Privacy Policy Changes
 
