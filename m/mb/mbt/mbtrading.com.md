@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623143122id_/http%3A//www.mbtrading.com/indexMenu.aspx%3Fpage%3DdisclaimerPP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621173109id_/http%3A//www.mbtrading.com/disclaimerPP.aspx) for the most accurate reproduction.*
 
 # MB Trading - Disclaimer PP
 
@@ -22,7 +22,7 @@ This notice will help you understand our overall privacy policy and the type of 
 
 We collect personal and financial information to open your account, to process your transactions, to administer your account, to verify your identity, employment, creditworthiness, and to carry out your request for other products and services. The following categories are examples of personal nonpublic information that will be requested from you: (1) name, (2) date of birth, (3) trading history, (4) total assets, (5) social security number, (6) cash balance, (7) margin information, and (8) positions. We have implemented procedures to protect your nonpublic personal and financial information.
 
-We do not disclose your nonpublic information to nonaffiliated third parties unless (1) to facilitate your written requests or instructions; (2) to help us improve services; or (3) it is permitted or otherwise required by law. Examples of “improve services” include Experian Marketing Solutions, Inc. “Cheetah Mail”, which helps us with (1) client satisfaction surveys and (2) helps us to analyze and identify client needs and notify clients of product and service offerings. Examples of "permitted by law" include our clearing firms: Penson Financial Services, Inc. (which clears and settles your securities transactions) and Penson Futures (which clears and settles your futures transactions); and credit bureaus (e.g. Experian, Equifax, and Trans Union). Examples of "required by law" include court orders and regulatory investigations.
+We do not disclose your nonpublic information to nonaffiliated third parties unless (1) to facilitate your written requests or instructions; (2) to help us improve services; or (3) it is permitted or otherwise required by law. Examples of “improve services” include Experian Marketing Solutions, Inc. “Cheetah Mail”, which helps us with (1) client satisfaction surveys and (2) helps us to analyze and identify client needs and notify clients of product and service offerings. Examples of "permitted by law" include our clearing firms: Apex Clearing Corporation (which clears and settles your securities transactions) and Knight Execution & Clearing Services LLC (which clears and settles your futures transactions); and credit bureaus (e.g. Experian, Equifax, and Trans Union). Examples of "required by law" include court orders and regulatory investigations.
 
 We do not sell, license, lease or otherwise disclose your personal information to third-party marketers or any other entity for any purpose. Our commitment to privacy protection extends to both current and former customers, except as permitted or required by law or to improve our services.
 
@@ -32,7 +32,7 @@ Our employees or representatives may collect nonpublic personal information abou
 
   * Your account application or other supplemental account forms.
   * Your transactional history with affiliates MB Trading and/or MB Trading Futures, Inc. 
-  * Your account records including transactional history with nonaffiliates Penson Financial Services, Inc. and Penson Futures, where it is appropriate 
+  * Your account records including transactional history with non-affiliates Apex Clearing Corporation and Knight Execution & Clearing Services, LLC where it is appropriate.
   * Information from credit reporting agencies (e.g. Experian, Equifax, and Trans Union). 
   * Current and prior employers, federal and state agencies. 
   * Consumer reporting agencies such as McDonald Information Service, Inc. 
@@ -53,7 +53,7 @@ We limit access to only those employees or representatives that need to know the
 
 We will share information with affiliates if the information is required to provide a product or service you have requested. Additionally, we may share information with our affiliates about our experiences or transactions with you or your account in order to make you aware of services and products from which you may benefit. Information that may be shared with affiliates include your name, email address, mailing address, age, employment status, general account and demographic information and account history with us.
 
-An affiliate is a company that we own or control or with which there is common ownership with us and our parent company. MB Trading, MB Trading Futures, Inc. and WGAL, LLC are affiliates of each other. 
+An affiliate is a company that we own or control or with which there is common ownership with us and our parent company. MB Trading, MB Trading Futures, Inc., WGAL, LLC, and MBT Financial UK Ltd., are affiliates of each other.
 
 **NONAFFILIATED THIRD PARTIES**
 
@@ -104,4 +104,4 @@ If you have questions regarding our privacy policy, or to update your account in
 
 **THIS PRIVACY NOTICE IS PROVIDED TO YOU FOR INFORMATIONAL PURPOSES ONLY. YOU DO NOT NEED TO CALL OR TAKE ANY ACTION IN RESPONSE TO THIS NOTICE. WE RECOMMEND THAT YOU READ AND RETAIN THIS NOTICE FOR YOUR PERSONAL RECORDS.**
 
-Effective date: June 22, 2010
+Effective Date: June 6, 2012
