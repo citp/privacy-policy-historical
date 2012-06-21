@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cafepress.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226005131id_/http%3A//www.cafepress.com/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafepress.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621021335id_/http%3A//www.cafepress.com/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
 
 # CafePress.com : Customer Service : Privacy Policy
 
-[Classic Car Tees](https://web.archive.org/cp/store.aspx?s=classiccartees.0) > **Customer Service**
+[www.cafepress.com/classof_tshirts](https://web.archive.org/cp/store.aspx?s=classof_tshirts.7786789) > **Customer Service**
 
 **Effective Date: June 23, 2011**
 
@@ -96,4 +96,6 @@ If you no longer wish to receive our newsletters and promotional communications,
 
 If we disclose your Personal Information to a third party in a manner that is not set forth in this Privacy Policy you will be notified so that you can make an informed choice about sharing your Personal Information with that third party.
 
-**top**
+**top**  
+  
+Please visit our main site at [HomewiseShopper.com](http://www.homewiseshopper.com/) for all our cute MainstreetShirt graduation designs. 
