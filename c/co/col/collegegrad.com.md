@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegegrad.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201174906id_/http%3A//www.collegegrad.com/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegegrad.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621031755id_/http%3A//www.collegegrad.com/privacy/index.shtml) for the most accurate reproduction.*
 
-# CollegeGrad.com
+# CollegeGrad.com | CollegeGrad.com
 
 [](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.collegegrad.com/seal_m "Validate TRUSTe privacy certification")
 
