@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the media.net privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208184705id_/http%3A//www.media.net/privacy_policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media.net privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621210519id_/http%3A//www.media.net/privacy_policies.php) for the most accurate reproduction.*
 
 # media.net | Privacy Policy
 
