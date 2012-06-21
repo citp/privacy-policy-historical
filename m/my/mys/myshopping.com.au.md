@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229090120id_/http%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621033710id_/http%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
 
 # Your Privacy - MyShopping.com.au
 
@@ -73,7 +73,7 @@ Unless you contact us to indicate otherwise, you consent to your personal inform
 * gain a better understanding of your information service requirements; and 
 * conduct appropriate checks for credit-worthiness or fraud. 
 
-Telstra's digital advertising network is responsible for placing some of the advertising on this site.  To make this advertising more relevant to you, anonymous information about the previous web browsing activity of your computer on sites within Telstra's network is collected and used to associate your computer with one or more pre-defined interest categories. Advertising that matches those interest categories may then be served to your computer.  This interest based advertising does not change the amount of advertising you receive, it just makes it more relevant.  You can learn more about the interest based advertising conducted by Telstra here www.telstra.com.au/privacy/interest-based-advertising.  General information about interest based advertising is available from the industry website www.youronlinechoices.com.au, and you can also opt out of some or all interest based advertising here www.youronlinechoices.com.au/opt-out. 
+Telstra's digital advertising network is responsible for placing some of the advertising on this site. �To make this advertising more relevant to you, anonymous information about the previous web browsing activity of your computer on sites within Telstra's network is collected and used to associate your computer with one or more pre-defined interest categories. Advertising that matches those interest categories may then be served to your computer. �This interest based advertising does not change the amount of advertising you receive, it just makes it more relevant. �You can learn more about the interest based advertising conducted by Telstra here www.telstra.com.au/privacy/interest-based-advertising. �General information about interest based advertising is available from the industry website www.youronlinechoices.com.au, and you can also opt out of some or all interest based advertising here www.youronlinechoices.com.au/opt-out. 
 
 ###### Transferring your personal information
 
