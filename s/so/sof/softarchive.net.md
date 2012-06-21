@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softarchive.net privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230181931id_/http%3A//softarchive.net/templates/imgs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softarchive.net privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621183245id_/http%3A//softarchive.net/templates/imgs/privacy.html) for the most accurate reproduction.*
 
 # SoftArchive.NET - Your Privacy
 
