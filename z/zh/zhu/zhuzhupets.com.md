@@ -1,0 +1,103 @@
+> *The following text is extracted and transformed from the zhuzhupets.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621091917id_/http%3A//www.zhuniverse.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | ZHU-NIVERSE
+
+## CEPIA PRIVACY POLICY
+
+Cepia LLC ("Cepia") is committed to safeguarding your privacy on our website located at [www.zhuniverse.com](http://www.zhuniverse.com/ "www.zhuniverse.com"). This Cepia Privacy Policy does not apply to products or services provided, or information obtained, other than through the website.  Please read this policy to understand how we will treat your information.  We may change this policy from time to time so please check back often. If we significantly change our collection, use, or disclosure practices, we will try to send you a notice via e-mail if you have provided us with an e-mail address.  Please keep in mind that some of the services mentioned specifically in this policy may not be available on the site at this time.  If you have questions concerning this policy, please contact [info@cepiallc.com](mailto:info@cepiallc.com?subject=Privacy%20Policy)
+
+This Privacy Policy is effective as of October 28, 2010.
+
+## What information does Cepia collect from me?
+
+Cepia collects information in several ways. For example, we collect some personal information when you register as a user using our registration page. During registration, we ask for your name, age, gender and your e‑mail address.  If you are under the age of 18, we will also collect the name and e-mail address of your parent or guardian.  You will also have the option to add a photo to your profile page.  Your profile information will not be viewable by other users, except your parent or guardian, or the public. Once you register and set up an account, you are no longer anonymous to us and are able to take full advantage of the website and our services. In addition to registration, we may ask you for information at other times, such as when you report a problem with our site or services, or contact Cepia on the website. If you contact Cepia, we may keep a record of that correspondence.
+
+If you believe that any inaccurate or inappropriate information has been obtained or provided to others through your use of this website, you should contact a representative of Cepia at [info@cepiallc.com.](mailto:info@cepiallc.com?subject=Privacy%20Policy)
+
+## What are cookies and how does Cepia use them?
+
+As part of offering and providing customizable and personalized services, many websites use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive.  We use cookies to allow faster and easier access to your account information, monitor traffic on the site and measure traffic patterns to improve the website.  Cepia Web pages may in the future contain electronic images known as Web beacons  (sometimes called clear giffs or Web bugs) or other advanced technologies that are useful in the provision of services to you.  We may use such devices to make sure that you follow our terms and conditions of use and any rules for any promotions on the site.
+
+## How does Cepia use the information?
+
+Our main goal in collecting information is to improve the site and provide you with the best possible experience on the site. For example, by using the information we collect, we can provide you with an easy to use and readily available place to learn about the Zhu Zhu Pets family of products and where to buy them, pre-order Cepia products, learn about new products such as Zhu Zhu Babies, meet the Zhu Zhu Pets characters, view videos, track your collection, make wish lists, buy products and participate in fun online games and activities.  We will also use your personal information to notify you of other products or services available from Cepia and our affiliates. 
+
+Except as provided in this Privacy Policy, only Cepia and our affiliates and service providers and your parent or guardian will have access to your personal account information. We also may do research on our users' demographics and behavior based on the information you provide when you register, information from your activity on the site, information from our server log files or from surveys. We may compile and analyze this information on an aggregated basis, which does not include information identifying individual users.  
+
+## Who is collecting information?
+
+When you are on a Cepia site and are asked for personal information, you are sharing that information with Cepia and our affiliates and service providers. If personal data is to be collected and/or maintained by any company other than Cepia or its affiliates, we will try to notify you on the website or in an updated version of this Privacy Policy. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
+
+Other websites to which we link may collect personally identifiable information about you when you visit those sites. The information practices of other websites linked to our websites are not covered by this Privacy Policy.
+
+## With whom does Cepia share my information?
+
+We will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. These are some of the ways that your information may be disclosed:
+
+_Data in the Aggregate_ : We may disclose “blinded” aggregated data and user statistics to prospective partners and other third parties.  Blinded data is data which does not identify an individual person.
+
+_Other:_ We also may disclose your information in special cases.  For example, when we believe that we must disclose information to identify, contact or bring legal action against someone who may be violating our Terms of Use, or may be causing injury to or interference with our rights or property, other website users or customers, or anyone else that may be harmed by such activities. We may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service and improve our products and services.
+
+We occasionally hire other companies to provide limited services on our behalf, including packaging, delivering or mailing, answering customer questions about products or services, sending postal mail, providing investor information and processing data.  We will only provide those companies the information they need to deliver the service, and they are contractually prohibited from using that information for any other reason.
+
+As we continue to develop our business, we may buy or sell businesses or assets. In such transactions, confidential customer information generally is one of the transferred business assets. In the event of a transaction involving the sale of some or all of Cepia’s businesses, customer and site visitor information may be one of the transferred assets and may be disclosed in connection with negotiations relating to a proposed transaction.  In such case, the transferred information may become subject to a different privacy policy.
+
+## **How can I control my personal information?**
+
+We offer our customers choices for the collection, use and sharing of personal information.  You may contact us at [info@cepiallc.com](mailto:info@cepiallc.com?subject=Privacy%20Policy) if you wish to view, edit or delete your personal information from our database, and we will use commercially reasonable efforts to accommodate your request.  
+
+## How does Cepia protect financial-related information?
+
+Keeping your personal financial information private is very important to us. As a matter of policy and long‑time business practice, we do not sell information provided by our users.  Any user statistics that we may provide to prospective partners regarding financial matters are provided in the aggregate only and do not include any personally identifiable information about any individual user.   We will transfer your credit card number, bank account number or other personal information to the appropriate credit card company or bank in order to process any online payments.
+
+## What security precautions are in place to protect against the loss, misuse or alteration of my information?
+
+Your Cepia Profile is password-protected so only you and your parent or guardian have access to this personal information. We use encryption technology for credit card numbers, bank account numbers, passwords and registration information.  Remember to sign out of your Cepia account and close your browser window when you have finished your work. This is to ensure that others cannot access your account by using your computer when you are away from it.  Because information sent through the Internet travels from computer to computer throughout the world, when you give us information, that information may be sent electronically to servers outside of the country where you originally entered the information. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Except as specifically stated, this site does not use security encryption measures.  Information that you disclose by use of this site (as with any site that is non-secure), by posting a message or using e‑mail, potentially could be collected and used by others.  This may result in unsolicited messages from third parties or use of such information by third parties for their own purposes, legal or illegal. As a result, while we strive to protect your personal information, we cannot ensure the security of any information you transmit to us or from our services, and you do so at your own risk. Once we receive your transmission, we use commercially reasonable efforts to ensure its security on our systems.
+
+## **Choice/Opt-out**
+
+To ensure that you will not receive recurring marketing information from us unless you choose to, we will provide you with simple instructions on each newsletter and marketing email from Cepia for you to let us know that you have chosen to stop receiving such emails from us.
+
+## What else should I know about my privacy?
+
+Please keep in mind that whenever you voluntarily disclose information online, that information is accessible to other customers and users. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information.  Please be careful and responsible whenever you are online.
+
+## **Special Privacy Provisions for Children Under 18**
+
+We carefully follow the Children's Online Privacy Protection Act ("COPPA"). COPPA requires us to inform parents and legal guardians about how we collect, use, and disclose personal information that we receive from children under 13 years of age. We must obtain the consent of parents and guardians in order for children under 13 years of age to use certain website features. To protect all minor children, we voluntarily apply the same treatment to children under the age of 18.  The following is an explanation of our practices with respect to children under the age of 18 (“Children”) and our verifiable parental consent process for parents or guardians of Children (“Parents”).
+
+## **What types of personal information do we collect about Children?**
+
+Children can use publicly available portions of our website without disclosing any personal information. However, to become a Zhu Zone member, we do need to collect personal information.
+
+Unless your Parent limits your user account, we collect the same information from Children as we do other users of the site (see What information does Cepia collect from me?). This may include information such as name, age, address, phone number and e-mail.  We ask you this information to make the online community better.  We do not ask such information as a condition to your participation in any special activity or game.
+
+We may collect personal information from Parents in order to allow Children to participate in certain features located on our websites, including Zhu Zone.  In the course of a Child’s participation in these features, a Child may also provide us additional information about himself or herself, such as contents of his or her wish lists. If a Parent allows us to collect personal information about their Child, we may link certain information collected through technology (see “How does Cepia use cookies and other technology?”) to that personal information.
+
+## **How do we use and share the personally identifiable information that we have collected about Children?**
+
+If a Child registers for membership, we use the Parent's e-mail address to notify the Parent of the Child's registration request and to seek verifiable parental consent. In addition, personal information regarding a Child may be collected and used to enable a Child's participation in certain interactive features such as sending e-mail, wish lists, games and activities posting on message boards, uploading content and other similar activities.  In addition, we may share a Child's personal information with third parties to the extent reasonably necessary to: protect the security and integrity of our sites; to take precautions against liability; to respond to judicial process; or to the extent permitted under provisions of law, to provide information to law enforcement agencies or for an investigation related to public safety. Information of Children may also be used and disclosed as we discuss in "How does Cepia use the information?" and "With whom does Cepia share my information?" above.
+
+## **How does Cepia notify Parents and obtain consent from Parents for the collection of information from their Children?**
+
+All users of the website who are minors must be registered by their Parent. The Parent enters the Adult Zhu Zone on the website.  The Parent will receive an email from us and use it to connect to the Adult Zhu Zone and provide contact information for the Parent and any child the Parent wishes to register. The registration process includes age information about each child. The Parent is then asked for credit card information and a small transaction is run through Pay Pal to confirm the Parent’s identity. The charge is then promptly reversed. Once validated, the Parent may register his or her children and may designate profile settings for each child.
+
+## **How can parents access, change or delete personally identifiable information about their Children?**
+
+At any time Parents can refuse to permit us to collect further personal information from their Child and can request that any personal information we have collected be deleted from our records. We use two methods to allow Parents to access, change, or delete the personally identifiable information that we have collected from their Children. A parent can access, change, or delete his or her Child’s personal information by logging on to the Adult Zhu Zone account. Allow a reasonable period of time for any changes to take effect. Such change or deletion will not result in a corresponding change or deletion in any portion of the site made available to others.
+
+A parent can also contact our customer service department to access, change, or delete the personal information that we have collected from his or her Child by sending an e-mail to [info@cepiallc.com](mailto:info@cepiallc.com?subject=Privacy%20Policy). Please include the Child’s full name and school and the parent's e-mail address in the e-mail so that we can better assist you with your inquiry or request.
+
+## **How does Cepia notify parents if our Privacy Policy changes?**
+
+We may amend our Privacy Policy at any time, including portions applicable to Children. We will provide Parents notice by e-mail of any material changes in the way we intend to collect, use, and/or share personal information of Children. Parents should continually update their personal information to provide us current e-mail addresses. We will apply material changes in our Children' Privacy Policy only in conformance with applicable law, including any applicable provisions of COPPA that require parental consent.
+
+## **Who do users contact with questions or concerns about our Privacy Policy?**
+
+If you need further assistance, please send an e-mail with your questions or comments to [info@cepiallc.com](mailto:info@cepiallc.com?subject=Privacy%20Policy) or write us at:
+
+Cepia LLC. Corporate Office
+
+121 Hunter Ave, Suite 103
+
+Saint Louis, Missouri 63124
