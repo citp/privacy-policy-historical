@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hants.gov.uk privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203094429id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hants.gov.uk privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621064514id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -21,7 +21,7 @@ These pieces of information are used to improve services for you through, for ex
 
 
 
-You can manage these small files yourself and learn more about them through Internet browser cookies – what they are and how to manage them
+You can manage these small files yourself and learn more about them through [Internet browser cookies – what they are and how to manage them](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies)
 
 ### Our use of cookies
 
@@ -63,4 +63,4 @@ While we strive to keep the information that you supply secure, please be aware 
 
 #### Trademark and Copyright Information
 
-Hantsweb is a Registered® Trademark. Please read our Copyright Statement for more information.
+Hantsweb is a Registered® Trademark. [Please read our Copyright Statement for more information](http://www3.hants.gov.uk/copyrite.htm).
