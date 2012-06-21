@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smaato.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228084416id_/http%3A//www.smaato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smaato.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621180330id_/http%3A//www.smaato.com/privacy) for the most accurate reproduction.*
 
 # Smaato Privacy Policy
 
