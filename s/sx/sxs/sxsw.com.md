@@ -1,54 +1,89 @@
-> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509163511id_/http%3A//sxsw.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621153333id_/http%3A//sxsw.com/privacy_policy) for the most accurate reproduction.*
 
-# south by southwest festivals + conferences
+# Privacy Policy | sxsw.com
 
-SXSW, Inc. has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for all of sxsw.com, including, but not limited to the following sites:
+This privacy policy ("Privacy Policy") will tell you what information we collect about you and about your use of our Web site (“Site”). It will explain how we protect that information and what choices you have about how it is used. We urge you to read this Privacy Policy carefully so that you will understand clearly how SOUTH BY SOUTHWEST, INC or SXSW, INC ("SXSW") may collect and use information provided by you. 
 
-  * sxsw.com
-  * 2008.sxsw.com 
-  * www.sxsw.com
-  * secure.sxsw.com
-  * mgr.sxsw.com
+SXSW will inform you of the following in this privacy policy:
 
-
-
-Our site forms require users to give us contact information (like their name and email address), unique identifiers (like their user name and password), and/or financial information (like their credit card numbers). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the [opt-out](http://2008.sxsw.com/about/privacy_policy/#optout) section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (like user name and password) are collected to verify the user's identity.  
-
-
-SXSW Inc may use your contact information to communicate with you about SXSW events. We will not share your personal information, including your email address, with outside parties for commercial purposes not related to SXSW. (With the exception of our printed conference program books, where we do publish selected contact information for our conference registrants. See the [Opt Out](http://2007.sxsw.com/about/privacy_policy/#optout) section below)
-
-This site contains links to other sites. SXSW, Inc. is not responsible for the privacy practices or the content of such Web sites.
-
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our secure server uses the best encryption software in the industry - Secure Sockets Layer (SSL). While on a secure page, such as a registration form, the lock icon on the bottom of Web browsers becomes locked.
-
-**Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. E-mail [update at sxsw.com](mailto:update@sxsw.com)
-  2. Send mail to the following postal address:  
-Box 4999, Austin TX 78765
-  3. Fax request to: 512/451-0754
-  4. Phone: 512/467-7979
+  * What personally identifiable information of yours is collected;
+  * What organization is collecting the information;
+  * How the information is used;
+  * With whom the information may be shared;
+  * What choices are available regarding collection, use and distribution of the information;
+  * What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control; and,
+  * How you can correct any inaccuracies in the information.
 
 
 
-**Opt Out**  
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+Please remember that any information (including information of a financial and/or other personal nature) that you reveal in a SXSW public forum (such as a bulletin board, posting, chat room/event) is not protected by this Privacy Policy and that such postings will be seen by third parties not related to or controlled by SXSW. The information you provide in a SXSW public forum could be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes. If you access a third party site from a link on the SXSW website, any information you reveal on that site is not subject to this Privacy Policy and, SXSW is not responsible for the privacy practices or the content of those sites.
 
-  1. E-mail [ update at sxsw.com](mailto:update@sxsw.com)
-  2. Send mail to the following postal address:  
-Box 4999, Austin TX 78765
-  3. Fax request to: 512/451-0754
-  4. Phone: 512/467-7979
+## I. INFORMATION COLLECTED BY SXSW OR ON SXSW'S BEHALF
 
+**A. In General**  
+Personally identifiable information (PII or Personal Information) is information that can be used to identify or contact you. We collect the Personal Information that you provide to us in two general and distinct ways: (1) when you choose to purchase various services or products offered by SXSW and/or its affiliated business partners, or (2) when you choose to participate in surveys or send e-mails to SXSW. This Site is not intended for use by persons under thirteen (13) years of age. SXSW does not knowingly collect Personal Information from or about children under the age of thirteen (13).
 
+**B. Registration And Other Information**  
+You may view or use our Site without registering or submitting any Personal Information. In that case, the only information we collect will be non-personal information collected through the use of cookies or web beacons (see details below). However, in order to have access to certain products and services available on the Site, you are required to complete a registration form and provide other information, including Personal Information, reasonably necessary for us to provide the products and/or services for you.
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, contact:
+**C. Cookies**  
+We collect anonymous, non-confidential, and non-personal information when you use our site, send us e-mails, or respond to special promotions or newsletters that we may send to you from time to time. For example, cookies are small computer files that we transfer to your computer's hard drive that allow us to know how often someone visits a site and the activities they conduct while on that site (such as the chat rooms you visited, whether you submitted orders for services or products, etc.). Every computer is assigned a different cookie by SXSW. The information collected by cookies helps us dynamically generate advertising and content on web pages or in e-mails specifically designed for you and also allows us to statistically monitor how many people are using our site and selected affiliated business partners sites, or are opening our e-mails. We may use cookie information to target certain advertisements to your browser or to determine the popularity of certain content or advertisements. It may be possible to link non-personal cookie information to Personal Information collected. You may be able to turn off cookies in your browser, but this may hinder our ability to provide you with certain services or your ability to enjoy certain features of the Site.
 
-Webmaster  
-SXSW, Inc.   
-PO Box 4999   
-Austin, TX 78765   
-[webmaster at sxsw.com](mailto:webmaster@sxsw.com)
+**D. Web Beacons**  
+In limited circumstances we also may use "web beacons" to collect anonymous, non-personal information about your use of our Web site and the sites of selected affiliated partners, and your use of e-mails, special promotions or newsletters we may send to you from time to time. Web beacons are tiny graphic image files imbedded in a web page or e-mail that provide a presence on the web page or e-mail and send back to its home server information from the Users' browser. The information collected by web beacons allows us to statistically monitor how many people are using our site and selected affiliated business partners sites, or are opening our e-mails, and for what purposes. It may be possible to link non-personal web beacon information to Personal Information collected. 
+
+**E. E-mails and Newsletters**  
+As noted in the discussions of cookies and web beacons (see above), we collect anonymous, non-personal information about your use of e-mails and newsletters that we may send to you from time to time. In some cases, when you click on a link or an advertisement in an e-mail or newsletter, your browser may be momentarily directed to the site of a third party which, acting on SXSW's behalf (see Disclosure to Web site Service and Content Contractors, below), notes or "counts" your response to the e-mail or newsletter before re-directing your browser to its proper destination. This re-direction process will not be apparent to you. 
+
+**F. Information Collected by Third Parties Not Acting on SXSW's Behalf**  
+Sponsors, business partners or advertisers on the Site or in e-mails, special promotions or newsletters we may send to you from time to time may also use their own cookies or web beacons when you click on their advertisement or link to their site or service, or even if the advertisement simply appears on a page or in an e-mail that you are viewing. Some advertisers use companies other than SXSW to serve their ads and to monitor users' responses to ads, and these companies ("Ad Servers") may also collect non-personal information through the use of cookies or web beacons on our Web site. In certain situations, information collection may be facilitated by momentarily directing your browser to the site of an Ad Server or other third party acting on behalf of the sponsor, business partner, or advertiser before re-directing your browser to its proper destination (e.g., back to SXSW to show the ad, or to the advertiser's Web site); this re-direction process will not be apparent to you. We do not control these third parties' use of cookies or web beacons, or how they manage the non-personal information they gather through them. However, you should review the privacy policy of other sites you visit or link to from our site to understand how these other sites use cookies and how they use the information they collect through the use of cookies or web beacons on their own sites. 
+
+**G. Public Forums**  
+This Privacy Policy does not apply when you use SXSW's public forums if and when they become available. As a service to our users, SXSW may feature chat rooms and bulletin boards where users can share information and support one another or where users can post questions for other users to answer. You should be aware that any information shared in a chat room, bulletin board, or other type of posting is public information and may be seen, disclosed to or collected by third parties that do not adhere to our Privacy Policy. You should think carefully before disclosing any personal information in any public forum. 
+
+**H. E-mails to SXSW**  
+This Privacy Policy does not apply to any information, such as business information, resumes, ideas, concepts or inventions sent to SXSW by e-mail to the various SXSW's departments listed on the SXSW's Web site. If you want to keep business information, resumes, ideas, concepts or inventions private or proprietary, do not send them in an e-mail to SXSW. We try to answer every e-mail in a timely manner, but are not always able to do so.
+
+## II. DISCLOSURE OF YOUR INFORMATION
+
+**A. Generally**  
+Except as set forth in this Section II, or as specifically agreed to by you, SXSW will employ best efforts to not use or disclose any Personal Information it gathers from you unless reasonably required in order to answer your questions, provide products and/or services you may request or purchase from SXSW (such as, information we need to share with our credit card internet gateway), or to comply with governmental or internal record-keeping requirements as reasonably required. We may release Personal Information to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as a financial threat to you or others. In the event that we are legally compelled to disclose your Personal Information to a third party, we will notify you unless doing so would violate the law or court order.
+
+**B. Disclosure to SXSW's Subsidiaries/Affiliated Entities**  
+SXSW may disclose Personal Information to its corporate subsidiaries or entities affiliated with SXSW. Any Personal Information provided to SXSW's subsidiaries or entities affiliated with SXSW will be treated by those subsidiaries and affiliated entities in accordance with the terms of this Privacy Policy.
+
+**C. Disclosure to SXSW's Operations and Maintenance Contractors**  
+SXSW's operations and maintenance contractors may sometimes have limited access to your Personal Information in the course of providing products or services to SXSW. These contractors include vendors and suppliers that provide us with technology, services, and/or content related to operation and maintenance of our Web site. These contractors also may have access to your e-mail address to send newsletters or special promotions to you on our behalf or to send e-mails to you for purposes such as conducting market research on our behalf. Access to your Personal Information by these contractors is limited to the information reasonably necessary in order for the contractor to perform its limited function for SXSW. 
+
+**D. Disclosure to Web site Service and Content Contractors**  
+Certain content and products and services offered to you through our Web site are served on Web sites hosted and operated by a company other than SXSW ("Third Party Contractor Web sites"). Therefore, if you purchase services or products through one of these Third Party Contractor Web sites, you will be purchasing it from the Third Party Contractor and not from SXSW. Further, you should be aware that any information you disclose once you access these other sites is not subject to this Privacy Policy. SXSW does not endorse and is not responsible for the privacy practices of these Third Party Contractor Web sites and, therefore, you should review the privacy policy posted on the other site to understand how that Third Party Contractor Web site collects and uses your Personal Information. Also, if you have reason to believe that you may be leaving our Web site and entering a Third Party Contractor Web site, you should be cautious about providing any Personal Information until you have reviewed the privacy policy posted on the other site. 
+
+**E. Disclosure To Or By Co-branded Channel Partners**  
+SXSW is a contractor and provides co-branded products and/or services to Web sites hosted and operated by companies other than SXSW ("Channel Partner Web sites"). You can only access these co-branded content and products and/or services through the Channel Partner Web site. The co-branded SXSW pages that you may access through a Channel Partner Web site have different registration processes and opportunities for information collection, and Personal Information that you provide on these pages may be shared with the Channel Partners. Each of these co-branded SXSW sites has its own privacy policy posted on that site. Therefore, if you visit one of these co-branded SXSW sites, please read the privacy policy that is posted on that site, as well as the individual privacy policy of the Channel Partner Web site.
+
+**F. Disclosure to Linked Sites**  
+In addition to the Third Party Contractor Web sites that you may access as described above, for your convenience there are links to Web sites operated by companies other than SXSW that are not contractors who provide content, products, and/or services through our Web site ("Third Party Web sites"). These links may be found in advertisements, referenced within content, or placed beside the names or logos of sponsors or affiliated business partners of SXSW. SXSW does not disclose your Personal Information to these Third Party Web sites without obtaining your consent. SXSW does not endorse and is not responsible for the privacy practices or content of these sites. If you choose to link to one of these Third Party Web sites, you should review the privacy policy posted on this other site to understand how that Third Party Web site collects and uses your Personal Information. 
+
+**G. Disclosure of Aggregate Information**  
+SXSW may provide to third parties non-personal information about you that does not allow you to be identified or contacted and that is combined with the non-personal information of other users ("Aggregate Information"). For example, we might inform third parties regarding the number of users of our site and the activities they conduct while on our site. We might also inform a company that performs services or that provides products and/or services to SXSW (that may or may not be a SXSW business partner or an advertiser on our site) that "50% of our users live in the USA" or that "85% of our users have purchased products and/or services which can be downloaded from SXSW's Web site." Depending on the circumstances, we may or may not charge third parties for this Aggregate Information. We may not limit the third parties' use of the Aggregate Information.
+
+## III. HOW SXSW HANDLES PRIVACY AND SECURITY INTERNALLY
+
+SXSW wants your Personal Information to remain as secure and accurate as possible. We implement appropriate measures and processes to protect your Personal Information and maintain its quality, such as encryption. Although we make reasonable efforts to protect your Personal Information from loss, misuse, or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet. There is also some risk that thieves could find a way to thwart our security systems.
+
+## IV. YOUR PRIVACY CHOICES
+
+You will be given the option to opt in or sign up for recurring informational/promotional e-mails from SXSW and/or third parties. You may opt out of receiving e-mails from or on behalf of SXSW. You may opt out of receiving these e-mails and newsletters at any time. When you have received a newsletter you wish to stop, click on the "reply" button in your mail program, then type in the word "UNSUBSCRIBE" in the "Subject" field and send. SXSW's Customer Service will unsubscribe you. 
+
+You may also have the option of receiving e-mails or newsletters from third parties, participating in research or marketing surveys and participating in other activities. You may exercise these options by placing a check mark beside a statement that expresses a preference for receiving these communications or participating in these activities. You may change your decision at any time by following the directions regarding how to unsubscribe from these e-mails or newsletters.
+
+This privacy statement applies only to the Site. The SXSW Web site does contain links to other sites. Once you enter another Web site (whether through an advertisement, service, or content link), be aware that SXSW has no control over and is not responsible for the privacy practices of such other sites. We encourage you to look for and review the privacy statements of each and every Web site that you visit through a link or advertisement on SXSW's Web site  
+or any site that collects Personal Information from you. 
+
+## V. UPDATING YOUR PERSONAL INFORMATION AND CONTACTING SXSW
+
+You can always contact us in order to (1) delete your Personal Information from our systems, (2) update the Personal Information that you have provided to us, and (3) change your preferences with respect to marketing contacts or other activities, by e-mailing us at [update@sxsw.com](mailto:update@sxsw.com). Such changes will not have any effect on other information that SXSW maintains. If you have a complaint or problem you may e-mail us at [support@sxsw.com](mailto:support@sxsw.com) and the customer service department will forward your complaint to the appropriate internal SXSW department for a response or resolution. We try to answer every e-mail in a timely manner but are not always able to do so. 
+
+You should be aware that it may not be technologically possible to remove each and every record of the information you have provided to SXSW from our servers. The need to back-up our systems to protect information from inadvertent loss means that a copy of your Personal Information may exist in a non-erasable form that may be difficult or impossible for us to locate. Nevertheless, upon receiving your request, we will endeavor to delete all Personal Information stored in the databases we actively use for research and daily business activities, as well as other readily searchable media.
+
+In the future and without notice to you, we may make significant or non-significant changes to our privacy policy affecting the use of the Personal Information you provide to us or other information we have gathered. You should visit our Web site from time to time and read our Privacy Policy then in effect to familiarize yourself with the current version.
