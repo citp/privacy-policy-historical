@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the mwza.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222001900id_/http%3A//www.mwza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwza.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622002212id_/http%3A//www.mwza.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MWZA.com
-
-Browse >
-
-[Home](http://www.mwza.com/ "Browse to: Home") / Privacy Policy 
+# Privacy Policy - Black | Celebrity Gossip | Celebrity News | Celebrity Photo | Black Entertainment News | MWZA.com
 
 **Privacy Policy for www.mwza.com**
 
@@ -39,3 +35,20 @@ You should consult the respective privacy policies of these third-party ad serve
 **
 
 **If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.**
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.mwza.com%2Fprivacy-policy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.mwza.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.mwza.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.mwza.com%2Fprivacy-policy%2F&title=Privacy%20Policy&bodytext=Privacy%20Policy%20for%20www.mwza.com%0D%0A%0D%0AIf%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20mwza%40MWZA.COM.%0D%0A%0D%0AAt%20www.mwza.com%2C%20the%20privacy%20of%20our%20visitors%20is%20of%20extreme%20importance%20 "Digg")
+  * [](http://reddit.com/submit?url=http%3A%2F%2Fwww.mwza.com%2Fprivacy-policy%2F&title=Privacy%20Policy "Reddit")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.mwza.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Privacy%20Policy%20for%20www.mwza.com%0D%0A%0D%0AIf%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20mwza%40MWZA.COM.%0D%0A%0D%0AAt%20www.mwza.com%2C%20the%20privacy%20of%20our%20visitors%20is%20of%20extreme%20importance%20 "Delicious")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.mwza.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  * [](http://reporter.es.msn.com/?fn=contribute&Title=Privacy%20Policy&URL=http%3A%2F%2Fwww.mwza.com%2Fprivacy-policy%2F&cat_id=6&tag_id=31&Remark=Privacy%20Policy%20for%20www.mwza.com%0D%0A%0D%0AIf%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20mwza%40MWZA.COM.%0D%0A%0D%0AAt%20www.mwza.com%2C%20the%20privacy%20of%20our%20visitors%20is%20of%20extreme%20importance%20 "MSNReporter")
+  * [](http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fwww.mwza.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Myspace")
+  * [](http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fwww.mwza.com%2Fprivacy-policy%2F&t=Privacy%20Policy&s=Privacy%20Policy%20for%20www.mwza.com%0D%0A%0D%0AIf%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20mwza%40MWZA.COM.%0D%0A%0D%0AAt%20www.mwza.com%2C%20the%20privacy%20of%20our%20visitors%20is%20of%20extreme%20importance%20 "Tumblr")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.mwza.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Black+%7C+Celebrity+Gossip+%7C+Celebrity+News+%7C+Celebrity+Photo+%7C+Black+Entertainment+News+%7C+MWZA.com+We+run+this.&summary=Privacy%20Policy%20for%20www.mwza.com%0D%0A%0D%0AIf%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20mwza%40MWZA.COM.%0D%0A%0D%0AAt%20www.mwza.com%2C%20the%20privacy%20of%20our%20visitors%20is%20of%20extreme%20importance%20 "LinkedIn")
+  *   * [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Fwww.mwza.com%2Fprivacy-policy%2F&title=Privacy%20Policy&annotation=Privacy%20Policy%20for%20www.mwza.com%0D%0A%0D%0AIf%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20mwza%40MWZA.COM.%0D%0A%0D%0AAt%20www.mwza.com%2C%20the%20privacy%20of%20our%20visitors%20is%20of%20extreme%20importance%20 "Google Bookmarks")
+  * 
+
