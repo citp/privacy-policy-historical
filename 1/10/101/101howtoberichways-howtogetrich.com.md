@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 101howtoberichways-howtogetrich.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222155130id_/http%3A//www.101howtoberichways-howtogetrich.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101howtoberichways-howtogetrich.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621171832id_/http%3A//www.101howtoberichways-howtogetrich.com/privacy-policy) for the most accurate reproduction.*
 
 # 101 HOW TO BE RICH WAYS - Learn How To BE Rich - Privacy Policy
 
