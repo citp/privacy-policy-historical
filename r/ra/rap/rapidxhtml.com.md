@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidxhtml.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225112857id_/http%3A//www.rapidxhtml.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidxhtml.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621094642id_/http%3A//www.rapidxhtml.com/privacy.html) for the most accurate reproduction.*
 
 # PSD to HTML | PSD to XHTML | PSD to CSS | Convert PSD to HTML at RapidxHTML | Privacy Policy | Non Disclosure Agreement
 
@@ -8,4 +8,4 @@ We also respect your artwork and your business. Your copyrights will always rema
 
 We guarantees that any information shared with us will remain confidential. We also guarantee that all communications between the company and client are confidential and will remain so.
 
-[Contact us](https://web.archive.org/web/20111225112857id_/http%3A//www.rapidxhtml.com/contact.html "Contact Us") if you have any query or need more information. 
+[Contact us](https://web.archive.org/web/20120621094642id_/http%3A//www.rapidxhtml.com/contact.html "Contact Us") if you have any query or need more information. 
