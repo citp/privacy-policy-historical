@@ -1,458 +1,167 @@
-<!--The following is the downloaded HTML source of the blurbpoint.com privacy policy that was archived on 2011-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219043250id_/http%3A//www.blurbpoint.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blurbpoint.com privacy policy that was archived on 2012-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622010700id_/http%3A//www.blurbpoint.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Blurbpoint: Privacy &amp; Policy</title>
-<link rel="canonical" href="http://www.blurbpoint.com/privacy_policy.php">
 <meta name="description" content="">
 <meta name="keywords" content="">
+<link rel="canonical" href="http://www.blurbpoint.com">
+<link href="css/style.css" rel="stylesheet" type="text/css">
 
-<style type="text/css">
-.black_overlay{display:none;position:absolute;top:0%;left:0%;width:100%;height:220%;background-color:black;z-index:1001;-moz-opacity:0.8;opacity:.80;filter:alpha(opacity=80);}
-.white_content{display:none;background:none;position:fixed;top:10%;left:30%;z-index:1002;overflow:auto;}
-.black_overlay2{display:none;position:absolute;top:0%;left:0%;width:100%;height:220%;background-color:black;z-index:1001;-moz-opacity:0.8;opacity:.80;filter:alpha(opacity=80);}
-.white_content2{display:none;background:none;position:fixed;top:10%;left:30%;z-index:1002;overflow:auto;}
-.black_overlay3{display:none;position:absolute;top:0%;left:0%;width:100%;height:220%;background-color:black;z-index:1001;-moz-opacity:0.8;opacity:.80;filter:alpha(opacity=80);}
-.white_content3{display:none;background:none;position:fixed;top:10%;left:30%;z-index:1002;overflow:auto;}
-</style>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=374457402618410"></script><script language="javascript" type="text/javascript" src="js/validate.js"></script>
+<script language="javascript" type="text/javascript" src="js/ajax.js"></script>
 
-<style type="text/css">
-body{background:url(images_new/bg.jpg)repeat;background-color:#FFFFFF;font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#333333;text-decoration:none;margin:0px;padding:0px;}
-</style>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 
-<link href="css/style_test.css" rel="stylesheet" type="text/css">
-<link href="css/s3Slider.css" rel="stylesheet" type="text/css" media="screen">
-<link href="css/demonstration.css" rel="stylesheet" type="text/css" media="screen">
-<link type="text/css" href="css/basic.css" rel="stylesheet" media="screen">
 
-<style type="text/css">.style2{color:#FF0000}</style>
-
-<link rel="icon" type="image/ico" href="myfavicon.ico">
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript">
-function insertinfo(){
-	var msgError=document.getElementById("msgheder");
-	var emailID=document.getElementById("email1");
-
-	if ((emailID.value==null)||(emailID.value=="")){
-		msgError.innerHTML="Please Enter your Email ID";
-		setTimeout('clearDiv("msgheder")',2500);
-		emailID.focus();
-		return false;
-	}else if(!isValidEmail(emailID.value)){
-		msgError.innerHTML="Please Enter Valid Email ID";
-		setTimeout('clearDiv("msgheder")',2500);
-		emailID.value="";
-		emailID.focus();
-		return false;
-	}
-	var url="email.php";
-	url+="?email="+ document.getElementById("email1").value;
-	ajax(url);
-}
-
-function serverresponse(response){
-	var res=response;
-	var ind=response.indexOf("*");
-	res=response.substr(0,ind);
-	if(ind==-1){
-		document.getElementById("msg").innerHTML = response;
-		setTimeout("clearFld('msg')",2000);
-		if(document.getElementById("ajaxloader")){
-			setTimeout("clearFld('ajaxloader')",2000);
-		}
-		if(response =='Your inquiry has been sent.'){
-			document.getElementById("name").value='';
-			document.getElementById("email").value='';
-			document.getElementById("product").value=-1;
-			document.getElementById("comment").value='';
-			document.getElementById("txtNumber").value='';
-			return true;
-		}else{
-			return false;
-		}
-	}else{
-		document.getElementById("msgheder").innerHTML = res;
-		setTimeout("clearFld('msgheder')",2000);
-		document.getElementById("email1").value='';
-	}
-}
-</script>
-
-<script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/JavaScript" src="js/validate.js"></script>
-<script type="text/JavaScript" src="js/ajax.js"></script>
-<script type="text/javascript" src="js/jquery.simplemodal.js"></script>
-<script type="text/javascript" src="js/basic.js"></script>
-<script type="text/javascript" src="js/main.js"></script>
-
-<script type="text/javascript" language="javascript">
-$(document).ready(function(){
-	$('#close_message').click(function(){
-		$('#message_box').animate({ top:"+=15px",opacity:0 }, "slow");
-		document.getElementById("message_box").style.display='none';
-	});
-});
-</script>
-
-<script language="javascript" type="text/javascript">
-function getuserid(val){
-	document.getElementById('delete_order').value=val;
-}
-function init(){
-	var stretchers = document.getElementsByClassName('box');
-	var toggles = document.getElementsByClassName('tab');
-	var myAccordion = new fx.Accordion(toggles, stretchers, {opacity: false, height: true, duration: 600});
-	//hash functions
-	var found = false;
-	toggles.each(function(h3, i){
-		var div = Element.find(h3, 'nextSibling');
-		if(window.location.href.indexOf(h3.title) > 0){
-			myAccordion.showThisHideOpen(div);
-			found = true;
-		}
-	});
-	if(!found) myAccordion.showThisHideOpen(stretchers[0]);
-}
-</script>
-
+<!--slider-->
+<script type="text/javascript" src="js/packed.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<!--bacttotop-->
+<script type="text/javascript" src="js/1.7.js"></script>
 <script type="text/javascript">
-<!--
-function MM_swapImgRestore() { //v3.0
-	var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-function MM_preloadImages() { //v3.0
-	var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-	var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-	if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-function MM_findObj(n, d) {
-	var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-	d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-	if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-	for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-	if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
+    $(document).ready(function(){
+ 
+        $(window).scroll(function(){
+            if ($(this).scrollTop() > 100) {
+                $('.scrollup').fadeIn();
+            } else {
+                $('.scrollup').fadeOut();
+            }
+        });
+ 
+        $('.scrollup').click(function(){
+            $("html, body").animate({ scrollTop: 0 }, 600);
+            return false;
+        });
+ 
+    });
 </script>
-
-<script type="text/javascript">
-
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-9547099-1']);
-_gaq.push(['_trackPageview']);
-
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-
-</script>
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 </head>
-
 <body onload="if(document.form){document.form.submit();}if(document.forms.googlecheckout){document.forms.googlecheckout.submit();}">
+<!-- Facebook comment script PRADIP : 08-06-2012 -->
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=374457402618410";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- END Facebook comment script. -->
+<div id="fb-root"></div>
 
-<div id="wrapper">
-    <div class="header">
-    <!-- New Header Start-->
-        <div id="man">
-            <div class="header">
-                <div class="header-left">
-                 <div class="logo"><a href="http://www.blurbpoint.com/"><img src="images_new/logo.png" alt=""></a></div>
-                 
-                </div>
-                <div class="header-midal" style="margin:1px 0 0 10px; width:350px;">
-                                
-                				</div>
-                <div class="header-right">
-                    <div class="header-right-top" style="margin:0 0 0 0px; float:left; width:295px; height:39px;">
-                        <div style="width:40px; float:left; margin:10px 0 0 57px; height:40px;"><div class="g-plusone"></div><!--<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FSEO.BlurbpointMedia&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;"></iframe>--></div>                       <div style="width:147px; float:right; margin:2px 0 0 0px;">
-                            <!-- LiveZilla Chat Button Link Code (ALWAYS PLACE IN BODY ELEMENT) -->
-                            <div style="text-align:center;width:136px;"><a href="javascript:void(window.open('http://www.blurbpoint.net/chat/chat.php','','width=590,height=610,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))">
-                            <img src="http://www.blurbpoint.net/chat/image.php?id=01&amp;type=inlay" width="136" height="39" border="0" alt=""></a>
-                            </div>
-                            <!-- http://www.LiveZilla.net Chat Button Link Code --><!-- LiveZilla Tracking Code (ALWAYS PLACE IN BODY ELEMENT) -->
-                            <div id="livezilla_tracking" style="display:none"><script type="text/javascript" src="http://www.blurbpoint.net/chat/server.php?request=track&amp;output=jcrpt&amp;nse=0.884670613817027"></script></div>
-                            <script type="text/javascript">
-                            //<![CDATA[
-                            var script = document.createElement("script");
-                            script.type="text/javascript";
-                            var src = "http://www.blurbpoint.net/chat/server.php?request=track&output=jcrpt&nse="+Math.random();
-							script.src=src;
-                            setTimeout("document.getElementById('livezilla_tracking').appendChild(script)",1);
-                            //]]>
-                            </script>
-                            <noscript>
-                            <img src="http://www.blurbpoint.net/chat/server.php?request=track&amp;output=nojcrpt" width="0" height="0" style="visibility:hidden;" alt=""/>
-                            </noscript>
-                            <!-- http://www.LiveZilla.net Tracking Code -->
-                        </div>
-                    </div>
-                    <div class="header-right-midal">
-                        <div class="header-right-midal-1" style="margin:9px 0 0 29px;"></div>
-                        <div class="header-right-midal-2" style="font-weight:bold; font-size:18px;">516.665.1600</div>
-                        <div class="header-right-midal-3">
-                        <!-- Popup -->
-                            <a href="javascript:void(0)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','images/subject-left-h.jpg',1)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'"><div class="call_back_icon"></div></a>
-                            <div id="light" class="white_content" align="center">
-                                <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">
-                                <div class="back_close_button">.</div>
-                             <!--<img src="images/basic/x.png" alt="close" border="0" width="25" height="29" align="right"/>-->
-                                </a>
-                                <form name="callback" id="callback" action="" method="post">
-                                <input type="hidden" id="lead_from_call" name="lead_from" value="callback">
-                                <div class="call_back">
-                                    <div class="call_back_top">
-                                        <div class="call_back_top_left" align="center">.</div>
-                                        <div class="call_back_top_right">Need for Call Back ?</div>
-                                    </div>
-                                    <div class="signup_con" style="text-align:center;">
-                                        <div id="callbackmsg" align="center"></div>
-                                    </div>
-                                    <div class="call_back_midal">
-                                        <div class="call_back_midal_bg">
-                                            <div class="call_back_midal_bg_left_name"></div>
-                                            <div class="call_back_midal_bg_right">
-                                            <input name="name" id="name_call" value="Name*" onfocus="javascript: if(this.value=='Name*') {this.value='';};" onblur="javascript: if(this.value=='') { this.value='Name*';}" type="text" style="width:295px; height:28px; margin:3px 0 0 5px; border:0px; background:none;">
-                                            </div>
-                                        </div>
-                                        <div class="call_back_midal_bg">
-                                           <div class="call_back_midal_bg_left_mail"></div>
-                                            <div class="call_back_midal_bg_right">
-                                            <input name="email" id="email_call" value="E-mail*" type="text" style="width:295px; height:28px; margin:3px 0 0 5px; border:0px; background:none;" onfocus="javascript: if(this.value=='E-mail*') {this.value='';};" onblur="javascript: if(this.value=='') { this.value='E-mail*';}">
-                                            </div>
-                                        </div>
-                                        <div class="call_back_midal_bg">
-                                           <div class="call_back_midal_bg_left_no"></div> 
-                                            <div class="call_back_midal_bg_right">
-                                            <input name="phone" id="phone_call" value="Phone*" type="text" style="width:295px; height:28px; margin:3px 0 0 5px; border:0px; background:none;" onkeypress="return numbersOnly(event,this.value)" onfocus="javascript: if(this.value=='Phone*') {this.value='';};" onblur="javascript: if(this.value=='') { this.value='Phone*';}">
-                                            </div>
-                                        </div>
-                                        <div class="call_back_midal_bg">
-                                           <div class="call_back_midal_bg_left_web"></div>
-                                            <div class="call_back_midal_bg_right">
-                                            <input name="website" value="Website*" type="text" id="website_call" style="width:295px; height:28px; margin:3px 0 0 5px; border:0px; background:none;" onfocus="javascript: if(this.value=='Website*') {this.value='';};" onblur="javascript: if(this.value=='') { this.value='Website*';}">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="call_back_bottom" align="center">
-                                        <input name="submit" type="button" id="submit" style="background-image:url(images_new/call_back/call_back.gif);width:100px; height:37px; border:0px; cursor:pointer;" onclick="return callback_valid(this.form);">
-                                    </div>
-                                </div>
-                                </form>
-                            </div>
-                            <div id="fade" class="black_overlay"></div>
-                        <!--End-->
-                        </div>
-                    </div>
-                    <div class="header-right-bottom">
-                       <div class="header-right-bottom-1"><a href="" class="cart_icon_make"></a></div>
-                        <div class="header-right-bottom-2-1">
-                            <div class="header-right-text-1">SHOPPING CART</div>
-                            <div class="header-right-text-2">
-                                                                <div class="header-right-text-2" style="width:130px; margin:-2px 0 0 10px; float:left; text-align:center;">
-                                <span id="vcartqty">Currently</span><span id="vcartamt" style="width:130px;"> Empty</span>                                </div>
-                                                            </div>
-                        </div>
-                        <div class="header-right-bottom-3"></div>
-                    </div>
-                </div>
-            </div>
+<div class="right_fixbg">
+<div class="right_fixmain">
+<div class="livechat"><!-- LiveZilla Chat Button Link Code (ALWAYS PLACE IN BODY ELEMENT) --><div style="text-align:center;width:27px;"><a href="javascript:void(window.open('http://www.blurbpoint.net/chat/chat.php','','width=590,height=610,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))"><img src="http://www.blurbpoint.net/chat/image.php?id=01&amp;type=inlay" width="27" height="20" border="0" alt="LiveZilla Live Help"></a><div style="margin-top:2px;"></div></div><!-- http://www.LiveZilla.net Chat Button Link Code --><!-- LiveZilla Tracking Code (ALWAYS PLACE IN BODY ELEMENT) --><div id="livezilla_tracking" style="display:none"><script type="text/javascript" src="http://www.blurbpoint.net/chat/server.php?request=track&amp;output=jcrpt&amp;nse=0.7564205877612151"></script></div><script type="text/javascript">
+var script = document.createElement("script");script.type="text/javascript";var src = "http://www.blurbpoint.net/chat/server.php?request=track&output=jcrpt&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><noscript><img src="http://www.blurbpoint.net/chat/server.php?request=track&output=nojcrpt" width="0" height="0" style="visibility:hidden;" alt=""></noscript><!-- http://www.LiveZilla.net Tracking Code --></div>
+<div class="line"></div>
+<a href="http://www.blurbpoint.com/addtocart.php"><img src="images/cart_icon.png" width="24" height="19" alt="" style="margin:5px 0 0 3px;"></a>
+<div class="line"></div>
+<a href="free-website-report.php"><img src="images/seo_audit.png" width="29" height="103" alt="" style="margin:5px 0 0 0;"></a>
+</div>
+</div>   
+<!--header_start-->
+<div class="navigation_bg">
+<div id="navigation">
+<div class="header">
+    <div class="logo_bg">
+        <div class="logo"><a href="http://www.blurbpoint.com" style="border:none;"><img src="images/logo.png" width="219" height="82" alt="Blurbpoint Media"></a></div>
+    </div>
+	
+    <div class="right">
+    	<div class="callpart">
+        <div class="usa_icon">516.665.1600</div>
+        <div class="top_social">
+        <div class="text">Follow :</div>
+        <div class="icon">
+        <div class="top_social_icon">
+                		<a href="http://www.facebook.com/SEO.BlurbpointMedia" target="_blank" style="border:none;"><img src="images/ico-facebook.png" width="24" height="23" alt="" style="float:left; margin-right:5px;"></a>
+                		<a href="http://twitter.com/blurbpoint" target="_blank" style="border:none;"><img src="images/ico-twitter.png" width="24" height="23" alt="" style="float:left; margin-right:5px;"></a>
+                		<a href="http://www.linkedin.com/company/blurbpoint" target="_blank" style="border:none;"><img src="images/ico-linkedin.png" width="24" height="23" alt="" style="float:left; margin-right:5px;"></a>
+                    <!--<div class="facebook"><a href="#"></a></div>
+            <div class="twitter"><a href="#"></a></div>
+            <div class="in"><a href="#"></a></div>-->
         </div>
-    </div>
-    <div class="man-line"> 
-        <div class="menu">
-           <div class="menu-left"></div>
-            <div class="menu-midal-part">
-                <ul class="ul_menu_1">
-                    <li class="li_menu_1"><a href="http://www.blurbpoint.com/">Home</a></li>
-                    <li class="li_menu_1"><a href="http://www.blurbpoint.com/aboutus.php">Company</a></li>
-                    <li class="li_menu_1"><a href="http://www.blurbpoint.com/ppc-management.php">PPC</a></li>
-                    <li class="li_menu_1"><a href="http://www.blurbpoint.com/free-website-report.php">Free Website Audit</a></li>
-                     <li class="li_menu_1"><a href="http://forums.blurbpoint.com/">SEO Forum</a></li>
-                    <li class="li_menu_1"><a href="http://www.blurbpoint.com/blog/">Blog</a></li>
-                    <li class="li_menu_1"><a href="http://www.blurbpoint.com/reseller-seo-plan.php">Reseller</a></li>
-                    <li class="li_menu_1"><a href="http://www.shareasale.com/out-viewmerchant.cfm?merchantID=36460" target="_blank" rel="nofollow">Affiliate</a></li>
-                    <!--<li class="li_menu_1"><a href="http://www.blurbpoint.com/faq.php">FAQ</a></li>-->
-                    <li class="li_menu_1"><a href="http://www.blurbpoint.com/contact-us.php">Contact Us</a></li>
-                </ul>
-            </div>
-            <div class="menu-right"></div>
         </div>
-		<div class=" menu-button-image"><img src="images_new/menu-bottom.png" alt=""></div> 
+        </div>
+        </div>
 
-<div class="content-box">	
-<table width="930px" cellpadding="0" cellspacing="0" align="center" style="margin-left:0px; margin-right:20px;">
-    <tbody><tr>
-        <td valign="top">
-		  <div class="content-box-left-margin">
-    <div class="seo-searvices-bg">
-		<div class="seo-searvices-text">SEO Services</div>
-    </div>
-    <div class="seo-submission-services">
-        <div class="content-box-left-margin">
-			                <ul class="ultext-menu">
-                    <li class="litext-menu-make"><div class="div_li_text">Link Building Packages</div></li>
-                </ul>
-                <ul>
-                    <li><div class="left-menu-top">.</div>
-                    <div class="left-menu-midal">
-                        <div class="left_menu">
-                            <ul>
-                                                                    <li><a href="http://www.blurbpoint.com/link-building-services.php" style="font-size:12px;">Link Building Services</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/contextual-links.php" style="font-size:12px;">Contextual Links</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/monthly-recurring-plans.php" style="font-size:12px;">Monthly SEO Plans</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/advanced-seo-services.php" style="font-size:12px;">Advanced SEO services</a>
-                                                                        </li>
-                                                                    <li><div class="left-menu-bottom"><div class="left_menu">
-                                    <ul>                                    <li><a href="http://www.blurbpoint.com/on-page-optimization.php" style="font-size:12px;">Complete On Page Services</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/seo-booster-plan.php" style="font-size:12px;">SEO Booster Plan</a>
-                                                                        </li>
-                                                                        </ul>
-                                </div></div></li>
-                                                            </ul>
-                        </div>
-                    </div>
-                    </li>
-                </ul>
-                            <ul class="ultext-menu">
-                    <li class="litext-menu-make"><div class="div_li_text">SEO Submission Services  </div></li>
-                </ul>
-                <ul>
-                    <li><div class="left-menu-top">.</div>
-                    <div class="left-menu-midal">
-                        <div class="left_menu">
-                            <ul>
-                                                                    <li><a href="http://www.blurbpoint.com/social-bookmarking.php" style="font-size:12px;">Social Bookmarking</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/article-submission.php" style="font-size:12px;">Article Submission</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/directory-submission-service.php" style="font-size:12px;">Directory Submission Service</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/forum-link-building.php" style="font-size:12px;">Forum Link Building</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/blog-commenting-service.php" style="font-size:12px;">Blog Commenting Service</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/hire-dedicated-seo.php" style="font-size:12px;">Hire Dedicated SEO</a>
-                                                                        </li>
-                                                                    <li><div class="left-menu-bottom"><div class="left_menu">
-                                    <ul>                                    <li><a href="http://www.blurbpoint.com/special-seo-plan.php" style="font-size:12px;">Special SEO Plan</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/blog-review-service.php" style="font-size:12px;">Blog Review</a>
-                                                                        </li>
-                                                                        </ul>
-                                </div></div></li>
-                                                            </ul>
-                        </div>
-                    </div>
-                    </li>
-                </ul>
-                            <ul class="ultext-menu">
-                    <li class="litext-menu-make"><div class="div_li_text">Social Media Marketing</div></li>
-                </ul>
-                <ul>
-                    <li><div class="left-menu-top">.</div>
-                    <div class="left-menu-midal">
-                        <div class="left_menu">
-                            <ul>
-                                                                    <li><a href="http://www.blurbpoint.com/social-media-optimization.php" style="font-size:12px;">Social Media Optimization</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/premium-press-release-distribution-service.php" style="font-size:12px;">Premium PR Distribution</a>
-                                    <img src="images_new/icon-new-badge.gif" alt="">                                    </li>
-                                                                        <li><a href="http://www.blurbpoint.com/press-release-distribution.php" style="font-size:12px;">Press Release Distribution</a>
-                                                                        </li>
-                                                                    <li><div class="left-menu-bottom"><div class="left_menu">
-                                    <ul>                                    <li><a href="http://www.blurbpoint.com/linkwheel.php" style="font-size:12px;">Link Wheel</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/advance-link-wheel.php" style="font-size:12px;">Link Trundle</a>
-                                                                        </li>
-                                                                        </ul>
-                                </div></div></li>
-                                                            </ul>
-                        </div>
-                    </div>
-                    </li>
-                </ul>
-                            <ul class="ultext-menu">
-                    <li class="litext-menu-make"><div class="div_li_text">SEO Services</div></li>
-                </ul>
-                <ul>
-                    <li><div class="left-menu-top">.</div>
-                    <div class="left-menu-midal">
-                        <div class="left_menu">
-                            <ul>
-                                                                    <li><a href="http://www.blurbpoint.com/dmoz-listing.php" style="font-size:12px;">DMOZ Listing</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/page-speed.php" style="font-size:12px;">Web Page Speed</a>
-                                    <img src="images_new/icon-new-badge.gif" alt="">                                    </li>
-                                                                        <li><a href="http://www.blurbpoint.com/search-engine-submission.php" style="font-size:12px;">Search Engine Submission</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/squidoo-lens.php" style="font-size:12px;">Squidoo Lens Creation</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/wordpress-blog-setup.php" style="font-size:12px;">Wordpress Blog Setup</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/content-writing.php" style="font-size:12px;">Article / Content Writing</a>
-                                                                        </li>
-                                                                    <li><div class="left-menu-bottom"><div class="left_menu">
-                                    <ul>                                    <li><a href="http://www.blurbpoint.com/keyword-research-analysis.php" style="font-size:12px;">Keyword Research Analysis</a>
-                                                                        </li>
-                                                                        <li><a href="http://www.blurbpoint.com/rank-tracking-service.php" style="font-size:12px;">Rank Tracking Service</a>
-                                                                        </li>
-                                                                        </ul>
-                                </div></div></li>
-                                                            </ul>
-                        </div>
-                    </div>
-                    </li>
-                </ul>
-                        <div class="left-icon-bg"><a href="http://www.blurbpoint.com/SEOTOOL/" target="_blank" class="seo_tool_image"></a></div>
-            <div class="left-icon-bg"><a href="blurbpoint-google-ranking.php" class="keyword_ranking"></a></div>
-            <div class="testimonial-box"><div class="testimonial-text-h">We Accept</div></div>
-                    </div>
-    </div>
-</div>        </td>
-         <td width="15px" valign="top">&nbsp;</td>
-        <td width="650" valign="top">
-		 
-<!--<meta name="description" content="Assured refund incase the work done is 75% dissatisfactory to the client expectation.
-" />-->
-<div class="clear"><img src="images/spacer.gif" alt=""></div>
-       <div class="content-box-right">
-            <div class="banner-box">
-              <div class="banner-top">
-               	  <div class="banner-top-text"> <a href="login.php">Register</a>     |  <a href="login.php" rel="nofollow">Login</a>    </div>
-              </div></div>
-          </div>
-          <div class="login-inner-right-men">
-          <div class="login-inner-left">
-           	  <div class="login-services-handling">Privacy &amp; Policy</div>
-              <div class="login-services-sub-icon" align="right"><img src="images_new/refund_policy.png" width="72" height="71" alt=""></div>
-                <div class="login-services-sub-handling">
-                	ELSNER Technologies Pvt. Ltd (`ELSNER`) respects the privacy of every individual who visits our Web site <a href="http://www.blurbpoint.com/">www.blurbpoint.com</a>.  To better protect your privacy we have provided this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on our web site, unless otherwise posted:  </div>
-            	</div></div>
-          		<div class="login-men">
-                	 <div class="login-left">
-                          <div class="faq-left-top">
-                                <div class="faq-left-top-text">Privacy &amp; Policy</div>
-                          </div>
-                           <div class="faq-left-middel">
-                           		                                <div style="float:left; padding:7px; width:685px; font-size:14px; text-align:justify">
-                                <p>
+		<div class="nav">
+        <ul>
+                            <li>
+                    						<a href="http://www.blurbpoint.com/aboutus.php">Who we are</a>
+					
+				                    </li>
+                                <li>
+                    						<a href="#">Intelligence</a>
+					
+				                        <div class="nav_arrow"></div>
+                        <ul style="#margin:0px 0 0 -52px;">
+                                            <li><a href="http://www.blurbpoint.com/search-engine-optimization.php">Search Engine Optimization</a></li>
+                                            <li class="inline"><img src="images/dropdown_line.png" width="231" height="2" alt="" style="float:left;"></li>
+                                            <li><a href="http://www.blurbpoint.com/social-media-marketing.php">Social Media Marketing</a></li>
+                                            <li class="inline"><img src="images/dropdown_line.png" width="231" height="2" alt="" style="float:left;"></li>
+                                            <li><a href="http://www.blurbpoint.com/online-reputation-management.php">Reputation Management</a></li>
+                                            <li class="inline"><img src="images/dropdown_line.png" width="231" height="2" alt="" style="float:left;"></li>
+                                            <li><a href="http://www.blurbpoint.com/search-engine-marketing.php">Search Engine Marketing</a></li>
+                                            <img src="images/dropdown_bottom.png" width="231" height="16" alt="">
+                        </ul>
+                                    </li>
+                                <li>
+                    						<a href="http://www.blurbpoint.com/web-promotions.php">Promotions</a>
+					
+				                    </li>
+                                <li>
+                    						<a href="#">News &amp; Views</a>
+					
+				                        <div class="nav_arrow"></div>
+                        <ul style="#margin:0px 0 0 -52px;">
+                                            <li><a href="http://www.blurbpoint.com/blog/">SEO Blog</a></li>
+                                            <li class="inline"><img src="images/dropdown_line.png" width="231" height="2" alt="" style="float:left;"></li>
+                                            <li><a href="http://forums.blurbpoint.com/">SEO Forum</a></li>
+                                            <li class="inline"><img src="images/dropdown_line.png" width="231" height="2" alt="" style="float:left;"></li>
+                                            <li><a href="http://www.blurbpoint.com/testimonials.php">Client Testimonial</a></li>
+                                            <img src="images/dropdown_bottom.png" width="231" height="16" alt="">
+                        </ul>
+                                    </li>
+                                <li>
+                    						<a href="http://www.blurbpoint.com/earn-with-us.php">Earn with us</a>
+					
+				                    </li>
+                                <li>
+                    						<a href="http://www.blurbpoint.com/contact-us.php">Contact Us</a>
+					
+				                    </li>
+                            <li style="background:none;"><a href="login.php">Client Area</a></li>
+            </ul>
+		</div>
+        
+        <!-- CART INFO - START -->
+        <div class="cartbg">
+        <div class="cartpart01"><a href="" style="color:#fff;text-decoration:none;"><img src="images/cart_icon.png" width="24" height="19" alt=""></a></div>
+        <div class="cartpart02"><a href="" style="color:#fff;text-decoration:none;">Total<br><span id="vcartamt">$0</span></a></div>
+        <div class="cartpart03"><a href="" style="color:#fff;text-decoration:none;">QTY <br><span style="font-size:18px;"><span id="vcartqty"></span></span></a></div>
+        </div>
+		<!-- CART INFO - END -->
+	</div>
+</div>
+</div>
+</div>
+<!--header_close-->
 
- ELSNER has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's program requirements </a> including transparency, accountability and choice regarding the collection and use of your personal information.   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@blurbpoint.com.  If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>. The TRUSTe certification only covers information collected on <a href="http://www.blurbpoint.com/">www.blurbpoint.com</a>. 
+<div id="wrapper"> <div class="main">
+<div class="inner_banner">
+<div class="service_heading">
+<h2>
+	<img class="services_icon" src="images/services_icon_blog.png" alt="">
+	Privacy &amp; Policy</h2>
+</div>
+<p>ELSNER Technologies Pvt. Ltd (`ELSNER`) respects the privacy of every individual who visits our Web site <a href="http://www.blurbpoint.com/">www.blurbpoint.com</a>.  To better protect your privacy we have provided this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on our web site, unless otherwise posted.</p><img src="images/banner_line.png" width="978" height="18" class="banner_line" alt="">
+</div>
+<div class="inner_main">
+<div class="whoweare_leftside" style="width:680px;">
+<p>Blurbpoint: Privacy &amp; Policy<span>ELSNER has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's program requirements </a> including transparency, accountability and choice regarding the collection and use of your personal information.   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@blurbpoint.com.  If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>. The TRUSTe certification only covers information collected on <a href="http://www.blurbpoint.com/">www.blurbpoint.com</a>. 
 <br>
 <br>
 
@@ -508,17 +217,15 @@ We will send you service-related announcements on rare occasions when it is nece
 We do not share, sell, rent or trade your personal information with third parties other than as disclosed within this privacy policy.
  <br>
  <br>
- </p><div class="reseller-man" style="background:none;">
-                	<ul class="reseller-ul">
-                    	<li class="litext" style="width:610px;">We may provide your personal information to companies that provide services to help us with our business activities such as processing a payment or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.</li>
-                        <li class="litext" style="width:610px; padding:0 0 0 0px;"><ul class="reseller-ul">We may also disclose your personal information 
-                        <li class="litext" style="width:610px;">as required by law, such as to comply with a subpoena, or similar legal process .</li>
-                        <li class="litext" style="width:610px;">when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,</li>
-                        <li class="litext" style="width:610px;">to any other third party with your prior consent to do so.</li></ul>
+</span></p><ul class="reseller-ul">
+                    	<li style="width:610px;" class="litext">We may provide your personal information to companies that provide services to help us with our business activities such as processing a payment or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.</li>
+                        <li style="width:610px; padding:0 0 0 0px;" class="litext"><ul class="reseller-ul">We may also disclose your personal information 
+                        <li style="width:610px;" class="litext">as required by law, such as to comply with a subpoena, or similar legal process .</li>
+                        <li style="width:610px;" class="litext">when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,</li>
+                        <li style="width:610px;" class="litext">to any other third party with your prior consent to do so.</li></ul>
                         </li>
                     </ul>
-                 </div>
-       <br>
+<br>
         <br>
        When you place an order you will be redirected to our third party service provider`s secure encrypted site to complete the payment process.  Your name and the last four numbers of your credit card number will be shared back with us in order for us to complete the account creation process and to provide you the service in which you have purchased. Once you successfully place an order you have to fill the service detailed form.
        <br>
@@ -623,108 +330,298 @@ Shahibaugh , Ahmedabad-380004
  <br>
 Gujarat , India
  <br>
-Effective: 6/27/2011
+Effective: 6/27/2011<p></p>
+</div><!-- click & open form -->
+<script type="text/javascript" src="js/openfrom/jquery.js"></script>
+<script type="text/javascript" src="js/openfrom/jquery-cycle.js"></script>
+<script type="text/javascript" src="js/openfrom/jquery-opacity.js"></script>
+<script type="text/javascript" src="js/openfrom/jquery-ui.js"></script>
+<script type="text/javascript" src="js/openfrom/shadowbox.js"></script>
+<script type="text/javascript">
+var r = jQuery.noConflict();
+	Shadowbox.init({
+		overlayOpacity: 0.8,
+		continuous: true
+	});
 
-       
-       
-       
-       
-       
-       
-       
-<p></p>
+	r(document).ready(function () {
+	    r('.slideshow').cycle({
+	        fx: 'shuffle',
+	        timeout: 0,
+	        next: '.next01',
+	        prev: '.prev'
+	    });
+
+	    var onMouseOutOpacity = 0.5;
+	    r('.slideshow img').opacityrollover({
+	        mouseOutOpacity: onMouseOutOpacity,
+	        mouseOverOpacity: 1.0,
+	        fadeSpeed: 'fast',
+	        exemptionSelector: '.selected'
+	    });
+
+	    r('.callout-form').cycle({
+	        fx: 'shuffle',
+	        easing: 'easeOutBack',
+	        next: '.next01',
+	        prev: '.prev',
+	        timeout: 0,
+	        autostop: 1,
+			speed: 300,
+	        autostopcount: 1,
+	        before: function (currSlideElement, nextSlideElement, options, forwardFlag) {
+	            r(".next01").removeClass("next").addClass("nextStop");
+	            r(".prev").removeClass("prev").addClass("prevStop");
+	        },
+	        after: function (currSlideElement, nextSlideElement, options, forwardFlag) {
+	            r(".nextStop").removeClass("nextStop").addClass("next01");
+	            r(".prevStop").removeClass("prevStop").addClass("prev");
+	        }
+	    });
+	});
+	
+	r(function() {
+		r('div.callout').hover(function(){
+			r(this).find('img').animate({left:'-322px'},{queue:false,duration:300});
+		}, function(){
+			r(this).find('img').animate({left:'0px'},{queue:false,duration:300});
+		});
+    });
+</script>
+<!--[if lte IE 6]>
+<script type="text/javascript" src="/library/javascript/supersleight.js"></script>
+<script type="text/javascript">
+var l = jQuery.noConflict();
+    l(function() {
+
+        l('body').supersleight();
+
+    });
+
+</script>
+<![endif]-->
+
+
+<div class="whoweare_blankside">&nbsp;</div>
+<div class="whoweare_rightside">
+<!--weidget_start-->
+<form name="send_enquiry_frm" id="send_enquiry_frm" method="post" action="">
+<input type="hidden" id="lead_from" name="lead_from" value="send_enquiry_form">
+<input type="hidden" name="lead_type" id="lead_type" value="25">
+<div class="weidgetbox">
+<div class="weidget">
+<div style="position: relative; width: 292px; height: 471px; overflow: visible;" class="callout-form">
+<div style="position: absolute; top: 0px; left: 0px; display: block; z-index: 2; opacity: 1; width: 292px; height: 471px;">
+<a class="next01" href="javascript:;">
+<img src="images/weidget_whoweare.jpg" width="292" height="471" alt="">
+</a>
 </div>
-                           </div>
-                           <div class="faq-left-bottom"><img src="images_new/faq-bottom-line.gif" alt=""></div>
-                       </div></div>
-     
-    
+<div style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 1; width: 292px; height: 471px;">
+<div class="weidget_content">
+<div style="width:33px; float:right;"><a class="prev" href="javascript:;"><img src="images/close.gif" alt="Close" title="Close" border="0"></a></div>
+<div class="weidget_heading">WE ARE READY TO HELP YOU</div>
+<div class="weidget_subtext">Please fill out the form below and <br> we'll get back to you as soon as possible.</div>
+<div class="weidget_main">
+<div id="inquiry_success_msg" class="weidget_subtext_send" style="color:#FF0000;"></div>
+<div class="weidget_textbox">
+<input type="text" value="Name: *" onclick="if(this.value=='Name: *'){this.value='';this.style.color='#3E3E3E'}" onblur="if(this.value==''){this.value='Name: *'}" class="weidgetsearch" name="txtname" id="txtname" onfocus="if(this.value=='Name: *' || this.value=='Please enter name' ){this.value='';this.style.color='#3E3E3E'}" onmousemove="if(this.value=='Please enter name'){this.value=''; this.style.color='#3E3E3E'; this.focus('txtname');}">
+</div>
+<div class="weidget_blank">&nbsp;</div>
+<div class="weidget_textbox">
+<input type="text" value="Website: *" onclick="if(this.value=='Website: *'){this.value='';this.style.color='#3E3E3E'}" onblur="if(this.value==''){this.value='Website: *'}" class="weidgetsearch" name="txtwebsite" id="txtwebsite" onfocus="if(this.value=='Website: *' || this.value=='Please enter website' ){this.value='';this.style.color='#3E3E3E'}" onmousemove="if(this.value=='Please enter website'){this.value=''; this.style.color='#3E3E3E'; this.focus('txtwebsite');}">
+</div>
+<div class="weidget_blank">&nbsp;</div>
+<div class="weidget_textbox">
+<input type="text" name="txtemail" id="txtemail" value="Email: *" onclick="if(this.value=='Email: *'){this.value='';this.style.color='#3E3E3E'}" onblur="if(this.value==''){this.value='Email: *'}" class="weidgetsearch" onfocus="if(this.value=='Email: *' || this.value=='Please enter the valid Email Id' || this.value=='Please enter email'){this.value='';this.style.color='#3E3E3E'}" onmousemove="if(this.value=='Please enter the valid Email Id' || this.value=='Please enter email'){this.value=''; this.style.color='#3E3E3E'; this.focus('txtemail');}">
+</div>
+<div class="weidget_blank">&nbsp;</div>
+<div class="weidget_textbox">
+<input type="text" value="Country: *" onclick="if(this.value=='Country: *'){this.value='';this.style.border='none'}" onblur="if(this.value==''){this.value='Country: *'}" class="weidgetsearch" name="country" id="country" onfocus="if(this.value=='Country: *' || this.value=='Please enter country' ){this.value='';this.style.border='none'}" onmousemove="if(this.value=='Please enter country'){this.value=''; this.style.border='none'; this.focus('country');}">
+</div>
+<div class="weidget_blank">&nbsp;</div>
+<div class="weidget_textbox">
+<input type="text" value="Phone Number: *" onclick="if(this.value=='Phone Number: *'){this.value='';this.style.color='#3E3E3E'}" onblur="if(this.value==''){this.value='Phone Number: *'}" class="weidgetsearch" name="txtphone" id="txtphone" onfocus="if(this.value=='Phone Number: *' || this.value=='Please enter phone No.' ){this.value='';this.style.color='#3E3E3E'}" onmousemove="if(this.value=='Please enter phone No.'){this.value=''; this.style.color='#3E3E3E'; this.focus('phone');}" onkeypress="return numbersOnly(event,this.value)">
+</div>
+<div class="weidget_blank">&nbsp;</div>
+<div class="weidget_textarea"><textarea name="description" id="description" cols="1" rows="3" class="weidgetsearch01"></textarea></div>
+</div>
+<div class="weidget_heading" style="width:292px;">Sign up to get weekly SEO tips</div>
+<div class="weidget_chekboxpart">
+<div class="weidget_chekbox"><input name="" type="checkbox" value=""></div>
+<div class="weidget_chekbox_text">Yes</div>
+<div class="weidget_chekbox"><input name="" type="checkbox" value=""></div>
+<div class="weidget_chekbox_text">No</div>
+</div>
+<div class="weidget_sendbutton">
+<input type="image" name="send_enquiry" id="send_enquiry" width="173" height="41" src="images/weidget_sendbutton.png" onclick="return send_enquiry_validation(this.form);">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form>
+<!--weidget_close-->
 
-    
-  
-         </td>
-    </tr>
-</tbody></table>
-<div class="content-end-image"></div>
-    </div>
 
-
-
-    
-                
-        </div>
-    </div>
-<div id="footer_make">
-    <div class="footer-man">
-        <div class="footer-in-bg">
-            <div class="footer-in-bg-text">Achievements</div>
-            <div class="achiv">
-                <div class="achivements-image">
-                    <div class="achivements-image-in" align="center">
-                    <a href="http://goo.gl/grwQL" rel="nofollow" target="_blank" class="achivements-image-in1"><!--<img src="images_new/adwords_certified_partner_web_EN.gif" alt=""/>--></a>
-                    </div>
-                    <div class="achivements-image-in-vsign" align="center">
-                    <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign Trust Seal to promote trust online with consumers."><tbody><tr><td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.blurbpoint.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br><a href="http://www.verisign.com/verisign-trust-seal" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT TRUST ONLINE</a></td></tr></tbody></table>
-                    </div>
-                    <div class="achivements-image-in" align="center">
-                    <a href="http://www.topseos.com/rankings-of-best-link-building-companies" rel="nofollow" target="_blank" class="achivements-image-in2"><!--<img src="images_new/best_search.png" alt="" />--></a>
-                    </div>
-                    <div class="achivements-image-in" align="center" style="margin:3px 20px 0 0px;">
-                    <a href="//privacy-policy.truste.com/click-with-confidence/ctv/en/www.blurbpoint.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank" rel="nofollow"><img style="border: none" src="//privacy-policy.truste.com/certified-seal/ctv/en/www.blurbpoint.com/seal_m.png" alt="Validate TRUSTe privacy certification"></a>
-                    </div>
-                    <!--<div class="achivements-image-in" align="center"><img src="images_new/nasscom.png" alt="" /></div>-->
-                    <div class="achivements-image-in3" align="center"><!--<img src="images_new/DNV.png" alt=""/>--></div>
-                    <!--<div class="achivements-image-in" align="center"><img src="images_new/cii.gif" alt="" /></div>-->
-                </div>
-                <div class="sign-up">
-                    <div class="sign-up-left">
-                        <form name="signup" id="signup" action="" method="post">
-                            <input type="hidden" id="lead_from_new" name="lead_from" value="newsletter">
-                            <div class="sign-up-left-text">Sign up for our newsletter:</div>
-                            <!--<div id="signupmsg"></div>-->
-                            <div class="text-field"><input name="email" id="email_news" type="text" style=" background-color:#e0e0e0; border:0px; padding:0 0 0 0px; height:20px; width:200px;"></div>
-                            <input name="button" id="button" value="" type="button" class="newsletter_button" onclick="return signup_valid(this.form);">
-                        </form>
-                    </div>
-                    <div class="sign-up-right">
-                        <div style="width:210px; margin:7px 0 0 0px; padding:0 0 0 0px; float:left;">
-                        <!--<img src="http://banners.copyscape.com/images/cs-or-234x16.gif" alt="Protected by Copyscape DMCA Takedown Notice Search Tool" title="Protected by Copyscape Plagiarism Checker - Do not copy content from this page." width="234" height="16" border="0" />-->
-                        </div>
-                        <div class="sign-up-right-text" style="margin:8px 0 0 25px;">Get Social with us:</div>
-                        <a href="http://www.facebook.com/SEO.BlurbpointMedia" rel="nofollow" class="icon_facebook"></a>  
-          		        <a href="http://in.linkedin.com/in/blurbpoint" rel="nofollow" class="icon_in"></a>
-                        <a href="http://twitter.com/blurbpoint" rel="nofollow" class="icon_twitter"></a>
-                        <a href="https://plus.google.com/106388911123243293070" rel="nofollow"><img src="images_new/goole+_image.png" style="margin:5px 0 0 10px;"></a>
-                     <!--   <div class="icon"><a href="http://twitter.com/blurbpoint" rel="nofollow"><img src="images_new/twitter-icon.gif" alt="" /></a></div>
-                        <div class="icon"><a href="http://www.facebook.com/SEO.BlurbpointMedia" rel="nofollow"><img src="images_new/facebook-icon.gif" alt="" width="24" height="24" /></a></div>
-                        <div class="icon"><a href="http://in.linkedin.com/in/blurbpoint" rel="nofollow"><img src="images_new/in-icon.gif" width="24" height="24" alt="" /></a></div>-->
-                        <!--<div class="icon"><a href=""><img src="images_new/rss-icon.gif" width="24" height="24" /></a></div>-->
-                    </div>
-                    <div class="footer-sab-menu">
-                        <div class="footer-sab-menu-text">
-                        <div class="footer-sab-menu-text-left"><strong><a href="http://www.blurbpoint.com/">SEO Services :</a></strong></div>
-                        <div class="footer-sab-menu-text-right">
-                        <a href="http://www.blurbpoint.com/social-bookmarking.php">Social Bookmarking </a>| <a href="http://www.blurbpoint.com/article-submission.php">Article Submission</a>| <a href="http://www.blurbpoint.com/directory-submission.php">Directory Submission </a>| <a href="http://www.blurbpoint.com/forum-link-building.php">Forum Link Building </a> | <a href="http://www.blurbpoint.com/link-building-services.php">Link Building Service</a><br>
-                        <a href="http://www.blurbpoint.com/on-page-optimization.php">On Page SEO</a>| <a href="http://www.blurbpoint.com/contextual-links.php">Contextual Links</a>| <a href="http://www.blurbpoint.com/social-media-optimization.php">Social Media Optimization </a> | <a href="http://www.blurbpoint.com/advanced-seo-services.php">Advanced SEO</a> | <a href="http://www.blurbpoint.com/squidoo-lens.php">Squidoo Lens Creation</a>
-                        </div>
-                        <!--<div class="w3c_pass"><p>
-                        <a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
-                        </p></div>-->
-                        </div>
-                    </div>
-                    <div class="footer-menu">
-                        <div class="footer-menu-text" style="width:1033px;">
-                        <a href="http://www.blurbpoint.com/">HOME</a>     |    <a href="http://www.blurbpoint.com/aboutus.php">COMPANY</a>   |     <a href="http://www.blurbpoint.com/blog/">BLOG</a>|     <a href="http://forums.blurbpoint.com/">SEO FORUM</a>    |    <a href="http://www.blurbpoint.com/reseller-seo-plan.php">RESELLER</a> |    <a href="http://www.blurbpoint.com/faq.php">FAQ</a>  <!-- |    <a href="http://www.blurbpoint.com/affiliate/">AFFILIATE</a> -->  |   <a href="http://www.blurbpoint.com/refund_policy.php">REFUND POLICY</a>    |    <a href="http://www.blurbpoint.com/contact-us.php">CONTACT US</a> | <a href="http://www.blurbpoint.com/seo/">SEO ARTICLES</a> | <a href="http://www.blurbpoint.com/seo-services.php">SEO SERVICES</a> | <a href="http://www.blurbpoint.com/seo-firm.php">SEO FIRM</a> | <a href="http://www.blurbpoint.com/privacy_policy.php">PRIVACY &amp; POLICY</a><br>
-                        <span style="font-family:'Trebuchet MS'; font-size:12px;">2008-2011 Copyright BlurbPoint.com <sup>TM</sup> All Rights Reserved.</span>
-                        </div>
-                    </div>
-                    <div style="float:left; margin:0 0 0 215px; padding:0 0 0 0px; font-size:9px; font-family:'Trebuchet MS'; color:#ACACAC;">
-                    * Blurbpoint is sincerely not affiliated nor a business partner with either of the Search Engines like Google, Yahoo, Bing, etc.
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<!--achivment_start-->
+<div class="whowe_achivment">
+<div class="whowe_achivment_topbg">
+<div class="text">Our Achievements</div>
+</div>
+<div class="whowe_achivment_retetbg">
+<div class="img"><a href="http://goo.gl/grwQL"><img width="90" height="90" alt="" src="images/achivements_01.png"></a></div>
+</div>
+<div class="whowe_achivment_bottombg"></div>
+</div>
+<!--achivment_close-->
+<div class="kwrank_button"><a href="#"><img src="images/kwrank_button.png" width="287" height="74" alt=""></a></div>
+<div class="whowe_case_study"><a href="#"><img width="287" height="96" alt="" src="images/case_study.png"></a></div>
+<div class="whowe_nextmain">
+<div class="whowe_next_topbg"></div>
+<div class="whowe_next_repetbg">
+<div class="whowe_next">Next Webinar</div>
+<div class="whowe_next_text">At Blurbpoint Media, we are <br>driven by the motto At
+<p>Blurbpoint Media, we are <br>driven by the motto<br><span><a href="#">Learn more</a></span></p></div>
+<div class="whowe_nextimg"></div>
+</div>
+<div class="whowe_next_bottombg"></div>
+</div>
+<div class="whowe_eventsmain">
+<div class="whowe_events_topbg"></div>
+<div class="whowe_events_repetbg">
+<div class="whowe_events"> EVENTS</div>
+<div class="whowe_events_text">
+<ul>
+<li>At Blurbpoint Media, we are driven by the motto </li>
+<li>At Blurbpoint Media, we are driven by the motto </li>
+</ul>
+</div>
+</div>
+<div class="whowe_events_bottombg"></div>
+</div>
+<div class="whowe_postmain">
+<div class="whowe_post_topbg"></div>
+<div class="whowe_post_repetbg">
+<div class="whowe_post">blog post<p>What we think</p></div>
+<div class="whowe_post_text">
+<ul>
+<li>Find (Almost) Anybody's Email Address </li>
+<li>Find (Almost) Anybody's Email Address Find (Almost) Anybody's</li>
+<li>Find (Almost) Anybody's Email Address </li>
+</ul>
+</div>
+<div class="whowe_toppost"><a href="#">Top Posts <img src="images/whowe_post_arrow.png" width="7" height="13" alt="" class="whowe_post_arrow"></a></div>
+</div>
+<div class="whowe_post_bottombg"></div>
 </div>
 
-</body></html>
+</div></div><!-- inner_main over -->
+
+</div><!-- main over -->
+</div><!-- wrapper over -->
+<!--footer_start-->
+<div class="footer">
+<div id="footer">
+<div class="footer_main">
+<div class="part01">
+<div class="footer_nav">
+<ul>
+<li><a href="#">&nbsp;</a></li>
+<li><a href="http://www.blurbpoint.com/">Home</a></li>
+<li class="normal"><a href="aboutus.php">Who We Are</a></li>
+<li class="normal"><a href="http://www.blurbpoint.com/blog/category/events/">Events</a></li>
+<li class="normal"><a href="testimonials.php">Our Clients love</a></li>
+<li><a href="#">&nbsp;</a></li>
+<li><a href="#">Earn With Us</a></li>
+<li class="normal"><a href="seo-affiliate.php">Affiliate</a></li>
+<li class="normal"><a href="seo-reseller.php">Reseller</a></li>
+<li><a href="#">&nbsp;</a></li>
+<li><a href="#">News &amp; Views</a></li>
+<li class="normal"><a href="http://www.blurbpoint.com/blog/google/">SEO Pressroom</a></li>
+<li class="normal"><a href="http://www.blurbpoint.com/blog/category/webinars/">Webinars</a></li>
+<li class="normal"><a href="http://www.blurbpoint.com/blog/">Learn Internet Marketing</a></li>
+<li class="normal"><a href="http://forums.blurbpoint.com/">Discuss Internet Marketing</a></li>
+<li><a href="#">&nbsp;</a></li>
+</ul>
+</div>
+</div>
+<div class="part03">
+<div class="footer_nav02" style="margin-left:95px;">
+<ul>
+<li style="margin-top:20px;"><a href="#">Our Intelligence</a></li>
+<li class="normal"><a href="search-engine-optimization.php">Search Engine Optimization</a></li>
+<li class="normal"><a href="social-media-marketing.php">Social Media Marketing</a></li>
+<li class="normal"><a href="search-engine-marketing.php">Search Engine Marketing</a></li>
+<li class="normal"><a href="online-reputation-management">Reputation Management</a></li>
+
+
+<li style="margin-top:20px;"><a href="#">Web Analytics</a></li>
+<li class="normal"><a href="free-website-report.php">Free Competitive Analysis</a></li>
+<li class="normal"><a href="free-website-report.php">Free Website Analysis </a></li>
+<li class="normal"><a href="free-website-report.php">Free Social Analysis</a></li>
+<li class="normal"><a href="free-website-report.php">Free Brand Analysis</a></li>
+<li class="normal"><a href="keyword-research-analysis.php">Keyword Research Analysis</a></li>
+<!--<li class="normal"><a href="http://www.blurbpoint.com/SEOTOOL/">Free SEO Tools</a></li>-->
+</ul>
+</div>
+</div>
+<div class="part02">
+<div class="footer_nav01" style="margin-left:183px;">
+<ul>
+<li style="margin-top:20px;"><a href="web-promotions.php">Web Promotions</a></li>
+<li class="normal"><a href="web-promotions.php">Instant Promotions</a></li>
+<li class="normal"><a href="web-promotions.php">Startup Business Promotions</a></li>
+<li class="normal"><a href="web-promotions.php">Enterprise Business Promotions</a></li>
+<li><a href="#">&nbsp;</a></li><li><a href="#">&nbsp;</a></li>
+<li><a href="#">&nbsp;</a></li>
+<li><a href="contact-us.php">Ask a query</a></li>
+<li><a href="http://www.blurbpoint.com/privacy_policy.php">Privacy Policy</a></li>
+<li><a href="http://www.blurbpoint.com/refund_policy.php">Refund Policy</a></li>
+
+
+<li><a href="#">&nbsp;</a></li>
+</ul>
+</div>
+</div>
+
+<div class="part02">
+<div class="footer_nav01">
+<ul>
+<li><a href="#">&nbsp;</a></li>
+</ul>
+</div>
+</div>
+<div class="part04">
+<div class="footer_logo"><img src="images/footer_logo.png" width="174" height="65" alt=""></div>
+<div class="footer_line"></div>
+<div class="footer_social">
+<div class="text">Get Social with us:</div>
+
+<div class="icon">
+<div><a href="http://www.facebook.com/SEO.BlurbpointMedia" target="_blank" style="border:none;"><img src="images/ico-facebook.png" width="24" height="23" alt="" style="float:left; margin-right:5px;"></a></div>
+<div><a href="http://twitter.com/blurbpoint" target="_blank" style="border:none;"><img src="images/ico-twitter.png" width="24" height="23" alt="" style="float:left; margin-right:5px;"></a></div>
+<div><a href="http://www.linkedin.com/company/blurbpoint" target="_blank" style="border:none;"><img src="images/ico-linkedin.png" width="24" height="23" alt="" style="float:left; margin-right:5px;"></a></div>
+</div>
+</div>
+<div class="footer_line01"></div>
+<div class="addresh">ELSNER Technologies Pvt. Ltd.<p>T-6/7/9, Shubh Complex,Shahibaug, Ahmedabad. India.</p>
+</div>
+<div class="footer_line"></div>
+<div class="addresh">Quick Contact</div>
+<div class="footer_country"><img src="images/footer_country01.jpg" width="22" height="16" alt=""></div>
+<div class="footer_country_text">516-665-1600</div>
+<div class="footer_country"><img src="images/footer_country01.jpg" width="22" height="16" alt=""></div>
+<div class="footer_country_text">201-203-4788</div>
+<div class="footer_country"><img src="images/footer_country03.jpg" width="22" height="16" alt=""></div>
+<div class="footer_country_text">028-003-4010</div>
+<div class="footer_country"><img src="images/footer_country04.jpg" width="22" height="16" alt=""></div>
+<div class="footer_country_text">208-144-4885</div>
+</div>
+</div>
+</div>
+</div>
+<!--footer_sclose-->
+<a class="scrollup" href="#" style="display: inline; border:none;">Scroll</a>
+
+<div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><div id="sb-counter"></div><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div></body></html>
