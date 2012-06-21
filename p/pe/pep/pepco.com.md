@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepco.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222035251id_/http%3A//www.pepco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepco.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621120407id_/http%3A//www.pepco.com/privacy) for the most accurate reproduction.*
 
 # Pepco - Privacy Policy
 
