@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the internetretailing.net privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222151608id_/http%3A//www.internetretailing.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetretailing.net privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621120155id_/http%3A//www.internetretailing.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Internet Retailing » Privacy Policy
 
-[Home](http://www.internetretailing.net/) » Privacy Policy
+[Home](http://internetretailing.net/) » Privacy Policy
 
 ## Privacy Policy
 
- **1\. Introduction**  
+**1\. Introduction**  
 1.1 We are committed to respecting and protecting your privacy. This policy sets out our approach. “We” in this context are St John Patrick Publishers Limited. We are the Publishers of Internet Retailing and act as the administrators of the policy. In the policy we’re referred to as “The Administrator”.  
 1.2 We are committed to protecting the privacy of visitors to the web site in accordance with the Data Protection Act 1998 (the “Act”).  
 1.3 This privacy policy explains how we may collect personal data and how we use the information we may collect about you.  
