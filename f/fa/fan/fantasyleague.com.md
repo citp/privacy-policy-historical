@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantasyleague.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213045345id_/http%3A//www.fantasyleague.com/Content/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyleague.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621130018id_/http%3A//www.fantasyleague.com/Content/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Fantasy League
+# Fantasy League - Privacy Policy - Fantasy League
 
 This document refers to privacy and personal information relating to www.fantasyleague.com and associated properties and services. At Fantasy League we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.
 
