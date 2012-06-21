@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3bear.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154933id_/http%3A//mp3bear.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3bear.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621102034id_/http%3A//mp3bear.com/page/privacy.html) for the most accurate reproduction.*
 
 # Mp3Bear.com - Privacy Policy
 
@@ -13,7 +13,7 @@ By using our web site, you consent to the collection and use of your personal in
 Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc). 
 
 **Third Party Advertising**  
-Some third-party advertising companies to serve ads when you visit Mp3Bear.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies go to http://www.networkadvertising.org 
 
 **Cookies**  
 Some ads displayed may come from our servers. Ads loading from our servers may also contain cookies, the purpose of these cookies is just to introduce and select the proper advertisements to be shown for your interests. We only have access to information of visiting frequencies of our visitors from cookies you might receive while viewing ads from our servers. 
