@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetelegraphandargus.co.uk privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121121559id_/http%3A//www.thetelegraphandargus.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetelegraphandargus.co.uk privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621091651id_/http%3A//www.thetelegraphandargus.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,6 +44,8 @@ In addition to personal information we obtain, including your name, postal and e
 
 A "cookie" is a piece of software which can stick to a computer's hard drive and recalls details about how your computer operates. We reserve the right to use this information to track your movements through our website. Personal information about you is not collected during this process. You can disable the cookies if your browser allows this. For further information on how to do this, please refer to [www.aboutcookies.org](http://www.allaboutcookies.org/). However, you might not be able to use some of our on-line services if you follow this. We have no control over any cookies sent by third party websites.
 
+[How to control and delete cookies on Newsquest websites.](https://web.archive.org/my/account/cookiespolicy/)
+
 #### Third party advertising companies
 
 Newsquest uses third-party advertising companies such as Google to serve ads when you visit our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
@@ -54,7 +56,7 @@ Your personal information, including contact information such as postal and emai
 
 #### Disclosure of personal information to third parties
 
-Your personal information will be disclosed where we are obliged or permitted to do so by law, or in the circumstances described in paragraph 15 of the Terms. We may disclose non-personally identifiable data to commercial advertisers on our websites or any other of our commercial clients to help them understand and meet potential customer preferences and needs. We may disclose your personal information to selected third parties who may then send information to you about goods and services. You can indicate you do not wish to receive such material by contacting us [here](https://web.archive.org/my/contact-us).
+Your personal information will be disclosed where we are obliged or permitted to do so by law, or in the circumstances described in paragraph 15 of the Terms. We may disclose non-personally identifiable data to commercial advertisers on our websites or any other of our commercial clients to help them understand and meet potential customer preferences and needs. We may disclose your personal information to selected third parties who may then send information to you about goods and services. You can indicate you do not wish to receive such material by contacting us [here](http://www.thetelegraphandargus.co.uk/contactus/aboutcontact/).
 
 #### Retention of personal information
 
