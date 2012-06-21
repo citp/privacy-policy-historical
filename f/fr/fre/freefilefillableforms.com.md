@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the freefilefillableforms.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228191842id_/http%3A//www.irs.gov/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefilefillableforms.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621115457id_/http%3A//www.irs.gov/privacy/index.html) for the most accurate reproduction.*
 
 # IRS Privacy Policy
 
 [Para ver esta página en español haga clic aquí](https://web.archive.org/espanol/article/0,,id=154309,00.html).
 
-**IRS Office of Privacy**  
-**IRS Privacy Policy**  
-**Your Privacy Rights**  
-**[Access to Privacy Impact Assessments](https://web.archive.org/privacy/article/0,,id=225712,00.html)  
+**IRS Privacy Policy  
+****Your Privacy Right** **s  
+IRS Office of Privacy  
+[Access to Privacy Impact Assessments](https://web.archive.org/privacy/article/0,,id=225712,00.html)  
 [Statistical Information](https://web.archive.org/privacy/article/0,,id=225714,00.html)  
 [Security](https://web.archive.org/privacy/article/0,,id=225716,00.html)  
 [If You Send Us Information Online  
@@ -31,7 +31,7 @@ The IRS is committed to protecting the privacy rights of America's taxpayers. Th
 
 * * *
 
-**IRS Office of Privacy**
+### IRS Office of Privacy
 
 The Internal Revenue Service's Privacy Office ensures that your personal information is protected whenever you visit the IRS website. If you have any questions or comments regarding the IRS's website privacy policy, please contact us at the address below.
 
@@ -47,7 +47,4 @@ BEFORE YOU WRITE, note that we cannot assist you with any type of tax matter. Ou
 
 _**PLEASE NOTE:**_ Do not respond to unsolicited e-mails that claim to come from the IRS, or any e-mail from an unknown party asking you to submit personal, tax, or financial data. The IRS does not use email to request this type of information. [Forward](https://web.archive.org/privacy/article/0,,id=179820,00.html) suspicious e-mails to: [phishing@irs.gov](mailto:phishing@irs.gov) .
 
-For more information contact the Treasury Inspector General for Tax Administration (TIGTA) at 800-366-4484 or visit the [TIGTA website](http://www.treas.gov/tigta).  
-**  
-**  
-
+For more information contact the Treasury Inspector General for Tax Administration (TIGTA) at 800-366-4484 or visit the [TIGTA website](http://www.treas.gov/tigta).
