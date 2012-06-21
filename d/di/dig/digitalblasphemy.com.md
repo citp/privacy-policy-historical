@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the digitalblasphemy.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204203452id_/http%3A//digitalblasphemy.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalblasphemy.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621202901id_/http%3A//digitalblasphemy.com/privacy.shtml) for the most accurate reproduction.*
 
 # 
-
-| 
 
 ## Your privacy and peace of mind is important to me!
 
@@ -47,7 +45,7 @@ They are:
 
 **If any of the above information is unclear, don't hesitate to write me for a clarification. Basically it all boils down to this: your privacy and peace of mind are of the utmost importance to me. I will never do anything to jeopardize your trust in me (Ryan Bliss) or my site (Digital Blasphemy)**
 
-This document was last updated on Thursday, 04-Nov-2010 09:52:29 CDT 
+This document was last updated on Sunday, 26-Feb-2012 09:31:29 CST 
 
 
 
