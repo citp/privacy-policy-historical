@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zwunzi.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208232324id_/http%3A//zwunzi.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zwunzi.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622013544id_/http%3A//www.zwunzi.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
 
 # Zwunzi - Privacy Policy
 
