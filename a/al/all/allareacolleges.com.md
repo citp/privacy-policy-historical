@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allareacolleges.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231021340id_/http%3A//www.allareacolleges.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allareacolleges.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621044623id_/http%3A//allareacolleges.com/privacy.asp) for the most accurate reproduction.*
 
 # AllAreaColleges.com
 
@@ -75,8 +75,8 @@ Your privacy is important to Dual City Media. If you have questions about any of
 **Alternatively, you may contact us at:**
 
 _Dual City Media.com, LLC    
-__3109 West 50th Street, Suite 138_ _   
-Minneapolis, MN 55410_   
+__5115 Excelsior Boulevard, Suite 217_ _   
+St Louis Park, MN 55416_   
 
 
 _Tel: 888-940-4666_    
