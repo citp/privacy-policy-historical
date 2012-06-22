@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the sweetiessweeps.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207181924id_/http%3A//sweetiessweeps.com/about/privacy-policy-and-disclosure-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetiessweeps.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622102648id_/http%3A//sweetiessweeps.com/about/privacy-policy-and-disclosure-statement) for the most accurate reproduction.*
 
-# Privacy Policy | Sweeties Sweeps
+# Privacy Policy | Sweeties Sweepstakes
 
 You are here: [Home](http://sweetiessweeps.com/) / [About](http://sweetiessweeps.com/about) / Privacy Policy
 
  **Privacy Policy**  
-These policies are valid from June 24, 2008 and were updated November 17, 2010.  
+These policies are valid from June 24, 2008 and were updated June 1, 2012.
 
-
-**Commitment to Online Security**
+ **Commitment to Online Security**
 
 Personal information submitted to Sweeties Sweeps is only accessible only the owner of this site.
 
@@ -22,9 +21,9 @@ Sweeties Sweeps will not use your personal information for any purpose other tha
 
 Sweeties Sweeps will never sell, rent or share your personal information with third-parties.
 
-This blog is hosted by Blogger, a service of Google, and if you have any questions about the privacy of information you submit to Google you need to read [Google’s Privacy Policy](http://www.google.com/privacy.html).
+This blog is hosted by [Host Gator](http://www.hostgator.com/) on a dedicated server.
 
-In general, you are responsible for the information you submit in the form of a comment on a post on this blog. Your comments can be read by anyone and your profile can be viewed by anyone. You are allowed to post as an Anonymous reader as a way to help protect your privacy. This blog uses Google Docs forms for some of it’s giveaways in order to collect information from readers.
+In general, you are responsible for the information you submit in the form of a comment on a post on this blog. Your comments can be read by anyone and your profile can be viewed by anyone. You are allowed to post as an Anonymous reader as a way to help protect your privacy.
 
  **Materials Submitted to** Sweeties Sweeps  
 All photos, written correspondence and any other materials submitted to Sweeties Sweeps become the sole and exclusive property of Sweeties Sweeps and cannot be returned at any time. By submitting Materials, you agree that Sweeties Sweeps may, but is not obligated to, use the Materials in connection with the site, in any way, in any medium, worldwide, in perpetuity. Further, you warrant all Materials are 100% original and do not violate the right of privacy or publicity of, or constitute a defamation against, any person or entity; that the Materials will not infringe upon or violate the copyright or common law rights or any other rights of any person or entity; that there are and will be no encumbrances, liens, conditions or restrictions whatsoever upon or affecting such Materials; and that you and the person depicted in the Materials are at least 18 years of age or you are a parent or guardian granting permission for use. You agree to indemnify Sweeties Sweeps for all damages and expenses (including reasonable attorney’s fees) arising out of any breach or failure of the warranties made herein.
@@ -35,21 +34,19 @@ If your personal information changes please submit the changes to Sweeties Sweep
  **Computer Tracking and Cookies**  
 Our site is not set up to track, collect or distribute personal information not entered by visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff to provide better services to the public but again, the statistics contain no personal information and cannot be used to gather such information. Our website also recognizes the online site where a visitor clicked one of our banners or buttons to follow through and visit our site, but we cannot identify the visitor or the visitor’s address. Site information is used to confirm promotion of Sweeties Sweeps giveaways, newsletter, or other projects, and may be used to advise participants of the numbers of visitors who come to our site from their sites. No personal information is collected.
 
-Third Party Ads  
-Sweeties Sweeps use third-party advertising companies to serve ads when you visit this site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+ **Third Party Ads**  
+Sweeties Sweeps use third-party advertising companies to serve ads when you visit this site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [here](http://www.google.com/privacy_ads.html) or [here](http://www.networkadvertising.org/managing/opt_out.asp)
 
-If you click on something that appears to be a sweepstakes and you plan on entering it look for official rules. Click on the rules and look for “no purchase necessary” and then look to see if the rules state that they will keep your information private or if by entering you are giving them permission to share your information with “third party companies and/or affiliates”.
+Sweeties Sweeps cannot be responsible for content provided in these ads and what you, as the visitors of Sweeties Sweeps, does once you leave SweetiesSweeps.com. Please protect yourself by being an informed consumer and read the information presented to you carefully.
 
-Sweeties Sweeps cannot be responsible for content provided in these ads and what you, as the visitors of Sweeties Sweeps, does once you leave SweetiesSweeps.com. Please protect yourself by being an informed consumer and read the information presented to you.
+ **Disclaimer Policy**  
+This blog contains links to other websites and blogs. All external links contain content which is not endorsed or controlled by this blog. All information that you submit on other websites is done so at your own risk. If you are concerned about the sites you visit from this please read the “Privacy Policy” of each website or blog you visit.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
-
-Disclaimer Policy  
-This blog contains links to other websites and blogs. All external links contain content which is not endorsed or controlled by this blog. All information that you submit on other websites is done so at your own risk. If you are concerned about the sites you visit from this please read the “Privacy Policy” of each website or blog you visit. Your feedback and assistance is welcome in updating the information on this site if you find updates or errors.
-
-Disclosure Policy  
-This blog is a personal blog written and edited by me. I may accept forms of cash advertising, sponsorship, paid insertions or other forms of compensation from time to time. That content, advertising space or post may not always be identified as paid or sponsored content.
+ **Disclosure Policy**  
+Sweeties Sweeps may accept forms of cash advertising, sponsorship, paid insertions, affiliate advertising, or other forms of compensation from time to time. That content, advertising space or post may not always be identified as paid or sponsored content.
 
 As the owner of this blog I may be compensated from time to time to provide opinions on products, services, websites and various other topics. Even though I may receive compensations for posts or advertisements, I always give my honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely my own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question directly.
+
+Your feedback and assistance is welcome in updating the information on this site if you find updates or errors.
 
 To get your own policy, go to [www.disclosurepolicy.org](http://www.disclosurepolicy.org/)
