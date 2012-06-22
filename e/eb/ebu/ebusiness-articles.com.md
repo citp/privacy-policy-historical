@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebusiness-articles.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221173659id_/http%3A//www.ebusiness-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebusiness-articles.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623005945id_/http%3A//www.ebusiness-articles.com/privacy.php) for the most accurate reproduction.*
 
 # eBusiness Articles Directory | Privacy Statement
 
