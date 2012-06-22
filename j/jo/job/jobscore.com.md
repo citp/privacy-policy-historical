@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscore.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213222717id_/http%3A//www.jobscore.com/site/about_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscore.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622212858id_/http%3A//www.jobscore.com/site/about_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | JobScore
 
@@ -59,9 +59,17 @@ JobScore sets a persistent cookie to store your username, so you don't have to e
 
 If your browser is set to reject all cookies, the website will not function properly. 
 
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
+
 **Clear Gifs (Web Beacons/Web Bugs)**
 
 JobScore and its third party advertising partner(s) employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help JobScore better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. JobScore does not tie the information gathered by clear gifs to our customers' personally identifiable information. 
+
+**Flash LSOs**
+
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118
 
 **Legal Disclaimer**
 
@@ -84,6 +92,8 @@ An Employer may opt-out of receiving communications and using the Services by se
 **Correct/Update**
 
 You may change or modify certain personal user and enrollment information by login into your user accounts and modifying the applicable information. JobScore will update the information, as applicable, in accordance with JobScore’s standard update schedules. Please be aware that if your information has already been shared with an Employer in accordance with this Privacy Policy, the changed information will not be shared with such Employer. 
+
+We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Security**
 
