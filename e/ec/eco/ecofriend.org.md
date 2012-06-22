@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecofriend.org privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223045453id_/http%3A//www.ecofriend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecofriend.org privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622045827id_/http%3A//www.ecofriend.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Ecofriend : Ecofriend - Promoting eco friendly lifestyle to save the environment
 
@@ -108,4 +108,4 @@ We reserve the right to transfer any and all PII that we collect from users of t
 
 h. Contacting Us.
 
-If you have any questions regarding this Policy, please contact us either by e-mail at contact[at]Instamedia.com, or by regular mail at Citizen Media Pvt. Ltd, STPI, Block No. 24, SDA Complex, Kasumpti, Shimla- 171009, H.P., India . Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us.
+If you have any questions regarding this Policy, please contact us either by e-mail at contact[at]Instamedia.com, or by regular mail at Citizen Media Limited, STPI, Block No. 24, SDA Complex, Kasumpti, Shimla- 171009, H.P., India . Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us.
