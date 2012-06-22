@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the microcenter.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225181646id_/http%3A//www.microcenter.com/customer_support/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microcenter.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622103308id_/http%3A//www.microcenter.com/customer_support/privacy_policy.html) for the most accurate reproduction.*
 
 # Micro Center Privacy Policy
 
-This page discloses the privacy policy of Micro Electronics, Inc., Micro Center® and Micro Center Online®. We are concerned about your privacy and the security of your important personal information. We want you to be aware of what kind of information we obtain from you, how we use this information, and how you can control its use. By using this site or making purchases at our stores, you consent to this Privacy Policy. You should also review our [Safe Shopping Promise](https://web.archive.org/web/20111225181646id_/http%3A//www.microcenter.com/customer_support/safe_shopping.html) for online purchases. 
+This page discloses the privacy policy of Micro Electronics, Inc., Micro Center® and Micro Center Online®. We are concerned about your privacy and the security of your important personal information. We want you to be aware of what kind of information we obtain from you, how we use this information, and how you can control its use. By using this site or making purchases at our stores, you consent to this Privacy Policy. You should also review our [Safe Shopping Promise](https://web.archive.org/web/20120622103308id_/http%3A//www.microcenter.com/customer_support/safe_shopping.html) for online purchases. 
 
 Micro Electronics, Inc. operates retail stores and web sites under the names of Micro Center® and Micro Center Online®. Micro Electronics, Inc. is the parent company of these companies, and as such, when you provide information to any of these entities, this information may be combined or shared between current or future Micro Electronics, Inc. entities and subsidiaries. 
 
@@ -83,13 +83,13 @@ Micro Electronics, Inc. and Micro Center Online® are concerned about your priva
 
 When we transfer and receive certain types of sensitive information, such as financial information, you will be redirected to a secure server and we will notify you, depending on the type of browser you are using, through a pop-up screen or a yellow "padlock" icon displayed in the lower portion of the browser window. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you via this site.
 
-For complete details, please see our [Safe Shopping Promise](https://web.archive.org/web/20111225181646id_/http%3A//www.microcenter.com/customer_support/safe_shopping.html).
+For complete details, please see our [Safe Shopping Promise](https://web.archive.org/web/20120622103308id_/http%3A//www.microcenter.com/customer_support/safe_shopping.html).
 
 How do we handle information related to children?  
 This site is not intended or designed to attract children under the age of 13. We do not knowingly or intentionally obtain any personally identifiable information from any person we know to be under the age of 13.
 
 How can you contact us with questions regarding this Privacy Policy?  
-If you have questions or concerns about our Privacy Policy, you may contact us by writing to: Micro Center Online at 4119 Leap Road, Hilliard, Ohio 43026 or [calling Customer Support](https://web.archive.org/web/20111225181646id_/http%3A//www.microcenter.com/customer_support/contact_us.html). Please remember to include your postal address, email address and phone number with your correspondence.
+If you have questions or concerns about our Privacy Policy, you may contact us by writing to: Micro Center Online at 4119 Leap Road, Hilliard, Ohio 43026 or [calling Customer Support](https://web.archive.org/web/20120622103308id_/http%3A//www.microcenter.com/customer_support/contact_us.html). Please remember to include your postal address, email address and phone number with your correspondence.
 
 How am I notified of Privacy Policy changes?  
 As we continue to grow our businesses and improve our services, we reserve the right to change or modify this Privacy Policy at any time. If there are changes or additions, we will post those changes here or in other formats we deem acceptable, so that you are aware of such changes. If this Privacy Policy changes in such a way that your personally identifiable information may be used or shared in a different manner, you will be given the opportunity to opt-out of having your information used or shared in that new manner. If you are concerned about how your information is used, please check back at this site periodically. 
