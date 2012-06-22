@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2carpros.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101224907id_/http%3A//www.2carpros.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2carpros.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622184308id_/http%3A//www.2carpros.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Car Repair Questions Answered FREE by Professional Mechanics Information
+# Car Repair Questions Answered Free by Professional Mechanics Information
 
 **2CarPros.com Privacy Policy Information Page**
 
@@ -8,27 +8,27 @@
 
 Depending on the service you access, you could be asked to provide your name, e-mail address, information about your car, information about what you like or do not like, and other information specific to certain features available at 2CarPros. This information helps us better serve you in many different ways. While we are working hard to create a website that is easy to use and anticipates your needs, we also want all of our visitors to be able to control their privacy. Therefore, the following discloses our information gathering and dissemination practices.
 
- **Your IP address**
+**Your IP address**
 
 We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to help identify you on specific parts of the site, such as 2CarPros, and to gather broad demographic information.
 
- **Information we collect from you**
+**Information we collect from you**
 
 Our site's registration form requires users to give us contact information (their name and e-mail address). This information enables us to provide information to you about products or services for your car as our website is developed.
 
- **Our web partners**
+**Our web partners**
 
 To provide you with the best selection of services and content, this site contains links to many other sites. 2CarPros is not responsible for the privacy practices or the content of any other third party website. If you visit any of those websites, please read their privacy statement to learn how they may use the information they gather from you.
 
- **Security**
+**Security**
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We value the information our visitors and member service centers share with us as a trust in our care, and pledge to protect that information with all reasonable measures.
 
- **Disclaimer**
+**Disclaimer**
 
 The information found in the Professional Mechanics Online website is not intended to replace the advice of your automobile mechanic and is not a substitute for a thorough diagnostic inspection by a qualified professional mechanic. No vehicle repair should be attempted without a thorough knowledge of the mechanics of the repair and the risks involved. The purpose of this website is to educate and inform. No claim or guarantee is intended to the accuracy of the information on this site although every attempt has been made to verify the accuracy of all information with the exception of the pubic forum.
 
- **Cookies and Similar Technology:**
+**Cookies and Similar Technology:**
 
 We use 'cookie' technology to collect data regarding your visits to the 2CarPros Network. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including: Users can either disable cookies via their browser or opt out via the Network Advertising site using browser settings.
 
@@ -49,7 +49,7 @@ Disclosure to Third Parties: We do not sell, rent, lease or disclose your Person
 
 If you have any question or comments about 2CarPros please [contact us](http://www.2carpros.com/contacts/new)
 
- **Main Information Sections**
+**Main Information Sections**
 
   * [Repair Answers](https://web.archive.org/topics)
   * [Repair Instructions](https://web.archive.org/section/how-to-repair-or-service)
