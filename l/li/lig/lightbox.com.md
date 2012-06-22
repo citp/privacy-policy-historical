@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lightbox.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204162917id_/http%3A//lightbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightbox.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622171159id_/http%3A//lightbox.com/privacy) for the most accurate reproduction.*
 
 # Lightbox Privacy Policy
+
+* * *
 
 T2 Labs, Inc ("we", "us" or "our") are committed to protecting and respecting your privacy. 
 
