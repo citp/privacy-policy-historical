@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedrum.co.uk privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009194941id_/http%3A//www.thedrum.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedrum.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622063347id_/http%3A//www.thedrum.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - THE DRUM - Advertising, Design, Media, Marketing, Digital, PR - News, Information & Jobs
+# Privacy | The Drum
 
 The privacy of your personal data is important to Carnyx Group Ltd. The following sets out what we do and what we do not do with the information we collect using this Website:
 
@@ -22,7 +22,7 @@ We provide aggregate statistical information about site visitors and users to cu
 Subscribers and Email Newsletter  
 If you submit your details via The Drum Website, we may use this information to contact you about other relevant events and information, or pass your details to other reputable companies whose products and services may be of interest to you or your company. You may unsubscribe or opt out at any point which we will action as soon as is reasonably practicable.
 
-My DRUM Jobs registration   
+My DRUM Jobs registration  
 My DRUM Jobs is a tool to allow job seekers to manage and store information on jobs and applications. The information and files saved to this account will not be passed on to any third parties or searched by customers of The Drum. If there are changes to this service we will contact you by email explaining what these changes are.
 
 Please note that The Drum reserves the right to remove from our database accounts which include any content that we consider to be illegal or offensive.
