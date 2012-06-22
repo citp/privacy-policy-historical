@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobilecruze.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223083708id_/http%3A//mobilecruze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilecruze.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622082250id_/http%3A//mobilecruze.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - MobileCruze-Android|Iphone|Symbian MobileFreeware | MobileCruze-Android|Iphone|Symbian MobileFreeware
+# Privacy policy -MobileCruze-Android|Apps|Games|Themes|ApkMobileCruze-Android|Apps|Games|Themes|Apk
 
 **What information do we collect?**
 
