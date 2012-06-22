@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the mobigyaan.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113112247id_/http%3A//mobigyaan.com/privacy-policy-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobigyaan.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623005839id_/http%3A//mobigyaan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **P** **rivacy Policy**
 
- **Introduction**
+**Introduction**
 
 MobiGyaan.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices. If you have any questions or comments about our policy, please feel free to contact us.
 
   
- **Personal Information**  
+**Personal Information**  
 The personal information you enter on MobiGyaan.com is not for sale. Using MobiGyaan.com will not cause you to receive unsolicited email. 
 
 **Third Party Advertising**  
@@ -35,10 +35,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 **Links**  
 MobiGyaan.com may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by MobiGyaan.com. We are not responsible for any offers given by our clients.
 
-You can send email to mobigyaan@live.com
-
-Comments:
-
-  * [ ](http://mobigyaan.com/privacy-policy-#tabs-1)
-
-
+You can send email to [mobigyaan@live.com](mailto:mobigyaan@live.com)
