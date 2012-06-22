@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiegozooglobal.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125004933id_/http%3A//www.sandiegozooglobal.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiegozooglobal.org privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622060826id_/http%3A//www.sandiegozooglobal.org/privacy_policy) for the most accurate reproduction.*
 
 # SDZ Global Wildlife Conservancy - Who We Are - Privacy Policy
 
