@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winpcap.org privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222153637id_/http%3A//www.riverbed.com/us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winpcap.org privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623001015id_/http%3A//www.riverbed.com/us/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
@@ -26,7 +26,7 @@ We may receive and store any information you enter on our web site or provide to
 
 ### E-mail Communications
 
-We may receive a confirmation when you open an e-mail from Riverbed if your computer supports this type of program. We may also compare our customer list with lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please unsubscribe at: [http://www.riverbed.com/us/unsubscribe.php](https://web.archive.org/web/20111222153637id_/http%3A//www.riverbed.com/us/unsubscribe.php)[.](https://web.archive.org/web/20111222153637id_/http%3A//www.riverbed.com/us/unsubscribe.php)
+We may receive a confirmation when you open an e-mail from Riverbed if your computer supports this type of program. We may also compare our customer list with lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please unsubscribe at: [http://www.riverbed.com/us/unsubscribe.php](https://web.archive.org/web/20120623001015id_/http%3A//www.riverbed.com/us/unsubscribe.php)[.](https://web.archive.org/web/20120623001015id_/http%3A//www.riverbed.com/us/unsubscribe.php)
 
 ### What About Cookies?
 
