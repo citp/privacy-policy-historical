@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techopedia.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212230136id_/http%3A//www.techopedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techopedia.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622084519id_/http%3A//www.techopedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Techopedia.com
 
@@ -74,7 +74,7 @@ Techopedia.com limits access to personal information about you to employees who 
 
 Although Techopedia.com takes your privacy seriously and will take reasonable and customary measures to protect it, we cannot guarantee that there will be no unauthorized use of your personal information. 
 
-If you register for the site and services and create a User Account, you will be provided a username and password for such User Account. You acknowledge that you are responsible for maintaining the confidentiality of the password as well as any and all activity that occur under your User Account and password. You agree that at the end of each session using the Site and Services, you will exit your User Account. In the event of any unauthorized use of your password and/or User Account, you agree that you will immediately notify Techopedia.com by sending an email to admin@Techopedia.com. Techopedia.com cannot and will not be liable for any and all losses or damages arising from your failure to comply with this Section. 
+If you register for the site and services and create a User Account, you will be provided a username and password for such User Account. You acknowledge that you are responsible for maintaining the confidentiality of the password as well as any and all activity that occur under your User Account and password. You agree that at the end of each session using the Site and Services, you will exit your User Account. In the event of any unauthorized use of your password and/or User Account, you agree that you will immediately notify Techopedia.com by sending an email to webmaster@techopedia.com. Techopedia.com cannot and will not be liable for any and all losses or damages arising from your failure to comply with this Section. 
 
 ## Third-Party Websites
 
@@ -82,7 +82,7 @@ From time to time, Techopedia.com may make available to you certain services off
 
 ## Access to Personal Information
 
-If at any time you would like to review the personal information we collect about you, just ask. You should send an email to admin@Techopedia.com from the email account you used to create your account and we will provide you with a summary, as well as an opportunity to correct and update this information. 
+If at any time you would like to review the personal information we collect about you, just ask. You should send an email to webmaster@techopedia.com from the email account you used to create your account and we will provide you with a summary, as well as an opportunity to correct and update this information. 
 
 ## Changes to This Privacy Policy
 
@@ -98,7 +98,4 @@ Janalta Interactive Inc. o/a Techopedia.com
 Suite 104, 4207 – 98 Street NW  
 Edmonton, Alberta Canada T6E 5R7  
 Last updated January 12, 2011  
-
-
-  
 
