@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodreturns.in privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012142317id_/http%3A//www.oneindia.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodreturns.in privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622143241id_/http%3A//www.oneindia.in/privacy.html) for the most accurate reproduction.*
 
 # Oneindia | Privacy Policy
 
