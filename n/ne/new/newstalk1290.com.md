@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newstalk1290.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211110806id_/http%3A//newstalk1290.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstalk1290.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623011738id_/http%3A//newstalk1290.com/privacy) for the most accurate reproduction.*
 
-# Newstalk 1290 KWFS Radio - Wichita Falls Talk Radio
+# Newstalk 1290 KWFS Radio - News & Talk of Texoma - Wichita Falls Talk
 
 ### About NEWSTALK1290.COM
 
@@ -90,7 +90,7 @@ From time to time we may make changes to our Privacy Policy. If we make changes,
 
 ### Contacting Us
 
-If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please contact us at: .
+If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please .
 
 ### Effective Date
 
