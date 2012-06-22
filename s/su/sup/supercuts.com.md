@@ -1,23 +1,26 @@
-> *The following text is extracted and transformed from the supercuts.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101170515id_/http%3A//www.supercuts.com/PrivacyPolicy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercuts.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622102302id_/http%3A//www.supercuts.com/PrivacyPolicy/default.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Information We Collect
-
-  
-The information we collect when you visit our website depends on what you do when you visit. If you read or download information, we collect and store only the following: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account); the date and time; and the Internet address of the Web site from which you linked directly to our site (if applicable). We use this information to measure the number of visitors to the different sections of our site and to help us make our site more useful. We may share such user information with partners, advertisers and others but only in aggregate form, not in a manner that would allow personal identification of a specific user. If you visit our site and make requests, register to receive materials, apply for employment, or participate in our reminder services, the types of personal information collected are the following: your name, your address, your e-mail address, your phone number and any other information you submit. If you participate in an online survey or questionnaire, any information you provide will also be maintained.
+The Information We Collect  
+The information we collect when you visit our website depends on what you do when you visit. If you read or download information, we collect and store only the following: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account); the date and time; and the Internet address of the Web site from which you linked directly to our site (if applicable). We use this information to measure the number of visitors to the different sections of our site and to help us make our site more useful. We may share such user information with partners, advertisers and others but only in aggregate form, not in a manner that would allow personal identification of a specific user. If you visit our site and make requests, register to receive materials, apply for employment, or participate in our reminder services, the types of personal information collected are the following: your name, your address, your e-mail address, your phone number and any other information you submit. If you participate in an online survey, promotion, or questionnaire, any information you provide will also be collected and maintained.
 
   
 How We Use Information  
-From time to time, we may send offers and/or information from our salons to addresses provided. We only share personally identifiable information provided by you with third parties outside of Regis Corp. with your permission. By opting to a Regis Corp. mailing list, we assume that you have given permission for Regis Corp. to share this information with third parties. We always provide you an opportunity to opt-out of our mailing lists, prohibiting any further sharing of your information (except when we believe the law requires us to disclose it or when the disclosure is necessary to protect the rights or property of Regis Corp.).
+From time to time, we may send offers and/or information from our salons to addresses provided. We only share personally identifiable information provided by you with third parties outside of Regis Corp. with your permission. By submitting information to us, we assume that you have given permission for Regis Corp. to share this information with third parties. We always provide you an opportunity to opt-out of our mailing lists, prohibiting any further sharing of your information (except when we believe the law requires us to disclose it or when the disclosure is necessary to protect the rights or property of Regis Corp.).
 
-  
 How to Opt Out  
-If you choose to opt-out of our mailing list, please click on the link below to remove your name from the list. Enter your e-mail address and click 'remove' and you will be taken off the mailing list. Please state your name, address and phone number for identification purposes. Remove me from the mailing list
+If you choose to opt-out of our email list, simply unsubscribe from an email you've received from us by clicking "unsubscribe" at the bottom of the email. You may also email us at [departmentcs@regiscorp.com](mailto:departmentcs@regiscorp.com) and request to be removed. Please state your name, address and phone number for identification purposes.
 
-  
-Contact Us  
-Should you have other questions or concerns about this privacy policy, please send us an e-mail at [SCPRIVACYPOLICY@SUPERCUTS.COM](mailto:SCPRIVACYPOLICY@SUPERCUTS.COM).
+ **Contact Us**  
+Should you have other questions or concerns about the privacy policy, please contact us:
+
+[departmentcs@regiscorp.com](mailto:departmentcs@regiscorp.com)  
+1-877-857-2070  
+Attn: Department CS  
+Regis Corporation  
+7201 Metro Blvd  
+Minneapolis, MN 55439
 
   
 Children's Privacy (COPPA)  
