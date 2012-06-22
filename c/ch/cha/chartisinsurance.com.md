@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chartisinsurance.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207062936id_/http%3A//www.chartisinsurance.com/global-privacy_295_195307.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartisinsurance.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622124217id_/http%3A//www.chartisinsurance.com/global-privacy_295_400948.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
