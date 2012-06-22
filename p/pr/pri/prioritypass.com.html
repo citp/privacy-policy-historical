@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the prioritypass.com privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123160432id_/http%3A//www.prioritypass.com/Privacy-Policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prioritypass.com privacy policy that was archived on 2012-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622225842id_/http%3A//www.prioritypass.com/Privacy-Policy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright Collinson group plc --><!-- Page generated 2011-11-23 16:04:29 by CommonSpot CommonSpot v4.6.3.47 (2007-01-23 14:26:09) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright Collinson group plc --><!-- Page generated 2012-06-22 17:29:09 by CommonSpot CommonSpot v4.6.3.47 (2007-01-23 14:26:09) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.
 All rights reserved --><head> <title>Privacy Policy | Priority Pass </title> <meta name="Description" id="Description" content="Priority Pass Privacy Policy.">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="Keywords" id="Keywords" content="access airport lounge, airline lounges, airport airline lounges, airport lounge, airport lounge access, airport lounge pass, airport lounge program, airport lounges, airport pass, lounge pass, priority airport lounge, priority card, priority lounge, priority parking, Priority Pass, priority pass airport lounge, priority pass lounge, priority pass lounge access, priority pass lounges, priority pass program, priority passes, privacy, privacy policy">
@@ -129,7 +129,7 @@ return winWindow;
 <!-- -->
 <link href="/rss.cfm" rel="alternate" type="application/rss+xml" title="Priority Pass News">
 <meta name="verify-v1" content="cNe8t05R9+cStJ3EgfY3TxPwirPGh+aryJmZ6PeVDpw=">
-<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"> <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body onload="sfHover();" lang="en" class="CS_Document"><script type="text/javascript">
+<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"> <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body onload="sfHover();stretchColumns();" lang="en" class="CS_Document"><script type="text/javascript">
 <!--
 document.CS_StaticURL = "/";
 document.CS_DynamicURL = "/";
@@ -318,7 +318,7 @@ return;
 function onLoadFinished()
 {
 onLoadComplete();
-sfHover();
+sfHover();stretchColumns();
 }
 var js_gvPageID = 40189;
 function gotoDiffLang(url)
@@ -335,37 +335,17 @@ body {background:#333333 url(https://d2llguf9uoxb71.cloudfront.net/pp/img/pp_ima
 <link href="/style/pp_styles_ie.css" rel="stylesheet" type="text/css" media="screen, projection" />
 <![endif]-->
 <link rel="stylesheet" media="screen and min-device-pixel-ratio: 0" href="/style/safari.css">
-<!-- --><div class="CS_Element_CustomCF">
+<!-- --><!-- --><div class="CS_Element_CustomCF">
 <div id="CS_CCF_40189_535">
 <script language="javascript">
-sfHover = function()
-{
-if (document.all)
-{
-if (typeof(document.getElementById("select_lang")) !== 'undefined')
-{
-var sfEls = document.getElementById("select_lang").getElementsByTagName("LI");
-for (var i=0; i < sfEls.length; i++)
-{
-sfEls[i].onmouseover = function()
-{
-this.className += " sfhover";
-}
-sfEls[i].onmouseout = function()
-{
-this.className = this.className.replace(new RegExp(" sfhover\\b"), "");
-}
-}
-}
-}
-if (window.attachEvent)
-{
-window.attachEvent("onload", sfHover);
-}
+sfHover = function(){};
+stretchColumns = function() {
+if ( typeof(document.getElementById('LHC')) !== 'undefined' && typeof(document.getElementById('RHC')) !== 'undefined' && document.getElementById('LHC') !== null && document.getElementById('RHC') !== null){
 var LHCheight = document.getElementById('LHC').offsetHeight;
 var RHCheight = document.getElementById('RHC').offsetHeight;
 if (LHCheight > RHCheight) document.getElementById('RHC').style.height = LHCheight-5 + 'px';
 else document.getElementById('LHC').style.height = RHCheight-10 + 'px';
+}
 }
 </script>
 </div><!-- --></div><div class="CS_Element_CustomCF">
@@ -405,6 +385,7 @@ document[imgID].src=newTarget;
 <li><a href="/pp_pages/switch-language.cfm?language=PT&amp;page=40189">Portuguese</a></li>
 <li><a href="/pp_pages/switch-language.cfm?language=IT&amp;page=40189">Italiano</a></li>
 <li><a href="/pp_pages/switch-language.cfm?language=NL&amp;page=40189">Nederlands</a></li>
+<li><a href="/russian">Русский</a></li>
 <li><a href="http://www.prioritypass.jp/" id="jp">Japanese</a></li>
 <li><a href="http://www.prioritypass.co.kr/" id="kr">Korean</a></li>
 <li><a href="http://www.prioritypass.com.cn" id="cn_s">Simplified Chinese</a></li>
@@ -413,6 +394,29 @@ document[imgID].src=newTarget;
 </li>
 </ul>
 </div>
+<script language="javascript">
+sfHover = function()
+{
+if (document.all)
+{
+if (typeof(document.getElementById("select_lang")) !== 'undefined')
+{
+var sfEls = document.getElementById("select_lang").getElementsByTagName("LI");
+for (var i=0; i < sfEls.length; i++)
+{
+sfEls[i].onmouseover = function()
+{
+this.className += " sfhover";
+}
+sfEls[i].onmouseout = function()
+{
+this.className = this.className.replace(new RegExp(" sfhover\\b"), "");
+}
+}
+}
+}
+}
+</script>
 <!-- -->
 <div id="masthead">
 <img src="https://d2llguf9uoxb71.cloudfront.net/pp/img/pp_images/logo.gif" alt="Priority Pass" width="195" height="41" id="PP_logo" class="logo">
@@ -422,17 +426,29 @@ document[imgID].src=newTarget;
 <li><a href="/Benefits-of-Membership.cfm" id="item2">benefits of membership</a></li>
 <li><a href="/Join/What-it-Costs.cfm" id="item3">join now</a></li>
 <li><a href="/Lounges/" id="item4">lounges</a></li>
-<li><a href="/Community/community.cfm" id="item5">community</a></li>
+<li><a href="/News/" id="item5">news</a></li>
 <li><a href="/Members-info.cfm" id="item6">members</a></li>
-<li><a href="/Corporate-Rates/Corporate-Discounted-Rates.cfm" id="item7">for business</a></li>
+<li><a href="/forbusiness/" id="item7">for business</a></li>
 </ul>
 </div>
 <!-- -->
 </div>
-<div class="CS_Element_Schedule" title="" id="CS_Element_BannerContainer"><div><a name="custom254375" id="custom254375"></a><a name="CP_JUMP_254375" id="CP_JUMP_254375"></a>
-<div id="banner">
-<img src="https://d2llguf9uoxb71.cloudfront.net/pp/img/banners/EN_homepage_banner7.jpg" width="761" height="212" alt="Any airline. 600 lounges. One membership" title="Any airline. 600 lounges. One membership">
+<div class="CS_Element_Schedule" title="" id="CS_Element_40189_556"><div><a name="custom254375" id="custom254375"></a><a name="CP_JUMP_254375" id="CP_JUMP_254375"></a>
+<script type="text/javascript" src="https://d2llguf9uoxb71.cloudfront.net/pp/js/jquery.js"></script>
+<script type="text/javascript" src="https://d2llguf9uoxb71.cloudfront.net/pp/js/jquery.cycle.all.js"></script>
+<div id="fadeBanner" style="clear:both;">
+<img src="/images/EN4.jpg" width="760" height="212" alt="Any airline. 600 lounges. One membership." title="Any airline. 600 lounges. One membership.">
+<img src="/images/EN5.jpg" width="760" height="212" alt="600 Lounges, 300 Cities, 100 Countries. An unrivalled offer." title="600 Lounges, 300 Cities, 100 Countries. An unrivalled offer." style="display:none;">
+<img src="/images/EN6.jpg" width="760" height="212" alt="Over 100 countries, over 300 cities." title="Over 100 countries, over 300 cities." style="display:none;">
 </div>
+<script type="text/javascript">
+$('#fadeBanner').cycle({
+fx:
+'fade'
+, speed:
+4000
+});
+</script>
 <!-- --></div></div><!-- -->
 <div class="bodyContainer">
 <div class="LHCbackground">
@@ -605,6 +621,9 @@ El Salvador
 <option value="EST">
 Estonia
 </option>
+<option value="FIJ">
+Fiji
+</option>
 <option value="FIN">
 Finland
 </option>
@@ -644,9 +663,6 @@ India
 <option value="INO">
 Indonesia
 </option>
-<option value="IRN">
-Iran
-</option>
 <option value="IRE">
 Ireland
 </option>
@@ -670,6 +686,9 @@ Kenya
 </option>
 <option value="KUW">
 Kuwait
+</option>
+<option value="LAT">
+Latvia
 </option>
 <option value="LEB">
 Lebanon
@@ -722,9 +741,6 @@ Netherlands
 <option value="NAN">
 Netherlands Antilles
 </option>
-<option value="NWZ">
-New Zealand
-</option>
 <option value="NGR">
 Nigeria
 </option>
@@ -767,6 +783,9 @@ Russia
 <option value="RWA">
 Rwanda
 </option>
+<option value="SAI">
+Saipan
+</option>
 <option value="SDA">
 Saudi Arabia
 </option>
@@ -796,9 +815,6 @@ Sri Lanka
 </option>
 <option value="STL">
 St. Lucia
-</option>
-<option value="SUD">
-Sudan
 </option>
 <option value="SWE">
 Sweden
@@ -891,7 +907,7 @@ initSearch();
 <div class="links">
 <div class="CS_Element_Schedule" title="" id="CS_Element_BottomNavigationBar">
 <div class="CS_Element_LinkBar"><a name="EnglishBottomNavigation" id="EnglishBottomNavigation"></a>
-<a href="/About-this-site.cfm" class="CS_LinkBar_Item">about&nbsp;this&nbsp;site</a>
+<a href="/video-library/index.cfm" class="CS_LinkBar_Item">videos</a>
 <span class="CS_LinkBar_Separator">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>
 <a href="/Privacy-Policy.cfm" class="CS_LinkBar_Item">privacy&nbsp;policy</a>
 <span class="CS_LinkBar_Separator">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>
