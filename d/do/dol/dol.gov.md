@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dol.gov privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204200336id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dol.gov privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623005638id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
 
 # U.S. Department of Labor -- Privacy and Security Statement
 
@@ -44,4 +44,4 @@ The Department limits its use of cookies to "session cookies" types of cookies t
 
 For security purposes and to ensure that this service remains available to all users, our Web site also employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
-Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the [Computer Fraud and Abuse Act of 1986](https://web.archive.org/cgi-bin/leave-dol.asp?exiturl=http://www.usdoj.gov/criminal/cybercrime/1030_new.html&exitTitle=The_Department_of_Justice:_Computer_Fraud_and_Abuse_Act&fedpage=yes) and [The National Information Infrastructure Protection Act of 1996](https://web.archive.org/cgi-bin/leave-dol.asp?exiturl=http://www.usdoj.gov/criminal/cybercrime/s982.htm&exitTitle=The_Department_of_Justice&fedpage=yes). 
+Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and The National Information Infrastructure Protection Act of 1996. 
