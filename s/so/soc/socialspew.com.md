@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialspew.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211216id_/http%3A//socialspew.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialspew.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622162305id_/http%3A//socialspew.com/privacy) for the most accurate reproduction.*
 
-# Social Spew — Privacy Policy
+# Privacy Policy
 
 **Privacy Policy for[](http://www.socialspew.com/)[www.socialspew.com](http://www.socialspew.com/)**
 
