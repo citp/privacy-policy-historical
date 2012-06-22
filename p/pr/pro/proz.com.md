@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202072426id_/http%3A//www.proz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622104838id_/http%3A//www.proz.com/privacy) for the most accurate reproduction.*
 
 # ProZ.com privacy policy
 
-Date effective: 12 November 2009 ([view past versions](https://web.archive.org/privacy?version=past)) 
+Date effective: 14 December 2011 ([view past versions](https://web.archive.org/privacy?version=past)) 
 
 [](http://www.truste.org/ivalidate.php?url=proz.com&sealid=102)
 
@@ -12,15 +12,15 @@ ProZ.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent o
 
 If you have questions or concerns regarding this privacy policy, you should first contact the ProZ.com IT/Security Manager using the contact information below. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with ProZ.com to resolve your concerns.
 
-ProZ.com complies with the EU Safe Harbor framework as set forth by the U.S. Department of Commerce and the European Union regarding the collection, use, and retention of data from the EU. To learn more about this program, and to view ProZ.com's certification, visit the [U.S. Department of Commerce's Safe Harbor Website](http://www.export.gov/safeharbor/).
+ProZ.com complies with the EU Safe Harbor Framework as set forth by the U.S. Department of Commerce and the European Union regarding the collection, use, and retention of data from the EU, and with the U.S.-Swiss Safe Harbor Framework regarding the collection, use, and retention of data from Switzerland. To learn more about this program, and to view ProZ.com's certification, visit the [U.S. Department of Commerce's Safe Harbor Website](http://www.export.gov/safeharbor/).
 
 Some ProZ.com services may contain links to other websites. ProZ.com is not responsible for the information practices or the content of such other websites. Users are encouraged to review the privacy statements of other websites to understand their information practices.
 
-If you have any questions about this privacy policy, please contact ProZ.com by submitting a [support ticket](http://www.proz.com/support?mode=ask&type=privacy "http://www.proz.com/support") via this website, or write to:
+If you have any questions about this privacy policy, please contact ProZ.com by submitting a [support request](http://www.proz.com/support?mode=ask&type=privacy "http://www.proz.com/support") via the support center on this website, or write to:
 
 ProZ.com  
-9405 Carousel Center  
-Syracuse, NY 13290 USA 
+PO Box 903  
+Syracuse, NY 13201 USA 
 
   
 
@@ -122,6 +122,8 @@ If ProZ.com becomes involved in a merger, acquisition, or any form of sale of so
 
 ProZ.com may share with third parties certain pieces of aggregated, non-personal information, such as the number of jobs passed in a particular language pair, for example, or how many visitors have accessed a user's profile page. Such information does not identify anyone individually. 
 
+When you visit the profile page of a ProZ.com member, a log of your visit may be disclosed to that member. This visitor log includes your IP address, along with your ProZ.com account type (if you are logged in), and the search terms that led you to the profile if you arrived there via a search engine. 
+
 In addition, ProZ.com users may create custom profile pages with dynamic content ("dynamic profile content"), including javascript, iframes, or CSS. When you access a profile page that ProZ.com has identified as containing dynamic content, you will be prompted whether to allow the dynamic content to run in your web browser. If you choose to allow the dynamic content to run, and if the dynamic content has been configured to do so, the profile owner may have access to certain personal information provided by your web browser, such as your IP address or cookies. Please note that ProZ.com does not screen or approve dynamic profile content and cannot control how such profile owners use any personal information that they may obtain in connection with dynamic profile content. You can report any suspected misuse of information to ProZ.com and the claim will be investigated and appropriate action taken against the profile owner, up to and including terminating their participation at ProZ.com and/or other formal legal action. 
 
 ProZ.com takes appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where personal data is stored. 
@@ -132,13 +134,13 @@ ProZ.com processes personal information only for the purposes for which it was c
 
 ProZ.com makes good faith efforts to provide users of its services with access to their personal information and either to correct this data if it is inaccurate or to delete such data at their request if it is not otherwise required to be retained by law or for legitimate business purposes. ProZ.com asks individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), where the rights of persons other than the individual would be violated, or for which access is not otherwise required. In any case where ProZ.com provides information access and correction, this service is performed free of charge, except if doing so would require a disproportionate effort. 
 
-If your personally identifiable information changes or if you no longer wish to use any ProZ.com services, you may update your information from your [profile settings page](https://web.archive.org/settings) or deactivate your account from the [unsubscribe page](https://web.archive.org/unsubscribe). Alternately, you can request assistance from ProZ.com staff by submitting a support ticket, sending an email to privacy _@_ proz.com, or contacting the ProZ.com office by telephone or postal mail at the contact information listed below. You will receive a response to your request to access within 30 days.
+If your personally identifiable information changes or if you no longer wish to use any ProZ.com services, you may update your information from your [profile updater](https://web.archive.org/settings) page or deactivate your account from the [unsubscribe](https://web.archive.org/unsubscribe) page. Alternately, you can request assistance from ProZ.com staff by submitting a support request, sending an email to privacy _@_ proz.com, or contacting the ProZ.com office by telephone or postal mail at the contact information listed below. You will receive a response to your request to access within 30 days.
 
-ProZ.com regularly reviews its compliance with this privacy policy. Please direct any questions or concerns regarding this privacy policy or ProZ.com's treatment of personal information to the ProZ.com IT/Security Manager by [submitting a support ticket](http://www.proz.com/support?mode=ask&type=privacy "http://www.proz.com/support") through this website, or by writing to: 
+ProZ.com regularly reviews its compliance with this privacy policy. Please direct any questions or concerns regarding this privacy policy or ProZ.com's treatment of personal information to the ProZ.com IT/Security Manager by [submitting a support request](http://www.proz.com/support?mode=ask&type=privacy "http://www.proz.com/support") through the support center on this website, or by writing to: 
 
 ProZ.com  
-9405 Carousel Center  
-Syracuse, NY 13290 USA 
+PO Box 903  
+Syracuse, NY 13201 USA 
 
 ProZ.com will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this privacy policy. 
 
