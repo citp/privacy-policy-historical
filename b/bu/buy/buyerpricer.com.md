@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyerpricer.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204221237id_/http%3A//buyerpricer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyerpricer.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623001017id_/http%3A//buyerpricer.com/Privacy.aspx) for the most accurate reproduction.*
 
 # BuyerPricer.com
 
@@ -31,6 +31,6 @@ This Website Privacy Statement is effective as of the date listed below. Even if
 
 ## Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20111204221237id_/http%3A//buyerpricer.com/contact.aspx). **Effective Date: Privacy Notice last modified April 5, 2009.**
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20120623001017id_/http%3A//buyerpricer.com/contact.aspx). **Effective Date: Privacy Notice last modified April 5, 2009.**
 
-© 2011 BuyerPricer.com 
+© 2012 BuyerPricer.com 
