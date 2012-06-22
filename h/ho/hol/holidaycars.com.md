@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaycars.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123201617id_/http%3A//www.holidaycars.com/static.aspx%3Fsource%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaycars.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622084227id_/http%3A//www.holidaycars.com/static.aspx%3Fsource%3Dprivacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@ Privacy Statement
 
 Your privacy is important to us
 
-Personvern
+Privacy Policy
 
 All personal information collected is used only for our purposes as outlined below to improve the services offered to you and similar clients.
 
@@ -33,6 +33,17 @@ When you browse this web site, the web server records your visit and logs the fo
 Use of Data Collected
 
 The data listed above is collected for the following purposes: web site and system administration, including monitoring to prevent security breaches enhancement of the web site to our clients' needs and research and development.
+
+Use of Cookies
+
+Why do we use cookies?  
+Holidaycars.com is committed to offering you the best car rental service. To facilitate this, cookies are placed on your computer for us to measure the web surfing behaviors, so that we can tailor our service to you. Cookies are small pieces of information that your browser stores on your computer. When you visit holidaycars.com, cookies record information of your online preferences.
+
+How do we use cookies?  
+We collect information about the visits to our website by using Google Analytics, a web analytics service provided by Google Inc. The aim is to evaluate the effectiveness of internet advertising on our site and the sites of our partners. Therefore, we make use of cookies placed and delivered by us. We use various advertisement technologies from reputable third parties to gain insight into the behavior of visitors to our website. This is to address certain handlings and transactions of visitors to our website and to identify relevant visitors based on the data of their profiles. When a relevant visitor visits a website within the network of our partners, an advertisement is displayed to the target profile. We monitor the use of our website as well as the servers of our partners. In both cases, the information is collected and maintained via such technologies on our behalf and is not personally identifiable. 
+
+How can you control cookies?  
+All your personal data will be kept confidential and will by no means be lent, sold or somehow made public. If you don’t want to receive cookies of holidaycars.com, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set. 
 
 Trademark
 
