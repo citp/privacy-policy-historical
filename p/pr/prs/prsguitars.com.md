@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prsguitars.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152024id_/http%3A//www.prsguitars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsguitars.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622192913id_/http%3A//www.prsguitars.com/privacy.php) for the most accurate reproduction.*
 
-# Paul Reed Smith Guitars | Privacy Policy
+# PRS Guitars | Privacy Policy
 
 Thank you for visiting the prsguitars.com web site. We are committed to protecting your privacy and we voluntarily provide this privacy statement in support of this commitment. Paul Reed Smith Guitars wants to provide a secure, helpful experience for our users. Therefore, we will make commercially reasonable efforts to ensure that the information you provide and submit to us remains private, and is used only for the purposes as set forth herein.
 
