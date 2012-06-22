@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elledecor.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206070624id_/http%3A//services.hearstmags.com/media/cm/hfmus/your_privacy_rights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elledecor.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622175918id_/http%3A//services.hearstmags.com/media/cm/hfmus/your_privacy_rights.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
