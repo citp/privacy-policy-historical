@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexmicrolot.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226225948id_/http%3A//www.forexmicrolot.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexmicrolot.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622133421id_/http%3A//www.forexmicrolot.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # FXCM Micro Limited Privacy Policy
 
@@ -44,6 +44,5 @@ or send your request to:
 
 Forex Capital Markets LLC  
 Attention: Privacy Officer  
-Financial Square  
-32 Old Slip, 10th Floor  
-New York, NY 10005
+55 Water St., 50th Floor  
+New York, NY 10041
