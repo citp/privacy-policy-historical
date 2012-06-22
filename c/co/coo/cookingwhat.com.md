@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cookingwhat.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101225205id_/http%3A//www.cookingwhat.com/page/1/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookingwhat.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622102550id_/http%3A//www.cookingwhat.com/page/1/Privacy-Policy) for the most accurate reproduction.*
 
-# Cooking games for girls - Privacy Policy
+# Privacy Policy
 
 This Policy applies to all of the products, services and websites offered by cookingwhat.com or its subsidiaries or affiliated companies. In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
 
@@ -26,3 +26,6 @@ If you have any additional questions or concerns about this Policy, please feel 
 * Google, as a third party vendor, uses cookies to serve ads on your site.  
 * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+ **Third Party Advertising:**  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
