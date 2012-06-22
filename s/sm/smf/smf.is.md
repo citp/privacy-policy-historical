@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smf.is privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223135555id_/http%3A//summify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smf.is privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622022118id_/http%3A//summify.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Summify
 
@@ -61,4 +61,4 @@ If you have any questions about this Privacy Policy, Context's privacy practices
 
 Context Media Technologies, Inc. Attention: Privacy Officer c/o Shahrooz Nabavi Fasken Martineau DuMoulin LLP 2900 - 550 Burrard St. Vancouver, B.C.V6C 0A3, Canada
 
-By email: [ privacy@summify.com](mailto:privacy@summify.com)
+Online: [Contact Page](https://web.archive.org/contact/)
