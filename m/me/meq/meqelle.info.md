@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meqelle.info privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214054430id_/http%3A//www.meqelle.info/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meqelle.info privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622234656id_/http%3A//www.meqelle.info/policy.html) for the most accurate reproduction.*
 
 # Meqelle
 
@@ -85,42 +85,64 @@ This Privacy Policy may change from time to time to reflect our changing busines
 
 This Privacy Policy and our Terms of Use , both as posted on our Sites and through our Services, contain all of the material terms of regarding your use of our Websites and Services. No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Sites and Services. 
 
-nov11
+Feb2012
 
-[Financial Management](http://www.regionsbankadvice.com/everyday-banking.html) Learn more about financial management and everyday banking with helpful advice from Regions Bank. Visit our website today.
+[Company Valuation](http://www.ebusinessappraisals.com/)  Fast, accurate business appraisals business valuations to sell your business, manage partner buyouts, secure business loans, or manage your business to achieve value for retirement 
 
-[Indemnity insurance](http://www.coulsonpritchard.com/) As coulsonpritchard insurance specialists, we understand the unique nature of freelancing, the particular risks you face and how best to protect you and your business.
+[cessione quinto](http://www.cessionequinto-pb.it/) Cessione quinto cessione del v, cessione del quinto dello stipendio, calcolo cessione quinto, cessione quinto inps, cessione del 5, cessione quinto pensione, finanziamenti cessione del quinto, prestiti cessione del quinto, finanziamenti cessione del quinto Cessione quinto Cessione 5
 
-[Pipeline integrity management](http://eaglemap.com/services/pipeline-integrity-management/) Pipeline Integrity Management Services. High Consequence Area (HCA) Analysis, Class Location, MAOP &amp; Risk Analysis and PHIMSA/FERC Audit Support
+[Payment protection Insurance claims](http://www.paymentprotectionclaim.co.uk/) Admiral wins 9 out 10 Payment Protection Claims (PPI). Reclaim £3,000 in just 60 days for your Payment Protection Claim. Free Phone 0800 862 0571 now. No Win No Fee PPI Claims
 
-[B2business Product Manufacturer](http://b2business-productmanufacturer.com/) Product Marketing – B2Business Product Manufacturer - Business-to-business describes commerce transactions between businesses, such as between a manufacturer and a wholesaler, or between a wholesaler and a retailer.
+[Refinance mortgage rates](http://www.mortgage-refinancing-reviews.com/) Find out which lenders have the best refinamce mortgage interest rates and best deal. You will save thousands. You will be surprised when you see who is the best.
 
-[online forex broker](http://www.tadawulfx.com/public/about-tdfx/about-us.html) Online forex broker Tadawul FX is a leading Swiss and European online forex and commodity trading broker. TDFX is an investment firm licensed and regulated by CySec.
+[Bridging finance](http://www.bridging-finance.me.uk/) bridging finance only this is a short term advance which is secured on landed estate or property check out companies that are the actual lenders
 
-[sell digital products](http://www.digitaldeliveryapp.com/) Test product ideas before investing time creating them. We'll capture conversion rates and save interested parties details. Clic here!
+[protect your bubble review](http://www.uk-insurance-index.co.uk/protect-your-bubble-car-insurance-3143.html) Until 30 09 11, all new motor insurance policyholders will get a fantastic £40 cash back offer 
 
-[Chris Cobb Scam](http://www.chriscobbcharity.com/) Increase your profits in your business. Learn from the advice we give you Chris Cobb
+March2012
 
-Dec
+[Esources.co.uk](http://www.wholesalescams.co.uk/esources-co-uk-review)If you want to start up a business online that requires business service whole suppliers, then eSources is one of the UK’s top directories to help you do just that. You can use it to find a whole range of companies in a multitude of different areas, from accounting and finance to recycling facilities.
 
-[guaranteed personal loans](http://www.badcreditguaranteedloan.com/) Cash loans for people with bad credit score with cash up to $2500 right away.!
+[Payday Loans Online](http://www.1hourpaydayloansonline.com/) Get fast cash online today! Up to 1500 within an hour no credit checks, no faxing Get money deposited into your account instantly 1 Hour Payday Loans Online
 
-[headstones](http://www.mainlandmemorials.co.uk/) Mainland Memorials brings a world of traditional, personalised, engraved headstone memorials at affordable prices.
+[every day loans](http://www.noworriesloans.org.uk/every-day-loans.html) Every day loans and credit card cash advances essentially serve the same purpose but it is important for consumers to know what short
 
-[partner recruitment](http://www.channelpartnering.com/) Provides IT channel & partner recruitment services, matching technology vendors with resellers, ISV's and system integrators worldwide. Covers EMEA, USA, Canada, Latin America, ASEAN, CEE, CIS, UK, Russia, Poland
+[long term loans](http://www.24hourloansbadcredit.co.uk/long-term-loans.html) Long term loans as the name specifies are meant for the people who are looking for meeting their long term personal needs.
 
-[Credit card processing business](http://www.creditcardprocessingaccount.com/) Since decades, we have been providing competitive rates and unbeatable customer service in credit cards processing business. Schedule your free consultation with our experts to discover the most affordable payment processing solution.  
+[Quick Loans Same Day ](http://www.everydayloans.org.uk/quick-loans-same-day.html)Quick loans same day offer the solutions for salaried people till their next payday. These loans are ideal ways to solve the short-term financial problems within same day of applying.
 
-[Axis Bank Credit Cards](http://www.financemasala.com/india-credit-cards/indian-banks/axis-bank-credit-cards.html) Need Axis Bank credit cards? Axis bank provide different types of credit card like silver, gold, and platinum credit card, find detail here.
+[car insurance](http://www.carinsurancecomparison.com/) Getting car insurance is vital, since they efficiently help in managing the repairs and impairments at the time of damage. Compare the quotes online and find your desired dealer offering best service at affordable cost.
 
-[State Bank Of India](http://www.info2india.com/finance/banks/nationalised-banks/the-state-bank-of-india.html) State bank of India is offering best online banking services in India. It is one of the best nationalized banks in India. Find more about here.
+[ETF](https://csetf.com/) Credit Suisse is a leading provider of Exchange Traded Funds in Europe Explore the portfolio of key equity, bond, commodity, theme and regional ETFs here
 
-[accounting and bookkeeping services](http://www.virtualisbookkeeping.com/pricing.html) Virtualis offers various accounting and bookkeeping service packages to serve your business needs. Check out the one that best suites your business.
+[clean energy](http://www.frootcase.com/solar-panels/) Solar panels electricity systems also referred to as solar PV or photovoltaic is the most suitable to use especially currently where electric bills are usually high
 
-[BJOM News](http://www.bjom.com/) We bring you the best stories. We filter the news from different sources so that you can read the best stuff and save your time.
+[Solar panels](http://eurekaiberoamerica.org/solar-panels/) There is a lot of misconception about the effectiveness of the solar PV modules
 
-[Price Suggest](http://www.pricesuggest.in/) Get the latest information about prices of Electronics, Automobiles, Internet Packages, Mobile Phones and lots of other products.
+[cash for gold](http://www.bestpriceforgold.co.uk/) Best Price For Gold is the UK’s leading scrap gold
 
-[moving](http://www.moversonthego.net/) Movers On the Go are Boston movers that provide their customers excellent service with integrity, honesty and fair prices. Our movers and packers are hand-picked for competence, professionalism and courtesy and will supervise your move from packing to unpacking to ensure everything goes smoothly.
+[Mail Forwarding](http://www.capital-office.co.uk/) : Capital Office provide the most prestigious Virtual Office Services in the UK.  Affordable Mail Forwarding, Virtual Office & PO Box Solutions
 
-Oct11 | [Machinery Removals](http://www.jwieu.com/) | Dec | [Chris Cobb Scam](http://chriscobbscam.org/) | [infusionsoft consultant](http://www.launchmyproductnow.com/) | [Europe Business](http://www.befreiensie.de/) | [Business Travel](http://www.southern-traveler.com/) | [Latest Business](http://www.webmastergeneral.net/) | [online foreign currency exchange](http://www.voltrexfx.com/) | [foreign exchange rates uk](http://www.bestexchangeratesuk.com/) | [foreign exchange currency rates](http://www.baydonhillfx.com/)
+may
+
+[PPI Compensation Calculator](http://www.paymentprotectionclaim.co.uk/ppi-claims-calculator.html) Admiral wins 9 out 10 Payment Protection Claims (PPI). Reclaim £3,000 in just 60 days for your Payment Protection Claim.
+
+[Funeral Insurance](http://www.hollardfuneral.co.za/) If you need a funeral plan or burial insurance Hollard funeral are the best. Hollard Funeral provide the best policies with the best terms and claim payments.
+
+[Insurance](http://www.hollard.co.za/) Hollard is a provider of car, household and life insurance. They are one of the leading insurance providers in South Africa.
+
+[Translation Agency London](http://www.translationservices24.com/) We provide professional translation services for companies worldwide. Our professional translation services are reliable, accurate and price competitive.
+
+[EOBR](http://www.ccjdigital.com/category/topical/eobr/) View the most recent newsletter on EOBR and regulate your driver’s hours of operation effectively. Log on to our website now.
+
+[Maximale Hypotheek](http://www.hypotheekadvieshyponu.nl/maximale-hypotheek.html) Met de handige tool van HypoNu kun je direct online berekenen wat je maximale hypotheek is
+
+[Nationstar IPO](http://www.nationstarholdings.com/) We are a leading non-bank residential mortgage servicer with a broad array of servicing capabilities across the residential mortgage product spectrum.  
+
+
+[dissolved air flotation](http://www.cleanwatertech.com/)  
+[security guard services in delhi](http://specialityservices.in/index.php)  Speciality Services:-  Provides service to more than national and Multinational companies catering their Security, Housekeeping & Payrolling Services. Security services in India, Housekeeping services in Delhi.
+
+[annuity settlement](http://www.quotemeaprice.com/)|[hard money loan](http://www.pivotalcapitalgroup.com/)
+
+March2012 | [on line business ideas](http://www.stevenscashflowanswer.com/) | [Executive Leadership](http://www.deprezleadership.com/) | [liberty tax franchise ](http://www.libertytaxvirginia.com/) | [business litigation firm Minneapolis MN](http://www.doylehance.com/business) |[vibration testing equipment](http://www.trilion.com/) | may | [gps fleet managing](http://fleetmanaging101.com/) | [presentation folder](https://www.folderprinters.com/) | [debt management plan  ](http://www.firstunion.co.uk/debt-management.php)| [Top Forex brokers](http://www.forexspace.com/) | [Click here for plastic surgery loans](http://www.unitedmedicalcredit.com/our-services/cosmetic-surgery/)
