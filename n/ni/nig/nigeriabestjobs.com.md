@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nigeriabestjobs.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219111143id_/http%3A//nigeriabestjobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriabestjobs.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622192228id_/http%3A//nigeriabestjobs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nigeria Best Jobs: Online Jobsite Nigeria
+# Privacy Policy
 
 **Privacy Policy**
 
