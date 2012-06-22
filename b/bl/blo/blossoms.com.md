@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blossoms.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206011646id_/http%3A//www.blossoms.com/privacyPolicyNew.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blossoms.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622152456id_/http%3A//www.blossoms.com/privacyPolicyNew.php) for the most accurate reproduction.*
 
 # Cherry Blossoms: Privacy Policy
 
@@ -61,7 +61,7 @@ We will retain in our files information, including credit card information to su
 8\. Third Party Collections of Information   
 Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our system or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. While Cherry Blossoms, Inc. and Blossoms.com is working closely with our partners to ensure the highest privacy to you, we encourage you to ask questions before you disclose your personal information to others.
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness.
+We may use third-party advertising companies to serve ads on our behalf. These companies mayemploy cookies and action tags (also known as single pixel gifs or web beacons) to measureadvertising effectiveness. Our third party advertisers may place or recognize a unique cookie onyour browserThird party vendors , including google , can show ads on sites on the internet. Third partyvendors including Google, use cookies to serve ads based on a users prior visit to ourwebsite. You may opt out of Google's use of cookies by visiting the Google opt out pageat <http://www.google.com/privacy/ads> . You can also opt out of third party vendor's use ofcookies by visiting the Network Advertising Initiative and going to the opt out page. <http://www.networkadvertising.org/managing/opt_out.asp>
 
 9\. Security   
 Cherry Blossoms, Inc. and Blossoms.com has security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
