@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rose-gardening-made-easy.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204014924id_/http%3A//www.rose-gardening-made-easy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rose-gardening-made-easy.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623004529id_/http%3A//www.rose-gardening-made-easy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy, About Your Private Information
 
-## Privacy Policy Information For Rose Gardening Made Easy
+## Privacy Policy Information For  
+Rose Gardening Made Easy
 
-  
 It's important that you read Rose Gardening Made Easy's Privacy Policy information, before using this web site. 
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use www.rose-gardening-made-easy.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
@@ -30,6 +30,10 @@ A web beacon is a transparent image file used to monitor your journey around a s
 We may serve third party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site. 
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose. 
+
+**[Google Ad and Content Network Privacy Policy Update](http://www.google.com/privacy_ads.html)**
+
+Browsers can be set to accept or reject cookies or notify you when a cockie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with my site should you so choose. 
 
 **Children's Online Privacy Protection Act**
 
@@ -93,13 +97,4 @@ If you do not agree to rose-gardening-made-easy.com Privacy Policy as posted her
 
 Your use of this site indicates acceptance of this privacy policy. 
 
-  
-**Share this page:  **  
-
-
-What's This?
-
-| | | |   
----|---|---|---|---  
-| | |   
 ****
