@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megamarketingtools.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230031631id_/http%3A//wealthgroupinternational.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megamarketingtools.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623013354id_/http%3A//wealthgroupinternational.com/privacy.html) for the most accurate reproduction.*
 
 # Wealth Group International- Spam Policy
 
@@ -31,7 +31,7 @@ Once you confirm any such offer the privacy policies and standards of our member
 
 We will aggregate member and visitor information and perform statistical analyses of the collective characteristics and behavior of our members and visitors, to measure overall demographics and interests regarding specific areas of our network and to analyze how and where to use our resources. We also use the aggregate data collected to inform our sponsors and members as to the number of people who have seen and "clicked" on their advertisement, requested further information, or have responded to any offer provided by our members via our network. In addition, Wealth Group International Inc.may compile and disclose aggregate information about its visitors and members for promotional or other purposes. For example, we might want to disclose that a certain percentage of our members are located within a particular geographic area or fall within a particular age range. 
 
-##### Does Wealth Group International Inc. use cookies? 
+##### Does Wealth Group International Inc. use cookies?
 
 Wealth Group International Inc.uses both session cookies and persistent cookies (for an explanation of cookies, please see http://www.epic.org/privacy/internet/cookies/). Cookies help us determine how long visitors view particular content, which particular content (e.g., advertising) visitors view, which content or sites visitors link to, and which of our services members and visitors use. 
 
@@ -67,7 +67,7 @@ Las Vegas, NV 89107**
   
 The Wealth Group International Inc.services are not intended for use by anyone under the age of 18. However, as with any Web site, children can access all parts of the site which are accessible to the general public. See the "What information does Wealth Group International Inc. collect?" section of this document for an explanation of what information is publicly accessible through the Wealth Group International Inc. sites. 
 
-##### Notification of Changes 
+##### Notification of Changes
 
 If Wealth Group International Inc.intends to use your personally identifiable information in a manner different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect visitor or member information already stored in our database, we will post a prominent notice on our web site notifying visitors of the change. In some cases when we post such a notice we will also email users who have opted to receive communications from us notifying them of the changes in our privacy practices. 
 
