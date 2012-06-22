@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backinbalance.us privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223122653id_/http%3A//backinbalance.us/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backinbalance.us privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623011812id_/http%3A//www.backinbalance.us/policy.html) for the most accurate reproduction.*
 
 # Link To Us
 
@@ -85,14 +85,24 @@ This Privacy Policy may change from time to time to reflect our changing busines
 
 This Privacy Policy and our Terms of Use , both as posted on our Sites and through our Services, contain all of the material terms of regarding your use of our Websites and Services. No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Sites and Services. 
 
-[Infrared Sauna](http://pure-infrared-saunas.com/) Stress reduction and relaxation are a key benefit of Infrared Saunas. Pure Infrared Saunas offers high quality Portable Far Infrared Sauna for Sale, Infrared Home Saunas, Buy 1, 2, 3 & 4 Person Infrared Sauna at a affordable prices.
-
-[Hair transplant](http://www.olivaclinic.com/hair.php) Hair Care - Oliva Clinic - is an advanced medico aesthetic skin & hair clinic services, hair transplantation, Hair transplant, hair growth treatment, Hair Care and all other beauty treatments at Banjara Hills, Hyderabad.
-
-[Creatine Powder](http://www.beastsports.com/) Best Bodybuilding Supplements - Beastsports is a leading manufacturer of bodybuilding supplements and offers high quality products to build lean muscle mass for people who are serious about staying healthy and strong.
+[drug rehab in NJ](http://www.treatment-centers.net/directory/new-jersey.html) New Jersey drug treatment centers, alcohol rehab programs and dual diagnosis rehabilitation facilities. Comprehensive listings of addiction treatment programs in New Jersey.
 
 <http://www.breastimplantsprices.co.uk/> Compare Cosmetic Surgery UK is the largest price comparison service for breast implants prices. Get the cheapest prices from top UK cosmetic surgery clinics. For more information and to find out how much breast enlargements cost visit BreastImplantsPrices.co.uk today.
 
-[Residential Treatment Centers Troubled Teens](http://islandview.crchealth.com/) Island View adolescent residential treatment center for Troubled Teenagers, boarding school troubled youth, kids support groups and healthy futures through an unparalleled treatment program.
+[Nose Job Prices](http://www.nosejobprices.co.uk/) We recommend that being part of Compare Cosmetic Surgery UK network, NoseJobPrices.co.uk is a great option when looking for the cheapest prices for Rhinoplasty in the UK.
 
-[personal trainer greenacres](http://mcmfitness.com/) A certified personal trainer servicing clients in Fort Lauderdale, Coral Springs, Boca Raton, Deerfield Beach, Pompano Beach, and all surrounding areas. Looking for the most qualified weight trainer? Visit MCM Fitness today!
+[master in health administration](http://www.onlineuticacollege.com/programs/masters-health-care-administration.asp) The progressive curriculum of the online Master's in Health Care Administration is focused on accelerating students' learning through applied study of actual cases, relevant projects, lively discussion, and interactive learning forums.
+
+[master in public health](http://onlineprograms.cune.edu/mph/masters-degree-in-public-health-overview) If you’re looking to make a difference in the world, a profound way to do so is by helping people through greater access to medical treatment, beneficial health care policies and legislation, and practical outreach and education programs.
+
+[private health insurance](http://www.healthpartners.com.au/) Health Partners is a leading Australian Private Health Fund, providing private health insurance, Hospital, optical & extras cover since 1937.
+
+<http://www.nutritiondiscounters.com/> Since 1992, one of the largest selections in nutrition supplements, vitamins, and muscle-building sports nutrition at discount prices! EAS, Optimum Nutrition, BSN, MuscleTech and Protein Powder! We are an innovative product supplier for body builders.
+
+[Ephedra Weight Loss Diet Pills](http://www.bingproducts.com/) If you are searching to buy online ephedra weight loss diet pills for sale. Then just check out http://www.bingproducts.com/ for the sale of ephedra products.
+
+[Pills With Pure Ephedrine](http://www.bingephedrine.com/) If you are looking pure ephedrine and pills with Pills With Pure Ephedrine of best quality for weight loss. Then just check out at http://bingephedrine.com/ and get your ephedrine pill
+
+[Gastric Band Surgery Glasgow](http://www.assureweightloss.com/what-we-do/implanted-devices/gastric-banding-lap-banding/) Gastric banding involves placing an adjustable silicone band around the upper part of your stomach. It works by making you feel full sooner so that you eat less.
+
+[Private STI Clinic Glasgow](http://www.embracesexualhealth.co.uk/about-us/) Embrace Sexual Health. Nuffield Hospital Glasgow. Specialized Sexual Health Clinic in Glasgow. We offer STI or STD Treatments, Chlamydia screening, HIV & AIDS testing, Genital Herpes treatments & all treatments related to sexual health.
