@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashexplained.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121234342id_/http%3A//flashexplained.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashexplained.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623011413id_/http%3A//flashexplained.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flash Explained
 
@@ -21,14 +21,3 @@ We will not retain any details that you provide, except for your email address i
 ### Links
 
 This website contains links to other websites. Please be aware that We are not responsible for the privacy practices of other websites. We encourage you, when you leave this website, to read the privacy statements/policies of each and every website you visit, as this particular privacy policy applies solely to this particular website.
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fflashexplained.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fflashexplained.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fflashexplained.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fflashexplained.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fflashexplained.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=We%20respect%20your%20right%20to%20privacy.%20None%20of%20the%20information%20we%20collect%20%20is%20passed%20on%20to%20other%20parties%2C%20except%20when%20required%20as%20part%20of%20the%20%20business%20services%20we%20provide%20for%20you%2C%20or%20as%20required%20under%20the%20international%20law.%0D%0AData%20Collection%0D%0AWe%20collect%20n "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fflashexplained.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fflashexplained.com%2Fprivacy-policy%2F&srcTitle=Flash+Explained+Learn+Flash+easily. "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fflashexplained.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Flash+Explained+Learn+Flash+easily.&summary=We%20respect%20your%20right%20to%20privacy.%20None%20of%20the%20information%20we%20collect%20%20is%20passed%20on%20to%20other%20parties%2C%20except%20when%20required%20as%20part%20of%20the%20%20business%20services%20we%20provide%20for%20you%2C%20or%20as%20required%20under%20the%20international%20law.%0D%0AData%20Collection%0D%0AWe%20collect%20n "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fflashexplained.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
