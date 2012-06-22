@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the dailyhoroscope.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605064638id_/http%3A//www.dailyhoroscope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyhoroscope.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622230904id_/http%3A//www.dailyhoroscope.com/privacy) for the most accurate reproduction.*
 
 # DH Privacy Policy
-
-Dailyhoroscope.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with 
-
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.dailyhoroscope.com&sealid=101)
-
-[TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@dailyhoroscope.com](mailto:support@dailyhoroscope.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). If you have concerns regarding this privacy statement you can report them to TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint&url=www.dailyhoroscope.com). The TRUSTe program covers only information that is collected through this Website, and does not cover information that may be collected through software downloaded from the site.
 
 dailyhoroscope.com may gather information for the following reasons:
 
