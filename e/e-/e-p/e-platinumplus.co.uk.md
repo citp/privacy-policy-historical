@@ -1,233 +1,178 @@
-> *The following text is extracted and transformed from the e-platinumplus.co.uk privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604010215id_/http%3A//post.securecbs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-platinumplus.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622095721id_/http%3A//post.securecbs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy UK
 
-  
+This Privacy Policy (the "Policy") has been prepared by Credit Benefit Services, LLC ("CBS", "we" or "us") to meet the requirements of the Data Protection Act 1998, (the "Act") and it only relates to the collection, protection, disclosure and use of personal data belonging to living individuals. It does not relate to data which emanates from companies or other entities, although the general principles regarding our collection and use of data is broadly the same irrespective of whoever is the user of our website, or our customers.
 
+CBS is registered under the Act with registration number: Z1437235 and will act as the data controller.
 
-## LEGAL DISCLOSURES
-
-  
-
-
-## Privacy Policy (CBS Marketing Network Sites)
-
-This page sets forth the privacy policies and practices of Credit Benefit Services, LLC ("CBS") and its wholly owned websites. CBS is a credit intermediary and does not exclusively represent any single lender. Please read this privacy policy carefully since by visiting a CBS site and sharing information with one our companies you agree to be bound by the terms and conditions of this Privacy Policy unless you offer different terms which are accepted by CBS in writing. 
+This Policy (together with our [Terms of Use](http://post.securecbs.com/terms.html) and [Cookie Policy](http://post.securecbs.com/cookies.html)) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data.
 
   
 
 
-**STATEMENT OF RESPONSIBLE ONLINE MARKETING**
+  1. INFORMATION WE MAY COLLECT FROM YOU
+_1.1_
+    * We may collect and process the following data about you:
+_1.1.1_
+      * information that you may provide by filling in online forms and registration forms our "Site", we may also ask you for information in the event you report a problem with our Site;
+_1.1.2_
+      * correspondence, or a record of it should you contact us; 
+_1.1.3_
+      * surveys that we use for research purposes, which we may ask you to complete, although you do not have to respond to them; 
+_1.1.4_
+      * details of your visits to our Site (including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise) and the resources that you access;
+_1.1.5_
+      * information to help verify your identity;
+_1.1.6_
+      * information from third parties in respect of you which may include your employer, a referee or a person residing or working from another country. 
+  2. IP ADDRESSES AND COOKIES
 
-CBS’s information usage practices are based on two beliefs: first, that protecting user privacy is essential to the growth and prosperity of the Internet; second, that a personalized web experience can provide significant benefits to Internet end users if done properly. 
+Please also refer to the [Cookie Policy](http://post.securecbs.com/cookies.html).
 
-Consumer Privacy | Client Privacy
+_2.1_
+    * A "cookie" is a small electronic file that collects information when someone visits a website. A cookie can identify the pages that are being viewed, and this can assist us to select the pages that the viewer sees. Some cookies only exist whilst viewers are online, but "persistent" cookies - which are not session-based - remain on the viewer's computer, so that he or she can be recognised as a previous visitor when he or she next visits our Site. This allows us to collect information about a viewer's browsing habits whilst on our Site, and this can be useful in assisting us to monitor and improve our services.
+_2.2_
+    * We do not store sensitive information such as account numbers or passwords in "persistent" cookies, and cookies in themselves, do not contain enough information to identify you. You will only acquire a personal identity in relation to your browsing habits after you have formally provided us with your personal data for the purposes outlined below.
+_2.3_
+    * In addition to using cookies, we might also use web tools to collect information about your browsing activities whilst on our Site. In this respect the information that is provided is similar to the information supplied by cookies, and we use it for the same purposes.
+_2.4_
+    * Any information that we acquire about you using cookies or web tools is subject to the same restrictions and conditions as any other information we collect about you.
+_2.5_
+    * Some of our advertisers may also use cookies or web tools that are set by other people such as advertising agencies, or the businesses to which the advertisements in question relate. We do not have access to any information that might be collected in this way, and, if you are concerned, you should contact the advertiser for more information.
+_2.6_
+    * If you want to delete any cookies already stored on your computer or stop the cookies that keep track of your browsing patterns on the Site you can do so by deleting your existing cookies and/or altering your browser's privacy settings to block third party cookies (the process you follow will differ from browser to browser). If you would like more information on how to do this please visit http://www.allaboutcookies.org/. Please note that deleting our cookies or disabling our future cookies means that you may not be able to access certain areas or features of the Site.
+  3. WHERE WE STORE YOUR PERSONAL DATA
+_3.1_
+    * CBS employs industry standard security measures to ensure the security of all data. Any data that is stored on CBS's secure servers is treated as proprietary and confidential and is not available to the public. CBS has an internal security policy with respect to the confidentiality of customer and other data, allowing access only to those employees or third parties who have a need to know such information for the purpose of effectively delivering CBS products and services by means of user login and password requirements. CBS routinely evaluates its data security practices to identify security threats or opportunities for improvement.
+_3.2_
+    * No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of CBS to intercept or access transmissions or private communications unlawfully. While we strive to protect your data, CBS cannot ensure or warrant the security of any information you transmit to us.
+_3.3_
+    * We ask you not to permit anyone to use your name. We will retain your information securely stored for a reasonable period or for as long as the law requires.
+  4. HOW WE USE YOUR INFORMATION
+_4.1_
+    * We use information held about you in the following ways:
+_4.1.1_
+      * to process and submit your application form to lenders and/or third party marketing partners ("Our Partners);
+_4.1.2_
+      * to provide you with the best possible service;
+_4.1.3_
+      * to ensure that content from our Sites is presented in the most effective manner for you and for your computer; and
+_4.1.4_
+      * to notify you about changes to our products and services.
+_4.2_
+    * We use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you, and we or they may contact you about these by post, e-mail telephone and/or text message. We may receive information from another lead provider/broker, namely any third party entity which provides services or information to customers regarding the availability and terms for short term loans and which provides us with information and customer lead generation.
+_4.3_
+    * If you wish to opt-out of receipt of these marketing communications from us at any time you may do so by sending an email to us at [legal@creditbenefitservices.com](mailto:legal@creditbenefitservices.com) or by writing to us at Credit Benefit Services LLC, 2 Minton Place, Victoria Road, Bicester, Oxfordshire OX26 6QB. 
+_4.4_
+    * If you opt-out of our use of your data for marketing purposes, we will honour such choice once we have had a reasonable opportunity to process your request. We reserve the right to take reasonable steps to authenticate your identity with respect to any such request or other enquiry.
+_4.5_
+    * Any information or statistics relating to our business that we disclose to others shall not identify you personally. We may, for example, perform statistical analysis of the behaviour of the users of our Site in order to measure interest in the various areas of our site and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. This information, and any other general information about our users that we share with advertisers and other partners, will not disclose personal information about you.
+  5. DATA TRANSFER 
+_5.1_
+    * Personal data held shall only be transferred to a country outside the EEA if there is adequate protection in that country.
+_5.2_
+    * As a US-based business, it is sometimes necessary for CBS to transfer personal data to the US for processing purposes. Such data transfer has been notified to the Information Commissioner's Office ("ICO") in compliance with the Act."
+_5.3_
+    * CBS complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  CBS has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view CBS’s certification, please visit <http://www.export.gov/safeharbor/>. 
+  6. DISCLOSURE OF YOUR INFORMATION
+_6.1_
+    * We may disclose your personal information to third parties:
+_6.1.1_
+      * to prepare or send any communications to you, or to assist us in connection with any of our administrative or business functions, or in the provision of any of our services to you;
+_6.1.2_
+      * if CBS or substantially all of its assets, are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets; 
+_6.1.3_
+      * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](http://post.securecbs.com/terms.html) and other agreements; or to protect the rights, property, or safety of CBS, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  7. INFORMATION SHARING
+_7.1_
+    * CBS may make any data provided in response to an advertisement available to the company sponsoring the advertisement, as well as to other trusted third parties in accordance with the terms of this privacy policy. As a result, you may receive information on additional products, services and offers that may be of interest to you.
+_7.2_
+    * CBS and/or our marketing partners may enhance and/or merge data about consumers who have opted-in to receive marketing communications with commercially-available third party data collected from other sources in an effort to ensure that the messages being sent to the consumer in online and/or offline marketing programs are relevant to their interests. We will take reasonable steps to maintain the integrity and quality of that information that we enhance and/or merge with data collected from other sources. 
+_7.3_
+    * CBS may share data (including information that has been enhanced with information from other sources) with advertisers, third party marketers and our affiliated entities for their online and/or offline marketing programs. While CBS strongly encourages clients and partners to adopt responsible approaches to online marketing, CBS is not responsible for the information practices of clients or their partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies, which may differ from CBS.
+  8. YOUR RIGHTS
+_8.1_
+    * Our Site may, from time to time, contain links to and from the websites of our advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own Privacy Policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+_8.2_
+    * Section 7 of the Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act by writing to us at [legal@creditbenefitservices.com](mailto:legal@creditbenefitservices.com) or Credit Benefit Services, 2 Minton Place, Victoria Road, Bicester, Oxfordshire, OX26 6QB. Any access request may be subject to a small statutory fee to meet our costs in providing you with details of the information we hold about you.
+_8.3_
+    * Calls between us may be recorded and/or monitored.
+_8.4_
+    * If you want to change, modify or update your member information you can do so by submitting a form on the "Contact Us" page of the website. Alternatively you can call or write to us on the contact details listed above.
+_8.5_
+    * If you were introduced to us by a third party, we will give them your contact details and sufficient information about you for their accounting and administration purposes.
+_8.6_
+    * We may give information about you and how you manage your account to the following:
+_8.6.1_
+      * people who provide a service to us or are acting as our agents on the understanding that they will keep the information confidential. If they are located in another country we will make sure that they agree to apply the same levels of protection as we are required to apply to information held in the UK and to use your information only for the purpose of providing the service to us;
+_8.6.2_
+      * anyone to whom we transfer or may transfer our rights and duties under this agreement; and
+_8.6.3_
+      * we may also give out information about you if we have a duty to do so or if the law allows us to do so.
+_8.7_
+    * Otherwise we will keep information about you confidential.
+_8.8_
+    * CBS will attempt to resolve any complaint that you may have in relation to data protection issues. In the alternative, or if you are not happy with our final response you have the right to have your complaint dealt with by the ICO. 
+  9. CREDIT REFERENCE AND FRAUD PREVENTION AGENCIES
+_9.1_
+    * When you submit an application form you confirm that all the information you have given is true and complete. When you submit an application form you authorise our partners to check the following records about you and others:
+_9.1.1_
+      * our own;
+_9.1.2_
+      * those at credit reference agencies (CRAs); and
+_9.1.3_
+      * those at fraud prevention agencies (FPAs).
+_9.2_
+    * Our Partners will make checks such as are deemed necessary to assess your application for credit.
+_9.3_
+    * If you tell us that you have a spouse or financial associate, our Partners will link your records together so you must be sure that you have their agreement to disclose information about them. CRAs also link your records together and these links will remain on your and their files until such time as you or your partner successfully files for a disassociation with the CRAs to break that link.
+_9.4_
+    * If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies.
+_9.5_
+    * Law enforcement agencies may access and use this information.
+_9.6_
+    * We and other organisations including Our Partners may also access and use this information to prevent fraud and money laundering, for example, when:
+_9.6.1_
+      * checking details on applications for credit and credit related or other facilities;
+_9.6.2_
+      * managing credit and credit related accounts or facilities;
+_9.6.3_
+      * recovering debt;
+_9.6.4_
+      * checking details on proposals and claims for all types of insurance; or
+_9.6.5_
+      * checking details of job applicants and employees.
+_9.7_
+    * We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
+_9.8_
+    * Your data may also be used for other purposes for which you give your specific permission or, in very limited circumstances, when required by law or where permitted under the terms of the Data Protection Act 1998.
+  10. CHANGES TO OUR PRIVACY POLICY
+
+We reserve the right to change this Policy at any time and any changes we may make to our Privacy Policy in the future will be posted on this page.
 
   
 
+  11. CONTACT
+_11.1_
+    * Questions, comments and requests regarding this Policy are welcomed at [legal@creditbenefitservices.com](mailto:legal@creditbenefitservices.com) or Credit Benefit Services, LLC, 2 Minton Place, Victoria Road, Bicester, Oxfordshire, OX26 6QB.
+_11.2_
+    * ##### ***Complaints:***
 
-## CONSUMER PRIVACY
+As a credit broker, our services are subject to the jurisdiction of the Financial Ombudsman Service. If you have a complaint about our services, you should write to us and we will endeavour to resolve it as soon as possible. If we do not respond within a maximum of 8 weeks or you disagree with our response, you have the right to refer the complaint to: 
 
-  
+The Financial Ombudsman Service  
+South Quay Plaza  
+83 Marsh Wall  
+London  
+E14 9SR 
 
+Web: www.financial-ombudsman.org.uk  
+Telephone 020 7964 1000  
+Fax: 020 7964 1001  
+Email: [complaint.info@financial-ombudsman.org.uk](mailto:complaint.info@financial-ombudsman.org.uk)
 
-## I. INFORMATION WE COLLECT: INDIVIDUAL INTERNET CONSUMERS
 
-**A. Personally Identifiable Information (PI).**
 
-CBS sites are designed to promote and facilitate the business of the CBS companies with advertisers and marketers. PI may be collected should a consumer contact a CBS company on his/her own initiative or respond to a CBS advertisement and provide any PI. Under no circumstances does CBS request or collect sensitive PI such as an Internet user's medical/health conditions; racial or ethnic origin; political, religious or philosophical beliefs or affiliations; trade union membership or sex life.
 
-**B. Non-Personally Identifiable Information (NPI).**
-
-When a consumer responds to or views an Internet advertisement served by a CBS company (such as through third-party Web sites or email solicitation) or visits a CBS site, we send a cookie and/or gif file ("Cookies") to assign an anonymous, unique identifier to the end user's Internet browser. Cookies are small data files commonly used on the Internet to help optimize and personalize the Internet end user experience and identify repeat visitors to Web sites.
-
-The function of these Cookies is to provide CBS with information for the purpose of paying third-parties commissions when an Internet user clicks on a link, creates a lead, or makes a purchase on an advertiser's Web site; and also to optimize and personalize the Internet user's experience. If the Internet user re-visits the advertiser's site directly, CBS is able to continue to track the user's activities on the advertiser's site and reward the third-party Web site that referred the user. We reserve the right to retain all ad delivery and reporting data as long as may be reasonably necessary for accounting and audit purposes.
-
-Like most standard Web site servers, we use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content.
-
-We also may use Internet browsing and online purchase data associated with an anonymous identifier to develop a predictive statistical user profile of the end user's needs and interests. CBS does not use Cookies or log files to collect end user's names, physical addresses, email addresses, phone numbers, credit card numbers, NIN, social security numbers, or any other information which can be used to identify a specific person. We may match the IP address and user profile with email address data obtained separately in order to better target campaigns to meet user's interests, but will not share this information with third parties.
-
-For improved audience targeting, some CBS sites use marketing technology that allows advertisers to add non-personally-identifying demographic information, such as age, gender, area code, or ZIP code, to the non-identifiable profile data. Thus, there is no direct connection between an end user's online choice and his or her personal identity.
-
-In some cases, CBS receives and records partial email addresses of Internet users, only in circumstances where the user voluntarily provided its identity and contact information through the Advertiser's site or third-party marketer's site. This partial email address does not enable CBS to personally identify an Internet User. 
-
-  
-
-
-## **II. INFORMATION SHARING**
-
-CBS may make any PI provided in responding to an advertisement available to the company sponsoring the advertisement, as well as to other trusted third parties in accordance with the terms of this privacy policy. As a result, you may be contacted or receive information on additional products, services and offers that may be of interest to you via post, telephone, automated dialing, email or mobile text and/or voice messaging services.
-
-CBS and/or our marketing partners may enhance and/or merge PI about consumers who have opted-in to receive marketing communications with commercially-available third party data collected from other sources in an effort to ensure that the messages being sent to the consumer in online and/or offline marketing programs are relevant to their interests. In the event we enhance and/or merge such personally identifiable information with data collected from other sources, we will take reasonable steps to maintain the integrity and quality of that information.
-
-CBS may share PI (including information that has been enhanced with information from other sources) with advertisers, agents, processors, sub-contractors, third party marketers, our affiliated entities for their online and/or offline marketing programs or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, reorganization or liquidation of any of CBS companies. While CBS strongly encourages clients and partners to adopt responsible approaches to online marketing, CBS is not responsible for the information practices of clients or their partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies, which may differ from CBS's policy.
-
-CBS may release account and any other personal information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our [Terms of Use](http://post.securecbs.com/terms.html) and other agreements; or protect the rights, property, or safety of CBS or others. This includes exchanging information with other companies and organizations for fraud protection.
-
-If false or inaccurate information is provided, including in relation to a person.s identity and fraud is identified, details about this information, including customer Personal Data, will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. The lender and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related and other facilities; managing credit and credit related accounts or other facilities; recovering debt; checking details on proposals and claims for all types of insurance; and checking details of job applicants and employees. The lender and other organisations may access and use from other countries the information recorded by fraud prevention agencies. For further details of the relevant fraud prevention agencies please contact us as described at the end of this Privacy Policy. 
-
-  
-
-
-## **III. CONSUMER CHOICE AND ACCESS**
-
-**A. Opting Out.**
-
-Some CBS Cookies have an "opt-out" option. This process does not remove the CBS Cookie from your system; it simply replaces it with an opt-out Cookie that does not contain any unique identifiers. If this site provides such a process it is detailed below.
-
-Some of CBS's Cookies do not have an "opt-out" option, yet you still have the option of blocking the use of Cookies by changing a setting in your Internet browser. Please see your browser supplier's Web site for details on how to do this.
-
-This site does not maintain a process for an individual consumer to opt-out of a CBS ad serving Cookie. 
-
-**B. Accessing Consumer Information.**
-
-Because they are not directed towards individual Internet users, most CBS sites do not maintain a process for an individual consumer to review and/or request changes to any PI collected.
-
-Except as provided below, this site does not maintain a process for an individual consumer to access his/her PI.
-
-  
-
-
-## **IV. SECURITY**
-
-CBS employs industry standard security measures to ensure the security of all data. Any data that is stored on CBS's servers is treated as proprietary and confidential and is not available to the public. CBS has an internal security policy with respect to the confidentiality of customer and other data, allowing access only to those employees or third parties who have a need to know such information for the purpose of effectively delivering CBS products and services by means of user login and password requirements. CBS routinely evaluates its data security practices to identify security threats or opportunities for improvement.
-
-No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of CBS to intercept or access transmissions or private communications unlawfully. While we strive to protect your PI, CBS cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with a CBS company. 
-
-  
-
-
-## **V. CONSENT AND CHANGES**
-
-CBS may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by CBS prior to the effective date of the policy change
-
-  
-
-
-## **VI. CHILDREN'S PRIVACY AND SPAM**
-
-CBS is very sensitive to the issue of children's privacy and makes every effort to protect the privacy of children using the Internet. CBS's Web site, products, and services are not developed for or directed at children. Children (persons under the age of 18) are not eligible to do business with us and we do not collect personal information from any person we actually know is under the age of 13. If you believe your child has provided CBS with any personally identifiable data by registering at a CBS Web site, please contact us at <http://www.creditbenefitservices.com/unsubscribe/> to have them removed.
-
-CBS is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701) and the Data Protection Act 1998. It is our policy to prohibit the sending of unsolicited or "Spam" e-mail by CBS or any of its marketing partners.
-
-Please note that under the CAN-SPAM Act, an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails about the advertiser. Although not required to by law, many email marketers also include an opt-out mechanism to enable consumers to be removed from their mailing list. This has caused some confusion for consumers in opting out. The table below clarifies which opt-out mechanism you should use for commercial emails. 
-
-To receive no further emails . . .  | Opt-Out Mechanism to Use   
----|---  
-about the advertiser  | Advertiser's   
-from the email marketing company  | Opt-Out Mechanism to Use   
-from the advertiser or email marketing company  | Both   
-  
-
-
-## **VII. DATA PROCESSING/SAFE HARBOR**
-
-The European Union ("EU") maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, CBS adheres to privacy operational procedures mutually acceptable in both jurisdictions.
-
-By providing information to CBS sites, you acknowledge that they operate in the United States and agree to (i) permit CBS to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by CBS shall be subject to the terms and conditions stated in this Privacy Statement and our [TERMS OF USE](http://freecashlocator.co.uk/terms.html).
-
-  
-
-
-## **VIII. INTENTIONALLY OMITTED.**
-
-  
-
-
-## **IX. LIMITATION OF LIABILITY, THIRD PARTY INFORMATION & LANGUAGE**
-
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND OUR [TERMS OF USE](http://post.securecbs.com/terms.html) (INCLUDING LIMITATIONS ON DAMAGES, AND ARBITRATION OF DISPUTES). YOU AGREE THAT CBS' LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE GREATER OF THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY CBS OR $250 TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to CBS with regard to: (a) the purposes for which such third party's personal data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais.
-
-**CONTACT US**
-
-For more information or if you have questions or concerns regarding the CBS Privacy Policy, please contact us at [legal@creditbenefitservices.com](mailto:legal@creditbenefitservices.com) or you can send correspondence to the following address: Privacy, CBS, 2451 Cumberland Parkway, Suite 3231, Atlanta, GA 30339-6157, USA.
-
-  
-
-
-## **CLIENT PRIVACY**
-
-  
-
-
-## **I. INFORMATION WE COLLECT: ADVERTISERS AND PUBLISHERS**
-
-**A. Personally Identifiable Information (PI).**
-
-CBS collects personally identifiable information from all Advertisers and Publishers (collectively "Clients") wishing to work with any CBS company. The collection of this information is a part of our normal business practices. Advertisers or their representatives will be asked to provide personally identifiable data through the host sign up and registration process. Examples of personally identifiable data that may be requested include name, address, phone number, email address, and social security number, tax ID number, etc. CBS will never request or collect data from a Client on subject areas including medical/health conditions; racial or ethnic origin; political, religious or philosophical beliefs or affiliations; trade union membership or sex life.
-
-**B. Non-Personally Identifiable Information (Non-PI).**
-
-CBS may use cookies and log files to optimize and personalize the Client's experience and allow CBS to monitor site traffic patterns.
-
-  
-
-
-## **II. INFORMATION SHARING**
-
-CBS does not use any personally identifiable data about a Client for profiling purposes. All PI that CBS collects from Clients is principally intended for administrative needs (e.g., accounting and pay-out and performance reporting), for which purpose such data are required.
-
-CBS may provide email address and basic account data to an Advertiser or Publisher to facilitate a potential or continued working relationship between the Advertiser and Publisher. Once an affiliation is established, Advertiser and Publisher (or their agents or other third parties as designated by a Client) are privy to their respective campaign information and PI, including anonymous Internet user transaction data for Internet users referred by Publisher and any other information that a Client may instruct CBS to disclose. While CBS strongly encourages Clients to adopt responsible approaches to online marketing, CBS is not responsible for the information practices of Clients or their partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies, which may differ from CBS's policy.
-
-Periodically CBS sites may use Client's PI in order to communicate with our network of hosts via email newsletters or other avenues to offer strategic marketing information and other communications to assist in business related activities. In the event that a Client of CBS wishes not to have their PI used for these purposes, they may elect to opt-out from future communications. For more information on opting-out please see the "Client Choice Concerning Data Collection" section below.
-
-Except as may be agreed between a CBS company and a Client, all PI data provided by individual Clients will be kept in strict confidence by CBS companies and will be treated with the same level of respect and care that they treat other proprietary information and trade secrets. CBS will never sell, rent, exchange or barter any personally identifiable Client information to or with any third party for financial gain or marketing purposes. CBS may, from time to time, provide such information to certain third-party administrative vendors for efficiency purposes in providing administrative or program management services such as billing, delivery and payouts. Any third-party vendor so used has agreed to protect the confidentiality of information provided by CBS.
-
-CBS may share PI in connection with our affiliated entities or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, or reorganization or liquidation of any of the CBS companies. CBS may release account and any other personal information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our [Advertiser Terms of Use*](http://post.securecbs.com/terms.html), [Publisher Terms of Use*](http://post.securecbs.com/terms.html) and other agreements; or protect the rights, property, or safety of CBS or others. This includes exchanging information with other companies and organizations for fraud protection.
-
-  
-
-
-## **III. CLIENT CHOICE AND ACCESS**
-
-When a Client registers for services with a CBS company, PI is required as a part of doing business. CBS's primary intent in collecting personally identifiable information is for administrative purposes including accounting and payouts. However, CBS may periodically use personally identifiable information for marketing and communication purposes targeted to our Clients. Clients wishing not to receive such communications from a CBS company may do so by "opting-out" during the registration and application procedure process. A Client may change their opt status at anytime during their tenure with CBS by accessing their online account.
-
-When a Client logs on any browser-based CBS reporting system, a "Cookie" is placed within their computer. The purpose of the Cookie is to allow CBS to validate the identity of the Client and maintain the security and privacy of the Client's account data. This Cookie is required to log into CBS's reporting systems and there is no method to opt-out of this Cookie. 
-
-  
-
-
-## **IV. SECURITY**
-
-CBS employs industry standard security measures to ensure the security of all data. Any data that is stored on CBS's servers is treated as proprietary and confidential and is not available to the public. CBS has an internal security policy with respect to the confidentiality of customer and other data, allowing access only to those employees or third parties who have a need to know such information for the purpose of effectively delivering CBS products and services by means of user login and password requirements. CBS routinely evaluates its data security practices to identify security threats or opportunities for improvement.
-
-No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of CBS to intercept or access transmissions or private communications unlawfully. While we strive to protect your PI, CBS cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with a CBS company. 
-
-  
-
-
-## **V. CONSENT AND CHANGES**
-
-CBS may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by CBS prior to the effective date of the policy change.
-
-  
-
-
-## **VI. DATA PROCESSING/SAFE HARBOR**
-
-The European Union ("EU") maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, CBS adheres to privacy operational procedures mutually acceptable in both jurisdictions.
-
-By providing information to CBS sites, you acknowledge that they operate in the United States and agree to (i) permit CBS to transmit and use your User information anywhere necessary, including across international boundaries, to effect the services and transactions provided by this Site; and (ii) that such use by CBS shall be subject to the terms and conditions stated in this Privacy Statement and our [Advertiser Terms of Use*](http://post.securecbs.com/terms.html) and [Publisher Terms of Use*](http://post.securecbs.com/terms.html).
-
-  
-
-
-## **VII. INTENTIONALLY OMITTED**
-
-  
-
-
-## **VIII. LIMITATION OF LIABILITY, THIRD PARTY INFORMATION & LANGUAGE**
-
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND OUR [ADVERTISER TERMS OF USE*](http://post.securecbs.com/terms.html) and [PUBLISHER TERMS OF USE*](http://post.securecbs.com/terms.html) (INCLUDING LIMITATIONS ON DAMAGES, AND ARBITRATION OF DISPUTES). YOU AGREE THAT CBS' LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY CBS TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to CBS with regard to: (a) the purposes for which such third party's personal data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais.
-
-  
-
-
-## **IX. CONTACT US**
-
-For more information or if you have questions or concerns regarding the CBS Privacy Policy, please contact us at [legal@creditbenefitservices.com](mailto:legal@creditbenefitservices.com) or you can send correspondence to the following address: Privacy, CBS, 2451 Cumberland Parkway, Suite 3231, Atlanta, GA 30339-6157, USA.
-
-* The agreements linked from this page are to the standard agreements. If you have entered into a custom agreement with the Company, then the references here are to be interpreted as referring to such custom agreement.
-
-July 21, 2010 
+Last updated **17th May 2012.**
