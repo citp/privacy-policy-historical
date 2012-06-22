@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockbuster.co.uk privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126154233id_/http%3A//www.blockbuster.co.uk/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockbuster.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622172513id_/http%3A//www.blockbuster.co.uk/help/privacy.aspx) for the most accurate reproduction.*
 
 # Blockbuster Entertainment Limited ('Blockbuster', 'Us', 'We' or 'Our') is committed to protecting Our users' privacy
 
@@ -22,7 +22,8 @@ Blockbuster's use of personally identifiable information
 Blockbuster may use Personal Information collected online in the following ways: 
 
   * to develop and improve the products, benefits and services We or carefully selected business partners offer to Our registered users and other users of the Site; 
-  * to enable users to become registered users of the Site;
+  * to enable users to become registered users of the Site and to join VIP Gamer;
+  * to operate and administer VIP Gamer, including to send you statements by email showing the number of your reward points and details of offers and rewards for VIP Gamer members. If you use a voucher obtained through your VIP Gamer membership to make a purchase in a Blockbuster store at the same time as using your Blockbuster store membership account your store membership will be automatically linked to your VIP Gamer membership. If You are a Blockbuster store member (primary account holder) You can also choose to link the two accounts together on this Site. Any VIP Gamer reward points earned in-store or online will appear on your statements;
   * for processing customer orders;
   * for Site administration and development (for example to analyse usage trends and to make improvements to the Site in accordance with such usage trends); 
   * for processing job applications submitted online to Us;
