@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbandecay.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205181405id_/http%3A//www.urbandecay.com/privacypolicy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbandecay.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622231926id_/http%3A//www.urbandecay.com/privacypolicy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy & Security for UrbanDecay.com
 
