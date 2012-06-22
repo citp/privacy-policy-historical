@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raisingchildren.net.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213501id_/http%3A//raisingchildren.net.au/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raisingchildren.net.au privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622195120id_/http%3A//raisingchildren.net.au/privacy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Raising Children Network
 
@@ -18,11 +18,8 @@ Non-identifying statistical information collected could include your server addr
 
 If you have any questions about your privacy, please [email the Privacy Officer](mailto:privacy@raisingchildren.net.au?subject=Privacy%20enquiry) or contact:
 
- **Raising Children Network Privacy Officer**  
-6th Floor SE Building  
+**Raising Children Network Privacy Officer**   
 Royal Children’s Hospital   
 Flemington Road   
 Parkville  Victoria  3052  
 Australia
-
- 
