@@ -1,25 +1,40 @@
-<!--The following is the downloaded HTML source of the newsminer.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102002753id_/http%3A//newsminer.com/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newsminer.com privacy policy that was archived on 2012-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622090711id_/http%3A//www.newsminer.com/pages/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 
 <link rel="shortcut icon" href="/sites/635/assets/favicon_good.png">
 
+
  <title>Fairbanks Daily News-Miner - The voice of Interior Alaska since 1903</title> 
+
  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  <meta property="og:title" content="">
  <meta property="og:type" content="article">
+ 
    <meta property="og:image" content="/images/article.jpg">
+ 
+
 
   <meta name="keywords" content="Fairbanks, Alaska, News-Miner, Daily, News-Miner"> 
+
+
+   
      <meta name="description" content="The Fairbanks Daily News-Miner - news, weather, sports, Arctic Cam, lifestyles and more about living in Alaska's Interior"> 
+   
+
+
 <link id="default_facebook_image" rel="image_src" href="/images/article.jpg">
 
-      <link href="http://assets.matchbin.com/sites/635/stylesheets/newsminer.com.css" media="all" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" charset="utf-8" src="http://assets.matchbin.com/javascripts/jsball.js"></script>
 
-  <script>
+
+<link href="http://assets.matchbin.com/templates/publication_pods/stylesheets/global-cssball.css" media="all" rel="stylesheet" type="text/css">            <link href="http://assets.matchbin.com/sites/635/stylesheets/newsminer.com.css" media="all" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" charset="utf-8" src="http://assets.matchbin.com/javascripts/jsball.js"></script>
+
+
+  <script type="text/javascript">
 	function toggleSearch(which) {
 		$A($('pt1_search_element_bar').childNodes).each(function(element) {
 			if(element.tagName == 'DIV') {
@@ -67,156 +82,13 @@
 		})
 
 		toggleSearch(which_search)
-		
-		/* Do a little cascading initializing */
-		initWeather()
-		initMenu()
 	}
 
-	function initWeather() {
-        if(!$('xml_feed_data_weather_weather')) { return false }
-
-        
-        document.body.appendChild(Builder.node('div', { id:'rendered_weather' }, ''))
-        $('rendered_weather').appendChild(Builder.node('div', { id:'rendered_weather_icon' }, ' '))
-        $('rendered_weather').appendChild(Builder.node('div', { id:'rendered_weather_label' }, ''))
-        $('rendered_weather_label').appendChild(Builder.node('span', { id:'rendered_weather_label_temperature' }, $('xml_feed_data_weather_temp_f').value + '°'))
-        $('rendered_weather_label').appendChild(Builder.node('span', { id:'rendered_weather_label_conditions' }, $('xml_feed_data_weather_weather').value))
-        $('rendered_weather').appendChild(Builder.node('a', { id:'rendered_weather_link', href:$('xml_feed_weather_more_info').value, target:'_NEW', className:'link' }, 'more'))
-
-        w = $('xml_feed_data_weather_weather').value
-        c = $('rendered_weather_icon')
-
-        if(w.search(/Cloud|Overcast|Fog|Smoke|Haze/) != -1) { c.className = 'weatherCloudyIcon' }
-        if(w.search('Snow') != -1) { c.className = 'weatherSnowIcon' }
-        if(w.search(/Fair|Clear/) != -1) { c.className = 'weatherClearIcon' }
-        if(w.search('Thunder') != -1) { c.className = 'weatherThunderIcon' }
-        if(w.search(/Ice|Hail/) != -1) { c.className = 'weatherThunderShowersIcon' }
-        if(w.search(/Showers|Drizzle/) != -1) { c.className = 'weatherShowersIcon' }
-        if(w.search('Rain') != -1) { c.className = 'weatherRainIcon' }
-    
-        setWeatherPositions()
-    }
-    
-    window.onresize=setWeatherPositions;
-    
-    function setWeatherPositions()
-    {
-        if(!$('rendered_weather')){return false}
-        var y_offset_from_top_of_page = 20
-        var x_offset_from_left_edge_of_banner = 175
-        
-        /* Weather widget location */
-        var window_width = Position.getPageSize().window.width
-        var left_margin = (window_width) / 2 //assuming that the page is centered left to right - it's true in this case. TODO: fix
-        if (left_margin < 0){left_margin = 0} //ignore it - this prevents movement when the page is smaller than the bar(~960)
-
-        $('rendered_weather').style.left = x_offset_from_left_edge_of_banner + left_margin
-        $('rendered_weather').style.top = y_offset_from_top_of_page
-    }
+	
     
 	
-	function toggleMenu(which) {
-		$A($('pt1_main_menu').childNodes).each(function(element) {
-			if(element.className == 'pt1_item_active') {
-				element.className = 'pt1_item'
-			}
-		})
-		
-		$A($('pt1_sub_menu').childNodes).each(function(element) {
-			if(element.className == 'pt1_menu_group') {
-				element.style.display = 'none'
-			}
-		})
-		
-		$(which).className = 'pt1_item_active'
-		$(which + '_group').style.display = 'block'
-	}
-	
-	function initMenu() {
-		var pages = [
-			/* Default page */
-			[/\/$/, 'home'],
-			/* Others */
-			[/\/about_us/, 'home'],
-			[/\/account/, 'my_content'],
-			[/\/ad_details/, 'classifieds'],
-			[/\/blogs/, 'community'],
-                        [/\/forum/, 'community'],
-                        [/\/community_main/, 'community'],
-			[/\/browse/, 'classifieds'],
-			[/\/browse_by_category/, 'classifieds'],
-			[/\/business.*/, 'businesses'],
-			[/\/catalogue/, 'publication'],
-			[/\/chat/, 'my_content'],
-			[/\/classifieds/, 'classifieds'],
-			[/\/clone_ad/, 'classifieds'],
-			[/\/contact_us/, 'home'],
-                        [/\/citizen_journal/, 'community'],
-			[/\/edit_ad/, 'classifieds'],
-			[/\/edit_fob_profile/, 'my_content'],
-			[/\/edit_print_ad/, 'classifieds'],
-			[/\/edit_profile/, 'my_content'],
-			[/\/events/, 'calendar'],
-			[/\/feedback/, 'community'],
-                        [/\/features_main/, 'features'],
-                        [/\/milestones_main/, 'features'],
-                        [/\/feat_.*/, 'features'],
-			[/\/full_story/, 'home'],
-			[/\/home/, 'home'],
-                        [/\/ara/, 'living'],
-                        [/\/ara_.*/, 'living'],
-			[/\/login/, 'home'],
-			[/\/matchbin/, 'home'],
-			[/\/matchbinfaq/, 'home'],
-			[/\/my_.*/, 'my_content'],
-                        [/\/news_.*/, 'news'],
-                        [/\/news_multimedia/, 'multimedia'],
-                        [/\/main_slideshows/, 'multimedia'],
-                        [/\/main_videos/, 'multimedia'],
-                        [/\/sports_main/, 'sports'],
-                        [/\/sports_.*/, 'sports'],
-			[/\/news_obituaries/, 'features'],
-                        [/\/opinion_main/, 'opinion'],
-                        [/\/opinion_.*/, 'opinion'],
-			[/\/purchase/, 'home'],
-			[/\/recommend_ad/, 'classifieds'],
-			[/\/respond/, 'classifieds'],
-			[/\/results/, 'classifieds'],
-			[/\/results_businesses/, 'businesses'],
-			[/\/results_content/, 'home'],
-			[/\/signup/, 'classifieds'],
-			[/\/simple_signup/, 'classifieds'],
-                        [/\/sports_main/, 'sports'],
-			[/\/support/, 'home'],
-			[/\/upgrade/, 'home'],
-			[/\/user_details/, 'community'],
-			[/\/view_blog/, 'community'],
-			[/\/view_fob/, 'community'],
-			[/\/welcome/, 'community']
-		]
-
-		var which_page = 'home'
-
-		pages.each(function(element) {
-			if(document.URL.search(element[0]) != -1) { which_page = element[1] }
-		})
-
-		toggleMenu('main_menu_' + which_page)
-
-		$('pt1_content_container').onmouseover = function() {
-			toggleMenu(eval('main_menu_' + which_page).id)
-		}
-		
-		$A($('pt1_main_menu').childNodes).each(function(element) {
-			if(element.className == 'pt1_item' || element.className == 'pt1_item_active') {
-				element.onmouseover = function() {
-					toggleMenu(element.id)
-				}
-			}
-		})
-	}
 </script>
+
 
   <!--YAHOO ADS--><script type="text/javascript" language="JavaScript">
 
@@ -461,301 +333,294 @@ yld_mgr.slots.adPos8.reporting_tag_list=reporting_tag_list;
 </div>
 
 		</div>
-		<div id="content_menu_container" align="left">	<div>
-	<script type="text/javascript">
-$j(document).ready(function () {	
-	
-	$j('#nav li').hover(
-		function () {
-			//show its submenu
-			$j('ul', this).slideDown(100);
+		<div id="content_menu_container" align="left">
 
-		}, 
-		function () {
-			//hide its submenu
-			$j('ul', this).slideUp(100);			
-		}
-	);
+	<div>
+
+	<div class="navigation">
+        <div align="center" class="adElement" id="adPosition0"><script type="text/javascript" language="JavaScript">yld_mgr.place_ad_here("adPos0");</script></div>
+
 	
+  <script type="text/javascript">
+$j(document).ready(function () {    
+    
+    $j('#nav li').hover(
+        function () {
+            //show its submenu
+            $j('ul', this).slideDown(100);
+
+        }, 
+        function () {
+            //hide its submenu
+            $j('ul', this).slideUp(100);            
+        }
+    );
+    
 });
 </script>
 
-	
-	<style type="text/css">
-	
-	/* remove the list style */
-	#nav {
-		margin:0; 
-		padding:0; 
-		list-style:none;
-                background: #FFFFFF url("/sites/635/assets/menu_image.jpg") no-repeat;
-                height: 33px;
-	}	
-	
-		/* make the LI display inline */
-		/* it's position relative so that position absolute */
-		/* can be used in submenu */
-		#nav li {
-			float:left; 
-			display: inline; 
-			position:relative;
-			z-index:500; 
-                        color: #5982A2;
-                        padding: 5px 6px;
-                        *width: 70px;
-		}
-               
-		
-		/* this is the parent menu */
-		#nav li a {
-			display:block; 
-			height: 19px; 
-			text-decoration:none; 
-			color: #fff; 
-			color: #5982A2;
-                        font-size: 13px;
-                        padding: 0px 3px;
-		}
+    
+<style type="text/css">
+    /* ------------------------- *\
+        Dropdown Menu Styles
+    \* ------------------------- */
 
-		#nav li a:hover {
-			color: #FFFFFF;
-                        background: #5982A2;
-		}
+    .navigation {
+        background: #FFFFFF url("/sites/635/assets/menu_image.jpg") no-repeat;
+        padding: 12px 0 0 0;
+    }
 
-	
-		/* submenu, it's hidden by default */
-		#nav ul {
-			position:absolute; 
-			left: 6px; 
-			display:none; 
-			padding: 13px; 
-			list-style-type: none;
-                        background: #5982A2;
-                        line-height: 11px;
-                        opacity: 0.95;
-		}
-		
-		#nav ul li {
-			float:left;
-		}
-		
-		/* display block will make the link fill the whole area of LI */
-		#nav ul a {
-			display:block;  
-			height:15px;
-			color: #FFFFFF;
-                        white-space: nowrap;
-		}
-		
-		#nav ul a:hover {
-			text-decoration: underline;
-                        color: #FFFFFF;
-		}
+    /* remove the list style */
+    #nav {
+        margin:0; 
+        padding:0; 
+        list-style:none;
+    }   
 
-		/* fix ie6 small issue */
-		/* we should always avoid using hack like this */
-		/* should put it into separate file : ) */
-		*html #nav ul {
-			margin:0 0 0 -2px;
-		}
+    /* make the LI display inline */
+    /* it's position relative so that position absolute */
+    /* can be used in submenu */
+    #nav li {
+        float:left; 
+        display: inline; 
+        position:relative;
+        z-index:500; 
+        color: #5982A2;
+        padding: 5px 6px;
+        *width: 70px;
+    }
+           
 
-	</style>
+    /* this is the parent menu */
+    #nav li a {
+        display:block; 
+        height: 19px; 
+        text-decoration:none; 
+        color: #fff; 
+        color: #5982A2;
+        font-size: 13px;
+        padding: 0px 3px;
+    }
 
+    #nav li a:hover {
+        color: #FFFFFF;
+        background: #5982A2;
+    }
+
+
+    /* submenu, it's hidden by default */
+    #nav ul {
+        position:absolute; 
+        left: 6px; 
+        display:none; 
+        padding: 13px; 
+        list-style-type: none;
+        background: #5982A2;
+        line-height: 11px;
+        opacity: 0.95;
+    }
+
+    #nav ul li {
+        float:left;
+    }
+
+    /* display block will make the link fill the whole area of LI */
+    #nav ul a {
+        display:block;  
+        height:15px;
+        color: #FFFFFF;
+        white-space: nowrap;
+    }
+
+    #nav ul a:hover {
+        text-decoration: underline;
+        color: #FFFFFF;
+    }
+
+    /* fix ie6 small issue */
+    /* we should always avoid using hack like this */
+    /* should put it into separate file : ) */
+    *html #nav ul {
+        margin:0 0 0 -2px;
+    }
+</style>
+
+<!-- Dropdown Menu -->
 <ul id="nav">
-	<li><a href="/">Home</a></li>
+    <li><a href="http://newsminer.com/">Home</a></li>
 
-	<li><a href="http://newsminer.com/pages/subscribe_new_subscription">Subscribe</a>
-		<ul>
-			<li><a href="http://newsminer.com/pages/subscribe_new_subscription">New Subscription</a></li>
-<br>
-			<li><a href="http://newsminer.com/pages/subscribe_purchase_single_issue">Purchase Single Issue</a></li>
-<br>
-                	<li><a href="http://newsminer.com/pages/subscribe_change_address">Change Address</a></li>
-<br>
-                	<li><a href="http://newsminer.com/pages/subscribe_delivery_problems">Delivery Problems</a></li>
-<br>
-                	<li><a href="http://newsminer.com/pages/subscribe_vacation_stop">Vacation Stop</a></li>
-		</ul>
-		<div class="clear"></div>
-	</li>
+    <li><a href="http://newsminer.com/pages/arcticcam">ArcticCam</a></li>
 
-<li><a href="http://newsminer.com/pages/business_directory">Marketplace</a></li>
+    <li><a href="http://newsminer.com/pages/business_directory">Marketplace</a></li>
 
-	<li><a href="http://classifieds.newsminer.com/">Classifieds</a>
-		<ul>
-            		<li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=aircraftboatad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Aircraft &amp; Boats</a></li>
-	    		<li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=announcementsad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any&#10;">Announcements</a></li>
-            		<li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=automotivead&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Automotive</a></li>
-            		<li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=employmentad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Employment</a></li>
-            		<li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=financialad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Financial</a></li>
-            		<li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=generalmerchandisead&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">General Merchandise</a></li>
-            		<li><a href="http://classifieds.newsminer.com/pages/results_classifieds?kind=any&amp;klass=item&amp;widget=search_bar&amp;source=site&amp;string=announcementslegalnotices">Legal Ads</a></li>
-            		<li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=livestockpetsad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Livestock &amp; Pets</a></li>
-            		<li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=realestatead&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Real Estate</a></li>
-            		<li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=servicedirectoryad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Services</a></li>
-            		<li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=rentalsad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Rentals</a></li>
-            		<li><a href="http://homes.newsminer.com/">Featured Homes</a></li>
-            		<li><a href="http://newsminerextra.com/homes/rentals.php">Featured Rentals</a></li>
-            		<li><a href="http://newsminerextra.com/homes/commercial.php">Commercial Property</a></li>
-            		<li><a href="http://newsminerextra.com/homes/land.php">Land Sales</a></li>
-            		<li><a href="http://newsminer.com/pages/jobs">Jobs by Monster</a></li>
-		</ul>
-		<div class="clear"></div>		
-	</li>
+    <li><a href="http://classifieds.newsminer.com/">Classifieds</a>
+        <ul>
+            <li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=aircraftboatad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Aircraft &amp; Boats</a></li>
+            <li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=announcementsad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any&#10;            ">Announcements</a></li>
+            <li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=automotivead&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Automotive</a></li>
+            <li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=employmentad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Employment</a></li>
+            <li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=financialad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Financial</a></li>
+            <li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=generalmerchandisead&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">General Merchandise</a></li>
+            <li><a href="http://classifieds.newsminer.com/pages/results_classifieds?kind=any&amp;klass=item&amp;widget=search_bar&amp;source=site&amp;string=announcementslegalnotices">Legal Ads</a></li>
+            <li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=livestockpetsad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Livestock &amp; Pets</a></li>
+            <li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=realestatead&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Real Estate</a></li>
+            <li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=servicedirectoryad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Services</a></li>
+            <li><a href="http://classifieds.newsminer.com/pages/results_classifieds?widget=search_bar&amp;string=rentalsad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Rentals</a></li>
+            <li><a href="http://homes.newsminer.com/">Featured Homes</a></li>
+            <li><a href="http://newsminerextra.com/homes/rentals.php">Featured Rentals</a></li>
+            <li><a href="http://newsminerextra.com/homes/commercial.php">Commercial Property</a></li>
+            <li><a href="http://newsminerextra.com/homes/land.php">Land Sales</a></li>
+            <!--<li><a href="http://newsminer.com/pages/jobs">Jobs </a></li>-->
+        </ul>
+        <div class="clear"></div>       
+    </li>
 
-	<li><a href="http://newsminer.com/pages/my_content">My Content</a>
-		<ul>
-		       <li><a href="http://newsminer.com/pages/my_profiles">My Profiles</a></li>
-                       <li><a href="http://newsminer.com/pages/my_buddies">My Buddies</a></li>
-                       <li><a href="http://newsminer.com/pages/my_blogs">My Blogs</a></li>
-                       <li><a href="http://newsminer.com/pages/my_events">My Events</a></li>
-                       <li><a href="http://newsminer.com/pages/my_ads">My Ads</a></li>
-		</ul>
-		<div class="clear"></div>
-	</li>
+    <li><a href="http://newsminer.com/pages/my_content">My Content</a>
+        <ul>
+            <li><a href="http://newsminer.com/pages/my_profiles">My Profiles</a></li>
+            <li><a href="http://newsminer.com/pages/my_buddies">My Buddies</a></li>
+            <li><a href="http://newsminer.com/pages/my_blogs">My Blogs</a></li>
+            <li><a href="http://newsminer.com/pages/my_events">My Events</a></li>
+            <li><a href="http://newsminer.com/pages/my_ads">My Ads</a></li>
+        </ul>
+        <div class="clear"></div>
+    </li>
+    
+        <li><a href="http://newsminer.com/pages/subscribe_new_subscription">Subscribe</a>
+        <ul>
+            <li><a href="http://newsminer.com/pages/subscribe_new_subscription">New Subscription</a></li>
+            <li><a href="http://newsminer.com/pages/subscribe_purchase_single_issue">Purchase Single Issue</a></li>
+            <li><a href="http://newsminer.com/pages/subscribe_change_address">Change Address</a></li>
+            <li><a href="http://newsminer.com/pages/subscribe_delivery_problems">Delivery Problems</a></li>
+            <li><a href="http://newsminer.com/pages/subscribe_vacation_stop">Vacation Stop</a></li>
+        </ul>
+        <div class="clear"></div>
+    </li>
 
-	<li><a href="http://newsminer.com/pages/arcticcam">ArcticCam</a></li>
+    <li><a href="http://newsminer.com/pages/news">News</a>
+        <ul>
+            <li><a href="http://www.legacy.com/newsminer/Obituaries.asp">Obituaries</a></li>
+            <li><a href="http://newsminer.com/pages/news_local_news">Local News</a></li>
+            <li><a href="http://newsminer.com/pages/news_alaska_news">Alaska News</a></li>
+            <li><a href="http://newsminer.com/pages/news_politics">Politics</a></li>
+            <li><a href="http://newsminer.com/pages/news_public_safety_report">Public Safety Report</a></li>
+            <li><a href="http://newsminer.com/pages/news_dermot_cole">Dermot Cole</a></li>
+            <li><a href="http://newsminer.com/pages/news_couples">Couples</a></li>
+            <li><a href="http://newsminer.com/pages/news_business">Business</a></li>
+            <li><a href="http://hosted.ap.org/dynamic/external/ibd.morningstar.com/AP/StockMover2.html?local=AKFAI&amp;CN=AP707&amp;SITE=AKFAI&amp;SECTION=MONEY_COMPLETE">Money &amp; Markets</a></li>
+            <li><a href="/sept11">Sept. 11</a></li>
+            <li><a href="http://newsminer.com/pages/military">Military</a></li>
+            <li><a href="http://newsminer.com/pages/education">Education</a></li>
+        </ul>
+        <div class="clear"></div>
+    </li>
 
-	<li><a href="http://newsminer.com/pages/news">News</a>
-		<ul>
-                        <li><a href="http://www.legacy.com/newsminer/Obituaries.asp">Obituaries</a></li>
-			<li><a href="http://newsminer.com/pages/news_local_news">Local News</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/news_alaska_news">Alaska News</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/news_politics">Politics</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/news_public_safety_report">Public Safety Report</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/news_dermot_cole">Dermot Cole</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/news_couples">Couples</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/news_sarah_palin">Sarah Palin</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/news_business">Business</a></li>
-                        <li><a href="http://hosted.ap.org/dynamic/external/ibd.morningstar.com/AP/StockMover2.html?local=AKFAI&amp;CN=AP707&amp;SITE=AKFAI&amp;SECTION=MONEY_COMPLETE">Money &amp; Markets</a></li>
-<br>
-						<li><a href="/sept11">Sept. 11</a></li>
-		</ul>
-		<div class="clear"></div>
-	</li>
+    <li><a href="http://newsminer.com/pages/opinion">Opinion</a>
+        <ul>
+            <li><a href="http://newsminer.com/pages/forum">Forum</a></li>
+            <li><a href="http://newsminer.com/pages/opinion">Letters to the Editor</a></li>
+            <li><a href="http://newsminer.com/pages/opinion">Community Perspective</a></li>
+            <li><a href="http://newsminer.com/pages/opinion">Editorials</a></li>
+        </ul>
+        <div class="clear"></div>
+    </li>
 
-	<li><a href="http://newsminer.com/pages/opinion">Opinion</a>
-		<ul>
-			<li><a href="http://newsminer.com/pages/forum">Forum</a></li>
-<br>
-			<li><a href="http://newsminer.com/pages/opinion">Letters to the Editor</a></li>
-<br>
-			<li><a href="http://newsminer.com/pages/opinion">Community Perspective</a></li>
-<br>
-			<li><a href="http://newsminer.com/pages/opinion">Editorials</a></li>
-		</ul>
-		<div class="clear"></div>
-	</li>
+    <li><a href="http://newsminer.com/pages/sports">Sports</a>
+        <ul>
+            <li><a href="http://newsminer.com/iditarod2012">2012 Iditarod</a></li>  
+            <li><a href="http://newsminer.com/pages/sports">Local sports</a></li>
+            <li><a href="http://newsminer.com/pages/sports_uaf_nanooks">UAF Nanooks</a></li>
+            <li><a href="http://newsminer.com/yukonquest2012">Yukon Quest</a></li>
+            <li><a href="http://newsminer.com/pages/sports_ice_dogs">Ice Dogs</a></li>
+            <li><a href="http://newsminer.com/pages/sports_nascar">NASCAR</a></li>
+            <li><a href="http://newsminer.com/pages/sports_college_hoops">College Hoops</a></li>
+            <li><a href="http://newsminer.com/pages/sports_nfl">NFL</a></li>
+            <li><a href="http://newsminer.com/pages/sports_baseball">Baseball</a></li>
+            <li><a href="http://newsminer.com/pages/sports_nba">NBA</a></li>
+            <li><a href="http://newsminer.com/pages/sports_nhl">NHL</a></li>
+            <li><a href="http://newsminer.com/pages/sports_golf">Golf</a></li>
+            <li><a href="http://newsminer.com/pages/sports_tennis">Tennis</a></li>
+            <li><a href="http://newsminer.com/pages/sports_winter_games">Winter Olympics / Alaska</a></li>
+        </ul>
+        <div class="clear"></div>
+    </li>
 
-	<li><a href="http://newsminer.com/pages/sports">Sports</a>
-		<ul>
-		        <li><a href="http://newsminer.com/pages/sports_iditarod">Iditarod</a></li>  
-<br>  
-			<li><a href="http://newsminer.com/pages/sports">Local sports</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/sports_uaf_nanooks">UAF Nanooks</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/sports_fairbanks_grizzlies">Fairbanks Grizzlies</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/sports_yukon_quest_2011">Yukon Quest</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/sports_ice_dogs">Ice Dogs</a></li>
-<br>
-			<li><a href="http://newsminer.com/pages/sports_nascar">NASCAR</a></li>
-<br>
-		        <li><a href="http://newsminer.com/pages/sports_college_hoops">College Hoops</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/sports_nfl">NFL</a></li>
-                        <li><a href="http://newsminer.com/pages/sports_baseball">Baseball</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/sports_nba">NBA</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/sports_nhl">NHL</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/sports_golf">Golf</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/sports_tennis">Tennis</a></li>
-<br>
- 			<li><a href="http://newsminer.com/pages/sports_winter_games">Winter Olympics / Alaska</a></li>
-<br>
-			<li><a href="http://wintergames.ap.org/?site=AKFAI">Winter Olympics / US</a></li>
-		</ul>
-		<div class="clear"></div>
-	</li>
+    <li><a href="http://newsminer.com/pages/features_latitude_65">Features</a>
+        <ul>
+            <li><a href="http://newsminer.com/pages/features_latitude_65">Latitude 65</a></li>
+            <li><a href="http://newsminer.com/pages/features_sundays">Sundays</a></li>
+            <li><a href="http://newsminer.com/pages/features_outdoors">Outdoors</a></li>
+            <li><a href="http://newsminer.com/pages/features_our_town">Our Town</a></li>
+            <li><a href="http://newsminer.com/pages/features_youth">Youth</a></li>
+            <li><a href="http://newsminer.com/pages/features_faith">Faith</a></li>
+            <li><a href="http://newsminer.com/pages/features_food">Food</a></li>
+            <li><a href="http://newsminer.com/pages/features_health">Health</a></li>
+            <li><a href="http://www.uclick.com/client/fdm/cpa/">Comics</a></li>
+            <li><a href="http://www.epageflip.net/title/4839">TV listings</a></li>
+            <li><a href="http://newsminer.com/pages/features_horoscope">Horoscope</a></li>
+            <li><a href="http://newsminer.com/pages/features_strange_news">Strange News</a></li>
+            <li><a href="http://newsminer.com/pages/games">Games/Puzzles</a></li>
+        </ul>
+        <div class="clear"></div>
+    </li>
 
-	<li><a href="http://newsminer.com/pages/features_latitude_65">Features</a>
-		<ul>
-		        <li><a href="http://newsminer.com/pages/features_latitude_65">Latitude 65</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/features_sundays">Sundays</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/features_outdoors">Outdoors</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/features_our_town">Our Town</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/features_youth">Youth</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/features_faith">Faith</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/features_food">Food</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/features_health">Health</a></li>
-<br>
-                        <li><a href="http://www.uclick.com/client/fdm/cpa/">Comics</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/features_horoscope">Horoscope</a></li>
-<br>
-                        <li><a href="http://newsminer.com/pages/features_tv_listings">TV Listings</a></li>
-<br>
-		        <li><a href="http://newsminer.com/pages/features_strange_news">Strange News</a></li>
-<br>
-			<li><a href="http://newsminer.com/pages/games">Games/Puzzles</a></li>
-		</ul>
-		<div class="clear"></div>
-	</li>
+    <li><a href="http://newsminer.com/pages/multimedia">Multimedia</a>
+        <ul>
+            <li><a href="http://newsminer.com/pages/multimedia_photos">Photos</a></li>
+            <li><a href="http://newsminer.com/week_in_photos">Week in Photos</a></li>
+            <li><a href="http://newsminer.com/pages/multimedia_video">Video</a></li>
+            <li><a href="http://newsminer.com/pages/multimedia_audio">Audio</a></li>
+            <li><a href="http://newsminer.mycapture.com/mycapture/index.asp">Photo reprints</a></li>
+        </ul>
+        <div class="clear"></div>
+    </li>
 
-	<li><a href="http://newsminer.com/pages/multimedia">Multimedia</a>
-		<ul>
-			<li><a href="http://newsminer.com/pages/multimedia_photos">Photos</a></li>
-<br>
-			<li><a href="http://newsminer.com/pages/multimedia_video">Video</a></li>
-<br>
-			<li><a href="http://newsminer.com/pages/multimedia_audio">Audio</a></li>
-<br> 
-			<li><a href="http://newsminer.mycapture.com/mycapture/index.asp">Photo reprints</a></li>
-		</ul>
-		<div class="clear"></div>
-	</li>
+    <li><a href="http://newsminer.com/pages/features_our_town">Community</a>
+        <ul>
+            <li><a href="http://newsminer.com/pages/features_our_town">Our Town</a></li>
+            <li><a href="http://pinterest.com/fdnmeditor/">Pinterest</a></li>
+            <li><a href="http://newsminer.com/pages/community_interior_blogs">Interior Blogs</a></li>
+            <li><a href="http://newsminer.com/pages/community_columns">Local Columns</a></li>
+            <li><a href="http://newsminer.com/pages/community_local_links">Local Links</a></li>
+        </ul>
+        <div class="clear"></div>
+    </li>
 
-	<li><a href="http://newsminer.com/pages/features_our_town">Community</a>
-		<ul>
-			<li><a href="http://newsminer.com/pages/features_our_town">Our Town</a></li>
-<br>
-			<li><a href="http://newsminer.com/pages/community_interior_blogs">Interior Blogs</a></li>
-<br>
-			<li><a href="http://newsminer.com/pages/community_columns">Local Columns</a></li>
-<br>
-			<li><a href="http://newsminer.com/pages/community_local_links">Local Links</a></li>
-		</ul>
-		<div class="clear"></div>
-	</li>
+<li><a href="http://classifieds.newsminer.com/pages/results_employment_classifieds?widget=search_bar&amp;string=employmentad&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Jobs</a></li>
 
-</ul>
+<li><a href="http://classifieds.newsminer.com/pages/results_automotive_classifieds?widget=search_bar&amp;string=automotivead&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Automotive</a></li>
+
+<li><a href="http://classifieds.newsminer.com/pages/results_realestate_classifieds?widget=search_bar&amp;string=realestatead&amp;open=&amp;source=site&amp;klass=item&amp;kind=any">Real Estate</a></li>
+
+</ul><!--/#nav -->
+<div class="clear"></div>
+
+</div><!--/.navigation -->
 
 
 
+	<div>
 
+	<style type="text/css" media="screen">
+    #pt1_search_controls {
+        float: left;
+        background: white;
+        height: 30px;
+        width: 957px;
+        _width: 960px;
+        padding-left: 3px;
+        padding-top: 5px;
+        margin-bottom: 5px;
+    }
+</style>
 
-<div id="pt1_search_controls" style="float: left;background:#FFF;height:30px;width:957px;_width:960px;padding-left:3px;padding-top:5px;margin-bottom:5px;">
+<!-- Search / User Menu -->
+<div id="pt1_search_controls">
+    <div id="pt1_search_bar_ajax_container">
+        <div id="content_container" align="left">
 
-<div id="pt1_search_bar_ajax_container"> <div id="content_container" align="left">	<div>
+	<div>
+
 	<div id="pt1_search_element_select" style="display: none;">
 	<select id="pt1_search_dropdown" onchange="toggleSearch(this.value)">
 		<option value="content">articles</option>
@@ -768,55 +633,141 @@ $j(document).ready(function () {
 <div id="pt1_search_element_bar">
 	<div id="pt1_search_ads" style="display: none;">
 		<div id="search_bar_ads_container" align="left">
-<form action="/pages/results/search_bar" id="search_bar_form" method="post">  <input id="klass" name="klass" type="hidden" value="item service job auto property rental">
+
+<form action="/pages/results/search_bar" id="search_bar_form" method="post">
+
+  <input id="klass" name="klass" type="hidden" value="item service job auto property rental">
+
+
+
+
+
+
+
+
+ 
 <input class="searchBarStringField" id="string" name="string" size="30" type="text" value="">
 
+
+
   <input name="commit" type="submit" value="search">
-<input type="hidden" name="instance" value="ads"></form></div>
+
+<input type="hidden" name="instance" value="ads"></form>
+</div>
 	</div>
 	<div id="pt1_search_content" style="display: none;">
-		<div id="search_content_container" align="left"><form action="/pages/results_content/search_content" id="search_content_form" method="post"><input class="searchBarStringField" id="string" name="string" size="30" type="text" value="">
+		<div id="search_content_container" align="left">
+<form action="/pages/results_content/search_content" id="search_content_form" method="post">
+<input class="searchBarStringField" id="string" name="string" size="30" type="text">
+<script type="text/javascript">
+  var query_string = window.location.search;
+  var matchingParameter = query_string.match(/\Wstring\W*=[^&]*/);
+  if (matchingParameter) {
+    var pair = matchingParameter[0].split(/=/);
+    var value = pair[pair.length - 1];
+    jQuery("input[name=string]").val(value);
+  }
+</script>
+
 	<input name="commit" type="submit" value="search">
-</form></div>
+
+</form>
+</div>
 	</div>
 	<div id="pt1_search_businesses" style="display: none;">
 		<div id="search_bar_businesses_container" align="left">
-<form action="/pages/results_businesses/search_bar" id="search_bar_form" method="post">  <input id="klass" name="klass" type="hidden" value="business">
+
+<form action="/pages/results_businesses/search_bar" id="search_bar_form" method="post">
+
+  <input id="klass" name="klass" type="hidden" value="business">
+
+
+
+
+
+
+
+
+ 
 <input class="searchBarStringField" id="string" name="string" size="30" type="text" value="">
 
+
+
   <input name="commit" type="submit" value="search">
-<input type="hidden" name="instance" value="businesses"></form></div>
+
+<input type="hidden" name="instance" value="businesses"></form>
+</div>
 	</div>
 	<div id="pt1_search_events" style="display: none;">
 		<div id="search_bar_events_container" align="left">
-<form action="/pages/results/search_bar" id="search_bar_form" method="post">  <input id="klass" name="klass" type="hidden" value="event">
+
+<form action="/pages/results/search_bar" id="search_bar_form" method="post">
+
+  <input id="klass" name="klass" type="hidden" value="event">
+
+
+
+
+
+
+
+
+ 
 <input class="searchBarStringField" id="string" name="string" size="30" type="text" value="">
 
+
+
   <input name="commit" type="submit" value="search">
-<input type="hidden" name="instance" value="events"></form></div>
+
+<input type="hidden" name="instance" value="events"></form>
+</div>
 	</div>
 	<div id="pt1_search_profiles" style="display: none;">
 		<div id="search_bar_profiles_container" align="left">
-<form action="/pages/results/search_bar" id="search_bar_form" method="post">  <input id="klass" name="klass" type="hidden" value="profile">
+
+<form action="/pages/results/search_bar" id="search_bar_form" method="post">
+
+  <input id="klass" name="klass" type="hidden" value="profile">
+
+
+
+
+
+
+
+
+ 
 <input class="searchBarStringField" id="string" name="string" size="30" type="text" value="">
 
+
+
   <input name="commit" type="submit" value="search">
-<input type="hidden" name="instance" value="profiles"></form></div>
+
+<input type="hidden" name="instance" value="profiles"></form>
+</div>
 	</div>
 </div>
 </div>
-</div> </div><div id="pt1_login_controls">
-	<div id="user_menu_container" align="left"><div class="userMenu">
-  <ul id="user_menu_login_list">
-    	<li id="sign_in"><a href="/pages/login/?">sign in</a></li>
+</div> 
+    </div>
 
+    <div id="pt1_login_controls">
+        <div id="user_menu_container" align="left"><div class="userMenu">
+  <ul id="user_menu_login_list">
+    
+    
+	<li id="sign_in"><a href="/pages/login/?">sign in</a></li>
+
+
+    
   </ul>
 </div>
 
 </div>
+    </div>    
+</div><!-- /#pt1_search_controls -->
 </div>
-	
-</div>
+
 </div>
 </div>
 <div class="newline"></div>
@@ -825,6 +776,9 @@ $j(document).ready(function () {
 
 
 <div id="pt1_content_container">
+
+
+
 
 
 		<div class="pt1_pane">
@@ -907,26 +861,20 @@ $j(document).ready(function () {
 
 <div class="newline"> </div>
 
-	<div class="pt1_pane">
+<!--<div class="pt1_pane">
 	<div class="pt1_pane_body" align="center">
 		<div id="content_container" align="center">
-
-	
-<div id="content_container" align="left">	<div>
-	<!-- 728x90 Below the Fold -->                                                                                                                                                               
-
-<div align="center" class="adElement" id="adPosition14"><script type="text/javascript" language="JavaScript">yld_mgr.place_ad_here("adPos14");</script></div>
+@   @content :label => 728x90_banner_ad_pos0@    @
 </div>
 </div>
-
-</div>
-</div>
-</div>
-
+</div>-->
 
 <div class="footer">
 				
-<div id="content_container" align="left">	<div>
+<div id="content_container" align="left">
+
+	<div>
+
 			<div id="site_footer_container" align="left">
 		
 	
@@ -964,11 +912,11 @@ $j(document).ready(function () {
 			<a href="/pages/submit_feedback">Feedback</a> /
 			<a href="/pages/privacy_policy">Privacy Policy</a> /
 			<a href="/pages/user_agreement">User Agreement</a> /
-			<a href="/pages/jobs">Jobs by Monster</a> /
+			<a href="/pages/jobs">Jobs</a> /
 			<a href="/pages/contact_us">Contact</a> /
 			<a href="/pages/rss_feeds">RSS Feeds</a> /
 			<a href="http://twitter.com/newsminer">Twitter</a> /
-			<a href="http://www.youtube.com/user/newsminer">YouTube</a> 
+			<a href="http://www.facebook.com/pages/Fairbanks-Daily-News-Miner/352012625104">Facebook</a> 
 			
 		</dd>
         <br>
@@ -978,16 +926,18 @@ $j(document).ready(function () {
 			<!-- <a href="/submit/ourtown/">Our Town</a> / -->
 			<a href="/pages/submit_letters_to_editor">Letters to the Editor</a> /
 			<a href="/pages/submit_applause">Applause</a> /
-			<a href="/pages/submit_event">Events</a> /
+                        <a href="/pages/features_our_town_submit_my_best_photo">My Best Photo</a> /
+			<a href="/pages/submit_event">Event for print</a> /
 			<a href="http://www.legacy.com/newsminer/Obituaries.asp">Obituaries</a>
+
 			</dd>
 
 <script type="text/javascript" charset="utf-8" src="http://ads.matchbin.com/javascripts/matchbin_ad.js"></script>
 <script type="text/javascript" charset="utf-8">
-  //do not show ads on secure connections
-  if (window.location.protocol.match(/http:/)) {
-    _matchbin_ad.showAd({"site_id":635,"inline":null,"tags":"popunder_ad","height":"1","site_constraints_ignored":"dimensions","instance":"popunder_ad","width":"1"});
-  }
+      //do not show ads on secure connections
+      if (window.location.protocol.match(/http:/)) {
+        _matchbin_ad.showAd({"site_id":635,"inline":null,"tags":"popunder_ad","sitename":"rm.newsminer.001","height":"1","site_constraints_ignored":"dimensions","instance":"popunder_ad","width":"1"});
+      }
 </script>
 
 			
@@ -998,12 +948,12 @@ $j(document).ready(function () {
   <br>
   <br>
 	
-	<span class="footnote">software copyright © 2011 <a href="/pages/matchbin">matchbin inc.</a> content copyright © 2011 Fairbanks</span>
+	<span class="footnote">software copyright ©  2012 <a href="/pages/matchbin">Radiate Media</a> content copyright ©  2012 Fairbanks Daily News-Miner</span>
 	<br>
 	<span class="footnote bold">this software is in a public beta test phase</span> <a href="#1" onclick="newWindow = window.open('/help/privacy_policy', 'help', 'width=650,height=700,menubar=1,scrollbars=1,toolbar=0,resizable=1'); newWindow.focus;; return false;"><span class="link">read our privacy policy</span></a>
 
 	<br>
-	<span class="footnote">Fairbanks - The voice of Interior Alaska since 1903. is in fairbanks, AK</span>
+	<span class="footnote">Fairbanks - The voice of Interior Alaska since 1903 is in Fairbanks, AK</span>
 </div>
 </dl></div>
 
@@ -1045,7 +995,19 @@ pageTracker._trackPageview();
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script><script type="text/javascript">
+</script>
+
+<script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-375478-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script type="text/javascript">
   if (typeof(_gat) == 'undefined') {
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -1135,6 +1097,15 @@ if (showTynt) {
   document.write(unescape("%3Cscript src='ht" + "tp://tcr.tynt.com/javascripts/Tracer.js?user=d56qUQzfGr34Onadbi-bpO&amp;su=0&amp;st=1' type='text/javascript'%3E%3C/script%3E"));
 }
 </script>
-
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","0a3acb3eea",14576,"cg0IQEpbX1VUFBtbXlwPE1pRQEoWQQdTXUIeCwhQXUw=",0,42,new Date().getTime(),"","","","",""])</script>
 <script type="text/javascript">initSearch()</script>
-</body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js"></script></body></html>
