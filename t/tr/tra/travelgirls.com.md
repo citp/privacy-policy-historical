@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the travelgirls.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209195836id_/http%3A//www.travelgirls.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelgirls.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623001846id_/http%3A//www.travelgirls.com/page/privacy-policy) for the most accurate reproduction.*
 
 # travelgirls.com - Privacy policy
 
-Register first, it's quick and free
+The following describes the conditions of the Privacy Policy on which “Eastbo Development Limited” offers you to access and explore the travelgirls.com website (hereinafter referred to as the “Site”). The Site is operated by “Eastbo Development Limited” (hereinafter referred to as “us”, “we”), a limited liability company, registered in the Republic of Lithuania. By using this Site, you agree to comply with and be legally bound by the following conditions of the Privacy Policy, whether or not you become a registered user of the Site. Failure to use this Site in accordance with the following conditions of the Privacy Policy may subject you to severe civil and criminal penalties. We reserve the right to make changes to these conditions of the Privacy Policy at any time. Your continued use of the Site constitutes your acceptance of such changes. Accordingly, you should review these terms from time to time for such changes.
 
- ****
-
-The following describes the conditions of the Privacy Policy on which LLC “NABAKA” offers you to access and explore the travelgirls.com website (hereinafter referred to as the “Site”). The Site is operated by LLC “NABAKA” (hereinafter referred to as “us”, “we”), a limited liability company, registered in the Republic of Lithuania. By using this Site, you agree to comply with and be legally bound by the following conditions of the Privacy Policy, whether or not you become a registered user of the Site. Failure to use this Site in accordance with the following conditions of the Privacy Policy may subject you to severe civil and criminal penalties. We reserve the right to make changes to these conditions of the Privacy Policy at any time. Your continued use of the Site constitutes your acceptance of such changes. Accordingly, you should review these terms from time to time for such changes.
-
-**By entering and/or registering on the Site you give your consent to and accept the following conditions** :
+**By entering and/or registering on the Site you give your consent to and accept the following conditions  **:
 
 **1\. Age restrictions**
 
@@ -22,9 +18,9 @@ The following describes the conditions of the Privacy Policy on which LLC “NAB
 
 1.2.3 That you represent and warrant that you have not and will not use and/or view the Site(s) in a restricted location - namely a place, country, or location in which doing so would, or could be deemed a violation of any law, regulation, rule, ordinance, edict or custom.
 
-**2.** **Information we collect**
+**2.  ** **Information we collect**
 
-2.1. During the registration process for this Site, you must provide us with certain personally identifiable information including, but not limited to, _your name, address, email address, phone number_ and _credit card and bank information_. This information is used to contact the user about the services on our site for which they have expressed interest. 
+2.1. During the registration process for this Site, you must provide us with certain personally identifiable information including, but not limited to,  _your name, address, email address, phone number  _and  _credit card and bank information  _. This information is used to contact the user about the services on our site for which they have expressed interest. 
 
 2.1.1. During registration we will give you opportunity to provide us with additional information, such as your interests, hobbies, occupation and other.
 
@@ -68,9 +64,9 @@ The following describes the conditions of the Privacy Policy on which LLC “NAB
 
 **4\. Disclosure of collected information**
 
-4.1. We **DO NOT** sell or rent any of your personal information to third parties for marketing purposes without your permission. However, we do provide collected information to our service providers (e.g., credit card processing companies, billing services) as reasonably necessary or appropriate to provide services on the Site.
+4.1. We  **DO NOT  **sell or rent any of your personal information to third parties for marketing purposes without your permission. However, we do provide collected information to our service providers (e.g., credit card processing companies, billing services) as reasonably necessary or appropriate to provide services on the Site.
 
-4.2. We do disclose information in the aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we **DO NOT** disclose information in any form that could be used to identify you personally such as password of your account of the Site, credit card number and bank account number.
+4.2. We do disclose information in the aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we  **DO NOT  **disclose information in any form that could be used to identify you personally such as password of your account of the Site, credit card number and bank account number.
 
 4.3. In response to compulsory (required) governmental and/or third party inquiries, we may disclose your personal information to comply with a court order, subpoena, and search warrant.
 
@@ -104,7 +100,7 @@ The following describes the conditions of the Privacy Policy on which LLC “NAB
 
 9.1. Except in jurisdictions where such provisions are restricted (and in that event liability is disclaimed to the fullest extent permitted by law), in no event we shall be liable to you or any third person for any indirect, consequential, exemplary, incidental, special or punitive damages, including also lost profits arising from your use of the Site.
 
-**10.** **Reservations to this Privacy Policy**
+**10.  ** **Reservations to this Privacy Policy**
 
 10.1. The Site reserves its right, in their sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Privacy Policy will be effective by posting revisions on the Site's Privacy Policy page.
 
