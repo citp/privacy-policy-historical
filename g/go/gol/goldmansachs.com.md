@@ -1,12 +1,21 @@
-> *The following text is extracted and transformed from the goldmansachs.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223092025id_/http%3A//www2.goldmansachs.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmansachs.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622233648id_/http%3A//www.goldmansachs.com/privacy-and-security) for the most accurate reproduction.*
 
 # Goldman Sachs | Privacy and Security - Goldman Sachs Global Privacy Policy
 
+
+
+
   * [Goldman Sachs Global Privacy Policy](https://web.archive.org/privacy-and-security/index.html)
   * [How You Can Protect Yourself](https://web.archive.org/privacy-and-security/how-you-can-protect-yourself.html)
+  * [Our Use of Cookies and Your Options](https://web.archive.org/privacy-and-security/cookies.html)
   * [Other Sources of Information](https://web.archive.org/privacy-and-security/other-sources-of-information.html)
+  * [Privacy Policy - Australia and New Zealand](https://web.archive.org/privacy-and-security/privacy-policy-australia-new-zealand.html)
   * [Privacy Policy - India](https://web.archive.org/privacy-and-security/privacy-policy-india.html)
 
+
+
+  * [Print](http://www.addthis.com/bookmark.php?v=250&pubid=ra-4d93058d042650cf "Print")
+  * 
 
 
 **Your Privacy Is Important to Goldman Sachs**
@@ -113,7 +122,7 @@ The following additional information will be of interest to you as a visitor to 
  
   * Security is a cooperative effort between Goldman Sachs and the users of the Goldman Sachs Web sites. Please remember that your password, RSA SecurID Card and PIN are personal to you and should not be made available to any other person. Also, you should discontinue their use and notify us if you have any reason to suspect that someone else may be using them.   
  
-  * “Cookies” are small text files that may be placed on your Web browser when you visit our Web sites or when you view advertisements we have placed on other Web sites. The information derived from cookies is used for administrative purposes, to help us gauge the effectiveness of advertising efforts, and to improve your experience with our Web sites. For example, this information may help authenticate you (i.e., verify that you are who you say you are), an essential component of site security. Cookies also make it easier for you to navigate a Goldman Sachs Web site by, among other things, “remembering” your identity so that you do not have to input your password multiple times as you move between pages or services. Cookies also may be used to serve you Goldman Sachs advertisements when you visit Web sites of third parties with whom we have marketing relationships. You can set your Web browser to inform you when cookies are set, or to prevent cookies from being set. However, if you decline to use cookies, you may experience reduced functionality and, for sites serving authentication-related cookies, declining cookies will prevent you from using the Web site altogether.   
+  * “Cookies” are small text files that may be placed on your Web browser when you visit our Web sites or when you view advertisements we have placed on other Web sites. For more information about cookies, how our Web sites use them, and your options with respect to their use, please see our [cookies policy. ](https://web.archive.org/privacy-and-security/cookies.html)  
  
   * “Clickstream” data (e.g., information regarding which of our Web pages you access, the frequency of such access, and your product and service preferences) may be collected by Goldman Sachs itself, or by our service providers, using cookies, Web beacons, page tags, or similar tools that are set when you visit our Web site or when you view an advertisement we have placed on another Web site. Clickstream data and similar information may be shared internally within Goldman Sachs and used: for administrative purposes; to assess the usage, value and performance of our online products and services; to improve your experience with our Web sites; and as otherwise permitted by applicable law or regulation. If you are a Goldman Sachs client, this information helps us suggest products or service offerings that may be of interest to you. This information may be processed by us for the purposes described above, or on our behalf by third parties, solely in accordance with our instructions.   
  
