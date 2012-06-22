@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mrqe.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155049id_/http%3A//www.mrqe.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrqe.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623003322id_/http%3A//www.mrqe.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy – MRQE – the Movie Review Query Engine
+# Privacy | MRQE - The Movie Review Query Engine
 
 MRQE is committed to protecting your privacy and wants you to be familiar with how it collects, uses and shares your information. MRQE collects information that can identify individuals. This is information such as your name, mailing address, and email address, and it is usually collected when you sign up for or use a service of MRQE. MRQE also collects personally identifiable information that you may voluntarily provide when you use MRQE, that you may post in a public forum or that you may include when you communicate with MRQE.
 
