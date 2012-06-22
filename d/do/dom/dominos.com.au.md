@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.com.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004803id_/http%3A//www.dominos.com.au/corporate/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.com.au privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622102152id_/http%3A//www.dominos.com.au/corporate/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Domino's Pizza - Privacy and Policy
 
@@ -111,4 +111,4 @@ Domino's may provide links to other websites on its own website. A link to anoth
 
 #### Privacy Policy Co-ordinator
 
-If you have any queries regarding the Domino's Privacy Policy please contact the Domino's Privacy Policy Co-ordinator Craig Ryan.
+If you have any queries regarding the Domino's Privacy Policy please contact the Domino's Privacy Policy Co-ordinator Craig Ryan on +61 7 3633 3333 or [privacy@dominos.com.au](mailto:privacy@dominos.com.au)
