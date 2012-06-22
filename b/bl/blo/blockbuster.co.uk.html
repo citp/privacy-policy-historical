@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the blockbuster.co.uk privacy policy that was archived on 2011-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126154233id_/http%3A//www.blockbuster.co.uk/help/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blockbuster.co.uk privacy policy that was archived on 2012-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622172513id_/http%3A//www.blockbuster.co.uk/help/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><meta http-equiv="X-UA-Compatible" content="IE=9">
-    <!-- [WWW5] -->
+    <!-- [WWW2] -->
     
 <link rel="shortcut icon" href="/bbimages/uk/icons/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/bbimages/uk/icons/favicon.ico" type="image/x-icon">
@@ -10,7 +10,7 @@
 
 
     
-        <link type="text/css" rel="stylesheet" href="/css/blockbuster.css">
+        <link type="text/css" rel="stylesheet" href="/css/blockbuster.min.25.css"><link type="text/css" rel="stylesheet" href="/customcontent/blockbuster/css/jquery.toastmessage.1.css">
     
 
     
@@ -24,6 +24,7 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-534229-3']);
+_gaq.push(['_setDomainName', '.blockbuster.co.uk']);
 _gaq.push(['_trackPageview']);
 
 (function() { 
@@ -32,21 +33,23 @@ _gaq.push(['_trackPageview']);
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script><meta name="robots" content="noindex,nofollow"></head>
 <body id="ctl00_ctl00_body1" class="" style="">
     <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExMTg2ODA2OTkPZBYCZg9kFgJmD2QWAgIBD2QWAgIBDxUBBFdXVzVkZFt2qewSQpOI8pWJvtRBUpHNiG20">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExMTg2ODA2OTkPZBYCZg9kFgJmD2QWAgIBD2QWAgIBDxUBBFdXVzJkZCiTHYy2PMQi3E/lGd9yLQhde4ib">
 
 
-<script src="/js/jquery-1.6.2.min.js" type="text/javascript"></script>
-<script src="/js/blockbuster.js" type="text/javascript"></script>
+<script src="/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="/js/blockbuster.min.19.js" type="text/javascript"></script>
 <script src="/js/swfobject2.js" type="text/javascript"></script>
 <script src="/js/jquery.autocomplete.min.js" type="text/javascript"></script>
-<script src="/js/listservices.js" type="text/javascript"></script>
+<script src="/js/listservices.min.3.js" type="text/javascript"></script>
+<script src="/js/jquery.toastmessage.js" type="text/javascript"></script>
+<script src="/js/jquery.cookie.js" type="text/javascript"></script>
   
         
     
     <table class="siteFrame" align="center" border="0" style="border-width:0px;margin-top:10px;">
         <tbody><tr>
             <td>
-    <div class="boxHolder ieBoxModel" style="width: 990px">
+    <div class="boxHolder ieBoxModel" id="ctl00_ctl00_mainContent_MainContent_ctl00" style="width: 990px">
 	<div class="boxTitleHolder">
 		<div class="titleHolder" style="width: 988px;">
 			<h2 class="boxTitle">
@@ -92,12 +95,12 @@ _gaq.push(['_trackPageview']);
   <div style="margin-top: 8px;">
         Blockbuster may use Personal Information collected online in the following ways:
         <ul><li>
-            to develop and improve the products, benefits and services We or carefully selected business partners offer to Our
-            registered users and other users of the Site;
-          </li><li>to enable users  to become registered users of the Site;</li><li>for processing customer orders;</li><li>
-            for Site administration and development (for example to analyse usage trends
-            and to make improvements to the Site in accordance with such usage trends);
-          </li><li>for processing job applications submitted online to Us;</li><li>
+				to develop and improve the products, benefits and services We or carefully selected business partners offer to Our
+				registered users and other users of the Site;
+			</li><li>to enable users to become registered users of the Site and to join VIP Gamer;</li><li>to operate and administer VIP Gamer, including to send you statements by email showing the number of your reward points and details of offers and rewards for VIP Gamer members.  If you use a voucher obtained through your VIP Gamer membership to make a purchase in a Blockbuster store at the same time as using your Blockbuster store membership account your  store membership will be automatically linked to your VIP Gamer membership.  If You are a Blockbuster store member (primary account holder) You can also choose to link the two accounts together on this Site.  Any VIP Gamer reward points earned in-store or online will appear on your statements;</li><li>for processing customer orders;</li><li>
+				for Site administration and development (for example to analyse usage trends
+				and to make improvements to the Site in accordance with such usage trends);
+			</li><li>for processing job applications submitted online to Us;</li><li>
             to contact you by post and email, or by SMS if you are a member of our Text Club, to inform you about any of Our products
             and services (including those of selected business partners) that We think may be of interest. We will not do this without having
             your prior permission. If at any time you subsequently wish to discontinue receiving post or emails about Our products and services
@@ -239,7 +242,7 @@ _gaq.push(['_trackPageview']);
     </form>
     
     
-    <script language="javascript" type="text/javascript">
+    <script type="text/javascript">
         
         
        var time = new Date();
@@ -259,10 +262,16 @@ _gaq.push(['_trackPageview']);
         jQuery(function() {
             $(document).ready(function() {
                 $("div.buyHolder").hover(showDropDown, hideDropDown);
+
+                displayNewCookieToast();
+
+                setEventTracking();
             })
         })
-        
-       if(typeof window.zIndexFix == 'function') zIndexFix();
+
+        if (typeof window.zIndexFix == 'function') zIndexFix();
+
+        displayToastMessages();
 	</script>
     
     
