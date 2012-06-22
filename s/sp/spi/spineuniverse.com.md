@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spineuniverse.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012191958id_/http%3A//www.spineuniverse.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spineuniverse.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622045209id_/http%3A//www.spineuniverse.com/policy/privacy) for the most accurate reproduction.*
 
 # Vertical Health, LLC Privacy Policy -
 
