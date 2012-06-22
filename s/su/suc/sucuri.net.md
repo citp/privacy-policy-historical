@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sucuri.net privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213192947id_/http%3A//sucuri.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sucuri.net privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622113818id_/http%3A//sucuri.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sucuri Security
+# Privacy Policy
 
 ### What information do we collect?
 
@@ -8,19 +8,17 @@ We collect information from you when you register on our site or place an order.
 
 ### What do we use your information for?
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
-  * To personalize your experience(your information helps us to better respond to your individual needs) 
-  * To improve customer service(your information helps us to more effectively respond to your customer service requests and support needs) 
-  * To process transactions  
-
+  * To personalize your experience(your information helps us to better respond to your individual needs)
+  * To improve customer service(your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions
 
 
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-  * To send periodic emails  
-
+  * To send periodic emails
 
 
 
@@ -50,7 +48,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://sucuri.net/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://sucuri.net/terms>
 
 ### Your Consent
 
@@ -58,10 +56,10 @@ By using our site, you consent to our privacy policy
 
 ### Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on **12/27/2010**
+This policy was last modified on  **12/27/2010**
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us at [support@sucuri.net](mailto:support@sucuri.net)
+If there are any questions regarding this privacy policy you may contact us at [info@sucuri.net](mailto:support@sucuri.net)
