@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomspot.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201224806id_/http%3A//www.bloomspot.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomspot.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622084924id_/http%3A//www.bloomspot.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - bloomspot - bloomspot
 
@@ -8,7 +8,7 @@ Bloomspot, Inc. (owner of BloomSpot.com) takes very seriously the private nature
 
 Personal Information
 
-In order to supply you with your e-mail, we need your e-mail address. So that we may provide you with additional services, we may also request your name, geographical location, and telephone number. We will never sell, rent or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission. We may share your personal information for the purpose of delivering our e-mail to you or as required by law.
+In order to supply you with your e-mail, we need your e-mail address. So that we may provide you with additional services, we may also request your name, geographical location, and telephone number. We will never sell, rent or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission. We may share your personal information for the purpose of delivering our e-mail to you or as required by law. We may also share your personal information with our merchant partners in cases where a Bloomspot offer necessitates that we connect the merchant with you.
 
 Non-Personal Information
 
@@ -44,4 +44,4 @@ We may change this policy, but we'll post any changes here!
 
 Contact Us
 
-If you have any questions about this policy or our site in general, please contact us.
+If you have any questions about this policy or our site in general, please contact us at (888) 501-7172 or [support@bloomspot.com](mailto:support@bloomspot.com). Bloomspot is located at 345 Ritch Street, San Francisco, CA, 94107.
