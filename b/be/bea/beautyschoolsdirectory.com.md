@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyschoolsdirectory.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219213930id_/http%3A//www.beautyschoolsdirectory.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyschoolsdirectory.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623004038id_/http%3A//www.beautyschoolsdirectory.com/terms) for the most accurate reproduction.*
 
 # Terms of Use / Privacy Statement | Beauty Schools Directory
 
@@ -26,8 +26,11 @@ Aggregate information is automatically provided by your computer and cannot be t
  **How do we use the personal information that you provide to us?**  
 Broadly speaking, your personal information is used to match your interests with the beauty schools that provide the services you seek. We may store your information for the purpose of communicating with you about the programs and services offered by the schools listed on our site and send you updates if and when they become available. We also use personal information for purposes of administering our business activities, providing customer service, and making other products and services available to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to the web site, new services and special offers we think you will find valuable.  If you provide us with full address information you may be added to one of our mailing lists from which you may opt out at any time at <http://www.beautyschoolsdirectory.com/subscription>
 
- **Sharing information with third parties  
-** We mayhttp://www.beautyschoolsdirectory.com/subscription share your information with third party service providers. We cannot and do not make any representations about the practices and policies of these companies, and they are not subject to our Privacy Policy.
+ **Sharing information with third parties**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+We may share your information with third party service providers. We cannot and do not make any representations about the practices and policies of these companies, and they are not subject to our Privacy Policy.
 
  **How do we protect your information?  
 ** We utilize encryption/security software to safeguard the confidentiality of personal information we collect. This software provides a limited degree of protection against unauthorized access or disclosure, as well as accidental loss, alteration or destruction.
@@ -42,7 +45,7 @@ Please be aware that once you leave the site and enter another web site, our Pri
 If BeautySchoolsDirectory.com users choose to apply for one of the Beauty Schools Marketing Group scholarship drawings, it is asked that they provide their contact information (name, address, email address, etc.) and academic interests and measurements (programs of interest, schools of interest, GPA, SAT, etc.). Information is voluntarily submitted by the user via a secure scholarship application form. Beauty Schools Marketing Group may share this information with selected institutions of higher education and other educational organizations. After submitting a scholarship entry, if BeautySchoolsDirectory.com users ‘opt-in’, they will become part of our e-newsletter database and subsequently receive e-newsletters. If BeautySchoolsDirectory.com users choose to ‘opt-in’ for a third party offer on our form, personal information may be sent to third parties that are not affiliated with us under common ownership. These third party entities may be interested in marketing products or services to such users or in asking them questions, both online and offline.
 
 **Copyrighted Material  
-** The integrity of our web content is important to us. We have taken measures to make sure all web content on our site is original and owned by us or provided with consent by our clients, advertisers, and other contributors. If you believe we have misattributed any content or are infringing on your copyrighted content, please contact us at [info@beautyschoolsdirectory.com](mailto:info@beautyschoolsdirectory.com).
+** The integrity of our web content is important to us. We have taken measures to make sure all web content on our site is original and owned by us or provided with consent by our clients, advertisers, and other contributors. If you believe we have misattributed any content or are infringing on your copyrighted content, please contact us at [info@beautyschoolsdirectory.com](mailto:info@beautyschoolsdirectory.com). We vigorously monitor the web for unauthorized use of our original content and design work, and reserve the right to pursue all available legal remedies to enforce our intellectual property rights.
 
 **California Online Privacy Protection Act Compliance  
 ** Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
