@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adflu.eu privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102130211id_/http%3A//adflu.eu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adflu.eu privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622111426id_/http%3A//adflu.eu/privacy.php) for the most accurate reproduction.*
 
 # Adflu
 
@@ -86,4 +86,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 **8\. Contacting Us**
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20111102130211id_/http%3A//adflu.eu/contact.php). 
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20120622111426id_/http%3A//adflu.eu/contact.php). 
