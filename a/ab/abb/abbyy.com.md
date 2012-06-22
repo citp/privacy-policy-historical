@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the abbyy.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222145448id_/http%3A//www.abbyy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbyy.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622142455id_/http%3A//www.abbyy.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-<< Back
 
 ABBYY USA Software House, Inc. and its affiliates (hereafter “ABBYY”) recognize and respect the importance of protecting individuals’ privacy. Data-privacy laws protect the integrity of personally identifying information (“Personal Information”) that is transferred from a foreign country to the United States. 
 
@@ -75,5 +73,3 @@ Privacy Officer,
 ABBYY USA Software House, Inc.,  
 880 North McCarthy Blvd., Suite 220, Milpitas,  
 CA 95035 
-
-<< Back
