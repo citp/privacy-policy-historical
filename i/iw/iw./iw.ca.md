@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iw.ca privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028080218id_/http%3A//iweb.com/about-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iw.ca privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622121846id_/http%3A//iweb.com/about-iweb/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy from iWeb
+# Privacy | iWeb
 
 ### Privacy Policy
 
@@ -20,4 +20,4 @@ iWeb could share with its partners or third parties a non-personal anonymous agg
 
 #### Questions or Comments
 
-For additional questions, please contact our team using our [contact form](http://iweb.com/contacts/).
+For additional questions, please contact our team using our [ contact form ](http://iweb.com/contacts/) .
