@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designpax.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228202814id_/http%3A//www.designpax.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designpax.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622142304id_/http%3A//www.designpax.com/pages/privacy.html) for the most accurate reproduction.*
 
-# DesignPax privacy policy
+# 
 
 Our Commitment to Privacy
 
@@ -22,4 +22,4 @@ Billing Information
 
  Our Commitment to Data Security
 
- To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+ To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
