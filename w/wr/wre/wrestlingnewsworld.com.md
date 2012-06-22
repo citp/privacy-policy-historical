@@ -1,57 +1,74 @@
-> *The following text is extracted and transformed from the wrestlingnewsworld.com privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420121921id_/http%3A//www.grayinternet.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlingnewsworld.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622121750id_/http%3A//www.wrestlingnewsworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Gray Internet Technologies, LLC: Privacy Policy
+# Privacy Policy | WrestlingNewsWorld.com
 
-**Persons Under the age of 13 years  
-**  
-Gray Internet is committed to complying fully with the Children's Online Privacy Protection Act (COPPA). If you are under the age of 13, you are not authorized to provide us with personally identifying information, and we will not use any such information in our database or other data collection activities. We appreciate your cooperation with this federally mandated requirement. **
+**What information do we collect?**
 
-Introduction
+We collect information from you when you register on our site or subscribe to our newsletter.
 
-**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of Gray Internet websites', we feel you should fully understand the terms and conditions surrounding the capture and use of that information. Because we want to demonstrate our commitment to your privacy, it has agreed to disclose information practices, and periodically reviews it's practices for compliance to accepted Internet standards. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-When you visit any Gray Internet website you can expect to be informed about: 
+**What do we use your information for?**
 
-1\. What information Gray Internet gathers/tracks about you.   
-2\. What Gray Internet Website does with the information it gathers/tracks.   
-3\. With whom Gray Internet shares the information it gathers/tracks.  
-4\. Gray Internet Website deleting policy.
+Any of the information we collect from you may be used in one of the following ways:
 
-Questions regarding this statement should be directed to: [ryan@grayinternet.com](mailto:ryan@grayinternet.com) 
+; To process transactions
 
-**Information Gray Internet gathers**
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-Gray Internet  gathers data about visitors from various sources:
+; To send periodic emails
 
-1\. Via Discussion Forums- When registering to post  
-2\. Gray Internet uses various website tracking services.  Our current tracker is Add Free Stats and Counted.com.  For more information on what information they collect please click: [Add Free Stats](http://top.addfreestats.com/privacy.html) 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Additionally, users are aggregated for tracking information derived mainly by tallying page views throughout our site, logging IP addresses, and browser type. Such information enables us to better tailor our content to readers' needs and to help our advertisers better understand the demographics of our audience. Because Gray Internet derives it's revenue mainly from advertising, sponsorships providing such aggregated demographic data is essential to keeping our service free to users.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
- **Third Party Advertising**  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+**How do we protect your information?**
 
- **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-**Third Party Cookies**
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-Please refer to <http://www.focusin.com/privacy.htm> for more information on Gray Internet's third party advertising.
+**Do we use cookies?**
 
-Also refer to <http://www.wrestlesite.com/legal> for information on Axxess Inc. 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-**Use of the Information this Site Gathers/Tracks**
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
-The information which is gathered on each of the data entry forms throughout the site, as described above, is only used to carry out the service they want. When they have finished using that service, the information is deleted.
+**Do we disclose any information to outside parties?**
 
-**Sharing of the Information this Site Gathers/Tracks**
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-The information gathered by Gray Internet is shared with no other website, or persons.  
-**  
-Delete Policy**
+**Childrens Online Privacy Protection Act Compliance**
 
-If you have submitted any information to Wrestling Unlimited in it's one year history, and wish to make sure it has been disregarded or is being kept safe, don't hesitate to e-mail the webmaster ([ryan@grayinternet.com](mailto:ryan@grayinternet.com)).
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Third-Party Companies**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.wrestlingnewsworld.com/wnw-premium-terms-of-service/>
+
+**Your Consent**
+
+By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://www.wrestlingnewsworld.com
+
+PO Box 2476  
+Beckley, West Virginia 25802  
+USA  
+richard@grayinternet.com
+
+This policy is powered by Trust Guard [website security](http://www.trust-guard.com/Website-Security-s/89.htm).
