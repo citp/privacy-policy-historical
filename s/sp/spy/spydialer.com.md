@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spydialer.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125081849id_/http%3A//www.spydialer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spydialer.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622023543id_/http%3A//www.spydialer.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Spy Dialer - Whose cell phone is it?
 
@@ -6,7 +6,7 @@ Spy Dialer, Inc. has created a privacy policy that lets you know what informatio
 
 OPT OUT: 
 
-You may opt your cell phone number out of being spy dialed, free of charge, by [clicking here.](https://web.archive.org/web/20111125081849id_/http%3A//www.spydialer.com/OptOut.aspx)
+You may opt your cell phone number out of being spy dialed, free of charge, by [clicking here.](https://web.archive.org/web/20120622023543id_/http%3A//www.spydialer.com/OptOut.aspx)
 
 INFORMATION WE STORE: 
 
@@ -71,4 +71,4 @@ YOUR CONSENT:
 
 By using Spy Dialer, you consent to its privacy policy as published on this page. 
 
-This privacy policy was last updated January 21, 2010. 
+This privacy policy was last updated August 1, 2011. 
