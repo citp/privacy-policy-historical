@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231220347id_/http%3A//www.iolo.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622095521id_/http%3A//www.iolo.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # iolo technologies Privacy Policy
 
