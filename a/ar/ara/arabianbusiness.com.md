@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arabianbusiness.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106023831id_/http%3A//www.arabianbusiness.com/privacy-policy-159141.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabianbusiness.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623000106id_/http%3A//www.arabianbusiness.com/privacy-policy-159141.html) for the most accurate reproduction.*
 
 # Privacy Policy - ArabianBusiness.com
 
