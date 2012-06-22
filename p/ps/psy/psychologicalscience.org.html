@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the psychologicalscience.org privacy policy that was archived on 2011-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230190942id_/http%3A//www.psychologicalscience.org/index.php/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the psychologicalscience.org privacy policy that was archived on 2012-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622035836id_/http%3A//www.psychologicalscience.org/index.php/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -8,6 +8,48 @@
 body{behavior:url("csshover.htc");}
 </style>
 <![endif]-->
+<script type="text/javascript">
+
+// JK Pop up image viewer script- By JavaScriptKit.com
+// Visit JavaScript Kit (http://javascriptkit.com)
+// for free JavaScript tutorials and scripts
+// This notice must stay intact for use
+
+var popbackground="lightskyblue" //specify backcolor or background image for pop window
+var windowtitle="Image Window"  //pop window title
+
+function detectexist(obj){
+return (typeof obj !="undefined")
+}
+
+function jkpopimage(imgpath, popwidth, popheight, textdescription){
+
+function getpos(){
+leftpos=(detectexist(window.screenLeft))? screenLeft+document.body.clientWidth/2-popwidth/2 : detectexist(window.screenX)? screenX+innerWidth/2-popwidth/2 : 0
+toppos=(detectexist(window.screenTop))? screenTop+document.body.clientHeight/2-popheight/0 : detectexist(window.screenY)? screenY+innerHeight/2-popheight/0 : 0
+if (window.opera){
+leftpos-=screenLeft
+toppos-=screenTop
+}
+}
+
+getpos()
+var winattributes='width='+popwidth+',height='+popheight+',resizable=yes,left='+leftpos+',top='+toppos
+var bodyattribute=(popbackground.indexOf(".")!=-1)? 'background="'+popbackground+'"' : 'bgcolor="'+popbackground+'"'
+if (typeof jkpopwin=="undefined" || jkpopwin.closed)
+jkpopwin=window.open("","",winattributes)
+else{
+//getpos() //uncomment these 2 lines if you wish subsequent popups to be centered too
+//jkpopwin.moveTo(leftpos, toppos)
+jkpopwin.resizeTo(popwidth+100, popheight+100)
+}
+jkpopwin.document.open()
+jkpopwin.document.write('<html><title>'+windowtitle+'</title><body '+bodyattribute+'><img src="'+imgpath+'" style="margin: 0.5em;"><br />'+textdescription+'</body></html>')
+jkpopwin.document.close()
+jkpopwin.focus()
+}
+
+</script>
 <script>
 function show_quiz_responses() {
     for (var i=1;i<=5;i++) {
@@ -17,6 +59,20 @@ function show_quiz_responses() {
 }
 
 </script>
+
+<script language="JavaScript" type="Text/Javascript">
+<!-- // 
+var url = "http://www.psychologicalscience.org/index.php/about"; 
+var pageName = "About APS"; 
+function bookmark() { 
+if (window.external) { 
+window.external.AddFavorite(url, pageName)   
+} 
+else { 
+alert("Sorry! Your browser doesn't support function. 
+Use the bookmark option in your browser instead."); 
+} 
+} // --></script>
 <title>Privacy Policy - Association for Psychological Science</title>
 
 <meta name="generator" content="WordPress"> <!-- leave this for stats -->
@@ -31,7 +87,7 @@ function show_quiz_responses() {
 <link rel="stylesheet" href="http://www.psychologicalscience.org/redesign/wp-content/themes/DeepBlue/print.css" type="text/css" media="print">
 <link rel="alternate" type="application/rss+xml" title="Association for Psychological Science RSS Feed" href="http://www.psychologicalscience.org/index.php/feed"><link rel="pingback" href="http://www.psychologicalscience.org/redesign/xmlrpc.php">
 <script src="http://www.psychologicalscience.org/images/teaching_rotator/swfobject.js"></script>
-<script src="http://www.psychologicalscience.org/twitterwidget.js"></script>
+<script src="https://www.psychologicalscience.org/twitterwidget.js"></script>
 <script type="text/javascript">
 		function displayChart(table) {
 			var costChart = document.getElementById(table);
@@ -39,7 +95,10 @@ function show_quiz_responses() {
 			else { costChart.style.display = "none"; }
 		}
 	</script>
+
 <script type="text/javascript" src="http://www.psychologicalscience.org/redesign/wp-content/themes/DeepBlue/hover.js"></script>
+
+
 <script type="text/javascript">
 		function displayChart(table) {
 			var costChart = document.getElementById(table);
@@ -127,7 +186,7 @@ window.location = url;
                 <li><a href="http://www.psychologicalscience.org/index.php/members/teaching">Teaching</a></li>
    		<li><a href="http://www.psychologicalscience.org/index.php/members/apssc">Students</a></li>
         <li><a href="http://www.psychologicalscience.org/books/index-new.cfm">Books</a></li>
-        <li><a href="http://www.psychologicalscience.org/index.php/about/psychology-links">Psychology Links</a></li>
+        <li><a href="http://www.psychologicalscience.org/index.php/about/psychology-links">Psychological Science Links</a></li>
         <li><a href="http://www.psychologicalscience.org/index.php/members/caps">Contribute</a></li>
         
     </ul>
@@ -139,9 +198,10 @@ window.location = url;
          <li class="conventionfirst"><a href="http://www.psychologicalscience.org/convention/program_2012/">Program</a></li>
             <li><a href="http://www.psychologicalscience.org/convention/registration.cfm">Registration</a></li>
             <li><a href="http://www.psychologicalscience.org/index.php/convention/hotel">Hotel</a></li>
-                        <li><a href="http://www.psychologicalscience.org/index.php/convention/call-for-submissions">Call for Submissions</a></li>
+            <li><a href="http://www.psychologicalscience.org/index.php/convention/travel">Travel</a></li>
+            <li><a href="http://www.psychologicalscience.org/index.php/convention/call-for-submissions">Call for Submissions</a></li>
             <li><a href="http://www.psychologicalscience.org/index.php/convention/aps-23rd-annual-convention-2011-press-information">Press</a></li>
-            <li><a href="http://www.psychologicalscience.org/index.php/convention/conventionfaq">Annual Convention FAQs</a></li>
+            <li><a href="http://www.psychologicalscience.org/index.php/convention/conventionfaq">Convention FAQs</a></li>
 			<li><a href="http://www.psychologicalscience.org/index.php/convention/committee">Program Committee</a></li>
             <li><a href="http://www.psychologicalscience.org/index.php/convention/archive">Archive</a></li>
             <li><a href="http://www.psychologicalscience.org/index.php/convention/exhibitor-prospectus">Exhibiting</a></li>
@@ -155,6 +215,7 @@ window.location = url;
             <li><a href="http://www.psychologicalscience.org/index.php/publications/journals/current_directions">Current Directions</a></li>
             <li><a href="http://www.psychologicalscience.org/index.php/publications/journals/pspi">PSPI</a></li>
             <li><a href="http://www.psychologicalscience.org/index.php/publications/journals/perspectives">Perspectives</a></li>
+            <li><a href="http://www.psychologicalscience.org/index.php/publications/journals/clinical">Clinical Psychological Science</a></li>
                     </ul>
 
 	</li>
@@ -165,6 +226,7 @@ window.location = url;
             <li><a href="http://www.psychologicalscience.org/index.php/publications/observer/archive">Archive</a></li>
             <li><a href="http://www.psychologicalscience.org/index.php/publications/observer/obsonline">Daily Observations</a></li>
             <li><a href="http://www.psychologicalscience.org/index.php/publications/observer/global">Global Observer</a></li>
+            <li><a href="http://www.psychologicalscience.org/index.php/publications/observer/obs-series">Observer Series</a></li>
             <li><a href="http://www.psychologicalscience.org/index.php/publications/observer/announcements/">Announcements</a></li>
             <li><a href="http://www.psychologicalscience.org/index.php/publications/observer/about">About</a></li>
             <li><a href="http://www.psychologicalscience.org/observer/services/contact_observer-new.cfm">Contact</a></li>
@@ -212,12 +274,13 @@ window.location = url;
 	<li class="off"><a href="http://www.psychologicalscience.org/index.php/news" title="News">News</a>
     
         <ul>
-            <li class="wohfirst"><a href="http://www.psychologicalscience.org/index.php/news/were-only-human">We're Only Human</a></li>
-            <li><a href="http://www.psychologicalscience.org/index.php/news/ripped/">Ripped from the Headlines</a></li>
-            <li><a href="http://www.psychologicalscience.org/books/index-new.cfm">Books</a></li>
+            <li class="wohfirst"><a href="http://www.psychologicalscience.org/index.php/news?type=items">In the News</a></li>
+            <li><a href="http://www.psychologicalscience.org/index.php/news/were-only-human">We're Only Human</a></li>
             <li><a href="http://www.psychologicalscience.org/onlyhuman/pod-new.cfm">Podcasts</a></li>
             <li><a href="http://www.psychologicalscience.org/index.php/news/full-frontal-psychology/">Full Frontal Psychology</a></li>
             <li><a href="http://www.psychologicalscience.org/index.php/news/releases">Press Releases</a></li>
+            <li><a href="http://www.psychologicalscience.org/index.php/convention/aps-23rd-annual-convention-2011-press-information">Convention Media</a></li>
+            <li><a href="http://www.psychologicalscience.org/index.php/video">Videos</a></li>
                     </ul>
 
 	</li>
@@ -380,106 +443,106 @@ window.location = url;
 			    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-61009"><a href="http://www.psychologicalscience.org/index.php/news/impatient-it-may-be-hurting-your-credit-score.html" rel="bookmark" title="Impatient? It May Be Hurting Your Credit Score">Impatient? It May Be Hurting Your Credit Score</a> 
-     - <strong>The New York Times</strong> -     December 30, 2011    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>             </li>
+	<li id="post-71337"><a href="http://www.psychologicalscience.org/index.php/news/formula-written-for-math-success.html" rel="bookmark" title="Formula written for math success">Formula written for math success</a> 
+     - <strong>Pittsburgh Post-Gazette</strong> -     June 21, 2012    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>     <br><span class="jcite"><strong>Member in the News</strong> - Robert Siegler</span>        </li>
 	<!--Post Meta-->
     
 	    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-61004"><a href="http://www.psychologicalscience.org/index.php/news/a-thing-or-two-about-twins.html" rel="bookmark" title="A Thing or Two About Twins">A Thing or Two About Twins</a> 
-     - <strong>National Geographic</strong> -     December 30, 2011         <br><span class="jcite"><strong>Members in the News</strong> - Thomas Bouchard, Nancy Segal</span>        </li>
+	<li id="post-71332"><a href="http://www.psychologicalscience.org/index.php/news/essay-mills-a-coarse-lesson-on-cheating.html" rel="bookmark" title="Essay mills — a coarse lesson on cheating">Essay mills — a coarse lesson on cheating</a> 
+     - <strong>Los Angeles Times</strong> -     June 21, 2012         <br><span class="jcite"><strong>Member in the News</strong> - Dan Ariely</span>        </li>
 	<!--Post Meta-->
     
 	    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-61000"><a href="http://www.psychologicalscience.org/index.php/news/prejudice-is-a-basic-human-need.html" rel="bookmark" title="Prejudice Is A Basic Human Need">Prejudice Is A Basic Human Need</a> 
-     - <strong>Science 2.0</strong> -     December 30, 2011    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #008061">Current Directions in Psychological Science</span></span>     <br><span class="jcite"><strong>Member in the News</strong> - Arne Roets</span>        </li>
+	<li id="post-71328"><a href="http://www.psychologicalscience.org/index.php/news/iphone-addicted-lego-lover-seeks-same-for-fun-romance-brand-worship.html" rel="bookmark" title="iPhone-Addicted Lego Lover Seeks Same For Fun, Romance, Brand Worship">iPhone-Addicted Lego Lover Seeks Same For Fun, Romance, Brand Worship</a> 
+     - <strong>Fast Company</strong> -     June 21, 2012    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>             </li>
 	<!--Post Meta-->
     
 	    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-60995"><a href="http://www.psychologicalscience.org/index.php/news/never-mix-business-with-pleasure-how-the-office-ogler-takes-a-toll-on-your-work-rate.html" rel="bookmark" title="Never mix business with pleasure: How the office ogler takes a toll on your work rate">Never mix business with pleasure: How the office ogler takes a toll on your work rate</a> 
-     - <strong>Daily Mail</strong> -     December 30, 2011         <br><span class="jcite"><strong>Member in the News</strong> - Sarah Gervais</span>        </li>
+	<li id="post-71324"><a href="http://www.psychologicalscience.org/index.php/news/organic-eaters-might-be-meaner-than-their-counterparts-study-finds.html" rel="bookmark" title="Organic Eaters Might Be Meaner Than Their Counterparts, Study Finds">Organic Eaters Might Be Meaner Than Their Counterparts, Study Finds</a> 
+     - <strong>Huffington Post</strong> -     June 21, 2012    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>     <br><span class="jcite"><strong>Member in the News</strong> - Kendall Eskine</span>        </li>
 	<!--Post Meta-->
     
 	    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-60991"><a href="http://www.psychologicalscience.org/index.php/news/unlock-your-creative-side.html" rel="bookmark" title="Unlock your creative side">Unlock your creative side</a> 
-     - <strong>Men's Health</strong> -     December 30, 2011    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>             </li>
+	<li id="post-71320"><a href="http://www.psychologicalscience.org/index.php/news/how-baby-names-can-help-marketers-predict-the-next-big-thing-2.html" rel="bookmark" title="How Baby Names Can Help Marketers Predict the Next Big Thing">How Baby Names Can Help Marketers Predict the Next Big Thing</a> 
+     - <strong>TIME</strong> -     June 21, 2012    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>     <br><span class="jcite"><strong>Member in the News</strong> - Jonah Berger</span>        </li>
 	<!--Post Meta-->
     
 	    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-60987"><a href="http://www.psychologicalscience.org/index.php/news/why-make-new-year-resolutions-if-genes-and-environment-decide-our-behaviour-rather-than-free-will.html" rel="bookmark" title="Why make New Year resolutions if genes and environment decide our behaviour rather than free will?">Why make New Year resolutions if genes and environment decide our behaviour rather than free will?</a> 
-     - <strong>Irish Times</strong> -     December 30, 2011         <br><span class="jcite"><strong>Member in the News</strong> - Roy Baumeister</span>        </li>
+	<li id="post-71314"><a href="http://www.psychologicalscience.org/index.php/news/ein-hurrikan-macht-mode.html" rel="bookmark" title="Ein Hurrikan macht Mode">Ein Hurrikan macht Mode</a> 
+     - <strong>ORF Austria</strong> -     June 20, 2012    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>     <br><span class="jcite"><strong>Member in the News</strong> - Jonah Berger</span>        </li>
 	<!--Post Meta-->
     
 	    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-60979"><a href="http://www.psychologicalscience.org/index.php/news/die-sicherheit-des-status-quo.html" rel="bookmark" title="Die Sicherheit des Status quo">Die Sicherheit des Status quo</a> 
-     - <strong>Wiener Zeitung</strong> -     December 30, 2011    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #008061">Current Directions in Psychological Science</span></span>     <br><span class="jcite"><strong>Members in the News</strong> - Justin Friesen, Aaron Kay</span>        </li>
+	<li id="post-71311"><a href="http://www.psychologicalscience.org/index.php/news/a-question-of-judgment.html" rel="bookmark" title="A question of judgment">A question of judgment</a> 
+     - <strong>The Economist</strong> -     June 20, 2012    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>     <br><span class="jcite"><strong>Members in the News</strong> - Uri Simonsohn, Francesca Gino</span>        </li>
 	<!--Post Meta-->
     
 	    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-60975"><a href="http://www.psychologicalscience.org/index.php/news/because-you-said-so.html" rel="bookmark" title="Because You Said So?">Because You Said So?</a> 
-     - <strong>The Epoch Times</strong> -     December 30, 2011    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>     <br><span class="jcite"><strong>Member in the News</strong> - Vladimir Sloutsky</span>        </li>
+	<li id="post-71292"><a href="http://www.psychologicalscience.org/index.php/news/phantom-hand-mapped-for-the-first-time.html" rel="bookmark" title="Phantom hand mapped for the first time">Phantom hand mapped for the first time</a> 
+     - <strong>NewScientist</strong> -     June 20, 2012    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>             </li>
 	<!--Post Meta-->
     
 	    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-60863"><a href="http://www.psychologicalscience.org/index.php/news/earlier-autism-diagnosis-could-mean-earlier-interventions-2.html" rel="bookmark" title="Earlier Autism Diagnosis Could Mean Earlier Interventions">Earlier Autism Diagnosis Could Mean Earlier Interventions</a> 
-     - <strong>WKAR Public Radio</strong> -     December 29, 2011    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #008061">Current Directions in Psychological Science</span></span>             </li>
+	<li id="post-71289"><a href="http://www.psychologicalscience.org/index.php/news/dagnabit-this-town-is-fed-up-with-cursing.html" rel="bookmark" title="Dagnabit, This Town Is Fed Up With Cursing">Dagnabit, This Town Is Fed Up With Cursing</a> 
+     - <strong>The Wall Street Journal</strong> -     June 20, 2012         <br><span class="jcite"><strong>Member in the News</strong> - Timothy Jay</span>        </li>
 	<!--Post Meta-->
     
 	    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-60856"><a href="http://www.psychologicalscience.org/index.php/news/why-we-make-bad-decisions.html" rel="bookmark" title="Why we make bad decisions">Why we make bad decisions</a> 
-     - <strong>Salon</strong> -     December 29, 2011         <br><span class="jcite"><strong>Member in the News</strong> - Samuel Sommers</span>        </li>
+	<li id="post-71287"><a href="http://www.psychologicalscience.org/index.php/news/control-yourself-inhibiting-physical-action-cuts-risky-gambling-and-drinking.html" rel="bookmark" title="Control Yourself! Inhibiting Physical Action Cuts Risky Gambling and Drinking">Control Yourself! Inhibiting Physical Action Cuts Risky Gambling and Drinking</a> 
+     - <strong>TIME</strong> -     June 20, 2012    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>             </li>
 	<!--Post Meta-->
     
 	    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-60851"><a href="http://www.psychologicalscience.org/index.php/news/a-weird-and-wonderful-world-of-discovery.html" rel="bookmark" title="A weird and wonderful world of discovery">A weird and wonderful world of discovery</a> 
-     - <strong>Irish Times</strong> -     December 29, 2011    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>             </li>
+	<li id="post-71244"><a href="http://www.psychologicalscience.org/index.php/news/america-needs-to-study-fractions.html" rel="bookmark" title="America Needs to Study Fractions">America Needs to Study Fractions</a> 
+     - <strong>Scientific American</strong> -     June 19, 2012    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>             </li>
 	<!--Post Meta-->
     
 	    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-60844"><a href="http://www.psychologicalscience.org/index.php/news/winnie-the-pooh-and-the-pervasiveness-of-egocentric-bias-why-we-are-all-that-sort-of-bear.html" rel="bookmark" title="Winnie-the-Pooh and the Pervasiveness of Egocentric Bias: Why We Are All THAT Sort of Bear">Winnie-the-Pooh and the Pervasiveness of Egocentric Bias: Why We Are All THAT Sort of Bear</a> 
-     - <strong>Scientific American</strong> -     December 29, 2011         <br><span class="jcite"><strong>Members in the News</strong> - Nicholas Epley, Thomas Gilovich</span>        </li>
+	<li id="post-71239"><a href="http://www.psychologicalscience.org/index.php/news/parents-%e2%80%94-especially-dads-%e2%80%94-are-happier-than-their-childless-pals-happy-father%e2%80%99s-day.html" rel="bookmark" title="Parents — Especially Dads — Are Happier than their Childless Pals. (Happy Father’s Day.)">Parents — Especially Dads — Are Happier than their Childless Pals. (Happy Father’s Day.)</a> 
+     - <strong>TIME</strong> -     June 19, 2012    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>     <br><span class="jcite"><strong>Member in the News</strong> - Sonya Lyubomirsky</span>        </li>
 	<!--Post Meta-->
     
 	    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-60839"><a href="http://www.psychologicalscience.org/index.php/news/man-inte-sa-heta-som-de-tror.html" rel="bookmark" title="Män inte så heta som de tror">Män inte så heta som de tror</a> 
-     - <strong>TV4 Sverige</strong> -     December 29, 2011    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>             </li>
+	<li id="post-71235"><a href="http://www.psychologicalscience.org/index.php/news/manner-mit-harten-gesichtszugen-sind-softies.html" rel="bookmark" title="Männer mit harten Gesichtszügen sind Softies">Männer mit harten Gesichtszügen sind Softies</a> 
+     - <strong>Bild</strong> -     June 19, 2012    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>             </li>
 	<!--Post Meta-->
     
 	    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-60830"><a href="http://www.psychologicalscience.org/index.php/news/is-twin-communication-a-real-thing.html" rel="bookmark" title="Is ‘twin communication’ a real thing?">Is ‘twin communication’ a real thing?</a> 
-     - <strong>msnbc</strong> -     December 29, 2011         <br><span class="jcite"><strong>Member in the News</strong> - Nancy Segal</span>        </li>
+	<li id="post-71231"><a href="http://www.psychologicalscience.org/index.php/news/the-new-neuroscience-of-choking.html" rel="bookmark" title="The New Neuroscience of Choking">The New Neuroscience of Choking</a> 
+     - <strong>The New Yorker</strong> -     June 19, 2012         <br><span class="jcite"><strong>Member in the News</strong> - Sian Beilock</span>        </li>
 	<!--Post Meta-->
     
 	    
     	<!--Featured Cover Story Section-->
     
-	<li id="post-60826"><a href="http://www.psychologicalscience.org/index.php/news/pregnancy-may-change-moms-brain-for-good.html" rel="bookmark" title="Pregnancy May Change Mom’s Brain For Good">Pregnancy May Change Mom’s Brain For Good</a> 
-     - <strong>LiveScience</strong> -     December 29, 2011    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #008061">Current Directions in Psychological Science</span></span>             </li>
+	<li id="post-71226"><a href="http://www.psychologicalscience.org/index.php/news/anticipating-baby-name-trends.html" rel="bookmark" title="Anticipating baby name trends">Anticipating baby name trends</a> 
+     - <strong>Today's Parent</strong> -     June 19, 2012    <br><span class="jcite"><strong>Cites:</strong> <span style="color: #cd1041">Psychological Science</span></span>     <br><span class="jcite"><strong>Member in the News</strong> - Jonah Berger</span>        </li>
 	<!--Post Meta-->
     
 		
@@ -490,7 +553,7 @@ window.location = url;
     </li>
 	</ul>
      
-<div class="ads"><a href="http://www.psychologicalscience.org/books/index.cfm#modpio"><img src="&#10;http://www.psychologicalscience.org/redesign/wp-content/uploads/2011/08/Modern-Pioneers_AD_APS.gif"></a></div>
+<div class="ads"><a href="http://www.psychologicalscience.org/index.php/members/psychological-scientists/#banaji"><img src=" &#10;http://www.psychologicalscience.org/redesign/wp-content/uploads/2011/03/Psychological-Scientist_Banaji.gif"></a></div>
   
 
 	<div id="popular-bottom"></div>
