@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelrepublic.co.uk privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229214736id_/http%3A//www.travelrepublic.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelrepublic.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622025241id_/http%3A//www.travelrepublic.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Travel Republic Privacy Policy
 
@@ -14,4 +14,4 @@ All credit card information and personal information is encrypted as it is passe
 
 Travel Republic Ltd is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
-A "cookie" is a small data text file that is placed in your browser and allows Travel Republic Ltd to recognize you each time you visit this site (customisation etc). Cookies themselves do not contain any personal information, and Travel Republic Ltd does not use cookies to collect personal information. Cookies may also be used to pass information between web sites owned by Travel Republic Ltd. 
+Please also see details on [our use of cookies](https://web.archive.org/help/cookies.aspx). 
