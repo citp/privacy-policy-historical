@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ratemyprofessors.com privacy policy that was archived on 2011-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111210150615id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ratemyprofessors.com privacy policy that was archived on 2012-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622155952id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -73,7 +73,7 @@
 <li id="navTAF"><a href="/About.jsp">About</a></li>
 <li id="navSearch"><a href="/SearchProfs.jsp">Professors</a></li> 
 <li id="navSearch"><a href="/SearchSchool.jsp">Schools</a></li> 
-<li id="navSearch"><a href="/topLists11/topLists.jsp">Best Professors Lists</a></li> 
+<li id="navSearch"><a href="/toplists/topLists.jsp">Best Professors Lists</a></li> 
 <li id="logIn">
 
 
@@ -123,18 +123,12 @@ if (loadsuccess == true) {
 
 </div><!-- closes nav -->
 <script type="text/javascript" src="http://btg.mtvnservices.com/aria/coda.html?site=ratemyprofessors.com"></script>
-<script>
-mtvn.btg.config.AdSettings.QuantCast.enabled = true;
-mtvn.btg.config.AdSettings.DoubleClick.enabled = true;
-mtvn.btg.config.AdSettings.DoubleClick.dartSite = 'rmp.mtvi';
-mtvn.btg.config.AdSettings.DoubleClick.positionThreshold=2;
-mtvn.btg.Controller.init();
-</script>
+<script src="http://www.mtv.com/global/scripts/special/projx.jhtml?channelname=RateMyProfessors"></script>
 
 <div id="ad728">	
 <script type="text/javascript">
 //Place Ad
-mtvn.btg.Controller.placeAd(
+btg.Controller.placeAd(
 {
   size:'728x90',
   isReloadable:true,
@@ -1677,11 +1671,9 @@ your computer.</p>
 
 		</td>
 </tr></tbody></table>
-
-
 <p align="JUSTIFY">This Privacy Policy was last modified on the date
 indicated above and is effective immediately.<br>
-Copyright © 2011 RateMyProfessors.com LLC, a subsidiary of Viacom
+Copyright © 2012 RateMyProfessors.com LLC, a subsidiary of Viacom
 International Inc. - All Rights Reserved.</p>
 
 </div>
@@ -1693,8 +1685,6 @@ International Inc. - All Rights Reserved.</p>
 <script type="text/javascript">
 _uacct = "UA-304376-1";
 urchinTracker();
-</script>
-<script language="javascript" src="http://static.ratemyprofessors.com/ts_files/mtvi_reporting.js">
 </script>
 <script type="text/javascript">
 
@@ -1709,24 +1699,25 @@ urchinTracker();
 		var h2 = "interact/terms/privacy policy";
 		var channel= "interact";
 		
-		mtvn.btg.config.ReportSettings.Omniture["filters"]= 'javascript:,ratemyprofessors.com';
-		mtvn.btg.config.ReportSettings.Omniture["trackExternalLinks"]= true;
-		mtvn.btg.config.ReportSettings.Omniture["pageName"]= pn;
-		mtvn.btg.config.ReportSettings.Omniture["channel"]= channel;
-		mtvn.btg.config.ReportSettings.Omniture["hier2"]= h2;
-		mtvn.btg.config.ReportSettings.Omniture["eVar2"]="";
-		mtvn.btg.config.ReportSettings.Omniture["eVar3"]= "";
-		mtvn.btg.config.ReportSettings.Omniture["prop2"]= "USA";
-		mtvn.btg.config.ReportSettings.Omniture["prop4"]= "";
-		mtvn.btg.config.ReportSettings.Omniture["prop5"]= "";
-		mtvn.btg.config.ReportSettings.Omniture["prop6"]= "";
-		mtvn.btg.config.ReportSettings.Omniture["prop7"]= "";
-		mtvn.btg.config.ReportSettings.Omniture["prop8"]= "visitor";
-		mtvn.btg.config.ReportSettings.Omniture["prop10"]= "";
+               	btg.Controller.sendPageCall({
+		   pageName : pn,
+	           channel : channel,
+		   hier2 : h2,
+                   eVar2 : "",
+                   eVar3 : "",
+      		   prop2 : "USA",
+		   prop4 : "",
+      		   prop5 : "",
+		   prop6 : "",
+		   prop7 : "",
+		   prop8 : "visitor",
+		   prop10: ""
+                });
+
 		
 				
 </script>
-<font color="white">mtvu-jboss-008</font>
+<font color="white">mtvu-jboss-010</font>
 
 <center>
 	<!-- BEGIN FOOTER -->
@@ -1842,9 +1833,11 @@ h1,h2,h3,h4,h5 {
 	<br>
 	<ul>
 		<li><a href="/">Home</a></li>
+		<li><a href="/About.jsp">About</a></li>
 		<li><a href="/SearchProfs.jsp">Professors</a></li>
 		<!--<li><a href="/referral.jsp">Tell a Friend</a></li>-->
 		<li><a href="/SearchSchool.jsp">Schools</a></li>
+		<li><a href="/toplists/topLists.jsp">Best Professor Lists</a></li>
 		<!--<li><a href="#">Search</a></li>-->
 	</ul>
 </div>
@@ -1858,8 +1851,7 @@ h1,h2,h3,h4,h5 {
 		<li><a href="/help.jsp">Help</a></li>
 		<li><a href="/faq.jsp">FAQ</a></li>
 		<li><a href="/ContactUs.jsp">Contact Us</a></li>
-		<li><a href="http://srp.mtvn.com/sitefaq.html" target="_blank">Ad
-				Choices</a></li>
+		<li><a href="http://srp.mtvn.com/sitefaq.html" target="_blank">Ad Choices <img align="absmiddle" height="16px" src="images/adchoice_icon.png"></a></li>
 		<li><a href="/RSSHelp.jsp">What is RSS?</a></li>
 		<!--<li><a href="http://mtvpress.com/contacts/form">Press Inquiries</a></li>-->
 		<!--<li><a href="http://adspecs.mtvn.com/site/spec/my/mycontacts.html">Advertising Inquiries</a></li>-->
@@ -1874,10 +1866,7 @@ h1,h2,h3,h4,h5 {
 	<br>
 	<ul>
 		<li><a href="/TermsOfUse_us.jsp">Terms of Use (6/30/2011)</a></li>
-		<li><a href="/PrivacyPolicy_us.jsp" target="_blank">Privacy
-				Policy/Your CA</a></li>
-		<li><a href="/PrivacyPolicy_us.jsp" target="_blank">Privacy
-				Rights (6/30/2011)</a></li>
+		<li><a href="/PrivacyPolicy_us.jsp" target="_blank">Privacy Policy/Your CA Privacy Rights (6/30/2011)</a></li><br>
 		<li><a href="/site_guidelines.jsp">Site Guidelines</a></li>
 		<li><a href="/copyright_comp_policy.jsp">Copyright Compliance
 				Policy</a></li>
@@ -1894,9 +1883,10 @@ h1,h2,h3,h4,h5 {
 		<li id="twitter"><a href="http://twitter.com/ratemyprofessor" target="_blank">Follow us on Twitter</a></li>
 	</ul>
 </div>
+
 <div id="copyright" class="copyright">
 	<p class="copyright">
-		<br> <br>Copyright © 2011 RateMyProfessors.com, LLC.
+		<br> <br>Copyright © 2012 RateMyProfessors.com, LLC.
 		Powered by <span class="mtvU">mtvU</span> and <span class="MTVN">MTV
 			NETWORKS</span>
 	</p>
@@ -1962,21 +1952,10 @@ li#twitter a {
 	};
 </script>
 <script type="text/javascript">
-	mtvn.btg.config.ReportSettings.QuantCast.enabled = true;
-	mtvn.btg.config.ReportSettings.QuantCast.reportMode = 'ads';
-	mtvn.btg.Controller.init();
-	mtvn.btg.Controller.sendPageCall();
+//	btg.Controller.sendPageCall();
 </script>
 <!-- Start Quantcast tag -->
 
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">
-	_qoptions = {
-		labels : "Viacom Domestic,MTVN Digital,MTVN Music and Logo,MTVN Music Group,mtvU Online"
-	};
-	_qacct = "p-94wNw88f65Rhk";
-	quantserve();
-</script>
 <noscript>
 	<a href="http://www.quantcast.com/p-94wNw88f65Rhk" target="_blank"><img
 		src="http://pixel.quantserve.com/pixel/p-94wNw88f65Rhk.gif?labels=Viacom%20Domestic%2CMTVN%20Digital%2CMTVN%20Music%20and%20Logo%2CMTVN%20Music%20Group%2CmtvU%20Online"
