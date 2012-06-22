@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yummly.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226211249id_/http%3A//www.yummly.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yummly.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622164604id_/http%3A//www.yummly.com/blog/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Yummly
 
@@ -58,6 +58,6 @@ This Site is not directed to children under 13.  We do not knowingly collect pe
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us at privacy@yummly.com or at:   165 University Avenue, Suite 5, Palo Alto, CA 94301.
+If you have any questions about this Privacy Policy, please contact us at privacy@yummly.com or at:   320 High Street, Palo Alto, CA 94301.
 
 Effective April 16, 2010
