@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptk.org privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618020237id_/http%3A//www.ptk.org/society/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptk.org privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622022700id_/http%3A//www.ptk.org/society/privacy.htm) for the most accurate reproduction.*
 
 # Phi Theta Kappa - International Honor Society of the Two Year College
 
