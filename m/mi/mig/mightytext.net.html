@@ -1,47 +1,48 @@
-<!--The following is the downloaded HTML source of the mightytext.net privacy policy that was archived on 2011-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111106202512id_/http%3A//mightytext.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mightytext.net privacy policy that was archived on 2012-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622053917id_/http%3A//mightytext.net/privacy) for the most accurate reproduction.-->
 
-<html class="no-js" lang="en"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.5.min.js">
-</script> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html class="no-js" lang="en"><head> 
 
+<title>MightyText Privacy Policy</title> 
 
- 
+<link rel="icon" type="image/png" href="NEW-WEBSITE/mighty-just-m.png">
 
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,medium,thin,italic,mediumitalic">
+<link href="NEW-WEBSITE/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
- 
-<link rel="icon" type="image/png" href="mighty-just-m.png">
-
-<link href="http://fonts.googleapis.com/css?family=Quattrocento+Sans:regular" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
-
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/dkfhfaphfkopdgpbfkebjfcblcafcmpi">
 
 <meta name="google-site-verification" content="iT_xknTaeh82op1b4ArOj_eZbvVVqW4nH9AgXS7Y960">
 <meta name="google-site-verification" content="ss9b2MgyUHRy5WWPm8yTTXGWwndPrq3hE1pD1QEHRAw">
 <meta name="google-site-verification" content="gTQZ3THSoosAv2u9ZcXkubpuvRrVrPfN6WHs9Xs281w">
 
-
 <meta property="og:title" content="MightyText - Send/Receive Text Messages from Computer, sync'd with Android phone">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="MightyText">
 <meta property="og:url" content="http://mightytext.net">
-<meta property="og:image" content="http://mightytext.net/STATICWEBSITE/mighty_launch_large.png">
+<meta property="og:image" content="http://mightytext.net/NEW-WEBSITE/new_mightytext_icon_oct18.png">
 <meta property="fb:admins" content="723785008">
 
 
 
-    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-    <!-- /css -->
-    <link type="text/css" rel="stylesheet" href="STATICWEBSITE/stylesheets/home.css" media="screen">
-    <!-- /js -->
-    <!-- /plugins -->
-    <script type="text/javascript" src="STATICWEBSITE/javascripts/jquery-1.4.3.min.js"></script>
-    <script type="text/javascript" src="STATICWEBSITE/javascripts/jquery.scrollto.min.js"></script>
-    <script type="text/javascript" src="STATICWEBSITE/javascripts/jquery.path.js"></script>
-    <script type="text/javascript" src="STATICWEBSITE/javascripts/jquery.placeholder.js"></script>
+    <link type="text/css" rel="stylesheet" href="NEW-WEBSITE/stylesheets/home.css" media="screen">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://widget.uservoice.com/ctJuGCNDIBXM3owx5KcIIA.js"></script><script type="text/javascript" src="javascripts/jquery-1.4.3.min.js"></script>
+    <script type="text/javascript" src="javascripts/jquery.scrollto.min.js"></script>
+    <script type="text/javascript" src="javascripts/jquery.path.js"></script>
+    <script type="text/javascript" src="javascripts/jquery.placeholder.js"></script>
 
 
 
-<title>MightyText Privacy Policy</title> 
+<script type="text/javascript">
+  var uvOptions = {};
+  (function() {
+    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
+    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/ctJuGCNDIBXM3owx5KcIIA.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
+  })();
+</script>
+
+
 
 
 <script type="text/javascript">
@@ -49,6 +50,7 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-21391541-5']);
   _gaq.push(['_trackPageview']);
+  _gaq.push(["_trackEvent","StaticWebsite","Home-Page-Load","",1]);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -60,57 +62,186 @@
 
 
 
+<script>
+
+var BrowserDetect = {
+	init: function () {
+		this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+		this.version = this.searchVersion(navigator.userAgent)
+			|| this.searchVersion(navigator.appVersion)
+			|| "an unknown version";
+		this.OS = this.searchString(this.dataOS) || "an unknown OS";
+	},
+	searchString: function (data) {
+		for (var i=0;i<data.length;i++)	{
+			var dataString = data[i].string;
+			var dataProp = data[i].prop;
+			this.versionSearchString = data[i].versionSearch || data[i].identity;
+			if (dataString) {
+				if (dataString.indexOf(data[i].subString) != -1)
+					return data[i].identity;
+			}
+			else if (dataProp)
+				return data[i].identity;
+		}
+	},
+	searchVersion: function (dataString) {
+		var index = dataString.indexOf(this.versionSearchString);
+		if (index == -1) return;
+		return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+	},
+	dataBrowser: [
+		{
+			string: navigator.userAgent,
+			subString: "Chrome",
+			identity: "Chrome"
+		},
+		{ 	string: navigator.userAgent,
+			subString: "OmniWeb",
+			versionSearch: "OmniWeb/",
+			identity: "OmniWeb"
+		},
+		{
+			string: navigator.vendor,
+			subString: "Apple",
+			identity: "Safari",
+			versionSearch: "Version"
+		},
+		{
+			prop: window.opera,
+			identity: "Opera",
+			versionSearch: "Version"
+		},
+		{
+			string: navigator.vendor,
+			subString: "iCab",
+			identity: "iCab"
+		},
+		{
+			string: navigator.vendor,
+			subString: "KDE",
+			identity: "Konqueror"
+		},
+		{
+			string: navigator.userAgent,
+			subString: "Firefox",
+			identity: "Firefox"
+		},
+		{
+			string: navigator.vendor,
+			subString: "Camino",
+			identity: "Camino"
+		},
+		{		// for newer Netscapes (6+)
+			string: navigator.userAgent,
+			subString: "Netscape",
+			identity: "Netscape"
+		},
+		{
+			string: navigator.userAgent,
+			subString: "MSIE",
+			identity: "Explorer",
+			versionSearch: "MSIE"
+		},
+		{
+			string: navigator.userAgent,
+			subString: "Gecko",
+			identity: "Mozilla",
+			versionSearch: "rv"
+		},
+		{ 		// for older Netscapes (4-)
+			string: navigator.userAgent,
+			subString: "Mozilla",
+			identity: "Netscape",
+			versionSearch: "Mozilla"
+		}
+	],
+	dataOS : [
+		{
+			string: navigator.platform,
+			subString: "Win",
+			identity: "Windows"
+		},
+		{
+			string: navigator.platform,
+			subString: "Mac",
+			identity: "Mac"
+		},
+		{
+			   string: navigator.userAgent,
+			   subString: "iPhone",
+			   identity: "iPhone/iPod"
+	    },
+		{
+			string: navigator.platform,
+			subString: "Linux",
+			identity: "Linux"
+		}
+	]
+
+};
+
+BrowserDetect.init();
+
+
+</script>
+
+
+
+
+
+
+
+
+
  
 </head> 
 
 
-
-
-
-
   <body class="index">
-    <header>
-            <div class="wrap clearfix">
-        <a href="/">
-<h1 style="background-image: url('STATICWEBSITE/mighty_launch_large.png')">MightyText</h1>        </a>
+  <!--[if IE]>
+		<div id="IEroot">
+  <![endif]-->
+    <div>
+ 
+     <div class="wrap clearfix">
         
-        <span id="fb-like-button" style="float:left;margin-left:25px;margin-top:-4px"> 
-		  <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FTexty%2F156773284381924&amp;layout=button_count&amp;show_faces=false&amp;width=85&amp;action=like&amp;font&amp;colorscheme=dark&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:21px;" allowtransparency="true"></iframe> 
+       <div id="top-header-section" style="clear:both;margin-top:0px;margin-bottom:10px;height:70px">
+        
+        <span style="float:left;width:450px">
+        <a href="/" style="text-decoration:none">
+<h1 style="font-size:1px;background-image: url('NEW-WEBSITE/mighty_launch_large_new_may_2012_different_text_bubbles.png');background-repeat:no-repeat;background-position-y:0px;background-size:60%">MightyText</h1>  </a>
+        </span>
+        
+        <span id="fb-like-button" style="float:left;margin-left:25px;"> 
+		  <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FTexty%2F156773284381924&amp;layout=button_count&amp;show_faces=false&amp;width=85&amp;action=like&amp;font&amp;colorscheme=dark&amp;height=41" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:41px;" allowtransparency="true"></iframe> 
            
            
   		</span>
   		
   		
-  		 <span id="twitter-follow-button" style="float:left;margin-left:15px;margin-top:-4px;width:210px"> 
+  		 <span id="twitter-follow-button" style="float:left;margin-left:35px;width:220px"> 
 
 
 			 <a href="http://twitter.com/mightytext" class="twitter-follow-button" data-button="grey" data-text-color="#FFFFFF" data-link-color="#00AEFF">Follow @MightyText</a>
+			 
+			 
 			<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>	
   		</span>
 
 
 
-  		 <span id="google-plus-one-button" style="float:left;margin-top:-7px;margin-left:20px"> 
+  		 <span id="google-plus-one-button" style="float:left;margin-left:30px"> 
   		
 <!-- Place this tag where you want the +1 button to render -->
 <g:plusone href="https://market.android.com/details?id=com.texty.sms"></g:plusone>
   		</span>
+  	</div>
   		
-  		
-  
-        <div id="global-nav" style="float:right">
-          <ul>
-            <li>
-            	<a href="install" style="font-size:22px;text-decoration:underline">Install Now</a>
-
-            </li>
-          </ul>
-        </div>
-
-        <section id="promo">
-        <div style="margin-top:-160px;font-size:14px;color:orange;font-family:arial;display:none">If you are having trouble getting to the signup page, please send an email to info@textyapp.com, and in the SUBJECT LINE put your Google account email (registered on your Android).<br><br> Sorry for the inconvenience.</div>
-
-        	
+	
+        <div id="promo" style="clear:both">
+	        
+	        	
 <h3>Privacy Policy</h3> 
 <p>This Privacy Policy describes MightyText's policies and procedures on the collection, use and
 disclosure of your information. MightyText receives your information through our various web sites,
@@ -188,35 +319,41 @@ or use the Services after those changes become effective, you agree to be bound 
 <em>This Privacy Policy is effective February 25, 2011. Last updated: August 13, 2011.
 <br> 
 </em></p> 
-        </section>
+	     </div>
 
 
 
 
 
       </div>
-    </header>
+    </div>
 
- 
     
     <div id="main">
 
    
     </div>
 
-    <footer id="more">
+
+    <div id="more">
       <div class="wrap">
         <div class="contact">
-          <h3>Contact Us</h3>
+          <h3>Get in Touch</h3>
           <ul>
-            <li><a onclick="javascript:alert('Please send an email to info AT textyapp.com');" href="#">Email</a></li>
-          </ul>
-        </div>
-        <div class="social">
+            
+            <li><a href="javascript:UserVoice.showPopupWidget();" title="Open feedback &amp; support dialog (powered by UserVoice)">Contact us</a></li>
+            <li><a href="aboutus">About Us</a></li><a href="aboutus">
+          </a></ul><a href="aboutus">
+          
+          
+        </a></div><a href="aboutus">
+        </a><div class="social"><a href="aboutus">
           <h3>Connect</h3>
-          <ul>
-            <li class="twitter"><a href="http://twitter.com/mightytext">Twitter</a></li>
+          </a><ul><a href="aboutus">
+            </a><li class="twitter"><a href="aboutus"></a><a href="http://twitter.com/mightytext">Twitter</a></li>
             <li class="facebook"><a href="http://facebook.com/mightytext">Facebook</a></li>
+            <li class="blogg"><a href="http://blog.mightytext.net">Blog</a></li>
+
           </ul>
         </div>
 
@@ -227,64 +364,28 @@ or use the Services after those changes become effective, you agree to be bound 
             <li><a href="tos">Terms of Service</a></li>
           </ul>
         </div>
-                <div style="font-size:11px;color:orange;font-family:arial;">(previously called Texty)</div>
+              
 
+        <div class="Install">
+          <h3>Install</h3>
+          <ul>
+            <li><a href="install">Install Now</a></li>
+          </ul>
+        </div>
+              
+              
+        
       </div>
 
-    </footer>
-	
-
-
-<script type="text/javascript">
-/*
-document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https://snapabug.appspot.com":"http://www.snapengage.com") + "/snapabug.js' type='text/javascript'%3E%3C/script%3E"));</script><script type="text/javascript">
-SnapABug.addButton("6c27fe11-06fe-49b1-8811-455e530b78c6","1","55%");
-*/
-
-</script> 
+    </div>
 
 <!-- Place this tag in your head or just before your close body tag -->
 <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--[if IE]>
+		</div>
+<![endif]-->
 
 
 
