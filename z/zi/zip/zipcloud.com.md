@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcloud.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218011417id_/http%3A//www.zipcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcloud.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622135551id_/http%3A//www.zipcloud.com/privacy) for the most accurate reproduction.*
 
 # ZipCloud :: Privacy Policy
 
