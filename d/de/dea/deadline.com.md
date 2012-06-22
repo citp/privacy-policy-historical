@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deadline.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119005437id_/http%3A//www.deadline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deadline.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622223550id_/http%3A//www.deadline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Deadline.com
+# Privacy Policy - Deadline.com
 
 **Effective: January 4, 2011**
 
