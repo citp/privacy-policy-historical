@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itsirrational.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228203519id_/http%3A//itsirrational.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsirrational.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622102644id_/http%3A//itsirrational.com/privacypolicy) for the most accurate reproduction.*
 
-# Drake Quotes, Kid Cudi Quotes, Wiz Khalifa Quotes
+# Drake Quotes | Tumblr Quotes | Cute Quotes
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
@@ -24,5 +24,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 If you have any questions feel free to email me at: chris@itsirrational.com
 
-  
-
+| [](http://www.tumblr.com/reblog//TmN3ujDJ)
