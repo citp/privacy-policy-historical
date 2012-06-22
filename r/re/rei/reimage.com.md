@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reimage.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211210535id_/http%3A//www.reimage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reimage.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623014659id_/http%3A//www.reimageplus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Reimage.com
+# Privacy Policy | Reimageplus.com
 
 This document explains the privacy policy and practices of Reimage.com, a web-based PC maintenance and repair service operated by Reimage, Inc. ("Reimage" or the "Service"). This Policy is part of the Terms of Service for using Reimage. This Policy was last updated on: May 2010. At Reimage, protecting your personal information is an essential part of our Service. This Policy explains what personal information we collect from you, why we collect it and how we use it.
 
