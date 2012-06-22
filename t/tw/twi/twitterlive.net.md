@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitterlive.net privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229220416id_/http%3A//www.twitterlive.net/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitterlive.net privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622105100id_/http%3A//www.twitterlive.net/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Twitterlive | Privacy
 
@@ -33,4 +33,4 @@ Twitterlive.net contains links to other web sites. If you follow any of the link
 
 Aditional Information:
 
-If we make any changes in our Privacy Policy, we will post an updated Privacy Policy on our Site, which is effective immediately. The new policy will apply to all users of the Site and will replace any prior policies that are inconsistent with it. If you have any questions about our Privacy Policy, please [contact us](https://web.archive.org/web/20111229220416id_/http%3A//www.twitterlive.net/Help/Contact.aspx).
+If we make any changes in our Privacy Policy, we will post an updated Privacy Policy on our Site, which is effective immediately. The new policy will apply to all users of the Site and will replace any prior policies that are inconsistent with it. If you have any questions about our Privacy Policy, please [contact us](https://web.archive.org/web/20120622105100id_/http%3A//www.twitterlive.net/Help/Contact.aspx).
