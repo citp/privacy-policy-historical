@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstam.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220214907id_/http%3A//www.firstam.com/about/company-information/privacy-information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstam.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622170147id_/http%3A//www.firstam.com/about/company-information/privacy-information.html) for the most accurate reproduction.*
 
 # Privacy Information - First American - About - Company Information
 
@@ -11,7 +11,7 @@ In order to better serve your needs now and in the future, we may ask you to pro
 **Types of Information**
 
 Depending upon which of our services you are utilizing, the types of nonpublic personal information that we may collect include:  
-
+ 
 
   * Information we receive from you on applications, forms and in other communications to us, whether in writing, in person, by telephone or any other means; 
   * Information about your transactions with us, our affiliated companies, or others; and
@@ -28,7 +28,7 @@ Furthermore, we may also provide all the information we collect, as described ab
 **Confidentiality and Security**
 
 We will use our best efforts to ensure that no unauthorized parties have access to any of your information. We restrict access to nonpublic personal information about you to those individuals and entities who need to know that information to provide products or services to you. We will use our best efforts to train and oversee our employees and agents to ensure that your information will be handled responsibly and in accordance with this Privacy Policy and First American's Fair Information Values. We currently maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.  
-
+ 
 
 **Information Obtained Through Our Web Site**
 
