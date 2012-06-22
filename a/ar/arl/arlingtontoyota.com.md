@@ -1,93 +1,75 @@
-> *The following text is extracted and transformed from the arlingtontoyota.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618231908id_/http%3A//www.arlingtontoyota.com/Disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arlingtontoyota.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622105548id_/http%3A//www.arlingtontoyota.com/privacy.htm) for the most accurate reproduction.*
 
-# Disclaimer Arlington Toyota Jacksonville FL
+# Arlington Toyota | New Toyota dealership in Jacksonville, FL 32225
 
-10939 Atlantic Blvd  
-Jacksonville, FL 32225  
-Phone: 800-317-9440  
-Fax: 904-725-2962
+Our dealership takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our sites, we have developed a privacy statement to help you understand the terms and conditions surrounding the collection and use of that information. This statement discloses the types of information we gather, how it is used, and how you can gain access to and edit any data that we've collected about you at any time.
 
-| **Disclaimer**  
----  
-While every effort has been made to ensure display of accurate data, the vehicle listings within this web site may not reflect all accurate vehicle items. All Inventory listed is subject to prior sale. The vehicle photo displayed may be an example only. Pricing throughout the web site does not include any options that may have been installed at the dealership. There may be other dealer preparation or service fees not shown within pricing documents obtained from the web site, which represents costs and profit to dealer for items such as cleaning, inspecting, adjusting vehicles and preparing documents related to the sale. Please see the dealer for details.   
-**Privacy Notice**  
-  
-**IMPORTANT PRIVACY NOTICE**  
-  
-   
-We value our customers’ privacy. As required by law, the following describes important information regarding how we collect public and nonpublic personal information, how the information is disclosed, and your rights. Please review this information carefully.  
-   
-  
-**INFORMATION WE MAY COLLECT**  
-  
-We collect nonpublic information about you from the following sources:  
-o  | Information we received from you on credit applications or other forms  
-o  | Information about your transactions with us; and   
-o  | Information provided by you on our web site; and  
-o  | Information from credit reporting agencies, such as information relating to your creditworthiness, your credit score and credit usage.  
-  
-**INFORMATION WE MAY DISCLOSE AND TO WHOM**  
-  
----  
-   
-We may disclose the following kinds of nonpublic personal information about you:  
-o | Information we received from you on a credit application or other forms,   
-such as your name, address, social security number, e-mail address, and telephone number;  
-o | Information about your transaction with us, such as your Vehicle Identification Number,   
-whether you leased or financed your vehicle, and what type of vehicle you purchased;  
-o | Information we obtain during your visit to our web site (such as provided through online  
-forms and online information collecting devices known as "cookies").  
-  
-Non affiliated third parties are companies not under common control or ownership of our dealership. We may disclose nonpublic personal information about you to the following types of nonaffiliated third parties:   
-   
-o  | Companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements;   
-o  | Other financial institutions;   
-o  | Providers of extended warranties, credit   
-o  | insurance, theft deterrent systems, GAP protection, car care maintenance, and other vehicle after-market products.  
-o  | Third parties to comply with reporting and other legal requirements or to otherwise conduct business.   
-   
-  
-**YOUR RIGHT TO OPT-OUT**  
-  
-   
-If you prefer that we not disclose nonpublic personal information about you to nonaffiliated third parties, you may elect to opt-out of these disclosures (other than disclosures permitted by law). If you wish to exercise your opt-out option, you may do so by mailing in the attached form at the bottom of this notice.   
-   
-  
-**INFORMATION SECURITY**  
-  
-   
-We restrict access to nonpublic personal information about you to those individuals who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.  
-  
-**CHANGES TO THE POLICY**  
-  
-   
-We reserve the right to modify or supplement this privacy policy. If material changes are made, we will provide a revised policy to all current customers.  
-\--------------------------------------------------------------  
-  
-**OPT-OUT REQUEST MAIL IN FORM**  
-  
----  
-  
-Please Print Clearly  
-  
-NAME:________________________________________________________   
-   
-ADDRESS:____________________________________________________   
-   
-CITY:_________________________STATE:_______________ZIP:_______   
-   
-PHONE NUMBER:(_______)_____________________________  
-   
-VEHICLE IDENTIFICATION NUMBER (VIN #) _________________________  
-   
-Return Request To:  
-Arlington Toyota  
-10939 Atlantic Blvd  
-Jacksonville, FL 32225  
-I understand this Request may cause me to no longer receive promotional or exclusive offer for many product or services we provide. I direct the dealership not to share my nonpublic personal information as set forth below {please check appropriate box(es)}:  
-   
-__ I direct the dealership not to share nonpublic personal information about me with non-affiliated third parties, except as permitted by law.  
-__ I direct the dealership not to share nonpublic personal information about me among its affiliated companies, except as permitted by law.  
-   
-  
-Please note: If you finance or lease another vehicle from our dealership after you submit this Opt Out request, you will receive another copy of our Privacy Policy and Opt Out form. If you wish to Opt Out in connection with your new purchase or lease, you will need to submit another Opt Out request at that time.
+##### Guiding Principles:
+
+Our dealership respects the privacy of individuals who visit our Web sites, send us e-mail, or participate in features/services we offer online. Accordingly, our policy regarding online privacy has been developed using the following guiding principles:
+
+Our dealership maintains a strict "no-spam" policy. Subscribers to our e-mail services (or any other feature/service found on our Web site) will not receive unsolicited e-mail messages from us. Our dealership collects information online primarily to provide our visitors with a more relevant experience on our sites. When doing so, we will make every reasonable effort to avoid excessive or irrelevant collection of data. Our dealership will take reasonable physical, electronic and managerial measures to safeguard and secure any information you provide to us (e.g. data will be stored in protected databases on secured servers with restricted access). Our dealership will not share any information you've provided to us with anyone without your consent other than to provide the service you've requested. At the time you register for any such service, you will be notified of, and asked to consent to, the sharing of your information with any particular third party necessary to the provision of the requested service. 
+
+##### Non-Personally Identifiable Data:
+
+Anytime you visit our Web site, we may gather certain non-personally identifiable information regarding the means you use to access our site. This information may include the type and version of your browser, your service provider, your IP address and any search engine you may have used to locate the site. We use this information to help diagnose problems with our server, administer the Web site, and compile broad statistical data. In addition, we gather certain navigational information about where you go on our Web sites. This information enables us to determine which areas of the Web sites are most frequently visited and helps us to tailor the sites to the needs and interests of our online visitors. Such information is gathered by us in the aggregate and will not be associated with a specific individual without that individual's consent.
+
+##### Information Voluntarily Provided:
+
+Any information you provide to us (i.e. name, e-mail address, etc.) when you enroll in one of our E-Mail Reminder Services, request information, or use any of the other interactive portions of our Web sites, is securely maintained on our Web server and internal systems. This information may be used to provide you with information you've requested about our company, our products and our services, or to provide you with special notices. You may opt out of receiving future communications at any time (see opt-out Procedures below). This data may also be used to tailor your experience on our sites by providing content that is relevant to your interests and geographic region.
+
+##### Information Collected from Other Sources:
+
+To help us better understand and respond to your needs and interests, we may in the future receive information about you from other sources. We will ask any provider of such information to represent and warrant that the information has been gathered and maintained in accordance with all state and federal laws. Any such information will be maintained by us in accordance with the standards set forth in this privacy policy along with other personal information you've provided.
+
+##### Disclosure of Personal Information:
+
+Our dealership understands the importance of your privacy. We collect and maintain the personal information of our consumers for our use and our subsidiaries. We do not sell, rent, or trade consumer information to third parties, other than as described below, and never without your consent.
+
+##### Business Partners:
+
+Our dealership may partner with select retailers and other companies at various times to provide expanded services to our site visitors. As part of such a relationship, we may share with these companies the use of certain interactive Web site functions (i.e. the E-Mail Reminder Service). Information provided by site visitors through the use of such interactive functions may be available to both our dealership and our partners.
+
+##### Agents:
+
+Our dealership may use other companies and individuals to perform certain functions on our behalf. Examples include administering e-mail services and running special promotions. Such parties only have access to the personal information needed to perform these functions and may not use or store the information for any other purpose. Subscribers or site visitors will never receive unsolicited e-mail messages from agents working on our behalf.
+
+##### Business Transfers:
+
+In the event that our dealership sells or transfers a particular portion of its business assets, consumer information may be one of the business assets transferred as part of the transaction. If substantially all of the assets of our dealership are acquired, consumer information may be transferred as part of the acquisition.
+
+##### Compliance with Law/Safety:
+
+Our dealership may disclose specific personal information based on a good faith belief that such disclosure is necessary to comply with or conform to the law or that such disclosure is necessary to protect the users of our Web sites, the sites themselves, or the public.
+
+##### With Consent:
+
+Other than as set forth in this Privacy Policy, you will be notified when any personally-identifiable information about you may be shared with third parties, and you will be given the opportunity to decline to share that information.
+
+##### Use of Cookies:
+
+Our dealership may use a browser feature known as a "cookie." Cookies are small files placed on your hard drive that assist us in providing you with a customized browsing experience. Our dealership uses cookies to provide you with the convenience of not having to reenter information, such as user IDs and passwords, multiple times during your visits to our Web sites. Cookies can also be utilized to help us provide you with information targeted to your interests, based upon your prior browsing on our Web sites. The "help" section of the toolbar on most browsers will inform you on how to prevent your browser from accepting new cookies, how to have the browser notify you upon the receipt of a new cookie, or how to disable the use of cookies completely. As our Web sites have been designed to take advantage of the use of cookies. Should you configure your browser to decline their use, certain features of our Web sites may not function correctly and you may be required to renter any user IDs and passwords more frequently
+
+##### Accessing Our Web Sites from Outside of the United States:
+
+If you are visiting our Web site from a location outside of the U.S., your connection will be through and to servers located in the U.S. Any information you provide during your visit will be processed and maintained on our Web server and other internal systems located within the U.S.
+
+##### External Links:
+
+Our Web sites contain links to other sites. Our dealership is not responsible for the privacy practices or the content of such Web sites. To help ensure the protection of your privacy, we recommend that you review the privacy policy of any site you visit via a link from one of our Web sites.
+
+##### Passwords:
+
+The personal data record created through your registration with our Web site can only be accessed with the unique password associated with that record. To protect the integrity of the information contained in this record, you should not disclose or otherwise reveal your password to third parties.
+
+##### Public Forums:
+
+Our Web sites may make chat rooms, forums, message boards, and/or news groups available to its users at various times. Please remember that, unless otherwise stated, any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information in these areas.
+
+##### opt-out Procedures:
+
+You may always opt-out of receiving future communications from our dealership. Our sites allow users to opt-out of receiving such communications at the point where personal information is requested, or through other means as identified.
+
+##### Contacting the Web Sites:
+
+If you have questions concerning this Privacy Policy or the practices of these sites, you may contact us.
