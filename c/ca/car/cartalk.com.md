@@ -1,78 +1,79 @@
-> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005326id_/http%3A//www.cartalk.com/menus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622104305id_/http%3A//www.cartalk.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Car Talk. Car tips, advice, and troubleshooting. | Privacy
+# Privacy Policy | Car Talk
 
-**Revised March, 2009**
+**CarTalk.com Privacy Policy**
 
-Thank you for visiting the cartalk.com Web site. 
+See related: CarTalk.com [Terms of Service](http://www.cartalk.com/content/terms-service)
 
-"Car Talk" is a registered service mark of Tom and Ray Magliozzi. "cartalk.com" is a production of Dewey, Cheetham and Howe. Contents 2007, Dewey, Cheetham and Howe. 
+At CarTalk.com, we recognize the importance of privacy to visitors to our Web site, CarTalk.com's mobile site and applications, any other CarTalk.com sites, applications and services, and any features of these sites, applications and services (the "CarTalk.com Services").
 
-Our postal address is P.O. Box 3500, Car Talk Plaza, Harvard Square, Cambridge, MA 02238. You may also contact us via [email](https://web.archive.org/ct/3500.jsp). 
+This Privacy Policy explains what type of information is collected from you when you visit the CarTalk.com Services and how that information may be used. Please note that this Privacy Policy is separate and distinct from the privacy policies governing the Web sites, applications and services of National Public Radio (NPR) and its member stations, and the Web sites, applications and services that may link to or from the CarTalk.com Services.
 
-**cartalk.com's Privacy Policy**  
-Your privacy on the Internet is important to us. As part of the operations of cartalk.com, we gather certain types of information about cartalk.com users. This Privacy Policy explains the types of information we gather and what we do with it. 
+**Gathering of Information**  
+CarTalk.com collects personally-identifying information (such as your name and e-mail address, and, for purchases, your address, telephone number, and credit card information) from the
 
-**Information collected by cartalk.com**  
-cartalk.com collects two types of information about users: 
+**CarTalk.com Services for a variety of purposes.**  
+CarTalk.com asks visitors to provide certain personal information when they register for certain features or services of the CarTalk.com Services (for example, the Car Talk Community, and e-mail newsletters), when they create a profile in the Car Talk Community, when they e-mail or otherwise share a story from the CarTalk.com Services, when they make a purchase from the Shameless Commerce section of the Web site, when they post, upload, transmit and/or otherwise submit ("Submit") a comment, message, story idea, essay, photo, image, or other text, content or material ("User Materials"), and when they register for any online contests. In some cases, CarTalk.com records the telephone number of your mobile device when you access CarTalk.com's mobile site and applications or any features of the site, applications and services ("CarTalk.com Mobile Services"). CarTalk.com also may ask visitors to provide personal information in other limited circumstances specified at the time the information is gathered. Any information that you Submit on or through the Car Talk Community or other social networking features, as part of story or blog comments, or otherwise Submit to the CarTalk.com Services, may become public, including the full name and nickname that you provide when registering for the Car Talk Community.
 
-  * Personal information (such as name and email address) and 
-  * Aggregate information (such as information about how many users log on to our site on a daily basis). 
+Like all other Web servers, CarTalk.com's Web server automatically creates log files for each visitor who accesses the CarTalk.com Services. These "access logs" allow us to make our site more useful to our visitors. For users of CarTalk.com Mobile Services, the access logs record the identifier provided for your mobile device by your wireless carrier ("carrier identifier"). Otherwise, the access logs do NOT record a visitor's name, address, e-mail address, credit card numbers, or any other personally-identifying information. Rather, they contain some or all of the following information:
 
-
-
-**Personal Information**  
-Within cartalk.com, you may be asked to give us personal information, such as when you ask a question via email that requires a response. cartalk.com will not obtain personally identifying information about you when you visit our site unless you choose to provide it to us (except for IP addresses described below in "Aggregate Information"). 
-
-We will not voluntarily sell, give away, or trade names, addresses or any personally identifiable information about our site users (without their expressed permission) to any third parties. We will not otherwise release such information unless not doing so endangers the Web site or is required by law or in the courts. 
-
-**Aggregate Information**  
-One method of collecting aggregate information about your activities online (such as the pages you access most frequently or the search terms you enter), and information volunteered by you (such as survey information), is by tracking Internet Protocol (IP) addresses. An IP address is a number that is automatically assigned to your computer whenever you surf the Web. The computers that deliver the Web pages to you automatically identify your computer by its IP address. When you request a page from our site, our server logs your IP address. 
-
-Our site records IP addresses for the purposes of system administration and to provide aggregate data to advertisers about the use of our site. We also create aggregate reports on user demographics and traffic patterns for advertisers and partners. This allows these parties to advertise more effectively and allows you to receive advertisements that are most relevant to your personal interests. An advertiser will not know that you clicked its advertisement unless you voluntarily and explicitly permit us to provide such information. 
-
-**Use of Information Collected by cartalk.com**  
-cartalk.com uses the personal information we collect to: 
-
-  * Improve the content of our site; 
-  * To customize the content and/or layout of our site for each individual user; 
-  * To notify users about updates to our sites or promotional offers or opportunities that we believe will be of interest to users; 
-  * To fulfill requests for information, services, or products that our users make of our Web site; and 
-  * To investigate violations of our terms and conditions of use. 
+  * The Internet Protocol Address (IP Address) of the machine which accessed the CarTalk.com Services.
+  * General location information (based on IP Address)
+  * The date of the visit.
+  * The time of the visit.
+  * The path taken through the CarTalk.com Services.
+  * The browser being used.
+  * A list of files downloaded or viewed.
+  * The amount of time spent listening to/viewing media files.
+  * Any errors encountered.
 
 
 
-**Sharing Data with Third Parties**  
-cartalk.com shares aggregate information with third parties for advertising and promotional purposes. 
+**Cookies and Other Technologies**  
+CarTalk.com also uses 'cookies' to collect information. A cookie is a string of characters that can be written to a file on the user's hard drive when the user visits a web site, application or service. Only the web site, application or service that set the cookie can read it, and it can only be used as a record keeping device to store user IDs and information that the site already has. It cannot be used to read other information from the user's hard drive.
 
-Occasionally, we may post the name of a user (for example, a puzzler winner or letter writer) on our site. cartalk.com will notify you of this possibility when you provide your information or, if possible, will notify you when the information is posted. 
+CarTalk.com uses cookies to track users' activity through the CarTalk.com Services in order to improve the site/application/service architecture, to offer the user interactive features that would not be possible without them, to offer local station content, and to recall specific information to save the user time during subsequent visits to the CarTalk.com Services. For example, cookies allow CarTalk.com to remember your registration information while you are logged in. Shameless Commerce and other interactive features also use cookies. Our sponsorship service vendors, which serve sponsorship messages onto the CarTalk.com Services, and third party vendors that measure and analyze the use of the CarTalk.com Services for CarTalk.com, may also use their own cookies.
 
-cartalk.com uses a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address, or telephone number) about your visits to our site and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, we share Web site usage information about visitors to our sites with this company for the purpose of managing and targeting advertisements on our Web site and other Web sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs or single-pixel gifs). In the course of serving advertisements to this Web site, our third-party advertising company may place or recognize a unique "cookie" on your computer. If you would like more information about the information collection practices of this third-party advertising company and to know your choices about not having this information used by this company, [click here](http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&). 
+CarTalk.com and the third party vendors that measure and analyze use of the CarTalk.com Services for CarTalk.com also may use web beacons, alone or in conjunction with cookies, to help compile information about and facilitate usage of the CarTalk.com Services, including usage of certain API Content. A web beacon is an electronic image, also known as a single-pixel (1x1) or clear .gif, which can be used to recognize certain information on your computer, such as cookies, the time and date of a page viewed, and a description of where API Content is placed. We may use web beacons on this site from time to time for this and other purposes.
 
-Google, as a third party vendor, uses cookies to serve ads on cartalk.com. Google's use of the DART cookie enables it to serve ads based on your visit to cartalk.com and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+If you wish to prevent certain or all cookies or web beacons from being set to your hard drive or device, or to clear existing cookies or web beacons from your browser's or device's cache, you may be able to disable them in your browser's preferences, although your browser might then be unable to accommodate certain functionalities on the CarTalk.com Services.
 
-**Electronic Newsletters**  
-cartalk.com offers free, electronic newsletters as a service to our users. You will only receive a newsletter if you agree to receive it directly from our newsletter sign-up form. cartalk.com reserves the right to include advertising messages in these electronic newsletters; however, we will not divulge our newsletter mailing lists to any third parties, including advertisers or partners. 
+**Use of Information**  
+The use of personally-identifying information is limited to the following: managing and administering the CarTalk.com Services; responding to user messages; listing name and location (city, state and/or country) information provided by users when broadcasting or publishing User Materials; fulfillment of Shameless Commerce orders; contest management; editorial purposes such as contacting users for an online survey; sending CarTalk.com e-mail newsletters and other communications, including marketing and promotional communications, from CarTalk.com or NPR member stations to users who have 'opted in' to the receipt of such communications; other internal CarTalk.com purposes; and other purposes specified at the time the information is gathered. CarTalk.com may contact users regarding their submissions in certain circumstances.
 
-**cartalk.com Store**  
-cartalk.com provides shopping services in our Shameless Commerce Division. These purchases may require credit card and personal contact information. cartalk.com's shopping services store your information and send it to the fulfillment center automatically when you make your purchase, using encryption technology to protect your information during this transfer. 
+Any information that you disclose when participating in the Car Talk Community (including creating a profile or submitting a comment to a story or blog or in a discussion thread or a recommendation posted to the Mechanics Files section), such as your full name and any nickname, is likely to become public. This information may be posted on the CarTalk.com Services. In addition, CarTalk.com may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any User Materials, and any information contained therein, in any and all media formats or channels, whether now known or hereafter devised, including, but not limited to, the CarTalk.com Services, NPR and NPR-member-station web sites and services, other third party web sites and services, over the air (on radio or television), and on mobile platforms.
 
-We strive to make your shopping experience as worry-free as possible. We use secure server software (SSL), the industry standard for ensuring the security of your electronic commerce transactions. SSL encrypts all of your personal information transmitted over the Internet, including your credit card number and name and address. This technology is designed to protect your information by rendering it useless, should it ever be intercepted in transit. We will continue to provide the highest level of security by implementing improved technologies as they become available. 
+In addition, if you send User Materials to CarTalk.com through the CarTalk.com Services, we may print the User Materials, or an excerpt from the User Materials, on the CarTalk.com Services, read them on air, or otherwise publish them in any other medium, together with your name and location (city, state and/or country) if you provide that information to us.
 
-**Community and Public Areas**  
-Information posted to bulletin boards, car surveys, Mechanics Files and personal ads is available to the general public. Please use caution when posting any such information. Users of bulletin boards must follow acceptable standards of behavior when posting messages online. cartalk.com reserves the right to, but is not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. cartalk.com also reserves the right to block a site user entirely if his/her behavior on and use of the site is deemed inappropriate. 
+Excluding information provided by the user when participating in the Car Talk Community or sending User Materials to CarTalk.com, which may become public as discussed above, personally-identifying information collected by CarTalk.com is not provided to outside parties except, for limited purposes, NPR and NPR-member stations, CarTalk.com service vendors (such as the Shameless Commerce order fulfillment service, CarTalk.com's email list manager, and the provider of the tool that allows users to sign in using information from their account with a third party service), and other third parties when the user specifically consents to such distribution (such as the disclosure of your name to a friend when you email or otherwise share a story to that friend). In these circumstances, the information is provided for the sole purpose of and only to the extent necessary for—delivering the requested goods to the user, delivering communications from CarTalk.com or NPR to users who have 'opted in' to the receipt of these communications, providing services for and on behalf of CarTalk.com, or serving other internal CarTalk.com or NPR purposes.
 
-**Links to and from Other Sites**  
-Our site contains links to sites other than cartalk.com; similarly, other sites link to cartalk.com. These sites may not follow the same privacy policies as cartalk.com. cartalk.com does not control the content that appears on these sites. Such sites may contain information that content providers independent of cartalk.com have created, maintained, published, posted, or otherwise made available. 
+CarTalk.com also may disclose personal information if required to do so by law or if it believes that such action is necessary to (a) comply with the law or with legal process, (b) protect against misuse or unauthorized use of the CarTalk.com Services, or (c) protect the personal safety or property of users of the CarTalk.com Services, the public or CarTalk.com and its employees. If you do not want your personally-identifying information to be collected or used for any of these purposes, please do not provide it (although if you do not provide it, you may not be able to use or participate in certain features of the CarTalk.com Services). You can also 'opt out' according to the process described below.
 
-The use of any information or materials that you may access at these external sites is purely voluntary. 
+CarTalk.com, with the assistance from time to time of its third party service vendors, uses non-identifying aggregate information to analyze use of and better design the CarTalk.com Services and to share with third parties in aggregate form only as appropriate. For example, we may tell a third party that a certain number of users accessed a particular audio stream on our Web site. However, we will not disclose any information that could be used to identify those users.
 
-**Children's Guidelines**  
-We believe that it is especially important to protect children's privacy online. We encourage parents to get involved with their children's online usage and to be aware of the activities in which they are participating. Note: We define "children" as minors younger than 13 years old. We do not knowingly collect or use any personally identifiable information from children, and we do not provide any personally identifiable information, regardless of its source, to any third party for any purpose whatsoever from our visitors younger than 13 years old. We do not knowingly allow children to register with us or to participate in any of our promotions or contests. No information should be submitted to or posted at cartalk.com by visitors younger than 13 years old. In the event that cartalk.com obtains information from an individual who indicates that he/she is younger than 13 years old, cartalk.com will promptly discard the personally identifiable information without collecting, using, or disclosing such information to any third party. You should be aware that if your child voluntarily discloses his or her name, email address, or other information on any Web site, such disclosures might result in unsolicited messages. 
+**Security**  
+CarTalk.com has in place what we believe to be appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to the Shameless Commerce section is protected against unauthorized use by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your browser and the Shameless Commerce server can decipher it. However, no Internet, e-mail or mobile transmission is ever fully secure or error free. Because most e-mail and mobile transmissions are not encrypted, you should take special care in deciding what information you send to us via e-mail or other mobile transmission.
 
-**Additional Information**  
-No transmission of data over the Internet is guaranteed to be completely secured. It may be possible for third parties not under the control of cartalk.com to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal information, cartalk.com cannot ensure or warrant the security of any information you transmit to us. Any such transmission is done at your own risk. 
+**Children**  
+Under 13: You must be at least 13 years old in order to register for e-mail newsletters or other features of the CarTalk.com Services. If you are under 13 years of age, please do not send any information about yourself, including your name, address or e-mail address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.
 
-cartalk.com reserves the right to change this Privacy Policy at any time. Any such changes will be posted online. [Email us](https://web.archive.org/ct/3500.jsp) with any questions. 
+13-18: You must be at least 18 years old in order to submit any User Materials on or through the CarTalk.com Services, create a profile in the Car Talk Community, participate in any online contests, or place an order on the CarTalk.com Shop. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for e-mail newsletters or other features of the CarTalk.com Services (excluding the Car Talk Community, for which they cannot register) or otherwise sending any personally-identifying information.
 
-| 
+**Corrections to Personal Data; Opting Out**  
+Please contact us to (a) correct or update any personal information in the CarTalk.com database that you state is erroneous,( b) opt-out of future communications from CarTalk.com, or (c) request CarTalk.com to make reasonable efforts to remove your personal information from CarTalk.com's database, thereby canceling your Car Talk Community profile, CarTalk.com newsletter registration and other CarTalk.com registrations. This will not necessarily remove previous public comments and other User Materials Submitted for public display on the CarTalk.com Services. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.
+
+**Acceptance of Privacy Policy Terms**  
+CarTalk.com reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically. Use of the CarTalk.com Services constitutes consent to any policy then in effect. Please make sure that you read CarTalk.com's Terms of Service to understand additional terms and conditions which apply to the use of the CarTalk.com Services.
+
+**Links to other Sites and Services**  
+Please note that the CarTalk.com Services contain links to other sites, applications, and services maintained by third parties that may not follow the same privacy policies as the CarTalk.com Services. For instance, clicking or tapping on a sponsorship notice, a Shameless Commerce link, or some third party logos on the CarTalk.com Services will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data, and use the data in ways that the CarTalk.com Services would not. CarTalk.com is not responsible for the privacy practices or any information or materials on these other sites. Please visit these sites if you wish to review their privacy policies.
+
+In some cases, the CarTalk.com Services may include certain embedded tools provided and controlled by third parties and governed by the terms and policies of the third parties. You should only use these third party tools if you agree to their respective terms and policies.
+
+**International User Notice**  
+For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this policy. By using this site, you agree to have your information used and transferred to the United States as set forth in this policy.
+
+**Questions** If you have any questions or comments concerning our Privacy Policy, please [Contact Us.](http://www.cartalk.com/content/contact-us)
+
+_Revised March 25, 2011_
