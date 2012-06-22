@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the devere.co.uk privacy policy that was archived on 2011-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111215171126id_/http%3A//www.devere.co.uk/footer/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the devere.co.uk privacy policy that was archived on 2012-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622063457id_/http%3A//www.devere.co.uk/footer/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="no-js"><!--<![endif]--><head><script async="" src="http://account.devere.co.uk/account/getuser?_=1582532264177"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="no-js"><!--<![endif]--><head><script async="" src="http://account.devere.co.uk/account//getuser?_=1582532263336"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="Privacy Policy">
 <meta name="description" content="">
@@ -9,7 +9,7 @@
 <meta name="robots" content="all">
 <meta name="generator" content="Magnolia Enterprise Edition 4.4.4">
 
-<title>Privacy Policy</title>
+<title>Privacy &amp; Cookie Policy - De Vere Group</title>
 
 
 
@@ -17,7 +17,7 @@
 
     <style type="text/css">
         #logo span {
-            background-image: url('http://static.deverevenues.co.uk/default/mediaObject/devere-main/logos/devere-group-logo/original/devere-group-logo.jpg');
+            background-image: url('http://static.deverevenues.co.uk/default/mediaObject/devere-main/logos/devere-group-logo0/original/devere-group-logo.png');
         }
     </style>
 
@@ -97,20 +97,24 @@
 
 
 <div id="header">
-	<a href="/" id="banner"><img src="http://static.deverevenues.co.uk/default/mediaObject/devere-main/logos/devere-group-logo/original/devere-group-logo.jpg" alt="Welcome to De Vere" title="Homepage" width="388" height="99"></a>
+	<a href="/" id="banner"><img src="http://static.deverevenues.co.uk/default/mediaObject/devere-main/logos/devere-group-logo0/original/devere-group-logo.png" alt="Welcome to De Vere" title="Homepage" width="388" height="99"></a>
 	
 <ul id="utility">	
 	<li><a href="#" class="email-pref muted launch-signup-modal">Sign up for the latest offers</a></li>
 </ul>
 
 <script type="text/javascript" src="/devere-common/docroot/plugins/jquery.base64.js"></script>
+<script type="text/javascript" src="/devere-common/docroot/js/devere/components/tapestryurlencoder.js"></script>
 <script type="text/javascript">
-	var accountURL = "http://account.devere.co.uk/account";
-	var logoutURL = "http://booking.devere.co.uk/booking/account/logout";
-    var encodedLocationURL = $.base64Encode(window.location.href);
-    var loginURL = accountURL + "/account/login/rfp/" + encodedLocationURL;
-    var registerURL = accountURL + "/account/register/rfp/" + encodedLocationURL;
-		
+	var myDevereURL = "http://booking.devere.co.uk/booking";
+	var accountURL = "http://account.devere.co.uk/account/";
+	var magLogoutURL = "http://account.devere.co.uk/account/logout";
+    var encodedLocationURLForGBE = encodeURIComponentForTapestry($.base64Encode(window.location.href));
+    var encodedLocationURLForACCT = encodeURIComponent($.base64Encode(window.location.href));
+    var myDetailsURL = myDevereURL+((myDevereURL.charAt(myDevereURL.length-1)!="/")?"/":"")+"account/my";
+    var loginURL = myDevereURL+((myDevereURL.charAt(myDevereURL.length-1)!="/")?"/":"")+"account/login/"+encodedLocationURLForGBE;
+    var logoutURL = magLogoutURL+((magLogoutURL.charAt(magLogoutURL.length-1)!="/")?"/":"")+encodedLocationURLForACCT; 
+    var registerURL = myDevereURL+((myDevereURL.charAt(myDevereURL.length-1)!="/")?"/":"")+"account/register/"+encodedLocationURLForGBE;
 </script>
 <script type="text/javascript" src="/devere-common/docroot/js/devere/components/loginpanel.js"></script>
 
@@ -128,9 +132,8 @@
 			else if(loggedIn)
 			{
 				$("#utility").html(accountHTML);
-				$('<p class="welcome">Welcome back ' + userFirstName +
-				', not ' + userFirstName + '? | ' + 
-						'<a href="'+logoutURL+'">Sign out</a> |' + 
+				$('<p class="welcome">Welcome back ' + userFirstName +'</p>' +
+						'<p class="welcome-linkset"><a href="'+logoutURL+'">Sign out</a> | <a href="'+myDetailsURL+'">Your account</a>' + 
 						'</p>' ).insertAfter("#utility");
 			}
 			else if(!loggedIn)
@@ -153,7 +156,7 @@
       <ul>
       	  <li class="home"><a href="/" title="Welcome to De Vere" accesskey="1">Welcome to De Vere</a></li>
 				<li class="about-us"><a href="/about-us.html">About Us</a>
-					<div class="subnavigation" style="left: 78.9844px;">
+					<div class="subnavigation" style="left: 59.9844px;">
 							<p>
 							In this section
 							</p>
@@ -169,6 +172,9 @@
 	</li>
 	<li>
 	<a href="/about-us/De-Vere-Lodges.html">De Vere Lodges</a>
+	</li>
+	<li>
+	<a href="/about-us/great-british-hospitality.html">Great British Hospitality</a>
 	</li>
 </ul>
 					<div class="shadow bottom"></div><div class="shadow left"></div><div class="shadow right"></div><div class="shadow bottom-left"></div><div class="shadow bottom-right"></div></div>
@@ -194,9 +200,6 @@
 	</li>
 	<li>
 	<a href="/business-events/showtime-rewards.html">Showtime Rewards</a>
-	</li>
-	<li>
-	<a href="/business-events/Christmas.html">Christmas</a>
 	</li>
 	<li>
 	<a href="/business-events/contact-us.html">Contact Us</a>
@@ -228,7 +231,7 @@
 				</li>								
               
 				<li class="golf"><a href="/golf.html">Golf</a>
-					<div class="subnavigation" style="left: 429.562px;">
+					<div class="subnavigation" style="left: 354.062px;">
 							<p>
 							In this section
 							</p>
@@ -249,8 +252,19 @@
 	<a href="/golf/residential-golf.html">Residential Golf</a>
 	</li>
 	<li>
+	<a href="/golf/pga-golf-academy.html">PGA Golf Academy</a>
+	</li>
+	<li>
 	<a href="/golf/sunday-driver.html">Sunday Driver</a>
 	</li>
+	<li>
+	<a href="/golf/twilight-green-fee-rates.html">Twilight Rates</a>
+	</li>
+	<li>
+	<a href="/golf/pro-tips.html">Pro Tips</a>
+	</li>
+</ul>
+<ul class="destinations no-highlights">
 	<li>
 	<a href="/golf/competition.html">Competition</a>
 	</li>
@@ -260,18 +274,21 @@
 	<li>
 	<a href="/golf/golf-enquiry.html">Golf Enquiry</a>
 	</li>
+	<li>
+	<a href="/golf/members-newsletter/members-tips.html">Members Golf Tips</a>
+	</li>
 </ul>
 					<div class="shadow bottom"></div><div class="shadow left"></div><div class="shadow right"></div><div class="shadow bottom-left"></div><div class="shadow bottom-right"></div></div>
 				</li>								
               
 				<li class="wedding-celebrations"><a href="/wedding-celebrations.html">Wedding &amp; Events</a>
-					<div class="subnavigation" style="left: 574.062px;">
+					<div class="subnavigation" style="left: 565.562px;">
 							<p>
 							In this section
 							</p>
 <ul class="destinations no-highlights">
 	<li>
-	<a href="/wedding-celebrations/Christmas-2011.html">Christmas 2011</a>
+	<a href="/wedding-celebrations.html">Wedding &amp; Events</a>
 	</li>
 </ul>
 					<div class="shadow bottom"></div><div class="shadow left"></div><div class="shadow right"></div><div class="shadow bottom-left"></div><div class="shadow bottom-right"></div></div>
@@ -283,7 +300,17 @@
 				<li class="booking"><a href="/booking.html" title="Book" accesskey="4">Book</a>
 				</li>								
               
-				<li class="offers"><a href="/offers.html" title="Offers" accesskey="5">Offers</a>
+				<li class="offers"><a href="/offers.html" accesskey="5">Offers</a>
+					<div class="subnavigation" style="left: 841.812px;">
+							<p>
+							In this section
+							</p>
+<ul class="destinations no-highlights">
+	<li>
+	<a href="/offers.html">Offers</a>
+	</li>
+</ul>
+					<div class="shadow bottom"></div><div class="shadow left"></div><div class="shadow right"></div><div class="shadow bottom-left"></div><div class="shadow bottom-right"></div></div>
 				</li>								
               
       </ul>
@@ -310,12 +337,24 @@
 <div class="content ">
 
 <div class="main full">
-<h1>Privacy policy</h1><p></p>
+<h1>Privacy and Cookie Policy</h1>
+<p>This policy statement sets out the data processing practices carried out through the use of the internet and World Wide Web by De Vere Group. If you have any questions concerning your personal information or any queries with regard to these practices please contact us at <a href="mailto:customerservices@devere.co.uk"><strong>customerservices@devere.co.uk</strong></a></p>
 <h2>1. Information collected</h2> <p><span>We collect personal information from visitors to this web site through the use of enquiry and reservation forms and every time you e-mail us your details.</span></p>
-<h2>2. Use of personal Information</h2> <p><span>We process personal information collected via this website for the purposes of:</span></p> <div> <p>Dealing with your requests<br> Providing reservation services<br> <span>Tailoring our services to your requirements and preferences<br> Conducting market research surveys and providing you with information about products and services we offer. </span></p> </div> <p>&nbsp;</p>
-<h2>3. Disclosures</h2> <p>We will NOT sell this information and will only disclose it to other companies within the De Vere Group PLC and any suppliers we engage to process data on our behalf.</p>
+<h2>2. Use of personal Information</h2> <p><span>We process personal information collected via this website for the purposes of:</span></p> <div> <p>Dealing with your requests<br> Providing reservation services<br> <span>Tailoring our services to your requirements and preferences<br> Conducting market research surveys and providing you with information about products and services we offer. </span></p> </div>
+<h2>3. Disclosures</h2> <p>We will NOT sell this information and will only disclose it to other companies within the De Vere Group Ltd and any suppliers we engage to process data on our behalf.</p>
 <h2>4. Internet Based Transfers</h2> <p><span>Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing this web site and communicating electronically with us, you acknowledge and agree to our processing personal data in this way.</span></p>
 <h2>5. Security</h2> <p><span>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</span></p>
+<h2>Use of Cookies on this Website</h2> <p>A cookie is a small file, typically of letters and numbers, downloaded on to a device such as a computer when a user accesses certain websites. Cookies allow a website to recognize a user’s device.</p> <p>Cookies can expire at the end of a browser session (from when a user opens the browser window to when they exit the browser) or they can be stored for longer.</p> <p><strong>Session cookies</strong> – allow websites to link the actions of a user during a browser session. They may be used for a variety of purposes such as remembering what a user has put in their shopping basket as they browse around a site. They could also be used for security or to facilitate use of webmail. These session cookies expire after a browser session so would not be stored longer term.</p> <p><strong>Persistent cookies</strong> – are stored on a users’ device in between browser sessions which allows the preferences or actions of the user across a site (or in some cases across different websites) to be remembered. Persistent cookies may be used for a variety of purposes including remembering users’ preferences and choices when using a site or to target advertising</p> <p><strong>First and third party cookies </strong>– Whether a cookie is ‘first’ or ‘third’ party refers to the website or domain placing the cookie. First party cookies in basic terms are cookies set by a website visited by the user - the website displayed in the URL window. Third party cookies are cookies that are set by a domain other than the one being visited by the user. If a user visits a website and a separate company sets a cookie through that website this would be a third party cookie.</p> <p>Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit <a href="http://www.allaboutcookies.org"><strong>www.allaboutcookies.org.</strong></a><br> &nbsp;</p>
+<p><style type="text/css"> <!--table 	{mso-displayed-decimal-separator:"\."; 	mso-displayed-thousand-separator:"\,";} .font5 	{color:windowtext; 	font-size:8.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0;} td 	{padding-top:1px; 	padding-right:1px; 	padding-left:1px; 	mso-ignore:padding; 	color:windowtext; 	font-size:10.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:bottom; 	border:none; 	mso-background-source:auto; 	mso-pattern:auto; 	mso-protection:locked visible; 	white-space:nowrap; 	mso-rotate:0;} .xl24 	{text-align:center; 	vertical-align:middle; 	border:.5pt solid windowtext;} .xl25 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext;} .xl26 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext;} .xl27 	{font-size:9.0pt; 	vertical-align:middle; 	border:.5pt solid windowtext; 	white-space:normal;} .xl28 	{font-size:9.0pt; 	vertical-align:top; 	border:.5pt solid windowtext; 	white-space:normal;} .xl29 	{font-size:9.0pt; 	vertical-align:top; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl30 	{font-size:9.0pt; 	vertical-align:top; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl31 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl32 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl33 	{font-size:9.0pt; 	text-align:left; 	vertical-align:top; 	border:.5pt solid windowtext; 	white-space:normal;} .xl34 	{font-size:9.0pt; 	vertical-align:top; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl35 	{font-size:9.0pt; 	text-align:left; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl36 	{font-size:9.0pt; 	text-align:left; 	vertical-align:middle; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl37 	{font-size:9.0pt; 	text-align:left; 	vertical-align:top; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl38 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} ruby 	{ruby-align:left;} rt 	{color:windowtext; 	font-size:8.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0; 	mso-char-type:none; 	display:none;} --> </style> </p><table width="461" cellspacing="0" cellpadding="0" border="0" style="border-collapse:     collapse">     <colgroup><col width="100" style="mso-width-source:userset;mso-width-alt:3657">  <col width="265" style="mso-width-source:userset;mso-width-alt:9691">  <col width="96" style="mso-width-source:userset;mso-width-alt:3510">  </colgroup>     <tbody>         <tr height="26" style="mso-height-source:userset">             <td width="100" height="26" class="xl24">Cookie Name</td>             <td width="265" class="xl24">Purpose</td>             <td width="96" class="xl24">More Information</td>         </tr>         <tr height="19" style="mso-height-source:userset">             <td height="19" class="xl25">_utmz</td>             <td width="265" rowspan="4" class="xl35">These functional cookies are used to   collect information about how visitors use our site. We use the information   to compile reports and to help us improve the site. The cookies collect   information in an anonymous form, including the number of visitors to the   site, where visitors have come to the site from and the pages they visited.</td>             <td width="96" rowspan="4" class="xl33"><a href="http://www.google.com/analytics/learn/privacy.html"><strong>Click here</strong></a> for an overview of privacy at   Google.</td>         </tr>         <tr height="21" style="mso-height-source:userset">             <td height="21" class="xl26">_utmc</td>         </tr>         <tr height="23" style="mso-height-source:userset">             <td height="23" class="xl26">_utmb</td>         </tr>         <tr height="21" style="mso-height-source:userset">             <td height="21" class="xl26">_utma</td>         </tr>         <tr height="13">             <td width="100" height="33" rowspan="3" class="xl31" style="border-bottom:.5pt solid black">Devere   - sso</td>             <td width="265" rowspan="3" class="xl29" style="border-bottom:.5pt solid black">These   cookies allow you to sign on to our site.</td>             <td width="96" rowspan="3" class="xl29" style="border-bottom:.5pt solid black">Not   applicable</td>         </tr>         <tr height="13">         </tr>         <tr height="7" style="mso-height-source:userset">         </tr>         <tr height="13">             <td width="100" height="37" rowspan="2" class="xl27">JSESSIONID</td>             <td width="265" rowspan="2" class="xl28">This functional cookie is used to take the   details of your booking and is created only for the duration of your session.</td>             <td width="96" rowspan="2" class="xl28">Not applicable</td>         </tr>         <tr height="24" style="mso-height-source:userset">         </tr>     </tbody> </table> <p></p>
+<h2>De Vere Venues</h2> <p><a href="http://www.deverevenues.co.uk"><strong>www.deverevenues.co.uk</strong></a> also uses the following cookies. You can delete, remove your consent and/or block cookies sent to you from this website but parts of the website may not then work. </p>
+<p><style type="text/css"> <!--table 	{mso-displayed-decimal-separator:"\."; 	mso-displayed-thousand-separator:"\,";} .font5 	{color:windowtext; 	font-size:8.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0;} td 	{padding-top:1px; 	padding-right:1px; 	padding-left:1px; 	mso-ignore:padding; 	color:windowtext; 	font-size:10.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:bottom; 	border:none; 	mso-background-source:auto; 	mso-pattern:auto; 	mso-protection:locked visible; 	white-space:nowrap; 	mso-rotate:0;} .xl24 	{font-size:9.0pt; 	vertical-align:top; 	border:.5pt solid windowtext; 	white-space:normal;} .xl25 	{font-size:9.0pt; 	vertical-align:top; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl26 	{font-size:9.0pt; 	vertical-align:top; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl27 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl28 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl29 	{text-align:center; 	vertical-align:middle; 	border:.5pt solid windowtext; 	white-space:normal;} ruby 	{ruby-align:left;} rt 	{color:windowtext; 	font-size:8.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0; 	mso-char-type:none; 	display:none;} --> </style> </p><table width="510" cellspacing="0" cellpadding="0" border="0" style="border-collapse:     collapse">     <colgroup><col width="113" style="mso-width-source:userset;mso-width-alt:4132">  <col width="271" style="mso-width-source:userset;mso-width-alt:9910">  <col width="126" style="mso-width-source:userset;mso-width-alt:4608">  </colgroup>     <tbody>         <tr height="26" style="mso-height-source:userset">             <td width="113" height="26" class="xl29">Cookie Name</td>             <td width="271" class="xl29">Purpose</td>             <td width="126" class="xl29">More Information</td>         </tr>         <tr height="25" style="mso-height-source:userset">             <td width="113" height="25" class="xl24">userFirstName</td>             <td width="271" class="xl24">These Cookies allow you to log into our site.</td>             <td width="126" class="xl24">Not Applicable.</td>         </tr>         <tr height="44" style="mso-height-source:userset">             <td width="113" height="44" class="xl25">id</td>             <td width="271" class="xl25">We use this cookie to serve more relevant ads across   the site and limit the number of times that a given ad is shown to you.</td>             <td width="126" class="xl25"><a href="http://www.google.co.uk/intl/en/analytics/privacyoverview.html"><strong>Click here</strong></a> for an overview of privacy at Google</td>         </tr>         <tr height="13">             <td width="113" height="26" style="border-bottom:.5pt solid black" class="xl27" rowspan="2">u</td>             <td width="271" style="border-bottom:.5pt solid black" class="xl25" rowspan="2">This   persistent cookie provided by Ignition One allows us to customize, target and   report on the advertisments on our site and across third party websites.</td>             <td width="126" style="border-bottom:.5pt solid black" class="xl25" rowspan="2"><a href="http://www.ignitionone.com/en/about/privacy-services.php"><strong>Click   here </strong></a>for an overview of privacy at Ignition One and details of how to opt   out.</td>         </tr>         <tr height="13">         </tr>     </tbody> </table> <p></p>
+<h2>De Vere Hotels</h2> <p><a href="http://www.devere-hotels.co.uk"><strong>www.devere-hotels.co.uk</strong></a> also uses the following cookies. You can delete, remove your consent and/or block cookies sent to you from this website but parts of the website may not then work.</p>
+<p><style type="text/css"> <!--table 	{mso-displayed-decimal-separator:"\."; 	mso-displayed-thousand-separator:"\,";} .font5 	{color:windowtext; 	font-size:8.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0;} td 	{padding-top:1px; 	padding-right:1px; 	padding-left:1px; 	mso-ignore:padding; 	color:windowtext; 	font-size:10.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:bottom; 	border:none; 	mso-background-source:auto; 	mso-pattern:auto; 	mso-protection:locked visible; 	white-space:nowrap; 	mso-rotate:0;} .xl24 	{font-size:9.0pt; 	vertical-align:top; 	border:.5pt solid windowtext; 	white-space:normal;} .xl25 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext;} .xl26 	{font-size:9.0pt; 	vertical-align:top; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl27 	{font-size:9.0pt; 	vertical-align:top; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl28 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext;} .xl29 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl30 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl31 	{text-align:center; 	vertical-align:middle; 	border:.5pt solid windowtext; 	white-space:normal;} ruby 	{ruby-align:left;} rt 	{color:windowtext; 	font-size:8.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0; 	mso-char-type:none; 	display:none;} --> </style> </p><table width="483" cellspacing="0" cellpadding="0" border="0" style="border-collapse:     collapse">     <colgroup><col width="86" style="mso-width-source:userset;mso-width-alt:3145">  <col width="271" style="mso-width-source:userset;mso-width-alt:9910">  <col width="126" style="mso-width-source:userset;mso-width-alt:4608">  </colgroup>     <tbody>         <tr height="26" style="mso-height-source:userset">             <td width="86" height="26" class="xl31">Cookie Name</td>             <td width="271" class="xl31">Purpose</td>             <td width="126" class="xl31">More Information</td>         </tr>         <tr height="25" style="mso-height-source:userset">             <td width="86" height="25" class="xl24">userFirstName</td>             <td width="271" class="xl24">These Cookies allow you to log into our site.</td>             <td width="126" class="xl24">Not Applicable.</td>         </tr>         <tr height="13">             <td height="26" class="xl25" rowspan="2">id</td>             <td width="271" style="border-bottom:.5pt solid black" class="xl26" rowspan="2">We   use this cookie to serve more relevant ads across the site and limit the   number of times that a given ad is shown to you.</td>             <td width="126" style="border-bottom:.5pt solid black" class="xl26" rowspan="2"><a href="http://www.google.co.uk/intl/en/analytics/privacyoverview.html"><strong>Click   here</strong></a> for an overview of privacy at Google.</td>         </tr>         <tr height="13">         </tr>         <tr height="13">             <td width="86" height="26" style="border-bottom:.5pt solid black" class="xl29" rowspan="2">u</td>             <td width="271" style="border-bottom:.5pt solid black" class="xl26" rowspan="2">This   persistent cookie provided by Ignition One allows us to customize, target and   report on the advertisments on our site and across third party websites.</td>             <td width="126" style="border-bottom:.5pt solid black" class="xl26" rowspan="2"><a href="http://www.ignitionone.com/en/about/privacy-services.php"><strong>Click   here</strong></a> for an overview of privacy at Ignition One and details of how to opt   out.</td>         </tr>         <tr height="13">         </tr>     </tbody> </table> <p></p>
+<h2>De Vere Village</h2> <p><a href="http://www.village-hotels.co.uk"><strong>www.village-hotels.co.uk</strong></a> also uses the following cookies. You can delete, remove your consent and/or block cookies sent to you from this website but parts of the website may not then work.</p>
+<p><style type="text/css"> <!--table 	{mso-displayed-decimal-separator:"\."; 	mso-displayed-thousand-separator:"\,";} .font5 	{color:windowtext; 	font-size:8.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0;} td 	{padding-top:1px; 	padding-right:1px; 	padding-left:1px; 	mso-ignore:padding; 	color:windowtext; 	font-size:10.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:bottom; 	border:none; 	mso-background-source:auto; 	mso-pattern:auto; 	mso-protection:locked visible; 	white-space:nowrap; 	mso-rotate:0;} .xl24 	{font-size:9.0pt; 	vertical-align:top; 	border:.5pt solid windowtext; 	white-space:normal;} .xl25 	{font-size:9.0pt; 	vertical-align:top; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl26 	{font-size:9.0pt; 	vertical-align:top; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl27 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl28 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl29 	{font-size:9.0pt; 	border:.5pt solid windowtext;} .xl30 	{text-align:center; 	vertical-align:middle; 	border:.5pt solid windowtext; 	white-space:normal;} .xl31 	{color:#333333; 	font-size:9.0pt; 	font-family:Arial; 	mso-generic-font-family:auto; 	mso-font-charset:0; 	border:.5pt solid windowtext;} ruby 	{ruby-align:left;} rt 	{color:windowtext; 	font-size:8.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0; 	mso-char-type:none; 	display:none;} --> </style> </p><table width="510" cellspacing="0" cellpadding="0" border="0" style="border-collapse:     collapse">     <colgroup><col width="113" style="mso-width-source:userset;mso-width-alt:4132">  <col width="271" style="mso-width-source:userset;mso-width-alt:9910">  <col width="126" style="mso-width-source:userset;mso-width-alt:4608">  </colgroup>     <tbody>         <tr height="26" style="mso-height-source:userset">             <td width="113" height="26" class="xl30">Cookie Name</td>             <td width="271" class="xl30">Purpose</td>             <td width="126" class="xl30">More Information</td>         </tr>         <tr height="25" style="mso-height-source:userset">             <td width="113" height="25" class="xl24">userFirstName</td>             <td width="271" class="xl24">These Cookies allow you to log into our site.</td>             <td width="126" class="xl24">Not Applicable.</td>         </tr>         <tr height="13">             <td width="113" height="26" style="border-bottom:.5pt solid black" class="xl27" rowspan="2">u</td>             <td width="271" style="border-bottom:.5pt solid black" class="xl25" rowspan="2">This   persistent cookie provided by Ignition One allows us to customize, target and   report on the advertisments on our site and across third party websites.</td>             <td width="126" style="border-bottom:.5pt solid black" class="xl25" rowspan="2"><a href="http://www.ignitionone/en/about/privacy-services.php"><strong>Click   here</strong></a> for an overview of privacy at Ignition One and details of how to opt   out.</td>         </tr>         <tr height="13">         </tr>         <tr height="25" style="mso-height-source:userset">             <td height="25" class="xl31">_mssuuid</td>             <td class="xl29">This cookie is used to track the adverts on our site</td>             <td class="xl29">Not Applicable.</td>         </tr>         <tr height="25" style="mso-height-source:userset">             <td height="25" class="xl31">_msuuid_641m944756</td>             <td class="xl29">This cookie is used to track the adverts on our site</td>             <td class="xl29">Not Applicable.</td>         </tr>     </tbody> </table> <p></p>
+<h2>De Vere Luxury Lodges</h2> <p><a href="http://www.devereluxurylodges.co.uk"><strong>www.devereluxurylodges.co.uk</strong></a> also uses the following cookies. You can delete, remove your consent and/or block cookies sent to you from this website but parts of the website may not then work.</p>
+<p><style type="text/css"> <!--table 	{mso-displayed-decimal-separator:"\."; 	mso-displayed-thousand-separator:"\,";} .font5 	{color:windowtext; 	font-size:8.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0;} td 	{padding-top:1px; 	padding-right:1px; 	padding-left:1px; 	mso-ignore:padding; 	color:windowtext; 	font-size:10.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:bottom; 	border:none; 	mso-background-source:auto; 	mso-pattern:auto; 	mso-protection:locked visible; 	white-space:nowrap; 	mso-rotate:0;} .xl24 	{font-size:9.0pt; 	vertical-align:top; 	border:.5pt solid windowtext; 	white-space:normal;} .xl25 	{font-size:9.0pt; 	vertical-align:top; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl26 	{font-size:9.0pt; 	vertical-align:top; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl27 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:none; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl28 	{font-size:9.0pt; 	vertical-align:middle; 	border-top:none; 	border-right:.5pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:.5pt solid windowtext; 	white-space:normal;} .xl29 	{text-align:center; 	vertical-align:middle; 	border:.5pt solid windowtext; 	white-space:normal;} ruby 	{ruby-align:left;} rt 	{color:windowtext; 	font-size:8.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Verdana; 	mso-generic-font-family:auto; 	mso-font-charset:0; 	mso-char-type:none; 	display:none;} --> </style> </p><table width="510" cellspacing="0" cellpadding="0" border="0" style="border-collapse:     collapse">     <colgroup><col width="113" style="mso-width-source:userset;mso-width-alt:4132">  <col width="271" style="mso-width-source:userset;mso-width-alt:9910">  <col width="126" style="mso-width-source:userset;mso-width-alt:4608">  </colgroup>     <tbody>         <tr height="26" style="mso-height-source:userset">             <td width="113" height="26" class="xl29">Cookie Name</td>             <td width="271" class="xl29">Purpose</td>             <td width="126" class="xl29">More Information</td>         </tr>         <tr height="25" style="mso-height-source:userset">             <td width="113" height="25" class="xl24">userFirstName</td>             <td width="271" class="xl24">These Cookies allow you to log into our site.</td>             <td width="126" class="xl24">Not Applicable.</td>         </tr>         <tr height="13">             <td width="113" height="26" style="border-bottom:.5pt solid black" class="xl27" rowspan="2">u</td>             <td width="271" style="border-bottom:.5pt solid black" class="xl25" rowspan="2">This   persistent cookie provided by Ignition One allows us to customize, target and   report on the advertisments on our site and across third party websites.</td>             <td width="126" style="border-bottom:.5pt solid black" class="xl25" rowspan="2"><a href="http://www.ignitionone.com/en/about/privacy-services.php"><strong>Click   here</strong></a> for an overview of privacy at Ignition One and details of how to opt   out.</td>         </tr>         <tr height="13">         </tr>     </tbody> </table> <p></p>
+<h2>This Web Site is Not Directed at Persons Under the Age of 18.    </h2> <p>Our web site is not directed at persons under the age of 18, and De Vere Group does not collect or maintain information at our Web site from persons we actually know are under the age of 18.<br> &nbsp;</p>
 
 </div></div><!-- end main -->                
 
@@ -332,7 +371,7 @@
 </li>
 
 <li class="">
-    <a href="/footer/privacy-policy.html">Privacy Policy</a>
+    <a href="/footer/privacy-policy.html">Privacy &amp; Cookie Policy</a>
 </li>
 
 <li class="">
@@ -349,7 +388,7 @@
 
 
 <li class="last orphan">
-    <a href="/footer/careers.html">Careers</a>
+    <a href="http://www.deveregroup.co.uk/careers.html" target="_blank">Careers</a>
 </li>
 
 <li class="first orphan">
@@ -378,6 +417,14 @@
 <script type="text/javascript">
 	$("#email_signup_box").hide();
 </script>
+<!--
+De Vere Brand Website
+
+Version: 6.12
+Build Date: 07.06.2012 19:07
+Build Path: DeVere/trunk/devere-hotels
+Build Revision: 27995
+-->
 
 
 
