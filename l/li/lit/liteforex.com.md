@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liteforex.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219001209id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liteforex.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622094717id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LiteForex
 
@@ -49,4 +49,4 @@ Under limited circumstances, LiteForex may disclose your personal information to
 
 You are not required to supply any of the personal information that we may request. However, failure to do so may result in our being unable to open or maintain your account or to provide services to you. While we make every effort to ensure that all information we hold about you is accurate, complete and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information.
 
-If you do not wish to have your personal information disclosed to third parties as described in this Policy, please contact us via e-mail at: [compliance@liteforex.org](mailto:compliance@liteforex.org).
+If you do not wish to have your personal information disclosed to third parties as described in this Policy, please contact us via e-mail at: [compliance@liteforex.com](mailto:compliance@liteforex.com).
