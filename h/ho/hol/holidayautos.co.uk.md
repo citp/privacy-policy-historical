@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayautos.co.uk privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123161105id_/http%3A//www.holidayautos.co.uk/GBR/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayautos.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623014555id_/http%3A//www.holidayautos.co.uk/GBR/privacy.htm) for the most accurate reproduction.*
 
 # Car Hire - Book cheap car rental in the UK, Europe and Worldwide from Holiday Autos
 
@@ -66,6 +66,6 @@ If you need to Modify or Change your personal details after you have made a purc
 
 ### Contact
 
-If you have any questions or concerns about the information we hold about you, you can also [**contact us**](http://holidayautos.custhelp.com).
+If you have any questions or concerns about the information we hold about you, you can call us on 0871 472 5229 (calls cost 10p per minute plus network extras) - our opening hours are 7am to 10pm, 7 days a week. You can also email us via our [**contact us**](http://uk.custhelp.com/app/home/p/72%2C73/search/1) page.
 
 **February 2007**
