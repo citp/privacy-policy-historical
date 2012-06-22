@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218102630id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622202941id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
 
 # NLM Privacy Policy
 
@@ -75,7 +75,7 @@ NLM has multiple Facebook pages where we share information about NLM news, progr
 
 If you have a Facebook account and "Like" NLM Facebook pages, you may post comments or click the "Like" link for individual entries. If you comment on or "Like" NLM Facebook content, personally identifying information will be visible to other Facebook visitors, including NLM staff. The amount of visible personal information about you will depend on your own Facebook privacy settings. To avoid displaying your personally identifiable information, you should not create a Facebook account, post comments or click on the "Like" options in Facebook. ****
 
-NLM does not collect, use or disclose any information about visitors who comment on or "Like" NLM Facebook pages. Facebook collects and reports non-personally identifiable information about activities on NLM's Facebook pages. This information is password protected and only available to NLM managers and the administrators of the NLM Facebook pages, who require this information to perform their duties. The Facebook Privacy Policy is available at: [ http://www.facebook.com/policy.php](http://www.facebook.com/policy.php).
+NLM does not collect, use or disclose any information about visitors who comment on or "Like" NLM Facebook pages. Facebook collects and reports non-personally identifiable information about activities on NLM's Facebook pages. This information is password protected and only available to NLM managers and the administrators of the NLM Facebook pages, who require this information to perform their duties. The Facebook Privacy Policy is available at: <http://www.facebook.com/policy.php>.
 
 ### GovDelivery
 
@@ -89,7 +89,7 @@ NLM uses iTunes to make iPhone, iPod and iPad apps available for download throug
 
 If you have an iTunes account and download an app, you may rate or review the app.  If you review an NLM app, your personally identifiable information will be visible to other iTunes visitors, including NLM staff. The amount of visible personal information will depend on your account settings. To avoid displaying your personally identifiable information, you should not create an iTunes account, download apps, or post ratings.
 
-NLM  does not collect, maintain, disclose, or share any information about people who download NLM apps. Apple collects and provides non-identifying information on  how many times an app is downloaded and the continent it is downloaded from. This information is password protected and only available to NLM managers and the administrators of the NLM iTunes apps, who require this information to perform their duties. The iTunes privacy policy is available at: [ http://www.apple.com/privacy/](http://www.facebook.com/policy.php).
+NLM  does not collect, maintain, disclose, or share any information about people who download NLM apps. Apple collects and provides non-identifying information on  how many times an app is downloaded and the continent it is downloaded from. This information is password protected and only available to NLM managers and the administrators of the NLM iTunes apps, who require this information to perform their duties. The iTunes privacy policy is available at: <http://www.apple.com/privacy/>.
 
 ### Twitter
 
