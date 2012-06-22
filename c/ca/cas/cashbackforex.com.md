@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashbackforex.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203122228id_/http%3A//www.cashbackforex.com/en-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbackforex.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622072049id_/http%3A//www.cashbackforex.com/en-us/privacy.aspx) for the most accurate reproduction.*
 
 # privacy
 
