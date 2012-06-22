@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulkregister.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108125457id_/http%3A//www.bulkregister.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkregister.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622050916id_/http%3A//www.bulkregister.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # BulkRegister - domain name, web site hosting, email, registration - PRIVACY POLICY
 
@@ -73,15 +73,7 @@ Yes, we do share information but only as described below. Otherwise we will not 
 
 The company complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-eNom, Inc. has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by eNom, Inc., you may contact: 
-
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor   
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.us.bbb.org](http://www.us.bbb.org/)  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
+eNom, Inc. has further committed to refer unresolved privacy complaints under the US-EU [and EU-Swiss] Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by eNom, Inc., please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 
 
