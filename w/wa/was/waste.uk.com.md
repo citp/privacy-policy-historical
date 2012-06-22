@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waste.uk.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125042312id_/http%3A//www.waste.uk.com/Store/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waste.uk.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623011318id_/http%3A//www.waste.uk.com/Store/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # w.a.s.t.e. Digital Download advice
 
