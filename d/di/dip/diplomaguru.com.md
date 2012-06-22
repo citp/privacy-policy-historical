@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the diplomaguru.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225020247id_/http%3A//www.diplomaguru.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diplomaguru.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622163624id_/http%3A//diplomaguru.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Diploma Guru
 
 ## Diplomaguru.com
 
-Diplomaguru.com, shares your concern about personal privacy. Diplomaguru.com recognizes that its customers, visitors, users, and others (collectively or individually, the "Users") who use the [http://Diplomaguru.com](https://web.archive.org/web/20111225020247id_/http%3A//www.diplomaguru.com/default.asp) website (the "Website") value their privacy. This Privacy Policy outlines important information regarding the use and disclosure of User information collected via the Website. Diplomaguru.com provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website.
+Diplomaguru.com, shares your concern about personal privacy. Diplomaguru.com recognizes that its customers, visitors, users, and others (collectively or individually, the "Users") who use the [http://Diplomaguru.com](https://web.archive.org/web/20120622163624id_/http%3A//diplomaguru.com/default.asp) website (the "Website") value their privacy. This Privacy Policy outlines important information regarding the use and disclosure of User information collected via the Website. Diplomaguru.com provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website.
 
 ## General
 
