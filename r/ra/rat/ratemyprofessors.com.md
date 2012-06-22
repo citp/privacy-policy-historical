@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemyprofessors.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210150615id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyprofessors.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622155952id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - RateMyProfessors.com
 
@@ -502,4 +502,4 @@ Further, if you use any of the Communities features and functions made available
   
   
 This Privacy Policy was last modified on the date indicated above and is effective immediately.  
-Copyright © 2011 RateMyProfessors.com LLC, a subsidiary of Viacom International Inc. - All Rights Reserved.
+Copyright © 2012 RateMyProfessors.com LLC, a subsidiary of Viacom International Inc. - All Rights Reserved.
