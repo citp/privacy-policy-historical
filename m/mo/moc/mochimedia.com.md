@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mochimedia.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221154747id_/http%3A//www.mochimedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mochimedia.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622053327id_/http%3A//www.mochimedia.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Mochi Media :: Fueling Creativity
 
@@ -63,7 +63,7 @@ _With Your Consent:_ Except as set forth above, you will be notified when your P
 
 Your Mochi Media account Personal Information is protected by a password for your privacy and security. You need ensure unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. 
 
-Mochi Media endeavors to protect user information to ensure that user account information is kept private, however, Mochi Media cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures Mochi Media uses in connection with the Websites, please contact us at support@mochimedia.com. 
+Mochi Media endeavors to protect user information to ensure that user account information is kept private, however, Mochi Media cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures Mochi Media uses in connection with the Websites, please contact us at [mochi.desk.com](http://mochi.desk.com/customer/portal/emails/new). 
 
 The Websites contains links to other sites. Mochi Media is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Websites. 
 
