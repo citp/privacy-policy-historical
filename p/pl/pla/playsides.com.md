@@ -1,0 +1,49 @@
+> *The following text is extracted and transformed from the playsides.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622082952id_/http%3A//playsides.com/privacypolicy.php) for the most accurate reproduction.*
+
+# Play Sides
+
+## PlaySides Privacy Policy
+
+This website, PlaySides.com (the "Site") is owned and operated by Secco Media, Inc. ("us," "we," or "Company"). We created this Privacy Policy ("Privacy Policy") to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
+
+### Information We Collect
+
+We automatically track and collect the following categories of information when you visit our Site: 1) IP addresses; 2) domain servers; 3) types of computers accessing the Site; and 4) types of web browsers used to access the Site (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. We also use "cookies" to customize content specific to your interests. 
+
+We enable you to provide us with certain information that personally identifies you ("Personal Information"). Personal Information includes your name and email address. If you communicate with us (for example, by posting on our blog), any information provided in such communication is collected as Personal Information.
+
+### Our Use of Collected Information
+
+We use Personal Information you to use our service, manage your PlaySides account, post on our blog. Currently, we do not use your personal information for any other reason. However, we anticipate using your Personal Information directly, indirectly, and in combination with data we exchange with other parties to introduce you to informational, service, and/or product offerings of Brockway Media, Inc. and/or its subsidiaries, affiliated companies, partners, select unaffiliated companies, assigns, and/or brands that are owned by, licensed by, and/or partnering with Brockway Media, Inc. (collectively, "Our Companies"). We will do this by transferring, licensing, and/or sharing your personal information with Our Companies and hope you will be interested in the advertisements, marketing materials, and/or promotions with which you are presented. Our Companies will also sell, license, transfer, and/or share your personal information with unaffiliated list brokers, affiliate marketers, and/or companies that want to advertise other products and/or services. Once a third-party obtains your personal information, its subsequent use is controlled by the business practices of the third party, which is beyond our control. You may choose not to provide us with any Personal Information. In such an event, you may not be able to use some or all of our services.
+
+### Confidentiality and Security of Personal Information
+
+We may also (and you authorize us to) disclose your personal information to: a) comply with a court order or other legal process or inquiry; b) protect our rights or property; or c) enforce our Terms of Use. Your Personal Information is stored on secure servers that are not accessible by unauthorized third parties. 
+
+The Site contains links to other websites. We are not responsible for the privacy practices or the content of such websites. Please understand that any information that is disclosed in our blog becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your Personal Information.
+
+This Site is directed at teenagers and adults not to children under the age of 13. We do not knowingly collect personally identifiable information from children under the age of 13, nor do we knowingly distribute such information. We do not knowingly allow children under the age of 13 to publicly post or otherwise distribute personally identifiable contact information through our website. Similarly, because we do not collect any personally identifiable information from children under the age of 13, we do not condition the participation of a child under 13 in activities on providing personally identifiable information. If we become aware that we have inadvertently received personally identifiable information from someone under the age of 13, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of 13. 
+
+We have implemented a number of security measures to help protect against the loss, misuse or modification of information we've collected from you. Your personal information is transmitted to and stored on servers that we have taken steps to protect from unauthorized access or intrusion. We do not ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk. 
+
+We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. If we make material changes to the manner in which we handle your personal information, we will notify you in advance of the new policy taking effect so that you have an opportunity to review and consent to the new terms. 
+
+This site is owned and operated by 
+
+Effective Date: 04/01/2011
+
+ **Contacting Us**  
+If there are any questions regarding this privacy policy you may contact us using the information below.   
+[http://www.PlaySides.com/contactus.php](http://www.playsides.com/contactus.php)
+
+[support@playsides.com](mailto:support@playsides.com)
+
+Benefits of Playing Free Games Online
+
+People who play games online are able to enjoy the reward and satisfaction that comes with the small goals that are often established in games. To clarify what I mean, I will take the game of "Gem Pop" that is quite popular on this website. The small goals are to clear the boards that are necessary in order to reach the end of the game. 
+
+People who engage in playing this game can enjoy the reward of "beating" each board. In turn, this raises their confidence and also instills a sense of accomplishment. People can learn that setting small goals can help them master much larger games - both in online gaming as well as their lives. 
+
+On this site there are a number of games that are available online that focus on challenging the mind of the individual who plays it. These are often referred to "logic" games. If you check out our site , a popular gaming website, you will discover several games that can actually enhance your intellect. 
+
+While playing online games, it has been found that the technology skills that are necessary to live in today's world are greatly enhanced. Literacy in computers and the internet are quickly becoming basic skills that are required to enter the workforce today. This type of activity may very well contribute to the your ability to succeed in your educational career, as well as their professional career! Here at playsides.com we truly believe in the best gaming experience so you can continue to grow strong bonds with your family and future opponents. This is why our service is offered free. 
