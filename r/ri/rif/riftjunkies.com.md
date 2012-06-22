@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riftjunkies.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230090806id_/http%3A//www.riftjunkies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riftjunkies.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622144758id_/http%3A//www.riftjunkies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RiftJunkies.com - An Official Rift: Planes of Telara Fansite
 
