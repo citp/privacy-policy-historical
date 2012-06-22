@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the eucasino.com privacy policy that was archived on 2011-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203220133id_/http%3A//www.eucasino.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eucasino.com privacy policy that was archived on 2012-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622160549id_/http%3A//www.eucasino.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head profile="http://gmpg.org/xfn/11">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=9">
 	<meta http-equiv="Content-Language" content="en">
 	<title>Play Online Casino Games at EUcasino - Best Internet Casino</title>
 	<meta name="Description" content="Join EUcasino for the best gambling experience. With 80+ Games, highest casino bonuses and the best online casino support team.">
-	<link href="http://kpax-eucasino.s3.amazonaws.com/favicon.ico?version=1322839920" rel="shortcut icon" type="image/x-icon">
-	<link href="http://kpax-eucasino.s3.amazonaws.com/css/style.css?version=1322839920" rel="stylesheet" type="text/css" media="screen">
-	<script src="http://www.eucasino.com/js/jquery.1.6.2.min.js?version=1322839920"></script>
-	<script src="http://kpax-eucasino.s3.amazonaws.com/js/jquery.tools.min.js?version=1322839920"></script>
-	<script src="http://kpax-eucasino.s3.amazonaws.com/js/jquery.collapsor.min.js?version=1322839920"></script>
-	<script src="http://kpax-eucasino.s3.amazonaws.com/js/jquery.simpleFAQ-0.7.min.js?version=1322839920"></script>
-	<script src="http://kpax-eucasino.s3.amazonaws.com/js/jquery.simplemodal.1.4.1.min.js?version=1322839920"></script>
+	<link href="http://www.eucasino.com/favicon.ico?version=1340377161" rel="shortcut icon" type="image/x-icon">
+	<link href="http://www.eucasino.com/css/style.css?version=1340377161" rel="stylesheet" type="text/css" media="screen">
+	<script src="http://www.eucasino.com/js/jquery.1.6.2.min.js?version=1340377161"></script>
+	<script src="http://www.eucasino.com/js/jquery.tools.min.js?version=1340377161"></script>
+	<script src="http://www.eucasino.com/js/jquery.collapsor.min.js?version=1340377161"></script>
+	<script src="http://www.eucasino.com/js/jquery.simpleFAQ-0.7.min.js?version=1340377161"></script>
+	<script src="http://www.eucasino.com/js/jquery.simplemodal.1.4.1.min.js?version=1340377161"></script>
 	<style>
 	#instant-play-window {background:none!important;border:none!important;padding:none!important;position:absolute!important;top:20px!important;witdh:950px!important;height:720px!important;}
 	#instant-play-window .simplemodal-wrap {overflow:hidden!important;}
@@ -23,18 +23,24 @@
 	<script>
 		var popupStatus = 0;
 		
-		function popupFull(url) {
-			var x=1024, y=768;
-			/* var x=screen.width, y=screen.height; */
-			newwin = window.open(url,'Eucasino','width='+x+',height='+y+',top=0,left=0,fullscreen=yes');
+		function popupFull(data) {
+			var x=screen.width, y=screen.height;
+			newwin = window.open(data.url, 'Eucasino', 'width='+x+',height='+y+',top=0,left=0,menubar=no,toolbar=no,scrollbars=1');
 			if (window.focus) {newwin.focus()}
-			/* var data = '<iframe id="instant-play" src="'+url+'" width="'+x+'" height="'+y+'" scrolling="no" style="border:none!important;"><p>Your browser does not support iframes.</p></iframe>';
-			$.modal(data, {
-				minWidth:x,
-				minHeight:y,
-				containerId:"instant-play-window",
-				zIndex:4000
-			}); */
+			return false;
+		}
+		
+		function download() {
+			var isWin = false;
+			var i = 'http://www.eucasino.com/instant-play.html';
+			var d = 'http://download3.eucasino.com/download.php';
+			if(!isWin) {
+				var x=screen.width, y=screen.height;
+				newwin = window.open(i, 'Eucasino', 'width='+x+',height='+y+',top=0,left=0,menubar=no,toolbar=no,scrollbars=1');
+				if (window.focus) {newwin.focus()}
+			} else {
+				window.location.href = d;
+			}
 			return false;
 		}
 
@@ -122,25 +128,11 @@
 				$("#sidebar_nav a").collapsor();
 				$("#get-mails").simpleFAQ({speed: 100});
 			});
-			if (readCookie('df') != '1') {
-				$.ajax({
-					type: "POST",
-					url: "/fCookie.php?aname="+readCookie('Aname')+"&zone_id="+readCookie('Zone_id')+"&ref="+readCookie('Referer')+"&dyn_id="+readCookie('Dyn_id')+"&skid=eucasino",
-					async: true,
-					success: function(data){
-						document.getElementById('mycookie').innerHTML = data;
-						createCookie('df','1',3);
-					}
-				});
-			}
-			function doSomething(data, textStatus) {
-				//action function code
-			}
 
 			$(".currency_right_cap_main").click(function () { $("#currency-holder").slideToggle("fast"); });
 			$(".currency-middle").click(function () { $("#currency-holder").slideToggle("fast"); });
 			
-			var frCheck = 'CY';
+			var frCheck = 'US';
 			if(frCheck == 'FR') {
 				centerPopup();
 				loadPopup();
@@ -235,11 +227,43 @@
 	</style>
 	<![endif]-->
 </head>
-<body class="en">
-<div id="mycookie" style="position:absolute; top:0px; left:0px;"></div>
+<body class="en" bgcolor="#ffffff">
+<div id="mycookie" style="position:absolute; top:0px; left:0px;"><!-- saved from url=(0013)about:internet -->
+
+
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-8">
+		<title>Cookie</title>
+	
+	
+		<script language="JavaScript">
+		var isInternetExplorer = navigator.appName.indexOf("Microsoft") != -1;
+
+		// Handle all the FSCommand messages in a Flash movie.
+		function Cookie_DoFSCommand(command, args) {
+			var CookieObj = isInternetExplorer ? document.all.Cookie : document.Cookie;
+		}
+
+		// Hook for Internet Explorer.
+		if (navigator.appName && navigator.appName.indexOf("Microsoft") != -1 && navigator.userAgent.indexOf("Windows") != -1 && navigator.userAgent.indexOf("Windows 3.1") == -1) {
+			document.write('<script language=\"VBScript\"\>\n');
+			document.write('On Error Resume Next\n');
+			document.write('Sub Cookie_FSCommand(ByVal command, ByVal args)\n');
+			document.write('Call Cookie_DoFSCommand(command, args)\n');
+			document.write('End Sub\n');
+			document.write('</script\>\n');
+		}
+		</script>
+		<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" id="Cookie" width="1" height="1" align="middle">
+			<param name="allowScriptAccess" value="always">
+			<param name="movie" value="http://casino.skillonnet.com/casinoweb/Cookie.swf?m_aname=house_eu0612&amp;m_ref=&amp;m_dynamicID=no_zone&amp;m_refUrl=aHR0cDovL3d3dy5ldWNhc2luby5jb20v&amp;m_zoneID=none&amp;m_skin=eucasino"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><embed src="http://casino.skillonnet.com/casinoweb/Cookie.swf?m_ref=&amp;m_dynamicID=no_zone&amp;m_refUrl=aHR0cDovL3d3dy5ldWNhc2luby5jb20v&amp;m_zoneID=none&amp;m_aname=house_eu0612&amp;m_skin=eucasino" quality="high" bgcolor="#ffffff" width="1" height="1" swliveconnect="true" id="Cookie" name="Cookie" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+		</object>
+	
+
+</div>
 <div id="fr-warning-popup" style="display:none;">
-	<h1><img src="http://kpax-eucasino.s3.amazonaws.com/images/dialog_warning.png" style="float:left;margin:-10px 0 0 -5px;">D'avertissement</h1>
-	<p>Afin de respecter la législation en vigueur, le site d’EUcasino.com n’est plus disponible aux joueurs résidant en France. Si vous pensez avoir reçu ce message par erreur, cliquez <a href="#" class="fr-warning-action-accept">ici</a> pour continuer.</p><br>
+	<h1><img src="http://www.eucasino.com/images/dialog_warning.png" style="float:left;margin:-10px 0 0 -5px;">D'avertissement</h1>
+	<p>Afin de respecter la législation en vigueur, le site d'EUcasino.com n'est plus disponible aux joueurs résidant en France. Si vous pensez avoir reçu ce message par erreur, cliquez <a href="#" class="fr-warning-action-accept">ici</a> pour continuer.</p><br>
 	<p>To comply with regulations EUCasino.com site is not available to players residing in France. If you feel you are receiving this message in error click <a href="#" class="fr-warning-action-accept">here</a> to continue.</p>
 	<div id="fr-warning-action">
 		<a href="#" class="fr-warning-action-accept">ACCEPTER - ACCEPT</a>
@@ -249,7 +273,7 @@
 
 <div id="main_wrap">
 	<div id="header">
-		<a href="/index.html" class="logo ltr" title="Welcome to EUcasino"></a>
+		<a href="http://www.eucasino.com" class="logo ltr" title="Welcome to EUcasino"></a>
 		<div class="slogan en"></div>
 		<div id="currency-clock-wrapper">
 			<div id="currency-wrapper">
@@ -314,25 +338,27 @@
 		<ul>
 			<li><a class="lang_sel_sel" href="#">English</a>                
 				<ul>
-					<li><a href="http://bulgarian.eucasino.com/privacy-policy.html">Bulgarian</a></li>
-					<li><a href="http://danish.eucasino.com/privacy-policy.html">Danish</a></li>
-					<li><a href="http://german.eucasino.com/privacy-policy.html">Deutsch</a></li>
-					<li><a href="http://spanish.eucasino.com/privacy-policy.html">Español</a></li>
-					<li><a href="http://greek.eucasino.com/privacy-policy.html">Ελληνικα</a></li>
-					<li><a href="http://finnish.eucasino.com/privacy-policy.html">Suomi</a></li>
-					<li><a href="http://french.eucasino.com/privacy-policy.html">Français</a></li>
-					<li><a href="http://hungarian.eucasino.com/privacy-policy.html">Magyar</a></li>
-					<li><a href="http://it3.eucasino2.com/privacy-policy.html">Italiano</a></li>
-					<li><a href="http://dutch.eucasino.com/privacy-policy.html">Nederlands</a></li>
-					<li><a href="http://norwegian.eucasino.com/privacy-policy.html">Norsk</a></li>
-					<li><a href="http://polish.eucasino.com/privacy-policy.html">Polski</a></li>
-					<li><a href="http://portuguese.eucasino.com/privacy-policy.html">Português</a></li>
-					<li><a href="http://romanian.eucasino.com/privacy-policy.html">Română</a></li>
-					<li><a href="http://russian.eucasino.com/privacy-policy.html">Русский</a></li>
-					<li><a href="http://swedish.eucasino.com/privacy-policy.html">Svenska</a></li>
-					<li><a href="http://tr1.eucasino1.com/privacy-policy.html">Türkçe</a></li>
 					<li><a href="http://arabic.eucasino.com/privacy-policy.html">العربية</a></li>
-					
+							<li><a href="http://bulgarian.eucasino.com/privacy-policy.html">български</a></li>
+							<li><a href="http://czech.eucasino.com/privacy-policy.html">Čeština</a></li>
+							<li><a href="http://german.eucasino.com/privacy-policy.html">Deutsch</a></li>
+							<li><a href="http://dk.eucasino.com/privacy-policy.html">Dansk</a></li>
+							<li><a href="http://greek.eucasino.com/privacy-policy.html">Ελληνικα</a></li>
+							<li><a href="http://spanish.eucasino.com/privacy-policy.html">Español</a></li>
+							<li><a href="http://finnish.eucasino.com/privacy-policy.html">Suomi</a></li>
+							<li><a href="http://french.eucasino.com/privacy-policy.html">Français</a></li>
+							<li><a href="http://hungarian.eucasino.com/privacy-policy.html">Magyar</a></li>
+							<li><a href="http://it3.eucasino2.com/privacy-policy.html">Italiano</a></li>
+							<li><a href="http://dutch.eucasino.com/privacy-policy.html">Nederlands</a></li>
+							<li><a href="http://norwegian.eucasino.com/privacy-policy.html">Norsk</a></li>
+							<li><a href="http://polish.eucasino.com/privacy-policy.html">Polski</a></li>
+							<li><a href="http://portuguese.eucasino.com/privacy-policy.html">Português</a></li>
+							<li><a href="http://romanian.eucasino.com/privacy-policy.html">Română</a></li>
+							<li><a href="http://russian.eucasino.com/privacy-policy.html">Русский</a></li>
+							<li><a href="http://swedish.eucasino.com/privacy-policy.html">Svenska</a></li>
+							<li><a href="http://slovakian.eucasino.com/privacy-policy.html">Slovenčina</a></li>
+							<li><a href="http://tr1.eucasino1.com/privacy-policy.html">Türkçe</a></li>
+							
 				</ul>
 			</li>
 		</ul>    
@@ -341,18 +367,18 @@
 					</div>
 	<div id="nav">
 		<div class="menu">
-		    		    			<ul>
-				<li><a href="/help/installing-eucasino.html">Getting Started</a></li>
+		    			<ul>
+				<li><a href="/help/installing-eucasino.html">Getting started</a></li>
 				<li class="separator"></li>
 				<li><a href="/vip/vip-lounge.html">VIP</a></li>
 				<li class="separator"></li>
 				<li><a href="/help/support.html">24/7 Support</a></li>
 				<li class="separator"></li>
-				<li><a href="/previews.html">Previews</a></li>
-				<li class="separator"></li>
 				<li><a href="/promotions-index.html">Promotions</a></li>
 				<li class="separator"></li>
-				<li><a href="http://download3.eucasino.com/download.php">Download Now!</a></li>
+				<li><a href="/winners.html">Winners</a></li>
+				<li class="separator"></li>
+				<li><a href="Javascript:download();void(0);">Download Now!</a></li>
 				<li class="separator"></li>
 				<li><a href="/payment-options.html">Payment Options</a></li>
 			</ul>
@@ -362,7 +388,7 @@
 <div class="page-id-49">
 	<div id="single_wrap" class="ltr">
 		<h1 class="ltr">Privicay Policy</h1>
-		<a style="display:block; width:185px; height:35px; background:url(http://kpax-eucasino.s3.amazonaws.com/images/bookmark_this_en.png?version=1.1) 0 0 no-repeat; position:absolute; top:5px; right:10px;" class="jqbookmark" title="Privicay Policy - eucasino.com" href="/privacy-policy.html"></a>		
+		<a style="display:block; width:185px; height:35px; background:url(http://www.eucasino.com/images/bookmark_this_en.png?version=1.1) 0 0 no-repeat; position:absolute; top:5px; right:10px;" class="jqbookmark" title="Privicay Policy - eucasino.com" href="/privacy-policy.html"></a>		
 		<div id="sidebar" class="ltr">
 	<div id="sidebar_news">
 		<h3 class="ltr">Calendar</h3>
@@ -396,7 +422,7 @@
 		</div>
 	</div>
 	<a class="sidebar_dlnow-2" href="/promotions.html">
-		<img src="http://kpax-eucasino.s3.amazonaws.com/images/banners/sidebar_welcome_package_en.jpg?version=3.0">
+		<img src="http://www.eucasino.com/images/banners/sidebar_welcome_package_en.jpg?version=3.0">
 	</a>
 </div>		
 		<div id="single_content" class="privicay_policy ltr">
@@ -431,10 +457,11 @@
 			<div class="menu">
 				<ul>
 					<li><a href="http://www.egamingonline.com">Affiliates</a></li>
-					<li><a href="/privacy-policy.html">Privacy Policy
+					<li><a class="current" href="/privacy-policy.html">Privacy Policy
 </a></li>
-					<li><a href="/terms-and-conditions.html">Terms and Conditions</a></li>
-					<li><a href="/about-us.html">About Us</a></li>
+					<li><a href="/terms-and-conditions.html">Terms and conditions</a></li>
+					<li><a href="/about-us.html">About us</a></li>
+					<li><a href="/responsible_gaming.html">Responsible gaming</a></li>
 				</ul>
 			</div>
 			<div id="footer_nav_right"></div>
@@ -447,7 +474,9 @@
 			<a href="http://www.gamcare.org.uk" id="footer-gamcare" target="_blank"></a>
 			<a href="http://www.eucasino.com/itech.html" onclick="javascript:window.open('http://www.eucasino.com/itech.html','itech_win','width=340,height=400,statusbar=0,menubar=0');return false;" target="_blank" id="footer-rng"></a>
 			<a href="http://www.lga.org.mt" id="footer-lga" target="_blank"></a>
+			<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=462153090810" id="footer-webmoney" target="_blank"></a>
 			<a href="/payment-options.html" id="footer-topage"></a>
+			<a href="/payment-options.html" id="footer-bottompage"></a>
 		</div>
 		<div id="footer-meta">
 			  <h1>Welcome to EUcasino – The Best Online Casino</h1>
