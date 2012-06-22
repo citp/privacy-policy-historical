@@ -1,30 +1,8 @@
-> *The following text is extracted and transformed from the dallasnews.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221135253id_/http%3A//www.dallasnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasnews.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622134557id_/http%3A//www.dallasnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Dallasnews.com - News for Dallas, Texas - The Dallas Morning News
 
-**Effective as of August 18, 2007**
-
-[View updated privacy policy](http://www.dallasnews.com/privacy-policy/updated/)
-
-www.dallasnews.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by A. H. Belo Corporation and its affiliated companies (collectively, "A. H. Belo", "we" or "us") through your use of www.dallasnews.com (the "Site"). This Privacy Policy does not apply to any information you may provide to us offline or through any means other than this Site. For example, this Privacy Policy does not apply to information you provide when you subscribe by postal mail or telephone to one of our newspapers or to information that you provide to us at a live event or when you respond by postal mail or telephone to a survey or an invitation to enter a sweepstakes. These examples are not meant to be exhaustive, and this Privacy Policy does not apply to many other instances in which we may collect information from you offline. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this Site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our [Terms of Service](https://web.archive.org/terms/). Understanding that Internet technologies are rapidly evolving, we reserve the right to make changes to this Privacy Policy at any time. Any such changes will be promptly posted on this page, with an updated "effective date" posted at the beginning and/or end of this policy.
-
-This Privacy Policy explains the following: 
-
-• [What types of information we collect](https://web.archive.org/privacy-policy/#infotypes)  
-• [What cookies and beacons are and why we use them](https://web.archive.org/privacy-policy/#cookies)  
-• [How we use your personal information](https://web.archive.org/privacy-policy/#personal)  
-• [With whom we share your personal information](https://web.archive.org/privacy-policy/#share)  
-• [Who is the party collecting your personal information](https://web.archive.org/privacy-policy/#collecting)  
-• [How you can opt-out of sharing your personal information or receiving our promotional communications](https://web.archive.org/privacy-policy/#optout)  
-• [How you can update your personal information or registration information](https://web.archive.org/privacy-policy/#update)  
-• [What safeguards we put in place to protect your personal information](https://web.archive.org/privacy-policy/#safeguards)  
-• [What you need to know about third-party sites and advertising](https://web.archive.org/privacy-policy/#advertising)  
-• [Whether we knowingly collect personal information of children under 13](https://web.archive.org/privacy-policy/#children)  
-• [How you can contact us](https://web.archive.org/privacy-policy/#contact)  
-• [What you should know about "phishing"](https://web.archive.org/privacy-policy/#phishing)  
-• [When this privacy policy is effective and how changes to the privacy policy are posted](https://web.archive.org/privacy-policy/#changes)
-
- **What Types of Information Do We Collect?**
+**What Types of Information Do We Collect?**
 
 The information we gather falls into two categories: (1) information (for example, your name, email address and mailing address) that you voluntarily supply when you register or initiate transactions on the Site, and (2) information gathered on usage patterns and preferences as you navigate through our Site, use our services, or read our email newsletters. In some cases, it is an agent or vendor of ours that collects the information on our behalf. Third-party providers featured on or linked to by our Site may be gathering the same kinds of information. 
 
@@ -56,7 +34,7 @@ You may decline to accept cookies sent by the Site by selecting an option on you
 
 **What are Web Beacons?**
 
-Web beacons (sometimes called single-pixel or clear-pixel gifs) are invisible images that are used to assign cookies or access cookies assigned previously to a visitor's computer. We use Web beacons to access information about the pages visitors are viewing so we can recognize our returning users and analyze traffic patterns. We also work with a leading web analytics firm, Omniture, that places Web beacons on our Site and uses them in combination with cookies to collect, aggregate and analyze anonymous tracking information called "session" data on our behalf. This session information does not identify you personally and does not include your name, address, email address, telephone number or other Personal Information. We use this information to help us measure traffic and user behavior and count the number of unique visitors who view particular pages within our Site. If you wish to learn more about Omniture's privacy practices, you can visit _http://www.omniture.com/privacy/product_ for more information. If you want to opt-out from the collection and analysis of your session data or if you want to uninstall an opt-out cookie from a prior visit (i.e., if you change your mind and decide to opt-in again to allow us to collect and analyze your session data), _click here_. Please note that you will need to opt-out separately before visiting our Site each time that you clear your cookies from your web browser or switch to a different computer or browser (e.g., if you previously opted-out of the use of Web beacons for us to collect and analyze your session data using the FireFox web browser but later visit our site using the Internet Explorer web browser, you will need to once again opt-out of the Web beacons). We use an advertising server developed by a third party to display ads on the Site. Some of these ads may contain cookies or Web beacons that are sent by third parties (e.g., advertisers or their advertising agencies) that we do not control. If you have questions regarding the data collection practices of any of the advertisers that appear on our Site, we encourage you to contact the applicable advertiser or review its privacy policy, which should be posted on the advertiser's website.
+Web beacons (sometimes called single-pixel or clear-pixel gifs) are invisible images that are used to assign cookies or access cookies assigned previously to a visitor's computer. We use Web beacons to access information about the pages visitors are viewing so we can recognize our returning users and analyze traffic patterns. We also work with a leading web analytics firm, Omniture, that places Web beacons on our Site and uses them in combination with cookies to collect, aggregate and analyze anonymous tracking information called "session" data on our behalf. This session information does not identify you personally and does not include your name, address, email address, telephone number or other Personal Information. We use this information to help us measure traffic and user behavior and count the number of unique visitors who view particular pages within our Site. If you wish to learn more about Omniture's privacy practices, you can visit <http://www.omniture.com/privacy/product> for more information. If you want to opt-out from the collection and analysis of your session data or if you want to uninstall an opt-out cookie from a prior visit (i.e., if you change your mind and decide to opt-in again to allow us to collect and analyze your session data), [click here](http://www.omniture.com/en/privacy/product#optout). Please note that you will need to opt-out separately before visiting our Site each time that you clear your cookies from your web browser or switch to a different computer or browser (e.g., if you previously opted-out of the use of Web beacons for us to collect and analyze your session data using the FireFox web browser but later visit our site using the Internet Explorer web browser, you will need to once again opt-out of the Web beacons). We use an advertising server developed by a third party to display ads on the Site. Some of these ads may contain cookies or Web beacons that are sent by third parties (e.g., advertisers or their advertising agencies) that we do not control. If you have questions regarding the data collection practices of any of the advertisers that appear on our Site, we encourage you to contact the applicable advertiser or review its privacy policy, which should be posted on the advertiser's website.
 
 **How Do We Use Your Personal Information?**
 
@@ -80,51 +58,36 @@ Much of the information we collect is in the form of aggregated statistics, such
 
 **Other Disclosures**
 
-We reserve the right to release Personal Information about our visitors when release is appropriate to comply with law, to enforce our [Terms of Service](https://web.archive.org/terms/), or to protect the rights, property or safety of visitors to our Site, the public, our customers, or of A. H. Belo. As our business grows, we may buy or sell various assets. In the unlikely event that A. H. Belo, or the bulk of our assets relating to this Site, is acquired by another company, Personal Information about our visitors would be among the transferred assets. If you choose to unsubscribe from a specific advertiser's email program in response to an email message that we deliver, we will share your email address and opt-out instructions with the relevant advertiser to ensure that your email privacy preferences are honored. Similarly, if we ask a third-party company to send email offers for A. H. Belo products and services to its customers, we will share with that company a list of email addresses collected from visitors of our Site who have opted-out of our email program to ensure that their privacy preferences are honored. 
+We reserve the right to release Personal Information about our visitors when release is appropriate to comply with law, to enforce our [Terms of Service](http://www.dallasnews.com/registration/terms/), or to protect the rights, property or safety of visitors to our Site, the public, our customers, or of A. H. Belo. As our business grows, we may buy or sell various assets. In the unlikely event that A. H. Belo, or the bulk of our assets relating to this Site, is acquired by another company, Personal Information about our visitors would be among the transferred assets. If you choose to unsubscribe from a specific advertiser's email program in response to an email message that we deliver, we will share your email address and opt-out instructions with the relevant advertiser to ensure that your email privacy preferences are honored. Similarly, if we ask a third-party company to send email offers for A. H. Belo products and services to its customers, we will share with that company a list of email addresses collected from visitors of our Site who have opted-out of our email program to ensure that their privacy preferences are honored. 
 
 **Who is the Party Collecting Your Personal Information?**
 
-This Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, on-line auctions, chat rooms, forums, personal ads, interactive areas on the Site that allow you to submit and post your own content (such as stories, blogs, photos and videos), or the like, through third-party services or promotions offered on or through the Site, or through other websites throughout the Internet, different policies will apply and A. H. Belo will not be responsible for the use or dissemination of such information. The Site may offer message boards, chat rooms or other forums or interactive areas you can use to communicate with other computer users or Site visitors or to submit and post your own content. If you disclose personal information in one of these forums, this information can be viewed, collected, and used by others. A. H. Belo is not responsible for the use of information you disclose in these forums. We encourage you to consult the forum rules and the [Terms of Service](https://web.archive.org/terms/) regarding the policies and procedures that apply to that portion of the Site.  
+This Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, on-line auctions, chat rooms, forums, personal ads, interactive areas on the Site that allow you to submit and post your own content (such as stories, blogs, photos and videos), or the like, through third-party services or promotions offered on or through the Site, or through other websites throughout the Internet, different policies will apply and A. H. Belo will not be responsible for the use or dissemination of such information. The Site may offer message boards, chat rooms or other forums or interactive areas you can use to communicate with other computer users or Site visitors or to submit and post your own content. If you disclose personal information in one of these forums, this information can be viewed, collected, and used by others. A. H. Belo is not responsible for the use of information you disclose in these forums. We encourage you to consult the forum rules and the [Terms of Service](http://www.dallasnews.com/registration/terms/) regarding the policies and procedures that apply to that portion of the Site.
+
 Our Site may operate as part of a larger group of sites and may carry co-branded pages. In addition, other third-party sites may use the Site's name, A. H. Belo's name, or the name of one of A. H. Belo's affiliated companies. Since A. H. Belo does not control the privacy policies of third parties, you are subject to the privacy policies, if any, of such third parties, and A. H. Belo shall not be responsible for the use or dissemination of your private information by such parties. Therefore, we encourage you to ask questions and review those parties' privacy policies before you disclose your Personal Information to others.
 
 **How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?**
 
-  
+We respect your privacy and ability to choose whether to share information with us and third parties. You may choose to "opt-out" of sharing Personal Information in several ways. When choosing to use certain features or services on the Site, you can choose whether to share optional Personal Information in connection with the feature or service. If you receive email, phone or mail communications from us that you prefer not to receive, you may opt-out from receiving these communications by modifying the contact options in your registration profile. You may change your contact options at any time by following the process described in "How Can You Update Your Personal or Registration Information," below.
 
+In addition to opting-out by managing your contact preference options, you may opt-out from receiving e-mail communications from any Site service by sending your request to [Customer Service](http://www.dallasnews.com/customerservice/HelpCenter.do), or by sending postal mail to:
 
-We respect your privacy and ability to choose whether to share information with us and third parties. You may choose to "opt-out" of sharing Personal Information in several ways. When choosing to use certain features or services on the Site, you can choose whether to share optional Personal Information in connection with the feature or service. If you receive email, phone or mail communications from us that you prefer not to receive, you may opt-out from receiving these communications by modifying the contact options in your registration profile. You may change your contact options at any time by following the process described in "How Can You Update Your Personal or Registration Information," below.  
-In addition to opting-out by managing your contact preference options, you may opt-out from receiving e-mail communications from any Site service by sending your request to [Customer Service](http://res.dallasnews.com/contactus/), or by sending postal mail to:
-
-  A.H. Belo Corporation  
+  A. H. Belo Corporation  
 Attn: Circulation Digital Opt-Out  
 508 Young St.   
 Dallas, TX 75202
 
-Please note that changing the contact preference options described above will not affect your receipt of any wireless short text communications you may have registered to receive. To unsubscribe from wireless short text communications delivered to your wireless device(s) such as a cell phone, please send your "opt-out" request, including the wireless number or wireless address you wish to remove from our list, to [Customer Service](https://web.archive.org/help-center/), or by sending postal mail to:
-
-A.H. Belo Corporation  
-Attn: Circulation Digital Opt-Out  
-508 Young St.   
-Dallas, TX 75202
-
-You may "opt-out" altogether from providing Personal Information to us by not registering on the Site, or registering for any Site sponsored promotion, and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database by deleting your registration profile. To do so, please follow the process described in "How Can You Update Your Personal or Registration Information."  
-Certain portions of the Site and certain services provided on the Site, however, do require registration in order to access or use these areas and services. If you choose not to register or provide certain information, these areas will not be accessible to you.
-
-**How Can You Update Your Personal Information or Registration Information?**
-
-You may access all of the Registration Information that we collect from you online and maintain by using the procedure described below. We use this procedure to better safeguard your Personal Information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access to your profile or making changes.  
-You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
-
-• Enter (or click) <http://reg.dallasnews.com/registration/membercenter.do>  
-• Sign in by entering your e-mail address and password. Your account information will then be displayed.  
-• To change your contact options select "Contact Options," make your selections, and submit the form.  
-• To remove your registration profile from our database, select "Delete My Account," make your selections, and submit the form.
+You may "opt-out" altogether from providing Personal Information to us by not registering on the Site, or registering for any Site sponsored promotion, and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database by deleting your registration profile. To do so, please follow the process described in "How Can You Update Your Personal or Registration Information."
 
  **What Safeguards Do We Put in Place to Protect Your Personal Information?**
 
 A. H. Belo maintains industry-standard safeguards to protect the security, integrity, and privacy of the Personal Information that you provide to us. However, no security system is impenetrable and we cannot guarantee the security of our database. Nor can we guarantee that the information you supply won't be intercepted while being transmitted to us over the Internet.
 
-**What Do You Need to Know About Third-Party Sites and Advertising?**
+**What Do You Need to Know About The News Registry, Third-Party Sites and Advertising?**
+
+**News Registry Collection of Content Usage Information**
+
+We participate in the News Registry, a service operated by NewsRight, LLC. The News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the NewsRight News Registry. Please refer to the NewsRight News Registry privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
 
 **Third-Party Sites**
 
@@ -132,11 +95,11 @@ Our Site includes links to many other websites, and provides access to products 
 
 **Third-Party Advertising**
 
-We use third-party advertising companies to serve ads when you visit our Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this Site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this Site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Yahoo! Ad Network Opt-Out**
 
-A. H. Belo participates in the APT from Yahoo! platform, and Yahoo! is an ad network partner to display ads on our sites. To improve your ad experience on A. H. Belo sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. [Learn more](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html) about Yahoo!'s ad practices, including how to opt out of using anonymous information to select which ads to show you. Yahoo! is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/). 
+A. H. Belo participates in the APT from Yahoo! platform, and Yahoo! is an ad network partner to display ads on our sites. To improve your ad experience on A. H. Belo sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. [Learn more](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html) about Yahoo!'s ad practices, including how to opt out of using anonymous information to select which ads to show you. Yahoo! is a member of [the Network Advertising Initiative.](http://www.networkadvertising.org/)
 
 **Do We Knowingly Collect Personal Information of Children Under 13?**
 
@@ -144,16 +107,14 @@ Children should always get permission from their parents before sending any info
 
 **How Do You Contact Us?**
 
-If you have any questions or comments about our Privacy Policy, please contact [Customer Service](http://res.dallasnews.com/contactus/).
+If you have any questions or comments about our Privacy Policy, please contact [Customer Service](http://www.dallasnews.com/customerservice/HelpCenter.do).
 
 **What we do NOT do: a warning about "phishing."**
 
-We do not and will not, at any time, request your credit card information, login name, or password, in an unsecured or unsolicited e-mail or telephone communication.  
+We do not and will not, at any time, request your credit card information, login name, or password, in an unsecured or unsolicited e-mail or telephone communication.
+
 Identity theft and the practice currently known as "phishing" are of great concern to us. Safeguarding information to help protect you from identity theft is our priority. For more information about phishing, you may want to visit the Federal Trade Commission at [www.ftc.gov](http://www.ftc.gov/).
 
 **When is this Privacy Policy Effective? How Do We Post Changes to the Privacy Policy?**
 
-This Privacy Policy is effective as of August 18, 2007. A. H. Belo reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page and/or on the Site. Your continued viewing, browsing, use or access of the Site following our posting of a change notice will constitute your binding acceptance of those changes.
-
-  
-
+This Privacy Policy is effective as of December 27, 2011. A. H. Belo reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page and/or on the Site. Your continued viewing, browsing, use or access of the Site following our posting of a change notice will constitute your binding acceptance of those changes.
