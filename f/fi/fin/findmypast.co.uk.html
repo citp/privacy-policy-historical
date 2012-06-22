@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the findmypast.co.uk privacy policy that was archived on 2011-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111116115736id_/http%3A//www.findmypast.co.uk/content/using-the-site/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the findmypast.co.uk privacy policy that was archived on 2012-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622055151id_/http%3A//www.findmypast.co.uk/content/using-the-site/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js borderradius csstransforms csstransforms3d"><head>
 <title>Privacy policy | Findmypast.co.uk</title>
 
 <meta name="decorator" content="container">
@@ -14,6 +14,8 @@
 <!-- CSS INCLUDES -->
  <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/viewer.css"> 
+
 <!--[if gte IE 7]>
 	<link rel="stylesheet" href= "/assets/css/ie.css">
 <![endif]-->
@@ -22,12 +24,21 @@
 <!--[if lt IE 9]>
 	<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
-<script type="text/javascript" src="/assets/js/libs/jquery.cycle.lite.v1.1.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="/assets/js/libs/modernizr-2.0.4.js"></script>
 <script type="text/javascript" src="/assets/js/libs/jquery.tools.min.js"></script>
+<script type="text/javascript" src="/assets/js/libs/jquery.cycle.lite.v1.1.js"></script>
 <script type="text/javascript" src="/assets/js/libs/yoxview/yoxview-init.js"></script><link rel="Stylesheet" type="text/css" href="https://web.archive.org/assets/js/libs/yoxview/yoxview.css"><script type="text/javascript" src="https://web.archive.org/web/20110924225457/http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script><script type="text/javascript" src="https://web.archive.org/assets/js/libs/yoxview/jquery.yoxview-2.2.min.js"></script>
-<script type="text/javascript" src="/assets/js/script.js"></script><script type="text/javascript">
+<script type="text/javascript" src="/assets/js/viewer-1.0.2.js"></script> 
+<script type="text/javascript" src="/assets/js/libs/zoom-assets/jquery.smoothZoom.min.js"></script>
+<!-- tipTip -->
+<script type="text/javascript" src="/assets/js/libs/tipTip/jquery.tipTip.minified.js"></script>
+<link rel="stylesheet" type="text/css" href="/assets/js/libs/tipTip/tipTip.css" media="screen">
+<!-- fancybox -->
+<script type="text/javascript" src="/assets/js/libs/fancybox/jquery.fancybox-1.3.0.js"></script>
+<link rel="stylesheet" type="text/css" href="/assets/js/libs/fancybox/jquery.fancybox-1.3.0.css" media="screen">
+<script type="text/javascript" src="/assets/js/script.js"></script>
+<script type="text/javascript">
 //Active link for left navigation
 function setActive() {
 	  aObj = document.getElementById('leftNav').getElementsByTagName('a');
@@ -45,7 +56,7 @@ window.onload = setActive;{}
 <div id="container">
 <!-- HEADER -->
 <header>
-<a href="/" title="back to homepage" class="logo"><img src="/assets/img/logo.gif" width="320" height="93" alt="Find My Past logo"></a>
+<a href="/" title="back to homepage" class="logo"><img src="/cms/fmp/images/logo.png" width="320" height="93" alt="Find My Past logo"></a>
 <!-- HORIZONTAL BANNER -->
 <div class="banner horizontal">
 <script type="text/javascript">
@@ -70,32 +81,42 @@ window.onload = setActive;{}
 <nav>
  <ul class="primary-nav">
   <li><a href="/" title="home">Home</a></li>
-  <li><a href="/family-tree-explorer.jsp" title="family trees">My family tree</a></li>
-  <li><a href="/XdbStartSearchServlet">Search records</a>
+  <li><a href="/family-tree" title="family trees">My family tree</a></li>
+  <li><a href="/search/all-records">Search records</a>
     <!-- SUB-NAV -->
     <ul id="sub_nav" class="sub">
-         <li><a href="/XdbStartSearchServlet">Search all records</a></li>
-		 <li><a href="/content/search-menu/life-events-bmds">Life events (BMDs)</a></li>
-		 <li><a href="/content/search-menu/census-land-and-surveys">Census, land &amp; surveys</a></li>
+         <li><a href="/search/all-records">Search all records</a></li>
 		 <li><a href="/content/search-menu/armed-forces-and-conflict">Armed forces &amp; conflict</a></li>
+		 <li><a href="/content/search-menu/census-land-and-surveys">Census, land &amp; surveys</a></li>
+		 <li><a href="/content/search-menu/directories-and-living-relatives">Directories &amp; living relatives</a></li>
 	     <li><a href="/content/search-menu/education-and-work">Education &amp; work</a></li>
 		 <li><a href="/content/search-menu/institutions-and-organisations">Institutions &amp; organisations</a></li>
+		 <li><a href="/content/search-menu/life-events-bmds">Life events (BMDs)</a></li>
+		 <li><a href="/content/search-menu/special-collections">Special collections</a></li>
 		 <li><a href="/content/search-menu/travel-and-migration">Travel &amp; migration</a></li>
-		 <li><a href="/content/search-menu/directories-and-living-relatives">Directories &amp; living relatives</a></li>
     </ul>
   </li>
   <!-- / sub-nav -->
-  <!-- <li><a href="/">My Findmypast</a></li>-->
-  <li><a href="/content/news/2011">News</a>
+  <li><a href="/tools/saved-records/list">My saved records</a></li>
+  <li><a href="/content/news/2012">News</a>
     <!-- SUB-NAV -->
     <ul class="sub">
-      <li><a href="/content/news/2011">News</a></li>
       <li><a href="/blog" target="_blank">Blog</a></li>
+      <li><a href="/content/news/2012">News</a></li>
     </ul>
   </li>
   <!-- / sub-nav -->
-  <li><a href="/helpadvice/getting-started/interested-family-history/index.jsp">Help &amp; advice</a></li>
+  <li><a href="/help-and-advice/getting-started/interested-family-history">Help &amp; advice</a>
+    <!-- SUB-NAV -->
+    <ul id="sub_nav" class="sub">
+      <li><a href="/help-and-advice/getting-started/interested-family-history">Getting started</a></li>
+	  <li><a href="/help-and-advice/site-tour/viewing-records">Site tour</a></li>
+	  <li><a href="/help-and-advice/knowledge-base/births-marriages-deaths/index">Knowledge base</a></li>
+	  <li><a href="/help-and-advice/faqs/my-account">Frequently asked questions</a></li>
+   </ul>
+  </li>
   <li><a href="/myAccount.action">My account</a></li>
+  <!--<li id="right"><a class="blue button" href="/content/gifting/vouchers">Buy gifts</a></li>-->
 </ul>
 </nav><!-- BODY -->
 
@@ -116,40 +137,62 @@ window.onload = setActive;{}
 <!-- / secondary nav -->
 <article>
  <h2>Privacy Policy</h2>
-  <p>This Privacy Policy explains how we use information that you provide us with when you use the website and how we make sure it is stored and managed safely and legally.</p>
-  <p>This Privacy Policy is part of the <a href="/content/using-the-site/terms-and-conditions">Terms &amp; Conditions of using this website</a>, so please read it carefully. We take your privacy extremely seriously, and will store all your personal information securely. </p>
-  <p><strong>The laws you're protected by</strong>: As we are a UK company, you are protected by UK and European data protection laws. We are registered as a Data Controller with the UK Information Commissioner's Office in accordance with the Data Protection Act 1998 (our registration number is Z6639808 and <a href="http://www.ico.gov.uk/ESDWebPages/search.asp">you can use it to check our registration</a> online if you want to). If you'd like to know more about data protection generally, <a href="http://www.ico.gov.uk/for_the_public.aspx">read this guide from the UK Information Commissioner</a>. </p>
-  <p><strong>Information we gather about you</strong>: Whenever you visit the website, we gather information about what you do during your visit, including the searches that you perform and the records you view. We also gather some statistics about your computer, such as the browser you use and how big your screen is. We gather personal information (e.g. name, address, phone number, email address, postal address) about you when you register, pay for a service or get in contact with us, or sometimes if you reply to a survey. If you create a family tree or create content on the website, we also manage that information, which may include personal information about you and other people (for example, names and birthdays of people in your family). We always aim to gather only the information that we need.</p>
-  <p><strong>What we use this information for</strong>:  We won't keep your personal information for longer than is necessary and will only use the personal information that we gather to:</p>
-  <ul class="bullet">
-    <li>manage the website (including your account);</li>
-    <li>provide advanced website features to you and others;</li>
-    <li>understand your needs to help us improve the website; </li>
-    <li>improve search results; </li>
-    <li>understand website usage to allow us to improve our marketing or the way we do business; </li>
-    <li>send you emails (more details below).</li>
-  </ul>
-  <p><strong>We use decent security technology and processes</strong>: We keep your details safe when you sign in or pay by using encryption (this <a href="http://en.wikipedia.org/wiki/Encryption">guide will tell you more about encryption and how it works</a>). We always use up-to-date technology security standards and make every effort to keep our systems as secure as they can reasonably be. Please be aware that although our systems are secure, your information might be intercepted on its way to us via the internet, although it is extremely uncommon for this to happen.</p>
-  <p><strong>We don't store your payment card information</strong>: When we take a payment from you, we use a secure third party service to process the payment and do not keep a record of your credit or debit card details in our systems. This means that even if (heaven forbid) someone broke into our systems, your payment details would not be available for them to steal.</p>
-  <p><strong>We won't ever sell your personal information to third parties</strong>: We won't ever sell your information to third parties, full stop.  If we run a promotion or competition where your information would be shared with a third party for marketing purposes, we will make that very clear and will ask your permission first.</p>
-  <p><strong>Who in our company sees your information</strong>: Only specific people within our company have access to your information, and we restrict this as much as we can. In general, we try to make sure that people only have as much access to your information as they need to carry out their job. </p>
-  <p><strong>Using third parties to process your information</strong>: We occasionally use third party companies to process information that you provide us with: for example, when you complete a survey or send an email. When we do, we keep the amount of personal information they hold to an absolute minimum, have contracts in place to stop them using your information except on our behalf and obviously do our best to make sure they are as careful with your information as we are.</p>
-  <p><strong>Where your information is stored</strong>: The vast majority of your information is stored securely on our servers in the UK. Some of our third party partners use servers in the United States. When we process data in the United States, we only use providers certified under the EU approved <a href="http://www.export.gov/safeharbor/eu/eg_main_018365.asp">Safe Harbor scheme</a>. </p>
-  <p><strong>When we can delete your information</strong>: If your account is inactive for two or more years and you do not have a paid service, we reserve the right to delete your information including information in your family tree, although we'll try to contact you first. Of course, if you have paid for a subscription or credits, we won't do this. </p>
-  <p><strong>Information stored in your family tree</strong>: Information stored in your family tree will, in almost all cases, include personal information about other people that are still alive. As with all information in your family tree, your information may be searchable by findmypast users (together with users of other websites) and may appear on internet searches, but all of the information will not be viewable unless you explicitly give them permission to view your tree. You should always seek permission from people who are living before you make their personal information available in your tree, or anywhere else online. We have provided you with privacy controls to manage your family tree and control who can see the information in it. You should familiarise yourself with how they work as you're responsible for using them to protect the information you have provided.</p>
-  <p><strong>Emails we send you</strong>: We try only to send you emails which are relevant and help you with your family history or tell you important things about the website. There are some emails which we send you only if we have your permission (marketing emails). There are some emails which we send you even if we don't have your permission (service emails) - we send these to administer the service. Each is explained below.</p>
-  <p><strong>Marketing emails</strong>: These emails include our regular newsletter, emails which help you with your family history, special offers and market research emails. They also include product updates: announcements of new features or historical records on the website. Very occasionally, we might tell you about a service offered by another company within our group, or even outside it, but this is rare. We make it very easy to stop receiving these emails. </p>
-  <p><strong>Unsubscribing from marketing emails</strong>: You can do this in a number of ways and we make it easy for you to do this. The easiest way is to change the settings in the 'my account' area of the website. There are also instructions on every email we send and you can usually unsubscribe directly from the email without visiting the website.</p>
-  <p><strong>Service emails</strong>: We need to send these to administer the service. Service emails include registration and payment confirmations, warnings that we are about to charge you or that your subscription or credits are about to expire, and welcome emails that provide useful information about how to use a service or feature when you sign up or start using it. Also, if we make a fundamental change to the website or our Terms &amp; Conditions that we think we need to make you aware of (for legal or simply for courtesy reasons), we will send you a service email.</p>
-  <p><strong>Unsubscribing from service emails</strong>: Because of the nature of these emails, we don't allow you to unsubscribe, but we can switch off your account if you are no longer interested in using the website. <a href="/content/using-the-site/contact-us">Contact our Customer Support team</a> to do this.</p>
-  <p><strong>Our use of cookies</strong>: We use cookies (small information files that are stored on your computer) to help us provide many features on the website. You can choose not to accept cookies from us (by changing your browser's security settings) but if you do, the website might not work as intended and some features may not work at all. Cookies are safe: please <a href="http://en.wikipedia.org/wiki/Cookies_(Internet)">read this short guide if you want to know more about them</a>.</p>
-  <p><strong>Seeing what information we hold on you</strong>: If you want to know what personal information we hold on you, <a href="http://www.findmypast.co.uk/content/using-the-site/contact-us">get in contact</a> and we'll be happy to supply you with it: there is a 	£10 administration charge to cover the cost of pulling it together.</p>
-  <p><strong>Updating your personal information</strong>: If the information we hold about you is no longer correct, please update your details in the 'my account' area or alternatively, <a href="/content/using-the-site/contact-us">let us know</a> and we will update our records.</p>
-  <p><strong>When we might disclose your information</strong>: We will only disclose your information to somebody outside our group companies (or who is processing your information on our behalf under contract) if we are required to by law.</p>
-  <p><strong>If we change hands</strong>:  If findmypast's business transfers to anyone else, you agree that we can pass your information to that person, so they can continue to provide you with the service. </p>
-  <p><strong>Changes to this policy</strong>: We might make changes to this policy from time to time - check back here to stay up to date. If we make a major change to it, we'll send you a service email describing the change and what it means for you.</p>
-  <p><strong>Contact us</strong>: We hope that's clear. If it isn't or you have another question that isn't covered, <a href="/content/using-the-site/contact-us">please contact us</a>.</p>
-  <p>Last updated: 5 April 2011 </p>
+
+<p>This Privacy Policy applies to bright<strong>solid</strong> Online Publishing Limited trading as findmypast (Company Registration No. 04369607), a company registered in England and Wales and the operator of the findmypast.co.uk website. It explains how we use information that you provide us with or that we collect about you when you use the website and how we make sure it is stored and managed safely and legally.</p>
+<p>This Privacy Policy is part of the <a href="/content/using-the-site/terms-and-conditions">Terms &amp; Conditions of using this website</a>, so please read it carefully. We take your privacy extremely seriously, and will store all your personal information securely in line with applicable data protection laws. </p>
+<p><strong>The laws you're protected by:</strong> As we are a UK company, you are protected by UK and European data protection laws. We are registered as a Data Controller with the UK Information Commissioner's Office in accordance with the Data Protection Act 1998 (our registration number is Z6639808 and <a href="http://www.ico.gov.uk/ESDWebPages/search.asp" target="_blank">you can use it to check our registration</a> online if you want to). If you'd like to know more about data protection generally, <a href="http://www.ico.gov.uk/for_the_public.aspx" target="_blank">read this guide from the UK Information Commissioner</a>. </p>
+<p><strong>Information we gather about you:</strong> We always aim to gather only the information we need in order to provide you with the service you have subscribed to.</p>
+<p><u>Registration and other information</u>. At registration, you provide us with information about yourself such as your name, country and email address. We also receive information from you when you pay for a product, get in contact with us, and sometimes if you reply to a survey.</p>
+<p><u>Information you choose to share.</u> If you create content on the website, which may include uploading personal information in the 'My Account' section or uploading records, photos, certificates and comments, we also receive that information. This may include personal information about you and other people (for example, names and birthdays of people in your family). </p>
+<p><u>Information other members share about you.</u> We may also receive information from other members, such as when they upload content relating to you, or post comments in relation to your family trees and other uploaded content.</p>
+<p><u>Other information we receive about you.</u> </p>
+<ul><li>Whenever you visit the website, we receive information about what you do during your visit, such as when you perform searches, send messages, click advertisements, upload or amend family trees, or purchase products. We receive this information through cookies. You can find out more about our use of cookies below. </li>
+<li>We also receive some information about the computer or other device you use to access our service, such as your IP address, the browser you use, your location, how big your screen is, or the pages you visit. </li>
+<li>When you upload a photo or video, we may also receive additional information through metadata about where that photo or video was taken, such as the time, date and location. </li>
+<li>We may also receive statistical information that does not personally identify you from our advertising partners who work with us to deliver more relevant, higher quality advertising to you on the website and to understand online activity. </li>
+<li>We may also receive information from other websites, such as Facebook, when you log into the website using Facebook Platform. You can find out more about this under 'Sharing with other websites and applications' below. </li></ul>
+<p><strong>What we use this information for:</strong> We use the information we receive about you through your use of the website, and of the services we provide to you on the website, for the purposes set out below (which are discussed in further detail throughout this Privacy Policy):</p>
+<ul><li>managing the website (including your account);</li>
+<li>	providing advanced website features to you;</li>
+<li>	understanding your needs to help us improve the website; </li>
+<li>improving search results; </li>
+	<li>understanding website usage to help us improve our marketing or the way we do business; </li>
+<li>	sending you emails and other communications (more details below).</li></ul>
+<p>You give us permission to use your information for the above purposes in relation to our current service, and also in relation to any new products and features which we may provide to you in the future as part of our service. </p>
+<p><strong>Sharing with other websites and applications:</strong> You can log in to the website using the Facebook Platform. When you log in using Facebook, Facebook shares selective information with us, such as your gender, date of birth, name and location, but we do not share information we hold about you with Facebook through your use of this facility.</p>
+<p><strong>We use high quality security technology and processes:</strong> We keep your details safe when you sign in or pay by using encryption (<a href="http://en.wikipedia.org/wiki/Encryption" target="_blank">this guide will tell you more about encryption and how it works</a>). We always use up-to-date technology security standards and make every effort to keep our systems as secure as they can reasonably be. Please be aware that although our systems are as secure as they reasonably can be, your information might be intercepted on its way to us via the internet, although it is extremely uncommon for this to happen. Keep your sign in details private at all times, and do not share them with anyone.</p>
+<p><strong>We don't store your payment card information:</strong> When we take a payment from you, we use a secure third party service to process the payment and do not keep a record of your credit or debit card details in our systems. This means that even if someone broke into our systems, your payment details would not be available for them to steal.</p>
+<p><strong>We won't ever sell your personal information to third parties:</strong>  We won't ever sell your information to third parties, full stop. If we run a promotion or competition where your information would be shared with a third party for marketing purposes, we will make that very clear and will ask your permission first.</p>
+<p><strong>Who in our company sees your information:</strong> Only specific people within our the bright<strong>solid</strong> group of companies (meaning bright<strong>solid</strong> Online Publishing Limited, bright<strong>solid</strong> Online Innovation Limited, and any of their subsidiaries from time to time) have access to your information, and we restrict this as much as we can. In general, we try to make sure that people only have as much access to your information as they need to carry out their job. </p>
+<p><strong>Using third parties to process your information:</strong> We occasionally use third party companies to manage information that you provide us with: for example, when you complete a survey or pay for a subscription or PayAsYouGo credits. When we do, we keep the amount of personal information they hold to an absolute minimum, have contracts in place to stop them using your information except on our behalf and obviously use reasonable efforts to make sure they are as careful with your information as we are.</p>
+<p><strong>Where your information is stored:</strong> The vast majority of your information is stored securely on our servers in the UK. Some of our third party partners use servers in the United States. When we process data in the United States, we only use providers certified under the EU approved <a href="http://www.export.gov/safeharbor/eu/eg_main_018365.asp" target="_blank">Safe Harbor scheme</a>. </p>
+<p><strong>When we can delete your information:</strong> If your account is inactive for two or more years and you do not have a paid service, we reserve the right to delete your information including information in your family tree, although we'll try to contact you first. Of course, if you have an active subscription or PayAsYouGo credits, we won't delete your information unless our <a href="/content/using-the-site/terms-and-conditions">Terms &amp; Conditions</a> allow this for a different reason. </p>
+<p><strong>Information stored in your family tree:</strong> Information stored in your family tree will, in almost all cases, include personal information about other people who are still alive. As with all information in your family tree, your information may be searchable by findmypast users (together with users of other websites) and may appear on internet searches, but all of the information will not be viewable unless you explicitly give them permission to view your tree. You must always seek permission from people who are living before you make their personal information available in your tree, or anywhere else online. We have provided you with privacy controls to manage your family tree and control who can see the information in it. You should familiarise yourself with how they work as you're responsible for using them to control who sees the information you have provided. </p>
+<p>We reserve the right (at our own discretion) to remove any personal data which you have included in your family tree about people who are living if we are alerted to the fact that this personal data was used without their permission. If you become aware that your personal information has been included in somebody else's tree without your permission or is being misused in any other way on the website, please send an email to our <a href="/contact-us">Customer Support team</a> with details, and we will investigate and, if necessary, remove this information.</p>
+<p><strong>Emails we send you:</strong> </p>
+<p>We try only to send you emails which are relevant and help you with your family history or tell you important things about the website. There are some emails which we send you only if we have your permission (marketing emails). There are some emails which we send you even if we don't have your permission (service emails). We send these to administer the service. Each is explained below.</p>
+<p><u>Marketing emails.</u> These emails include our regular newsletter, emails which help you with your family history, special offers and market research emails. They also include product updates: announcements of new features or historical records on the website. Very occasionally, we might tell you about a service offered by another company within our group, or even outside it, but this is rare. </p>
+<p><u>Unsubscribing from marketing emails.</u> You can do this in a number of ways and we make it easy for you to do this. The easiest way is to change the settings in the 'my account' area of the website. There are also instructions on every email we send and you can usually unsubscribe directly from the email without visiting the website.</p>
+<p><u>Service emails.</u> We need to send these to administer the service. Service emails include registration and payment confirmations, warnings that we are about to charge you or that your subscription or credits are about to expire, and welcome emails that provide useful information about how to use a service or feature when you sign up or start using it. Also, if we make a fundamental change to the website or our <a href="/content/using-the-site/terms-and-conditions">Terms &amp; Conditions</a> that we think we need to make you aware of (for legal or simply for courtesy reasons), we may send you a service email.</p>
+<p><u>Unsubscribing from service emails.</u> Because of the nature of these emails, we don't allow you to unsubscribe, but we can switch off your account if you are no longer interested in using the website. <a href="/contact-us">Contact our Customer Support team</a> to do this.</p>
+<p><strong>Our use of cookies: </strong> </p>
+<p><u>Information gathered on registration.</u> When you register for our service, you provide your name, country and email address. We use cookies to store this login information. You can change these details through the <a href="/myAccount.action?_zga_s=1">My Personal Details</a> page. Please update your details with relevant changes as soon as possible to ensure we have the correct information for you on your account.</p>
+
+<p><u>Cookies.</u> We use small text files known as 'cookies' to enhance your experience of our service as follows: </p>
+<ul><li>To hold your login information (mentioned above), so that you do not need to log in each time you visit the website, and your homepage is personalised. This option can be turned off by logging out, and unticking the 'Remember me' option in the <a href="/MyAccountPersonalServlet">Preferences section</a> or when you next sign in; </li>
+<li>	To facilitate optimal use of our service by means of a temporary 'session' cookie which helps you to navigate through the website and enhances your user experience. These cookies disappear when your browser session ends, or when you click the 'Signout' link on the website homepage; and </li>
+<li>	To help us recognise you as a unique visitor by means of a 'persistent' cookie when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts and messages repeatedly.</li></ul>
+<p><u>Analytical cookies. </u>We use analytical cookies and similar analytical tools to compile anonymous, aggregated statistics that allow us to understand how users use our service and to help us improve the structure of our website. The data collected is not personal data, and we cannot identify you from it. These cookies allow us to understand who has seen which pages and advertisements on the website; to determine how frequently particular pages and advertisements are visited; to determine the most popular areas of the website; and generally to monitor usage of the website. We will also use aggregate non-personal data to track the success of any advertising campaigns on our website; to improve the effectiveness and suitability of advertising in communications sent by us and other companies in the bright<strong>solid</strong> group; or to provide to third parties non-personal, demographic data provided by you to target advertising more appropriately. We do not provide our advertising partners with information that identifies you as an individual. </p>
+<p><u>Third party cookies.</u> Some of the web analytics companies and advertisers used on the website may also place tracking cookies on your web browsers and/or computer. These cookies and embedded code are used for tracking the success of advertising campaigns. These cookies are normally permanent. Advertisers on our website and newsletters may also use cookies and similar analytical tools (both on our website and elsewhere) to monitor the success of the advertising, to control the frequency and repetition of advertisements and to ensure that advertising is relevant to individual users. </p>
+<p><u>Further information. </u>Please contact our <a href="/contact-us">customer support service</a> to request further details about individual cookies used on our website by us and by third parties.</p>
+<p><u>Disabling cookies.</u> Most internet browsers are automatically set up to accept cookies, but you can set your browser to refuse a cookie by changing your browser security settings, or you can ask your browser to show you where a cookie has been set up. You may also be asked to consent to the use of certain cookies upon entering or registering on our website. Certain features on our website are only activated by the presence of a cookie so, if you do not accept certain cookies, our website might not work properly, and particular features of this website may not be available to you. You can find out more on how to disable/enable cookies via the following link <a href="http://www.allaboutcookies.org/manage-cookies/" target="_blank">http://www.allaboutcookies.org/manage-cookies/</a></p>
+<p><strong>Seeing what information we hold on you:</strong> If you want to know what personal information we hold on you, <a href="/contact-us">get in contact</a> and we'll be happy to supply you with it. There is a £10 administration charge to cover the cost of pulling it together.</p>
+<p><strong>Updating your personal information: </strong>If the information we hold about you is no longer correct, please update your details in the 'my account' area or, alternatively, let us know and we will update our records. In certain situations, we may choose not to amend your personal information. In this event, we will include an appropriate statement or note about it with the information.</p>
+<p><strong>When we might disclose your information:</strong> We will only disclose your information to somebody outside our group companies (or third parties who are processing your information on our behalf, under contract) if we are required to or otherwise permitted to do so by law.</p>
+<p><strong>If we change hands: </strong>If findmypast's business transfers to anyone else, you agree that we can pass your information to that person, so they can continue to provide you with the service. </p>
+<p><strong>Changes to this Privacy Policy:</strong> We might make changes to this Privacy Policy from time to time – check back here to stay up to date. If we make a major change to it, we'll usually send you a service email describing the change(s) and what it means for you.</p>
+<p><strong>Contact us:</strong> We hope that's clear. If it isn't or you have another question that isn't covered, <a href="/contact-us">please contact us</a>.</p>
+<p>Last updated: 22 May 2012</p>
 <div class="pagination component">
    <a class="icon blue up anchor" href="#">Top</a>
 </div>
@@ -208,20 +251,36 @@ window.onload = setActive;{}
       <li><a class="icon rss" href="http://blog.findmypast.co.uk" target="_blank">Read our blog</a></li>
       <li><a class="icon facebook" href="http://www.facebook.com/findmypastUK" target="_blank">Find us on Facebook</a></li>
       <li><a class="icon twitter" href="http://twitter.com/findmypast" target="_blank">Follow us on Twitter</a></li>
+      <li><a class="icon google" href="http://plus.google.com/102943003779712731591/posts" target="_blank">Join us on Google+</a></li>
       <li><a class="icon youtube" href="http://www.youtube.com/user/findmypast?feature=mhum" target="_blank">Watch us on YouTube</a></li>
     </ul>
   </div>
 </div>
 <div class="notice">
-  <p>Other brightsolid sites:</p>
+  <p>findmypast sites:</p>
   <ul>
-    <li><a href="http://www.findmypast.ie/" target="_blank">findmypast Ireland</a></li>
-    <li><a href="http://www.findmypast.com.au/" target="_blank">findmypast Australia and New Zealand</a></li>
-    <li><a href="http://www.scotlandspeople.gov.uk/?gclid=CIex0cLBm6UCFchH4wodFQ-3Fw" target="_blank">ScotlandsPeople</a></li>
-    <li><a href="http://www.1911census.co.uk/" target="_blank">1911census.co.uk</a></li>
-    <li><a href="http://www.friendsreunited.co.uk/" target="_blank">FriendsReunited</a></li>
+    <li><a href="http://www.findmypast.co.uk/" target="_blank">findmypast UK</a>&nbsp;<img src="/assets/img/United-Kingdom.png"></li>
+    <li><a href="http://www.findmypast.com.au/" target="_blank">findmypast Australia / New Zealand</a>&nbsp;<img src="/assets/img/au.png">&nbsp;<img src="/assets/img/nz.png"></li>
+    <li><a href="http://www.findmypast.ie/" target="_blank">findmypast Ireland</a>&nbsp;<img src="/assets/img/ie.png"></li>
+    <li><a href="http://www.findmypast.com/" target="_blank">findmypast US</a>&nbsp;<img src="/assets/img/us.png"></li>
   </ul>
-  <span>© 2011 bright<strong>solid</strong> online publishing limited, trading as <a href="/">findmypast.co.uk</a></span> </div>
+  <br>
+ <p><strong>Other</strong> <a href="http://www.brightsolid.com" target="blank">bright<strong>solid</strong></a> sites:</p>
+  <ul>
+    <li><a href="http://www.1911census.co.uk/" target="_blank">1911census.co.uk</a></li>
+    <li><a href="http://www.scotlandspeople.gov.uk/?gclid=CIex0cLBm6UCFchH4wodFQ-3Fw" target="_blank">ScotlandsPeople</a></li>
+    <li><a href="http://www.britishnewspaperarchive.co.uk/" target="_blank">The British Newspaper Archive</a></li>
+    <li><a href="http://censusrecords.com/" target="_blank">censusrecords.com</a></li>
+    <li><a href="http://www.friendsreunited.co.uk/" target="_blank">FriendsReunited.co.uk</a></li>
+  </ul>
+  <span>©&nbsp;<script type="text/javascript">
+<!--
+var currentTime = new Date();
+var year = currentTime.getFullYear();
+document.write(year);
+//-->
+</script>2020&nbsp;<a href="/content/about-findmypast/company-info">bright<strong>solid</strong> online publishing limited</a>, trading as findmypast.co.uk</span> 
+</div>
   
 <!--TRACKING -->
   <script src="https://www.dwin1.com/2114.js" type="text/javascript" defer="defer"></script>
@@ -240,8 +299,14 @@ if (militaryProd == "") {
 	
 }	
 
-	var censusYear = 0
-	var results = "0";
+	var censusYear = tracking_getParameterByName("censusYear");
+	var results = tracking_getParameterByName("results");
+	if(censusYear==""){
+		censusYear = 0;
+	}
+	if(results==""){
+		results = 0;
+	}
 
     $(document).ready(function() { 
     	$.get("/tracking/getScript/?uri=" + uri + "&event=" + fmpEvent + "&militaryProd=" + militaryProd + "&results=" + results + "&censusYear=" + censusYear, function(trackingScript) {
@@ -254,6 +319,9 @@ if (militaryProd == "") {
         	$("*[id='digitalAnalytix']").each(function() {
         		$(this).prepend(trackingScript);
         	});
+        	if(typeof sitestat_ecommerce == 'function'){
+        		sitestat_ecommerce();	
+        	}
         });		
     }
 
@@ -280,9 +348,14 @@ if (militaryProd == "") {
 </script>
 
 
-</footer>
+<!-- START OF UNANIMIS FOOTER CODE -->
+<script type="text/javascript"><!--//<![CDATA[
+// DO NOT CHANGE THIS LINE
+document.write('<scr'+'ipt type="text/javascript" src="https://d.unanimis.co.uk/FRPAST/FRPAST-DC-Footer.js"><\/scr'+'ipt>');
+//]]>--></script><script type="text/javascript" src="https://d.unanimis.co.uk/FRPAST/FRPAST-DC-Footer.js"></script>
+<!-- END OF UNANIMIS FOOTER CODE --></footer>
 <!-- / footer -->
 </div>
 <!-- #container -->
 
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
