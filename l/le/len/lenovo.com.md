@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lenovo.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223083616id_/https%3A//www.lenovo.com/privacy/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenovo.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622051846id_/https%3A//www.lenovo.com/privacy/us) for the most accurate reproduction.*
 
 # Lenovo Privacy
 
