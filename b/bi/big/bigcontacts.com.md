@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigcontacts.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206014633id_/http%3A//www.bigcontacts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcontacts.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622212750id_/http%3A//www.bigcontacts.com/privacy) for the most accurate reproduction.*
 
 # Small Business CRM,Business Contact Manager-BigContacts Privacy Policy
 
