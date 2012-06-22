@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qik.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201223945id_/http%3A//qik.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qik.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622094113id_/http%3A//qik.com/info/privacy) for the most accurate reproduction.*
 
 # Qik | SKYPE PRIVACY POLICY
 
