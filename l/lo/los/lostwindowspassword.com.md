@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the lostwindowspassword.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620155723id_/http%3A//lostwindowspassword.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostwindowspassword.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622085941id_/http%3A//www.lostwindowspassword.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy | Lost Windows Password | Windows Password Reset
 
-  
-
-
-## Windows Password Recovery Privacy Policy
-
-###### General Statement
+######  General Statement 
 
 Windows Password Recovery fully respects your right to privacy, and will not collect any personal information about you without your clear permission. Any personal information which you volunteer to Windows Password Recovery will be treated with the appropriate standards of security and confidentiality, strictly in accordance with the Data Protection Acts, 1988 & 2003\. 
 
@@ -26,3 +21,8 @@ You can change the settings in your browser to prevent cookies if you do not wan
 ###### Changes to this policy
 
 Please note that Windows Password Key may change this policy from time to time. Any amended policy terms will be posted to the Windows Password Recovery website. 
+
+Awards
+
+  * 
+
