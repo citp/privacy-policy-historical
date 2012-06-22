@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the find-bride.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227160641id_/http%3A//www.find-bride.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-bride.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623015746id_/http%3A//find-bride.com/privacy) for the most accurate reproduction.*
 
-# 
-
-[Latest Blog Post](https://web.archive.org/blogs)
-
-[](http://find-bride.com/search/profile/all/11627)
-
-Alyona , 28 years old
-
-Sevastopol \ Ukraine
-
- Man with strong core...
-
-[](http://find-bride.com/mess/send/all/11627) [](http://find-bride.com/gift/read/all/11627) [](http://find-bride.com/profile/addfriends/addGirl/11627) [](http://find-bride.com/privacy/video/all/11627)
-
-[   
-](http://find-bride.com/video)
+# Dating, Love, Wedding and Marriage with Russian and Ukrainian girls and women
 
 Privacy Policy
 
@@ -29,26 +14,3 @@ By using the site you have also agreed to our Privacy Statement. You acknowledge
 
 2\. CREDIT CARD FRAUD  
 Credit card fraud is impossible on find-bride.com because we don’t require you credit card information. This information is stored on the secure servers of credit card processing systems using SSL encryption technology. 
-
-now online
-
-[](http://find-bride.com/photo/full/bride/1323476995hpxx.jpg)
-
-now online
-
-[](http://find-bride.com/photo/full/1309174229hpjw.jpg)
-
-now online
-
-[](http://find-bride.com/photo/full/bride/1323556189hpcf.jpg)
-
-now online
-
-[](http://find-bride.com/photo/full/bride/1324663967hpx9.jpg)
-
-now online
-
-[](http://find-bride.com/photo/full/bride/1317901369hpfv.jpg)
-
-  
-
