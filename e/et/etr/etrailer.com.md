@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the etrailer.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227180515id_/http%3A//www.etrailer.com/faq-ordering.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etrailer.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622101907id_/http%3A//www.etrailer.com/faq-ordering.aspx%23privacy) for the most accurate reproduction.*
 
 # Ordering Information | etrailer.com
 
+  
+
+
 ## Sales Tax
 
-We only collect sales tax on purchases shipped or billed to a Missouri address. Duties, taxes or brokerage fees to a non-US address are your responsibility. Use tax laws vary by State. If sales or use tax is collected by your State on internet purchases, it is your responsibility.
+We only collect sales tax on purchases shipped to a Missouri address. Duties, taxes or brokerage fees to a non-US address are your responsibility. Use tax laws vary by State. If sales or use tax is collected by your State on internet purchases, it is your responsibility.
 
 ## Payment Options
 
@@ -30,7 +33,7 @@ You can also cancel unshipped items. Contact our Customer Service team at 800-29
 
 ### Problems or Questions?
 
-If you have any problems with your order, please don't hesitate to [Contact Us](https://web.archive.org/web/20111227180515id_/http%3A//contact.aspx) online or toll free at 800-298-8924.
+If you have any problems with your order, please don't hesitate to [Contact Us](https://web.archive.org/web/20120622101907id_/http%3A//contact.aspx) online or toll free at 800-298-8924.
 
   
 
@@ -45,6 +48,8 @@ We will notify you via e-mail of your refund once we have received and processed
 ### Packing and Sending Your Return
 
 Simply include a copy of the return authorization email from our Customer Service team with your return, and wrap the package securely. Clearly mark on the outside of your package the RGA number. For your protection, we recommend that you use an insured shipping service that provides delivery confirmation such as UPS or US Mail.
+
+ **NOTE:** Customers are responsible for any actual outbound shipping charges.
 
   
 
@@ -84,9 +89,9 @@ We use cookies as a way to provide you with better service. Cookies personalize 
 
 We use our huge buying power to offer the lowest prices. If you have found a lower advertised price with the same item in stock, we would like to know about it. For your help, we will refund you 110% of the difference in the delivered price (cost of product plus shipping/handling charges). This offer is valid on the identical product and model number. We can not honor competitor close-outs, liquidations, rebates, free-with-purchase offers or auctions.
 
-Simply [contact us](https://web.archive.org/web/20111227180515id_/http%3A//contact.aspx). Include your order number and a link to the website where you have found the lower priced in-stock item. We will issue a credit to the card that was used for your purchase for 110% of the difference in the delivered price.
+Simply [contact us](https://web.archive.org/web/20120622101907id_/http%3A//contact.aspx). Include your order number and a link to the website where you have found the lower priced in-stock item. We will issue a credit to the card that was used for your purchase for 110% of the difference in the delivered price.
 
-**NOTE:** You must order from etrailer.com in order to qualify for the price match.
+You must order from etrailer.com in order to qualify for the price match. Also, the request must be within 30 days of order.
 
 It is that easy.
 
@@ -96,11 +101,7 @@ It is not just a pledge. It's a promise.™
 
 ## Privacy Policy
 
-etrailer.com is committed to protecting your privacy. The information we collect is to ensure secure ordering and to provide a more personalized shopping experience. You can help us protect your privacy by not sharing your user name or password with anyone. If you have any concerns, comments or complaints, be sure to [contact us](https://web.archive.org/web/20111227180515id_/http%3A//contact.aspx).
-
-If you have concerns, questions or comments about what information is collected or how it is used call 800-298-8924 or email cs@etrailer.com.
-
-If you would like to update personal information, call 800-298-8924 or email cs@etrailer.com.
+etrailer.com is committed to protecting your privacy. The information we collect is to ensure secure ordering and to provide a more personalized shopping experience. You can help us protect your privacy by not sharing your user name or password with anyone. If you have any concerns, comments or complaints, be sure to [contact us](https://web.archive.org/web/20120622101907id_/http%3A//contact.aspx).
 
   
 
@@ -114,7 +115,7 @@ We only collect the information needed for secure ordering and customizing your 
 
 ### If I'm just browsing:
 
-  * We use IP addresses to measure our site traffic and to help provide a customized shopping experience.
+  * We use IP addresses to measure our site traffic and to help provide a customized shopping experience. Your IP address is not linked to your customer information.
   * If you come to our site via a link, the location where you came from is captured. This is used to help us better promote our site.
   * We capture the type of browser you are using to help us optimize our site to match the browser used by our customers.
   * We also keep track of pages you visit to help us provide a more personalized and relevant shopping experience and so that we can improve our site design.
@@ -154,19 +155,4 @@ No.
 
 etrailer.com does not send unsolicited e-mail.
 
-**NOTE:** Your customer service representative may occasionally send you promotional or product information. If you do not want to receive such e-mails, simply let your representative know.
-
-Ask the Experts
-
-Do you have a question about a product or how something works? With thousands of product installations and troubleshoots under our belts, we don't just sell this stuff, we know how to install and use it. Just type your question in the box below.
-
-It may be helpful to include the **year, make, and model of your vehicle** if you have a question about a custom fit product.
-
-Name:
-
-Contact email:
-
-Subject:   
-
-
-How can our experts help?
+ **NOTE:** Your customer service representative may occasionally send you promotional or product information. If you do not want to receive such e-mails, simply let your representative know.
