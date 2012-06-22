@@ -1,57 +1,40 @@
-> *The following text is extracted and transformed from the wso2.org privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121113340id_/http%3A//wso2.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wso2.org privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622190619id_/http%3A//wso2.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WSO2 Oxygen Tank
+# Privacy policy | WSO2
 
-Oxygen Tank is the Developer portal of WSO2, Inc. This privacy policy is effective from 08 August 2008.
+## User Information
 
-### 1\. User Information
+At WSO2, we recognize that privacy is important. This privacy policy applies to the site and services offered by WSO2 at [http://www.wso2.com](http://www.wso2.com/)
 
-In general, you can visit our site and subscribe to our feeds without telling us who you are or giving us personal information. Registering with Oxygen Tank and its sub domains is purely voluntary. You will receive added benefits at registration which will be detailed out on the registration form or in your 'user account'.
+We collect information from you when you register on our site. You may, however, visit our site anonymously.
 
-We collect all data that you voluntarily submit at registration or communicate with us via e-mail. We use this information to improve the content on the Web site based on your preferences and interests. Information is also used to send notifications on any site updates, newsletters, etc., that you voluntarily subscribe to.
+When registering, you may be asked to enter your name or email address. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring website addresses.
 
-We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
+The information we collect from you maybe used in one of the following ways: 
 
-The information we collect from you is not shared or sold to other organizations for commercial purposes. We have also taken appropriate security measures to protect your information against loss, misuse or alteration.
-
-If any information is to be made public under your 'user profile' you will be notified of this at submission or updating of this information. All sensitive data including contact details will not be made public.
-
-We will respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may transfer information about you if we are acquired by or merged with another company. In this event, we will notify you before information about you is transferred and becomes subject to a different privacy policy.
-
-All of your account information other than your user ID can be revised and saved by you at any point of time.
-
-### 2\. Aggregated Tracking Information
-
-We track and analyze your actions on our Web site such as navigation, downloads, number of visits, search items, etc., to gain a better understanding of our visitors and their movement through the site.
-
-### 3\. Revisions of Policy
-
-WSO2, Inc. may at any time revise this privacy policy by updating this page on wso2.org. We will not send individual email notifications on these updates. By using this Web site, you agree to be bound by any such revisions and you are therefore encouraged to periodically visit this page.
-
-However, if we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email or 'user account'. Users will be able to opt out of any use of their personal information.
-
-### 4\. Contact Us
-
-If you find any content that is in contravention with our privacy policy, please don't hesitate to [contact us](https://web.archive.org/feedback).
-
-## OTHER DOCUMENTS
-
-  1. [Terms of Use ](https://web.archive.org/terms)
-  2. [Licenses](https://web.archive.org/licenses)
-  3. [Community Guidelines](https://web.archive.org/guidelines)
+  * To personalize your experience (your information helps us to better respond to your individual needs).
+  * To improve our website (we continually strive to improve our website offerings on the feedback we receive from you).
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).
+  * To process transactions – your information, whether public or private, will not be sold, exchanged, transferred or given to any other entity for any reason whatsoever without your consent, other than for the sole purpose of delivering the purchased service requested by you.
+  * To send periodic emails- The email address you provide, maybe used to send you information and updates on the site and the services we provide and other information related to the services. You have the option to unsubscribe from receiving future emails as per the unsubscribe instructions provided at the bottom of each email.
+  * To administer a contest, survey or other site feature.
 
 
 
-library project main code
+We do not sell, trade or otherwise transfer to outside parties your personally identifiable information. This does not include our subsidiaries, affiliates and partners who assist us in operating our website, conducting our business or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our privacy policy or protect ours or others rights, property or safety. However, non personally identifiable visitor information maybe provided to third parties for marketing and advertising. We have also taken security measures to protect your information against loss, misuse or alteration.
 
-Featured
+At our discretion, we may include or offer third party products or services on our site. These third party sites have separate and independent privacy policies. We have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-In your cloud environment, if a user is consuming too much of your resources, either you have to control the user's behavior or scale up your resources to cater the situation and charge the user for consuming resources. If you decide to control the user, then, throttling is the answer for you...
+We track and analyse your actions on our website such as navigation, number of visits, downloads, search items, etc to gain a better understanding of our visitors and their movements through the site.
 
-WSO2 StratosLive is the public Platform as a Service (PaaS) from WSO2. With its lean, complete and 100% open source model, StratosLive holds key attributes to become competitively prominent in the enterprise cloud space...
+This privacy policy applies only to information collected through our website and not to information collected offline.
 
-Messaging is used with distributed computing to achieve asynchronous communication. An Event is a change of state in a software system. Eventing is referred to as propagating messages which contain those event information through publish and subscribe... 
+Please also visit our Terms of Use section relating to use, disclaimers, indemnities and limitations of liability governing the use of our site and services at [http://www.wso2.com/terms-of-use](https://web.archive.org/terms-of-use)
 
-Patterns are essential ingredients for architects when building solutions since patterns make solutions more stable as well as clean. It is important to pick the correct pattern based on the problem or the use-case that is implemented by a solution...
+We reserve the right to amend this privacy policy at any time. We will not send individual email notifications on the updates. Any amendments will be posted on this page. You are therefore encouraged to visit this page periodically.
 
-WSO2 Carbon Studio immensely simplifies SOA development by providing a complete Eclipse IDE for service/application development, deployment and execution. This article explains Carbon Studio and its benefits...
+By using our site, you consent to our privacy policy and any revisions thereto.
+
+If you have any questions regarding this privacy policy, you may contact us at [bizdev@wso2.com](mailto:bizdev@wso2.com)
+
+**Effective 16th November 2009**
