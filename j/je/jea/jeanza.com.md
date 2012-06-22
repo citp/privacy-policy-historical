@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jeanza.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124163400id_/http%3A//www.jeanza.com/index.php%3Fview%3Dprivacy%26cityid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeanza.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622125737id_/http%3A//www.jeanza.com/index.php%3Fview%3Dprivacy%26cityid%3D1) for the most accurate reproduction.*
 
-# Jeanza Free Local Classifieds
+# Deal of the Day
 
 **Jeanza Privacy Policy**
 
