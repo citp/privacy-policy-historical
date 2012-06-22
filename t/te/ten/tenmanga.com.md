@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenmanga.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228004156id_/http%3A//www.tenmanga.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenmanga.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622063606id_/http%3A//www.tenmanga.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 
 
@@ -6,13 +6,13 @@
 
 Privacy Policy 
 
-The following webpage outlines TenManga's collection and use of personal information from it's users. TenManga.com values the privacy of our members and users, we will never share any personal information of anybody who logs on to TenManga with anyone. This includes your e-mail address, name, and location. Upon logging on to TenManga such things as your IP address and hostname are logged for statistical and security reasons. i Cookies 
+The following webpage outlines TenManga's collection and use of personal information from it's users. TenManga.com values the privacy of our members and users, we will never share any personal information of anybody who logs on to TenManga with anyone. This includes your e-mail address, name, and location. Upon logging on to TenManga such things as your IP address and hostname are logged for statistical and security reasons. Cookies 
 
 A cookie is a very small text file placed on your system upon logging on to TenManga (and most other websites). This file serves as your identification card and is uniquely yours, and can only be read by the server that gave it to you. Cookies tell us that you have returned to a specific web page on TenManga and help us track your preferences and transactional habits. The basic function of cookies is to help our server remember who you are. 
 
 Children's Privacy 
 
-TenManga does not knowingly collect personal data from children under the age of 13. We make reasonable efforts to prevent someone who is underage from joining as a member of TenManga, and will not collect information from them. If TenManga learns that a child under the age of 13 has become a member, we will close that child's account and delete any information collected about the child. Third Party websites may collect information from users of TenManga, this information will include your IP address, hostname, and in
+TenManga does not knowingly collect personal data from children under the age of 13. We make reasonable efforts to prevent someone who is underage from joining as a member of TenManga, and will not collect information from them. If TenManga learns that a child under the age of 13 has become a member, we will close that child's account and delete any information collected about the child. 
 
 Not withstanding the foregoing, TenManga may choose to retain some personal information such as the child's e-mail address as a means to prevent the child from re-registering at our website. The Children's Online Privacy Protection Act (COPPA) went into effect in April 2000, and as a result websites all over the world wide web had to change their standards to not collect any information from a child. 
 
