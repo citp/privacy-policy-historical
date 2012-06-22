@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215104809id_/http%3A//www.dnb.com/about-dnb/privacy-policy/14950282-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623012416id_/http%3A//www.dnb.com/about-dnb/privacy-policy/14950282-1.html) for the most accurate reproduction.*
 
 # Privacy Policy | D&B
 
@@ -6,7 +6,7 @@
 
 Since 1841, Dun & Bradstreet (D&B) has collected information about businesses to deliver products and services that assist our customers in making critical commercial decisions. This privacy policy explains how we collect, use, manage, share and protect business information, including business professional and business contact data. Please read this notice carefully to understand our information collection and management practices. 
 
-D&B is the world's leading source of commercial information and insight, enabling companies to Decide with Confidence® since 1841. D&B's global commercial database contains more than 150 million business records, which we compile through a wide variety of commercial partners and public sources. Our database is enhanced by D&B's proprietary DUNSRight® quality assurance process, which provides our customers with timely and reliable business information. This quality information serves as the foundation of our global solutions that customers rely upon to make critical business decisions. 
+D&B is the world's leading source of commercial information and insight, enabling companies to Decide with Confidence® since 1841. D&B's global commercial database contains more than 200 million business records, which we compile through a wide variety of commercial partners and public sources. Our database is enhanced by D&B's proprietary DUNSRight® quality assurance process, which provides our customers with timely and reliable business information. This quality information serves as the foundation of our global solutions that customers rely upon to make critical business decisions. 
 
 D&B provides strategic solutions that meet a diverse set of global customer needs. Customers use D&B Risk Management Solutions to mitigate credit risk, increase cash flow and drive increased profitability. Customers use D&B Supply Management Solutions to more effectively manage their suppliers and service providers. Customers use D&B Sales & Marketing Solutions to strengthen their marketing initiatives and increase revenue from new and existing customers. Customers use D&B Internet Solutions to more effectively drive their business in the Information Age and to convert prospects into customers faster by enabling businesses and business professionals to research companies, executives and industries. 
 
@@ -166,4 +166,4 @@ This online privacy notice is applicable to the following U.S. D&B websites: [ww
 
 **Privacy Policy Effective Date: March 31, 2010**
 
-© Dun & Bradstreet, Inc., 2020 2011 2011 2011 2011. All rights reserved. 
+© Dun & Bradstreet, Inc., 2020 2012 2011 2011 2011 2011. All rights reserved. 
