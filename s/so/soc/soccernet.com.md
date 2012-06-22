@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccernet.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004094355id_/http%3A//soccernet.espn.go.com/feature/_/id/882125/espnsoccernet.com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccernet.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622051046id_/http%3A//soccernet.espn.go.com/feature/_/id/882125/espnsoccernet.com-privacy-policy) for the most accurate reproduction.*
 
 # ESPNsoccernet.com Privacy Policy - ESPN Soccernet
 
