@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nixxie.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223114017id_/http%3A//nixxie.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nixxie.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622032116id_/http%3A//www.nixxie.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
@@ -12,7 +12,11 @@ From time to time we may request that an entity making application for an accoun
 
 **Cookies**
 
-Nixxie uses cookies for community management purposes, to eliminate fraudulent and abusive users and to protect its IP and copyright. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to identify fraudulent, malicious and abusive users but also to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.
+Nixxie uses cookies for community management purposes, advertising purposes, to eliminate fraudulent and abusive users and to protect its IP and copyright. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to identify fraudulent, malicious and abusive users but also to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.
+
+**Third Party Advertising**
+
+Nixxie enables third-parties to serve ads and collect information on our site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, **[click here](http://www.networkadvertising.org/managing/opt_out.asp)**
 
 **Links to Other Sites**
 
