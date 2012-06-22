@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freefood2go.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224133443id_/http%3A//www.freefood2go.com/index.php%3Fp_resource%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefood2go.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622044620id_/http%3A//www.freefood2go.com/index.php%3Fp_resource%3Dprivacy) for the most accurate reproduction.*
 
-# Free Food 2 Go, LLC. - Privacy Policy for Individuals
+# MyLife Products International - Privacy Policy for Individuals
 
-PRIVACY POLICY FOR INDIVIDUALS
+test 
 
 ####  1\. This policy is effective as of February 1, 2011.
 
@@ -65,9 +65,3 @@ We may disclose all or some of the information we collect, as described above. S
 This document applies to consumers who have, or have had, a customer relationship or an independent agent relationship with or have made an inquiry or application to one or more services or affiliation with FREE FOOD 2GO, LLC.
 
 The policies and practices described in this disclosure are subject to change, but we will communicate any significant changes to you as required by applicable law. The policies and practices described in this disclosure replace all previous notices or statements regarding this subject.
-
-| 
-
-Find CO-OP Owners
-
-Enter your zip code below to find FF2G Owners near you (i.e. required field).
