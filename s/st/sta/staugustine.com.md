@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219082626id_/http%3A//staugustine.com/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622115914id_/http%3A//staugustine.com/resources/privacy) for the most accurate reproduction.*
 
 # StAugustine.com Privacy Policy and Terms of Use | StAugustine.com
 
@@ -30,7 +30,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Learn more about Yahoo!’s ad practices, including how to opt out of using anonymous information to select which ads to show you. Yahoo! is a member of the Network Advertising Initiative. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
-This Web site also uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information.
+This Web site uses services provided by NewsRight, LLC. NewsRight collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of NewsRight. Please refer to the NewsRight privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
 
 End users understand, acknowledge and agree that the Web site contains certain licensed content and technology from News Distribution Network (the “NDN Technology”), which may include certain metadata, tags, cookies, and other analytic devices for use as licensed content. End users also understand and agree that they are expressly prohibited from (i) modifying, editing, shortening, or otherwise altering the NDN Technology or the licensed content in any way; (ii) removing, editing, altering or obscuring any metadata or Intellectual Property markings associated with the NDN Technology or licensed content; (iii) downloading, copying, or otherwise replicating or making available the licensed content other than as set forth herein; or (iv) otherwise changing the appearance of the NDN Technology or licensed content.
 
