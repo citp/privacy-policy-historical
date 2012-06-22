@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapportive.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230141919id_/http%3A//rapportive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapportive.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622170814id_/http%3A//rapportive.com/privacy) for the most accurate reproduction.*
 
 # Rapportive | Pledge of Privacy
 
@@ -22,7 +22,7 @@ Please note that this document may change from time to time, to clarify wording 
 
 #### Where does Rapportive get its data from?
 
-We combine information from several sources; at the moment, these are [Academia.edu](http://academia.edu/), [AngelList](http://angel.co/), [Bitbucket](https://bitbucket.org/), [CrunchBase](http://www.crunchbase.com/), [Econsultancy](http://econsultancy.com/), [Facebook](http://www.facebook.com/), [Flickr](http://www.flickr.com/), [GitHub](https://github.com/), [Google Profiles](http://www.google.com/profiles), [Gravatar](http://gravatar.com/), [LinkedIn](http://www.linkedin.com/), [Plancast](http://plancast.com/), [Posterous](http://posterous.com/), [Rapleaf](http://www.rapleaf.com/), [Stack Overflow](http://www.stackoverflow.com/), [Tungle.me](http://www.tungle.me/) and [Twitter](http://twitter.com/), as well as thousands of organisations' public websites. We also allow you to add more services to Rapportive; please see the section on other services for details.
+We combine information from several sources; at the moment, these are [Academia.edu](http://academia.edu/), [AngelList](http://angel.co/), [Bitbucket](https://bitbucket.org/), [CrunchBase](http://www.crunchbase.com/), [Econsultancy](http://econsultancy.com/), [Facebook](http://www.facebook.com/), [Flickr](http://www.flickr.com/), [GitHub](https://github.com/), [Google Profiles](http://www.google.com/profiles), [Gravatar](http://gravatar.com/), [LinkedIn](http://www.linkedin.com/), [Plancast](http://plancast.com/), [Posterous](http://posterous.com/), [Stack Overflow](http://www.stackoverflow.com/), [Tungle.me](http://www.tungle.me/), [Twitter](http://twitter.com/) and [Vimeo](http://vimeo.com/), as well as thousands of organisations' public websites. We also allow you to add more services to Rapportive; please see the section on other services for details.
 
 We make a clear distinction between:
 
