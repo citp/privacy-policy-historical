@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kaltura.com privacy policy that was archived on 2011-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110920124046id_/http%3A//corp.kaltura.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaltura.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622154216id_/http%3A//corp.kaltura.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Kaltura: Open Source Video Platform
+# Privacy Policy | Kaltura
 
 ### Preamble
 
-Kaltura greatly respects its users’ privacy and takes it seriously. This Privacy Policy supplements the Kaltura [Terms of Use](https://web.archive.org/tandc), and sets forth the terms and conditions relating to users’ privacy as defined below. Capitalized terms in this policy shall have the meaning attributed to them in the Kaltura [Terms of Use](https://web.archive.org/tandc).
+Kaltura greatly respects its users’ privacy and takes it seriously. This Privacy Policy supplements the Kaltura [Terms of Use](http://corp.kaltura.com/tandc), and sets forth the terms and conditions relating to users’ privacy as defined below. Capitalized terms in this policy shall have the meaning attributed to them in the Kaltura [Terms of Use](http://corp.kaltura.com/tandc).
 
 ### What This Privacy Policy Covers
 
@@ -17,11 +17,11 @@ Kaltura greatly respects its users’ privacy and takes it seriously. This Priva
 
 #### General
 
-  * Kaltura collects personal information when you register with Kaltura, when you use the Kaltura Website, when you use Kaltura’s platform via 3rd parties who use Kaltura’s API, when you visit Kaltura pages or the pages of certain Kaltura partners, and when you enter promotions and contests offered on Kaltura. Kaltura may combine information about you that we have with information we obtain from business partners or other companies. 
-  * When you register we ask for information such as your name, email address, birth date, gender, ZIP code, website, and personal interests. When you register with Kaltura and sign in to the Kaltura Website, you are not anonymous to us. 
-  * Kaltura collects information about your use of the Kaltura Website and with some of our business partners. 
-  * Kaltura automatically receives and records information on our server logs from your browser, including your IP Address, Kaltura Cookie information, and the page you request. 
-  * Kaltura uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+  * Kaltura collects personal information when you register with Kaltura, when you use the Kaltura Website, when you use Kaltura’s platform via 3rd parties who use Kaltura’s API, when you visit Kaltura pages or the pages of certain Kaltura partners, and when you enter promotions and contests offered on Kaltura. Kaltura may combine information about you that we have with information we obtain from business partners or other companies.
+  * When you register we ask for information such as your name, email address, birth date, gender, ZIP code, website, and personal interests. When you register with Kaltura and sign in to the Kaltura Website, you are not anonymous to us.
+  * Kaltura collects information about your use of the Kaltura Website and with some of our business partners.
+  * Kaltura automatically receives and records information on our server logs from your browser, including your IP Address, Kaltura Cookie information, and the page you request.
+  * Kaltura uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
 
 
@@ -33,14 +33,12 @@ Kaltura greatly respects its users’ privacy and takes it seriously. This Priva
 
 ### Information Sharing and Disclosure
 
-  * Kaltura does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:   
-
+  * Kaltura does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
     * We provide the information to trusted partners who work on behalf of or with Kaltura under confidentiality agreements. These companies may use your personal information to help Kaltura communicate with you about offers from Kaltura and our marketing partners. However, these companies do not have any independent right to share this information.
     * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
     * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Kaltura's terms of use, or as otherwise required by law.
     * We transfer information about you if Kaltura is acquired by or merged with another company. In this event, Kaltura will notify you before information about you is transferred and becomes subject to a different privacy policy.
-  * Kaltura displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area.   
-
+  * Kaltura displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. 
     * Kaltura does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
     * Kaltura advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies)
   * Kaltura works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please contact us at [info@kaltura.com](mailto:info@kaltura.com).
@@ -83,5 +81,3 @@ Kaltura greatly respects its users’ privacy and takes it seriously. This Priva
   * If you have questions or suggestions, please Contact Us.
 
 
-
-Back to Top
