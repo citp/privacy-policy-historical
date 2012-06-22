@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pushys.com.au privacy policy that was archived on 2011-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111029102851id_/http%3A//www.pushys.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushys.com.au privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623003101id_/http%3A//www.pushys.com.au/privacy-policy.html) for the most accurate reproduction.*
 
-# Pushys Privacy Policy Pushys Bike Gear
+# Pushys Privacy Policy
 
 Pushys is committed to acting in accordance with the Privacy Act 1993 by providing you with services in a way that does not affect your privacy.
 
