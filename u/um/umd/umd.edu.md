@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umd.edu privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101104119id_/http%3A//www.nethics.umd.edu/dive-in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umd.edu privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622204911id_/http%3A//www.nethics.umd.edu/dive-in/privacy.html) for the most accurate reproduction.*
 
 # Project Nethics - OIT
 
@@ -6,7 +6,7 @@
 
 | 
 
-This statement pertains exclusively to the collection of personal information on official university web sites. Official university web sites  use the domain names "umd.edu" and "maryland.edu" and are controlled, operated, and maintained by university personnel in connection with university business. All uses of university computing resources, however, are subject to the _Policy on the Acceptable Use of University Information Technology Resources_ available at [http://www.nethics.umd.edu/aup](https://web.archive.org/web/20111101104119id_/http%3A//www.nethics.umd.edu/aup/index.html).   
+This statement pertains exclusively to the collection of personal information on official university web sites. Official university web sites  use the domain names "umd.edu" and "maryland.edu" and are controlled, operated, and maintained by university personnel in connection with university business. All uses of university computing resources, however, are subject to the _Policy on the Acceptable Use of University Information Technology Resources_ available at [http://www.nethics.umd.edu/aup](https://web.archive.org/web/20120622204911id_/http%3A//www.nethics.umd.edu/aup/index.html).   
 
 
 ## Collection of Personal Information
