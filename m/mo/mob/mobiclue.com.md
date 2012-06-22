@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiclue.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102120531id_/http%3A//www.mobiclue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiclue.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622163012id_/http%3A//www.mobiclue.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
