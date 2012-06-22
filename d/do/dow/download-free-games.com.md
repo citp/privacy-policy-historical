@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download-free-games.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235726id_/http%3A//www.download-free-games.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download-free-games.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622231108id_/http%3A//www.download-free-games.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Download Free Games - Download Free Games
 
@@ -105,5 +105,3 @@ Download Free Games has partnered with eTrust to provide a professionally certif
 Any changes made to this privacy policy will appear publicly on our site at
 
 [http://www.download-free-games.com/privacy.htm](https://web.archive.org/privacy.htm)
-
-**Previous Page**
