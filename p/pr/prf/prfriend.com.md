@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prfriend.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217115706id_/http%3A//www.prfriend.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prfriend.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622210747id_/http%3A//www.prfriend.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | PR Friend - Ethical Public Relations
+# Privacy Policy - PR Friend
 
 This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters, all members or affiliates and all customers. It sets out how PRfriend uses and protects any information that you provide when you use this website.
 
@@ -29,7 +29,7 @@ We collect information volunteered by the consumer, such as survey information a
 
 #### Product Order Information
 
-All product orders are carried out on Ultracart’s Secure Server and subject to their Privacy Policy - <http://www.ultracart.com/privacy.html>
+All product orders are carried out on Ultracart’s Secure Server and subject to their Privacy Policy – <http://www.ultracart.com/privacy.html>
 
 #### E-mail Communications:
 
@@ -42,6 +42,10 @@ We do not share information with any other bodies.
 #### Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+#### Third-party advertising
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/policies/privacy/ads/).
 
 #### Future Privacy Policy Changes
 
