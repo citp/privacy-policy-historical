@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the mightytext.net privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106202512id_/http%3A//mightytext.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightytext.net privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622053917id_/http%3A//mightytext.net/privacy) for the most accurate reproduction.*
 
 # MightyText Privacy Policy
-
-[ ](https://web.archive.org/)
-
-[Follow @MightyText](http://twitter.com/mightytext)
 
 ### Privacy Policy
 
