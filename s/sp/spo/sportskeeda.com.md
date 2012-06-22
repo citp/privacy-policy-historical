@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportskeeda.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010041238id_/http%3A//www.sportskeeda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportskeeda.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622173918id_/http%3A//www.sportskeeda.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy «
+# Privacy Policy « SportsKeeda
 
 Sportskeeda.com takes extreme care of your personal information and makes you aware about the principles being followed to safeguard the information. We ask for brief information like name, email id and interests while you register yourself on our website which is kept under high security so as not to be disseminated.
 
