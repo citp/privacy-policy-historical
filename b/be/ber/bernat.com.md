@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bernat.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103235933id_/http%3A//www.bernat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bernat.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622073757id_/http%3A//www.bernat.com/privacy.php) for the most accurate reproduction.*
 
 # Bernat: Privacy Policy
 
@@ -99,5 +99,5 @@ As a member of Bernat, you can review and change the information in your member 
 
 Bernat may modify this privacy policy at any time, and such modifications shall be effective as soon as the modified privacy policy is posted. Accordingly, you agree to review the privacy policy periodically, and your continued access or use of this web site shall be deemed your acceptance of the modified privacy policy.
 
-[Contact us with your questions and comments.](http://bernat.com/contact.php)  
+[Contact us with your questions and comments.](http://www.bernat.com/contact.php)  
 
