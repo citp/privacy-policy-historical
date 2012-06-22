@@ -1,41 +1,40 @@
-> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318175441id_/http%3A//www.replicon.com/about_replicon/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623004646id_/http%3A//www.replicon.com/privacy-policy) for the most accurate reproduction.*
 
-# Web Timesheet Software Privacy Policy - Replicon
+# Privacy Policy | Replicon
 
-[Home](http://www.replicon.com/ "Replicon Inc. offers easy to use easy-to-use web timesheet software to track employee time, project time and expenses streamlining attendance, payroll, project tracking, costing and billing. It therefore provides, hassle free online timesheet management software and solutions to cater various business needs.") > [About Us](https://web.archive.org/about-replicon.aspx "Replicon, Inc. is the global leader of corporate web-based time and expense management solutions.") > Privacy Statement
+("Replicon" or "we", "us", "our", etc.)  
+GENERAL PRIVACY POLICY
 
-("Replicon" or "we", "us", "our", etc.)
+Replicon is committed to maintaining the privacy of individuals and protecting personal information in its custody or control in accordance with privacy legislation applicable to Replicon. This Policy is intended to comply with the requirements of Alberta's Personal Information Protection Act ("PIPA"). However, in certain circumstances, other legislation may be applicable.
 
-Replicon is committed to maintaining the privacy of individuals and protecting personal information in its custody or control in accordance with privacy legislation applicable to Replicon. This Policy is intended to comply with the requirements of Alberta's _Personal Information Protection Act_ ("PIPA"). However, in certain circumstances, other legislation may be applicable.
-
-**Application**
+Application
 
 This Policy describes and summarizes the practices of Replicon and its affiliates with respect to our collection, use and/or disclosure of personal information related to all individuals other than employees and individual contractors of Replicon; those individuals are subject to a separate policy. Employees of Replicon dealing with personal information are expected to be familiar with this Policy.
 
-**Definitions**
+Definitions
 
 In this Policy, the following terms have the meanings below:
 
-  * **Personal information** means information about an identifiable individual, which does not include information of an aggregate or anonymous nature where a specific individual or individuals cannot be identified. Personal Information also does not include **business contact information** , as long as business contact information is used to contact an individual in their capacity as an employee or official of an organization, and for no other purpose. Information about a corporation, firm, trust, union or other non-individual entity is not personal information.
-  * **Business contact information** means an individual's name and position or title as an official or employee of an organization, as well as their business telephone number, business address, business e-mail, business fax number and other business contact information.
+  * Personal information means information about an identifiable individual, which does not include information of an aggregate or anonymous nature where a specific individual or individuals cannot be identified. Personal Information also does not include business contact information, as long as business contact information is used to contact an individual in their capacity as an employee or official of an organization, and for no other purpose. Information about a corporation, firm, trust, union or other non-individual entity is not personal information.
+  * Business contact informationmeans an individual's name and position or title as an official or employee of an organization, as well as their business telephone number, business address, business e-mail, business fax number and other business contact information.
 
 
 
-**Privacy and our Website**
+Privacy and our Website
 
 We do not collect any personal information from individuals who simply visit our website. However, individuals should be aware that most web servers do collect some information about visitors, such as the browser and version being used, the operating system, and the "IP" or internet address of the visitor, which may identify the individual's Internet Service Provider or computer but not necessarily the individual using it.
 
 Replicon's website server also use cookies, which are small text files containing information sent to the computer of a visitor to our website. Cookies are used to help our web server track such things as user preferences that the user may submit in order to make the website more interactive with the user and more responsive to their preferences. Information stored in cookies is used to pre-populate form fields and to remember user preference. This is done for user convenience as well as to provide us with information on which parts of our website are being viewed and by how many visitors. The tracking process is anonymous and no personal information is used.
 
-**E-mail**
+E-mail
 
 If you voluntarily submit personal information to us by e-mail for purposes of obtaining information, we will consider that you have done so with your consent for purposes reasonably related to your providing the information. If reasonable to do so, after our initial response, we may send further information to you with information that may be useful, but we will include instructions on how to terminate receiving such further information. Please be advised that the Internet and e-mail are inherently insecure media, and we cannot take responsibility for the security or privacy of personal information in transit over the Internet.
 
-**Third Party Websites**
+Third Party Websites
 
 Please note that our website may contain links to other websites which are provided as a convenience for visitors to our website only. Any third party websites will have their own privacy policies and practices, and we cannot be responsible for such third parties, their websites, or their privacy practices.
 
-**Sources of Personal Information**
+Sources of Personal Information
 
 Replicon generally collects, uses and discloses personal information about the following types of individuals:
 
@@ -49,7 +48,7 @@ Replicon generally collects, uses and discloses personal information about the f
 
 
 
-**Notification and consent**
+Notification and consent
 
 Subject to this Policy and applicable legislation, Replicon will identify the purposes for collection, use and disclosure in advance of collection, and will notify the individual of the purposes for collection, use or disclosure at or before the time of collection.
 
@@ -57,7 +56,7 @@ There are a number of exceptions to the above provisions in that in some circums
 
 In other circumstances, specifically those set out in applicable legislation, the law does not require that Replicon obtain consent or provide notification. Replicon reserves all its rights to rely on any available statutory exemptions and exceptions.
 
-**Exceptions to the requirement for consent**
+Exceptions to the requirement for consent
 
 Replicon may collect personal information without consent in circumstances that include but are not limited to the following:
 
@@ -76,7 +75,7 @@ Where a new purpose for the use or disclosure of personal information previously
 
 Where practical, Replicon will try to collect personal information directly from the individual. Where necessary, Replicon will collect personal information from other sources. When Replicon collects personal information about individuals directly from them, except when their consent to the collection is deemed or has otherwise been previously and lawfully obtained, or is not required, we will tell them the purpose for which the information is collected, and, if reasonable to do so, the name of a person who can answer questions about the collection.
 
-**Why we collect, use and disclose personal information**
+Why we collect, use and disclose personal information
 
 Replicon generally collects, uses and discloses personal information for the following purposes:
 
@@ -94,7 +93,7 @@ Replicon generally collects, uses and discloses personal information for the fol
 
 
 
-**Use of Personal Information**
+Use of Personal Information
 
 As with collection, there are exceptions to the requirement of consent with respect to use. For example, Replicon may use personal information without consent in circumstances that include but are not limited to the following:
 
@@ -110,7 +109,7 @@ As with collection, there are exceptions to the requirement of consent with resp
 
 Replicon will in all cases use personal information as permitted or required by applicable law.
 
-**Disclosure of personal information**
+Disclosure of personal information
 
 It is the general policy of Replicon to not disclose personal information in its custody or control except with the consent of the individual and then only for identified purposes. However, individuals should be aware that there are exceptions to the above.
 
@@ -127,7 +126,7 @@ Replicon will in all cases disclose personal information as required or permitte
 
 Replicon does not disclose, trade or sell its customer or contact lists.
 
-**Telephone Calls**
+Telephone Calls
 
 All incoming and outgoing telephone calls using Replicon's telephone systems are subject to automated recording and archiving. Recording is a function of certain technology and cannot be turned off by individual Replicon employees or contractors for particular cases. Recording is carried out for the following purposes:
 
@@ -142,11 +141,9 @@ Callers from outside Replicon are advised that their call may be recorded and po
 
 Recordings, including recordings that are not reviewed, are retained on the same basis as other personal information pursuant to this Policy. Where required or permitted by law, Replicon may use or disclose personal information contained in recordings. Replicon does not use information contained in recordings for marketing or solicitation purposes. Access to such recordings is restricted to particular individuals within Replicon who have obligations of confidentiality to Replicon and who have a need to review such recordings as part of their obligations to Replicon.
 
-**Computer Interaction**
+Computer Interaction
 
 There are occasions where Replicon representatives may remotely access a computer of a Replicon customer in order to provide services, including technical support or product support. Such access may include an exchange of information of a conversational nature and, while not intended to do so, such access may result in the collection of personal information incidental to our providing services. The activities carried out during such access are recorded and archived so that the recording of such activities may later be viewed or reviewed for the purposes of providing services to the customer in question. The recording is a video file without sound and is subsequently used only for the purposes of assisting the customer. In all cases where a computer becomes subject to access by Replicon, such access will be with the customer's knowledge and consent.
-
-**Retention and destruction of personal information**
 
 Alberta law allows us, for legal or business purposes, to retain personal information for as long as is reasonable. Upon expiry of an appropriate retention period, bearing in mind reasonable legal and business requirements, personal information will either be destroyed in a secure manner or made anonymous.
 
@@ -154,11 +151,11 @@ Should consent to our collection, use, disclosure or retention of personal infor
 
 When we collect, use or disclose personal information, we will make reasonable efforts to ensure that it is accurate, up to date, and complete.
 
-**Security**
+Security
 
 We recognize our legal obligations to protect the personal information we have gathered about individuals. We have therefore made arrangements to secure against unauthorized access, collection, use, disclosure, copying, modification, disposal or destruction of personal information. These arrangements may include physical security measures, network security measures, and organizational measures such as non-disclosure agreements and need-to-know access.
 
-**Requests for Access**
+Requests for Access
 
 Alberta law permits individuals to submit written requests to us to provide them with:
 
@@ -194,17 +191,19 @@ Alberta law also provides that Replicon may choose not to disclose personal info
   * the disclosure of the information would reveal confidential commercial information and it is not unreasonable to withhold that information;
   * the personal information was collected by Replicon for an investigation or legal proceeding;
   * the disclosure of the personal information might result in similar information no longer being provided to us when it is reasonable that it would be provided;
-  * the personal information was collected or created by a mediator or arbitrator in the conduct of a mediation or arbitration for which he or she was appointed to act
+  * the personal information was collected or created by a mediator or arbitrator in the conduct of a mediation or arbitration for which he or she was appointed to act 
+
     * under an agreement,
     * under an enactment, or
     * by a court; or
+
   * the personal information relates to and may be used in the exercise of prosecutorial discretion.
 
 
 
 Replicon reserves all its rights under the above.
 
-**Responses to Requests**
+Responses to Requests
 
 Our responses to requests for access to personal information will be in writing, and will confirm:
 
@@ -216,7 +215,7 @@ Our responses to requests for access to personal information will be in writing,
 
 If access to information or copies are refused by us, we will provide written reasons for such refusal and the section of PIPA (the Personal Information Protection Act, Alberta) on which that refusal is based. We will also provide the name of an individual at Replicon who can answer questions about the refusal, and particulars of how the requesting individual can ask the Information and Privacy Commissioner of Alberta to review our decision. In order to receive a response to such a request, the individual must provide us with sufficient information to locate their record, if any, and to respond to them.
 
-**Requests for Correction**
+Requests for Correction
 
 Alberta law permits individuals to submit written requests to us to correct errors or omissions in their personal information that is in our custody or control. If an individual alleges errors or omissions in the personal information in our custody or control, we will either:
 
@@ -227,18 +226,18 @@ Alberta law permits individuals to submit written requests to us to correct erro
 
 Corrections or amendments will not made to opinions as opposed to factual information, although we reserve the right to modify opinions where changes in the facts on which those opinions are based occur.
 
-**Amendment**
+Amendment
 
 Replicon may amend this Policy from time to time as required and without notice, in order to better meet our obligations under the law.
 
-**Contacting Replicon**
+Contacting Replicon
 
-If you have any questions with respect to our policies concerning the collection, use, disclosure or handling of your personal information, or if you wish to request access to, or correction of, your personal information under our care and control, or if you are dissatisfied with how we handle your personal information, please contact our Privacy Officer, Celeste Janke, at:
+If you have any questions with respect to our policies concerning the collection, use, disclosure or handling of your personal information, or if you wish to request access to, or correction of, your personal information under our care and control, or if you are dissatisfied with how we handle your personal information, please contact our Privacy Contact, Peter Kinash, at:
 
-[celeste@replicon.com](mailto:celeste@replicon.com "Replicon") OR 403-262-6519 ext 384.
+[peter.kinash@replicon.com](mailto:peter.kinash@replicon.com "Replicon") OR 403-262-6519 ext 384.
 
-If you remain dissatisfied after our Privacy Officer has reviewed and responded to your concern, or have other concerns or questions, you have the right at any time to contact the Office of the Information and Privacy Commissioner at:
+If you remain dissatisfied after our Privacy Contact has reviewed and responded to your concern, or have other concerns or questions, you have the right at any time to contact the Office of the Information and Privacy Commissioner at:
 
-> 410, 9925 - 109 Street  
->  Edmonton, AB T5K 2J8  
->  Telephone (780) 422-6860 or Fax (780) 422-5682 
+410, 9925 - 109 Street  
+Edmonton, AB T5K 2J8  
+Telephone (780) 422-6860 or Fax (780) 422-5682
