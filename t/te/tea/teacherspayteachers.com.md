@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155142id_/http%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622032208id_/http%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - TeachersPayTeachers.com
 
