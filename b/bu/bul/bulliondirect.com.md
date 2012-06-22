@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the bulliondirect.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205033009id_/http%3A//www.bulliondirect.com/articles/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulliondirect.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622173041id_/http%3A//www.bulliondirect.com/articles/privacyPolicy.do) for the most accurate reproduction.*
 
 # Bullion Direct: Privacy Policy
 
-Because Bullion Direct® wants to demonstrate our commitment to your privacy, we have agreed to disclose our information practices. This web site has agreed to notify you of:  
-
+Because Bullion Direct® wants to demonstrate our commitment to your privacy, we have agreed to disclose our information practices. This web site has agreed to notify you of:
 
   * What personally identifiable information of yours is collected from you through the web site
   * The organization collecting the information
@@ -13,7 +12,9 @@ Because Bullion Direct® wants to demonstrate our commitment to your privacy, we
   * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Bullion Direct's control
   * How you can correct any inaccuracies in the information
 
-If you feel that we are not abiding by our posted privacy policy, you should first [contact](https://web.archive.org/aboutus/contact.do) Bullion Direct's Compliance Department. 
+
+
+If you feel that we are not abiding by our posted privacy policy, you should first [contact](https://web.archive.org/aboutus/contact.do;jsessionid=97AA664A9D7E334399289938B371C266) Bullion Direct's Compliance Department. 
 
 As part of the normal operation of our services, we collect information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about Bullion Direct's practices in order to make informed decisions. As described below, some of your personally identifiable information is used by us, and in certain cases, third parties.
 
@@ -75,11 +76,11 @@ We also send the user site and service announcement updates. Members are not abl
 
 **CORRECTION/UPDATING PERSONAL INFORMATION**
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. You may edit most of your personal information in the My Profile section of your account. If this feature does not accommodate your needs, please feel free to [contact](https://web.archive.org/aboutus/contact.do) our Compliance Dept.
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. You may edit most of your personal information in the My Profile section of your account. If this feature does not accommodate your needs, please feel free to [contact](https://web.archive.org/aboutus/contact.do;jsessionid=97AA664A9D7E334399289938B371C266) our Compliance Dept.
 
 **CHOICE/OPT-OUT**
 
-Users who no longer wish to receive our newsletter or promotional materials from Bullion Direct may opt-out of receiving these communications by [contacting](https://web.archive.org/aboutus/contact.do) our Compliance Dept. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
+Users who no longer wish to receive our newsletter or promotional materials from Bullion Direct may opt-out of receiving these communications by [contacting](https://web.archive.org/aboutus/contact.do;jsessionid=97AA664A9D7E334399289938B371C266) our Compliance Dept. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
 
 **Notification of Changes**
 
