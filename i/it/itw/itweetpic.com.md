@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itweetpic.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902003522id_/http%3A//itweetpic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itweetpic.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622093053id_/http%3A//itweetpic.com/privacy.html) for the most accurate reproduction.*
 
 # iTweetpic.com Privacy
 
