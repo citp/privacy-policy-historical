@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetechguys.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924200356id_/http%3A//www.knowhow.com/system-pages/footer-menu/privacy.aspx%3Fcountry%3Duk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechguys.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622082940id_/http%3A//www.knowhow.com/privacy-policy.aspx%3Fcountry%3Duk) for the most accurate reproduction.*
 
-# Privacy Policy | Knowhow
+# KNOWHOW | Privacy Policy
 
 ### WHO WE ARE
 
