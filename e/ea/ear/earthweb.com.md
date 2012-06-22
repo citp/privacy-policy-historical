@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earthweb.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231071444id_/http%3A//www.internet.com/Internetcom/Door/41186) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthweb.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622202144id_/http%3A//www.earthweb.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 **LAST UPDATED** : October 22, 2010
 
