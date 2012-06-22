@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edisonnation.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218094857id_/http%3A//www.edisonnation.com/documents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edisonnation.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622055259id_/http%3A//edisonnation.com/documents/privacy-policy) for the most accurate reproduction.*
 
-# Edison Nation — Privacy Policy
+# Privacy Policy
 
 **EdisonNation.com is committed to protecting information collected through its website. This Privacy Policy outlines how EdisonNation.com collects, uses, and protects personally identifiable user information. Should you choose to provide us with any personally identifiable information, you should feel confident that we will abide by this policy. We reserve the right to change this Privacy Policy from time to time, and you should check this page periodically for changes. When changes are made, we will do our best to notify you. You may contact EdisonNation.com by calling 704-333-5335 or by emailing[info@edisonnation.com](mailto:info@edisonnation.com) should you have any questions regarding this Privacy Policy.**
 
