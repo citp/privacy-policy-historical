@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musicmagpie.co.uk privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226230122id_/http%3A//www.musicmagpie.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicmagpie.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622180241id_/http%3A//www.musicmagpie.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# Selling your music CDs DVDs and games? Sell for cash the best prices paid
+# musicMagpie - Selling your music CDs, DVDs, games, blu-rays, mobiles, iPads, iPhones, iPods and Technology products? Sell for cash the best prices paid
 
 Entertainment Magpie Limited T/A musicMagpie.co.uk is committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at [privacy@musicmagpie.co.uk](mailto:privacy@musicmagpie.co.uk).
 
