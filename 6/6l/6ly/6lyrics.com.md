@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 6lyrics.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120228id_/http%3A//www.6lyrics.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6lyrics.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622225040id_/http%3A//www.6lyrics.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Lyrics,Song Lyrics,Music Lyrics,New Lyrics,Lyrics Search,Top Country Lyrics,Alors on Dance Lyrics, Celebrity News and Gossips
 
 ##  6Lyrics Privacy Policy
 
