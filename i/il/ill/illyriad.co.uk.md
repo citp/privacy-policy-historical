@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the illyriad.co.uk privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123154655id_/http%3A//www.illyriad.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illyriad.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622175504id_/http%3A//www.illyriad.co.uk/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Illyriad
+# Privacy Policy
+
+[Illyriad](https://web.archive.org/) [About Illyriad Games](https://web.archive.org/Home/AboutIllyriadGames) Privacy Policy 
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. 
 
