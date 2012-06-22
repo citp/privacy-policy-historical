@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computerworld.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012175020id_/http%3A//www.computerworld.com/s/pages/about_policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerworld.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622165801id_/http%3A//www.computerworld.com/s/pages/about_policies) for the most accurate reproduction.*
 
 # Policies - Computerworld
 
