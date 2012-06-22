@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118022303id_/http%3A//www.michaels.com/Privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622220522id_/http%3A//www.michaels.com/Privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,7 +92,7 @@ _Electronic and Mobile Communications._ We only send you promotional mobile or e
 
 _Postal Mail._ Where permitted by law, we may mail you unsolicited offers or product information that we believe is of interest to you. You can stop receiving promotional postal mail from Michaels. Promotional postal mail may contain opt out instructions, and you can stop receiving promotional postal mail from us by following those instructions.
 
-_Access._ You can view, correct or update the personal contact information you provide us by navigating to “My Michaels” logging in with your username and password. If you have registered with [midesign.michaels.com/invitations](https://web.archive.org/web/20111118022303id_/http%3A//www.michaels.com/Privacy-Policy/midesign.michaels.com/invitations) and/or with [midesign.michaels.com/digitalphoto](http://midesign.michaels.com/digitalphoto), you will need to log in to each account separately to update your information. At this time, changing or updating your account on michaels.com will not automatically update your information with midesign.michaels.com/invitations or /digitalphoto, and vice versa.
+_Access._ You can view, correct or update the personal contact information you provide us by navigating to “My Michaels” logging in with your username and password. If you have registered with [midesign.michaels.com/invitations](https://web.archive.org/web/20120622220522id_/http%3A//www.michaels.com/Privacy-Policy/midesign.michaels.com/invitations) and/or with [midesign.michaels.com/digitalphoto](http://midesign.michaels.com/digitalphoto), you will need to log in to each account separately to update your information. At this time, changing or updating your account on michaels.com will not automatically update your information with midesign.michaels.com/invitations or /digitalphoto, and vice versa.
 
 Top
 
@@ -294,6 +294,51 @@ Top
 
 * * *
 
+The following terms and conditions are specific to Michaels mobile/SMS/MMS message communications.
+
+  
+
+
+## Program
+
+Michaels Stores, Inc. offers their customers mobile access to their alerts, coupons, and events over SMS. Enrollment requires that the user has a text messaging plan when providing a mobile phone number. Some programs may require a data plan available through the user cellular carrier. The mobile phone number's verification is done by an double opt-in process where the user must confirm his/her registration process into the program. Even though message frequency will average 4 messages per month, the user may receive up to 8 messages per month. Message & data rates apply. Customers will be allowed to opt out of this program at any time.
+
+  
+
+
+## Questions
+
+You can contact us at [custhelp@michaels.com](mailto:custhelp@michaels.com), or at any time from your mobile phone, text **"HELP"** to: 273283. We can answer any questions you have about the program.
+
+  
+
+
+## To Stop The Program
+
+To stop the messages coming to your phone, you can opt out of the program via SMS. Just text the word **"STOP"** to: 273283. You'll receive a one-time opt-out confirmation text message. After that, you will receive no future messages.
+
+  
+
+
+## Terms & Conditions
+
+By participating in the Company Mobile program, you are agreeing to the terms and conditions presented here. To view Privacy Policy, click here.
+
+  
+
+
+## Carriers Supported
+
+United States  
+ACG – Carolina West Wireless, ACG – Cellcom, ACG – Cellular South, ACG – NTELOS Wireless; Inc., AT&T, Boost Mobile, Cincinnati Bell, Cricket Communications, GetLisa, Interop – Appalachian Wireless, Interop – Bluegrass Cellular, Interop – Centennial Cellular Corp, Interop – COX TMI WIRELESS, LLC, Interop – GCI Comms aka Alaska DigiTel, Interop – Illinois Valley, Interop – Immix Wireless, Interop – Inland Cellular, Interop – Nex-Tech, Interop – United Wireless, Interop – West Central Cellular, Interop ECIT Cellular One of East Central, MetroPCS, Nextel Communications, Sprint, T-Mobile, US Cellular Corp, Verizon Wireless, Virgin Mobile USA
+
+Canada  
+Airtel, Bell Mobility, DMTS Mobility, ICE Wireless, Lynx Mobility, Mobilicity, MTS Mobility, Public Mobile, Rogers Wireless, SakTel Mobility, Sogetel Mobility, TBayTel Mobility, Telus Mobility, Videotron Mobile, Wind Mobile
+
+Top
+
+* * *
+
 This site is owned and operated by Michaels Stores, Inc. located at 8000 Bent Branch Drive, Irving, Texas 75063.
 
-Last Updated: February 2011
+Last Updated: March 2012
