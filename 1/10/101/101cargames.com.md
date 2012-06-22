@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 101cargames.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228092214id_/http%3A//www.101cargames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101cargames.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622114506id_/http%3A//www.101cargames.com/privacy.html) for the most accurate reproduction.*
 
-# Play Car Games on 101CarGames.com - Privacy Policy
+# Play Car Games on 101CarGames.com - Dragon Rider
 
 101cargames.com is committed to providing an entertaining, fun and educational service. We respect the privacy concerns of visitors to 101cargames.com. 
 
@@ -22,7 +22,7 @@ It is important that you understand that advertisers or Web sites that link to a
 
 Online behavioral advertising (“OBA”) and/or multi-site advertising is occurring on 101cargames.com 
 
-You can learn more about VCM by visiting their website: [valueclickmedia.com](https://web.archive.org/web/20111228092214id_/http%3A//www.101cargames.com/valueclickmedia.com)
+You can learn more about VCM by visiting their website: [valueclickmedia.com](https://web.archive.org/web/20120622114506id_/http%3A//www.101cargames.com/valueclickmedia.com)
 
 You can opt out from ValueClick or Network Advertising sites as follows: 
 
