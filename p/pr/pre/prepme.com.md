@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prepme.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214047id_/http%3A//www.prepme.com/index.php/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepme.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622055621id_/http%3A//prepme.com/index.php/about/privacy) for the most accurate reproduction.*
 
 # PrepMe Online ACT, SAT, and PSAT prep
 
