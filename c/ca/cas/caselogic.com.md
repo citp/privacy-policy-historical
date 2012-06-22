@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caselogic.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222210339id_/http%3A//www.caselogic.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caselogic.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622043906id_/http%3A//www.caselogic.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
 
 # CD Cases, DVD Cases, MP3 Cases, Laptop Cases, Camera Cases, CD Wallets, DVD Wallets, iPod Cases, Laptop Sleeves - Case Logic
 
@@ -41,7 +41,7 @@ When you enter a contest or other promotion, We may ask you for contact informat
 It is possible to register as a Case Logic email subscriber directly from our site or through another source, such as a Case Logic sweepstakes hosted on another site or the co-registration network. Upon registering, We will periodically send you newsletters and e-mails featuring exclusive sales, promotions and other members-only benefits. If you make a purchase on our site We will send you an order and shipping confirmation email. If you are a subscribed member, We will also send you emails to collect ratings and testimonials feedback related to your purchase. If you'd rather not receive emails, please visit the Your Account page to change your preferences.
 
 **Fulfillment**  
-During the purchase process, We will share your information with certain intermediaries (e.g. UPS, or Cybercash) strictly to process and ship your order.
+During the purchase process, We will share your information with certain intermediaries (e.g. FedEx, or Cybercash) strictly to process and ship your order.
 
 **Promotional Offers**  
 At times We may present or send offers to select Case Logic subscribers on behalf of other parties. When We do this, We do not give that company your personally identifiable information without your consent. If you do not want to receive such communications, please edit your account preferences at the Your Account section of the web site.
