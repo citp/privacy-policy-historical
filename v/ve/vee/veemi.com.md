@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veemi.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217065451id_/http%3A//www.veemi.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veemi.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623001938id_/http%3A//www.veemi.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Veemi.com - Your stream is on!
 
