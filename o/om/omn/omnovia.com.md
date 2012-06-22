@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnovia.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013101id_/http%3A//www.omnovia.com/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnovia.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622183431id_/http%3A//www.omnovia.com/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -13,7 +13,7 @@ This privacy notice discloses the privacy practices for www.omNovia.com. This pr
 
 ## Information Collection, Use, and Sharing
 
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. You might be using our services to access a Conference Room or Live Support of a **Company X**. We will not sell or rent this information to anyone other than the **Company X**.
+We are the sole owners of the information collected on this site. We only have access to collect information that you voluntarily give us via email or other direct contact from you. You might be using our services to access a Conference Room or Live Support of a **Company X**. We will not sell or rent this information to anyone other than the **Company X**.
 
 We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization and **Company X** , other than as necessary to fulfill your request, e.g. to ship an order.
 
