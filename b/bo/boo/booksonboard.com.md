@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the booksonboard.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223143340id_/http%3A//www.booksonboard.com/index.php%3FF%3Dprivacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksonboard.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622145558id_/http%3A//www.booksonboard.com/index.php%3FF%3Dprivacy-statement) for the most accurate reproduction.*
 
-# BooksOnBoard is the leading independent ebook store since 2005 "shipping" over 2 million ebooks - eBook reviews from Goodreads - unique indie author ebooks carousel - eBooks & download Audio Books - over half a million titles and 1.5m books of all ebook formats - first to sell ebooks on iPhone and ePUB ebooks anywhere | Ebooks | BooksOnBoard
+# eBook store, BooksOnBoard eBooks, Free eBooks, iPad eBooks, bestsellers eBooks, android eBooks | Ebooks | BooksOnBoard
 
 _Last updated on June 8th, 2011_
 
-BooksOnBoard (referred to herein as "We", "Our" or "Us") considers the protection of your personal information a top priority when you ("You" or "Your") use Our BooksOnBoard Service. If You decide to access the BooksOnBoard Service, Your visit and any dispute over privacy is subject to this Privacy Policy and Our [Terms and Conditions](https://web.archive.org/web/20111223143340id_/http%3A//index.php?F=terms-of-use) of Use. Our Policy regarding the collection, use and disclosure, if any, of personal information can be broken down into the 10 principles covered in Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA").
+BooksOnBoard (referred to herein as "We", "Our" or "Us") considers the protection of your personal information a top priority when you ("You" or "Your") use Our BooksOnBoard Service. If You decide to access the BooksOnBoard Service, Your visit and any dispute over privacy is subject to this Privacy Policy and Our [Terms and Conditions](https://web.archive.org/web/20120622145558id_/http%3A//index.php?F=terms-of-use) of Use. Our Policy regarding the collection, use and disclosure, if any, of personal information can be broken down into the 10 principles covered in Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA").
 
   * We are responsible for personal information under Our control.
   * All Our employees are responsible for day-to-day compliance.
   * When We use trusted third parties, including Our affiliates and subsidiaries, to act on Our behalf by performing such functions as fulfilling orders, delivering packages, processing credit card payments or providing customer service, contractual or other appropriate means are used to ensure compliance by such third parties with this Policy and all applicable privacy laws.
-  * Our Website may contain links to other websites. We are not responsible for the privacy practices of other web sites. We encourage Our users to be aware when they leave Our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Us pursuant to the BooksOnBoard Service. Please review the [Terms of Use](https://web.archive.org/web/20111223143340id_/http%3A//index.php?F=terms-of-use) for more information..
+  * Our Website may contain links to other websites. We are not responsible for the privacy practices of other web sites. We encourage Our users to be aware when they leave Our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Us pursuant to the BooksOnBoard Service. Please review the [Terms of Use](https://web.archive.org/web/20120622145558id_/http%3A//index.php?F=terms-of-use) for more information..
 
 
 
@@ -28,7 +28,7 @@ BooksOnBoard (referred to herein as "We", "Our" or "Us") considers the protectio
 
 **(b) Email**
 
-  * When You create a BooksOnBoard account, You can select whether We can send You emails related to the BooksOnBoard Service or the products purchased by You. You can change this option at any time via Your [Account Settings](https://web.archive.org/web/20111223143340id_/http%3A//account/index.php?BODY=details).
+  * When You create a BooksOnBoard account, You can select whether We can send You emails related to the BooksOnBoard Service or the products purchased by You. You can change this option at any time via Your [Account Settings](https://web.archive.org/web/20120622145558id_/http%3A//account/index.php?BODY=details).
   * We reserve the right to send You important account related emails from time to time even if You have opted not to receive emails from us.
 
 
@@ -110,7 +110,7 @@ BooksOnBoard (referred to herein as "We", "Our" or "Us") considers the protectio
 
   * Upon request, We will inform You of the existence, use and disclosure of personal information relating to You and, except in certain circumstances, give You access to that information. You have the right to challenge the accuracy and completeness of Your information and have it amended as appropriate.
   * In certain circumstances permitted by law, access to Your personal information will not be provided to You. Some examples of these circumstances are where the information contains references to other individuals, cannot be disclosed for legal, security or commercial proprietary reasons, or is subject to solicitor-client or litigation privilege. 
-  * We do not knowingly collect or solicit personal information from anyone under the age of thirteen or knowingly allow such persons to register. If You are under the age of thirteen, please do not attempt to register or send any information about Yourself to Us, including Your name, address, telephone number, or email address. In the event that We learn that We have collected personal information from an individual under the age of thirteen, We will remove that information as quickly as possible. If You believe that We might have any information from or about a person under the age of eighteen, please [Contact Us](https://web.archive.org/web/20111223143340id_/http%3A//index.php?F=support).
+  * We do not knowingly collect or solicit personal information from anyone under the age of thirteen or knowingly allow such persons to register. If You are under the age of thirteen, please do not attempt to register or send any information about Yourself to Us, including Your name, address, telephone number, or email address. In the event that We learn that We have collected personal information from an individual under the age of thirteen, We will remove that information as quickly as possible. If You believe that We might have any information from or about a person under the age of eighteen, please [Contact Us](https://web.archive.org/web/20120622145558id_/http%3A//index.php?F=support).
 
 
 
