@@ -1,0 +1,562 @@
+<!--The following is the downloaded HTML source of the foxsoccer2go.com privacy policy that was archived on 2012-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622172453id_/http%3A//www.foxsoccer2go.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+  <meta charset="utf-8">
+
+      
+<title>Privacy Policy | Help | FOX Soccer 2Go</title>
+  <meta name="description" content="Learn about the privacy policy for FOX Soccer 2Go.  FOX Soccer is your source to watch soccer and rugby games from the UEFA Champions League, Barclays Premier League, Serie A, French Ligue 1, Aviva Premiership and the Heineken Cup Champion League.">
+  <link type="image/x-icon" href="/javaImages/92/50/0,,13138~10375314,00.ico" rel="shortcut icon">
+  <link rel="stylesheet" type="text/css" media="screen" href="/css/foxSoccer/css/primary.css">
+<script src="/js/global/js/libs/jquery/1.5.2/jquery.min.js"></script>
+<script src="/js/global/js/core/geolocation.js"></script>
+<script src="/js/global/js/libs/SWFObject/2.2/swfobject.js"></script>
+<script src="/js/global/js/core/dateFormat.js"></script>
+<script src="/js/global/js/plugins/jcarousel/0.2.8/jquery.jcarousel.min.js"></script>
+<script src="/js/global/js/plugins/countdown/1.0/jquery.countdown.js"></script>
+<script src="/js/global/js/plugins/newsreader/1.0/jquery.newsreader.js"></script> 
+<script src="/js/global/js/plugins/scrollTo/1.4.2/jquery.scrollTo-min.js"></script>
+<script src="/js/global/js/plugins/form/2.63/jquery.form.js"></script> 
+<script src="/js/global/js/plugins/validate/1.8.1/jquery.validate.js"></script> 
+<script src="/js/global/js/plugins/cookie/jquery.cookie.js"></script> 
+<script src="/js/global/js/plugins/jqModal/r14/jqModal.js"></script>
+<script src="/js/global/js/core/performplayer/performplayer.js"></script>
+<script src="/js/global/js/core/perform/0.1/perform.js"></script>
+<script src="/js/foxSoccer/js/script.js"></script>  <!--[if lt IE 9]>
+    <script src="/js/global/js/core/html5.js"></script>
+  <![endif]-->    
+  <!--[if IE 7]>
+   <style>
+    .subscriptionType label 
+     {
+      margin-left: 5px;
+     }
+   </style>
+  <![endif]-->
+  <script>
+    var s_account="premiumtvfoxsoccertv";
+  </script>
+
+</head>
+    
+  <body><div id="meebo" style="display: none;"><m><iframe frameborder="0" id="meebo-iframe" name="meebo-iframe"></iframe></m></div>
+    <script>    
+    var g_meeboNetworkType = 'foxsoccertogo';
+    
+    if( perform.isLoggedIn() ) {
+      g_meeboNetworkType = 'foxsoccer2go-loggedin';
+    }
+    
+    window.Meebo||function(c){function p(){return["<",i,' onload="var d=',g,";d.getElementsByTagName('head')[0].",
+j,"(d.",h,"('script')).",k,"='//cim.meebo.com/cim?iv=",a.v,"&",q,"=",c[q],c[l]?
+"&"+l+"="+c[l]:"",c[e]?"&"+e+"="+c[e]:"","'\"></",i,">"].join("")}var f=window,
+a=f.Meebo=f.Meebo||function(){(a._=a._||[]).push(arguments)},d=document,i="body",
+m=d[i],r;if(!m){r=arguments.callee;return setTimeout(function(){r(c)},100)}a.$=
+{0:+new Date};a.T=function(u){a.$[u]=new Date-a.$[0]};a.v=5;var j="appendChild",
+h="createElement",k="src",l="lang",q="network",e="domain",n=d[h]("div"),v=n[j](d[h]("m")),
+b=d[h]("iframe"),g="document",o,s=function(){a.T("load");a("load")};f.addEventListener?
+f.addEventListener("load",s,false):f.attachEvent("onload",s);n.style.display="none";
+m.insertBefore(n,m.firstChild).id="meebo";b.frameBorder="0";b.name=b.id="meebo-iframe";
+b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=
+d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=
+b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,
+'\\"')+'");d.close();'}a.T(1)}({network:''+g_meeboNetworkType});
+    </script>
+    
+    <div class="content">
+      
+<script>   
+  function isUserLoggedIn() {
+    return perform.isLoggedIn();  
+  }
+  
+  function logout() {
+    return perform.logout();
+  }
+    
+  function usernameToLowerCase() {
+    if($("input[name='login.username']").length > 0) {
+      $("input[name='login.username']").val($("input[name='login.username']").val().toLowerCase());
+    }
+    if($("input[name=login_username]").length > 0) {
+    $("input[name=login_username]").val($("input[name=login_username]").val().toLowerCase());
+    }
+  }
+
+  $(document).ready(function(){
+    if ( isUserLoggedIn() ){
+      $("#signInFooterLink").hide();
+      $(".loggedOut").hide();
+      $(".loggedIn").show();
+      var firstName = $.cookie('user').substring($.cookie('user').indexOf('firstname=')+10,$.cookie('user').indexOf('&lastname='));
+      $('#userInfo').prepend('Hi, '+firstName);
+    } else {
+      $("#signInFooterLink").show();
+      $(".loggedOut").show();
+      $(".loggedIn").hide();  
+    }
+    $("#signInBtn").click(function(event) {
+      event.preventDefault();
+      $(".signIn").toggle();
+      $("#signInBtn").toggleClass("hover");
+    });
+
+    /* detect iOS */
+    if(navigator.userAgent.match(/iPhone/i)) {
+      var windowWidth = document.documentElement.clientWidth;
+      var popupHeight = $(".iPhone-add").height();
+      var popupWidth = $(".iPhone-add").width();
+      $('.iPhone-add').css({'top': '10%', 'left': windowWidth/2-popupWidth/2}).show();
+      $('.iPhone-add .close').bind('click', function(){$(this).parent().hide(); return false;});
+    }
+    if(navigator.userAgent.match(/iPad/i)) {
+      var windowWidth = document.documentElement.clientWidth;
+      var popupHeight = $(".iPad-add").height();
+      var popupWidth = $(".iPad-add").width();
+      $('.iPad-add').css({'top': '1%', 'left': windowWidth/2-popupWidth/2}).show();
+      $('.iPad-add .close').bind('click', function(){$(this).parent().hide(); return false;});
+    }
+  
+  });
+</script>
+
+<div class="iPhone-add" style="display:none;">
+  <a class="logo" href="http://foxsoccer.tv">FOXSOCCER.TV</a>
+  <a href="#" class="close">close</a>
+  <a href="http://itunes.apple.com/us/app/fox-soccer/id395478916?mt=8" target="_blank" class="download"></a>
+</div>
+<div class="iPad-add" style="display:none;">
+  <a class="logo" href="http://foxsoccer.tv">FOXSOCCER.TV</a>
+  <a href="#" class="close">close</a>
+  <a href="http://itunes.apple.com/us/app/fox-soccer-2go-for-ipad/id450507791?ls=1&amp;mt=8" target="_blank" class="download"></a>
+</div>
+
+<header>
+  <div id="header">
+  <a id="logoHomeLink" href="/home">Home</a>
+    <nav>
+        <ul class="shortcuts">
+          <li class="doubleLine breaker" id="watchOnDemand"><a href="/replay/?WT.mc_id=Watch_on_demand_EVERGREEN"></a></li>  
+          <li class="doubleLine breaker" id="getFoxSoccerPlus"><a href="http://www.foxsoccerplus.com/" target="_blank"></a></li>  
+          <li class="doubleLine breaker" id="apps"><a href="/apps/?WT.mc_id=Apps_EVERGREEN"></a></li> 
+          <li class="singleLine breaker socialIcons"><a href="http://www.facebook.com/foxsoccer" target="_blank"><img src="/namedImage/13138/fox_fbook.gif"></a><a href="https://twitter.com/#!/foxsoccer2GO" target="_blank"><img src="/namedImage/13138/fox_twitter.gif"></a><a href="/apps"><img src="/namedImage/13138/fox_itunes.gif"></a></li>          
+             <li class="singleLine loggedOut subscribeButton"><a href="/buy">SUBSCRIBE TO FOXSOCCER.TV</a></li>
+          <li id="userInfo" class="singleLine loggedin subscribeButton"></li>
+          <li class="singleLine extraLink "><a href="http://www.foxsoccer.com/" target="_blank">Foxsoccer.com</a></li>
+        </ul>
+      </nav>
+      <nav>
+        <ul class="sitenav">
+              <li id="home">
+                <a href="/home"><span>HOME</span></a>
+              </li>
+              <li id="upcoming">
+                <a href="/upcoming"><span>UPCOMING</span></a>
+              </li>
+              <li id="watch-on-demand">
+                <a href="/replay"><span>WATCH-ON-DEMAND</span></a>
+              </li>
+              <li id="about">
+                <a href="/about"><span>ABOUT</span></a>
+              </li>
+              <li id="help">
+                <a href="/help" class="selected"><span>HELP</span></a>
+              </li>
+              <li id="my-account" class="loggedIn" style="display:none">
+                <a href="/my-account"><span>My Account</span></a>
+              </li>
+        </ul>
+      </nav>
+  
+  <div class="loggedOut headSignIn">
+  <div class="dropdown">
+      <a href="/login" id="signInBtn"><span>Sign in</span></a>
+      <div class="signIn">
+         
+      <form name="headerSignIn" id="headerSignIn" action="https://secure.foxsoccer2go.com/system/userlogin" method="POST" onsubmit="usernameToLowerCase();">
+       <input type="hidden" name="login_successRedirectUrl" value="/privacy"> 
+        <input type="hidden" name="login_failureRedirectUrl" value="/login/error/true"> 
+       <ul>
+          <li class="fieldName">
+          <label for="login_username">Email</label>
+          </li>
+          <li class="field">
+          <input type="text" name="login_username" size="39">
+          </li>
+          <li class="fieldName">
+          <label for="login_password">Password</label>
+          </li>
+          <li class="field">
+          <input type="password" name="login_password" size="39">
+          </li>
+          <li class="checkbox">
+          <input type="image" src="/namedImage/13138/fox_sign_submit.gif" value="SIGN IN">
+          </li>
+        </ul>
+      </form>
+      <ul class="signInHelp">
+        <li><a href="/forgotten-password">Forgotten password?</a></li>
+        <li><a href="/signInAndSecurity">Having trouble signing in?</a></li>
+      </ul>
+
+    </div>
+  </div>  
+  </div>
+
+      <div class="loggedIn headSignOut" style="display:none">
+     <a href="#" onclick="logout();return false;"><span>Sign out</span></a>
+  </div>
+  
+  </div>
+</header>    
+      <div class="mainContent">
+
+<!-- Left Col Menu -->
+
+<div class="menuContainer side">
+  <h1>Help</h1>
+  <ul>
+          <li id="nav-whatsNew">
+            <a href="/whatsNew" title="Latest News">Latest News</a>
+          </li>
+          <li id="nav-content">
+            <a href="/content" title="Content">Content</a>
+          </li>
+          <li id="nav-subscriptionProcess">
+            <a href="/subscriptionProcess" title="Subscription Process">Subscription Process</a>
+          </li>
+          <li id="nav-signInAndSecurity">
+            <a href="/signInAndSecurity" title="Sign In and Security">Sign In and Security</a>
+          </li>
+          <li id="nav-problemsWatchingVideos">
+            <a href="/problemsWatchingVideos" title="Problems Watching Videos">Problems Watching Videos</a>
+          </li>
+          <li id="nav-systemRequirements">
+            <a href="/systemRequirements" title="System Requirements">System Requirements</a>
+          </li>
+          <li id="nav-terms">
+            <a href="/terms" title="Terms of Use">Terms of Use</a>
+          </li>
+          <li id="nav-privacy">
+            <a href="/privacy" title="Privacy" class="selected">Privacy</a>
+          </li>
+          <li id="nav-contactUs">
+            <a href="/contactUs" title="Contact Us">Contact Us</a>
+          </li>
+     <li>
+      <a href="/refer-a-friend" title="Refer a Friend">Refer a Friend</a>
+     </li> 
+  </ul>
+</div>              
+<!-- Right Col Answer -->
+      
+  
+   
+
+  
+<article class="main">
+  
+    
+    
+        <div class="article-container">
+        <h1>PRIVACY POLICY</h1>
+        <div class="article-wrapper">
+          <p align="center"><u><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US"><strong>FOX Soccer 2GO Privacy Policy</strong></span></u></p>
+<p align="center"><u><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US"><strong></strong></span></u>&nbsp;</p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US">Effective Date: March, 9th 2012</span></b></p>
+<p><b></b></p>
+<p><b></b></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US"></span></b>&nbsp;</p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US">1.INTRODUCTION</span></b></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif'" lang="EN-US">Fox Soccer Channel LLC <span style="COLOR: black">("Fox Soccer" or "we" or "us") operates the FOX Soccer 2Go (previously, FoxSoccer.tv) website </span></span><span lang="EN-US"><a href="http://www.foxsoccer2go.com/"><span style="FONT-FAMILY: 'Arial','sans-serif'">http://www.foxsoccer2go.com</span></a></span><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US"> ("FOX Soccer 2Go" or "Site"), which is an online platform that allows Members to purchase and stream live soccer and rugby matches. The services offered by Fox Soccer include online premium subscription services, newsletters, mobile alerts and any other features, content, or applications offered from time to time by Fox Soccer in connection with Fox Soccer's business (collectively, the "FOX Soccer 2Go Services"). Fox Soccer is part of the United States based operations of News Corporation.</span></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">As set forth in our <a title="" href="http://www.foxsoccer2go.com/terms" target="_self">Terms of Use</a>, FOX Soccer 2Go is a general audience website, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age. </span></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">This Privacy Policy describes Fox Soccer's collection, use and sharing of personal information about users (e.g., information that identifies a specific person, such as full name, email address and financial information) where that personal information is not otherwise publicly available on the Site.This Privacy Policy also describes generally Fox Soccer's practices for handling non-personally identifiable information (e.g., user interests, demographics, or Site usage) to the extent such non-personally identifiable information is associated with a particular user or user account</span><span><span lang="EN-US">.</span></span><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">This Privacy Policy applies to all "users," including both visitors (users who use some of the Site Services without being registered with Fox Soccer), "Members" (users who have registered with Fox Soccer) and "Subscribers" (Members who have purchased an online premium subscription). </span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US"></span></b>&nbsp;</p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US">2.SUBMISSION AND COLLECTION OF INFORMATION ON WEBSITE</span></b></p>
+<p><i><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">User Submitted Information</span></i></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Account Registration Information </span></b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">is the required information that a Member must provide to us when they initially register on the Site (by creating a "user account") and includes first name, last name, email address and password. You must create a user account in order to purchase an online subscription or sign up for newsletters or mobile alerts.</span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Online Video Subscription Information. </span></b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">If you elect to purchase any online video subscription through the Site in addition to providing the Account Registration Information mentioned above you will also be required to provide personal financial information, including your credit card number, billing address or other payment information (collectively, "Personal Financial Information") to the third party service provider selected by Fox Soccer to provide payment services for the Site. At the time of purchase you will also be requested to select your video subscription type (e.g. Monthly or Annual). <b>Your online video subscription will be automatically renewed and the credit card you used to subscribe for such online video subscription will be charged per the billing cycle of your selected online video subscription (e.g. Monthly or Annual), unless you cancel the online video subscription prior to the renewal date of your online video subscription.</b> If you have any questions about canceling your online video subscription or our refund policy, please refer to our <a title="" href="http://www.foxsoccer2go.com/terms" target="_self">Terms of Use</a>.You must be 18 years of age or older to submit Personal Financial Information on the Site, including to place an order on the Site. </span></p>
+<p><i><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Site Collected Information</span></i></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Site Activity Information.</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">When users visit the Site, we may collect certain non-personally identifiable information about those visits.For example, in order to permit your connection to the Site, our servers receive and record information about your computer and browser, including potentially your IP address, browser type, and other software or hardware information.If you access the FOX Soccer 2Go Services from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device in order to serve content to it.We also may use cookies and other tracking technologies (including browser cookies, pixels, beacons, and Adobe flash technology including cookies), which are small bits of data that often include an anonymous unique identifier.Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that website.We may use these technologies to collect and store information about your usage of the Site, such as pages you have visited, search queries you have run, and advertisements you have seen.We also collect personal information in manual or off-line format, such as a post card or subscription form.Providing a detailed privacy policy in those situations is often impractical.In these situations, we will provide consumers with a short notice that describes how to obtain the full text of this Privacy Policy.</span></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Third-parties that support the Site by providing FOX Soccer 2Go Services, such as allowing users to purchase and view online video subscriptions or tracking aggregate Site usage statistics, may also use these technologies to collect similar information.</span><span style="FONT-FAMILY: 'Arial','sans-serif'" lang="EN-US">Fox Soccer does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies.</span></p>
+<p><span>Most browsers are initially set to accept cookies, but you </span><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether.</span><span>Please consult the "Help" section of your browser for more information (e.g.,</span> <span>http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies)</span><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">.Users can manage the use of Flash technologies, including cookies, with the Flash management tools available at Adobe's website, see http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html.Please note that by blocking any or all cookies you may not have access to certain features or personalization available through FOX Soccer 2Go Services.</span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Third Parties</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">.To improve the quality of the FOX Soccer 2Go Services, we may supplement the information we collect with information that is collected or provided by third parties.If you access the FOX Soccer 2Go Services through a third party connection or log in, we may also collect your user ID and/or user name associated with that third party service, or any information you have made public in connection with that service and which the third party shares with partner services.</span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US"></span></b>&nbsp;</p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US">3. NOTICE &amp; CHOICE</span></b></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Means of Notice and Choice.</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">This Privacy Policy is the primary means by which Fox Soccer provides you with notice and choice regarding its collection and use of your personal information.Fox Soccer will not use your personal information in a manner different from what is described in this Privacy Policy without your permission. </span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Privacy Policy Changes.</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Fox Soccer may modify this Privacy Policy as necessary.If we make material changes to this Privacy Policy that expand our rights to use your personal information, we will notify you to seek your consent either through an email or a prominent posting on the Site.</span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Linked Websites.</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">FOX Soccer 2Go Services may also be linked to websites operated by Fox Soccer affiliates (i.e., that are part of the News Corporation: "Affiliated Companies") or third parties. FOX Soccer 2Go is not responsible for the privacy practices of any such third parties, and once you leave FOX Soccer 2Go Services via a link, you should check the applicable privacy policy of the third-party site.Additionally, although all Affiliated Companies adhere to the News Corporation corporate </span><span lang="EN-US"><a href="http://www.newscorp.com/privacy.html" target="_blank"><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #003399">Privacy Principles</span></a></span><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">, users who visit an Affiliated Company website should still refer to the Affiliated Companies' separate privacy policy, which may differ in some respects from this Privacy Policy.This Privacy Policy does not apply to those websites that do not display or link to this Privacy Policy or have their own privacy statements.</span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Collection of Personal Financial Information by a Third Party. </span></b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">At the time of your purchase, Fox Soccer will notify you of the identity of any third party that is collecting, transmitting, storing and/or processing your Personal Financial Information. <b>You acknowledge and agree that this Privacy Policy will not apply to any Personal Financial Information that you provide to any independent third party company on the Site and that all payment obligations related to such purchase shall be governed solely by the applicable independent third party company's privacy policy.You further acknowledge and agree that Fox Soccer will have no liability for or responsibility for such independent third party company's use or protection of your Personal Financial Information</b>. You should check the privacy policy of the independent third party company's website to determine how it will handle any Personal Financial Information it collects from you and/or processes. You acknowledge and agree that in the event that such independent third party company experiences a data breach that compromises or otherwise affects your Personal Financial Information, Fox Soccer shall in no way be responsible or liable to you for such breach. You should contact the applicable independent third party company regarding any such data breach.</span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US"></span></b>&nbsp;</p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US">4.USE &amp; DISCLOSURE</span></b></p>
+<p><i><span style="FONT-FAMILY: 'Arial','sans-serif'" lang="EN-US">Fox Soccer's Use and Disclosure of Information</span></i></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif'" lang="EN-US">We only share your non-public personal information with non-affiliated third parties when we believe the sharing is permitted by you or authorized by this Privacy Policy.In addition, <span style="COLOR: black">Fox Soccer may share your personal information with Affiliated Companies.</span></span></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif'" lang="EN-US">We use the information you provide us for the following purposes:</span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'" lang="EN-US">To provide and manage the <span style="COLOR: black">FOX Soccer 2Go </span>Services</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'" lang="EN-US">. We use the information we collect from and about users to provide the <span style="COLOR: black">FOX Soccer 2Go </span>Services and features to you, to measure and improve those services and features, to personalize your experience by delivering relevant content and marketing messages, and to provide you with customer support and enable you to respond to inquiries.We may use aggregated, anonymous data about use of and activity on the FOX Soccer 2Go Services to assist us in this regard and such data is not subject to this Privacy Policy.</span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'" lang="EN-US">To allow third party service providers to assist us in providing and managing the<span style="COLOR: black"> FOX Soccer 2Go </span>Services.</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'" lang="EN-US"><span style="COLOR: black">Fox Soccer may make your non-public personal information available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide FOX Soccer 2Go Services by, for example: developing or supporting products and the FOX Soccer 2Go Services; fulfilling online video subscription orders; collecting, and processing Personal Financial Information; or processing data or statistics. These third-party service providers are required to protect non-public personal information entrusted to them and not use it for any other purpose than the specific service they are providing to you and Fox Soccer. </span></span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'" lang="EN-US">To deliver relevant content and recommendations.</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'" lang="EN-US">To make your experience more interesting, we may use any of the information you provide, the information we collect about your page views and queries, and information we may collect from other users and third parties to assist us in recommending content on FOX Soccer 2Go.</span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'" lang="EN-US">To contact you.</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US"> Fox Soccer may periodically send promotional materials (e.g., newsletters) or correspondence related to the FOX Soccer 2Go Services to the email address you provided to us at registration.If you want to stop receiving correspondence from Fox Soccer, you can click on the "Update Personal Details" link under "<a title="" href="https://secure.foxsoccer2go.com/my-account" target="_self">My Account</a>," or follow the unsubscribe instructions at the bottom of each email. </span><span style="FONT-FAMILY: 'Arial','sans-serif'" lang="EN-US">There are certain service notification emails that you may not opt-out of, such as notifications of changes to the <span style="COLOR: black">FOX Soccer 2Go </span>Services or policies.</span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">To protect the rights of FOX Soccer 2Go and our users.</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">There may be instances when Fox Soccer may disclose user information without providing notice or choice, including situations where Fox Soccer has a good faith belief that such disclosure is necessary in order to: (i) protect or defend the legal rights or property of Fox Soccer, our Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of users of the FOX Soccer 2Go Services or members of the public including responding to emergencies where there appears to be a danger of death or injury to any person; (iii) protect against fraud or for risk management purposes; or (iv) comply with applicable laws, rules and regulations ("Applicable Laws") or legal process. </span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">To complete a merger or sale of assets.</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">If Fox Soccer sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Fox Soccer may transfer your user information to the party or parties involved in the transaction as part of that transaction.</span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US"></span></b>&nbsp;</p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US">5.SECURITY</span></b></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Fox Soccer uses commercially reasonable administrative, technical, personnel and physical measures to safeguard user information in its possession against loss, theft and unauthorized use, disclosure or modification.</span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US"></span></b>&nbsp;</p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US">6.ACCESS, REMEDIES AND COMPLIANCE</span></b></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">User Control and Account Cancellation.</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Through the My Account option, you can access and edit your account registration information. If you no longer want to use the FOX Soccer 2Go Services, you may deactivate your user account by clicking on the "unsubscribe" link on the My Account function.When you deactivate your account you will no longer have access to the online video subscription service. We may retain backup information related to your account on our servers for some time after deactivation for fraud detection or to comply with Applicable Laws or our internal security policies. </span></p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #f79646" lang="EN-US"></span></b>&nbsp;</p>
+<p><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #f79646" lang="EN-US">7.</span></b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US"></span><b><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US">CONTACT US</span></b></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">If you have questions about this Privacy Policy, please contact Fox Soccer at:</span></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Email:</span><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #ff6600" lang="EN-US"> <br></span><span style="FONT-FAMILY: 'Arial','sans-serif'" lang="EN-US">FoxSoccer2go.privacy@fox.com </span></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Mail: </span></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">FOX Soccer 2Go Privacy Officer</span></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">c/o Fox Cable Networks Services, LLC</span></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">Business and Legal Affairs</span></p>
+<p><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US">P.O Box 900</span></p>
+<p align="left"><u><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black" lang="EN-US"><strong></strong></span></u>&nbsp;</p>
+        </div>
+        </div>
+      </article>  
+      
+
+<script type="text/javascript">
+  function expandCollapse(num, logic) {
+    var query = document.getElementById("q_" + num);
+    if (!query) return true;
+    if (logic || query.style.display == "none" || query.style.display == "") {
+        $(query).show();
+    } else {
+        $(query).hide();
+    }
+    return false;
+  }
+</script>        
+  <footer>
+    <ul class="socialIcons">
+      <li><a href="/apps"><img src="/namedImage/13138/fox_itunes.gif"></a></li>
+      <li><a href="https://twitter.com/#!/foxsoccer2GO" target="_blank"><img src="/namedImage/13138/fox_twitter.gif"></a></li>
+      <li><a href="http://www.facebook.com/foxsoccer" target="_blank"><img src="/namedImage/13138/fox_fbook.gif"></a></li>
+    </ul>
+    <div class="footerGroup">
+      <h3>FoxSoccer.com</h3>
+      <ul>
+        <li><a target="_blank" href="http://msn.foxsports.com/foxsoccer/premierleague/scores">Scores</a></li>
+        <li><a target="_blank" href="http://msn.foxsports.com/foxsoccer/usa">USA</a></li>
+        <li><a target="_blank" href="http://msn.foxsports.com/foxsoccer/premierleague">Premier League</a></li>
+        <li><a target="_blank" href="http://msn.foxsports.com/foxsoccer/championsleague">Champions League</a></li>
+        <li><a target="_blank" href="http://msn.foxsports.com/foxsoccer/seriea">Serie A</a></li>
+        <li><a target="_blank" href="http://msn.foxsports.com/foxsoccer/laliga">La Liga</a></li>
+        <li><a target="_blank" href="http://msn.foxsports.com/foxsoccer/bundesliga">Bundesliga</a></li>
+      </ul>
+    </div>
+    <div class="footerGroup">
+      <h3>My Account</h3>
+      <ul>
+        <li><a href="/refer-a-friend">Refer a friend</a></li>
+        <li id="registerFooterLink"><a href="/buy">Register</a></li>
+        <li id="signInFooterLink"><a href="/login">Sign in</a></li>
+        <li><a href="/my-account">My Account</a></li>
+      </ul>
+    </div>
+    <div class="footerGroup">
+      <h3>Get Help</h3>
+      <ul>
+        <li><a href="/help">FAQs</a></li>
+        <li><a href="/subscriptionProcess">Subscription Process</a></li>
+        <li><a href="/signInAndSecurity">Sign in and security</a></li>
+        <li><a href="/systemRequirements">System Requirements</a></li>
+        <li><a href="/problemsWatchingVideos">Problems Watching Videos</a></li>
+        <li><a href="/contactUs">Contact Us</a></li>
+      </ul>
+    </div>
+    <div class="footerGroup">
+      <h3>Terms &amp; Conditions</h3>
+      <ul>
+        <li><a href="/terms">Terms of Use</a></li>
+        <li><a href="/privacy">Privacy Policy</a></li>
+      </ul>
+    </div>
+    <div class="footerGroup">
+      <h3>Affiliates</h3>
+      <ul>
+        <li><a href="/affiliates">Join Now</a></li>
+      </ul>
+    </div>
+  </footer>
+  
+
+          
+      </div>       
+      
+    </div>
+    
+<div id="metaInfo" class="fs-footer"></div>
+
+
+  <!-- SiteCatalyst code version: H.2.
+  Copyright 1997-2005 Omniture, Inc. More info available at
+  http://www.omniture.com -->
+  <script src="/js/global/js/core/omniture.js"></script><img name="s_i_premiumtvfoxsoccertv" height="1" width="1" border="0" alt="" src="https://premiumtv.122.2O7.net/b/ss/premiumtvfoxsoccertv/1/H.2-pdv-2/s48782744636491?[AQB]&amp;ndh=1&amp;t=30/0/2020%2019%3A54%3A49%204%200&amp;ce=ISO-8859-1&amp;ns=premiumtv&amp;cdp=3&amp;pageName=Privacy&amp;g=https%3A//web.archive.org/web/20120622172453id_/http%253A//www.foxsoccer2go.com/privacy&amp;cc=GBP&amp;c1=http%3A//www.foxsoccer2go.com/privacy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+  <script>
+  s.pageName="Privacy";
+  s.channel="";
+  s.server="";
+  s.pageType="";
+  s.prop1="http://www.foxsoccer2go.com/privacy";
+  s.prop2="";
+  s.prop3="";
+  s.prop4="";
+  s.prop5="";
+  s.prop6="";
+  s.prop7="";
+  s.prop8="";
+  s.prop9="";
+  s.prop10="";
+  /* E-commerce Variables */
+  s.campaign="";
+  s.state="";
+  s.zip="";
+  s.events="";
+  s.products="";
+  s.purchaseID="";
+  s.eVar1="";
+  s.eVar2="";
+  s.eVar3="";
+  s.eVar4="";
+  s.eVar5="";
+  s.eVar6="";
+  s.eVar7="";
+  s.eVar8="";
+  s.eVar9="";
+  s.eVar10="";
+
+
+  function updateOmnitureVideoStarted(duration, prop31StrSuffix) {
+    var eventsStr="event11";
+    var productsStr=";;;;event16=0.00|event17=0";
+    var prop33Str=getDurationBucket(duration);
+    
+    sendOmnitureLinkRequest(eventsStr, productsStr, prop33Str, prop31StrSuffix);
+  }
+
+  function getProp31StrSuffix(duration, hasAdvertising) {
+    var suffix = "";
+    if (duration < 30 && hasAdvertising) {
+      suffix = " Pre-Roll";
+    }
+    
+    return suffix;
+  }
+
+  function sendOmnitureLinkRequest(eventsStr, productsStr, prop33Str, prop31StrSuffix) {
+    //we always append event16 & event 17
+    var eventsStrSuffix = "event16,event17";
+    var prop31Str=""; 
+    prop31Str += prop31StrSuffix;
+    
+    var prop32Str = "/privacy";
+
+    if (eventsStr != "") {
+      eventsStr += ("," + eventsStrSuffix);
+    }
+   
+    s.products=productsStr;
+    s.linkTrackVars = "prop31,prop32,prop33,eVar31,eVar32,eVar33,events,products";
+    s.linkTrackEvents = eventsStr;
+    s.events=eventsStr;
+    s.prop31=s.eVar31=prop31Str; 
+    s.prop32=s.eVar32=prop32Str;
+    s.prop33=s.eVar33=prop33Str;
+    s.tl(true, 'o', prop31Str);
+  }
+  
+  function sendMilestoneEvent(mileStone, duration, hasAdvertising) {    
+    var prop31StrSuffix = getProp31StrSuffix(duration, hasAdvertising);
+    var eventsStr = "";
+    var prop33Str=getDurationBucket(duration);
+    var percent25 = round(duration * 0.25);
+    var productsStr = getProductsStr(0.25, percent25);
+    
+    if (mileStone == '0.00') {
+      updateOmnitureVideoStarted(duration, prop31StrSuffix);
+    } else if (mileStone == '0.25') {
+      eventsStr = "event12";
+      sendOmnitureLinkRequest(eventsStr, productsStr, prop33Str, prop31StrSuffix);
+    } else if (mileStone == '0.50') {
+      eventsStr = "event13";
+      sendOmnitureLinkRequest(eventsStr, productsStr, prop33Str, prop31StrSuffix);
+    } else if (mileStone == '0.75') {
+      eventsStr = "event14";
+      sendOmnitureLinkRequest(eventsStr, productsStr, prop33Str, prop31StrSuffix);
+    } else if (mileStone == '1.00') {
+      eventsStr = "event15";
+      sendOmnitureLinkRequest(eventsStr, productsStr, prop33Str, prop31StrSuffix);
+    }
+  }
+ 
+  function updateOmnitureVideoFinished(percentage, secondsWatched, duration, prop31StrSuffix) {
+    var eventsStr="event15";
+    var productsStr=getProductsStr(percentage, secondsWatched);
+    var prop33Str=getDurationBucket(duration);
+    
+    sendOmnitureLinkRequest(eventsStr, productsStr, prop33Str, prop31StrSuffix)
+  }
+
+  function getProductsStr(percentage, secondsWatched) {
+    var productsStrPreffix = ";;;;";
+
+    return productsStrPreffix + "event16="+percentage+"|event17="+secondsWatched;
+  }
+  
+  function getDurationBucket(duration) {
+    var bucketStr = "";
+
+    var minuteInSeconds = 60;
+
+    if (duration <= 10)
+      bucketStr = "0 - 10 Seconds";
+    else if (duration > 10 && duration <= 30)
+      bucketStr = "10 - 30 Seconds";
+    else if (duration > 30 && duration <= 60)
+      bucketStr = "30 - 60 Seconds";
+    else if (duration > minuteInSeconds && duration <= (minuteInSeconds*2))
+      bucketStr = "1 - 2 Minutes";
+    else if (duration > (minuteInSeconds*2) && duration <= (minuteInSeconds*5))
+      bucketStr = "2 - 5 Minutes";
+    else if (duration > (minuteInSeconds*5) && duration <= (minuteInSeconds*10))
+      bucketStr = "5 - 10 Minutes";
+    else if (duration > (minuteInSeconds*10) && duration <= (minuteInSeconds*30))
+      bucketStr = "10 - 30 Minutes";
+    else if (duration > (minuteInSeconds*30) && duration <= (minuteInSeconds*60))
+      bucketStr = "30 - 60 Minutes";
+    else if (duration > (minuteInSeconds*60))
+      bucketStr = "60+ Minutes";
+    else
+      bucketStr="undefined"; 
+
+    return bucketStr;
+  }
+  
+  function round(numberToRound) {
+    return Math.round(numberToRound*100)/100;
+  }  
+     
+  /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+  var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+  <script language="JavaScript" type="text/javascript"><!--
+  if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+  //--></script><!--/DO NOT REMOVE/-->
+  <!-- End SiteCatalyst code version: H.2. -->
+      
+  
+<!-- Rendered: 22/06/2012 18:24:53 BST -->
+    
+    <script>
+      Meebo('domReady');
+    </script>
+      
+  
+      
+
+</body></html>
