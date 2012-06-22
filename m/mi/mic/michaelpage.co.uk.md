@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219190602id_/http%3A//www.michaelpage.co.uk/content/15530/data-protection-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622210636id_/http%3A//www.michaelpage.co.uk/content/15530/data-protection-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Data Protection and Privacy Policy - Michael Page International
 
@@ -54,9 +54,7 @@ You can update your CV at any time, simply by following the same procedure to su
   
 We gather information and statistics collectively about all visitors to our website and all of the Michael Page International group company websites, for example, which area users access most frequently and which services users access the most. We only use such data in the aggregate form. This information helps us determine what is most beneficial for our users and how we can continually improve our online services to create a better overall experience for our users. We also publish some of this information on the Michael Page International group company websites worldwide. We may also undertake marketing profiling to help us identify services or jobs which may be of interest to you. Please [click here](http://www.michaelpageinternational.com/Pages/Home/International-Presence) for details of all the Michael Page Group Offices.
 
-A cookie is a small data file which is sent from a web server to a web browser when that browser visits the server's site. Find out more about the use of cookies on <http://www.allaboutcookies.org/>. Cookies are used on our website to remember your login, to track web traffic on an aggregate basis so that no individuals are identified, to track campaigns, and to keep session information such as your last search (this information is disposed of every time you close your web browser). Most browsers allow you to turn off cookies. If you want to know how to do this, please look at the help menu on your browser. However, switching off cookies will restrict your use of our website. 
-
-We also track where your application has arisen from e.g. Google, job boards or PayPerClick. 
+Access our new Cookie Policy and read how we abide by the changes [here.](http://www.michaelpage.co.uk/content/18569/cookies.html)
 
 ## Access
 
