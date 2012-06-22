@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the susansbusinessblog.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008040734id_/http%3A//www.susansbusinessblog.com/common/privacy.php%3Fofferid%3Dsfp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susansbusinessblog.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622210808id_/http%3A//www.home-business-wealth.com/common/privacy.php%3Fofferid%3Dsfp) for the most accurate reproduction.*
 
 # Six Figure Program Privacy Policy
 
 ## Privacy Policy
 
-Current as of October 2011
+Current as of June 2012
 
 OUR PRIVACY POLICY CHANGES FROM TIME TO TIME. PLEASE CHECK BACK FREQUENTLY
 
