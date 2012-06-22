@@ -1,14 +1,33 @@
-> *The following text is extracted and transformed from the soe.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628194529id_/http%3A//www.soe.com/sonyonline/privacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soe.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623005242id_/http%3A//soe.com/sonyonline/privacy.vm) for the most accurate reproduction.*
 
 # Sony Online Entertainment
 
-#### Privacy Rights
+#### Your Privacy Rights
 
-As further discussed in this Privacy Policy, we may from time to time provide you with the opportunity to receive information about products and services offered by the Sony Family (defined below) and/or our third party marketing partners. You can prevent future disclosures of your Personal Information to the SOE Family and/or third parties for their direct marketing purposes, at no charge, by exercising your "opt out" rights through any of the means described below:
+As further discussed in this Privacy Policy, we may from time to time provide you with the opportunity to receive information about products and services offered by the Sony Family (defined below) and/or our third party marketing partners. Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquiries regarding our disclosure policy, please contact us through any of the means described below:
 
-  1. You can send an e-mail expressly making such request to: Sony Online Entertainment LLC, 8928 Terman Court, San Diego, California, USA, CA 92121 or [accounts@soe.sony.com](mailto:accounts@soe.sony.com), or
-  2. You can access your user profile and modify your privacy preferences by opting-out of direct marketing communications from SOE, the Sony Family and/or our third party marketing partners, or
-  3. Upon receipt of any electronic marketing communication from SOE or from the Sony Family, you can click on a link on the bottom of such communication to "unsubscribe" to any future marketing communications from SOE or the Sony Family.
+  1. Via e-mail at: [accounts@soe.sony.com](mailto:accounts@soe.sony.com)
+  2. By phone at: 858-577-3100
+  3. By regular mail at:   
+SOE Privacy Officer  
+Sony Online Entertainment LLC  
+8928 Terman Court  
+San Diego, California 92121  
+USA
+
+
+
+You can prevent future disclosures of your Personal Information to the SOE Family and/or third parties for their direct marketing purposes, at no charge, by exercising your "opt out" rights through any of the means described below:
+
+  1. Via e-mail expressly making such request to [accounts@soe.sony.com](mailto:accounts@soe.sony.com)
+  2. By regular mail at:   
+Sony Online Entertainment LLC  
+8928 Terman Court  
+San Diego, California 92121  
+USA  
+
+  3. You can access your user profile and modify your privacy preferences by opting-out of direct marketing communications from SOE, the Sony Family and/or our third party marketing partners, or
+  4. Upon receipt of any electronic marketing communication from SOE or from the Sony Family, you can click on a link on the bottom of such communication to "unsubscribe" to any future marketing communications from SOE or the Sony Family.
 
 
 
@@ -215,7 +234,7 @@ In addition to this Privacy Policy, your rights and obligations concerning The S
 
 For persons in the European Union (" **EU** ") as used herein, terms such as "Personal Information" refer to "personal data" as defined by the EU Data Protection Directive and applicable local laws. 
 
-Your personal data may be transferred to, stored at and processed in the United States (and/or other non- European Economic Area (" **EEA** ") jurisdictions). Please note that the level of legal protection provided in the United States or other non-EEA countries where The Station operates may not be as stringent as that under EEA privacy standards. We will not collect any personal data from you unless you provide it voluntarily by providing us with your freely given specific and informed consent. By using The Station, you agree that we may transfer, store and process your personal data outside the EEA in connection with the purposes stated in this Privacy Policy). 
+Your personal data may be transferred to, stored at and processed in the United States (and/or other non- European Economic Area (" **EEA** ") jurisdictions). Please note that the level of legal protection provided in the United States or other non-EEA countries where The Station operates may not be as stringent as that under EEA privacy standards. We will not collect any personal data from you unless you provide it voluntarily by providing us with your freely given specific and informed consent. By using The Station, you agree that we may transfer, store and process your personal data outside the EEA in connection with the purposes stated in this Privacy Policy. 
 
 In certain countries other than the United States, some of our online games and the services related thereto, may be provided to you by third party distribution partners. To the extent that a third party distributor is providing services related to your account, you understand and agree that each such distributor will collect and use your Personal Information in accordance with its own privacy policies (which you will have access to when you register to play). To the extent that SOE collects or retains any of your Personal Information, its use will continue to be governed by the terms of this Privacy Policy. 
 
