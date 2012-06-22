@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4kids.tv privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521143921id_/http%3A//www.4kids.tv/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4kids.tv privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622072641id_/http%3A//www.4kids.tv/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 4Kids TV
 
