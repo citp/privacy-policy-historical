@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsty.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227084832id_/http%3A//www.lyricsty.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsty.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622072908id_/http%3A//www.lyricsty.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Lyricsty.com
 
