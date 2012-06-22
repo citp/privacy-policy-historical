@@ -1,173 +1,145 @@
-> *The following text is extracted and transformed from the yugioh.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101223347id_/http%3A//www.yugioh.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yugioh.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622072641id_/http%3A//www.4kids.tv/information/privacy-policy) for the most accurate reproduction.*
 
-# Yu-Gi-Oh! Privacy Policy - Yu-Gi-Oh! Official Website
+# Privacy Policy - 4Kids TV
 
-Thank you for visiting www.Yugioh.com (the "Website"). This Privacy Policy explains how 4Kids Entertainment International Limited and Nihon Ad Systems, Inc. use personal information we collect about.  The Privacy Policy also explains your right to control the way your personal information is collected and used. 
+### 4Kids.TV Online Privacy Policy
 
-If you are under the age of 16 you should not use this Website unless you have the consent of, and are supervised by, a parent or guardian.
+Thank you for visiting 4Kids.com, 4Kidstv.com, 4Kids.tv and CW4Kids.com (collectively referred to as the "Sites"). 4Kids Entertainment, Inc. ("4Kids" or "we"), the owner of the Sites, encourages parents and guardians to spend time online with their children and to participate in the interactive activities offered on our Sites. 4Kids has developed its Sites to be an enjoyable experience for children of all ages. Your privacy is important to us. To better protect your privacy, and to help ensure a rewarding online experience for all visitors, we provide this Privacy Policy summarizing our online information practices and explaining the choices you can make about the way your information is collected and used. 4Kids recognizes that some younger children may not understand some of the information contained on the Sites or how the Sites operate. Please discuss the Privacy Policy with your children so that they will better understand how to use the Sites and how to understand the information that they may be asked to provide. We may modify this Privacy Policy periodically, so please check back from time to time to review any updates to our Privacy Policy.
 
-We encourage parents and guardians to spend time online with their children and to participate in the interactive activities offered on our Website. We have developed our Website to be an enjoyable experience for children of all ages.  We recognise that some younger children may not understand some of the information contained on the Website or how the Website operates.  Please discuss the Privacy Policy with your children so that they will better understand how to use the Website and how to understand the information that they may be asked to provide. 
+4Kids recognizes our obligation to our customers, community, online visitors and subscribers (collectively "Users" or "You") to adhere to the highest standards of decency, fairness, and integrity in all of our operations. We are dedicated to protecting consumer privacy on the Internet, especially the privacy of children. We have developed our privacy practices in compliance with the requirements established by the Children's Online Privacy Protection Act ("COPPA") and make every effort to comply with the guidelines established by the Children's Advertising Review Unit ("CARU").
 
-## WHO WE ARE
+* * *
 
-4Kids Entertainment International Limited is a company registered in England (registration number 2824601), whose registered office is at 1st Floor, Mutual House, 70 Conduit Street, London, W1S 2GF.
+### Information Collection
 
-Nihon Ad Systems, Inc. is a company registered in Japan, whose registered office is at c/o Asatsu-DK, Inc., Media Content Division, 1-13-1, Tsukiji, Chuo-ku, Tokyo104-8172, Japan. 
+  1. 4Kids does not collect personally identifiable information on our Sites unless our Users voluntarily provide it to us during activities such as: 
+    1. Online registrations
+    2. Contest or sweepstakes registrations
+    3. Subscription registrations
+    4. Online shopping
+    5. Online User Profile; and
+    6. Refer a friend.
+  2. In addition, 4Kids Sites may collect non-personally identifiable information from Users (e.g. screen name, birthday, gender, state, zip code and country of residence). This information may be collected in certain sections of the Sites in which a User specifically and knowingly provides such information to 4Kids such as: 
+    1. Chats;
+    2. Online games;
+    3. Message boards; and
+    4. Surveys.
 
-Use of the terms “we”, “us”, and “our” throughout this Privacy Policy means both 4Kids Entertainment International Limited and Nihon Ad Systems, Inc.
 
-We respect the right to privacy of all our customers, community, online visitors and subscribers and their parents or guardians (together "Users" or "you").  We will only process personal information you provide to us in accordance with the Data Protection Act 1998 (this is main law in the UK which governs how we can use and must protect information relating to individuals) and other applicable privacy laws.
 
-## USE OF INFORMATION
+* * *
 
-When you visit this Website you may provide us with personal information during the course of one or more of the following activities that identifies you as an individual: 
+### Use and Disclosure of Information
 
-• Yugioh.com registrations;
+  1. 4Kids uses or may use personally identifiable information that Users provide for internal purposes only such as the 4Kids registration, User profile, sending requested electronic postcards, emailing messages on their behalf, conducting contests or sweepstakes, developing of editorial content, marketing and promotional campaigns for the Website and responding to their questions. We use information we collect about others only to enable the User of our Sites to communicate with those other Users that they have listed as "friends" (e.g. sending them e-mails or game challenges).
+  2. 4Kids currently does not disclose personally identifiable information to third parties that Users provide, except from time to time we may transfer, disclose or share such information with third parties who may be engaged by us specifically to handle and deliver certain online activities (e.g. conducting contests and sweepstakes). Such third parties have access to personal information needed to perform their functions, but may not use it for other purposes. Additionally, in the event that all, or substantially all, of the assets relating to the Sites are transferred or sold to another entity, personally identifiable information submitted to us may be transferred to the acquiring entity. Finally, we may also disclose personally identifiable information to third parties in order to comply with laws or requests by law enforcement agencies, or to protect the rights, property or safety of our Sites, Users of our Sites and others.
+  3. In the event that 4Kids plans to post any information collected from a User for any purpose other than the activity for which it was collected, then the User shall be provided with prior notification of such posting and given the option of preventing such posting. If a User objects to such use for any reason, he/she may stop that use--either by e-mail request or by modifying his/her Registration information online.
+  4. 4Kids uses parents' e-mail addresses to notify them when we have received personal information from a User under the age of 13, such as in the case of a registration on any of the Sites or the collection of e-mail addresses from their children.
 
-• Contest or sweepstakes registrations;
 
-• Yugioh.com user profile; and
 
-• Online game challenges.
+* * *
 
-The following types of information may be collected about you:
+### Review and Notification of Information
 
-• Your name;
+Any User who wishes to modify, correct, update or delete their registration information or stop receiving e-mail updates from the Sites, should log onto their account at [http://www.4kids.tv/user/account](https://web.archive.org/user/account). His/her account can be modified from the User's 4Kids account page. An account can also be deleted at any time under the control panel option labeled "delete account;" which can also be accessed on the User's My4Kids Profile Page. Users can also unsubscribe to any e-mails sent to them by simply clicking on the hyperlink "unsubscribe" in the email sent. Additionally, Users can e-mail 4Kids at [webmaster@4kids.tv](mailto:webmaster@4kids.tv) or contact 4Kids at 1-212-590-2100 with any problems or questions.
 
-• Your email address;
+* * *
 
-• Your postal address;
+### Special Privacy Policy for Users Under 13
 
-• Your phone/mobile number;
+4Kids has a special Privacy Policy for Users under the age of 13. We urge children to check with their parents or guardians before entering information on any website, and we urge parents and guardians to discuss this Special Privacy Policy with their children, including restrictions regarding the online release of personal information to anyone they don't know.
 
-• Your gender; and 
+  1. 4Kids does not collect personally identifiable information about any User under 13, including, without limitation, names and e-mail addresses without (x) notifying the parent via e-mail and giving the parent or guardian the option to remove their child's e-mail address and any other information pertaining to the child from the applicable database for that activity or (y) obtaining verifiable consent from that child's parent or guardian. A parent or guardian may permit a User under 13 to participate in activities on our Website without consenting to the disclosure of the User under 13's personally identifiable information to third parties. Generally, personally identifiable information is collected only during activities such as: 
+    1. Online registrations
+    2. Contest or sweepstakes registrations
+    3. Subscription registrations
+    4. Online shopping
+    5. Online User profile; and
+    6. Refer a friend.
+  2. 4Kids will obtain such verifiable consent from a parent or guardian of a User under 13 before the User will be permitted to register for an account on any of the Sites.. When registering the User is asked to provide his/her age, email address and the email address for his/her parent or guardian. 4Kids sends an email to the parent or guardian notifying the parent or guardian that the User under 13 has begun the registration process. The email from 4Kids will contain a link back to the website where the parent or guardian can grant the User under 13 permission to complete his/her registration. The parent or guardian will also receive a separate password to access, review and modify their child's account and Profile provided via email. Once approved, an email is sent to both parent and the User confirming the completion of registration. The User will then have the ability to: (1) create a 4Kids profile, (2) add friends to his/her 4Kids profile, (3) chat using pre-set, canned messages throughout the 4Kids site, (4) email within the Sites to other Users using pre-set, canned messages, (5) chat on moderated message boards and (6) challenge other Users to online games. The parent or guardian who wishes to modify, correct, update or delete their User under 13's registration information or 4Kids profile can log onto their child's account at http://www.4kids.tv/user/account. Their child's account can be modified from the User's 4Kids account page or deleted by clicking "delete account" under the control panel option. Upon deletion of a User's account, access to all membership, communities, avatar privileges and 4Kids.tv rewards points will be lost. Parents or guardians always have the option of calling us at 1-212-590-2100 or e-mailing us at webmaster@4kids.tv with any questions or problems with regards to consent.
+  3. 4Kids will not request from any User under 13, nor does 4Kids condition the participation of any User under 13 in any activity on the Sites, the collection of, or disclosure by the User under 13 of more personal information than is reasonably required for such User under 13 to participate in such contest or activity. For example, for sweepstakes and contests, only e-mail addresses are collected for the purpose of entering the online sweepstakes or contest on a one-time basis and are used to notify winners and winners' parents directly of the sweepstakes or contest once by e-mail. Notification and prizes will be sent to the User under 13's parent or guardian. All emails collected are deleted upon completion and fulfillment of the sweepstakes or contest.
+  4. For some activities, such as online polls, surveys, game challenges and message boards, we may ask a User under 13 to provide information that is not personally identifiable. This might include the User's first name only, user name, state of residence, age, gender, or favorite 4Kids TV character.
+  5. For any periodic newsletters offered by our Sites, we collect a User's e-mail address, and his/her parent or guardian's e-mail address. We then send an e-mail notification to the parent asking permission. If the parent wishes to deny permission for the child's receipt of any newsletter from the Sites, the parent or guardian simply needs to click on the hyperlink to unsubscribe. A parent or User can, at any time, be removed from the newsletter mailing list by following the instructions at the bottom of the newsletter. If such a removal request is made (or if the parent denies permission from the outset), any personal information collected for the newsletter subscription is deleted from our database.
+  6. For other activities, such as sending an electronic postcard or e-mail to a friend, we may also ask for personal information about other people. This is usually limited to a first name and e-mail address. E-mail addresses collected to send an electronic postcard or e-mail to a friend are deleted when the requested postcard or e-mail is transmitted.
+  7. 4Kids keeps any personally identifiable information we obtain through a contest or sweepstakes only until we have successfully selected the winner(s), awarded the prize(s), and completed the administration of the contest or sweepstakes as legally required; and such information will not be used for any other purpose. We will not publish the names, ages, images or other personally identifiable information of any contest winner under 13 without first obtaining the consent of such contest winner's parent or guardian.
+  8. The e-mail address of a User under 13 is never posted on any of the Sites. No personally identifying information should be submitted to, or posted at, the Sites by any User under 13 years of age without the consent of such User's parent or guardian.
+  9. We will disclose information that we maintain as required by law, such as, for example, in response to a court order or a subpoena. We may also disclose such information in response to a specific law enforcement agency's request.
 
-• Your date of birth. 
 
-We may ask you for other information to help us match our products and services to your individual tastes and to improve our understanding of your behaviour.  This information may include details about:
 
-• Your interests and hobbies;
+* * *
 
-• Your opinions; and 
+### Chats, Message Boards/Forums, and Blogs
 
-• The way you use the Website. 
+Please keep in mind that whenever you give out personal information online (e.g. via message boards/forums, chats and blogs) that information can be collected and used by people you don't know. While 4Kids strives to protect its Users' personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. Users under 13 may not participate in chatrooms, message boards/forums and blogs without prior verifiable parental consent. To prevent messages containing inappropriate or personally identifiable information, our message boards are moderated. Messages that do no follow the guidelines of the message board/forum will either be edited for content or simply not posted. Continued failure to comply with such guidelines could result in the suspension or termination of a User's 4Kids.tv account.
 
-### How we may store and use your information
+* * *
 
-We (or third parties acting on our behalf) may collect, store and use your personal information, listed above, for the following purposes:
+### About IP Addresses
 
-• To make this Website available to you and provide you with content that is tailored to your individual tastes, e.g. Yugioh.com registration, completing your user profile, communicating with other users (for example in game challenges), sending requested electronic postcards, emailing messages on your behalf, conducting contests or sweepstakes, development of editorial content, marketing and promotional campaigns for the Website and responding to your questions; 
+4Kids collects IP addresses for the purpose of system administration and to report information to our advertisers. An IP address is a number that is automatically assigned to the User's computer whenever the User is surfing the Web. When a User requests pages from these Sites, our servers log the Users' IP address. We do not link IP addresses to any personally identifiable information. This means that a User's session will be logged, but the User remains anonymous to us.
 
-• To send you details (by email, post, text message or phone) of our products and services and the products and services of other companies we think are suitable and may be of interest to you where you have given your express consent.  You can remove your consent to this use at any time by contacting us at [yugioh@4kids.tv](mailto:yugioh@4kids.tv) with your request; 
+* * *
 
-• To complete any purchases you make through the Website; and
+### Use Of Cookies, Web Beacons, Local Shared Objects: The 4kids Cookies Policy
 
-• To provide you with services that you request.
+Cookies are pieces of information that a website transfers to an individual's hard drive for record keeping purposes. Cookies make web-surfing easier for a User by saving the User's passwords, purchases, and preferences. A cookie lets the computer remember that a User has registered, which allows us to speed up such User's future activities at our Sites. Similarly, any website store may use a temporary cookie to track which products a User has chosen to purchase while shopping. Letting the cookie do the record keeping saves the User the trouble of entering information over and over again during a single visit. You may occasionally get cookies from our Ad Server and/or third party advertisers. The Ad Server cookie is only used to track frequency limits on the ads. No personally identifiable information is stored on the Ad Server cookie. 4Kids does not control the cookies of our Ad Server and/or third party advertisers, and these cookies are not subject to the 4Kids cookie policy. The use of advertising cookies sent by Ad Servers or third party advertisers is standard in the Internet Industry. The use of cookies is an Industry standard, and you'll find cookies at most major websites. By showing how and when a User uses the Sites, cookies help us see which areas are popular and which are not. Many improvements and updates to the Sites are based on such data.
 
-On some areas of the Website, you may be able to submit information about other people. For example, if you order a gift online and want it sent directly to someone else, you might give us the recipient's name and address. The types of information that may be collected about other people on these pages include: recipient's name, address, and email address. We will only use this information to provide the product or service as requested by you.  We ask that you ensure that you obtain any person’s consent before providing their personal details to us and that you do not provide personal information about anyone under the age of eighteen. You must not give anyone else’s consent to receive marketing materials from us. 
+You may occasionally get cookies from our Ad Server and/or third party advertisers. The Ad Server cookie is only used to track frequency limits on the ads. No personally identifiable information is stored on the Ad Server cookie. Certain ads appearing on the Website may be delivered to you by a third party ad service provider. In the course of serving ads, the ad service provider may place or recognize their own unique cookie on our browser and may use non-personally identifiable information about your visit to the Website, such as the number of times that you have viewed an ad. 4Kids does not control the cookies of our Ad Server and/or third party advertisers, and these cookies are governed by the privacy policy of the third party advertiser and not subject to the 4Kids Privacy Policy. The use of advertising cookies sent by Ad Servers or third party advertisers is standard in the Internet Industry.
 
-## COOKIES
+Web beacons are small pieces of code placed on a web page to track or monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on this Website from time to time for this and other purposes.
 
-This Website uses cookies to collect information about you.  "Cookies" are small data files which are placed on your computer by this Website.  Cookies can identify you as a unique customer and store your personal preferences as well as technical information. 
+Local Shared Object (LSO) is similar to a cookie and is used in flash applications. The use of LSOs on the Website is limited to storing information in regards to the specific flash rich media application which sets it such as a media player or game.
 
-We use cookies and technical information to personalise your visit to our Website (e.g. to recognise you by name when you return to our Website) and to track our customers' behaviour. This helps us improve the design and content of our Website for visitors and assists us in marketing our products and services.  Although most browsers are initially set up to accept cookies, you can change your website browser settings at any time to refuse all cookies or to tell you when a cookie is being sent. 
+* * *
 
-Certain ads appearing on the Website may be delivered to you by a third party ad service provider.  The ad service provider may place or recognise their own unique cookie on our browser and may use information about your visit to the Website, such as the number of times that you have viewed an ad.  However please note that this information will not identify you as an individual. 
+### How the Website Does Not Use Cookies
 
-The Website never uses cookies to retrieve information from your computer that was not originally sent in a cookie. Except as described in this Privacy Policy, the Website does not use information transferred through cookies to advertise or to sell our goods or services to you; nor is that information shared with any independent third parties who are not connected to our business. The Website does not use cookies to identify specific individuals, except in such cases as online shopping (see above), sweepstakes and contest registration (where a cookie may allow you to enter a contest without registering again each time). 
+The Sites never use cookies to retrieve information from your computer that was not originally sent in a cookie. Except as described in this Privacy Policy, the Sites do not use information transferred through cookies for any promotional or marketing purposes; nor is that information shared with any unaffiliated third parties. The Sites do not use cookies to identify specific individuals, except in such cases as online shopping (see above), sweepstakes and contest registration (where a cookie may allow you to enter a contest without registering again each time).
 
-Most browsers are initially set up to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some areas of the Website, such as any shopping, contest, and game area, may not function properly if you set your computer to refuse cookies. 
+Most browsers are initially set up to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some areas of the Sites, such as any shopping, contest, and game area, may not function properly if you set your computer to refuse cookies.
 
-For further information about cookies, including how to refuse cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+* * *
 
-## DISCLOSURE OF INFORMATION
+### Links to Other Sites
 
-We do not disclose personal information that identifies you individually to third parties, except from time to time we may transfer, disclose or share such information with third parties who may be engaged by us specifically to handle and deliver certain online activities (e.g. conducting contests and sweepstakes). Such third parties only have access to the personal information necessary to perform their functions, but may not use it for other purposes. Any such use will comply fully with this Privacy Policy.
+The Sites may contain banner advertisements or other links to other sites not controlled by 4Kids. These other sites may send their own cookies, collect data or solicit personal information to Users. 4Kids and its affiliates are not responsible for any failure on the part of any linked websites to comply with any Privacy Policy posted on our Sites or for any violation by such other websites of any contractual or other legal obligation to which the operator(s) of such linked website may be subject. In addition, other websites that may contain material not suitable for children may also link to the Sites without our knowledge or consent. The Sites will clearly display a "bumper" page to identify to children and parents or guardians when they are leaving the Sites and entering an advertiser's site. The bumper is a reminder to children to never give out information online without getting permission from a parent or guardian.
 
-We may also disclose personal information to third parties in the following circumstances:
+* * *
 
-• In order to comply with laws or requests by law enforcement agencies, or to protect the rights, property or safety of this Website and its visitors;
+### 4Kids Security Policy
 
-• In response to legal proceedings, for example, in response to a court order; 
+The importance of security for all personally identifiable information associated with Users is of utmost concern to us. Only those employees who need access to your information in order to do their jobs and third parties assisting us in the programming and maintenance of the Sites are allowed access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution. Further, 4Kids does not sell, rent or otherwise give personal information collected on its Sites to third parties.
 
-• To obtain professional advice, for example, from auditors or legal advisors;
+* * *
 
-• In the event that we sell all or part of our business (we may transfer the information to the third party buyer). 
+### Co-Branded Micro Sites
 
-## GUIDANCE FOR PARENTS AND GUARDIANS OF CHILDREN 15 AND UNDER
+Web pages and/or micro websites included within the Sites may be co-branded with third party names, logos, and/or properties. These micro websites are operated or maintained by 4Kids. While such third parties are sponsors of these Web pages or micro websites, the third parties do not share in any personally identifiable information collected within those Web pages or micro websites.
 
-We have a special Privacy Policy for children visiting this Website under the age of 16. We urge children to check with their parents or guardians before entering information on any website, and we urge parents and guardians to discuss this Privacy Policy with their children, including restrictions regarding the online release of personal information to anyone they don't know.
+* * *
 
-We do not collect personal information about any website visitor aged 15 and under, such as names and email addresses, without either: 
+### Your Acceptance of These Terms
 
-(a)  emailing the parent/guardian to provide the option to remove their child's email address and any other information relating to the child from the relevant database for that activity; or 
+By using these Sites, you signify your consent to and agreement with the Online Privacy Policy. If you do not agree to this policy, please do not use our Sites.
 
-(b) obtaining verifiable consent from that child's parent or guardian. 
+The Sites' content and features may be updated, reviewed, modified and supplemented. 4Kids reserves the right to change the information, features, products, policies, promotions, disclosures and disclaimers at any time. Changes to this Privacy Policy will be posted on the Sites. Please check the policy periodically for changes. At the end of the Privacy Policy we indicate the date of an update to the Privacy Policy. A User's continued use of the Sites after the posting of such changes will mean that the User has accepted such changes. Any parental or guardian consent provided to 4Kids will be deemed to apply to the revised Privacy Policy and new or modified features of the Sites. However, if there is a material change in our data collection, use or disclosure practices, we will obtain a new consent. Please note that parents or guardians should update their personal information to provide us current e-mail addresses.
 
-We will obtain such verifiable consent from a parent or guardian of a child before s/he can register for an account on the Website. The registration process consists of the following steps:
+* * *
 
-(a) a Website visitor is asked to provide his/her age, email address and the email address for his/her parent or guardian;
+### California Privacy Rights
 
-(b) we email the parent or guardian confirming that the child has begun the registration process and providing a link where the parent or guardian can give permission to the child to complete registration;
+Pursuant to California Civil Code Section 1798.83, California residents have the right to request from a business, with whom the California Resident has an established business relationship with a customer, and has within the immediately preceding calendar year, whether the business has disclosed personal information to third parties for direct marketing purposes. To make such a request, please send an e-mail to [webmaster@4kids.tv](mailto:webmaster@4kids.tv) or send a written request to CA Privacy Policy Coordinator, Legal Department, 4Kids Entertainment, Inc., 53 West 23rd Street, 11th Floor New York, New York 10010
 
-(c) once approved, an email is sent to both parent and child confirming the completion of registration. 
+* * *
 
-Once this process is complete, the registered child will then be able to: (1) create a Website profile; (2) post on message boards; (3) challenge other Users to online games; and (4) chat with other Users during online games. 
+### Questions
 
-Even with a parent or guardian's consent, we will only request personal information from children that is necessary to allow them to participate in a contest or activity on the Website. For example, for sweepstakes and contests, email addresses are used to notify winners and winners’ parents directly of the sweepstakes or contest once by email. We will not entice children into disclosing personal information with the prospect of a game or prize or something similar.  Notification and prizes will be sent to parents/guardians.
+Questions regarding the Privacy Policy should be directed to the Privacy Policy Coordinator, Legal Department, 4Kids Entertainment, Inc., 53 West 23rd Street, 11th Floor, New York, New York 10010
 
-We only keep any personal information we obtain through a contest or sweepstake until we have successfully selected the winner(s), awarded the prize(s), and completed the administration of the contest or sweepstake as legally required; and such information will not be used for any other purpose. We will not publish the names, ages, images or other personal information of any contest winner under 16 without first obtaining the consent of the contest winner's parent or guardian. 
+© 2010 4Kids Entertainment, Inc. All Rights Reserved.
 
-The email address of a child under 16 is never posted on the Website. No personally identifying information should be submitted to, or posted at, the Website by anyone under 16 without obtaining their parent/guardian’s prior consent. 
+Toonzai is a trademark of 4Kids Entertainment, Inc. All Rights Reserved
 
-## GUIDANCE FOR PARENTS AND GUARDIANS OF CHILDREN 16 AND ABOVE
-
-It is important to us that older children can enjoy our Website in a responsible fashion. We therefore encourage them to consult with their parents or guardian(s) before providing personal information. We also encourage parents and guardians to supervise their children’s online activities by, for example, adopting parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. As with younger children, no personally identifying information should be submitted to, or posted at, the Website by older children without obtaining their parent/guardian’s prior consent. We do not knowingly disclose or publish  personal information about any website visitor aged 17 and under (such as names and email addresses) without obtaining verifiable consent from that child's parent or guardian. 
-
-## ABOUT IP ADDRESSES
-
-An IP address is a unique sequence of numbers that identifies your computer whenever your surf the Internet.  We collect IP addresses for the purpose of system administration and to report information to our advertisers. When you request pages from the Website, our servers record your IP address. We do not link IP addresses to any information that identifies you personally. This means that although your session will be recorded, your identity remains hidden from us.
-
-## LINKS TO OTHER SITES
-
-The Website may contain banner advertisements or other links to other sites we do not control. These other sites may send their own cookies, collect data or personal information. We cannot accept responsibility for any failure on their part to comply with the terms of our Privacy Policy or with any relevant legal requirement. You should always carefully read the privacy policy of each website you visit.  In addition, other websites that may contain material not suitable for children may also link to the Website without our knowledge or consent.  
-
-## SECURITY POLICY
-
-Only those among our staff who need access to your information in order to do their jobs and third parties assisting us in the programming and maintenance of the Website are allowed access. Anyone who fails to comply with our privacy and/or security policies is subject to disciplinary action, including possible termination of their employment with us and and/or the commencement of civil or criminal proceedings. Moreover, we do not sell, rent or otherwise give personal information collected on our websites to third parties. Whilst we have in place reasonable technical, physical and administrative measures to protect the confidentiality of your information, no communication over the Internet can ever be guaranteed. We will continue to maintain and improve our security measures over time in line with developments in the law and in technology. However, please note that we cannot guarantee the security of any personal information that you transfer over the Internet to us.
-
-## CO-BRANDED MICROSITES
-
-Web pages and/or micro websites included within the Website may be co-branded with third party names, logos, and/or properties. These micro websites are operated or maintained by us. While such third parties are sponsors of these Web pages or micro websites, the third parties do not share in any personal information collected by us within those Web pages or micro websites. 
-
-## INTERNATIONAL TRANSFERS
-
-We may transfer personal information that we collect from you to third party data processors located in countries that are outside of the European Economic Area, for example to the USA, or to members of our group of companies who may be based overseas, including the USA, in connection with the above purposes.  It is important that you understand that these countries may not offer the same level of data protection as the United Kingdom, although our collection, storage and use of your personal data will continue to be governed by this Privacy Policy.
-
-You have the following rights:
-
-• You can contact us at any time at <http://www.yugioh.com/en/contact/> to learn the personal information we have collected through this Website which relates to you, and in some cases, your children.  We will also provide you with this information if you write to us at the address below.  In this case we have a legal right to charge a fee specified by law (currently £10). To protect your privacy and security we will take reasonable steps to verify your identity before granting access to the personal information.  
-
-• The right to ask us to update and correct any out-of-date or incorrect personal information we hold about you free of charge.  
-
-• The right to opt out of any marketing communications that we (or any third party to whom we have disclosed your personal information with your consent) may send you.
-
-If you wish to exercise any of the above rights, please contact us using the details set out below.
-
-If you wish to modify, correct, update or delete your registration information or stop receiving email updates from the Website yourself, you should log onto your account by clocking the login link, which you can find at the top of any page on the Site. at 
-
-If we decide to change this Privacy Policy, the changes will be posted on this page so that you are always aware of:
-
-• the information we collect;
-
-• how we use it; 
-
-• under what circumstances we disclose it; and
-
-• the source of the information. 
-
-We will not use or disclose personal information provided to us in ways unrelated to the ones described above without telling you and providing you with an opportunity to tell us that you do not want your information to be used in this way. 
-
-## CONTACT AND NOTICES
-
-If you have any questions or comments about this Privacy Policy please feel free to contact us at <http://www.yugioh.com/en/contact/>. Questions regarding this Privacy Policy can also be directed to the Privacy Policy Coordinator, 4Kids Entertainment International Ltd., First Floor Mutual House, 70 Conduit Street, London W1S 2GF, England or to the following e-mail address: [yugioh@4kids.tv](mailto:yugioh@4kids.tv). 
+This Privacy Policy has been updated as of December 8, 2010
