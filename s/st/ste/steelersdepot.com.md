@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steelersdepot.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223083853id_/http%3A//www.steelersdepot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelersdepot.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622044512id_/http%3A//www.steelersdepot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Steelers Depot
 
@@ -87,4 +87,17 @@ This Privacy Policy is effective as of July 21, 2010 and last updated July 21, 2
   * steelers browser
   * www the steelers depot com
 
+
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.steelersdepot.com%2Fprivacy-policy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.steelersdepot.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.steelersdepot.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.steelersdepot.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.steelersdepot.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Privacy%20Policy%20for%20http%3A%2F%2Fwww.steelersdepot.com%0D%0A%0D%0AIf%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20admin%2A%2A%28AT%29%2A%2Asteelersdepot.com.%0D%0A%0D%0ASteelers%20Depot%20knows%20that%20you%20care%20ab "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.steelersdepot.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.steelersdepot.com%2Fprivacy-policy%2F&srcTitle=Steelers+Depot+Pittsburgh+Steelers+blog+featuring+news%2C+discussion+%26amp%3B+merchandise%21 "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.steelersdepot.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Steelers+Depot+Pittsburgh+Steelers+blog+featuring+news%2C+discussion+%26amp%3B+merchandise%21&summary=Privacy%20Policy%20for%20http%3A%2F%2Fwww.steelersdepot.com%0D%0A%0D%0AIf%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20admin%2A%2A%28AT%29%2A%2Asteelersdepot.com.%0D%0A%0D%0ASteelers%20Depot%20knows%20that%20you%20care%20ab "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.steelersdepot.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
 
