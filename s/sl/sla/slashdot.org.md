@@ -1,25 +1,23 @@
-> *The following text is extracted and transformed from the slashdot.org privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218060128id_/http%3A//geek.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slashdot.org privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623013322id_/http%3A//geek.net/privacy-statement) for the most accurate reproduction.*
 
 # Privacy
 
 **Geeknet, INC. PRIVACY STATEMENT (“PRIVACY STATEMENT”)**
 
-**(Last Updated October 29, 2011)  
-(Effective Date May 24, 2008)**
+****(Last Updated May 29, 2012** **)**  
+ **(Effective Date May 24, 2008)****
 
 Geeknet, Inc. and its subsidiaries (“Geeknet”), operate the Internet sites Geek.net, SourceForge.net, Slashdot.org, ThinkGeek.com, feedery.com, and Freecode.com (the “Sites”). Geeknet is committed to protecting the privacy of users of the Sites. This Privacy Statement applies to each of the Sites and describes the information Geeknet collects about users and how that information may be used.
 
 Geeknet complies with the United States (“US”)/European Union (“EU”) and US/Swiss Safe Harbor frameworks as set forth by the US Department of Commerce regarding the transfer of personally identifiable information from the EU and Switzerland to the United States. 
 
-[We self-certify compliance with](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list)
+We self-certify compliance with
 
-[ ](http://www.export.gov/safeharbor)[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.geek.net/seal_m "TRUSTe European Safe Harbor certification")
+[](http://www.export.gov/safeharbor)[](http://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.geek.net/seal_m)
 
 Geeknet agrees to notify users of the following privacy principles: Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. For additional information about what to do if you have questions or concerns about our Safe Harbor program, please see the enforcement section below.
 
 Geeknet reserves the right to update and change this Privacy Statement from time to time. If Geeknet makes material changes to its privacy practices, a prominent notice will be posted on this web page. Each time a user uses the Sites, the current version of the Privacy Statement applies. Accordingly, a user should check the date of this Privacy Statement (which appears at the top) and review for any changes since the last version. If a user does not agree to the Privacy Statement, the user should not use the Sites.
-
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.geek.net/seal_m "Validate TRUSTe privacy certification")
 
 Geeknet has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at legal@geek.net If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -33,7 +31,23 @@ Users represent they are of legal age to create binding and financial obligation
 
 What information Geeknet collects
 
-Geeknet may collect three types of information from users of Sites: "personally identifiable information" (such as name, email address, postal address, telephone number; "device information" about the device you are using to access our site (such as information about how your browser is configured, whether your device has enabled cookies, its Flash settings, the device's identification number and other characteristics about the device); and "aggregate information" (such as frequency of visits to Sites, Site pages most frequently accessed, browser type). Personally identifiable information is any piece of information which can potentially be used to uniquely identify, contact, or locate a user of the Sites. Device information is information about the device and its attributes; it also may be personally identifiable information in cases where it is associated with the name or other identifier for a Site user.  We use device information for purposes such as enhancing the user experience and fraud prevention.  Aggregate information is non-personally identifiable/anonymous information about users of the Sites. Aggregate information is used in a collective manner and no single person can be identified by that compiled information.
+Geeknet may collect three types of information from users of Sites: "personally identifiable information"; "device information" about the device you are using to access our site; and "aggregate information." 
+
+Personally identifiable information is any piece of information which can potentially be used to uniquely identify, contact, or locate a user of the Sites (such as name, email address, postal address, telephone number). 
+
+Device information is information about the device and its attributes (such as information about how your browser is configured, whether your device has enabled cookies, its Flash settings, the device's identification number and other characteristics about the device); it also may be personally identifiable information in cases where it is associated with the name or other identifier for a Site user.  We use device information for purposes such as enhancing the user experience and fraud prevention.  
+
+Aggregate information is non-personally identifiable/anonymous information about users of the Sites (such as frequency of visits to Sites, Site pages most frequently accessed browser type).  Aggregate information also may include pages visited along with any navigation and in-page interactions used during each visit. In-page interactions monitored include: clicks and selections, mouse movement, page scrolling, and form fields focused on (specific keystrokes entered into each field are not collected).  Aggregate information is used in a collective manner and no single person can be identified by that compiled information.
+
+If you would like to opt-out of monitoring by ClickTale (the service we use for in-page interaction monitoring), please visit [http://www.clicktale.net/disable.html](http://www.clicktale.net/disable.html) and follow the instructions for each computer that you wish to opt-out of ClickTale. More information about ClickTale is available at: [http://www.clicktale.com/privacy_service.aspx](http://www.clicktale.com/privacy_service.aspx).  
+
+We also use Omniture, comScore and Google Analytics for aggregation and analysis of session information.
+
+  * If you would like to opt-out of the aggregation and analysis of your session information by Omniture, please see the section about browser cookies below for information about how you can control browser cookies.
+  * If you would like to opt-out of information collection by comScore, please visit: [http://www.scorecardresearch.com/preferences.aspx](http://www.scorecardresearch.com/preferences.aspx).
+  * If you would like to opt-out of Google Analytics, Google has developed a tool that works with major internet browsers to permit you to opt-out.  For more information and install their opt-out tool please visit: [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout). If you opt-out of ClickTale, Google Analytics, and Omniture monitoring, we still may collect some device and aggregate information ourselves through log files as discussed below or in connection with our forms. 
+
+
 
 On the Sites, users may order products or services, and register to receive materials. Personally identifiable information collected on the Sites includes community forum content, diaries, profiles, photographs, name, unique identifiers (e.g., passwords), contact and billing information (e.g., email address, postal address, telephone, fax), and transaction information.
 
@@ -41,13 +55,15 @@ In order to tailor Geeknet’s subsequent communications to users and continuous
 
 Web beacons
 
-Geeknet uses web beacons from time to time. Such web beacons may be provided by Geeknet’s third party advertising companies to help manage and optimize Geeknet’s online advertising. To opt out of targeted advertising delivered by Network Advertising Initiative members, click here: <http://www.networkadvertising.org/consumer/opt_out.asp>  A web beacon is a string of code that provides a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data, or determining how many times a specific web page has been viewed. Web beacons enable Geeknet to recognize a browser’s cookie when a browser visits a Site, and to learn which banner ads bring users to each Site. For example, when a user visits a web page, the code for the page may include instructions to go to another server to gather a single pixel graphic image. Web beacons are not placed on a user’s computer.
+Geeknet uses web beacons from time to time. Such web beacons may be provided by Geeknet’s third party advertising companies to help manage and optimize Geeknet’s online advertising. To opt out of targeted advertising delivered by Network Advertising Initiative members, click here: [http://www.networkadvertising.org/consumer/opt_out.asp](http://www.networkadvertising.org/consumer/opt_out.asp)  A web beacon is a string of code that provides a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data, or determining how many times a specific web page has been viewed. Web beacons enable Geeknet to recognize a browser’s cookie when a browser visits a Site, and to learn which banner ads bring users to each Site. For example, when a user visits a web page, the code for the page may include instructions to go to another server to gather a single pixel graphic image. Web beacons are not placed on a user’s computer.
 
 Cookies
 
-Geeknet uses cookies on the Sites. A cookie is a unique text file that may be used for data analysis, and enables a web site to tailor information presented to a user based on a user’s browsing program. Geeknet may use cookies to personalize a user’s pages at a Site, to remember a user when the user registers for products or services, for fraud prevention, or to track visits to a Site. If a user does not want Geeknet to deploy cookies in the user’s browser, the user may set the browser to reject cookies or to notify the user when a web site tries to place cookies in the browser program. Rejecting cookies may affect a user’s ability to use some of the products, features, functions, or services on a Site. 
+Geeknet uses cookies on the Sites. A “browser” or “HTTP” cookie is a unique text file that may be used for data analysis, and enables a web site to tailor information presented to a user based on a user’s browsing program. Geeknet may use browser cookies to personalize a user’s pages at a Site, to remember a user when the user registers for products or services, for fraud prevention, or to track visits to a Site. If a user does not want Geeknet or its partners to deploy browser cookies in the user’s browser when the user visits the Sites, the user may set the browser to reject cookies or to notify the user when a web site tries to place cookies in the browser program. Rejecting cookies may affect a user’s ability to use some of the products, features, functions, or services on a Site. 
 
-The ads appearing on the Sites may be delivered to visitors by third parties, such as Google. The third party advertising technology that Geeknet uses on the Sites uses information derived from a user’s visits to the Sites to target advertising within the Sites. In addition, Geeknet’s advertisers may use other third party advertising technology to target advertising on the Sites. In the course of serving advertisements to the Sites, our partners may place or recognize a unique cookie on a user’s browser. Information about users’ visits to the Sites, such as the number of times users have viewed an ad (but not users’ names, addresses, or other personally identifiable information), are used to serve ads to visitors. The use of cookies enables our partners to serve ads to users based on such user's visit to Geeknet's sites and other sites on the Internet. As with other cookies, and consistent with Geeknet’s policy on cookies stated above, the user may block or delete such cookies from the user's drive or memory. For more information about Google, Google’s use of cookies, and how to "opt out" of Google’s email/information lists, please click here: <http://www.google.com/privacy_ads.html>. As noted in the Web Beacon discussion above, users also can opt-out of receiving these types of targeted network advertisements from many advertising networks by visiting the National Advertising Initiative website identified above. 
+Our website also may use local shared objects, also known as "Flash cookies" to store your preferences or display content based upon what you view on our website to personalize your visit. Flash cookies are different from “browser” cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, including how to delete Flash cookies, click here for additional information: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
+
+The ads appearing on the Sites may be delivered to visitors by third parties, such as Google. The third party advertising technology that Geeknet uses on the Sites uses information derived from a user’s visits to the Sites to target advertising within the Sites. In addition, Geeknet’s advertisers may use other third party advertising technology to target advertising on the Sites. In the course of serving advertisements to the Sites, our partners may place or recognize a unique cookie on a user’s browser. Information about users’ visits to the Sites, such as the number of times users have viewed an ad (but not users’ names, addresses, or other personally identifiable information), are used to serve ads to visitors. The use of cookies enables our partners to serve ads to users based on such user's visit to Geeknet's sites and other sites on the Internet. As with other cookies, and consistent with Geeknet’s policy on cookies stated above, the user may block or delete such cookies from the user's drive or memory. For more information about Google, Google’s use of cookies, and how to "opt out" of Google’s email/information lists, please click here: [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html). As noted in the Web Beacon discussion above, users also can opt-out of receiving these types of targeted network advertisements from many advertising networks by visiting the National Advertising Initiative website identified above. 
 
 Log files
 
@@ -92,7 +108,7 @@ With respect to surveys, in the event that responses are publicly disclosed, use
 
 Where surveys allow users to submit written comments, and where Geeknet advises users of the possibility of such disclosure at the time they take the survey, Geeknet reserves the right to disclose any information provided by users, provided that no personal information identifying a specific user is disclosed. Participation in surveys is at a user's option; Geeknet does not conduct mandatory surveys.
 
-## Gift Certificates
+Gift Certificates
 
 If you choose to send a gift certificate to a geek in your life, we will ask you for your friend’s name and email address. The gift certificate will be delivered via email. ThinkGeek stores this information for the sole purpose of sending this gift certificate. 
 
@@ -141,7 +157,7 @@ With whom may Geeknet share information?
 
 Unless Geeknet has a user’s permission, as otherwise described in this Privacy Statement, or as required by law, such as to comply with a subpoena, Geeknet will only share the personally identifiable information a user provides online with other entities that are part of the Geeknet corporate family and/or outside service providers who may be used to ship products, process credit cards, provide technical support, handle order processing, or otherwise act on Geeknet’s behalf. These third party service providers are prohibited from using users’ information for any other purpose, including their own marketing.
 
-When Geeknet uses third parties to assist in processing a Site user’s personally identifiable information, Geeknet requires that these third parties establish safeguards to protect the confidentiality of the information that we provide them. For processing that involving information subject to Safe Harbor, we take steps to confirm that they subscribe to Safe Harbor, are subject to the EU Directive or another adequacy finding, or we enter into a written agreement requiring that they provide at least the same level of protection as required by the relevant Safe Harbor principles.
+When Geeknet uses third parties to assist in processing a Site user’s personally identifiable information, Geeknet requires that these third parties establish safeguards to protect the confidentiality of the information that we provide them. For processing that involves information subject to Safe Harbor, we take steps to confirm that they subscribe to Safe Harbor, are subject to the EU Directive or another adequacy finding, or we enter into a written agreement requiring that they provide at least the same level of protection as required by the relevant Safe Harbor principles.
 
 Geeknet businesses other than ThinkGeek may share personally identifiable information with third parties for marketing purposes, but will provide users with choices about disclosures of personally identifiable information for marketing purposes. ThinkGeek does not share, sell, or rent personally identifiable information to third parties for marketing purposes.
 
@@ -167,7 +183,7 @@ Links to third party web sites on the Sites are provided solely as a convenience
 
 Project Web
 
-SourceForge.net offers project web services that permit project teams to share information among developers and end users. The project web services include a pool of web servers which serve project related web content and support common scripting language. Geeknet hosts these web servers, but does not review or control any of the web content, which is created by project teams. Web content created by project teams may implement the collection of personally identifiable information. Before linking to, accessing or otherwise using the project web services, a user should take those steps necessary, in such user’s discretion, to protect his or her privacy.
+SourceForge.net offers web hosting services that permit project teams to share information among developers and end users (“Project Web”). The project web services include a pool of web servers which serve project related web content and support common scripting language. Geeknet hosts these web servers, but does not review or control any of the web content, including personally identifiable information, which may be created by project teams; nor are we liable for any data breach related to a Project Web application. Web content created by Project Web teams may implement the collection of personally identifiable information; thus the Project Web teams are responsible for any required breach notification. Before linking to, accessing or otherwise using the project web services, a user should take those steps necessary, in such user’s discretion, to protect his or her privacy, including not using the Project Web services.
 
 Bankruptcy or Sale of business
 
@@ -197,7 +213,7 @@ If a user has comments or questions about Geeknet's privacy statement, please co
 
 Email: [legal@geek.net](mailto:legal@geek.net)  
 Telephone: 1-877-Geeknet (877-433-5638)   
-Fax: 703-839-8611
+Fax: 703-839-8611 
 
 Postal Mail:  
 Attn: Geeknet, Inc. Legal Services - Privacy  
@@ -205,8 +221,8 @@ Geeknet, Inc.
 11216 Waples Mill Road, Suite 100  
 Fairfax, VA 22030
 
- Geeknet complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at :  <http://export.gov/safeharbor>
+ Geeknet complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at :  [http://export.gov/safeharbor](http://export.gov/safeharbor)
 
  If you have questions or concerns regarding this Policy, you should first contact [legal@geek.net](mailto:legal@geek.net) Filing a complaint in English will expedite the process. Geeknet will investigate and attempt to resolve complaints regarding use and disclosure of personally identifiable information in accordance with the principles contained in this Privacy Statement.
 
-If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.org/consumers/watchdog_complaint.php>, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420.  If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at [http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php), by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420.  If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see [http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
