@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618061726id_/http%3A//www.rightmove.co.uk/this-site/terms-of-use-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622094856id_/http%3A//www.rightmove.co.uk/this-site/terms-of-use-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Rightmove.co.uk
 
 ### Who we are
 
-'We' are Rightmove Group Limited, Grafton Court, Snowdon Drive, Milton Keynes, MK6 1AJ. Company Registration Number: 03997679. We are registered under the Data Protection Act 1998, number Z4726900. We provide this website to subscribing estate agents, letting agents, new homes developers and overseas property owners to display properties they are marketing. We are not estate agents ourselves. [More about Rightmove the company](https://web.archive.org/rightmoveplc/about-us.html).
+'We' are Rightmove Group Limited, Turnberry House, 30 Caldecotte Lake Drive, Caldecotte, Milton Keynes, MK7 8LE. Company Registration Number: 03997679. We are registered under the Data Protection Act 1998, number Z4726900. We provide this website to subscribing estate agents, letting agents, new homes developers and overseas property owners to display properties they are marketing. We are not estate agents ourselves. [More about Rightmove the company](https://web.archive.org/rightmoveplc/about-us.html).
 
 ### Introduction
 
 We are committed to protecting your privacy. This policy explains how and for what purposes we use the information collected about you via www.rightmove.co.uk (referred to below as "this Site"). Please read this privacy policy carefully. By using this Site and any services we offer via this Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site.
 
-If you have any queries or comments about the policy, our use of your personal information or wish to unsubscribe from messages from us, please get in touch by [emailing here](https://web.archive.org/rightmoveplc/rightmove-contacts.html) or writing to The Privacy Manager at Grafton Court, Snowdon Drive, Milton Keynes, MK6 1AJ.
+If you have any queries or comments about the policy, our use of your personal information or wish to unsubscribe from messages from us, please get in touch by [emailing here](https://web.archive.org/rightmoveplc/rightmove-contacts.html) or writing to The Privacy Manager at Turnberry House, 30 Caldecotte Lake Drive, Caldecotte, Milton Keynes, MK7 8LE.
 
 In general, we use the information we collect about you to:
 
@@ -26,7 +26,7 @@ In general, we use the information we collect about you to:
 
 When you visit, register or use the services on this Site, you may be asked to provide certain information about yourself, including your name and your contact details. We may also collect information about how you use this Site including your searches, the properties and pages you look at, the advertisers or partners you contact and the contents of the emails you send to them. Finally, we may also collect information from any correspondence that you have with us. Collectively, we refer to this as "Your Information".
 
-All of the forms where you might enter personal information on our Site have tick box options to enable you to specify your consent (or otherwise) to our use of Your Information. We always use the the most recently submitted form to be your current consent status. If you are a registered user, but not signed in when you submit a form, we won't be able to use your saved settings so will deem your consent choice to be as per the form you submit at the time.
+All of the forms where you might enter personal information on our Site have tick box options to enable you to specify your consent (or otherwise) to our use of Your Information. We always use the most recently submitted form to be your current consent status. If you are a registered user, but not signed in when you submit a form, we won't be able to use your saved settings so will deem your consent choice to be as per the form you submit at the time.
 
 ## How we use Your Information
 
@@ -66,8 +66,6 @@ We retain access to all personal information that we have collected from you.
 
 When our service is available via the websites of our partners, those partners may have access to Your Information. Their use of your personal information is governed by their privacy policies. We are not responsible for the privacy policies and practices of any other websites, even if you access them using links from this Site or if you can access this Site or use our services from them. We therefore recommend that you check the policy of each site that you visit and make sure that you are comfortable with the terms of such policies before providing any personal information.
 
-If you have consented on your [my details](https://web.archive.org/user/details.html) page, the appropriate email form, or in conversation with us, we may provide any of Your Information to carefully screened third parties to contact you regarding products or services that we think may be of interest to you. If you change your mind about being contacted by these third parties in the future, please [contact us here](https://web.archive.org/rightmoveplc/rightmove-contacts.html)> and tell us.
-
 If our business enters into a joint venture with or is sold to or merged with another business entity, Your Information may be disclosed to our new business partners or owners.
 
 If we offer or supply a service to you that is provided on our behalf by a third party we may have to pass Your Information to them in order to deliver the service. By using this site you consent to us providing Your Information to the third parties licensed by us to provide such services. We may also use third parties to provide services on our behalf which may include processing (but not using themselves) Your Information e.g. to complete partial addresses or to augment the information we hold about you. In either case, we will not pass your data to anyone who is not also registered with the Data Protection Act or is not subject to these or similar provisions in our contract with them and we will not allow the third party to use Your Information commercially without your consent.
@@ -76,13 +74,13 @@ We will not otherwise disclose, sell or distribute Your Information to any third
 
 ## Access to, changing or removing the information we hold
 
-Registered users of this Site can update their information, change settings or cancel their membership on their [your details](https://web.archive.org/user/details.html) page once signed in.
+Registered users of this Site can update their information, change settings or deactivate their account in the [My Details section of My Rightmove](https://web.archive.org/user/details.html) page once signed in.
 
-Non-registered and registered users of this Site can request we provide them with a copy of the personally identifiable information we hold via [contact us](https://web.archive.org/rightmoveplc/rightmove-contacts.html). You may ask us to make any necessary changes to ensure that such information is accurate and kept up-to-date. We may charge a small administration fee to cover the data search, preparation and delivery.
+Users of this Site can request we provide them with a copy of the personally identifiable information we hold via [contact us](https://web.archive.org/rightmoveplc/rightmove-contacts.html). You may ask us to make any necessary changes to ensure that such information is accurate and kept up-to-date. We may charge a small administration fee to cover the data search, preparation and delivery.
 
 ### Cookies and tracking
 
-Like many websites, we use "cookies" to enable us to personalise your visits to this website, simplify the signing-in procedure, keep track of your preferences and to track the usage of this website. Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. Your browser will have the option to prevent websites using cookies (your browser's help screen or manual will tell you how to do this), but please note that this may reduce the functionality of this Site and other websites.
+Like many websites, we use "cookies" to enable us to personalise your visits to this website, simplify the signing-in procedure, keep track of your preferences and to track the usage of this website. Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. Your browser will have the option to prevent websites using cookies (your browser's help screen or manual will tell you how to do this), but please note that this may reduce the functionality of this Site and other websites. Further information about the cookies we use is stored [here.](https://web.archive.org/this-site/cookies.html)
 
 Like all websites, our servers automatically record 'log files' containing information about the volume and characteristics of our website traffic e.g. IP address, numbers of pages viewed, length of time spent on site. We use log files to build pictures of how our site is used that help us to monitor and improve the service. We cannot identify you from your log files.
 
