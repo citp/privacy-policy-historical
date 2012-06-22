@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011014718id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622102700id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
 
 # Global Sources - Help & FAQ
 
@@ -88,7 +88,7 @@ Two types of cookies are used on our website:
 **Third Party Cookies:**   
 Third parties also serve or use cookies through this website. These cookies do not carry any personally identifiable information and are used for the following purposes:  • | To assist with tracking and analyzing our website's user behavior.  
 ---|---  
-• | To show our advertisements on various sites on the Internet. The third party remarketing vendors concerned use cookies to serve our advertisements based on a user's prior visits to our website. Users may opt out of a third party remarketing vendor's use of cookies by visiting the relevant advertising opt-out page of that particular remarketing vendor's website (e.g. [Google advertising opt-out page](http://www.google.com/privacy_ads.html), [Right Media Exchange opt-out page](http://info.yahoo.com/privacy/us/biz/rightmedia/) or [Dapper advertising opt-out page](http://www.dapper.net/optout.html) etc., as applicable), or by visiting the general [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp) (where applicable).   
+• | To show our advertisements on various sites on the Internet. The third party remarketing vendors concerned use cookies to serve our advertisements based on a user's prior visits to our website. Users may opt out of a third party remarketing vendor's use of cookies by visiting the relevant advertising opt-out page of that particular remarketing vendor's website (e.g. [Google advertising opt-out page](http://www.google.com/privacy_ads.html), [Right Media Exchange opt-out page](http://info.yahoo.com/privacy/us/biz/rightmedia/) or [Magnetic opt-out page](http://www.magnetic.is/privacy/opt-out) etc., as applicable), or by visiting the general [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp) (where applicable).   
   
 **Web Beacons**   
 Some pages on our website may contain images known as "web beacons" (also known as "clear gifs"), some of which may be served by third parties. They allow us to count users who have viewed these pages. Web beacons collect only limited information, including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. These web beacons do not carry any personally identifiable information and are merely used to track the effectiveness of a particular campaign. 
@@ -150,7 +150,7 @@ If you are using Internet Explorer 8:
   
 If you are using Firefox: 
 
-> •  | Click on "Options¡­" from the "Tools" menu in your browser.  
+> •  | Click on "Options0„30…2" from the "Tools" menu in your browser.  
 > ---|---  
 > •  | Select the "Privacy" tab.  
 > •  | Click "Show Cookies..."  
