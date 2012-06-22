@@ -1,166 +1,176 @@
-> *The following text is extracted and transformed from the windowsfordevices.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206114349id_/http%3A//www.ziffdavisenterprise.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsfordevices.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622234705id_/http%3A//www.ziffdavisenterprise.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# Ziff Davis Enterprise Privacy Policy | Ziff Davis Enterprise - IT Media’s Most Complete Information and Engagement Marketing Solution Provider
+# PRIVACY POLICY | Ziff Davis Enterprise - IT Media’s Most Complete Information and Engagement Marketing Solution Provider
 
-Ziff Davis Enterprise is committed to protecting your privacy. This policy describes the ways that personally identifiable and anonymous information about our online users, event registrants and print subscribers is gathered, our information sharing practices, and how online users and print subscribers may request changes to the way this information is shared.
+**QuinStreet, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”). By using our Sites, you agree to the terms and conditions of this Privacy Policy.
 
-**Personally Identifiable Information We Collect**
+ **Personal Information**  
 
-We collect personally identifiable information when you provide it to us, such as when you subscribe to our magazines (either directly with us or through another company such as a subscription agency), sign up for email newsletters, enter a contest, register for site membership, participate in surveys, or to otherwise communicate with us. Several of the services that we offer, including but not limited to file downloads, message boards, eSeminars and the Web Buyer's Guide require registration as a condition of use; when you register with one of our sites you are no longer anonymous. We may also receive information about you from other sources and add it to the information you have provided to us.
+ **Personal Information We Collect**
 
-**Information You Volunteer and How it Is Displayed to Others Online**
+ **  
+**“ **Personal Information** ” is information that identifies you as an individual, such as: 
 
-Ziff Davis Enterprise may at times offer you the ability to post content to a discussion forum or other online space (“Forum”). In order to do so, you may be required to register and create the Member Profile. You should be aware that any visitor to the Forum may read your postings on the Forum. Furthermore, any Materials which you may post to a Forum will be disclosed and available to all visitors and users of that Forum, and is therefore no longer private. Certain information, such as your user name, certain Member Profile information and other information may also be automatically displayed in connection with Materials you post to the Forum. In some cases, you may be able to choose what information will be displayed based on settings in your Member Profile. Ziff Davis Enterprise cannot guarantee the security of information and content that is disclosed or communicated online in public areas such as Forums, and you provide such information at your own risk. To view or change your profile, please follow the link for the site from which you registered:
+  * Name
+  * Postal address
+  * Telephone number
+  * Email address
+  * Credit or debit card number
 
-  * [_Baseline_](http://www.baselinemag.com/)
-  * [_CIO Insight_](http://www.cioinsight.com/)
-  * [_DevShed_](http://www.devshed.com/)
-  * [_eWEEK_](http://www.eweek.com/)
-  * [_Channel Insider_](http://www.channelinsider.com/)
-  * [_Microsoft Watch_](http://www.microsoft-watch.com/)
-  * [_DesktopLinux_](http://www.desktoplinux.com/)
-  * [_Web Buyers Guide_](http://www.webbuyersguide.com/)
-  * [_LinuxDevices_](http://www.linuxfordevices.com/)
-  * [_WindowsForDevices_](http://www.windowsfordevices.com/)
-  * [_Publish_](http://www.publish.com/)
-  * [_PDFzone_](http://www.pdfzone.com/)
-  * [_igrep_](http://www.developershed.com/igrep.php)
-  * [_ASP Free_](http://www.aspfree.com/)
-  * [_Dev Articles_](http://www.devarticles.com/)
-  * [_Dev Archives_](http://www.developershed.com/devarchives.php)
-  * [_Scripts.com_](http://www.scripts.com/)
-  * [_Dev Hardware_](http://www.devhardware.com/)
-  * [_SEO Chat_](http://www.seochat.com/)
-  * [_Dev Mechanic_](http://tools.devshed.com/)
-  * [_Web Hosters_](http://webhosting.devshed.com/)
-  * [_Tutorialized_](http://www.tutorialized.com/)
-  * [_Codewalkers_](http://www.codewalkers.com/)
 
 
+In some cases, we may collect information, such as your age, weight, health conditions, insurance type, and whether you’re a non-smoker, combined with your Personal Information. We will treat all such information as Personal Information as long as it is combined with Personal Information.
 
-Personally identifiable information you provide as a subscriber to the Microsoft Watch newsletter is not shared with anyone except on an aggregate, statistical basis, except for the purposes of fulfillment and email deployment.
+We collect Personal Information when you interact with us on the Site. We may associate Personal Information you provide through the Site with Personal Information collected from other sources. We will use the combined information in accordance with this Privacy Policy as long as it is combined.
 
-**What We Provide to Third Parties**
+**How We Use Personal Information**
 
-  * **Statistical Reports and Analysis**
+We may use Personal Information: 
 
-The aggregate statistics that describe our print and online audience, which is often based on the information you provide when you subscribe, register, or browse our sites, help us sell advertising and otherwise publicize Ziff Davis Enterprise and its brands. The information we share under these circumstances does not contain behavioral or identifying information about any individual reader or user, unless the individual has given us permission to share that information.
+  * When you request, to connect you with vendors who will provide you with information about products and services. 
+  * When you’ve submitted your Personal Information to us, which submission you understand and agree to constitute making an “inquiry” to us and our affiliated entities, to contact you or allow our vendors to contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/or federal Do Not Call list, because your inquiry serves as an exception to state and/or federal Do Not Call laws.
+  * to respond to your inquiries and fulfill your requests, such as to send you newsletters.
+  * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information. 
+  * to send you surveys and marketing communications that we believe may be of interest to you. 
+  * to personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you. 
+  * to allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully. 
+  * to allow you to send messages to a friend through the Site. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address. 
+  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns. 
+  * if you purchase a product or service from us, to complete and fulfill your purchase, for example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service.
+  * if you provide personal information as a subscriber to the Microsoft Watch newsletter, we will not share such information with anyone except on an aggregate, statistical basis, and except for to our third party service providers as described below.  
 
-  * **Mailing Lists**
 
-We make e-mail and postal lists of our customers available on a rental (i.e., temporary, defined, basis) to carefully screened providers of quality goods and services. Many customers appreciate the offerings they receive, but here's what to do if you don't want us to share this information:
 
-    * If you are a subscriber to a Ziff Davis Enterprise magazine and would prefer that your contact information not be provided to third parties, please log in and change your preferences at: 
-      * eWEEK: [_http://www.omeda.com/custsrv/ewk/_](http://www.omeda.com/custsrv/ewk/)
-      * Baseline: [_http://www.omeda.com/custsrv/bsl/_](http://www.omeda.com/custsrv/bsl/)
-      * CIO Insight: [_http://www.omeda.com/custsrv/ist/_](http://www.omeda.com/custsrv/ist/)
-    * If you are a registered user of our sites, you can change your preferences via the profile page links shown above.
-    * If you are a new subscriber, your information may not be immediately available. Please allow up to 4 weeks from placing your subscription order for processing.
-    * If you are a registered user of Ziff Davis Enterprise eSeminars, please send email with your preference request to [_eSeminars@ziffdavisenterprise.com_](mailto:eseminars@ziffdavisenterprise.com). Please see below for details on eSeminars's privacy policies.
-    * If you've registered to attend a Ziff Davis Enterprise face-to-face event and prefer this information not be shared, please send email with your preference request to [_events@ziffdavisenterprise.com_](mailto:events@ziffdavisenterprise.com).
-    * If you are a registered user of the Ziff Davis Enterprise Web Buyer's Guide and prefer this information not be shared, please send email with your preference request to [_WebBuyersGuide@ziffdavisenterprise.com_](mailto:webbuyersguide@ziffdavisenterprise.com).
-    * If you are a registered member of the DeviceForge sites (including LinuxDevices.com, WindowsForDevices.com, DeviceForge.com) and prefer your information not be shared, please send email with your preference request to [_privacy@deviceforge.com_](mailto:privacy@deviceforege.com).
+**How Personal Information is Disclosed**
 
-Any mailing sent to our lists is carefully reviewed before it is sent, and when we rent our mailing lists, we monitor them to ensure they are used only for the approved purpose. Because of the difficulty inherent in tracking their use, we do not provide email address lists to third parties except for service purposes such as deployment or suppression, as described below.
+Your Personal Information may be disclosed: 
 
-Ziff Davis Enterprise also provides profile reports on specific companies, based on subscriber-reported and publicly available data, to carefully screened providers of quality goods and services. These include contact information for the company and its key personnel.
+  * to our affiliates, including but not limited to QuinStreet Media, Inc. and WorldWideLearn, Inc., for the purposes described in this Privacy Policy. QuinStreet, Inc. is the party responsible for the management of the jointly-used Personal Information.
+  * to our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services. 
+  * if you request information from vendors so that they (or so that third parties who provide similar services) can provide you with information about their products and services. We are not responsible or liable for vendors’ use of your Personal Information. 
+  * if you register for our site (and/or create a member profile), we make e-mail and postal lists of our registered users available on a temporary, defined basis (e.g., rental) to vendors of quality goods and services. Many customers appreciate the offerings they receive, but if you do not want to receive communications from third-party providers through list rental go to the “Email Preferences” page and deselect the “Ziff Davis Enterprise Business Partners” option: https://www.enterprise-secure-registration.com/index.php?page=emailSettings
+  * if you choose to download a white paper, eBook, or other resource, to our clients, partners and current and future sponsors of that resource.  If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources.
+  * if you post your resume on the Site and elect to permit it to be searched by potential employers and staffing agencies, to these potential employers and staffing agencies. We do not control the use and disclosure of Personal Information by these potential employers and staffing agencies. While it is our goal that only employers or staffing agencies will gain access to Personal Information in resumes, we cannot guarantee that no other persons or entities will gain such access. WE ARE NOT RESPONSIBLE FOR THE USE OR DISCLOSURE BY OTHERS OF ANY PERSONAL INFORMATION YOU DISCLOSE IN YOUR RESUME.
+  * to third party sponsors of sweepstakes, contests and similar promotions.
+  * if you choose to send messages through the Site, to identify you as the sender to the recipient indicated by you. We will ask you for such recipient’s name and email address and we store both email addresses for the purpose of sending such message.
+  * by you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public. 
+  * by you, if you have provided a testimonial about a site and given us permission to post that testimonial on our site.
+  * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-  * **Email and Postal Mail Deployment, Data Analysis and Other Data Services**
 
-We provide customer lists and other information to third party companies who provide specialized services, such as email message deployment, merge-purge (identifying and removing duplicate addresses) of lists, postal mailing, subscription fulfillment, customer service and telemarketing, research, statistical analysis, and other data processing. These companies work on our behalf and we do not provide our lists or other data to them for their own, permanent, use.
 
-In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Ziff Davis Enterprise products to other companies, so they can be suppressed from mailings those companies send on Ziff Davis Enterprise's behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file.
+**NON-personal Information**
 
-  * **Ziff Davis Enterprise Magazines, Seminars, Events, Sites and Other Publications and Services**
+**Non-Personal Information We Collect**
 
-As a Ziff Davis Enterprise customer you can also expect to receive relevant email and postal offers for Ziff Davis Enterprise publications, seminars, events, web sites and other services. From time to time we are also able to secure and offer to our customers specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such mailings in the future, you can change your preference via the links in the previous section ("Mailing Lists").
+“ **Non-Personal Information** ” is any information that does not reveal your specific identity, such as:
 
-  * **Change of Ownership of Ziff Davis Enterprise Properties**
+  * Browser information
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you
+  * Aggregated information
 
-The mailing list(s) associated with Ziff Davis Enterprise properties may also be subject to transfer to another company in the event of a change of ownership. In this event, Ziff Davis Enterprise or the new owner of the affected properties will use commercially reasonable efforts to notify you and provide the opportunity to remove your name from the associated mailing list(s).
 
-In any event, Ziff Davis Enterprise may disclose personally identifiable Member information pursuant to a subpoena or other judicial or administrative order, where required by law, or, at our sole discretion, where we deem necessary to protect the safety of any individual or the public or to prevent the violation of the rights of Ziff Davis Enterprise, our other Members or any third party.
 
+**How We Collect Non-Personal Information**
 
+We and our third party service providers may collect Non-Personal Information from you, including your MAC address, your computer type, screen resolution, OS version, Internet browser, as well as demographic data, for example, your location, educational degree, balance on mortgage, value of real estate, income, age, weight, type of insurance, diabetic or smoking-related statistics. We also aggregate Personal Information in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using Personal Information to calculate the percentage of our users who have a particular telephone area code. We also collect Non-Personal Information through the use of cookies, pixel tags, web beacons, or other similar technologies for example to help identify you and maintain your signed-in status or to measure the effectiveness of e-mail communications. We may link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
+ If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To delete any local shared objects, please visit http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html#117717. To learn more about cookies, please visit http://www.allaboutcookies.org/.
 
-**Anonymous Information We Collect**
+**How We Use and Disclose Non-Personal Information**
 
-  * **Cookies**
+Because Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information for any purpose.  In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location). If we combine any Non-Personal Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
 
-Cookies are small pieces of information that many Web sites store on your computer's hard drive when you visit them. They don't tell us who you are unless you've specifically given us personally identifiable information. Cookies stored on your hard drive by a Ziff Davis Enterprise site are not accessible to other sites.
+**IP ADDRESSES**
 
-Like many other web sites, Ziff Davis Enterprise sites use cookies to improve your experience with our online content. For example, we may use a cookie to identify members so they don't have to re-enter a user id and password when they wish to download a utility or post to a discussion. As another example, cookies can be used to control the number of times you see advertisements, like pop-ups. By allowing us to better understand how users interact with the site over time, cookies also help us improve your experience and deliver more relevant content to you. Cookies may be created directly by our sites for these purposes, or by third-party companies operating on our behalf. However, our cookies do not contain any information that is, in itself, personally identifying. Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. You need not have cookies turned on to visit our sites, though cookies may be required in order for you to participate in certain areas. If you choose to become a member of a Ziff Davis Enterprise web site, you must have cookies enabled to access any member related pages (i.e. Discussion Boards, Member Profile pages, Search for a Member).
+Your “ **IP Address** ” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). 
 
-Most web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.
+**How We Log IP Addresses**
 
-  * **Pixel Tags**
+An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. 
 
-Like many web sites, Ziff Davis Enterprise may also use pixel tags, also known as beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies, for the same purpose. You can disable pixel tags by changing your browser settings to omit images and disable Javascript; or there are commercial software packages available that can omit pixel tags and most advertisements.
+**How We Use and Disclose IP Addresses?  **
 
-  * **Online Ad Serving**
+We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, geographic mapping and administering the Site. We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law. 
 
-Ziff Davis Enterprise uses Doubleclick, a third-party advertising service company, to serve advertisements when you visit our sites. This company may use information (not including your name, address, e-mail address, telephone number, or any other information you've provided us) about your visits to our and other web sites in order to provide advertisements about goods and services of interest to you. For this purpose, Doubleclick uses cookies and may use pixel tags (also called clear gifs, spotlight tags and beacons) For more information about Doubleclick's information collection practices, and to know your choices about not having this information used by Doubleclick, click [_here_](http://www.doubleclick.com/privacy/index.aspx).
+**THIRD PARTY SITES**
 
-Several companies provide email deployment services for our email messages. The personally identifiable information, such as e-mail address, we provide to these vendors for the purposes of e-mail deployment is only used by them for that purpose and not for any other business activity.
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link or a widget on our site. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates. We may also utilize framing techniques that may make it appear that you are still on the site when you are actually on a third party web site.
 
-Some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. Often, these third-party advertising companies employ cookie and pixel tag technologies to measure the effectiveness of Web and e-mail advertisements. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. For more information about the privacy policies of the third-party advertising providers including information on how to opt out of their tracking methods, click [_here_](http://www.doubleclick.com/privacy/index.aspx).
+**Third Party VENDORS**
 
-  * **Ziff Davis Enterprise eSeminars**
+We also work with vendors and partners in operating and improving the Site. These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies. These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites. You can opt out of some of our vendors' use of cookies and other technologies, some of which may be on this Site, to tailor personalized content or advertising to you by visiting [http://networkadvertising.org/optout_nonppii.asp](http://networkadvertising.org/optout_nonppii.asp), [http://assets.invitemedia.com/opt-out.html](http://assets.invitemedia.com/opt-out.html)and[http://www.clicktale.net/disable.html](http://www.clicktale.net/disable.html). Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again. For more information, see  [http://www.networkadvertising.org/managing/faqs.asp#question_11](http://www.networkadvertising.org/managing/faqs.asp#question_11) and http://www.doubleclick.com/privacy/index.aspx.
 
-Ziff Davis Enterprise eSeminars produces and hosts sponsored webcasts and online trade shows for a variety of companies (Sponsors). All data collected during the registration for such events will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Similarly, Ziff Davis Enterprise eSeminars will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Ziff Davis Enterprise uses the data. For details on how eSeminar Sponsors use the information you provide, please contact the Sponsor directly.
+.
 
-Ziff Davis Enterprise eSeminars also automatically receives and records information on our server logs from your browser, including your IP address, Internet connection speed, Internet connection duration, and Real Media and Windows Media player information. This is done in conjunction with our broadcast provider, ON24, Inc. Your data is collected and retained by ON24 for the sole purposes of delivering eSeminars content appropriately, traffic reporting, and enabling re-registration for future events. In addition, ON24 uses cookie technology to identify you as a registered user of the eSeminars service. If you have any questions, please contact [_eSeminars@ziffdavisenterprise.com_](mailto:eseminars@ziffdavisenterprise.com).
+PLEASE NOTE THAT WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS AND/OR OMISSIONS OF THIRD PARTY VENDORS. 
 
-  * **Ziff Davis Enterprise Events**
+**REDIRECTED URLS**
 
-Ziff Davis Enterprise Events are produced for a variety of companies (Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Similarly, Ziff Davis Enterprise events will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Ziff Davis Enterprise uses the data. For details on how event Sponsors use the information you provide, please contact the Sponsor directly. If you have any questions, please contact [_events@ziffdavisenterprise.com_](mailto:events@ziffdavisenterprise.com).
+We use redirected URLs to keep track of web traffic generated by links in our e-mail reports. Redirected URLs route subscribers to Web sites after recording who they are and the links they click. This information helps us further personalize the information we provide subscribers by sending them special editions of newsletter and other content. 
 
-  * **Ziff Davis Enterprise Web Buyer's Guide**
+**security**
 
-The Ziff Davis Enterprise Web Buyer's Guide hosts sponsored product and content listings for a variety of companies (Sponsors). If you view one or more product or content listings supplied by a Web Buyer's Guide Sponsor, all data collected during Web Buyer's Guide registration and/or Ziff Davis Enterprise Web site registration will be shared with the Sponsor. When shared, this data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Similarly, Ziff Davis Enterprise will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Ziff Davis Enterprise uses the data. For details on how Sponsors use the information you provide, please contact the Sponsor directly. If you have any questions, please contact [_WebBuyersGuide@ziffdavisenterprise.com_](mailto:WebBuyersGuide@ziffdavisenterprise.com).
+We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the _“Contacting Us”_ section below.
 
-  * **Contests and Sweepstakes**
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number and personal health information) on our forms, we encrypt that information once it is entered.
 
-Ziff Davis Enterprise publications and Web sites periodically conduct contests and sweepstakes. If you choose to enter, the data you provide will be subject to the official rules of the specific contest, as well as this privacy policy. Please read the contest rules carefully before you submit your data.
+**CHOICES AND ACCESS**
 
-  * **Co-Branded Sites and Services**
+**Your choices regarding our use and disclosure of your Personal Information  **
 
-When you use a co-branded service within our network of sites, or register or otherwise provide information on a co-branded site, you grant us permission to pass the information collected back to that service or site partner. Their use of your information is subject to their applicable privacy policies.
+We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
 
+  * **Receiving electronic communications from us and our affiliates** : If you no longer want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking [here](https://www.enterprise-secure-registration.com/index.php) and following the instructions to unsubscribe.    
 
 
+  * **Our sharing of your Personal Information with unaffiliated third parties** : If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at as further explained in “How you can access, change or suppress your Personal Information” below and requesting that we suppress all of your Personal Information on a going-forward basis. Please note that if you opt-out of such sharing, we will not be able to remove your Personal Information from the databases of third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request). If you wish to cease receiving marketing-related e-mails from these third parties, please contact them directly or utilize any opt-out mechanisms in their privacy policies or marketing-related e-mails.
 
-**Changing Your Privacy Options**
 
-  * **Updating Your Registration Information**
 
-You can correct or change the information collected during site registration at any time at the profile page links shown above, or, for eSeminars and Events, by sending email to the addresses shown above.
+We will seek to comply with your request(s) as soon as reasonably practicable. Please note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
 
-  * **Updating Your Newsletter Subscriptions**
+**How you can access, change or suppress your Personal Information**
 
-You can opt-in to newsletter mailing lists, or remove yourself at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect.
+If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by clicking [here](https://www.enterprise-secure-registration.com/index.php). For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request.
 
-  * **Updating Your Print Subscription Information**
+In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable. 
 
-You can correct or change your print subscription information at:
+**DATA RETENTION PERIOD**
 
-    * eWEEK: [_http://www.omeda.com/custsrv/ewk/_](http://www.omeda.com/custsrv/ewk/)
-    * Baseline: [_http://www.omeda.com/custsrv/bsl/_](http://www.omeda.com/custsrv/bsl/)
-    * CIO Insight: [_http://www.omeda.com/custsrv/ist/_](http://www.omeda.com/custsrv/ist/)
+We will retain your Personal Information for as long as your account is active or as needed to provide you services and for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law. If you wish to request that we no longer use your information, please follow the instructions above. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
+**use of site by MINORS**
 
+The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site. 
 
-**Security**
+**CROSS-BORDER TRANSFER**
 
-We use reasonable precautions to keep the personal information you disclose to our magazines and websites secure and to only release this information to third parties we believe share our commitment to privacy. However, we are not responsible for any breach of security or for the actions of these parties.
+Your Personal Information may be stored and processed in any country where we have facilities, and by providing any PII to us, you consent to the transfer of such Personal Information to countries outside of your country of residence, including the United States, which may have different data protection rules from your country of residence.
 
-**Children**
+**SENSITIVE INFORMATION**
 
-Ziff Davis Enterprise Web sites are not intended for use by children, especially those under 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums, and chats. Minors under the age of 18 are prohibited from making purchases, including subscriptions, on our sites. If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
+we ask that you not send us, and you not disclose, any sensitive Personal Information ( _e.g._ , Social Security number, driver’s license number, credit card number (unless necessary to make a purchase), information related to racial or ethnic origin, political opinions, religion or other beliefs, criminal background or trade union membership) on or through the Site or otherwise to us.
 
-Changes to the Ziff Davis Enterprise Privacy Policy This Privacy Policy may be modified from time to time. Any modifications to our privacy policy will be reflected first on this page, so check back often. If there is a significant change, we will indicate on our sites that our privacy policy has changed and provide a link to the new policy.
+**YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**Questions?**
+  
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. If you are a California resident you may request this information by writing to us at the address below. QuinStreet, Inc. is not obligated to respond to more than one such request from you per calendar year.
 
-If you have any questions on our Privacy Policy, you can contact us at [_site.feedback@ziffdavisenterprise.com_](mailto:site.feedback@ziffdavisenterprise.com).
+**UPDATES TO THIS PRIVACY POLICY**
+
+We may change this Privacy Policy. Please take a look at the “ _Last Updated_ ” legend at the top of this page to see when this Privacy Policy was last revised. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our home page. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
+
+**CONTACTING US**
+
+If you have any questions about this Privacy Policy, please contact us by email at [info@quinstreet.com](mailto:info@quinstreet.com), or please write to the following address:
+
+Privacy
+
+QuinStreet
+
+950 Tower Lane, 6th Floor
+
+Foster City, CA 94404 
