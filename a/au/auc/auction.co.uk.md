@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auction.co.uk privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223004214id_/http%3A//www.allsop.co.uk/253) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auction.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622064420id_/http%3A//www.allsop.co.uk/253) for the most accurate reproduction.*
 
 # Allsop - Privacy Policy
 
@@ -10,7 +10,7 @@ You can access our Web site home page and browse most of our site without disclo
 
 #### **Automatic collection of information**
 
-We use cookies for the sole purpose of the technical operation of some areas of our website. We do not use cookies to collect personally identifying information. 
+We use cookies to improve your user experience and for the purpose of the technical operation of some areas of our website. We do not use cookies to collect personally identifying information. 
 
 If you prefer not allow the use of cookies, you can change the configuration of your browser to either warn you when you receive a cookie, or to automatically reject them. You may find, however, that disabling cookies means certain areas of the site do not function correctly. 
 
@@ -39,7 +39,7 @@ All our employees and data processors that have access to, and are associated wi
 
 #### **Access to the personal data we may hold about you  **
 
-You are entitled by law to request a copy of any personal data we hold about you. If you would like to know whether we hold personal information about you, or to request a copy, you can ask us by emailing [info@allsop.co.uk](mailto:info@allsop.co.uk).  We will provide you with a readable copy of the personal data that we keep about you within a week. To enable us to release any data, we may require proof of your identity. We will provide the information without any charge. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
+You are entitled by law to request a copy of any personal data we hold about you. If you would like to know whether we hold personal information about you, or to request a copy, you can ask us by emailing [wayne.taylor@allsop.co.uk](mailto:info@allsop.co.uk)  We will provide you with a readable copy of the personal data that we keep about you within a week. To enable us to release any data, we may require proof of your identity. We will provide the information without any charge. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
 
 • Completed   
 • Rectified or amended   
