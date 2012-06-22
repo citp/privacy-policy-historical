@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimategamecard.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231090705id_/http%3A//ultimategamecard.playspan.com/content/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimategamecard.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622031511id_/http%3A//www.ultimategamecard.com/content/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Ultimate Game Card
 
