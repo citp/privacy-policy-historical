@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jinni.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213234307id_/http%3A//www.jinni.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinni.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623003805id_/http%3A//www.jinni.com/privacy.html) for the most accurate reproduction.*
 
 # Find movies, TV shows matching your taste and watch online
 
 Jinni Media Ltd. ("Jinni") respects your privacy and is fully committed to protecting the personal information that you share with us. The guidelines contained herein (the "Privacy Policy") explain the information we collect and what we use it for. We hope this straightforward explanation will allay your concerns.
 
-By using the Website and Service (as these terms are defined in the [Terms of Use](https://web.archive.org/web/20111213234307id_/http%3A//www.jinni.com/terms.html)) you agree to this Privacy Policy. If you do not agree with our practices please do not enter or use our Website and the Service.
+By using the Website and Service (as these terms are defined in the [Terms of Use](https://web.archive.org/web/20120623003805id_/http%3A//www.jinni.com/terms.html)) you agree to this Privacy Policy. If you do not agree with our practices please do not enter or use our Website and the Service.
 
 When you register on the Website, you voluntarily submit certain personally identifiable information, such as your name and email address, for the purpose of creating an account associated with a registered user ("Member") of the Website and for using the Service. Jinni may require additional personal information in order to provide you with additional features you may be interested in. For example, your location is needed to tell you which movies are on TV or in theaters near you. If you take the Movie Personality Quiz to tell us about your viewing preferences, we can offer you tailored features like recommendations and taste matches with other users. Jinni will store the personal information for the sole purpose of providing you with the Services of your choice. You can always change the information in your account in the manner detailed in this Privacy Policy.
 
