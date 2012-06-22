@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipodtouchtricks.net privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230050712id_/http%3A//ipodtouchtricks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipodtouchtricks.net privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622134007id_/http%3A//ipodtouchtricks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iPod Touch Tricks
 
@@ -21,10 +21,3 @@ Note that you can change your browser settings to disable cookies if you have pr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to site@ipodtouchtricks.net for further clarification.
-
-#### iPod Touch Search Tags
-
-  * ipod touch privacy
-  * ipod touch cookies
-
-
