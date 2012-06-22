@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allconnect.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125110214id_/http%3A//advisor.allconnect.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allconnect.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622150219id_/http%3A//www.allconnect.com/corporate/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | AllConnect.com
 
 Allconnect seeks to safeguard your privacy whether you are just browsing our website at [www.allconnect.com](http://www.allconnect.com/) or Allconnect.com (the "website") or selecting products and services through our website (the "Services"). We are committed to protecting your information and this privacy policy outlines the limited manner in which we will use your information to provide you Services. website or using our Services, you consent to let us gather and use your information as set forth in our policy then in effect at the time of our use of your information.
 
@@ -45,7 +45,7 @@ Finally, our website may provide links to third party websites. If you enter a t
 
 We employ [or our third party analytics partner employs] a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us provide a better user experience by continually learning and adjusting to what our visitors find useful. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. This allows us to see which pages are most visited on our site, so we can continue to provide useful content to our visitors. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. Clear gifs are strictly a means to learn more about which pages our customers find effective and which pages are not offering a good user experience.
 
-To learn more about our advertising company's use of clear gifs, please go to [NAME OF ADVERTISER’S SITE.]
+To learn more about our advertising company's use of clear gifs, please go to [NAME OF ADVERTISER?S SITE.]
 
 **What Are Cookies and How Do We Use Them?**
 
