@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swingingheaven.co.uk privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221061008id_/http%3A//www.swingingheaven.co.uk/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingingheaven.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623054202id_/http%3A//www.swingingheaven.co.uk/main/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,6 +6,7 @@
   * [Acceptable Use Policy](https://web.archive.org/main/aup.html)
   * [Privacy Policy](https://web.archive.org/main/privacy.html)
   * [Webmasters](https://web.archive.org/main/webmasters.html)
+  * [Cookies](https://web.archive.org/main/cookies.html)
 
 
 
