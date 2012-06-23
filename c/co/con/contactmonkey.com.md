@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the contactmonkey.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225032508id_/http%3A//contactmonkey.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactmonkey.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623220917id_/http%3A//contactmonkey.com/home/privacy) for the most accurate reproduction.*
 
-# ContactMonkey
+# ContactMonkey | Privacy Policy
+
+## Privacy Policy
 
 Your privacy is very important to us. We strive to ensure the privacy of everyone who visits this site. This privacy policy sets out what information we track and how we use it. By using this site, you consent to the collection of information in accordance with the terms of this privacy policy.
 
