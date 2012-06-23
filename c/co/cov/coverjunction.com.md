@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coverjunction.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204032445id_/http%3A//coverjunction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coverjunction.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623042910id_/http%3A//coverjunction.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - CoverJunction | CoverJunction
+# Privacy Policy - CoverJunction Facebook Covers
 
 This privacy policy sets out how CoverJunction.com uses and protects any information that you give CoverJunction.com when you use this website.
 
