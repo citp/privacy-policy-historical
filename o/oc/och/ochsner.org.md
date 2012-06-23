@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130091135id_/http%3A//www.ochsner.org/misc/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623181824id_/http%3A//www.ochsner.org/misc/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ochsner Health System | New Orleans, LA
 
