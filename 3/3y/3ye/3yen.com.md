@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3yen.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224133442id_/http%3A//www.3yen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3yen.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623204615id_/http%3A//www.3yen.com/privacy) for the most accurate reproduction.*
 
 # News on Japan – 3Yen – Privacy Policy
 
@@ -43,6 +43,6 @@ GOOGLE ADSENSE
 \- Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to this website.  
 \- Google’s use of the DART cookie enables it and its partners to serve ads to this site’s users based on their visit to this sites and/or other sites on the Internet.  
 \- Users may opt out of the use of the DART cookie by visiting [the advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can visit the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)  
-\- Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20111224133442id_/http://www.3yen.com/privacy/www.networkadvertising.org/managing/opt_out.asp). 
+\- Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20120623204615id_/http://www.3yen.com/privacy/www.networkadvertising.org/managing/opt_out.asp). 
 
 3Yen.com may update this policy in the future.
