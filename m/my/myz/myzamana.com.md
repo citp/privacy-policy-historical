@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myzamana.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101161824id_/http%3A//myzamana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzamana.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623044942id_/http%3A//myzamana.com/privacy) for the most accurate reproduction.*
 
 # myZamana - Privacy Policy
 
 Hello,
 
-We're committed to your privacy and safety. With regard to your information, you own all of it and we will not share or sell it to any third-party. If there any concerns or questions you may have please [send us an email](mailto:help@myZamana.com). 
+We're committed to your privacy and safety. With regard to your information, you own all of it and we will not share or sell it to any third-party. If there any concerns or questions you may have please [contact](http://myzamana.com/contact) our support staff with any questions. 
 
 Best Regards,  
 myZamana team 
