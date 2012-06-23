@@ -1,94 +1,128 @@
-> *The following text is extracted and transformed from the massivepassivesoftware.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227110205id_/http%3A//www.mcreamarketing.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massivepassivesoftware.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623201128id_/http%3A//backstagepassprofits.com/pages/PRIVACY.html) for the most accurate reproduction.*
 
-# Privacy - McRea Marketing Concepts
+# Backstage Pass Profits with Mick Moore and Bill McRea - PRIVACY
 
-### Privacy Policy  
-   
+**PRIVACY POLICY  
+IMPORTANT - PLEASE READ**
 
+This Privacy Policy describes the terms of our commitment to your privacy.
 
-We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
+PERSONS OR PARTIES COVERED This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy. Subscribers to lists or Newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this website are called "Members" herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract. The website, its agents, owners, operators, and employees are referred to collectively herein as "Website," "Site," and/or "Seller".
 
-**We recognize the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
+PERSONS EXCLUDED FROM THIS WEBSITE ARE STILL COVERED
 
-**What Information Do We Collect?** **  
-**When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+In the event that a person excluded from this website because of the Terms of Use or from denial of service by the website, who nonetheless unlawfully views this site, that person remains subject to the terms of this Privacy Policy and is in violation of the Terms of Use.
 
-**1\. Personal Information You Choose to Provide**
+PERSONS UNDER 18 YEARS OF AGE ARE EXCLUDED FROM THIS WEBSITE
 
-**Registration Information**  
-When you register for any of our products, services or newsletters you will provide us information about yourself.
+This website is not lawfully accessible to persons under the age of 18 or who are otherwise covered by the provisions of the Child Online Privacy Act of 1998 (COPA). If you are under the age of 18 you must leave this site immediately. Fraudulent use of this website may make you subject to civil or criminal sanctions.
 
-**Credit Card Information**  
-If you choose to avail of our services, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information:  
--Name  
--Mailing address  
--Email address  
--Credit card number
+VIEWING AND/OR USE AND/OR COMMUNICATION IS CONSTRUED AS ACCEPTANCE OF THE TERMS OF THIS POLICY
 
--Name on credit card
+Acceptance of the terms of this Privacy Policy is a portion of the consideration required for your right to visit the website. If you do not accept these terms, you have no right to visit this site and you are fraudulently using this site.
 
--Credit card billing address  
--Business and home phone number
+A NOTE TO CALIFORNIA RESIDENTS (ONLINE PRIVACY PROTECTION ACT OF 2003 --OPPA)
 
-**Email Information**  
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
+It is the intent of the Privacy Policy to comply with the California Act. Various provisions throughout this Privacy Policy address requirements of the act. In summary, you must presume that we collect electronic information from all visitors. This is not usually personally identifiable. If you purchase a product or service via this website (and thereby become covered by the Act), the purchase agreement you electronically sign prior to purchase allows the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties. There is no way you can modify this information and you have no right to do so. Under the terms of the purchase agreement, you have no right to view or receive any information about our database. In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in insure that the website is releasing information to the correct party. Other provisions of the OPPA may exempt this website from complying. While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information. (You should know that merchant service providers do not allow us access to your credit card information.) This Privacy Policy also is subject to change without notice. You are required to read it prior to using the website. By interacting with the website you agree to the terms and conditions of the Privacy Policy. By using the website or purchasing a product through this website, you waive the right to use state or federal court systems to address complaints and, instead, agree to use the American Arbitration Association located in a city and county specified herein.
 
-  
-**2\. Web Site Use Information**  
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
+ABOUT THE PERSONAL INFORMATION THIS WEBSITE COLLECTS AND HOW IT IS USED
 
-**How Do We Use the Information That You Provide to Us?**
+This website routinely collects information about its visitors, subscribers, members, and customers. This information is obtained in various ways, such as:
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, , to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
+VISITOR, SUBSCRIBER, MEMBER, OR CUSTOMER INFORMATION OBTAINED FROM 'REGISTRATION'
 
-Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law.
+Registration means that the Visitor, Subscriber, Member or Customer takes active, positive steps to communicate information to this website. This can include pages or 'pop ups' where you register for a newsletter or subscribe to a mailing list; it can include your participation in visitor surveys; it can include requesting information from the website via email, mail, or courier; it may be from joining an affiliate program or other membership organization, paid or unpaid; it may be from ordering a product.
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
+Occasionally complete credit card information may be provided to the website via fax or a fill-in form rather than regular secure merchant service processing. This information is kept at the highest level of security and is never divulged to anyone except the merchant service provider or for the purpose of communication with the customer.
 
-**What Are Cookies?**  
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. **A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.**
+ONLINE ORDERING
 
-**How Do We Use Information We Collect from Cookies?**  
-As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
+Online ordering via SSL encrypted communication provided by shopping cart services supporting merchant service companies like Visa and Master Card provides information to the website but does not provide complete credit card numbers. In the process of online ordering, the customer provides, name, address, city, state, email address, phone number, CVV2 (back of card) number, and, occasionally a member password. You should consider all this information available to the website. This information is used to deliver the product, but under the Purchase Agreement you also approve its use for general solicitation purposes.
 
-**IP Addresses**  
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.
+VISITOR EMAIL INQUIRIES
 
-**Sharing and Selling Information**  
-We **do not** share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
+Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any ?submission? provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website's general solicitation database.
 
-**How Can You Access and Correct Your Information?**  
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
+CUSTOMER EMAIL OR TESTIMONIALS
 
-**What About Legally Compelled Disclosure of Information?  
-** We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
+If you are a customer and send an email to the website, or if you communicate with the site by phone or mail, the website collects information about your communication and by communicating with the site you give your permission to collect, archive, retrieve, and otherwise use any information collected as the site sees fit.
 
-**What About Other Web Sites Linked to Our Web Site?**  
-We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
+Any communication which, in its sole discretion, the site deems to be a testimonial, may be publicized for commercial purposes.
 
-Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+INFORMATION OBTAINED FROM VISITOR INTERACTION WITH BANNERS, POPUPS, OR SITE ADVERTISERS
 
-**Your Consent**  
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
+Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that ?cookies? will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
 
-_**Our Commitment To Data Security:**_
+INFORMATION OBTAINED FROM REFERRING EMAIL OR REFERRING URLS
 
-Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+If you send a friend an email from this site or if you send the url or one of our web pages to a friend, you must assume that some data is collected about your IP address or your email address and that of your friend. You must assume that referred emails or web pages may appear to come from your email. You must accept fully responsibility for referring pages or email to a friend and agree to indemnify this site for any damage, intentional or unintentional that results from said referrals.
 
-**Choice/Opt-In/Opt-Out  
-** This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
+INFORMATION OBTAINED FROM VOLUNTARY VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER SURVEYS
 
-**Surveys & Contests**
+Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used for general solicitation for commercial purposes and that such information will be shared with joint venture partners, affiliates, marketing organization or used by the site itself for product design or solicitation purposes.
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+INFORMATION OBTAINED FROM ELECTRONIC MEANS AND 'COOKIES'
 
-**A Special Note About Children**
+Many websites, including this one, collect information about your computer, your email address, your IP address. You must assume that your web-viewing or web-use activity is monitored, tracked, and information collected. This information is not usually of a personal nature, but it may help define your viewing habits and product preferences even though the website may or may not have any idea who you are.
 
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
+"Cookies" is web jargon for bits of computer code placed on your hard drive. Websites use this to keep you 'logged in', to keep track of search criteria, to monitor use, to password protect use of the site or use of products sold by the site. Cookies can also be used to obtain information about your computer configuration or your use of your computer.
 
-**Acquisition or Changes in Ownership**
+Cookies can be used to electronically gather information about you. Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use 'cookies' and to use the information gathered from their use to benefit you. You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
 
-In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
+HOW INFORMATION MAY BE USED
 
-**Policy Modifications  
-** We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+The use of information as described below may or may not be how information that is collected is customarily used by this site. While actual use of any information collected may be used quite conservatively, you must assume that it is not. You must assume that information collected is shared with other persons or entities for commercial purposes. While this is uncommon in practice, you must assume that it is as you make your decision whether or not to view or interact with this website. This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information. This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with.
+
+INFORMATION THAT IS NOT SHARED
+
+Credit card information or other financial information is not usually known to the website. However, in the event that it is made known, that information is never revealed to anyone except to processing authorities or law enforcement agencies. However, the provider of such information gives express permission to use it in fraud investigation or for litigation.
+
+BULLETIN BOARDS AND PUBLIC FORUMS
+
+Visitors, subscribers, members, or customers who use any site provided bulletin boards or other public forums, such as chat rooms, do so at their own risk. You may not assume that the site monitors these services or protects you in any manner from information you post publicly or share with anyone else via these services.
+
+SPAM
+
+By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations. However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
+
+DATA SECURITY
+
+This website takes measures to protect its data that contains information related to you. However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration, or misuse of information. You must assume that it is possible for your personal data to be obtained by others, such as "hackers," and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you.
+
+QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS
+
+You may direct questions, comments or reports to:  
+[support@quickstartexpert.com](mailto:support@quickstartexpert.com)
+
+REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
+
+This Privacy Policy is dynamic. It will continually change. You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes. Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification. Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.
+
+LATEST UPDATE
+
+This Privacy Policy was last updated on: March, 10th 2008
+
+COPYRIGHT
+
+This Privacy Policy is used under license. The copyright is owned by Pacifica Marketing Group, Inc.
+
+DISPUTES
+
+As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy ("CLAIM") of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues.
+
+Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605. Hearing will take place in the city or county of the Seller.
+
+In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator's decision will final and binding with limited rights of appeal.
+
+The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, travel expenses.
+
+JURISDICTION AND VENUE
+
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
+
+APPLICABLE LAW
+
+Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).
+
+COPYRIGHT AND LICENSE  
+This "Privacy Policy" is copyrighted © 2011 by Pacifica Marketing Group, Inc., and is fully licensed for use by this website. If you wish to lawfully use this Terms of Use on your website, contact [support@quickstartexpert.com](mailto:support@quickstartexpert.com) for licensing information or this website
