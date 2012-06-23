@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partycheap.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224248id_/http%3A//www.partycheap.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partycheap.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623211734id_/http%3A//www.partycheap.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -59,7 +59,7 @@ We welcome your questions, comments, and concerns about privacy. Please send us 
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20111231224248id_/http%3A//www.partycheap.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20120623211734id_/http%3A//www.partycheap.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
