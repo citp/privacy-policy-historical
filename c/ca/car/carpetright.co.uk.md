@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the carpetright.co.uk privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205110955id_/http%3A//www.carpetright.co.uk/about-cr/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpetright.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623024902id_/http%3A//www.carpetright.co.uk/about-cr/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 At Carpetright plc we are dedicated to safeguarding and preserving your privacy when visiting our site [www.carpetright.co.uk](http://www.carpetright.co.uk/) or communicating electronically with us.  This Privacy Policy, together with our [Terms and Conditions](https://web.archive.org/customer-service/terms-conditions.html), provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.  We do update this Policy from time to time so please review it regularly.
 
   * Information We Collect
-  * Use of Cookies
   * Use of Your Information
   * Storing Your Personal Data
   * Disclosing Your Information
@@ -24,18 +23,6 @@ In operating our website we may collect and process the following data about you
   * Information provided to us when you communicate with us for any reason
 
 
-
-##  **Use of Cookies**
-
-On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers.
-
-Such information will not identify you personally, it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
-
-Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies and contains information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you.
-
-All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
-
-Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
 
 ##  **Use of Your Information**
 
