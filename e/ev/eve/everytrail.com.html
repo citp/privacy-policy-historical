@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the everytrail.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102013352id_/http%3A//www.everytrail.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the everytrail.com privacy policy that was archived on 2012-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623233414id_/http%3A//www.everytrail.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 		<title>EveryTrail - Travel Community, iPhone Guides for Sightseeing, Hiking, Walking Tours and more | EveryTrail</title>
@@ -8,10 +8,11 @@
 		
 						<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="verify-v1" content="W5xIH9m5KmP1MZryxMP+s6YYSLun/F3lw+qR06K8L4E=">
+		<meta name="google-site-verification" content="APo5ej5iI-1b1P7xWkcvjXlnHOE7A-GRMPIkqCrGLlI">
 		<meta name="msvalidate.01" content="5C71BA84BF72F5471F0AAA6649005271">
 		<link rel="icon" type="image/png" href="/images/favicon.png">
 		<link rel="SHORTCUT ICON" type="image/png" href="/images/favicon.png">
-		<link href="/css/combine.css.php?c=index&amp;a=privacy&amp;v=5.1.9" media="screen" rel="stylesheet" type="text/css">
+		<link href="/css/combine.css.php?c=index&amp;a=privacy&amp;v=5.4.7" media="screen" rel="stylesheet" type="text/css">
 <link href="/rss.php?order=recent_popularity" rel="alternate" type="application/rss+xml" title="EveryTrail recently popular trips feed">	
 															<link rel="alternate" hreflang="en" href="http://www.everytrail.com/privacy.php">
 											<link rel="alternate" hreflang="de" href="http://de.everytrail.com/privacy.php">
@@ -127,7 +128,6 @@
 	<div style="margin:0px 0px 20px;">
 		<div class="header-top-links" style="float:none">
 			
-						
 			<div class="right">
 									<a href="/login.php">Login</a> | 
 					<a href="/signup.php">Signup</a>
@@ -141,8 +141,12 @@
 
 			
 			<div class="clear"></div>
-		</div>			
+		</div>		
+		
+			
 	</div>
+	
+	
 	<div class="clear"></div>
 </div>
 <div class="clear"></div>
@@ -238,7 +242,7 @@ We limit access to personal information about you to employees who we believe re
 	<a href="http://twitter.com/everytrail">Follow EveryTrail on Twitter <img style="vertical-align: middle;" border="0" class="icon-twitter" src="/images/img_trans.gif" width="16" height="=&quot;16&quot;"></a> | 
 	<a href="http://www.facebook.com/pages/everytrail/224815527194">Become a fan on Facebook <img style="vertical-align: middle;" border="0" class="icon-facebook" src="/images/img_trans.gif" width="16" height="16"></a>
 	<br>
-	<span class="et-footer-span">Copyright © 2011 <a href="http://www.globalmotion.com">GlobalMotion Media Inc.</a></span>
+	<span class="et-footer-span">Copyright © 2012 <a href="http://www.globalmotion.com">GlobalMotion Media Inc.</a></span>
 	
 	<br>
 Language: 
@@ -248,10 +252,18 @@ Language:
 		 | 			<a href="http://nl.everytrail.com/privacy.php">Nederlands</a>
 		
 	<br><br>
-</div>
+	</div>
 </div>
 
-<script type="text/javascript" src="/js/generate.js.php?c=index&amp;a=privacy&amp;v=5.1.9"></script>
+
+
+<script type="text/javascript">
+	var units = "english";
+	
+			var currentLocation = null;
+	</script>
+
+<script type="text/javascript" src="/js/generate.js.php?c=index&amp;a=privacy&amp;v=5.4.7"></script>
 
 
 <!-- Start Quantcast tag -->
@@ -266,7 +278,7 @@ Language:
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-194441-2']);
-  _gaq.push(['_trackPageview']);
+	  _gaq.push(['_trackPageview']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -301,36 +313,41 @@ Language:
 
 
 
-<script type="text/javascript">
-	var units = "english";
-</script>
+
 
 <iframe id="fb-iframe" style="display:none"></iframe>
 <script>
+	var attemptedLogin = false;
   window.fbAsyncInit = function() {
+		
 	
-	    	FB.init({appId: 'bf99f1b50f2f5e3f79c19c56ce3cba65', status: true, cookie: true,
-             xfbml: true});
+	    	FB.init({appId: '3119980345', cookie: true, xfbml: true, oauth: true});
+
+
 	
 						FB.Event.subscribe('auth.sessionChange', function(response) {
 			    if (response.session) {
 			      // A user has logged in, and a new cookie has been saved
-					fbConnectLogin();
+					delayLogin();
 			    } 
 			  });
 
 			FB.Event.subscribe('auth.statusChange', function(response) {
 			    if (response.session) {
-			      // A user has logged in, and a new cookie has been saved
-					fbConnectLogin();
+
+			      // A user has logged in, and a new cookie has been saveD
+					delayLogin();
 			    }
 			  });
 			
 				FB.Event.subscribe('auth.login', function(response) {
-					fbConnectLogin();
+					
+					delayLogin();
 				});
 			
   };
+
+
   (function() {
     var e = document.createElement('script'); e.async = true;
     e.src = document.location.protocol +
@@ -339,8 +356,14 @@ Language:
   }());
 
 
+	function delayLogin() {
+		setTimeout("fbConnectLogin()",1000);
+	}
 
 	function fbConnectLogin() {
+		if(attemptedLogin) return; // don't call this multiple times in a row
+		attemptedLogin = true;
+		
 					var iframe = document.getElementById("fb-iframe");
 			if(iframe) {
 				iframe.src = "/user/login-lightbox?promptLightbox=true";
