@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the shopmarriott.com privacy policy that was archived on 2011-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616213249id_/http%3A//www.shopmarriott.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopmarriott.com privacy policy that was archived on 2012-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623115257id_/http%3A//www.shopmarriott.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 		<meta content="C#" name="CODE_LANGUAGE">
 		<meta content="JavaScript" name="vs_defaultClientScript">
 		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
-		<script src="js/ctOrderCentral.js" language="javascript"></script>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="js/ctOrderCentral.js" language="javascript"></script>
 		<script src="js/ctAjax.js" language="javascript"></script>
 		 
 <title>Buy Luxury Hotel Bedding from Marriott Hotels</title>
@@ -45,10 +45,13 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script src="js/IE8png.js" type="text/javascript"></script>
 <![endif]-->
 
-<script src="http://www.shopcourtyard.com/js/externalSession.aspx?sessionID=7f7c4aa3-4eef-4fb9-89f1-4e09366554fc"></script><script src="http://www.collectrenaissance.com/js/externalSession.aspx?sessionID=7f7c4aa3-4eef-4fb9-89f1-4e09366554fc"></script>
+<script src="http://www.shopcourtyard.com/js/externalSession.aspx?sessionID=cfd3b290-1aa4-4d94-938a-6cd0b204209c"></script><script src="http://www.collectrenaissance.com/js/externalSession.aspx?sessionID=cfd3b290-1aa4-4d94-938a-6cd0b204209c"></script><script src="http://www.curatedbyjw.com/js/externalSession.aspx?sessionID=cfd3b290-1aa4-4d94-938a-6cd0b204209c"></script>
 
 <!--LIGHTBOX EFFECT-->
+
 <script src="zoom/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+
+
 <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8">
 <script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" charset="utf-8">
@@ -66,7 +69,30 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 </script>
 <!--END LIGHTBOX EFFECT-->
 
+<script language="javascript">
+function getTextBlockEntry(TextBlock)
+{
+	if(TextBlock.toUpperCase() == "SELECTANOPTION")
+	{
+		var TextName = 'Select an Option';
+	} else if(TextBlock.toUpperCase() == "SELECTANOPTIONS")
+	{
+		var TextName = 'You must select all options.';
+	} 
+	else if(TextBlock.toUpperCase() == "MISSINGQUANTITY")
+	{
+		var TextName = 'You must enter a quantity';
+	} else if(TextBlock.toUpperCase() == "ADDTOCARTMESSAGE")
+	{
+		var TextName = 'Just added to your cart:';
+	} else if(TextBlock.toUpperCase() == "MISSINGSEARCHTERM")
+	{
+		var TextName = 'Enter a search term.';
+	}
 
+	return TextName;
+}
+</script>
 <script src="js/common.js" language="javascript"></script>
 <script src="js/bsn.AutoSuggest_2.1.3.js" language="javascript"></script>
 <link href="css/autosuggest_inquisitor.css" rel="stylesheet" type="text/css" media="screen">
@@ -134,13 +160,13 @@ function xmakeShort(){}
         } );
 
 $('#shippingpop').click( function() {
-		jqDialog.alert("<h6>Shipping Information</h6>Most items ship with 24-48hrs. Mattress & boxsprings, lamps and some other items have special shipping lead times and costs. Expedited shipping options are available for some items at checkout. View our <a href='shipping-policies.aspx'>Shipping &amp; Return Policies</a> for more details.",
+		jqDialog.alert("Most items ship with 24-48hrs. Mattress & boxsprings, lamps and some other items have special shipping lead times and costs. Expedited shipping options are available for some items at checkout. View our <a href='shipping-policies.aspx'>Shipping &amp; Return Policies</a> for more details.",
 
 		function() { }
 		);
 	} );
 	$('#redeem').click( function() {
-		jqDialog.confirm("In order to redeem points for a Marriott GiftCard to come back and shop on-line, you will need to leave the ShopMarriott website. <p>Are you sure you want to leave and go to this site?</p>",
+		jqDialog.confirm("REWARDSMEMBERSIGNUPMSG",
 		function() { 
 		var url = "https://www.skymall.com/mr/subdept.htm?sortBy=name&c=102825441";
 		window.open(url);
@@ -149,37 +175,37 @@ $('#shippingpop').click( function() {
 		);
 	} );
 	$('#rewardssignup').click( function() {
-		jqDialog.confirm("In order to sign up to become a Marriott Rewards member, you will need to leave the ShopMarriott website. <p>Are you sure you want to leave and go to this site?</p>",
+		jqDialog.confirm("In order to sign up to become a Marriott Rewards member, you will need to leave this ShopMarriott website. <p>Are you sure you want to leave and go to this site? </p>",
 		function() { 
 		var url = "https://www.marriott.com/rewards/createAccount/createAccountPage1.mi?segmentId=elite.nonrewards";
-		$(location).attr('href',url);
+		window.open(url);
 		},// callback function for 'YES' button
 		function() { }		// callback function for 'NO' button
 		);
 	} );
 
 	$('#bt-confirmql').click( function() {
-		jqDialog.confirm("Marriott GiftCards are available at gifts.marriott.com. In order to purchase a Marriott GiftCard, you will need to leave the ShopMarriott website. <p>Are you sure you want to leave and go to this site?</p>",
+		jqDialog.confirm("Marriott GiftCards are available at gifts.marriott.com. In order to purchase a Marriott GiftCard, you will need to leave the ShopMarriott website. <p>Are you sure you want to leave and go to this site? </p>",
 		function() { 
-		var url = "http://gifts.marriott.com";
+		var url = "http://gifts.marriott.com ";
 		window.open(url);
 		},// callback function for 'YES' button
 		function() { }		// callback function for 'NO' button
 		);
 	} );
 	$('#bt-confirm').click( function() {
-		jqDialog.confirm("Marriott GiftCards are available at gifts.marriott.com. In order to purchase a Marriott GiftCard, you will need to leave the ShopMarriott website. <p>Are you sure you want to leave and go to this site?</p>",
+		jqDialog.confirm("Marriott GiftCards are available at gifts.marriott.com. In order to purchase a Marriott GiftCard, you will need to leave the ShopMarriott website. <p>Are you sure you want to leave and go to this site? </p>",
 		function() { 
-		var url = "http://gifts.marriott.com";
+		var url = "http://gifts.marriott.com ";
 		window.open(url);
 		},// callback function for 'YES' button
 		function() { }		// callback function for 'NO' button
 		);
 	} );
 	$('#bt-confirmfooter').click( function() {
-		jqDialog.confirm("Marriott GiftCards are available at gifts.marriott.com. In order to purchase a Marriott GiftCard, you will need to leave the ShopMarriott website. <p>Are you sure you want to leave and go to this site?</p>",
+		jqDialog.confirm("Marriott GiftCards are available at gifts.marriott.com. In order to purchase a Marriott GiftCard, you will need to leave the ShopMarriott website. <p>Are you sure you want to leave and go to this site? </p>",
 		function() { 
-		var url = "http://gifts.marriott.com";
+		var url = "http://gifts.marriott.com ";
 		window.open(url);
 		},// callback function for 'YES' button
 		function() { }		// callback function for 'NO' button
@@ -213,7 +239,7 @@ $(document).ready(function(){
 /* set start (sY) and finish (fY) heights for the list items */
 
 sY = 15; /* height of li.sub */
-fY = 185; /* height of maximum sub lines * sub line height */
+fY = 198; /* height of maximum sub lines * sub line height */
 /* end CONFIG */
 
 /* open first list item */
@@ -257,12 +283,24 @@ $(this)					.css("background", "#fff url(images/icons/arrows.gif) no-repeat -3px
 
 
 
-  
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32601214-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>  
 	<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=16308863"></script></head>
 <body id="pgHelp">
 <div class="container">
 		<form name="OCForm1" method="post" action="privacypolicy.aspx" id="OCForm1" onsubmit="return false;">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1NDcwNzMyMTdkZIVeoQjlv5x42nIPtdWD/akeMilU">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzMzMjM0MjgwZGSwAVehCT1J0BGfiaihasS26kcvMg==">
 
 			
 			
@@ -397,7 +435,7 @@ function doViewEmailOrderStatus()
 	var tmpEmailAddress = "";
 	var tmpOrderNumber = "";
 	if ((document.getElementById("headerEmailAddress").value) == ""){alert("You must enter a valid email address")}
-	if ((document.getElementById("headerOrderNumber").value) == ""){alert("You must enter a valid order number")}
+	if ((document.getElementById("headerOrderNumber").value) == ""){alert('You must enter a valid order number')}
 
 	try
 	{
@@ -449,9 +487,13 @@ if (state==LPREPSTATEUNKNOWN){
 }
 </script>
 
-
 <!-- BEGIN LivePerson Button Code -->
-<div class="chat" id="livechatstatus0" style="visibility:hidden;display:none"><a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/16308863/?cmd=file&amp;file=visitorWantsToChat&amp;site=16308863&amp;byhref=1&amp;SESSIONVAR!window_look=MAR-US&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat16308863" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/16308863/?cmd=file&amp;file=visitorWantsToChat&amp;site=16308863&amp;SESSIONVAR!window_look=MAR-US&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat16308863','width=475,height=400,resizable=yes');return false;"><span>Chat Live</span></a> | </div><!-- END LivePerson Button code -->
+<li class="chat">
+<div id="lpButDivID-1310390634154"></div>
+<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/16308863/?cmd=mTagRepstate&amp;site=16308863&amp;buttonID=12&amp;divID=lpButDivID-1310390634154&amp;bt=3&amp;c=1"></script>
+<!-- END LivePerson Button code -->
+
+
 
 <!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "16308863",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
 
@@ -462,21 +504,23 @@ lpMTagConfig.pageVar[lpMTagConfig.pageVar.length] = 'PageScope=PageScope';
 </script>
 <!-- End Monitor Tracking Variables  --> 
 
+</li> | 
+
 
 <li class="globalSites"><span><a href="#">International Sites</a></span>
 			<ul>
 			<li class="region">North America</li>
-			<li><a href="http://www.shopmarriott.com">U.S.A</a><span>(English - USD)</span></li>
+			<li><a href="http://www.shopmarriott.com/">U.S.A</a><span>(English - USD)</span></li>
             <li class="region">Europe</li>
-            <li><a href="http://europe.shopmarriott.com/fr">France</a><span> (Français - Euros)</span></li>
-            <li><a href="http://europe.shopmarriott.com/de">Germany</a><span> (Deutsch - Euros)</span></li>
-            <li><a href="http://europe.shopmarriott.com/ir">Ireland</a><span> (English - Euros)</span></li>
-            <li><a href="http://europe.shopmarriott.com/uk">United Kingdom</a><span> (English - GBP)</span></li>
+            <li><a href="http://europe.shopmarriott.com/FR/">France</a><span> (Français - Euros)</span></li>
+            <li><a href="http://europe.shopmarriott.com/DE/">Germany</a><span> (Deutsch - Euros)</span></li>
+            <li><a href="http://europe.shopmarriott.com/IR/">Ireland</a><span> (English - Euros)</span></li>
+            <li><a href="http://europe.shopmarriott.com/UK/">United Kingdom</a><span> (English - GBP)</span></li>
             <li class="region">Middle East</li>
-            <li><a href="http://middleeast.shopmarriott.com">Middle East</a><span> (English - USD)</span></li>
+            <li><a href="http://middleeast.shopmarriott.com/">Middle East</a><span> (English - USD)</span></li>
 			<li class="region">Asia Pacific</li>
-            <li><a href="/asiapacific/index.aspx">Asia Pacific</a><span>(中文 - USD)</span></li>
-            <li><a href="/asiapacific/index-en.aspx">Asia Pacific</a><span>(English - USD)</span></li>
+            <li><a href="http://www.shopmarriott.com/asiapacific/index.aspx">Asia Pacific</a><span>(中文 - USD)</span></li>
+            <li><a href="http://www.shopmarriott.com/asiapacific/index-en.aspx">Asia Pacific</a><span>(English - USD)</span></li>
            	 </ul>
 
          </li>    
@@ -489,39 +533,43 @@ lpMTagConfig.pageVar[lpMTagConfig.pageVar.length] = 'PageScope=PageScope';
 
 <div class="mycart-wrapper right">
 
-<!--<span class="shipping-promo"><a href="shipping-policies.aspx#freeshipping">Free Shipping - Through December 2nd!*</a></em></span>-->
+
+		
 <a href="javascript:cartopen();" id="shoppingcart"><div id="cartvalue"><span id="close"></span></div></a>
 
-<div class="shop-cart"><a class="cart-btn" href="cart.aspx?" id="shoppingcarthover">My Shopping Cart<br>
-<span id="cartSumQty">0 items </span></a>
+  <div class="shop-cart">
+    	<a class="cart-btn" href="cart.aspx?" id="shoppingcarthover">My Shopping Cart<br>
+      	<span id="cartSumQty">
+        	
+      			0 items
+      		
+        </span>
+      </a> 
 
-
-
-<div class="show-cart clear" id="cartSumItems" style="display:none"></div>
-
-	<div class="show-cart clear" id="cartSumItemsMain" style="display:none; z-index:1"><hr>
-	<input class="close right" type="submit" value="close" id="closeshoppingcart" onclick="javascript:cartclose()">
-
-		<div class="drop-shopcart clear">
-			
-			<ul id="no" class="noitems-cart">
-			<li>You have no items in your cart!</li>
-						<li>&nbsp;</li>
-	<li><a href="cart.aspx?">View cart details</a></li>
-	<li><a href="myaccount.aspx">Manage store account</a></li>
-	<li><a href="faq-orders.aspx">Track orders</a></li>
-
-			</ul>
-			
-		</div>
-		<div class="drop-shopcart clear" id="DIVcartSumItemsList">
-			
-			</div>
-			
-
-</div>
-</div>
-</div>
+<div class="show-cart clear" id="cartSumItems" style="display:none"></div> 
+		<div class="show-cart clear" id="cartSumItemsMain" style="display:none; z-index:1">
+      	<hr>
+      	<input class="close right" type="submit" value="close" id="closeshoppingcart" onclick="javascript:cartclose()">
+      	
+	      	<div id="DIVitemHead">
+          	<div class="drop-shopcart clear">
+            	<ul>
+                <li>You have no items in your cart!</li>
+              </ul>
+            </div>
+          </div><!--Head-->
+          <div id="DIVcartSumItemsList" class="drop-shopcart clear"></div><hr>
+          <div id="DIVitembtns">
+          	<ul class="clear">
+              <li><a href="cart.aspx?">View cart details</a></li>
+              <li><a href="myaccount.aspx">Manage store account</a></li>
+              <li><a href="faq-orders.aspx">Track orders</a></li>
+            </ul>
+          </div><!--btns-->
+      	<!--Filled Cart End-->
+      </div><!--cartSumItemsMain End-->        
+    </div>
+  </div><!--mycart-wrapper End-->  
 
 
 
@@ -610,7 +658,10 @@ else if (cat=="kids"){
                 </div><div><dd><a class="item7" href="category.aspx?&amp;category1=BeddingCollection&amp;category1Name=Bedding&amp;category2=EuroShams&amp;category2Name=Euro+Shams&amp;categoryLevel=1">Euro Shams<span></span></a></dd>
                 <dd><a class="item8" href="category.aspx?&amp;category1=BeddingCollection&amp;category1Name=Bedding&amp;category2=DecorativePillows&amp;category2Name=Decorative+Pillows&amp;categoryLevel=1">Decorative Pillows<span></span></a></dd>
                 <dd><a class="item9" href="category.aspx?&amp;category1=BeddingCollection&amp;category1Name=Bedding&amp;category2=BedSkirts&amp;category2Name=Bed+Skirts&amp;categoryLevel=1">Bed Skirts<span></span></a></dd>
-                </div><div><dd><a class="item10" href="category.aspx?&amp;category1=BeddingCollection&amp;category1Name=Bedding&amp;category2=BedScarves&amp;category2Name=Bed+Scarves&amp;categoryLevel=1">Bed Scarves<span></span></a></dd>
+                </div><div><dd><a class="item10" href="productGroup.aspx?&amp;category1=BeddingCollection&amp;category1Name=Bedding&amp;itemID=MAR-176-PR">Floral Breeze Bed Scarf<span></span></a></dd>
+
+                <dd><a class="item11" href="productGroup.aspx?&amp;category1=BeddingCollection&amp;category1Name=Bedding&amp;itemID=MAR-174-BR">Fading Mums Bed Scarf<span></span></a></dd>
+
                 </div>
 </dl></div>
 	</li>
@@ -628,97 +679,211 @@ else if (cat=="kids"){
 
 <li class="active" id="homefurnishings" onmouseover="pinTab('homefurnishings')" onmouseout="removeTab('homefurnishings')"><span><a href="category.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;categoryLevel=0" id="homefurnishingsTab">Home Décor</a></span>
 		<div class="sub-homefurnishings"><dl>
-<div>
-<dd><a class="item1" href="productDetail.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;itemID=MAR-768-ME">Oval Alligator Ottoman<span></span></a></dd>
+<div><dd><a class="item1" href="productGroup.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;itemID=MAR-176-PR">Floral Breeze Bed Scarf<span></span></a></dd>
+
+                <dd><a class="item2" href="productGroup.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;itemID=MAR-174-BR">Fading Mums Bed Scarf<span></span></a></dd>
 
                 
-<dd><a class="item2" href="productDetail.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;itemID=MAR-108-D-CH">Box Throw Pillow<span></span></a></dd>
-
-                <dd><a class="item3" href="category.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;category2=BedScarves1&amp;category2Name=Bed+Scarves&amp;categoryLevel=1">Bed Scarves<span></span></a></dd>
-                </div><div>
-<dd><a class="item4" href="productDetail.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;itemID=MAR-747">Mercury Crackle Desk Lamp<span></span></a></dd>
-
-                
-<dd><a class="item5" href="productDetail.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;itemID=MAR-746">Steel Spindle Floor Lamp<span></span></a></dd>
-
-                
-<dd><a class="item6" href="productDetail.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;itemID=MAR-740">Red Table Lamp<span></span></a></dd>
+<dd><a class="item3" href="productDetail.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;itemID=MAR-747">Mercury Crackle Desk Lamp<span></span></a></dd>
 
                 </div><div>
-<dd><a class="item7" href="productDetail.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;itemID=MAR-742">Glo Lamp<span></span></a></dd>
+<dd><a class="item4" href="productDetail.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;itemID=MAR-746">Steel Spindle Floor Lamp<span></span></a></dd>
+
+                
+<dd><a class="item5" href="productDetail.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;itemID=MAR-740">Red Table Lamp<span></span></a></dd>
+
+                
+<dd><a class="item6" href="productDetail.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;itemID=MAR-742">Glo Lamp<span></span></a></dd>
+
+                </div><div>
+<dd><a class="item7" href="productDetail.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;itemID=MAR-452">Premier Projection Alarm Clock<span></span></a></dd>
 
                 
 <dd><a class="item8" href="productDetail.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;itemID=MAR-454">Projection Alarm Clock<span></span></a></dd>
 
                 <dd><a class="item9" href="category.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;category2=HomeMirrors&amp;category2Name=Minimalist+Vanity+Mirrors&amp;categoryLevel=1">Minimalist Vanity Mirrors<span></span></a></dd>
-                </div><div><dd><a class="item10" href="category.aspx?&amp;category1=HomeFurnishings&amp;category1Name=Home+D%c3%a9cor&amp;category2=ReviveSpaTea&amp;category2Name=White+Lion+Teas&amp;categoryLevel=1">White Lion Teas<span></span></a></dd>
                 </div>
 </dl></div>
 	</li>
 
 <li class="active" id="traveltech" onmouseover="pinTab('traveltech')" onmouseout="removeTab('traveltech')"><span><a href="category.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;categoryLevel=0" id="traveltechTab">Travel</a></span>
 		<div class="sub-traveltech"><dl>
-<div>
-<dd><a class="item1" href="productDetail.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;itemID=MAR-017">YOU CAN’T LEAD WITH YOUR FEET ON THE DESK by Ed Fuller<span></span></a></dd>
+<div><dd><a class="item1" href="productGroup.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;itemID=MAR-013">Hyperspace™ Collection by Samsonite<span></span></a></dd>
 
                 
-<dd><a class="item2" href="productDetail.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;itemID=MAR-016">WATER ALIVE<span></span></a></dd>
+<dd><a class="item2" href="productDetail.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;itemID=MAR-017"><i>You Can't Lead With Your Feet On The Desk</i> by Ed Fuller<span></span></a></dd>
 
                 <dd><a class="item3" href="productGroup.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;itemID=MAR-416">CliC Sunglasses<span></span></a></dd>
 
-                </div><div><dd><a class="item4" href="productGroup.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;itemID=MAR-556">Travel Blanket Critters<span></span></a></dd>
-
-                <dd><a class="item5" href="productGroup.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;itemID=MAR-775">Zero-Effort Spinner Luggage<span></span></a></dd>
-
-                
-<dd><a class="item6" href="productDetail.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;itemID=MAR-526-BK">Chill Pill Mobile Speakers<span></span></a></dd>
-
                 </div><div>
-<dd><a class="item7" href="productDetail.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;itemID=MAR-522">Switch<span></span></a></dd>
+<dd><a class="item4" href="productDetail.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;itemID=MAR-526-BK">Chill Pill Mobile Speakers<span></span></a></dd>
 
                 
-<dd><a class="item8" href="productDetail.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;itemID=MAR-523">Charge<span></span></a></dd>
+<dd><a class="item5" href="productDetail.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;itemID=MAR-090">Switch<span></span></a></dd>
 
-                <dd><a class="item9" href="category.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;category2=Raincoat&amp;category2Name=Fido's+Friend+Raincoats&amp;categoryLevel=1">Fido's Friend Raincoats<span></span></a></dd>
-                </div><div><dd><a class="item10" href="productGroup.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;itemID=MAR-557">Convertible "Bag-packs"<span></span></a></dd>
+                
+<dd><a class="item6" href="productDetail.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;itemID=MAR-091">Charge<span></span></a></dd>
 
+                </div><div><dd><a class="item7" href="category.aspx?&amp;category1=TravelTech&amp;category1Name=Travel&amp;category2=Raincoat&amp;category2Name=Fido's+Friend+Raincoats&amp;categoryLevel=1">Fido's Friend Raincoats<span></span></a></dd>
                 </div>
 </dl></div>
 	</li>
 
 <li class="active" id="kids" onmouseover="pinTab('kids')" onmouseout="removeTab('kids')"><span><a href="category.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;categoryLevel=0" id="kidsTab">Kids</a></span>
 		<div class="sub-kids"><dl>
-<div><dd><a class="item1" href="productGroup.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;itemID=MAR-557">Convertible "Bag-packs"<span></span></a></dd>
+<div><dd><a class="item1" href="category.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;category2=Tots&amp;category2Name=Tots+Travel+Too+Collection&amp;categoryLevel=1">Tots Travel Too Collection<span></span></a></dd>
+                <dd><a class="item2" href="productGroup.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;itemID=MAR-1819">Pronto! Portable Changing Station<span></span></a></dd>
 
-                <dd><a class="item2" href="productGroup.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;itemID=MAR-556">Travel Blanket Critters<span></span></a></dd>
-
-                <dd><a class="item3" href="category.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;category2=Nickelodeon&amp;category2Name=Nickelodeon%e2%84%a2+Goodies&amp;categoryLevel=1">Nickelodeon™ Goodies<span></span></a></dd>
-                </div><div><dd><a class="item4" href="category.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;category2=Tots&amp;category2Name=Tots+Travel+Too+Collection&amp;categoryLevel=1">Tots Travel Too Collection<span></span></a></dd>
-                <dd><a class="item5" href="productGroup.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;itemID=MAR-1819">Pronto! Portable Changing Station<span></span></a></dd>
-
-                <dd><a class="item6" href="productGroup.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;itemID=MAR-1820">Totseat Travel Chair<span></span></a></dd>
+                <dd><a class="item3" href="productGroup.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;itemID=MAR-1820">Totseat Travel Chair<span></span></a></dd>
 
                 </div><div>
-<dd><a class="item7" href="productDetail.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;itemID=MAR-550-S">The Marriott Bear™<span></span></a></dd>
+<dd><a class="item4" href="productDetail.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;itemID=MAR-550-S">The Marriott Bear™<span></span></a></dd>
 
                 
-<dd><a class="item8" href="productDetail.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;itemID=MAR-1817">gogo Kidz Travelmate<span></span></a></dd>
-
-                
-<dd><a class="item9" href="productDetail.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;itemID=MAR-1818">Infant Cruizer Travel-All<span></span></a></dd>
-
-                </div><div>
-<dd><a class="item10" href="productDetail.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;itemID=MAR-555-SH">Sleep Sheep Plush Sound Machine<span></span></a></dd>
-
-                
-<dd><a class="item11" href="productDetail.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;itemID=MAR-555-GI">Gentle Giraffe Plush Sound Machine<span></span></a></dd>
+<dd><a class="item5" href="productDetail.aspx?&amp;category1=Kids&amp;category1Name=Kids&amp;itemID=MAR-555-GI">Gentle Giraffe Plush Sound Machine<span></span></a></dd>
 
                 </div>
 </dl></div>
 	</li>
 
+<li class="active" id="sale" onmouseover="pinTab('sale')" onmouseout="removeTab('sale')"><span><a href="category.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;categoryLevel=0" id="saleTab">Sale</a></span>
+		<div class="sub-sale"><dl>
+<dd><a class="item1" href="productGroup.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-105-PIP"><span>Embroidered Pillowcase</span></a></dd>
+
+                
+<dd><a class="item2" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-327-G"><span>Triad Shower Curtains - Sunflower</span></a></dd> 
+
+                
+<dd><a class="item3" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-327-R%2fE-S"><span>Triad Shower Curtains - Garnet</span></a></dd> 
+
+                <dd><a class="item4" href="productGroup.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-173"><span>Spiral Bed Scarf</span></a></dd>
+
+                
+<dd><a class="item5" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-108-EDP-CH"><span>Eat Drink Play Pillow</span></a></dd> 
+
+                
+<dd><a class="item6" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-108-D-OM"><span>No Whining Pillow</span></a></dd> 
+
+                
+<dd><a class="item7" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-330-RO-CH"><span>Round Minimalist Vanity Mirror - Chrome</span></a></dd> 
+
+                
+<dd><a class="item8" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-340-AOS"><span>Fusion Shave Collection</span></a></dd> 
+
+                
+<dd><a class="item9" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-1800"><span>“Tots Travel Too” Kit</span></a></dd> 
+
+                
+<dd><a class="item10" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-1814"><span>Play Yard Fitted Sheet by Coverplay</span></a></dd> 
+
+                
+<dd><a class="item11" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-1816"><span>Bibs to Go Book by DwellStudio®</span></a></dd> 
+
+                
+<dd><a class="item12" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-1819-BK"><span>Pronto! Portable Changing Station - Black</span></a></dd> 
+
+                
+<dd><a class="item13" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-1819-US"><span>Pronto! Portable Changing Station - Uptown Stripe</span></a></dd> 
+
+                
+<dd><a class="item14" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-1820-BR"><span>Totseat Travel Chair - Brown Circle</span></a></dd> 
+
+                
+<dd><a class="item15" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-1820-PU"><span>Totseat Travel Chair - Purple Circle</span></a></dd> 
+
+                
+<dd><a class="item16" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-555-GI"><span>Gentle Giraffe Plush Sound Machine</span></a></dd> 
+
+                
+<dd><a class="item17" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-518-BK"><span>Zanzibar Travel Set</span></a></dd> 
+
+                <dd><a class="item18" href="productGroup.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-922"><span>Fido's Friends Raincoat - Skull</span></a></dd>
+
+                <dd><a class="item19" href="productGroup.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-923"><span>Fido's Friends Raincoat - Argyle</span></a></dd>
+
+                
+<dd><a class="item20" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-520-BK"><span>eReader Cover</span></a></dd> 
+
+                
+<dd><a class="item21" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-521-BK"><span>Tablet Cover</span></a></dd> 
+
+                <dd><a class="item22" href="productGroup.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-416"><span>CliC Sunglasses</span></a></dd>
+
+                
+<dd><a class="item23" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-454"><span>Projection Alarm Clock</span></a></dd> 
+
+                
+<dd><a class="item24" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-521-SG"><span>Solar Globe</span></a></dd> 
+
+                
+<dd><a class="item25" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-017"><span><i>You Can't Lead With Your Feet On The Desk</i> by Ed Fuller</span></a></dd> 
+
+                
+<dd><a class="item26" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-011"><span>Windows on the World Wine Journal</span></a></dd> 
+
+                
+<dd><a class="item27" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-605-R"><span>Red Wine Reed Diffuser</span></a></dd> 
+
+                
+<dd><a class="item28" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-605-W"><span>White Wine Reed Diffuser</span></a></dd> 
+
+                
+<dd><a class="item29" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-605-R%2fW"><span>Red &amp; White Wine Diffuser Set</span></a></dd> 
+
+                
+<dd><a class="item30" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-605-P"><span>Portfolio Diffuser</span></a></dd> 
+
+                
+<dd><a class="item31" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-603-AW"><span>Exotic Candle Box</span></a></dd> 
+
+                
+<dd><a class="item32" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-018-BAR"><span>The Art of the Bar</span></a></dd> 
+
+                
+<dd><a class="item33" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-614"><span>The Ravi Instant Wine Chiller</span></a></dd> 
+
+                
+<dd><a class="item34" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-250"><span>Ice Bucket &amp; Tongs</span></a></dd> 
+
+                
+<dd><a class="item35" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-260"><span>Bottle Opener</span></a></dd> 
+
+                
+<dd><a class="item36" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-604-SS"><span>Cocktail Shaker</span></a></dd> 
+
+                
+<dd><a class="item37" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-602"><span>Cocktail Set</span></a></dd> 
+
+                
+<dd><a class="item38" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-606-O"><span>O Coaster</span></a></dd> 
+
+                
+<dd><a class="item39" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-606-X"><span>X Coaster</span></a></dd> 
+
+                
+<dd><a class="item40" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-607-BE"><span>Marea Wine Rack</span></a></dd> 
+
+                
+<dd><a class="item41" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-608-EDS"><span>Elixir Decanter Set</span></a></dd> 
+
+                
+<dd><a class="item42" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-616-Z"><span>Single Bottle Case - Safari Zebra</span></a></dd> 
+
+                
+<dd><a class="item43" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-617-RD"><span>Double Bottle Case - Red Croc</span></a></dd> 
+
+                
+<dd><a class="item44" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-617-Z"><span>Double Bottle Case - Safari Zebra</span></a></dd> 
+
+                
+<dd><a class="item45" href="productDetail.aspx?&amp;category1=Sale&amp;category1Name=Sale&amp;itemID=MAR-609"><span>Tripod Wine Glasses</span></a></dd> 
+
+                
+</dl></div>
+	</li>
+
     <li class="search">
-<input name="tSearchString" id="tSearchString" type="text" class="search" autocomplete="off">
+<input name="tSearchString" id="tSearchString" type="text" class="search">
 <a class="goBTN" href="javascript:doQuickSearch('http://www.shopmarriott.com/');">
 <img src="images/icons/go-btn.gif" width="62" height="19"></a>
 	</li>
@@ -736,7 +901,7 @@ else if (cat=="kids"){
    <ul id="faq-nav">
             <li>
             <span><a href="faqs.aspx">FAQs</a></span>
-            <a href="faq-shop3sites.aspx">Shop 3 Sites 1 Checkout</a>
+            <a href="faq-shop4sites.aspx">Shop 4 Sites 1 Checkout</a>
             <!--<a href="faq-earnrewards.aspx">Earn Marriott Rewards Points</a>-->
             <a href="faq-rewards.aspx">Use Marriott Rewards Points</a>
             <a href="faq-giftcards.aspx">Use Marriott GiftCards</a>
@@ -853,12 +1018,7 @@ Bethesda, MD 20817.
 
 		</div></div>
 			
-
 <!--//OCFileName: elements/hah_Footer.ascx-->
-
-
-
-
 
 <script language="javascript">
 <!--//
@@ -876,79 +1036,157 @@ function doChangeLanguage(theListElement)
 }
 //-->
 </script>
-
-
 <div id="footer" class="clear">
-         <h3><span>ShopMarriott Help Center</span><a class="right" href="sitemap.aspx">Site map</a></h3>
-          <ul id="footer-nav" class="clear">
-         <li class="first">
-	<a href="faq-shop3sites.aspx"><em>learn more...</em></a>
-	</li>
+  <h3><span>ShopMarriott Help Center</span><a class="right" href="sitemap.aspx">Site map</a><a class="right" href="http://shop.catalogs.com/shopmarriott">View our iPad Catalog</a></h3>
+  <ul id="footer-nav" class="clear">
+    <li class="first"> <a href="faq-shop4sites.aspx"><em>learn more...</em></a> </li>
+    <li> <span><a href="faqs.aspx">FAQs</a></span>
+      <!--<a href="faq-earnrewards.aspx">Earn Marriott Rewards Points</a>-->
+      <a href="faq-rewards.aspx">Use Marriott Rewards Points</a> <a href="faq-giftcards.aspx">Use Marriott GiftCards</a> <a href="faq-bed.aspx">About The Marriott Bed</a> <a href="faq-productcare.aspx">Product Care Instructions</a> <a href="faq-orders.aspx">Track Orders &amp; My Account</a> </li>
+    <li> <span><a href="shipping.aspx">Shipping &amp; Returns</a></span> <a href="shipping-policies.aspx">Shipping Policies</a> <a href="shipping-return.aspx">Return Policy</a> <a href="shipping-international.aspx">International Shipping</a> <a href="shipping-duties.aspx">Duties &amp; Taxes</a> </li>
+    <li> <span><a href="privacy.aspx">Privacy, Security &amp; Web</a></span> <a href="privacypolicy.aspx">Privacy Policy</a> <a href="http://www.marriott.com/copyrite.mi" target="new">Terms of Use <img src="images/icons/newindow_icon.gif"> </a> <a href="troubleshooting.aspx">Troubleshooting</a> </li>
+    <li class="last"> <span><a href="quicklinks.aspx">Marriott.com Quick Links</a></span> <a href="http://www.marriott.com/default.mi" target="new">Reservations <img src="images/icons/newindow_icon.gif"></a> <a href="http://www.marriott.com/marriott-hotels-resorts/travel.mi" target="new">MarriottHotels.com <img src="images/icons/newindow_icon.gif"></a> <a href="http://www.marriott.com/rewards/rewards-program.mi" target="new">Marriott Rewards <img src="images/icons/newindow_icon.gif"></a> <a id="bt-confirm" href="#">Marriott GiftCards <img src="images/icons/newindow_icon.gif"></a> </li>
+  </ul>
+  <!-- START EMAIL SUBSCRIPTION ADDON-->
+  <script language="javascript">
+function validatefooterEmail(inValue)  
+{ 
+     if (inValue.indexOf("@")==-1) 
+     { 
+        return false 
+     } 
+ 
+     if (inValue.indexOf("@")==-1 || inValue.indexOf("@")==0 || inValue.indexOf("@")==inValue.length) 
+     { 
+        return false 
+     } 
+ 
+     if (inValue.indexOf(".")==-1 || inValue.indexOf(".")==0 || inValue.indexOf(".")==inValue.length) 
+     { 
+         return false 
+     } 
+ 
+     if (inValue.indexOf("@",(inValue.indexOf("@")+1))!=-1) 
+     { 
+         return false 
+     } 
+ 
+      if (inValue.substring(inValue.indexOf("@")-1,inValue.indexOf("@"))=="." || inValue.substring(inValue.indexOf("@")+1,inValue.indexOf("@")+2)==".") 
+     { 
+         return false 
+      } 
+ 
+      if (inValue.indexOf(".",(inValue.indexOf("@")+2))==-1) 
+     { 
+         return false 
+      } 
+ 
+      if (inValue.indexOf(" ")!=-1) 
+     { 
+         return false 
+      } 
+     return true                          
+}
 
-   <li>
-  <span><a href="faqs.aspx">FAQs</a></span>
-          <!--<a href="faq-earnrewards.aspx">Earn Marriott Rewards Points</a>-->
-          <a href="faq-rewards.aspx">Use Marriott Rewards Points</a>
-          <a href="faq-giftcards.aspx">Use Marriott GiftCards</a>
-          <a href="faq-bed.aspx">About The Marriott Bed</a>
-          <a href="faq-productcare.aspx">Product Care Instructions</a>
-          <a href="faq-orders.aspx">Track Orders &amp; My Account</a>
-          </li>
-          
-          <li>
-          <span><a href="shipping.aspx">Shipping &amp; Returns</a></span>
-          <a href="shipping-policies.aspx">Shipping Policies</a>
-          <a href="shipping-return.aspx">Return Policy</a>
-          <a href="shipping-international.aspx">International Shipping</a>
-          <a href="shipping-duties.aspx">Duties &amp; Taxes</a>
-          </li>
-          
-          <li>
-          <span><a href="privacy.aspx">Privacy, Security &amp; Web</a></span>
-          <a href="privacypolicy.aspx">Privacy Policy</a>
-          <a href="http://www.marriott.com/copyrite.mi" target="new">Terms of Use <img src="images/icons/newindow_icon.gif"> </a>
-          <a href="troubleshooting.aspx">Troubleshooting</a>
-          </li>
-          
-         <li class="last">
-          <span><a href="quicklinks.aspx">Marriott.com Quick Links</a></span>
-          <a href="http://www.marriott.com/default.mi" target="new">Reservations <img src="images/icons/newindow_icon.gif"></a>
-	  <a href="http://www.marriott.com/marriott-hotels-resorts/travel.mi" target="new">MarriottHotels.com <img src="images/icons/newindow_icon.gif"></a>
-          <a href="http://www.marriott.com/rewards/rewards-program.mi" target="new">Marriott Rewards <img src="images/icons/newindow_icon.gif"></a>
-          <a id="bt-confirm" href="#">Marriott GiftCards <img src="images/icons/newindow_icon.gif"></a>
-       </li>
-</ul>
-<div><strong>Contact us:</strong>
-<!-- BEGIN LivePerson Button Code -->
-<div class="chat" id="livechatstatus1" style="visibility:hidden;display:none"><a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/16308863/?cmd=file&amp;file=visitorWantsToChat&amp;site=16308863&amp;byhref=1&amp;SESSIONVAR!window_look=MAR-US&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat16308863" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/16308863/?cmd=file&amp;file=visitorWantsToChat&amp;site=16308863&amp;SESSIONVAR!window_look=MAR-US&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat16308863','width=475,height=400,resizable=yes');return false;">Chat Live</a> </div><!-- END LivePerson Button code -->
-•<a href="mailto:customer.service@shopmarriott.com">Email us</a>
-            <span>Toll-Free <strong>1-800-311-0708</strong></span>   •  Monday - Friday: 8:00 am - 10:00 pm EST / Saturday - Sunday: 9:00 am - 5:00 pm EST
-    </div> 
+function submitfooteremail(){
+	var errorCount = 0;
+	var errorMessage = "";
+	var echeck = document.getElementById('OCForm1').emailfooterAddress.value;
+	if(!validatefooterEmail(echeck))
+	{
+		errorMessage += (++errorCount) + '. You must enter in a valid new email address.\n';
+	}
+	
+	if (errorCount == "0"){
+		document.getElementById("eframefooter").contentWindow.document.getElementById("clhhdy-clhhdy").value=document.getElementById('OCForm1').emailfooterAddress.value;;
+		document.getElementById("eframefooter").contentDocument.forms["elistfooter"].submit();
+		
+		jqDialog.alert("<strong>Thank you for subscribing to the ShopMarriott.com email list!</strong><br>You'll be receiving an email shortly with a link to confirm that you have signed up. Then you'll be on your way to receiving exclusive deals from all of our Marriott brand retail sites."),
+		function() { };
+
+		
+	}else{
+		alert(errorMessage);
+	}
+}
+</script>
+  <iframe style="display:none;" src="formfooter.html" width="400" height="250" frameborder="0" name="eframefooter" id="eframefooter">
+  <p>Your browser does not support iframes.</p>
+  </iframe>
+  <div class="first email-signup"><em> <span>
+    <div class="chat-bubble">Shop Marriott eNews is a mailing list to receive emails featuring exclusive deals on merchandise you'll only find at Marriott hotels. Purchase that pillow you enjoyed during your recent stay, or buy refills of the bath products you can't find anywhere else. Get details on our latest promotions and products delivered directly to your inbox.
+      <div class="chat-bubble-arrow-border"></div>
+      <div class="chat-bubble-arrow"></div>
+    </div>
+    </span> eNews - Free to Join</em>
+    <input type="text" id="emailfooterAddress">
+    <input type="submit" value="Sign me Up!" onclick="submitfooteremail();" class="button">
+  </div>
+  <!-- END EMAIL SUBSCRIPTION ADDON-->
+  <div class="span-5 last right">
+    <center>
+      <strong>Contact us:</strong>
+      <!-- BEGIN LivePerson Button Code -->
+      <div class="chat" id="livechatstatus1" style="visibility:hidden;display:none">
+        <div id="lpButDivID-1311265229526"></div>
+        <script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/16308863/?cmd=mTagRepstate&amp;site=16308863&amp;buttonID=12&amp;divID=lpButDivID-1311265229526&amp;bt=3&amp;c=1"></script>
+      </div>
+      <!-- END LivePerson Button code -->
+      • <a href="mailto:customer.service@shopmarriott.com">Email us</a> • <span>Toll-Free <strong>1-800-311-0708</strong></span> <br>
+      Monday - Friday: 8:00 am - 11:00 pm EST / Saturday - Sunday: 9:00 am - 5:00 pm EST
+    </center>
+  </div>
 </div>
- <div class="shoppingSites">
-        	<ul>
-            	<li><a href="http://www.shopmarriott.com/index.aspx?sessionID=7f7c4aa3-4eef-4fb9-89f1-4e09366554fc">ShopMarriott</a></li>
-                <li><a href="http://www.shopcourtyard.com/index.aspx?sessionID=7f7c4aa3-4eef-4fb9-89f1-4e09366554fc">ShopCourtyard</a></li>
-                <li><a href="http://www.collectrenaissance.com/index.aspx?sessionID=7f7c4aa3-4eef-4fb9-89f1-4e09366554fc">CollectRenaissance</a></li>
+<div class="shoppingSites">
+  <ul>
+    <li>Our Shopping Sites:</li>
+    <li class="mar"><a href="http://www.shopmarriott.com/index.aspx?sessionID=cfd3b290-1aa4-4d94-938a-6cd0b204209c">ShopMarriott</a></li>
+    <li class="cym"><a href="http://www.shopcourtyard.com/index.aspx?sessionID=cfd3b290-1aa4-4d94-938a-6cd0b204209c">ShopCourtyard</a></li>
+    <li class="rhr"><a href="http://www.collectrenaissance.com/index.aspx?sessionID=cfd3b290-1aa4-4d94-938a-6cd0b204209c">CollectRenaissance</a></li>
+    <li class="jw"><a href="http://www.curatedbyjw.com/index.aspx?sessionID=cfd3b290-1aa4-4d94-938a-6cd0b204209c">Curated by JW</a></li>
+  </ul>
+</div>
+<p class="small">© Copyright 1996-2012 Marriott International, Inc. All rights reserved. Marriott proprietary information.</p>
 
-				</ul>
-        </div>
-        <p class="small">© Copyright 1996-2011 Marriott International, Inc. All rights reserved. Marriott proprietary information.</p>
-		</form></div>
 
-
+</form></div>
 
 <script language="JavaScript" src="http://server.iad.liveperson.net/hcp/html/lpCheckRepState.js"></script>
 
-
-       
 <script language="javascript">
 var options = {script:"ajax/search.aspx?&posting=TRUE&actionType=QUICKSEARCH&autoSuggest=TRUE&searchString=AUTOSUGGEST&", varname:"searchString",json:false,maxresults:35, callback: function(obj){doQuickSearch('http://www.shopmarriott.com/');}};
 var as = new bsn.AutoSuggest("tSearchString", options);
 
 </script>
 
+<script>
 
+$(function() {
+
+	//Include for JQuery version 1.5 and below
+	jQuery.expr[':'].focus = function( elem ) {
+		return elem === document.activeElement && ( elem.type || elem.href );
+	};
+
+	$("form").keypress(function(e) {
+		if (e.keyCode == 13) {
+			//alert($("#tSearchString").is(":focus"));
+			if($("#tSearchString").is(":focus")) {
+				doQuickSearch('http://www.shopmarriott.com/');
+				return false;
+			} else if($("#emailfooterAddress").is(":focus")) {
+				submitfooteremail();
+				return false;
+			} else if($("#giftText").is(":focus")) {
+	
+			} else {
+				return false;
+			}
+		}
+	});
+
+});
+</script>
 
 
 			
@@ -956,15 +1194,18 @@ var as = new bsn.AutoSuggest("tSearchString", options);
 <script language="javascript">
 <!--
 try{
-var strAction = document.getElementById('OCForm1').action;
+var theForm = undefined;
+try{theForm = document.getElementById('OCForm1');}catch(e){}
+try{if(theForm == undefined){theForm = document.getElementById('aspnetForm');}}catch(e){}
+var strAction = theForm.action;
 var qMark = strAction.indexOf('?');
 if (qMark > 0)
 {
 strAction = strAction.substring(0, qMark) + '?';
-document.getElementById('OCForm1').action = strAction;
+theForm.action = strAction;
 }
 }catch(e){}
-////-->
+//-->
 </script>
 
 	
