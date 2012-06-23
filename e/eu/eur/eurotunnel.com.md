@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the eurotunnel.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608025137id_/http%3A//www.eurotunnel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurotunnel.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623203607id_/http%3A//www.eurotunnel.com/uk/privacy) for the most accurate reproduction.*
 
 # Eurotunnel Privacy and cookie policy
 
-Eurotunnel Le Shuttle is committed to ensuring the information you give us is kept private and protected.  
-Our privacy policy explains how we do this.
+We are committed to ensuring the information you give us is kept private and protected
 
-We hope the following information will answer any queries you may have, however should you require any additional information,  
-please [click here](https://web.archive.org/uk/contact-us/ "click here") to contact us.
+We hope the following information will answer any queries you may have, however should you require any additional information, please [click here](https://web.archive.org/uk/contact-us/ "click here") to contact us.
 
  **Data Protection Registration Number** : **Z8888594  
-<http://www.ico.gov.uk/ESDWebPages/DoSearch.asp?reg=4962754>**
+<http://www.ico.gov.uk/ESDWebPages/DoSearch.asp?reg=5449888>**
 
 #### When and what type of information do we collect about you?
 
@@ -62,7 +60,7 @@ Link for further cookie information:
  **a) What is a cookie?  
 ** A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (device) browser from a website's computer and is stored on your device's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other websites. Many websites do this whenever a user visits their website in order to monitor online traffic flows.
 
-On Eurotunnel Le Shuttle’s website, cookies record information about your online preferences and behavior. Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these means that certain personalised features cannot then be provided to that user and accordingly they may not be able to take full advantage of all of the website's features. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.
+On Eurotunnel Le Shuttle's website, cookies record information about your online preferences and behavior. Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these means that certain personalised features cannot then be provided to that user and accordingly they may not be able to take full advantage of all of the website's features. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.
 
 During the course of any visit to eurotunnel.com, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on the next visit by checking, and finding, the cookie that was left there on the last visit.
 
@@ -115,9 +113,3 @@ Our site contains links to other websites operated by third parties. We do not h
 ##### How do you know if our privacy policy has changed?
 
 Any changes to our privacy policy in the future will be posted to this site and, where appropriate, through e-mail notification.
-
-* * *
-
-Last Updated: 24/05/2011
-
-[](http://www.addthis.com/bookmark.php?v=250&username=xa-4c8a58ad0ad1d083)
