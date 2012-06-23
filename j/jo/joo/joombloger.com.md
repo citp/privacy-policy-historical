@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joombloger.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219190600id_/http%3A//joombloger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joombloger.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623195209id_/http%3A//joombloger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Joomla Blogger
 
@@ -32,7 +32,9 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fjoombloger.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fjoombloger.com%2Fprivacy-policy%2F%20 "Twitter")
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fjoombloger.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fjoombloger.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
   *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fjoombloger.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
