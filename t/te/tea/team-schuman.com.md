@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the team-schuman.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203050940id_/http%3A//www.team-schuman.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the team-schuman.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623182152id_/http%3A//www.team-schuman.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Page
 
@@ -36,11 +36,7 @@ Team-Schuman.com does not knowingly collect or solicit Personally Identifiable I
 
 Contacting Us.
 
-We can be reached by contacting:
-
-Team-Schuman.Com  
-1102 W. Riddlewood Ln.  
-Highlands Ranch, Co. 80129  
+We can be reached by contacting:  
 Email: privacy@team-schuman.com
 
 Changes to this Policy
