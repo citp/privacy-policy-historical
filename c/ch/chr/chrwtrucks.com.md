@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chrwtrucks.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095324id_/http%3A//www.chrobinson.com/en/us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrwtrucks.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624015839id_/http%3A//www.chrobinson.com/en/us/Privacy-Policy) for the most accurate reproduction.*
 
 # Global Privacy Policy - C.H. Robinson
 
 Effective: July 1, 2011
 
-_This Web Site, as defined below, is maintained by C.H.  Robinson Worldwide, Inc. ©1998-2011. Content on this site may not be used for commercial benefit without expressed written consent of C.H. Robinson Worldwide, Inc._
+_This Web Site, as defined below, is maintained by C.H.  Robinson Worldwide, Inc. ©1998-2012. Content on this site may not be used for commercial benefit without expressed written consent of C.H. Robinson Worldwide, Inc._
 
 C.H. Robinson Worldwide, Inc., and its affiliates and subsidiaries and each of their directors, officers, employees, and authorized representative (collectively, "C.H. Robinson") respect your privacy. This Global Privacy Policy describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements.
 
