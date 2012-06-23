@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreechristmascrafts.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224004742id_/http%3A//www.allfreechristmascrafts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreechristmascrafts.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623172106id_/http%3A//www.allfreechristmascrafts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeChristmasCrafts.com
 
@@ -162,12 +162,10 @@ Please Wait
 
 ##### Something worth saving?
 
-[Register now](https://web.archive.org/section/account/action/login) to:
+[Register now for FREE](https://web.archive.org/section/account/action/login) to:
 
-  * save all your favorite projects
-  * add personal notes
-  * quickly reference your projects
+  * SAVE all your favorite projects
+  * ADD personal notes
+  * QUICKLY reference your projects
 
-  
-  
----|---|---
+
