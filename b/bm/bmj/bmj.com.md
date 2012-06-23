@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the bmj.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224024853id_/http%3A//group.bmj.com/group/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmj.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623064214id_/http%3A//group.bmj.com/group/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — BMJ Group
 
 **Privacy Policy**
 
-  
 **Your privacy  
-** Protecting your privacy is one of our top priorities. Please take a few minutes to review this policy.  
-Introduction
+** Protecting your privacy is one of our top priorities. Please take a few minutes to review this policy.
 
-  
 **Our privacy commitment**  
 This document sets out the basis on which the BMJ Publishing Group Limited (“BMJ Group”) will process any personal data we collect from you, except in the case of Evidence Based Nursing, and in which case you will be subject to the Royal College of Nursing's Privacy Policy <http://www.rcn.org.uk/privacy>. Other than for Evidence Based Nursing, the BMJ Group shall be the data controller.
 
