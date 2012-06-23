@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanfeedr.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130225549id_/http%3A//fanfeedr.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanfeedr.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623232155id_/http%3A//www.fanfeedr.com/info/privacy) for the most accurate reproduction.*
 
 # FanFeedr: Privacy
 
