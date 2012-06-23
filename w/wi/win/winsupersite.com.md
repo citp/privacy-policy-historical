@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winsupersite.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222175042id_/http%3A//www.penton.com/PrivacyStatementSH.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsupersite.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623184403id_/http%3A//www.penton.com/PrivacyStatementSH.aspx) for the most accurate reproduction.*
 
 # Safe Harbor Privacy Statement
 
