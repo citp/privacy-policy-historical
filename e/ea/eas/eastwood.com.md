@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastwood.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102145013id_/http%3A//www.eastwood.com/custserv-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastwood.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623222537id_/http%3A//www.eastwood.com/custserv-privacy) for the most accurate reproduction.*
 
 # Customer Service - Privacy Policy
 
@@ -28,6 +28,8 @@ The cookies we employ contain absolutely no PII. If you do not want to receive c
 
 However, if you choose to disable cookies, you may not be able to use features such as My Account or Wish Lists.
 
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page.](http://www.google.com/policies/privacy/ads/)
+
 HOW WE UTILIZE COOKIES AND NPII
 
 The cookies we employ allow us to use third-party vendors to more effectively distribute our ads and to improve the quality and relevance of advertising you see. When you visit other sites, third-party vendors are able to identify the Eastwood cookie and provide you with pertinent advertising based on your browsing history. None of the information used in this remarketing process is personally-identifiable information (PII).
@@ -56,7 +58,7 @@ QUESTIONS OR SUGGESTIONS?
 
 If you have questions or suggestions, send an email to webmaster@eastwood.com.
 
-**[CLICK HERE TO VIEW OUR TERMS& CONDITIONS](https://web.archive.org/web/20111102145013id_/http%3A//www.eastwood.com/custserv-terms)**
+**[CLICK HERE TO VIEW OUR TERMS& CONDITIONS](https://web.archive.org/web/20120623222537id_/http%3A//www.eastwood.com/custserv-terms)**
 
 [  
 ABOUT SSL CERTIFICATES](http://www.thawte.com/digital-certificates/)
