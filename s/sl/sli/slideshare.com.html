@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the slideshare.com privacy policy that was archived on 2011-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111122125253id_/http%3A//www.slideshare.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slideshare.com privacy policy that was archived on 2012-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623191404id_/http%3A//www.slideshare.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head profile="http://purl.org/uF/2008/03/">
     
@@ -13,60 +13,50 @@
     <meta name="include_mode" content="async">
     <title>SlideShare » Privacy Policy</title>
     <meta name="description" content="">
-    <link rel="Shortcut Icon" href="http://public.slidesharecdn.com/images/favicon.ico">
+    <link rel="Shortcut Icon" href="//public.slidesharecdn.com/images/favicon.ico">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.slideshare.net/rss/latest">
     <link rel="search" type="application/opensearchdescription+xml" href="/search/opensearch.xml" title="SlideShare Search">
     <!--Stylesheets starts here-->
     <!--Default starts-->
     
-    <link href="http://public.slidesharecdn.com/stylesheets/global.css?29063" media="screen" rel="stylesheet" type="text/css">
-    <link href="http://public.slidesharecdn.com/stylesheets/tipsy.css?29063" media="screen" rel="stylesheet" type="text/css">
-    <!--[if lte IE 7]><link href="http://public.slidesharecdn.com/stylesheets/ie.css?29063" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+    <link href="http://public.slidesharecdn.com/stylesheets/global.css?35159" media="screen" rel="stylesheet" type="text/css">
+    <link href="http://public.slidesharecdn.com/stylesheets/tipsy.css?35159" media="screen" rel="stylesheet" type="text/css">
+    <!--[if lte IE 7]><link href="http://public.slidesharecdn.com/stylesheets/ie.css?35159" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
     <!--Default ends-->
     
     
     <!--Stylesheets ends here-->
     <!--Javascripts starts here-->
-    <script type="text/javascript" charset="utf-8">
-    // <![CDATA[
-      var switch_tracker = false;
-    // ]]> 
-    </script>
     
     
       
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
-        <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
       
     
-    <script src="http://public.slidesharecdn.com/javascripts/jquery.tipsy.js?29063" type="text/javascript"></script>
+    <script src="http://public.slidesharecdn.com/javascripts/jquery.tipsy.js?35159" type="text/javascript"></script>
     <script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script src="http://public.slidesharecdn.com/javascripts/plugins/jquery/jquery.ba-postmessage.min.js?35159" type="text/javascript"></script>
     <!--userobject starts here-->
     
     <script type="text/javascript">
     //<![CDATA[
       window._auth_token_name = "authenticity_token";
-      window._auth_token = "95MLiIg4X2zIwsBuwoBmBfopO+R80jrmGFTbEt31C5Q=";
+      window._auth_token = "48ggdxdpCkXRsHFOBn9GrCkw9xrhwOBQsKSXoATMBRQ=";
     //]]>
     </script>
     
     <script type="text/javascript" charset="utf-8">
     // <![CDATA[
-      try{
-        if (switch_tracker) {
-          var pageTracker = _gat._getTracker("UA-2330466-16");
-          pageTracker._setDomainName('www.slideshare.net');
-        }else{
-          var pageTracker = _gat._getTracker("UA-2330466-1");
-        }
-        pageTracker._trackPageview();
-        window.urchinTracker = pageTracker._trackPageview;
-      }catch(e){}
+      // GA Segmentation
+      window._gaq = window._gaq || []; _gaq.push(['_setAccount', 'UA-2330466-1']);_gaq.push(['_setCustomVar', 1, 'member_type', 'LOGGEDOUT', 1]);
+      _gaq.push(['_trackPageview']);
       var slideshare_object = {
-        user: {"name":null,"is_pro":"false","userGroup":"non-member","id":null,"is_fbuser":null,"loggedin":false,"login":"guest"},
+        user: {"allow_opengraph_sharing":false,"name":null,"su":false,"is_pro":"false","userGroup":"non-member","fb_access_token":null,"is_opengraph_user":false,"id":null,"is_fbuser":null,"loggedin":false,"login":"guest"},
         timer: { start: (new Date()).getTime(), end: '', execTime: '' },
         top_nav: { get_url: "/top_nav", update_url: "/language/update_language" },
         dev: false,
+        fb_app_name: 'slideshare',
         init: []
       };
       function getErrorTag(error){
@@ -83,9 +73,8 @@
       try{
         window.onerror = function(error,url,line){
           var errStr = "error : "+error+"\n url : "+url+"\n line no : "+line;
-          if (pageTracker != null){
-            pageTracker._trackEvent( getErrorTag(error), errStr , window.location.href );
-          }
+          window._gaq = _gaq || [];
+          _gaq.push(["_trackEvent", getErrorTag(error), errStr , window.location.href ]);
           if(window.console)
             console.log(errStr);
           return true;
@@ -100,31 +89,10 @@
     </script>
     <!--userobject end here-->
 
-     <!-- quantserve code begins -->
-     <script type="text/javascript">
-     // <![CDATA[
-     _qoptions={
-       qacct:"p-abU44ONrAuwk2"
-     };
-     // ]]>
-     </script>
-     
-     <script src="http://edge.quantserve.com/quant.js" type="text/javascript"></script>
-     
-     
-     <noscript>
-       <p>
-         <a href="http://www.quantcast.com/p-abU44ONrAuwk2" rel="nofollow">
-           <img src="http://pixel.quantserve.com/pixel/p-abU44ONrAuwk2.gif" height="1" alt="Quantcast" style="border:0;display:none" width="1" />
-         </a>
-       </p>
-     </noscript>
-     
-     <!--quantserve code ends -->
- 
 
-    <script src="http://public.slidesharecdn.com/javascripts/fancybox.js?29063" type="text/javascript"></script>
-    <script src="http://public.slidesharecdn.com/javascripts/global.js?29063" type="text/javascript"></script>
+    <script src="http://public.slidesharecdn.com/javascripts/fancybox.js?35159" type="text/javascript"></script>
+    <script src="http://public.slidesharecdn.com/javascripts/global.js?35159" type="text/javascript"></script>
+    <script src="http://public.slidesharecdn.com/javascripts/plugins/jquery/jquery.placeholder.min.js?35159" type="text/javascript"></script>
     
 
     
@@ -133,13 +101,10 @@
     <!--Misc Head contents starts here-->
     
     <!--Misc Head contents ends here-->
-    <!-- start Mixpanel -->
-    <script type="text/javascript">
-      var mpq=[];mpq.push(["init","dd9f3935b99b8dbb9b5e85a6af56b463"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();
-    </script>
-    <!-- end Mixpanel -->
+
   </head>
     <body>
+      
       
       <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
       <script>
@@ -147,6 +112,8 @@
         window.fbAsyncInit = function() {
           FB.init({
             appId  : '2490221586',
+            oauth  : true,
+            channelUrl  : '//public.slidesharecdn.com/channel.html',
             status : true, // check login status
             cookie : true, // enable cookies to allow the server to access the session
             xfbml  : true  // parse XFBML
@@ -162,6 +129,7 @@
       // ]]>
       </script>
       
+      
       <div class="admanager-section">
         
         
@@ -170,90 +138,210 @@
       
       <!-- Header begins here -->
       <div class="headerWrapper">
+          <!-- .headerOuter -->
+          <div class="headerOuter">
           <div class="header">
             <a href="/" id="slideshare_logo" title="Go to SlideShare's homepage" class="logo">SlideShare. Present yourself.</a>
             <form action="/search/slideshow" method="get" class="headerSearch">
               <fieldset>
                 <input type="hidden" value="header" name="searchfrom">
-                <div class="suggestionContainer">
-                  <input type="text" value="" class="text" name="q" id="search_query_top" autocomplete="off">
-                </div>
-                <input type="submit" value="Search" class="ctaNormal">
+                <input type="text" value="" class="text" name="q" id="search_query_top" placeholder="Search…" autocomplete="off"><input type="submit" value="Search" class="ctaNormal">
+                <div class="suggestionContainer"></div>
               </fieldset>
             </form>
-            <a href="/upload" title="Upload" class="upload-11 ctaStrong" rel="nofollow" onclick="pageTracker._trackEvent('top_nav','topnav_upload');">Upload</a>
+            <a href="/upload" title="Upload" class="upload-11 ctaStrong" rel="nofollow" onclick="window._gaq = _gaq || []; _gaq.push(['_trackEvent', 'top_nav','topnav_upload']);">Upload</a>
+            <div class="nav">
             
               
 <div class="loginSignup" id="login_link">
 
-
-
-  <a href="/login" class="void_fancybox void_redirect_link" rel="nofollow">Login</a> or <a href="/signup" class="void_fancybox void_redirect_link" rel="nofollow" title="Signup now for a SlideShare account">Signup</a>
+  <a href="https://www.slideshare.net/login" class="void_fancybox void_redirect_link" rel="nofollow">Login</a> or <a href="https://www.slideshare.net/signup" class="void_fancybox void_redirect_link" rel="nofollow" title="Signup now for a SlideShare account">Signup</a>
 
 </div>
 
 
-<a href="/business/premium/plans?cmp_src=main_nav" title="Upgrade to SlideShare PRO" rel="nofollow" class="goPro" onclick="pageTracker._trackEvent('top_nav','topnav','business-index');">Go <span class="goProLabel">Pro</span></a>
+<a href="/business/premium/plans?cmp_src=main_nav" title="Upgrade to SlideShare PRO" rel="nofollow" class="goPro" onclick="window._gaq = _gaq || []; _gaq.push(['_trackEvent', 'top_nav','topnav','business-index']);">Go <span class="goProLabel">Pro</span></a>
 
 
 
 
 
   
-  <script src="http://public.slidesharecdn.com/javascripts/ajax_signup.js?29063" type="text/javascript"></script>
+  <script src="http://public.slidesharecdn.com/javascripts/ajax_signup.js?35159" type="text/javascript"></script>
   
 
 
 
 <script language="javascript">
   (function($,$$) {
-    function notification() {
-        $.ajax( {
-          url: "/newsfeed/get_newsfeed_count",
-          type: 'GET',
-          async: true,
+    function isPaymentPending() {
+      if(window.cookie && window.cookie('proNotice') === null) {
+        $.ajax({
+          url: '/business/premium/is_payment_pending',
+          type: 'POST',
           dataType: 'json',
-          success: function ( data ){
-            if (data.count > 0) {
-              $('.j-intro-newsfeedcount').html('check ' +data.count);
-              $('.j-icon_NoNotification').hide();
-              $('.j-icon_Notification span').html(data.count);
-              $('.j-icon_Notification').show();
+          success: function(reply){
+            if (reply.status === true) {
+              if($('header').length > 0) {
+                $('header').append(reply.msg);
+              } else {
+                $('div.headerWrapper').append(reply.msg);
+              }
+              $('#j-close_pro_notice').click(function(e){
+                e.preventDefault();
+                $('#j-pro_notice').slideUp('slow', function(){
+                  cookie('proNotice', true, {expires: 0.006944}); // 10 minutes
+                  $('#j-pro_notice').remove();
+                });
+              });
+              $('#j-pro_notice').slideDown('slow');
             }
-          },
-          error: function (jqXHR){
           }
         });
       }
+    }
+
+    function isCouponRedemptionPending() {
+       if(window.cookie && window.cookie('proNotice') === null) {
+         $.ajax({
+           url: '/business/premium/is_coupon_redemption_pending',
+           type: 'POST',
+           dataType: 'json',
+           success: function(reply){
+             if (reply.status) {
+               if($('header').length > 0) {
+                 $('header').append(reply.msg);
+               } else {
+                 $('div.headerWrapper').append(reply.msg);
+               }
+               $('#j-close_pro_notice').click(function(e){
+                 e.preventDefault();
+                 $('#j-pro_notice').slideUp('slow', function(){
+	            cookie('proNotice', true, {expires: 0.006944}); // 10 minutes
+	            $('#j-pro_notice').remove();
+	            });
+	        });
+	        $('#j-pro_notice').slideDown('slow');
+	     }
+	   }
+	 });
+	}
+     }  
+
+    function currencyInfo() {
+      if(window.cookie && window.cookie('currencyNotice') === null) {
+        $.ajax({
+          url: '/business/premium/currency_info',
+          type: 'POST',
+          dataType: 'json',
+          success: function(reply){
+            if (reply.status) {
+              if($('header').length > 0) {
+                $('header').append(reply.msg);
+              } else {
+                $('div.headerWrapper').append(reply.msg);
+              }
+              $('#j-close_currency_notice').click(function(e){
+                e.preventDefault();
+                $('#j-currency_notice').slideUp('slow', function(){
+                  cookie('currencyNotice', true, { path: '/', expires: 30 }); // 30 days
+                  $('#j-currency_notice').remove();
+                });
+              });
+              $('#j-currency_notice').slideDown('slow');
+            }
+          }
+        });
+      }
+    }
+    function notification() {
+      $.ajax( {
+        url: "/newsfeed/get_newsfeed_count",
+        type: 'GET',
+        async: true,
+        dataType: 'json',
+        success: function ( data ){
+          if (data.count > 0) {
+            $('.j-intro-newsfeedcount').html('check ' +data.count);
+            $('.j-icon_NoNotification').hide();
+            $('.j-icon_Notification span').html(data.count);
+            $('.j-icon_Notification').show();
+            if (typeof Tinycon !== 'undefined'){
+              Tinycon.setBubble(data.count);
+            }
+          }
+        },
+        error: function (jqXHR){
+        }
+      });
+    }
 
     $(".j-icon_NoNotification").click(function(e){
-      recordGAEvent('NoNotification_clicked');
+      recordGAMenuEvent('Newsfeed', 'NoNotification_clicked');
     });
 
     $(".j-icon_Notification").click(function(e){
-      recordGAEvent('Notification_clicked');
+      recordGAMenuEvent('Newsfeed', 'Notification_clicked');
     });
 
     $(".j-help").click(function(e){
-      _gaq.push(['_trackEvent', 'Help', 'help_topnav_clicked']);
+      recordGAMenuEvent('Dropdown_Menu_Top_navigation', 'help_topnav_clicked');
     });
 
-    //Record GA event for the Notification icon clicked
-    function recordGAEvent(event) {
-      _gaq.push(['_trackEvent', 'Newsfeed', event]);
+    $(".j-newsfeed").click(function(e){
+      recordGAMenuEvent('Dropdown_Menu_Top_navigation', 'newsfeed_topnav_clicked');
+    });
+
+    $(".j-public-profile").click(function(e){
+      recordGAMenuEvent('Dropdown_Menu_Top_navigation', 'public_profile_topnav_clicked');
+    });
+
+    $(".j-uploads").click(function(e){
+      recordGAMenuEvent('Dropdown_Menu_Top_navigation', 'my_uploads_topnav_clicked');
+    });
+
+    $(".j-zipcasts").click(function(e){
+      recordGAMenuEvent('Dropdown_Menu_Top_navigation', 'my_zipcasts_topnav_clicked');
+    });
+
+    $(".j-edit-profile").click(function(e){
+      recordGAMenuEvent('Dropdown_Menu_Top_navigation', 'edit_profile_topnav_clicked');
+    });
+
+    $(".j-analytics").click(function(e){
+      recordGAMenuEvent('Dropdown_Menu_Top_navigation', 'analytics_topnav_clicked');
+    });
+  
+    $(".j-logout").click(function(e){
+      recordGAMenuEvent('Dropdown_Menu_Top_navigation', 'logout_topnav_clicked');
+    });
+
+    // Record GA event for the menu item  
+    function recordGAMenuEvent(menuItem, event) {
+      _gaq.push(['_trackEvent', menuItem, event]);
     }
 
-    if ($$.isHomePage) {
-      notification();
-    } else {
-        $(document).ready(function(){notification();});
-    }
+    $(function(){
+      currencyInfo();
+      if($$.user.loggedin) {
+        notification();
+        if($$.user.is_pro) {
+          isPaymentPending();
+        }
+	else{
+	  isCouponRedemptionPending();
+	}
+      }
+    });
   })(jQuery,slideshare_object);
 
 </script>
 
             
+            </div>
           </div><!-- .header -->
+          </div>
+          <!-- /.headerOuter -->
           
       </div>
       <!-- Header ends here -->
@@ -265,9 +353,11 @@
         
 
           <div class="content">
-            <div id="page-notice" class="notice" style="display:none; "><span></span> <a href="#" class="closeThis" title="Close this notification">×</a></div><div id="page-warning" class="warning" style="display:none; "><span></span> <a href="#" class="closeThis" title="Close this notification">×</a></div><div id="page-message" class="message" style="display:none; "><span></span> <a href="#" class="closeThis" title="Close this notification">×</a></div><div id="page-success" class="success" style="display:none; "><span></span> <a href="#" class="closeThis" title="Close this notification">×</a></div><div id="page-error" class="error" style="display:none; "><span></span> <a href="#" class="closeThis" title="Close this notification">×</a></div><div id="page-permanent" class="permanent" style="display:none; "><span></span> </div>
-            <link href="http://public.slidesharecdn.com/stylesheets/static.css?29063" media="screen" rel="stylesheet" type="text/css"><div class="navbar"><ul><li><a href="/terms" title="Terms of Service" class="unselected">Terms of Service</a></li><li><a href="/terms#dmca" title="DMCA" class="unselected">DMCA</a></li><li><a href="/community_guidelines" title="Guidlines" class="unselected">Guidlines</a></li><li><a href="/privacy" title="Privacy Policy" class="selected">Privacy Policy</a></li></ul></div>
+            <div id="page-notice" class="notice" style="display:none; "><span></span> <a href="#" class="closeThis close" title="Close this notification">×</a></div><div id="page-warning" class="warning" style="display:none; "><span></span> <a href="#" class="closeThis close" title="Close this notification">×</a></div><div id="page-message" class="message" style="display:none; "><span></span> <a href="#" class="closeThis close" title="Close this notification">×</a></div><div id="page-success" class="success" style="display:none; "><span></span> <a href="#" class="closeThis close" title="Close this notification">×</a></div><div id="page-error" class="error" style="display:none; "><span></span> <a href="#" class="closeThis close" title="Close this notification">×</a></div><div id="page-permanent" class="permanent" style="display:none; "><span></span> </div>
+            
+            <link href="http://public.slidesharecdn.com/stylesheets/static.css?35159" media="screen" rel="stylesheet" type="text/css"><div class="navbar"><ul><li><a href="/terms" title="Terms of Service" class="unselected">Terms of Service</a></li><li><a href="/terms#dmca" title="DMCA" class="unselected">DMCA</a></li><li><a href="/community_guidelines" title="Guidelines" class="unselected">Guidelines</a></li><li><a href="/privacy" title="Privacy Policy" class="selected">Privacy Policy</a></li></ul></div>
  
+                 
                  
                  
                  
@@ -361,7 +451,8 @@
 
 <br><br><i>Effective September 25th, 2009</i>
                
-              </div>  
+              </div>  </div>  
+               
                
                
                
@@ -375,31 +466,30 @@
        <!-- Footer begins here -->
        <div class="footerWrapper">
        <div class="footer">
-         <div>
-         <div class="sponsoredA">
-           <div class="sponsoredA1">
-             
-           </div>
-         </div><!-- .sponsoredA -->
- 
- 
-         <form action="/search/slideshow" method="get" class="headerSearch">
+         <div class="footerLeft">
+    
+         <form action="/search/slideshow" method="get" class="footerSearch">
            <fieldset>
              <input type="hidden" name="searchfrom" value="footer">
-             <span class="suggestionContainer">
-               <input type="text" class="text" name="q" id="search_query_bottom" autocomplete="off" value="">
-             </span>
-             <input type="submit" value="Search" class="ctaNormal">
+             <div class="suggestionContainerFooter">
+               <input type="text" class="text" name="q" id="search_query_bottom" autocomplete="off" value=""><input type="submit" value="Search" class="ctaNormal">
+             </div>
            </fieldset>
          </form>
-
-
-         <div class="sponsoredB">
-         </div><!-- .sponsoredB -->
+        <!-- .social-links -->
+        <div class="social-links">
+            <ul>
+                <li><a href="http://www.slideshare.net/mobile" class="iconMobileFooter" rel="nofollow">SlideShare <br> on mobile</a></li>
+                <li><a href="http://twitter.com/SlideShare" class="iconTwitterFooter" rel="nofollow">Follow us on Twitter</a></li>                
+                <li><a href="http://www.facebook.com/slideshare" class="iconFacebookFooter" rel="nofollow">Find us on Facebook</a></li>
+                <li><a href="http://slidesha.re/SlideShareOnLinkedIn" class="iconLinkedInFooter" rel="nofollow">Connect on LinkedIn</a></li>
+            </ul>
+        </div>
+        <!-- /.social-links -->
          </div>
 
 
-         <div class="links">
+         <div class="links footerRight">
            <div class="fColumn fColumnSmall">
              <ul class="linksList">
                <li><strong>Learn About Us</strong></li>
@@ -424,22 +514,13 @@
                <li><a title="Community Guidelines" href="/community_guidelines" rel="nofollow">Community Guidelines</a></li>
              </ul>
            </div><!-- .fColumn -->
-
-           <div class="fColumn fColumnSmall">
-             <ul class="linksList">
-               <li><strong>SlideShare Outside</strong></li>
-               <li><a title="SlideShare Mobile" href="/mobile" rel="nofollow">SlideShare Mobile</a></li>
-               <li><a title="SlideShare for Facebook" href="http://bit.ly/SlideshareOnFacebook" rel="nofollow">Facebook App</a></li>
-               <li><a title="SlideShare for LinkedIn" href="http://slidesha.re/SlideShareOnLinkedIn" rel="nofollow">LinkedIn App</a></li>
-               <li><a href="/widgets/blogbadge" rel="nofollow">Widgets for your blog</a></li>
-             </ul>
-           </div><!-- .fColumn -->
            
            <div class="fColumn">
              <ul class="linksList">
                <li><strong>Pro &amp; more</strong></li>
-               <li><a title="Go PRO" href="/business/premium/plans?cmp_src=footer" rel="nofollow">Go PRO <sup>New</sup></a></li>
+               <li><a title="Go PRO" href="/business/premium/plans?cmp_src=footer">Go PRO <sup>New</sup></a></li>
                <li><a title="Business Solutions" href="/contact_sales" rel="nofollow">Business Solutions</a></li>
+               <li><a target="_blank" title="Advertise" href="http://premium.slideshare.net/advertise" rel="nofollow">Advertise on SlideShare</a></li>
              </ul>
            </div><!-- .fColumn -->
 
@@ -449,25 +530,15 @@
                <li><a href="/developers" rel="nofollow">Developers Section</a></li>
                <li><a href="http://groups.google.com/group/slideshare-developers?lnk=srg" rel="nofollow">Developers Group</a></li>
                <li><a title="Engineering Blog" href="http://engineering.slideshare.com">Engineering Blog</a></li>
+               <li><a title="Widgets for your blog" href="http://www.slideshare.net/widgets/blogbadge">Blog Widgets</a></li>
              </ul>
            </div><!-- .fColumn -->
          </div><!-- .links -->
 
-         <p class="aboutSlideShare">
-           <span class="slideshareBoys">&nbsp;</span>
-           <strong>SlideShare is the world's largest community for sharing presentations.</strong> Upload and share on blogs, Twitter, Facebook or LinkedIn. Over 60 million people use SlideShare every month for research, sharing ideas, connecting with others, and generating business leads. SlideShare also supports documents, PDFs, and videos.
-             <span class="j-logged-out"><strong><a href="/signup?footer" title="Sign up for SlideShare">Get an account</a>.</strong></span>
-         </p><!-- .aboutSlideShare -->
-         
-         <p class="followSlideShare">
-           <a href="http://www.facebook.com/slideshare"><img alt="Like SlideShare on Facebook" src="http://public.slidesharecdn.com/images/facebook-slideshare.png" height="33" width="110"></a>            
-           
-           <a href="http://twitter.com/SlideShare" class="twitter-follow-button" data-show-count="false">Follow @SlideShare</a>
-           <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-           
-         </p>
-
-         <p class="copyright">© 2011 SlideShare Inc. All rights reserved.</p>
+         <div class="copyright">
+            <p>© 2012 SlideShare Inc. All rights reserved.</p>
+             <a href="http://www.slideshare.net/rss/latest" class="rssFooter" rel="nofollow">RSS Feed</a>
+         </div>    
 
        </div><!-- .footer -->
        </div><!-- .footerWrapper -->
@@ -478,22 +549,54 @@
         
       </div>
       
-      <script src="http://public.slidesharecdn.com/v3/scripts/proCtaBox.js?29063" type="text/javascript"></script>
-      <script src="http://public.slidesharecdn.com/v3/scripts/fbconnect.js?29063" type="text/javascript"></script>
       
-      <script type="text/javascript" charset="utf-8">
-      // <![CDATA[
-      slideshare_object.setup_fbconnect_interaction();
-      // // ]]> 
-      </script>
+      <script src="http://public.slidesharecdn.com/javascripts/proCtaBox.js?35159" type="text/javascript"></script>
+      <script src="http://public.slidesharecdn.com/javascripts/fbconnect.js?35159" type="text/javascript"></script>
+      
+        <!-- start Mixpanel -->
+        <script type="text/javascript">
+        //TODO: Why not make a seperate js for it (and combine with other js) so that it can be cached by the browser
+          var mpq=[];mpq.push(["init","dd9f3935b99b8dbb9b5e85a6af56b463"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c<d.length;c++){mpq[d[c]]=e(d[c])}})();
+        </script>
+      
+      <!-- end Mixpanel -->
+
+       <!-- quantserve code begins -->
+       <script type="text/javascript">
+       // <![CDATA[
+         _qoptions={
+           qacct:"p-abU44ONrAuwk2"
+         };
+         // ]]>
+       </script>
+
+       
+         <script src="http://edge.quantserve.com/quant.js" type="text/javascript"></script>
+       
+
+       
+         <noscript>
+           <p>
+             <a href="http://www.quantcast.com/p-abU44ONrAuwk2" rel="nofollow">
+               <img src="http://pixel.quantserve.com/pixel/p-abU44ONrAuwk2.gif" height="1" alt="Quantcast" style="border:0;display:none" width="1" />
+             </a>
+           </p>
+         </noscript>
+       
+     <!--quantserve code ends -->
+
+      
+        
+          <script type="text/javascript" charset="utf-8">
+          // <![CDATA[
+          slideshare_object.setup_fbconnect_interaction();
+          // // ]]> 
+          </script>
+        
       
       <script type="text/javascript" charset="utf-8">
       // <![CDATA[
         /* From http://www.quirksmode.org/js/detect.html */
-        (function(){
-          if (!window.cookie('user_id')) window.cookie( 'user_id', Math.uuid(35) , { expires : 3650 } );
-          jQuery.get('/images/1x1.gif', { tracking : 'views|' + window.cookie('user_id') + "|" + document.referrer + "|" + window.location.pathname + "|" + slideshare_object.user.login + "|" + (new Date()).getTime() } );
-        })();
         var BrowserDetect = {
           init: function () {
             this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
@@ -544,7 +647,10 @@
         };
         jQuery(window).load(function(){
           try {
-            if(slideshare_object.cache['pageTag']) pageTracker._trackEvent("Pageload time", slideshare_object.cache['pageTag'], BrowserDetect.init(), (new Date()).getTime() - timer );
+            if(slideshare_object.cache['pageTag']){
+              window._gaq = _gaq || [];
+              _gaq.push(["_trackEvent", "Pageload time", slideshare_object.cache['pageTag'], BrowserDetect.init(), (new Date()).getTime() - timer ]);
+            } 
           } catch(e) {}
         });
       // ]]> 
@@ -573,20 +679,19 @@
       
       <!-- End comScore Tag -->
       
+      <script type="text/javascript" charset="utf-8">
+        (function($,$$){
+        $('#slideshare_logo').click(function(e) {
+          e.preventDefault();
+          if($$.user.loggedin) {
+            window.location.href = "/?ss";
+          } else {
+            window.location.href = "/";
+          }
+        });
+      })(jQuery,slideshare_object);
+      </script>
 
     
   
-
-<script type="text/javascript" charset="utf-8">
-    (function($,$$){
-      $('#slideshare_logo').click(function(e) {
-        e.preventDefault();
-        if($$.user.loggedin) {
-          window.location.href = "/?ss";
-        } else {
-          window.location.href = "/";
-        }
-      });
-    })(jQuery,slideshare_object);
-  </script>
-</div></body></html>
+</body></html>
