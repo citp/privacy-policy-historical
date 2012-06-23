@@ -1,270 +1,570 @@
-<!--The following is the downloaded HTML source of the mendix.com privacy policy that was archived on 2006-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061118191917id_/http%3A//www.mendix.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mendix.com privacy policy that was archived on 2012-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623060003id_/http%3A//www.mendix.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Mendix</title>
-<link href="css/mendix_style.css" rel="stylesheet" type="text/css">
-<script src="scripts/mendix.js" type="text/javascript"></script>
+<!DOCTYPE html><html dir="ltr" lang="en-US"><!--<![endif]--><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Mendix | The App Platform for The Enterprise</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/style.css">
+<link rel="pingback" href="http://www.mendix.com/wordpress/xmlrpc.php">
+<link rel="shortcut icon" href="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/favicon.ico">
+<script type="text/javascript" src="http://use.typekit.com/ytc8qtv.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+	<!-- Add jQuery library -->
+	<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/fancybox/lib/jquery-1.7.2.min.js"></script>
+
+	<!-- Add mousewheel plugin (this is optional) -->
+	<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+
+	<!-- Add fancyBox main JS and CSS files -->
+	<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/fancybox/source/jquery.fancybox.js?v=2.0.6"></script>
+	<link rel="stylesheet" type="text/css" href="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/fancybox/source/jquery.fancybox.css?v=2.0.6" media="screen">
+
+	<!-- Add Button helper (this is optional) -->
+	<link rel="stylesheet" type="text/css" href="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.2">
+	<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.2"></script>
+
+	<!-- Add Thumbnail helper (this is optional) -->
+	<link rel="stylesheet" type="text/css" href="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.2">
+	<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.2"></script>
+
+	<!-- Add Media helper (this is optional) -->
+	<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.0"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			 *  Simple image gallery. Uses default settings
+			 */
+
+			$('.fancybox').fancybox();
+
+			/*
+			 *  Different effects
+			 */
+
+			// Change title type, overlay opening speed and opacity
+			$(".fancybox-effects-a").fancybox({
+				helpers: {
+					title : {
+						type : 'outside'
+					},
+					overlay : {
+						speedIn : 500,
+						opacity : 0.95
+					}
+				}
+			});
+
+			// Disable opening and closing animations, change title type
+			$(".fancybox-effects-b").fancybox({
+				openEffect  : 'none',
+				closeEffect	: 'none',
+
+				helpers : {
+					title : {
+						type : 'over'
+					}
+				}
+			});
+
+			// Set custom style, close if clicked, change title type and overlay color
+			$(".fancybox-effects-c").fancybox({
+				wrapCSS    : 'fancybox-custom',
+				closeClick : true,
+
+				helpers : {
+					title : {
+						type : 'inside'
+					},
+					overlay : {
+						css : {
+							'background-color' : '#eee'
+						}
+					}
+				}
+			});
+
+			// Remove padding, set opening and closing animations, close if clicked and disable overlay
+			$(".fancybox-effects-d").fancybox({
+				padding: 0,
+
+				openEffect : 'elastic',
+				openSpeed  : 150,
+
+				closeEffect : 'elastic',
+				closeSpeed  : 150,
+
+				closeClick : true,
+
+				helpers : {
+					overlay : null
+				}
+			});
+
+			/*
+			 *  Button helper. Disable animations, hide close button, change title type and content
+			 */
+
+			$('.fancybox-buttons').fancybox({
+				openEffect  : 'none',
+				closeEffect : 'none',
+
+				prevEffect : 'none',
+				nextEffect : 'none',
+
+				closeBtn  : false,
+
+				helpers : {
+					title : {
+						type : 'inside'
+					},
+					buttons	: {}
+				},
+
+				afterLoad : function() {
+					this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');
+				}
+			});
+
+
+			/*
+			 *  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked
+			 */
+
+			$('.fancybox-thumbs').fancybox({
+				prevEffect : 'none',
+				nextEffect : 'none',
+
+				closeBtn  : false,
+				arrows    : false,
+				nextClick : true,
+
+				helpers : {
+					thumbs : {
+						width  : 50,
+						height : 50
+					}
+				}
+			});
+
+			/*
+			 *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
+			*/
+			$('.fancybox-media')
+				.attr('rel', 'media-gallery')
+				.fancybox({
+					openEffect : 'none',
+					closeEffect : 'none',
+					prevEffect : 'none',
+					nextEffect : 'none',
+
+					arrows : false,
+					helpers : {
+						media : {},
+						buttons : {}
+					}
+				});
+
+			/*
+			 *  Open manually
+			 */
+
+			$("#fancybox-manual-a").click(function() {
+				$.fancybox.open('1_b.jpg');
+			});
+
+			$("#fancybox-manual-b").click(function() {
+				$.fancybox.open({
+					href : 'iframe.html',
+					type : 'iframe',
+					padding : 5
+				});
+			});
+
+			$("#fancybox-manual-c").click(function() {
+				$.fancybox.open([
+					{
+						href : '1_b.jpg',
+						title : 'My title'
+					}, {
+						href : '2_b.jpg',
+						title : '2nd title'
+					}, {
+						href : '3_b.jpg'
+					}
+				], {
+					helpers : {
+						thumbs : {
+							width: 75,
+							height: 50
+						}
+					}
+				});
+			});
+
+
+		});
+	</script>
+
+
+<!--[if lt IE 9]>
+<script src="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+
 <script type="text/javascript">
-<!--
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-}
-MM_reloadPage(true);
-//-->
-</script>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-163813-1";
-urchinTracker();
-</script>
+var TB_pluginPath = 'http://www.mendix.com/wordpress/wp-content/plugins/tweet-blender';
+var TB_config = {
+'widget_show_photos':false,
+'widget_show_source':false,
+'widget_show_header':false,
+'general_link_screen_names':true,
+'general_link_hash_tags':true,
+'general_link_urls':true,
+'widget_check_sources':false,
+'widget_show_user':true,
+'general_timestamp_format':false,
+'general_seo_tweets_googleoff':false,
+'general_seo_footer_googleoff':false,
+'widget_show_reply_link':false,
+'widget_show_follow_link':false,
+'archive_show_user':false,
+'archive_show_photos':false,
+'archive_show_source':false,
+'archive_tweets_num':'10',
+'archive_is_disabled':false,
+'archive_show_reply_link':false,
+'archive_show_follow_link':false,
+'archive_auto_page':false,
+'archive_keep_tweets':'0',
+'advanced_reroute_on':false,
+'advanced_show_limit_msg':false,
+'advanced_disable_cache':false,
+'advanced_no_search_api':false,
+'filter_lang':' ',
+'filter_hide_mentions':false,
+'filter_hide_replies':false,
+'filter_location_name':false,
+'filter_location_dist':false,
+'filter_location_dist_units':false,
+'filter_bad_strings':false,
+'filter_limit_per_source':false,
+'filter_limit_per_source_time':'0',
+'filter_hide_same_text':false,
+'filter_hide_not_replies':false
+}</script>
 
+<link rel="alternate" type="application/rss+xml" title="Mendix | The App Platform for The Enterprise » Feed" href="http://www.mendix.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Mendix | The App Platform for The Enterprise » Comments Feed" href="http://www.mendix.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Mendix | The App Platform for The Enterprise » Privacy Policy Comments Feed" href="http://www.mendix.com/privacy-policy/feed/">
+<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-includes/js/jquery/jquery.js?ver=1.7.1"></script>
+<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/plugins/mendix/js/ajax.js?ver=3.3.2"></script>
+<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/plugins/mendix/js/mendix-testimonial.js.php?ver=3.3.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mendix.com/wordpress/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.mendix.com/wordpress/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Terms of Use" href="http://www.mendix.com/terms-of-use/">
+<link rel="next" title="Mendix World 2011" href="http://www.mendix.com/partners/partner-events/world2011/">
 
+<!-- All in One SEO Pack 1.6.14.3 by Michael Torbert of Semper Fi Web Design[411,479] -->
+<meta name="description" content="Mendix Privacy Policy Last updated October 17, 2011 Your privacy is important to us (“Mendix”). This Privacy Policy (the “Policy”) discloses our">
+<link rel="canonical" href="http://www.mendix.com/privacy-policy/">
+<!-- /all in one seo pack -->
+<script charset="utf-8" type="text/javascript">var switchTo5x=false;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.d099e783-256b-4d1b-8c7c-0a6da7ea296f'});var st_type='wordpress3.3.2';</script>
+<!-- Protected by WP-SpamFree v2.1.1.2 :: JS BEGIN -->
+<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/plugins/wp-spamfree/js/wpsf-js.php"></script> 
+<!-- Protected by WP-SpamFree v2.1.1.2 :: JS END -->
+
+<link type="text/css" media="screen" rel="stylesheet" href="http://www.mendix.com/wordpress/wp-content/plugins/tweet-blender/css/tweets.css">
 </head>
-<body>
 
-<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td height="60">&nbsp;</td>
-  </tr>
-  <tr>
-    <td><div align="right"><a href="index.php"><img src="images/logo_1.gif" width="162" height="44"></a></div></td>
-  </tr>
-  <tr>
-    <td>
-    <table border="0" cellpadding="2" cellspacing="0">
-      <tbody><tr>
-        <td class="mainmenucell"><a href="index.php">home</a> </td>
-		<td class="mainmenucell">|</td>
-        <td class="mainmenucell" onmouseover="showmenu(1)"><a href="#">about mendix</a> </td>
-		<td class="mainmenucell">|</td>
-        <td class="mainmenucell" onmouseover="showmenu(2)"><a href="#">news &amp; events</a> </td>
-		<td class="mainmenucell">|</td>
-        <td class="mainmenucell" onmouseover="showmenu(3)"><a href="#">products</a></td>
-		<td class="mainmenucell">|</td>
-	<td class="mainmenucell" onmouseover="showmenu(8)"><a href="#">solutions</a></td>
-		<td class="mainmenucell">|</td>
-        <td class="mainmenucell" onmouseover="showmenu(4)"><a href="#">services</a></td>
-		<td class="mainmenucell">|</td>
-        <td class="mainmenucell" onmouseover="showmenu(5)"><a href="#">cases</a></td>
-		<td class="mainmenucell">|</td>
-        <td class="mainmenucell" onmouseover="showmenu(6)"><a href="#">partners</a></td>
-		<td class="mainmenucell">|</td>
-        <td class="mainmenucell" onmouseover="showmenu(7)"><a href="#">contact</a></td>
-      </tr>
-    </tbody></table>
-<div id="submenu1" style="left:-100px; top:130px; z-index:104; position:absolute; visibility:hidden;">
-  <table width="140" border="0" cellpadding="0" cellspacing="0" class="submenu">
-    <tbody><tr>
-      <td width="2" class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" onclick="window.location='who.php'">Who we are</td>
-    </tr>
-    <tr>
-      <td class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" onclick="window.location='phi.php'">Philosophy</td>
-    </tr>
-    <tr>
-      <td class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" onclick="window.location='career.php'">Career</td>
-    </tr>
-      <tr>
-      <td class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" onclick="window.location='contact.php'">Contact</td>
-    </tr>
-  </tbody></table>
-</div>      
-   
-<div id="submenu2" style="left:-100px; top:130px; z-index:104; position:absolute; visibility:hidden;">
-  <table width="140" border="0" cellpadding="0" cellspacing="0" class="submenu">
-    <tbody><tr>
-      <td width="2" class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" onclick="window.location='news.php'">News</td>
-    </tr>
-  </tbody></table>
-</div>  
-   
- <div id="submenu3" style="left:-100px; top:130px; z-index:104; position:absolute; visibility:hidden;">
-  <table width="179" border="0" cellpadding="0" cellspacing="0" class="submenu">
+<body class="page page-id-10849 page-template-default two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+		<div id="header_top">
+			<div class="mxid_wrapper">
+										<form method="get" id="searchform" action="http://www.mendix.com/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search">
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search">
+	</form>
+				
+				<div class="toplinks" id="mxid_topbar" style="display:none" name="mxid_topbar" mxidsrc="https://home.mendix.com/mxid/appbar" bartype="account">
+					<a href="%LOCATION%" class="%CLASS% " target="_top" title="%DESCRIPTION% " id="%NAME%">%CAPTION%</a>
+				</div>
+			</div> <!-- End MXID Wrapper -->
 
-    <tbody><tr>
-      <td class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" width="163" onclick="window.location='mxep.php'">Overview</td>
-    </tr>
-    <tr>
-      <td class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" width="163" onclick="window.location='arch.php'">Architecture</td>
-    </tr>
-    <tr>
-      <td class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" width="163" onclick="window.location='mxff.php'">Benefits</td>
-    </tr>
+			<hgroup>
+				<h1 id="site-title"><a href="http://www.mendix.com/" rel="home">
+					<img src="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/images/mx_logo.png" alt="Mendix"></a>
+				</h1>
+			</hgroup>
 
-</tbody></table>
-</div>   
-<div id="submenu8" style="left:-100px; top:130px; z-index:104; position:absolute; visibility:hidden;">
-  <table width="179" border="0" cellpadding="0" cellspacing="0" class="submenu">
-       <tbody><tr>
-      <td class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" width="163" onclick="window.location='agility.php'">Software Agility</td>
-    </tr>
-    <tr>
-      <td class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" width="163" onclick="window.location='connectivity.php'">Connectivity</td>
-    </tr>
-    <tr>
-      <td class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" width="163" onclick="window.location='rbpl.php'">Role-based presentation layers</td>
-    </tr>
-    <tr>
-      <td class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" width="163" onclick="window.location='compliance.php'">Compliance</td>
-    </tr>
+			<div id="mx-ribbon">
+				<a href="http://www.mendix.com/signup">
+					<span>Sign up<br> for free!</span>
+					Start building <i>your</i><br> new app
+				</a>
+			</div>
 
-  <tr>
-      <td class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" width="163" onclick="window.location='bi.php'">Business Intelligence</td>
-    </tr>
- <tr>
-      <td class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" width="163" onclick="window.location='sap.php'">For SAP</td>
-    </tr>
-    <tr>
-      <td class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" width="163" onclick="window.location='navision.php'">For Navision</td>
-    </tr>
+			<nav id="access" role="navigation">
+				<!--<h3 class="assistive-text"><php _e( 'Main menu', 'twentyeleven' ); ?></h3>-->
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu-mendix-container"><ul id="menu-mendix" class="menu"><li id="menu-item-12350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12350"><a href="http://www.mendix.com/product/">Product</a>
+<ul class="sub-menu">
+	<li id="menu-item-12355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12355"><a href="http://www.mendix.com/product/how-it-work/">How it works</a></li>
+	<li id="menu-item-15049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15049"><a href="http://www.mendix.com/product/features/">Features</a></li>
+	<li id="menu-item-15042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15042"><a href="http://www.mendix.com/product/examples/">Examples</a></li>
+	<li id="menu-item-12366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12366"><a href="http://www.mendix.com/product/for-your-systems/">Integrate</a>
+	<ul class="sub-menu">
+		<li id="menu-item-12367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12367"><a href="http://www.mendix.com/product/for-your-systems/ms-dynamics/">Microsoft Dynamics</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15275"><a href="http://www.mendix.com/product/solutions/">Solutions</a></li>
+</ul>
+</li>
+<li id="menu-item-15104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15104"><a href="http://www.mendix.com/customers/">Customers</a></li>
+<li id="menu-item-12351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12351"><a href="http://www.mendix.com/partners/">Partners</a>
+<ul class="sub-menu">
+	<li id="menu-item-12369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12369"><a href="http://www.mendix.com/partners/partner/">Our Partners</a></li>
+	<li id="menu-item-12370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12370"><a href="http://www.mendix.com/partners/become-a-partner/">Become a partner</a></li>
+	<li id="menu-item-12371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12371"><a href="http://www.mendix.com/partners/universities/">Universities</a></li>
+	<li id="menu-item-12372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12372"><a href="http://www.mendix.com/partners/partner-events/">Partner Events</a></li>
+	<li id="menu-item-15180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15180"><a href="http://www.mendix.com/?page_id=14921">Partner Portal</a></li>
+</ul>
+</li>
+<li id="menu-item-15138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15138"><a href="http://www.mendix.com/community/">Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-12373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12373"><a href="http://www.mendix.com/community/training/">Training</a></li>
+	<li id="menu-item-15051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15051"><a href="https://world.mendix.com/pages/releaseview.action?pageId=10420640">Getting Started</a></li>
+	<li id="menu-item-15052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15052"><a href="https://world.mendix.com/display/howto40/Home">How To</a></li>
+	<li id="menu-item-15053" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15053"><a href="https://world.mendix.com/display/refguide3/Introduction">Documentation</a></li>
+	<li id="menu-item-15050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15050"><a href="http://mxforum.mendix.com">Forum</a></li>
+	<li id="menu-item-15054" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15054"><a href="https://appstore.mendix.com/">App Store</a></li>
+</ul>
+</li>
+</ul></div>
 
-    <tr>
-      <td class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" width="163" onclick="window.location='msc.php'">For Mid-Size Companies</td>
-    </tr>
+			</nav><!-- #access -->
+		</div> <!-- End Header Top -->
+			<div id="header_bottom">
+									</div>
+	</header><!-- #branding -->
 
-</tbody></table>
-</div>   
+	<div id="main">
 
-<div id="submenu4" style="left:-100px; top:130px; z-index:104; position:absolute; visibility:hidden;">
-<table width="140" border="0" cellpadding="0" cellspacing="0" class="submenu">
-     <tbody><tr>
-     <td width="2" class="submenuBlock"></td>
-     <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" onclick="window.location='support.php'">Support</td>
-    </tr> 
-   <tr>
-    <td width="2" class="submenuBlock"></td>
-    <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" onclick="window.location='education.php'">Education </td>
-   </tr>
- </tbody></table>
-</div>
-	  
-<div id="submenu5" style="left:-100px; top:130px; z-index:104; position:absolute; visibility:hidden;">
-<table width="140" border="0" cellpadding="0" cellspacing="0" class="submenu">
-   <tbody><tr>
-      <td width="2" class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" onclick="window.location='rapid_dev.php'">Rapid Development</td>
-    </tr>
-   <tr>
-     <td width="2" class="submenuBlock"></td>
-     <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" onclick="window.location='integration.php'">Integration</td>
-    </tr> 
-   </tbody></table>
-</div>	  	
-<div id="submenu6" style="left:-100px; top:130px; z-index:104; position:absolute; visibility:hidden;">
-  <table width="140" border="0" cellpadding="0" cellspacing="0" class="submenu">
-   <tbody><tr>
-      <td width="2" class="submenuBlock"></td>
-      <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" onclick="window.location='partner_overview.php'">Overview</td>
-    </tr>
- 
-  </tbody></table>
-</div>
-<div id="submenu7" style="left:-100px; top:130px; z-index:104; position:absolute; visibility:hidden;">
-  <table width="140" border="0" cellpadding="0" cellspacing="0" class="submenu">
-   <tbody><tr>
-     <td width="2" class="submenuBlock"></td>
-     <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" onclick="window.location='locations.php'">Locations</td>
-   </tr>
-   <tr>
-     <td width="2" class="submenuBlock"></td>
-     <td class="submenu" onmouseover="this.className='submenuOver';" onmouseout="this.className='submenu';" onclick="window.location='contactform.php'">Contact us</td>
-   </tr>       
- </tbody></table>
-</div>  </td>
-  </tr>
-  <tr>
-    <td height="30" valign="bottom">
-		<table width="100%" cellpadding="1" cellspacing="2" style="margin-top:8px;border-top:1px solid #cccccc;border-bottom:1px solid #cccccc;">
-      <tbody><tr>
-        <td width="266" background="images/domeinBar1.gif" bgcolor="#9ccfef">&nbsp;</td>
-        <td background="images/domeinBar2.gif" bgcolor="#1d446b">&nbsp;</td>
-        <td width="266" background="images/domeinBar3.gif" bgcolor="#9ca2b2"></td>
-      </tr>
-    </tbody></table>	
-	</td>  
-  </tr>
-</tbody></table>
-<br>
-<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="150" valign="top" class="LeftBox"><table width="150" border="0" cellpadding="0" cellspacing="0" class="navBox">
-        <tbody><tr>
-          <td colspan="2" align="left" class="navBoxHead">Services</td>
-        </tr>
-        <tr>
-          <td align="center">&nbsp;</td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td align="center" height="15"> <img border="0" src="images/pt1.gif" width="9" height="9"></td>
-          <td><a href="support.php">Support</a></td>
-        </tr>
-        <tr>
-          <td align="center" height="15"> <img border="0" src="images/pt1.gif" width="9" height="9"></td>
-          <td><a href="education.php">Education</a></td>
-        </tr>
-        <tr>
-          <td align="center" height="15">&nbsp;</td>
-          <td>&nbsp;</td>
-        </tr>
-      </tbody></table></td>
-    <td width="10" valign="top">&nbsp;</td>
-    <td width="577" valign="top" class="pagetextblock"><h1>Privacy &amp; Security </h1>
-    We respect the privacy of the information you provide to us. This summary of our online information practices demonstrates our commitment to protect your privacy. We do not sell, rent, share or in any other way use personally-identifying information collected during your use of our Website without your permission. <br>
-    <br>
-At the time you register on our site, we collect and store your name, address, email address, and other personally-identifying information. We need this information to contact you to discuss terms of sale. We may also ask you for personally-identifying information at other times, such as if you communicate with us, or complete a survey. <br>
-<br>
-As part of our service, we may use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Generally, we use cookies to remind us who you are and enable us to access your account information so you do not have to re-enter it; gather statistical information about usage by registered or unregistered users, research visiting patterns, and help target marketing efforts based on user interests. Preference and options configurations in your browser determine if and how a cookie will be accepted. You can change those configurations on your computer if you desire. By changing your preferences, you can accept all cookies, you can be notified when a cookie is set, or you can reject all cookies. If you do so and cookies are disabled, you may be required to re-enter your information more often and certain features of our site may be unavailable. <br>
-<br>
-In addition, we automatically gather general statistical information about our Website and visitors, such as IP addresses, browsers, pages viewed, number of visitors, goods and services purchased, etc., but in doing so we do not reference you by individual name, e-mail address, home address, or telephone number. We use this data in the aggregate to determine how much our customers use parts of our site so we can improve our site. We may provide this statistical information to third parties, but when we do so we do not provide personally-identifying information without your permission. <br>
-<br>
-We use your personally-identifying information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services. We use your e-mail address, your mailing address, and phone number to contact you regarding administrative notices, new product offerings and communications relevant to your use of the site. If you place a request for products or services, we use information to further process your request. We may also use or disclose information to resolve disputes, investigate problems, or enforce our User Agreement. At times, we may review status or activity of multiple users to do so. We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our products and services. <br>
-We use your IP address to help diagnose problems with our server, to manage our Website and to enhance our site based on the usage pattern data we receive. <br>
-<br>
-<strong>Security </strong><br>
-We employ reasonable and current security methods to prevent unauthorized access, maintain data accuracy, and ensure correct use of information. Your account information and profile are password-protected. We recommend that you do not divulge your password to anyone. Our personnel will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Remember to sign out of your account and close your browser window when you have finished your session. This is to help ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place where others may have access to it <br>
-Whenever you voluntarily disclose personal information online - for example on message boards, through e-mail or in chat areas - that information can be collected and used by others. <br>
-No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us, and you do so at your own risk. <br>
-<br>
-<strong>Your consent </strong><br>
-By using our Website, you consent to the collection and use of this information in the manner we describe. </td>
-    <td width="29" valign="top">&nbsp; </td>
-  </tr>
-</tbody></table>
-<br>
-<table width="800" border="0" align="center" cellpadding="0" cellspacing="0" class="footer">
-  <tbody><tr>
-    <td><a href="contact.php">contact</a> | <a href="subscribe.php">newsletter</a> | <a href="support.php">support</a> | <a href="feedback.php">feedback</a> | <a href="login.php">login</a> </td>
-    <td><div align="right">Copyright 2006 © Mendix Technology BV.  <a href="privacy.php">Privacy &amp; Security </a>| <a href="terms.php">Terms of Use</a></div></td>
-  </tr>
-</tbody></table>
-<script language="javascript" type="text/javascript">
-	menuHideYmin = 80;
-	menuHideYmax = 300;
+		<div class="breadcrumbs"><!-- Breadcrumb NavXT 4.1.0 -->
+<a title="Go to Home." href="http://www.mendix.com">Home</a> &gt; Privacy Policy</div>
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					
+<article id="post-10849" class="post-10849 page type-page status-publish hentry">
+
+	<div class="entry-content">
+		<h2>Mendix Privacy Policy</h2>
+<p><strong>Last updated October 17, 2011</strong></p>
+<p>Your privacy is important to us (“Mendix”). This Privacy Policy (the “Policy”) discloses our information practices, including our policies regarding the types of information that is gathered and tracked through our web sites and applications, descriptions of how such information is used, and identification of the parties with whom the information may be shared. This Policy will be applicable to the Mendix Web sites and applications (each, a “Mendix Site”).<br>
+By voluntarily using a Mendix Site and/or providing data or other information via a Mendix Site, you are indicating your consent to this Policy and agreement to be bound by its terms.</p>
+<h4>Personal Information</h4>
+<p>You can visit a Mendix Site without telling us who you are and without revealing any information about yourself. There are times, however, when we may need certain personally identifiable information (“Personal Information”) from you.<br>
+You may choose to provide us with Personal Information (such as your name, email address and company name) through the Mendix Site when you elect to register with Mendix in order to download our products or access premium content. When you provide Personal Information in order to register with Mendix, such Personal Information will be used in order to provide you with access to the requested products, services content and/or information. We may also use the Personal Information to help us understand who is using our products and services and to help us manage business development activities. If you tell us that you do not want us to use this Personal Information as a basis for further contact with you, we will respect your wishes.</p>
+<h4>Newsletters</h4>
+<p>If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. If you no longer wish to receive our newsletter you may unsubscribe at any time by using the unsubscribe link located at the bottom of each newsletter communication.</p>
+<h4>Sprintr Invitations</h4>
+<p>If you choose to invite others from to a Sprintr™ account or project within your organization, we will ask you for the other user’s email address. We will automatically send him/her an email inviting him/her to visit the site. Mendix stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.<br>
+Invited users may contact us at support [at] Mendix [dot] com to request that we remove this information from our database.</p>
+<h4>Blog/Forum</h4>
+<p>If you use our blog, forum or AppStore on the Mendix Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these blogs and forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these blogs and forums.</p>
+<h4>Statistical Information</h4>
+<p>We sometimes collect anonymous information from visits to the Mendix Site to help us provide better customer service and to make the Mendix Site as user friendly as possible. For example, we keep track of the domains from which people visit and we also measure visitor activity on the Mendix Site. However, when we do so, we do so in ways that keep the information anonymous. Mendix may use this data to analyze trends and statistics and to help us provide better customer service. None of the information described in this paragraph is reviewed at an individual level. None of the information described in the preceding paragraph is reviewed at an individual level.</p>
+<h4>Links to Other Web Sites</h4>
+<p>The Mendix Site may contain links to other Web sites. Mendix is not responsible for the privacy practices or the content of such Web sites. The links from a Mendix Site do not imply that Mendix endorses or has reviewed the third party Web sites. We suggest contacting the operators of those Web sites directly for information on their privacy policies.</p>
+<h4>Customer Testimonials</h4>
+<p>We post customer testimonials on our web site, which may contain personally identifiable information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial.</p>
+<h4>Our Disclosure of Your Personal Information and Other Information</h4>
+<p>Mendix is not in the business of selling your Personal Information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Information with certain third parties without further notice to you, as set forth below:</p>
+<ul>
+<li>Related Companies: We may also share your Personal Information with our subsidiaries, affiliates and other related companies for purposes consistent with this Policy, including sending emails and credit card processing.</li>
+<li>Agents, Consultants and Related Third Parties: Mendix, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.</li>
+<li>Legal Requirements: Mendix may disclose your Personal Information if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Mendix, (iii) act in urgent circumstances to protect the personal safety of users of a Mendix Site or the public, or (iv) protect against legal liability.</li>
+</ul>
+<h4>Security</h4>
+<p>Personal Information collected through the Mendix Site is kept in a secure database and all reasonable precautions are taken to secure this data. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from a Mendix Site may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Information to Mendix via the Internet.<br>
+The security of your personal information is important to us. When you enter sensitive information on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).</p>
+<h4>Changes to Our Policy</h4>
+<p>We may change our business and the Mendix Site from time to time. As a result, at times it may be necessary for us to make changes to this Policy. Mendix reserves the right to update or modify this Policy at any time and from time to time without prior notice. This Policy was last updated on the date indicated above. Your continued use of the Mendix Site after any changes or revisions to this Policy shall indicate your agreement with the terms of such revised Policy.</p>
+<h4>Access to Personal Information and Other Questions</h4>
+<p>You will have the right to contact us to request information about the Personal Information we have collected from you and to request the correction, modification or deletion of such information. To make such a request and/or to pose any other questions regarding this Policy, please contact the Mendix Site webmaster via http://www.mendix.com. You may also correct, modify or delete inaccuracies by logging into your account and going to the account settings link on the site. </p>
+			</div><!-- .entry-content -->
+</article><!-- #post-10849 -->
+
+					<!--<php comments_template( '', true ); ?>-->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+</div> <!-- #main -->
+
+	<script type="text/javascript" language="javascript">llactid=18735</script> 
+	<script type="text/javascript" language="javascript" src="http://t2.trackalyzer.com/trackalyze.js"></script> 
+	<script type="text/javascript">llfrmid=18735</script> 
+	<script type="text/javascript" src="http://formalyzer.com/formalyze_init.js"></script> 
+	<script type="text/javascript" src="http://formalyzer.com/formalyze_call.js"></script>
+
+	<div id="footer-action">
+		<div id="main-action" class="main-action-btn">
+			<a href="http://www.mendix.com/signup" class="light">Sign up for free</a>
+			<a href="http://www.mendix.com/product/examples" class="dark">Watch video</a>
+		</div>
+
+		<img src="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/images/mx_colophon_fish.png" alt="Goldfish">
+	</div>
+	<footer id="colophon" role="contentinfo">
+		<div id="footer-wrapper">
+			
+<div id="supplementary" class="two">
 	
-	resizer();
-	window.onresize = resizer;
-	document.body.onmousemove = mouseMove;
-</script>
+		<div id="second" class="widget-area" role="complementary">
+		<aside id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-about-us-container"><ul id="menu-about-us" class="menu"><li id="menu-item-15167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15167"><a href="http://www.mendix.com/product/">Product</a>
+<ul class="sub-menu">
+	<li id="menu-item-15165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15165"><a href="http://www.mendix.com/product/how-it-work/">How it works</a></li>
+	<li id="menu-item-15163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15163"><a href="http://www.mendix.com/product/examples/">Examples</a></li>
+	<li id="menu-item-15164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15164"><a href="http://www.mendix.com/product/features/">Features</a></li>
+	<li id="menu-item-15166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15166"><a href="http://www.mendix.com/product/for-your-systems/">Integrate</a></li>
+	<li id="menu-item-15518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15518"><a href="http://www.mendix.com/product/solutions/">Solutions</a></li>
+</ul>
+</li>
+<li id="menu-item-15148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15148"><a href="http://www.mendix.com/partners/">Partners</a>
+<ul class="sub-menu">
+	<li id="menu-item-15149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15149"><a href="http://www.mendix.com/partners/partner/">Our Partners</a></li>
+	<li id="menu-item-15150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15150"><a href="http://www.mendix.com/partners/become-a-partner/">Become a partner</a></li>
+	<li id="menu-item-15151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15151"><a href="http://www.mendix.com/partners/universities/">Universities</a></li>
+	<li id="menu-item-15154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15154"><a href="http://www.mendix.com/partners/partner-events/">Partner Events</a></li>
+	<li id="menu-item-15202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15202"><a href="https://partnerportal.mendix.com">Partner Portal</a></li>
+	<li id="menu-item-15653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15653"><a href="https://support.mendix.com">Support Portal</a></li>
+</ul>
+</li>
+<li id="menu-item-15156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15156"><a href="http://www.mendix.com/community/">Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-15201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15201"><a href="http://www.mendix.com/community/training/">Training</a></li>
+	<li id="menu-item-15158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15158"><a href="https://world.mendix.com/pages/releaseview.action;jsessionid=77848CA3A6D72B284795B0552CACDB9B?pageId=10420640">Getting Started</a></li>
+	<li id="menu-item-15159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15159"><a href="https://world.mendix.com/display/howto40/Home">How To</a></li>
+	<li id="menu-item-15160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15160"><a href="https://world.mendix.com/display/refguide4/Introduction">Documentation</a></li>
+	<li id="menu-item-15161" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15161"><a href="https://mxforum.mendix.com/">Forum</a></li>
+	<li id="menu-item-15162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15162"><a href="https://appstore.mendix.com/#1337344182287_142">App Store</a></li>
+</ul>
+</li>
+<li id="menu-item-15147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15147"><a href="http://www.mendix.com/company/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-15360" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15360"><a href="http://www.mendix.com/category/press/">Press</a></li>
+	<li id="menu-item-15141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15141"><a href="http://www.mendix.com/company/in-the-news/">Coverage</a></li>
+	<li id="menu-item-15142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15142"><a href="http://www.mendix.com/company/awards/">Awards</a></li>
+	<li id="menu-item-15143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15143"><a href="http://www.mendix.com/company/events/">Events</a></li>
+	<li id="menu-item-15144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15144"><a href="http://www.mendix.com/company/investors/">Investors</a></li>
+	<li id="menu-item-15145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15145"><a href="http://www.mendix.com/company/join-our-team/">Careers</a></li>
+	<li id="menu-item-15146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15146"><a href="http://www.mendix.com/company/contact-us/">Contact us</a></li>
+</ul>
+</li>
+</ul></div></aside>	</div><!-- #second .widget-area -->
+	
+		<div id="third" class="widget-area" role="complementary">
+		<aside id="text-2" class="widget widget_text">			<div class="textwidget"><div class="socialmedia">
+	<ul class="socialmedia">
+		<li class="facebook"><a href="https://www.facebook.com/mendixsoftware" target="_blank">Facebook</a></li>
+		<li class="twitter"><a href="https://twitter.com/#!/mendixsocial" target="_blank">Twitter</a></li>
+		<li class="rss"><a href="http://www.mendix.com/?feed=atom" target="_blank">RSS Feed</a></li>
+                <li class="youtube"><a href="http://www.youtube.com/MendixOnline" target="_blank">Youtube</a></li>
+	</ul>
+</div>
+<p>Mendix is the app platform company for the enterprise. We enable companies to build, integrate and deploy web and mobile applications faster and with better results, effectively driving ROI in days not months.</p>
+<img src="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/images/mx-footer-slogan.png" alt="agile.social.mobile.now"></div>
+		</aside>	</div><!-- #third .widget-area -->
+	</div><!-- #supplementary -->			
+			<p>Copyright © 2012 | Mendix. All rights reserved | <a href="http://www.mendix.com/terms-of-use"> Terms of Use</a> | <a href="http://www.mendix.com/privacy-policy">Privacy Policy</a>
+		</p></div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
 
+		<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/plugins/tweet-blender/js/jquery.json-2.2.min.js?ver=3.3.2"></script>
+<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/plugins/tweet-blender/js/jquery.jsonp-2.1.4.min.js?ver=3.3.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var TB_labels = {"no_config":"No configuration settings found","twitter_logo":"Twitter Logo","kino":"Development by Kirill Novitchenko","refresh":"Refresh","no_sources":"Twitter sources to blend are not defined","no_global_config":"Cannot retrieve Tweet Blender configuration options","version_msg":"Powered by Tweet Blender plugin v{0} blending {1}","limit_msg":"You reached Twitter API connection limit","no_tweets_msg":"No tweets found for {0}","loading_msg":"Loading tweets...","time_past":"{0} {1} ago","time_future":"in {0} {1}","second":"second","seconds":"seconds","minute":"minute","minutes":"minutes","hour":"hour","hours":"hours","day":"day","days":"days","week":"week","weeks":"weeks","month":"month","months":"months","year":"year","years":"years","check_fail":"Check failed","limit_num":"Max is {0}\/hour","limit_left":"You have {0} left","from":"from","reply":"reply","follow":"follow","limit_reset":"Next reset","view_more":"view more"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/plugins/tweet-blender/js/lib.js?ver=3.3.2"></script>
+<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/plugins/tweet-blender/js/main.js?ver=3.3.2"></script>
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+			<script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-163813-1");
+			pageTracker._trackPageview();
+			} catch(err) {}
+		</script>
+		<!--<script type="text/javascript" src="<php bloginfo('template_url'); ?>/js/jquery-1.2.6.min.js"></script>-->
+		<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/js/functions.js"></script>
+		<script type="text/javascript" src="http://www.mendix.com/wordpress/wp-content/themes/mendix-julie/js/retina.js"></script>
+		<script type="text/javascript" src="https://my.sprintr.com/feedback/sprintrfeedback.js"></script>
+		<script type="text/javascript">
+			checkScript(function () {return (typeof window.sprintrFeedback != "undefined" && typeof $ != "undefined" && typeof $.proxy != "undefined");},
+		 		function () {
+					 window.sprintrFeedback.create({'sprintrid' : '9817d2cd-86d2-48e6-8297-ab941ca96366',  allowFile : true, allowSshot : false, userdata : {
+					  'username' : 'Anonymous',
+					  'emailaddress' : '',
+					  'userroles' : '',
+					  'formName' : ''
+					}});}, 0);
+		</script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+			    var timer, item, box = $("#mx-top-promo");
+
+			    var show = function(node) {
+			        box.hide();
+			        item && item.removeClass("hover");
+
+			        item = node ? $(node) : null;
+			        box  = item ? $("#" + item.attr("rel")) : $("#mx-top-promo");
+
+			        box.show();
+			        item && item.addClass("hover");
+			    };
+
+			    $(".product_box").bind("mouseover", function(e) {
+			        show(this);
+
+			        clearTimeout(timer);
+			        e.stopPropagation();
+			    });
+
+			    $("#mx-top-promo-wrapper").bind("mouseover", function(e) {
+			        clearTimeout(timer);
+			        e.stopPropagation();
+			    });
+
+			    $(document).bind("mouseover", function() {
+			        clearTimeout(timer);
+
+			        timer = setTimeout(function() {
+			            show(null);
+			        }, 500);
+			    });
+			});
+		</script>
+
+		<script type="text/javascript">
+			document.write(unescape("%3Cscript src='" + document.location.protocol +
+			  "//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+		<script>Munchkin.init('729-ZYH-434');</script>
+	
 </body></html>
