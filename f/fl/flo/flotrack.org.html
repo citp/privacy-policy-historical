@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flotrack.org privacy policy that was archived on 2011-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007040200id_/http%3A//www.flotrack.org/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flotrack.org privacy policy that was archived on 2012-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623202822id_/http%3A//www.flotrack.org/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -9,22 +9,75 @@
 <meta name="language" content="en">
 <meta name="description" content="Watch Track and Field Running Videos from Coverages and Events from around the world. Best Running Videos in Track and Field. Meet Friends and Running Logs for Track and Field Athletes and Stars.">
 <meta name="keywords" content="track and field, track and field videos, high school track and field, usa track and field, indoor track and field, track and field shoes, track and field training, ncaa track and field, track and field records, stars of track and field">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<link rel="shortcut icon" href="http://c2982142.cdn.cloudfiles.rackspacecloud.com/favIcon_1_efb44e01c030374f3ab0c91779a144bb.ico">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://c.compete.com/bootstrap/06a5b03822ebb0a4ba20d1850a79a75d/bootstrap.js" type="text/javascript" async=""></script><script type="text/javascript">
+<link rel="shortcut icon" href="http://c2982142.r42.cf0.rackcdn.com/favIcon_1_efb44e01c030374f3ab0c91779a144bb.ico">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://c.compete.com/bootstrap/06a5b03822ebb0a4ba20d1850a79a75d/bootstrap.js" type="text/javascript" async=""></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
 BASE_URL = '';
 ASSET_URL = 'http://dyfb4wahkziyr.cloudfront.net/core';
 SITE_NAME = 'Flotrack';
+    
+IS_GUEST = true;
+    
+    
 CKEDITOR_BASEPATH = 'http://dyfb4wahkziyr.cloudfront.net/ckeditor/';
 </script>
 
 <script type="text/javascript">
   </script>
+
+<script type="text/javascript">
+        var SITE_ID = 1;
+        var CORE_SITE_IDS = [1,2,4,9];
+        
+    function mobileAppAlert() {
+        
+        if(CORE_SITE_IDS.indexOf(SITE_ID) == -1) return;
+        
+        if(!IS_GUEST) return;
+        
+        var mobileAppAlertCookie = $.cookie('mobileAppAlert');
+        if(mobileAppAlertCookie) return;
+        
+        
+        
+        if((navigator.userAgent.match(/iPhone/i))||(navigator.userAgent.match(/iPod/i))) {
+            var question = confirm("Flotrack has an app for iPhone and IPod Touch! Click OK to learn more about Flosports and Be Awesome!");
+            if (question) {
+                window.location = "http://itunes.apple.com/us/app/flosports/id506486216";
+            }else{
+              
+            }
+            
+        }
+        else if((navigator.userAgent.match(/android/i))) {
+            var androidversion = parseFloat(navigator.userAgent.slice(navigator.userAgent.indexOf("Android")+8));     
+            if(androidversion <= 2.1 || androidversion >= 4) return;
+            
+            if(!navigator.userAgent.match(/mobile/i)) return;
+            
+            var question = confirm("Flotrack has an app for Android! Click OK to learn more about Flosports and Be Awesome!");
+            if (question) {
+                window.location = "market://details?id=com.flocasts.Flosports";
+            }else{
+               
+            }
+            
+
+        }
+        
+        $.cookie('mobileAppAlert', true);
+        
+    
+        
+     }
+        
+</script>
+
+
 <link rel="stylesheet" type="text/css" href="http://dyfb4wahkziyr.cloudfront.net/core/css/core.gz.css">
-<link rel="stylesheet" type="text/css" href="http://c2982142.cdn.cloudfiles.rackspacecloud.com/custom_css_a8ad4cb7ab10c97805fca8d35055b404_1.css">
+<link rel="stylesheet" type="text/css" href="http://c2982142.r42.cf0.rackcdn.com/custom_css_aa6cbe331cbfbbc4215ae222aa39163e_1.css">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script type="text/javascript" src="http://dyfb4wahkziyr.cloudfront.net/core/js/flo.combined-core.min.gz.js"></script>
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
 FB_ENABLED = true;
@@ -34,22 +87,31 @@ var _sf_startpt=(new Date()).getTime();
 </script>
 <script type="text/javascript">
 /*<![CDATA[*/
-GS_googleAddAdSenseService("ca-pub-4427265765969309");
-GS_googleEnableAllServices();
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
 /*]]>*/
 </script><script type="text/javascript">
 /*<![CDATA[*/
-GA_googleAddSlot("ca-pub-4427265765969309", "Flotrack_GlobalTop_Leaderboard_728x90");
-GA_googleAddSlot("ca-pub-4427265765969309", "Flotrack_Top_Right_Ad_200x90");
-GA_googleAddSlot("ca-pub-4427265765969309", "Flotrack_GlobalFooterBottom_Leaderboard_728x90");
-
-/*]]>*/
-</script><script type="text/javascript">
-/*<![CDATA[*/
-GA_googleFetchAds();
+googletag.cmd.push(function(){
+Flotrack_GlobalTop_Leaderboard_728x90 = googletag.defineSlot('/3626178/Flotrack_GlobalTop_Leaderboard_728x90', [728, 90], 'div-gpt-ad-yw0').addService(googletag.pubads());
+Flotrack_Top_Right_Ad_200x90 = googletag.defineSlot('/3626178/Flotrack_Top_Right_Ad_200x90', [200, 90], 'div-gpt-ad-yw1').addService(googletag.pubads());
+Flotrack_GlobalFooterBottom_Leaderboard_728x90 = googletag.defineSlot('/3626178/Flotrack_GlobalFooterBottom_Leaderboard_728x90', [728, 90], 'div-gpt-ad-yw2').addService(googletag.pubads());
+googletag.enableServices();})
 /*]]>*/
 </script><!--[if IE]><link rel="stylesheet" type="text/css" href="http://dyfb4wahkziyr.cloudfront.net/core/css/ie.css" /><![endif]--></head>
-<body id="site" class="site-privacy fb-enabled twitter-enabled flotrack bs-0 p-off wp-off">
+<body onload="mobileAppAlert();" id="site" class="site-privacy fb-enabled twitter-enabled flotrack bs-0 p-off wp-off">
+
+      
 <!--[if gte IE 8]>
 	<div id="ie8andup" class="ie ie8">
 <![endif]-->
@@ -88,26 +150,30 @@ GA_googleFetchAds();
 <div id="header">
     <div class="container_12 one-col">
         <div class="grid_12 standalone">
-            <div class="sitelogo"><a href="/"><img src="http://c2982142.cdn.cloudfiles.rackspacecloud.com/siteLogoImage_1_73a833f100a3d8e1d582490891a4e8d9.jpg" alt=""></a></div><div class="social-site-bar"><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/pages/Flotrackorg/40233564444" send="false" width="250" show_faces="false" font=""></fb:like><br><a href="http://twitter.com/flotrack" class="twitter-follow-button">Follow @flotrack</a><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>        </div>
+            <div class="sitelogo"><a href="/"><img src="http://c2982142.r42.cf0.rackcdn.com/siteLogoImage_1_4c9660c5ec5dd58b647235d87e2d5776.png" alt=""></a></div><div class="social-site-bar"><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/pages/Flotrackorg/40233564444" send="false" width="250" show_faces="false" font=""></fb:like><br><a href="http://twitter.com/flotrack" class="twitter-follow-button">Follow @flotrack</a><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>        </div>
         <div class="clear"></div>
     </div>
 </div>
 <div id="nav-bar">
     <div class="container_12 one-col">
         <div class="grid_12 standalone">
-              <ul class="main-nav" id="navigation"><li class=" menu-home"><a href="http://www.flotrack.org">Home</a><ul class="sub-nav"><li id="menu-faq"><a href="http://www.flotrack.org/page/FAQ">FAQ</a></li><li id="menu-track-and-field"><a href="http://www.flotrack.org/page/track-and-field">Track and Field</a></li></ul></li><li class=" menu-videos"><a href="/videos">Videos</a><ul class="sub-nav"><li id="menu-premium-videos"><a href="/premiumvideos">Premium Videos</a></li><li id="menu-workout-videos"><a href="http://www.flotrack.org/page/workout-Videos">Workout Videos</a></li><li id="menu-track-races"><a href="/video/track_race">Track Races</a></li><li id="menu-user-videos"><a href="/page/User-Videos">User Videos</a></li><li id="menu-upload-videos"><a href="/video/manage/upload">Upload Videos</a></li></ul></li><li class=" menu-races"><a href="/coverages">Races</a><ul class="sub-nav"><li id="menu-popular-series"><a href="/page/Popular-Coverages">Popular Series</a></li><li id="menu-create-an-event"><a href="/coverage/manage/create">Create An Event</a></li></ul></li><li class=" menu-results" id="menu-results"><a href="/results">Results</a></li><li class=" menu-forums" id="menu-forums"><a href="/forums">Forums</a></li><li class=" menu-athletes-&amp;-coaches" id="menu-athletes-&amp;-coaches"><a href="/speaker">Athletes &amp; Coaches</a></li><li class=" menu-articles" id="menu-articles"><a href="/article/post">Articles</a></li><li class=" menu-blogs" id="menu-blogs"><a href="/blog/post">Blogs</a></li><li class=" menu-photos" id="menu-photos"><a href="/photo/gallery">Photos</a></li><li class=" menu-flotrackr"><a href="/page/Flotrackr">Flotrackr</a><ul class="sub-nav"><li id="menu-running-logs"><a href="http://www.flotrack.org/running_logs">Running Logs</a></li><li id="menu-team-pages"><a href="http://www.flotrack.org/group">Team Pages</a></li><li id="menu-race-results"><a href="http://www.flotrack.org/race_results">Race Results</a></li><li id="menu-shoe-closet"><a href="http://www.flotrack.org/shoe_closet/my_closet">Shoe Closet</a></li><li id="menu-running-maps"><a href="http://www.flotrack.org/running_maps">Running Maps</a></li></ul></li><li class=" menu-members" id="menu-members"><a href="/user">Members</a></li><li class="last menu-advertise" id="menu-advertise"><a href="http://bit.ly/cR6KvP">Advertise</a></li></ul>        </div>
+              <ul class="main-nav" id="navigation"><li class=" menu-home"><a href="http://www.flotrack.org">Home</a><ul class="sub-nav"><li id="menu-faq"><a href="http://www.flotrack.org/page/FAQ">FAQ</a></li><li id="menu-track-and-field"><a href="http://www.flotrack.org/page/track-and-field">Track and Field</a></li></ul></li><li class=" menu-videos"><a href="http://www.flotrack.org/video/track_race">Videos</a><ul class="sub-nav"><li id="menu-workout-videos"><a href="http://www.flotrack.org/page/workout-Videos">Workout Videos</a></li><li id="menu-subscriptions"><a href="/videos">Subscriptions</a></li><li id="menu-run-junkie"><a href="http://www.flotrack.org/coverage/240120-Run-Junkie">Run Junkie</a></li><li id="menu-user-videos"><a href="/page/User-Videos">User Videos</a></li><li id="menu-upload-videos"><a href="/video/manage/upload">Upload Videos</a></li></ul></li><li class=" menu-flocoach"><a href="/premiumvideos">Flocoach</a><ul class="sub-nav"><li id="menu-meet-coaches"><a href="/page/Coaches-on-Flocoach">Meet Coaches</a></li></ul></li><li class=" menu-events"><a href="/coverages">Events</a><ul class="sub-nav"><li id="menu-contribute-to-event"><a href="http://www.flotrack.org/page/Flotrack-Event-Schedule" target="_blank">Contribute to Event</a></li><li id="menu-flotrack-tours"><a href="http://www.flotrack.org/page/flotrack-tours">Flotrack Tours</a></li><li id="menu-popular-series"><a href="/page/Popular-Coverages">Popular Series</a></li><li id="menu-create-an-event"><a href="/coverage/manage/create">Create An Event</a></li></ul></li><li class=" menu-results"><a href="/results">Results</a><ul class="sub-nav"><li id="menu-add-results"><a href="http://www.flotrack.org/result/manage/create">Add Results</a></li><li id="menu-conference-champs-central"><a href="http://bit.ly/conferenceoutdoor2012alt">Conference Champs Central</a></li></ul></li><li class=" menu-forums" id="menu-forums"><a href="/forums">Forums</a></li><li class=" menu-athletes-&amp;-coaches" id="menu-athletes-&amp;-coaches"><a href="/speaker">Athletes &amp; Coaches</a></li><li class=" menu-articles" id="menu-articles"><a href="/article/post">Articles</a></li><li class=" menu-blogs"><a href="/blog/post">Blogs</a><ul class="sub-nav"><li id="menu-submit-your-blog"><a href="http://www.flotrack.org/blog/manage/create">Submit Your Blog</a></li></ul></li><li class=" menu-photos"><a href="/photo/gallery">Photos</a><ul class="sub-nav"><li id="menu-upload-your-photos"><a href="http://www.flotrack.org/photo/manage/createalbum">Upload Your Photos</a></li></ul></li><li class=" menu-flotrackr"><a href="/page/Flotrackr">Flotrackr</a><ul class="sub-nav"><li id="menu-running-logs"><a href="http://www.flotrack.org/running_logs">Running Logs</a></li><li id="menu-team-pages"><a href="http://www.flotrack.org/group">Team Pages</a></li><li id="menu-race-results"><a href="http://www.flotrack.org/race_results">Race Results</a></li><li id="menu-shoe-closet"><a href="http://www.flotrack.org/shoe_closet/my_closet">Shoe Closet</a></li><li id="menu-running-maps"><a href="http://www.flotrack.org/running_maps">Running Maps</a></li></ul></li><li class="last menu-camps" id="menu-camps"><a href="http://www.flotrack.org/page/Flotrack-Running-Camps">Camps</a></li></ul>        </div>
         <div class="clear"></div>
     </div>
 </div>
-<div id="leaderboard"><div class="container_12"><div class="grid_12 alpha"><div id="widget-item-yw0" class="widget-item  dfp-ad-widget  editable not-moveable-widget deletable" flo:id="yw0" style=""><div class="content" style=""><script type="text/javascript">
+<div id="leaderboard"><div class="container_12"><div class="grid_12 alpha"><div id="widget-item-yw0" class="widget-item  dfp-ad-widget  editable not-moveable-widget deletable" flo:id="yw0" style=""><div class="content" style=""><div id="div-gpt-ad-yw0" style="width:728px; height:90px;"><script type="text/javascript">
 /*<![CDATA[*/
-GA_googleFillSlot("Flotrack_GlobalTop_Leaderboard_728x90")
+googletag.cmd.push(function() {
+                      googletag.display("div-gpt-ad-yw0");
+                    });
 /*]]>*/
-</script></div></div><div id="widget-item-yw1" class="widget-item  dfp-ad-widget topRightBanner editable not-moveable-widget deletable" flo:id="yw1" style=""><div class="content" style=""><script type="text/javascript">
+</script></div></div></div><div id="widget-item-yw1" class="widget-item  dfp-ad-widget topRightBanner editable not-moveable-widget deletable" flo:id="yw1" style=""><div class="content" style=""><div id="div-gpt-ad-yw1" style="width:200px; height:90px;"><script type="text/javascript">
 /*<![CDATA[*/
-GA_googleFillSlot("Flotrack_Top_Right_Ad_200x90")
+googletag.cmd.push(function() {
+                      googletag.display("div-gpt-ad-yw1");
+                    });
 /*]]>*/
-</script></div></div></div><div class="clear"></div></div></div>
+</script></div></div></div></div><div class="clear"></div></div></div>
 <div id="wrapper">
     <div class="container_12 one-col">
         <div class="grid_12 standalone" id="content">
@@ -129,15 +195,17 @@ Flocasts Management<br>
         <div class="clear"></div>
     </div>
 </div>
-<div class="clear"></div><div id="global_footer_ad"><div class="container_12"><div id="widget-item-yw2" class="widget-item  dfp-ad-widget  editable not-moveable-widget deletable" flo:id="yw2" style=""><div class="content" style=""><script type="text/javascript">
+<div class="clear"></div><div id="global_footer_ad"><div class="container_12"><div id="widget-item-yw2" class="widget-item  dfp-ad-widget  editable not-moveable-widget deletable" flo:id="yw2" style=""><div class="content" style=""><div id="div-gpt-ad-yw2" style="width:728px; height:90px;"><script type="text/javascript">
 /*<![CDATA[*/
-GA_googleFillSlot("Flotrack_GlobalFooterBottom_Leaderboard_728x90")
+googletag.cmd.push(function() {
+                      googletag.display("div-gpt-ad-yw2");
+                    });
 /*]]>*/
-</script></div></div></div></div>
+</script></div></div></div></div></div>
 <div id="footer">
     <div class="container_12 one-col">
         <div class="grid_12 standalone">
-            <div id="fb-root"><script type="text/javascript" async="" src="http://connect.facebook.net/en_US/all.js"></script></div><div class="footer-content"><a href="http://www.flotrack.org/page/Flotrack-Contact-Form">Contact US</a> | <a href="http://www.flotrack.org/page/About-Flotrack">About Us</a> | <a href="http://www.flotrack.org/page/RSS-Feeds">RSS Feed</a> | <a href="http://www.flotrack.org/page/Employment-Opportunities">Employment Opportunities</a>
+            <div id="fb-root"><script type="text/javascript" async="" src="http://connect.facebook.net/en_US/all.js"></script></div><div class="footer-content"><a href="http://www.flotrack.org/page/Flotrack-Contact-Form">Contact US</a> | <a href="http://www.flotrack.org/page/About-Flotrack">About Us</a> | <a href="http://www.flotrack.org/page/RSS-Feeds">RSS Feed</a> | <a href="http://www.flotrack.org/page/Employment-Opportunities">Employment Opportunities</a> | <a href="http://www.flotrack.org/article/10857-Looking-for-an-internship-Work-with-Flotrack-this-summer">Internships</a> | <a href="http://bit.ly/cR6KvP">Advertise</a>
 
 <script type="text/javascript">
     __compete_code = '06a5b03822ebb0a4ba20d1850a79a75d';
@@ -198,6 +266,8 @@ $('#header .container_12 .grid_12').append('<a href="http://bit.ly/adidas_runnin
 <!-- FM Tracking Pixel -->
 <script type="text/javascript" src="http://static.fmpub.net/site/flotrack"></script>
 <!-- FM Tracking Pixel -->
+
+
 <script type="text/javascript">
 var _sf_async_config={uid:27388,domain:"flotrack.org"};
 (function(){
@@ -216,8 +286,7 @@ var _sf_async_config={uid:27388,domain:"flotrack.org"};
      loadChartbeat : function() { oldonload(); loadChartbeat(); };
 })();
 
-</script>
-<div class="info-links"><a href="/site/tos">Terms of Use</a> | <a href="/site/privacy">Privacy Policy</a></div><p id="powered-by"><a href="http://www.flocasts.org">Powered by Flocasts</a></p></div>        </div>
+</script><div class="info-links"><a href="/site/tos">Terms of Use</a> | <a href="/site/privacy">Privacy Policy</a></div><p id="powered-by"><a href="http://www.flocasts.org">Powered by Flocasts</a></p></div>        </div>
         <div class="clear"></div>
     </div>
 </div>
@@ -233,7 +302,12 @@ var _sf_async_config={uid:27388,domain:"flotrack.org"};
 	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
     <script type="text/javascript">
 			var pageTracker = _gat._getTracker("UA-100400-14");
-						pageTracker._trackPageview();
+            var videoTracker = _gat._getTracker("UA-100400-47");
+			
+                
+                                                        
+                    
+			pageTracker._trackPageview();
             pageTracker._trackPageLoadTime();
 				</script>
 <!-- end google analytics -->
@@ -258,7 +332,7 @@ var _sf_async_config={uid:27388,domain:"flotrack.org"};
 <script type="text/javascript">
 /*<![CDATA[*/
 window.fbAsyncInit = function() {
-                    FB.init({'status':true,'cookie':true,'xfbml':true,'appId':'119215858156983'});
+                    FB.init({'status':true,'cookie':true,'xfbml':true,'appId':'119215858156983','oauth':true});
             };
 
             (function() {
@@ -275,4 +349,4 @@ $('#teaser').show();
 </script>
 
 
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+</body></html>
