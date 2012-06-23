@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsgen.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230091838id_/http%3A//kidsgen.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsgen.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623202301id_/http%3A//www.kidsgen.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,4 +21,4 @@ We use DoubleClick and other third-party advertising companies to serve ads when
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
-[ Back To Kidsgen.com Home](https://web.archive.org/web/20111230091838id_/http%3A//kidsgen.com/index.htm)
+[ Back To Kidsgen.com Home](https://web.archive.org/web/20120623202301id_/http%3A//www.kidsgen.com/index.htm)
