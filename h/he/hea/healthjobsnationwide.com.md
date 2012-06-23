@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthjobsnationwide.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208190704id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsnationwide.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623130256id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Healthcare Jobs, Healthcare Employment | HealthJobsNationwide.com
 
@@ -13,7 +13,7 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 
 **Personal Information.** In order to operate the Site in an efficient and effective manner and provide you with information on job postings and services that may be of interest to you, HealthJobsNationwide.com may collect personal information, including contact information (such as an E-mail address) from you. In addition, this information allows us to provide you with private and secure areas to post and modify your original content on our site (e.g., jobs and resumes). We also automatically track certain information based upon your behavior on the Site and use this information to do internal research on our users' demographics, interests and behavior to better understand, protect and serve our users in general. This information may include the URL that a you have just come from (whether this URL is on our Site or not), the URL you go to next (whether this URL is on our Site or not), your computer browser information and your IP address.
 
-You agree that HealthJobsNationwide.com may use your personal information to contact you and deliver information to you that, in some cases, is targeted to your interests (such as relevant job postings and services), or provides administrative notices or communications applicable to your use of the Site. By accepting this Privacy Policy, you expressly agree to receive this information. In addition, you may receive free informational e-newsletters from us or our clients/partners relating to topics that may be of special interest to you. If you do not wish to receive these communications, we encourage you to opt out of any further receipt by following the opt out provisions provided in each such communication.
+You agree that HealthJobsNationwide.com may use your personal information to contact you and deliver information to you that, in some cases, is targeted to your interests (such as relevant job postings and services), or provides administrative notices or communications applicable to your use of the Site. By accepting this Privacy Policy, you expressly agree to receive this information. In addition, you may receive free informational e-newsletters from us or our clients/partners relating to topics that may be of special interest to you. If you do not wish to receive these communications, we encourage you to opt out of any further receipt by following the opt out provisions provided in each such communication. You may also opt-out of receiving E-mails by sending us an email to support@healthjobsnationwide.com
 
 We do not sell your personal information to anyone for any reason if you have indicated a desire for us to keep the information private. When posting jobs and resumes, you decide for yourself how much contact information you wish to display (we enable private communication for those who choose to hide this information).
 
@@ -42,7 +42,7 @@ We may take the information we receive from individuals responding to our Custom
 **Where to Direct Questions About HealthJobsNationwide.com's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact:
 
 HealthJobsNationwide.com, an HSI Company  
-3205 S. Cherokee Lane, Suite 110  
+3229 S. Cherokee Lane, Building 1400  
 Woodstock, GA 30188  
 [support@healthjobsnationwide.com](mailto:support@healthjobsnationwide.com)  
 Tel: (888) 861-5627
