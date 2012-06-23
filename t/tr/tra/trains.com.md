@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trains.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219111008id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trains.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624011915id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
 
 # Kalmbach Publishing Co. - Privacy Policy
 
@@ -18,7 +18,7 @@ This explanation of our privacy policy answers the following questions:
 
 **  
 Gathering Information**   
-Kalmbach Publishing Co. is the publisher of the following magazines and Web sites: 
+Kalmbach Publishing Co. is the publisher of the following magazines and websites: 
 
 [American Snowmobiler](http://www.amsnow.com/)   
 [Art Jewelry](http://www.artjewelrymag.com/)   
@@ -29,6 +29,7 @@ Kalmbach Publishing Co. is the publisher of the following magazines and Web site
 [Cabin Life](http://www.cabinlife.com/)   
 [Classic Toy Trains](http://www.classictoytrains.com/)   
 [Classic Trains](http://www.classictrainsmag.com/)   
+[Discover](http://www.discovermagazine.com/)  
 [FineScale Modeler](http://www.finescale.com/)   
 [Garden Railways](http://www.gardenrailways.com/)   
 [Model Railroader](http://www.modelrailroader.com/)   
@@ -45,7 +46,7 @@ Kalmbach Publishing Co. is the publisher of the following magazines and Web site
 [Trade Sales & Service - B2B ](http://www.retailers.kalmbach.com/)
 
   
-Personally identifiable information is collected by Kalmbach when you decide to place an order (personally or as gifts for others), register on our Web sites or for our newsletters, enter a contest, participate in a survey, or make a general inquiry. The information collected when you order from us or enter a contest includes some or all of the following: name, address, phone / fax number, e-mail address and credit card information. With regard to credit card information, we employ the Internet's strongest encryption tools and technology, allowing your transaction to be instantaneous, while as secure as possible from unauthorized access or misuse.  
+Personally identifiable information is collected by Kalmbach when you decide to place an order (personally or as gifts for others), register on our websites or for our newsletters, enter a contest, participate in a survey, or make a general inquiry. The information collected when you order from us or enter a contest includes some or all of the following: name, address, phone / fax number, email address and credit card information. With regard to credit card information, we employ the Internet's strongest encryption tools and technology, allowing your transaction to be instantaneous, while as secure as possible from unauthorized access or misuse.  
 
 
 **  
@@ -60,13 +61,13 @@ Cookies
 
 **  
 Reporting**   
-We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. Kalmbach Publishing Co. will use cookies, pixel trackers, server logs and other Internet technologies to measure the effectiveness of our Web site content. 
+We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. Kalmbach Publishing Co. will use cookies, pixel trackers, server logs and other Internet technologies to measure the effectiveness of our website content. 
 
 We also may use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. We are not responsible for and do not control cookies placed in third party ads or any actions or policies of any third party advertising technology service providers or of any third party members of any related advertising networks.
 
 **  
 Uses of Information**   
-The fundamental use of the information we collect is to respond and fulfill your needs as a customer or prospective customer. The information is necessary and is used by us to send you the magazines, books or other products you have ordered, to process your payment, to fulfill your request to enter a contest, to recognize you as a repeat visitor to our Web sites, to acknowledge your interest in participating in a survey, or to resolve the customer service matter or other inquiry you have brought to our attention. ****
+The fundamental use of the information we collect is to respond and fulfill your needs as a customer or prospective customer. The information is necessary and is used by us to send you the magazines, books or other products you have ordered, to process your payment, to fulfill your request to enter a contest, to recognize you as a repeat visitor to our websites, to acknowledge your interest in participating in a survey, or to resolve the customer service matter or other inquiry you have brought to our attention. ****
 
 Information volunteered by you in any message or postings on Kalmbach-provided forums, discussion/bulletin boards, club membership sites, event calendars, etc., becomes public information. You should exercise caution when deciding to disclose your personal information in any such posted message.
 
@@ -84,7 +85,7 @@ In addition to the special measures you may take to suppress unwanted solicitati
 
 **  
 Children**   
-We do not intend to collect personal information from children. Children should seek the approval of their parents before providing any personal information on our Web sites.  
+We do not intend to collect personal information from children. Children should seek the approval of their parents before providing any personal information on our websites.  
 
  **Contact Information**  
 Kalmbach Publishing Co.  
@@ -101,8 +102,8 @@ Waukesha, WI 53187-1612
 
 [](http://www.kalmbachstore.com/)
 
-[](https://web.archive.org/Press%20Room.aspx)
+[](https://web.archive.org/en/Press%20Room.aspx)
 
-[](https://web.archive.org/About%20Kalmbach.aspx)  
+[](https://web.archive.org/en/About%20Kalmbach.aspx)  
   
 ---|---
