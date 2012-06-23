@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moolasavingmom.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229222247id_/http%3A//moolasavingmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moolasavingmom.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623193606id_/http%3A//moolasavingmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,13 +40,13 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 This policy is valid from 25 July 2011
 
-This blog is a [personal blog](https://web.archive.org/web/20111229222247id_/http%3A//coupon-workshops/about-moola-saving-mom/#) written and edited by me. For questions about this blog, please contact  jessie@moolasavingmom.com.
+This blog is a [personal blog](https://web.archive.org/web/20120623193606id_/http%3A//coupon-workshops/about-moola-saving-mom/#) written and edited by me. For questions about this blog, please contact  jessie@moolasavingmom.com.
 
 This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
 The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post may not always be identified as paid or sponsored content.
 
-The owner(s) of this blog is compensated to provide opinion on [products](https://web.archive.org/web/20111229222247id_/http%3A//coupon-workshops/about-moola-saving-mom/#), services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
+The owner(s) of this blog is compensated to provide opinion on [products](https://web.archive.org/web/20120623193606id_/http%3A//coupon-workshops/about-moola-saving-mom/#), services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
 This blog does not contain any content which might present a conflict of interest. We blog about people to whom we are related. The most interesting such people are: NCWiseman and M.Gioeli Photography.
 
