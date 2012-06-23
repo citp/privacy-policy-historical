@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commercialguru.com.sg privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103010516id_/http%3A//www.commercialguru.com.sg/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercialguru.com.sg privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623180300id_/http%3A//www.commercialguru.com.sg/customer-service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
