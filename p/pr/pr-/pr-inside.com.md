@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pr-inside.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228084442id_/http%3A//www.pr-inside.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pr-inside.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623111341id_/http%3A//www.pr-inside.com/privacy.htm) for the most accurate reproduction.*
 
 # PR INSIDE
 
@@ -41,7 +41,7 @@ You may view and manage your advertising preferences or opt out of receiving the
 #### Privacy Contact Information  
   
   | If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:  
-By e-mail: [http://www. ** _PR-inside.com_**.com/email.htm](https://web.archive.org/web/20111228084442id_/http%3A//www.pr-inside.com/email.htm)  
+By e-mail: [http://www. ** _PR-inside.com_**.com/email.htm](https://web.archive.org/web/20120623111341id_/http%3A//www.pr-inside.com/email.htm)  
   |    
   | We reserve the right to make changes to this policy. Any changes to this policy will be posted.  
   |    
