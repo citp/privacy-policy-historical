@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horse-games.org privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204025645id_/http%3A//www.horse-games.org/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horse-games.org privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623123245id_/http%3A//www.horse-games.org/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Horse-games.org
 
