@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtegrity.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210063717id_/http%3A//www.adtegrity.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtegrity.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623072320id_/http%3A//www.adtegrity.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Adtegrity.com » Privacy Policy
 
@@ -32,7 +32,7 @@ If a visitor to a Web site views an ad served by Adtegrity.com, they are assigne
 
 
 **Third Party Advertising**  
-The ads appearing on this Web site are delivered to you by third-party advertisers, our Web advertising partners. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about third-party advertisers, cookies, and how to “opt-out”, please visit <http://optout.doubleclick.net/cgi-bin/optoutgoogle.pl> and <http://content.yieldmanager.edgesuite.net/opt_out.html>.  
+The ads appearing on this Web site are delivered to you by third-party advertisers, our Web advertising partners. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about third-party advertisers, cookies, and how to “opt-out”, please visit <http://www.google.com/settings/ads/preferences/?hl=en#optout> and <http://content.yieldmanager.edgesuite.net/opt_out.html>.  
 **  
 Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
