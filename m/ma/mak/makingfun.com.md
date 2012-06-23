@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makingfun.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018150025id_/http%3A//www.makingfun.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingfun.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623025903id_/http%3A//www.makingfun.com/footer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Making Fun
+# Privacy Policy | | - Making Fun- Making Fun
 
 ## **Effective September 8, 2011:**
 
