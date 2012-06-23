@@ -1,60 +1,30 @@
-> *The following text is extracted and transformed from the frugalityisfree.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215058id_/http%3A//www.frugalityisfree.com/p/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalityisfree.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623182916id_/http%3A//www.frugalityisfree.com/privacy-policy) for the most accurate reproduction.*
 
-# Frugality Is Free - Product Reviews, Giveaways and Saving Tips: Disclaimer/Privacy Policy
+# Privacy Policy | Frugality Is Free
 
-**Disclosure Policy:**
+**What information do we collect?**
 
-This policy is valid from 17 April 2010  
-_  
-_  
-_  
-_
-
-_This blog is a personal blog written and edited by me. For questions about this blog, please contact   FrugalMom at smartmomj@gmail.com._  
-_  
-_  
-_  
-_  
-_  This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation._  
-_  
-_  
-_  This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content._  
-_  
-_  
-_  The owner(s) of this blog is not compensated to provide opinion on products, services, websites and various other topics. The views and opinions expressed on this blog are purely the blog owners. If we claim or appear to be experts on a certain topic or product or service area, we will only endorse products or services that we believe, based on our expertise, are worthy of such endorsement. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer or provider._  
-_  
-_  
-_  This blog does not contain any content which might present a conflict of interest._  
-_  
-_  
-_  
-_  
-_To get your own policy, go to[http://www.disclosurepolicy.org](http://www.disclosurepolicy.org/)_
-
-Privacy Policy
-
- **What information do we collect?**
-
-We collect information from you when you respond to a survey. 
+We collect information from you when you respond to a survey.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
-; To personalize your experience  
+; To personalize your experience
+
 (your information helps us to better respond to your individual needs)
 
-; To improve our website  
+; To improve our website
+
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
 ; To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-; To administer a contest, promotion, survey or other site feature
-
+; To administer a contest, promotion, survey or other site feature  
 ; To send periodic emails
 
 > The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
@@ -77,7 +47,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.frugalityisfree.com/p/disclaimer.html>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.frugalityisfree.com/p/disclaimer.html
 
 **Your Consent**
 
@@ -85,11 +55,8 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
 This policy was last modified on 1/6
 
 http://www.frugalityisfree.com/
-
-  
-
