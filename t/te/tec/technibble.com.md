@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technibble.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221032346id_/http%3A//www.technibble.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technibble.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623120401id_/http%3A//www.technibble.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Statement | Technibble
+# Privacy Policy Statement - Technibble
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).  
 We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who make postings to our chat areas, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.  
