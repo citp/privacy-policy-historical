@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckbook.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231164555id_/http%3A//www.fuckbook.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckbook.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623194555id_/http%3A//www.fuckbook.com/about/privacy) for the most accurate reproduction.*
 
 # Fuckbook - Privacy Policy
 
@@ -8,7 +8,7 @@ Each time a visitor visits the Website, our servers collect certain non-personal
 We may merge information about visitors and visits into group data, which may then at our discretion be shared on an aggregated basis with our advertisers. We will not disclose your individual identity or personally identifiable data without your permission.   
 What are IP Addresses? An IP address is a number that's automatically assigned to your computer by your Internet provider whenever you're surfing the Internet. We do not link IP addresses to personally identifiable information, which means that your session will be logged anonymously.   
 What are Cookies? We use cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements, and to customize advertising and web page content for individual users. A cookie is an alphanumeric identifier which we transfer to your hard drive through your web browser when you visit our Website. It enables our own system to recognise you when you visit our Website again and improve our service to you. Cookies may also be used to compile aggregate information about areas of our Website that are visited most frequently.   
-This traffic information can be used to enhance the content of our Website and make your use of it easier. We do not link the information we store in cookies to any personally identifiable information you submit while on the Website. Note that you must enable cookies from Fuckbook.com in order to use most functions on the Website. Nevertheless, if you wish to reject our cookies, you can configure your browser to do so (instructions for disabling cookies can be found in [our FAQs](https://web.archive.org/about/faq). Please note that Fuckbook allows third parties who are presenting advertisements on some of our pages to set and access their cookies on your computer in a process that Fuckbook does not control. Advertisers' uses of cookies are subject to their own privacy policies, not this Policy. Therefore, we suggest that you examine the privacy policies of such advertisers to learn how they may collect, use, share and disclose your personal information. 
+This traffic information can be used to enhance the content of our Website and make your use of it easier. We do not link the information we store in cookies to any personally identifiable information you submit while on the Website. Note that you must enable cookies from Fuckbook.com in order to use most functions on the Website. Nevertheless, if you wish to reject our cookies, you can configure your browser to do so (instructions for disabling cookies can be found in [our FAQs](http://www.fuckbook.com/about/faq). Please note that Fuckbook allows third parties who are presenting advertisements on some of our pages to set and access their cookies on your computer in a process that Fuckbook does not control. Advertisers' uses of cookies are subject to their own privacy policies, not this Policy. Therefore, we suggest that you examine the privacy policies of such advertisers to learn how they may collect, use, share and disclose your personal information. 
 
 ### 2) Information Required for Registration. 
 
@@ -105,8 +105,8 @@ BY PROVIDING PERSONAL INFORMATION TO US YOU SIGNIFY YOUR CONSENT TO OUR COLLECTI
 
 ### 17) Handling Complaints, Questions and Suggestions. 
 
-To stop or resume receiving email notifications regarding various site activity or offers, users can edit their [account preferences](https://web.archive.org/account/preferences).  
-If you have any further questions or concerns about Fuckbook's privacy policies and use of personal information, please contact us using our online [contact form](https://web.archive.org/about/contact). 
+To stop or resume receiving email notifications regarding various site activity or offers, users can edit their [account preferences](http://www.fuckbook.com/account/preferences).  
+If you have any further questions or concerns about Fuckbook's privacy policies and use of personal information, please contact us using our online [contact form](http://www.fuckbook.com/about/contact). 
 
 ### 18) Dispute Resolution 
 
