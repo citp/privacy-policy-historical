@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telin.co.id privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129134142id_/http%3A//www.telin.co.id/about-us/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telin.co.id privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623214951id_/http%3A//www.telin.co.id/about-us/privacy-policy-statement) for the most accurate reproduction.*
 
 # Telin » Privacy Policy Statement
 
