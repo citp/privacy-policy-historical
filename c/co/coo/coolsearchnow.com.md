@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolsearchnow.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007061333id_/http%3A//coolsearchnow.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolsearchnow.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623075131id_/http%3A//coolsearchnow.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Coolsearchnow.com- Privacy Policy
 
