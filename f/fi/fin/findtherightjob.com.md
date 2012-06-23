@@ -1,0 +1,123 @@
+> *The following text is extracted and transformed from the findtherightjob.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624012907id_/http%3A//www.findtherightjob.com/privacy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+##  FindTheRightJob Privacy Policy
+
+[](http://www.truste.org/ivalidate.php?url=www.collegebound.net&sealid=101&ctv_group=CollegeBound)
+
+Last Updated: 5/16/12
+
+FindTheRightJob has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. To view a list of sites that are certified by TRUSTe, please click on the seal located at the top of the privacy policy.
+
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please first contact The CollegeBound Network, Compliance Department, 1200 South Ave., Staten Island, NY 10314, 718-761-4800, privacy@collegebound.net. If you are not satisfied with our response you can contact TRUSTe here. 
+
+### How We Collect Information
+
+We do not obtain any personal information about you unless you choose to share it. When feasible, we do automatically collect your IP address. We also automatically collect and store statistics and other information about you and your online activities both on an aggregated, non-personally identifiable basis and in a manner that may allow us to associate such information with other personally identifiable information about you and your activities on our site in order to pass along your request for information to the school(s) you requested.
+
+### What Types of Information Do We Collect About You and Why?
+
+We gather personally identifiable information that you expressly provide when you enter information into a form on our Web site, including, without limitation, your name, mailing address, e-mail address, and other unique personal identifiers (e.g., date of birth) ("Personal Information"). If you choose not to provide the requested Personal Information, we may not be able to offer you personalized services that require such information.
+
+We collect Personal Information about you to (a) provide products, programs, and services that you have requested; (b) operate and improve the features, offerings, and content presented to you by us and our affiliated companies, successors, and assigns; (c) personalize the content and advertisements provided to you; (d) communicate with you and respond to your inquiries; (e) conduct research about your use of the features, offerings, and content from us, or our parent or sister companies and partners through voluntary surveys; (f) provide product improvement; (g) "pre-populate" forms; (h) provide you with advertising targeted to your preferences; (i) send you job alert emails and newsletters; and (j) offer you other products, programs, or services that may be of interest to you. We also collect anonymous information, which includes any information that is not tied to your Personal Information, such as your IP address ("Anonymous Information"). You are not required to register on our Web site in order for us to collect Anonymous Information about you.
+
+In addition to the Personal Information that you provide to us, we may use third-party advertising companies to serve and track advertisements appearing on our Web site. Such third-party companies may employ cookies and action tags to measure advertising effectiveness. We have no access or control of these third party cookies. To learn more about "cookies," please see the section below titled "Cookies and Other Tracking Methods."
+
+### Bulletin Boards/Chat Rooms
+
+If you use a bulletin board or blog on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+
+### How We Use and Disclose Your Information
+
+Once your information is collected, it is then forwarded to the school(s) that you requested information from. Once the school(s) receive your information, an admissions representative will contact you via postal mail, email, or by phone to help fulfill your request.
+
+We also use your information on an aggregated basis to do such things as operate our site and enhance our site. We also use this data, both aggregated and personally identifiable, to enhance your on-site experience. We may disclose aggregated information about our site to third parties.
+
+We do not sell your personally identifiable information to third parties or mass marketers except as described in this privacy statement. However, on particular pages where we ask for your personally identifiable information, we may explicitly tell you that the data we are collecting on that page will be provided to third parties, in which case those disclosures shall override anything to the contrary in this policy. We would also have the right to sell this information as part of a sale of all or substantially all of our assets.
+
+In some situations, we provide your personally identifiable information to third-party service providers to enhance or expand the functionality available to you as a user of the Site, but this will only be done when you specifically ask us to by responding to a survey. These third parties will not use your personally identifiable information for their own marketing purposes.
+
+In some cases, we use your personally identifiable information to provide information to you, such as to send newsletters and emails, or to personalize the site in accordance with your requests. We will provide you with directions in all emails and newsletters on how to be removed from our newsletter list.
+
+Additionally, a representative from CBN Student Services, LLC may use your personally identifiable information that you provided to subsequently contact you by telephone in order to obtain your feedback on the quality of the follow-up you received and/or discuss additional education related opportunities even if you have registered your telephone number with the National Do Not Call list. Participation in the survey is strictly voluntary. Please tell the representative if you wish to opt-out of participating in such surveys in the future. E-mail and web-based surveys will include instructions for opting out of future customer support surveys. All calls are recorded for quality control and monitoring purposes only. No calls will be shared with any outside entity.
+
+### Newsletters
+
+When you register on the website, you are automatically subscribed to our newsletter(s) and job notification emails, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
+
+### Affiliates
+
+We collect information on our Web site including name, company name, email address, address, and phone number when you request information about the Affiliate program. We will contact you via email or telephone to discuss joining the program. You may not opt-out of receiving the requested information when joining, but you may opt-out of any further emails by contacting us by phone at (718) 761-4800, ext. 106, or by email at privacy@collegebound.net, or by following the unsubscribe instructions included in each promotional email.
+
+### Service-related Announcements
+
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. [You may opt-out of these communications. Please see "Choice and Opt-out."]
+
+### Legal Disclaimer
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+### Choice/Opt-out
+
+We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For if you request information from a school(s) but do not wish to receive any additional marketing material from us, you can indicate your preference on our request for information form(s). 
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@ employmentnetwork.net ](mailto:info@employmentnetwork.net). We offer an opportunity to opt-out of certain communications on our promotional communications, or you may contact us by phone at (718) 761-4800, by email at [info@ employmentnetwork.net ](mailto:info@employmentnetwork.net), or by postal mail at 1200 South Ave., #202, Staten Island, NY 10314.
+
+You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+
+### Cookies and Other Tracking Methods
+
+We may use cookies on our site. Cookies can help us provide information that is targeted to your interests. Cookies are not tied to personally identifiable. In addition to using cookies, in some circumstances we may track or collect information about your activities on our site by your IP address or by the URLs that you come from or leave to. However, these methods do not permit us to associate this information with any other personally identifiable information that you may have provided us.
+
+### Log Files
+
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+
+We do not link this automatically-collected data to personally identifiable information.
+
+We use a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate to capture usage and volume statistics and to improve our Web site.
+
+### Clear Gifs (Web Beacons)
+
+Our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information we gathered by clear gifs to our customers' personally identifiable information. 
+
+### Flash LSOs
+
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control, or display content based upon what you view on our site to personalize your visit. Third parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. 
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager/html#117118.
+
+### Links to Other Sites
+
+This Web site may contain links to other sites that are not owned or controlled by CollegeBound Network. Please be aware that we, CollegeBound Network, are not responsible for the privacy practices of such other sites. When you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
+
+### Access to Personally Identifiable Information
+
+If your personally identifiable information changes, or if you no longer desire our service, you may resubmit your information request. We will respond to your access request within 30 days. We will retain your information as needed to provide you service. If you wish to request that we no longer use your information to provide you services contact us at privacy@collegebound.net. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+### Age Issues
+
+We do not accept personally identifiable information online from children under the age of thirteen (13) and we do not knowingly accept personally identifiable information from children under the age of thirteen (13). If you are under 13 please do not use our Web site. If we discover a minor under thirteen (13) has submitted information to our Web site, we will delete this information as soon as possible.
+
+### Transferability of Information
+
+Information collected in accordance with this Privacy Policy by us may be stored and processed within the United States of America or in any other country in which we or our agents maintain facilities. By using our Web site, you consent to any transfer of Personal Information outside of your country, should we find it necessary.
+
+In the event that we are acquired or merge with another company, or upon a sale of all or portion of our assets, Personal Information about you will be among the assets transferred to the new company. The new company may handle such Information in accordance with its own policies and procedures and not in accordance with this Privacy Policy.
+
+### Security 
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at [privacy@collegebound.net.](mailto:privacy@collegebound.net.)
+
+### Information on the Web Site
+
+Information on this Web site may contain technical inaccuracies or typographical errors. Information may be changed or updated without notice. We may also make improvements and/or changes in the products and/or the services described in this information at any time without notice.
+
+### Changes in this Privacy Statement
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. The CollegeBound Network, 1200 South Ave., #202, Staten Island, NY 10314.
