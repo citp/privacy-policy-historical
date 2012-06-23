@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the which.co.uk privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224132931id_/http%3A//www.which.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the which.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623063531id_/http%3A//www.which.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Which? Privacy policy
 
@@ -8,7 +8,7 @@ This policy explains how we use any personal information we collect about you wh
 
 ## What information do we collect about you?
 
-We, or companies who work for us, collect information about you when you register with us, place an order for our products and services, sign up to one of our newsletters or get involved in our campaigns or our blogs on Which? Mobile Service and Which? Conversation. We also collect information when you complete our surveys, provide feedback or reviews, send us enquiries or enter our competitions. This may cover anything from your contact and delivery details to payment information, or your responses to questionnaires we've sent you and feedback you've provided.
+We, or companies who work for us, collect information about you when you register with us, place an order for our products and services, sign up to one of our newsletters or get involved in our campaigns or our blogs.  We also collect information when you complete our surveys, provide feedback or reviews, send us enquiries or enter our competitions. This may cover anything from your contact and delivery details to payment information, or your responses to questionnaires we've sent you and feedback you've provided.
 
 We also collect information about your use of our websites, and how you arrived at our website in the first place. This can include what links or adverts of ours you've viewed or clicked on to reach us, or any search terms you've used.   We can also see which pages of our website have been viewed by you and for how long.  All this information helps us tell what content is popular with our customers so we can prioritise it.  
 
@@ -16,25 +16,25 @@ Online, we mostly use cookies to collect this information about you. Please see 
 
 ## How will we use this information about you?
 
-We collect information about you to process your order, manage your account and, if you agree, to let you know about our products, services or campaigning work that we think may be of interest to you.  If you use Which? Conversation or comment on Which? Mobile Service, we may email you if there is a problem with one of your remarks.
+We collect information about you to process your order, manage your account and, if you agree, to let you know about our products, services or campaigning work that we think may be of interest to you.  If you use Which? Conversation, Which? Tech Daily or Which? Local, or wherever you add any comments or content onto our websites, we may email you if there is a problem.
 
 We also use this information to decide what content you're interested in, measure the success of our marketing campaigns and to better understand our customers.
 
 When you first become a member with us we will send you a confirmation/welcome email, detailing your new account details, and how best to utilise your membership.
 
-One of your membership benefits will be **our consumer email newsletters**. However, if you decide you would rather not receive these, there is always an ‘unsubscribe’ link at the top of the emails. or of course you can [contact us](https://web.archive.org/about-which/contact-us/) and we will be happy to take you off our distribution list.
+One of your membership benefits will be **our weekly members' newsletter**.  However, if you decide you would rather not receive these, you can opt out via the ‘unsubscribe’ link on the emails or [contact us](https://web.archive.org/about-which/contact-us/) and we will be happy to take you off our distribution list.
 
-We also offer the option of signing up to receive our **‘interest’ emails**. These are available for members and visitors to our websites and are sent on a fortnightly basis. Again, if you decide you no longer wish to receive these, the unsubscribe option is available.
+We also offer the option of signing up to receive emails about our products and services which you may find of interest.  These are available for members and visitors to our websites.  Again, if you decide you no longer wish to receive these, the unsubscribe option is available.
 
-Please visit the ‘ **My Which?** ' section on your email newsletters which will take you to your preference centre. Here you can change your preferences so you can control the type of ‘interest’ emails that you receive.
+Please click on the "Tailor my emails" link within your weekly member's newsletter which will take you to your preference centre. Here you can change your preferences to control the type content you see within your weekly member's newsletter.
 
-## Will you pass my information on to other companies?
+## Will we pass your information on to other companies?
 
 We do use other companies to process your data on our behalf, to ensure that we can fulfil all our obligations to you. We only choose those companies who prioritise the protection of personal data and who pass the strict organisational and technical security standards that we set. These companies include those who do the mail-outs of our magazines or those who help us host our websites.
 
-The only other times we will pass your details to anyone else would be where we have to for fraud or other legal purposes.
+The only other time we will pass your details to anyone else would be where we have to for fraud or other legal purposes.
 
-We do not pass your details (email, address, telephone, IP address, cookie details etc.) to any third parties for marketing purposes.
+We do not pass your details (email, address, telephone, IP address, cookie details etc.) to third parties to use for their own marketing purposes.
 
 ## How long will we keep this information about you?
 
@@ -47,10 +47,6 @@ After a retention period has elapsed, the data is deleted.
 Which? takes the security of our customers’ data very seriously. We use multiple layers of firewalls to ensure user data is kept as secure as possible, specialist devices to detect and prevent intrusion attempts, and encryption systems to ensure data is scrambled while being transmitted from system to system. We employ equally rigorous physical security policies to prevent physical access to our data centres. We perform regular system patching, and employ an independent security company to perform penetration tests (authorised attempts to try to hack our systems to show any risks) annually and whenever we bring new systems online.
 
 We ensure third parties employ the same rigour when handling data, ensuring they apply security far in excess of regulatory requirements.
-
-## Marketing
-
-We would like to send you information about our products and services which we think may be of interest to you. If you have consented, then this may include emails. Please note that there is always an unsubscribe link in our emails which will take you off our distribution list, or you can [contact us](https://web.archive.org/about-which/contact-us/) at any time.
 
 ## Access to your information and correction
 
