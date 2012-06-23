@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awkwardfamilyphotos.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225002855id_/http%3A//awkwardfamilyphotos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awkwardfamilyphotos.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623223051id_/http%3A//awkwardfamilyphotos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « AwkwardFamilyPhotos.com
 
