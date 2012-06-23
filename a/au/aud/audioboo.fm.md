@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audioboo.fm privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101230655id_/http%3A//audioboo.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioboo.fm privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623200518id_/http%3A//audioboo.fm/privacy) for the most accurate reproduction.*
 
 # Audioboo: Privacy Policy
 
