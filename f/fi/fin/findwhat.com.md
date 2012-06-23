@@ -1,53 +1,99 @@
-> *The following text is extracted and transformed from the findwhat.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507181849id_/http%3A//www.findwhat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findwhat.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623101645id_/http%3A//www.adknowledge.com/privacy-center/privacy-policy) for the most accurate reproduction.*
 
-# MIVA AK, Inc.
+# Adknowledge Privacy Policy | Adknowledge.com
 
-MIVA AK, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.miva.com
+######## THE ADKNOWLEDGE PRIVACY POLICY MAY CHANGE FROM TIME TO TIME. PLEASE CHECK BACK FREQUENTLY FOR UPDATES.
 
-We use your IP address to help diagnose problems with our server, and to administer our website.
+This privacy policy ("Policy") describes Adknowledge, Inc.'s ("Adknowledge") provision of a technology and advertising platform for marketers and content publishers such as web sites or email newsletters and operators (together, referred to as "Publishers" or "Publisher Properties") to attempt to deliver more relevant advertisements to consumers. Adknowledge does not collect, obtain or maintain personally identifiable information ("PII") from Publishers who use our CustomAd™ technology product. The data collected and maintained by Adknowledge from Publishers using CustomAd™ technology ("Anonymous Information") is not sufficient to permit someone to identify a particular consumer by name, email address, mailing address, telephone number or through social security number, driver's license or other government issued ID. This Policy does not apply to the practices of Publishers or other companies that Adknowledge does not own or control or to people that Adknowledge does not employ or manage. Adknowledge retains its rights to enter into new or different lines of business with consumers and if and to the extent it does so, it may display a different Privacy Policy to the consumer for such lines of business.
 
-Our site's newsletter subscription form(s), affiliate distribution partner program form, and bidding account form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Information about you is not shared with outside agencies. Your name and information is not resold or given away for any purpose at any time.
+#### Adknowledge Collection of Information.
 
-This policy shall not be construed as preventing us from complying with any court order, court authorized discovery, or agency authorized discovery of your name or information. This policy does not provide you with any remedy or cause of action against us in the event that we provide your name or information to a third-party or agency in compliance with any legal obligation of the Company, which shall be determined at our sole discretion.
+######## Information Collection
 
-This site contains links to other sites. www.miva.com is not responsible for the privacy practices or the content of such websites.
+######## 1.1 User Information.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+User Information. Adknowledge does not track or maintain PII about consumers. It maintains Anonymous Information including behavior data (i.e., visiting a particular website or clicking on a particular ad) and demographic or similar data (i.e., browser type or lifestyle data). Adknowledge may maintain PII information if it is in an encrypted format which cannot be decrypted; that is, the data as stored is Anonymous Information rather than PII. For example, a Publisher may encrypt the email address joe@smith.com into the term "123abc" with a one-way encryption routine and transfer the term "123abc" to Adknowledge to store on Adknowledge's computers, but it is not currently feasible for Adknowledge or others, due to the sophistication of the encryption routines utilized, to decode the term "123abc" back into the original email address,joe@smith.com.
 
-## Security 
+######## 1.2 User Behaviors Collected with Cookies, Web beacons, and Other Information.
 
-This site has powerful security measures in place to protect the loss, misuse, and alteration of the information under our control.
+Adknowledge may use cookies, web beacons and IP addresses to associate your Anonymous Information (as described in Section 1.1 above) with an anonymous profile containing data such as your online behaviors, which could include records on viewing, opening or clicking on a particular online advertisement or visiting a website operated by a Publisher. Additionally, Adknowledge may use other new and evolving sources of information and information gathering in the future (together, "Technology Information") to assist Publishers in delivering more relevant advertisements to you. Cookies. A cookie is a small amount of data stored on the hard drive of your computer that allows Adknowledge to identify your IP address with corresponding information in Adknowledge's database. Adknowledge may use cookies to track individual responses or views of advertisements when an advertisement has been viewed on Publisher Properties. You may read more about cookies at [www.cookiecentral.com](http://www.cookiecentral.com/).
 
-## Business Transitions
+#### Web Beacons
 
-In the event that we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your personally identifiable information may be among the assets transferred.
+A web beacon is programming code used to display an image on a web page and can assist Adknowledge in associating an individual's Anonymous Information to a unique profile in our database. Web beacons enable Adknowledge to track certain Web sites you visit or advertisements you view online at Publisher Properties. Web beacons help determine products or services in which you may be interested and help track online behaviors for marketing purposes. More information about web beacons is available at [www.webopedia.com/TERM/W/Web_beacon.html](http://www.webopedia.com/TERM/W/Web_beacon.html.).
 
-## Choice/Opt-Out
+#### IP Addresses
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
+Adknowledge may use your IP address to better target an ad to you or people in your area. Unless you use a static IP address, an IP address relates to households or larger communities. For example, if you use a national Internet Service Provider (ISP) to access the Internet, such as America Online, it may not be possible to determine your geographic location based on your IP address. If you use a local ISP, it may be possible to narrow your community to a fewer number of people or businesses which your ISP services. Because an individual does not own a particular IP address, a consumer's IP address is not personally identifiable information and may change for any number of reasons over time, e.g., even if you rent a static IP address for a limited period.
 
-This site gives users the following options for removing their information from our database, to not receive future communications, or to no longer receive our service. 
+#### Where Technology Information is Collected
 
-You can send email to: [privacy@miva.com](mailto:privacy@miva.com)
+Technology Information is collected directly from Adknowledge advertisements or indirectly through Publishers that Adknowledge contracts with to display advertisements. Such advertisements will usually be displayed within one of the following advertising vehicles: Websites. Adknowledge may set a cookie on your computer or associate behavior with your Internet service provider's IP address when you view advertisements delivered on Publisher websites. After a behavior is associated to a cookie or an IP address, Adknowledge may track how you interact with the advertisement and the Publisher website (for example, registering, purchasing, browsing, etc.).
 
-## Change/Modify
+#### Email
 
-This site gives users the email address for changing and modifying information previously provided.
+Adknowledge may track your interaction with emails sent to you on behalf of Publishers (for example, when you open or click on an email, register, purchase, or browse in response to such email), but does not maintain a list of email addresses or other PII in connection with this activity.
 
-Email: [privacy@miva.com](mailto:privacy@miva.com)
+######## 1.3 Outside Information. 
 
-## Changes to Privacy Statement
+Adknowledge may lawfully receive information about you, including demographic data, purchasing trends and similar information, from third parties, such as information located in public databases ("Outside Information"). Outside Information shall be Anonymous Information. 
 
-If we decide to change our privacy statement, we will post those changes to this privacy statement. We reserve the right to modify this privacy statement at any time, so please review it frequently.
+######## 1.4 No Information Collected from Minors
 
-## Contacting the Web Site
+MINORS UNDER THE AGE OF 18 SHOULD NOT PROVIDE ANY PERSONAL INFORMATION, INCLUDING THEIR EMAIL ADDRESS, TO ADKNOWLEDGE. If Adknowledge is notified it has any information about a minor under the age of 18, that information will be promptly deleted from our active database. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
+#### Use of Information and User Data
 
-**MIVA AK, Inc.**  
-Attn: Legal Department  
-5220 Summerlin Commons Blvd.  
-Suite 400  
-Fort Myers, FL 33907
+######## 2.1 Discretion to Use Information
 
-[privacy@miva.com](mailto:privacy@miva.com)
+Adknowledge may share Anonymous Information about your behaviors with trusted Publishers under confidentiality agreements. These Publishers may use this information to better target advertisements to you. If you wish to end your email subscription with a Publisher, you may follow the instructions at the end of each email message to unsubscribe or follow the instructions detailed at Section 4 below. 
+
+######## 2.2 Targeted Advertising Delivered by Publishers
+
+Adknowledge uses Anonymous Information to assist its Publishes in targeting advertisements more effectively. When a consumer is online, Adknowledge uses Technology Information to associate an individual with their Anonymous Information and Adknowledge assists its Publishers in attempting to show information and advertising for products and services to which the consumer may respond. Adknowledge may use data collected from a response to one type of advertising or information for targeting advertisements or other information through a different venue. For example, Adknowledge may inform an email Publisher that a consumer responded to a baseball banner advertisement and that Publisher may try to deliver to the consumer a baseball-related advertisement and other information to the consumer via email.
+
+######## 2.3 Legal Process
+
+Adknowledge may disclose information in its possession and control to respond to subpoenas, court orders and other legal process as required by law. 
+
+######## 2.4 Summary Data
+
+Adknowledge may sell or transfer Anonymous Information, such as summary or aggregated non-PII about consumers or consumer sub-groups. 
+
+######## 2.5 Storage and Protection of Information
+
+Adknowledge stores Anonymous Information in a database on Adknowledge computers. These computers have security measures, such as a firewall, to protect against the loss, misuse, and alteration of the information under Adknowledge's control. Adknowledge also maintains physical and procedural safeguards to protect information. Furthermore, Adknowledge maintains the data in its database in encrypted form, so that even if the data is improperly accessed, it is less likely to be in a format intelligible or useable for purposes not authorized or intended by Adknowledge. Notwithstanding such measures, Adknowledge cannot guarantee that its security or privacy protection measures will prevent its computers from being illegally accessed and the data on them stolen or altered. 
+
+#### Privacy Practices of Third Parties
+
+######## 3.1 Advertiser cookies and web beacons
+
+Publishers who place advertisements on the Internet may use their own cookies, web beacons and other technology to collect information about you. Adknowledge does not control Publishers' use of such technology. 
+
+######## 3.2 Links
+
+The Publishers' Websites and email messages transmitted on behalf of Publishers may contain hypertext links to the Websites of third parties. Adknowledge is not responsible for the privacy practices or the content of such other Websites.
+
+######## 3.3 Publishers
+
+To learn about how a particular Publisher may use your PII or Anonymous Information, you should read the privacy policy of that Publisher.
+
+#### How You May Exercise Your Privacy Rights And Unsubscribe
+
+######## Websites
+
+To prevent the display of Publisher or Adknowledge advertising on a Website, for example, banner advertisements, do not visit the Website. To only prevent Adknowledge from tracking your behavior on a Website, turn off cookies, utilize a changing IP address, and do not click on or interact with any advertisements. 
+
+######## Email Databases
+
+To unsubscribe from Publisher email lists, click the link included in the footer of any message you receive from the Publisher. 
+
+Please read the privacy policy of particular Publishers to understand how your PII and Anonymous Information may be used after you unsubscribe. 
+
+More Information. For more information about protecting your privacy, you may wish to visit [www.netcoalition.com](http://www.netcoalition.com/), and [ www.privacyalliance.org](http://www.privacyalliance.org/). Adknowledge reserves the right to update this Policy at any time by re-publishing it to this Website with a new effective date. The current policy is effective as of March 16, 2006. If you have questions about this Policy, please contact us at [privacy@adknowledge.com](mailto:privacy@adknowledge.com?subject=Question%20Regarding%20Adknowledge%27s%20Privacy%20Policy) or write to us at: 
+
+Attn: General Counsel  
+Adknowledge, Inc.  
+4600 Madison Ave., 10th Floor  
+Kansas City, MO 64112   
+
