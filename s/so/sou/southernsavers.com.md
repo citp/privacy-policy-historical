@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernsavers.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222043747id_/http%3A//www.southernsavers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernsavers.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623103511id_/http%3A//www.southernsavers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Southern Savers
 
@@ -51,3 +51,5 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 Southern Savers LLC **Attention: Privacy Statement Personnel** 7001 St Andrews Rd #311 Columbia, SC 29212 
 
 Southern Savers LLC will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.southernsavers.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
