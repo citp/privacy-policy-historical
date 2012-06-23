@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juiceinthecity.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227005801id_/http%3A//www.juiceinthecity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juiceinthecity.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623025336id_/http%3A//www.juiceinthecity.com/privacy) for the most accurate reproduction.*
 
 # Juice In the City Privacy Policy
 
@@ -28,7 +28,7 @@ We may disclose or share Non-Personally Identifiable Information with Partners, 
 
 #### Collection and Use of Information
 
-You can always choose not to provide information, although it may be required to engage in a certain activity on the Website. As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. However, you do have a choice with respect to Promotional Emails that advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by emailing us at help@juiceinthecity.com, by writing to us at the address contained herein, or by hitting the “unsubscribe” button at the bottom of any of our e-mails. 
+You can always choose not to provide information, although it may be required to engage in a certain activity on the Website. As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. However, you do have a choice with respect to Promotional Emails that advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by emailing us at contact@juiceinthecity.com, by writing to us at the address contained herein, or by hitting the “unsubscribe” button at the bottom of any of our e-mails. 
 
 #### Security of Information
 
