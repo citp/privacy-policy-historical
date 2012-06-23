@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evworld.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224030840id_/http%3A//evworld.com/general.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evworld.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623093314id_/http%3A//evworld.com/general.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # EV WORLD: The World of Sustainable Transportation
 
@@ -8,6 +8,9 @@
   
 GUIDE TO PRIVACY POLICY  
   
+**PREVIOUSLY ON EV WORLD:[Promising Progress in Detroit](http://evworld.com/article.cfm?storyid=2040)**  
+President Obama inspects Chevrolet Volt at conference in Lisbon, Portugal. -- Originally published 10-Jan-2012
+
 **Your Privacy**  
 EV World believes that trust is an important component of the service we provide to our customers. To ensure that we earn and keep that trust, EV World makes every effort to protect your privacy and the confidentiality of your personal information. This Privacy Policy describes the steps we take to make sure that when you use EV World, you can focus on finding great deals in a safe, worry-free environment. 
 
