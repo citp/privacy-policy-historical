@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techieask.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224132325id_/http%3A//www.techieask.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techieask.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623075555id_/http%3A//www.techieask.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# » Privacy »
 
 We are glad to welcome you to TechieAsk. Please read this privacy statement to ensure that we are committed to keeping secure the privacy of our members’ (customers) details. This privacy policy outlines important information regarding the use and disclosure of User information collected via the Website. TechieAsk  provides this privacy policy to help Users make an informed decision as to whether to use or continue using the website.
 
@@ -41,7 +41,7 @@ When users log-in to their TechieAsk.com account, our servers may automatically 
 
 ### External Links, Content and Third-Party Advertising
 
-TechieAsk.com is not responsible for the content of external sites, nor are external sites to which links are provided herein necessarily endorsed by TechieAsk.com. Recommended Links and links to merchant affiliates are provided as additional resources for our visitors, and at the time of review seemed to be suitable. We cannot assure that all the links found on TechieAsk.com are safe to use, if you are experiencing any difficulties with such links please contact us at [webmaster@techieask.com](https://web.archive.org/web/20111224132325id_/http://www.techieask.com/privacy-policy/webmaster@celebrityask.com).
+TechieAsk.com is not responsible for the content of external sites, nor are external sites to which links are provided herein necessarily endorsed by TechieAsk.com. Recommended Links and links to merchant affiliates are provided as additional resources for our visitors, and at the time of review seemed to be suitable. We cannot assure that all the links found on TechieAsk.com are safe to use, if you are experiencing any difficulties with such links please contact us at [webmaster@techieask.com](https://web.archive.org/web/20120623075555id_/http://www.techieask.com/privacy-policy/webmaster@celebrityask.com).
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
