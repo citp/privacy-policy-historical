@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sosonlinebackup.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220145630id_/http%3A//www.sosonlinebackup.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosonlinebackup.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623074549id_/http%3A//www.sosonlinebackup.com/privacy.htm) for the most accurate reproduction.*
 
 # Computer Backup Software | Online Data Storage Backup > Privacy Policy
 
@@ -103,7 +103,12 @@ The Company may, in its sole and absolute discretion, modify or change any or ev
 
 EU Safe Harbor
 
-Notwithstanding anything to the contrary herein, and overriding any conflicts or inconsistencies to the contrary, with respect to the protection and transfers of personal information, whether it is in electronic, paper or verbal format, between the United States and the European Union, the Company will comply with the SOS Online Backup – Safe Harbor Data Privacy Policy (the “Safe Harbor”).  In any situation, circumstance, event or occurrence to which the Safe Harbor applies, the Safe Harbor shall prevail and control over the Privacy Policy to the extent of any conflict or inconsistency thereof.  The Safe Harbor may be viewed and accessed (as updated from time to time) on the SOS website. 
+Notwithstanding anything to the contrary herein, and overriding any conflicts or inconsistencies to the contrary, with respect to the protection and transfers of personal information, whether it is in electronic, paper or verbal format, between the European Union or Switzerland and the United States, the Company will comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, as set forth by the U.S. Department of Commerce. The Company has certified that it adheres to the U.S.-EU and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. In any situation, circumstance, event or occurrence to which the Safe Harbor Privacy Principles apply, the Safe Harbor Privacy Principles shall prevail and control over the Privacy Policy to the extent of any conflict or inconsistency thereof. To learn more about the Safe Harbor program, and to view the Company's certification, please visit http://www.export.gov/safeharbor/. 
+
+Dispute Resolution
+
+This Policy shall be governed by and construed in accordance with the laws of the State of California without regard to the conflicts of law provisions thereof. You expressly agree that any controversy, dispute or claim ("Litigation") arising out of, relating to, or in connection with, this Policy or the Site, or the alleged breach thereof, or relating to our activities or services or to us otherwise under this Policy, shall be settled by confidential binding arbitration in Los Angeles County, California, in accordance with the applicable rules of the American Arbitration Association, and judgment on the award rendered by the arbitrator(s) shall be binding on the parties and may be entered in any court having jurisdiction. Regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to your use of the Site or this Policy must be filed within one (1) year after such claim or cause of action arose or was reasonable discovered, whichever is later, or be forever barred. In the event of any Litigation, both parties expressly and irremovably consent to the exclusive venue and personal jurisdiction in Los Angeles County, California. In the event of any Litigation arising from, related to or in connection with this Policy or the Site, the prevailing party thereof shall be entitled to recover its reasonable expenses, including (without limitation) attorneys' fees and the costs of arbitration.  
+
 
 Contact Us
 
@@ -112,6 +117,6 @@ If you have any questions, thoughts our comments with respect to our Privacy Pol
 
 Date
 
-This Privacy Policy was last revised on October 15, 2011. 
+This Privacy Policy was last revised on May 18, 2012. 
 
 Copyright © 2011 SOS Online Backup, Inc. All Rights Reserved. 
