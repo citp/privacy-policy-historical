@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promojukebox.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224024151id_/http%3A//www.promojukebox.com/_pjs--privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promojukebox.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623162441id_/http%3A//promojukebox.com/_pjs--privacy.html) for the most accurate reproduction.*
 
 # PromoJukebox - digital promotion machine for the music industry
 
@@ -6,8 +6,8 @@
 of Push Media Promotion GmbH
 
   
-[](https://web.archive.org/pdf/PuMP_Data_Protection_Disclosure_20080427.pdf)  
-[PromoJukebox_Data_Protection_Disclosure_20080427.pdf](https://web.archive.org/pdf/PuMP_Data_Protection_Disclosure_20080427.pdf)   
+[](https://web.archive.org/pdf/PMP_Data_Protection_Disclosure_20120129.pdf)  
+[PromoJukebox_Data_Protection_Disclosure.pdf](https://web.archive.org/pdf/PMP_Data_Protection_Disclosure_20120129.pdf)   
 **§ 1 General**
 
 We will process your personal information (e.g., title, name, address, email address, telephone number) only in accordance with the provisions of the German data protection laws. The following rules are intended to inform you about the nature, scope and purpose of collecting, processing and using personal data. This data protection disclosure relates solely to our websites.
@@ -45,4 +45,4 @@ This anonymous data is stored separately from the personal data which you may ha
 
 **§ 6 Information**
 
-Upon request, you may contact Push Media Promotion GmbH, Einsteinstrasse 28, 81675 Munich by telephone at +49 (0) 89 32422052 in order to obtain information regarding data about you or your pseudonym. You may also email your questions to us at .
+Upon request, you may contact Push Media Promotion GmbH, Dorfstr. 12b, 85591 Vaterstetten by telephone at +49 (0) 89 45708742 in order to obtain information regarding data about you or your pseudonym. You may also email your questions to us at .
