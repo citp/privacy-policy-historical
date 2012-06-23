@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the frontiernet.net privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620062753id_/http%3A//www.frontier.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontiernet.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623180830id_/http%3A//www.frontier.com/policies/privacy) for the most accurate reproduction.*
 
 # Frontier.com : Privacy Policy
 
-** Frontier Privacy Policy **Frontier is sensitive to privacy issues with respect to the use of customer information provided to us over the Internet. We believe it is important for you to know how we handle the information about you that is received by us when you visit. Online privacy focuses mainly on the protection of "customer identifiable" information (e.g. name, address, telephone number, e-mail address, etc.) that an individual expects to be kept private.
+** Frontier Privacy Policy **Frontier is sensitive to privacy issues with respect to the use of identifiable customer information provided to us over the Internet. We believe it is important for you to know how we handle the information about you that is received by us when you visit. Online privacy focuses mainly on the protection of "customer identifiable" information (e.g. personal information like your name, address, telephone number, email address, etc.) that an individual expects to be kept private.
 
 **Collection of Personal Information**
 
@@ -17,6 +17,8 @@ Some of the information found on a Frontier web site may be provided and managed
 **Sharing Information**
 
 Frontier only shares personal information with unaffiliated organizations that perform services on our behalf and only as necessary for them to perform these services. Frontier requires unaffiliated organizations to protect your personal information consistent with this policy.
+
+Frontier allows third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email address or telephone number) about your visits to our and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Notification of Changes**
 
