@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pch.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219101357id_/http%3A//privacy.pch.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pch.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623031547id_/http%3A//privacy.pch.com) for the most accurate reproduction.*
 
 # PCH privacy policy
 
@@ -28,11 +28,11 @@
 
   * “ Automatically-collected data” such as IP address, browser type, and ISP, is used to analyze trends, administer the site, and track users’ movement around the site. This data is not linked to personally identifiable information.
 
-  * When you register with pch.com we will email you with offers of interest from pch.com and are marketing partners.
+  * When you register with pch.com we will email you with offers of interest from pch.com and our marketing partners.
 
   * When you register with pch.com we may share your name and information with third parties who may contact you by mail with relevant offers. Our ad network partners may, at times, use online behavioral advertising using cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites in order to provide you relevant display advertisements. If you wish to opt-out of online behavioral advertising by pch.com, please click here:
 
-[Certified privacy](http://privacy.pch.com/#)
+[Certified privacy](http://preferences.truste.com/2.0/?affiliateId=pch.com)
 
 
 
@@ -46,6 +46,7 @@
 
   * We collect “automatically-collected data,” which includes IP addresses, browser type and clickstream data.This informationis used to analyze trends, administer the site, and track users’ movement around the site.
 
+  * When you access applications we may offer at social media sites you allow us to access certain information in accordance with the privacy settings you have established at such sites. 
 
 
 
