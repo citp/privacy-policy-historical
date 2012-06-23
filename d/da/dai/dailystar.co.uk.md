@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailystar.co.uk privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224023751id_/http%3A//www.dailystar.co.uk/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailystar.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623194311id_/http%3A//www.dailystar.co.uk/show/privacy) for the most accurate reproduction.*
 
 # Daily Star: Simply The Best 7 Days A Week ::
 
@@ -32,3 +32,13 @@ Any personal information that you provide to us will be used for the purpose sta
 
 **6\. Any Queries?**  
 If you have any queries or concerns about privacy on the Site please contact us at the Internet Development Department, The Northern & Shell Building, Number 10 Lower Thames Street, London, EC3R 6EN. 
+
+ 
+
+[](http://www.ok.co.uk/alex)
+
+|  | 
+
+[](http://www.healthlottery.co.uk/lottery)  
+  
+---|---|---
