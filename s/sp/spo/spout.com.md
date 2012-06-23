@@ -1,69 +1,43 @@
-> *The following text is extracted and transformed from the spout.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609210956id_/http%3A//www.spout.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spout.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623211231id_/http%3A//www.indiewire.com/privacy) for the most accurate reproduction.*
 
-# Spout - Privacy
+# Privacy | Filmmakers, Film Industry, Film Festivals, Awards & Movie Reviews | Indiewire
 
-**Our Privacy Notice**
+Indiewire recognizes the importance of protecting the privacy of all our subscribers. We have instituted, therefore, the guidelines set forth below with a fundamental respect for our user's right to privacy guidelines and to establish the basis for our customer and advertiser relationships. Due to the evolving nature of both the Internet and our business, it may be necessary to change these guidelines in the future. If we do so, however, we will post such changes on this page. In no circumstances, however, will we ever release your personal information without your consent, unless required to do so by law.
 
-At SpoutSM, we’re dedicated to protecting your privacy on line.  This policy explains how we do so, and it governs your use of our site.
+###  The Information We Collect
 
- **Collecting and Using Information**
+If you have chosen to receive any of our free e-mail publications, we ask for an e-mail address to which you would like Indiewire sent. We will only use your e-mail addresses to send the Indiewire publications for which you have registered and special Indiewire announcements.
 
-We obtain information about you in a couple of different ways.  First, you give us information anytime you search, buy, post, participate, and otherwise communicate through our site. Second, we receive information about you from other sources, such as by updated delivery and address information from our carriers, information obtained through search term and search result information, and credit history information obtained from credit bureaus that help us detect and prevent fraud.  We collect and gather information, however, that is necessary or relevant for our business purposes.  We reserve the right to collect such information, either on an individual or aggregate basis. 
+If you choose to become an Indiewire member, we ask you for some additional information that permits us to include you in the Indiewire community as a member and build a "profile" of you as a member. To join our community, we ask you to choose a unique "handle" to identify yourself, to provide a valid email address, to enter and confirm a password of your choosing and to choose the publication(s) you would like to receive. In addition, you may choose to build a profile of yourself for other indieWIRE community members that includes your full name, your company, your title, your location, and other information.
 
-We will use the information we gather for business purposes.  You agree that we may do so, in our discretion, and that we are not liable in any way for such use.  (Please review our other liability limitations in our policies).  Please note that we do not share personal information we learn about you from your use of our site with others except as described in this policy.
+###  Confidentiality
 
-It is not our business to sell your information to others. Further, we do not share your information with unrelated third parties for their direct marketing purposes.  We may, however, share information with our business partners in order to provide you with goods and services.  For example, if you purchase goods through this website, like any other retailer we will provide your credit card information to our credit card processor and authenticator for payment purposes, and your name and address to the company that ships our merchandise.  We may use contractors to help us collect information to run our site or provide other on-line services.  We will share data with our business partners for these purposes only upon terms that prohibit them from making any independent commercial use of individually identifiable information and that prohibit them from sharing the data with third parties or otherwise making it publicly available.  We also reserve the right to license or sell aggregate information about the visitors to our website, but this information is not individually identifiable.
+We will use any information you give us solely to provide you and other members of the community with information about you that you choose to make accessible to the community and for us to communicate with members regarding our services and policies. Our site provides you with an option to make your profile private, public or available just to friends you approve whenever you choose to do so, though you must use your password to do so.
 
-We may release personal and account information without prior notice when we believe it is appropriate to prevent fraud; to comply with law or to cooperate with law enforcement activity or other governmental request; to respond to subpoenas, court orders or administrative agency requests for information; to enforce our policies; and to protect the rights, property and safety of our business and of others.  If we ever sell the company, division or business unit that operates this site, we may also transfer the information we have collected in connection with such sale or merger.
+All Indiewire customer-provided information is kept strictly confidential and will not be shared with any outside party. We do not sell or rent out your e-mail address to marketers. We will never intentionally disclose individually identifiable information to any third party without your permission. However, if we are ordered to so disclose such information by a court of proper jurisdiction or some other proper governmental order, we must comply with such an order.
 
-We will use the information we collect to continuously improve our business and our website development.  Your comments and suggestions about our website development are always appreciated.  You can provide us with your comments by [contacting us.  
-](https://web.archive.org/Contact.aspx)  
- **Changes to Your Preferences and Information**
+###  Use of Information
 
-The information you provide us isn’t set in stone. You can edit your account information with us at any time. Most personal information you may provide is entirely optional. You can modify your account by visiting the applicable account pages or delete your account by [contacting us](https://web.archive.org/Contact.aspx). However, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal or business interests. 
+Indiewire uses incoming and outgoing web site traffic data without individually identifiable user information to help diagnose problems with our server and to administer our web sites. We also use it to gather broad demographic information about our users in general. We may combine demographic information supplied by a user with site usage data to provide profiles, in aggregate form, about our users and their preferences as they relate to Indiewire.
 
-**Cookies**
+From time to time, we may agree with third parties to offer other services to Indiewire readers on an optional basis. For any such agreements, our partners will only be permitted to contact you or offer you such services or information if you have agreed in advance to be contacted. They will also be required to disclose their privacy and information use policy to you at all times and you shall always have the right to opt-out of being contacted at your sole discretion.
 
-You’ve heard about “cookies,” but in the web-world, these aren’t something you can nibble on with a glass of milk. A “cookie” is a small amount of data (think of a chocolate chip) that often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive (“cookies in the cupboard”).  Like many web sites, we use “cookies” or similar technology to make our site easier to use.
+###  Member Postings to Indiewire
 
-You can manage these cookies. For example, you can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.  Please keep the following in mind when you do this, however:
+If you are a registered Indiewire member, you will be able to post comments and replies to any of our articles, participate in groups, post classifieds, announce events and communicate with each other through other services. Any posting to an article or thread from a member with a public profile will include that member's unique identifier handle and a link to your profile. If your profile is public, other members will be able to access your profile information, which includes your name and email address. This could result in unsolicited email being sent to you from other members or parties if you chose to share your email address. If a posting is from a person with a private profile, no personal information will appear with the posting, though the posting itself will become public.
 
-> •    If you reject all cookies, you may not be able to use parts of our site that require you to "sign in," and you may not be able to take full advantage of Spout’s offerings.  
-> •    We may use our own cookie collection for a number of purposes, including:   
-> 
->
->> o    Requiring you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents;  
-> o    Keeping track of preferences you specify while you are using our site;  
-> o    Estimating and reporting our total audience size and traffic.  
-> o    Conducting research to improve the content and services provided on our site.   
-> 
-> 
-> •    We may allow other persons and parties to display advertisements on our web pages and sometimes these folks will set and access their cookies on your computer. Other entities' use of cookies is the subject to their privacy policies and not of this policy. We keep the hands of advertisers or other entities out of our “cookie” jar, so they do not have access to our cookies.   
-> 
+###  Cookies
 
-**Children**
+Indiewire occasionally uses Cookies to better understand our user's experience on the site and does not share this information with any third party. Indiewire also uses Cookies to help remember your preferences to better enhance you experience on our website. You may reset your cookie preference in your internet browser.
 
-Our site is geared to people age 18 or older. We do not sell products for purchase by children. We do sell children’s products for purchase by adults.  If you are under the age of 18, you may use our site, but only with the involvement of a parent or guardian. 
+###  Unsubscribing
 
-**Confidentiality & Security**
+Users may unsubscribe from any or all Indiewire publications through "your settings" on the site. We may periodically contact past clients (advertisers and sponsors) via phone, e-mail or postal mail with new information about Indiewire's products and services. If you would like to be removed from our past customer list, please send an e-mail to [contact@indiewire.com](mailto:contact@indiewire.com)and be sure to indicate your company name.
 
-No activity on the Internet can be guaranteed to be 100% secure.  We cannot, therefore, guarantee the security of any information that you transmit and you make such transmissions at your own risk.  Once we receive your transmission, however, we make efforts to ensure security on our systems, by the following:
+###  Links
 
-> •    We use physical, electronic, and procedural safeguards to protect your personal information.  
-> •    Your account information is password-protected.  
-> •    We may use industry-standard SSL-encryption to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.   
-> 
+Remember that Indiewire.com contains links to other sites, such as Indiewire partners, advertisers and other content providers. When you "click" on a link or banner advertisement, you will leave the Indiewire site and this Privacy and Information Use Policy will no longer be relevant or in effect for those other sites to which you arrive. Those sites may have privacy and information use policies that differ from Indiewire's policies, so please check them before submitting any information.
 
-We cannot provide absolute assurances against, and will not be liable for, breaches of confidentiality due to system failures or unauthorized access by third parties.
+###  Questions
 
-If we learn about a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using our site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our site if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us. [Contact Us.  
-](https://web.archive.org/Contact.aspx)  
- **Changes to This Policy**
-
-The world of on-line business is constantly changing.  To keep up with and account for these changes, we may occasionally revise or update this policy. Please keep your eye on this policy in the event such changes are made.  Scout.com will send a message to the primary e-mail address we have on file for you if we make a change, or post a prominent notice of the change on the site.
-
- **Contacting Us**
-
-If you have any privacy concerns about our site or its policies, please contact us by email. [Contact Us](https://web.archive.org/Contact.aspx).
-
-Back to top
+If you have any questions about this privacy statement, Indiewire practices, or feel that your privacy has been compromised, please contact us at [contact@indiewire.com](mailto:contact@indiewire.com).
