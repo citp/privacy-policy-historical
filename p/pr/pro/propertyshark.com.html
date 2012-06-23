@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the propertyshark.com privacy policy that was archived on 2011-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111108125934id_/http%3A//www.propertyshark.com/mason/text/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the propertyshark.com privacy policy that was archived on 2012-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623111634id_/http%3A//www.propertyshark.com/mason/text/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -10,29 +10,122 @@
 <meta name="Rating" content="General">
 <meta name="Robots" content="INDEX,FOLLOW">
 <meta name="Revisit-after" content="31 Days">
-<script src="/includes/psrk_ssi.js?v=1.5.16"></script>
+<script src="/includes/psrk_ssi.js?v=1.5.30"></script><style>
+.tabboxcontent{display:none;}
+</style>
 <script src="/includes/screen.js"></script>
-<link rel="stylesheet" media="all" href="/includes/css/style_fairview.css?v=1.9.7">
+<link rel="stylesheet" media="all" href="/includes/css/style_fairview.css?v=3.0.1">
 <link rel="stylesheet" media="print" href="/includes/jkprinterfriendly.css?v=0.0.3">
-<script src="/includes/search.js?v=1.7"></script>
-<link rel="stylesheet" media="all" href="/includes/search.css?v=1.3.7">
+<script src="/includes/search.js?v=1.9"></script>
+<link rel="stylesheet" media="all" href="/includes/search.css?v=1.3.8">
 <!--[if lt IE 7]><link rel="stylesheet" media="screen" href="/includes/css2/ie05.css?v=1.2.0" /><![endif]-->
 <!--[if IE]><link rel="stylesheet" media="all" href="/includes/search_ie.css" /><![endif]-->
-<script src="/includes/Ads/banners.js?v=1.1.0"></script>
 <link rel="stylesheet" media="all" href="/includes/properties_listmode.css?v=1.2">
 <script language="javascript">
 var base_url = '/mason';
 </script>
-<script>
-<!-- Yahoo! Inc.
-var ysm_accountid  = "1K7Q0K3NG3TB9T4K1FN40V8SGSG";
-document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " 
-+ "SRC=//" + "srv2.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid 
-+ "></SCR" + "IPT>");
-// -->
-</script><script language="JavaScript" type="text/javascript" src="//srv2.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1K7Q0K3NG3TB9T4K1FN40V8SGSG"></script>
+<script src="/includes/swfobject.js"></script>
+<script src="/includes/evercookie.js"></script>
+<script src="/includes/json.js"></script>
 </head>
-<body class="locca">
+<body class="locnyc">
+<script type="text/javascript">
+var cookie_value = 'U2FsdGVkX1%2BkyYT88tn8kl%2FJ%2BXlhFVDOdUqB2UFu8c1j6ac5agWAIV75deWuFBfxIzloOq%2B7kVJ9f2ODznP%2Bn0YNfhxaDMXyGTToRxmOEH2izuLlB1zKBJdLE7z3ig7boF54nRgYrdt3rDjfiURnoQqKtzfQmtKt2ePEazhlskgF8wRKexrpFO6XovC%2F8pBh';
+var action = 'set';
+var sources = undefined;
+var ec = new evercookie();
+var evercookie_value = ec.get('user_sources');
+if (evercookie_value) {
+sources = decodeURI(evercookie_value);
+} 
+var JSONobj;
+switch (action) {
+case 'set' :
+if (sources) {
+try {
+JSONobj = JSON.decode(sources);
+JSONobj.push(cookie_value);
+sources = JSON.encode(JSONobj);
+} catch(e) {}
+} else {
+try {
+sources = JSON.encode([cookie_value]);
+} catch(e) {}
+}
+break;
+case 'update' :
+if (sources) {
+try {
+JSONobj = JSON.decode(sources);
+JSONobj[JSONobj.length-1] = cookie_value;
+sources = JSON.encode(JSONobj);
+} catch(e) {}
+}
+break;
+case 'remove' :
+ec.remove('user_sources');
+break;
+default :
+}
+if (action == "set" || action == "update") {
+sources = encodeURI(sources);
+ec.set('user_sources', sources);
+}
+function readMovie_DoFSCommand(cookieValue) {
+//if we have flashcookie set, use the value of the flashcookie
+if (action == "remove" ){
+writeValue(undefined);
+} else if ((cookieValue != "undefined") && (cookieValue != "write") && (action == "set")) {
+try {
+cookieValue = decodeURI(cookieValue);
+JSONobj = JSON.decode(cookieValue);
+JSONobj.push(cookie_value);
+cookieValue = encodeURI(JSON.encode(JSONobj));
+writeValue(cookieValue);
+ec.set('user_sources', cookieValue);
+} catch(e) {}
+} else {
+sources = encodeURI(sources);
+writeValue(sources);
+}
+}
+function writeValue(value) {
+var flashvars = {};
+flashvars.cookieValue = value;
+var params           = {};
+params.swliveconnect = "true";
+params.allowScriptAccess = "always";
+params.scale = "noscale";
+var attributes       = {};
+attributes.id        = "writeMovie";
+attributes.name      = "writeMovie";
+swfobject.embedSWF("/includes/flashcookies/flashcookie.swf?action=write&cookieValue="+value, "flashcontent", "1", "1", "9.0.0", false, flashvars, params, attributes);
+}
+document.write('<div id="flashobject" style="width:1px; height:1px; position:absolute;"> \n');
+document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" ID="readMovie" WIDTH="1" HEIGHT="1" ALIGN=""> \n');
+document.write('<PARAM NAME=movie VALUE="/includes/flashcookies/flashcookie.swf"> \n');
+document.write('<PARAM NAME=quality VALUE=high>  \n');
+document.write('<PARAM NAME=bgcolor VALUE=#FFFFFF>  \n');
+document.write('<EMBED src="/includes/flashcookies/flashcookie.swf" quality=high bgcolor=#FFFFFF  WIDTH="1" HEIGHT="1" swLiveConnect=true ID="readMovie" NAME="readMovie" ALIGN="" TYPE="application/x-shockwave-flash" > \n');
+document.write('</EMBED> \n');
+document.write('</object> \n');
+document.write('<div id="flashcontent" style="width:1px; height:1px;"></div> \n');
+document.write('</div> \n');
+if (navigator.appName && navigator.appName.indexOf("Microsoft") != -1 ) {
+var ie = document.getElementById('readMovie');
+ie.attachEvent("FSCommand", readMovie_DoFSCommand);	
+}
+</script><div id="flashobject" style="width:1px; height:1px; position:absolute;"> 
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="readMovie" width="1" height="1" align=""> 
+<param name="movie" value="/includes/flashcookies/flashcookie.swf"> 
+<param name="quality" value="high">  
+<param name="bgcolor" value="#FFFFFF">  
+<embed src="/includes/flashcookies/flashcookie.swf" quality="high" bgcolor="#FFFFFF" width="1" height="1" swliveconnect="true" id="readMovie" name="readMovie" align="" type="application/x-shockwave-flash"> 
+ 
+</object> 
+<div id="flashcontent" style="width:1px; height:1px;"></div> 
+</div> 
+
 <div id="wrap">
 <!-- HEADER BEGIN -->
 <div id="header">
@@ -42,15 +135,18 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 <ul>
 <li><a href="/mason/Accounts/logon.html">Sign In</a></li>
 <li><a href="/mason/Docs/faq.html">Help</a></li>
+<li>
+Region: <a href="/mason/choose_locale.html?state=NY">New York City</a>
+</li>
 </ul>
 </div>
 <div id="subscribe_button"><a href="/mason/Subscribe/" rel="nofollow" class="new">Subscribe</a></div>
 <ul id="mainnav" class="tabs ntabs">
-<li><a href="/mason/California/Property-Search">Home</a></li>
-<li><a href="/mason/CA/Orange-County/Foreclosures">Foreclosures</a></li>
+<li><a href="/mason/ny/New-York-City/Property-Search">Home</a></li>
+<li><a href="/mason/NY/New-York-City/Foreclosures">Foreclosures</a></li>
 <li><a href="/mason/Real-Estate-Listings/">For Sale/Lease</a></li>
 <li><a href="/mason/Comps/search.html">Comparables</a></li>
-<li><a href="/mason/California/Maps">Maps</a></li>
+<li><a href="/mason/ny/New-York-City/Maps">Maps</a></li>
 <li><a href="/mason/ListBuilder/">Lists</a></li>
 </ul>
 </div>
@@ -59,7 +155,7 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 <div id="printheader">
 <img src="/img/mkt_email/logo_darkbg_print.jpg">
 <div>
-Prepared by <a href="http://www.propertyshark.com">PropertyShark.com</a> on 8.11.2011
+Prepared by <a href="http://www.propertyshark.com">PropertyShark.com</a> on 23.6.2012
 </div>
 </div>
 <div class="cleaner"><!--clear--></div>
@@ -222,19 +318,9 @@ registration.</p>
 <a href="/mason/text/privacy_policy.html" rel="nofollow">Privacy Policy</a> &nbsp;|&nbsp;
 <a href="/mason/text/TermsofService.html" rel="nofollow">Terms of Service</a>
 </p>
-<p>
-<a target="_blank" href="http://www.yardi.com/">Yardi</a> &nbsp;|&nbsp;
-<a target="_blank" href="http://www.point2.com/">Point2</a> &nbsp;|&nbsp;
-<a target="_blank" href="http://www.rentgrow.com/">RentGrow</a> &nbsp;|&nbsp;
-<a target="_blank" href="http://www.screeningworks.com">ScreeningWorks</a> &nbsp;|&nbsp;
-<a target="_blank" href="http://www.cpexecutive.com/">Commercial Property Executive</a> &nbsp;|&nbsp;
-<a target="_blank" href="http://www.multihousingnews.com/">Multi-Housing News</a> &nbsp;|&nbsp;
-<a target="_blank" href="http://www.point2propertymanager.com/">Point2 Property Manager</a> &nbsp;|&nbsp;
-<a target="_blank" href="http://www.hudhomestore.com">HUD Homestore</a>
-</p>
-Copyright 2003-2011, PropertyShark.com
+Copyright 2003-2012, PropertyShark.com
 </div>
-<!-- Host: psweb112 -->
+<!-- Host: psweb114 -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -242,7 +328,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-225113-1");
-pageTracker._setCustomVar(5, "locale", "ca", 3 );
+pageTracker._setCustomVar(5, "locale", "nyc", 3 );
 pageTracker._setCustomVar(2, "profession", "unknown", 3 );
 pageTracker._setCustomVar(4, "userid", "anonymous", 3 );
 pageTracker._setCustomVar(1, "user_type", "anonymous", 3 );
