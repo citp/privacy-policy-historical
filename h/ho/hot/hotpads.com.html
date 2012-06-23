@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotpads.com privacy policy that was archived on 2011-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007073856id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotpads.com privacy policy that was archived on 2012-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623022341id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
@@ -10,9 +10,9 @@
 		
 			<meta name="keywords" content="HotPads Privacy Policy">
 		
-		<title>Privacy Policy - HotPads.com</title>
-		<link href="/css/main_blu.css?149" media="all" rel="stylesheet" type="text/css">		
-		<link href="/css/blu.css?149" media="all" rel="stylesheet" type="text/css">
+		<title>Privacy Policy - HotPads</title>
+		<link href="/css/main_blu.css?cce5a3db89593d33d264a47f51fe17a8" media="all" rel="stylesheet" type="text/css">		
+		<link href="/css/blu.css?11676daa070a8af2ba33b238309d7d22" media="all" rel="stylesheet" type="text/css">
 		
 		<style type="text/css">
 			ul { 
@@ -24,8 +24,8 @@
 			}
 		</style>				
 		
-		<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="/js/compressed/jquery.compressed.js?206"></script>		
-		<script type="text/javascript" language="JavaScript" src="/js/raptor/bin/hotpads/util.js?206"></script>
+		<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/js/compressed/jquery.compressed.js?b11ced65f32fedbe9bf81ef9db0f3c94"></script>		
+		<script type="text/javascript" language="JavaScript" src="/js/raptor/bin/hotpads/util.js?5052a9a26ed71842d38ee2bb157d7233"></script>
 		
 
 
@@ -49,19 +49,34 @@
 
 
 
-	<script language="JavaScript" src="http://partner.googleadservices.com/gampad/google_service.js">
-	</script> 
-	<script language="JavaScript" type="text/javascript">
-	  	GS_googleAddAdSenseService("ca-pub-3754107382770642");
-	    GS_googleEnableAllServices();
+
+	<script type="text/javascript">
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+		var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + 
+			'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+				node.parentNode.insertBefore(gads, node);
+		})();
+		googletag.cmd.push(function() {
+			
+				googletag.pubads().setTargeting("role", "anonymous");		
+			
+			
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
 	</script>
 	
-	<script language="JavaScript">
+	<script type="text/javascript">
 		if (typeof gam_attr == "undefined") var gam_attr = {};
 		
-		    GA_googleAddAttr("role", "anonymous");
-		    gam_attr.role = "anonymous";
-		
+			gam_attr.role = "anonymous";
 		
 		gam_st = "";
 		gam_city = "";
@@ -70,25 +85,15 @@
 		gam_zip = "";
 		gam_country = "";
 		gam_msa = "";
-	
+		
 		
 		
 			gam_sec = "unknown";
 		
-
+		
 		googleAdsenseForSearchPhrase = "";
-	</script> 
 	
-	
-	
-	
-	
-	<script language="JavaScript">
-	    GA_googleFetchAds();
-	</script> 
-	
-	
-	
+	</script>
 
 
 	
@@ -99,6 +104,7 @@
 		<div id="mainDecoratorDiv">
 			<div id="page-container">
 				
+
 
 
 
@@ -164,74 +170,107 @@
 </style>
 <![endif]-->
 
-<ul class="primary-navigation">
-	<li class="primary-navigation-item" id="nav-search"><a href="/search#listingTypes=rental">Search</a>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".primary-navigation-item").hover(function() { //mousein
+				var sprite = $(this).find(".headerIcon-sprite");
+				
+				if ($(sprite).hasClass("sprite-arrow-right_6")) {
+					$(sprite).removeClass("sprite-arrow-right_6").addClass("sprite-arrow-down_6");					
+				}
+			},
+			function () { //mouseout				
+				var sprite = $(this).find(".headerIcon-sprite");
+				if ($(sprite).hasClass("sprite-arrow-down_6")) {					
+					$(sprite).removeClass("sprite-arrow-down_6").addClass("sprite-arrow-right_6");				
+				}
+			});
+	});
+</script>
+
+<ul class="primary-navigation ">
+	<li class="first-navigation-item" style=""></li>
+	<li class="primary-navigation-item  " id="nav-search"><a href="/search#listingTypes=rental"><div class="headerIcon-sprite 
+																				 sprite-arrow-right_6"></div> My Search</a> 
 		
 		<ul class="primary-subnav">
 			
 				<li class="primary-subnav-item"><a href="/search#listingTypes=rental" onclick="document.location='/search#listingTypes=rental'; return false">last search</a></li>
-					
-			
 				<li class="primary-subnav-break"></li>
 			
+
+			<span class="primary-subnav-group">
+				<li class="primary-subnav-item"><a onclick="if (typeof(hotpads.filter) != 'undefined') { hotpads.filter.updateType('userItems'); return false } else { return true; }" href="/search/favorites" rel="nofollow">My Favorites</a></li>
+                
+				
+			</span>
 			
-				<li class="primary-subnav-item"><a href="/search/rent" onclick="document.location='/search?listingTypes=rental,sublet,room,corporate';return false">For Rent</a></li>
-				<li class="primary-subnav-item"><a href="/search/real-estate" onclick="document.location='/search?listingTypes=sale,newHome,foreclosure,auction';return false">For Sale</a></li>
-				<li class="primary-subnav-item"><a href="/search/buy-vs-rent" onclick="document.location='/search?listingTypes=sale,newHome,rental';return false">Buy Vs. Rent</a></li>
-				<li class="primary-subnav-item"><a href="/search/foreclosure" onclick="document.location='/search?listingTypes=foreclosure';return false">Foreclosures</a></li>
-				<li class="primary-subnav-item"><a href="/search/vacation-rentals" onclick="document.location='/search?listingTypes=vacation';return false">Vacation</a></li>
-				<li class="primary-subnav-item"><a href="/search/hotels" onclick="document.location='/search?listingTypes=hotel';return false">Hotels</a></li>
+						
+				<li class="primary-subnav-break"></li>
+				<span class="primary-subnav-group">
+					<li class="primary-subnav-item">
+						<a href="/search/rent" onclick="document.location='/search?listingTypes=rental,sublet,room,corporate';return false">For Rent</a>
+					</li>
+					<li class="primary-subnav-item">
+						<a href="/search/real-estate" onclick="document.location='/search?listingTypes=sale,newHome,foreclosure,auction';return false">For Sale</a>
+					</li>
+					<li class="primary-subnav-item">
+						<a href="/search/buy-vs-rent" onclick="document.location='/search?listingTypes=sale,newHome,rental';return false">Buy Vs. Rent</a>
+					</li>
+					<li class="primary-subnav-item">
+						<a href="/search/foreclosure" onclick="document.location='/search?listingTypes=foreclosure';return false">Foreclosures</a>
+					</li>
+				</span>
+			
 			
 		</ul>
-		
 	</li>
-	<li class="primary-navigation-item" id="nav-my-hotpads"><a href="/userSearch/favorite/list">My Hotpads</a>
+	
+	<li class="primary-navigation-item " id="nav-listings">
+			
+				<a href="/list.htm"><span class="sprite sprite-createListingPicket" style="vertical-align:middle; margin-top:-3px"></span> Create Listings</a>	
+			
+						
+		<ul class="primary-subnav">
+			
+		</ul>
+	</li>
+	
+	<li class="primary-navigation-item selected " id="nav-resources"><a href="/pages/features.htm"><div class="headerIcon-sprite sprite-arrow-right_6"></div> Resources</a>
 		<ul class="primary-subnav">
 			<span class="primary-subnav-group">
-				<li class="primary-subnav-item"><a href="/userSearch/favorite/list" rel="nofollow">My Favorites</a></li>
-				<li class="primary-subnav-item"><a href="/users/mySearches.htm" rel="nofollow">My Searches</a></li>
+				<li class="primary-subnav-item">
+					<a href="/pages/mobile/hotpadsMobile.htm">Mobile Apps</a>
+				</li><li class="primary-subnav-item">
+					<a href="/answers/">HotPads Answers</a>
+				</li>
+				<li class="primary-subnav-item">
+					<a href="/property-managers">Property Management Finder</a>
+				</li>				
 			</span>
 			<li class="primary-subnav-break"></li>
 			<span class="primary-subnav-group">
-				
-				
-					<li class="primary-subnav-item"><a href="/list.htm" rel="nofollow">Create a Listing</a></li>
-				
-				
-					
-				
+				<li class="primary-subnav-item">
+					<a href="/sites/rentersGuide">Renters Guide</a>
+				</li>
+				<li class="primary-subnav-item">
+					<a href="/pages/buyersGuide/index.htm">Buyers Guide</a>
+				</li>
+				<li class="primary-subnav-item">
+					<a href="/pages/insuranceCenter/welcome.htm">Insurance Center</a>
+				</li>		
 			</span>
-			<li class="primary-subnav-break"></li>
-			<span class="primary-subnav-group">
-				<li class="primary-subnav-item"><a href="/profile/edit.htm" rel="nofollow">Edit My Profile</a></li>
-				<li class="primary-subnav-item"><a href="/users/editUser.htm">Edit Account</a></li>
-				
-			</span>
-			
 		</ul>
 	</li>
-	<li class="primary-navigation-item" id="nav-answers"><a href="/answers">Answers</a>
-		<ul class="primary-subnav">
-			<li class="primary-subnav-item"><a href="/answers/?order=popular">Popular Questions</a></li>
-			<li class="primary-subnav-item"><a href="/answers/?order=recent">Recent Questions</a></li>	
-					
-			
-		</ul>
-	</li>
-	<li class="primary-navigation-item" id="nav-resources"><a class="current-section" href="/pages/features.htm">Resources</a>
-		<ul class="primary-subnav">
-			<li class="primary-subnav-item"><a href="/sites/rentersGuide">Renters Guide</a></li>
-			<li class="primary-subnav-item"><a href="/pages/buyersGuide/index.htm">Buyers Guide</a></li>
-			<li class="primary-subnav-item"><a href="/pages/insuranceCenter/welcome.htm">Insurance Center</a></li>
-		</ul>
-	</li>	
+	
+	<li class="last-navigation-item"></li>
 </ul>
 
 <span id="loginBox" class="login-box">
 
 	
 		
-		<a id="loginLink" rel="nofollow" href="/login.jsp">sign in</a> | 
+		<a id="loginLink" rel="nofollow" href="/login.jsp">sign in</a> <span style="color:#C0DBF0">|</span> 
 		<a href="/users/newUser.htm" rel="nofollow">create an account</a>  
 	
 	
@@ -266,11 +305,11 @@
 						<div class="page-content-container page-content-thicktop">
 							<div class="page-single-column">
 							<br>
-(last updated October 25, 2007)
+(last updated January 1, 2012)
 <br>
 <br>
 <h3 style="border-bottom:1px solid gray;">Privacy Summary</h3>
-At HotPads, we follow the Golden Rule.  We treat your information as we would like you to treat ours.  The following Privacy Policy outlines our specific policies regarding what information we collect from our users and what we do with it.  We will abide by this policy and protect your information and privacy, but if you believe that we have infringed upon your privacy for any reason, please give us a call at (563) Buy-Rent [289-7368] or email us at <a style="font-weight:normal;" href="mailto:privacy@hotpads.com">privacy@hotpads.com</a>. 
+At HotPads, we follow the Golden Rule.  We treat your information as we would like you to treat ours.  The following Privacy Policy outlines our specific policies regarding what information we collect from our users and what we do with it.  We will abide by this policy and protect your information and privacy, but if you believe that we have infringed upon your privacy for any reason, please email us at <a style="font-weight:normal;" href="mailto:privacy@hotpads.com">privacy@hotpads.com</a>. 
 <br>
 <br>
 <br>
@@ -390,6 +429,7 @@ HotPads, Inc.
 
 
 
+
 <!--[if lte IE 7]>
 	<style type="text/css">
 		.footer-info {
@@ -412,18 +452,15 @@ HotPads, Inc.
 				<a href="/search/foreclosure">Foreclosure</a>
 				 - 
 				<a href="/search/land-for-sale">Land</a>
-				 - 
-				<a href="/search/vacation-rentals">Vacation Rentals</a>
-				 - 
-				<a href="/search/hotels">Hotels</a>
+				
 			</div>
 			<div id="footerResources" class="link-category">
 				<span class="category-name">Resources:</span>
 				<a href="/pages/features.htm">Tools</a>
 				 - 
+				<a href="/list.htm">Create a Listing</a>
+				 -
 				<a href="/pages/featuredListings/about.htm">Featured Listings</a>
-				 - 
-				<a href="/pages/partners/feeds.htm" rel="nofollow">Feeds</a>
 				 - 
 				<a href="/sites/rentersGuide">Renters Guide</a>
 				-
@@ -441,6 +478,8 @@ HotPads, Inc.
 				 - 
 				<a href="/pages/advertisers.htm" rel="nofollow">Advertise</a>
 				 - 
+				<a href="/pages/partners/feeds.htm" rel="nofollow">Feeds</a>
+				 - 
 				<a href="/pages/jobs.htm" rel="nofollow">Jobs</a>
 				 - 
 				<a href="/pages/info/termsOfUse.htm" rel="nofollow">Terms</a>
@@ -448,22 +487,27 @@ HotPads, Inc.
 				<a href="/pages/info/privacyPolicy.htm" rel="nofollow">Privacy</a>
 				 - 
 				<a href="/browse.htm">Sitemap</a>
+				-
+				<a href="/pages/report-a-listing.htm">Report Fraud</a>
 			</div>
 		</div>
 		<div class="footer-info">
 			<p id="footerDescription">
 				HotPads.com is a map-based real estate search engine, listing homes for sale, apartments, condos, and rental houses.
 			</p>
-			<div id="footerCopyright">
-				<a href="http://www.hud.gov/offices/fheo/index.cfm" rel="nofollow"><img src="/images/icons/fheo.gif" alt="fair housing and equal opportunity"></a>
-				<p>© 2011 hotpads.com</p>		
-			</div>
 		</div>
+
+		<div id="footerCopyright">
+			<a href="http://www.hud.gov/offices/fheo/index.cfm" rel="nofollow"><img src="/images/icons/fheo.gif?1" alt="fair housing and equal opportunity"></a>
+			<p>© 2012 hotpads.com</p>		
+		</div>
+		
 	</div>
 </div>
 
 		
 		
+
 
 
 
@@ -501,28 +545,6 @@ HotPads, Inc.
   })();
 
 </script>
-
-<!-- Quantcast Tag --> 
-<script type="text/javascript">
-  var _qevents = _qevents || [];
-
-  (function() {
-   var elem = document.createElement('script');
-
-   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-   elem.async = true;
-   elem.type = "text/javascript";
-   var scpt = document.getElementsByTagName('script')[0];
-   scpt.parentNode.insertBefore(elem, scpt);  
-  })();
-</script>
-<script type="text/javascript">
-_qevents.push( { qacct:"p-88tbF0RXGNd5A"} );
-</script>
-<noscript>
-<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-88tbF0RXGNd5A.gif" height="1" width="1" alt="Quantcast"/></div>
-</noscript>
-<!-- End Quantcast tag -->
 
 
 
