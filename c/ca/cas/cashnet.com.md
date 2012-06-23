@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the cashnet.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225001554id_/http%3A//www.higherone.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D107%26Itemid%3D94) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnet.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623194308id_/http%3A//www.higherone.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D107%26Itemid%3D94) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### YOUR PRIVACY IS OUR PRIORITY
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Higher%20One,%20Inc.&sealid=101)At Higher One, we take your privacy and online security very seriously. During card set up, you’re providing us with personal information about yourself. Higher One understands the importance of protecting the safety and confidentiality of the information you provide and we treat this information with the utmost security and respect. This Privacy Statement (this 'Statement') details what personal information we collect from our users’ as well as how we use it and safeguard it. This Statement applies exclusively to [www.higherone.com](http://www.higherone.com/) and [Higheroneaccount.com](http://www.higheroneaccount.com/) (the ‘Sites’).
+[](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Higher%20One,%20Inc.&sealid=101)At Higher One, we take your privacy and online security very seriously. During card set up, you’re providing us with personal information about yourself. Higher One understands the importance of protecting the safety and confidentiality of the information you provide and we treat this information with the utmost security and respect. This Privacy Statement (this 'Statement') details what personal information we collect from our users’ as well as how we use it and safeguard it. This Statement applies exclusively to [www.higherone.com](http://www.higherone.com/). 
 
 In addition to any legal compliance associated with the handling of your information, Higher One wants to earn your trust. Therefore, we’ve taken a number of steps to make sure that your information is as safe as possible, including but not limited to:
 
-  * Implementing numerous stringent physical and electronic security features to prevent unauthorized access; 
-  * Conducting frequent reviews of our computer systems, including security features and data encryption; 
-  * Limiting employee access to customer information to only those employees who need it for the normal performance of their jobs by requiring our employees to acknowledge, in writing, their individual responsibility to maintain the confidentiality of all customer information; and 
-  * Always applying the same privacy policies and practices to our former customers that we do to our existing customers. 
+  * Implementing numerous stringent physical and electronic security features to prevent unauthorized access;
+  * Conducting frequent reviews of our computer systems, including security features and data encryption;
+  * Limiting employee access to customer information to only those employees who need it for the normal performance of their jobs by requiring our employees to acknowledge, in writing, their individual responsibility to maintain the confidentiality of all customer information; and
+  * Always applying the same privacy policies and practices to our former customers that we do to our existing customers.
 
 
 
 **There are important steps you can take yourself to help insure the safety of your information online. Some suggestions:**
 
-  1. Never leave your computer in the middle of an online session. 
-  2. When you’re done with an online session, make sure you log off of the program website before you move on to other sites. 
-  3. Never share your password with anyone. 
-  4. If other people have access to your computer, clear your browser's cache to remove copies of web pages that may have been temporarily stored on your computer. Check your browser's Help file for instructions. 
+  1. Never leave your computer in the middle of an online session.
+  2. When you’re done with an online session, make sure you log off of the program website before you move on to other sites.
+  3. Never share your password with anyone.
+  4. If other people have access to your computer, clear your browser's cache to remove copies of web pages that may have been temporarily stored on your computer. Check your browser's Help file for instructions.
 
 
 
