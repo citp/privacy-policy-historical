@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thekidzpage.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219201822id_/http%3A//thekidzpage.com/html/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekidzpage.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623024202id_/http%3A//www.thekidzpage.com/html/terms.htm) for the most accurate reproduction.*
 
 # Privacy at theKidzpage.com
 
   
-**Privacy Statement** ** \- [_Linking_](https://web.archive.org/web/20111219201822id_/http%3A//thekidzpage.com/html/linktous.htm)  
+**Privacy Statement** ** \- [_Linking_](https://web.archive.org/web/20120623024202id_/http%3A//www.thekidzpage.com/html/linktous.htm)  
 **[](http://www.cybersitter.com/)[](http://www.netnanny.com/)[](http://www.safesurf.com/)
 
 Security | Removing/Changing Information | Children's Guidelines | Contacting the Site | Copyright Information
