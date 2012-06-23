@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygflovesgirls.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126164214id_/http%3A//join.mygflovesgirls.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygflovesgirls.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623023806id_/http%3A//join.mygflovesgirls.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
