@@ -1,25 +1,10 @@
-> *The following text is extracted and transformed from the us-appliance.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229215740id_/http%3A//www.us-appliance.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-appliance.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623232553id_/http%3A//www.us-appliance.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
-[](http://www.truste.com/ivalidate.php?url=www.us-appliance.com&sealid=101)
-
-**Privacy Statement for US Appliance®** (last updated 03/07/2011) 
-
-US Appliance has been awarded TRUSTe's Privacy seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. This privacy statement discloses the privacy practices for www.us-appliance.com. TRUSTe's mission, as an independent, third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. By displaying the TRUSTe trustmark, this Web site has agreed to notify you of:  
-1\. What personally identifiable information of yours or third party personally identification is collected from you through the Web site  
-2\. The organization collecting the information  
-3\. How the information is used  
-4\. With whom the information may be shared  
-5\. What choices are available to you regarding collection, use and distribution of the information  
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under US Appliance control  
-7\. How you can correct any inaccuracies in the information.
-
-If you have questions or concerns regarding this statement, you should first contact the General Manager by email at help@us-appliance.com or phone at 248-364-0700. If you are not satisfied with our response you can contact [ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
-
-Privacy Statement for US Appliance: 
+  **Privacy Statement for US Appliance®** (last updated 03/07/2011) 
 
 US Appliance has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: www.us-appliance.com, which is owned and operated by US Appliance. We do not share, sell, trade, or rent your personal information to third parties for any reasons except as outlined in this privacy policy. 
 
@@ -41,7 +26,9 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 This Web site contains links to other sites that are not owned or controlled by US-Appliance.com. Please be aware that we, US Appliance, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site. When you use "Share This" to bookmark and share our products and site, you will be taken to a third party site. Please note that these third party sites’ privacy policies govern the collection and use of the information collected on those sites. 
 
-This Web site utilizes framing techniques to make it appear that the user is still on the site when the user is actually on a third party Web site. For example, if you are on a page that has the look and feel of www.us-appliance.com but the URL listed in your browser is a different URL than www.us-appliance.com, then know that the information is being collected by this third party and their Privacy Policy governs the collection and use of this information. 
+This Web site utilizes framing techniques to make it appear that the user is still on the site when the user is actually on a third party Web site. For example, if you are on a page that has the look and feel of www.us-appliance.com but the URL listed in your browser is a different URL than www.us-appliance.com, then know that the information is being collected by this third party and their Privacy Policy governs the collection and use of this information.
+
+This Web site retains data elements associated with known fraudulent transactions, uses such data in connection with fraud detection and prevention efforts, and shares such data with third-parties for fraud detection and prevention and related purposes.  
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use persistent cookies which remain on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, may be limited. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. 
 
@@ -59,4 +46,4 @@ Auburn Hills, MI 48326
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-We reserve the right to modify this privacy statement at any time. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the changes becoming effective.
+We reserve the right to modify this privacy statement at any time. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the changes becoming effective. 
