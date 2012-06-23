@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ih8mud.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224115419id_/http%3A//www.ih8mud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ih8mud.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623091454id_/http%3A//www.ih8mud.com/privacy) for the most accurate reproduction.*
 
-# Legal and Privacy Policy - Your Online Offroad 4x4 Tech Resource - IH8MUD.com :: Your Online Offroad 4×4 Tech Resource – IH8MUD.com
+# Legal and Privacy Policy :: Your Online Offroad 4×4 Tech Resource – IH8MUD.com
 
-This legal statement discloses the practices for the websites and information hosted by IH8MUD Inc. and located at http://www.ih8mud.com and http://www.rockcrawler.com and all related subdomains, including http://forum.ih8mud.com, http://wiki.ih8mud.com, http://gallery.ih8mud.com, http://www.cruiserfaq.com, etc.
+This legal statement discloses the practices for the websites and information hosted by IH8MUD Inc. and located at http://www.ih8mud.com and http://www.rockcrawler.com and all related subdomains, including http://forum.ih8mud.com,  http://gallery.ih8mud.com, http://www.cruiserfaq.com, etc.
 
 **IH8MUD Inc. is organized as a S-Corporation under the laws of the State of Wisconsin.**
 
@@ -12,7 +12,7 @@ All content posted on IH8MUD.com/RockCrawler.com becomes the property of IH8MUD 
 
 #### Notification of Changes
 
-We reserve the right, at our sole discretion, to change, modify or otherwise alter these terms and conditions at any time. Such modifications shall become effective immediately upon the posting thereof. You must review this agreement on a regular basis to keep yourself apprised of any changes. You can find the most recent version of the TOU at: <http://www.ih8mud.com/privacy>/
+We reserve the right, at our sole discretion, to change, modify or otherwise alter these terms and conditions at any time. Such modifications shall become effective immediately upon the posting thereof. You must review this agreement on a regular basis to keep yourself apprised of any changes. You can find the most recent version of the TOU at: [http://www.ih8mud.com/privacy/](http://www.ih8mud.com/privacy)
 
 All corporate trademarks are the property of their respective owners and are used to refer to those specific products or activities related to those products. IH8MUD Inc’s use of these trademarks in its stories in no way infers that any relationship exists between IH8MUD Inc. and the trademark owner.
 
@@ -35,7 +35,7 @@ You should consult the respective privacy policies of these third-party ad serve
 Currently, IH8MUD.com has relationships with the following third-party ad servers or ad networks:
 
   * Google – http://www.google.com/privacy.html
-  * Driving Revenue – http://www.drivingrevenue.com/privacy.php
+  * VigLink - http://www.viglink.com/policies/privacy
   * EBay – https://publisher.ebaypartnernetwork.com/PublisherRegPP
   * ContextWeb/ADSDAQ – http://www.contextweb.com/ppolicy.html
   * Commission Junction – http://www.cj.com/privacy.html
@@ -97,5 +97,4 @@ Our Forum is visited by members of the general public. IH8MUD Inc. is in no way 
 
 #### Contact Us
 
-If you have any questions about this privacy statement, the practices of this site, or about your dealings with this Web site, you can contact:  
-woody@ih8mud.com
+If you have any questions about this privacy statement, the practices of this site, or about your dealings with this Web site, you can contact:  admin@ih8mud.com
