@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sequencehome.co.uk privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118132521id_/http%3A//www.sequencehome.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sequencehome.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623225122id_/http%3A//www.sequencehome.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Sequence
 
@@ -56,7 +56,7 @@ Sequence (UK) Limited is registered as Data Controller of your Information, Regi
 
 3.7 Sequence would also like to keep you informed (by telephone, post or e-mail) of selected products and services available from us and our carefully chosen suppliers. If you would prefer not to receive this information you can update your communication preferences at any time via the MyAccount item on the main navigation bar. Alternatively please let us know by either sending an e-mail message to websitefeedback@sequencehome.co.uk or by writing to us at our registered address.
 
-3.9 Our use of Cookies 
+3.9 Our use of Cookies
 
 3.9.1 A cookie is a small piece of information that a site puts on your hard disk or stores in your computer's memory so that it can remember something about you at a later time. It is a mechanism that allows the server to store its own information about a user on the user's own computer. This is because each request for a web page is independent of all other requests, so the web page server has no memory of what pages it has shown you or anything about your previous visits. A cookie records your preferences when using a particular site, ensuring that you are not shown the same information and/or are only shown information you have stated that you are interested in. In order to use the Site you agree to let cookies be saved as they are an important part of navigation of the Site.
 
@@ -84,5 +84,3 @@ AddThis a social bookmarking service, allowing visitors to bookmark an item usin
 
 **5\. How to contact Sequence (UK) Limited**  
 5.1 We welcome your views about the Site and our Privacy Policy. If you would like to contact us with any enquiries or comments please send an e-mail to [website.feedback@sequencehome.co.uk](mailto:website.feedback@sequencehome.co.uk)
-
-[](http://www.addthis.com/bookmark.php?v=250&pubid=ra-4d9487272afb6524)
