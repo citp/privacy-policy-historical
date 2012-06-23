@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the your-life.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117181256id_/http%3A//www.your-life.com/en/home/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-life.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623142901id_/http%3A//www.your-life.com/en/home/privacy-statement.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -43,6 +43,10 @@ Bayer uses technical and organizational security precautions to protect your dat
 ### Children 
 
 In light of the importance of protecting children's privacy, we do not collect, process or use on our Web site any information relating to an individual whom we know to be under 13 years old without the prior, verifiable consent of his or her legal representative. Such legal representative has the right, upon request, to view the information provided by the child and/or to require that it be deleted.
+
+### Websites of third-party vendors/links
+
+This website contains links/references to third-party websites. By providing such links, BAYER does not give its approval to their contents. Neither does BAYER accept any responsibility for the availability or the contents of such websites or any liability for damage or injury resulting from the use of such contents, of whatever form. BAYER offers no guarantee that pages linked to provide information of consistent quality. Links to other websites are provided to website users merely for the sake of convenience. Users access such websites at their own risk. The choice of links should in no way restrict users to the linked pages.
 
 ### Contacts 
 
