@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the execunet.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216173549id_/http%3A//www.execunet.com/e_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the execunet.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623211228id_/http%3A//www.execunet.com/e_privacy.cfm) for the most accurate reproduction.*
 
 # ExecuNet - Executive Job Search, Networking & Career Advancement
 
@@ -17,6 +17,17 @@ ExecuNet is committed to protecting the privacy of our users. We want to provide
 This Privacy Policy covers ExecuNet's treatment of personally identifiable information that ExecuNet collects when you are on the ExecuNet site, and when you use ExecuNet's services. This policy also covers ExecuNet's treatment of any personally identifiable information that ExecuNet's business partners share with ExecuNet. 
 
 This policy does not apply to the practices of companies that ExecuNet does not own or control, or to people that ExecuNet does not employ or manage. 
+
+**Using ExecuNet Connections**
+
+ExecuNet encourages members to contact other members to enhance and expand their network, to refer or recommend a resource or service, and to pass along information that is deemed beneficial. We ask that you please adhere to the following guidelines:
+
+  * Broadband solicitation to the ExecuNet membership for sale of products or services that result in personal gain or are for the enrichment of the company they work for is not allowed. Example: Dissemination of an e-mail to the membership to gain clients for legal advice, financial services, multi-level marketing firms, etc.
+  * Broadband solicitation to the ExecuNet membership to express a personal, religious or political point of view, or to elicit member opinions is not allowed. Example: fund raising requests, flyers of any type, surveys and questionnaires.
+  * Examples of allowed solicitations to the membership: job postings, asking for company information, asking for information on an individual, recent announcement on new government policy on extending unemployment benefits, etc. (Contacts are limited to 100 members per week.)
+  * ExecuNet has established a Referral Center on the Members Only website where our members may communicate to the membership benefits that may be of value to the membership even though such benefits may also result in personal gain. Examples currently on the website: career coaches, resume writers, conference calling services, guide to self-employment, etc.
+
+ExecuNet reserves the right to monitor and terminate any contact and/or solicitation it considers compromising to its membership or its position. Please report inappropriate communications to our Member Services Team at [member.services@execunet.com](mailto:member.services@execunet.com). Should Member Services receive five or more complaints regarding inappropriate communications from a member, ExecuNet reserves the right to terminate access to Networking privileges.
 
 **Information Collection**
 
@@ -54,11 +65,11 @@ Our credit card transactions are processed by Litle & Co (http://www.litle.com/)
 
 **Cookies**
 
-To enhance your experience at ExecuNet, we use a feature on your Internet browser called a "cookie." Cookies are small files that your web browser places on your computer's hard drive. We use cookies for remembering user preferences, tracking visits to understand visitor usage and behavior, and planning for increased loads. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. You have the option of setting your browser to reject cookies. However, doing this will hinder performance and could negatively impact your experience on our site. We also work with a company which enables a third party cookie to help us measure audience demographics and trends. Quantcast does not collect any personally identifiable information; that is, information that could be used to uniquely identify or locate an individual. For further information please review the [Quantcast privacy policy](http://www.quantcast.com/info/privacy-policy).
+To enhance your experience at ExecuNet, we use a feature on your Internet browser called a "cookie." Cookies are small files that your web browser places on your computer's hard drive. We use cookies to enable our systems to recognize your browser, remember your preferences, track visits to understand visitor usage and behavior, and plan for increased loads. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. Our goal is to make your experience with ExecuNet more convenient and personal. You have the option of setting your browser to reject cookies. However, doing this will hinder performance and could negatively impact your experience on our site. We also work with a company which enables a third party cookie to help us measure audience demographics and trends. Quantcast does not collect any personally identifiable information; that is, information that could be used to uniquely identify or locate an individual. For further information please review the [Quantcast privacy policy](http://www.quantcast.com/info/privacy-policy).
 
 **Feedback**
 
-ExecuNet has an area on the site where you can submit [feedback](https://web.archive.org/web/20111216173549id_/http%3A//www.execunet.com/e_contactus.cfm). Any feedback that is submitted through this area becomes the property of ExecuNet. We may use this feedback, such as success stories, for marketing purposes, or to contact you for further feedback on the site. 
+ExecuNet has an area on the site where you can submit [feedback](https://web.archive.org/web/20120623211228id_/http%3A//www.execunet.com/e_contactus.cfm). Any feedback that is submitted through this area becomes the property of ExecuNet. We may use this feedback, such as success stories, for marketing purposes, or to contact you for further feedback on the site. 
 
 **Privacy Commitment Changes**
 
