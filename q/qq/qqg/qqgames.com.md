@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qqgames.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126034042id_/http%3A//www.qqgames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qqgames.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623232932id_/http%3A//www.qqgames.com/privacy.html) for the most accurate reproduction.*
 
 # QQ Games | Privacy Policy | Play Free Online Multiplayer Games and Challenge your Friends!
 
