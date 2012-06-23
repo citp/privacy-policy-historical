@@ -1,13 +1,16 @@
-<!--The following is the downloaded HTML source of the tokeofthetown.com privacy policy that was archived on 2011-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111208040532id_/http%3A//www.villagevoice.com/about/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tokeofthetown.com privacy policy that was archived on 2012-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623042103id_/http%3A//www.villagevoice.com/about/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.01 transitional//en" "http://www.w3.org/tr/html4/loose.dtd"><html><head>
     <meta name="google-site-verification" content="o_D5zLzCQ84QTKtfR8P0gSeWLtxdTKuap5FkaZE83Ac">
+<meta name="msvalidate.01" content="3443F17DFB93961891E95B1452B50579">
+<meta property="og:image" content="http://media.villagevoice.com/7954907.0.jpg">
+<meta property="og:image" content="http://www.villagevoice.com/img/citylogo-lg.png">
   <title>New York Privacy Policy</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
   <link rel="alternate" type="application/rss+xml" title="Village Voice: Privacy" href="feed://villagevoice.com/syndication/issue">
-    <script type="text/javascript" async="" id="ic_annonymous_pixel" src="http://pixel.indieclick.com/annonymous/domain/villagevoice.com/reach/script_ic.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
+    <script type="text/javascript" async="" id="ic_annonymous_pixel" src="http://pixel.indieclick.com/annonymous/domain/villagevoice.com/reach/script_ic.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
         <!--
         //orig configuration
         OAS_url = 'http://oascentral.villagevoice.com/';
@@ -21,21 +24,22 @@
 
     <!-- for dev only, remove when rollup is corrected -->
 
-    <link rel="stylesheet" href="http://assets.villagevoice.com/load/c/default-26632.css">
-<link rel="stylesheet" href="http://assets.villagevoice.com/load/c/about-privacyPolicy-26632.css">
+    <link rel="stylesheet" href="http://assets.villagevoice.com/load/c/default-32111.css">
+<link rel="stylesheet" href="http://assets.villagevoice.com/load/c/about-privacypolicy-32111.css">
     <!-- p/af/v/e/LoadJS -->
-<script language="javascript" src="http://assets.villagevoice.com/load/j/default-26632.js" type="text/javascript"></script>
-<script language="javascript" src="http://assets.villagevoice.com/load/j/about-privacyPolicy-26632.js" type="text/javascript"></script>
+<script language="javascript" src="http://assets.villagevoice.com/load/j/default-32111.js" type="text/javascript"></script>
+<script language="javascript" src="http://assets.villagevoice.com/load/j/about-privacypolicy-32111.js" type="text/javascript"></script>
 <!-- End p/af/v/e/LoadJS -->
     <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-395255-23']);
   _gaq.push(['_setDomainName', 'villagevoice.com']);
-  _gaq.push(['_setCustomVar', 4, '', 'Home|Misc|', 1]);
+  _gaq.push(['_setCustomVar', 4, 'OASCategories', 'Home|Misc|', 1]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
   _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']); 
 
+  _gaq.push(['b._setAccount','UA-28661610-9']);_gaq.push(['b._trackPageview']);
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -47,22 +51,56 @@
     
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
+    
+    <style>
+     .outerBody { overflow: hidden; }
+     .innerBody { overflow-x: auto; }
+    </style>
+    
+    <script type="text/javascript">
+
+        $(document).ready(function(){
+            $toolbar_height = $('.toolbarStripe').height();
+            $adWrapper = $('<div id="adWrapper"/>');
+            var reQS = new RegExp( "[?&]Category=([^&$]*)", "i" );
+            var offset = OAS_query.search( reQS );
+            var category = ( offset >= 0 ) ? RegExp.$1 : null;
+            if (category != null) {
+                $.post(
+                    '/ads/reskins/' + category + '/',
+                    {},
+                    function(response){
+                        $adWrapper.html($("div#adWrapperLeft, div#adWrapperRight", $(response)));
+                        $('.pagecontainer').prepend($adWrapper);
+                    }
+                );
+            }
+
+            $(window).scroll(function(){
+                updateAdWrapperPosition()
+            })
+            updateAdWrapperPosition()
+        });
+
+        function updateAdWrapperPosition(){
+            $y = $(window).scrollTop();
+            if($y > $toolbar_height){
+                $adWrapper.addClass('adWrapperFixed');
+            } else {
+                $adWrapper.removeClass('adWrapperFixed');
+            }
+        }
+    </script>
+    
 </head>
 <body><!--googleoff: all--> 
-
-
-
-<!-- BACKGROUND AD -->
-
-  
-<!-- BACKGROUND AD -->
-
+<div class="outerBody">
 <div class="pagecontainer">
     <div class="vvmlb">
         <div class="topbanner">
             <!-- NOGSA -->
 <div class="Ads" id="Top">
-    <script language="JavaScript">
+    <script type="text/javascript">
         <!--
         OAS_AD('Top');
         //-->
@@ -76,276 +114,226 @@
     </div>
 
     <div class="sitenav">
-        <!-- p/af/v/navigation/index -->
-<!-- js: p/af/wr/js/navigation_index.js -->
-<div class="ClearIt"></div>
-<!-- start nav -->
-<div id="nav">
-    <!-- start navMain -->
-    <div id="navMain">
-        <ul class="nav">
-                                                <li id="nav-news" class="topMenu menuLi">
-                        <a href="/news/" class="top" target="_self">News</a>                                                    <ul class="mid subNav" id="sub-nav-news">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-news").append( '<li><a href="/news" target="_self">News Home</a></li>' ); 
-                                                                                    $("#sub-nav-news").append( '<li><a href="/news/wire" target="_self">Daily News</a></li>' ); 
-                                                                                    $("#sub-nav-news").append( '<li><a href="http://blogs.villagevoice.com/runninscared/" target="_self">Runnin&#039; Scared - News Blog</a></li>' ); 
-                                                                                    $("#sub-nav-news").append( '<li><a href="/authors/harry-siegel/" target="_self">Harry Siegel</a></li>' ); 
-                                                                                    $("#sub-nav-news").append( '<li><a href="/authors/nat-hentoff/" target="_self">Nat Hentoff</a></li>' ); 
-                                                                                    $("#sub-nav-news").append( '<li><a href="/authors/roy-edroso/" target="_self">Roy Edroso</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                                                <li id="nav-music" class="topMenu menuLi">
-                        <a href="/music/" class="top" target="_self">Music</a>                                                    <ul class="mid subNav" id="sub-nav-music">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-music").append( '<li><a href="/music" target="_self">Music Home</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/events/music" target="_self">Top Picks</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/directory/clubs/" target="_self">Find a Bar or Club</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/pazznjop/" target="_self">Pazz &amp; Jop</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/columns/down-in-front-389014/" target="_self">Down in Front</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="http://blogs.villagevoice.com/music/" target="_self">Sound of the City</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="http://www.villagevoice.com/4knots" target="_self">4Knots Music Festival</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/feedback/SubmitAnEvent" target="_self">Submit an Event</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/readers/register" target="_self">Join Music Newsletter</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/adIndex/category/entertainment-77" target="_self">Entertainment Ads</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/events/concerts/" target="_self">Concert Calendar</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                                                <li id="nav-calendar" class="topMenu menuLi">
-                        <a href="/calendar/" class="top" target="_self">Calendar</a>                                                    <ul class="mid subNav" id="sub-nav-calendar">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-calendar").append( '<li><a href="/calendar" target="_self">Calendar Home</a></li>' ); 
-                                                                                    $("#sub-nav-calendar").append( '<li><a href="/events/search" target="_self">Top Picks</a></li>' ); 
-                                                                                    $("#sub-nav-calendar").append( '<li><a href="/events/search/category:[1138306]/" target="_self">Holiday Events</a></li>' ); 
-                                                                                    $("#sub-nav-calendar").append( '<li><a href="/events/search/category:[258631]/" target="_self">Comedy Events</a></li>' ); 
-                                                                                    $("#sub-nav-calendar").append( '<li><a href="/feedback/SubmitAnEvent" target="_self">Submit an Event</a></li>' ); 
-                                                                                    $("#sub-nav-calendar").append( '<li><a href="/adIndex/category/entertainment-77" target="_self">Entertainment Ads</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                                                <li id="nav-restaurants" class="topMenu menuLi">
-                        <a href="/restaurants/" class="top" target="_self">Restaurants</a>                                                    <ul class="mid subNav" id="sub-nav-restaurants">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/restaurants" target="_self">Restaurants Home</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/restaurants/search" target="_self">Restaurant Guide</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/restaurants/reviews" target="_self">Restaurant Reviews</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/columns/counter-culture-505273/" target="_self">Sietsema&#039;s Counter Culture</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/locations/directory" target="_self">Find a Bar or Club</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://blogs.villagevoice.com/forkintheroad/" target="_self">Fork in the Road (blog)</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/restaurants/menus" target="_self">Sponsored Online Menus</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://choiceeats.villagevoice.com" target="_self">Choice Eats Tasting Event</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/readers/register" target="_self">Join Dining Newsletter</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/adIndex/subcategory/restaurant-ads-416" target="_self">Restaurant Ads</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://happyhours.villagevoice.com/nyc/find/places/All-Editor+Picks-in-New+York" target="_self">Happy Hours App</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://coupons.villagevoice.com/new-york/deals/restaurants/" target="_self">Restaurant Coupons</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://happyhours.villagevoice.com/nyc/find/places" target="_self">Happy Hours</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://microapp.villagevoice.com/brooklyn-pour/" target="_self">Brooklyn Pour</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                                                <li id="nav-search" class="topMenu">
-                        <a class="top" href="#">&nbsp;</a>
-                                                <form id="navigationSearch" onsubmit="" method="get" action="http://www.villagevoice.com/search/index/">                        <input name="keywords" type="text" autocomplete="off" class="searchInput" id="searchInput" value="Search Village Voice">                        <input type="image" src="http://assets.villagevoice.com/img/nav_search.jpg" id="searchSubmit">                                                                        </form>                    </li>
-                                                                <li id="nav-arts" class="topMenu menuLi">
-                        <a href="/arts/" class="top" target="_self">Arts</a>                                                    <ul class="mid subNav" id="sub-nav-arts">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-arts").append( '<li><a href="/arts" target="_self">Arts Home</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="/events/category/art-155018/" target="_self">Calendar</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="/books" target="_self">Books</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="/theater" target="_self">Theater</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="/art" target="_self">Art</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="/dance" target="_self">Dance</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="http://obies.villagevoice.com" target="_self">Obies Theater Awards</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                                                <li id="nav-films" class="topMenu menuLi">
-                        <a href="/movies/" class="top" target="_self">Films</a>                                                    <ul class="mid subNav" id="sub-nav-films">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-films").append( '<li><a href="/movies" target="_self">Films Home</a></li>' ); 
-                                                                                    $("#sub-nav-films").append( '<li><a href="/movies/showtimes" target="_self">Now Showing</a></li>' ); 
-                                                                                    $("#sub-nav-films").append( '<li><a href="/movies/theaters" target="_self">Movie Showtimes</a></li>' ); 
-                                                                                    $("#sub-nav-films").append( '<li><a href="/movies/reviews" target="_self">Reviews</a></li>' ); 
-                                                                                    $("#sub-nav-films").append( '<li><a href="/readers/register" target="_self">Join NY Film Club</a></li>' ); 
-                                                                                    $("#sub-nav-films").append( '<li><a href="/adIndex/subcategory/movies-420" target="_self">Movie Ads</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                                                <li id="nav-the_ads" class="topMenu menuLi">
-                        <a href="/adindex/" class="top" target="_self">The Ads</a>                                                    <ul class="mid subNav" id="sub-nav-the_ads">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-the_ads").append( '<li><a href="/adIndex" target="_self">Ad Index</a></li>' ); 
-                                                                                    $("#sub-nav-the_ads").append( '<li><a href="/flipbook" target="_self">Flip Book</a></li>' ); 
-                                                                                    $("#sub-nav-the_ads").append( '<li><a href="/mediakit" target="_self">Media Kit</a></li>' ); 
-                                                                                    $("#sub-nav-the_ads").append( '<li><a href="/fitnesshealthbeauty" target="_self">Fitness Health &amp; Beauty Guide</a></li>' ); 
-                                                                                    $("#sub-nav-the_ads").append( '<li><a href="/restaurants/menus" target="_self">Sponsored Online Menus</a></li>' ); 
-                                                                                    $("#sub-nav-the_ads").append( '<li><a href="http://coupons.villagevoice.com/new-york/deals/" target="_self">Coupons</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                                                <li id="nav-classifieds" class="topMenu menuLi">
-                        <a href="http://villagevoice.backpage.com/" class="top" target="_self">Classifieds</a>                                                    <ul class="mid subNav" id="sub-nav-classifieds">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="http://villagevoice.backpage.com/online/classifieds/index.html" target="_self">Free Online Classifieds</a></li>' ); 
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="http://villagevoice.backpage.com/ApartmentsForRent/classifieds/Results?adLanguage=All&amp;category=4416" target="_self">Real Estate For Rent</a></li>' ); 
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="/afterdark/" target="_self">After Dark</a></li>' ); 
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="http://sexyblackbook.com" target="_self">Sexy Black Book</a></li>' ); 
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="/careerfair" target="_self">Virtual Career Fair</a></li>' ); 
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="http://personals.villagevoice.com/" target="_blank">Personals</a></li>' ); 
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="http://villagevoice.trulia.com/NY/New_York/" target="_blank">Real Estate for Sale</a></li>' ); 
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="http://www.villagevoice.com/feedback/EmailAnEmployee?department=classified" target="_self">Place an Ad (print)</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                    </ul>
-    </div>
-    <!-- end navMain -->
+        <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'PT+Sans+Narrow:700:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
 
-    <!-- start bottomNav -->
-    <div id="navBottom">
-        <ul class="nav">
-                            <li id="nav-blogs" class="bottomMenu menuLi">
-                <a href="http://blogs.villagevoice.com/" class="bottom" target="_self">Blogs</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-blogs">
-                            <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#bottom-sub-nav-blogs").append( '<li><a href="http://blogs.villagevoice.com/runninscared/" target="_self">Runnin&#039; Scared</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-blogs").append( '<li><a href="http://blogs.villagevoice.com/music/" target="_self">Sound of the City</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-blogs").append( '<li><a href="http://blogs.villagevoice.com/dailymusto/" target="_self">La Daily Musto</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-blogs").append( '<li><a href="http://blogs.villagevoice.com/forkintheroad/" target="_self">Fork in the Road (blog)</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-blogs").append( '<li><a href="http://blogs.villagevoice.com/streetculture/" target="_self">All City</a></li>' ); 
-                                                                            });
-                                </script>
-                        </ul>
-                                    </li>
-                            <li id="nav-columns" class="bottomMenu menuLi">
-                <a href="/columns/" class="bottom" target="_self">Columns</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-columns">
-                            <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#bottom-sub-nav-columns").append( '<li><a href="/columns/la-dolce-musto-302317/" target="_self">La Dolce Musto</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-columns").append( '<li><a href="/authors/tom-robbins" target="_self">Tom Robbins</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-columns").append( '<li><a href="/sex" target="_self">Sex</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-columns").append( '<li><a href="/columns/horoscope-155223/" target="_self">Horoscope</a></li>' ); 
-                                                                            });
-                                </script>
-                        </ul>
-                                    </li>
-                            <li id="nav-best_of" class="bottomMenu menuLi">
-                <a href="/bestOf/" class="bottom" target="_self">Best Of</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-best_of">
-                            <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof" target="_self">Best Of Home</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-best_of").append( '<li><a href="http://polls.villagevoice.com/polls/nyv/bestof2011/" target="_self">Readers Poll 2011</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/arts-and-entertainment-491640/" target="_self">Arts &amp; Entertainment</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/bars-and-clubs-491611/" target="_self">Bars &amp; Clubs</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/food-and-drink-491645/" target="_self">Food &amp; Drink</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/people-and-places-491621/" target="_self">People &amp; Places</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/shopping-and-services-491618/" target="_self">Shopping &amp; Services</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/sports-and-recreation-491639/" target="_self">Sports &amp; Recreation</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-best_of").append( '<li><a href="/adIndex/subcategory/best-of-new-york-596" target="_self">Best of Ads</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-best_of").append( '<li><a href="/promotions/mobileApps/" target="_self">Download the App</a></li>' ); 
-                                                                            });
-                                </script>
-                        </ul>
-                                    </li>
-                            <li id="nav-barsclubs" class="bottomMenu menuLi">
-                <a href="/directory/clubs/" class="bottom" target="_self">Bars/Clubs</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-barsclubs">
-                            <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#bottom-sub-nav-barsclubs").append( '<li><a href="/directory/clubs/" target="_self">Bars/Clubs Home</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-barsclubs").append( '<li><a href="http://www.villagevoice.com/clubchaser/" target="_self">Clubchaser</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-barsclubs").append( '<li><a href="/directory/gay-bars-clubs" target="_self">Gay Bars &amp; Clubs</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-barsclubs").append( '<li><a href="/adIndex/subcategory/bars-clubs-and-liquor-419" target="_self">Bars/Club Ads</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-barsclubs").append( '<li><a href="/microsites/happy-hours" target="_self">Happy Hours App</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-barsclubs").append( '<li><a href="http://coupons.villagevoice.com/new-york/deals/entertainment/clubs/" target="_self">Bars / Clubs Coupons</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-barsclubs").append( '<li><a href="http://happyhours.villagevoice.com/nyc/find/places/All-Editor+Picks-in-New+York" target="_self">Happy Hours</a></li>' ); 
-                                                                            });
-                                </script>
-                        </ul>
-                                    </li>
-                            <li id="nav-archives" class="bottomMenu menuLi">
-                <a href="/search/archive_search/" class="bottom" target="_self">Archives</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-archives">
-                            <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#bottom-sub-nav-archives").append( '<li><a href="/search/archive_search" target="_self">Advanced Archive Search</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-archives").append( '<li><a href="/locations/map" target="_self">Locations Map</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-archives").append( '<li><a href="/events/search" target="_self">Event Search</a></li>' ); 
-                                                                            });
-                                </script>
-                        </ul>
-                                    </li>
-                            <li id="nav-mobile" class="bottomMenu menuLi">
-                <a href="/promotions/mobileApps/" class="bottom" target="_self">Mobile</a>                                    </li>
-                            <li id="nav-promotions" class="bottomMenu menuLi">
-                <a href="/promotions/" class="bottom" target="_self">Promotions</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-promotions">
-                            <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="/promotions/streetteams" target="_self">Street Team</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="/feedback/EmailAnEmployee/?department=streetteam" target="_self">Join The Street Team</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="/promotions/freestuff/" target="_self">Contests &amp; Promotions</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="/readers/register" target="_self">Text Alerts</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="http://www.cafepress.com/thevillagevoice" target="_self">Buy Village Voice Merchandise</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="http://www.villagevoice.com/promotions/miami-spice-1927701/" target="_self">Miami Spice</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="/microsites/supplementsArchive" target="_self">Supplements Archive</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="http://www.villagevoice.com/microsites/happy-hours/" target="_self">Happy Hours App</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="/promotions/mobileApps/" target="_self">Mobile</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="http://www.villagevoice.com/microsites/village-voice-iphone-app" target="_self">Village Voice iPhone App</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="http://halloween.villagevoice.com/" target="_self">Voice Halloween Parade</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="/webawards/" target="_self">Web Awards 2011</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="http://deals.voiceplaces.com/new-york" target="_self">VOICE Daily Deals</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="http://polls.villagevoice.com/polls/nyv/tweetup-rsvp/" target="_self">Tweet Up RSVP</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="/samples/readers/" target="_self">Newsletter Samples</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="/follow/" target="_self">Follow Us</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-promotions").append( '<li><a href="http://urmomcalled.com/" target="_self">URmomcalled</a></li>' ); 
-                                                                            });
-                                </script>
-                        </ul>
-                                    </li>
-                            <li id="nav-coupons" class="bottomMenu menuLi">
-                <a href="http://coupons.villagevoice.com/new-york/deals/" class="bottom" target="_self">Coupons</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-coupons">
-                            <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.villagevoice.com/new-york/deals/" target="_self">Coupons/Deals Home</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.villagevoice.com/new-york/deals/entertainment/clubs/" target="_self">Bars/Clubs Coupons</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.villagevoice.com/new-york/deals/entertainment/" target="_self">Entertainment Coupons</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.villagevoice.com/new-york/deals/health-beauty/" target="_self">Health &amp; Beauty Coupons</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.villagevoice.com/new-york/deals/restaurants/" target="_self">Restaurants Coupons</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.villagevoice.com/new-york/deals/retail/" target="_self">Retail Coupons</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.villagevoice.com/new-york/deals/services/" target="_self">Services Coupons</a></li>' ); 
-                                                                                    $("#bottom-sub-nav-coupons").append( '<li><a href="http://deals.voiceplaces.com/new-york" target="_self">VOICE Daily Deals</a></li>' ); 
-                                                                            });
-                                </script>
-                        </ul>
-                                    </li>
-                    </ul>
+</script>
+
+
+ <div class="newNavBar" id="newNavBar">
+
+  <div class="newNav">
+    <form action="http://www.villagevoice.com/search/index/" id="navSearch" onsubmit="resetUrlContext();navSearchSubmit(event);" method="get" accept-charset="utf-8">    <input name="keyword" type="text" autocomplete="off" class="text" id="searchInput" value="Search">    <input type="submit" value="" class="submit">        <div class="filterSearch">
+        <input type="hidden" id="filterSearchVal" name="type" value="all">
+            <ul>
+                <li id="search-all" class="active">Entire Site</li>
+                <li id="search-articles">Articles &amp; Blogs</li>
+                <li id="search-restaurants">Restaurants</li>
+                <li id="search-locations">Places</li>
+                <li id="search-events">Events</li>
+                <li id="search-music">Music</li>
+                <li id="search-images">Images</li>
+                <li id="search-ads" class="moreSearch">Ads</li>
+                <li id="search-bars" class="moreSearch">Bars</li>
+                <li id="search-bestof" class="moreSearch">Best Of</li>
+                <li id="search-movies" class="moreSearch">Movies</li>
+            </ul>
+        </div>
+   </form><a id="tn1" href="/news/" tabindex="1" data-id="news" alt=""><img src="/img/newNav-news.png" alt="NEWS"></a><a id="tn2" href="/calendar/" tabindex="2" data-id="calendar" alt=""><img src="/img/newNav-calendar.png" alt="CALENDAR"></a><a id="tn3" href="/music/" tabindex="3" data-id="music" alt=""><img src="/img/newNav-music.png" alt="MUSIC"></a><a id="tn4" href="/restaurants/" tabindex="4" data-id="restaurants" alt=""><img src="/img/newNav-restaurants.png" alt="RESTAURANTS"></a><a id="tn5" href="/arts/" tabindex="5" data-id="arts" alt=""><img src="/img/newNav-arts.png" alt="ARTS"></a><a id="tn6" href="/movies/" tabindex="6" data-id="film" alt=""><img src="/img/newNav-film.png" alt="FILM"></a><a id="tn7" href="/bestof/" tabindex="7" data-id="bestof" alt=""><img src="/img/newNav-bestof.png" alt="BEST OF"></a><a id="tn8" href="/promotions/" tabindex="8" data-id="promotions" alt=""><img src="/img/newNav-promotions.png" alt="PROMOTIONS"></a><a id="tn9" href="/classifieds/" tabindex="9" data-id="classifieds" alt=""><img src="/img/newNav-classifieds.png" alt="CLASSIFIEDS"></a>  </div>
+
+ <div class="newSubNav" id="nsnews">
+<a href="/news/" target="_self">News Home</a><a href="http://blogs.villagevoice.com/runninscared/" target="_self">News Blog</a><a href="http://www.villagevoice.com/columns/la-dolce-musto-302317/" target="_self">Michael Musto</a><a href="http://www.villagevoice.com/authors/nat-hentoff/" target="_self">Nat Hentoff</a><a href="http://www.villagevoice.com/columns/ask-a-mexican-302459/" target="_self">Ask a Mexican</a><a href="/advice/savage-love-411/" target="_self">Dan Savage</a><a href="/search/archive_search/" target="_self">Archives Search</a><a href="/samples/readers/?source_id=8|50|344" target="_self">Weekly Newsletter</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
     </div>
-    <!-- end navSub -->
-</div>
-<!-- end nav -->
-<div class="ClearIt"></div>
-<!-- !p/af/v/navigation/index -->
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nscalendar">
+<a href="/calendar/" target="_self">Calendar Home</a><a href="/events/search/" target="_self">Top Picks</a><a href="/feedback/SubmitAnEvent/" target="_self">Submit an Event</a><a href="/samples/readers/?source_id=8|50|345" target="_self">Events Newsletter</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><a href="/adIndex/category/entertainment-77/" target="_self">Entertainment Ads</a><a href="/authors/rob-brezsny/" target="_self">Free Will Astrology</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nsmusic">
+<a href="/music/" target="_self">Music Home</a><a href="http://blogs.villagevoice.com/music/" target="_self">Music Blog</a><a href="/concerts/" target="_self">Concert Calendar</a><a href="/directory/clubs/" target="_self">Bars and Clubs</a><a href="/feedback/SubmitAnEvent/" target="_self">Submit an Event</a><a href="/samples/readers/?source_id=8|50|346" target="_self">Music Newsletter</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><a href="http://microapp.villagevoice.com/4knots/" target="">4Knots</a><a href="/pazznjop/" target="_self">Pazz &amp; Jop</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nsrestaurants">
+<a href="/restaurants/" target="_self">Restaurants Home</a><a href="http://blogs.villagevoice.com/forkintheroad/" target="_self">Food Blog</a><a href="/restaurants/search/" target="_self">Find a Restaurant</a><a href="http://www.voiceplaces.com/restaurants/menus/market:new-york/" target="_self">Menus</a><a href="http://happyhours.villagevoice.com/nyc/find/places" target="_self">Happy Hours</a><a href="http://coupons.villagevoice.com/categories/25-restaurants/offers" target="_self">Deals</a><a href="http://choiceeats.villagevoice.com/" target="_self">Choice Eats</a><a href="/samples/readers/?source_id=8|50|347" target="_self">Dining Newsletter</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><a href="/adIndex/subcategory/restaurant-ads-416/" target="_self">Restaurant Ads</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nsarts">
+<a href="/arts/" target="_self">Arts Home</a><a href="/theater/" target="_self">Theater</a><a href="/samples/readers/?source_id=8|50|348" target="_self">Arts Newsletter</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><a href="/adIndex/category/entertainment-77/" target="_self">Entertainment Ads</a><a href="http://obies.villagevoice.com/2012/" target="">Obie Awards</a><a href="/books/" target="">Books</a><a href="/dance/" target="">Dance</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nsfilm">
+<a href="/movies/" target="_self">Film Home</a><a href="/movies/theaters/" target="_self">Showtimes</a><a href="/filmpoll/" target="_self">Film Poll 2011</a><a href="http://blogs.villagevoice.com/runninscared/sundance/" target="_self">Film Festivals</a><a href="/samples/readers/?source_id=8|50|349" target="_self">Film Newsletter</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><a href="/promotions/freestuff/" target="_self">Free Stuff</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nsbestof">
+<a href="/bestof/" target="_self">Best Of Home</a><a href="/bestOf/index/2011/" target="_self">2011</a><a href="/bestOf/index/2010/" target="_self">2010</a><a href="/bestOf/index/2009/" target="_self">2009</a><a href="/bestOf/index/2008/" target="_self">2008</a><a href="/samples/readers/?source_id=8|50|350" target="_self">Best Of Newsletter</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><a href="/adIndex/subcategory/best-of-new-york-596/" target="_self">Best Of Ads</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nspromotions">
+<a href="/promotions/" target="_self">Promotions Home</a><a href="/promotions/events" target="_self">Promotional Events</a><a href="/promotions/streetteams/" target="_self">Street Team</a><a href="/promotions/freestuff/" target="_self">Free Stuff</a><a href="/samples/readers/?source_id=8|50|351" target="_self">Promotions Newsletter</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><a href="http://coupons.villagevoice.com/" target="_self">Deals</a><a href="http://microapp.villagevoice.com/webawards/2011/" target="">Web Awards</a><a href="http://microapp.villagevoice.com/brooklyn-pour/" target="">Brooklyn Pour</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ <div class="newSubNav" id="nsclassifieds">
+<a href="http://www.villagevoice.com/feedback/EmailAnEmployee?department=classified" target="_blank">Post an Ad</a><a href="http://www.villagevoice.com/microsites/career-fair/" target="_self">Virtual Career Fair</a><a href="http://villagevoice.backpage.com/realestate/" target="_self">Real Estate</a><a href="/adIndex/" target="_self">Advertiser Index</a><a href="http://coupons.villagevoice.com/" target="_self">Deals</a><a href="/samples/readers/?source_id=8|50|352" target="">Deals Newsletter</a><a href="/afterdark/" target="">After Dark</a><a href="http://adult.villagevoice.com" target="">Little Sexy Black Book</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ </div>
+
+<script type="text/javascript">
+ //<![CDATA[
+   var navLoaded = [];
+   var navLoading = [];
+//   $(document).ready(function(){
+       $('.newNav a').mouseover(function() {
+           var navid = $(this).attr('data-id');
+           if(navid)
+           {
+               $(".newSubNav").hide();
+               $('.newNav a').removeClass("opened");
+               $('#ns' + navid).css('display', 'block');
+               $(this).addClass("opened");
+               if (navLoaded[navid] == undefined) {
+                   navLoaded[navid] = false;
+               }
+               if (navLoading[navid] == undefined) {
+                   navLoading[navid] = false;
+               }
+               if (!navLoaded[navid] && !navLoading[navid]) {
+                   navLoading[navid] = true;
+                   $.ajax({
+                       url:'/navigation/subNavAjax/section:'+navid+'/',
+                       success: function(data){
+                           navLoading[navid] = false;
+                           navLoaded[navid] = true;
+                           $('#ns'+navid+' .subContent').html(data);
+
+                           $('a','#ns'+navid+' .subContent').each(function(){
+                               if(/=/.test(this.href)){
+                                 this.href += '&ref=navigation';
+                               } else {
+                                 this.href += '?ref=navigation';
+                               }
+                           })
+
+
+                       },
+                       error: function(){
+                           navLoading[navid] = false;
+                           $('#ns'+navid+' .subContent').html('Problem loading data, please try again.');
+                       }
+                   });
+               }
+           }
+      });
+
+      $('div.newNavBar').mouseleave(function() {
+          $(".newSubNav").hide();
+          $('.newNav a').removeClass("opened");
+      });
+
+
+   $('a','#newNavBar').each(function(){
+       if(/=/.test(this.href)){
+         this.href += '&ref=navigation';
+       } else {
+         this.href += '?ref=navigation';
+       }
+   })
+
+//   });
+ //]]>
+</script>
+
+<script type="text/javascript">
+//ipad, ipod, and iphone fix because hover don't exist in a touchscreen world
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i))) {
+ var menuItems=10;
+ for(fixId=1;fixId<=menuItems;fixId++){
+    document.getElementById("tn"+fixId).href="#";
+ }
+}
+</script>
+
+ <!-- end newNavBar -->
     </div>
 
     <!-- NOGSA -->
 <div class="Ads" id="Middle3">
-    <script language="JavaScript">
+    <script type="text/javascript">
         <!--
         OAS_AD('Middle3');
         //-->
@@ -353,15 +341,16 @@
 </div>
 <!-- /NOGSA -->
     <div class="Content">
+        <div class="innerBody">
          <div class="backbox about "><div class="widget trackme" name="PrivacyPolicy"><div class="content_area chisel_u">
 <h2>Privacy Policy</h2>
 <div class="PrivacyPolicy">
     <h3>Village Voice, LLC</h3>
-    <p>This Privacy Policy is effective as of June 28, 2010.</p>
+    <p>This Privacy Policy is effective as of February 15, 2012.</p>
 
-	<p>This Privacy Policy describes the practices that Village Voice, LLC ("Village Voice") follows with respect to the collection, maintenance and use of information submitted on villagevoice.com (the "Site").  This Privacy Policy applies only to information we collect from this Site, and does not apply to any other website or business activity of Village Voice.  By using our Site, and/or providing information to us, you consent to the collection, maintenance and use of this information by us. </p> 
+	<p>This Privacy Policy describes the practices that Village Voice, LLC ("Village Voice") follows with respect to the collection, maintenance and use of information submitted on villagevoice.com (the "Site").  This Privacy Policy applies only to information we collect from this Site, and does not apply to any other website or business activity of Village Voice.  By using our Site, and/or providing information to us, you consent to the collection, maintenance and use of this information by us.</p>   
 
-	<p>If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time. Your continued use of the Site following the posting of changes to these terms means that you accept those changes.  We will give you notice of the revised Privacy Policy by posting the revised policy on the Site and by revising the "effective date" set forth above.</p>
+<p>If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time. Your continued use of the Site following the posting of changes to these terms means that you accept those changes.  We will give you notice of the revised Privacy Policy by posting the revised policy on the Site and by revising the "effective date"  set forth above.</p>
 
  
     
@@ -370,90 +359,98 @@
 	<p>We collect and maintain personally identifiable information and automatic information.</p>
 
     
-    <h4>Personally Identifiable Information</h4>
-   <p>"Personally identifiable information" is information that tells us who you are, such as your name, screen name, email address, postal address, phone number, credit card information, birth date/year and gender. </p>
+    <h3>Personally Identifiable Information</h3>
+   <p>"Personally identifiable information" is information that tells us who you are, such as your name, screen name, email address, postal address, phone number, credit card information, birth date/year and gender.</p>
+ 
+<p>Village Voice collects and maintains personally identifiable information about you only when you provide it to us. For example, we may collect and maintain personally identifiable information about you when you register for or participate in contests, sweepstakes, promotions, polls, surveys, newsletters and text messages (including contests, sweepstakes, promotions, polls, surveys, newsletters and text messages of certain third parties).  We may also collect and maintain personally identifiable information when you post an ad, submit comments to the Site or letters to the editor, submit events for inclusion on our Site, purchase event tickets from us, or otherwise provide it to us when you contact us.</p>
 
-	<p>Village Voice collects and maintains personally identifiable information about you only when you provide it to us. For example, we may collect and maintain personally identifiable information about you when you register for or participate in contests, sweepstakes, promotions, polls, surveys, newsletters and text messages (including contests, sweepstakes, promotions, polls, surveys, newsletters and text messages of certain third parties).  We may also collect and maintain personally identifiable information when you post an ad, submit comments to the Site or letters to the editor, submit events for inclusion on our Site, purchase event tickets from us, or otherwise provide it to us when you contact us.</p>
-
-	<p>If you do not provide information to us, you may be unable to use certain features of the Site.  For example, you cannot post comments in connection with certain articles or register for the Site, contests, surveys or newsletters unless you provide certain information.  Also, you will not be able to submit events for inclusion on our Site or purchase event tickets if you do not provide certain information.</p>
+<p>If you do not provide information to us, you may be unable to use certain features of the Site.  For example, you cannot post comments in connection with certain articles or register for the Site, contests, surveys or newsletters unless you provide certain information.  Also, you will not be able to submit events for inclusion on our Site or purchase event tickets if you do not provide certain information.</p>
 
 
 
     <h3>Automatic Information and Cookies</h3>
-    <p>"Automatic information" is information automatically collected by our web server (which may be hosted by a third party) that your web browser makes available whenever you visit our Site, such as your browser type and capabilities, network properties, the site that you visited before viewing our Site, content viewed on the Site, and your geographic location.  We maintain such data in aggregated form; it is not associated with your IP address or personally identifiable information.</p>  
+    <p>"Automatic information" is information automatically collected whenever you visit our site.  For example, automatic information includes information collected by our web server (which may be hosted by a third party) that your web browser makes available whenever you visit our Site, such as your browser type and capabilities, network properties, the site that you visited before viewing our Site, content viewed on the Site, and your geographic location.  We currently use, or may use, such information in various ways:</p>  
 
-	<p>IP address tracking: All computers and servers on the Internet use IP addresses to recognize and communicate with each other. We collect and maintain IP addresses to administer and analyze our Site and report aggregate information (such as how many visitors we have and how many visitors see and click on particular advertisements).</p>  
+<p>Aggregated data: We maintain automatic information in aggregated form, not associated with your IP address or personally identifiable information. </p>
+
+	<p>IP address tracking: All computers and servers on the Internet use IP addresses to recognize and communicate with each other. We collect and maintain IP addresses to administer and analyze our Site and report aggregate information (such as how many visitors we have and how many visitors see and click on particular advertisements). </p>  
 
 	<p>We may associate your IP address with your personally identifiable information and may maintain, use and disclose such information in accordance with the terms of this Privacy Policy below.</p> 
 
-	<p>Cookies: This Site also uses "cookies."  "Cookies" are small text files that allow websites to store and retrieve information about you from your computer system. Village Voice does serve cookies to track individual site usage for later aggregation, but does not use cookies in order to retrieve any information from your computer other than information originally sent in a Village Voice cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their website or other websites. You are always free to decline our cookies if your browser permits, but you may not be able to take full advantage of our Site's features if you do.</p>  
+	<p>Cookies: This Site uses "cookies." "Cookies" are small text files that allow websites to store and retrieve information about you from your computer system. Village Voice does serve cookies to track individual site usage for later aggregation and for other purposes explained in this policy.  You are always free to decline our cookies if your browser permits, but you may not be able to take full advantage of our Site's features if you do. </p>
+ 
+<p>We do not and cannot use cookies or IP address tracking to retrieve personally identifiable information from your computer.</p>
 
-	<p>We do not and cannot use cookies or IP address tracking to retrieve personally identifiable information from your computer.</p> 
+<p>Online Behavioral Advertising. Village Voice may tailor advertisements on the Site to a user's apparent interests, based on user browsing activity.  That is, ads may be displayed for you on the Site based on the pages and content that you view.  This is sometimes known as first-party online behavioral advertising.  Also, your viewing activity on the Site may be shared with advertising networks, so that they can display ads for you, which they believe will interest you, on other sites, not affiliated with Village Voice.  This is sometimes known as third-party online behavioral advertising.  Village Voice attempts to deal with advertising networks that are members of the Network Advertising Initiative or the Digital Advertising Alliance, but at times ad networks that are not NAI or DAA participants may have access to your activity on the Site, and hence may use that information in connection with displaying ads to you on other sites. </p>
 
+<p>Advertising networks that are members of Network Advertising Initiative or that participate in the Digital Advertising Alliance have subscribed to certain principles relating to collection and use of information, and may permit users to direct whether or how information about their viewing activities are used for advertising purposes.  To register your preferences or choices, or to opt out of behavioral advertising offered by participants in these programs, visit http://www.networkadvertising.org or http://www.aboutads.info.</p>
+
+<p>If you change browsers or computers, or delete the cookies on your computer, you may need to re-enter your preferences or opt-out.</p>
+
+<p>Web Beacons:  The Site uses web beacons, which provide website operators and third parties a means to deliver a graphic image on a web page or in an email message for the purpose of gathering data.  The Site uses web beacons to gather automatic information such as the duration of a visit to the Site, the web pages viewed, a user's geographical information (e.g., city, state, zip code), IP address, and type of web browser.</p>
 
 	<h3>Use and Disclosure of Information</h3> 
 
-	<p>We maintain and use personally identifiable information for the purpose or purposes for which it is provided.  For example, we may maintain and use personally identifiable information to send newsletters and text messages that you have opted to receive; to establish your online account and recognize you when you return to the Site; to contact you regarding contests, promotions, polls, and surveys; to complete the sale of event tickets; to provide customer support; or to otherwise communicate with you regarding our Site, an ad you posted, an event you submitted to the Site, or your comments or letters to the editor.</p>  
+	<p>We maintain and use personally identifiable information for the purpose or purposes for which it is provided and for purposes specified in this Privacy Policy.  For example, we may maintain and use personally identifiable information to send newsletters and text messages that you have opted to receive; to establish your online account and recognize you when you return to the Site; to contact you regarding contests, promotions, polls, and surveys; to complete the sale of event tickets; to provide customer support; or to otherwise communicate with you regarding our Site, an ad you posted, an event you submitted to the Site, or your comments or letters to the editor. </p>  
 
 	<p>We may also maintain and use your personally identifiable information to attribute your comments, letters to the editor and/or other submissions to the Site to you.  As has traditionally been the case with our print editions, we may require that you supply certain information to us (such as your real name, daytime telephone number and/or e-mail address) in connection with comments and other submissions to the Site.  That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us comments or other submissions, we reserve the right to publish them in print or display them on this Site in full or in edited form. We normally honor requests to withhold your name and address when provided in connection with comments and other submissions, both in print and on-line, but we reserve the right to use, discuss and report facts that we consider newsworthy relating to submissions even if it might reveal or tend to reveal the poster's identity.</p>
 
-	<p>From time to time, we may send you information with announcements and updates about the Site and Village Voice and our partners. </p> 
+	<p>We may combine personally identifiable information and automatic information we obtain from you or your activities with other data concerning or relating to the behavioral and demographic attributes of our customers, in order to identify our best customers, reach them effectively, understand their interests and best manage our relationships with them.</p>
+ 
+<p>We may also use personally identifiable information to send you advertisements, promotions and information about the Site, Village Voice and our partners. </p> 
 
-	<p>We may disclose personally identifiable information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our Terms of Use or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our Site, or anyone else who could be harmed by such activities.  We may also disclose personally identifiable information when we reasonably believe that the law requires it.  </p>
+	<p>We may disclose personally identifiable information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our Terms of Use or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our Site, or anyone else who could be harmed by such activities.  We may also disclose personally identifiable information when we reasonably believe that the law requires it. </p>
 
-	<p>If you chose to provide your personally identifiable information for the purposes of a third-party contest, promotion, poll, survey or newsletter, your personally identifiable information will be given to Village Voice and to the third-party advertiser/sponsor involved with the relevant contest, promotion, poll, survey or newsletter and/or its agents and affiliates.  To the extent the contest, promotion, poll, survey or newsletter has its own terms that conflict with the terms of this Privacy Policy, the terms of the contest, promotion, poll, survey, or newsletter govern. </p>
+	<p>If you chose to provide your personally identifiable information for the purposes of a third-party contest, promotion, poll, survey or newsletter, your personally identifiable information will be given to Village Voice and to the third-party advertiser/sponsor involved with the relevant contest, promotion, poll, survey or newsletter and/or its agents and affiliates.  For rules or requirements for contests, promotions, polls, surveys and/or newsletters, please see the applicable page on our Site. </p>
 
-	<p>We occasionally have third party agents, subsidiaries, affiliates and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. They are provided access to personal information needed to perform their functions. </p>
+	<p>We occasionally have third party agents, subsidiaries, affiliates and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, data combination, etc. They are provided access to personally identifiable information needed to perform their functions.</p>
+	
+	<p>In the event of a sale of Village Voice or a sale of substantially all Village Voice assets, personally identifiable information may be one of the business assets transferred or sold.</p>
 
-	<p>In the event of a sale of Village Voice or a sale of substantially all Village Voice' assets, personally identifiable information may be one of the business assets transferred or sold. </p>
+	<p>We may maintain and use automatic information to track how our visitors use the Site, study traffic patterns, and run and maintain the site, and we and other third parties may provide targeted advertisements to you based on such data. </p>
 
-	<p>We may maintain and use automatic information to track how our visitors use the Site, study traffic patterns, and run and maintain the site, and may provide targeted advertisements to you based on such data.  </p>
-
-	<p>Although we do not currently engage in such practices, Village Voice may in the future disclose automatic information to advertising networks that may use such information in connection with erecting and displaying targeted advertisements both on our website and on unaffiliated websites.</p>
-
-	<p>We may share aggregated data with our advertisers.</p>
+	<p>We may share aggregated data with our advertisers and other marketing and business partners.</p>
 
 	<p>This Privacy Policy does not apply to any information you choose to make public. </p>
 
 	<h3>Opt-Out</h3>
 
-	<p>You may terminate any ongoing communications you receive from Village Voice via e-mail (such as newsletters, subscriptions, contest results, survey inquiries, etc.) by (1) clicking the "unsubscribe" link that is available within the communication received, or (2) through your online profile.</p>  
+	<p>You may terminate any ongoing communications you receive from Village Voice via e-mail (such as newsletters, subscriptions, contest results, survey inquiries, etc.) by (1) clicking the "unsubscribe" link that is available within the communication received, or (2) through your online profile. </p>  
 
 
 
     <h3>Children</h3>
-    <p>Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use of the Site.  Children under the age of 13 should not use this Site. We do not intentionally collect personally identifiable information from users of the Site who are under the age of thirteen.</p>  
+    <p>Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use of the Site.  Children under the age of 13 should not use this Site. We do not intentionally collect personally identifiable information from users of the Site who are under the age of thirteen. </p>  
     
 
     <h3>Links to Other Sites</h3>
-    <p>This Site provides links to websites maintained by other organizations. Village Voice provides these links as a convenience to users, but it does not operate, control or endorse such sites. Village Voice also disclaims any responsibility for the information on those sites and any products or services offered on such sites.  Please review the privacy policies of these sites.  Village Voice is not responsible for any actions or policies of such third parties, and does not make any warranties or representations that any linked sites (or even this Site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer. Village Voice disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions.  </p>
+    <p>This Site provides links to websites maintained by other organizations. Village Voice provides these links as a convenience to users, but it does not operate, control or endorse such sites. Village Voice also disclaims any responsibility for the information on those sites and any products or services offered on such sites.  Please review the privacy policies of these sites.  Village Voice is not responsible for any actions or policies of such third parties, and does not make any warranties or representations that any linked sites (or even this Site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer. Village Voice disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. </p>
 
     <h3>E-Commerce and Our Secure Server</h3>
-    <p>We use reasonable efforts to protect your personally identifiable information from unauthorized use or disclosure. Unfortunately, information transmitted on the Internet and/or stored on systems attached to the Internet are not 100% secure.  As a result, we do not ensure, warrant or guarantee the security or integrity of such information.  We will not be responsible for disclosure of any information due to errors in transmission or the unauthorized acts of third parties. </p>
+    <p>We use reasonable efforts to protect your personally identifiable information from unauthorized use or disclosure. Unfortunately, information transmitted on the Internet and/or stored on systems attached to the Internet are not 100% secure.  As a result, we do not ensure, warrant or guarantee the security or integrity of such information.  We will not be responsible for disclosure of any information due to errors in transmission or the unauthorized acts of third parties.</p>
 
 
     <h3>Updates and Changes to Your Information.</h3>
     
-    
-	<p>If your personally identifiable information changes, you may correct and/or update it by sending us an email at <a href="mailto:community@villagevoice.com">community@villagevoice.com</a>.  You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site.  </p>
+    <p>If your personally identifiable information changes, you may correct and/or update it by sending us an email at <a href="mailto:community@villagevoice.com">community@villagevoice.com</a>.  You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. </p>
 
 
     <h3>More Questions? </h3>
 
-	<p>If you have any questions about this privacy policy, please e-mail them to <a href="mailto:privacyadministrator@villagevoicemedia.com">privacyadministrator@villagevoicemedia.com</a>, and be sure to indicate the specific site you are visiting and the nature of your question or concern.</p> 
+<p>If you have any questions about this privacy policy, please e-mail them to <a href="mailto:privacyadministrator@villagevoicemedia.com">privacyadministrator@villagevoicemedia.com</a>, and be sure to indicate the specific site you are visiting and the nature of your question or concern.</p> 
 
 
 </div>
 </div></div><div class="right_content basic "><div class="widget trackme" name="DailyDeals"><div class="chisel_u r_ad_box">
     <div class="VoiceDealOfTheDayImage">
         <a href="http://www.voicedailydeals.com/new-york/?utm_source=villagevoice&amp;utm_medium=vdd-widget-nyv&amp;utm_campaign=vddw-nyv-home" target="_blank">
-            <img src="http://media.villagevoice.com/7484959.0.jpg" alt="VOICE Daily Deals">
+            <img src="http://media.villagevoice.com/7963878.0.jpg" alt="VOICE Daily Deals">
         </a>
     </div>
 </div></div><div class="ClearIt "></div>
 <div class="chisel_u r_ad_box "><!-- NOGSA -->
 <div class="Ads" id="Middle">
-    <script language="JavaScript">
+    <script type="text/javascript">
         <!--
         OAS_AD('Middle');
         //-->
@@ -463,17 +460,18 @@
 <div class="widget trackme" name="VillageRailWidget"><div class="chisel_u r_box villagerail">
     <div class="chisel_d white">
               <h6>for free stuff, concert and dining info &amp; more!</h6>
-        <form action="/village/register/" method="post">
-            <input class="text chisel_d" type="text" name="email" value="enter email" id="villagerailemail">
+        <form action="/village/register/" method="post" onclick="return false;">
+            <input class="text chisel_d" type="text" name="email" value="enter email" id="email">
             <input type="hidden" name="sourceId" value="8|23|36">
             <div id="more">
                 <div id="recaptcha_rail_placeholder"></div>
                 <a href="/about/privacyPolicy" class="privacy">Privacy policy</a>
-                <input class="submit" type="submit" value="Go">
+                <input class="submit" type="submit" value="Go" onclick="javascript:villageRailWidget.authUser(this);return false;">
             </div>
         </form>
     </div>
-</div></div><div class="widget trackme" name="MostPopularWidget"><!-- NOGSA -->
+</div>
+<script type="text/javascript">villageRailWidget.init();</script></div><div class="widget trackme" name="MostPopularWidget"><!-- NOGSA -->
   <div class="chisel_u r_box mostpop">
    <div class="gray">
     <div id="mostPopular" class="mostPopular">
@@ -492,17 +490,17 @@ tabs.addTab('eMailed','mostEmailed',0);
                                                                  <li class="story">
                 <div class="popRating">
                 <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>                </div>
-                <a href="/2011-11-16/film/breaking-dawn-part-1/" class="headline">Blood is Thicker Than Blood</a>                <div class="subHeadline">Bella and Edward lock it down in <i>Breaking Dawn–Part 1</i></div>
+                <a href="/2012-05-30/film/snow-white-and-the-huntsman-film-review/" class="headline">Snow White and the Huntsman</a>                <div class="subHeadline"></div>
                 </li>
                                                                 <li class="story">
                 <div class="popRating">
-                <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>                </div>
-                <a href="/2011-11-09/news/debt-and-debtor/" class="headline">NYU Students: Debt and Debtor</a>                <div class="subHeadline">NYU is number one in student debt. But is it really worth it?</div>
+                <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>                </div>
+                <a href="/2012-06-06/film/prometheus-ridley-scott/" class="headline"><i>Prometheus</i>: The Tree of Death</a>                <div class="subHeadline">The thriller boasts impressive horror, but its ideas? Not so much.</div>
                 </li>
                                                                 <li class="story last">
                 <div class="popRating">
-                <span></span><span></span><span></span><span></span><span></span><span></span><span></span>                </div>
-                <a href="/2011-11-23/news/how-to-be-a-new-yorker/" class="headline"><p>How to Be a New Yorker</p></a>                <div class="subHeadline"><p>Terribly useful rules for life</p></div>
+                <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>                </div>
+                <a href="/2012-05-30/columns/why-i-hate-sex-Michael-Musto/" class="headline">Why I Hate Sex! 32 Fucktastic Reasons!</a>                <div class="subHeadline">Stay celibate</div>
                 </li>
                                     <li class="more"><a href="/mostPopular/">More Most Popular&gt;&gt;</a></li>
             </ul>
@@ -510,16 +508,12 @@ tabs.addTab('eMailed','mostEmailed',0);
                         <div id="mostCommented" style="display: none;">
         <ul>
                                                                  <li class="story">
-                <a href="/2011-11-30/news/america-s-top-heathen-dan-halloran-city-council/" class="headline">America’s Top Heathen</a> <span class="count">(123)</span>
-                <div class="subHeadline">Odin himself might have had a hard time predicting Dan Halloran’s strange career on New York’s City Council</div>
-                </li>
-                                                                <li class="story">
-                <a href="/2011-11-09/news/debt-and-debtor/" class="headline">NYU Students: Debt and Debtor</a> <span class="count">(90)</span>
-                <div class="subHeadline">NYU is number one in student debt. But is it really worth it?</div>
+                <a href="/2012-06-06/news/crossing-the-line-immigration/" class="headline">Crossing the Line</a> <span class="count">(50)</span>
+                <div class="subHeadline">A Collection of Perspectives on American Freedoms Under Fire</div>
                 </li>
                                                                 <li class="story last">
-                <a href="/2011-11-16/film/breaking-dawn-part-1/" class="headline">Blood is Thicker Than Blood</a> <span class="count">(74)</span>
-                <div class="subHeadline">Bella and Edward lock it down in <i>Breaking Dawn–Part 1</i></div>
+                <a href="/2012-06-20/news/gay-inc-free-speech-rights/" class="headline">Does 'Gay Inc.' Believe in Free Speech?</a> <span class="count">(44)</span>
+                <div class="subHeadline"><p>In the battle over gay rights, dissent during wartime isn't always tolerated</p></div>
                 </li>
                                     <li class="more"><a href="/most/commented/1/">More Most Commented &gt;&gt;</a></li>
             </ul>
@@ -527,13 +521,13 @@ tabs.addTab('eMailed','mostEmailed',0);
                         <div id="mostEmailed" style="display: none;">
             <ul>
                                                                 <li class="story">
-                <a href="/2011-11-09/news/debt-and-debtor/" class="headline">NYU Students: Debt and Debtor</a>                <div class="subHeadline">NYU is number one in student debt. But is it really worth it?</div>
+                <a href="/2012-05-30/columns/why-i-hate-sex-Michael-Musto/" class="headline">Why I Hate Sex! 32 Fucktastic Reasons!</a>                <div class="subHeadline">Stay celibate</div>
                 </li>
                                                                 <li class="story">
-                <a href="/2011-11-23/news/how-to-be-a-new-yorker/" class="headline"><p>How to Be a New Yorker</p></a>                <div class="subHeadline"><p>Terribly useful rules for life</p></div>
+                <a href="/2012-05-30/news/education-gay-bullying-abuse/" class="headline">Schools Ignore Gay Bullying at Their Own Peril</a>                <div class="subHeadline">An Education in Abuse</div>
                 </li>
                                                                 <li class="story last">
-                <a href="/2011-11-16/news/ray-kelly-nypd-commissioner-secret-list-kellys-gulag/" class="headline">Ray Kelly's Gulag</a>                <div class="subHeadline">Get on the NYPD commissioner's secret list, and you're going nowhere</div>
+                <a href="/2012-06-20/news/gay-inc-free-speech-rights/" class="headline">Does 'Gay Inc.' Believe in Free Speech?</a>                <div class="subHeadline"><p>In the battle over gay rights, dissent during wartime isn't always tolerated</p></div>
                 </li>
                                     <li class="more"><a href="/most/emailed/1/">More Most Emailed &gt;&gt;</a></li>
             </ul>
@@ -545,19 +539,28 @@ tabs.addTab('eMailed','mostEmailed',0);
 
  </div>
 </div>
-<!-- /NOGSA --></div><div class="ClearIt "></div>
+<!-- /NOGSA -->
+
+<script>
+   $('a','#mostPopular').each(function(){
+       if(/=/.test(this.href)){
+         this.href += '&ref=mp';  
+       } else {
+         this.href += '?ref=mp';
+       }
+   })
+</script></div><div class="ClearIt "></div>
 <div class="widget trackme" name="FlatAds"><!-- p/af/v/ads/flat_ads -->
 <div class="chisel_u r_ad_box">
   <div class="FlatAds NYVButtons rail">
    <div style="float:left;text-align:center;width:160px;">
 
-<a href="http://www.urmomcalled.com/" target="_blank"><img src="http://media.villagevoice.com/7306398.0.jpg" border="0"></a>
+
 
 
 </div>
 
-<div style="float:right;width:160px;">
-
+<div style="float:right;width:160px;text-align:center;font-size:12px;">
 
 
 
@@ -569,7 +572,7 @@ tabs.addTab('eMailed','mostEmailed',0);
 <!-- !p/af/v/ads/flat_ads --></div><div class="ClearIt "></div>
 <div class="chisel_u r_ad_box r_noverflow "><!-- NOGSA -->
 <div class="Ads" id="Middle1">
-    <script language="JavaScript">
+    <script type="text/javascript">
         <!--
         OAS_AD('Middle1');
         //-->
@@ -584,83 +587,12 @@ tabs.addTab('eMailed','mostEmailed',0);
         <input type="hidden" name="limit" value="4">
     </form>
 </div>
-<!-- !p/af/v/ad_index/tower --></div><div class="widget trackme" name="CouponsWidget"><style>
-    html, body { margin: 0;}
-    .cZip { background: #fff url('/img/cZip.jpg') repeat-y; }
-    .cText { background: #fff url('/img/cText.jpg') repeat-y; }
-    #thumbnail_search { overflow: hidden; }
-    #thumbnail_search form { width: 100%; position: relative; }
-    #thumbnail_search button { padding: 2px 5px !important; }
-</style>
-
-
-<link href="http://coupons.villagevoice.com/stylesheets/villagevoice/thumbnail.css" media="all" rel="stylesheet" type="text/css"> 
-<div id="analog_analytics_content">
-  <div id="coupon_thumbnail">
-    <h2>Find A Coupon</h2>
-    <div id="thumbnail_search">
-<form action="http://coupons.villagevoice.com/new-york/deals/" method="get">          <select id="category_id" name="category_id"><option value="">Search by Category</option><option value="6">Entertainment</option>
-<option value="28">Restaurants</option>
-<option value="69">Recreation</option>
-<option value="76">Services</option>
-<option value="90">Health &amp; Beauty</option>
-<option value="93">Retail</option>
-<option value="195">Travel</option>
-<option value="586">Alternative Medicine</option></select>
-        <input class="ghostie cZip" id="postal_code" name="postal_code" title="Zip Code" type="text" value="" onfocus="this.className = 'ghostie'">
-        <input class="ghostie cText" id="text" name="text" title="Keywords" type="text" value="" onfocus="this.className = 'ghostie'">
-        <button type="submit">Search</button>
-</form>    </div>
-    <div id="thumbnail_offers">
-      <h3>Popular Coupons</h3>
-        <ul>
-            <li>
-              <div class="photo">
-                <img alt="Thumbnail" src="http://photos.offers.analoganalytics.com/production/16669/thumbnail.png">
-              </div>
-              <div class="content">
-                <h4><a href="http://coupons.villagevoice.com/new-york/deals/?offer_id=16669" class="proposition">20% OFF YOUR TREATMENT</a></h4>
-                <div class="advertiser">Skin Laser and Surgery Specialists</div>
-                <div class="address">
-                      115 East 57th Street<br>
-                      New York, NY 10022<br>
-                </div>
-              </div>
-            </li>
-            <li class="last">
-              <div class="photo">
-                <img alt="Thumbnail" src="http://photos.offers.analoganalytics.com/production/54573/thumbnail.png">
-              </div>
-              <div class="content">
-                <h4><a href="http://coupons.villagevoice.com/new-york/deals/?offer_id=54573" class="proposition">New York Brows</a></h4>
-                <div class="advertiser">NEW YORK BROWS</div>
-                <div class="address">
-                      239 1st Ave<br>
-                      New York, NY 10003<br>
-                </div>
-              </div>
-            </li>
-        </ul>
-    </div>  
-    <div id="more_offers">
-      <a href="http://coupons.villagevoice.com/new-york/deals/" class="more">More Popular Coupons »</a>
-    </div>
-  </div>
-</div></div><div class="ClearIt "></div>
-<div class="widget trackme" name="AdIndexCoOp"></div><div class="widget trackme" name="FlatAds"></div><div class="widget trackme" name="NowClickThis"><!-- p/af/v/ads/now_click_this -->
-  <div class="chisel_u r_box city">
-   <div class="chisel_d white">
-    <h2>Now Click This</h2>
-    <ul>
-<li><a href="http://www.facebook.com/villagevoice" target="_top">Become a fan of the Voice on Facebook!</a></li><li><a href="http://www.villagevoice.com/microsites/alerts" target="_top">Sign up for Voice Text Alerts!</a></li><li><a href="http://twitter.com/VoiceStreet" target="">Follow the Voice on Twitter!</a></li><li><a href="/ads/Village Voice iPhone app" target="">Download the new Village Voice iPhone app!</a></li><li><a href="https://www.ezsubscription.com/vil/subscribe.asp" target="">Subscribe to The Village Voice Newspaper</a></li><li><a href="http://polls.villagevoice.com/polls/nyv/divebars/" target="_top">NEW YORK CITY'S BEST DIVE BARS by Ben Westoff ON SALE NOW!</a></li><li><a href="http://www.VoiceDailyDeals.com/" target="">VOICE Daily Deals</a></li><li><a href="http://www.villagevoice.com/promotions/freestuff/" target="_top">Contests &amp; Promotions</a></li><li class="last"><a href="http://urmomcalled.com/" target="">Ur Mom Called</a></li>    </ul>
-   </div>
-  </div>
-
-<!-- !p/af/v/ads/now_click_this --></div></div>
+<!-- !p/af/v/ad_index/tower --></div><div class="ClearIt "></div>
+<div class="widget trackme" name="AdIndexCoOp"></div></div>
 </div>
          <div class="bottomAd"><!-- NOGSA -->
 <div class="Ads" id="Bottom">
-    <script language="JavaScript">
+    <script type="text/javascript">
         <!--
         OAS_AD('Bottom');
         //-->
@@ -671,32 +603,26 @@ tabs.addTab('eMailed','mostEmailed',0);
 <!-- /p/af/v/e/Footer -->
 <!--googleoff: all-->
 <div class="footer">
-    <a href="http://www.villagevoice.com/about/index">About Us</a> |
+    <a href="http://www.villagevoice.com/about/index/">About Us</a> |
+    <a href="http://media.villagevoice.com/7834161.0.pdf">Media Kit</a> |
     <a href="http://jobs.villagevoice.com" target="_blank">Work for Village Voice</a> |
-    <a href="http://www.villagevoice.com/readers/register">Esubscribe</a> |
+    <a href="http://www.villagevoice.com/village/register/">Esubscribe</a> |
     <a href="http://villagevoice.backpage.com">Free Classifieds</a> |
-    <a href="http://www.villagevoice.com/about/index">Village Voice Advertising</a> |
+    <a href="http://www.villagevoice.com/about/index/">Village Voice Advertising</a> |
     <a href="http://www.voicemediagroup.com">National Online Advertising</a> |
     <a href="http://www.villagevoice.com/promotions/mobileApps/">Mobile</a> |
-    <a href="http://www.villagevoice.com/about/privacyPolicy">Privacy Policy</a> |
-    <a href="http://www.villagevoice.com/about/terms">Terms of Use</a> |
-    <a href="http://www.villagevoice.com/bugs">Problem With the Site?</a> |
-    <a href="http://www.villagevoice.com/about/syndication">RSS</a> |
-    <a href="http://www.villagevoice.com/about/siteMap">Site Map</a> 
-    | <a href="http://www.villagevoice.com/livoice">L.I. Voice</a>
+    <a href="http://www.villagevoice.com/about/privacyPolicy/">Privacy Policy</a> |
+    <a href="http://www.villagevoice.com/about/terms/">Terms of Use</a> |
+    <a href="http://www.villagevoice.com/bugs/">Site Problems?</a> |
+    <a href="http://www.villagevoice.com/about/syndication/">RSS</a> |
+    <a href="http://www.villagevoice.com/about/siteMap/">Site Map</a> 
+    | <a href="http://www.villagevoice.com/livoice/">L.I. Voice</a>
 </div>
 <!-- End /p/af/v/e/Footer -->
+        </div>
     </div>
-    <div class="copyright">© 2011 Village Voice, LLC, All rights reserved.</div>
-</div>
-
-
-<!-- BACKGROUND AD -->
-
-  
-<!-- BACKGROUND AD -->
-
-<!-- /pagecontainer -->
+    <div class="copyright">© 2012 Village Voice, LLC, All rights reserved.</div>
+</div><!-- /pagecontainer -->
 <script type="text/javascript">
 var redirectController = 'village';
 </script>
@@ -714,18 +640,19 @@ var redirectController = 'village';
         <div id="loginProfile">
             <div class="profile">
                 <div id="profile">
-                    <img src="http://vvoice.vo.llnwd.net/e14//6524627.13.jpg">
+                    <img src="http://media.villagevoice.com/6975012.13.jpg" alt="avatar">
                     <div class="username"></div><span class="triangleOpen"></span>
                 </div>
-                <span id="profileLink"><a href="/">Profile</a> |</span> <a href="/village/newsletters/">Newsletters</a> | <a href="/village/mobile/">Mobile</a>
+                                <a href="/village/newsletters/">Newsletters</a> |
+                <a href="/village/mobile/">Mobile</a>
             </div>
-                        <div id="logLink" class="login">
+            <div id="logLink" class="login">
                 Log in <span class="triangleOpen"></span>
             </div>
             <div id="regLink" class="register">
                 Sign up <span class="triangleOpen"></span>
             </div>
-                    </div>
+        </div>
 
         <div id="showVill">
             <ul class="nation">
@@ -781,17 +708,17 @@ var redirectController = 'village';
                 </li>
             </ul>
         </div>
-                <div id="login">
+        <div id="login">
             <div class="or">or</div>
             <div class="left">
                 <p class="head"><b>Log in</b> or <span>Sign up</span></p>
                 <strong>Social Connect:</strong>
                 <p>Use your favorite account to access My Voice Nation.</p>
-                <button class="facebookConnect" onclick="VVM.Toolbar.socialConnect(&quot;facebook&quot;, &quot;8|22|39&quot;)"></button>
-                <button class="yahooConnect" onclick="VVM.Toolbar.socialConnect(&quot;yahoo&quot;, &quot;8|22|39&quot;)"></button>
+                <button class="facebookConnect" onclick="MVN.socialConnect(this, 'facebook', '8|22|35')"></button>
+                <button class="yahooConnect" onclick="MVN.socialConnect(this, 'yahoo', '8|22|35')"></button>
                 <br>
-                <button class="googleConnect" onclick="VVM.Toolbar.socialConnect(&quot;google&quot;, &quot;8|22|39&quot;)"></button>
-                <button class="twitterConnect" onclick="VVM.Toolbar.socialConnect(&quot;twitter&quot;, &quot;8|22|39&quot;)"></button>
+                <button class="googleConnect" onclick="MVN.socialConnect(this, 'google', '8|22|35')"></button>
+                <button class="twitterConnect" onclick="MVN.socialConnect(this, 'twitter', '8|22|35')"></button>
             </div>
             <div class="right">
                 <p>Use your My Voice Nation account to log in:</p>
@@ -803,7 +730,7 @@ var redirectController = 'village';
                     <a href="/village/forgot/">Forgot password?</a>
                     <input type="checkbox" name="rememberMe" id="rememberMe" checked="checked">
                     <label for="rememberMe">Remember me</label>
-                    <input type="submit" value="Login" class="submit" onclick="javascript:VVM.Toolbar.removeNoAuthCookie();">
+                    <input type="submit" value="Login" class="submit" onclick="javascript:MVN.authUser(this);return false;">
                 </form>
             </div>
         </div>
@@ -814,60 +741,39 @@ var redirectController = 'village';
                 <p class="head"><b>Sign Up</b> or <span>Log in</span></p>
                 <strong>Social Connect:</strong>
                 <p>Sign up for My Voice Nation with your preferred network.</p>
-                <button class="facebookConnect" onclick="VVM.Toolbar.socialConnect(&quot;facebook&quot;, &quot;8|22|39&quot;)"></button>
-                <button class="yahooConnect" onclick="VVM.Toolbar.socialConnect(&quot;yahoo&quot;, &quot;8|22|39&quot;)"></button>
+                <button class="facebookConnect" onclick="MVN.socialConnect(this, 'facebook', '8|22|35')"></button>
+                <button class="yahooConnect" onclick="MVN.socialConnect(this, 'yahoo', '8|22|35')"></button>
                 <br>
-                <button class="googleConnect" onclick="VVM.Toolbar.socialConnect(&quot;google&quot;, &quot;8|22|39&quot;)"></button>
-                <button class="twitterConnect" onclick="VVM.Toolbar.socialConnect(&quot;twitter&quot;, &quot;8|22|39&quot;)"></button>
+                <button class="googleConnect" onclick="MVN.socialConnect(this, 'google', '8|22|35')"></button>
+                <button class="twitterConnect" onclick="MVN.socialConnect(this, 'twitter', '8|22|35')"></button>
             </div>
             <div class="right">
                 <p>Sign up for a My Voice Nation account:</p>
                 <form method="post" action="/village/register/">
-<!--
-                    <label for="f_name" id="f_name_label">First Name</label>
-                    <label for="l_name" id="l_name_label">Last Name</label>
-                    <input type="text" name="f_name" id="f_name" maxlength="20" />
-                    <input type="text" name="l_name" id="l_name" maxlength="20" />
-                    <br style="clear: both"/>
--->
                     <label for="email">E-mail</label><br>
                     <input type="text" name="email" id="email"><br>
-<!--
-                    <label for="username" id="username_label">Username</label><br />
-                    <input type="text" name="username" id="username" maxlength="20" /><br />
-
-                    <label for="zip">Zip Code</label><br />
-                    <input type="text" name="zip" id="zip" maxlength="5" /><br />
--->
-                    <div id="recaptcha_placeholder">
+                    <div class="recaptcha_placeholder">
                     </div>
-                    <input type="hidden" name="sourceId" value="8|22|39">
-                    <button class="submit" onclick="javascript:VVM.Toolbar.removeNoAuthCookie();">Sign Up</button>
+                    <input type="hidden" name="sourceId" value="8|22|35">
+                    <input type="submit" value="Sign Up" class="submit" onclick="javascript:MVN.authUser(this);return false;">
                     <a href="/about/privacyPolicy/" class="privacy">Privacy policy</a>
                 </form>
             </div>
         </div>
-                <div id="showProf">
+        <!-- Profile Options (Hidden) -->
+        <div id="showProf">
             <ul>
                 <li><a href="/village/settings/">Settings</a></li>
-                <li><a href="/village/logout/">Log Out</a></li>
+                <li><a href="/village/logout/" onclick="javascript:MVN.logout(this); return false;">Log Out</a></li>
             </ul>
         </div>
     </div>
-        <iframe name="sso-status" id="sso-status" style="display: none"></iframe>
-    <script type="text/javascript">
-        VVM.Toolbar.doSSO();
-    </script>
-    </div>
-<script type="text/javascript">
-    VVM.Toolbar.checkReferrer();
-</script>
-<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+</div>
 
 <script>
 
 var _comscore = _comscore || [];
-_comscore.push({ c1: "2", c2: "6035631", c3: "", c4: "http://www.villagevoice.com/about/privacyPolicy/" });
+_comscore.push({ c1: "2", c2: "6035631", c3: "", c4: "http://www.villagevoice.com/about/privacypolicy/" });
 (function() {
 var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
 s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
@@ -875,7 +781,7 @@ el.parentNode.insertBefore(s, el);
 })();
 </script>
 <noscript>
-<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035631&c3=&c4=http://www.villagevoice.com/about/privacyPolicy/&c5=&c6=&c15=&cj=1" />
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035631&c3=&c4=http://www.villagevoice.com/about/privacypolicy/&c5=&c6=&c15=&cj=1" />
 </noscript>
 
 	
@@ -928,7 +834,7 @@ qacct:"p-a4LDpi_DEopn-"
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=546102&amp;cb=55715569920&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20111208040532id_/http%253A//www.villagevoice.com/about/privacyPolicy"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=ae3368ac&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=546102&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ae3368ac' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=546102&amp;cb=79418039761&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20120623042103id_/http%3A//www.villagevoice.com/about/privacypolicy/"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=ae3368ac&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=546102&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ae3368ac' border='0' alt='' /></a></noscript>
 
 
 <!-- START: IndieClick Pixel -->
@@ -945,16 +851,11 @@ ic_script.parentNode.insertBefore(ic_element, ic_script);
 </script>
 <!-- END: IndieClick Pixel --><!-- INCK -->
 
-<!-- Javascript tag: -->
-<!-- begin ZEDO for channel: Village Voice , publisher: Village Voice , Ad Dimension: Pixel/Popup - 1 x 1 -->
-<script language="JavaScript">
-var zflag_nid="305"; var zflag_cid="3279/1"; var zflag_sid="977"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="15";
-</script>
-<script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
-<!-- end ZEDO for channel: Village Voice , publisher: Village Voice , Ad Dimension: Pixel/Popup - 1 x 1 -->
+
 <!-- /p/af/v/e/PaperSiteJS -->
 
 
 
+</div><!-- outerBody -->
 
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
