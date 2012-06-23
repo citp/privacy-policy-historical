@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gov.ns.ca privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228231059id_/http%3A//gov.ns.ca/govt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.ns.ca privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623165534id_/http%3A//gov.ns.ca/govt/privacy) for the most accurate reproduction.*
 
 # Nova Scotia Government Website Privacy Policy Statement | novascotia.ca
 
 ### Basic Statement
 
-Government of Nova Scotia websites are covered by the [Freedom of Information and Protection of Privacy Act.](http://www.gov.ns.ca/legislature/legc/statutes/freedom.htm) Our privacy policy arises from that Act, other legislation, and fair information practices. 
+Government of Nova Scotia websites are covered by the [Freedom of Information and Protection of Privacy Act.](http://nslegislature.ca/legc/statutes/freedom.htm) Our privacy policy arises from that Act, other legislation, and fair information practices. 
 
 ### What it means
 
@@ -12,19 +12,19 @@ On our websites, we collect personal information about you only when you explici
 
 ### What do we mean by personal information?
 
-By "personal information" we mean any information about you as an identifiable individual including your name, an identifying number such as your driver's licence number, your birth date, your email address, or your credit card information. (For other examples, see: [Freedom of Information and Protection of Privacy Act](http://www.gov.ns.ca/legislature/legc/statutes/freedom.htm), section 3(1) (i)) 
+By "personal information" we mean any information about you as an identifiable individual including your name, an identifying number such as your driver's licence number, your birth date, your email address, or your credit card information. (For other examples, see: [Freedom of Information and Protection of Privacy Act](http://nslegislature.ca/legc/statutes/freedom.htm), section 3(1) (i)) 
 
 ### What we don't do
 
-We do not provide personal information gathered on the websites to third parties except with your express permission or as permitted by law. (For example, see: [Freedom of Information and Protection of Privacy Act](http://www.gov.ns.ca/legislature/legc/statutes/freedom.htm), section 27) 
+We do not provide personal information gathered on the websites to third parties except with your express permission or as permitted by law. (For example, see: [Freedom of Information and Protection of Privacy Act](http://nslegislature.ca/legc/statutes/freedom.htm), section 27) 
 
 ### What we might do
 
-We may release or use your personal information provided on the websites for the purpose for which it was provided or for a compatible purpose. We may also do so if we are permitted under law, such as under a subpoena, or to collect a debt owing to the province. This may include sharing information within the government when it is necessary. (For example, see: [Freedom of Information and Protection of Privacy Act](http://www.gov.ns.ca/legislature/legc/statutes/freedom.htm), sections 26 & 27) 
+We may release or use your personal information provided on the websites for the purpose for which it was provided or for a compatible purpose. We may also do so if we are permitted under law, such as under a subpoena, or to collect a debt owing to the province. This may include sharing information within the government when it is necessary. (For example, see: [Freedom of Information and Protection of Privacy Act](http://nslegislature.ca/legc/statutes/freedom.htm), sections 26 & 27) 
 
 ### Access to your information
 
-You are entitled to correct any personal information gathered through the websites that we hold about you. If you want to correct your personal information, there will be an appropriate contact listed for you to direct enquiries. If no contact is identified, then you should contact the webmaster of the relevant site. (For example, see: [Freedom of Information and Protection of Privacy Act](http://www.gov.ns.ca/legislature/legc/statutes/freedom.htm), section 25) 
+You are entitled to correct any personal information gathered through the websites that we hold about you. If you want to correct your personal information, there will be an appropriate contact listed for you to direct enquiries. If no contact is identified, then you should contact the webmaster of the relevant site. (For example, see: [Freedom of Information and Protection of Privacy Act](http://nslegislature.ca/legc/statutes/freedom.htm), section 25) 
 
 ### Do we use cookies or tracking devices?
 
@@ -36,7 +36,7 @@ Government web servers automatically collect some information about a visitor's 
 
 ### Further Information
 
-[Nova Scotia Government Website Privacy Policy](http://gov.ns.ca/treasuryboard/manuals/PDF/300/30407-03.pdf) (PDF) 
+[Nova Scotia Government Website Privacy Policy](http://www.gov.ns.ca/treasuryboard/manuals/PDF/300/30407-04.pdf) (PDF) 
 
-[Contact the Office of Economic and Rural Development](https://www.gov.ns.ca/govt/privacy/privacycontact.asp)  
+[Contact Economic and Rural Development and Tourism](https://www.gov.ns.ca/govt/privacy/privacycontact.asp)  
 
