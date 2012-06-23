@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitrhymes.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018132323id_/http%3A//www.bitrhymes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrhymes.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623050420id_/http%3A//www.bitrhymes.com/privacy-policy) for the most accurate reproduction.*
 
 # BitRhymes › Privacy Policy
 
