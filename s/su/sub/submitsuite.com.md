@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitsuite.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101115907id_/http%3A//www.submitsuite.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitsuite.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623215038id_/http%3A//www.submitsuite.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Submit Suite
 
@@ -20,4 +20,4 @@ This site contains links to other sites. Fastlink2 has no responsibility for the
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
   ◊ Contacting the Web Site  
-If you have any concerns about our privacy policy or the manner in which we protect your privacy, please contact us immediately at [support@submitsuite.com](mailto:support@submitsuite.com) or use the [contact page](https://web.archive.org/web/20111101115907id_/http%3A//www.submitsuite.com/contact.htm).
+If you have any concerns about our privacy policy or the manner in which we protect your privacy, please contact us immediately at [support@submitsuite.com](mailto:support@submitsuite.com) or use the [contact page](https://web.archive.org/web/20120623215038id_/http%3A//www.submitsuite.com/contact.htm).
