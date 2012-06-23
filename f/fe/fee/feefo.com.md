@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feefo.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228005626id_/http%3A//www.feefo.com/page/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feefo.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623080243id_/http%3A//www.feefo.com/page/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 1.1  This Privacy Policy explains how we use information that you provide to us. In this Privacy Policy **“use”** means collecting, storing or organising information or doing anything else to it that would be considered **“Processing”** under the Act.
 
-1.2  In this privacy policy **(“Privacy Policy”) “we”** or **“us”** means Feefo Holdings Ltd (No. 7191962) a company incorporated in England and Wales and having its registered office at  5 Fairmile, Henley on Thames, Oxfordshire, RG9  2JR and **“you”** means you and includes any other person you represent and on whose behalf you provide information to us.
+1.2  In this privacy policy **(“Privacy Policy”) “we”** or **“us”** means Feefo Holdings Ltd (No. 7191962) a company incorporated in England and Wales and having its registered office at FEEFO HOLDINGS LIMITED (Registered in England & Wales) c/o HMT ASSURANCE LLP PENNANT HOUSE 1-2 NAPIER COURT, NAPIER ROAD READING BERKSHIRE UNITED KINGDOM RG1 8BW Company No. 07191962 and **“you”** means you and includes any other person you represent and on whose behalf you provide information to us.
 
 1.3  We collect information on behalf of organisations who provide products and/or services to the public ( **“Suppliers”** ). We do this so that Suppliers can improve the way that they provide products and/or services in the future and so that other customers are better informed before making a purchase.
 
