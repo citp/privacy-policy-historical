@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officeteam.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206103132id_/http%3A//www.officeteam.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officeteam.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623174246id_/http%3A//www.officeteam.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # OfficeTeam - Privacy Policy
 
