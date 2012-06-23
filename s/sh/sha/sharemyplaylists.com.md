@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the sharemyplaylists.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210110341id_/http%3A//sharemyplaylists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharemyplaylists.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624015118id_/http%3A//sharemyplaylists.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Share Spotify Playlists at ShareMyPlaylists.com
+# Privacy Policy
 
-## Privacy Policy
+#### Privacy Policy
 
-### (1) Introduction
+##### (1) Introduction
 
 The website www.ShareMyPlaylists.com and the related App is owned and operated by ShareMyPlaylists.com limited ("SMP", "we", "us"). We are committed to respecting and protecting your privacy and any data that we collect concerning you. This policy ("Privacy Policy") sets out the basis on which we collect personal data from you, or that you provide to us. Please read this Privacy Policy carefully in order to understand our views and practices regarding your personal data. By using the Site and/or App you agree to the use of the data that we collect in accordance with this Privacy Policy. We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service.
 
 Except where indicated otherwise, all capitalised terms have the same meaning as defined in our [Terms](http://sharemyplaylists.com/terms-of-use).
 
-### (2) Information Collected
+##### (2) Information Collected
 
 We may collect and process the following information about you:
 
@@ -25,7 +25,7 @@ We may collect and process the following information about you:
 
 
 
-### (3) Consent and Storage
+##### (3) Consent and Storage
 
   1. By providing any information to SMP through the Site and by using the Site and/or App as a registered user, you are consenting to the collection, storage and use of your personal information by SMP as set out in this Privacy Policy and our Terms. You understand and grant consent to the collection, maintenance, processing and transfer of such information outside the European Economic Area ("EEA"). If you do not consent to the collection, maintenance, processing and transfer of such information to territories outside the EEA, then you must not use the Site and/or App as a registered user and you accept that many features of the Site and/or App may be unavailable to you.
   2. When you provide SMP with personally identifiable information (information from which you can be identified), it may be transferred to other entities or stored on our servers or the servers of a third party. The transfer and/or storage may take place outside the EEA. Countries outside the EEA have different privacy laws that provide different levels of protection for your personally identifiable information, and such laws may not be as comprehensive as those that exist in the EEA. In becoming a registered user, you consent to SMP's transmission to, and processing of your information in any jurisdiction in accordance with this Privacy Policy. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
@@ -33,7 +33,7 @@ We may collect and process the following information about you:
 
 
 
-### (4) Information Use
+##### (4) Information Use
 
   1. Non-personally identifiable information may be shared with third parties to help us to introduce, develop and improve the Site, App or for other purposes, such as providing more relevant services and advertisements to users.
   2. We may use your email address to contact you and send you notifications or information related to the Site and/or App. We may also use your email address for security reasons so that we can verify your identity.
@@ -42,19 +42,19 @@ We may collect and process the following information about you:
 
 
 
-### (5) Acquisitions and Disposals
+##### (5) Acquisitions and Disposals
 
 We may disclose personal information to third parties if we acquire or dispose of any business or assets, in which case we may disclose your personal data to the prospective seller or purchaser of such business or assets; or if our assets or a substantial part of our assets are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets.
 
-### (6) Links
+##### (6) Links
 
 The Site and/or App may contain links to and from Third Party Sites or the websites of our advertisers and affiliates. If you follow a link to any Third Party Site, please note that these websites have their own privacy policies. We do not accept any responsibility or liability for such policies. You should check these policies before you submit any personal data to such Third Party Sites.
 
-### (7) Children
+##### (7) Children
 
 If you are under the age of 12, you must ask permission for your parent or guardian before you register. We do not knowingly collect personal information from anyone who is under the age of 12 or allow them to register as a user of the Site without their parent or guardian's permission. If we become, or are made aware that we have collected personal information from such a person then we will we delete this information including their registered user account. If you have reason to believe that this has occurred then please contact us at info@sharemyplaylists.com and we will delete all relevant personal information.
 
-### (8) Cookies
+##### (8) Cookies
 
 Cookies are small files that contain information that is transferred to your computer, laptop or mobile media device's hard drive. They are used by many websites to provide features to their users. They help us to improve our Site and Application to deliver a better and more personalised service and enable us to retrieve your login information quickly. We do not link the information we store in cookies to any personally identifiable information provided by users. We also use persistent cookies which stay on your computer, laptop or mobile media device after you have gone offline. 
 
@@ -62,7 +62,7 @@ You may refuse to accept cookies by activating the settings on your browser whic
 
 Please be aware that our advertisers may also use cookies. Advertisers' use of cookies is not under our control and is therefore not subject to this Privacy Policy.
 
-### (9) Advertising
+##### (9) Advertising
 
   1. SMP may use third-party advertising companies to target and display advertisements when you visit the Site and/or use the App. These advertising networks may use general demographic information (although generally not including your name, address, email address or telephone number) about your visits to the Site to provide advertisements about goods and/or services that may be of interest to you. They may also use cookies, and other tracking technologies to help present, target and measure advertising effectiveness.
   2. Certain third party individuals or organisations may be granted access to your personal information (excluding your email address) as a result of agreements between us and our advertising partners. Our partners may use such information for their own purposes, which may be either commercial or non-commercial in nature and which may also include targeted advertising or direct marketing. These third parties may be based in the United Kingdom or abroad (including outside of the EEA).
@@ -72,11 +72,11 @@ Please be aware that our advertisers may also use cookies. Advertisers' use of c
 
 
 
-### (10) Changes to this Policy
+##### (10) Changes to this Policy
 
 We may, at our sole discretion, amend, modify or change this Privacy Policy. All such changes will be placed on this page and will supersede this version of our Privacy Policy. We will take reasonable steps to draw your attention to any changes in our Privacy Policy. However we suggest that you check this page each time you use the Site to ensure that it still meets with your approval.
 
-### (11) Contacting Us
+##### (11) Contacting Us
 
 The Data Protection Act 1998 (the "Act") gives you the right to access information held about you. If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact us. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
 
