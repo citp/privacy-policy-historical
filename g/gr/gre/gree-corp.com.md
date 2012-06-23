@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gree-corp.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223024605id_/http%3A//www.gree-corp.com/%3Fg%3Dprivacy%26s%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gree-corp.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623063422id_/http%3A//gree-corp.com/%3Fg%3Dprivacy%26s%3Dprivacy) for the most accurate reproduction.*
 
 # GREE International, Inc | Privacy Policy | Privacy Policy
 
