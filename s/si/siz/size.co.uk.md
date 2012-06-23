@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the size.co.uk privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224111916id_/http%3A//size.co.uk/customer-service/privacy/%3Fcm_re%3Dhome-_-footer-_-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the size.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623031946id_/http%3A//www.size.co.uk/customer-service/privacy/%3Fcm_re%3Dhome-_-footer-_-privacy) for the most accurate reproduction.*
 
 # size? Privacy
 
@@ -35,6 +35,7 @@ This temporary cookie is maintained until the user:
   2. Closes down their browser session
   3. Manually clears the User identification cookie
 
+  
 
 
 ### User Log-in Caching
@@ -71,6 +72,7 @@ This Web Site may, at some point in the future utilise non-temporary cookies or 
   2. Removes all items from their current basket
   3. Manually clears the Basket Cookie
 
+  
 
 
 ## Collection and Anonymous Usage of Personal Data
