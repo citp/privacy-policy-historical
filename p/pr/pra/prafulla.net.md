@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prafulla.net privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103191214id_/http%3A//www.prafulla.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prafulla.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623151350id_/http%3A//www.prafulla.net/privacy-policy) for the most accurate reproduction.*
 
-# Prafulla.net: Privacy Policy
-
-## Privacy Policy
+# Prafulla.net – Privacy Policy
 
 * * *
+
+[ ](http://twitter.com/share?url=http://www.prafulla.net/privacy-policy/&text=Privacy%20Policy "Click here if you liked this article.")
 
 Prafulla.net strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
@@ -45,5 +45,3 @@ This policy and the use of this Site are governed by laws of India (Rajasthan St
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Jodhpur, under the rules of the Indian Arbitrators. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-Tags: [information](http://www.prafulla.net/tag/information/), [law](http://www.prafulla.net/tag/law/), [name](http://www.prafulla.net/tag/name/), [time](http://www.prafulla.net/tag/time/)
