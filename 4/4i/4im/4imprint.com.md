@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4imprint.com privacy policy that was archived on 2011-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110906144502id_/http%3A//info.4imprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4imprint.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623095158id_/http%3A//info.4imprint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 4imprint Promotional Products Blog
 
@@ -117,12 +117,4 @@ _Privacy Complaints by Canadian Customers_
 4IMPRINT commits to resolve complaints about your privacy and our collection or use of your personal information. If a complaint or dispute cannot be resolved through our internal process, 4IMPRINT has further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism, The Better Business Bureau (BBB). If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by 4IMPRINT you may click [here](http://wisconsin.bbb.org/consumers/) to go directly to the BBB website to file a complaint.
 
 _Privacy Complaints by European Union Customers_  
-4IMPRINT commits to resolve complaints about your privacy and our collection or use of your personal information. If a complaint or dispute cannot be resolved through our internal process, 4IMPRINT has further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism, the Better Business Bureau EU Safe Harbor, operated by the Council of Better Business Bureaus, as a third party resolution provider. If you do not receive timely acknowledgment of your complaint or concern, or it is it not satisfactorily addressed by 4IMPRINT, you may contact:
-
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: +001 703-276-0100  
-Web: [www.us.bbb.org](http://www.us.bbb.org/)  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
+4IMPRINT commits to resolve complaints about your privacy and our collection or use of your personal information. If a complaint or dispute cannot be resolved through our internal process, 4IMPRINT has further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism, the Better Business Bureau EU Safe Harbor, operated by the Council of Better Business Bureaus, as a third party resolution provider. If you do not receive timely acknowledgment of your complaint or concern, or it is it not satisfactorily addressed by 4IMPRINT, you may click this link <http://www.bbb.org/us/safe-harbor-complaints> to file a complaint.
