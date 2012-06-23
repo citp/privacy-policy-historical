@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reliablehosting.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125152010id_/http%3A//reliablehosting.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliablehosting.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624003326id_/http%3A//reliablehosting.com/privacy.htm) for the most accurate reproduction.*
 
 # Reliable Hosting.com
 
-Users' privacy is very important to RELIABLEHOSTING.COM. We are committed to safeguarding the informationusers entrust to RELIABLEHOSTING.COM. This Web site is not directed at children under 18 years of age. 
+Users' privacy is very important to RELIABLEHOSTING.COM. We are committed to safeguarding the information users entrust to RELIABLEHOSTING.COM. This Web site is not directed at children under 18 years of age.
 
 **The Information We Collect**
 
@@ -16,10 +16,27 @@ RELIABLEHOSTING.COM may use personally identifiable information collected throug
 
 Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure. 
 
+**Safe Harbor program**
+
+RELIABLEHOSTING.COM, complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Black Oak Computers Inc has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Black Oak Computers Inc certification, please visit <http://www.export.gov/safeharbor/>
+
+**Safe Harbor Certification Mark**
+
+[](http://export.gov/safeharbor/)
+
 **Questions**
 
-Users may direct questions concerning this Privacy Policy by email to [privacy@reliablehosting.com](mailto:privacy@reliablehosting.com). 
+In compliance with the US-EU Safe Harbor Principles, Reliablehosting.com commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Reliablehosting.com at: [privacy@reliablehosting.com](mailto:privacy@reliablehosting.com)
 
-Users may elect not to receive solicitations from RELIABLEHOSTING.COM or from trusted affiliates, independent contractors and business partners by completing the opt-out request form here. <http://techupdates.reliablehosting.com/>
+Black Oak Computers, Inc.  
+DBA: Reliablehosting.com  
+P.O. Box 19719  
+S. Lake Tahoe CA. 96151 
+
+RELIABLEHOSTING.COM has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Reliablehosting.com, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+
+Users may direct questions concerning this Privacy Policy by email to [privacy@reliablehosting.com](mailto:privacy@reliablehosting.com).
+
+Users may elect not to receive solicitations from RELIABLEHOSTING.COM or from trusted affiliates, independent contractors and business partners by completing the opt-out request form [here](http://techupdates.reliablehosting.com/). 
 
 Adopted August 1, 2002
