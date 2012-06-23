@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the newgamenetwork.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224132159id_/http%3A//www.newgamenetwork.com/page/3/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgamenetwork.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623060530id_/http%3A//www.newgamenetwork.com/page/3/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | New Game Network
 
 Privacy Statement  
-Last updated on Dec 18, 2010 21:35. Page viewed 3038 times.  
+Last updated on Jan 16, 2012 22:33. Page viewed 4181 times.  
 
 
 * * *
