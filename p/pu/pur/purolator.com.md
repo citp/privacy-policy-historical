@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the purolator.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015225119id_/http%3A//www.purolator.com/about_online_ship/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purolator.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623072453id_/http%3A//www.purolator.com/about_online_ship/privacy_policy.html) for the most accurate reproduction.*
 
-# Purolator Courier Ltd.
+# Purolator Inc.
 
 Privacy Statement
 
-At Purolator, we are committed to protecting our customers’ privacy. The purpose of this Privacy Statement is to inform our customers of Purolator's practices relating to the collection, use and disclosure of personal information that we may receive in association with our customers’ use of our shipping and related products and services, our customers’ access to or use of our websites, or other interactions our customers may have with us.
+At Purolator, we are committed to protecting our customers’ privacy. The purpose of this Privacy Statement is to inform our customers of Purolator's practices relating to the collection, use and disclosure of personal information that we may receive in association with our customers’ use of our shipping and related products and services, our customers’ access to or use of our websites, or other interactions our customers may have with us. 
 
 **Meaning of “Customer” and “Personal Information”**   
-For the purposes of this Privacy Statement,
 
-  
-“customer” refers to anyone who uses Purolator’s products and services, whether as the shipper, receiver, arranger of the shipment or otherwise, and anyone who uses Purolator’s websites, and
 
-  
+For the purposes of this Privacy Statement,  
+
+
+“customer” refers to anyone who uses Purolator’s products and services, whether as the shipper, receiver, arranger of the shipment or otherwise, anyone who uses Purolator’s websites, and anyone who has opted to receive email communications about Purolator’s products and services, special offers, promotions and service tips, and   
+
+
 "personal information" means information about an identifiable individual, but does not include the name, title or business address or telephone number of an employee of an organization.
 
-**What Personal Information We Collect and How We Use It  
-**We collect personal information about every shipment tendered to Purolator so that we can provide our customers with the transportation and information services necessary to make shipping convenient, and bill our customers accurately for the products and services we provide to them.  Examples of the personal information we collect in relation to shipments include: 
+**What Personal Information We Collect and How We Use It**   
+We collect personal information about every shipment tendered to Purolator so that we can provide our customers with the transportation and information services necessary to make shipping convenient, and bill our customers accurately for the products and services we provide to them.  Examples of the personal information we collect in relation to shipments include: 
 
   * contact information (such as name, address, e-mail address and personal telephone number); 
   * proof of identity (such as signature and government-issued photo identification); and
@@ -29,20 +31,22 @@ We use the personal information we collect in relation to shipments so that we c
   * provide our customers with timely and reliable products and services, including the pick-up and delivery of shipments, the performance of logistics services, the arrangement of customs brokerage services, and communication with our customers about the status of their shipments (including through our online shipment tracking application, by telephone or by e-mail); 
   * bill our customers for the products and services we provide them, including the verification of their credit, the authentication of their identities, and the production of detailed invoices that help them verify the charges billed to them;
   * establish, maintain and develop relationships with our customers, including the management of their accounts with Purolator;
-  * develop, promote and manage our products and services, including the completion of market studies and the communication of new products and services to our customers; and 
+  * develop, promote and manage our products and services, including the completion of market studies and the communication of new products and services, special offers, promotions, and service tips; and 
   * assist law enforcement agencies, collect debts owed to Purolator, protect Purolator’s business interests (including enforcing Purolator’s Terms and Conditions of Service), and generally meet requirements imposed by law.  
 
 
 
-**When We Disclose Personal Information  
-**We may transfer personal information to third parties engaged to assist us in providing products and services to our customers or to otherwise carry out one or more of the purposes described above.  Such third parties may include, among others, other transportation companies or local pick-up and delivery agents involved in the pick-up, transportation and delivery of shipments, customs brokers and information services/technology service providers.  When transferring personal information to third parties, we use contractual or other means to provide a level of protection comparable to our own level of protection while the personal information is in the third party’s custody.  In addition, we may share personal information with Purolator’s affiliates for the purpose of facilitating one or more of the purposes described above.  Due to the location of some of these third parties and affiliates or the location of their computer servers, personal information is sometimes transferred and held outside of Canada.    
+**When We Disclose Personal Information**  
+We may transfer personal information to third parties engaged to assist us in providing products and services to our customers,  to otherwise carry out one or more of the purposes described above, or to administer our distribution lists.  Such third parties may include, among others, other transportation companies or local pick-up and delivery agents involved in the pick-up, transportation and delivery of shipments, customs brokers and information services/technology service providers.  When transferring personal information to third parties, we use contractual or other means to provide a level of protection comparable to our own level of protection while the personal information is in the third party’s custody.  In addition, we may share personal information with Purolator’s affiliates for the purpose of facilitating one or more of the purposes described above.  Due to the location of some of these third parties and affiliates or the location of their computer servers, personal information is sometimes transferred, processed and held outside of Canada or on virtual servers.    
 
 
-We reserve the right to co-operate fully with local, provincial, state and federal officials in any investigation relating to any personal information (including private electronic communications transmitted on any Purolator website) or any purported unlawful activities. We also reserve the right to disclose and/or transfer personal information to a third party in the event of a proposed or actual direct or indirect sale, merger or other transfer of the assets or shares of Purolator Courier Ltd. or a division thereof, provided that the third party agrees to adhere to the principles expressed in this Privacy Statement and the information does not constitute all or substantially all of the assets being transferred.    
+We reserve the right to co-operate fully with local, provincial, state and federal officials in any investigation relating to any personal information (including private electronic communications transmitted on any Purolator website) or any purported unlawful activities. We also reserve the right to disclose and/or transfer personal information to a third party in the event of a proposed or actual direct or indirect sale, merger or other transfer of the assets or shares of Purolator Inc. or a division thereof, provided that the third party agrees to adhere to the principles expressed in this Privacy Statement and the information does not constitute all or substantially all of the assets being transferred.    
+
+
 Except as stated above, we will not, without our customers’ consent, sell, share, transfer, license, trade or rent personal information received from them to others.
 
-**How We Obtain Consent  
-**The form of consent we obtain from an individual, including whether it is express or implied, will largely depend on the sensitivity of the personal information and the reasonable expectations of the individual in the circumstances.  We will not, as a condition of the supply of our products and services, require any individual to consent to the collection, use or disclosure of his or her personal information beyond that required to fulfill the purposes described above or otherwise described at the time consent is sought.   
+**How We Obtain Consent**   
+The form of consent we obtain from an individual, including whether it is express or implied, will largely depend on the sensitivity of the personal information and the reasonable expectations of the individual in the circumstances.  We will not, as a condition of the supply of our products and services, require any individual to consent to the collection, use or disclosure of his or her personal information beyond that required to fulfill the purposes described above or otherwise described at the time consent is sought.   
 
 
 When a customer provides us with personal information relating to an individual other than themselves (such as the intended recipient of the shipment), we rely on the customer who is providing us with the personal information to obtain that individual’s consent to our collection, use and disclosure of their personal information in the circumstances described above. 
@@ -68,19 +72,19 @@ We retain our customers’ personal information for as long as necessary to fulf
 **Links to Third Party Sites**   
 Our website may offer links to other websites. Customers should be aware that operators of linked websites may also collect our customers’ personal information (including information generated through the use of cookies) when they link to those websites. We are not responsible for how such third parties collect, use or disclose our customers’ personal information, so it is important for our customers to familiarize themselves with the privacy policies of such third parties before providing them with personal information. 
 
-**Changes to this Privacy Statement  
-**We reserve the right to modify this Privacy Statement at anytime without notice. The Privacy Statement posted at any time or from time to time via this website shall be deemed to be the Privacy Statement then in effect. 
+**Changes to this Privacy Statement**   
+We reserve the right to modify this Privacy Statement at anytime without notice. The Privacy Statement posted at any time or from time to time via this website shall be deemed to be the Privacy Statement then in effect. 
 
 **Access**   
-Anyone may contact us at 1-888-280-9557 or [privacy@purolator.com](mailto:privacy@purolator.com) to request access to or the correction or update of their personal information. In addition, anyone may call Purolator's call centre at 1.888.SHIP-123 and request that his or her electronic signature or other personal information displayed in association with a specific waybill number be removed from our online shipment tracking application.
+Anyone may contact us at 1-888-280-9557 or [privacy@purolator.com](mailto:privacy@purolator.com) to request access to or the correction or update of their personal information. In addition, anyone may call Purolator's call centre at 1-888-SHIP-123 and request that his or her electronic signature or other personal information displayed in association with a specific waybill number be removed from our online shipment tracking application.
 
 **Contacting Us**  
 Any questions about this Privacy Statement or concerns about our compliance with this Privacy Statement should be directed as follows:
 
-Privacy Compliance Officer  
-Purolator Courier Ltd.  
-5995 Avebury Road, Suite 100  
-Mississauga, Ontario  
+**Privacy Compliance Officer**  
+Purolator Inc.  
+5995 Avebury Road Suite 100   
+Mississauga, Ontario   
 Canada L5R 3T8
 
 Or send an e-mail to [privacy@purolator.com](mailto:privacy@purolator.com). Please note that any comments, suggestions or materials provided to us shall be deemed to be of a non-confidential and non-proprietary nature (becoming the property of Purolator upon our receipt of same) and we shall be entitled to use and distribute such comments, suggestions or materials to any other parties and for any other purposes, including, but not limited to, developing and marketing products and/or services incorporating or based on any such comments, suggestions or materials.
