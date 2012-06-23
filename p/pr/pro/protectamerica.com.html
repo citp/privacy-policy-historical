@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the protectamerica.com privacy policy that was archived on 2011-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224221052id_/http%3A//www.protectamerica.com/pa/priv_p) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the protectamerica.com privacy policy that was archived on 2012-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623171659id_/http%3A//www.protectamerica.com/pa/priv_p) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-	<title>Privacy Policy | Security Systems | Alarm Monitoring | Protect America</title>
+    	<title>Privacy Policy | Security Systems | Alarm Monitoring | Protect America</title>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="description" content="Protect America is committed to protecting your residence with the best home security systems. We are also committed to protecting your personal information.">
 	<meta name="keywords" content="protect america,home security,security,home security system,security system">
 	<meta name="ROBOTS" content="INDEX,FOLLOW">
 	<meta name="rating" content="general">
-	<meta name="copyright" content="Copyright © 2011 Protect America, Inc., all rights reserved">
+	<meta name="copyright" content="Copyright © 2012 Protect America, Inc., all rights reserved">
 	<meta name="author" content="Protect America">
 	<meta name="contact_addr" content="webmaster@protectamerica.com">
 	<meta name="distribution" content="global">
@@ -45,6 +45,13 @@
 	<script src="http://www.protectamerica.com/js/uni-form.jquery.js" type="text/javascript"></script>
 	<script src="http://www.protectamerica.com/js/global.js" type="text/javascript"></script>
 	<script src="http://www.protectamerica.com/js/pa.js" type="text/javascript"></script>
+	<script src="/js/mobiledetect.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	    var mobile_cookie = getCookie('redirect_mobile');
+        if($.browser.mobile && !mobile_cookie) {
+            window.location = 'http://m.protectamerica.com/';
+        }
+	</script>
 		<script src="http://www.protectamerica.com/js/thickbox.js" type="text/javascript"></script>
 		<script src="http://www.protectamerica.com/js/cycle.js" type="text/javascript"></script>
 	<style type="text/css">
@@ -71,7 +78,6 @@
 
 </script>
 <!-- Google Analytics Code End -->    
-    
 </head>
 
 <body id="hdhome" onload="onLoads();" class="tk-facitweb">
@@ -79,14 +85,25 @@
 
 <!-- New Page Header -->
 
+
 <!-- Page Wrapper -->
 <div id="header">
 	<div id="header-wrapper">
 		<div>
 			<ul id="quick-link-navigation">
-				<li><a href="https://server.iad.liveperson.net/hc/34774121/?cmd=file&amp;file=visitorWantsToChat&amp;site=34774121&amp;byhref=1&amp;SESSIONVAR!skill=Customer%20Service&amp;imageUrl=https://www.protectamerica.com/images/liveperson" title="Online Chat" id="security-agreement" target="_blank">Online Chat</a></li>
+                <li id="quick-social">                
+                    <div id="google-button">
+                        <g:plusone size="small" href="http://www.protectamerica.com" onclick="_gaq.push(['_trackEvent', '+1 Us', 'Quick Social', '{{ page_name }}']);"></g:plusone>
+                    </div>
+                    <div id="facebook-button">
+                                                <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fprotectamerica&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=179318388788943" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true" onclick="_gaq.push(['_trackEvent', 'Like Us', 'Quick Social', 'PAGE_NAME']);"></iframe>
+                        
+                    </div>
+                    <div class="clear"></div>
+                </li>
+				<li><a href="https://server.iad.liveperson.net/hc/34774121/?cmd=file&amp;file=visitorWantsToChat&amp;site=34774121&amp;byhref=1&amp;SESSIONVAR!skill=Customer%20Service&amp;imageUrl=https://www.protectamerica.com/images/liveperson" title="Chat Now" id="security-agreement" target="_blank">Online Chat</a></li>
 
-				<li><a href="https://secure.protectamerica.com" title="Enter the Online Agreement" id="security-agreement">Agreement</a></li>
+				<li><a href="https://secure.protectamerica.com" title="Enter the Online Agreement" id="security-agreement" onclick="_gaq.push(['_trackEvent', 'Links', 'Click', 'Agreement Process']);">Agreement</a></li>
 			</ul>
 			<!--<div class="clear"></div>-->
 		</div>    
@@ -99,11 +116,16 @@
 			       	</a>
 			    </div> 	
 			</div>
+			        	<div id="phone-number">
+				<p>Security Experts Are Standing By!<span class="dynamic-phone-number">800-951-5190</span></p>
+			</div>
 			            <div id="ge-logo">
                 <img src="/images/ge-logo.png">
             </div>
 			<div class="clear"></div>
 		</div>
+		
+
 	</div>
 </div>
 <div id="navigation-wrapper">
@@ -232,7 +254,8 @@ and/or email.</p>
 	</div>
 <!-- END Left Side of Conent (CNT-L) -->
 <!-- START  Right Side of Content (CNT-R) -->
-<div id="cnt-r"> <div class="mboxDefault"><form id="quote-form2" method="post">
+<div id="cnt-r"> <div class="mboxDefault">
+<form id="quote-form2" method="post">
     <input type="hidden" id="key3" class="hidden" name="key3" value="">
 	<div>
 		<p>Free Security Quote</p>
@@ -245,15 +268,28 @@ and/or email.</p>
 		<input type="text" name="l_phone1" id="fphone" placeholder="Phone">
 
 	</div>
-	<button type="button">
-	   	   Get Quote &gt;
-	       </button>
+
+	<button type="button" class="redbutton">
+	   Get Quote &gt;
+    </button>
+
     <a href="http://www.protectamerica.com/pa/priv_p" title="View our Privacy Policy">We never share your information with anyone</a>
     <div id="quote-form-error">
-        <img src="/images/error-arrow.png" id="error-arrow">
+        <img src="/images/error-arrow.png" id="error-arrow">
         <strong>Whoops!</strong>
         <ul></ul>
     </div>
+    <div id="third-party-container" class="vt2">
+
+        <div class="thirdpartybadge vsign">
+            <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign Trust Seal to promote trust online with consumers."><tbody><tr><td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.protectamerica.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></td> </tr></tbody></table>
+        </div>
+        <div class="thirdpartybadge truste">
+            <div id="4d9e197b-b560-4855-8a81-060da2587fb0"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Protect-America,-Inc-/asc?rid=4d9e197b-b560-4855-8a81-060da2587fb0"></script><a href="//privacy.truste.com/privacy-seal/Protect-America,-Inc-/validation?rid=a32fda55-5b8a-4a07-b143-f23589641269" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Protect-America,-Inc-/seal?rid=a32fda55-5b8a-4a07-b143-f23589641269" alt="TRUSTe online privacy certification"></a></div>
+        </div>
+        <div class="clearer"></div>
+    </div>
+    <div class="clearer"></div>
 </form>
 <script type="text/javascript">
 $(document).ready(function() {
@@ -264,34 +300,49 @@ $(document).ready(function() {
     });
     $('#quote-form2 button').click(function() {
         $('#quote-form2 div').removeClass('.error-state');
-        var data = {'l_fname': $('#ffirstName').val(), 'email_addr': $('#femailAddr').val(), 'l_phone1': $('#fphone').val()}
-        $.ajax({
-    		type:		"POST",
-    		url:		"/scripts/go_lead_ajax.php",
-    		data:	    data,
-    		dataType:	"json",
-    		success:	newFormSuccess
-    	});
-    	function newFormSuccess(json) {
-            if(json.success) {
-	          hbx_lead(); //call the hbx_lead function which 'submits' the form through hbx
-	          window.location = "/pa/thank_you";
-            }
+        var data = {'name': $('#ffirstName').val(), 'email': $('#femailAddr').val(), 'phone': $('#fphone').val(), 'form': 'basic'}
 
+    	$.ajax({
+            type: "POST",
+            url: "/contact/ajaxpost/",
+            data: data,
+            dataType: "json",
+            success: newFormSuccess
+        });
+
+        function newFormSuccess(json) {
+            submitting = false;
+            if(json.success) {
+                url = json.thank_you
+                window.location = "http://www.protectamerica.com" + url;
+            }
+            
             if(json.errors) {
         		$("#quote-form-error").show();
         		$("#quote-form-error ul").html("");
         
         		var error_string = "";
-        
         		if(typeof json.errors == "object") { //this is an array of error messages
-        			json.errors.foreach(function(v,k) {
-        				error_string += "<li>"+v+"</li>\n";
-        			});
-        		} else {
-        			error_string = "<li>"+json.errors+"</li>\n";
-        		}
-        
+                    $.each(json.errors, function(k,v) {
+                        switch(k) {
+                            case 'phone':
+                                error_string += "<li> Phone: "+v+"</li>";
+                                break;
+                            case 'email':
+                                error_string += "<li> Email: "+v+"</li>";
+                                break;
+                            case 'name':
+                                error_string += "<li> Name: "+v+"</li>";
+                                break;
+                            default:
+                                error_string += "<li>"+v+"</li>";
+                                break;
+                        }
+                    });
+                } else {
+                    error_string = "<li>"+json.errors+"</li>\n";
+                }
+                //console.log(error_string);
         		$("#quote-form-error ul").html(error_string);
 
            } else $("#quote-form-error").hide();
@@ -300,10 +351,23 @@ $(document).ready(function() {
     });
 });
 </script>
+
+
 </div>
 <script type="text/javascript">
 	mboxCreate('priv_p_right_1');
-</script>
+</script><div style="background: #ce0202; width: 230px; font-family: Helvetica, Arial; color: #fff; padding: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; margin-bottom: 10px;">
+	<h3 style="background: transparent;border: 0;color: #fff;display: block;float: none;font-family: helvetica, arial, sans-serif;font-style: normal;font-variant: normal;font-weight: 800;font-size: 50px;line-height: 50px;margin: 0;outline: 0;padding: 0;position: relative;">How Safe</h3>
+	<h4 style="background: transparent;border: 0;color: #fff;display: block;float: none;font-family: helvetica, arial, sans-serif;font-style: normal;font-variant: normal;font-weight: 600;font-size: 22px;line-height: 22px;margin: 0;outline: 0;padding: 0;position: relative;">is your Neighborhood?</h4>
+	<p style="background: transparent;border: 0;color: #ddd;display: block;float: none;font-family: helvetica, arial, sans-serif;font-style: normal;font-variant: normal;font-weight: normal;font-size: 12px;line-height: 12px;margin: 5px 0 10px;outline: 0;padding: 0;position: relative;">enter your zip to find sexual predators and crime statistics in your area:</p>
+	<form style="background: transparent;border: 0;display: block;float: none;font-size: 26px;margin: 0;outline: 0;padding: 0;vertical-align: baseline; width: 100%;" action="/crime-rate/search/" method="GET" name="predator_form" id="predator_form">
+		<input style="background: #fff;border: 1px solid #ccc;display: inline;float: none;font-family: helvetica, arial, sans-serif;font-style: normal;font-variant: normal;font-weight: normal;font-size: 24px;line-height: 30px;margin: 0;outline: 0;padding: 0;vertical-align: baseline;height: 30px;width: 180px;" name="q">
+		<button style="border: 1px solid #ccc;font-family: helvetica, arial, sans-serif;font-style: normal;font-variant: normal;font-weight: normal;font-size: 14px;line-height: 16px;padding: 0; width: 40px; height: 30px; font-size:18px; line-height: 30px;cursor: pointer;cursor: hand;-moz-border-radius:3px; -webkit-border-radius: 5px; border-radius: 5px;" type="submit">GO</button>
+		<input type="hidden" name="widget" value="true">
+	</form>
+	<p style="background: transparent;border: 0;color: #ddd;display: block;float: none;font-family: helvetica, arial, sans-serif;font-style: normal;font-variant: normal;font-weight: normal;font-size: 10px;line-height: 10px;margin: 5px 0 10px;outline: 0;padding: 0;position: relative;"><a href="http://www.protectamerica.com/crime-rate/" style="color: #fff;">FBI Crime stats</a> provided by <a href="http://www.protectamerica.com/" style="color: #fff; font-weight: 800;">Protect America</a></p>
+</div>
+
 <div style="margin-bottom: 8px;">
 	<a href="/pa/complete-home-security/security-system" title="Click Here to get Whole Home Protection"><img src="/images/adt-vs-pa-side.jpg" width="251" height="286" alt="Click Here to get Whole Home Protection"></a>
 </div>
@@ -317,17 +381,7 @@ $(document).ready(function() {
 	</script>
 	
 <div class="mboxDefault">
-<div style="background: #ce0202; width: 230px; font-family: Helvetica, Arial; color: #fff; padding: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;">
-	<h3 style="background: transparent;border: 0;color: #fff;display: block;float: none;font-family: helvetica, arial, sans-serif;font-style: normal;font-variant: normal;font-weight: 800;font-size: 50px;line-height: 50px;margin: 0;outline: 0;padding: 0;position: relative;">How Safe</h3>
-	<h4 style="background: transparent;border: 0;color: #fff;display: block;float: none;font-family: helvetica, arial, sans-serif;font-style: normal;font-variant: normal;font-weight: 600;font-size: 22px;line-height: 22px;margin: 0;outline: 0;padding: 0;position: relative;">is your Neighborhood?</h4>
-	<p style="background: transparent;border: 0;color: #ddd;display: block;float: none;font-family: helvetica, arial, sans-serif;font-style: normal;font-variant: normal;font-weight: normal;font-size: 12px;line-height: 12px;margin: 5px 0 10px;outline: 0;padding: 0;position: relative;">enter your zip to find sexual predators and crime statistics in your area:</p>
-	<form style="background: transparent;border: 0;display: block;float: none;font-size: 26px;margin: 0;outline: 0;padding: 0;vertical-align: baseline; width: 100%;" action="/crime-rate/" method="GET" name="predator_form" id="predator_form">
-		<input style="background: #fff;border: 1px solid #ccc;display: inline;float: none;font-family: helvetica, arial, sans-serif;font-style: normal;font-variant: normal;font-weight: normal;font-size: 24px;line-height: 30px;margin: 0;outline: 0;padding: 0;vertical-align: baseline;height: 30px;width: 180px;" name="search">
-		<button style="border: 1px solid #ccc;font-family: helvetica, arial, sans-serif;font-style: normal;font-variant: normal;font-weight: normal;font-size: 14px;line-height: 16px;padding: 0; width: 40px; height: 30px; font-size:18px; line-height: 30px;cursor: pointer;cursor: hand;-moz-border-radius:3px; -webkit-border-radius: 5px; border-radius: 5px;" type="submit">GO</button>
-		<input type="hidden" name="widget" value="true">
-	</form>
-	<p style="background: transparent;border: 0;color: #ddd;display: block;float: none;font-family: helvetica, arial, sans-serif;font-style: normal;font-variant: normal;font-weight: normal;font-size: 10px;line-height: 10px;margin: 5px 0 10px;outline: 0;padding: 0;position: relative;"><a href="http://www.protectamerica.com/crime-rate/" style="color: #fff;">FBI Crime stats</a> provided by <a href="http://www.protectamerica.com/" style="color: #fff; font-weight: 800;">Protect America</a></p>
-</div>
+
 				<!-- <a href="https://server.iad.liveperson.net/hc/34774121/?cmd=file&file=visitorWantsToChat&site=34774121&byhref=1&SESSIONVAR!skill=Customer%20Service&imageUrl=https://www.protectamerica.com/images/liveperson" target="_blank" title="Click Here to chat with a Security Professional"><img src="/images/need-help.jpg" width="251" height="94" alt="Click Here to Talk to a Security Professional" class="live-chat" /></a> -->
 	<iframe src="/livechat_iframe.php" scrolling="no" width="250px" height="170px" frameborder="0"></iframe>
 	<!-- <script type="text/javascript" src="http://hq-test.protectamerica.com/security-tips/security_tips.js"></script><div id="pa_security_tips"></div> -->
@@ -349,25 +403,24 @@ $(document).ready(function() {
 	<div class="bottom-rule">
 		<ul id="popular-topics">
 			<li><strong>Home Security Packages</strong></li>
-			<li><a href="http://www.protectamerica.com/pa/copper/home-security-systems" title="Copper Home Security Package">Copper Package</a></li>
-			<li><a href="http://www.protectamerica.com/pa/bronze/security-systems" title="Bronze Home Security Package">Bronze Package</a></li>
-			<li><a href="http://www.protectamerica.com/pa/silver/alarm" title="Silver Home Security Package">Silver Package</a></li>
-			<li><a href="http://www.protectamerica.com/pa/gold/alarm-systems" title="Gold Home Security Package">Gold Package</a></li>
-			<li><a href="http://www.protectamerica.com/pa/platinum/alarm-system" title="Platinum Home Security Package">Platinum Package</a></li>
+			<li><a href="http://www.protectamerica.com/pa/copper/home-security-systems" title="Copper Home Security Package">Copper Security</a></li>
+			<li><a href="http://www.protectamerica.com/pa/bronze/security-systems" title="Bronze Home Security Package">Bronze Security</a></li>
+			<li><a href="http://www.protectamerica.com/pa/silver/alarm" title="Silver Home Security Package">Silver Security</a></li>
+			<li><a href="http://www.protectamerica.com/pa/gold/alarm-systems" title="Gold Home Security Package">Gold Security</a></li>
+			<li><a href="http://www.protectamerica.com/pa/platinum/alarm-system" title="Platinum Home Security Package">Platinum Security</a></li>
             <li><strong>Social Media</strong></li>
             <li id="social-media">
-                <a href="http://www.facebook.com/getprotectamerica" title="Visit our YouTube Page"><img src="/images/FaceBook_32x32.png"></a>
-                <a href="http://www.twitter.com/protectamerica" title="Visit our YouTube Page"><img src="/images/Twitter_32x32.png"></a>
+                <a href="http://www.facebook.com/protectamerica" title="Visit our Facebook Page"><img src="/images/FaceBook_32x32.png"></a>
+                <a href="http://www.twitter.com/protectamerica" title="Visit our Twitter Page"><img src="/images/Twitter_32x32.png"></a>
                 <a href="http://www.youtube.com/user/protectamerica" title="Visit our YouTube Page"><img src="/images/Youtube_32x32.png"></a>
                 <a href="https://plus.google.com/113573642727337197280?prsrc=3" style="text-decoration:none;"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="" style="border:0;width:30px;height:30px;position:relative;bottom: 1px;"></a>
             </li>
-
 		</ul>
 		<ul id="about-us">
 			<li><strong>About Us</strong></li>
 			<li><a href="http://www.protectamerica.com/pa/about" title="About Protect America">Who is Protect America?</a></li>
 			<li><a href="http://www.protectamericacares.org" title="Protect America Cares">Protect America Cares</a></li>
-			<li><a href="http://homesecurityblog.protectamerica.com/" title="Home Security Blog">Home Security Blog</a></li>
+			<li><a href="http://www.protectamerica.com/home-security-blog" title="Home Security Blog">Home Security Blog</a></li>
 			<li><a href="http://www.protectamerica.com/pa/affiliates" title="Join our Affiliate Program">Affiliate Program</a></li>
 			<li><a href="http://www.protectamerica.com/pa/license/" id="licenses-button" title="State Licenses">State Licenses</a></li>
 
@@ -382,7 +435,7 @@ $(document).ready(function() {
 			<li><a href="http://www.protectamerica.com/pa/do-not-call" title="Do Not Call List">Do Not Call</a></li>
 			<li><a href="http://www.protectamerica.com/pa/site_map" title="Sitemap">Sitemap</a></li>
 			<li><strong>Hours of Operation</strong></li>
-			<li><span class="business_hours"><span>Mon &amp; Fri: 07:00am - 09:30pm CT</span> <span>Tues - Thurs: 07:00am - 11:00pm CT</span> </span></li>
+			<li><span class="business_hours"><span>Mon - Fri: 07:00am - 11:00pm CT</span> <span>Sat: 08:00am - 05:00pm CT</span> <span>Sun: 10:00am - 04:00pm CT</span> </span></li>
 			
 		</ul>
 		<div id="awards">
@@ -410,21 +463,20 @@ $(document).ready(function() {
 <div id="legal-bit">
     <div id="terms-conditions">
         <p>* <a href="http://www.protectamerica.com/agreement/includes/mon_agreement.php?homesite=true&amp;TB_iframe=true&amp;width=780&amp;height=550">Standard home security alarm monitoring agreement</a> required with approved credit. Offer subject to change. Void where prohibited.</p>
-        <p>* Information used in home security alarm system comparisons (for ADT) was obtained from telephone price quotes and online research – November 2011. "Up Front" cost based on total up front, out-of-pocket expense to obtain services from ADT; "Up Front" costs for ADT is an installation fee based on similar equipment packages offered as quoted by ADT; "Up Front" costs shown for similar Bronze, Silver, Gold, and Platinum packages from ADT include one motion detector in the ADT packages; "Monitoring" price listed for ADT includes the additional "warranty" or "extended service plan".</p>
+        <p>* Information used for home security alarm system comparisons was obtained February 2012 through telephone and online research. ADT prices: based on total out-of-pocket expense to obtain services; installation based on fees for similar home security equipment packages; "Monitoring" price listed includes the additional "warranty" or "extended service plan".</p>
     </div>
     <div id="copyrights">
         <p>GE and GE Security logos are registered trademarks of General Electric.</p>
         <p>The BEST BUY SEAL is a registered trademark of Consumers Digest Communications, LLC, used under license.</p>
-        <p>© 1992 — 2011 Protect America, Inc. All rights reserved</p>
+        <p>© 1992 — 2012 Protect America, Inc. All rights reserved</p>
     </div>
     <div class="clear"></div> 
 </div>
 
-
 <!-- Phone Number Shadowbox Pop-up -->
 <div id="phone_number_pop">
 	<div class="big_phone_number">
-		<span class="dynamic-phone-number"><a href="tel:1-800-951-5111">1 (877) 810-8240</a></span>
+		<span class="dynamic-phone-number"><a href="tel:1-800-951-5111">1 (800) 951-5190</a></span>
 
 	</div>
 </div>
@@ -438,6 +490,9 @@ $(document).ready(function() {
   
 
 
+    <!-- Advertiser 'Protect America',  Include user in segment 'Protect America Site Retargeting Pixel' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+    <img src="http://ads.bluelithium.com/pixel?id=1732074&amp;t=2" width="1" height="1">
+    <!-- End of segment tag -->
     
 <!-- Google Code for Home Page Visit Remarketing List -->
 <script type="text/javascript">
@@ -458,15 +513,11 @@ var google_conversion_value = 0;
 </div>
 </noscript>
 <!-- End Remarketing Code -->
-
+<script>document.write("<scr"+"ipt src='http://mpp.specificclick.net/?nwk=4&y=2&t=j&tp=1&clid=4056&pixid=99072971&rnd=<timestamp_here>&u="+escape(parent.document.location)+"&r="+escape(parent.document.referrer)+"'></scri"+"pt>");</script><script src="http://mpp.specificclick.net/?nwk=4&amp;y=2&amp;t=j&amp;tp=1&amp;clid=4056&amp;pixid=99072971&amp;rnd=&lt;timestamp_here&gt;&amp;u=https%3A//web.archive.org/web/20120623171659id_/http%3A//www.protectamerica.com/pa/priv_p/protect-america&amp;r="></script><noscript><IMG SRC="http://mpp.specificclick.net/?nwk=4&y=2&t=i&tp=1&clid=4056&pixid=99072971&rnd=<timestamp_here>" width=0 height=0 border=0></noscript>
     <script type="text/javascript">
         
-            var ci_search_source = ""; //this variable determines the number pool to use
-        var thisref = document.referrer.replace(/&/g, "zzzzz");
-        var ciJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-        document.write(unescape("%3Cscript src='" + ciJsHost + "tracking.callmeasurement.com/clickx/click_matrix.cfm?munique=" + new Date().getTime() + "&dpi=" + ci_search_source + "&prev=" + thisref + "' type='text/javascript'%3E%3C/script%3E"));
         
-    </script><script src="https://tracking.callmeasurement.com/clickx/click_matrix.cfm?munique=1580398677745&amp;dpi=&amp;prev=" type="text/javascript"></script>
+    </script>
     <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 	
 
