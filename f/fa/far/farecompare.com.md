@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farecompare.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221001302id_/http%3A//www.farecompare.com/about/privacy-at-farecompare) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farecompare.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623090657id_/http%3A//www.farecompare.com/about/privacy-at-farecompare) for the most accurate reproduction.*
 
 # Privacy Policy
 
