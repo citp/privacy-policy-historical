@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101103800id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624004148id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
 
-# Nursing Community for Nurses - allnurses.com
+# Privacy Policy for Nurses | Nursing Students
 
-## Privacy Policy
+  * [Sign Up! It's Free!](http://allnurses.com/register.php)
+  * [What's New](http://allnurses.com/search.php?do=getnew)
+  * [Site Map](http://allnurses.com/sitemap.php)
+  * [Help](http://allnurses.com/information-center/)
+  * [Log In](http://allnurses.com/whyjoin-info.html)
 
-Because ALLNURSES.COM, INC. gathers certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+
 
 ## Commitment To Your Privacy
 
@@ -13,13 +17,15 @@ This site is owned and operated by ALLNURSES.COM, INC. . Your privacy on the Int
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-
-ALLNURSES.COM, INC.   
-
+    
+    
+    ALLNURSES.COM, INC.
+    15050 Cedar Ave, Suite #116-104
+    Apple Valley, MN 55124
 
 Or, you may contact us by [email](http://allnurses.com/sendmessage.php) or via Private Message.
 
-**Additional Information** : [Terms of Service](http://allnurses.com/index.php?do=terms "Terms of Service")
+Our [Terms of Service](http://allnurses.com/terms-info.html "Terms of Service")
 
 ## Information This Site Gathers And Tracks
 
@@ -31,7 +37,7 @@ Information ALLNURSES.COM, INC. gathers through aggregated tracking information 
 
 ALLNURSES.COM, INC. Gathers User Information In The Following Processes: 
 
-**Optional Voluntary Information**
+### Optional Voluntary Information
 
 We offer the following free services, which require some type of voluntary submission of personal information by users: 
 
@@ -55,7 +61,7 @@ We may offer interactive polls to users so they can easily share their opinions 
 
 ALLNURSES.COM, INC. may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. 
 
-**Children**
+### Children
 
 Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. 
 
@@ -122,16 +128,16 @@ Cookies are used to track visitors to our site, so we can better understand what
 
 ## DoubleClick DART Cookie
 
-\- Google, as a third party vendor, uses cookies to serve ads on ALLNURSES.COM, INC.   
-\- Google's use of the DART cookie enables it to serve ads to users based on their visit to ALLNURSES.COM, INC. and other sites on the Internet.   
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
-
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: 
 
-  * Google Adsense
-  * Kontera
-  * Chitika
-  * Amazon
+  * **Google Adsense**
+    * Google, as a third party vendor, uses cookies to serve ads on ALLNURSES.COM, INC. 
+    * Google's use of the DART cookie enables it to serve ads to users based on their visit to ALLNURSES.COM, INC. and other sites on the Internet. 
+    * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html   
+
+  * **Amazon**
+
+
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on ALLNURSES.COM, INC. send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
@@ -139,7 +145,4 @@ ALLNURSES.COM, INC. has no access to or control over these cookies that are used
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. ALLNURSES.COM, INC. 's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
-
-  
-
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
