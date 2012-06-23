@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopforumspam.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011233431id_/http%3A//stopforumspam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopforumspam.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623112858id_/http%3A//www.stopforumspam.com/privacy) for the most accurate reproduction.*
 
 # Stop Forum Spam
 
@@ -44,6 +44,10 @@ A cookie is a string of information that a website stores on a visitor's compute
 ### Ads
 
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognise your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by stopforumspam and does not cover the use of cookies by any advertisers.
+
+### API Query data
+
+All data queried via the API is recorded in the way of web server logs. These logs are kept for a period of seven days and are used for abuse and intrusion monitoring. After seven days, they are removed from the server. Some off site backups may contain partial log data. Off site backups are encrypted. No log data has been disclosed to anyone (and never will be)
 
 ### Comments
 
