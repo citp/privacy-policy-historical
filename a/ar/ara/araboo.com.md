@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the araboo.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123045115id_/http%3A//www.araboo.com/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the araboo.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623115903id_/http%3A//www.araboo.com/main/privacy.asp) for the most accurate reproduction.*
 
 # Araboo.com Privacy Policy
 
@@ -62,7 +62,7 @@ We may share with third parties certain pieces of aggregated, non-personal infor
 
 However, these third parties may place and read cookies on your browser, or may use web beacons to collect information, in the course of displaying certain parts of Araboo.com pages.
 
-We use third-party advertising companies to serve ads when you visit Araboo.com. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this website and to other websites in order to provide advertisements about goods and services of interest to you.
+We use third-party advertising companies to serve ads when you visit Araboo.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this website and to other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/).
 
 Google, as a third party advertising vendor, uses cookies to serve ads on our website. In this respect, please note the following:
 
