@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsoned.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007194853id_/http%3A//www.pearsoned.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsoned.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623023238id_/http%3A//www.pearsoned.com/privacy-policy) for the most accurate reproduction.*
 
 # Pearson | Always Learning
 
