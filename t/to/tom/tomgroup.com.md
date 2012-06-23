@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomgroup.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212001132id_/http%3A//www.tomgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomgroup.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623033059id_/http%3A//www.tomgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # TOM Group - Privacy Policy
 
