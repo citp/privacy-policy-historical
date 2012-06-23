@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukho.gov.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205419id_/http%3A//www.ukho.gov.uk/pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukho.gov.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623203029id_/http%3A//www.ukho.gov.uk/pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
