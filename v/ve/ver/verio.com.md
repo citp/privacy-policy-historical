@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verio.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628172547id_/http%3A//www.verio.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verio.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624010347id_/http%3A//www.verio.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Verio Privacy Policy
 
@@ -59,7 +59,7 @@ Verio will not, except for reasons stated below, disclose to third parties the c
 
     1. it is necessary in order to provide service to the customer; 
     2. it is necessary to protect the legitimate interests of Verio and its customers; 
-    3. it is required to cooperate with interception orders, warrants, or other legal process that Verio determines in its sole discretion to be valid and enforceable; or
+    3. it is necessary to cooperate with interception orders, warrants, or other legal process; or
     4. it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by Verio and appear to pertain to the commission of a crime.
 
 Verio disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Verio may, however, review, delete, or block access to communications that may harm Verio, its customers or third parties. The grounds on which Verio may take such action include, but are not limited to, actual or potential violations of Verio’s [Acceptable Use Policy](https://web.archive.org/about/legal/aup/) or its [Global Terms and Conditions](https://web.archive.org/order/dsp_terms.cfm). 
@@ -70,8 +70,8 @@ Questions, comments, or complaints regarding Privacy Policy and data collection 
 
 > VERIO INC.  
 >  Attention: Legal Department  
->  8005 South Chester Street, Suite 200  
->  Centennial, CO 80112  
+>  8300 E. Maplewood Avenue, Suite 400  
+>  Greenwood Village, CO 80111  
 >  [customer.privacy@verio.net](mailto:customer.privacy@verio.net)  
 >  [Opt-Out](https://web.archive.org/about/legal/privacy/solicitation/)
 
