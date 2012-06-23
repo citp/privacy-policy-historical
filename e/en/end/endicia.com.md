@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224004850id_/http%3A//www.endicia.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623025711id_/http%3A//www.endicia.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Endicia Privacy Policy
 
@@ -139,4 +139,4 @@ Palo Alto, CA 94306
 
 We may, from time to time, update our privacy policy. If we make changes to our privacy policy, the new privacy policy and new effective date will be posted on this Web site. 
 
-© Copyright 2011, DYMO Endicia, A Newell Rubbermaid Company. All rights reserved.
+© Copyright 2012, DYMO Endicia, A Newell Rubbermaid Company. All rights reserved.
