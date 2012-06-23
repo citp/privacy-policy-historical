@@ -1,175 +1,75 @@
-> *The following text is extracted and transformed from the jet2.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217153955id_/http%3A//www.jet2.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet2.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623023818id_/http%3A//www.jet2.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Jet2.com | Privacy Statement
 
-## About Us
+## Our approach to privacy
 
-This is a privacy policy for Jet2.com. Our homepage on the Web is located at [ http://www.jet2.com](https://web.archive.org/). The full text of our privacy policy is available on the Web at [ http://www.jet2.com/privacy.aspx](https://web.archive.org/privacy.aspx) Users may go to [ http://www.dartgroup.co.uk/jet2/subs/unsubscribe.asp](http://www.dartgroup.co.uk/jet2/subs/unsubscribe.asp) for information on how to opt-in or opt-out of use of their information. 
+**1.** At Jet2.com Limited we are committed to preserving the privacy of our customers and visitors to this website.
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    Jet2.com
-    PO Box 6190
-    Christchurch, Dorset BH23 9AY 
-    UK
-    
+**2.** This Privacy Policy explains what personal information we collect from users of this website and how we use that information from time to time. This Policy should be read in conjunction with our [Terms and Conditions](http://www.jet2.com/Terms.aspx).
 
-You may contact us by e-mail at [ info@jet2.com](mailto:info@jet2.com). 
+## When we collect personal information
 
-## Dispute Resolution and Privacy Seals
+**3.** We ask for personal information from you in a number of circumstances:
 
-We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern. 
-
-  * **Queries** : If you have any queries about our Privacy Policy or the use of your data please contact us at the address above. 
+  * **3.1** when you make a travel booking with us or purchase any other product or service from us - whether online or through our customer service team
+  * **3.2** when you contact us to discuss a booking or make use of our online check-in or booking management services
+  * **3.3** when you register for our loyalty programme or subscribe to our e-mail notification service or enter competitions or register for promotions
+  * **3.4** when you take part in surveys or provide us with feedback.
 
 
 
-## Additional Information
+## Why we collect personal information
 
-This policy is valid for 1 week from the time that it is loaded by a client. 
+**4.** We collect personal information to help us deliver an effective service as follows:
 
-## Data Collection
-
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
-
-* * *
-
-### Group "Browsers"
-
-We collect the following information: 
-
-  * Complete host and domain name
-  * HTTP request method
-  * Data bytes in response
-  * Response status code
-  * URI stem
-  * User agent information
-  * URI stem
-  * Search terms
+  * **4.1** to fulfil any travel booking you make with us including necessary reservation, payment and ticketing arrangements and administration associated with the travel arrangements (exceptionally this may include sensitive personal data, for example relating to your health or disabilities) and you recognise that, by providing us with such sensitive personal data, you give your explicit consent to us to process such data for the purposes set out in this policy
+  * **4.2** to provide any other product or service you have purchased from us
+  * **4.3** to deal with any queries or requests you have regarding your booking and manage any amendments you may wish to make to travel arrangements or changes we need to advise you about
+  * **4.4** to fulfil security, customs, immigration and border control requirements associated with your reservation which may include providing information to the police and appropriate government agencies
+  * **4.5** to make information available to appropriate third parties where necessary in the event of an emergency.
+  * **4.6** to provide you with information about products, services and promotions that may be of interest to you unless you have asked us not to contact you
+  * **4.7** to ensure that content from our website is presented in the most effective manner for you and for your computer?
+  * **4.8** for quality assurance testing, market analysis, systems testing, analysis of statistics, benchmarking, auditing and performance measures (which may include monitoring or recording your telephone conversations with us for the purposes set out herein).
 
 
 
-At the user's option, we may also collect the following data: 
+## Our approach to direct marketing
 
-  * HTTP cookies
+**5.** We may contact you from time to time to provide you with information which we think you may find of interest. We may also pass on your details to other members of Dart Group plc so that they can tell you about products or services which may be of interest to you.
 
+Contact may be made by post, telephone or email unless you have indicated in the appropriate section of the registration process that you do not wish to receive this information.
 
+You can contact us at any time to remove your details from our marketing database by sending an email to [www.jet2.com/Subscribe.aspx](http://www.jet2.com/Subscribe.aspx) and insert "unsubscribe" or "stop" as the appropriate subject heading or write to the following address: PO Box 304, Whitehouse Lane, Leeds, West Yorkshire, LS19 9DY. Please give your name, postal address details and your email address.
 
-This data will be used for the following purposes:
+## When we may disclose information to third parties
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+**6.** We may disclose personal information to third parties including other members of our group (including Jet2holidays Limited and any other subsidiary of our holding company, Dart Group PLC), credit card companies, airlines and third party suppliers in connection with the purposes explained above.
 
+We may disclose personal information as part of due legal process and as otherwise permitted or required by law. Some of these third parties may be located outside the European Economic Area.
 
+**7.** If we sell, assign or transfer the assets of our business, or if our business is merged, or enters into a joint venture with another business entity, we reserve the right to sell or transfer the databases maintained by us (including any personal information provided by you).
 
-This data will be used by ourselves and our agents. 
+## Security 
 
-The data in this group has been marked as non-identifiable. This means that there is no reasonable way for the site to identify the individual person this data was collected from. 
+**8.** We employ security measures to protect the information provided by you from access by unauthorised persons and against unlawful processing, accidental loss, destruction or damage. 
 
-The following explanation is provided for why this data is collected:
+## Cookies and IP addresess
 
-> Our system providers maintain standard web server logs to record details of visits to Jet2.com (your IP address, referer, information about your web browser, information about your HTTP requests, etc.). This information cannot be linked to an individual and will only be used by us and our server administrators for website and system administration, and for improving Jet2.com. This data is retained indefinitely. We use a cookie to remember your language preference for Jet2.com. This cookie is set to expire 10 years from the time it is set but can be safely deleted, should you wish to do so, at any time without major effect on your use of our website. Not accepting the cookie will have no major impact on your use of the site.
+**9.** Similar to other commercial websites, our website utilises a standard technology to collect information about how our website is used by individual computers connected to the internet. Information is gathered through cookies and Web server logs which allow us to monitor website traffic and to personalise the content of the site for you.
 
-* * *
+**10.** Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. 
 
-### Group "Bookers"
+## Accessing your information
 
-We collect the following information: 
+**11.** Individuals are entitled to see a copy of the personal information that we have collected and maintain about them. If you wish to do this, please email us at [informationrequest@jet2.com](mailto:informationrequest@jet2.com). We may charge a small fee to meet our costs in providing you with these details.
 
-  * HTTP cookies
-  * Full IP address
-  * Name Prefix
-  * Given Name (First Name)
-  * Family Name (Last Name)
-  * Home street address
-  * City
-  * State or Province
-  * Postal Code
-  * Country Name
-  * Home phone number
-  * Home e-mail address
-  * Name Prefix
-  * Given Name (First Name)
-  * Family Name (Last Name)
-  * Purchase information
-  * Financial information
+## Special Notice for Customers Travelling to the United States of America
 
+**12.** Passengers making reservations to destinations in the United States of America should note that in accordance with an International Agreement between the European Union and the United States, we are required to transfer to the US Department of Homeland Security ("DHS") certain travel and reservation data about passengers flying between the European Union and the United States of America. 
 
+US authorities use this information for preventing and combating terrorism and other transnational serious crimes. For further information about the way in which the DHS uses this data please see : [www.dhs.gov](http://www.dhs.gov/) and this [PDF](http://www.dhs.gov/xlibrary/assets/privacy/privacy_faq_pnr_cbp.pdf). 
 
-This data will be used for the following purposes:
+## Contact us
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development, including market research.
-  * Historical preservation.
-
-
-
-This data will be used by ourselves and our agents. 
-
-The following explanation is provided for why this data is collected:
-
-> The information collected during our booking process is required in order to make a booking with Jet2.com and to pass payment details to your card issuer to pay for your booking. The contact information entered during the booking process is retained to allow us to contact you in case of queries or amendments to flight details. Postcode data may be used by us for our own research and product development. Jet2.com uses up to date industry procedures to protect your personal information from unauthorised access, use, disclosure or loss. When booking a flight with Jet2.com the personal information provided to us is held securely on servers (outside the European Union) using security measures that are consistent with best Internet practice. To ensure the security of your payment card information we use the latest Secure Socket Layer (SSL) technology. If your browser supports SSL, please select the Secure Mode option when confirming your booking. If you are restricted by the capabilities of your browser then you can use the non-secure mode but we recommend that you upgrade to the latest version of any browser to give you extra reassurance during any further transactions. Our system sets a cookie for each booking session to ensure information is stored separately for each individual booking and to help optimise the performance of the website. This cookie cannot be linked to an individual and expires when the booking session is complete. 
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * Site administration 
-  * Completing the user's current activity 
-  * Research and development 
-
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="CAO DSP COR CURa ADMa DEVa HISa OUR IND PHY ONL UNI PUR FIN COM NAV INT DEM PRE"
-    
-
-The following table explains the meaning of each field in the compact policy. 
-
-**Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`CAO` |  Access is available to contact and other information.   
-`DSP` |  The policy contains at least one dispute-resolution mechanism.   
-`COR` |  Violations of this policy will be corrected.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`HISa` |  The data is used for historical archival purposes.   
-`OUR` |  The data is given to ourselves and our agents.   
-`IND` |  The data will be kept indefinitely.   
-`PHY` |  Physical contact information is collected.   
-`ONL` |  Online contact information is collected.   
-`UNI` |  Unique identifiers are collected.   
-`PUR` |  Purchase information is collected.   
-`FIN` |  Financial information is collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-`DEM` |  Demographic and socioeconomic data is collected.   
-`PRE` |  Preference information is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+**13.** All comments, queries and other requests relating to our use of personal information should be sent by post to the Customer Service team at Jet2.com Limited, Customer Care Team, PO Box 314, Leeds, LS19 9FY, England.
