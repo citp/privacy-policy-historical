@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224133732id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623055425id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,6 @@ Car Audio & Mobile Video
 [Thiele - Small Parameters](http://www.the12volt.com/caraudio/thiele.asp "Thiele - Small Paramaters")  
 [Miscellaneous](http://www.the12volt.com/info/diagrams.asp#cs "Miscellaneous Car Audio Applications")  
 [Relay Diagrams](http://www.the12volt.com/relays/relaydiagrams.asp "Relay Diagrams - Quick Reference - Dozens of diagrams at your fingertips!")  
-[The Application Guide](http://www.the12volt.com/installbay/appguide.asp "the12volt's Application Guide - Dozens of application guides in one!")  
 [Vehicle Wiring Database](http://www.the12volt.com/installbay/vehicles.html "Vehicle Wiring Information")  
 Car Security & Convenience  
 [Introduction](http://www.the12volt.com/carsecurity/carsecurity.asp "Car Security Introduction")  
@@ -36,8 +35,8 @@ Car Security & Convenience
 [Light Flash](http://www.the12volt.com/relays/page4.asp "Light Flash")  
 [Power Door Locks](http://www.the12volt.com/doorlocks/doorlocks.asp "Door Locks, Switch Types & Diagrams")  
 [Starter Interrupts](http://www.the12volt.com/relays/page2.asp "Starter Interrupts")  
+[Pictorials](http://www.the12volt.com/installbay/forum_topics.asp~FID~24 "Car Alarm, Keyless Entry, and Remote Starter Pictorials")  
 [Relay Diagrams](http://www.the12volt.com/relays/relaydiagrams.asp "Relay Diagrams - Quick Reference - Dozens of diagrams at your fingertips!")  
-[The Application Guide](http://www.the12volt.com/installbay/appguide.asp "the12volt's Application Guide - Dozens of application guides in one!")  
 [Vehicle Wiring Database](http://www.the12volt.com/installbay/vehicles.html "Vehicle Wiring Information")  
 Cruise Controls  
 [Introduction](http://www.the12volt.com/cruisecontrol/cruisecontrol.asp "Cruise Control Introduction")  
@@ -45,40 +44,42 @@ Cruise Controls
 [Mechanical Connections](http://www.the12volt.com/cruisecontrol/cruisecontrol.asp#mech "Mechanical Connections")  
 [Servo Settings](http://www.the12volt.com/cruisecontrol/cruisecontrol.asp#servo "Micro Cruise Switch Settings")  
 [VSS and Tach Info](http://www.the12volt.com/cruisecontrol/cruisecontrol.asp#special "VSS & Tachometer Information")  
-[The Application Guide](http://www.the12volt.com/installbay/appguide.asp "the12volt's Application Guide - Dozens of application guides in one!")  
 [Vehicle Wiring Databse](http://www.the12volt.com/installbay/vehicles.html "Vehicle Wiring Information")  
 Forums  
 [All Forums](http://www.the12volt.com/installbay/default.asp "Mobile Electronics Installation Forums")  
 [Buy & Sell Equipment](http://www.the12volt.com/installbay/forum_topics.asp~FID~11 "Buy & Sell Equipment")  
 [Car Audio](http://www.the12volt.com/installbay/forum_topics.asp~FID~2 "Car Audio")  
+[Car Audio Hot Topics](http://www.the12volt.com/installbay/forum_topics.asp~FID~22 "Car Audio Hot Topics")  
 [Car Security & Convenience](http://www.the12volt.com/installbay/forum_topics.asp~FID~3 "Car Security & Convenience")  
+[Car Security Hot Topics](http://www.the12volt.com/installbay/forum_topics.asp~FID~23 "Car Security & Convenience Hot Topics")  
+[Car Security Pictorials](http://www.the12volt.com/installbay/forum_topics.asp~FID~24 "Car Security & Convenience Pictorials")  
 [Cellular & Communications](http://www.the12volt.com/installbay/forum_topics.asp~FID~17 "Cellular & Communications")  
 [Cruise Controls](http://www.the12volt.com/installbay/forum_topics.asp~FID~10 "Cruise Controls")  
 [Employment](http://www.the12volt.com/installbay/forum_topics.asp~FID~14 "Employment")  
 [Fiberglass & Fabrication](http://www.the12volt.com/installbay/forum_topics.asp~FID~16 "Fiberglass, Fabrication & Interiors")  
-[Forum Help & How To](http://www.the12volt.com/installbay/forum_topics.asp~FID~15 "Forum Help & How To's")  
 [General Discussion](http://www.the12volt.com/installbay/forum_topics.asp~FID~1 "General Discussion")  
 [Lights, Neon, LEDs, HIDs](http://www.the12volt.com/installbay/forum_topics.asp~FID~18 "Lights, Neon, LEDs, HIDs")  
 [Miscellaneous](http://www.the12volt.com/installbay/forum_topics.asp~FID~4 "Miscellaneous - Off Topic")  
 [Mobile Video & Navigation](http://www.the12volt.com/installbay/forum_topics.asp~FID~9 "Mobile Video, Navigation")  
 [Motorcycle Electronics](http://www.the12volt.com/installbay/forum_topics.asp~FID~21 "Motorcycle Electronics")  
 [Music, Favorite Songs](http://www.the12volt.com/installbay/forum_topics.asp~FID~19 "Music, Favorite Songs, Movies, Videos, Test CD's")  
-[Forum & Site Notices](http://www.the12volt.com/installbay/forum_topics.asp~FID~12 "Notices")  
 [Relays](http://www.the12volt.com/installbay/forum_topics.asp~FID~5 "Relays")  
 [Rides & Systems Gallery](http://www.the12volt.com/installbay/forum_topics.asp~FID~20 "Rides & Systems Gallery")  
 [Vehicle Information](http://www.the12volt.com/installbay/forum_topics.asp~FID~7 "Vehicle Information Requests")  
-[Last 100 Forum Topics](http://www.the12volt.com/installbay/last100.asp "Last 100 Topics")  
+[Recent Forum Topics](http://www.the12volt.com/installbay/last100.asp "Last 100 Topics")  
+[Forum Help & How To](http://www.the12volt.com/installbay/forum_topics.asp~FID~15 "Forum Help & How To's")  
+[Forum & Site Notices](http://www.the12volt.com/installbay/forum_topics.asp~FID~12 "Notices")  
 General Information  
 [Books & DVDs](http://www.the12volt.com/links/books.asp "Recommended Books and DVDs")  
 [Calculators](http://www.the12volt.com/info/diagrams.asp#cal "Index of Calculators")  
 [Charts](http://www.the12volt.com/info/diagrams.asp "Index of Charts")  
 [Diagrams](http://www.the12volt.com/info/diagrams.asp "Index of Diagrams")  
-[Downloads](http://www.the12volt.com/installbay/downloads.asp "Download Manuals, Diagrams, Tech Tips and More!")  
+[Downloads - Manuals](http://www.the12volt.com/installbay/downloads.asp "Download Manuals, Diagrams, Tech Tips and More!")  
 [Find an Installer](http://www.the12volt.com/installbay/findinstaller.asp "Installer Database - Search and Add Installer Listings")  
 [Forums - Q&A](http://www.the12volt.com/installbay "It´s Free and Easy to Join! Post Questions! - Get Answers!")  
 [Glossary of Terms](http://www.the12volt.com/glossary/glossaryofterms/A.html "Mobile Electronics Glossary")  
 [Insurance for Car Stereos](http://www.the12volt.com/insurance/insurance.asp "Insurance for Car Stereos and Accessories")  
-[Links](http://www.the12volt.com/links/links.asp "Includes Car Audio, Security, & Cruise Control Manufacturers, Web Development Resources, & More!")  
+[Links](http://www.the12volt.com/links/links.asp "Includes Car Stereo, Mobile Video, Navigation, Car Alarm, and Cruise Control Manufacturers, Resources, & More!")  
 [Mobile Tech News](http://www.the12volt.com/news/news.asp "Mobile Technology News")  
 [Relay Diagrams](http://www.the12volt.com/relays/relaydiagrams.asp "Relay Diagrams - Quick Reference - Dozens of diagrams at your fingertips!")  
 [The Application Guide](http://www.the12volt.com/installbay/appguide.asp "the12volt's Application Guide - Dozens of application guides in one!")  
@@ -140,9 +141,7 @@ Third party advertisers may be placing and reading cookies on your browser, or w
 **Google and the[DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):**  
 Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).   
   
-  
-|    
-
+| 
 
 | Search the12volt.com  
 ---  
