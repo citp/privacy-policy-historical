@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128094054id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623063226id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
 
 # ZingerBug.com Privacy Policy
 
@@ -27,7 +27,7 @@ Popular Links Horizontal Menu
 
 Upcoming Holidays Horizontal Menu
 
-_**Upcoming Holidays**_     [ Veterans Day - 11/11](http://www.zingerbug.com/holidays/veterans/index.htm)   [ Thanksgiving - 11/24](http://www.zingerbug.com/holidays/thanksgiving/index.htm)   [ Winter](http://www.zingerbug.com/holidays/winter/index.htm)   [Hanukkah - 12/20-12/28](http://www.zingerbug.com/holidays/Hanukkah/index.htm)   [Christmas - 12/25](http://www.zingerbug.com/holidays/christmas/index.htm)   [ Kwanzaa - 12/26-1/1](http://www.zingerbug.com/holidays/index_pages/kwanzaa_page1.htm)  
+_**Upcoming Holidays**_     [Armed Forces Day - 5/19](http://www.zingerbug.com/holidays/ArmedForces/index.htm)    [Memorial Day - 5/28](http://www.zingerbug.com/holidays/MemorialDay/index.htm)   [Flag Day - 6/14](http://www.zingerbug.com/holidays/FlagDay/index.htm)   [Fathers Day - 6/17](http://www.zingerbug.com/holidays/FathersDay/index.htm)    [Juneteenth - 6/19](http://www.zingerbug.com/holidays/juneteenth/index.htm)    [Summer](http://www.zingerbug.com/holidays/summer/index.htm)    [4th of July](http://www.zingerbug.com/holidays/July4/index.htm)  
   
 Bookmark Us! (Ctrl+D)  Top Menu
 
