@@ -1,51 +1,98 @@
-> *The following text is extracted and transformed from the keithurban.net privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130184102id_/http%3A//www.keithurban.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keithurban.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623055619id_/http%3A//www.keithurban.net/privacy) for the most accurate reproduction.*
 
-# Keith Urban :: Privacy Policy
+# Privacy Policy ~ Keith Urban
 
-**This web site is powered by products and services from BubbleUp Ltd. (BubbleUp). BubbleUp's privacy policy is below.**
+### Introduction
 
-**For keithurban.net's privacy policy, please contact them directly.**
+Sparkart Group, Inc. (“Sparkart”) cares deeply about your privacy and the protection of your personal information, and we have devised this Privacy Policy so you are informed about the use and protection of your personal information. By using the Sparkart Services, you consent to the data practices described in this policy statement. Defined terms designated in the [Terms of Service](https://web.archive.org/terms) shall have the same definitions in this Privacy Policy.
 
-**Privacy Statement for BubbleUp.**
+### Collection of Personal Information
 
-BubbleUp has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for BubbleUp and all other Web sites powered by BubbleUp.
+When you register for the Sparkart Services, you may be asked to provide certain personal information that may be stored as part of your registration data. The registration data contains various personal information which may include, but not be limited to, the following: (1) e-mail address, (2) first and last name, (3) country or region, (4) state or territory, (5) city, (6) zip code or postal code, (7) street address, (8) time zone, (9) gender, (10) language, (11) birth date and age, and (12) occupation. In addition to the above information, Sparkart may also collect and store the IP address of your computer or other networking device, which may be needed to operate various features and functionality of the Sparkart Services. We may also collect data pertaining to your online transactions, purchase history, and Sparkart Site and Sparkart Services usage patterns. Further, when you register for the Sparkart Services, you may be asked to create a password for your account. You may also be requested to provide secret questions and secret answers. You use your secret questions and answers, if applicable, to help verify your identity to Sparkart when there are account issues, such as needing to reset your password. You may also be requested to answer various questions and/or surveys about your consumer preferences or other information. Finally, we and some participating sites may require added security. In these cases, you may be asked to create a Clique ID security key. Sparkart may store the information described in this paragraph in its Clique ID system.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
+### Clique ID
 
-BubbleUp uses cookies to keep track of your shopping cart in the stores and to keep track of your membership status on the Web site. We use cookies to save your password so you don't have to re-enter it each time you visit our site. The cookies we use only track your currently logged in status or your shopping cart status.
+Clique ID, which is owned and operated by Sparkart and is a part of the Sparkart Services, is a common account system that makes it possible for you to use your e-mail address and a single password to easily register, sign in, interact and conduct various transactions on the various websites, services and systems participating in the Clique ID system.
 
-Our registration form requires users to give us contact information (name and e-mail address) and demographic information (zip code). The customer's contact information is used to contact the visitor when necessary and may be shared with other select companies who want to contact the user. Users may opt-out of receiving mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We do not share mailing address, credit card, or any personally identifiable information with other companies. Demographic and profile data are used only for personalized Web content and statistical information and are not shared with other companies except in ways that do not personally identify our users.
+### Use of Your Personal Information
 
-This site contains links to other sites. BubbleUp is not responsible for the privacy practices or the content of such Web sites. We place advertising on our site that originates from third party advertisers and/or advertising agencies. Even though these advertisements are embedded in our Web site, cookies may be assigned by the advertisers themselves. BubbleUp does not control those cookies.
+Sparkart will not use or share your personal information in a manner that differs from what is described in this Privacy Policy without your prior consent.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (e-mail address) and financial information (credit card numbers). Contact information from the order form is used to send our customers' orders and information about our company and about companies we choose. The customer's contact information is also used to get in touch with the visitor when necessary and may be shared with other select companies who want to contact the user. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial and contact information that is collected is used to bill the user for products and services and may be shared with companies that help us operate our site, such as the credit card companies that we use.
+Sparkart may provide, sell, rent and/or disclose your personal information to the following third parties: the third party for whom we operate this Sparkart Site or Sparkart Service (that is, the person, company, entity or organization behind the recording artist, performer, sports star, public figure, celebrity, music festival, event, apparel brand, retailer, entertainment brand, or the like for whom we operate the site, sell merchandise, or provide other services). Please be aware that these third parties may have their own policies governing how they will use and disclose your personal information which may be different from this Privacy Policy.
 
-BubbleUp runs contests on our site in which we ask visitors for contact information (e-mail address) and demographic information (zip code). We use contact data from our contests to send users information about our company and about companies we choose. The customer's contact information is also used to contact the visitor when necessary and may be shared with other select companies who want to contact the user. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We may share your contact and demographic information with the contest prize providers.
+Sparkart uses your personal information for the operation and maintenance of your Sparkart account and the Sparkart Services. For example, we may use your e-mail address to send you a welcome e-mail message when you first register informing you about the service and telling you how to manage your Sparkart account. You may be required to respond to this e-mail in order to validate that you are the owner of the email address associated with the Sparkart account. If applicable, failure to respond to the email and verify the address within the time stated in the email will cause the Sparkart account to become inactive. This process is designed to verify the validity of the email address and to help prevent email addresses from being used without permission in the creation of Sparkart accounts.
 
-BubbleUp provides online ticketing to venues and artists in which we ask customers for contact information (e-mail address and mailing and billing addresses). BubbleUp provides your contact information to the venues, artists and/or promoters of the events for which you purchase tickets. By purchasing tickets, you acknowledge that BubbleUp has no control over and is not responsible for the privacy policies of those venues, artists or promoters or their subsequent use of your contact information.
+As part of the Sparkart Services, we may recommend for your consideration various services, products and merchandise. Accordingly, we may analyze data pertaining to your online transactions, purchase history, and Sparkart Site and Sparkart Services usage patterns so that we can make recommendations suited especially to you.
 
-In addition, BubbleUp collects and stores statistics and other information about the online activities of our users on an aggregated (collected) basis. For example, we track the number of people who view each page, the order in which pages are viewed, and other information to learn which features are the most popular and to refine our design and marketing efforts.
+We may also send you e-mail about periodic service updates, recommended security updates, or surveys related to the Sparkart Services or other matters. These periodic e-mails are considered essential to the provision of the service you have requested. You cannot unsubscribe from these mailings. You may, however, choose not to participate in the surveys.
 
-You agree that we may assign, sell, license or otherwise transfer to a third party your personal information in connection with an assignment, sale, joint venture or other transfer or disposition of all or substantially all of the assets or capital stock of BubbleUp or its affiliated entities.
+### Disclosure of Personal Information
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Sparkart occasionally hires other companies to provide limited services on our behalf or to fulfill a service or transaction you may have requested, such as answering customer support inquiries, fulfilling merchandise orders, selling concert tickets, etc. Sparkart will only provide these companies with those pieces of your personal information needed to deliver the services.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our database servers are protected from intruders by a Cisco firewall router and your credit card transactions are enacted using 128-bit SSL encryption. We may be required to release personal information about you as a result of a lawsuit or subpoena or as immediately necessary to protect our rights or the rights and safety of others. Additionally, "perfect security" does not exist on the internet.
+Sparkart may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on Sparkart; (b) protect and defend the rights or property of Sparkart; or (c) act under exigent circumstances to protect the personal safety of users of the Sparkart Service, or the public.
 
-BubbleUp strongly encourages parents and guardians to supervise their children's online activities and to consider using parental control tools available from online services and software manufacturers to help provide a child-friendly online environment. These tools also can prevent children from disclosing online their name, address, and other personally identifiable information without parental permission. Tickets for sale are intended for purchase by adults. By making a purchase on the site, you agree that you are at least 13 years of age. Although the BubbleUp site is not directed to children under the age of 13, BubbleUp does
+### Disclosure of Personal Information to Clique ID Participating Sites
 
-NOT collect online contact information from children under the age of 13 without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent.
+The information about you stored in the Clique ID system is not shared with a Clique ID participating site, service or system unless you explicitly choose to use your Clique ID to register or sign in with the participating site When you use your Clique ID to register or sign in with the participating site, service or system, the participating site will receive some or all of the information about you stored in the Clique ID system It is important for you to read the privacy statement for each Clique ID participating site, service or system that you visit before you register or sign in, so that you understand how that site may use your personal information Also, if you registered for a Clique ID through a participating site, service or system, then that registering site will receive the profile information at the time of registration.
 
-NOT collect personally identifiable offline contact information from children under the age of 13 without prior parental consent.
+### Use of Information by Clique ID Participating Sites
 
-NOT distribute to third parties any personally identifiable information with respect to children under the age of 13 without prior parental consent.
+Clique ID participating sites, services and systems with whom you choose to share the information can use it for a variety of purposes. These can include personalizing your experience at their sites and reducing registration time by using information in your Clique ID account to pre-fill their registration forms. Clique ID participating sites and services may share your personal information with third parties in order to fulfill a service or transaction you may have requested. In addition, participating sites may share your personal information with third parties as permitted by their own privacy policies.
 
-NOT give the ability to publicly post or otherwise distribute personally identifiable contact information with respect to children under the age of 13 without prior parental consent.
+To become a Clique ID participating site or service, the operator must agree to have a posted privacy policy and to use commercially reasonable efforts to comply with industry-standard privacy guidelines and practices. Nevertheless, we do not control or monitor the privacy practices of Clique ID participating sites, services or systems and the privacy practices of those sites will vary. You should carefully review the privacy statement for each Clique ID participating site you sign in to in order to determine how each site or service will use the information it collects.
 
-NOT entice children under the age of 13 by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
+If Sparkart becomes aware of ongoing, site-specific privacy issues with a Clique ID participating site, service or system, we will work to address those issues with the site. If at any time you believe that a Clique ID participating site has not adhered to these principles, please notify Customer Service.
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+### Managing Your Personal Information
 
-_This site gives users the option of removing their information from our database to not receive future communications or to no longer receive our service._
+You can always add, update, or make other changes to the registration information stored in relation to your Clique ID. This is accessible by signing in to any Clique ID site in which you are registered. If you have a Clique ID, you may close your Clique ID account by [contacting Customer Service](mailto:support@sparkart.com).
 
-Simply update your email preferences on the site.
+### Sharing Your Personal Information
+
+If you choose, you may opt-in to various features which may be available as part of the Sparkart Services which allow you to voluntarily share information, whether to a group of Sparkart users designated by you (for example, a “buddy list” or “friends” who also have a Clique ID) or to everyone (for example, when you post user generated content to a publicly accessible area on a website).
+
+### Security and Storage of Your Personal Information
+
+Sparkart is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access and located in controlled facilities.
+
+You must type the correct password to access your information. It is your responsibility to ensure the security of your Sparkart account password and not to reveal this information to others.
+
+Personal information collected by Sparkart may be stored and processed in the United States or any other country in which Sparkart or its affiliates, subsidiaries, or agents maintain facilities. By using the Sparkart Service, you consent to any such transfer of information outside of your country.
+
+### Operational Information
+
+Some “operational” information is used by Sparkart in order to operate your account properly and provide the Sparkart Services. This operational information does not include the personal information that you provide as part of your Sparkart registration data, but may include, for example, the following: the date on which your registration data was last updated, whether your e-mail address has been verified, whether your account has been deactivated, what browser you are using, the IP address of your computer or other networking device, and other similar types of information. Operational information may be shared with third parties to the extent necessary to provide the Sparkart Services.
+
+### Aggregate Information
+
+We may collect and analyze information about your use of the Sparkart Services as aggregated with the use of the Sparkart Services by other users (“Aggregate Information”); for example, overall usage patterns of Sparkart users, the total number of Sparkart users, the percentage of Sparkart users who are female, or in a certain age range, or who live in a particular region, etc., or the percentage of Sparkart users who are also consumers of various other products and services. The collection and analysis of Aggregate Information is important in the operation and enhancement of the Sparkart Services and other business purposes. Aggregate Information may be compiled in reports and disclosed, sold, licensed or rented to third parties. However, since Aggregate Information does not include any information that can be used to individually identify you or any other Sparkart user, it is not possible for the third party recipient of the Aggregate Information to use it to identify or contact you.
+
+### Analytics
+
+This Sparkart Site or Service may use a third party web analytics service, including, but not limited to ClickTale. Sparkart and/or such third party analytics company may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this Sparkart Site or Service. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites that do not use ClickTale services. Sparkart may use the information described in this paragraph for improving overall usability, determining the success of new features, identifying areas for potential new features and other improvements, testing design changes, and/or other business and marketing purposes. You can choose to disable the ClickTale Web Analytics Service (if such service is used on this Sparkart Site or Service) at http://www.clicktale.net/disable.html.
+
+### Use of Cookies
+
+A cookie is a very small text file that a website saves to your computer’s hard disk to store information that you provide about yourself or to store your preferences. The Sparkart Services may use cookies when you sign in to or access a Sparkart Site or Service. The Sparkart Services store your unique identifier, the time you signed in, and Sparkart registration data in an encrypted cookie on your hard disk. The cookie allows you to move from page to page at the participating site without having to sign in again on each page.
+
+The Sparkart Services may also use cookies to improve the sign in experience. For example, the Sparkart Services may store your user name in a cookie that will remain on your computer after you sign out. This cookie allows your user name to be entered automatically, so that you will only need to type your password the next time you sign in.
+
+You may have the ability to accept or decline cookies using the settings on your browser. However, if you choose to decline cookies, you may not be able to sign in or use the Sparkart Services.
+
+### Changes to This Privacy Policy
+
+Sparkart may occasionally update this Privacy Policy. When we do, Sparkart will endeavor to provide notice to users in one or more of the following ways: (1) Sparkart will update the “last updated” date at the bottom of the Privacy Policy; (2) Sparkart may post notice of the update as a news post on the Sparkart Site; and (3) Sparkart may email notice of the update to all registered users. Sparkart will obtain your consent to any updates to this Privacy Policy in which there is an expansion of the sharing or use of your personal information.
+
+### Contact Us
+
+If you have questions regarding this Privacy Policy, please [contact Customer Service](mailto:support@sparkart.com).
+
+### Consumer Notice
+
+Sparkart Group, Inc. is a California corporation. Pursuant to California Civil Code § 1789.3, Sparkart Group, Inc. sets forth the following: (a) Sparkart Group, Inc. is located at 1714 Franklin Street, 2nd Floor, Oakland, CA 94612; (b) the fees and charges imposed on consumers of Sparkart Group, Inc. vary depending on the services you choose; and (c) if you have any complaints about Sparkart Group, Inc. or wish to receive further information about Sparkart Group, Inc., please [contact Customer Service](mailto:support@sparkart.com). For complaints against Sparkart Group, Inc., you may also contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs by (1) visiting www.dca.ca.gov/about_dca/contactus.shtml; (2) sending an email to dca@dca.ca.gov; (3) calling (800) 952-5210; or (4) writing to Department of Consumer Affairs, Consumer Information Division,
+
+1625 North Market Blvd., Suite N, 112  
+Sacramento, CA 95834.
+
+**Last Updated: June 30, 2010**
