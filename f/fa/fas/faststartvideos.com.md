@@ -1,60 +1,77 @@
-> *The following text is extracted and transformed from the faststartvideos.com privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014143057id_/http%3A//faststartvideos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faststartvideos.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623152218id_/http%3A//faststartvideos.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Fast Start Videos
 
-**PRIVACY POLICY**  
-Welcome to Fast Cash For Newbies (the "Site").
+**WEBSITE PRIVACY POLICY**  
+ 
 
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Fast Cash For Newbies (collectively, "Services") ("Authorized Customers").
+The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to FastStartVideos.com to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
 
-**"Personally Identifiable Information"**   
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
-or demographic information not connected to an identified individual.
+We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, FastStartVideos.com follows different principles in accordance with worldwide practices for customer privacy and data protection.
 
-**What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+**NOTICE**  
+We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create your membership and/or subscribe to member updates or other in house mail. We use your Personal Information for four primary purposes:
 
-**What organizations are collecting the information?**  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+To make the site easier for you to use by not having to enter information more than once. 
 
-**How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.  [](http://www.weblawgenerator.com/)
+To help you quickly find software, services or information. 
 
-**With whom may the information may be shared?**  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
+To help us create content most relevant to you. 
 
-**How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by Fast Cash For Newbies is securely stored and is not accessible to third parties or employees of Fast Cash For Newbies except for use as indicated above. 
+To alert you to product upgrades, special offers, updated information and other new services from FastStartVideos.com . 
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us 
+**CONSENT**  
+If you choose not to register or provide personal information, you cannot access the member area. 
 
-**Are Cookies Used on the Site?**  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our member update or special offers. If you do not want us to communicate with you about other offers regarding FastStartVideos.com products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from FastStartVideos.com . 
 
-**How does www. Fast Cash For Newbies use login information?  
-**Fast Cash For Newbies uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+**ACCESS**  
+We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time from your member profile. There, you can:
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-Fast Cash For Newbies has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.   
-Our privacy policy does not cover their collection or use of this information.   
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+View and edit personal information you have already given us. 
 
-**How does the Site keep Personally Identifiable Information secure?**  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
+Tell us whether you want us to send you member updates or special offers.
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us 
+**SECURITY**  
+FastStartVideos.com has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honoured. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit you Personal Information via secured and encrypted channels if you use a similarly equipped web browser.
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting contact us. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+These security measures are in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration. 
 
-**What happens if the Privacy Policy Changes?**  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-**Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
+FastStartVideos.com strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
 
-**Age restrictions:**  
-By using this site, you agree that you are over 18 years of age.
+Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in the USA or any other country where FastStartVideos.com , its subsidiaries, affiliates or agents are located.
+
+You also have a significant role in protecting your information. No one can share these see or edit your personal information without knowing your user name and password, so do not with others.
+
+**NOTICE CONCERNING CHILDREN AND TO PARENTS**  
+We adhere to the Children's Privacy Act. You must be 18 years of age to join or use FastStartVideos.com or any of the recommended or linked sites. This site follow the guidelines, policies and laws of the Federal Trade Commission (www.ftc.gov). We retain the right to refuse anyone membership in any of our sites. If we learn or have reason to believe that a User is underage according to the guidelines, policies and laws of the Federal Trade Commission, we will promptly revoke that User’s account and delete any personal information.
+
+**ENFORCEMENT**  
+If for some reason you believe FastStartVideos.com has not adhered to these principles, please notify us  by certified mail, return receipt requested, 2248 Meridian Boulevard Suite H., Minden, NV 89423, United States. We will do our best to determine and correct the problem promptly. 
+
+**ELECTRONIC PRODUCT REGISTRATION**  
+When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we merge your registration information with any information you've already left with us (we call that information your personal profile). If you haven't previously registered with us, we create a personal profile for you from your product registration information. If you ever want to review or update that information, you can click on Update Profile, and edit any of the Personal Information in your profile. If you haven't already created a membership, we will ask you to do so. This ensures that only you can access your information.
+
+**CUSTOMER PROFILES**  
+As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification username, which helps us ensure that only you can access your profile.
+
+When you register, you create your profile, your username and password. It is your passport to seamless travel across your member area, allowing you to download software and order more plug-in modules without having to fill out registration forms with information you've already provided. Even if you switch computers, you won't have to re-register – just use your Registration ID to identify yourself. 
+
+**WHAT WE DO WITH THE INFORMATION YOU SHARE**  
+When you join us, you provide us with your contact information, including your name and email address. We use this information to send you updates about your order, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer. When you order from us, our 3rd party payment processors such as PayPal ask for your credit card number and billing address. They use this information only to bill you for the product(s) you order at that time. 
+
+We occasionally hire other companies to provide limited services on our behalf, including programming, answering customer questions about products or services, sending email and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+
+**CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION**  
+Except as otherwise provided in this Privacy Policy, FastStartVideos.com will not share your personal information with any third parties without your consent. 
+
+FastStartVideos.com will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on FastStartVideos.com or the site; (b) protect and defend the rights or property of FastStartVideos.com and its family of Websites; (c) enforce our TOS; or (d) act under exigent circumstances to protect the safety of the public or users of the Site.
+
+If your information is lost or stolen, you must promptly notify us if your credit card, user name, or password is lost, stolen, or used without permission. In such an event, we will remove that credit card number, user name, or password from your account and update our records accordingly.
+
+The Site contains links to other websites. We are not responsible for the privacy practices or the content of such websites. We also make email services, bulletin board services, chat areas, news groups, forums, communities, personal web pages, calendars, photo albums, file cabinets and/or other message or communication facilities designed to enable User to communicate with others (each a "Communication Service" and collectively "Communication Services") available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your Personal Information.
+
+**UPDATES AND CHANGES TO PRIVACY POLICY**  
+We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
