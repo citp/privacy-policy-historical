@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626005658id_/http%3A//tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624005536id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
 
 # The Tennis Recruiting Network
 
 [](http://www.tennis-warehouse.com/?from=recruit)
 
-[](http://www.princetennis.com/)
+[](http://www.athleticdna.com/)
 
 [](http://www.babolat.com/)
 
-[](http://www.itatennis.com/)
+[](http://www.smithstearns.com/)
 
-[](http://www.tennisoncampus.com/)
+[](http://www.imgacademies.com/nick-bollettieri-tennis-academy/)
 
-[](http://www.tennisrecruiting.net/article.asp?id=618&sessionid=068BEB4E383071DC)
+[](http://www.advantagetennisacademy.com/main.html)
+
+[](http://www.tennisrecruiting.net/article.asp?id=618&sessionid=65F65BB804E806BE)
 
 | 
 
@@ -128,16 +130,22 @@ Marietta, GA 30007-1912
 
 RECENT COMMITMENTS 
 
-| [](http://www.tennis-warehouse.com/?from=recruit)|  THE LATEST FROM TENNIS WAREHOUSE  
+| [](http://www.tennis-warehouse.com/?from=recruit)|  WTA GEAR - RACQUETS   
 ---|---  
   
-  * Kneissl racquets are back at TW. We managed to scoop up the last remaining stock. Get 'em while you can:[Kneissl Tennis Racquets](http://www.tennis-warehouse.com/kneisslracquets.html?from=recruit)  
- 
-  * We've wrapped up our latest racquet review: Del Potro's Wilson Tennis BLX Pro Tour.[Wilson BLX Pro Tour Tennis Racquet Review](http://www.tennis-warehouse.com/reviews/PTBLX/PTBLXreview.html?from=recruit)  
- 
-  * We're now carrying Roxy apparel! There's everything from tanks and dresses to wristbands and head bands.[Roxy Women's Tennis Apparel](http://www.tennis-warehouse.com/catpage-WAROXY.html?from=recruit)  
- 
-
+[](http://www.tennis-warehouse.com/player.html?ccode=JHENIN&from=recruit) |   |  **Justine Henin** [Wilson BLX Tour](http://www.tennis-warehouse.com/Wilson_BLX_Tour/descpageRCWILSON-WTBLX.html?from=recruit)  
+Buy Now: $99.00  
+[Review](http://www.tennis-warehouse.com/reviews//review.html?from=recruit), [Feedback](http://www.tennis-warehouse.com/feedback-.html?from=recruit), [Video](http://www.tennis-warehouse.com/video/vid.html?pcode=&from=recruit)  
+---|---|---  
+[](http://www.tennis-warehouse.com/player.html?ccode=ACHAK&from=recruit) |   |  **Anna Chakvetadze** [Wilson BLX Blade 98 Pink](http://www.tennis-warehouse.com/Wilson_BLX_Blade_98_Pink/descpageRCWILSON-BLXBP.html?from=recruit)  
+Buy Now: $169.00  
+[Review](http://www.tennis-warehouse.com/reviews/BLXBP/BLXBPreview.html?from=recruit), [Feedback](http://www.tennis-warehouse.com/feedback-BLXBP.html?from=recruit), [Video](http://www.tennis-warehouse.com/video/BLXBPvid.html?pcode=BLXBP&from=recruit)  
+[](http://www.tennis-warehouse.com/player.html?ccode=VAZARENKA&from=recruit) |   |  **Victoria Azarenka** [Wilson BLX Juice 100](http://www.tennis-warehouse.com/Wilson_BLX_Juice_100/descpageRCWILSON-WJ100.html?from=recruit)  
+Buy Now: $189.00  
+[Review](http://www.tennis-warehouse.com/reviews/WJ100/WJ100review.html?from=recruit), [Feedback](http://www.tennis-warehouse.com/feedback-WJ100.html?from=recruit), [Video](http://www.tennis-warehouse.com/video/WJ100vid.html?pcode=WJ100&from=recruit)  
+[](http://www.tennis-warehouse.com/player.html?ccode=LNA&from=recruit) |   |  **Li Na** [Babolat Pure Drive](http://www.tennis-warehouse.com/Babolat_Pure_Drive/descpageRCBAB-BPD11.html?from=recruit)  
+Buy Now: $189.00  
+[Review](http://www.tennis-warehouse.com/reviews/BPD11/BPD11review.html?from=recruit), [Feedback](http://www.tennis-warehouse.com/feedback-BPD11.html?from=recruit), [Video](http://www.tennis-warehouse.com/video/BPD11vid.html?pcode=BPD11&from=recruit)  
  
 
 ITA NEWS
