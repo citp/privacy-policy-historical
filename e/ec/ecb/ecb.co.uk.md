@@ -1,79 +1,125 @@
-> *The following text is extracted and transformed from the ecb.co.uk privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107161845id_/http%3A//www.ecb.co.uk/privacy-policy%2C1%2CBP.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecb.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623193710id_/http%3A//www.ecb.co.uk/privacy-policy%2C1%2CBP.html) for the most accurate reproduction.*
 
-# Privacy Policy - England and Wales Cricket Board - ECB
+# Privacy and Cookies Policy | England and Wales Cricket Board
 
-### The England and Wales Cricket Board Limited Privacy Policy
+Go straight to Cookies policy
 
-At the England & Wales Cricket Board Limited (ECB), we are committed to maintaining your privacy in accordance with the Data Protection Act 1998. Our **Privacy Policy** explains our commitment to data protection and the use of your information in providing you with the services and information you require. 
+### ABOUT US
 
-Information collected through any on-site registration process is collected by the ECB to enable the ECB, the ECB’s official commercial partners / sponsors and carefully chosen third parties and other organizations to contact you by various means, including but not limited to mail, telephone, SMS, MMS, fax or email to send you information and notify you about products and services which may be of interest to you in accordance with your preferences. 
+ecb.co.uk is operated by the England and Wales Cricket Board Limited ( **ECB** ), the governing body for cricket in England and Wales. The ECB is the data controller in respect of all personal data collected on this website which means that we are responsible for ensuring that we do so in full compliance with the Data Protection Act 1998 and all other related privacy laws.
 
-You are entitled by law, upon the payment of a fee (£10), to receive a copy of the information and personal data held by the ECB and to correct any inaccuracies in it. Any such requests must be made in writing to:
+This privacy policy explains what information we collect about you, how we use it, and the steps we take to ensure that it is kept secure. We also explain your rights and how to contact us.
 
-The Commercial Department, England & Wales Cricket Board, Lord’s Cricket Ground. London NW8 8QZ. 
+Please note this website may contain links to other websites which are provided for your convenience. We are only responsible for the privacy practices and security of this site. We recommend that you check the privacy and security policies and procedures of each and every other website that you visit.
 
-We will take reasonable care to keep your information secure and to prevent any unauthorised use of it. We may change this Privacy Policy from time to time and the change will take effect once the revised Privacy Policy is available on our homepage. Please refer to this policy each time you submit your personal information.
+BY USING THIS WEBSITE AND GIVING PERSONAL INFORMATION TO US, YOU INDICATE THAT YOU CONSENT TO US AND [ECB PARTNERS](https://web.archive.org/ecb/partners/) COLLECTING AND USING THIS PERSONAL INFORMATION IN ACCORDANCE WITH THE TERMS SET OUT IN THIS POLICY
 
-In processing your information for reasons stated in **Collection & Use of Personal Information** it is possible that your personal information may be stored or transferred outside the UK to countries where data protection law is less stringent than in the UK. 
+### CHILDREN
 
-### Collection & Use of Personal Information
+If you are under 16, you will need the permission of your parent or guardian before registering on our website(s) and we will require your parent or guardian to confirm that they have given permission. We may ask for their contact details so that we can check that they have done so and may carry out checks to confirm that the details you have given us are correct.
 
-This website is administered by the England & Wales Cricket Board who are committed to responsible processing and collection of personal information in accordance with the Data Protection Act 1998. 
+We normally only send newsletters and offers and opportunities to children where their parent or guardian has given consent to them being sent. Your parent or guardian can change their mind at any time (see ‘Newsletters, Offers and Opportunities’ below).
 
-### Use of registered user information by the ECB 
+### THE INFORMATION WE COLLECT
 
-Personal information collected is used for the following purposes:
+In order to provide you with the services you require, the ECB will collect personal information about you from our website, telephone conversations, emails and written and verbal communications. These will include, for example, your name, address, email address, phone number and details that are relevant to the service(s) in which you are interested. Occasionally we may ask for date of birth, for example, where the service you require has age related restrictions.
 
-  * registration, membership and general administration 
-  * providing site access for you 
-  * sending information (e.g. newsletters) and marketing materials to you on goods and services either requested directly by you through the site or deemed appropriate in accordance with your consents
-  * statistical analysis, market research and site use evaluation.
+We may supplement the information that you provide with other information that we obtain from our dealings with you or which we receive from other organisations, such as County Cricket Boards, Cricket clubs, other cricketing organisations and [ECB Partners](https://web.archive.org/ecb/partners/).
+
+#### Information about other people
+
+If you provide information to us about any person other than yourself, you must ensure that they understand how their information will be used and that you are authorised to disclose it to us, and to consent to its use on their behalf, before doing so.
+
+#### IP addresses
+
+In order to understand how users use our website and services, we may collect IP addresses.
+
+### Cookies
+
+In common with many other website operators, we may use standard technology called 'cookies' on this site. Cookies are small pieces of information that are stored by your browser on your computer's hard drive and they are used to record how you navigate this website on each visit.
+
+Our cookies are used to enable us to develop our website to reflect our customers interests and by noting who has seen which pages, properties and advertisements (including click throughs from emails), how frequently particular pages are visited and to enable us to determine the most popular areas of our website. We may use cookies to enrich your experience of using the website by allowing us to tailor what you see to what we have learned about your preferences during your visits to the site. Sometimes we use third parties services such as Google Analytics and Sitestat and they may use cookies on our behalf in order to provide their services.
+
+You may get cookies (including Flash cookies) from our sponsors and advertisers if you click on their links or adverts. You should check their privacy and security policies to understand how they use these.
+
+A list of all of the cookies used on this website can be found in our [cookies list](https://web.archive.org/cookie-listing.html).
+
+#### Flash cookies
+
+Adobe uses a particular type of cookie called a ‘Local Shared Object’. Typically, these will be collected if you watch a video which uses Adobe’s Flash media player.
+
+#### Preventing use of cookies
+
+Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored. With experience, you can usually choose to switch off all cookies or to allow only certain ‘trusted’ sites to place cookies.
+
+ **For further information on cookies and Flash cookies and how to switch them off see the 'Cookies - advice for members of the public ' guide on the Information Commissioner’s website at[www.ico.gov.uk](http://uk.sitestat.com/ecb/ecb-website/s?home.page.wiki.www_ico_gov_uk&category=not_logged_in&ns_type=clickout&ns_url=http://www.ico.gov.uk/for_the_public/topic_specific_guides/online/cookies.aspx)** or visit [www.allaboutcookies.org](http://uk.sitestat.com/ecb/ecb-website/s?home.page.wiki.www_allaboutcookies_org&category=not_logged_in&ns_type=clickout&ns_url=http://www.allaboutcookies.org) or [www.aboutcookies.org](http://uk.sitestat.com/ecb/ecb-website/s?home.page.wiki.www_aboutcookies_org&category=not_logged_in&ns_type=clickout&ns_url=http://www.aboutcookies.org).
+
+PLEASE NOTE, IF YOU DO TURN COOKIES OFF, THIS WILL LIMIT THE SERVICE THAT WE ARE ABLE TO PROVIDE TO YOU AND MAY AFFECT YOUR USER EXPERIENCE (FOR EXAMPLE, YOU MAY HAVE TO MANUALLY RE-TYPE YOUR USERNAMES AND PASSWORDS EACH TIME YOU VISIT OUR WEBSITE)
+
+### HOW WE WILL USE YOUR INFORMATION
+
+All personal information that we obtain about you and/or any other person whose details you provide will be recorded, used, and protected by us in accordance with current data protection legislation, our [Terms and Conditions](https://web.archive.org/terms-conditions,2,BP.html) and this Privacy Policy. We will primarily use the personal information:
+
+  * for registration, membership and general administration (including verification, vetting, security checking, issuing tickets, passes and permits as appropriate)
+  * to provide the services you request from us
+  * to communicate with you in the event that any services requested are unavailable or if there is a query or problem with your requests
+  * for record keeping purposes
+  * to carry out market research so that we can improve the services we offer
+  * to track and analyse activity on our website
+  * to create an individual profile for you so that we can enhance your user experience, to understand and respect your preferences and to provide newsletters and details of relevant offers and opportunities where you have agreed to receive them
 
 
 
-### Cookies and use of casual visitor information
+#### Disclosing your personal information
 
-This website uses cookies (messages stored by your web browser) to enable you to properly navigate the site. These cookies are only used for the proper operation of the site. We do not use these cookies to collect personal information. 
+In order to provide our products and services, we may, occasionally, appoint other organisations to carry out some of the processing activities on our behalf. These may include, for example, technology hosts, printing companies and mailing houses. In these circumstances, we will ensure that personal information is properly protected and that it is only used in accordance with this Privacy Policy.
 
-### Third party sites.
+### ECB PARTNER PROGRAMME
 
-This privacy policy applies only to this website. The ECB does not control any third party sites linked to this site and we are not responsible for the privacy practices of these sites. 
+The ECB teams up with a selection of carefully chosen sponsors and commercial partners such as:
 
-We encourage our users to be aware of this when they leave our site and to read the privacy statements applicable on those sites.
+\- **NatWest** the ODI and International T20 sponsor, as well as grassroots sponsor of initiatives such as CricketForce  
+\- **Adidas** our shirt sponsor  
+\- **Investec** Test Match Sponsor  
+\- **Kitbag** who provides the online store  
+\- **Association of Cricket Officials** who provide support and training for umpires and scorers
 
-## Cookies explained
+[For a full list of ECB Partners click here](https://web.archive.org/ecb/partners/).
 
-### What is a cookie?
+### NEWSLETTERS, OFFERS AND OPPORTUNITIES
 
-Cookies are small text files that are sent by websites that you visit to recognise who you are when you return there. There files are stored on your computer’s hard drive, and are read by your web browser.
+We and the [ECB Partners](https://web.archive.org/ecb/partners/) would like to contact you and/or any person whose information you provide to us to provide newsletters and to tell you and/or them about offers and opportunities (such as match ticketing, discounts, competitions, events and hospitality) that are available and about a range of other initiatives in a number of ways, including by post, telephone, text/picture/video message or by email. Details of how to opt-in to or opt-out of receiving details of offers are on relevant pages of this website.
 
-### How are cookie used?
+#### Subscribe / Unsubscribe
 
-Cookies perform several functions, such as remembering who you are on a particular site (your welcome message), to keeping you logged in to your account screen on an ecommerce site (however, you should always log out if you are using a public computer). Advertising agencies also use cookies to find out if they have served you an advert from a particular brand on a site, or if you have seen a particular advert before. Website owners will use cookies to follow which pages that you’ve read so that they can see what parts of the site are popular or not. In short, cookies are a way of providing statistics on site visits as well as some limited functionality that makes your site visit easier. When used properly cookies are an asset to a site visitor and a site owner. They are not viruses, but some unscrupulous outfits will use them maliciously – we follow best practice for cookie use.
+You and any other person whose information you have provided to us can change your/their mind about whether you wish to receive details of offers and opportunities at any time by using any of the methods shown below (see the section "How to contact us" below) or by following the instructions with each offer you/they receive.
 
-A list of all the cookies used on this website by us, and our technology partners can be found in our [cookies list](https://web.archive.org/cookie-listing.html).
+### SECURITY
 
-### Flash cookies?
+We take the security of personal information seriously. We employ security technology, including firewalls, and Secure Socket Layers to safeguard information and have procedures in place to ensure that our paper and computer systems and databases are protected against unauthorised disclosure, use, loss and damage.
 
-Adobe uses a particular type of cookie called a ‘Local Shared Object’, which is typically collected if you watch a video for example that uses the Adobe Flash media player, i.e. an embedded YouTube video on a page that is being played via Flash. Please note that these types of cookie will not be found on iPads, which do not support Flash.   
-Have a look at Adobe's website if you want to control Flash cookies on your computer. If you’ve got a Firefox browser you can also get an add-on to detect and delete Flash cookies.
+### MONITORING
 
-### Opting out of cookies?
+We may monitor or record telephone calls for security purposes and to improve the quality of the services we provide to you.
 
-There are a number of options available so that you do not have to store any cookies at all. You can either set your browser so that it will not accept and store any cookie, or if you have a little more time and knowledge you are able to allow only certain ‘trusted’ sites to store cookies on your computer. These sites may include us (of course!), or the site where you carry out your online banking, or possibly your favourite news service.
+### USE OF YOUR INFORMATION OUTSIDE THE EUROPEAN UNION
 
-It’s worth bearing in mind that if you decide to delete all of your cookies, then you will likely have to re-enter all of your usernames and passwords on all of the sites that you visit, which you previously didn’t even have to think about. As we mentioned before, cookies can be a real asset to your web surfing experience.
+Some of the organisations to which we may disclose personal information may be situated outside of the European Union. In order to provide the products and services you or others whose information you have provided to us, we may need to transfer your/their personal information to these countries some of which do not have laws that protect privacy rights as extensively as in the United Kingdom. If we do transfer your personal information to other territories, we will take proper steps to ensure that the information is protected in accordance with this Privacy Policy.
 
-The Information Commissioner’s Office (http://www.ico.gov.uk/) provides some advice about cookies and their use, but it also provides a link to ‘About cookies’ (www.aboutcookies.org) which is run by the law firm Pinsent Masons. This website provides even more information about cookies if you feel that this page and the ICO is not enough information for you, but it also details how you might delete any cookies that you find, and it also shows you how to allow those trusted sites to store their cookies on your computer.
+### CHANGES TO THIS PRIVACY POLICY
 
-### What is a web beacon?
+Privacy laws and practice are constantly developing and we aim to meet high standards. Our policies and procedures are, therefore, under continual review. We may, from time to time, update our security and privacy policies and suggest that you check this page periodically to review our latest policy.
 
-Web beacons are also sometimes referred to as ‘web bugs’ and are small single pixel transparent image files. They allow website owners to know when a visitor has reached their website, and are used in conjunction with cookies to allow further website tracking to be monitored. Again, these files are not viruses, but are useful in helping us to make your web surfing experience better.
+### UPDATING AND CORRECTING INFORMATION
 
-### Our main technology partners
+You may update or correct your personal information online in relevant membership areas or by contacting us in writing or by email (see the section "How to contact us" below). Please include your name, address and/or email address when you contact us as this helps us to ensure that we accept amendments only from the correct person. We encourage you to promptly update your personal information if it changes. If you are providing updates or corrections about another person, we may require you to provide us with proof that you are authorised to provide that information to us.
 
-We work with the following companies in maintaining and improving our website, and they must all satisfy the data protection requirements. If you have any more questions, please do contact us and we’ll be happy to help.
+### YOUR RIGHTS TO ACCESS YOUR PERSONAL INFORMATION
 
-### the OTHER media Limited
+You have the right to receive a copy of the personal information that we hold about you. The same right applies to any other person whose personal information you provide to us. We may charge a small fee towards the cost of administering any request made. The current fee is £10.00.
 
-the OTHER media provide build and hosting services to ECB and help us to maintain the software that runs our website. They provide us with reporting statistics where required, and will serve cookies on our behalf to enable any site personalisation and log in functionality.
+### HOW TO CONTACT US
+
+ **Email** \- [privacy@ecb.co.uk](mailto:privacy@ecb.co.uk)
+
+ **Post** \- Data Protection Officer, England and Wales Cricket Board Limited, Lord’s Cricket Ground, London NW8 8QZ
