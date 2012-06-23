@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workawesome.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101181051id_/http%3A//workawesome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workawesome.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623124420id_/http%3A//workawesome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Work Awesome
 
@@ -63,4 +63,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 Popular search terms for this article:
 
-[respond to privacy at work](http://workawesome.com/privacy/ "respond to privacy at work"), [work awesome sending encrypted files email process](http://workawesome.com/privacy/ "work awesome sending encrypted files email process")
+[awesome privacy policy](http://workawesome.com/privacy/ "awesome privacy policy"), [we use cookies to keep track of advertisements and](http://workawesome.com/privacy/ "we use cookies to keep track of advertisements and")
