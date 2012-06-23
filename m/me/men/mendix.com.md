@@ -1,22 +1,63 @@
-> *The following text is extracted and transformed from the mendix.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118191917id_/http%3A//www.mendix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendix.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623060003id_/http%3A//www.mendix.com/privacy-policy) for the most accurate reproduction.*
 
-# Mendix
+# Mendix | The App Platform for The Enterprise
 
-We respect the privacy of the information you provide to us. This summary of our online information practices demonstrates our commitment to protect your privacy. We do not sell, rent, share or in any other way use personally-identifying information collected during your use of our Website without your permission. 
+## Mendix Privacy Policy
 
-At the time you register on our site, we collect and store your name, address, email address, and other personally-identifying information. We need this information to contact you to discuss terms of sale. We may also ask you for personally-identifying information at other times, such as if you communicate with us, or complete a survey. 
+**Last updated October 17, 2011**
 
-As part of our service, we may use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Generally, we use cookies to remind us who you are and enable us to access your account information so you do not have to re-enter it; gather statistical information about usage by registered or unregistered users, research visiting patterns, and help target marketing efforts based on user interests. Preference and options configurations in your browser determine if and how a cookie will be accepted. You can change those configurations on your computer if you desire. By changing your preferences, you can accept all cookies, you can be notified when a cookie is set, or you can reject all cookies. If you do so and cookies are disabled, you may be required to re-enter your information more often and certain features of our site may be unavailable. 
+Your privacy is important to us (“Mendix”). This Privacy Policy (the “Policy”) discloses our information practices, including our policies regarding the types of information that is gathered and tracked through our web sites and applications, descriptions of how such information is used, and identification of the parties with whom the information may be shared. This Policy will be applicable to the Mendix Web sites and applications (each, a “Mendix Site”).  
+By voluntarily using a Mendix Site and/or providing data or other information via a Mendix Site, you are indicating your consent to this Policy and agreement to be bound by its terms.
 
-In addition, we automatically gather general statistical information about our Website and visitors, such as IP addresses, browsers, pages viewed, number of visitors, goods and services purchased, etc., but in doing so we do not reference you by individual name, e-mail address, home address, or telephone number. We use this data in the aggregate to determine how much our customers use parts of our site so we can improve our site. We may provide this statistical information to third parties, but when we do so we do not provide personally-identifying information without your permission. 
+#### Personal Information
 
-We use your personally-identifying information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services. We use your e-mail address, your mailing address, and phone number to contact you regarding administrative notices, new product offerings and communications relevant to your use of the site. If you place a request for products or services, we use information to further process your request. We may also use or disclose information to resolve disputes, investigate problems, or enforce our User Agreement. At times, we may review status or activity of multiple users to do so. We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our products and services.   
-We use your IP address to help diagnose problems with our server, to manage our Website and to enhance our site based on the usage pattern data we receive. 
+You can visit a Mendix Site without telling us who you are and without revealing any information about yourself. There are times, however, when we may need certain personally identifiable information (“Personal Information”) from you.  
+You may choose to provide us with Personal Information (such as your name, email address and company name) through the Mendix Site when you elect to register with Mendix in order to download our products or access premium content. When you provide Personal Information in order to register with Mendix, such Personal Information will be used in order to provide you with access to the requested products, services content and/or information. We may also use the Personal Information to help us understand who is using our products and services and to help us manage business development activities. If you tell us that you do not want us to use this Personal Information as a basis for further contact with you, we will respect your wishes.
 
-**Security**  
-We employ reasonable and current security methods to prevent unauthorized access, maintain data accuracy, and ensure correct use of information. Your account information and profile are password-protected. We recommend that you do not divulge your password to anyone. Our personnel will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Remember to sign out of your account and close your browser window when you have finished your session. This is to help ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place where others may have access to it   
-Whenever you voluntarily disclose personal information online - for example on message boards, through e-mail or in chat areas - that information can be collected and used by others.   
-No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us, and you do so at your own risk. 
+#### Newsletters
 
-**Your consent**  
-By using our Website, you consent to the collection and use of this information in the manner we describe. 
+If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. If you no longer wish to receive our newsletter you may unsubscribe at any time by using the unsubscribe link located at the bottom of each newsletter communication.
+
+#### Sprintr Invitations
+
+If you choose to invite others from to a Sprintr™ account or project within your organization, we will ask you for the other user’s email address. We will automatically send him/her an email inviting him/her to visit the site. Mendix stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.  
+Invited users may contact us at support [at] Mendix [dot] com to request that we remove this information from our database.
+
+#### Blog/Forum
+
+If you use our blog, forum or AppStore on the Mendix Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these blogs and forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these blogs and forums.
+
+#### Statistical Information
+
+We sometimes collect anonymous information from visits to the Mendix Site to help us provide better customer service and to make the Mendix Site as user friendly as possible. For example, we keep track of the domains from which people visit and we also measure visitor activity on the Mendix Site. However, when we do so, we do so in ways that keep the information anonymous. Mendix may use this data to analyze trends and statistics and to help us provide better customer service. None of the information described in this paragraph is reviewed at an individual level. None of the information described in the preceding paragraph is reviewed at an individual level.
+
+#### Links to Other Web Sites
+
+The Mendix Site may contain links to other Web sites. Mendix is not responsible for the privacy practices or the content of such Web sites. The links from a Mendix Site do not imply that Mendix endorses or has reviewed the third party Web sites. We suggest contacting the operators of those Web sites directly for information on their privacy policies.
+
+#### Customer Testimonials
+
+We post customer testimonials on our web site, which may contain personally identifiable information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial.
+
+#### Our Disclosure of Your Personal Information and Other Information
+
+Mendix is not in the business of selling your Personal Information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Information with certain third parties without further notice to you, as set forth below:
+
+  * Related Companies: We may also share your Personal Information with our subsidiaries, affiliates and other related companies for purposes consistent with this Policy, including sending emails and credit card processing.
+  * Agents, Consultants and Related Third Parties: Mendix, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+  * Legal Requirements: Mendix may disclose your Personal Information if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Mendix, (iii) act in urgent circumstances to protect the personal safety of users of a Mendix Site or the public, or (iv) protect against legal liability.
+
+
+
+#### Security
+
+Personal Information collected through the Mendix Site is kept in a secure database and all reasonable precautions are taken to secure this data. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from a Mendix Site may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Information to Mendix via the Internet.  
+The security of your personal information is important to us. When you enter sensitive information on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+
+#### Changes to Our Policy
+
+We may change our business and the Mendix Site from time to time. As a result, at times it may be necessary for us to make changes to this Policy. Mendix reserves the right to update or modify this Policy at any time and from time to time without prior notice. This Policy was last updated on the date indicated above. Your continued use of the Mendix Site after any changes or revisions to this Policy shall indicate your agreement with the terms of such revised Policy.
+
+#### Access to Personal Information and Other Questions
+
+You will have the right to contact us to request information about the Personal Information we have collected from you and to request the correction, modification or deletion of such information. To make such a request and/or to pose any other questions regarding this Policy, please contact the Mendix Site webmaster via http://www.mendix.com. You may also correct, modify or delete inaccuracies by logging into your account and going to the account settings link on the site. 
