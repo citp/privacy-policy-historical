@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pixfuture.net privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220230452id_/http%3A//pixfuture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixfuture.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623102112id_/http%3A//pixfuture.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PixFuture - The Future of Advertising for Publishers and Everyone
+# PixFuture - Privacy Policy
 
 **PRIVACY POLICY**
 
@@ -26,7 +26,7 @@ If you do not want the benefits of cookies, there is a simple procedure that all
 
 ##### Industry Efforts to Protect Consumer Privacy
 
-PixFuture is committed to protecting the privacy of Internet users. Accordingly, we strictly adhere to all industry guidelines, including those established by the Direct Marketing Association. If you should have any questions or concerns regarding this Privacy Statement, please contact our Customer Services at contact@pixfuture.com. We recommend that you periodically review this Privacy Statement, as PixFuture may update it from time to time. 
+PixFuture is committed to protecting the privacy of Internet users. Accordingly, we strictly adhere to all industry guidelines, including those established by the Direct Marketing Association. If you should have any questions or concerns regarding this Privacy Statement, please contact our Customer Services at contact [ at ] pixfuture.com. We recommend that you periodically review this Privacy Statement, as PixFuture may update it from time to time. 
 
 ##### Third Party Advertising
 
