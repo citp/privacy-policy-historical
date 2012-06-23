@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117033210id_/http%3A//www.scanna.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623031526id_/http%3A//www.scanna.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Russian dating site, which participates in Anastasia's Affiliate Network - Scanna.com
 
