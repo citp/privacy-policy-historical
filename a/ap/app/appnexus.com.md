@@ -1,100 +1,304 @@
-> *The following text is extracted and transformed from the appnexus.com privacy policy that was archived on 2011-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111031052137id_/http%3A//www.appnexus.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appnexus.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623095543id_/http%3A//www.appnexus.com/platform-policy) for the most accurate reproduction.*
 
-# AppNexus: Privacy Statement
+# AppNexus Platform Policy | AppNexus
 
-## Effective May 15, 2009
 
-AppNexus (“we” or “us”) is an advertising technology and cloud computing company. We offer the AdNexus advertising technology platform (“Platform”) that enables the buying and selling of online advertising. We provide this privacy policy so we may inform you about how AdNexus processes information on behalf of the online advertisers, website owners, data partners, and other businesses that use our Platform (our “Clients”). This policy also outlines our privacy practices on our corporate Websites (“Websites”), www.adnexus.com, www.appnexus.com, wiki.appnexus.com, and www.displaywords.com. If you have any questions about this privacy policy, please contact us at [adnxs-privacy@adnexus.com](mailto:adnxs-privacy@adnexus.com). 
-
-AppNexus also offers an enterprise-ready cloud computing service that is not covered by this privacy policy. AppNexus has no access to the data that our customers manage within the AppNexus hosting environment. We require our clients to adhere to applicable privacy law. We can’t control the way our customers use our cloud computing service. 
-
-## Privacy Practices for Our Website
-
-### Personally Identifiable Information
-
-We collect Personally Identifiable Information (“PII”) from the Website when you choose to provide it to us. PII is any information that can be used to identify or locate a particular person or entity. This includes, but is not limited to: name, address, telephone number, mobile number, or email address. For example, you may choose to send us PII about yourself in an email or by completing an online form on this Website. We use this information only to contact you to respond to your inquiry. Once collected, we will store your PII for a reasonable time for record keeping purposes. The information that we store is usually deleted as space requires or in the normal course of business. 
-
-### Non-Personally Identifiable Information
-
-We collect Non-Personally Identifiable Information (“Non-PII”) from visitors to this Website. Non-PII is information that cannot by itself be used to identify a particular person or entity, and may include your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to this Website, the referring URL and your computer's operating system. We use this information to understand our Website traffic and for maintenance of the Website. 
-
-### Cookies and Web Beacons
-
-We use persistent “cookies” on this Website in order to help us manage the opt-out process for our Platform. For information on our opt-out process, please review the section of this privacy policy entitled “Opting out from Cookies” below. Cookies are small text files that contain a string of alphanumeric characters. Web beacons (also known as “1X1 pixels” or “clear GIFs”) are small strings of code that provide a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data. For more information about cookies and web beacons please visit <http://www.allaboutcookies.org/cookies/>. 
-
-### Third Party Websites
-
-The Website may contain links to and advertisements for websites operated by third parties whose privacy practices may differ from ours. While we take steps to associate only with reputable entities, AppNexus cannot be responsible for the privacy practices of these other websites. We encourage you to check the privacy policies of all websites that you visit. 
-
-### Deleting your PII
-
-If you'd like us to delete any PII that you have provided to us on this Website, please send your request to us at [adnxs-privacy@adnexus.com](mailto:adnxs-privacy@adnexus.com) and we will process your request within a reasonable period of time after receipt. 
-
-## Privacy Practices for Our Platform
-
-### Overview of the AdNexus Platform
-
-AdNexus offers an advertising technology platform (“Platform”) that enables our Clients to buy and sell online advertising. Some of our Clients may collect Non-PII about an Internet user’s web surfing habits, and use that Non-PII to deliver more relevant advertising via the Platform. Similarly, we sometimes obtain Non-PII from our data partners and enable our Clients to use that Non-PII via the Platform. And we collect Non-PII via the Platform for ad delivery and reporting purposes. Generally, an Internet user's computer comes into contact with the Platform when he or she visits a website, or views an ad that is delivered by the Platform. The ads delivered by the Platform are sent from the domain adnxs.com. 
-
-We contractually require Clients to adhere to online privacy and security laws in their use of the Platform. We also prohibit Clients from importing PII into the Platform, or otherwise using PII on the Platform. And we take reasonable steps to avoid receiving PII from Clients via the Platform. However, as a technology Platform, we are unable to be in complete control of the type of information that our Clients import into the Platform. 
-
-## Types of Information We Collect Via the Platform
-
-### Personally Identifiable Information
-
-We don't collect Personally Identifiable Information (“PII”) via the Platform, and take reasonable measures to avoid receiving PII from Clients via the Platform. 
-
-### Non-Personally Identifiable Information
-
-We collect Non-Personally Identifiable Information (“Non-PII”) via the Platform, including but not limited to an Internet user’s IP host address, pages viewed, browser type, the URL, the referring URL, Internet Service Provider, and his or her computer's operating system. 
-
-### Cookies and Web beacons
-
-Our Clients use cookies in conjunction with Web beacons when they use the Platform in order to help make the online advertisements you see more relevant to you. We also use cookies and Web beacons (under the domain adnxs.com) to help our clients make advertising more relevant. We also use cookies and web beacons for ad delivery and reporting purposes, to measure the success of our Clients’ online advertising campaigns. 
-
-## Controlling the Use of Your Information
-
-### Opting out from Cookies
-
-If you’d like to opt-out from having AdNexus collect your Non-PII in connection with our Platform, please [click here](http://ib.adnxs.com/optout). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to help us tailor our Clients’ online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
-
-### Deleting your PII
-
-Although we don’t collect PII via our Platform, if you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the Website, please send your request to us at [adnxs-privacy@adnexus.com](mailto:adnxs-privacy@adnexus.com) and we will process your request within a reasonable period of time after receipt. 
-
-## Information Security
-
-The security of your information is important to us. We have implemented reasonable security measures to protect the information in our care, both during transmission and once we receive it. This includes, but is not limited to the use of encryption. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security. If you have any questions about our security practices, please send an email to us at [adnxs-privacy@adnexus.com](mailto:adnxs-privacy@adnexus.com). 
-
-## Information Relating to Children
-
-Our products and services are designed for those 18 years of age and older. We do not knowingly collect PII from anyone under the age of 13. If we are made aware that we have received PII from someone under 13, we will use reasonable efforts to remove that information from our records. 
-
-## Disclosure of Information to Third Parties
-
-We do not collect PII via the Platform, and we do not sell, rent or share PII collected on the Website with non-affiliated third parties without your consent. We may, however, share your PII with trusted third party contractors who provide services for us. These third party contractors are prohibited from using the information we provide for purposes other than performing services for us. 
-
-We may share Non-PII collected via the Platform with Clients. Similarly, we may enhance the Non-PII collected via the Platform with Non-PII collected from Clients. 
-
-We may disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person. 
-
-Finally, we may transfer information, including any PII, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. 
-
-## Storage of Information
-
-We retain PII collected via the Website for a reasonable time for record keeping purposes. The information that we store is usually deleted as space requires or in the normal course of business. 
-
-We don’t collect PII via the Platform. We retain the Non-PII collected via the Platform for up to 12 months, after which time the information is rendered anonymous and may be stored for up to two years. 
-
-## Changes to this Privacy Policy
-
-This privacy policy is subject to change. If we make any material or substantive changes in the way that we use the PII collected through this Website, we will post a clear and conspicuous notice of those changes on the Website and in this privacy policy. 
-
-## Contact Information
-
-For questions or concerns relating to privacy, please send us an email at [adnxs-privacy@adnexus.com](mailto:adnxs-privacy@adnexus.com). Alternatively, you may contact us at the address below.
-
-**AdNexus Privacy Officer**  
-AppNexus, Inc.  
-28 West 23rd Street, 5th Floor  
-New York, NY 10010 
+    ## All About Privacy on the AppNexus Platform
+    
+    
+    
+    For information regarding our corporate website privacy practices, please click [here](https://web.archive.org/web/20120623095543id_/http%3A//www.appnexus.com/privacy-policy).
+    
+    This information and the privacy statement below apply to our online advertising technology platform (the Platform), and will be of general interest to Internet users. If you have any questions about this information, please contact us at [privacy@appnexus.com](mailto:privacy@appnexus.com).
+    
+    
+    
+    **Opt out: To go directly to our opt out, clickhere.**
+    
+    
+    
+    The information and Privacy Statement provided here do not apply to the AppNexus enterprise cloud computing service.
+    
+    
+    
+    ### Glossary
+    
+    
+    **Ad server:** An ad server, in its simplest form, is responsible for delivering an ad to be shown in a web page. Today, communications may be sent to several servers in the process of selecting and delivering an ad. This occurs in a matter of milliseconds.
+    
+    **Beacons and Tags:** Beacons and tags enable online advertising companies to collect data and serve advertising on web sites by allowing communication between a web browser and an ad server. A beacon (or web beacon) is a small transparent image that is placed on a web page. A tag is a small piece of computer code that is run by the web browser.
+    
+    **Cookie:** A cookie is a small text file that is stored in a web browser by a website or ad server. By saving information in a cookie, websites and servers can remember preferences or recognize browsers from one visit to another or from one website to another. (See the Privacy Statement below for information on how AppNexus uses cookies.)
+    
+    **Interest-Based Advertising:** Interest-based advertising uses information collected across multiple web sites to predict users’ preferences and to show ads that are most likely to be of interest to those users.For example, if a user visits a travel site, they might see travel related ads on another site. AppNexus offers web users choices with respect to the use of the AppNexus Platform for this type of advertising.
+    
+    **PII:** Personally Identifiable Information (PII) is information that by itself can be used to identify a specific individual. PII includes such things as name, address, phone number, and email address. AppNexus prohibits its customers from providing PII for use on the AppNexus Platform. (See the Privacy Statement below for more information.) 
+    
+    **Non-PII:** Non-Personally Identifiable Information is information that cannot by itself be used to identify an individual person. Non-PII includes such things as browser type, operating system, the web address of a web page visited, the time and date a web page was visited, and the web address of the referring page. It may also include the number of times a particular browser has been shown a particular ad, or it may include generic categories indicating inferences that have been made about users’ interests.
+    
+    **Real-Time Bidding:** Advertising buyers are able to bid in “real time” for the opportunity to show an online advertisement when a web page is loaded by a web browser. The winning bidder gets to show their ad in the web page. 
+    
+    Of course, the explanations above are simplified. There are many resources available on the web to learn more about these concepts and online advertising in general. Although we have no responsibility for the content of these sites, we offer the following as good places to start learning:
+    
+    
+    
+    
+      * OnGuardOnline.gov: [onguardonline.gov](http://onguardonline.gov/articles/0042-cookies-leaving-trail-web)
+    
+    
+      * All About Cookies: [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+    
+    
+      * Wikipedia: [en.wikipedia.org/wiki/Online_advertising](http://en.wikipedia.org/wiki/Online_advertising)
+    
+    
+      * AboutAds.info, For Consumers page: [www.aboutads.info/consumers](http://www.aboutads.info/consumers)
+    
+    
+      * The Network Advertising Initiative: [networkadvertising.org/managing/learn_more.asp](http://networkadvertising.org/managing/learn_more.asp)
+    
+    
+      * In the EU: [www.youronlinechoices.com](http://www.youronlinechoices.com/)
+    
+    
+      * About web browser cookie settings:
+    
+            * Internet Explorer: [support.microsoft.com/kb/196955](http://support.microsoft.com/kb/196955)
+            * Firefox: [support.mozilla.com/en-US/kb/Cookies](http://support.mozilla.com/en-US/kb/Cookies)
+            * Chrome: [www.google.com/support/chrome](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
+            * Safari: [docs.info.apple.com](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html)
+    
+    
+    
+    
+    
+    ### The AppNexus Platform
+    
+    
+    AppNexus has created a technology platform (Platform or AppNexus Platform) that our clients use to buy, sell, and deliver online advertising, including interest-based advertising, mostly through real-time bidding.The Platform is designed to enable these advertising purposes through the use of non-PII that may be collected by clients using the Platform, or that clients may acquire from other sources. As described in the Privacy Statement below, AppNexus makes certain uses of the non-PII collected by clients on the Platform. 
+    
+    
+    
+    ### The AppNexus Platform Cookie Statement
+    
+    
+    Although the specific cookies may change from time to time, this describes the purposes for which the AppNexus Platform uses cookies.
+    
+    For a detailed description of cookies set by the Platform, see [AppNexus Cookies](http://www.appnexus.com/cookies).
+    
+    
+    
+    
+      * The Platform uses unique cookies to identify web browsers and to store data for advertising purposes, including interest-based advertising.
+    
+    
+      * The Platform uses unique cookies to store ad delivery and reporting data, such as, for example, which ad was shown, the number of times a particular ad has been shown, and how recently an ad has been shown to a particular web browser.
+    
+    
+      * The Platform uses unique cookies to track users’ responses (clicks and conversions) to ads purchased on the platform.
+    
+    
+      * The Platform uses non-unique cookies for server load-balancing and similar technical purposes.
+    
+    
+      * The Platform uses non-unique cookies to store users’ opt-out choices.
+    
+    
+      * The AppNexus Platform is designed to use only non-PII, and AppNexus has contractual provisions that prohibit clients of the Platform from associating Platform cookies with PII.
+    
+    
+    
+    
+    
+    ### The AppNexus Platform Privacy Statement
+    
+    
+    Effective 1 September 2011
+    
+    This privacy statement describes AppNexus’s use practices and policies with regard to the information that is collected on the Platform. It applies only to AppNexus.  It does not state the use practices or policies of our clients, of the websites on which ads are shown, or of other parties.
+    
+    What information do we collect and use?| The Platform is designed to collect and use only non-PII. Details.  
+    ---|---  
+    
+    How do we collect information?| The Platform uses cookies, beacons, and tags to collect and store non-PII about web browsers across web sites and over time. Details.  
+    
+    For what purposes do we use the collected information?| AppNexus uses the information to provide, operate, manage, maintain, and enhance the Platform. Details.  
+    
+    What information do we share with third parties?| AppNexus does not share the information collected on the Platform with others, except in the form of aggregate reporting, or as required by law. Details.  
+    
+    How is the information stored and how long is it kept?| The information is stored using generally accepted security standards. It is retained for up to 12 months, and is then aggregated. Details.  
+    
+    What are your choices?| Web users may opt out of use of the Platform for interest based advertising. Details.  
+    
+    What happens if this privacy statement is changed?| Check this policy for changes. Material changes will not be applied to previously collected information. Details.  
+    
+    Questions?| [privacy@appnexus.com](maito:privacy@appnexus.com)  
+    
+    
+    
+    
+    ### What information do we collect and use?
+    
+    
+    
+    
+    
+    
+      * **PII:** AppNexus does not collect or use PII on the Platform, and prohibits clients from collecting or using PII on the Platform.
+    
+    
+      * **Non-PII:** AppNexus makes some uses of non-PII collected on the Platform.
+    
+    
+    
+    
+    ### How do we collect information?
+    
+    
+    
+    
+      * The Platform uses cookies, beacons and tags to collect non-PII associated with particular web browsers.
+    
+    
+    
+    
+    ### For what purposes do we use the information?
+    
+    
+    
+    
+      * AppNexus uses the information collected on the Platform to provide, operate, manage, maintain, and enhance the Platform.
+    
+    
+      * AppNexus may act as a client of the Platform to engage in its own online advertising of its business.
+    
+    
+      * The Platform enables AppNexus’s clients to use non-PII they collect to buy and sell online advertising, including interest-based advertising, using real-time bidding.
+    
+    
+      * Particular advertising-related purposes for which AppNexus clients may use the non-PII they collect on the platform include:
+    
+    
+        
+            * Interest-based advertising (To opt out of interest-based advertising on the Platform, go to the “What are your choices?” section below.)
+        
+        
+            * Limiting the number of times a user sees a particular ad
+        
+        
+            * Showing ads in a particular sequence
+        
+        
+            * Customizing ads to a particular geographic region
+        
+        
+            * Showing ads related to the content of the web page on which they are shown
+        
+        
+            * Determining when users respond to ads
+        
+        
+            * Reporting aggregated statistics regarding, for example, the effectiveness of online advertising campaigns
+    
+    
+    
+    
+    
+    ### What information does AppNexus share with third parties?
+    
+    
+    
+    
+      * AppNexus may, to operate or enhance AppNexus’s services, provide data collected on the Platform to clients, partners, and service providers.  In addition, AppNexus may disclose such information in the event we reasonably believe that we are legally required to do so.  AppNexus may also share aggregated data derived from the Platform, including, for example, statistics about Platform activity.  Finally, we may transfer Platform data to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+    
+    
+    
+    
+    
+    ### How is the information stored and how long is it kept?
+    
+    
+    
+    
+      * AppNexus uses generally accepted industry security standards on the Platform.
+    
+    
+      * Non-PII stored in the platform is retained in the Platform in non-aggregated form for up to 12 months. Aggregated data is used for reporting and analysis, and may be stored in the Platform for up to 2 additional years.
+    
+    
+    
+    
+    
+    ### What are your choices?
+    
+    
+    **
+    
+    ## OPT OUT
+    
+    **
+    
+    
+    
+      * You can opt out of interest-based advertising.
+    
+            * AppNexus Platform Opt Out: You can click below to opt out of having the Platform used to select ads for you based on your online behavior. When you opt out, an opt out cookie (from adnxs.com) will be stored in your web browser. The Platform will know the choice you have made when it sees your opt out cookie, and will apply your choice to all companies’ use of the Platform. If you block or delete the opt out cookie, the Platform will not see your choice.
+        
+        
+        
+          
+        
+        
+        
+        
+        
+            * The opt out does not block or delete cookies, or prevent the use of cookies for purposes other than selecting ads based on your online behavior. Ads may be selected in other ways, for example, based on the content of the web page in which they are shown. If you wish to block or delete cookies altogether, you can use web browser settings to do so. See the resources above for more information.
+        
+        
+            * To learn more about interest-based advertising, and to access the opt outs of other online advertising companies, visit the Network Advertising Initiative [opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
+    
+    
+    
+    
+    
+    ### Industry self-regulation
+    
+    
+    AppNexus supports industry self-regulation, and endorses best practices and self-regulatory requirements that apply to the Platform. AppNexus is a member in good standing of the [Network Advertising Initiative](http://www.networkadvertising.org/) (NAI).
+    
+    These industry sites also provide useful information about industry self-regulation of interest-based advertising:
+    
+    
+      * US: [www.networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info](http://www.aboutads.info/consumers)
+    
+    
+      * EU: [www.youronlinechoices.com](http://www.youronlinechoices.com/)
+    
+    
+    
+    
+    ### U.S.-E.U. Safe Harbor Framework 
+    
+    
+    For personal information we transfer from the European Union to the United States, we adhere to the principles of the U.S.-E.U. Safe Harbor Framework, as set forth by the U.S. Department of Commerce (<http://export.gov/safeharbor/>). For questions or complaints related to the collection, retention, or use of data under the Safe Harbor Framework, please email [privacy@appnexus.com](mailto:privacy@appnexus.com). Unresolved privacy complaints under the Safe Harbor will be referred to the American Arbitration Association as an independent dispute resolution mechanism. 
+    
+    
+    
+    ### What happens if this privacy statement is changed?
+    
+    
+    
+    
+      * We may change this privacy statement at any time. However, if we were to make material changes, those changes would not be applied to information collected prior to such changes. 
+    
+    
+    
+    
+    ### More questions?
+    
+    
+    
+    
+      * If you have questions about privacy on the AppNexus Platform, you may email us at [privacy@appnexus.com](mailto:privacy@appnexus.com).
+    
+    
