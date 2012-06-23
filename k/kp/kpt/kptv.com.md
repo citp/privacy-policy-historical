@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kptv.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225001724id_/http%3A//www.kptv.com/story/18990/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kptv.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623195237id_/http%3A//www.kptv.com/story/18990/privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - KPTV - FOX 12
 
