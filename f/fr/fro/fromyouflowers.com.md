@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fromyouflowers.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205849id_/http%3A//www.fromyouflowers.com/secpriv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromyouflowers.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623032119id_/http%3A//www.fromyouflowers.com/secpriv.htm) for the most accurate reproduction.*
 
-# Security and Privacy
+# Privacy and Security | FromYouFlowers®
 
 From You Flowers, LLC is committed to protecting our customers' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web site located at URL [www.fromyouflowers.com](http://www.fromyouflowers.com/). Please read this Privacy Policy carefully to understand how we will use and protect your personal information. We will never share your personal information with anyone except as described in this Policy. Changes to this Policy will be announced on our Web site at least ten days in advance, so please check back periodically.
 
@@ -31,4 +31,4 @@ From time to time, we may be required by law enforcement or judicial authorities
 
 From You Flowers Web Site is protected by a VeriSign Security Certificate. Our customers can be assured that their personal information, including credit card information, is safe. 
 
-Copyright © 2011 From You Flowers, LLC. All rights reserved.
+Copyright © 2012 From You Flowers, LLC - Old Saybrook, CT - New York, NY. All rights reserved.
