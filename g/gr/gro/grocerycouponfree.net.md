@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grocerycouponfree.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209023344id_/http%3A//grocerycouponfree.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grocerycouponfree.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623203646id_/http%3A//grocerycouponfree.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,7 +72,7 @@ We provide mechanisms for updating and correcting your personal information for 
 
 If any user who receives an email from the Site and would prefer not to receive such communications in the future, [he or she] can do so by following the instructions in the emails to opt out.  If you unsubscribe using the link in our emails, you will be unsubscribed immediately from our system, but you may still receive communications from us for up to five business days.
 
-** Children’s Privacy and Parental Controls**
+**8) Children’s Privacy and Parental Controls**
 
 We do not solicit any personal information from children. If you are not 18 or older, you are not authorized to use the Site. Parents should be aware that there are parental control tools available online that can be used to prevent children from submitting information online without parental permission or from accessing material that is harmful to minors.
 
