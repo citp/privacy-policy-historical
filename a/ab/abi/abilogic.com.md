@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the abilogic.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224132420id_/http%3A//www.abilogic.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abilogic.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623195307id_/http%3A//www.abilogic.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - AbiLogic
-
-Last updated on 27 October, 2007
-
-Privacy Policy
 
 This statement describes the privacy practices we use for our website, transaction of information via E-mail and distribution of our customer list. We reserve the right to change this policy at any time. If you have any questions about our privacy practices, please feel free to [contact us](http://www.abilogic.com/contact/).
 
