@@ -1,21 +1,16 @@
-> *The following text is extracted and transformed from the monavie.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215072345id_/http%3A//media.monavie.com/privacy-policy/privacy-policy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monavie.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623082813id_/http%3A//www.monavie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# MonaVie Privacy Policy | MonaVie
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.monavie.com)
-
-  
-
-
-### Last updated: May 17, 2010
+[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.monavie.com)**Last updated: May 17, 2010**
 
 MonaVie is committed to protecting your privacy and ensuring the security of the information you submit to us. We want your use of the MonaVie web sites and the services we offer to be productive and safe and we have taken great efforts to keep your information confidential and secure at all times within our system. Our Privacy Policy was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our users. Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. MonaVie’s Privacy Policy illustrates our commitment to your privacy and security.
 
 MonaVie is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the web sites www.monavie.com, [www.monaviemall.com](http://www.monaviemall.com/) [www.monavievo.com](http://www.monavievo.com/) (collectively the “MonaVie Sites”). Because MonaVie wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Adrienne Triplett at [legal@monavie.com](mailto:legal@monavie.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=) TRUSTe will then serve as a liaison with us to resolve your concerns. MonaVie complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+If you have questions or concerns regarding this statement, you should first contact Adrienne Triplett at [legal@monavie.com](mailto:legal@monavie.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=) TRUSTe will then serve as a liaison with us to resolve your concerns. MonaVie complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-### What Personal Information We Collect
+**What Personal Information We Collect**
 
 The MonaVie Sites each have different functions and collect different types of personally identifiable information (PII) such as name, address, email address and phone number. Additionally, [www.monaviemall.com](http://www.monaviemall.com/) and [www.monavievo.com](http://www.monavievo.com/) allow you to order products and manage your distributorship. Generally, you can visit the MonaVie Sites without entering any PII. However, if you choose to place an order on the MonaVie Sites, we require that you provide your name, mailing address, billing address, email address, phone number, credit card number and its expiration date. All of this information is necessary for us to complete the transaction and notify you of your order status.
 
@@ -34,13 +29,13 @@ In order to protect your account, we may on occasion supplement the personal inf
 **Testimonials/Product Reviews**  
 If you provide a testimonial or product review on the MonaVie Sites, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. For testimonials, we do obtain the customer's consent prior to posting his or her name and video testimonial. If you enter a comment in a public forum we are not responsible for the personally identifiable information you choose to submit in these comments. If you want to remove your personal information that is being displayed on our website under public pages, please contact us at [privacy@monavie.com](mailto:privacy@monavie.com).
 
-### How We Use Your Information
+**How We Use Your Information**
 
 We may use your email address, mailing address and/or phone number to provide quality customer support or to reach you regarding order status, product or fulfillment issues and other customer service related activities. We may use your email address, mailing address and/or phone number to contact you regarding new product offerings, newsletters and other aspects of your use of the MonaVie Sites. If, however, you do not wish to receive such communications, you have the ability to "opt-out" at any time and you will not be contacted further.
 
 From time to time, we may ask you to answer surveys regarding current or future MonaVie and monaviemall.com products, as well as to determine hours worked at each rank in the compensation plan. Participation in these surveys is always optional. Survey responses are only used in the aggregate, and are never linked to an individual. While our survey data is primarily for use within monaviemall.com only, we may occasionally share the aggregate survey data with our affiliates and development partners in order to facilitate new product development and improve customer service and overall customer satisfaction.
 
-### Information Sharing
+**Information Sharing**
 
 MonaVie is not an "information broker." We do not engage in the selling of the profile, contact, web usage habits, behavior, buying patterns, or demographic information of our customers, partners or users. We use the information we collect about you to process orders, pay bonuses and provide the best and most personalized service possible. We may revise this Privacy Policy occasionally, so please check it frequently. MonaVie does not share, sell, rent, or trade PII with third parties other than as described in this privacy policy.
 
@@ -56,7 +51,7 @@ In addition to the circumstances described above, MonaVie may disclose or releas
 **Links to Other Sites**  
 This Web site contains links to other sites that are not owned or controlled by MonaVie. Please be aware that we, MonaVie, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
 
-### Tracking Information
+**Tracking Information**
 
 **Log Files**  
 Like most every web site, the MonaVie Sites record certain tracking information any time someone visits the site. For every web page that is viewed, our web server records an IP address, the operating system, browser version and the name of the page that was viewed. We use a third-party tracking service that uses tracking technologies to track non-personally identifiable information about visitors to our site. This information is not linked to any specific user and is used in the aggregate to maintain, track performance and improve the MonaVie Sites.
@@ -72,7 +67,7 @@ We may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bu
 
 We may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.”
 
-### Email & "Opt Out" Policy
+**Email & "Opt Out" Policy**
 
 We may use your email address provided to contact you regarding the following:
 
@@ -84,9 +79,9 @@ We may use your email address provided to contact you regarding the following:
 
 
 
-If you desire not to receive information about products or services we think may be of interest, you can change the notification options in your account settings. If you wish to not receive any of these emails, you may opt-out by submitting your email address to [support@monaviemall.com](mailto:support@monaviemall.com) or by following the unsubscribe instructions within each email communication. 
+If you desire not to receive information about products or services we think may be of interest, you can change the notification options in your account settings. If you wish to not receive any of these emails, you may opt-out by submitting your email address to [support@monaviemall.com](mailto:support@monaviemall.com) or by following the unsubscribe instructions within each email communication.
 
-### Protecting Your Personal Information
+**Protecting Your Personal Information**
 
 The MonaVie Sites use secure sockets layer (SSL) to encrypt the transfer of sensitive information, such as your account password and billing information including credit card, from your web browser to our web server.
 
@@ -94,21 +89,21 @@ Only the last four (4) digits of your credit card number will be displayed in yo
 
 The same SSL protocol also acts to authenticate the MonaVie Sites and prevent unauthorized "hackers" from masquerading as any of our sites while you are logged in to your account. This is accomplished through a "digital certificate", which is an unforgettable electronic "identity card".
 
-If another website attempts to falsely identify itself as a MonaVie site, your web browser will display a warning indicating that there is a problem with the digital certificate for [www.monaviemall.com](http://www.monaviemall.com/) or [www.monavievo.com](http://www.monavievo.com/) [or mvie.nl]. Do not log in to those sites if you see any such warning./p>
+If another website attempts to falsely identify itself as a MonaVie site, your web browser will display a warning indicating that there is a problem with the digital certificate for [www.monaviemall.com](http://www.monaviemall.com/) or [www.monavievo.com](http://www.monavievo.com/) [or mvie.nl]. Do not log in to those sites if you see any such warning.
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our Web site, you can send email us at [privacy@monavie.com](mailto:privacy@monavie.com).
 
-### Updating Your Personal Information
+**Updating Your Personal Information**
 
 Preferred customers and distributors can update or correct their personal information at any time by visiting the "My Account" section of the MonaVie Sites. If you wish to access, delete or correct your information, please send us an email to [distributorsupport@monavie.com](mailto:distributorsupport@monavie.com) or by contacting us by telephone or postal mail at the contact information listed below. Requests for access will be responded to within 30 days of the request.
 
-### Changes in this Privacy Statement
+**Changes in this Privacy Statement**
 
 By using our web site, you consent to the collection and use of information by MonaVie as described in this Privacy Policy. If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-### Contact Us
+**Contact Us**
 
 If you have any questions regarding MonaVie’s privacy policy and practices, please direct them
 
