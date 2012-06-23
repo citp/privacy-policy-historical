@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilmingtontrust.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213105630id_/https%3A//www.wilmingtontrust.com/wtcom/index.jsp%3Fsection%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilmingtontrust.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623175820id_/http%3A//www.wilmingtontrust.com/wtcom/index.jsp%3Fsection%3DPrivacy) for the most accurate reproduction.*
 
 # Security and Privacy Statement
 
