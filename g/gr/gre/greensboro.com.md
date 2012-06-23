@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greensboro.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209075537id_/http%3A//www.news-record.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greensboro.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623082122id_/http%3A//www.news-record.com/help/privacy) for the most accurate reproduction.*
 
 # News & Record Privacy Policy for Electronic Publications and Interfaces : News-Record.com : Greensboro & the Triad's most trusted source for local news and analysis
 
@@ -13,13 +13,13 @@ The News & Record is affiliated with other online companies, some of which featu
 
 News-Record.com collects personally identifiable information (name, e-mail address, etc.) and/or demographic data (zip code, gender, interests, etc.) that you submit when you:
 
-  1. register for Subscriber Advantage and other services 
-  2. complete a survey 
-  3. register for a promotion, contest or sweepstakes 
-  4. order a subscription to our newspaper 
+  1. register for Subscriber Advantage and other services
+  2. complete a survey
+  3. register for a promotion, contest or sweepstakes
+  4. order a subscription to our newspaper
   5. send us an email
 
-  6. place a classified ad 
+  6. place a classified ad
 
 
 
@@ -61,6 +61,10 @@ The security of the information that you provide to the News & Record is very im
 
 You should know that when you voluntarily disclose personal information to the public on the News & Record web sites and its affiliated sites (for example, in electronic forums, chat rooms, and other public posting areas such as Bidzilla), that information can be collected and used by others and may result in unsolicited messages from other people. While we do our best to protect your personal information, we cannot be responsible for information that you choose to publicly disclose. Further, you are solely responsible for maintaining the secrecy of any passwords or other account information.   
 Our partners and other Internet sites or services that may be accessible through the News & Record sites have separate data and privacy practices that are independent of us, and we disclaim any responsibility or liability for their policies or actions. Please contact those sites directly if you have questions about their privacy policies.
+
+### News Registry
+
+We participate in the News Registry, a service operated by the NewsRight, LLC. The News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the NewsRight, LLC. Please refer to the NewsRight, LLC News Registry privacy policy at [http://www.newsregistry.com/privacycenter/servicepolicy.aspx ](http://www.newsregistry.com/privacycenter/servicepolicy.aspx) for further information.
 
 ### Direct Marketing Association
 
