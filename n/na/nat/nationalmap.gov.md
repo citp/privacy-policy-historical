@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalmap.gov privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223133908id_/http%3A//www.usgs.gov/laws/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmap.gov privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623133512id_/http%3A//www.usgs.gov/laws/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
@@ -80,7 +80,7 @@ For relevant USGS policy on privacy, refer to the Survey Manual chapter entitled
 
 For relevant USGS policy on information technology security, refer to the Survey Manual chapters entitled, [Information Technology Systems Security](https://web.archive.org/usgs-manual/600/600-5.html "Information Technology Systems Security").
 
-For relevant DOI policy on safeguarding Privacy Act records, refer to the Departmental Manual chapter entitled, [Safeguarding of Privacy Act Records](http://206.131.241.18/app_DM/act_getfiles.cfm?relnum=3454 "Safeguarding of Privacy Act Records").
+For relevant DOI policy on safeguarding Privacy Act records, refer to the [Department's Privacy Program](http://www.doi.gov/ocio/privacy/).
 
 For relevant Federal law on conduct of DOI employees, refer to [43 CFR 2.52 - Conduct of employees](http://cfr.vlex.com/vid/2-52-conduct-employees-19816575 "43 CFR 2.52 - Conduct of employees"). 
 
