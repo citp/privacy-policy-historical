@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the mybuys.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222050703id_/http%3A//www.mybuys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybuys.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623141115id_/http%3A//mybuys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyBuys
 
-**UPDATED – November 21, 2011**
+**UPDATED – March 15, 2012**
 
 _This Privacy Policy explains the privacy practices of MyBuys, Inc. and how we collect, use, and disclose information we collect from users of any of our corporate Clients’ websites or mobile websites (each, a “Client” and “Client’s Site”, respectively) and users of our corporate website   (_[ _www.mybuys.com_](http://www.mybuys.com/) _) (“Corporate Site”).   We take your privacy seriously and want to help you understand what we do, our practices, and the protections we use to safeguard data. _
 
-_If you have questions about our Privacy Policy, please contact us at[info@mybuys.com](mailto:info@mybuys.com) or write to us at Chief Privacy Officer, MyBuys, Inc., 411 Borel Avenue, Suite 100, San Mateo, CA 94402. _
+_If you have questions about our Privacy Policy, please contact us at[privacy@mybuys.com](mailto:privacy@mybuys.com) or write to us at Chief Privacy Officer, MyBuys, Inc., 411 Borel Avenue, Suite 100, _
 
 _As used in this Privacy Policy, “PI” or “Personal Information” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, and e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data.   “Anonymous Information” means data that is not associated with or linked to your Personal Data.  Anonymous Information does not, by itself, permit the identification of individual persons._
 
 **_By using our services through a Client Site or our Corporate Site, you agree to the terms of this Privacy Policy and you expressly consent to the processing collection, use, and disclosure of your Personal Information in accordance with this Privacy Policy._**
 
-_This Privacy Policy is effective as of November 21, 2011._
+_This Privacy Policy is effective as of March 15, 2012._
 
 #### **PORTION OF PRIVACY POLICY FOR USERS OF CLIENTS’ SITES – SUMMARY**
 
@@ -101,6 +101,10 @@ Except as otherwise permitted by law, we retain the Anonymous Information that w
 
 You can opt-out of receiving future emails that we send on behalf of a specific Client by following the “Opt-Out” or "Unsubscribe" instructions in the emails we send.  Note that your opt-out preferences apply with respect to that Client only.
 
+#### Changing Your Email Address
+
+If you would like to change the address where you receive emails that we send on behalf of a specific Client, you can first opt out as described above and then subscribe again using your preferred email address. Note that your change of address will apply with respect to that Client only.
+
 #### **Opting out of Tracking for Advertising and Recommendations**
 
 You can opt-out of allowing us to collect preference data when you browse any of our Clients’ Sites and at the same time opt-out of receiving ads, product recommendations, or other communications based on that data by clicking the button on [this page](https://web.archive.org/opt-out). 
@@ -141,7 +145,13 @@ If we change our Privacy Policy, we will post the updates at [www.mybuys.com/pri
 
 **INTERNATIONAL VISITORS**
 
-Our website is hosted in, and we provide our services from, the United States.  If you use our services from the European Union or other regions with laws governing data collection and use that may differ from United States law, you are transferring your Personal Information to the United States and **you consent to the use of your information under the terms of this Privacy Policy.**
+Our website is hosted in, and we provide our services from, the United States. If you use our services from other regions with laws governing data collection and use that may differ from United States law, you are transferring your Personal Information to the United States and **you consent to the use of your information under the terms of this Privacy Policy.**
+
+**US-EU SAFE HARBOR**
+
+MyBuys adheres to the US-EU Safe Harbor Principles of Notice, Choice, Onward Transfer, Access, Security, Data Integrity, and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program. MyBuys educates relevant employees about compliance with the Safe Harbor Privacy Principles and has self-assessment procedures in place to ensure our compliance. 
+
+If you have any questions, please contact us using the information below. If you believe that MyBuys has not satisfactorily addressed your data privacy concerns related to the US-EU Safe Harbor Principles, you may obtain dispute resolution services through the International Centre for Dispute Resolution, a division of the American Arbitration Association. 
 
 **PRIVACY OF CHILDREN**
 
@@ -170,7 +180,7 @@ Our Clients are businesses, not individuals, and our Corporate Site collects inf
 
 **Use of Client Information**
 
-To the extent that Personal Information (e.g., first and last name, telephone number, e-mail address, or resume) is collected, we may use this to provide you with information that you requested, to correspond with you about any questions or concerns you have brought to our attention, to notify you of new services or updates to our existing services, to send you administrative e-mail notifications, and to respond to your inquiries related to employment opportunities or other requests.  You can opt-out of receiving future marketing emails that we send by following the “Opt-Out” or "Unsubscribe" instructions in such emails (however we may continue to send you administrative emails).  We may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the data personally identifiable to you.  We do not share, sell, rent, or trade any of your Personal Information to any third party for promotional purposes or otherwise, except as expressly described above (e.g., to our service providers, affiliates, in connection with legal processes or protecting the rights of ourselves or any third parties, or in connection with a merger or acquisition) or unless we obtain your prior consent.  In addition, we may share Personal Information when we believe such action is appropriate to enforce customer agreements or to bill or collect for services.  We post customer testimonials on our website which may contain Personal Information such as the customer’s name.  We obtain the customer’s consent prior to posting the testimonial.  Anyone who has provided Personal Information through our corporate website may e-mail us at [info@mybuys.com](mailto:info@mybuys.com) to review, update, delete, and/or correct his/her Personal Information.  Please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).  When we delete any information, it will be deleted from the active database, but may remain in our archives.  We may retain your information for fraud or similar purposes. 
+To the extent that Personal Information (e.g., first and last name, telephone number, e-mail address, or resume) is collected, we may use this to provide you with information that you requested, to correspond with you about any questions or concerns you have brought to our attention, to notify you of new services or updates to our existing services, to send you administrative e-mail notifications, and to respond to your inquiries related to employment opportunities or other requests.  You can opt-out of receiving future marketing emails that we send by following the “Opt-Out” or "Unsubscribe" instructions in such emails (however we may continue to send you administrative emails).  We may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the data personally identifiable to you.  We do not share, sell, rent, or trade any of your Personal Information to any third party for promotional purposes or otherwise, except as expressly described above (e.g., to our service providers, affiliates, in connection with legal processes or protecting the rights of ourselves or any third parties, or in connection with a merger or acquisition) or unless we obtain your prior consent.  In addition, we may share Personal Information when we believe such action is appropriate to enforce customer agreements or to bill or collect for services.  We post customer testimonials on our website which may contain Personal Information such as the customer’s name.  We obtain the customer’s consent prior to posting the testimonial.  Anyone who has provided Personal Information through our corporate website may e-mail us at [privacy@mybuys.com](mailto:privacy@mybuys.com) to review, update, delete, and/or correct his/her Personal Information.  Please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).  When we delete any information, it will be deleted from the active database, but may remain in our archives.  We may retain your information for fraud or similar purposes. 
 
 #### **Third Party Websites; Advertisers**
 
