@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elasticpath.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220080132id_/http%3A//www.elasticpath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elasticpath.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623205945id_/http%3A//www.elasticpath.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Elastic Path Software
 
@@ -70,4 +70,4 @@ This Privacy Policy applies solely to information collected by this website.
 
 ## Contact Us
 
-Should further information be needed regarding our Privacy Policy, please [contact us](https://web.archive.org/web/20111220080132id_/http%3A//www.elasticpath.com/contact "Contact Us").
+Should further information be needed regarding our Privacy Policy, please [contact us](https://web.archive.org/web/20120623205945id_/http%3A//www.elasticpath.com/contact "Contact Us").
