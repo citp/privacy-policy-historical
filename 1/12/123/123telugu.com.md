@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 123telugu.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216174310id_/http%3A//www.123telugu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123telugu.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623182343id_/http%3A//www.123telugu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Telugu Cinema
+# Privacy Policy | 123telugu.com
 
 123telugu.com is fully committed to protecting the privacy of all visitors to its website.
 
@@ -33,5 +33,3 @@ Google, as a third party vendor, uses cookies to serve ads on your site.
 Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet
 
 Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
-
-\-->
