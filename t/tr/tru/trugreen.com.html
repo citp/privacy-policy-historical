@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trugreen.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231114114id_/http%3A//www.trugreen.com/About/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trugreen.com privacy policy that was archived on 2012-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623110919id_/http%3A//www.trugreen.com/About/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,23 +10,31 @@
     TruGreen | Privacy Policy
 
 	</title>
-	<link rel="shortcut icon" href="/Content/images/favicon.ico" mce_href="/Content/images/favicon.ico">
-	<link rel="stylesheet" type="text/css" media="all" href="/Content/_ui/css/main.css?v=p2aku5wb">
-	<link rel="stylesheet" type="text/css" media="all" href="/Content/_ui/css/form.select.css?v=p2aku5wb">
-	<link href="/Content/js/themes/humanity/jquery-ui-1.8.9.custom.css?v=p2aku5wb" rel="stylesheet" type="text/css">
+	<link rel="shortcut icon" href="/Content/images/favicon.ico">
+	<link rel="stylesheet" type="text/css" media="all" href="/scriptcombiner.axd?s=/Content/_ui3/css/main.css,/Content/_ui3/css/form.select.css,/Content/js/themes/humanity/jquery-ui-1.8.9.custom.css,/Content/_ui3/css/additional.css&amp;v=634760285591706803&amp;notjs=">
 	<!--[if lte IE 6]>
-		<script type="text/javascript" src="/Content/_ui/js/DD_belatedPNG_0.0.8a-min.js?v=p2aku5wb"></script>
-		<script type="text/javascript" src="/Content/_ui/js/ie-hover.js?v=p2aku5wb"></script>
-		<link rel="stylesheet" type="text/css" media="all" href="/Content/_ui/css/ie6.css?v=p2aku5wb" />
+		<script type="text/javascript" src="/Content/_ui/js/DD_belatedPNG_0.0.8a-min.js?v=2qezen0r"></script>
+		<script type="text/javascript" src="/Content/_ui/js/ie-hover.js?v=2qezen0r"></script>
+		<link rel="stylesheet" type="text/css" media="all" href="/Content/_ui3/css/ie6.css?v=2qezen0r" />
 	<![endif]-->
-	<!--[if IE]>
-        <script type="text/javascript" src="/Content/_ui/js/PIE.js?v=p2aku5wb"></script>
+    <!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="/Content/_ui3/css/iefix.css?v=2qezen0r" />
     <![endif]-->
-	<script type="text/javascript" src="/Content/_ui/js/jquery-1.4.4.min.js?v=p2aku5wb"></script>
-	<script type="text/javascript">		var $j = jQuery.noConflict();</script>
-	
-	<script type="text/javascript" src="/Content/_ui/js/cufon.js?v=p2aku5wb"></script>
-	<script src="/Content/js/customGA.js?v=p2aku5wb" type="text/javascript"></script>
+    <!--[if IE 8]>
+        <link rel="stylesheet" type="text/css" media="all" href="/Content/_ui3/css/iefix.css?v=2qezen0r" />
+    <![endif]-->
+    <!--[if IE 9]>
+        <link rel="stylesheet" type="text/css" media="all" href="/Content/_ui3/css/iefix.css?v=2qezen0r" />
+    <![endif]-->
+	<!--[if IElanguage
+        <script type="text/javascript" src="/Content/_ui/js/PIE.js?v=2qezen0r"></script>
+    <![endif]-->
+    <script type="text/javascript" src="/foresee/foresee-alive.js"></script>
+	<script type="text/javascript" src="/scriptcombiner.axd?s=/Content/_ui3/js/jquery-1.7.1.js,/Content/_ui3/js/jquery.easing.js,/Content/_ui3/js/fontpagedropdown.js&amp;v=2qezen0r"></script>
+    <script type="text/javascript">
+	    var $j = jQuery.noConflict();
+    </script>
+	<script type="text/javascript" src="/scriptcombiner.axd?s=/Content/_ui3/js/services-tab.js,/Content/_ui3/js/cufon.js,/Content/js/customGA.js,/Content/_ui3/js/jAccordion.js&amp;v=2qezen0r"></script> 
 	<script type="text/javascript">
 		var clickpointAdName = '';
 		var clickpointCampaign = '';
@@ -35,12 +43,40 @@
 		var gaState = '';
 		var gaCity = '';
 		includeGa();
+
+        //workaround for xhtml strict that throws target="_blank" as invalid
+		$j(function () {
+		    $j(".targetblank").attr("target", "_blank");
+		    $j("#showmyaccountlink").click(function (ev) {
+		        ev.preventDefault();
+		        if ($j("#ma-overlay").is(":visible")) {
+		            $j(this).removeClass("opened");
+		            $j("#ma-overlay").fadeOut();
+		        } else {
+		            $j(this).addClass("opened");
+		            $j("#ma-overlay").fadeIn();
+		            //$j("#LoginForm_login_4").focus();
+		        }
+		    });
+		    /*MMA Password label on input*/
+		    $j("#LogingForm_fauxpassword_4").show().focus(function () {
+		        $j(this).hide().blur();
+		        $j("#LoginForm_password_4").show().focus();
+		    });
+		    $j("#LoginForm_password_4").blur(function () {
+		        if ($j(this).val() === "") {
+		            $j("#LogingForm_fauxpassword_4").show();
+		        } else {
+		            $j("#LogingForm_fauxpassword_4").hide();
+		        }
+		    });
+		});
 	</script>
 	
     <link href="/Content/css/mainstyle.css" rel="stylesheet" type="text/css">
     <link href="/Content/css/basic.css" rel="stylesheet" type="text/css">
 
-</head>
+<script type="text/javascript" src="/foresee/foresee-surveydef.js"></script></head>
 <body>
 	<div id="wrapper">
 		<div class="container">
@@ -49,7 +85,8 @@
 	<li><a href="#nav">Skip to navigation</a></li>
 	<li><a href="#content">Skip to content</a></li>
 </ol>
-<!-- / accessibility-nav -->
+
+<!-- /accessibility nav -->
 <div id="header">
 	<div class="top">
 		<div class="search-box">
@@ -63,301 +100,199 @@
 				</form>
 			</div>
 			
-					<a class="existing" href="https://info.trugreen.com/app/utils/login_form/redirects/https%3A%2F%2Fmyaccount.trugreen.com">My Account</a>
+					<a class="existing" id="showmyaccountlink" href="https://info.trugreen.com/app/utils/login_form/redirects/https%3A%2F%2Fmyaccount.trugreen.com">My Account</a>
+                    
+                    
+                    <div id="ma-overlay">
+                        <form class="inner" method="post" action="https://info.trugreen.com/app/utils/login_form/redirects/https%3A%2F%2Fmyaccount.trugreen.com">
+                            <div id="ma-inputs">
+                                <input type="text" id="LoginForm_login_4" name="login" value="E-mail">
+                                <div style="position:relative;">
+                                    <input type="text" id="LogingForm_fauxpassword_4" readonly="readonly" style="position:absolute; top:0; left:0; z-index:10; display:none;" value="Password" class="noplaceholder">
+                                    <input type="password" id="LoginForm_password_4" name="password" class="noplaceholder">
+                                </div>
+                            </div>
+                            <div id="ma-buttons">
+                                <button id="ma-submit-button" type="submit"></button>
+                                <div id="ma-forgot-register">
+                                    <a id="ma-forgot-password" href="https://info.trugreen.com/app/utils/account_assistance/session/L3NpZC80RVBvTEFUaw%3D%3D/redirects/https%3A%2F%2Fmyaccount.trugreen.com">Forgot Password?</a>
+                                    <button id="ma-reg-button" type="button" onclick="document.location.href='https://info.trugreen.com/app/utils/create_account/session/L3NpZC80RVBvTEFUaw%3D%3D/redirects/https%3A%2F%2Fmyaccount.trugreen.com'"></button>
+                                </div>
+                            </div>
+                            <div class="clear"></div>
+                        </form>
+                    </div>
 					
+            
 		</div>
-		<span class="tel">Contact Us <strong>
-			1-866-369-9539</strong></span>
+		<span class="tel"><strong>1-866-369-9539</strong>Sales <br><strong>1-877-905-5147</strong>Customer Service </span>
 	</div>
 	<!-- / top -->
 	<div class="holder">
 		<div class="logo">
-			<a href="/">trugreen. go greener.</a></div>
+			<a href="/">lawn care</a>
+        </div>
 		<ul id="nav">
-			<li id="nav1"><a class="lawn-care" href="/Services/LawncarePrograms" title="Lawn Care" onfocus="this.blur();">
-				<img src="/Content/_ui/images/spacer.gif" alt="" height="61" width="58"></a> </li>
-			<li id="nav2"><a class="tree" href="/Services/TreeShrubPrograms" title="Tree &amp; Shrub" onfocus="this.blur();">
-				<img src="/Content/_ui/images/spacer.gif" alt="" height="61" width="74"></a> </li>
-			<li id="nav3"><a class="services" href="/Services/AdditionalLawn" title="Additional Services" onfocus="this.blur();">
-				<img src="/Content/_ui/images/spacer.gif" alt="" height="61" width="109"></a></li>
-			<li id="nav4"><a class="resources" href="/Tips" title="Resources" onfocus="this.blur();">
-				<img src="/Content/_ui/images/spacer.gif" alt="" height="61" width="58"></a></li>
+			<li id="nav1"><a class="lawn-care" href="/services" title="Lawn Care" onfocus="this.blur();">
+				<img src="/Content/_ui/images/spacer.gif" alt="" height="61" width="58"></a> 
+            </li>
+			<li id="nav2"><a class="tree" href="/services/healthytreeshrubplan" title="Tree &amp; Shrub" onfocus="this.blur();">
+				<img src="/Content/_ui/images/spacer.gif" alt="" height="61" width="74"></a> 
+            </li>
+			<li id="nav3"><a class="services" href="/services/specializedlawnservices" title="Additional Services" onfocus="this.blur();">
+				<img src="/Content/_ui/images/spacer.gif" alt="" height="61" width="109"></a>
+            </li>
+			<li id="nav4"><a class="resources" href="/tips" title="Resources" onfocus="this.blur();">
+				<img src="/Content/_ui/images/spacer.gif" alt="" height="61" width="93"></a>
+            </li>
 		</ul>
 		<!-- / nav -->
 		<div class="contact-box">
-			
-				<div id="find-branch" class="box">
-					
-					<strong>Find Your Branch</strong>
-					<form id="zipform" method="post" action="javascript:set_location();">
+
+			<div id="find-branch" class="box">
+
+				<strong>Find Your Branch</strong>
+				<form id="zipform" method="post" action="javascript:set_location();">
 					<div class="findBranchBox">
-						<input id="zipcode" name="newlocation" type="text" value="Zip Code" onfocus="zip_clear()" onblur="zip_reset()">
+						<input id="zipcode" name="newlocation" type="text" value="ZIP Code" onfocus="zip_clear()" onblur="zip_reset()">
 						<input class="btn-go" type="submit" value="">
 					</div>
-					<br>
-					<input type="hidden" name="url" value="/branch">
+                    <div>
+					    <br>
+					    <input type="hidden" name="url" value="/branch">
+                    </div>
 					<div class="zipform_error" id="zipform_error">
 					</div>
-					</form>
-				</div>
+				</form>
+				
 			</div>
 		</div>
 	</div>
-	<div id="myAccountOfflineModalDialog" title="My Account Currently
-Unavailable" style="display: none;">
+	<div id="myAccountOfflineModalDialog" title="My Account Currently Unavailable" class="hide">
 		The My Account section is currently unavailable. If you need immediate assistance, please contact your local branch at 1-800-TruGreen (1-800-878-4733).  We apologize for this inconvenience and appreciate your patience.<br>
         <br>
         Your TruGreen Team
 	</div>
+</div> 
 
-    <div id="container-inner">
-        <div id="maincontent">
-            <div class="full_content">
-                <h2>
-                    Privacy Policy</h2>
-                The TruGreen Companies is committed to protecting the privacy of our users'
-                personal information. To better protect your privacy, we have instituted the security
-                and privacy practices outlined in this policy. We provide this notice explaining
-                our information practices and the choices you can make about the way your information
-                is used. Our privacy policy contains the following information:<br>
-                <br>
-                <ul>
-                    <li><a href="#Information">Information The TruGreen Companies collects and how it is
-                        used</a></li>
-                    <li><a href="#Disclosure">Disclosure of information to outside parties</a></li>
-                    <li><a href="#Partners">Information partners collect</a></li>
-                    <li><a href="#Cookies">Our use of cookies</a></li>
-                    <li><a href="#Commitment">Commitment to the security of your information</a></li>
-                    <li><a href="#Preferences">How to update/change your preferences</a></li>
-                    <li><a href="#Changes">Changes to our privacy policy</a> </li>
-                </ul>
-                <br>
-                <a name="Information"></a>
-                <h2>
-                    Information The TruGreen Companies collects and how it is used</h2>
-                The TruGreen Companies collects certain information to enable you to take full advantage
-                of our offerings when you register at our site, order products or services, participate
-                in our contests, surveys, promotions, or activities, or otherwise communicate with
-                us. If you choose, you can visit The TruGreen Companies without providing us with
-                any information about yourself. The TruGreen Companies collects both personally
-                identifiable and non-personally identifiable information from users of its website.<br>
-                <br>
-                <strong>Personally Identifiable Information</strong><br>
-                When you register with The TruGreen Companies, we require you to give us contact
-                information (such as your name, e-mail address, and physical address).<br>
-                <br>
-                We may require additional information for specific promotions or contests run on
-                our site.<br>
-                <br>
-                We use the customer contact information we collect to connect you with a service
-                provider, and to send you, if you so choose, information about our company, newsletters,
-                promotional materials, and information from the service provider network.<br>
-                <br>
-                We may also use the information we collect, in combination with outside records,
-                to notify you about important changes to the website, new TruGreen Companies services
-                and products, and special offers and information we think you'll find valuable.
-                We may send you information in conjunction with third-party partners that we think
-                is relevant to your interests.<br>
-                <br>
-                We use information gathered at the time of purchase to process your order, to enable
-                the provider to fulfill your order, and to notify you of your order status. A customer
-                care representative or service provider may contact you in order to fulfill a service
-                you purchased or to provide information you requested.<br>
-                <br>
-                <strong>Non-personally Identifiable Information</strong><br>
-                We may collect certain non-personally identifiable information about you when you
-                visit our site, such as the type of browser you are using (e.g., Netscape, Internet
-                Explorer), the type of operating system you are using, the referring site from which
-                you came (e.g., a partner site), and the domain name of your internet service provider
-                (e.g., America Online, EarthLink).<br>
-                <br>
-                We use the non-personally identifiable information that we collect in the aggregate
-                to improve the design and content of our site. We also use this information to analyze
-                site usage.<br>
-                <a name="Disclosure"></a>
-                <h2>
-                    Disclosure of information to outside parties</h2>
-                To process your requests for products or services, we will need to share some of
-                the personally identifiable information you provided (e.g., contact information
-                and information about particular service needs) with service providers in the provider
-                network.<br>
-                <br>
-                If you choose to receive promotions, newsletters, and/or other types of correspondence
-                from us, the correspondence that you receive will originate from The TruGreen Companies
-                or the provider network, and your personally identifiable information will continue
-                to be solely maintained by The TruGreen Companies.<br>
-                <br>
-                If you registered with The TruGreen Companies through a third-party website or if
-                you registered with a third-party website through The TruGreen Companies, we may
-                need to report certain information to that website, as is necessary.<br>
-                <br>
-                If you come to The TruGreen Companies via a co-branded partner and transact business
-                with us, the information you provide may be collected and used by The TruGreen Companies,
-                as well as by the co-branded partner from which you came. The TruGreen Companies
-                is not responsible for the use that the co-branded partner makes with this information.<br>
-                <br>
-                To help you identify when you are on The TruGreen Companies website, we place our
-                logo in the upper left corner to indicate that you are within our website.<br>
-                <br>
-                The TruGreen Companies may be obligated to disclose personally identifiable information
-                to law enforcement or agencies, even though such agencies may not comply with the
-                terms of our privacy policy. The TruGreen Companies will disclose information to
-                such agencies in response to legal process or when we believe in good faith that
-                the law requires it, for example, in response to a court order, subpoena, or a law
-                enforcement agency's request.<br>
-                <br>
-                Finally, The TruGreen Companies may provide aggregate statistics about our customers,
-                sales, traffic patterns, and related site information to reputable third-party vendors,
-                partners, service providers, or to the press. Aggregate statistics contain only
-                non-personally identifiable information.<br>
-                <a name="Partners"></a>
-                <h2>
-                    Information partners collect</h2>
-                Our site contains links to other websites whose information practices may be different
-                than ours. You should consult the other sites' privacy policies, as we have
-                no control over information that you may submit or that the third parties collect
-                on those sites.<br>
-                <br>
-                We may offer promotions or content that is sponsored by, or co-branded with, identified
-                third parties. By virtue of these relationships, these third parties may obtain
-                personally identifiable information that you submit. The TruGreen Companies has
-                no control over the third party's use of this information.<br>
-                <a name="Cookies"></a>
-                <h2>
-                    Our use of cookies</h2>
-                The TruGreen Companies website uses cookies, a technology that stores small pieces
-                of information on your hard drive, to personalize content and keep track of your
-                purchases during your visit. Each time your browser visits a website, the site sends
-                all cookies relevant to that website; cookies are used to maintain a session between
-                you and the web server.<br>
-                <a name="Commitment"></a>
-                <h2>
-                    Commitment to the security of your information</h2>
-                When you place orders or access your account information, we use a secure server.
-                The secure server software, SSL (Secure Sockets Layer), encrypts all information
-                you input before it is sent to us. Furthermore, digital certificates protect all
-                of the customer transactional data we collect against unauthorized access. The TruGreen
-                Companies digital certificates are issued by VeriSign, one of the most established
-                issuers of digital certificates. Additionally, we use firewall security and limit
-                data access to protect your personally identifiable information.<br>
-                <a name="Preferences"></a>
-                <h2>
-                    How to update/change your preferences</h2>
-                The TruGreen Companies may send communications, promotional information, and/or
-                newsletters to our registrants. You can choose to not receive communications from
-                us. We provide the following options for reviewing and updating the personally identifiable
-                information that we collect and maintain, including options for communications,
-                news, and special offers. To review and update your choices, please <a href="mailto:customerservice@trugreenmail.com?subject=Profile%20Update">
-                    send us an e-mail</a> with your changes, titled "Profile Update".
-                You may also call a customer care specialist at 1-800-TRUGREEN. You may also <a href="http://info.trugreen.com/cgi-bin/trucare.cfg/php/enduser/std_adp.php?p_faqid=529">
-                    unsubscribe from our e-mail list</a> at any time.<br>
-                <a name="Changes"></a>
-                <h2>
-                    Changes to our privacy policy</h2>
-                If we materially change our privacy policy, we will post changes on this page so
-                that you are always aware of what information we collect, how we use it, and under
-                what circumstances we disclose it.
-            </div>
-        </div>
-    </div>
+<div id="container-inner">
+<div id="maincontent">
+<div class="full_content">
+<h2>Privacy Policy</h2>
+The TruGreen Companies is committed to protecting the privacy of our users'                 personal information. To better protect your privacy, we have instituted the security                 and privacy practices outlined in this policy. We provide this notice explaining                 our information practices and the choices you can make about the way your information                 is used. Our privacy policy contains the following information:<br> <br> 
+<ul>
+<li><a href="#Information">Information The TruGreen Companies collects and how it is                         used</a></li>
+<li><a href="#Disclosure">Disclosure of information to outside parties</a></li>
+<li><a href="#Partners">Information partners collect</a></li>
+<li><a href="#Cookies">Our use of cookies</a></li>
+<li><a href="#Commitment">Commitment to the security of your information</a></li>
+<li><a href="#Preferences">How to update/change your preferences</a></li>
+<li><a href="#Changes">Changes to our privacy policy</a> </li>
+</ul>
+<br> <a name="Information"></a>
+<h2>Information The TruGreen Companies collects and how it is used</h2>
+The TruGreen Companies collects certain information to enable you to take full advantage                 of our offerings when you register at our site, order products or services, participate                 in our contests, surveys, promotions, or activities, or otherwise communicate with                 us. If you choose, you can visit The TruGreen Companies without providing us with                 any information about yourself. The TruGreen Companies collects both personally                 identifiable and non-personally identifiable information from users of its website.<br> <br> <strong>Personally Identifiable Information</strong><br> When you register with The TruGreen Companies, we require you to give us contact                 information (such as your name, e-mail address, and physical address).<br> <br> We may require additional information for specific promotions or contests run on                 our site.<br> <br> We use the customer contact information we collect to connect you with a service                 provider, and to send you, if you so choose, information about our company, newsletters,                 promotional materials, and information from the service provider network.<br> <br> We may also use the information we collect, in combination with outside records,                 to notify you about important changes to the website, new TruGreen Companies services                 and products, and special offers and information we think you'll find valuable.                 We may send you information in conjunction with third-party partners that we think                 is relevant to your interests.<br> <br> We use information gathered at the time of purchase to process your order, to enable                 the provider to fulfill your order, and to notify you of your order status. A customer                 care representative or service provider may contact you in order to fulfill a service                 you purchased or to provide information you requested.<br> <br> <strong>Non-personally Identifiable Information</strong><br> We may collect certain non-personally identifiable information about you when you                 visit our site, such as the type of browser you are using (e.g., Netscape, Internet                 Explorer), the type of operating system you are using, the referring site from which                 you came (e.g., a partner site), and the domain name of your internet service provider                 (e.g., America Online, EarthLink).<br> <br> We use the non-personally identifiable information that we collect in the aggregate                 to improve the design and content of our site. We also use this information to analyze                 site usage.<br> <a name="Disclosure"></a>
+<h2>Disclosure of information to outside parties</h2>
+To process your requests for products or services, we will need to share some of                 the personally identifiable information you provided (e.g., contact information                 and information about particular service needs) with service providers in the provider                 network.<br> <br> If you choose to receive promotions, newsletters, and/or other types of correspondence                 from us, the correspondence that you receive will originate from The TruGreen Companies                 or the provider network, and your personally identifiable information will continue                 to be solely maintained by The TruGreen Companies.<br> <br> If you registered with The TruGreen Companies through a third-party website or if                 you registered with a third-party website through The TruGreen Companies, we may                 need to report certain information to that website, as is necessary.<br> <br> If you come to The TruGreen Companies via a co-branded partner and transact business                 with us, the information you provide may be collected and used by The TruGreen Companies,                 as well as by the co-branded partner from which you came. The TruGreen Companies                 is not responsible for the use that the co-branded partner makes with this information.<br> <br> To help you identify when you are on The TruGreen Companies website, we place our                 logo in the upper left corner to indicate that you are within our website.<br> <br> The TruGreen Companies may be obligated to disclose personally identifiable information                 to law enforcement or agencies, even though such agencies may not comply with the                 terms of our privacy policy. The TruGreen Companies will disclose information to                 such agencies in response to legal process or when we believe in good faith that                 the law requires it, for example, in response to a court order, subpoena, or a law                 enforcement agency's request.<br> <br> Finally, The TruGreen Companies may provide aggregate statistics about our customers,                 sales, traffic patterns, and related site information to reputable third-party vendors,                 partners, service providers, or to the press. Aggregate statistics contain only                 non-personally identifiable information.<br> <a name="Partners"></a>
+<h2>Information partners collect</h2>
+Our site contains links to other websites whose information practices may be different                 than ours. You should consult the other sites' privacy policies, as we have                 no control over information that you may submit or that the third parties collect                 on those sites.<br> <br> We may offer promotions or content that is sponsored by, or co-branded with, identified                 third parties. By virtue of these relationships, these third parties may obtain                 personally identifiable information that you submit. The TruGreen Companies has                 no control over the third party's use of this information.<br> <a name="Cookies"></a>
+<h2>Our use of cookies</h2>
+The TruGreen Companies website uses cookies, a technology that stores small pieces                 of information on your hard drive, to personalize content and keep track of your                 purchases during your visit. Each time your browser visits a website, the site sends                 all cookies relevant to that website; cookies are used to maintain a session between                 you and the web server.<br> <a name="Commitment"></a>
+<h2>Commitment to the security of your information</h2>
+When you place orders or access your account information, we use a secure server.                 The secure server software, SSL (Secure Sockets Layer), encrypts all information                 you input before it is sent to us. Furthermore, digital certificates protect all                 of the customer transactional data we collect against unauthorized access. The TruGreen                 Companies digital certificates are issued by VeriSign, one of the most established                 issuers of digital certificates. Additionally, we use firewall security and limit                 data access to protect your personally identifiable information.<br> <a name="Preferences"></a>
+<h2>How to update/change your preferences</h2>
+The TruGreen Companies may send communications, promotional information, and/or                 newsletters to our registrants. You can choose to not receive communications from                 us. We provide the following options for reviewing and updating the personally identifiable                 information that we collect and maintain, including options for communications,                 news, and special offers. To review and update your choices, please <a href="mailto:customerservice@trugreenmail.com?subject=Profile%20Update"> send us an e-mail</a> with your changes, titled "Profile Update".                 You may also call a customer care specialist at 1-800-TRUGREEN. You may also <a href="http://info.trugreen.com/cgi-bin/trucare.cfg/php/enduser/std_adp.php?p_faqid=529"> unsubscribe from our e-mail list</a> at any time.<br> <a name="Changes"></a>
+<h2>Changes to our privacy policy</h2>
+If we materially change our privacy policy, we will post changes on this page so                 that you are always aware of what information we collect, how we use it, and under                 what circumstances we disclose it.</div>
+</div>
+</div>
 
 		</div>
 		<div id="footer">
 			<!-- /container -->
-			
+	        
 <div class="holder">
 	<div class="top">
-		
-		<!-- content not found -->
 		<div class="box">
-			<h3>
-				<img src="/Content/_ui/images/footer_Site.gif" alt="Site"></h3>
-			<ul>
-				<li><a href="http://www.trugreencommercial.com">Commercial Services</a></li>
-				<li><a href="/About/LocalLawnCare">Local Lawn Care</a></li>
-				<li><a href="/About/SiteMap">Site Map</a></li>
-				<li><a href="/About/Privacy">Privacy Policy</a></li>
-				<li><a href="/About/ProductUse">Product Use Statement</a></li>
-				<li><a href="http://www.qhire.net/434149" target="_blank">TruGreen Careers</a></li>
-			</ul>
-		</div>
-		<div class="box">
-			<h3>
-				<img src="/Content/_ui/images/footer_Social.gif" alt="Social"></h3>
-			<ul>
-				<li><a href="http://www.facebook.com/trugreen" onclick="recordOutboundLink(this, 'Outbound Links', 'Facebook');return false;" target="_blank">Facebook</a></li>
-				<li><a href="http://www.youtube.com/trugreen" onclick="recordOutboundLink(this, 'Outbound Links', 'YouTube');return false;" target="_blank">YouTube</a></li>
-				<li><a href="http://www.mybotanicplanet.com/" onclick="recordOutboundLink(this, 'Outbound Links', 'My Botanic Planet');return false;" target="_blank">My Botanic Planet</a></li>
-			</ul>
-		</div>
-		<div class="box">
-			<h3>
-				<img src="/Content/_ui/images/footer_AboutUs.gif" alt="About Us"></h3>
-			<ul>
-				<li><a href="/About/Media">Media Relations</a></li>
-				<li><a href="/About/Contact">Contact Us</a></li>
-			</ul>
-		</div>
-		<div class="box">
-			<h3>
-				<img src="/Content/_ui/images/footer_Partners.gif" alt="Partners"></h3>
-			<ul>
-				<li><a href="http://www.terminix.com/" onclick="recordOutboundLink(this, 'Outbound Links', 'Terminix');return false;" target="_blank">Terminix<sup>®</sup></a></li>
-				<li><a href="http://www.merrymaids.com/" onclick="recordOutboundLink(this, 'Outbound Links', 'Merry Maids');return false;" target="_blank">Merry Maids<sup>®</sup></a></li>
-				<li><a href="http://www.servicemasterclean.com/" onclick="recordOutboundLink(this, 'Outbound Links', 'ServiceMaster Clean');return false;" target="_blank">ServiceMaster Clean<sup>®</sup></a></li>
-				<li><a href="http://www.americanhomeshield.com/" onclick="recordOutboundLink(this, 'Outbound Links', 'American Home Shield');return false;" target="_blank">American Home Shield<sup>®</sup></a></li>
-				<li><a href="http://www.furnituremedic.com/" onclick="recordOutboundLink(this, 'Outbound Links', 'Furniture Medic');return false;" target="_blank">Furniture Medic<sup>®</sup></a></li>
-				<li><a href="http://www.amerispec.com/" onclick="recordOutboundLink(this, 'Outbound Links', 'AmeriSpec');return false;" target="_blank">AmeriSpec<sup>®</sup></a></li>
-			</ul>
-		</div>
-		<div class="box call-us">
-			<h3>
-				<img src="/Content/_ui/images/footer_ContactUs.gif" alt="Call Us"></h3>
-			<dl>
-				<dt>Sales</dt>
-				<dd>
-					1-866-369-9539</dd>
-				<dt>Customer Service</dt>
-				<dd>
-					1-877-905-5147</dd>
-			</dl>
-			<strong class="logo-master"><a href="http://www.servicemaster.com/" target="_blank">ServiceMaster</a></strong>
-		</div>
+<h3 class="footer_h footer_Site">&nbsp;</h3>
+<ul>
+<li><a href="http://www.trugreencommercial.com">Commercial Services</a></li>
+<li><a href="http://www.trugreen.com/About/LocalLawnCare">Local Lawn Care</a></li>
+<li><a href="http://www.trugreen.com/About/SiteMap">Site Map</a></li>
+<li><a href="http://www.trugreen.com/About/Privacy">Privacy Policy</a></li>
+<li><a href="http://www.trugreen.com/About/ProductUse">Product Use Statement</a></li>
+<li><a href="http://careers.servicemaster.com/go/trugreen/326481/" class="targetblank">TruGreen Careers</a></li>
+<li><a href="http://www.trugreen.com/services">Lawn Care</a></li>
+<li><a href="http://www.trugreen.com/Services/TruNatural">Organic Lawn Care</a></li>
+<li><a href="http://www.trugreen.com/Tips">Lawn Care Tips</a></li>
+</ul>
+</div>
+<div class="box">
+<h3 class="footer_h footer_Social">&nbsp;</h3>
+<ul>
+<li><a onclick="recordOutboundLink(this, 'Outbound Links', 'Facebook');return false;" href="http://www.facebook.com/trugreen" class="targetblank">Facebook</a></li>
+<li><a onclick="recordOutboundLink(this, 'Outbound Links', 'YouTube');return false;" href="http://www.youtube.com/trugreen" class="targetblank">YouTube</a></li>
+<li><a onclick="recordOutboundLink(this, 'Outbound Links', 'My Botanic Planet');return false;" href="http://www.mybotanicplanet.com/" class="targetblank">My Botanic Planet</a></li>
+</ul>
+</div>
+<div class="box">
+<h3 class="footer_h footer_AboutUs">&nbsp;</h3>
+<ul>
+<li><a href="http://www.trugreen.com/About/Media">Media Relations</a></li>
+<li><a href="http://www.trugreen.com/About/Contact">Contact Us</a></li>
+</ul>
+</div>
+<div class="box">
+<h3 class="footer_h footer_Partners">&nbsp;</h3>
+<ul>
+<li><a onclick="recordOutboundLink(this, 'Outbound Links', 'Terminix');return false;" href="http://www.terminix.com/" class="targetblank">Terminix<sup>®</sup></a></li>
+<li><a onclick="recordOutboundLink(this, 'Outbound Links', 'Merry Maids');return false;" href="http://www.merrymaids.com/" class="targetblank">Merry Maids<sup>®</sup></a></li>
+<li><a onclick="recordOutboundLink(this, 'Outbound Links', 'ServiceMaster Clean');return false;" href="http://www.servicemasterclean.com/" class="targetblank">ServiceMaster Clean<sup>®</sup></a></li>
+<li><a onclick="recordOutboundLink(this, 'Outbound Links', 'American Home Shield');return false;" href="http://www.ahs.com/" class="targetblank">American Home Shield<sup>®</sup></a></li>
+<li><a onclick="recordOutboundLink(this, 'Outbound Links', 'Furniture Medic');return false;" href="http://www.furnituremedic.com/" class="targetblank">Furniture Medic<sup>®</sup></a></li>
+<li><a onclick="recordOutboundLink(this, 'Outbound Links', 'AmeriSpec');return false;" href="http://www.amerispec.com/" class="targetblank">AmeriSpec<sup>®</sup></a></li>
+</ul>
+</div>
+<div class="box call-us">
+<h3 class="footer_h footer_ContactUs">&nbsp;</h3>
+<dl> <dt>Sales</dt> <dd>1-866-369-9539</dd> <dt>Customer Service</dt> <dd>1-877-905-5147</dd> </dl> <strong class="logo-master"><a href="http://www.servicemaster.com/" class="targetblank">servicemaster</a></strong></div>
 		
 	</div>
 	<!-- / top -->
 	<p>
-		© 2011 The TruGreen Companies LLC All rights reserved</p>
+		© 2012 The TruGreen Companies LLC All rights reserved.</p>
 </div>
+<script type="text/javascript">
+    if ($j("#footer .call-us strong a").html() == "servicemaster") {
+        $j("#footer .call-us strong").addClass("logo-master");
+    }
+</script>
 
 			<script type="text/javascript">				Cufon.now();</script>
-			<script type="text/javascript" src="/Content/js/jquery.simplemodal.1.4.1.min.js"></script>
-			<script type="text/javascript" src="/Content/_ui/js/tabs.js?v=p2aku5wb"></script>
-			<script type="text/javascript" src="/Content/_ui/js/jquery.gallery.js?v=p2aku5wb"></script>
-			<script type="text/javascript" src="/Content/_ui/js/form.select.jquery.js?v=p2aku5wb"></script>
-			<script type="text/javascript" src="/Content/_ui/js/inputs.js?v=p2aku5wb"></script>
-			<script type="text/javascript" src="/Content/_ui/js/header.js?v=p2aku5wb"></script>
-			<script src="/Content/js/leadFormValidate.js?v=p2aku5wb" type="text/javascript" defer="defer"></script>
-			<script src="/Content/js/jquery-ui-1.8.9.custom.min.js?v=p2aku5wb" type="text/javascript"></script>
+            <script type="text/javascript" src="/scriptcombiner.axd?s=/Content/js/jquery.simplemodal.1.4.1.min.js,/Content/_ui/js/tabs.js,/Content/_ui/js/jquery.gallery.js,/Content/_ui/js/form.select.jquery.js,/Content/_ui/js/inputs.js,/Content/_ui/js/header.js,/Content/js/leadFormValidate.js,/Content/js/jquery-ui-1.8.9.custom.min.js&amp;v=2qezen0r"></script>
+
+			
+
 			
 			
+            <script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
 			<!--[if lte IE 6]>
-    <script type="text/javascript">
-        $j(window).load(function () { // after all the images are loaded
-            if ($j.browser.msie && parseInt($j.browser.version.substr(0, 1)) < 7) { // ie6 or 5
-                $j("img.png").each(function () {
-                    $j(this).css("filter", "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + $j(this).attr('src') + "', sizingMethod='scale')").attr("src", "/Content/_media/images/blank.gif");
+            <script type="text/javascript">
+                $j(window).load(function () { // after all the images are loaded
+                    if ($j.browser.msie && parseInt($j.browser.version.substr(0, 1)) < 7) { // ie6 or 5
+                        $j("img.png").each(function () {
+                            $j(this).css("filter", "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + $j(this).attr('src') + "', sizingMethod='scale')").attr("src", "/Content/_media/images/blank.gif");
+                        });
+                        $j("div.png").each(function () {
+                            var bg = $j(this).css("backgroundImage");
+                            bg.match(/^url[("']+(.*\.png)[)"']+$/i);
+                            bg = RegExp.$1;
+                            $j(this).css("filter", "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + bg + "', sizingMethod='crop')").css("backgroundImage", "none");
+                        });
+                    }
                 });
-                $j("div.png").each(function () {
-                    var bg = $j(this).css("backgroundImage");
-                    bg.match(/^url[("']+(.*\.png)[)"']+$/i);
-                    bg = RegExp.$1;
-                    $j(this).css("filter", "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + bg + "', sizingMethod='crop')").css("backgroundImage", "none");
-                });
-            }
-        });
-    </script>
-	<![endif]-->
+            </script>
+	        <![endif]-->
 		</div>
 	</div>
 
