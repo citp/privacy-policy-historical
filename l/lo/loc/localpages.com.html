@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the localpages.com privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226155110id_/http%3A//www.localpages.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the localpages.com privacy policy that was archived on 2012-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623062007id_/http%3A//www.localpages.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Local Business Directory | Online Yellow Pages | LocalPages</title>
 <link rel="shortcut icon" href="http://www.localpages.com/favicon.ico" type="image/x-icon">
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/8192.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.localpages.com/images/jquery-1.4.4.min.js"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/8192.js" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	
 
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
@@ -45,7 +46,7 @@ function ajaxcombo(selectobjID, loadarea){
 	ajaxpage(selectobj.options[selectobj.selectedIndex].value, loadarea)
 }
 $(document).ready(function(){
-	ajaxpage('http://www.localpages.com/weather_report.php?city=Seattle&state=WA', 'weather') ;
+	ajaxpage('http://www.localpages.com/weather_report.php?city=Ashburn&state=VA', 'weather') ;
 })
 </script>
 
@@ -62,13 +63,13 @@ _gaq.push(['_setCustomVar',
 _gaq.push(['_setCustomVar',
 2,                   // This custom var is set to slot #1.  Required parameter.
 'city',           // The top-level name for your online content categories.  Required parameter.
-'Seattle',  // Sets the value of "Section" to "Life & Style" for this particular aricle.  Required parameter.
+'Ashburn',  // Sets the value of "Section" to "Life & Style" for this particular aricle.  Required parameter.
 1                    // Sets the scope to page-level.  Optional parameter.
 ]);
 _gaq.push(['_setCustomVar',
 3,                   // This custom var is set to slot #1.  Required parameter.
 'state',           // The top-level name for your online content categories.  Required parameter.
-'WA',  // Sets the value of "Section" to "Life & Style" for this particular aricle.  Required parameter.
+'VA',  // Sets the value of "Section" to "Life & Style" for this particular aricle.  Required parameter.
 1                    // Sets the scope to page-level.  Optional parameter.
 ]);
 
@@ -240,7 +241,7 @@ function submitForm(siteUrl)
 		}else{
 			if(state!='') {search_url += "/"+state.toLowerCase().replace(/^\s*/, "").replace(/\s*$/, "");}
 			if(city!='') {search_url += "/"+city.toLowerCase().replace(/^\s*/, "").replace(/\s*$/, "").replace(/\s+/g, "-");}
-			if(keywords) {search_url += "/"+keywords.replace(/\s+/g, '-').replace(/&/g, 'and').replace(/'/g, '').toLowerCase();}
+			if(keywords) {search_url += "/"+encodeURIComponent(encodeURIComponent(keywords.replace(/\s+/g, '-').replace(/'/g, '').toLowerCase()));}
 		}
 		//alert(search_url);
 		window.location = search_url;
@@ -344,7 +345,7 @@ function loginSubmit()
 		  <li><a href="http://www.localpages.com/local-food-deals">Local Food Deals</a></li>
         </ul> </div>
     <div class="search_wrapper"><div class="search_wrapper_left cf">
-          <h1>Seattle<span>&nbsp;WA</span></h1>
+          <h1>Ashburn<span>&nbsp;VA</span></h1>
           <div class="search_filter"><ul>
               <li><strong>Search:</strong></li>
               <li><a href="javascript:;" class="filter_on" id="websrch" onclick="changeformaction('web');">Web</a></li>
@@ -355,11 +356,11 @@ function loginSubmit()
           <div class="search_form cf">
           <form action="http://www.localpages.com/search_results.php" name="frm_search" method="get" onsubmit="submitForm('search_result');return false;"> <input type="hidden" name="for" id="for" value="business"><input type="submit" style="display:none"><input name="keywords" id="keywords" onfocus="if(this.value == 'eg. Business, Brand or Service') {this.value = '';}" onblur="if (this.value == '') {this.value = 'eg. Business, Brand or Service';}" type="text" class="searchfield_1" value="eg. Business, Brand or Service">
 
-              <input name="location" id="location" type="text" class="searchfield_2" value="Seattle, WA" onfocus="if(this.value == 'eg. City, State or Zip') {this.value = '';}" onblur="if (this.value == '') {this.value = 'eg. City, State or Zip';}"><input type="submit" name="submit" class="search_form_button" value=""><input type="hidden" name="search_for" id="search_for" value="web">
+              <input name="location" id="location" type="text" class="searchfield_2" value="Ashburn, VA" onfocus="if(this.value == 'eg. City, State or Zip') {this.value = '';}" onblur="if (this.value == '') {this.value = 'eg. City, State or Zip';}"><input type="submit" name="submit" class="search_form_button" value=""><input type="hidden" name="search_for" id="search_for" value="web">
           <input type="hidden" name="for" id="for" value="business">
           </form></div>
         </div><div class="weather_widget">
-        <div class="widget_date">December, 26th</div>
+        <div class="widget_date">June, 22nd</div>
         <div class="widget_temperature" id="weather" name="weather"></div>
         <div class="widget_neighborhood"><a href="#" onclick="showZipDiv();">Set Neighborhood</a></div>
       </div>
@@ -599,6 +600,7 @@ If you have any questions about this privacy policy or about LocalPages.com info
         <h3>Company</h3>
       </li>
       <li><a href="http://www.localpages.com/about-us.html">About Us</a></li>
+	  <li><a href="http://www.localpages.com/contact-us.html">Contact Us</a></li>
       <li><a href="http://www.localpages.com/advertise/">Advertise</a></li>
       <li><a href="http://blog.localpages.com/">Blog</a></li>
       <li><a href="http://www.localpages.com/terms.html">Terms</a></li>
@@ -606,6 +608,7 @@ If you have any questions about this privacy policy or about LocalPages.com info
 	  <li><a href="http://www.localpages.com/nominate-local-business.php">BOTW</a></li>
 	  <li><a href="http://www.localpages.com/yellowpages/">Categories</a></li>
 	  <li><a href="http://www.localpages.com/nat-adv">National Listings</a></li>
+	  <li><a href="http://www.yext.com/pl/localpages-listing/index.html" target="_blank">Local Advertising</a></li>
     </ul> <div class="footer_details">
       <h3>LocalPages delivers online coupons and local advertiser special offers</h3>
       <p>LocalPages provides geo-targeted traffic to both national and local businesses via search, email, display, and lead generation all within our proprietary platform. Widely known as one of the most competitive monetization solution providers, the LocalPages network reaches confirmed unique monthly visitors and offers an exclusive selection of white-labeled licensed platform products for some of the most highly regarded networks and companies in the industry.</p>
@@ -616,6 +619,31 @@ If you have any questions about this privacy policy or about LocalPages.com info
 		  <div class="clear"></div>
 		</div><div class="loc_bubblewrap" id="zipCodeDivision" style="left: 892px; top: 146px;display:none;"><div class="pointer_up"></div><div class="loc_bubble"><form method="post" id="setNeighbourhood" name="setNeighbourhood"><p>Enter Your Zip Code</p><input name="location" id="location" type="hidden" value=""><input name="keywords" id="keywords" type="hidden" value="" maxlength="5"><input name="zip" id="zip" type="text" class="loc_field" maxlength="5"><a id="location_submit" href="javascript:void(0);" style="background: url('http://www.localpages.com/css/sprite.png') repeat scroll 0 -500px transparent !important;" onclick="javascript:document.setNeighbourhood.submit();">Submit</a></form></div></div><script type="text/javascript" src="http://m.admedia.com/?affl=localpages_products"> </script>
 <link href="http://www.localpages.com//css/chatbubble.css" rel="stylesheet" type="text/css">
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-xHSCFFrFCq8et"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-xHSCFFrFCq8et.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
 
 <!-- Begin comScore Tag -->	
 <script>
@@ -667,30 +695,4 @@ function showhideDiv( divID, id )
 	}
 }
 </script>
-<!-- <font color=white>
-SEARCH RESULTS PAGE :: 
-Yellow Book Business Search  API Loading Time =  
-YouTube Video Search Results API Loading Time = 
-OLD Db Business Search Results Loading Time = 
-e-Directory Search Results Loading Time =  
-
-VIDEO PAGE::
-VIDEO  TIME  =  
-
-COMMON AREA ::
-REVIEWS  TIME  =    
-SEARCH REPORT =  
-RECENT SEARCH ACTIVITY =  
-UP COMING EVENTS TIME =  
-SPONSORS =  
-LEFT TIME =  
-
-
-INDEX PAGE  :: 
-DEALS - EVER SAVE  
-DEALS - NEWS   
-DEALS - SURF  
-
-BODY LOADING TIME ::
-BODY LOADING TIME 0.00063896179199219 
-Total Loading  Time:: 0.0036299228668213   </font> --></body></html>
+</body></html>
