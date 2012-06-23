@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantprivatelabelvideos.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223140642id_/http%3A//instantprivatelabelvideos.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantprivatelabelvideos.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623055456id_/http%3A//www.instantprivatelabelvideos.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
