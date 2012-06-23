@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooomr.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228025933id_/http%3A//www.zooomr.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooomr.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623092045id_/http%3A//www.zooomr.com/about/privacy_policy) for the most accurate reproduction.*
 
 # About Zooomr | Privacy Policy
 
