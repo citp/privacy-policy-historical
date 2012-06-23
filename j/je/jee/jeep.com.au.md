@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jeep.com.au privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217083909id_/http%3A//www.jeep.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeep.com.au privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623020002id_/http%3A//www.jeep.com.au/privacypolicy) for the most accurate reproduction.*
 
 # WEBSITE USAGE TERMS AND CONDITIONS
 
 WEBSITE USAGE TERMS AND CONDITIONS   
   
-### **CHRYSLER AUSTRALIA PTY LTD**
+### **CHRYSLER AUSTRALIA PTY LTD (CHRYSLER JEEP DODGE)**
 
 In consideration of you viewing this website, you agree to be bound by the following terms and conditions:
 
@@ -55,7 +55,7 @@ Chief Security Officer
 
 Chrysler Australia Pty Ltd
 
-1-27 Princes Highway, Dandenong VICTORIA 3175
+PO BOX 4145, Dandenong South VICTORIA 3164
 
 Australia
 
@@ -86,7 +86,7 @@ Copyright Department
 1000 Chrysler Drive  
 CIMS 485-13-32  
 Auburn Hills, MI 48326 U.S.A.  
-[ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy93039%20=%20'copyrights'%20+%20'@';%20addy93039%20=%20addy93039%20+%20'chrysler'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy93039%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy93039%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[copyrights@chrysler.com](mailto:copyrights@chrysler.com)
+[ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy76108%20=%20'copyrights'%20+%20'@';%20addy76108%20=%20addy76108%20+%20'chrysler'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy76108%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy76108%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[copyrights@chrysler.com](mailto:copyrights@chrysler.com)
 
 **Trade Marks**
 
