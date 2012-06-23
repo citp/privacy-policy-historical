@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the godfathertraffic.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623125957id_/http%3A//godfathertraffic.com/%3F_w%3Dprivacy%26PHPSESSID%3Dc5e4c3baba9181df9d4990a3c9d9d705) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godfathertraffic.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623190508id_/http%3A//godfathertraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
-# Come take your seat.. Your table is ready!
+# Godfather Traffic Come take your seat.. Your table is ready!
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR godfathertraffic.com**
 
