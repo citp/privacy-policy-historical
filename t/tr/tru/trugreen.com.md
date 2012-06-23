@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231114114id_/http%3A//www.trugreen.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623110919id_/http%3A//www.trugreen.com/About/Privacy) for the most accurate reproduction.*
 
 # TruGreen | Privacy Policy
 
-##  Privacy Policy
+## Privacy Policy
 
 The TruGreen Companies is committed to protecting the privacy of our users' personal information. To better protect your privacy, we have instituted the security and privacy practices outlined in this policy. We provide this notice explaining our information practices and the choices you can make about the way your information is used. Our privacy policy contains the following information:
 
@@ -17,7 +17,7 @@ The TruGreen Companies is committed to protecting the privacy of our users' pers
   
 
 
-##  Information The TruGreen Companies collects and how it is used
+## Information The TruGreen Companies collects and how it is used
 
 The TruGreen Companies collects certain information to enable you to take full advantage of our offerings when you register at our site, order products or services, participate in our contests, surveys, promotions, or activities, or otherwise communicate with us. If you choose, you can visit The TruGreen Companies without providing us with any information about yourself. The TruGreen Companies collects both personally identifiable and non-personally identifiable information from users of its website.
 
@@ -38,7 +38,7 @@ We may collect certain non-personally identifiable information about you when yo
 We use the non-personally identifiable information that we collect in the aggregate to improve the design and content of our site. We also use this information to analyze site usage.  
 
 
-##  Disclosure of information to outside parties
+## Disclosure of information to outside parties
 
 To process your requests for products or services, we will need to share some of the personally identifiable information you provided (e.g., contact information and information about particular service needs) with service providers in the provider network.
 
@@ -55,28 +55,28 @@ The TruGreen Companies may be obligated to disclose personally identifiable info
 Finally, The TruGreen Companies may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, partners, service providers, or to the press. Aggregate statistics contain only non-personally identifiable information.  
 
 
-##  Information partners collect
+## Information partners collect
 
 Our site contains links to other websites whose information practices may be different than ours. You should consult the other sites' privacy policies, as we have no control over information that you may submit or that the third parties collect on those sites.
 
 We may offer promotions or content that is sponsored by, or co-branded with, identified third parties. By virtue of these relationships, these third parties may obtain personally identifiable information that you submit. The TruGreen Companies has no control over the third party's use of this information.  
 
 
-##  Our use of cookies
+## Our use of cookies
 
 The TruGreen Companies website uses cookies, a technology that stores small pieces of information on your hard drive, to personalize content and keep track of your purchases during your visit. Each time your browser visits a website, the site sends all cookies relevant to that website; cookies are used to maintain a session between you and the web server.  
 
 
-##  Commitment to the security of your information
+## Commitment to the security of your information
 
 When you place orders or access your account information, we use a secure server. The secure server software, SSL (Secure Sockets Layer), encrypts all information you input before it is sent to us. Furthermore, digital certificates protect all of the customer transactional data we collect against unauthorized access. The TruGreen Companies digital certificates are issued by VeriSign, one of the most established issuers of digital certificates. Additionally, we use firewall security and limit data access to protect your personally identifiable information.  
 
 
-##  How to update/change your preferences
+## How to update/change your preferences
 
 The TruGreen Companies may send communications, promotional information, and/or newsletters to our registrants. You can choose to not receive communications from us. We provide the following options for reviewing and updating the personally identifiable information that we collect and maintain, including options for communications, news, and special offers. To review and update your choices, please [ send us an e-mail](mailto:customerservice@trugreenmail.com?subject=Profile%20Update) with your changes, titled "Profile Update". You may also call a customer care specialist at 1-800-TRUGREEN. You may also [ unsubscribe from our e-mail list](http://info.trugreen.com/cgi-bin/trucare.cfg/php/enduser/std_adp.php?p_faqid=529) at any time.  
 
 
-##  Changes to our privacy policy
+## Changes to our privacy policy
 
-If we materially change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+If we materially change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
