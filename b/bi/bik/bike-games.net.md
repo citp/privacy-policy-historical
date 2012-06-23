@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bike-games.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209065141id_/http%3A//www.bike-games.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bike-games.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623145746id_/http%3A//www.bike-games.net/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
