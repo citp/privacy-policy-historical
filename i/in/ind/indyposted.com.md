@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indyposted.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110013831id_/http%3A//www.indyposted.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indyposted.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623032922id_/http%3A//www.indyposted.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Indyposted
+# Privacy Policy - Indyposted
 
 Indyposted knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
