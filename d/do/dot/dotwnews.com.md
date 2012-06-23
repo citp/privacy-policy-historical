@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotwnews.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008191324id_/http%3A//www.dotwnews.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotwnews.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623175034id_/http%3A//www.dotwnews.com/page/privacy-statement) for the most accurate reproduction.*
 
-# DOTWNews.com - Home
+# DOTWNews.com - Privacy statement
 
 Destinations of the World News is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Destinations of the World News Web site and governs data collection and usage. By using the Destinations of the World News website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ Destinations of the World News will occasionally update this Statement of Privac
 
 Contact Information
 
-Destinations of the World News welcomes your comments regarding this Statement of Privacy. If you believe that Destinations of the World News has not adhered to this Statement, please contact Destinations of the World News at [salimah@wnnlimited.com](mailto:salimah@wnnlimited.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Destinations of the World News welcomes your comments regarding this Statement of Privacy. If you believe that Destinations of the World News has not adhered to this Statement, please contact Destinations of the World News at [nicci@dotwnews.com](mailto:salimah@wnnlimited.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
