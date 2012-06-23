@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastefullysimple.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027034242id_/http%3A//www.tastefullysimple.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastefullysimple.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623051517id_/http%3A//www.tastefullysimple.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Tastefully Simple - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Privacy Policy**
 
-This Privacy Policy applies to the main Site as well as related consultant Sites accessed at [www.tastefullysimple.com](http://www.tastefullysimple.com/home.aspx).
+This Privacy Policy applies to the main Site as well as related consultant Sites accessed at [www.tastefullysimple.com](https://web.archive.org/home.aspx).
 
 We are committed to protecting your privacy and using any personal information you provide responsibly. We believe it is important for you to understand what information we collect from you, how it is used and who will have access to that information. 
 
@@ -41,6 +41,8 @@ Changes to Privacy Policy
 We may change or supplement this Privacy Policy from time to time and we will post revised versions of this Policy on the Site. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the Site, as well as to existing information held by us. 
 
 **California Privacy Rights**   
+
+
 California residents have the right to request the following information from businesses with whom they have an established business relationship: 
 
   * a list of the categories of personal information that a business has disclosed to third parties during the immediately preceding calendar year for the third parties’ direct marketing purposes if any, and 
