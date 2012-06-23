@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109160345id_/http%3A//www.starbucksstore.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623194315id_/http%3A//www.starbucksstore.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Starbucks | Privacy Policy
 
