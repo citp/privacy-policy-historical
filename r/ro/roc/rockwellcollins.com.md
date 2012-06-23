@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockwellcollins.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111133702id_/http%3A//www.rockwellcollins.com/Privacy_and_Cookies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwellcollins.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624002834id_/http%3A//rockwellcollins.com/Privacy_and_Cookies.aspx) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
@@ -17,15 +17,15 @@ Rockwell Collins Inc. is committed to protecting your privacy. This statement de
 
 _Information collected directly from you._ Generally, you can visit Rockwell Collins Web sites without entering any personal information. On certain pages, we may ask you for personal information to provide a service or carry out a transaction that you have requested. The personal information we collect may include:
 
-  * Contact details, such as your name, title, company/organization name, email address, telephone and fax numbers, and physical address;
-  * Information about your company and job function;
-  * Your email marketing preference;
-  * Financial information (including credit card or account information);
-  * Information such as your nationality and country of residence that allows us to determine your eligibility under export control regulations to receive information about certain technologies;
-  * Information used to customize and facilitate your use of our Web sites, including login and technical information;
-  * Inquiries about and orders for our products and services;
-  * Information that assists us in identifying the products and services that best meet your requirements;
-  * Event registration information; and
+  * Contact details, such as your name, title, company/organization name, email address, telephone and fax numbers, and physical address; 
+  * Information about your company and job function; 
+  * Your email marketing preference; 
+  * Financial information (including credit card or account information); 
+  * Information such as your nationality and country of residence that allows us to determine your eligibility under export control regulations to receive information about certain technologies; 
+  * Information used to customize and facilitate your use of our Web sites, including login and technical information; 
+  * Inquiries about and orders for our products and services; 
+  * Information that assists us in identifying the products and services that best meet your requirements; 
+  * Event registration information; and 
   * Feedback from you about our Web sites and our products and services generally.
 
 
@@ -82,7 +82,7 @@ Rockwell Collins may occasionally update this privacy statement. If we do, we wi
 
 Cookie Statement
 
-**Last updated November 2010**
+**Last updated May 2012**
 
 **What is a cookie?**
 
@@ -94,8 +94,8 @@ A cookie helps website operators monitor usage of their website, and it also ena
 
 Rockwell Collins uses or may use cookies in the following ways:
 
-  * To store session information while users are browsing its websites.
-  * To enable more accurate reporting of site usage data, such as new visitors, unique visitors and returning visitors.
+  * To store session information while users are browsing its websites. 
+  * To enable more accurate reporting of site usage data, such as new visitors, unique visitors and returning visitors. 
   * To enable targeted content to be served on its sites or other third party sites based on your browsing history (see privacy considerations below).
 
 
@@ -106,7 +106,7 @@ A cookie cannot read data from elsewhere on your computer; thus, it cannot steal
 
 As stated earlier, a given website cannot read cookies set by other websites. However, websites can include content, such as banner images, from third-party sites that set their own cookies. Subsequently, other sites that you visit that include content from the same third-party site may be customized based on your previous browsing history. In this manner, it may appear as though these sites have read your cookies, but it is really because of the third-party cookie.
 
-> **_Example:_** You visit an automaker's website, and that site includes content from a third-party site that sets its own cookie. Subsequently, you visit other websites that incorporate content from the same third party. The third-party website knows that you looked at cars on the automaker's website and thus may show ads featuring that automaker’s vehicles.
+> **_Example:_ ** You visit an automaker's website, and that site includes content from a third-party site that sets its own cookie. Subsequently, you visit other websites that incorporate content from the same third party. The third-party website knows that you looked at cars on the automaker's website and thus may show ads featuring that automaker’s vehicles.
 
 **Controlling cookies**
 
@@ -116,20 +116,28 @@ In the following sections you will find brief instructions for controlling cooki
 
 _Internet Explorer (6.x+)_
 
-  1. Choose **Tools > Internet Options**.
-  2. Choose the "Privacy" tab.
-  3. Move the slider to select your preferred privacy level.
+  1. Choose **Tools > Internet Options**. 
+  2. Choose the "Privacy" tab. 
+  3. Move the slider to select your preferred privacy level. 
   4. Choose the **Sites** and **Advanced** buttons to further customize your privacy preferences.
 
 
 
-_Mozilla Firefox (version 3)_
+_Mozilla Firefox_
 
-  1. Choose **Tools > Options**.
-  2. Choose the "Privacy" icon.
-  3. Next to the text "Firefox will" choose "Use custom settings for history" from the dropdown.
-  4. Adjust the checkboxes related to cookies to suit your preferences. Choose the **Exceptions** button to enter specific websites that you want to allow or block regardless of your choices in step 3.
+  1. Choose **Tools > Options**. 
+  2. Choose the "Privacy" icon. 
+  3. Next to the text "Firefox will" choose "Use custom settings for history" from the dropdown. 
+  4. Adjust the checkboxes related to cookies to suit your preferences. Choose the **Exceptions** button to enter specific websites that you want to allow or block regardless of your other settings.
 
 
 
-**Last updated November 2010**
+_Google Chrome_
+
+  1. Use the following link to access privacy settings: <chrome://chrome/settings/search#privacy>
+  2. Choose **Content Settings**. 
+  3. In the Cookies section, adjust the settings to suit your preferences. Choose **Manage Exceptions** to enter specific websites that you want to allow or block regardless of your other settings.
+
+
+
+**Last updated May 2012**
