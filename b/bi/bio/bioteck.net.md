@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bioteck.net privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222145255id_/http%3A//www.bioteck.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioteck.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623105022id_/http%3A//www.bioteck.net/privacy-policy) for the most accurate reproduction.*
 
-# BioTecK.net » Privacy Policy
+# BioTecK.net » Privacy Policy | Log Into My World |
 
 **Privacy Policy for BioTecK.net**  
 If you require any more information or have any questions about our privacy policy, please feel free to [contact me](http://www.bioteck.net/contact/).
@@ -29,6 +29,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 #### About Behrad:
 
-I'm 29 years old, married to a beautiful woman named Jannie, will become a daddy soon and living in Eindhoven, the city of light, The Netherlands.   
-From 2006 BioTecK.net is the place where I share my experiences in life, the stuff I do in personal life, show my portfolio and the place where I'll post about my interests; computers & computer related stuff, tips & tricks and basically everything which I want to share.   
+I'm 29 years "old", married to Jannie and about to be a daddy! We live happily in Eindhoven, The Netherlands.   
+In 2006 I started BioTecK.net just to show/share my portfolio. After a while I started to blog about my experiences and stuff I do in my life, my interests; computers & computer related stuff, tips & tricks and basically everything which I want to share.   
 Read more [about me](http://www.bioteck.net/about-me/ "About Behrad"), follow me on Twitter [@BioTecK](http://www.twitter.com/BioTecK "Twitter") or [contact me ](http://www.bioteck.net/contact/ "contact me"). 
