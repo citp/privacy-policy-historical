@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhscareers.nhs.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211023id_/http%3A//www.nhscareers.nhs.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhscareers.nhs.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623162527id_/http%3A//www.nhscareers.nhs.uk/privacy.shtml) for the most accurate reproduction.*
 
 # NHS Careers
 
@@ -6,7 +6,9 @@ This page explains how NHS Employers uses any information you give to us, and th
 
 ### The Data Protection Act
 
-In accordance with the Data Protection Act, we have a legal duty to protect any information we collect from you. We will only use your information for the purpose as described and we do not pass on your details to any other government department or third party unless you have given us permission to do so. You have a right to access your personal data and rectify any inaccuracies.
+NHS Careers is committed to meeting its obligations under the Data Protection Act 1998 and protecting the rights of and freedoms of individuals as provided within this legislation. As part of its commitment to comply with its obligations, the information we hold about you will be used for identification, administration and analysis purposes; and to contact you about the improved administration of any services provided by us previously, now or in the future. We will also use the information you have provided to contact you by email, post, SMS and/or telephone with relevant information about careers. NHS Careers may share your data with its contracted partners for the purposes stated above.
+
+If at any point you wish to be removed from our database or are not happy being contacted by certain channels, please contact us on 0345 60 60 655 or email us at [advice@nhscareers.nhs.uk](mailto:advice@nhscareers.nhs.uk).
 
 ### Site usage
 
@@ -38,7 +40,7 @@ Log files are files created by a web or proxy server which contains all of the a
 
 ### Accessibility
 
-The NHS Careers website has been designed to be accessible to as many people as possible. If you have any questions about the accessibility of this website, please [contact us](https://web.archive.org/web/20111231211023id_/http%3A//www.nhscareers.nhs.uk/contact.aspx).
+The NHS Careers website has been designed to be accessible to as many people as possible. If you have any questions about the accessibility of this website, please [contact us](https://web.archive.org/web/20120623162527id_/http%3A//www.nhscareers.nhs.uk/contact.aspx).
 
 ### Standards compliance
 
@@ -46,7 +48,7 @@ Our aim is that all pages comply with Priority 1 and Priority 2 guidelines of th
 
 ### Navigation
 
-A 'Skip navigation' hyperlink at the top of each page allows users of screen readers to jump straight to the main content on each page. A Site guide and a [search facility](https://web.archive.org/web/20111231211023id_/http%3A//www.nhscareers.nhs.uk/search.aspx) have also been provided to help with finding information.
+A 'Skip navigation' hyperlink at the top of each page allows users of screen readers to jump straight to the main content on each page. A Site guide and a [search facility](https://web.archive.org/web/20120623162527id_/http%3A//www.nhscareers.nhs.uk/search.aspx) have also been provided to help with finding information.
 
 ### Adobe PDF files
 
