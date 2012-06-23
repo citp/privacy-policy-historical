@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesocialcustomer.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625203249id_/http%3A//thesocialcustomer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesocialcustomer.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623064900id_/http%3A//thesocialcustomer.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Social Customer
 
