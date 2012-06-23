@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backgroundtube.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106120622id_/http%3A//backgroundtube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backgroundtube.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623155601id_/http%3A//backgroundtube.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Free, Professional Youtube Channel Backgrounds - Youtube Layouts - Customize Profile Design
 
