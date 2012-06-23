@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickjrboost.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220175446id_/http%3A//www.nickjrboost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickjrboost.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623022242id_/http%3A//www.nickjrboost.com/privacy.php) for the most accurate reproduction.*
 
 # Preschool Online Games - Preschool Activities - Privacy Policy - Nick Jr. Boost
 
