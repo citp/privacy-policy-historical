@@ -1,54 +1,46 @@
-<!--The following is the downloaded HTML source of the outwar.com privacy policy that was archived on 2011-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626153205id_/http%3A//www.outwar.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the outwar.com privacy policy that was archived on 2012-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623195045id_/http%3A//outwar.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+<style type="text/css">
+#outerdiv
+{
+width:160px;
+height:600px;
+overflow:hidden;
+position:relative;
+}
+
+#inneriframe
+{
+position:absolute;
+top:-72px;
+left:0px;
+width:160px;
+height:600px;
+}
+</style>
 
 	<meta http-equiv="Content-Language" content="en-us">
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
-<title>Free Online Roleplaying Game Web Browser Turn Based Text</title>
-<meta name="keywords" content="free online roleplaying game, text based game, web based game, browser based game, turn based game, online turn based game, free browser based game, mmo, mmorp, rpg, roleplaying, role-playing, role playing">
-<meta name="description" content="Outwar is free online roleplaying game played in web browser, ultimate text based game with graphics. Turn based gameplay, level up, find magic items and learn new spells!">
+<title>Outwar | Browser Based MMORPG - No Download</title>
+<meta name="description" content="Outwar is a free online MMORPG that can be played in any web browser with no download required. Immerse yourself in this addicting text based browser game.">
+<meta name="keywords" content="mmorpg, mmo, rpg, multiplayer, games, role playing, free, online, strategy, fantasy, browser, text, based, no download, adventure, pc, fun, top, new, best, addicting">
 <meta name="robots" content="FOLLOW, INDEX">
+<meta name="revisit-after" content="3 days">
 
 	<link rel="SHORTCUT ICON" href="/favicon.ico">
 
-	<script language="Javascript">
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script language="Javascript">
 		/* copy to clipboard */
 		function copyToClipboard(s) {
 			if( window.clipboardData && clipboardData.setData ) {
 				clipboardData.setData("Text", s);
 			}
 		}
-
-		/******************
-		* JavaScript Code *
-		* to Display Ads  *
-		******************/
-		function Ad(divid,ad_href){
-			this.divid = divid;
-			this.ad_href = ad_href;
-		}
-
-		var ads = new Array();
-		ads[0] = new Ad("ad_leaderboard","http://ads.rampidads.com/rampidads/showad.php?p=2&t=5&gdem=");
-		ads[1] = new Ad("ad_text_top","http://www.outwar.com/cpa1.php");
-		ads[2] = new Ad("ad_skyscraper","http://ads.rampidads.com/rampidads/showad.php?p=2&t=3&gdem=");
-		ads[3] = new Ad("ad_text_side","http://www.outwar.com/cpa2.php");
-
-		function displayAds(){
-			for(var c = 0; c < ads.length; c++){
-				ad_div = document.getElementById(ads[c].divid);
-
-				if(ad_div){
-					send_url = ads[c].ad_href;
-					ad_div.src = send_url;
-				}
-			}
-		}
-
-		/* END AD CODE */
 
 		function openWindow(){
 			window.open('http://test.outwar.com//chatwindow.php?uname=','windowRef','width=640,height=485');
@@ -205,14 +197,90 @@
 	<link rel="STYLESHEET" type="text/css" href="/pop.css">
 
 	
+<link rel="stylesheet" type="text/css" href="landing/shadowbox.css">
+<script type="text/javascript" src="landing/shadowbox2.js"></script>
+<script type="text/javascript">
+
+    /*
+    onOpen: function() {
+          
+    }
+    */
+    
+Shadowbox.init({
+    skipSetup: true,
+    players: ['html'], // whatever players you want here
+    animate: true,
+    onClose: function(){ 
+        //gotoRoom(curRoom, curRoom);
+    },
+    onOpen: function() {
+              /*
+      if(event.keyCode==17){
+          return false;
+      }
+      */    
+    },
+    enableKeys: true
+    });
+</script>
+
+<script type="text/javascript" src="/includes/jquery.js" language="javascript"></script>    
+
+<script type="text/javascript">
+function getCookie(player){
+    var i,x,y,ARRcookies=document.cookie.split(";");
+    for (i=0;i<ARRcookies.length;i++){
+      x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+      y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+      x=x.replace(/^\s+|\s+$/g,"");
+      if (x == player)
+      {
+        return 'oldPlayer';
+      }
+      else
+      {
+        return 'newPlayer';
+      }
+    }
+}
+
+function setCookie(newPlayer,value,exdays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate() + exdays);
+var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+document.cookie=newPlayer + "=" + c_value;
+}
+
+function checkCookie()
+{ 
+    var status = getCookie("player"); 
+    // New Player
+    if (status == 'newPlayer'){ 
+        var anchor = $('<a rel="shadowbox;height=510;width=778" class="sbox"  href="/mob_talk.php?id=59293&stepid=3071&userspawn="><img src="/landing/bigbubble.png" style="position:absolute;top:300px;left:600px;"></a>');
+        $('#mydiv').append(anchor);
+        anchor.click(function(){
+            setCookie('player','oldPlayer',365);
+            $(this).remove();
+        });
+    }    
+}
+</script>
 
 </head>
 
 	<!-- END HEADER -->
 
-
-<body bgcolor="#202020" style="margin:0px;" topmargin="0" leftmargin="0" rightmargin="0" onload="displayAds();">
-
+<body bgcolor="#202020" style="margin:0px;" topmargin="0" leftmargin="0" rightmargin="0" xmlns:fb="http://www.facebook.com/2008/fbml">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 	<div id="dyk"></div>
 <div id="tutorialtip"></div>
 <div id="dhtmltooltip" style="z-index:2000;"></div>
@@ -394,32 +462,34 @@ function getPopup(itemid,dat,server){
 		requester.send(null);
 	}
 }
-</script><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000">
-  <tbody><tr>
-    <td width="60%">
-    <img border="0" align="absmiddle" src="/images/spacer.gif" width="10" height="1">
-    	<a href="http://www.rampidgaming.com/home.php?rg_sess_id="><img border="0" align="absmiddle" src="/images/menu/rampid.gif" width="115" height="16"></a>
-		<img border="0" align="absmiddle" src="/images/spacer.gif" width="10" height="1"><a href="http://www.outwar.com/myaccount.php?rg_sess_id="><img border="0" align="absmiddle" src="/images/menu/outwar.gif" width="88" height="16"></a>
-	<img border="0" align="absmiddle" src="/images/spacer.gif" width="10" height="1"><a href="http://www.crownsofpower.com"><img border="0" align="absmiddle" src="/images/menu/cop.gif" width="117" height="16"></a>
-	<img border="0" align="absmiddle" src="/images/spacer.gif" width="10" height="1"><a href="http://www.greedinc.com"><img border="0" align="absmiddle" src="/images/menu/greedinc.gif" width="117" height="16"></a>
-	  </td>
-  <td width="40%" align="right">
-  <a href="http://www.rampidgaming.com/selectgame.php"><img border="0" src="/images/menu/getpoints.gif" width="80" height="16"></a>
-  <img border="0" src="/images/spacer.gif" width="50" height="1">
-    <a href="http://www.outwar.com/"><img src="/images/menu/signin.gif" border="0" width="58" height="16"></a>
-    <img border="0" src="/images/spacer.gif" width="10" height="1">
-  </td>
-  </tr>
-</tbody></table>
+</script>
 	<center>
 
 	<div style="margin: 0 auto; width: 993px;">
 
 	<!-- START OF HEADER-->
+    <div id="container">
+<table border="0" width="994" cellspacing="0" cellpadding="0" height="41" bgcolor="#8e8e8e">
+    <tbody><tr>
+        <td width="228"><a href="/world.php">
+        <img border="0" src="/landing/header1.jpg" width="228" height="41"></a></td>
+        
+        <td width="403">
+        <a href="/dungeons.php"><img border="0" src="/landing/eventheader_scallywagrest.jpg" width="403" height="41"></a>
+        <!--
+        <a href="/zombieinvasion.php"><img border="0" src="/landing/eventheader_zombies.jpg" width="403" height="41"></a>
+        <a href="/crew_bossspawns.php"><img border="0" src="/landing/dragoninvasion.gif" width="403" height="41"></a>
+        -->
+        </td>
 
-	<div id="container">
-        <div id="logo"></div>                <img src="/images/topbanner_maglious1.jpg" border="0">
-        	</div>
+        <td align="right" background="/landing/outwarheader2.png"><a rel="shadowbox;height=494;width=775" class="sbox" href="https://rampidgaming.com/ccorder1.php?game=ow&amp;outwar=0&amp;wsrv=$subDomain&amp;lvl=$user[level]&amp;rg_sess_id="><img border="0" src="/landing/pointpromotion.png" width="100" height="24"></a></td>
+        <td width="200"><a rel="shadowbox;height=494;width=775" class="sbox" href="https://rampidgaming.com/ccorder1.php?game=ow&amp;outwar=0&amp;wsrv=$subDomain&amp;lvl=$user[level]&amp;rg_sess_id=">
+        <img border="0" src="/landing/outwarheader3.png" width="200" height="41"></a></td>
+        <td width="67"><a href="/?cmd=logout">
+        <img border="0" src="/landing/outwarheader4.png" width="67" height="41"></a></td>
+    </tr>
+</tbody></table>
+    </div>
 	<div style="float: left;">
 	<table cellspacing="0" cellpadding="0">
 		<tbody><tr>
@@ -434,7 +504,7 @@ function getPopup(itemid,dat,server){
 			<td align="left" valign="top" width="139" style="width:139px;" bgcolor="#1B2C1E">
 			<table border="0" cellpadding="0" cellspacing="0" width="100%" id="AutoNumber8">
 			<tbody><tr>
-				<td width="100%" height="100%" bgcolor="#1B2C1E" align="center">
+                <td width="100%" height="100%" bgcolor="#1B2C1E" align="center">
 					      <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber7" bgcolor="#465D4A">
                 <form method="post" action="/myaccount.php"></form>
                 <tbody><tr>
@@ -467,8 +537,54 @@ function getPopup(itemid,dat,server){
                 </tr>
             </tbody></table>
 
-						<img src="/images/spacer.gif" width="160" border="0">
+<div class="menutitle" onmouseover="nav_on(this)" onmouseout="nav_off(this)" onclick="window.location='/world.php'">» EXPLORE WORLD</div>
+    <!-- GET POINTS -->
+<!-- <div class="menutitle" onmouseover="nav_on(this)" onmouseout="nav_off(this)" onclick="window.location='/getpoints.php'">» GET POINTS</div> -->
+    
+        
+<!-- War of Zhul 
+<div class="menutitle" onmouseover="nav_on(this)" onmouseout="nav_off(this)" onclick="window.location='/warofzhul.php'">» WAR OF ZHUL</div>
+<div class="menutitle" onmouseover="nav_on(this)" onmouseout="nav_off(this)" onclick="window.location='/zombieinvasion.php'">» ZOMBIE INVASION!</div>
+-->
+    <p align="center">
+    <a href="/treasuryhome.php"><img border="0" src="/landing/outwartreasurybutton.png"></a>
+    
+    <!-- ADMIN CHAT use > 0 to turn on and > 99 to turn off -->
+        </p>
+
+<!-- <P ALIGN=center><IFRAME SRC="/phpchat.php" WIDTH=150 HEIGHT=49></IFRAME></p> -->
+
+<div style="position:relative; height: 203px; background-image:url(/images/thedudesmall.gif); background-repeat: no-repeat; text-align: center;">
+<div id="slot5" style="position:absolute; left:62px; top:4px; width:33px; height:24px;text-align:center">
+	</div>
+<div id="slot6" style="position:absolute; left:104px; top:6px; width:22px; height:22px;text-align:center">
+	</div>
+<div id="slot3" style="position:absolute; left:24px; top:35px; width:30px; height:51px;text-align:center">
+	</div>
+<div id="slot0" style="position:absolute; left:64px; top:35px; width:30px; height:51px;text-align:center">
+			<img style="border:0px;" width="30" height="51" src="http://outwar.rampidinteractiv.netdna-cdn.com/images/creworb1.gif" onmouseover="itempopup(event,'648612602')" onmouseout="kill()" onclick="kill();makemenu(this,event,100,'uvy','regular','0','648612602','0', '0');">
+	</div>
+<div id="slot1" style="position:absolute; left:105px; top:35px; width:30px; height:51px;text-align:center">
+	</div>
+<div id="slot9" style="position:absolute; left:62px; top:93px; width:33px; height:39px;text-align:center">
+	</div>
+<div id="slot7" style="position:absolute; left:32px; top:101px; width:22px; height:22px;text-align:center">
+	</div>
+<div id="slot4" style="position:absolute; left:105px; top:101px; width:22px; height:22px;text-align:center">
+	</div>
+<div id="slot2" style="position:absolute; left:62px; top:139px; width:33px; height:35px;text-align:center">
+	</div>
+<div id="orbs" style="position:absolute; left:53px; top:183px; width:53px; height:18px;text-align:center">
+	</div>
+</div>
 							<!-- Ad Code for World goes here -->
+
+                            
+<div id="outerdiv">
+
+<br>
+
+</div>
 				</td>
 			  </tr>
 			</tbody></table>
@@ -540,11 +656,24 @@ site, or your dealings with this Web site, you can contact:
         </td>
 		</tr>
 		</tbody></table>
-        <p align="center"><font size="1">
+<div align="center">
+    <table border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+        <td><img border="0" src="/landing/spacer.gif" width="100" height="50"></td>
+        <td><div class="fb-like-box" data-href="http://www.facebook.com/pages/Outwar/227661533046" data-width="292" data-colorscheme="dark" data-show-faces="false" data-stream="false" data-header="false"></div></td>
+        </tr>
+    </tbody></table>
+</div>
+        <p align="center">
+        <font size="1">
         <a href="/home.php">HOME</a> |
         <a href="/world.php">EXPLORE</a> |
-        <a href="/treasury.php?type=55">TREASURY</a> |
-	  <a target="_New" href="http://wiki.outwar.com">HELP</a>
+        <a href="/treasuryhome.php">TREASURY</a> |
+	  <a target="_New" href="http://wiki.outwar.com">HELP</a> | 
+      <a target="<a" href="/news.php">NEWS</a> | 
+
+  <a href="http://www.outwar.com/">LOGIN</a>
+        
       <!-- | <a href="/world.php?fbapp=1">SMALL SCREEN</a> -->
 	  </font></p><p align="center">
         <font size="1"> <a href="/privacy.php">Privacy Policy</a>
@@ -557,7 +686,7 @@ site, or your dealings with this Web site, you can contact:
 -->
         <font size="1"> <a href="/outwar_tos.php" target="_blank">Terms of Service</a> | <a href="/purchasepolicy.php" target="_blank">Purchase Policy</a> | <a href="/contact.php" target="_blank">Contact Info</a></font>
         <br>
-srv 147 Page was generated in 0.030994 seconds	
+srv 143 Page was generated in 0.464325 seconds	
 	
 	
 <script type="text/javascript">
@@ -570,6 +699,7 @@ var pageTracker = _gat._getTracker("UA-16031817-1");
 pageTracker._setDomainName(".outwar.com");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+
 
 
 
