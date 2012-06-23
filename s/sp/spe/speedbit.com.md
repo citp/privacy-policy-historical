@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the speedbit.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227123808id_/http%3A//www.speedbit.com/Legal/PRIVACY.ASP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedbit.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623173608id_/http%3A//www.speedbit.com/legal/privacy) for the most accurate reproduction.*
 
 # SPEEDbit Privacy Policy
+
+  
+
 
 We at SPEEDbit take your online privacy very seriously and pledge to you, our SPEEDbit user, that:
 
@@ -22,7 +25,7 @@ This privacy policy governs your use of SPEEDbit products and services and all o
 
 **SPEEDbit business model and privacy philosophy**
 
-SPEEDbit provides a variety of products and services. Some of our products are free, supported by unobtrusive advertisements within SPEEDbit's web sites and program windows (for example, Download Accelerator Plus (" **DAP** "), Free version, and the Fileratings.com site). We also offer paid products and services (for example – Download Accelerator Plus Premium version and the DAPDrive storage service). Learn more about SPEEDbit products and services at <http://www.speedbit.com/about_us/>.
+SPEEDbit provides a variety of products and services. Some of our products are free, supported by unobtrusive advertisements within SPEEDbit's web sites and program windows (for example, Download Accelerator Plus (" **DAP** "), Free version, and the Fileratings.com site). We also offer paid products and services (for example – Download Accelerator Plus Premium version and the DAPDrive storage service). Learn more about SPEEDbit products and services at [http://www.speedbit.com/about_us/](http://www.speedbit.com/about/).
 
 We have designed DAP according to the standard "ad-supported" business model. Users can choose to receive DAP free of charge, and be exposed to standard conventional advertising (e.g. banners within the application window, just like AIM(tm), Opera browser(tm), MSN Messenger(tm) and most websites). Or users can buy a paid version, with additional features and no advertising. Either way, our users can enjoy a product, service and technology that took a lot of hard work and money to create.
 
@@ -114,7 +117,7 @@ The Products and Services overall operation and advertising conduct has been exa
 
 We may occasionally update this Privacy Statement to reflect changes in our products, services, web sites and customer feedback. 
 
-We encourage you to periodically review this Privacy Policy and other legal documents of SPEEDbit, to be informed of the privacy practices and terms of use of our products, services and web sites (the " **Legal Terms** "), including those of third parties. At all times, the latest versions of the Legal Terms will be published on the following link and shall be binding and supersede any other versions <http://www.speedbit.com/legal/privacy.asp>
+We encourage you to periodically review this Privacy Policy and other legal documents of SPEEDbit, to be informed of the privacy practices and terms of use of our products, services and web sites (the " **Legal Terms** "), including those of third parties. At all times, the latest versions of the Legal Terms will be published on the following link and shall be binding and supersede any other versions <http://www.speedbit.com/legal/privacy/>
 
 **General Terms**
 
@@ -122,7 +125,7 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING THE PRODUCTS AND SERVICES UP
 
 BY CLICKING THE "I ACCEPT" BUTTON AND/OR INSTALLING AND/OR USING THE PRODUCTS, SERVICES, OR WEB SITES YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT INSTALL OR USE THE PRODUCTS, SERVICES OR WEB SITES AND IMMEDIATELY DELETE ANY COPY OF IT FROM ALL STORAGE MEDIA.
 
-THIS PRIVACY POLICY IS INCORPORATED BY REFERENCE INTO THE TERMS OF USE OF THE PRODUCTS AND SERVICES, THE LATEST VERSION OF WHICH CAN BE FOUND AT ALL TIMES AT [HTTP://WWW.SPEEDBIT.COM/LEGAL/PRIVACY.ASP](http://www.speedbit.com/legal/privacy.asp).
+THIS PRIVACY POLICY IS INCORPORATED BY REFERENCE INTO THE TERMS OF USE OF THE PRODUCTS AND SERVICES, THE LATEST VERSION OF WHICH CAN BE FOUND AT ALL TIMES AT [HTTP://WWW.SPEEDBIT.COM/LEGAL/PRIVACY/](http://www.speedbit.com/legal/privacy/).
 
 "ADD-ONS" - REFERS TO ALL SOFTWARE ADD-ONS, SUCH AS SKINS, FUNCTIONAL AND/OR CONTENT AND/OR SERVICES TABS (I.E.: GAMES TAB, SHOPPING TAB), DESKTOP SHORTCUT ICONS (I.E.: DAP SHORTCUT ICON, DAP GAMES CENTER SHORTCUT ICON) WHICH MAY BE MADE AVAILABLE FROM TIME TO TIME BY EITHER SPEEDBIT AND/OR ANY OTHER THIRD-PARTY, TO BE USED IN CONNECTION WITH THE PRODUCTS AND/OR SERVICES. PLEASE NOTE THAT THE ABOVE MENTIONED CONTENT AND SERVICES TABS MAY INCLUDE CONTENT, MATERIALS AND SERVICES PROVIDED AND/OR POWERED BY THIRD PARTIES, FOR WHICH SPEEDBIT IS NOT RESPONSIBLE AND CANNOT BE HELD LIABLE FOR AND WHICH MAY BE COVERED BY SEPARATE LEGAL, COMMERCIAL AND PRIVACY PRACTICES. PLEASE CONSULT THE APPLICABLE TERMS AND CONDITIONS AND PRIVACY STATEMENTS OF SUCH THIRD PARTY PROVIDERS TO LEARN MORE ABOUT THEIR PRACTICES. SPEEDBIT RESERVES THE RIGHT TO AMEND, DISCONTINUE AND/OR TERMINATE AND/OR LIMIT AND/OR DISABLE AND/OR CANCEL THE AVAILABLE ADD-ONS, OR ANY PART THEREOF, AT ANY TIME, AT ITS SOLE DISCRETION AND WITHOUT NOTICE TO YOU.
 
