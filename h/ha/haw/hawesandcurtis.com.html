@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hawesandcurtis.com privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226153737id_/http%3A//www.hawesandcurtis.com/shirts_and_site_privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hawesandcurtis.com privacy policy that was archived on 2012-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623071255id_/http%3A//www.hawesandcurtis.com/shirts_and_site_privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - Hawes &amp; Curtis</title>
@@ -13,15 +13,15 @@
     <meta name="Keywords" content="men's and ladies,formal,fashion,shirts,silk ties,city business,cufflinks,jermyn street,slim fit,hipster,cotton shirts,cut away,collar,double cuff,fitted,shirtmakers,size">
     <meta name="Description" content="Hawes and Curtis Jermyn Street shirtmakers London for men's and ladies formal and fashion shirts. A large range of silk ties, cufflinks, womens slim fit shirts. Styles include business, city, cotton and poplin.">
 
-
 <meta http-equiv="refresh" content="3570;url=http://www.hawesandcurtis.com">
 <meta http-equiv="Cache-control" content="no-cache">
+<link href="style/main1024_v7.css?v=2" type="text/css" rel="stylesheet">
+<!--[if IE 7]>
+    <link href="style/win-ie7.css" type="text/css" rel="stylesheet" />
+<![endif]-->
 
-<link href="style/main1024_v5.css" type="text/css" rel="stylesheet">
 <link href="style/corporate.css" type="text/css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="js/niftycorners/niftyPrint.css" media="print">
 <script src="js/scripts.js" language="JavaScript1.3" type="text/javascript"></script>
-<script src="js/niftycorners/nifty.js" type="text/javascript"></script>
 <script src="js/resource.js" language="JavaScript" type="text/javascript" defer="defer"></script>
 <script src="js/csspopup.js" language="JavaScript" type="text/javascript"></script>
 <script src="jquery/jquery-1.2.6.pack.js" type="text/javascript"></script>
@@ -48,7 +48,6 @@ isProductListPage = "no"
 Sessiondomain = ""
 AssetsFolder = "assets/language/en-GB"
 </script>
-
 <script type="text/javascript">
 var global_accessories = "Accessories";
 var global_back = "Back";
@@ -75,10 +74,10 @@ var global_notes = "View All";
 var global_notset = "Not Set";
 var global_or = "OR";
 var global_paymentmethod = "Please choose a method of payment";
-var global_price = "price";
+var global_price = "Price";
 var global_print = "Print";
 var global_recentlyviewed = "Recently viewed";
-var global_requiredfields = "Required fields";
+var global_requiredfields = "* Denoted required fields";
 var global_selectlocation = "Select Location";
 var global_setchangesize = "Set/Change my size";
 var global_stylesizeguide = "Style Guide/Sizes";
@@ -127,7 +126,7 @@ $().ready(function() {
   $('#qvarea').jqm({ajax: '@rel', trigger: 'a.qvbutton'});
 });
 </script>
-<div id="qvarea" class="flexcroll"></div>
+<div id="qvarea" class="flexcroll jqmID1"></div>
 <!--<script src="jquery/tabs3/ui.core.js" type="text/javascript"></script>
 <script src="jquery/tabs3/ui.tabs.js" type="text/javascript"></script>
 <link rel="stylesheet" href="jquery/tabs3/ui.tabs.css" type="text/css" media="print, projection, screen">-->
@@ -188,7 +187,7 @@ $().ready(function() {
 }
 
 </style>
-<div id="contentAreatellfriend" class="jqmWindow"></div>
+<div id="contentAreatellfriend" class="jqmWindow jqmID2"></div>
 <script language="JavaScript1.3" type="text/javascript">
 
 $().ready(function() {
@@ -226,22 +225,30 @@ $().ready(function() {
 
 }
 </style>
-<div id="contentAreaForgottenPassword" style="position: absolute; top: 200px; left:250px; z-index:2000; overflow: auto; width: 482px; height:285px; display:none;"></div>
+<div id="contentAreaForgottenPassword" style="position: absolute; top: 200px; left:250px; z-index:2000; overflow: auto; width: 482px; height:285px; display:none;" class="jqmID3"></div>
 
 <script type="text/javascript"> 
 <!--
 function mainmenu(){
     $(" #topnav-left ul ").css({ display: "none" }); // Opera Fix
     $(" #topnav-left li").hover(function () {
-		$(this).find('ul:first').css({visibility: "visible",display: "none"}).show(400);
-		},function(){
-		$(this).find('ul:first').css({visibility: "hidden"});
-		});
+        $(this).find('ul:first').css({ visibility: "visible", display: "none" }).show();
+    }, function () {
+        $(this).find('ul:first').css({ visibility: "hidden" });
+        /*
+        setTimeout(function () {
+            $(this).find('ul:first').css({ visibility: "hidden" });
+        }, 500);
+        */
+    });
 }
 
 $(document).ready(function () {
     mainmenu();
 
+    /*
+    Removed to redirect to sign-up.asp
+    */
     $("#frmSignup").submit(function () {
         var f = $("#frmSignup");
 
@@ -257,12 +264,32 @@ $(document).ready(function () {
         return false;
     });
 
-    jQuery().ajaxStart(function () {
-        $("#frmSignup").fadeOut("slow");
+    //jQuery().ajaxStart(function () {
+    //    $("#frmSignup").fadeOut("slow");
+    //});
+
+    //jQuery().ajaxStop(function () {
+    //    $("#frmSignup").fadeIn("fast");
+    //});
+
+    $("#90-day").click(function () {
+        
+        document.location.href = 'http://www.hawesandcurtis.com/faqs-about-shirts.asp#fragment-7';
+        
     });
 
-    jQuery().ajaxStop(function () {
-        $("#frmSignup").fadeIn("fast");
+    $("#shipping").click(function () {
+        document.location.href = 'http://www.hawesandcurtis.com/faqs-about-shirts.asp#fragment-3';
+    });
+
+    $("#returns").click(function () {
+        
+        document.location.href = 'http://www.hawesandcurtis.com/faqs-about-shirts.asp#fragment-7';
+        
+    });
+
+    $("#style-guide").click(function () {
+        document.location.href = 'http://www.hawesandcurtis.com/formal-style-guide.asp';
     });
 });
 
@@ -278,7 +305,10 @@ $(document).ready(function () {
 
 
     <div id="headercol1">
-        <a href="http://www.hawesandcurtis.com"><img src="assets/new_design/logo.jpg" width="256" height="120" alt="Hawes &amp; Curtis"></a>
+    
+        <a href="http://www.hawesandcurtis.com">
+        
+        <img src="assets/new_design/logo.jpg" width="256" height="120" alt="Hawes &amp; Curtis"></a>
     </div>
 	
     <div id="banner-container">
@@ -286,10 +316,12 @@ $(document).ready(function () {
 		  	<div id="banner-left-top"></div>
             <div id="banner-left-bottom">
                 <span>Sign up to our newsletter for the latest offers</span>
+                <!--<form name="frmSignup" method="post" id="frmSignup" action="sign-up.asp">-->
                 <form name="frmSignup" method="post" id="frmSignup" action="signup.asp">
                     <div id="signup-area">
                         <input id="signup-input" value="Enter your email address" type="text" name="txtsignup" onclick="clearText('signup-input')">
-                        <input type="image" src="assets/new_design/signup.jpg">
+                        <input type="hidden" name="hdnSignUp" value="1">
+                        <input type="submit" value="Sign Up" class="top-nav-button">
                     </div>
                 </form>
             </div>
@@ -298,143 +330,268 @@ $(document).ready(function () {
         <div id="banner-middle-container"><img src="assets/new_design/divide_top.jpg" alt="Top divide" /></div>
         -->
         <div id="banner-right-container">
-                    <div id="basket-reload">
-            <div id="banner-right-top">
-                <div id="banner-login"><a href="https://secure.hawesandcurtis.com/secure/account.asp">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-                
-                    <a href="https://secure.hawesandcurtis.com/secure/account.asp">Login</a>
-                
-                </div>
-            </div>
-            <div id="banner-right-bottom">
-                <div id="banner-rb-top">MY BASKET <span id="basket-items">(0 items)</span></div>
-                <div id="banner-rb-bottom">
-                    <div id="basket-image"><a href="https://secure.hawesandcurtis.com/secure/gotobasket.asp?lang=en-GB"><img src="assets/new_design/cart.jpg" alt="Cart image" height="22" width="25"></a></div>
-                    <div id="basket-value">£0.00</div>
-                    <div id="basket-link"><a href="https://secure.hawesandcurtis.com/secure/gotobasket.asp?lang=en-GB">view basket</a></div>
-                    <div id="basket-button"><a href="https://secure.hawesandcurtis.com/secure/gotobasket.asp?lang=en-GB"><img src="assets/new_design/checkout.jpg" alt="Checkout button" width="87" height="25"></a></div>
-                </div>
-            </div>
+            <div id="basket-reload">
+    <div id="banner-right-top">
+        <div id="banner-login">
+            <a href="https://secure.hawesandcurtis.com/secure/account.asp">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            
+            <a href="https://secure.hawesandcurtis.com/secure/account.asp">Login</a>
+            
         </div>
+    </div>
+    <div id="banner-right-bottom">
+        <div id="banner-rb-top">
+            MY BASKET <span id="basket-items">(0
+                items)</span></div>
+        
+        <div id="banner-rb-bottom">
+            <div id="basket-image">
+                <a href="https://secure.hawesandcurtis.com/secure/gotobasket.asp?lang=en-GB">
+                    <img src="assets/new_design/cart.jpg" alt="Cart image" height="22" width="25"></a></div>
+            <div id="basket-value">
+                £0.00</div>
+            
+            <div id="basket-link">
+                <a href="https://secure.hawesandcurtis.com/secure/gotobasket.asp?lang=en-GB">view basket</a></div>
+            <div id="basket-button">
+                <input type="submit" value="Checkout" class="top-nav-button" onclick="javascript:document.location.href = 'https://secure.hawesandcurtis.com/secure/gotobasket.asp?lang=en-GB';">
+            </div>
+            
+        </div>
+    </div>
+</div>
+
         </div>
 	</div>
   <div id="toplinks">
     <div id="page-wrap">
         <div id="menu-left">
             <ul id="topnav-left">
+                
                 <li><a href="http://www.hawesandcurtis.com/index.asp">Home</a></li>
-                <li><a href="http://www.hawesandcurtis.com/mens-formal-shirts_51.html">Men's Formal</a>
-                    <ul>
-        		        <li class="even"><a href="http://www.hawesandcurtis.com/-mens-new-arrivals_118.html">NEW ARRIVALS</a></li>
-        		        <li class="odd">
-        		            <a href="#">SLIM FIT SHIRTS<span class="menu-arrow">&gt;</span></a>
-        		            <ul>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/mens-formal-shirts-st-james-cutaway-collar_134.html">St James Cutaway Collar</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/mens-shirts-st-james-slim-fit-double-cuff_109.html">St James Double Cuff</a></li>
-       			                <li class="even"><a href="http://www.hawesandcurtis.com/mens-shirts-st-james-single-cuff_119.html">St James Single Cuff</a></li>
-        			            <li class="odd"><a href="http://www.hawesandcurtis.com/-st-james-non-iron_137.html">St James Non-Iron</a></li>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/mens-formal-shirts-st-james-traveller-slim-_135.html">St James Traveller</a></li>
-        		            </ul>
-        		        </li>
-        		        <li class="even">
-                            <a href="#">TAILORED FIT SHIRTS<span class="menu-arrow">&gt;</span></a>
-                            <ul>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/mens-formal-shirts-warwick-tailored-fit_55.html">Warwick Tailored Fit</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/mens-formal-shirts-warwick-tailored-fit-non-iron_136.html">Warwick Tailored Fit Non Iron</a></li>
-                            </ul>
-                        </li>
-        		        <li class="odd">
-                            <a href="#">CLASSIC FIT SHIRTS<span class="menu-arrow">&gt;</span></a>
-                            <ul>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/mens-formal-shirts-ludlow-classic-fit_57.html">Ludlow Classic Fit</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/mens-formal-shirts-warwick-classic-fit_54.html">Warwick Classic Fit</a></li>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/mens-formal-shirts-windsor-classic-fit_53.html">Windsor Classic Fit</a></li>
-                            </ul>
-                        </li>
-        		        <li class="even">
-                            <a href="#">LARGE SIZES<span class="menu-arrow">&gt;</span></a>
-                            <ul>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/mens-formal-shirts-ludlow-large-sizes_58.html">Ludlow Large Sized Shirts</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/mens-formal-shirts-warwick-large-sizes_56.html">Warwick Large Sized Shirts</a></li>
-                            </ul>
-                        </li>
-        		        <li class="odd"><a href="http://www.hawesandcurtis.com/mens-shirts-clifford-short-sleeve-_125.html">SHORT SLEEVE SHIRTS</a></li>
-        		        <li class="even"><a href="http://www.hawesandcurtis.com/mens-accessories-mens-evening-wear_59.html">MEN'S EVENINGWEAR</a></li>
-        		        <li class="odd"><a href="http://www.hawesandcurtis.com/mens-shirts-formal-shirt-sale_60.html" style="color: red">SALE</a></li>
-        	        </ul>
+                
+                <li><a href="http://www.hawesandcurtis.com/mens-formal-shirts_51.html">Men</a>
+                    <ul id="bignav" style="display: none;">
+                        <li>
+                            <div class="dropdown_big_container dropdown_big_container_mens">
+                                <div class="dropdown_big_top">
+                                    <div class="col_head_main"><a href="http://www.hawesandcurtis.com/mens-formal-shirts_51.html"><span>FORMAL SHIRTS</span></a></div>
+
+                                    <div class="col_1">
+                                        <div class="col_head"><span class="second-header">NEW ARRIVALS</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/-formal-new-arrivals_143.html">All New Formal Shirts</a></li>
+                                        </ol>
+                                    </div>
+
+                                    <div class="col_2">
+                                        <div class="col_head"><span class="second-header">SLIM FIT SHIRTS</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-shirts-st-james-slim-fit-double-cuff_109.html">St James Double Cuff</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-shirts-st-james-single-cuff_119.html">St James Single Cuff</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-formal-shirts-st-james-cutaway-collar_134.html">St James Cutaway Collar</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/-st-james-non-iron_137.html">St James Non-Iron</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-formal-shirts-st-james-traveller-slim-_135.html">St James Traveller</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-mens-evening-wear_59.html">Eveningwear Shirts</a></li>
+                                        </ol>
+                                    </div>
+
+                                    <div class="col_3">
+                                        <div class="col_head"><span class="second-header">TAILORED FIT SHIRTS</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-formal-shirts-warwick-tailored-fit_55.html">Double Cuff</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/-warwick-tailored-fit-non-iron_136.html">Non-Iron</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/-warwick-tailored-fit-single-cuff_147.html">Single Cuff</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-shirts-clifford-short-sleeve-_125.html">Short Sleeved</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-mens-evening-wear_59.html">Eveningwear Shirts</a></li>
+                                        </ol>
+                                    </div>
+
+                                    <div class="col_4">
+                                        <div class="col_head"><span class="second-header">CLASSIC FIT SHIRTS</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-formal-shirts-warwick-classic-fit_54.html">Warwick Classic Fit</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-formal-shirts-ludlow-classic-fit_57.html">Ludlow Classic Fit</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-formal-shirts-windsor-classic-fit_53.html">Windsor Classic Fit</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-mens-evening-wear_59.html">Eveningwear Shirts</a></li>
+                                        </ol>
+                                    </div>
+
+                                </div>
+                                <div class="dropdown_big_bottom">
+                                    <div class="col_head_main"><a href="http://www.hawesandcurtis.com/mens-fashion-shirts-curtis-fashion-shirts_64.html"><span>FASHION SHIRTS</span></a></div>
+
+                                     <div class="col_1">
+                                        <div class="col_head"><span class="second-header">NEW ARRIVALS</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/-mens-new-arrivals_118.html">All New Fashion Shirts</a></li>
+                                        </ol>
+                                    </div>
+
+                                    <div class="col_2">
+                                        <div class="col_head"><span class="second-header">SLIM FIT SHIRTS</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-fashion-shirts-brandon-slim-fit_65.html">Brandon Slim Fit</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-fashion-shirts-chelsea_69.html">Chelsea Slim Fit</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-fashion-shirts-hurst-slim-fit_68.html">Hurst Slim Fit</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-fashion-shirts-york-slim-fit_66.html">York Slim Fit</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-fashion-shirts-stirling.asp">Stirling Slim Fit</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/limited_edition.asp?catid=115&amp;lang=en&amp;">Limited Edition</a></li>
+                                        </ol>
+                                    </div>
+
+                                    <div class="col_3">
+                                        <div class="col_head"><span class="second-header">TAILORED FIT SHIRTS</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/button-down-shirt-boston-button-down-shirt_126.html">Boston Button Down</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/-boston-button-down-linen_140.html">Boston Linen</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/polo-short-sleeve-polo-short-sleeve_130.html">Polo Short Sleeve</a></li>
+                                        </ol>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>                    
+                    </ul>
                 </li>
-                <li><a href="http://www.hawesandcurtis.com/mens-fashion-shirts-curtis-fashion-shirts_64.html">Men's Fashion</a>
-        	        <ul>
-        		        <li class="even"><a href="http://www.hawesandcurtis.com/-mens-new-arrivals_118.html">NEW ARRIVALS</a></li>
-        		        <li class="odd"><a href="http://www.hawesandcurtis.com/mens-fashion-shirts-brandon-slim-fit_65.html">BRANDON SLIM FIT</a></li>
-        		        <li class="even"><a href="http://www.hawesandcurtis.com/mens-fashion-shirts-hurst-slim-fit_68.html">HURST SLIM FIT</a></li>
-       		            <li class="odd"><a href="http://www.hawesandcurtis.com/mens-fashion-shirts-york-slim-fit_66.html">YORK SLIM FIT</a></li>
-                        <li class="even"><a href="http://www.hawesandcurtis.com/mens-fashion-shirts-stirling-slim-fit_67.html">STIRLING SLIM FIT</a></li>
-                        <li class="odd"><a href="http://www.hawesandcurtis.com/mens-fashion-shirts-stirling-tall-slim-fit_107.html">STIRLING TALL SLIM FIT</a></li>
-                        <li class="even"><a href="http://www.hawesandcurtis.com/limited_edition.asp?catid=115&amp;lang=en&amp;">LIMITED EDITION</a></li>
-                        <li class="odd"><a href="http://www.hawesandcurtis.com/button-down-shirt-boston-button-down-shirt_126.html">BOSTON BUTTON DOWN</a></li>
-                        <li class="even"><a href="http://www.hawesandcurtis.com/-boston-button-down-linen_140.html">BOSTON LINEN</a></li>
-                        <li class="odd"><a href="http://www.hawesandcurtis.com/mens-fashion-shirts-curtis-sale_71.html" style="color: red">SALE</a></li>
-        	        </ul>
-                </li>
-                <li><a href="http://www.hawesandcurtis.com/ladies-shirts-all-ladies-shirts_92.html">Ladieswear</a>
-        	        <ul>
-                        <li class="even"><a href="http://www.hawesandcurtis.com/-ladies-new-arrivals_122.html">NEW ARRIVALS</a></li>
-       			        <li class="odd">
-                            <a href="http://www.hawesandcurtis.com/ladies-shirts-hipster-slim-fitted_93.html">SLIM FIT SHIRTS<span class="menu-arrow">&gt;</span></a>
-        			        <ul>
-        				        <li class="even"><a href="http://www.hawesandcurtis.com/ladies-shirts-hipster-slim-fitted_93.html">Hipster</a></li>
-        				        <li class="odd"><a href="http://www.hawesandcurtis.com/ladies-shirts-3-quarter-sleeve-hipster-fitted_97.html">Hipster 3/4 Sleeve</a></li>
-        			        </ul>
-        		        </li>
-                        <li class="even">
-                            <a href="#">SEMI-FITTED SHIRTS<span class="menu-arrow">&gt;</span></a>
-                            <ul>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/ladies-shirts-massimo-semi-fitted_94.html">Massimo Semi-Fitted Shirts</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/ladies-shirts-carmen-3-quarter-semi-fitted_95.html">Carmen 3/4 Sleeved Shirts</a></li>
-                            </ul>
-                        </li>
-                        <li class="odd"><a href="http://www.hawesandcurtis.com/ladies-shirts-classic-fit-womens-shirts_112.html">CLASSIC FIT SHIRTS</a></li>
-                        <li class="even"><a href="http://www.hawesandcurtis.com/ladies-shirts-womens-fashion-shirts_99.html">FASHION SHIRTS</a></li>
-                        <li class="odd"><a href="http://www.hawesandcurtis.com/-ladies-short-sleeve-shirts_100.html">SHORT SLEEVE SHIRTS</a></li>
-                        <li class="even"><a href="http://www.hawesandcurtis.com/ladies-shirts-womens-boutique-shirts_129.html">BOUTIQUE SHIRTS</a></li>
-                        <li class="odd"><a href="http://www.hawesandcurtis.com/ladies-shirts-ladies-shirt-sale_101.html" style="color: red">SALE</a></li>
-        	        </ul>
+                <li><a href="http://www.hawesandcurtis.com/ladies-shirts-all-ladies-shirts_92.html">Ladies</a>
+                    <ul id="bignav_ladies" style="display: none;">
+                        <li>
+                            <div class="dropdown_big_container dropdown_big_container_ladies">
+                                <div class="dropdown_big_top">
+                                    <div class="col_head_main"><a href="http://www.hawesandcurtis.com/all-ladies-styles-all-ladies-styles_91.html"><span>LADIES SHIRTS</span></a></div>
+
+                                    <div class="col_1">
+                                        <div class="col_head"><span class="second-header">NEW ARRIVALS</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/-ladies-new-arrivals_122.html">All New Ladies Shirts</a></li>
+                                        </ol>
+                                    </div>
+
+                                    <div class="col_2">
+                                        <div class="col_head"><span class="second-header">SLIM FIT SHIRTS</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/ladies-shirts-hipster-slim-fitted_93.html">Hipster</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/ladies-shirts-3-quarter-sleeve-hipster-fitted_97.html">Hipster 3/4 Sleeve</a></li>
+                                        </ol>
+                                    </div>
+
+                                    <div class="col_3">
+                                        <div class="col_head"><span class="second-header">SEMI FITTED SHIRTS</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/ladies-shirts-massimo-semi-fitted_94.html">Massimo</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/ladies-shirts-womens-fashion-shirts_99.html">Fashion Shirts</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/ladies-shirts-carmen-3-quarter-semi-fitted_95.html">Carmen 3/4 Sleeve</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/-ladies-short-sleeve-shirts_100.html">Short Sleeve</a></li>
+                                        </ol>
+                                    </div>
+
+                                    <div class="col_4">
+                                        <div class="col_head"><span class="second-header">CLASSIC FIT SHIRTS</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/ladies-shirts-classic-fit-womens-shirts_112.html">Classic Fit Shirts</a></li>
+                                        </ol>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </li>                    
+                    </ul>
                 </li>
                 <li><a href="http://www.hawesandcurtis.com/mens-accessories-accessories_72.html">Accessories</a>
-                    <ul>
-                        <li class="even">
-                            <a href="http://www.hawesandcurtis.com/mens-accessories-accessories_72.html">MEN'S ACCESSORIES<span class="menu-arrow">&gt;</span></a>
-                            <ul>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/mens-accessories-gifts_74.html">Gifts</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/mens-accessories-cufflinks_81.html">Cufflinks</a></li>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/mens_ties.asp">Ties</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/mens-accessories-silk-knots_84.html">Silk Knots</a></li>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/mens-accessories-scarves_113.html">Scarves</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/mens-accessories-belts_110.html">Belts</a></li>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/mens socks-socks_139.html">Socks</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/mensbags.asp">Bags</a></li>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/mens-accessories-silk-barrels_85.html">Silk Barrels</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/mens-accessories-silk-cufflinks_82.html">Silk Cufflinks</a></li>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/mens-accessories-mens-solid-silver-cufflinks_83.html">Solid Silver Cufflinks</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/mens-accessories-boxer-shorts_86.html">Boxer Shorts</a></li>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/mens-accessories-silk-handkerchiefs_87.html">Silk Handkerchiefs</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/mens-accessories-mens-evening-wear_59.html">Eveningwear</a></li>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/accessories-sale-accessories-sale_138.html" style="color: red">SALE</a></li>
-                            </ul>
-                        </li>
-                        <li class="odd">
-                            <a href="http://www.hawesandcurtis.com/ladies-accessories-accessories_102.html">LADIES ACCESSORIES<span class="menu-arrow">&gt;</span></a>
-                            <ul>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/ladies-accessories-accessories_102.html">Gifts</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/ladies-accessories-ladies-cufflinks_103.html">Cufflinks</a></li>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/ladies-accessories-ladies-solid-silver-cufflinks_104.html">Solid Silver Cufflinks</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/ladies-accessories-ladies-silk-knots_105.html">Silk Knots</a></li>
-                                <li class="even"><a href="http://www.hawesandcurtis.com/ladies-accessories-ladies-floral-silk-knot_106.html">Floral Silk Knots</a></li>
-                                <li class="odd"><a href="http://www.hawesandcurtis.com/bags.asp">Bags</a></li>
-                            </ul>
-                        </li>
+                    <ul id="bignav_accessories" style="display: none;">
+                        <li>
+                            <div class="dropdown_big_container dropdown_big_container_accessories">
+                                <div class="dropdown_big_top">
+                                    <div class="col_head_main"><a href="http://www.hawesandcurtis.com/mens-accessories-accessories_72.html"><span>MEN'S ACCESSORIES</span></a></div>
+
+                                    <div class="col_1">
+                                        <div class="col_head"><span class="second-header">CUFFLINKS</span></div>
+                                        <ol class="bignav_items">
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-cufflinks_81.html">Cufflinks</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-mens-solid-silver-cufflinks_83.html">Solid Silver Cufflinks</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-silk-knots_84.html">Silk Knots</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-silk-barrels_85.html">Silk Barrels</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-silk-cufflinks_82.html">Silk Cufflinks</a></li>
+                                        </ol>
+                                    </div>
+
+                                    <div class="col_2">
+                                        <div class="col_head"><span class="second-header">MEN'S TIES</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-ties-plain-natte_76.html">Plain Natte</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-ties-plain-ottoman_77.html">Plain Ottoman</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-ties-designed_80.html">Designed Ties</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-ties-striped_79.html">Striped Ties</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-ties-knitted-_149.html">Knitted Ties</a></li>
+                                        </ol>
+                                    </div>
+
+                                    <div class="col_3">
+                                        <div class="col_head"><span class="second-header">OTHER ACCESSORIES</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-gifts_74.html">Gifts</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-silk-handkerchiefs_87.html">Silk Handkerchiefs</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mensbags.asp">Bags</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-scarves_113.html">Scarves</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens socks-socks_139.html">Socks</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-belts_110.html">Belts</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-boxer-shorts_86.html">Boxer Shorts</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-accessories-mens-evening-wear_59.html">Eveningwear</a></li>
+                                            <li><a style="color:Red;" href="http://www.hawesandcurtis.com/the-quintessentially-british-collection_148.html">The Quintessentially British Collection</a></li>
+                                        </ol>
+                                    </div>
+                                </div>
+                                <div class="dropdown_big_bottom">
+                                    <div class="col_head_main"><a href="http://www.hawesandcurtis.com/ladies-accessories-accessories_102.html"><span>LADIES ACCESSORIES</span></a></div>
+
+                                     <div class="col_1">
+                                        <div class="col_head"><span class="second-header">CUFFLINKS</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/ladies-accessories-ladies-cufflinks_103.html">Cufflinks</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/ladies-accessories-ladies-solid-silver-cufflinks_104.html">Solid Silver Cufflinks</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/ladies-accessories-ladies-silk-knots_105.html">Silk Knots</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/ladies-accessories-ladies-floral-silk-knot_106.html">Floral Silk Knots</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/-ladies-silk-cufflinks_146.html">Silk Cufflinks</a></li>
+                                        </ol>
+                                    </div>
+
+                                    <div class="col_2">
+                                        <div class="col_head"><span class="second-header">OTHER</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/ladies-accessories-accessories_102.html">Gifts</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/bags.asp">Bags</a></li>
+                                        </ol>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>                    
                     </ul>
+                </li>
+                <li><a href="http://www.hawesandcurtis.com/mens-shirts-formal-shirt-sale_60.html" style="color: #db000c;">Sale</a>
+                    <ul id="bignav_sale" style="display: none;">
+                        <li>
+                            <div class="dropdown_big_container dropdown_big_container_sale">
+                                <div class="dropdown_big_top">
+                                    <div class="col_head_main"><span style="color: #db000c;">SALE</span></div>
+
+                                    <div class="col_2_1">
+                                        <div class="col_head"><span class="second-header" style="color: #db000c;">MEN'S SALE</span></div>
+                                        <ol class="bignav_items">
+                                            <li><a href="http://www.hawesandcurtis.com/mens-shirts-formal-shirt-sale_60.html">Men's Formal Sale</a></li>
+                                            <li><a href="http://www.hawesandcurtis.com/mens-fashion-shirts-curtis-sale_71.html">Men's Fashion Sale</a></li>
+                                        </ol>
+                                    </div>
+
+                                    <div class="col_2">
+                                        <div class="col_head"><span class="second-header" style="color: #db000c;">LADIES SALE</span></div>
+                                        <ol>
+                                            <li><a href="http://www.hawesandcurtis.com/ladies-shirts-ladies-shirt-sale_101.html">Ladies Sale</a></li>
+                                        </ol>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>                    
+                    </ul>                
                 </li>
             </ul>
         </div>
@@ -454,9 +611,15 @@ $(document).ready(function () {
     </div>
 </div>
 
-<div id="info-nav">
-    <a href="http://www.hawesandcurtis.com/faqs-about-shirts.asp#fragment-3"><img src="assets/new_design/90_day_return.jpg" height="38" width="243" alt="90 DAY RETURN POLICY"></a><a href="http://www.hawesandcurtis.com/faqs-about-shirts.asp#fragment-2"><img src="assets/new_design/uk_shipping.jpg" height="38" width="264" alt="UK SHIPPING FROM £4.95"></a><a href="http://www.hawesandcurtis.com/faqs-about-shirts.asp#fragment-3"><img src="assets/new_design/free_uk_returns.jpg" height="38" width="226" alt="FREE UK RETURNS"></a><a href="/formal-style-guide.asp"><img src="assets/new_design/stylesize.jpg" height="38" width="247" alt="Shirt style guide"></a>
-</div>
+<ul id="info-nav">
+  <li id="90-day" class="cursor-hand" title="View our 90 Day Return Policy">90 Day Return Policy</li>
+  <li class="seperator"></li>
+  <li id="shipping" class="cursor-hand" title="Find out more about our shipping prices">UK Shipping From £4.95</li>
+  <li class="seperator"></li>
+  <li id="returns" class="cursor-hand" title="Learn about about our returns policy">Free UK Returns</li>
+  <li class="seperator"></li>
+  <li id="style-guide" class="cursor-hand" title="Find out about our variety of fits, styles and designs">Shirt Style Guide</li>
+</ul>
 
 
 <div id="breadcrumbs">
@@ -523,20 +686,22 @@ To protect the operation of our computer systems we monitor incoming and out goi
     </div>
 </div>
 
-		<div style="height:30px; text-align:left; margin:20px 0 0 20px; clear:both; float:left; font-family: Georgia">CUSTOMER SERVICES:&nbsp;
+		<div class="footer-contact-info">CUSTOMER SERVICES:&nbsp;
 			<a href="/faqs-about-shirts.asp">FAQ</a>&nbsp;|&nbsp;
 			<a href="mailto:customer.service@hawesandcurtis.com">customerservice@hawesandcurtis.com</a>&nbsp;|&nbsp;
 			PHONE:&nbsp;0844 693 0111&nbsp;/&nbsp;0170 244 7100&nbsp;/&nbsp;INT:&nbsp;0044 170 244 7100
 		</div>
 	
       </div>
+  
     </div>
   </div>
+  
   <div style="height:6px; background-repeat:repeat-x; width: 994px; margin-left:1px; clear: both;padding: 0px; background-image:url(assets/_global/bottom-border.png);">&nbsp;</div>
 
 
-<div style="background-image:url(assets/_global/top-border.png); background-position:top center; height:8px; background-repeat:no-repeat; width: 994px;"></div>
-<div class="middleborder">
+    <div style="background-image:url(assets/_global/top-border.png); background-position:top center; height:8px; background-repeat:no-repeat; width: 994px;"></div>
+    <div class="middleborder">
   
 		
     
@@ -558,32 +723,30 @@ To protect the operation of our computer systems we monitor incoming and out goi
 			<a href="http://www.hawesandcurtis.com/de.html" alt="Go to the German site">€/Deutsch</a>
 
 			<div id="footerlinks">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; © Copyright 2011 Hawes &amp; Curtis | <a href="http://www.hawesandcurtis.com/shirts_site_terms_use.asp" class="footergrey" rel="nofollow">Terms of use</a> | <a href="http://www.hawesandcurtis.com/shirts_and_site_privacy_policy.asp" class="footergrey" rel="nofollow">Privacy Policy</a> | <a href="http://www.hawesandcurtis.com/shirts_site_map.asp" class="footergrey">Site map</a> | <a href="http://www.hawesandcurtis.com/shirts_and_security.asp" class="footergrey" rel="nofollow">Security</a>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; © Copyright 2012 Hawes &amp; Curtis | <a href="http://www.hawesandcurtis.com/shirts_site_terms_use.asp" class="footergrey" rel="nofollow">Terms of use</a> | <a href="http://www.hawesandcurtis.com/shirts_and_site_privacy_policy.asp" class="footergrey" rel="nofollow">Privacy Policy</a> | <a href="http://www.hawesandcurtis.com/shirts_site_map.asp" class="footergrey">Site map</a> | <a href="http://www.hawesandcurtis.com/shirts_and_security.asp" class="footergrey" rel="nofollow">Security</a>
 			</div>
 		</div>  <!--[if !IE]>footer middle border <![endif]-->
   
     
-  
 
 </div>
   <div id="footerbtm"></div>
 </div>
 
 
+
 <script type="text/javascript">
-  function fixthepngimages()
-  {
-$(document).pngFix();
-  }
-    $(document).ready(function(){ 
-	
-	if (GetCurrentPageName() == 'hc_shops_to_find_shirts.asp' || GetCurrentPageName() == 'contact_about_shirts.asp') {
-	setTimeout('fixthepngimages()',3000);
-	}
-	else
-	{
-    $(document).pngFix();
-	}
+    function fixthepngimages() {
+        $(document).pngFix();
+    }
+    $(document).ready(function () {
+
+        if (GetCurrentPageName() == 'hc_shops_to_find_shirts.asp' || GetCurrentPageName() == 'contact_about_shirts.asp') {
+            setTimeout('fixthepngimages()', 3000);
+        }
+        else {
+            $(document).pngFix();
+        }
     }); 
 	
 </script>
@@ -592,11 +755,11 @@ $(document).pngFix();
 <!--[if !IE]>Google Code for Default Conversion Page<![endif]-->
 <script language="JavaScript" type="text/javascript">
 
-var google_conversion_type = 'landing';
-var google_conversion_id = 1068316294;
-var google_conversion_language = "en_GB";
-var google_conversion_format = "1";
-var google_conversion_color = "666666";
+    var google_conversion_type = 'landing';
+    var google_conversion_id = 1068316294;
+    var google_conversion_language = "en_GB";
+    var google_conversion_format = "1";
+    var google_conversion_color = "666666";
 
 </script>
 
@@ -608,11 +771,11 @@ var google_conversion_color = "666666";
 
 
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-1182894-1");
-pageTracker._setDomainName(".hawesandcurtis.com");
-pageTracker._setAllowLinker(true);
-pageTracker._setAllowHash(false);
-pageTracker._trackPageview();
+    var pageTracker = _gat._getTracker("UA-1182894-1");
+    pageTracker._setDomainName(".hawesandcurtis.com");
+    pageTracker._setAllowLinker(true);
+    pageTracker._setAllowHash(false);
+    pageTracker._trackPageview();
 </script>
 
 
