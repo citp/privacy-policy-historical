@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachtci.com privacy policy that was archived on 2011-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111024093531id_/http%3A//teachtci.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachtci.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623090019id_/http%3A//www.teachtci.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TCI
 
@@ -44,7 +44,7 @@ Teachers' Curriculum Institute complies with the Children's Online Privacy Prote
 
 ## Notice to School Districts, Teachers, other Purchasers and Parents
 
-Teachers' Curriculum Institute collects limited information from students accessing its websites, including students' first names, last initials, dates of birth and usernames and passwords. We offer access to children under 13 to this Website based upon the presumption that you, or any other party facilitating access to this Website by students, have obtained authorization for the storage and use by Teachers' Curriculum Institute of such students' information necessary to offer this Website, including, without limitation, parental consent to the collection of such information by Teachers' Curriculum Institute.
+Teachers' Curriculum Institute collects limited information from students accessing its websites, including students' first names, last initials, usernames and passwords. We offer access to children under 13 to this Website based upon the presumption that you, or any other party facilitating access to this Website by students, have obtained authorization for the storage and use by Teachers' Curriculum Institute of such students' information necessary to offer this Website, including, without limitation, parental consent to the collection of such information by Teachers' Curriculum Institute.
 
 ## Special Notice to Children
 
