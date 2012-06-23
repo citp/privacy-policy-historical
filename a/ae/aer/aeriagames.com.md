@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aeriagames.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623085021id_/http%3A//www.aeriagames.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeriagames.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623094739id_/http%3A//www.aeriagames.com/policy/privacy) for the most accurate reproduction.*
 
-# Aeria Games - Join the Fastest Growing Free-to-Play Gaming Community
+# Jouez gratuitement aux meilleurs jeux MMO, navigateurs et mobiles
 
 ## Privacy Policy
 
