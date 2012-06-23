@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodtv.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224132606id_/http%3A//www.woodtv.com/subindex/About_Us/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodtv.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623063000id_/http%3A//www.woodtv.com/subindex/About_Us/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | WOOD TV8
 
