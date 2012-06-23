@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealtoworld.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125184244id_/http%3A//help.dealtoworld.com/contact-us/48-privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealtoworld.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623024200id_/http%3A//help.dealtoworld.com/contact-us/48-privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
