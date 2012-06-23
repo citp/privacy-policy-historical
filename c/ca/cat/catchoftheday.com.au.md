@@ -1,32 +1,89 @@
-> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228160022id_/http%3A//www.catchoftheday.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623024137id_/http%3A//www.catchoftheday.com.au/privacy.php) for the most accurate reproduction.*
 
-# Catch Of The Day - One Deal, Everyday, Midday
+# CatchOfTheDay - One Deal, Every Day, Midday
 
 ## Privacy Policy
 
-At CatchOfTheDay.com.au we appreciate that you value your privacy and wish to have your personal information kept secure. Our privacy policy describes generally how we manage your personal information and protect your privacy. We shall also ensure that we comply with our obligations under the Privacy Act 1988 (Cth).
+### 1\. General Statement
 
-At CatchOfTheDay.com.au we only collect personal information that is necessary for us to conduct our business as an online provider of goods. The personal information we collect will include information you give us when you place an order for the purchase of a good we supply. We may also collect personal information about individuals who are not customers of our business, but whose personal information is given to us by those individuals or other people in the course of a transaction. This personal information will include your name, address and contact details, and may include other personal information about individuals we collect in the course of a transaction.
+**1.1** CatchOfTheDay.com.au Pty Ltd ( **CatchOfTheDay.com.au** ) respects your privacy and is committed to protecting your personal information. Our privacy policy outlines our approach to privacy and how we collect, use and protect your personal information. It also sets out your rights in relation to accessing the personal information we collect and hold about you. We are bound by the National Privacy Principles in the _Privacy Act 1988_ (Cth).
 
-We may also collect some information from you when you use our website 
+**1.2** Personal information is defined in the _Privacy Act 1988_ (Cth) and means information or an opinion about an individual whose identity is apparent or can be reasonably ascertained from that information or opinion. 
 
-[_www.catchoftheday.com.au_](http://www.catchoftheday.com.au/)
+**1.3** Our Website may contain links to third party websites. We are not responsible for the privacy policies of any third party websites. We recommend that you review the privacy policy of each website you visit.
 
-. Your use of the information and services available through our website will determine the type of information that we collect about you.
+### 2\. Collection of Personal Information
 
-The only personal information that we collect about you when you use our website is what you tell us about yourself, for example, when you complete an online form when placing an order, or information you provide to us when you send us an email. Please note, we will record your email address if you send us an email.
+**2.1** CatchOfTheDay.com.au only collects personal information for the purposes of conducting our business as an online retailer of goods and services. The personal information we collect from you will include information you give us when you: 
 
-### Using and Disclosing Your Personal Information
+**(a)** register or subscribe to our Website; 
 
-We respect your privacy. Any personal information that we collect about you will be used and disclosed by us so that we can provide you with the services that you have requested, or otherwise to enable us to carry out our business as suppliers of goods.
+**(b)** complete a transaction with us; and 
 
-Please be assured we will not disclose information about you unless the disclosure is required or authorised by law, you have consented to our disclosing the information about you, or for another purpose (related to the primary purpose of collecting that information) that you would reasonably expect.
+**(c)** contact us. 
 
-We may also use your personal information to provide you with information about other services offered by us. However, the only information that you must provide is your name and payment details (where applicable). If you would prefer not to receive promotional or other material from us, please let us know and we will respect your request.
+**2.2** The personal information that we collect on individuals may include, but is not limited to: 
 
-Under the Privacy Act 1988 (Cth) you have a right to request access to your personal information held by us. You may do this by sending us an email using our helpcenter or by writing to us at:
+**(a)** your name; 
 
+**(b)** your contact details; 
+
+**(c)** your payment details; and 
+
+**(d)** other personal information that we collect in the course of a transaction. 
+
+**2.3** We may collect personal information from individuals who are not customers of our business but whose personal information is given to us by those individuals via our Website or in the course of a transaction. 
+
+**2.4** Where reasonably practicable, we attempt to collect information directly from individuals. When we collect information, we will generally explain to the individual why we are collecting it, who we give it to and how we will use or disclose it or, alternatively, those matters will be obvious from the circumstances. 
+
+**2.5** If we collect information about an individual from someone else, we will take reasonable steps to ensure that the individual is made aware of the matters listed in clause 2.4. 
+
+**2.6** We will collect personal information from you by lawful and fair means and not in an unreasonably intrusive way. 
+
+**2.7** When you visit our Website, for the purpose of managing our Website and improving our business, we may also collect the following information: 
+
+**(a)** your computer's operating system; 
+
+**(b)** your computer's browser type and capabilities; 
+
+**(c)** your computer's Internet Protocol (IP) address and geolocation; 
+
+**(d)** web pages visited, including how you were referred to each web page; and 
+
+**(e)** web page usage statistics, including the time spent on each web page. 
+
+**2.8** We will not identify users or their browsing activities, except where required by law or in accordance with our [Terms and Conditions of Use and Sale](http://www.catchoftheday.com.au/terms.php). 
+
+### 3\. Using and Disclosing Your Personal Information
+
+**3.1** We will generally use or disclose your personal information only for the primary purpose for which it was collected; or for a related secondary purpose where you would reasonably expect us to use or disclose the personal information for that secondary purpose. We may otherwise use and disclose your personal information if you have given us consent for the use or disclosure or it is required or authorised by law. 
+
+**3.2** Generally, we use and disclose your personal information for the purpose of providing you with the goods or services that you have requested, or otherwise to enable us to carry out our business as an online retailer of goods and services. 
+
+**3.3** If those purposes for which we have collected the information involve providing personal information about an individual to any third party, we will take appropriate and reasonable steps to ensure any personal information is protected. 
+
+**3.4** We will generally only use personal information for marketing if you have given express or implied consent or it is impracticable to seek consent before this use and you are given the opportunity to opt out of receiving any further direct marketing communications. Our electronic marketing activities will comply with the requirements of the _Spam Act 2003_ (Cth). 
+
+**3.5** We may share your information with other members of the CatchOfTheDay.com.au Group, including members that are located outside of Australia. Our Group is comprised of CatchOfTheDay.com.au Pty Ltd, Scoopon Pty Ltd, Wine Cru Pty Ltd and their Related Bodies Corporate, as defined in the _Corporations Act 2001_ (Cth). 
+
+**3.6** We may also provide your information to third parties that provide services to us, including third parties that provide our payment gateway, marketing, logistics and technology support services. This may include providing your information to third parties that are located outside of Australia. Where your personal information is transferred outside Australia, we will do so in accordance with National Privacy Principle 9. 
+
+### 4\. Security of Your Personal Information
+
+We take steps to protect the personal information we hold against loss, unauthorised access, use, modification or disclosure and against other misuse. When no longer required, personal information is destroyed in a secure manner or deleted.
+
+### 5\. Access to Your Personal Information
+
+**5.1** Under the _Privacy Act 1988_ (Cth), you have certain rights to access the personal information we collect and hold about you. 
+
+**5.2** Generally, we will allow an individual access to the personal information we hold about them within a reasonable time after it is requested. When requesting such access please identify the precise type/s of information requested.   
+You may make a request by sending us an email using our [Help Centre](https://helpcentre.catchoftheday.com.au/) or by writing to us at:   
 Office of the Chief Information Officer  
 CatchOfTheDay.com.au Pty Ltd  
-64 - 70 Cochranes Road  
-Moorabbin, Victoria 3189
+64-70 Cochranes Road  
+Moorabbin, Victoria 3189  
+Australia 
+
+**5.3** Additional information regarding privacy may be obtained from the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/).
+
+Privacy Policy last updated on 1 June 2012.
