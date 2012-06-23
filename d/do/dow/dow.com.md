@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209004052id_/http%3A//www.dow.com/homepage/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623083743id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.*
 
 # The Dow Chemical Company Privacy Statement
 
@@ -10,7 +10,7 @@
 
 Your privacy is important to us. The Dow Chemical Company adheres to the Safe Harbor Privacy Principles issued by the United States Department of Commerce. This Online Privacy Policy explains how The Dow Chemical Company or its affiliate that displays this policy (“Dow,” “we,” “us,” and “our”) protects your privacy when you visit this website and the websites of Dow affiliates that display this Online Privacy Policy. This policy applies to “Personal Information”, information that identifies you personally, either alone or in combination with other information available to us. 
 
-Please take a few minutes to review this Online Privacy Policy. By accessing or using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Online Privacy Policy. Please also take a few minutes to review the [Terms of Use ](https://web.archive.org/homepage/term.asp) section of our website. If you do not consent to the collection, use and disclosure of your personal information as set forth in this privacy policy or the Terms of Use, please exit and do not use this website. 
+Please take a few minutes to review this Online Privacy Policy. By accessing or using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Online Privacy Policy. Please also take a few minutes to review the [Terms of Use](https://web.archive.org/homepage/term.asp) section of our website. If you do not consent to the collection, use and disclosure of your personal information as set forth in this privacy policy or the Terms of Use, please exit and do not use this website. 
 
 This Online Privacy Policy describes what types of information we gather and track when you use our websites, how this information is used and with whom it is shared. If you have any questions about this Online Privacy Policy, please contact us.
 
