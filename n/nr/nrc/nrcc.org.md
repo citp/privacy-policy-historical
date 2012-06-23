@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211071955id_/http%3A//www.nrcc.org/about/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623112001id_/http%3A//www.nrcc.org/about/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Republican Congressional Committee
 
@@ -7,7 +7,7 @@ Welcome to the official Web site of the National Republican Congressional Commit
 **What information is being collected at www.NRCC.org?  
 **
 
-The only personal information collected is information you give us. In an effort to grow our Republican grassroots community online, the NRCC may ask you to submit information. This information will be used to provide you with information about online events, personal appearances, TV appearances, talking points, and other Republican related information. You do not have to provide this information – we only ask that you do so that we can better communicate with you!
+The only personal information collected is information you give us. In an effort to grow our Republican grassroots community online, the NRCC may ask you to submit information. This information will be used to provide you with information about online events, personal appearances, TV appearances, talking points, and other Republican related information. You do not have to provide this information – we only ask that you do so that we can better communicate with you!  Additionally, when you offer your personal information and/or choose to participate in our volunteer efforts, we use your information to personalize and customize Web pages and emails from the NRCC to you. We may also use the information to credit individuals for their actions in support of the NRCC and Republican congressional candidates. We’re thankful for your support, and we want to recognize you!
 
 Some information must be collected when you make a contribution. When you make contributions to the NRCC that aggregate to more than $200 in a single election cycle, federal law requires us to use our "best efforts" to collect your name, mailing address, employer, and occupation. Any credit card information provided is only used to immediately process your donation. The NRCC does not retain credit card information once the donation is processed online.
 
@@ -53,4 +53,4 @@ For Terms and Conditions, [click here](http://www.nrcc.org/default/NRCC%20Terms.
 
  **Opting Out From Cookies**
 
-If you’d like to opt-out from having The NRCC or AdNexus collect your Non-Personally Identifiable Information (Non-PII) in connection with their Platform, please [Click Here](http://ib.adnxs.com/optout). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to help us tailor our Clients’ online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
+If you'd like to opt-out from having The NRCC or AdNexus collect your Non-Personally Identifiable Information (Non-PII) in connection with their Platform, please [Click Here](http://ib.adnxs.com/optout). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to help us tailor our Clients' online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
