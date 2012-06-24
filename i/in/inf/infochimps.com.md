@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the infochimps.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225110742id_/http%3A//www.infochimps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infochimps.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624071044id_/http%3A//www.infochimps.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Infochimps
 
 ## INFOCHIMPS.COM PRIVACY POLICY
 
-This Privacy Policy is posted to inform our users such as you ("you" or "user") of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of the Service. Infochimps reserves the right to update this Privacy Policy at any time and for any reason without notice to you. As a best practice, Infochimps recommends that all users visit this page regularly to monitor any changes. Your use of the Service is governed by the Terms of Service ("TOS") available at http://www.infochimps.com/terms, and your continued use of the Service constitutes your agreement to and acceptance of this Privacy Policy, the TOS, and any future changes.
+This Privacy Policy is posted to inform our users such as you ("you" or "user") of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of the Service. Infochimps reserves the right to update this Privacy Policy at any time and for any reason without notice to you. As a best practice, Infochimps recommends that all users visit this page regularly to monitor any changes. Your use of the Service is governed by the Terms of Service ("TOS") available at <http://www.infochimps.com/terms>, and your continued use of the Service constitutes your agreement to and acceptance of this Privacy Policy, the TOS, and any future changes.
 
-By using the Service, you are agreeing to our collection and processing of your information as set forth in this Privacy Policy and any future iterations. Any questions, concerns or comments you have about our use of your personally identifiable information or this policy may be directed to us at help@infochimps.com.
+By using the Service, you are agreeing to our collection and processing of your information as set forth in this Privacy Policy and any future iterations. Any questions, concerns or comments you have about our use of your personally identifiable information or this policy may be directed to us at [help@infochimps.com](mailto:help@infochimps.com).
 
 ### A Note About the Privacy of Children Under 13
 
@@ -46,13 +46,13 @@ Should a breach of security occur, Infochimps will make any legally required dis
 
 ### Links to Other Websites; Email Referrals
 
-From time to time, Infochimps may include links to third party websites. This does not in any way speak as an endorsement, authorization or representation of our affiliation with that third party. Infochimps strongly advises our users to be aware of and review any privacy or terms of use made available by these third party sites, as Infochimps has no control over their ability to insert cookies or their collection/solicitation of your personally identifiable information. Any links that are found to link to sites that promote illegal or pornographic activity, however, will be removed. Until Infochimps has an integrated system in place for the reporting of these links, users may send an email with their concerns about any link on our site to help@infochimps.com.
+From time to time, Infochimps may include links to third party websites. This does not in any way speak as an endorsement, authorization or representation of our affiliation with that third party. Infochimps strongly advises our users to be aware of and review any privacy or terms of use made available by these third party sites, as Infochimps has no control over their ability to insert cookies or their collection/solicitation of your personally identifiable information. Any links that are found to link to sites that promote illegal or pornographic activity, however, will be removed. Until Infochimps has an integrated system in place for the reporting of these links, users may send an email with their concerns about any link on our site to [help@infochimps.com](mailto:help@infochimps.com).
 
 If you choose to use any referral function to tell friends about the Service, you will be required to provide your name and email address and the email addresses of your friends. The form automatically sends your friends a one-time email inviting them to visit the Service. Infochimps does not access or store this information, except to send the invitation to visit the Service. By using the referral form you are authorizing us to contact your friends on your behalf and to list your name and email address as the referring party.
 
 ### Forums & Other Interactive Services
 
-The Service may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the Service ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. Infochimps is not responsible for personal information you submit in connection with the Interactive Areas, nor is Infochimps responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please send an email to help@infochimps.com. Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from all systems.
+The Service may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the Service ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. Infochimps is not responsible for personal information you submit in connection with the Interactive Areas, nor is Infochimps responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please send an email to [help@infochimps.com](mailto:help@infochimps.com). Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from all systems.
 
 ### Non-U.S. Users
 
@@ -60,7 +60,7 @@ The Service is hosted in the United States. If you are accessing the Service fro
 
 ### Note to California Residents
 
-The State of California enacted the Shine the Light law (CA Civil Code Sec 198.83) that permits customers of Infochimps who are California residents to request certain information regarding its disclosure of personal information during the past year for marketing purposes. To make such a request, send an email to help@infochimps.com.
+The State of California enacted the Shine the Light law (CA Civil Code Sec 198.83) that permits customers of Infochimps who are California residents to request certain information regarding its disclosure of personal information during the past year for marketing purposes. To make such a request, send an email to [help@infochimps.com](mailto:help@infochimps.com).
 
 ### Conditions of Use, Notices and Revisions
 
@@ -68,4 +68,4 @@ By using the Service, you accept that your use and any dispute over privacy is s
 
 This Privacy Policy applies only to Infochimps and not to any third-parties that may be accessed through hyper-links. Infochimps reserves the right to occasionally update this Privacy Policy. At such time, Infochimps will also revise the "last updated" date at the end of the Privacy Policy. Infochimps recommends that you periodically visit this page regularly to review the most current version of this Privacy Policy and monitor any changes.
 
-Last updated: March 25, 2011. © 2009-2011 Infochimps, Inc.
+Last updated: March 25, 2011. © 2009-2012 Infochimps, Inc.
