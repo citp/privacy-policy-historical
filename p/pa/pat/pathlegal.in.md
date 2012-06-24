@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pathlegal.in privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102074012id_/http%3A//www.pathlegal.in/docs/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathlegal.in privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624055633id_/http%3A//www.pathlegal.in/docs/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # PathLegal India /docs/PrivacyPolicy.php
 
@@ -56,7 +56,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@pathlegal.com
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at pathlegal@gmail.com
 
 
 
@@ -64,4 +64,4 @@ We will not sell, distribute or lease your personal information to third parties
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at the given address. We will promptly correct any information found to be incorrect.
 
-Questions regarding this privacy policy can be sent to [support@pathlegal.com](mailto:support@pathlegal.com)
+Questions regarding this privacy policy can be sent to [pathlegal@gmail.com](mailto:pathlegal@gmail.com)
