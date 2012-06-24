@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailymarkets.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216211025id_/http%3A//www.dailymarkets.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymarkets.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624062409id_/http%3A//www.dailymarkets.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,8 @@ We take online privacy seriously and strive to protect the privacy of the users 
 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+This site may be compensated by credit card issuers when a reader applies for a credit card through the links on this site.
 
   * [Subscribe by RSS](http://www.dailymarkets.com/rss.xml)
   * [Email/Share Page](http://www.addtoany.com/share_save)
