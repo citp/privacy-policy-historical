@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the file4ever.us privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124031302id_/http%3A//file4ever.us/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file4ever.us privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624212743id_/http%3A//file4ever.us/Privacy.php) for the most accurate reproduction.*
 
 # Get Your Short Link With us
 
