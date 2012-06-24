@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sofeminine.co.uk privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105185124id_/http%3A//www.sofeminine.co.uk/money/sofeminine-s-privacy-policy-n76184.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofeminine.co.uk privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624060104id_/http%3A//www.sofeminine.co.uk/money/sofeminine-s-privacy-policy-n76184.html) for the most accurate reproduction.*
 
-# Sofeminine's Privacy Policy - sofeminine.co.uk
+# Sofeminine's Privacy Policy - sofeminine
 
 PRIVACY POLICY  
 sofeminine.co.uk and aufeminin.com
