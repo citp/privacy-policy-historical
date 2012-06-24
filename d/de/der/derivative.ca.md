@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derivative.ca privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427070551id_/http%3A//www.derivative.ca/Agreements/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derivative.ca privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624205336id_/http%3A//www.derivative.ca/Agreements/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Derivative TouchDesigner 077
 
@@ -36,9 +36,9 @@ _Cookies_ — Derivative may use "cookies" to track your preferences and activit
 
 **OPTING OUT**
 
-You may choose not to participate in, or receive postings, transmissions or other distributions through, any Derivative forum. If so: (i) do not participate in such forum; (ii) indicate your desire not to disclose your email address to other forum participants by checking the appropriate box when you provide or update your Membership Information; and/or (iii) if you have already posted, transmitted or otherwise distributed content disclosing your email address through such forum, send an email to [unsubscribe@derivativeinc.com](mailto:unsubscribe@Derivative.com) to disable your membership so that any content posted, transmitted or otherwise distributed to your email address by other forum participants will not reach you.
+You may choose not to participate in, or receive postings, transmissions or other distributions through, any Derivative forum. If so: (i) do not participate in such forum; (ii) indicate your desire not to disclose your email address to other forum participants by checking the appropriate box when you provide or update your Membership Information; and/or (iii) if you have already posted, transmitted or otherwise distributed content disclosing your email address through such forum, send an email to  to disable your membership so that any content posted, transmitted or otherwise distributed to your email address by other forum participants will not reach you.
 
-You may also choose not to receive mailing list communications from Derivative. In that case: (i) do not register to join the Derivative mailing list; (ii) indicate your desire not to receive any mailing list communications from Derivative by checking the appropriate box when you provide or update your Membership Information; and/or (iii) send an email to [unsubscribe@derivativeinc.com](mailto:unsubscribe@Derivative.com) to be removed from the Derivative mailing list, as applicable.
+You may also choose not to receive mailing list communications from Derivative. In that case: (i) do not register to join the Derivative mailing list; (ii) indicate your desire not to receive any mailing list communications from Derivative by checking the appropriate box when you provide or update your Membership Information; and/or (iii) send an email to  to be removed from the Derivative mailing list, as applicable.
 
 **THIRD PARTIES**
 
