@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the venere.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226000119id_/http%3A//www.venere.com/privacy/%3Flg%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venere.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624203239id_/http%3A//www.venere.com/privacy/%3Flg%3Den) for the most accurate reproduction.*
 
 # 
 
 Below you will find the updated Privacy Policy for Venere.com, which applies to any information provided or collected through this Web site.   
-Venere Net S.p.A., Via Della Camilluccia 693, Rome, Italy (“Venere”, “we”, “us”) will process your information in its capacity of data controller.   
+Venere Net S.r.l., Via Della Camilluccia 693, Rome, Italy (“Venere”, “we”, “us”) will process your information in its capacity of data controller.   
 We understand that booking online involves significant trust on your part. We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read this policy to learn about our privacy practices. 
 
 • What information we collect from you   
@@ -100,7 +100,7 @@ We may update this Privacy Policy in the future. We will notify you about materi
 If you have questions about either this Privacy Policy (or your travel planning or purchases), please email us or write to us at: 
 
 Email: customer.service@venere.com   
-Venere Net S.p.A.  
+Venere Net S.r.l.  
 Attn: Customer Care   
 Via Della Camilluccia 693  
 00135 - Rome  
