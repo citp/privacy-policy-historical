@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sodahead.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222230248id_/http%3A//www.sodahead.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sodahead.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624043542id_/http%3A//www.sodahead.com/about-us/privacy) for the most accurate reproduction.*
 
 # SodaHead.com - Privacy
 
-Date Last Modified: October 19, 2011. 
+Date Last Modified: May , 2012. 
 
 SodaHead, Inc. ("SodaHead") recognizes that its visitors, members, users, and others who use the Website at www.SodaHead.com (the "SodaHead Website"), (collectively or individually you, your, "Users") value their privacy. This Privacy Notice provides important information about the use and disclosure of User information collected on the SodaHead Website. SodaHead provides this Privacy Notice to help you understand what information SodaHead collects and how that information will be used. 
 
@@ -59,6 +59,8 @@ SodaHead allows other companies, called third-party ad servers or ad networks, t
 SodaHead does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if you respond to any advertisements, the advertiser or ad-server may collect certain information about you. 
 
 You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. SodaHead's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites. 
+
+(1) State that the site’s advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags;     (2) Enable end users to opt out of behavioral targeting through the opt-out link located at http://www.networkadvertising.org/managing/opt_out.asp; and     (3) Note that you are participating in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising, with the provision an "Ad Choices" link on your site or within advertising units that links to http://www.aboutads.info/choices/. 
 
 Data Security
 
