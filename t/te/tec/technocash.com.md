@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technocash.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218050522id_/http%3A//www.technocash.com/pages/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technocash.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625010813id_/http%3A//www.technocash.com/pages/privacy.cfm) for the most accurate reproduction.*
 
 # Technocash for Moving Money
 
