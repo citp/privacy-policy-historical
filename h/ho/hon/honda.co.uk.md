@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honda.co.uk privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222131530id_/http%3A//www.honda.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honda.co.uk privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624201209id_/http%3A//www.honda.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Honda (UK)
 
@@ -10,7 +10,7 @@ Berkshire
 SL3 8QY
 
 **Information Collection and Use**  
-Honda (UK) is the sole owner of the information collected on this Web site. Data that you provide will only be shared by Honda, its associated companies, [authorised dealers](http://ww1.honda.co.uk/dealers/list/ "Click to view a full list of Honda Car and Honda Power Equipment Dealers") or third parties working on behalf of Honda. We or they may wish to contact you regarding our products, services, offers, technical developments or your opinions which may be used for marketing, research or analysis purposes. 
+Honda (UK) is the sole owner of the information collected on this Web site. Data that you provide will only be shared by Honda, its associated companies, [authorised dealers](https://web.archive.org/dealers/ "Click to view a full list of Honda Car and Honda Power Equipment Dealers") or third parties working on behalf of Honda. We or they may wish to contact you regarding our products, services, offers, technical developments or your opinions which may be used for marketing, research or analysis purposes. 
 
 Honda.co.uk collects the following types of information:
 
