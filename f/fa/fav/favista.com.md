@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the favista.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211939id_/http%3A//www.favista.com//privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favista.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624033332id_/http%3A//www.favista.com/cms/privacy-policy) for the most accurate reproduction.*
 
-# Favista Privacy Policy
+# Privacy Policy - Favista
 
 To be able to provide the most relevant information and access to relevant data you might be required to provide some personal information, share specifics and get desired. 
 
