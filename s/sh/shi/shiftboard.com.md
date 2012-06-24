@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiftboard.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226084430id_/http%3A//www.shiftboard.com/shiftboard-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftboard.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625004913id_/http%3A//www.shiftboard.com/shiftboard-privacy.html) for the most accurate reproduction.*
 
 # Shiftboard Privacy Policy and Commitment
 
@@ -61,5 +61,5 @@ For more information about Shiftboard privacy practices, please contact us at an
 
 **Privacy and Legal Matters  
 c/o Shiftboard, Inc.  
-1525 4th Ave, Suite 500  
+1525 4th Ave, Suite 601  
 Seattle WA 98101 (USA)**
