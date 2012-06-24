@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibotoolbox.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210151813id_/http%3A//www.ibotoolbox.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibotoolbox.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624120158id_/http%3A//www.ibotoolbox.com/privacy.aspx) for the most accurate reproduction.*
 
 # IBOTOOLBOX - free business marketing platform
 
@@ -55,7 +55,7 @@ We may revise this Privacy Policy from time to time. The most current version of
 |    
 ---|---|---  
   
-| **ADVERTISE YOUR BUSINESS**  IBOtoolbox provides the perfect platform to get your business noticed. With more than 60,000 targeted visitors daily, our websites offer you a very targeted advertising medium.
+| **ADVERTISE YOUR BUSINESS**  IBOtoolbox provides the perfect platform to get your business noticed. With more than 100,000+ targeted visitors daily, our websites offer you a very targeted advertising medium.
 
 IBOtoolbox and IBOsocial websites boast of more targeted traffic than any social networking site including FACEBOOK! Whether you want to target our members or the business prospects that come to our sites everyday, IBOtoolbox delivers! 
 
