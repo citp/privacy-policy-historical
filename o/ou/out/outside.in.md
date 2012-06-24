@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outside.in privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225110211id_/http%3A//outside.in/privacy%3Futm_source%3Dhomepage%26utm_medium%3Dfooter%26utm_campaign%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outside.in privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624201956id_/http%3A//outside.in/privacy%3Futm_source%3Dhomepage%26utm_medium%3Dfooter%26utm_campaign%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Outside.in | Hyperlocal news in 84,254 towns and neighborhoods
 
