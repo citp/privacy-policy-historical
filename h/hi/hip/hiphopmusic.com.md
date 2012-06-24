@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiphopmusic.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103114243id_/http%3A//www.hiphopmusic.com/2007/07/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopmusic.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624103847id_/http%3A//www.hiphopmusic.com/2007/07/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,5 +10,6 @@ We use third-party advertising companies to serve ads when you visit our website
 
 * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).   
 Posted by jsmooth995 at July 5, 2007 4:39 AM   
+  
   
 
