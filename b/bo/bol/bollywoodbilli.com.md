@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodbilli.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225113225id_/http%3A//www.bollywoodbilli.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodbilli.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625004307id_/http%3A//www.bollywoodbilli.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bollywood Billi
 
