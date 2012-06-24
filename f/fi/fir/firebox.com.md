@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230100941id_/http%3A//www.firebox.com/admin/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624051926id_/http%3A//www.firebox.com/admin/privacy) for the most accurate reproduction.*
 
 # Firebox.com Privacy Policy
 
@@ -80,16 +80,7 @@ In Order to improve our service we may use a device known as a 'cookie'. Cookies
 
 If you do not wish for us to use cookies when you use the Firebox.com website please adjust your Internet browser settings to not accept cookies. The Help option on the menu bar of your web browser should explain you how to do this. Please note that cookies allow you to take full advantage of the services we provide through the Firebox.com website and so we recommend that you leave them turned on.
 
-### 3rd Party Ad Serving
-
-We may allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. We do NOT provide any personally identifiable customer information to these advertisers or third-party websites.
-
-  * **Cookies**  
-Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from our website. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. We only authorise our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. 
-  * **Opting Out of Third-Party Ad Serving**  
-If you want to prevent a third-party ad server from sending and reading cookies on your computer, you may either turn off cookies in your browser, or visit each ad network's Web site individually and opt out (if they offer this capability). 
-
-
+Firebox.com is working towards being compliant with the revised ePrivacy Directive and is working with the latest guidance from the Information Commissioner's Office (ICO).
 
 ### Your Concerns
 
@@ -244,6 +235,3 @@ The following table explains the meaning of each field in the compact policy.
 `NAV` |  Navigation and clickstream data is collected.   
   
 The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>.
-
-[](https://web.archive.org/admin/help#xmas)  
-
