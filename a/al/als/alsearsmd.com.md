@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225101646id_/http%3A//www.alsearsmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625010847id_/http%3A//www.alsearsmd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Health Newsletter
 
@@ -46,5 +46,15 @@ Cookies are tiny files placed on your computer by web sites you visit. They can 
 
 Our web sites use cookies only to track how many people visit each page, how long they stay, and that sort of statistical data. We don’t store or collect any personal information with cookies.
 
+Be Sociable, Share!
 
+    * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.alsearsmd.com%2Fprivacy-policy%2F%20 "Twitter")
+    * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.alsearsmd.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+    * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.alsearsmd.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+    *     * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.alsearsmd.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+    * [](http://delicious.com/post?url=http%3A%2F%2Fwww.alsearsmd.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Dr.%20Sears%20recognizes%20the%20importance%20of%20protecting%20%20your%20personal%20information%20and%20your%20trust%20in%20us.%20Therefore%2C%20we%20take%20the%20%20responsibility%20of%20handling%20your%20personal%20information%20extremely%20%20seriously.%0D%0A%0D%0AYour%20E-mail%20Address%0D%0A%0D%0AWhen%20you%20subscribe%20to%20any%20 "Delicious")
+    * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.alsearsmd.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.alsearsmd.com%2Fprivacy-policy%2F&srcTitle=Al+Sears%2C+MD+Natural+Health+Newsletter+ "Google Reader")
+    * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.alsearsmd.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Al+Sears%2C+MD+Natural+Health+Newsletter+&summary=Dr.%20Sears%20recognizes%20the%20importance%20of%20protecting%20%20your%20personal%20information%20and%20your%20trust%20in%20us.%20Therefore%2C%20we%20take%20the%20%20responsibility%20of%20handling%20your%20personal%20information%20extremely%20%20seriously.%0D%0A%0D%0AYour%20E-mail%20Address%0D%0A%0D%0AWhen%20you%20subscribe%20to%20any%20 "LinkedIn")
+    * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.alsearsmd.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+    * 
 
