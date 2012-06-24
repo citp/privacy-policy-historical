@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtragfx.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101230615id_/http%3A//xtragfx.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtragfx.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624070819id_/http%3A//xtragfx.com/privacy_policy.html) for the most accurate reproduction.*
 
 # xtraGFX.com Privacy Policy
 
@@ -22,7 +22,7 @@ By using our Web site, you consent to the collection and use of this information
 **Modification of Privacy Policy:**  
 
 
-  * **xtraGFX.com** reserves the right, at any Vector, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.
+  * **xtraGFX.com** reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.
 
   
 
