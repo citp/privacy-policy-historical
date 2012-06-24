@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224015510id_/http%3A//newsok.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624064307id_/http%3A//newsok.com/privacypolicy) for the most accurate reproduction.*
 
 # NewsOK Privacy Policy | NewsOK.com
 
@@ -22,7 +22,7 @@ OPUBCO requests you to review the privacy statements and policies of other websi
 
 We believe in protecting your private information. We will not share your information with companies outside our organization except as described in the Privacy Policy. We may disclose aggregated user statistics in order to describe our services to potential advertisers, other third parties, our affiliate companies, and for other lawful purposes. You may receive communications from OPUBCO related to products and services that might interest you. While we believe these services may enhance your time spent at NewsOK.com, you will at all times be able to opt out from receiving these communications by specifically opting out from a link which will be provided within the email or by sending an email to [NewsOKTCS@opubco.com ](mailto:NewsOKTCS@opubco.com). 
 
-NewsOk.com uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Please refer to the [AP News Registry privacy policy](http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx) for further information. 
+NewsOK.com uses services provided by NewsRight, LLC. NewsRight collects content usage information and may use cookies in conjunction with this activity. Please refer to the [AP News Registry privacy policy](http://www.newsregistry.com/privacycenter/servicepolicy.aspx) for further information. 
 
 The information we gather from you may be used in several ways, now or in the future, as follows: 
 
