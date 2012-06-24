@@ -1,37 +1,94 @@
-> *The following text is extracted and transformed from the ananova.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207052401id_/http%3A//www.ananova.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ananova.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625014805id_/http%3A//web.orange.co.uk/p/home/privacy) for the most accurate reproduction.*
 
-# Ananova and your personal data
+# privacy and cookies policy | privacy | Orange UK
 
-This is Ananova's Privacy Statement. It sets out how we deal with your personal data.
+This privacy policy covers your use of our website and was last updated on 18 June 2012. This privacy policy explains how Everything Everywhere uses, shares and protects your personal information. It covers all the services provided to you by Orange and T-Mobile. Please read this policy in conjunction with the terms and conditions of any particular service or services you are using. This privacy policy does not apply to third-party websites which our website link to or which advertise on our website. These third-party websites operate their own privacy policy which we encourage you to read.
 
-The ANANOVA name, logo and Ananova, the virtual newscaster, are trade marks owned by and under copyright of Orange Personal Communications Services Limited, which is part of the Orange Group of companies, whose registered address is St James Court, Great Park Road, Bradley Stoke, Bristol, BS32 4QJ ("Orange").
+  1. We are Everything Everywhere, and we run two of Britain's most famous brands: Orange and T-Mobile. Our ultimate shareholders are two of the world's leading telecommunications companies: France Telecom SA and Deutsche Telecom AG.When we refer to our 'Group Companies' we mean the companies of the Orange Group, the companies of the T-Mobile Group, the companies in which France Telecom SA have at least a 50% shareholding and the companies in which Deutsche Telekom AG have at least a 50% shareholding. Everything Everywhere Limited is the controller of your personal data and is registered as a data controller with the Information Commissioner's Office with registration number Z7510687 (http://www.ico.gov.uk).
+  2. Your personal information is any information that identifies you as an individual or is capable of doing so. We collect your personal information such as:
+    1. your full name
+    2. your gender
+    3. your date of birth or age
+    4. your delivery and/or your billing address including postcodes
+    5. your telephone number
+    6. your email
+    7. your debit or credit card details
+    8. your banking information
+    9. Information on add-on products and services purchased by you
+    10. your preferences and interests both when you tell us what they are or when we deduce them from what we know about you
+    11. your demographic information (which we may acquire from third parties)
+    12. the channel you chose to purchase your device or sign up to our services 
+    13. how you use our products and services, this may include your traffic data such as the phone numbers that you call and send messages to (and the phone numbers that you receive calls and messages from) and the date, time, duration and cost of your communications including your phone location at the time these communications are made, your spend, your device details, your phone location, third party websites visited, your searching and browsing history on our websites (including the date, time and duration of your internet session)
+    14. your amount of data usage (MBs used) 
+    15. roaming information (the country you are in and the network used when making communications)
+    16. your internet protocol (IP) address which we collect when you visit our websites and we will allocate an IP address to your device when your connect to the internet using our phone network and/or broadband services 
+    17. your device details
+    18. your communications with us
+    19. your account information such as your billing history, the services you use and anything else relating your account 
+    20. any information to help you decide which of our products and services would suit you best 
+If you give us information about another person, perhaps when they receive a service you are paying for, we expect you to be responsible for ensuring that they know we are keeping records about them and process their personal information in accordance with this privacy policy.If you or your business applies for our services, we will register and check your details and the details of persons with whom you have a financial link (and if you are a business that trades as a partnership those of your business partners) with credit reference agencies to help us make credit decisions about you. You must also be able to disclose information about anyone else with whom you have a financial link. Your details may be linked to records relating to one or more of those people. We will also check your details with fraud prevention agencies. If you give us false or inaccurate information which leads us to suspect fraud, we will record this and details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when:
+    1. Checking details on application for credit and credit related or other facilities 
+    2. Managing credit and credit related accounts or facilities 
+    3. Recovering debt 
+    4. Checking details on proposals and claims for all types of insurance; and 
+    5. Checking details of job applications and employees 
+These agencies will also use the records for statistical analysis about credit, insurance and fraudWe and other organisations may access and use from other countries the information recorded by fraud prevention agencies. More details about the relevant fraud prevention agencies are available on request. 
+  3. We use your personal information for the following purposes:
+    1. to make credit decisions about you
+    2. to confirm that your orders have been received and to process them, to validate you as a registered customer when using our services and calling our customer services
+    3. for providing the relevant products and services to you, for administration of your account with us and customer services, and for billing purposes
+    4. to tell you about functionality changes to our websites, changes to our services or changes to our terms and conditions, to remind you about your customer benefits, and to advise you regarding the use of our services
+    5. to help us develop our offers, products and services and the layout of our websites to ensure that our services are as useful and enjoyable as possible
+    6. for our internal purposes such as management, research, analytics, corporate reporting, credit scoring and to improve business efficiencies
+    7. to contact you to invite you to form part of our consumer panel or research groups about our products and services or third party products and services
+    8. for segmentation of our customer base, marketing of our products and services and to understand and keep you informed about what is the best package for you according to your use of our services
+    9. to provide you with the best customer experience we can
+    10. to ensure security for you and our staff, and help maintain service quality (calls to our customer services may be monitored and/or recorded for quality and training purposes)
+    11. to check that your home or office is covered by our network and to optimise your network coverage
+    12. to prevent and detect criminal activity, fraud and misuse of or damage to our services or networks and to prosecute those responsible, to defend our rights or property or to protect the rights and interests of our customers and users
+    13. to comply with applicable laws, regulations, court orders, government and law enforcement agencies' requests, to operate our systems properly or to protect ourselves or our users and customers or to solve any customer disputes
+    14. for the management of traffic, your personal information may also be used for tracing nuisance or malicious calls and for emergency services
+    15. to send you newsletters. You can opt out of receiving our newsletters by email by clicking on the 'unsubscribe' link provided in the email.
+    16. to provide aggregated statistics about our sales, customers, traffic patterns to third parties, but these statistics will not include any information that is likely to identify you
+We may also use your personal information which may be combined with demographic information and may include information on your use of our services, your phone usage (including voice, messaging, web/ WAP use, application use), the types of websites that you visit, your browsing and search history on our websites, purchasing habits, your phone location (Cell ID), your spend, your preferences: 
+    1. to carry out research and analysis and monitor customer use of our network, products and services on an anonymous or personalised basis to identify general trends and to understand better our customers' behaviours and partner with other businesses to create new services and to develop more interesting and relevant products and services for our customers, as well as personalise the products and services we offer you.
+    2. to market and advertise our branded products and services including our Group companies' products and services by telephone (mobile and landline when available), post, fax, electronic messaging (including SMS and MMS), email or online or via any other interactive media based on your personal information. We may use information about your phone location as a factor in deciding which mobile ads to serve to you.
+    3. to market and advertise third party products and services that may be of interest to you including third party offers, promotions, advertisements, competitions or commercial communications by telephone (mobile and landline when available), post, fax, electronic messaging (including SMS and MMS), email or online or via any other interactive media. To do so, we may share your anonymised customer profile with our trusted business partners. We may also use information about your phone location as a factor in deciding which mobile ads to serve to you.
+    4. to provide you with online personalised services and targeted advertising through the use of cookies when you visit our websites.
+  4. We may share your personal information with: 
 
-The Ananova Service is defined under our [Terms and Conditions](https://web.archive.org/about/terms.html).
+    1. our Group Companies and their agents and sub-contractors.
+    2. our service providers involved in providing the services to you including the provision, distribution, delivery and marketing of our products and services. We don't allow them to use this information for their own commercial purposes and they have to follow our express instructions and comply with appropriate security measures to protect your personal information. Some of these companies may provide the services from countries outside the European Economic Area (the EEA, i.e. the 27 European Union Member States, as well as Iceland, Norway and Liechtenstein) that may not provide the same level of data protection as the UK. If we do transfer your personal information outside of the EEA, we will put a contract in place with these third parties including security obligations on them to ensure that your personal information is protected.
+    3. credit reference agencies
+    4. fraud prevention agencies
+    5. debt collection agencies
+    6. insurance providers if you have purchased an insurance policy through us
+    7. law enforcement agencies, regulators, courts and public authorities
+    8. emergency services
+    9. on an anonymised basis with trusted business partners including our carefully selected business partners to provide you with mobile advertising services, advertisers, merchants and content providers to identify general trends and understand better our customers and for targeted advertising purposes including third party offers, promotions, advertisements, competitions or commercial communications by telephone, SMS, MMS, email and online or via any other interactive media. If you want details on how to opt out of marketing communications, please click here . Please note that any dealings between you and advertisers, merchants and content providers will be governed by their own terms and conditions and privacy policies. 
+    10. prospective or actual purchasers, sellers or partners and their advisers if we decide to sell, buy, merge or otherwise re-organise our business.
+  5. The periods for which we keep your information depend on the purpose for which your information was collected and the use to which it is put. We will not keep your personal information for longer than necessary for our business purposes or for legal requirements.Data relating to the destination, routing, timing or duration of a communication will be kept for at least a year to comply with our legal obligations. Some information will be held for a few years after you have closed your account with us, for instance if this is necessary to meet our legal obligations, or is in accordance with industry practice.Information sent to credit reference agencies will be held for 6 years.
+  6. If you want, you can always access your personal information. Just make a written request to our Customer Operations team at the address below clearly identifying yourself and the information you require. We may charge you £10 to cover the cost of processing your request and supplying your information to you. We will ask you to provide identification to ensure we do not disclose your information to the wrong people. If you tell us that we hold any inaccurate information about you we will correct it at no charge to you.Please write to:The Compliance Team,Everything Everywhere, First Floor Mercia House, Senhouse Road, Lingfield Way, Darlington, DL1 4YG.
+  7. Information on you may be collected through the use of cookies, when you use our website and selected third-party websites which belong to advertising networks with whom we partner. A cookie is a small unique text file placed on your device when you visit a website which enables the website to identify your device whenever you visit that website. Cookies cannot be used to run programs or deliver viruses to your device. Cookies can only be read by a web server from the same domain (e.g. www.everythingeverywhere.com) that saved the cookie on your device. For more information on cookies in general, please visit www.allaboutcookies.org.
+  8. We do our best to protect your personal details and other information about your account because we want you to feel completely confident about using our services. We are constantly reviewing our processes and procedures to protect your personal information from unauthorised access and use, accidental loss and/or destruction. Sometimes we use other organisations to process your personal information on our behalf. We don't allow them to use this information for their own commercial purposes and they have to follow our strict instructions and comply with appropriate security measures. We store all your account details and other such information on secure servers, adhering strictly to all relevant UK legislation. We use encrypted transmission links whenever we can. For further information on security measures to protect your personal information, please click here .
+  9. We need to know approximately where you are so that we can deliver mobile phone services to you. Location information (such as your Cell ID) is relayed to us and some of our partners when your phone is turned on or when you use the services. This information will also be shared with the emergency services so that when you make an emergency call, the emergency services are able to respond more quickly to the call. Location information cannot usually be used to pinpoint exactly where you are. For example, it cannot usually be used to determine which particular house or shop you are in at a given time. Instead it offers an approximate location based on your position relative to the nearest mobile phone masts. The accuracy of this information depends on how close you are to a mobile phone mast and is likely to be more accurate in urban areas compared to rural areas.This location information may also be used to provide you with services that are linked to your location such as: 
+    1. traffic reports
+    2. entertainment listings
+    3. targeted offers (as further described in our section 3 how we use your personal information)
+    4. map services (for this, we will use your GPS location if enabled on your phone)
+Some of these services are called active location services because you are asking us to check your location in order for the service to be provided. There are other forms of location based services where you might agree to be located by someone else or you might want to locate someone else using the location information we generate. These services are called passive location services. We describe our phone locator services and other passive location based services offered by our partners below.Phone locator servicesWe have put in place measures that fully comply with the Industry Code of Practice for the Use of Mobile Phone Technology to Provide Passive Location Services in the UK ("the Code").These include measures to verify the identity of the person wishing to use the passive location service and to ensure the ongoing consent of the person whose phone is being located. For more information about the Code please click on www1.orange.co.uk/codesofpractice. One of the key requirements of this Code is that the person who is to be located must consent to being located and regular reminders about the location service must be sent to their mobile phone so that they can opt out at any time. Other passive location servicesYou may receive certain passive location services in circumstances where you have adjusted settings or activated certain features on your phone. For example, if your phone has 'Bluetooth' enabled, you may receive messages from third parties located nearby. If you do not wish to receive these services, we suggest you de-activate the relevant feature(s) on your phone or contact the third parties directly.
+  10. You can ask us to include your contact details including your name or trading name, address and mobile phone number in a telephone directory which will make them available through directory enquiry services. If you want your contact details including your mobile phone number to be included in a directory enquiry service, please contact our Customer Services team.We may provide services that enable our customers and the public to find out which of their friends are on the T-Mobile or the Orange network by searching mobile phone numbers. 
+  11. We will:
+    1. Value the personal information entrusted to us and make sure we respect that trust;
+    2. Go further than just the letter of the law when it comes to handling personal information, and adopt good practice standards;
+    3. Consider and address the privacy risks first when we are planning to use or hold personal information in new ways, such as when introducing new systems;
+    4. Be open with individuals about how we use their information and who we give it to;
+    5. Make it easy for individuals to access and correct their personal information;
+    6. Keep personal information to the minimum necessary and delete it when we no longer need it;
+    7. Have effective safeguards in place to make sure personal information is kept securely and does not fall into the wrong hands;
+    8. Provide training to staff who handle personal information and treat it as a disciplinary matter if they misuse or don't look after personal information properly; 
+    9. Put appropriate financial and human resources into looking after personal information to make sure we can live up to our promises; and
+    10. Regularly check that we are living up to our promises and report on how we are doing.
+  12. Any changes we make to our privacy policy in the future will be posted on our websites and, where appropriate, notified to you by SMS or email, so that you are always kept informed of how we use, share and protect your personal information.By continuing to use our services you acknowledge and agree to those changes.
 
-If you have any queries about this statement, please write to us at: The Data Protection Officer, Orange, PO Box 36, Leeds, LS11 9YJ, United Kingdom.
 
-PRIVACY STATEMENT
-
-1\. "Personal Data" is any data that identifies you. We will deal with your Personal Data in compliance with the current UK data protection legislation. Please note this applies only to Orange not to other companies' or organisations' websites to which we link.
-
-2\. Personal Data may be collected, processed and used by Orange in the course of providing the Ananova Service to you and the other purposes mentioned below. Personal Data may also be processed and used by such other organisations on our behalf for the purpose of providing the Ananova Service to you. The use of information will remain under the control of Orange (or of other companies within the group of companies of which Orange is part and to whom we may pass your Personal Data) at all times.
-
-3\. Only if you have given us permission will we send email and text messages to you about new products and services which we consider may be of interest to you.
-
-4\. We may collect Personal Data about your usage of the Ananova Service in order to provide a service to meet your needs, and to let you know about products and services that may be of interest to you by means other than email and text messages. However, the data will only be disclosed on an anonymous and aggregated basis not in a way in which you will be identified.
-
-5\. We may hold Personal Data relating to the transactions you enter into with us or others through the Ananova Service such as an online seller. We will disclose Personal Data to a party to the transaction, but only to assist your transaction.
-
-6\. You agree that for the purposes of providing the Ananova Service to you it may be necessary for your Personal Data to be passed by us or other organisations involved in providing the Ananova Service to companies outside the European Union.
-
-7\. If you have any questions about the handling or protection of your Personal Data or your rights under this privacy statement please write to us at : The Data Protection Officer, Orange, PO Box 36, Leeds, LS11 9YJ, United Kingdom.
-
-8\. Orange may disclose your Personal Data acting in good faith if it believes such action is necessary to conform with a legal requirement or comply with the legal process, protect and defend the rights or property of Orange or other members of the Orange group of companies, enforce this Online Agreement, act to protect the interests of its registered users or others.
-
-9\. Cookies
-
-9.1 The Ananova Service makes use of "cookies". A cookie is a small text file which is placed on your hard disk. Cookies contain information about you and your chosen preferences. For example, it might contain a record of which pages within the Ananova website you visited, to help us customise the website for you the next time you visit.
-
-9.2 Only the information that you provide, or the choices you make, while visiting the Ananova website can be stored in a cookie. For example, the Ananova website cannot determine your email address unless you choose to type it. Allowing Orange to create a cookie does not give Orange access to the rest of your computer and only Orange can read it.
-
-9.3 Orange will only use the cookies created to enhance your experience. What this means is that when you use the site Orange will be able to keep certain settings for you for when you return. It also means that you do not need to choose options such as your TV or weather region every time you visit the site as we store them for you during the time you spend browsing our site.
