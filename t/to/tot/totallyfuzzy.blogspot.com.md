@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallyfuzzy.blogspot.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225113626id_/http%3A//www.totallyfuzzy.eu/directory/info_pages.html%3FID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallyfuzzy.blogspot.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624203117id_/http%3A//www.totallyfuzzy.eu/directory/info_pages.html%3FID%3Dprivacy) for the most accurate reproduction.*
 
 # InfoDesk @ totallyfuzzy.eu
 
@@ -61,6 +61,24 @@ See also [http://www.aboutcookies.org](http://www.aboutcookies.org/) or [http://
 
 
 
+**addendum: update May 28th 2012**
+
+In compliance with new EU cookie laws
+
+  * **Cookies that are always being set on your visit here**
+  * Google analytics (see above)
+  * Google Adsense (see above)
+  * **Cookies initiated by you (when using the site)**
+  * Facebook (for comments, share and like functions)
+  * Login (video site): to check whether you are logged in, to give access to some functionalities reserved for members only (playlists, favorites etc)
+  * User interface browse mode (video site)
+  * Youtube (video site) when watching videos
+
 Original : October 5th 2008
 
-Last update: May 19th 2009
+Updated: May 19th 2009
+
+Last update: May 28th 2012
+
+
+
