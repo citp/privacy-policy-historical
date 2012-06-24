@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaloption.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125132320id_/http%3A//www.globaloption.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaloption.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624073141id_/http%3A//www.globaloption.com/privacy.aspx) for the most accurate reproduction.*
 
 # GlobalOption.com Privacy Statement
 
@@ -8,7 +8,7 @@ Your privacy, our priority
 
 Protecting the privacy and safeguarding the personal and financial information of our clients and website visitors is one of our highest priorities. The following Privacy Statement explains how GlobalOption collects and protects your personal information.
 
-By opening an GlobalOption account or by using this Web site, you give your consent to the collection and use of personal information by GlobalOption as explained in this Privacy Statement.
+By opening a GlobalOption account or by using this Web site, you give your consent to the collection and use of personal information by GlobalOption as explained in this Privacy Statement.
 
 Collection of personal information
 
