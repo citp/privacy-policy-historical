@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuji.com.sg privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225233603id_/http%3A//www.zuji.com.sg/site/help/corporate/privacy_policy.html%3Fskin%3Densg.zuji.com.sg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuji.com.sg privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625011107id_/http%3A//www.zuji.com.sg/site/help/corporate/privacy_policy.html%3Fskin%3Densg.zuji.com.sg) for the most accurate reproduction.*
 
 # ZUJI Singapore: Your Online Travel Guru
 
