@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the science20.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120073516id_/http%3A//www.science20.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the science20.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624232444id_/http%3A//www.science20.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
 ## Science 2.0 - Privacy Policy
 
-#### (Last Updated: November December 24, 2006)
+#### (Last Updated: November June 17, 2012)
 
 At ION Publications LLC ("Science 2.0","Scientific Blogging", "Science20.com", "we," or "us"), we are committed to ensuring the privacy of our users. This Privacy Policy ("Policy") describes how personal information is collected from users of the Science 2.0 Web site located at www.Science20.com ("Site"), and how that information is used and disclosed. By using our Site, you consent to the terms of this Policy. 
 
@@ -15,6 +15,8 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 Personal information is information that specifically identifies an individual, such as a user's name, address, telephone number, e-mail address, credit card or other account number, and information about that individual's activities when directly linked to that person such as information about his or her purchases or use of services. Personal information also includes demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you. 
 
 Personal information does not include "aggregate" information. Aggregate information is data we collect about a group or category of products, services or users from which individual user identities have been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service, but no personal information will be included in the resulting data. Likewise, information about the products you purchase may be collected and combined with information about the products purchased by others. Aggregate data helps us understand trends and user needs so that we can better consider new products and services, and tailor existing products and services to user desires. 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/)
 
 #### Personal Information We Collect
 
@@ -100,8 +102,9 @@ We will modify this Policy if our privacy practices materially change in the fut
 
 If you have any questions about this Policy, or the practices of or your dealings with the Site, please contact us at the following address or email us at [Privacy at Science 2.0](mailto:privacy@Science20.com): 
 
-ION Publications LLC   
-705-2 East Bidwell Street #170   
-Folsom, CA 95630 
+ION Publications LLC Science 2.0  
+10580 N. McCarran Blvd #115-334  
+Reno, NV 89503  
 
-##### © 2006-2010 ION Publications LLC
+
+##### © 2006-2012 ION Publications LLC
