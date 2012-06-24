@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehockeywriters.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209113911id_/http%3A//thehockeywriters.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehockeywriters.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624093123id_/http%3A//thehockeywriters.com/privacy-statement) for the most accurate reproduction.*
 
-# The Hockey Writers | Privacy Statement - The Hockey Writers
+# Privacy Statement - The Hockey Writers
 
 This is the web site of **The Hockey Writers** , owned and operated by Bruce K. Hollingdrake
 
