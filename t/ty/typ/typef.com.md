@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typef.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130103909id_/http%3A//www.typef.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typef.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624143040id_/http%3A//www.typef.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | typeF.com
 
@@ -26,9 +26,9 @@ Information Collected by Third Parties. The Site includes third-party advertisin
 
 If you would like to opt-out of third party "interest-based" advertising, or to learn more about such practices, please visit the following sites:
 
-[www.networkadvertising.org/managing/opt_out.asp.](https://web.archive.org/web/20111130103909id_/http://www.typef.com/privacy-policy/www.networkadvertising.org/managing/opt_out.asp)
+[www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
 
-[www.aboutads.info/choices](https://web.archive.org/web/20111130103909id_/http://www.typef.com/privacy-policy/www.aboutads.info/choices)
+[www.aboutads.info/choices](http://www.aboutads.info/choices)
 
 Use of Information We Collect. We reserve our rights to use your personally identifiable information to respond to your requests, personalize content and advertisements, administer the Site, communicate with registered users, enforce our rights and the rights of third parties, and investigate and ensure compliance with the Terms of Use and applicable law. We also use non-personally identifiable information (such as demographic information, anonymous usage data, referring/exit pages and URLs, number of clicks, etc.) to better understand Site usage and to make the Site more useful to users.
 
@@ -56,6 +56,6 @@ Notice Required by Law. In those jurisdictions that permit email notice, if we a
 
 Contact. If you have any questions about privacy on the Site please contact us at: legal@demandmedia.com. To send us a legal notice, mail it by certified mail (return receipt requested) to: Demand Media, Legal Department, 5808 Lake Washington Blvd, Suite 300, Kirkland, WA 98033. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you. 
 
-Demand Media and typeF are registered trademarks of Demand Media, Inc. in the United States and other countries.
+Demand Media, typeF and the typeF logo are trademarks and/or registered trademarks of Demand Media, Inc in the United States and/or other countries.
 
 Copyright © 2011. Demand Media, Inc.
