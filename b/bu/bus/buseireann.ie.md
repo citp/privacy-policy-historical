@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buseireann.ie privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614084456id_/http%3A//www.buseireann.ie/inner.php%3Fid%3D89) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buseireann.ie privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624202949id_/http%3A//www.buseireann.ie/inner.php%3Fid%3D323) for the most accurate reproduction.*
 
-# Privacy Statement - Travel anywhere in Ireland by bus or coach with Bus Éireann e.g. Dublin, Cork, Galway, etc.
+# Privacy Statement - Bus Éireann - View Ireland Bus and Coach Timetables & Buy Tickets
 
   1. CIÉ respects your privacy
   2. Sites covered by this Privacy Statement
