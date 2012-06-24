@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trapcall.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120229id_/http%3A//www.trapcall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trapcall.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624212341id_/http%3A//www.trapcall.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TrapCall
 
