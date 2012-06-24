@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leagle.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225003617id_/http%3A//www.leagle.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagle.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624144235id_/http%3A//www.leagle.com/privacystatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -111,7 +111,7 @@ Fax: (310) 388-0502
 
 Email: [info@leagle.com](mailto:info@leagle.com)
 
-**|  |  [ ](https://web.archive.org/web/20111225003617id_/http%3A//www.leagle.com/quicksearch.aspx)
+**|  |  [ ](https://web.archive.org/web/20120624144235id_/http%3A//www.leagle.com/quicksearch.aspx)
 
 * * *
 
