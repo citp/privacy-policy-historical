@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dudeiwantthat.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123155943id_/http%3A//www.dudeiwantthat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudeiwantthat.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624155458id_/http%3A//www.dudeiwantthat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DudeIWantThat.com
 
@@ -22,4 +22,4 @@ If I had any information to be protected, I'd do nothing special to protect it. 
 
 ### What if this privacy policy changes?
 
-Odds are it won't, but if it does, then you probably won't know unless you're checking this page frequently, in which case you're pathetic.
+Odds are it won't, but if it does, then you probably won't know unless you're checking this page frequently.
