@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the survival-spot.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224010234id_/http%3A//www.survival-spot.com/survival-blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survival-spot.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624211138id_/http%3A//www.survival-spot.com/survival-blog/privacy-policy) for the most accurate reproduction.*
 
-# Survival Blog | Survival Spot | Privacy Policy | Survival Spot
+# Privacy Policy | Survival Spot
 
 ## We will NEVER sell, publish or distribute your information!
 
@@ -77,6 +77,8 @@ By using our site, you consent to our privacy policy.
  **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
+
+## Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
