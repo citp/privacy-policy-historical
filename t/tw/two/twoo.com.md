@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twoo.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007222123id_/http%3A//twoo.com/about%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twoo.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624225719id_/http%3A//twoo.com/about%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Twoo's Privacy Statement
 
-The Website is owned by Twoo, a company registered in Belgium with its registered office in Ghent, Belgium and company number 0834.322.338.
+The Website is owned by Massive Media NV, a company registered in Ghent, Belgium with company number 0859.635.972.
 
 This Privacy Statement was created in order to demonstrate our firm commitment to your right to privacy and data protection. Twoo processes your personal data with every reasonable safeguard for your protection and in conformity with this Privacy Statement and with the strict rules of Belgian and European data protection legislation.
 
