@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realmomkitchen.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228140734id_/http%3A//realmomkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realmomkitchen.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624193722id_/http%3A//realmomkitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Real Mom Kitchen
 
@@ -28,7 +28,9 @@ Please contact those vendors and others directly if you have any questions about
 
 For any other information email [webmaster](mailto:webmaster@realmomkitchen.com)
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Frealmomkitchen.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Frealmomkitchen.com%2Fprivacy-policy%2F%20 "Twitter")
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Frealmomkitchen.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Frealmomkitchen.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
   *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Frealmomkitchen.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
