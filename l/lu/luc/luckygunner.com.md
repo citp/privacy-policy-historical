@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckygunner.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011070142id_/http%3A//www.luckygunner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckygunner.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624104117id_/http%3A//www.luckygunner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,4 +80,4 @@ Back To Top ^
 
 [](http://www.bbb.org/knoxville/business-reviews/ammunition/luckygunnercom-in-knoxville-tn-90012591)
 
-© 2011 LuckyGunner, LLC. All Rights Reserved.
+© 2009-2012 LuckyGunner, LLC. All Rights Reserved.
