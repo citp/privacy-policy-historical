@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allaboutcareers.com privacy policy that was archived on 2011-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221175945id_/http%3A//www.allaboutcareers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allaboutcareers.com privacy policy that was archived on 2012-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120624100157id_/http%3A//www.allaboutcareers.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,7 +14,7 @@
         <link rel="stylesheet" href="http://www.allaboutcareers.com/css/token-input.css">
         <link rel="stylesheet" href="http://www.allaboutcareers.com/css/token-input-facebook.css">
         <link rel="stylesheet" href="http://www.allaboutcareers.com/css/jquery.fancybox-1.3.2.css">
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.allaboutcareers.com/js/jquery-1.4.2.js"></script>
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
         <script type="text/javascript" src="http://www.allaboutcareers.com/js/jreject.js"></script>
         <script type="text/javascript" src="http://www.allaboutcareers.com/js/ie6.js"></script>
         <script src="http://www.allaboutcareers.com/js/jquery-ui-1.8.6.custom.min.js" type="text/javascript"></script>
@@ -34,7 +34,6 @@
         <script type="text/javascript" src="http://www.allaboutcareers.com/js/jquery.form.js"></script>
         <script type="text/javascript" src="http://www.allaboutcareers.com/js/jquery.cookie.js"></script>
         <script type="text/javascript" src="http://www.allaboutcareers.com/js/jquery.cycle.js"></script>
-         <script type="text/javascript" src="http://www.allaboutcareers.com/js/snow_effect.js"></script>
         <link rel="stylesheet" type="text/css" href="http://www.allaboutcareers.com/css/diary.css" media="screen">
         <script type="text/javascript">
             CI_ROOT = "http://www.allaboutcareers.com/";
@@ -44,7 +43,7 @@
     <div id="fb-root"></div>
 <script>
   window.fbAsyncInit = function() {
-    FB.init({appId: '148291445219657', status: true, cookie: true, xfbml: true});
+    FB.init({appId: '148291445219657', status: true, cookie: true, xfbml: true,oauth : true});
   };
   (function() {
     var e = document.createElement('script'); e.async = true;
@@ -56,24 +55,19 @@
 <script>
   function facebook_login() {
 	 FB.login(function(response) {
-	  if (response.session) {
-		if (response.perms) {
+	  if (response.authResponse) {
           window.location.href = 'http://www.allaboutcareers.com/home/fblogin';
 		  // user is logged in and granted some permissions.
 		  // perms is a comma separated list of granted permissions
-		} else {
-		  // user is logged in, but did not grant any permissions
-		  alert('You must grant necessary permissions');
-		}
 	  } else {
 		// user is not logged in
 		  alert('Please login');
 	  }
-	 }, {perms:'publish_stream,offline_access'});
+	 }, {scope:'publish_stream,offline_access'});
  }
 </script>
 <div id="topBanner">
-    <a target="blank" href="http://3mobileshop.at/AllAboutLaw?CTY=1&amp;CID=19586"><img class="mpu" src="http://b1.perfb.com/b1.php?ID=19586&amp;PURL=3mobileshop.at/AllAboutLaw" alt="#"></a>        <ul>
+    <a target="blank" href="http://www.allaboutcareers.com/campaigns/training-contract-deadlines-2012"><img class="mpu" src="http://www.allaboutcareers.com/images/tc2012.gif" alt="#"></a>        <ul>
         <li>Already have<br>an account?</li>
         <li class="signIn">
             <a class="toggle" href="#"></a>
@@ -95,15 +89,13 @@
     </ul>
     <ul class="facebook">
        <!-- facebook code start -->
- 	            <!-- if user not loged in - displaing login button -->
-            <li>Sign in with<br>
+ 	            <li>Sign in with<br>
                 Facebook?
             </li>
         <li class="login">
   	<a href="javascript:facebook_login()"><img src="http://www.allaboutcareers.com/images/facebooksignin.jpg" alt="#"></a>
  	</li>
- 	
- 	<!-- facebook code end --> 
+ 	 	<!-- facebook code end -->
     </ul>
         </div>
     <div id="header">
@@ -127,7 +119,7 @@
         <li><a href="http://www.allaboutcareers.com/jobs">Jobs</a></li>
         <li><a href="http://www.allaboutcareers.com/events">Events</a></li>
         <li><a href="http://www.allaboutcareers.com/career-test">Career Test</a></li>
-    <!--            <li><a href="">Courses</a></li>-->
+        <li><a href="http://www.allaboutcareers.com/videos">Videos</a></li>
             </ul>
 </div>
 </div>
@@ -234,6 +226,7 @@
                 <li><a href="http://www.allaboutcareers.com/jobs">Jobs</a></li>
                 <li><a href="http://www.allaboutcareers.com/careers-advice">Careers Advice</a></li>
                 <li><a href="http://www.allaboutcareers.com/advertise-with-us">Advertise with us</a></li>
+                <li><a href="http://www.allaboutcareers.com/who-we-work-with">Partners</a></li>
             </ul>
         </div>
         <a class="popup" href="http://www.allaboutcareers.com/popup/load_popup" style="display:none">
