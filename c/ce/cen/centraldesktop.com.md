@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the centraldesktop.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209134025id_/http%3A//www.centraldesktop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centraldesktop.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624073121id_/http%3A//www.centraldesktop.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Collaboration Software
-
-## Privacy
+# Privacy policy - Central Desktop
 
 Central Desktop, Inc. ("Central Desktop") values your privacy. Central Desktop has created this Privacy Policy to demonstrate our commitment to protecting your privacy and to disclose our information and privacy practices for www.centraldesktop.com and its services. We reserve the right to change this Policy and will notify you of such changes via email or our website. If you have questions or concerns regarding this Privacy Policy, you may contact us at .
 
