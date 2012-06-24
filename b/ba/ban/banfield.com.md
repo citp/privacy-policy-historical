@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the banfield.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217215154id_/http%3A//www.banfield.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banfield.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624090854id_/http%3A//www.banfield.com/Privacy) for the most accurate reproduction.*
 
-# Banfield - Banfield Pet Hospital: Pet Medical Care with a Local Veterinarian
+# Banfield Pet Hospital - Banfield Pet Hospital: Pet Medical Care with a Local Veterinarian
 
 The following states Banfield Pet Hospital's policy regarding the privacy rights of visitors to this web site.
 
