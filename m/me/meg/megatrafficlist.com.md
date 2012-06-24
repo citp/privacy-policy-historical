@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the megatrafficlist.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201213343id_/http%3A//megatrafficlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megatrafficlist.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624052244id_/http%3A//megatrafficlist.com/privacy.php) for the most accurate reproduction.*
 
 # Mega Traffic List | Because The Advertising World Is a Big Place
 
-[](http://megatrafficlist.com/bannerclick.php?id=116)  
+[](http://megatrafficlist.com/bannerclick.php?id=1233)  
 
 
 Mega Traffic List Privacy Policy
@@ -35,7 +35,11 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
+
+
+[Recommended Site Of The Day](https://web.archive.org/recommends.php)
+
 Copyright (c) 2011 Mega Traffic List All Rights Reserved 
 
-[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ Recommended Site Of The Day](https://web.archive.org/recommends.php)|   
+[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php)  
 
