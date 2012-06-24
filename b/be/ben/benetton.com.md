@@ -1,36 +1,38 @@
-> *The following text is extracted and transformed from the benetton.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121060338id_/http%3A//www.benetton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benetton.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624043142id_/http%3A//www.benetton.com/privacy) for the most accurate reproduction.*
 
 # Privacy | United Colors of Benetton
 
-Information provided pursuant to section 13 of Italian Legislative Decree No. 196 of 30 June 2003 (Personal Data Protection Code, hereinafter referred to as “P.C.”)
+This information describes how the personal data of users consulting the Bencom S.r.l. websites is managed and processed.  
+This information, provided in compliance with art. 13 of Italian Legislative Decree no. 196 of 2003 (Personal data Protection Law), is only for this website owned by Bencom S.r.l. and not for any other websites consulted by the user through links over which the aforementioned company has no control whatsoever.
 
-Data controller  
-In the process of or following consultation of this web site, data pertaining to identified or identifiable persons may be processed. The entity authorized to perform such processing operations, data controller, is Benetton Group S.p.A., with registered office in Via Villa Minelli, 1, 31050 Ponzano Veneto, Treviso
+  **How data is collected and used**  
+Computer systems and software used to operate the website, during normal operations, acquire certain personal data. In particular, this is:  
+• **Data supplied by the user:**  
+// _Registration data._ When a user registers he/she can be asked to enter personal data to create an account and access website services. This data makes navigation and the supply of services requested easier. The data received can be combined with data coming from third parties.  
+// _User communication._ The user may supply personal data by email or other kinds of electronic communication. This data, including communication content, is kept and managed to process and satisfy the user’s requests, and to improve services offered by the site Owner. Data supplied and the email address may be used to communicate with the user about services and products offered by the site Owner.  
+• **Navigation data:**  
+// _Cookies._ These are data files that websites can send to the address of the visiting user to track him/her through the site; this is to collect anonymous data and improve the website’s offer and usability. If preferred, users can set their browsers so that they are warned of the presence of cookies or can automatically refuse to accept them by activating the specific browser option. However, not being able to use cookies could make it difficult to interact with the website.  
+// _Log information._ This information is recorded automatically by the server. For example, it enters the IP address, its iteration with the website, browser requests, request time, web server answer status and other parameters concerning the user’s operating system and computer environment. This information is collected anonymously but, due to its nature, can be associated with identified interested parties enabling user identification. Please note that this data can be used to ascertain responsibility if any crimes are committed against the Bencom S.r.l. website or others connected to it. Besides this possibility, said data is cancelled within just a few days.  
+• **Third party applications:**  
+// When the user activates a third party application, data collected is processed in accordance with this Privacy Policy. However, how said third parties process personal data is regulated by their privacy policies.
 
-Premises where data is processed  
-The processing operations in connection with the services on this web site are performed at the aforementioned office only by staff specifically designated to the processing of data, or by such staff as should be appointed for non-routine maintenance operations.  
-The personal data supplied by users forwarding specific requests will be used for the sole purpose of performing the service or provision requested and will be communicated to third parties only where required in connection thereof.
+  **Where and how processing takes place**  
+Personal data connected to web services is processed both automatically and otherwise and only for the time strictly needed to fulfil the purpose it was collected for. The Process Controller has drawn up specific security measures to prevent loss of data, it being used illegally or incorrectly and unauthorised access.  
+Personal data is processed on the Controller’s premises. Personal data can be supplied to other Benetton Group companies or to other companies outside the group or to trusted people, even abroad; these are assigned to process said data on the Controller’s behalf. In the latter case, parties processing data on the Controller’s behalf are given suitable instructions, also on security measures and confidentiality, so that they process the data in compliance with this document and the personal data protection Law.
 
-Types of Data processed  
-// Navigation data  
-Information systems and the software procedures for running this web site acquire, in the ordinary course of operations, some personal data whose forwarding is implied in the use of the communication protocols of the Internet. This type of information is not collected for the purpose of being associated with identified interested parties; on account of its nature, however, by processing and reference to data held by third parties, it may lead to the user being identified.  
-These data are used for the sole purpose of obtaining anonymous statistical information on the use of the web site and to verify that it functions properly.
+  **Processing purpose**  
+Personal data collected by the interested party directly, or c/o third parties, can be processed for the following purposes:  
+• Fulfilment of obligations in laws, regulations or other provisions also issued by Authorities legally authorised to do so;  
+• Promotion and sales of the Owner’s products and services, made by ordinary correspondence, advertising materials, email, automatic communication systems;  
+• Customer satisfaction surveys and public relations activities.
 
-// Data provided by the user on his own initiative  
-The optional, specified and voluntary forwarding of electronic mail to the addresses shown on this web site entails the subsequent acquisition of the sender’s address, needed to reply to enquiries, as well as any further personal data entered in the mail.  
-Specific summary information will be shown or visualized progressively on the web site pages designated for special services available upon request.
+  **Providing data is optional**  
+Except for navigation data and data processing required to fulfil legal obligations, the user is free to supply personal data or not when requested to do so in specific website sections.  
+However, not providing said data could make it impossible to obtain what was requested.
 
-// Cookies  
-Cookies refer to a small quantity of data stored by the computer’s RAM or hard drive every time a web site is visited. Our web site uses cookies for record-keeping purposes and to keep track of the visitors to the site so that they can be offered faster access; cookies also allow us to make appropriate changes to the site based on visitors’ preferences. No other information stored in users’ computers can be accessed from the use of Cookies and the visited site.
+  **Controller of processing**  
+The Controller of data processing is Bencom S.r.l., with registered office in Ponzano Veneto (Treviso), Villa Minelli 1. Tel. +39 0422.519111 – Fax: +39 0422.519586 – E-mail: [responsabile.privacy@benetton.it](mailto:%20responsabile.privacy@benetton.it)
 
-Optional provision of data  
-Without prejudice to the instructions provided with respect to navigation data, the user shall be free to decide whether or not to provide personal data, should it be so requested in special sections of the site.  
-However, failing to provide such data may result in us being unable to fulfil your request.
-
-Processing methods  
-Personal data are processed by automated means only for such time as is strictly necessary to fulfil the purpose for which they are being held.  
-Appropriate security measures have been taken against accidental loss of the data, unauthorized or unlawful uses and unauthorized access.
-
-Rights of the parties concerned  
-Pursuant to section 7 of the P.C., the parties to whom the personal data refer may at any time request confirmation that their data is being held, be notified of the contents of such data and their origin, verify whether they are accurate or request that they be completed, updated, corrected, erased, demand that they be made anonymous or demand that data held in violation of law be blocked, and such parties may also object, for legitimate reasons, to the data being processed.  
-Any requests to the above-stated effect should be addressed to the data controller.
+  **Rights of interested parties**  
+In compliance with art. 7 of the personal data protection Law, data subjects have the right to be informed of whether their data is being held or not at any time, to be informed of content and origin, check that it is correct or ask for it to be integrated, updated or rectified, request it be cancelled, made anonymous for blocked if processed violating laws in force. The data subject may also oppose processing of his/her data for legitimate reasons.  
+Any requests of this kind must be addressed to the Controller.
