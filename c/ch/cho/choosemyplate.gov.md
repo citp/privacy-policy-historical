@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choosemyplate.gov privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224132319id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choosemyplate.gov privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624084653id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # FOIA Privacy Policy | USDA
 
@@ -40,7 +40,7 @@ We do not track your web activities beyond your browsing the USDA website. We do
   
 | 
 
-[COPPA](http://www.coppa.org/comply.htm "Link opens in new window") applies to the online collection of personal information from children under age 13. USDA complies with COPPA and does not knowingly collect personal information about children.   
+[COPPA](http://www.coppa.org/comply.htm "External link or third-party site, opens in new window.") applies to the online collection of personal information from children under age 13. USDA complies with COPPA and does not knowingly collect personal information about children.   
   
 | Cookies  
   
@@ -56,7 +56,7 @@ Cookies are small files that web servers place on a user's hard drive that helps
 
 USDA may use both types of cookies to improve our on-line services to you. 
 
-You can [disable cookies](http://www.usa.gov/optout-instructions.shtml "Link opens in new window") by adjusting the setting on your web browser.   
+You can [disable cookies](http://www.usa.gov/optout-instructions.shtml "Opens in new window.") by adjusting the setting on your web browser.   
   
 | You Send Us Personal Information  
   
@@ -78,9 +78,9 @@ Information presented on the USDA website is considered public information and m
 
 1\. For site security purposes and to ensure that this web site service remains available to all users, USDA employs monitoring technology to identify unauthorized attempts to upload, change, or otherwise cause damage to USDA information or systems. 
 
-2\. Raw data logs are scheduled for regular destruction in accordance with the [Computer Fraud and Abuse Act of 1986](http://www.law.cornell.edu/uscode/18/1030.html "Link opens in new window") and with [National Archives and Records Administration (NARA) General Schedule 20](http://www.archives.gov/records-mgmt/grs/grs20.html "Link opens in new window"). 
+2\. Raw data logs are scheduled for regular destruction in accordance with the [Computer Fraud and Abuse Act of 1986](http://www.law.cornell.edu/uscode/18/1030.html "External link or third-party site, opens in new window.") and with [National Archives and Records Administration (NARA) General Schedule 20](http://www.archives.gov/records-mgmt/grs/grs20.html "Opens in new window."). 
 
-3\. Unauthorized attempts to upload information or change information on this website are strictly prohibited and may be punishable under the [National Information Infrastructure Protection Act](http://www.justice.gov/criminal/cybercrime/ccpolicy.html#NIFPA "Link opens in new window").   
+3\. Unauthorized attempts to upload information or change information on this website are strictly prohibited and may be punishable under the [National Information Infrastructure Protection Act](http://www.justice.gov/criminal/cybercrime/ "Opens in new window.").   
   
 | Privacy Impact Assessment  
   
@@ -88,19 +88,21 @@ Information presented on the USDA website is considered public information and m
 
 A privacy impact assessment (PIA) is an analysis of how information is handled: (i) to ensure handling conforms to applicable legal, regulatory, and policy requirements regarding privacy, (ii) to determine the risks and effects of collecting, maintaining and disseminating information in identifiable form in an electronic information system, and (iii) to examine and evaluate protections and alternative processes for handling information to mitigate potential privacy risks. 
 
-The E-Government Act requires federal agencies to conduct PIAs for electronic information systems and collections and, in general, make the assessment results publicly available.   
+The E-Government Act requires federal agencies to conduct PIAs for electronic information systems and collections and, in general, make the assessment results publicly available. 
+
+[Learn more about USDA Privacy Impact Assessments](http://www.usda.gov/wps/portal/usda/usdahome?navid=PRIVACY_POLICY_ES)  
   
 | Machine-Readable Privacy Policies, Platform Privacy Preferences (P3P)  
   
 | 
 
-The privacy provisions of the E-Government Act of 2002 require agencies to have both a "human readable" privacy policy and machine readable technology that automatically alerts users about whether site privacy practices match their personal privacy preferences. [P3P](http://www.howto.gov/web-content/requirements-and-best-practices/laws-and-regulations/machine-readable-privacy-policies "Link opens in new window") is the standard for machine-readable Privacy Policy.   
+The privacy provisions of the E-Government Act of 2002 require agencies to have both a "human readable" privacy policy and machine readable technology that automatically alerts users about whether site privacy practices match their personal privacy preferences. [P3P](http://www.howto.gov/web-content/requirements-and-best-practices/laws-and-regulations/machine-readable-privacy-policies "Opens in new window.") is the standard for machine-readable Privacy Policy.   
   
 | Social Media  
   
 | 
 
-The USDA uses third-party services such as Facebook, Twitter, and YouTube to communicate and interact with the public. You may encounter these services as separate websites (for example, the [USDA Facebook page](http://www.facebook.com/USDA "Link opens in new window"), or as applications embedded within the USDA's websites. These services are controlled and operated by third parties, and are not government websites or applications. By interacting with USDA through these third-party services, you may be providing non-government third parties access to your personal information which can be used to distinguish or trace your identity. Any information collected by a third-party service is subject to the privacy policies of the third-party service provider. These third-party services may, for example, use persistent (multi-session) cookies. 
+The USDA uses third-party services such as Facebook, Twitter, and YouTube to communicate and interact with the public. You may encounter these services as separate websites (for example, the [USDA Facebook page](http://www.facebook.com/USDA "External link or third-party site, opens in new window."), or as applications embedded within the USDA's websites. These services are controlled and operated by third parties, and are not government websites or applications. By interacting with USDA through these third-party services, you may be providing non-government third parties access to your personal information which can be used to distinguish or trace your identity. Any information collected by a third-party service is subject to the privacy policies of the third-party service provider. These third-party services may, for example, use persistent (multi-session) cookies. 
 
 Generally, USDA does not collect, disseminate, or maintain any personally identifiable information about you maintained by third party sites. However, you should be aware that USDA may read, review, or rely upon information that you make publicly available or the USDA on these services (for example, comments made on the USDA's Facebook page), as authorized or required by law. 
 
