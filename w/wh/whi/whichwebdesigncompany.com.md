@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the whichwebdesigncompany.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104123220id_/http%3A//www.whichwebdesigncompany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whichwebdesigncompany.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624085820id_/http%3A//www.whichwebdesigncompany.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Which Web Design Company
 
-This is the web site of **WhichWebDesigncompany.com**.
-
-Our postal address is   
-**5, Montague House, 109-113 Whitfield Street  
-London, W1T 4HJ**
-
-We can be reached via e-mail at [nasrin@whichwebdesigncompany.com](mailto:nasrin@whichwebdesigncompany.com).
+This is the web site of **Which Web Design Company Ltd**.
 
 This privacy policy sets out how Which Web Design Company uses and protects any information that you give Which Web Design Company when you use this website.
 
@@ -55,12 +49,14 @@ Our website contains links to enable you to visit other websites of interest eas
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * logging into your profile to change any information stored at any time
-  * if you have previously agreed to us using your personal information for direct marketing purposes, or submitted information, you may change your mind at any time by writing to or emailing us at wwdc@whichwebdesigncompany.com
+  * if you have previously agreed to us using your personal information for direct marketing purposes, or submitted information, you may change your mind at any time by writing to or emailing us at support@whichwebdesigncompany.com
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Phoenix Yard, 65 Kings Cross Road, London, WC1X 9LW
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 5, Montagu House, Whitfield Street, London, W1T 4HJ
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+If you would like to contact us, please email support@whichwebdesigncompany.com
