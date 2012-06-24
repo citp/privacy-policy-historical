@@ -1,31 +1,32 @@
-> *The following text is extracted and transformed from the mycroburst.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227223322id_/http%3A//www.mycroburst.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycroburst.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624133833id_/http%3A//www.mycroburst.com/privacy_policy) for the most accurate reproduction.*
 
 # MycroBurst » Leader in Graphic, Web and Logo Design Contests
 
-**Guru Corporation (c/o Logo Design Guru, Inc) Respects Your Privacy**  
+**Guru Corporation (c/o Logo Design Guru, Inc) Respects Your Privacy**
+
 Logo Design Guru, Inc (herein known as LDG) and its subsidiaries, (to include LogoDesignGuru.com, MycroBurst.com, LogoSnap.com and LogoGuru.co.uk, WebbyGuru.com) ,respect your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. 
 
 If you have questions or concerns regarding this statement, you should first contact LDG using the contact information included at the end of this statement. 
 
-  1. Sites Covered by this Privacy Statement and Links to non-LDG websites  
+  * Sites Covered by this Privacy Statement and Links to non-LDG websites  
 
-  2. Collection of personal information   
+  * Collection of personal information   
 
-  3. How we use your information   
+  * How we use your information   
 
-  4. How we share your information   
+  * How we share your information   
 
-  5. Children's privacy   
+  * Children's privacy   
 
-  6. Your choices and selecting your privacy preferences   
+  * Your choices and selecting your privacy preferences   
 
-  7. Access to and accuracy of your information   
+  * Access to and accuracy of your information   
 
-  8. Keeping your information secure   
+  * Keeping your information secure   
 
-  9. Changes to this statement   
+  * Changes to this statement   
 
-  10. Contacting us   
+  * Contacting us   
 
 
 
@@ -62,8 +63,7 @@ If you choose to use a tell-a-friend program on our site, we will ask you for yo
 
 In addition to the information you provide, LDG may also collect information during your visit to an LDG website through our Automatic Data Collection Tools, which include Web beacons, cookies, embedded Web links, and other commonly used information-gathering tools. These tools collect certain standard information that your browser sends to our website such as your browser type and language, access times, and the address of the website from which you arrived at an LDG website. They may also collect information about your Internet Protocol (IP) address, click stream behavior (i.e. the pages you view, the links you click, and other actions you take in connection with LDG websites) and product information. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers use IP addresses to communicate on the Internet, allowing users to browse and shop. 
 
-**3\. How we use your information**  
-
+**3\. How we use your information**
 
 The information LDG collects to understand your needs and interests helps LDG deliver a consistent and personalized experience. For example, LDG may use your information to 
 
@@ -119,9 +119,12 @@ You can make or change your choices about receiving either subscription or gener
 
 The email communications that you receive from LDG will be provided in accordance with this statement. Some email communications may utilize automatic data collection tools. 
 
-**Subscription communications**  
-Subscription communications include email newsletters, software updates, etc. that may be expressly requested by you or which you consented to receive. After you request such communications, you may opt out of receiving them by using one of the following methods:   
+  
 
+
+**Subscription communications**
+
+Subscription communications include email newsletters, software updates, etc. that may be expressly requested by you or which you consented to receive. After you request such communications, you may opt out of receiving them by using one of the following methods: 
 
   * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication. 
   * Return to the Web page(s) where you originally registered your preferences and follow the opt-out instructions. 
@@ -131,7 +134,11 @@ Subscription communications include email newsletters, software updates, etc. th
 
 Please be aware that when you opt out of receiving certain subscription communications, it may affect the services you have chosen to receive from LDG where accepting the communications is a condition of receiving the services. 
 
-**LDG general communications**  
+  
+
+
+**LDG general communications**
+
 LDG general communications provide information about products, services, and/or support. This may include new product information, special offers, or invitations to participate in market research. 
 
 You may opt out of receiving these general communications by using one of the following methods: 
