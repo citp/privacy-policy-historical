@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the fullycatholic.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224215625id_/http%3A//www.fullycatholic.com/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullycatholic.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624021953id_/http%3A//fullycatholic.com/index/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Written by Christopher Phillips      
-Saturday, 01 January 2011 20:24   
-  
+     Saturday, 01 January 2011 20:24 
+     Christopher Phillips 
+     Hits: 1477 
+
 **What information do we collect?**   
 We collect information from you when you register on our site.
 
@@ -31,20 +32,20 @@ We do include or offer third party products or services on our website. These th
 **Children's Online Privacy Protection Act Compliance**   
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**Online Privacy Policy Only**   
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+**Online **Privacy Policy** Only**   
+This online **privacy policy** applies only to information collected through our website and not to information collected offline.
 
 **Your Consent**   
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [web site **privacy policy**](http://www.freeprivacypolicy.com/).
 
-**Changes to our Privacy Policy**   
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+**Changes to our **Privacy Policy****   
+If we decide to change our **privacy policy** , we will post those changes on this page, and/or update the **Privacy Policy** modification date below.
 
 This policy was last modified on 01 Jan 2011
 
 **Contacting Us**   
-If there are any questions regarding this privacy policy you may contact us using the information below.
+If there are any questions regarding this **privacy policy** you may contact us using the information below.
 
-<http://fullycatholic.com/index/contact-us>  
-  
+[http://fullycatholic.com/index/contact-us](http://www.fullycatholic.com/index/contact-us)
+
 Last Updated on Monday, 24 January 2011 21:41 
