@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215080423id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624075614id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
