@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521150255id_/http%3A//www.mpp.org/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624235909id_/http%3A//www.mpp.org/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,16 +26,43 @@ MPP uses industry-standard Secure Sockets Layer (SSL) encryption on all Web page
 
 If you would like your personal information updated or modified, you can contact [membership@mpp.org](mailto:membership@mpp.org) with your request. If possible, please include full name, postal address, phone number, and the e-mail address at which you receive messages from MPP.
 
-### Collecting other personal information
-
-When you browse MPP's Web site, you are able to do so anonymously. We do not collect personal information when you browse — not even your e-mail address. We do monitor site traffic and viewing habits.
-
-Like many Web sites, MPP's Web site uses "cookie" technology. This information is used to determine the last time you visited our site and which of MPP's state sites you last visited in an effort to personalize your site visit.
-
 ### Our organizational commitment to privacy
 
-MPP does not knowingly solicit personal information from children or send them requests for personal information.
+MPP does not knowingly solicit personal information from children or send them requests for personal information.B
 
 MPP's Web site contains limited links to other sites. MPP does not share your personal information with those sites, nor is MPP responsible for their privacy practices. We encourage you to learn about the privacy policies of those organizations.
 
 If we are going to use your personal information differently from what is stated here, we will try to contact you via e-mail using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner.
+
+### **Terms and Conditions of Use**
+
+By using this site, you acknowledge and agree to the following: ** **
+
+### Collection of Information
+
+### ** **
+
+MPP collects personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. Personal information submitted when donating to MPP, MPP Foundation, the MPP PAC or subscribing to MPP email alerts will not be shared with other groups, but MPP may occasionally allow like-minded organizations to send mailings to you, whereby MPP doesn't actually share your contact info with these like-minded organizations.
+
+We use third-party advertising companies to serve advertisements when you visit our website. These companies may use aggregated (not personal identifying) information about your visits to this website in order to provide advertisements about goods and services that may be of interest to you. ** **
+
+### **Credit Card Information**
+
+Credit Card numbers are not stored by us.  They are submitted directly to a secure third party vendor for processing. ****
+
+### **Cookie/Tracking Technology**
+
+The Site may use cookie and tracking technology if you use the "Remember Me" function.  The cookies are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. ****
+
+### **Commitment to Data Security**
+
+Your personally identifiable information is kept secure. Only authorized employees and vendors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings. ****
+
+### **Third-Party Service Providers**
+
+Portions of the mpp.org site (donation processing, the MPP store and Action Center) are operated by a third-party grassroots campaign service provider, which is currently Convio. Convio may place cookies on your computer in order to store information, such as items placed in your shopping cart in the MPP store, or storing your account login when using the Action Center. Convio logs standard technical information, such as the numerical Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site.
+
+Convio also stores and organizes the personal information collected through this site on our behalf. 
+
+From time to time, MPP may work with third-party consultants or other service providers who may have access to personally identifiable information. In such cases, we will restrict their use of personally identifiable information in accordance with their assigned tasks and subject to the limitations of this privacy policy. **  
+**
