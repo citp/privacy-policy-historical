@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122145id_/http%3A//www2.brent.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625014305id_/http%3A//www.brent.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -116,7 +116,7 @@ We will treat any personal information by which you can be identified (i.e. name
 
 The Data Protection Officer, Brent House, 349-357 High Road, Wembley, Middlesex, United Kingdom, HA9 6BZ. Or you can send your request by email to [dpo@brent.gov.uk](mailto:dpo@brent.gov.uk)
 
-If you are not satisfied with our response to your concern: you may wish to contact [complaints online](https://web.archive.org/OSS.nsf/62b8de57600a6898802566140061dec8?OpenForm "Complaint online form") or at [The One Stop Service](https://web.archive.org/OneStop.nsf/Pages/LBB-12 "Information on the OneStop Service")
+If you are not satisfied with our response to your concern: you may wish to contact [complaints online](https://web.archive.org/OSS.nsf/62b8de57600a6898802566140061dec8?OpenForm "Complaint online form") or [Brent Customer Services](http://www.brent.gov.uk/OneStop.nsf/Pages/LBB-12 "Link to Brent Customer Services"). 
 
 Alternatively, you can contact the Information Commissioner, Wycliffe House, Water Lane, Wilmslow, Cheshire, CK9 5AF or see <http://www.informationcommissioner.gov.uk/> 
 
@@ -188,5 +188,3 @@ More information about cookies, including how to block or delete them, can be f
 **Web server -** The host computer that generates the contents of the web page before it is sent to your computer.
 
 Back to top
-
-Updated 05/26/2011 03:13:19 PM
