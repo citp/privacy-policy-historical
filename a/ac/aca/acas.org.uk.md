@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acas.org.uk privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225001916id_/http%3A//www.acas.org.uk/index.aspx%3Farticleid%3D1922) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acas.org.uk privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624092225id_/http%3A//www.acas.org.uk/index.aspx%3Farticleid%3D1922) for the most accurate reproduction.*
 
 # Acas privacy policy - Acas
 
