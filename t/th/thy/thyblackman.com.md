@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thyblackman.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225101504id_/http%3A//thyblackman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thyblackman.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624171850id_/http%3A//thyblackman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : ThyBlackMan.com
 
