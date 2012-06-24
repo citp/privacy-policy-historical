@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raiderfans.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205111306id_/http%3A//www.raiderfans.net/forum/site-news-announcements/176359-raiderfans-net-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raiderfans.net privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625013451id_/http%3A//www.raiderfans.net/forum/site-news-announcements/176359-raiderfans-net-privacy-policy.html) for the most accurate reproduction.*
 
 # Raiderfans.net Privacy Policy
 
@@ -22,7 +22,7 @@
 
 > **Follow Raiderfans.net**
 > 
-> [Follow @raiderfans](http://twitter.com/raiderfans)
+> [Follow @raiderfans](https://twitter.com/raiderfans)
 > 
 > **24/7 Coverage of the Oakland Raiders[SBReport.net](http://www.sbreport.net/)  
 >  **
