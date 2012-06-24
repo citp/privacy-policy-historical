@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calumetphoto.co.uk privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225205546id_/http%3A//www.calumetphoto.co.uk/eng/customerService/privacyPolicy.cfm%3F%26var%3Dd%26ckey%3DGB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calumetphoto.co.uk privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624202122id_/http%3A//www.calumetphoto.co.uk/eng/customerService/privacyPolicy.cfm%3F%26var%3Dd%26ckey%3DGB) for the most accurate reproduction.*
 
 # Calumet Photographic
 
