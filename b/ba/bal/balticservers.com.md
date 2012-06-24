@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the balticservers.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219052126id_/http%3A//www.balticservers.com/hosting-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balticservers.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624024102id_/http%3A//www.balticservers.com/hosting-privacy-policy) for the most accurate reproduction.*
 
-# BalticServers- All Data Centers services
+# Dedicated Servers in Europe - Linux, Windows Servers, Vps, Collocation, Unlimited Cpanel hosting | BalticServers.com
 
 In an effort to protect our clients' and site visitors privacy and rights, BalticServers.com has established a Privacy Policy which explains what information we gather on visitors and what we do with that information. This Privacy Policy governs the manner in which BalticServers.com collects, uses, maintains and discloses information collected from users of this Web site. 
 
