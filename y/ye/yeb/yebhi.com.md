@@ -1,37 +1,16 @@
-> *The following text is extracted and transformed from the yebhi.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226060510id_/http%3A//www.yebhi.com/policy/content.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yebhi.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624110007id_/http%3A//www.yebhi.com/cn/policy.aspx%3Fsource%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Yebhi.com
-
-[ ](https://web.archive.org/)
-
-Call us 24x7: 0124-4934650 | Email us: support@yebhi.com | Live Support
-
-[](https://web.archive.org/Specially-For-You/content.aspx)
-
-[](https://web.archive.org/SH~0,1583,0~0~1~-1~-1~-1~-1~op~/%20Low%20Price%20Offer.htm)
 
 Privacy Policy
 
   1. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described in the Privacy Policy. We view protection of your privacy as a very important community principle. We understand clearly that you and Your Information is one of our most important assets. We store and process Your Information on computers located in the India that are protected by physical as well as technological security devices. We use third parties to verify and certify our privacy principles. If you object to your Information being transferred or used in this way please do not use the Site.
-  2. We collect "personal" information from you when you provide it to us. For example, if you purchase a product from us, we may collect your name, mailing address, telephone number and email address. If you sign up to receive a newsletter, we will collect your email address. If you take advantage of special services offered by us, we may collect other personal information about you.” “We use your personal information for internal purposes such as processing and keeping you informed of your order.
+  2. We collect "personal" information from you when you provide it to us. For example, if you purchase a product from us, we may collect your name, mailing address, telephone number and email address. If you sign up to receive a newsletter, we will collect your email address. If you take advantage of special services offered by us, we may collect other personal information about you.â âWe use your personal information for internal purposes such as processing and keeping you informed of your order.
   3. Under no circumstances do we rent, trade or share your PII that we have collected with any other company for their marketing purposes without your consent. We reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure. Otherwise, however, we will not disclose your name, address and other information which identifies you personally to any third party without your consent. We reserve the right to collect general demographic and other anonymous information that does not personally identify you. This information is not associated with your personally identifiable information and cannot be linked to you personally.
   4. If you are no longer interested in receiving e-mail announcements and other marketing information from us, or you want us to remove any PII that we have collected about you, please e-mail your request to support@yebhi.com.
   5. We use cookies and other technologies such as pixel tags and clear gifs to store certain types of information each time you visit any page on our website. Cookies enable this website to recognize the information you have consented to give to this website and help us determine what portions of this website are most appropriate for your professional needs. We may also use cookies to serve advertising banners to you. These banners may be served by us or by a third party on our behalf. These cookies will not contain any personal information.
   6. Whether you want your web browser to accept cookies or not is up to you. If you haven't changed your computer's settings, most likely your browser already accepts cookies. If you choose to decline cookies, you may not be able to fully experience all features of the website. You can also delete your browser cookies of disable them entirely. But this may significantly impact your experience with our website and may make parts of our website non functional or inaccessible. We recommend that you leave them turned on.
   7. We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.
-  8. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click http://www.networkadvertising.org/managing/opt_out.asp. You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative’s website by clicking http://www.networkadvertising.org/.
-
-
-
-### A Delighted Customer's Opinion
-
-“I surf many sites like ......etc..but trust guys no site offers so good offers like Yebhi and im lovingit. I purchased nearly for 10k and still going on .Spreading it across my troop.Daily when i come to office previously i used to surf gmail now its Yebhi :) Thanks to Yebhi”  
-Manohari Vagicherla  
-Apr 15, 2011
-
-  * Free Shipping
-  * All Brands Original,No Duplicate
-  * 100% Quality Check before Disptach
-  * 24 x 7 Customer Support
+  8. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click http://www.networkadvertising.org/managing/opt_out.asp. You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiativeâs website by clicking http://www.networkadvertising.org/.
 
 
