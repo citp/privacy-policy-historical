@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the techcareers.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005233455id_/http%3A//www.techcareers.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcareers.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624213324id_/http%3A//www.techcareers.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# TechCareers.com - career resources, news, jobs and resumes in Information Technology and Engineering
+# IT Jobs, Engineering Jobs and Career Resources for IT and Engineering Professionals - Techcareers.com
 
 ### Privacy Policy
 
-If you have questions or concerns regarding this statement, please contact us. 
+If you have questions or concerns regarding this statement, please [contact us](https://web.archive.org/JS/Form/ContactUsForm.asp) or write to us at Beyond.com, 1060 First Avenue, Suite 100, King of Prussia, PA 19406. 
 
 Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use any of our services, you agree to these terms. 
 
@@ -32,7 +32,7 @@ Additionally, information may be passed on to a third party in the event of a tr
 
 In order to serve you better and more efficiently, we may also share anonymous aggregated information (relevant to the job search) about users with our partners and other third parties relevant to the job search.
 
-We collect information from our users at several different points on our website. When you first register with us, we ask for your email address and a password. At this time, we may subscribe you to various email publications. You can unsubscribe from any or all publications at any time. We will delete data on our site that you have provided to us, upon request, through our Contact Us form, found at the bottom of this page.
+We collect information from our users at several different points on our website. When you first register with us, we ask for your email address and a password. At this time, we may subscribe you to various email publications. You can unsubscribe from any or all publications at any time. If you are a registered member, [click here](https://web.archive.org/home/) to access your account and manage your email options. We will delete data on our site that you have provided to us, upon request, through our [Contact Us form](https://web.archive.org/JS/Form/ContactUsForm.asp).
 
 We also offer an Associate program, where associate members direct customers to the network through links on their Web sites. We ask associates for their site name (URL), mailing address, primary contact, pay-to address, technical contact, and other site-related information to determine whether a site will be included in our network. The information collected from our affiliates is used strictly for that program; none of this information is used for general marketing purposes. 
 
@@ -48,7 +48,7 @@ Back to top
 
 ### Viewing and Updating Your Information on the Network
 
-You always have complete access to the information you have provided to the network. You can make changes to this information to update your account anytime. 
+You always have complete access to the information you have provided to the network. You can make changes to this information to update your account anytime. If you are a registered member, you may [click here](https://web.archive.org/home/) to manage your information.
 
 Back to top
 
@@ -56,11 +56,11 @@ Back to top
 
 ### Cookies
 
-In general, we have limited use of cookies. As you browse areas of this site, cookies may be placed on your computer’s hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive.) Cookies allow us to track your account so you don’t need to retype the information each time you visit our site. You may refuse cookies in your browser, but doing so may result in certain services and features not functioning properly.
+In general, we have limited use of cookies. As you browse areas of this site, cookies may be placed on your computer's hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive.) Cookies allow us to track your account so you don't need to retype the information each time you visit our site. You may refuse cookies in your browser, but doing so may result in certain services and features not functioning properly.
 
-Our advertisers may also serve cookies when users click on the ad banners on this site. We do not have access to any personal information gathered by advertisers.
+Our advertisers may also serve cookies when users click on the ad banners on this site, or use web beacons to collect information. We do not have access to any personal information gathered by advertisers.
 
-If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. Click [here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site.
+If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out. Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>
 
 Back to top
 
@@ -128,7 +128,7 @@ Back to top
 
 * * *
 
-Rev. October 2010
+Rev. May 2012
 
 * * *
 
