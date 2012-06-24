@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the arthritisresearchuk.org privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126160127id_/http%3A//www.arthritisresearchuk.org/home/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritisresearchuk.org privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624033114id_/http%3A//www.arthritisresearchuk.org/footer/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy policy | Arthritis Research UK
+# Privacy Policy | Arthritis Research UK
 
 **Privacy Policy**
 
-At Arthritis Research UK we are committed to protecting your privacy. This policy is made in the light of the requirements of the Data Protection Act 1998.
+At Arthritis Research UK we are committed to protecting your privacy. This policy is made in the light of the requirements of the Data Protection Act 1998.
 
-If you have any questions about the policy, please write to us at Arthritis Research UK, Copeman House, St Mary’s Court, St Mary’s Gate, Chesterfield S41 7TD or by email [digitalcommunity@arthritisresearchuk.org](mailto:digitalcommunity@arthritisresearchuk.org "Opens email to digitalcommunity@arthritisresearchuk.org").
+If you have any questions about the policy, please write to us at Arthritis Research UK, Copeman House, St Mary’s Court, St Mary’s Gate, Chesterfield S41 7TD or by email [digitalcommunity@arthritisresearchuk.org](mailto:digitalcommunity@arthritisresearchuk.org "Opens email to digitalcommunity@arthritisresearchuk.org").
 
 **How do we collect information?**
 
@@ -26,7 +26,7 @@ For instance, when you order literature, buy goods or donate, we may need to pas
 
 We will not share your personal information with third parties or used in any other way other than described in this policy, unless required by law.
 
-You can change your mind at any time by contacting Supporter Services at Arthritis Research UK, Copeman House, St Mary’s Court, St Mary’s Gate, Chesterfield S41 7TD or [digitalcommunity@arthritisresearchuk.org](mailto:digitalcommunity@arthritisresearchuk.org "Opens email to digitalcommunity@arthritisresearchuk.org").
+You can change your mind at any time by contacting Supporter Services at Arthritis Research UK, Copeman House, St Mary’s Court, St Mary’s Gate, Chesterfield S41 7TD or [digitalcommunity@arthritisresearchuk.org](mailto:digitalcommunity@arthritisresearchuk.org "Opens email to digitalcommunity@arthritisresearchuk.org").
 
 **Sensitive data**
 
@@ -40,7 +40,7 @@ We sometimes aggregate statistics about our supporters, donors and customers to 
 
 ‘Cookies’ are small pieces of information sent by a web server to a web browser, enabling the server to collect information from the browser. Typically this takes the form of a small text file deposited on your computer’s hard drive.
 
-Arthritis Research UK uses cookies to ensure that you can interact with our website successfully, to identify you when you visit our website and to keep track of your activity patterns. The use of cookies does not give us access to the rest of your computer.
+Arthritis Research UK uses cookies to ensure that you can interact with our website successfully, to identify you when you visit our website and to keep track of your activity patterns. The use of cookies does not give us access to the rest of your computer.
 
 If you want to prevent our cookies being stored on your computer in future, you may do so by referring to your internet browser’s instructions. You can do this by clicking on the “Help” menu. Please note however that if you disable our cookies you may not be able to access certain services or facilities on our website and your use of our site may be restricted.
 
@@ -54,11 +54,11 @@ Unfortunately, no data transmission over the Internet is 100% secure. While we m
 
 As indicated above, we may pass your information to our service providers, agents and associated organisations, providing these organisations have satisfied our criteria for information security and data protection. We may need to disclose your information if required to do so by law.
 
-**Accessing and updating your information held by Arthritis Research  UK**
+**Accessing and updating your information held by Arthritis Research UK**
 
-If your personal details change, please help us to keep your information up to date by notifying us at: Arthritis Research UK, Copeman House, St Mary’s Court, St Mary’s Gate, Chesterfield S41 7TD.
+If your personal details change, please help us to keep your information up to date by notifying us at: Arthritis Research UK, Copeman House, St Mary’s Court, St Mary’s Gate, Chesterfield S41 7TD.
 
-Arthritis Research UK will correct or remove information it holds about you which you tell us is inaccurate.
+Arthritis Research UK will correct or remove information it holds about you which you tell us is inaccurate.
 
 Under the Data Protection Act 1998 you have the right to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. Such requests need to be made in writing to the address above.
 
