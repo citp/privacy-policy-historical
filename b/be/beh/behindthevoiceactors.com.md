@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the behindthevoiceactors.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123545id_/http%3A//www.behindthevoiceactors.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behindthevoiceactors.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624080927id_/http%3A//www.behindthevoiceactors.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Behind The Voice Actors - Privacy Policy
 
@@ -24,16 +24,24 @@ Newest Comparisons
 
 Recently Updated Comparisons
 
-[ ](http://www.behindthevoiceactors.com/voice-compare/X-Men/Xavier/ "Xavier")1 compare added
+[ ](http://www.behindthevoiceactors.com/voice-compare/Spyro-the-Dragon/Spyro-the-Dragon/ "Spyro the Dragon")1 compare added
 
-[ ](http://www.behindthevoiceactors.com/voice-compare/Castlevania/Death/ "Death")2 compares added
+[ ](http://www.behindthevoiceactors.com/voice-compare/Spider-Man/Joe-Robbie-Robertson/ "Joe \(Robbie\) Robertson")1 compare added
 
-[ ](http://www.behindthevoiceactors.com/voice-compare/Sonic-The-Hedgehog/Sonic-the-Hedgehog/ "Sonic the Hedgehog")1 compare updated
+[ ](http://www.behindthevoiceactors.com/voice-compare/Flash/Flash-Jay-Garrick/ "Flash / Jay Garrick")1 compare added
 
-[ ](http://www.behindthevoiceactors.com/voice-compare/X-Men/Storm/ "Storm")1 compare added
+[ ](http://www.behindthevoiceactors.com/voice-compare/Green-Arrow/Black-Canary/ "Black Canary")1 compare added
 
-[ ](http://www.behindthevoiceactors.com/voice-compare/Batman/Batman/ "Batman")2 compares updated
+[ ](http://www.behindthevoiceactors.com/voice-compare/Green-Lantern/Carol-Ferris/ "Carol Ferris")1 compare added
 
-[ ](http://www.behindthevoiceactors.com/voice-compare/Batman/Deadshot/ "Deadshot")1 compare added
+[ ](http://www.behindthevoiceactors.com/voice-compare/Batman/Talia-Al-Ghul/ "Talia Al Ghul")5 compares added
+
+[ ](http://www.behindthevoiceactors.com/voice-compare/Marvel-Universe/Vision/ "Vision")1 compare added
+
+[ ](http://www.behindthevoiceactors.com/voice-compare/Fantastic-Four/Super-Skrull/ "Super Skrull")1 compare added
+
+[ ](http://www.behindthevoiceactors.com/voice-compare/Marvel-Universe/Falcon/ "Falcon")1 compare added
+
+[ ](http://www.behindthevoiceactors.com/voice-compare/Hulk/Glenn-Talbot/ "Glenn Talbot")1 compare added
 
 [CHECK OUT ALL VOICE COMPARES »](http://www.behindthevoiceactors.com/voice-compare/ "CHECK OUT ALL VOICE COMPARES")
