@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the ixquick.de privacy policy that was archived on 2011-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007155658id_/http%3A//www.ixquick.de/eng/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ixquick.de privacy policy that was archived on 2012-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120624225426id_/https%3A//ixquick.de/eng/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Privacy Policy</title>
 <meta name="Keywords" content="">
 <meta name="Description" content="">
+<script type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
     
 	<style type="text/css">
 	<!--
@@ -368,6 +369,158 @@ height:1px;
 	-->
 	</style>
     <script language="JAVASCRIPT">
+
+    // BrowserDetect is a class which determines Browser version,
+    // name and Operating System platform.
+    var BrowserDetect = {
+        init: function () {
+            this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+            this.version = this.searchVersion(navigator.userAgent)
+                            || this.searchVersion(navigator.appVersion)
+                            || "an unknown version";
+            this.OS = this.searchString(this.dataOS) || "an unknown OS";
+        },
+        // Search specific string from the given set of array.
+        searchString: function (data) {
+            for (var i=0;i<data.length;i++){
+                var dataString = data[i].string;
+                var dataProp = data[i].prop;
+                this.versionSearchString = data[i].versionSearch || data[i].identity;
+                if (dataString) {
+                    if (dataString.indexOf(data[i].subString) != -1)
+                        return data[i].identity;
+                }
+                else if (dataProp)
+                    return data[i].identity;
+            }
+        },
+        // Search specific version of browser.
+        searchVersion: function (dataString) {
+            var index = dataString.indexOf(this.versionSearchString);
+            if (index == -1) return;
+            return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+        },
+        // Array containing information of various browsers.
+        dataBrowser: [
+        {
+            string: navigator.vendor,
+            subString: "Camino",
+            identity: "Camino"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "Chrome",
+            identity: "Chrome"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "Epiphany",
+            identity: "Epiphany"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "SeaMonkey",
+            identity: "SeaMonkey",
+            versionSearch: "rv"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "OmniWeb",
+            versionSearch: "OmniWeb/",
+            identity: "OmniWeb"
+        },
+        {
+            string: navigator.vendor,
+            subString: "Apple",
+            identity: "Safari",
+            versionSearch: "Version"
+        },
+        {
+            prop: window.opera,
+            identity: "Opera"
+        },
+        {
+            string: navigator.vendor,
+            subString: "iCab",
+            identity: "iCab"
+        },
+        {
+            string: navigator.vendor,
+            subString: "KDE",
+            identity: "Konqueror"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "Firefox",
+            identity: "Firefox"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "Iceweasel",
+            identity: "Iceweasel", 
+			versionSearch: "Iceweasel"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "IceWeasel",
+            identity: "Iceweasel",
+            versionSearch: "IceWeasel"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "IceCat",
+            identity: "Icecat",
+            versionSearch: "IceCat"
+        },
+        {
+            // for newer Netscapes (6+)
+            string: navigator.userAgent,
+            subString: "Netscape",
+            identity: "Netscape"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "MSIE",
+            identity: "Explorer",
+            versionSearch: "MSIE"
+        },
+        {
+            string: navigator.userAgent,
+            subString: "Gecko",
+            identity: "Mozilla",
+            versionSearch: "rv"
+        },
+        {
+            // for older Netscapes (4-)
+            string: navigator.userAgent,
+            subString: "Mozilla",
+            identity: "Netscape",
+            versionSearch: "Mozilla"
+        }
+        ],
+    // Array containing information of various Operating system platforms.
+    dataOS : [
+        {
+            string: navigator.platform,
+            subString: "Win",
+            identity: "Windows"
+        },
+        {
+            string: navigator.platform,
+            subString: "Mac",
+            identity: "Mac"
+        },
+        {
+            string: navigator.platform,
+            subString: "Linux",
+            identity: "Linux"
+        }
+        ]
+    };
+    BrowserDetect.init();
+var MY_BROWSER = BrowserDetect.browser;
+var MY_BROWSER_VERSION = BrowserDetect.version;
+
 var page_language = 'english';
 
 function bookmarkUrl(title, url){
@@ -385,6 +538,97 @@ else if(document.all)// ie
     window.external.AddFavorite(url, title);
 }
 
+function getPreferenceParam(url) {
+    var concatParam = '';
+    if( (url.match(/(.*?)(&|\?)(prfh)(=)(.*?)($|&)/g)) || (url.match(/(.*?)(&|\?)(prf)(=)(.*?)($|&)/g)) ){ 
+        concatParam = RegExp.$3 + RegExp.$4 +RegExp.$5;
+        return concatParam;
+    }
+}
+
+function appendPreferenceParam (originalUrl, concatParam) { 
+    if ( originalUrl.match( /\(.*?\)\(\\?\)\(.*?\)\$/g ) ) {              
+        originalUrl = originalUrl+'\&'+concatParam;
+        jQuery(this).attr('href', originalUrl + '\&' + concatParam); 
+        return originalUrl;
+    }  else if( originalUrl.match( /(.*?)(\/)$/g ) ) {                     
+        originalUrl = originalUrl+'\?'+concatParam;
+        jQuery(this).attr('href', originalUrl + '\?' + concatParam); 
+        return originalUrl;
+    } else if(originalUrl.match( /(.*)(\/)(.*?)$/g )) {                  
+        originalUrl = originalUrl+'\?'+concatParam;   
+        jQuery(this).attr('href', originalUrl + '\?' + concatParam); 
+        return originalUrl;
+    }
+
+}
+
+function concatParamToAllUrls (referenceUrlId) {
+    /* Get current url */
+        currentUrl=referenceUrlId;	
+    var isParamPresentInFormField = false; /* flag to check if prf OR prfh param is present in form field */
+        var isParamPresentInUrl = false;  /* flag to check if prf OR prfh param is present in url */
+        var paramName = "";
+    var paramValue = "";
+    
+    /* Loop through each input type element and check if prf OR prfh is present or not. If yes mark flag as true */
+        jQuery(":input").each(function(i){
+            
+            if( (jQuery(this).attr("name") == "prfh") || (jQuery(this).attr("name") == "prf") ){
+                isParamPresentInFormField = true;
+                paramName  = jQuery(this).attr("name") + "=";
+                paramValue = jQuery(this).attr("value");
+            }
+            
+        });
+
+    /* Is prf OR prfh present in Url. If yes then set flag as true */
+        if( (currentUrl.match(/(.*?)(&|\?)(prfh)(=)(.*?)($|&)/g)) || (currentUrl.match(/(.*?)(&|\?)(prf)(=)(.*?)($|&)/g)) ){
+			isParamPresentInUrl = true;
+        }
+    
+    if( (isParamPresentInUrl) || (isParamPresentInFormField) ){
+        var concatThisParam = "";
+        
+        /* Prepare param to be concatenated */
+            if (isParamPresentInUrl) {
+                concatThisParam = RegExp.$3 + RegExp.$4 +RegExp.$5;
+            } else if(isParamPresentInFormField){
+                concatThisParam = paramName + paramValue ;
+                
+            }
+        
+        jQuery('.addsettings').each(function(index){ 
+            var originalUrl = jQuery(this).attr('href');
+
+            if ( originalUrl.match( /(.*?)(\?)(.*?)$/g ) ){
+                jQuery(this).attr('href', originalUrl + '&' + concatThisParam);
+            } else if( originalUrl.match( /(.*?)(\/)$/g ) ){
+                jQuery(this).attr('href', originalUrl + '?' + concatThisParam);
+            } else if(originalUrl.match( /(.*)(\/)(.*?)$/g ) ){
+                jQuery(this).attr('href', originalUrl + '?' + concatThisParam);
+            }
+            
+        });
+        
+    }
+}
+
+function apply_preference_param() {
+var concatThisParam = '';
+var originalUrl = window.location.href;
+var http_host = get_http_host();                                         
+if (http_host.indexOf('quick.') != -1) {                                 
+  originalUrl= http_host + '/eng/';           
+}                                                                        
+else {originalUrl ='/eng/';}
+var preference_param = getPreferenceParam(window.location.href);
+if(preference_param) {
+originalUrl = appendPreferenceParam(originalUrl, preference_param); 
+}
+window.location.href = originalUrl;
+}
+
 function show () {
     for (var i=0; i<show.arguments.length; i++) {
         document.getElementById(show.arguments[i]).style.display = '';
@@ -395,6 +639,33 @@ function hide () {
         document.getElementById(hide.arguments[i]).style.display = 'none';
     }
 }
+
+function show_plugin_install (obj_id, do_display) {
+	if ( (MY_BROWSER == 'Firefox') || (MY_BROWSER == 'Chrome') || (MY_BROWSER == 'SeaMonkey') ||
+		   ((MY_BROWSER == 'Explorer') && (MY_BROWSER_VERSION >= 7) && (MY_BROWSER_VERSION < 9))) {
+		
+			if (do_display == 1) {
+				show(obj_id);
+			}
+	}
+}
+
+	function add_plugin (plugin_url, favicon_url, brand, custom_text) {
+		plugin_url += '&browser=' + MY_BROWSER + '&version=' + MY_BROWSER_VERSION;
+
+		if ((MY_BROWSER == 'Explorer') && (MY_BROWSER_VERSION >= 7) && (MY_BROWSER_VERSION < 9)) {
+			window.external.AddSearchProvider(plugin_url);
+
+		} else if (MY_BROWSER == 'Firefox') {
+			window.sidebar.addSearchEngine(plugin_url+'&a=b.src', favicon_url, brand, custom_text);
+
+		} else if (MY_BROWSER == 'Chrome') {
+			window.external.AddSearchProvider(plugin_url);
+
+		} else if (MY_BROWSER == 'SeaMonkey') {
+			window.sidebar.addSearchEngine(plugin_url+'&a=b.src', favicon_url, brand, custom_text);
+		}
+	}
   
 function load_img (img_url) {
     if (document.images) {
@@ -641,6 +912,7 @@ function trim(str) {
 }
 
 function check_feedback() {
+
   var feedback_text = trim(document.feedback.box.value);
   var empty_string = /^\s*$/
 
@@ -701,8 +973,21 @@ function preloadImages() {
 }
 preloadImages();
 function highlight () {
-	var url = location.href;
+    var question_count = 28;
+    var url= location.href;
+  
+    for (var i = 1 ;i <= question_count ;i++)
+      {
+         var answer_id = "q"+i+"ab";                                                                                                                                                                           
+         if(document.getElementById(answer_id)) {                                                                                                                                                      
+             document.getElementById(answer_id).style.backgroundColor ="#FFFFFF";                                                                                                                             
+         } 
+         
+      }
 
+    if ( (url.indexOf("privacy") != -1) && ( document.getElementById("qgoogle_cookieab")) ) {
+        document.getElementById("qgoogle_cookieab").style.backgroundColor ="#FFFFFF";
+    }
 	var ie = (document.all)? true: false;
 	if (url.indexOf("#") != -1) {
 	var offset = url.indexOf("#");
@@ -711,10 +996,22 @@ function highlight () {
 		if (tagname == "lowestprice") {
 			tagname = "phone";
 		}
-		tagname += "ab";
-		if (document.getElementById(tagname)) {
-            document.getElementById(tagname).style.backgroundColor = '#EFF3FF';
+        if (tagname == "google_cookie") {
+            tagname = "q" + tagname;
         }
+		tagname += "ab";
+
+		if (document.getElementById(tagname)) {
+            document.getElementById(tagname).style.backgroundColor = "#EFF3FF";
+        }
+        //Added to color the question part as white on the privacy q-a page.
+        if (url.indexOf("protect-privacy") != -1) {
+            var question = url.substring(offset + 1) + "q";
+            if (document.getElementById(question)) {
+                document.getElementById(question).style.backgroundColor ="#FFFFFF";
+            }
+        }
+
 	} else {
 		for (var i=1; i < 10; i++) {
 			var fieldname = tagname + i;
@@ -726,9 +1023,11 @@ function highlight () {
 		}
 	}
 	}
+    setTimeout('highlight()',200);
 }
 
-var message_array = new Array('english', 'Note:\nIf your Ixquick settings are lost after re-starting your browser, your browser\'s  privacy preferences may need to be adjusted. Further information can be found on the FAQ.\n', 'svenska', 'Obs!\nOm dina inst&#228;llningar f&#246;r Ixquick &#228;r borta n&#228;r du startat om webbl&#228;saren kan du beh&#246;va justera webbl&#228;sarens sekretessinst&#228;llningar. Mer information finns i v&#229;ra vanliga fr&#229;gor och svar.\n', 'italiano', 'Nota bene:\nse le impostazioni di Ixquick vanno perse dopo avere riavviato il browser, potrebbe essere necessario modificare le preferenze della privacy del browser. Maggiori informazioni sono disponibili nelle FAQ.\n', 'dansk', 'Bem&#230;rk:\nHvis dine Ixquick-indstillinger g&#229;r tabt, efter at du har genstartet din browser, skal browserens indstillinger for beskyttelse af personlige oplysninger muligvis &#230;ndres. Du kan finde yderligere oplysninger under "Ofte stillede sp&#248;rgsm&#229;l". \n', 'espanol', 'Nota:\nSi no encuentra la configuraci&#243;n de Ixquick despu&#233;s de reiniciar el explorador, es posible que deban ajustarse las preferencias de privacidad del explorador. Puede encontrar m&#225;s informaci&#243;n en las Preguntas frecuentes. \n', 'suomi', 'Huomaa:\nJos Ixquickin asetuksiin tekem&#228;si muutokset h&#228;vi&#228;v&#228;t selaimesi uudelleen k&#228;ynnist&#228;misen yhteydess&#228;, voi olla tarpeen s&#228;&#228;t&#228;&#228; selaimesi tietosuoja-asetuksia. Lis&#228;tietoa l&#246;yd&#228;t Usein kysytyt kysymykset -osiosta.\n ', 'english_uk', 'Note:\nIf your Ixquick settings are lost after re-starting your browser, your browser\'s privacy preferences may need to be adjusted. Further information can be found on the FAQ.\n', 'polski', 'Uwaga:\nje&#380;eli ustawienia wyszukiwarki Ixquick zosta&#322;y utracone po jej ponownym uruchomieniu, prawdopodobnie nale&#380;y zmieni&#263; preferencje prywatno&#347;ci w przegl&#261;darce. Wi&#281;cej informacji na ten temat mo&#380;na znale&#378;&#263; w wykazie cz&#281;sto zadawanych pyta&#324;. \n', 'francais', 'Remarque&#160;:\nSi, au red&#233;marrage de votre navigateur, vous constatez que vos param&#232;tres Ixquick n&#146;ont pas &#233;t&#233; sauvegard&#233;s, v&#233;rifiez les options de votre navigateur portant sur la vie priv&#233;e. Consultez la rubrique FAQ pour en savoir plus.\n', 'turkce', 'Not:\nTaray&#305;c&#305;n&#305;z&#305; yeniden ba&#351;latt&#305;ktan sonra Ixquick ayarlar&#305;n&#305;z kaybolduysa, taray&#305;c&#305;n&#305;z&#305;n gizlilik tercihlerinin ayarlanmas&#305; gerekiyor olabilir. Daha fazla bilgi edinmek i&#231;in SSS b&#246;l&#252;m&#252;ne bak&#305;n.\n', 'norsk', 'Note:\nHvis du har mistet innstillingene for Ixquick etter at du starter nettleseren p&#229; nytt, er det mulig at dine personvernpreferanser m&#229; stilles inn igjen. Du kan finne flere opplysninger p&#229; siden \'La oss f&#229; vite om det\' under FAQ.\n', 'deutsch', 'Hinweis:\nFalls Ihre Ixquick-Einstellungen nach dem Neustart Ihres Browsers verloren gehen, m&#252;ssen Sie gegebenenfalls die Datenschutzeinstellungen Ihres Browsers anpassen. Weitere Informationen dazu finden Sie unter den h&#228;ufig gestellten Fragen. \n', 'portugues', 'Nota:\nCaso suas configura&#231;&#245;es do Ixquick sejam perdidas ap&#243;s a reinicializa&#231;&#227;o do navegador, talvez seja necess&#225;rio ajustar as prefer&#234;ncias de privacidade do navegador. Mais informa&#231;&#245;es podem ser encontradas nas Perguntas frequentes.\n', 'hangul', 'Note:\nIf your Ixquick settings are lost after re-starting your browser, your browser\'s  privacy preferences may need to be adjusted. Further information can be found on the \'Let Us Know\' page under the FAQ.\n', 'jiantizhongwen', 'Note:\nIf your Ixquick settings are lost after re-starting your browser, your browser\'s  privacy preferences may need to be adjusted. Further information can be found on the \'Let Us Know\' page under the FAQ.\n', 'nihongo', 'Note:\nIf your Ixquick settings are lost after re-starting your browser, your browser\'s  privacy preferences may need to be adjusted. Further information can be found on the \'Let Us Know\' page under the FAQ.\n', 'fantizhengwen', 'Note:\nIf your Ixquick settings are lost after re-starting your browser, your browser\'s  privacy preferences may need to be adjusted. Further information can be found on the \'Let Us Know\' page under the FAQ.\n', 'nederlands', 'Noot:\nAls uw Ixquick instellingen verloren gaan na het herstarten van uw browser, ligt dat waarschijnlijk aan de privacy instellingen van uw browser. Meer informatie vindt u op de "Laat het ons weten" pagina onder "veelgestelde vragen".\n');
+
+var message_array = new Array('english', 'Note:\nIf your Ixquick settings are lost after re-starting your browser, your browser\'s  privacy preferences may need to be adjusted.\nFurther information can be found on the FAQ.\n', 'svenska', 'Obs!\nOm dina inst&#228;llningar f&#246;r Ixquick &#228;r borta n&#228;r du startat om webbl&#228;saren kan du beh&#246;va justera webbl&#228;sarens sekretessinst&#228;llningar.\nMer information finns i v&#229;ra vanliga fr&#229;gor och svar.\n', 'italiano', 'Nota bene:\nse le impostazioni di Ixquick vanno perse dopo avere riavviato il browser, potrebbe essere necessario modificare le preferenze della privacy del browser.\nMaggiori informazioni sono disponibili nelle FAQ.\n', 'dansk', 'Bem&#230;rk:\nHvis dine Ixquick-indstillinger g&#229;r tabt, efter at du har genstartet din browser, skal browserens indstillinger for beskyttelse af personlige oplysninger muligvis &#230;ndres.\nDu kan finde yderligere oplysninger under "Ofte stillede sp&#248;rgsm&#229;l". \n', 'espanol', 'Nota:\nSi no encuentra la configuraci&#243;n de Ixquick despu&#233;s de reiniciar el explorador, es posible que deban ajustarse las preferencias de privacidad del explorador.\nPuede encontrar m&#225;s informaci&#243;n en las Preguntas frecuentes. \n', 'suomi', 'Huomaa:\nJos Ixquickin asetuksiin tekem&#228;si muutokset h&#228;vi&#228;v&#228;t selaimesi uudelleen k&#228;ynnist&#228;misen yhteydess&#228;, voi olla tarpeen s&#228;&#228;t&#228;&#228; selaimesi tietosuoja-asetuksia.\nLis&#228;tietoa l&#246;yd&#228;t Usein kysytyt kysymykset -osiosta.\n', 'english_uk', 'Note:\nIf your Ixquick settings are lost after re-starting your browser, your browser\'s privacy preferences may need to be adjusted.\nFurther information can be found on the FAQ.\n', 'polski', 'Uwaga:\nje&#380;eli ustawienia wyszukiwarki Ixquick zosta&#322;y utracone po jej ponownym uruchomieniu, prawdopodobnie nale&#380;y zmieni&#263; preferencje prywatno&#347;ci w przegl&#261;darce.\nWi&#281;cej informacji na ten temat mo&#380;na znale&#378;&#263; w wykazie cz&#281;sto zadawanych pyta&#324;. \n', 'francais', 'Remarque&#160;:\nSi, au red&#233;marrage de votre navigateur, vous constatez que vos param&#232;tres Ixquick n&#146;ont pas &#233;t&#233; sauvegard&#233;s, v&#233;rifiez les options de votre navigateur portant sur la vie priv&#233;e.\nConsultez la rubrique FAQ pour en savoir plus.\n', 'turkce', 'Not:\nTaray&#305;c&#305;n&#305;z&#305; yeniden ba&#351;latt&#305;ktan sonra Ixquick ayarlar&#305;n&#305;z kaybolduysa, taray&#305;c&#305;n&#305;z&#305;n gizlilik tercihlerinin ayarlanmas&#305; gerekiyor olabilir.\nDaha fazla bilgi edinmek i&#231;in SSS b&#246;l&#252;m&#252;ne bak&#305;n.\n', 'norsk', 'Note:\nHvis du har mistet innstillingene for Ixquick etter at du starter nettleseren p&#229; nytt, er det mulig at dine personvernpreferanser m&#229; stilles inn igjen.\nDu kan finne flere opplysninger p&#229; siden \'La oss f&#229; vite om det\' under FAQ.\n', 'deutsch', 'Hinweis:\nFalls Ihre Ixquick-Einstellungen nach dem Neustart Ihres Browsers verloren gehen, m&#252;ssen Sie gegebenenfalls die Datenschutzeinstellungen Ihres Browsers anpassen.\nWeitere Informationen dazu finden Sie unter den h&#228;ufig gestellten Fragen. \n', 'portugues', 'Nota:\nCaso suas configura&#231;&#245;es do Ixquick sejam perdidas ap&#243;s a reinicializa&#231;&#227;o do navegador, talvez seja necess&#225;rio ajustar as prefer&#234;ncias de privacidade do navegador.\nMais informa&#231;&#245;es podem ser encontradas nas Perguntas frequentes.\n', 'hangul', 'Note:\nIf your Ixquick settings are lost after re-starting your browser, your browser\'s  privacy preferences may need to be adjusted. Further information can be found on the \'Let Us Know\' page under the FAQ.\n', 'jiantizhongwen', 'Note:\nIf your Ixquick settings are lost after re-starting your browser, your browser\'s  privacy preferences may need to be adjusted. Further information can be found on the \'Let Us Know\' page under the FAQ.\n', 'nihongo', 'Note:\nIf your Ixquick settings are lost after re-starting your browser, your browser\'s  privacy preferences may need to be adjusted. Further information can be found on the \'Let Us Know\' page under the FAQ.\n', 'fantizhengwen', 'Note:\nIf your Ixquick settings are lost after re-starting your browser, your browser\'s  privacy preferences may need to be adjusted. Further information can be found on the \'Let Us Know\' page under the FAQ.\n', 'nederlands', 'Noot:\nAls uw Ixquick instellingen verloren gaan na het herstarten van uw browser, ligt dat waarschijnlijk aan de privacy instellingen van uw browser.\nMeer informatie vindt u op de "Laat het ons weten" pagina onder "veelgestelde vragen".\n');
 
 var cookies_disabled_array = new Array('english', 'It appears that Cookies are either not supported by your browser or are disabled. In order to save your settings, you will need to enable Cookies in your browser.', 'svenska', 'Det verkar som att kakor antingen inte st&#246;ds av din internetl&#228;sare eller inte till&#229;ts. F&#246;r att kunna spara dina inst&#228;llningar beh&#246;ver din internetl&#228;sare st&#246;dja och till&#229;ta kakor.', 'italiano', 'I cookie non sono supportati dal browser oppure sono disabilitati. Per salvare le impostazioni, occorre abilitare cookie nel browser.', 'dansk', 'Det ser ud til at Cokies enten ikke supporteres af din internet browser eller er sl&#229;et fra. For at kunne gemme din ops&#230;tning skal du aktivere Cookies in din internet brower.', 'espanol', 'Aparece que su navegador no apoya Cookies. Para guardar su configuraci&#243;n en Ixquick, hay que activar Cookies en su navegador.', 'suomi', 'N&#228;ytt&#228;&#228; silt&#228;, ett&#228; selaimesi ei joko tue ev&#228;steit&#228;, tai ne on estetty. Tallentaaksesi asetuksesi, sinun tulee sallia', 'english_uk', 'It appears that Cookies are either not supported by your browser or are disabled. In order to save your settings, you will need to enable Cookies in your browser.', 'polski', 'Prawdopodobnie przegl&#261;darka nie obs&#322;uguje plik&#243;w cookie lub ich obs&#322;uga jest wy&#322;&#261;czona. Aby zachowa&#263; ustawienia, nale&#380;y w&#322;&#261;czy&#263; obs&#322;ug&#281; plik&#243;w cookie w przegl&#261;darce.', 'francais', 'Il appara&#238;t que les Cookies sont d&#233;sactiv&#233;s ou incompatibles avec votre navigateur. Afin de conserver vos param&#232;tres, il est n&#233;cessaire d&#146;activer les Cookies de votre navigateur.', 'turkce', 'Muhtemelen internet taray&#305;c&#305;n&#305;z cookie kabul etmemekte veya cookie ayarlar&#305;n&#305;z etkin konumda de&#287;il. Ki&#351;isel ayarlar&#305;n&#305;z&#305;n kay&#305;t edilebilmesi i&#231;in cookie ayarlar&#305;n&#305; etkin konumunda olmas&#305; gerekmektedir.', 'norsk', 'Din web browser ser ikke ut til &#229; st&#248;tte Cookies eller s&#229; er denne funksjonen avsl&#229;tt. For &#229; lagre dine innstillinger m&#229; du tillate Cookies i din web browser.', 'deutsch', 'Allem Anschein nach, werden Cookies von Ihrem Browser nicht unterst&#252;tzt oder sind in Ihrem Browser deaktiviert. Um eine Speicherung Ihrer Einstellungen zu erm&#246;glichen, ist es notwendig die Annahme von Cookies durch Ihren Browser zu aktivieren.', 'portugues', 'Parece que o seu explorador n&#227;o suporta os Cookies (bloco de dados) ou que estes est&#227;o desactivados. Para guardar as suas defini&#231;&#245;es ter&#225; de activar os Cookies (o seu bloco de dados) no seu explorador.', 'nederlands', 'Het blijkt dat Cookies niet worden ondersteund door uw browser of dat de functie "accepteer Cookies" is uitgezet. Om de instellingen te bewaren dient u de functie "Accepteer Cookies" in uw browser aan te zetten.');
 
@@ -861,7 +1160,7 @@ function showMessage () {
         if (message_array[i] == language_selected) {
             var text = document.createElement('span');
             text.innerHTML = message_array[i+1];
-            alert(text.innerHTML);
+            //alert(text.innerHTML);
             break;
         }
     }
@@ -886,6 +1185,25 @@ function tellafriend_form_submit () {
 	return true;
 }
 
+function show_hide_browser_info_checkbox() {
+    if ( (document.getElementById('senderemail')) && (document.getElementById('senderemail').value.replace(/^\s+|\s+$/g,'').length > 0 )) {
+        if (document.getElementById('hidden_clientinfo')) {
+            document.getElementById('hidden_clientinfo').style.display='block';
+            if ((document.getElementById('clientinfo')) && (document.getElementById('clientinfo').value == 0) ){
+                document.getElementById('clientinfo').checked = true;
+                document.getElementById('clientinfo').value = 1;
+            }
+        }
+        
+    } else {
+        if (document.getElementById('hidden_clientinfo')) {
+            document.getElementById('hidden_clientinfo').style.display='none';
+            }
+    }
+    setTimeout('show_hide_browser_info_checkbox()',500);
+}
+setTimeout('show_hide_browser_info_checkbox()',500);
+
 function certifiedsecure(langID) {
     day = new Date();
     id = day.getTime(); 
@@ -897,7 +1215,7 @@ function certifiedsecure(langID) {
 	var certificateURL = ( (urls[langID]) ? urls[langID] : url );
     eval("page" + id + " = window.open(certificateURL, '" + id + "', 'toolbar=0,location=0,statusbar=0,scrollbars=1,menubar=0,resizable=0,width=580,height=515');");
 }
-
+$(document).ready(function(){ concatParamToAllUrls(window.location.href); });
 function makeHomePage (obj, page_url) {
     load_img('/do/adviewtrack.pl?a=10&g=357&l=english');
     var ua = navigator.userAgent;
@@ -919,14 +1237,14 @@ function makeHomePage (obj, page_url) {
          var nWin = window.open('', 'newname' , 'directories=no,location=no,scrollbars=yes,status=no,toolbar=no,menubar=no,height=120,width=650');
          nWin.document.open();
          var out_str = '<html><head><title></title></head>';
-         out_str += '<body bgcolor="#BCD3F5"><br><font face="Verdana" size="2" color="#140B74">';
+         out_str += '<' + 'body bgcolor="#BCD3F5"><br><font face="Verdana" size="2" color="#140B74">';
          if ((agentname.toLowerCase().indexOf('netscape') != -1) || (agentname.toLowerCase().indexOf('navigator') != -1)) {
          out_str += 'Sorry, the home page for this browser cannot be configured automatically. But you can almost certainly configure it manually. If you do that, then the URL to put in at the home page setting is <!--HOME-->/eng/<!--/HOME--></font><br></body></html>';
          }
      else if (agentname.toLowerCase().indexOf('firefox') != -1) {
          nWin.resizeTo(650,300);
          out_str += 'To set your homepage in Firefox, follow these steps:';
-         out_str += '<ol><li>Start by double-clicking the Mozilla Firefox icon on your desktop.</li>';
+         out_str += '<ol>';
          if (BrowserDetect.OS.indexOf('Linux') != -1) {
             out_str += '<li>Click on the Edit Menu.</li>';
             out_str += '<li>Select Preferences.</li>';
@@ -946,21 +1264,81 @@ function makeHomePage (obj, page_url) {
      else if (agentname.toLowerCase().indexOf('chrome') != -1) {
          nWin.resizeTo(650,300);
          out_str += 'To set your homepage in Chrome, follow these steps:';
+         // checking for mac OS 
          if (BrowserDetect.OS.indexOf('Mac') != -1) {
-         out_str += '<ol><li>Go to the Chrome Preferences.</li>';
-         } else {
-         out_str += '<ol><li>Click the wrench menu icon, located in the top right corner of the browser.</li>';
-         out_str += '<li>Select "Options".</li>';
-         }
-         out_str += '<li>Click the "Basics" tab.</li>';
+         // if version is beetween 3 and 18 
+         if(BrowserDetect.version >= 3 && BrowserDetect.version <= 18) {
+         out_str += '<ol><li>Click the wrench icon</li>';
+         out_str += '<li>Go to Preferences -> Basics.</li>';
          out_str += '<li>Select the option "Open this page" in the "Home page" section.</li>';
-         out_str += '<li>Enter <!--HOME-->/eng/<!--/HOME--> in the home page box.</li>';
+         out_str += '<li>Enter <!--HOME-->/eng/<!--/HOME--> in the "Open this page" text box.</li>';
          out_str += '<li>To see your home page every time you start up Google Chrome, select "Open the home page" in the "On startup" section.</li>';
-         if (BrowserDetect.OS.indexOf('Mac') != -1) {
-         out_str += '<li>Close window.</li>';
+         if( BrowserDetect.version <= 9) {
+         out_str += '<li>Close Preferences.</li>';
          } else {
-         out_str += '<li>Click "Close".</li>';
+         out_str += '<li>Close Preferences tab.</li>';
          }
+ }
+ else {
+         // for version greater than or equal to 19 
+         if(BrowserDetect.version >= 19) {
+         out_str += '<ol><li>Go to the Wrench icon -> Settings.</li>';
+         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+         out_str += '<li>Enter <!--HOME-->/eng/<!--/HOME--> in the "Add a new page" text field.</li>';
+         out_str += '<li>Click OK.</li>';
+         } 
+ } 
+ } else {
+         //  check for windows OS 
+         if (BrowserDetect.OS.indexOf('Window') != -1) {
+         // for version beetween 3 and 18 
+         if(BrowserDetect.version >= 3 && BrowserDetect.version <= 18) {
+         out_str += '<ol><li>Click the wrench icon</li>';
+         out_str += '<li>Go to Options -> Basics</li>';
+         out_str += '<li>Select the option "Open this page" in the "Home page" section.</li>';
+         out_str += '<li>Enter <!--HOME-->/eng/<!--/HOME--> in the "Open this page" text box.</li>';
+         out_str += '<li>To see your home page every time you start up Google Chrome, select "Open the home page" in the "On startup" section.</li>';
+         if( BrowserDetect.version <= 9) {
+         out_str += '<li>Click "Close".</li>';
+         } else {
+         out_str += '<li>Close this settings tab.</li>';
+         }
+ } else {
+         // for version greater than 18 
+         if(BrowserDetect.version >= 19) {
+         out_str += '<ol><li>Go to the Wrench icon -> Settings.</li>';
+         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+         out_str += '<li>Enter <!--HOME-->/eng/<!--/HOME--> in the "Add a new page" text field.</li>';
+         out_str += '<li>Click OK.</li>';
+         } 
+ }
+ } else {
+          // checking for Linux OS 
+         if(BrowserDetect.version >= 3 && BrowserDetect.version <= 18) {
+         out_str += '<ol><li>Click the wrench icon</li>';
+         if(BrowserDetect.version  <= 9) {
+         out_str += '<li>Go to Settings -> Basics.</li>';
+         } else {
+         out_str += '<li>Go to Preferences -> Basics.</li>';
+         }
+          out_str += '<li>Select the option "Open this page" in the "Home page" section.</li>';
+         out_str += '<li>Enter <!--HOME-->/eng/<!--/HOME--> in the "Open this page" text box.</li>';
+         out_str += '<li>To see your home page every time you start up Google Chrome, select "Open the home page" in the "On startup" section.</li>';
+         if( BrowserDetect.version <= 9) {
+         out_str += '<li>Click "Close".</li>';
+         } else {
+         out_str += '<li>Close Preferences tab.</li>';
+         } 
+ } else {
+         if(BrowserDetect.version >= 19) {
+         out_str += '<ol><li>Go to the Wrench icon -> Settings.</li>';
+         out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+         out_str += '<li>Enter <!--HOME-->/eng/<!--/HOME--> in the "Add a new page" text field.</li>';
+         out_str += '<li>Click OK.</li>';
+         } 
+ }
+ } 
+ }
          out_str += '</ol></font><br></body></html>';
      }
          else if ((agentname.toLowerCase().indexOf('seamonkey') != -1) && (BrowserDetect.OS.indexOf('Mac') != -1)) {
@@ -992,84 +1370,90 @@ function makeHomePage (obj, page_url) {
 <body onload="highlight();">
 <table class="toptable" cellpadding="0" cellspacing="0" id="toptablex" background="/graphics/top_border.gif" style="background-repeat:repeat-x">
 <tbody><tr>
-    <td class="tdmenu" valign="top" rowspan="2"><a href="/eng/" border="0"><img src="/graphics/eng/ixquick.gif" width="260" height="134" border="0" alt="Ixquick.com"></a> 
+    <td class="tdmenu" valign="top" rowspan="2"><a href="/eng/" border="0" class="addsettings"><img src="/graphics/eng/ixquick.gif" width="260" height="134" border="0" alt="Ixquick.com"></a> 
 
      <div class="menucell2"><br><br></div>
 
-   <div class="menucell2"><a href="/eng/protect-privacy.html" class="menulink">PRIVACY</a></div>
+   <div class="menucell2"><a href="/eng/protect-privacy.html" class="menulink addsettings">PRIVACY</a></div>
 <!-- <div class="menucell2"><span class="menulink">PRIVACY</span></div> -->
 	<!-- privacy tag -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/protect-privacy.html" class="newsubsublink">Ixquick Protects Your Privacy!</a></td></tr></tbody></table>
-	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/protect-privacy-qa.html" class="newsubsublink">Privacy Q &amp; A</a></td></tr></tbody></table>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/protect-privacy.html" class="newsubsublink addsettings">Ixquick Protects Your Privacy!</a></td></tr></tbody></table>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/protect-privacy-qa.html" class="newsubsublink addsettings">Privacy Q &amp; A</a></td></tr></tbody></table>
 	<!-- privacy tag -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/star.jpg" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/privacy-policy.html" class="newsubsublink">Privacy Policy</a></td></tr></tbody></table>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/star.jpg" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/privacy-policy.html" class="newsubsublink addsettings">Privacy Policy</a></td></tr></tbody></table>
     <div class="menucell2"><br></div>
 
 
 
-    <div class="menucell2"><a href="/eng/what-makes-ixquick-special.html" class="menulink">ABOUT IXQUICK SEARCH ENGINE</a></div>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/what-makes-ixquick-special.html" class="newsubsublink">What Makes Ixquick Special</a></td></tr></tbody></table>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/power-search-techniques.html" class="newsubsublink">Advanced Search Tips</a></td></tr></tbody></table>
+    <div class="menucell2"><a href="/eng/what-makes-ixquick-special.html" class="menulink addsettings">ABOUT IXQUICK SEARCH ENGINE</a></div>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/what-makes-ixquick-special.html" class="newsubsublink addsettings">What Makes Ixquick Special</a></td></tr></tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/power-search-techniques.html" class="newsubsublink addsettings">Advanced Search Tips</a></td></tr></tbody></table>
     <div><br></div>
 
 
 
-    <div class="menucell2"><a href="/eng/download-ixquick-plugin.html" class="menulink">GET MORE IXQUICK</a></div>
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/download-ixquick-plugin.html" class="newsubsublink">Add Ixquick to your Browser</a></td></tr></tbody></table>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/download-ixquick-toolbar.html" class="newsubsublink">Download the Ixquick Toolbar</a></td></tr></tbody></table>
-         <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/make-ixquick-your-homepage.html" class="newsubsublink">Make Ixquick Your Homepage</a></td></tr></tbody></table>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/link-instructions.html" class="newsubsublink">A Search Box on Your Website</a></td></tr></tbody></table>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/tell-a-friend.html" class="newsubsublink">Tell a Friend About Ixquick</a></td></tr></tbody></table>
+    <div class="menucell2"><a href="/eng/download-ixquick-plugin.html" class="menulink addsettings">GET MORE IXQUICK</a></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/download-ixquick-plugin.html" class="newsubsublink addsettings">Add Ixquick to your Browser</a></td></tr></tbody></table>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/download-ixquick-toolbar.html" class="newsubsublink addsettings">Download the Ixquick Toolbar</a></td></tr></tbody></table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/make-ixquick-your-homepage.html" class="newsubsublink addsettings">Make Ixquick Your Homepage</a></td></tr></tbody></table>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/link-instructions.html" class="newsubsublink addsettings">A Search Box on Your Website</a></td></tr></tbody></table>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/tell-a-friend.html" class="newsubsublink addsettings">Tell a Friend About Ixquick</a></td></tr></tbody></table>
     <div><br></div>
 
       <div class="menu"> <img src="/graphics/spacer.gif" width="216" height="1">
-    <div class="menucell2"><a href="/do/preferences.pl?language_ui=english" class="menulink">MY SETTINGS</a></div>
+    <div class="menucell2"><a href="/do/preferences.pl?language_ui=english" class="menulink addsettings">SETTINGS</a></div>
     </div>
     <div><br></div>
 
 
-   <div class="menucell2"><a href="/eng/company-background.html" class="menulink">COMPANY INFO</a></div>
-         <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/company-background.html" class="newsubsublink">Company Background</a></td></tr></tbody></table>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/company-management-bio.html" class="newsubsublink">Management Bios</a></td></tr></tbody></table>
+   <div class="menucell2"><a href="/eng/company-background.html" class="menulink addsettings">COMPANY INFO</a></div>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/company-background.html" class="newsubsublink addsettings">Company Background</a></td></tr></tbody></table>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/company-management-bio.html" class="newsubsublink addsettings">Management Bios</a></td></tr></tbody></table>
     <div><br></div> 
 
 <!--
     <div class="menucell2"><a href="/eng/what-makes-ixquick-special.html" onclick="javascript: window.open('/spotlight');" class="menulink">FAQ</a></br></br></div>
     <div><br /></div>
 -->
-    <div class="menucell2"><a href="/eng/company-faq.html" class="menulink">FAQ</a><br><br></div>
+    <div class="menucell2"><a href="/eng/company-faq.html" class="menulink addsettings">FAQ</a><br><br></div>
     <!--div><br /></div-->
-    <div class="menucell2"><a href="/eng/feedback.html#contact" class="menulink">CONTACT US</a></div>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/feedback.html" class="newsubsublink">Let Us Know </a></td></tr></tbody></table>
-		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/feedback.html#contact" class="newsubsublink">Contact Info</a></td></tr></tbody></table>
-	 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/do/ipd_optout.pl?lui=english" class="newsubsublink">IPD opt-out</a></td></tr></tbody></table>
+    <div class="menucell2"><a href="/eng/feedback.html#contact" class="menulink addsettings">CONTACT US</a></div>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/feedback.html" class="newsubsublink addsettings">Let Us Know </a></td></tr></tbody></table>
+		 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/eng/feedback.html#contact" class="newsubsublink addsettings">Contact Info</a></td></tr></tbody></table>
+	 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/do/ipd_optout.pl?lui=english" class="newsubsublink addsettings">IPD opt-out</a></td></tr></tbody></table>
 	<div><br></div>
 <!-- <div class="menucell2"><br /></div><div class="menucell2"><br /></div>
-    <div class="menucell2"><a href="/eng/" class="menulink">HOME</a></div><div class="menucell2"><br /></div> -->
-	<div class="menucell2"><a href="/press/" class="menulink">IXQUICK PRESS CENTER</a></div>
+    <div class="menucell2"><a href="/eng/" class="menulink">HOME</a></div><div class="menucell2 addsettings"><br /></div> -->
+	<div class="menucell2"><a href="/press/" class="menulink addsettings">IXQUICK PRESS CENTER</a></div>
 	<div class="menucell2"><br></div>
     <div class="menucell2"><br></div>
 	<div class="menucell2"><br></div>
     <div class="menucell2"><br></div>
-    <div class="menucell"><table cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/graphics/spacer.gif" width="15" height="9"></td><td><table border="0" cellspacing="0" cellpadding="0" width="130"><tbody><tr><td class="button" onmouseover="this.className='button_on';" onmouseout="this.className='button';" onclick="this.className='button_click'; var http_host = get_http_host(); if (http_host.indexOf('quick.') != -1) {window.location.href= http_host + '/eng/'; } else {window.location.href='/eng/';}"> Home </td></tr></tbody></table></td></tr></tbody></table></div><div class="menucell2"><br></div>
+    <div class="menucell"><table cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/graphics/spacer.gif" width="15" height="9"></td><td><table border="0" cellspacing="0" cellpadding="0" width="130"><tbody><tr><td class="button" onmouseover="this.className='button_on';" onmouseout="this.className='button';" onclick="this.className='button_click'; apply_preference_param();
+                                                                                                                       
+"> Home </td></tr></tbody></table></td></tr></tbody></table></div><div class="menucell2"><br></div>
 </td>
 <td class="tdtopcurve" valign="top" align="right" colspan="2" height="18"><img src="/graphics/right_top.gif" width="43" height="19"></td>
   </tr>
   <tr>
 <td class="tdcontent" valign="top" id="td_content" name="td_content">
-<div style="float:right;margin:60px 15px 0 0;">Latest revision: February 2010</div><div style="background:none;padding-bottom:5px;" class="title">PRIVACY</div>
+<div style="float:right;margin:60px 15px 0 0;">Latest revision: May 2012</div><div style="background:none;padding-bottom:5px;" class="title">PRIVACY</div>
 <div class="separator"><hr></div>
 <div class="subtitle" id="subTitle">Privacy Policy</div><div id="min-width"></div>
-<div class="content" style="padding-right: 30px;"><!--BODYCONTENT--><p>Ixquick.com ("Ixquick") is strongly committed to protecting the privacy of its user community.<br><br>This privacy policy details the information Ixquick may gather from the individuals who visit us, how that information is used, and our disclosure policy.</p> 
+<div class="content" style="padding-right: 30px;"><!--BODYCONTENT--><br style="line-height: 10px;"><span>In short:</span>
+<h3 style="margin-top: 0;"> Ixquick does NOT collect or share ANY personal information!  </h3>
+<p> The longer version: <br>
+Ixquick is strongly committed to protecting the privacy of its user community.<br><br>This privacy policy details the - very limited - information Ixquick.com ("Ixquick") may gather and our disclosure policy. </p>
+
 <h3>IP Addresses</h3>
-<p>The IP address that is associated with your search will NOT be recorded.<br> The only exception is for “abusive” (automated) queriers that rapidly submit many queries to Ixquick in a very short time.</p>
+<p>The IP address that is associated with your search will NOT be recorded.<br>(The only exception is for “abusive” (automated) queriers that rapidly submit many queries to Ixquick in a very short time.)</p>
 <h3>Data Collection</h3>
-<p>Ixquick collects limited information each time you visit our site, so we can improve the overall quality of your online experience. We only collect browser and platform type and register the date and time you visited the Ixquick.com site. Like most standard Web site servers, we use log files to collect and store this anonymous user information.</p>
+<p id="qdataab"><i>We don't collect any personal information on our visitors. Nada. Zilch. Zero.</i><br><br>When you use Ixquick, we do not record your IP address, we do not record which browser you are using (Internet Explorer, Safari, Firefox, etc.), we do not record your computer platform (Windows, Mac, Linux, etc.), and we do not record your search words or phrases. In fact, the only information we do record is an aggregate total of how many searches are performed on our website each day (a measure of overall traffic), and those overall traffic numbers broken down by language.<br><br>Our zero data collection policy protects your privacy, since your IP address, browser, and platform information can be combined with other data to <a href="https://panopticlick.eff.org" target="_blank">uniquely identify</a> your computer, your location, or you. It is also important not to record search terms, since they can convey personal information as well. (Think of someone entering their own name and/or social security number.)</p>
 <h3>Cookies</h3>
-<p>Cookies are small pieces of data that are sent and saved to your computer's hard drive when visiting sites.</p>
-<p>Ixquick uses only one anonymous cookie called "preferences". This cookie is to remember the search preferences you saved for your next visit. It expires after 90 days.</p>
-<p>You can choose to accept or refuse cookies by changing the settings of your browser. It should be noted, however, that your Ixquick.com preferences will not work properly if your cookies are turned off. It is possible to accept cookies from selected sites only.</p>
-<p>You can periodically delete cookies from your computer's hard drive, clearing out all historical data that may have been saved from your previous web surfing. If you delete cookies, you will not be recognized as a repeat visitor or viewer when returning to a site.</p><p>To promote a cookie-free internet, Ixquick has recently launched a <a href="/eng/urlgenerator-details.html" target="_blank" onclick="window.open('/eng/urlgenerator-details.html','','directories=no,location=no,scrollbars=yes,status=no,toolbar=no,menubar=no,height=500,width=1003'); return false;">URL generator</a> which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the <a href="/do/preferences.pl?language_ui=english" target="_blank">MY SETTINGS</a> page.</p><h3>External Links</h3>
+<p>Cookies are small pieces of data that are sent and saved to your computer's hard drive when visiting sites.<br>
+Ixquick uses only one anonymous cookie called "preferences". This cookie is to remember the search preferences you saved for your next visit. It expires after 90 days.<br>
+You can choose to accept or refuse cookies by changing the settings of your browser. It should be noted, however, that your Ixquick.com preferences will not work properly if your cookies are turned off. It is possible to accept cookies from selected sites only.<br>
+You can periodically delete cookies from your computer's hard drive, clearing out all historical data that may have been saved from your previous web surfing. If you delete cookies, you will not be recognized as a repeat visitor or viewer when returning to a site.<br>To promote a cookie-free internet, Ixquick has recently launched a <a href="/eng/urlgenerator-details.html" target="_blank" onclick="window.open('/eng/urlgenerator-details.html','','directories=no,location=no,scrollbars=yes,status=no,toolbar=no,menubar=no,height=500,width=1003'); return false;">URL generator</a> which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the <a href="/do/preferences.pl?language_ui=english" target="_blank">SETTINGS</a> page.<br></p><h3>External Links</h3>
 <p>As a search engine, and as an advertising publisher, you will find various links on our site, including but not limited to search results and sponsored results. These sites are owned and maintained by independent companies, over which Ixquick has no control, and who are not covered by this privacy policy. Ixquick is not liable or responsible for the content of these sites, or their collection of information and its use. Please note that this privacy policy applies only to the Ixquick.com website.</p>
 <h3>Email addresses</h3>
 <p>When you send comments, questions, suggestions, or feedback to Ixquick via email, and include an email address and/or contact information Ixquick may use this information to respond to you. Ixquick will not sell or disclose your contact information to any third parties. We may, however, very occasionally send emails to our users regarding Ixquick company information. This service is opt-in and includes the option to unsubscribe.</p>
@@ -1092,7 +1476,7 @@ function makeHomePage (obj, page_url) {
 <!-- Copyright Notice -->
 <div align="center" style="font-size:10px;color:#3777E3;">
 <br>
-© 2011 Ixquick
+© 2012 Ixquick
 </div>
 <script language="javascript" type="text/javascript" src="/js/tooltip.js"></script>
 <!--<script language="javascript" type="text/javascript" src="/js/wz_tooltip.js"></script>-->
@@ -1101,153 +1485,6 @@ function makeHomePage (obj, page_url) {
     // variables to store type of browser and link to initialize specific search location.
     var browserType = 0;
     var browserLink = "";
-    // BrowserDetect is a class which determines Browser version,
-    // name and Operating System platform.
-    var BrowserDetect = {
-        init: function () {
-            this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
-            this.version = this.searchVersion(navigator.userAgent)
-                            || this.searchVersion(navigator.appVersion)
-                            || "an unknown version";
-            this.OS = this.searchString(this.dataOS) || "an unknown OS";
-        },
-        // Search specific string from the given set of array.
-        searchString: function (data) {
-            for (var i=0;i<data.length;i++){
-                var dataString = data[i].string;
-                var dataProp = data[i].prop;
-                this.versionSearchString = data[i].versionSearch || data[i].identity;
-                if (dataString) {
-                    if (dataString.indexOf(data[i].subString) != -1)
-                        return data[i].identity;
-                }
-                else if (dataProp)
-                    return data[i].identity;
-            }
-        },
-        // Search specific version of browser.
-        searchVersion: function (dataString) {
-            var index = dataString.indexOf(this.versionSearchString);
-            if (index == -1) return;
-            return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
-        },
-        // Array containing information of various browsers.
-        dataBrowser: [
-        {
-            string: navigator.vendor,
-            subString: "Camino",
-            identity: "Camino"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "Chrome",
-            identity: "Chrome"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "Epiphany",
-            identity: "Epiphany"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "SeaMonkey",
-            identity: "SeaMonkey",
-            versionSearch: "rv"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "OmniWeb",
-            versionSearch: "OmniWeb/",
-            identity: "OmniWeb"
-        },
-        {
-            string: navigator.vendor,
-            subString: "Apple",
-            identity: "Safari",
-            versionSearch: "Version"
-        },
-        {
-            prop: window.opera,
-            identity: "Opera"
-        },
-        {
-            string: navigator.vendor,
-            subString: "iCab",
-            identity: "iCab"
-        },
-        {
-            string: navigator.vendor,
-            subString: "KDE",
-            identity: "Konqueror"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "Firefox",
-            identity: "Firefox"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "Iceweasel",
-            identity: "Iceweasel", 
-			versionSearch: "Iceweasel"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "IceWeasel",
-            identity: "Iceweasel",
-            versionSearch: "IceWeasel"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "IceCat",
-            identity: "Icecat",
-            versionSearch: "IceCat"
-        },
-        {
-            // for newer Netscapes (6+)
-            string: navigator.userAgent,
-            subString: "Netscape",
-            identity: "Netscape"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "MSIE",
-            identity: "Explorer",
-            versionSearch: "MSIE"
-        },
-        {
-            string: navigator.userAgent,
-            subString: "Gecko",
-            identity: "Mozilla",
-            versionSearch: "rv"
-        },
-        {
-            // for older Netscapes (4-)
-            string: navigator.userAgent,
-            subString: "Mozilla",
-            identity: "Netscape",
-            versionSearch: "Mozilla"
-        }
-        ],
-    // Array containing information of various Operating system platforms.
-    dataOS : [
-        {
-            string: navigator.platform,
-            subString: "Win",
-            identity: "Windows"
-        },
-        {
-            string: navigator.platform,
-            subString: "Mac",
-            identity: "Mac"
-        },
-        {
-            string: navigator.platform,
-            subString: "Linux",
-            identity: "Linux"
-        }
-        ]
-    };
 
     //  Function to check the name and version of Browser as well as
     //  operating system platform.
@@ -1258,7 +1495,8 @@ function makeHomePage (obj, page_url) {
     //  Currently it supports IE7 and Firefox.
     function addSearchEngine() {
         var lng = document.addsearchbarfrm.Search_Language;
-        var https_plugin = document.addsearchbarfrm.https_check;
+        //var http_plugin = document.addsearchbarfrm.http_check;
+		var http_plugin = document.addsearchbarfrm.http_check.value;
         var Lang = lng.options[lng.selectedIndex].value;
         var pathUrl = "/toolbar/searchbar/" + Lang + "/ixquick";
 		var http_host = get_http_host();
@@ -1268,9 +1506,11 @@ function makeHomePage (obj, page_url) {
 	 if(browserType == 1) {
             // Browser is IE7+.
             var finalUrl = pathUrl + "_ie_";
-            if (https_plugin && https_plugin.checked) {
+            if (http_plugin == 0) {
                 finalUrl += "secure_";
-            }
+            } else {
+				finalUrl += "ns_";
+			}
             finalUrl += Lang + ".src";
             window.external.AddSearchProvider(finalUrl);
 			var language = get_language(Lang);
@@ -1282,9 +1522,13 @@ function makeHomePage (obj, page_url) {
         if(browserType == 2) {
             // Browser is Firefox.
           var srcUrl = pathUrl + "_ff_";
-          if (https_plugin && https_plugin.checked) {
+          if (http_plugin == 0) {
               srcUrl += "secure_";
           }
+            else {
+                srcUrl += "ns_";
+            }
+
           srcUrl += Lang;
           var pngUrl = srcUrl + ".png"; pngUrl = pathUrl + '.png';
           srcUrl += ".src";
@@ -1298,9 +1542,13 @@ function makeHomePage (obj, page_url) {
         if(browserType == 3) {
             // Browser is Mozilla Seamonkey.
           var srcUrl = pathUrl + "_seamon_";
-          if (https_plugin && https_plugin.checked) {
+          if (http_plugin == 0) {
               srcUrl += "secure_";
           }
+            else {
+                srcUrl += "ns_";
+            }
+
           srcUrl += Lang;
           var pngUrl = srcUrl + ".png";
           srcUrl += ".src";
@@ -1314,9 +1562,13 @@ function makeHomePage (obj, page_url) {
         if(browserType == 4) {
             // Browser is Chrome.
             var finalUrl = pathUrl + "_chrome_";
-            if (https_plugin && https_plugin.checked) {
+            if (http_plugin == 0) {
                 finalUrl += "secure_";
             }
+         else {
+              finalUrl += "ns_";
+          }
+
             finalUrl += Lang + ".src";
             window.external.AddSearchProvider(finalUrl);
                         var language = get_language(Lang);
@@ -1367,7 +1619,6 @@ function makeHomePage (obj, page_url) {
         }
 	}
 
-    BrowserDetect.init();
     
 
 	function getAbsPosition(e) {
