@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsalesnetwork.com.au privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105080047id_/http%3A//www.carsales.com.au/carsales-info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsalesnetwork.com.au privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624101409id_/http%3A//www.carsales.com.au/carsales-info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - carsales.com.au
 
@@ -93,16 +93,20 @@ Carsales also uses “cookies”. A cookie is a small file that stays on your co
 
 Cookies may collect and store your personal information. This policy applies to personal information collected via cookies. The carsales Network may include links to third party web sites, co branded web sites and applications and advertising served to the carsales Network by third parties (Linked Sites). Companies who operate Linked Sites may collect personal information through the use of cookies and otherwise. Carsales is not responsible for Linked Sites and recommends you read the privacy policy of Linked Sites before disclosing your personal information.
 
+Cookies are also used to display relevant advertising to you based on your browsing behaviour, this is referred to as online behavioural advertising (OBA). If you do not wish to participate in OBA please visit [http://www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/). Here you can Opt Out of OBA for the carsales Network and for a number of other websites who are signatories to the Australian Best Practice Guideline for Online Behavioural Advertising. If you change your mind you can always opt in again at [http://www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/)
+
 This site uses Crazy Egg web analytics service. Crazy Egg may record mouse clicks, mouse movement, and scrolling activity performed in this website. Crazy Egg does not collect any personally identifiable information, including credit card information, that you enter in this website. For more information see [Privacy Policy](http://www.crazyegg.com/privacy) for Information Collected by the Crazy Egg Web Analytics Service. We are using the information collected by Crazy Egg service for usability purposes. To opt out of this analytics service, please email [contact@crazyegg.com](mailto:contact@crazyegg.com).
+
+Carsales uses Nielsen/NetRatings web analytics tools to measure and analyse internet usage across our network of websites. This service helps us measure and respond to our online consumers. 
 
 **What if I have a problem?**  
 If you have a problem, complaint, want to change your personal information or just wish to enquire about privacy please contact us.
 
-Location: | Level 1, 109 Burwood Road, Hawthorn VIC 3122   
+Location: | Level 4, 449 Punt Road, Richmond VIC 3121   
 ---|---  
-Postal Address: | Locked Bag 3333, Hawthorn VIC 3122   
+Postal Address: | Locked Bag 9001, Richmond VIC 3121   
 Phone: | +61 (03) 9093 8600 (Business Hours EST)  
-Contact: | Margaret Beattie  
+Contact: | Nicole Birman  
 Email: | [Click here](http://helpcentre.carsales.com.au/help/contact-us/) to contact us by email  
   
   
@@ -112,4 +116,4 @@ This policy may change over time. All changes will be published on this website.
 **About security and personal Information**  
 carsales takes reasonable steps to protect personal information collected from misuse, loss, unauthorised access, modifications or disclosure.
 
-_Version 2.2 (August 2009)_
+_Version 3 (June 2012)_
