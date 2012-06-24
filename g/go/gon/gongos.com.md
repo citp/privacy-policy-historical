@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gongos.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123161816id_/http%3A//gongos.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gongos.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624032131id_/http%3A//gongos.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Gongos Research: Privacy Policy
 
@@ -97,7 +97,7 @@ In the unlikely event that we suffer a breach of our security systems and an ind
 
 **Opting-out of our panels**
 
-If you choose to end your membership in any of our panels, you may automatically resign by clicking on <http://gongos.com/panel/removeme.asp>. In addition, in each email invitation sent to members of our respondent database, we provide the opportunity to opt-out of receipt of further mailings. If you choose to end your membership via either of these methods, your panelist membership record will be deactivated and you will no longer receive invitations from us, although you may continue to receive some previously-prepared invitations for a few days. We apologize for any such inconvenience. 
+If you choose to end your membership in any of our panels, you may automatically resign by clicking on [http://gongos.com/RemoveMe.aspx](https://web.archive.org/web/20120624032131id_/http%3A//gongos.com/RemoveMe.aspx). In addition, in each email invitation sent to members of our respondent database, we provide the opportunity to opt-out of receipt of further mailings. If you choose to end your membership via either of these methods, your panelist membership record will be deactivated and you will no longer receive invitations from us, although you may continue to receive some previously-prepared invitations for a few days. We apologize for any such inconvenience. 
 
 After you resign from our panel, we will continue to maintain your personal information in our servers for historical and statistical purposes, as well as in our database of individuals who have unsubscribed from our panel to ensure that you do not receive further email survey invitations from us. 
 
