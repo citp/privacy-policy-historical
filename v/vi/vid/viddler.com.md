@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viddler.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617211857id_/http%3A//www.viddler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viddler.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624085320id_/http%3A//www.viddler.com/privacy-policy) for the most accurate reproduction.*
 
-# Viddler.com - Privacy Policy
+# Privacy policy - Viddler
 
 ### Summary of Privacy Policy
 
@@ -150,10 +150,11 @@ If you have questions or suggestions please use you the help form or you can con
 
 **By mail:**  
 Viddler, Inc.  
-115 Research Dr.  
+521 E 4th Street  
+2nd Floor  
 Bethlehem, PA 18015
 
 **By email:**  
 [info@viddler.com](mailto:info@viddler.com)
 
-November 17, 2006
+November 17, 2006 - 
