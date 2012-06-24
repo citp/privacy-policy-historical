@@ -1,33 +1,39 @@
-> *The following text is extracted and transformed from the cirrusinsight.com privacy policy that was archived on 2011-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110912041214id_/http%3A//www.cirrusinsight.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cirrusinsight.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624213900id_/http%3A//www.cirrusinsight.com/privacy) for the most accurate reproduction.*
 
-# Salesforce for Gmail - Cirrus Insight - Create Leads, Contacts, Events, Tasks in Salesforce from Gmail
+# Privacy Policy | Cirrus Insight - Integrate Salesforce and Gmail | Create Leads, Contacts, Events, and Tasks in Salesforce from Gmail
 
-As you use and access Cirrus Insight, Cirruspath, LLC will learn certain information about you. How we will handle information we learn about you depends upon how you use the product.
+We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer. The information we collect is used to improve the content of our web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
-## Information Collection
-
-If you use the Cirrus Insight to display and create information in Salesforce CRM, we collect:
-
-  1. Your salesforce.com organization name, salesforce.com edition, and internal salesforce.com organization ID.
-  2. Your salesforce.com username and other personal information that salesforce.com collects such as name, phone number, and email.
-  3. Which browser(s) you use to connect to our service.
-  4. The date and time you accessed the service.
-  5. Your product settings.
+  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Service](http://www.cirrusinsight.com/terms), or as otherwise required by law.
+  * We transfer information about you if Cirruspath, LLC is acquired by or merged with another company. In this event, Cirruspath, LLC  will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 
 
-If you choose to upgrade to a paid Cirrus Insight plan, we will also collect additional information including your name, address, and credit card information. This information will be used only to collect payment for the service. Complete credit card information (full CC number, CVV2) is never stored on Cirruspath servers and is passed securely to payment processors.
+#### Information Gathering and Usage
 
-Aggregate information is also collected for statistical purposes. Cirruspath, LLC may use software programs to create summary statistics, which are used for such purposes as assessing the number of uses of different features of the product, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+  * Without your explicit authorization, Cirrus Insight cannot access your Salesforce data. You authorize Cirrus Insight by signing into Salesforce with your Salesforce username and password. This authentication process is entirely managed by Salesforce. The result of your authorization is that Salesforce will give Cirrus Insight a private password to your Salesforce account, which we encrypt before saving. Cirrus Insight never sees your Salesforce password. For more information on this, please see: [Security](http://www.cirrusinsight.com/features/security/ "Security").
+  * When you authorize Cirrus Insight by signing in to Salesforce, we collect your Salesforce username, organization name, organization ID, edition, and other personal information that Salesforce collects such as name, phone number, and email. We also collect information about which browser(s) you use to connect to our service, the date and time you access our service, and your product settings.
+  * If you upgrade to a paid Cirrus Insight plan, we collect credit card information. Billing information is used to collect payment for the service. Complete credit card information is never seen or stored by Cirruspath, LLC; it is passed securely to payment processors.
+  * We do not store CRM data, with the exception of data that is encrypted and cached briefly for application performance purposes.
+  * Cirruspath, LLC uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
-**No CRM data is ever stored, with the exception of data that is encrypted and cached briefly for application performance purposes.**
 
-## Passwords and User Credentials
 
-In order to search for data in your salesforce.com account, you must authorize the Cirrus Insight application. Without your explicit authorization, Cirrus Insight will not and can not access your salesforce.com data. Your authorization involves signing into Salesforce with your salesforce.com username and password. This authentication process is _entirely_ managed by Salesforce and _not_ Cirrus Insight. The result of your authorization is that Cirrus Insight will be given a private "password" to your Salesforce account, which we encrypt before saving. _Cirrus Insight never sees your salesforce.com password._
+#### Cookies
 
-Cirrus Insight does not authenticate with Gmail and we do not have any visibility to your Google Apps account information.
+  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive.
+  * Cookies are required to use the Cirrus Insight service.
 
-Cirruspath, LLC cares about the privacy of your personal information. No personally-identifiable information will be sold or otherwise transferred to unaffiliated third parties without the approval of the user.
 
- 
+
+#### Disclosure
+
+We may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](https://www.cirrusinsight.com/terms).
+
+#### Changes
+
+Cirruspath, LLC may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Cirrus Insight account or by placing a prominent notice on our site.
+
+#### Questions
+
+Any questions about this Privacy Policy should be addressed to [insight@cirruspath.com](mailto:insight@cirruspath.com?subject=Privacy%20Policy).
