@@ -1,27 +1,28 @@
-> *The following text is extracted and transformed from the bigw.com.au privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124013303id_/http%3A//www.bigw.com.au/help/privacy-policy-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigw.com.au privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624025556id_/http%3A//www.bigw.com.au/help/privacy-policy-content) for the most accurate reproduction.*
 
 # Privacy policy
 
-## Privacy Policy
+[](http://www.bigw.com.au/bigw/contentmanagement/contactus_homepage.jsp)
 
-**Respecting your privacy**
+[](http://www.bigw.com.au/bigw/storelocator/store_finder)
+
+Respecting your privacy
 
 Woolworths Limited is committed to supporting the 'National Privacy Principles for the Fair Handling of Personal Information' which set clear standards for the collection, access, storage and use of personal information which we obtain as part of our business operations. 
 
 Our respect for our customers' right to privacy of their personal information is paramount. We have policies and procedures to ensure that all personal information, no matter how or where it is obtained, is handled sensitively, securely, and in accordance with the National Privacy Principles. 
 
-**This Privacy Policy sets out:**
+This Privacy Policy sets out:
 
->   * matters of which you should be aware regarding information we may collect about you 
->   * our policies on the management of personal information, and 
->   * generally, what sort of information we hold, for what purposes, and how we collect, hold, use and disclose that information 
-> 
+  * matters of which you should be aware regarding information we may collect about you 
+  * our policies on the management of personal information, and 
+  * generally, what sort of information we hold, for what purposes, and how we collect, hold, use and disclose that information 
 
 
-**  
-What personal information do we collect and store?**
 
-So that we can provide services to you, we may ask for personal details such as your name, address, telephone number or e-mail address. Some examples of where we may need these details are pre-orders, home deliveries, competitions & promotions and when you opt-in to receiving marketing newsletters from Woolworths which may include 
+What personal information do we collect and store?
+
+So that we can provide services to you, we may ask for personal details such as your name, address, telephone number or e-mail address. Some examples of where we may need these details are pre-orders, home deliveries, lay-bys, competitions & promotions and when you opt-in to receiving marketing newsletters from Woolworths.
 
 Privacy law requires us to collect personal information _about you only from you_ if it is reasonable and practical to do so. 
 
@@ -29,16 +30,15 @@ Woolworths takes measures to ensure your personal information is protected from 
 
 Generally, you have no obligation to provide any information requested by us. If you choose to withhold requested information however, we may not be able to provide you with the goods and services that depend on the collection of that information, particularly if the collection of that information is required by law. 
 
-**How is personal information used?**
+How is personal information used?
 
 The personal information that we ask for is generally used to provide goods or services to you. For example, for a credit card transaction we need your card number, and for a competition we need your contact details so we can contact you if you win. 
 
 We may also use your personal information in other ways to provide you with superior service. This may include using your personal information to advise you of new products and services. You have the right to tell us that you do not want us to send information to you other than for the main purpose for which we have collected your personal details. 
 
-  
 Where possible, we try to ensure that our disclosure of information to other organisations (for example market researchers, and others with whom we have commercial arrangements) is in a way which does not personally identify individuals. 
 
-**Access to your personal information**
+Access to your personal information
 
 We will provide you with access to any of your personal information we hold (except in the limited circumstances recognised by privacy law). 
 
@@ -46,6 +46,6 @@ If you require access to your personal information, please email [ privacy@woolw
 
 If you need to update your information (eg. if you change your address), please contact the relevant part of the Woolworths group to which you supplied that information so we can make the change. 
 
-**More information**
+More information
 
 More information about Privacy law and the National Privacy Principles is available from the Federal Privacy Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/). 
