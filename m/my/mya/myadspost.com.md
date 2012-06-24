@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myadspost.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118204419id_/http%3A//www.myadspost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadspost.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624100352id_/http%3A//www.myadspost.com/privacy.php) for the most accurate reproduction.*
 
-# Submit your articles for massive exposure, Sign-up Now for Free!
+# MyADSPost.com - Free Articles for Reprint. Free Articles for your web site.
 
 Article Directory Privacy Policy
 
@@ -16,16 +16,12 @@ Like other Web publishers, we collect information to enhance your visit and deli
 
 **Interest-based advertising**
 
-Interest-based advertising enables advertisers to reach users based on their interests (e.g. 'sports enthusiasts') and allows them to display ads based on a user's previous interactions with them, such as visits to advertiser websites. The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers serve and manage the ads on their site(s) and across the web more effectively. 
+Interest-based advertising enables advertisers to reach users based on their interests (e.g. 'sports enthusiasts') and allows them to display ads based on a user's previous interactions with them, such as visits to advertiser websites. The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers serve and manage the ads on their site(s) and across the web more effectively.
 
-* Google, as a third-party vendor, uses cookies to serve ads on your site.
-  
-
-* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  
-
+* Google, as a third-party vendor, uses cookies to serve ads on your site.  
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
-  
+
 The user information that Google gather from AdSense sites is used in accordance with Google's [privacy policy](http://www.google.co.uk/privacy.html). It is not used to identify users personally and Google don't display ads based on personal information. Google also will not display ads based on sensitive information or interest categories, such as those based on race, religion, sexual orientation, health or sensitive financial categories, without a user's opt-in consent. 
 
 **Affiliated sites, linked sites and advertisements**
