@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allblogtools.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225043513id_/http%3A//www.allblogtools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allblogtools.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624023741id_/http%3A//www.allblogtools.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AllBlogTools.com | Blogger Templates, Tutorials, Tools.
+# Privacy Policy | Blogger Templates, Tutorials, Tools | WordPress Themes | Allblogtools.com
 
 We collect information from you when you register on our site, place an order or fill out a form. 
 
