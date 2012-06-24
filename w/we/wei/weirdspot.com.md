@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weirdspot.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225222156id_/http%3A//www.weirdspot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weirdspot.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624193758id_/http%3A//www.weirdspot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ Even the best policy can't protect your online privacy and security in all circu
 
 **Contacting the Website**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us at: [http://www.weirdspot.com/contact.html](https://web.archive.org/web/20111225222156id_/http%3A//www.weirdspot.com/contact.html)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us at: [http://www.weirdspot.com/contact.html](https://web.archive.org/web/20120624193758id_/http%3A//www.weirdspot.com/contact.html)
 
 |  **Advertisement**  
 ---  
