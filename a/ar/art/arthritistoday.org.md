@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthritistoday.org privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106114005id_/http%3A//www.arthritis.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritistoday.org privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624071756id_/http%3A//www.arthritis.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Arthritis.org Privacy Policy
 
@@ -30,7 +30,7 @@ At certain parts of the Sites, only persons who provide us with the requested pe
 
 ### Community Tools
 
-Some portions of the Sites, such as RA Connect, provide special services and offer interactive tools that allow users to upload information for public consumption. In some cases, users can share experiences, give advice and connect with others.  Please remember that chat rooms, message boards and personal pages are public forums and personal information disclosed there will be seen by others. In addition, please exercise caution when posting information or providing information about yourself to others, especially contact information, such as street address, telephone number or email address. This privacy policy does not apply to any information posted by you in a public area of the Sites.  For more on the use of the RA Connect, please refer to the [Frequently Asked Questions](http://www.arthritis.org/aboutraconnect.php) page for that section of the Sites.
+Some portions of the Sites, such as RA Connect, provide special services and offer interactive tools that allow users to upload information for public consumption. In some cases, users can share experiences, give advice and connect with others.  Please remember that chat rooms, message boards and personal pages are public forums and personal information disclosed there will be seen by others. In addition, please exercise caution when posting information or providing information about yourself to others, especially contact information, such as street address, telephone number or email address. This privacy policy does not apply to any information posted by you in a public area of the Sites. 
 
 ### Cookies
 
