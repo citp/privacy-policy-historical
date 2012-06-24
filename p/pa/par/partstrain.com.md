@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partstrain.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155151id_/http%3A//www.partstrain.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstrain.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624044921id_/http%3A//www.partstrain.com/company/privacy_policy.html) for the most accurate reproduction.*
 
 # Auto Parts Train - Privacy Policy
 
