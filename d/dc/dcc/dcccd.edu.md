@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115210151id_/http%3A//www.dcccd.edu/Pages/Privacy%2520and%2520Security%2520Commitment.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624032426id_/http%3A//www.dcccd.edu/Pages/Privacy%2520and%2520Security%2520Commitment.aspx) for the most accurate reproduction.*
 
 # Privacy and Security Commitment
 
@@ -64,7 +64,7 @@ Directory information is released only upon written request unless permitted by 
 
 **Information collected by DCCCD  
 **  
-DCCCD's webservers record only the visitor's Internet Protocol (IP) address, but not the email address. 
+DCCCD's Web servers record only the visitor's Internet Protocol (IP) address, but not the email address. 
 
 [Back to the top](https://web.archive.org/Pages/Privacy%20and%20Security%20Commitment.aspx#top)
 
