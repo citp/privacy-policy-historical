@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wawa.com privacy policy that was archived on 2011-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111105044223id_/http%3A//www.wawa.com/WawaWeb/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wawa.com privacy policy that was archived on 2012-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120624061059id_/http%3A//www.wawa.com/WawaWeb/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html id="ctl00_myHTML" xmlns="http://www.w3.org/1999/xhtml" lang="en" class="cufon-active cufon-ready"><head id="ctl00_Head1"><title>
 	Wawa - Privacy Policy
@@ -21,6 +21,7 @@
   <![endif]-->
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="scripts/jquery-1.4.4.min.js"></script>
     <script type="text/javascript" src="scripts/Common.js"></script>
+    <script type="text/javascript" src="scripts/jwplayer.min.js"></script>
     <script type="text/javascript" src="scripts/swfobject.js"></script>
     <script type="text/javascript" src="scripts/customfuncs.js"></script>
     <script type="text/javascript" src="scripts/FancyZoom.js"></script>
@@ -29,27 +30,26 @@
     <script type="text/javascript" src="scripts/jqbrowser-compressed.js"></script>
 	<script type="text/javascript" src="scripts/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
 	<script type="text/javascript" src="scripts/WawaATRG_550.font.js"></script>
+	<script type="text/javascript" src="scripts/OfficinaSerITCStd_Bold.font.js"></script>
+	<script type="text/javascript" src="scripts/OfficinaSansITCStd_Bold.font.js"></script>
 	<script type="text/javascript">
 	    Cufon.replace('#newslettersignup_form h3, #rotatefact, #title_headline, #info_header_top, #info_header_bottom, #coming_next, #current_flavor, #try_one_today, #flatbreads_header, #subheader, #store-modal-title', { fontFamily: 'WawaATRG' });
+	    Cufon.replace('.officina-ser', { fontFamily: 'OfficinaSerITCStd Book' });
+	    Cufon.replace('.officina-sans', { fontFamily: 'OfficinaSansITCStd Book', hover: true });
 	</script>
-    <script type="text/javascript">
 
-        var gaUrl = document.domain;
-        if (gaUrl.indexOf("www.") == 0) {
-            gaUrl = gaUrl.replace("www.", ".");
-        }
-        if (gaUrl.indexOf("m.") == 0) {
-            gaUrl = gaUrl.replace("m.", ".");
-        }
+	<!-- Google Analytics Asynchronous Code -->
+    <script type="text/javascript">
 
         var _gaq = _gaq || [];
         _gaq.push(
 		    ['_setAccount', 'UA-4364500-1'],
-		    ['_setDomainName', gaUrl],
+		    ['_setDomainName', 'none'],
 		    ['_setAllowLinker', true],
 		    ['_addIgnoredRef', 'wawa'],
 		    ['_trackPageview'],
-		    ['_trackPageLoadTime']
+		    ['_trackPageLoadTime'],
+            ['_setSiteSpeedSampleRate', 10]
 	    );
 
         (function () {
@@ -60,6 +60,43 @@
 
     </script>
     
+    <!-- KC tags ARCHER -->
+    <script type="text/javascript">
+        var vocBaseURL = (("https:" == document.location.protocol) ? "https://archerv.voice-of-customers.com/" : "http://archerv.voice-of-customers.com/");
+        var analyticsBaseURL = (("https:" == document.location.protocol) ? "https://archera.voice-of-customers.com/" : "http://archera.voice-of-customers.com/");
+
+        vocLoader = function (c, d) {
+            for (var b = c.length, e = b, f = function () {
+                if (!(this.readyState
+                && this.readyState !== "complete"
+                && this.readyState !== "loaded")) {
+                    this.onload = this.onreadystatechange = null;
+                    --e || d();
+                }
+            }, g = document.getElementsByTagName("head")[0], i = function (h) {
+                var a = document.createElement("script");
+                a.async = true;
+                a.src = h;
+                a.onload = a.onreadystatechange = f;
+                g.appendChild(a);
+            }; b; ) i(c[--b]);
+        };
+
+        var scripts = [];
+        scripts[0] = vocBaseURL + "javascripts/knowclick-WAWA1.js";
+        scripts[1] = analyticsBaseURL + "analytics.js";
+        vocLoader(scripts, function () {
+            try {
+                var vocTracker = VOC.createTracker(2, 'WAWA1', analyticsBaseURL, vocBaseURL);
+                vocTracker.generateRequest();
+            } catch (err) {
+                console.log(err);
+            }
+        });
+    </script><script async="" src="https://archera.voice-of-customers.com/analytics.js"></script><script async="" src="https://archerv.voice-of-customers.com/javascripts/knowclick-WAWA1.js"></script>
+    <!-- KC ARCHER tags END -->
+    
+    
     <style type="text/css">
 	.ctl00_ContentPlaceHolder1_EditableContent_0 { border-color:Black;border-width:1px;border-style:Solid; }
 
@@ -69,10 +106,10 @@
     <form name="aspnetForm" method="post" action="/WawaWeb/Privacy.aspx" id="aspnetForm">
 <input type="hidden" name="__WPPS" id="__WPPS" value="s">
 <input type="hidden" name="ctl00_Header1_ajaxScriptManager_HiddenField" id="ctl00_Header1_ajaxScriptManager_HiddenField" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk4MTU3NDA4OQ9kFgJmD2QWAgIBD2QWAgIFD2QWBgICD2QWBAIBD2QWCGYPDxYCHgdWaXNpYmxlaGRkAgEPDxYCHwBoZGQCAg8PFgIfAGhkZAIEDw8WAh8AaGRkAgMPZBYCZg8QZGQWAWZkAgMPZBYEAgYPDxYCHgRUZXh0BSZBbGwgb2YgV2F3YSdzIEFUTXMgYXJlIHN1cmNoYXJnZSBmcmVlLmRkAggPDxYCHwBoZGQCBQ9kFgJmD2QWAgIFDw8WAh8BBQQyMDExZGRkFCxus4ItK3MRJQi6gPCQzyg86zA=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk4MTU3NDA4OQ9kFgJmD2QWAgIBD2QWAgIFD2QWBgICD2QWBAIBD2QWCGYPDxYCHgdWaXNpYmxlaGRkAgEPDxYCHwBoZGQCAg8PFgIfAGhkZAIEDw8WAh8AaGRkAgMPZBYCZg8QZGQWAWZkAgMPZBYEAgYPDxYCHgRUZXh0BTNXYXdhJ3MgaG90IGJyZWFrZmFzdCBzYW5kd2ljaCBpcyBjYWxsZWQgdGhlIFNpenpsaS5kZAIIDw8WAh8AaGRkAgUPZBYCZg9kFgICBQ8PFgIfAQUEMjAxMmRkZPqUHj7v/P8+1oQ/myNypzQff9ys">
 
 <!-- Keyoti2.SearchEngine.Web, Version=2010.4.1.708, Culture=neutral, PublicKeyToken=58d9fd2e9ec4dc0e-->
-<script src="/WawaWeb/ScriptResource.axd?d=_uSLf4UGPKdkF69rpkaL-PKlHvTJnem_t1uNh63Eh8KskDqoLWdwS-3veVbUCJaTZ0EL6o0CZ2o7ysitlKjMvl0mFG5LATf4wUJRwY0lPDob9DGxYq37-k7X0hYdW2Aa5o-V0Ykv_PJYhiRotgFkD7-4mQA1&amp;t=633457498478281250" type="text/javascript"></script>
+<script src="/WawaWeb/ScriptResource.axd?d=neOCNM_PM-KpALRqZfU_1_8p6VZJvprtc20BuSWcHCVpEtK7z1fxtu2kL0lJiYcD1YjsWol-P_koAMYgMeOd472bWrQUvK9DBAukYifsWdEfBk_k9I4KBWjmhzOY4Ou6s3UWpmWljtmmVL8d_NI1Wh_GcQI1&amp;t=633457498478281250" type="text/javascript"></script>
         
         
         <div id="ctl00_toolpanel">
@@ -94,6 +131,16 @@
 				<a id="ctl00_Header1_SideNav1_headAbout" class="head" title="About Wawa" href="/WawaWeb/About.aspx">About Wawa</a>
 				<ul id="subnav_about" class="subnav">
 					<li>&nbsp;</li>
+					<li><a id="ctl00_Header1_SideNav1_navFlorida" title="Florida" href="/WawaWeb/Florida.aspx">Florida</a>
+						<ul id="ctl00_Header1_SideNav1_floridaSubNav" style="display: none;">
+							<li><a id="ctl00_Header1_SideNav1_navFloridaNews" title="News" href="/WawaWeb/FloridaNews.aspx">News</a></li>
+							<li><a id="ctl00_Header1_SideNav1_navFloridaPhotos" title="Photo Gallery" href="/WawaWeb/FloridaPhotos.aspx">Photo Gallery</a></li>
+							<li><a id="ctl00_Header1_SideNav1_navFloridaVideos" title="Video Gallery" href="/WawaWeb/FloridaVideos.aspx">Video Gallery</a></li>
+							<li><a id="ctl00_Header1_SideNav1_navFloridaFlySouth" title="Flying South" href="/WawaWeb/FloridaFlySouth.aspx">Flying South</a></li>
+							<li><a id="ctl00_Header1_SideNav1_navFloridaMedia" title="Media Updates" href="/WawaWeb/FloridaMedia.aspx">Media Updates</a></li>
+                            <li><a id="ctl00_Header1_SideNav1_navFloridaFutureLocations" title="Future Locations" href="/WawaWeb/FloridaFutureLocations.aspx">Future Locations</a></li>
+						</ul>
+					</li>
 					<li><a id="ctl00_Header1_SideNav1_navTimeline" title="Milestones" href="/WawaWeb/Timeline.aspx">Milestones</a></li>
 					<li><a id="ctl00_Header1_SideNav1_navCommunity" title="Community" href="/WawaWeb/Community.aspx">Community</a>
 						<ul id="ctl00_Header1_SideNav1_communitySubNav" style="display: none;">
@@ -148,7 +195,6 @@
 					<li><a id="ctl00_Header1_SideNav1_navBowls" title="Soups, Sides &amp; Bowls" href="/WawaWeb/Bowls.aspx">Soups, Sides &amp; Bowls</a></li>
 					<li><a id="ctl00_Header1_SideNav1_navSalads" title="Salads" href="/WawaWeb/Salads.aspx">Salads</a></li>
 					<li><a id="ctl00_Header1_SideNav1_navHoagies" title="Hoagies &amp; Sandwiches" href="/WawaWeb/Hoagies.aspx">Hoagies &amp; Sandwiches</a></li>
-					<li><a id="ctl00_Header1_SideNav1_navFlatbread" title="Toasted Wraps &amp; Flatbreads" href="/WawaWeb/Flatbread.aspx">Toasted Wraps &amp; Flatbreads</a></li>
 					<li><a id="ctl00_Header1_SideNav1_navWraps" title="Wraps" href="/WawaWeb/Wraps.aspx">Wraps</a></li>
 					<li><a id="ctl00_Header1_SideNav1_navSnacks" title="Snacks" href="/WawaWeb/Snacks.aspx">Snacks</a></li>
 					<li>&nbsp;</li>
@@ -158,11 +204,7 @@
 				<a id="ctl00_Header1_SideNav1_headBeverages" class="head" title="Coffee &amp; Beverages" href="/WawaWeb/Beverages.aspx">Coffee &amp; Beverages</a>
 				<ul id="subnav_beverages" class="subnav">
 					<li>&nbsp;</li>
-					<li><a id="ctl00_Header1_SideNav1_navCoffee" title="Coffee" href="/WawaWeb/Coffee.aspx">Coffee</a>
-					    <ul id="ctl00_Header1_SideNav1_coffeeSubNav" style="display: none;">
-							<li><a id="ctl00_Header1_SideNav1_navWorldBrew" title="World Brew" href="/WawaWeb/WorldBrews.aspx">World Brew</a></li>
-						</ul>
-					</li>
+					<li><a id="ctl00_Header1_SideNav1_navCoffee" title="Coffee" href="/WawaWeb/Coffee.aspx">Coffee</a></li>
 					<li><a id="ctl00_Header1_SideNav1_navFrozen" title="Frozen" href="/WawaWeb/Frozen.aspx">Frozen</a></li>
 					<li><a id="ctl00_Header1_SideNav1_navDrinks" title="Teas &amp; Drinks" href="/WawaWeb/Drinks.aspx">Teas &amp; Drinks</a></li>
 					<li>&nbsp;</li>
@@ -189,6 +231,7 @@
 				<ul id="subnav_wawafuel" class="subnav">
 					<li>&nbsp;</li>
 					<li><a id="ctl00_Header1_SideNav1_navFuelFaqs" title="FAQs" href="/WawaWeb/FuelFaqs.aspx">FAQs</a></li>
+                    <li><a id="ctl00_Header1_SideNav1_navFuelPrices" title="Fuel Prices" href="/WawaWeb/StoreLocator.aspx">Fuel Prices</a></li>
 					<li><a id="ctl00_Header1_SideNav1_navWawaFleet" title="Wawa Fleet" href="http://www.wawafleet.com/?promoCode1=W3A" target="_blank">Wawa Fleet</a></li>
 					<li>&nbsp;</li>
 				</ul>
@@ -217,11 +260,9 @@
 						</ul>
 					<li><a id="ctl00_Header1_SideNav1_navNovelties" title="Novelties/Other" href="/WawaStore/storecategory86.aspx">Novelties/Other</a></li>
 					<li><a id="ctl00_Header1_SideNav1_navAccessories" title="Accessories" href="/WawaStore/storecategory92.aspx">Accessories</a></li>
-					<li><a id="ctl00_Header1_SideNav1_navPromoTees" title="Promo Tees" href="/WawaStore/storecategory93.aspx">Promo Tees</a></li>
 					<li><a id="ctl00_Header1_SideNav1_navStoreCoffee" title="Coffee" href="/WawaStore/storecategory83.aspx">Coffee</a></li>
 					<li><a id="ctl00_Header1_SideNav1_navGiftCards" title="Gift Cards" href="/WawaStore/storecategory81.aspx">Gift Cards</a></li>
 						<ul>
-							<!-- <li><a id="ctl00_Header1_SideNav1_navRecharge" title="Recharge" href="/WawaStore/CardRecharge.aspx">Recharge</a></li> -->
 							<li><a id="ctl00_Header1_SideNav1_navCheckBalance" title="Check Balance" href="/WawaStore/CardBalance.aspx">Check Balance</a></li>
 							<li><a id="ctl00_Header1_SideNav1_navGiftCardFAQs" title="Gift Card FAQs" href="/WawaStore/CardFaqs.aspx">Gift Card FAQs</a></li>
 						</ul>
@@ -259,7 +300,7 @@
         <a href="/WawaWeb/Contact.aspx" title="Contact Us">Contact</a>
     </div>
     <div id="utility_social">
-        <a href="http://www.youtube.com/user/WawaInc" target="_blank" class="youtube png">YouTube</a> 
+        <a href="http://www.youtube.com/wawa" target="_blank" class="youtube png">YouTube</a> 
         <a href="http://www.facebook.com/wawa" target="_blank" class="facebook png">Facebook</a>
     </div>
 </div>
@@ -272,7 +313,7 @@
 		<div id="bg_search" class="png"></div>
 	</div>
 	<h3 id="title_didyouknow" class="png">Did you Know?</h3>
-	<div id="rotatefact"><span id="ctl00_Header1_rotateQuote"><cufon class="cufon cufon-canvas" alt="All " style="width: 20px; height: 15px;"><canvas width="28" height="16" style="width: 28px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>All </cufontext></cufon><cufon class="cufon cufon-canvas" alt="of " style="width: 17px; height: 15px;"><canvas width="25" height="16" style="width: 25px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>of </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Wawa's " style="width: 48px; height: 15px;"><canvas width="56" height="16" style="width: 56px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>Wawa's </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ATMs " style="width: 36px; height: 15px;"><canvas width="44" height="16" style="width: 44px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>ATMs </cufontext></cufon><cufon class="cufon cufon-canvas" alt="are " style="width: 24px; height: 15px;"><canvas width="32" height="16" style="width: 32px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>are </cufontext></cufon><cufon class="cufon cufon-canvas" alt="surcharge " style="width: 65px; height: 15px;"><canvas width="73" height="16" style="width: 73px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>surcharge </cufontext></cufon><cufon class="cufon cufon-canvas" alt="free." style="width: 29px; height: 15px;"><canvas width="38" height="16" style="width: 38px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>free.</cufontext></cufon></span></div>
+	<div id="rotatefact"><span id="ctl00_Header1_rotateQuote"><cufon class="cufon cufon-canvas" alt="Wawa's " style="width: 48px; height: 15px;"><canvas width="56" height="16" style="width: 56px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>Wawa's </cufontext></cufon><cufon class="cufon cufon-canvas" alt="hot " style="width: 25px; height: 15px;"><canvas width="33" height="16" style="width: 33px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>hot </cufontext></cufon><cufon class="cufon cufon-canvas" alt="breakfast " style="width: 64px; height: 15px;"><canvas width="73" height="16" style="width: 73px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>breakfast </cufontext></cufon><cufon class="cufon cufon-canvas" alt="sandwich " style="width: 59px; height: 15px;"><canvas width="67" height="16" style="width: 67px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>sandwich </cufontext></cufon><cufon class="cufon cufon-canvas" alt="is " style="width: 14px; height: 15px;"><canvas width="22" height="16" style="width: 22px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>is </cufontext></cufon><cufon class="cufon cufon-canvas" alt="called " style="width: 37px; height: 15px;"><canvas width="46" height="16" style="width: 46px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>called </cufontext></cufon><cufon class="cufon cufon-canvas" alt="the " style="width: 25px; height: 15px;"><canvas width="33" height="16" style="width: 33px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>the </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Sizzli." style="width: 34px; height: 15px;"><canvas width="43" height="16" style="width: 43px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>Sizzli.</cufontext></cufon></span></div>
 	
 </div>
             
@@ -325,7 +366,7 @@
         
 <div id="contentmain_right">
     <div id="ctl00_ContentPlaceHolder1_ContentRight1_pnlBannerHolder">
-	<a id="ctl00_ContentPlaceHolder1_ContentRight1_ctl00_lnkBanner" title="Your Future Begins Today" href="http://www.wawa.com/WawaWeb/ApplyNow.aspx"><img id="ctl00_ContentPlaceHolder1_ContentRight1_ctl00_imgBanner" class="png promoright" src="/WawaWeb/cms_images/WawaPumpTopperWeb.jpg" alt="Your Future Begins Today" height="195" width="184" border="0"></a><a id="ctl00_ContentPlaceHolder1_ContentRight1_ctl01_lnkBanner" title="Store Locator" href="http://www.wawa.com/WawaWeb/StoreLocator.aspx"><img id="ctl00_ContentPlaceHolder1_ContentRight1_ctl01_imgBanner" class="png promoright" src="/WawaWeb/cms_images/EggNog_RightHand_v1.1_RM.png" alt="Egg Nog" height="195" width="184" border="0"></a><a id="ctl00_ContentPlaceHolder1_ContentRight1_ctl02_lnkBanner" title="Gotta Wawa gift card? Check your balance or order a new card. Go to Card Central" href="/WawaStore/storecategory81.aspx"><img id="ctl00_ContentPlaceHolder1_ContentRight1_ctl02_imgBanner" class="png promoright" src="/WawaWeb/images/promo_cardcentral_temp.png" alt="Gotta Wawa gift card? Check your balance or order a new card. Go to Card Central" height="209" width="176" border="0"></a>
+
 </div>
 </div>
 
@@ -352,7 +393,7 @@
 		    <div id="bg_newsletter" class="png"></div>
 	    </div>
 	    <div id="copyright">
-            © <span id="ctl00_Footer1_lblCopyrightYear">2011</span> Wawa Inc.
+            © <span id="ctl00_Footer1_lblCopyrightYear">2012</span> Wawa Inc.
         </div>
     
 </div>
