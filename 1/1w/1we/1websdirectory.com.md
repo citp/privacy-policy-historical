@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1websdirectory.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223093516id_/http%3A//1websdirectory.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1websdirectory.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624063028id_/http%3A//www.1websdirectory.com/policy.htm) for the most accurate reproduction.*
 
-# Web Directory - 1WebsDirectory.com
+# Privacy Policy - 1WebsDirectory.com
 
 **1 Webs Directory Privacy Policy:**
 
@@ -54,4 +54,4 @@ We take every precaution and care to protect the information provided by our use
 
 1 Webs Directory reserves the right to make changes to the privacy policy at any point of time and thus, it is requested that you do make regular checks to be up to date with the changes. 
 
-Any questions relating to this privacy policy may be sent through our [**contact page**](https://web.archive.org/web/20111223093516id_/http%3A//1websdirectory.com/contact_us.htm).
+Any questions relating to this privacy policy may be sent through our [**contact page**](https://web.archive.org/web/20120624063028id_/http%3A//www.1websdirectory.com/contact_us.htm).
