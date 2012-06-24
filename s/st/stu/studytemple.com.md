@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studytemple.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225215743id_/http%3A//www.studytemple.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studytemple.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624092716id_/http%3A//www.studytemple.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,15 +24,3 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of Information Heaven then you may contact us at info@studytemple.com
 
 Last updated Sun, 17 Apr 2011 18:18
-
-  * [met-art ILONA A 22 11 2011](http://www.studytemple.com/blog/privacy-policy "met-art ILONA A 22 11 2011")
-  * [akashipade ragistration](http://www.studytemple.com/blog/privacy-policy "akashipade ragistration")
-  * [edwige a erotico met-art blog](http://www.studytemple.com/blog/privacy-policy "edwige a erotico met-art blog")
-  * [met art janelle b noctum](http://www.studytemple.com/blog/privacy-policy "met art janelle b noctum")
-  * [Met-Art - 2011-11-22 - Anabelle A - elusan](http://www.studytemple.com/blog/privacy-policy "Met-Art - 2011-11-22 - Anabelle A - elusan")
-  * [MET-ART 2011-11-22 EDWIGE A - EROTICO](http://www.studytemple.com/blog/privacy-policy "MET-ART 2011-11-22 EDWIGE A - EROTICO")
-  * [met-art nastya-e lumieres med](http://www.studytemple.com/blog/privacy-policy "met-art nastya-e lumieres med")
-  * [nastya e lumires](http://www.studytemple.com/blog/privacy-policy "nastya e lumires")
-  * [Nastya E: “Lumieres”](http://www.studytemple.com/blog/privacy-policy "Nastya E: “Lumieres”")
-
-
