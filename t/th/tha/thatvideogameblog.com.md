@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatvideogameblog.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219073122id_/http%3A//www.thatvideogameblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatvideogameblog.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625000131id_/http%3A//www.thatvideogameblog.com/privacy-policy) for the most accurate reproduction.*
 
 # That VideoGame Blog » Privacy Policy
 
@@ -11,5 +11,9 @@
 **With whom do we share information?** thatvideogameblog.com may share information about you with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information about our users and will not share personally identifiable information with any third party without your express consent. For example, we may disclose how frequently the average thatvideogameblog.com user visits thatvideogameblog.com, or which thatvideogameblog.com pages are most often used. Please be aware, however, that we will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order.
 
 **Quantcast ad delivery.** At times you may see interest based content and ads enabled by Quantcast. If you prefer not to, you can opt-out [here](http://www.quantcast.com/docs/display/legal/Opt-out%2Bof%2BQuantcast%2BDelivery).
+
+To opt out of behavioral targeting, go [here](http://www.networkadvertising.org/managing/opt_out.asp;).
+
+We participate in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising. [Ad choices](http://www.aboutads.info/choices/).
 
 **Changes to this Policy.** By using the thatvideogameblog.com web site, you consent to the collection and use of your information as we have outlined in this policy. Please note this Privacy Policy may change from time to time. When it does, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
