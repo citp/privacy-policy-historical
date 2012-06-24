@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the carseek.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225103703id_/http%3A//www.carseek.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carseek.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625001453id_/http%3A//www.carseek.com/privacy_policy) for the most accurate reproduction.*
 
 # Customer Privacy Policy - Carseek.com
 
-Carseek Privacy Policy and Practices  
 Carseek provides new car information, pictures, and specs as well as offering the service of new car pricing for research and comparison. In order to do this, Carseek requests a small amount of information from its visitors who request a price quote, such as name, zip code, and contact information. 
 
 Carseek Secure Servers  
