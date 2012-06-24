@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jnj.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209151113id_/http%3A//www.jnj.com/wps/wcm/connect/JnJ.Com%2520Development/development/others/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jnj.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625003842id_/http%3A//www.jnj.com/wps/wcm/connect/JnJ.Com%2520Development/development/others/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Johnson & Johnson
-
-Privacy Policy | Safe Harbor Privacy Policy
 
 Privacy Policy 
 
@@ -65,63 +63,6 @@ One Johnson & Johnson Plaza
 New Brunswick, New Jersey 08933 U.S.A.  
 1-732-524-0400
 
+  
 Changes to This Privacy Policy  
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on September 17, 2010.
-
-Safe Harbor Privacy Policy 
-
-Johnson & Johnson and its wholly owned subsidiary, Johnson & Johnson, Services Inc. (referred to collectively herein as "Johnson & Johnson"), is strongly committed to protecting the privacy of those who entrust us with their personal information. Our employees, and all those who do business with us, trust and expect that we will protect their personal information in accordance with the promises we make. In furtherance of our commitment, Johnson & Johnson has certified to the Safe Harbor Agreement between the United States and the European Union, with respect to personal data processed as part of our human resources activities. Accordingly, Johnson & Johnson adheres to the Safe Harbor privacy principles and frequently asked questions, as agreed to by the U.S. Department of Commerce and the European Commission.
-
-Scope  
-This Safe Harbor Privacy Policy sets forth how Johnson & Johnson handles personal data transferred from countries in the European Economic Area (EEA) to the United States that are collected or received in managing our workforce.
-
-Definitions  
-The following terms are used throughout this document and are defined here for clarification.
-
-Agent  
-"Agent" means a third party that processes personal data solely on behalf of and under the instructions of Johnson & Johnson.
-
-Personal Data  
-"Personal data" means any information or set of information that identifies or can reasonably be used to identify an individual. Personal data do not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal information.
-
-Sensitive Personal Data  
-"Sensitive personal data" means personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or that concerns health or sex life. Information will be treated as sensitive personal data where it is received from a third party that treats and identifies it as sensitive.
-
-Privacy Principles  
-The following privacy principles apply to the collection, use and disclosure of personal data by Johnson & Johnson in conducting human resources activities.
-
-Notice  
-Johnson & Johnson will inform individuals about the purposes for which we collect and use personal data about them, how to contact us, the types of non-agent third parties with whom we may share personal data, and any ways that individuals may limit the use and sharing of such data. This notice will be provided when individuals are first asked to provide personal data or as soon thereafter as is practicable.
-
-Choice  
-Johnson & Johnson will offer an individual the opportunity to choose (opt out) whether personal data are (a) shared with a non-agent third party or (b) used for a purpose other than that for which the data were originally collected or subsequently authorized by the individual. For sensitive personal data, Johnson & Johnson will give an individual an affirmative or explicit (opt in) choice if the information is to be disclosed to a third party or used for a purpose other than those for which it was originally collected or subsequently authorized by the individual.
-
-Access  
-Johnson & Johnson will provide individuals with reasonable access to personal data about them and they may request the correction or amendment of personal data that they demonstrate to be incorrect or incomplete.
-
-Transfers to Agents  
-Johnson & Johnson will only transfer personal data to an agent where the agent has provided assurances that the agent provides at least the same level of privacy protection as is required by these privacy principles. Where we have knowledge that an agent is using or sharing personal data in a way that is contrary to these principles, Johnson & Johnson will take reasonable steps to prevent or stop such processing.
-
-Onward Transfer  
-Johnson & Johnson will only transfer personal data to a non-agent third party where consistent with the notice provided to the individuals who are the subject of the data and any consent that those individuals have given.
-
-Information Integrity  
-Johnson & Johnson will only use and share personal data about individuals in a way that is consistent with the purposes for which the data were collected or subsequently authorized by those individuals. To the extent necessary for those purposes, Johnson & Johnson will take reasonable steps to ensure that the data are accurate, complete, and current.
-
-Information Security  
-Johnson & Johnson will take reasonable precautions to protect personal data from loss, misuse and unauthorized access, disclosure, alteration and destruction.
-
-Enforcement  
-Johnson & Johnson has put in place mechanisms to verify our ongoing adherence to these privacy principles. We encourage individuals covered by this Policy to raise any concerns that they have about the way that we process their personal data by contacting us at the address below, and we will do our best to resolve them. We have also agreed to participate in the dispute resolution program provided by the European Data Protection Authorities Panel.
-
-Limitation on Scope of Principles  
-Adherence by Johnson & Johnson to these privacy principles may be limited to the extent required to meet a legal, governmental, national security or public interest obligation.
-
-How to Contact Us  
-Please contact us with any questions about the way in which we use personal data. Employees and former employees of Johnson & Johnson Services, Inc., should contact us at:
-
-Johnson & Johnson  
-Attention: Corporate Communications  
-One Johnson & Johnson Plaza  
-New Brunswick, New Jersey 08933 U.S.A.  
-1-732-524-0400
