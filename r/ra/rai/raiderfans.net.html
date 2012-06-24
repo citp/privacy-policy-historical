@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the raiderfans.net privacy policy that was archived on 2011-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205111306id_/http%3A//www.raiderfans.net/forum/site-news-announcements/176359-raiderfans-net-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the raiderfans.net privacy policy that was archived on 2012-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625013451id_/http%3A//www.raiderfans.net/forum/site-news-announcements/176359-raiderfans-net-privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" id="vbulletin_html"><head>
 <base href="http://www.raiderfans.net/forum/"><!--[if IE]></base><![endif]-->
@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.raiderfans.net/forum">
 
-<meta name="generator" content="vBulletin 4.1.8">
+<meta name="generator" content="vBulletin 4.2.0">
 
 	<link rel="Shortcut Icon" href="http://www.raiderfans.net/forum/favicon.ico" type="image/x-icon">
 
@@ -18,17 +18,32 @@
 
 
 
-	<script type="text/javascript" src="http://www.raiderfans.net/forum/clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=418"></script>
-	<script type="text/javascript" src="http://www.raiderfans.net/forum/clientscript/yui/connection/connection-min.js?v=418"></script>
-
 <script type="text/javascript">
 <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="http://www.raiderfans.net/forum/clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=420"><\/script>');
+		document.write('<script type="text/javascript" src="http://www.raiderfans.net/forum/clientscript/yui/connection/connection-min.js?v=420"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="http://www.raiderfans.net/forum/clientscript/yui/connection/connection-min.js"><\/script>');
+		}
+	}
 	var SESSIONURL = "";
 	var SECURITYTOKEN = "guest";
 	var IMGDIR_MISC = "images/misc";
 	var IMGDIR_BUTTON = "images/buttons";
 	var vb_disable_ajax = parseInt("2", 10);
-	var SIMPLEVERSION = "418";
+	var SIMPLEVERSION = "420";
 	var BBURL = "http://www.raiderfans.net/forum";
 	var LOGGEDIN = 0 > 0 ? true : false;
 	var THIS_SCRIPT = "showthread";
@@ -40,8 +55,8 @@
 	};
 	var AJAXBASEURL = "http://www.raiderfans.net/forum/";
 // -->
-</script>
-<script type="text/javascript" src="http://www.raiderfans.net/forum/clientscript/vbulletin-core.js?v=418"></script>
+</script><script type="text/javascript" src="http://www.raiderfans.net/forum/clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=420"></script><script type="text/javascript" src="http://www.raiderfans.net/forum/clientscript/yui/connection/connection-min.js?v=420"></script>
+<script type="text/javascript" src="http://www.raiderfans.net/forum/clientscript/vbulletin-core.js?v=420"></script>
 
 
 
@@ -52,10 +67,10 @@
 
 
 
-	<link rel="stylesheet" type="text/css" href="http://www.raiderfans.net/forum/css.php?styleid=54&amp;langid=1&amp;d=1322494139&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css,">
+	<link rel="stylesheet" type="text/css" href="http://www.raiderfans.net/forum/css.php?styleid=54&amp;langid=1&amp;d=1339479073&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css,vbseo_buttons.css,vbseo_buttons_fix.css">
 
 	<!--[if lt IE 8]>
-	<link rel="stylesheet" type="text/css" href="http://www.raiderfans.net/forum/css.php?styleid=54&amp;langid=1&amp;d=1322494139&amp;td=ltr&amp;sheet=popupmenu-ie.css,vbulletin-ie.css,vbulletin-chrome-ie.css,vbulletin-formcontrols-ie.css,editor-ie.css" />
+	<link rel="stylesheet" type="text/css" href="http://www.raiderfans.net/forum/css.php?styleid=54&amp;langid=1&amp;d=1339479073&amp;td=ltr&amp;sheet=popupmenu-ie.css,vbulletin-ie.css,vbulletin-chrome-ie.css,vbulletin-formcontrols-ie.css,editor-ie.css" />
 	<![endif]-->
 
 
@@ -75,11 +90,19 @@
 	
 
 	
-		<link rel="stylesheet" type="text/css" href="http://www.raiderfans.net/forum/css.php?styleid=54&amp;langid=1&amp;d=1322494139&amp;td=ltr&amp;sheet=toolsmenu.css,postlist.css,showthread.css,postbit.css,options.css,attachment.css,poll.css,lightbox.css">
+		<link rel="stylesheet" type="text/css" href="http://www.raiderfans.net/forum/css.php?styleid=54&amp;langid=1&amp;d=1339479073&amp;td=ltr&amp;sheet=toolsmenu.css,postlist.css,showthread.css,postbit.css,options.css,attachment.css,poll.css,lightbox.css">
 	
-	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="http://www.raiderfans.net/forum/css.php?styleid=54&amp;langid=1&amp;d=1322494139&amp;td=ltr&amp;sheet=toolsmenu-ie.css,postlist-ie.css,showthread-ie.css,postbit-ie.css,poll-ie.css" /><![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.raiderfans.net/forum/css.php?styleid=54&amp;langid=1&amp;d=1322494139&amp;td=ltr&amp;sheet=additional.css">
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="http://www.raiderfans.net/forum/css.php?styleid=54&amp;langid=1&amp;d=1339479073&amp;td=ltr&amp;sheet=toolsmenu-ie.css,postlist-ie.css,showthread-ie.css,postbit-ie.css,poll-ie.css" /><![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.raiderfans.net/forum/css.php?styleid=54&amp;langid=1&amp;d=1339479073&amp;td=ltr&amp;sheet=additional.css">
+<script type="text/javascript" src="http://www.raiderfans.net/forum/vbseo/resources/scripts/vbseo_ui.js?v=a4"></script>
+<script type="text/javascript">
+ YAHOO.util.Event.onDOMReady(function (){
+ 	vbseoui = new vBSEO_UI();
+ 	vbseoui.page_init(Array('postbody','blogbit','content','postcontainer','vbseo_like_postbit'), Array("php",1));
+ });
+</script>
 
+<link rel="stylesheet" type="text/css" href="http://www.raiderfans.net/forum/css.php?styleid=54&amp;langid=1&amp;d=1339479073&amp;sheet=mobilestyle.css">
 </head>
 
 <body>
@@ -95,7 +118,7 @@
 			
 				<li><a rel="help" href="http://www.raiderfans.net/forum/faq.php">Help</a></li>
 				<li>
-			<script type="text/javascript" src="http://www.raiderfans.net/forum/clientscript/vbulletin_md5.js?v=418"></script>
+			<script type="text/javascript" src="http://www.raiderfans.net/forum/clientscript/vbulletin_md5.js?v=420"></script>
 			<form id="navbar_loginform" action="http://www.raiderfans.net/forum/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
 				<fieldset id="logindetails" class="logindetails">
 					<div>
@@ -190,23 +213,27 @@
 	width:109px;
 	height:80px;
 	z-index:1;
-        left: 300px;
+        left: 240px;
 	top: 60px;
 }
 </style>
 
 
-
+<!-- Ad -->
+<!-- header ad code -->
 <div id="apDiv1">
 <script type="text/javascript" language="JavaScript">
 rnum=Math.round(Math.random() * 100000);
 ts=String.fromCharCode(60);
 if (window.self != window.top) {nf=''} else {nf='NF/'};
 document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/v=2.3S/sz=468x60A|728x90A/'+rnum+'/NI/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/v=2.3S/sz=468x60A|728x90A/22884/NI/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad11345a-map.cgi/ns/v=2.3S/sz=468x60A|728x90A/" target="_top">
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/v=2.3S/sz=468x60A|728x90A/64409/NI/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad11345a-map.cgi/ns/v=2.3S/sz=468x60A|728x90A/" target="_top">
 <img src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/ns/v=2.3S/sz=468x60A|728x90A/" border="0" alt="Click Here" /></a>
 </noscript>
 </div>
+
+<!-- end of header ad code -->
+<!-- end of ad -->
  
 <map name="Map" id="Map">
   <area shape="rect" coords="-1,39,109,77" href="https://market.android.com/details?id=com.vbulletin.build_357&amp;feature=search_result" target="_blank">
@@ -216,115 +243,105 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/
 	<hr>
 </div>
 
- 
+
 
 
 <div id="navbar" class="navbar">
 	<ul id="navtabs" class="navtabs floatcontainer">
 		<li><a class="navtab" href="http://www.raiderfans.net/forum/members/list/" target="_self"> Members</a></li><li><a class="navtab" href="http://www.raiderfans.net/forum/groups/" target="_self"> Groups</a></li>
-	<li>
-	
 		
-	
+	<li id="vbtab_whatsnew">
+		<a class="navtab" href="http://www.raiderfans.net/forum/activity.php">What's New?</a>
+		
 	</li>
 
+	<li id="vbtab_cms">
+		<a class="navtab" href="http://www.raiderfans.net/forum/content/">Articles</a>
 		
-			<li class="selected"><a class="navtab" href="http://www.raiderfans.net/forum/forum.php">Forum</a>
-				<ul class="floatcontainer">
-					
+	</li>
+
+	<li class="selected" id="vbtab_forum">
+		<a class="navtab" href="http://www.raiderfans.net/forum/forum.php">Forum</a>
+		
+			<ul class="floatcontainer">
+				
 					
 						
-						<li><a href="http://www.raiderfans.net/forum/search.php?do=getdaily&amp;contenttype=vBForum_Post">Today's Posts</a></li>
+							<li id="vbflink_bbmenu"><a href="http://www.raiderfans.net/forum/forum.php">Forum Home</a></li>
 						
 					
+				
 					
+						
+							<li id="vbflink_newposts"><a rel="nofollow" href="http://www.raiderfans.net/forum/search.php?do=getnew&amp;contenttype=vBForum_Post">New Posts</a></li>
+						
 					
+				
 					
-					<li><a rel="help" href="http://www.raiderfans.net/forum/faq.php" accesskey="5">FAQ</a></li>
+						
+							<li id="vbflink_faq"><a href="http://www.raiderfans.net/forum/faq.php">FAQ</a></li>
+						
 					
+				
 					
-						<li><a href="http://www.raiderfans.net/forum/calendar.php">Calendar</a></li>
+						
+							<li id="vbflink_calendar"><a href="http://www.raiderfans.net/forum/calendar.php">Calendar</a></li>
+						
 					
+				
 					
-					
-					<li class="popupmenu">
-						<a href="javascript://" class="popupctrl" accesskey="6">Community</a>
-						<ul class="popupbody popuphover">
-							
-							
-								<li><a href="http://www.raiderfans.net/forum/groups/">Groups</a></li>
-							
-							
-								<li><a href="http://www.raiderfans.net/forum/members/albums.html">Albums</a></li>
-							
-							
-							
-								<li><a href="http://www.raiderfans.net/forum/members/list/">Member List</a></li>
-							
-							<!-- AddonChat Interior Nav Link -->
-  
-   
-      
-         <li><a href="http://www.raiderfans.net/forum/addonchat.php" rel="nofollow">Chat Room </a></li>
-                          
-   
-
-<!-- /AddonChat Interior Nav Link --> 
-						</ul>
-					</li>
-					
-					
-					
-					<li class="popupmenu">
-						<a href="javascript://" class="popupctrl">Forum Actions</a>
-						<ul class="popupbody popuphover">
-							<li>
-								<a rel="nofollow" href="http://www.raiderfans.net/forum/forumdisplay.php?do=markread&amp;markreadhash=guest">Mark Forums Read</a>
-							</li>
-                                                        
-						</ul>
-					</li>
-					
-					<li class="popupmenu">
-						<a href="javascript://" class="popupctrl" accesskey="3">Quick Links</a>
-						<ul class="popupbody popuphover">
-							
-							
-							<li><a href="http://www.raiderfans.net/forum/showgroups.php" rel="nofollow">
+						<li class="popupmenu" id="vbmenu_community">
+							<a href="javascript://" class="popupctrl">Community</a>
+							<ul class="popupbody popuphover">
 								
-									View Site Leaders
+									<li id="vbclink_groups"><a href="http://www.raiderfans.net/forum/groups/">Groups</a></li>
 								
-							</a></li>
-							
-							
-							
-							
-							
-							
-						</ul>
-					</li>
+									<li id="vbclink_albums"><a href="http://www.raiderfans.net/forum/members/albums.html">Albums</a></li>
+								
+									<li id="vbclink_members"><a href="http://www.raiderfans.net/forum/members/list/">Member List</a></li>
+								
+								
+							</ul>
+						</li>
 					
-				</ul>
-
-			</li>
+				
+					
+						<li class="popupmenu" id="vbmenu_actions">
+							<a href="javascript://" class="popupctrl">Forum Actions</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbalink_mfr"><a rel="nofollow" href="http://www.raiderfans.net/forum/forumdisplay.php?do=markread&amp;markreadhash=guest">Mark Forums Read</a></li>
+								
+								
+							</ul>
+						</li>
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_qlinks">
+							<a href="javascript://" class="popupctrl">Quick Links</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbqlink_posts"><a href="http://www.raiderfans.net/forum/search.php?do=getdaily&amp;contenttype=vBForum_Post">Today's Posts</a></li>
+								
+									<li id="vbqlink_leaders"><a href="http://www.raiderfans.net/forum/showgroups.php">View Site Leaders</a></li>
+								
+								
+							</ul>
+						</li>
+					
+				
+				
+			</ul>
 		
-		<!-- AddonChat Nav Link -->
+	</li>
 
-     
-      
-         
-            <li><a class="navtab" href="http://www.raiderfans.net/forum/addonchat.php" rel="nofollow">Chat Room </a></li>
-         
-      
-   
-
-<!-- /AddonChat Nav Link --> 
-	<li><a class="navtab" href="http://www.raiderfans.net/forum/blogs/">Blogs</a></li>
-
+	<li id="vbtab_blog">
+		<a class="navtab" href="http://www.raiderfans.net/forum/blogs/">Blogs</a>
 		
-			
-		
-		<li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent url(images/misc/arrow.png) no-repeat right center; padding-right: 15px">PREMIUM</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.raiderfans.net/forum/payments.php" target="_self">Sign up!</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.raiderfans.net/forum/gallery" target="_self">Image Gallery</a></li><li style="text-indent: 0px;"><a rel="nofollow" style="color:rgb(0, 0, 0)" href="http://www.raiderfans.net/forum/search.php?do=getnew&amp;contenttype=vBForum_Post" target="_self">New Posts</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.raiderfans.net/forum/forumdisplay.php/37-Premium-Members" target="_self">Forums</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.raiderfans.net/forum/forumdisplay.php/164-PREMIUM-Downloads!" target="_self">Downloads</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.raiderfans.net/forum/forumdisplay.php/96-The-Raiderettes!" target="_self">Raiderettes</a></li></ul></li><li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent url(images/misc/arrow.png) no-repeat right center; padding-right: 15px">Social</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.twitter.com/raiderfans" target="_blank">Follow us on Twitter</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.facebook.com/pages/Raiderfansnet/118875071946" target="_blank">Become a FAN on Facebook</a></li></ul></li>
+	</li>
+
+		<li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent url(images/misc/arrow.png) no-repeat right center; padding-right: 15px">PREMIUM</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.raiderfans.net/forum/payments.php" target="_self">Sign up!</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.raiderfans.net/forum/gallery" target="_self">Image Gallery</a></li><li style="text-indent: 0px;"><a rel="nofollow" style="color:rgb(0, 0, 0)" href="http://www.raiderfans.net/forum/search.php?do=getnew&amp;contenttype=vBForum_Post" target="_self">New Posts</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.raiderfans.net/forum/forumdisplay.php/37-Premium-Members" target="_self">Forums</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.raiderfans.net/forum/forumdisplay.php/164-PREMIUM-Downloads!" target="_self">Downloads</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.raiderfans.net/forum/forumdisplay.php/96-The-Raiderettes!" target="_self">Raiderettes</a></li></ul></li><li class="popupmenu"><a href="javascript://" class="popupctrl navtab" style="background:transparent url(images/misc/arrow.png) no-repeat right center; padding-right: 15px">Social</a><ul class="popupbody popuphover"><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.youtube.com/silverandblackreport" target="_blank">Subscribe to our YouTube Channel</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.twitter.com/raiderfans" target="_blank">Follow us on Twitter</a></li><li style="text-indent: 0px;"><a style="color:rgb(0, 0, 0)" href="http://www.facebook.com/pages/Raiderfansnet/118875071946" target="_blank">Become a FAN on Facebook</a></li></ul></li>
 		<li class="popupmenu">
 			<a href="javascript://" class="popupctrl navtab">
 				Gallery<img src="http://www.raiderfans.net/forum/images/misc/arrow.png" align="right">
@@ -337,20 +354,20 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/
 			</ul>
 		</li>
 	</ul>
-
 	
-	<div id="globalsearch" class="globalsearch">
-		<form action="http://www.raiderfans.net/forum/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
-			
-			<input type="hidden" name="securitytoken" value="guest">
-			<input type="hidden" name="do" value="process">
-			<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"></span></span>
-			<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"></span></span>
-		</form>
-		<ul class="navbar_advanced_search">
-			<li><a href="http://www.raiderfans.net/forum/search.php" accesskey="4">Advanced Search</a></li>
-		</ul>
-	</div>
+		<div id="globalsearch" class="globalsearch">
+			<form action="http://www.raiderfans.net/forum/search.php?do=process" method="post" id="navbar_search" class="navbar_search">
+				
+				<input type="hidden" name="securitytoken" value="guest">
+				<input type="hidden" name="do" value="process">
+				<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"></span></span>
+				<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"></span></span>
+			</form>
+			<ul class="navbar_advanced_search">
+				<li><a href="http://www.raiderfans.net/forum/search.php" accesskey="4">Advanced Search</a></li>
+				
+			</ul>
+		</div>
 	
 </div>
 </div><!-- closing div for above_body -->
@@ -377,14 +394,15 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/
 
  
 <div id="ad_global_below_navbar"><center>
+
 <!-- BEGIN RICH-MEDIA Burst Media CODE -->
 <script type="text/javascript" language="JavaScript">
 rnum=Math.round(Math.random() * 100000);
 ts=String.fromCharCode(60);
 if (window.self != window.top) {nf=''} else {nf='NF/'};
-document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/v=2.3S/sz=468x60A|728x90A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/v=2.3S/sz=468x60A|728x90A/14579/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad11345a-map.cgi/ns/v=2.3S/sz=468x60A|728x90A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/ns/v=2.3S/sz=468x60A|728x90A/" border="0" alt="Click Here" /></a>
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/v=2.3S/sz=728x90A|970x66A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/v=2.3S/sz=728x90A|970x66A/55986/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad11345a-map.cgi/ns/v=2.3S/sz=728x90A|970x66A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/ns/v=2.3S/sz=728x90A|970x66A/" border="0" alt="Click Here" /></a>
 </noscript>
 <!-- END Burst Media CODE -->
 
@@ -405,10 +423,8 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/
 
 
 
+
 	<div id="above_postlist" class="above_postlist">
-		
-			<a rel="nofollow" href="http://www.raiderfans.net/forum/newreply.php?p=3449142&amp;noquote=1" class="newcontent_textcontrol" id="newreplylink_top">Closed Thread</a>
-			<img style="display:none" id="progress_newreplylink_top" src="http://www.raiderfans.net/forum/images/misc/progress.gif" alt="">
 		
 		<div id="pagination_top" class="pagination_top">
 		
@@ -417,7 +433,7 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/
 			</div>
 		</div>
 	</div>
-	<div id="pagetitle" class="pagetitle">
+	<div id="pagetitle" class="pagetitle"> 
 		<h1>
 			Thread: <span class="threadtitle"><a href="http://www.raiderfans.net/forum/site-news-announcements/176359-raiderfans-net-privacy-policy.html" title="Reload this Page">Raiderfans.net Privacy Policy</a></span>
 		</h1>
@@ -444,7 +460,7 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/
 					
 				</ul>
 			</li>
- <li class="popupmenu" id="threadtools">
+<li class="popupmenu" id="threadtools">
 				<h6><a class="popupctrl" href="javascript://">Thread Tools</a></h6>
 				<ul class="popupbody popuphover">
 					<li><a href="http://www.raiderfans.net/forum/site-news-announcements/176359-raiderfans-net-privacy-policy-print.html" accesskey="3" rel="nofollow">Show Printable Version</a></li>
@@ -471,7 +487,7 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/
 								<input type="text" name="query" class="searchbox" value="Search..." tabindex="13">
 								<input type="submit" class="button" value="Search" tabindex="14">
 							</li>
-							<li class="formsubmit">
+							<li class="formsubmit" id="popupsearch">
 								<div class="submitoptions">&nbsp;</div>
 								<div class="advancedsearchlink"><a rel="nofollow" href="http://www.raiderfans.net/forum/search.php?search_type=1&amp;searchthreadid=176359&amp;contenttype=vBForum_Post">Advanced Search</a></div>
 							</li>
@@ -516,7 +532,7 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/
                         
                                 <span class="postdate old">
                                         
-                                                <span class="date">05-28-2011,&nbsp;<span class="time">02:05 AM</span></span>
+                                                <span class="date">05-28-2011,&nbsp;<span class="time">01:05 AM</span></span>
                                         
                                 </span>
                                 <span class="nodecontrols">
@@ -534,7 +550,7 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/
 				
 					<a rel="nofollow" class="postuseravatarlink" href="http://www.raiderfans.net/forum/members/bk.html" title="BK is offline">
 						
-							<img src="http://www.raiderfans.net/forum/customavatars/avatar368_157.gif" alt="BK's Avatar">
+							<img src="http://www.raiderfans.net/forum/customavatars/avatar368_159.gif" alt="BK's Avatar">
 						
 					</a>
 				
@@ -544,7 +560,6 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/
 	<a rel="nofollow" class="username offline " href="http://www.raiderfans.net/forum/members/bk.html" title="BK is offline"><strong><b>BK</b></strong></a>
 	
 </div>
-
 						<img class="inlineimg onlinestatus" src="http://www.raiderfans.net/forum/images/statusicon/user-offline.png" alt="BK is offline" border="0">
 
 					
@@ -596,7 +611,7 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/
 						<dt>Join Date</dt> <dd>Sep 2002</dd>
 						<dt>Location</dt> <dd>Oakland, California, United States</dd>
 						
-						<dt>Posts</dt> <dd>33,636</dd>	
+						<dt>Posts</dt> <dd>35,787</dd>	
 						<dt>Blog Entries</dt><dd><a href="http://www.raiderfans.net/forum/blogs/bk/">1</a></dd><dt>Downloads</dt><dd>5</dd>
 <dt>Uploads</dt><dd>15</dd> 
 					</dl>
@@ -617,21 +632,12 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/
 		
 				
 					
-					<div id="ad_thread_first_post_content"><!-- BEGIN RICH-MEDIA Burst Media CODE -->
-<script type="text/javascript" language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
-ts=String.fromCharCode(60);
-if (window.self != window.top) {nf=''} else {nf='NF/'};
-document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/v=2.3S/sz=468x60A|728x90A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/v=2.3S/sz=468x60A|728x90A/72932/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad11345a-map.cgi/ns/v=2.3S/sz=468x60A|728x90A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/ns/v=2.3S/sz=468x60A|728x90A/" border="0" alt="Click Here" /></a>
-</noscript>
-<!-- END Burst Media CODE --></div>
+					
 				
 				
 					
 				
-		<div class="content hasad">
+		<div class="content">
 			<div id="post_message_3449142">
 				<blockquote class="postcontent restore">
 					<b>Privacy Policy for Raiderfans.net</b><br>
@@ -659,14 +665,21 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 		</div>
 			
-				
+			
+<div class="vbseo_buttons" id="lkbtn_1.176359.3449142">
+
+    <div class="vbseo_liked" style="display:none"></div>
+
+
+</div>
+	
 			
 				 
 			
 			
 				<blockquote class="signature restore"><div class="signaturecontainer"><div style="text-align: left;"><b><font size="4">Follow Raiderfans.net</font></b></div><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/pages/Raiderfansnet/118875071946" send="false" width="450" show_faces="true" font=""></fb:like><br>
-<a href="http://twitter.com/raiderfans" class="twitter-follow-button" data-show-count="false">Follow @raiderfans</a><br>
-<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script><br>
+<a href="https://twitter.com/raiderfans" class="twitter-follow-button" data-show-count="true" data-lang="en">Follow @raiderfans</a><br>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);j  s.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><br>
 <b>24/7 Coverage of the Oakland Raiders <a href="http://www.sbreport.net" target="_blank">SBReport.net</a><br>
 </b><br>
 <div style="text-align: center;"><br>
@@ -730,8 +743,6 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 <div id="below_postlist" class="noinlinemod below_postlist">
 	
-		<a rel="nofollow" href="http://www.raiderfans.net/forum/newreply.php?p=3449142&amp;noquote=1" class="newcontent_textcontrol" id="newreplylink_bottom">Closed Thread</a>
-	
 	<div id="pagination_bottom" class="pagination_bottom">
 	
 		
@@ -775,11 +786,13 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 	
 	
 	
+	
+	
 	<div class="options_block_container">
 		
 		<div class="options_block2">
-			<h4 class="blockhead">Bookmarks</h4>
-			<div id="social_bookmarks_list" class="thread_info_block blockbody formcontrols floatcontainer">
+			<h4 class="blockhead options_correct">Bookmarks</h4>
+			<div id="social_bookmarks_list" class="thread_info_block blockbody formcontrols floatcontainer options_correct">
 				<h5 class="blocksubhead">Bookmarks</h5>
 				<ul class="icon_list"><li class="smallfont">
 	
@@ -806,11 +819,11 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 		</div>
 		
 		<div class="options_block">
-			<h4 class="collapse blockhead">
+			<h4 class="collapse blockhead options_correct">
 				<a class="collapse" id="collapse_posting_rules" href="http://www.raiderfans.net/forum/site-news-announcements/176359-raiderfans-net-privacy-policy.html#top"><img src="http://www.raiderfans.net/forum/images/buttons/collapse_40b.png" alt=""></a>
 				Posting Permissions
 			</h4>
-			<div id="posting_rules" class="thread_info_block blockbody formcontrols floatcontainer">
+			<div id="posting_rules" class="thread_info_block blockbody formcontrols floatcontainer options_correct">
 				
 <div id="forumrules" class="info_subblock">
 
@@ -819,12 +832,14 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 		<li>You <strong>may not</strong> post replies</li>
 		<li>You <strong>may not</strong> post attachments</li>
 		<li>You <strong>may not</strong> edit your posts</li>
+		<li>&nbsp;</li>
 	</ul>
 	<div class="bbcodeblock">
 		<ul>
 			<li><a rel="nofollow" href="http://www.raiderfans.net/forum/misc.php?do=bbcode" target="_blank">BB code</a> is <strong>On</strong></li>
 			<li><a rel="nofollow" href="http://www.raiderfans.net/forum/misc.php?do=showsmilies" target="_blank">Smilies</a> are <strong>On</strong></li>
 			<li><a rel="nofollow" href="http://www.raiderfans.net/forum/misc.php?do=bbcode#imgcode" target="_blank">[IMG]</a> code is <strong>On</strong></li>
+			<li><a rel="nofollow" href="http://www.raiderfans.net/forum/misc.php?do=bbcode#videocode" target="_blank">[VIDEO]</a> code is <strong>On</strong></li>
 			<li>HTML code is <strong>Off</strong></li>
 <li><a rel="nofollow" href="http://www.raiderfans.net/forum/misc.php?do=linkbacks#trackbacks" target="_blank">Trackbacks</a> are <strong>On</strong></li>
 <li><a rel="nofollow" href="http://www.raiderfans.net/forum/misc.php?do=linkbacks#pingbacks" target="_blank">Pingbacks</a> are <strong>On</strong></li>
@@ -847,7 +862,16 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 
  
- 
+<div id="ad_global_above_footer"><!-- BEGIN RICH-MEDIA Burst Media CODE -->
+<script type="text/javascript" language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+ts=String.fromCharCode(60);
+if (window.self != window.top) {nf=''} else {nf='NF/'};
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/v=2.3S/sz=728x90A/'+rnum+'/NI/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/v=2.3S/sz=728x90A/51984/NI/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad11345a-map.cgi/ns/v=2.3S/sz=728x90A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad11345a.cgi/ns/v=2.3S/sz=728x90A/" border="0" alt="Click Here" /></a>
+</noscript>
+<!-- END Burst Media CODE --></div>
 <div id="footer" class="floatcontainer footer">
 
 	<form action="http://www.raiderfans.net/forum/forum.php" method="get" id="footer_select" class="footer_select">
@@ -856,7 +880,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 		
 			<select name="styleid" onchange="switch_id(this, 'style')">
 				<optgroup label="Quick Style Chooser">
-					<option value="54" class="" selected="selected">-- Away - 2011</option><option value="57" class="">-- Home - 2011</option><option value="61" class="">-- Mobile - 2011</option>
+					
 				</optgroup>
 			</select>	
 		
@@ -903,22 +927,22 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 <!-- END Burst Media CODE -->
 
 <script type="text/javascript" src="http://s.skimresources.com/js/13825X708272.skimlinks.js"></script>
-<div id="footer_time" class="shade footer_time">All times are GMT -7. The time now is <span class="time">04:13 AM</span>.</div>
+<div id="footer_time" class="shade footer_time">All times are GMT -7. The time now is <span class="time">06:34 PM</span>.</div>
 
 <div id="footer_copyright" class="shade footer_copyright">
 	<!-- Do not remove this copyright notice -->
-	Powered by <a href="http://www.vbulletin.com" id="vbulletinlink">vBulletin®</a> Version 4.1.8 <br>Copyright © 2011 vBulletin Solutions, Inc. All rights reserved. 
+	Powered by <a href="https://www.vbulletin.com" id="vbulletinlink">vBulletin®</a> Version 4.2.0 <br>Copyright © 2012 vBulletin Solutions, Inc. All rights reserved. 
 	
-<br>Search Engine Friendly URLs by <a rel="nofollow" href="http://www.crawlability.com/vbseo/">vBSEO</a> 3.5.2<!-- Do not remove this copyright notice -->	
+<br>Search Engine Friendly URLs by <a rel="nofollow" href="http://www.crawlability.com/vbseo/">vBSEO</a> 3.6.0<!-- Do not remove this copyright notice -->	
 </div>
 <div id="footer_morecopyright" class="shade footer_morecopyright">
 	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
 	
 	<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
-	<center><b>Copyright 2002-2011 Raiderfans.net </b><br>Raiderfans.net is an accredited media source which covers all Oakland Raiders’ and Raider related NFL events. All rights reserved. <br>All of the material contained within the web site known as Raiderfans.net are copyrighted by Raiderfans.net and may not be reproduced in any form without the express written permission of Raiderfans.net. This includes text, photos, and audio. </center><br>
-</div>
+	<center><b><a href="http://www.raiderfans.net/team.php">Make NFL bets today...</a><br><br><b>Copyright 2002-2012 Raiderfans.net </b><br>Raiderfans.net is an accredited media source which covers all Oakland Raiders’ and Raider related NFL events. All rights reserved. <br>All of the material contained within the web site known as Raiderfans.net are copyrighted by Raiderfans.net and may not be reproduced in any form without the express written permission of Raiderfans.net. This includes text, photos, and audio. </b></center><b><br>
+</b></div><b>
 
-</div>
+</b></div><b>
 <!-- start -->
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -947,4 +971,4 @@ if(typeof window.orig_onload == "function") window.orig_onload();
 //]]>
 </script>
 
-</body></html>
+</b></body></html>
