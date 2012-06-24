@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessorygeeks.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229204915id_/http%3A//www.accessorygeeks.com/about.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessorygeeks.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624153912id_/http%3A//www.accessorygeeks.com/about.html) for the most accurate reproduction.*
 
 # About Us - Free Shipping.
 
@@ -24,7 +24,7 @@ Need help with a product or have a concern? You don't need a Bat-signal to call 
 
 **What makes her A Geek?**
 
-This month’s Featured Geek is bright, spunky and truly deserves recognition. Melissa encompasses what it means to be A Geek. Standing true to our Geek Values & Culture of our company, Melissa is always communicating, embracing change, is sincerely enthusiastic in everything she does and is bravely unique. From her bright pink hair, right down to her semi-matched socks, Melissa brings great flavor and life to the company. Since the beginning, Melissa has shown strong work ethics and has helped the purchasing department grow & succeed. Perhaps it’s her love of the beach, cats, and music that keeps Melissa calm, cool, and collected but she is great to work with and AccessoryGeeks is proud to have such an outstanding individual on their team.
+This month’s Featured Geek is outgoing, funny, and all around awesome.  Ana exemplifies what customer service should be, and stays true to the Geek values!  She is sincerely enthusiastic with customers, embraces changes with new items, and communicates openly within the office to make sure the customer has the best shopping experience. Ana always shows up to work with a fantastic attitude and a wonderful work ethic.  In between helping customers you might catch her joking around, or snacking on some cheese or Nutella.  Whether it’s taking care of her kids, or taking care of the customers, Ana always has a smile on her face and pep in her step.  AccessoryGeeks is delighted to have such a hardworking, outgoing individual on their team.
 
 |  |   
 |   
