@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decc.gov.uk privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229171442id_/http%3A//www.decc.gov.uk/en/content/cms/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decc.gov.uk privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624082117id_/http%3A//www.decc.gov.uk/en/content/cms/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and cookies - Department of Energy and Climate Change
 
@@ -91,10 +91,42 @@ Expires: at end of session
 
 **Cookies on decc.gov.uk from other companies & social networking websites**
 
-During your visit to the site you may notice some cookies that are not related to decc.gov.uk. This happens when you visit a page with content embedded from a third party (for example YouTube videos) or use some of the links to social networking sites (e.g. Share This). These websites may place cookies on your computer.
+During your visit to the site you may notice some cookies that are not related to decc.gov.uk. This happens when you visit a page with content embedded from a third party (for example [YouTube](http://www.google.co.uk/intl/en/policies/privacy/) videos) or use some of the links to social networking sites (e.g. Share This or [Twitter](http://twitter.com/privacy)). These websites may place cookies on your computer.
 
 DECC does not control how a third party uses their cookies. You should check these third party websites' privacy policies for more information about their cookies if you are concerned about this.
+
+We use [GovDelivery](http://www.govdelivery.co.uk/privacy) for our email alert service.
+
+DECC sometimes uses Citizenspace to run consultations online. The Citizen Space privacy policy is available on [the Citizen Space site](https://delib.zendesk.com/entries/21455358-how-does-citizen-space-comply-with-the-eu-privacy-directive).
+
+**Cookies on**[ **www.groundstability.com**](http://www.groundstability.com/) **\- the Coal Authority Property Search Service   **
+
+Any information provided to the Coal Authority will be held securely and in accordance with the Data Protection Act 1998. Your personal details will not normally be disclosed to third parties. In some circumstances however, we may need to disclose your personal details to a third party so that they can provide a service you have requested, or fulfill a request for information. Any information about you that we pass to a third party will be held securely by that party, in accordance with the Data Protection Act 1998, and used only to provide the services or information you have requested.
+
+The Coal Authority's online Property Search Service ([www.groundstability.com](http://www.groundstability.com/)) uses the Google Analytics cookies outlined above, with additional cookies being required in order to run the application and to enable shopping basket functionality. These are not permanent however and expire after you have left the site.
+
+Cookies set specifically by the Coal Authority Property Search Service:
+
+Name: JSESSIONID.   
+Typical content: random number.  
+Expires: at end of session (or upon logging out).
+
+Additional third party cookies set during use of the Coal Authority Property Search Service:
+
+Name: JSESSIONID.   
+Typical content: random number.  
+Expires: at end of session (or upon logging out).
+
+Name: machine.   
+Typical content: random number.  
+Expires: at end of session (or upon logging out).
+
+Contact name, address and email information is also gathered from you for use in the production of a coal mining report only. This information is not disclosed to third parties and is stored on a secure server. Card payment details are not stored by the Coal Authority and are processed entirely by WorldPay.
+
+Please be aware that restricting cookies may impact on the functionality of the Coal Authority’s Property Search Service.
 
 ### iii) Log files
 
 Log files allow us to record visitors' use of the site. The Department may use log file information to make improvements to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information about you.
+
+### Video: How Government websites use cookies
