@@ -1,115 +1,74 @@
-> *The following text is extracted and transformed from the uwad.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419014312id_/http%3A//uwad.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwad.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624114026id_/http%3A//uwad.com/privacy.html) for the most accurate reproduction.*
 
-# Ultimate Web Advertising (uwad.com) : Privacy Policy
+# ¤¤ SEO Booster ::: Instant Web Site Generator and Search Engine Optimization Supplementary Tool ¤¤
 
-** Privacy Policy Statement  **  (Last Modified: June 6, 2005)
+**SEO Booster Privacy Policies and Practices**
 
-Cyruslogix Software Solutions (and all its website) respects your right to personal privacy and confidentiality. We have created this privacy statement to demonstrate our commitment to privacy.
+This privacy policy sets out how “SEO Booster & Marsoft LLC ” uses and protects any information that you give “SEO Booster & Marsoft LLC ” when you use this website.
 
-**What This Privacy Policy Covers**
+“SEO Booster & Marsoft LLC ” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-  * This policy covers how  Cyruslogix Software Solutions (and all its website) treats personal information that  Cyruslogix Software Solutions (and all its website) collects and receives, including information related to your past use of  Cyruslogix Software Solutions (and all its website) products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+“SEO Booster & Marsoft LLC ” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 10/20/2011.
 
-  * This policy does not apply to the practices of companies that  Cyruslogix Software Solutions (and all its website) does not own or control, or to people that  Cyruslogix Software Solutions (and all its website) does not employ or manage. 
+**What we collect**
 
+We may collect the following information:
 
+**name and job title**
 
+1\. contact information including email address
 
-**Information Collection and Use**
+2\. demographic information such as postcode, preferences and interests
 
-  * Cyruslogix Software Solutions (and all its website)  is the sole owner of the information collected on this site. We do not sell, rent, share or provide your private information to other firms or individuals. Currently, information is collected on our web sites from several different sources: 1) ordering, 2) contest entries, 3) bug reports, 4) feature requests and 5) subscription lists.
+3\. other information relevant to customer surveys and/or offers
 
+**What we do with the information we gather**
 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
+**Internal record keeping**
 
-** Information Sharing and Disclosure**
+1\. We may use the information to improve our products and services. 
 
-  * Cyruslogix Software Solutions (and all its website) does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-  * We provide the information to trusted partners who work on behalf of or with Cyruslogix Software Solutions (and all its website) under confidentiality agreements. These companies may use your personal information to help Cyruslogix Software Solutions (and all its website) communicate with you about offers from Cyruslogix Software Solutions (and all its website) and our marketing partners. However, these companies do not have any independent right to share this information. 
-  * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Cyruslogix Software Solutions (and all its website) to collect and use their child's information without consenting to Cyruslogix Software Solutions (and all its website) sharing of this information with people and companies who may use this information for their own purposes; 
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Cyruslogix Software Solutions (and all its website)' terms of use, or as otherwise required by law. 
-  * We transfer information about you if Cyruslogix Software Solutions (and all its website) is acquired by or merged with another company. In this event, Cyruslogix Software Solutions (and all its website) will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+2\. We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
 
-
-
-** Confidentiality and Security **
-
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-
-
-
-
-**Ordering**
-
-  * We require information from the user on our product order forms, such as contact information (name, address, telephone number) and credit card information. The information we collect is used to process and fulfill your order. We maintain the information you provide in a customer database (except for credit card information) to have record that you are a licensed customer for sending upgrade notices and the like. This information may also be used to contact the user in case of problems with the order. We do not maintain a database of personal credit card information.
-
-
-
-
-**Contest Entries**
-
-  * Basic name, address and e-mail information is requested of all sweepstake contest entrants. This is so we can notify contest winners and know where to send the software prizes. The information collected from our contests is not disclosed to any outside party.
-
-
-
-
-**Bug Reports, Feature Requests**
-
-  * We ask for basic name and email information so we can request additional information if necessary. We may also contact you when a bug you reported is fixed or a feature you requested is implemented.
-
-
-
-
-**Subscription Lists**
-
-  * We currently have an e-mail subscription service for some of our products. This may expand to other products in the future. Subscribers are notified of any updates or enhancements to our program. The only information required is an e-mail address. Users may opt out of this service at any time by un-subscribing to our e-mail notification service. The e-mail addresses collected are not distributed to other firms or individuals.
-
-
-
-
-**Links to Other Web Sites**
-
-  * Cyruslogix Software Solutions (and all its website) websites contain links to other Internet sites. We encourage all of our partners, contributors and third party links to implement policies and practices that respect the privacy of our visitors. However, Cyruslogix Software Solutions (and all its website)  is not responsible for the privacy practices or the content of other websites.
-
-
-
-
-**Cookies**
-
-  * We do not use cookies to track any personally identifiable information. Cookies may be used when ordering online to store shopping cart information. Some of the banner advertisers on our web sites may use cookies to rotate advertising banners.
-
-
-
-
-**Parents**
-
-  * Cyruslogix Software Solutions (and all its website)  has no intention of collecting any personally identifiable information from individuals under thirteen years of age. If a child has provided us with personally identifiable information, please [contact us](https://web.archive.org/web/20060419014312id_/http%3A//uwad.com/contact/contactform.htm) at  if you would like this information deleted from our records. We will make all reasonable efforts to delete the child's information from our databases.
-
-
-
+3\. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 **Security**
 
-  * Cyruslogix Software Solutions (and all its website)  takes every precaution to keep all information from our online visitors as secure as possible against unauthorized access and use. All information is protected by our security measures, which are periodically reviewed.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or calling us at: (505) 990-0845.
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:  
+2701 San Pedro Dr NE Suite #4 Albuquerque, NM 87110 United States of America  
 
 
-
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
   
-**Notification of Changes**
-
-  * Please note that from time to time we review our privacy practices, and that our current practices are subject to change without any notice. We encourage our visitors and affiliates to periodically review this page to become familiar with our privacy statement and any possible changes. If you have any questions or comments about our privacy practices, you may [contact us](https://web.archive.org/web/20060419014312id_/http%3A//uwad.com/contact/contactform.htm). 
 
 
+* * *
 
-
-**Cyruslogix Software Solutions**
-
-Cyruslogix Software Solutions, LLC.  
-Customer Care - Privacy Policy Issues  
-11209 Faye NE  
-Albuquerque, NM 87111  
-(505)  553-1139
+Last Update : 10/20/2011 
