@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aynrand.org privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224133637id_/http%3A//www.aynrand.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aynrand.org privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624100938id_/http%3A//www.aynrand.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
 # The Ayn Rand Institute: Privacy Policy
 
