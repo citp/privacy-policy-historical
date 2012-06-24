@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the permuto.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116174116id_/http%3A//www.permuto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the permuto.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625000103id_/http%3A//www.permuto.com/privacy-policy) for the most accurate reproduction.*
 
 # Buysight: Privacy Policy
 
@@ -91,5 +91,5 @@ U.S. Mail:
 
 Buysight, Inc.  
 Attn: Privacy  
-550 College Ave  
-Palo Alto, CA 94306
+945 Stewart Dr.  
+Sunnyvale, CA 94085
