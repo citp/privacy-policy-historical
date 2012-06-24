@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaggle.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213210541id_/http%3A//www.kaggle.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaggle.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624053538id_/http%3A//www.kaggle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Kaggle
 
