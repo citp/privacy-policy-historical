@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spriters-resource.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225222734id_/http%3A//vg-resource.com/%3Fpage_id%3D226) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spriters-resource.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624202520id_/http%3A//vg-resource.com/%3Fpage_id%3D226) for the most accurate reproduction.*
 
 # Privacy Policy
 
