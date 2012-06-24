@@ -1,72 +1,106 @@
-> *The following text is extracted and transformed from the perion.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112044644id_/http%3A//www.perion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perion.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624053356id_/http%3A//www.perion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Perion
 
-**Privacy Policy**  
-Thank you for visiting [www.perion.com](https://web.archive.org/web/20111112044644id_/http%3A//www.perion.com/www.perion.com) (together with all content on this site operated by Perion Network Ltd ., or its affiliates (“Perion”, “Us”, “We” or “Our”) (the “Site”)). Your privacy is important to Us. To better protect your privacy, We provide this privacy policy (“Privacy Policy”) explaining Our online information practices and the choices you can make about the way your information is collected and used at this Site. This Privacy Policy forms part of the Terms of Use, available at [www.perion.com](https://web.archive.org/web/20111112044644id_/http%3A//www.perion.com/www.perion.com) By using this Site or the Service you consent to the data practices described in this Privacy Policy.
+**Perion Privacy Policy**
 
-**THE SITE**  
-We do not request nor collect any personal information from users who simply visit the Site.  
-We are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with Us.  
-“Personal Information” means any information that may be used to identify an individual, including, but not limited to, a first and last name, pen name, personal profile, a home or other physical address and an email address or other contact information.  
-Currently, We do not require you to create an account or to provide Personal Information in order to have access to information available on Our Site. However, in the future, in order to provide you with certain services given under the Site, you might be required to create an account (“Account”) and provide Us with your email address, a password that you will use for your Account and other specified information. In such case We will send you an email to your email address to instruct you how to confirm your registration.
+THIS STATEMENT APPLIES TO PERION NETWORK LTD. AND ITS SUBSIDIARIES’ (“PERION”) INFORMATION COLLECTION AND USE POLICIES WITH RESPECT TO USE OF THE WEBSITE, SERVICES AND PRODUCTS. BY USING THE WEBSITE, SERVICES OR PRODUCTS, YOU CONSENT TO THE DATA PRACTICES AND INFORMATION COLLECTION AS DESCRIBED IN THIS STATEMENT. PERION IS COMMITTED TO PRESERVING THE PRIVACY OF OUR USERS. THIS PRIVACY STATEMENT EXPLAINS WHICH INFORMATION WE COLLECT AND HOW WE USE IT.
 
-****THE WAY WE USE PERSONAL INFORMATION****  
-In the event that you will submit Personal Information to Us through the Site, We will use your Personal Information to improve Our services to you, to contact you and to identify and authenticate your access to the Site’s services that you are authorized to access.  
-We may transfer your Personal Information within Perion or to Perion third-party service providers, but only to provide services on the Site or to you, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.  
-We may provide Personal Information and non-personally-identifiable information to Our directors, officers, employees, subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on Our behalf. We will require that these parties agree to process such information in compliance with Our Privacy Policy, and We will use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.  
-We may also use your email address to send updates, a newsletter or news regarding Our developments. You may choose not to receive email of this type by sending a single email with the subject “BLOCK” to [vipsupport@perion.com](mailto:vipsupport@perion.com).  Please note that the email must come from the email account you wish to block.
+IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS SET FORTH HEREIN, DO NOT USE THE SERVICES, WEBSITES, AND PRODUCTS MADE AVAILABLE BY PERION (the “SERVICES”).
 
-**COOKIES**  
-Some of Our Site pages utilize “cookies” and other tracking technologies. “Cookies” are pieces of information that are placed on an individual’s computer hard drive to enable the individual to more easily communicate and interact with the Service and Web Site.  
-Some cookies and other technologies may serve to recall Personal Information previously indicated by a Site user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.  
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter certain identifying information, should We in the future require such information, to gain access to certain parts of the Site.  
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that Our Site is accessed.  
-Perion may use cookies to save certain information about a user and others who visit the Site, in order to facilitate and enhance future activities with the Site, to improve Our Site and your web experience. Perion does not use cookies to retrieve information from a computer that is unrelated to the Service.  
-Perion currently contracts with several online partners to help manage and optimize its Internet business and communications. Perion uses the services of a marketing company to help it measure the effectiveness of its advertising and how visitors use this Site. To do this, Perion uses Web beacons and cookies provided by Perion’s marketing company on the Site. The type of information Perion collects includes the pages visited. By supplementing Perion ‘s records, this information helps Perion learn things like what pages are most attractive to visitors of the Site. Although Perion’s marketing company manages the information coming from the Site on behalf of Perion, Perion controls how that data may and may not be used.  
-We may use an outside advertising company to display advertisements on the Site. These ads may contain cookies, web beacons, clear gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The advertisement company may collect cookies received with outside ad banners. We do not have access to information that would confirm the use of cookies by the advertising company. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by Our Privacy Policy.
+**THE SITE AND SERVICES**
 
-**IP ADDRESSES**  
-An Internet Protocol address is a number that’s automatically assigned to a computer when using the Internet. Web servers can automatically identify individual computers by their IP address. Perion may collect IP addresses to Facilitate system administration, diagnose system problems, report aggregate user information and avoid hacking attacks on the Perion server.  
-Perion does not link IP addresses to any personally identifiable information, even if such information is voluntarily provided by a user.
+We do not request nor collect any personal information from Users who simply visit Perion’s websites (“Website(s)”). Prior to and after downloading and use of any of Perion Services and Websites, Users will be asked to provide certain required and optional information, and information collected from your interaction with Perion Services(collectively “Information”), as described and explained more fully throughout this Privacy Policy. Some of the Perion Services will, among other things, enable Users to send Messages and/or Content to other people (both Users and non-Users). Subject to all general security limitations inherent in communicating via the Internet, a Message will not be generally accessible to Users or others who are not intended recipients of the Message. Please use the same discretion when sending Messages through the Service as you would when sending ordinary electronic mail.  Perion may post from time to time newsletters, as well as subscribe/unsubscribe forms. These forms may ask for a valid email address. This information will be used solely for the purpose of subscription to or unsubscription from the Perion newsletter list. You will be provided with an opt-in choice to receive e-mail newsletters and updates upon registration.
 
-**OTHER WEB SITES; LINKS**  
-The Site may contain links to other Web sites. Perion is not responsible for the privacy practices or the content of such Web sites.  
-The Site also links to 3rd party e-commerce solutions that collect the purchaser’s name, email address, mailing address, credit card number, and expiration date when ordering licenses to Perion products. This allows them to process and fulfill orders and provide notification of the order status.
+As part of the Services, you may from time to time upload images, photos, documents, information and/or any other content (“Content”). You understand that the Content may include personally identifiable information which will be protected in accordance with this Privacy Policy and shall be considered as Information for the purpose of this privacy policy and will be used by Perion only for the purposes for which it was collected in order to provide the Services.
 
-**NOTICE**  
-Except as set forth in this Privacy Policy, We do not currently provide your Personal Information to third parties, except for third parties who may perform services on the Site or to you.  
-Nevertheless, We may at a later time choose to make certain offers or services available to Our users from third parties. If We do, during the registration process, if any, and at certain points thereafter in connection with specific offers, We may ask you whether your Personal Information may be sent to third parties who have products, services and opportunities which may be useful to you. If you give your permission to allow third parties to contact you, your Personal Information (such as your contact information and other information collected during your visit to Our Site) may be shared with data aggregators, marketers (possibly in the form of list rental), and other organizations. Perion does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Perion‘s behalf unless such transfer is legally required. Regardless of your decision regarding the sharing of your Personal Information, We may share broad aggregate demographic data and related usage information with Our business partners. This aggregate information does not contain any Personal Information that can identify an individual user.
+While there is no such thing as “perfect security” on the Internet, we will take all reasonable steps to insure the safety of the Information.
 
-**CONSENT TO PROCESSING**  
-Users, including without limitation, users in the European Union, fully understand and unambiguously consent to the collection and processing of their personally identifiable and non-personally identifiable information, in the United States.
+**INFORMATION COLLECTED THROUGH USE OF THE SERVICES   **
 
-**LEGAL DISCLOSURE OF INFORMATION**  
-Notwithstanding anything to the contrary in this Agreement, Perion shall, pursuant to valid legal process such as a search warrant, subpoena or court order, allow access to all available and relevant information, including users’ IP addresses, in order to comply with such valid legal process and to otherwise protect Perion’s rights and property. If warranted, Perion may also allow access to this information in special emergencies where physical safety is at risk.
+Perion may collect Information when you interact with the Perion Services, depending on how you use the Perion Services, the Information, may include: ****
 
-**SECURITY**  
-While there is no such thing as “perfect security” on the Internet, we will take all reasonable steps to insure the safety of your personally identifiable information.
+a)      Certain technical information gathered or received when you use the Perion Services. Some of the technical information that may be collected or received includes: Your manner of connecting to the Internet, such as the type of browser you are using, operating system and domain name of you Internet service provider; and Internet protocol (IP) address, as further explained below;
 
-**CHOICE; OPT OUT**  
-Our Site provides users the opportunity to opt-out of receiving certain communications from us. If you do not want to receive communications from us, please contact our customer service center by clicking here.  
-In addition, You may choose whether or not to provide Personal Information Perion. The notices We will provide where Perion collects Personal Information on the Site should help you to make this choice. If you choose not to provide the Personal Information We request, you can still visit most of the Site, but you may be unable to access certain options, offers, and services that involve Our interaction with you.
+b)      Information made available by you in public Areas;
 
-**ACCESS/ACCURACY**  
-To the extent that you do provide Us with Personal Information, Perion wishes to maintain accurate Personal Information.
+c)      Registration-related information (such as name, home or work addresses, e-mail addresses, telephone and fax numbers, birth date or gender);
 
-**CHILDREN’S PRIVACY**  
-The Site is not structured to attract children under the age of 13. Accordingly, We do not intend to collect Personal Information from anyone We know to be under 13 years of age.
+d)     Transaction-related information (such as credit card or other preferred means of payment, (that we maintain in encrypted form on industry secure servers), billing or shipping information, or a history of products purchased through the Perion Services;
 
-**IN THE EVENT OF MERGER, SALE, OR BANKRUPTCY**  
-In the event that Perion is acquired by or merged with a third party entity, We reserve the right, in any of these circumstances, to transfer or assign the information We have collected from Our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of Our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, We may not be able to control how your Personal Information is treated, transferred, or used.
+e)      Information about your visits and use of  the various Perion Services, offerings and advertisements that you view/use, how you use them, how frequently you use them,  your responses to the offerings and advertisements presented on these Perion Services, and other related information regarding your usage of Perion Services;
 
-**COMMITMENT**  
-We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and Perion Site is constantly evolving to meet these demands. If you have any comments or questions regarding Our Privacy Policy, please contact Us at [vipsupport@perion.com](mailto:vipsupport@perion.com). While We cannot guarantee privacy perfection, We will address any issue to the best of Our abilities as soon as possible.
+f)       Information about mobile devices used to access Perion including UDID (Unique Device Identifier);
 
-**YOUR CONSENT**  
-By using this Site, you consent to the terms of Our Privacy Policy and to Perion processing of Personal Information for the purposes given above. If you do not agree to this Privacy Policy, please do not use Our Site. We reserve the right, at Our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time. Your continued use of Our Site following the posting of changes to these terms means you accept these changes.
+g)      In addition, many software versions provided by Perion (“Software”) are configured to automatically report back information relating to computer errors arising in connection with use of the Software, without notice to you. Information on your Software configuration settings may be included. This data is sent to Perion to help us diagnose performance issues with, and improve, the Software.
 
-**CHANGES TO THIS STATEMENT**  
-Perion will occasionally update this Privacy Policy. When we do, we will also revise the “Effective Date” of the Privacy Policy. For material changes to this Statement, Perion will notify you by placing prominent notice on the Web site. We encourage you to periodically review this Privacy Policy to be informed of how Perion is helping to protect your information.
+Your Information is usually automatically collected and stored in log files of the Services’ computer servers and may be supplemented with additional information from other companies. All computers setting information will neither contain nor be linked to any personally identifiable information.
 
-Effective Date: November 9, 2011
+**OUR USE OF THE INFORMATION   **
+
+Perion gathers Information in order to better understand how users, as a group, use the software and the various features thereof, as well as to help Perion tailor offerings to user groups with specific profiles, and to conduct market research. The parameters and the usage patterns may be used in the aggregate for commercial purposes, including without limitation, for marketing, co-registration to other services, promotional activities or any other activity, including, without limitation, the protection of Perion’s proprietary and other rights all subject to the provisions herein. Perion will process the Information only for specific and limited purposes. We ask for and collect data that is adequate, relevant and not excessive for those purposes. Perion will use the Information to provide Users with important information about the Services (such as upgrades, modifications, etc.), to announce new products and services available to Users and to send you marketing and advertising material subject to your consent. You can decline to submit personally identifiable information, in which case Perion may not be able to provide you with Services ****
+
+Perion will only use personally identifiable information to create aggregate, non-personal reports about the Users of the Service, and to generate aggregate statistical studies and conduct research related to the Services and the use of the Website and provide Users with certain content that may be of interest to that User based on the Information. We use and store this data only on a collective basis, in summary form, rather than on an individual basis. This data helps us to determine how and the extent to which certain parts of our Website and the Services are used.
+
+Except as expressly set forth herein and/or as necessary to perform the functions of the Service, Perion will not share, sell or lease any personally identifiable information about any User to any third party for any secondary purposes without that User’s permission.
+
+Perion only shares your personally identifiable information with other companies or individuals in the following limited circumstances:
+
+  * We have your consent.
+  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing on our behalf.
+  * We have a good faith belief that access, use, preservation or disclosure of such information  is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request,  
+(b) enforce applicable agreements and/or their terms, including investigation of potential violations thereof,  
+(c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Perion, its users or the public as required or permitted by law.
+  * If we become involved in a merger, acquisition, or any form of sale of some or all of our assets.
+
+
+
+We require that these parties agree to process such information based on our instructions, in compliance with this Privacy Policy and/or comply with adequate level of protection regarding the data and shall not further transfer the data.
+
+**CHOICE; OPT OUT**
+
+Our Website provides Users the opportunity to opt-out of receiving certain communications from us. If you do not want to receive communications from us, please contact our customer service center in the following URL: <http://www.incredimail.com/english/help/support.aspx>
+
+**ACCESS TO INFORMATION; UPDATE**
+
+A User may review and update his personal information provided by him by accessing the Software settings.  We take reasonable steps to ensure that the personal information is kept accurate, complete, and current, but we depend on our Users to update or correct their personal information whenever necessary. Upon receipt of your written request and enough information to permit us to identify you, we will disclose to you the information we hold about you. We will also correct, amend or delete any personal information that is inaccurate and notify any third party recipients of the necessary changes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required. You agree that Perion may retain (but shall have no obligation to retain) your data for a limited reasonable period after your use of or license to Perion Services has been terminated, expired, or otherwise lapsed, for the sole purpose of enabling you to renew your use of or license to the Services shortly thereafter, after such period the data shall be erased.
+
+**COOKIES**
+
+“Cookies” are pieces of information that are placed on an individual’s computer hard drive to enable the individual to more easily communicate and interact with the Service and the Website. Perion may use cookies to save certain information about a User and others who visit the Website, in order to facilitate and enhance future activities with the Services and/or Website. Perion does not use cookies to retrieve information from a computer that is unrelated to the Service. Perion currently contracts with several online partners to help manage and optimize the Services and measure the effectiveness of its advertising and how visitors use the Website. To do this, Perion uses Web beacons and cookies provided by Perion’s marketing companies on the Website. The type of information Perion collects includes the User’s IP address (as further described below), pages visited, the product codes and prices that visitors purchase and coupons that were used during purchase. This information helps Perion learn things such as what pages are most attractive to visitors of the Website, which of Perion’s products most interest its customers, and what kinds of offers our customers like to see.
+
+We may use an outside advertising company to display advertisements on the Website and Services. These third parties also may use cookies, pixel tags, and other technologies to, among other things, enable such third parties to record which ads your browser has loaded and which site pages you may have been viewing when the ads were delivered or accessed. Use of such third-party sites is subject to the terms of use and privacy policies of those third parties. The advertisement company may also collect cookies received with outside ad banners. In addition, we may use third party advertisers to serve or track advertisements on websites. We do not have access to information that would confirm the use of cookies by the advertising company. Perion does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.  Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Services may not function properly if your cookies are disabled. By using any Perion Services, you have affirmatively consented to the collection of information and cookies as described above.
+
+**IP ADDRESSES**
+
+An Internet Protocol address is a number that is automatically assigned to a computer when using the Internet. Web servers can automatically identify individual computers by their IP address. Perion may collect IP addresses to: Facilitate system administration; Diagnose system problems; Report aggregate User information; and Avoid hacking attacks on the Perion server. Perion does not link IP addresses to any personally identifiable information, even if such information is voluntarily provided by a User.
+
+**OTHER WEB SITES; LINKS**
+
+The Services may contain links to other Web sites. Perion is not responsible for the privacy practices or the content of such Web sites.  Some of these offerings are provided by third parties who may provide you with additional information and choices about your privacy. If you choose to take advantage of these offerings, you should read the privacy policies of such third parties.
+
+**SOCIAL NETWORK SERVICES**
+
+Perion may offer to Users of Perion Services, additional features and services that provide access to social networks. The use of such social network is governed by the terms of such social network. You can sign in to your social network Website through some of Perion Services, features and services. When you elect to sign in, you will be asked to grant us access to certain information from your social network profile. This information may include friends or contacts lists, notes, updates and photos, and may be used by Perion to help you personalize your experience with Perion Services, suggest new features and content that may be relevant to you or provide Perion with data for statistical purposes. If you elect to permit Perion access this information, Perion will be able to see and use this information and thus you may be changing your preexisting privacy settings, however, Perion does not have control over privacy settings in your social network account. Please see your social network provider policies for any questions or concerns. All information gathered via social network services shall be considered as Information as referenced throughout this Privacy Policy. The Information will be protected and used by Perion in accordance with this Privacy Policy. It is important to stress that Perion does not sell or rent any personally identifiable information it compiles to any third parties. Perion may provide non-identifiable, general statistical and demographic information to its publishers from time to time. You may opt not to grant Perion access to your social network account(s) at any time by changing your social network settings or by not authorizing access. ****
+
+**CHILDREN**
+
+If you are a child under the age of 18, you must obtain parental consent prior to using our Services. Perion will not knowingly contact or engage with children under the age of 18 without said parental consent. If you have reason to believe that a child has provided us with their personal information, please contact us at the address given above and we will endeavor to delete that information from our databases.
+
+**CONSENT** **TO** **PROCESSING/INTERNATIONAL TRANSFER**
+
+By providing any personally identifiable information to us pursuant to this Privacy Policy, all users, including, without limitation, users in the United States, Israel and member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the collection and processing of such information abroad. The server on which the Website is hosted may be outside the country from which you access the Website and may be outside your country of residence. Some of the uses and disclosures mentioned in this Privacy Policy may involve the transfer of your personally identifiable information to various countries around the world that may have different levels of privacy protection than your country. By submitting your personally identifiable information through the Services, you consent, acknowledge, and agree that we may collect, use, transfer, and disclose your personally identifiable information as described in this privacy policy. If you do not consent to the terms of this Privacy Policy, please do not use the Services.
+
+**CHANGES TO THIS POLICY**
+
+If we decide to change this Privacy Policy, we will post these changes on the Website or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently.
+
+**ENFORCEMENT**
+
+Perion regularly reviews its compliance with this Privacy Policy. When we receive formal written complaints, it is Perion’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer the Information that cannot be resolved between Perion and an individual. ****
+
+**CONTACT US**
+
+If you have any questions or concerns about this Privacy Policy, please feel free to contact us by email to: [privacy@perion.com](mailto:privacy@perion.com).
+
+Last Updated: February16, 2012
