@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the bahu.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102221155id_/http%3A//www.sofamous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bahu.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624092558id_/http%3A//www.sofamous.com/privacy) for the most accurate reproduction.*
 
-# Sofamous | Privacy
+# Sofamous | Polityka Prywatności
 
-Privacy
+[](https://web.archive.org/)
+
+Polityka Prywatności
 
 This Privacy Policy applies to your use of the Sofamous website at sofamous.com
 
