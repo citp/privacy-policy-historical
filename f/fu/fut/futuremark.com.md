@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futuremark.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230004109id_/http%3A//www.futuremark.com/companyinfo/legal/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuremark.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624021626id_/http%3A//www.futuremark.com/companyinfo/legal/privacystatement) for the most accurate reproduction.*
 
 # Futuremark - world's most popular benchmarks and PC performance tests - Company Info - Privacy & Legal - Privacy Statement
 
