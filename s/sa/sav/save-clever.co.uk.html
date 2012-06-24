@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the save-clever.co.uk privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124113729id_/http%3A//save-clever.co.uk/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the save-clever.co.uk privacy policy that was archived on 2012-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120624225150id_/http%3A//save-clever.co.uk/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 			<title>Privacy Policy - save-clever.co.uk</title>
@@ -10,8 +10,8 @@
 			<meta name="language" content="english, EN">
 
 			
-			<meta name="description" content="">  
-       		<meta name="keywords" content="">       
+			<meta name="description" content=" ">
+			<meta name="keywords" content="">       
        		
        		
 			<meta name="google-site-verification" content="wkRPI56IHIkS-LOYbn3PwvMBH8U4iQPsUf9gVHrYIRQ">
@@ -23,13 +23,12 @@
 			<link rel="icon" href="http://static.dusparst.com/images/favicon/favicon.ico" type="image/x-icon">
 			<link rel="shortcut icon" href="http://static.dusparst.com/images/favicon/favicon.ico" type="image/x-icon">
 			
-		
+					
 			<style type="text/css">
 				@import url("http://static.dusparst.com/themes/w11/css/global-v2.css");
 				@import url("http://static.dusparst.com/themes/w11/css/toolbox-v3.css");
-				
-								@import url("http://static.dusparst.com/themes/w11/css/dusparst.css");
-								@import url("http://static.dusparst.com/themes/w11/css/dusparst/thickbox.hack.v2.css");
+				@import url("http://static.dusparst.com/themes/w11/css/dusparst.css");
+				@import url("http://static.dusparst.com/themes/w11/css/dusparst/thickbox.hack.v2.css");
 					
 				div.pr div.img_container
 {
@@ -122,7 +121,7 @@ div.pr div.item_button
 			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.dusparst.com/js/jquery-latest.js"></script>
 			<script type="text/javascript" src="http://static.dusparst.com/js/thickbox-2011070501.js"></script>
 			<script type="text/javascript" src="http://www.google.com/adsense/search/ads.js"></script>
-			
+
 			<script type="text/javascript">
 
 	var query = "";
@@ -133,6 +132,8 @@ div.pr div.item_button
 	var currentPage = "";
 	var maxPages = "";
 	var isLoading = false;
+
+	window.google_analytics_uacct = "UA-16536439-1";
 
 	var lang = "en";
 
@@ -147,25 +148,34 @@ div.pr div.item_button
 
 	var _tb_close = "close";
 
+	var sortLog = "Sort Log, ";
 
 	var pageOptions = {
-	        'hl' : lang,
-	        'gl' : lang,
+	        'hl' : 'en',
+	        'gl' : 'uk',
 	        'pubId' : 'pub-9296537736967866',
 	        'query' : query,
+
+		    'titleBold' : true,
+	        'rolloverAdBackgroundColor' : '#E0E0E0',
+	        'rolloverLinkColor' : '#FFFFFF',
+	        'rolloverLinkBackgroundColor' : '#FF531D',
+	        'sellerRatings' : false,
+	        'siteLinks' : false,
+
 	        'channel': '6111319271'
       };
 
 	var adBlock1 = {
 			 'container' : 'afs_ads1',
-			 'number' : '5',
-			 'lines' : '1',
+			 'number' : '4',
+			 'lines' : '2',
 			 'fontSizeTitle' : '16px',
 			 
 			 'colorText' : '#A2A0A2',
 		     'colorTitleLink' : '#1c6797',
 			 'colorBackground' : '#F1F1F1',
-		     'colorDomainLink' : '#1c6797',
+		     'colorDomainLink' : '#007000',
 			 'linkTarget' : '_blank',
 			 'rolloverLinkBold' : true,
 			 			 			 'rolloverLinkColor' : '#FF5347'
@@ -173,8 +183,8 @@ div.pr div.item_button
 
 	var adBlock2 = {
 			 'container' : 'afs_ads2',
-			 'number' : '5',
-			 'lines' : '1',
+			 'number' : '4',
+			 'lines' : '2',
 			 'fontSizeTitle' : '16px',
 			 
 		        'colorText' : '#A2A0A2',
@@ -183,7 +193,7 @@ div.pr div.item_button
 		        		        'colorBackground' : '#FFFFFF',
 				 'linkTarget' : '_blank',
 				'rolloverLinkColor' : '#FF5347',
-				 'rolloverLinkBold' : true,
+				 'rolloverLinkBold' : true
 		};
 
 
@@ -209,23 +219,50 @@ div.pr div.item_button
 
 		return false;
 	}
+	
+	function onComplainSubmit()
+	{
+		url  = document.location.protocol;
+		url += '://';
+		url += document.location.hostname;
+		url  = '/_/complain/send/';
+		
+		url += '?format=html';
 
+		url += '&rating=' + $('input:radio[name=complain_rating]:checked').val(); 
+		url += '&message=' + encodeURI($('#complain_message').val());
+		url += '&url=' + escape(encodeURI(document.location.href));
+		url += '&name=' + encodeURI($('#complain_name').val());
+		url += '&telefon=' + encodeURI($('#complain_tel').val());
+		url += '&betreff=' + encodeURI($('#complain_betreff').val());
+		url += '&email=' + encodeURI($('#complain_email').val());
+
+
+		$.post(url, function(response)
+		{
+			$('#complain_inner_box').html(response);
+		});	
+
+		return false;
+	}
 
 
 	
 	$(document).ready(function() {
 		$("div.im img").click(function() {
-
+			var uid = $(this).parent("div").parent("div").parent("div").attr("uid");
 			if($(this).attr("rel") == "active") {
 				$(this).parent("div").next("div").fadeOut("fast");
 				$(this).attr("rel", "");
 				$(this).attr("src", "http://static.dusparst.com/themes/w11/gfx/arrow_bottom.png");
 				$(this).parent("div").parent("div").parent("div").children("div.op").css("opacity", "1");
+				_gaq.push(['_trackEvent', 'ItemToolbox', 'Close', uid]);
 			} else {
 				$(this).parent("div").next("div").fadeIn("fast");
 				$(this).attr("rel", "active");
 				$(this).attr("src", "http://static.dusparst.com/themes/w11/gfx/arrow_top.png");
 				$(this).parent("div").parent("div").parent("div").children("div.op").css("opacity", "0.5");
+				_gaq.push(['_trackEvent', 'ItemToolbox', 'Open', uid]);
 			}
 
 		});
@@ -243,28 +280,46 @@ div.pr div.item_button
 		
 	}
 
-	function sortOffers(containerId, attributeId)
+	function sortOffers(containerId, attributeId, direction, selector)
 	{
-		var kids = $('#'+containerId).children();
+		var kids = $('#'+containerId).children(selector);
 		var n = kids.length;
 		var changed = true;
 
-		while (n > 0 && changed)
+		sortLog += "n: " + n + ", ";
+
+		while (n > 0)
 		{
-			var kids = $('#'+containerId).children();
-	
 			changed = false;
 
 			for (var i = 0; i <= n; i++)
 			{
+				var kids = $('#'+containerId).children(selector);
+				
+				var needChange = false;
+				
+				if (direction == 'asc')
+				{
+					var firstValue = Math.round($(kids[i]).attr(attributeId));
+					var secondValue = Math.round($(kids[i+1]).attr(attributeId));
+					needChange =  firstValue > secondValue;
+					
+				}
+				else if (direction == 'desc')
+				{
+					var firstValue = Math.round($(kids[i]).attr(attributeId));
+					var secondValue = Math.round($(kids[i+1]).attr(attributeId));
+						
+					needChange = firstValue < secondValue;
 
+				}			
 
-				if (Math.round($(kids[i]).attr(attributeId)) > Math.round($(kids[i+1]).attr(attributeId)))
+				if (needChange)
 				{
 					changed = true;
 
 					$(kids[i+1]).insertBefore($(kids[i]));
-
+					
 				}
 			}
 			
@@ -310,6 +365,8 @@ div.pr div.item_button
 		var url = '/tracking.php?id='+tracking_id+'&value='+value+'&a='+a+'&convId='+adwordsConvId+'&convLabel='+adwordsConvLabel;
 		
 		document.getElementById('tracking_iframe').src = url;
+
+		
 		
 	}
 
@@ -335,11 +392,41 @@ div.pr div.item_button
 
 			var url = '/_/redirect/popup' + infoUrl + '?format=html';
 
+			
+			// push Transaction to GA
+
+			var orderId = password(18);
+
+			var offerId = pr.attr('uid');
+
+			var shopName = pr.attr('shop');
+
+			var partnerName = pr.attr('partner');
+
+			var productName = pr.attr('productName');
+	
+					
+			_gaq.push(['_addTrans',
+			           orderId,         	// order ID - required
+			           partnerName,  		// affiliation or store name
+			           epa,		          	// total - required
+			         ]);
+
+			 _gaq.push(['_addItem',
+			            orderId,         	// order ID - necessary to associate item with transaction
+			            uid,         		// SKU/code - required
+			            productName,      	// product name - necessary to associate revenue with product
+			            shopName, 			// category or variation
+			            epa,        		// unit price - required
+			            '1'             	// quantity - required
+			         ]);
+			       			
+			 _gaq.push(['_trackTrans']);
+	
+		});
 
 
 				
-		});
-		
 	}
 	
 
@@ -376,6 +463,12 @@ div.pr div.item_button
 			
 			$.post(url, function(response)
 			{
+
+				var non_interaction = true;
+
+				if (currentPage > 2)
+					non_interaction = false;
+
 				if (response.length > 10)
 				{
 					$(response).insertBefore('#productClearer');
@@ -385,11 +478,17 @@ div.pr div.item_button
 					$('#productInjectionText').css('display', 'block');
 
 					processItems();
-					
+
+					_gaq.push(['_trackEvent', 'PageLoading', 'Loaded', query, currentPage, non_interaction]);
 				}
 				else
 				{
 					$('#productInjectionText').html('<i>' + TRANSLATE_NO_ADDITIONAL_ITEMS + '</i><br><br>');
+					$('#productInjectionLoading').css('display', 'none');
+					$('#productInjectionText').css('display', 'block');
+
+					_gaq.push(['_trackEvent', 'PageLoading', 'EndArrived', query, currentPage, non_interaction]);
+
 				}
 			});
 			
@@ -399,11 +498,31 @@ div.pr div.item_button
 	}
 
 
-
+	function password(length, special) {
+	  var iteration = 0;
+	  var password = "";
+	  var randomNumber;
+	  if(special == undefined){
+	      var special = false;
+	  }
+	  while(iteration < length){
+	    randomNumber = (Math.floor((Math.random() * 100)) % 94) + 33;
+	    if(!special){
+	      if ((randomNumber >=33) && (randomNumber <=47)) { continue; }
+	      if ((randomNumber >=58) && (randomNumber <=64)) { continue; }
+	      if ((randomNumber >=91) && (randomNumber <=96)) { continue; }
+	      if ((randomNumber >=123) && (randomNumber <=126)) { continue; }
+	    }
+	    iteration++;
+	    password += String.fromCharCode(randomNumber);
+	  }
+	  return password;
+	}
 
 
 	
-  </script>			
+  </script>			<script type="text/javascript" src="http://wegner-its.s3.amazonaws.com/js/jquery.validate.js"></script>
+			
 			<script language="javascript" src="http://static.dusparst.com/js/main-2011102601.js" type="text/javascript"></script>
 	
 			<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
@@ -544,7 +663,7 @@ div.pr div.item_button
 	<div class="searchbar">
 		<form action="search" method="get">
 			<input type="text" name="query" value="Please enter search phrase ..." onfocus="this.style.color='black';this.value='';" class="val" style="width: 96%">
-			<input type="submit" name="" value="&nbsp;" class="sub" style="background-image: url('http://static.dusparst.com/themes/w11/gfx/dusparst/search-button-en.png');">
+			<input type="submit" name="" value="&nbsp;" class="sub" style="background: url('http://static.dusparst.com/themes/w11/gfx/dusparst/search-button-en.png') repeat scroll 0 0 transparent !important;">
 		</form>
 	</div>
 
@@ -588,7 +707,7 @@ div.pr div.item_button
 						<a href="Imprint.html">Imprint</a><br>
 						<a href="PrivacyPolicy.html">Privacy Policy</a><br>
 						<br>
-						<i>© 2011 save-clever.co.uk</i>
+						<i>© 2012 save-clever.co.uk</i>
 								
 						<div class="ad">
 							<div id="rightAdBoxContainer" style="position: relative; min-height: 700px; display: none;">
@@ -622,19 +741,14 @@ div.pr div.item_button
 
 		
 		<div>
-			<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2Fsave-clevercouk%2F132020783557767&amp;width=980&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=240" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:980px; height:240px;" allowtransparency="true"></iframe>
+			<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2Fsave-clevercouk%2F132020783557767&amp;width=980&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=240" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:980px; height:240px; background-color:#ffffff;" allowtransparency="true"></iframe>
 		</div>
 
 	
 
 	<div class="copy">
-		© 2011 save-clever.co.uk		<br>
+		© 2012 save-clever.co.uk		<br>
 		
-		<i style="color: #f6f4f8">
-			 m:  
-			 / Node: 10.58.103.178						<br>
-		</i>
-
 	</div>
 	
 	<div class="imprint">
@@ -653,20 +767,36 @@ div.pr div.item_button
 	</div><!-- Ende CONTAINER -->
 
 </div><!-- Ende GLOBAL -->	
-		
-		
-	
 			
 			
-					<div id="feedback_button" style="position: fixed; right:-10px; top: 350px; width:35px; height: 100px; background-color:#1c6797; border: 1px solid white;" onmouseover="$(&quot;#feedback_button&quot;).css(&quot;right&quot;, &quot;0px&quot;);" onmouseout="$(&quot;#feedback_button&quot;).css(&quot;right&quot;, &quot;-10px&quot;);">
+				<script type="text/javascript">
+		SubmittingForm2=function() {
+			
+			onFeedbackSubmit();
+			document.getElementById("submitButtonDiv2").style.display = "none";    
+			document.getElementById("loadingDiv2").style.display = "block";  
+		}							 
+
+		$(document).ready(function() {
+			$("#feedback_form").validate({
+				submitHandler:function(form) {
+					SubmittingForm2();
+				}
+				
+			});
+		});
+		
+						
+	</script>
+		<div id="feedback_button" style="position: fixed; right:-10px; top: 350px; width:35px; height: 100px; background-color:#1c6797; border: 1px solid white;" onmouseover="$(&quot;#feedback_button&quot;).css(&quot;right&quot;, &quot;0px&quot;);" onmouseout="$(&quot;#feedback_button&quot;).css(&quot;right&quot;, &quot;-10px&quot;);">
 				<a class="thickbox" href="#TB_inline?height=400&amp;width=500&amp;inlineId=feedback_box" title="Give us your feedback!">
 					<img src="http://static.dusparst.com/themes/w11/gfx/feedback.png" border="0/">
 				</a>
 			</div>
-			
+
 			<div id="feedback_box" style="display: none">
 				<div id="feedback_inner_box">
-				<form action="/" onsubmit="onFeedbackSubmit(); return false;" id="feedback_form">
+				<form action="/" id="feedback_form"> 
 				
 				<h1>Feedback</h1>
 				<table>
@@ -692,13 +822,138 @@ div.pr div.item_button
 				<input id="feedback_email" style="position: absolute; right: 13px; width: 250px; bottom: 68px;">
 				<br>
 				<br>
-				
-				<input type="submit" value="submit">
-				
+				<div id="submitButtonDiv2">
+				<input class="submit" type="submit" value="absenden">
+				</div>
+				<div id="loadingDiv2" style="display:none">
+				<img src="http://wegner-its.s3.amazonaws.com/images/ajax-loader.gif">
+				</div>
 				</form>
 				</div>
 			</div>
+			 
+  <script type="text/javascript">
+		SubmittingForm=function() {
+			// alert("The form has been validated.");
 
+			onComplainSubmit();
+			document.getElementById("submitButtonDiv").style.display = "none";    
+			document.getElementById("loadingDiv").style.display = "block";  
+		}							 
+
+		jQuery.validator.addMethod(
+				"selectNone",
+				function(value, element) {
+					if (element.value == "none")
+					{
+						return false;
+					}
+					else return true;
+				},
+				"Choose an option please." 
+			);
+
+		$(document).ready(function() {
+			$("#complain_form").validate({
+				submitHandler:function(form) {
+					SubmittingForm();
+				},
+				rules: {
+					name: "required",		// simple rule, converted to {required:true}
+					email: {				// compound rule
+						required: true,
+						email: true
+					},
+					url: {
+						url: true 
+					},
+					comment: {
+						required: true
+					},
+					betreff: {
+						selectNone: true
+					}
+				},
+				messages: {
+					name: "Please type in your Name.",
+					email: "Please type in your email address.",
+					comment: "Leave an comment please."
+				}
+			});
+		});
+
+
+
+	
+		
+						
+	</script>
+		<div id="complain_button" style="position: fixed; right:-10px; top: 480px; width:35px; height: 95px; background-color:red; border: 1px solid white;" onmouseover="$(&quot;#complain_button&quot;).css(&quot;right&quot;, &quot;0px&quot;);" onmouseout="$(&quot;#complain_button&quot;).css(&quot;right&quot;, &quot;-10px&quot;);">
+				<a class="thickbox" href="#TB_inline?height=490&amp;width=530&amp;inlineId=complain_box" title="Your Complain">
+				<img src="http://static.dusparst.com/images/complain_en.png" border="0/">
+				</a>
+			</div>
+			<div id="complain_box" style="display: none">
+				<div id="complain_inner_box">
+				<form action="/" id="complain_form"><!-- onsubmit='onComplainSubmit(); return false;' -->
+				
+				<h1>Your Complain</h1>
+				<table>
+					<tbody><tr>
+						<td>
+
+				<b>Your Name*</b></td>
+						<td>
+				<input id="complain_name" name="name">
+									</td>
+					</tr>
+					<tr>
+						<td>
+				<b>Your email adress:*</b></td>
+						<td>
+				<input id="complain_email" name="email">
+										</td>
+					</tr>
+					<tr>
+						<td>
+				<b>Your Telephone Number:</b></td>
+						<td>
+				<input id="complain_tel" name="tel"> 
+						</td>
+					</tr>
+					<tr>
+						<td>
+				<b>Select a subject:*</b></td>
+						<td>
+						    <select name="betreff" size="1" id="complain_betreff">			  
+								<option value="none">Please choose an option</option>
+								<option value="wrong search results">wrong search results</option>
+								<option value="wrong prices">wrong prices</option>
+								<option value="erotic content">erotic content</option>
+								<option value="Trademark infringement">Trademark infringement</option>
+								<option value="etc.">etc.</option>
+						    </select>
+			    		</td>
+					</tr>
+			    </tbody></table>
+				<hr>
+				<b>Please post your opinion and problems - we read all messages!</b>
+				<textarea style="width: 100%; height: 200px;" id="complain_message" name="comment"></textarea>
+				<hr>
+
+				<br>
+				<div id="submitButtonDiv">
+				<input class="submit" type="submit" value="submit">
+				</div>
+				<div id="loadingDiv" style="display:none">
+				<img src="http://wegner-its.s3.amazonaws.com/images/ajax-loader.gif">
+				</div>
+				</form>
+
+				
+				
+				</div>
+			</div>
 
 
 			
@@ -707,18 +962,29 @@ div.pr div.item_button
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-16536439-1']);
-  _gaq.push(['_setDomainName', 'none']);
-  _gaq.push(['_setAllowLinker', true]);
-  _gaq.push(['_setCustomVar', 1, 'Design', 'w11', 1]);
-  _gaq.push(['_trackPageview']);
+  _gaq.push(['_setDomainName', 'save-clever.co.uk']);
 
+  _gaq.push(['_setCustomVar', 2, 'k', 		'', 	2]);
+  _gaq.push(['_setCustomVar', 3, 'mccId', 	'pvgl-en_GB-lab',2]);
+  _gaq.push(['_setCustomVar', 4, 'c', 		'', 	2]);
+  _gaq.push(['_setCustomVar', 5, 'exp', 	'sz', 	2]);
+  
+  _gaq.push(['_setAllowLinker', true]);
+
+  _gaq.push(['_trackPageview']);
+  
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>			<script type="text/javascript">
+</script>					
+
+
+
+
+<script type="text/javascript">
 //cto keyword tag
 var cto_params = [];
 //CONFIGURE THE FOLLOWING VARIABLES
@@ -726,8 +992,10 @@ cto_params["kw"] = "";
 //DO NOT MODIFY AFTER THIS LINE
 var cto_conf = 't1=sendData&kpid=60';
 var CRITEO=function(){var b={Load:function(d){var c=window.onload;window.onload=function(){if(c){c()}d()}}};function a(e){if(document.createElement){var c=document.createElement((typeof(cto_container)!='undefined'&&cto_container=='img')?'img':'iframe');if(c){c.width='1px';c.height='1px';c.style.display='none';c.src=e;var d=document.getElementById('cto_mg_div');if(d!=null&&d.appendChild){d.appendChild(c)}}}}return{Load:function(c){document.write("<div id='cto_mg_div' style='display:none;'></div>");c+='&'+cto_conf;var f='';if(typeof(cto_conf_event)!='undefined')f=cto_conf_event;if(typeof(cto_container)!='undefined'){if(cto_container=='img')c+='&resptype=gif';}if(typeof(cto_params)!='undefined'){for(var key in cto_params){if(key!='kw'&&(typeof(cto_params[key])=='string'))f+='&'+key+'='+encodeURIComponent(cto_params[key]);}if(cto_params['kw']!=undefined)c+='&kw='+encodeURIComponent(cto_params['kw']);}c+='&p1='+encodeURIComponent(f);c+='&cb='+Math.floor(Math.random()*99999999999);try{c+='&ref='+encodeURIComponent(document.referrer);}catch(e){}try{c+='&sc_r='+encodeURIComponent(screen.width+'x'+screen.height);}catch(e){}try{c+='&sc_d='+encodeURIComponent(screen.colorDepth);}catch(e){}b.Load(function(){a(c.substring(0,2000))})}}}();CRITEO.Load(document.location.protocol+'//dap.criteo.com/dis/dis.aspx?');
-</script><div id="cto_mg_div" style="display:none;"></div>			<div id="tracking_div" style="position: absolute; right: 0px; left:0px; visible: hidden">
-				<img style="text-decoration:none;border:0;padding:0;margin:0;" src="http://rover.ebay.com/roverimp/1/707-53477-19255-0/1?pub=5574862062&amp;toolid=10034&amp;campid=5336660087&amp;mpt=[CACHEBUSTER]">
+</script><div id="cto_mg_div" style="display:none;"></div>
+
+			<div id="tracking_div" style="position: absolute; right: 0px; left:0px; visible: hidden">
+				<img style="text-decoration:none;border:0;padding:0;margin:0;" src="http://rover.ebay.com/roverimp/1/707-53477-19255-0/1?pub=5574862062&amp;toolid=10034&amp;campid=5336872252&amp;mpt=[CACHEBUSTER]">
 				
 								
 			</div>
