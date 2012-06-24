@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthmanagement.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430185337id_/http%3A//www.penton.com/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthmanagement.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624053634id_/http%3A//www.penton.com/PrivacyStatement/tabid/75/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Penton Media, Inc.
 
@@ -118,6 +118,6 @@ If we decide to change our privacy statement, we will post the changes on this p
 
 If you wish to update your print magazine subscription contact information, please go to the magazine's home page. If you wish to opt out of receiving email, faxes, or phone calls from any Penton business, please send an email to privacy@penton.com.
 
-If you wish to contact Penton's Corporate Privacy Manager, please send your specific questions to: [privacy@penton.com](http://privacy@penton.com/).
+If you wish to contact Penton's Corporate Privacy Manager, please send your specific questions to: privacy@penton.com.
 
-Septermber 29, 2010
+September 29, 2010
