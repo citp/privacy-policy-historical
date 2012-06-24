@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230231855id_/http%3A//www.xara.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624093303id_/http%3A//www.xara.com/us/privacy) for the most accurate reproduction.*
 
 # Xara Privacy Policy
 
