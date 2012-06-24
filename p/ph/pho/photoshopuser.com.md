@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoshopuser.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129202030id_/http%3A//www.photoshopuser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshopuser.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624093356id_/http%3A//www.photoshopuser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Learn Adobe Photoshop, Lightroom and Digital Photography | NAPP
 
