@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eguiders.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210223758id_/http%3A//eguiders.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eguiders.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624153030id_/http%3A//www.eguiders.com/page/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - eGuiders. We Search. You Watch.
 
