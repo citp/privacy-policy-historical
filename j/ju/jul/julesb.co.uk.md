@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the julesb.co.uk privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212014950id_/http%3A//www.julesb.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the julesb.co.uk privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624043335id_/http%3A//www.julesb.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Jules B
+# Privacy Policy | JULES B - Jules B
 
 Jules B Ltd (“Jules B", "we", "our", "us") respect the privacy rights of its online visitors/customers ("you", "your", "yours") and recognise the importance of protecting the information collected about them. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
@@ -32,12 +32,16 @@ Julesb.co.uk requests personal information from you when you place an order. If 
 
 Finally, we may use your personal information for our internal marketing and demographic studies, together with non-personal data to monitor customer patterns so we can consistently improve our site design to better meet our visitors' needs. 
 
+**Cookies On JulesB.**
+
+We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on our JulesB website. However, if you would like to, you can change your cookie settings at any time.
+
 **What is a cookie?**
 
 A cookie is a piece of information that is stored by your computer's hard drive by your web browser, which tracks your movements within websites. Most browsers are automatically set to accept cookies but you are able to alter the settings of your browser to prevent automatic acceptance, should you wish. Our site uses cookies to keep track of how often you visit our site, the contents of your shopping cart, previous purchases and to deliver content specific to your interests, to assist us in updating our service for our customers benefit. If you choose not to receive cookies, you may still use most of the features of our website, including the ability to purchase items. The use of cookies is an industry standard but should you require any further information regarding the technical specifications, please email shop@julesb.co.uk
 
 **Who do I contact if I have a complaint?**
 
-Please go to the Contact Us section of the web site and send an email to shop@julesb.co.uk. If you wish to talk to a Jules customer services representative please call 44 (0) 191 211 2330 or 0845 835 2900/
+Please go to the Contact Us section of the web site and send an email to shop@julesb.co.uk. If you wish to talk to a Jules customer services representative please call 44 (0) 191 211 2330 or 0845 835 2900.
 
 By visiting julesb.co.uk, you are accepting and consenting to the practices described in this Privacy. 
