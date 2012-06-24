@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the urbansitter.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102210616id_/http%3A//www.urbansitter.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbansitter.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624071604id_/http%3A//www.urbansitter.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UrbanSitter
-
-Parents: There's no fee to use UrbanSitter while we polish the site. Enjoy!
 
 ## UrbanSitter
 
