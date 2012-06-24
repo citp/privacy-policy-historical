@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberlink.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225022146id_/http%3A//www.cyberlink.com/stat/company/enu/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberlink.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624020844id_/http%3A//www.cyberlink.com/stat/company/enu/privacy-policy.jsp) for the most accurate reproduction.*
 
 # CyberLink sitemap
 
@@ -61,7 +61,7 @@ In case that CyberLink is merged with or acquired by a third party entity, we re
 
 ### Buying Products through the CyberLink Website
 
-The CyberLink website acts as a gateway for you to purchase our products online. Purchases of CyberLink products that are initiated from the CyberLink website are actually completed on the [Digital River](http://www.digitalriver.com/) secure website. In order to complete a purchase transaction, Digital River must collect personal information from you, including your credit card number. If you are interested in purchasing CyberLink software through the Digital River site, please view the [Privacy Statement of Digital River](http://corporate.digitalriver.com/store/driv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies). You can be certain that online purchases made through the Digital River site are secure. Numerous other online retailers also sell CyberLink products. However, CyberLink does not directly guarantee the privacy of your personal information when making purchases from other sites. Please consult the Privacy Policy statements posted on those sites directly. 
+The CyberLink website acts as a gateway for you to purchase our products online. Purchases of CyberLink products that are initiated from the CyberLink website are actually completed on the [asknet AG](http://www.asknet.com/homepage/) secure website. In order to complete a purchase transaction, asknet AG must collect personal information from you, including your credit card number. If you are interested in purchasing CyberLink software through the asknet AG site, please view the [Privacy Statement of asknet AG](https://shop.cyberlink.com/cgi-bin/pages/privacy_policy/ml=EN). You can be certain that online purchases made through the asknet AG site are secure. Numerous other online retailers also sell CyberLink products. However, CyberLink does not directly guarantee the privacy of your personal information when making purchases from other sites. Please consult the Privacy Policy statements posted on those sites directly. 
 
 ### Changes to this Statement
 
@@ -73,4 +73,4 @@ If you would like to contact CyberLink about your personal information and/or pr
 
 CyberLink.com adheres to the Safe Harbors principles and/or practices.
 
-CyberLink Corp. Privacy Statement last updated on December 12, 2011.
+CyberLink Corp. Privacy Statement last updated on February 16, 2012.
