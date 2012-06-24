@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cakecentral.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110001626id_/http%3A//cakecentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakecentral.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625014551id_/http%3A//cakecentral.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Cakecentral.com on Cakecentral.com
+# Privacy Policy on Cakecentral.com on Cakecentral.com
 
 ## Contact Information
 
 Our homepage on the Internet is located at [http://www.cakecentral.com](http://www.cakecentral.com/).
 
-Cake Central, LLC  
+Cake Central Media Corp  
 1245 Auburn Way North #135  
 Auburn, WA 98002  
 United States
@@ -24,7 +24,7 @@ When you visit our site you may provide us with two types of information: person
 No person under 13 should disclose information on this site. You may learn more about protecting children privacy online by visiting http://www.ftc.gov/kidzprivacy.
 
 ## Active Information You Choose to Provide  
-Cake Central, LLC – Contact and Personal Information
+Cake Central Media Corp. – Contact and Personal Information
 
 In order to gain use of the site (become a user), we require you to provide your contact information during the registration process. This may include a name, email address, mailing address, and contact telephone number. This information is used to send you your commissions and to possibly contact you if there is a problem with your order.  
 At times, we may use your email address to send out a mailing to all users of the site to let them know about changes to the service or important updates. If we do use a newsletter for promotional purposes, it will have instructions on how to unsubscribe prominently mentioned in the mailing.
@@ -59,7 +59,7 @@ You may be able to access other web sites through our site. When you do so you a
 
 ## Sharing Information with the Government or As Otherwise Required by Law
 
-Cake Central, LLC cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
+Cake Central Media Corp. cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
 
 ## How Do We Secure Information?
 
@@ -67,6 +67,6 @@ We secure your personal information submitted by you by using reasonable efforts
 
 ## How Can You Choose Not to Receive Information about Products or Services by Us or to Correct, Delete or Access Your Information
 
-If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct your information, please send us an [email](http://www.cakecentral.com/contact.html).
+If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct your information, please send us an [email](http://www.cakecentral.com/contact).
 
 We reserve the right to revise this policy at our discretion. Please check back on this site as this policy may be revised from time to time without notice to you
