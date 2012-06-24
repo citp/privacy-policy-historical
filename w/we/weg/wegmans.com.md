@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221082711id_/http%3A//www.wegmans.com/webapp/wcs/stores/servlet/ProductDisplay%3FstoreId%3D10052%26catalogId%3D10002%26langId%3D-1%26partNumber%3DUNIVERSAL_3568) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624163729id_/http%3A//www.wegmans.com/webapp/wcs/stores/servlet/ProductDisplay%3FstoreId%3D10052%26catalogId%3D10002%26langId%3D-1%26partNumber%3DUNIVERSAL_3568) for the most accurate reproduction.*
 
 # Privacy Policy | Wegmans
 
@@ -18,16 +18,16 @@ Since 1916, our business philosophy has been to best serve the wants and needs o
 
 The information you provide helps us understand your preferences, so we can personalize and continually improve your online experience (see examples below).
 
-If at any time you would like us to cancel your registration, please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/ContactUsView?storeId=10052&catalogId=&langId=-1). Inactive accounts are automatically purged after 1 year.
+If at any time you would like us to cancel your registration, please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/ContactUsView?storeId=10052&catalogId=&langId=-1&CSRT=1623006951656478453). Inactive accounts are automatically purged after 1 year.
 
 * * *
 
 ### Methods of gathering information
 
   * Information from you  
-This information comes directly from what you enter during registration on wegmans.com. The information you provide is used for creating personal [shopping lists](https://web.archive.org/webapp/wcs/stores/servlet/ShoppingListsView?storeId=10052&catalogId=&langId=-1), detailing what's on sale in your Wegmans store, and sending you [Fresh News Emails](https://web.archive.org/webapp/wcs/stores/servlet/MyAccountView?storeId=10052&catalogId=&langId=-1) according to your personal preferences. You also have easy access to expanded wegmans.com services, which adds value and convenience to your shopping experience.
+This information comes directly from what you enter during registration on wegmans.com. The information you provide is used for creating personal [shopping lists](https://web.archive.org/webapp/wcs/stores/servlet/ShoppingListsView?storeId=10052&catalogId=&langId=-1&CSRT=1623006951656478453), detailing what's on sale in your Wegmans store, and sending you [Fresh News Emails](https://web.archive.org/webapp/wcs/stores/servlet/MyAccountView?storeId=10052&catalogId=&langId=-1&CSRT=1623006951656478453) according to your personal preferences. You also have easy access to expanded wegmans.com services, which adds value and convenience to your shopping experience.
   * Email communications  
-When you register for a service that we offer, such as our [Fresh News Email](https://web.archive.org/webapp/wcs/stores/servlet/MyAccountView?storeId=10052&catalogId=&langId=-1), we store your information in an electronic database, which is for Wegmans' use only. If at any time you do not want to receive our emails, please adjust your preferences in [My Account.](https://web.archive.org/webapp/wcs/stores/servlet/MyAccountView?storeId=10052&catalogId=&langId=-1)
+When you register for a service that we offer, such as our [Fresh News Email](https://web.archive.org/webapp/wcs/stores/servlet/MyAccountView?storeId=10052&catalogId=&langId=-1&CSRT=1623006951656478453), we store your information in an electronic database, which is for Wegmans' use only. If at any time you do not want to receive our emails, please adjust your preferences in [My Account.](https://web.archive.org/webapp/wcs/stores/servlet/MyAccountView?storeId=10052&catalogId=&langId=-1&CSRT=1623006951656478453)
   * Cookies  
 Whenever you interact on our site, we receive and store certain information. This is done through Internet "cookies," which allow you to take advantage of some of our best features. We do NOT use cookies to examine your surfing behavior before or after leaving the Wegmans website.
   * Why does wegmans.com use Internet cookies?Internet cookies allow the website to identify you each time you return, and offer you personalized content and services.
@@ -67,7 +67,7 @@ We may release customer information when we believe it is necessary to comply wi
 
 ### What information can I access about myself?
 
-Wegmans.com gives you access to your record for updating information and for viewing it. All of the information you've shared with us is available to you only, through [My Account](https://web.archive.org/webapp/wcs/stores/servlet/MyAccountView?storeId=10052&catalogId=&langId=-1). Please review your profile on a regular basis and up-date it so we can serve you better.
+Wegmans.com gives you access to your record for updating information and for viewing it. All of the information you've shared with us is available to you only, through [My Account](https://web.archive.org/webapp/wcs/stores/servlet/MyAccountView?storeId=10052&catalogId=&langId=-1&CSRT=1623006951656478453). Please review your profile on a regular basis and up-date it so we can serve you better.
 
 * * *
 
