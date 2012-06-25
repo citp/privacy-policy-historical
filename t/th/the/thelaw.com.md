@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227085235id_/http%3A//www.thelaw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625061812id_/http%3A//www.thelaw.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Law - Free Legal Advice, Answers from Lawyers, Legal Forms, Law Library
+# Privacy Policy - TheLaw.com
 
-## Privacy Policy v. 1.3
-
-### Last updated February 1, 2011
+## Privacy Policy v. 1.4
 
 We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as “Data” below) that may be collected by us on The Law Network’s network of web sites (including, but not limited to, TheLaw.com, TheLawReview.com, TheLawJournal.com and TheLawNetwork.com.) This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. You may also wish to review our [Terms of Use](http://www.thelaw.com/terms-of-use/ "The Law Network Terms of Use").
 
 ### 1\. Collection of Data
 
 Our registration process requires only a valid e-mail address and creation of a unique user ID and password. Providing us with other information is at your option, including information that you may enter in any chat room or messaging forums that we may make available. Note that your user name and e-mail address may contain your real name. Like most other web sites, we may also automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how we serve advertising is set forth below.
+
+**a. Case Reviews:**  Filling out a case review on our site means that you are subject to the [case review terms of service](http://www.thelaw.com/casereview/termsofservice.php "Case Review Terms of Service"). These case reviews are either passed along to us internally where we share your information with attorneys within our network. We also work with third parties, such as[ IM Solutions](http://www.newclient.us/ "IM Solutions"), who collect your data in their widgets and share your information with their network of attorneys for the purpose of finding you an attorney who can review your case. You can read more about their affiliate program on their site.
 
 ### 2\. Use of Data
 
@@ -20,7 +20,7 @@ We may use Data to customize and improve your user experience on this site. Data
 
 Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements that appears on this web site may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies may use non-personally identifiable numbers to obtain information about your visits to our site and you can click here to find out more information about this practice and to know your options about not having this information used.
 
-Our site may use the following affiliate programs and advertising based services: Amazon.com, Google, Be Free , Commission Junction , DoubleClick , and Linkshare to serve or track advertising that appears on our site.
+Our site may use the following affiliate programs and advertising based services: [Amazon.com](http://www.amazon.com/ "Amazon"), [Google](http://www.google.com/ "Google"), [Commission Junction](http://www.cj.com/ "Commission Junction") , [DoubleClick ](https://www.google.com/intl/en_US/dfp/info/welcome.html "DoubleClick"), and [FindLegalForms ](http://www.findlegalforms.com/ "Find Legal Forms")to serve or track advertising that appears on our site. You can find out more information about these affiliate programs at these sites.
 
 ### 4\. Children
 
