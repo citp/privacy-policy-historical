@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scs.co.uk privacy policy that was archived on 2011-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111223140301id_/http%3A//www.scs.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scs.co.uk privacy policy that was archived on 2012-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625161042id_/http%3A//www.scs.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -16,11 +16,11 @@
         <link rel="stylesheet" type="text/css" media="all" href="/styles/reset.css">
         <link rel="stylesheet" type="text/css" media="all" href="/templates/theme/clone/styles/default.css">
         <link rel="stylesheet" type="text/css" media="all" href="/templates/theme/clone/styles/temp.css">
-        <link rel="stylesheet" type="text/css" media="print" href="/templates/theme/clone/styles/print.css">
-        <link rel="stylesheet" type="text/css" media="all" href="/js/ui-lightness/jquery-ui-1.8.16.custom.css">
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
-        <script type="text/javascript" src="/js/jquery-ui-1.8.16.custom.min.js"></script>
-        <script type="text/javascript" src="/templates/theme/clone/js/functions.js"></script>
+        <link rel="stylesheet" type="text/css" media="all" href="/templates/theme/clone/styles/product.css">
+		<link rel="stylesheet" type="text/css" media="print" href="/templates/theme/clone/styles/print.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/js/ui-lightness/jquery-ui-1.8.18.custom.css">
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.7.1.js"></script>
+        <script type="text/javascript" src="/js/jquery-ui-1.8.18.custom.min.js"></script>        <script type="text/javascript" src="/templates/theme/clone/js/functions.js"></script>
         <script type="text/javascript" src="/js/easySlider1.7.js"></script>
         <script type="text/javascript" src="/js/jquery.form-defaults.js"></script>
         <script type="text/javascript" src="/js/jquery.cycle.all.min.js"></script>
@@ -30,10 +30,10 @@
         
         
         
-         <!--[if IE 6]>
+         <!--[if lte IE 8]>
             <link rel="stylesheet" type="text/css" href="/templates/theme/clone/styles/ie.css" media="screen" />
             <script type="text/javascript" src="/js/iepngfix_tilebg.js"></script>
-	 <![endif]-->
+	 	<![endif]-->
 
         
         <script type="text/javascript">
@@ -67,44 +67,65 @@
             <div id="header">
                 <div class="logo"><a href="/"><img src="/templates/theme/clone/images/logo.jpg" alt="scs sofas"></a></div>
                 <div class="options">
-                    
-                    <div class="store-locator">
-                        <div class="store-search">
-                            <p class="heading">Store Locator</p>
-                            <p><strong>We have <span class="purple">95 STORES</span> nationwide</strong></p>
-                            <form action="/stores/results/" method="post" onsubmit="return appendURL(this, '/stores/results/?c=store-locator&amp;','location', 'Postcode / Location');">
+
+<ul id="header-text-links" style="height:15px;">
+                		                		                	</ul>
+                	<ul id="header-tools">
+                		<li id="order-direct">
+                			<p class="tool-title">Order Direct</p>
+                			<ul>
+                				<li class="vr">
+                					<p>Call us free on</p>
+                					<p class="telephone"><span class="fs-web-number">0800 731 0048</span></p>
+                				</li>
+                				                			</ul>
+                		</li>
+                		<li id="store-finder">
+                			<p class="tool-title">Store Finder</p>
+                			<p>We have <strong>95</strong> stores nationwide</p>
+                			<form action="/stores/results/" method="post" onsubmit="return appendURL(this, '/stores/results/?c=store-locator&amp;','location', 'Postcode / Location');">
                             <p>
-                                <input type="text" name="location" id="location" class="floatleft textentry" style="font-style: italic;">
-                                <input type="image" src="/templates/theme/clone/images/buttons/go_black.jpg" class="go">
+                                <input type="text" name="location" id="location" class="floatleft header-field" style="font-style: italic;">
+                                <input type="submit" value="Find" class="header-button">
                             </p>
                             </form>
-                        </div>
-                        <div class="order-direct">
-                            <p class="heading">Order direct</p>
-                            <p><span class="purple fs16"><strong>Call us free :</strong></span></p>
-                            <p class="telno">0800 731 0048</p>
-                        </div>
-                    </div>
+                		</li>
+                		<li id="store-basket">
+                			<div id="header-basket">
+                				<p class="tool-title">My Basket</p>
+                				<p>0 Item(s) - £0.00</p>
+                				<p> <a href="/basket/" class="header-button" style="margin-right:2px; padding-bottom: 6px !important;">View Basket</a> <a href="/basket/" class="header-button grey" style=" padding-bottom: 6px !important;">Checkout</a></p>
+                			</div>
+                			                		</li>
+                		<li id="store-search">
+                			<p class="tool-title">&nbsp;</p>
+                			<p>&nbsp;</p>
+                			<form action="search/results/" method="post" onsubmit="appendURL(this, '/search/results/?c=find-a-sofa&amp;','skeywords','');">
+                            <input type="hidden" name="search" value="sofa">
+		        <input type="hidden" name="clear_filters" value="1">
 
-                    <div class="my-basket-summary">
-                        <p class="heading">My Basket</p>
-                        <p class="labels"><strong>Items:<br>Total:</strong></p>
-                        <p class="values"><strong>0<br>£0</strong></p>
-                        <p class="checkout"><a href="/basket/" class="emptybasket"><img src="/templates/theme/clone/images/buttons/basket-summary-checkout.gif" alt="checkout"></a></p>
-                    </div>
+				<p>
+                                <input type="text" name="keywords" id="skeywords" class="floatleft header-field">
+                                <input type="submit" value="Go" class="header-button">
+                            </p>
+                            </form>
+                		</li>
+                		                	</ul>
                     
+                                        
                 </div>
             </div>
             <div id="nav">
-                <div class="top-left">&nbsp;</div>
-                <div class="top-right">&nbsp;</div>
                 <ul>
-                    <li><a href="/">home</a></li>
-                    <li><a href="/promotions/" class="sale">sale</a></li>
-                    <li><a href="/category/leather-sofas/">leather sofas</a></li>
-                    <li><a href="/category/fabric-sofas/">fabric sofas</a></li>
+                    <li><a href="/promotions/" class="sale single">Sale</a></li>
+                    <li><a href="/web-exclusives/">Web<br>Exclusives</a></li>
+					<li><a href="/category/fabric-sofas/">Fabric<br>Sofas</a></li>
+                    <li><a href="/category/leather-sofas/">Leather<br>Sofas</a></li>
+                    <li><a href="/category/corner-sofas/">Corner<br>Sofas</a></li>
+                    <li><a href="/category/sofabeds/">Sofa<br>Beds</a></li>
+                    <li><a href="/category/recliners/" class="single">Recliners</a></li>
                     <li class="subnav">
-                        <a href="/our-brands/">famous brands</a>
+                        <a href="/our-brands/" class="single">BRANDS</a>
                         <ul class="subnavul" style="display:none;">
                             <li><a href="/category/la-z-boy/"><img src="/templates/theme/clone/images/navlogos/lazyboy.png" alt="lazyboy sofas"></a></li>
                             <li><a href="/brand/gplan/"><img src="/templates/theme/clone/images/navlogos/gplan.png" alt="g plan sofas"></a></li>
@@ -112,14 +133,11 @@
                             <li><a href="/category/wade-upholstery/"><img src="/templates/theme/clone/images/navlogos/wade.png" alt="wade upholstery sofas"></a></li>
                         </ul>
                     </li>
-                    <li><a href="/category/corner-sofas/">corner sofas</a></li>
-                    <li><a href="/category/recliners/">recliners</a></li>
-                    <li><a href="/category/sofabeds/">sofa beds</a></li>
-                    <li><a href="/category/occasional/">tables &amp; accessories</a></li>
-                    <li><a href="/fast-delivery/">fast delivery</a></li>
-                    <li><a href="http://www.scs-recruitment.co.uk/" target="_blank">careers</a></li>
-                    <li class="last"><a href="/search/" style="padding-right: 30px !important;">find a sofa</a></li>
-                </ul>
+                    <li class="accessories"><a href="/category/occasional/">Tables &amp;<br>Accessories</a></li>
+                    <li><a href="/carpets/" class="single">Carpets</a></li>
+					<li class=""><a href="/category/rugs/" class="single">Rugs</a></li>
+                    <li class="last"><a href="http://www.scs-recruitment.co.uk/" target="_blank" class="single">ScS Careers</a></li>
+                    </ul>
             </div>
 
     <div class="article">
@@ -158,10 +176,10 @@
     </div>
 
             <div id="footer">
-                <div class="whyscs" style="padding: 0px; width: 340px; height: 192px;">
+                <div class="whyscs" style="padding: 0px; width: 340px; height: 217px;">
                                         <img src="/templates/theme/clone/images/3-ways-to-order.jpg" alt="3 ways to order" usemap="#neareststore">
                                     </div>
-                <div class="column" style="height: 192px;">
+                <div class="column" style="height: 217px;">
                     <h2 class="footer-title">About ScS</h2>
                     <ul>
                         <li><a href="/why-scs/">Why ScS</a></li>
@@ -172,7 +190,7 @@
                         <li><a href="/sitemap/">Site Map</a></li>
                     </ul>
                 </div>
-                <div class="column" style="height: 192px;">
+                <div class="column" style="height: 217px;">
                     <h2 class="footer-title">Customer Service</h2>
                     <ul>
                         <li><a href="/contact-us/">Contact us</a></li>
@@ -181,9 +199,10 @@
                         <li><a href="/sofa-finance/">Sofa finance</a></li>
                         <li><a href="/delivery-info/">Delivery Information</a></li>
                         <li><a href="/returns-policy/">Returns Policy</a></li>
+						<li><a href="/privacy-cookies/">Privacy &amp; Cookies</a></li>
                     </ul>
                 </div>
-                <div class="column last" style="height: 192px;">
+                <div class="column last" style="height: 217px;">
                     <h2 class="footer-title">Careers</h2>
                     <ul>
                         <li><a href="http://www.scs-recruitment.co.uk/" target="_blank">Careers Home</a></li>
@@ -196,7 +215,7 @@
             </div>
             <div id="copyright">
                 <p>© Copyright A.Share &amp; Sons Limited<br>Registered Office: 45 - 49 Villiers Street, Sunderland, SR1 1HA<br>Company Registration Number 323778</p>
-                <p class="site-design"><a href="http://www.armadillo-creative.com">Website Design</a> by Armadillo Creative</p>
+                <p class="site-design"></p>
             </div>
 
         </div>
@@ -205,6 +224,72 @@
 
 	<script src="https://www.dwin1.com/3682.js" type="text/javascript" defer="defer"></script>
 	<script type="text/javascript" src="/templates/theme/clone/js/criteo.js"></script>
-    
-    
+    	<div class="callback-form" style="display:none;">
+	<img src="/templates/theme/clone/images/buttons/modal-close.png" alt="close" id="callbackclose">
+	<div class="inner">
+		<div class="direct-wrapper">
+			<h3>Speak to a personal shopper...</h3>
+			<p class="phone-icon"><img src="/templates/theme/clone/images/buttons/telephone.png"></p>
+			<p class="phone-icon"><strong>0800 731 0048</strong></p>
+			<p>&nbsp;</p>
+			<p>We have a team of specialists ready to help you choose your dream sofa and carpet.</p>
+			<p>&nbsp;</p>
+			<p>Take advantage of 4 years free credit. 0% APR Representative.</p>
+		</div>
+		<div class="form-wrapper">
+			<h3>Let us call you back at a time<br> that suits YOU...</h3>
+			<p id="callback-success" class="callback-success">Thank You. Your callback request has been submitted and a member of our team will be in touch.</p>
+			<form action="#" id="callback-submission">
+				<p>
+					<label>Title</label>
+					<select name="title" id="callback-title">
+						<option value="">Please select title</option>
+						<option value="Mr">Mr</option>
+						<option value="Mrs">Mrs</option>
+						<option value="Miss">Miss</option>
+						<option value="Ms">Ms</option>
+					</select>
+				</p>
+				<p>
+					<label>First Name</label>
+					<input type="text" name="firstname" id="callback-fname" size="35" class="field"> *
+				</p>
+				<p>
+					<label>Surname</label>
+					<input type="text" name="firstname" id="callback-sname" size="35" class="field"> *
+				</p>
+				<p>
+					<label>Telephone</label>
+					<input type="text" name="telephone" id="callback-telno" size="35" class="field"> *
+				</p>
+				<p>
+					<label>Email</label>
+					<input type="text" name="email" id="callback-email" size="35" class="field">
+				</p>
+				<p>
+					<label>Call me back</label>
+															<input type="checkbox" name="next15" id="callback-next15" value="1" checked="checked" style="margin-top:7px;"> Within the next 15 minutes
+				</p>
+				<p>
+					<label>&nbsp;</label>
+										<select name="time" id="callback-time" disabled="disabled">
+													
+																																																																						<option value="Today 6pm - 7pm">Today 6pm - 7pm</option>							<option value="Today 7pm - 8pm">Today 7pm - 8pm</option>																															<option value="Tomorrow 9am - 10am">Tomorrow 9am - 10am</option>
+							<option value="Tomorrow 10am - 10am">Tomorrow 10am - 11am</option>
+							<option value="Tomorrow 11am - 11am">Tomorrow 11am - 12am</option>
+							<option value="Tomorrow 12am - 1pm">Tomorrow 12am - 1pm</option>
+							<option value="Tomorrow 1pm - 2pm">Tomorrow 1pm - 2pm</option>
+							<option value="Tomorrow 2pm - 3pm">Tomorrow 2pm - 3pm</option>
+							<option value="Tomorrow 3pm - 4pm">Tomorrow 3pm - 4pm</option>
+							<option value="Tomorrow 4pm - 5pm">Tomorrow 4pm - 5pm</option>
+							<option value="Tomorrow 5pm - 6pm">Tomorrow 5pm - 6pm</option>
+							<option value="Tomorrow 6pm - 7pm">Tomorrow 6pm - 7pm</option>
+							<option value="Tomorrow 7pm - 8pm">Tomorrow 7pm - 8pm</option>
+											</select>
+				</p>
+				<p><label>&nbsp;</label><input type="button" value="Request call back" id="callback-submit"></p>
+			</form>
+		</div>
+	</div>
+</div>    
 </body></html>
