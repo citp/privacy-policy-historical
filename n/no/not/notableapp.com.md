@@ -1,39 +1,38 @@
-> *The following text is extracted and transformed from the notableapp.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102171401id_/https%3A//www.notableapp.com/privacy_policy_terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notableapp.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625195544id_/https%3A//www.notableapp.com/privacy_policy_terms) for the most accurate reproduction.*
 
 # Notable | Better Webpages Through Faster Iterations, Website Screenshot Feedback
 
-We collect the email addresses of those who communicate with us via email, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+We understand that your privacy is of the utmost importance to you. www.notableapp.com is committed to protecting the privacy and confidential information of those who register. The effective date of this privacy policy is April 16th, 2012.
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Service](https://web.archive.org/standard_account_terms), or as otherwise required by law.
-  * We transfer information about you if ZURB or Notable is acquired by or merged with another company. In this event, ZURB will notify you before information about you is transferred and becomes subject to a different privacy policy.
-
-
-
-### Information Gathering and Usage
+### Your Personal Information
 
 * * *
 
-When you register for Notable we ask for information such as your name, company name, email address, billing address and credit card information. Members who sign up for the free account are not required to enter a credit card.
+When you sign up with us, www.notableapp.com logs you in automatically using your email address. This makes it easier for you as you don’t have to create and remember a login identifier. The use of your email address for login also allows www.notableapp.com the chance to email you a new password in case you forget or lose your old one.
 
-ZURB uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact and research.
+We request personal information when sign up to participate in the www.notableapp.com services, request information about services or correspond with us or engage in certain other activities through our Web pages. You make the decision whether to proceed with any activity that requests Personal Information. If you do not wish to provide the requested information, however, you may be unable to use our services.
 
-### Data Storage
+Anyone using www.notableapp.com warrants and promises that they are 13 years of age or older. www.notableapp.com does not intend to collect personally identifying information from anyone under the age of 13. If you are under the age of 13 we ask that you do not use this web service.
 
-* * *
+We won’t sell your personal information to anyone. There might be one exception in the event www.notableapp.com itself is sold. In this case we would transfer your personal information to our buyers so that they could continue to provide the same great www.notableapp.com service.
 
-ZURB uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Notable. Although ZURB owns the code, databases, and all rights to the Notable application, you retain all rights to your data.
+www.notableapp.com may disclose to authorized law enforcement personnel the personal data from anyone who poses a threat. This might include those that are attempting to commit fraud or those who conduct activities that could bring harm to others. We assume that this is not you so please don’t worry.
 
-### Disclosure
+www.notableapp.com has a sophisticated security program intended to keep the information stored in our system protected from unauthorized access. We store your information in a secure data center located in the United States.
 
-* * *
+Occasionally, we may share personal information with our selected business partners for the purpose of providing you with improved services. If you prefer that we not provide your information to our business partners, you may let us know by using one of the methods described below in this policy. We also retain the services of outside contractors to provide services for us. They may be used to provide training services, technical support, to develop improved services, to handle order processing or to perform other services. We require that these contractors keep the Personal Information of customers secure and confidential.
 
-ZURB may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](http://www.notableapp.com/standard_account_terms).
+We provide a number of ways for you to “opt-out” of receiving additional information from us or having us provide your personal information to our partners. We may offer you these choices at the time you give us your information. Users who no longer wish to receive our promotional communications may opt-out of receiving these communications by replying to an email communication and writing “unsubscribe” in the subject line in the email or by emailing us at support@notableapp.com
 
-### Changes
+When you visit www.notableapp.com we may store information about your web session and assign you one or more ‘cookies’. Your browser will store these cookies on your computer in a small text file. For example, when you decide to login as a www.notableapp.com member, we store encrypted information in your browser so you don’t have to login on every page.
 
-* * *
+Permanent cookie files remain on your computer’s hard drive until you delete them manually using your browser or operating system software. You can enable your browser to refuse cookies, but doing so may disable access to some services and tools that we offer.
 
-ZURB may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Notable primary account holder account or by placing a prominent notice on our site.
+Our Web pages may contain links to other sites. We do not necessarily share personal information with those websites and are not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
+
+To the extent that you do provide us with personal information, we wish to maintain accurate personal information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting us should you need to review, update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personal information by email to support@notableapp.com and we will make reasonable efforts to incorporate the changes in your personal information that we hold as soon as practicable
+
+By using this Web site, you consent to the terms of our Privacy Policy. www.notableapp.com reserves the right to modify this privacy statement at any time. If there are material changes to this statement on how www.notableapp.com will use your personal information, we will prominently post these changes prior to implementing them. If you use our website after we post these changes, this indicates your acceptance of them. Regardless of later updates, we will follow the privacy practices described in this privacy statement at the time you provided us with your information.
 
 ### Questions
 
