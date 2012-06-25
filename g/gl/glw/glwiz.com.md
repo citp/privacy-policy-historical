@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glwiz.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124124934id_/http%3A//www.glwiz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glwiz.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626015302id_/http%3A//www.glwiz.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | GLWiZ
 
@@ -68,13 +68,13 @@ As part of GLWiZ's commitment to protection of its customers' personal informati
 
 **Email** : [glwizsupport@goldline.net](mailto:glwizsupport@goldline.net)  
 **Mail** : c/o The Group of Gold Line   
-180 West Beaver Creek Rd.  
-Richmond Hill, Ontario L4B 1B4  
+300 Allstate Parkway   
+Markham, Ontario L3R 0P2   
 Canada. 
 
 All complaints received by GLWiZ will be investigated and if justified, GLWiZ will take the appropriate measures, including if necessary, amending its policies and practices, to resolve the complaint. 
 
-© 2007 GLWiZ. All Rights Reserved!
+© 2011 GLWiZ. All Rights Reserved!
 
   
 
