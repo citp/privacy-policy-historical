@@ -1,20 +1,24 @@
-> *The following text is extracted and transformed from the fapdu.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219082535id_/http%3A//fapdu.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fapdu.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625084952id_/http%3A//fapdu.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy of fapdu
 
 We do **not** collect any personal information from our unregistered users. Registered users may provide information on an opt-in basis. We do not require an email address in order to sign up. 
 
+**LAST UPDATED: January 22, 2012**
+
 ## Data collected
 
-Registered and non-registered users can browse videos and images without giving up any of their personal information. An IP address is recorded on registration and in the server logs for security reasons.
+Registered and non-registered users can browse videos and images without giving up any of their personal information. An IP address is recorded on registration and in the server logs for security reasons. IP addresses are recorded in hourlong snapshots for both registered and unregistered users for the sole purpose of spam prevention.
 
-Registration is required in order to upload image galleries and favorite videos. An email address is only required for uploading image galleries and is only used in the event that illegal content has been posted (so we can contact you). Your email address and any other information will not be sold or used for any other purpose.
+Registration is required in order to upload image galleries, upload videos and favorite videos. Your IP address is recorded on registration and on each user action you take including commenting, uploading, logging in and favoriting. We will provide your IP to law enforcement agencies if you upload anything involving minors or clear instances of rape and other violent material.
 
- **Content Uploaded** : Any images you upload to the site and any collections you make will be publicly viewable, as will your public profile.
+We protect your user information to the best of our ability using Whirlpool hashing, password salts, and user token verification. None of your authentication information is stored in plain text.
 
- **Cookies** : Cookies are used only for the following purposes - keeping you logged into the site when you sign in with your fapdu account and preventing more than one popunder from displaying during your session.
+ **Content Uploaded** : Any videos or images you upload to the site and any collections you make will be publicly viewable, as will your public profile.
 
- **Third Party Cookies** : Third party cookies are set by Google Analytics to track pageviews.
+ **Cookies** : Cookies are used only for the following purposes - keeping you logged into the site when you sign in with your fapdu account, storing your search preferences and preventing more than one popunder from displaying during your session.
+
+ **Third Party Cookies** : Third party cookies are set by Google Analytics to track pageviews and FapduCams to limit the number advertisements you receive.
 
  **Log file information** : Server logs are rotated daily regarding visitor IP addresses, web useragents, referring urls, and the time of visit.
 
@@ -25,13 +29,16 @@ Fapdu will not disclose or use any of your information unless required to do so 
 ## Security
 
 Fapdu takes the following steps to maintain a secure website:  
+ _Upgrade new releases to software and kernel expeditiously_  
  _Google safebrowsing tools_  
- _Daily maintenance_
+ _Daily maintenance_  
+ _Daily diagnostic tools_  
+ _Realtime system monitoring_
 
-You use fapdu at your own risk, however we do everything in our power to make your experience a safe and secure one.
+You use fapdu at your own risk, however we do everything in our power to make your experience a safe and secure one. You are responsible for the safety of your own account and login information.
 
 ## Contact
 
-You make contact fapdu using
+You may contact fapdu using
 
-[Email Us](mailto:smutupon@gmail.com)
+[Email Us](mailto:dmca@coolstoryllc.com)
