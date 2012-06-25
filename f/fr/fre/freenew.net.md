@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freenew.net privacy policy that was archived on 2011-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110813023852id_/http%3A//www.freenew.net/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freenew.net privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625204344id_/http%3A//www.freenew.net/privacyPolicy.htm) for the most accurate reproduction.*
 
 # 
 
