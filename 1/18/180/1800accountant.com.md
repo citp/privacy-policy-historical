@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the 1800accountant.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104075331id_/http%3A//www.1800accountant.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800accountant.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625094234id_/http%3A//1800accountant.com/privacy-policy.cfm) for the most accurate reproduction.*
 
-# 1-800 Accountant
+# Privacy Policy | 1800Accountant
 
-##### Privacy Policy
+1800Accountant.com is committed to protecting user privacy. 1800Accountant.com, however, is not responsible for the content or the privacy practices of non-1800Accountant.com websites, including websites reached through a link or re-direct on 1800Accountant.com. Other websites may have different privacy policies, or no policy. Users should review the privacy policies of any website before providing personal information.
+
+Should 1800Accountant.com modify its practices regarding the collection or use of information obtained from users in the future, this privacy statement will be amended to reflect such modifications.
+
+This Privacy Policy applies only to 1800Accountant.com and does not apply to practices of companies 1800Accountant.com does not own or control.
+
+**For more information, please read our Terms and Conditions.**
+
+For more information, please contact:  
+1800Accountant.com Corp.  
+2001 Grove Street  
+Wantagh, NY 11793
 
 1800Accountant.com Corp., the owner of this website, respects the privacy of users on the Internet and has developed this privacy statement to protect user privacy on its website.
 
@@ -18,27 +29,3 @@
 Information Provided by Children: 1800Accountant.com does not target or intentionally market to or knowingly collect information from children.
 
 Disclosure Pursuant to Legal Process: 1800Accountant.com shall, pursuant to applicable law, regulation or legal process, such as a search warrant, subpoena or court order, allow access to all available and relevant information in order to comply with such process and protect 1800Accountant.com's rights and property. 1800Accountant.com may also allow access to this information in special emergencies where physical safety is at risk.
-
-1800Accountant.com is committed to protecting user privacy. 1800Accountant.com, however, is not responsible for the content or the privacy practices of non-1800Accountant.com websites, including websites reached through a link or re-direct on 1800Accountant.com. Other websites may have different privacy policies, or no policy. Users should review the privacy policies of any website before providing personal information.
-
-Should 1800Accountant.com modify its practices regarding the collection or use of information obtained from users in the future, this privacy statement will be amended to reflect such modifications.
-
-This Privacy Policy applies only to 1800Accountant.com and does not apply to practices of companies 1800Accountant.com does not own or control.
-
-For more information, please read our Terms and Conditions.
-
-For more information, please contact:  
-1800Accountant.com Corp.  
-2001 Grove Street  
-Wantagh, NY 11793
-
-|   | 
-
-|   
-  
----  
-| 
-
-"I need an accountant fast and that's why I am using 1-800-accountant.com. I can find a great little firm just blocks from my office!  
-  
-It's great that by using 1-800-Accountant I get a free consultation with a CPA so I can talk right away with a licensed professional about my needs and concerns."
