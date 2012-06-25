@@ -1,16 +1,43 @@
-> *The following text is extracted and transformed from the findmyshift.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229091632id_/http%3A//www.findmyshift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmyshift.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625163011id_/http%3A//www.findmyshift.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy » Findmyshift
 
-Findmyshift is always committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at [support@findmyshift.com](mailto:support@findmyshift.com).
+## What data does Findmyshift store?
 
-Information collected  
-Findmyshift only stores the your details to facilitate the running of the website. We don not share your information with anyone. Your data is secured within our servers and is only available to Findmyshift and it's authorised employees.
+As a general rule we try to keep personal information about you and your business to a minimum, only storing what is necessary for the system to function. This is why most data fields in the system are optional.
 
-Findmyshift does not use your contact details for unsolicited emails although there may be instances where it may be necessary for us to communicate with you for administrative or operational reasons relating to our service.
+When signing up as a manager for your free trial we ask for your email address, your first name, a password and a name for your schedule. You are have the option to enter email addresses and mobile telephone numbers for staff so you can communicate directly with them via the website, however these contact details are not required.
 
-Other web sites  
-Our web site may contain links to other web sites which are outside our control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
+Apart from storing all data entered by managers and staff, Findmyshift also stores email support logs, access logs and trace logs of any errors that may occur. This helps us ensure the site is operating as expected. Detailed access logs which include the IP address of the user may be kept for up to a week before being removed. Payment information such as credit card details are all processed by a third party payment provider (PayPal) so no credit card details are ever handled or stored by Findmyshift. It is possible that PayPal may store certain credit card details for future purchases and it is worth noting that their privacy policy may differ from ours.
 
-Cookies  
-"Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about the way cookies work on [http://www.cookiecentral.com](http://www.cookiecentral.com/). Findmyshift uses cookies for a number of purposes, for instance to enable us to simplify the logging on process for registered users and to help ensure the security and authenticity of registered users.
+## What does Findmyshift do with your information?
+
+Findmyshift only ever uses your data for populating your schedule and any associated reports. We don’t share, sell or export your data to any third party not directly involved the delivery of our service. Findmyshift will never use personal data for marketing or business development and will only contact you if necessary for administrative or operational purposes associated with your subscription.
+
+Unless troubleshooting a problem with your service, Findmyshift staff will only ever access your data when authorised by you to do so.
+
+## How does Findmyshift safeguard your data?
+
+Ensuring that your data is secure is very important and we take this responsibility seriously. As a result, all sensitive data you enter, e.g. your password, is encrypted. All the data associated with your account and schedules are stored on our servers in a highly secured data centre, protected by monitored key card access, 360° recorded passive/active CCTV as well as an electronic multi-gated entry point and a perimiter alarm.
+
+Furthermore, every 24 hours all customer data is backed up, encrypted and archived at two secure off-site locations.
+
+Findmyshift is also registered with the UK Information Commissioner’s Office (Reg. No. Z3140758) and is fully compliant with the UK’s Data Protection Act, which is in line with most international information protection laws and regulations.
+
+## Can I delete my data?
+
+If you signed up for the free one month trial and haven’t signed up as a customer, your schedule and all data entered will be deleted from our servers after 90 days of inactivity, so no action is required from you. If you’re an existing customer and are thinking of leaving us, please [get in touch](https://web.archive.org/web/20120625163011id_/http%3A//www.findmyshift.com/contact-us) to discuss any concerns you might have about Findmyshift holding on to your data.
+
+## Does Findmyshift use cookies? If so, how?
+
+Yes, and like most websites, cookies are integral to its operation. In particular, cookies are used to remember your log-in details and keep you logged in to Findmyshift. Cookies are also used to remember certain computer and user specific settings. Findmyshift also uses Google Analytics which needs to store a number of cookies to operate correctly.
+
+If you want to know more about how and why cookies are used on websites, please visit [this Wikipedia entry](http://en.wikipedia.org/wiki/HTTP_cookie) or [get in touch](https://web.archive.org/web/20120625163011id_/http%3A//www.findmyshift.com/contact-us) with the team.
+
+## What if I navigate to another website via Findmyshift?
+
+Findmyshift may at times contain links to other websites which are outside of our control and are not covered by our privacy policy. If you access other sites using these links, the operators of these sites may collect and use your information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
+
+## Where can I find out more information?
+
+If you have a specific question about how we protect your data then please [get in touch](https://web.archive.org/web/20120625163011id_/http%3A//www.findmyshift.com/contact-us).
