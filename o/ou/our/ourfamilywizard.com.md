@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ourfamilywizard.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112162750id_/http%3A//www.ourfamilywizard.com/ofw/index.cfm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourfamilywizard.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625213106id_/http%3A//www.ourfamilywizard.com/ofw/index.cfm/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OurFamilyWizard | child custody | parenting time
+# Privacy Policy - Our Family Wizard - child custody, parenting time
 
 #### OurFamilyWizard believes your privacy is of the utmost importance.
 
@@ -32,8 +32,6 @@ Your Ability to Edit and Delete Your Account Information and Preferences
 
 The OurFamilyWizard website gives you the ability to edit your OurFamilyWizard website account information and preferences at any time, including whether you want OurFamilyWizard to contact you about special promotions and new products.
 
-You may request deletion of your OurFamilyWizard website account and all information contained therein by sending an email to account-remove@ourfamilywizard.com.
-
 **Security  
 **Your OurFamilyWizard website Account Information is password protected for your privacy and security.
 
@@ -43,5 +41,5 @@ Because of the sensitivity of information stored on the OurFamilyWizard website,
 **The OurFamilyWizard website may amend this policy from time to time. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our pages.
 
 **Questions or Suggestions**  
-If you have suggestions, complete a feedback form, or send an email to:   
+If you have suggestions, complete a feedback form, or send an email to:  
 [policy-admin@OurFamilyWizard.com](mailto:policy-admin@OurFamilyWizard.com)
