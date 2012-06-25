@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123941id_/http%3A//www.adtrader.co.uk/siteinfo.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625021346id_/http%3A//www.adtrader.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Ad Trader classifieds, Free local classified ads with images ads online now.
-
-All personal information collected and used from the Ad Trader website will be processed in accordance with this Privacy Policy and the Data Protection Act 1998 (as amended from time to time).
-
-We may update this Privacy Policy from time to time and without notice. You agree to regularly review this Privacy Policy so that you are aware of any changes. 
-
-## Information Collected
 
 ### Online Advertisements
 
@@ -18,11 +12,9 @@ Depending upon the classifications you have chosen, the publication the advert i
 
 In order to conduct a search on the Ad Trader website, we will require you to supply a postcode and a keyword of the item you are searching for i.e. "bike". 
 
-## Use of Information
-
 ### General
 
-Ad Trader is a trading name of Trader Publishing Limited a company within the Trader Media Group (“Group”) and information supplied to this website may be shared within the Group and with other third parties as detailed in this Privacy Policy under the heading “Disclosure of Information”. Please note that your advert may appear in one of the Group’s partner publications or websites or on other third party websites selected by us, including without limitation, the website located at www.oodle.co.uk. 
+Ad Trader is a trading name of Trader Publishing Limited a company within the Trader Media Group ("Group") and information supplied to this website may be shared within the Group and with other third parties as detailed in this Privacy Policy under the heading "Disclosure of Information". Please note that your advert may appear in one of the Group's partner publications or websites or on other third party websites selected by us, including without limitation, the website located at www.oodle.co.uk. 
 
 When registered, Ad Trader is committed to continually improving and enhancing the service we offer and you will be notified of these changes by email or SMS. 
 
@@ -54,7 +46,7 @@ Email addresses are collected in order to send registered users their chosen pas
 
 When you register with us, You provide us with your email address. When placing an advert, if you select the Email Seller option this enables other users to contact you directly, initially via a contact form. On responding to this contact form request, your email address will be disclosed to the other user. Similarly anyone using the Email Seller Facility and submitting a contact form acknowledges that by submitting such a form, their email address will be passed to the other user. 
 
-Where users are involved in a transaction via use of the Email Seller Facility, they may have access to each other’s name, User ID, email address and other contact and address information.
+Where users are involved in a transaction via use of the Email Seller Facility, they may have access to each other?s name, User ID, email address and other contact and address information.
 
 By using the Email Seller Facility, users agree that they will only use the information provided to them for:
 
@@ -76,13 +68,9 @@ We may disclose any information that we collect from you to:
 
 
 
-## My Offers
-
 In exchange for completing a self profiling questionnaire members of MYOFFERS are entered in to prize draws. The questionnaires are sponsored by Ad Trader who determine the type of data they would like to collect. By registering with MYOFFERS you are providing your consent for information to be collected about you so that MYOFFERS and third parties including Trader Media Group can send your communications via email, sms, voice, post or other appropriate means relating to products and service that may be of interest to you. 
 
 You can deregister from MYOFFERS by visiting <http://www.myoffers.co.uk/myaccount.asp> and then select the deregister button shown within My Account. 
-
-## Use of Cookies
 
 When you visit the Ad Trader website we issue a "cookie" or unique identification code that enables us to recognise your computer and store settings to help facilitate your use of the website. 
 
@@ -105,4 +93,7 @@ Please note you need to enable cookies in your browser in order to place an adve
 
 ### Automatic Logging of Session Data
 
-We automatically log generic information about your computer and your computer’s connection to the Internet which we call “session data”. Session data consists of things such as device information, IP address, operating system and browser software information, and the activities conducted by you while on our site. An IP address is a number that lets computers attached to the Internet, such as our web servers, know where to send data back to the user, such as the pages of the site the user wishes to view. We collect session data because it helps us to anaylse such things as what items visitors are likely to click on most, the way visitors are clicking through the site, how many visitors are surfing to various pages on the site, how long visitors to the site are staying and how often they are visiting. It also helps us diagnose problems with our servers and lets us better administer our systems. It is possible to determine from an IP address a visitor’s Internet Service provider (ISP) and the approximate geographical location of his or her point of connectivity. We may also use some session data, such as the pages you have visited on our site, to send you e-mail messages focused on matters that you may be interested in, unless you have previously opted out of receiving such messages. We also use session data to help prevent fraud and unauthorised use of our site. 
+We automatically log generic information about your computer and your computer's connection to the Internet which we call "session data". Session data consists of things such as device information, IP address, operating system and browser software information, and the activities conducted by you while on our site. An IP address is a number that lets computers attached to the Internet, such as our web servers, know where to send data back to the user, such as the pages of the site the user wishes to view. We collect session data because it helps us to anaylse such things as what items visitors are likely to click on most, the way visitors are clicking through the site, how many visitors are surfing to various pages on the site, how long visitors to the site are staying and how often they are visiting. It also helps us diagnose problems with our servers and lets us better administer our systems. It is possible to determine from an IP address a visitor's Internet Service provider (ISP) and the approximate geographical location of his or her point of connectivity. We may also use some session data, such as the pages you have visited on our site, to send you e-mail messages focused on matters that you may be interested in, unless you have previously opted out of receiving such messages. We also use session data to help prevent fraud and unauthorised use of our site. 
+
+  
+
