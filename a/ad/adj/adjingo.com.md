@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the adjingo.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108074503id_/http%3A//www.adjingo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjingo.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625083218id_/http%3A//www.adjingo.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - AdJingo.com
-
-## Privacy Policy
-
-**AdJingo Privacy Policy**
+# AdJingo.com | Privacy Polocy
 
 and benefit in search engine popularity, search engine optimization and getting additional links to your website. Trading relevant links with related websites helps with search engine relevance. Trade links with advertising related products or services. Create backlinks to your website, get more exposure in the search engines and more.  
 Get more traffic, build more backlinks and more! 
@@ -29,4 +25,4 @@ We cannot ensure that all of your private communications and other personally id
 
 **General.** We may update this policy at any time 
 
-April 2008 
+Dec 2011 
