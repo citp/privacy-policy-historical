@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the virginholidays.co.uk privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226222922id_/http%3A//www.virginholidays.co.uk/info/important/privacy_statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virginholidays.co.uk privacy policy that was archived on 2012-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625144257id_/http%3A//www.virginholidays.co.uk/info/important/privacy_statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><title>
 	
@@ -30,7 +30,14 @@ Privacy Policy - Virgin Holidays
 
 
 <link rel="stylesheet" type="text/css" href="/_assets/css/myitinerary.css">
-<link rel="stylesheet" type="text/css" href="/_assets/js/jquery.jwysisyg/jquery.wysiwyg.css"><link href="/_assets/css/static.css" type="text/css" rel="stylesheet" media="screen">
+<link rel="stylesheet" type="text/css" href="/_assets/js/jquery.jwysisyg/jquery.wysiwyg.css">
+
+
+
+<link href="/_Assets/js/bubbletip/bubbletip.css" rel="stylesheet" type="text/css" media="screen">
+    <!--[if IE]>
+	    <link href="/_Assets/js/bubbletip/bubbletip-IE.css" rel="stylesheet" type="text/css" />
+	<![endif]--><link href="/_assets/css/static.css" type="text/css" rel="stylesheet" media="screen">
         <style type="text/css">
 	        #pageTitle { width:587px !important; }
 	        #important_message { margin-top:15px; }
@@ -47,10 +54,11 @@ Privacy Policy - Virgin Holidays
 
 
 
-<script type="text/javascript" src="/_assets/js/jquery.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" src="/_assets/js/jquery.js"></script>
 <script type="text/javascript" src="/_assets/js/ui.core.min.js"></script>
 <script type="text/javascript" src="/_assets/js/jquery.modified.datepicker.1.6rc2.js"></script>
 <script type="text/javascript" src="/_assets/js/jquery.cycle.min.js"></script>
+<script type="text/javascript" src="/_assets/js/jquery.tooltip.js"></script>
 <script type="text/javascript" src="/_assets/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="/_assets/js/json2.js"></script>
 <script type="text/javascript" src="/_assets/js/extensions.js"></script>
@@ -75,20 +83,22 @@ Privacy Policy - Virgin Holidays
 
 
 <script type="text/javascript" language="javascript" src="/_assets/js/flyoutbookingform.js"></script>
+<script type="text/javascript" language="javascript" src="/_assets/js/flyDriveSearch.js"></script>
 
 <script type="text/javascript">
-
-	$(function() {
-		VH.GUI.Init();
-		VH.AJAX.Init();
+    $(function() {
+        VH.GUI.Init();
+        VH.AJAX.Init();
         VH.TOOLS.Init();
-	});
+    });
 
-</script>
- 
-
-<script type="text/javascript">
 	$(document).ready(function() {
+		$('#a1_left').bubbletip($('#tip1_left'), {
+            deltaDirection: 'down',
+            animationDuration: 100,
+            offsetLeft: -20
+        });
+	
 		window.setTimeout(function() {
 			$('.skype_pnh_container').html('');
 			$('.skype_pnh_print_container').removeClass('skype_pnh_print_container');
@@ -152,7 +162,7 @@ Privacy Policy - Virgin Holidays
 	<script type="text/javascript" language="javascript">	function zoomImage(imgsrc){window.open(imgsrc,"zoomImageWindow","width=600,height=400");}</script></head>
 	<body id="ctl00_bodytag">
 		<form name="aspnetForm" method="post" action="default.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg4MTAyMTU0OA9kFgJmD2QWBAIBD2QWAgILD2QWAmYPFQFBaHR0cDovL3d3dy52aXJnaW5ob2xpZGF5cy5jby51ay9pbmZvL2ltcG9ydGFudC9wcml2YWN5X3N0YXRlbWVudC9kAgMPZBYCAgEPZBYCAhIPZBYCAgEPZBYEZg8WAh4HVmlzaWJsZWhkAgMPZBYCZg9kFgJmD2QWDAIBD2QWBAICDxAPFgQeC18hRGF0YUJvdW5kZx4HRW5hYmxlZGhkEBUOB0Zsb3JpZGEJQ2FyaWJiZWFuA1VTQQVFZ3lwdA9DZW50cmFsIEFtZXJpY2EGTWV4aWNvBkNhbmFkYQZIYXdhaWkLTWlkZGxlIEVhc3QMSW5kaWFuIE9jZWFuBkFmcmljYQhGYXIgRWFzdB1Ta2kgSG9saWRheXMgKFVTQSBhbmQgQ2FuYWRhKRlBdXN0cmFsaWEgYW5kIE5ldyBaZWFsYW5kFQ4HRmxvcmlkYQlDYXJpYmJlYW4DVVNBBUVneXB0D0NlbnRyYWwgQW1lcmljYQZNZXhpY28GQ2FuYWRhBkhhd2FpaQtNaWRkbGUgRWFzdAxJbmRpYW4gT2NlYW4GQWZyaWNhCEZhciBFYXN0HVNraSBIb2xpZGF5cyAoVVNBIGFuZCBDYW5hZGEpGUF1c3RyYWxpYSBhbmQgTmV3IFplYWxhbmQUKwMOZ2dnZ2dnZ2dnZ2dnZ2cWAWZkAgQPEA8WBh4EUm93cwIBHg9FbmFibGVPcHRHcm91cHNnHwJoZA8WIWYCAQICAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEAIRAhICEwIUAhUCFgIXAhgCGQIaAhsCHAIdAh4CHwIgFiEUKwADDwUQTGFrZSBCdWVuYSBWaXN0YQUGMzMyLk9SBQdPcmxhbmRvZBQrAAMPBRNJbnRlcm5hdGlvbmFsIERyaXZlBQYzMzAuT1IFB09ybGFuZG9kFCsAAw8FCUtpc3NpbW1lZQUGMzI5Lk9SBQdPcmxhbmRvZBQrAAMPBQZEaXNuZXkFBjMyNy5PUgUHT3JsYW5kb2QUKwADDwUJVW5pdmVyc2FsBQYzMzEuT1IFB09ybGFuZG9kFCsAAw8FFEdyYW5kZSBMYWtlcyBPcmxhbmRvBQcxMzgzLk9SBQdPcmxhbmRvZBQrAAMPBQ5GbG9yaWRhIFZpbGxhcwUHMTI5MC5PUgUORmxvcmlkYSBWaWxsYXNkFCsAAw8FEUd1bGYgQ29hc3QgVmlsbGFzBQcxODQ1LkZNBQ5GbG9yaWRhIFZpbGxhc2QUKwADDwUQTGFrZSBCdWVuYSBWaXN0YQUHMjAwOS5PUgUVRmxvcmlkYSBTZWxmIENhdGVyaW5nZBQrAAMPBRNJbnRlcm5hdGlvbmFsIERyaXZlBQcxOTk5Lk9SBRVGbG9yaWRhIFNlbGYgQ2F0ZXJpbmdkFCsAAw8FCUtpc3NpbW1lZQUHMTk5Mi5PUgUVRmxvcmlkYSBTZWxmIENhdGVyaW5nZBQrAAMPBRdOYXBsZXMgYW5kIE1hcmNvIElzbGFuZAUHMTk4OC5OTQUVRmxvcmlkYSBTZWxmIENhdGVyaW5nZBQrAAMPBQxJbmRpYW4gUm9ja3MFBzE5OTguQ1cFFUZsb3JpZGEgU2VsZiBDYXRlcmluZ2QUKwADDwUPVHJlYXN1cmUgSXNsYW5kBQcyMDA0LlNQBRVGbG9yaWRhIFNlbGYgQ2F0ZXJpbmdkFCsAAw8FFlNhcmFzb3RhIGFuZCBCcmFkZW50b24FBzIwMDUuU1MFFUZsb3JpZGEgU2VsZiBDYXRlcmluZ2QUKwADDwUbQ2xlYXJ3YXRlciBhbmQgSW5kaWFuIFJvY2tzBQcxNjc0LkNXBQpHdWxmIENvYXN0ZBQrAAMPBSFTdCBQZXRlIEJlYWNoIGFuZCBUcmVhc3VyZSBJc2xhbmQFBzIwMjcuU1AFCkd1bGYgQ29hc3RkFCsAAw8FF05hcGxlcyBhbmQgTWFyY28gSXNsYW5kBQcxNDk1Lk5NBQpHdWxmIENvYXN0ZBQrAAMPBRNTYW5pYmVsIGFuZCBDYXB0aXZhBQcxNDk0LlNDBQpHdWxmIENvYXN0ZBQrAAMPBQpGb3J0IE15ZXJzBQcxNDk0LkZNBQpHdWxmIENvYXN0ZBQrAAMPBRZTYXJhc290YSBhbmQgQnJhZGVudG9uBQcxNjc4LlNTBQpHdWxmIENvYXN0ZBQrAAMPBQ5Cb25pdGEgU3ByaW5ncwUHMTQ5Ni5OTQUKR3VsZiBDb2FzdGQUKwADDwULTWlhbWkgQmVhY2gFBjMzNC5GSAUFTWlhbWlkFCsAAw8FC1NvdXRoIEJlYWNoBQcyMDM5LlNVBQVNaWFtaWQUKwADDwUIQXZlbnR1cmEFBzIwMzguVlAFBU1pYW1pZBQrAAMPBQxLZXkgQmlzY2F5bmUFBzIwNDAuS0IFBU1pYW1pZBQrAAMPBQxTdCBBdWd1c3RpbmUFBzE0ODcuQUcFCkdvbGQgQ29hc3RkFCsAAw8FD0ZvcnQgTGF1ZGVyZGFsZQUHMTY3OS5GTAUKR29sZCBDb2FzdGQUKwADDwUHRGF5dG9uYQUHMTQ4OC5EVAUKR29sZCBDb2FzdGQUKwADDwUIRHVjayBLZXkFBzEzMDIuRFkFDEZsb3JpZGEgS2V5c2QUKwADDwUJS2V5IExhcmdvBQYzNDMuS0wFDEZsb3JpZGEgS2V5c2QUKwADDwUIS2V5IFZhY2EFBzE1MTAuVksFDEZsb3JpZGEgS2V5c2QUKwADDwUIS2V5IFdlc3QFBjM0Ni5LVwUMRmxvcmlkYSBLZXlzZBYBZmQCAw9kFgICAg8QDxYCHwFnZBAVBQ5Mb25kb24gR2F0d2ljawpNYW5jaGVzdGVyCUVkaW5idXJnaAdHbGFzZ293CkJpcm1pbmdoYW0VBQNMR1cDTUFOA0VESQNHTEEDQkhYFCsDBWdnZ2dnFgFmZAIFD2QWCGYPFCsCBAWMElt7IkZyb21BaXJwb3J0Q29kZSI6IkxHVyIsIlRvQWlycG9ydENvZGUiOiJNQ08iLCJGcm9tQWlycG9ydE5hbWUiOiJMb25kb24gR2F0d2ljayIsIlRvQWlycG9ydE5hbWUiOiJPcmxhbmRvIiwiUm91dGVOb3RlcyI6IiIsIkFpcmxpbmVJRCI6MSwiUm91dGVJRCI6MTIsIlJvdXRlRGlzcGxheVNlcSI6NTAsIklzQWN0aXZlIjp0cnVlLCJJc091dE1vbmRheSI6dHJ1ZSwiSXNPdXRUdWVzZGF5Ijp0cnVlLCJJc091dFdlZG5lc2RheSI6dHJ1ZSwiSXNPdXRUaHVyc2RheSI6dHJ1ZSwiSXNPdXRGcmlkYXkiOnRydWUsIklzT3V0U2F0dXJkYXkiOnRydWUsIklzT3V0U3VuZGF5Ijp0cnVlLCJJc0luTW9uZGF5Ijp0cnVlLCJJc0luVHVlc2RheSI6dHJ1ZSwiSXNJbldlZG5lc2RheSI6dHJ1ZSwiSXNJblRodXJzZGF5Ijp0cnVlLCJJc0luRnJpZGF5Ijp0cnVlLCJJc0luU2F0dXJkYXkiOnRydWUsIklzSW5TdW5kYXkiOnRydWV9LHsiRnJvbUFpcnBvcnRDb2RlIjoiTUFOIiwiVG9BaXJwb3J0Q29kZSI6Ik1DTyIsIkZyb21BaXJwb3J0TmFtZSI6Ik1hbmNoZXN0ZXIiLCJUb0FpcnBvcnROYW1lIjoiT3JsYW5kbyIsIlJvdXRlTm90ZXMiOiIiLCJBaXJsaW5lSUQiOjEsIlJvdXRlSUQiOjU3LCJSb3V0ZURpc3BsYXlTZXEiOjEwMCwiSXNBY3RpdmUiOnRydWUsIklzT3V0TW9uZGF5Ijp0cnVlLCJJc091dFR1ZXNkYXkiOnRydWUsIklzT3V0V2VkbmVzZGF5Ijp0cnVlLCJJc091dFRodXJzZGF5Ijp0cnVlLCJJc091dEZyaWRheSI6dHJ1ZSwiSXNPdXRTYXR1cmRheSI6dHJ1ZSwiSXNPdXRTdW5kYXkiOnRydWUsIklzSW5Nb25kYXkiOnRydWUsIklzSW5UdWVzZGF5Ijp0cnVlLCJJc0luV2VkbmVzZGF5Ijp0cnVlLCJJc0luVGh1cnNkYXkiOnRydWUsIklzSW5GcmlkYXkiOnRydWUsIklzSW5TYXR1cmRheSI6dHJ1ZSwiSXNJblN1bmRheSI6dHJ1ZX0seyJGcm9tQWlycG9ydENvZGUiOiJHTEEiLCJUb0FpcnBvcnRDb2RlIjoiTUNPIiwiRnJvbUFpcnBvcnROYW1lIjoiR2xhc2dvdyIsIlRvQWlycG9ydE5hbWUiOiJPcmxhbmRvIiwiUm91dGVOb3RlcyI6IiIsIkFpcmxpbmVJRCI6MSwiUm91dGVJRCI6MjUwLCJSb3V0ZURpc3BsYXlTZXEiOjEwMCwiSXNBY3RpdmUiOnRydWUsIklzT3V0TW9uZGF5IjpmYWxzZSwiSXNPdXRUdWVzZGF5IjpmYWxzZSwiSXNPdXRXZWRuZXNkYXkiOmZhbHNlLCJJc091dFRodXJzZGF5IjpmYWxzZSwiSXNPdXRGcmlkYXkiOnRydWUsIklzT3V0U2F0dXJkYXkiOnRydWUsIklzT3V0U3VuZGF5Ijp0cnVlLCJJc0luTW9uZGF5IjpmYWxzZSwiSXNJblR1ZXNkYXkiOmZhbHNlLCJJc0luV2VkbmVzZGF5IjpmYWxzZSwiSXNJblRodXJzZGF5IjpmYWxzZSwiSXNJbkZyaWRheSI6dHJ1ZSwiSXNJblNhdHVyZGF5Ijp0cnVlLCJJc0luU3VuZGF5Ijp0cnVlfSx7IkZyb21BaXJwb3J0Q29kZSI6IkVESSIsIlRvQWlycG9ydENvZGUiOiJNQ08iLCJGcm9tQWlycG9ydE5hbWUiOiJFZGluYnVyZ2giLCJUb0FpcnBvcnROYW1lIjoiT3JsYW5kbyIsIlJvdXRlTm90ZXMiOiIiLCJBaXJsaW5lSUQiOjEsIlJvdXRlSUQiOjM0MywiUm91dGVEaXNwbGF5U2VxIjoxMDAsIklzQWN0aXZlIjp0cnVlLCJJc091dE1vbmRheSI6dHJ1ZSwiSXNPdXRUdWVzZGF5Ijp0cnVlLCJJc091dFdlZG5lc2RheSI6dHJ1ZSwiSXNPdXRUaHVyc2RheSI6dHJ1ZSwiSXNPdXRGcmlkYXkiOnRydWUsIklzT3V0U2F0dXJkYXkiOnRydWUsIklzT3V0U3VuZGF5Ijp0cnVlLCJJc0luTW9uZGF5Ijp0cnVlLCJJc0luVHVlc2RheSI6dHJ1ZSwiSXNJbldlZG5lc2RheSI6dHJ1ZSwiSXNJblRodXJzZGF5Ijp0cnVlLCJJc0luRnJpZGF5Ijp0cnVlLCJJc0luU2F0dXJkYXkiOnRydWUsIklzSW5TdW5kYXkiOnRydWV9LHsiRnJvbUFpcnBvcnRDb2RlIjoiQkhYIiwiVG9BaXJwb3J0Q29kZSI6Ik1DTyIsIkZyb21BaXJwb3J0TmFtZSI6IkJpcm1pbmdoYW0iLCJUb0FpcnBvcnROYW1lIjoiT3JsYW5kbyIsIlJvdXRlTm90ZXMiOiIiLCJBaXJsaW5lSUQiOjEsIlJvdXRlSUQiOjM0MCwiUm91dGVEaXNwbGF5U2VxIjoxMDAsIklzQWN0aXZlIjp0cnVlLCJJc091dE1vbmRheSI6dHJ1ZSwiSXNPdXRUdWVzZGF5Ijp0cnVlLCJJc091dFdlZG5lc2RheSI6dHJ1ZSwiSXNPdXRUaHVyc2RheSI6dHJ1ZSwiSXNPdXRGcmlkYXkiOnRydWUsIklzT3V0U2F0dXJkYXkiOnRydWUsIklzT3V0U3VuZGF5Ijp0cnVlLCJJc0luTW9uZGF5Ijp0cnVlLCJJc0luVHVlc2RheSI6dHJ1ZSwiSXNJbldlZG5lc2RheSI6dHJ1ZSwiSXNJblRodXJzZGF5Ijp0cnVlLCJJc0luRnJpZGF5Ijp0cnVlLCJJc0luU2F0dXJkYXkiOnRydWUsIklzSW5TdW5kYXkiOnRydWV9XQUPTW9uIDI2IEFwciAyMDEwBQ9UdWUgMzAgQXByIDIwMTNkZAIDDxAPFgIfAWdkEBUaCDMgbmlnaHRzCDQgbmlnaHRzCDUgbmlnaHRzCDYgbmlnaHRzCDcgbmlnaHRzCDggbmlnaHRzCDkgbmlnaHRzCTEwIG5pZ2h0cwkxMSBuaWdodHMJMTIgbmlnaHRzCTEzIG5pZ2h0cwkxNCBuaWdodHMJMTUgbmlnaHRzCTE2IG5pZ2h0cwkxNyBuaWdodHMJMTggbmlnaHRzCTE5IG5pZ2h0cwkyMCBuaWdodHMJMjEgbmlnaHRzCTIyIG5pZ2h0cwkyMyBuaWdodHMJMjQgbmlnaHRzCTI1IG5pZ2h0cwkyNiBuaWdodHMJMjcgbmlnaHRzCTI4IG5pZ2h0cxUaATMBNAE1ATYBNwE4ATkCMTACMTECMTICMTMCMTQCMTUCMTYCMTcCMTgCMTkCMjACMjECMjICMjMCMjQCMjUCMjYCMjcCMjgUKwMaZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2cWAQIEZAIHDw8WAh4EVGV4dAUPV2VkIDI4IERlYyAyMDExZGQCCQ8QDxYCHwFnZA8WGmYCAQICAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEAIRAhICEwIUAhUCFgIXAhgCGRYaEAUIMyBuaWdodHMFATNnEAUINCBuaWdodHMFATRnEAUINSBuaWdodHMFATVnEAUINiBuaWdodHMFATZnEAUINyBuaWdodHMFATdnEAUIOCBuaWdodHMFAThnEAUIOSBuaWdodHMFATlnEAUJMTAgbmlnaHRzBQIxMGcQBQkxMSBuaWdodHMFAjExZxAFCTEyIG5pZ2h0cwUCMTJnEAUJMTMgbmlnaHRzBQIxM2cQBQkxNCBuaWdodHMFAjE0ZxAFCTE1IG5pZ2h0cwUCMTVnEAUJMTYgbmlnaHRzBQIxNmcQBQkxNyBuaWdodHMFAjE3ZxAFCTE4IG5pZ2h0cwUCMThnEAUJMTkgbmlnaHRzBQIxOWcQBQkyMCBuaWdodHMFAjIwZxAFCTIxIG5pZ2h0cwUCMjFnEAUJMjIgbmlnaHRzBQIyMmcQBQkyMyBuaWdodHMFAjIzZxAFCTI0IG5pZ2h0cwUCMjRnEAUJMjUgbmlnaHRzBQIyNWcQBQkyNiBuaWdodHMFAjI2ZxAFCTI3IG5pZ2h0cwUCMjdnEAUJMjggbmlnaHRzBQIyOGdkZAIHD2QWJmYPFQgEUGF4MQRQYXgxNWN0bDAwX0Jvb2tpbmdGb3JtMV9HZW9ncmFwaGljYWxTZWFyY2hCRl9QYXgxX0NoaWxkUGF4NWN0bDAwX0Jvb2tpbmdGb3JtMV9HZW9ncmFwaGljYWxTZWFyY2hCRl9QYXgxX0NoaWxkUGF4BFBheDE1Y3RsMDBfQm9va2luZ0Zvcm0xX0dlb2dyYXBoaWNhbFNlYXJjaEJGX1BheDFfY2hpbGRhZ2UEUGF4MQRQYXgxZAIBDw8WAh4MRXJyb3JNZXNzYWdlBYQBPGRpdiBjbGFzcz0nYm9va2luZ2Vycm9yJz5UbyBib29rIG9ubGluZSBwbGVhc2Ugc2VsZWN0IGEgbWF4aW11bSBvZiA4IHBhc3NlbmdlcnMuIEZvciBiaWdnZXIgZ3JvdXBzIHBsZWFzZSBjYWxsIDA4NDQgNTczIDgzNDUuPC9kaXY+ZGQCAg8VAQRQYXgxZAIDDxAPFgIfAWdkEBUIATEBMgEzATQBNQE2ATcBOBUIATEBMgEzATQBNQE2ATcBOBQrAwhnZ2dnZ2dnZ2RkAgcPEA8WAh8BZxYCHghvbmNoYW5nZQVNU2hvd0NoaWxkQWdlcygnY3RsMDBfQm9va2luZ0Zvcm0xX0dlb2dyYXBoaWNhbFNlYXJjaEJGX1BheDFfQ2hpbGRQYXgnLCdQYXgxJykQFQgBMAExATIBMwE0ATUBNgE3FQgBMAExATIBMwE0ATUBNgE3FCsDCGdnZ2dnZ2dnZGQCCQ9kFgJmDxUBAjE4ZAILDxAPFgIfAWdkEBUIATABMQEyATMBNAE1ATYBNxUIATABMQEyATMBNAE1ATYBNxQrAwhnZ2dnZ2dnZ2RkAg0PZBYCZg8VAQEyZAIODxUBBFBheDFkAg8PDxYCHwYFYDxkaXYgY2xhc3M9ImJvb2tpbmdlcnJvciI+UGxlYXNlIHN1cHBseSBhZ2VzIGJldHdlZW4gMiBhbmQgMTcgKGluY2x1c2l2ZSkgZm9yIGFsbCBjaGlsZHJlbjwvZGl2PmRkAhAPFQMEUGF4MQRQYXgxBFBheDFkAhQPFQEEUGF4MWQCGA8VAQRQYXgxZAIcDxUBBFBheDFkAiAPFQEEUGF4MWQCJA8VAQRQYXgxZAIoDxUBBFBheDFkAiwPFQEEUGF4MWQCMA8VDwRQYXgxBFBheDEEUGF4MTVjdGwwMF9Cb29raW5nRm9ybTFfR2VvZ3JhcGhpY2FsU2VhcmNoQkZfUGF4MV9DaGlsZFBheDVjdGwwMF9Cb29raW5nRm9ybTFfR2VvZ3JhcGhpY2FsU2VhcmNoQkZfUGF4MV9DaGlsZFBheARQYXgxNWN0bDAwX0Jvb2tpbmdGb3JtMV9HZW9ncmFwaGljYWxTZWFyY2hCRl9QYXgxX0NoaWxkUGF4NWN0bDAwX0Jvb2tpbmdGb3JtMV9HZW9ncmFwaGljYWxTZWFyY2hCRl9QYXgxX0NoaWxkUGF4NWN0bDAwX0Jvb2tpbmdGb3JtMV9HZW9ncmFwaGljYWxTZWFyY2hCRl9QYXgxX0NoaWxkUGF4BFBheDE1Y3RsMDBfQm9va2luZ0Zvcm0xX0dlb2dyYXBoaWNhbFNlYXJjaEJGX1BheDFfY2hpbGRhZ2UEUGF4MQRQYXgxBFBheDEEUGF4MWQCCg8VAThjdGwwMF9Cb29raW5nRm9ybTFfR2VvZ3JhcGhpY2FsU2VhcmNoQkZfUmVnaW9uQm9va0J1dHRvbmQCDA8VAQBkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBThjdGwwMCRCb29raW5nRm9ybTEkR2VvZ3JhcGhpY2FsU2VhcmNoQkYkUmVnaW9uQm9va0J1dHRvbvPp96Xgqluy6TOc/U/qmtCUWplU">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg4MTAyMTU0OA9kFgJmD2QWBAIBD2QWAgILD2QWAmYPFQFBaHR0cDovL3d3dy52aXJnaW5ob2xpZGF5cy5jby51ay9pbmZvL2ltcG9ydGFudC9wcml2YWN5X3N0YXRlbWVudC9kAgMPZBYCAgEPZBYCAhIPZBYCAgEPZBYEZg8WAh4HVmlzaWJsZWhkAgMPZBYCZg9kFgJmD2QWCgIBD2QWBAICDxAPFgQeC18hRGF0YUJvdW5kZx4HRW5hYmxlZGhkEBUOB0Zsb3JpZGEJQ2FyaWJiZWFuA1VTQQVFZ3lwdA9DZW50cmFsIEFtZXJpY2EGTWV4aWNvBkNhbmFkYQZIYXdhaWkLTWlkZGxlIEVhc3QMSW5kaWFuIE9jZWFuBkFmcmljYQhGYXIgRWFzdB1Ta2kgSG9saWRheXMgKFVTQSBhbmQgQ2FuYWRhKRlBdXN0cmFsaWEgYW5kIE5ldyBaZWFsYW5kFQ4HRmxvcmlkYQlDYXJpYmJlYW4DVVNBBUVneXB0D0NlbnRyYWwgQW1lcmljYQZNZXhpY28GQ2FuYWRhBkhhd2FpaQtNaWRkbGUgRWFzdAxJbmRpYW4gT2NlYW4GQWZyaWNhCEZhciBFYXN0HVNraSBIb2xpZGF5cyAoVVNBIGFuZCBDYW5hZGEpGUF1c3RyYWxpYSBhbmQgTmV3IFplYWxhbmQUKwMOZ2dnZ2dnZ2dnZ2dnZ2cWAWZkAgQPEA8WBh4EUm93cwIBHg9FbmFibGVPcHRHcm91cHNnHwJoZA8WI2YCAQICAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEAIRAhICEwIUAhUCFgIXAhgCGQIaAhsCHAIdAh4CHwIgAiECIhYjFCsAAw8FC0FsbCBPcmxhbmRvBQYzMzAuT1IFB09ybGFuZG9kFCsAAw8FEExha2UgQnVlbmEgVmlzdGEFBjMzMi5PUgUHT3JsYW5kb2QUKwADDwUTSW50ZXJuYXRpb25hbCBEcml2ZQUGMzMwLk9SBQdPcmxhbmRvZBQrAAMPBQlLaXNzaW1tZWUFBjMyOS5PUgUHT3JsYW5kb2QUKwADDwUGRGlzbmV5BQYzMjcuT1IFB09ybGFuZG9kFCsAAw8FCVVuaXZlcnNhbAUGMzMxLk9SBQdPcmxhbmRvZBQrAAMPBRRHcmFuZGUgTGFrZXMgT3JsYW5kbwUHMTM4My5PUgUHT3JsYW5kb2QUKwADDwUIU2VhV29ybGQFBzIzMDQuT1IFB09ybGFuZG9kFCsAAw8FDkZsb3JpZGEgVmlsbGFzBQcxMjkwLk9SBQ5GbG9yaWRhIFZpbGxhc2QUKwADDwURR3VsZiBDb2FzdCBWaWxsYXMFBzE4NDUuRk0FDkZsb3JpZGEgVmlsbGFzZBQrAAMPBRBMYWtlIEJ1ZW5hIFZpc3RhBQcyMDA5Lk9SBRVGbG9yaWRhIFNlbGYgQ2F0ZXJpbmdkFCsAAw8FE0ludGVybmF0aW9uYWwgRHJpdmUFBzE5OTkuT1IFFUZsb3JpZGEgU2VsZiBDYXRlcmluZ2QUKwADDwUJS2lzc2ltbWVlBQcxOTkyLk9SBRVGbG9yaWRhIFNlbGYgQ2F0ZXJpbmdkFCsAAw8FF05hcGxlcyBhbmQgTWFyY28gSXNsYW5kBQcxOTg4Lk5NBRVGbG9yaWRhIFNlbGYgQ2F0ZXJpbmdkFCsAAw8FDEluZGlhbiBSb2NrcwUHMTk5OC5DVwUVRmxvcmlkYSBTZWxmIENhdGVyaW5nZBQrAAMPBQ9UcmVhc3VyZSBJc2xhbmQFBzIwMDQuU1AFFUZsb3JpZGEgU2VsZiBDYXRlcmluZ2QUKwADDwUWU2FyYXNvdGEgYW5kIEJyYWRlbnRvbgUHMjAwNS5TUwUVRmxvcmlkYSBTZWxmIENhdGVyaW5nZBQrAAMPBRtDbGVhcndhdGVyIGFuZCBJbmRpYW4gUm9ja3MFBzE2NzQuQ1cFCkd1bGYgQ29hc3RkFCsAAw8FIVN0IFBldGUgQmVhY2ggYW5kIFRyZWFzdXJlIElzbGFuZAUHMjAyNy5TUAUKR3VsZiBDb2FzdGQUKwADDwUXTmFwbGVzIGFuZCBNYXJjbyBJc2xhbmQFBzE0OTUuTk0FCkd1bGYgQ29hc3RkFCsAAw8FE1NhbmliZWwgYW5kIENhcHRpdmEFBzE0OTQuRk0FCkd1bGYgQ29hc3RkFCsAAw8FCkZvcnQgTXllcnMFBzE0OTQuRk0FCkd1bGYgQ29hc3RkFCsAAw8FFlNhcmFzb3RhIGFuZCBCcmFkZW50b24FBzE2NzguU1MFCkd1bGYgQ29hc3RkFCsAAw8FDkJvbml0YSBTcHJpbmdzBQcxNDk2Lk5NBQpHdWxmIENvYXN0ZBQrAAMPBQtNaWFtaSBCZWFjaAUGMzM0LkZIBQVNaWFtaWQUKwADDwULU291dGggQmVhY2gFBzIwMzkuU1UFBU1pYW1pZBQrAAMPBQhBdmVudHVyYQUHMjAzOC5WUAUFTWlhbWlkFCsAAw8FDEtleSBCaXNjYXluZQUHMjA0MC5LQgUFTWlhbWlkFCsAAw8FDFN0IEF1Z3VzdGluZQUHMTQ4Ny5BRwUKR29sZCBDb2FzdGQUKwADDwUPRm9ydCBMYXVkZXJkYWxlBQcxNjc5LkZMBQpHb2xkIENvYXN0ZBQrAAMPBQdEYXl0b25hBQcxNDg4LkRUBQpHb2xkIENvYXN0ZBQrAAMPBQhEdWNrIEtleQUHMTMwMi5EWQUMRmxvcmlkYSBLZXlzZBQrAAMPBQlLZXkgTGFyZ28FBjM0My5LTAUMRmxvcmlkYSBLZXlzZBQrAAMPBQhLZXkgVmFjYQUHMTUxMC5WSwUMRmxvcmlkYSBLZXlzZBQrAAMPBQhLZXkgV2VzdAUGMzQ2LktXBQxGbG9yaWRhIEtleXNkFgFmZAIDD2QWAgICDxAPFgIfAWdkEBUFDkxvbmRvbiBHYXR3aWNrCk1hbmNoZXN0ZXIJRWRpbmJ1cmdoB0dsYXNnb3cKQmlybWluZ2hhbRUFA0xHVwNNQU4DRURJA0dMQQNCSFgUKwMFZ2dnZ2cWAWZkAgUPZBYGZg8UKwIEBYwSW3siRnJvbUFpcnBvcnRDb2RlIjoiTEdXIiwiVG9BaXJwb3J0Q29kZSI6Ik1DTyIsIkZyb21BaXJwb3J0TmFtZSI6IkxvbmRvbiBHYXR3aWNrIiwiVG9BaXJwb3J0TmFtZSI6Ik9ybGFuZG8iLCJSb3V0ZU5vdGVzIjoiIiwiQWlybGluZUlEIjoxLCJSb3V0ZUlEIjoxMiwiUm91dGVEaXNwbGF5U2VxIjo1MCwiSXNBY3RpdmUiOnRydWUsIklzT3V0TW9uZGF5Ijp0cnVlLCJJc091dFR1ZXNkYXkiOnRydWUsIklzT3V0V2VkbmVzZGF5Ijp0cnVlLCJJc091dFRodXJzZGF5Ijp0cnVlLCJJc091dEZyaWRheSI6dHJ1ZSwiSXNPdXRTYXR1cmRheSI6dHJ1ZSwiSXNPdXRTdW5kYXkiOnRydWUsIklzSW5Nb25kYXkiOnRydWUsIklzSW5UdWVzZGF5Ijp0cnVlLCJJc0luV2VkbmVzZGF5Ijp0cnVlLCJJc0luVGh1cnNkYXkiOnRydWUsIklzSW5GcmlkYXkiOnRydWUsIklzSW5TYXR1cmRheSI6dHJ1ZSwiSXNJblN1bmRheSI6dHJ1ZX0seyJGcm9tQWlycG9ydENvZGUiOiJNQU4iLCJUb0FpcnBvcnRDb2RlIjoiTUNPIiwiRnJvbUFpcnBvcnROYW1lIjoiTWFuY2hlc3RlciIsIlRvQWlycG9ydE5hbWUiOiJPcmxhbmRvIiwiUm91dGVOb3RlcyI6IiIsIkFpcmxpbmVJRCI6MSwiUm91dGVJRCI6NTcsIlJvdXRlRGlzcGxheVNlcSI6MTAwLCJJc0FjdGl2ZSI6dHJ1ZSwiSXNPdXRNb25kYXkiOnRydWUsIklzT3V0VHVlc2RheSI6dHJ1ZSwiSXNPdXRXZWRuZXNkYXkiOnRydWUsIklzT3V0VGh1cnNkYXkiOnRydWUsIklzT3V0RnJpZGF5Ijp0cnVlLCJJc091dFNhdHVyZGF5Ijp0cnVlLCJJc091dFN1bmRheSI6dHJ1ZSwiSXNJbk1vbmRheSI6dHJ1ZSwiSXNJblR1ZXNkYXkiOnRydWUsIklzSW5XZWRuZXNkYXkiOnRydWUsIklzSW5UaHVyc2RheSI6dHJ1ZSwiSXNJbkZyaWRheSI6dHJ1ZSwiSXNJblNhdHVyZGF5Ijp0cnVlLCJJc0luU3VuZGF5Ijp0cnVlfSx7IkZyb21BaXJwb3J0Q29kZSI6IkdMQSIsIlRvQWlycG9ydENvZGUiOiJNQ08iLCJGcm9tQWlycG9ydE5hbWUiOiJHbGFzZ293IiwiVG9BaXJwb3J0TmFtZSI6Ik9ybGFuZG8iLCJSb3V0ZU5vdGVzIjoiIiwiQWlybGluZUlEIjoxLCJSb3V0ZUlEIjoyNTAsIlJvdXRlRGlzcGxheVNlcSI6MTAwLCJJc0FjdGl2ZSI6dHJ1ZSwiSXNPdXRNb25kYXkiOmZhbHNlLCJJc091dFR1ZXNkYXkiOmZhbHNlLCJJc091dFdlZG5lc2RheSI6ZmFsc2UsIklzT3V0VGh1cnNkYXkiOmZhbHNlLCJJc091dEZyaWRheSI6dHJ1ZSwiSXNPdXRTYXR1cmRheSI6dHJ1ZSwiSXNPdXRTdW5kYXkiOnRydWUsIklzSW5Nb25kYXkiOmZhbHNlLCJJc0luVHVlc2RheSI6ZmFsc2UsIklzSW5XZWRuZXNkYXkiOmZhbHNlLCJJc0luVGh1cnNkYXkiOmZhbHNlLCJJc0luRnJpZGF5Ijp0cnVlLCJJc0luU2F0dXJkYXkiOnRydWUsIklzSW5TdW5kYXkiOnRydWV9LHsiRnJvbUFpcnBvcnRDb2RlIjoiRURJIiwiVG9BaXJwb3J0Q29kZSI6Ik1DTyIsIkZyb21BaXJwb3J0TmFtZSI6IkVkaW5idXJnaCIsIlRvQWlycG9ydE5hbWUiOiJPcmxhbmRvIiwiUm91dGVOb3RlcyI6IiIsIkFpcmxpbmVJRCI6MSwiUm91dGVJRCI6MzQzLCJSb3V0ZURpc3BsYXlTZXEiOjEwMCwiSXNBY3RpdmUiOnRydWUsIklzT3V0TW9uZGF5Ijp0cnVlLCJJc091dFR1ZXNkYXkiOnRydWUsIklzT3V0V2VkbmVzZGF5Ijp0cnVlLCJJc091dFRodXJzZGF5Ijp0cnVlLCJJc091dEZyaWRheSI6dHJ1ZSwiSXNPdXRTYXR1cmRheSI6dHJ1ZSwiSXNPdXRTdW5kYXkiOnRydWUsIklzSW5Nb25kYXkiOnRydWUsIklzSW5UdWVzZGF5Ijp0cnVlLCJJc0luV2VkbmVzZGF5Ijp0cnVlLCJJc0luVGh1cnNkYXkiOnRydWUsIklzSW5GcmlkYXkiOnRydWUsIklzSW5TYXR1cmRheSI6dHJ1ZSwiSXNJblN1bmRheSI6dHJ1ZX0seyJGcm9tQWlycG9ydENvZGUiOiJCSFgiLCJUb0FpcnBvcnRDb2RlIjoiTUNPIiwiRnJvbUFpcnBvcnROYW1lIjoiQmlybWluZ2hhbSIsIlRvQWlycG9ydE5hbWUiOiJPcmxhbmRvIiwiUm91dGVOb3RlcyI6IiIsIkFpcmxpbmVJRCI6MSwiUm91dGVJRCI6MzQwLCJSb3V0ZURpc3BsYXlTZXEiOjEwMCwiSXNBY3RpdmUiOnRydWUsIklzT3V0TW9uZGF5Ijp0cnVlLCJJc091dFR1ZXNkYXkiOnRydWUsIklzT3V0V2VkbmVzZGF5Ijp0cnVlLCJJc091dFRodXJzZGF5Ijp0cnVlLCJJc091dEZyaWRheSI6dHJ1ZSwiSXNPdXRTYXR1cmRheSI6dHJ1ZSwiSXNPdXRTdW5kYXkiOnRydWUsIklzSW5Nb25kYXkiOnRydWUsIklzSW5UdWVzZGF5Ijp0cnVlLCJJc0luV2VkbmVzZGF5Ijp0cnVlLCJJc0luVGh1cnNkYXkiOnRydWUsIklzSW5GcmlkYXkiOnRydWUsIklzSW5TYXR1cmRheSI6dHJ1ZSwiSXNJblN1bmRheSI6dHJ1ZX1dBQ9Nb24gMjYgQXByIDIwMTAFD1R1ZSAzMSBEZWMgMjAxM2RkAgMPEA8WAh8BZ2QQFRoIMyBuaWdodHMINCBuaWdodHMINSBuaWdodHMINiBuaWdodHMINyBuaWdodHMIOCBuaWdodHMIOSBuaWdodHMJMTAgbmlnaHRzCTExIG5pZ2h0cwkxMiBuaWdodHMJMTMgbmlnaHRzCTE0IG5pZ2h0cwkxNSBuaWdodHMJMTYgbmlnaHRzCTE3IG5pZ2h0cwkxOCBuaWdodHMJMTkgbmlnaHRzCTIwIG5pZ2h0cwkyMSBuaWdodHMJMjIgbmlnaHRzCTIzIG5pZ2h0cwkyNCBuaWdodHMJMjUgbmlnaHRzCTI2IG5pZ2h0cwkyNyBuaWdodHMJMjggbmlnaHRzFRoBMwE0ATUBNgE3ATgBOQIxMAIxMQIxMgIxMwIxNAIxNQIxNgIxNwIxOAIxOQIyMAIyMQIyMgIyMwIyNAIyNQIyNgIyNwIyOBQrAxpnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2RkAgkPEA8WAh8BZ2QPFhpmAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0CDgIPAhACEQISAhMCFAIVAhYCFwIYAhkWGhAFCDMgbmlnaHRzBQEzZxAFCDQgbmlnaHRzBQE0ZxAFCDUgbmlnaHRzBQE1ZxAFCDYgbmlnaHRzBQE2ZxAFCDcgbmlnaHRzBQE3ZxAFCDggbmlnaHRzBQE4ZxAFCDkgbmlnaHRzBQE5ZxAFCTEwIG5pZ2h0cwUCMTBnEAUJMTEgbmlnaHRzBQIxMWcQBQkxMiBuaWdodHMFAjEyZxAFCTEzIG5pZ2h0cwUCMTNnEAUJMTQgbmlnaHRzBQIxNGcQBQkxNSBuaWdodHMFAjE1ZxAFCTE2IG5pZ2h0cwUCMTZnEAUJMTcgbmlnaHRzBQIxN2cQBQkxOCBuaWdodHMFAjE4ZxAFCTE5IG5pZ2h0cwUCMTlnEAUJMjAgbmlnaHRzBQIyMGcQBQkyMSBuaWdodHMFAjIxZxAFCTIyIG5pZ2h0cwUCMjJnEAUJMjMgbmlnaHRzBQIyM2cQBQkyNCBuaWdodHMFAjI0ZxAFCTI1IG5pZ2h0cwUCMjVnEAUJMjYgbmlnaHRzBQIyNmcQBQkyNyBuaWdodHMFAjI3ZxAFCTI4IG5pZ2h0cwUCMjhnZGQCBw9kFiZmDxUFBFBheDEEUGF4MQRQYXgxBFBheDEEUGF4MWQCAQ8PFgIeDEVycm9yTWVzc2FnZQWEATxkaXYgY2xhc3M9J2Jvb2tpbmdlcnJvcic+VG8gYm9vayBvbmxpbmUgcGxlYXNlIHNlbGVjdCBhIG1heGltdW0gb2YgOCBwYXNzZW5nZXJzLiBGb3IgYmlnZ2VyIGdyb3VwcyBwbGVhc2UgY2FsbCAwODQ0IDU3MyA4MzQ1LjwvZGl2PmRkAgIPFQEEUGF4MWQCAw8QDxYCHwFnZBAVCAExATIBMwE0ATUBNgE3ATgVCAExATIBMwE0ATUBNgE3ATgUKwMIZ2dnZ2dnZ2dkZAIHDxAPFgIfAWcWAh4Ib25jaGFuZ2UFTVNob3dDaGlsZEFnZXMoJ2N0bDAwX0Jvb2tpbmdGb3JtMV9HZW9ncmFwaGljYWxTZWFyY2hCRl9QYXgxX0NoaWxkUGF4JywnUGF4MScpEBUIATABMQEyATMBNAE1ATYBNxUIATABMQEyATMBNAE1ATYBNxQrAwhnZ2dnZ2dnZ2RkAgkPZBYCZg8VAQIxOGQCCw8QDxYCHwFnZBAVCAEwATEBMgEzATQBNQE2ATcVCAEwATEBMgEzATQBNQE2ATcUKwMIZ2dnZ2dnZ2dkZAIND2QWAmYPFQEBMmQCDg8VAQRQYXgxZAIPDw8WAh8FBWA8ZGl2IGNsYXNzPSJib29raW5nZXJyb3IiPlBsZWFzZSBzdXBwbHkgYWdlcyBiZXR3ZWVuIDIgYW5kIDE3IChpbmNsdXNpdmUpIGZvciBhbGwgY2hpbGRyZW48L2Rpdj5kZAIQDxUDBFBheDEEUGF4MQRQYXgxZAIUDxUBBFBheDFkAhgPFQEEUGF4MWQCHA8VAQRQYXgxZAIgDxUBBFBheDFkAiQPFQEEUGF4MWQCKA8VAQRQYXgxZAIsDxUBBFBheDFkAjAPFQkEUGF4MQRQYXgxBFBheDEEUGF4MQRQYXgxBFBheDEEUGF4MQRQYXgxBFBheDFkAgwPFQEAZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBAUpY3RsMDAkSGVhZGVyMSRTaWduSW5TY3JlZW5zMSRtYXJrZXRpbmdZZXMFKWN0bDAwJEhlYWRlcjEkU2lnbkluU2NyZWVuczEkbWFya2V0aW5nWWVzBShjdGwwMCRIZWFkZXIxJFNpZ25JblNjcmVlbnMxJG1hcmtldGluZ05vBThjdGwwMCRCb29raW5nRm9ybTEkR2VvZ3JhcGhpY2FsU2VhcmNoQkYkUmVnaW9uQm9va0J1dHRvblL3149O9VUO8dHm8SyWSLffPV+j">
 
 			<div id="wrap">
 				<a name="wrap"></a>
@@ -171,10 +181,8 @@ Privacy Policy - Virgin Holidays
 
     <script type="text/javascript" language="javascript">    
 		    if (location.hostname=="www.virginholidays.co.uk") { cmSetProduction()} ;
-            //var title = $('title').html();
-            //var title = document.title;
 			var title = window.location.pathname;
-			var cmServerName = "W6";
+			var cmServerName = "W4";
 			if (title.charAt(title.length - 1) == "/")
 			{
 				title = title + "default.aspx"
@@ -213,7 +221,6 @@ Privacy Policy - Virgin Holidays
     
     <div id="logoLink"><a href="/">Virgin Holidays</a></div>
 	<link rel="image_src" href="/_assets/images/ajax_loader.gif">
-	<p class="auralOnly"><b>Virgin Holidays - all inclusive package holidays and family holiday deals</b></p>
     
     
     
@@ -253,8 +260,17 @@ Privacy Policy - Virgin Holidays
     (<a id="vht-signOut" href="#">Sign out</a>)
 </div>
 
+
+
 <ul id="vht-Tools" class="SignedOut"> 
 	
+	
+	<li>
+	    <a id="a1_left" href="#" class="nav-cookie">
+	        This site uses cookies
+	    </a>
+	</li>
+        
 	
 	<li class="vht-recent-searches">
 	    <a href="#" class="downArrow">
@@ -332,7 +348,18 @@ Privacy Policy - Virgin Holidays
                 </td>
             </tr>
             <tr>
-                <td id="vht-signInErrors" colspan="3" style="display:none;">
+                <td id="Td2" colspan="3">
+                &nbsp;
+                </td>
+                </tr>
+            <tr>
+                <td id="vht-signInErrors" colspan="3">
+                     <p>This information will be stored as a cookie - <a href="/info/about/cookies/">Read more about cookies</a></p>
+                </td>
+            </tr>
+            
+            <tr>
+                <td id="Td1" colspan="3" style="display:none;">
                      <p class="vht-error"><strong>Sorry, invalid email address or password.</strong></p>
                 </td>
             </tr>
@@ -401,22 +428,12 @@ Privacy Policy - Virgin Holidays
             </tr>
         </tbody></table>
         
-        <p>Want to be first to hear about our fantastic holiday offers, top tips and how we’ll treat you like a rock star?</p>
-                
-        <p class="checkbox">
-            <input type="checkbox" name="emailOptIn" id="emailOptIn" class="chkbx">
-            <label for="emailOptIn">Yes please, via email</label>
-        </p>
-        <p class="checkbox">
-            <input type="checkbox" name="postOptIn" id="postOptIn" class="chkbx">
-            <label for="postOptIn">Yes please, via mail</label>
-        </p>
-        <p class="checkbox">
-            <input type="checkbox" name="userAgreement" id="userAgreement" class="chkbx">
-            <label for="userAgreement">I agree to the Virgin Holidays website Terms &amp; Conditions *</label>
-        </p>
-        
-        
+        <p>Our Virgin Holidays Family will use your details to keep you up to date with special offers, news and information. Is this ok?</p>
+            
+       	<p class="checkbox">
+       	<input id="ctl00_Header1_SignInScreens1_marketingYes" type="radio" name="ctl00$Header1$SignInScreens1$marketing" value="marketingYes">Yesddd
+       	<input id="ctl00_Header1_SignInScreens1_marketingNo" type="radio" name="ctl00$Header1$SignInScreens1$marketing" value="marketingNo" checked="checked">No 
+       	</p>
         
         <p>
             <a id="vht-doRegister" class="submit register" href="javascript://">Register</a>
@@ -533,10 +550,18 @@ Privacy Policy - Virgin Holidays
 			
 	</ul>
 </div> 
-
+<div id="fb-root"></div>
+                    <script>    (function(d, s, id) {
+                            var js, fjs = d.getElementsByTagName(s)[0];
+                            if (d.getElementById(id)) return;
+                            js = d.createElement(s); js.id = id;
+                            js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+                            fjs.parentNode.insertBefore(js, fjs);
+                        } (document, 'script', 'facebook-jssdk'));
+                    </script>
 <div id="addThis">
     
-    <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.virginholidays.co.uk%2F&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>
+    <fb:like send="false" layout="button_count" width="100" show_faces="true"></fb:like>					
     <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="virginholidays.co.uk">Tweet</a>
     <g:plusone size="medium" class="plusone"></g:plusone>		
 </div>
@@ -590,7 +615,7 @@ Privacy Policy - Virgin Holidays
 
 <p>If you believe that any of your  personal information that is held or being processed by us is incorrect then  please write to us immediately as we cannot be responsible for any problems  that may arise due to inaccurate information that you have provided us with.</p>
 
-<p>We cannot accept responsibility  for any issues concerning your data collected by websites that are not directly  under our control. Please also be aware that individual organisations operate  their own policies regarding the use and sale of personal information and the  use of cookies. If you have a concern regarding the way your personal  information will be used on other sites then you are advised to read the  relevant privacy statement.</p>
+<p>We cannot accept responsibility  for any issues concerning your data collected by websites that are not directly  under our control. Please also be aware that individual organisations operate  their own policies regarding the use and sale of personal information and the  use of <a href="/info/about/cookies/">cookies</a>. If you have a concern regarding the way your personal  information will be used on other sites then you are advised to read the  relevant privacy statement.</p>
 
 <h2 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=19&amp;c=333333&amp;hoffset=-3&amp;caption=Privacy+Policy" alt="Privacy Policy"><span>Privacy Policy</span></h2>
 <p>Worried about providing us with information on line?</p>
@@ -622,40 +647,8 @@ Privacy Policy - Virgin Holidays
    	<h3 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=15&amp;c=666666&amp;hoffset=-3&amp;caption=3.+What+are+cookies+and+do+we+use+them%3f" alt="3. What are cookies and do we use them?"><span>3. What are cookies and do we use them?</span></h3>
    		<p>A cookie is a text-only string of  information that a website transfers to the cookie file of the browser on your  computer's hard disk so that the website can remember who you are. </p>
         <p>A cookie will typically contain  the name of the domain from which the cookie has come, the "lifetime"  of the cookie, and a value, usually a randomly generated unique number. </p>
-        <p>Two types of cookies are used on this  website: </p>
-      	<ul type="disc">
-        	<li>Session Cookies, which are temporary cookies       that remain in the cookie file of your browser until you leave the site </li>
-        	<li>Persistent cookies, which remain in the       cookie file of your browser for much longer (though how long will depend       on the lifetime of the specific cookie). </li>
-      	</ul>
-      	<p>Cookies can help a website to  arrange content to match your preferred interests more quickly. Most major  websites use cookies. Cookies cannot be used by themselves to identify you.</p>
-      	
-        <h4 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=14&amp;c=808080&amp;hoffset=0&amp;caption=How+we+use+Cookies+on+our+Site+and+what+Information+we+collect" alt="How we use Cookies on our Site and what Information we collect"><span>How we use Cookies on our Site and what Information we collect</span></h4>
-      	<p><strong>Session Cookies</strong></p>
-		<ul type="disc">
-    		<li>To allow you to carry information across       pages of our site and avoid having to re-enter information. </li>
-    		<li>To allow you to carry information through our       online booking system </li>
-		</ul>
-
-		<p><strong>Persistent Cookies.</strong></p>
-		<ul type="disc">
-  			<li>To remember the compiled list of holidays you       have selected in our shortlist section </li>
-  			<li>To compile anonymous, aggregated statistics       that allow us to understand how users use our site and to help us improve       the structure of our website. We cannot identify you personally in this       way. </li>
-		</ul>
-
-		<p><strong>Third Party Cookies</strong></p>
-        <p>Third parties serve cookies via  this site. These are used for the following purposes:</p>
-		<ul type="disc">
-  			<li>To serve advertisements on our site and track       whether these advertisements are clicked on by users. </li>
-  			<li>To tailor content to your preferences </li>
-		</ul>
- 		
-        <p><strong>Use of Web Beacons</strong></p>
-        <p>Some of our Web pages may contain electronic images known as Web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign. </p>
-        
-        <p><strong>Disabling/Enabling Cookies</strong></p>
-        <p>You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. </p>
-        <p>Virgin Holidays uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <a href="http://www.doubleclick.net/us/corporate/privacy/">www.doubleclick.net/us/corporate/privacy/</a> </p>
-
+        <p>For more information on cookies and how they are used on the Virgin Holidays website, <a href="/info/about/cookies/">please click here. </a></p>
+       
   
 
     <h3 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=15&amp;c=666666&amp;hoffset=-3&amp;caption=4.+Links+to+other+websites+and+their+security+and+privacy+policies" alt="4. Links to other websites and their security and privacy policies"><span>4. Links to other websites and their security and privacy policies</span></h3>
@@ -775,12 +768,14 @@ Privacy Policy - Virgin Holidays
 
 <select name="ctl00$BookingForm1$GeographicalSearchBF$GeogSelector1$dd2" size="1" id="ctl00_BookingForm1_GeographicalSearchBF_GeogSelector1_dd2" class="WideSelect ResortDD" causesvalidation="false">
 		<optgroup label="Orlando">
-		<option selected="selected" value="332.OR">Lake Buena Vista</option>
+		<option selected="selected" value="330.OR">All Orlando</option>
+		<option value="332.OR">Lake Buena Vista</option>
 		<option value="330.OR">International Drive</option>
 		<option value="329.OR">Kissimmee</option>
 		<option value="327.OR">Disney</option>
 		<option value="331.OR">Universal</option>
 		<option value="1383.OR">Grande Lakes Orlando</option>
+		<option value="2304.OR">SeaWorld</option>
 		</optgroup>
 		<optgroup label="Florida Villas">
 		<option value="1290.OR">Florida Villas</option>
@@ -799,7 +794,7 @@ Privacy Policy - Virgin Holidays
 		<option value="1674.CW">Clearwater and Indian Rocks</option>
 		<option value="2027.SP">St Pete Beach and Treasure Island</option>
 		<option value="1495.NM">Naples and Marco Island</option>
-		<option value="1494.SC">Sanibel and Captiva</option>
+		<option value="1494.FM">Sanibel and Captiva</option>
 		<option value="1494.FM">Fort Myers</option>
 		<option value="1678.SS">Sarasota and Bradenton</option>
 		<option value="1496.NM">Bonita Springs</option>
@@ -854,7 +849,7 @@ Privacy Policy - Virgin Holidays
 	var CALENDAR_DATA = {
 		RouteData : [{"FromAirportCode":"LGW","ToAirportCode":"MCO","FromAirportName":"London Gatwick","ToAirportName":"Orlando","RouteNotes":"","AirlineID":1,"RouteID":12,"RouteDisplaySeq":50,"IsActive":true,"IsOutMonday":true,"IsOutTuesday":true,"IsOutWednesday":true,"IsOutThursday":true,"IsOutFriday":true,"IsOutSaturday":true,"IsOutSunday":true,"IsInMonday":true,"IsInTuesday":true,"IsInWednesday":true,"IsInThursday":true,"IsInFriday":true,"IsInSaturday":true,"IsInSunday":true},{"FromAirportCode":"MAN","ToAirportCode":"MCO","FromAirportName":"Manchester","ToAirportName":"Orlando","RouteNotes":"","AirlineID":1,"RouteID":57,"RouteDisplaySeq":100,"IsActive":true,"IsOutMonday":true,"IsOutTuesday":true,"IsOutWednesday":true,"IsOutThursday":true,"IsOutFriday":true,"IsOutSaturday":true,"IsOutSunday":true,"IsInMonday":true,"IsInTuesday":true,"IsInWednesday":true,"IsInThursday":true,"IsInFriday":true,"IsInSaturday":true,"IsInSunday":true},{"FromAirportCode":"GLA","ToAirportCode":"MCO","FromAirportName":"Glasgow","ToAirportName":"Orlando","RouteNotes":"","AirlineID":1,"RouteID":250,"RouteDisplaySeq":100,"IsActive":true,"IsOutMonday":false,"IsOutTuesday":false,"IsOutWednesday":false,"IsOutThursday":false,"IsOutFriday":true,"IsOutSaturday":true,"IsOutSunday":true,"IsInMonday":false,"IsInTuesday":false,"IsInWednesday":false,"IsInThursday":false,"IsInFriday":true,"IsInSaturday":true,"IsInSunday":true},{"FromAirportCode":"EDI","ToAirportCode":"MCO","FromAirportName":"Edinburgh","ToAirportName":"Orlando","RouteNotes":"","AirlineID":1,"RouteID":343,"RouteDisplaySeq":100,"IsActive":true,"IsOutMonday":true,"IsOutTuesday":true,"IsOutWednesday":true,"IsOutThursday":true,"IsOutFriday":true,"IsOutSaturday":true,"IsOutSunday":true,"IsInMonday":true,"IsInTuesday":true,"IsInWednesday":true,"IsInThursday":true,"IsInFriday":true,"IsInSaturday":true,"IsInSunday":true},{"FromAirportCode":"BHX","ToAirportCode":"MCO","FromAirportName":"Birmingham","ToAirportName":"Orlando","RouteNotes":"","AirlineID":1,"RouteID":340,"RouteDisplaySeq":100,"IsActive":true,"IsOutMonday":true,"IsOutTuesday":true,"IsOutWednesday":true,"IsOutThursday":true,"IsOutFriday":true,"IsOutSaturday":true,"IsOutSunday":true,"IsInMonday":true,"IsInTuesday":true,"IsInWednesday":true,"IsInThursday":true,"IsInFriday":true,"IsInSaturday":true,"IsInSunday":true}],
 		EarliestBookableDate : 'Mon 26 Apr 2010',
-		LatestBookableDate : 'Tue 30 Apr 2013',
+		LatestBookableDate : 'Tue 31 Dec 2013',
 		FixedDuration : ''
 	}
 
@@ -863,7 +858,7 @@ Privacy Policy - Virgin Holidays
 
 <div id="DurationsDiv">
 	<label for="ctl00_BookingForm1_GeographicalSearchBF_DepartureDates1_duration" id="ctl00_BookingForm1_GeographicalSearchBF_DepartureDates1_DurationLabel">Staying for:</label>
-	<select name="ctl00$BookingForm1$GeographicalSearchBF$DepartureDates1$duration" id="ctl00_BookingForm1_GeographicalSearchBF_DepartureDates1_duration">
+	<select name="ctl00$BookingForm1$GeographicalSearchBF$DepartureDates1$duration" id="ctl00_BookingForm1_GeographicalSearchBF_DepartureDates1_duration" class="duration">
 		<option value="3">3 nights</option>
 		<option value="4">4 nights</option>
 		<option value="5">5 nights</option>
@@ -899,7 +894,7 @@ Privacy Policy - Virgin Holidays
 <div id="DatesDiv">
 
 	<label for="ctl00_BookingForm1_GeographicalSearchBF_DepartureDates1_departureDate" id="ctl00_BookingForm1_GeographicalSearchBF_DepartureDates1_DepartureDateLabel">Leaving on:</label>
-	<input name="ctl00$BookingForm1$GeographicalSearchBF$DepartureDates1$departureDate" type="text" value="Wed 28 Dec 2011" size="15" id="ctl00_BookingForm1_GeographicalSearchBF_DepartureDates1_departureDate">
+	<input name="ctl00$BookingForm1$GeographicalSearchBF$DepartureDates1$departureDate" type="text" value="Wed 27 Jun 2012" size="15" id="ctl00_BookingForm1_GeographicalSearchBF_DepartureDates1_departureDate" class="departureDate">
 	<img id="ui-datepicker-trigger" src="/_assets/images/search/choose_dates.gif" alt="Choose your departure date" title="Choose your departure date">
 	
 	<div class="line"></div>
@@ -918,7 +913,7 @@ Privacy Policy - Virgin Holidays
 					 
 					 <div id="departureCal">
 						<h3 class="inv "><img src="/dynamichtag.aspx?w=200&amp;s=19&amp;c=333333&amp;hoffset=-3&amp;caption=Depart" alt="Depart"><span>Depart</span></h3>
-						<div id="dCal" class="hasDatepicker"><div class="ui-datepicker-inline"><div class="ui-datepicker-links"><div class="ui-datepicker-prev"><a onclick="jQuery.datepicker._adjustDate('#dCal', -1, 'M');">&lt;Prev</a></div><div class="ui-datepicker-next"></div></div><div class="ui-datepicker-one-month ui-datepicker-new-row"><div class="ui-datepicker-header"><select class="ui-datepicker-new-month" onchange="jQuery.datepicker._selectMonthYear('#dCal', this, 'M');" onclick="jQuery.datepicker._clickMonthYear('#dCal');" style="width: 100px;"><option value="0">January</option><option value="1">February</option><option value="2">March</option><option value="3" selected="selected">April</option></select><select class="ui-datepicker-new-year" onchange="jQuery.datepicker._selectMonthYear('#dCal', this, 'Y');" onclick="jQuery.datepicker._clickMonthYear('#dCal');" style="width: 60px;"><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013" selected="selected">2013</option></select></div><table class="ui-datepicker" cellpadding="0" cellspacing="0"><thead><tr class="ui-datepicker-title-row"><td><span title="Monday">M</span></td><td><span title="Tuesday">T</span></td><td><span title="Wednesday">W</span></td><td><span title="Thursday">T</span></td><td><span title="Friday">F</span></td><td class="ui-datepicker-week-end-cell"><span title="Saturday">S</span></td><td class="ui-datepicker-week-end-cell"><span title="Sunday">S</span></td></tr></thead><tbody><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>1</a><span style="display:none;">Mon Apr 01 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>2</a><span style="display:none;">Tue Apr 02 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>3</a><span style="display:none;">Wed Apr 03 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>4</a><span style="display:none;">Thu Apr 04 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>5</a><span style="display:none;">Fri Apr 05 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>6</a><span style="display:none;">Sat Apr 06 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>7</a><span style="display:none;">Sun Apr 07 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>8</a><span style="display:none;">Mon Apr 08 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>9</a><span style="display:none;">Tue Apr 09 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>10</a><span style="display:none;">Wed Apr 10 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>11</a><span style="display:none;">Thu Apr 11 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>12</a><span style="display:none;">Fri Apr 12 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>13</a><span style="display:none;">Sat Apr 13 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>14</a><span style="display:none;">Sun Apr 14 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>15</a><span style="display:none;">Mon Apr 15 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>16</a><span style="display:none;">Tue Apr 16 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>17</a><span style="display:none;">Wed Apr 17 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>18</a><span style="display:none;">Thu Apr 18 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>19</a><span style="display:none;">Fri Apr 19 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>20</a><span style="display:none;">Sat Apr 20 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>21</a><span style="display:none;">Sun Apr 21 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>22</a><span style="display:none;">Mon Apr 22 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>23</a><span style="display:none;">Tue Apr 23 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>24</a><span style="display:none;">Wed Apr 24 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>25</a><span style="display:none;">Thu Apr 25 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>26</a><span style="display:none;">Fri Apr 26 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>27</a><span style="display:none;">Sat Apr 27 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>28</a><span style="display:none;">Sun Apr 28 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>29</a><span style="display:none;">Mon Apr 29 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-current-day" onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',3,2013, this);"><a>30</a><span style="display:none;">Tue Apr 30 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Wed May 01 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Thu May 02 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Fri May 03 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Sat May 04 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Sun May 05 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr></tbody></table></div><div style="clear: both;"></div></div></div>
+						<div id="dCal" class="hasDatepicker"><div class="ui-datepicker-inline"><div class="ui-datepicker-links"><div class="ui-datepicker-prev"><a onclick="jQuery.datepicker._adjustDate('#dCal', -1, 'M');">&lt;Prev</a></div><div class="ui-datepicker-next"></div></div><div class="ui-datepicker-one-month ui-datepicker-new-row"><div class="ui-datepicker-header"><select class="ui-datepicker-new-month" onchange="jQuery.datepicker._selectMonthYear('#dCal', this, 'M');" onclick="jQuery.datepicker._clickMonthYear('#dCal');" style="width: 100px;"><option value="0">January</option><option value="1">February</option><option value="2">March</option><option value="3">April</option><option value="4">May</option><option value="5">June</option><option value="6">July</option><option value="7">August</option><option value="8">September</option><option value="9">October</option><option value="10">November</option><option value="11" selected="selected">December</option></select><select class="ui-datepicker-new-year" onchange="jQuery.datepicker._selectMonthYear('#dCal', this, 'Y');" onclick="jQuery.datepicker._clickMonthYear('#dCal');" style="width: 60px;"><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013" selected="selected">2013</option></select></div><table class="ui-datepicker" cellpadding="0" cellspacing="0"><thead><tr class="ui-datepicker-title-row"><td><span title="Monday">M</span></td><td><span title="Tuesday">T</span></td><td><span title="Wednesday">W</span></td><td><span title="Thursday">T</span></td><td><span title="Friday">F</span></td><td class="ui-datepicker-week-end-cell"><span title="Saturday">S</span></td><td class="ui-datepicker-week-end-cell"><span title="Sunday">S</span></td></tr></thead><tbody><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Mon Nov 25 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Tue Nov 26 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Wed Nov 27 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Thu Nov 28 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Fri Nov 29 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Sat Nov 30 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>1</a><span style="display:none;">Sun Dec 01 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>2</a><span style="display:none;">Mon Dec 02 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>3</a><span style="display:none;">Tue Dec 03 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>4</a><span style="display:none;">Wed Dec 04 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>5</a><span style="display:none;">Thu Dec 05 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>6</a><span style="display:none;">Fri Dec 06 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>7</a><span style="display:none;">Sat Dec 07 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>8</a><span style="display:none;">Sun Dec 08 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>9</a><span style="display:none;">Mon Dec 09 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>10</a><span style="display:none;">Tue Dec 10 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>11</a><span style="display:none;">Wed Dec 11 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>12</a><span style="display:none;">Thu Dec 12 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>13</a><span style="display:none;">Fri Dec 13 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>14</a><span style="display:none;">Sat Dec 14 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>15</a><span style="display:none;">Sun Dec 15 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>16</a><span style="display:none;">Mon Dec 16 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>17</a><span style="display:none;">Tue Dec 17 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>18</a><span style="display:none;">Wed Dec 18 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>19</a><span style="display:none;">Thu Dec 19 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>20</a><span style="display:none;">Fri Dec 20 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>21</a><span style="display:none;">Sat Dec 21 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>22</a><span style="display:none;">Sun Dec 22 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>23</a><span style="display:none;">Mon Dec 23 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>24</a><span style="display:none;">Tue Dec 24 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>25</a><span style="display:none;">Wed Dec 25 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>26</a><span style="display:none;">Thu Dec 26 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>27</a><span style="display:none;">Fri Dec 27 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>28</a><span style="display:none;">Sat Dec 28 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>29</a><span style="display:none;">Sun Dec 29 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr><tr class="ui-datepicker-days-row"><td class="ui-datepicker-days-cell " onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>30</a><span style="display:none;">Mon Dec 30 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-current-day" onmouseover="jQuery(this).addClass('ui-datepicker-days-cell-over');" onmouseout="jQuery(this).removeClass('ui-datepicker-days-cell-over');" onclick="jQuery.datepicker._selectDay('#dCal',11,2013, this);"><a>31</a><span style="display:none;">Tue Dec 31 2013 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Wed Jan 01 2014 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Thu Jan 02 2014 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Fri Jan 03 2014 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Sat Jan 04 2014 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td><td class="ui-datepicker-days-cell ui-datepicker-week-end-cell ui-datepicker-other-month ui-datepicker-unselectable">&nbsp;<span style="display:none;">Sun Jan 05 2014 00:00:00 GMT+0000 (Coordinated Universal Time)</span></td></tr></tbody></table></div><div style="clear: both;"></div></div></div>
 						<fieldset class="departureFs">
 							<p class="title"><b>Departing:</b></p>
 							<p class="info">Thu 13 Feb 2020</p>
@@ -1012,22 +1007,22 @@ function blockenter(e) {
 	else if(e.which) return e.which != 13;
 }
 
-function UpdateChildAgeText(qty, controlId,id) {
+function UpdateChildAgeText(qty, controlId) {
 	var text = '', num;
 	if (qty == 0) {
 		document.getElementById(controlId+'childages').className="hide";
 		document.getElementById(controlId+'PaxValidation').className="hide"; 
 	}
 	for(i = 1; i <= qty; i++) {
-		num = document.getElementById(id+i).value;
+		num = jQuery('.cai'+i).val();
 		if (num == '' || isNaN(num) || parseInt(num) > 17 || parseInt(num) < 2) {
 		    alert("Child ages must be between 2 and 17");
 			return false;
 		}
 		text += num + ((i+1 == qty)? " and ":((i < qty)?", ":"")); 
 	}
-	
-	document.getElementById(controlId+'ChildAgeText').innerHTML = text;
+
+	document.getElementById(controlId + 'ChildAgeText').innerHTML = text;
 	document.getElementById(controlId+'ChildAgesDisplay').className = ((qty>0)?"show ChildAgesDisplay":"hide");
 	document.getElementById(controlId+'NoChildAgesDisplay').className = ((qty>0)?"hide":"show NoChildAgesDisplay");
 	return true;
@@ -1079,7 +1074,7 @@ function HideChildAgeEntry(controlId) {
 }
 
 function OKAge(){
-if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax').options[document.getElementById('ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax').selectedIndex].value,'Pax1', 'ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage')) HideChildAgeEntry('Pax1');
+if (UpdateChildAgeText(jQuery(".ChildPax").val(),'Pax1')) HideChildAgeEntry('Pax1');
 }
 
 
@@ -1102,7 +1097,8 @@ if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalS
 	
 	<div id="Pax1paxwrap" class="paxwrap">
 		<div class="selectWrap adult">
-			<select name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$AdultPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_AdultPax">
+		
+			<select name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$AdultPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_AdultPax" class="AdultPax">
 		<option value="1">1</option>
 		<option selected="selected" value="2">2</option>
 		<option value="3">3</option>
@@ -1113,10 +1109,11 @@ if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalS
 		<option value="8">8</option>
 
 	</select>
-			<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_AdultPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_AdultPaxLabel">Adults</label>
+			<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_AdultPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_AdultPaxLabel">Adults<span>&nbsp;</span></label>
 		</div>
 		<div class="selectWrap children">
-			<select name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$ChildPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax" onchange="ShowChildAges('ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax','Pax1')">
+		
+			<select name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$ChildPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax" class="ChildPax" onchange="ShowChildAges('ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax','Pax1')">
 		<option selected="selected" value="0">0</option>
 		<option value="1">1</option>
 		<option value="2">2</option>
@@ -1127,10 +1124,11 @@ if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalS
 		<option value="7">7</option>
 
 	</select>
-			<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPaxLabel">Children <span>(under 18)</span></label>
+			<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPaxLabel">Children <span>(under 18yrs)</span></label>
 		</div>
 		<div class="selectWrap infants">
-			<select name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$InfantPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_InfantPax">
+		
+			<select name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$InfantPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_InfantPax" class="InfantPax">
 		<option selected="selected" value="0">0</option>
 		<option value="1">1</option>
 		<option value="2">2</option>
@@ -1141,7 +1139,7 @@ if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalS
 		<option value="7">7</option>
 
 	</select>
-			<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_InfantPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_InfantPaxLabel">Infants <span>(under 2)</span></label>
+			<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_InfantPax" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_InfantPaxLabel">Infants <span>(under 2yrs)</span></label>
 		</div> 
 	</div>
 
@@ -1160,35 +1158,35 @@ if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalS
 	
 			<div class="hide" id="Pax1childagewrapper1">
 				<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage1" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage1Label">Child 1:</label>
-				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage1" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage1" class="childageinput" size="2" onkeypress="return blockenter(event)">
+				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage1" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage1" class="childageinput cai1" size="2" onkeypress="return blockenter(event)">
 			</div>
 			<div class="hide" id="Pax1childagewrapper2">
 				<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage2Label">Child 2:</label>
-				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage2" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage2" class="childageinput" size="2" onkeypress="return blockenter(event)">
+				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage2" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage2" class="childageinput cai2" size="2" onkeypress="return blockenter(event)">
 			</div>
 			<div class="hide" id="Pax1childagewrapper3">
 				<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage3" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage3Label">Child 3:</label>
-				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage3" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage3" class="childageinput" size="2" onkeypress="return blockenter(event)">
+				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage3" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage3" class="childageinput cai3" size="2" onkeypress="return blockenter(event)">
 			</div>
 			<div class="hide" id="Pax1childagewrapper4">
 				<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage4" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage4Label">Child 4:</label>
-				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage4" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage4" class="childageinput" size="2" onkeypress="return blockenter(event)">
+				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage4" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage4" class="childageinput cai4" size="2" onkeypress="return blockenter(event)">
 			</div>
 			<div class="hide" id="Pax1childagewrapper5">
 				<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage5" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage5Label">Child 5:</label>
-				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage5" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage5" class="childageinput" size="2" onkeypress="return blockenter(event)">
+				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage5" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage5" class="childageinput cai5" size="2" onkeypress="return blockenter(event)">
 			</div>
 			<div class="hide" id="Pax1childagewrapper6">
 				<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage6" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage6Label">Child 6:</label>
-				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage6" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage6" class="childageinput" size="2" onkeypress="return blockenter(event)">
+				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage6" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage6" class="childageinput cai6" size="2" onkeypress="return blockenter(event)">
 			</div>
 			<div class="hide" id="Pax1childagewrapper7">
 				<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage7" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage7Label">Child 7:</label>
-				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage7" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage7" class="childageinput" size="2" onkeypress="return blockenter(event)">
+				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage7" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage7" class="childageinput cai7" size="2" onkeypress="return blockenter(event)">
 			</div>
 			<div class="hide" id="Pax1childagewrapper8">
 				<label for="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage8" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage8Label">Child 8:</label>
-				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage8" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage8" class="childageinput" size="2" onkeypress="return blockenter(event)">
+				<input name="ctl00$BookingForm1$GeographicalSearchBF$Pax1$childage8" type="text" maxlength="2" id="ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage8" class="childageinput cai8" size="2" onkeypress="return blockenter(event)">
 			</div>
 			
 			<div id="OKButtonHolder">
@@ -1203,16 +1201,16 @@ if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalS
     	<p>&nbsp;</p>
 		
 		<p class="ChildAgesList">Child ages:
-		<span id="Pax1ChildAgeText"></span> (<a href="javascript:ShowChildAgeEntry(document.getElementById('ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax').options[document.getElementById('ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax').selectedIndex].value,'Pax1')">edit</a>)</p>
+		<span id="Pax1ChildAgeText"></span> (<a href="javascript:ShowChildAgeEntry(jQuery('.ChildPax').val(),'Pax1')">edit</a>)</p>
 	</div>
 	<script type="text/javascript">
 	<!--
 	    var qty = 0;  
-	    if(document.getElementById('ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax').options.length >0)
+	    if($('.ChildPax option').size() >0)
 	    {
-		    qty = document.getElementById('ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax').options[document.getElementById('ctl00_BookingForm1_GeographicalSearchBF_Pax1_ChildPax').selectedIndex].value;
-        }
-        UpdateChildAgeText(qty, 'Pax1', 'ctl00_BookingForm1_GeographicalSearchBF_Pax1_childage');
+		    qty = jQuery('.ChildPax').val();
+		}
+        UpdateChildAgeText(qty, 'Pax1');
 
 
         $(function() {
@@ -1243,7 +1241,6 @@ if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalS
 
 
 	<input type="image" name="ctl00$BookingForm1$GeographicalSearchBF$RegionBookButton" id="ctl00_BookingForm1_GeographicalSearchBF_RegionBookButton" class="submit goBtn" src="/_assets/images/buttons/btn_find_holidays.gif" alt="Find holidays" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$BookingForm1$GeographicalSearchBF$RegionBookButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0">
-	<script type="text/javascript" language="javascript">document.getElementById('ctl00_BookingForm1_GeographicalSearchBF_RegionBookButton').className="submit goBtn";</script>
 	
 <noscript>Please ensure Javascript is enabled on your browser and refresh this page to access our booking and availability system.</noscript>
 	
@@ -1273,12 +1270,12 @@ if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalS
 	<div id="NavPrimary">
 		<ul>
 			<li id="home"><a href="/" accesskey="1"><span>Home</span></a></li>
-			<li id="dest"><a href="/info/about/destinations/" title="Destinations"><span>Destinations</span></a></li>
-			<li id="types"><a href="/info/about/holiday_types/" title="Holiday Types"><span>Holiday Types</span></a></li>
-			<li id="offers"><a href="/special_offers/?sort=FromPrice&amp;order=ASC" title="Special Offers"><span>Special Offers</span></a></li>
-			<li id="brochures"><a href="/my/order_brochure/" title="Brochures"><span>Brochures</span></a></li>
-			<li id="whyvh"><a href="/info/about/who_are_we/" title="Why a Virgin Holiday"><span>Why a Virgin Holiday</span></a></li>
-			<li id="support"><a href="/info/about/customer_service/" title="Customer Support"><span>Customer Support</span></a></li>
+			<li id="dest"><a href="#" title="Destinations"><span>Destinations</span></a></li>
+			<li id="types"><a href="#" title="Holiday Types"><span>Holiday Types</span></a></li>
+			<li id="offers"><a href="#" title="Special Offers"><span>Special Offers</span></a></li>
+			<li id="brochures"><a href="#" title="Brochures"><span>Brochures</span></a></li>
+			<li id="whyvh"><a href="#" title="Why a Virgin Holiday"><span>Why a Virgin Holiday</span></a></li>
+			<li id="support"><a href="#" title="Customer Support"><span>Customer Support</span></a></li>
 		</ul>
 	    <div id="NavPrimaryBtm"></div>
 	</div>
@@ -1322,19 +1319,19 @@ if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalS
 	        <li><a href="/brochures/worldwide/holidays/thailand/resorts.aspx" title="Thailand">Thailand</a></li>
 	        <li><a href="/brochures/worldwide/holidays/the_far_east/bali_and_ubud/hotels.aspx" title="Bali">Bali</a></li>
 	        <li><a href="/brochures/worldwide/holidays/malaysia/resorts.aspx" title="Malaysia">Malaysia</a></li>
-	        <li><a href="/brochures/worldwide/holidays/the_far_east/hong_kong/hotels.aspx" title="Hong Kong">Hong Kong</a></li>
-	        <li><a href="/brochures/worldwide/holidays/the_far_east/china/" title="China">China</a></li>
+	        <li><a href="/brochures/worldwide/holidays/china/hong_kong/hotels.aspx" title="Hong Kong">Hong Kong</a></li>
+	        <li><a href="/brochures/worldwide/holidays/china/resorts.aspx" title="China">China</a></li>
 	        <li class="moreLink"><a href="/info/about/destinations/Asia_and_Far_East" title="More Far East">More Far East...</a></li>
 	    </ul>
 	    
 	    <ul class="menuListing">
 	        <li><a href="/info/about/destinations/USA/" title=""><b>USA Holidays</b></a></li>
-	        <li><a href="/brochures/usa/holidays/new_york/resorts.aspx" title="New York">New York</a></li>
-	        <li><a href="/brochures/usa/holidays/las_vegas/resorts.aspx" title="Las Vegas">Las Vegas</a></li>
-	        <li><a href="/brochures/usa/holidays/boston/resorts.aspx" title="Boston">Boston</a></li>
-	        <li><a href="/brochures/usa/holidays/san_francisco/resorts.aspx" title="San Francisco">San Francisco</a></li>
+	        <li><a href="/brochures/usa/holidays/new_york/new_york/hotels.aspx" title="New York">New York</a></li>
+	        <li><a href="/brochures/usa/holidays/las_vegas/las_vegas/hotels.aspx" title="Las Vegas">Las Vegas</a></li>
+	        <li><a href="/brochures/usa/holidays/boston/boston/hotels.aspx" title="Boston">Boston</a></li>
+	        <li><a href="/brochures/usa/holidays/san_francisco/san_francisco/hotels.aspx" title="San Francisco">San Francisco</a></li>
 	        <li><a href="/brochures/usa/holidays/los_angeles/resorts.aspx" title="Los Angeles">Los Angeles</a></li>
-	        <li><a href="/brochures/usa/holidays/chicago/resorts.aspx" title="Chicago">Chicago</a></li>
+	        <li><a href="/brochures/usa/holidays/chicago/chicago/hotels.aspx" title="Chicago">Chicago</a></li>
 	        <li><a href="/brochures/usa/holidays/hawaii/resorts.aspx" title="Hawaii">Hawaii</a></li>
 	        <li class="moreLink"><a href="/info/about/destinations/USA/" title="More USA">More USA...</a></li>
             <li class="emptyMiddle"> <p>&nbsp;</p></li>
@@ -1359,15 +1356,15 @@ if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalS
 	        <li class="emptyMiddle"> <p>&nbsp;</p></li>
 
 	        <li><a href="/info/about/destinations/Mexico/" title="Mexico Holidays"><b>Mexico Holidays</b></a></li>
-	        <li><a href="/info/about/destinations/Mexico/" title="Cancun">Cancun</a></li>
+	        <li><a href="/brochures/mexico/holidays/mexico/cancun/hotels.aspx" title="Cancun">Cancun</a></li>
+            <li><a href="/brochures/mexico/holidays/mexico/cozumel/hotels.aspx" title="Cozumel">Cozumel</a></li>
+            <li><a href="/brochures/mexico/holidays/mexico/playa_del_carmen/hotels.aspx" title="Playa Del Carmen">Playa Del Carmen</a></li>
+            <li><a href="/brochures/mexico/holidays/mexico/riviera_maya/hotels.aspx" title="Riviera Maya">Riviera Maya</a></li>
+            <li><a href="/brochures/mexico/holidays/mexico/tulum/hotels.aspx" title="Tulum">Tulum</a></li>
 	        <li class="moreLink"><a href="/info/about/destinations/Mexico/" title="More Mexico">More Mexico...</a></li>
-	        <li class="empty"> <p>&nbsp;</p></li>
-	        <li class="empty"> <p>&nbsp;</p></li>
-	        <li class="empty"> <p>&nbsp;</p></li>
-	        <li class="empty"> <p>&nbsp;</p></li>
 	    </ul>
 	    
-	     <ul class="menuListing" style="width:195px;">
+	     <ul class="menuListing" style="width:185px;">
 	        <li><a href="/info/about/destinations/Middle_East/" title="Middle East Holidays"><b>Middle East Holidays</b></a></li>
 	        <li><a href="/brochures/worldwide/holidays/the_middle_east/dubai_beaches_and_beyond/hotels.aspx" title="Dubai Beaches">Dubai Beaches</a></li>
 	        <li><a href="/brochures/worldwide/holidays/the_middle_east/dubai_city/hotels.aspx" title="Dubai City">Dubai City</a></li>
@@ -1378,6 +1375,10 @@ if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalS
             <li class="empty"> <p>&nbsp;</p></li>
             <li class="empty"> <p>&nbsp;</p></li>
             <li class="emptyMiddle"> <p>&nbsp;</p></li>
+            <li><a href="/info/about/destinations/Central_America/" title="Central America Holidays"><b>Central America Holidays</b></a></li>
+	        <li><a href="/brochures/worldwide/holidays/central_america/costa_rica/hotels.aspx" title="Costa Rica">Costa Rica</a></li>
+	        <li><a href="/brochures/worldwide/holidays/central_america/panama/hotels.aspx" title="Panama">Panama</a></li>
+            <li class="empty"> <p>&nbsp;</p></li>
 	        <li><a href="/info/about/destinations/Australasia/" title="Australasia Holidays"><b>Australasia Holidays</b></a></li>
 	        <li class="moreLink"><a href="/info/about/destinations/Australasia/" title="View all our destinations in Australia and New Zealand">View all our destinations in Australia and New Zealand</a></li>
 	    </ul>
@@ -1419,7 +1420,6 @@ if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalS
 </div>
     
 
-
 			    
 			</div>
 			
@@ -1438,12 +1438,13 @@ if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalS
 		        <li><a href="/info/about/who_are_we/responsible_tourism/responsible_tourism.aspx">Responsible Tourism</a></li>
 		        <li><a href="/info/press/">Press</a></li>
 		        <li><a href="http://gs19.globalsuccessor.com/fe/tpl_virgin03.asp?newms=info1">Careers</a></li>
-		        <li><a href="/info/about/vaa_credit_card/">VAA Credit Card</a></li>
+		        <li><a href="/info/about/vaa_credit_card/" target="_blank">VAA Credit Card</a></li>
 		        <li><a href="/info/about/sitemap/">Sitemap</a></li>
+		        <li><a href="/info/about/cookies/">Cookies</a></li>
             </ul>
         </div>
         <div class="footerCol2">
-            <h3 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=15&amp;c=666666&amp;hoffset=-3&amp;caption=Our+Sister+Companies" alt="Our Sister Companies"><span>Our Sister Companies</span></h3>
+            <h3 class="inv"><img src="/dynamichtag.aspx?w=587&amp;s=15&amp;c=666666&amp;hoffset=-3&amp;caption=Our+Family" alt="Our Family"><span>Our Family</span></h3>
             <ul>
 		        <li><a href="http://www.balesworldwide.com/" target="_blank">Bales Worldwide</a></li>
 		        <li><a href="http://www.vhiphotels.co.uk/" target="_blank">HIP Hotels</a></li>
@@ -1463,7 +1464,7 @@ if (UpdateChildAgeText(document.getElementById('ctl00_BookingForm1_GeographicalS
 		        <li><a href="/info/important/faqs/" accesskey="5">FAQs</a></li>
 		        <li><a href="/info/important/disabled_customers/">Disabled customers</a></li>
 		        <li><a href="http://www.virgin-atlantic.com/en/gb/index.jsp" target="_blank">Prebook seats &amp; meals</a></li>
-		        <li><a href="https://www.virgin-atlantic.com/en/gb/frequentflyer/index.jsp" target="_blank">Frequent Virgin Flying Club</a></li>
+		        <li><a href="https://www.virgin-atlantic.com/en/gb/frequentflyer/index.jsp" target="_blank">Virgin Atlantic Flying Club</a></li>
 	        </ul>
         </div>
         <div class="footerCol4">
@@ -1515,12 +1516,13 @@ if (typeof(urchinTracker) != "undefined") urchinTracker();
 </script>
 
 
-<div id="serverID">W6</div>
-<script>var cmServerName = "W6";</script>
+<div id="serverID">W4</div>
+<script>var cmServerName = "W4";</script>
 
 		</form>
 				
-	<script type="text/javascript" src="https://virginfeedback.appspot.com/qtag.js?client_id=virgin"></script>
 	
 
-<div id="ui-datepicker-div" style="display: none;"></div></body></html>
+<div id="ui-datepicker-div" style="display: none;"></div><table class="bubbletip" cellspacing="0" cellpadding="0" style="opacity: 0; width: 386px; height: 118px; position: absolute; top: 72px; left: 719.5px; display: none;"><tbody><tr><td class="bt-topleft"></td><td><table class="bt-top" cellspacing="0" cellpadding="0"><tbody><tr><th></th><td><div></div></td><th></th></tr></tbody></table></td><td class="bt-topright"></td></tr><tr><td class="bt-left"></td><td class="bt-content"><div id="tip1_left" style="">
+    The Cookies we use on virginholidays.co.uk help us to give you<br> the best experience. We'll assume you're happy for us to use<br> them if you keep using our website.<br><a href="/info/about/cookies/">Find out more about our cookies and how you can manage them</a>
+</div></td><td class="bt-right"></td></tr><tr><td class="bt-bottomleft"></td><td class="bt-bottom"></td><td class="bt-bottomright"></td></tr></tbody></table></body></html>
