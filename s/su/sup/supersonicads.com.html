@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the supersonicads.com privacy policy that was archived on 2011-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219101439id_/http%3A//www.supersonicads.com/index.php/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the supersonicads.com privacy policy that was archived on 2012-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625204227id_/http%3A//www.supersonicads.com/index.php/Privacy_Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-		<!--link rel="stylesheet" type="text/css" href="http://s.supersonicads.com/portal/new/css/outer.20.css" /-->
-		<link rel="stylesheet" type="text/css" href="http://s.ssacdn.com/portal/new/css/outer.28.min.gz.css">
+<!DOCTYPE html><html><!--<![endif]--><head>
+		<link rel="stylesheet" type="text/css" href="http://s.ssacdn.com/portal/new/css/main.2.min.gz.css">
+
 		<style type="text/css">
 		@font-face{
 			font-family: 'DINWebBlack';
@@ -15,175 +15,26 @@
 			src: url('/skins/supersonicads_new/webfontkit/dinweb-medium-webfont.eot');
 			src: url('/skins/supersonicads_new/webfontkit/dinweb-medium-webfont.woff') format('woff'), url('/skins/supersonicads_new/webfontkit/dinweb-medium-webfont.ttf') format('truetype'), url('/skins/supersonicads_new/webfontkit/dinweb-medium-webfont.svg#webfontUGgemgEY') format('svg');
 		}
-		.brandconnect-slide{position:relative;}
-		.mini-banner{position: absolute;left:527px;top:35px;}
-		.regularCase{text-transform:none;}
 		</style>
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
-		<script type="text/javascript" src="http://s.ssacdn.com/portal/new/js/jquery.cycle.all.min.js"></script>
-		<script type="text/javascript" src="http://s.ssacdn.com/portal/new/js/custom.min.gz.js"></script>
-				<script type="text/javascript">
-		$(document).ready(function(){
-			var navigation = $(".menu a");
-			navigation.css("backgroundPosition","100% 100%");
-			$.each(navigation, function(index,navi){
-				if($(navi).hasClass("current")){
-					var src = $(navi).css("background-image");
-					var arr = src.split(".png");
-					var hoverSrc = arr[0]+"Curr.png"+arr[1];
-					navi.style.backgroundImage = hoverSrc;
-				}
-			});
-			navigation.mouseover(function(){
-				if(!$(this).hasClass("current")){
-					var src = $(this).css("background-image");
-					var arr = src.split(".png");
-					var hoverSrc = arr[0]+"Hover.png"+arr[1];
-					this.style.backgroundImage = hoverSrc;
-					$(this).stop().animate(
-						{backgroundPosition:"100% 1px"},
-						{duration:600});
-				}
-			})
-			.mouseout(function(){
-				if(!$(this).hasClass("current")){
-					var src = $(this).css("background-image");
-					var arr = src.split("Hover.png");
-					if(typeof arr[1] !== "undefined"){
-						var hoverSrc = arr[0]+".png"+arr[1];
-					} else {
-						arr = src.split("Curr.png");
-						var hoverSrc = arr[0]+".png"+arr[1];
-					}
-					this.style.backgroundImage = hoverSrc;
-					$(this).stop().animate(
-						{backgroundPosition:"100% 100%"},
-						{duration:100});
-				}
-			}).mousedown(function(){
-				var curr = "Curr";
-				var src = $(this).css("background-image");
-				var arr = src.split("Hover.png");
-				var hoverSrc = arr[0]+curr+".png"+arr[1];
-				this.style.backgroundImage = hoverSrc;
-			});
-			var subNav = $("#subNav ul li");
-			subNav.hover(
-				function(){$(this).animate({opacity:0.6},400);},
-				function(){$(this).animate({opacity:1},300);}
-			);
-			$('.slideshow').cycle({
-				fx: 'fade',
-				speed: '600',
-				cleartype: true, cleartypeNoBg: true
-			});
-			$.fn.cycle.updateActivePagerLink = function(pager, currSlideIndex) {
-				$('.bannerPaging > div').removeClass('active');
-				$('#b' + (currSlideIndex+1) ).addClass('active');
-			};
-			$('.banner').cycle({
-				fx: 'scrollLeft',
-				speed: '700',
-				timeout: '5000',
-				pager: '.bannerPaging',
-				pagerAnchorBuilder: function(idx, slide) {
-				return '';
-				},
-				timeoutFn: function(currSlideElement, nextSlideElement, options, forwardFlag) {
-					// Make the first slide delay x3 times than a usual frame
-					if (options.currSlide == 0) {
-						return options.timeout * 2;
-					} else {
-						return options.timeout;
-					};
-				},
-				before: function(currSlideElement, nextSlideElement, options, forwardFlag) {
-					if (options.nextSlide == 0) {
-						$('.mini-banner').cycle(0);
-						$('.mini-banner').cycle('resume');
-					} else {
-						$('.mini-banner').cycle(0);
-						$('.mini-banner').cycle('pause');
-					};
-				}
-			});
-			$('#b1').click(function() {
-				$('.banner').cycle(0);
-				return false;
-			});
-			$('#b2').click(function() {
-				$('.banner').cycle(1);
-				return false;
-			});
-			$('#b3').click(function() {
-				$('.banner').cycle(2);
-				return false;
-			});
-			$('#b4').click(function() {
-				$('.banner').cycle(3);
-				return false;
-			});
-			$('#b5').click(function() {
-				$('.banner').cycle(4);
-				return false;
-			});
-			$('.mini-banner').cycle({
-				timeout: 3333
-			});
-			if(document.getElementById("aboutUsSideBarBullets")){
-				$("#aboutUsSideBarBullets li").hover(
-					function(){if(!$(this).hasClass("current"))$(this).animate({textIndent:"5px"},{duration:200});},
-					function(){if(!$(this).hasClass("current"))$(this).animate({textIndent:"0px"},{duration:100});}
-				)
-				$("#aboutUsSideBarBullets li.current").css("text-indent","5px");
-			}
-			$("#password").keypress(function (e) {
-				if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
-					document.topSignin.submit();
-				}
-			});
-		});
 
-		</script>
-				<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-				<title>Privacy Policy - SupersonicAds</title>
-				<script type="text/javascript">/*<![CDATA[*/
-var skin = "supersonicads_new";
-var stylepath = "/skins";
-var wgArticlePath = "/index.php/$1";
-var wgScriptPath = "";
-var wgScript = "/index.php";
-var wgVariantArticlePath = false;
-var wgActionPaths = [];
-var wgServer = "http://www.supersonicads.com";
-var wgCanonicalNamespace = "";
-var wgCanonicalSpecialPageName = false;
-var wgNamespaceNumber = 0;
-var wgPageName = "Privacy_Policy";
-var wgTitle = "Privacy Policy";
-var wgAction = "view";
-var wgArticleId = "30";
-var wgIsArticle = true;
-var wgUserName = null;
-var wgUserGroups = null;
-var wgUserLanguage = "en";
-var wgContentLanguage = "en";
-var wgBreakFrames = false;
-var wgCurRevisionId = "965";
-var wgVersion = "1.13.0";
-var wgEnableAPI = true;
-var wgEnableWriteAPI = false;
-var wgRestrictionEdit = [];
-var wgRestrictionMove = [];
-/*]]>*/</script>
-				<meta property="og:title" content="SupersonicAds - virtual currency monetization.">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		<script src="http://s.ssacdn.com/portal/new/js/plugins.min.gz.js"></script>
+		<script src="http://s.ssacdn.com/portal/new/js/custom.min.gz.js"></script>
+                
+
+		<title>Privacy Policy - SupersonicAds</title>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta property="og:title" content="SupersonicAds - virtual currency monetization.">
 		<meta property="og:type" content="product">
 		<meta property="og:image" content="http://s.ssacdn.com/portal/new/images/logo-260x90.png">
 		<meta property="fb:admins" content="100001035232703">
 		<meta property="og:site_name" content="SupersonicAds.com">
 		<meta name="description" content="SupersonicAds is a leading social in-game advertising platform utilizing virtual currency monetization">
-	</head>
-	<body>
+
+        <!-- Privacy Policy -->
+        </head>
+<body>
 	<div class="wrapper">
 		<div class="header">
 						<div class="login">
@@ -298,7 +149,7 @@ Template argument size: 0/2097152 bytes
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key main:pcache:idhash:30-0!1!0!!en!2!edit=0 and timestamp 20111218160625 -->
+<!-- Saved in parser cache with key main:pcache:idhash:30-0!1!0!!en!2!edit=0 and timestamp 20120625190023 -->
 <div class="printfooter">
 Retrieved from "<a href="http://www.supersonicads.com/index.php/Privacy_Policy">http://www.supersonicads.com/index.php/Privacy_Policy</a>"</div>
 
@@ -311,7 +162,7 @@ Retrieved from "<a href="http://www.supersonicads.com/index.php/Privacy_Policy">
 		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
 
 	<div class="footer">
-		<div class="copyrights">© SupersonicAds.com 2009-2011</div>
+		<div class="copyrights">© SupersonicAds.com 2009-2012</div>
 		<div class="bottomMenu">
 			<a href="/index.php/Main_Page">Home</a> |
 			<a href="/index.php/Company">About us</a> |
@@ -328,19 +179,145 @@ Retrieved from "<a href="http://www.supersonicads.com/index.php/Privacy_Policy">
 
 
 
-<!-- Served in 0.208 secs. --><script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-25932734-1']);_gaq.push(['_setDomainName', 'supersonicads.com']);_gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']);(function() { var ga = document.createElement('script');ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
-<div class="preloading">
-		<img src="http://s.ssacdn.com/portal/new/images/menu/menuPublishersHover.png" alt="">
-	<img src="http://s.ssacdn.com/portal/new/images/menu/menuAdvertisersHover.png" alt="">
-	<img src="http://s.ssacdn.com/portal/new/images/menu/menuAboutusHover.png" alt="">
-	<img src="http://s.ssacdn.com/portal/new/images/menu/menuContactusHover.png" alt="">
-	<img src="http://s.ssacdn.com/portal/new/images/menu/menuPublishersCurr.png" alt="">
-	<img src="http://s.ssacdn.com/portal/new/images/menu/menuAdvertisersCurr.png" alt="">
-	<img src="http://s.ssacdn.com/portal/new/images/menu/menuAboutusCurr.png" alt="">
-	<img src="http://s.ssacdn.com/portal/new/images/menu/menuContactusCurr.png" alt="">
-		<img src="http://s.ssacdn.com/portal/new/images/btnBg.hover.png" alt="">
-</div>
+<!-- Served in 0.144 secs. --><script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-25932734-1']);_gaq.push(['_setDomainName', 'supersonicads.com']);_gaq.push(['_setCustomVar', 1, 'Section', 'Portal'], ['_setCustomVar', 2, 'UserName', '204.236.235.245'], ['_setCustomVar', 3, 'PortalPage', 'Privacy Policy']);_gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']);(function() { var ga = document.createElement('script');ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})(); try{ var pageTracker = _gat._getTracker('UA-25932734-1'); pageTracker._trackPageview(); }catch(err){}</script>
+    <div class="preloading">
+                <img src="http://s.ssacdn.com/portal/new/images/menu/menuPublishersHover.png" alt="">
+        <img src="http://s.ssacdn.com/portal/new/images/menu/menuAdvertisersHover.png" alt="">
+        <img src="http://s.ssacdn.com/portal/new/images/menu/menuAboutusHover.png" alt="">
+        <img src="http://s.ssacdn.com/portal/new/images/menu/menuContactusHover.png" alt="">
+        <img src="http://s.ssacdn.com/portal/new/images/menu/menuPublishersCurr.png" alt="">
+        <img src="http://s.ssacdn.com/portal/new/images/menu/menuAdvertisersCurr.png" alt="">
+        <img src="http://s.ssacdn.com/portal/new/images/menu/menuAboutusCurr.png" alt="">
+        <img src="http://s.ssacdn.com/portal/new/images/menu/menuContactusCurr.png" alt="">
+                <img src="http://s.ssacdn.com/portal/new/images/btnBg.hover.png" alt="">
+    </div>
 
+    <script>
+        $(function(){
+
+            $("[rel=tooltip]").tooltip();
+
+            var navigation = $(".menu a");
+            navigation.css("backgroundPosition","100% 100%");
+            $.each(navigation, function(index,navi){
+                if($(navi).hasClass("current")){
+                    var src = $(navi).css("background-image");
+                    var arr = src.split(".png");
+                    var hoverSrc = arr[0]+"Curr.png"+arr[1];
+                    navi.style.backgroundImage = hoverSrc;
+                }
+            });
+            navigation.mouseover(function(){
+                if(!$(this).hasClass("current")){
+                    var src = $(this).css("background-image");
+                    var arr = src.split(".png");
+                    var hoverSrc = arr[0]+"Hover.png"+arr[1];
+                    this.style.backgroundImage = hoverSrc;
+                    $(this).stop().animate(
+                        {backgroundPosition:"100% 1px"},
+                        {duration:600});
+                }
+            })
+                .mouseout(function(){
+                    if(!$(this).hasClass("current")){
+                        var src = $(this).css("background-image");
+                        var arr = src.split("Hover.png");
+                        if(typeof arr[1] !== "undefined"){
+                            var hoverSrc = arr[0]+".png"+arr[1];
+                        } else {
+                            arr = src.split("Curr.png");
+                            var hoverSrc = arr[0]+".png"+arr[1];
+                        }
+                        this.style.backgroundImage = hoverSrc;
+                        $(this).stop().animate(
+                            {backgroundPosition:"100% 100%"},
+                            {duration:100});
+                    }
+                }).mousedown(function(){
+                    var curr = "Curr";
+                    var src = $(this).css("background-image");
+                    var arr = src.split("Hover.png");
+                    var hoverSrc = arr[0]+curr+".png"+arr[1];
+                    this.style.backgroundImage = hoverSrc;
+                });
+            var subNav = $("#subNav ul li");
+            subNav.hover(
+                function(){$(this).animate({opacity:0.6},400);},
+                function(){$(this).animate({opacity:1},300);}
+            );
+            $('.slideshow').cycle({
+                fx: 'fade',
+                speed: '600',
+                cleartype: true, cleartypeNoBg: true
+            });
+            $.fn.cycle.updateActivePagerLink = function(pager, currSlideIndex) {
+                $('.bannerPaging > div').removeClass('active');
+                $('#b' + (currSlideIndex+1) ).addClass('active');
+            };
+            $('.banner').cycle({
+                fx: 'scrollLeft',
+                speed: '700',
+                timeout: '6500',
+                pager: '.bannerPaging',
+                pagerAnchorBuilder: function(idx, slide) {
+                    return '';
+                },
+                timeoutFn: function(currSlideElement, nextSlideElement, options, forwardFlag) {
+                    // Make the first slide delay x3 times than a usual frame
+                    if (options.currSlide == 0) {
+                        return options.timeout * 2;
+                    } else {
+                        return options.timeout;
+                    };
+                },
+                before: function(currSlideElement, nextSlideElement, options, forwardFlag) {
+                    if (options.nextSlide == 0) {
+                        $('.mini-banner').cycle(0);
+                        $('.mini-banner').cycle('resume');
+                    } else {
+                        $('.mini-banner').cycle(0);
+                        $('.mini-banner').cycle('pause');
+                    };
+                }
+            });
+            $('#b1').click(function() {
+                $('.banner').cycle(0);
+                return false;
+            });
+            $('#b2').click(function() {
+                $('.banner').cycle(1);
+                return false;
+            });
+            $('#b3').click(function() {
+                $('.banner').cycle(2);
+                return false;
+            });
+            $('#b4').click(function() {
+                $('.banner').cycle(3);
+                return false;
+            });
+            $('#b5').click(function() {
+                $('.banner').cycle(4);
+                return false;
+            });
+            $('.mini-banner').cycle({
+                timeout: 3333
+            });
+            if(document.getElementById("aboutUsSideBarBullets")){
+                $("#aboutUsSideBarBullets li").hover(
+                    function(){if(!$(this).hasClass("current"))$(this).animate({textIndent:"5px"},{duration:200});},
+                    function(){if(!$(this).hasClass("current"))$(this).animate({textIndent:"0px"},{duration:100});}
+                )
+                $("#aboutUsSideBarBullets li.current").css("text-indent","5px");
+            }
+            $("#password").keypress(function (e) {
+                if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
+                    document.topSignin.submit();
+                }
+            });
+        });
+
+    </script>
 
 
 </body></html>
