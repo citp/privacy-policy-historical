@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the savingmyfamilymoney.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228034311id_/http%3A//www.savingmyfamilymoney.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingmyfamilymoney.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625051815id_/http%3A//www.savingmyfamilymoney.com/our-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Saving My Family Money
+# Privact policy
 
-Privacy Policy for savingmyfamilymoney.com
+**Privacy Policy** for savingmyfamilymoney.com
 
 The privacy of our visitors to savingmyfamilymoney.com is important to us.
 
