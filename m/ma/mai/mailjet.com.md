@@ -1,55 +1,56 @@
-> *The following text is extracted and transformed from the mailjet.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202114532id_/http%3A//www.mailjet.com/s/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailjet.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625145909id_/https%3A//www.mailjet.com/Privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy policy - mailjet.com
+# Privacy policy - Mailjet
 
 * * *
 
-This privacy Statement covers the information practices of http://www.mailjet.com (referred to the Website). Mailjet is no responsible for the information practices or the content of the websites that may be linked on Mailjet’s Website. By using Mailjet’s Website You agree with the terms of this Privacy Policy Statement.
+This privacy Statement covers the information practices of http://www.mailjet.com (referred to the Website). Mailjet is not responsible for the information practices, or the content of the websites that may be linked on Mailjet’s website. By using Mailjet’s website you agree with the terms of this Privacy Policy Statement.
 
-### 1.Personal information collected
+### 1.Personal Information Collected
 
-**Information You Provide to MailJet**  
-MailJet collects information provided by You when you register to the Service. By providing us this information, you consent to your information being collected and used. Such information may include your name, address, email address, phone number, your gender or occupation.
+**Information You Provide to Mailjet**  
+Mailjet collects the information you provide when you register to the service. By providing us this information, you consent to your information being collected and used by Mailjet. Such information may include your name, address, email address, phone number, your gender or occupation.
 
 **Navigational information**  
-As you navigate to the Website, MailJet may collect information through the use of cookies, including standard information from your Web browser, your IP address, and the actions you take on the Mailjets’s Website, or Web beacons. You may block all cookies that have been saved on your computer by following the instructions of your browser on how to turn off cookies. If you block cookies it may be impossible to use the Services.
+As you navigate the Website, Mailjet may collect information through the use of cookies, including standard information from your web browser, your IP address, and the actions you take on Mailjets’s Website, or web beacons. You may block all cookies that have been saved on your computer by following the instructions of your browser on how to turn off cookies. If you block cookies it may be impossible to use the services.
 
 **Lists Information**  
-Mailjet have access to all the information contained in your email distribution lists.
+Mailjet has access to all the information contained in your email distribution lists.
 
 **Tracking Emails**  
-We may sometimes track clicks and open rates to measure the performance of our emails campaigns.
+We may sometimes track clicks and open rates to measure the performance of our email campaigns.
 
 **Testimonials**  
-Mailjet posts a list of Customers and Testimonials on the Website that contains information such as Customer names and title, Company name. Mailjet obtains the consent of each Customer prior to posting any information on testimonials.
+Mailjet posts a list of customers and testimonials on the website. This list contains information such as the customer name and title, as well as the name of the company. Before posting any testimonial information, Mailjet obtains the consent of each customer.
 
-### 2.Use of information collected
+### 2.Use Of Information Collected
 
-MailJet uses data about Customers to perform the services requested and for marketing purposes.
+Mailjet uses customer data to perform the services requested and to communicate practical informations (Newsletters for example).
 
 **Your Distribution Lists**  
-We do not steal your lists, sell, share or rent with other party your lists. Data are stored on secured servers and only few authorized personnel have access to your distribution lists. You can retrieve easily your lists at any time by clicking the “export button” from your MailJet account. We will use the information in your distribution lists only to meet legal requirements, to bill and collect sums owed to us and provide customers support.
+Mailjet will not sell, share or rent your lists. The only way Mailjet will uses your lists will be to provide the services you ask for. Data is stored on secured servers and the authorized personnel who has access to your distribution lists is very restricted. You can retrieve easily your lists at any time by clicking the “export button” from your Mailjet account. We will use your distribution lists information only to meet legal requirements, to bill and collect sums owed to us and to provide customer support.
 
-**Our Newsletter and emails marketing**  
-You can choose to unsubscribe to our newsletter or marketing emails by following the unsubscribe link included in these emails. You also can contact us at support@mailjet.com.
+**Our Newsletter and email marketing**  
+You can choose to unsubscribe to our newsletter or marketing emails by clicking on the unsubscribe link included in the marketing emails we send you. You can also contact us at support@mailjet.com
 
 ### 3\. Security
 
-Despite the use of robust measures to protect customers data from unauthorized access, nobody is safe from hackers. In case of breach security which materially affects You, MailJet will notify You and will take measure to end the intrusion. The security of your personal information is important to us. If you have any questions about security on our Website, you should contact us at security@mailjet.com.
+Strong measures protect customer data from unauthorized access. Mailjet's security standards are actually very high. From A to Z, our solution is designed to guarantee the safety of your data. However, nobody can consider to be completely safe from hackers: even if it's almost impossible, the worst case scenario must be considered. Therefore, please note that if a security breach was to affect you, Mailjet commits to immediately notify you. Mailjet will also take all the necessary measures to end the intrusion. If you have any questions about security on our Website, you should contact us at security@mailjet.com
 
-### 4\. Correcting and Updating Your Information
+### 4\. Correcting And Updating Your Information
 
-To update your profile please login to http://www.mailjet.com ant click “edit profile”, or contact support@mailjet.com Requests to access, change, or delete your information will be handled within 30 days.
+To update your profile please login to http://www.mailjet.com and click on “edit profile”, or contact support@mailjet.com Any request to access, change, or delete your information will be handled within 30 days.
 
-### 5\. Changes to this Privacy Statement
+### 5\. Changes To This Privacy Policy
 
-MailJet reserves the right to change this Privacy Statement by providing You notification on the Website or by email at least thirty days prior to the change taking effect.
+Mailjet reserves the right to change this Privacy Policy. In this case, you will be notified of these changes via the website or by email, at least thirty days before the changes take effect.
 
-### 6\. Contact us
+### 6\. Contact Us
 
-Any questions regarding this Privacy Statement should be directed to Mailjet by emailing privacy@mailjet.com or by mailing : 
+Any questions regarding this Privacy Policy should be addressed at privacy@mailjet.com or by mailing : 
 
 **SAS Mailjet - Privacy Policy**   
-Appt 3 - 13 rue de l'Hermitage  
-44330 Le Pallet  
-FRANCE
+30 Rue Blondel  
+75002 Paris  
+FRANCE  
+
