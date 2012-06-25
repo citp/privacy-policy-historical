@@ -1,203 +1,155 @@
-<!--The following is the downloaded HTML source of the morningstar.com.au privacy policy that was archived on 2011-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203150331id_/http%3A//www.morningstar.com.au/About/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the morningstar.com.au privacy policy that was archived on 2012-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625150705id_/http%3A//www.morningstar.com.au/About/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <meta http-equiv="X-UA-Compatible" content="IE=7">
+        <title>Privacy - Morningstar.com.au</title>
 
-    <script type="text/javascript">
-        var OA_zones = {
-            'ZoneA'     : 101,
-            'ZoneB'     : 130,
-            'LeftZone'  : 103,
-            'RightZone' : 104,
-            'MediumZone': 137
-        }
-    </script>
+        <!-- START default adzones -->    
+        <script type="text/javascript">
+            var OA_zones = {
+                'ZoneA'     : 101,
+                'ZoneB'     : 130,
+                'LeftZone'  : 103,
+                'RightZone' : 104,
+                'MediumZone': 137,
+                'LatestZoneA'     : 141,
+                'LatestZoneB'     : 192,
+                'LatestMediumZone': 191,
+                'StocksZoneA'     : 198,
+                'StocksZoneB'     : 199,
+                'StocksMediumZone': 200,
+                'FundsZoneA'     : 201,
+                'FundsZoneB'     : 202,
+                'FundsMediumZone': 203,
+                'SMSFZoneA'     : 204,
+                'SMSFZoneB'     : 205,
+                'SMSFMediumZone': 206,
+                'LearnZoneA'     : 207,
+                'LearnZoneB'     : 208,
+                'LearnMediumZone': 209,
+                'ETFZoneA'     : 210,
+                'ETFZoneB'     : 211,
+                'ETFMediumZone': 212,
+                'ArticleBottom': 232,
+                'MedRec': 0
+                
+            }
+        </script>
+        <!-- END default adzones -->    
 
-    <title>Privacy - Morningstar.com.au</title>
-    <link rel="SHORTCUT ICON" href="/Content/images/favicon.ico">
-    
-    <!-- meta name="description" content="Privacy" /-->
-    <meta name="robots" content="NOODP">
-    <meta name="googlebot" content="NOODP">
-    <meta name="description" content="Morningstar provides investment research for stocks, funds, ETF's, hybrids, and LIC's as well as financial data, news, and investing articles and videos.">
-    
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    
-    <link rel="stylesheet" type="text/css" href="/Content/css/master.css">
-    
-    <style type="text/css">
-        .storyPageHolder
-        {
-            visibility: visible;
-        }
-        .storyPage
-        {
-            display: none;
-        }
-    </style>
-
-    <link rel="stylesheet" type="text/css" href="/Content/css/jtip.css">
-    <!-- tooltip -->
-  <script type="text/javascript" src="/Content/scripts/jquery-1.3.2.min.js"></script>
-  <script type="text/javascript" src="/Content/scripts/jquery.qtip-1.0.0-rc3.min.js"></script> 
-  <script type="text/javascript" src="/Content/scripts/jtip.js"></script>
-  <!-- tooltip ends-->
-    <script type="text/javascript" src="/Content/scripts/javascript.js"></script>
-
-    <script type="text/javascript" src="/Content/scripts/amcharts/amline/swfobject.js"></script>
-
-    <script type="text/javascript" src="/Content/scripts/jQuery/jquery.js"></script>
-    <script type="text/javascript" src="http://ads.morningstar.com.au/www/delivery/spcjs.php"></script>
-  <!-- Delete before commit 
-    <script type="text/javascript" src="/Content/scripts/g.raphael-min.js"></script>
-    <script type="text/javascript" src="/Content/scripts/g.raphael.js"></script>
-    <script type="text/javascript" src="/Content/scripts/g.bar.js"></script> -->
-
-    <script type="text/javascript" src="/Content/scripts/highcharts/js/highcharts.js"></script>
-      
-    <!-- dth TODO: this should be removed from Site.Master -->
-
-    <script type="text/javascript">
-
-
-        function ChartGen(swObjectPath, swWidth, swHeight, swBColor, path, pathSettingsFile, pathDataFile, divID) {
-
-            var so = new SWFObject(swObjectPath, "amline", swWidth, swHeight, "8", swBColor);
-            so.addVariable("path", path);
-            so.addVariable("settings_file", escape(pathSettingsFile));  // you can set two or more different settings files here (separated by commas)
-            so.addVariable("data_file", "/Content/scripts/amcharts/amline/" + pathDataFile);
-            so.addVariable("preloader_color", "#999999");
-            so.addParam("quality", "low");
-            so.write(divID);
-        }
-
-        function renderStockChart(width, height, settings, ticker, period, div) {
-
-            var so = new SWFObject("/Content/scripts/amcharts/amline/amline.swf", "amline", width, height, "8", "#FFFFFF");
-            so.addVariable("path", "/Content/scripts/amcharts/amline/");
-            so.addVariable("settings_file", escape(settings));
-            so.addVariable("additional_chart_settings", "http://www.morningstar.com.au/Chart/AdditionalChartSettings/" + ticker);
-            so.addVariable("data_file", escape("http://www.morningstar.com.au/Chart/PriceChartData/" + ticker + "/" + period));
-            so.addParam("quality", "low");
-            so.addParam("wmode", "opaque");
-            so.write(div);
-        }
-
-        function renderSectorValuationChart(width, height, settings, sector, div) {
-
-            var so = new SWFObject("/Content/scripts/amcharts/amline/amline.swf", "amline", width, height, "8", "#FFFFFF");
-            so.addVariable("path", "/Content/scripts/amcharts/amline/");
-            so.addVariable("settings_file", escape(settings));
-            so.addVariable("data_file", escape("http://www.morningstar.com.au/Chart/SectorValuationChartData/" + sector));
-            so.addParam("quality", "low");
-            so.addParam("wmode", "opaque");
-            so.write(div);
-        }
-
-
-        // charts (EarningSurprise, ForecastEarningTrends, CurrentAnalystRecommendation)
-        function renderCharts(options) {
-            var chart = new Highcharts.Chart(options);
-        }
-    </script>
-
-    <link rel="stylesheet" href="/Content/scripts/sifr/sIFR-screen.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="/Content/scripts/sifr/sIFR-print.css" type="text/css" media="print">
-
-    <script type="text/javascript" src="/Content/scripts/sifr/sifr.js"></script>
-
-    <script type="text/javascript">
-        //for TickerComplete.js
-        var SiteRoot = "/NewPort";
-
-        var Morningstar1 = {
-            src: '/Content/scripts/sifr/Morningstar1.swf'
-        };
-
-        sIFR.activate(Morningstar1);
-
-        sIFR.replace(Morningstar1, {
-            selector: 'h2.cpost-title',
-            css: [
-              '.sIFR-root { font-size: 18px; font-weight: bold; color: #000000; }'
-              ],
-            wmode: 'transparent'
-        });
-    </script>
-
-    <script type="text/javascript" language="javascript">
-        function setFocus() {
-            document.getElementById("ASXCode").focus();
-        }
-    </script>
-
-</head>
-<body onload="setFocus()">
-    <div id="wrapper">
         
-        <div id="header">
-            <div id="logo">
-                <a href="/">
-                    <img src="/Content/images/top_logo.jpg" alt="Morningstar"></a>
-            </div>
-            <div class="Quotes_Search">
-                <form id="CodeSearch" action="/Search/Quote" method="post" class="forminput">
-                <fieldset>
-                    <input id="ASXCode" type="text" name="ASXCode" class="h_quote" maxlength="255" value="Stock/Fund Search" onkeydown="this.value = this.value.replace('Stock/Fund Search','');" onclick="this.value = '';" autocomplete="off" tickercomplete="on" tickercompletemorebutton="on">
-                    <input type="image" src="/Content/images/dot_clear.gif" class="h_button1" value="">
-                    <input name="ASXCode_hdn" type="hidden" id="ASXCode_hdn">
-                </fieldset>
-                </form>
-                <form action="/Search/Content" method="post" class="forminput">
-                <fieldset>
-                    <input name="Tokens" type="text" class="h_search" maxlength="255" value="Website Search" onkeydown="this.value = this.value.replace('Website Search','');" onclick="this.value = '';" autocomplete="off">
-                    <input type="image" src="/Content/images/dot_clear.gif" class="h_button1" value="">
-                </fieldset>
-                </form>
-            </div>
-            <div id="corp">
-                
-                <a href="/Security/Login" class="company">Log In</a>
-                
-                <a href="/About/Premium" class="company">Premium</a> <a href="http://corporate.morningstar.com/au" class="company">Company Site</a> <a href="http://corporate.morningstar.com/US/asp/subject.aspx?filter=refresh&amp;xmlfile=126.xml" class="company">Company News</a>
-            </div>
+        <!-- START Meta tags -->
+            <meta http-equiv="X-UA-Compatible" content="IE=7">
+            <meta name="robots" content="NOODP">
+            <meta name="googlebot" content="NOODP">
+            <meta name="description" content="Morningstar provides investment research for stocks, funds, ETF's, hybrids, and LIC's as well as financial data, news, and investing articles and videos.">
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <!-- END Meta tags -->
+
+        <!-- START Link tags -->
             
-            <div id="greeter">
-                
-                <span class="welcome">Welcome, please <u><a href="/Security/Login">log in</a></u></span>
-                
-            </div>
+                    <link rel="stylesheet" type="text/css" href="/Content/css/master.css">
             
-        </div>
+                <link rel="SHORTCUT ICON" href="/Content/images/favicon.ico">
+                <link rel="stylesheet" href="/Content/scripts/sifr/sIFR-screen.css" type="text/css" media="screen">
+                <link rel="stylesheet" href="/Content/scripts/sifr/sIFR-print.css" type="text/css" media="print">
+                <link rel="stylesheet" type="text/css" href="/Content/css/jtip.css">
+        <!-- END Link tags -->    
         
+        <!-- START Script tags -->
+            <script type="text/javascript" src="/Content/scripts/jquery-1.3.2.min.js"></script>
+            <script type="text/javascript" src="/Content/scripts/jquery.qtip-1.0.0-rc3.min.js"></script> 
+            <script type="text/javascript" src="/Content/scripts/jtip.js"></script>
+            <script type="text/javascript" src="/Content/scripts/javascript.js"></script>
+            <script type="text/javascript" src="/Content/scripts/amcharts/amline/swfobject.js"></script>
+            <script type="text/javascript" src="/Content/scripts/jQuery/jquery.js"></script>
+            <script type="text/javascript" src="http://ads.morningstar.com.au/www/delivery/spcjs.php"></script>
+            <script type="text/javascript" src="/Content/scripts/highcharts/js/highcharts.js"></script>
+            <script type="text/javascript" src="/Content/scripts/sifr/sifr.js"></script>
+        <!-- END Script tags -->
         
-<!-- Hide/Show ad zones -->        
-<script type="text/javascript">
-    $(document).ready(function() { 
-        if ($('#BannerAd').children().size() > 3) {
-            $('#adholder').removeClass("show");
-            $('#adholder').addClass("hide");
-            $('#adcontainsm').removeClass("hide");
-            $('#adcontainsm').addClass("show");
-        }
-        else {
-            $('#adholder').removeClass("show");
-            $('#adholder').addClass("hide");
-        }
-    });
-    
-</script>   
-        
-        
-
-
-        
-        
+        <!-- START style tags -->
+            <style type="text/css">
+                .storyPageHolder
+                {
+                    visibility: visible;
+                }
+                .storyPage
+                {
+                    display: none;
+                }
+            </style>
+        <!-- END style tags -->
           
-        <div id="adholder" style="width: 955px; height: 92px; float: left;" class="hide">
-        </div>
-       <div id="adcontainsm" class="hide">
+    </head>
+
+    <body onload="setFocus()">
+        <div id="wrapper">
+            
+                    <div id="header">
+                        <div id="logo">
+                            <a href="http://www.morningstar.com.au/">
+                            <img src="http://www.morningstar.com.au/Content/images/top_logo.jpg" alt="Morningstar"></a>
+                        </div>
+                        <div class="Quotes_Search">
+                            <form id="CodeSearch" action="/Search/Quote" method="post" class="forminput">
+                                <fieldset>
+                                    <input id="ASXCode" type="text" name="ASXCode" class="h_quote" maxlength="255" value="Stock/Fund Search" onkeydown="this.value = this.value.replace('Stock/Fund Search','');" onclick="this.value = '';" autocomplete="off" tickercomplete="on" tickercompletemorebutton="on">
+                                    <input type="image" src="http://www.morningstar.com.au/Content/images/dot_clear.gif" class="h_button1" value="">
+                                    <input name="ASXCode_hdn" type="hidden" id="ASXCode_hdn">
+                                    <input name="ASXCode_hdn2" type="hidden" id="ASXCode_hdn2">
+                                </fieldset>
+                            </form>
+                            <form id="WebsiteSearch" action="/Search/Content" method="post" class="forminput">
+                                <fieldset>
+                                    <input name="Tokens" type="text" class="h_search" maxlength="255" value="Website Search" onkeydown="this.value = this.value.replace('Website Search','');" onclick="this.value = '';" autocomplete="off">
+                                    <input type="image" src="http://www.morningstar.com.au/Content/images/dot_clear.gif" class="h_button1" value="">
+                                </fieldset>
+                            </form>
+                        </div>
+                        <div id="corp">
+                            
+                                        <a href="/Security/Login" class="company">Log In</a>
+                            
+                            <a href="/About/Premium" class="company">Premium</a>
+                            <a href="http://corporate.morningstar.com/au" class="company">Company Site</a>
+                            <a href="http://corporate.morningstar.com/US/asp/subject.aspx?filter=refresh&amp;xmlfile=126.xml" class="company">Company News</a>
+                        </div>
+
+            
+                        <div id="greeter">
+            
+                                    <span class="welcome">Welcome, please <u><a href="/Security/Login">log in</a></u></span>
+            
+                        </div>
+            
+                    </div>
+            
+        
+        <!-- Hide/Show ad zones -->        
+        <script type="text/javascript">
+            $(document).ready(function() { 
+                if ($('#BannerAd').children().size() > 3) {
+                    $('#adholder').removeClass("show");
+                    $('#adholder').addClass("hide");
+                    $('#adcontainsm').removeClass("hide");
+                    $('#adcontainsm').addClass("show");
+                }
+                else {
+                    $('#adholder').removeClass("show");
+                    $('#adholder').addClass("hide");
+                }
+            });
+        </script>         
+        
+        
+
+
+        
+        
+
+        <div id="adholder" style="width: 955px; height: 92px; float: left;" class="hide"></div>
+        <div id="adcontainsm" class="hide">
             <div id="BannerAd">           
                 <script type="text/javascript">
                         OA_show('ZoneA');
@@ -218,211 +170,82 @@
                     </a>
                 </noscript>
             </div>
-        <!-- 
-        <a href='101'  target='_blank'><img src='a9214f39' border='0' alt=''></a>
-        <a href='130' target='_blank'><img src='a6599aa4' border='0' alt=''></a> -->
-       
         </div>
-  
-        
-        
-        
+
+            
 
 <div id="navbar">
 
-                    <a href="/Membership" class="tab_n">Membership</a>                    
-        
-                    <a href="/" class="tab_n">Home</a>                    
-        
-                    <a href="/Portfolio" class="tab_n">Portfolio</a>                    
-        
-                    <a href="/Stocks" class="tab_n">Stocks</a>                    
-        
-                    <a href="/SpecialReports" class="tab_n">Special Reports</a>                    
-        
-                    <a href="/LICs" class="tab_n">LICs<span style="font-size:11; color:red"><b>&nbsp;New</b></span></a>                    
-        
-                    <a href="/Hybrids" class="tab_n">Hybrids</a>                    
-        
-                    <a href="/TechnicalAnalysis" class="tab_n">Tech Analysis</a>                    
-        
-                    <a href="/Funds" class="tab_n">Funds</a>                    
-        
-                    <a href="/ETFs" class="tab_n">ETFs</a>                    
-        
-                    <a href="/Tools" class="tab_n">Tools</a>                    
-        
-                    <a href="/SMSF" class="tab_n">SMSFs</a>                    
-        
-                    <a href="/Learn" class="tab_n">Learn</a>                    
-        
+                <a href="//www.morningstar.com.au/Membership" class="tab_n">Membership</a>
+                
+                
+                <a href="//www.morningstar.com.au/" class="tab_n2">Home</a>
+                
+                
+                <a href="//www.morningstar.com.au/Portfolio" class="tab_n">Portfolio</a>
+                
+                
+                <a href="//www.morningstar.com.au/Stocks" class="tab_n2">Stocks</a>
+                
+                
+                <a href="//www.morningstar.com.au/SpecialReports" class="tab_n1">Special Reports</a>
+                
+                
+                <a href="//www.morningstar.com.au/LICs" class="tab_n2">LICs</a>
+                
+                
+                <a href="//www.morningstar.com.au/Hybrids" class="tab_n2">Hybrids</a>
+                
+                
+                <a href="//www.morningstar.com.au/TechnicalAnalysis" class="tab_n1">Tech Analysis</a>
+                
+                
+                <a href="//www.morningstar.com.au/Funds" class="tab_n2">Funds</a>
+                
+                
+                <a href="//www.morningstar.com.au/ETFs" class="tab_n2">ETFs</a>
+                
+                
+                <a href="//www.morningstar.com.au/Tools" class="tab_n2">Tools</a>
+                
+                
+                <a href="//www.morningstar.com.au/SMSF" class="tab_n2">SMSFs</a>
+                
+                
+                <a href="//www.morningstar.com.au/Learn" class="tab_n2">Learn</a>
+                
+                
+                <a href="//www.morningstar.com.au/Video" class="tab_n2">Video</a>
+                
+                
 </div>        
-        
-        <div id="AutoCompleteMessage" class="AutoCompleteMessage" style="display: none">
-            <table border="1px">
-                <tbody><tr>
-                    <td style="border-style: none; padding: 9px 5px 7px 5px;">
-                        <table class="ACDropDownStyle">
+                    <div id="AutoCompleteMessage" class="AutoCompleteMessage" style="display: none">
+                        <table border="1px">
                             <tbody><tr>
-                                <td class="ACDropDownStyle">
-                                    loading ...
+                                <td style="border-style: none; padding: 9px 5px 7px 5px;">
+                                    <table class="ACDropDownStyle">
+                                        <tbody><tr>
+                                            <td class="ACDropDownStyle">
+                                                loading ...
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
                                 </td>
                             </tr>
                         </tbody></table>
-                    </td>
-                </tr>
-            </tbody></table>
-        </div>
-        <div id="AutoCompleteDropDown" class="AutoCompleteDropDown">
-        </div>
-        <!-- IE 6 Upgrade Message -->
+                    </div>
+                    <div id="AutoCompleteDropDown" class="AutoCompleteDropDown">
+                    </div>
 
-        <script type="text/javascript">
-            var Browser = {
-                Version: function() {
-                    var version = 999; // we assume a sane browser
-                    if (navigator.appVersion.indexOf("MSIE") != -1)
-                    // bah, IE again, lets downgrade version number
-                        version = parseFloat(navigator.appVersion.split("MSIE")[1]);
-                    return version;
-                }
-            }
-
-
-            //            document.write('<div id=\'IESix\' class=\'IEsix\'>');
-            //            document.write('<div style=\'float: left; position: relative; height: 100%;\'>');
-            //            document.write('<img style=\'float: left;\' src=\'/Content/images\/upgrade_IE6.gif\' \/>');
-            //            document.write('<\/div>');
-            //            document.write('<div style=\'position: relative; margin: 10px 10px 0 20px; width: 550px; float: left; height: 100%;\'>');
-            //            document.write('<p style=\'margin-bottom: 12px;\'>Youneed to upgrade your internet borwser now.<\/p>');
-            //            document.write('<p style=\'color: Red; margin-bottom: 12px;\'>Continued use of Internet Explorer poses a serious risk to your Internet Security <\/p>');
-            //            document.write('<ul>');
-            //            document.write('<li>Microsoft no longer provides support for IE6<\/li>');
-            //            document.write('<li>Upgrading to a newer browser is FREE<\/li>');
-            //            document.write('<li>Upgrade NOW to one of the following:<\/li>');
-            //            document.write('<\/ul>');
-            //            document.write('<p style=\'color: Red; margin-bottom: 12px; font-weight: bold;\'>To continue, please download <a style=\'color: Red; font-style:normal;\' href=\'http:\/\/www.microsoft.com\/windows\/downloads\/ie\/getitnow.mspx\'>Internet Explorer 7<\/a> now.<\/p>');
-            //            document.write('<p style=\'color: Red; margin-bottom: 12px; font-weight: bold;\'>Alternatively, you may wish to use <a style=\'color: Red; font-style:normal;\' href=\'http:\/\/www.mozilla.com\/en-US\/firefox\/ie.html\'>Firefox<\/a>, <a style=\'color: Red; font-style:normal;\' href=\'http:\/\/www.apple.com\/safari\/\'>Safari<\/a> or <a style=\'color: Red; font-style:normal;\' href=\'http:\/\/www.google.com\/chrome\'>Chrome<\/a>.<\/p>');
-            //            document.write('<\/div>');
-            //            document.write('<div style=\'float: left; position: relative; width: 120px;\'>');
-            //            document.write('<input class=\'CloseIEsix\' type=\'button\' value=\'Close this warning\' onclick=\'return CloseIE6Msg_WriteCookie()\'  \/>');
-            //            document.write('<\/div>');
-            //            document.write('<\/div>');
-            //
-
-
-            if (Browser.Version() < 7) {
-
-                //            if (!window.XMLHttpRequest) {
-                //                //            function CheckCookie() {
-                //document.write("IE6");
-                var exdate = new Date();
-                exdate.setDate(exdate.getDate() + 1);
-                if (document.cookie.length > 0) {
-                    //document.write(exdate);
-                    //document.write("cookie found");
-                    c_found = document.cookie.indexOf("MorningstarIESixCookie=Yes");
-                    if (c_found == -1) {
-                        // If cookie is not found show IE6 message //
-
-                        document.write("<div id='IESix' class='IEsix'>");
-                        document.write("<div style='float: left; position: relative; height: 100%;'>");
-                        document.write("<img style='float: left;' src='/Content/images/upgrade_IE6.gif' />");
-                        document.write("</div>");
-                        document.write("<div style='position: relative; margin: 10px 10px 0 20px; width: 550px; float: left; height: 100%;'>");
-                        document.write("<p style='margin-bottom: 12px; font-size: 15px;'><b>You need to upgrade your internet browser now.</b></p>");
-                        document.write("<p style='color: Red; margin-bottom: 12px;'><b>Continued use of Internet Explorer 6 poses a serious risk to your Internet Security</b></p>");
-                        document.write("<ul style='list-style-position: inside'>");
-                        document.write("<li>Microsoft no longer provides support for IE6</li>");
-                        document.write("<li>Upgrading to a newer browser is FREE</li>");
-                        document.write("<li>Upgrade NOW to one of the following:</li>");
-                        document.write("</ul>");
-                        document.write("<div style='margin-top: 40px;'>");
-                        document.write("<a href='http://www.microsoft.com/windows/internet-explorer/default.aspx'><img style='margin-right: 10px;' src='/Content/images/thumb_IE8-button.jpg' /></a>");
-                        document.write("<a href='http://www.mozilla.com/en-US/firefox/ie.html'><img style='margin-right: 10px;' src='/Content/images/thumb_Firefox-button.jpg' /></a>");
-                        document.write("<a href='http://www.apple.com/safari/'><img style='margin-right: 10px;' src='/Content/images/thumb_Safari-button.jpg' /></a>");
-                        document.write("<a href='http://www.google.com/chrome'><img style='margin-right: 10px;' src='/Content/images/thumb_Chrome-button.jpg' /></a>");
-                        document.write("</div>");
-                        document.write("</div>");
-                        document.write("<div style='float: left; position: relative; width: 120px; margin-top: 170px;'>");
-                        document.write("<input class='CloseIEsix' type='button' value='Close this warning' onclick='return CloseIE6Msg_WriteCookie()'  />");
-                        document.write("</div>");
-                        document.write("</div>");
-                        //document.cookie = document.cookie+"MorningstarIESixCookie";                
-                    }
-                    else {
-                        //document.write("Cookie Found");
-                    }
-                    // document.write(document.cookie);
-                }
-                //            }               
-            }
-            else {
-                // document.write("IE7");
-            }
-            function CloseIE6Msg_WriteCookie() {
-                if (document.cookie.length > 0) {
-                    document.getElementById("IESix").className = "hide";
-                    cookie_name = "MorningstarIESixCookie=Yes";
-                    if (document.cookie != document.cookie) {
-                        index = document.cookie.indexOf(cookie_name);
-                    }
-                    else {
-                        index = -1;
-                    }
-                    if (index == -1) {
-                        var exdate = new Date();
-                        exdate.setDate(exdate.getDate() + 7);
-                        document.cookie = cookie_name + ";expires=" + exdate.toGMTString();
-                    }
-                }
-                //document.write(document.cookie);
-                return false;
-            }
-        </script>
-
-        <!-- /IE6 Upgrade Message -->
-        <!-- New header stuff -->
-
-        <script type="text/javascript">
-            //                cH_found = document.cookie.indexOf("MorningstarFlashHeaderCookie=Yes");
-            //                if (cH_found == -1) {
-            ////                    document.write("<div id='HeaderFlash' class='show' style='width: 954px; border-left: 1px solid #999999; border-right: 1px solid #999999; border-bottom: 1px solid #999999; height: 300px; float: left;'>");
-            ////                    document.write("<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,16,0' width='953' height='250' ID='Shockwaveflash1' VIEWASTEXT>");
-            ////                    document.write("<param name='movie' value='/Content/flash/mca-newSearchbox_v3.swf' />");
-            ////                    document.write("<param name='FlashVars' value='loc=en_US&htmlApp=false&gatewayURL=gwurl' />");
-            ////                    document.write("<param name='quality' value='high' />");
-            ////                    document.write("<param name='bgcolor' value='#FFFFFF' />");
-            ////                    document.write("<embed name='comauheader' src='/Content/flash/mca-newSearchbox_v3.swf' width='953' height='250' quality='high' bgcolor='#FFFFFF' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer'>");
-            ////                    document.write("</object>");
-            ////                    document.write("<input style='margin-left: 820px; width: 110px; background-color: #D8D8D8; color: Black; height: 29px;' value='Click to Close' type='button' onclick='return CloseHeader_WriteCookie()' />");
-            ////                    document.write("</div>");
-            //                }
-            //                else {
-            //                }
-
-            //                function CloseHeader_WriteCookie() {
-            //                    document.getElementById("HeaderFlash").className = "hide";
-            //                    cookie_name = "MorningstarFlashHeaderCookie=Yes";
-            //                    if (document.cookie != document.cookie) {
-            //                        index = document.cookie.indexOf(cookie_name);
-            //                    }
-            //                    else {
-            //                        index = -1;
-            //                    }
-            //                    if (index == -1) {
-            //                        var exdate = new Date();
-            //                        exdate.setDate(exdate.getDate() + 240);
-            //                        document.cookie = cookie_name + ";expires=" + exdate.toGMTString();
-            //                    }
-            //                    return false;
-            //                }
-        </script>
-
-        <!-- /New header stuff -->
-         <!-- closing tag for print me condition for header area. -->
-        <div id="maincontent">
+                    
+            <!-- START Page wide notification scripts go here -->        
+             
+            <!-- END Page wide notification scripts go here -->        
             
+            
+            <!-- START MVC views get injected here -->
+            <div id="maincontent">
+                
 
 
 <!-- Left nav bar -->
@@ -453,7 +276,7 @@
         
                     <a class="leftNavItemFree" href="/Stocks/Huntleys">Introducing YMW</a>                  
         
-                    <a class="leftNavItemPremium" href="/Stocks/YMW">YMW Issue 46</a>                  
+                    <a class="leftNavItemPremium" href="/Stocks/YMW">YMW Issue 23</a>                  
         
                     <a class="leftNavItemFreeRegisteredVisible" href="/Stocks/YMW/Archive">Newsletter Archive</a>                  
         
@@ -502,7 +325,9 @@
         <span onclick="ShowHybrids()" class="leftStockNavArrowRight" id="HybridsSect"><a href="/Hybrids">Hybrids</a></span>
         <div id="Hybrids" class="hide">
         
-                    <a class="leftNavItemFreeRegistered" href="/Hybrids/Archive">Articles Archive</a>                  
+                    <a class="leftNavItemFreeRegistered" href="/Hybrids/Archive">Hybrids Research Archive</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Hybrids/Monthly">Hybrids Monthly</a>                  
         
                     <a class="leftNavItemFreeRegistered" href="/Hybrids/HybridsLatestPrices">Latest Prices</a>                  
         
@@ -522,9 +347,9 @@
         
                     <a class="leftNavItemFreeRegistered" href="/Funds/ResearchReportsAll">All Analyst Reports</a>                  
         
-                    <a class="leftNavItemFreeRegistered" href="/Funds/MorningstarRatings">Ratings Limitations</a>                  
+                    <a class="leftNavItemFreeRegistered" href="/Funds/MorningstarRatings">Star Ratings Limitations</a>                  
         
-                    <a class="leftNavItemPremium" href="/funds/article/fund-times/4070">Fund Times</a>                  
+                    <a class="leftNavItemPremium" href="/funds/article/fund-times/4890">Fund Times</a>                  
         
                     <a class="leftNavItemPremium" href="/Funds/TimesArchive">Fund Archive</a>                  
         
@@ -643,7 +468,7 @@
         
                     <a class="leftNavItemFree" href="/About/Help">Help</a>                  
         
-                        <a style="color: White;" class="leftNavItemFree highlight" href="/About/Privacy">Privacy Policy</a>
+                    <a class="leftNavItemFree" href="/About/Privacy">Privacy Policy</a>                  
         
                     <a class="leftNavItemFree" href="/About/Terms">Terms and Conditions</a>                  
         
@@ -719,65 +544,124 @@ imgArrowOff.src = "/Content/images/arrow_right.gif";
  
 </div>
         <div class="GenericPrintFooter">
-            For print version please click print icon&nbsp;|&nbsp;<a target="_blank" href="http://www.morningstar.com.au/About.mvc/Privacy/Print"><img style="vertical-align: bottom; cursor:hand;" src="/Content/images/Icon_Printer_3.gif"></a>
+            For print version please click print icon&nbsp;|&nbsp;<a target="_blank" href="http://www.morningstar.com.au/about.mvc/privacy/Print"><img style="vertical-align: bottom; cursor:hand;" src="/Content/images/Icon_Printer_3.gif"></a>
         </div>
     </div>
 
-        </div>
-        
-        <!-- New Footer -->
-        <div class="footerwrap">
-            <div class="footer_Links" style="border-top: 1px solid #A7AAAF;">
-                <div class="footer_Links_row1">
-                    <a href="/About/PremiumMembership" class="footer_text3">Premium Pricing</a> 
-                    <a href="/About/Help" class="footer_text3">Help</a>
-                    <a href="/About/Advertise" class="footer_text3">Advertising Opportunities</a> 
-                    <a href="http://www.morningstaradviser.com.au/productpages/essentials.asp" class="footer_text3">Licensing Opportunities</a> 
-                    <a href="http://www.morningstar.com.au/s/documents/Glossary_morningstar.pdf" target="_blank" class="f_text3">Glossary</a>&nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="/About/fsg" class="footer_text3">FSG</a> 
-                    <a href="/About/Contact" class="footer_text3">Contact Us</a>
-                    <a href="http://corporate.morningstar.com/au/asp/subject.aspx?xmlfile=5718.xml" target="_blank" class="footer_text3">Careers</a>
-                    <!-- <a href="http://news.morningstar.com/rss/rss.html" class="footer_text3">RSS</a> -->
+            </div>
+            <!-- END MVC views get injected here -->
+
+
+            <!-- START Site footer goes here -->
+            
+                
+                <!-- New Footer -->
+                <div class="footerwrap">
+                    <div class="footer_Links" style="border-top: 1px solid #A7AAAF;">
+                        <div class="footer_Links_row1">
+                            <a href="/About/PremiumMembership" class="footer_text3">Premium Pricing</a> 
+                            <a href="/About/Help" class="footer_text3">Help</a>
+                            <a href="/About/Advertise" class="footer_text3">Advertising Opportunities</a> 
+                            <a href="http://www.morningstaradviser.com.au/productpages/essentials.asp" class="footer_text3">Licensing Opportunities</a> 
+                            <a href="http://www.morningstar.com.au/s/documents/Glossary_morningstar.pdf" target="_blank" class="f_text3">Glossary</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="/About/Fsg" class="footer_text3">FSG</a> 
+                            <a href="/About/Contact" class="footer_text3">Contact Us</a>
+                            <a href="http://corporate.morningstar.com/au/asp/subject.aspx?xmlfile=5718.xml" target="_blank" class="footer_text3">Careers</a>
+                            <!-- <a href="http://news.morningstar.com/rss/rss.html" class="footer_text3">RSS</a> -->
+                        </div>
+                    </div>
+                    <div class="footer_Sites">
+                        <div class="footer_Sites_row1">
+                            International Sites: 
+                            <a href="http://www.morningstar.com" target="_blank" class="footer_text4">United States</a> 
+                            <a href="http://www.morningstar.ca/" target="_blank" class="footer_text4">Canada</a> 
+                            <a href="http://www.cn.morningstar.com/main/default.aspx" target="_blank" class="footer_text4">China</a> 
+                            <a href="http://www.morningstar.fr/" target="_blank" class="footer_text4">France</a> 
+                            <a href="http://www.morningstarfonds.de/de/default.aspx?lang=de-DE" target="_blank" class="footer_text4">Germany</a> 
+                            <a href="http://www.hk.morningstar.com/" target="_blank" class="footer_text4">Hong Kong</a> 
+                            <a href="http://www.morningstar.it/it/default.aspx?lang=it-IT" target="_blank" class="footer_text4">Italy</a> 
+                            <a href="http://www.morningstar.nl/nl/default.aspx?lang=nl-NL" target="_blank" class="footer_text4">The Netherlands</a>
+                            <a href="http://www.morningstar.no/" target="_blank" class="footer_text4">Norway</a>
+                            <a href="http://www.morningstar.es/es/default.aspx?lang=es-ES" target="_blank" class="footer_text4">Spain</a> 
+                            <a href="http://www.morningstar.co.uk/uk/default.aspx" target="_blank" class="footer_text4">U.K.</a>
+                        </div>
+                    </div>
+                    <div class="footer_Copyright">
+                        <div class="footer_Copyright_row1">
+                            © Copyright
+                            2012
+                            Morningstar, Inc. All rights reserved. Please read our <a class="f_text4" href="/About/Terms" rel="nofollow"><u>Terms of Use</u></a>
+                            and <a class="f_text4" target="_blank" href="/About/Privacy" rel="nofollow"><u>Privacy Policy.</u></a></div>
+                    </div>
                 </div>
-            </div>
-            <div class="footer_Sites">
-                <div class="footer_Sites_row1">
-                    International Sites: 
-                    <a href="http://www.morningstar.com" target="_blank" class="footer_text4">United States</a> 
-                    <a href="http://www.morningstar.ca/" target="_blank" class="footer_text4">Canada</a> 
-                    <a href="http://www.cn.morningstar.com/main/default.aspx" target="_blank" class="footer_text4">China</a> 
-                    <a href="http://www.morningstar.fr/" target="_blank" class="footer_text4">France</a> 
-                    <a href="http://www.morningstarfonds.de/de/default.aspx?lang=de-DE" target="_blank" class="footer_text4">Germany</a> 
-                    <a href="http://www.hk.morningstar.com/" target="_blank" class="footer_text4">Hong Kong</a> 
-                    <a href="http://www.morningstar.it/it/default.aspx?lang=it-IT" target="_blank" class="footer_text4">Italy</a> 
-                    <a href="http://www.morningstar.nl/nl/default.aspx?lang=nl-NL" target="_blank" class="footer_text4">The Netherlands</a>
-                    <a href="http://www.morningstar.no/" target="_blank" class="footer_text4">Norway</a>
-                    <a href="http://www.morningstar.es/es/default.aspx?lang=es-ES" target="_blank" class="footer_text4">Spain</a> 
-                    <a href="http://www.morningstar.co.uk/uk/default.aspx" target="_blank" class="footer_text4">U.K.</a>
-                </div>
-            </div>
-            <div class="footer_Copyright">
-                <div class="footer_Copyright_row1">
-                    © Copyright
-                    2011
-                    Morningstar, Inc. All rights reserved. Please read our <a class="f_text4" href="/About/Terms" rel="nofollow"><u>Terms of Use</u></a>
-                    and <a class="f_text4" target="_blank" href="http://www.morningstar.com.au/About/Privacy" rel="nofollow"><u>Privacy Policy.</u></a></div>
-            </div>
-        </div>
         
         <!-- /New Footer -->
 
-        <script src="/Content/scripts/TickerComplete.js" type="text/javascript"></script>
+   
+            
+            <!-- END Site footer goes here -->
+            
+        </div>
 
+        
+
+        <!--START Page wide javascript goes here -->
         <script src="/Content/scripts/AutoPriceAjax.js" type="text/javascript"></script>
+        <script src="/Content/scripts/TickerComplete.js" type="text/javascript"></script>
+        
+        <script type="text/javascript" language="javascript">
+            function setFocus() {
+                document.getElementById("ASXCode").focus();
+            }
+        </script>
+        <script type="text/javascript">
+            //for TickerComplete.js
+            var SiteRoot = "/NewPort";
+            var Morningstar1 = {src: '/Content/scripts/sifr/Morningstar1.swf'};
+            sIFR.activate(Morningstar1);
+            sIFR.replace(Morningstar1, {selector: 'h2.cpost-title',css: ['.sIFR-root { font-size: 18px; font-weight: bold; color: #000000; }'],wmode: 'transparent'});
+        </script>
+        <script type="text/javascript">
+            function ChartGen(swObjectPath, swWidth, swHeight, swBColor, path, pathSettingsFile, pathDataFile, divID) {
+                var so = new SWFObject(swObjectPath, "amline", swWidth, swHeight, "8", swBColor);
+                so.addVariable("path", path);
+                so.addVariable("settings_file", escape(pathSettingsFile));  // you can set two or more different settings files here (separated by commas)
+                so.addVariable("data_file", "/Content/scripts/amcharts/amline/" + pathDataFile);
+                so.addVariable("preloader_color", "#999999");
+                so.addParam("quality", "low");
+                so.write(divID);
+            }
 
+            function renderStockChart(width, height, settings, ticker, period, div) {
+
+                var so = new SWFObject("/Content/scripts/amcharts/amline/amline.swf", "amline", width, height, "8", "#FFFFFF");
+                so.addVariable("path", "/Content/scripts/amcharts/amline/");
+                so.addVariable("settings_file", escape(settings));
+                so.addVariable("additional_chart_settings", "http://www.morningstar.com.au/Chart/AdditionalChartSettings/" + ticker);
+                so.addVariable("data_file", escape("http://www.morningstar.com.au/Chart/PriceChartData/" + ticker + "/" + period));
+                so.addParam("quality", "low");
+                so.addParam("wmode", "opaque");
+                so.write(div);
+            }
+
+            function renderSectorValuationChart(width, height, settings, sector, div) {
+
+                var so = new SWFObject("/Content/scripts/amcharts/amline/amline.swf", "amline", width, height, "8", "#FFFFFF");
+                so.addVariable("path", "/Content/scripts/amcharts/amline/");
+                so.addVariable("settings_file", escape(settings));
+                so.addVariable("data_file", escape("http://www.morningstar.com.au/Chart/SectorValuationChartData/" + sector));
+                so.addParam("quality", "low");
+                so.addParam("wmode", "opaque");
+                so.write(div);
+            }
+
+            function renderCharts(options) {
+                var chart = new Highcharts.Chart(options);
+            }
+        </script>
+        
         <script type="text/javascript">
             $(document).ready(function() {
-                $('a[href*=video]').click(function() {
-                    window.open(this.href);
-                    return false;
-                });
-
                 $('a[href*=/pdf/]').click(function() {
                     window.open(this.href, null, 'location=0,status=0,titlebar=0');
                     return false;
@@ -792,9 +676,14 @@ imgArrowOff.src = "/Content/images/arrow_right.gif";
                     window.open(this.href, null, 'location=0, status=0,titlebar=0');
                     return false;
                 });
+                
+                $('a[href*=/Tutorials/]').click(function() {
+                    window.open(this.href, null, 'location=0,status=0,titlebar=0');
+                    return false;
+                });
             });
         </script>
-
+        
         <script type="text/javascript">
             function ShowInfo() {
                 $('#CCInfo').removeClass("hide");
@@ -824,40 +713,109 @@ imgArrowOff.src = "/Content/images/arrow_right.gif";
                 //document.write(document.cookie);
                 return false;
             }
-
         </script>
-
         <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+            var Browser = {
+                Version: function() {
+                    var version = 999; // we assume a sane browser
+                    if (navigator.appVersion.indexOf("MSIE") != -1)
+                    // bah, IE again, lets downgrade version number
+                        version = parseFloat(navigator.appVersion.split("MSIE")[1]);
+                    return version;
+                }
+            }
 
-        <script type="text/javascript">
-            var pageTracker = _gat._getTracker("UA-998046-2");
-            pageTracker._initData();
-            pageTracker._trackPageview();
+            if (Browser.Version() < 7) {
+                var exdate = new Date();
+                exdate.setDate(exdate.getDate() + 1);
+                if (document.cookie.length > 0) {
+                    c_found = document.cookie.indexOf("MorningstarIESixCookie=Yes");
+                    if (c_found == -1) {
+                        document.write("<div id='IESix' class='IEsix'>");
+                        document.write("<div style='float: left; position: relative; height: 100%;'>");
+                        document.write("<img style='float: left;' src='/Content/images/upgrade_IE6.gif' />");
+                        document.write("</div>");
+                        document.write("<div style='position: relative; margin: 10px 10px 0 20px; width: 550px; float: left; height: 100%;'>");
+                        document.write("<p style='margin-bottom: 12px; font-size: 15px;'><b>You need to upgrade your internet browser now.</b></p>");
+                        document.write("<p style='color: Red; margin-bottom: 12px;'><b>Continued use of Internet Explorer 6 poses a serious risk to your Internet Security</b></p>");
+                        document.write("<ul style='list-style-position: inside'>");
+                        document.write("<li>Microsoft no longer provides support for IE6</li>");
+                        document.write("<li>Upgrading to a newer browser is FREE</li>");
+                        document.write("<li>Upgrade NOW to one of the following:</li>");
+                        document.write("</ul>");
+                        document.write("<div style='margin-top: 40px;'>");
+                        document.write("<a href='http://www.microsoft.com/windows/internet-explorer/default.aspx'><img style='margin-right: 10px;' src='/Content/images/thumb_IE8-button.jpg' /></a>");
+                        document.write("<a href='http://www.mozilla.com/en-US/firefox/ie.html'><img style='margin-right: 10px;' src='/Content/images/thumb_Firefox-button.jpg' /></a>");
+                        document.write("<a href='http://www.apple.com/safari/'><img style='margin-right: 10px;' src='/Content/images/thumb_Safari-button.jpg' /></a>");
+                        document.write("<a href='http://www.google.com/chrome'><img style='margin-right: 10px;' src='/Content/images/thumb_Chrome-button.jpg' /></a>");
+                        document.write("</div>");
+                        document.write("</div>");
+                        document.write("<div style='float: left; position: relative; width: 120px; margin-top: 170px;'>");
+                        document.write("<input class='CloseIEsix' type='button' value='Close this warning' onclick='return CloseIE6Msg_WriteCookie()'  />");
+                        document.write("</div>");
+                        document.write("</div>");
+                    }
+                    else {
+                    }
+                }
+            }
+            else {
+            }
+            function CloseIE6Msg_WriteCookie() {
+                if (document.cookie.length > 0) {
+                    document.getElementById("IESix").className = "hide";
+                    cookie_name = "MorningstarIESixCookie=Yes";
+                    if (document.cookie != document.cookie) {
+                        index = document.cookie.indexOf(cookie_name);
+                    }
+                    else {
+                        index = -1;
+                    }
+                    if (index == -1) {
+                        var exdate = new Date();
+                        exdate.setDate(exdate.getDate() + 7);
+                        document.cookie = cookie_name + ";expires=" + exdate.toGMTString();
+                    }
+                }
+                return false;
+            }
         </script>
+        <!--END Page wide javascript goes here -->
 
+
+
+        <!-- START TRACKING Site scripts -->
+            <!-- START Google -->
+                <script type="text/javascript">
+                    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+                    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+                </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+                <script type="text/javascript">
+                    var pageTracker = _gat._getTracker("UA-998046-2");
+                    pageTracker._initData();
+                    pageTracker._trackPageview();
+                </script>
+            <!-- END Google -->
+  
+            <!--To enable the ABA Web Audit, add the following tracking tag to the bottom of every page, just before the </body> tag. Do not modify the tag without ABA approval. For any technical enquiries, contact Alexx Cass, ABA Digital Services Manager | E: alexx.cass@auditbureau.org.au | P: +61 02 8912 6009. -->
+            <!-- START Nielsen Online SiteCensus V6.0 --><!-- COPYRIGHT 2009 Nielsen Online -->
+            <script src="//secure-au.imrworldwide.com/v60.js"></script>
+            <script type="text/javascript">
+             var pvar = { cid: "auditbc-au", content: "0", server: "secure-au" };
+             var trac = nol_t(pvar);
+             trac.record().post();
+            </script>
+            <noscript>
+             <div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=auditbc-au&cg=0&cc=1&ts=noscript" width="1" height="1" alt=""/></div>
+            </noscript>
+            <!-- END Nielsen Online SiteCensus V6.0 -->
+        <!-- END TRACKING Site scripts -->
+        
+        
         <!-- Morningstar Build -->
-        <!--
-			MORNINGSTARAUWEBSITE-QA-887 (Revision: ${custom.svn.revision.number})
-		-->
-    </div>
-    <input name="ASXCode_hdn2" type="hidden" id="ASXCode_hdn2">
-    <!-- START Nielsen Online SiteCensus V5.3 -->
-    <!-- COPYRIGHT 2009 Nielsen Online -->
-
-    <script type="text/javascript">
-        var _rsCI = "auditbc-au"; var _rsCG = "0"; var _rsDN = "//secure-au.imrworldwide.com/"; var _rsPLfl = 0;</script>
-
-    <script type="text/javascript" src="//secure-au.imrworldwide.com/v53.js"></script>
-
-    <noscript>
-        <div>
-            <img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=auditbc-au&amp;cg=0&amp;cc=1"
-                alt="" /></div>
-    </noscript>
+        <!-- MORNINGSTARAUWEBSITE-QA-942 (Revision: ${custom.svn.revision.number}) -->
+        
+        
     
-
 
 </body></html>
