@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214207id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625071537id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
 
 # Violinist.com privacy policy
 
@@ -25,15 +25,15 @@ Information collected by Violinist.com becomes the property of Violinist.com, an
 ## [News and Interviews](http://www.violinist.com/interviews/)
 
 [ **Laurie Niles**](http://www.violinist.com/blog/laurie/)  
-Violinist.com's editor writes about all things violin in her blog, which includes a weekly news update.
+Violinist.com's editor is a professional symphony violinist and former newspaper journalist who interviews top violin performers and pedagogues, as well as reports on her experience in violin music and education.
 
-[ **Simon Fischer**](http://www.violinist.com/blog/laurie/201112/12945/) talks about his new exercise book, "Warming Up," for strengthening the hands and improving their abilities.
+[**Tai Murray**](http://www.violinist.com/blog/laurie/20125/13578/) calls Eugène Ysaÿe's Six Sonatas for Solo violin "an opus of love and expression" -- written from the composer's love for Bach, for his friends, and for the violin itself.
 
-[ **Katia Popov**](http://www.violinist.com/blog/laurie/201112/12942/) talks about what makes Hollywood special and about why she loves playing music for the movies.
+[**Nadja Salerno-Sonnenberg**](http://www.violinist.com/blog/laurie/20125/13503/) talks about the new DVD, On Our Way, which celebrates her four-year partnership with the San Francisco-based New Century Chamber Orchestra.
 
-[ **Mikhail Simonyan**](http://www.violinist.com/blog/laurie/201111/12890/) talks with Laurie about his recording of the Khachaturian and Barber concertos.
+[**Philippe Quint**](http://www.violinist.com/blog/laurie/20124/13451/) talks about recording Bruch, Mendelssohn and Beethoven in Mexico.
 
-More [Violinist.com Interviews](http://www.violinist.com/interviews/) with Philippe Quint, Nadja Salerno-Sonnenberg, Joshua Bell, and others.
+More [Violinist.com Interviews](http://www.violinist.com/interviews/) with Hilary Hahn, Nadja Salerno-Sonnenberg, Joshua Bell, and others.
 
 Plus: [The Weekend Vote](http://www.violinist.com/blog/weekendvote/)
 
@@ -41,17 +41,13 @@ Plus: [The Weekend Vote](http://www.violinist.com/blog/weekendvote/)
 
 The following sponsors have provided financial support to the Violinist.com community, making the publication of this website possible. We hope that you will consider these sponsors first whenever you are making decisions about music-related purchases or investments.
 
-[\- Kennedy Violins](http://goo.gl/feKcc)  
-[\- Shar Music](http://goo.gl/PABAZ)  
+[\- Shar Music](http://goo.gl/lccyV)  
 [\- Corilon Violins](http://goo.gl/PXDMS)  
+[\- Kennedy Violins](http://goo.gl/BhcPS)  
 [\- Stradpet Violin Neckguard](http://goo.gl/HbTbq)  
-[\- Magic Rosin](http://goo.gl/JkHUa)  
+[\- Thomastik-Infeld](http://goo.gl/ctJVY)  
+[\- Anderson Group Instrument Insurance](http://goo.gl/Dq7Ep)  
 [\- Southwest Strings](http://goo.gl/nSt8n)  
-[\- Baroque Bling](http://goo.gl/uUd6T)  
-[\- Meadowmount School of Music](http://goo.gl/PgM6J)  
-[\- Second International Violin Competition Buenos Aires](http://goo.gl/FtltI)  
-[\- Virtual Sheet Music](http://goo.gl/V0TSf)  
-[\- Warchal](http://goo.gl/So7mn)  
 [\- Snow Violin](http://goo.gl/TuPPP)  
 [\- Charles L. Johnston](http://goo.gl/j8Yth)  
 [\- A. Cavallo Violins](http://goo.gl/k0Psk)  
@@ -59,13 +55,14 @@ The following sponsors have provided financial support to the Violinist.com comm
 [\- Dimitri Musafia](http://goo.gl/T9X9C)  
 [\- Electric Violin Shop](http://goo.gl/s2q4A)  
 [\- Frustrated Accompanist](http://goo.gl/X1BGv)  
-[\- J.R. Judd Violins](http://goo.gl/f4QzD)  
+[\- Long Island Violin Shop](http://goo.gl/DbGBg)  
 [\- Old Town Music](http://goo.gl/haLkp)  
 [\- The Potter Violin Company](http://goo.gl/gUwnk)  
 [\- Reuning & Son Violin](http://goo.gl/pf0n3)  
 [\- Stradivari Model](http://goo.gl/WDtXL)  
 [\- Things 4 Strings](http://goo.gl/paoSR)  
 [\- The Violin Case](http://goo.gl/YUweP)  
+[\- Violin-Strings.com](http://goo.gl/msbvT)  
 [\- Wangbow Violin Bow Workshop](http://goo.gl/lUB5v)
 
 [**Please consider supporting Violinist.com by becoming a sponsor**](http://www.violinist.com/advertising/)
