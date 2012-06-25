@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backcountryedge.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225212301id_/http%3A//www.backcountryedge.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backcountryedge.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626015607id_/http%3A//www.backcountryedge.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Backcountry Edge Privacy Policy
 
@@ -32,7 +32,19 @@ We reserve the right to disclose your personally identifiable information as req
 
 #### Choice/Opt-out 
 
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes.  If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication. 
+We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following one of the methods outlined below: 
+
+1\. Follow the simple unsubscribe instructions included in each newsletter or communication.   
+2\. Email your opt-out request to [privacy@backcountryedge.com](mailto:privacy@backcountryedge.com)  
+3\. Mail your opt-out request to:
+
+Backcountry Edge  
+708 Ditz Drive  
+Manheim, PA 17545
+
+4\. Call our Customer Service department toll-free at 1-800-617-0643, 9AM-5:30PM EST, Monday through Friday.
+
+Please note that even if you opt out, you may still receive non-promotional emails, such as emails about your purchases, your Inside Edge account and membership, or general information about our business relationship with you.
 
 #### Log Files 
 
