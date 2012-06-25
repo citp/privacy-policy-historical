@@ -1,46 +1,88 @@
-> *The following text is extracted and transformed from the gatwickairport.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124235404id_/http%3A//www.gatwickairport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatwickairport.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625113404id_/http%3A//www.gatwickairport.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gatwick Airport
 
-**Last updated March 2010**
+**Last updated May 2012**
 
 **Please read carefully**
 
-**1\. Introduction**  
-Gatwick Airport Limited (GAL) takes its obligations with regard to your personal information seriously. This Privacy policy sets out the ways GAL handles your personal information collected via our websites (our “Websites") and through your participation and contribution in GAL related activities. GAL is registered as a data controller under the Data Protection Act. Any personal information collected by GAL is handled in accordance with applicable data protection legislation.
+### 1\. Introduction
 
-**2\. The information we collect about you and the way we use it**  
-You may be asked to give us personal details when purchasing, registering or subscribing to a Gatwick Airport service or product, taking part in customer research and surveys, service or product trials, entering competitions or providing feedback on various issues relating to GAL. If you give us your personal details we will inform you of the uses we make of that information at the time we collect it from you. 
+Gatwick Airport Limited (GAL) takes its obligations with regard to your personal information seriously. This privacy & cookie policy sets out the ways GAL handles your personal information collected via our websites (our “Websites") and through your participation and contribution in GAL related activities. GAL is registered as a data controller under the Data Protection Act. Any personal information collected by GAL is handled in accordance with applicable data protection legislation.
 
-If you are giving us your personal details in the course of purchasing, registering or subscribing for a service, then we will of course use it in order to provide you with that service. We will use your information to communicate with you and to personalise our service. We may contact you by post, email, or telephone (including mobile SMS). 
+### 2\. The information we collect about you and the way we use it
 
-We may use your information to send you offers and news about our airport services or products or those of other carefully selected companies which we think may be of interest to you. Your confirmation emails (which may include details of bookings, airport services, product registration or subscription made through our Websites) may also include marketing material which we think may be of interest to you. We do our best to tailor this information so that it will be useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication. 
+You may be asked to give us personal details when purchasing, registering or subscribing to a Gatwick Airport service or product, taking part in customer research and surveys, service or product trials, entering competitions or providing feedback on various issues relating to GAL. If you give us your personal details we will inform you of the uses we make of that information at the time we collect it from you.
 
-Your data may be used for the following purposes: accounting, billing and audit, credit or other payment card verification and screening, immigration and customs control, safety and security, administrative and legal purposes, statistical and marketing analysis with a view to improving our products and services, the Websites and the user experience, systems testing, maintenance  and development, customer research and surveys,  customer relations and to help us in future dealings with you. If we use your information for the purposes of statistical or marketing analysis, your information will be made anonymous so you cannot be personally identified from it. 
+If you are giving us your personal details in the course of purchasing, registering or subscribing for a service, then we will of course use it in order to provide you with that service. We will use your information to communicate with you and to personalise our service. We may contact you by post, email, or telephone (including mobile SMS).
 
-We may disclose your personal information to others where we are required or permitted to do so by law, or if you send us any material that is unlawful, offensive, abusive, threatening, defamatory, obscene, discriminatory or infringes the rights of anyone else, in order to prevent you from continuing to do so.  
-If you are under 16 you must obtain consent from a parent or guardian before providing us with any personal information. 
+We may use your information to send you offers and news about our airport services or products or those of other carefully selected companies which we think may be of interest to you. Your confirmation emails (which may include details of bookings, airport services, product registration or subscription made through our Websites) may also include marketing material which we think may be of interest to you. We do our best to tailor this information so that it will be useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
 
-All personal information is held in a secure environment. All personal data that GAL collects is used in accordance with the Data Protection Act 1998. 
+Your data may be used for the following purposes: accounting, billing and audit, credit or other payment card verification and screening, immigration and customs control, safety and security, administrative and legal purposes, statistical and marketing analysis with a view to improving our products and services, the Websites and the user experience, systems testing, maintenance  and development, customer research and surveys,  customer relations and to help us in future dealings with you. If we use your information for the purposes of statistical or marketing analysis, your information will be made anonymous so you cannot be personally identified from it.
+
+We may disclose your personal information to others where we are required or permitted to do so by law, or if you send us any material that is unlawful, offensive, abusive, threatening, defamatory, obscene, discriminatory or infringes the rights of anyone else, in order to prevent you from continuing to do so. If you are under 16 you must obtain consent from a parent or guardian before providing us with any personal information.
+
+All personal information is held in a secure environment. All personal data that GAL collects is used in accordance with the Data Protection Act 1998.
 
 GAL may use third party processors to handle personal data collected, these processors may be located in the UK or abroad. When using processors, we ensure that appropriate contractual safeguards, as dictated by the Data Protection Act 1998, are put in place.
 
-**3\. Cookies**  
-Gatwick Airport Limited collects information about your use of the Websites from cookies. 
+### 3\. Cookies
 
-When you enter the Websites your computer will automatically be issued with a cookie. A cookie is a small text file that identifies your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. 
+Gatwick Airport Limited collects information about your use of the Websites from cookies.
 
-GAL cookies record those areas of the Websites that have been visited by your computer, for how long and what activity was undertaken on the Website. We do this so as to understand which are the most popular parts of the Websites, and also to improve your experience. For example, cookies that we use ensure that some promotional items, such as pop-ups and overlays, do not appear too many times on the same visit to the Website. 
+When you enter the Websites your computer will automatically be issued with a cookie. A cookie is a small text file that identifies your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. If you do not know what cookies are or how to control them, we recommend you visit [http://www.aboutcookies.org](http://aboutcookies.org/) for detailed guidance. 
 
-In addition, we would also like to make you aware that, although external to GAL, third party cookies are served on the Websites and can be used to track internet activity after a user has left the Website. Third party cookies usually have a long lifetime as they are ‘harvested’ and ‘refreshed’ whenever a user visits a page where the same or a similar cookie is being used. 
+GAL cookies record those areas of the Websites that have been visited by your computer, for how long and what activity was undertaken on the Website. We do this so as to understand which are the most popular parts of the Websites, and also to improve your experience. For example, cookies that we use ensure that some promotional items, such as pop-ups and overlays, do not appear too many times on the same visit to the Website.
 
-You are not obliged to accept cookies. You have the opportunity to set your computer either to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that your experience of using the Websites may be impaired as we will be unable to personalise aspects of your use of the Websites. 
+In addition, we would also like to make you aware that, although external to GAL, third party cookies are served on the Websites and can be used to track internet activity after a user has left the Website. Third party cookies usually have a long lifetime as they are ‘harvested’ and ‘refreshed’ whenever a user visits a page where the same or a similar cookie is being used.
 
-**4\. Your rights under the Data Protection Act**  
-Under the Data Protection Act, you have the right to ask us what information we hold about you, the source of that information, and the uses to which it has been put. Such a request must be in writing and should be directed to the address below. 
+You are not obliged to accept cookies. You have the opportunity to set your computer either to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that your experience of using the Websites may be impaired as we will be unable to personalise aspects of your use of the Websites.
 
-**5\. Contact us**  
-If you would like to update your information, modify your communication preferences, or if you do not want to receive marketing communications from GAL in the future, you can contact: 
+**Session Cookies**
+
+We use a  **session cookie**  to remember your log-in for you and what you’ve put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionalities on the site will be broken. More information on session cookies and what they are used for at <http://www.allaboutcookies.org/cookies/session-cookies-used-for.html>
+
+**Persistent Cookies for Site Analytics and Performance**
+
+****DoubleClick (Google)****  – this cookie is specific to the display advertising on Gatwick’s website. User data is anonymous. You can find out more generally about Google and its policies and principles as regards advertising at [http://www.google.com/policies/privacy/ads](http://www.google.com/policies/privacy/ads/)
+
+**Google Analytics**  – we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>
+
+**TagMan**  – this allows us to deploy different versions of our site to test (A/B Testing). User data is all anonymous. You can find out more about TagMan on their site at [http://www.tagman.com](http://www.tagman.com/)
+
+**Affiliate Window** – Allows us to track affiliate advertisers and purchases. You can find out more about Affiliate Window on their site at [http://www.affilaite window.com](http://www.affilaite%20window.com/)
+
+**AddThis** \- the service that runs some of our social sharing buttons. You can find out more about AddThis on their site at  [http://www.addthis.com](http://www.addthis.com/)  
+
+
+**Our own ad serving and management cookies**
+
+We sell space on our website to advertisers. As part of this, we use several services to help us and advertisers understand what adverts you might be interested in. These cookies hold information about the computer - they don't hold personal information about you (ie it's not linked to you as an individual). But they might hold a record of what other websites you've looked at - so we could show you a car advert if you've previously visited a motoring website.
+
+These are the services we use and how you can control those cookies. Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests.
+
+  * Doubleclick (advertising): Privacy policy at  <http://www.google.com/doubleclick/privacy/> and opt out via[ http://www.youronlinechoices.com/uk/](http://www.youronlinechoices.com/uk/)
+
+
+  * Rubicon (ad partner): Privacy policy at <http://www.rubiconproject.com/privacy-policy/> and opt out at<http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out>
+
+
+
+**Other ad management cookies**
+
+Advertisements on the Website are provided by other organisations. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Website and other websites. In order to do this, our advertising partner may need to place a cookie on your computer. These cookies hold information about the computer - they don't hold personal information about you (ie it's not linked to you as an individual).
+
+For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit <http://www.youronlinechoices.com/uk/>
+
+Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests. By entering our website and using it you are consenting to the use of cookies. However you are not obliged to accept cookies. If you do not however, this may mean that your experience of using the Websites may be impaired as we will be unable to personalise aspects of your use of the Websites.
+
+### 4\. Your rights under the Data Protection Act
+
+Under the Data Protection Act, you have the right to ask us what information we hold about you, the source of that information, and the uses to which it has been put. Such a request must be in writing and should be directed to the address below.
+
+### 5\. Contact us
+
+If you would like to update your information, modify your communication preferences, or if you do not want to receive marketing communications from GAL in the future, you can contact:
 
 Data Protection Manager  
 Gatwick Airport Limited  
@@ -48,8 +90,10 @@ Gatwick Airport Limited
 Gatwick Airport  
 West Sussex RH6 0NP
 
-**6\. Links to third party websites**  
-This Privacy policy applies solely to the Websites and does not apply to any third party websites you may access from the Websites. 
+### 6\. Links to third party websites
 
-**7\. Updates to the Privacy policy**  
-GAL may amend this Privacy policy from time to time in order to meet change in the regulatory environment, business needs, or to satisfy the needs of our customers, properties, strategic marketing partners, and service providers. Updated versions will be posted to our Websites and date stamped so that you are aware of when the Privacy policy was last updated.
+This Privacy policy applies solely to the Websites and does not apply to any third party websites you may access from the Websites.
+
+### 7\. Updates to the privacy & cookie policy
+
+GAL may amend this privacy & cookie policy from time to time in order to meet change in the regulatory environment, business needs, or to satisfy the needs of our customers, properties, strategic marketing partners, and service providers. Updated versions will be posted to our Websites and date stamped so that you are aware of when the privacy & cookie policy was last updated.
