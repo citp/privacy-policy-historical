@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iress.com.au privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124113720id_/http%3A//www.iress.com.au/en/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iress.com.au privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625155432id_/http%3A//www.iress.com.au/en/Privacy_Policy.html) for the most accurate reproduction.*
 
 # IRESS - Privacy Policy
 
@@ -45,7 +45,7 @@ Business entity name and address data may be supplied to IRESS’ Data vendors t
 If you have any questions about this statement, or you believe that there has been a breach of this policy, contact: 
 
 **The Privacy Officer  
-**IRESS Market Technology Limited  
+**IRESS Limited  
 Level 18, 385 Bourke St, Melbourne, VIC, 3000  
 Phone: +61 3 9018 5800   
 Email: [corporate@iress.com](mailto:corporate@iress.com?subject=Privacy%20Policy%20Enquiry)
