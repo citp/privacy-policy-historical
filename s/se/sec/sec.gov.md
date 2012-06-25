@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sec.gov privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209230411id_/http%3A//www.sec.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sec.gov privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625234617id_/http%3A//www.sec.gov/privacy.htm) for the most accurate reproduction.*
 
 # SEC Web Site Privacy and Security Policy
 
@@ -22,7 +22,7 @@
 
   * Introduction
   * Information Collected and Stored Automatically
-  * Cookies Policy
+  * Website Measurement and Customization Technologies (e.g. Cookies) Policy
   * If You Send us Personal Information
   * E-Mail Policy
   * What are Your Rights under the Privacy Act of 1974?
@@ -60,11 +60,21 @@ If you choose not to provide us with personal information but merely browse our 
 
 This data is used in summary form for statistical purposes, to assess system performance, identify problems with agency systems, and to improve the site for users. In the event of computer security incidents, such data may be further refined manually to allow computer security specialists to identify Internet service providers and, in extreme cases, individuals attacking the agency. 
 
-## Cookies Policy
+## Website Measurement and Customization Technologies (e.g. Cookies) Policy
 
-When you visit some web sites, their web servers generate pieces of software known as “cookies.” A cookie is a file placed on your hard drive by a web site that allows the web site to monitor your use of that site, usually without your express knowledge.
+The SEC uses web measurement and customization technologies, commonly known as “cookies”, to collect information about users’ visits to our site. Use of these technologies makes our web site function better for you and allows us to better understand how the public is using the web site. Cookies are files placed on your hard drive by a web site that allows the web site to monitor your use of that site, usually without your express knowledge. 
 
-Some cookies collect personal information to recognize your computer in the future. That is not the case at the SEC’s web site, where we use only non-persistent cookies or "per-session cookies." These cookies do not collect personal information on users and they are not stored on your computer’s hard drive. They are stored only in memory during an active browser session, and they are erased as soon as you close your browser after visiting our web site 
+Some cookies collect personal information to recognize your computer in the future. That is not the case at the SEC’s web site, where we use only non-persistent cookies or "per-session cookies” also known as “Tier 1 web measurement and customization technologies”. These cookies do not collect personal information on users and they are not stored on your computer’s hard drive. They are stored only in memory during an active browser session, and they are erased as soon as you close your browser after visiting our web site. 
+
+The SEC uses a third-party analytics provider (currently Google Analytics) to analyze the data collected through the non-persistent cookies or per-session cookies. Google Analytics does not receive personally identifiable information through these cookies and does not combine, match, or cross-reference sec.gov information with any other information. . The data is automatically sent from a cookie on your machine or device to the provider’s system which immediately aggregates that data. The cookie and any data related to a particular visit to our web site are deleted from your computer immediately after the session ends. 
+
+The SEC uses the aggregated data for internal purposes and discloses to SEC employees and contractors who have a “need-to-know” in the performance of their official duties. 
+
+We employ safeguards to maintain the security, confidentiality, and integrity of the information we collect on our site. To view a listing of our Privacy Impact Assessments for our electronic systems and collections, including those utilizing web measurement and customization technologies please visit our privacy page at [ http://www.sec.gov/privacy.htm](https://web.archive.org/privacy.htm) . 
+
+You may opt out of having cookies installed on your machine or device by changing the setting of your browser to block them. For instructions on how to block cookies from common browsers and additional information please visit: [ http://www.usa.gov/optout_instructions.shtml](http://www.usa.gov/optout_instructions.shtml) . 
+
+If you chose to block these technologies you will continue to have access to comparable information and services on our web site.
 
 ## If You Send Us Personal Information
 
