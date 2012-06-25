@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the clickindia.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211115712id_/http%3A//www.clickindia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickindia.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625222559id_/http%3A//www.clickindia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[Home](https://web.archive.org/) » Privacy Policy
 
 This Privacy Policy sets out our practices with respect to the collection, use and disclosure of personal information in connection with www.ClickIndia.com (the Site). This Privacy Policy may be updated by us at any time by posting on the site without any prior notice. Also, this Privacy Statement may be supplemented or modified by agreements entered into between us and an individual from time to time. In this Privacy Statement, personal information means any information about an identifiable individual, including contact and demographic details, not including collective information or information regarding a group in summarized form.  
 
@@ -14,7 +12,7 @@ Demographic and profile data is also collected at the Site. We use this data to 
 Our online surveys ask visitors for contact information (such as email addresses) and demographic information (such as postal code, age, or income level). We use contact data from our surveys to send users information about our products and services. Users may opt-out of receiving future mailings (see the Opt-Out section below).  
 We may use customer information for additional purposes that may be identified at or before the time that the information is collected. We also use information from customers for accounting and transaction completion purposes.
 
-We use third-party advertising companies like google to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information, specifically for google, [click here](http://www.google.com/privacy_ads.html).
+We use third-party advertising companies like google to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information, specifically for google, [click here to read the ad serving policy](http://www.google.com/privacy_ads.html).
 
 Disclosure of Personal Information  
 We may disclose certain personal information as follows:  
@@ -50,17 +48,3 @@ Users of this Site may contact ClickIndia to modify or correct any of their pers
 Contact Us  
 If you have any questions about this Privacy Statement, our privacy practices in connection with this Site, or our collection, use, disclosure, or retention of your personal information in connection with this Site, please contact us at info [at] clickindia.com.  
 
-
-[**Post Your Ad Absolutely FREE!!**](https://web.archive.org/cimem/post_ad.php)
-
-**Post your Ad by Mobile!**  
-Follow these three simple steps:  
-**Step 1** : Type your Ad with details  
-**Step 2** : Specify your location  
-**Step 3** : SMS to **9999-699-799**  
-**e.g.:** Maruti Esteem 2004 for sale, metallic blue, new tyres, done 54,000 km, Preet Vihar, Delhi, sonu123@gmail.com
-
-**Customer Helpdesk**  
-Our customer service phone number is **9999-699-799**
-
-You may call us on this number **Monday - Friday : 10am to 6pm** and we would be glad to help you. 
