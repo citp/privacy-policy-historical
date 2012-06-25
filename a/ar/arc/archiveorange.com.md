@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the archiveorange.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206043845id_/http%3A//web.archiveorange.com/articles/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archiveorange.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625122146id_/http%3A//web.archiveorange.com/articles/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ArchiveOrange
 
 ### Archive Counter
 
-  * Archiving 3,849 active mailing lists, 7,784 total
-  * Received 18,477 messages yesterday
-  * Last time I counted, there were about 40,978,099 messages in the archive.
+  * Archiving 4,288 active mailing lists, 8,783 total
+  * Received 10,652 messages yesterday
+  * Last time I counted, there were about 47,761,194 messages in the archive.
 
 
 
-**Search archived messages**
+Search Archived Messages
 
 ## Summay
 
