@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227094129id_/http%3A//entertainment.ie/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625134714id_/http%3A//entertainment.ie/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy | Entertainment.ie Ireland
+# Privacy Policy | Entertainment.ie
+
+## **Privacy Policy**
 
 ####  Privacy statement for Entertainment.ie, a site owned and operated by Entertainment Media Networks Limited ('Entertainment.ie').
 
