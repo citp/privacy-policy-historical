@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adgear.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624213815id_/http%3A//adgear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgear.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625220522id_/http%3A//adgear.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# AdGear - Privacy Policy
 
 ## Advertising and Content Served through BLOOM Digital Platforms' AdGear Technology
 
@@ -26,4 +26,4 @@ On occasion, an advertiser may request that BLOOM Digital Platforms provides or 
 
 BLOOM Digital Platforms reserves the right to change, modify, add or remove portions of this policy at any time and without notice. We will make every effort to post any changes to this policy in this area so that you are aware of the information we collect, how it is used, and under what circumstances is disclosed. 
 
-Questions, comments, or concerns related to our privacy policy should be directed to our Customer Support at 877 277-7286. 
+Questions, comments, or concerns related to our privacy policy should be directed to our Customer Support at 1-866-611-9428 or privacy@adgear.com. 
