@@ -1,58 +1,31 @@
-> *The following text is extracted and transformed from the peopleschoice.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222321id_/http%3A//www.peopleschoice.com/pca/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleschoice.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625115936id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml) for the most accurate reproduction.*
 
-# People's Choice Awards Privacy Policy -
+# P&G Privacy Notice
 
-This statement applies to websites operated by or on behalf of P&G Productions, Inc. and/or its affiliates (Sycamore, we or us).
+This Privacy Notice applies to information, including personal information, collected about you by **P &G (The Procter & Gamble Company and its affiliated companies and subsidiaries)**
 
-### Personal Information
+  * We collect information about you from a variety of sources, including:
+  * Information we collect from you directly.
+  * Information we collect about you when you visit our site, use our services, or view our online advertisements.
+  * Information we collect about you from other sources, such as commercially available sources.
+  
 
-  * We collect information you choose to provide such as your email or postal address.
-  * We collect non-personal information such as browser type, operating system, and web pages visited to help manage our websites.
-  * We collect a screen name that will be used to identify you in public forums, should you choose to participate.
-  * We use cookies and other internet technologies to manage our website and e-mail programs. We do not use these technologies to collect or store personal information.
-  * We may obtain additional information about you, such as demographic information, from commercially available sources.
-
-
-
-[Click here](https://web.archive.org/web/20111231222321id_/http%3A//www.peopleschoice.com/pca/privacy2.jsp) for more information
-
-### Uses
-
-  * We use personal information to provide you information and samples you request, to give you a customized interactive experience, and to help us develop new products and services that meet your needs.
-  * We do not share your personal information with other marketers unless we have asked for and obtained your explicit consent. If you do not provide your consent, we will not share your information.
-  * We use personal information you provide only for purposes consistent with the reason you provided it.
-  * When we temporarily provide personal information to companies who perform services for us, such as to send you email or samples, we require those companies to protect the information in the same manner as Sycamore. These service companies cannot use your personal information for any other purpose than the reason you provided it to Sycamore.
+  * All the information we collect about you may be combined to help us tailor our communications to you and to develop world-class products and services.
 
 
 
-[Click here](https://web.archive.org/web/20111231222321id_/http%3A//www.peopleschoice.com/pca/privacy2.jsp) for more information
-
-### Your Rights & Choices
-
-  * You have the right to have a copy of the personal information you provide, and to correct or update your personal information.
-  * You may instruct Sycamore to remove any previous consent you provided to share your personal information with other companies.
-  * [Click here](https://web.archive.org/web/20111231222321id_/http%3A//www.peopleschoice.com/pca/privacy2.jsp#contact) to be linked to the correct address to use to obtain a copy of the personal information you provided.
-  * [Click here](http://show.custhelp.com/cgi-bin/show.cfg/php/enduser/std_alp.php?p_pv=1.634&p_prods=634&prod_lvl1=634) to submit a privacy-related question or comment.
-
-
-
-### Important Information
-
-  * Sycamore is committed to working with consumers to obtain a fair resolution of any complaint or concern about privacy.
-  * Sycamore complies with country data protection laws.
-  * We cooperate with country data protection authorities if they believe a privacy problem has occurred.
+  * We use the information we collect to provide the products and services you request, to tell you about other products and services offered by P&G, and to manage our sites and services.
+  * In general, we do not share your personal information with third-party marketers, unless we have asked for and obtained your explicit consent.
+  * We may share your information:
+  * With our third-party service suppliers, including those who work on behalf of P&G and our business partners to send you joint communications that we hope you find of interest.
+  * If a P&G brand is sold to another company.
+  * To protect and defend the right and property of P&G (including enforcing our Terms and Conditions).
+  * When required by law, and / or public authorities.
 
 
 
-### How to Contact Us
-
-To contact us with a question, [click here](http://show.custhelp.com/cgi-bin/show.cfg/php/enduser/std_alp.php?p_pv=1.634&p_prods=634&prod_lvl1=634) to contact us on-line or write to us at:
-
-TeleNext Media, Inc.  
-Attn: People's Choice Awards  
-Worldwide Plaza  
-1675 Broadway, 8th floor  
-New York, New York 10019  
+  * We give you choices about how we communicate with you.
+  * You can stop receiving promotional email or postal communications from a particular P&G brand or program through this Privacy Notice. Please [click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to complete your request.
+  * [Click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to access and update the contact information you provided P&G.
 
 
-To read our full Online Privacy Statement [click here](https://web.archive.org/web/20111231222321id_/http%3A//www.peopleschoice.com/pca/privacy2.jsp)
