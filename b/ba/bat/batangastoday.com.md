@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batangastoday.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225220559id_/http%3A//www.batangastoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batangastoday.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625060441id_/http%3A//www.batangastoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Batangas Today: Privacy Policy
 
@@ -25,7 +25,7 @@ This Web site contains links to other sites. Please be aware that **Batangas Tod
 
 ## Advertisers
 
-**Batangas Today** uses outside ad companies to display ads on this site. These ads may contain cookies and are collected by the ad companies, and we do not have access to these information. We work with the ad companies: Google Adsense and Infolinks. Please check their websites for respective privacy policies.
+ **Batangas Today** uses outside ad companies to display ads on this site. These ads may contain cookies and are collected by the ad companies, and we do not have access to these information. We work with the ad companies: Google Adsense, Chitika, Amazon and Infolinks. Please check their websites for respective privacy policies.
 
 ## Contact Information
 
