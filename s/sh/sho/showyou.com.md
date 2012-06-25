@@ -1,102 +1,66 @@
-> *The following text is extracted and transformed from the showyou.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519005707id_/http%3A//vodpod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showyou.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626002427id_/http%3A//showyou.com/privacy) for the most accurate reproduction.*
 
-# Vodpod: Privacy
+# Showyou: Watch videos from your friends
 
-Principles of the Vodpod Privacy Policy  
+This Privacy Policy describes what information we collect from you and how we use it (or, in some cases, intend to use it). 
 
+Showyou receives your information when you sign up for and create an account on one of our iOS apps (iPad, iPhone, or iPod Touch) or our Kindle Fire app, as well as when you use our application. For example, you send us information when you use Showyou to share videos, watch videos, or comment on videos. 
 
-  * We don't ask you for personal information unless we truly need it.   
+By voluntarily using Showyou and creating an account with your service, you consent to the various uses of your information as described in this Privacy Policy. 
 
-  * We don't share your personal information with anyone except to comply with the law, to provide a service you have requested, or to protect our rights.
-  * We don't store personal information on our servers unless required for the on-going operation of one of our services.   
+If you have any questions or comments about this Privacy Policy, please contact us at feedback@showyou.com. 
 
+## Information Collection and Use
 
+**Why We Collect Information from You:** We collect the information set out below for two main reasons: (1) to make the Showyou application work for you as designed, primarily by bringing in videos shared by your friends and other contacts on social networks you use and making it easy to share videos you like on those social networks; and (2) to enable us to make money, primarily by making sure the advertisements distributed through Showyou are properly targeted, and best match your tastes and interests. 
 
+**Information Collected Upon Registration:** When you create a Showyou account, or connect Showyou to outside services like Facebook, Twitter, or YouTube, you provide some personal information that helps us to make the Showyou application instantly responsive and customized to your tastes by bringing in videos from the social networks and video sites you use. 
 
-**_What This Privacy Policy Covers_**
+Facebook  
+If you register with Facebook, or later connect Showyou to Facebook, we ask and Facebook provides us with the following information which we store on our servers: your user ID; the link to your profile URL on Facebook; your thumbnail image and your name; any “about me” biography” you’ve entered on Facebook; your interests; and your location and birthday. Facebook also provides us with your access credentials and and “offline access” to your Facebook account so that we can find videos shared by your friends in your Facebook feed, and so that we can publish videos to your Facebook profile on your behalf when you share a video out to Facebook. 
 
-  * This privacy policy governs the use of the Vodpod web site at http://vodpod.com/ 
-  * It covers how Vodpod treats personal information -- that is, personally identifiable like your name, address, email address, or phone number. 
-  * Children under 13 are not permitted to use the Vodpod service, and so this privacy policy makes no provision for children's use of the site. 
+Twitter  
+If you register with Twitter, or later connect Showyou to Twitter, we ask and Twitter provides us with the following information which we store on our servers: your Twitter Id; your screen name and profile image; and your access credentials so we can post Tweets on your behalf and bring in videos shared by people you follow from your Twitter feed. 
 
+YouTube  
+If you connect Showyou to YouTube, we ask and YouTube provides us with access credentials that enable us to retrieve videos shared by people and organizations you follow (or are “subscribed to”) on YouTube. 
 
+Vimeo  
+If you connect Showyou to Vimeo, we ask and YouTube provides us with access credentials that enable us to retrieve videos shared by people and organizations you follow (or are “subscribed to”) on Vimeo. 
 
-**General Information**
+Tumblr  
+If you connect Showyou to Tumblr, we ask you for and store your username and password to enable us to retrieve videos shared by people and organizations you follow (or are “subscribed to”) on Tumblr. 
 
-  * Vodpod collects personal information when you register with Vodpod to use Vodpod services or to post content on Vodpod. 
-  * When you register, we ask for your email address. 
-  * Vodpod receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request in order to operate the Vodpod service.
-  * Vodpod uses Google Analytics to view aggregate statistics about the usage of the Vodpod service.  
+**Information from Your Address Book and Social Networks Used for Friend Finder:** When you register and create an account from the iPhone or iPad, you may opt-in to use the email addresses in your Address Book to determine if you have contacts already on Showyou, in order to help you connect with those contacts. We do not store any of this data. 
 
+If you have signed up using Facebook or Twitter, or connected Showyou to those services after signup, we also look up your contacts from those services to determine if friends or people you follow are already on Showyou. We do not store any of this data. 
 
+**Videos from Your Social Networks:** Once you’ve connected Showyou to these accounts, we bring in videos shared by your contacts on these services (i.e., by your friends on Facebook, or people you follow on Twitter) along with related comments or tweets, enabling you to see all of the videos shared on these social networks in one place. We store specific information about these videos in order to make them accessible to you via the Showyou app, and information in aggregate about these videos in order to make them accessible through Showyou search, our popular list. 
 
+When you share a video via one of the services you’ve connected to Showyou (for example, through a public tweet or public post on Facebook, or favorite a video on YouTube) it will be shared on your Showyou grid, and displayed to people who follow you on Showyou or who visit your Showyou grid. 
 
-**IP Addresses**
+**Email Address and Additional Information:** During registration, we ask for an email address. You may also provide us with additional information to make public, such as a short biography or a picture. We may use your contact information to send you information about our Services or to market to you. You can unsubscribe from these messages by following the instructions contained within the messages or the instructions on our web site. If you email us, we may keep your message, email address and contact information to respond to your request. 
 
-IP Addresses are automatically reported by your browser each time you view a web page.   
+**Commenting On and Sharing Videos:** When you use the Showyou app, you may interact with videos by sharing them on Showyou, commenting on them, or sharing them by email or to Twitter of Facebook. When you share a video within Showyou, or comment on a video, we store that information in order to display your comment publicly to other users on Showyou and to share the video on your Showyou grid. 
 
+**Log Data:** Our servers automatically record information ("Log Data") when you use the Showyou app. This Log Data may include information such as your IP address, device and application IDs, videos you watch or mark to watch later, and search terms. Other actions, such as interactions with our apps, website, and advertisements, may also be included in Log Data. If we haven’t already deleted the Log Data earlier, we will either delete it or remove any common account identifiers, such as your username, full IP address, or email address, after 18 months. 
 
-IP addresses may be used for various purposes, including: 
+**Cookies:** Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer's hard disk. Showyou may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. 
 
-  * To diagnose or service technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP. 
-  * To tailor advertising based on geographic area or other information derived from your IP address. Aggregate information derived from IP addresses may also be reported to advertisers. 
-  * To estimate the total number of users visiting Vodpod from specific geographical regions. 
-  * To make sure that people are not voting for themselves or friends during contests or promotions. 
+**Third Party Services:** Showyou uses services hosted by third parties to help us understand the use of our application, such as Google Analytics. These services may collect information sent by our applications or your browser in order to provide us with analytics and measurement services. 
 
+## Information Sharing and Disclosure
 
+**Your Consent:** We may share or disclose your information with your consent, such as when you use a third party web client or application to access your Showyou account. 
 
-**Cookies**
+**Service Providers:** We may engage certain trusted third parties to perform functions and provide services to us. We may share your personal information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to obligations mirroring the protections of this privacy policy. 
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
+**Law and Harm:** We may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Showyou's rights or property. 
 
-  * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. 
-  * If you reject all cookies, you will not be able to use Vodpod products or services that require you to "sign in," and you may not be able to take full advantage of the Vodpod service. 
-  * Vodpod uses its own cookies for a number of purposes, including to:  
-o Access your information when you "sign in".   
-o Keep track of preferences you specify while you are using Vodpod's services.  
-o Store credentials you may use to enable posting to other sites   
-o Estimate and report our total audience size and traffic.   
-o Conduct research to improve Vodpod's content and services. 
-  * Vodpod may let other companies (such as Google) that show advertisements on some of our pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to Vodpod's cookies. 
+**Business Transfers:** In the event that Showyou is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this privacy policy will apply to your information as transferred to the new entity. 
 
+**Non-Private or Non-Personal Information:** We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public Tweets or the number of users who clicked on a particular link (even if only one did). Changes to this Policy 
 
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at http://showyou.com/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you via e-mail to the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
 
-### **Information Sharing and Disclosure**
-
-  * Any personal information or video content that you voluntarily disclose online (on Pods and Pod message boards, in reviews and discusion areas, and within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the Vodpod Sites and other users can contact you through messages and comments. Any videos that you submit to the Vodpod Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.
-  * We do not use your email address or other personally identifiable information to send marketing messages unless you've opted in to receive such messages. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Vodpod Site changes, alerting you to messages from other vodpod members, or for customer service purposes).
-  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Vodpod Sites and to create new features, functionality, and services by storing, tracking, and analyzing user preferences and trends.
-  * When you post a comment or message, upload video, start a Pod, or engage in other public activities on the Vodpod service, your Vodpod ID or alias that you are posting under is visible to other users. 
-  * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.Vodpod does not rent or sell your personal information.
-  * Vodpod will not share personal information about you with other people or other companies without your consent except to provide products or services you've requested and in the following circumstances: 
-    * Vodpod may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas, warrants, court orders or legal process or to establish or exercise our legal rights or defend against legal claims; 
-  * It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person, violations of Vodpod's terms of use, or as otherwise permitted or required by law.We will transfer information about you if Vodpod is acquired by or merged with another company. In this event, Vodpod will notify you by email or by putting a prominent notice on the Vodpod web site before information about you is transferred and becomes subject to a different privacy policy. Vodpod may share demographic information with business partners, such as "53% of users who regularly user Vodpod chat are between 18 and 24" or the like. No personally identifiable information will ever be used without your permission (i.e. we will ask you for a quote or testimonial)
-  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
-  * Vodpod also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Vodpod believes, in good faith, is appropriate or necessary to enforce our Member Agreement, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Vodpod, our users or others.
-
-
-
-###  **Editing and Deleting Account Information**
-
-  * You can change your Vodpod member name and other account information, at any time. 
-  * We may send you certain communications relating to the Vodpod service, such as service announcements and administrative messages, that are considered part of your Vodpod account. 
-  * You can delete your Vodpod account at any time from your account page; however, please note that your identification, billing and contact information may remain in Vodpod's records for some period. 
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * Your Vodpod Account Information is password-protected. 
-  * In certain areas, Vodpod uses SSL-encryption to protect data transmissions. 
-
-
-
-Data Security and Change of Control
-
-Vodpod uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Vodpod and you do so at your own risk. Once we receive your transmission of information, Vodpod makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
-
-If Vodpod learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Vodpod may post a notice on the Vodpod Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using by sending us [feedback](https://web.archive.org/site/feedback).
-
-In the event that Vodpod is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
-
-## **Changes and updates to this Privacy Notice**
-
-This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the Vodpod Sites constitutes your agreement to this Privacy Notice and any future revisions.
-
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+Effective: March 1, 2012 
