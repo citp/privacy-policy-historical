@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefront.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226090609id_/http%3A//www.gamefront.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefront.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625153700id_/http%3A//www.gamefront.com/privacy) for the most accurate reproduction.*
 
 # GAMEFRONT MEDIA PRIVACY POLICY | GameFront
 
