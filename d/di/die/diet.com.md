@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001515id_/http%3A//www.diet.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625201941id_/http%3A//www.diet.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,6 +57,7 @@ Go back to the top
   
 Email Choice/Opt-out  
   
+We may use a user's email address to send news, tips or newsletters regarding our service.   
 Users who do not wish to receive Diet.com news, tips and newsletters may choose not to receive them by opting out using the "unsubscribe" link at the bottom of these communications or by heading to the Diet.com [Preference Center](https://web.archive.org/newsletter/preference_center.php) and adjusting your preferences.   
   
   
