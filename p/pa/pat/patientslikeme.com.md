@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209143828id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626014924id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy : PatientsLikeMe
+# Privacy
 
 [About Us](https://web.archive.org/about)
     [Our Team](https://web.archive.org/about/team)
@@ -23,7 +23,7 @@ Policies & Resources
     [FAQs and Screencasts](https://web.archive.org/help)
     [Contact Us](https://web.archive.org/about/contact)
 
-##  Effective Feb 21, 2011
+##  Effective Mar 5, 2012
 
 PatientsLikeMe ([www.patientslikeme.com](http://www.patientslikeme.com/)) (“Site”) is a sharing web site. Our goal is to provide a platform for patients who want to share their health information to create collective knowledge about disease, health, and treatments. We know our success in achieving this goal depends on a shared belief in our [Openness Philosophy](https://web.archive.org/about/openness). Being open about one’s health is not for everyone, and we strive, with full transparency, to outline the benefits and risks of being part of this sharing site, including those related to privacy.
 
@@ -35,7 +35,7 @@ We reserve the right to modify this policy at any time, and without prior notice
 
 ### Shared Data
 
-Some of the information that Members provide about themselves may be shared with the PatientsLikeMe community, Partners, and others (“Shared Data”). Examples of Shared Data that Members may submit at the Site, such as through their health profile (“My Profile”), may include:
+Some of the information that Members provide about themselves may be shared with the PatientsLikeMe community, Partners, and others (“Shared Data”). Examples of Shared Data that Members may submit at the Site, including through their health profile (“My Profile”), may include:
 
   * Biographical information, e.g. photograph, biography, gender, age, location (city, state and country), general notes;
   * Condition/disease information, e.g. diagnosis date, first symptom, family history;
@@ -43,14 +43,14 @@ Some of the information that Members provide about themselves may be shared with
   * Symptom information, e.g. severity, duration;
   * Primary and secondary outcome scores over time, e.g. ALSFRS-R, MSRS, PDRS, FVC, PFRS, Mood Map, Quality of Life, weight, InstantMe;
   * Laboratory results, e.g. CD-4 count, viral load, creatinine;
-  * Genetic information, e.g. information on individual genes and/or entire genetic scans
+  * Genetic information, e.g. information on individual genes and/or entire genetic scans;
   * Individual and aggregated survey responses;
-  * Information shared via free text fields, e.g. the forum, treatment evaluations, surveys, annotations, journals, adverse event reports; and
+  * Information shared via free text fields, e.g. the forum, treatment evaluations, surveys, annotations, journals, feeds, adverse event reports; and
   * Connections to other people on the Site, e.g. invited care team member, mentors, feeds, subscriptions.
 
 
 
-In the course of using the Site, Members may share information that could be used to reasonably identify them (“Personal Information”), including name, photograph, and email address. When a Member chooses to share Personal Information via a free text field (e.g. forum, treatment evaluations, annotations, journals, and adverse event reports) and photos, the information shall be treated as Shared Data.
+In the course of using the Site, Members may share information that could be used to reasonably identify them (“Personal Information”), including name, photograph, and email address. When a Member chooses to share Personal Information via a free text field (e.g. forum, treatment evaluations, annotations, journals, feeds and adverse event reports) and photos or images, the information shall be treated as Shared Data.
 
 ### Restricted Data
 
@@ -58,7 +58,7 @@ Some of the information that Members enter into certain fields when registering 
 
   * Name, as collected as part of registration or in a Member’s Account Information;
   * Email address, as collected and verified as part of registration or in a Member’s Account Information;
-  * Password, as collected as part of registration or in a Member’s Account Information.
+  * Password, as collected as part of registration or in a Member’s Account Information;
   * Mailing address, as collected via email, forms, or private message as part of Member programs such as t-shirt giveaways and PatientsLikeMeInMotion™;
   * Date of birth, as collected in My Profile; and
   * Private messages.
@@ -101,7 +101,7 @@ PatientsLikeMe may also periodically ask Members to complete short surveys about
 
 PatientsLikeMe may also report individual adverse event and drug safety information to the FDA, CDC, and/or other regulatory bodies (U.S. and international) as well as directly to pharmaceutical and biotechnology companies. PatientsLikeMe does not provide Restricted Data to such regulatory bodies, although we reserve the right to contact Members for follow-up at the request of agencies or Partners. The information PatientsLikeMe reports includes, but is not limited to, all of the information about the Member and/or free text or images on the forums or evaluations, which may include Shared Data. In addition, certain areas within our Site are provided with the support of Partners. These Partners may have adverse event reporting requirements that relate to regulated products that are used by Members of our community, and PatientsLikeMe assists such Partners with reporting adverse events to regulatory agencies.
 
-PatientsLikeMe, like most Internet communities, is a public forum, and Members acknowledge and accept that any information shared through free text or images might be connected to Members’ Shared Data (which may be shared with, sold to, or displayed for others). For example, if a Member puts his or her name (or other Personal Information) into a free text field like the biography, forum, or annotations, the Member should know this information may be included in what is shared with, displayed for, or sold to Partners.
+PatientsLikeMe, like most Internet communities, is a public forum, and Members acknowledge and accept that any information shared through free text or images might be connected to Members’ Shared Data (which may be shared with, sold to, or displayed for others). For example, if a Member puts his or her name (or other Personal Information) into a free text field like the biography, forum, journals or annotations, the Member should know this information may be included in what is shared with, displayed for, or sold to Partners.
 
 ### How Restricted Data is Used
 
@@ -109,9 +109,10 @@ Restricted Data is not automatically shared with, sold to, or displayed for othe
 
   * If a Member provides a date of birth, the Member’s current age will be viewable via My Profile;
   * If a Member registers with, or is switched to, an official doctor and research account, the Member’s full name and affiliation will be viewable via My Profile;
-  * If a Member chooses the Public privacy setting (see below), PatientsLikeMe and others may use public profiles in reports, conference presentations, media mentions, etc.
+  * If a Member chooses the Public privacy setting (see below), PatientsLikeMe and others may use public profiles in reports, conference presentations, media mentions, etc.;
   * If a Member agrees to participate in a media interview (as arranged by PatientsLikeMe), PatientsLikeMe will share the contact information the Member provides (i.e. name, email, telephone) with the reporter for the purpose of conducting an interview;
   * If a Member OPTS IN to a public registry (e.g. the [PatientsLikeMe ALS Public Registry](https://web.archive.org/registry)), PatientsLikeMe will display the Member’s name and some Shared Data and/or Restricted Data as part of this registry (which is viewable by anyone on the Internet);
+  * If a Member explicitly opts in to have their Restricted Data shared with a Partner, PatientsLikeMe will share the information as instructed by the Member (e.g. co-registration with a non-profit);
   * If a Member makes a request, PatientsLikeMe may use Restricted Data, including sharing the Member’s Restricted Data with software/service vendors, for the purpose of fulfilling the request. Examples include requesting to receive the company newsletter via email, requesting an email response from the PatientsLikeMe support team, and requesting a t-shirt be mailed to the Member’s residence.
 
 
@@ -120,7 +121,7 @@ Restricted Data is not automatically shared with, sold to, or displayed for othe
 
 There are two privacy levels a Member may choose for participation at PatientsLikeMe:
 
-  * **Visible:** Only PatientsLikeMe Members can see My Profile and user name, and can contact you through PatientsLikeMe.
+  * **Visible:** Only PatientsLikeMe Members can see My Profile and user name, and can contact you through PatientsLikeMe;
   * **Public:** Non-members and Members can see My Profile and user name, but only PatientsLikeMe Members can contact you through PatientsLikeMe.
 
 
@@ -163,11 +164,12 @@ Cambridge, MA 02141
 
 ### History of Updates/Changes to Terms and Conditions of Use:
 
+  * On Mar 5, 2012, this Privacy Policy was revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.
   * On Aug 25, 2011, the following section was added: “EU Safe Harbor”.
   * On Feb 21, 2011, this Privacy Policy was substantially revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.
   * On Nov 18, 2009, this Privacy Policy was substantially revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.
   * On Aug 7, 2007, this Privacy Policy was substantially revised and expanded to include additional patient consent language.
   * On Mar 26, 2007, this Privacy Policy was substantially revised.
-  * On Apr 10, 2006, the following clauses were added: “We will provide our partners with anonymized, aggregated community data with the goal of increasing involvement in disease research” and “except in incidents when you have given explicit permission, e.g. in the ALS Registry.”
+  * On Apr 10, 2006, the following clauses were added: “We will provide our Partners with anonymized, aggregated community data with the goal of increasing involvement in disease research” and “except in incidents when you have given explicit permission, e.g. in the ALS Registry.”
 
 
