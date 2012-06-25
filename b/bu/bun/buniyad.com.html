@@ -1,0 +1,588 @@
+<!--The following is the downloaded HTML source of the buniyad.com privacy policy that was archived on 2012-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625154813id_/http%3A//www.buniyad.com/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Buniyad Real State Services</title>
+<link rel="icon" type="image/jpg" href="images/favicon.ico">
+<link href="css/buniyad.css" rel="stylesheet" type="text/css">
+<!--Dropdown Menu Start Here-->        
+<link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/ddsmoothmenu.js"></script>
+<script type="text/javascript"> 
+	var v = 0;
+	function mover()
+	{
+		v = 1;
+		jQuery('#mylink').addClass('sel');
+	}
+	
+	function hideme()
+	{
+		jQuery('#mylink').removeClass('sel');
+	}
+	
+</script>
+<!--Dropdown Menu End Here-->
+ 
+<script type="text/javascript"> 
+	//Property Search
+	function propSearch()
+	{			
+		var category	= document.getElementById("property_category").value;
+		var type		= document.getElementById("property_type").value;
+		var city		= document.getElementById("sel_city").value;		
+		//var budget		= document.getElementById("sel_budget").value;
+		var bed			= document.getElementById("sel_bed").value;		
+		//var cat_text	= $("#property_category option:selected").text();
+		
+		//ajax call	
+		var data	= 'category=' + category + '&type=' + type + '&city=' + city + '&bed=' + bed;
+		
+		$.post("property_search_process.php", data,
+			 function(resdata) {		 				
+				$('#project_res_content').html(resdata);	 		 
+			 } 						 
+		);	
+	}
+	
+	
+	//specific page property
+	function resdential_project(pageNo)
+	{		
+		var category	= document.getElementById("property_category").value;
+		var type		= document.getElementById("property_type").value;
+		var city		= document.getElementById("sel_city").value;		
+		//var budget		= document.getElementById("sel_budget").value;
+		var bed			= document.getElementById("sel_bed").value;		
+		//var cat_text	= $("#property_category option:selected").text();
+		
+		//ajax call	
+		var data	= 'category=' + category + '&type=' + type + '&city=' + city + '&bed=' + bed + '&page_no=' + pageNo;
+		
+		//ajax call	
+		//var data	= 'page_no='+pageNo;
+		
+		$.post("property_search_process.php", data,
+		 function(resdata) {
+		   $('#project_res_content').html(resdata)
+		   commercial_project(pageNo);
+		 } 						 
+		);	
+	}	
+</script>
+ 
+<!--  Enquiry Form -->
+<script language="javascript" src="js/project/home_main2_js.js"></script>
+<script language="javascript" src="js/project/common_bnd.js"></script>
+<!--  End Enquiry Form -->
+ 
+<!--  News Letter -->
+<script language="javascript" src="js/project/right_main_js.js"></script>
+<!--  End News Letter -->
+ 
+<!-- Start Signin and Register Button -->
+<script type="text/javascript" src="js/jquery_float.js"></script>  
+<script type="text/javascript"> 
+floatingMenu.add('floatdiv',
+    {
+        targetBottom: 295,
+        prohibitXMovement: true,
+        snap: true
+    });	
+</script>
+<!-- End Signin and Register Button -->
+ 
+<script type="text/javascript"> 
+function updateClock() {	
+    var now = new Date(); // current date    
+    var hHour	= now.getHours();
+	var hmin	= now.getMinutes(); // again, you get the idea
+	var meridiem = "AM";
+	
+	if(hHour>12){
+		hHour	= hHour-12;
+		meridiem= "PM";
+	}
+	
+	if(hHour<10)
+		var nhour = "0"+hHour;
+	else
+		var nhour = hHour;
+		
+	if(hmin<10)
+		var nmin = "0"+hmin;
+	else
+		var nmin = hmin;
+	
+	document.getElementById('tHour').innerHTML		 = nhour;
+	document.getElementById('tMinute').innerHTML	 = nmin;
+	document.getElementById('tmeridian').innerHTML	 = meridiem;
+	
+    // call this function again in 1000ms
+    setTimeout(updateClock, 3000);
+}
+</script>
+<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen">
+	<script src="jsp/prototype.js" type="text/javascript"></script>
+	<script src="jsp/scriptaculous.js?load=effects,builder" type="text/javascript"></script>
+	<script src="jsp/lightbox.js" type="text/javascript"></script>
+    <!-- Start Signin and Register Button -->
+<script type="text/javascript" src="js/jquery_float.js"></script>  
+<script type="text/javascript">
+floatingMenu.add('floatdiv',
+{
+targetBottom: 148,
+prohibitXMovement: true,
+snap: true
+});	
+</script>
+<!-- End Signin and Register Button -->
+</head>
+<body class="innerPage">
+<!--<div class="box1" style="position:absolute; right:0; width:54px;">  
+<div id="floatdiv" class="box1" style="position:absolute; width:54px; height:232px;">
+<div class="register"><a href="#"><img src="images/register.jpg" alt="" border="0" /></a></div>
+<div class="signIn"><a href="#"><img src="images/signIn.jpg" alt="" border="0" /></a></div>     
+</div>  
+</div>	--><div class="buildingDiv">
+          <div id="wrapper"><!-- WRAPPER DIV start -->
+               
+<!-- HEADER BLOCK start -->
+<div id="header">
+	<div class="logo"><a href="http://www.buniyad.com">Buniyad - Real Estate Services</a></div>
+	<div style="float:left;margin-left:50px;"><a href="http://www.buniyad.com/nri-center.html"><img src="http://www.buniyad.com/images/nriquery.gif" border="0"></a></div>
+	<div class="headerRight">
+		 <form name="frm_top_search" id="frm_top_search" action="http://www.buniyad.com/project-search.html" method="post">
+		 <div class="search">
+			  <div class="textboxDiv">
+			 
+			  <input type="text" name="searchword" onfocus="if(this.value=='--Enter search text--') this.value='';" onblur="if(this.value=='') this.value='--Enter search text--';" value="--Enter search text--" class="textBox"></div>
+			  <div class="goDiv"><input type="submit" value="" class="submitBtn"></div>
+		 </div>
+		 
+		   </form>
+			 <div class="clockDiv">		 
+			  <div class="time" id="tHour">06</div>
+			  <div class="minute" id="tMinute">24</div>
+			  <div class="meridian" id="tmeridian">PM</div>
+			  <div class="ist">IST</div>
+			  <div class="dayMonthDate">Mon, Jun 25</div>
+		 </div>
+		 	
+		 <ul class="topLinks">
+			  <li class="first"><a href="http://www.buniyad.com">Home</a></li>
+			  <li>|</li>
+			  <li><a href="http://www.buniyad.com/faq.html">FAQs</a></li>
+			  <li>|</li>
+			  <li><a href="http://www.buniyadgroup.wordpress.coml">Blog</a></li>
+			  <li>|</li>			  
+			  <li><a href="http://www.buniyad.com/careers.html">Careers</a></li>
+			  <li>|</li>
+			  <li class="last"><a href="http://www.buniyad.com/contact.html">Contact us</a></li>
+		 </ul>
+	</div>
+</div><!--HEADER BLOCK end -->   
+			   			   
+               <div id="bodyContent"><!-- BODY CONTENT start -->
+               		<!-- MENU DIV start -->
+					<div id="menu">
+	<div class="menuLeft"><img src="http://www.buniyad.com/images/menu-left-style.png" alt=""></div>	
+	 <div id="smoothmenuMain" class="ddsmoothmenu menu">
+		<ul>
+			<li><a href="http://www.buniyad.com/">Home</a></li>
+			   <li><a href="http://www.buniyad.com/about.html">About US</a>
+				<ul>
+						<li><a href="http://www.buniyad.com/companyprofile.html">The company</a></li>
+						 <li><a href="http://www.buniyad.com/buniyad.html">Brand Buniyad</a></li>
+						 <li><a href="http://www.buniyad.com/top-management.html">Top Management</a></li>
+						 <li><a href="http://www.buniyad.com/awards.html">Awards</a></li>
+						 <li><a href="http://www.buniyad.com/events.html">Events</a></li>
+						 <li><a href="http://www.buniyad.com/media-news.html">Media News</a></li>
+					</ul>
+			   </li>
+			   <li><a href="http://www.buniyad.com/buniyad-retail.html">Projects</a></li>
+			   <li><a href="http://www.buniyad.com/knowledge-center.html">Knowledge Center</a></li>
+			   <li><a href="http://www.buniyad.com/developers.html">Developers</a></li>
+			   <li><a href="http://www.buniyad.com/nri-center.html">NRI Center</a></li>
+			   <!-- <li><a href="http://www.buniyad.com/group-booking.html">Group Bookings</a></li> -->
+			  <!-- <li class="last"><a href="http://www.buniyad.com/quick-links.html">Quick Links</a></li> -->
+		  </ul>
+	 </div>
+	 <div class="menuRight"><img src="http://www.buniyad.com/images/menu-right-style.png" alt=""></div>                    
+</div>					<!-- MENU DIV end -->				
+				
+                    <div class="content"><!-- CONTENT start -->
+                          <!-- TOP LOCATION city start -->
+<div id="smoothmenu1" class="ddsmoothmenu topLocations">
+	<ul>		
+		   <li class="first"><a href="http://www.buniyad.com/retail/property/noida/index.html">Noida</a></li>
+		   <li><a href="http://www.buniyad.com/retail/property/gurgaon/index.html">Gurgaon</a></li>
+		   <li><a href="http://www.buniyad.com/retail/property/mumbai/index.html">Mumbai</a></li>
+		   <li><a href="http://www.buniyad.com/retail/property/greater-noida/index.html">Greater Noida</a></li>
+		   <li><a href="http://www.buniyad.com/retail/property/delhi/index.html">Delhi</a></li>
+		   					
+	  </ul>
+ </div> <!-- TOP LOCATION city end -->
+  <!-- BREADCRUMBS start --><div class="breadcrumbs">
+<a href="http://www.buniyad.com/">Home</a> &gt; <span>Privacy Policy</span>                         
+
+                         </div><!-- BREADCRUMBS end -->
+							 
+						 <div class="leftDiv"><!-- LEFT DIV start -->
+                         <div class="bannerDiv"><!-- HEADER BANNER start -->
+                              	<img src="images/about-banner.jpg" alt="">
+                                   <h2>Privacy Policy</h2>
+
+                              </div>
+						   <!-- HEADER BANNER end -->
+<div class="textDiv">
+<p>We, at Buniyad Real Estate Services, are committed to protecting your privacy. We will only use the information that we collect about you lawfully.<br><br>
+ 
+We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible services.<br><br>
+ 
+We will not e-mail you in the future unless you have given us your consent.<br><br>
+ 
+We will give you the chance to refuse any marketing email from us or from another trader in the future.<br><br>
+ 
+We will never collect sensitive information about you without your explicit consent.<br><br>
+ 
+The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies, we will delete or correct it promptly.<br><br>
+ 
+The personal information which we hold will be held securely in accordance with our internal security policy and the Law.<br><br>
+ 
+We may use technology to track the patterns of behavior of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can always modify your browser to prevent this from happening.<br><br>
+ 
+The Information collected in this way can be used to identify you unless you modify your browser settings.<br><br>
+ 
+If you have any questions/comments about privacy, you should contact us.<br><br>
+Email Id : admin@buniyad.com</p> 
+							  
+
+                           </div>
+                              
+                            
+                              
+                      </div>
+				   <!-- LEFT DIV end -->
+                         
+                         <!-- RIGHT DIV start -->
+                         
+                           <div class="rightDiv">
+                         	
+						<form name="search" action="http://www.buniyad.com/search.html" method="post">
+<div class="rightBlock"><!-- FIND YPUR PROPERTY start -->
+
+	<h5 class="darkBlue">Search Properties</h5>
+	   <div class="block findProperty">                                   	                             
+			<ul class="formList">
+				<li>
+					<div class="label">Project Type<span class="redText">*</span></div>
+					  <div class="textboxDiv">
+						 <select name="project_type" id="project_type" class="select">
+							
+							<option value="Residential" selected="selected">Residential</option>
+							<option value="Commercial">Commercial</option>
+							
+						   </select>
+					  </div>
+				</li> 
+							
+				<li>
+					<div class="label">City<span class="redText">*</span></div>
+					  <div class="textboxDiv">
+						<select name="city" id="city" class="select">
+							<option value="Delhi">Delhi</option>
+							<option value="Gurgaon">Gurgaon</option>
+							<option value="Mumbai">Mumbai</option>
+							<option value="Greater Noida">Greater Noida</option>
+							<option selected="selected" value="Noida">Noida</option>
+							</select>
+					  </div>
+				 </li>				  				
+							 
+				 <li>
+					<div class="label">Bedrooms</div>
+					  <div class="textboxDiv">
+						<select name="no_of_bedroom" id="no_of_bedroom" class="select">
+							<option value="1">1</option>
+							<option value="2" selected="selected">2</option>
+							<option value="3">3</option>
+							<option value="4">4</option>
+							<option value="5">5+</option>										
+					   </select>
+					  </div>
+				 </li>
+				 <li class="last">
+					
+					  <div class="cyanBtnDiv">
+						<input type="submit" value="Search" class="submitBtn">
+						</div>
+				 </li>                                             
+			</ul>
+	   </div>
+	   <div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
+  </div><!-- FIND YPUR PROPERTY end -->
+  </form>								
+	<!-- REQUIREMENT BLOCK start -->     
+<script language="javascript" src="http://www.buniyad.com/validateinterested.js"></script>
+<form action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST" name="form" id="form" onsubmit="return validateinterested(this);">
+
+<input type="hidden" name="oid" value="00DU0000000HDNb">
+<input type="hidden" name="retURL" value="http://www.buniyad.com/thanks.html">
+<input type="hidden" name="lead_source" id="lead_source" value="Buniyad.com">
+     <div class="rightBlock blockTopGap">
+
+                              	<h5>Submit your Requirement</h5>
+
+                                   <div class="block">
+
+                                   	<div class="rowDiv">
+
+                                        	<ul class="formList">
+																				
+                                        	<li>
+                                             	<div class="label">First Name<span class="redText">*</span></div>
+                                                  <div class="colon">:</div>
+                                                  <div class="textboxDiv"><input type="text" name="first_name" id="first_name" maxlength="40" size="15" class="textBox"></div>
+                                             </li> 
+											 <li>
+                                             	<div class="label">Last Name<span class="redText">*</span></div>
+                                                  <div class="colon">:</div>
+                                                  <div class="textboxDiv"><input type="text" name="last_name" id="last_name" maxlength="80" size="15" class="textBox"></div>
+                                             </li> 
+                                        	<li>
+                                             	<div class="label">Email<span class="redText">*</span></div>
+                                                  <div class="colon">:</div>
+                                                  <div class="textboxDiv"><input type="text" name="email" id="email" maxlength="80" size="15" class="textBox"></div>
+                                             </li>
+											 <li>
+                                             	<div class="label">Phone<span class="redText">*</span></div>
+                                                  <div class="colon">:</div>
+                                                  <div class="textboxDiv"><input type="text" name="phone" id="phone" maxlength="80" size="15" class="textBox"></div>
+                                             </li>
+                                             <li>
+                                             	<div class="label">City<span class="redText">*</span></div>
+                                                  <div class="colon">:</div>
+                                                  <div class="textboxDiv">
+												  <select id="city" name="city" title="City">
+												  <option value="Noida">Noida</option>
+												  <option value="Gurgaon">Gurgaon</option>
+												  <option value="Greater Noida">Greater Noida</option>
+												  <option value="Delhi">Delhi</option>
+												  <option value="Mumbai">Mumbai</option>
+</select>
+</div>
+                                             </li>
+                                             <li>
+                                             	<div class="label">Buyer/Seller:</div>
+                                                  <div class="colon">:</div>
+                                                  <div class="textboxDiv">
+                                                  	<select id="00NU0000002OFzO" name="00NU0000002OFzO" title="Buyer/Seller"><option value="">--None--</option><option value="Buyer">Buyer</option>
+<option value="Seller">Seller</option>
+</select>
+                                                  </div>
+                                             </li>
+											 <li>
+                                             	<div class="label">Query<span class="redText">*</span></div>
+                                                  <div class="colon">:</div>
+                                                  <div class="textboxDiv"><textarea cols="10" rows="2" name="description" id="description" style="border:solid 1px #cccccc; padding:7px 5px;width:140px; height:30px;"></textarea></div>
+                                             </li>
+                                             <li class="last">
+                                             	<div class="label">&nbsp;</div>
+                                                  <div class="textboxDiv"><div class="orangeBtnDiv">
+												  	<input type="submit" value="Submit" class="submitBtn">
+													</div></div>
+                                             </li>
+                                             
+                                        </ul>
+										
+
+                                        </div>
+
+                                        
+
+                                   </div>
+
+                                   <div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
+
+                              </div></form>
+							  <!-- REQUIREMENT BLOCK end -->
+                         
+											 
+						  
+                              <div class="block blockTopGap"><a href="http://www.buniyad.com/invest-indian-estate.html"><img src="http://www.buniyad.com/images/invest-indian-estate.jpg" alt="" border="0"></a></div>
+
+                              <div class="rightBlockSmall blockTopGap"><!-- SOCIAL BLOCK start -->
+                                   <div class="block">
+<ul class="socialLinks">
+		<li class="facebook"><a href="http://www.facebook.com/Buniyad.RealEstate" target="_blank">Facebook</a></li>
+		 <li class="linkedIn"><a href="http://www.linkedin.com/" target="_blank">LinkedIn</a></li>
+		 <li class="twitter"><a href="http://twitter.com/" target="_blank">Twitter</a></li>
+		 <li class="youtube"><a href="http://www.youtube.com/" target="_blank">Youtube</a></li>
+	</ul>
+</div>                                   <div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
+                              </div><!-- SOCIAL BLOCK end -->
+                              
+                              <div class="rightBlock blockTopGap"><!-- LATEST NEWS BLOCK start -->
+                              	<h5>Latest News</h5>
+                                   <div class="block newsBlock">
+								   
+								   			
+									<div class="right-white-box">
+Grahapravesham 2012" India's leading property event kicks off in Coimbatore<br><a href="http://www.indiaprwire.com/pressrelease/real-estate/20120612122348.htm" target="_blank">more..</a><br><br>Sahara introduces 10 lifestyle township projects; another 58 projects to be introduced within FY 2012-13<br><a href="http://www.indiaprwire.com/pressrelease/real-estate/20120611122234.htm" target="_blank">more..</a><br><br>HDFC RED Launches Its Services In Vadodara<br><a href="http://www.indiaprwire.com/pressrelease/real-estate/20120608122073.htm" target="_blank">more..</a><br><br>Paharpur Business Centre celebrates World Environment Day to spread awareness on climate change<br><a href="http://www.indiaprwire.com/pressrelease/real-estate/20120605121802.htm" target="_blank">more..</a><br><br>KG Foundations widens its presence in the city<br><a href="http://www.indiaprwire.com/pressrelease/real-estate/20120604121654.htm" target="_blank">more..</a><br><br>
+
+									</div>	
+										
+                                   </div>
+                                   <div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
+                              </div>
+
+                              
+                             
+							 <!----------- BANNER BLOCK START ------------->
+							 
+							  <div class="block blockTopGap homeLoanBanner">
+                              	<img src="http://www.buniyad.com/images/home-loan-banner.jpg" alt="" border="0" usemap="#Map">
+                                   <map name="Map" id="Map">
+                                        <area shape="rect" coords="33,175,197,201" href="http://www.buniyad.com/home-loan.html" alt="">
+                                   </map>
+                              </div>
+							  <!----------- BANNER BLOCK END ------------->
+                              
+							 
+							 
+							 
+							 <!----------- NEWSLETTER BLOCK start ------------->		  
+							  
+							  <div class="rightBlock blockTopGap">
+                              	<h5>Newsletter Sign Up</h5>
+                                   <div class="block newsLetter">
+                                        <ul class="formList">
+                                        	<li>
+                                                <div class="textboxDivSmall">
+													<input type="text" id="RightNewsletterEmail" name="RightNewsletterEmail" onfocus="if(this.value=='Enter your email-id') this.value='';" onblur="if(this.value=='') this.value='Enter your email-id';" value="Enter your email-id" class="textBox">
+												</div>
+                                                <div class="cyanBtnDiv">
+												  	<input type="button" value="Subscribe" class="submitBtn" onclick="RightNewsletterFormValidation()">
+												</div>                                                  
+                                             </li>
+                                        </ul>
+                                   </div>
+                                   <div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
+                              </div>
+							  
+							  <!---------- NEWSLETTER BLOCK end -------->
+                              
+                              
+							 
+							<!-- TESTIMONIAL BLOCK start -->
+							 <div class="rightBlock blockTopGap">
+                              	<h5>Testimonials</h5>
+                                   <div class="block testimonialBlock">							 
+							   																	<p>										
+									
+								"Buniyad" is the best organization for me and my company to establish my own office in the area of Delhi for new market between Germany and India. </p>
+								<p class="boldText">Mr. BERNARD KOLECKO(TRANS CONTI LOGISTICS)</p>
+								<div class="orangeLink"><a href="http://www.buniyad.com/testimonials.html">view all</a></div>								
+																
+								 </div>
+							   <div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
+						  </div>
+						  <!-- TESTIMONIAL BLOCK end -->
+						  
+							  
+                              
+                         </div><!-- RIGHT DIV end -->
+                         <div class="clear"><img src="images/spacer.gif" alt=""></div>
+                    </div><!-- CONTENT end -->
+               </div><!-- BODY CONTENT end -->
+			   
+              <!-- FOOTER start -->
+			   <div id="footer">	
+		<div class="locationDiv">
+			 <div class="rowDiv">
+				
+				  
+				  <div class="col">
+					<h6>Buy Apartments</h6>
+					  <ul class="locations">   
+					  <li style="text-align:left"><a href="http://www.buniyad.com/retail/property/noida/index.html">Apartments In Noida</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/gurgaon/index.html">Apartments In Gurgaon</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/mumbai/index.html">Apartments In Mumbai</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/greater-noida/index.html">Apartments In Greater Noida</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/delhi/index.html">Apartments In Delhi</a></li>			   
+					  </ul>
+				 </div>
+				 <div class="col">
+					<h6>Flats</h6>
+					  <ul class="locations">				   
+						   <li style="text-align:left"><a href="http://www.buniyad.com/retail/property/noida/index.html">Flats In Noida</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/gurgaon/index.html">Flats In Gurgaon</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/mumbai/index.html">Flats In Mumbai</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/greater-noida/index.html">Flats In Greater Noida</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/delhi/index.html">Flats In Delhi</a></li>	
+						   
+					  </ul>
+				 </div>
+				 <div class="col">
+					<h6>Plots</h6>
+					  <ul class="locations">				   
+						   <li style="text-align:left"><a href="http://www.buniyad.com/retail/property/noida/index.html">Plots In Noida</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/gurgaon/index.html">Plots In Gurgaon</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/mumbai/index.html">Plots In Mumbai</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/greater-noida/index.html">Plots In Greater Noida</a></li><li style="text-align:left"><a href="http://www.buniyad.com/retail/property/delhi/index.html">Plots In Delhi</a></li>				   
+					  </ul>
+				 </div>
+				 
+ 
+							 
+ 
+ 
+			 </div>
+			 <div class="rowDiv">
+			 <div class="label">Real Estate in India :- </div>
+				  <ul class="locations">
+					  <li><a href="http://www.buniyad.com/retail/property/noida/index.html">Noida</a></li><li> | </li>
+					  <li><a href="http://www.buniyad.com/retail/property/gurgaon/index.html">Gurgaon</a></li><li> | </li>
+					  <li><a href="http://www.buniyad.com/retail/property/mumbai/index.html">Mumbai</a></li><li> | </li>
+					  <li><a href="http://www.buniyad.com/retail/property/greater-noida/index.html">Greater Noida</a></li><li> | </li>
+					  <li><a href="http://www.buniyad.com/retail/property/delhi/index.html">Delhi</a></li>		
+				  </ul>
+			 <div class="footerImage">
+				<ul>
+					<li><img src="http://www.buniyad.com/images/ifcci.png" alt="" border="0"></li>
+					<li><img src="http://www.buniyad.com/images/iacc.png" alt="" border="0"></li>
+					<li><img src="http://www.buniyad.com/images/cii.png" alt="" border="0"></li>
+					<li><img src="http://www.buniyad.com/images/naredco.png" alt="" border="0"></li>					
+					<li><img src="http://www.buniyad.com/images/footer-image-01.gif" alt="" border="0"></li>
+					   <li><img src="http://www.buniyad.com/images/footer-image-02.gif" alt="" border="0"></li>
+					   <li><img src="http://www.buniyad.com/images/footer-image-03.gif" alt="" border="0"></li>
+					   <li><img src="http://www.buniyad.com/images/footer-image-04.gif" alt="" border="0"></li>
+				  </ul>                         
+			 </div>
+			 </div>
+			 <div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
+		</div>
+   </div>
+
+   <div class="bottomDiv"><!-- BOTTOM DIV start -->
+   <ul class="footerLinks">
+			<li><a href="http://www.buniyad.com/">Home</a></li>
+			 <li>|</li>
+			 <li><a href="http://www.buniyad.com/about.html">About Us</a></li>
+			 <li>|</li>
+			 <li><a href="http://www.buniyad.com/privacy-policy.html">Privacy Policy</a></li>
+			 <li>|</li>
+			 <li><a href="http://www.buniyad.com/disclaimer.html">Disclaimer</a></li>
+			 <li>|</li>
+			 <li><a href="http://www.buniyad.com/contact.html">Contact Us</a></li>
+						 
+	  </ul>
+		<div class="rowDiv">
+		<div class="copyRight">© Copyright 2011-12, Buniyad Real Estate Services, All Rights Reserved.</div>
+		
+		</div>
+		<div class="clear"><img src="http://www.buniyad.com/images/spacer.gif" alt=""></div>
+   </div>			   <!-- FOOTER end -->
+   <!-- BOTTOM DIV end -->							
+               
+          </div><!-- WRAPPER DIV end -->
+          <div class="clear"><img src="images/spacer.gif" alt=""></div>
+     </div>
+<script type="text/javascript"> 
+updateClock(); // initial call
+</script>
+
+
+</body></html>
