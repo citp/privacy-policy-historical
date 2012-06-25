@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogigs.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226183833id_/http%3A//blogigs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogigs.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626014354id_/http%3A//blogigs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free WordPress Themes Tips
+# Privacy Policy - Free WordPress Theme Tip
 
 **Privacy Policy for blogigs.com**
 
