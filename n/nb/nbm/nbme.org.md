@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nbme.org privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105193319id_/http%3A//www.nbme.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbme.org privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625225520id_/http%3A//www.nbme.org/about/privacy.html) for the most accurate reproduction.*
 
-# NBME Privacy Policy
+# Privacy Policy | NBME
 
 The National Board of Medical Examiners (NBME) is committed to protecting your privacy and to maintaining the integrity and privacy of personal information that NBME collects through the NBME® website (the "Site") located at [www.nbme.org](http://www.nbme.org/). The following Privacy Policy ("Policy") explains NBME's information collection and dissemination practices in connection with the Site. Please review the Policy and feel free to contact us at [communications@nbme.org](mailto:%63%6F%6D%6D%75%6E%69%63%61%74%69%6F%6E%73%40%6E%62%6D%65%2E%6F%72%67) if you have any questions. 
 
