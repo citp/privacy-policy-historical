@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cutiegadget.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226110339id_/http%3A//www.cutiegadget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutiegadget.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625152950id_/http%3A//www.cutiegadget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cutie Gadget
 
 [Home](http://www.cutiegadget.com/) » Privacy Policy
 
-## Privacy Policy
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.cutiegadget.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
 
 > **Cutie Gadget Privacy Statement**
 > 
@@ -28,7 +28,7 @@
 > 
 >   * Google, as a third party vendor, uses cookies to serve ads on your site.
 >   * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
->   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+>   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/).
 > 
 
 > 
@@ -55,14 +55,3 @@
 > **Contact Information**
 > 
 > If you have any questions regarding our privacy policy, please contact us.
-
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
-
-Related Articles:
-
-  1. [About](http://www.cutiegadget.com/about/ "About")
-  2. [Contact The WebMaster](http://www.cutiegadget.com/contact-the-webmaster/ "Contact The WebMaster")
-  3. [Disclosure Policy](http://www.cutiegadget.com/disclosure-policy/ "Disclosure Policy")
-  4. [Cutie Gadget Themes](http://www.cutiegadget.com/cutie-gadget-themes/ "Cutie Gadget Themes")
-
-
