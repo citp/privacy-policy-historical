@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the twip.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203749id_/http%3A//www.twip.org/wiki-en-privacy-policy-p13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twip.org privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625165205id_/http%3A//www.twip.org/wiki-en-privacy-policy-p13) for the most accurate reproduction.*
 
-# Privacy Policy - WIKI TWIP
+# Privacy Policy - The World In Photos: Wiki
+
+## Privacy Policy
 
 [Back home](http://wiki.twip.org/) :: last edited by [sim100](https://web.archive.org/album:sim100) (April 30, 2009, 17:58:24)
 
- **Overall privacy statement**  
+**Overall privacy statement**  
 We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site and its properties and services that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate. Please note that by using the services or web site, you agree that any information you provide to us will be stored in the United States in accordance with this Privacy Policy and United States law.
 
 **1\. What information does TWIP collect?**  
@@ -19,7 +21,7 @@ Your Internet browser has a feature called cookies, which stores small amounts o
 
 We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
 
-Note: about Google Advertising on this website: Google use cookies for its Adsense program and to publish ads on TWIP. The Dart cookies used by Google allow them to adapt the ad publishing based on internet users behavior. Internet users have the possibility to desactivate Dart cookies. More info here: <http://www.google.com/privacy_ads.html>
+Note: about Google Advertising on this website: Google use cookies for its Adsense program and to publish ads on TWIP. The Dart cookies used by Google allow them to adapt the ad publishing based on internet users behavior. Internet users have the possibility to desactivate Dart cookies. More info here: <http://www.google.com/privacy_ads>
 
 **3\. How does TWIP use the information?**  
 We use the information we gather for four general purposes:
@@ -67,3 +69,7 @@ Any modifications to our privacy practices will be reflected first in this Priva
 
 **Questions, Comments**  
 Questions regarding this privacy statement or any other aspects of our website should be sent by email to info at twip dot org. 
+
+* * *
+
+**You like this post? Share it!**
