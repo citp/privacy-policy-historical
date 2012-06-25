@@ -1,136 +1,51 @@
-> *The following text is extracted and transformed from the riverford.co.uk privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221043458id_/http%3A//www.riverford.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverford.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625125751id_/http%3A//www.riverford.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy : Riverford Organic Vegetables
 
 Our privacy statement is our commitment to privacy of information. The following explains how we gather information and use it.
 
-**Information about our Organisation and Website**
+**Cookies  
+**Riverford use cookies for a number of reasons:
 
-Modern information and communication technologies play a big part in in our activities. We are based in the United Kingdom.
+  1. storing shopping basket information
+  2. directing your to the right Riverford farm website
+  3. anonymous website usage tracking
+  4. tracking for use in internet advertising
 
-Our main activity is: Organic vegetable home delivery
 
-Our privacy policy covers Riverford Organic Vegetables and its website:
 
-Organisation Name: | Riverford Organic Vegetables Limited  
----|---  
-Address: | Riverford Organic Vegetables Limited, Buckfastleigh  
-City, Postcode / Zip: | TQ11 0JU  
-County / State: | Devon  
-Country: | UK  
-Controller:  | 
+In 2011 there was a change to European Law which is aimed at giving website users more control over the data which is stored about them. You can read more about it here <http://www.ico.gov.uk/>
 
-Riverford  
-  
-Website | [http://www.riverford.co.uk](http://www.riverford.co.uk/)  
-  
-**Information Automatically Logged**  
- 
+**Controlling the information websites can collect  
+**You can manage your browser cookie settings to accept or reject all cookies or individually by website. You can set your browser to prompt you when a website would like to store a cookie on your computer. All browsers settings are different and we would recommend you use the help option in your browser menu to check your settings.
 
-This site uses your IP address to help diagnose problems with our server and to administer our site.
+**Personal information  
+**We use your name and address for delivery and billing purposes and also to contact you relating to customer service issues. You can opt out of promotional marketing from Riverford and we will never share or sell your personal information with any third parties. 
 
-This site records the browser type to monitor market penetration of various web browsers so we can better determine the Internet technologies we can use in the design of our pages.
-
-This site uses page referrer data which is information about the page that linked you to this page so that we can see who is linking to us.
-
-This data may be used to keep the integrity of our computing resources.
-
-**Personal Information**
-
-This site collects your name, address and order details. It does not collect any credit card information.
-
-We use your name and address for delivery and billing purposes. We will send you information about our products as part of our customer service
-
-We don't share any personal information with any third parties or use any personal information for any purposes beyond those stated here.
-
-**Providing Visitors with Anonymous Access**
-
-You can access our website home page and browse our site without disclosing your personal data. **  
+**Providing visitors with anonymous access  
+**You can access our website and browse our shop without disclosing your personal data by setting your browser to private browsing mode. **  
 **
 
-**The services and links of our website**
+**Access to the personal data we may hold about you**  
+You can ask us whether we are keeping personal data about you by:
 
-Our website doesn't let our visitors communicate with other visitors or to post information to be accessed by others.
-
-Our website may include links to third party web service providers.   
- 
-
-**Automatic Collection of Information**
-
-We use cookies on our website to store session information in order to show you your local farm shop.  
- 
-
-**Data Collection and Purpose Specification**
-
-We collect the personal data that you may voluntarily give us while using our services.
-
-We do not collect information about our visitors from other sources, like public records or bodies or private organisations.
-
-We may collect and use personal data for the additional purpose of: Delivery of your orders. If we want to use your details for something else, we we'll ask for your consent by having a box at the point on the site where personal data is collected
-
-**Children's Privacy**
-
-We do not knowingly collect personal data from children.
-
-We do not take specific steps to protect the privacy of children who disclose their personal data to us.
-
-We do not provide information about our personal data practices in relation to children on our home page, or at those sites on our Web site where we collect personal data.   
- 
-
-**Disclosure and Visitor Choice**
-
-We do not disclose your personal data to our subsidiaries or other organisations.   
- 
-
-**Confidentiality / Security**
-
-We do not give visitors to our website the option of using a secure transmission method to send us their personal data.
-
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from:   
- 
-
-  * unauthorised access
-  * improper use or disclosure
-  * unauthorised modification
+  * sending an email to [help@riverford.co.uk  
+](mailto:help@riverford.co.uk?subject=access%20to%20my%20personal%20data)
+  * sending postal mail to Riverford Organic Farms Ltd, Buckfastleigh, Devon TQ11 0JU, UK
+  * calling us on 01803 762059
 
 
 
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data.
+**Links to external sites  
+**This site contains links to other sites. Riverford Organic Farms Ltd is not responsible for the privacy practices or the content of such web sites.
 
-We ensure that your personal data will not be disclosed to third party organizations and government authorities except if required by law or other regulation.   
- 
+**Privacy support**  
+if you have an enquiry or concern about our privacy policy, please contact us:
 
-**Access to the personal data we may hold about you**
+  * sending an [email help@riverford.co.uk  
+](mailto:help@riverford.co.uk?subject=access%20to%20my%20personal%20data)
+  * sending postal mail to Riverford Organic Farms Ltd, Buckfastleigh, Devon TQ11 0JU, UK  
 
-You can ask us, by:  
-sending an email ( [help@riverford.co.uk](mailto:help@riverford.co.uk) )  
-sending postal mail to this address   
-( Riverford Organic Vegetables Limited, Upper Norton Farm, Sutton Scotney, Hampshire, SO21 3QF )  
-calling this telephone number ( 01803 762720 )   
-whether we are keeping personal data about you.
+  * calling us on 01803 762059
 
-  
-Upon request, which you can indicate by:   
-sending an email ( [help@riverford.co.uk](mailto:help@riverford.co.uk) )   
-sending postal mail to this address   
-( Riverford Organic Vegetables Limited, Upper Norton Farm, Sutton Scotney, Hampshire, SO21 3QF )   
-calling this telephone number ( 01803 762720 )
 
-  
-We will provide you with a readable copy of the personal data which we keep about you,
-
-We will provide the information without any charge.   
- 
-
-**Links to External Sites**
-
-This site contains links to other sites. Riverford Organic Vegetables Limited is not responsible for the privacy practices or the content of such web sites.
-
-**Privacy Support**
-
-If you have an enquiry or concern about our privacy policy, please contact:
-
-sending an email ( [help@riverford.co.uk](mailto:help@riverford.co.uk) )   
-sending postal mail to this address   
-( Riverford Organic Vegetables Limited, Upper Norton Farm, Sutton Scotney, Hampshire, SO21 3QF )  
-calling this telephone number ( 01803 762720 )
