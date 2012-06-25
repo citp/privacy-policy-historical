@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the daddiesboardshop.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118133339id_/http%3A//www.daddiesboardshop.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddiesboardshop.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625020937id_/http%3A//www.daddiesboardshop.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Daddies Board Shop - Earth's Largest Longboard Skateboard Store - - Privacy Policy
+# Daddies Board Shop - Longboard Skateboard & Snowboard Store - Privacy Policy
 
 |  | | |   
 ---|---|---  
 | 
 
-This privacy policy was last updated on 9/16/2010.   
+This privacy policy was last updated on 01/04/2012.   
 Protecting your privacy is a top priority to us.  We are in the business of selling skateboard and snowboard gear, not names or personal information. Daddiesboardshop.com has created this privacy policy in order to disclose our information gathering and dissemination practices for this web site. 
 
 What we collect: 
@@ -24,4 +24,6 @@ We reserve the right to monitor, and disclose to, government officials or law en
 |   
 ---  
   
+[](http://www.stellaservice.com/profile/4168)   
+[](https://web.archive.org/daddies-awards.aspx)  
 
