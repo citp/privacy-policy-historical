@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionsalade.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624190119id_/http%3A//www.fashionsalade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionsalade.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625215845id_/http%3A//www.fashionsalade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fashion Salade
 
@@ -10,7 +10,7 @@ The Privacy Policy may change from time to time without notice to you. You shoul
 
 Although we will endeavor to require third-party content providers and other parties to adhere to our policies, we are not responsible for any actions or policies of any third parties or for the information practices of any third-party sites to which links may be provided in the Site.
 
-**Collection of Information**
+**[Collection](http://www.fashionsalade.com/tag/collection/ "Collection") of Information**
 
 In various ways we collect information that is volunteered by visitors to our site. Certain identifying information, such as name, street address, city, state, zip code and email address, is gathered at certain interactive areas on the site, such as when you subscribe to our print or digital publication while online. Wherever possible and practical, we give users options about submitting information.
 
@@ -28,7 +28,7 @@ In order to offer and provide personalized custom services, we use cookies to li
 
 If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You also may refuse cookies by disabling them on your browser.
 
-IP addresses are also recorded in our log files. We may use IP addresses to analyze [trends](http://www.fashionsalade.com/tag/trends/ "trends"), administer the site, track users’ movement, gather broad demographic information for aggregate use, and similar purposes.
+IP addresses are also recorded in our log files. We may use IP addresses to analyze trends, administer the site, track users’ movement, gather broad demographic information for aggregate use, and similar purposes.
 
 **Use of the Information Collected**
 
@@ -60,7 +60,7 @@ You should be aware that whenever you voluntarily disclose any information onlin
 
 **Updating, Correcting, Deleting or Restricting Personal Information**
 
-If you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling, or writing us. You can also contact us if you wish to review and/or correct your personally identifiable information.
+If you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling, or writing us. You can also [contact us](http://www.fashionsalade.com/contact-us/ "contact us") if you wish to review and/or correct your personally identifiable information.
 
 **Contact**
 
@@ -74,6 +74,6 @@ The New Streeters Publishing Ltd.
 
 145-157 St John Street
 
-EC1V APY, [London](http://www.fashionsalade.com/tag/london/ "London")
+EC1V APY, London
 
 For the additional legal obligations that apply to your use of the Site, please see the [Terms of Use](http://www.fashionsalade.com/terms/ "View Terms of Use")
