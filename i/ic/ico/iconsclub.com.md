@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the iconsclub.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226210847id_/http%3A//www.iconsclub.com/page.php%3Fpage%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconsclub.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625215910id_/http%3A//www.iconsclub.com/page.php%3Fpage%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+**Our Commitment**
+
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs. 
 
+**What Information Do We Collect? **
+
 When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
+
+**Credit Card Information **
 
 If you choose to purchase products or services from us or our partners, you will need to give personal information and authorization to obtain information from various credit services Like PayPal or 2Checkout.com. We DO NOT process credits from our servers at this time.
 
