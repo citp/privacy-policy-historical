@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the news.me privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124020206id_/http%3A//www.news.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news.me privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625085358id_/http%3A//www.news.me/privacy) for the most accurate reproduction.*
 
-# News.me
+# News.me - Privacy Policy
 
 This Privacy Policy describes the policies and procedures of News.me, Inc. ("we" or "us") on the collection, use and disclosure of your information on http://news.me and the related services, features, content or applications we offer (collectively, "News.me"). In connection with your use of News.me, we receive information about you from various sources, including: (i) through your News.me user account (your "Account"); (ii) your use of News.me generally; and (iii) from third party websites and services. When you use News.me, you are consenting to the collection, transfer, manipulation, storage, transmission, disclosure and other uses of your information as described in this Privacy Policy. 
 
-##  What Does This Privacy Policy Cover? 
+###  What Does This Privacy Policy Cover? 
 
 This Privacy Policy covers the treatment of personally identifiable information ("Personal Information") we gather when you are using or accessing News.me. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners. 
 
@@ -16,15 +16,15 @@ The information we gather enables us to personalize, improve and continue to ope
 
 ### Sign-In Information:
 
-When you create an Account or login using your Twitter login, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account with News.me and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our Services, including without limitation, notifications regarding the Services and, upon your request, email digests of content read by those that you follow on News.me and Twitter. You may unsubscribe from these messages through your Account settings, although we regardless reserve the right to contact you when we believe it is necessary, such as for account recovery purposes. 
+When you create an Account or login using your Twitter and/or Facebook credentials, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account with News.me and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our Services, including without limitation, notifications regarding the Services and, upon your request, email digests of content read by those that you follow on News.me, Twitter, and Facebook. You may unsubscribe from these messages through your Account settings, although we regardless reserve the right to contact you when we believe it is necessary, such as for account recovery purposes. 
 
 ### User Content and URL Information:
 
-News.me allows you to provide content to News.me, such as the ability to curate, and distribute to people who follow your feed, collections of content and uniform resource locators ("URLs"), written descriptions of content or URLs, comments, text, images and video. We also collect and store information regarding the content in your News.me and Twitter feeds and the original URL, and associate that information with your Account. We also collect and store (i) the time and date on which the content was first curated and (ii) information on the channels through which the content was shared, e.g., to other News.me users and/or Twitter followers. 
+News.me allows you to provide content to News.me, such as the ability to curate, and distribute to people who follow your feed, collections of content and uniform resource locators ("URLs"), written descriptions of content or URLs, comments, text, images and video. We also collect and store information regarding the content in your News.me, Twitter, and Facebook feeds and the original URL, and associate that information with your Account. We also collect and store (i) the time and date on which the content was first curated and (ii) information on the channels through which the content was shared, e.g., to other News.me users, Twitter followers, and/or Facebook friends. 
 
-In addition, unless you opt-out through your Account settings on the News.me website or for certain features through the News.me application, we share certain information about you, such as your username, any avatar or image you elect to post, your Twitter username, your reading feeds through News.me, Twitter and other Third Party Services, and other information you elect to make public. This may include Personal Information, but only to the extent that you decide to share such information with others. 
+We share certain information about you, such as your username, any avatar or image you elect to post, your Twitter and/or Facebook username, your reading feeds through News.me, Twitter, Facebook and other Third Party Services, and other information you elect to make public to your followers in News.me, your followers on Twitter, and your friends on Facebook,. This may include Personal Information, but only to the extent that you decide to share such information with others. 
 
-We may retain content submitted by you to News.me indefinitely, even after you terminate your Account.
+We may retain content submitted by you to News.me indefinitely, even after you terminate your Account. 
 
 ### Metrics and Analytics:
 
@@ -36,39 +36,37 @@ Some features of News.me allow you to share your News.me curated content through
 
 ### IP Address Information and Other Information Collected Automatically:
 
-We automatically receive and records information from the News.me application or your web browser when you interact with News.me, including your IP address and cookie information. This information is used to facilitate collection of data concerning your interaction with News.me (e.g., what content you have clicked on).
+We automatically receive and record information from the News.me application or your web browser when you interact with News.me, including your IP address and cookie information. This information is used to facilitate collection of data concerning your interaction with News.me (e.g., what content you have clicked on). 
 
-Generally, News.me automatically collects usage information, such as the number and frequency of users accessing News.me and various curated streams of content. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of News.me so that we can analyze and improve them.
+Generally, News.me automatically collects usage information, such as the number and frequency of users accessing News.me and various curated streams of content. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of News.me so that we can analyze and improve them.v 
 
 ### Email Communications:
 
-We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.
+We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service. 
 
 ### Information Collected Using Cookies:
 
-Cookies are pieces of text that may be provided to your computer through your web browser or application when you access a website or service. Your browser stores cookies in a manner associated with each website or service you visit. We use cookies to enable our servers to recognize your web browser or News.me application and tell us how and when you visit and use News.me through the web or through an application.
+Cookies are pieces of text that may be provided to your computer through your web browser or application when you access a website or service. Your browser stores cookies in a manner associated with each website or service you visit. We use cookies to enable our servers to recognize your web browser or News.me application and tell us how and when you visit and use News.me through the web or through an application. 
 
-News.me cookies also allow us to track when you have accessed content through News.me. Each access is tracked using a unique identifier assigned to you in one or more cookies stored by your web browser or application and associated with News.me.
+News.me cookies also allow us to track when you have accessed content through News.me. Each access is tracked using a unique identifier assigned to you in one or more cookies stored by your web browser or application and associated with News.me. 
 
-News.me cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser or application has accessed content through News.me and may associate that information with your Account if you have one.
+News.me cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser or application has accessed content through News.me and may associate that information with your Account if you have one. 
 
-This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer or device. For example, third party websites may set their own cookies.
+This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer or device. For example, third party websites may set their own cookies. 
 
 ### Aggregate Information:
 
-We collect statistical information about how people use News.me ("Aggregate Information"). Some of this information is derived from Personal Information, such as your location (which, in turn, can be derived from your IP address or through location based services used by your device). This statistical information is not Personal Information and cannot be tied back to you, your Account, your web browser or your News.me application.
+We collect statistical information about how people use News.me ("Aggregate Information"). Some of this information is derived from Personal Information, such as your location (which, in turn, can be derived from your IP address or through location based services used by your device). This statistical information is not Personal Information and cannot be tied back to you, your Account, your web browser or your News.me application. 
 
 ### How and To Whom Is My Information Shared?
 
-News.me is designed to help you share information that you or people you choose to follow locate on the web with others. As a result, much of the information generated through News.me is shared publicly or with third parties.
+News.me is designed to help you share information that you or people you choose to follow locate on the web with others. As a result, much of the information generated through News.me is shared publicly or with third parties. All News.me content is public. Your activity on the News.me network is public and can be distributed to anyone that follows you. We may also distribute content and feeds through an email digest to your followers who have elected to receive such email digests. 
 
 ### Public News.me Activity Information:
 
-Much of your activity on and through News.me is public by default. This includes, but is not limited to:
+Much of your activity on and through News.me is public by default. This includes, but is not limited to: 
 
-URLs within your feeds from Third Party Services that you access through News.me and feeds from third parties 
-
-that you elect to follow. 
+URLs within your feeds from Third Party Services that you access through News.me and feeds from third parties that you elect to follow. 
 
 Content that you have selected to curate on your Account, the corresponding URL(s), the time and date those that content was curated, and metrics and analytics information for your curated content, as described above; and 
 
@@ -84,7 +82,7 @@ While we collect and store IP address information, that information is not made 
 
 ### Information You Elect to Share:
 
-When reviewing content through News.me, unless you opt-out on the News.me website or in certain instances through your Account settings in the News.me application or, you will share that content that you access through News.me or Third Party Services, or through feeds from Third Party Services to News.me. Unless you opt-out of on the News.me website, any such information will be instantly distributed and may then become accessible to users of News.me or those Third Party Services. Therefore, in addition to reviewing this Privacy Policy, you should also review the terms of services and privacy policies of such Third Party Services that you access through News.me. News.me respects the privacy settings/ policies that you have selected with Third Party Services, and only shares information consistent with those privacy settings and policies. Furthermore, unless you opt-out on the News.me website, we may also distribute such content and feeds in summary form through an email digest to your followers who have elected to receive such summary email digests. 
+In addition to reviewing this Privacy Policy, you should also review the terms of services and privacy policies of any Third Party Services that you access through News.me. News.me respects the privacy settings/ policies that you have selected with Third Party Services, and only shares information consistent with those privacy settings and policies. 
 
 You may otherwise access Third Party Services through News.me, for example by accessing curated content. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those privacy policies. This Privacy Policy only governs information collected on or through News.me. 
 
@@ -94,9 +92,9 @@ We share Aggregate Information with our partners, service providers and other pe
 
 ### Email Communications:
 
-If you sign up for the daily email digest on the News.me website or enter your email in the "Preferences" portion of the News.me application, you will receive an email once daily summarizing some or all of the content regarding those users that you have elected to follow on News.me. Unless you opt-out on the News.me website, News.me users that follow you will occasionally receive email digests that include information about what you have clicked on through News.me. You can always change these settings on the News.me website. 
+If you sign up for News.me for Email via the News.me website or in any other News.me application, you will receive an email once daily summarizing some or all of the content regarding those users that you have elected to follow on News.me. News.me users that follow you will occasionally receive email digests that include information about what you have shared through News.me. 
 
-Regardless of whether you decide to receive daily emails from us, as part of News.me, you may occasionally receive from us email and other communication relating to your Account. These emails will only be sent for purposes important to News.me, such as password recovery. 
+Regardless of whether you decide to receive News.me for Email, as part of News.me, you may occasionally receive from us email and other communication relating to your Account. These emails will only be sent for purposes important to News.me, such as password recovery. 
 
 ### User Profile Information:
 
@@ -120,7 +118,7 @@ Except as set forth above, you will be notified when your Personal Information m
 
 ### Is Information About Me Secure?
 
-Your Account information (including your Twitter login) is protected for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. 
+Your Account information (including your Twitter and Facebook logins) is protected for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. 
 
 We endeavor to protect Account information to ensure that it is kept private; however, we cannot guarantee the security of any Account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
 
@@ -132,13 +130,9 @@ You can access information associated with your Account by logging into the web 
 
 Registered and unregistered users can access all of the above information. 
 
-### Opting Out:
-
-Your account will have certain default settings as described in this Privacy Policy. Where this Privacy Policy references your ability to opt-out of a certain function or feature you can do so on the News.me website or in some instances through the News.me application. Specifically, in order to opt-out of having your reading and click streams made public through News.me or through other means, take the following actions: you will need to log in to the News.me website using your News.me credentials, click on the "Settings" option, and opt-out of "Sharing articles read through News.me products". Alternatively, within the News.me application you can visit "Settings" and then "Preferences" and turn "Stealth Mode" to the "On" position, in order to opt-out of having your reading and click streams made visible. For certain other features, you can opt-out from within the News.me application by going to your Account "Settings" and making changes from within "Preferences". 
-
 ### How Can I Delete My Account?
 
-Should you ever decide to delete your Account, you may do so by emailing support@news.me. If you terminate and delete your Account, any association between your Account and information stored by in connection with News.me will no longer be accessible. However, given the nature of sharing using News.me, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public. If you would like us to remove such stored information, please send us an email at the address above. 
+Should you ever decide to delete your Account, you may do so by emailing support@news.me or by visiting “Settings” at the News.me website. If you terminate and delete your Account, any association between your Account and information stored by in connection with News.me will no longer be accessible. However, given the nature of sharing using News.me, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public. If you would like us to remove such stored information, please send us an email at the address above. 
 
 ### What Choices Do I Have Regarding My Information?
 
@@ -154,4 +148,5 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 If you have any questions or concerns regarding privacy using News.me, please send us a detailed message to: privacy@news.me. We will make every effort to resolve your concerns. 
 
-Effective Date: September 14, 2011. Edited: November 16, 2011. 
+Effective Date: September 14, 2011.  
+Edited: February 27, 2012.
