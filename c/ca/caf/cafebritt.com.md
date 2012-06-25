@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cafebritt.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106190026id_/http%3A//www.cafebritt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafebritt.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625051541id_/http%3A//www.cafebritt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ Note: Most banks either cover all the charges that result from unauthorized use 
 
 ### Disclosure to Outside Third Parties
 
-**Cafe Britt respects your privacy**. Any information you give us is held with the utmost care and security, and will not be used in ways to which you have not consented. However Cafe Britt may share non-personal aggregate, or summary, information regarding its customers with partners or other third parties, but Cafe Britt does not sell or share any information at the individual customer level. Cafe Britt cannot control and thus assumes no responsibility in relation with the use third parties may give to information they collect in contests run as co-promotions.
+**Cafe Britt respects your privacy**. Any information you give us is held with the utmost care and security. However Cafe Britt may share non-personal aggregate, or summary, information regarding its customers with partners or other third parties. The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with our third party service providers that assist us with our marketing efforts and with other marketers whose products or services we feel may be of interest to you. If you prefer that we do not share your name and address with other marketers, please email us at [info@cafebritt.com](mailto:info@cafebritt.com). Cafe Britt cannot control and thus assumes no responsibility in relation with the use third parties may give to information they collect in contests run as co-promotions.
 
 ### Your Feedback
 
