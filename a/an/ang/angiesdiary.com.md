@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angiesdiary.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221091316id_/http%3A//angiesdiary.com/terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angiesdiary.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625144126id_/http%3A//angiesdiary.com/terms-of-use/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Angie's DIARY
 
@@ -38,10 +38,6 @@ Whenever Angie’s DIARY changes its privacy policy, we will post those changes 
 If you have any questions or notices of violations to these terms and conditions, please contact the editor of the Angie’s DIARY at contact@angiesdiary.com  
 
 
-#### Related Posts on Angie's DIARY:
+* * *
 
-  * No Related Posts
-
-
-
-[](http://digg.com/submit?phase=2&url=http://angiesdiary.com/terms-of-use/privacy-policy/&title=Privacy%20Policy) [](http://del.icio.us/post?url=http://angiesdiary.com/terms-of-use/privacy-policy/&title=Privacy%20Policy) [](http://www.facebook.com/share.php?u=http://angiesdiary.com/terms-of-use/privacy-policy/&title=Privacy%20Policy) [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http://angiesdiary.com/terms-of-use/privacy-policy/&title=Privacy%20Policy) [](http://sphinn.com/submit.php?url=http://angiesdiary.com/terms-of-use/privacy-policy/&title=Privacy%20Policy) [](http://www.stumbleupon.com/submit?url=http://angiesdiary.com/terms-of-use/privacy-policy/&title=Privacy%20Policy) [](http://technorati.com/faves?add=http://angiesdiary.com/terms-of-use/privacy-policy/)
+Subscribe to the [RSS feed](http://angiesdiary.com/feed/) or to our [monthly newsletter](http://angiesdiary.com/newsletter/), right now!
