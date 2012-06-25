@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roulettebotplus.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124034618id_/http%3A//www.roulettebotplus.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roulettebotplus.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626002728id_/http%3A//roulettebotplus.com/policy.html) for the most accurate reproduction.*
 
-# Roulette Bot Plus - Free Roulette Strategy Software - English
+# Privacy Policy
 
 This privacy policy details how roulettebotplus.com compiles, uses, and protects any information that you provide us with while using our website.
 
@@ -35,3 +35,6 @@ You may choose to restrict the collection or use of your personal information. I
 We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
 This policy is effective as of May 1, 2011. roulettebotplus.com may decide to change this policy from time to time by updating this page. As such, you should monitor this page occasionally to ensure that you are satisfied with any and all changes.
+
+  
+
