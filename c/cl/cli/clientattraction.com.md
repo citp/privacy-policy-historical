@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clientattraction.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110212634id_/http%3A//www.clientattraction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clientattraction.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625211907id_/http%3A//www.clientattraction.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
