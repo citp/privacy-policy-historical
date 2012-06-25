@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226081411id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625115206id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
 
 # Privacy Statement for InternetDJ.com
 
@@ -10,7 +10,7 @@ Third Party Advertising
 This website may utilize certain services provided by DoubleClick, Inc. (DoubleClick). For further information concerning DoubleClick's privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go [here](http://www.doubleclick.com/us/about_doubleclick/privacy/). 
 
 Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
 
 General Activities 
 
