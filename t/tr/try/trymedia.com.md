@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trymedia.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207134716id_/http%3A//trymedia.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trymedia.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625032226id_/http%3A//www.trymedia.com/privacy.shtml) for the most accurate reproduction.*
 
 # Trymedia - Privacy Policy
 
@@ -48,7 +48,7 @@ Use of your personal information by independent contractors when working on beha
 
 You may unsubscribe from Trymedia's promotional mailing list at anytime by following the unsubscribe instructions that appear in each email that you will receive from Trymedia. To unsubscribe from the mailing lists of third parties you will need to follow their stated unsubscribe processes.
 
-Many questions regarding your purchase history and assistance with your software can be answered by visiting the Help Section of this site. If you would like access to other information and records that Trymedia retains in relation to you please complete and submit the Trymedia Information Request Form which can be obtained by sending an email requesting the form to: [privacy@trymedia.com](mailto:privacy@trymedia.com). Please be aware that information will not be released in response to a request until Trymedia has received a completed request form, verified the authenticity of the request and received payment of the modest fee due for each request. Once you have received the information and records you have requested you may request that they be changed, updated or removed. However, you should be aware that it is not technologically possible to remove or verify each and every record of the information you have provided to us and that any changes or deletions will not effect the information we have provided to third parties in accordance with this policy prior to such change or deletion. The need to back-up our systems to protect information from inadvertent loss means that a copy of your information may exist in a non-erasable form that will be difficult or impossible for us to locate.
+Many questions regarding your purchase history and assistance with your software may be answered by visiting the Help Section of the site where you purchased your software.
 
 ### What We Won't Do With Personal Information
 
@@ -60,7 +60,7 @@ When you provide us with your information you acknowledge that this information 
 
 ### Security
 
-Because security is important to us, we exercise care in providing secure transmission of your personal information before it is transferred across the Internet from your personal computer to our secure servers. We use industry-standard, secure-socket-layer (SSL) technology, which is utilized by most popular browsers, including Netscape and Microsoft Explorer, to encrypt (or convert into code) most of your personal information before it is transferred across the Internet. To further safeguard your most sensitive credit card information, we transfer such information across the Internet in an encrypted format and then store such information in our databases.
+Because security is important to us, we exercise care in providing secure transmission of your personal information before it is transferred across the Internet from your personal computer to our secure servers. We use industry-standard, secure-socket-layer (SSL) technology, which is utilized by most popular browsers to encrypt (or convert into code) most of your personal information before it is transferred across the Internet. To further safeguard your most sensitive credit card information, we transfer such information across the Internet in an encrypted format and and do not store the complete information in our databases after a transaction has been completed.
 
 Remember to close your browser window when you have finished a purchase in order to ensure that others cannot access your personal information.
 
@@ -86,9 +86,9 @@ Except as stated above, this Privacy Policy does not apply to the practices or p
 
 ### Questions, Comments or Concerns
 
-Many questions regarding your purchase history and assistance with your software can be answered by visiting the Help Section of this site. If you have additional questions or concerns regarding our Privacy Policy, please contact us at either of the addresses below:
+Many questions regarding your purchase history and assistance with your software can be answered by visiting the Help Section of the site where you purchased your software. If you have additional questions or concerns regarding our Privacy Policy, please contact us at the address below:
 
-By email: [privacy@trymedia.com](mailto:privacy@trymedia.com)
+By email: [privacy@real.com](mailto:privacy@real.com)
 
 By mail:  
 RealNetworks  
