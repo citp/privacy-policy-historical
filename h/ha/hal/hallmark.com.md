@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hallmark.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624041550id_/http%3A//www.hallmark.com/online/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallmark.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625140028id_/http%3A//www.hallmark.com/online/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Hallmark.com
 
