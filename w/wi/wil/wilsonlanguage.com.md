@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilsonlanguage.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107064400id_/http%3A//www.wilsonlanguage.com/WLT_Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilsonlanguage.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625065829id_/http%3A//www.wilsonlanguage.com/WLT_Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Agreement
 
