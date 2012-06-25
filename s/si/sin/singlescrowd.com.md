@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singlescrowd.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112020626id_/http%3A//www.singlescrowd.com/static/about_us/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlescrowd.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625112549id_/http%3A//www.singlescrowd.com/static/about_us/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ All comments, queries and requests relating to our use of your information are w
 
 Datech Limited, The Exchange, Express Park, Bristol Road, Somerset, UK, TA6 4RR (Company No. 04305177) 
 
-Tel +44 (0) 1278 722473 
+Tel +44 (0) 1278 588060 
 
 Fax +44 (0) 1278 428049 
 
