@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221234323id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625055742id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
 
 # Yahoo! Privacy Centre
 
@@ -94,7 +94,7 @@ Return to top
 
 ## CHANGES TO THIS PRIVACY POLICY
 
-Yahoo! may amend this policy from time to time. If we make any substantial changes in the way we use your information we will notify you by sending a notice to the primary email address specified in your Yahoo! account or by posting a prominent notice on our pages. Replaced versions of this privacy policy can be found here. 
+Yahoo! may amend this policy from time to time. If we make any substantial changes in the way we use your information we will notify you by sending a notice to the primary email address specified in your Yahoo! account or by posting a prominent notice on our pages. 
 
 Return to top
 
