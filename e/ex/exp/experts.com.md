@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123181950id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625100241id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,15 +6,15 @@
 
 [](https://web.archive.org/Advertise/LeftClicked?id=15)
 
-[](https://web.archive.org/Resources/Detail?ID=131)
+[](https://web.archive.org/Resources/Detail?ID=266)
 
-[](https://web.archive.org/Resources/Detail?ID=332)
+[](https://web.archive.org/Resources/Detail?ID=209)
 
-Les Baxter
+Scott A. Travers
 
-[](https://web.archive.org/Resources/Detail?ID=51)
+[](https://web.archive.org/Resources/Detail?ID=376)
 
-National Library of Medicine
+John A. Hoschette
 
 ### Our Commitment To Privacy
 
