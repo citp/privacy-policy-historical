@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124033811id_/http%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625093406id_/http%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GuidetoOnlineSchools.com
+# Privacy Policy - GuidetoOnlineSchools.com - Guide To Online Schools
 
-[](http://privacy-policy.truste.com/click-with-confidence/wps/en/www.guidetoonlineschools.com/seal_m "TRUSTe online privacy certification")
+[](http://privacy.truste.com/privacy-seal/Reach-Network,-Inc-/validation?rid=b3b16ca4-919b-41d1-bfdc-c939c88b9a8e "TRUSTe online privacy certification")
 
 [](http://www.career.org//iMISPublic/AM/Template.cfm?Section=Home)
 
