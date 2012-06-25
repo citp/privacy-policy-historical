@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psyche.co.uk privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221145144id_/http%3A//www.psyche.co.uk/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psyche.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625052846id_/http%3A//www.psyche.co.uk/privacy-policy-i4) for the most accurate reproduction.*
 
 # Psyche Designer Clothing Store - Privacy Policy - Customer Privacy
 
@@ -8,17 +8,21 @@ This policy explains how we use any personal information we collect about you wh
  **  
 What information do we collect about you?**
 
-Information is collected from you when you register with us, order goods from us, sign up to receive updates or when you participate in competitions & surveys.
+Information is collected from you when you register with us, order goods from us, sign up to receive updates or when you participate in competitions & surveys. This may include name, mailing address, telephone number, email address and card details.
 
- **How will we use the information about you?  
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+Sensitive and private data is sent over a SSL secured communication channel and is encrypted and protected with digital signatures.
+
+**How will we use the information about you?  
 **  
 Information is collected about you to enable us to process any orders you make, manage your online account with us and where permitted, email you with relevant product offers and promotions.
 
-When processing your order, we may send your details to and use information from, credit reference and fraud prevention agencies. We also send your name, shipping address and contact telephone number to GeoPost for the purpose of delivering your goods.
+When processing your order, we may send your details to and use information from, credit reference and fraud prevention agencies. We also send your name, shipping address and contact telephone number and in some cases email address to FedEx for the purpose of delivering your goods.
 
 Psyche Limited will never share any of your personal information with any third-party companies for marketing purposes.
 
- **Marketing**
+**Marketing**
 
 Psyche Limited would like to contact you with product offers & promotions which may be of interest to you. If you have signed up or consented to this, we will contact you via email.
 
@@ -36,10 +40,18 @@ Our website may contain links to other websites. Our privacy policy only applies
 
  **Cookies**
 
-When you visit our website, a ‘cookie’ is transferred to your web browser & can only be read by the server that gave it to you. Cookies are used to collect standard internet log information & track visitor behaviour. This information can be used to compile statistical reports on website activity.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-Most browsers are set to accept cookies. However, you can manually choose not to accept them. The websites www.aboutcookies.org and www.allaboutcookies.org will provide more information on cookies, should you wish to learn more.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. The websites [www.aboutcookies.org](http://www.aboutcookies.org/ "About Cookies") and [www.allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies") will provide more information on cookies, should you wish to learn more.
 
 **Changes to our privacy policy**
 
-Our privacy policy is constantly reviewed & updated. This privacy policy was last updated on 17 September 2010.
+Our privacy policy is constantly reviewed & updated. This privacy policy was last updated on 16 May 2012.
+
+**Questions**
+
+If you have any further questions do not hesitate to contact us by phone on +44 (0)207 183 4767 or by email [info@psyche.co.uk](mailto:info@psyche.co.uk)
