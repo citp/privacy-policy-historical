@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favorite-casino.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203084729id_/http%3A//www.favorite-casino.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favorite-casino.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625172729id_/http%3A//www.favorite-casino.com/privacy.html) for the most accurate reproduction.*
 
 # Favorite Casino - LR - PM - Visa/Master - Privacy Policy
 
@@ -62,4 +62,4 @@ We will not sell, distribute or lease your personal information to third parties
 
 [](http://serve.eurogrand.com/promoRedirect?member=edelweis&campaign=DEFAULT&channel=favoritecasino&zone=1472407207&lp=1471990545)
 
-[](http://www.scratchgames.com/?aid=683&cid=51)
+[](http://www.hotforex.com/landing-pages/50percent-bonus/?refid=11163&bid=cc7c4a34)
