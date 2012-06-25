@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyadviceservice.org.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145819id_/http%3A//moneyadviceservice.org.uk/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyadviceservice.org.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625081649id_/http%3A//www.moneyadviceservice.org.uk/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy : Money Advice Service
 
@@ -106,6 +106,8 @@ This page lists the cookies that may be used from one of our websites and what t
 AddThis is a service that allows you to quickly share pages you like on our websites using Twitter and Facebook. Some of these cookies are automatically removed when you close your browser. The cookie stored allows us to understand what visitors want to share and not to share, so we can improve the service you receive. To find out more visit [www.addthis.com/privacy](http://www.addthis.com/privacy).
   * **Core Motives** (databroker-us.coremotives.com)  
 Core Motives is a service used by our customer relationship management system. This temporary cookie allows us to understand what visitors want to use and not to use, so we can improve the service you receive. The cookie is automatically removed when you close your browser. To find out more visit [http://coremotives.com/privacy-statement](http://coremotives.com/privacy-statement/).
+  * **QuantcastUK** (quantcast.com)  
+As well as offering 3rd party measurement to Publishers & Marketers; Quantcast offer a proprietary technology called ‘Lookalike Modelling.’ Quantcast Lookalikes are models of customers, built using user data. This allows us to profile the affinities of site behaviours by finding out what is unique about our particular audience.
   * **Doubleclick** (Doubleclick.net/fls.doubleclick.net/ad.uk.doubleclick.net)  
 The Doubleclick service is a Google product used by our marketing teams to monitor the effectiveness of our advertising. Some of these cookies are automatically removed when you close your browser. The cookie stored allows us to understand what visitors want to use and not to use, so we can improve the service you receive. To find out more visit [www.google.com/privacy/ads](http://www.google.com/privacy/ads/).
   * **Google Analytics** (www.google-analytics.com/ssl.google-analytics.com)  
@@ -117,10 +119,9 @@ When you use our health check we store a number of cookies which are required fo
     * HasClickedExternalLink – used to tell the health check if you have clicked on an external link. This is so we can warn you if you are leaving our website. This cookie is automatically removed when you close your browser.
     * QuestionnaireHistory – used to temporarily remember the answers to your questions while you are using the health check and allows us to give you your action plan. This cookie is automatically removed when you close your browser, so no-one else can see the answers you gave.
     * ActionPlanState – stores information to remember which parts of your action plan are currently expanded so if you register and come back to the health check later on it will be as you left it. This cookie is automatically removed after 30 days if you do not log back in within that time.
-    * Cm_vid, cm_medium, cm_sid, cd_campid and cm_mid – cookies starting with one of these are used to help us track the effectiveness of our campaign advertising. They allows us to understand what visitors want to use and not to use, so we can improve the service you receive, but are automatically removed when you close your browser.
-  * **Money Advice Service websites** (moneyadviceservice.org.uk / yourmoney.moneyadviceservice.org.uk /  
-moneyadviceservice.org.uk/parents / divorce.moneyadviceservice.org.uk / tables.moneyadviceservice.org.uk / tables.moneymadeclear.org.uk)  
-Cookies from the Money Advice Service websites are ued for Google Analytics (__utma, __utmb, __utmc and __utmz)
+    * Cm_vid, cm_medium, cm_sid, cd_campid and cm_mid – cookies starting with one of these are used to help us track the effectiveness of our campaign advertising. They allow us to understand what visitors want to use and not to use, so we can improve the service you receive, but are automatically removed when you close your browser.
+  * **Money Advice Service websites** (moneyadviceservice.org.uk / divorce.moneyadviceservice.org.uk / tables.moneyadviceservice.org.uk)  
+Cookies from the Money Advice Service websites are used for Google Analytics (__utma, __utmb, __utmc and __utmz)
   * **Mookie** (Mookie1.com/b3-UK.mookie1.com/t.mookie1.com)  
 This is an advertising customisation service. This cookie is used with Doubleclick (above) if you have responded from another site to a Money Advice Service advert or advertising link, to ensure we advertise in the right places to the right people. Some of these cookies are automatically removed when you close your browser. To find out more visit [www.mookie1.com/privacy.php](http://www.mookie1.com/privacy.php). 
   * **Typekit** (use.typekit.com)  
@@ -132,19 +133,19 @@ We use this service to display a font to you that is part of our website design.
 
 ### Who is carrying out this survey? 
 
-We, the Money Advice Service, have commissioned the market research agency BDRC Continental of Kingsbourne House, 229-231 High Holborn, London WC1V 7DA, company number: 02578457 to carry out this survey on our behalf. 
+We, the Money Advice Service, have commissioned the market research agency eDigitalResearch PLC of Vanbrugh House, Hedge End, Hampshire, SO30 2AF, company number: 5424597 to carry out this survey on our behalf. 
 
 Your privacy is important to us and we will take care to safeguard it. We understand that you may have concerns about the privacy and security of your personal information and we would therefore like to take this opportunity to explain our privacy policy. Please note, this policy only covers information collected through this survey. y. You can read the main Money Advice Service privacy policy at [www.moneyadviceservice.org.uk/privacypolicy.aspx](http://www.moneyadviceservice.org.uk/privacypolicy.aspx). 
 
 ### When and what information do we collect?
 
-We only collect personal data such as your name, telephone number, age and post code when you volunteer your personal information by completing this survey. We and BDRC Continental have security measures in place to prevent the loss, misuse, and alteration of the information that this survey collects. We understand that some of you may not wish to provide some of the information requested. You may still participate in our research programme and continue to visit the Money Advice Service website even if you do not wish to provide any or all of the personal information requested in the survey. 
+We only collect personal data such as your name, telephone number, age, post code and email address when you volunteer your personal information by completing this survey. We and eDigitalResearch PLC have security measures in place to prevent the loss, misuse, and alteration of the information that this survey collects. We understand that some of you may not wish to provide some of the information requested. You may still participate in our research programme and continue to visit the Money Advice Service website even if you do not wish to provide any or all of the personal information requested in the survey. 
 
 ### What do we do with your personal information?
 
-By providing personal data to BDRC Continental you consent to their sharing it with us. Your information will be used for research purposes only and may be stored for up to two years. 
+By providing personal data to eDigitalResearch PLC you consent to their sharing it with us. Your information will be used for research purposes only and may be stored for up to two years. 
 
-If you provided your name and telephone number to participate in our market research, you consent to us or another market research agency appointed by us contacting you again for a follow-up research interview or interviews. Neither we nor our appointed agency will try to sell you anything. 
+If you provided your name,telephone number and email address to participate in our market research, you consent to us or another market research agency appointed by us contacting you again for a follow-up research interview or interviews. Neither we nor our appointed agency will try to sell you anything. 
 
 We will store and handle your information in accordance with the Data Protection Act. Please visit <http://www.ico.gov.uk/Home/for_organisations/data_protection_guide.aspx> for more information about this. 
 
@@ -154,34 +155,5 @@ Please notify us by email to [enquiries@moneyadviceservice.org.uk](mailto:enquir
 
   * **do not** wish your personal information to be used as described above; or
   * wish to see the personal information we hold about you as a result of you completing this survey.
-
-
-
-## Prize draw Terms and Conditions
-
-  * BDRC Continental administers and manages the monthly prize draws for £250 on behalf of the Money Advice Service.
-  * BDRC Continental has been commissioned by the Money Advice Service to administer this survey, including the prize draw. BDRC Continental’s address is Kingsbourne House, 229-231 High Holborn, London WC1V 7DA and their company number is 02578457.
-
-
-
-### Monthly prize draws for £250:
-
-  * On the last working day of each month, BDRC Continental will select one winner for a cash prize of £250.
-  * All valid entries received during the month are eligible to enter one draw for £250. The relevant contact details must be completed for a valid entry into the draw. 
-  * Only one entry per person is permitted.
-  * The winner will be selected at random from all entries to the slide in survey received in that month.
-
-
-
-### Administration of draws:
-
-  * BDRC Continental will call / email the winner on the number / email address identified in the slide-in survey within 14 days of the draw. 
-  * Where the winner responds within 28 days of notification, the prize will be delivered within 7 days.
-  * If the winner does not respond within 28 days of notification, another winner will be selected at random from the remaining entries.
-  * The prize draw is open to UK residents aged 18 years and over.
-  * The prize draw is not open to employees of the Money Advice Service and their families, employees of the Financial Services Authority or any other partner organisations involved in delivering Money Guidance.
-  * The judges’ decision is final and no correspondence will be entered into.
-  * The Money Advice Service reserves the right to suspend or terminate the competition with or without prior notice.
-  * Winners may be asked to participate in non-paid publicity accompanying or resulting from this draw.
 
 
