@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fredericpatenaude.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131070824id_/http%3A//www.fredericpatenaude.com/privacynotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredericpatenaude.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626004949id_/http%3A//www.fredericpatenaude.com/privacynotice.html) for the most accurate reproduction.*
 
 # 
 
@@ -82,7 +82,7 @@ By providing to this website information that forms the basis of communication w
 **  
 This website takes measures to protect its data that contains information related to you. However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration, or misuse of information. You must assume that it is possible for your personal data to be obtained by others, such as "hackers," and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you.
 
-**QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS** You may direct questions, comments or reports to: <http://www.fredericpatenaude.com/contactform.html>
+**QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS** You may direct questions, comments or reports to: [http://www.replytofred.com](http://www.eplytofred.com/)
 
 **REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE  
 **  
