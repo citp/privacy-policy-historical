@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pes-patch.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229152153id_/http%3A//www.pes-patch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pes-patch.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626002647id_/http%3A//www.pes-patch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Download PES 2012 Patch,PES2012 Demo,PES 2011 Patch,PES 2010 Patchs,PES 12,PES Parche,PES2011 Update,PES Patch,PES Edit,Option File,DLC,PS3 of,PES PC. - PES Patch,PES 2012 Patch,PES2012 Demo,PES 2011 Patch,PES Parche, PES Edit,Patch Update Pro Evolution Soccer 12
 
