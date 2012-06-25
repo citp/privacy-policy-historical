@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingbycolor.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204416id_/http%3A//www.weddingbycolor.com/legals/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingbycolor.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625072209id_/http%3A//weddingbycolor.com/legals/privacy) for the most accurate reproduction.*
 
 # Wedding By Color- Free Wedding Blogs & Brides' Online Community
 
@@ -35,6 +35,8 @@ Tov Solutions discloses potentially personally-identifying and personally-identi
 ## Third-Party Advertisers
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+Some of the advertisements that appear on weddgingbycolor.com web site(s) are delivered to you by national internet advertising and application company such as Cox Digital Solutions. This company utilizes certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our site(s), including information about the banner ads they display, and cookie they place on your computer and your IP address. To opt out of information collection by Cox Digital Solutions, or to obtain information about the technologies they use or their own privacy policy, please visit their website at: http://www.coxdigitalsolutions.com/privacy-policy/consumer-opt-out-program http://www.networkadvertising.org/managing/opt_out.asp
 
 ## Cookies
 
