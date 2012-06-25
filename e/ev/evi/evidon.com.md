@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evidon.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221071728id_/http%3A//www.evidon.com/privacy_inform) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evidon.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625115745id_/http%3A//www.evidon.com/privacy_inform) for the most accurate reproduction.*
 
-# EVIDON
+# Global Privacy | Data Control | Evidon
 
 Welcome. The information below explains how Evidon collects, uses, and discloses information as we provide services to advertisers, ad agencies, ad networks, publishers, and other members of the online advertising ecosystem. We describe the notice and assurance services we provide to clients as our “InForm.” Wherever possible, we deliver InForm services to consumers from  [http://info.evidon.com](http://info.evidon.com/) or http://c.betrad.com. The information below is designed to help you understand how our InForm manages consumer data. 
 
