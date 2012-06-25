@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolnsmart.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229171855id_/http%3A//www.coolnsmart.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolnsmart.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625221859id_/http%3A//www.coolnsmart.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ We may also log IP addresses for the purposes of systems administration or to re
 
 In general, we will not disclose your personal information to third parties except to the extent necessary to provide you with a requested service, or under circumstances required by law. We will disclose your personal information when we believe in good faith that any applicable law, regulation, or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights or the rights of another user.
 
-By using the Site, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time.
+By using this website, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may e-mail us with questions or concerns, but your only remedy is to discontinue use of the website. We reserve the right to modify this Privacy Statement at any time.
 
 Our site may contain links to other websites of interest. However, once you use these links to leave our site, we do not anymore have control over that website. Such sites are not governed by this privacy statement and we cannot be responsible for the protection and privacy of any information you provide to those sites. Exercise caution and read the privacy statement applicable to the website in question.
 
@@ -21,4 +21,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. To find out more about Google and its DoubleClick DART cookie used to generate interest-based advertising, or to opt out of Google’s use of cookies by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: admin (at) coolnsmart (dot) com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](http://www.coolnsmart.com/contact_us/), or e-mail us – admin (at) coolnsmart (dot) com
