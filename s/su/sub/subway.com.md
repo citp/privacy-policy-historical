@@ -1,121 +1,64 @@
-> *The following text is extracted and transformed from the subway.com privacy policy that was archived on 2011-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110329144622id_/http%3A//www.subway.com/subwayroot/DAIPrivPol.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subway.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625113212id_/http%3A//www.subway.com/subwayroot/privacyNotice.aspx) for the most accurate reproduction.*
 
-# DAI Privacy Policy
+# 
 
-**DAI PRIVACY POLICY**  
-Doctor’s Associates Inc.  
-Milford, Connecticut, USA  
-[ Legal Information](https://web.archive.org/subwayroot/legalDisclaimer.aspx)
+Franchise World Headquarters, LLC | Milford, Connecticut, USA
 
-|   
----|---  
-  |    
-Your privacy is very important to us. This Privacy Policy discloses how Doctor’s Associates Inc. (“DAI”) collects, protects, uses and shares personal information gathered about you. All personal information is collected in a fair and non-intrusive manner, with your voluntary consent. Personal Information is not accessible to anyone outside the specific function for which it is collected. DAI respects the privacy of our SUBWAY® Restaurant job applicants, franchisees, development agents, Subway® customers and other visitors to our websites who may choose to provide personal information. We recognize the need for appropriate protection and management of personal information that you provide to us. This Privacy Policy will assist you to understand what types of information we may collect, how that information may be used, and with whom the information may be shared.
+This Privacy Notice applies to information, including personal information, collected about you by Franchise World Headquarters, LLC (“FWH”), the SUBWAY® Group, and its affiliated companies and subsidiaries.
 
-DAI, the owner of the SUBWAY® Restaurant System is an affiliate of Franchise World Headquarters, LLC (“FWH”), a service provider to the SUBWAY® Group, which includes amongst other entities: DAI, Subway International B.V. (“SIBV”), Subway Systems Australia Pty Ltd (“SSA”), Subway Franchise Systems of Canada, Ltd. (“SFSC”), Subway Partners Colombia C.V. (“SPCCV”), Subway Systems do Brasil Ltda. (“SSB”), Sandwich and Salad Franchises of South Africa Pty Ltd. (“SSFSA”), Subway Systems India Private Limited (“SSIPL”). DAI owns and licenses the SUBWAY® trademark and SUBWAY® Restaurant System to its affiliates in order to develop SUBWAY® restaurants. FWH also provides DAI and its affiliates within the SUBWAY® Group with certain services, including but not limited to franchise marketing, franchisee training, and accounting services.
+Related Links
 
-This Privacy Policy explains DAI’s practices regarding the information collected online from users of the SUBWAY® Restaurant Systems website located at [ www.subway.com](http://www.subway.com/).
-
-In an effort to comply with the law, and our commitment to protect your personal information, we provide the following, which discloses our policies. Please note that this Privacy Policy does not govern the privacy policies and procedures of independently owned and operated SUBWAY® stores. In addition, this privacy policy does not govern the personal information handling policies and procedures of FWH or our affiliates within the SUBWAY® Group. For more information on FWH’s policies and procedures, please refer to FWH’s SUBWAY® Internet Privacy Policy located at: [ http://www.subway.com/subwayroot/FWHPrivPol.aspx](http://www.subway.com/subwayroot/FWHPrivPol.aspx).
-
- **What type of information do we collect?**  
-Personal Information is defined as any information concerning the personal or material circumstances of an identified or identifiable individual. An identifiable person is one who can be identified, directly or indirectly, by reference to a Social Security Number and/or Identification Number (hereinafter “SSN/I.N”) or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity.
-
-Personal Information shall include but is not limited to: name, home address, home telephone number, email address, SSN/I.N., financial information and employment related information such as may be found on resumes, applications, background verification information, or in employment references.
-
-DAI takes measures to maintain the confidentiality of your SSN/I.N. to protect your SSN/I.N from unlawful disclosure, and to limit access to your SSN/I.N. DAI will not make your SSN/I.N available to the general public, print your SSN/I.N on any card, require you to provide your SSN/I.N to access any products or services, transmit your SSN/I.N over the Internet unless the connection is secure or your SSN/I.N has been encrypted, or requires the transmittal of your SSN/I.N to access our Website without requiring additional authentication.
-
-Non-personal information is information that is already a matter of public record or knowledge. Business contact information is considered non-personal information and not subjected to special protection and it can be routinely shared with anyone inside or outside of the business. Business contact information shall include but is not limited to: business name, business address, business telephone number.
-
-We will never collect sensitive Personal Information except to comply with Affirmative Action data requirements. Sensitive Personal Information can include but is not limited to: information pertaining to gender, disabilities, and veteran status.
-
-**Cookies – Internet Users**  
-In addition to Personal Information, we use data collection devices such as "cookies" on certain web pages to help analyze our web page flow and measure promotional effectiveness. Cookies are pieces of information a website sends to an individual’s hard drive while they are viewing the website. Cookies allow the website to remember important information that will make your visit to the site more useful. We use cookies to help improve your future visits. If you do not wish to receive a cookie or if you wish to set your browser to warn you each time a cookie is being sent, or if you wish to turn off all cookies, use the options on your browser to assist you. The “Help” option on your browser may assist you in changing your cookie preferences. Please note that by turning cookies off, you will not have access to many features available on our website.
-
-**Children and Data Collection**  
-DAI adheres to the federal privacy protection standards as stated in the Children's Online Privacy Protection Act (“COPPA”). We care about the safety of children. We will not knowingly allow anyone under 13 to provide us any personally identifying information. Children under 13 years of age are required to obtain the express permission of a parent or guardian before submitting any Personal Information about themselves (such as their names, e-mail address, and phone number) over the Internet. If a child has provided us with personally-identifiable information without the consent of a parent or guardian, the parent or guardian of that child should contact the Privacy Officer immediately at [ privacyofficer@subway.com](mailto:privacyofficer@subway.com). We will use reasonable efforts to promptly delete the child's information from our servers.
-
-**Our Use of Your Information**  
-We use your Personal Information to facilitate the services you request. We have tailored our Privacy Policy to adequately inform you of the use of your Personal Information.
-
-**Collection and Use of SUBWAY® Customer Information**  
-DAI will not collect customer Personal Information, unless the customer contacts DAI directly. In order to adequately address a customer’s concern, their Personal Information may be shared with our affiliate FWH and other affiliates within the SUBWAY® Group, the SUBWAY® Group’s area Development Agents and franchisees. The SUBWAY® Group Development Agents assist with franchise sales, site location, training, and provide operational assistance to franchisees. Failure to provide necessary information may prevent DAI from fully addressing any customer concerns.
-
-**Collection and Use of SUBWAY® Franchisee and Prospective Franchisee Information**  
-If you choose to, you may submit via [ www.subway.com](http://www.subway.com/) an electronic application seeking consideration as a prospective SUBWAY® franchisee. By submitting an electronic application, you agree that we may disclose your personal information to our affiliates within the SUBWAY® Group, their Development Agents, other SUBWAY® Group affiliates, and third party service providers as part of their consideration to your inquiry and to help them conduct their franchise marketing efforts. Information on your online form will become part of any application for a franchise that you might later submit. We require our affiliates within the SUBWAY® Group and their Development Agents to respect DAI’s privacy practices and not use your personal information for purposes other than to carry out our instructions.
-
-By applying to become a SUBWAY® franchisee, a prospective franchisee consents to the collection, use, and disclosure of Personal Information in accordance with the following terms and conditions. We collect and use Personal Information in order to assist a prospective franchisee in applying to become a SUBWAY® restaurant franchisee and to assist our affiliates within the SUBWAY® Group in selecting franchisee candidates.
-
-Personal Information collected from prospective franchisees include, but is not limited to: name, address, telephone number, facsimile number, email address, date of birth, citizenship, educational background, criminal background, bank account information for Electronic Funds Transfer, financial statement, litigation history, and taxpayer identification number. Failure to provide requested Personal Information may negatively impact a prospective franchisee’s ability to become a franchisee. Once a prospective SUBWAY® restaurant franchisee becomes a franchisee, they may then reference themselves by their Franchise Agreement Number. In order to better service franchisees, a franchisee’s Personal Information may be shared between DAI and its affiliates within the SUBWAY® Group, pursuant to the service contracts between them.
-
-In order to effectively implement the SUBWAY® Gift Card Program, and to provide purchasing services to members, a franchisee’s Personal Information may be shared with an independent purchasing cooperative or other independent third party. The Personal Information shared with the independent purchasing cooperative shall include, but will not be limited to: name, address, credit card information, and other related information necessary for billing purposes, such as a mailing address for credit card validation, and bank account information, you provided to DAI to establish your pre-authorized account for the payment of royalties, advertising fees, and other charges. Subject to a franchisee’s agreement with the independent purchasing cooperative, the independent purchasing cooperative may bill a franchisee’s bank account for fees and other costs associated with the SUBWAY® Gift Card Program. If a franchisee does not wish to disclose this information, they must notify the Privacy Officer in writing as described in the section titled “Contact Information” below.
-
-A franchisee and/or prospective franchisee’s information may be shared with the SUBWAY® DAI Development Agent in their area. A Development Agent is an independent contractor of DAI. The Development Agents assist with franchise sales, site location, service franchisee leasing needs, provide operational assistance and related administrative functions, training to the franchisee. Development Agents also make recommendations as to whether a prospective franchisee in their territory should be granted a franchise. The Development Agent may use this information to: address a franchisee’s concerns in a customer complaint, respond to a franchisee’s inquiries for franchise sales, franchisee Personal Information may be shared during store transfers, and any other inquiry which may require a response. Franchisee Personal Information may also be shared with Subway Franchisee Advertising Fund Trust (“SFAFT”) in order to provide advertising services to member stores.
-
-Finally, upon becoming a SUBWAY® franchisee you consent to DAI disclosing former or past franchisee contact information including Personal Information in its Disclosure Document for one (1) year after leaving the system, as required by law, unless you advise otherwise. Contact our Privacy Officer in writing, either by email or regular mail received, of your desire to not have your details or contact information disclosed, corrected or changed when you sell or transfer your SUBWAY® store, or exit the SUBWAY® system (whether by termination or otherwise). To contact the Privacy Officer, please see the section provided below entitled “Contact Information”.
-
-**Collection and Use of SUBWAY® Development Agent Information**  
-By applying via [ www.subway.com](http://www.subway.com/) to become a SUBWAY® Development Agent, a Development Agent applicant consents to the collection, use, and disclosure of Personal Information in accordance with the following terms and conditions. We collect and use Personal Information in order to assist you in applying and evaluating you to become a SUBWAY® Development Agent. Personal Information is collected to assist our affiliates within the SUBWAY® Group in selecting Development Agent candidates and for the purpose of operating a development territory.
-
-Personal Information collected includes, but is not limited to: name, home address, home telephone number, facsimile number, email address, date of birth, bank account information for Electronic Funds Transfer, financial statement, resume, taxpayer identification number and background checks. Failure to provide necessary information may negatively impact your ability to become a Development Agent.
-
-Once a Development Agent candidate becomes a Development Agent, they may then reference themselves by their Development Agent Number. As a Development Agent within the SUBWAY® Group, certain business information with respect to stores within your territory may be shared in the aggregate amongst your DA community. Such business information may include, but is not limited to, 3 year DA Performance Report, Emerging Market Developing Activity Report, Developed Market Report, Subway Compared to other QSR Report, and the Weekly Same Store AUV and Units Report.
-
-**Sharing of Personal Information**  
-We may share Personal Information with our service providers, consultants and affiliates for our internal business purposes. Except as described in this Privacy Policy, DAI will not share Personal Information with a third party, unless a customer requests, consents to such disclosure, or disclosure is required or authorized by law. DAI reserves the right to disclose Personal Information to a third party if a law, regulation, search warrant, subpoena, or court order legally requires or authorizes us to do so. DAI also reserves the right to disclose and/or transfer Personal Information to a third party in the event of a proposed or actual purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal, or financing of all or any portion of DAI or of any of the business or assets or shares of DAI or a division thereof in order for a customer to continue to receive the same products and services from the third party.
-
-As described above, DAI, its affiliates within the SUBWAY® Group, third party service providers, and SUBWAY® Development Agents may share and exchange Personal Information in order to process franchisee applications, administer the SUBWAY® franchise system, and protect the integrity of the SUBWAY® franchise system and trademarks. Personal Information may be provided to a courier or freight forwarder to fulfill an order, which may have been requested from us.
-
-SUBWAY® Development Agents and other service providers are prohibited from using Personal Information for any purpose other than to provide assistance to DAI and its affiliates within the SUBWAY® Group. Development Agents are required to protect Personal Information disclosed by us and to comply with the general privacy principles described in this Privacy Policy.
-
-**Security**  
-We endeavor to protect your Personal Information using physical, electronic or procedural security measures appropriate to the sensitivity of the information in our control. These measures include safeguards to protect Personal Information against loss or theft, as well as unauthorized access, disclosure, copying, use and modification.
-
-We safeguard your Personal Information on the Internet by using industry-standard practices. Although "guaranteed security" does not exist either on or off the Internet, we make commercially reasonable efforts to make the collection and security of such information consistent with our Privacy Policy and all applicable laws and regulations. We maintain physical, electronic and procedural safeguards as appropriate to safeguard your Personal Information.
-
-Currently, our website utilizes a variety of different security measures designed to protect Personal Information of users both inside and outside SIBV, including the use of encryption mechanisms (e.g., Secure Socket Layers or SSLs), password protection, and other security measures to help prevent unauthorized access to your personally identifiable information. This helps maintain the confidentiality, privacy, and integrity of your transactions, and helps to protect your confidential information - such as credit card numbers, online forms, and financial data from loss, misuse, interception and hacking.
-
-**Storage, Retention and Accuracy of Personal Information**  
-DAI and its affiliates the SUBWAY® Group, insures that Personal Information is safeguarded against loss, access, use, modification, disclosure or other misuse. All reasonable steps are taken to prevent unauthorized use or disclosure of your Personal Information.
-
-DAI will retain your Personal Information only for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws, and your consent to such purpose(s) remains valid after termination of our relationship with you.
-
-We take all reasonable steps to insure that your Personal Information is accurate, up-to-date, complete, relevant and not misleading.
-
-**Contact Information**  
-You may contact the Privacy Officer to access, correct or delete your Personal Information. If necessary, the Privacy Officer will contact another employee to assist in completing your requested task.
-
-If you have any questions or complaints, please contact the Privacy Officer. The Privacy Officer can be reached by telephone at: (203) 877-4281 or 1-800-888-4848; by Facsimile at: (203) 876-6690; by email at: [ privacyofficer@subway.com](mailto:privacyofficer@subway.com); or by mail at Doctor’s Associates Inc., In Care of Franchise World Headquarters, LLC, 325 Bic Drive, Milford, CT, 06461, USA. We will address your concern and attempt to resolve any problem. Download Privacy Information Request Form here.
-
-**Links to Non-DAI Web Sites and Third Parties**  
-Please note that [ www.subway.com](http://www.subway.com/) may contain links to other web sites for your convenience and information. DAI does not control those sites or their privacy practices, which may differ from [ www.subway.com](http://www.subway.com/). DAI’s privacy policy cannot and does not apply to external websites. We do not endorse or make any representations about third party web sites. The personal data you choose to give to unrelated third parties is not covered by the DAI privacy policy. We encourage you to review the privacy policy of any company or website before submitting your Personal Information. Some third parties may choose to share their personal data with DAI; that sharing is governed by that third party company’s privacy policy.
-
-**Safe Harbor Compliance**  
-DAI is in compliance with the U.S. Department of Commerce Safe Harbor requirements regarding the transfer of personal information from the European Economic Area (“EEA”) or Switzerland to the United States. DAI has been Self-Certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of personal data transferred from the European Economic Area or Switzerland to the U.S., in accordance with the EU Directive on Personal Data Protection. The principles of Safe Harbor compliance are:
-
-  * Notice - Individuals must be informed that their data is being collected and about how it will be used;
-  * Choice - Individuals must have the ability to opt out of the collection and forward transfer of the data to third parties;
-  * Onward Transfer - Transfers of data to third parties may only occur to other organizations that follow adequate data protection principles;
-  * Security - Reasonable efforts must be made to prevent loss of collected information;
-  * Data Integrity - Data must be relevant and reliable for the purpose for which it was collected;
-  * Access - Individuals must be able to access information held about them, and correct or delete it if it is inaccurate;
-  * Enforcement - There must be effective means of enforcing these rules.
+  * Please [click here](https://web.archive.org/web/20120625113212id_/http%3A//www.subway.com/subwayroot/PrivacyPolicy-FWH.aspx) to read Franchise World Headquarters, LLC (FWH) Privacy Policy.
+  * Please [click here](https://web.archive.org/web/20120625113212id_/http%3A//www.subway.com/subwayroot/PrivacyPolicy-DAI.aspx) to read Doctor’s Associates Inc.’s (DAI) Privacy Policy.
+  * Please [click here](https://web.archive.org/web/20120625113212id_/http%3A//www.subway.com/subwayroot/PrivacyPolicy-SFB.aspx) to read Subway Franchise Advertising Fund Trust, Ltd. (SFAFT) Privacy Policy.
+  * To view your country’s specific Privacy Policy go to www.subway.com at the top of the page click INTERNATIONAL WEB SITES, click on your country, go the bottom of the page and click Privacy Policy.
+  * Please [click here](https://web.archive.org/web/20120625113212id_/http%3A//www.subway.com/subwayroot/TermsOfUse.aspx) to review the Terms and Conditions regarding our websites.
 
 
 
-We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Policy.
+Important Information
 
-Further information regarding the Safe Harbor principles and certification process can be found at [ www.export.gov/safeharbor](http://www.export.gov/safeharbor). 
+FWH, DAI, and SFAFT, have been Self-Certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of personal data transferred from the European Economic Area or Switzerland to the U.S., in accordance with the EU Directive on Personal Data Protection. Our privacy practices are consistent with:
 
-In addition, the U.S. Department of Commerce maintains a list of all compliant organizations, which can be accessed at [ http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+lis).
+  * The fair information practices established by the Organization for Economic Co-operation and Development (OECD).
+  * The European Union Data Protection Directive and the U.S. Department of Commerce Safe Harbor Program Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+  * The Asia Pacific Economic Cooperation forum (APEC) Privacy Framework.
+  * Applicable country, national, state and local data protection laws (some country’s laws require country specific information in a privacy policy).
 
-**Members of the European Union**  
-If you are a resident of the European Economic Area (“EEA”) or Switzerland and have any concerns or complaints, please first address these issues to the Privacy Officer. Doctor’s Associates Inc. is located in the United States, as are the servers that make our websites available. All matters relating to privacy issues and websites are governed by the laws of the United States and the State of Connecticut. If the Privacy Officer does not satisfactorily address a complaint within thirty (30) days, any dispute, controversy or claim shall be settled by an arbitration administered by an arbitration agency, such as the American Arbitration Association (“AAA”). All arbitrations will be conducted in English. Judgment rendered by the arbitrator may be entered in any court having jurisdiction. The costs of the arbitration will be borne equally by the parties. Connecticut, U.S.A. shall be the site of all hearings, and such hearings shall be before a single arbitrator. You may also submit complaints to the Federal Trade Commission at [ http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm) or via telephone at (202)382-4537.
 
-**International Privacy Policies**  
-DAI, an affiliate of the SUBWAY® Group, encourages you to view your country’s Privacy Policy at [ www.subway.com](http://www.subway.com/). To view your country’s Privacy Policy please go to [ www.subway.com](http://www.subway.com/). At the top of the page, please click on AROUND THE WORLD, and then click on your country. Go to the very bottom of your country’s page and click PRIVACY POLICY to view your country’s specific Privacy Policy.
 
-**Changes to our Privacy Policy**  
-DAI will update this Privacy Policy occasionally. When DAI posts changes to this Privacy Policy, we will also revise the "Last Updated" date below on DAI’s Privacy Policy. If there are material changes to this Privacy Policy, DAI will notify you by email, or by means of a notice on our home page. DAI encourages you to review this Privacy Policy periodically to be informed of how DAI is protecting your information and to be aware of any changes to the Privacy Policy. Your continued use of the site after the posting of any amended Privacy Policy shall constitute your agreement to be bound by any such changes. This Privacy Policy is incorporated into any Terms and Conditions governing the various websites and any programs or services operated or managed on or behalf of DAI. Any changes to this Privacy Policy are effective immediately after being posted by DAI.
+Personal Information We Collect
 
-LAST UPDATED: DAI 03/01/11
+  * We collect personal information obtained directly from you.
+  * We collect your personal information for various purposes, such as processing your order, corresponding with you, or in connection with a job application.
+  * We may collect information relating to your use of our websites through the use of various technologies, including cookies.
+
+
+
+Your Choices
+
+  * We give you choices about how we communicate with you.
+  * If you do not want to receive email, direct mail, or targeted advertisements regarding our products and services, simply tell us when you provide your personal information, or by following the directions in our Privacy Policy, in the email you receive from us, or on our websites in order to remove your name from our mailing lists.
+  * You have the right to access (review, correct, amend or delete) your personal information by contacting our Privacy Officer.
+
+
+
+How to Contact Us
+
+  * Please direct any question concerning our privacy practices to [privacyofficer@subway.com](mailto:privacyofficer@subway.com) or [fafprivacyofficer@subway.com](mailto:fafprivacyofficer@subway.com).
+  * Requests to unsubscribe from or “opt-out” of communications from FWH, DAI, SFAFT, and the SUBWAY® Group, may also be directed to [privacyofficer@subway.com](mailto:privacyofficer@subway.com)  or [fafprivacyofficer@subway.com](mailto:fafprivacyofficer@subway.com).
+  * Click here to download the Privacy Information Request Form here: [ http://www.subway.com/subwayroot/InfoRequestForm.pdf](http://www.subway.com/subwayroot/InfoRequestForm.pdf)
+  * Or mail your written inquiry/request to:
+
+Privacy Officer Franchise
+
+World Headquarters, LLC
+
+325 Bic Drive
+
+Milford, CT 06461
+
+LAST UPDATED: DAI 11/01/11
+
+
+
