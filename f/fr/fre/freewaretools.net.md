@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewaretools.net privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127083208id_/http%3A//freewaretools.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewaretools.net privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625222427id_/http%3A//freewaretools.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Freeware Tools - Free Software Downloads
 
@@ -26,3 +26,5 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of Freeware Tools – Download Free Software then you may contact us at privacy@freewaretools.net
 
 Last updated Thu, 24 Feb 2011 09:03
+
+Rating: 0.0/ **10** (0 votes cast)
