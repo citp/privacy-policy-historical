@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avinashtech.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119004526id_/http%3A//www.avinashtech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avinashtech.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626004223id_/http%3A//www.avinashtech.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
