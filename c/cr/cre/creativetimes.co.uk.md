@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativetimes.co.uk privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115210140id_/http%3A//www.creativetimes.co.uk/statics/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativetimes.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625055823id_/http%3A//www.creativetimes.co.uk/statics/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Creative Times
 
@@ -8,17 +8,17 @@
 
 The text below describes the ways in which we collect information from you when you use the service, and what we may use it for. Our privacy policy forms part of the terms and conditionsfor use of this website. By agreeing to these terms and conditions, you are consenting to our use of your personal data in accordance with this privacy policy.
 
-Creative Times is a Community Interest Companhy. The registered offices are located at 165E Burton Road, West Didsbury, Manchester, M20 2LN. If you have any other questions about this policy you can write to us at our head office for the attention of Phil Birchenall - or by email to [birchenall@thewhiteroomcec.com](mailto:birchenall@thewhiteroomcec.com)
+Creative Times is a Community Interest Companhy. The registered offices are located at 165E Burton Road, West Didsbury, Manchester, M20 2LN. If you have any other questions about this policy you can write to us at our head office for the attention of Phil Birchenall – or by email to [birchenall@thewhiteroomcec.com](mailto:birchenall@thewhiteroomcec.com)
 
 #### What data do we collect from you?
 
-We collect data from you ('user data') when you register to use this website and to receive newsletters, resources and information about events and opportunities.
+We collect data from you (‘user data’) when you register to use this website and to receive newsletters, resources and information about events and opportunities.
 
-This data can sometimes comprise personal data about individuals, to which UK data protection laws apply. These terms and conditions and the privacy protection policy describe Creative Times’s approach to fulfilling their obligations under those data protection laws.
+This data can sometimes comprise personal data about individuals, to which UK data protection laws apply. These terms and conditions and the privacy protection policy describe Creative Times?s approach to fulfilling their obligations under those data protection laws.
 
 #### The information we collect
 
-We may use "cookies" to store certain types of information each time you interact with our website. Cookies enable us to recognise your computer and allow us to see how you use our website. For example, we may track the areas of the website you visit to see what interests you in particular, and which sites you accessed the website from, and leave to visit next. It is normally possible to alter the settings of your computer so that cookies cannot be used in this way, but this may affect the way in which you can use our website. We also note, and save, information such as time of day, browser type and content requested. That information is used to provide more relevant services to our users.
+We may use “cookies” to store certain types of information each time you interact with our website. Cookies enable us to recognise your computer and allow us to see how you use our website. For example, we may track the areas of the website you visit to see what interests you in particular, and which sites you accessed the website from, and leave to visit next. It is normally possible to alter the settings of your computer so that cookies cannot be used in this way, but this may affect the way in which you can use our website. We also note, and save, information such as time of day, browser type and content requested. That information is used to provide more relevant services to our users.
 
 When you register as a user of our website, you will need to provide us with some of your personal data.
 
