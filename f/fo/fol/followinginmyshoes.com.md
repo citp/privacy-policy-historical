@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followinginmyshoes.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224131146id_/http%3A//followinginmyshoes.com/about/disclosure/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followinginmyshoes.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625105529id_/http%3A//followinginmyshoes.com/about/disclosure/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,5 +64,3 @@ followinginmyshoes@yahoo.com
 This document was last updated on June 10, 2011
 
 Privacy policy created by Generate Privacy Policy
-
-[Pin It](http://pinterest.com/pin/create/button/)
