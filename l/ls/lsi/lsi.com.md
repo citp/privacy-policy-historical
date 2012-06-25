@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsi.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209011401id_/http%3A//www.lsi.com/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsi.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625135830id_/http%3A//www.lsi.com/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,10 +28,37 @@ This site contains links to other websites. LSI is not responsible for the priva
 
 ### Using cookies
 
-LSI may use cookies on some website pages to help us serve you better. Cookies enable us to provide you with a more valuable experience by telling us which areas of the website are of most interest to you. You can set your browser to warn you before you collect a cookie. If you choose to disable cookies in your browser, you can still access most of our website but you may be unable to experience all the site's features and functionality.
+LSI uses cookies on website pages to help us serve you better. Cookies enable us to provide you with a more valuable experience by telling us which areas of the website are of most interest to you. You can set your browser to warn you before you collect a cookie. If you choose to disable cookies in your browser, you can still access most of our website but you may be unable to experience all of the site's features and functionality.
+
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
+
+The table below explains the cookies we use and why.
+
+​
+
+Cookie  | Name  | Purpose  | More information   
+---|---|---|---  
+Google® Analytics  | _utma  
+_utmb  
+_utmc  
+_utmz  | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  | [View the overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
+LSI site cookie acceptance  | LSICookiesAccepted  | This cookie is used to record if a user has accepted the use of cookies on the LSI website.  |    
+Online notification form cookie  | ASP.NET_SessionId  | This cookie is essential for the online notification form – the form that data controllers can use to notify LSI – to operate. It is set only for those people using the form. This cookie is deleted when you close your browser.  | [Visit the Microsoft website](http://support.microsoft.com/kb/899918)  
+  
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>. 
+
+**YouTube cookies**
+
+We embed videos from our official YouTube® channel, and YouTube may set cookies on your computer once you click on the YouTube video player. To find out more please visit [YouTube’s privacy policy page](http://www.youtube.com/t/privacy_at_youtube).
+
+**Search engine**
+
+The search engine on our website is designed to be as powerful and easy to use as the popular Bing® search engine Bing. The search is made possible by Microsoft® FAST search engine and continuously indexes the content on our site. All search requests are handled by the FAST search engine and the information is not passed on to any third party, including Microsoft. 
 
 ### Changes to this Privacy Statement
 
 If we change this Privacy Statement, we will post the revised statement here, with an updated revision date. If we make significant changes to our statement, we may also notify you by other means, such as sending an email. 
 
-Dec.2010 
+May, 2012 
