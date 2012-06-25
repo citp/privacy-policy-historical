@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the artvan.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102232813id_/http%3A//www.artvan.com/Furniture/Store/Content_PrivacyPolicy_10001_10052_-1%3FICID%3DFT-Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artvan.com privacy policy that was archived on 2012-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626000119id_/http%3A//www.artvan.com/Furniture/Store/Content_PrivacyPolicy_10001_10052_-1%3FICID%3DFT-Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class=" ext-strict"><head>
 <title>
@@ -133,6 +133,7 @@
 
 
  
+
 Privacy Policy &amp; Terms of Use
 
 	
@@ -212,7 +213,7 @@ function gup( name )
 		}
 	}
 </script>
-<style type="text/css" media="screen">#avslideshow {visibility:visible}</style><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=29161993"></script><script type="text/javascript" src="https://survey.112.2o7.net/survey/dynamic/suites/111/avfcomprod/list.js?1055303008489"></script></head>
+<style type="text/css" media="screen">#avslideshow {visibility:visible}</style><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=29161993"></script><script type="text/javascript" src="https://survey.112.2o7.net/survey/dynamic/suites/111/avfcomprod/list.js?375043798472"></script></head>
 <body onload="moveWindow();" class="  ext-safari ext-linux">
 
 
@@ -234,6 +235,92 @@ function gup( name )
 
 
 <!-- BEGIN HeaderDisplay.jspf -->
+
+<!-- START overlayCount logic -->
+<link rel="stylesheet" type="text/css" href="ArtVan/upload/webjs/wof-js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+
+
+
+<style type="text/css">
+
+    .iframe {
+
+        display:none;
+
+}
+
+
+
+#fancybox-frame {
+
+        width: 820px;
+
+        height: 620px;
+
+        border: none;
+
+        display: block;
+
+}
+
+
+
+</style>
+
+
+
+<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>-->
+
+<script type="text/javascript" src="ArtVan/upload/webjs/wof-js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+
+<script type="text/javascript">
+
+            $(document).ready(function() {
+
+                $(".iframe").fancybox({ 
+
+                'autoDimensions': false,
+
+                'width' : 825,
+
+                'height' : 625,
+
+                'transitionIn'  :   'elastic',
+
+                'transitionOut' :   'elastic',
+
+                'speedIn'   :   600, 
+
+                'speedOut'  :   200, 
+
+                'overlayShow'   :   true,
+
+                'autoScale' :   false,
+
+                'overlayOpacity':   0.8,
+
+                'centerOnScroll':   true,
+
+                'showCloseButton':  true
+
+
+
+                });
+
+
+
+
+
+                $(".iframe").trigger('click');
+
+            });
+
+
+
+</script>
+
+
+<!-- END overlayCount logic -->
 
 <!-- BEGIN cookie logic -->
  
@@ -399,6 +486,7 @@ function gup( name )
 
 
 
+
 <script type="text/javascript" language="javascript" src="/Furniture/ConsumerDirectStorefrontAssetStore/javascript/ext.js"></script>
 <script type="text/javascript" language="javascript" src="/Furniture/ConsumerDirectStorefrontAssetStore/javascript/site.js"></script>
 
@@ -427,6 +515,53 @@ function entsub(e, form) {
 	}
 }
 
+</script>
+
+<script language="JavaScript">
+<!--
+var t = "";
+
+function XMLHttpRequestDemo() {
+ var oRequest = new XMLHttpRequest();
+ var sURL  = "ArtVan/upload/webjs/GlobalBanner/gbannertest.txt";
+ var converttext = "";
+ var newtext = "";
+ var aNewtext = "";
+ 
+ oRequest.open("GET",sURL,false);
+ oRequest.setRequestHeader("User-Agent",navigator.userAgent);
+ oRequest.send(null)
+
+
+ if (oRequest.status==200) converttext = oRequest.responseText;
+ 
+else alert("Error executing XMLHttpRequest call!");
+ 
+
+newtext = converttext.replace(/\/a>/g,"/a>,");
+newtext = newtext.slice(0,-1);
+aNewtext = newtext.split(",");
+
+
+
+var n = aNewtext.length;
+
+var i = Math.floor(Math.random()*n);
+if (i==3) i=0;
+t = aNewtext[i];
+
+// Debugging:
+//alert(oRequest.responseText + ", " + converttext);
+//alert(t+", "+i);
+
+var ban = document.getElementById ? 
+    document.getElementById("rndmGBanner") : 
+    document.all.banner-wrapper;
+    
+ban.innerHTML = t;
+ 
+}
+//-->
 </script>
 
 
@@ -492,7 +627,7 @@ function entsub(e, form) {
 	                <li>|</li>
 	                <li><a href="LogonForm?langId=-1&amp;storeId=10052&amp;catalogId=10051" title="My Account" class="m_top_link">My Account</a></li>
 	                <li>|</li>
-	                <li><a href="InterestItemDisplay?storeId=10052&amp;catalogId=10001&amp;langId=-1&amp;listId=." title="Wish List" class="m_top_link">Wish List</a></li>
+	                <li><a href="InterestItemDisplay?storeId=10052&amp;catalogId=10051&amp;langId=-1&amp;listId=." title="Wish List" class="m_top_link">Wish List</a></li>
 	                <li>|</li>
 	                <li><a href="Content_contactUs_10051_10052_-1" title="Contact Us" class="m_top_link">Contact Us</a></li>
 	                <li>|</li>
@@ -626,9 +761,17 @@ function entsub(e, form) {
 
 
  
+
+<!--
 <div class="m_hours">
 	<em>Store Hours:</em> Mon - Fri 10 am - 9 pm, Sat 9 am - 9 pm, Sun 11 am - 6 pm
 </div>
+-->
+
+<div class="m_hours">
+	<em>Store Hours:</em> Mon - Fri 10 am - 9 pm, Sat 8 am - 9 pm, Sun 11 am - 6 pm
+</div>
+
         
 	            
 			        
@@ -665,7 +808,7 @@ function entsub(e, form) {
             
 	             
 	            <ul class="s_link">
-	            	<li><!-- BEGIN LivePerson Button Code --><a id="_lpChatBtn" class="chat" href="https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat29161993" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat29161993','width=475,height=400,resizable=yes');return false;">Live Chat</a><!-- END LivePerson Button code --></li>
+	            	<li><!-- BEGIN LivePerson Button Code --><a id="_lpChatBtn" class="chat" href="https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat29161993" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat29161993','width=475,height=400,resizable=yes');return false;">Live Chat from Michigan</a><!-- END LivePerson Button code --></li>
 	            	<li><a href="Content_roomPlanner_10051_10052_-1" title="Room Planner" class="planner">Room Planner</a></li>
 	                <li><a href="#" id="mrv" title="Recently Viewed Items" class="recent">Recently Viewed Items</a></li>
 	                <li>
@@ -805,6 +948,7 @@ function entsub(e, form) {
 
 
  
+
 
 
 	
@@ -981,112 +1125,6 @@ function entsub(e, form) {
 
 
 
-<table>
-<tbody>
-
-						
-
-						
-
-						
-
-						
-
-						
-
-	
-	
-		
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-	
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-			
-				
-			
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-			
- 
-
-
-	
-
-
-    <tr>
-        <td><a href="Product_Gift-Cards_10051_10052_-1_810001000_10101_"><img width="75" height="75" alt="" src="http://s7d3.scene7.com/is/image/ArtVanFurniture/AVF-GIFT-CARD?$HDRTHB$" border="0"></a></td>
-        <td><a href="Product_Gift-Cards_10051_10052_-1_810001000_10101_">Gift Cards</a></td>
-    </tr>
-    <tr>
-        <td colspan="2"><hr></td>
-    </tr>
-    
-
-
-</tbody>
-</table>
-
-
 		        </div>
    	      
 		        <div id="cartdiv" style="visibility: hidden; position: absolute; left: 755.016px; top: 42px;">
@@ -1231,6 +1269,7 @@ function entsub(e, form) {
  
 
 
+
 	
 	
 
@@ -1291,13 +1330,21 @@ function entsub(e, form) {
 			<li>
 				<a class="" href="ArtVanCategoryDisplayView?keyword=Leather%20Furniture%20Sets&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=88">Leather Furniture Sets</a>
 			</li>
+
+			<li>
+				<a class="" href="ArtVanCategoryDisplayView?keyword=Reclining%20Sofas&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=90">Reclining Sofas</a>
+			</li>
+		
+			<li>
+				<a class="" href="ArtVanCategoryDisplayView?keyword=Sectionals&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=238">Sectionals</a>
+			</li>
+			
+			<li>
+				<a class="" href="ArtVanCategoryDisplayView?keyword=Sleepers&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=239">Sleepers</a>
+			</li>
 		
 			<li>
 				<a class="" href="ArtVanCategoryDisplayView?keyword=Recliners&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=89">Recliners</a>
-			</li>
-
-			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Recliner%20Sofas&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=90">Recline Sofas</a>
 			</li>
 
 			
@@ -1310,9 +1357,7 @@ function entsub(e, form) {
 				<a class="" href="ArtVanCategoryDisplayView?keyword=Living%20Room%20Tables&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=92">Living Room Tables</a>
 			</li>
 
-			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Indoor%20Rattan%20&amp;%20Wicker&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=231">Indoor Rattan &amp; Wicker</a>
-			</li>
+			
 		</ul>
 	</li>
 
@@ -1367,12 +1412,22 @@ function entsub(e, form) {
 
 		</ul>
 	</li>
+	
 	<li>
-		<a class="sf-with-ul" href="Content_LP20110630-RealDeal_10001_10052_-1_N?ICID=HP320110811">TV Packages</a>
+		<a class="sf-with-ul">TV Center<span class="sf-sub-indicator"> »</span></a>
+		<ul style="display: none; visibility: hidden;">
+			<li>
+				<a class="" href="Content_realdeal_10001_10052_-1_N?ICID=HP320110811">TV Packages</a>
+			</li>
+			<li>
+				<a class="" href="ArtVanCategoryDisplayView?keyword=Media/TV%20Centers&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=81">Media/TV Centers</a>
+			</li>
+			<li>
+				<a class="" href="Content_PaulsTV_10001_10052_-1_N">Paul's TV</a>
+			</li>
+		</ul>
 	</li>
-	<li>
-		<a class="sf-with-ul" href="ArtVanCategoryDisplayView?keyword=Media/TV%20Centers&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=81">Media/TV Centers</a>
-	</li>
+	
 	<li>
 		<a class="sf-with-ul" href="ArtVanTopCategoryDisplayView?keyword=Home-Office&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=83">Home Office<span class="sf-sub-indicator"> »</span></a>
 
@@ -1418,43 +1473,48 @@ function entsub(e, form) {
 			<li>
 				<a class="" href="ArtVanCategoryDisplayView?keyword=Push%20Back%20Recliners&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=228">Push Back Recliners</a>
 			</li>
-
+		
+			<li>
+				<a class="" href="ArtVanCategoryDisplayView?keyword=All Recliners&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=248">All Recliners</a>
+			</li>
+			
 		</ul>
 
 	</li>
 	<li>
 		
-		<a class="sf-with-ul" href="Content_LP20101226-PureSleep_10001_10052_-1_N">Mattresses<span class="sf-sub-indicator"> »</span></a>
+		
+		<a class="sf-with-ul">Mattresses<span class="sf-sub-indicator"> »</span></a>
 		<ul style="display: none; visibility: hidden;">
 			
 
 			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Innerspring&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=230">Innerspring</a>
+				<a class="" href="Content_LP20101226-PureSleep_10001_10052_-1_N">Mattresses</a>
 			</li>
+						
+			<li>
+				<a class="" href="ArtVanCategoryDisplayView?langId=-1&amp;storeId=10052&amp;N=218&amp;catalogId=10051">Pillows</a>
+			</li>
+			
+			
 
-			<li>
-				<a class="" href="Content_Tempur-Pedic_10001_10052_-1_N">Tempur-Pedic</a>
-			</li>
+			
 
-			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Memory%20or%20Latex%20Foam&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=107">Memory or Latex Foam</a>
-			</li>
-		
-			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Bed%20Frames&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=108">Bed Frames</a>
-			</li>
-		
+			
+			
 			<li>
 				<a class="" href="ArtVanCategoryDisplayView?keyword=Mattress%20Protectors&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=109">Mattress Protectors</a>
 			</li>
 		
 			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Adjustable%20Bed%20Mattresses&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=134">Adjustable Bed Mattresses</a>
+				<a class="" href="ArtVanCategoryDisplayView?keyword=Adjustable%20Bed%20Mattresses&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=134">Adjustable Beds</a>
 			</li>
 		
 			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Sleep%20Accessories&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=110">Sleep Accessories</a>
+				<a class="" href="ArtVanCategoryDisplayView?keyword=Bed%20Frames&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=108">Bed Frames</a>
 			</li>
+			
+			
 
 		</ul>
 
@@ -1464,7 +1524,7 @@ function entsub(e, form) {
 
 		<ul style="display: none; visibility: hidden;">
 			<li>
-				<a class="" style="background: #BC3024; border-color: #BC3024; color: #FFF;" href="Content_ArfVan_10001_10052_-1_N">Arf Van</a>
+				<a class="" href="Content_ArfVan_10001_10052_-1_N">Arf Van - Pet Products</a>
 			</li>
 
 			<li>
@@ -1472,11 +1532,11 @@ function entsub(e, form) {
 			</li>
 		
 			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Accents&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=123">Accents</a>
+				<a class="" href="ArtVanCategoryDisplayView?keyword=Area%20Rugs&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=120">Area Rugs</a>
 			</li>
 		
 			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Area%20Rugs&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=120">Area Rugs</a>
+				<a class="" href="ArtVanCategoryDisplayView?keyword=Bed%20Linens&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=125">Bed Linens</a>
 			</li>
 		
 			<li>
@@ -1485,6 +1545,10 @@ function entsub(e, form) {
 		
 			<li>
 				<a class="" href="ArtVanCategoryDisplayView?keyword=Curios&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=119">Curios</a>
+			</li>
+
+			<li>
+				<a class="" href="ArtVanCategoryDisplayView?keyword=Decorative%20Furniture&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=123">Decorative Furniture</a>
 			</li>
 
 			<li>
@@ -1498,9 +1562,9 @@ function entsub(e, form) {
 			<li>
 				<a class="" href="ArtVanCategoryDisplayView?keyword=Mirrors&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=127">Mirrors</a>
 			</li>
-		
+				
 			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Bed%20Linens&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=125">Bed Linens</a>
+				<a class="" href="ArtVanCategoryDisplayView?keyword=Small%20Indulgences&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=237">Small Indulgences</a>
 			</li>
 		
 			<li>
@@ -1509,13 +1573,14 @@ function entsub(e, form) {
 
 		</ul>
 	</li>
-	
+	<li class="sfABY">
 		
 		
+		<a class="" href="Content_ArtsBackyard_10001_10052_-1_N">Art's Backyard</a>
 		
 
 	
-	<li class="sfclearance">	
+	</li><li class="sfclearance">	
 		<a class="sf-with-ul" href="ArtVanClearanceCategoryDisplayView?keyword=Clearance&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140">Clearance<span class="sf-sub-indicator"> »</span></a>
 
 		<ul style="display: none; visibility: hidden;">
@@ -1526,18 +1591,28 @@ function entsub(e, form) {
 			<li>
 				<a class="" href="ArtVanCategoryDisplayView?keyword=Bedrooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+79">Bedrooms</a>
 			</li>
+			
+			
+			
+			<li>
+				<a class="" href="Content_ikidzHome_10001_10052_-1_N">iKidz</a>
+			</li>
 		
 			<li>
 				<a class="" href="ArtVanCategoryDisplayView?keyword=Dining%20Rooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+80">Dining Rooms</a>
 			</li>
 		
-			
-
-			
+			<li>
+				<a class="" href="ArtVanCategoryDisplayView?keyword=Media/TV%20Centers&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+81">Media/TV Centers</a>
+			</li>
 		
 			<li>
 				<a class="" href="ArtVanCategoryDisplayView?keyword=Recliners&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+84">Recliners</a>
 			</li>
+		
+			<li>
+				<a class="" href="ArtVanCategoryDisplayView?keyword=Home%20Office%20Furniture&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+83">Home Office</a>
+			</li>		
 		
 			<li>
 				<a class="" href="ArtVanCategoryDisplayView?keyword=Accessories&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+85">Accessories</a>
@@ -1561,145 +1636,11 @@ function entsub(e, form) {
 	</table>	
 	
 </div>
-<div id="globalBanner">	
 
 
+<div><img onload="XMLHttpRequestDemo();" src="ArtVan/upload/webimages/pixel.jpg" style="display: none;"></div>
+<div id="rndmGBanner" style="border-left: 2px solid #d2d1cf; border-right: 2px solid #d2d1cf; margin: 0; padding: 3px 0; text-align: center; width: 947px; background-color: #fff; *padding: 0;*margin-left: 1px;"></div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-<style type="text/css">
-
-#globalBanner .GBinside {padding: 0 !important;}
-#globalBanner a {background-color: #fff !important;}
-#subNavEndeca {padding-top: 0 !important;}
-	
-</style>
-
-<div class="GBinside">
-<a href="Content_ShipToStore_10001_10052_-1_N?ICID=GBSHIPTOSTORE"><img src="ArtVan/upload/webimages/globalBanners/gbanner-shiptostore.jpg" alt="FREE SHIPPING WHEN YOU HAVE IT SHIPPED TO STORE" title="FREE SHIPPING WHEN YOU HAVE IT SHIPPED TO STORE"></a>
-</div>
-</div>
 <!--END HEADER-->
 <!-- End - JSP File name:  style3/CachedHeaderDisplay.jsp -->
 
@@ -1879,6 +1820,7 @@ function entsub(e, form) {
  
 
 
+
 <!-- BEGIN ContentContainerTop.jsp -->
 
 
@@ -2032,6 +1974,7 @@ function entsub(e, form) {
 
 
  
+
 Privacy Policy &amp; Terms of Use
 
 				
@@ -2169,6 +2112,7 @@ Privacy Policy &amp; Terms of Use
 
 
  
+
 
 
 				
@@ -2313,6 +2257,7 @@ Privacy Policy &amp; Terms of Use
  
 
 
+
 		
 
    		
@@ -2447,6 +2392,7 @@ Privacy Policy &amp; Terms of Use
  
 
 
+
 		
 
    		
@@ -2581,6 +2527,7 @@ Privacy Policy &amp; Terms of Use
  
 
 
+
 		
 
    		
@@ -2713,6 +2660,7 @@ Privacy Policy &amp; Terms of Use
 
 
  
+
 
 
 		
@@ -2851,6 +2799,7 @@ Privacy Policy &amp; Terms of Use
 
 
  
+
 
 
 		
@@ -3056,6 +3005,7 @@ Privacy Policy &amp; Terms of Use
  
 
 
+
 <!-- BEGIN ContentContainerBottom.jsp -->
 
 <!-- This file is empty. Add content here that you want as a common wrapper for your main content. -->
@@ -3244,6 +3194,7 @@ Privacy Policy &amp; Terms of Use
 
 
 
+
 <script language="javascript">
 
 function submitEmail(form)
@@ -3411,6 +3362,7 @@ function submitEmail(form)
 
 
  
+
 <ul class="footerNav">
   <li class="f_title">About Us</li>
   <li><a href="Content_aboutUs_10001_10052_-1?ICID=FT-About" title="About Art Van" class="f_link">About Art Van</a></li>
@@ -3550,6 +3502,7 @@ function submitEmail(form)
 
 
  
+
 <ul class="footerNav">
   <li class="f_title">Guest Services</li>
   <li><a href="Content_TSG_10001_10052_-1?ICID=FT-TSG" title="Total Satisfaction Guarantee" class="f_link">Total Satisfaction Guarantee</a></li>
@@ -3688,6 +3641,7 @@ function submitEmail(form)
 
 
  
+
 <ul class="footerNav">
   <li class="f_title">Shop</li>
   <!--li><a href="CatalogRequestFormView?langId=-1&amp;storeId=10052&amp;catalogId=10001" title="Catalog Request" class="f_link">Catalog Request</a></li-->
@@ -3834,6 +3788,7 @@ function submitEmail(form)
 
 
  
+
 <ul class="footerNavLast">
   <li class="f_title">Social &amp; Resources</li>
   <li><a href="http://www.facebook.com/art.van.furniture" title="Like Art Van on Facebook" class="f_link">Like Art Van on Facebook</a></li>
@@ -3943,4 +3898,4 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <!-- End SiteCatalyst code version: H.14. -->
 
 
-<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
