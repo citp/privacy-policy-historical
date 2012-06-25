@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the native-instruments.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205002237id_/http%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the native-instruments.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625110840id_/http%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # LEGAL INFORMATION : PRIVACY POLICY | NATIVE INSTRUMENTS : COMPANY
 
@@ -26,7 +26,7 @@ HRB 72458
 USt-IdNr. DE 20 374 7747 
 
 Reponsible Data Protection Officer:   
-**Daniel Wedewardt**   
+**Kai-Hendrik Weutzing**   
 [privacy@native-instruments.de](mailto:privacy@native-instruments.de)
 
 Further information can be found in our [public procedures register](http://www.native-instruments.com/en/company/legal-information/privacy-policy/verfahrensverzeichnis/). 
