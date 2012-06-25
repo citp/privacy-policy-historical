@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the fiat.co.uk privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008081134id_/http%3A//www.fiat.co.uk/Content/%3Fid%3D3024) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiat.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625232416id_/http%3A//www.fiat.co.uk/Content/%3Fid%3D3024) for the most accurate reproduction.*
 
 # Privacy Information for www.fiat.co.uk| Fiat.co.uk
 
+**There has been  recent changes in the law relating to Cookies, please see below our updated Cookie policy. You can also visit our dedicated **[**Cookies page**](https://web.archive.org/Content/?id=25111 "Cookies page") **, which  explains what a Cookie is, how they are used, and how they can be removed or rejected.**  
 This website is operated by Fiat Group Automobiles UK Ltd ("Fiat" or "Fiat Group Automobiles UK"). For more information about us and how you can contact us please see the [Contact Us](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=3046 "contact| us") section. The financial services available from the [Finance](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=2570 "fiat finance services") section of the Fiat website (within Tell me about Fiat) are provided by Fiat Consumer Services, a trading style of FGA Capital UK Limited. The contract hire services are provided by FGA Contracts UK Limited.
 
 Fiat Group Automobiles SpA is the Italian parent company of the Fiat companies operating in the UK and any references to the "Fiat Group" in this policy are references to Fiat Group Automobiles SpA and its subsidiary companies.
@@ -60,15 +61,25 @@ We may occasionally create on-line games, which children may play. Parents shoul
 
 Fiat strictly protects the security of your personal information and your choices for its intended use. We use current industry standard technology to maintain the confidentiality and accuracy of the information you provide to us. To protect your personal information, we use "secure servers" with industry standard SSL 128 bit key encryption. However, the internet is not a secure medium so we cannot guarantee that any information you submit to us will be free from unauthorised third party intrusion.
 
-### _Cookies_
+### _Cookies_ Policy
 
-We use cookies to enhance the level of service we provide to you. Essentially a cookie is an identification card, which is uniquely yours and which is stored on your computer's hard disc. A cookie can only be read by the server that transmitted it to your computer. Cookies record the areas of the site you visit and the length of time you spend viewing them. By using cookies we will be able to see how our website is being used. This means we'll be able to identify the most popular areas of our website and make it easier for you to access them. It will help us to be more efficient as we can learn what information is important to our customers and what isn't. We can also discard web pages you don't use, and focus our efforts on delivering the information you need.
+A cookie is a small amount of data, often including a unique identifier that is sent to your computer or mobile phone browser from a website and is stored on the hard drive of your computer. Websites can send cookies to your browser if your preferences allow it, but to protect your privacy, a website can only access cookies that it has already sent to you. Many websites do this whenever a user visits, in order to track levels of online traffic.
 
-It is possible to set your computer to let you know when a cookie is issued, receive a warning before a cookie is stored or you can choose to disable them. You will need to refer to your browser instructions to do this but you should be aware that if you disable the cookies this will prevent us from providing you with certain personalised services and some parts of the site may not be accessible to you. For further information on how to disable cookies, visit the Interactive Advertising Bureau website ([www.iab.net](http://www.iab.net/ "Interactive Advertising Bureau"))
+On the fiat.co.uk website, cookies record your preferences to allow us to tailor the website to your needs. Users can set their devices to accept all cookies, to notify them when a cookie is received, or to not receive any cookies at all. The latter means that some features cannot be provided you may not be able to enjoy the full website experience. 
+
+When you visit a Fiat Group Automobiles UK website, the pages you see are downloaded to your device along with a cookie. Many websites do this to understand whether the device (and therefore probably its user) has visited the website before. This is done by checking to see it can find the cookie left there on the previous visit.   
+Each internet browser works differently, so check the "Help" menu to find out how to change your cookie preferences.
+
+Information gathered by cookies helps us to analyse our website visitors and provide you with a better user experience.   
+In addition, Fiat uses an independent research company, Psyma. They gather user feedback via an online survey including cookies, which is embedded on our website. We use this type of information to help improve the services we provide to our users. 
+
+In some areas of the Fiat.co.uk website we may embed photos and video content from websites such as YouTube and Flickr. Therefore when you visit a page with content embedded, you may be presented with cookies from these websites.  FGAUK does not control the distribution of these cookies.  You will need to check the relevant third party website for more information.
+
+A list of the main cookies that the FGAUK websites set (and what each is used for) together with ways to minimise the number of cookies you receive, can be found in the [**Cookies section**](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25111 "Cookies section").
 
 ### _Monitoring_
 
 To make sure we follow your instructions correctly and to improve our service to you through training of our staff, we may monitor or record telephone calls between us.
 
-Last updated: [28 June 2007]  
+Last updated: [17 Jan 2012]  
  
