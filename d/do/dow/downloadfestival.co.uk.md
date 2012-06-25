@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the downloadfestival.co.uk privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607033640id_/http%3A//www.downloadfestival.co.uk/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadfestival.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625145722id_/http%3A//www.downloadfestival.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Download Festival
+# Privacy Policy | Download Festival 2012 | Official Line Up and Tickets for 2012
+
+## Privacy Policy
 
 ## PRIVACY POLICY
 
