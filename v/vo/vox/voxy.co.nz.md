@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxy.co.nz privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214142452id_/http%3A//www.voxy.co.nz/about-voxy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxy.co.nz privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626002929id_/http%3A//www.voxy.co.nz/about-voxy) for the most accurate reproduction.*
 
 # About Voxy | Voxy.co.nz
 
@@ -6,23 +6,22 @@
 
 ## About
 
-Voxy.co.nz is updated throughout the day, seven days a week, with the latest New Zealand [entertainment](https://web.archive.org/entertainment), [sport](https://web.archive.org/sport), [lifestyle](https://web.archive.org/lifestyle), [health](https://web.archive.org/health), [national](https://web.archive.org/national), [business](https://web.archive.org/business), [politics](https://web.archive.org/politics), and [technology news](https://web.archive.org/technology).
+Voxy.co.nz is updated throughout the day, seven days a week, with the latest NZ entertainment, sport, lifestyle, health, national, business, politics, and technology news.
 
-Voxy's primary sources of content are its [community of bloggers](https://web.archive.org/blog) and the Fuseworks[ real-time news management](http://www.fuseworks.co.nz/) platform - though everyone with something to say is encouraged to contribute. 
+Voxy's primary sources of content are its community of bloggers and the Fuseworks[ real-time news management](http://fuseworksmedia.com/) platform - though everyone with something to say is encouraged to contribute. 
 
-Voxy is owned by Wellington based online publisher [Digital Advance Limited](http://www.digitaladvance.co.nz/), which also publishes [Guide2.co.nz (personal finance news and 'how to' guides)](http://www.guide2.co.nz/), [expert and community recommendations website, Recommended.co.nz](http://www.recommended.co.nz/) and [competitions and giveaways search engine, gimme.co.nz](http://www.gimme.co.nz/).
-
-**Join Voxy on  [](https://web.archive.org/join-voxy-twitter-or-facebook) or [](http://www.facebook.com/VoxyNZ)**
-
-Check out our [favourite sites](https://web.archive.org/links). 
+Voxy is owned by Wellington based online publisher Digital Advance Limited, which also publishes Guide2.co.nz ([personal finance news](http://www.guide2.co.nz/) and ['how to' guides](http://www.guide2.co.nz/money/guides)), expert and community recommendations website, [Recommended.co.nz](http://www.recommended.co.nz/) and competitions and giveaways search engine, [gimme.co.nz](http://www.gimme.co.nz/). **  
+**
 
 ## **Contact Voxy and Submit News**
 
 To submit news tips to Voxy please email  **news@digitaladvance.co.nz**.  For all corrections or suggested changes to content on this site please email **corrections@digitaladvance.co.nz**. 
 
-For website feedback, business development opportunities or advertising enquiries, team Voxy can be [contacted through this form](https://web.archive.org/contact), by emailing **admin@digitaladvance.co.nz**  or by phone - (04) 889 0188. 
+If you need help crafting your message, contact us for information on our [press release writing service](http://www.digitaladvance.co.nz/pr-services/press-release-writing-service/).
 
-For other contacts please see the [About page of Voxy publisher Digital Advance Limited](http://www.digitaladvance.co.nz/about).
+For website feedback, business development opportunities or advertising enquiries, team Voxy can be contacted by emailing **admin@digitaladvance.co.nz**  or by phone - (04) 889 0188. 
+
+For other contacts please see the [About page](http://www.digitaladvance.co.nz/about/) of Voxy publisher Digital Advance Limited.
 
 [Back to Top]
 
