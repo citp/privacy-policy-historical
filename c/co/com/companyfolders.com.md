@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the companyfolders.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103090031id_/http%3A//www.companyfolders.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companyfolders.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625123833id_/http%3A//www.companyfolders.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Company Folders, Inc Privacy Policy :: Company Folders, Inc
-
-  
-**Company Folders, Inc Privacy Policy**
+# Privacy Policy - Company Folders, Inc.
 
 At Company Folders, Inc., we respect our customers and understand that you are concerned about privacy. The purpose of this privacy policy is to let you know what kind of information we collect, how we use it, with whom it may be shared, what choices you have regarding our use of your information, and how you may review and change some of the data you provide to us. 
 
