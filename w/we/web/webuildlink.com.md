@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the webuildlink.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208195339id_/http%3A//www.webuildlink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuildlink.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625095627id_/http%3A//www.webuildlink.com/privacy.html) for the most accurate reproduction.*
 
 # WeBuildLink - Privacy
+
+[](http://www.webuildlink.com/contact.html)
 
 WeBuildLink (hereinafter the "Company") collects certain information from visitors and customers who visit our web site. The use of this information is detailed in the following Privacy Statement (hereinafter the "statement"). This information is accurate as of the date you are reading it, but it is subject to change without notice. If any portion of the statement is changed, a new copy of the statement will be posted here. The Company has no obligation to notify you of changes using any other method.
 
@@ -28,4 +30,4 @@ If you use our "Contact Us" form, or fill out any form which requests personal o
 
 
 
-Regardless of the information that you provide to us, we will never share that information with any third party, nor will we use that information for any purpose other than do transact business with you. Not withstanding the above, we will share any information that we have collected on you or your company with any recognized law enforcement or investigative agency provided that we are in possession of an order from a court of law that has jurisdiction over you or your company. Unless prohibited from doing so, we will notify you that this information has been released to the law enforcement or investigative agency. 
+Regardless of the information that you provide to us, we will never share that information with any third party, nor will we use that information for any purpose other than do transact business with you. Not withstanding the above, we will share any information that we have collected on you or your company with any recognized law enforcement or investigative agency provided that we are in possession of an order from a court of law that has jurisdiction over you or your company. Unless prohibited from doing so, we will notify you that this information has been released to the law enforcement or investigative agency.
