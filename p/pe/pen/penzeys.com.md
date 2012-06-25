@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penzeys.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219103150id_/http%3A//www.penzeys.com/cgi-bin/penzeys/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penzeys.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626002357id_/http%3A//www.penzeys.com/cgi-bin/penzeys/privacyPolicy.html) for the most accurate reproduction.*
 
 # Penzeys Spices Shipping Options
 
