@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deondesigns.ca privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103114008id_/http%3A//www.deondesigns.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deondesigns.ca privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625175721id_/http%3A//www.deondesigns.ca/privacy.php) for the most accurate reproduction.*
 
 # Deon Designs Privacy Policy Statement
 
@@ -48,7 +48,7 @@ After your User session, always remember to log out to ensure that others cannot
 
 Users may direct questions concerning this Privacy Policy and [contact us](https://www.deondesigns.ca/clients/whmcs/contact.php) any time.
 
-Last Updated: 09/03/2009
+Last Updated: 01/01/2012
 
   
 
