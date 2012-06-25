@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the twitchfilm.net privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231210140id_/http%3A//twitchfilm.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the twitchfilm.net privacy policy that was archived on 2012-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625204009id_/http%3A//twitchfilm.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <title>Twitch Film: Privacy Policy</title>
 <!-- Global javascript -->
-<script type="text/javascript" async="" src="https://platform.stumbleupon.com/1/widgets.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" id="ic_annonymous_pixel" src="http://pixel.indieclick.com/annonymous/domain/twitchfilm.net/reach/script_ic.js"></script><script src="http://pixel.indieclick.com/annonymous/dfp/dmd.ind.twitchfilm/ros/5/ns/728x90/script_dfp.js" type="text/javascript"></script><script src="http://pixel.indieclick.com/annonymous/dfp/dmd.ind.twitchfilm/ros/4/ns/300x250/script_dfp.js" type="text/javascript"></script><script src="http://pixel.indieclick.com/annonymous/dfp/dmd.ind.twitchfilm/ros/3/ns/300x250/script_dfp.js" type="text/javascript"></script><script src="http://pixel.indieclick.com/annonymous/dfp/dmd.ind.twitchfilm/ros/2/ns/300x250/script_dfp.js" type="text/javascript"></script><script src="http://pixel.indieclick.com/annonymous/dfp/dmd.ind.twitchfilm/ros/1/ns/728x90/script_dfp.js" type="text/javascript"></script><script type="text/javascript" src="http://twitchfilm.com//mt.js"></script>
+<script type="text/javascript" async="" id="ic_annonymous_pixel" src="http://pixel.indieclick.com/annonymous/domain/twitchfilm.net/reach/script_ic.js"></script><script src="http://pixel.indieclick.com/annonymous/dfp/dmd.ind.twitchfilm//8/ns/3x3/script_dfp.js" type="text/javascript"></script><script src="http://pixel.indieclick.com/annonymous/dfp/dmd.ind.twitchfilm//7/ns/2x2/script_dfp.js" type="text/javascript"></script><script type="text/javascript" async="" src="https://platform.stumbleupon.com/1/widgets.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="http://pixel.indieclick.com/annonymous/dfp/dmd.ind.twitchfilm//5/ns/728x90/script_dfp.js" type="text/javascript"></script><script src="http://pixel.indieclick.com/annonymous/dfp/dmd.ind.twitchfilm//3/ns/300x250/script_dfp.js" type="text/javascript"></script><script src="http://pixel.indieclick.com/annonymous/dfp/dmd.ind.twitchfilm//3/ns/300x250/script_dfp.js" type="text/javascript"></script><script src="http://pixel.indieclick.com/annonymous/dfp/dmd.ind.twitchfilm//4/ns/300x250,300x600/script_dfp.js" type="text/javascript"></script><script src="http://pixel.indieclick.com/annonymous/dfp/dmd.ind.twitchfilm//6/ns/990x90/script_dfp.js" type="text/javascript"></script><script src="http://pixel.indieclick.com/annonymous/dfp/dmd.ind.twitchfilm//5/ns/728x90/script_dfp.js" type="text/javascript"></script><script type="text/javascript" src="http://twitchfilm.com//mt.js"></script>
 
 <!-- Framework CSS -->
 <link rel="stylesheet" href="/css/blueprint/src/reset.css" type="text/css" media="screen, projection">
@@ -33,7 +33,8 @@
 <link rel="alternate" type="application/rss+xml" title="Twitch Comments RSS Feed" href="http://feeds.twitchfilm.net/TwitchComments">
 
 <!-- jQuery -->
-
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.0/themes/smoothness/jquery-ui.css">
 <style>
 .ui-tabs .ui-tabs-panel {
@@ -68,8 +69,6 @@
 #feat .asset-body { width: 290px; }
 #feat a.entryTitle,#feat a.authorName, #feat .readmore { color: #4D0300; }
 </style>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
 
 <!-- Dropdowns -->
 <link rel="stylesheet" href="/css/droppy.css" type="text/css">
@@ -88,48 +87,48 @@
 
 <script type="text/javascript">
 function hide(el) {
-	$('#'+el).fadeOut(500);
+	jQuery('#'+el).fadeOut(500);
 }
 $(document).ready(function () {
 
    /* nav bar */
-    $(function() {
-    	$('#nav').droppy({speed: 75});
+    jQuery(function() {
+    	jQuery('#nav').droppy({speed: 75});
   	});
 
    	/* tabs */ 
-	$("#tab-set > div").hide(); 
-	$("#tab-set > div").eq(0).show(); 
-  	$("ul.tabs a").click( 
+	jQuery("#tab-set > div").hide(); 
+	jQuery("#tab-set > div").eq(0).show(); 
+  	jQuery("ul.tabs a").click( 
   	function() { 
-  		$("ul.tabs a.selected").removeClass('selected'); 
-  		$("#tab-set > div").hide();
-  		$(""+$(this).attr("href")).fadeIn('fast'); 
-  		$(this).addClass('selected'); 
+  		jQuery("ul.tabs a.selected").removeClass('selected'); 
+  		jQuery("#tab-set > div").hide();
+  		jQuery(""+jQuery(this).attr("href")).fadeIn('fast'); 
+  		jQuery(this).addClass('selected'); 
   		return false; 
   	}
   	);
   	/* tabs2 */
- 	$("#tab-set2 > div").hide(); 
-	$("#tab-set2 > div").eq(0).show(); 
-  	$("ul.tabs2 a").click( 
+ 	jQuery("#tab-set2 > div").hide(); 
+	jQuery("#tab-set2 > div").eq(0).show(); 
+  	jQuery("ul.tabs2 a").click( 
  		function() { 
-  			$("ul.tabs2 a.selected").removeClass('selected'); 
-  			$("#tab-set2 > div").hide();
-  			$(""+$(this).attr("href")).fadeIn('fast'); 
-  			$(this).addClass('selected'); 
+  			jQuery("ul.tabs2 a.selected").removeClass('selected'); 
+  			jQuery("#tab-set2 > div").hide();
+  			jQuery(""+jQuery(this).attr("href")).fadeIn('fast'); 
+  			jQuery(this).addClass('selected'); 
   			return false; 
   		}
   	);
 	/* tabs in festival page */
- 	$("#tab-set-fest > div").hide(); 
-	$("#tab-set-fest > div").eq(0).show(); 
-  	$("ul.tabsFestival a").click( 
+ 	jQuery("#tab-set-fest > div").hide(); 
+	jQuery("#tab-set-fest > div").eq(0).show(); 
+  	jQuery("ul.tabsFestival a").click( 
  		function() { 
-  			$("ul.tabsFestival a.selected").removeClass('selected'); 
-  			$("#tab-set-fest > div").hide();
-  			$(""+$(this).attr("href")).fadeIn('fast'); 
-  			$(this).addClass('selected'); 
+  			jQuery("ul.tabsFestival a.selected").removeClass('selected'); 
+  			jQuery("#tab-set-fest > div").hide();
+  			jQuery(""+jQuery(this).attr("href")).fadeIn('fast'); 
+  			jQuery(this).addClass('selected'); 
   			return false; 
   		}
   	);
@@ -147,34 +146,35 @@ $(document).ready(function () {
 <meta name="description" content="Twitch specializes in spreading the news on strange little films from around the world.">
 <meta name="verify-v1" content="XZv4BQrrcp/aCgrHZH0snpXUYLAIFN+CfXA4EvppmV4=">
 <meta name="viewport" content="width=320">
+
 </head>
 
 <body>
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https:///ajs.php':'http://optimize.indieclick.com/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=188002");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https:///ajs.php?zoneid=188002&amp;cb=44921007134&amp;loc=https%3A//web.archive.org/web/20111231210140id_/http%253A//twitchfilm.com/privacy-policy.php"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=a20eb705&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=188002&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a20eb705' border='0' alt='' /></a></noscript>
+
+
+
 <div class="leaderboard"><div align="center">
+
+
 <!--
   ## IndieClick Ad Tag
-  ## publisher[Twitch Film]  zone[Run of site]  tile[1]  size[728x90]
+  ## publisher[Twitch Film]  zone[Run of site]  size[728x90]
   -->
 <script language="JavaScript" type="text/javascript">
-if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
-(function(){var u="dmd.ind.twitchfilm/ros/1/ns/728x90/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/;tile=1;dcopt=ist;sz=728x90;ord=9254634450856966?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.twitchfilm/;tile=1;dcopt=ist;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.ind.twitchfilm/;tile=1;dcopt=ist;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>
+//<![CDATA[
+(function(){var config={
+ ic_domain  :"dmd.ind.twitchfilm"
+,ic_size    :"728x90"
+,ic_zone    :""
+,ic_campaign:""
+,ic_version :"2"
+};var ic_config=(typeof window.top.ic_config=="undefined")?window.top.ic_config={}:window.top.ic_config;var in_iframe=(window!=window.top)?true:false;config.iframe=(in_iframe)?true:false;config.ord=(ic_config.ord)?ic_config.ord:ic_config.ord=Math.floor(Math.random()*10000000000000000);config.tile=(ic_config.tile)?++ic_config.tile:ic_config.tile=1;for(var key in ic_config){config[key]=ic_config[key]}var key_value=[];key_value[key_value.length]="sz="+config.ic_size;key_value[key_value.length]="tile="+config.tile;key_value[key_value.length]="ver="+config.ic_version;key_value[key_value.length]="frame="+config.iframe;key_value[key_value.length]="cm="+config.ic_campaign;for(var key in config.ic_keyValue){key_value[key_value.length]=key+"="+config.ic_keyValue[key]}if(!in_iframe&&!ic_config.dcopt){ic_config.dcopt=true;key_value[key_value.length]="dcopt=ist"}document.write('<span id="ic_'+config.ord+config.tile+'"></span>');var element=document.getElementById("ic_"+config.ord+config.tile);if(ic_config.asyncInit){ic_config.asyncInit(key_value,element)}var key_value=key_value.join(";");window.ic_ad_complete=function(){if(in_iframe){window.onload=function(){var elem=document.getElementById("icAdUnit");elem.style.position="absolute";window.frameElement.style.width=elem.offsetWidth+"px";window.frameElement.style.height=elem.offsetHeight+"px";window.frameElement.style.overflow="hidden";window.frameElement.style.border="0"}}};document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/'+config.ic_domain+"/"+config.ic_zone+";"+key_value+";ord="+config.ord+'?" type="text/javascript"><\/script>');document.write('<script type="text/javascript">window.ic_ad_complete();<\/script>')})();
+(function(){var u="dmd.ind.twitchfilm//5/ns/728x90/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
+//]]>
+</script><span id="ic_85679688488978531"></span><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/;sz=728x90;tile=1;ver=2;frame=false;cm=;dcopt=ist;ord=8567968848897853?" type="text/javascript"></script><script type="text/javascript">window.ic_ad_complete();</script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.twitchfilm/;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/dmd.ind.twitchfilm/;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
 <!-- End IndieClick Ad Tag -->
+
+
 </div></div>
 
 <div id="masthead">
@@ -245,9 +245,26 @@ mtUpdateSignInWidget();
 </li></ul>
 <a id="logolink" title="Return to the Twitch homepage" href="/"><img width="307" height="90" id="logo" alt="Twitch Logo" src="/img/logo.png"></a> 
 
-<span id="masthead_title">Breath</span><img width="1010" height="289" src="http://twitchfilm.com/mastheads/uploads/breathcq3_2.jpg">
-
+<span id="masthead_title">Attack the Block</span><img width="1010" height="289" src="http://twitchfilm.com/mastheads/AttackTheBlock-mh6.jpg">
 </div>
+
+<!--
+  ## IndieClick Ad Tag
+  ## publisher[Twitch Film]  zone[Run of site]  size[990x90]
+  -->
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+(function(){var config={
+ ic_domain  :"dmd.ind.twitchfilm"
+,ic_size    :"990x90"
+,ic_zone    :""
+,ic_campaign:""
+,ic_version :"2"
+};var ic_config=(typeof window.top.ic_config=="undefined")?window.top.ic_config={}:window.top.ic_config;var in_iframe=(window!=window.top)?true:false;config.iframe=(in_iframe)?true:false;config.ord=(ic_config.ord)?ic_config.ord:ic_config.ord=Math.floor(Math.random()*10000000000000000);config.tile=(ic_config.tile)?++ic_config.tile:ic_config.tile=1;for(var key in ic_config){config[key]=ic_config[key]}var key_value=[];key_value[key_value.length]="sz="+config.ic_size;key_value[key_value.length]="tile="+config.tile;key_value[key_value.length]="ver="+config.ic_version;key_value[key_value.length]="frame="+config.iframe;key_value[key_value.length]="cm="+config.ic_campaign;for(var key in config.ic_keyValue){key_value[key_value.length]=key+"="+config.ic_keyValue[key]}if(!in_iframe&&!ic_config.dcopt){ic_config.dcopt=true;key_value[key_value.length]="dcopt=ist"}document.write('<span id="ic_'+config.ord+config.tile+'"></span>');var element=document.getElementById("ic_"+config.ord+config.tile);if(ic_config.asyncInit){ic_config.asyncInit(key_value,element)}var key_value=key_value.join(";");window.ic_ad_complete=function(){if(in_iframe){window.onload=function(){var elem=document.getElementById("icAdUnit");elem.style.position="absolute";window.frameElement.style.width=elem.offsetWidth+"px";window.frameElement.style.height=elem.offsetHeight+"px";window.frameElement.style.overflow="hidden";window.frameElement.style.border="0"}}};document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/'+config.ic_domain+"/"+config.ic_zone+";"+key_value+";ord="+config.ord+'?" type="text/javascript"><\/script>');document.write('<script type="text/javascript">window.ic_ad_complete();<\/script>')})();
+(function(){var u="dmd.ind.twitchfilm//6/ns/990x90/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
+//]]>
+</script><span id="ic_85679688488978532"></span><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/;sz=990x90;tile=2;ver=2;frame=false;cm=;ord=8567968848897853?" type="text/javascript"></script><script type="text/javascript">window.ic_ad_complete();</script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.twitchfilm/;sz=990x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/dmd.ind.twitchfilm/;sz=990x90;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- End IndieClick Ad Tag -->
 <ul id="nav">
  <li class="span-2 news"><a href="/news"><span class="arrow">News</span></a>
   <ul>
@@ -284,6 +301,13 @@ mtUpdateSignInWidget();
     
     
      
+      <li><a href="http://twitchfilm.com/festivals/afi-afm-2011/">AFI / AFM 2011</a></li>
+     
+    
+   
+    
+    
+     
     
    
     
@@ -303,6 +327,11 @@ mtUpdateSignInWidget();
     
    
     
+    
+   
+    
+    
+     
     
    
     
@@ -394,12 +423,44 @@ mtUpdateSignInWidget();
    
     
     
+     
+      <li><a href="http://twitchfilm.com/festivals/etrange-2011/">Etrange 2011</a></li>
+     
+    
    
     
     
    
     
     
+   
+    
+    
+     
+    
+   
+    
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+      <li><a href="http://twitchfilm.com/festivals/fantasia-2011/">Fantasia 2011</a></li>
      
     
    
@@ -441,94 +502,7 @@ mtUpdateSignInWidget();
     
     
      
-    
-   
-    
-    
-     
-      <li><a href="http://twitchfilm.com/festivals/fantastic-fest-2010/">Fantastic Fest 2010</a></li>
-     
-    
-   
-    
-    
-     
-    
-   
-    
-    
-     
-    
-   
-    
-    
-     
-    
-   
-    
-    
-     
-    
-   
-    
-    
-   
-    
-    
-     
-    
-   
-    
-    
-   
-    
-    
-     
-    
-   
-    
-    
-     
-    
-   
-    
-    
-     
-    
-   
-    
-    
-     
-    
-   
-    
-    
-   
-    
-    
-     
-    
-   
-    
-    
-   
-    
-    
-     
-      <li><a href="http://twitchfilm.com/festivals/hot-docs-2011/">Hot Docs 2011</a></li>
-     
-    
-   
-    
-    
-   
-    
-    
-     
-    
-   
-    
-    
+      <li><a href="http://twitchfilm.com/festivals/fantastic-fest-2011/">Fantastic Fest 2011</a></li>
      
     
    
@@ -563,41 +537,7 @@ mtUpdateSignInWidget();
     
     
      
-      <li><a href="http://twitchfilm.com/festivals/laff-2011/">LAFF 2011</a></li>
-     
-    
-   
-    
-    
-     
-    
-   
-    
-    
-     
-    
-   
-    
-    
-     
-    
-   
-    
-    
-     
-    
-   
-    
-    
-   
-    
-    
-   
-    
-    
-   
-    
-    
+      <li><a href="http://twitchfilm.com/festivals/grimm-up-north-2011/">Grimm Up North 2011</a></li>
      
     
    
@@ -635,6 +575,47 @@ mtUpdateSignInWidget();
     
    
     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+   
+    
+    
+     
+    
+   
+    
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
     
    
     
@@ -687,28 +668,6 @@ mtUpdateSignInWidget();
    
     
     
-   
-    
-    
-     
-    
-   
-    
-    
-     
-    
-   
-    
-    
-   
-    
-    
-   
-    
-    
-   
-    
-    
      
     
    
@@ -723,6 +682,22 @@ mtUpdateSignInWidget();
     
    
     
+    
+   
+    
+    
+   
+    
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
     
    
     
@@ -745,6 +720,177 @@ mtUpdateSignInWidget();
    
     
     
+     
+    
+   
+    
+    
+     
+      <li><a href="http://twitchfilm.com/festivals/nyaff-2011/">NYAFF 2011</a></li>
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+   
+    
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+   
+    
+    
+     
+    
+   
+    
+    
+   
+    
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+   
+    
+    
+     
+    
+   
+    
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
+     
+      <li><a href="http://twitchfilm.com/festivals/sitges-2011/">Sitges 2011</a></li>
      
     
    
@@ -770,6 +916,13 @@ mtUpdateSignInWidget();
     
      
       <li><a href="http://twitchfilm.com/festivals/sundance-2011/">Sundance 2011</a></li>
+     
+    
+   
+    
+    
+     
+      <li><a href="http://twitchfilm.com/festivals/sundance-2012/">Sundance 2012</a></li>
      
     
    
@@ -802,6 +955,16 @@ mtUpdateSignInWidget();
    
     
     
+     
+    
+   
+    
+    
+     
+    
+   
+    
+    
    
     
     
@@ -865,6 +1028,13 @@ mtUpdateSignInWidget();
    
     
     
+     
+    
+   
+    
+    
+     
+      <li><a href="http://twitchfilm.com/festivals/toronto-film-festival-2011/">Toronto Film Festival 2011</a></li>
      
     
    
@@ -908,6 +1078,14 @@ mtUpdateSignInWidget();
     
    
     
+    
+   
+    
+    
+   
+    
+    
+     
     
    
     
@@ -978,25 +1156,38 @@ mtUpdateSignInWidget();
   
 
 
+
+
+
 <div class="span-8 last" id="sidebar">
 
+ 
  <div style="margin: 0 0 10px 0; padding: 0 0 10px 0; border-bottom: 1px solid #C3A8A5;">
-  <div class="ad310">
+    <div class="ad310">
 <!--
   ## IndieClick Ad Tag
-  ## publisher[Twitch Film]  zone[ros]  tile[2]  size[300x250]
+  ## publisher[Twitch Film]  zone[Run of site]  size[300x250,300x600]
   -->
 <script language="JavaScript" type="text/javascript">
-if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/ros;tile=2;dcopt=ist;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
-(function(){var u="dmd.ind.twitchfilm/ros/2/ns/300x250/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/ros;tile=2;dcopt=ist;sz=300x250;ord=9254634450856966?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.twitchfilm/ros;tile=2;dcopt=ist;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.ind.twitchfilm/ros;tile=2;dcopt=ist;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
+//<![CDATA[
+(function(){var config={
+ ic_domain  :"dmd.ind.twitchfilm"
+,ic_size    :"300x250,300x600"
+,ic_zone    :""
+,ic_campaign:""
+,ic_version :"2"
+};var ic_config=(typeof window.top.ic_config=="undefined")?window.top.ic_config={}:window.top.ic_config;var in_iframe=(window!=window.top)?true:false;config.iframe=(in_iframe)?true:false;config.ord=(ic_config.ord)?ic_config.ord:ic_config.ord=Math.floor(Math.random()*10000000000000000);config.tile=(ic_config.tile)?++ic_config.tile:ic_config.tile=1;for(var key in ic_config){config[key]=ic_config[key]}var key_value=[];key_value[key_value.length]="sz="+config.ic_size;key_value[key_value.length]="tile="+config.tile;key_value[key_value.length]="ver="+config.ic_version;key_value[key_value.length]="frame="+config.iframe;key_value[key_value.length]="cm="+config.ic_campaign;for(var key in config.ic_keyValue){key_value[key_value.length]=key+"="+config.ic_keyValue[key]}if(!in_iframe&&!ic_config.dcopt){ic_config.dcopt=true;key_value[key_value.length]="dcopt=ist"}document.write('<span id="ic_'+config.ord+config.tile+'"></span>');var element=document.getElementById("ic_"+config.ord+config.tile);if(ic_config.asyncInit){ic_config.asyncInit(key_value,element)}var key_value=key_value.join(";");window.ic_ad_complete=function(){if(in_iframe){window.onload=function(){var elem=document.getElementById("icAdUnit");elem.style.position="absolute";window.frameElement.style.width=elem.offsetWidth+"px";window.frameElement.style.height=elem.offsetHeight+"px";window.frameElement.style.overflow="hidden";window.frameElement.style.border="0"}}};document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/'+config.ic_domain+"/"+config.ic_zone+";"+key_value+";ord="+config.ord+'?" type="text/javascript"><\/script>');document.write('<script type="text/javascript">window.ic_ad_complete();<\/script>')})();
+(function(){var u="dmd.ind.twitchfilm//4/ns/300x250,300x600/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
+//]]>
+</script><span id="ic_85679688488978533"></span><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/;sz=300x250,300x600;tile=3;ver=2;frame=false;cm=;ord=8567968848897853?" type="text/javascript"></script><script type="text/javascript">window.ic_ad_complete();</script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.twitchfilm/;sz=300x250,300x600;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/dmd.ind.twitchfilm/;sz=300x250,300x600;ord=123456789?" border="0" alt="" /></a></noscript>
 <!-- End IndieClick Ad Tag -->
 </div>
 
- </div>
- <div style="margin: 10px 0 10px 0; padding: 10px 0 10px 0; border-bottom: 1px solid #C3A8A5;">
-  <h3 class="followtwitch">Follow Twitch</h3>
+   </div>
+
+  <div style="margin: 10px 0 10px 0; padding: 10px 0 10px 0; border-bottom: 1px solid #C3A8A5;">
+   <h3 class="followtwitch">Follow Twitch</h3>
+ 
 <div style="width: 310px; height: 62px; margin-bottom: 10px;">
 
  <div style="width: 50px; height: 62px; overflow: hidden; float: left; margin-right: 15px;">
@@ -1004,7 +1195,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
  </div>
 
  <div style="float: left; width: 50px; margin-right: 15px;">
-  <div style="position: relative;"><a href="http://twitter.com/twitchfilm/" target="_blank" style="color: #000; text-decoration: none;"><img src="/img/icons/twit_back.png"><div style="font-family: sans-serif; font-size: 14px; position: absolute; width: 50px; top: 5px; text-align: center;">12K</div></a></div>
+  <div style="position: relative;"><a href="http://twitter.com/twitchfilm/" target="_blank" style="color: #000; text-decoration: none;"><img src="/img/icons/twit_back.png"><div style="font-family: sans-serif; font-size: 14px; position: absolute; width: 50px; top: 5px; text-align: center;">16K</div></a></div>
  </div>
 
  <div style="float: left; width: 50px; margin-right: 15px;">
@@ -1016,7 +1207,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
  </div>
 
  <div style="float: left; width: 50px; float: left; margin-right: 0px;">
-  <div style="position: relative;"><a href="http://feeds.twitchfilm.net/TwitchEverything" target="_blank" style="color: #000; text-decoration: none;"><img src="/img/icons/feed_back.png"><div style="font-family: sans-serif; font-size: 14px; position: absolute; width: 50px; top: 5px; text-align: center;">6K</div></a></div>
+  <div style="position: relative;"><a href="http://feeds.twitchfilm.net/TwitchEverything" target="_blank" style="color: #000; text-decoration: none;"><img src="/img/icons/feed_back.png"><div style="font-family: sans-serif; font-size: 14px; position: absolute; width: 50px; top: 5px; text-align: center;">7K</div></a></div>
  </div>
 
 </div>
@@ -1034,24 +1225,26 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
  </p>
 </form>
  </div>
+ 
  <div style="margin: 10px 0 10px 0; padding: 10px 0 10px 0; border-bottom: 1px solid #C3A8A5;">
   <h3 class="mostpopular">Most Popular</h3><div id="most"><ul><li><a href="#most-1">Views</a></li><li><a href="#most-2">Shares</a></li><li><a href="#most-3">Comments</a></li></ul><div id="most-1"><div class="sort">1.
-				</div><div class="text"><a href="http://twitchfilm.com/reviews/2011/12/an-american-film-geeks-top-10-for-2011.php">An American Film Geek's Top 10 for 2011</a></div><div class="sort">2.
-				</div><div class="text"><a href="http://twitchfilm.com/news/2011/12/maria-ozawa-out-sexes-natasha-henstridge-in-tokyo-species.php">Maria Ozawa Out-Sexes Natasha Henstridge In TOKYO SPECIES</a></div><div class="sort">3.
-				</div><div class="text"><a href="http://twitchfilm.com/reviews/2011/12/the-flowers-of-war-review.php">THE FLOWERS OF WAR Review</a></div><div class="sort">4.
-				</div><div class="text"><a href="http://twitchfilm.com/reviews/2011/12/an-american-film-geeks-bottom-10-for-2011.php">An American Film Geek's Bottom 10 for 2011</a></div><div class="sort">5.
-				</div><div class="text"><a href="http://twitchfilm.com/news/2011/12/zhou-xun-directs-tony-leung-in-five-demon-traps.php">Zhou Xun Directs Tony Leung In FIVE DEMON TRAPS</a></div></div><div id="most-2"><div class="sort">1.
-				</div><div class="text"><a href="http://twitchfilm.com/news/2011/12/witness-the-devil-inside-in-exclusive-new-promo.php">Witness THE DEVIL INSIDE In Exclusive New Promo</a></div><div class="sort">2.
-				</div><div class="text"><a href="http://twitchfilm.com/reviews/2011/12/don-2-review.php">DON 2 Review</a></div><div class="sort">3.
-				</div><div class="text"><a href="http://twitchfilm.com/news/2011/12/the-hobbit-trailer-arrives.php">THE HOBBIT Trailer Arrives!</a></div><div class="sort">4.
-				</div><div class="text"><a href="http://twitchfilm.com/news/2011/12/a-dead-body-a-gun-and-twenty-kilos-of-missing-coke-thats-one-hell-of-a-black-out.php">A Dead Body, A Gun, And Twenty Kilos Of Missing Coke. That's One Hell Of A BLACK OUT.</a></div><div class="sort">5.
-				</div><div class="text"><a href="http://twitchfilm.com/news/2011/12/israel-explores-its-dark-side-with-psychological-thriller-goldberg-eisenberg.php">Israel Explores Its Dark Side With Psychological Thriller GOLDBERG &amp; EISENBERG</a></div></div><div id="most-3"><div class="sort">1.
-				</div><div class="text"><a href="http://twitchfilm.com/news/2011/12/the-dark-knight-rises-in-trailer-form.php">THE DARK KNIGHT RISES In Trailer Form</a></div><div class="sort">2.
-				</div><div class="text"><a href="http://twitchfilm.com/news/2011/12/whos-on-top-the-audiences-sexual-re-positioning-in-finchers-dragon-tattoo.php">Who's On Top?: The Audience's Sexual (Re-)Positioning in Fincher's DRAGON TATTOO</a></div><div class="sort">3.
-				</div><div class="text"><a href="http://twitchfilm.com/reviews/2011/12/the-girl-with-the-dragon-tattoo-review.php">THE GIRL WITH THE DRAGON TATTOO Review</a></div><div class="sort">4.
-				</div><div class="text"><a href="http://twitchfilm.com/reviews/2011/12/tree-of-life-blu-ray-review.php">TREE OF LIFE (Blu-ray) Review</a></div><div class="sort">5.
-				</div><div class="text"><a href="http://twitchfilm.com/featured/2011/12/twitch-salutes-five-of-our-favorite-christmas-movies.php">Twitch Salutes Four Of Our Favorite Christmas Movies </a></div></div></div><script>jQuery(function() { jQuery( "#most" ).tabs(); });</script>
+				</div><div class="text"><a href="http://twitchfilm.com/news/2012/06/kung-fu-proof-of-concept-for-keanu-reeves-man-of-tai-chi.php">Kung Fu Proof of Concept For Keanu Reeves' MAN OF TAI CHI</a></div><div class="sort">2.
+				</div><div class="text"><a href="http://twitchfilm.com/news/2012/06/liam-neeson-lays-waste-to-istanbul-in-first-taken-2-trailer.php">Liam Neeson Lays Waste To Istanbul In First TAKEN 2 Trailer</a></div><div class="sort">3.
+				</div><div class="text"><a href="http://twitchfilm.com/reviews/2012/06/review-the-amazing-spider-man-swings-through-the-motions.php">Review: THE AMAZING SPIDER-MAN Swings Through the Motions</a></div><div class="sort">4.
+				</div><div class="text"><a href="http://twitchfilm.com/reviews/2012/06/review-abraham-lincoln-vampire-hunter.php">Review: ABRAHAM LINCOLN: VAMPIRE HUNTER - Bloody But Toothless</a></div><div class="sort">5.
+				</div><div class="text"><a href="http://twitchfilm.com/news/2012/06/the-animated-black-dynamite-trailer-explodes-on-screen.php">The Animated BLACK DYNAMITE Trailer Explodes On Screen</a></div></div><div id="most-2"><div class="sort">1.
+				</div><div class="text"><a href="http://twitchfilm.com/news/2012/06/kung-fu-proof-of-concept-for-keanu-reeves-man-of-tai-chi.php">Kung Fu Proof of Concept For Keanu Reeves' MAN OF TAI CHI</a></div><div class="sort">2.
+				</div><div class="text"><a href="http://twitchfilm.com/news/2012/06/fantasia-announces-first-wave-of-2012-programming.php">Fantasia Announces First Wave Of 2012 Programming</a></div><div class="sort">3.
+				</div><div class="text"><a href="http://twitchfilm.com/news/2012/06/paul-verhoeven-gets-funding-and-roger-avary-for-jesus-of-nazareth.php">Paul Verhoeven Gets Funding And Roger Avary For JESUS OF NAZARETH</a></div><div class="sort">4.
+				</div><div class="text"><a href="http://twitchfilm.com/news/2012/06/red-band-trailer-for-sundance-hit-vhs.php">Red Band Trailer For Sundance Hit V/H/S</a></div><div class="sort">5.
+				</div><div class="text"><a href="http://twitchfilm.com/news/2012/06/tim-roth-is-david-cronenbergs-knifeman.php">Tim Roth Is David Cronenberg's KNIFEMAN</a></div></div><div id="most-3"><div class="sort">1.
+				</div><div class="text"><a href="http://twitchfilm.com/news/2012/06/yuen-wo-ping-kara-wai-ying-hung-interview-questions.php">Twitch Puts Your Questions to Yuen Wo Ping and Kara Wai Ying Hung!</a></div><div class="sort">2.
+				</div><div class="text"><a href="http://twitchfilm.com/news/2012/06/full-dredd-trailer-needs-more-slomo.php">Full DREDD Trailer Needs More SloMo</a></div><div class="sort">3.
+				</div><div class="text"><a href="http://twitchfilm.com/news/2012/06/have-your-say-with-refn-tackling-barbarella-who-should-wear-the-fuzzy-bikini.php">HAVE YOUR SAY: With Refn Tackling BARBARELLA, Who Should Wear The Fuzzy Bikini?</a></div><div class="sort">4.
+				</div><div class="text"><a href="http://twitchfilm.com/news/2012/06/tim-roth-is-david-cronenbergs-knifeman.php">Tim Roth Is David Cronenberg's KNIFEMAN</a></div><div class="sort">5.
+				</div><div class="text"><a href="http://twitchfilm.com/news/2012/06/promo-art-for-the-spierig-brothers-predestination-spoils-the-story.php">Promo Art For The Spierig Brothers' PREDESTINATION Spoils The Story ...</a></div></div></div><script>jQuery(function() { jQuery( "#most" ).tabs(); });</script>
  </div>
+
  <div style="margin: 10px 0 10px 0; padding: 10px 0 10px 0; border-bottom: 1px solid #C3A8A5;">
   <h3>Featured Articles</h3>
 <div id="feat">
@@ -1064,7 +1257,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
       
       
        
-        <img src="http://twitchfilm.com/news/assets_c/2011/12/AsterixStill-thumb-30x30-27674.jpg" width="30" alt=" ">
+        <img src="http://twitchfilm.com/reviews/assets_c/2012/06/BRAVE_Mother_Daughter-thumb-30x30-31747.jpg" width="30" alt=" ">
        
       
      </a>
@@ -1076,13 +1269,9 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
       
        
       
-       
       
        
-      
-      
-       
-        <img src="http://twitchfilm.com/news/assets_c/2011/12/dragontattoo06-thumb-30x30-27434.jpg" width="30" alt=" ">
+        <img src="http://twitchfilm.com/interviews/assets_c/2012/06/525883_421241031254660_1193676147_n-thumb-30x30-31647.jpeg" width="30" alt=" ">
        
       
      </a>
@@ -1096,7 +1285,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
       
       
        
-        <img src="http://twitchfilm.com/news/assets_c/2011/12/flowersofwar001-thumb-30x30-27523.jpg" width="30" alt=" ">
+        <img src="http://twitchfilm.com/news/assets_c/2012/06/gosaarella-thumb-30x30-31690.jpg" width="30" alt=" ">
        
       
      </a>
@@ -1110,7 +1299,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
       
       
        
-        <img src="http://twitchfilm.com/news/assets_c/2011/12/HYS-2012-thumb-30x30-27459.jpg" width="30" alt=" ">
+        <img src="http://twitchfilm.com/news/assets_c/2012/06/Yuen Wo Ping + Kara Wai-thumb-30x30-31633.jpg" width="30" alt=" ">
        
       
      </a>
@@ -1124,7 +1313,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
       
       
        
-        <img src="http://twitchfilm.com/news/assets_c/2011/12/Intouchables-thumb-30x30-27448.jpg" width="30" alt=" ">
+        <img src="http://twitchfilm.com/news/assets_c/2012/06/prometheus-thumb-30x30-31495.jpg" width="30" alt=" ">
        
       
      </a>
@@ -1132,30 +1321,30 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
    </ul>
  
     <div id="feat-1">
-     <div id="entry-35830" class="entry-asset asset hentry">
+     <div id="entry-39026" class="entry-asset asset hentry">
       <div class="imageholder310">
-       <a href="http://twitchfilm.com/news/2011/12/euro-beat-post-production-house-collapse-is-asterixs-biggest-challenge-yet.php">
+       <a href="http://twitchfilm.com/reviews/2012/06/the-kids-talk-brave.php">
         
         
          
-          <img src="http://twitchfilm.com/news/assets_c/2011/12/AsterixStill-thumb-310xauto-27674.jpg" width="310">
+          <img src="http://twitchfilm.com/reviews/assets_c/2012/06/BRAVE_Mother_Daughter-thumb-310xauto-31747.jpg" width="310">
          
         </a>
        
       </div>
 
       <div>
-       <div class="cLink"><a href="http://twitchfilm.com/news/2011/12/euro-beat-post-production-house-collapse-is-asterixs-biggest-challenge-yet.php#comments" class="entry-meta-comments" title="0 Comments"><span class="num">0</span></a></div>
+       <div class="cLink"><a href="http://twitchfilm.com/reviews/2012/06/the-kids-talk-brave.php#comments" class="entry-meta-comments" title="0 Comments"><span class="num">0</span></a></div>
 					
        <h4 class="asset-name entry-title">
-        <a class="entryTitle" href="http://twitchfilm.com/news/2011/12/euro-beat-post-production-house-collapse-is-asterixs-biggest-challenge-yet.php" rel="bookmark">
-         EURO BEAT: Post Production House Collapse Is ASTERIX's Biggest Challenge Yet
+        <a class="entryTitle" href="http://twitchfilm.com/reviews/2012/06/the-kids-talk-brave.php" rel="bookmark">
+         The Kids Talk Film:  BRAVE
         </a>
        </h4>
        <p class="meta1">
 	
 
-	     by <a href="http://twitchfilm.com/cgi-bin/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=20242" class="authorName">Brian Clark</a>, <span class="published" title="2011-12-27T12:00:54-05:00">December 27, 2011 12:00 PM</span>
+	     by <a href="http://twitchfilm.com/cgi-bin/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=21" class="authorName">Kurt Halfyard</a>, <span class="published" title="2012-06-25T10:47:51-05:00">June 25, 2012 10:47 AM</span>
 	
 </p>
       </div>
@@ -1163,8 +1352,8 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
       <div class="asset-content x-entry-content span-8 last">
        
         <div class="asset-body">
-          France's film industry found itself in turmoil this holiday season, following the ruling of a French commercial court to judicially liquidate producer Tarak Ben Ammar's Paris-based post-production group Quinta Industries and film laboratories LTC. Currently, the CNC (National Center of Cinematography and the moving image) and a number of producers and distributors are scrambling to make sure that an...
-         <a class="readmore" href="http://twitchfilm.com/news/2011/12/euro-beat-post-production-house-collapse-is-asterixs-biggest-challenge-yet.php">More »</a>
+         Twitch is certainly not the youngest of movie websites, and a number of the writing staff have children that are old enough to understand and consume media in a way that is both raw and fresh, but also with the inklings of consideration. &nbsp;In short, this is the age where many of us fall in love with the movies. &nbsp;Thus,...
+         <a class="readmore" href="http://twitchfilm.com/reviews/2012/06/the-kids-talk-brave.php">More »</a>
         </div>
        
       </div>
@@ -1175,30 +1364,30 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
     
    
     <div id="feat-2">
-     <div id="entry-35774" class="entry-asset asset hentry">
+     <div id="entry-38922" class="entry-asset asset hentry">
       <div class="imageholder310">
-       <a href="http://twitchfilm.com/news/2011/12/whos-on-top-the-audiences-sexual-re-positioning-in-finchers-dragon-tattoo.php">
+       <a href="http://twitchfilm.com/interviews/2012/06/laff-2012-interview-the-weirdly-wonderful-wayne-white-and-beauty-is-embarrassing-director-neil-berke.php">
         
         
          
-          <img src="http://twitchfilm.com/news/assets_c/2011/12/dragontattoo06-thumb-310xauto-27434.jpg" width="310">
+          <img src="http://twitchfilm.com/interviews/assets_c/2012/06/525883_421241031254660_1193676147_n-thumb-310xauto-31647.jpeg" width="310">
          
         </a>
        
       </div>
 
       <div>
-       <div class="cLink"><a href="http://twitchfilm.com/news/2011/12/whos-on-top-the-audiences-sexual-re-positioning-in-finchers-dragon-tattoo.php#comments" class="entry-meta-comments" title="14 Comments"><span class="num">14</span></a></div>
+       <div class="cLink"><a href="http://twitchfilm.com/interviews/2012/06/laff-2012-interview-the-weirdly-wonderful-wayne-white-and-beauty-is-embarrassing-director-neil-berke.php#comments" class="entry-meta-comments" title="0 Comments"><span class="num">0</span></a></div>
 					
        <h4 class="asset-name entry-title">
-        <a class="entryTitle" href="http://twitchfilm.com/news/2011/12/whos-on-top-the-audiences-sexual-re-positioning-in-finchers-dragon-tattoo.php" rel="bookmark">
-         Who's On Top?: The Audience's Sexual (Re-)Positioning in Fincher's DRAGON TATTOO
+        <a class="entryTitle" href="http://twitchfilm.com/interviews/2012/06/laff-2012-interview-the-weirdly-wonderful-wayne-white-and-beauty-is-embarrassing-director-neil-berke.php" rel="bookmark">
+         LAFF 2012 Interview: The Wonderfully Weird Wayne White and BEAUTY IS EMBARRASSING Director Neil Berkeley
         </a>
        </h4>
        <p class="meta1">
 	
 
-	     by <a href="http://twitchfilm.com/cgi-bin/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=15129" class="authorName">Peter Gutierrez</a>, <span class="published" title="2011-12-22T12:00:53-05:00">December 22, 2011 12:00 PM</span>
+	     by <a href="http://twitchfilm.com/cgi-bin/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=18879" class="authorName">Chase Whale</a>, <span class="published" title="2012-06-21T12:00:43-05:00">June 21, 2012 12:00 PM</span>
 	
 </p>
       </div>
@@ -1206,8 +1395,8 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
       <div class="asset-content x-entry-content span-8 last">
        
         <div class="asset-body">
-         With all the nasty dazzle of David Fincher's impressive new film, it's easy to overlook how it completes star Daniel Craig's evolution into a full-fledged Bond Girl. That's not to cast aspersions on the actor's masculinity, but rather the opposite: what's remarkable is how he functions as a perfect emblem of twenty-first century everyman manliness... while still serving as the...
-         <a class="readmore" href="http://twitchfilm.com/news/2011/12/whos-on-top-the-audiences-sexual-re-positioning-in-finchers-dragon-tattoo.php">More »</a>
+          A few days ago I was talking to BEAUTY IS EMBARRASSING's director Neil Berkeley on Twitter about setting up an interview. I saw the film a few days ago and it's unquestionably one of the best of the fest. Two days later, we bump into each other at a LAFF cocktail party, and Neil asked me if I wanted...
+         <a class="readmore" href="http://twitchfilm.com/interviews/2012/06/laff-2012-interview-the-weirdly-wonderful-wayne-white-and-beauty-is-embarrassing-director-neil-berke.php">More »</a>
         </div>
        
       </div>
@@ -1218,30 +1407,30 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
     
    
     <div id="feat-3">
-     <div id="entry-35688" class="entry-asset asset hentry">
+     <div id="entry-38969" class="entry-asset asset hentry">
       <div class="imageholder310">
-       <a href="http://twitchfilm.com/news/2011/12/china-beat-let-slip-the-bales-of-war.php">
+       <a href="http://twitchfilm.com/news/2012/06/have-your-say-with-refn-tackling-barbarella-who-should-wear-the-fuzzy-bikini.php">
         
         
          
-          <img src="http://twitchfilm.com/news/assets_c/2011/12/flowersofwar001-thumb-310xauto-27523.jpg" width="310">
+          <img src="http://twitchfilm.com/news/assets_c/2012/06/gosaarella-thumb-310xauto-31690.jpg" width="310">
          
         </a>
        
       </div>
 
       <div>
-       <div class="cLink"><a href="http://twitchfilm.com/news/2011/12/china-beat-let-slip-the-bales-of-war.php#comments" class="entry-meta-comments" title="5 Comments"><span class="num">5</span></a></div>
+       <div class="cLink"><a href="http://twitchfilm.com/news/2012/06/have-your-say-with-refn-tackling-barbarella-who-should-wear-the-fuzzy-bikini.php#comments" class="entry-meta-comments" title="14 Comments"><span class="num">14</span></a></div>
 					
        <h4 class="asset-name entry-title">
-        <a class="entryTitle" href="http://twitchfilm.com/news/2011/12/china-beat-let-slip-the-bales-of-war.php" rel="bookmark">
-         CHINA BEAT: Let Slip The Bales Of War
+        <a class="entryTitle" href="http://twitchfilm.com/news/2012/06/have-your-say-with-refn-tackling-barbarella-who-should-wear-the-fuzzy-bikini.php" rel="bookmark">
+         HAVE YOUR SAY: With Refn Tackling BARBARELLA, Who Should Wear The Fuzzy Bikini?
         </a>
        </h4>
        <p class="meta1">
 	
 
-	     by <a href="http://twitchfilm.com/cgi-bin/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=5366" class="authorName">James Marsh</a>, <span class="published" title="2011-12-17T06:55:54-05:00">December 17, 2011  6:55 AM</span>
+	     by <a href="http://twitchfilm.com/cgi-bin/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=14" class="authorName">Todd Brown</a>, <span class="published" title="2012-06-20T12:58:45-05:00">June 20, 2012 12:58 PM</span>
 	
 </p>
       </div>
@@ -1249,8 +1438,8 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
       <div class="asset-content x-entry-content span-8 last">
        
         <div class="asset-body">
-         As was the case pretty much everywhere else in the world, cinemagoers in Hong Kong have been torn this weekend between going to see Robert Downey Jr. and Jude Law return in SHERLOCK HOLMES - A GAME OF SHADOWS and Tom Cruise's latest action sequel, MISSION: IMPOSSIBLE - GHOST PROTOCOL. While I'm a fan of the latter, I wouldn't be...
-         <a class="readmore" href="http://twitchfilm.com/news/2011/12/china-beat-let-slip-the-bales-of-war.php">More »</a>
+          One of the most critically acclaimed indie directors of our time is bringing one of the most iconic science fiction figures of all time to the small screen, which raises a certain obvious question.Yes, Nicolas Winding Refn (Pusher, Drive, Only God Forgives) will both direct and produce a new television series of Barbarella but who should play the title...
+         <a class="readmore" href="http://twitchfilm.com/news/2012/06/have-your-say-with-refn-tackling-barbarella-who-should-wear-the-fuzzy-bikini.php">More »</a>
         </div>
        
       </div>
@@ -1261,30 +1450,30 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
     
    
     <div id="feat-4">
-     <div id="entry-35630" class="entry-asset asset hentry">
+     <div id="entry-38928" class="entry-asset asset hentry">
       <div class="imageholder310">
-       <a href="http://twitchfilm.com/news/2011/12/have-your-say-what-are-you-eagerly-anticipating-in-2012.php">
+       <a href="http://twitchfilm.com/news/2012/06/yuen-wo-ping-kara-wai-ying-hung-interview-questions.php">
         
         
          
-          <img src="http://twitchfilm.com/news/assets_c/2011/12/HYS-2012-thumb-310xauto-27459.jpg" width="310">
+          <img src="http://twitchfilm.com/news/assets_c/2012/06/Yuen Wo Ping + Kara Wai-thumb-310xauto-31633.jpg" width="310">
          
         </a>
        
       </div>
 
       <div>
-       <div class="cLink"><a href="http://twitchfilm.com/news/2011/12/have-your-say-what-are-you-eagerly-anticipating-in-2012.php#comments" class="entry-meta-comments" title="7 Comments"><span class="num">7</span></a></div>
+       <div class="cLink"><a href="http://twitchfilm.com/news/2012/06/yuen-wo-ping-kara-wai-ying-hung-interview-questions.php#comments" class="entry-meta-comments" title="21 Comments"><span class="num">21</span></a></div>
 					
        <h4 class="asset-name entry-title">
-        <a class="entryTitle" href="http://twitchfilm.com/news/2011/12/have-your-say-what-are-you-eagerly-anticipating-in-2012.php" rel="bookmark">
-         Have Your Say: what are you eagerly anticipating in 2012?
+        <a class="entryTitle" href="http://twitchfilm.com/news/2012/06/yuen-wo-ping-kara-wai-ying-hung-interview-questions.php" rel="bookmark">
+         Twitch Puts Your Questions to Yuen Wo Ping and Kara Wai Ying Hung!
         </a>
        </h4>
        <p class="meta1">
 	
 
-	     by <a href="http://twitchfilm.com/cgi-bin/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=6" class="authorName">Ard Vijn</a>, <span class="published" title="2011-12-14T06:59:13-05:00">December 14, 2011  6:59 AM</span>
+	     by <a href="http://twitchfilm.com/cgi-bin/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=5366" class="authorName">James Marsh</a>, <span class="published" title="2012-06-18T09:00:00-05:00">June 18, 2012  9:00 AM</span>
 	
 </p>
       </div>
@@ -1292,8 +1481,8 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
       <div class="asset-content x-entry-content span-8 last">
        
         <div class="asset-body">
-         How time flies! Soon, this very site will be rife again with end-of-year top 10 lists, looking back at the entirety of 2011. Being a lists sort of person (and I know there are more of us here at Twitch who share that trait) I'm already looking forward to it. Beyond that, though, lies the year 2012. What am I...
-         <a class="readmore" href="http://twitchfilm.com/news/2011/12/have-your-say-what-are-you-eagerly-anticipating-in-2012.php">More »</a>
+         In the world of martial arts, few names carry as much weight, respect or experience as Chinese actor/director/fight choreographer extraordinaire Yuen Wo Ping. A regular fixture of Hong Kong Cinema since the 1960s, Yuen has been involved in many of the industry's finest productions, from The Drunken Master and Once Upon A Time In China to Iron Monkey and Kung-Fu...
+         <a class="readmore" href="http://twitchfilm.com/news/2012/06/yuen-wo-ping-kara-wai-ying-hung-interview-questions.php">More »</a>
         </div>
        
       </div>
@@ -1304,30 +1493,30 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
     
    
     <div id="feat-5">
-     <div id="entry-35615" class="entry-asset asset hentry">
+     <div id="entry-38819" class="entry-asset asset hentry">
       <div class="imageholder310">
-       <a href="http://twitchfilm.com/news/2011/12/euro-beat-france-goes-warm-and-fuzzy.php">
+       <a href="http://twitchfilm.com/news/2012/06/prometheus-preboots-and-parasitic-cinema.php">
         
         
          
-          <img src="http://twitchfilm.com/news/assets_c/2011/12/Intouchables-thumb-310xauto-27448.jpg" width="310">
+          <img src="http://twitchfilm.com/news/assets_c/2012/06/prometheus-thumb-310xauto-31495.jpg" width="310">
          
         </a>
        
       </div>
 
       <div>
-       <div class="cLink"><a href="http://twitchfilm.com/news/2011/12/euro-beat-france-goes-warm-and-fuzzy.php#comments" class="entry-meta-comments" title="0 Comments"><span class="num">0</span></a></div>
+       <div class="cLink"><a href="http://twitchfilm.com/news/2012/06/prometheus-preboots-and-parasitic-cinema.php#comments" class="entry-meta-comments" title="28 Comments"><span class="num">28</span></a></div>
 					
        <h4 class="asset-name entry-title">
-        <a class="entryTitle" href="http://twitchfilm.com/news/2011/12/euro-beat-france-goes-warm-and-fuzzy.php" rel="bookmark">
-         EURO BEAT: France Goes Warm And Fuzzy
+        <a class="entryTitle" href="http://twitchfilm.com/news/2012/06/prometheus-preboots-and-parasitic-cinema.php" rel="bookmark">
+         PROMETHEUS, Preboots, and Parasitic Cinema
         </a>
        </h4>
        <p class="meta1">
 	
 
-	     by <a href="http://twitchfilm.com/cgi-bin/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=20242" class="authorName">Brian Clark</a>, <span class="published" title="2011-12-13T15:00:51-05:00">December 13, 2011  3:00 PM</span>
+	     by <a href="http://twitchfilm.com/cgi-bin/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=20014" class="authorName">Jason Gorber</a>, <span class="published" title="2012-06-13T15:55:30-05:00">June 13, 2012  3:55 PM</span>
 	
 </p>
       </div>
@@ -1335,8 +1524,8 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
       <div class="asset-content x-entry-content span-8 last">
        
         <div class="asset-body">
-          While many associate the French with a high-art, avant-garde film sensibility, their box office as of late suggests something completely different. Forget jump cuts, long takes, political diatribes and genre subversion - When the French go to the movies now, they really just want to laugh, cry a little and go home feeling warm inside.Consider the enormous success of...
-         <a class="readmore" href="http://twitchfilm.com/news/2011/12/euro-beat-france-goes-warm-and-fuzzy.php">More »</a>
+         Stepping back from the fracas that occurred within the nerdosphere over the release of Ridley Scott's latest film, one of the more interesting tensions that rose was between those that steadfastly refused to consider it a sequel to the Alien franchise, and those that judged it directly against the earlier films. This tension further manifested itself when comments from the...
+         <a class="readmore" href="http://twitchfilm.com/news/2012/06/prometheus-preboots-and-parasitic-cinema.php">More »</a>
         </div>
        
       </div>
@@ -1350,21 +1539,30 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 
 <script>jQuery(function() { jQuery( "#feat" ).tabs(); });</script>
  </div>
+
  <div style="margin: 10px 0 10px 0; padding: 10px 0 10px 0; border-bottom: 1px solid #C3A8A5;">
-  <div class="ad310">
+    <div class="ad310">
 <!--
   ## IndieClick Ad Tag
-  ## publisher[Twitch Film]  zone[ros]  tile[3]  size[300x250]
+  ## publisher[Twitch Film]  zone[Run of site]  size[300x250]
   -->
 <script language="JavaScript" type="text/javascript">
-if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/ros;tile=3;dcopt=ist;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
-(function(){var u="dmd.ind.twitchfilm/ros/3/ns/300x250/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/ros;tile=3;dcopt=ist;sz=300x250;ord=9254634450856966?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.twitchfilm/ros;tile=3;dcopt=ist;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.ind.twitchfilm/ros;tile=3;dcopt=ist;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
+//<![CDATA[
+(function(){var config={
+ ic_domain  :"dmd.ind.twitchfilm"
+,ic_size    :"300x250"
+,ic_zone    :""
+,ic_campaign:""
+,ic_version :"2"
+};var ic_config=(typeof window.top.ic_config=="undefined")?window.top.ic_config={}:window.top.ic_config;var in_iframe=(window!=window.top)?true:false;config.iframe=(in_iframe)?true:false;config.ord=(ic_config.ord)?ic_config.ord:ic_config.ord=Math.floor(Math.random()*10000000000000000);config.tile=(ic_config.tile)?++ic_config.tile:ic_config.tile=1;for(var key in ic_config){config[key]=ic_config[key]}var key_value=[];key_value[key_value.length]="sz="+config.ic_size;key_value[key_value.length]="tile="+config.tile;key_value[key_value.length]="ver="+config.ic_version;key_value[key_value.length]="frame="+config.iframe;key_value[key_value.length]="cm="+config.ic_campaign;for(var key in config.ic_keyValue){key_value[key_value.length]=key+"="+config.ic_keyValue[key]}if(!in_iframe&&!ic_config.dcopt){ic_config.dcopt=true;key_value[key_value.length]="dcopt=ist"}document.write('<span id="ic_'+config.ord+config.tile+'"></span>');var element=document.getElementById("ic_"+config.ord+config.tile);if(ic_config.asyncInit){ic_config.asyncInit(key_value,element)}var key_value=key_value.join(";");window.ic_ad_complete=function(){if(in_iframe){window.onload=function(){var elem=document.getElementById("icAdUnit");elem.style.position="absolute";window.frameElement.style.width=elem.offsetWidth+"px";window.frameElement.style.height=elem.offsetHeight+"px";window.frameElement.style.overflow="hidden";window.frameElement.style.border="0"}}};document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/'+config.ic_domain+"/"+config.ic_zone+";"+key_value+";ord="+config.ord+'?" type="text/javascript"><\/script>');document.write('<script type="text/javascript">window.ic_ad_complete();<\/script>')})();
+(function(){var u="dmd.ind.twitchfilm//3/ns/300x250/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
+//]]>
+</script><span id="ic_85679688488978534"></span><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/;sz=300x250;tile=4;ver=2;frame=false;cm=;ord=8567968848897853?" type="text/javascript"></script><script type="text/javascript">window.ic_ad_complete();</script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.twitchfilm/;sz=300x250;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/dmd.ind.twitchfilm/;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
 <!-- End IndieClick Ad Tag -->
 </div>
 
- </div>
+   </div>
+
  <div style="margin: 10px 0 10px 0; padding: 10px 0 10px 0; border-bottom: 1px solid #C3A8A5;">
   <h3 class="recent-comments">Recent Comments</h3>
   <div class="widget-content">
@@ -1372,13 +1570,13 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
  
 
  <li>
-  <span class="vcard author"><a href="http://twitchfilm.com/cgi-bin/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=9727">Phil Mucci</a></span> commented on
+  <span class="vcard author">darnmarr</span> commented on
   
-   <a href="http://twitchfilm.com/reviews/2011/12/tree-of-life-blu-ray-review.php">
-    <b>TREE OF LIFE (Blu-ray) Review</b>
+   <a href="http://twitchfilm.com/news/2012/06/full-dredd-trailer-needs-more-slomo.php">
+    <b>Full DREDD Trailer Needs More SloMo</b>
    </a>
   :
-  <span class="comment-body">Excellent piece J. Though I'm not a father, I had a deep reaction to the film as well.  Took me days to process.  While watching it, I fought the film...</span>
+  <span class="comment-body">The Slo-Mo is an inherent deviceof the plot: affecting time perception and colour. The Slo-Mo sequences are shot by Anthony Dodd Mantle, in 3D,  on cu...</span>
  </li>
 
  
@@ -1388,15 +1586,13 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
  
 
  <li>
-  <span class="vcard author"><fb:name uid="1240907727" linked="true" useyou="false"><a href="http://www.facebook.com/profile.php?id=1240907727">Asif</a></fb:name></span> commented on
+  <span class="vcard author"><a href="http://twitchfilm.com/cgi-bin/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=2633">James Dennis</a></span> commented on
   
-   <a href="http://twitchfilm.com/reviews/2011/12/the-flowers-of-war-review.php">
-    <b>THE FLOWERS OF WAR Review</b>
+   <a href="http://twitchfilm.com/news/2012/06/70s-rewind-convoy-sam-peckinpahs-frustrating-perplexing-trucker-movie.php">
+    <b>70s Rewind: CONVOY, Sam Peckinpah's Frustrating, Perplexing Trucker Movie</b>
    </a>
   :
-  <span class="comment-body">Can we once talk about the film, rather than history? Jeezz...
-
-Is it a good film? Plain and simple. That is the most important topic....</span>
+  <span class="comment-body">It's also on Lovefilm streaming in UK (not sure what cut though). I love this weirdy movie. The cafe brawl is mesmerising. In fact I find the whole mo...</span>
  </li>
 
  
@@ -1406,13 +1602,16 @@ Is it a good film? Plain and simple. That is the most important topic....</span>
  
 
  <li>
-  <span class="vcard author"><a href="http://twitchfilm.com/cgi-bin/mt/mt-cp.cgi?__mode=view&amp;blog_id=1&amp;id=64">J Hurtado</a></span> commented on
+  <span class="vcard author">sadoldgothjim</span> commented on
   
-   <a href="http://twitchfilm.com/reviews/2011/12/tree-of-life-blu-ray-review.php">
-    <b>TREE OF LIFE (Blu-ray) Review</b>
+   <a href="http://twitchfilm.com/news/2012/06/full-dredd-trailer-needs-more-slomo.php">
+    <b>Full DREDD Trailer Needs More SloMo</b>
    </a>
   :
-  <span class="comment-body">Thanks Peter and Sean.  I'm still sort of reeling from the emotional purge of writing this thing. What can I say....</span>
+  <span class="comment-body">*sigh* Repeating this is becoming a little tiresome:
+
+
+It's baffling how anyone who claims to know anything about the film industry can think that a 3...</span>
  </li>
 
  
@@ -1425,38 +1624,60 @@ Is it a good film? Plain and simple. That is the most important topic....</span>
 </div>
 <br style="clear: both;">
  </div>
+
  <div style="margin: 10px 0 10px 0; padding: 10px 0 10px 0; border-bottom: 1px solid #C3A8A5;">
   <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FTwitch%2F135596846484324&amp;width=310&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=272" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:310px; height:272px;" allowtransparency="true"></iframe>
  </div>
+
  <div style="margin: 10px 0 10px 0; padding: 10px 0 10px 0; border-bottom: 1px solid #C3A8A5;">
-  <div class="ad310">
+    <div class="ad310">
 <!--
   ## IndieClick Ad Tag
-  ## publisher[Twitch Film]  zone[ros]  tile[4]  size[300x250]
+  ## publisher[Twitch Film]  zone[Run of site]  size[300x250]
   -->
 <script language="JavaScript" type="text/javascript">
-if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/ros;tile=4;dcopt=ist;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
-(function(){var u="dmd.ind.twitchfilm/ros/4/ns/300x250/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/ros;tile=4;dcopt=ist;sz=300x250;ord=9254634450856966?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.twitchfilm/ros;tile=4;dcopt=ist;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.ind.twitchfilm/ros;tile=4;dcopt=ist;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
+//<![CDATA[
+(function(){var config={
+ ic_domain  :"dmd.ind.twitchfilm"
+,ic_size    :"300x250"
+,ic_zone    :""
+,ic_campaign:""
+,ic_version :"2"
+};var ic_config=(typeof window.top.ic_config=="undefined")?window.top.ic_config={}:window.top.ic_config;var in_iframe=(window!=window.top)?true:false;config.iframe=(in_iframe)?true:false;config.ord=(ic_config.ord)?ic_config.ord:ic_config.ord=Math.floor(Math.random()*10000000000000000);config.tile=(ic_config.tile)?++ic_config.tile:ic_config.tile=1;for(var key in ic_config){config[key]=ic_config[key]}var key_value=[];key_value[key_value.length]="sz="+config.ic_size;key_value[key_value.length]="tile="+config.tile;key_value[key_value.length]="ver="+config.ic_version;key_value[key_value.length]="frame="+config.iframe;key_value[key_value.length]="cm="+config.ic_campaign;for(var key in config.ic_keyValue){key_value[key_value.length]=key+"="+config.ic_keyValue[key]}if(!in_iframe&&!ic_config.dcopt){ic_config.dcopt=true;key_value[key_value.length]="dcopt=ist"}document.write('<span id="ic_'+config.ord+config.tile+'"></span>');var element=document.getElementById("ic_"+config.ord+config.tile);if(ic_config.asyncInit){ic_config.asyncInit(key_value,element)}var key_value=key_value.join(";");window.ic_ad_complete=function(){if(in_iframe){window.onload=function(){var elem=document.getElementById("icAdUnit");elem.style.position="absolute";window.frameElement.style.width=elem.offsetWidth+"px";window.frameElement.style.height=elem.offsetHeight+"px";window.frameElement.style.overflow="hidden";window.frameElement.style.border="0"}}};document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/'+config.ic_domain+"/"+config.ic_zone+";"+key_value+";ord="+config.ord+'?" type="text/javascript"><\/script>');document.write('<script type="text/javascript">window.ic_ad_complete();<\/script>')})();
+(function(){var u="dmd.ind.twitchfilm//3/ns/300x250/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
+//]]>
+</script><span id="ic_85679688488978535"></span><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/;sz=300x250;tile=5;ver=2;frame=false;cm=;ord=8567968848897853?" type="text/javascript"></script><script type="text/javascript">window.ic_ad_complete();</script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.twitchfilm/;sz=300x250;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/dmd.ind.twitchfilm/;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
 <!-- End IndieClick Ad Tag -->
 </div>
 
- </div>
+   </div>
+
+
 
 </div></div>
 <div class="footer">
  <div class="leaderboard"><div align="center">
+
+
 <!--
   ## IndieClick Ad Tag
-  ## publisher[Twitch Film]  zone[Run of site]  tile[5]  size[728x90]
+  ## publisher[Twitch Film]  zone[Run of site]  size[728x90]
   -->
 <script language="JavaScript" type="text/javascript">
-if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
-document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/;tile=5;dcopt=ist;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
-(function(){var u="dmd.ind.twitchfilm/ros/5/ns/728x90/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/;tile=5;dcopt=ist;sz=728x90;ord=9254634450856966?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.twitchfilm/;tile=5;dcopt=ist;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.ind.twitchfilm/;tile=5;dcopt=ist;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>
+//<![CDATA[
+(function(){var config={
+ ic_domain  :"dmd.ind.twitchfilm"
+,ic_size    :"728x90"
+,ic_zone    :""
+,ic_campaign:""
+,ic_version :"2"
+};var ic_config=(typeof window.top.ic_config=="undefined")?window.top.ic_config={}:window.top.ic_config;var in_iframe=(window!=window.top)?true:false;config.iframe=(in_iframe)?true:false;config.ord=(ic_config.ord)?ic_config.ord:ic_config.ord=Math.floor(Math.random()*10000000000000000);config.tile=(ic_config.tile)?++ic_config.tile:ic_config.tile=1;for(var key in ic_config){config[key]=ic_config[key]}var key_value=[];key_value[key_value.length]="sz="+config.ic_size;key_value[key_value.length]="tile="+config.tile;key_value[key_value.length]="ver="+config.ic_version;key_value[key_value.length]="frame="+config.iframe;key_value[key_value.length]="cm="+config.ic_campaign;for(var key in config.ic_keyValue){key_value[key_value.length]=key+"="+config.ic_keyValue[key]}if(!in_iframe&&!ic_config.dcopt){ic_config.dcopt=true;key_value[key_value.length]="dcopt=ist"}document.write('<span id="ic_'+config.ord+config.tile+'"></span>');var element=document.getElementById("ic_"+config.ord+config.tile);if(ic_config.asyncInit){ic_config.asyncInit(key_value,element)}var key_value=key_value.join(";");window.ic_ad_complete=function(){if(in_iframe){window.onload=function(){var elem=document.getElementById("icAdUnit");elem.style.position="absolute";window.frameElement.style.width=elem.offsetWidth+"px";window.frameElement.style.height=elem.offsetHeight+"px";window.frameElement.style.overflow="hidden";window.frameElement.style.border="0"}}};document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/'+config.ic_domain+"/"+config.ic_zone+";"+key_value+";ord="+config.ord+'?" type="text/javascript"><\/script>');document.write('<script type="text/javascript">window.ic_ad_complete();<\/script>')})();
+(function(){var u="dmd.ind.twitchfilm//5/ns/728x90/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
+//]]>
+</script><span id="ic_85679688488978536"></span><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/;sz=728x90;tile=6;ver=2;frame=false;cm=;ord=8567968848897853?" type="text/javascript"></script><script type="text/javascript">window.ic_ad_complete();</script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.twitchfilm/;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/dmd.ind.twitchfilm/;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
 <!-- End IndieClick Ad Tag -->
+
+
 </div></div>
 
  <div class="footerContent">
@@ -1508,20 +1729,6 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 <!-- End Twitch Google Analyitcs tag -->
 
-<!-- START: IndieClick Pixel -->
-<script type="text/javascript">
-(function() {
-var ic_element   = document.createElement('script');
-ic_element.type  = 'text/javascript';
-ic_element.async = true;
-ic_element.id    = 'ic_annonymous_pixel';
-ic_element.src   = 'http://pixel.indieclick.com/annonymous/domain/twitchfilm.net/reach/script_ic.js';
-var ic_script    = document.getElementsByTagName('script')[0];
-ic_script.parentNode.insertBefore(ic_element, ic_script);
-})();
-</script>
-<!-- END: IndieClick Pixel -->
-
 <!-- START: Quantcast Pixel -->
 <script type="text/javascript">
 _qoptions={
@@ -1568,30 +1775,65 @@ counters" /></a></div>
 <!-- End comScore Tag -->
 
 
+<!-- Start StumbleUpon Tag -->
+<script type="text/javascript"> 
+(function() { 
+ var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true; 
+ li.src = 'https://platform.stumbleupon.com/1/widgets.js'; 
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s); 
+})(); 
+</script>
+<!-- End StumbleUpon Tag -->
 
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://optimize.indieclick.com/www/delivery/ajs.php':'http://optimize.indieclick.com/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=324801");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=324801&amp;cb=69267330279&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111231210140id_/http%253A//twitchfilm.com/privacy-policy.php"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=ac59a484&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=324801&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ac59a484' border='0' alt='' /></a></noscript>
 
- <script type="text/javascript"> 
- (function() { 
-     var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true; 
-      li.src = 'https://platform.stumbleupon.com/1/widgets.js'; 
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s); 
- })(); 
- </script>
+
+
+<!--
+  ## IndieClick Ad Tag
+  ## publisher[Twitch Film]  zone[Run of site]  size[2x2]
+  -->
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+(function(){var config={
+ ic_domain  :"dmd.ind.twitchfilm"
+,ic_size    :"2x2"
+,ic_zone    :""
+,ic_campaign:""
+,ic_version :"2"
+};var ic_config=(typeof window.top.ic_config=="undefined")?window.top.ic_config={}:window.top.ic_config;var in_iframe=(window!=window.top)?true:false;config.iframe=(in_iframe)?true:false;config.ord=(ic_config.ord)?ic_config.ord:ic_config.ord=Math.floor(Math.random()*10000000000000000);config.tile=(ic_config.tile)?++ic_config.tile:ic_config.tile=1;for(var key in ic_config){config[key]=ic_config[key]}var key_value=[];key_value[key_value.length]="sz="+config.ic_size;key_value[key_value.length]="tile="+config.tile;key_value[key_value.length]="ver="+config.ic_version;key_value[key_value.length]="frame="+config.iframe;key_value[key_value.length]="cm="+config.ic_campaign;for(var key in config.ic_keyValue){key_value[key_value.length]=key+"="+config.ic_keyValue[key]}if(!in_iframe&&!ic_config.dcopt){ic_config.dcopt=true;key_value[key_value.length]="dcopt=ist"}document.write('<span id="ic_'+config.ord+config.tile+'"></span>');var element=document.getElementById("ic_"+config.ord+config.tile);if(ic_config.asyncInit){ic_config.asyncInit(key_value,element)}var key_value=key_value.join(";");window.ic_ad_complete=function(){if(in_iframe){window.onload=function(){var elem=document.getElementById("icAdUnit");elem.style.position="absolute";window.frameElement.style.width=elem.offsetWidth+"px";window.frameElement.style.height=elem.offsetHeight+"px";window.frameElement.style.overflow="hidden";window.frameElement.style.border="0"}}};document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/'+config.ic_domain+"/"+config.ic_zone+";"+key_value+";ord="+config.ord+'?" type="text/javascript"><\/script>');document.write('<script type="text/javascript">window.ic_ad_complete();<\/script>')})();
+(function(){var u="dmd.ind.twitchfilm//7/ns/2x2/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
+//]]>
+</script><span id="ic_85679688488978537"></span><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/;sz=2x2;tile=7;ver=2;frame=false;cm=;ord=8567968848897853?" type="text/javascript"></script><script type="text/javascript">window.ic_ad_complete();</script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.twitchfilm/;sz=2x2;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/dmd.ind.twitchfilm/;sz=2x2;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- End IndieClick Ad Tag -->
+
+<!--
+  ## IndieClick Ad Tag
+  ## publisher[Twitch Film]  zone[Run of site]  size[3x3]
+  -->
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+(function(){var config={
+ ic_domain  :"dmd.ind.twitchfilm"
+,ic_size    :"3x3"
+,ic_zone    :""
+,ic_campaign:""
+,ic_version :"2"
+};var ic_config=(typeof window.top.ic_config=="undefined")?window.top.ic_config={}:window.top.ic_config;var in_iframe=(window!=window.top)?true:false;config.iframe=(in_iframe)?true:false;config.ord=(ic_config.ord)?ic_config.ord:ic_config.ord=Math.floor(Math.random()*10000000000000000);config.tile=(ic_config.tile)?++ic_config.tile:ic_config.tile=1;for(var key in ic_config){config[key]=ic_config[key]}var key_value=[];key_value[key_value.length]="sz="+config.ic_size;key_value[key_value.length]="tile="+config.tile;key_value[key_value.length]="ver="+config.ic_version;key_value[key_value.length]="frame="+config.iframe;key_value[key_value.length]="cm="+config.ic_campaign;for(var key in config.ic_keyValue){key_value[key_value.length]=key+"="+config.ic_keyValue[key]}if(!in_iframe&&!ic_config.dcopt){ic_config.dcopt=true;key_value[key_value.length]="dcopt=ist"}document.write('<span id="ic_'+config.ord+config.tile+'"></span>');var element=document.getElementById("ic_"+config.ord+config.tile);if(ic_config.asyncInit){ic_config.asyncInit(key_value,element)}var key_value=key_value.join(";");window.ic_ad_complete=function(){if(in_iframe){window.onload=function(){var elem=document.getElementById("icAdUnit");elem.style.position="absolute";window.frameElement.style.width=elem.offsetWidth+"px";window.frameElement.style.height=elem.offsetHeight+"px";window.frameElement.style.overflow="hidden";window.frameElement.style.border="0"}}};document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/'+config.ic_domain+"/"+config.ic_zone+";"+key_value+";ord="+config.ord+'?" type="text/javascript"><\/script>');document.write('<script type="text/javascript">window.ic_ad_complete();<\/script>')})();
+(function(){var u="dmd.ind.twitchfilm//8/ns/3x3/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
+//]]>
+</script><span id="ic_85679688488978538"></span><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.twitchfilm/;sz=3x3;tile=8;ver=2;frame=false;cm=;ord=8567968848897853?" type="text/javascript"></script><script type="text/javascript">window.ic_ad_complete();</script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.twitchfilm/;sz=3x3;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/dmd.ind.twitchfilm/;sz=3x3;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- End IndieClick Ad Tag -->
+
+
+<!--
+  ## Place this IndieClick pixel code at the bottom of your page just above 
+  ## the </body> tag.
+  -->
+<script type="text/javascript">
+(function(){var e=document.createElement('script');e.type='text/javascript';e.async=true;e.id='ic_annonymous_pixel';
+e.src='http://pixel.indieclick.com/annonymous/domain/twitchfilm.net/reach/script_ic.js';
+var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
+</script>
 
 
 </body></html>
