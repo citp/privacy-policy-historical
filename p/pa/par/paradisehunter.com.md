@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paradisehunter.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209145800id_/http%3A//www.paradisehunter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paradisehunter.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625131957id_/http%3A//www.paradisehunter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Paradise Hunter
 
@@ -60,7 +60,7 @@ ParadiseHunter.com has searchable property listings that may display personal in
 
 If you create a listing and do not want people to contact you by phone, you must de-select the “Show my phone number in this listing” field.  As the vast majority of people want their phone number displayed, that is the default setting.  Visitors to our site also have the option of contacting you by e-mail.  In an effort to reduce SPAM, we do not display your e-mail address on our website.  Instead we offer visitors an online form to enter their questions and information, and then we forward the e-mail directly to you.  
 
-If you are interested in a property and choose to contact a lister by e-mail, the lister will receive your e-mail address as a means of responding to your initial inquiry.  ParadiseHunter.com has no control over the individual policies of each lister.  If you do not want your e-mail address shared in this fashion, you should not use the “Inquire about this Property” form.  Many of the listings on our website include a phone number as an alternate means of contact.
+If you are interested in a property and choose to contact a lister by e-mail or retrieve the advertisers phone number, the lister will receive your e-mail address as a means of responding to your initial inquiry.
 
 PAYMENT INFORMATION
 
@@ -151,13 +151,9 @@ ACCOUNT DEACTIVATION
 
 If you no longer wish to use our services, you may choose to deactivate your account by notifying us in writing at [help@paradisehunter.com](mailto:help@paradisehunter.com).
 
-BUSINESS TRANSITIONS   
-
-In the event Paradise Hunter Inc. goes through a business transition, such as a merger, an acquisition by another company, or the sale of all or a portion of it’s assets, your personally identifiable information may be among the assets transferred.  You will be notified by e-mail, or by a prominent notice on our website for a minimum of 30 days of any such change in ownership or control of your personal information.
-
 CHANGES TO THIS PRIVACY STATEMENT
 
-We’re constantly working to improve ParadiseHunter.com, and as such we may need to make changes to our Privacy Policy.  If this policy changes, we’ll let you know in our news feed (viewable in the My Page section of the website).  We’ll also put a date on this document so you can see how recently it was revised.
+We’re constantly working to improve ParadiseHunter.com, and as such we may need to make changes to our Privacy Policy.  If this policy changes, we’ll let you know in our news feed (viewable in the My Page section of the website).
 
 By visiting ParadiseHunter.com and using this website, you agree to be bound by the terms of this Privacy Policy and our Terms of Use.
 
