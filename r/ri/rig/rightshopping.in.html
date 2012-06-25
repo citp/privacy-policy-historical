@@ -1,18 +1,42 @@
-<!--The following is the downloaded HTML source of the rightshopping.in privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226153943id_/http%3A//www.rightshopping.in/Privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rightshopping.in privacy policy that was archived on 2012-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625180756id_/http%3A//www.rightshopping.in/Privacy_policy.asp) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-25206385-1']);
-  _gaq.push(['_trackPageview']);
+function showshopp(pid)
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+{
 
+ if(document.all)
+  {
+   var yy=document.body.scrollTop
+   if (yy<200)
+      {
+       yy=200
+      } 
+   else
+      {
+      yy=yy+100
+      } 
+  }
+  else
+  {
+  var yy= document.body.scrollTop  
+  yy=yy.toString() 
+  }
+ document.getElementById('dvload').style["display"]="block" ;
+ document.getElementById('dvload').style["visibility"]="visible" ;
+ document.getElementById('dvshop').style["display"]="block" ;
+ document.getElementById('dvshop').style["visibility"]="visible" ;
+ document.getElementById('pimage_s').style["display"]="block" ;
+ document.getElementById('pimage_s').style["visibility"]="visible" ;
+ var wdiv=document.getElementById('shopc');
+ var nwdiv=document.getElementById('dvshop');
+ nwdiv.style.top=yy
+ wdiv.innerHTML = '<iframe name="sh_frame" id="sh_frame"  width="700" height="350" frameborder="0" align="middle" src="going_to_shopping_cart.asp?pid='+pid+'"><\/iframe>';
+  move_alert('dvshop'); 
+  //document.getElementById('dvload').style["display"]="none" 
+} 
 </script>
 
 
@@ -28,7 +52,8 @@
 <body>
 <table width="1000" align="center" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td><style type="text/css">
+    <td><link rel="shortcut icon" type="image/x-icon" href="http://www.rightshopping.in/images/favicon1.ico">
+<style type="text/css">
 form{
 margin:0px;
 padding:0px;
@@ -125,8 +150,8 @@ function srchFn(fn)
           </tr>
           <tr>
             <td>&nbsp;</td>
-            <td width="51%"><a href="http://www.rightshopping.in/" title="Right Shopping"><img src="http://www.rightshopping.in/siteimages/shopping_logo.jpg" width="148" height="76" border="0" alt=""></a></td>
-            <td width="40%" valign="bottom" style="padding-bottom:4px;"><img src="http://www.rightshopping.in/siteimages/beta_bg1.gif" border="0" alt=""></td>
+            <td width="51%"><a href="http://www.rightshopping.in/" title="Right Shopping"><img src="http://www.rightshopping.in/siteimages/RS_Logo6.jpg" width="180" height="81" border="0" alt=""></a></td>
+            <td width="40%" valign="bottom" style="padding-bottom:4px;"><!--<img src="http://www.rightshopping.in/siteimages/beta_bg1.gif" border="0" alt="" />--></td>
           </tr>
         </tbody></table></td>
         <td width="411" height="90" align="center" valign="top"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -157,89 +182,88 @@ function srchFn(fn)
       </tr>
       <tr>
         <td colspan="2" align="center" valign="middle" style="line-height:31px;"><form name="fs" id="fs" style="padding:0px;margin:0px;" method="get" onsubmit="return srchFn(1)">
-          <table width="340" border="0" align="left" cellpadding="0" cellspacing="0" bgcolor="#ececec">
+          <table width="370" border="0" align="left" cellpadding="0" cellspacing="0" bgcolor="#ececec">
             <tbody><tr>
               <td width="4" align="center" valign="top">&nbsp;</td>
-              <td width="288" align="center" valign="top" height="18"><table width="256" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <td height="18" align="center" valign="middle"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-                    <tbody><tr>
-                      <td width="1" align="center" valign="middle"></td>
-                      <td width="155" height="22" align="center" valign="middle"><input type="text" class="search_f" style="WIDTH: 155px; height: 22px" tabindex="3" size="30" name="fsr" id="fsr" onkeypress="srchT(event,1)"></td>
-                      <td width="4" height="22" align="center" valign="top">&nbsp;</td>
-                      <td width="132" height="22" align="center" valign="middle"><select style="WIDTH: 132px; height: 22px;" id="cat" name="cat" tabindex="2" class="search_f">
-                        
-						 <option selected="selected" value="0" class="search_f">Choose Category</option>
-						 
-                <option value="1">Books</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="2">Camera</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="2">Computer</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="6">Games</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="2">Health Care</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="2">Home</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="2">IPod MP3</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="7">Jewellery</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="2">Kitchen</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="2">Laptop</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="10">Leather Items</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="2">Mobile</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="4">Movies</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="5">Music</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="2">Office Gadgets</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="9">Perfumes</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="2">Personal Care</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="8">Saree-Salwar</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="2">Tablet PC</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="3">Toys</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                <option value="2">Watches</option>
-				<!--<option value="4">Movies,Music,Games</option>-->
-                
-                      </select></td>
-                    </tr>
-                  </tbody></table></td>
-                </tr>
+              <td width="288" align="center" valign="top" height="25"><table width="256" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td height="18" align="center" valign="middle"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                        <tbody><tr>
+                          <td width="1" align="center" valign="middle"></td>
+                          <td width="200" height="24" align="center" valign="middle"><input type="text" class="search_f" style="WIDTH: 200px; height: 24px" tabindex="3" size="30" name="fsr" id="fsr" onkeypress="srchT(event,1)"></td>
+                          <td width="4" height="25" align="center" valign="top">&nbsp;</td>
+                          <td width="132" height="25" align="center" valign="middle"><select style="WIDTH: 132px; height: 25px; line-height:25px;" id="cat" name="cat" tabindex="2" class="search_f">
+                              <option selected="selected" value="0" class="search_f">Choose Category</option>
+                              
+                              <option value="1">Books</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="2">Camera</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="2">Computer</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="6">Games</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="2">Health Care</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="2">Home</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="2">IPod MP3</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="7">Jewellery</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="2">Kitchen</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="2">Laptop</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="10">Leather Items</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="2">Mobile</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="4">Movies</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="5">Music</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="2">Office Gadgets</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="9">Perfumes</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="2">Personal Care</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="8">Saree-Salwar</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="2">Tablet PC</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="3">Toys</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                              <option value="2">Watches</option>
+                              <!--<option value="4">Movies,Music,Games</option>-->
+                              
+                          </select></td>
+                        </tr>
+                    </tbody></table></td>
+                  </tr>
               </tbody></table></td>
-              <td width="81" align="left" valign="middle" style="background-color:#FFFFFF;"><input type="submit" style="background:url(http://rightshopping.in/siteimages/go_btn1.jpg); width:36; height:18; text-decoration:none; border:none; cursor:pointer " tabindex="4" value=""></td>
+              <td width="81" align="left" valign="middle" style="background-color:#FFFFFF;"><input name="submit" type="submit" style="background:url(http://rightshopping.in/siteimages/go_btn1.jpg); width:36; height:18; text-decoration:none; border:none; cursor:pointer " tabindex="4" value=""></td>
             </tr>
           </tbody></table>
         </form></td>
@@ -286,25 +310,25 @@ function srchFn(fn)
       <tbody><tr>
         <td><table width="1000" border="0" cellpadding="0" cellspacing="0" bgcolor="#0070ba">
           <tbody><tr>
-            <td width="55" height="29" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/Books/index.asp" class="menu_txt">Books</a></td>
+            <td width="55" height="29" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/Books/index.asp" class="menu_txt" title="Books">Books</a></td>
             <td width="1px" align="center" valign="middle" bgcolor="#FFFFFF"></td>
-            <td width="61" height="29" align="center" valign="middle"><a href="http://www.rightshopping.in/g/it.asp?C=Camera-India&amp;cid=2" class="menu_txt">Camera</a></td>
+            <td width="61" height="29" align="center" valign="middle"><a href="http://www.rightshopping.in/g/it.asp?C=Camera-India&amp;cid=2" class="menu_txt" title="Camera">Camera</a></td>
 			<td width="1px" align="center" valign="middle" bgcolor="#FFFFFF"></td>
-            <td width="94" height="29" align="center" valign="middle"><a href="http://www.rightshopping.in/g/it.asp?C=Computers-India&amp;cid=21" class="menu_txt">Computers</a></td>
+            <td width="94" height="29" align="center" valign="middle"><a href="http://www.rightshopping.in/g/it.asp?C=Computers-India&amp;cid=21" class="menu_txt" title="Computers">Computers</a></td>
             <td width="1px" align="center" valign="middle" bgcolor="#FFFFFF"></td>
-            <td width="65" height="29" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/g/it.asp?C=Laptops-India&amp;cid=3" class="menu_txt">Laptops</a></td>
+            <td width="65" height="29" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/g/it.asp?C=Laptops-India&amp;cid=3" class="menu_txt" title="Laptops">Laptops</a></td>
             <td width="1px" align="center" valign="middle" bgcolor="#FFFFFF"></td>
-           <td width="69" height="29" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/g/it.asp?C=Tablet PC-India&amp;cid=17" class="menu_txt">Tablet PC</a></td>
+           <td width="69" height="29" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/g/it.asp?C=Tablet PC-India&amp;cid=17" class="menu_txt" title="Tablet PC">Tablet PC</a></td>
             <td width="1px" align="center" valign="middle" bgcolor="#FFFFFF"></td>
              <td width="122" height="29" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/g/it.asp?C=Home Appliances-India&amp;cid=7" class="menu_txt1" title="Home Appliances">Home</a>&nbsp;<span class="menu_txt1">&amp;</span>&nbsp;<a href="http://www.rightshopping.in/g/it.asp?C=Kitchen Appliances-India&amp;cid=6" class="menu_txt1" title="Kitchen Appliances">Kitchen </a></td>
              <td width="1px" align="center" valign="middle" bgcolor="#FFFFFF"></td>
-             <td width="91" height="29" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/g/it.asp?C=iPod-MP3-India&amp;cid=15" class="menu_txt">iPod-MP3</a></td>
+             <td width="91" height="29" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/g/it.asp?C=iPod-MP3-India&amp;cid=15" class="menu_txt" title="iPod-MP3">iPod-MP3</a></td>
              <td width="1px" align="center" valign="middle" bgcolor="#FFFFFF"></td>
-            <td width="113" height="29" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/g/it.asp?C=Mobile-India&amp;cid=1" class="menu_txt">Mobile Phones</a></td>
+            <td width="113" height="29" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/g/it.asp?C=Mobile-India&amp;cid=1" class="menu_txt" title="Mobile Phones">Mobile Phones</a></td>
             <td width="1px" align="center" valign="middle" bgcolor="#FFFFFF"></td>
-            <td width="170" height="29" align="center" valign="middle" class="menu_bg"><span class="menu_txt"><a href="http://www.rightshopping.in/MMG/index.asp" class="menu_txt">Movies, Music &amp; Games</a></span></td>
+            <td width="170" height="29" align="center" valign="middle" class="menu_bg"><span class="menu_txt"><a href="http://www.rightshopping.in/MMG/index.asp" class="menu_txt" title="Movies, Music &amp; Games">Movies, Music &amp; Games</a></span></td>
             <td width="1px" align="center" valign="middle" bgcolor="#FFFFFF"></td>
-            <td width="104" height="29" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/g/it.asp?C=Office Gadgets-India&amp;cid=9" class="menu_txt">Office Gadgets</a></td>
+            <td width="104" height="29" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/g/it.asp?C=Office Gadgets-India&amp;cid=9" class="menu_txt" title="Office Gadgets">Office Gadgets</a></td>
           </tr>
           <tr>
             <td height="1px" colspan="19" align="center" valign="middle" bgcolor="#FFFFFF"></td>
@@ -319,21 +343,21 @@ function srchFn(fn)
 			<td width="1px" align="center" valign="top" bgcolor="#FFFFFF"></td>
             <td width="98" align="center" valign="middle"><a href="http://www.rightshopping.in/g/it.asp?C=Personal-Care-India&amp;cid=18" class="menu_txt" title="Personal Care">Personal Care</a></td>
             <td width="1px" align="center" valign="top" bgcolor="#FFFFFF"></td>
-            <td width="94" align="center" valign="middle"><a class="menu_txt" href="http://www.rightshopping.in/jewellery/index.asp">Jewellery</a></td>
+            <td width="94" align="center" valign="middle"><a class="menu_txt" href="http://www.rightshopping.in/jewellery/index.asp" title="Jewellery">Jewellery</a></td>
             <td width="1px" align="center" valign="top" bgcolor="#FFFFFF"></td>
-            <td width="105" align="center" valign="middle"><a class="menu_txt" href="http://www.rightshopping.in/leather/index.asp">Leather Items</a></td>
+            <td width="105" align="center" valign="middle"><a class="menu_txt" href="http://www.rightshopping.in/leather/index.asp" title="Leather Items">Leather Items</a></td>
             <td width="1px" align="center" valign="top" bgcolor="#FFFFFF"></td>
-            <td width="94" align="center" valign="middle"><a class="menu_txt" href="http://www.rightshopping.in/perfume/index.asp">Perfumes</a></td>
+            <td width="94" align="center" valign="middle"><a class="menu_txt" href="http://www.rightshopping.in/perfume/index.asp" title="Perfumes">Perfumes</a></td>
             <td width="1px" align="center" valign="top" bgcolor="#FFFFFF"></td>
-            <td width="70" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/g/it.asp?C=Watches-India&amp;cid=4" class="menu_txt">Watches</a></td>
+            <td width="70" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/g/it.asp?C=Watches-India&amp;cid=4" class="menu_txt" title="Watches">Watches</a></td>
             <td width="1px" align="center" valign="top" bgcolor="#FFFFFF"></td>
-            <td width="116" align="center" valign="middle"><a class="menu_txt" href="http://www.rightshopping.in/saree-salwar-India/index.asp">Saree-Salwar</a></td>
+            <td width="116" align="center" valign="middle"><a class="menu_txt" href="http://www.rightshopping.in/saree-salwar-India/index.asp" title="Saree-Salwar">Saree-Salwar</a></td>
             <td width="1px" align="center" valign="top" bgcolor="#FFFFFF"></td>
-            <td width="105" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/toys/index.asp" class="menu_txt">Toys &amp; Games</a></td>
+            <td width="105" align="center" valign="middle" class="menu_bg"><a href="http://www.rightshopping.in/toys/index.asp" class="menu_txt" title="Toys &amp; Games">Toys &amp; Games</a></td>
             <td width="1px" align="center" valign="top" bgcolor="#FFFFFF"></td>
-            <td width="84" align="center" valign="middle"><a class="menu_txt" href="http://www.rightshopping.in/Gifts-Flowers-Delivery-India/index.asp">Gifts-India </a></td>
+            <td width="84" align="center" valign="middle"><a class="menu_txt" href="http://www.rightshopping.in/Gifts-Flowers-Delivery-India/index.asp" title="Gifts-India">Gifts-India </a></td>
             <td width="1px" align="center" valign="top" bgcolor="#FFFFFF"></td>
-            <td width="130" align="center" valign="middle"><a class="menu_txt" href="http://www.rightshopping.in/Send-Gifts-International/index.asp">Gifts-International</a></td>
+            <td width="130" align="center" valign="middle"><a class="menu_txt" href="http://www.rightshopping.in/Send-Gifts-International/index.asp" title="Gifts-International">Gifts-International</a></td>
             
           </tr>
         </tbody></table></td>
@@ -391,7 +415,7 @@ function srchFn(fn)
       <tbody><tr>
         <td align="center" valign="top"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
           <tbody><tr>
-            <td width="309" align="center" valign="top"><img src="http://www.rightshopping.in/siteimages/titleMoreINFO_01.jpg" border="0"></td>
+            <td width="309" align="center" valign="top"><img src="http://www.rightshopping.in/siteimages/titleMoreINFO_011.jpg" border="0"></td>
             <td width="343" align="center" valign="top"><img src="http://www.rightshopping.in/siteimages/titleMoreINFO_02.jpg" border="0"></td>
             <td width="348" align="center" valign="top"><img src="http://www.rightshopping.in/siteimages/titleMoreINFO_03.jpg" border="0"></td>
           </tr>
@@ -631,7 +655,7 @@ function srchFn(fn)
               <tr>
                 <td height="17" align="left" valign="middle">
 				
-                  <span class="morinfo_txtn">Monday, December 26, 2011(IST)</span>				
+                  <span class="morinfo_txtn">Monday, June 25, 2012(IST)</span>				
 				</td>
               </tr>
             </tbody></table></td>
@@ -654,13 +678,92 @@ function srchFn(fn)
     <td align="center" valign="top" height="4"></td>
   </tr>
    <tr>
-    <td> <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <td><style type="text/css">
+.white_content5 {
+		
+			display: none;
+			position: absolute;
+			top: 10%;
+			left: 15%;
+			width: 743px;
+			height:330px;
+			padding: 1px;
+			border: 5px solid #187baf;
+			background-color: white;
+			z-index:1002;
+			overflow: auto;
+		} 
+</style>
+
+ <table width="100%" border="0" cellpadding="0" cellspacing="0">
  <tbody><tr>
     <td height="56" colspan="3" align="center" valign="middle" class="diclaimer_txt1" bgcolor="#25478b"><a class="diclaimer_txt1" href="http://www.rightshopping.in/Disclaimer.asp">Disclaimer</a><br>
     copyright © <a href="http://www.rightshopping.in" class="diclaimer_txt1">www.RightShopping.in</a></td>
   </tr>
   </tbody></table>
+<script language="javascript" type="text/javascript">  
+function show_subcall()
+{
+//alert("sgd");
+ document.getElementById('scimage').style["display"]="block" ;
+ document.getElementById('scimage').style["visibility"]="visible" ;
+ //document.getElementById('pimage_s').style["display"]="block" ;
+ //document.getElementById('pimage_s').style["visibility"]="visible" ;
+ var xxp=(document.body.clientWidth-742)/2
+	 
+   alert_div = document.getElementById('scimage');
+   alert_div.style.position = 'absolute';
+   alert_div.style.left = xxp;
+}
 
+function hide_subcall()
+{
+	//alert("sf");
+	document.getElementById('scimage').style["display"]="none" ;
+  //document.getElementById('pimage').style["visibility"]="hidden" ;
+ //document.getElementById('pimage_s').style["display"]="none" ;	
+// document.getElementById('pimage_s').style["visibility"]="hidden" ;	
+}
+ window.onload=function() 
+  {
+  if(""=="")
+    {
+    show_subcall()
+	}
+  }
+  
+</script>
+
+<div id="scimage" class="white_content5" align="center" style="display: block; visibility: visible; position: absolute; left: 312px;">
+
+<div align="center">
+<table width="700" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+        <td width="700" height="38" align="left" valign="middle" bgcolor="#E4E4E4" style="border-bottom:2px solid #ff7906; font:bold 20px Georgia; color:#eb6701; padding-left:15px;">New at RightShopping.in&nbsp;? </td>
+        <td width="36" align="right" valign="top" bgcolor="#E4E4E4" style="border-bottom:2px solid #ff7906;"><a href="javascript:void(0)" onclick="javascript:hide_subcall()"><img src="http://www.rightshopping.in/siteimages/subs_close.jpg" width="21" height="22" border="0"></a></td>
+      </tr>
+  <tr>
+    <td><iframe name="sm_s" id="sm_s" src="http://www.rightshopping.in/m_div1.asp" style="border:0;margin:0" height="280" width="710" scrolling="no"></iframe></td>
+  </tr>
+</tbody></table>
+
+
+</div>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28016661-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 </td>
   </tr>
 </tbody></table>
