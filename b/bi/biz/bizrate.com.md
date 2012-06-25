@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229075408id_/http%3A//about.bizrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625102917id_/http%3A//about.bizrate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Bizrate
 
 ### Shopzilla, Inc. Privacy Policy
 
-[ ](http://www.truste.org/ivalidate.php?url=www.bizrate.com&sealid=101)
-
-Effective Date & Last Modified June 26, 2011. 
+Effective Date & Last Modified March 22, 2012.
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR WEBSITES OR SERVICES. BY ACCESSING OR USING OUR WEBSITE OR OUR SERVICES (OTHER THAN TO READ THIS PRIVACY POLICY FOR THE FIRST TIME), YOU AGREE TO THIS PRIVACY POLICY. 
 
@@ -14,7 +12,7 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR WEBSITES OR SERVICES.
 
 This Privacy Policy tells you the types of information we collect when you use our Sites or Services, how we use that information, and the instances in which we share your information. 
 
-Shopzilla, Inc. ("Shopzilla") operates online shopping websites, including Shopzilla.com, BizRate.com, beso.com (“Sites”), and provides other online services ("Services"). As we are based in the United States of America, your information will be transmitted to, held and processed by us there in accordance with this Privacy Policy. 
+Shopzilla, Inc. ("Shopzilla") operates online shopping websites, including Shopzilla.com, BizRate.com, beso.com and other websites (“Sites”), and provides other online services ("Services"). As we are based in the United States of America, your information will be transmitted to, held and processed by us there in accordance with this Privacy Policy. 
 
 **SUMMARY OF KEY PRINCIPLES **
 
@@ -66,7 +64,7 @@ In addition, we use non-PII to help analyze site traffic, understand customer ne
 
 **III.       COOKIES AND PREFERENCE BASED ADVERTISING **
 
-  **(a) ** ** ** **Cookies and Web Beacons: ** ** ** We and the third parties we authorize automatically receive and store certain types of non-PII whenever you interact with us by using "cookies" and analogous technology. "Cookies" are small files that are placed on your computer or your internet browser memory to enable the owner of the cookie to recognize your browser and to provide convenience and other features to you. So, for example, our cookies may allow us to show you the past products you have searched for on our Sites. **It is important to note that the cookies that we use, or permit others to use, do not contain and are not tied to PII about you.** **  **
+  **(a) ** **** **Cookies and Web Beacons: ** **** We and the third parties we authorize automatically receive and store certain types of non-PII whenever you interact with us by using "cookies" and analogous technology. "Cookies" are small files that are placed on your computer or your internet browser memory to enable the owner of the cookie to recognize your browser and to provide convenience and other features to you. So, for example, our cookies may allow us to show you the past products you have searched for on our Sites. **It is important to note that the cookies that we use, or permit others to use, do not contain and are not tied to PII about you.** **  **
 
 You may be able to direct your internet browser not to allow cookies and you can typically delete existing cookies from your computer at any time. Please note, however, some elements of our Sites will not function properly or be available to you.  
 
@@ -97,9 +95,7 @@ We work to protect the security of your information during transmission by using
 [click here](http://www.shopzilla.com/ad_retarget_global_opt_out) ; (3)  To stop the sharing of PII with our participating merchants, [click here](http://about.shopzilla.com/contact-us/site-questions) ; and (4) as discussed above, the choices we offer you anytime you submit information through our Sites or Services. 
 
   
-**(c) You May Contact Us With Questions:** If you have any questions or concerns about privacy at Shopzilla, please contact us by [clicking here ](http://about.shopzilla.com/contact-us/site-questions) .  
-
-As part of our ongoing commitment to your privacy and security, we are proud to be a licensee of the TRUSTe Privacy Program.   If you have an inquiry regarding privacy that you feel has not been satisfactorily addressed, you may then contact TRUSTe who will serve as a liaison to resolve your concerns. To find out more about [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) , click here.  
+**(c) You May Contact Us With Questions:** If you have any questions or concerns about privacy at Shopzilla, please contact us by [clicking here ](http://about.shopzilla.com/contact-us/site-questions) .    
 
 **VII.      **CHILDREN ** **
 
