@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the learnboost.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211040414id_/http%3A//www.learnboost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnboost.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625172940id_/https%3A//www.learnboost.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « Gradebook
+# Privacy Policy | Gradebook
 
-**Last Updated: March 30, 2010**
+**Last Updated: June 6, 2012**
 
 This Privacy Policy describes how LearnBoost, Inc. (“LearnBoost” “We,” “Us,” or “Our”) protects your privacy when you use the Web site located at www.learnboost.com (the “Site”).
 
@@ -12,7 +12,7 @@ This Privacy Policy applies to information (including, personal information) col
 
 ## LEARNBOOST’S PRIVACY PLEDGE TO YOU 
 
-We are committed to protecting your privacy while allowing you to use the Site. You may add, delete or modify your personal information at any time. Subject to your permission or as specifically stated in this Privacy Policy, we will not sell, exchange or otherwise share your personal information with third parties. We do not send spam, maintain spam mailing lists or support the activities of spammers.
+We are committed to protecting your privacy while allowing you to use the Site. You may add, download, delete or modify your personal information at any time. Subject to your permission or as specifically stated in this Privacy Policy, we will not sell, exchange or otherwise share your personal information with third parties. We do not send spam, maintain spam mailing lists or support the activities of spammers.
 
 ## WHAT PERSONAL INFORMATION DO WE COLLECT ON THE SITE AND HOW WE COLLECT IT
 
