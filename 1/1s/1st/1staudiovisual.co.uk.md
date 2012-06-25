@@ -1,48 +1,48 @@
-> *The following text is extracted and transformed from the 1staudiovisual.co.uk privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211040519id_/http%3A//www.1staudiovisual.co.uk/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1staudiovisual.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625195713id_/http%3A//www.1staudiovisual.co.uk/catalog/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policies : 1staudiovisual UK
 
 | 
 
-**_Ian Fowler  ,Says :_**
+**_M.A.  ,Says :_**
 
-Thank you for your excellent service. I placed my order on Sunday and received the goods yesterday (Tuesday). Fantastic service and much appreciated.
+Last Monday I searched local shops and the net to find a retailer who could supply a certain make of washing machine. However, no one could deliver within a week and all quoted delivery charges. Then I saw the machine on your web site and ordered it. We received a phone call from you that same day and the goods arrived the next day. You also took my old machine away without quibble or charge. Excellent service!!! I shall certainly recommend you to my friends.
 
-**_Happy Customer from London  ,Says :_**
+**_Craig Sellar  ,Says :_**
 
-I would like to thank you for the fantastic service I received!! Easy, fast and well informed at all times!!!rnrnThank you again!!!
+Hi Paul, the Samsung arrived yesterday afternoon. Unboxed, up on it's stand, and looks great after a few picture setting tweaks. Over the moon with it. Great service, cheers again for the help. Craig.
 
-**_Juan Carlos Reinoso-Patino  ,Says :_**
+**_Cecil Wyn Davies  ,Says :_**
 
-I would like to thank you for the fantastic service I received!! Easy, fast and well informed at all times!!!
+I have recived my TV.Tthanks for the quick delivery. The goods was in good order. Thanks again. C W Davies.
 
-**_Mick Coplen  ,Says :_**
+**_John Jones  ,Says :_**
 
-I ordered a Samsung Smart TV for delivery to my daughter. The order was dealt with promptly and efficiently. It was, as usual, excellent value. This is the third TV I have purchased from 1staudiovisual and I would highly recommend them.
+Ordered 42" Led TV 8am Thur, delivered to North Wales by 09.30 Fri. Will certainly use again.
 
-**_James Whatley  ,Says :_**
+**_Roger Bainbridge  ,Says :_**
 
-To confirm that the set is up and running ok. Many thanks to you all Phii ,June, and John for the excellent service you have given us we look forward to buying from you in the future. All i can say now is have a Merry Christmas and all the best for the New year.
+Order number 154538 safely delivered this morning - connected and working well. Many thanks for prompt service at reasonable price. Regards, Roger Bainbridge.
 
-**_Steve Brentnall  ,Says :_**
+**_Mark Simpson  ,Says :_**
 
-I wanted to thank you for your excellent service this week. I visited your website and found the Samsung TV that I wanted. I telephoned on Wednesday afternoon (23/11/11) to see if the model was in stock and if I could have it delivered on Friday (25/11/11). I was put through to a very helpful lady who took my telephone number and said she would check with the warehouse and then call me back. She did indeed call back and said that if I ordered the TV on-line that Wednesday afternoon, then I could have it delivered on Friday. I asked her how much would be charged for additional carriage for such a quick delivery. Much to my amazement, she said that carriage would still be free ! I placed the order and emailed to check that I could still have the Friday delivery. I received an email confirmation within about an hour to say Yes. The TV was delivered on Friday morning. The delivery driver was one of the most courteous and helpful guys that we have come across. Well Done ! I have no hesitation in recommending your company.
+Fantastic! ...lol I'm soooooo in love with the TV, the deal and the customer service, should I need any more tech, I'll be checking in here first! (Guys! ...it seems to have arrived before you shipped it! MIRACULOUS! ...LOL)
 
-**_louise wrightson  ,Says :_**
+**_Barry  ,Says :_**
 
-I always get nervous when odering on line and the samsung smart tv was my biggest and most delecate purchase thus far...and with a new dealer to me i was slightly wary........ but the service, customer and delivery was and has been faultless. my tv was odered monday evening and arrived by standard postage on wednesday,.rnevery time i called the centre with a querie before the purchase the staff were curtious and polite and updated my account regularly.. i have yet to open my tv as im too little to lift it and hope in the future i wont have to try the returns service a few months down the line .rnthus far though all has bee very good. thank you x
+Service as it should be.
 
-**_uldis  ,Says :_**
+**_Charles Aghabi  ,Says :_**
 
-I am very happy with this tv and the delivery. Thank You
+TV received on Friday 27th April. Thank you for an excellent deal and very quick free delivery (2 days!). We're very pleased with our purchase!
 
-**_Keith Turnbull  ,Says :_**
+**_Rosemarie  ,Says :_**
 
-Hi. Just to confirm that the monitor was delivered at 09:50 this morning, which is an amazing performance by you and City Link. As far as I can tell, the monitor and packaging are physically intact and undamaged in transit. I have not yet installed the monitor. I intend to do so tomorrow and will update you on its operation. I must congratulate you again on your brilliant service in respect of this order. Initially I admit I was disappointed that the original item was not in stock when you processed the order, as it was when I placed it, but that is hardy your fault. Since then, you have kept me informed all the way - promptly and courteously. The final touch - of offering an alternative and arranging for its express delivery - was very much appreciated. Thank you for all your efforts - I shall certainly recommend you to my colleagues and friends.
+I needed a copy of the original invoice for a query with the manufacturer. 1staudiovisual were able to provide this for me promptly. Thank-you! Excellent service and I recommend you.
 
-**_Mel Brunt  ,Says :_**
+**_Edward Lettis  ,Says :_**
 
-Excellent service. Frequent tracking update emails received. Item is fantastic too! Would definately recommend!
+Hi Paul, Order no 153942 The TV has arrived safely and in good order. It is now up and running and and we have been very impressed by the excellent service provided by you and the courier. We were very well informed throughout the process and I will not hesitate to use you again, and to recommend the company to others. Regards and thank you again, Edward Lettis.
 
 |  |  |  |   |   
 ---|---|---  
@@ -142,7 +142,6 @@ TOOLS & RESOURCES
 [RSS Feeds](http://www.1staudiovisual.co.uk/catalog/rss.php?language=en)  
     ◊ [Sitemap](http://www.1staudiovisual.co.uk/catalog/sitemap.php)  
     ◊ [Affliates](http://www.1staudiovisual.co.uk/catalog/affiliate_info.php)  
-    ◊ [Blog](http://www.1staudiovisual.co.uk/blog)  
   
   
 ---|---|---|---|---  
