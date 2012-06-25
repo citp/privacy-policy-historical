@@ -1,50 +1,335 @@
-> *The following text is extracted and transformed from the sugarscape.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902012652id_/http%3A//www.sugarscape.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarscape.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625162357id_/http%3A//www.hearst.co.uk/magazines/Data-protection.html) for the most accurate reproduction.*
 
-# privacy policy | Sugarscape |
+# Data protection
 
-### Sugarscape Privacy Policy
+PRIVACY POLICY FOR USE ON WEBSITES
 
-Please read the following Privacy Policy carefully before using this Sugarscape website. If you do not agree with the Hachette Filipacchi (UK) Limited Privacy Policy, you should not submit your personal details on this website. Registration as a User and use of the website implies an acceptance of both this Privacy Policy and the Sugarscape Terms and Conditions.
+Privacy Policy for Hearst Magazines UK which is the trading name of The National Magazine Company Ltd and Handbag.com Ltd.
 
-**IF YOU ARE UNDER THE AGE OF 13 PLEASE ENSURE THAT YOUR MOTHER, FATHER OR OTHER RESPONSIBLE ADULT READS THIS AND AGREES TO YOUR USE OF THE SUGARSCAPE SITE. THIS DOCUMENT IS ABOUT YOUR PERSONAL DETAILS AND PRIVATE INFORMATION WHICH IS IMPORTANT AND VALUABLE.**
+Hearst Magazines UK is committed to protecting your privacy and we have prepared this Privacy Policy to describe to you our practices regarding the Personal Data we collect from users of our services.
 
-#### DATA PROTECTION NOTICE
+Who are we and how to contact us?
 
-For the purpose of UK law Hachette Fillipacchi (UK) Limited (hereinafter "Hachette") is the publisher of this website. This notice explains how we will process your personal information when you provide details via the publications and associated websites listed here. Should you require further information as to what your data protection rights are, the various issues involved, as well as access to the relevant legislation, please go to <http://www.ico.gov.uk/>. Hachette publishes the following magazines and related websites: Sugar, Elle, Elle Decoration, Red, Psychologies, Real Homes, All about Soap and Inside Soap magazine. Hachette is registered as the data controller under the Data Protection Act 1988. Hachette's principal place of business is: 64 North Row, London W1K 7LL.
+The National Magazine Company Ltd has its head office at: 
 
-#### DATA INFORMATION
+72, Broadwick Street, London, W1F 9EP.
 
-**Subject to your consent (see below)** , we would like to share your information with our partners whom we have selected in order to provide you with additional offers, products and services that may be of interest to you. They or we may contact you by mail, telephone, SMS (text messaging), e-mail or fax.
+The National Magazine Company Ltd is registered in England 112955, VAT Registration GB 238 587 423. 
 
-We, as the data controller, may use your details, for administration (including the provision of any goods, services or information that you have requested), marketing, customer services and the profiling of your purchasing preferences. **When we have your permission** , we may disclose this information to others for similar purposes. If another company is the data controller, this will be made clear when you provide your personal information. We may keep your information for a reasonable period.
+Details of Subsidiaries and affiliates (collectively known as affiliates) are:
 
-We may employ external companies to act on our behalf as processors. Data processors will not disclose personal details to any other organisations or use data other than for purposes required by us. This use is stipulated under contract with us.
+Handbag.com Ltd, registered in England 03819979. VAT registration GB 238 587 423.
 
-#### DATA CONSENT
+Natmag-Rodale Ltd, registered in England 00519122. VAT registration GB 626 914 329.
 
-**PLEASE NOTE THAT IF YOU PROVIDE US WITH YOUR PERSONAL INFORMATION, WE, AND OTHER SELECTED COMPANIES, WILL ONLY USE THIS INFORMATION FOR MARKETING PURPOSES IF YOU PERMIT US OR THEM TO DO SO.**
+If you would like to contact us for any reason, please email us at [dp@hearst.co.uk](mailto:dp@hearst.co.uk) and we will do our best to answer your questions.
 
-When providing us with your personal details, you have at this point the opportunity to opt to receive information by post, SMS or email. If you do not opt to do so, you will not receive information concerning any of our special offers or promotions in the future. By supplying your email address, address and mobile number, you have the option to allow Hachette to contact you with these offers, products and/or services by email, post or SMS. You will also have the option to opt to receive similar information from our marketing partners and agents.
+**1\. What information do we collect from you?**
 
-If you give us information about another person, (for example if you ask us to invite your friends to join the Sugarscape service) you confirm that they have appointed you to act for them, and that they consent to the processing of their personal data, including personal data, to the transfer of their information abroad and to the receipt on their behalf, of any relevant data protection notices.
+**1.1 How we collect Personal Data**
 
-By using this website you consent to the arrangements in place for the use and protection of your personal data.
+**1.2 Personal Data that we collect from you about others**
 
-#### COOKIES
+**2\. How will we use the information we collect?**
 
-Hachette websites use cookies (not the edible kind). A 'cookie' is a piece of information that our websites send to your browser, which then stores this information on your system. If a cookie is used, our website will be able to remember 'information' about you and your preferences either until you exit your current browser window (if the cookie is temporary) or until you disable or delete the cookie (see below). We use information from cookies for purposes which may include:
+**3\. Do we share your Personal Data with other companies?**
 
-  * identifying returning users, registrants and subscribers and to allow subscribers to be presented with a personalised version of the site;
-  * enabling you to move more easily around our site;
-  * tracking your use of the Sugarscape site to better develop it in accordance with your requirements; and
-  * building up a profile of all our users
+**4\. Changing your mind about marketing messages and keeping your details up-to-date**
 
+**5\. Other websites**
 
+**6.** **Social media, social commerce and other third parties.**
 
-You should be aware that cookies contain no more information than you volunteer, and they are not able to 'invade' your hard drive and return to the sender with personal or other information from your computer.
+**7. **Where is your information processed and how do we keep your Personal Data secure?**
 
-The Hachette website also makes use of ad-serving cookies. These assure that when you visit a website, you do not see the same ad over and over again. They are also used to sequence ads in a series, and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page. Cookies, set or read with clear GIFs, are also used by advertisers for ad reporting functions such as to learn which of their ads are bringing users to their website to purchase or register.
+**8\. Access to your Personal Data**
 
-You can utilise our websites without cookies since these can be deleted from your hard drive at any time. However, if you use our websites without cookies, you will lose your stored username and password (and these will have to be reset). You can also set your internet browser so that it will not allow cookies to be stored on your computer. This may reduce functionality of the site, prevent access to subscriber-only areas of the site and mean that certain features or content will not be available to you. If you require further information on how to prevent cookies from being stored on your computer we recommend the following website: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) under the "manage cookies" section.
+**9\. Questions regarding this Privacy Policy**
 
-If you are worried in particular about ad-serving cookies, these have to be turned off by going to the third party's website, <http://www.emediate.no/privacy.htm>. This gives details of their usage of cookies. They should be contacted in the event you require details of how to disable these ad-serving cookies.
+**
+
+**10\. Changes to this Privacy Policy**
+
+**1 What information do we collect from you?**
+
+Hearst Magazines UK collects Personal Data and Anonymous Data from you when you visit our sites or when you send us information or communications. "Personal Data" means data that allows someone to identify you, including, for example, your name, address, telephone and mobile numbers, e-mail address, as well as any information about you that is associated with or linked to, or could be linked to, any of the foregoing data.
+
+"Anonymous Data" means data that is not associated with or linked to your Personal Data. 
+
+Anonymous Data does not permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+
+**1.1 How we collect Personal Data**
+
+We collect Personal Data from you, such as your name, contact details, country of residence, zip code or post code, gender or birth date when you register on one of our sites or when you choose to use the various services we provide. We also collect other types of Personal Data that you provide to us voluntarily, when, for instance, you make a purchase, respond to surveys and questionnaires, or enter a competition. If you provide us feedback regarding our sites or services via e-mail, we will collect your name and e-mail address in order to send you a reply.
+
+In order to improve our services to you, we may ask you to voluntarily complete confidential surveys. We do not ask you to provide us any personally identifiable data in association with these surveys although we do associate your responses with Personal Data. If you do not wish to participate in a survey, however, simply decline to participate when asked.
+
+ **1.2 Personal Data that we collect from you about others**
+
+If you decide to invite a friend or family member to join any of our services, we will collect your name and e-mail address as well as your friend's or family member's e-mail address in order to send their e-mail. We will always ask your permission if we want to mention your name when contacting your friend or family member. 
+
+This information is used once only and is not saved in our database, unless they have entered a competition or other promotion in which case their e-mail address is stored only for that purpose. If you decide to invite a friend or family member to become involved we will collect and save their e-mail address into our database, along with their contact preferences, as we would for anyone who registers on our sites.
+
+**2 How will we use the information we collect?**
+
+Hearst Magazines UK uses your Personal Data to provide you with acustomised Web experience and to provide services to you. Such services include sending you marketing messages if you have given us permission to do so, processing your answers to quizzes and other competitions, and sending electronic newsletters and promotional e-mails to you. We also use Personal Data for customer service messages, and to notify you about updates to our services and to respond to your requests.
+
+We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to perform statistical analyses of users' aggregate behaviour so that we may enhance the content of our services and improve site navigation. Hearst Magazines UK reserves the right to use and disclose Anonymous Data to third parties at its discretion, in aggregate form.
+
+If you elect to receive communications from us we may periodically send you free newsletters and e-mails that directly promote the use of our sites or the purchase of our products or services and may contain advertisements for third parties.
+
+**3 Do we share your Personal Data with other companies?**
+
+Except as otherwise stated in this Privacy Policy and in our Privacy Notices where you give us your consent, we do not sell, trade, or rent the Personal Data collected from our services to third parties.
+
+However, we will share your Personal Data with our third party suppliers who need to process your data in order to fulfil your request, such as to charge your credit card (ifauthorised by you), fill your order, and deliver electronic newsletters and promotional e-mails. These third parties are required under contract not to use your Personal Data other than to provide the services requested by Hearst Magazines UK and to guarantee to our satisfaction that they have sufficient processes in place to ensure the security of your data whilst it is in their care. 
+
+You expressly consent to the sharing of your Personal Data with our contractors and third party service providers for the purpose of providing services to you.
+
+If you send a testimonial or comment to us, we may post it on our site or use it in advertising materials. We will attribute your testimonial to you by posting your first and last initial or your first name and last initial next to your testimonial on our site or advertising materials, if provided. 
+
+Regardless of any choices you make regarding your Personal Data Hearst Magazines UK may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) protect or defend the rights or property of Hearst Magazines UK or users of our services.
+
+If another company acquires our company or our assets, that company will possess the Personal Data collected by it and us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy and the terms under which you submitted your data.
+
+If you provide Hearst Magazines UK with your contact details and agree to receive promotional messages, we may share your details with our affiliates or third-party businesses that offer goods or services that we believe may be of interest to our customers. Many customers appreciate the offerings they receive from such third parties; however, we allow you to opt out at any time of having your Personal Data shared with affiliated or unaffiliated third parties for the purpose of sending you relevant information.
+
+**4 Changing your mind about marketing messages and keeping your details-up-to-date**
+
+We offer you choices regarding the collection, use, and sharing of your Personal Data. When you register on one of our sites or respond to one of our communications or offers, we will ask you if you want to receive future communications from us. You may indicate consent to receipt of these communications by entering your personal details and choosing what information you would like to receive, or by not ticking the opt-out box provided. Should you decide to stop receiving further communications from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or, on some of our sites, by going to “Edit Your Profile”, or “My Account” after you have logged in. 
+
+Despite your indicated communication preferences, we may send you notice of any updates to our Terms of Use or Privacy Policy.
+
+If you are contacting us by email, or by post please be sure to include your full name and address in order in your opt-out request in order to allow us to process your request for any changes to your preferences.
+
+Note that we may retain changed or deleted information in our archives, but we will not keep it longer than is necessary.
+
+**5 Other websites**
+
+Except as otherwise expressly provided in this Privacy Policy or on this website, only Hearst Magazines UK and its affiliate companies collect Personal Data through the services provided solely by Hearst Magazines UK; this Privacy Policy applies only to the use and disclosure of Personal Data that we collect while you use our services.
+
+When you click on advertisements or links on Hearst Magazines UK sites, you will leave that site and go to another site. During this process, a third party (including a third party advertising service that may provide services to an advertiser) may collect Personal Data or Anonymous Data from you, such as the URL you just came from, the URL you go to next, your browser type, and your IP address. Our display of advertisements or links to any other company or site is for your convenience and does not signify our endorsement of such company or site (or the contents of the site). We have no control over, we do not review, and our Privacy Policy does not apply to, these other companies, sites, or content, or to any collection of data after you click on an advertisement or link to a third party.
+
+**6 Social media, social commerce and other third parties.**
+
+We work with trusted third parties, including social network sites like Facebook, and with application developers who specialise in social media so we can connect to your social networks. Other social networks we use include Twitter, MySpace and You Tube. All of these companies operate Third Party Sites. We provide access to our Sites by third parties and business partners so we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network. __
+
+We cannot control how your data is collected, stored, used or shared by Third Party Sites or to whom it is disclosed. Please be sure to review the privacy policies and privacy settings on your social networking sites to make sure you understand the information they are sharing. If you do not want a Third Party Site to share information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such information. Hearst Magazines UK is not responsible for how these third parties may use information collected from or about you. ****
+
+**7 Where is your information processed and how do we keep your Personal Data secure?**
+
+Your Personal Data may be processed both in and outside of your own country. When you submit your details and in whichever country you are situated you agree to the data being transferred to the UK and processed under the terms of the UK Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not give us your personal details.
+
+We may need to transfer your data outside the UK (and possibly to places outside the European Economic Area) and by using Hearst Magazines UK sites, or responding to our communications, you consent to us transferring any such data in this way. However any company, whether inside or outside the EEA, to whom we transfer data is contractually bound to protect your Personal Data.
+
+Hearst Magazines UK and affiliates are committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorised access, use, or disclosure. 
+
+On our sites, when collecting your credit card information for online purchases, Hearst Magazines UK enables the use of Secure Sockets Layer (SSL) technology and industry-standard secured-server transactions that encrypt your Personal Data. To verify that you have a secure server connection, look for the locked padlock symbol at the bottom of your browser window or the HTTPS-prefix in the URL.
+
+Hearst Magazines UK has implemented other industry-standard electronic means of protecting your Personal Data. We store Personal Data behind a firewall, a barrier designed to prevent outsiders from accessing our servers. We may also require you to enter a password to access or update your account information. In addition, Hearst Magazines UK protects your Personal Data from unauthorised physical access by storing your Personal Data in a controlled facility. 
+
+Except as provided elsewhere in this Privacy Policy, Hearst Magazines UK limits access to Personal Data in electronic databases to those persons (including employees and contractors) in Hearst Magazines UK's organisation who have a business need for such access and those persons are under contract to keep your data secure.
+
+Even though Hearst Magazines UK has taken significant steps to ensure that your Personal Data is not intercepted, accessed, used, or disclosed by unauthorised persons, you should know that Hearst Magazines UK cannot eliminate security risks associated with Personal Data.
+
+**8 Access to your Personal Data**
+
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to see the information we hold about you, please contact us in writing:
+
+The Data Protection Compliance Officer
+
+Hearst Magazines UK
+
+72 Broadwick Street,
+
+London, W1F 9EP
+
+We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you. We are also legally obliged to request you to provide us with identification so that we can be certain that you are entitled to receive the requested data.
+
+**9 Questions regarding this Privacy Policy**
+
+Hearst Magazines UK welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at:[dp@hearst.co.uk](mailto:dp@hearst.co.uk)
+
+Dispute Resolution
+
+If you believe that Hearst Magazines UK has not adhered to this Privacy Policy, please contact us by e-mail at [dp@hearst.co.uk](mailto:dp@hearst.co.uk). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation.
+
+**10 Changes to this Privacy Policy**
+
+We may amend this Privacy Policy from time to time. If we make material changes in the way we collect, use, and/or share your Personal Data, we may notify you by sending you an e-mail to the last e-mail address you provided to us, by writing to your last known postal address and/or by prominently posting notice of the changes on our sites. Any material changes to this Privacy Policy will be effective thirty (30) calendar days following our posting of notice of the changes on our sites.
+
+These changes will be effective immediately for new users of our services.
+
+Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail and postal address. In the event that the last e-mail or postal address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our despatch of the e-mail or letter containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. 
+
+This Privacy Policy was last revised in July 2011
+
+Reference B8
+
+Privacy Policy for Natmag-Rodale Ltd
+
+Natmag–Rodale Ltd is committed to protecting your privacy and we have prepared this Privacy Policy to describe to you our practices regarding the Personal Data we collect from users of our services.
+
+Who are we and how to contact us?
+
+Natmag-Rodale Ltd has its head office at: 
+
+72, Broadwick Street, London, W1F 9EP.
+
+  
+The company is registered in England 00519122, VAT Registration GB 626 914 329. 
+
+If you would like to contact us for any reason, please email us at[dp@hearst.co.uk](mailto:dp@hearst.co.uk) and we will do our best to answer your questions.
+
+**1** **.** **What information do we collect from you?**
+
+**  
+**1.1 How we collect Personal Data****
+
+**1.2 Cookies**
+
+**1.3 Personal Data that we collect from you about others** **
+
+**2\. How will we use the information we collect?**
+
+**3\. Do we share your Personal Data with other companies?**
+
+**4\. Changing your mind about marketing messages and keeping your details up-to-date**
+
+**5\. Other websites**
+
+**
+
+**6.** **Social media, social commerce and other third parties.**
+
+**7. **Where is your information processed and how do we keep your Personal Data secure?**
+
+**8\. Access to your Personal Data**
+
+**9\. Questions regarding this Privacy Policy**
+
+**
+
+**10\. Changes to this Privacy Policy**
+
+**1 What information do we collect from you?**
+
+Natmag-Rodale Ltd collects Personal Data and Anonymous Data from you when you visit our sites or when you send us information or communications. "Personal Data" means data that allows someone to identify you, including, for example, your name, address, telephone and mobile numbers, e-mail address, as well as any information about you that is associated with or linked to, or could be linked to, any of the foregoing data. ****
+
+"Anonymous Data" means data that is not associated with or linked to your Personal Data.
+
+Anonymous Data does not permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below. 
+
+**1.1 How we collect Personal Data**
+
+We collect Personal Data from you, such as your name, contact details, country of residence, zip code or post code, gender, and/or birth date when you register on one of our sites or when you choose to use the various services we provide on our sites. We also collect other types of Personal Data that you provide to us voluntarily, when, for instance, you make a purchase, respond to surveys and questionnaires, or enter a competition. If you provide us feedback regarding our sites or services via e-mail, we will collect your name and e-mail address in order to send you a reply. 
+
+In order to improve our services to you, we may ask you to voluntarily complete confidential surveys. We do not ask you to provide us any personally identifiable data in association with these surveys although we do associate your responses with Personal Data. If you do not wish to participate in a survey, however, simply decline to participate when asked. 
+
+**1.2 Cookies**
+
+“Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website. Natmag-Rodale Ltd uses cookies to provide you with a more personal and interactive experience on our sites. You have the ability to accept or delete cookies, but please be aware that for some parts of our site to work, you will need to accept cookies. For more information on cookies please visit www.allaboutcookies.org.
+
+Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies we are currently working towards implementing the new requirements in line with guidance provided by the Information Commissioner's Office. ****
+
+**1.3 Personal Data That We Collect from You About Others**
+
+If you decide to invite a friend or family member to join any of our services, we will collect your name and e-mail address as well as your friend's or family member's e-mail address in order to send their e-mail. We will always ask your permission to mention your name when contacting your friend or family member. 
+
+This information is used once only and is not saved in our database, unless they have entered a competition or other promotion in which case their e-mail address is stored only for that purpose. If you decide to invite a friend or family member to become involved we will collect and save their e-mail address into our database, along with their contact preferences, as we would for anyone who registers on our sites. 
+
+**2 How will we use the information we collect?**
+
+Natmag–Rodale Ltd uses your Personal Data to provide you with acustomised Web experience and to provide services to you. Such services include sending you marketing messages if you have given us permission to do so, processing your answers to quizzes and other competitions, and sending electronic newsletters and promotional e-mails to you. We also use Personal Data for customer service messages, and to notify you about updates to our services and to respond to your requests. 
+
+We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to perform statistical analyses of users' aggregate behaviour so that we may enhance the content of our services and improve site navigation. Natmag–Rodale Ltd reserves the right to use and disclose Anonymous Data to third parties at its discretion, in aggregate form. 
+
+If you elect to receive communications from us we may periodically send you free newsletters and e-mails that directly promote the use of our sites or the purchase of our products or services and may contain advertisements for third parties. 
+
+**3 Do we share your Personal Data with other companies?**
+
+Except as otherwise stated in this Privacy Policy and in our Privacy Notices where you give us your consent, we do not sell, trade, or rent the Personal Data collected from our services to third parties. 
+
+However, we will share your Personal Data with our third party suppliers who need to process your data in order to fulfil your request, such as to charge your credit card (ifauthorised by you), fill your order, and deliver electronic newsletters and promotional e-mails. These third parties are required under contract not to use your Personal Data other than to provide the services requested by Natmag-Rodale Ltd and to guarantee to our satisfaction that they have sufficient processes in place to ensure the security of your data whilst it is in their care. 
+
+You expressly consent to the sharing of your Personal Data with our contractors and third party service providers for the purpose of providing services to you. 
+
+If you send a testimonial or comment to us, we may post it on our site or use it in advertising materials. We will attribute your testimonial to you by posting your first and last initial or your first name and last initial next to your testimonial on our site or advertising materials, if provided. 
+
+Regardless of any choices you make regarding your Personal Data, Natmag-Rodale Ltd may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) protect or defend the rights or property of Natmag-Rodale Ltd or users of our services. 
+
+If another company acquires our company or our assets, that company will possess the Personal Data collected by it and us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy and the terms under which you submitted your data.
+
+If you provide Natmag-Rodale Ltd with your contact details and agree to receive promotional messages, we may share your details with our affiliates or third-party businesses that offer goods or services that we believe may be of interest to our customers. Many customers appreciate the offerings they receive from such third parties; however, we allow you to opt out at any time of having your Personal Data shared with affiliated or unaffiliated third parties for the purpose of sending you relevant information.
+
+**4 Changing your mind about marketing messages and keeping your details-up-to-date**
+
+We offer you choices regarding the collection, use, and sharing of your Personal Data. When you register on one of our sites or respond to one of our communications or offers, we will ask you if you want to receive future communications from us. You may indicate consent to receipt of these communications by entering your personal details and choosing what information you would like to receive, or by not ticking the opt-out box provided. Should you decide to stop receiving further communications from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or, on some of our sites, by going to “Edit My Profile or “My Account” after you have logged in.
+
+Despite your indicated communication preferences, we may send you notice of any updates to our Terms of Use or Privacy Policy.
+
+If you are contacting us by email or by post, please be sure to include your full name and address in your opt-out request, in order to allow us to process your request for any changes to your preferences. 
+
+Note that we may retain changed or deleted information in our archives, but we will not keep it longer than is necessary.
+
+**5 Other websites**
+
+Except as otherwise expressly provided in this Privacy Policy or on this website, only Natmag-Rodale Ltd and its affiliates collect Personal Data through the services provided solely by Natmag-Rodale Ltd; this Privacy Policy applies only to the use and disclosure of Personal Data that we collect while you use our services. 
+
+When you click on advertisements or links on Natmag-Rodale Ltd sites, you will leave that site and go to another site. During this process, a third party (including a third party advertising service that may provide services to an advertiser) may collect Personal Data or Anonymous Data from you, such as the URL you just came from, the URL you go to next, your browser type, and your IP address. Our display of advertisements or links to any other company or site is for your convenience and does not signify our endorsement of such company or site (or the contents of the site). We have no control over, we do not review, and our Privacy Policy does not apply to, these other companies, sites, or content, or to any collection of data after you click on an advertisement or link to a third party. 
+
+**6 Social media, social commerce and other third parties.** ** __**
+
+We work with trusted third parties, including social network sites like Facebook, and with application developers who specialise in social media so we can connect to your social networks. Other social networks we use include Twitter, MySpace and You Tube. All of these companies operate Third Party Sites. We provide access to our Sites by third parties and business partners so we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network. __
+
+We cannot control how your data is collected, stored, used or shared by Third Party Sites or to whom it is disclosed. Please be sure to review the privacy policies and privacy settings on your social networking sites to make sure you understand the information they are sharing. If you do not want a Third Party Site to share information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such information. Natmag-Rodale is not responsible for how these third parties may use information collected from or about you. ****
+
+**7 Where is your information processed and how do we keep your Personal Data secure?**
+
+Your Personal Data may be processed both in and outside of your own country. When you submit your details and in whichever country you are situated you agree to the data being transferred to the UK and processed under the terms of the UK Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not give us your personal details.
+
+We may need to transfer your data outside the UK (and possibly to places outside the European Economic Area) and by using Natmag-Rodale Ltd sites, or responding to our communications, you consent to us transferring any such data in this way. However any company, whether inside or outside the EEA, to whom we transfer data is contractually bound to protect your Personal Data.
+
+Natmag-Rodale Ltd and affiliates are committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorised access, use, or disclosure. 
+
+On our sites, when collecting your credit card information for online purchases, Natmag-Rodale Ltd enables the use of Secure Sockets Layer (SSL) technology and industry-standard secured-server transactions that encrypt your Personal Data. To verify that you have a secure server connection, look for the locked padlock symbol at the bottom of your browser window or the HTTPS-prefix in the URL.
+
+Natmag-Rodale Ltd has implemented other industry-standard electronic means of protecting your Personal Data. We store Personal Data behind a firewall, a barrier designed to prevent outsiders from accessing our servers. We may also require you to enter a password to access or update your account information. In addition, Natmag-Rodale Ltd protects your Personal Data from unauthorised physical access by storing your Personal Data in a controlled facility. 
+
+Except as provided elsewhere in this Privacy Policy, Natmag-Rodale Ltd limits access to Personal Data in electronic databases to those persons (including employees and contractors) in Natmag-Rodale Ltd’s organisation who have a business need for such access and those persons are under contract to keep your data secure. 
+
+Even though Natmag-Rodale Ltd has taken significant steps to ensure that your Personal Data is not intercepted, accessed, used, or disclosed by unauthorised persons, you should know that Natmag-Rodale Ltd cannot eliminate security risks associated with Personal Data. 
+
+**8 Access to your Personal Data**
+
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to see the information we hold about you, please contact us in writing:
+
+The Data Protection Compliance Officer
+
+Natmag-Rodale Ltd
+
+72 Broadwick Street,
+
+London, W1F 9EP
+
+We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you. We are also legally obliged to request you to provide us with identification so that we can be certain that you are entitled to receive the requested data. 
+
+**9 Questions Regarding this Privacy Policy**
+
+Natmag-Rodale Ltd welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at:[dp@hearst.co.uk](mailto:dp@hearst.co.uk).
+
+Dispute Resolution 
+
+If you believe that Natmag-Rodale Ltd has not adhered to this Privacy Policy, please contact us by e-mail at[dp@hearst.co.uk](mailto:dp@hearst.co.uk). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. 
+
+**10 Changes to this Privacy Policy**
+
+We may amend this Privacy Policy from time to time. If we make material changes in the way we collect, use, and/or share your Personal Data, we may notify you by sending you an e-mail to the last e-mail address you provided to us, by writing to your last known postal address and/or by prominently posting notice of the changes on our sites. Any material changes to this Privacy Policy will be effective thirty (30) calendar days following our posting of notice of the changes on our sites. 
+
+These changes will be effective immediately for new users of our services. 
+
+Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail and postal address. In the event that the last e-mail or postal address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our despatch of the e-mail or letter containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us.
+
+This Privacy Policy was last revised in July 2011 
+
+Reference C8
