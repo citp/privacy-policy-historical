@@ -1,22 +1,7 @@
-> *The following text is extracted and transformed from the highlandwoodworking.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221161107id_/http%3A//www.highlandwoodworking.com/highland-woodworkings-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlandwoodworking.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626002914id_/http%3A//www.highlandwoodworking.com/highland-woodworkings-privacy-statement.aspx) for the most accurate reproduction.*
 
 # Highland Woodworking's Privacy Statement
 
-| 
-
-##### Woodworking Tool Tips!
-
-[ tips on searching...](https://web.archive.org/search-help-page.aspx)
-
-search for articles and information... 
-
-|   
----  
-[   
-](https://web.archive.org/cart.aspx)  
----  
-| | |   
----|---|---  
 | 
 
 Your Privacy
@@ -56,28 +41,4 @@ or you can reach us by telephone at 800-241-6748
 
 
 
-|   
-| |   
-  
-[ ](https://web.archive.org/sawstopcontractortablesawcns10.aspx)
-
-  
-|   
----  
-[ ](https://web.archive.org/blog5/woodslicervideo.html "Wood Slicer bandsaw blade video")   
-[ ](http://www.highlandwoodworking.com/woodworking-tool-sale.html "Woodworking Tool Sale") **OUR NEW  
-WINTER woodworking tool catalog is now available to browse online! _CLICK THE IMAGE  
-TO BEGIN_** |  [](http://www.highlandwoodworking.com/woodworking-tool-catalog-1111.aspx "Woodworking Tool Catalog")  
----|---  
-[ ](http://www.thehighlandwoodturner.com/ "Woodturning Tools")  
----  
-     
-
-[ ](https://web.archive.org/highland-woodworking-gift-certificate-1.aspx)
-
-     
-
-[ ](https://web.archive.org/web/20111221161107id_/http%3A//www.highlandwoodworking.com/saw-sharpening-service.aspx)
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=highlandwoodworking.com) **HIGHLAND WOODWORKING** has been a dependable source for woodworking tools, books, supplies and education for over 30 years, and is family owned and operated. We invite you to visit our Highland [ **Woodworking Tool Blog**. ](http://blog.woodworkingtooltips.com/)[**Highland Affiliate Program**](https://www.highlandwoodworking.com/index.asp?PageAction=Custom&ID=131)   
-Highland Woodworking Tools Affiliate Program! Give your visitors access to one of woodworking's most experienced and trusted tool retailers.
+| 
