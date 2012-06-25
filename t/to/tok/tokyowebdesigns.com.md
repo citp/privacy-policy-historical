@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the tokyowebdesigns.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103015037id_/http%3A//www.tokyowebdesigns.com/eng/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyowebdesigns.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625215251id_/http%3A//www.tokyowebdesigns.com/privacy) for the most accurate reproduction.*
 
-# Tokyo Web Designs - Privacy | English-Japanese Webpage Developers | Japan
+# Privacy | Tokyo Web Designs
 
-### Privacy
-
-By visiting the TokyoWebDesigns.com website (the "Site") you are agreeing with and consenting to the practices described in this Privacy Policy. If you do not agree with this Privacy Policy you should immediately cease using the Site.
+By visiting the TokyoWebDesigns.com website (the “Site”) you are agreeing with and consenting to the practices described in this Privacy Policy. If you do not agree with this Privacy Policy you should immediately cease using the Site.
 
 ### Information we collect
 
@@ -14,11 +12,11 @@ We receive and store information that you actively provide to us. This may repre
 
 #### Information we collect from you
 
-We may from time to time receive and store certain information relating to your use of, and behavior on the Site. This information is commonly referred to as "click stream" information. For example, we may record information such as the areas of the Site you have accessed, the time, date and URL of the pages requested by you, your IP address and your browser software. The recording of such information enables us to monitor the areas of the Site that are most popular and to improve sections of the Site accordingly.
+We may from time to time receive and store certain information relating to your use of, and behavior on the Site. This information is commonly referred to as “click stream” information. For example, we may record information such as the areas of the Site you have accessed, the time, date and URL of the pages requested by you, your IP address and your browser software. The recording of such information enables us to monitor the areas of the Site that are most popular and to improve sections of the Site accordingly.
 
-#### Information obtained from "cookies"
+#### Information obtained from “cookies”
 
-The Site may make use of a feature of Internet web browsers called "cookies", which are small pieces of information stored by your browser on your computer's hard drive. Cookies are used to maintain session information between your browser and our website, and are required for our website to operate.
+The Site may make use of a feature of Internet web browsers called “cookies”, which are small pieces of information stored by your browser on your computer’s hard drive. Cookies are used to maintain session information between your browser and our website, and are required for our website to operate.
 
 ### Use and disclosure of your information
 
@@ -44,4 +42,4 @@ The Site may contain links to other sites. With the exception of other sites ope
 
 ### Further queries
 
-If we become aware of any ongoing concerns or problems with the Site, we will take the issue seriously and work to address your concerns. If you have any queries about this Privacy Policy, or have a problem or complaint, then you should contact us via our [contact page](https://web.archive.org/web/20111103015037id_/http%3A//www.tokyowebdesigns.com/eng/contact.php).
+If we become aware of any ongoing concerns or problems with the Site, we will take the issue seriously and work to address your concerns. If you have any queries about this Privacy Policy, or have a problem or complaint, then you should contact us via our [contact page](http://www.tokyowebdesigns.com/privacy#).
