@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teamer.net privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214231025id_/http%3A//teamer.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamer.net privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625153349id_/http%3A//teamer.net/pages/privacy) for the most accurate reproduction.*
 
-# teamer: sports team management - teamer.net privacy statement
+# Teamer Takes The Hassle Out of Sports Team Management - teamer.net privacy statement
 
-Teamer.net is the sport team management site which makes it easy for sports team organizers to communicate with their team members, and provides team members with a private online community to talk tactics, chat and share photo’s. 
+Teamer.net is the sport team management site which makes it easy for sports team organizers to communicate with their team members, and provides team members with a private online community to talk tactics, chat and share photos. 
 
 Your privacy is of the utmost importance to Teamer.net. This privacy statement provides information about the personal information that Teamer.net collects, and the ways in which Teamer.net uses that personal information. If you have any questions about the privacy policy at Teamer.net, please contact help@teamer.net with details of your question. 
 
@@ -34,6 +34,7 @@ Teamer.net may use your personal information to:
   * Enable your access to and use of the website services
   * Send you marketing communications relating to the services of Teamer.net
   * Teamer.net may send communications on behalf of third parties to Teamer.net members, but will never disclose the email addresses of members to these third parties. Users may opt out of receiving these messages at any time. 
+  * Teamer will occasionally run sport product/sports industry surveys on behalf of our partners. These surveys will be carried out on a permission basis, with members invited to participate by email or via on-site invitation. There is no obligation to participate in these optional surveys. Members who do not wish to be considered for participation in such surveys can unsubscribe from receiving these invites at any time. 
 
 
 
