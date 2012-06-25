@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purewow.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218233924id_/http%3A//www.purewow.com/footer/national/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purewow.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625132558id_/http%3A//www.purewow.com/footer/national/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - PureWow
+# Privacy Policy | PureWow
 
 Wow Media Products, Inc. takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you register for and view our Daily Email or visit our Web Site. Please read this notice carefully.
 
