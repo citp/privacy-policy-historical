@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contagiousmagazine.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225205124id_/http%3A//www.contagiousmagazine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contagiousmagazine.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625111454id_/http%3A//www.contagiousmagazine.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy / Contagious Magazine
 
@@ -67,4 +67,4 @@ Our users are given the opportunity to 'opt-in' to receiving newsletters and oth
 
 If we decide to change our privacy policy, we will post those changes on our website so our users are always aware of what information we collect, how we use it, and under which circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-Contagious Communications is a limited company registered in England. Registered number 6183878. Registered office: 45 Foubert's Place, London, W1F 7QH, UK.
+Contagious Communications is a limited company registered in England. Registered number 6183878. Registered office: Dunstan House, 14a St. Cross St, London, EC1N 8XA, UK.
