@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualeconomics.com privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903091432id_/http%3A//www.visualeconomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualeconomics.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625110623id_/http%3A//visualeconomics.creditloan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
