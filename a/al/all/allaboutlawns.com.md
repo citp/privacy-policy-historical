@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the allaboutlawns.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225517id_/http%3A//www.allaboutlawns.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutlawns.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625183740id_/http%3A//www.allaboutlawns.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - All About Lawns
 
-**LAST UPDATED:   **March 22, 2011
+**LAST UPDATED:   **April 28, 2011
 
 **QuinStreet, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy
 
-**Personal Information**
+**PERSONAL INFORMATION  
+**
 
 **Personal Information We Collect**
 
@@ -29,6 +30,7 @@ We collect Personal Information when you interact with us on the Site.  We may 
 We may use Personal Information:
 
   * When you request, to connect you with vendors who will provide you with information about products and services.
+  * When you’ve submitted your Personal Information to us, which submission you understand and agree to constitute making an “inquiry” to us and our affiliated entities, to contact you or allow our vendors to contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/or federal Do Not Call list, because your inquiry serves as an exception to state and/or federal Do Not Call laws.
   * to respond to your inquiries and fulfill your requests, such as to send you newsletters.
   * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information.
   * to send you surveys and marketing communications that we believe may be of interest to you.
@@ -58,7 +60,8 @@ Your Personal Information may be disclosed:
 
 
 
-**NON-personal Information**
+**NON-PERSONAL INFORMATION  
+**
 
 **Non-Personal Information We Collect**
 
@@ -97,13 +100,13 @@ We use IP Addresses for purposes such as calculating Site usage levels, helping 
 
 This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link or a widget on our site.  The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.  We may also utilize framing techniques that may make it appear that you are still on the site when you are actually on a third party web site.
 
-**Third Party VENDORS**
+**THIRD PARTY VENDORS**
 
-We also work with vendors and partners in operating and improving the Site.  These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies.  These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites.  You can opt out of some of our vendors' use of cookies and other technologies to tailor personalized content or advertising to you by visiting <http://networkadvertising.org/optout_nonppii.asp> and <http://www.clicktale.net/disable.html>.  Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again.  For more information, see  http://www.networkadvertising.org/managing/faqs.asp#question_11.
+We also work with vendors and partners in operating and improving the Site.  These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies.  These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites.  You can opt out of some of our vendors' use of cookies and other technologies to tailor personalized content or advertising to you by visiting <http://networkadvertising.org/optout_nonppii.asp> and <http://www.clicktale.net/disable.html>.  Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again.  For more information, see <http://www.networkadvertising.org/managing/faqs.asp#question_11>.
 
 PLEASE NOTE THAT WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS AND/OR OMISSIONS OF THIRD PARTY VENDORS.
 
-**security**
+**SECURITY**
 
 We use reasonable organizational, technical and administrative measures to protect Personal Information under our control.  Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the _“Contacting Us”_ section below.
 
@@ -128,11 +131,11 @@ If you would like to review, correct, update, suppress, delete or otherwise limi
 
 In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable. 
 
-**RETENTION PERIOD**
+**DATA RETENTION PERIOD**
 
-We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+We will retain your Personal Information for as long as your account is active or as needed to provide you services and for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law. If you wish to request that we no longer use your information, please follow the instructions above. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**use of site by MINORS**
+**USE OF SITE BY MINORS**
 
 The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site.
 
@@ -144,7 +147,8 @@ Your Personal Information may be stored and processed in any country where we ha
 
 we ask that you not send us, and you not disclose, any sensitive Personal Information ( _e.g._ , Social Security number, driver’s license number, credit card number (unless necessary to make a purchase), information related to racial or ethnic origin, political opinions, religion or other beliefs, criminal background or trade union membership) on or through the Site or otherwise to us.
 
-**Your California Privacy Rights**
+**YOUR CALIFORNIA PRIVACY RIGHTS  
+**
 
 California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. If you are a California resident you may request this information by writing to us at the address below. QuinStreet, Inc. is not obligated to respond to more than one such request from you per calendar year.
 
