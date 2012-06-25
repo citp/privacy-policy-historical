@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lookingyourbest.com privacy policy that was archived on 2011-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110828035349id_/http%3A//www.lookingyourbest.com/info/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookingyourbest.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625055352id_/http%3A//www.lookingyourbest.com/info/privacystatement.php) for the most accurate reproduction.*
 
 # LookingYourBest.com - Your Plastic Surgery Resource
 
 [ Share](http://www.addthis.com/bookmark.php)
 
-Please read this privacy statement carefully. (Click [**here**](http://www.lookingyourbest.com/info/termsofservice) to read Terms and Conditions related to using this website.) Privacy is very important to us. We also understand that privacy is very important to you. This Privacy Statement tells you how we protect and use information that we gather through this LOOKINGYOURBEST.COM web site. By using this web site, you agree to the terms of the most recent version of this Privacy Statement. You may be subject to additional terms that may apply when you access particular services or materials on certain areas in this web site, or by following a link from this web site.
+Please read this privacy statement carefully. (Click [**here**](https://web.archive.org/info/termsofservice) to read Terms and Conditions related to using this website.) Privacy is very important to us. We also understand that privacy is very important to you. This Privacy Statement tells you how we protect and use information that we gather through this LOOKINGYOURBEST.COM web site. By using this web site, you agree to the terms of the most recent version of this Privacy Statement. You may be subject to additional terms that may apply when you access particular services or materials on certain areas in this web site, or by following a link from this web site.
 
 What Does LOOKINGYOURBEST.COM Do with Non-personal Information?  
 What Does LOOKINGYOURBEST.COM Do with Non-personal Information?  
@@ -146,5 +146,9 @@ LookingYourBest.com Web Administrator
 Orem, Utah  
 Telephone: 800-873-9062  
 E-mail: [webmaster@lookingyourbest.com](mailto:webmaster@lookingyourbest.com)
+
+Comments
+
+[blog comments powered by ](http://disqus.com/)
 
 | 
