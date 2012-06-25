@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learninterestrates.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220212803id_/http%3A//learninterestrates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learninterestrates.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625181350id_/http%3A//learninterestrates.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Learn Interest Rates
 
@@ -29,5 +29,3 @@ LIR works with the following ad companies: Google Adsense and Infolinks. Please 
 **Contact Information**
 
 If users have any questions or suggestions regarding this privacy policy, please contact LIR by sending email to: kumitakaonline at gmail dot com
-
-» Filed Under | [Leave a Comment](http://learninterestrates.com/privacy-policy/#respond "Comment on Privacy Policy")
