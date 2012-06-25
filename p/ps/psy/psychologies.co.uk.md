@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologies.co.uk privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025175018id_/http%3A//www.hearst.co.uk/magazines/Data-protection.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologies.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625162357id_/http%3A//www.hearst.co.uk/magazines/Data-protection.html) for the most accurate reproduction.*
 
 # Data protection
 
@@ -28,9 +28,7 @@ If you would like to contact us for any reason, please email us at [dp@hearst.co
 
 **1.1 How we collect Personal Data**
 
-**1.2 Cookies**
-
-**1.3 Personal Data that we collect from you about others**
+**1.2 Personal Data that we collect from you about others**
 
 **2\. How will we use the information we collect?**
 
@@ -66,13 +64,7 @@ We collect Personal Data from you, such as your name, contact details, country o
 
 In order to improve our services to you, we may ask you to voluntarily complete confidential surveys. We do not ask you to provide us any personally identifiable data in association with these surveys although we do associate your responses with Personal Data. If you do not wish to participate in a survey, however, simply decline to participate when asked.
 
-**1.2 Cookies**
-
-“Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website. Hearst Magazines UK Ltd uses cookies to provide you with a more personal and interactive experience on our sites. You have the ability to accept or delete cookies, but please be aware that for some parts of our site to work, you will need to accept cookies. For more information on cookies please visit [www.allaboutcookies.org.](http://www.allaboutcookies.org/)
-
-Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies we are currently working towards implementing the new requirements in line with guidance provided by the Information Commissioner's Office.
-
-**1.3 Personal Data that we collect from you about others**
+ **1.2 Personal Data that we collect from you about others**
 
 If you decide to invite a friend or family member to join any of our services, we will collect your name and e-mail address as well as your friend's or family member's e-mail address in order to send their e-mail. We will always ask your permission if we want to mention your name when contacting your friend or family member. 
 
