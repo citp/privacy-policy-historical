@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the internetdj.com privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226081411id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the internetdj.com privacy policy that was archived on 2012-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625115206id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta name="description" content="Find, search and download new mp3 music. Upload and share your music with your social network.">
 	<meta name="keywords" content="electronic music, electronic mp3, upload music, music news, music videos, music widgets">
 	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 	<meta property="fb:admins" content="590495798">
+  <meta property="fb:app_id" content="145154548867538">
+  <link href="/include/promobox/style.css" media="all" rel="stylesheet" type="text/css">
+
+  <style media="all" type="text/css">@import "/include/menu/menu_style.css";</style>
+
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=145154548867538"></script><script type="text/javascript" src="/topscripts.js" language="JavaScript"></script>
 
 
-	<link href="/include/menu/css/dropdown/dropdown.css" media="all" rel="stylesheet" type="text/css">
-	<link href="/include/menu/css/dropdown/themes/adobe.com/default.advanced.css" media="all" rel="stylesheet" type="text/css">
-
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/topscripts.js" language="JavaScript"></script>
-
-
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-  <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/smoothness/jquery-ui.css" type="text/css">
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+  <link rel="stylesheet" href="/include/theme/css/Aristo/Aristo.css" type="text/css">
   
 	<link rel="stylesheet" href="/images/style.css" type="text/css">
 
@@ -26,153 +26,146 @@
 	<meta property="og:title" content="Privacy Statement for InternetDJ.com">
   <meta property="og:type" content="article">
   <meta property="og:url" content="http://www.internetdj.com/article/privacy-statement-for-internetdjcom-30">
-  <meta property="og:image" content="http://www.internetdj.com/images/pix.gif">
+  <meta property="og:image" content="/images/pix.gif">
   <meta property="og:site_name" content="InternetDJ.com">
   <meta property="fb:admins" content="mbordash">
   <meta property="og:description" content="">
+
+      <script language="javascript">
+        $(function() {
+          $( "#tabs" ).tabs();
+        });
+      
+      </script>
 
 
 	<title>Privacy Statement for InternetDJ.com</title>
 
 	<script type="text/javascript">
+
           $(function() {
-            $( "button, input:submit, a", ".button").button();
-          });
-	</script>
+            $(".artist-login").click(function(){
+              window.location.href = "http://www.internetdj.com/login.php?redirect=L2FydGljbGUucGhwP3N0b3J5aWQ9MzA=";
+              return false;
+            });
+          });    
 
-</head>
+          $(function() {
+            $(".follow").click(function(){
+              var element = $(this);
+              var I = element.attr("id");
+              var info = 'userid='+I+'&op=addfol';
+                
+              $.ajax({
+                url: '/artists.php',
+                data: info,
+                success: function(){}
+              });              
+             
+              $("#follow"+I).fadeOut(200).hide();
+              $("#remove"+I).fadeIn(200).show();
 
-<body>
+              $("#remove"+I).addClass("ui-state-active"); 
   
-  <div id="content">
+              return false;
+             
+            });
+          });
+          
+          $(function() {
+            $(".remove").click(function(){
+              var element = $(this);
+              var I = element.attr("id");
+              var info = 'userid='+I+'&op=addfol&remove=yes';
 
-    <div class="headercontent">
+              $.ajax({
+                url: "/artists.php",
+                data: info,
+                success:function(){}
+              });
 
-<script>
-				$(function() {
-          $( "#dialog-form" ).dialog({
-            autoOpen: false,
-            height: 300,
-            width: 350,
-            zIndex:4000,
-            modal: true
+              $("#remove"+I).fadeOut(200).hide();
+              $("#follow"+I).fadeIn(200).show();
+
+              $("#follow"+I).removeClass("ui-state-active");
+
+              return false;
+             
+            });
+             
           });
 
-					$( ".open-login")
-						.click(function() {
-							$( "#dialog-form" ).dialog( "open" );
-							return false;
-						});
-  				$( "#album-cover" ).dialog({
+
+          $(function() {
+            
+            $(".trigger").click(function(){
+              $(".panel").toggle("fast");
+              $(this).toggleClass("active");
+              return false;
+            });
+            
+            $( "button, input:submit, a", ".button").button();
+          
+            $( "#album-cover" ).dialog({
                     autoOpen: false,
                     height: 340,
                     width: 350,
                     modal: true
-                  });
-          $( "#open-album-cover").click(function() {
+            });
+            $( "#open-album-cover").click(function() {
             $( "#album-cover" ).dialog( "open" );
-            return false;
+              return false;
+            });
+
           });
+  </script>
 
-        });
-        </script>
-  <div class="form" id="dialog-form" style="display: none;" title="Login to InternetDJ.com">
-          <form action="/user.php" method="post">
-            <fieldset>
+</head>
 
-              <input type="hidden" name="op" value="login">
-              <div class="grid-12-12">
-                <label class="form-lbl">Username</label>
-                <input class="form-txt" type="text" name="uname" size="26" maxlength="25">
-              </div>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=145154548867538";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
-              <div class="grid-12-12 field-clear">
+  <div style="-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.1);box-shadow: 0 1px 3px rgba(0,0,0,.1);background-image: -webkit-linear-gradient(top, white, #F8F8F8);
+background-image: -moz-linear-gradient(top, white, #F8F8F8);
+background-image: -ms-linear-gradient(top, white, #F8F8F8);
+background-image: -o-linear-gradient(top, white, #F8F8F8);
+background-image: linear-gradient(top, white, #F8F8F8);
+border-bottom: 1px solid #CDCDCD;z-index: 1000; position:fixed; top: 0;background-color: #fff; width: 100%; height: 40px; ">
+    <a href="/"><img alt="InternetDJ.com :: Electronic Music, Videos, Bands and News" title="InternetDJ.com :: Electronic Music, Videos, Bands and News" border="0" src="/images/logo/internetdj_logo.png" style="float: left; height: 29px; padding-top:6px; padding-left: 8px; padding-right: 10px;"></a> 
+    <div class="menu" style="min-width: 1080px">
+        <ul id="nav">
 
-                <label class="form-lbl">Password</label>
-                <input class="form-txt" type="password" name="pass" size="26" maxlength="25">
-              </div>
-
-              <div class="grid-12-12 field-clear field-button">
-                <div class="button">
-                  <input class="form-button form-right" type="submit" title="login" value="login">
-                </div>
-              </div>
-
-
-            </fieldset>
-            <input type="hidden" name="redirect" value="L2FydGljbGUucGhwP3N0b3J5aWQ9MzA=">
-          </form>
-
-          <a href="/user.php?action=lost">Lost Password?</a> <br><br> <a href="/user.php?action=register">Want to Register?</a>
-        </div>
-     
-      <div class="left_side" style="margin:0; padding:0; width:92px;">
-	      <a href="/"><img alt="InternetDJ.com :: Electronic Music, Videos, Bands and News" title="InternetDJ.com :: Electronic Music, Videos, Bands and News" border="0" src="/images/logo/internetdj_logo2.gif"></a>
-      </div>
-
-      <div class="right_side" style="width: 905px; height: 90px; overflow: hidden; margin:0; padding:0;">
-        <div style="width: 728px; height: 90px; overflow: hidden; float: left;">
-          <script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=202227");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=202227&amp;cb=25678739401&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20111226081411id_/http%253A//www.internetdj.com/article.php%253Fstoryid%253D30"></script>
-
-
-  <script type="text/javascript"><!--
-  var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
-  var casaleU=escape(window.location.href);
-  var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
-  document.write('<scr'+'ipt'+casaleHost+'108899&amp;u=');
-  document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
-  //--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=108899&amp;u=https%3A//web.archive.org/web/20111226081411id_/http%253A//www.internetdj.com/article.php%253Fstoryid%253D30&amp;f=1&amp;id=1863129067.5660064"></script>
-        </div>
-        <div style="width: 170px; height: 90px; overflow: hidden; float: right;">
-          <a href="http://www.internetdj.com/radio/"><img src="/images/banners/124x90_idjradio.gif" border="0" alt="Internet DJ Radio" style="border: 0;"></a>
-        </div>
-      </div>
-      
-      
-      <div style="clear: both; margin:5px;"></div>
-
-      <div style="background-color: #000; width: 1015px; height: 36px;">
-
-        <ul id="nav" class="dropdown dropdown-horizontal;">
-          <li id="n-home"><a href="/" class="dir">Home</a></li>
-
-          <li id="n-music"><a href="/artists.php" class="dir">Music</a>
+          <li id="n-music"><a href="/artists.php" class="dir">Songs</a>
             <ul>
-              <li class="first"><a href="/artists.php">Music Main</a></li>
 
-              <li class="empty">Find Music</li>
+              <li class="empty">Find Songs and Albums</li>
               <li><a href="/artists.php?op=newtracks">New Releases</a></li>
-              <li><a href="/tags.php">Tags and Genres</a></li>
-              <li><a href="/tracks.php">Song Filter</a></li>
+              <li><a href="/tags.php">Browse by Artist</a></li>
+              <li><a href="/tracks.php">Browse by Songs</a></li>
+              <li><a href="/sotd.php">Song of the Day</a></li>
               <li><a href="/artists.php?op=aotw">Artist of the Week</a></li>
-
-              <li class="empty">Stream Music</li>
-
-              <li><a href="/mixshow.php">Playlists</a></li>
-              <li><a href="/mixes.php">Mix Sets</a></li>
-              <li><a href="/radio/">Live Radio</a></li>                      
 
               <li class="empty">Downloads</li>
               <li><a href="/sources.php">Sources &amp; Samples</a></li>
-              <li><a href="/software.php">Music Software</a></li>
               <li><a href="/tracks.php?op=showtracks&amp;download=2">Free MP3 Downloads</a></li>
-              <li><a href="http://www.bandv2.com">BANDv2.com Music Shop</a></li>
             </ul>
           </li>
+
+          <li id="n-mixes"><a href="/mixes.php" class="dir">Mixes</a>
+            <ul>
+              <li><a href="/mixes.php">Mix Sets</a></li>
+              <li><a href="/mixshow.php">Playlists</a></li>
+            </ul>
+          </li>
+
+
           <li id="n-video"><a href="/video.php" class="dir">Video</a>
             <ul>
               <li class="first"><a href="/video.php">Videos Main</a></li>
@@ -190,7 +183,6 @@
               <li><a href="/charts.php?op=allones">All #1 Songs</a></li>
               <li><a href="/reviews.php?op=top">Top Reviewers</a></li>
               <li><a href="/pointleaders.php">Point Leaders</a></li>
-              <li><a href="/reviews.php" class="dir">Music Reviews</a></li>
             </ul>
           </li>
           <li id="n-news"><a href="/news.php" class="dir">Blog</a>
@@ -204,7 +196,7 @@
               <li><a href="/newswire.php">Submit Article</a></li>
             </ul>
           </li>
-          <li id="n-forum"><a href="/members.php" class="dir">Members</a>
+          <li id="n-forum"><a href="/forum.php" class="dir">Forum</a>
             <ul>
               <li class="first"><a href="/members.php">Members Home</a></li>
               <li><a href="/forum.php">Forum</a></li>
@@ -219,36 +211,67 @@
 
           <li id="n-search" style="background: none">
             <form name="searchform" method="get" action="/search.php" style="margin:5px 15px 0 10px;display: inline;float:left;">
-              <input style="color: #969696;font: normal 14px/17px Tahoma, Verdana, Arial, Helvetica, sans-serif;width: 120px;height: 16px;padding: 3px 29px 2px 5px;" onfocus="document.searchform.query.value='';" type="text" name="query" value="search news, music">
+              <input style="color: #969696;font: normal 14px/17px Tahoma, Verdana, Arial, Helvetica, sans-serif;width: 120px;height: 15px;padding: 3px 29px 2px 5px;" onfocus="document.searchform.query.value='';" type="text" name="query" value="search news, music">
               <!--<input style="float: right;position: relative;margin: 5px 0 0 -20px;" type="image" src="/include/menu/css/dropdown/themes/vimeo.com/images/btn_search.png" name="search" value="Search" />-->
             </form>
           </li>
 
-          <li> <span style="margin-left: 190px">&nbsp; </span></li>
-          <li><a style="font-size: 12px;" id="open-login" class="open-login" href="/user.php?redirect=L2FydGljbGUucGhwP3N0b3J5aWQ9MzA=">Login</a></li>
-          <li><a style="font-size: 12px;background: #ff0000; height:20px; padding:0 5px; margin:7px; 5px 0 0" href="/user.php?action=register">Sign Up</a></li>
+          <li> <span style="margin-left: 100px;">&nbsp;</span></li>
+          <li><a href="/login.php?redirect=L2FydGljbGUucGhwP3N0b3J5aWQ9MzA=">Log in</a></li>
+          <li><a href="/signup.php"><!--<img src="/images/twitter-18.png" width="18" height="18" alt="" style="vertical-align: middle;margin-bottom: 3px;margin-right: 7px;" />--><img src="/images/facebook-18.png" width="18" height="18" alt="" style="vertical-align: middle;margin-bottom: 3px;margin-right: 7px;">Sign up</a></li>
 
           
         </ul>
-        <div style="clear: both; margin: 5px;"></div>
-      </div>	
-        
-    </div> <!-- end headercontent -->
+         </div>
+  </div> <!-- end of menu bar -->	
+  <div style="margin-top: 50px;"></div>
+  <div style="width: 728px; height: 90px; overflow: hidden; margin: 0 auto;">
+          <!-- Leaderboard -->
+<div id="div-gpt-ad-1334256277484-0" style="width:728px; height:90px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1334256277484-0'); });
+</script>
+</div>
+
+  <script type="text/javascript"><!--
+  var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
+  var casaleU=escape(window.location.href);
+  var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
+  document.write('<scr'+'ipt'+casaleHost+'108899&amp;u=');
+  document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
+  //--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=108899&amp;u=https%3A//web.archive.org/web/20120625115206id_/http%253A//www.internetdj.com/article.php%253Fstoryid%253D30&amp;f=1&amp;id=1863131372.0077069"></script>
+  </div>
+  <div style="margin-top: 10px;"></div>
+
+  <div id="content">
 
       <div class="left">
         <h2><a href="/news.php">Music Blog</a> &gt; <a href="/topics.php?topic=33">Music News</a></h2>
         <h1>Privacy Statement for InternetDJ.com</h1>
 
-        <div class="left_side">
-          <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=b7e7d615-5a05-434f-9fa8-640c18c7fcfe&amp;type=website&amp;embeds=true&amp;style=horizontal&amp;post_services=email%2Cfacebook%2Ctwitter%2Cgbuzz%2Cmyspace%2Cdigg%2Csms%2Cwindows_live%2Cdelicious%2Cstumbleupon%2Creddit%2Cgoogle_bmarks%2Clinkedin%2Cbebo%2Cybuzz%2Cblogger%2Cyahoo_bmarks%2Cmixx%2Ctechnorati%2Cfriendfeed%2Cpropeller%2Cwordpress%2Cnewsvine"></script>
-        </div>
-        <div class="right_side">
-          <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.internetdj.com%2Farticle%2Fprivacy-statement-for-internetdjcom-30&amp;layout=standard&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowtransparency="true"></iframe>
-        </div>
 
-  <div style="clear: both;"></div>
+
+    <div class="fb-like" data-href="
+  http://www.internetdj.com/article/privacy-statement-for-internetdjcom-30" data-send="true" data-layout="button_count" data-width="150" data-show-faces="false"></div>
+
+    <a href="https://twitter.com/share" class="twitter-share-button" data-via="internetdj">Tweet</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+    <!-- Place this tag where you want the +1 button to render -->
+    <g:plusone></g:plusone>
+
+    <!-- Place this render call where appropriate -->
+    <script type="text/javascript">
+      (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      })();
+    </script>
+  
+  <div style="clear: both; margin: 5px;"></div>
   <div style="width: 200px; float: left; margin: 0 10px 0 0;">
-<a href="/topics.php?topic=33"><img class="image" style="width: 200px;" src="/thumb.php?src=/images/pix.gif&amp;wmax=200&amp;hmax=313&amp;uid=article&amp;quality=90" border="0" alt="Music News"></a></div><p style="font-size: 12px; color: #666">Posted  by <a href="/user/michael">Michael Bordash</a> on Thursday, August 09 2001</p><span style="font-size: 16px; line-height: 20px">
+<a href="/topics.php?topic=33"><img class="image" style="width: 200px;" src="/images/pix.gif" border="0" alt="Music News"></a></div><p style="font-size: 12px; color: #666">Posted  by <a href="/user/michael">michael</a> on 2001-08-09 07:35:30</p><span style="font-size: 16px; line-height: 20px">
         <p></p>
         <p>InternetDJ is committed to providing quality online activities and information to fans. While we encourage the interactive nature of online media, we strive to ensure the online safety and privacy of our visitors. 
 <br><br>
@@ -264,7 +287,7 @@ targeting activities associated with its services, please go
 
 <br><br>
 Third Party Cookies<br>
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser.
 <br><br>
 General Activities 
 <br><br>
@@ -306,87 +329,107 @@ This policy, like the online medium itself, is subject to change. </p>
       </span><div class="calloutblue"><a style="font-size: 20px; color: #fff; text-decoration: underline;" href="/user.php?action=register">Register Now</a> and get daily music news, songs and videos in your inbox.</div><div style="clear: both; margin-top: 10px;"></div>
   
         <h3>Article Comments</h3>
-        <div class="left_box"><p><br><i><b>No comments found for this article</b></i><br><a name="postcomments"></a>
-        </p></div>
-        <h3>Post Your Comment</h3>
-        <div class="left_box">
-          <a name="postcomment"></a>
-					<form action="/article.php" method="post">
+        <div class="left_box"><div class="fb-comments" data-href="http://www.internetdj.com/article/privacy-statement-for-internetdjcom-30" data-num-posts="5" data-width="570"></div>
+	</div>
 
-					<p>
-    <b>Posting as: Guest (Or <a href="/user.php" class="open-login">Login</a>/<a href="/user.php">Sign up</a>)<br>
-						Are you a human?
-			<script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6LcbV7sSAAAAACRK-Ldv4wQufHOvn3Cz4f40Cc-g"></script>
-
-	<noscript>
-  		<iframe src="http://www.google.com/recaptcha/api/noscript?k=6LcbV7sSAAAAACRK-Ldv4wQufHOvn3Cz4f40Cc-g" height="300" width="500" frameborder="0"></iframe><br/>
-  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
-  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
-	</noscript>
-	    <input type="hidden" name="op" value="postcomment">
-	    <input type="hidden" name="storyid" value="30">
-	    <b>Your Comment:</b><br>
-	    <textarea name="comments" rows="6" cols="50"></textarea><br>
-	    <br>
-	    <input type="submit" value="Submit">
-	    <br>
-		</b></p></form><b>	</b></div><b>
-
-      </b></div><b>	
+      </div>	
       <div class="right">
-        <div class="calloutpink" style="margin: 10px 0 10px 0;">
-          <a style="color: #fff; font-size: 18px;text-decoration: underline;" href="newswire.php">Submit Press Release</a><br>
-          Get your press release on InternetDJ right now! <br>
-          Or, if you have a tutorial or a cool article to submit, contact <a href="/replypmsg.php?send=1&amp;uname=michael">michael</a>.
-        </div>
 <div style="width: 300px;">
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=202228");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=202228&amp;cb=99692178407&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20111226081411id_/http%253A//www.internetdj.com/article.php%253Fstoryid%253D30"></script>
-
-
+<!-- Rectangle -->
+<div id="div-gpt-ad-1334458464673-0" style="width:300px; height:250px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1334458464673-0'); });
+</script>
+</div>
 </div>
 
       <div style="clear: both; margin-top: 3px;"></div>
       <h3>latest headlines</h3>
       <div class="left_box">      
-» <a href="/article/12-disappointing-facts-about-popular-music-1365">12 Disappointing Facts about Popular Music</a><br>» <a href="/article/cant-go-wrong-with-dj-ella-dj-wong-at-rubyskye-san-fran-1364">Can't go wrong with DJ Ella &amp; DJ Wong at Rubyskye San Fran</a><br>» <a href="/article/dubstep-to-rattle-your-brain-1363">Dubstep to rattle your brain</a><br>» <a href="/article/cosmic-gate-releases-brand-new-artist-album-wake-your-mind-1362">Cosmic Gate releases brand new artist album Wake Your Mind</a><br>  » <a href="/news.php" style="font-weight: bold; font-style: italic">More in News</a>
+» <a href="/article/windy_land_you_gonna_love">Windy Land - You Gonna Love :: OUT NOW</a><br>» <a href="/article/w_hotels_burn_studios_dj_search_2012">W Hotels &amp; Burn Studios Present DJ Lab 2012 - Final DJ Search - Asia</a><br>» <a href="/article/gerald_the_genius_studio">The Secrets of Gerald The Genius' Studio Revealed</a><br>» <a href="/article/garmiani_release">Garmiani - In Front Of Your Eyes out on Beatport today</a><br>  » <a href="/news.php" style="font-weight: bold; font-style: italic">More in News</a>
       </div>
       <h3>popular headlines</h3>
       <div class="left_box">
-» <a href="/article/bpm-festival-line-up-announced-1361">BPM Festival Line-up Announced</a><br>» <a href="/article/cosmic-gate-releases-brand-new-artist-album-wake-your-mind-1362">Cosmic Gate releases brand new artist album Wake Your Mind</a><br>» <a href="/article/12-disappointing-facts-about-popular-music-1365">12 Disappointing Facts about Popular Music</a><br>» <a href="/article/dubstep-to-rattle-your-brain-1363">Dubstep to rattle your brain</a><br> » <a href="/news.php" style="font-weight: bold; font-style: italic">More in News</a>
+» <a href="/article/stoli_vodka_nightlife">Stolichnaya® Premium Vodka Reaffirms Commitment to Nightlife</a><br>» <a href="/article/disco_fries_2012">The Disco Fries Continue Upward Trajectory</a><br>» <a href="/article/gerald_the_genius_studio">The Secrets of Gerald The Genius' Studio Revealed</a><br>» <a href="/article/garmiani_release">Garmiani - In Front Of Your Eyes out on Beatport today</a><br> » <a href="/news.php" style="font-weight: bold; font-style: italic">More in News</a>
       </div>
 
+      <div style="margin: 5px; clear: both"> </div>
+          <div id="tabs">
+            <ul>
+              <li><a href="#tabs-1">Popular Music Videos</a></li>
+              <li><a href="#tabs-2">Latest Music Videos</a></li>
+            </ul>
 
-      <h3><a href="video.php">Music Video Chart</a></h3>
-      <div class="left_box">
-<div class="img-shadow"><a target="_top" href="/video/81266"><img border="0" src="/thumb.php?src=media/user-videos/81266.jpg&amp;uid=external&amp;wmax=100&amp;hmax=60&amp;quality=90&amp;bgcol=000"></a></div><span style="font-size: 14px; font-weight: bold;"><br>1. <a target="_top" href="/video/81266">Axwell - Heart Is King</a></span><div style="clear: both"></div>2. <a target="_top" href="/video/81741">Tiësto &amp; Mark Knight ft. Dino - Beautiful World</a><br><br>3. <a target="_top" href="/video/82007">LMFAO - Party Rock Anthem ft. Lauren Bennett, GoonRock </a><br><br>4. <a target="_top" href="/video/81267">Tiësto &amp; Hardwell - Zero 76</a><br><br>5. <a target="_top" href="/video/81551">Eric Prydz - Pjanoo Sax version Syntheticsax bootleg [2011] Synthetic studio </a><br><br><a href="/video.php">More Music Videos &gt; </a>
-      </div>
-                          
-
+            <div id="tabs-1">
+<table style="width: 100%"><tbody><tr>
+               <th><font style="font-size: 20px">1</font></th>
+               <td>
+  <a href="/video/94761"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/8mS8F5ifRrY/0.jpg"></a>	<h5><a href="/video/94761">Bob Sinclair - Sound of fredom</a></h5></td>
+            </tr>
+  <tr>
+               <th><font style="font-size: 20px">2</font></th>
+               <td>
+  <a href="/video/94540"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/alkMox99oes/0.jpg"></a>	<h5><a href="/video/94540">Dj Ajm Gold MasterPiece Mix Compilation</a></h5></td>
+            </tr>
+  <tr>
+               <th><font style="font-size: 20px">3</font></th>
+               <td>
+  <a href="/video/94610"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/ukYDYR2jwPY/0.jpg"></a>	<h5><a href="/video/94610">Jeremy Despres feat. Florence François - It's Over</a></h5></td>
+            </tr>
+  <tr>
+               <th><font style="font-size: 20px">4</font></th>
+               <td>
+  <a href="/video/94733"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/V2zaDnRoNlY/0.jpg"></a>	<h5><a href="/video/94733">RejepAtes - Uplifting (Ultramix) 2012 </a></h5></td>
+            </tr>
+  <tr>
+               <th><font style="font-size: 20px">5</font></th>
+               <td>
+  <a href="/video/94442"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/f4nMx8S-EYY/0.jpg"></a>	<h5><a href="/video/94442">Jessie J - Domino - Remix by Amir Afargan</a></h5></td>
+            </tr>
+  <tr>
+               <th><font style="font-size: 20px">6</font></th>
+               <td>
+  <a href="/video/94608"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/e0ISx8qh3ow/0.jpg"></a>	<h5><a href="/video/94608">JOANNA RAYS - MY HEART IS BURNING</a></h5></td>
+            </tr>
+  <tr>
+               <th><font style="font-size: 20px">7</font></th>
+               <td>
+  <a href="/video/94638"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/csfBOAjw0H0/0.jpg"></a>	<h5><a href="/video/94638">Azizi Gibson &amp; SB Wise- "Angels with filthy souls" preHISTORIC Crew x Those Folks </a></h5></td>
+            </tr>
+  <tr>
+               <th><font style="font-size: 20px">8</font></th>
+               <td>
+  <a href="/video/94609"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/cGV6njwC2nM/0.jpg"></a>	<h5><a href="/video/94609">Windy Land - You Gonna Love</a></h5></td>
+            </tr>
+  <tr>
+               <th><font style="font-size: 20px">9</font></th>
+               <td>
+  <a href="/video/94735"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/Vz47_N7F0EI/0.jpg"></a>	<h5><a href="/video/94735">RejepAtes - Loneliness ( Ultra Mix)</a></h5></td>
+            </tr>
+  <tr>
+               <th><font style="font-size: 20px">10</font></th>
+               <td>
+  <a href="/video/94659"><img style="width: 67px; height: 40px;float: left; padding-right: 2px;" border="0" src="http://img.youtube.com/vi/ZGL1_lvk-P4/0.jpg"></a>	<h5><a href="/video/94659">Vedran Fabijanic - Glumis</a></h5></td>
+            </tr>
+  </tbody></table>        <div style="clear: both; padding-top: 10px;">Check out <a href="/video.php">all new music videos</a></div>
+            </div>
+            
+            <div id="tabs-2">
+              <ul class="ulinline">
+<table><tbody><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94958"><img border="0" class="image" src="http://img.youtube.com/vi/LSgPuwuv0L4/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94958">Duty Sound &amp; Linda Garcia - Dame Dame</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94957"><img border="0" class="image" src="http://img.youtube.com/vi/kaIBMC5ydTM/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94957">Lucky Garcia &amp; Jany Mc Honey - Painting Nature</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94956"><img border="0" class="image" src="http://img.youtube.com/vi/j5i1KCj0HSI/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94956">Rene Ablaze &amp; Alexander Xendzov ft Shanon Fehlberg - Cast Your spell</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94881"><img border="0" class="image" src="http://img.youtube.com/vi/-2GHkcR8jns/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94881">Dj Thizz number 1 Dj Transaction NYC HOUSE MUSIC</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94873"><img border="0" class="image" src="http://img.youtube.com/vi/uAZq1atur04/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94873">August 8 - Mystery (Official Video)</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94872"><img border="0" class="image" src="http://img.youtube.com/vi/vj3jAPdxqEg/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94872">CALL OF THE WILD</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94857"><img border="0" class="image" src="http://img.youtube.com/vi/ayRJMO0tn5E/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94857">And As Soon As I Ejaculated I Knew That I Had Made A Mistake</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94854"><img border="0" class="image" src="http://img.youtube.com/vi/cbZC5gAoAhA/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94854">Unsigned Artist Feature: Not a Chance by Nikki O [Radio Rymatica]</a></td></tr><tr><th valign="top"><a target="_top" href="http://www.internetdj.com/video/94815"><img border="0" class="image" src="http://img.youtube.com/vi/rf1Me_fQIXU/0.jpg" style="width:100px; height:70px"></a></th><td valign="top"><a style="font-size: 14px;" target="_top" href="http://www.internetdj.com/video/94815">Glory To Jah</a></td></tr></tbody></table>         </ul>
+            </div>
+          </div>
 
 </div>
 <script language="JavaScript" type="text/javascript">
 if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; 
 document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.internetdj.com/redirect;sect=redirect;adid=99589431;sz=1x1;ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
-</script><script language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.internetdj.com/redirect;sect=redirect;adid=99589431;sz=1x1;ord=1178429507273972.5?" type="text/javascript"></script>
+</script><script language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.internetdj.com/redirect;sect=redirect;adid=99589431;sz=1x1;ord=6785603178434314?" type="text/javascript"></script>
 
     
   &nbsp;
-  <span style="clear: both\">&nbsp;</span>
-</b></div><b> <!-- end content -->
+  <span style="clear: both">&nbsp;</span>
+</div> <!-- end content -->
 
 <div style="clear: both"> </div>
 
@@ -402,13 +445,15 @@ document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick
       <a href="/mobile">Mobile</a> ·
       <a href="/help.php">Help</a>
       <br>
-      Copyright © 1995-2011 Dashboard Media, LLC · All rights reserved. <br> 
+      Copyright © 1995-2012 Dashboard Media, LLC · All rights reserved. <br> 
       <a href="/article.php?storyid=30">Privacy Policy</a> ·
       <a href="/article.php?storyid=242">Terms of Service</a>
     </p>
     <p style="font-weight: bold; float: right;">
       Follow us: <a href="http://twitter.com/internetdj">Twitter</a>, 
       <a href="http://www.facebook.com/pages/InternetDJcom/24279545757">Facebook</a>
+<br>
+      <a href="http://itunes.apple.com/us/app/internetdj/id513783143"><img src="/images/itunes.png" border="0"></a>
     </p>
     
 <script type="text/javascript">
@@ -437,4 +482,5 @@ _qoptions={ qacct:"p-17TyQxbLMiL3g" };
 
 </script>
   
-</b></body></html>
+
+</body></html>
