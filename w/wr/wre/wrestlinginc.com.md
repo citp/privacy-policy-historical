@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013750id_/http%3A//www.wrestlinginc.com/wi/pages/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625200051id_/http%3A//www.wrestlinginc.com/wi/pages/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - WrestlingInc.com
 
-_Your privacy is important to us. WrestlingInc.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this site. We are committed to undertaking reasonable measures to protect the privacy and security of all of the personal information that is provided to us. Please read the following description of our policies and practices regarding your personal information._
+_Your privacy is important to us. Webcapacity Incorporated has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this site. We are committed to undertaking reasonable measures to protect the privacy and security of all of the personal information that is provided to us. Please read the following description of our policies and practices regarding your personal information._
 
 #### Collection of Personal Information
 
@@ -38,4 +38,4 @@ We collect personal information in a couple of circumstances. For example, we co
 
 
 
-Last updated as of February 26, 2010
+Last updated as of March 05, 2015
