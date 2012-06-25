@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the emetrics.org privacy policy that was archived on 2011-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225222437id_/http%3A//www.emetrics.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emetrics.org privacy policy that was archived on 2012-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625061228id_/http%3A//www.emetrics.org/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -13,15 +13,17 @@
     <meta property="og:image" content="http://www.emetrics.org/images/ems_logo.jpg">	
 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
     <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-    <link media="all" rel="stylesheet" type="text/css" href="/styles/fixed_2009.css" title="Fixed Width Layout">
+    <link media="all" rel="stylesheet" type="text/css" href="/styles/fixed_2009.css?version=05" title="Fixed Width Layout">
     <link media="all" rel="stylesheet" type="text/css" href="/styles/content_2009.css?version=03">
     <link rel="alternate" type="application/rss+xml" title="Current Emetric Summits Feed" href="http://feeds.feedburner.com/CurrentEmetricsSummits">
     <link rel="alternate" type="application/rss+xml" title="Emetrics Press Releases Feed" href="http://feeds.feedburner.com/EmetricsSummitPressReleases">
     <script type="text/javascript" src="http://www.landingpg.com/lp-tracking/lp.js"></script>
 	<script type="text/javascript" src="/foresee/foresee-alive.js"></script>
-	<script type="text/javascript" src="/js/jquery-1.3.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
 	<script type="text/javascript" src="/js/better.tooltip.js"></script>
 	<script type="text/javascript" src="/js/newsletter.js"></script>
+	<script type="text/javascript" src="/js/thickbox.js"></script>
+	<link media="all" rel="stylesheet" type="text/css" href="/styles/thickbox.css">
 	<!-- disable fancy zoom, used thickbox in place of fz  <link rel="stylesheet" href="/css/fancyzoom.css" type="text/css" /> 
 	<script type="text/javascript" src="/js/fancyzoom.min.js"></script>
 	<script type="text/javascript" charset="utf-8">
@@ -29,12 +31,65 @@
 			$('#medium_box_link').fancyZoom({width:400, height:300});
 		});
 	</script>-->
+
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+		   
+		   $('a[href*=#]').click(function() {
+		
+			  // skip SmoothScroll on links inside sliders or scroll boxes also using anchors or if there is a javascript call
+			  if($(this).parent().hasClass('scrollable_navigation') || $(this).attr('href').indexOf('javascript')>-1) return;
+		
+			  // duration in ms
+			  var duration=1000;
+		
+			  // easing values: swing | linear
+			  var easing='swing';
+		
+			  // get / set parameters
+			  var newHash=this.hash;
+			  var oldLocation=window.location.href.replace(window.location.hash, '');
+			  var newLocation=this;
+		
+			  // make sure it's the same location      
+			  if(oldLocation+newHash==newLocation)
+			  {
+				 // get target
+				 var target=$(this.hash+', a[name='+this.hash.slice(1)+']').offset().top;
+		
+				 // adjust target for anchors near the bottom of the page
+				 if(target > $(document).height()-$(window).height()) target=$(document).height()-$(window).height();         
+		
+				 // set selector
+				 if($.browser.safari) var animationSelector='body:not(:animated)';
+				 else var animationSelector='html:not(:animated)';
+		
+				 // animate to target and set the hash to the window.location after the animation
+				 $(animationSelector).animate({ scrollTop: target }, duration, easing, function() {
+		
+					// add new hash to the browser location
+					window.location.href=newLocation;
+				 });
+		
+				 // cancel default click action
+				 return false;
+			  }
+		   });
+		
+		});
+	</script>	
+	
+	
 	<script language="JavaScript">
 	$(document).ready(function(){
+		//insert toggles for waa badges on speaker pages
 		$(".summits-toggle").click(function () {
 		$(".summits").toggle('fast');
 		$(this).toggleClass("summits-toggle-active");
 		});
+		//insert back to top link on connected speaker pages
+		$(".vita").after("<p class=\"scroll\">[<a href=\"#top\">Go to Top of Page</a>]</p>");
 	});
 	</script>
 	<style type="text/css">
@@ -82,7 +137,7 @@
 
 <style type="text/css">
     #header {
-        background-image: url(/images/sitedesign/bg_2011_new.jpg);
+        background-image: url(/images/sitedesign/ems_hp_header_2012_v4.jpg);
         background-repeat: no-repeat;
         background-position: right bottom;
 		height: 157px;
@@ -102,6 +157,7 @@
 <script src="https://amikay-ape.appspot.com/c/risingmedia" type="text/javascript" async=""></script></head>
 
 <body>
+<a name="top"></a>
 <div id="interstitial" style="display: none;"></div>
 <script type="text/javascript" src="/js/wz_tooltip.js"></script>
 
@@ -154,23 +210,190 @@ var APEcode='risingmedia';
     </div>
 
 
-<div id="announcements">
 
-<!-- Removed per Alexis Weaver 11/08/10 <div id="madrid" class="notlinked""><a class="thumb1 tooltip" title="Madrid show information coming soon!">Madrid<br />November, 2010</a></div> -->
-<!--<div id="madrid"><a rel="external" title="opens in a new window" onclick="javascript:pageTracker._trackPageview('/citybar/eMOS/madrid/');" href="http://www.emetrics.es/">Madrid<br />November, 2010</a></div>-->
-<!--div id="brasil"><a rel="external" title="opens in a new window" onclick="javascript:pageTracker._trackPageview('/citybar/eMOS/saopaulo/');" href="http://emetricsbrasil.com/">S&atilde;o Paulo<br />November, 2010</a></div>
+	<!-- jQuery UI widget factory -->
+	<!-- You can download it as a part of jQuery UI Core
+		 http://jqueryui.com/download -->
+	<script src="/js/jquery.ui.widget.js" type="text/javascript"></script>
+	
+	<!-- jQuery Mousewheel tool from brandonaaron.net -->
+	<!-- Download it at https://github.com/brandonaaron/jquery-mousewheel/downloads -->
+	<script src="/js/jquery.mousewheel.min.js" type="text/javascript"></script>
 
-<div id="stockholm"><a href="/stockholm/">Stockholm<br />Sept 19-20, 2011</a></div>
-<div id="sydney"><a href="/melbourne/">Melbourne<br />Nov 15-16, 2011</a></div>-->
-<div id="sanjose"><a href="/sanfrancisco/">San Francisco<br>March 4-9, 2012</a></div>
-<div id="toronto"><a href="/toronto/">Toronto<br>Apr 23-26, 2012</a></div>
-<div id="sydney"><a class="thumb1 tooltip" title="Sydney show information<br />coming soon!">Sydney<br>June 2012</a></div>
-<div id="paris"><a href="/paris/">Paris<br>June 7-8, 2012</a></div>
-<div id="madrid" style="padding:3px 5px 0 4px;" class="notlinked" "=""><a class="thumb1 tooltip" title="Chicago show information<br />coming soon!">Chicago<br>June 24-27, 2012</a></div>
-<div id="munich" class="first"><a rel="external" title="opens in a new window" onclick="javascript:pageTracker._trackPageview('/citybar/eMOS/munich/');" href="http://www.emetrics-summit.de/" target="_blank">Düsseldorf<br>Nov 6.-7, 2012</a></div>
-<div id="london"><a href="/london/"> London<br>Nov 27-28, 2012</a></div>
-<div id="newyork"><a href="/newyork/"> New York<br>Oct 17-21, 2011</a></div>
-</div>
+	
+	<!-- jQuery UI Effects -->
+	<script src="/js/jquery.ui.effects.min.js" type="text/javascript"></script>
+	
+	<!-- Smooth Div Scroll 1.2 beta - very much under development -->
+	<script src="/js/jquery.smoothDivScroll-1.2.js" type="text/javascript"></script>
+
+
+	<script type="text/javascript">
+		$(function() {
+			$("div#makeMeScrollable").smoothDivScroll({
+				visibleHotSpotBackgrounds: "always",
+				hotSpotsVisibleTime: 5000,
+
+				hotSpotScrolling: true, // Boolean
+				hotSpotScrollingStep: 5, // Pixels
+				hotSpotScrollingInterval: 1, // Milliseconds
+				hotSpotMouseDownSpeedBooster: 2, // Integer
+				startAtElementId: "field",
+				mousewheelScrolling: true,
+				mousewheelScrollingStep: 70,
+				easingAfterMouseWheelScrollingDuration: 300,
+				easingAfterMouseWheelScrollingFunction: 'easeOutQuart',
+
+				autoScrollingInterval: 50,
+				autoScrollingStep: 1,
+				autoScrollingMode: "",
+				autoScrollingDirection: "endlessloopright",
+
+				easingAfterHotSpotScrolling: true,
+				easingAfterHotSpotScrollingDistance: 25,
+				easingAfterHotSpotScrollingDuration: 300,
+				easingAfterHotSpotScrollingFunction: 'easeOutQuart',
+
+				hiddenOnStart: false,
+				
+				scrollToEasingDuration: 2000
+			});
+
+
+
+		});
+	</script>
+
+	<style type="text/css">
+	
+#makeMeScrollable
+{
+	width:100%;
+	height: 30px;
+	overflow:hidden;
+	position: relative;
+}
+
+#makeMeScrollable div.scrollableArea *
+{
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+
+
+#announcements{height:30px;}	
+#announcements a, #announcements .notlinked, #toronto, #sydney, #sanjose, #london, #paris, #madrid, #brasil, #stockholm, #washingtondc, #mexico, #newyork, #munich{width:129px !important;}
+div#wrapper
+{
+	width: 920px;
+	text-align: left;
+	background: #fff;
+}
+
+div#mainColumn
+{
+	float: left;
+	width: 920px;
+	background: #fff;
+}
+
+	
+/* You can alter this CSS in order to give SmoothDivScroll your own look'n'feel */
+
+/* Invisible left hotspot */
+div.scrollingHotSpotLeft
+{
+	/* The hotspots have a minimum width of 100 pixels and if there is room the will grow
+    and occupy 10% of the scrollable area (30% combined). Adjust it to your own taste. */
+	min-width: 55px;
+	width: 5%;
+	height: 100%;
+	/* There is a big background image and it's used to solve some problems I experienced
+    in Internet Explorer 6. */
+	background-image: url(/images/big_transparent.gif);
+	background-repeat: repeat;
+	background-position: center center;
+	position: absolute;
+	z-index: 200;
+	left: 0;
+	/*  The first url is for Firefox and other browsers, the second is for Internet Explorer */
+	cursor: url(/images/content/cursor_arrow_left.png), url(/images/content/cursor_arrow_left.cur),w-resize;
+	z-index:1000;
+}
+
+/* Visible left hotspot */
+div.scrollingHotSpotLeftVisible
+{
+	background-image: url(/images/content/cursor_arrow_left.png);				
+	background-color: #333;
+	height:30px;
+	background-repeat: no-repeat;
+	opacity: 0.85; /* Standard CSS3 opacity setting */
+	-moz-opacity: 0.85; /* Opacity for really old versions of Mozilla Firefox (0.9 or older) */
+	filter: alpha(opacity = 85); /* Opacity for Internet Explorer. */
+	zoom: 1; /* Trigger "hasLayout" in Internet Explorer 6 or older versions */
+	z-index:1000;
+}
+
+/* Invisible right hotspot */
+div.scrollingHotSpotRight
+{
+	min-width: 55px;
+	width: 5%;
+	height: 100%;
+	background-image: url(/images/big_transparent.gif);
+	background-repeat: repeat;
+	background-position: center center;
+	position: absolute;
+	z-index: 200;
+	right: 0;
+	top: 0;
+	cursor: url(/images/content/cursor_arrow_right.png), url(/images/content/cursor_arrow_right.cur),e-resize;
+}
+
+/* Visible right hotspot */
+div.scrollingHotSpotRightVisible
+{
+	background-image: url(/images/content/cursor_arrow_right.png);
+	background-color: #333;
+	height:30px;
+	background-repeat: no-repeat;
+	opacity: 0.85;
+	filter: alpha(opacity = 85);
+	-moz-opacity: 0.85;
+	zoom: 1;
+}
+
+/* The scroll wrapper is always the same width and height as the containing element (div).
+   Overflow is hidden because you don't want to show all of the scrollable area.
+*/
+div.scrollWrapper
+{
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+
+div.scrollableArea
+{
+	position: relative;
+	width: auto;
+	height: 100%;
+}
+
+	</style>
+	 <div id="announcements">
+				<div id="madrid"><a href="/chicago/">Chicago<br>June 24-27, 2012</a></div>
+				<div id="sydney"><a href="/boston/">Boston<br>Sep 30-Oct 4, 2012</a></div>
+				<div id="stockholm" "=""><a href="/stockholm/">Stockholm<br>Oct 15-16, 2012</a></div>
+				<div id="munich"><a rel="external" title="opens in a new window" onclick="javascript:pageTracker._trackPageview('/citybar/eMOS/munich/');" href="http://emetrics-summit.de/" target="_blank">Düsseldorf<br>Nov 6.-7, 2012</a></div>
+				<div id="london"><a href="/london/"> London<br>Nov 27-28, 2012</a></div>
+				<div id="toronto"><a href="/toronto/">Toronto<br>Mar 18-21, 2013</a></div>
+				<div id="sanjose"><a href="/sanfrancisco/">San Francisco<br>April 14-18, 2013</a></div>
+				<!-- Remove per Tiffany Harris 052912 <div id="sydney"><a href="http://sydney.onlinemarketer.net.au/conference/emetrics-marketing-optimization-summit" target="_blank">Sydney<br />May 1-2, 2012</a></div> -->
+	   </div>
 
     <div id="mainFrame">
 
@@ -187,9 +410,11 @@ var APEcode='risingmedia';
     </ul>
 
 
+<div class="container-ln">
    <ul>
 	    <li><a class="summits-toggle">Previous Summits</a>
 		<ul class="summits">
+			<li style="margin: 0 6px 0 6px; padding: 0 0 0 10px;"><a href="/previous_emetrics_summits.php#2012">2012</a></li>
 			<li style="margin: 0 6px 0 6px; padding: 0 0 0 10px;"><a href="/previous_emetrics_summits.php#2011">2011</a></li>
 			<li style="margin: 0 6px 0 6px; padding: 0 0 0 10px;"><a href="/previous_emetrics_summits.php#2010">2010</a></li>
 			<li style="margin: 0 6px 0 6px; padding: 0 0 0 10px;"><a href="/previous_emetrics_summits.php#2009">2009</a></li>
@@ -235,9 +460,7 @@ var APEcode='risingmedia';
         <li><a href="/contact.php">Contact Us</a></li>
 	<div class="divider"></div>
     </ul>
-
-
-
+</div>
 
 <script language="Javascript"> 
 <!-- 
@@ -464,6 +687,11 @@ $(function () {
 	</div> -->
  
 
+<!--/ ?php if ($name == "home") { ?-->
+<!-- <center>
+<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script><script type="text/javascript">FB.init("848e3964e08ad7b9f6dc6a9cc3553147");</script><fb:fan profile_id="341465745557" stream="" connections="9" width="180" height="385"></fb:fan>
+</center> -->
+<!--/?php } ?-->
 
 
  
@@ -477,44 +705,61 @@ $(function () {
 			  <input type="hidden" name="MID" value="38282"> 
 			  <input type="hidden" name="Email Type" value="HTML"> 
 			  <legend>Sign Up</legend> 
-			  Subscribe to eMetrics Summit newsletters including Jim's Sterne Measures
+			  <div style="margin-top:-6px;">for eMetrics newsletters</div>
 			  <hr noshade="" size="1" color="#D8E8F9"><label for="checkall" id="checkboxall">
-			  <input type="checkbox" class="checkall"><span class="checkall-text">Check All</span><span class="uncheckall-text" style="display: none;">Un-Check All</span></label><br>
-			  <label for="eMetricsNYC" class="label-left"><input type="checkbox" name="lid" value="3602784">NYC</label> 
+			  <input type="checkbox" class="checkall"><span class="checkall-text">Check All</span><span class="uncheckall-text">Un-Check All</span></label><br>
+			  <label for="eMetricsNYC" class="label-left"><input type="checkbox" name="lid" value="3602784">East Coast</label> 
 			  <label for="SanFrancisco" class="label-right"><input type="checkbox" name="lid" value="3600946">San Fran</label> 
-			  <label for="Munich" class="label-left"><input type="checkbox" name="lid" value="1227396">München</label> 
+			  <label for="Munich" class="label-left"><input type="checkbox" name="lid" value="1227396">Düsseldorf</label> 
 			  <label for="London" class="label-right"><input type="checkbox" name="lid" value="9686350">London</label> 
 			  <label for="Paris" class="label-left"><input type="checkbox" name="lid" value="9693710">Paris</label> 
 			  <label for="Stockholm" class="label-right"><input type="checkbox" name="lid" value="9686366">Stockholm</label> 
 			  <label for="Australia" class="label-left"><input type="checkbox" name="lid" value="9693775">Sydney/Melb</label> 
 			  <label for="Toronto" class="label-right"><input type="checkbox" name="lid" value="7774283">Toronto</label>
-			  <label for="Brasil" class="label-left"><input type="checkbox" name="lid" value="9693725">Sao Paulo</label> 
 			  <label for="Spain" class="label-right"><input type="checkbox" name="lid" value="9693743">Madrid</label><br>
-			  <label for="Sterne" class=""><input type="checkbox" name="lid" value="13824269">Sterne Measures</label> 
+			  <label for="Brasil" class="label-left"><input type="checkbox" name="lid" value="9693725">Sao Paulo</label> 
+			  <label for="Brasil" class="label-left"><input type="checkbox" name="lid" value="23128746">Chicago</label> 
 			  <label for="Email Address"><br style="clear:both;margin-top:5px;"><input type="text" name="Email Address" onblur="if (this.value == '') {this.value = 'Email Address';}" onfocus="if (this.value == 'Email Address') {this.value = '';}" id="EmailAddress" value="Email Address" style="width:90px;float:left;height:20px;border:0;padding:1px;"><input type="submit" value="Submit" style="margin:0 5px 0 5px;float:left;height:22px;border:1px solid #E7EFF7;padding:2px;font-weight:bold;"></label>
+			  <label for="Sterne" class=""><br style="clear:both;margin-top:15px;"><a href="/sterne_measures.php" style="color:white;">Check out Sterne Measures</a></label> 
 			</fieldset>
 		  </form>
 		</div>  
-        <div id="mediaSponsors">
-	        <h2>Media Sponsors</h2>
-			<a href="http://www.paidonresults.net/c/18989/28/192/0" onmouseover="window.status='http://econsultancy.com/';return true;" onmouseout="window.status=' ';return true;"><img src="/images/sponsor_logos/econs-120x120.gif" alt="Econsultancy" title="Econsultancy" width="75"></a>
-			<a rel="external" href="http://www.customerthink.com" target="_blank"><img src="/images/sponsor_logos/crmguru.gif" alt="CRMguru.com" title="CRMguru.com"></a> 
-			<a rel="external" href="http://www.b-eye-network.com/" target="_blank"><img src="/images/sponsor_logos/beyenetwork.gif" alt="BeEye Network" title="BeEye Network"></a>
-			<a rel="external" href="http://www.beyondwebanalytics.com/?cid=emetrics" target="_blank"><img src="/images/sponsor_logos/beyondwebanalytics.png" alt="Beyond Web Analytics" title="Beyond Web Analytics"></a>
-			<a rel="external" href="http://www.cmocouncil.org/" target="_blank"><img src="/images/sponsor_logos/cmoCouncil.gif" alt="CMO Council" title="CMO Council"></a>
-			<a rel="external" href="http://www.cmswatch.com/" target="_blank"><img src="/images/sponsor_logos/cmswatch.gif" alt="CMS Watch" title="CMS Watch"></a>
-			<a rel="external" href="http://www.wdfm.com/" target="_blank"><img src="/images/sponsor_logos/lchasewdfm.gif" alt="Web Digest for Marketers" title="Web Digest for Marketers"></a>
-			<a rel="external" href="http://online-behavior.com/emetrics" target="_blank"><img src="/images/sponsor_logos/onlinebeahvior-mediasponsor.gif" alt="Online-Behavior" title="Online-Behavior"></a>
-        </div>
-
-		<div id="mediaSponsors">
-		    <h2>News Distribution Partner</h2>
-			<a rel="external" href="http://www.emetrics.org/sanjose/2009/sponsors/prweb.php" target="_blank"><img src="/images/sponsor_logos/prweb.png" alt="PRWeb" title="PRWeb"></a>
-		</div>
-
-<div style="width: 100%; text-align: center;">
-<a href="/sanjose/popup.html?height=350&amp;width=400&amp;modal=true" class="thickbox" title="Signup Now"><img src="/images/sitedesign/emssj_145x93_bp.jpg" alt="" style="margin: 5px auto;"></a>
+ <center><script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script><script type="text/javascript">FB.init("848e3964e08ad7b9f6dc6a9cc3553147");</script><fb:fan profile_id="341465745557" stream="" connections="9" width="180" height="385"></fb:fan></center><a href="/sanfrancisco/2012/blogpartner.php"><img src="/images/content/em_dc_bp.png" alt="Check out the Official eMetrics DC Blog partners" style="width: 162px; margin: 15px 0 0 15px;"></a>
+<div id="mediaSponsors">
+	<h2>Association Partners</h2>
+	<a href="http://www.dmanc.org/letters/dmajan12.html" target="_blank"><img src="/images/sponsor_logos/dmanc.png" alt="The Direct Marketing Association of Northern California" title="The Direct Marketing Association of Northern California"></a>
+	<a href="/sanfrancisco/2012/sponsors/#PMA"><img src="/images/sponsor_logos/pma_sponsor.png" alt="Performance Marketing Association" title="Performance Marketing Association"></a>
+	<a href="/sanfrancisco/2012/sponsors/#sfbig"><img src="/images/sponsor_logos/sfbig.png" alt="San Francisco Bay Interactive Group" title="San Francisco Bay Interactive Group"></a>
+	<a href="/sanfrancisco/2012/sponsors/#tsncr"><img src="/images/sponsor_logos/sponsor-societyfornewcommresearch.gif" alt="The Society for New Communications Research" title="The Society for New Communications Research"></a>
+	<!-- <a href="/newyork/2011/sponsors/mediasponsors/ama.html?keepThis=true&TB_iframe=true&height=430&width=400" class="thickbox" title="American Marketing Association"><img src="/images/sponsor_logos/ama_logo1.gif" alt="American Marketing Association" title="American Marketing Association" class="noscript" /></a>
+	<a href="/newyork/2011/sponsors/mediasponsors/society-for-new-communications-research.html?keepThis=true&TB_iframe=true&height=430&width=400" class="thickbox" title="Society for New Communications Research"><img src="/images/sponsor_logos/logo_SNCR.gif" alt="Society for New Communications Research" title="Society for New Communications Research" class="noscript" /></a>
+	<a href="/newyork/2011/sponsors/mediasponsors/sempco.php?keepThis=true&TB_iframe=true&height=430&width=400" class="thickbox" title="SEMPO"><img src="/images/sponsor_logos/sponsor-sempo.gif" alt="SEMPO title="SEMPO" class="noscript" /></a>-->
 </div>
+
+
+
+<div id="mediaSponsors">
+    <h2>Media<br>Partners</h2>
+	<a href="/sanfrancisco/2012/sponsors/#bwa"><img src="/images/sponsor_logos/beyondwebanalytics.png" alt="Beyond Web Analytics" title="Beyond Web Analytics"></a>
+	<!-- <a href="/newyork/2011/sponsors/mediasponsors/econsultancy.html?keepThis=true&TB_iframe=true&height=430&width=400" class="thickbox" title="Econsultancy"><img src="/images/sponsor_logos/econsultancy-ny.gif" alt="Econsultancy" title="Econsultancy" class="noscript" /></a> -->
+	<a href="/sanfrancisco/2012/sponsors/#CustomerThink" title="CustomerThink"><img src="/images/sponsor_logos/customerthink.gif" alt="CustomerThink" title="CustomerThink" class="noscript" width="110"></a>
+	<a href="/sanfrancisco/2012/sponsors/#online-behavior"><img src="/images/sponsor_logos/onlinebeahvior-mediasponsor.gif" alt="Online-Behavior" title="Online-Behavior"></a>
+	<a href="/sanfrancisco/2012/sponsors/#SmartBrief" title="IAB SmartBrief"><img src="/images/sponsor_logos/iab_smartbrief.gif" alt="IAB SmartBrief" title="IAB SmartBrief" class="noscript"></a>
+	<a href="/sanfrancisco/2012/sponsors/#topseos" title="topseos.com"><img src="/images/sponsor_logos/topseos.gif" alt="Topseos" title="Topseos" class="noscript"></a>
+	<a href="/sanfrancisco/2012/sponsors/#visibilitymagazine" title="Visibility Magazine"><img src="/images/sponsor_logos/visibility.gif" alt="Visibility Magazine" title="Visibility Magazine" class="noscript"></a>
+	<!-- </a href="/newyork/2011/sponsors/mediasponsors/webhostreview.html?keepThis=true&TB_iframe=true&height=370&width=400" class="thickbox" title="The Web Host Industry Review"><center><img src="/images/sponsor_logos/btob.jpg" alt="BtoB" title="BtoB" class="noscript" /></center></a>
+	<a rel="external" href="http://www.marketingprofs.com/" title="Marketing Profs"><center><img src="/images/sponsor_logos/marketingprofs.gif" alt="Marketing Profs" title="Marketing Profs" class="noscript" /></center></a> -->
+</div>
+
+<!-- <div id="mediaSponsors">
+    <h2>News Distribution Partner</h2>
+	<a rel="external" href="/washingtondc/2009/sponsors/prweb.php"><img src="/images/sponsor_logos/prweb.png" alt="PRWeb" title="PRWeb" /></a>
+</div> -->
+
+
+
+
+
 <div style="margin-left: 13px; margin-bottom: 15px; clear: both;">
 	<script type="text/javascript" src="http://dinclinx.com/?s=357&amp;e=0&amp;t=366&amp;f=javascript"></script>
 </div>
@@ -653,109 +898,114 @@ while(x=eval(x));}hiveware_enkoder();
     </div>
     </div>
 
-                <div id="sponsors">
-					<div id="socialmedia-dc" style=""> 
-					<a href="http://twitter.com/emetrics" target="_blank">
-						<img src="http://www.emetrics.org/images/follow-twitter.jpg" alt="Follow Us on Twitter" title="Follow Us on Twitter"><br>
-						<span class="underln">Follow</span>
-					</a>
-					<a href="http://www.facebook.com/pages/eMetrics-Marketing-Optimization/341465745557" target="_blank">
-						<img src="http://www.emetrics.org/images/fan-facebook.jpg" alt="Be a Fan on Facebook" title="Be a Fan on Facebook"><br>
-						<span class="underln">Like</span>
-					</a>
-					<a href="http://www.linkedin.com/groups?gid=2224952" target="_blank">
-						<img src="http://www.emetrics.org/images/linkedIn-group.jpg" alt="Linked In Group" title="Linked In Group"><br>
-						<span class="underln">Join</span>
-					</a>
-					<a href="http://twitter.com/#search?q=emetrics" target="_blank">
-						<img src="http://www.emetrics.org/images/livetwitter-feed.jpg" alt="Live Twitter feed" title="Live Twitter feed"><br>
-						<span class="underln">Live</span>
-					</a>	
-					</div> 
-	
-    <div id="permanentSponsor">
-    <h3 class="permanentSponsor">Video</h3>
+    <div id="sponsors">
+
+		
+<div id="socialmedia-dc"> 
+	<a rel="external" href="http://twitter.com/emetrics" target="_blank"><img src="http://www.emetrics.org/images/follow-twitter.jpg" alt="Follow Us on Twitter" title="Follow Us on Twitter"><br><span class="underln">Follow</span></a>
+	<a rel="external" href="http://www.facebook.com/pages/eMetrics-Marketing-Optimization/341465745557" target="_blank"><img src="http://www.emetrics.org/images/fan-facebook.jpg" alt="Be a Fan on Facebook" title="Be a Fan on Facebook"><br><span class="underln">Like</span></a>
+	<a rel="external" href="http://www.linkedin.com/groups?gid=2224952" target="_blank"><img src="http://www.emetrics.org/images/linkedIn-group.jpg" alt="Linked In Group" title="Linked In Group"><br><span class="underln">Join</span></a>
+	<a rel="external" href="http://twitter.com/#search?q=emetrics" target="_blank"><img src="http://www.emetrics.org/images/livetwitter-feed.jpg" alt="Live Twitter feed" title="Live Twitter feed"><br><span class="underln">Live</span></a>
+</div>
     
-	<a href="#" onclick="javascript:window.open('/video/promo-2010-video.html','','width=480, height=355, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, directories=no, status=no'); return false;"><img src="/video/video-screen-player.jpg" alt="" border="0" align="middle"></a>
-    </div>
-	<div id="permanentSponsor">
-		<h3 class="permanentSponsor">Lifetime</h3>
-		<a rel="external sponsor" href="http://www.webanalyticsassociation.org/" onclick="javascript:pageTracker._trackPageview('/sponsor/sanjose/2010/waa');" target="_blank"><img src="/images/sponsor_logos/waa.gif" alt="Web Analytics Association" title="Web Analytics Association"></a>
-		    <div id="waabc"><strong>WAA Base Camp™ Workshops</strong><br>
-    <a href="/newyork/2011/workshops/waabasecamp.php">New York</a>, Oct 17-18, 2011<br>
-    <!--  Removed on 9/2/10 <a href="/waabasecamp/">See more events...</a> -->
-	</div>
+    <!--div id="expohall" style="margin-bottom: 10px;">
+    	<h2 style="margin-bottom: 0;">Expo Hall Hours</h2>
+		<p>April 7th 5:00pm &ndash; 7:30pm<br />
+		April 8th 8:00am &ndash; 7:30pm<br />
+		April 9th 8:00am &ndash; 4:00pm</p>
+    </div-->
+
+	<div style="text-align: center; margin-bottom: 15px; display:none;"><a href="/toronto/2011/emos_tor_guide_final-web.pdf"><img src="/images/sitedesign/download_summitguide.png" height="55" width="150" alt="Download the eMetrics Marketing Optimization Summit Toronto 2011 Guide" title="Download the eMetrics Marketing Optimization Summit Toronto 2011 Guide"></a></div>
+
+	<!-- <h2 style="margin-bottom: 0; display: none;">SMX Toronto</h2>
+	<div id="smx" style="font-size: 10px; padding: 0;margin-bottom: 15px;">
+<a rel="external partner" href="http://www.searchmarketingexpo.ca/" onclick="javascript:pageTracker._trackPageview('/partner/toronto/2011/smx');"><img src="/images/sponsor_logos/smx_toronto.gif" alt="SMX Search Analytics" title="SMX Search Analytics" style="text-align: center; margin: 0 auto;padding: 0;" /></a> Co-located with eMetrics Toronto<br />
+		<a rel="external partner" href="http://www.searchmarketingexpo.ca/">April 25-26, 2012</a>
+	</div> -->
+
+
+
+    <div id="expohall" style="margin-bottom: 10px;display:none;">
+    	<h2 style="margin-bottom: 0;">Expo Hall Hours</h2>
+		<p><strong>Wednesday, April 25</strong><br>7:30am to 7:30pm</p>
+		<p><strong>Thursday, April 26</strong><br>7:30am to 4:30pm</p>
     </div>
 
-<div id="diamond">
-		<h3 class="diamond">Diamond</h3>
-		<a href="/sanfrancisco/2011/sponsors/foresee.php"><img src="/images/sponsor_logos/foresee.gif" alt="Foresee" title="Foresee"></a>
-		
-    </div>
 
-    <div id="gold">
-		<h3 class="gold">Gold</h3>
-		<a href="/sanfrancisco/2011/sponsors/iperceptions.php"><img src="/images/sponsor_logos/iperceptions.gif" alt="iPerceptions" title="iPerceptions"></a>
-		<a href="/sanfrancisco/2011/sponsors/biz0.php"><img src="/images/sponsor_logos/sponsor_bizo.gif" alt="bizo" title="bizo"></a>
-		
+		<div id="permanentSponsor">  
+		    <div id="permanentSponsor">  <h3 class="permanentSponsor">Co-Located with eMetrics:</h3>
+	   <a rel="external partner" href="http://conversionconference.com/ccc12-home.html" target="_blank"><img src="/images/sponsor_logos/conv_150.png" alt="Conversion Conference" title="Conversion Conference" style="text-align: center; padding: 5px 0;"></a>
+	   <a rel="external partner" href="http://www.predictiveanalyticsworld.com/chicago/2012/" target="_blank"><img src="/images/sponsor_logos/colocated-paw.gif" alt="Predictive Analytics World" title="Predictive Analytics World" style="text-align: center; padding: 5px 0;"></a>
+		</div>
+
+    <div id="permanentSponsor">
+
+    <h3 class="permanentSponsor">Lifetime Association Sponsor</h3>
+
+    <a href="/toronto/2012/sponsors/#daa"><img src="/images/sponsor_logos/daa.gif" alt="Digital Analytics Association" title="Digital Analytics Association"></a>
+	    </div>
+<div id="permanentSponsor">
+    <h3 class="permanentSponsor">2012 SPONSORS</h3>
+    <br>
+
+    <div id="diamond">
+
+    <h3 class="diamond">Diamond</h3>
+
+    <a href="/toronto/2012/sponsors/#Foresee"><img src="/images/sponsor_logos/foresee.gif" alt="Foresee Results" title="Foresee Results"></a>
+
     </div>
+    
+	<!-- 
+	<div id="gold">
+	<h3 class="gold">Gold</h3>
+        <a href="/toronto/2012/sponsors/#jmp"><img src="/images/sponsor_logos/jmp.png" alt="jmp Statistical Discovery from SAS" title="jmp Statistical Discovery from SAS" /></a>
+	</div> -->
+
+
 
 	<div id="silver">
-    <h3 class="silver">Silver</h3>
-	<a href="/sanfrancisco/2011/sponsors/sitespect.php"><img src="/images/sponsor_logos/sitespect.gif" alt="SiteSpect" title="SiteSpect"></a>
-	<a href="/sanfrancisco/2011/sponsors/opinionlab.php"><img src="/images/sponsor_logos/sponsor_opinionlab.gif" alt="opinionlab" title="opinionlab"></a>
-	<a href="/sanfrancisco/2011/sponsors/clicktale.php"><img src="/images/sponsor_logos/clicktale.png" width="130" alt="ClickTale" title="ClickTale"></a>
-	
+
+	<h3 class="silver">Silver</h3>
+    <!-- <a href="/toronto/2012/sponsors/#IBM"><img src="/images/sponsor_logos/ibm.gif" alt="IBM" title="IBM" /></a> -->
+    <a href="/toronto/2012/sponsors/#iPerceptions"><img src="/images/sponsor_logos/iperceptions.gif" alt="iPerceptions" title="iPerceptions"></a>
+    <a href="/toronto/2012/sponsors/#opinionlab"><img src="/images/sponsor_logos/opinionlab-notag.png" alt="opinionlab" title="opinionlab"></a>
 	</div>
 
     <div id="bronze">
-	<h3 class="bronze">Bronze</h3>
-	<a href="/sanfrancisco/2011/sponsors/ubc.php"><img src="/images/sponsor_logos/ubc-cs.gif" alt="UBC" title="UBC"></a>
-	<a href="/sanfrancisco/2011/sponsors/uci.php"><img src="/images/sponsor_logos/uci_130x18.png" alt="UC Irvine Extension" title="UC Irvine Extension"></a>
-	<a href="/sanfrancisco/2011/sponsors/unilytics.php"><img src="/images/sponsor_logos/unilytics.gif" alt="UC Irvine Extension" title="UC Irvine Extension"></a>
-	<a href="/sanfrancisco/2011/sponsors/crowdscience.php"><img src="/images/sponsor_logos/crowdscience.gif" alt="Crowd Science" title="Crowd Science"></a>
+    <h3 class="bronze">Bronze</h3>
+    <a href="/toronto/2012/sponsors/#UBC"><img title="UBC" alt="UBC" src="/images/sponsor_logos/ubc-cs.gif"></a>
+    <a href="/toronto/2012/sponsors/#Unilytics"><img src="/images/sponsor_logos/unilytics.gif" alt="Unilytics" title="Unilytics"></a>
 	</div>
 
-
-	
-	<div id="newcomersPavillion">
-			<h3 class="newcomersPavillion">Newcomers Pavilion</h3>
-			<a href="/sanfrancisco/2011/sponsors/conceptfb.php"><img src="/images/sponsor_logos/conceptfeedback.gif" alt="Concept Feedback" title="Concept Feedback"></a>
-		</div>
-
-<div id="lanyardsponsor">
-		<h3 class="lanyardsponsor">Lanyard Sponsor</h3>
-		<a href="/sanfrancisco/2011/sponsors/observepoint.php"><img src="/images/sponsor_logos/observepoint_130x25.png" alt="Observepoint" title="Observepoint"></a>
-		
+    <div id="lanyardsponsor">
+    <h3 class="bronze">Lanyard Sponsor</h3>
+    <a href="/toronto/2012/sponsors/#observepoint"><img title="Observepoint" alt="Observepoint" src="/images/sponsor_logos/observepoint_130x25.png"></a>
 	</div>
 	
-	 <div id="associationsponsor">
-		<h3 class="associationsponsor">Conference Track Sponsor</h3>
-		<a href="/sanfrancisco/2011/sponsors/teradata.php"><img src="/images/sponsor_logos/teradata.gif" alt="Teradata" title="Teradata"></a> 
-	</div> 
+	<div id="lanyardsponsor">
 
-
-
-	<div id="associationsponsor">
-		<h3 class="associationsponsor">Association Sponsor</h3>
-		<img src="/images/sponsor_logos/logo_oiia.gif" alt="International Institute for Analytics" title="International Institute for Analytics">
-		<a href="/washingtondc/2010/sponsors/mediasponsors/sempo.html?keepThis=true&amp;TB_iframe=true&amp;width=400" class="thickbox" title="SEMPO"><img src="/images/sponsor_logos/sponsor-sempo.gif" alt="SEMPO" title="SEMPO"></a> 
-		<a href="/washingtondc/2010/sponsors/mediasponsors/ama.html?keepThis=true&amp;TB_iframe=true&amp;width=400" class="thickbox" title="The American Marketing Association"><img src="/images/sponsor_logos/sponsor_ama.gif" alt="American Marketing Association" title="American Marketing Association"></a> 
-		<a href="/washingtondc/2010/sponsors/mediasponsors/society-for-new-communications-research.html?keepThis=true&amp;TB_iframe=true&amp;width=400" class="thickbox" title="The Society for New Communications Research"><img src="/images/sponsor_logos/sponsor-societyfornewcommresearch.gif" alt="Society for New Communications Research" title="Society for New Communications Research"></a> 
-		<a href="http://www.womma.org" target="_blank"><img src="/images/sponsor_logos/womma.gif" alt="WOMMA" title="WOMMA"></a>
-
+	<h3 class="lanyardsponsor">Reception Sponsor</h3>
+    <a href="/toronto/2012/sponsors/#opinionlab"><img src="/images/sponsor_logos/opinionlab-notag.png" alt="opinionlab" title="opinionlab"></a>
 	</div>
 
-	<p style="margin: 10px 0 10px 25px;"><a href="/sponsorship.php">Sponsor This Summit</a></p>
+    <div id="video" style="margin-top: 50px;">
+    <h3 class="video">Video</h3>
+	<a href="/video/promo-2010-video.html" onclick="return popUp(this.href,'Promotional Video for eMetrics','width=480,height=355,resize=yes,status=no,toolbar=no,menubar=no'); javascript:pageTracker._trackEvent('promo video', 'play', 'page location', 'sidebar');"><img src="/video/video-screen-player.jpg" alt="Video opens in a new window." title="Video opens in a new window."></a>
+    </div> 
 
-	</div>
+	
+    <p style="text-align: center;"><a href="/toronto/2011/sponsorship.php">Sponsor This Summit</a></p>
+
+    </div>
+</div>
     </div>
 
 
 
 
     <div id="footer">
-        <address>© 1995-2011 Rising Media™,Inc.<br>
+        <address>© 1995-2012 Rising Media™, Inc.<br>
         Produced by <a rel="external" href="http://www.risingmedia.com/" target="_blank">Rising Media™</a><br>
         <a href="http://www.emetrics.org/contact.php">Contact Us</a> •
         <a href="http://www.emetrics.org/privacy.php">Privacy Policy</a><br>
@@ -786,4 +1036,4 @@ _qacct="p-72cKrSp60T-tE";quantserve();</script>
 
 
 
-</body></html>
+</div></body></html>
