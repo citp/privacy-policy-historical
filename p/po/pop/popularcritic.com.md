@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popularcritic.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216221507id_/http%3A//www.popularcritic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popularcritic.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625232619id_/http%3A//www.popularcritic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,27 +16,27 @@ Related services and offerings with links from this website, including vendor si
 
 **3\. Information We Collect and How We Use It**
 
-POPULAR CRITIC   collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+POPULAR CRITIC     collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
 
 **a. Web Server Logs**.
 
 When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-� Your Internet protocol address.
+ï¿½ Your Internet protocol address.
 
-� The kind of browser or computer you use.
+ï¿½ The kind of browser or computer you use.
 
-� Number of links you click within the site.
+ï¿½ Number of links you click within the site.
 
-� State or country from which you accessed the site.
+ï¿½ State or country from which you accessed the site.
 
-� Date and time of your visit.
+ï¿½ Date and time of your visit.
 
-� Name of your Internet service provider.
+ï¿½ Name of your Internet service provider.
 
-� Web page you linked to our site from.
+ï¿½ Web page you linked to our site from.
 
-� Pages you viewed on the site.
+ï¿½ Pages you viewed on the site.
 
 **b. Use of Cookies**
 
@@ -54,13 +54,13 @@ Visitors to our website can register to purchase services. When you register, we
 
 We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
-� To fulfill your service requests for services.
+ï¿½ To fulfill your service requests for services.
 
-� To protect ourselves from liability,
+ï¿½ To protect ourselves from liability,
 
-� To respond to legal process or comply with law, or
+ï¿½ To respond to legal process or comply with law, or
 
-� In connection with a merger, acquisition, or liquidation of the company.
+ï¿½ In connection with a merger, acquisition, or liquidation of the company.
 
 **4\. Use of Web Beacons or GIF files**
 
