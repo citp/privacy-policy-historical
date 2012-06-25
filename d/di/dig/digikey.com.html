@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the digikey.com privacy policy that was archived on 2011-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221103147id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digikey.com privacy policy that was archived on 2012-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625202541id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Statement | DigiKey</title>
@@ -14,7 +14,7 @@
 </head>
 <body bgcolor="#FFFFFF">
 
-<div id="noprint">
+<div id="noprint" scs_exclude="true">
    <script type="text/javascript" src="//www.digikey.com/Global/js/lib/jquery/jquery.min.js"></script>
    <script type="text/javascript" src="//www.digikey.com/Global/js/lib/jquery/plugins/jquery.mb.menu.js"></script> 
    <script type="text/javascript" src="//www.digikey.com/Global/js/lib/jquery-ui/jquery.ui.core.min.js"></script> 
@@ -24,6 +24,10 @@
    <script type="text/javascript" src="//www.digikey.com/Global/WebTrends/us/en/wt/digikey_wtvars.js"></script>
    <script type="text/javascript" src="//www.digikey.com/Global/js/currency/currencySetter.js"></script> 
    <script type="text/javascript" src="//www.digikey.com/Global/js/currency/currencyToggle.js"></script> 
+   
+   <script type="text/javascript" src="//www.digikey.com/Global/js/json2.js"></script>
+   <script type="text/javascript" src="//www.digikey.com/Global/js/FullSiteSearch/header_search_cookie.js"></script>
+   
    <script type="text/javascript">
       CurrencySetter.promptPage = '';
    </script>
@@ -47,30 +51,48 @@
 	  <div style="margin-left:191px">
 			<div class="quick_links">
             <img src="//www.digikey.com/Web Export/Common/Header/gradient.jpg" align="absmiddle">Quick Links:
-            <a href="http://ordering.digikey.com/Ordering/AddPart.aspx?site=us&amp;lang=en&amp;WT.z_header=link">View Order</a> | <a href="http://ordering.digikey.com/Ordering/OrderStatus.aspx?site=US&amp;lang=EN&amp;WT.z_header=link">Order Status</a> | <a href="http://dkc1.digikey.com/us/en/mkt/Contact.html?WT.z_header=link">Contact Us</a> | <a href="http://dkc1.digikey.com/us/en/mkt/Sitemap.html?WT.z_header=link">Site Map</a> | <a href="http://dkc1.digikey.com/us/en/mkt/International.html?WT.z_header=link">Change Country</a>
+            <a href="http://ordering.digikey.com/Ordering/AddPart.aspx?site=us&amp;lang=en&amp;WT.z_header=link">View Order</a> | <a href="http://ordering.digikey.com/Ordering/OrderStatus.aspx?site=US&amp;lang=EN&amp;WT.z_header=link">Order Status</a> | <a href="http://www.digikey.com/us/en/info/contact-us.html?WT.z_header=link">Contact Us</a> | <a href="http://www.digikey.com/us/en/info/sitemap.html?WT.z_header=link">Site Map</a> | <a href="http://www.digikey.com/us/en/international/global.html?WT.z_header=link">Change Country</a>
 	    	</div>
          <div class="rootVoices myMenu">
             <div class="rootVoice {menu: 'empty'}" onclick="window.open('https://ordering.digikey.com/registereduser/mydigikey.aspx?site=us&amp;lang=en&amp;WT.z_header=link','_self');">My Digi-Key</div>
-				<div class="rootVoice {menu: 'empty'}" onclick="window.open('http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;keywords=&amp;WT.z_header=link','_self');">Product Index</div>
-				<div class="rootVoice {menu: 'empty'}" onclick="window.open('http://digikey.com/Suppliers/SupplierIndex.page?site=us&amp;lang=en&amp;WT.z_header=link','_self');">Supplier Index</div>
+				<div class="rootVoice {menu: 'empty'}" onclick="window.open('http://www.digikey.com/whats-new.page?site=us&amp;lang=en&amp;WT.z_header=link','_self');">Newest Products</div>
+				<div class="rootVoice {menu: 'empty'}" onclick="window.open('http://www.digikey.com/product-search/en?WT.z_header=link','_self');">Product Index</div>
+				<div class="rootVoice {menu: 'empty'}" onclick="window.open('http://www.digikey.com/suppliers/supplierindex.page?site=us&amp;lang=en&amp;WT.z_header=link','_self');">Supplier Index</div>
 				<div class="rootVoice {menu: 'menu_11'}">Resources <img src="//www.digikey.com/Web Export/Common/Header/down_arrow.gif" style="padding-left:5px;"></div>
-				<div class="rootVoice {menu: 'menu_12'}">Need Help? <img src="//www.digikey.com/Web Export/Common/Header/down_arrow.gif" style="padding-left:5px;"></div>
-				<div class="rootVoice" style="position:relative; top:5px;"><a href="http://dkc1.digikey.com/us/en/mkt/International.html?WT.z_header=link" id="Digi-Key_International"><img src="//www.digikey.com/Web Export/Common/Flags/us_flag.jpg" alt="International Page" title="International Page"></a></div><div class="rootVoice currency USD" style="position:relative; top:5px;"><a href="http://dkc1.digikey.com/us/en/mkt/International.html?WT.z_header=link" id="Digi-Key_International"><img src="//www.digikey.com/Web Export/Common/Header/USD.jpg" alt="US Dollar" title="US Dollar"></a></div>
+				<div class="rootVoice" style="position:relative; top:5px;"><a href="http://www.digikey.com/us/en/international/global.html?WT.z_header=link" id="Digi-Key_International"><img src="//www.digikey.com/Web Export/Common/Flags/us_flag.jpg" alt="International Page" title="International Page"></a></div><div class="rootVoice currency USD" style="position:relative; top:5px;"><a href="http://www.digikey.com/us/en/international/global.html?WT.z_header=link" id="Digi-Key_International"><img src="//www.digikey.com/Web Export/Common/Header/USD.jpg" alt="US Dollar" title="US Dollar"></a></div>
          </div>
-         <div>
+         <div style="float:right;">
             
-            <form style="margin:0px; padding:0px; display:inline;" name="Sform" action="http://search.digikey.com/scripts/DkSearch/dksus.dll" type="External" method="get">
-            <a href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;keywords=&amp;WT.z_header=search_labelWT.z_header=search_label"><img src="//www.digikey.com/Web Export/Common/header/searchtitle.jpg" alt="DigiKey Part Search" title="DigiKey Part Search"></a>
-		      <input name="WT.z_header" value="search_go" type="hidden"><input name="lang" value="en" type="hidden"><input name="site" value="us" type="hidden"><input name="keywords" size="35" class="textbox" accesskey="S" value="Part Number/Keyword" onfocus="if (this.value==this.defaultValue) this.value='';" style="font-size: 11px; margin-top: 5px; vertical-align:top;" type="text">
-				<input value="go" src="//www.digikey.com/Web Export/Common/Header/go.jpg" alt="Search DigiKey" title="Search DigiKey" onclick="if (keywords.value==keywords.defaultValue) keywords.value='';" type="image" border="0">
-            </form>
-            <a href="http://ordering.digikey.com/LiveOnlineChat.aspx?site=us&amp;WT.z_header=link"><img src="//www.digikey.com/Web Export/Common/Header/chat.jpg" alt="Live Online Chat" title="Live Online Chat"></a>
+			
+			
+		
+			
+		<img align="top" src="//www.digikey.com/Web Export/Common/header/header-search-title.jpg" alt="DigiKey Part Search" title="DigiKey Part Search" style="float:left;">
+		
+		
+		<select name="searchDomain" class="searchDomain" id="searchDomain" style="margin-top:4px; margin-right:4px; vertical-align:top; float:left; height:23px;">
+			<option name="partSearch" value="parts" serverurl="search.digikey.com">Parts</option>
+			<option name="wwwServer" value="content" serverurl="//www.digikey.com">Content</option>
+		</select>
+		
+		<div style="background-image:url(&quot;//www.digikey.com/Web Export/Common/Header/header-search-repeat.jpg&quot;); display: inline-block; background-repeat:repeat-x; border: 0px; margin: 0px; padding: 0px; float:left;">
+		<img src="//www.digikey.com/Web Export/Common/Header/header-search-left.jpg">
+
+		
+		<form style="margin:0px; padding:0px; display:inline;" name="Sform" action="http://search.digikey.com/scripts/DkSearch/dksus.dll" type="External" method="get">
+			<input name="WT.z_header" value="search_go" type="hidden"><input name="lang" value="en" type="hidden"><input name="site" value="us" type="hidden">
+			<input name="keywords" size="35" class="textbox" accesskey="S" value="Part Number/Keyword" onfocus="if (this.value==this.defaultValue) this.value='';" style="font-size: 12px; margin-top: 6px; vertical-align:top;  border:none; background-color:transparent; float-left;" type="text">
+			<input value="go" src="//www.digikey.com/Web Export/Common/Header/header-search-go.jpg" alt="Search DigiKey" title="Search DigiKey" onclick="if (keywords.value==keywords.defaultValue) keywords.value='';" type="image" border="0"></form></div>
+		
+			<img src="//www.digikey.com/Web Export/Common/Header/header-break.jpg"><a href="http://ordering.digikey.com/LiveOnlineChat.aspx?site=us&amp;WT.z_header=link"><img src="//www.digikey.com/Web Export/Common/Header/header-loc.jpg" alt="Live Online Chat" title="Live Online Chat"></a>
          </div>
       </div>
    </div>
 </div>
 
 <div id="menu_11" class="mbmenu">
+	<a rel="title" style="display:block;">Dynamic Catalog</a>
+	<a href="http://www.digikey.com/catalog/en?WT.z_header=link" style="display:block;">Dynamic Catalog</a>
 	<a rel="title" style="display:block;">Virtual Communities</a>
 	<a href="http://www.digikey.com/techxchange/index.jspa?WT.z_header=link" style="display:block;">TechXchange</a>
 	<a rel="title" style="display:block;">TechZones</a>
@@ -84,15 +106,10 @@
 	<a rel="title" style="display:block;">Bill of Materials Manager</a>
 	<a href="https://ordering.digikey.com/registereduser/bomwizard.aspx?site=us&amp;lang=en&amp;WT.z_header=link" style="display:block;">BOM Manager</a>
 	<a rel="title" style="display:block;">Virtual Training</a>
-	<a href="http://dkc1.digikey.com/us/en/mkt/toolbar.html?WT.z_header=link" style="display:block;">Digi-Key Toolbar</a>
-	<a href="http://digikey.com/PTM/PTMMaster.page?site=us&amp;lang=en&amp;WT.z_header=link" style="display:block;">Product Training Modules</a>
+	<a href="http://www.digikey.com/us/en/mkt/toolbar.html?WT.z_header=link" style="display:block;">Digi-Key Toolbar</a>
+	<a href="http://www.digikey.com/ptm/ptmmaster.page?site=us&amp;lang=en&amp;WT.z_header=link" style="display:block;">Product Training Modules</a>
 	<a rel="title" style="display:block;">Design Support</a>
 	<a href="http://www.digikey.com/designserviceproviders.jsp?WT.z_header=link" style="display:block;">Design Services Providers</a>
-</div>
-
-<div id="menu_12" class="mbmenu">
-	<a rel="title" style="display:block;">1-800-344-4539</a>
-	<a href="http://dkc1.digikey.com/us/en/mkt/Contact.html?WT.z_header=link" style="display:block;">Contact Us</a>
 </div>
 
 
@@ -194,9 +211,14 @@ Email: <a href="mailto:sales@digikey.com">sales@digikey.com</a></p>
 <br><br>   
 </div>
 </div>
-<div id="noprint">
+
+
+<div id="noprint" scs_exclude="true">
+
+
+
   <div id="youramigo">
-      &nbsp;<br><br>All parts by:&nbsp;<a href="http://parts.digikey.com/1/parts/index1.html">Title</a> <a href="http://parts.digikey.com/1/parts/indexb1.html">Manufacturer</a> <a href="http://parts.digikey.com/1/parts/indexc1.html">Category</a> <a href="http://parts.digikey.com/1/parts/indexd1.html">Manufacturer Part No.</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Electronic parts by:&nbsp;<a href="http://parts.digikey.com/1/parts-ts/index1.html">Component</a> <a href="http://parts.digikey.com/1/parts-ts/indexb1.html">Title</a> <a href="http://parts.digikey.com/1/parts-ts/indexc1.html">Manufacturer</a> <a href="http://parts.digikey.com/1/parts-ts/indexd1.html">Category</a> <a href="http://parts.digikey.com/1/parts-ts/indexe1.html">Manufacturer Part No.</a><br>Part categories by:&nbsp;<a href="http://parts.digikey.com/1/parts-cats/index1.html">Name</a> <a href="http://parts.digikey.com/1/parts-cats/indexb1.html">Manufacturer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Manufacturers by: <a href="http://parts.digikey.com/1/parts-manfs/index1.html">Name</a> <a href="http://parts.digikey.com/1/parts-manfs/indexb1.html">Number of Parts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Products by:&nbsp;<a href="http://parts.digikey.com/1/parts-kws/index1.html">Category</a> <a href="http://parts.digikey.com/1/parts-kws/indexb1.html">Title</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Grouped parts by: <a href="http://parts.digikey.com/1/parts-grpd/index1.html">Title</a> <a href="http://parts.digikey.com/1/parts-grpd/indexb1.html">Model Number</a><br><a href="http://parts.digikey.at/">Austria Parts</a>&nbsp; <a href="http://parts.digikey.ca/">Canada Parts</a>&nbsp; <a href="http://parts.digikey.fr/">France Parts</a>&nbsp; <a href="http://parts.digikey.de/">Germany Parts</a>&nbsp; <a href="http://parts.digikey.it/">Italy Parts</a>&nbsp; <a href="http://parts.digikey.jp/">Japan Parts</a>&nbsp; <a href="http://parts.digikey.es/">Spain Parts</a>&nbsp; <a href="http://parts.digikey.co.uk/">United Kingdom Parts</a> <a href="http://parts.digikey.com/">United States Parts</a>&nbsp;
+      <span style="font-size:9px;">Electromechanical: <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40019">Cable and Wire</a>, <a href="http://www.digikey.com/product-search/en?c=38&amp;f=1209&amp;f=505">Kits</a>, <a href="http://www.digikey.com/product-search/en?c=66&amp;c=9&amp;c=12">Power</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40010">Relays</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40011">Switches</a> &nbsp;&nbsp;|&nbsp;&nbsp; Interconnect, Wire: <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40018">Cable Assemblies</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40016">Connectors</a><br>Optoelectronics: <a href="http://www.digikey.com/product-search/en?c=8&amp;f=149&amp;f=49&amp;f=630&amp;f=36&amp;f=262">Display Modules</a>, <a href="http://www.digikey.com/product-search/en?c=8&amp;f=1066&amp;f=1067&amp;f=1072&amp;f=1069&amp;f=1070">Fiber Optics</a>, <a href="http://www.digikey.com/product-search/en/kits/leds/2490403">Kits</a>, <a href="http://www.digikey.com/product-search/en?c=8&amp;f=769&amp;f=852&amp;f=448&amp;f=866&amp;f=651&amp;f=189&amp;f=441&amp;f=253">LEDs</a> &nbsp;&nbsp;|&nbsp;&nbsp; Passives: <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40002">Capacitors</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40003">Inductors</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40001">Resistors</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff4001e">Transducers</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff4000d">Timing</a> &nbsp;&nbsp;|&nbsp;&nbsp; Thermal Products: <a href="http://www.digikey.com/product-search/en/fans-thermal-management/fans-ac/1179729">Fans AC</a>, <a href="http://www.digikey.com/product-search/en/fans-thermal-management/fans-dc/1179730">Fans DC</a>, <a href="http://www.digikey.com/product-search/en/fans-thermal-management/thermal-heat-sinks/1179752">Heat Sinks</a><br>Power, Circuit Protection: <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff4000a">Circuit Protection</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40034">Filters</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40042&amp;FV=fff40009">Power Supplies</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff4000c">Transformers</a> &nbsp;&nbsp;|&nbsp;&nbsp; RF, Wireless: <a href="http://www.digikey.com/product-search/en?f=549&amp;f=75&amp;f=703&amp;f=1078&amp;f=1176&amp;f=707&amp;f=1068&amp;f=839&amp;f=286&amp;f=1148&amp;f=708&amp;f=704&amp;f=1175&amp;f=705&amp;f=709&amp;f=287&amp;f=1005&amp;f=1002&amp;f=733&amp;f=711&amp;f=1004&amp;f=1003">RF</a>, <a href="http://www.digikey.com/product-search/en/rf-if-and-rfid/rf-evaluation-and-development-kits-boards/3539644">RF Eval</a>, <a href="http://www.digikey.com/product-search/en?f=695&amp;f=698&amp;f=694&amp;f=693">RFID</a>, <a href="http://www.digikey.com/product-search/en/rf-if-and-rfid/rfid-evaluation-and-development-kits-boards/3539640">RFID Eval</a><br>Semiconductors, Dev Tools: <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40027&amp;keywords=analog">Analog</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40015">Discretes</a>, <a href="http://www.digikey.com/product-search/en?f=404&amp;f=960&amp;f=525&amp;f=415&amp;f=414&amp;f=413&amp;f=904&amp;f=418&amp;f=421&amp;f=454&amp;f=422&amp;f=691&amp;f=403&amp;f=533&amp;f=496">Logic</a>, <a href="http://www.digikey.com/product-search/en?f=205&amp;f=467&amp;f=867&amp;f=356">Microcontroller</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40028">Programmers and Development Systems</a> &nbsp;&nbsp;|&nbsp;&nbsp; Sensors: <a href="http://www.digikey.com/product-search/en?f=275&amp;f=1187&amp;f=663&amp;f=1163&amp;f=690&amp;f=1243&amp;f=461&amp;f=313">Inertia</a>, <a href="http://www.digikey.com/product-search/en?f=1140&amp;f=1152&amp;f=102&amp;f=1130">Magnetic</a>, <a href="http://www.digikey.com/product-search/en?f=946&amp;f=816&amp;f=554&amp;f=748&amp;f=943&amp;f=970&amp;f=968&amp;f=944&amp;f=973&amp;f=974&amp;f=972&amp;f=1177">Optical</a>, <a href="http://www.digikey.com/product-search/en/sensors-transducers/proximity/1966557">Proximity</a>, <a href="http://www.digikey.com/product-search/en/sensors-transducers/solar-cells/1966326">Solar Cells</a><br>Test, Tools, Other Products: <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40006">Battery Products</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40021">Boxes, Enclosures, and Racks</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40020">Hardware</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40014">Soldering, Desoldering Equipment</a>, <a href="http://www.digikey.com/scripts/dksearch/dksus.dll?KeywordSearch&amp;FV=fff40023">Test and Measurement</a></span><br><a href="http://www.digikey.com/us/en/Info/electronic-components-and-products.html">All Electronic Components</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.digikey.ca/product-search/en">Canada</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.digikey.de/product-search/de">Germany</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.digikey.jp/product-search/ja">Japan</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.digikey.kr/product-search/ko">Korea</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.digikey.co.uk/product-search/en">United Kingdom</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.digikey.com/us/en/international/global.html">Worldwide Site List</a><br>
    </div>
    <table id="footer">
      <tbody><tr>
@@ -214,8 +236,9 @@ Email: <a href="mailto:sales@digikey.com">sales@digikey.com</a></p>
 </tr>
 </tbody>
 </table>
-Copyright © 1995-2011, Digi-Key Corporation. All Rights Reserved.<br><a href="http://dkc1.digikey.com/us/en/mkt/Privacy.html">Privacy Statement</a> | <a href="http://dkc1.digikey.com/us/en/mkt/Terms.html">Terms &amp; Conditions</a> | <a href="http://dkc1.digikey.com/us/en/careers/Careers.html">Careers</a> | <a href="mailto:webmaster@digikey.com">webmaster@digikey.com</a></td>
-         <td style="text-align:center;"><a href="http://www.digikey.com/us/en/Info/authorized-distributor.html" target="_self"><img title="ECIA/CEDA/ECSN Member" src="https://www.digikey.com/Web Export/Common/Footer/homepage-associations.jpg" border="0" alt="ECIA/CEDA/ECSN Member" hspace="0"></a></td>
+Copyright © 1995-2012, Digi-Key Corporation. All Rights Reserved.<br><a href="http://dkc1.digikey.com/us/en/mkt/Privacy.html">Privacy Statement</a> | <a href="http://dkc1.digikey.com/us/en/mkt/Terms.html">Terms &amp; Conditions</a> | <a href="http://dkc1.digikey.com/us/en/careers/Careers.html">Careers</a> | <a href="mailto:webmaster@digikey.com">webmaster@digikey.com</a></td>
+         <td style="text-align:center;"><a href="http://www.digikey.com/us/en/Info/authorized-distributor.html" target="_self"><img title="ECIA/CEDA/ECSN Member" src="https://www.digikey.com/Web Export/Common/Footer/homepage-associations.jpg" border="0" alt="ECIA/CEDA/ECSN Member" hspace="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<script src="https://sealserver.trustkeeper.net/compliance/seal_js.php?code=84EDAB68F81B2B31985E5E20392A8AC1&amp;style=normal&amp;size=105x54&amp;language=en"></script></td>
          <td style="text-align:right;">701 Brooks Avenue South, Thief River Falls, MN 56701 USA<br>Phone: 1-800-344-4539 or 218-681-6674 or Fax: 218-681-3380<br></td>
      </tr>
    </tbody></table>
@@ -237,6 +260,7 @@ Copyright © 1995-2011, Digi-Key Corporation. All Rights Reserved.<br><a href="h
 		_tag.dcsGetId();
 		//>
 	</script>
+	<script type="text/javascript" src="//www.digikey.com/Global/WebTrends/digikey-webtrends.js"></script>
 	<script type="text/javascript">
 		//
 		// Add custom parameters here.
@@ -250,5 +274,12 @@ Copyright © 1995-2011, Digi-Key Corporation. All Rights Reserved.<br><a href="h
 	<noscript>
 	<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//statse.webtrendslive.com/dcsmnfcct10000wkx0i5hzyma_5n9f/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2"/></div>
 	</noscript>
+	<script type="text/javascript">
+		//remove the items that were introduced into the tag object by cookie tracking
+		// invalidateList comes from digikey-webtrends.js
+		for (var wtInvalidator = 0; wtInvalidator < invalidateList.length;wtInvalidator++){
+			delete _tag["WT"][invalidateList[wtInvalidator]]
+		}
+	</script>
 
 </body></html>
