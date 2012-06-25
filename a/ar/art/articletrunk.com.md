@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the articletrunk.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005349id_/http%3A//www.articletrunk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articletrunk.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625181514id_/http%3A//www.articletrunk.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# ArticleTrunk.com - ArticleTrunk Privacy Policy | is an article directory for free online articles
 
-**
+  
+  
+  
+  
+|  **
 
 Privacy Policy for ArticleTrunk.com - Updated: July 6, 2010
 ** The privacy of our visitors to ArticleTrunk.com is important to us. At ArticleTrunk.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit ArticleTrunk.com, and how we safeguard your information. We never sell your personal information to third parties.   
