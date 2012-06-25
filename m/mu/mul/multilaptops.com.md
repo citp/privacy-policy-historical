@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multilaptops.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102070548id_/http%3A//multilaptops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multilaptops.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625194234id_/http%3A//multilaptops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Notebook Reviews and Best Buy Laptops on Sale
 
