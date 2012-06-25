@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycitydeal.co.za privacy policy that was archived on 2011-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110808002442id_/http%3A//www.mycitydeal.co.za/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycitydeal.co.za privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626014021id_/http%3A//www.groupon.co.za/data_privacy) for the most accurate reproduction.*
 
-# Up to 90% discount on restaurants, spas, wellness, fitness - mycitydeal.co.za
+# Up to 70% discount on restaurants, spas, travel, shopping - Groupon.co.za
 
 ### **We protect your personal information and data.**
 
@@ -33,11 +33,11 @@ We use PII to provide you with information about Groupon South Africa, to proper
 
 In general, we may use the PII we have collected to:
 
-  * • manage your account and provide you with customer support; 
-  * • conduct market research, and analyse your use of our Service; 
-  * • communicate with you; 
-  * • negotiate deals tailored to your specific location and interests; and 
-  * • enforce our Terms and Conditions. 
+  * • manage your account and provide you with customer support;
+  * • conduct market research, and analyse your use of our Service;
+  * • communicate with you;
+  * • negotiate deals tailored to your specific location and interests; and
+  * • enforce our Terms and Conditions.
 
 
 
@@ -91,7 +91,7 @@ If there is a sale, merger, consolidation, change in control, transfer of substa
 In order to constantly improve the Service, we may use certain non-personal or depersonalised information that may be collected from time to time through your use of the Website or from other sources, to develop targeted advertising on our Website and on websites of third parties. This information may also be shared with third parties, including advisors, advertisers, suppliers and investors, for the purposes of improving the Service, and analysing the business.
 
 **9\. Customer Service**  
-If you have any questions or concerns, please feel free to contact us at [support@mycitydeal.co.za](mailto:mailtosupport@mycitydeal.co.za).
+If you have any questions or concerns, please feel free to contact us at [support@groupon.co.za](mailto:support@groupon.co.za).
 
 **10\. Changes to this Policy**  
 Please note that this Policy forms part of the Terms & Conditions for use of this Website and forms part of the Agreement between you and us. We review this Policy from time to time, to ensure that it reflects how we use your information, and accordingly we may, from time to time, amend this Policy, in whole or part, in our sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised policy on the Website.
