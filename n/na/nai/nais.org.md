@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nais.org privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225222111id_/http%3A//www.nais.org/about/index.cfm%3FItemnumber%3D145942) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nais.org privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625062438id_/http%3A//www.nais.org/about/index.cfm%3FItemnumber%3D145942) for the most accurate reproduction.*
 
 # Legal and Privacy Information
 
@@ -8,7 +8,7 @@
 ### Legal and Privacy Information
 
 Published: July 22, 2004   
-**Updated:** August 5, 2007 
+**Updated:** May 29, 2012 
 
 **
 
@@ -74,7 +74,7 @@ _Please note that the information provided on this website should not be constru
 
 (a) You can e-mail [info@nais.org](mailto:info@nais.org). 
 
-(b) You can send mail to the following postal address: NAIS, Attention Communication, 1620 L Street, NW, Suite 1100, Washington, DC 20036.
+(b) You can send mail to the following postal address: NAIS, Attention Communication, 1129 20th Street, NW, Suite 800, Washington, DC 20036.
 
 (c) You can call the following telephone number: (202) 973-9700, and ask for the appropriate department.
 
