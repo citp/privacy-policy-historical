@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icddrb.org privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213054714id_/http%3A//www.icddrb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icddrb.org privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625063939id_/http%3A//www.icddrb.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ICDDR,B
+# Privacy Policy - icddr,b
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. 
 
