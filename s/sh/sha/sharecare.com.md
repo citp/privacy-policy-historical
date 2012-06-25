@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharecare.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231072001id_/http%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecare.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625110210id_/http%3A//www.sharecare.com/static/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sharecare
 
