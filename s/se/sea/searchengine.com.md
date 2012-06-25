@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengine.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212634id_/http%3A//searchengine.com/Terms_of_use/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengine.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625153448id_/http%3A//www.searchengine.com/Terms_of_use/privacystatement.asp) for the most accurate reproduction.*
 
 # - Welcome to the leading search engine
 
