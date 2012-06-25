@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the italychronicles.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202225228id_/http%3A//italychronicles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italychronicles.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625174616id_/http%3A//italychronicles.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,6 +55,10 @@ Italy Chronicles incorporates, from time to time, a shop which is run in affilia
 Although Italy Chronicles decides the contents of both of its shops, payment and delivery are handled through Amazon.com and Amazon.co.uk or related partners.
 
 To read about Amazon’s privacy policy, please go [here](http://rcm.amazon.com/e/cm/privacy-policy.html/105-0336239-9825276?%5Fencoding=UTF8&o=1 "Amazon.com - privacy").
+
+#### Amazon Affiliation
+
+ItalyChronicles.com is affiliated to Amazon.com and Amazon.co.uk which means this web site earns commission on sales of products listed on Amazon.com and Amazon.co.uk.
 
 ### Italian Privacy Laws
 
