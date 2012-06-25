@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dormitory.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227004458id_/http%3A//dormitory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dormitory.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626015529id_/http%3A//dormitory.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
