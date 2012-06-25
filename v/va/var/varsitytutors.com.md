@@ -1,33 +1,111 @@
-> *The following text is extracted and transformed from the varsitytutors.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015171613id_/http%3A//varsitytutors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varsitytutors.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625202237id_/http%3A//www.varsitytutors.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Tutoring: Top-Rated Tutors
 
-## Our Commitment to Privacy:
+## Effective: June 8, 2012
 
-It is Varsity Tutors LLC’s policy to respect your privacy regarding any information we may collect through our website [www.varsitytutors.com](https://web.archive.org/web/20111015171613id_/http%3A//varsitytutors.com/www.varsitytutors.com) , e-mail, phone or any other communications we have with you. We treat the confidential information you share with us, such as students’ academic performance and any financial information, with the utmost respect. Varsity Tutors will not disclose student records with third parties under any circumstance. We may, however, share a student’s information with our tutors who will be providing tutoring to the student so that they may personalize and tailor the tutoring to the student. 
+This Privacy Policy governs the manner in which Varsity Tutors LLC (“Varsity Tutors”) collects, uses, maintains and discloses information collected from users (each, a “User”) of its www.varsitytutors.com Site and any derivative or affiliated Sites on which this Privacy Policy is posted (collectively, the “Site”). Please note that this Privacy Policy covers Varsity Tutors’ practices regarding information collected from its Site. 
 
-## Website Visitors
+Varsity Tutors has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.varsitytutors.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy [at] varsitytutors.com or 6330 Southwood Ave Suite 3E, St. Louis, MO 63105. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+
+##  The Information Varsity Tutors Collects 
 
 Like most website operators, Varsity Tutors LLC collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how our visitors use our website. 
 
-Varsity Tutors also collects potentially personally-identifying information like Internet Protocol (IP) addresses. We do not use such information to identify our visitors, however, and do not disclose such information, other than under the same circumstances that we use and disclose personally-identifying information, as described below. 
+Additionally, certain visitors to Varsity Tutors’ website choose to interact with us in ways that require us to gather personally-identifying information. The amount and type of information that we gather depends on the nature of the interaction. Those who engage in transactions with us online – by purchasing packages of tutoring hours – are asked to provide additional information, such as the personal and financial information required to process those transactions. Varsity Tutors also collects potentially personally-identifying information like Internet Protocol (IP) addresses. We do not use such information to identify our visitors, however, and do not disclose such information, other than under the same circumstances that we use and disclose personally-identifying information, as described below. Users browsing the Site without registering an account or affirmatively providing personally identifiable information to Varsity Tutors do so anonymously. 
 
-## Gathering of Personally-Identifying Information
+Varsity Tutors may collect personally identifiable information from customers in a variety of ways. Personally identifiable information may include (i) contact data (such as a customer’s name, mailing and e-mail addresses); (ii) financial data (such as a customer’s credit card number); and (iii) demographic data (such as a customer’s zip code, age and income). If you communicate with Varsity Tutors by e-mail, post messages to forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communication may be collected by Varsity Tutors. Varsity Tutors may also collect information about how customers use our Site, for example, by tracking the number of unique views received by the pages of the Site, or the domains from which customers originate. 
 
-Certain visitors to Varsity Tutors’ website choose to interact with us in ways that require us to gather personally-identifying information. The amount and type of information that we gather depends on the nature of the interaction. For example, we ask visitors who sign up for our blog at [www.varsitytutors.com/blog.html](https://web.archive.org/web/20111015171613id_/http%3A//varsitytutors.com/www.varsitytutors.com/blog.html) to provide a username and email address. Those who engage in transactions with us online – by purchasing packages of tutoring hours – are asked to provide additional information, such as the personal and financial information required to process those transactions. In each case, we collect such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Varsity Tutors. We do not disclose personally-identifying information other than as described below in the section “Protection of Certain Personally-Identifying Information”. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
+## Chat
 
-## Aggregated Statistics
+We use a chat feature to assist you with learning about our services and tutors. If our chat feature is offline we will collect your name and email address so that we may reply to your request and send you information. 
 
-Varsity Tutors may collect statistics about the behavior of visitors to our website. For instance, we may monitor the most popular blog posts or identify the most frequently visited pages. This information will be used for internal purposes only. We do not disclose personally-identifying information other than as described below. 
+##  Refer-A-Friend 
 
-## Protection of Certain Personally-Identifying Information
+If you choose to use our referral service to refer a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Varsity Tutors stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-Varsity Tutors discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process transactions on our behalf or to provide tutoring services, and (ii) that have agreed not to disclose it to others. We will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to our employees, contractors and affiliated organizations, as described above, we disclose potentially personally-identifying and personally-identifying information only when required to do so by law, or when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of Varsity Tutors, third parties or the public at large. If you are a registered client on our website and have supplied your email address, we may occasionally send you an email to tell you about new services, solicit your feedback, or just keep you up to date with what’s going on with Varsity Tutors. We take all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. 
+Your friend may contact us at privacy [at] varsitytutors.com to request that we remove this information from our database. 
 
-## Cookies
+##  Information Sharing 
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Varsity Tutors uses cookies to help identify and track visitors, their usage of our website, and their website access preferences. Our visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using our website, with the drawback that certain features of the website may not function properly without the aid of cookies. 
+It is Varsity Tutors’ policy to respect your privacy regarding any information we may collect through the Site, e-mail, phone or any other communications we have with you. We treat the confidential information you share with us, such as students’ academic performance and any financial information, with the utmost respect. Varsity Tutors will not disclose student records with third parties under any circumstance, except as specifically set forth in this Privacy Policy. 
 
-## Privacy Policy Changes
+We may, however, share a student’s information with our tutors who will be providing tutoring to the student so that they may personalize and tailor the tutoring to the student. In each case, we collect such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Varsity Tutors. We do not disclose personally-identifying information other than as described below in the section “How Varsity Tutors Uses Information”. Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
 
-Although most changes are likely to be minor, we may change our Privacy Policy from time to time, and at our sole discretion. We encourage visitors to frequently check this page for any changes to the Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+##  Tracking Technologies/Cookies 
+
+We may use “cookies” to track how customers use our Site. A cookie is a piece of software that a Web server can store on the customers’ PC and use to identify the customer should they visit the Site again. While not all of the information that we collect from customers is personally identifiable, it may be associated with personally identifiable information that customers provide us through our Site Third Party Cookies. 
+
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. Please see their privacy statements for their full disclosures. 
+
+##  Web Beacons 
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. 
+
+##  How Varsity Tutors Uses Information 
+
+Varsity Tutors may use personally identifiable information collected through the Site for the specific purposes for which the information was collected, to contact Users regarding products and services offered by Varsity Tutors, its parent, subsidiary and trusted affiliates, and otherwise to enhance Users’ experience with Varsity Tutors. Varsity Tutors may also use information collected through the Site for research regarding the effectiveness of the Site and the business planning, marketing, advertising and sales efforts of Varsity Tutors, its parent, subsidiary and trusted affiliates. 
+
+Varsity Tutors may disclose personally identifiable information collected from Users to its parent, subsidiary and other related companies, trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above, as necessary to provide the services offered by Varsity Tutors and to provide the Site itself, and for the specific purposes for which the information was collected. These companies are not permitted to use your personally identifiable information in any other way. 
+
+Varsity Tutors may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, Varsity Tutors may disclose or transfer personally identifiable information collected from Users in connection with or in contemplation of a sale of its assets or business or a merger, consolidation or other reorganization of its business. We will notify you via email in such an event. 
+
+##  Correcting, Updating, Accessing or Removing Personal Information 
+
+To the extent applicable, if a User’s personally identifiable information changes (such as a User’s zip code), or if a User no longer desires to receive non-account specific information from Varsity Tutors, Varsity Tutors will endeavor to provide a way to correct, update, delete and/or remove that User’s previously-provided personal data. This can be done by emailing a request to Varsity Tutors at privacy [at] varsitytutors.com. Additionally, you may request access to the personally identifiable information as collected by Varsity Tutors by sending a request to Varsity Tutors as set forth above. Please note that in certain circumstances, Varsity Tutors may not be able to completely remove a User’s information from its systems. For example, Varsity Tutors may retain a User’s personal information for legitimate business purposes, if it may be necessary to prevent fraud or future abuse, for account recovery purposes, if required by law or as retained in Varsity Tutors’ data backup systems or cached or archived pages. All retained personally identifiable information will continue to be subject to the terms of the Privacy Policy to which the User has previously agreed. 
+
+## Legal Disclaimer 
+
+Varsity Tutors may disclose personally identifiable information at the request of law enforcement or governmental agencies or in response to subpoenas, court orders or other legal process, to establish, protect or exercise Varsity Tutors’ legal or other rights or to defend against a legal claim or as otherwise required or allowed by law. Varsity Tutors may disclose personally identifiable information in order to protect the rights, property or safety of a User or any other person. Varsity Tutors may disclose personally identifiable information to investigate or prevent a violation by User of any contractual or other relationship with Varsity Tutors or the perpetration of any illegal or harmful activity. 
+
+## Security of Information 
+
+Varsity Tutors discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process transactions on our behalf or to provide tutoring services, and (ii) that have agreed not to disclose it to others. We take all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. 
+
+Information about Users that is maintained on Varsity Tutors’ systems is protected using industry standard security measures. However, no security measures are perfect or impenetrable, and Varsity Tutors cannot guarantee that the information submitted to, maintained on or transmitted from its systems will be completely secure. Varsity Tutors is not responsible for the circumvention of any privacy settings or security measures relating to the Site by any Users or third parties. 
+
+Your security is a priority and we strive to provide a safe and secure environment for our customers. All transactions take place on a secure server, and your information is encrypted using Secure Sockets Layer protocol (SSL) before it is sent through the Internet. SSL is the gold standard in Internet encryption technology, which is a fancy way of saying that it’s a highly sophisticated method of scrambling data as it travels from your computer to our servers. However, please note that we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure. If you do not feel comfortable sending your financial/credit card over the Internet, contact us and we will be happy to fill your order over the phone. 
+
+## Links to 3rd Party Sites
+
+Please note that the Site may contain links to other Sites. These linked sites may not be operated or controlled by Varsity Tutors. Varsity Tutors is not responsible for the privacy practices of these or any other Sites, and you access these Sites entirely at your own risk. Varsity Tutors recommends that you review the privacy practices of any other Sites that you choose to visit. 
+
+Varsity Tutors is based, and this Site is hosted, in the United States of America. If User is from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law and User is visiting, accessing or otherwise using the Site, please note that any personally identifiable information that User provides to Varsity Tutors will be transferred to the United States. Any such personally identifiable information provided will be processed and stored in the United States by Varsity Tutors or a service provider acting on its behalf. By providing personally identifiable information to Varsity Tutors, User hereby specifically and expressly consents to such transfer and processing and the uses and disclosures set forth herein. 
+
+##  Social Media Widgets 
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+##  Customer Testimonials/Comments/Reviews 
+
+We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. To request removal of your personal information from Testimonials or comments please contact us at privacy [at] varsitytutors.com 
+
+##  Blogs 
+
+Anytime you post on our blog please be aware that you are posting using a third party application and we have no access or control over this information. 
+
+To request removal of your personal information from our blog, you can either log into the third party application and remove your comment or you can contact the appropriate third party application. Your interaction with these features is governed by the privacy policy of the company providing it. 
+
+##  CHILDREN’S PRIVACY 
+
+Varsity Tutors products are specifically designed to function without third party access to a child’s personal information. Our Site does not collect or retain any personal information from children except as needed to facilitate tutoring with that student, who may be a minor. Varsity Tutors is committed to complying fully with the Children’s Online Privacy Protection Act of 1998 (“COPPA”). This Site assures the privacy of collected information in accordance with the Varsity Tutors Privacy Policy. 
+
+Varsity Tutors is committed to safeguarding the information Users entrust to Varsity Tutors and believes that every User should know how it utilizes the information collected from Users. The Site is not directed at children under 13 years of age, and Varsity Tutors does not knowingly collect personally identifiable information from children under 13 years of age online. Parents may supply information such as name or age of their children so as to facilitate Varsity Tutors’ ability to provide tutoring services and Varsity Tutors may store this information in a secure digital format. 
+
+##  Your California Privacy Rights 
+
+California Civil Code Section 1798.83 permits users that are residents of California to request certain information regarding Varsity Tutors’ disclosures of personally identifiable information to third parties for such third parties’ direct marketing purposes. If you are a California resident and would like to make such a request, please email Varsity Tutors at privacy [at] varsitytutors.com. 
+
+##  Changes to this Policy 
+
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+##  Contacting Varsity Tutors 
+
+If you have any questions or comments about this Privacy Policy, you may contact Varsity Tutors via any of the following methods: 
+
+Varsity Tutors  
+6330 Southwood Ave Suite 3E  
+St. Louis, MO 63105  
+Email: privacy [at] varsitytutors.com  
+
