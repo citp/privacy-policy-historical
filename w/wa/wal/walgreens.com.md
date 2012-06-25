@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2011-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111029023726id_/http%3A//www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625213833id_/http%3A//www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp) for the most accurate reproduction.*
 
 # Online Privacy and Security Policy | Walgreens
 
@@ -85,9 +85,14 @@ We recommend that you take the following precautions to safeguard your data:
 
 
 **You may choose to:**  
-Stop receiving e-mail and mobile marketing communications by changing your preferences online. If you have an online account, login to My Account and click on Communication Preferences. If you do not have an online account you may click Unsubscribe from the bottom of Walgreens emails, and reply STOP to our text messages to stop receiving emails and SMS text messages.
+Stop receiving e-mail and mobile marketing communications by changing your preferences online. If you have an online account, login to Your Account and click on [Communication Preferences](https://web.archive.org/youraccount/communication_preferences.jsp?sectionName=settings "Communication Preferences"). If you do not have an online account you may click Unsubscribe from the bottom of Walgreens emails, and reply STOP to our text messages to stop receiving emails and SMS text messages. To request unsubscribing by email, contact [Customerservice@mail2.walgreens.com](mailto:Customerservice@mail2.walgreens.com).
 
 Set your Web browser to not accept new cookies or web beacons, or be notified when you receive a new cookie, or disable cookies altogether. However, please note that without enabling these features, your experience on Walgreens.com will not be as smooth and you will not be able to take full advantage of our website's features. Please see the Help section of your browser for instructions on managing security preferences.
+
+**Will this privacy policy change?**  
+As our business changes, we will continue to implement new technologies and improve the services and features we provide. This privacy policy and the Terms of Use will be updated to reflect these changes. The use of information that we gather now is subject to the privacy policy in effect at the time of use. If there are changes or additions to this privacy policy, we will post those changes here or in other formats we deem acceptable, so that you will always know what information we collect online or offline, how we use it and what choices you have.
+
+It is your responsibility to review our privacy policy and Terms and Conditions for changes.
 
 **How To Contact Us**  
 If you have questions about our Privacy Policy, contact us by:  
@@ -98,10 +103,5 @@ Walgreen Co. Privacy Office
 Attn: Privacy Officer  
 200 Wilmot Rd, MS 9000  
 Deerfield, IL 60015
-
-**Will this privacy policy change?**  
-As our business changes, we will continue to implement new technologies and improve the services and features we provide. This privacy policy and the Terms of Use will be updated to reflect these changes. The use of information that we gather now is subject to the privacy policy in effect at the time of use. If there are changes or additions to this privacy policy, we will post those changes here or in other formats we deem acceptable, so that you will always know what information we collect online or offline, how we use it and what choices you have.
-
-It is your responsibility to review our privacy policy and Terms and Conditions for changes.
 
 **Effective Date:** 04/15/2011
