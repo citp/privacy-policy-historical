@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluesombrero.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227134645id_/http%3A//www.bluesombrero.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesombrero.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625150849id_/http%3A//www.bluesombrero.com/privacy.aspx) for the most accurate reproduction.*
 
 # Online Registration & Club Management for Youth Soccer
 
