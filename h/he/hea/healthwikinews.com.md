@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthwikinews.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127144747id_/http%3A//www.healthwikinews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthwikinews.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625100313id_/http%3A//www.healthwikinews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,8 +75,3 @@ We use [Google AdSense ](http://en.wikipedia.org/wiki/AdSense "Google AdSense")a
 Google AdSense uses the DoubleClick DART cookie to gather the information specified above. In the course of serving advertisements to this site, our third-party advertiser may place or recognize cookies on your browser. You may decline to provide personal information to them and/or refuse cookies in your browser, although some of features may not function properly as a result. For more information on the DoubleClick DART cookie and privacy: <http://www.doubleclick.com/privacy/faq.aspx>.
 
 **This Privacy Policy was last updated on 03-21-2009.**
-
-  
-
-
-### Health Wiki Related Articles
