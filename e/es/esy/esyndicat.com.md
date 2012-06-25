@@ -1,33 +1,29 @@
-> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206111418id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625120615id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: eSyndiCat Directory Software, Directory Script
+# Privacy Policy :: eSyndiCat Directory Software, Directory Script, Business Directory Software, Link Bid Script
 
-**eSyndiCat respects your privacy.**
+## Customer Privacy
 
-Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of eSyndiCat.
+eSyndiCat respects your privacy. Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of eSyndiCat.
 
-**External Sites.**
-
-eSyndiCat is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
-
-**Cookies.**
-
-A "cookie" is a small data text file that is placed in your browser and allows eSyndiCat to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and eSyndiCat does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
-
-**Remember The Risks Whenever You Use The Internet.**
-
-While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to eSyndiCat and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through eSyndiCat have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. 
+Remember the risks whenever you use the Internet. While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to eSyndiCat and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through eSyndiCat have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. 
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
+## External Sites
+
+eSyndiCat is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
+
+## Cookies
+
+A "cookie" is a small data text file that is placed in your browser and allows eSyndiCat to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and eSyndiCat does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
+
 ## Report Piracy URL
 
-Please send an email to **sgooffin@esyndicat.com** if you suspect a site is not using a valid license of eSyndiCat or if they are breaking the [license agreement](http://www.esyndicat.com/license.html). We take piracy very seriously, and appreciate your help in our efforts to reduce any piracy or illegal distribution of our software.
+Please send an email to manager@esyndicat.com if you suspect a site is not using a valid license of eSyndiCat or if they are breaking the [license agreement](http://www.esyndicat.com/license.html). We take piracy very seriously, and appreciate your help in our efforts to reduce any piracy or illegal distribution of our software.
 
 Alternatively you can report piracy using our [contact form](http://www.esyndicat.com/contact-us.html?piracy=true).
 
-[](http://www.esyndicat.com/downloads/)
-
 ## Testimonials
 
-I would like to thank you for building such a fantastic software program. I have used your software for the past 5 months to build the largest and most professional personal injury directory on the internet. Your software is extremely easy to use and very powerful. I could not be more happy with my decision to use Esyndicat for my directory. 
+A very nice script. All of you are very much welcome to view my running website made with this script.
