@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indabamusic.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003941id_/http%3A//www.indabamusic.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indabamusic.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625025021id_/http%3A//www.indabamusic.com/corporate/privacy) for the most accurate reproduction.*
 
 # Indaba Music
 
@@ -7,7 +7,7 @@ If the page does not load within 5 seconds, try reloading.
 
 **Scope of Privacy Policy**
 
-Indaba Music, LLC takes privacy and data protection issues seriously. This Privacy Policy describes certain data collected on the Indaba Music Web Site and what we do with it. Keeping this information private and secure is very important to Indaba. Indaba reserves the right to make changes or modify this Privacy Policy at any time and for any reason. Changes take effect when they are posted on the Indaba Music Web Site.
+Indaba Media, LLC takes privacy and data protection issues seriously. This Privacy Policy describes certain data collected on the Indaba Music Web Site and what we do with it. Keeping this information private and secure is very important to Indaba. Indaba reserves the right to make changes or modify this Privacy Policy at any time and for any reason. Changes take effect when they are posted on the Indaba Music Web Site.
 
 If you have any questions about this Privacy Policy, please contact us at info@indabamusic.com.
 
