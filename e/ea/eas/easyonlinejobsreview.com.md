@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the easyonlinejobsreview.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225235611id_/http%3A//easyonlinejobsreview.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyonlinejobsreview.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625171456id_/http%3A//easyonlinejobsreview.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Easy Online Jobs Review
-
-[ ](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Famazon.com%2F&tag=honesonlinopp-20&linkCode=ur2&camp=1789&creative=9325)
 
 **Privacy Policy for www.easyonlinejobsreview.com**
 
