@@ -1,65 +1,40 @@
-> *The following text is extracted and transformed from the ebenta.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104121527id_/http%3A//www.ebenta.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebenta.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625232839id_/http%3A//www.ebenta.com/privacy-policy) for the most accurate reproduction.*
 
-# eBenTa ver2.0 - Your Source for Social News and Networking
+# Privacy Policy « eBenta Video Site : Pinoy Shows and Entertainment
 
-[](http://www.ebenta.com/) |   
----|---  
-  
-  * [Published](http://www.ebenta.com/index.php)
-  * [Upcoming](https://web.archive.org/upcoming.php)
-  * [Submit Content](https://web.archive.org/submit.php)
-  * [Groups](https://web.archive.org/groups.php)
-  * [Create a Group](https://web.archive.org/submit_groups.php)
+## Privacy Policy
 
+Your privacy matters to us.
 
+**The types of information we collect:**
 
-Your privacy is very important to eBenTa. So, this is a bit more detail to help understand how the website will collect, use, communicate and disclose and make use of personal information. We will not rent, sell, lease, or give away any of your personal information. The following outlines our privacy policy. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
+eBenTa.com collects the following types of information:
 
-(1.) Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.  
-(2.) We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.  
-(3.) We will only retain personal information as long as necessary for the fulfillment of those purposes.  
-(4.) We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.  
-(5.) Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.  
-(6.) We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.  
-(7.) We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+1\. Registration/contact information ( _optional_ ). When you register to watch videos on our website, we collect your email address. We use this information to contact you for lost username or password purposes and to inform you about Site services in which you’ve expressed interest.
 
-## Cookie/Tracking Technology
+2\. Profile Information ( _optional_ ). Users have the ability to voluntarily create and modify their user profile using the ” My Profile” menu. The information collected, such as name, age, sex and location is displayed to other users and is completely voluntary. eBenTa.com does not require users to create a user profile.
 
-We may use cookies and tracking technology which are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the Site. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Third parties such as our advertisers may also use cookies to collect information in the course of serving ads to you. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
+3\. No information specific to a user’s personal identity is ever revealed unless the user “opts-in” to receive other specific information such as partner and advertiser offers.
 
-## Distribution of Information
+4\. The information you supply to us when you are registering and setting up your personal account is used to provide our basic services. Because we store your personal information, we don’t have to ask you to re-register each time you want to access the site. eBenTa.com routinely sends all new members a welcoming email to verify their passwords and user names.
 
-We do not share your personally identifiable information to any third party for marketing purposes. However, we may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place.
+eBenTa.com may, at times, share aggregate statistical information about our members with business partners, sponsors and other affiliates. For example, we may share our findings that the eBenTa.com audience watches videos _xtimes_ hours per week. This information is aggregated and will not personally identify our members.
 
-## Commitment to Data Security
+However, eBenTa.com may disclose personal information for the following business or legal reasons:
 
-Your personally identifiable information is kept secure. Only authorized staff of this site (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+In special cases. When we have reason to believe, for example, that disclosing this information may help to identify, contact, or bring legal action against someone who, intentionally or unintentionally, may be causing injury or interference with eBenTa.com’s rights or property, other eBenTa.com members, or anyone else who might be harmed as a result.
 
-## RSS and Email Subscriptions
+**Collection and use of members’ IP addresses**
 
-This website records information about how people access our RSS feeds, but does not collect any personally identifying information from or about our RSS subscribers. This website's feed services collect the e-mail addresses of individuals that subscribe to our RSS feed via e-mail. Individual information about subscribers to this website's feed is held in strict confidence; we will not release or disclose any specific subscriber information under any circumstances, unless required by law. Aggregated information stripped of any personally identifiable information may be disclosed.
+An IP address is a number that’s automatically assigned to your computer whenever you surf the Web. Web servers automatically identify your computer by its IP address.
 
-## Comments
+eBenTa.com ( _chat rules_ ) collects IP addresses to analyze trends, administer our site, anonymously track members’ movements on our site, and to gather broad demographic information for statistical purposes. When guests request pages from the Site, our servers log those guests’ IP addresses. We do not link IP addresses to any personal information, so that while a member’s session will be logged, the member remains anonymous – to us, and to anyone else.
 
-Comments submitted to this website are the responsibility of the commenter. We reserve the right to remove or edit comments at our discretion. Site URLs (if provided) are published along with comments. E-mail addresses are required with the submission of comments but are not disclosed, unless the commenter deliberately does so him/herself by entering the e-mail address in the main comment box in addition to the box clearly labeled for the e-mail address.
+We use IP addresses in only a few types of situations. We may use these addresses to identify a member when it’s necessary to enforce compliance with our policies or terms of service, or to protect our service, Site, customers or others. We may also use these addresses to capture time stamps so that we can determine peak and off-peak load times. These addresses may also be used to determine browser type for demographic information.
 
-eBenTa reserves the right to delete any comments that it deems not beneficial to the readership. This includes but is not limited to comments containing profanity, self promotion, harrassment, threats, or spam of any sort.
+**Your acceptance of this privacy policy**
 
-## External Links
+By using the Site, you indicate your agreement with the terms and conditions of this privacy policy. If you do not agree with this privacy policy, then do not use the Site. We reserve the right to change the terms of this privacy policy. We will notify you of any material changes to this policy via email or by posting a prominent notice on the Site stating that the privacy policy has been updated. We will give you an opportunity to “opt out” of having your information collected and used pursuant to this materially different privacy policy. Also, we encourage you to review this privacy policy on a regular basis.
 
-The web site contains links to other websites not owned by the owner of this website. We will not, and cannot, control how your personal information is used on these other websites. Consult the privacy policies of the linked websites to see how they use your information
-
-We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
-
-ADVERTISEMENT
-
-DAILY DEAL
-
-HOT DEAL
-
-ADVERTISEMENT
-
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=817980&afsid=1)
-
-**Disclaimer:**  
-eBenTa.com is absolutely legal and contain only links to other sites on the Internet : ( megaupload.com, dailymotion.com, myspace.com, ouou.com, stage6.com, tudou.com, veoh.com, youku.com, youtube.com and others.. ) We do not host or upload any video, films, media files ( avi, mov, flv, mpg, mpeg, divx, dvd rip, mp3, mp4, torrent, ipod, psp ), eBenTa.com is not responsible for the accuracy, compliance, copyright, legality, decency, or any other aspect of the content of other linked sites. If you have any legal issues please contact appropriate media file owners / hosters. 
+**D I S C L A I M E R :**  
+All images, videos and live streams are gathered free from the internet and are hosted on external third party websites. We do not accept any responsibility for content hosted on these third party websites and will not be held responsible. This site only contains embedded links from (justin.tv, ustream.tv, megaupload.com, dailymotion.com, myspace.com, ouou.com, stage6.com, tudou.com, veoh.com, youku.com, zshare.com, hayag.com, youtube.com and others.. ) We do not host or upload any videos, films or media files. eBenTa is not responsible for the accuracy, compliance, copyright, legality, decency, or any other aspect of the content of other linked sites. If you have any legal issues please contact appropriate media file owners / hosters. eBenTa fully acknowledge that copyright of all visual contents solely belongs to its respective owners. By visiting and opening posts and pages in this site, you accept that you are in compliance with the terms of its PRIVACY POLICY and DISCLAIMER. 
