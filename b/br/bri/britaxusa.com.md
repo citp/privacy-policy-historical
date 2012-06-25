@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britaxusa.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231195638id_/http%3A//www.britaxusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britaxusa.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625123001id_/http%3A//www.britaxusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Britax USA
 
@@ -61,7 +61,7 @@ Britax Child Safety, Inc. makes every effort to safeguard information transmitte
 
 **Contact Information:**
 
-If you have questions or concerns about your privacy when using the Britax website, contact us by email at privacy@britaxusa.com, or by mail at:
+If you have questions or concerns about your privacy when using the Britax website, contact us by email at [privacy@britax.com](mailto:privacy@britax.com), or by mail at:
 
 Britax Child Safety, Inc.
 
@@ -70,5 +70,7 @@ Online Privacy Policy
 13501 South Ridge Drive
 
 Charlotte, North Carolina 28273
+
+USA
 
 Questions about products should not be directed to the above email address. All such questions or requests will not be answered. 
