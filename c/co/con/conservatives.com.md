@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003108id_/http%3A//www.conservatives.com/Information/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625173928id_/http%3A//www.conservatives.com/Information/Privacy.aspx) for the most accurate reproduction.*
 
 # The Conservative Party | Privacy
 
@@ -31,9 +31,9 @@ We ask for your name, postcode and email address if you subscribe to our email n
 
 In addition to the information from site registration we need additional information if you wish to donate money or join. This includes payment information (such as your credit card number and expiry date) and personal information that we must collect to abide by legal and voluntary codes of conduct (such as the constituency in which you are registered to vote). This information may be used for user analysis, user-profiling and contacting visitors.
 
-If you donate more than £5,000 to the Party via the website, we are obliged under the Political Parties Elections and Referendums Act 2000 to report such a donation to the Electoral Commission, who will publish the fact that you have made a donation over £5,000. For more information, please see <http://www.electoralcommission.gov.uk/>
+If you donate more than £7,500 to the Party via the website, we are obliged under the Political Parties Elections and Referendums Act 2000 to report such a donation to the Electoral Commission, who will publish the fact that you have made a donation over £7,500. For more information, please see <http://www.electoralcommission.gov.uk/>
 
-Under the Political Party Elections and Referendums Act 2000 (PPERA) you must be on the electoral register in the UK excluding the Channel Islands and the Isle of Man in order to make a donation of more than £200.
+Under the Political Party Elections and Referendums Act 2000 (PPERA) you must be on the electoral register in the UK excluding the Channel Islands and the Isle of Man in order to make a donation of more than £500.
 
 ### Volunteer
 
@@ -57,18 +57,7 @@ We use IP addresses, URI's of requested resources, timestamps and HTTP user-agen
 
 ## Cookies
 
-Cookies are a technology which can be used to provide you with tailored information from a website. A cookie is an element of data that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
-
-Our site makes use of cookies. Cookies are used for the following purposes:
-
-  * Site administration
-  * Site customization
-  * User targeting
-  * Contacting users
-  * User analysis
-  * Online polls and surveys
-
-
+Please visit our [cookies page](https://web.archive.org/Information/Cookies.aspx) for information on what cookies this site uses.
 
 ## Links
 
@@ -83,6 +72,10 @@ For instance, our membership and donation forms encrypt your credit card number 
 We also do everything in our power to protect your information once we have received it. Our staff can only access your details if they have a specific job to perform, such as dealing with a membership enquiry. They also have to keep up to date on our security and privacy practices.
 
 Finally, the servers that store personally identifiable information are kept in a secure environment.
+
+## Transfer of your information outside the European Union
+
+As part of the services offered to you through our site, the information you provide to us may be transferred to countries outside of the European Economic Area ("EEA"). By way of example, this may happen if one of our service providers is located in a country outside of the EEA. These countries may not have similar data protection laws to the EEA. If we transfer your information outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected and used only in accordance with our instructions and for the purposes we have indicated to you at the time of collection of the data.
 
 ## Supplementing Information
 
