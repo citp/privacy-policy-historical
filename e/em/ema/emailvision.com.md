@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailvision.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206203917id_/http%3A//www.emailvision.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailvision.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625125807id_/http%3A//www.emailvision.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Marketing Services - Emailvision
 
@@ -18,7 +18,7 @@ The Company uses Data About Emailvision Customers to perform the services reques
 The Company may also use Data About Emailvision Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in Emailvision, the Service, and to send you information regarding the Company, such as information about promotions or events.
 
 **Choice/Opt-Out**  
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [**support@emailvision.com**](mailto:support@Emailvision.com).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at **support(at)emailvision.com**.
 
 Emailvision uses Web Site Navigational Information to operate and improve the Company’s Web sites. The Company may also use Web Site Navigational Information in combination with Data About Emailvision Customers to provide personalized information about the Company.
 
@@ -54,7 +54,7 @@ Emailvision uses a third-party intermediary to manage credit card processing. is
 Emailvision reserves the right to disclose personally identifiable information of the Company’s Customers or Visitors if required by law or if the Company reasonably believes that disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
 
 **7\. Communications Preferences**  
-Emailvision offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to [**support@emailvision.com**](mailto:support@Emailvision.com).
+Emailvision offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to **support(at)emailvision.com**.
 
 **8\. Correcting and Updating Your Information**  
 Customers may update or change their registration information by editing their user or organization record. To update a user profile, please login to [**http://www.campaigncommander.com**](http://www.campaigncommander.com/) with your Campaign Commander™ username and password and click “Manage Account.”
@@ -73,18 +73,21 @@ Emailvision provides a wide variety of services and solutions to its business cl
 Emailvision Customers use the Service to host data and information (“Customer Data”). Emailvision will not review, share, distribute, or reference any such Customer Data except as provided in the Emailvision Master Subscription Agreement, or as may be required by law. Individual records of Customer Data may be viewed or accessed only for the purpose of resolving a problem, support issues, or suspected violation of the Emailvision Master Subscription Agreement, or as may be required by law. Customers are responsible for maintaining the security and confidentiality of their Campaign Commander™ usernames and passwords.
 
 **10\. Children’s Protection**  
-We do not collect, use, or disclose information from children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at [**privacy@emailvision.com**](mailto:privacy@Emailvision.com). If we learn or have reason to suspect that an Emailvision Web site visitor is under age 13, we will promptly delete any personal information regarding that visitor.
+We do not collect, use, or disclose information from children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at **privacy(at)emailvision.com**. If we learn or have reason to suspect that an Emailvision Web site visitor is under age 13, we will promptly delete any personal information regarding that visitor.
 
 **11\. Security**  
 Emailvision uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. When the Service is accessed using Internet Explorer version 6.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer (“SSL”) technology protects Customer Data using both server authentication and data encryption. These technologies help ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access. Emailvision also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its Web sites in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. Emailvision also offers enhanced security features within the Service that permit Customers to configure security settings to the level they deem necessary. Because the Company uses the Service to maintain Data About Emailvision Customers, this information is secured in the same manner as described above for Customer Data.
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [**security@emailvision.com**](mailto:security@Emailvision.com).
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at **security(at)emailvision.com**.
 
 **12\. Changes to this Privacy Statement**  
 Emailvision reserves the right to change this Privacy Statement. Emailvision will provide notification of the material changes to this Privacy Statement through the Company’s Web sites at least thirty (30) business days prior to the change taking effect.
 
 **13\. Contacting Us**  
-Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to Emailvision Privacy by emailing [**privacy@emailvision.com**](mailto:privacy@Emailvision.com) or by mailing:  
+Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to Emailvision Privacy by emailing **privacy(at)emailvision.com** or by mailing:
+
 Emailvision Privacy  
-42-46 rue Médéric  
-92110 Clichy France
+Lynton House  
+7-12 Tavistock Square  
+London WC1H 9LT - United Kingdom  
+ 
