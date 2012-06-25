@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sadoun.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216212549id_/http%3A//sadoun.com/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sadoun.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625152631id_/http%3A//www.sadoun.com/privacy_policy_statement.htm) for the most accurate reproduction.*
 
 # Sadoun.com Privacy Policy Statement
 
 We can be reached via e-mail at [info@sadoun.com](mailto:jamalsadoun@globalssc.com?subject=GlobalSSC%20Privacy%20Policy%20Question)
 
-Telephone:  614-529-9560
+Telephone: 713-460-1005
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
