@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funyo.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208175351id_/http%3A//funyo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funyo.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625074837id_/http%3A//funyo.com/privacy) for the most accurate reproduction.*
 
 # Funyo - Privacy Policy
 
