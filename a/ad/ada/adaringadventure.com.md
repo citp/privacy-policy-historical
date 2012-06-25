@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adaringadventure.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225210013id_/http%3A//www.adaringadventure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaringadventure.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625115510id_/http%3A//www.adaringadventure.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | A Daring Adventure
+# Privacy Policy - A Daring Adventure
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at tim at adaringadventure dot com.
 
