@@ -1,7 +1,13 @@
-> *The following text is extracted and transformed from the suntekstore.com privacy policy that was archived on 2006-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060328083115id_/http%3A//www.suntekstore.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suntekstore.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626062957id_/http%3A//www.suntekstore.com/article-28-privacy_policy.html) for the most accurate reproduction.*
 
-# SuntekStore.com Privacy Policy
+# Privacy Policy_Customer Service_Cool Gadgets, Solar Products, Solar Charger, Solar Light - Online Shopping from China with Free Shipping - SuntekStore
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
+[Home](http://www.suntekstore.com/) > Customer Service > Privacy Policy
 
- _SuntekStore values its customers and visitors and respects their privacy. We will not share, sell, rent, or otherwise distribute any of the personal information that you provide us when making a purchase through our online store. We will use your feedback and comments for the purposes of improving the services that we can provide you, and keeping you up to date with any special promotions or updates. If our information practices change in the future, we will let you know by posting the policy changes on our Web site before any new policies formally take effect. Please contact us by e-mail at[info@suntekstore.com](mailto:info@pda-mart.com), with any questions._
+Privacy Policy
+
+We appreciate the trust from customers in releasing information. Customer privacy is our first priority. We strongly believe that customers have the right to know how we use their information. The following privacy statement will help you to learn more about how we use, where we use and who manages your information.
+
+All customer information collected via the site is for any business or operational practices within our company only. Customer information will not be revealed or resold to other firms. Our employees agree only to use information in order to provide superior customer service.
+
+Customers have the right to refuse disclosing privacy information. However, customers must understand that some information is required to become a registered site visitor, and for order processing purposes.
