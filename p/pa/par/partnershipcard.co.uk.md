@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnershipcard.co.uk privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230055251id_/http%3A//www.partnershipcard.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnershipcard.co.uk privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626074557id_/http%3A//www.partnershipcard.co.uk/content/pscd/homepage/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | partnership card | John Lewis Financial Services
 
@@ -6,7 +6,7 @@
 
 This Privacy Statement sets out our current policies about how your personal and financial information is dealt with and demonstrates our commitment to your privacy. We may change the content or services found on our site at any time without notice, and consequently our privacy policy may change at any time in the future. You agree to revisit this page regularly and your continued access to or use of this site will mean that you agree to any changes.
 
-For essential information about using our website, [please read the legal information provided](https://web.archive.org/legal-information.html).  
+For essential information about using our website, [please read the legal information provided](https://web.archive.org/content/pscd/homepage/legal-information.html).  
 
 
 Public areas onsite are those that can be viewed without you having to log into your account. These also exclude the full Special Offers page - which requires you to enter the first 6 digits of your _partnership card_ number to be viewed.
