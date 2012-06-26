@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandscreen.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228183205id_/http%3A//www.brandscreen.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandscreen.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626021045id_/http%3A//www.brandscreen.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -83,7 +83,7 @@ Brandscreen only shares personal information with other companies or individuals
 
 
       
-Please [contact us](https://web.archive.org/web/20111228183205id_/http%3A//www.brandscreen.com/Offices.aspx) for any additional questions about the management or use of personal data. 
+Please [contact us](https://web.archive.org/web/20120626021045id_/http%3A//www.brandscreen.com/Offices.aspx) for any additional questions about the management or use of personal data. 
   
 
 
