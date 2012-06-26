@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waters.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305000137id_/http%3A//www.waters.com/waters/nav.htm%3Fcid%3D1000241) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waters.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626123201id_/https%3A//www.waters.com/waters/nav.htm%3Fcid%3D1000241) for the most accurate reproduction.*
 
 # Waters: Privacy Policy
 
@@ -6,13 +6,14 @@ Global Privacy Policy
 
 Waters Corporation and its subsidiaries ("we" or "us") are committed to protecting and respecting your privacy.
 
-This Global Privacy Policy (together with our [terms of use](http://www.waters.com/waters/nav.htm?cid=1000245) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed and stored by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This Global Privacy Policy (together with our [terms of use](http://www.waters.com/waters/nav.htm?cid=1000245) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed and stored by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 The data controller is Waters Corporation of 34 Maple Street, Milford, Massachusetts, 01757, USA.
 
 INFORMATION WE MAY COLLECT FROM YOU
 
-  * We may collect and process the following data about you from various sources: 
+We may collect and process the following data about you from various sources:
+
   * Information that you provide by submitting information to us or by filling in forms on our site [www.waters.com](http://www.waters.com/) ("our site"). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site. 
   * If you contact us, we may keep a record of that correspondence. 
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
@@ -99,3 +100,7 @@ Any changes we may make to our privacy policy in the future will be posted on th
 CONTACT
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [Data_Privacy@waters.com](mailto:Data_Privacy@waters.com).
+
+SAFE HARBOR
+
+Waters complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Waters' certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor/ "Safe Harbor").
