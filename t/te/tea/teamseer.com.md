@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamseer.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201183833id_/http%3A//www.teamseer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamseer.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626193836id_/http%3A//www.teamseer.com/privacy-policy) for the most accurate reproduction.*
 
 # TeamSeer | Privacy Statement
 
@@ -26,7 +26,9 @@ One a client has logged in, all information is transmitted via industry-standard
 
 ### Information Security on your own PCs
 
-If the user requests it, a cookie is used to store their email address to speed up logging in to the system. Cookies are not used otherwise. Depending on the user’s internet settings the web pages visited may be cached on their computer. It is up to customers to determine an appropriate policy to deal with this.
+TeamSeer does use cookies. Cookies are used (a) to carry out the transmission of a communication over an electronic communications network (by storing a temporary ‘session’ cookie), and (b) for the provision of the service requested by the subscriber (by storing temporary cookies that facilitate the experience of using TeamSeer). This in accordance with Paragraph 4, Regulation 6 of the Privacy and Electronic Communications (Amendment) Regulations Act 2011.
+
+Depending on the user’s internet settings the web pages visited may be cached on their computer. It is up to customers to determine an appropriate policy to deal with this.
 
 ### Access to Data
 
@@ -74,4 +76,4 @@ Our website contains links to other websites. We are not responsible for the pri
 
 When sign up online for a subscription with TeamSeer, you will be asked for your credit card details by our secure payment provider. TeamSeer does not know or store your credit card or debit card details.
 
-Last updated: 22 September 2010
+Last updated: 24 January 2012
