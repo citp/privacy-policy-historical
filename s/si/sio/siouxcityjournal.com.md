@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siouxcityjournal.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225222125id_/http%3A//www.siouxcityjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siouxcityjournal.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626132505id_/http%3A//siouxcityjournal.com/privacy) for the most accurate reproduction.*
 
-# / Privacy - Sioux City Journal
+# Privacy
 
 Welcome to the web sites of the Sioux City Journal. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
 
