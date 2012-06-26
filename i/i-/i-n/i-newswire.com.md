@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-newswire.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205220118id_/http%3A//www.i-newswire.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-newswire.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626184946id_/http%3A//www.i-newswire.com/privacy-policy.php) for the most accurate reproduction.*
 
 # I-Newswire.com Privacy Policy
 
