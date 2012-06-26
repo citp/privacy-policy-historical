@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the push-analytics.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606015549id_/http%3A//www.doubleagent.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the push-analytics.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626070543id_/http%3A//www.fearzone.com/static/privacy-policy) for the most accurate reproduction.*
 
-# Double Agent
+# FearZone.com
 
-DOUBLEAGENT.COM PRIVACY POLICY
+FEARZONE.COM PRIVACY POLICY
 
-Last Updated: January 10, 2007 
+Last Updated: September 5, 2007 
 
-This privacy policy ("Privacy Policy") covers our treatment of personally identifiable information we collect online when you access the Double Agent ("we," "us," or "our") web site located at doubleagent.com (the "Web Site"). This Privacy Policy applies and is limited to the treatment of information that is collected via the Web Site. We understand and respect your desire for privacy and will make reasonable efforts to use your personal information in accordance with this Privacy Policy. Please review this Privacy Policy carefully. By accessing and using the Web Site, you indicate your acceptance of this Privacy Policy.
+This privacy policy ("Privacy Policy") covers our treatment of personally identifiable information we collect online when you access the FearZone.com ("we," "us," or "our") web site located at fearzone.com (the "Web Site"). This Privacy Policy applies and is limited to the treatment of information that is collected via the Web Site. We understand and respect your desire for privacy and will make reasonable efforts to use your personal information in accordance with this Privacy Policy. Please review this Privacy Policy carefully. By accessing and using the Web Site, you indicate your acceptance of this Privacy Policy.
 
 INFORMATION COLLECTION
 
-Double Agent and/or its affiliates are the sole owner(s) of the information collected on doubleagent.com. We collect information from our users at several different points on our Web Site. For example, we collect personally identifying information, such as your name, e-mail address, and date of birth, when you register for Double Agent's newsletter (the "Newsletter"), enter contests, or participate in other interactive online activities throughout the Web Site. As described below, we may use such information to provide Newsletters and other information and services to you, award prizes, or for promotional and marketing purposes. We also collect non-personally identifiable information (such as your IP address or domain) for purposes of site administration and to compile aggregate information about usage of the Web Site. We may combine personal information with such usage information or other information we obtain from other resources.
+FearZone.com and/or its affiliates are the sole owner(s) of the information collected on fearzone.com. We collect information from our users at several different points on our Web Site. For example, we collect personally identifying information, such as your name, e-mail address, and date of birth, when you register for FearZone.com's newsletter (the "Newsletter"), enter contests, or participate in other interactive online activities throughout the Web Site. As described below, we may use such information to provide Newsletters and other information and services to you, award prizes, or for promotional and marketing purposes. We also collect non-personally identifiable information (such as your IP address or domain) for purposes of site administration and to compile aggregate information about usage of the Web Site. We may combine personal information with such usage information or other information we obtain from other resources.
 
 TELL-A-FRIEND
 
@@ -38,15 +38,11 @@ We employ or our third party advertising company may employ a software technolog
 
 SHARING OF INFORMATION
 
-For the purposes described above and to the extent permitted by law and regulations, we may share your personally identifiable information with our affiliates and other sites operated by and for Double Agent. We share aggregate information with third parties for advertising and promotional purposes. We may also disclose personal information in response to a request by law enforcement personnel, a court order or subpoena, or to protect the integrity of our Web Site if we believe that a user has committed unlawful or otherwise harmful acts. We may also disclose your personally identifiable information in connection with any merger or consolidation with, or sale of substantially all of our assets, to an affiliated entity or third party, provided that such party agrees to comply with our Privacy Policy or you are given a choice if such party would like to use such information in a manner materially different from that disclosed in our Privacy Policy. 
+For the purposes described above and to the extent permitted by law and regulations, we may share your personally identifiable information with our affiliates and other sites operated by and for FearZone.com. We share aggregate information with third parties for advertising and promotional purposes. We may also disclose personal information in response to a request by law enforcement personnel, a court order or subpoena, or to protect the integrity of our Web Site if we believe that a user has committed unlawful or otherwise harmful acts. We may also disclose your personally identifiable information in connection with any merger or consolidation with, or sale of substantially all of our assets, to an affiliated entity or third party, provided that such party agrees to comply with our Privacy Policy or you are given a choice if such party would like to use such information in a manner materially different from that disclosed in our Privacy Policy.
 
 NEWSLETTERS
 
-You may register for a periodic Double Agent newsletter, which we will deliver to the e-mail address that you provide.
-
-DEDICATED E-MAILS
-
-In order to subsidize the Web Site and Newsletter, newsletter registrants will occasionally receive dedicated e-mails from our affiliates ("Dedicated E-mails"). These messages will be clearly marked as coming from Double Agent.
+You may register for a periodic FearZone.com newsletter, which we will deliver to the e-mail address that you provide.
 
 CUSTOMER SERVICE
 
@@ -62,7 +58,7 @@ We have taken commercially reasonable measures to help prevent unauthorized acce
 
 DELETING PERSONAL INFORMATION
 
-You can request to be removed from our active database by contacting Double Agent Customer Support at support@doubleagent.com and unsubscribing from our Newsletter. If you do so, we will delete your personal information from our active database following our receipt of your cancellation request, unless we determine in our sole discretion that we need to retain that information for a longer period of time to resolve disputes, troubleshoot problems, enforce this Privacy Policy, or Double Agent's Terms and Conditions, or for other valid business reasons. Please note that we will not remove your historical usage information from our aggregated files when we delete your user account.
+You can request to be removed from our active database by contacting FearZone.com Customer Support at support@fearzone.com and unsubscribing from our Newsletter. If you do so, we will delete your personal information from our active database following our receipt of your cancellation request, unless we determine in our sole discretion that we need to retain that information for a longer period of time to resolve disputes, troubleshoot problems, enforce this Privacy Policy, or FearZone.com's Terms and Conditions, or for other valid business reasons. Please note that we will not remove your historical usage information from our aggregated files when we delete your user account.
 
 NOTIFICATION OF CHANGES
 
@@ -78,7 +74,7 @@ The Web Site contains links to other sites. Please be aware that we are not resp
 
 THIRD PARTY ADVERTISING
 
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.
 
 THIRD PARTY COOKIES
 
@@ -86,4 +82,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 CONTACT INFORMATION
 
-If you have any questions or comments regarding our Privacy Policy, please contact us at support@doubleagent.com or Double Agent, 300 Mercer Street, Suite 21M, New York, NY 10003.
+If you have any questions or comments regarding our Privacy Policy, please contact us at support@fearzone.com.
