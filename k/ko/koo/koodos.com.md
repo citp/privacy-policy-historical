@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koodos.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209103804id_/http%3A//www.theoutnet.com/Help/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koodos.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626185245id_/http%3A//www.theoutnet.com/Help/PrivacyPolicy) for the most accurate reproduction.*
 
 # Help | THE OUTNET
 
@@ -16,9 +16,10 @@ Changes to the Privacy Policy are noted here:
 22nd February 2010: Amend to how your personal information may be used  
 24th November 2010: Amends to marketing opt in opt out provisions  
 6th July, 2011: Update to how personal information may be used  
+14th March, 2012: Addition of Live Chat clause to What personal information do we collect from you and how  
 
 
-Date last revised: 6th July, 2011
+Date last revised: 14th March, 2012
 
   * [Legal purchase age]()
     * If you are under 18, we require that you inform a parent or guardian about THE OUTNET's Privacy Policy and Terms and Conditions as well as requiring their consent to the Privacy Policy and Terms and Conditions before registering with THE OUTNET or placing an order with THE OUTNET.
@@ -34,6 +35,8 @@ Date last revised: 6th July, 2011
   * [What personal information do we collect from you and how?]()
     * THE OUTNET collects personal information in several ways when you place an order or register for a service offered by  
 THE OUTNET. If an order is placed with us, we need to hold personal information including your name, email address, phone numbers, home address, shipping and credit card billing address(es) so that we can process and fulfill your order. We only save credit card information for those customers that have registered on the Site. Saved card details will never be shared with third parties and will only be used to process your order, using our payment partner's systems. Additionally we may also obtain information as a result of authentication or identity checks. Sometimes we may ask for your telephone number. This number may be given to our courier for delivery services. These details allow us to process your order and to let you know the status of your order.
+
+In addition, our Live Chat provider stores all chat conversations for 13 months. These transcripts are only accessed by THE OUTNET for training purposes so we can enhance the service we provide. To receive a copy of your chat conversation simply request this when exiting Live Chat or contact our customer care team by emailing [customercare.usa@theoutnet.com](mailto:customercare.usa@theOutnet.com). Alternatively, you can call +1 888 9 OUTNET (688638)* or 1 800 729 187 free from Australia. *Calls from outside the US will be charged at international rates.
 
   * [Use of cookies on our website]()
     * In common with many websites, we use "cookies" to help us gather and store information about visitors to our Site. A cookie is a small data file that our server sends to your browser when you visit the Site. The use of cookies helps us to assist your use of certain aspects of the Site.You can delete cookies at any time or you can set your browser to reject or disable cookies. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Site.
