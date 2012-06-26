@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redgiantsoftware.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025225550id_/http%3A//www.redgiantsoftware.com/support/buyers-guide/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redgiantsoftware.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626024349id_/http%3A//www.redgiantsoftware.com/support/buyers-guide/privacy-policy) for the most accurate reproduction.*
 
 # Red Giant - Support Documentation - Magic Bullet Grinder 1.0
 
