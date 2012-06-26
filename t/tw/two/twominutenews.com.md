@@ -1,29 +1,75 @@
-> *The following text is extracted and transformed from the twominutenews.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501010417id_/http%3A//www.twominutenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twominutenews.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626173601id_/http%3A//www.twominutenews.com/privacy) for the most accurate reproduction.*
 
-# Two Minute News | Privacy Policy
+# Two Minute News
 
-**Thank you for visiting Two Minute News. Your privacy is very important to us. Please read below the disclosures regarding information gathering and dissemination practices for this web site.**
+### Privacy Policy
 
-**Log Files**  
-Our web server generates log files. The information being saved are internet protocol (IP) addresses, browser types, internet service providers, visitor entry and exit pages, platform type, date/time stamp, and visitor clicks. These data are used to analyze trends, administer the site, track the browsing behavior of the visitors, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+We understand how important it is to keep your personal information confidential. The following privacy policy outlines what information we collect through our website, how we deal with it, and what we do to ensure it is secure.
 
-**E-mail Subscription**  
-If a user wishes to subscribe to our news via e-mail (powered by Feedburner), we ask for contact information such as name and email address. Out of respect for my users’ privacy, a way to opt-out of these communications is provided.
+Throughout this policy, we refer to your 'personal information' which means information which identifies you as an individual or from which your identity can be reasonably ascertained. Your address is an example of personal information.
 
-**Cookies**  
-A cookie is a piece of data stored on the user’s computer tied to information about the user. My site use cookies for tracking visitors’ activity. Some of my business partners and advertisers use cookies on our site. However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings section.
+The personal information we collect through this website usually comes from any comments or messages you submit to us. We automatically collect and record this information with our server logs from your browser. Generally, we obtain your IP address, cookie information and the page you requested.
 
-**Links**  
-This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage my users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+#### Changes to Policies
 
-**Advertisers**  
-We use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. We work with the ad companies like Google Adsense. Please check their websites for respective privacy policies.
+In addition to the conditions of this privacy policy, there are occasionally specific and additional privacy conditions that pertain to specific sections of our site. These specific and additional provisions have an impact on your privacy protection so we strongly suggest that you assess them wherever they show up. If you find that the conditions of this privacy policy and those other specific and additional conditions contradict one another, the specific and additional provisions will prevail.
 
-**Google and the[DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx)**  
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+If we make any changes to our privacy policy, we will post them on our website so you are aware of them. It is recommended that you visit this website privacy policy from time to time to keep up to date with the latest version.
 
-**Affiliates**  
-Two Minute News is also an affiliate for Paypal and many other affiliate marketing companies. We do not have control over their privacy practices so we would advise that before you sign up for an account in these companies, please check their websites for their respective privacy statements.
+#### Security
 
-**Contact Information**  
-If users have any questions or suggestions regarding my privacy policy, please contact us by filling up the contact form.
+We have numerous security systems in place and our aim is to protect the security and integrity of your personal information. Once we get possession of any personal information, we take reasonable steps to protect that information from misuse and loss and from unauthorized access, modification or disclosure.
+
+Unfortunately, when it comes to the internet, nothing is guaranteed to be entirely safe. So although we make every effort to protect your personal information, you need to be careful because anything can happen.
+
+#### Cookies
+
+These days, it is not uncommon for sites to use "cookies" to identify and learn about site visitors. Cookies are miniature identifiers that work as a license plate because they help us to identify you if you visit our site again. These identifiers are sent from a web server and are stored on your computer's hard drive. We may set and access cookies on your computer because they help us to see how you found our website. Under no circumstances would we ever use them to get data from your hard drive, your email or any other personal information about you.
+
+To ensure your privacy is secure, we do not use cookies to pass on or store any personally identifiable information about you online. You have the option of rejecting cookies by changing your browser settings but this can cause some web pages not to load properly and can result in denied access to certain information.
+
+#### Use and disclosure of information
+
+We share your personal information with a third party because they assist us with managing and hosting. We may also share your personal information with service providers that help us with:
+
+  * consulting;
+  * archiving;
+  * auditing;
+  * technology;
+  * security services;
+  * mailhouse; and
+  * delivery
+
+
+
+We do not disclose your personal information for our own benefit. The reasons why we may use or disclose personal information that we collect about you are:
+
+  * if you provided it for a certain purpose;
+  * to uphold our relationship with you;
+  * if you have agreed to the use or disclosure;
+  * for examination or for marketing use;
+  * where a third party acquires, shows interest in acquiring, or makes inquiries in relation to acquiring, an interest in this website;
+  * if we are required or authorized by law to do so; or
+  * for website usage/user statistics
+
+
+
+We also like to keep our site visitors updated on our services, progress and any other relevant matters. When we do this, we filter out the irrelevant information and invitations and only send what we believe is relevant for your company. If you would prefer that no contact was made, please let us know using the contact details set out below.
+
+#### Links
+
+Many websites these days contain links to external sites. Our site has links to the websites of other organizations which we believe could potentially be of interest to you.
+
+We are not responsible for the content or practices of these linked sites. They are separate businesses and they have their own privacy practices which are not identical to ours. If you want to find out more about them, check those websites for their respective privacy statements.
+
+#### Accessing your information
+
+You have the right to request access to any personal information which we hold about you. All you need to do is use the 'Contact Us' set out below. Be as detailed as possible about which information you seek, so we can help you as soon as possible. In order to cover our costs of providing this information to you, an access fee may be charged.
+
+#### Contact details
+
+If you have any queries or concerns about privacy, or you would like to file a complaint about the way in which we have handled your personal information, you should [contact us](https://web.archive.org/contact-us).
+
+© 2008. All rights reserved.
+
+Last updated: [09/09/08]
