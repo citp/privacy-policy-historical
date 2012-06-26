@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beritadownload.info privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226222959id_/http%3A//beritadownload.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beritadownload.info privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626042505id_/http%3A//beritadownload.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Berita Download 2011
 
@@ -25,18 +25,8 @@ The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of Berita Download then you may contact us at revarius@revarius.info 
 
-#### If You Like This Post, Share it With Your Friends & Peers
+#### Langganan Artikel Via Email
 
-[](http://digg.com/submit?phase=2&url=http://beritadownload.info/privacy-policy&title=Privacy%20Policy)
+Dapatkan update artikel di blog relifa langsung di email anda, **Isi Email Anda:**
 
-[](http://www.stumbleupon.com/submit?url=http://beritadownload.info/privacy-policy&title=Privacy%20Policy)
-
-[](http://del.icio.us/post?url=http://beritadownload.info/privacy-policy&title=Privacy%20Policy)
-
-[](http://www.facebook.com/sharer.php?u=http://beritadownload.info/privacy-policy&t=Privacy%20Policy)
-
-[](http://twitter.com/home/?status=Privacy%20Policy%20:%20http://beritadownload.info/privacy-policy)
-
-[](http://www.reddit.com/submit?url=http://beritadownload.info/privacy-policy&title=Privacy%20Policy)
-
-[](http://beritadownload.info/feed)
+Jangan lupa konfirmasikan email anda
