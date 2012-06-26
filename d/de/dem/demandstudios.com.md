@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandstudios.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207071258id_/http%3A//www.demandstudios.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandstudios.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626142450id_/http%3A//www.demandstudios.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Demand Media Studios
 
