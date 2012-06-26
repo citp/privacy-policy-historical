@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elantechnologies.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222062943id_/http%3A//www.elantechnologies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elantechnologies.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626131426id_/http%3A//www.elantechnologies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Elan Technologies
 
@@ -48,7 +48,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [web site privacy policy](https://web.archive.org/web/20111222062943id_/http%3A//www.elantechnologies.com/privacy-policy?page_id=3128).
+By using our site, you consent to our [web site privacy policy](https://web.archive.org/privacy-policy/).
 
 **Changes to our Privacy Policy**
 
