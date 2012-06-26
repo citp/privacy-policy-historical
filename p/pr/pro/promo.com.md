@@ -1,31 +1,62 @@
-> *The following text is extracted and transformed from the promo.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222081114id_/http%3A//www.promo.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promo.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626172809id_/http%3A//www.promo.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Continental Promotion Group, Inc. - Privacy Policy
+# Promo.com>>Before you buy anything
 
-## Privacy Policy
+**What information do we collect?**
 
-**Effective Date:** Friday, March 18, 2005
+We collect information from you when you subscribe to our newsletter. 
 
-### Collection of Personal Information and Use
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-The operator of this website is Continental Promotion Group, Inc. ("CPG"), acting under an agreement with our various clients. This privacy policy explains our collection, use, disclosure and protection of your personal information. We will be collecting such information as your name, address, e-mail address, and product proof-of-purchase data. This information is used for validation of submissions, for processing and mailing rebate checks, for general fulfillment of the promotional offers, and for related customer service purposes. Without this information we cannot validate, process or fulfill your submission. We do not sell, rent, share or disclose the information collected to third parties without your prior consent, except in the limited circumstances described as follows: We may need to disclose personal information when required by law where we have a good-faith belief that such disclosure is necessary to comply with a subpoena, judicial proceeding, a court order or other legal process. We may also disclose certain of the information collected to our client, who is the sponsor of the promotion in which you participated.
+ **What do we use your information for?**
 
-### Choice
+Any of the information we collect from you may be used in one of the following ways: 
 
-Your participation in any promotion by sending us your rebate submission is completely voluntary and you therefore have a choice whether or not to disclose this information. Because we require the information collected through this site for processing your submission and providing customer service, your choice to opt out is limited to not submitting your rebate request or customer service request through this site, but instead completing your rebate submission form and mailing it in for processing, and using the toll-free customer service number provided on such form.
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-### Protection of Personal Information
+; To send periodic emails
 
-We have put into place security measures to help protect personal information from loss, misuse or alteration while it is under our control. We have implemented certain systematic, physical, and managerial procedures in an effort to protect against unauthorized access or disclosure, maintain your data, and otherwise secure the information collected. The information we collect is located on a secured server behind our firewall and is not directly connected to the Internet. In addition, we use Secure Socket Software and password protection procedures to safeguard the information collected.
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-### Updating, Reviewing or Correcting Personal Information
+ **How do we protect your information?**
 
-If you need to change or correct your personal information (such as your address), or if you wish to remove or deactivate your personal information, or if you have any questions or complaints about your submission, or this Privacy Policy, please contact our Rebate Service Center with your request, question, or concern at 1-877-360-6632.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-### Changes to this Statement
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to?keep the information confidential. 
 
-We reserve the right to change this privacy policy at any time, but will alert you that changes have been made by indicating at the top of the privacy statement the date it was last updated. We encourage you to review our privacy statement to make sure you understand how information you provide will be used. If there is ever a material change to how we use information you provide and the new uses are unrelated to uses we disclose in this statement, we will communicate those changes in advance.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
-### Cookies, Logs and Links
+ **Do we use cookies?**
 
-Cookies are small files stored on your computer to collect information which is used to personalize the site when you return. We do not use cookies to collect personal information about you. However, we do use temporary session cookies to enable page-to-page navigation within the site. These cookies are erased when you close your browser. We may use aggregated IP addresses from various users of this site to analyze trends, and provide for the administration and upkeep of the site. Such IP addresses are not linked to your personal data. This privacy policy applies only to information collected on this website. We are not responsible for the content, privacy and security practices and policies of other websites that may be linked to this site. Links from our site to third parties or to other sites are provided for your convenience. We encourage you to investigate their privacy and security policies before providing them with personal information.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.promo.com
+
+ **Your Consent**
+
+By using our site, you consent to our web site privacy policy.
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
