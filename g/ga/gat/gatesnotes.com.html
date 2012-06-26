@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gatesnotes.com privacy policy that was archived on 2011-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225040109id_/http%3A//www.thegatesnotes.com/GlobalPages/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gatesnotes.com privacy policy that was archived on 2012-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626021650id_/https%3A//www.thegatesnotes.com/GlobalPages/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 	<title>Gates Notes Privacy Policy</title>
@@ -15,19 +15,18 @@
 	<meta name="vs_defaultClientScript" content="JavaScript">
 	<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
 	<meta name="bitly-verification" content="4d49a11f1223">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1">
 	<link href="/default.css" rel="stylesheet">
 	<link rel="shortcut icon" href="/GatesNotesV2/img/favicon.ico">
 	<link rel="apple-touch-icon" href="/GatesNotesV2/img/apple-touch-icon.png">
 	<link rel="stylesheet" media="screen, handheld" href="/GatesNotesV2/css/tgn0.0.1.css">
-	<link rel="stylesheet" media="only all and (min-width: 1218px)" href="/GatesNotesV2/css/grid-1218.css">
-	<link rel="stylesheet" media="only all and (min-width: 978px) and (max-width: 1217px)" href="/GatesNotesV2/css/grid-978.css">
-	<link rel="stylesheet" media="only all and (max-width: 977px)" href="/GatesNotesV2/css/grid-748.css">
     <link rel="stylesheet" href="/GatesNotesV2/css/print.css" type="text/css" media="print">
-	<link rel="stylesheet" href="/GatesNotesV2/css/video-js.css" type="text/css" media="screen" title="Video JS">
-	<link rel="stylesheet" href="/GatesNotesV2/css/jquery.scslightbox.css" type="text/css">
+	<link rel="stylesheet" href="/GatesNotesV2/css/colorbox.css" type="text/css">
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/GatesNotesV2/js/jquery-1.6.min.js"></script>
 	<script type="text/javascript" src="/GatesNotesV2/js/javascript.js"></script>
-	<script type="text/javascript" src="/GatesNotesV2/js/jquery.scslightbox.js"></script>
+	<script type="text/javascript" src="/GatesNotesV2/js/respond.js"></script>
+    <!-- <script type="text/javascript" src="/GatesNotesV2/js/modernizr.custom.js"></script> -->
+	<script type="text/javascript" src="/GatesNotesV2/js/jquery.colorbox-min.js"></script>
 	<link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css">
 
 <!--[if lt IE 9]> 
@@ -41,6 +40,33 @@
  document.createElement('footer'); 
 </script> 
 <![endif]-->
+
+<script type="text/javascript">
+    (function (doc) {
+        var addEvent = 'addEventListener',
+        type = 'gesturestart',
+        qsa = 'querySelectorAll',
+        scales = [1, 1],
+        meta = qsa in doc ? doc[qsa]('meta[name=viewport]') : [];
+
+        function fix() {
+            meta.content = 'width=device-width,minimum-scale=' + scales[0] + ',maximum-scale=' + scales[1];
+            doc.removeEventListener(type, fix, true);
+        }
+
+        if ((meta = meta[meta.length - 1]) && addEvent in doc) {
+            fix();
+            scales = [.25, 1.6];
+            doc[addEvent](type, fix, true);
+        }
+
+    } (document));
+</script>
+<script type="text/javascript"> /* Selects the article tags that contain links and adds a class so that images without links don't have mouseover behavior KB */
+    $(document).ready(function () {
+        $('article').not('.main').find('[href]').parent().addClass('isLink');
+    });
+</script>
 </head>
 <body>
 	<form name="mainform" method="post" action="/GlobalPages/Privacy-Policy" id="mainform">
@@ -60,17 +86,17 @@
 			<nav>
 				<div class="nav1">
 					
-<script type="text/javascript"></script>
-
 		<ul class="tier1">
 	
-		<li id="ctl00_repeater_ctl01_NavItem"><a href="/Topics">Topics</a></li>
+		<li id="ctl00_repeater_ctl01_NavItem"><a href="/Books">Books</a></li>
 	
-		<li id="ctl00_repeater_ctl02_NavItem"><a href="/Personal">Personal</a></li>
+		<li id="ctl00_repeater_ctl02_NavItem"><a href="/Topics/Education">Education</a></li>
 	
-		<li id="ctl00_repeater_ctl03_NavItem"><a href="/Books">Books</a></li>
+		<li id="ctl00_repeater_ctl03_NavItem"><a href="/Topics/Energy">Energy</a></li>
 	
-		<li id="ctl00_repeater_ctl04_NavItem"><a href="/All">All</a></li>
+		<li id="ctl00_repeater_ctl04_NavItem"><a href="/Topics/Development">Development</a></li>
+	
+		<li id="ctl00_repeater_ctl05_NavItem"><a href="/Topics/Health">Health</a></li>
 	
 		</ul>
 	
@@ -78,7 +104,7 @@
 					
 <dl>
 	<dt>Search</dt>
-	<dd><input name="ctl01$SearchBox" type="text" value="Search" id="ctl01_SearchBox" onclick="javascript:this.value='';" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('ctl01_SearchButton').click();return false;}} else {return true}; "></dd>
+	<dd><input name="ctl01$SearchBox" type="text" value="Search" id="ctl01_SearchBox" class="searchbox" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('ctl01_SearchButton').click();return false;}} else {return true}; "></dd>
 	<dd><input type="submit" name="ctl01$SearchButton" value="" id="ctl01_SearchButton" tabindex="1" class="search"></dd>
 </dl>
 
@@ -89,6 +115,7 @@
 			</nav>
 		</header>
         </div>
+
 		
 
 <div class="content article">
@@ -121,12 +148,11 @@
 	</div>
 </div>
 
+
         <div class="noprint">
 		<footer>
 			<div class="icons">
 				
-<script type="text/javascript"></script>
-
 		<ul class="articletools">
 	
 		<li id="ctl02_repeater_ctl01_NavItem"><a href="http://twitter.com/#!/billgates" class="twitter" target="_blank">Follow Bill on Twitter</a></li>
@@ -160,14 +186,17 @@
 		    TrackFooterTools();
 	    });
 	    function TrackFooterTools() {
-		    jQuery("ul.articletools > a.twitter").click(function() {
-			    dcsSetVar('WT.z_type', 'Sharing', 'WT.z_name', 'Twitter Follow');
+            jQuery("ul.articletools > li > a.print").click(function() {
+                dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Print Tools');
+            });
+		    jQuery("ul.articletools > li > a.twitter").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Twitter Tools');
 		    });
-		    jQuery("ul.articletools > a.facebook").click(function() {
-			    dcsSetVar('WT.z_type', 'Sharing', 'WT.z_name', 'Facebook Like');
+		    jQuery("ul.articletools > li > a.facebook").click(function() {
+			    dcsSetVar('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Facebook Tools');
 		    });
-		    jQuery("ul.articletools > a.rss").click(function() {
-			    dcsSetVar('WT.z_type', 'Sharing', 'WT.z_name', 'RSS Feed');
+		    jQuery("ul.articletools > li> a.email").click(function() {
+			    dcsMultiTrack('WT.ti', $(document).attr('title'),'WT.z_type', 'Sharing', 'WT.z_name', 'Share to Email Tools');
 		    });
 	    }
 	    /* ]]> */
@@ -217,4 +246,4 @@
 	<!-- end of smartsource data collector tag -->
 
 
-</body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
