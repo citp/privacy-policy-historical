@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rafflecopter.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224013743id_/http%3A//www.rafflecopter.com/rafl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rafflecopter.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626041511id_/http%3A//www.rafflecopter.com/rafl/privacy) for the most accurate reproduction.*
 
 # Rafflecopter - Privacy Policy :)
 
