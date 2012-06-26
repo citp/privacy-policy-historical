@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coxdigitalsolutions.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208043548id_/http%3A//www.coxdigitalsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coxdigitalsolutions.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627012424id_/http%3A//www.coxdigitalsolutions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « « Cox Digital Solutions Cox Digital Solutions
+# Privacy Policy « Cox Digital Solutions Cox Digital Solutions
 
 This the privacy policy for Publishers, Advertisers, and Network Operators. If you would like to view our Consumer Privacy Policy, please [click here](http://www.coxdigitalsolutions.com//privacy/consumer-privacy-policy). To view our consumer opt-out, [click here](http://www.coxdigitalsolutions.com//privacy/consumer-opt-out-program).
 
