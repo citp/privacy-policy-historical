@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4fastfile.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120300id_/http%3A//4fastfile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4fastfile.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626203214id_/http%3A//4fastfile.com/privacy-policy) for the most accurate reproduction.*
 
 # 4FastFile.com - Privacy Policy
 
