@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blog.wordpress.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229212749id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.wordpress.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626152830id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Automattic
 
@@ -41,7 +41,7 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 ### Business Transfers
 
-If Automattic, or substantially all of its assets were acquired, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Automattic may continue to use your personal information as set forth in this policy.
+If Automattic, or substantially all of its assets, were acquired, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Automattic may continue to use your personal information as set forth in this policy.
 
 ### Ads
 
