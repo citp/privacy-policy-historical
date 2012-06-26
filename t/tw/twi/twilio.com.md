@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twilio.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206170511id_/http%3A//www.twilio.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilio.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626160506id_/http%3A//www.twilio.com/legal/privacy) for the most accurate reproduction.*
 
-# Twilio Cloud Communications | Web Service API for building Voice and SMS Applications
+# Twilio Legal - Privacy
 
 ## Twilio Privacy Policy
 
