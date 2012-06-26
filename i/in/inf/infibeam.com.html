@@ -1,14 +1,27 @@
-<!--The following is the downloaded HTML source of the infibeam.com privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226101003id_/http%3A//www.infibeam.com/static/help/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infibeam.com privacy policy that was archived on 2012-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626040007id_/http%3A//www.infibeam.com/static/help/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+function readCookie(name) {
+var nameEQ = name + "=";
+var ca = document.cookie.split(';');
+for(var i=0;i < ca.length;i++) {
+var c = ca[i];
+while (c.charAt(0)==' ') c = c.substring(1,c.length);
+if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+}
+return null;
+}
+</script>
 <title>Privacy Policy</title>
+<link rel="canonical" href="http://www.infibeam.com/help/privacy-policy-a.html">
 <meta name="msvalidate.01" content="C48C958F23B6431D04C172C3DEED2626">
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="stylesheet" href="http://assets.infibeam.com/assets/yui-css/reset-fonts-grids.css" type="text/css">
-<link rel="stylesheet" href="http://assets.infibeam.com/assets/skins/common/style/globle.css?v=23" type="text/css">
+<link rel="stylesheet" href="http://assets.infibeam.com/assets/skins/common/style/globle.css?v=26" type="text/css">
 <link rel="stylesheet" href="http://assets.infibeam.com/assets/skins/common/style/infibeam.css" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://assets.infibeam.com/includeResource.action?v=20&amp;bundle=jquerycore" type="text/javascript" charset="utf-8">
+<script src="http://assets.infibeam.com/includeResource.action?v=20&amp;bundle=jquerycore" type="text/javascript" charset="utf-8">
 </script>
 <link rel="stylesheet" type="text/css" media="screen" href="http://assets.infibeam.com/assets/skins/common/style/help.css">
 <style>
@@ -50,7 +63,16 @@ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async
 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
+<!-- Google Event Tracking -->
+function trackElements(category, action, label, values, nonInteractionFlag){
+if(typeof(values)=="number"){
+_gaq.push(['_trackEvent', category, action, label, values]);
+}else{
+_gaq.push(['_trackEvent', category, action, label]);
+}
+}
 </script>
+<script type="text/javascript" src="/scripts/MarketplaceUtils.js"></script>
 </head>
 <body>
 <div id="custom-doc" class="yui-t7">
@@ -64,20 +86,65 @@ $('.mainDiv').hide();
 <div id="hd">
 <!-- Header -->
 <div align="right" class="logo">
-<a id="sitelogo" href="/Christmas_Gifts/" title="Infibeam.com" rel="nofollow">
-<img src="/assets/skins/common/images/newlogo.gif" border="0" alt="Infibeam.com" style="margin-left:10px; margin-top:5px; float:left;">
+<a id="sitelogo" href="/" title="Infibeam.com" rel="nofollow">
+<img src="/assets/skins/common/images/logo.png" border="0" alt="Infibeam.com" style="margin-left:10px; margin-top:5px; float:left;">
 </a>
 </div>
 <div align="right" class="links" style="position:absolute;right:10px;top:0px; z-index:9999;">
 <img src="http://assets.infibeam.com/assets/skins/common/images/homeicon.gif" alt="Home" border="0" align="absmiddle" style="margin-top:-6px;">&nbsp;<a href="/" title="Home">Home</a>
+<span id="login">
 | <a id="loginlink" href="/Login.action" title="Login">Login</a>
 <a href="/Login.action#facebook" title="Facebook"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/facebook.gif" alt="Facebook" border="0" align="absmiddle"></a>
 <a href="/Login.action#twitter" title="Twitter"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/twitter.gif" alt="Twitter" border="0" align="absmiddle"></a>
+</span>
+<script type="text/javascript">
+var cust_name = readCookie("cust_name");
+if(cust_name=="Guest"){
+$('#login').html('| Hello ' + cust_name.replace(/"/g,'')+' | <a id="loginlink" href="/Login.action" title="Login">Login </a>');
+}else if(cust_name){
+$('#login').html('| Hello ' + cust_name.replace(/"/g,'') + ' | <a href="/jsp/logout.jsp">Logout </a>');
+}
+</script>
 |
 <img src="http://assets.infibeam.com/assets/skins/common/images/cart.gif" border="0" align="absmiddle"> <a href="/ShowCart.action" title="Shopping Cart">Shopping Cart</a> |
-<a href="/ViewPurchases.action" title="Your Account">Your Orders</a> |
-<a href="/static/help/help.html" title="Help">Help</a>
+<a href="/ViewPurchases.action" title="Your Account">My Account</a> |
+<span style="position:relative;">
+<span style="position:relative;">
+<a href="/wishlist.html" title="WishList" class="myWishList" onmouseover="onmouseOver();">My WishList</a> |
+<ul class="wishListDiv" style="display:none;">
+<li><a href="/wishlist.html">WishList</a></li>
+<li><a href="/book-shelf.html">Book Shelf</a></li>
+<li><a href="/gift-registry.html">Gift Registry</a></li>
+<li><a href="/wedding-registry.html">Wedding Registry</a></li>
+<li><a href="/baby-registry.html">Baby Registry</a></li>
+<li><a href="/find-public-lists.html">Find Public List</a></li>
+</ul>
+</span>
+</span>
+<a href="/static/help/help.html" title="Help">Help</a> |
+<a rel="nofollow" href="/TrackCustomerPurchase_input.action">Track Order</a>
 </div>
+<style>
+.wishListDiv{
+display:block;
+z-index:px;
+position:absolute;
+width:114px;
+font-size:14px;
+margin-top:25px ;
+top:-13px;
+background-color:white;
+color:Black;
+left: -10px;
+text-align:left;
+border: 1px solid #ededed;
+-webkit-box-shadow: 1px 1px 3px #ccc;
+-moz-box-shadow: 1px 1px 3px #ccc;
+box-shadow: 1px 1px 3px #ccc;
+}
+ul.wishListDiv li a{padding:3px 10px; border-bottom:1px solid #ededed; display:block; text-decoration:none;}
+ul.wishListDiv li a:hover{color:#fff;background-color:#2664AD;text-decoration:none;}
+</style>
 <script>
 $(document).ready(function(){
 $('.sublinks li').hover(function(){
@@ -86,7 +153,22 @@ $(this).addClass('selected');
 $(this).removeClass('selected');
 $('#selectedBtn').addClass('selected');
 });
+$('#srchForm').submit(function(){
+if($('#suggest').val()=="Looking for something?"){
+$('#suggest').val("");
+$('#suggest').focus();
+return false;
+}
+return true;
 });
+});
+function onmouseOver(){
+$('.wishListDiv').show();
+setTimeout("onMouseOut()",2000);
+}
+function onMouseOut(){
+$('.wishListDiv').hide();
+}
 </script>
 <div class="sublinks">
 <a href="/deal-of-the-day.html" title="Today's Deal"><img src="http://assets.infibeam.com/assets/skins/common/images/magicbox.jpg" border="0" alt="Magic Box" style="float:right;"></a>
@@ -213,9 +295,9 @@ $('#selectedBtn').addClass('selected');
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
 <a href="/Jewellery/" style="padding:2px; padding-left:0px; color:#003399;"><b>Jewellery</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Necklace" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Necklaces</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Pendant" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Pendants</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Bracelet" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Bracelets</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Necklaces" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Necklaces</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Pendants" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Pendants</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Bracelets" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Bracelets</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Earrings" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Earrings</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Rings" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Rings</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Jewellery/search?bodyType=Sets" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Sets</a>,&nbsp;&nbsp;</span>
@@ -236,7 +318,9 @@ $('#selectedBtn').addClass('selected');
 <a href="/Health_Equipments/" style="padding:2px; padding-left:0px; color:#003399;"><b>Health Equipments</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Health_Equipments/search?category=Exerciser Bike" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Exerciser Bikes</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Health_Equipments/search?category=Gym" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Gym Equipments</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Health_Equipments/search?category=Treadmill" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Treadmill</a></span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Health_Equipments/search?category=Treadmill" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Treadmill</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Health_Equipments/search?category=Health care" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Health Care</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Health_Equipments/search?category=Massage" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Massage</a></span>
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
 <a href="/Toys_Games/" style="padding:2px; padding-left:0px; color:#003399;"><b>Toys &amp; Games</b></a>
@@ -259,31 +343,23 @@ $('#selectedBtn').addClass('selected');
 </li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
 <a href="/Home-Lifestyle/" style="padding:2px; padding-left:0px; color:#003399;"><b>Others</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Eyewear/search" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Eyewear</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Eyewear/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Eyewear</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Grocery/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Grocery</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Baby/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Baby Products</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Beauty/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Beauty Products</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Bags/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Bags</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Religion_Spirituality/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Religion Spirituality</a>,&nbsp;&nbsp;</span>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Home_Furnishing/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Home Furninshing</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Home_Furnishing/search?contents=Bean Bag" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Bean Bag</a></span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Home_Furnishing/search?contents=Bean Bag" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Bean Bag</a>,&nbsp;&nbsp;</span>
+<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Footwear/" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Footwear</a></span>
 </li>
 </ul>
 </div>
 </div> </li>
 <li class="menuLink"><div class="store">
-<a href="/Gifts/">Gifts &amp; Christmas Gifts</a>
+<a href="/Gifts/">Gifts &amp; Flowers</a>
 <div class="subMenu" style="display: none; left: 160px; z-index: 1; width:510px;">
 <ul>
-<li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
-<a href="/Christmas_Gifts/" style="padding:2px; padding-left:0px; color:#003399;"><b>Christmas Gifts</b></a>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Christmas_Gifts/search?category=Christmas Gifts" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Christmas Gifts</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Christmas_Gifts/search?category=New Year Gifts" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">New Year Gifts</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Christmas_Gifts/search?contents=Cakes" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Cakes</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Christmas_Gifts/search?contents=Candles" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Candles</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Christmas_Gifts/search?contents=Christmas Decor" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Christmas Decor</a>,&nbsp;&nbsp;</span>
-<span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Christmas_Gifts/search?contents=Christmas Tree" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Christmas Tree</a></span>
-</li>
 <li style="max-width:500px; background:transparent; float:left; margin-bottom:5px; border-bottom:1px solid #f0f0f0; padding:5px;">
 <a href="/Gifts/" style="padding:2px; padding-left:0px; color:#003399;"><b>Gifts</b></a>
 <span style="text-align:left; color:#333;padding:0px; font:12px tahoma,verdana,arial,sans-serif; float:left;"><a href="/Gifts/search?product=Cakes" style="padding:0px; color:#333; font:12px tahoma,verdana,arial,sans-serif; float:left;">Cakes</a>,&nbsp;&nbsp;</span>
@@ -489,7 +565,7 @@ $('#selectedBtn').addClass('selected');
 <option value="Media">Movies &amp; Music</option>
 </select>
 &nbsp;</td>
-<td><input id="suggest" name="query" size="30" value="" style="width:360px; padding:2px; border:1px solid #ededed;">&nbsp;</td>
+<td><input id="suggest" name="query" size="30" value="Looking for something?" style="width:360px; padding:2px; border:1px solid #ededed;color:#B2B2B2;font-style:italic" onblur="if(this.value=='') {this.value='Looking for something?'; this.style.color='#B2B2B2'; this.style.fontStyle='italic';}" onfocus="if(this.value=='Looking for something?') { this.value='';this.style.color='#333333';this.style.fontStyle='normal';}">&nbsp;</td>
 <td><input type="image" name="submit" src="http://assets.infibeam.com/assets/skins/common/images/btnsearch.gif" value="Search" align="absmiddle"></td>
 <td style="font-size:14px; color:#fff; padding-left:10px;"><b>FREE SHIPPING TO INDIA</b></td>
 </tr>
@@ -575,12 +651,12 @@ $('#selectedBtn').addClass('selected');
 <li><a href="/Religion_Spirituality/">Religion / Spirituality</a></li>
 <li><a href="/Toys_Games/">Toys / Games</a></li>
 <li><a href="/Watches/">Watches</a></li>
+<li><a href="/Footwear/">Footwear</a></li>
 <li><a href="/hot-deals.html" title="Deals Of The Day" rel="nofollow">Hot Deals!</a></li>
 <li><a href="/deal-of-the-day.html" title="Deals Of The Day" rel="nofollow"><b>Magic Box</b></a></li>
 <li><a href="/Travel/" title="Travel">Travel</a></li>
 <li><a href="/Home-Lifestyle/" title="Home &amp; LifeStyle">Home &amp; LifeStyle</a></li>
 <li><a href="/Electronics/" title="Electronics">Electronics</a></li>
-<li><a href="/Christmas_Gifts/" title="Electronics">Christmas Gifts</a></li>
 </ul>
 </td>
 </tr>
@@ -602,11 +678,13 @@ $('#selectedBtn').addClass('selected');
 <li><a href="/static/corporate-program.html" title="Corporate Program">Corporate Program</a></li>
 <li><a href="/MerchantSignup.action" title="Merchant Signup">Merchant Signup</a></li>
 <li><a href="/static/advertise-with-us.html" title="Advertise With Us">Advertise With Us</a></li>
+<li><a href="/affiliate" title="Affiliates">Affiliate <sup style="font-size:10px; font-weight:bold; color:#990000;">New</sup></a></li>
 </ul>
 </td>
 <td valign="top">
 <h3>Help</h3>
 <ul>
+<li><a href="/static/help/terms-conditions.html" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
 <li><a href="/static/help/payment-returns.html" title="Payments &amp; Returns">Payments &amp; Returns</a></li>
 <li><a href="/static/help/privacy-policy.html" title="Privacy Policy">Privacy Policy</a></li>
 <li><a href="/static/help/help.html" title="Help / FAQ">Help / FAQ</a></li>
@@ -620,12 +698,13 @@ $('#selectedBtn').addClass('selected');
 <li><a href="http://blog.infibeam.com/" target="_blank" title="Infibeam Blog">Blog</a></li>
 <li><a href="http://news.infibeam.com/blog/news/" title="News">News</a> / <a href="http://news.infibeam.com/blog/news/categories/infibeam/" title="Press Releases">Press Releases</a></li>
 <li><a href="/static/festivals-of-india/index.html" title="Festivals of India">Festivals of India</a></li>
+<li><a href="/static/sitemap.html" title="Site Map">Site Map</a></li>
 </ul>
 <br>
 <h3>Follow Us On</h3>
-<a href="http://www.facebook.com/infibeam" target="_blank" rel="nofollow"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/facebook.jpg" alt="Facebook" border="0" style="float:left;"></a>
-<a href="http://twitter.com/infibeam" target="_blank" rel="nofollow"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/twitter.jpg" alt="Twitter" border="0" style="float:left; margin-left:10px;"></a>
-<a href="http://blog.infibeam.com/" target="_blank" rel="nofollow"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/blog.jpg" alt="Infibeam Blog" border="0" style="float:left; margin-left:10px;"></a>
+<a href="http://www.facebook.com/infibeam" target="_blank" rel="nofollow" title="Facebook"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/facebook32.png" alt="Facebook" border="0" style="float:left;"></a>
+<a href="http://twitter.com/infibeam" target="_blank" rel="nofollow" title="Twitter"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/twitter32.png" alt="Twitter" border="0" style="float:left; margin-left:5px;"></a>
+<a href="http://blog.infibeam.com/" target="_blank" rel="nofollow" title="Infibeam - Blog"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/blogger32.png" alt="Infibeam Blog" border="0" style="float:left; margin-left:5px;"></a>
 </td>
 <td valign="top">
 <h3>Payment Options</h3>
@@ -642,13 +721,15 @@ $('#selectedBtn').addClass('selected');
 </li>
 </ul>
 <br>
-<img src="http://assets.infibeam.com/assets/skins/common/images/payment.gif" alt="Payment Options" title="Payment Options" border="0" style="border:1px solid #b2b2b3;">
+<img src="http://assets.infibeam.com/assets/skins/common/images/payment.gif" alt="Payment Options" title="Payment Options" border="0">
+<h3>Safe &amp; Secure Shopping</h3>
+<div align="center"><img src="http://assets.infibeam.com/assets/skins/common/images/entrust.png" alt="Safe and Secure Shopping" title="Safe and Secure Shopping" border="0"></div>
 </td>
 </tr>
 </tbody></table>
 <div style="border-top:1px solid #cecccc; line-height:30px; text-align:left;" class="copyright">
 <span style="float:right;">Infibeam sites: <a href="http://www.buildabazaar.com/" rel="nofollow" target="_blank">BuildaBazaar.com</a> | <a href="http://www.picsquare.com/" rel="nofollow" target="_blank">Picsquare.com</a>&nbsp;&nbsp;</span>
-&nbsp;&nbsp;Copyright © <a href="/Books/dl/" style="cursor: default; text-decoration: none; color: #535353;">2007-2011</a> Infibeam.com and Affiliates
+&nbsp;&nbsp;Copyright © <a href="/Books/dl/" style="cursor: default; text-decoration: none; color: #535353;">2007-2012</a> Infibeam.com and Affiliates
 </div>
 </div>
 <div id="header_submenus" style="display:none;"></div>
