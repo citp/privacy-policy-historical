@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitingdc.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424215124id_/http%3A//www.visitingdc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitingdc.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626103546id_/http%3A//www.visitingdc.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,9 @@ We not collect mailing addresses or maintain a mailing list of our users.
 
 **Abuse/Inappropriate Communications** b>
 
-We reserve the right to forward abusive and inappropriate communications to the service providers of the originating communication and to relevant local, state, federal and international authorities. Choice/Opt-Out 
+We reserve the right to forward abusive and inappropriate communications to the service providers of the originating communication and to relevant local, state, federal and international authorities. 
+
+**Choice/Opt-Out**
 
 We do not collect or maintain information about our users. We do not email or contact our users, except in response to user emails. Our advertisers may collect information about users if ads are clicked. 
 
