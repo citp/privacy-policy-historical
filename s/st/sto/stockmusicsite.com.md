@@ -1,33 +1,32 @@
-> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005855id_/http%3A//www.stockmusicsite.com/stockmusic/privacy/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626201417id_/http%3A//www.stockmusicsite.com/stockmusic/privacy/privacy_policy.cfm) for the most accurate reproduction.*
 
 # StockMusicSite.com Privacy Policy
 
-wav sound bites,  
-audio wav files,  
-downloadable wav sound effects,  
-sound effects movies,  
-d eagle shot wav,  
-dj name sound,  
-suspense sound effects wav,  
-does movie maker have sound effects,  
-free animal sound clips,  
-owl sounds for download,  
-money sound effect,  
-dog noises,  
-sound effects bank,  
-intro sound effects free,  
-sound effects dog wood,  
-explosion sound effect,  
-listen to free wind chime sounds,  
-sound effects theatre,  
-mp3s download,  
-sound design 
+radio sound effects,  
+microsoft downloads sounds,  
+foley sounds,  
+sound effects free download,  
+sound effects cash machine,  
+free lorry sound effects,  
+sound of bicycle freewheeling sound effect,  
+free clapping sound,  
+free window live messenger sounds,  
+cat sounds,  
+porky pig sound files,  
+goose sounds,  
+free sound effect program,  
+sonar mp3 sound effects,  
+downtown sounds,  
+free sound effects for powerpoints,  
+sound craft fx 16 16ü θ ũ ý,  
+funny sounds,  
+awesome sound effect,  
+mp3 sound effects 
 
-|  [Home](http://www.stockmusicsite.com/) |  [Client Testimonials](http://www.stockmusicsite.com/stockmusic/testimony/default.cfm) | [Artist Testimonials](http://www.stockmusicsite.com/stockmusic/testimony/artists.cfm) | [Recent Licensing Deals](http://www.stockmusicsite.com/stockmusic/testimony/licensings.cfm) | [All Music Genres](http://www.stockmusicsite.com/stockmusic/links/production-music.cfm) | [Dramatic Music Genres](http://www.stockmusicsite.com/stockmusic/links/dramatic-music.cfm) | [World Music Genres](http://www.stockmusicsite.com/stockmusic/links/world-music.cfm) | [Kids Music Genres](http://www.stockmusicsite.com/stockmusic/links/kids-music.cfm) | [MusicPack Collections](http://www.stockmusicsite.com/stockmusic/packs/list.cfm/project_iid.2) | [Music Editor's Picks](http://www.stockmusicsite.com/stockmusic/best_music/default.cfm) | [Production Music Albums](http://www.stockmusicsite.com/stockmusic/albums/list.cfm) | [Background Music Service](http://www.stockmusicsite.com/stockmusic/radiosparx) | [Dramatic Music](http://www.stockmusicsite.com/stockmusic/dramatic "Dramatic Masters Music Library") | [Halloween, Horror, Scary and Sci Fi Music](http://www.stockmusicsite.com/stockmusic/horror "Halloween Music, Horror Music and Scary Music") | [Christmas and Holiday Music](http://www.stockmusicsite.com/stockmusic/Christmas) | [Kids Music](http://www.stockmusicsite.com/stockmusic/kids) | [African Music](http://www.stockmusicsite.com/stockmusic/africa) | [Music in Arabic](http://www.stockmusicsite.com/stockmusic/middleeast) | [Commercial, News and Corporate Music](http://www.stockmusicsite.com/stockmusic/links/commercial-music.cfm) | [Film and TV Music](http://www.stockmusicsite.com/stockmusic/television_music/music_for_tv.cfm "Music for Film") | [Radio Music and Sound Effects](http://www.stockmusicsite.com/stockmusic/radio "radio music for production") | [Games and Software Music](http://www.stockmusicsite.com/stockmusic/games_music/game_music.cfm "Game Music") | [Romantic, Love and Wedding Music](http://www.stockmusicsite.com/stockmusic/love_songs) | [Vocal Music Library](http://www.stockmusicsite.com/stockmusic/vocals) | [Top 100 Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-vocal-tracks.cfm) | [Top 100 Indie Rock Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-indie-vocal-tracks.cfm) | [Top 100 Pop Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-pop-vocal-tracks.cfm) | [Top 100 R&B Vocal Track](http://www.stockmusicsite.com/stockmusic/vocals/top-100-rnb-vocal-tracks.cfm) | [Top 100 Rock Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-rock-vocal-tracks.cfm) | [Top 100 Jazz Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-jazz-vocal-tracks.cfm) | [Top 100 Classical Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-classical-vocal-tracks.cfm) | [Top 100 World Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-world-vocal-tracks.cfm) | [Top 100 Country Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-country-vocal-tracks.cfm) | [Browse Music by Production Style](http://www.stockmusicsite.com/stockmusic/display/displayby.cfm/target.style) | [Browse Music by Mood](http://www.stockmusicsite.com/stockmusic/display/displayby.cfm/target.mood) | [Browse Music by Instrument](http://www.stockmusicsite.com/stockmusic/display/displayby.cfm/target.instrument) | [Browse Music by Lyrical Topic](http://www.stockmusicsite.com/stockmusic/display/displayby.cfm/target.subject) | [Browse Music by Country](http://www.stockmusicsite.com/stockmusic/display/displayby.cfm/target.region) | [Browse Music by Playlist](http://www.stockmusicsite.com/stockmusic/playlists/default.cfm) | [Browse Music by Playlist](http://www.stockmusicsite.com/stockmusic/playlists/default.cfm) | [Sound Effect Genres](http://www.stockmusicsite.com/stockmusic/links/sound-effects.cfm) | [SoundPack Collections](http://www.stockmusicsite.com/stockmusic/packs/list.cfm/project_iid.1) | [Scary Sound Effects](http://www.stockmusicsite.com/stockmusic/horror) | [Christmas and Holiday SFX](http://www.stockmusicsite.com/stockmusic/Christmas) | [Beats & Loops Genres](http://www.stockmusicsite.com/stockmusic/links/beats.cfm) | [ComposerPack Collections](http://www.stockmusicsite.com/stockmusic/packs/list.cfm/project_iid.3) | [Artist Directory](http://www.stockmusicsite.com/stockmusic/artist/list.cfm) | [Hollywood A-List](http://www.stockmusicsite.com/stockmusic/artist/hollywood-a-list.cfm) | [Hot New Artists](http://www.stockmusicsite.com/stockmusic/artist/hotnew.cfm) | [Classical Masters Library](http://www.stockmusicsite.com/stockmusic/classical_masters/default.cfm) | [Orchestras and Ensembles](http://www.stockmusicsite.com/stockmusic/classical_masters/orchestras-and-ensembles.cfm) | [Stock Music Site Company Info](http://www.stockmusicsite.com/stockmusic/about.cfm)
+| 
 
-|   
----  
-  
+| 
+
 **Privacy Policy of StockMusicSite.com  
 **   
 
@@ -36,7 +35,7 @@ We know that you care how your information is used, and we appreciate your trust
 
 ** 1.  What Personal Information Do We Collect and Save?**
 
-  * **Information You Provide.**  We receive and store information you enter.  For example, when you search for or buy a product, or when you supply information such as your address, phone number or credit card.  You can choose not to provide certain information, but then you might not be able to take advantage of some of our features.  We collect and save the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you.  In addition, if you choose, we may share your information with other companies who provide goods or services that you are interested in.  Please see the ?opt-in/opt-out? selection in Section 4 of this policy.   
+  * **Information You Provide.**  We receive and store information you enter.  For example, when you search for or buy a product, or when you supply information such as your address, phone number or credit card.  You can choose not to provide certain information, but then you might not be able to take advantage of some of our features.  We collect and save the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you.    
  
   * **Cookies.** Like many websites, we use "cookies".  Your browser will automatically store one cookie that allows us to recognize you and to provide you with a customized shopping experience.  And most importantly, the cookie is what maintains your "logged in" state once you register and login to the site.  If you delete our cookie from your browser, you will no longer be logged into our web site.
 
@@ -47,30 +46,38 @@ We know that you care how your information is used, and we appreciate your trust
 
 ** 2.  How Do We Use Your Information?**
 
-  * **Customized Shopping.   **We use your information to better serve you by providing a customized shopping experience.   
+  * **Customized Shopping.   **We use your information to better serve you by providing a customized shopping experience. We operate multiple different web sites which all share a common database, hence information you enter on one web site will be available for your immediate use on the other web sites as applicable.  This includes client login account information, credit card information, shipping information and various other relevant information.    
  
-  * **Composers and Publishers.   **When you purchase audio content at StockMusicSite.com, your contact information will be shared with the composer(s) and publisher(s) of each track to inform them about how their music is being used and who is using it.  
+  * **Composers and Publishers.   **When you purchase a music track here for commercial use, for each track you purchase you must submit a track usage report indicating how each track will be used.  The information you submit with each track report will be shared with the composer(s) and publisher(s) of each track to inform them about how their music is being used and who is using it.  The person or organization that is administering publishing for music tracks may contact you directly to request information about your use of the music in order to be able to file a cue sheet.  Don't be alarmed, filing cue sheets for broadcast or other public uses of music tracks is a normal part of this business.   
  
-  * **Agents.** We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.   
+  * **Agents.** We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to only your personal information as needed to perform their functions, but may not use it for other purposes.   
  
-  * **Special Offers**.  We may send you special offers from time to time, unless you choose to ?opt-out? of receiving such offers.  In addition, we may also send you special offers from other companies.  Again, you may ?opt-out?.  If we send you offers from other businesses, we do not share your personal information with them.  The offers come directly through us.  Please see the ?opt-in/opt-out? selection at the end of this policy.    
+  * **Special Offers**.  We may send you special offers from time to time, unless you choose to opt-out of receiving such offers.  Please see the opt-in/opt-out selection at the end of this policy.    
  
-  * **Business Transfers**. As we continue to develop our business, we might sell or buy stores, sites or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, customer information will be one of the transferred assets.  
+  * **Business Development and Transfers**. As we continue to develop our business, we develop new web sites internally and we might sell or buy other companies or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, your customer information will be one of the assets transferred to the new owner.  
  
   * **Law Enforcement.    **If we receive a lawful court order to release account or other personal information then we will comply with the law.  We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.   
  
-  * **Internal Reference.**   The information we collect and save is used for internal reference purposes, to administer our business operations in a proper manner.
+  * **Internal Reference.**   The information we collect and save is used for internal reference purposes, to administer our business operations in a proper manner.  We do not delete your information, and you can not request to have it deleted from our system.  We retain it forever for internal reference purposes, in case we need to research a transaction or some other activity on our web site.
 
 
 
 ** 3.  How Do We Protect the Security of Your Information?**
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-  * We use encryption to protect your information contained in our customer list. 
-  * We use a firewall to protect against unlawful intrusion. 
-  * We limit access to your information on a ?need to know? basis. 
-  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.   
+ 
+  * We use encryption to protect your information contained in our customer list, including one-way encryption of your password.   
+ 
+  * We use encryption to protect your credit card information.  
+ 
+  * We use a firewall to protect against unlawful intrusion.   
+ 
+  * We limit access to your information on a need to know basis.   
+ 
+  * We only transmit the your credit card number to the appropriate credit card company during order processing or as otherwise necessary.   
+ 
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.   
+ 
   * No system can guarantee absolute security, just as the finest lock can not guarantee physical security.  However, we take every reasonable precaution to assure that your data is secure. 
 
 
@@ -96,8 +103,9 @@ We know that you care how your information is used, and we appreciate your trust
 
 > We reserve the right to modify this policy in the future.
 
-*************************************  
+** ***********************************  
   
+---  
   
   
   
@@ -106,23 +114,23 @@ We know that you care how your information is used, and we appreciate your trust
   
 [ ](http://www.stockmusicsite.com/)
 
-aiff sounds,  
-download a lot of sound effects,  
-audiowarez,  
-planet exploding sound effect,  
-splash sound effect,  
-swoosh sound effects to download,  
-free fx house on fire sound files,  
-sounds of a ticking clock to download,  
-free window live messenger sounds,  
-family feud game show sound effects,  
-free mobile sound effects,  
-cat sound effects,  
-rocket sound effect free,  
-bagpipe music sound files,  
-sound effects wind blowing,  
-wookey sound effects,  
-free chicken wav sound effects,  
-sound effects wav files,  
-get sound effects,  
-game sound effects 
+sound effects samples,  
+effects sounds,  
+downloadable sound affects,  
+car taking off sound effects,  
+devil may cry 3 sound files,  
+elk sound clip,  
+police sounds,  
+desktop voice fx,  
+restaurant sound effects,  
+professional fx sounds,  
+groan sound effect,  
+downloadable sound effects free falling,  
+talking radio effect sounds,  
+john lennon sound clips,  
+free demonic audio recording effect downloads,  
+free panto sound effects,  
+up dat my sound,  
+sounds to download for powerpoint,  
+theatre sound effects download,  
+im wav sounds 
