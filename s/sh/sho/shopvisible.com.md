@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopvisible.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227161028id_/http%3A//www.shopvisible.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopvisible.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626163420id_/http%3A//www.shopvisible.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hosted Ecommerce Software | ShopVisible
 
@@ -6,7 +6,7 @@ We are ShopVisible, LLC and its affiliates (“ **ShopVisible** ”). Welcome to
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. We respect your privacy and are committed to protecting any personal information you share with us through this website. This privacy policy statement (“ **Privacy Policy** ”) explains how we collect personal information about you through this website and how this information is then used or disclosed. It does not apply to those of our websites that do not display or link to this Privacy Policy or that have their own Privacy Policy or to information we may collect from you or about you in other ways, including through emails you may send to us. This Privacy Policy is not intended to and does not create any contractual or other legal right in or on behalf of any party.
 
-Residents of the State of California, please also read [Your California Privacy Rights](http://svcorp.shopvisible.com/California-Privacy-Policy.asp "California Privacy Policy") to understand additional rights you may have pursuant to California Civil Code Section 1798.83.
+Residents of the State of California, please also read [Your California Privacy Rights](http://www.shopvisable.com/California-Privacy-Policy.asp "California Privacy Policy") to understand additional rights you may have pursuant to California Civil Code Section 1798.83.
 
 Generally, we gather information about you to provide you with convenient access to certain features and services, verify your identity in our interactions with you, to communicate offers on products and services that we believe will be of interest to you, to deliver a better customer service experience, to administer our business, and as otherwise described in this Privacy Policy and on our website. For example, to access certain of our features, services, and non-public areas of our website, you will be asked to sign in with a login name and password. If you choose not to provide us with the requested information, you will not be able to access such non-public areas because we cannot verify your identity. Your information also helps us keep you posted on status updates, reminders, confirmations, and special offers, and events that may interest you.
 
