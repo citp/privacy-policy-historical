@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red-gate.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205185224id_/http%3A//www.red-gate.com/our-company/about/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red-gate.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627000744id_/http%3A//www.red-gate.com/our-company/about/legal) for the most accurate reproduction.*
 
 # Legal information about Red Gate Software
 
@@ -90,9 +90,7 @@ In addition, if you linked to our site from a third party site, we cannot be res
 
 **Transfers of your personal information outside of the European Economic Area**
 
-Information you provide to us is not routinely transferred by us to countries outside the European Economic Area (EEA) although it may happen if at any point one of our servers is temporarily located in a country outside the EEA or if one of our service providers is located in a country outside of the EEA. If we transfer your information outside the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected.
-
-In addition, if you use our services while you are outside the EEA, your information will be transferred outside the EEA in order to provide you with those services.
+Information you provide to us may be transferred by us to our wholly owned US subsidiary (Red Gate Software Inc.,) and/or to any of our service providers that are situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA. Any of our servers may also be temporarily located in a country outside the EEA. If we transfer your information outside the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected.
 
 **Your consent**
 
