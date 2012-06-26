@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the percolate.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113011049id_/http%3A//percolate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the percolate.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626054024id_/http%3A//percolate.com/privacy) for the most accurate reproduction.*
 
 # Privacy || Percolate
 
-## 
+* * *
 
 This Privacy Policy describes Percolate's policies and procedures on the collection, use and disclosure of your information. Percolate receives your information through our various web sites, APIs, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by Percolate in the United States or any other country where Percolate operates.
 
 If you have any questions or comments about this Privacy Policy, please contact us at [privacy@percolate.com](mailto:privacy@percolate.com).
 
-### Information Collection and Use
+## Information Collection and Use
 
 Information Collected Upon Registration: When you create or reconfigure a Percolate account, you provide some personal information, such as your name, username, password, email address, and authentication to 3rd party platforms like Twitter and Google Reader. Some of this information, for example, your name and username, is listed publicly on our Services, including on your profile page and in search results. Some Services, such as search, public user profiles and viewing lists, do not require registration(during the alpha phase they do).
 
@@ -24,7 +24,7 @@ Cookies: Like many websites, we use "cookie" technology to collect additional we
 
 Third Party Services: Percolate uses a variety of services hosted by third parties to help provide our Services, such as hosting our various blogs and wikis, and to help us understand the use of our Services, such as Google Analytics. These services may collect information sent by your browser as part of a web page request, such as cookies or your IP request.
 
-### Information Sharing and Disclosure
+## Information Sharing and Disclosure
 
 Your Consent: We may share or disclose your information with your consent, such as when you use a third party web client to access your Percolate account.
 
@@ -36,18 +36,26 @@ Business Transfers: In the event that Percolate is involved in a bankruptcy, mer
 
 Non-Private or Non-Personal Information: We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public posts or the number of users who clicked on a particular link (even if only one did).
 
-### Modifying Your Personal Information
+## Modifying Your Personal Information
 
 If you are a registered user of our Services, we provide you with tools to access or modify the personal information you provided to us and associated with your account.
 
-### Our Policy Towards Children
+## Our Policy Towards Children
 
 Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [privacy@percolate.com](mailto:privacy@percolate.com). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
 
-### Changes to this Policy
+## Opt-Out Policy
+
+We do not sell, trade or otherwise disclose our users' information to any third parties. If at any time after registering for for the site, signing up for any of our marketing emails or otherwise choosing to receive information from us, you change your mind then please send us a request specifying your new choice. To opt out of marketing or promotional emails, please either click unsubscribe in the body of the email communication or email us at [privacy@percolate.com](mailto:privacy@percolate.com).
+
+You may also write to us at: Percolate Industries, Inc. 481 Broadway, 2nd Floor, New York, NY 10013
+
+If you prefer to call, our number is (646) 470-8346
+
+## Changes to this Policy
 
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at http://Percolate.com/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you via e-mail to the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-This Privacy Policy is effective as of May 26, 2011.
+This Privacy Policy is effective as of May 26, 2011. Updated on the June 20, 2012.
 
 Thoughts or questions about this Privacy Policy? Please, let us know at [privacy@percolate.com](mailto:privacy@percolate.com)
