@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the exchangerates.org.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143228id_/http%3A//www.exchangerates.org.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangerates.org.uk privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626053611id_/http%3A//www.exchangerates.org.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Where am I? 
-
-Tuesday, 1st November 2011 14:32 GMT
 
 ExchangeRates.org.uk has created this privacy statement such to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with our website. We hold the privacy of your personal information in very high regard. The following discloses our information gathering and dissemination practices for ExchangeRates.org.uk.
 
@@ -83,5 +79,3 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 ## Policy Modifications
 
 We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
-
-**Link to this page** \- if you would like to link to **Privacy Policy** on this page, such as [Privacy Policy](http://www.exchangerates.org.uk/privacy-policy.html "Privacy Policy"), please copy and paste the HTML from below into your page:
