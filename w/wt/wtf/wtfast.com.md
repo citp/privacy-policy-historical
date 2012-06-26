@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wtfast.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229034952id_/http%3A//wtfast.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtfast.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626184901id_/http%3A//www.wtfast.com/pages/privacy) for the most accurate reproduction.*
 
-# WTFast.com (What The Fast) - Make WOW Faster, Improve your Ping, Latency and Response time.
-
-Privacy Policy Statement
+# Privacy Policy Statement
 
 We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, name and address and telephone number. Credit card information is not stored on our servers, this is processed by a 3rd party company (PayPal or Paymentech).
 
