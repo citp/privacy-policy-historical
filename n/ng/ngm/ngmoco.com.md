@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ngmoco.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206135938id_/http%3A//www.ngmoco.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngmoco.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626133554id_/http%3A//www.ngmoco.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ngmoco:)
 
-_Last Updated: June 20, 2011_
-
 **ng moco:) Privacy Policy**
+
+_Last Updated: March 15, 2012_
 
 As used in this Privacy Policy, "ngmoco", "we", "us", or "our" refer to ngmoco, LLC, and all of its subsidiaries. 
 
@@ -177,7 +177,7 @@ The controlling language of this Privacy Policy is English; any provided transla
 
 **Contacting Us**
 
-If you have any questions, inquires, requests or complaints concerning our Privacy Policy or information practices, please contact us at [privacy@ngmoco.com](mailto:privacy@ngmoco.com), by phone at 415-375-3170 or by regular mail attn: Privacy Officer, ngmoco, LLC 475 Brannan Street, Suite 420, San Francisco, CA 94107-7621.
+If you have any questions, inquires, requests or complaints concerning our Privacy Policy or information practices, please contact us at [privacy@ngmoco.com](mailto:privacy@ngmoco.com), by phone at 415-375-3170 or by regular mail attn: Privacy Officer, ngmoco, LLC 185 Berry Street, Suite 3000, San Francisco, CA 94107-7621.
 
 We self certify compliance with:
 
