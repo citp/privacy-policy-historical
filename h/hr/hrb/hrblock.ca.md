@@ -1,85 +1,99 @@
-> *The following text is extracted and transformed from the hrblock.ca privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102202123id_/http%3A//www.hrblock.ca/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrblock.ca privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626154304id_/http%3A//www.hrblock.ca/legal/privacy.asp) for the most accurate reproduction.*
 
 # H&R BLOCK Canada - Privacy Policy
 
-H&R Block was founded on principles of trust, integrity and the delivery of outstanding products and services. H&R Block is committed to customer satisfaction and has maintained the privacy our customers expect. This privacy policy describes the types of information we collect, how we may use or disclose that personal information, how we protect your personal information and your rights regarding your personal information. 
+_**Your privacy is important to us.**_
 
-In this Privacy Policy, references to “H&R Block”, “us”, “we” or similar terms means H&R Block Canada Inc.
+H&R Block was founded on principles of trust, integrity and the delivery of outstanding products and services. H&R Block is committed to customer satisfaction and maintaining our customer's privacy. This is accomplished by a range of business procedures and security safeguards to ensure that your personal information is kept confidential, safe and secure and is used only in accordance with the Privacy Policy or as otherwise consented to by you.
 
-**We collect personal information.**
+H&R Block is committed to providing transparency to its customers with respect to its practices in handling your personal information. This Privacy Policy will help you better understand how we protect, collect, use or disclose your personal information and your right to access and correct your information.
 
-We collect the following types of personal information about you, from you, either directly or through persons or entities acting on our behalf: 
+This Privacy Policy may be amended from time to time. The current version will always be available to you on our website at www.hrblock.ca.
 
-  * personal information you provide to us, including: 
-    * personal information that you enter on an income tax form, including your name, address, social insurance number, and other identifying and contact information, in addition to your tax and financial information, and your e-mail address; 
-    * information from applications, forms, surveys, and in connection with polls or contests, including your name, address and e-mail address; and 
-    * information for billing and payment purposes, including credit or debit card information, such as card number and card expiration date; and
-  * personal information from your use of our Web site, such as navigation patterns at the site and information we collect through Internet cookies (see below for further information). 
+In this Privacy Policy, references to "H&R Block", "us", "we" or similar terms means H&R Block Canada Inc. References to "H&R Block US" means our parent company, H&R Block, Inc.
 
+_**Application of this policy.**_
 
+This Privacy Policy generally applies to any "personal information" collected, used or disclosed by H&R Block in any form. Consistent with applicable privacy legislation, "personal information" means any information about an identifiable individual. However, this Privacy Policy does not apply to the collection, use or disclosure of:
 
-**We use the personal information we collect to serve you better.**
-
-The personal information you provide is used so that we can effectively provide products and services that you have requested and to manage our operations, including, to complete and file your income tax return, to provide you with other requested financial or tax-related information and services, which may include Instant Cash Back or financial planning information, and for administrative and billing purposes. 
-
-We may also use your personal information to enable us to understand your needs and preferences and then to alert you by mail, phone or e-mail to current and anticipated product offerings, and to tailor marketing material to your specific needs (though you may of course choose not to receive these materials).
-
-**Providing you with financial and tax information is important to us.**
-
-As your trusted tax and financial advisor we want to help keep you informed. To do this we may send you free information about financial and tax-related services offered by H&R Block, the H&R Block Group, franchise locations or strategic financial services associates.
-
-**Of course, we believe that you should have choices.**
-
-If you do **not** want to receive additional financial or tax-related information, including information about available financial or tax-related services please contact us through the telephone number or email address listed below. H&R Block will continue to provide you with necessary account information and your yearly tax reminder notice.
-
-**We only disclose the personal information we collect in limited circumstances.**
-
-We never disclose your personal information to third parties except as described in this Privacy Policy, with your consent or as permitted or required by law. Disclosures of personal information may include the following:
-
-  * to service providers employed or retained by us or the H&R Block Group to perform certain services or functions on our behalf, such as billing, processing of credit card transactions, data processing, collection or research services. In these cases, we restrict their use of your personal information to what is necessary to act on our behalf; 
-  * within the H&R Block Group and to strategic financial services associates to deliver or provide a product or service you have requested, including Instant Cash Back; 
-  * within the H&R Block Group and to strategic financial services associates so that they may offer you products and services which may be of interest to you (though you may of course choose not to receive these materials, in which case your information will not be disclosed);
-  * to franchisees, where you have requested services in an area serviced by an H&R Block franchise; and 
-  * in the event of a sale or transfer of our business or assets. 
+  * publicly available information such as a person's name, address, telephone number and electronic address, when listed in a public directory; or 
+  * business contact information, including the name, title or business address or telephone number of an employee of an organization; or 
+  * personal information that is aggregated and cannot be associated with an identifiable individual; or 
+  * any other information that is not personal information or is specifically excluded by applicable privacy legislation.
 
 
 
-We may also disclose aggregated information that does not identify you individually, compiled using your personal information.
+_**We collect personal information.**_
 
-**We protect your personal information.**
+We collect personal information about you, from you, either directly or through persons or entities acting on our behalf including:
 
-H&R Block protects personal information by security safeguards appropriate to the sensitivity of the information. We restrict internal physical and electronic access to personal information to those employees who need to access it in order to serve you. We also maintain policies and procedures designed to restrict access (by external parties) to your personal information in several ways. These include programs and specifications for physical security and records retention and disposal, computer and communication security measures reflected in system design, password protection, data management practices, and other measures to restrict access to the data we hold in physical and electronic forms. 
+  * personal information that you enter on an income tax form, including your name, address, social insurance number, and other identifying and contact information, in addition to your tax and financial information, and your e-mail address;
+  * information from applications, forms, surveys, and in connection with polls or contests, including your name, address and e-mail address; and
+  * information for billing and payment purposes, including credit or debit card information, such as card number and card expiration date.
 
-We do not store your personal information indefinitely, instead we retain personal information only for as long as necessary or relevant for the purposes discussed above or as required by law.
 
-**Cookies.**
 
-In addition to the collection, use and disclosure of information as described above, we may collect information online through the use of “cookies”. A “cookie” is a small piece of information/text sent by a web server to be stored on a user’s web browser so it can later be read back from that browser on subsequent visits to a website. We use cookies to store visitors’ preferences and to record session information which allows us to customize our website for you as you visit various components of www.hrblock.ca. Through the use of cookies, we can display items that may be of interest to you, or make it easier for you to access your account information. 
+H&R Block limits the collection of personal information to that which is necessary to fulfill the purposes identified at the time of collection. The personal information that we collect necessarily depends on the product or services that you have requested and on legal and regulatory requirements. Personal information will always be collected by fair and lawful means and will generally be collected directly from you. 
 
-We do not link the information we store in cookies to any personally identifiable information you provide while on our site. You may be able to configure your browser to accept or reject all or some cookies, or to notify you when a cookie is set, however, cookies must be enabled in order to access most functions on the site. Since each browser is different, check the "Help" menu of your browser to learn how to change your cookie preferences. 
+_**How and why we use personal information.**_
 
-**You have rights.**
+H&R Block collects personal information about you so that we can effectively provide the services and products to you that you have requested (including completing and filing your income tax return and/or providing you with Instant Cash Back), establish your identity, manage our operations, and comply with legal and regulatory requirements. And, if we need your personal information for any other purpose, we will identify that purpose to you.
 
-You have the option, at any time, to call 1-800-561-2154 or e-mail us at [customer.support@hrblock.ca](mailto:customer.support@hrblock.ca), to request access to your personal information in order to verify its accuracy and,  if required, to correct it. We are required to and will provide access to your information except where we are prohibited by law from doing so, or are permitted by law to restrict your access and have legitimate business or legal reasons for doing so. Due to the private nature of much of the personal information we maintain, our policies do not permit disclosure of your personal information over the phone or via e-mail. Instead we can make other arrangements for you to access your personal information.
+We may also use your personal information to enable us to understand your needs and preferences and then to alert you by mail, or phone or e-mail to current and future product offerings, and to tailor marketing material to your specific needs (though you may of course choose not to receive these materials at any time by contacting us a 1-800-561-2154 or at [customer.support@hrblock.ca](mailto:customer.support@hrblock.ca)).
 
-In addition, you can refuse to provide personal information to us and you may also at any time, on reasonable notice to us, in person or via telephone or email, withdraw your consent to any of our collection, use or disclosure of your information, unless it is required to provide you with the services you have requested or to provide you with necessary information relating to your accounts with us or as required by law.
+_**Consent to the collection, use or disclosure of personal information.**_
 
-If you require further information about H&R Block's privacy policies or practices, or to access or update your personal information, please contact us at the phone number or e-mail address listed above.
+We may obtain your express consent in writing, through electronic means, or verbally. Your consent may also be implied by an action that you have taken. You can always refuse or withdraw your consent to the collection, use or disclosure of your personal information. Doing so may, in some cases, mean that we will be unable to provide you with the product or service that you have requested.
 
-**Changes to our policy.**
+If you wish to withdraw your consent to the collection, use or disclosure of your personal information (unless it is required to provide you with the services you have requested or to provide you with necessary information relating to your accounts with us or as required by law.) and/or do not want to receive information about our current and future product offerings, special promotions or other services, please contact us at 1-800-561-2154 or at [customer.support@hrblock.ca](mailto:customer.support@hrblock.ca).
 
-If we decide to change our privacy policy, we will post our changes to this Web site. If we ever wish to use or disclose your personal information in a way that is different from that stated at the time of collection, we will notify you by e-mail. You will have a choice as to whether or not we can use or disclose your personal information in this different manner unless that use or disclosure is necessary to provide the service you have requested or it is permitted or required by law.
+_**Disclosure of personal information.**_
 
-**H &R Block Group and Strategic Associates Disclosure.**
+We do not disclose your personal information to third parties except as described in this Privacy Policy, with your consent, or as permitted or required by law. Your personal information may be disclosed:
 
-In connection with preparing tax returns and providing other products or services that you have requested, H&R Block shares your personal information with H&R Block, Inc. (“H&R US”), our parent corporation, and other entities which are owned or controlled by or are under the common control of H&R Block or H&R US, (collectively, the “H&R Block Group”) which perform or provide all or portions of the tax preparation and other products and services. In addition, as a result of the H&R Block franchise system and in order to offer you a wide-range of financial services, we have a number of franchise locations doing business under the name H&R Block which offer tax return preparation, filing and other financial services with whom we may share personal information and who may use the personal information as we do. 
+  * to outside suppliers employed or retained by us or by H&R Block US to perform certain services or functions on our behalf, including billing, processing of credit and debit card transactions, Instant Cash Back processing, mailing and data processing, shredding and storage, and collection or research services. We select our outside suppliers carefully and insist that they have privacy and security standards that meet our strict requirements. We also restrict their use of your personal information to what is necessary to act on our behalf; 
+  * to H&R Block US to deliver or provide a product or service that you have requested, including Instant Cash Back;
+  * to H&R Block US to offer you products and services which may be of interest to you (though you may of course choose not to receive these materials, as noted above);
+  * to our franchisees, where you have requested services in an area serviced by an H&R Block franchise; and 
+  * in the event of a sale or transfer of our business or assets.
 
-Further, in order to improve our financial service offerings, we may, directly or indirectly, through our relationship with the H&R Block Group, associate with or enter into strategic arrangements with other financial services entities who offer complementary products and services. We may directly or indirectly disclose personal information to these strategic financial services associates who may use this personal information in order to offer you financial or tax-related information and services. While disclosure will be necessary where you have requested a product or service which is provided by one of our strategic financial services associates, if you do not wish to receive marketing materials from these parties, you may choose to do so by contacting us at the telephone number or email address listed above.
 
-H&R Block only discloses personal information to service providers and strategic financial services associates that have standards regarding the protection of personal information that are at least as stringent as those employed by H&R Block.
 
-Due to certain of the H&R Block Group (including H&R US) and our service providers and strategic financial services associates being located in the United States, where your personal information is processed or stored by any of these entities, courts or law enforcement or regulatory agencies in the United States may be able to obtain disclosure of your personal information under the laws of the United States.
+Please note that personal information disclosed to H&R Block US will be securely used or stored in the United States and will be subject to the laws of the United States.
 
-**Consent.**
+_**Protecting personal information.**_
 
-Unless you otherwise inform us, utilizing the contact information above, visiting this Web site or using the products and services of H&R Block, you consent to the collection, use and disclosure of your personal information in accordance with this privacy policy.
+H&R Block protects personal information by security safeguards appropriate to the sensitivity of the information. We restrict internal physical and electronic access to personal information to those employees who need to access it in order to serve you. We also maintain policies and procedures designed to restrict access (by external parties) to your personal information in several ways. These include programs and specifications for physical security, records retention and disposal, computer and communication security measures reflected in system design, password protection, data management practices, and other measures to restrict access to the information we hold in physical and electronic forms. 
+
+H&R Block only retains personal information only for as long as necessary or required for the purposes for which it was collected or as required by law. Personal information that is no longer required will be destroyed, erased or made anonymous.
+
+H&R Block is responsible for personal information in its possession or control, and will take reasonable steps to protect personal information that has been transferred to a third party in accordance with this Privacy Policy and applicable law. H&R Block uses contractual and other means to ensure that third parties provide a comparable level of protection of your personal information to that provided by H&R Block. 
+
+_**Accuracy of personal information and access.**_
+
+It is important that the personal information we have is accurate, complete and up to date. To this end, you are encouraged to inform us when there are any changes to your information.
+
+You may also, at any time, contact our Chief Privacy Officer to request access to your personal information, verify its accuracy and, if required, correct it. H&R Block will provide you with access to your personal information except where we are prohibited by law from doing so, or are permitted by law to restrict your access and have legitimate reasons for doing so. We may charge you a fee to provide access to your information and will let you know in advance if there will be a charge for doing so.
+
+Please note that we will not disclose your personal information to you over the phone or via e-mail. Instead, we will make other arrangements for you to access your personal information.
+
+The contact information for our Chief Privacy Officer is as follows:
+
+Chief Privacy Officer  
+H&R Block Canada, Inc.  
+200, 340 Midpark Way SE  
+Calgary AB T2X 1P1  
+By phone: 1-800-561-2154  
+By e-mail: [customer.support@hrblock.ca](mailto:customer.support@hrblock.ca)
+
+In addition, as noted above, you can refuse to provide personal information to us and you may also at any time, on reasonable notice to us, in person or via telephone or email, withdraw your consent to the collection, use or disclosure of any of your personal information, unless it is required to provide you with the services you have requested or to provide you with necessary information relating to your accounts with us or as required by law.
+
+_**Accountability.**_
+
+H&R Block is accountable for our compliance with this Privacy Policy and applicable privacy legislation. We regularly monitor our security measures and procedures to ensure that they are effective and properly administered. Our Chief Privacy Officer is accountable for overseeing compliance with this Privacy Policy. If you have any questions about this Privacy Policy, our practices, or have a complaint or concern, please contact our Chief Privacy Officer. H&R Block will promptly investigate all complaints and if found justified, will take appropriate measures including amending its policies and practices.
+
+_**Cookies.**_
+
+In addition, we may collect information online through the use of "cookies". A "cookie" is a small piece of information/text sent by a web server to be stored on a user's web browser so it can later be read back from that browser on subsequent visits to a website. We use cookies to store visitors' preferences and to record session information which allows us to customize our website for you as you visit various components of www.hrblock.ca. Through the use of cookies, we can display items that may be of interest to you, or make it easier for you to access your account information. 
+
+We do not link the information we store in cookies to any personal information you provide while on our site. You may be able to configure your browser to accept or reject all or some cookies, or to notify you when a cookie is set, however, cookies must be enabled in order to access most functions on the site. Since each browser is different, please check the "Help" menu of your browser to learn how to change your cookie preferences. 
