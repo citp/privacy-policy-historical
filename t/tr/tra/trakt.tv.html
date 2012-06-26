@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trakt.tv privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101163937id_/http%3A//trakt.tv/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trakt.tv privacy policy that was archived on 2012-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626050042id_/http%3A//trakt.tv/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -7,18 +7,19 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="http://vicmackey.trakt.tv/images/favicon.png">
 <link rel="apple-touch-icon" href="http://vicmackey.trakt.tv/images/apple-touch-icon.png">
-<meta name="keywords" content="trakt.tv,television,movies,tv,recommendations,xbmc,mediaportal,plex,boxee,apple tv,itunes,vlc,iphone,privacy">
+<meta name="keywords" content="trakt.tv,tracked,television,movies,tv,recommendations,xbmc,mediaportal,plex,boxee,apple tv,itunes,vlc,iphone,ipad,ios,tracked tv,tracked.tv,privacy">
 <meta name="description" content="The trakt privacy policy.">
 <meta name="robots" content="index,follow">
 <meta name="googlebot" content="index,follow">
 <link href="https://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" rel="stylesheet">
-<link href="http://vicmackey.trakt.tv/styles/formcheck.20110902.css" rel="stylesheet">
-<link href="http://vicmackey.trakt.tv/styles/trakt.20110902.css" rel="stylesheet">
-<script src="https://ajax.googleapis.com/ajax/libs/mootools/1.4.1/mootools-yui-compressed.js"></script>
-<script src="http://vicmackey.trakt.tv/js/mootools-more.20110903.js"></script>
-<script src="http://vicmackey.trakt.tv/js/formcheck-en.20110903.js"></script>
-<script src="http://vicmackey.trakt.tv/js/formcheck.20110903.js"></script>
-<script src="http://vicmackey.trakt.tv/js/trakt.20110903.js"></script>
+<link href="http://vicmackey.trakt.tv/styles/formcheck.20120507.css" rel="stylesheet">
+<link href="http://vicmackey.trakt.tv/styles/trakt.20120507.css" rel="stylesheet">
+<link href="http://vicmackey.trakt.tv/styles/nobadge.20120507.css" rel="stylesheet">
+<script src="http://vicmackey.trakt.tv/js/mootools-core.20120507.js"></script>
+<script src="http://vicmackey.trakt.tv/js/mootools-more.20120507.js"></script>
+<script src="http://vicmackey.trakt.tv/js/formcheck-en.20120507.js"></script>
+<script src="http://vicmackey.trakt.tv/js/formcheck.20120507.js"></script>
+<script src="http://vicmackey.trakt.tv/js/trakt.20120507.js"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -37,12 +38,11 @@
 
 <!-- above header -->
 
-<!-- notification of old plugin -->
 
 <!-- header -->
 <div id="header-wrapper">
 	<div id="header" class="content">
-		<h1><a class="logo" href="/">trakt</a></h1>
+		<h1><a class="logo" href="/"><img src="/images/logo-top.png" alt="trakt"></a></h1>
 		<ul class="main-pages">
 			<li><a href="/calendar" class="">Calendar</a></li>
 			<li><a href="/shows" class="">TV</a></li>
@@ -61,21 +61,16 @@
 			<li><a href="/community" class="">Community</a></li>
 			<li class="kids">
 				<a href="/downloads" class="">Downloads</a>
-				<ul>
-					<li><a href="/downloads/xbmc">XBMC</a></li>
-					<li><a href="/downloads/mediaportal">MediaPortal</a></li>
-					<li><a href="/downloads/plex">Plex</a></li>
-					<li><a href="/downloads/boxee">Boxee</a></li>
-					<li><a href="/downloads/mediabrowser">Media&nbsp;Browser</a></li>
-				</ul>
-			</li>
+							</li>
 		</ul>
-				<ul class="user signed-out">
+						<ul class="user signed-out">
 			<li><a href="/join" id="header-join">Join <strong>trakt</strong></a></li>
 			<li><a href="/signin" id="header-signin">Sign In</a></li>
 		</ul>
 			</div>
 </div>
+
+<div id="non-mashable">
 
 <!-- below header -->
 <div id="below-header-wrapper">
@@ -211,7 +206,7 @@
 <!-- footer -->
 <div id="footer-wrapper">
 	<div class="footer content">
-		© 2010-2011 trakt. All rights reserved.
+		© 2010-2012 trakt. All rights reserved.
 		<span>♦</span>
 		<!--
 		<a href="/about">About Us</a>,
@@ -228,30 +223,23 @@
 		<span>♦</span>
 		Follow <a href="http://twitter.com/trakt" rel="external">@trakt</a> on twitter and on <a href="http://facebook.com/trakt.tv" rel="external">facebook</a>.
 	</div>
-	<div class="footer content">
-		<a href="http://mashable.com/follow/contests/mashable-awards-2011/?category=up-and-coming-social-media-service&amp;nominee=trakt" target="_blank">
-			<img src="http://3.mshcdn.com/follow/images/contests/awards-2011/badges/Mashable_Awards_300x50_Nominate_Us.png?1318357965">
-		</a>
-	</div>
-	</div>
+		</div>
 
-<!--
-<div id="beta-wrapper">
-	<div id="beta">
-		To our new found Russian brothers: В советской России, trakt смотрит вы!  And welcome!
-	</div>
-</div>
--->
+</div> <!--/non-mashable -->
 
 <!-- overlay bg -->
 <div id="overlay-bg"></div>
 <div id="overlay-spinner">loading...</div>
 
+<input type="hidden" id="signed-in" value="0">
+
 <!-- overlay join -->
-<div id="overlay-join" class="overlay-popup">
+<div id="overlay-join" class="overlay-popup wide dark">
 	<div class="title"><span>Join</span> trakt</div>
 	<form id="join-form" action="/auth/join" method="post">
-		<fieldset class="overlay">
+		<fieldset class="labels-left narrow">
+			<div class="alert-message error" id="join-error"></div>
+			<div class="alert-message info" id="join-message"></div>
 			<p>
 				<label for="join-username">Username:</label>
 				<span><input type="text" id="join-username" class="validate['required','%validateUsername']" name="username" value="" autocomplete="off"></span>
@@ -264,61 +252,60 @@
 				<label for="join-password">Password:</label>
 				<span><input type="password" id="join-password" class="validate['required']" name="password" value="" autocomplete="off"></span>
 			</p>
-			<div class="buttons">
-				<a href="/join" class="validate['submit'] button" id="join-submit">Create Account</a>
-			</div>
 		</fieldset>
+		<div class="buttons">
+			<a href="/join" class="validate['submit'] button" id="join-submit">Create Account</a>
+		</div>
 	</form>
 </div>
 <!-- sign in -->
-<div id="overlay-signin" class="overlay-popup">
-	<div class="title"><span>Sign In</span> to trakt</div>
+<div id="overlay-signin" class="overlay-popup wide dark">
+	<div class="title"><span>Sign in</span> to trakt</div>
 	<form id="signin-form" action="/auth/signin" method="post">
-		<fieldset class="overlay">
+		<fieldset class="labels-left narrow">
+			<div class="alert-message error" id="signin-error"></div>
+			<div class="alert-message info" id="signin-message"></div>
 			<p>
-				<label for="signin-username">E-mail or Username:</label>
+				<label for="signin-username">Username:</label>
 				<span><input type="text" id="signin-username" class="validate['required']" name="username" value="" tabindex="1"></span>
 			</p>
 			<p>
-				<label for="signin-password">
-					<a href="/#/forgotpw" id="signin-forgotpw" class="link" tabindex="3">forgot?</a>
-					Password:
-				</label>
+				<label for="signin-password">Password:</label>
+				<span class="righty"><a href="/#/forgotpw" id="signin-forgotpw" class="link" tabindex="3">forgot?</a></span>
 				<span><input type="password" id="signin-password" class="validate['required']" name="password" value="" tabindex="2"></span>
 			</p>
-			<div class="buttons">
-				<a href="/signin" class="validate['submit'] button" id="signin-submit">Sign In</a>
-				<div class="remember-me">
-					<input type="checkbox" id="signin-remember-me" name="remember_me" value="1" checked="checked"> <label for="signin-remember-me">Remember Me</label>
-				</div>
-			</div>
 		</fieldset>
+		<div class="buttons">
+			<span class="lefty"><input type="checkbox" id="signin-remember-me" name="remember_me" value="1" checked="checked"> <label for="signin-remember-me" class="signin-remember-me">Remember Me</label></span>
+			<a href="/signin" class="validate['submit'] button" id="signin-submit">Sign In</a>
+		</div>
 	</form>
 </div>
 <!-- forgot pw -->
-<div id="overlay-forgotpw" class="overlay-popup">
-	<div class="title"><span>Forgot</span> password?</div>
+<div id="overlay-forgotpw" class="overlay-popup wide dark">
+	<div class="title"><span>Forgot</span> your password?</div>
 	<form id="forgotpw-form" action="/auth/forgotpw" method="post">
-		<fieldset class="overlay">
-			<div class="notification success" id="forgotpw-sent">Check your email!</div>
-			<div class="notification failure" id="forgotpw-fail">Not found!</div>
+		<fieldset class="labels-left narrow">
+			<div class="alert-message success" id="forgotpw-sent">Check your email for further instructions!</div>
+			<div class="alert-message error" id="forgotpw-fail">We couldn't find that e-mail!</div>
 			<p>
 				<label for="forgotpw-email">E-mail:</label>
 				<span><input type="text" id="forgotpw-email" class="validate['required','email']" name="email" value=""></span>
 			</p>
-			<div class="buttons">
-				<a href="/forgotpw" class="validate['submit'] button" id="forgotpw-submit">Send</a>
-			</div>
 		</fieldset>
+		<div class="buttons">
+			<a href="/forgotpw" class="validate['submit'] button" id="forgotpw-submit">Send</a>
+		</div>
 	</form>
 </div>
 <!-- reset pw -->
-<div id="overlay-resetpw" class="overlay-popup">
-	<div class="title"><span>Reset</span> password</div>
+<div id="overlay-resetpw" class="overlay-popup wide dark">
+	<div class="title"><span>Create</span> your new password</div>
 	<form id="resetpw-form" action="/auth/resetpw" method="post">
-		<fieldset class="overlay">
+		<fieldset class="labels-left narrow">
+			<div class="alert-message error" id="resetpw-error"></div>
 			<p>
-				<label for="resetpw-username">E-mail or username:</label>
+				<label for="resetpw-username">Username:</label>
 				<span><input type="text" id="resetpw-username" class="validate['required']" name="username" value=""></span>
 			</p>
 			<p>
@@ -326,29 +313,20 @@
 				<span><input type="text" id="resetpw-code" class="validate['required']" name="code" value=""></span>
 			</p>
 			<p>
-				<label for="resetpw-password">New password:</label>
+				<label for="resetpw-password">New Password:</label>
 				<span><input type="password" id="resetpw-password" class="validate['required']" name="password" value=""></span>
 			</p>
-			<div class="buttons">
-				<a href="/resetpw" class="validate['submit'] button" id="resetpw-submit">Send</a>
-			</div>
 		</fieldset>
+		<div class="buttons">
+			<a href="/resetpw" class="validate['submit'] button" id="resetpw-submit">Send</a>
+		</div>
 	</form>
 </div>
 
+<div id="getsat-widget-419"></div>
+<script type="text/javascript" src="https://loader.engage.gsfn.us/loader.js"></script>
 <script>
-var is_ssl = ("https:" == document.location.protocol);
-var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
-document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
-<script>
-var feedback_widget_options = {};
-feedback_widget_options.display = "overlay";  
-feedback_widget_options.company = "trakt";
-feedback_widget_options.placement = "right";
-feedback_widget_options.color = "#26ADE4";
-feedback_widget_options.style = "idea";
-var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+if (typeof GSFN !== "undefined") { GSFN.loadWidget(419,{"containerId":"getsat-widget-419"}); }
 </script>
 <script>
 var _sf_async_config={uid:20911,domain:"trakt.tv"};
