@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abs.gov.au privacy policy that was archived on 2011-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206025355id_/http%3A//www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy%3Fopendocument%23from-banner%3DGB) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abs.gov.au privacy policy that was archived on 2012-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626170224id_/http%3A//www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy%3Fopendocument%23from-banner%3DGB) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta name="DC.Date.modified" scheme="ISO8601" content="2011-04-04">
@@ -23,10 +23,27 @@
 <link rel="stylesheet" href="/ausstats/wmdata.nsf/stylesheetscurrent/print_page.css/$File/print_page.css" type="text/css" media="print">
 <link rel="stylesheet" href="/ausstats/wmdata.nsf/stylesheetscurrent/zabs_website.css/$File/zabs_website.css" type="text/css" media="Screen">
 <script src="/ausstats/wmdata.nsf/activejavascripts/jquery/$File/jquery.tools.min.js"></script>
+<script src="/ausstats/wmdata.nsf/activejavascripts/jquery/$File/jquery.min.js"></script>
 <script src="/ausstats/wmdata.nsf/activejavascripts/cycle-all-min/$File/jquery-cycle-all-min.js"></script>
 <script src="/ausstats/wmdata.nsf/activejavascripts/ascripts/$File/scripts.js"></script><title>ABS Web Site Privacy Statement</title></head>
 <body text="#000000" bgcolor="#FFFFFF">
 <!-- Start Header-->
+<div>
+<style type="text/css"> 
+.hide, .showm {display: none;}
+#hlink {display: none;}
+.show, .showp, {display: inline;}
+</style>
+<noscript>
+<style>
+.hide {display: inline;}
+.show {display: inline;}
+#hlink {display: inline;}
+.showp {display: none;}
+.showm {display: none;}
+</style>
+</noscript>
+</div>
 <div class="printclass">
 <img class="imglogo" src="/ausstats/wmdata.nsf/activeimages/abs_logo_lg_bg/$File/abs_logo_lg_bg.gif">
 <img class="imgtitle" src="/AusStats/wmdata.nsf/activeimages/abs_title/$File/abs_title.gif">
@@ -51,7 +68,7 @@
 <li><a href="/websitedbs/D3310114.nsf/home/services+we+provide?opendocument#from-banner=GT">Services</a></li>
 <li><a href="/websitedbs/censushome.nsf/home/Census?opendocument#from-banner=GT">Census</a></li>
 <li><a href="/websitedbs/D3310114.nsf/home/Topics+@+a+Glance?opendocument#from-banner=GT">Topics @ a Glance</a></li>
-<li><a href="/websitedbs/D3310114.nsf/home/Methods,+Classifications,+Concepts+&amp;+Standards?opendocument#from-banner=GT">Methods &amp; Standards</a></li>
+<li><a href="/websitedbs/D3310114.nsf/home/Methods,+Classifications,+Concepts+&amp;+Standards?opendocument#from-banner=GT">Methods &amp; Classifications</a></li>
 <li><a href="/websitedbs/D3310114.nsf/home/news+&amp;+media?opendocument#from-banner=GT">News &amp; Media</a></li>
 <li><a href="/websitedbs/cashome.nsf//Home/Entry+Page.es?opendocument#from-banner=GT">Education</a></li>
 <li><a href="/websitedbs/D3310114.nsf/Home/Links?opendocument#from-banner=GT">Links</a> </li>
@@ -61,14 +78,38 @@
 <table cellspacing="0" cellpadding="0" width="100%" class="tophead"><tbody><tr id="crumb"><td><span id="breadcrumb"><a href="/websitedbs/D3310114.nsf/home/Home?opendocument" title="Home">ABS Home</a></span></td>
 <td><script language="javascript" type="text/javascript">
 function clearDefaultandCSS(el) {
-if (el.defaultValue==el.value) el.value = ""
-if (el.style) el.style.cssText = ""
+if (el.defaultValue==el.value) el.value = "";
+if (el.style) el.style.cssText = "";
+}
+function doSearch() {
+var searchUrl;
+var param = "?collection=agencies&form=simple&profile=abs&query=";
+var queryVal =  document.getElementById("query").value;
+if (queryVal != "") {
+param = param + queryVal;
+searchUrl= "http://agencysearch.australia.gov.au/search/search.cgi" + param;
+if (window.location.href.indexOf("Listings.xsp") > 0) {
+window.open(searchUrl);
+} else {
+window.location.assign(searchUrl);
+}
+}
+}
+function handleKeyPress(e,form){
+var key=e.keyCode || e.which;
+if (key==13){
+doSearch();
+}
 }
 </script>
 
-<div align="right">
-<form method="GET" action="http://agencysearch.australia.gov.au/search/search.cgi" id="input" style="padding:0 0 0 0;margin:0 0 0 0;">
 
+<div align="right">
+
+<noscript>
+<form method=GET action="http://agencysearch.australia.gov.au/search/search.cgi" id=input style="padding:0 0 0 0;margin:0 0 0 0;" method="get">
+</noscript>
+<div>
 <span id="facebookicon">      	
 <a href="http://www.facebook.com/absstats">
 <img src="/ausstats/wmdata.nsf/activeimages/facebook/$File/facebook.png" alt="ABS @ Facebook" title="ABS @ Facebook" style="vertical-align: middle"></a> 
@@ -94,17 +135,17 @@ if (el.style) el.style.cssText = ""
 #search{vertical-align:-3.5px; }
 </style>
 </span>
-<input type="text" name="query">
+<input type="text" id="query" name="query" onkeypress="handleKeyPress(event,this.form)">
 <input type="hidden" name="collection" value="agencies">
 <input type="hidden" name="form" value="simple">
 <input type="hidden" name="profile" value="abs">
-<input type="submit" value="search">
+<input type="button" value="search" onclick="doSearch();">
+</div>
+<noscript>
 </form>
+</noscript>
 </div></td></tr></tbody></table>
 <!-- End Search Bar -->
-<!-- Please note start tag-->
-<!-- Please note there is something between this and the end tag below, please be careful when updating this document. Please click on Unhide button above to see the hidden text.-->
-<!-- Please note end tag-->
 <!-- Start Title -->
 <div id="printtitle">
 <table cellspacing="0" cellpadding="0" width="100%">
@@ -201,7 +242,7 @@ If you prefer not to submit information via the website, please <a href="http://
 
 <!-- Start Right Navigator-->
 	
-<!-- End Right Navigator-->
+<!-- End Right Navigsator-->
 
 </tr>
 </tbody></table>
@@ -228,7 +269,7 @@ If you prefer not to submit information via the website, please <a href="http://
 <div id="printfooter">
 <div id="printlegal">
 <hr>
-© Commonwealth of Australia 2011</div>
+© Commonwealth of Australia 2012</div>
 </div>
 <div id="printcc"><img src="/Ausstats/wmdata.nsf/activeimages/creative commons/$File/creative commons.png"><br>
 Unless otherwise noted, content on this website is licensed under a Creative Commons Attribution 2.5 Australia Licence together with any terms, conditions and exclusions as set out in the website Copyright notice. For permission to do anything beyond the scope of this licence and copyright terms contact us.</div>
