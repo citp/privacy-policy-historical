@@ -1,134 +1,111 @@
-> *The following text is extracted and transformed from the shaws.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608171947id_/http%3A//www.shaws.com/Public/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaws.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626182332id_/http%3A//www.shaws.com/about/security-privacy.jsp) for the most accurate reproduction.*
 
-# Shaw's Privacy Statement
+# Security & Privacy Policy | Shaw's Grocery Stores
 
-1.0 Overview
+## Privacy Policy Purpose
 
-In order to provide benefits and services to you in connection with your Shaw's Rewards Card, Shaw's Supermarkets and Star Markets gather certain types of information about you. This privacy statement is intended to explain what information Shaw's and Star gather, how Shaw's and Star use that information, how that information is distributed and how a Shaw's Rewards Cardholder can correct or change the information provided and the use of such information. This policy is intended to prevent the unauthorized disclosure of your information to any "Third Parties." The term "Third Parties," as used in this Privacy Statement, means anyone other than you, Shaw's and Star or their successors-in-interest.
+We respect your privacy and are committed to safeguarding your personally identifiable information or “personal information” from unauthorized use or disclosure. This policy describes how your personal information may be collected when you visit our website, shop at our stores, use our products or access our services, enroll in our loyalty card program, or otherwise interact with us. It also describes how your personal information is used or disclosed and the steps we take to protect it from unauthorized use or disclosure. For special offers, promotions, contests or specific services, such as those provided by our pharmacies, we might advise you that additional or different personal information practices or terms exist. You should refer to those terms or practices as well.
 
-**Simply stated, our privacy policy is this:** Shaw's and Star will not sell or disclose any personally identifiable information about you to any Third Parties without your consent. Any personal information that Shaw's and Star collect about you will only be used internally by Shaw's and Star for the purposes detailed below.
+## CONSENT TO PRIVACY POLICY
 
-2.0 Special Notice To Former Star Advantage Cardholders
+By accessing our website to shop or obtain information or services, enrolling in our loyalty card program or providing personal information to us through other means, you are agreeing to the terms of this Privacy Policy.
 
-If your Star Advantage Card has been replaced by a Shaw's Rewards Card, your Shaw's Rewards Card will have exactly the same features as your old Star Advantage Card unless you ask Shaw's and Star to provide the additional features that are now available with the Shaw's Rewards Card. Information about you will be handled and protected as described in this policy. Like any Shaw's Rewards Cardholder, you have the right to accept or decline any of the Shaw's Rewards Card features at any time, as described below.
+## DEFINITION OF PERSONAL INFORMATION
 
-[ back to start ]
+We define the term “personal information” to mean any information that we directly associate with or use to identify a specific person. This may include an address, phone number, email address, fax number, or information pertaining to a rewards program, online registration or financial account, when associated with a person’s name. Our definition does not include "aggregate personal information,” which is information that we collect about a group or category of persons or services, or “de-identified information,” which is information from which we or our agents have removed any information that can be used to specifically identify a person, and this policy does not restrict or limit our collection or use of those types of information.
 
-3.0 Collection Of Personally Identifiable Information
+## COLLECTION OF PERSONAL INFORMATION
 
-"Personally identifiable information" is any information that allows others to identify you or contact you. Shaw's and Star do not collect any personally identifiable information about you unless you register to become a Shaw's Rewards Cardholder. When you register and become a Shaw's Rewards Cardholder, Shaw's and Star collect the following personally identifiable information:
+We may collect your personal information through one or more of the following methods.
 
-  * Your first and last name.
-  * Your home address.
-  * Your e-mail address (optional).
-  * Your phone number (optional).
-  * Your driver's license or social security number (for check cashing privileges only).
-
-
-
-In addition, in order to provide you with the discounts and benefits associated with the Shaw's Rewards Card, Shaw's and Star collect information about your purchases every time that you use the Shaw's Rewards Card in connection with the purchase of groceries at Shaw's or Star. Shaw's and Star collect the following specific information about purchases that you make using the Shaw's Rewards Card:
-
-  * The date that your order was rung up.
-  * The items that you purchased.
-  * The total dollar amount of your purchases on that visit.
-  * We do NOT track any purchases made at the Pharmacy.
+  *  **Personal Information You Provide.** We may request or give you the opportunity to provide personal information when you register as a user of our website, shop online or in our stores, sign up for or use our products or services, enroll in our loyalty card program, cash a check, contact us about a prior purchase, or email, call, or otherwise communicate with us. For example, when you enroll in our loyalty card program, we may request that you provide your home or email address. If you do not provide such information, your participation in such program may be limited. Similarly, if you contact us regarding a product or service that you are interested in or concerned about, we may request that you provide personal information that will enable us to respond to your inquiry.
+  *  **Automatically Collected Personal Information.** When you shop at our website or in our stores, or register for or use our services, transactional information such as the date of your purchase, registration or service usage, their descriptions and if applicable, the dollar amount or value of the transaction may be collected automatically. We treat this information as personal information if we combine it with or link it to other information that may identify you.
+  *  **Other Information.** We may obtain information about you from third parties such as demographic marketing information, address verification, or mailing list information and combine it with other personal information pertaining to you.
+  *  **Cookies, Web Beacons and Similar Technologies.** We may use cookies, web beacons and similar technologies to manage our website and email messages, and we may collect information about your activities online at our website. We may link this information with other personal information about you. We may also allow third parties to serve ads on our websites, and if you visit their websites, they may collect information about your visit. This Privacy Policy does not apply to, and we are not responsible for, the practices of third parties that collect your personal information. We encourage you to check the privacy policies of such third parties to learn about their practices with respect to the collection, use, disclosure and protection of your personal information.
 
 
 
-Shaw's and Star collect this information for all of their Cardholders. When you agree to become a Shaw's Rewards Cardholder, you agree that Shaw's and Star may collect and retain such information. Shaw's and Star will only use such information for the purposes described in this Privacy Statement. Pharmacy records are kept separate from the Shaw's Rewards Card databases and are not used for marketing-related purposes.
+## OUR USE OF PERSONAL INFORMATION
 
-[ back to start ]
+We may use your personal information for a variety of purposes, including but not limited to:
 
-4.0 Use Of Personally Identifiable Information And Purchase Information
+  * Responding to your requests
+  * Processing and completing your transactions, including the delivery of products or services
+  * Contacting you about products or services that we believe may be of interest to you, or sharing with you special offers from other companies
+  * Conducting market research, surveys and similar inquiries to help us understand trends and customer needs across product categories or customer groups
+  * Evaluating your shopping experience or existing products and services, or to create new items
+  * Attempting to contact you regarding product safety or recall issues
+  * Applying discounts for loyalty card program specials when you shop with your card
+  * Entering you into sweepstakes and promotions
+  * Verifying and validating your identity
+  * Contacting you regarding items lost in our stores, such as your keys, purse or wallet
+  * Keeping a record of our interactions with you if you place an order or otherwise deal with our representatives over the telephone or online
+  * Preventing, investigating or providing notice of fraud, unlawful or criminal activity, or unauthorized access to or use of personal information, our website or data systems; or to meet legal obligations
 
-Shaw's and Star will only use personally identifiable information and purchase information for the following purposes:
-
-  * To verify your identity in connection with check-cashing privileges associated with the Shaw's Rewards card.
-  * To mail or email information to you about promotions and services that Shaw's and Star believe may be of interest to you. Shaw's and Star will only send you such information if you asked to receive such information when you registered for your Shaw's Rewards Card or subsequently asked us to begin sending you such information. If you have not requested that Shaw's and Star provide such information to you, your personally identifiable information will not be used for this purpose.
-  * To return lost keys to you that are attached to a key tag version of the Shaw's Rewards Card.
-  * To attempt to contact you concerning product safety and recall issues.
 
 
+## DISCLOSURE OF PERSONAL INFORMATION
 
-The personally identifiable information and purchase information collected by Shaw's and Star will not be sold or disclosed to any Third Parties without your consent.
+We do not sell or rent your personal information to third parties in the ordinary course of our business, nor do we share it with them for their own direct marketing purposes. Notwithstanding, upon the occurrence of certain corporate transactions, your personal information may be disclosed or transferred as described under the caption “Certain Business Transfers” below. We may also share your personal information with our parent corporation or affiliated companies for their use in a manner similar to the purposes described above under the caption “Our Use of Personal Information.” Our practices with respect to the disclosure of personal information are described below.
 
-Customers will be allowed timely access upon written request to any information about their data profile if such information is retrievable in the ordinary course of business and if providing access does not impose an unreasonable burden. Customers will be allowed to correct or update their information through a simple written request.
+  *  **With Your Consent.** We may disclose your personal information to third parties with your consent. You may give your consent in several ways, such as through a written agreement that you sign or acknowledge; an online method, such as a "clickthrough" agreement or registration page; an oral statement, such as by way of an interactive voice response; or through the terms and conditions under which we provide you a particular product or service. Sometimes your consent may be implicit. For example, if you purchase products with a credit card and have them shipped to your home, you implicitly consent to the disclosure of your name and address to a third-party shipping company to complete the delivery, and of your credit card number to the credit card processor to authorize the transaction and to the bank to collect payment.
+  *  **Service Providers.** We may disclose your personal information to third parties who complete transactions or perform services on our behalf or for your benefit. Information provided to such parties for payment authorization or verification purposes may be retained by them in a database that is used to provide similar services to others. We may also utilize the services of third parties to verify customer data, such as mailing addresses or to supplement other information we have collected. We may also contract with third parties to host a site, conduct market research, or send you information regarding our products or services, or those of other companies with whom we conduct business.
+  *  **Legal Process.** We may disclose your personal information to legal or government regulatory authorities in response to their requests for such information or to assist in investigations of theft, fraud or abuse. We may also disclose your personal information to third parties in connection with claims, disputes or litigation, or if we determine its disclosure is necessary in an emergency.
+  *  **Certain Business Transfers.** Your personal information may be disclosed as part of a corporate business transaction, such as a merger, acquisition, joint venture, or financing or sale of company assets, and could be transferred to a third party as one of the business assets in such a transaction. It may also be disclosed in the event of insolvency, bankruptcy or receivership.
 
-[ back to start ]
 
-5.0 Shaw's Website - www.shaws.com 
 
-Aside from personal information you provide to us voluntarily, we will not use our website to personally identify you. If you provide us with personal information, such as on our customer feedback page or party store, it will not be sold or otherwise transferred to third parties without your approval. Our website will provide you the opportunity to choose not to receive communications from us at any point where we request information about you. 
+## HEALTH INFORMATION/PHARMACIES
 
-If you have provided us with personal information through this website and wish to have it removed from our files, or if you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you may contact our Consumer Response Department at [feedback@shaws.com](mailto:feedback@shaws.com) or you may write to the address listed in Section 8.0.
+Our pharmacies collect protected health information, which includes your medical and personal history, prescription profile for fulfillment of pharmacy orders, and other health-related information that you, your doctor or your insurance carrier provides to us. This information is most often used to process your prescriptions, provide you with health care information or services, or to contact you with questions and respond to your inquiries. This information is subject to our notice of privacy practices that more specifically describes how we may use or disclose your protected health information. You may request a copy of our notice of privacy practices when you visit any of our pharmacies or by contacting us using one of the methods listed under the caption "How to Contact Us" that appears below.
 
-The Shaw's website contains links to the web sites of sponsors, advertisers and other providers of goods and services of interest to our customers. Shaw's and Star do not provide these companies with your personally identifiable information when you link into their websites from the Shaw's website. When you choose to interact with any Third Party website by purchasing products and services, interacting with an on-line or offline promotion, survey, questionnaire, contest or sweepstakes, remember each website has its own privacy policy, which may or may not be similar to this Shaw's Privacy Policy. At your option, you may choose to supply personally identifiable information to these Third Parties. Shaw's and Star do not assume any responsibility for actions of Third Parties. Any questions you may have regarding any Third Party privacy policy should be directed to that Third Party.
+## INFORMATION PERTAINING TO CHILDREN
 
-Shaw's web site may offer the services of Third Parties to purchase groceries at Shaw's and Star or to obtain manufacturer coupons. Shaw's and Star assume no responsibility for the actions of Third Parties with respect to any data that you choose to provide to them in connection with the use of their services to purchase groceries at Shaw's and Star. You should review the privacy policies of Third Parties to learn about their specific practices with respect to their handling of the data that you provide to them.
+We do not intend to or knowingly collect personal information online from children under the age of 13, and we encourage parents or guardians to participate in and monitor their children's online activity. If a child under 13 has provided personal information, a parent or guardian may inform us of that fact by contacting us using one of the methods listed under the caption "How to Contact Us" that appears below, and we will then delete the information from our database. If you are under the age of 13, do not provide us with any personal information either directly, on any website bulletin boards or by other means.
 
-Whenever you make purchases at Shaw's and Star using Third Party services Shaw's and Star will provide information to the Third Parties concerning such purchases. Shaw's and Star provide such information solely to enable the Third Parties to complete those purchase transactions. By using Third Parties in connection with such purchases, you authorize Shaw's and Star to provide such information to those Third Parties.
+## ACCESS TO AND RETENTION OF PERSONAL INFORMATION
 
-Often, manufacturers will fund offers that are made available to Shaw's Rewards Cardholders on specific products; however, we do not share personally identifiable information with them. As is described below, we may share aggregate data about our customers' overall purchasing patterns.
+We do not maintain all of your personal information in a form that you can access or update, and some items, such as transaction records, may not be changed. Accordingly, we will determine and may limit what may be accessed and how, and we may keep a record of changes (including deletions) and disclose them for lawful purposes. We keep your personal information for as long as we think is necessary or advisable, and we reserve the right to retain it to the full extent not prohibited by law. You may review your personal information that is readily accessible or request that it be updated by contacting our Customer Interaction Center using one of the methods listed under the caption "How to Contact Us" that appears below.
 
-[ back to start ]
+## SECURITY OF PERSONAL INFORMATION
 
-6.0 Collection And Use Of General/Aggregate Information By Shaw's And Star
+We take various physical, electronic and procedural measures to protect your personal information from unauthorized disclosure or misuse. We employ Secure Sockets Layer (SSL) technology, a commonly employed method of encrypted communication used on the Internet, to encrypt during transmission, sensitive personal information you input, including credit card numbers. However, because no data security systems are completely secure, we do not warrant that any personal information that you provide to us will be secure or safe from unauthorized access. If you provide any personal information to us, you do so at your own risk.
 
-In addition to the personally identifiable information and purchase information discussed above, Shaw's and Star collect aggregate information concerning the purchases by all of the people who are Shaw's Rewards Cardholders. On a program-wide basis, Shaw's and Star keep track of the certain types of aggregate statistical information about the Shaw's Rewards Cardholders (for example, amounts and types of groceries purchased by a typical Shaw's or Star customer). Shaw's and Star use this general, anonymous information to obtain a better understanding of Shaw's Rewards Cardholders. This information helps Shaw's and Star to identify the effectiveness of their promotional activities, provide better service to their customers, offer a competitive range of products and new items and pass on savings to customers by operating a more efficient business. Also, we use this information to provide special savings offers such as free samples, coupons, rebates and other promotions to those Shaw's Rewards Cardholders who have elected to receive such offers. If you have elected to receive such offers from us, these offers may be mailed to you at home, sent to you electronically or given to you in store.
+## LINKS TO OTHER WEBSITES
 
-Shaw's and Star share some of the aggregate information described above with Third Parties in order to allow them to measure the effectiveness of programs and advertisements aimed at Shaw's Rewards Cardholders. Such aggregate information will be in the form of grouped statistics. No personally identifiable information is provided to Third Parties with such aggregate information. The procedures for sharing such information with Third Parties are designed to make it impossible for Third Parties to extract personal information from the aggregate information that is provided to them.
+Our website may contain links to websites operated by third parties. When you visit their websites, they may collect information about your visit and use it to provide advertisements to you. This Privacy Policy does not apply to, and we are not responsible for, the practices of third parties that collect your personal information. Each of these linked websites may maintain its own policies about the collection, use and protection of your personal information. We encourage you to check the privacy policies of such third parties to learn about their practices.
 
-[ back to start ]
+## CHANGES TO THIS POLICY  
 
-7.0 Third Party Data Practices
 
-Occasionally, Third Parties are utilized for the purpose of data verification and supplementation. For example, Shaw's and Star may receive census data files in order to determine the percentage of residents in a select area who own their own homes. Shaw's and Star employ these processes to provide members with offers and content that best meet their specific interests. When Third Parties are employed for such purposes, the confidentiality of members' personal information is maintained in strict conformity with this Privacy Statement.
+We will modify this Privacy Policy if our practices change. We will notify you of such changes by posting the modified version on our website and indicating the date it was last modified. We encourage you to visit our website periodically to view the latest version of this Privacy Policy.
 
-[ back to start ]
+## OPT-OUT CHOICES
 
-8.0 Your Right To Limit Communications And To Change Your Options
+We may send you email messages, direct mail offers, or other communications regarding products or services unless you specifically ask us not to do so when you enroll in our loyalty card program, access our website or change your preferences by updating any accounts you may have with us. At any time, you may elect to discontinue receiving commercial messages from us by submitting an opt-out request to our Customer Interaction Center (see “How to Contact Us” below) or by following the instructions in the form of the communication you received, as described below. We will endeavor to process your opt-out request in a commercially reasonable time.
 
-Shaw's and Star will not send you any e-mail messages, direct mail offers or other communications regarding products or services unless you explicitly ask Shaw's and Star to do so when you apply for your Shaw's Rewards Card. In addition, you can ask Shaw's and Star at any time not to send you such e-mail messages, direct mail offers or other communications. If your cardholder status does not currently call for you to receive such email, direct mail or other communications, you may request at any time to begin receiving such communications.
+  *  **Printed Materials:** To opt out of receiving printed marketing materials at your postal address, such as catalogs, flyers or postcards, contact our Customer Interaction Center.
+  *  **Emails:** To opt out of receiving marketing materials via email, use the method provided in the email or contact our Customer Interaction Center.
+  *  **Facsimiles:** If you have consented to receiving facsimile messages, you may opt out of receiving them by using the method provided in the facsimile message or by contacting our Customer Interaction Center.
+  *  **Voice or Text Messages:** To opt out of receiving in-person voice messages by telephone, contact our Customer Interaction Center. If you have consented to receiving prerecorded voice messages or text messages, you may opt out of receiving them by using the method provided in the prerecorded voice message or text message, or by contacting our Customer Interaction Center.
 
-If, at any time, you elect not to be a Shaw's Rewards Cardholder, Shaw's and Star will delete your information from its active database. Even though you may have cancelled your membership, residual information remains on the Shaw's and Star archived database and records.
 
-If you do not wish to participate in these programs and wish to block the collection of your purchase data, please visit the Customer Service desk at any Shaw's Supermarket or Star Market. You may also contact our Consumer Response Department by phone (1-888-431-7429); by email (feedback@shaws.com) or by mail at the following address:
 
-> Consumer Response Department  
->  Shaw's Supermarkets, Inc.  
->  P.O. Box 600  
->  East Bridgewater, Massachusetts 02333  
->  Attention: Rewards Card  
-> 
+## HOW TO CONTACT US
 
-By requesting to be blocked, you still will receive all advertised sale prices, but will not be eligible for additional offers, savings, and sweepstakes, which are based on card use. You may also, at any time, change, correct or update your name, address, telephone number and other personally identifiable information that you have provided to us. When requesting a change in status or correction of information, please be sure to provide your Shaw's Rewards Card number.
+If you have any questions, comments or concerns about this Privacy Policy or privacy-related comments or questions, please contact our Customer Interaction Center by mail, email or telephone as follows:
 
-[ back to start ]
+ **Email**  
+[PrivacyPolicy@Supervalu.com](mailto:PrivacyPolicy@supervalu.com)
 
-9.0 Shaw's/Star Security
+ **Mailing Address**  
+Attn: Customer Service  
+157 S. Howard St.  
+Spokane, WA 99201
 
-To safeguard all information that we collect, we have instituted strict physical, electronic, and managerial policies and procedures to prevent unauthorized access, to maintain data accuracy and to ensure the appropriate use of all data. At any time, however, you may request to review or correct your data.
+ **Phone**  
+1-877-932-7948
 
-Shaw's and Star operate secure data networks protected by industry standard "firewalls" and password protection systems that are intended to keep unauthorized persons from accessing the data on the Shaw's/Star network. Only authorized individuals have access to the information provided by Shaw's and Star customers. Each such individual is aware of the Shaw's Privacy Statement and is obligated to keep confidential all customer information in the Shaw's and Star data network.
+ **Effective Date:** **August 1, 2009**
 
-Whenever Shaw's and Star handle personal information, they will take steps to ensure your information is treated securely and in accordance with this Privacy Policy. Unfortunately, no data transmission over the Internet is ever 100% secure, and so Shaw's and Star cannot warrant the security of the information you transmit to us. Shaw's and Star do, however, make a best effort to ensure the security of the Shaw's/Star system. We have established a Data Privacy Committee, which meets periodically to review matters related to data privacy and security.
-
-[ back to start ]
-
-10.0 Disclosure Of Information In Response To A Court Order Or In An Emergency
-
-Shaw's and Star will release information when compelled by a subpoena or court order, or when Shaw's and Star believe, in their reasonable discretion, that such disclosure is warranted to cooperate with inquiries by law enforcement agencies or in emergencies where physical safety is at risk.
-
-[ back to start ]
-
-11.0 Amendment Or Modification Of This Privacy Statement
-
-Shaw's and Star reserve the right to amend this Privacy Statement at any time and only the current Privacy Statement, as set forth on the Shaw's website (www.shaws.com) will be deemed effective. Shaw's and Star will not implement any amendment to this Privacy Statement that would permit the disclosure of personally identifiable information to Third Parties without providing current Shaw's Rewards Cardholders with prior notice of the amendment and obtaining their consent to any such disclosure. By applying for a Shaw's Rewards Card or using the Shaw's website, you agree to the terms of the Shaw's Privacy Statement and any modifications made to that policy. In the event you do not agree with these terms, please do not use the Shaw's web site or become a Shaw's Rewards Cardholder.
-
-[ back to start ]
-
-12.0 Questions
-
-Questions regarding this Privacy Statement should be directed to the Shaw's and Star Consumer Response Departments by [email](mailto:feedback@shaws.com), regular mail or telephone at the addresses and phone number listed in Section 8.0.
-
-[ back to start ]
+© 2010 SUPERVALU INC. All rights reserved.
