@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iia.ie privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224005553id_/http%3A//www.iia.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iia.ie privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626221324id_/http%3A//www.iia.ie/privacy-policy) for the most accurate reproduction.*
 
 # IIA Privacy Policy
 
@@ -77,6 +77,6 @@ This Privacy Statement is governed by the laws of Ireland and is subject to the 
 If you wish to contact us to discuss any matter in relation to this Privacy Statement or our processing of your personal data, please feel free to contact us by email at operations@iia.ie  
 
 
-© 2011, 2012 Irish Internet Association, The Digital Hub, 10-13 Thomas Street, Dublin 8 | T: +353 (0)1 542 4154 | E: [info@iia.ie](mailto:info@iia.ie)  
+© 2012, 2013 Irish Internet Association, The Digital Hub, 10-13 Thomas Street, Dublin 8 | T: +353 (0)1 542 4154 | E: [info@iia.ie](mailto:info@iia.ie)  
 The Irish Internet Association is Limited by Guarantee (having no share capital). Company Number 268 541.  
 Registered Address: 70 Sir John Rogerson's Quay, Dublin 2, Ireland. 
