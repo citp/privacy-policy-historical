@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloom.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115141048id_/http%3A//www.bloom.com/privacy-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloom.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626194225id_/http%3A//www.bloom.com/privacy-security-policy) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -28,7 +28,7 @@ Acceptance of cookies is not a requirement to browse the Site; however, our shop
 
 There are "e-mail to a friend" and "invite a friend" features on the Site that allow you to easily share product or other valuable information with your friends. We may retain these e-mail addresses and use them to process BloomDollar credits that you may earn on the Site. We may also use these e-mail addresses to facilitate current and future social networking features on the Site. Your friend may be notified when you open your account and when you make purchases.
 
-Bloom.com and its operational service partners collect and use your personal information to process product orders and deliver the products requested. It is possible that BloomCircle may also use personal information to inform you of other products or services available from Bloom.com and its affiliates. Bloom.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+Bloom.com and its operational service partners collect and use your personal information to process product orders and deliver the products requested. It is possible that Bloom may also use personal information to inform you of other products or services available from Bloom.com and its affiliates. Bloom.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
 Bloom.com does not sell, rent or lease its customer lists to third parties. Bloom.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not transferred to the third party.
 
@@ -50,11 +50,11 @@ You may also stop the delivery of future promotional e-mail from Bloom.com by re
 
 In return for making a purchase, registering or telling us more about yourself at the Site, we offer to keep you informed of new and ongoing benefits, exclusive sales and promotions and other customer-only benefits. We appreciate any additional, optional information you are willing to share with us. This optional information helps us tailor your experience at the Site, showing you content that we think might be interesting to you. Depending on the information you give us, we will also provide you with relevant information to enhance your experience on the site.
 
-By using the Site, you consent to the collection and use of your information in the manner we describe. If we decide to change our Privacy Policy in whole or in part, we will inform you by posting a notice on the Site. Those changes will go into effect on the date posted in the notice and will apply to all users of the Site.
+By using the Site, you consent to the collection and use of your information in the manner we describe. ??If we decide to change our Privacy Policy in whole or in part, we will inform you by posting a notice on the Site. Those changes will go into effect on the date posted in the notice and will apply to all users of the Site.
 
 This Statement of Privacy applies to Bloom.com and Bloom Web sites and governs data collection and usage at these sites and services on these sites; it does not apply to other online or offline sites, products or services. We encourages you to review the privacy statements of Web sites you choose to link to from Bloom.com so that you can understand how those Web sites collect, use and share your information. We are not responsible for the privacy statements or other content on Web sites outside of the Bloom.com Web site.
 
-Please contact us at beautyadvice@bloom.com if you have further questions about our Privacy Policy or you have any suggestions on how we can improve your shopping experience with us. We always enjoy hearing from you! Thank you for shopping at Bloom.com
+Please contact us at beautyadvice@bloom.com if you have further questions about our Privacy Policy or you have any suggestions on how we can improve your shopping experience with us. We always enjoy hearing from you!?? Thank you for shopping at Bloom.com
 
 **Sincerely,  
 The Bloom.com Team **
