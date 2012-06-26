@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trident.edu privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203148id_/http%3A//www.trident.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trident.edu privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626044054id_/http%3A//www.trident.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trident University
 
@@ -67,7 +67,7 @@ If you have any questions regarding this privacy policy or would like to have yo
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, send us e-mail at [registration@tuiu.edu](mailto:%20registration@tuiu.edu)
+Should you have other questions or concerns about these privacy policies, send us e-mail at [registration@trident.edu](mailto:registration@trident.edu)
 
   
 
