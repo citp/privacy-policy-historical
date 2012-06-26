@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brazzersmobile.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214090554id_/http%3A//static.brazzers.com/mobile_compliance_files/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brazzersmobile.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626083033id_/http%3A//static.brazzers.com/mobile_compliance_files/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,14 +53,3 @@ This privacy policy may be changed, modified or edited at any time. It is the su
 Each subscriber should carefully read each of the terms and conditions of membership for the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers. 
 
 The website is owned and operated by Manster Media Group Inc. and Softmallorca. 
-
-Cordiacon Developments Ltd (P.V) Unit 5,  
-15-17 Caledonian Road,  
-P.O. Box 206,  
-London N1 9DX Cordiacon 
-
-Gilboa Ltd,  
-Unit 6,  
-15-17 Caledonian Road,  
-P.O. Box 299,  
-London N1 9DX
