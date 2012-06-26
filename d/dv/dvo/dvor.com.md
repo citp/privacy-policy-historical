@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvor.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228132133id_/http%3A//www.dvor.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvor.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627012047id_/http%3A//www.dvor.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -115,7 +115,3 @@ Only those individuals 18 years of age or older are authorized to use Dvor. Dvor
 ## Is this Policy Subject to Change?
 
 Dvor reserves the right to change this privacy policy as needed. Please check back with us for any updates. By continuing to visit or use Dvor after changes are made, you continue to assent to the Privacy Policy as posted.
-
-## Where are Your Other Policies?
-
-Please refer to our main [Policy Page](https://web.archive.org/our-policy.html) for more information on our Customer Service Policies and Procedures.
