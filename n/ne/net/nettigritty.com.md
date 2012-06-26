@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nettigritty.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101164631id_/http%3A//www.nettigritty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nettigritty.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626144326id_/http%3A//www.nettigritty.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | nettigritty.com Web Hosting Bangalore (Bengaluru), India
 
@@ -17,6 +17,4 @@ Individual users may opt-out of receiving specific mailings by selecting appropr
 If you have any questions about our site, this privacy policy, or our general procedures, please Contact Us.
 
   
-  
-  
-**© Copyright[Nettigritty Private Limited](http://www.nettigritty.com/) | [Terms of Service (AUP)](http://www.nettigritty.com/tos.php)** **|[ Privacy Policy](http://www.nettigritty.com/privacy.php) | [Network Details](http://www.nettigritty.com/network.php)**
+
