@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shl.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109201911id_/http%3A//www.shl.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shl.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626054404id_/http%3A//www.shl.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SHL US
 
@@ -86,9 +86,9 @@ Thames Ditton
 Surrey, KT7 0NE  
 UK
 
-Requests can be submitted to the above address by printing and completing a Subject Access Request Form (8KB PDF).  The purpose of this form is to ensure that you give us all the necessary information to enable us to comply with your request.  You do not have to use this form, but if you do not you should ensure that all the required information on this form is provided.
+Requests can be submitted to the above address by printing and completing a [Subject Access Request Form ](https://web.archive.org/assets/SHL_Subject_Access_Request_Form.pdf)(8KB PDF).  The purpose of this form is to ensure that you give us all the necessary information to enable us to comply with your request.  You do not have to use this form, but if you do not you should ensure that all the required information on this form is provided.
 
-Download the free reader
+[Download the free reader](http://get.adobe.com/uk/reader/)
 
 Note: The period of 40 days in which the organisation must respond to the request will not commence until we have received written proof of your identity.
 
@@ -133,7 +133,7 @@ If at any time you wish to change personal information that is incorrect or wish
 
 ###  Privacy compliance
 
-SHL Group (and in particular, its US subsidiaries SHL USA Inc and Previsor Inc) comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. SHL USA Inc and Previsor Inc have certified that they adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SHL USA Inc and Previsor Inc’s certification, please visit <http://www.export.gov/safeharbor.>
+SHL Group (and in particular, its US subsidiaries SHL USA Inc and Previsor Inc) comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. SHL USA Inc and Previsor Inc have certified that they adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SHL USA Inc and Previsor Inc’s certification, please visit <http://export.gov/safeharbor/>
 
 ###  Complaints resolution
 
