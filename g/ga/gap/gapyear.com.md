@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125151502id_/http%3A//gapyear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626043714id_/http%3A//www.gapyear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | gapyear.com
 
 ###  **Introduction**
 
-This Privacy Policy ("Policy") explains in general terms how The Gap Year Company Ltd, UK Company Registration No. 3597000, (“Gap Year”, “we”, “our”, or “us”) and its parent company, Flight Centre (UK) Limited, UK Company Registration No. 2937210, ("Flight Centre") protect the privacy of your personal information provided in connection with your access and use of [www.gapyear.com](http://www.gapyear.com/) (“Site”). Gap Year and Flight Centre are collectively referred to in this Policy as “we”, “our” or “us”.
+This Privacy Policy ("Policy") explains in general terms how The Gap Year Company Ltd, UK Company Registration No. 3597000, ("Gap Year", "we", "our", or "us") and its parent company, Flight Centre (UK) Limited, UK Company Registration No. 2937210, ("Flight Centre") protect the privacy of your personal information provided in connection with your access and use of [www.gapyear.com](http://www.gapyear.com/) ("Site"). Gap Year and Flight Centre are collectively referred to in this Policy as "we", "our" or "us".
 
 Gap Year and Flight Centre are firmly committed to protecting the privacy and confidentiality of your personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
 
@@ -14,7 +14,7 @@ Where practical, we will collect personal information about you directly from yo
 
 ###  **What personal information do we collect?**
 
-Generally, the type of personal information we collect about you is the information that is needed to facilitate your membership of the Site or use of the services available on or through the Site. For example, we may collect details such as your name, nationality, date of birth, gender, email address and home country as part of the membership sign-up process.  As part of the membership sign-up process, we may also collect from you unique identification, in the form of a member name and password, which is required to avoid unauthorised use of your account (and we note that, for this reason, it is important that you keep this identification secret).
+Generally, the type of personal information we collect about you is the information that is needed to facilitate your membership of the Site or use of the services available on or through the Site. For example, we may collect details such as your name, nationality, date of birth, gender, email address and home country as part of the membership sign-up process. As part of the membership sign-up process, we may also collect from you unique identification, in the form of a member name and password, which is required to avoid unauthorised use of your account (and we note that, for this reason, it is important that you keep this identification secret).
 
 We may also collect personal information you choose to provide during the course of your use of the Site, including information you include in your member profile or in any messages or posts you publish on the Site.
 
@@ -57,13 +57,13 @@ At times we may share comments and feedback via our social media channels. Permi
 
 ###  **Access and correction of personal information**
 
-You can check the accuracy of our records and make modifications at any time in the 'Edit My Profile' settings area. You can also immediately delete any personal information we hold about you in relation to your membership profile by using the facilities in “Edit My Profile”. But please remember that deletion of key information may affect your status as a member.
+You can check the accuracy of our records and make modifications at any time in the 'Edit My Profile' settings area. You can also immediately delete any personal information we hold about you in relation to your membership profile by using the facilities in "Edit My Profile". But please remember that deletion of key information may affect your status as a member.
 
-You may also contact Gap Year at [enquiries@gapyear.com](mailto:enquiries@gapyear.com), should you require further information about the personal information we hold about you.
+You may also contact Gap Year at [enquiries@gapyear.com](mailto:enquiries@gapyear.com?subject=Personal%20Information), should you require further information about the personal information we hold about you.
 
 ###  **Security**
 
-Gap Year and Flight Centre have implemented appropriate physical, electronic and managerial security procedures in order to protect personal information from loss, misuse, alteration or destruction.  Gap Year and Flight Centre also regularly review security and encryption technologies and will strive to protect information to the fullest extent possible.
+Gap Year and Flight Centre have implemented appropriate physical, electronic and managerial security procedures in order to protect personal information from loss, misuse, alteration or destruction. Gap Year and Flight Centre also regularly review security and encryption technologies and will strive to protect information to the fullest extent possible.
 
 ###  **Hackers and Viruses**
 
@@ -83,7 +83,7 @@ Gap Year has partnered with reputable third parties to offer visitors to the Sit
 
 ###  **Opt-out**
 
-Should you no longer wish to receive information on direct mail promotions and services we think may be of interest to you or participate in market research, please contact us at [enquiries@gapyear.com](mailto:enquiries@gapyear.com). If you would like to unsubscribe from the email newsletter please [ _click here_](http://info.gapyear.com/UnsubscribePage.html?mkt_unsubscribe=1).
+Should you no longer wish to receive information on direct mail promotions and services we think may be of interest to you or participate in market research, please contact us at [enquiries@gapyear.com](mailto:enquiries@gapyear.com?subject=I%20wish%20to%20no%20longer%20receive%20emails%20from%20gapyear.com). Alternatively you may [unsubscribe ](http://info.gapyear.com/UnsubscribePage.html?mkt_unsubscribe=1)from the email newsletter.
 
 ###  **Changes to this Policy**
 
@@ -95,4 +95,4 @@ We caution you against giving out personally identifiable information (such as s
 
 ###  **Feedback / Complaints**
 
-Gap Year welcomes your inquiries or comments about this Policy. Should you have any comments or complaints please contact [enquiries@gapyear.com](mailto:enquiries@gapyear.com).
+Gap Year welcomes your inquiries or comments about this Policy. Should you have any comments or complaints please contact [enquiries@gapyear.com](mailto:enquiries@gapyear.com?subject=My%20comment%20is%20this...).
