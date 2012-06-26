@@ -1,0 +1,70 @@
+> *The following text is extracted and transformed from the attrakt.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626085127id_/http%3A//www.attrakt.com/privacy-policy.html) for the most accurate reproduction.*
+
+# Privacy policy - Attrakt.com
+
+[ ](http://www.attrakt.com/)
+
+Privacy Policy for the users/visitors of the site www.attrakt.com (hereinafter the "Site") 
+
+##  1\. Introduction 
+
+The following Privacy Policy is aimed at describing management procedures of the Site which can be found at the internet address www.attrakt.com in relation to the personal data treatment of the users/visitors.  
+The following Privacy Policy is a report published according to paragraph 13 of the Italian Legislative Decree no. 193 of 2003 - the Italian Privacy Code – for the users of the Site. The Site is property of the Italian company Attrakt Srl (hereinafter “Attrakt”).  
+The following report is published by Attrakt only in relationship to the Site and not in relation to other sites or sections/pages/spaces which are property of third parties which the user has visited through particular links.  
+Attrakt guarantees the respect of Italian law in relation to personal data protection (Legislative Decree no. 193 of 2003).  
+The users/visitors are invited to read carefully the following Privacy Policy before sending any personal data and/or filling out any electronic forms found in the Site.  
+In case the users/visitors are requested to send their personal data while accessing specific services, a specific and detailed report relating to the data treatment according to paragraph 13 of the Italian Legislative Decree no. 196 of 2003 specifying limits, aims and methods of the treatment will be published in the pages concerning each service.  
+
+
+##  2\. Definitions according to the Italian Legislative Decree no. 196 of 2003 
+
+  1. "treatment", any operation or sum of operations, done even without the help of electronic tools concerning the collecting, the registration, the organization, the conservation, the consultation, the elaboration, the modification, the selection, the extraction, the comparison, the use, the interconnection, the stop, the communication, the diffusion, the deletion, the destruction and the distribution of the data, if not registered in a database;
+  2. "personal data", any data relating to a natural person, identified and identifiable, even indirectly, through a relation to any other information, including a personal identification number;
+  3. "identification data", the personal data which permits the direct identification of the person interested;
+  4. "sensitive data", the personal data appropriate to reveal the race and ethnic origin, the religious, philosophical or other convictions, the political opinions, the adherence to a party, a labor union, an association or a religious, philosophical, political or trade union organization, and the personal data appropriate to reveal the health status and sexual habits;
+  5. "owner": the natural person, the corporate body, the public administrative office and any other body, association or organization, whose function is to decide, even with another owner, the aims, the methods and the tools of personal data treatment, including the security profile;
+  6. "person responsible", the natural person, the corporate body, the public administrative office and any other body, association or organization put in charge of the personal data treatment by the owner;
+  7. "people in charge", the natural people authorized by the owner or the person responsible to make treatment operations;
+  8. "interested person", the natural person whose personal data it belongs to;
+  9. "database", any organized personal data complex, divided in one or more units sited in one or more internet sites.
+
+
+
+##  3\. Typology of the treated data and treatment aim 
+
+  1. **Navigation data** The computer systems and the software procedures used for the Site functioning acquire, in the standard activity and in the respect of the treatment methods and of the data requirements according to paragraph 11 of the Italian Legislative Decree no. 196 of 2003, some personal data which are sent implicitly in the internet communication protocols use. These is data which by nature, through associations or elaborations with data in property of third parties, could identify the user/visitors (for instance, IP addresses, domain names used by the users/visitors connected to the Site, etc.) (so-called “identification data”). On the other hand, no so-called “sensitive data” is requested. This data is used only with the aim of obtaining statistical information (so anonymous) and for controlling the correct Site functioning. Immediately after the elaboration, said data is deleted. The data concerning the web contacts are stored, for no more than seven days - a time span strictly necessary that respects Italian Legislative Decree no. 196 of 2003 - in a database with exclusive disposition of the treatment owner, except in the case of investigations by the competent Authorities concerning computer crimes damaging said Site. Any data coming from the web service will be communicated or published, except in case of fulfillment of duties provided in laws, regulations or UE provisions.
+  2. **Data voluntarily given by the users/visitors (so-called "interested people")**. In case the users/visitors, connecting to the Site send their own personal data to access services, or, to send requests by email, this data will be acquired by Attrakt and/or third parties with whom Attrakt may provide the service requested by the user /visitor; this data will be treated exclusively in response to the request, or to provide the service according to this privacy policy and the specific privacy notices communicated at the moment of adherence to specific services. The personal data expressly sent by the users/visitors will be communicated to third parties only in case said communication is necessary to comply the requests of the users/visitors, except what is contained in the privacy notice relative to each specific service.
+  3. **Cookies** The Site uses cookies or markers, which technically are information packages sent by a web server (in this case, from the Site) to the visitor/user’s internet browser and by this one automatically saved in the personal computer and automatically sent back at the time the user accesses the Site.
+
+
+
+  
+Therefore, for a complete use of the Site, it is recommended to set up the browser so that it accepts the reception of cookies. We inform you that the defaults of nearly all web browsers are set up for accepting cookies automatically. The visitors/users can modify the default setup, which for Internet Explorer version 6.0 is the medium one, thus disabling cookies (definitely), by setting the highest security level of "Privacy" (which is reachable by selecting the heading "Tools" - "Internet Options"), or deleting cookies in the personal computer by clicking the heading "Tools" - "Internet options" - "General" and choosing "Delete cookies".  
+As hereinbefore described, however, the disapplication or the deletion of cookies could preclude the successful use of some of the Site areas or compromise the use of the services under authentication. If the users/visitors want to decide whether or not to accept cookies each time, they can set up their own browser in order to create a saved cookie notice. The used cookies are both lasting (meaning they are saved until their deadline on the hard disk of the user/visitor’s personal computer) and relative to the specific session (meaning they are not saved lastingly in the user/visitor’s personal computer and vanish with the browser closing).  
+Lasting cookies are used in order to simplify the navigation in the Site and its correct use, to simplify access to the services which require the authentication (avoiding the users sending elements of authentication at each access to services) and for statistical aims in order to know which Site areas have been visited, and, in certain cases, for an optimal management of the pages and of the advertisement spaces or to provide contents and advertisements according to net surfers’ choices. The cookies relative to each session are used in order to send the session identification elements which are necessary to permit a safe and efficient exploration of the Site.  
+The cookies relative to each session used in the Site avoid using other computer methods potentially dangerous for the privacy of users/visitors’ navigation and are used even for improving the provision of the services. Furthermore, cookies can be peculiar to the Site (for instance, used in order to know the number of pages visited within the Site) or belonging to third parties (meaning they can be made by other sites to provide the content of the site visited). The Site uses third party cookies in order to manage in a dynamical and developed way the provision of advertisements and the traffic analysis, through services provided by the company Google Inc. (hereinafter "Google"): Google Adsense.  
+The most common browsers provide the possibility of stopping exclusively third party cookies, accepting only the ones peculiar to the Site. Furthermore, some companies which create cookies on the third party sites, offer the possibility of disabling or stopping in a simple and immediate way only their cookies, even when those are anonymous or they do not entail the registration of identification personal data (for instance, the IP address), in respect to the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp). In order to disable Google cookies please follow the instructions in the page [http://www.google.com/privacy/ads](http://www.google.com/privacy/ads/). 
+
+##  4\. Treatment methods 
+
+The treatment is done through automatized tools (for instance using procedures and electronic supports) and/or manually (for instance on a paper support) for the time strictly necessary to achieve the aims which the data has been collected for and, anyway, in compliance with the laws ruling this field. 
+
+##  5\. Optional data 
+
+Except what is provided for navigation data, the users/visitors may elect to provide or not provide personal data. If not provided it entails only the impossibility to obtain what is requested. 
+
+##  6\. Owner, people responsible and typologies of interested people 
+
+The treatment owner is Attrakt Srl whose registered office is in Florence (Italy), Via Lorenzo di Credi, 20. A detailed list of people responsible and people in charge for the personal data treatment is deposited at Attrakt’s registered office and can be known by the user writing to contacts@attrakt.net. In the company user’s data will be treated by the employees whose functions are described in the above-mentioned list. The aforesaid employees work as people in charge under the direct authority of the person responsible for the treatment. As well as the Attrakt employees the personal data treatment can be handled even by third parties, whose activities connected to or instrumental for the execution of the treatments or for the provision of the offered services (or parts of them) may be assigned by the company. In this case the same people will work as independent owners, co-owners or will be appointed as people responsible or people in charge of the treatment. 
+
+##  7\. Rights of the interested people 
+
+In the respect of paragraph 7 of the Italian Legislative Decree no. 196 of 2003 the interested person has the right to obtain confirmation that his personal data exists or not, even if not registered yet, and to obtain its communication in an intelligible form.  
+Moreover, he has the right to obtain the indication: of the origin of the personal data in any moment; of the aims and the methods of the treatment; of the applied logic in case of treatment done with the help of electronic tools; of the identification data belonging to the owner, the people responsible and the representative appointed according to paragraph 5 of the Italian Legislative Decree no. 196 of 2003; of the people or categories of people to whom the personal data has been communicated or who may know said data as a representative appointed in the State territory; of people responsible or people in charge.  
+Moreover, the interested person has the right to obtain the uploading, the correction or, when interested, the integration of the data; the deletion, the modification in anonymous form or the locking of the data treated in violation of law, included the ones whose conservation - in relation to the aims they are collected for or afterwards treated - is not necessary; the certification that the abovementioned operations have come to the awareness of ones who data has been communicated or sent to, even in relation to their content, except in the case that fulfillment becomes impossible or entails an use of means evidently out of proportion.  
+At last, the interested person has the right to make opposition in all or in part and for rightful reasons: to his personal data treatment even if those are appropriate to the aim of collection; to his personal data treatment finalized to the forwarding of illustrative material or to the direct sale or to the execution of market research or commercial communication.  
+It is possible to exercise the rights provided in paragraph 7 of the Italian Legislative Decree no. 196 of 2003 writing to Attrakt in Florence (Italy), Via Lorenzo di Credi, 20 or sending an email to the address contacts@attrakt.net. 
+
+##  8\. Amendments to the privacy policy 
+
+The above described privacy policy can be amended even in connection to the becoming in force of new laws ruling the field, the improvement or the provision of new services or the upcoming of technological innovations. For this reason it is recommended that the user/visitor consults this page periodically.
