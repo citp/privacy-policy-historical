@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecustomeropinions.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210182115id_/http%3A//www.edigitalresearch.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecustomeropinions.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626223525id_/http%3A//www.edigitalresearch.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : eDigitalResearch
 
@@ -33,7 +33,7 @@ Surveys and Panels. Where information is volunteered and subsequently collected 
 
 Competitions and Draws. Where individual information is required to identify a winner of a competition or draw this may be revealed to the appropriate client. Please refer to individual competition rules which will refer to the requirements for publicity of winners names.
 
-Automatic collection of data (cookies and log files). eDigitalResearch plc use "cookies" to gather statistical information that helps us understand what users find interesting and useful on both our own and client websites. Users can decline the cookies by adjusting the "accept cookies" setting on their browser, however this may affect the functionality of eDigitalResearch plc surveys on client web sites. eDigitalResearch plc may also embed a piece of code into pages of certain client sites. This gives us statistical site usage information about how the site is used. We aggregate this information to provide our clients with a closer understanding of how visitors use their site. We do not use this code to collect any personally identifiable information.
+Automatic collection of data (cookies and log files). eDigitalResearch plc [use "cookies"](http://public.edigitalresearch.com/cookies) to gather statistical information that helps us understand what users find interesting and useful on both our own and client websites. Users can decline the cookies by adjusting the "accept cookies" setting on their browser, however this may affect the functionality of eDigitalResearch plc surveys on client web sites. eDigitalResearch plc may also embed a piece of code into pages of certain client sites. This gives us statistical site usage information about how the site is used. We aggregate this information to provide our clients with a closer understanding of how visitors use their site. We do not use this code to collect any personally identifiable information.  You can find more information about how we use cookies in the [Cookies section of our public resources site](http://public.edigitalresearch.com/cookies).
 
 ## Security and Storage of Information Collected
 
@@ -50,7 +50,7 @@ eDigitalResearch plc acknowledges and firmly supports the following laws and cod
 
 ## Amending or deleting information held by eDigitalResearch plc
 
-If you would like to change or deactivate the information you have submitted, please send a request to [priv...@edigitalresearch.com](https://web.archive.org/contact/obfuscated/path/cevinpl+rqvtvgnyerfrnepu+pbz "Email"). We will carry out any request within a reasonable amount of time, unless we are required or authorised by law not to do so.
+If you would like to change or deactivate the information you have submitted, please send a request to [privacy@edigitalresearch.com](mailto:privacy@edigitalresearch.com). We will carry out any request within a reasonable amount of time, unless we are required or authorised by law not to do so.
 
 ## Changes to this Privacy Policy
 
@@ -62,7 +62,7 @@ Nothing contained in this policy is intended to create a contract or agreement b
 
 ## Transferring information
 
-You consent to us transferring your personal data to other companies in and out of the EEA only for the purposes mentioned above. We shall endeavour to ensure that your personal data is kept confidential and secure.
+You consent to us transferring your personal data to other companies in the EEA only for the purposes mentioned above. We shall endeavour to ensure that your personal data is kept confidential and secure.
 
 ## Sale of eDigitalResearch plc or other related organisations
 
@@ -74,4 +74,4 @@ We are eDigitalResearch plc whose place of work is Vanbrugh House, Grange Drive,
 
 We also trade as eMysteryShopper.com, eCustomerOpinions.com, eDigitalSurvey.com, eGlobalPanel.com, eDigitalCommunities.com, eDigitalForms.com, ePanelManager.com and eProductRating.com
 
-Questions regarding this policy or the implementation can be directed to [priv...@edigitalresearch.com](https://web.archive.org/contact/obfuscated/path/cevinpl+rqvtvgnyerfrnepu+pbz "Email")
+Questions regarding this policy or the implementation can be directed to [privacy@edigitalresearch.com](mailto:privacy@edigitalresearch.com)
