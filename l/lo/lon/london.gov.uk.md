@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the london.gov.uk privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123120247id_/http%3A//www.london.gov.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the london.gov.uk privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626235207id_/http%3A//www.london.gov.uk/privacy-policy) for the most accurate reproduction.*
 
 # The Greater London Authority’s Commitment to Privacy | Greater London Authority
 
@@ -19,7 +19,7 @@ The GLA is committed to protecting your privacy and processing your personal dat
 
 ## ****The information we collect about you
 
-Through our website, and the [mayor@london.gov.uk](mailto:mayor@london.gov.uk) email address we may collect the following information about you:
+Through our website, and the mayor@london.gov.uk email address we may collect the following information about you:
 
   * Your name, email address, postal address and any other information you voluntarily provide to us via our online enquiry forms. 
   * Your IP address (unique identifiers that computers or other devices use to identify and communicate with each other) that is automatically recognised by the web server.
@@ -64,7 +64,15 @@ Session cookies: to ensure you are recognised when you move from page to page wi
 
 Persistent cookies: to recognise you as a unique visitor to our website so that we can tailor content to match your interests.
 
-You can accept or disable cookies by modifying the settings in your browser. For further information visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+You can control cookies through your web browser, just click on browser settings to find out the options your chosen browser allows. If you’d like to learn more about cookies, including how they have been set and how to manage them, visit allaboutcookies.org
+
+## ****YouTube cookies
+
+We embed videos from our YouTube channel, therefore, due to YouTube’s privacy-enhanced policy you may find that cookies are set on your computer once you have clicked to play the videos. However YouTube don’t store personally-identifiable cookie information relating to playbacks of embedded videos when using their privacy-enhanced mode. You can find out more here:[http://support.google.com/youtube/bin/answer.py?hl=en-GB&answer=171780](http://support.google.com/youtube/bin/answer.py?hl=en-GB&answer=171780)
+
+## ****Our search engine
+
+In order to give you the results you are looking for when you search our website, we use a piece of hardware supplied by Google. It is connected to our server and is constantly indexing the content on our site. All search requests on our site are handled by this hardware, however the information is not passed on to any third parties including Google. If you would prefer not to be tracked by Google analytics you can opt out here: <https://tools.google.com/dlpage/gaoptout>
 
 ## ****Finding out what information the GLA holds about you
 
@@ -83,9 +91,13 @@ London SE1 2AA
 
 You will also need to provide two forms of identification, for example, driving licence, utility bill or passport and, if appropriate, any particulars about the source or location of the information you are requesting.
 
+## ****Links to other websites
+
+This privacy notice does not cover the links within this site linking to other websites. We encourage you to read the privacy statements on the other websites you visit.
+
 ## ****Changes to our Privacy Policy
 
-We regularly review our Privacy Policy and updates will appear on this page when necessary. This Privacy Policy was last updated on 21 June 2011.
+We regularly review our Privacy Policy and updates will appear on this page when necessary. This Privacy Policy was last updated on 25 May 2012.
 
 ## ****Contacting the GLA about this Privacy Policy
 
