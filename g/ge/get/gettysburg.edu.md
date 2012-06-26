@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettysburg.edu privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226155008id_/http%3A//www.gettysburg.edu/global/privacy_statement.dot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettysburg.edu privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626042547id_/http%3A//www.gettysburg.edu/global/privacy_statement.dot) for the most accurate reproduction.*
 
 # Gettysburg College - Privacy Statement
 
