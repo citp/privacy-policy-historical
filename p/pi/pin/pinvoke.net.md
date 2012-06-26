@@ -1,93 +1,101 @@
-> *The following text is extracted and transformed from the pinvoke.net privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210022911id_/http%3A//www.pinvoke.net/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinvoke.net privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627000744id_/http%3A//www.red-gate.com/our-company/about/legal) for the most accurate reproduction.*
 
-# PInvoke.net Terms of Use
+# Legal information about Red Gate Software
 
-## 1.1 General Information
+### Legal information
 
-Pinvoke.net is a service from Red Gate Software Limited (together "Pinvoke.net") that is responsible for the content of www.Pinvoke.net.
+**Our privacy policy**
 
-## 1.2 Pinvoke.net Privacy Statement
+Red Gate (which means here Red Gate Software Limited) respects your privacy. We do not sell, rent or loan any identifiable information regarding our customers to any third party. Any information you give us is held with the utmost care and security. 
 
-Pinvoke.net respects your privacy and will use any personal information collected from this website (www.Pinvoke.net) in accordance with the Data Protection Act 1998. Further details on the UK Data Protection Act can be found at the website of The Office of the Data Protection Commissioner (www.ico.gov.uk). This privacy policy sets out our privacy practices. Please take time to review this privacy policy as it tells you how your personal information will be treated by us.
+This privacy policy sets out our privacy practices. Please take time to review this privacy policy as it tells you how your personal information will be treated by us. 
 
-Any questions regarding our privacy policy should be directed to Pinvoke.net's privacy policy manager at privacy@Pinvoke.net or alternatively see the section 'your rights'.
+Any questions regarding our privacy policy should be directed to Red Gate's privacy policy manager at [privacy@red-gate.com](mailto:privacy@red-gate.com), or alternatively see the section Contacting us.
 
-## 1.3 What information do we collect and why?
+**Use of information**
 
-Pinvoke.net will not collect any personal information about individuals except when specifically and knowingly provided by such individuals. Examples of the information collected on this site includes name, company, user name, password, e-mail address, phone number and product commentary. 
+Red Gate will not collect any personal information about individuals except when specifically and knowingly provided by such individuals. Examples of such information are: name, company, postal address, email address, phone number and product commentary.
 
-We will use this information to:
+We will use the personal information provided to us in order to:
 
-  * verify your identity (for example when you log in to the Pinvoke.net community);
-  * administer your participation in discussion forums;
-  * anticipate and resolve any problems with any services supplied to you;
-  * carry out market research and surveys;
-  * enable you to register for competitions, promotions or premium content;
-  * customise the service we provide to you;
+  * process orders submitted by you;
+  * customize the service we provide to you;
+  * administrate or otherwise carry out our obligations in relation to any agreement you have with us;
+  * verify your identity (for example if you participate in any promotions administered by us);
+  * anticipate and resolve any problems with any goods or services supplied to you;
+  * carry out market research and surveys and track sales data;
   * send you our newsletter, where this is requested by you;
   * to send you follow-up communications relating to software downloaded from our site; and
-  * send you information about other of our services and those of our owner Red Gate Software Limited.
+  * send you information about our other products and services.
 
 
 
-We may collect any personal information provided by you to us through this web site [or via one of our telephone operators] , or we may collect this information through your e-mail or other communications with us. Certain information is collected automatically, as described later in the privacy policy.
+We may collect any personal information provided by you to us through this website or via one of our telephone operators, or we may collect this information through your email or other communications with us. Certain information is collected automatically, as described later in the privacy policy.
 
-We may also ask you for other optional information such as what sort of [equipment/device/software] you use and what other subjects interest you. If you choose to give us this information, we will use it to help us to provide you with the best possible service that is personalised to your needs and preferences.
+We may also ask you for other optional information such as what sort of equipment/device/software you use and what other subjects interest you. If you choose to give us this information, we will use it to help us to provide you with the best possible service that is personalized to your needs and preferences.
 
-Although we do not make it compulsory to give us every item of information we ask for, the more information you volunteer (and the more accurate it its), the better we can tailor our services for you.
+Although we do not make it compulsory to give us every item of information we ask for, the more information you volunteer (and the more accurate it is), the better we can tailor our services for you.
 
-We also collect information from you if you choose to take part in any of our on site surveys or promotions. We will use this information administer the promotion and help us to plan other promotions.
+We also collect information from you if you choose to take part in any of our on-site surveys or promotions. We will use this information to administer the promotion and help us to plan other promotions.
 
-1.3.1 Users log files and’ IP address, are automatically logged by our web server. IP addresses are used to help us administer the site and to collect broad demographic information about users’ interest in this website (number of visits, etc) for aggregate use.
+Certain Red Gate services, such as payment processing, are offered in conjunction with our business partners. In such cases, we may need to share your personal information with them in order to provide these services. Please note that certain services may be unavailable if you do not want to disclose the personal information you are asked for.
 
-1.3.2 We may collect non- personal information about you such as the type of internet browsers you use or the site from which you linked to our site. You cannot be identified from this information and it is only used to assist us in providing an effective service on our site.
+**Log files/IP addresses**
 
-We may also share non-personal aggregate, or summary, information regarding our users with partners or other third parties, such as information relating to the number of users linking to our site from their sites but we do not sell or share any information at the individual level.
+When you visit our site, we automatically log your IP address which is recognized by our web server. We use IP addresses to help us administer the site and to collect broad demographic information for aggregate use. 
 
-1.3.3 Cookies are very small text files saved to your computer used to track user navigation around a website. At [www.pinvoke.net](http://www.pinvoke.net/), session cookies are used to to identify unique users to our sites. They are not cross-referenced with any other information such that an individual person could be identified.
+**Non personal information**
 
-Pinvoke.net may use a third party to serve advertisements on our sites. The advertisers may use cookies to track the number of users responding to the campaign. Pinvoke.net does not have access to or control of cookies placed by third parties.
+We may automatically collect non-personal information about you, such as the type of internet browsers you use or the site from which you linked to our site. You cannot be identified from this information and it is only used to assist us in providing an effective service on our site.
 
-Disabling/Enabling Cookies – users have the ability to accept or disable cookies by modifying the settings in their browser. Disabling cookies however may mean that some functionality may be affected. For further directions on how to disable cookies please see <http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html>
+Red Gate may share non-personal aggregate or summary information regarding its customers with partners or other third parties, such as information relating to the number of users linking to our site from their sites but Red Gate does not sell or share any information at the individual level. 
 
-## 1.4 Disclosures
+**Cookies**
 
-Pinvoke.net will not disclose voluntarily provided details to third parties or use the information in any other way without prior consent. On all pages where personal data is collected, specific details on the use of this information will be provided.
+Cookies are very small text files saved to your computer used to track user navigation around a website. At Red Gate session cookies are used when users log-in to the site. Red Gate will use such cookies to identify unique users to our sites. They are not cross-referenced with any other information such that an individual person could be identified.
 
-Other than the disclosures referred to in this policy we will not disclose any personal information without your permission unless we are legally obliged or entitled to do so (for example, if required to do so by Court order or for the purposes of fraud or other crime).
+Red Gate may use a third party to serve advertisements on our sites. The advertisers may use cookies to track the number of users responding to the campaign. Red Gate does not have access to or control of cookies placed by third parties. 
 
-We will only disclose your personal information to a third party either as part of a reorganisation or a sale of the assets of our owner Red gate Software, or having ensured that steps have been taken to ensure that your privacy rights continue to be protected.
+Disabling/Enabling Cookies - users have the ability to accept or disable cookies by modifying the settings in their browser. Disabling cookies, however, may mean that some functionality may be affected. For further directions on how to disable cookies please visit <http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html>
 
-## 1.5 Information on products and services
+**Disclosures**
 
-It is very important that we provide you with the highest level of service. In order to help us do this, from time to time we may send you, with your consent, details of our products and services which we think may be of interest to you. If at any time you do not wish to continue to receive these details, then send a blank e-mail message to nomarketing@Pinvoke.net. You can also unsubscribe from our newsletter by using the 'unsubscribe' option located on each of our newsletter communications.
+Other than the disclosures referred to in this policy, we will not disclose any personal information without your permission unless we are legally obliged or entitled to do so (for example, if required to do so by Court order or for the purposes of fraud or other crime).
 
-## 1.6 Keeping our records accurate
+We will only disclose your personal information to a third party either as part of a reorganization or a sale of the assets of Red Gate Software, or having ensured that steps have been taken to ensure that your privacy rights continue to be protected.
 
-We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below.
+**Information about products and services**
 
-## 1.7 Forums
+It is very important to us that we provide you with the highest level of service. In order to help us do this, from time to time Red Gate may send you, with your consent, details of our products and services which we think may be of interest to you. If at any time you do not wish to continue to receive these details, then send a blank email message to [unsubscribe@red-gate.com](mailto:unsubscribe@red-gate.com). You can also unsubscribe from our newsletter by using the 'unsubscribe' option located in each of our newsletter communications.
 
-Users are reminded that forums are for public discussion. Any personal information supplied by users during these discussions is widely accessible and you should be careful when deciding to disclose your personal information. Pinvoke.net is not responsible for the content posted by users of these services.
+**Keeping our records accurate**
 
-## 1.8 Security
+We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below. 
 
-We have implemented technology and policies to help safeguard your privacy from unauthorised access and improper use. For example, user-logins are subject to unique user id and password protection. We will continue to monitor and update security measures as new technology becomes available as appropriate to the site.
+**User discussion forums**
 
-## 1.9 Links to other websites
+Red Gate may make chat rooms, forums, message boards and/or other news groups available to its users. Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information.
 
-This website contains links to other sites that are completely unrelated to Pinvoke.net. This privacy statement does not apply to these sites nor are we responsible for the content and practices of these websites.
+See information on [accepted use](https://web.archive.org/messageboard/profile.php?mode=register&sid=e52cc692b155c24b81f311edd34c79c8) of our forums. 
 
-## 2.0 Transfers of your personal information outside of the European Economic Area
+**Security**
 
-Information you provide to us is not, routinely transferred by us to countries outside the European Economic Area ('EEA') although is may happen if, at any point one our servers is temporarily located in a country outside the EEA or if one of our service providers is located in a country outside of the EEA. If we transfer your information outside the EEA in this way we will take steps to ensure that your privacy rights continue to be protected.
+We have implemented technology and policies to help safeguard your privacy from unauthorized access and improper use. For example, transactions conducted through the site are encrypted and user log-in is subject to password protection. We will continue to monitor and update security measures as new technology becomes available as appropriate to the site.
 
-In addition, if you use our services while you are outside the EEA, your information will be transferred outside the EEA in order to provide you with those services.
+**Third party sites**
 
-## 2.1 Your consent
+We cannot be responsible for the privacy policies and practices of other sites even if you access them using links from our site and recommend that you check the policy of each site you visit.
 
-By using our website, or giving us your details, at an exhibition, you consent to the collection and use of this information by Pinvoke.net and its owner Red Gate Software Limited. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we would disclose it.
+In addition, if you linked to our site from a third party site, we cannot be responsible for the privacy policies and practices of the owners or operators of that third party site and recommend that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions.
 
-## 2.2 Contacting us
+**Transfers of your personal information outside of the European Economic Area**
 
-You have the right to access your information held by Pinvoke.net (for which we may charge a small fee) and where necessary, to have it amended. You can also request not to receive marketing information from Pinvoke.net and Red Gate Software Limited. For more details, please contact: Data Protection, Pinvoke.net, Red Gate Software, The Jeffreys Building, St John's Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom or email [privacy@pinvoke.net](mailto:privacy@pinvoke.net).
+Information you provide to us may be transferred by us to our wholly owned US subsidiary (Red Gate Software Inc.,) and/or to any of our service providers that are situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA. Any of our servers may also be temporarily located in a country outside the EEA. If we transfer your information outside the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected.
+
+**Your consent**
+
+By using our website, or giving us your details at an exhibition, you consent to the collection and use of this information by Red Gate. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we would disclose it.
+
+**Contacting us**
+
+If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by sending an email to us at [privacy@red-gate.com](mailto:privacy@red-gate.com) or by contacting us at Red Gate Software Limited, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ, United Kingdom. You are entitled to ask for a copy of the information we store about you (for which we may charge a small fee).
