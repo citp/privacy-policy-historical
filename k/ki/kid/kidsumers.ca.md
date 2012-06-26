@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kidsumers.ca privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227155538id_/http%3A//www.kidsumers.ca/privacy-policy-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsumers.ca privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626162634id_/http%3A//www.kidsumers.ca/privacy-policy-and-disclosure) for the most accurate reproduction.*
 
-# Privacy Policy - Kidsumers
+# Kidsumers Privacy Policy
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.kidsumers.ca%2Fprivacy-policy-and-disclosure%2F&media=&description=Privacy+Policy)
 
 Privacy Policy for 
 
