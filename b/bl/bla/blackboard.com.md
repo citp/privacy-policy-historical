@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackboard.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207012402id_/http%3A//www.blackboard.com/Footer/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackboard.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626051829id_/http%3A//www.blackboard.com/Footer/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Blackboard Privacy Policy
 
@@ -44,10 +44,13 @@ Blackboard offers users the ability to correct or change the information collect
 
 All of your personal information is stored on servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data. 
 
-**7\. European Union Data Protection**
+**7\. European Union   and Switzerland Data Protection**
 
-If you reside in the European Union, upon registration you will be indicating your explicit consent that the personal information you have provided may be transferred and stored in countries outside the EU, including the United States. If you fail to provide your consent, you will not be permitted to access the Services for which registration is required. Blackboard abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.  
-In order to comply with the European Union’s Safe Harbor Principles, Blackboard commits to the resolution of complaints about your privacy and our collection or use of your personal information.  We have committed to resolve any complaints by European Union citizens relating to this policy, which cannot be resolved directly with our company, through the EU Safe Harbor Dispute Resolution Procedure administered by the Council of Better Business Bureaus, Inc.
+Blackboard complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Blackboard has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Blackboard’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+If you reside in the European Union and/ or Switzerland, upon registration you will be indicating your explicit consent that the personal information you have provided may be transferred and stored in countries outside the EU and/ or Switzerland, including the United States. If you fail to provide your consent, you will not be permitted to access the Services for which registration is required. 
+
+In order to comply with the European Union’s and/ or Switzerland’s Safe Harbor Principles, Blackboard commits to the resolution of complaints about your privacy and our collection or use of your personal information.  We have committed to resolve any complaints by European Union and/ or Switzerland citizens relating to this policy, which cannot be resolved directly with our company, through the EU Safe Harbor Dispute Resolution Procedure administered by the Council of Better Business Bureaus, Inc.
 
 If you have any questions regarding this policy, please contact:
 
@@ -61,12 +64,7 @@ Phone: 202-463-4860
 If you do not receive acknowledgement of your complaint or your complaint is not satisfactorily addressed by Blackboard Inc., you should then contact:
 
 Council of Better Business Bureaus, Inc.  
-EU Safe Harbor Dispute Resolution Procedure  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA  22203  
-Phone: 703-276-0100  
-Web: [www.us.bbb.org](http://www.us.bbb.org/)  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
+Web site: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
 
 **8\. Blackboard Privacy Policy Statement Changes**
 
