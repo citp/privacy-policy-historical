@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the serjtankian.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213161258id_/http%3A//www.serjtankian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serjtankian.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626083538id_/http%3A//www.serjtankian.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Serj Tankian - New EP Out Now!
+# Privacy Policy | Serj Tankian's Official Website. Get up to date news, tour dates, merchandise and more.
 
 **LAST UPDATED:   **August 18, 2009
 
