@@ -1,6 +1,90 @@
-> *The following text is extracted and transformed from the fangraphs.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003450id_/http%3A//www.fangraphs.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fangraphs.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626055613id_/http%3A//www.fangraphs.com/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | FanGraphs Baseball
+
+|  [ ](http://www.fangraphs.com/) |   
+---|---  
+  
+  *   * [](http://www.fangraphs.com/)
+  * [](http://www.fangraphs.com/thegame/)
+  * [](http://www.fangraphs.com/plus/)
+  * [](http://www.fangraphs.com/blogroll.aspx)
+  * [](http://www.fangraphs.com/projections.aspx)
+  * [](http://ottoneu.fangraphs.com/)
+  * [](http://www.fangraphs.com/livescoreboard.aspx)
+  * [](http://www.fangraphs.com/leaders.aspx)
+
+    * **Batting Leaders**
+
+[ 2012](http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2012&month=0&season1=2012&ind=0), [ 2011](http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2011&month=0&season1=2011&ind=0), [ 2010](http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2010&month=0&season1=2010&ind=0), [ 2009](http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2009&month=0&season1=2009&ind=0), [ Career](http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2011&month=0&season1=1871&ind=0&team=0&rost=0&players=0), [ 10's](http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2011&month=0&season1=2010&ind=0), [ 00's](http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2009&month=0&season1=2000&ind=0), [ 90's](http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=1999&month=0&season1=1990&ind=0)
+
+ **Pitching Leaders**
+
+[ 2012](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2012&month=0&season1=2012&ind=0), [ 2011](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2011&month=0&season1=2011&ind=0), [ 2010](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2010&month=0&season1=2010&ind=0), [ 2009](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2009&month=0&season1=2009&ind=0), [ Career](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2011&month=0&season1=1871&ind=0&team=0&rost=0&players=0), [ 10's](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2011&month=0&season1=2010&ind=0), [ 00's](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2009&month=0&season1=2000&ind=0), [ 90's](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=1999&month=0&season1=1990&ind=0)
+
+ **Minor League Leaders**
+
+AAA: [ International](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=2&qual=y&type=0&season=2012), [ Pacific Coast](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=4&qual=y&type=0&season=2012), [ Mexican](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=31&qual=y&type=0&season=2012)  
+AA: [ Eastern](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=5&qual=y&type=0&season=2012), [ Southern](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=6&qual=y&type=0&season=2012), [ Texas](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=7&qual=y&type=0&season=2012)  
+A+: [ California](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=8&qual=y&type=0&season=2012), [ Carolina](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=9&qual=y&type=0&season=2012), [ Florida State](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=10&qual=y&type=0&season=2012)  
+A: [ Midwest](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=11&qual=y&type=0&season=2012), [ South Atlantic](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=14&qual=y&type=0&season=2012)  
+A-: [ New York-Penn](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=12&qual=y&type=0&season=2012), [ Northwest](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=13&qual=y&type=0&season=2012)  
+R: [ Appalachian](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=15&qual=y&type=0&season=2012), [ Gulf Coast](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=17&qual=y&type=0&season=2012), [ Pioneer](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=18&qual=y&type=0&season=2012), [ Arizona](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=16&qual=y&type=0&season=2012)  
+R: [ Dominican](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=30&qual=y&type=0&season=2012), [ Venezuelan](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=32&qual=y&type=0&season=2012), [ Arizona Fall](http://www.fangraphs.com/minorleaders.aspx?pos=all&stats=bat&lg=33&qual=y&type=0&season=2012)
+
+ **WAR Tools**
+
+[WAR Graphs](http://www.fangraphs.com/graphsw.aspx), [ WAR Grid](http://www.fangraphs.com/graphswd.aspx)
+
+ **Rookie Leaders**
+
+[ Batters 2012](http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2012&month=0&season1=2012&ind=2), [ Pitchers 2012](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=8&season=2012&month=0&season1=2012&ind=2)
+
+ **Splits Leaders**
+
+Batters: [ vs L](http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=1&season=2012&month=13&season1=2012&ind=0), [ vs R](http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=1&season=2012&month=14&season1=2012&ind=0), [ Home](http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=1&season=2012&month=15&season1=2012&ind=0), [ Away](http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=1&season=2012&month=16&season1=2012&ind=0)  
+Pitchers: [ vs L](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=1&season=2012&month=13&season1=2012&ind=0) , [ vs R](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=1&season=2012&month=14&season1=2012&ind=0), [ Home](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=1&season=2012&month=15&season1=2012&ind=0), [ Away](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=1&season=2012&month=16&season1=2012&ind=0)
+
+  * [](http://www.fangraphs.com/teams.aspx)
+
+    * **Team Batting Stats**
+
+[ 2012](http://www.fangraphs.com/teams.aspx?pos=all&stats=bat&lg=all&type=8&season=2012&month=0), [ 2011](http://www.fangraphs.com/teams.aspx?pos=all&stats=bat&lg=all&type=8&season=2011&month=0), [ 2010](http://www.fangraphs.com/teams.aspx?pos=all&stats=bat&lg=all&type=8&season=2010&month=0&season1=2010), [ 2009](http://www.fangraphs.com/teams.aspx?pos=all&lg=all&stats=bat&type=8&season=2009&month=0&season1=2009), [ 2008](http://www.fangraphs.com/teams.aspx?pos=all&stats=bat&lg=all&type=8&season=2008&month=0&season1=2008), [ 2007](http://www.fangraphs.com/teams.aspx?pos=all&stats=bat&lg=all&type=8&season=2007&month=0&season1=2007), [ 2006](http://www.fangraphs.com/teams.aspx?pos=all&stats=bat&lg=all&type=8&season=2006&month=0&season1=2006), [ 2005](http://www.fangraphs.com/teams.aspx?pos=all&stats=bat&lg=all&type=8&season=2005&month=0&season1=2005) ... 
+
+**Team Pitching Stats**
+
+[ 2012](http://www.fangraphs.com/teams.aspx?pos=all&stats=pit&lg=all&type=8&season=2012&month=0&season1=2012), [ 2011](http://www.fangraphs.com/teams.aspx?pos=all&stats=pit&lg=all&type=8&season=2011&month=0&season1=2011), [ 2010](http://www.fangraphs.com/teams.aspx?pos=all&lg=all&stats=pit&type=8&season=2010&month=0&season1=2010), [ 2009](http://www.fangraphs.com/teams.aspx?pos=all&stats=pit&lg=all&type=8&season=2009&month=0&season1=2009), [ 2008](http://www.fangraphs.com/teams.aspx?pos=all&lg=all&stats=pit&type=8&season=2008&month=0&season1=2008), [ 2007](http://www.fangraphs.com/teams.aspx?pos=all&lg=all&stats=pit&type=8&season=2007&month=0&season1=2007), [ 2006](http://www.fangraphs.com/teams.aspx?pos=all&lg=all&stats=pit&type=8&season=2006&month=0&season1=2006), [ 2005](http://www.fangraphs.com/teams.aspx?pos=all&lg=all&stats=pit&type=8&season=2005&month=0&season1=2005) ... 
+
+  * [](http://www.fangraphs.com/qa)
+  * [](http://www.fangraphs.com/library/)
+
+    * **Batting Stats**
+
+[wOBA](http://www.fangraphs.com/library/index.php/offense/woba/), [ wRC+](http://www.fangraphs.com/library/index.php/offense/wrc/), [ISO](http://www.fangraphs.com/library/index.php/offense/iso/), [K% & BB%](http://www.fangraphs.com/library/index.php/offense/rate-stats/), [more...](http://www.fangraphs.com/library/index.php/offense/)
+
+ **Pitching Stats**
+
+[FIP](http://www.fangraphs.com/library/index.php/pitching/fip/), [ xFIP](http://www.fangraphs.com/library/index.php/pitching/xfip/), [BABIP](http://www.fangraphs.com/library/index.php/pitching/babip/), [K/9 & BB/9](http://www.fangraphs.com/library/index.php/pitching/rate-stats/), [more...](http://www.fangraphs.com/library/index.php/pitching/)
+
+ **Defensive Stats**
+
+[UZR Primer](http://www.fangraphs.com/blogs/index.php/the-fangraphs-uzr-primer/), [DRS](http://www.fangraphs.com/library/index.php/defense/drs/), [ FSR](http://www.fangraphs.com/library/index.php/defense/fsr/), [TZ & TZL](http://www.fangraphs.com/library/index.php/defense/tz-tzl/), [more...](http://www.fangraphs.com/library/index.php/defense/)
+
+ **More**
+
+[WAR](http://www.fangraphs.com/library/index.php/misc/war/), [ UBR Primer](http://www.fangraphs.com/blogs/index.php/ultimate-base-running-primer/), [WPA](http://www.fangraphs.com/library/index.php/misc/wpa/), [LI](http://www.fangraphs.com/library/index.php/misc/li/), [ Clutch](http://www.fangraphs.com/library/index.php/misc/clutch/)
+
+ **Guts!**
+
+[Seasonal Constants](http://www.fangraphs.com/guts.aspx?type=cn)  
+[Park Factors](http://www.fangraphs.com/guts.aspx?type=pf&teamid=0&season=2011)  
+[Park Factors by Handedness](http://www.fangraphs.com/guts.aspx?type=pfh&teamid=0&season=2011)
+
+
+  
+  
+  
+
 
 **What This Privacy Policy Covers**
 
