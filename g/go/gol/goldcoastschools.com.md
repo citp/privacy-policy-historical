@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the goldcoastschools.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123185032id_/http%3A//goldcoastschools.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldcoastschools.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626064513id_/http%3A//www.goldcoastschools.com/privacy.php) for the most accurate reproduction.*
 
 # Gold Coast Professional Schools Respects Your Privacy
 
 | 
 
-[Home](https://web.archive.org/web/20111123185032id_/http%3A//goldcoastschools.com/index.php) » Privacy Policy
+[Home](https://web.archive.org/web/20120626064513id_/http%3A//www.goldcoastschools.com/index.php) » Privacy Policy
 
 **Information Collection and Use**  
-Gold Coast Professional Schools,inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Gold Coast Professional Schools collects information from our users at several different points on our website.
+Gold Coast Professional Schools,inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Gold Coast Professional Schools collects information from our users at several different points on our website. 
 
 **Registration**  
 In order to use this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but encouraged so we can provide a more personalized experience on our site. 
 
   
-**Order**   
-We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+**Order**  
+We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
 
   
 **Cookies**  
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. Gold Coast currently does not use cookies.
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. Gold Coast currently does not use cookies. 
 
   
 **Log Files**  
@@ -38,14 +38,14 @@ If a user wishes to subscribe to our newsletter, we ask for contact information 
 
 **  
 Surveys & Contests **  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
   
 **Tell-A-Friend**  
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Gold Coast Professional Schools will automatically send the friend a one-time email inviting them to visit the site. Gold Coast Professional Schools stores this information for the sole purpose of sending this one-time email. The friend may contact Gold Coast Professional Schools at remove@goldcoastschoolsinc.com to request the removal of this information from their database. 
 
   
-**Security**   
+**Security**  
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. If you have any questions about the security at our website, you can send an email to [security@goldcoastschools.com ](mailto:security@goldcoastschools.com%20)
 
 **  
