@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the thearticleplace.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202213801id_/http%3A//www.thearticleplace.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearticleplace.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626195102id_/http%3A//www.thearticleplace.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Article Directory
 
 **What information do we collect?**
 
-We collect information from you when you register on our site. 
+We collect information from you when you register on our site.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 ; To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
 **Do we use cookies?**
 
@@ -39,7 +39,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
 
 **Childrens Online Privacy Protection Act Compliance**
 
@@ -55,6 +55,6 @@ By using our site, you consent to our [online privacy policy](http://www.freepri
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
 www.thearticleplace.com
