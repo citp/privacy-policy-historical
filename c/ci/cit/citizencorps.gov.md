@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizencorps.gov privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220092719id_/http%3A//citizencorps.gov/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizencorps.gov privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626065531id_/https%3A//www.citizencorps.gov/privacy.shtm) for the most accurate reproduction.*
 
 # Citizen Corps : Citizen Corps Viewer Privacy and Security Policy
 
@@ -26,7 +26,7 @@ If you choose to provide us with personal information by sending an e-mail or by
 
 The information you provide is strictly not given to any private company or organization or to any private persons. This site also does not collect or use personal information for commercial marketing.
 
-And once again, we will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us. For more information on the privacy act policy on the Citizen Corps individual database system of records, please read our [Federal Register Notice](http://www.citizencorps.gov/news/fr/).
+And once again, we will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us. For more information on the privacy act policy on the Citizen Corps individual database system of records, please read our [Federal Register Notice](https://web.archive.org/fr.shtm "Go to Federal Register Notice").
 
 ## Links to Other Sites
 
