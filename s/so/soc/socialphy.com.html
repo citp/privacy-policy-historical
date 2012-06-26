@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the socialphy.com privacy policy that was archived on 2011-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219052800id_/http%3A//www.socialphy.com/data-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the socialphy.com privacy policy that was archived on 2012-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626024615id_/http%3A//www.socialphy.com/data-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head profile="http://purl.org/NET/erdf/profile">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,7 +8,7 @@
 				<title>Socialphy - Collective Intelligence</title>
 		
 		<link rel="shortcut icon" href="http://of1.net/images/favicon.ico?1.0" type="image/x-icon">
-		<link type="text/css" href="http://of1.net/img/style.css?1.0.0" rel="stylesheet">
+		<link type="text/css" href="http://of1.net/img/style.css?1.0.3" rel="stylesheet">
 		<link type="text/css" href="http://of1.net/img/ui.css?0.1" rel="stylesheet">
 		<link rel="image_src" href="http://of1.net/img/thumbt-en-v5.gif"> 
 		<link rel="apple-touch-icon" href="http://of1.net//img/apple-icon.png"> 
@@ -17,13 +17,13 @@
 		
 		<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
 		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.15/jquery-ui.min.js" type="text/javascript"></script>
-		<script src="http://of1.net/js/acciones.js?7.0.8" type="text/javascript"></script>
+		<script src="http://of1.net/js/acciones.js?7.1.2" type="text/javascript"></script>
 
 		
 		<script type="text/javascript">
 		var global_data = { user: '', user_key: '', postid: '', comid: '', temaid: '', img: 'http://of1.net/' };
 		$(document).ready(function(){
-			timelib.current = 1324272491;
+			timelib.current = 1340678786;
 			timelib.upd();
 		});
 		</script>
@@ -64,6 +64,16 @@
 
 </script>	</head>
 	<body>
+		<!-- Compete XL Code for socialphy.com -->
+		<script type="text/javascript">
+		__compete_code = 'e51c8d5b1938d4ef3fbfb8cfb9329cee';
+		/* Set control variables below this line. */ 
+		</script>
+		<script type="text/javascript" src="//c.compete.com/bootstrap/s/e51c8d5b1938d4ef3fbfb8cfb9329cee/socialphy-com/bootstrap.js"></script>
+		<noscript>
+		    <img width="1" height="1" src="https://ssl-socialphy-com-e51c8d.c-col.com"/>
+		</noscript>
+		<noscript></noscript>
 		<div id="fb-root"></div>
 						<script type="text/javascript">window.fbAsyncInit=facebook_ready;(function(){var e=document.createElement('script');e.src=document.location.protocol+'//connect.facebook.net/en_US/all.js';e.async=true;document.getElementById('fb-root').appendChild(e)}())</script>
 
@@ -108,7 +118,7 @@
 							</div>
 		</div>
 				<div id="main" class="clearfix">		
-								<div id="main-col">
+										<div id="main-col">
 	<div id="full-col">
 		<div class="ct-data">
 <div class="title clearfix">
@@ -369,7 +379,112 @@
 				<img src="//pixel.quantserve.com/pixel/p-133jjJ5cwuu7I.gif" border="0" height="1" width="1" alt="Quantcast"/>
 			</div>
 		</noscript>
-						<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+						<script type="text/javascript">
+var layerLoginInterval;
+function layerLoginAction() {
+	var user = $.trim($("#nickfast").val()),
+		pass = $.trim($("#passfast").val());
+	$("#nickfast, #passfast").attr("disabled", true).addClass("")
+	if (user && pass) {
+		$.ajax({
+			type: "post",
+			url: "/registro/login-submit.php",
+			data: {
+				nick: user,
+				pass: pass
+			},
+			dataType: "json",
+			success: function(r) {
+				if (r.status == 0) {
+					location.href = "/login";
+				} else {
+					window.location.reload();
+				}
+			}
+		})
+	}
+}
+function layerVideoShow() {
+	$('<iframe width="357" height="205" src="http://www.youtube.com/embed/videoseries?list=PL65407FD8C9011BD3&autoplay=1&playnext=0&controls=0" frameborder="0" allowfullscreen></iframe>').appendTo("#layer-login");
+	$("#showVideo").attr("onclick");
+}
+function closeLayerLogin() {
+	createCookie('dontBother', 1, 7);
+	$("#layer-login").remove();
+	clearInterval(layerLoginInterval);
+}
+function layerLogin() {
+	closeLayerLogin();
+	$('<div id="layer-login"><div style="width:100%" id="black-overlay"></div><img usemap="#layer-login-map" style="display:none" src="http://of1.net/img/layer.png" /><input type="text" id="nickfast" /><input type="password" id="passfast" />').appendTo('body');
+	$("#layer-login img").load(function(){ $(this).show(); });
+	$(window).keyup(function(e){
+		if (e.keyCode == 27) {
+			closeLayerLogin();
+		}
+	});
+	$("#nickfast, #passfast").keyup(function(e){
+		if (e.keyCode == 13) {
+			layerLoginAction();
+		}
+	});
+	layerLoginInterval = setInterval(function(){
+		var object = $("#layer-login img");
+		object.css({
+			zIndex: 9996,
+			position: "absolute",
+			top: (($(window).height() - object.outerHeight()) / 2) + $(window).scrollTop() + "px",
+			left: (($(window).width() - object.outerWidth()) / 2) + $(window).scrollLeft() + "px"
+		});
+		var video = $('#layer-login iframe');
+		if (video.length) {
+			video.css({
+				zIndex: 9997,
+				position: "absolute",
+				top: parseInt(object.css("top")) + 235 + "px",
+				left: parseInt(object.css("left")) + 115 + "px"
+			});
+		}
+		$("#nickfast").css({
+			zIndex: 9998,
+			position: "absolute",
+			top: parseInt(object.css("top")) + 492 + "px",
+			left: parseInt(object.css("left")) + 196 + "px",
+			background: "transparent",
+			border: "none",
+			width: "107px"
+		});
+		$("#passfast").css({
+			zIndex: 9998,
+			position: "absolute",
+			top: parseInt(object.css("top")) + 492 + "px",
+			left: parseInt(object.css("left")) + 320 + "px",
+			background: "transparent",
+			border: "none",
+			width: "107px"
+		});
+		$("#black-overlay").css({
+			zIndex: 9990,
+			position: "absolute",
+			top: $(window).scrollTop(),
+			left: 0,
+			background: "#000",
+			opacity: "0.5",
+			height: $(window).height()
+		});
+	}, 250);
+}
+</script>
+<map id="layer-login-map" name="layer-login-map">
+<area shape="rect" coords="493,4,523,34" onclick="$('#layer-login').remove()" alt="" title="">
+<area shape="rect" coords="215,120,364,164" href="/signup" alt="" title="">
+<area shape="rect" coords="201,171,377,217" href="/signup#facebook" alt="" title="">
+<area shape="rect" coords="116,475,150,510" href="/login#facebook" alt="" title="">
+<area shape="rect" coords="436,477,470,512" onclick="layerLoginAction()" alt="" title="">
+<area shape="rect" coords="114,234,470,438" id="showVideo" onclick="layerVideoShow()" alt="" title="">
+<area title="" alt="" href="/password" coords="315,515,420,525" shape="rect">
+</map>
+<script type="text/javascript"> //layerLogin() </script>
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 	
 
 
