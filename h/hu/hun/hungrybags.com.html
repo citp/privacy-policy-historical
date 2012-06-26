@@ -1,1141 +1,404 @@
-<!--The following is the downloaded HTML source of the hungrybags.com privacy policy that was archived on 2011-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007175346id_/http%3A//www.hungrybags.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hungrybags.com privacy policy that was archived on 2012-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626171029id_/http%3A//www.hungrybags.com/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><meta http-equiv="X-UA-Compatible" content="IE=Edge">
-
-<link rel="shortcut icon" type="http://www.hungrybags.com/image/x-icon" href="http://www.hungrybags.com/favicon.ico">
-<meta property="fb:app_id" content="192746657429595">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy Policy - HungryBags</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="fb:app_id" content="192746657429595">
+<meta name="keywords" content="hungry bags private policy">
+<meta name="description" content="At Hungry Bags, we recognize that privacy of our customers. We have the policy not to disclose visitorâ€™s personal information with any third parties who are not affiliated with us.">
+<link rel="shortcut icon" type="http://www.hungrybags.com/image/x-icon" href="http://www.hungrybags.com/images/favicon.ico">
 
-<meta name="keywords" content="hungrybags private policy">
-<meta name="description" content="At Hungry Bags, we recognize that privacy of our customers. We have the policy not to disclose visitorâ€™s personal information with any third parties who are not affiliated with us."><title>Privacy Policy â€“ HungryBags</title><link rel="stylesheet" type="text/css" href="http://www.hungrybags.com/css/style_new.css">
-<link rel="stylesheet" type="text/css" href="http://www.hungrybags.com/css/jquery.autocomplete.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.hungrybags.com/js/jquery-1.4.3.min.js"></script>
-<!--<script type="text/javascript" src="http://www.hungrybags.com/js/jquery.min.js"></script>-->
-<script type="text/javascript" src="http://www.hungrybags.com/js/jquery.ui.widget.js"></script>
-<script type="text/javascript" src="http://www.hungrybags.com/js/jquery.smoothDivScroll-1.1-min.js"></script>
-<script type="text/javascript" src="http://www.hungrybags.com/js/nav_menu_new.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.hungrybags.com/css/master.css">
+
+<link rel="stylesheet" type="text/css" href="http://www.hungrybags.com/css/theme_grey.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.hungrybags.com/js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="http://www.hungrybags.com/js/navigationmenu.js"></script>
+<script type="text/javascript" src="http://www.hungrybags.com/js/general_function.js"></script>
+<script type="text/javascript" src="http://www.hungrybags.com/js/misc.js"></script>
 <script type="text/javascript" src="http://www.hungrybags.com/js/jquery.autocomplete.js"></script>
-<script type="text/javascript" src="http://www.hungrybags.com/js/blinker.js"></script>
-<script type="text/javascript" src="http://www.hungrybags.com/js/common.js"></script>
-<!--[if lte IE 7]>
-<script type="text/javascript" src="http://www.hungrybags.com/js/IE_nav_menu.js"></script>
-<![Endif]-->
-<!--<script type="text/javascript" src="http://www.hungrybags.com/js/wp_main.js"></script>-->
-<!--[if lt IE 7.]>
-<style type="text/css">
-img, div, a, input { behavior: url(../iepngfix.htc) }
-</style> 
-<script type="text/javascript" src="http://www.hungrybags.com/iepngfix_tilebg.js"></script> 
-<![endif]-->
-<meta http-equiv="X-UA-Compatible" content="IE=9"><script type="text/javascript">
-$(document).ready(function() {	
-	//Show Banner
-	$(".main_image .desc").show(); //Show Banner
-	$(".main_image .block").animate({ opacity: 1.00 }, 1 ); //Set Opacity
-	//Click and Hover events for thumbnail list
-	$(".image_thumb ul li:first").addClass("active"); 
-	$(".image_thumb ul li").click(function(){ 
-		//Set Variables
-		var imgAlt = $(this).find("img").attr("alt"); //Get Alt Tag of Image
-		var imgTitle = $(this).find("a").attr("href"); //Get Main Image URL
-		var imgDesc = $(this).find(".block").html(); 	//Get HTML of block
-		var imgDescHeight = $(".main_image").find(".block").height();	//Calculate height of block	
-
-		if ($(this).is(".active")) {  //If it"s already active, then...
-			return false; // Don"t click through
-		} else {
-			//Animate the Teaser				
-			$(".main_image .block").animate({ opacity: 0, marginBottom: -imgDescHeight }, 0 , function() {
-				$(".main_image .block").html(imgDesc).animate({ opacity: 1.00,	marginBottom: "0" }, 3000 );
-				$(".main_image img").attr({ src: imgTitle , alt: imgAlt});
-			});
-		}
-		
-		$(".image_thumb ul li").removeClass("active"); //Remove class of "active" on all lists
-		$(this).addClass("active");  //add class of "active" on this list only
-		return false;
-
-	}) .hover(function(){
-		$(this).addClass("hover");
-		}, function() {
-		$(this).removeClass("hover");
-	});
-			
-	//Toggle Teaser
-	$("a.collapse").click(function(){
-		$(".main_image .block").slideToggle();
-		$("a.collapse").toggleClass("show");
-	});
-	
-});//Close Function
-
-$(document).ready(function() {
-	$("#login_popup").click(function(){
-	   $("#loginpopup").css("display","block");
-
-	})
-	
-$("#register_here").click(function(){
-	   $("#registerpopup").css("display","block");
-
-	})	
-
-    $("#loginpopup_close").click(function(){
-       $("#loginpopup").css("display","none");
-     })
-});
+<link rel="stylesheet" type="text/css" href="http://www.hungrybags.com/css/jquery.autocomplete.css">
+<script type="text/javascript"> var GLOBAL_PATHS = 'http://www.hungrybags.com/'; </script>
+<!--[if IE 6]>	
+<link rel="stylesheet" type="text/css" href="http://www.hungrybags.com/css/master_IE6.css"/>
+<script src="http://www.hungrybags.com/js/DD_belatedPNG.js"></script>
+<script type="text/javascript">
+  /* EXAMPLE */
+  DD_belatedPNG.fix('.contactno, .searchtextbox, .quick_links, .Hungrylogo, .visa, .mastercard, .amrican, .facebook, .twitter, .youtube, .blog, .left_slide, .right_slide, .writemail, .close_button, .quotes_left, .quotes_right, .pdf_icon, .star_rating1, .star_rating, .Hungrylogo, .rss_feed, .plussign, .close_button1, .uparrow, .downarrow, .travel_guide, .fligts, .hotels, .packages, .flights_icon, .call_icon, .user_profile, .comment, .write, .left_dir, .right_dir, .zoom_icon, .print_icon, .pdfback_icon, .cancelback_icon, .booking_list, .facebook, .left_slide, .right_slide, .addhead, .addname, .addmob, .addemail, .addquery, .adddesc, .addpack');
+  /* string argument can be any CSS selector */
+  /* .png_bg example is unnecessary */
+  /* change it to what suits you! */
 </script>
+<![endif]--> 
+
+<meta http-equiv="X-UA-Compatible" content="IE=9">
 </head>
-<body class="colHdr" onload="">
-<!--[if !IE]><!-->
-<div id="transparent_window" style="position:fixed; display:none; *display:none; !important; _position:absolute; top:0px; left:0px; z-index:1000; background:#000000; opacity:0.8; filter:alpha(opacity=80); width:100%; height:100%; _height:1980px;"></div>
-<!--<![endif]-->
-
-<!--[if gt IE 7]>
-<div id="transparent_window" style="position:fixed; display:none; *display:none; !important; _position:absolute; top:0px; left:0px; z-index:1000; background:#000000; opacity:0.8; filter:alpha(opacity=80); width:100%; height:100%; _height:1980px;"></div>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<div id="transparent_window" style="position:fixed; display:none; top:0px; left:0px; z-index:1000; background:#000000; opacity:0.8; filter:alpha(opacity=80); width:1px; height:1px;"></div>
-<![endif]-->
-
-<div id="transparent_window" style="position:fixed; display:none; _position:absolute; top:0px; left:0px; z-index:1000; background:#000000; opacity:0.8; filter:alpha(opacity=80); width:100%; height:100%; _height:1980px;"></div>
-<div id="recommendpopup" style="position:fixed; _position:absolute; z-index:50000; width:500px; height:auto; display:none; background:#3c5a8c; padding:10px;">
-<div style="background:#FFFFFF;">
-<div style="right:4px; top:14px;"><img src="http://www.hungrybags.com/images/close-icon_square1.gif" alt="close" width="14" height="14" class="recommendpopup_close1" style="position:absolute; right:8px; top:8px; cursor:pointer;"></div>
-<div style="height:auto; color:#000000; background:#FFFFFF; padding:25px;">
-<div style="width:500px;  font-size:14px; padding-bottom:35px;"><strong>Recommend this page</strong></div>
-<form name="recomend_form" id="recomend_form" method="post" action="http://www.hungrybags.com/recommend_this_page.php" onsubmit="return Recommend_this()">
-<input type="hidden" name="url" id="url" value="http://www.hungrybags.com/privacy_policy.php">
- <div style="width:70px; margin-bottom:5px; float:left; font-size:12px; ">Your Name:</div>
- <div style="width:380px; margin-bottom:5px; float:left;">
- <input type="text" name="your_name" id="your_name" value="" style="width:300px;">
- </div>
- <div style="width:70px; margin-bottom:5px; float:left; font-size:12px; ">Your Email:</div>
- <div style="width:380px; margin-bottom:5px; float:left;">
- <input type="text" name="ur_email" id="ur_email" value="" style="width:300px;">
- </div>
- <div style="width:70px; margin-bottom:5px; float:left; font-size:12px; ">Email To:</div>
- <div style="width:380px; margin-bottom:5px; float:left;">
- <textarea name="emails" id="emails" cols="12" rows="4" style="width:300px;"></textarea>
- </div>
-
- <div style="width:70px; float:left; margin-bottom:5px;">&nbsp;</div>
- <div style="width:380px; float:left; margin-bottom:5px; font-size:12px; ">(you can enter multiple email address separated by , or ;)</div>
- <div style="width:70px; float:left; ">&nbsp;</div>
- <div style="width:380px; float:left; "><input type="submit" name="submit" class="btn4" value="Recommend"></div>
- </form>
- <div style="clear:both;"></div>
- </div>
-  <div style="clear:both;"></div>
-  </div>
- </div>
- 
- <div id="recommendpopup_ajax" style="position:fixed; _position:absolute; z-index:50000; width:500px; height:auto; display:none; background:#3c5a8c; padding:10px;">
-<div style="background:#FFFFFF;">
-<div style="right:4px; top:14px;"><img src="http://www.hungrybags.com/images/close-icon_square1.gif" alt="close" width="14" height="14" class="recommendpopup_closefriend" style="position:absolute; right:8px; top:8px; cursor:pointer;" onclick="recommendpopup_closefriend();"></div>
-<div style="height:auto; color:#000000; background:#FFFFFF; padding:25px;">
-<div style="width:500px;  font-size:14px; padding-bottom:35px;"><strong>Recommend this page</strong></div>
-<form name="recomend_form_ajax" id="recomend_form_ajax" action="">
-<input type="hidden" name="url" id="url" value="http://www.hungrybags.com/privacy_policy.php">
- <div style="width:70px; margin-bottom:5px; float:left; font-size:12px; ">Your Name:</div>
- <div style="width:380px; margin-bottom:5px; float:left;">
- <input type="text" name="your_name" id="your_name" value="" style="width:300px;">
- </div>
- <div style="width:70px; margin-bottom:5px; float:left; font-size:12px; ">Your Email:</div>
- <div style="width:380px; margin-bottom:5px; float:left;">
- <input type="text" name="ur_email" id="ur_email" value="" style="width:300px;">
- </div>
- <div style="width:70px; margin-bottom:5px; float:left; font-size:12px; ">Email To:</div>
- <div style="width:380px; margin-bottom:5px; float:left;">
- <textarea name="emails" id="emails" cols="12" rows="4" style="width:300px;"></textarea>
- </div>
-
- <div style="width:70px; float:left; margin-bottom:5px;">&nbsp;</div>
- <div style="width:380px; float:left; margin-bottom:5px; font-size:12px; ">(you can enter multiple email address separated by , or ;)</div>
- <div style="width:70px; float:left; ">&nbsp;</div>
- <div style="width:380px; float:left; "><input type="button" name="submit" class="btn4" value="Recommend" onclick="return Recommend_this_ajax();"></div>
- </form>
- <div style="clear:both;"></div>
- </div>
-  <div style="clear:both;"></div>
-  </div>
- </div>
- 
- 
- 
-
-<div id="queryquick" style="display:none;"><img src="images/loader.gif" alt="load" id="quick_load" width="14" height="14" style="display:none;"> </div>
-<div id="quick_contact" class="all_popupborder_color" style="position:fixed; _position:absolute; z-index:50000; width:500px; height:auto; display:none; padding:10px;">
-<div style="background:#FFFFFF;">
-<div style="right:4px; top:14px;"><img src="http://www.hungrybags.com/images/close-icon_square1.gif" alt="close" width="14" height="14" class="quick_contact_close1" style="position:absolute; right:8px; top:8px; cursor:pointer;"></div>
-<div style="height:auto; color:#000000; background:#FFFFFF; padding:25px;">
-<div style="width:450px;  font-size:14px; padding-bottom:20px; text-align:left;"><strong>Quick Contact Form</strong> </div>
-<form name="qcontact_form" id="qcontact_form" method="post" action="">
-    <input type="hidden" name="url" id="url" value="http://www.hungrybags.com/privacy_policy.php">
-    <div class="set_width111" style="text-align:left; width:140px;">Your Name<span style="color:#FF0000;">*</span></div>
-    <div class="float_left111"><input type="text" name="name" id="name" size="40"></div>
-    <div class="set_width111" style="text-align:left; width:140px;">Your Contact Number<span style="color:#FF0000;">*</span></div>
-    <div class="float_left111"><input type="text" name="contact_no" id="contact_no" size="40"></div>
-    <div class="set_width111" style="text-align:left; width:140px;">Your Email<span style="color:#FF0000;">*</span></div>
-    <div class="float_left111"><input type="text" name="email" id="email" size="40"></div>
-    <div class="set_width111" style="text-align:left; width:140px;">Verification Code<span style="color:#FF0000;">*</span></div>
-    <div class="float_left111"><input type="text" name="qtxtInput" id="qtxtInput" size="40" maxlength="6" class="required" autocomplete="off">
-    <div style="width:325px; *width:332px; float:left;  text-align:left;">
-    <input type="hidden" id="qtxtCaptcha1" name="qtxtCaptcha1">
-    <input type="text" readonly="readonly" id="qtxtCaptcha" name="qtxtCaptcha" style="background-image:url(http://www.hungrybags.com/1.jpg); text-align:center; border:none; font-weight:bold; font-size:18px; width:160px; height:26px; margin-top:5px;">
-	<input type="button" name="btnrefresh" id="btnrefresh" value="Refresh" style="width:70px;" onclick="DrawCaptcha_qcontact();">
-	</div>
-    </div>
-    <div style="width:450px; float:left; margin-bottom:5px; font-size:12px; text-align:left;">Message<span style="color:#FF0000;">*</span></div>
-    <div style="width:450px; float:left; margin-bottom:5px; text-align:left;"><textarea name="message" id="message" rows="6" cols="70" style="width:400px;"></textarea></div>
-     
-     <div class="button_center"><input type="button" name="contactus" class="btn4" value="Contact Us" onclick="qcontact_validation();"></div>
- </form>
-
-<div style="clear:both;"></div>
-</div>
-<div style="clear:both;"></div>
-</div>
-</div>
-
-
-<script type="text/javascript">
-$(document).ready(function(){
-var heig1 = $(window).height();
-var widt1 = $(window).width();
-var divheight1 = $("#loginwindowraj").height();
-var divwidth1 = $("#loginwindowraj").width();
-var top_hei1= (heig1-divheight1)/2;
-var left_wid1 = (widt1-divwidth1)/2;
-$("#loginwindowraj").css("top",top_hei1+"px");
-$("#loginwindowraj").css("left",left_wid1+"px");
-})
-</script>
-
-<script type="text/javascript">
-$(document).ready(function(){
-var heig = $(window).height();
-var widt = $(window).width();
-var divheight = $("#recommendpopup").height();
-var divwidth = $("#recommendpopup").width();
-var top_hei= (heig-divheight)/2;
-var left_wid = (widt-divwidth)/2;
-$("#recommendpopup").css("top",top_hei+"px");
-$("#recommendpopup").css("left",left_wid+"px");
-})
-</script>
-
-<script type="text/javascript">
-$(document).ready(function(){
-var heig = $(window).height();
-var widt = $(window).width();
-var divheight = $("#recommendpopup_ajax").height();
-var divwidth = $("#recommendpopup_ajax").width();
-var top_hei= (heig-divheight)/2;
-var left_wid = (widt-divwidth)/2;
-$("#recommendpopup_ajax").css("top",top_hei+"px");
-$("#recommendpopup_ajax").css("left",left_wid+"px");
-})
-</script>
-
-<script type="text/javascript">
-$(document).ready(function(){
-var heig = $(window).height();
-var widt = $(window).width();
-var divheight = $("#quick_contact").height();
-var divwidth = $("#quick_contact").width();
-var top_hei= (heig-divheight)/2;
-var left_wid = (widt-divwidth)/2;
-$("#quick_contact").css("top",top_hei+"px");
-$("#quick_contact").css("left",left_wid+"px");
-})
-</script>
-
-
-<div id="header">
-<div style="height:75%;">
-<div class="logo">
-<a href="http://www.hungrybags.com/" class="logo_link"><img src="http://www.hungrybags.com/images/logo.jpg" alt="logo"></a>
-</div>
-<div class="social_networking">
-<span>You may find us below</span><br>
-<ul class="networking_likes" style="margin:5px 0px 0px 0px;">
-<li class="site_likes"><a target="_blank" title="Twitter" href="http://twitter.com/hungrybags" class="twitter likes"></a></li>
-<li class="site_likes"><a target="_blank" title="Facebook" href="http://www.facebook.com/hungrybags" class="facebook likes"></a></li>
-<li class="site_likes"><a target="_blank" title="Youtube" href="http://www.youtube.com/hungrybags" class="youtube likes"></a></li>
-<li class="site_likes"><a target="_blank" title="blogs" href="http://blogs.hungrybags.com/" class="stumbleupon likes"></a></li>
+<body>
+<div class="container" id="mainbody">
+<div class="webcontent ft_lt">
+<div class="header">
+<div class="col35per ft_lt"><a id="hungryHeader" href="http://www.hungrybags.com/"><img src="http://www.hungrybags.com/images/logo.jpg" class="logo"></a></div>
+<div class="col65per ft_rt">
+<div class="headermenu ft_lt">
+<ul class="ft_rt">
+<li class="ft_lt" style="width:90px;">&nbsp;</li><li class="ft_lt"><a href="javascript:void(0);" id="login" name="Login_popup" onclick="select_list1(this.id)">Sign in</a></li>
+			 <li class="ft_lt"><a href="http://www.hungrybags.com/register.html">Register</a></li><li class="ft_lt"><a href="http://www.hungrybags.com/customer_support.php">Customer Support</a></li>
 </ul>
-<div class="contact_del">
-<ul style="list-style:none; margin:6px 0px 0px 0px; padding:0px;">
-<li id="india_contact">(011 - 439 55555)</li>
-</ul>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="searchbox">
+<div class="contactno ft_lt col50per">
+    <span class="fnt14"><strong>Call Us :</strong></span><span class="fnt14"><strong> +91-&nbsp;11-&nbsp;43955555 / 49655555</strong></span>
+</div>
+<div class="search ft_rt">
+<!--<input type="text" class="searchtextbox"/>
+<input type="submit" class="button button_theme" value="Search" style="padding:3px 5px;"/>-->&nbsp;
+<!-- Theme Colors -->
+<!-- 
+    <form name="bluecss" method="post" action="" class="ft_lt marleft10px">
+        <input type="submit" style="background:#98d1eb; width:30px; height:30px; border:none; cursor:pointer" value=""/>
+        <input type="hidden" name="theme" value="theme_blue.css"/>
+    </form>
+    <form name="greycss" method="post" action="" class="ft_lt marleft10px">
+        <input type="submit" style="background:#cccccc; width:30px; height:30px; border:none; cursor:pointer" value=""/>
+        <input type="hidden" name="theme" value="theme_grey.css"/>
+    </form>
+    <form name="greycss" method="post" action="" class="ft_lt marleft10px">
+        <input type="submit" style="background:#faab12; width:30px; height:30px; border:none; cursor:pointer" value=""/>
+        <input type="hidden" name="theme" value="theme_orange.css"/>
+    </form>
+-->
+<!-- Theme Colors -->
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
 </div>
 </div>
-</div>
-<div style="clear:both;"></div>
-<div class="login_register"><span id="account" style="position:relative; z-index:800;"><a href="javascript:void(0)" id="index_login">Login</a> | <a href="http://www.hungrybags.com/register.html">Register</a></span></div>
-</div>
-<!-- Nav menu start -->
 
-<div class="nav_menu">
+<div class="nav_menu backgroud_navmenu">
 <ul>
-<li class="nav_link active_nav_link"><a href="http://www.hungrybags.com/" class="main_menu">Home</a></li>
-<li class="nav_link"><a href="javascript:void(0)" class="main_menu" id="services11">Services</a>
-<ul class="sub_menu_ul" id="services_submenu">
-<li class="sub_menu"><a href="http://www.hungrybags.com/flights/" class="sub_menu_a">Flights</a></li>
-<li class="sub_menu"><a href="http://www.hungrybags.com/hotels/" class="sub_menu_a">Hotels</a></li>
-<li class="sub_menu"><a href="http://www.hungrybags.com/cruises.php" class="sub_menu_a">Cruise</a></li>
-<!--<li class="sub_menu"><a href="http://www.hungrybags.com/Enquiry_individual_hotel_booking.php" class="sub_menu_a">Car Rental</a></li>
-<li class="sub_menu"><a href="http://www.hungrybags.com/Enquiry_individual_hotel_booking.php" class="sub_menu_a">Vacation Rental</a></li>
-<li class="sub_menu"><a href="http://www.hungrybags.com/Enquiry_individual_hotel_booking.php" class="sub_menu_a">Charted Plane</a></li>-->
-</ul>
-</li>
-<li class="nav_link"><a href="javascript:void(0)" class="main_menu" id="business_listing11">Business Listing</a>
-<ul class="sub_menu_ul" id="business_listing_submenu">
-<li class="sub_menu"><a href="http://www.hungrybags.com/business_listing_how_touse.php?type=hotels" class="sub_menu_a">Hotels</a></li>
-<li class="sub_menu"><a href="http://www.hungrybags.com/business_listing_how_touse.php?type=vacation" class="sub_menu_a">Vacation Rentals</a></li>
-<li class="sub_menu"><a href="http://www.hungrybags.com/business_listing_how_touse.php?type=car_rental" class="sub_menu_a">Car Rentals</a></li>
-<li class="sub_menu"><a href="http://www.hungrybags.com/business_listing_how_touse.php?type=restaurants" class="sub_menu_a">Restaurants</a></li>
-<li class="sub_menu"><a href="http://www.hungrybags.com/business_listing_how_touse.php?type=pubs" class="sub_menu_a">Pubs/Lounges</a></li>
-<li class="sub_menu"><a href="http://www.hungrybags.com/spa_writeup.html" class="sub_menu_a">Spas</a></li>
-</ul>
-</li>
-<li class="nav_link"><a href="javascript:void(0)" class="main_menu" id="write_upload11">Write/Upload</a>
-<ul class="sub_menu_ul" id="write_upload_submenu">
-<li class="sub_menu"><a href="http://blogs.hungrybags.com/" class="sub_menu_a">Hungry Blogs</a></li>
-<li class="sub_menu"><a href="http://www.hungrybags.com/upload_photo.php" class="sub_menu_a">Upload Photos</a></li>
-<li class="sub_menu"><a href="http://www.hungrybags.com/124/read/review.html" class="sub_menu_a">Read Reviews</a></li>
-<li class="sub_menu"><a href="http://www.hungrybags.com/write-city-reviews.html" class="sub_menu_a">Write Reviews</a></li>
-</ul>
-</li>
-<li class="nav_link"><a href="javascript:void(0)" class="main_menu" id="package">Packages</a>
-<ul class="sub_menu_ul" id="packages_submenu">
-<li class="sub_menu"><a href="http://www.hungrybags.com/vacation-packages/" class="sub_menu_a">Holiday Packages</a></li>
-<li class="sub_menu"><a href="http://www.hungrybags.com/inbound-tour-packages/" class="sub_menu_a">Inbound Packages</a></li>
-</ul>
-</li>
-<li class="nav_link"><a href="http://www.hungrybags.com/hot-deals/" class="main_menu">Hot Deals</a></li>
-<li class="nav_link"><a href="http://www.hungrybags.com/luxurytrains/" class="main_menu">Luxury Trains</a></li>
-<li class="nav_link"><a href="http://www.hungrybags.com/travel-destinations-guide/" class="main_menu">Travel Guide</a></li>
-<li class="nav_link"><a href="http://www.hungrybags.com/contactus_terms_conditions.php" class="main_menu">Contact us</a></li>
+<li class="nav_li ft_lt"><a href="http://www.hungrybags.com/" class="nav_a navgation_color navagation_border_color" style="background:"><strong>Home</strong></a></li>
+<li class="nav_li ft_lt"><a href="javascript:void(0)" class="nav_a navgation_color navagation_border_color" style="background:" onmouseover="show_submenu(1)" onmouseout="hide_submenu(1)"><strong>Services</strong></a>
+<ul class="submenu bordergrey1px box_shadow_grey backgroud_navmenu sub1" onmouseover="show_submenu(1)" onmouseout="hide_submenu(1)">
+<li class="sub_nav_li"><a href="http://www.hungrybags.com/flights/" class="sub_nav_a border_bottom_grey navgation_color"><strong>Flights</strong></a></li>
+<li class="sub_nav_li"><a href="http://www.hungrybags.com/hotels/" class="sub_nav_a border_bottom_grey navgation_color"><strong>Hotels</strong></a></li>
+<li class="sub_nav_li"><a href="http://www.hungrybags.com/cruise/" class="sub_nav_a border_bottom_grey navgation_color"><strong>Cruise</strong></a></li>
+<li class="sub_nav_li"><a href="http://www.hungrybags.com/business-travel/" class="sub_nav_a border_bottom_grey navgation_color"><strong>Corporate</strong></a></li>
 <li class="clear"></li>
 </ul>
+</li>
+<li class="nav_li ft_lt"><a href="http://www.hungrybags.com/business/add-your-business/" class="nav_a navgation_color navagation_border_color" style="background:"><strong>Business Listing</strong></a></li>
+<!--<li class="nav_li ft_lt"><a href="javascript:void(0)" class="nav_a navgation_color navagation_border_color" onmouseover="show_submenu(2)" onmouseout="hide_submenu(2)"><strong>Business Listing</strong></a></li>-->
+<li class="nav_li ft_lt relative"><a href="http://www.hungrybags.com/luxury-packages/" class="nav_a navgation_color navagation_border_color" style="background:"><strong>Luxury Packages</strong></a>
+<div class="absolute topminu18" style="left:50px;"><img src="http://www.hungrybags.com/images/newbutton.png" width="41" height="24"></div>
+</li>
+<!--<li class="nav_li ft_lt"><a href="javascript:void(0)" class="nav_a navgation_color navagation_border_color" style="background:" onmouseover="show_submenu(3)" onmouseout="hide_submenu(3)"><strong>Reviews</strong></a>
+<ul class="submenu bordergrey1px box_shadow_grey backgroud_navmenu sub3" onmouseover="show_submenu(3)" onmouseout="hide_submenu(3)">
+<li class="sub_nav_li"><a href="http://blogs.hungrybags.com/" class="sub_nav_a border_bottom_grey navgation_color"><strong>Hungry Blogs</strong></a></li>-->
+<!--<li class="sub_nav_li"><a href="http://www.hungrybags.com/upload_photo.php" class="sub_nav_a navgation_color"><strong>Upload Photos</strong></a></li>-->
+<!--<li class="sub_nav_li"><a href="http://www.hungrybags.com/reviews" class="sub_nav_a border_bottom_grey navgation_color"><strong>Reviews</strong></a></li>
+</ul>
+</li>-->
+<li class="nav_li ft_lt"><a href="javascript:void(0)" class="nav_a navgation_color navagation_border_color" style="background:" onmouseover="show_submenu(4)" onmouseout="hide_submenu(4)"><strong>Holidays</strong></a>
+<ul class="submenu bordergrey1px box_shadow_grey backgroud_navmenu sub4" onmouseover="show_submenu(4)" onmouseout="hide_submenu(4)">
+<li class="sub_nav_li">
+	<a href="http://www.hungrybags.com/vacation-packages/holidays-india/" class="sub_nav_a border_bottom_grey navgation_color"><strong>India Holidays</strong></a></li>
+<li class="sub_nav_li">
+	<a href="http://www.hungrybags.com/vacation-packages/holidays-international/" class="sub_nav_a border_bottom_grey navgation_color"><strong>International Holidays</strong></a></li>
+<li class="sub_nav_li"><a href="http://www.hungrybags.com/customize-packages/" class="sub_nav_a border_bottom_grey navgation_color"><strong>Niche Packages</strong></a></li>
+<li class="sub_nav_li"><a href="http://www.hungrybags.com/weekend-breaks/india/" class="sub_nav_a border_bottom_grey navgation_color"><strong>Weekend Packages</strong></a></li>
+<!--<li class="nav_li relative"><a href="customize-packages/" class="sub_nav_a border_bottom_grey navgation_color" onmouseover="show_submenu(9)" onmouseout="hide_submenu(9)"><strong>Weekend Packages</strong></a>
+<ul style="position:absolute; right:-187px; top:0px; display:none;" class="submenu1 bordergrey1px box_shadow_grey backgroud_navmenu sub9" onmouseover="show_submenu(9)" onmouseout="hide_submenu(9)">
+<li class="sub_nav_li">
+	<a href="weekend-breaks/india/" class="sub_nav_a border_bottom_grey navgation_color"><strong>India Weekend</strong></a></li>
+<li class="sub_nav_li">
+	<a href="weekend-breaks/international/" class="sub_nav_a border_bottom_grey navgation_color"><strong>International Weekend</strong></a></li>
+</ul>
+
+</li>-->
+<!--<li class="sub_nav_li"><a href="http://india.hungrybags.com/" class="sub_nav_a navgation_color"><strong>Inbound Packages</strong></a></li>-->
+</ul>
+</li>
+<li class="nav_li ft_lt relative"><a href="http://www.hungrybags.com/hot-deals/" class="nav_a navgation_color navagation_border_color" style="background:"><strong>Sale</strong></a>
+<div class="absolute topminu18 left9px"><img src="http://www.hungrybags.com/images/newbutton.png" width="41" height="24"></div>
+</li>
+
+<li class="nav_li ft_lt"><a href="javascript:void(0)" class="nav_a navgation_color navagation_border_color" style="background:" onmouseover="show_submenu(6)" onmouseout="hide_submenu(6)"><strong>Luxury Trains</strong></a>
+
+<ul class="submenu bordergrey1px box_shadow_grey backgroud_navmenu sub6" onmouseover="show_submenu(6)" onmouseout="hide_submenu(6)">
+<li class="sub_nav_li"><a href="http://www.hungrybags.com/luxurytrains/" class="sub_nav_a border_bottom_grey navgation_color"><strong>All Trains</strong></a></li>
+<li class="sub_nav_li"><a href="http://www.hungrybags.com/luxurytrains/palace-on-wheels/5/" class="sub_nav_a border_bottom_grey navgation_color"><strong>Palace on Wheels</strong></a></li>
+<li class="sub_nav_li"><a href="http://www.hungrybags.com/luxurytrains/the-indian-maharaja/6/" class="sub_nav_a border_bottom_grey navgation_color"><strong>The Indian Maharaja</strong></a></li>
+<li class="sub_nav_li"><a href="http://www.hungrybags.com/luxurytrains/the-golden-chariot/7/" class="sub_nav_a border_bottom_grey navgation_color"><strong>The Golden Chariot</strong></a></li>
+<li class="sub_nav_li"><a href="http://www.hungrybags.com/luxurytrains/royal-rajasthan-on-wheels/8/" class="sub_nav_a border_bottom_grey navgation_color"><strong>Royal Rajasthan on Wheels</strong></a></li>
+<li class="sub_nav_li"><a href="http://www.hungrybags.com/luxurytrains/deccan-odyssey/9/" class="sub_nav_a border_bottom_grey navgation_color"><strong>Deccan Odyssey</strong></a></li>
+</ul>
+
+</li>
+
+<li class="nav_li ft_lt"><a href="javascript:void(0)" class="nav_a navgation_color navagation_border_color" style="background:" onmouseover="show_submenu(7)" onmouseout="hide_submenu(7)"><strong>Travel Guide</strong></a>
+
+<ul class="submenu bordergrey1px box_shadow_grey backgroud_navmenu sub7" onmouseover="show_submenu(7)" onmouseout="hide_submenu(7)">
+<li class="sub_nav_li"><a href="http://www.hungrybags.com/travel-destinations-guide/" class="sub_nav_a border_bottom_grey navgation_color"><strong>Travel Guide</strong></a></li>
+<li class="sub_nav_li"><a href="http://blogs.hungrybags.com/" class="sub_nav_a border_bottom_grey navgation_color"><strong>Hungry Blogs</strong></a></li>
+<!--<li class="sub_nav_li"><a href="http://www.hungrybags.com/reviews" class="sub_nav_a border_bottom_grey navgation_color"><strong>Reviews</strong></a></li>-->
+</ul>
+</li>
+<li class="nav_li ft_lt"><a href="http://www.hungrybags.com/contact_us.php" class="nav_a navgation_color navagation_border_color border_none" style="background:"><strong>Contact Us</strong></a></li>
+</ul>
+<div class="clear"></div>
+</div><div class="clear"></div>
+
+<form name="sendQuery_frm" id="sendQuery_frm" method="post" action="http://www.hungrybags.com/qcontact.php" onsubmit="return sendQuery_validation(this);">
+<input type="hidden" name="url" id="url" value="http://www.hungrybags.com/privacy_policy.php">
+<input type="hidden" name="capchaSession_match" id="capchaSession_match" value="362036">
+<div class="absolute right0px Send_Query" id="send_query">
+<img src="http://www.hungrybags.com/images/send_query_pack.png" width="32" height="150" style="float:left;" class="send_query_pack_img" id="send_query_img" onclick="send_query(this.id); DrawCaptcha_qcontact('qtxtCaptchaC'); ">
+
+<div class="main_query_form side_scroll_back border_side_scroll border_radius">
+<div class="close_button1 rightmin7px" id="close_button" onclick="close_query(this.id)"></div>
+<h3 class="txt_decoration blue fnt18">Send Query!</h3>
+<div class="txt_title ft_lt martopbottom10px">Name:</div>
+<div class="txt_input ft_lt martopbottom10px"><input type="text" class="txtbox3" name="name" id="C_name" onclick=""></div>
+<div class="clear"></div>
+<div class="txt_title ft_lt martopbottom10px">Mobile :</div>
+<div class="txt_input ft_lt martopbottom10px"><input type="text" class="txtbox3" name="contact_no" id="C_contact_no"></div>
+<div class="clear"></div>
+<div class="txt_title ft_lt martopbottom10px">Email :</div>
+<div class="txt_input ft_lt martopbottom10px"><input type="text" class="txtbox3" name="email" id="C_email"></div>
+<div class="clear"></div>
+<div class="txt_title ft_lt martopbottom10px">Message :</div>
+<div class="txt_input ft_lt martopbottom10px"><textarea class="txtarea" name="message" id="C_message"></textarea></div>
+<div class="clear"></div>
+<div class="txt_title ft_lt martopbottom10px">Verify :</div>
+<div class="txt_input ft_rt line_height35 align_center martopbottom10px">
+<div class="ft_lt col60per">
+<input type="text" readonly="readonly" id="qtxtCaptchaC" name="qtxtCaptcha" class="txtbox1 txtCaptcha">
+<input type="hidden" id="qtxtCaptcha1C" name="qtxtCaptcha1">
+<div class="clear"></div>
+<a href="javascript:void(0);" onclick="DrawCaptcha_qcontact('qtxtCaptchaC');">Refresh</a>
 </div>
-<style>
-.para_paddding
-{
-
- padding:8px 0px !important;
-}  
-
-</style>
-<div id="main_container">
-<!--Sidebar Start-->
-<div id="sidebar_left">
-
-			<!-- use for Contacts start-->
-			<div class="box1" style="margin:0px;">
-				<div class="box_header">Contact us</div>
-				<div class="contentareas">
-                	<ul>
-					<li><a href="http://www.hungrybags.com/contactus.php">General Info</a></li>
-					<li><a href="http://www.hungrybags.com/contactus_Enquiry_individual.php">Enquiry Form</a></li>
-					<li><a href="http://www.hungrybags.com/contactus_feedback.php">Feedback</a></li>
-					<li><a href="http://www.hungrybags.com/contactus_business_listing.php">Business Listing</a></li>
-					<li><a href="http://www.hungrybags.com/contactus_advertising.php">Advertising</a></li>
-					<li><a href="http://www.hungrybags.com/contactus_travel_insurance.php">Travel Insurance</a></li>
-					<li><a href="http://www.hungrybags.com/contactus_travelcard.php">International Travelcard</a></li><li><a href="http://www.hungrybags.com/forgot_pass.php">Forgot Password</a></li></ul> 
-				</div>
-			</div>
-			<!-- use for Contacts end-->
-			<!-- use for How To Use section start-->
-			<div class="box1" style="margin:0px;">
-				<div class="box_header">How To Use</div>
-		    	<div class="contentareas">
-					<ul>
-						<li><a href="http://www.hungrybags.com//destination_search.php">Destination Search</a></li>
-						<li><a href="http://www.hungrybags.com//forum_online.php">Forum/Blogs</a></li>
-						<li><a href="http://www.hungrybags.com//reviews_how_touse.php?type=review">Reviews</a></li>
-						<!--<li ><a  href="http://www.hungrybags.com//user/user_viewprofile_add_your_city.php">Add Your City</a></li>-->
-					</ul>
-			    </div>
-		    </div>
-			<!-- use for How To Use section end-->
-			<!-- use for misc start-->
-		   <div class="box1" style="margin:0px;">
-				 <div class="box_header">Misc. links</div>
-					  <div class="contentareas">
-					  <ul>
-					  	<li><a href="javascript:void(0);" class="reccomend_link">Recommend this page</a></li>
-						<li><a href="http://www.hungrybags.com/correct_us.php">Report a problem</a></li>
-						<li><a href="#?w=2" rel="popup_name" class="poplight" onclick="return loginByUserPop();">New travel ideas</a></li>
-						<li><a href="#?w=3" rel="popup_name" class="poplight" onclick="return loginByUserPop();">Travel experience</a></li>
-						<li><a href="#?w=6" rel="popup_name" class="poplight" onclick="return loginByUserPop();">Recommend Hungry Bags</a></li>
-						</ul>
-				</div>
-			</div>
-			<!-- use for misc section end--></div><!--Sidebar End-->
- 
-<!--MainContent Area Start-->
-<div id="maincontent_inner" class="padding_bot20">
-<div class="faq_border_h4"><div class="h4"><strong>Private Policy of Hungry Bags, a part of Travel Kamp Pvt. Ltd.</strong></div></div>
-<p>Hungry Bags an online Travel Portal that provides information on various cities of the world and recommend hotels, vacation Rentals, travel packages, cruises etc through visitors opinion. Our Web site is part of the Travel Kamp Pvt. Ltd. and the same is based out of New Delhi India.<br>
-
-</p><p class="para_paddding">We believe in our visitors for giving their opinion / views on any subject  and the same is not biased. We are taking all measures to ensure that all the personal information shared by our visitor shall remains confidential. We recommend our visitors that before submitting they submit their personal information on our Web site, please read this Policy carefully to learn about our privacy practices. Please read this private policy of www.hungrybags.com, we assume that you are accepting the practices described herein.</p> 
-
-
-<p class="para_paddding"><strong>Privacy Policy</strong><br>
-Once a visitor provides his personal information like name, email id, Phone number, Address , User Id &amp; Passwords, or any other travel related information, the same is stored in our database and the is protected at our end and we take all measure to ensure that the information is not disclosed to any third party who is not affiliated with Hungry Bags. Only Authorized employees of Hungry Bags are allowed to manage such personal information and the same is protected through number of firewalls to stop leakage of the same. Although the visitor has option not to provide all or any of the information to us, but some general information is required in order for you to enjoy the benefits of being a registered member. Visitors of www.hungrybags.com will have an option to provide contact information of their friends &amp; family on our Web site. It is recommended that visitor should take the consent of friends &amp; Family before providing the same to www.hungrybags.com.</p>
-
-<p class="para_paddding">Hungry Bags also obtain both personal and non-personal information of people around the world from their partners and affiliated. In case you don't want us to write you, you can always opt for unsubscribe option and we will not use that information again. Although the same will remain idle in our database.</p> 
-
-<p class="para_paddding">Hungry Bags automatically pulls out some information about your computer when you browse www.hungrybags.com from your computer i.e.,  we procure session data, that includes your IP address, Web browser software. Through this private policy, Hungry Bags assume that it has sole rights to collect information about your online activity on www.hungrybags.com, such as content viewed and pages visited.  The information collected is just to understand the interests of our users and help them by giving better services by adding new features on the page visited. The same information helps us tying up with hotels, Airlines and other places to procure better deals for you directly or by way of advertisement.</p> 
-
-<p class="para_paddding">Hungry Bags has a policy not to disclose visitors personal information with any third parties who are not affiliated with us. Although if any link on www.hungrybags.com takes you to another website then we recommend you to see the private policy of that particular website too.</p> 
-
-
-<p class="para_paddding"><strong>Data protection Rules of Various Countries</strong><br>
-Although Hungry Bags assure all the visitors that data is protected and all information shall remain confidential but if you are visiting www.hungrybags.com from outside India, please be aware that the data protection laws of India might not be the same as in your country. At the same time, please be assured that Hungry Bags takes all possible measure and uses internal firewalls to ensure that your privacy / Data is protected. </p>
-
-<p class="para_paddding"><strong>Children's private Policy</strong><br>
-www.hungrybags.com can be accessed by visitors in general in any part of the world  at the same time it does not offer services to children under the age of 13 years. If any Visitor with an age less than 13 years becomes our member,  we generally delete or destroy such information as soon as we come to know of the same fact.</p>
-
-<p class="para_paddding"><strong>Changes to Private Policy</strong><br>
-Hungry Bags, a part of Travel Kamp Pvt Ltd reserves sole rights to add / modify the private policy at any time. Although we update our visitors such changes through emails but we still recommend visitors of our site to read private policy periodically before using the site.
-In case of any information on data protection, You can always write to us at:<br>
-<a href="mailto:dataprotection@hungrybags.com">dataprotection@hungrybags.com</a> <br>
-We would be glad to help you as soon as possible.
- </p>
-</div><!--MainContent Area End-->
-<script type="text/javascript">
-$(document).ready(function(){
-$('#visitors, #visitors_stat').hover(function(){
-$('#visitors_stat').css('display','block');
-
-},
-function(){
-$('#visitors_stat').css('display','none');
-})
-
-
-
-
-/*
-$('#close_stat').click(function(){
-$('#visitors_stat').fadeOut(500);
-$('#transparent_window').css('display','none');
-})
-*/
-
-})
-</script>
-<!-- LOGIN JS FUNCTION -->
-<script>
-function bid_insc()
-{
-$('.bid_insc').show();
-$('#transparent_poll_window').show();
-}	
-
-function close_bid_insc()
-{
-$('.bid_insc').hide();
-$('#transparent_poll_window').hide();
-}
-
-function loginByUserPop(pageID){
-
-$("#pageID").val(pageID);
-$("#loginpopup").css("display","block");
-$('#transparent_window').css('display','block');
-}
-
-
-function hotelbookopen(){
-$("#hungryhotelapi").css("display","block");
-$("#transparent_window").css("display","block");
-}
-function hotelbookclose(){
-$("#hungryhotelapi").css("display","none");
-$("#transparent_window").css("display","none");
-}
-
-function emailTofriend()
-{
-  $("#recommendpopup_ajax").css("display","block");
-  $('#transparent_window').css('display','block');
-}
-function recommendpopup_closefriend()
-{
- $("#recommendpopup_ajax").css("display","none");
- $("#transparent_window").css("display","none");
-}
-
-
-
-$(document).ready(function(){
-$('.reccomend_link').click(function(){
-$("#recommendpopup").css("display","block");
-$('#transparent_window').css('display','block');
-})
-
-
-
-$(".recommendpopup_close1").click(function(){
-$("#recommendpopup").css("display","none");
-$("#transparent_window").css("display","none");
-})
-})
-
-
-$(document).ready(function(){
-$('.qcontact_link').click(function(){
-$("#quick_contact").css("display","block");
-$('#transparent_window').css('display','block');
-DrawCaptcha_qcontact();
-})
-
-$(".quick_contact_close1").click(function(){
-$("#quick_contact").css("display","none");
-$("#transparent_window").css("display","none");
-})
-})
-function queryquick_close1(){
-$("#queryquick").css("display","none");
-$("#transparent_window").css("display","none");
-}
-function DrawCaptcha_qcontact()
-    { //alert('DrawCaptcha');
-        var a = Math.ceil(Math.random() * 10)+ '';
-        var b = Math.ceil(Math.random() * 10)+ '';       
-        var c = Math.ceil(Math.random() * 10)+ '';  
-        var d = Math.ceil(Math.random() * 10)+ '';  
-        var e = Math.ceil(Math.random() * 10)+ '';  
-        var f = Math.ceil(Math.random() * 10)+ '';  
-		for(;a>9;){a=a/10;}
-		for(;b>9;){b=b/10;}
-		for(;c>9;){c=c/10;}
-		for(;d>9;){d=d/10;}
-		for(;e>9;){e=e/10;}
-		for(;f>9;){f=f/10;}
-        var code = a + ' ' + b + ' ' + ' ' + c + ' ' + d + ' ' + e + ' '+ f;
-        var code1 = a +  b +  c + d +  e + f;
-		document.getElementById("qtxtCaptcha").value = code;
-        document.getElementById("qtxtCaptcha1").value = code1;
-		document.getElementById("qtxtInput").value ='';	
-		//document.getElementById("txtCaptcha").value = code
-    }
-
-    // Remove the spaces from the entered and generated code
-    function removeSpaces(string)
-    {
-        return string.split(' ').join('');
-    }
-	
-function Recommend_this_ajax()
-{
- if(document.recomend_form_ajax.your_name.value.search (/\w/) < 0){
-		alert("Please enter your name");
-		document.recomend_form_ajax.your_name.focus();
-		return false;
-	}
-	
- if(document.recomend_form_ajax.ur_email.value.search (/\w/) < 0){
-		alert("Please enter your email address");
-		document.recomend_form_ajax.ur_email.focus();
-		return false;
-	}
-	
- if(!document.recomend_form_ajax.ur_email.value.match(/^([a-zA-Z][\w\.-]*[a-zA-Z0-9]@[a-zA-Z0-9][\w\.-]*[a-zA-Z0-9]\.[a-zA-Z][a-zA-Z\.]*[a-zA-Z]){0,70}$/)){
-		alert("Please enter your valid email address");
-		document.recomend_form_ajax.ur_email.focus();
-		return false;
-	}	
- var e012 = document.recomend_form_ajax.emails;
- var email,len;
-	email = e012.value.replace(";", ",");
-	var checkArray = new Array();
-	checkArray = email.split(",");
-	var i = 0;
-	for(i = 0; i<checkArray.length; i++)
- 	{
-		if((checkArray[i] =="") || (!checkArray[i].match(/^[A-Za-z0-9\._\-+]+@[A-Za-z0-9\-+]+(\.[A-Za-z0-9_\-+]+)+$/)))
-		{
-			alert("Please Enter the Valid email id!");
-			i= checkArray.length;
-			document.recomend_form_ajax.emails.focus();
-			return false;
-		}
- }	
-
-  var yourName  =document.recomend_form_ajax.your_name.value;
-  var ur_email  =document.recomend_form_ajax.ur_email.value;
-  var emails  =document.recomend_form_ajax.emails.value;
-  var url  =encodeURIComponent(document.recomend_form_ajax.url.value);
-  
- ajax();
-    if (doc){
-	 doc.open("GET", "http://www.hungrybags.com/emailTofriend_ajax.php?action=sendEmailTofriend&yourName="+yourName+"&ur_email="+ur_email+"&emails="+emails+"&url="+url, false);   
-	   doc.send(null);
-	   if(doc.responseText)//if ajax_check_username.php return value "0"
-		{ 
-		 $("#recommendpopup_ajax").css("display","none");
-         $('#transparent_window').css('display','none');
-		}  
-		  // return doc.responseText;
-	 }
-
-	
-  return true;	
-}	
-	
-
-function Recommend_this(){
-
-
- if(document.recomend_form.your_name.value.search (/\w/) < 0){
-		alert("Please enter your name");
-		document.recomend_form.your_name.focus();
-		return false;
-	}
-	
- if(document.recomend_form.ur_email.value.search (/\w/) < 0){
-		alert("Please enter your email address");
-		document.recomend_form.ur_email.focus();
-		return false;
-	}
-	
- if(!document.recomend_form.ur_email.value.match(/^([a-zA-Z][\w\.-]*[a-zA-Z0-9]@[a-zA-Z0-9][\w\.-]*[a-zA-Z0-9]\.[a-zA-Z][a-zA-Z\.]*[a-zA-Z]){0,70}$/)){
-		alert("Please enter your valid email address");
-		document.recomend_form.ur_email.focus();
-		return false;
-	}
-//var f = $('#rajnish').val();
- var e012 = document.getElementById('emails');
- var email,len;
-	email = e012.value.replace(";", ",");
-	var checkArray = new Array();
-	checkArray = email.split(",");
-	var i = 0;
-	for(i = 0; i<checkArray.length; i++)
- 	{
-		if((checkArray[i] =="") || (!checkArray[i].match(/^[A-Za-z0-9\._\-+]+@[A-Za-z0-9\-+]+(\.[A-Za-z0-9_\-+]+)+$/)))
-		{
-			alert("Please Enter the Valid email id!");
-			i= checkArray.length;
-			document.recomend_form.emails.focus();
-			return false;
-		}
- }
- }
-
-function qcontact_validation(){
- 	if(document.qcontact_form.name.value.search (/\w/) < 0){
-		alert("Please enter your name");
-		document.qcontact_form.name.focus();
-		return false;
-	}
-	if($('#contact_no').val()=='')
-	{
-		alert('Please enter phone no');
-		document.getElementById("contact_no").focus();
-		return false;
-	}
-	
-	if(document.qcontact_form.email.value.search (/\w/) < 0){
-		alert("Please enter your email address");
-		document.qcontact_form.email.focus();
-		return false;
-	}
-	
-	if(!document.qcontact_form.email.value.match(/^([a-zA-Z][\w\.-]*[a-zA-Z0-9]@[a-zA-Z0-9][\w\.-]*[a-zA-Z0-9]\.[a-zA-Z][a-zA-Z\.]*[a-zA-Z]){0,70}$/)){
-		alert("Please enter your valid email address");
-		document.qcontact_form.email.focus();
-		return false;
-	}
-	
-	if(document.qcontact_form.qtxtInput.value.search (/\w/) < 0){
-		alert("Please enter security code!");
-		document.qcontact_form.qtxtInput.focus();
-		return false;
-	}
-	if(isNaN(document.qcontact_form.qtxtInput.value)){
-		alert("Please enter numeric security code!");
-		document.qcontact_form.qtxtInput.value="";
-		document.qcontact_form.qtxtInput.focus();
-		return false;
-	}
-	if(document.qcontact_form.message.value.search (/\w/) < 0){
-		alert("Please enter your message");
-		document.qcontact_form.message.focus();
-		return false;
-	}
-	var msg_data=document.qcontact_form.message.value;
- 	if(msg_data.length<=15){
-		alert("please enter at least 15 character !");
-		document.qcontact_form.message.focus();
-		return false;
-	}
-  sendquickContact()
- }
-
- function sendquickContact()
-{
-var checkpackePG=0;
-var optionResult = $("#checkpackagePageExist").val();
-if ( optionResult != undefined ) { checkpackePG=optionResult; }
-var dealofferValues = $('#dealofferValues').val(); 
-var url = $('#url').val();
-var name = $('#name').val();
-var contact_no = $('#contact_no').val();
-var email = $('#email').val();
-var qtxtInput = $('#qtxtInput').val();
-var qtxtCaptcha1 = $('#qtxtCaptcha1').val();
-var qtxtCaptcha = $('#qtxtCaptcha').val();
-var message = $('#message').val();
-var contactus = $('#contactus').val();
-	if (typeof window.ActiveXObject != 'undefined' ) doc = new ActiveXObject("Microsoft.XMLHTTP");
-	else doc = new XMLHttpRequest();
-		if(doc){
-		$("#quick_contact").css("display","none");
-		$("#queryquick").css("display","block");
-		$("#quick_load").css("display","block");
-		
-		if(checkpackePG==1)
-		{
-			 document.getElementById('queryquick').innerHTML = ' <div style="width:550px; background:url(http://www.hungrybags.com/images/popup_background1.png) repeat-x #2c2449; height:auto; border-radius:15px; -moz-border-radius:15px; -webkit-border-radius:15px; box-shadow:3px 3px 51px #aaa; -moz-box-shadow:3px 3px 51px #aaa; -webkit-box-shadow:3px 3px 51px #aaa; padding:10px; position:fixed; font-family:verdana; color:#666666; top:130px; left:360px; z-index:1200;"><div style="width:100%; background:url(http://www.hungrybags.com/images/popup_background.png) repeat-x #e7e5e5; width:100%; border-radius:15px; -moz-border-radius:15px; -webkit-border-radius:15px; height:auto; padding-bottom:10px;"><br><div style=" padding:10px"><img src="http://www.hungrybags.com/images/loading.gif" alt="loading" />Processing...</div><br></div></div>';
-		}	 
-			doc.open("GET", "http://www.hungrybags.com/qcontact.php?dealofferValues="+dealofferValues+"&url="+url+"&name="+name+"&contact_no="+contact_no+"&email="+email+"&qtxtInput="+qtxtInput+"&qtxtCaptcha1="+qtxtCaptcha1+"&qtxtCaptcha="+qtxtCaptcha+"&message="+message+"&contactus="+contactus, false);
-			doc.send(null);
-			
-			 $("#quick_load").css("display","none");
-			 $("#transparent_window").css("display","none");
-			if(checkpackePG==0 || checkpackePG == undefined)
-			{
-	 		 	document.getElementById('queryquick').innerHTML = doc.responseText;
-			 }	
-		if(checkpackePG==1)
-		{
-			 window.location.href = "http://www.hungrybags.com/vacation-packages/thanks/";
-		}
-			}
-return false;
-
-}
-</script>
-<!-- eND LOGIN JS FUNCTION -->
-
-<script type="text/javascript">
-$(document).ready(function() {
-$("#index_login").click(function(){
-$("#loginpopup").css("display","block");
-$('#transparent_window').css('display','block');
-})
-
-$("#loginpopup_close").click(function(){
-$("#loginpopup").css("display","none");
-$("#transparent_window").css("display","none");
-})
-
-$("#register_here").click(function(){
-		$("#loginpopup").css("display","none");
-	   $("#registerpopup").css("display","block");
-	})	
-	
-$("#login_here").click(function(){
-		$("#loginpopup").css("display","block");
-	   $("#registerpopup").css("display","none");
-	})		
-	
-$("#loginpopup_close11").click(function(){
-$("#registerpopup").css("display","none");
-$("#transparent_window").css("display","none");
-})
-
-});
-
-function Valid_login(myfrm)
-{
-var msg='';
-var emaillo = myfrm.nameuser.value;
-var passlo = myfrm.passuser.value;
-
-if((myfrm.passuser.value=='') && (myfrm.nameuser.value==''))
-	{
-	document.getElementById("emaillog").innerHTML = '<font style="color:red; font-size:13px;"><span>Please enter email.</span></font>';
-	document.getElementById("passlog").innerHTML = '<font style="color:red; font-size:13px;"><span>Please enter password.</span></font>';
-	 return false;
-	}	
-	
-if(myfrm.nameuser.value=="" && myfrm.passuser.value!="")
-	{
-	document.getElementById("emaillog").innerHTML = '<font style="color:red; font-size:13px;"><span>Please enter email.</span></font>';
-	document.getElementById("passlog").innerHTML = '';	
-	 return false;
-	}
-if(myfrm.nameuser.value!='' && myfrm.passuser.value=='' )
-	{
-	 document.getElementById("passlog").innerHTML = '<font style="color:red; font-size:13px;"><span>Please enter password.</span></font>';
-	 document.getElementById("emaillog").innerHTML = '';
-	 return false;
-	}	
-	
-if(emaillo!='' && passlo!='')
-{
-emailvallog(emaillo,passlo);
-}
-else if(emaillo=='' && passlo!='')
-{
-emailvallog(emaillo,passlo);
-}else if(emaillo!='' && passlo=='')
-{
-emailvallog(emaillo,passlo);
-}
-	
-	return false;
-}
-
-
-function emailvallog(a,b){
-
-var nameuser = a;
-var passuser = b;
-$.ajax({  //Make the Ajax Request
-    type: "POST",  
-    url: "http://www.hungrybags.com/ajax_check_username.php",  //file name
-    data: "nameuser="+ nameuser+"&passuser="+ passuser,  //data
-	
-    success: function(server_response){  
- 
-   $("#logerror").ajaxComplete(function(event, request){ 
-
-	if(server_response == '1')//if ajax_check_username.php return value "0"
-	{ 
-	$("#loginErrorDiv").html('<font style="color:red; font-size:13px;"><span>Invalid login. Please try again.</span>');
- 	$("#passlog").html('');
-	//add this image to the span with id "availability_status"
-	}  
-	else  if(server_response == '2')//if it returns "1"
-	{  
-	$("#loginErrorDiv").html('<font style="color:red; font-size:13px;"><span>Invalid login. Please try again.</span>');
-	$("#emaillog").html('');
-	}else{
-	document.myfrm.submit();
-	
-	}  
-   
-   });
-   } 
- 
-  });
-}
-
-$(document).ready(function(){
-
-$('#twit_button').find('iframe').css('width','100px');
-/*$('#middle_form_cru').prepend('<div class="like_button" style="text-align:right; width:100%; *width:30%; *float:right; margin-top:20px;"></div>');*/
-$('.exped_banner').append('<div class="like_button" style="text-align:right; width:100%; *width:30%; *float:right; margin-top:40px;"></div><div style="clear:both"></div>');
-/*$('.com3').prepend('<div class="like_button" style="text-align:right; width:100%; *width:30%; *float:right; margin-top:36px;"></div><div style="clear:both"></div>');*/
-$('.packages_page').prepend('<div class="like_button" style="text-align:right; width:100%; *width:30%; *float:right; margin-top:10px;"></div><div style="clear:both"></div>');
-$('.like_button').append($('#fshare_button'));
-$('.like_button').append($('#twit_button'));
-
-$('#holiday_destination').each(function() {
-    var default_value = this.value;
-    $(this).focus(function() {
-        if(this.value == default_value) {
-            this.value = '';
-        }
-    });
-    $(this).blur(function() {
-        if(this.value == '') {
-            this.value = default_value;
-        }
-    });
-});
-$('#destination_search').each(function() {
-    var default_value = this.value;
-    $(this).focus(function() {
-        if(this.value == default_value) {
-            this.value = '';
-        }
-    });
-    $(this).blur(function() {
-        if(this.value == '') {
-            this.value = default_value;
-        }
-    });
-});
-
-
-});
-</script>
-
-<script type="text/javascript">
-var countryreg;
-function poupregsister(){
-$(document).ready(function(){
-$('#countryreg').focusout(function(){
-countryreg =$('#countryreg').val();
-$("#cityreg").autocomplete("http://www.hungrybags.com/location.php?country="+countryreg+"", {
-		width: 260,
-		matchContains: true,
-		selectFirst:true
-	});
-});
-
-});
- }
-function Valid_register(){
-	if(document.myfrm_reg.displaynamereg.value.search (/\w/) < 0){
-		alert("Please enter your display name");
-		document.myfrm_reg.displaynamereg.focus();
-		return false;
-	}
-	if(document.myfrm_reg.usernamereg.value.search (/\w/) < 0){
-		alert("Please enter your user name");
-		document.myfrm_reg.usernamereg.focus();
-		return false;
-	}
-	if(document.myfrm_reg.emailreg.value.search (/\w/) < 0){
-		alert("Please enter your email address");
-		document.myfrm_reg.emailreg.focus();
-		return false;
-	}
-	if(!document.myfrm_reg.emailreg.value.match(/^([a-zA-Z][\w\.-]*[a-zA-Z0-9]@[a-zA-Z0-9][\w\.-]*[a-zA-Z0-9]\.[a-zA-Z][a-zA-Z\.]*[a-zA-Z]){0,70}$/)){
-		alert("Please enter your valid email address");
-		document.myfrm_reg.emailreg.focus();
-		return false;
-	}
-	if(document.myfrm_reg.passwordreg.value.search (/\w/) < 0){
-		alert("Please enter your password");
-		document.myfrm_reg.passwordreg.focus();
-		return false;
-	}
-	if(document.myfrm_reg.countryreg.value.search (/\w/) < 0){
-		alert("Please enter your country");
-		document.myfrm_reg.countryreg.focus();
-		return false;
-	}
-	if(document.myfrm_reg.cityreg.value.search (/\w/) < 0){
-		alert("Please enter your city");
-		document.myfrm_reg.cityreg.focus();
-		return false;
-	}
-}
-</script>
-	<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat">
-<div style="clear:both;"></div>
-<style>
-
-
-#loginpopup img
-{
- position:absolute;
- right:4px;
- top:17px;
- _top:15px;
- _right:15px;
- cursor:pointer;
- }
-
-#loginpopup #login_ul
-{
- list-style:none;
- width:300px;
-} 
-
-#login_ul li input#login_popup_button
-{
- background:url("http://www.hungrybags.com/images/buttonback6.jpg");
-
- }
-#loginpopbox a
-{
- margin-left:22px;
- margin-top:-14px;
-} 
- #left
- {
-  width:25px;
-  height:294px;
-  background-image:url(http://www.hungrybags.com/images/loginpop_up_left.gif);
-  float:left;
- }
- 
-
-
- #right
- {
-   width:24px;
-  height:294px;
-  background-image:url(http://www.hungrybags.com/images/loginpop_up_right.png);
-  float:left;
- }
- 
-  #footer ul
-  {
-   margin:0px;
-   }
-   
-
-   #registerpopup
-{
-width:525px;
-height:auto;
-position:fixed;
-_position:absolute;
-display:block;
-padding:10px;
-left:31%;
-top:20%;
-display:none;
-z-index:1200;
-
-}
-
-#registerpopup img
-{
- position:absolute;
- right:4px;
- top:17px;
- _top:15px;
- _right:15px;
- cursor:pointer;
- }
-
-#registerpopup #login_ul
-{
- list-style:none;
- width:300px;
-} 
-
-#login_ul li input#login_popup_button
-{
- background:url("http://www.hungrybags.com/images/buttonback6.jpg");
-
- }
-
-#registerpopbox {
-background:#a5b8c2;
-font-size:13px;
-height:70px;
-left:351px;
-padding:15px;
-position:absolute;
-top:150px;
-width:140px;
-
-
-}
-
-#registerpopbox a
-{
- margin-left:22px;
-} 
-
-#fb-root iframe
- {
-   width:200px !important; 
- }
-
- #left
- {
-  width:25px;
-  height:294px;
-  background-image:url(http://www.hungrybags.com/images/loginpop_up_left.gif);
-  float:left;
- }
- 
-
- 
-
- 
- #right
- {
-   width:24px;
-  height:294px;
-  background-image:url(http://www.hungrybags.com/images/loginpop_up_right.png);
-  float:left;
- }
-
- .float_left11
-{
- float:left;
- margin-bottom:14px;
- width:350px;
-} 
-
-.set_width11
-{
- width:120px;
- float:left;
- clear:both;
- margin-bottom:14px;
-} 
-
-.float_left111
-{
- float:left;
- margin-bottom:10px;
- width:200px;
-} 
-
-.float_left111 input
-{
-width:150px;
-}
-
-.set_width111
-{
- width:120px;
- float:left;
- clear:both;
- margin-bottom:10px;
-} 
-
-.wid
-{
-width:155px !important;
-}
-
-.button_center
-{
-padding-top:25px;
-clear:both;
-width:100%;
-text-align:center;
-margin-left:-10px;
-} 
-@media screen and (-webkit-min-device-pixel-ratio:0)
-{
-
- 
-} 
-
-#ssl object
-{
-text-align:left;
-}
-
-#ssl img
-{
-margin:0px !important;
-width:100px;
-}
- </style><div id="loginpopup">
-<div id="middle">
-<img src="http://www.hungrybags.com/images/close-icon_square1.gif" alt="close" width="14" height="14" id="loginpopup_close">
-<h3 style="background:#3c5a8c; color:#fff; padding:5px 20px; width:160px; font-weight:bold;">Sign in to Hungry Bags</h3>
-<h3 style="color:#fff; padding:5px; width:178px; font-weight:bold; float:right; margin-top:-40px; _margin-top:-32px; margin-right:36px; _margin-right:17px">
-<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<div class="ft_rt col35per"> 
+<input type="text" class="txtbox3" name="qtxtInput" id="qtxtInputC">
+<div class="clear"></div>
+<span class="orange">Type code</span>
+</div>
+</div>
+<div class="clear"></div>
+<div class="ft_rt"><input type="submit" name="contactus" class="button orange_back" value="Send Query">
+</div>
+
+
+<div class="clear"></div>
+</div>
+</div>
+
+</form>
+<div class="webcontent ft_lt">
+<div class="clear"></div>
+<div class="content_area">
+<div class="col100per martop10px">
+<div class="col29per ft_lt padd1per">
+<div class="col100per ft_lt marright3per">
+<h1 class="txt_heading2 fnt26 white blue_back border_radius1 padd2per col96per">Privacy Policy</h1>
+<ul>
+<li class="martop10px"><a href="#price" class="txt_decoration">Privacy Policy</a></li>
+<li class="martop10px"><a href="#booking" class="txt_decoration">Data protection Rules</a></li>
+<li class="martop10px"><a href="#amendment" class="txt_decoration ">Children's private Policy</a></li>
+<li class="martop10px"><a href="#cancellation" class="txt_decoration ">Changes to Private Policy</a></li>
+</ul>
+
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="col65per ft_rt paddright0per border_left_grey para">
+<div class="col100per fnt11">
+<h3><a name="" class="txt_heading2 blue fnt18 txt_decoration">Private Policy of Hungry Bags, a part of Travel Kamp Pvt. Ltd.</a></h3>
+<p class="martop10px txt_align">Hungry Bags an online Travel Portal that provides information on various cities of the world and recommend hotels, vacation Rentals, travel packages, cruises etc through visitors opinion. Our Web site is part of the Travel Kamp Pvt. Ltd. and the same is based out of New Delhi India.</p>
+
+<p class="martop10px txt_align">We believe in our visitors for giving their opinion / views on any subject and the same is not biased. We are taking all measures to ensure that all the personal information shared by our visitor shall remains confidential. We recommend our visitors that before submitting they submit their personal information on our Web site, please read this Policy carefully to learn about our privacy practices. Please read this private policy of www.hungrybags.com, we assume that you are accepting the practices described herein.</p>
+
+<h3 class="martop22px"><a name="price" class="txt_heading2 blue fnt18 txt_decoration">Privacy Policy</a></h3>
+<p class="martop10px txt_align">Once a visitor provides his personal information like name, email id, Phone number, Address , User Id &amp; Passwords, or any other travel related information, the same is stored in our database and the is protected at our end and we take all measure to ensure that the information is not disclosed to any third party who is not affiliated with Hungry Bags. Only Authorized employees of Hungry Bags are allowed to manage such personal information and the same is protected through number of firewalls to stop leakage of the same. Although the visitor has option not to provide all or any of the information to us, but some general information is required in order for you to enjoy the benefits of being a registered member. Visitors of www.hungrybags.com will have an option to provide contact information of their friends &amp; family on our Web site. It is recommended that visitor should take the consent of friends &amp; Family before providing the same to www.hungrybags.com.</p>
+
+
+<p class="martop10px txt_align">Hungry Bags also obtain both personal and non-personal information of people around the world from their partners and affiliated. In case you don't want us to write you, you can always opt for unsubscribe option and we will not use that information again. Although the same will remain idle in our database..</p>
+
+<p class="martop10px txt_align">Hungry Bags automatically pulls out some information about your computer when you browse www.hungrybags.com from your computer i.e., we procure session data, that includes your IP address, Web browser software. Through this private policy, Hungry Bags assume that it has sole rights to collect information about your online activity on www.hungrybags.com, such as content viewed and pages visited. The information collected is just to understand the interests of our users and help them by giving better services by adding new features on the page visited. The same information helps us tying up with hotels, Airlines and other places to procure better deals for you directly or by way of advertisement.</p>
+
+<p class="martop10px txt_align">Hungry Bags has a policy not to disclose visitors personal information with any third parties who are not affiliated with us. Although if any link on www.hungrybags.com takes you to another website then we recommend you to see the private policy of that particular website too.</p>
+
+<h3 class="martop22px"><a name="booking" class="txt_heading2 blue fnt18 txt_decoration">Data protection Rules of Various Countries</a></h3>
+<p class="martop10px txt_align">Although Hungry Bags assure all the visitors that data is protected and all information shall remain confidential but if you are visiting www.hungrybags.com from outside India, please be aware that the data protection laws of India might not be the same as in your country. At the same time, please be assured that Hungry Bags takes all possible measure and uses internal firewalls to ensure that your privacy / Data is protected. </p>
+
+<h3 class="martop22px"><a name="amendment" class="txt_heading2 blue fnt18 txt_decoration">Children's private Policy</a></h3>
+<p class="martop10px txt_align">www.hungrybags.com can be accessed by visitors in general in any part of the world at the same time it does not offer services to children under the age of 13 years. If any Visitor with an age less than 13 years becomes our member, we generally delete or destroy such information as soon as we come to know of the same fact.</p>
+
+<h3 class="martop22px"><a name="cancellation" class="txt_heading2 blue fnt18 txt_decoration">Changes to Private Policy</a></h3>
+<p class="martop10px txt_align">Hungry Bags, a part of Travel Kamp Pvt Ltd reserves sole rights to add / modify the private policy at any time. Although we update our visitors such changes through emails but we still recommend visitors of our site to read private policy periodically before using the site. In case of any information on data protection, You can always write to us at:
+dataprotection@hungrybags.com
+We would be glad to help you as soon as possible. </p>
+</div>
+
+
+
+
+</div>
+</div>
+
+
+
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="footer backgroud_navmenu">
+<div class="quick_links ft_lt"></div>
+<div class="ft_lt footer_right">
+<div class="footer_nav">
+<div class="nav_menu">
+<ul>
+<li class="nav_li ft_lt"><a href="http://www.hungrybags.com/" class="nav_a navgation_color navagation_border_color"><strong>Home</strong></a></li>
+<li class="nav_li ft_lt"><a onclick="select_list1(this.id)" name="Login_popup" id="login_bid" href="javascript:void(0);" class="nav_a navgation_color navagation_border_color"><strong>Hungry bid</strong></a></li><li class="nav_li ft_lt"><a href="http://www.hungrybags.com/aboutus.php" class="nav_a navgation_color navagation_border_color"><strong>About Us</strong></a></li>
+<li class="nav_li ft_lt"><a href="http://www.hungrybags.com/career.php" class="nav_a navgation_color navagation_border_color"><strong>Career</strong></a></li>
+<li class="nav_li ft_lt"><a href="http://www.hungrybags.com/terms_of_use.php" class="nav_a navgation_color navagation_border_color"><strong>User Agreement</strong></a></li>
+<li class="nav_li ft_lt"><a href="http://www.hungrybags.com/privacy_policy.php" class="nav_a navgation_color navagation_border_color"><strong>Privacy Policy</strong></a></li>
+<li class="nav_li ft_lt"><a href="http://www.hungrybags.com/contact_us.php" class="nav_a navgation_color navagation_border_color"><strong>Contact Us</strong></a></li>
+<li class="nav_li ft_lt"><a href="http://www.hungrybags.com/sitemap/" class="nav_a navgation_color navagation_border_color"><strong>Sitemap</strong></a></li>
+<li class="nav_li ft_lt">
+<a href="javascript:void(0);" id="QCFrm" name="QuickContact_popup" onclick="QCfrom(this.id)" class="nav_a navgation_color border_none"> <strong>Quick Contact</strong></a></li>
+</ul>
+</div>
+</div>
+
+<div class="footer_block ft_lt">
+<h3 class="txt_heading txt_heading_border">Write Upload</h3>
+  <ul>
+	<li class="nav_li martop5px"><a href="http://blogs.hungrybags.com/" class="footer_a navgation_color fnt11">Blogs</a></li>
+	<li class="nav_li martop5px">
+    	        <a href="javascript:void(0);" class="footer_a navgation_color fnt11" onclick="select_list1(this.id)" name="Login_popup" id="photographsLogin">Photographs</a>
+            </li>
+	<li class="nav_li martop5px"><a href="http://www.hungrybags.com/reviews/" class="footer_a navgation_color fnt11">Reviews</a></li>
+  </ul>
+</div>
+
+<div class="footer_block ft_lt">
+  <h3 class="txt_heading txt_heading_border">Tour &amp; Packages</h3>
+    <ul>
+        <li class="nav_li martop5px"><a href="http://www.hungrybags.com/hot-deals/" class="footer_a navgation_color fnt11">Hot deal</a></li>
+        <li class="nav_li martop5px"><a href="http://www.hungrybags.com/untouched-destinations/" class="footer_a navgation_color fnt11">Untouched&nbsp;Destination</a></li>
+        <li class="nav_li martop5px"><a href="http://www.hungrybags.com/expedition/" class="footer_a navgation_color fnt11">Expeditions</a></li>
+    </ul>
+</div>
+
+<div class="footer_block ft_lt">
+<h3 class="txt_heading txt_heading_border">Why Hungry Bags</h3>
+<ul>
+<li class="nav_li martop5px"><a href="http://www.hungrybags.com/testimonial.html" class="footer_a navgation_color fnt11">Testimonials</a></li>
+<li class="nav_li martop5px"><a href="http://www.hungrybags.com/media.php" class="footer_a navgation_color fnt11">media room</a></li>
+<li class="nav_li martop5px"><a href="http://www.hungrybags.com/faq.php" class="footer_a navgation_color fnt11">FAQ</a></li>
+</ul>
+</div>
+
+<div class="footer_block ft_lt">
+<h3 class="txt_heading txt_heading_border">Corporate</h3>
+<ul>
+<li class="nav_li martop5px"><a href="http://www.hungrybags.com/directors.php" class="footer_a navgation_color fnt11">our team</a></li>
+<li class="nav_li martop5px"><a href="http://www.hungrybags.com/consultants.php" class="footer_a navgation_color fnt11">our consultants</a></li>
+<li class="nav_li martop5px"><a href="http://www.hungrybags.com/business/become-partner/" class="footer_a navgation_color fnt11">Become a partner</a></li>
+</ul>
+</div>
+
+<div class="footer_block ft_lt">
+<h3 class="txt_heading txt_heading_border">Help Us</h3>
+<ul>
+<li class="nav_li martop5px">
+		        <a href="javascript:void(0);" class="footer_a navgation_color fnt11" onclick="select_list1(this.id)" name="Login_popup" id="recomndLogin">Recommend</a>
+        </li>
+<!--<li class="nav_li">
+<a href="http://www.hungrybags.com/forgot_pass.php" class="footer_a navgation_color fnt11">Forgot Password</a>
+</li>-->
+<li class="nav_li martop5px"><a href="http://www.hungrybags.com/feedback/" class="footer_a navgation_color fnt11">Share feedback</a></li>
+</ul>
+</div>
+
+
+<div class="ft_lt col60per marginleft18px">
+<h3 class="txt_heading">Follow us</h3>
+<div>
+<a href="http://www.facebook.com/hungrybags" target="_blank"><div class="facebook ft_lt"></div></a>
+<a href="http://twitter.com/hungrybags" target="_blank"><div class="twitter ft_lt"></div></a>
+<a href="http://www.youtube.com/hungrybags" target="_blank"><div class="youtube ft_lt"></div></a>
+<a href="http://blogs.hungrybags.com/" target="_blank"><div class="blog ft_lt"></div></a>
+<a href="http://www.hungrybags.com/newsletter/" target="_blank" class="relative" style="top:10px;"><img src="http://www.hungrybags.com/images/newlett_img.png" width="237" height="40"></a>
+</div>
+</div>
+<div class="col35per ft_rt">
+<h3 class="txt_heading txt_heading_border"><span class="mar_right_30px">Verified</span><span>Payment options</span></h3>
+<div class="verified_sign">
+
+<div class="ft_lt martop10px">
+<!--- DO NOT EDIT - GlobalSign SSL Site Seal Code - DO NOT EDIT ---><table width="130" border="0" cellspacing="0" cellpadding="0" title="CLICK TO VERIFY: This site uses a GlobalSign SSL Certificate to secure your personal information."><tbody><tr><td><span id="ss_img_wrapper_100-50_image_en"><a href="http://www.globalsign.com/" target="_blank" title="SSL"><img width="55" height="27" alt="SSL" border="0" id="ss_img" src="//seal.globalsign.com/SiteSeal/images/gs_noscript_110-55_en.gif"></a></span><script type="text/javascript" src="//seal.globalsign.com/SiteSeal/gs_image_100-50_en.js"></script><br><a href="http://www.globalsign.com/" target="_blank" style="color:#000000; text-decoration:none; font:bold 8px arial; margin:0px; padding:0px;"></a></td></tr></tbody></table><!--- DO NOT EDIT - GlobalSign SSL Site Seal Code - DO NOT EDIT --->
+</div> 
+<div class="visa ft_lt"></div>
+<div class="mastercard ft_lt"></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="col100per align_center martop22px" style="font-size:0.75em;">Copyright © - Hungry Bags Pvt Ltd. All rights reserved. </div>
+</div>
+</div>
+<!-- side banner -->
+
+<!-- Domestic -->
+<div class="addarea ft_lt">
+</div>
+<!-- End Domestic -->
+</div>
+<div class="popupwindow">
+	<div class="close_button" id="close_button" onclick="close_popup(this.id)"></div>
+</div>
+
+<div class="popupwindow2">
+	<div class="close_button" id="close_button2" onclick="close_popup2(this.id)"></div>
+</div>
+
+<div class="popupwindow1">
+	<div class="close_button" id="close_button1" onclick="close_popup(this.id)"></div>
+</div>
+
+<div class="popupwindow4">
+	<div class="close_button" id="close_button3" onclick="close_popup(this.id)"></div>
+</div>
+
+<!-- Travel guide popup -->
+<!--<div id="tavel_guide_popup" class="popup_content">
+<h3 class="txt_heading1 txt_decoration marbottom10px">What you want to see ?</h3>
+<ul>
+<li class="ft_lt col49per martopbott10px"><a href="javascript:void(0)" class="padd4per35px block travel_guide">Travel Guide</a></li>
+<li class="ft_lt col49per martopbott10px"><a href="javascript:void(0)" class="padd4per35px block fligts">Hotels</a></li>
+<li class="clear"></li>
+<li class="ft_lt col49per martopbott10px"><a href="javascript:void(0)" class="padd4per35px block hotels">Flights</a></li>
+<li class="ft_lt col49per martopbott10px"><a href="javascript:void(0)" class="padd4per35px block packages">Packages</a></li>
+</ul>
+<div class="clear"></div>
+</div>-->
+
+
+<!-- Login popup -->
+<div id="Login_popup" class="popup_content">
+<form name="myfrm" id="myfrm" method="post" action="" onsubmit=" return Valid_login(this);">
+<input type="hidden" name="pageID" id="pageID" value="0">
+<h3 class="txt_heading1 txt_decoration marbottom10px blue wid65per ft_lt mar_right_30px">Sign in to HungryBags</h3>
+<h3 class="txt_heading1 txt_decoration marbottom10px blue col35per ft_rt mar_right_10px" style="width:auto;"><div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
 					<script>
 				  window.fbAsyncInit = function() {
 					FB.init({
 					  appId   : '192746657429595',
-					  session : null, 
+					  session : 0, 
 					  status  : true, // check login status
 					  cookie  : true, // enable cookies to allow the server to access the session
 					  xfbml   : true // parse XFBML
@@ -1152,169 +415,156 @@ width:100px;
 					document.getElementById('fb-root').appendChild(e);
 				  }());
 				</script>
-					<div><fb:login-button>Sign in with facebook</fb:login-button></div></h3>
+					<div><fb:login-button>Sign in</fb:login-button></div></h3>
+<div class="clear"></div>
 <div id="loginErrorDiv" style="margin:auto; width:100%; text-align:center; "></div>
-<form name="myfrm" id="myfrm" method="post" action="" onsubmit=" return Valid_login(this);">
-<input type="hidden" name="pageID" id="pageID" value="0">
-<ul id="login_ul">
-<li style="margin-bottom:-3px;">Email Address<br><span><input type="text" name="nameuser" id="nameuser" style="width:200px" value=""></span></li>
-<li style="margin-top:0px;"><span id="emaillog"></span></li>
-<li style="margin-bottom:-3px;">Password<br><span><input type="password" style="width:200px" name="passuser" id="passuser"></span></li>
-<li><span id="passlog"></span></li>
-<li style="margin-bottom:10px;margin-left:0px;margin-top:0px;"><a href="http://www.hungrybags.com/forgot_pass.php"><span style="font-size:11px; color:#0b244f">Forgot your Password?</span></a></li>
-<li style="margin-bottom:0px;"><span style="margin-left:-4px"><input type="checkbox" name="remember" value="1"></span>Keep me Signed in this Computer</li>
-<li><input type="submit" name="submitlogin" id="submit_btn" value="Login" class="submit_btn" style="font-size:13px;padding-bottom:4px;width:60px;height:23px;border:1px solid #999999;margin-left:0px;"></li>
-<li style="margin-bottom:16px;"><span id="logerror"></span></li>
-</ul>
+<div class="txt_title ft_lt">Email :</div>
+<div class="txt_input ft_lt"><input type="text" class="txtbox1" name="nameuser" id="nameuser"><span id="emaillog"></span></div>
+<div class="clear"></div>
+<div class="txt_title ft_lt">Password :</div>
+<div class="txt_input ft_lt"><input type="password" class="txtbox1" name="passuser" id="passuser"><span id="passlog"></span> <span id="logerror"></span></div>
+<div class="clear"></div>
+<div class="col49per ft_lt martop10px"><a href="http://www.hungrybags.com/forgot_pass.php" class="txt_decoration blue">Forgot your Password?</a></div>
+<div class="clear"></div>
+<div class="col49per ft_lt martop10px"><input type="checkbox" name="remember" value="1">&nbsp;&nbsp;Keep me Signed in this Computer</div>
+<div class="clear"></div>
+<div class="ft_rt"><input type="submit" class="button button_theme" value="Sign in" name="submitlogin" id="submit_btn"></div>
 </form>
-<div id="loginpopbox">
-<p style="_margin-bottom:8px; text-align:left; font-size:12px; margin-left:7px;">Don't have an Account?</p>
-<a href="javascript:void(0)" id="register_here" style="font-size:15px; color:#0b244f;">Register Here</a><br>
-</div>
-</div>
 </div>
 
+<!-- Quick contact popup -->
+<div id="QuickContact_popup" class="popup_content">
+<form name="qcontact_form" id="qcontact_form" method="post" action="http://www.hungrybags.com/qcontact.php">
+<input type="hidden" name="url" id="url" value="http://www.hungrybags.com/privacy_policy.php">
+<input type="hidden" name="capchaSession_match" id="capchaSession_match" value="362036">
+<h3 class="txt_heading1 txt_decoration marbottom10px blue wid49per ft_lt">Quick Contact Form</h3>
+<h3 class="txt_heading1 txt_decoration marbottom10px blue col35per ft_rt" style="width:240px;"></h3>
+<div class="clear"></div>
+<div class="txt_title ft_lt">Your Name :*</div>
+<div class="txt_input ft_lt"><input type="text" class="txtbox1" name="name" id="name"></div>
+<div class="clear"></div>
+<div class="txt_title ft_lt">Contact Number :*</div>
+<div class="txt_input ft_lt"><input type="text" class="txtbox1" name="contact_no" id="contact_no"></div>
+<div class="clear"></div>
+
+<div class="txt_title ft_lt">Your Email :*</div>
+<div class="txt_input ft_lt"><input type="text" class="txtbox1" name="email" id="email"></div>
+<div class="clear"></div>
 
 
-<div id="registerpopup">
-<div id="middle" style="padding-bottom:10px;">
+<div class="txt_title ft_lt">Message :*</div>
+<div class="txt_input ft_lt"><textarea name="message" id="message" class="txtbox1" style="height:100px;"></textarea></div>
+<div class="clear"></div>
 
-<img src="http://www.hungrybags.com/images/close-icon_square1.gif" alt="close" width="14" height="14" id="loginpopup_close11">
-<h3 style="background:#3c5a8c; color:#fff; padding:5px 20px; width:180px; font-weight:bold;">Register to Hungry Bags</h3>
-<form name="myfrm_reg" id="myfrm_reg" method="post" action="" onsubmit=" return Valid_register(this);">
-<input type="hidden" name="loginreg" id="loginreg" value="register">
-<div class="set_width11">Display Name :</div>
-<div class="float_left11"><input type="text" class="wid" name="displaynamereg"></div>
-<div class="set_width11">Name :</div>
-<div class="float_left11"><input type="text" class="wid" name="usernamereg"></div>
-<div class="set_width11">Gender :</div>
-<div class="float_left11">
-<input type="radio" name="genderreg" style="width:18px" id="gender_male" checked="checked" value="1">
-<label for="gender_male">Male</label>
-<input type="radio" name="genderreg" style="width:18px;" value="2" id="gender_female">
-<label for="gender_female">Female</label>
-<!--<input type="text" class="wid"/>--></div>
-<div class="set_width11">Email :</div>
-<div class="float_left11"><input type="text" class="wid" name="emailreg"></div>
-<div class="set_width11">Password</div>
-<div class="float_left11"><input type="password" class="wid" name="passwordreg" maxlength="15"></div>
 
-<div class="set_width11">Country :</div>
-<div class="float_left11"><select class="wid" id="countryreg" name="countryreg" onchange="poupregsister();"><option value="">Please Select Country</option><option value=""></option><option value="afghanistan">Afghanistan</option><option value="albania">Albania</option><option value="algeria">Algeria</option><option value="american" samoa="">American Samoa</option><option value="andorra">Andorra</option><option value="angola">Angola</option><option value="anguilla">Anguilla</option><option value="antarctica">Antarctica</option><option value="antigua" barbuda="">Antigua Barbuda</option><option value="argentina">Argentina</option><option value="armenia">Armenia</option><option value="australia">Australia</option><option value="austria">Austria</option><option value="azerbaijan">Azerbaijan</option><option value="bahrain">Bahrain</option><option value="bangladesh">Bangladesh</option><option value="barbados">Barbados</option><option value="belarus">Belarus</option><option value="belgium">Belgium</option><option value="belize">Belize</option><option value="benin">Benin</option><option value="bermuda">Bermuda</option><option value="bhutan">Bhutan</option><option value="bolivia">Bolivia</option><option value="bosnia" and="" herzegovina="">Bosnia And Herzegovina</option><option value="bosnia" herzegovina="">Bosnia Herzegovina</option><option value="botswana">Botswana</option><option value="brazil">Brazil</option><option value="british" virgin="" islands="">British Virgin Islands</option><option value="brunei" darussalam="">Brunei Darussalam</option><option value="bulgaria">Bulgaria</option><option value="burkina" faso="">Burkina Faso</option><option value="burundi">Burundi</option><option value="cambodia">Cambodia</option><option value="cameroon">Cameroon</option><option value="canada">Canada</option><option value="cape" verde="">Cape Verde</option><option value="cayman" islands="">Cayman Islands</option><option value="central" african="" republic="">Central African Republic</option><option value="chad">Chad</option><option value="chile">Chile</option><option value="china">China</option><option value="colombia">Colombia</option><option value="comoros">Comoros</option><option value="congo">Congo</option><option value="costa" rica="">Costa Rica</option><option value="cote" d="" ivoire="">Cote D Ivoire</option><option value="croatia">Croatia</option><option value="cuba">Cuba</option><option value="cyprus">Cyprus</option><option value="czech" republic="">Czech Republic</option><option value="democratic" republic="" of="" congo="">Democratic Republic Of Congo</option><option value="denmark">Denmark</option><option value="djibouti">Djibouti</option><option value="dominica">Dominica</option><option value="dominican" republic="">Dominican Republic</option><option value="ecuador">Ecuador</option><option value="egypt">Egypt</option><option value="el" salvador="">El Salvador</option><option value="equatorial" guinea="">Equatorial Guinea</option><option value="eritrea">Eritrea</option><option value="estonia">Estonia</option><option value="ethiopia">Ethiopia</option><option value="finland">Finland</option><option value="france">France</option><option value="gabon">Gabon</option><option value="gambia">Gambia</option><option value="georgia">Georgia</option><option value="germany">Germany</option><option value="ghana">Ghana</option><option value="greece">Greece</option><option value="grenada">Grenada</option><option value="guadeloupe">Guadeloupe</option><option value="guam">Guam</option><option value="guatemala">Guatemala</option><option value="guinea" bissau="">Guinea Bissau</option><option value="haiti">Haiti</option><option value="honduras">Honduras</option><option value="hongkong">Hongkong</option><option value="hungary">Hungary</option><option value="iceland">Iceland</option><option value="india">India</option><option value="indonesia">Indonesia</option><option value="iran">Iran</option><option value="iraq">Iraq</option><option value="ireland">Ireland</option><option value="israel">Israel</option><option value="italy">Italy</option><option value="jamaica">Jamaica</option><option value="japan">Japan</option><option value="jordan">Jordan</option><option value="kazakhastan">Kazakhastan</option><option value="kenya">Kenya</option><option value="kiribati">Kiribati</option><option value="kosovo">Kosovo</option><option value="kuwait">Kuwait</option><option value="kyrgyzstan">Kyrgyzstan</option><option value="laos">Laos</option><option value="latvia">Latvia</option><option value="lebanon">Lebanon</option><option value="lesotho">Lesotho</option><option value="liberia">Liberia</option><option value="libya">Libya</option><option value="liechtenstein">Liechtenstein</option><option value="lithuania">Lithuania</option><option value="luxembourg">Luxembourg</option><option value="macedonia">Macedonia</option><option value="madagascar">Madagascar</option><option value="malawi">Malawi</option><option value="malaysia">Malaysia</option><option value="maldives">Maldives</option><option value="mali">Mali</option><option value="malta">Malta</option><option value="marshall" islands="">Marshall Islands</option><option value="martinique">Martinique</option><option value="mauritius">Mauritius</option><option value="maxico">Maxico</option><option value="micronesia">Micronesia</option><option value="moldova">Moldova</option><option value="monaco">Monaco</option><option value="mongolia">Mongolia</option><option value="montenegro">Montenegro</option><option value="montserrat">Montserrat</option><option value="morocco">Morocco</option><option value="myanmar">Myanmar</option><option value="namibia">Namibia</option><option value="nepal">Nepal</option><option value="netherlands">Netherlands</option><option value="new" caledonia="">New Caledonia</option><option value="new" zealand="">New Zealand</option><option value="nicaragua">Nicaragua</option><option value="niger">Niger</option><option value="nigeria">Nigeria</option><option value="niue">Niue</option><option value="north" korea="">North Korea</option><option value="northern" mariana="" islands="">Northern Mariana Islands</option><option value="norway">Norway</option><option value="oman">Oman</option><option value="pakistan">Pakistan</option><option value="palau">Palau</option><option value="panama">Panama</option><option value="papua" new="" guinea="">Papua New Guinea</option><option value="paraguay">Paraguay</option><option value="peru">Peru</option><option value="philippines">Philippines</option><option value="poland">Poland</option><option value="polynesia">Polynesia</option><option value="portugal">Portugal</option><option value="puerto" rico="">Puerto Rico</option><option value="qatar">Qatar</option><option value="reunion">Reunion</option><option value="russia">Russia</option><option value="rwanda">Rwanda</option><option value="samoa">Samoa</option><option value="san" marino="">San Marino</option><option value="saudi" arabia="">Saudi Arabia</option><option value="senegal">Senegal</option><option value="serbia">Serbia</option><option value="seychelles">Seychelles</option><option value="sierra" leone="">Sierra Leone</option><option value="singapore">Singapore</option><option value="slovakia">Slovakia</option><option value="slovenia">Slovenia</option><option value="solomon" islands="">Solomon Islands</option><option value="somalia">Somalia</option><option value="somaliland" puntland="" somalia="">Somaliland Puntland Somalia</option><option value="south" africa="">South Africa</option><option value="south" korea="">South Korea</option><option value="spain">Spain</option><option value="sri" lanka="">Sri Lanka</option><option value="sudan">Sudan</option><option value="swaziland">Swaziland</option><option value="sweden">Sweden</option><option value="switzerland">Switzerland</option><option value="syria">Syria</option><option value="tahiti" french="" polynesia="">Tahiti French Polynesia</option><option value="taiwan">Taiwan</option><option value="tajikistan">Tajikistan</option><option value="tanzania">Tanzania</option><option value="thailand">Thailand</option><option value="togo">Togo</option><option value="tonga">Tonga</option><option value="tunisia">Tunisia</option><option value="turkey">Turkey</option><option value="turkmenistan">Turkmenistan</option><option value="tuvalu">Tuvalu</option><option value="uganda">Uganda</option><option value="ukraine">Ukraine</option><option value="united" arab="" emirates="">United Arab Emirates</option><option value="united" kingdom="">United Kingdom</option><option value="uruguay">Uruguay</option><option value="usa">USA</option><option value="uzbekistan">Uzbekistan</option><option value="vanuatu">Vanuatu</option><option value="venezuela">Venezuela</option><option value="vietnam">Vietnam</option><option value="wallis" and="" futuna="">Wallis And Futuna</option><option value="wellis" futuna="">Wellis Futuna</option><option value="yemen">Yemen</option><option value="zambia">Zambia</option><option value="zimbabwe">Zimbabwe</option></select></div>
-<div class="set_width11">City:<span style="color:#FF0000;">*</span></div>    
-<div class="float_left11"><input type="text" name="cityreg" id="cityreg" class="wid"></div>
 
-<div class="button_center" style="padding-top:7px;"><input type="submit" value="Register" class="submit_btn"></div>
+<div class="txt_title ft_lt martopbottom13px txt_decoration">Verify :</div>
+<div class="txt_input ft_rt line_height35 align_center">
+<div class="ft_lt col60per">
+<input type="text" readonly="readonly" id="qtxtCaptcha" name="qtxtCaptcha" class="txtbox1 txtCaptcha">
+<div class="clear"></div>
+<a href="javascript:void(0);" name="btnrefresh" id="btnrefresh" onclick="DrawCaptcha_qcontact('qtxtCaptcha');">Refresh</a>
+</div>
+<div class="ft_lt col35per"> 
+<input type="hidden" id="qtxtCaptcha1" name="qtxtCaptcha1">
+<input type="text" name="qtxtInput" id="qtxtInput" maxlength="6" autocomplete="off" class="txtbox1 col70per">
+<div class="clear"></div>
+<a href="javascript:void(0);" class="orange">Type code</a>
+<span class="error"></span>
+</div>
+</div>
+<div class="clear"></div>
+<div class="ft_rt">
+<input type="button" name="contactus" class="button button_theme" value="Send Query" onclick="qcontact_validation();">
+</div>
 </form>
-<div id="registerpopbox">
-<p style="_margin-bottom:8px; text-align:left; font-size:12px; margin-left:7px;">You have an Account?</p>
-<a href="javascript:void(0)" id="login_here" style="font-size:15px; color:#0b244f;">Login Here</a><br>
 </div>
-<div style="clear:both;"></div>
+
+
+<div id="Blast_popup" class="popup_content">
+        <form name="voucher" action="" method="post" onsubmit="return validate();">
+       <table width="100%" border="0" cellspacing="5" cellpadding="3">
+          <tbody><tr bgcolor="#E8E8E8">
+            <td width="50%"><strong>Contact Information</strong></td>
+            <td width="50%"><strong>No of Deals:</strong>
+            <input type="hidden" name="voucherPerson_no" id="voucherPerson_no" value="1">
+            <select name="no_of_deals" id="no_of_deals" style="width:70px;" onchange="javascript:cust_names(this.value);">
+            	<option value="1">1</option>
+                                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                            </select>
+            <input type="hidden" name="blast_deal_id" value="">
+                          <input type="hidden" name="blast_deal_amount" value="">
+                           <input type="hidden" name="blast_deal_currency" value="">
+              <input type="hidden" name="blast_start_date" value="">
+              <input type="hidden" name="blast_end_date" value="">     
+            </td>
+          </tr>
+          <tr bgcolor="#E8E8E8">
+          	<td style="line-height:30px; vertical-align:top;">
+            <div style="width:100px; float:left;">Customer Name<span style="color:#FF0000;">*</span>:</div> <input type="text" name="cust_name" id="cust_name" value=""><div style="clear:both;"></div>
+            <div style="width:100px; float:left;">Contact No<span style="color:#FF0000;">*</span>:</div> <input type="text" name="cust_no" id="cust_no" value=""><div style="clear:both;"></div>
+            <div style="width:100px; float:left;">Email<span style="color:#FF0000;">*</span>:</div> <input type="text" name="cust_email" id="cust_email" value=""><div style="clear:both;"></div>
+            <div style="width:100px; float:left;">Address<span style="color:#FF0000;">*</span>:</div> <input type="text" name="cust_address" id="cust_address" value=""><div style="clear:both;"></div>
+            <div style="width:100px; float:left;">ZIP/Postal Code<span style="color:#FF0000;">*</span>:</div> <input type="text" name="cust_pin_code" id="cust_pin_code" value=""><div style="clear:both;"></div>
+            <div style="width:100px; float:left;">Country<span style="color:#FF0000;">*</span>:</div> <div style="clear:both;"></div>
+            <div style="width:100px; float:left;">City<span style="color:#FF0000;">*</span>:</div><div id="cityDiv"><select style="width:150px;"><option>select city</option></select></div>
+            
+            <div style="clear:both;"></div>
+             <div style="width:100px; float:left;"><strong>I Accept</strong><span style="color:#FF0000;">*</span></div> <input type="checkbox" name="accept" id="accept" value="1">to confirm your online booking request, you must check I Accept to indicate that you accept the restrictions and penalities for this fare. Please note: cancellation fees may apply.<div style="clear:both;"></div>
+            </td>
+            <td id="cust_nametd" style="line-height:30px; vertical-align:top;">Name on Voucher: <input type="text" name="voucher_name[]" value="" id="voucher_name1"> 
+                        </td>
+          
+          </tr>
+          
+        </tbody></table>
+        <input type="submit" name="blastbooking" value="Buy Now">
+        </form>   
 </div>
-<div style="clear:both;"></div>
+
+<div class="transparent"></div>
+<div id="queryquick" style="display:none;">
+	<img src="http://www.hungrybags.com/images/loader.gif" alt="load" id="quick_load" width="14" height="14" style="display:none;">
 </div>
-<div id="footer" style="background:#024468; padding-bottom:11px;">
-   <div style="clear:both;"></div>
-    <div id="footermenu">
-	 <ul>
-	 <li style="width:10%;"><a href="http://www.hungrybags.com/index.php">Home</a> </li>
-		<li style="width:9%;"><a href="http://www.hungrybags.com/aboutus.php">About Us</a> </li>
-		<!--<li style="width:9%;"><a href="javascript:void(0);">Partners</a> </li>-->
-		<li style="width:9%; position:relative"><a href="http://www.hungrybags.com/career.php"><img src="http://www.hungrybags.com/images/hiring-tab.gif" width="91px" height="48px" style="margin:0px; position:absolute; top:-8px; left:2px; border:none;"></a> </li>
-	    <li style="width:13%;"><a href="http://www.hungrybags.com/terms_of_use.php">User Agreement</a> </li>
-		<li style="width:13%;"><a href="http://www.hungrybags.com/privacy_policy.php">Privacy Policy</a> </li><li style="width:13%;"><a href="http://www.hungrybags.com/forgot_pass.php">Forgot Password</a></li><li style="width:11%;"><a href="http://www.hungrybags.com/contactus_terms_conditions.php">Contact Us</a></li>
-		 <li style="width:9%;"><a href="http://www.hungrybags.com/sitemap/">Sitemap</a> </li>
-		  <li style="width:12%;"><a href="javascript:void(0);" class="qcontact_link" style="border:none;">Quick Contact</a></li>
-	 </ul>
-	  <div style="clear:both;"></div>
-	</div>
-   
-   <div id="footer_middle">
-   <div id="footer_leftmenu">
-    <div id="footer_divider">
-    <div id="heading">Corporate Information</div>
-	<ul>
-	 <li><a href="http://www.hungrybags.com/aboutus.php">About us</a></li>
-	 <!--<li><a href="javascript:void()">Hungry Bag Team</a></li>-->
-	 <li><a href="http://www.hungrybags.com/directors.php">Our Team</a></li>
-	 <li style="border:none;"><a href="http://www.hungrybags.com/consultants.php">Our Consultants</a></li>
-	</ul>
-	</div>
-   </div>
-   
-   <div id="footer_leftmenu">
-   <div id="footer_divider">
-    <div id="heading">Why Hungry Bags</div>
-	<ul>
-	 <li><a href="http://www.hungrybags.com/testimonial.html">Testimonials</a></li>
-	 <li><a href="javascript:void()">Hungry Bag News</a></li>
-	 <li style="border:none;"><a href="http://www.hungrybags.com/media.php">Media Room</a></li>
-	<!-- <li style="border:none;"><a href="javascript:void()">Site Tour</a></li>-->
-	</ul>
-	</div>
-   </div>
-   
-   <div id="footer_leftmenu" style="background:none;">
-    <div id="heading">Partner With Us</div>
-	<ul>
-	 <li><a href="http://www.hungrybags.com/business_listing_how_touse.php?type=hotels">Business Listing</a></li>
-	 <li><a href="http://www.hungrybags.com/become_partner.php">Become a Partner</a></li>
-	 <li style="border:none;"><a href="http://www.hungrybags.com/faq.php">FAQ</a></li>
-	</ul>
-   </div>
-   <div style="clear:both;"></div>
-    
-	</div>
-    <div style="width:100%; text-align:right; position:relative; height:43px; padding-top:10px;">
-	<div style="width:722px; float:left; padding:35px 0px 0px 20px; text-align:left; color:#fff;">Copyright © - Travel Kamp Private Limited, India. All rights reserved.</div>
-    <div style="width:260px; float:left;">
-	<div id="ssl" style="background:#fff; float:left; width:100px; text-align:left;">
-	<!--- DO NOT EDIT - GlobalSign SSL Site Seal Code - DO NOT EDIT ---><table width="130" border="0" cellspacing="0" cellpadding="0" title="CLICK TO VERIFY: This site uses a GlobalSign SSL Certificate to secure your personal information."><tbody><tr><td><span id="ss_img_wrapper_130-65_image_en"><a href="http://www.globalsign.co.uk/" target="_blank" title="SSL"><img alt="Buy SSL" border="0" id="ss_img" src="//seal.globalsign.com/SiteSeal/images/gs_noscript_130-65_en.gif"></a></span><script type="text/javascript" src="//seal.globalsign.com/SiteSeal/gs_image_130-65_en.js"></script><br><a href="http://www.globalsign.co.uk/" target="_blank" style="color:#000000; text-decoration:none; font:bold 8px arial; margin:0px; padding:0px;"></a></td></tr></tbody></table><!--- DO NOT EDIT - GlobalSign SSL Site Seal Code - DO NOT EDIT --->
-	</div>
-  	<div style="width:131px; float:left; padding-top:17px;"><img src="http://www.hungrybags.com/images/payment_option.png" width:131px;="" height:25px;="" alt="payment_option"></div>
-    </div>
-	</div>
-    </div>
-
-
-
-   
-   <!-- AddThis Button BEGIN -->
-
-<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4da3dbe7218116b1"></script>
-<!-- AddThis Button END -->
-
-<!-- end #footer --></div>
-
-<!-- end #container -->
-
- 
-
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(["_setAccount", "UA-20907584-1"]);
   _gaq.push(["_trackPageview"]);
-
   (function() {
     var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
     ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
     var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+<!-- Google Code for RM -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 969781617;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "oSZVCJeEsAMQ8eK2zgM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/969781617/?value=0&amp;label=oSZVCJeEsAMQ8eK2zgM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
-	
- 
-   
-      
-       
 
 
 
-
-	
-	
+<script type="text/javascript">
+//DrawCaptcha_qcontact('qtxtCaptchaC');
+DrawCaptcha_qcontact('qtxtpkg');
+</script>
+</div>
 
 </body></html>
