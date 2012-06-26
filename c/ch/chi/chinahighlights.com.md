@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinahighlights.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206062641id_/http%3A//www.chinahighlights.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinahighlights.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626095528id_/http%3A//www.chinahighlights.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security, TRUSTe Certificated - China Highlights
 
@@ -31,12 +31,6 @@ We use this information to
   * Send our latest newsletter to you as your request
 
 
-
-### Choice/Opt-Out 
-
-You may choose to stop receiving our newsletters by the unsubscribe instructions contained in the each newsletter that we sent, or go to our newsletter page on our website, logging into your account and updating your selections or you can contact us at China Highlights, service@chinahighlights.com.
-
-We also allow you to create an account, and share information such as messages, questions, comments, & travel experience with others.
 
 ### Information Obtained from Third Parties 
 
@@ -114,9 +108,15 @@ To review and update your personal information to ensure it is accurate, you may
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-### Contact Information
+### Our Contact Information
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
 **China Highlights, No.11 Binjiang Road, Guilin, China 541002**  
 **Email:** [service@chinahighlights.com](mailto:service@chinahighlights.com)
+
+### Choice/Opt-Out 
+
+You may choose to stop receiving our newsletters by the unsubscribe instructions contained in the each newsletter that we sent, or go to our newsletter page on our website, logging into your account and updating your selections or you can contact us at China Highlights, service@chinahighlights.com.
+
+We also allow you to create an account, and share information such as messages, questions, comments, & travel experience with others.
