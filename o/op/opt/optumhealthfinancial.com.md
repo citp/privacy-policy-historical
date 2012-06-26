@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optumhealthfinancial.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223135810id_/http%3A//www.optumhealthfinancial.com/AboutUs/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optumhealthfinancial.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626192230id_/http%3A//www.optumhealthfinancial.com/AboutUs/PrivacyPolicy) for the most accurate reproduction.*
 
 # OptumHealth.com - About Us - Privacy Policy
 
