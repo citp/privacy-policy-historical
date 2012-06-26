@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upfeet.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214134520id_/http%3A//www.upfeet.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upfeet.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626032741id_/http%3A//www.upfeet.com/ww/privacy) for the most accurate reproduction.*
 
-# UpFeet United States - Privacy policies
+# UpFeet Worldwide - Privacy policies
 
 This privacy policy sets out how UpFeet.com uses and protects any information that you give when you use this website.   
 UpFeet.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, and then you can be assured that it will only be used in accordance with this privacy statement. 
