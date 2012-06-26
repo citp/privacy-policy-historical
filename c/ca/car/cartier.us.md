@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartier.us privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126132803id_/http%3A//www.cartier.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartier.us privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627011549id_/http%3A//www.cartier.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - CARTIER US online
 
@@ -12,7 +12,7 @@ This Privacy Policy governs personal information we collect from our customers t
 
 No part of this site is directed to children under age 13 and we will not knowingly collect personal information from any child under age 13. 
 
-To regist/conditions-of-sale" title="Conditions of Sales" target="_self"> **Conditions of Sale**   before you register or place an order.
+To register or place an order through the Client Relations Center, you must have reached the age of majority (which in most states is 18 years old) and have legal capacity to enter into a contract. If you are under the age of majority or cannot lawfully enter into a contract, you must advice your parent or legal guardian to review this Privacy Policy and our [**Conditions of Sale**](https://web.archive.org/conditions-of-sale "Conditions of Sales")  before you register or place an order.
 
 Should we discover or be informed that a child has registered his/her or another child's personal details, we will delete such information from our records.
 
