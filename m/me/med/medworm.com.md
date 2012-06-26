@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medworm.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205205854id_/http%3A//www.medworm.com/rss/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medworm.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626190043id_/http%3A//www.medworm.com/rss/privacypolicy.php) for the most accurate reproduction.*
 
 # MedWorm Privacy Policy
 
@@ -41,6 +41,10 @@ Any statistical data that may be shared with other organisations regarding MedWo
 Statistical data will be used to provide MedWorm users details on popular data sources and data items within MedWorm, but Frankie ensures that such shared information will only be done at a very general level (i.e. popular items within a category for a particular country or possibly industry sector) and will not compromise either the organizational or individual’s privacy in any way.
 
 An organisation's activity on MedWorm would only be publicly revealed if that organisation had been posting misleading comments or acting maliciously on the MedWorm site, and it was considered in the public interest to do so. 
+
+**Advertising**
+
+Ads served on the MedWorm and MedWorm Dailies websites are served by MedWorm's ads partner Medica. Please see the [Medica privacy policy here](http://imaging.ubmmedica.com/all/UBMMedica%20Network_Privacy_Statement.html) for information on privacy matters and cookies used in relation to those ads.
 
 **Changes to Policy**
 
