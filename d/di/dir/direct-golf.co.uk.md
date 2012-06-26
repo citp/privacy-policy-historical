@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the direct-golf.co.uk privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222071758id_/http%3A//www.direct-golf.co.uk/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direct-golf.co.uk privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627015804id_/http%3A//www.direct-golf.co.uk/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Direct Golf UK
 
@@ -14,7 +14,7 @@ The type of information we will collect about you if you place an order with us 
   * address
   * phone number
   * e-mail address
-  * credit/debit card details
+  * credit/debit card details (through certified payment processing companies)
 
 
 
@@ -28,7 +28,7 @@ The personal information which we hold will be held securely in accordance with 
 
 We collect e-mail addresses in one of two ways: 
 
-  1. Visitors choose to voluntarily add their e-mail address to our list via one of the clearly identifiable areas of the site - ie the top left of our homepage, or the occasional pop-up window which appears on our homepage.
+  1. Visitors choose to voluntarily add their e-mail address to our list via one of the clearly identifiable areas of the site - ie the offers signup down the right of our homepage, or through our members signup page.
   2. By entering competitions, or requesting advice on our site via an online form.
 
 
@@ -41,8 +41,8 @@ Visitors to this site who; enter competitions or request advice and feedback wil
 
 ## Cookies
 
-A cookie is a simple text file which contains information about your interaction with a specific website, and cannot be read by any other site apart from the one which created it. We currently use cookies on our website to personalise your experience and store cart information. If you have cookies disabled you will not be able to use all the features on our website or place orders. **You can usually enable cookies by going to the privacy section of your browsers settings or internet options.**
+A cookie is a simple text file which contains information about your interaction with a specific website, and cannot be read by any other site apart from the one which created it. We currently use cookies on our website to personalise your experience, store cart information and analyse visitor interaction with the website to provide a better experience for our customers. If you have cookies disabled you will not be able to use all the features on our website or place orders. **You can usually enable cookies by going to the privacy section of your browsers settings or internet options.**
 
-We may also use third party cookies to track the patterns of behaviour of visitors to our site. If you prefer not to be tracked in this way you may be able to change your browser settings to block third party cookies. 
+We also use third party cookies to track the patterns of behaviour of visitors to our site and for the integration of social media services. If you prefer not to be tracked in this way you should be able to change your browser settings to block third party cookies. 
 
 If you have any questions about your privacy on this site, you should e-mail us at [info@direct-golf.co.uk](mailto:info@direct-golf.co.uk). 
