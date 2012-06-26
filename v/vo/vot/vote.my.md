@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vote.my privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124075644id_/http%3A//www.vote.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vote.my privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626140039id_/http%3A//www.vote.my/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Vote My Story
+# Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
