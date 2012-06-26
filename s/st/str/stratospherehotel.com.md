@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stratospherehotel.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095038id_/http%3A//stratospherehotel.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratospherehotel.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626222351id_/http%3A//www.stratospherehotel.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Las Vegas NV - Stratosphere Casino, Hotel & Tower
 
-This Privacy Policy is effective as of January, 1, 2011.
+This Privacy Policy is effective as of March 1, 2012.
 
     I.  Application of this Privacy Policy.
 
@@ -56,6 +56,6 @@ This Privacy Policy is effective as of January, 1, 2011.
 
     IX. Changes
 
-      This Privacy Policy is dated January 1, 2011. We reserve the right to change, modify or amend this Privacy Policy at any time. When the Privacy Policy is changed, modified and/or amended, the revised Privacy Policy will be posted on Stratosphere Casino, Hotel & Tower Web Sites. Any revised Privacy Policy will only apply prospectively to Personal Information collected or modified after the effective date of the revised policy. Customers are responsible for periodically checking the Privacy Policy posted on Stratosphere Casino, Hotel & Tower Web Sites for changes.
+      This Privacy Policy is dated March 1, 2012. We reserve the right to change, modify or amend this Privacy Policy at any time. When the Privacy Policy is changed, modified and/or amended, the revised Privacy Policy will be posted on Stratosphere Casino, Hotel & Tower Web Sites. Any revised Privacy Policy will only apply prospectively to Personal Information collected or modified after the effective date of the revised policy. Customers are responsible for periodically checking the Privacy Policy posted on Stratosphere Casino, Hotel & Tower Web Sites for changes.
 
     If you have any questions regarding this Privacy Policy, please contact [master.web@acepllc.com](mailto:master.web@acepllc.com).
