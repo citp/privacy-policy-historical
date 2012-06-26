@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweatybetty.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221172201id_/http%3A//www.sweatybetty.com/us/article-artlcs_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweatybetty.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626162840id_/http%3A//www.sweatybetty.com/us/article-artlcs_security) for the most accurate reproduction.*
 
 # Sweaty Betty.com | Gym wear, yoga clothes, beach wear, ski wear
 
