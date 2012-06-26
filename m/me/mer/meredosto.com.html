@@ -1,475 +1,136 @@
-<!--The following is the downloaded HTML source of the meredosto.com privacy policy that was archived on 2011-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111115204208id_/http%3A//meredosto.com/pg/expages/read/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the meredosto.com privacy policy that was archived on 2012-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626191804id_/http%3A//meredosto.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html><html xml:lang="en" lang="en"><head>	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="robots" content="noodp,noydir">
-	<meta name="description" content="Meredosto is Free Social Networking, helps you connect and share with dosto and people. Mere dosto or    Meredosto, means My friends or Myfriends. People and dosto use meredosto to find old friends &amp; connect with new, share favourite photos, Message friends(in private), share views &amp; comments via blogs. Anyone can join, register for free. ">
-	<title>Meredosto</title>
-	<script type="text/javascript" src="http://meredosto.com/vendors/jquery/jquery-1.3.2.min.js"></script>
-	<script type="text/javascript" src="http://meredosto.com/vendors/jquery/jquery-ui-1.7.2.custom.min.js"></script>
-	<script type="text/javascript" src="http://meredosto.com/vendors/jquery/jquery.form.js"></script>
-	<script type="text/javascript" src="http://meredosto.com/_css/js.php?lastcache=1321375548&amp;js=initialise_elgg&amp;viewtype=default"></script>
-	<!-- include the default css file -->
-	<link rel="stylesheet" href="http://meredosto.com/_css/css.css?lastcache=1321375548&amp;viewtype=default" type="text/css">
+	<meta name="description" content="Mere dosto is Free Social Networking, helps you connect and share with dosto and people. Mere dosto or    Meredosto, means My friends or Myfriends. People and dosto use meredosto to find old friends &amp; connect with new, share favourite photos, Message friends(in private), share views &amp; comments via blogs. Anyone can join, register for free. ">
+	<title>Meredosto: Privacy</title>
+	<link rel="SHORTCUT ICON" href="http://meredosto.com/_graphics/favicon.ico">
+	<link rel="stylesheet" href="http://meredosto.com/cache/css/default/elgg.1339470812.css" type="text/css">
 
-	
-		
-	
+	<!--[if gt IE 7]>
+		<link rel="stylesheet" type="text/css" href="http://meredosto.com/cache/css/default/ie.1339470812.css" />
+	<![endif]-->
+	<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="http://meredosto.com/cache/css/default/ie7.1339470812.css" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" type="text/css" href="http://meredosto.com/cache/css/default/ie6.1339470812.css" />
+	<![endif]-->
 
-	<meta name="likes_comment_release" content="0.3.3">
-	<meta name="likes_comment_version" content="2010071201"><script type="text/javascript">
-// slide toggle for mini profile
-$(document).ready(function()
-{
-  //hide the all of the element with class msg_body2 div to hide
-  $(".msg_body2").hide();
-  //toggle the componenet with class msg_body2 button
-  $(".msg_header").click(function()
-  {
-    $(this).next(".msg_body2").slideToggle(100);
-  });
-});
-</script>
-
-<!--<script type='text/javascript'> 
-  $(function() {
-$('#atticons img').tipsy({gravity: 's'});
-  });
-</script>-->
+	<script type="text/javascript" src="http://meredosto.com/vendors/jquery/jquery-1.6.4.min.js"></script>
+	<script type="text/javascript" src="http://meredosto.com/vendors/jquery/jquery-ui-1.8.16.min.js"></script>
+	<script type="text/javascript" src="http://meredosto.com/cache/js/default/elgg.1339470812.js"></script>
 
 <script type="text/javascript">
-var bustcachevar=1 //bust potential caching of external pages after initial request? (1=yes, 0=no)
-var loadedobjects=""
-var rootdomain="http://"+window.location.hostname
-var bustcacheparameter=""
+	/**
+ * Don't want to cache these -- they could change for every request
+ */
+elgg.config.lastcache = 1339470812;
+elgg.config.viewtype = 'default';
+elgg.config.simplecache_enabled = 1;
 
-function ajaxpage(url, containerid){
-var page_request = false
-if (window.XMLHttpRequest) // if Mozilla, Safari etc
-page_request = new XMLHttpRequest()
-else if (window.ActiveXObject){ // if IE
-try {
-page_request = new ActiveXObject("Msxml2.XMLHTTP")
-} 
-catch (e){
-try{
-page_request = new ActiveXObject("Microsoft.XMLHTTP")
-}
-catch (e){}
-}
-}
-else
-return false
-//page_request.onreadystatechange=function(){
-//loadpage(page_request, containerid)
-//}
-document.getElementById(containerid).innerHTML='<center><img src="http://meredosto.com/_graphics/ajax_loader.gif"></center>'
-page_request.onreadystatechange=function(){
-loadpage(page_request, containerid)
-}
-if (bustcachevar) //if bust caching of external page
-bustcacheparameter=(url.indexOf("?")!=-1)? "&"+new Date().getTime() : "?"+new Date().getTime()
-page_request.open('GET', url+bustcacheparameter, true)
-page_request.send(null)
-}
-
-function loadpage(page_request, containerid){
-if (page_request.readyState == 4 && (page_request.status==200 || window.location.href.indexOf("http")==-1))
-document.getElementById(containerid).innerHTML=page_request.responseText
-}
-
-function loadobjs(){
-if (!document.getElementById)
-return
-for (i=0; i<arguments.length; i++){
-var file=arguments[i]
-var fileref=""
-if (loadedobjects.indexOf(file)==-1){ //Check to see if this object has not already been added to page before proceeding
-if (file.indexOf(".js")!=-1){ //If object is a js file
-fileref=document.createElement('script')
-fileref.setAttribute("type","text/javascript");
-fileref.setAttribute("src", file);
-}
-else if (file.indexOf(".css")!=-1){ //If object is a css file
-fileref=document.createElement("link")
-fileref.setAttribute("rel", "stylesheet");
-fileref.setAttribute("type", "text/css");
-fileref.setAttribute("href", file);
-}
-}
-if (fileref!=""){
-document.getElementsByTagName("head").item(0).appendChild(fileref)
-loadedobjects+=file+" " //Remember this object as being already added to page
-}
-}
-}
-
-</script>
-
-<script type="text/javascript">
-  var videoplay_page_url = 'http://meredosto.com/pg/videos/playvideo/';
-  var video_loading_image = 'http://meredosto.com/mod/izap_videos/_graphics/ajax-loader.gif';
-  var play_image = 'http://meredosto.com/mod/izap_videos/_graphics/play_button.png';
-
-  $(document).ready(function() {
-            $(".izap_ajaxed_thumb").live('click', function() {
-          $("#load_video_" + this.rel).attr('style', '');
-        $("#load_video_" + this.rel).html('<img src="'+video_loading_image+'" />');
-        $("#load_video_" + this.rel).load(videoplay_page_url + this.rel);
-        return false;
-      });
-    });
-</script>
-<script type="text/javascript" src="http://meredosto.com/mod/izap_videos/views/default/izap_videos/js/default.js"></script>
-<script type="text/javascript" src="http://meredosto.com/mod/izap_videos/views/default/izap_videos/js/jquery.expander.js"></script>	<script type="text/javascript">
-		jQuery(document).ready(function($) {
-		});
-	</script>
-</head>
-
-<body>
+elgg.security.token.__elgg_ts = 1340738283;
+elgg.security.token.__elgg_token = 'ad79c87e5a87d169e716351d974e5af5';
 
 
-<div id="elgg_topbar" class="elgg_topbar_loggedout">
-	<div id="elgg_topbar_container_search">
-				<div id="elgg_topbar_container_middle">			
-			<form id="loginform_top" action="http://meredosto.com/action/login" method="POST">
-			<a class="loginbox_top_link" href="http://meredosto.com/">Register</a>
-				<a class="loginbox_top_link" href="http://meredosto.com/account/forgotten_password.php">Lost password</a>
-				<input type="hidden" name="__elgg_token" value="03e6afacf422aabf3ef091f2e1665596"><input type="hidden" name="__elgg_ts" value="1321389726">				<small>email/username</small>
-				<input type="text" name="username" value="" id="username">
-				<small>Password</small>
-				<input type="password" name="password" value="" id="password"> 
-				<input id="login_remember" type="checkbox" value="true" name="persistent">
-				Remember me				<input class="login_button" type="submit" src="" value="Login">
+//Before the DOM is ready, but elgg's js framework is fully initalized
+elgg.trigger_hook('boot', 'system');</script>
 
- 				<!-- <a href="http://meredosto.com/account/register.php">register:short</a>--> 
-			</form>
-		</div>
-	</div>
-		</div><!-- /#elgg_topbar -->
+</head><body><div class="elgg-page elgg-page-default"><div class="elgg-page-messages">
+		<ul class="elgg-system-messages"><li class="hidden"></li></ul></div><div class="elgg-page-header"><div class="elgg-inner">
+<h1 style="float:left;margin-top:10px;">
+	<a class="elgg-heading-site" href="http://meredosto.com/">
+		<img src="http://meredosto.com/mod/cool_theme/graphics/lg2.png">
+	</a>
+</h1>
+<form method="post" action="http://meredosto.com/action/login" id="facebook-header-login" class="elgg-form elgg-form-login"><fieldset><input type="hidden" name="__elgg_token" value="ad79c87e5a87d169e716351d974e5af5"><input type="hidden" name="__elgg_ts" value="1340738283">
+<div>
+	<label>Username or email</label>
 	
-	<div class="clearfloat"></div>
+<input type="text" value="" name="username" class="elgg-input-text elgg-autofocus"></div>
+<div>
+	<label>Password</label>
 	
-	
-
-	<script type="text/javascript">
-        // opacity
-        function opacity(element, value) {
-            var value_noie = value / 100;
-            $(element).css('filter', 'alpha(opacity=' + value + ')');
-            $(element).css('-moz-opacity', value_noie);
-            $(element).css('-khtml-opacity', value_noie);
-            $(element).css('opacity',value_noie);
-        }   
-        // center horizontally
-        function centerHoriz(lo_que) {
-            var x = parseFloat($(window).width()) / 2 - parseFloat($(lo_que).width()) / 2;
-            var y = $(window).scrollTop() + $(window).height() / 2 - parseFloat($(lo_que).height()) / 2;
-            x = x + 'px';
-            y = y + 'px';
-            $(lo_que).css({'left': x, 'top': y});
-        }
-        // center vertically
-        function centerVert(lo_que) {
-        	lo_que_height = $(lo_que).height();
-            window_height = $(window).height();
-            document_height = $(document).height();
-            var y = $(window).scrollTop(); //Default value
-            if (window_height > lo_que_height) {
-	            y = $(window).scrollTop() + parseInt(window_height / 2) - parseInt(lo_que_height / 2);
-            } else {
-                //this code fix the problem of infinity scroll
-	            if (y > document_height-lo_que_height) {
-					y = document_height-lo_que_height;
-		        }
-            }            
-            $(lo_que).css({'top': y});
-        }
-		
-        // lightbox
-				function showLB(lb) {
-                    $('#fonLB').css('width', $(window).width() + 'px');
-                    $('#fonLB').css('height', $(document).height() + 'px');
-                    
-                    opacity('#fonLB', 70);
-                    centerHoriz(lb);
-                    centerVert(lb);
-                    
-                    $('#fonLB').fadeIn('normal', function() {$(lb).fadeIn('normal');});
-                }
-                function closeLB() {
-                    $('.lb').fadeOut('normal', function() {$('#fonLB').fadeOut('normal');});
-                }
-
-                function clearLBClass() {
-                	$('.lb .lightbox-content').attr('class','lightbox-content');
-                }                
-
-                $(document).ready(function(){
-	                $('#fonLB, .lbHome .cerrar').click(
-	                    function() {	
-	                        closeLB();
-	                        clearLBClass();
-	                        return false;
-	                    }
-	                );
-	                $(window).scroll(
-	                    function() {
-	                        if($('.lb').is(':visible')) {
-	                            centerVert($('.lb'));
-	                        }
-	                    }
-	                );
-                });
-	</script>
-
-	<div id="fonLB">&nbsp;</div>
-	<div class="lb lbHome">
-		<div class="lightbox-content">
-		</div>
-	    <div class="cerrar">X</div>
-	</div>
-	
-	<div id="globalheader_wrapper">
-	<div id="globalheader">
-		  <!-- 	
-	<div id="login-box">
-	<h2>Log in</h2>
-		<form    action="http://meredosto.com/action/login" method="post" >
-<input type="hidden"  name="__elgg_token"  value="03e6afacf422aabf3ef091f2e1665596" /><input type="hidden"  name="__elgg_ts"  value="1321389726" /><p class="loginbox"><label>Username/Email<br />
-<input type="text"   name="username"  value="" class="login-textarea"/></label><br /><label>Password<br />
-<input type="password"   name="password"  value="" class="login-textarea" /></label><br /><input name=""  type="submit" class="submit_button"  value="Log in"  /> <div id="persistent_login"><label><input type="checkbox" name="persistent" value="true" />Remember me</label></div></p><p class="loginbox"><a href="http://meredosto.com/account/register.php">Register</a> | <a href="http://meredosto.com/account/forgotten_password.php">Lost password</a></p></form>	</div> --> 
-	
-		<div id="site_logo">
-	<a href="http://meredosto.com/">
-			<img src="http://meredosto.com/mod/theme_bhopoo/graphics/meredosto.jpg" border="0">
-		</a>
-	</div>
-
-	</div>
+<input type="password" value="" name="password" class="elgg-input-password">
 </div>
 
-<div id="page_container">
-<div id="page_wrapper">
 
-<div id="layout_header">
-<div id="wrapper_header">
-	<!-- display the page title -->
+<div class="elgg-foot">
+	<label class="mtm float-alt">
+		<input type="checkbox" name="persistent" value="true">
+		Remember me	</label>
 	
-</div><!-- /#wrapper_header -->
-</div><!-- /#layout_header -->
-<!-- main contents -->
+	<input type="submit" value="Log in" class="elgg-button elgg-button-submit">
+	
+	
+	<ul class="elgg-menu elgg-menu-general mtm">
+	<li><a class="registration_link" href="http://meredosto.com/register">Register</a></li>		<li><a class="forgot_link" href="http://meredosto.com/forgotpassword">
+			Lost password		</a></li>
+	</ul>
+</div>
+</fieldset></form></div></div><div class="elgg-page-body"><div class="elgg-inner">
+<div class="elgg-layout elgg-layout-one-sidebar clearfix">
+	<div class="elgg-sidebar">
+			</div>
 
-<!-- display any system messages -->
+	<div class="elgg-main elgg-body">
+		<h1>Privacy</h1><div class="elgg-output"><div>
+<p><strong><span style="font-size: 9.5pt; color: #333333;">Privacy  Policy</span></strong><span style="font-size: 9.5pt; color: #333333;"></span></p>
+<p><span style="font-size: 9.5pt; color: #333333;">&nbsp;</span></p>
+<p><em><span style="font-size: 9.5pt; color: #333333;">Website  Visitors</span></em><span style="font-size: 9.5pt; color: #333333;"></span></p>
+<p><span style="font-size: 9.5pt; color: #333333;">Like  most website operators, meredosto.com collects non-personally-identifying  information of the sort that web browsers and servers typically make available,  such as the browser type, language preference, referring site, and the date and  time of each visitor request. Meredosto’s purpose in collecting non-personally  identifying information is to better understand how meredosto.com visitors use  its website. From time to time, meredosto.com may release  non-personally-identifying information in the aggregate, e.g., by publishing a  report on trends in the usage of its website.</span></p>
+<p><span style="font-size: 9.5pt; color: #333333;">meredosto.com  also collects potentially personally-identifying information like Internet  Protocol (IP) addresses. meredosto.com does not use such information to  identify its visitors, however, and does not disclose such information, other  than under the same circumstances that it uses and discloses  personally-identifying information, as described below.</span></p>
+<p><em><span style="font-size: 9.5pt; color: #333333;">Gathering  of Personally-Identifying Information</span></em><span style="font-size: 9.5pt; color: #333333;"></span></p>
+<p><span style="font-size: 9.5pt; color: #333333;">Certain  visitors to meredosto.com websites choose to interact with meredosto.com in  ways that require meredosto.com to gather personally-identifying information.  The amount and type of information that meredosto.com gathers depends on the  nature of the interaction. For example, we ask visitors who use our forums to  provide a username and email address. In each case, meredosto.com collects  such information only insofar as is necessary or appropriate to fulfill the  purpose of the visitor's interaction with meredosto.com. meredosto.com does  not disclose personally-identifying information other than as described below.  And visitors can always refuse to supply personally-identifying information,  with the caveat that it may prevent them from engaging in certain  website-related activities.</span></p>
+<p><em><span style="font-size: 9.5pt; color: #333333;">Aggregated  Statistics</span></em><span style="font-size: 9.5pt; color: #333333;"></span></p>
+<p><span style="font-size: 9.5pt; color: #333333;">meredost.com  may collect statistics about the behavior of visitors to its websites. For  instance, meredosto.com may reveal how many downloads a particular case study  recieved. However, meredosto.com does not disclose personally-identifying  information other than as described below.</span></p>
+<p><em><span style="font-size: 9.5pt; color: #333333;">Protection  of Certain Personally-Identifying Information</span></em><span style="font-size: 9.5pt; color: #333333;"></span></p>
+<p><span style="font-size: 9.5pt; color: #333333;">meredosto.com  discloses potentially personally-identifying and personally-identifying  information only to those of its employees, contractors, and affiliated  organizations that (i) need to know that information in order to process it on meredosto.com's behalf or to provide services available at meredosto.com's  websites, and (ii) that have agreed not to disclose it to others. Some of those  employees, contractors and affiliated organizations may be located outside of  your home country; by using meredosto.com's websites, you consent to the  transfer of such information to them. meredosto.com will not rent or sell  potentially personally-identifying and personally-identifying information to  anyone, unless it is part of a business transfer, as described below. Other than  to its employees, contractors, and affiliated organizations, as described above meredosto.com discloses potentially personally-identifying and  personally-identifying information only when required to do so by law, or when meredosto .com believes in good faith that disclosure is reasonably necessary  to protect the property or rights of meredosto.com, third parties, or the  public at large. If you are a registered user of a meredosto.com website and  have supplied your email address, meredosto.com may occasionally send you an  email to tell you about new features, solicit your feedback, or just keep you up  to date with what's going on with meredosto.com and our products. We primarily  use our blog to communicate this type of information, so we expect to keep this  type of email to a minimum. If you send us a request (for example via a support  email or via one of our feedback mechanisms), we reserve the right to publish it  in order to help us clarify or respond to your request or to help us support  other users. meredosto.com takes all measures reasonably necessary to protect  against the unauthorized access, use, alteration, or destruction of potentially  personally-identifying and personally-identifying information.</span></p>
+<p><em><span style="font-size: 9.5pt; color: #333333;">Business  transfers</span></em><span style="font-size: 9.5pt; color: #333333;"></span></p>
+<p><span style="font-size: 9.5pt; color: #333333;">meredosto.com  may sell, transfer or otherwise share some or all of its assets, including your  personally identifiable information on meredosto.com, in connection with a  merger, acquisition, reorganization or sale of assets or in the event of  bankruptcy.</span></p>
+<p><em><span style="font-size: 9.5pt; color: #333333;">Cookies</span></em><span style="font-size: 9.5pt; color: #333333;"></span></p>
+<p><span style="font-size: 9.5pt; color: #333333;">A  cookie is a string of information that a website stores on a visitor's computer,  and that the visitor's browser provides to the website each time the visitor  returns. meredosto.com uses cookies to help meredosto.com identify and track  visitors, their usage of meredosto.com website, and their website access  preferences. meredosto.com visitors who do not wish to have cookies placed on  their computers should set their browsers to refuse cookies before using meredosto.com, with the drawback that certain features of meredosto.com may  not function properly without the aid of cookies.</span></p>
+<p><em><span style="font-size: 9.5pt; color: #333333;">Our  Policy Towards Children</span></em><span style="font-size: 9.5pt; color: #333333;"></span></p>
+<p><span style="font-size: 9.5pt; color: #333333;">The  Site is not directed to persons under 13. If a parent or guardian becomes aware  that his or her child has provided us with personally identifiable information  without their consent, he or she should contact us at info@meredosto.com. We  do not knowingly collect personally identifiable information from children under  13. If we become aware that a child under 13 has provided us with personal  identifiable Information, we will delete such information from our  files.</span></p>
+<p><em><span style="font-size: 9.5pt; color: #333333;">Privacy  Policy Changes</span></em><span style="font-size: 9.5pt; color: #333333;"></span></p>
+<p><span style="font-size: 9.5pt; color: #333333;">Although  most changes are likely to be minor, meredosto.com may change its Privacy  Policy from time to time, and in Meredosto’s sole discretion. meredosto.com  encourages visitors to frequently check this page for any changes to its Privacy  Policy. Your continued use of this site after any change in this Privacy Policy  will constitute your acceptance of such change.</span></p>
+<p><em><span style="font-size: 9.5pt; color: #333333;">Thanks  to </span></em><a rel="nofollow" href="http://wordpress.com/"><em><span style="font-size: 9.5pt;"><span style="color: #4690d6;">wordpress.com</span></span></em></a><em><span style="font-size: 9.5pt; color: #333333;"> for making their privacy policy available under a Creative Commons Sharealike  license.</span></em><span style="font-size: 9.5pt; color: #333333;"></span></p>
+</div>
+</div>	</div>
+</div>
+</div></div><div class="elgg-page-footer"><div class="elgg-inner"><ul class="elgg-menu elgg-menu-footer elgg-menu-hz elgg-menu-footer-default"><li class="elgg-menu-item-privacy elgg-state-selected"><a href="http://meredosto.com/privacy">Privacy</a></li><li class="elgg-menu-item-terms"><a href="http://meredosto.com/terms">Terms</a></li><li class="elgg-menu-item-about"><a href="http://meredosto.com/about">About</a></li></ul><div class="mts clearfloat float-alt"><a href="http://elgg.org" class=""><img src="http://meredosto.com/_graphics/powered_by_elgg_badge_drk_bckgnd.gif" alt="Powered by Elgg" width="106" height="15"></a></div><!-- Get the Publisher and Slot ID for the Banner Size 728 x 90 along with Adsense for Footer -->
 
 
-<!-- canvas -->
-<div id="layout_canvas">
+<br>
 
 
-<!-- main content -->
-<div id="one_column">
+<center>
+<script type="text/javascript">
+   <!--
+       google_ad_client = "pub-1784848446092244";
+       /* Banner728x90 */
+       google_ad_slot = "4803721490";
+       google_ad_width = 728;
+       google_ad_height = 90;
+   //-->
+</script>
 
-<div id="content_area_user_title"><h2>Privacy</h2></div><div class="contentWrapper">
-<div class="contentWrapper">
-<p style="background: white none repeat scroll 0% 0%;"><strong><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">Privacy  Policy</span></strong><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;"></span></p>
-<p style="background: white none repeat scroll 0% 0%;"><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">&nbsp;</span></p>
-<p style="background: white none repeat scroll 0% 0%;"><em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">Website  Visitors</span></em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;"></span></p>
-<p style="background: white none repeat scroll 0% 0%;"><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">Like  most website operators, meredosto.com collects non-personally-identifying  information of the sort that web browsers and servers typically make available,  such as the browser type, language preference, referring site, and the date and  time of each visitor request. Meredosto’s purpose in collecting non-personally  identifying information is to better understand how meredosto.com visitors use  its website. From time to time, meredosto.com may release  non-personally-identifying information in the aggregate, e.g., by publishing a  report on trends in the usage of its website.</span></p>
-<p style="background: white none repeat scroll 0% 0%;"><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">meredosto.com  also collects potentially personally-identifying information like Internet  Protocol (IP) addresses. meredosto.com does not use such information to  identify its visitors, however, and does not disclose such information, other  than under the same circumstances that it uses and discloses  personally-identifying information, as described below.</span></p>
-<p style="background: white none repeat scroll 0% 0%;"><em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">Gathering  of Personally-Identifying Information</span></em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;"></span></p>
-<p style="background: white none repeat scroll 0% 0%;"><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">Certain  visitors to meredosto.com websites choose to interact with meredosto.com in  ways that require meredosto.com to gather personally-identifying information.  The amount and type of information that meredosto.com gathers depends on the  nature of the interaction. For example, we ask visitors who use our forums to  provide a username and email address. In each case, meredosto.com collects  such information only insofar as is necessary or appropriate to fulfill the  purpose of the visitor's interaction with meredosto.com. meredosto.com does  not disclose personally-identifying information other than as described below.  And visitors can always refuse to supply personally-identifying information,  with the caveat that it may prevent them from engaging in certain  website-related activities.</span></p>
-<p style="background: white none repeat scroll 0% 0%;"><em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">Aggregated  Statistics</span></em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;"></span></p>
-<p style="background: white none repeat scroll 0% 0%;"><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">meredost.com  may collect statistics about the behavior of visitors to its websites. For  instance, meredosto.com may reveal how many downloads a particular case study  recieved. However, meredosto.com does not disclose personally-identifying  information other than as described below.</span></p>
-<p style="background: white none repeat scroll 0% 0%;"><em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">Protection  of Certain Personally-Identifying Information</span></em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;"></span></p>
-<p style="background: white none repeat scroll 0% 0%;"><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">meredosto.com  discloses potentially personally-identifying and personally-identifying  information only to those of its employees, contractors, and affiliated  organizations that (i) need to know that information in order to process it on meredosto.com's behalf or to provide services available at meredosto.com's  websites, and (ii) that have agreed not to disclose it to others. Some of those  employees, contractors and affiliated organizations may be located outside of  your home country; by using meredosto.com's websites, you consent to the  transfer of such information to them. meredosto.com will not rent or sell  potentially personally-identifying and personally-identifying information to  anyone, unless it is part of a business transfer, as described below. Other than  to its employees, contractors, and affiliated organizations, as described above meredosto.com discloses potentially personally-identifying and  personally-identifying information only when required to do so by law, or when meredosto .com believes in good faith that disclosure is reasonably necessary  to protect the property or rights of meredosto.com, third parties, or the  public at large. If you are a registered user of a meredosto.com website and  have supplied your email address, meredosto.com may occasionally send you an  email to tell you about new features, solicit your feedback, or just keep you up  to date with what's going on with meredosto.com and our products. We primarily  use our blog to communicate this type of information, so we expect to keep this  type of email to a minimum. If you send us a request (for example via a support  email or via one of our feedback mechanisms), we reserve the right to publish it  in order to help us clarify or respond to your request or to help us support  other users. meredosto.com takes all measures reasonably necessary to protect  against the unauthorized access, use, alteration, or destruction of potentially  personally-identifying and personally-identifying information.</span></p>
-<p style="background: white none repeat scroll 0% 0%;"><em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">Business  transfers</span></em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;"></span></p>
-<p style="background: white none repeat scroll 0% 0%;"><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">meredosto.com  may sell, transfer or otherwise share some or all of its assets, including your  personally identifiable information on meredosto.com, in connection with a  merger, acquisition, reorganization or sale of assets or in the event of  bankruptcy.</span></p>
-<p style="background: white none repeat scroll 0% 0%;"><em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">Cookies</span></em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;"></span></p>
-<p style="background: white none repeat scroll 0% 0%;"><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">A  cookie is a string of information that a website stores on a visitor's computer,  and that the visitor's browser provides to the website each time the visitor  returns. meredosto.com uses cookies to help meredosto.com identify and track  visitors, their usage of meredosto.com website, and their website access  preferences. meredosto.com visitors who do not wish to have cookies placed on  their computers should set their browsers to refuse cookies before using meredosto.com, with the drawback that certain features of meredosto.com may  not function properly without the aid of cookies.</span></p>
-<p style="background: white none repeat scroll 0% 0%;"><em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">Our  Policy Towards Children</span></em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;"></span></p>
-<p style="background: white none repeat scroll 0% 0%;"><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">The  Site is not directed to persons under 13. If a parent or guardian becomes aware  that his or her child has provided us with personally identifiable information  without their consent, he or she should contact us at info@meredosto.com. We  do not knowingly collect personally identifiable information from children under  13. If we become aware that a child under 13 has provided us with personal  identifiable Information, we will delete such information from our  files.</span></p>
-<p style="background: white none repeat scroll 0% 0%;"><em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">Privacy  Policy Changes</span></em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;"></span></p>
-<p style="background: white none repeat scroll 0% 0%;"><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">Although  most changes are likely to be minor, meredosto.com may change its Privacy  Policy from time to time, and in Meredosto’s sole discretion. meredosto.com  encourages visitors to frequently check this page for any changes to its Privacy  Policy. Your continued use of this site after any change in this Privacy Policy  will constitute your acceptance of such change.</span></p>
-<p style="background: white none repeat scroll 0% 0%;"><em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;">Thanks  to </span></em><a href="http://wordpress.com/"><em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif';"><span style="color: #4690d6;">wordpress.com</span></span></em></a><em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;"> for making their privacy policy available under a Creative Commons Sharealike  license.</span></em><span style="font-size: 9.5pt; font-family: 'Arial','sans-serif'; color: #333333;"></span></p>
-</div></div>
-</div><!-- /one_column -->
-<div class="clearfloat"></div>
-</div><!-- /#layout_canvas -->
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
 
 
-<!-- footer -->
+<!-------- Analytics Script ---------------->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-	$(document).ready(function(){
-		lkPrepareItems();
-	})
-	
-	function lkPrepareItems(){
-		//Execute the action
-		$('.river_action_links a.likes_action').unbind('click')
-		$('.river_action_links a.likes_action').click(function(e) {
-			e.stopPropagation();
-			readyToAnnotate(this);
-			return false;
-		});
-
-		//Show a lightbox
-		$('.likes a.who_else').unbind('click');
-		$('.likes a.who_else').click(function(e) {
-			e.stopPropagation();
-			showWhoElse(this);
-			return false;
-		});
-	}
-
-	function readyToAnnotate(oObject) {
-		var refToUpdate = $(oObject).parent().attr('rel'); 
-		var oContainerLikes = $(oObject).parents('.river_item').find('.' + refToUpdate);
-		//var oContainerButton = $('#' + refToUpdate).parents('.river_item').find('.likes_action_container');
-		oContainerButton = $(oObject).parent();
-		var sUrl = "http://meredosto.com/mod/likes/endpoint/ping.php";
-		//var sCallBack = nextToAnnotate(refToUpdate);
-		//executeAction(oObject, oContainer, sUrl, sCallBack);
-
-		var sQueryString = extractQueryString(oObject)
-		var sActionFile = extractActionFile(oObject);
-
-		oLinkButton = oContainerButton.find('a');
-		//console.log(oLinkButton.html());
-		//var oldColor = oLinkButton.css('color');
-		//oLinkButton.css('color', '#ccc');
-		oContainerButton.html("· <span class='likes_loading'>&nbsp;</span>");
-
-//		if(oLinkButton.hasClass('.working')) {
-//			console.log('si tiene');
-//			return false;
-//		}
-
-		$.getJSON(sUrl + sQueryString + sActionFile, function(data){
-			//oLinkButton.addClass('working');
-			oContainerLikes.html(data.status);
-			//oContainerLikes.append(data.button)
-			oContainerButton.html(data.button);
-
-//			console.log(data);
-
-			lkPrepareItems();
-
-			//oLinkButton.css('color', oldColor);
-			
-			//nextToAnnotate(refToUpdate);
-			//console.log(data);
-			//console.log(data['status']);
-		});
-		
-	}
-
-	function nextToAnnotate(refToUpdate){
-		var oContainer = $('#' + refToUpdate).parents('.river_item').find('.likes_action_container');
-		var oObject = $('a[rel='+ refToUpdate + ']');
-		var sUrl = "http://meredosto.com/mod/likes/endpoint/likes_status.php";
-		var sCallBack = lkPrepareItems;
-		executeAction(oObject, oContainer, sUrl, sCallBack);
-	}	
-
-	function showWhoElse(oObject){
-		oContainer = $('.lb .lightbox-content');
-		//add special Class.
-		$(oContainer).addClass('likes-content');
-		sUrl = "http://meredosto.com/pg/likes/who/";
-		sCallBack = showLB('.lbHome');
-		executeAction(oObject, oContainer, sUrl, sCallBack);
-	}
-
-	function executeAction(oObject, oContainer, sUrl, sCallBack) {
-		var sQueryString = extractQueryString(oObject)
-		var sActionFile = extractActionFile(oObject);
-		
-		//$(oContainer).ajaxComplete(function(e, xhr, settings) {
-			//Remove empty likes wrapper
-			//$('.likes:empty').parent().remove();
-		//});
-		$(oContainer).load(sUrl + sQueryString + sActionFile, sCallBack);
-	}
-
-	function extractQueryString(oObject) {
-		var queryString = '';
-		if (oObject != null) {
-			oObject = $(oObject);
-			var linkElement = oObject.attr('href');
-			var queryStringAux = linkElement.split('?');
-			if (typeof queryStringAux[1] != 'undefined') {
-				queryString = '?' + queryStringAux[1] + '&callback=true';
-			}
-		}
-		return queryString;
-	}
-	function extractActionFile(oObject){
-		var actionFile = '';
-		if (oObject != null) {
-			oObject = $(oObject);
-			var linkElement = oObject.attr('href');
-			var sQueryStringAux = linkElement.split('?');
-
-			if (typeof sQueryStringAux[0] != 'undefined') {
-				var actionAux = sQueryStringAux[0];
-				actionAux = actionAux.split('/');
-				if (actionAux.length > 0) {
-					actionAux = actionAux[actionAux.length-1];
-					actionFile = "&action_file=" + actionAux; 	
-				}
-			}
-			return actionFile;
-		}
-	} 
-	
-	
-</script>	
-<div class="clearfloat"></div>
-
-<div id="layout_footer">
-<table width="958" height="79" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td width="210" height="50">
-
-		</td>
-
-		<td width="748" height="50" align="right">
-		<p class="footer_toolbar_links">
-		
-</p><div class="footer_toolbar_links">| 
-<a href="http://meredosto.com/pg/expages/read/About/">About</a> |
-<a href="http://meredosto.com/pg/expages/read/Terms/">Terms</a> |
-<a href="http://meredosto.com/pg/expages/read/Privacy/">Privacy</a> |
-</div>		<p></p>
-		</td>
-	</tr>
-
-	<tr>
-		<td width="210" height="28">
-		
-		</td>
-
-		<td width="748" height="28" align="right">
-		<p class="footer_legal_links"><small>
-		<a href="http://www.elgg.org" target="_blank">
-		<img src="http://meredosto.com/_graphics/powered_by_elgg_badge_drk_bckgnd.gif" border="0">
-		</a>
-		</small>
-		</p>
-		</td>
-	</tr>
-</tbody></table>
-</div><!-- /#layout_footer -->
-
-<div class="clearfloat"></div>
-
-</div><!-- /#page_wrapper -->
-</div><!-- /#page_container -->
-<!-- insert an analytics view to be extended -->
-
-</body></html>
+try {
+	var pageTracker = _gat._getTracker("");
+	pageTracker._trackPageview();
+} catch(err) {}
+</script>
+</div></div></div></body></html>
