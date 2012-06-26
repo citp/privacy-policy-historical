@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filestube.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008075254id_/http%3A//www.filestube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filestube.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627004134id_/http%3A//www.filestube.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
