@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the formidablepro.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227230001id_/http%3A//formidablepro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formidablepro.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626204239id_/http%3A//formidablepro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Formidable Pro
+# Privacy Policy
 
 Strategy11, LLC, a Utah limited liability company, owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
 
@@ -47,7 +47,7 @@ If visitors have any questions about the security on Formidablepro.com, feel fre
 
 ### Correcting, Updating, Deleting & Deactivating Personal Information
 
-If a visitor’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a visitor no longer desires our service, we provide a way to correct, update or delete/deactivate personally identifiable information. This can usually be done at the ‘Your Account’ page or by contacting our Customer Service. 
+If a visitor’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a visitor no longer desires our service, we provide a way to correct, update or delete/deactivate personally identifiable information. This can usually be done at the ‘Your Account’ page or by contacting our Customer Service.
 
 ## Notification of Changes
 
