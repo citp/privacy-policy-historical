@@ -1,11 +1,39 @@
-> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219113434id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626134719id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
 
-# Alfresco Open Source Enterprise Content Management - Privacy Statement
+# Privacy Statement | Alfresco
 
-Last updated: 22 November 2011
+  * [
 
-  
+## Tour
 
+Learn about Alfresco
+
+](https://web.archive.org/tour "Learn about Alfresco")
+  * [
+
+## Evaluate
+
+Is Alfresco right for your company?
+
+](https://web.archive.org/evaluate "Is Alfresco right for your company?")
+  * [
+
+## Support
+
+Training, docs and help from us and our partners
+
+](https://web.archive.org/support "Training, docs and help from us and our partners")
+  * [
+
+## Develop
+
+Build on our open source platform
+
+](https://web.archive.org/develop "Build on our open source platform")
+
+
+
+Last updated: 24 May 2012
 
 ## Scope of This Notice
 
@@ -25,6 +53,7 @@ We may collect and process the following data about you:
 
   * Information that you provide us by completing forms on our sites [www.alfresco.com](http://www.alfresco.com/) and any subdomains of alfresco.com (" **our sites** "). This includes information provided at the time of registering to use our site or subscribing to our service including contact details such as name, email address and phone number.
   * Information that you upload to, or share through, our site by using our services including profile information or any personal information in data that you upload.
+  * Information we may collect about your interaction with our software, mobile applications, and services, including IP address, repository ID, account activity and license information.
   * Information that you provide us by completing surveys on our site or as carried out by our approved third parties.
   * Information you provide to us when you contact us for customer or technical support.
   * Information that you provide us when carrying out transactions through our site including payment details such as credit card information and billing addresses.
@@ -32,7 +61,7 @@ We may collect and process the following data about you:
   * Information we receive from third party search engines relating to your search activity.
   * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access.
   * Information provided with your consent at conventions, trade shows and expositions.
-  * Information you provide to us when you register for webcasts, request information or materials (e.g., whitepapers), and participate in promotions, contests or giveaways. 
+  * Information you provide to us when you register for webcasts, request information or materials (e.g., whitepapers), and participate in promotions, contests or giveaways.
   * Information you provide to us when you submit questions or comments to us.
 
 
@@ -43,6 +72,7 @@ We use the personal information you provide to:
 
   * create and maintain your accounts;
   * process, fulfill, and follow-up on your orders;
+  * analyze and filter messages for spam;
   * register your products;
   * answer your questions;
   * register you in programs (per your request);
@@ -51,7 +81,7 @@ We use the personal information you provide to:
 
 
 
-We also use this personal information to provide you with information related to your account and the products or services you purchased from us, to better understand your needs and interests, to improve our service, and to personalize communications.
+We also use this personal information to provide you with information related to your account and the products or services you purchased from us, to better understand your needs and interests, to improve our service, for internal business analysis, for targeted advertising, and to personalize communications.
 
 ## How We Protect Information
 
@@ -63,20 +93,64 @@ Although we will do our best to protect your personal data, we cannot guarantee 
 
 ## Cookies
 
-We may collect information about your computer, including where available your IP address and operating system type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookoie. Cookies are useful because they allow a website to recognize a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies).
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. The following table describes the cookies we use.
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. They can also help to ensure that advertisements you see online are more relevant to you and your interests.
 
-Cookie | Name | Purpose | More information  
----|---|---|---  
-Google Analytics | _utma   
-_utmb   
+The cookies used on this website have been categorized based on the categories found in the ICC UK Cookie guide:
+
+  * Category 1: Strictly Necessary Cookies. These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
+  * Category 2: Performance Cookies. These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identify a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+  * Category 3: Functionality Cookies. These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites.
+  * Category 4: Targeting Cookies or Advertising Cookies. These cookies are used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization.
+
+
+
+A list of the cookies used on Alfresco's websites, including which category they fall under, is set out below.
+
+Cookie | Name | Purpose | More information | Alfresco websites where cookie is used | Cookie Category  
+---|---|---|---|---|---  
+Google Analytics | _utma  
+_utmb  
 _utmc  
-_utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in anonymous form, including the number of visitors to the site, where visitors have come to the site from, and the pages they visited. | Click here for an overview of privacy at Google: [http://www.google.co.uk/intl/en/analytics/privacyoverview.html ](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
-Prospect management and lead management, by Pardot | pardot | This cookie is used to store user-entered data submitted via forms on alfresco.com, including software trials, contacting Alfresco sales, requesting white papers, and registering for webinars. | The Pardot privacy policy can be viewed at: <http://www.pardot.com/company/legal.html>  
-Alfresco Cloud | __site | This cookie is used to store anonymous information for users signing up for Alfresco’s Cloud service to help us better understand where users who sign up for the Cloud service come from. |   
+_utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in anonymous form, including the number of visitors to the site, where visitors have come to the site from, and the pages they visited. | Click here for an overview of privacy at Google: <http://www.google.co.uk/intl/en/analytics> | All Alfresco websites | Category 2: Performance  
+Prospect management and lead management, by Pardot | Pardot | This cookie is used to store user-entered data submitted via forms on alfresco.com, including software trials, contacting Alfresco sales, requesting white papers, and registering for webinars. | The Pardot privacy policy can be viewed at: <http://www.pardot.com/company/legal.html> | alfresco.com, blogs.alfresco.com, wiki.alfresco.com, forums.alfresco.com | Category 2: Performance  
+Alfresco Cloud | __site | This cookie is used to store information for users signing up for Alfresco's Cloud service to help us better understand where users who sign up for the Cloud service come from. |   | cloud.alfresco.com | Category 2: Performance  
+MediaWiki | Visitor_id1234 | This cookie remembers your MediaWiki username. |   | wiki.alfresco.com | Category 3: Functionality  
+phpBB | 
+
+phpbb3_8zvsx_k
+
+phpbb3_8zvsx_sid
+
+phpbb3_8zvsx_u
+
+style_cookie
+
+visitor_id1234
+
+| This cookie remembers your Forums username. |   | forums.alfresco.com | Category 3: Functionality  
+Parature | 
+
+IsMyCookieEnabled
+
+ParaturePortalDeptID
+
+ParaturePortalSessionID
+
+| This cookie remembers your Parature username | [www.parature.com/privacy/legal/](http://www.parature.com/privacy/legal/) | support.alfresco.com | Category 3: Functionality  
+TrainingRocket | 
+
+JSESSIONID
+
+SE
+
+_atuvc
+
+| This cookie remembers your training portal username. | [www.customware.net/legal/privacy_policy.html](http://www.customware.net/legal/privacy_policy.html) | University.alfresco.com | Category 3: Functionality  
+DoubleClick | Id | This cookie is used in conjunction with Google's AdWords service to deliver ads that are relevant to your interests, control the number of times you see a given ad, and measure the effectiveness of ad campaigns. | Google's privacy policy for advertising can be viewed at: [www.google.com/policies/privacy/ads/](http://www.google.com/policies/privacy/ads/) | [www.alfresco.com](https://web.archive.org/) | Category 4: Targeting or Advertising  
   
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). However, if you select this setting, this may adversely affect your user experience of our site.
+Most web browsers allow some control of most cookies through the browser settings. However, if you select this setting, this may adversely affect your user experience of our site.
 
 To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
 
@@ -88,9 +162,10 @@ We may disclose your personal information to any member of our group, which mean
 
 We may disclose your personal information to third parties under any of the following circumstances:
 
-  * As may be required to fulfill orders, to conduct billing/credit card processing, to provide service, and for email housing (as a consequence of uses already described in this Privacy Statement). 
-  * As required by law (such as responding to a valid subpoena, warrant, audit, or agency action, or to prevent fraud). 
-  * For research activities, including the production of statistical reports (such aggregated information is used to describe our services to current and prospective partners and other third parties, and is not used to contact the subjects of the report). 
+  * As may be required to fulfill orders, to conduct billing/credit card processing, to provide service, and for email housing (as a consequence of uses already described in this Privacy Statement).
+  * As required by law (such as responding to a valid subpoena, warrant, audit, or agency action, or to prevent fraud).
+  * For analysis and filtering of messages and content for spam.
+  * For research activities, including the production of statistical reports (such aggregated information is used to describe our services to current and prospective partners and other third parties, and is not used to contact the subjects of the report).
   * In the context of a business transaction, such as a merger, acquisition, consolidation, or divestiture (pursuant to a pledge of confidentiality under which the recipient agrees to use the information for no purpose other than carrying out the transaction).
 
 
@@ -130,8 +205,3 @@ This site contains links to other sites. We do not control the information colle
 ## How To Contact Us
 
 Questions, comments and requests regarding this Privacy Statement are welcomed and should be addressed to [privacy@alfresco.com](mailto:privacy@alfresco.com).
-
-  * [del.icio.us](http://del.icio.us/post?url=http://www.alfresco.com/privacy/&title=Alfresco+Open+Source+Enterprise+Content+Management+-+Privacy+Statement)
-  * [Digg](http://digg.com/submit?phase=2&url=http://www.alfresco.com/privacy/&title=Alfresco+Open+Source+Enterprise+Content+Management+-+Privacy+Statement&bodytext=&topic=software)
-
-
