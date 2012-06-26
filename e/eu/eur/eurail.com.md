@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurail.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115205515id_/http%3A//www.eurail.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurail.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626214954id_/http%3A//www.eurail.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -51,11 +51,11 @@ The security of your personal information is important to us. We maintain physic
 
 When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry, SSL (Secure Sockets Layer). The site employs SSL via a digital certificate issued by Thwate.
 
-If you have any questions about the security at our website, you can send an email to our [customer service](http://www.eurail.com/support/contact).
+If you have any questions about the security at our website, you can send an email to our [customer service](http://www.eurail.com/help/contact-us).
 
 ### V. Accuracy of the Information We Collect
 
-Any questions you may have regarding our Privacy Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [customer service](http://www.eurail.com/support/contact).
+Any questions you may have regarding our Privacy Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [customer service](http://www.eurail.com/help/contact-us).
 
 After receiving a request to change your information, we will make reasonable efforts to ensure that all of your personal information stored in databases we actively use to operate our website will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable. However, we reserve the right to retain in our archival files any information we remove from or change in our active website databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our terms of use.
 
