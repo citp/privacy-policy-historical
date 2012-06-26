@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the solvemedia.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215074617id_/http%3A//www.solvemedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvemedia.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626101750id_/http%3A//www.solvemedia.com/privacy.html) for the most accurate reproduction.*
 
-# Solve Media | Privacy
+# Solve Media
 
-SOLVE MEDIA, INC. WEBSITE PRIVACY POLICY Last Updated July 28, 2010
+SOLVE MEDIA, INC. WEBSITE PRIVACY POLICY
 
-We at Solve Media, Inc. (“Solve Media,” “we,” “us,” or “our”) have created this Website Privacy Policy because we know that you care about how information you provide to us is used and shared. This Website Privacy Policy applies to the online information collection and use practices with respect to the publicly-available sections (the “Public Areas”) of the www.solvemedia.com website (the “Website”). By visiting our Website, you are agreeing to the terms of this Website Privacy Policy and the accompanying Terms of Use.
+Last Updated March 05, 2012
 
-This Website Privacy Policy does not apply to the privacy practices that Solve Media uses when providing its hosted advertising platform as a Software-as-a-Service to our customers (“Customers”). Such services are governed by a separate Publisher Agreement.
+We at Solve Media, Inc. ("Solve Media," "we," "us," or "our") have created this Website Privacy Policy because we know that you care about how information you provide to us is used and shared. This Website Privacy Policy applies to the online information collection and use practices with respect to the publicly-available sections (the "Public Areas") of the www.solvemedia.com website (the "Website"). By visiting our Website, you are agreeing to the terms of this Website Privacy Policy and the accompanying Terms of Use.
+
+This Website Privacy Policy does not apply to the privacy practices that Solve Media uses when providing its hosted advertising platform as a Software-as-a-Service to our customers ("Customers"). Such services are governed by a separate Publisher Agreement.
 
 **_The Information We Collect_**
 
-When you use the Public Areas of the Website, you may provide us with personally identifiable information about you and your company, such as your company name, your name, title, e-mail address, postal address, and telephone number (collectively, the “Visitor Information”). We do not collect any Visitor Information from you when you visit the Public Areas of the Website unless you provide us with the Visitor Information voluntarily (for example, by sending us a message).
+When you use the Public Areas of the Website, you may provide us with personally identifiable information about you and your company, such as your company name, your name, title, e-mail address, postal address, and telephone number (collectively, the "Visitor Information"). We do not collect any Visitor Information from you when you visit the Public Areas of the Website unless you provide us with the Visitor Information voluntarily (for example, by sending us a message).
 
 We may automatically collect other types of non-personally identifiable information when you visit the Website such as your network location, the IP address of your computer, and what sections of the Website you visit.
 
-The Website may use “cookie” technology to help us collect other non-personally identifiable information and to enhance your experience using the Website. Cookies are small packets of data that a web site stores on your computer’s hard drive so that your computer will “remember” information about your visit. We may allow third-party companies that are presenting advertisements on some pages of the Website to set and access their own cookies. Such third-party cookies are not governed by this Privacy Policy, but by the privacy policy of such third party. Also, the Website may use web beacons, commonly known as bots, to access our cookies within and outside our network of web sites and in connection with our products and services. If you do not want the Website to place cookies on your hard drive, you may be able to turn that feature off on your computer. Please consult your Internet browser’s documentation for information on how to do this. However, if you decide not to accept cookies from our Website, the Website may not function properly.
+The Website may use "cookie" technology to help us collect other non-personally identifiable information and to enhance your experience using the Website. Cookies are small packets of data that a web site stores on your computer's hard drive so that your computer will "remember" information about your visit. We may allow third-party companies that are presenting advertisements on some pages of the Website to set and access their own cookies. Such third-party cookies are not governed by this Privacy Policy, but by the privacy policy of such third party. Also, the Website may use web beacons, commonly known as bots, to access our cookies within and outside our network of web sites and in connection with our products and services. If you do not want the Website to place cookies on your hard drive, you may be able to turn that feature off on your computer. Please consult your Internet browser's documentation for information on how to do this. However, if you decide not to accept cookies from our Website, the Website may not function properly.
 
 **_How We Use and Share Visitor Information_**
 
@@ -38,7 +40,7 @@ If you provide us with Visitor Information through the Public Areas of the Websi
 
 **_Accessing and Modifying Visitor Information and Communication Preferences_**
 
-Visitors who have provided personally identifiable information may access, remove, review, and/or make changes to their Visitor Information by e-mailing Solve Media at privacy@solvemedia.com. In addition, such Visitors may manage their receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any Solve Media marketing email. Customers cannot opt out of receiving transactional emails related to their account with Solve Media. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.
+Visitors who have provided personally identifiable information may access, remove, review, and/or make changes to their Visitor Information by e-mailing Solve Media at privacy@solvemedia.com. In addition, such Visitors may manage their receipt of marketing and non-transactional communications by clicking on the "unsubscribe" link located on the bottom of any Solve Media marketing email. Customers cannot opt out of receiving transactional emails related to their account with Solve Media. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.
 
 **_How We Protect Visitor Information_**
 
@@ -58,7 +60,7 @@ This Website Privacy Policy is effective as of the date stated at the top of thi
 
 **_How to Contact Us_**
 
-If you have questions about this Website Privacy Policy, please contact Solve Media via e-mail at privacy@solvemedia.com with “WEBSITE PRIVACY POLICY” in the subject line or by mailing us at the following address:
+If you have questions about this Website Privacy Policy, please contact Solve Media via e-mail at privacy@solvemedia.com with "WEBSITE PRIVACY POLICY" in the subject line or by mailing us at the following address:
 
 Solve Media, Inc.   
 200 S. Broad Street  
@@ -66,3 +68,6 @@ Suite 415
 Philadelphia PA, 19102
 
 We will investigate your question, respond to your inquiry, and attempt to resolve any concerns regarding your privacy question.
+
+  
+
