@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the funonthenet.in privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221172051id_/http%3A//www.funonthenet.in/content/view/394) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funonthenet.in privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626031304id_/http%3A//www.funonthenet.in/content/view/394) for the most accurate reproduction.*
 
 # Privacy Policy - FunOnTheNet
 
 ###  Subscribe to Feed 
 
 [](http://feeds.feedburner.com/fotn "Subscribe to my feed")
-
-[](http://www.funonthenet.in/articles/toolbar.html)
 
 | 
 
@@ -65,4 +63,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 To sign up to the Yahoo Group FunOnTheNet (to receive **selected** fun E-Mails everyday), enter your email address below.
 
-[](http://www.facebook.com/pages/Fun-On-The-Net/370462270641)
+[](http://www.facebook.com/FunOnTheNet)
