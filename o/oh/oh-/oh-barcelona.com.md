@@ -1,123 +1,123 @@
-> *The following text is extracted and transformed from the oh-barcelona.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104015649id_/http%3A//www.oh-barcelona.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oh-barcelona.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626192726id_/http%3A//www.oh-barcelona.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy statement of Open House Spain S.L.
+# Privacy Statement of Oh-Barcelona.com (Open House Spain S.L.)
 
-Index  
-1\. _Information Collection_  
-2\. _Information Use_  
-3\. _Communications from the Site_   
-4\. _Opt-in / Opt-out_   
-5\. _Links_   
-6\. _Tell-A-Friend_   
-7\. _Security_   
-8\. _Notification of Changes_   
-9\. _Notification of changes of personal information_   
-10\. _Contact Information_   
-
-
-Information Collection
-
-* * *
-
-OPEN HOUSE SPAIN, S.L., successfully obtains information of users at different points from our website, the personal data will be incorporated into a file whose person in charge is OPEN HOUSE SPAIN, S.L. The user is expected to provide true, exact, complete and current information.   
-**Booking (General)**  
-We request personal information on the booking and enrollment forms (accommodation and Spanish courses) and the owner form. A user must provide contact information (such as name, e-mail, passport number and address) and in some cases financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill the customer`s requests. If we have trouble processing a booking, the information is used to contact the user.   
-Personal information such as name, email, passport number, age, gender and contact details are shared with the owner of the apartment. We encourage you to contact the owner regarding the use of your personal information. The information we collect is used only for booking purposes, to notify you of your reservation status and to ask for feedback about your stay and is not shared with any other party. All credit card processing is done by Open House Spain. If payment is made through our automatic payment system then the credit card processing is done by Banco de Sabadell, S.A., Plaça Catalunya, Barcelona 08001, B-1561, NIF A08000143   
-**Booking (Apartments, shared flats, bed &breakfast) **  
-Personal information such as name, email, passport number, age, gender and contact details are shared with the owner of the apartment. We encourage you to contact the owner regarding the use of your personal information. The information we collect is used only for booking purposes, to notify you of your reservation status and to ask for feedback about your stay and is not shared with any other party. All credit card processing is done by Open House Spain. If payment is made through our automatic payment system then the credit card processing is done by Banco de Sabadell, S.A., Plaça Catalunya, Barcelona 08001, B-1561, NIF A08000143   
-**Booking (Spanish Courses)Reservas (Cursos de Español)**  
-Personal information such as name, email, address, age and course are shared with the school in order to complete the enrollment process. We encourage you to review the privacy practices of the school you choose to enroll in regarding their use of your personal information. The information we collect is used only for enrollment purposes and to send you a booking confirmation. Personal information is used only for enrollment purposes and is not shared with any other party. Apart from the price and remaining balance of enrollment and/or accommodation no other financial or payment information is shared with the school. No financial or payment information is shared with any other party. All credit card processing is done by Open House Spain. If payment is made through our automatic payment system then the credit card processing is done by Banco de Sabadell, S.A., Plaça Catalunya, Barcelona 08001, B-1561, NIF A08000143   
-**Owner Information**  
-We request personal information from owners as part of our booking system. Information such as name, address of apartment booked, telephone number, mobile phone number and email address and shared with the customer after payment has been received in order to complete the booking process. We use this information to contact an owner only for business purposes relating to their apartment and booking reservations. No owner information is shared with any third party 
-
-**Information Use**
-
-* * *
-
-**Reservations**  
-Personal information is used only to realize the services offered on our website. Information such as name, email and postal addresses, but excepting bank data and credit card information is made available only to the providers of those services (property owners, hotels, schools and tour providers).   
-**Profile**  
-We store information that we collect through log files to create a profile of our users. A profile is stored information that we keep on the entirety of our users that details their viewing preferences. Consequently, collected information is not tied to the users personally identifiable information. We do not share our customer profile with other third parties. We do store the personal information of our customers in order to process our customer`s requests. We provide customer`s personal information, such as name, e-mail, address, but not credit card data or other payment related data, to third parties. These are exclusively our contracting partners who own the accommodations we offer for rent on our website, as well as our contracted language schools. No other third parties are informed about our customers or of our customer`s personal data.   
-**Cookies**  
-A cookie is a piece of data stored on the user`s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use session ID cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. No user information is passed from our website to any other website. We don´t use long term cookies.
-
-**Third Party Advertising**  
-No other third parties advertise on our website.   
-**Log Files**  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user`s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.   
-**Information Disclosure / International transmition of information**  
-Personal information may be shared or disclosed to government agencies or agents pursuant with judical orders, governement regulation and / or court issued supoenas.  
-For technical reasons this data will be delt with by our server located in the United States of America. The user specifically consents the transfer of his information to fulfill this purpose.
-
-**Communications from the Site**
-
-* * *
-
-**Special Offers and Updates**  
-Former customers will not be contacted for promotion purposes after their day of departure.   
-**Newsletter**  
-We do not have a newsletter.   
-**Customer Service**  
-We communicate with users on a regular basis to provide requested services and with regard to issues relating to their account, we correspond via email or phone, in accordance with the users wishes. On the day of departure from a holiday rental our customers are sent an email asking for feedback about their stay with a referral discount promotion.
+  * ## **Information collection**
 
   
-**Opt-in / Opt-out**
 
-* * *
 
-We send an evaluation / follow up email to clients who have booked an apartment after they have left their accommodation. Users who do not wish to receive a follow-up email, as part of our customer service policy, on the day of departure from their accommodation rental please contact us by email (info@openhousespain.com). You can also opt-out by calling us at phone: +34 93 467 37 82. Open House Spain does not share personal information with 3rd parties except property owners in the case of accommodation bookings and language schools in the case of language course bookings. As such the Opt in / Opt out option is only for our follow up communication.
+Open House Spain SL obtains users information at different points throughout our website. This personal data will be stored within a file held by Open House Spain SL. The user is expected to provide true, exact, complete and current information. 
 
-**Links**
+**Forms**
 
-* * *
+We request personal information on our accommodation booking form and owner’ registration form. A user must provide contact information (such as name, email address, passport number and address) and in some cases financial information (such as credit card number, expiry date). This information is used for billing purposes and to fulfill the user’s requests. If we have problems processing a booking, we use the information to contact the user.
 
-This Web site contains links to other sites. Please be aware that we, Open House Spain S.L., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site, to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by www.oh-barcelona.com . 
+Personal information such as name, email address, passport number, age, gender and contact details are shared with the owner of the apartment. We encourage you to contact the owner regarding the use of your personal information. The information we collect is used only for booking purposes, to notify you of your reservation status and to ask for feedback about your stay and is not shared with any third party which is not directly involved in the booking process. All credit card processing is done by Open House Spain SL. 
 
-**Tell-A-Friend**
+  *   
 
-* * *
 
-If a user elects to use our referral service to inform a friend about our site, we ask them for the friend`s name and email address. Open House Spain S.L. will automatically send the friend a one-time email inviting them to visit the site. Open House Spain S.L. does not store this information. 
+## **Use of information**
 
-**Security**
+  
 
-* * *
 
-This Web site takes every precaution to protect our users` information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
+**Reservations**
 
-When our booking form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected by the best encryption software in the industry - SSL (128 bit encryption). While on a secure page, such as our booking form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just `surfing`. To learn more about SSL, follow this link: www.webopedia.com/TERM/S/SSL.html 
+Users’ personal information is used only to carry out the services offered on our website. 
 
-Furthermore all payment information submitted in our forms is password encrypted with PGP. Pretty Good Privacy or PGP was written by Phil Zimmermann in 1991 and has since become an industry standard to store and transmit sensitive data using 1024 bit passphrase encryption. For more information about PGP please visit: http://www.openpgp.org/about_openpgp/history.shtml 
+**Profile**
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users` information, not just the sensitive information mentioned above, is restricted in our offices. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users` information is protected. 
+We store information that we collect through log files to create a profile of our users. A profile is stored information that we obtain through the preferences selected by site users. Consequently, collected information is not tied to the users’ personally identifiable information. We do not share our customer profile with other third parties. 
 
-If users have any questions about the security at our Web site, users can send an email to it@oh-barcelona.com.
+**Third-party advertising**
 
-**Notification of Changes**
+No other third parties advertise on our website.
 
-* * *
+**Log files**
 
-If we decide to make a material change to our privacy policy, we will notify users by posting a prominent notice on our Web site for 30 days. Our users are always aware of what information we collect, how we use it, and under what circumstances if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
+Like most standard web site servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyse trends, administer the site, track users’ movements, and gather broad demographic information for aggregate use. IP addresses, etc., are not linked to personally identifiable information.
 
-**  
-Notification of changes of personal information**
+**Transfer of data**
 
-* * *
+Information supplied is managed by our server located in Spain, under the protection of the Organic Law 15/1999, of 13 December, regarding the Protection of Data of a Personal Nature (LOPD). The user specifically consents to the transfer of his information to fulfil this purpose.
 
-If there are any changes to your personal information (such as; postcode, telephone numbers, email or postal addresses), or if a user decides not to avail of our services, he/she can approve, rectify, cancel or oppose the treatment of this information by sending an email to our client support service at privacy@oh-barcelona.com or by telephone or by post to the address indicated in the ***Contact Us section of the website.
+  *   
 
-**  
-Contact Information**
 
-* * *
+## **Opt-in/Opt-out**
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at: 
+We send an evaluation/follow-up email to clients who have booked an apartment after they have left their accommodation. Any user who does not wish to receive a follow-up email should contact us by email on the day of departure from their accommodation at info@openhousegroup.com. You can also opt out by contacting us on the phone numbers provided on our contact page. 
 
-Contact person: Jörg Lahmann  
-Phone: +34 93 467 37 79  
-Fax: +34 93 467 37 62  
-Email: lahmann@oh-barcelona.com  
-Postal Address: Open House Spain, S.L.  
-Roger de Lluria 50, 1  
-08009 Barcelona  
-SPAIN
+  *   
+
+
+## **Links**
+
+This website contains links to other sites. Please be aware that Open House Spain SL is not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of every website that collects personally identifiable information. This privacy statement applies solely to information collected by www.oh-barcelona.com. 
+
+  *   
+  
+
+  *   
+
+
+## **Security**
+
+  
+
+
+The confidentiality of information of a personal nature transmitted through our website is subject to the following security measures:
+
+When users are requested through our booking form to enter sensitive information (such as credit card number), that information is encrypted and protected by the best software available in the industry – SSL (128 bit encryption). To find out more about this, follow this link: www.webopedia.com/TERM/S/SSL.html.
+
+Open House Spain SL complies with the levels of security of personal data protection required by all current legislation, and has installed the technical and organisation measures necessary to avoid loss, misuse, alteration or unauthorised access of personal data. 
+
+If users have any questions about security on our website, they can email us at info@oh-barcelona.com.
+
+**Registered users and clients**
+
+When uers make a reservation or register to create an account, we set up a profile page for them. Any content and information in this area will be kept strictly private and in no case given to a third party. The user's account profile will include their first name, last name, address and other personal information necessary to make a reservation. Furthermore, they will be able to select other items such as future destinations or preferences regarding accommodation. Users can review and revise their profile information at any time. 
+
+**Facebook Connect**
+
+Users can decide to use Facebook in order to sign up to Oh-Barcelona.com with their Facebook profile. By doing so, Oh-Barcelona.com will have access to all personal data a Facebook user publishes on their profile. A user is granting access to their profile information when connecting to our site with Facebook connect. Depending on the security settings in their Facebook profile, this data can vary. In order to change them, users must use their Facebook profile. The connection is created via the Facebook API.
+
+We may use this information to enhance our existing client database, creating personalised offers for customers based on their Facebook user profile, or sharing their actions on our site (such as bookings, use of like buttons etc.) with their friends when visiting our site. 
+
+  *   
+
+
+## **Notification of changes**
+
+If we decide to make a material change to our privacy policy, we will notify users by posting a prominent notice on our web site for 30 days. Our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
+
+  *   
+
+
+## **Notification of changes in personal information**
+
+If there are any changes to your personal information (such as your postcode, telephone numbers, email or postal addresses), or if a user decides not to avail themselves of our services, he/she can approve, rectify, cancel or oppose the treatment of this information by sending an email to our client support service at: info@oh-barcelona.com. Alternatively, users can telephone or write to us using the details supplied below. 
+
+  *   
+
+
+## **Contact information**
+
+  
+
+
+If you have any questions or suggestions about our privacy policy, please get in touch with us on the following details:
+
+Phone: 34 93 467 37 79  
+Fax: 34 93 467 37 62  
+Email: info@oh-barcelona.com
+
+Address:  
+Open House Group  
+Roger de Llùria 50, 1  
+08009 Barcelona
+
+
+
