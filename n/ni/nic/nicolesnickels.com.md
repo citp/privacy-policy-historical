@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicolesnickels.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010654id_/http%3A//www.nicolesnickels.com/disclaimerdisclosureprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicolesnickels.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626153751id_/http%3A//www.nicolesnickels.com/disclaimerdisclosureprivacy-policy) for the most accurate reproduction.*
 
 # Disclaimer/Disclosure/Privacy Policy
 
@@ -12,13 +12,15 @@ This site gives no warranties (whether expressed or implied), and is not respons
 
 Please be advised that when you sign up for offers or freebies you may begin to get many emails for additional offers, freebies, etc. These emails are not spam as you likely requested these emails in your sign-up for the service and are the company’s way to promote their products. If they become bothersome to you, you should check with the service on how to unsubscribe
 
-**Disclosure**
+ **Disclosure**
 
 This blog is a personal blog written and edited by me. For questions about this blog, please contact nicolesnickels at gmail dot com.
 
 This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation. The compensation received may influence the advertising content, topics or posts made in this blog.
 
 The owner of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question. This blog does not contain any content which might present a conflict of interest.
+
+Nicole’s Nickels LLC is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [insert the applicable site name amazon.com
 
 To get your own policy, go to <http://www.disclosurepolicy.org/>
 
@@ -43,3 +45,5 @@ I only collect information from those over 18 years of age.
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
+
+Check out HOT [Amazon deals](http://www.nicolesnickels.com/amazon-deals) on your favorite items!
