@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddsmonkey.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008043403id_/http%3A//www.oddsmonkey.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddsmonkey.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626182412id_/http%3A//www.oddsmonkey.com/privacy.aspx) for the most accurate reproduction.*
 
 # Odds Monkey > Home
 
@@ -44,4 +44,4 @@ Odds Monkey will occasionally update this Statement of Privacy to reflect compan
 
 Contact Information
 
-Odds Monkey welcomes your comments regarding this Statement of Privacy. If you believe that Odds Monkey has not adhered to this Statement, please contact Odds Monkey at [support@oddsmonkey.com](mailto:support@oddsmonkey.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Odds Monkey welcomes your comments regarding this Statement of Privacy. If you believe that Odds Monkey has not adhered to this Statement, please contact Odds Monkey at [support@oddsmonkey.com](mailto:support@oddsmonkey.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
