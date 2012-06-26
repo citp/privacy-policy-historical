@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2dplay.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124035031id_/http%3A//www.2dplay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2dplay.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626103223id_/http%3A//dynamic.2dplay.com/privacy.php) for the most accurate reproduction.*
 
 # Play Games Online at 2DPlay for Free - Privacy Policy & Terms
 
@@ -11,4 +11,4 @@ We host games made by other sponsors and developers and allow our community to u
 | You may remove yourself from the 2DPlay.com newsletter, if you previously subscribed to it:  
 ---  
   
-Get email alerts on new releases and our latest news by [Signing-Up](https://web.archive.org/web/20111124035031id_/http%3A//www.2dplay.com/newmember.php).
+Get email alerts on new releases and our latest news by [Signing-Up](http://dynamic.2dplay.com/newmember.php).
