@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lynda.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206154941id_/http%3A//www.lynda.com/aboutus/otl-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lynda.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626163820id_/http%3A//www.lynda.com/aboutus/otl-privacy.aspx) for the most accurate reproduction.*
 
 # lynda.com Online Training Library®: Privacy
 
