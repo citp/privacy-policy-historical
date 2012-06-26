@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsoft.com.vn privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101202408id_/http%3A//fpt-software.com/Pages/Privacy%2520Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsoft.com.vn privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626023109id_/http%3A//fsoft.com.vn/Pages/Privacy%2520Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -46,4 +46,4 @@ FPT Software reserves the rights to change, modify, add or remove in whole or in
 
 If you have any questions about our Privacy Statement or about how to protect your personal information, you can contact to FPT Software Co.Ltd.
 
-[](http://fptsoftware.net.vn/Pages/Privacy%20Statement.aspx#top)
+[](https://web.archive.org/Pages/Privacy%20Statement.aspx#top)
