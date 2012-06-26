@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beads.us privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210190850id_/http%3A//www.beads.us/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beads.us privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626043434id_/http%3A//www.beads.us/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Guarantee
 
 Milky Way Jewelry ( [Beads.us](http://www.beads.us/) ) is serious about privacy. How do we do this? Milky Way Jewelry uses a secure server (128-bit SSL encryption) to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records.
 
-#### What exactly does Ironclad Guarantee mean? 
+## What exactly does Ironclad Guarantee mean? 
 
 We operate a "no-quibbles" guarantee, which means that if for any reason you are unhappy with your purchase, simply return it to us in its original condition within 30 days from date of delivery. We will issue a full refund for the price you paid for the item.
 
@@ -16,7 +16,7 @@ Before returning goods, please contact us first to discuss the issues you are ha
 
 And here's all we ask… Returned items must be unaltered, in original packaging and must include the original invoice. It's that easy! Just remember to keep your invoices and store your items in their original packaging. 
 
-#### How we use information?
+## How we use information?
 
 Our site uses an order form allowing you to request information, products and services. Contact information (email address, telephone number, address, etc.) is also used to get in touch with you when necessary. Credit card number do not offer to Beads.us. Beads.us can not accept credit card ,If you want use credit card ,We advise you use Paypal . 
 
@@ -32,7 +32,7 @@ By using our web site or purchasing product from us, you agree to the collection
 
 If, at any time, you have questions or concerns about Beads.us privacy policy, please feel free to email us at: sales@gets.cn or call customer service, at 86-10-67653322 or 86-10-67639955 to speak to one of our friendly Customer Service representatives. 
 
-#### Popups and Spam 
+## Popups and Spam 
 
 Beads.us does not use any type of pop-up advertising on our web site. Our true feelings about this ugly advertising is that each of us should have the choice whether or not we want to view what is offered. 
 
