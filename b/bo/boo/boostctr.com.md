@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostctr.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124124009id_/http%3A//www.boostctr.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostctr.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626073116id_/http%3A//www.boostctr.com/Company/Privacy) for the most accurate reproduction.*
 
 # BoostCTR - Privacy
 
@@ -26,11 +26,11 @@ _Use of cookies and other technologies to collect information._ We use various t
 
 o    **Information collected automatically.** We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address. 
 
-o    **Cookies.** When you visit our website, we may assign your computer one or more [ **cookies**](https://web.archive.org/GetWebContentScreen.event?cc=privpold#cookies), to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to [ **decline cookies**](https://web.archive.org/GetWebContentScreen.event?cc=privpold#decline_cookies), please note that you may not be able to sign in or use some of the interactive features offered on our website. 
+o    **Cookies.** When you visit our website, we may assign your computer one or more **cookies** , to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to **decline cookies** , please note that you may not be able to sign in or use some of the interactive features offered on our website. 
 
-o    **Other Technologies.** We may use standard Internet technology, such as [ **web beacons**](https://web.archive.org/GetWebContentScreen.event?cc=privpold#web_beacons) and other similar technologies, to track your use of our site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities. 
+o    **Other Technologies.** We may use standard Internet technology, such as **web beacons** and other similar technologies, to track your use of our site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities. 
 
-o    **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, BOOST MEDIA INC. companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as [ **cookies**](https://web.archive.org/GetWebContentScreen.event?cc=privpold#cookies), to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies [**www.networkadvertising.org**](http://www.networkadvertising.org/). 
+o    **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, BOOST MEDIA INC. companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as **cookies** , to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies **www.networkadvertising.org**. 
 
 **_How we use the information we collect_**
 
@@ -56,7 +56,7 @@ o    perform functions as otherwise described to you at the time of collectio
 
 _Financial information._ We may use financial information or payment method to process payment for any purchases made on our website, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
 
-Please review "[ **Your choices about collection and use of your information**](https://web.archive.org/GetWebContentScreen.event?cc=privpold#your_choice)" below.
+Please review " **Your choices about collection and use of your information** " below.
 
 **_With whom we share your information_**
 
@@ -106,7 +106,7 @@ o    If you are a resident of California, in addition to the rights set forth
 
 3.       if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed. 
 
-We may provide this information in a standardized format that is not specific to you. To request this information, please write us at Boostctr.com Customer Service, 9995 S.W. 88th Street, Miami, Florida 33176; or e-mail us at _[contactus@Boostctr.com](https://web.archive.org/ym/Compose?To=contactus@Boostctr.com)_. Please include your name and address.
+We may provide this information in a standardized format that is not specific to you. To request this information, please write us at Boostctr.com Customer Service, 9995 S.W. 88th Street, Miami, Florida 33176; or e-mail us at _[contactus@boostctr.com](mailto:contactus@boostctr.com?subject=General%20Inquiry)_. Please include your name and address.
 
 **_How we protect your personal information_**
 
@@ -116,7 +116,7 @@ We want you to feel confident using our website to transact business. However, n
 
 **_Discussion Boards and Reviews_**
 
-We may provide areas on our websites where you can post information about yourself and others and communicate with others, as well as post reviews of your travel and leisure experiences. Such postings are governed by our [ Terms of Use](https://web.archive.org/GetWebContentScreen.event?cc=uagree). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.
+We may provide areas on our websites where you can post information about yourself and others and communicate with others, as well as post reviews of your travel and leisure experiences. Such postings are governed by our  Terms of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.
 
 **_Children's privacy_**
 
