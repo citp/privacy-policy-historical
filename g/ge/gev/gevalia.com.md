@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214231040id_/http%3A//www.gevalia.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626215050id_/http%3A//www.gevalia.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Gevalia Coffee Privacy Policy
 
 ##### Effective Date: 10/26/2011
 
@@ -53,7 +53,8 @@ Back To Top
 
 ##### Refer a Friend
 
-You may choose to tell your friends about Gevalia products through the website's "Refer a Friend" feature. We ask you to submit your friend's name and e-mail address so we can forward the requested information. We may also use your friend's information to send your friend communications about our products and services. Back To Top
+You may choose to tell your friends about Gevalia products through the website's "Refer a Friend" feature. We ask you to submit your friend's name and e-mail address so we can forward the requested information. We may also use your friend's information to send your friend communications about our products and services.   
+Back To Top
 
 ##### Gevalia E-mail Newsletter
 
@@ -96,7 +97,7 @@ Like many companies, we use cookies on our website. Cookies are bits of text tha
 
 Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie and how to disable existing cookies. Without cookies, however, you may not be able to take advantage of our website features.
 
-During your visits to other websites where we advertise, we (or third parties) may use certain data collected on our site to show you the type of Tassimodirect.com advertisements likely to be of greater interest to you. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted Gevalia.com advertising during your visits to other websites. To opt-out of Gevalia.com data collection for targeted advertising on other sites, click here: [Opt Out Now](http://media.gsimedia.net/optout.html).
+During your visits to other websites where we advertise, we (or third parties) may use certain data collected on our site to show you the type of Tassimodirect.com advertisements likely to be of greater interest to you. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted Gevalia.com advertising during your visits to other websites. To opt-out of Gevalia.com data collection for targeted advertising on other sites, click here: [Opt Out Now](http://media.gevalia.com/optout.html).
 
 Back To Top
 
