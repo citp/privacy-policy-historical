@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the graziadaily.co.uk privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016140248id_/http%3A//www.graziadaily.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graziadaily.co.uk privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626020417id_/http%3A//www.graziadaily.co.uk/legal/privacy) for the most accurate reproduction.*
 
-# Grazia Daily Home | Fashion, Beauty Tips & Women's Style
+# Grazia Daily Magazine | Fashion, Beauty Tips & Women's Style
 
 **1.              ****Privacy Policy: Our Commitment To Your Privacy**
 
@@ -47,3 +47,5 @@ If you have any queries about Our Privacy Policy or any queries about the protec
 **  8             Finally**
 
                 If you do not agree with this Privacy Policy you should not submit your personal information on this website.
+
+**_Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies we are currently working towards implementing the new requirements in line with guidance provided by The Information Commissioner’s Office._**
