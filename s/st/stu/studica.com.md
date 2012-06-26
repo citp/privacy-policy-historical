@@ -1,58 +1,34 @@
-> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103071842id_/http%3A//www.studica.com/us/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studica.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626184121id_/http%3A//www.studica.com/us/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Academic Software Discounts for Students - Education
+# Privacy Policy - Academic Software Discounts for Students Teachers Fac
 
-Studica has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: **Information Automatically Logged:**  
-Your IP address may be used to gather broad demographic information. This information is used to determine effectiveness of our site in delivering products and services. This information is secure and not disclosed or sold to any third party.  
- 
+Studica has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:
 
-**Collection and User Choice Options:**  
-Some pages within STUDICA sites require provision of individually identifiable information to order a product or to register with STUDICA. When this information is requested, you will know because you will be asked to complete a form and return it to us. The data requested may include your name, mailing and e-mail addresses, telephone and fax numbers.
+**Information Automatically Logged**  
+Your IP address may be used to gather broad demographic information. This information is used to determine effectiveness of our site in delivering products and services. This information is secure and not disclosed or sold to any third party.
 
-STUDICA collects this individually identifiable information to complete business transactions, deliver products and services, and provide customer support. STUDICA does not sell or otherwise share the information externally.
+**Email Newsletter Subscriptions**  
+Our newsletters are sent only to customers who grant Studica permission to send them such information. To honor the privacy of our users, we offer the option to not receive these types of communications. At the time of registration and the time of your order, you may opt to not receive Email Newsletters by clicking the appropriate field. Furthermore, all special offers are sent via e-mail and include an opt-out link if you no longer wish to receive Email Newsletters. Please reference the Collection and User Choice Options section below for further details on how to be removed from our mailing list should you choose to be removed.
 
-STUDICA does, however, use on-line registration information for marketing purposes. If you supply us with your e-mail address, you may receive periodic mailings from us with information on new STUDICA products and services. If you do not wish to receive such mailings, please let us know by sending an e-mail to us at support_us@studica.com. Please provide us with your exact name and address. We will be sure your name is removed from our mailing list.
+**Collection and User Choice Options**  
+Some pages within Studica sites require provision of individually identifiable information to order a product or to register with Studica. When this information is requested, you will know because you will be asked to complete a form and return it to us. The data requested may include your name, mailing and e-mail addresses, telephone and fax numbers.
 
-  
-**External Links:** This site contains links to other sites. Studica is not responsible for the privacy practices or the content of such Web sites.
+Studica collects this individually identifiable information to complete business transactions, deliver products and services, and provide customer support. Studica does not sell or otherwise share the information externally.
 
-  
-**Security: Your credit card is safe on Studica.com!**  
-Because Studica.com is concerned about the safety and security of our customers, we’ve created **the Safest Student/Faculty online Campus Store**.
+For customers who wish to opt-out and stop receiving Email Newsletters, Studica provides several methods to do so. Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by un-checking the “Sign me up” field when registering and processing their orders. They may also send e-mails to marketing@studica.com with a request to be removed. Finally, they may use the link provided in all Studica communications to automatically unsubscribe.
 
-  1. In order to protect our customer’s security, measures have been integrated to protect the loss, misuse, and alteration of the information under our control. We employ 128 bit SSL encryption with a signed Key from verified by **Thawte Inc**.
+**External Links**  
+This site contains links to other sites. Studica is not responsible for the privacy practices or the content of such Web sites.
 
-Studica.com has securely processed hundreds of thousands of credit card transactions since 2000. The latest security technology, including a SSL safe connection, has allowed Studica to be an industry leader with a secure online system.  SSL encrypts your credit card number and personal information before they travel over the Internet. This ensures your online shopping experience is safe and secure.
+**Credit Card Safety**  
+We DO NOT store your credit card number or the expiration date or the CVV2/CID on our servers. The credit card is forwarded through the encrypted SSL layer to our Credit Card transaction processor, **PayPal Payment Services**. Their site is protected by layers of firewall, security systems and a full time staff of security experts. Studica.com has securely processed hundreds of thousands of credit card transactions since 2000. The latest security technology, including a SSL safe connection, has allowed Studica to be an industry leader with a secure online system.  SSL encrypts your credit card number and personal information before they travel over the Internet. This ensures your online shopping experience is safe and secure.
 
-  2. Further more we use **VeriSign Payment Services** to process all credit card information. This information is stored **_only_** on VeriSign's secure servers. We continually strive to provide the safest, most convenient and enjoyable experience for our customers. Security is paramount to the experience, and by partnering with VeriSign we have made the steps to provide that security
+In order to protect our customer’s security, measures have been integrated to protect the loss, misuse, and alteration of the information under our control. We employ 128 bit SSL encryption with a signed Key from  **Network Solutions**.
 
+We continually strive to provide the safest, most convenient and enjoyable experience for our customers. Security is paramount to the experience, and by partnering with **VeriSign** we have made the steps to provide that security
 
+**Cookies**  
+Through the use of cookies, we may also collect and analyze the IP address used to connect your computer to the Internet; computer and connection information such as your browser type and version; operating system and platform; purchase history; confirmation when you open e-mail that we send you; and the URLs which lead you to and around the Site including the date and time. You can generally set your browser to reject cookies or to notify you when you are sent a cookie. Software is also available from third parties which will allow you to visit the Site without providing this information. You are welcome to use the Site if you use such software but we will not be able to offer you our personalized services.
 
-  
-**Cookies:** Our Shopping Cart System uses a type of code affectionately known as "Cookies." Your web browser must accept Cookies for the cart to work properly. If the Add to Cart and View Cart buttons work for you on this site, your web browser is accepting Cookies.
-
-Our online ordering system uses cookies to remember which items you want to buy. In this way, if you spend time choosing a number of items and you suddenly get disconnected or have to get off the Net, you can return to the site later and still have those items in your shopping basket.
-
-**We use Cookies _only_ to keep track of the items you order.** The Cookies do not contain any personal information other than your order and they do not contain any payment information. We do not use Cookies for marketing or advertising purposes. We do not have any 3rd party advertiser cookies on our site.
-
-Your web browser must accept Cookies from www.studica.com (our web site) in order to process your order correctly.
-
-If you are using Microsoft's Internet Explorer web browser, and the Security is set to "High," your web browser will not accept any Cookies and the shopping cart on this site (and many other sites) will not work. To change your security setting:
-
-**In Microsoft Internet Explorer:**
-
-  
-After changing the web browser settings, click the OK button, and your web browser should now accept Cookies. (Remember to reset your security to High, if that is what you want the setting to remain on.)
-
-  * Choose "Tools | Internet Options"  
-Then choose "Security"  
-Setting security to "Medium" will allow Cookies.  
-Or, you can choose "Custom Settings" and then scroll down to the Cookies settings and choose to "Enable" the various "Cookies" options.
-
-
-
-
-  
-**Contacting us:**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: support_us@studica.com  
- 
+**Contacting us**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: support@studica.com
