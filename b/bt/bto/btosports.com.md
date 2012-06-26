@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btosports.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121100id_/http%3A//www.btosports.com/cs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btosports.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626051824id_/http%3A//www.btosports.com/cs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BTO Sports
 
@@ -21,3 +21,10 @@ Privacy Policy
 
 **Communication  
 **E-mail addresses and other information that you send us from the order forms are not used for marketing purposes and are not made available to anyone outside of BTO Sports. We do NOT make your e-mail addresses or any other information available to any other companies. Your e-mail address will NOT be released to any third party companies.
+
+  
+
+
+We Accept:
+
+[ ](http://www.santabarbara.bbb.org/BusinessReport.aspx?CompanyID=92006048&source=ctc)
