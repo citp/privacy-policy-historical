@@ -1,29 +1,27 @@
-> *The following text is extracted and transformed from the natural-holistic-health.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023193328id_/http%3A//www.natural-holistic-health.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natural-holistic-health.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626092740id_/http%3A//www.natural-holistic-health.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Natural Holistic Health Blog
 
 ## Privacy Policy
 
- **Natural Holistic Health Blog** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+## This is what we collect about you when you come to our site
 
-## Routine Information Collection
+Since we actually care about your privacy and to avoid any sensitive information being gathered (to keep you anonymous) we only gather data so we can look at it in order to increase our website traffic. This means when you visit our site: www.natural-holistic-health.com, we collect your IP address, the time of your visit and if you sign up for our free natural health newsletter, your email address.
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+We promise we will not sell your valuable data to other people.
 
-## Cookies and Web Beacons
+## How do we use your information?
 
-Where necessary, Natural Holistic Health Blog uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+We only use this information for internal marketing needs. We do not sell, exchange or release any of the data we gathered. We will not share your information without your consent.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+## Do we collect anything else?
 
-## Controlling Your Privacy
+We also have analytical tools installed, this helps us monitor the keyword you are typing in to reach our site, your preferred browser, the search engine you used to get here and other geeky stuff that won’t really affect your privacy.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
+## Where is your data stored?
 
-## Contact Information
+The only data we store is your name and email address if/when you sign up for our newsletter. This information is ONLY used to send you our natural health newsletter.
 
-Concerns or questions about this privacy policy can be directed to support@natural-holistic-health.com for further clarification.
+## More questions?
 
-## Email Policy
-
-We take our readers’ privacy very seriously. You can rest assured that your email address, name or any other personal information will be shared for any reason. Email addresses are collected for the purpose of sending article updates from Natural Holistic Health Blog and for no other purpose. Natural Holistic Health Blog Article updates are sent, on average, only once per week.
+If you have any more questions, please [contact us](http://www.natural-holistic-health.com/contact-us/ "Contact Us").
