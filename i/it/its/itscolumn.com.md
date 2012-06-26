@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itscolumn.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206004643id_/http%3A//www.itscolumn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itscolumn.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626162137id_/http%3A//www.itscolumn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | IT Security Column
 
 This Privacy Policy governs the manner in which IT Security Column collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.itscolumn.com](http://www.itscolumn.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by IT Security Column.
 
