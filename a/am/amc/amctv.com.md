@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amctv.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217142301id_/http%3A//www.amctv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amctv.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626225854id_/http%3A//www.amctv.com/privacy) for the most accurate reproduction.*
 
 # Privacy – AMC
 
@@ -6,7 +6,7 @@
 
 _NOTE:_ In our previous Privacy Policy, we agreed that we would notify you, and provide you the opportunity to opt out, if we decided in the future to share personal information collected on our Web site with our affiliates, including our parent company, CSC Holdings, Inc. and other entities that may control us, be controlled by us, or are under common control with us. We would now like to share information you may have provided through this Website, such as your name, address, telephone number, and/or email address, with our affiliated companies in order to better serve you. Our affiliates may use that information to contact you about their products and services and those of their advertisers, to market products that may be of interest to you, to improve their services and offerings, and for other reasons consistent with their privacy policies and ours. To see a representative list of affiliates, please [_click here_](http://www.cablevision.com/about/index.jsp).
 
-If you If you have submitted personal information through our Website prior to November 30, 2009 and would like to opt out of this information sharing, you may do so by sending an email to [amc_registration AT rainbow-media DOT com](mailto:amc_registration@rainbow-media.com) from the email address that we have on file for you. Please note that Company may still use your information in other ways permitted by our Privacy Policy, and that any information collected subsequent to this notice is subject to our new Privacy Policy. Our new Privacy Policy is set forth below. It takes effect on December (30 days from now).
+If you If you have submitted personal information through our Website prior to November 30, 2009 and would like to opt out of this information sharing, you may do so by sending an email to [amc_registration AT AMC-Networks DOT com](mailto:amc_registration@amcnetworks.com) from the email address that we have on file for you. Please note that Company may still use your information in other ways permitted by our Privacy Policy, and that any information collected subsequent to this notice is subject to our new Privacy Policy. Our new Privacy Policy is set forth below. It takes effect on December (30 days from now).
 
 AMERICAN MOVIE CLASSICS COMPANY LLC
 
