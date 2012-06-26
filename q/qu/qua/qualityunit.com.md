@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231075346id_/http%3A//www.qualityunit.com/company/privacy-policy-quality-unit) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626154541id_/http%3A//www.qualityunit.com/company/privacy-policy-quality-unit) for the most accurate reproduction.*
 
 # Privacy Policy - Company
 
@@ -11,7 +11,7 @@ If you have any questions about this policy, please contact us.
 
 P3P policies declare the data they collect in groups (also referred to as "statements".) Our policy contains 4 data groups. The data practices of each group will be outlined separately as follows:
 
-### Group "Access Log Information"
+## Group "Access Log Information"
 
 We collect the following information:
 
@@ -30,7 +30,7 @@ This data will be used for the following purposes:
 
 This data will be used solely by Quality Unit, and its agents. The following explains why this data is collected. Our Web server collects access logs containing this information.
 
-### Group "Cookies"
+## Group "Cookies"
 
 We collect the following information:
 
@@ -48,7 +48,7 @@ This data will be used for the following purposes:
 
 This data will be used solely by Quality Unit, and its agents. The following explanation is provided for why this data is collected: Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you. We also use cookies to allow our server to maintain information about the contents of your shopping cart.
 
-### Group "Transaction Information” (required)
+## Group "Transaction Information” (required)
 
 We collect the following information: 
 
