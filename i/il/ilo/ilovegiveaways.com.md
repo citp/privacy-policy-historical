@@ -1,57 +1,70 @@
-> *The following text is extracted and transformed from the ilovegiveaways.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206201806id_/http%3A//www.ilovegiveaways.com/projects/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovegiveaways.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626033945id_/http%3A//www.ilovegiveaways.com/privacy-policy) for the most accurate reproduction.*
 
-# I Love Giveaways
+# Privacy Policy at I Love Giveaways
 
-  
-**ILoveGiveaways** provides various online and offline marketing campaigns to consumers and hosts the following Website: http://www.Ilovegiveaways.com (the "Website"). We provide special offers to consumers on behalf of our marketing partners, advertisers, and other third parties. Please note that we cannot be held responsible for any these offers, including, but not limited to, the availability of product inventory, the time necessary to fulfill special offers, or any other circumstance related to the special offers that we send to consumers. For questions about any aspect of these offers, please contact the provider of the relevant offer. 
+Updated **09/29/2011**
 
-ILoveGiveaways respects Internet users' concern about the privacy of their personal information. Therefore, we have created this Privacy Policy in order to explain our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by recipients of our marketing messages, visitors to our Websites, and our marketing partners, advertisers, and other third parties. 
+ **Privacy Notice Table Of Contents:**   
 
-By participating in marketing campaigns presented by ILoveGiveaways or visiting our Websites, you agree, without limitation, to the practices described in this Privacy Policy and also accept, without limitation or qualification, all terms and conditions concerning these campaigns and Website. We may at any time revise these terms and conditions. You are bound by any such revisions and should therefore periodically visit them to review the then-current terms and conditions to which you are bound.
 
-**Collection of Information**
+Our Commitment To Privacy  
+The Information We Collect  
+How We Use Information  
+Our Commitment To Data Security  
+Our Commitment To Children's Privacy  
+How To Correct Your Information  
+How To Contact Us
 
-**Personal Information**  
-In general, we may collect personal information from recipients of our marketing campaigns and visitors to our Websites when they voluntarily provide it to us by (1) completing our registration form or a survey, (2) registering for a contest or sweepstakes, (3) electing to use one of our services, or (4) contacting us (including our webmaster, customer service representatives, or other employees) by email, regular mail, or telephone. We may also collect information about consumers to whom we direct our marketing campaigns from our marketing partners, advertisers, and other third parties. As part of these activities, we may ask individuals to provide us with information including, but not limited to, name, physical address, email address, telephone number, birth date, gender, username, password, social security number, other unique identifiers (such as member ID number), financial information (such as credit card number, credit card expiration date, purchase history and other purchase data), areas of interest, categories of offers and specific offers that they may be interested in receiving, and demographic information (such as income level). We may collect the aforementioned information through both online and offline means. Information collected both online and offline may be combined and shared with our marketing partners, advertisers, and other third parties.
+**Our Commitment To Privacy**
 
-**Non-Personal Information**  
-As part of the standard operation of our Websites and the Web pages that you access via hyperlinks in our online marketing campaigns ("Other Web Pages"), we may collect certain non-personal information from visitors including, but not limited to, their browser type (e.g., Netscape or Internet Explorer), operating system (e.g., Windows or Macintosh), IP address, and the domain name from which they accessed the site (e.g., lycos.com). 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-In addition, we may collect information about visitors' browsing behavior, such as the date and time they visit our Websites or Other Web Pages, the areas or pages of our Websites and Other Web Pages that they visit, the amount of time spent viewing our Websites and Other Web Pages, the number of times the visitor returns to our Websites and Other Web Pages, and other click-stream data. We may use cookies (small text files that are stored on the hard drives of visitors computers when they access our Websites) to collect this information, which may be combined with visitors' personal information and shared with our marketing partners, advertisers, and other third parties. We may also use cookies for other purposes, including, but not limited to, retrieving information previously provided by recipients of our marketing campaigns and visitors to our Websites and remembering the passwords of visitors' to our Websites and Other Web pages. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our Websites and these cookies may collect consumers' personal information. 
+**The Information We Collect:**
 
-Visitors to our Websites are always free to decline cookies, but in doing so they may not be able to use certain features on our Websites. The "help" segment of the toolbar on most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie, and how to erase cookies from their hard drives. 
+This notice applies to all information collected or submitted on the ILoveGiveaways.com website. On some pages, you can request free gifts or products (subject to availability). The types of personal information collected at these pages are: 
 
-We may use Web beacons or other tools to collect the above-described non-personal information, which may be combined with other personal information that we collect. We may also use Web beacons and other tools to track information about visitors to our Websites and Other Web Pages after they leave these locations. Web beacons may also be used for purposes such as accessing cookies, counting page visits, and otherwise facilitating visitors' online experience.
+Name   
+Address   
+Email address   
+Age range   
+Sex 
 
-**  
-Use of Information**  
-We may use information collected from recipients of our marketing campaigns, visitors to our Websites, and our marketing partners, advertisers, and other third parties for any of the following purposes in either the online or offline arena: (1) to provide individuals with targeted offers based on their specific requests or their stated preference to receive certain categories of offers; (2) to send individuals information and promotional materials from our company as well as from our marketing partners, advertisers, and other third parties; (3) to deliver targeted display advertisements and offers through online marketing communications, such as emails, banner advertisements, and pop-up advertisements (by matching criteria provided by our advertisers with information collected from our visitors); (4) to enable our marketing partners, advertisers, and other third parties to communicate with individuals through a variety of means, including, but not limited to, e-mails, telephone solicitations or direct mailings; (5) to administer contests and sweepstakes offered on our Websites, Other Web Pages, or on our partners' Websites; (6) to contact visitors to our Websites or registered members of our marketing campaigns when necessary; (7) to help address problems with our Websites or marketing services; (8) to administer our Websites; (9) to conduct internal reviews of our Websites (e.g., to determine the number of visitors to specific pages within the site); (10) to help us better understand recipients of our marketing campaigns and visitors' use of our Websites; and (11) to protect the security or integrity of our Websites and Other Web Pages that are accessible through our online marketing campaigns. Non-personal information will be used for these purposes as well as for conducting internal reviews and monitoring of our Websites and Other Web Pages that are accessible through our online marketing campaigns and providing a greater online experience for our visitors.
+On some pages, you can subscribe to VIP Newsletter. The types of personal information collected are: 
 
-**Disclosure of Information**  
-We may transfer or otherwise disclose information collected from recipients of our marketing campaigns, visitors to our Websites, and our marketing partners, advertisers, and other third parties to our employees and independent contractors, to our subsidiaries and affiliates, and to our consultants, other business associates, and suppliers, if the disclosure will enable that party to perform a business, professional, or technical support function for us. Disclosure of information may also be necessary to respond to judicial process, to provide information to law enforcement agencies, or to facilitate investigation of matters of public safety, as permitted by law. 
+First Name   
+Email 
 
-We may also disclose information we collect from recipients of our marketing campaigns, visitors to our Websites, and our marketing partners, advertisers, and other third parties to other marketing partners, advertisers, and third parties who may use the information in connection with their business operations, such as to send targeted offers, marketing materials, and other communications to them. In addition, we may share, rent, sell, or transfer any of the personal information provided by you or from our marketing partners, advertisers, or other third parties. We are not responsible for the practices of our marketing partners, advertisers, or other third parties.
+**The Way We Use Information:**
 
-**Security**  
-Visitors should consider any electronic communication that they transmit to us (such as data, questions or answers, comments, suggestions, or other communications) to be non-confidential. We will not be liable or responsible if information that belongs to an individual is intercepted and used by an unintended recipient, or is otherwise accessed and used without our written permission. By participating in our marketing campaigns or visiting our Website, you assume this risk.
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-**Opt-Out Policy**  
-We offer visitors to our Websites and recipients of our marketing campaigns the opportunity to opt-out of receiving communications from us and to opt-in and opt-out of receiving communications from our marketing partners, advertisers, and other third parties. If you have subscribed to our service and wish to stop receiving any future communications from us, please email us at customerservice@ILoveGiveaways.com. These unsubscribe options are also included in email communications that you receive from us. Please note that if you wish to stop receiving communications from any of our marketing partners, advertisers, or other third parties you must communicate with these entities directly. We are unable to process unsubscribe requests for any of our marketing partners, advertisers, or other third parties.
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-We take all reasonable measures to ensure that your unsubscribe requests are fulfilled in a timely manner. However, despite these precautions, there is always the chance that after you unsubscribe you may receive additional communications from us that may have resulted from an inadvertent technical or other processing error. If this happens, please notify us of those communications by writing to customerservice@ILoveGiveaways.com and we will take immediate steps to rectify the situation. 
+We are using [AWeber Systems, Inc.](http://aweber.com/?301041) to manage newsletter and newsletter subscribers. Email addresses and other associated information are held in strict confidence. [AWeber Systems, Inc.](http://aweber.com/?301041) does not contact our subscribers, nor does it sell or share information with any other party.   
+Each newsletter contains an easy, automated way for you to unsubscribe. If you wish to do this, simply follow the instructions at the end of any newsletter email. 
 
-**Children**  
-Our online marketing campaigns and Websites are not directed to, nor do we knowingly collect any personal information from, children under 13.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
-**Third Party Websites**  
-Our Websites and Other Web Pages that are accessible through our online marketing campaigns may contain links to other third party Websites (such as those of our advertisers), which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these Websites. Accordingly, we recommend that you review the privacy policy posted on any Website that you may access through our Websites.
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
-**Unforeseen Circumstances**  
-In the event that ILoveGiveaways or any of its assets are acquired by a third party, personal information acquired by us may be one of the assets transferred. 
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
-**Changes To This Privacy Policy**  
-There may be times when we need to amend, modify, remove, or change various aspects of this Privacy Policy, and we reserve the right to do so at our discretion. We recommend that you revisit this Privacy Policy periodically to ensure that you are aware of our current privacy practices. Your continued use of our services following any changes signifies your acceptance of these changes. 
+**Our Commitment To Data Security**
 
-**Contact Us**  
-If you have any questions about this Privacy Policy or the practices or activities associated with our Websites or our online marketing campaigns, email customerservice@ILoveGiveaways.com.  
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Our dedicated web server located in a highly secured facility at [Peak10 Data Center](http://www.peak10.com/jacksonville/default.asp). 
 
+**Our Commitment To Children's Privacy:**
+
+The [Children's Online Privacy Protection Act (COPPA)](http://www.ftc.gov/ogc/coppa1.htm) governs information gathering online from or about children under the age of 13. Verifiable consent from a child's parent or guardian is required before collecting, using, or disclosing personal information from a child under the age of 13.
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+
+**How You Can Correct Your Information**
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before making corrections. 
+
+**How To Contact Us**
+
+Should you have other questions or concerns about these privacy policies, please send us an email at [info@ILoveGiveaways.com](mailto:info@ILoveGiveaways.com). 
