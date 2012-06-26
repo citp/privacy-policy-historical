@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the blend.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143308id_/http%3A//www.blend.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blend.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626044017id_/http%3A//www.blend.com/privacy.html) for the most accurate reproduction.*
 
 # Blend.com | Privacy Policy
-
-### Privacy Policy
 
 #### What information is collected?
 
 When you enter you email on our site, we collect certain information from you.
 
-To provide you with the best possible experience, collect information about our visitors and track the visits our website gets, we employ the use of cookies and web beacons, like most websites. For more information on the use of cookies, please refer to the “do we use cookies?” section below.
+To provide you with the best possible experience, collect information about our visitors and track the visits our website gets, we employ the use of cookies and web beacons, like most websites. For more information on the use of cookies, please refer to the "do we use cookies?" section below.
 
 #### How is this information used?
 
@@ -27,11 +25,11 @@ Note: You will find detailed instructions on unsubscribing from our emails at th
 
 #### How is your information protected?
 
-There are a variety of security measures implemented on our site that keep your personal information safe. Information Blend collects from you such as, activity information, including specific questions, answers and comments; is collected so that Blend can better respond to customer support needs and service requests. When you provide an email address during order processing, it will only be used to send information regarding your order. 
+There are a variety of security measures implemented on our site that keep your personal information safe. Information Blend collects from you such as, activity information, including specific questions, answers and comments; is collected so that Blend can better respond to customer support needs and service requests. When you provide an email address during order processing, it will only be used to send information regarding your order.
 
 #### Unsubscribe
 
-If you wish to opt out of Blend emails or any future notifications please visit: http://www.Blend.com/unsubscribe. 
+If you wish to opt out of Blend emails or any future notifications please visit: [http://www.Blend.com/unsubscribe](http://www.blend.com/unsubscribe "http://www.Blend.com/unsubscribe").
 
 #### Do we use cookies?
 
@@ -65,4 +63,4 @@ Any changes we make to the privacy policy will be posted on this page.
 
 #### Contacting Us
 
-For any questions regarding this privacy policy or about Blend.com, please use [contact us](https://web.archive.org/page/contact).
+For any questions regarding this privacy policy or about Blend.com, please use [contact us](https://web.archive.org/contact.html).
