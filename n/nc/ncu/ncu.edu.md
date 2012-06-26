@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncu.edu privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217092336id_/http%3A//www.ncu.edu/northcentral-global/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncu.edu privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626073128id_/http%3A//www.ncu.edu/northcentral-global/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy and Consumer Information | Northcentral University
 
@@ -47,8 +47,8 @@ In accordance with the Americans with Disabilities Act of 1990 (ADA), the Rehabi
 **[Web Accessibility Statement](http://www.ncu.edu/northcentral-global/consumer-information/Web-accessibility)**   
 The public Northcentral Web site is built to comply with Section 508 Accessibility Standards of the Rehabilitation Act of 1973, as amended in 1998. 
 
-[**Disclosure of Campus Crime Statistics (Jeanne Clery Act)**   
-](http://www.ncu.edu/northcentral-global/consumer-information/campus-crime-statistics)Northcentral provides statistics to inform its current and prospective Students, Faculty Mentors and staff of campus crime. 
+**Disclosure of Campus Crime Statistics (Jeanne Clery Act)**   
+Northcentral is not obligated to report Clery Act statistics as all courses are conducted online. 
 
 [**Alcohol and Drug Policy**](http://www.ncu.edu/northcentral-global/consumer-information/alcohol-and-drug-policy) **  
 ** Northcentral is concerned about the use of alcohol, illegal drugs and controlled substances as it affects faculty, staff and Students. 
@@ -63,15 +63,18 @@ Students, Mentors and even visitors to Northcentral will get the maximum benefit
 The Student Right to Know (SRTK) Act, passed by Congress in 1990, requires all institutions eligible for Title IV funding to disclose graduation rates of degree- or certificate-seeking Students to all Students and prospective Students.   
 **[  
 Higher Education Opportunity Act (HEOA)](http://www.ncu.edu/northcentral-global/consumer-information/higher-education-opportunity-act)**  
-Created in large part to help lower the prices students pay for textbooks, the Higher Education Opportunity Act (HEOA), went into effect July 1, 2010. 
+Created in large part to help lower the prices students pay for textbooks, the Higher Education Opportunity Act (HEOA), went into effect July 1, 2010.
 
-**Endorsements**   
-All viewpoints stated in the testimonial videos throughout the site are stated in their own words. It is not representative or an endorsement of their employer or military branch.
+ **[Pledge of Public Accountability](http://www.ncu.edu/northcentral-global/pledge-of-public-accountability/learn-more)**  
+The decision to attend an institution of higher education involves a significant financial commitment. At Northcentral University, we believe that any decision to do so should be supported by clear and accurate information.
 
-Gainful Employment Disclosure Information Northcentral University strives to enable students to make informed choices about their academic program selection by making disclosures to prospective Students in a clear, timely, and meaningful way.
+ **[State Authorization](http://www.ncu.edu/public_images/state_authorization_4-26-12.pdf)**  
+To meet the federal requirements on state authorization for distance education institutions. Northcentral University provides information about state agencies as a resource for students that includes state agency contacts for complaint resolution.
 
-  * [School of Business and Technology Management](https://web.archive.org/download/GE_Disclosure_BUS.pdf)
-  * [School of Education](https://web.archive.org/download/GE_Disclosure_EDU.pdf)
-  * [School of Behavioral and Health Sciences](https://web.archive.org/download/GE_Disclosure_BHS.pdf)
+ **Gainful Employment Disclosure Information** Northcentral University strives to enable students to make informed choices about their academic program selection by making disclosures to prospective Students in a clear, timely, and meaningful way.
+
+  * [**School of Business and Technology Management**](http://www.ncu.edu/public_images/GE_Disclosure_BUS-Jan%202012.pdf)
+  * [**School of Education**](http://www.ncu.edu/public_images/GE_Disclosure_EDU-Jan%202012.pdf)
+  * [**School of Behavioral and Health Sciences**](http://www.ncu.edu/public_images/GE_Disclosure_BHS-Jan%202012.pdf)
 
 
