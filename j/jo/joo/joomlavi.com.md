@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the joomlavi.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210010id_/http%3A//www.joomlavi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlavi.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626034909id_/http%3A//www.joomlavi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Joomla! Template, Joomla! Extension
 
 ##  Privacy 
 
-Hits : 2666 
+Hits : 3676 
 
 **1\. General**
 
