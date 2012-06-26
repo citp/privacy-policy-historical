@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastspring.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215035913id_/http%3A//www.fastspring.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastspring.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626074416id_/http%3A//www.fastspring.com/privacy.php) for the most accurate reproduction.*
 
 # FastSpring Privacy Policy
 
@@ -21,6 +21,10 @@ Beyond these mentioned disclosures, we will only disclose your personally identi
 ## Links to Third Party Sites
 
 This Site may be linked to other web sites on the Internet which are not under the control of or maintained by FASTSPRING. Such links do not constitute an endorsement by FASTSPRING of those other web sites, the content displayed therein, or the persons or entities associated therewith. You acknowledge that FASTSPRING is providing these links to you only as a convenience, and you agree that FASTSPRING is not responsible for the content of such sites. Your use of these other linked web sites is subject to the respective terms of use and privacy policies located on the linked sites.
+
+## Safe Harbor Framework
+
+Bright Market, LLC (dba FastSpring.com) complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Bright Market, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Bright Market's certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## Security
 
