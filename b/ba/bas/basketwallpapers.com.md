@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basketwallpapers.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103004153id_/http%3A//www.basketwallpapers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basketwallpapers.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626034239id_/http%3A//www.basketwallpapers.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Basketball Wallpapers
 
@@ -8,7 +8,7 @@ Your Personal Information
 BasketWallpapers.com does not require, collect or store personal information. This Web site is free for all and You can use it without need to register account and leave any personal information. Therefore Your privacy is 100% safe on our Web site.
 
 Third Party Advertising  
-BasketWallpapers.com uses Google AdSense and other third-party advertising companies to serve ads when you visit our Web site. These advertising companies may use some information (excluding Your name, address, e-mail address or telephone number) about your visits and behavior during those visits in order to provide advertisements about goods and services that may be of interest to you.
+\- We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 Third Party Cookies  
 Third-party advertising companies like Google AdSense i mentioned above may place or recognize a unique "cookie" on your browser while serving advertisements during Your visits. Cookies are not harmful in any way to You or Your PC and can be removed directly in any modern Web browser with no need of any anti-virus or anti-spyware software.
