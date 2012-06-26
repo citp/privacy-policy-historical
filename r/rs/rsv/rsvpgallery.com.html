@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rsvpgallery.com privacy policy that was archived on 2011-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111217083817id_/http%3A//rsvpgallery.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rsvpgallery.com privacy policy that was archived on 2012-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626124340id_/http%3A//rsvpgallery.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -8,7 +8,7 @@
 <meta name="description" content="RSVP Gallery.">
 <meta name="keywords" content="RSVP Gallery,RSVP">
 <meta name="author" content="Xy Web Solutions">
-<meta name="generator" content="WS Version 2.1.3a">
+<meta name="generator" content="WS Version 2.1.7">
 <meta http-equiv="imagetoolbar" content="false">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <base href="http://rsvpgallery.com/">
@@ -48,6 +48,10 @@ var XLSTemplate = "templates/xy/";
 
 <script type="text/javascript" src="assets/highslide/highslide-full.js"></script> 
 <link rel="stylesheet" type="text/css" href="assets/highslide/highslide.css"> 
+<link rel="stylesheet" type="text/css" href="assets/css/jquery.jscrollpane.css">
+<script type="text/javascript" src="assets/js/jquery.mousewheel.js"></script> 
+<script type="text/javascript" src="assets/js/mwheelIntent.js"></script> 
+<script type="text/javascript" src="assets/js/jquery.jscrollpane.min.js"></script> 
 <link rel="stylesheet" type="text/css" href="modules/productZoomV2/css/productzoom.css">
 <script type="text/javascript"> 
     hs.graphicsDir = 'assets/highslide/graphics/';
@@ -71,6 +75,17 @@ var XLSTemplate = "templates/xy/";
   })();
   
   $(document).ready(function(){
+    
+    $("#shipstreet1, #shipstreet2, #shipcity, #shipstate, #shipcountry, #shipzip").live("ready", function(){
+       $(this).attr("disabled", "disabled"); 
+    });
+    /*$("#billstreet1").live("change", function(){$("#shipstreet1").val($(this).val());});
+    $("#billstreet2").live("change", function(){$("#shipstreet2").val($(this).val());});
+    $("#billcity").live("change", function(){$("#shipcity").val($(this).val());});
+    $("#billstate").live("change", function(){$("#shipstate").val($(this).val());});
+    $("#billcountry").live("change", function(){$("#shipcountry").val($(this).val());});
+    $("#billzip").live("change", function(){$("#shipzip").val($(this).val());});*/
+    
     $("#Nav li").mouseenter(function(){
         $("a:first", this).addClass("active");
        $("ul:first", this).show(); 
@@ -101,9 +116,12 @@ var XLSTemplate = "templates/xy/";
 		<div id="header">
 
 			<div id="login">
-								<div class="text">
-					<a href="#" onclick="qc.pA('xlsws_custom_page', 'c9', 'QClickEvent', '', ''); return false;" class="loginbox">LOGIN</a> &nbsp;/&nbsp; 
-					<a href="index.php?xlspg=customer_register">REGISTER</a>
+				<div class="text">
+                    <div class="links">
+    				    					<a href="#" onclick="qc.pA('xlsws_custom_page', 'c9', 'QClickEvent', '', ''); return false;" class="loginbox">LOGIN</a> &nbsp;/&nbsp; 
+    					<a href="index.php?xlspg=customer_register">REGISTER</a>
+    				                    </div>
+                    
 					<br>
 						<div id="shoppingcart_ctl" style="display:inline;"><div id="shoppingcart" class="rounded">
 
@@ -127,7 +145,7 @@ var XLSTemplate = "templates/xy/";
 <!-- <span style=""></span> -->
 <div id="searchoptions"></div>
 </div></div>				</div>	
-							</div>	
+			</div>	
 			
 			<a href="index.php"><img src="templates/xy/images/logo.jpg"></a>
 		</div>
@@ -193,7 +211,7 @@ var XLSTemplate = "templates/xy/";
     			    				<li><a href="index.php?cpage=brandsList">BRANDS</a></li>
     				<div class="clear"></div>				
     			</ul>
-                <a id="xy_blog_nav" href="http://rsvpgallery.tumblr.com"><p>TUMBLR</p></a>
+                <a id="xy_blog_nav" href="http://ww.neonandnonsense.com" target="_blank"><p>BLOG</p></a>
     			<a id="xy_shop_nav" href="index.php"><p>SHOP</p></a>
                 <div class="clear"></div>    				
     		</div>
@@ -281,7 +299,7 @@ Cookies are small text files sent by a Website to the hard drive on your compute
 	</div>			
 	<div style="width:426px; float:left; text-align:center">
 			<img src="templates/xy/images/footer-image.png"><br>
-			<div id="xy_small_light_text">2011 RSVP GALLERY LLC ALL RIGHTS RESERVED</div>
+			<div id="xy_small_light_text">2012 RSVP GALLERY LLC ALL RIGHTS RESERVED - <a href="http://advisiongraphics.com" target="_blank">ADVISION</a></div>
 	</div>
 	<div style="width:232px; float:left; text-align:right">
 			<div id="xy_footer_text">
@@ -312,7 +330,7 @@ pageTracker._trackPageview();
 	<span id="c18_ctl"><span id="c18" onqcodomove="void(null);"></span></span>	    
 	
 <div style="display: none;">
-	<input type="hidden" name="Qform__FormState" id="Qform__FormState" value="201112170234/ce48db4fa4d4b2b78794c25e9353b451">
+	<input type="hidden" name="Qform__FormState" id="Qform__FormState" value="201206260749/afe9da4367a37901ee0098f1404668e0">
 	<input type="hidden" name="Qform__FormId" id="Qform__FormId" value="xlsws_custom_page">
 </div>
 
