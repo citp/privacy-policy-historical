@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesteadyhandblog.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118083526id_/http%3A//thesteadyhandblog.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesteadyhandblog.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626075935id_/http%3A//thesteadyhandblog.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy | The Steady Hand
 
@@ -22,7 +22,7 @@ To get your own policy,  go to
 [](http://4.bp.blogspot.com/-I-fdakr1U6E/TZHnWWEaYOI/AAAAAAAAAOI/wf1buwqAP0A/s1600/I+disclose+button+-+small.jpg)
 
 This Privacy Policy was last modified on March 17,  2011.  
- **What information do we collect?**  
+**What information do we collect?**  
 We collect information from you when you place an order,  respond to a survey or fill out a form.  
 When ordering or registering on our site,  as appropriate,  you may be asked to enter your:  name,  e-mail address,  mailing address or phone number. You may,  however,  visit our site anonymously.
 
