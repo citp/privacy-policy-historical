@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the sugarsync.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210130119id_/https%3A//www.sugarsync.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarsync.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626142929id_/https%3A//www.sugarsync.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SugarSync
 
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.sugarsync.com/seal_m "Validate TRUSTe privacy certification")
+
 This Privacy Policy applies to all of the products, services and the website [www.sugarsync.com](https://web.archive.org/) offered by SugarSync, Inc. (collectively, SugarSync's "services"). This Privacy Policy is designed to assist you in understanding how we collect and use personal information related to our services. We hope that this will help you to make informed decisions when using our services. In this Privacy Policy, references to "we," "our" and "us" refer to SugarSync, while "you" and "your" refer to the SugarSync customer or user.
 
-SugarSync, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>.
+SugarSync complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. SugarSync has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SugarSync's certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## INFORMATION WE COLLECT
 
@@ -54,8 +56,6 @@ The use of cookies by third parties is not covered by our privacy policy. We do 
 
 Our third party tracking utility company employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
-## HOW WE USE THE INFORMATION
-
 We use information which we collect for purposes of providing the services, auditing, research and analysis in order to maintain, protect and improve our services, ensuring the functioning of our servers, providing customer service, contacting you as described in this Privacy Policy, and to enable features of the services, such as to allow you to share photos and files with friends, and developing new products and services for our customers and prospective customers. We may also use the information we collect to notify you about important changes to our services, respond to your support requests, and send you newsletters and special offers which we think you may find valuable. You may notify us at any time if you do not wish to receive these offers by sending an email to [support@sugarsync.com](mailto:support@sugarsync.com), by logging into your account and updating your notifications settings, or by following the instructions included in each communication. Please keep in mind that by using our services, we may need to send you information regarding your account, such as service announcements, so by your use of our services, you authorize us to send you such information and you may not opt out of receiving those messages.
 
 ### Public Forums
@@ -80,8 +80,6 @@ SugarSync does not sell or rent your personal information to third parties excep
 
 
 
-## SECURITY: UPDATING YOUR INFORMATION
-
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. Within SugarSync, we restrict access to personal information to SugarSync employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These persons are bound by confidentiality obligations.
 
 ### Email Transmissions
@@ -100,13 +98,9 @@ You may access, delete inaccuracies, and correct your information at any time by
 
 We will retain your or your contacts information for as long as your account is active or as needed to provide you services unless you elect to remove that information. If you wish to cancel your account, contact us at support@sugarsync.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## YOUR CONSENT
-
 By using our services you consent to our collection and use of your personal information as described in this Privacy Policy. If we decide to change our privacy practices, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this privacy statement at any time, subject to rights you may have as a subscriber to our services. If we change how we use your or your contacts personally identifiable information, we will notify you here, by email, or by means of a notice on our home page.
-
-## MORE ABOUT YOUR PRIVACY
 
 SugarSync, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the site [www.sugarsync.com](https://web.archive.org/) as well as our products and services. If you have any questions about this Privacy Policy, please feel free to email us at [support@sugarsync.com](mailto:support@sugarsync.com) or write to us at Privacy Concerns, c/o SugarSync, Inc., 1810 Gateway Drive, Suite 200, San Mateo, CA 94404. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
