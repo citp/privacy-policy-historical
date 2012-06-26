@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campaignlive.co.uk privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225110535id_/http%3A//www.brandrepublic.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaignlive.co.uk privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626053934id_/http%3A//www.brandrepublic.com/go/privacy) for the most accurate reproduction.*
 
 # Privacy - Brand Republic - Connecting advertising, marketing, media & PR
 
@@ -37,7 +37,9 @@ For the same reason we may obtain information about your general Internet usage 
 
 You may refuse to accept cookies by activating the setting on your browser, which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Site. If you want to find out more about how to disable cookies please see this external third party website: <http://www.allaboutcookies.org/manage-cookies/>
 
-Please note that our advertisers may also use cookies over which we have no control. ** **
+Please note that our advertisers may also use cookies over which we have no control.
+
+Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies we are currently working towards implementing the new requirements in line with guidance provided by The Information Commissioner’s Office. 
 
 **Storage and retention of your information**
 
