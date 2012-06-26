@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listal.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208183039id_/http%3A//www.listal.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listal.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626045702id_/http%3A//www.listal.com/help/privacy) for the most accurate reproduction.*
 
 # Listal - List the stuff you love! Movies, TV, music, games and books
 
