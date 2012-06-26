@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spamfighter.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206153448id_/http%3A//www.spamfighter.com/Info_Privacy_Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spamfighter.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626152342id_/http%3A//www.spamfighter.com/Info_Privacy_Statement.asp) for the most accurate reproduction.*
 
 # SPAMfighter Privacy Statement - SPAMfighter
 
@@ -28,3 +28,5 @@ Your email address will NEVER be shared with other companies!
  **External Links**
 
 This site contains links to other sites. SPAMfighter ApS is not responsible for the privacy practices or the content of such web sites.
+
+[](http://secure.trust-guard.com/certificates/6573)
