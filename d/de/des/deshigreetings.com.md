@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the deshigreetings.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203100117id_/http%3A//www.deshigreetings.com/privacyPolcy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deshigreetings.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626215835id_/http%3A//www.deshigreetings.com/privacyPolcy.php) for the most accurate reproduction.*
 
 # Deshigreetings.com- Send Gifts to Bangladesh
 
 |   
 ---  
-| 
-
-|  |  | We respect your privacy   
+|  |  |  | We respect your privacy   
 ---  
   
 At [**Deshigreetings.com**](http://www.deshigreetings.com/), we are committed to protecting the privacy of all our customers. [**Deshigreetings.com**](http://www.deshigreetings.com/) does not sell, rent, or loan any identifiable information at the individual level regarding its customers to any third party. Any information you give us is held with the utmost care and security. This information is collected primarily to ensure that we are able to fulfill your requirements and to deliver you a truly personalized shopping experience. 
