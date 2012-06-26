@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the football-wallpapers.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227084850id_/http%3A//www.football-wallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-wallpapers.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626130022id_/http%3A//www.football-wallpapers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Football Wallpapers, Videos, Myspace Layouts
+# Privacy Policy | Football Wallpapers and Videos
 
 Football-Wallpapers.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
