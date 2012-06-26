@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goby.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230133519id_/http%3A//www.goby.com/page/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goby.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626161031id_/http%3A//www.goby.com/page/terms) for the most accurate reproduction.*
 
 # Goby Privacy Policy - goby.com
 
