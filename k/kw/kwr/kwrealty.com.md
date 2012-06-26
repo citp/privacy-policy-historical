@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwrealty.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128062920id_/http%3A//www.kw.com/kw/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwrealty.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626153038id_/http%3A//www.kw.com/kw/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Keller Williams may collect information from you automatically when you visit ou
 
 Several companies offer tools that allow people to browse the web anonymously. We cannot provide you a personalized experience if you use these tools, because we cannot recognize you and your computer. However, we want to ensure you know of their existence. 
 
-Keller Williams may also use cookies to enhance browsing on our website. "Cookies" are small files or records that are placed on your computer's hard drive to collect information about your activities on our website. You can choose to have your browser warn you every time a cookie is being sent to you, and you can turn off cookie placement. If you refuse, your overall browsing experience can be affected and may prevent you from fully using the Site. Keller Williams may also use "message format" and "message open" sensing technologies to enable Keller Williams to recognize whether you have enabled your email program to receive HTML emails. If so, this information is associated with your email address so that we can send subsequent messages to you in HTML format. The "message open" sensing technology allows us to recognize whether you have opened our email messages. We can only detect this if your have enabled your email program to receive HTML emails. 
+Keller Williams may also use cookies to enhance browsing on our website. "Cookies" are small files or records that are placed on your computer's hard drive to collect information about your activities on our website. You can choose to have your browser warn you every time a cookie is being sent to you, and you can turn off cookie placement. If you refuse, your overall browsing experience can be affected and may prevent you from fully using the Site. Keller Williams may also use "message format" and "message open" sensing technologies to enable Keller Williams to recognize whether you have enabled your email program to receive HTML emails. If so, this information is associated with your email address so that we can send subsequent messages to you in HTML format. The "message open" sensing technology allows us to recognize whether you have opened our email messages. We can only detect this if you have enabled your email program to receive HTML emails. 
 
 For most of the browsing services on the Site, Keller Williams does not require your personal information. There are portions of the Site where you will be given the option to provide information about you. The information that you may be asked to provide may include your name, email address, telephone number, and address. Depending on your request and other circumstances, other information may also be collected. It is your discretion and determination whether to provide such information. 
 
@@ -26,7 +26,7 @@ In addition, Keller Williams may disclose aggregated data and statistics in orde
 
 ## Your Choices
 
-Keller Williams does not require you to provide personal information in order to use the Site. However, if you choose to not provide requested personal information, your ability to use all of the Site’s features may be limited or you may not receive the information that your requesting. By choosing to provide personal information, you agree to the terms of this Privacy Policy. 
+Keller Williams does not require you to provide personal information in order to use the Site. However, if you choose to not provide requested personal information, your ability to use all of the Site’s features may be limited or you may not receive the information that you are requesting. By choosing to provide personal information, you agree to the terms of this Privacy Policy. 
 
 If you do not want to receive e-mail or other mail from Keller Williams, please contact us at support@kw.com. If you do not want to receive legal notices or other communications from Keller Williams, it is your responsibility to review and monitor the Site for such notices and communications. 
 
@@ -38,7 +38,7 @@ Keller Williams markets our products and services exclusively to adults. If you 
 
 ## Links to Third-Party Websites
 
-When you click on links on the Site and the Intranet that take you to third-party web sites, you will be subject to the third parties' privacy policies. Keller cannot and does not accept responsibility for the contents or actions of any third-party web sites. We encourage you to read the posted privacy statement of every site you visit, whether you are linking from our site or browsing on your own. 
+When you click on links on the Site and the Intranet that take you to third-party website(s), you will be subject to the third parties' privacy policies. Keller cannot and does not accept responsibility for the contents or actions of any third-party website(s). We encourage you to read the posted privacy statement of every site you visit, whether you are linking from our site or browsing on your own. 
 
 ## Changes to Our Privacy Policy
 
