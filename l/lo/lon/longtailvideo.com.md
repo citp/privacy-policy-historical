@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longtailvideo.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225032719id_/http%3A//www.longtailvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longtailvideo.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626081340id_/http%3A//www.longtailvideo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LongTail Video | Home of the JW Player
 
@@ -9,6 +9,8 @@ We receive and store any information you enter on our website. You can choose no
 We obtain information about you when you purchase a product, partake in a newsletter, or comment with customer service.
 
 We also use "cookie" technology on our website. The cookies we use do not reveal any personal information. We use this technology to enhance your experience and to determine for which one of our partners, if any, referred you to our website.
+
+We also use third party analytics tools such as Google Analytics on our website and in our software and services to obtain non-personal, aggregate information.
 
 2\. How do we use the information we receive from you?
 
