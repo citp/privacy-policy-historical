@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extralunchmoney.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124192040id_/http%3A//www.extralunchmoney.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extralunchmoney.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626041735id_/http%3A//www.extralunchmoney.com/pages/view/privacy-policy) for the most accurate reproduction.*
 
 # Buy Nude Photos and Videos: Privacy Policy
 
