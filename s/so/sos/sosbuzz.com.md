@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sosbuzz.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122025242id_/http%3A//www.sosbuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosbuzz.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626154316id_/http%3A//www.sosbuzz.com/privacy) for the most accurate reproduction.*
 
 # Sosbuzz - Privacy Notice
 
@@ -60,7 +60,9 @@ When non-profit organizations join Sosbuzz as a Cause or Association, within for
 
 **6\. Cookies**
 
-We use "cookies" (small files placed on your hard drive) on certain pages to help analyze user statistics and to enable proper functioning of our site. When you click on any deal on our search results, featured seller pages, email deal alerts, and seller profile pages, these cookies make it possible for you to be able to report to us any purchases you make from our sellers, and thus allow us to make a 25% donation of our proceeds to your favorite cause. We also use cookies to identify you and keep you logged into the site.
+We use browser cookies to identify you and keep you logged into the site. We also use "flash cookies" or "Local Shared Objects" (small files placed on your hard drive), on certain pages to help analyze user statistics and to enable proper functioning of our site. These cookies are used to enhance your user experience, for example by confirming the identity of the sellers for purposes of reporting transactions and allocating contributions to your causes. When you click on any deal on our search results, featured seller ads, email deal alerts, affiliate links and/or seller profile pages, these flash cookies make it possible for you to be able to report to us any purchases you make from our sellers, and thus allow us to make a 25% donation of our proceeds to your favorite cause.
+
+Local Shared Objects are similar to browser cookies, but can store data more complex than simple text. By themselves, they cannot do anything to or with the data on your computer. To find out more about flash cookies or how to disable them, please click here: <http://kb2.adobe.com/cps/526/52697ee8.html>. Please note that disabling flash cookies may interfere with the performance and features of our site. Also note that unless you have otherwise blocked flash cookies from writing to your hard drive, by revisiting Sosbuzz and clicking on any deal on our search results, featured seller ads, affiliate links, seller profile pages and/or email deal alerts will place the flash cookie back on your hard drive so we can make it possible for you to be able to report to us any purchases you make from our sellers, and thus allow us to make a 25% donation of our proceeds to your favorite cause.
 
 **7\. Use of Information Obtained from Sosbuzz**
 
