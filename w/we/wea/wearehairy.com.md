@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wearehairy.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124124737id_/http%3A//www.wearehairy.com/help/subscription/whats_about_my_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearehairy.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626162842id_/http%3A//www.wearehairy.com/help/subscription/whats_about_my_privacy) for the most accurate reproduction.*
 
 # WeAreHairy.com Privacy policy - WeAreHairy.com Help & Support Page
 
