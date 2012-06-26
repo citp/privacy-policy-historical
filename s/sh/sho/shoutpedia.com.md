@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoutpedia.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209113510id_/http%3A//www.shoutpedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutpedia.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626183123id_/http%3A//www.shoutpedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Shoutpedia
+# Privacy Policy
 
 **Shoutpedia.Com** takes your privacy very seriously. Just spare a few moments to read this policy and see how we are doing.
 
