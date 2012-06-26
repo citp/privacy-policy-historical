@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the payworks.ca privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226202809id_/http%3A//www.payworks.ca/payworks-canada-privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the payworks.ca privacy policy that was archived on 2012-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626085614id_/http%3A//www.payworks.ca/payworks-canada-privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-CA"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -19,7 +19,7 @@
 <script type="text/javascript" src="http://www.payworks.ca/scripts/highlight.js"></script>
 <script type="text/javascript" src="http://www.payworks.ca/scripts/libs/jquery-1.4.2.min.js"></script>
 <meta http-equiv="imagetoolbar" content="no">
-<meta name="copyright" content="Copyright © 2000-2008 Payworks Payroll Services Canada, All Rights Reserved">
+<meta name="copyright" content="Copyright © 2000-2012 Payworks Payroll Services Canada, All Rights Reserved">
 <link rel="shortcut icon" href="http://www.payworks.ca/favicon.ico">
 
 <script type="text/javascript">
@@ -38,7 +38,7 @@
 <!-- Google Analytics Social Button Tracking -->
 <script type="text/javascript" src="https://s3.amazonaws.com/ha_js/ga_social_tracking.js"></script>
 </head>
-<body onload="javascript:document.loginbox.reset();">
+<body onload="clearForms();" onunload="clearForms();">
 <div id="container">
     <div id="header">
   <div id="logo">
@@ -107,7 +107,7 @@ function clearForms()
 </script>
 
 <script type="text/javascript">
-function custCheck(custField){custField.value=custField.value.toUpperCase();var custPattern=/([ABDEGHMNOPQSTVXYZ]{1})(\d{5})/;var custRegExp=new RegExp(custPattern);custField.value=(custField.value.replace(custPattern,"$1$2"));if(custField.value!=""){if(custRegExp.test(custField.value)==false){return false;}}
+function custCheck(custField){custField.value=custField.value.toUpperCase();var custPattern=/([ABDEGHLMNOPQSTVXYZ]{1})(\d{5})/;var custRegExp=new RegExp(custPattern);custField.value=(custField.value.replace(custPattern,"$1$2"));if(custField.value!=""){if(custRegExp.test(custField.value)==false){return false;}}
 return true}
 function validate_loginform()
 {
@@ -158,7 +158,7 @@ window.onload=init;*/
 	  	
         <form name="loginform" method="post" action="https://payroll.payworks.ca/loginscreen.asp" target="_blank" onsubmit="return validate_loginform();">
           <div id="loginhdr" class="drop" title="Click to Expand/Collapse the Web Payroll Login panel">
-		  Web Client Log-in</div>
+		  Log In</div>
           <div class="fields">
             <label for="PayRollNum">Payroll Number</label>
             <input name="PayRollNum" id="PayRollNum" type="text" title="Enter your company payroll number here." value="" onfocus="ViewLogin('login', '166');ViewLogin('Desktoplogin', '25');">
@@ -172,53 +172,6 @@ window.onload=init;*/
             <div id="loginButton">
               <input name="Submit" type="image" value="Submit" src="http://www.payworks.ca/images/buttons/loginButn.gif" title="Click here to Log In now." alt="Click here to Log In now." onclick="this.blur();">
             </div>
-          </div>
-        </form>
-      </div>
-
-<script type="text/javascript">
-
-function validate_Desktoploginform() {
-
-	if(""==document.Desktoploginform.CustomerID.value) {
-		alert("Please enter your Username.");
-		document.Desktoploginform.CustomerID.style.background = '#FFFDD7';
-		setTimeout(function () {ViewLogin('Desktoplogin', '128'),document.Desktoploginform.CustomerID.focus() }, 50);
-		
-		return false;
-	} else  {
-		document.Desktoploginform.CustomerID.style.background = '#FFFFFF';
-	}
-	if(""==document.Desktoploginform.Password.value) {
-		alert("Please enter your Password.");
-		document.Desktoploginform.Password.style.background = '#FFFDD7';
-		setTimeout(function () {ViewLogin('Desktoplogin', '128'),document.Desktoploginform.Password.focus() }, 50);
-		return false;
-	} else  {
-		document.Desktoploginform.Password.style.background = '#FFFFFF';
-	}
-    return true;
-
-}
-</script>
-
-      <div id="Desktoplogin">
-        <form name="Desktoploginform" method="post" action="http://www.payworks.ca/Members/index.asp" id="lgnForm" onsubmit="return validate_Desktoploginform();">
-          <div id="Desktoploginhdr" class="drop" title="Click to Expand/Collapse the Desktop Payroll Login panel">Desktop Client Log-in</div>
-          <div class="fields">
-		  
-            <label for="CustomerID">Username</label>
-            <input name="CustomerID" id="CustomerID" type="text" title="Enter your user name here." value="" onfocus="ViewLogin('Desktoplogin', '128');ViewLogin('login', '25');">
-            <label for="Password">Password</label>
-            <input name="Password" id="Password" type="password" title="Enter your password here." value="" style="margin-bottom:3px;" onfocus="ViewLogin('Desktoplogin', '128');ViewLogin('login', '25');"><br>
-			<div id="RemindButton">
-			<a href="http://www.payworks.ca/Members/GetID.asp"><img id="rmdImg" src="http://www.payworks.ca/images/buttons/PasswordButn.gif" title="Click here to retrieve a lost or forgotten desktop client password." alt="Click here to retrieve a lost or forgotten desktop client password." width="67" height="28"></a>
-			</div>
-            <div id="DesktoploginButton">
-              <input value="Login" name="logbut" type="image" src="http://www.payworks.ca/images/buttons/DesktoploginButn.gif" title="Click here to Log in to our Desktop Client Service area now." alt="Click here to Log in to our Desktop Client Services area now." onclick="this.blur();">
-		   <input type="hidden" name="Mode" value="Login">
-            </div>
-			
           </div>
         </form>
       </div>
@@ -263,6 +216,7 @@ function validate_Desktoploginform() {
             <li><a href="http://www.payworks.ca/green-initiatives.asp">Green Perspective</a></li>
           </ul>
         </li>
+		<li><a href="http://www.payworks.ca/brandbook/index.htm">A Sign of Excellence</a></li>
         <li><a href="http://www.payworks.ca/smart/">Get Smart with Payworks</a></li>
         <li><a href="http://www.payworks.ca/payroll-careers.asp">Careers at Payworks</a></li>
       </ul>
@@ -335,9 +289,7 @@ function validate_Desktoploginform() {
     </li>
     <li><a class="qmparent">Events</a>
       <ul>
-        <li><a href="http://www.payworks.ca/payroll-events.asp?loc=bcfoodexpo&amp;item=#foodexpo">BC Foodservice Expo</a></li>
-		<li><a href="http://www.payworks.ca/payroll-events.asp?loc=mblocalfare&amp;item=#LocalFare">LocalFare Trade Show</a></li>
-		<li><a href="http://www.payworks.ca/payroll-events.asp?loc=torcfra&amp;item=#cfra">CFRA Show</a></li>
+        <li><a href="http://www.payworks.ca/payroll-events.asp?loc=cpaconf&amp;item=#cpa">CPA Conference &amp; Tradeshow</a></li>
       </ul>
     </li>
     <li><a href="http://www.payworks.ca/payroll-quote.asp" style="padding-right:10px;">Quick Quote</a></li>
@@ -425,7 +377,7 @@ function validate_Desktoploginform() {
 	<div id="footerlink3" class="footerlink"><a href="http://www.payworks.ca/help-support.asp" title="Customer Help &amp; Support.">Support</a>
 	</div>
 </div>
-<div id="copyright">Copyright ©2009 Payworks Inc.&nbsp;|&nbsp;850 Pembina Hwy. Winnipeg, Manitoba, R3M 2M7&nbsp;</div>
+<div id="copyright">Copyright ©2012 Payworks Inc.&nbsp;|&nbsp;850 Pembina Hwy. Winnipeg, Manitoba, R3M 2M7&nbsp;</div>
 </div>
 
 </div></body></html>
