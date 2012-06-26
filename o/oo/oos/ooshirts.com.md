@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ooshirts.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230235729id_/http%3A//www.ooshirts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ooshirts.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626233851id_/http%3A//www.ooshirts.com/privacy) for the most accurate reproduction.*
 
 # ooShirts Privacy Policy
 
-Effective as of August 21, 2011 
+Effective as of January 12, 2012 
 
 ## 1\. Introduction
 
-We take the privacy of our ooShirts customers very seriously. Please read this Privacy Policy to learn more about how ooShirts, LLC ("ooShirts," "we," our," or "us"), treats information, including personally identifiable information, in connection with the [http://ooshirts.com](http://www.ooshirts.com/) website (collectively the "ooShirts Service" or the "Service"). We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [privacy@ooshirts.com](mailto:privacy@ooshirts.com) or in writing at: 64 Shattuck Square, #285, Berkeley, California 94704.
+We take the privacy of our ooShirts customers very seriously. Please read this Privacy Policy to learn more about how ooShirts Inc. ("ooShirts," "we," our," or "us"), treats information, including personally identifiable information, in connection with the [http://ooshirts.com](http://www.ooshirts.com/) website (collectively the "ooShirts Service" or the "Service"). We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [privacy@ooshirts.com](mailto:privacy@ooshirts.com) or in writing at: 64 Shattuck Square, #285, Berkeley, California 94704.
 
  _Online Privacy Standards._
 
@@ -25,6 +25,10 @@ This policy does not cover the privacy practices of third parties that we do not
 **Information You Provide During Design Creation And Ordering**
 
 When you create a design and order goods using the Service, we require that you provide your name, phone number, email address, your website URL (if applicable), and appropriate shipping and billing information for your order. We do not collect, nor do we store any other personally identifiable information for any customer.
+
+**Information You Provide When Submitting A Rating Or Review**
+
+After placing your order with ooShirts, you will have the opportunity to rate and review your order at the http://www.ooshirts.com website. When reviewing your order, we will ask that you provide your first name, last name, and the city and state in which you live. You will also have the option of uploading a photo with your review.
 
 **Information We Do Not Collect From Any Users**
 
@@ -75,6 +79,10 @@ When place an order at [http://ooshirts.com](http://www.ooshirts.com/), we use t
  _Site Statistics._
 
 As noted above, we use information collected from our web log files to calculate and publish anonymous, non-personal, aggregate statistics that we believe our visitors are interested in viewing. For example, we may track and publish the total number of customers who have ordered a specific shirt color or style. We publish this data in aggregate form only, and do not publish any personally identifiable information in connection with this use.
+
+ _Ratings and Reviews._
+
+If you choose to rate or review your order at [http://www.ooshirts.com](http://www.ooshirts.com/), the information you provide during the rating and review process (e.g., your first name, last name, city, state, and any photo you upload) will be posted online alongside your rating or review. For an example of these ratings and reviews, please see <http://www.ooshirts.com/testimonials>. If you do not want your personally identifiable information to appear online in this context, please do not provide us with any such information during the rating and review process.
 
 **For Internal Reporting and Analysis**
 
