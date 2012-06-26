@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johngreedjewellery.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224522id_/http%3A//www.johngreedjewellery.com/en/uk/help/privacy-policy/page/securityandprivacy/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johngreedjewellery.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626070857id_/http%3A//www.johngreedjewellery.com/en/uk/help/privacy-policy/page/securityandprivacy/%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy at John Greed Jewellery
 
