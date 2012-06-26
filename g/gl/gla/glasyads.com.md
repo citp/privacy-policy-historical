@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glasyads.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103083336id_/http%3A//www.glasyads.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasyads.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626221803id_/http%3A//www.glasyads.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# GlasyAds is a Tool for free classified listing syndication | Posting a classified in it automatically reflects into top classified websites.
+# Glasyads Privacy's and Policies | Free Ads | Listing Syndication
 
 Glasyads.com respects your privacy policy and supports the protection of consumer privacy on the Internet and the principles of disclosure through fair information practices. Glasy ads reserves the right to change this policy by providing notification of material change on website. Glasyads.com utilizes safe, secure technology to protect your personally identifiable information. You may contact us with any questions regarding this policy at [support@glasyads.com](mailto:support@glasyads.com "support@glasyads.com") .   
   
