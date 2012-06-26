@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nlbuysell.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210033id_/http%3A//www.nlbuysell.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlbuysell.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626080811id_/http%3A//www.nlbuysell.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # NLBuySell.com
 
 At the Newfoundland Buy & Sell Online we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by the Newfoundland Buy & Sell Online or its subsidiaries.
 
-If you have any questions about this Policy, please feel free to contact us through our [website](https://web.archive.org/web/20111231210033id_/http%3A//www.nlbuysell.com/contactus.asp) or [email](mailto:privacy@nlbuysell.com) us.
+If you have any questions about this Policy, please feel free to contact us through our [website](https://web.archive.org/web/20120626080811id_/http%3A//www.nlbuysell.com/contactus.asp) or [email](mailto:privacy@nlbuysell.com) us.
 
   
 
@@ -28,7 +28,7 @@ The Newfoundland Buy & Sell Online only processes personal information for the p
 The Newfoundland Buy & Sell Online processes personal information on our servers in Canada. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our financial institution.
 
   
-
+| 
 
 ## Choices for personal information
 
@@ -55,7 +55,7 @@ We restrict access to personal information to the Newfoundland Buy & Sell Online
 The Newfoundland Buy & Sell Online processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
   
-
+| 
 
 ## Accessing and updating personal information
 
@@ -84,6 +84,3 @@ When we receive formal written complaints at this address, it is the Newfoundlan
 ## Changes to this policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Policy will be identified at the top of the page by its effective date.
-
-  
-
