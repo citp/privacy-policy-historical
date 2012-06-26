@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201035813id_/http%3A//www.beckett.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626135534id_/http%3A//www.beckett.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Beckett.com
 
@@ -114,4 +114,4 @@ Beckett Media LLC
 Dallas, Texas 75244  
 webmaster@beckett.com
 
-[Member Terms of Service Agreement](https://web.archive.org/tos/ "Member Terms of Service Agreement")
+[Member Terms of Service Agreement](http://www.beckett.com/tos "Member Terms of Service Agreement")
