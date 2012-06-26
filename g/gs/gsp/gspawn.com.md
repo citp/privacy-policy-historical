@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gspawn.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227085219id_/http%3A//www.gspawn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gspawn.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626125727id_/http%3A//www.gspawn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gold and Silver Pawn Shop home of History Channel's Pawn Stars
+# Privacy Policy | Gold and Silver Pawn Shop home of History Channel's Pawn Stars | Pawn Stars
 
 **PRIVACY POLICY**
 
-Gold and Silver Coin Shop, Inc. (“GSCS”, “we”, “our” or “us”) has created this Privacy Policy for www.gspawn.com (the “Website”) to demonstrate our firm commitment to protecting your information.  This Privacy Policy discloses the types of information we collect when you visit the Website, why we collect it and how it is used.  Please read this privacy policy carefully.  Please also read our [Terms of Use](http://www.gspawn.com/terms-of-use/), which governs your use of the Website.  By using the Website you consent to the terms of our current Privacy Policy and Terms of Use.  Please note that this Privacy Policy does not apply to any information that you provide to third parties and you should contact such third parties directly to determine their respective privacy policies.
+Gold and Silver Coin Shop, Inc. (“GSCS”, “we”, “our” or “us”) has created this Privacy Policy for www.gspawn.com (the “Website”) to demonstrate our firm commitment to protecting your information.  This Privacy Policy discloses the types of information we collect when you visit the Website, why we collect it and how it is used.  Please read this privacy policy carefully.  Please also read our [Terms of Use](http://gspawn.com/pawnstarsblog/terms/ "Terms"), which governs your use of the Website.  By using the Website you consent to the terms of our current Privacy Policy and Terms of Use.  Please note that this Privacy Policy does not apply to any information that you provide to third parties and you should contact such third parties directly to determine their respective privacy policies.
 
 **INFORMATION WE COLLECT FROM YOU**
 
@@ -81,14 +81,10 @@ By using this Website you accept our privacy practices, as disclosed in this Pri
 
 **PRIVACY QUESTIONS**
 
-If you have a privacy question about this Website, please send us an email at **[scott@gspawn.com](mailto:scott@gspawn.com)**[ or write to:](mailto:scott@gspawn.com)
-
-[
+If you have a privacy question about this Website, please send us an email at **[scott@gspawn.com](mailto:scott@gspawn.com)** or write to:
 
 Gold and Silver Coin Shop, Inc.  
 713 Las Vegas Boulevard South  
 Las Vegas, NV 89101-6755
 
 This Gold and Silver Coin Shop, Inc. Privacy Policy has an effective date of October 15, 2010.
-
-](mailto:scott@gspawn.com)
