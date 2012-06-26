@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206165035id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626095553id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
 
 # Privacy Statement | VerticalResponse
 
@@ -118,7 +118,7 @@ You will receive administrative emails such as an order confirmation that are re
 
 ### Correction/Updating Personal Information
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, delete, and update that user's personal data provided to us. This can be done by calling our toll-free telephone number at 1-866-6VERTICAL, by emailing our Customer Support at [support@verticalresponse.com](mailto:support@verticalresponse.com), or by sending us a letter to VerticalResponse, attn: account updates, 501 2nd St, Ste 700, San Francisco, CA 94107. You may also go to your account and MyLounge Page on our website. If you would like your account deactivated or deleted please state this in your communications and we will do this. We will respond to access requests within 30 days.
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, delete, and update that user's personal data provided to us. This can be done by calling our toll-free telephone number at 1-866-6VERTICAL, by emailing our Customer Support at [support@verticalresponse.com](mailto:support@verticalresponse.com), or by sending us a letter to VerticalResponse, attn: account updates, 50 Beale St, 10th Floor, San Francisco, CA 94105. You may also go to your account and MyLounge Page on our website. If you would like your account deactivated or deleted please state this in your communications and we will do this. We will respond to access requests within 30 days.
 
 ### Notification of Changes
 
