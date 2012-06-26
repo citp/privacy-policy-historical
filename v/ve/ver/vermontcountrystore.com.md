@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124111540id_/http%3A//www.vermontcountrystore.com/store/company/static/Customer-Service/Privacy-%26-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626200330id_/http%3A//www.vermontcountrystore.com/store/company/static/Customer-Service/Privacy-%26-Security) for the most accurate reproduction.*
 
 # Privacy-and-Security
 
 ## Introduction
 
-This website, http://www.vermontcountrystore.com, is owned and operated by The Vermont Country Store. This Privacy Policy pertains to information collected online via this website, and does not apply to information collected from other sources. The Vermont Country Store may be contacted by email at customerservice@vermontcountrystore.com, by phone at 802-776-5730, or by mail at:
+This website, http://www.vermontcountrystore.com, is owned and operated by The Vermont Country Store. This Privacy Policy pertains to information collected online via this website, and does not apply to information collected from other sources. The Vermont Country Store may be contacted by email at customerservice@vermontcountrystore.com, by phone at 800-547-7849, or by mail at:
 
 The Vermont Country Store 5650 Main Street Manchester Center, VT 05255
 
