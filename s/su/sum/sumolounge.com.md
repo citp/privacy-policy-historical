@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumolounge.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228061358id_/http%3A//www.sumolounge.com/privacy.php%3Fre%3Dna) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumolounge.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626192454id_/http%3A//www.sumolounge.com/privacy.php%3Fre%3Dna) for the most accurate reproduction.*
 
 # Sumo Lounge Bean Bag Store | Privacy Policy
 
