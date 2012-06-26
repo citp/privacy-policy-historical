@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the panoramastock.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227204109id_/http%3A//www.panoramastock.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panoramastock.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626191812id_/http%3A//www.panoramastock.com/About/Privacy.aspx) for the most accurate reproduction.*
 
-# webarchiveorg,Photo Stock,Creative Photos,China Stock,Stock Photography
+# webarchiveorg - Privacy Policy
 
 Panorama Media respects your right to privacy. This privacy policy tells you about our practices with regards to any personal information we collect online.
 
