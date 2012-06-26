@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalando.co.uk privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222044910id_/http%3A//www.zalando.co.uk/zalando-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalando.co.uk privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626075616id_/http%3A//www.zalando.co.uk/zalando-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZALANDO.CO.UK
 
@@ -61,6 +61,18 @@ For any competition we use the data to notify winners and advertise our offers. 
 **Third Parties and Links**
 
 We may pass your details to other companies in our group. We may also pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to help us to collect payments from you, to analyse data and to provide us with marketing or customer service assistance. We may exchange information with third parties for the purposes of fraud protection and credit risk reduction. We may transfer our databases containing your personal information if we sell our business or part of it. Other than as set out in this Privacy Policy, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law. The Site may contain advertising of third parties and links to other sites or frames of other sites. Please be aware that we are not responsible for the privacy practices or content of those third parties or other sites, nor for any third party to whom we transfer your data in accordance with our Privacy Policy. 
+
+**Use of Facebook Social Plugins**
+
+Our website uses social plugins (“plugins”) provided by the social network facebook.com, operated by Facebook Inc., 1601 S. California Avenue, Palo Alto, CA 94304, USA (“Facebook”). The plugins are identifiable by a Facebook logo or the notice “Facebook Social Plugin”. For a full list of all social plugins and their appearance please see [developers.facebook.com/plugins](http://developers.facebook.com/docs/plugins/). 
+
+When you visit a page of our website that contains a social plugin, your browser establishes a direct connection to Facebook servers. Facebook directly transfers the plugin content to your browser which embeds the latter into the website, enabling Facebook to receive information about your having accessed the respective page of our website. For this purpose, the internet address of the visited site (your IP address included) is transferred to a USA-based Facebook server where the data are stored. This occurs even if you do not have a Facebook account or are not logged into Facebook at the time. 
+
+If you are logged into Facebook, your visit can be assigned to your Facebook account. If you interact with the plugins, for example by clicking “Like”, or entering a comment, the corresponding information is transmitted from your browser directly to Facebook and stored by it. The information can also be published on Facebook, and shown to your Facebook friends. 
+
+If you are a Facebook member and do not want Facebook to connect the data concerning your visit to our website with your member data already stored by Facebook, please log off Facebook before entering our website. You can also block Facebook social Plugins by using add-ons for your browser, like the “Facebook Blocker”. 
+
+For information on the purpose and scope of data collection by Facebook and how it is processed and used, as well as your rights in this respect and settings options for protecting your privacy please visit [ Facebook’s privacy policy](http://www.facebook.com/about/privacy/). 
 
 #### 2\. Cookies
 
