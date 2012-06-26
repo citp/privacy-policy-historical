@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the sirsidynix.net.au privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125193132id_/http%3A//www.sirsidynix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirsidynix.net.au privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626021751id_/http%3A//www.sirsidynix.com/privacy) for the most accurate reproduction.*
 
-# Privacy | SirsiDynix
+# Privacy | SirsiDynix.com
 
-SirsiDynix: Privacy Policy
+### SIRSIDYNIX: PRIVACY POLICY
 
-Effective date of April 23, 2004
+**Effective date of April 23, 2004**
 
-This page was last updated June 15, 2010
+_This page was last updated June 15, 2010_
 
 Sirsi Corporation, dba SirsiDynix ("SirsiDynix") is committed to protecting your privacy. We recognize your need for protection of any personally identifiable information ("Personal Information") shared with us. SirsiDynix has developed the following Privacy Policy in order to inform you of the care that we place on the protection, management and use of your Personal Information. This Privacy Policy Notice covers the foundation principles of fair information: Awareness, Choice, Notice, Accuracy & Access, Security, Data Integrity, Enforcement, and Oversight.
 
 Personal Information includes information that identifies an individual or institution; for example, a person's name, institution name, mail address, telephone number, e-mail address, or other such information used for contacting or identifying the individual or institution.
 
-In order for SirsiDynix to provide the services or products that you order, Personal Information may be required to fulfill your request. The information you provide to SirsiDynix will be protected in all reasonable means from disclosure to outside parties. SirsiDynix appreciates your trust and provides this privacy policy regarding our practices for managing information. SirsiDynix also has a separate privacy statement that applies to certain personal data that SirsiDynix receives in the United States from the European Union and Switzerland, called the Safe Harbor Privacy Statement.
+In order for SirsiDynix to provide the services or products that you order, Personal Information may be required to fulfill your request. The information you provide to SirsiDynix will be protected in all reasonable means from disclosure to outside parties. SirsiDynix appreciates your trust and provides this privacy policy regarding our practices for managing information. SirsiDynix also has a separate privacy statement that applies to certain personal data that SirsiDynix receives in the United States from the European Union and Switzerland, called the Safe Harbor Privacy Statement.
 
-####  DESCRIPTION OF THE ACTIVITIES WHEN PERSONAL INFORMATION IS RECEIVED FROM CLIENT.
+### DESCRIPTION OF THE ACTIVITIES WHEN PERSONAL INFORMATION IS RECEIVED FROM CLIENT.
 
 We will ask the individual or institution ("Client") when we need Personal Information. Under most circumstances when SirsiDynix requests Personal Information the Client is registering for conferences, surveys, ordering e-mail news or information, joining limited-access sites (such as forum or list servers), signing up for an event or training, or when purchasing and/or registering SirsiDynix products. Personal Information collected by SirsiDynix is often limited to e-mail address, language, country or location, but may include other information when needed to provide a service or product Client requested.
 
@@ -42,7 +42,7 @@ Personal Information will not be knowingly collected by SirsiDynix from children
 
 What information is collected without Client Registration:
 
-The domain name (e.g. [www.SirsiDynix.com](http://www.sirsidynix.com/ "www.SirsiDynix.com")) of the visitor.
+The domain name (e.g. [www.SirsiDynix.com](http://www.sirsidynix.com/)) of the visitor.
 
 The IP address of the computer or Internet provider.
 
@@ -174,12 +174,12 @@ Opt-Out Features
 
 Your information can be reviewed and changed by contacting Client Care.
 
-You may discontinue receiving some of the communications from SirsiDynix, such as e-mail newsletters announcing new features, contests, and new content, by sending an e-mail to [webmaster@SirsiDynix.com](mailto:%20webmaster@SirsiDynix.com).
+You may discontinue receiving some of the communications from SirsiDynix, such as e-mail newsletters announcing new features, contests, and new content, by sending an e-mail to [webmaster@SirsiDynix.com](mailto:webmaster@SirsiDynix.com).
 
 You may contact SirsiDynix to opt out of some features and communications by postal mail to:  
 Legal Department  
 400 West Dynix Drive  
-Provo, Utah  84604
+Provo, Utah 84604
 
 An individual can decline to provide SirsiDynix with Personal Information. Please note, in some cases, this will limit your interaction with SirsiDynix.
 
@@ -211,52 +211,51 @@ Patrons have the ability to opt out of receiving communications from SirsiDynix 
 If Client has questions regarding this statement; Client should first contact SirsiDynix by e-mail at [legal@SirsiDynix.com](mailto:legal@SirsiDynix.com). Should you not receive acknowledgement of your inquiry or Client inquiry has not been satisfactorily addressed, Client should then contact the privacy administrator in the Legal Department.
 
 **Contact Information**  
-SirsiDynix welcomes Client comments regarding this privacy policy, please contact us by **e-mail at** :  
+SirsiDynix welcomes Client comments regarding this privacy policy, please contact us by e-mail **at:**  
 [legal@SirsiDynix.com](mailto:legal@SirsiDynix.com)  
-**or postal mail at:**  
+ **or postal mail at:**  
 SirsiDynix Legal Department  
 400 West Dynix Drive  
-Provo, Utah  84604
+Provo, Utah 84604
 
-##  SAFE HARBOR PRIVACY STATEMENT
+### SAFE HARBOR PRIVACY STATEMENT
 
-##  SIRSI CORPORATION DBA SIRSIDYNIX
+**SIRSI CORPORATION DBA SIRSIDYNIX**  
+This Statement describes how SirsiDynix collects and uses certain personally identifiable information that it receives in the United States from the European Union and Switzerland ("EU and Swiss Personal Data"). In particular, SirsiDynix recognizes that the European Union and Switzerland have established strict protections regarding the handling of EU and Swiss Personal Data, and SirsiDynix therefore has elected to adhere to the US-EU Safe Harbor Privacy Principles and US-Switzerland Safe Harbor Privacy Principles (together, the "Safe Harbors") with respect to such EU and Swiss Personal Data that it receives in the United States. For further background and information about the Safe Harbors, and to see SirsiDynix’s representation on the Safe Harbor List, please refer to the U.S. Department of Commerce's website at [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
-This Statement describes how SirsiDynix collects and uses certain personally identifiable information that it receives in the United States from the European Union and Switzerland ("EU and Swiss Personal Data"). In particular, SirsiDynix recognizes that the European Union and Switzerland have established strict protections regarding the handling of EU and Swiss Personal Data, and SirsiDynix therefore has elected to adhere to the US-EU Safe Harbor Privacy Principles and US-Switzerland Safe Harbor Privacy Principles (together, the "Safe Harbors") with respect to such EU and Swiss Personal Data that it receives in the United States. For further background and information about the Safe Harbors, and to see SirsiDynix’s representation on the Safe Harbor List, please refer to the U.S. Department of Commerce's website at [www.export.gov/safeharbor](http://www.export.gov/safeharbor "www.export.gov/safeharbor").
-
-###  Categories of Individual Data Subjects
+**Categories of Individual Data Subjects**
 
 In general, SirsiDynix may obtain EU and Swiss Personal Data in the United States about several different types of individuals, including (i) website visitors, and (ii) clients, suppliers, and business partners, and (iii) SirsiDynix's own employees. SirsiDynix's practices with respect to each of these types of individual data subjects are described below.
 
-####  Website Visitors
+**Website Visitors**
 
-SirsiDynix generally collects, uses, and discloses information about website visitors located in the EU or Switzerland in accordance with the Website Privacy Policy at [www.sirsidynix.com/privacy](http://www.sirsidynix.com/privacy/privacy-policy).
+SirsiDynix generally collects, uses, and discloses information about website visitors located in the EU or Switzerland in accordance with the Website Privacy Policy at [www.sirsidynix.com/privacy](http://www.sirsidynix.com/privacy).
 
-####  Clients, Suppliers, and Business Partners
+**Clients, Suppliers, and Business Partners**
 
 SirsiDynix may obtain various types of EU and Swiss Personal Data about patrons of our clients, suppliers, and business partners. Such data may include contact information (names, titles, addresses, phone and fax numbers, and e-mail addresses); information about products and services ordered or provided; financial and payment information; user ID, passwords, and information collected through Internet-based and e-commerce activities, and other transaction-related data.
 
 SirsiDynix may use these types of EU and Swiss Personal Data for business purposes, including to deliver or provide products or services; to trouble-shoot server problems, to establish or maintain client and business relationships; to provide access to Internet-based and e-commerce activities; to perform accounting functions; and to conduct other activities as necessary or appropriate in connection with the servicing and development of the business relationship.
 
-Patrons, employees and agents of our clients, business partners, and suppliers may contact us if any of their EU and Swiss Personal Data changes, or if they would like to access and correct EU and Swiss Personal Data that we maintain about them.  Such persons can also contact us by sending an e-mail to the [SirsiDynix Legal/Privacy Office](mailto:privacyofficer@taleo.com?subject=Taleo%20Privacy%20Office "opens your email program"), or by using the information at the end of this privacy statement. Also, to the extent that any of these individuals receive marketing communications from SirsiDynix, and wish to unsubscribe or otherwise stop receiving such communications, they can contact us at our [website: ](mailto:website:)[webmaster@sirsidynix.com](mailto:webmaster@sirsidynix.com). 
+Patrons, employees and agents of our clients, business partners, and suppliers may contact us if any of their EU and Swiss Personal Data changes, or if they would like to access and correct EU and Swiss Personal Data that we maintain about them. Such persons can also contact us by sending an e-mail to the SirsiDynix Legal/Privacy Office, or by using the information at the end of this privacy statement. Also, to the extent that any of these individuals receive marketing communications from SirsiDynix, and wish to unsubscribe or otherwise stop receiving such communications, they can contact us at our website: [webmaster@sirsidynix.com](mailto:webmaster@sirsidynix.com). 
 
-####  SirsiDynix Employees
+**SirsiDynix Employees**
 
 SirsiDynix employees located in the European Union should consult with their local human resources manager to obtain information about SirsiDynix's practices with respect their EU and Swiss Personal Data. Online job applicants to SirsiDynix should also consult any additional terms that apply when they submit their applications and/or resumes.
 
-###  Other Necessary Disclosures
+**Other Necessary Disclosures**
 
 SirsiDynix may disclose EU and Swiss Personal Data to business partners and subcontractors as necessary in connection with the performance of requested services or solutions, or as otherwise appropriate in connection with a legitimate business need. SirsiDynix may also disclose EU and Swiss Personal Data as necessary in connection with the servicing the software and hardware of the business. In these situations, SirsiDynix will require the recipient of the data to protect the data in accordance with the relevant principles in the Safe Harbors, or otherwise take steps to ensure that the EU and Swiss Personal Data is appropriately protected. SirsiDynix may also disclose EU and Swiss Personal Data where required or permitted by law, or where SirsiDynix believes that such disclosures are appropriate in connection with a law enforcement request.
 
-####  Data Security and Integrity
+**Data Security and Integrity**
 
 SirsiDynix has global hosting centers that store and process EU and Swiss Personal Data in locations in the United States, including Utah. SirsiDynix takes reasonable precautions to protect EU and Swiss Personal Data in these centers and in other locations in the United States from loss, misuse and unauthorized access, disclosure, alteration, and destruction. SirsiDynix also makes reasonable efforts to keep EU and Swiss Personal Data accurate, current, and complete, and reliable for its intended use.
 
-####  Dispute Resolution
+**Dispute Resolution**
 
-SirsiDynix participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce.  As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url "blocked::http://watchdog.truste.com/pvr.php?page=complaint&url")=fax at415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url "blocked::http://watchdog.truste.com/pvr.php?page=complaint&url")=or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. 
+SirsiDynix participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at [http://watchdog.truste.com/pvr.php?page=complaint&url=fax](http://watchdog.truste.com/pvr.php?page=complaint&url=fax) at415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see [http://watchdog.truste.com/pvr.php?page=complaint&url=or](http://watchdog.truste.com/pvr.php?page=complaint&url=or) request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. 
 
-####  Questions
+**Questions**
 
 If you have any questions about this Safe Harbor Privacy Statement, or if you would like to request access to EU and Swiss Personal Data that we may maintain about you, please contact us as follows:
 
@@ -269,6 +268,6 @@ United States
 Toll-free: 800.288.8020  
 Phone: 1.801.223.5200  
 Fax: 1.801.223.5202  
-E-mail: [SirsiDynix Legal/Privacy Office](mailto:privacyofficer@taleo.com?subject=Taleo%20Privacy%20Office "opens your email program")
+E-mail: SirsiDynix Legal/Privacy Office
 
 Any questions regarding this Safe Harbor Privacy Statement should first be directed to the SirsiDynix contact above. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you may then contact the local data protection authorities in your EU member state or Switzerland for further information.
