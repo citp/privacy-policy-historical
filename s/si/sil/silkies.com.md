@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silkies.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123143620id_/http%3A//www.silkies.com/Privacy.asp%3FLGError%3D%2520%26PL%3DHP0002FT0010) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkies.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627213314id_/http%3A//www.silkies.com/Privacy.asp%3FLGError%3D%2520) for the most accurate reproduction.*
 
 # Silkies – Pantyhose, Shapewear, Plus Size, Tights, Toeless Hosiery, Intimates
 
