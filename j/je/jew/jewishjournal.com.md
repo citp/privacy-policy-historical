@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewishjournal.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229054438id_/http%3A//www.jewishjournal.com/newspaper/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishjournal.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628001117id_/http%3A//www.jewishjournal.com/newspaper/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jewish Journal
 
@@ -80,4 +80,4 @@ If you have a privacy question about our Site, please email: Jay Firestone at [w
 
 Advertisement
 
-[](http://www.jewishjournal.com/ads/www/delivery/ck.php?oaparams=2__bannerid=1021__zoneid=7__source=newspaper__cb=82a87b77d7__oadest=http%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fjewish-journal%2Fid468201468%3Fmt%3D8)
+[](http://www.jewishjournal.com/ads/www/delivery/ck.php?oaparams=2__bannerid=1117__zoneid=7__source=newspaper__cb=aa41fef3df__oadest=http%3A%2F%2Fwww.jewishjournal.com%2Fmobile)
