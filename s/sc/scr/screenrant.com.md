@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenrant.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215021633id_/http%3A//screenrant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenrant.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627203348id_/http%3A//screenrant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Screen Rant
 
@@ -16,11 +16,17 @@ The information we collect is used to improve the content of our Web page, used 
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. Our advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags.
 
-<http://www.adify.com/>  
+We are participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising ([Ad Choices](http://www.aboutads.info/choices/)).
+
+For further information, consult the privacy policies of:
+
+<http://www.indieclick.com/>  
 <http://www.google.com/adsense/>  
-<http://www.infolinks.com/>
+<http://viacommedianetworks.com/>  
+<http://www.tribalfusion.com/>  
+<http://www.techmedianetwork.com/>
 
 We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors’ browser type or other information that the visitor sends. If you wish to opt-out of cookie placement you can visit the following site:
 
