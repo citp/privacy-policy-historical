@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lonelyplanet.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231203731id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lonelyplanet.com privacy policy that was archived on 2012-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627053025id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -47,6 +47,8 @@
     // ]]>
 </script>
 <script type="text/javascript" src="http://www.lonelyplanet.com/global-navigation"></script>
+<script src="//d3c3cq33003psk.cloudfront.net/opentag-35209-74086.js" async="" defer=""></script>
+
         <link rel="stylesheet" href="http://static.lonelyplanet.com/static-ui/style/core.css" type="text/css" media="screen,projection">
         <link rel="stylesheet" href="http://static.lonelyplanet.com/static-ui/style/restofsite.css" type="text/css" media="screen,projection">
 		<link rel="stylesheet" href="http://static.lonelyplanet.com/static-ui/style/print.css" type="text/css" media="print">
@@ -80,10 +82,26 @@
         </div>
     </div>
 <![endif]-->
+
+<div class="cookie-compliance js-cookie-compliance">
+  <div class="page-container">
+    <div class="msg">
+      <a href="#" class="lp-btn-tmp close js-close">Close message</a>
+      <p>
+        <strong>Hi there. We use cookies to improve your experience on our website.</strong>
+        <a href="/legal/cookies">Find out more about how we use cookies.</a>
+      </p>
+      <p>You can update your settings by clicking the <a href="/legal/cookies">Cookie Policy</a> link which can be found anytime at the bottom of the page.</p>
+    </div>
+  </div>
+</div> 
+
+
+
 <div id="headerWrap">
   <a class="hideByDefault skip" href="#container">Skip global navigation to content</a>
   <div id="headerContainer">
-	    <div id="logo"> 
+    <div id="logo"> 
     	<a href="http://www.lonelyplanet.com" class="home"><img src="http://static.lonelyplanet.com/static-ui/images/lp-logo.gif" alt="Lonely Planet home"></a>
         <form id="search_form" action="http://www.lonelyplanet.com/searchResult" method="get" onsubmit="return validateForm(event,'Please enter a search term','search_form', '');">
             <p class="hidden">
@@ -105,27 +123,34 @@
 	</div>
             
 	        <div class="leaderboard">	        
-	           <div class="leaderboardInner">	 
-	                         
-	               <script type="text/javascript"> 
-                       // <![CDATA[
-                       if(typeof(ord)=="undefined"){var ord=Math.floor(Math.random()*10000000000)};
-                       if(typeof(tile)=="undefined"){var tile=1} else {tile++};
-                       if(typeof(dcopt)=="undefined"){var dcopt="dcopt=ist"} else {dcopt=""};
-                       if(typeof(adZone)=="undefined"){var adZone="rest-of-site"};
-                       if(typeof(adKeywords)=="undefined"){var adKeywords=""};
-                       if(typeof(segQS)=="undefined"){var segQS=""}; 
-                       var dblClickTargeting = [adZone, dcopt, adKeywords].join (';').replace(/;;+/, ';');
-                        document.write('<iframe src="http://ad.doubleclick.net/adi/2009.lonelyplanet/' + dblClickTargeting + segQS +
-                            'tile=' + tile + ';sz=728x90;ord=' + ord + 
-                            '?" height="90" frameborder="0" width="728" scrolling="no" allowtransparency="true" vspace="0" hspace="0" marginheight="0" marginwidth="0"><\/iframe>'); 
-                        // ]]> 
-                   </script><iframe src="http://ad.doubleclick.net/adi/2009.lonelyplanet/legal;dcopt=ist;ctt=world;tile=1;sz=728x90;ord=9266164946?" height="90" frameborder="0" width="728" scrolling="no" allowtransparency="true" vspace="0" hspace="0" marginheight="0" marginwidth="0"></iframe>
+	           <div class="leaderboardInner" id="ad_masthead">	 
+                   <script type="text/javascript" id="js-masthead">
+                   //<![CDATA[
                    
-                   <noscript>
-                       <div><a href="http://ad.doubleclick.net/jump/2009.lonelyplanet/rest-of-site;sz=728x90;ord=123456789?"> <img width="728" src="http://ad.doubleclick.net/ad/2009.lonelyplanet/rest-of-site;sz=728x90;ord=123456789?" height="90" alt="Advertising" /> </a></div>
-                   </noscript>  
-                                
+
+
+                     ord=Math.random()*10000000000000000;
+                     if(typeof(adZone)=="undefined"){var adZone="rest-of-site;"}else{adZone=(adZone.match(/\;$/) || adZone === "")? adZone : adZone+';'};
+                     if(typeof(adKeywords)=="undefined"){var adKeywords=""}else{adKeywords=(adKeywords.match(/\;$/) || adKeywords === "")? adKeywords : adKeywords+';'};
+                     if(typeof(segQS)=="undefined"){var segQS=""}else{segQS=(segQS.match(/\;$/) || segQS === "") ? segQS : segQS+';'};
+                     if(typeof(tile)=="undefined"){var tile=1} else {tile++};
+                   
+                     /* iFrame Method */
+                     var sNew = document.createElement("iframe");
+                     sNew.src = 'http://ad.doubleclick.net/adi/2009.lonelyplanet/' + adZone + adKeywords + segQS + 'tile=' + tile + ';sz=728x90;ord=' + ord + '?';
+                     sNew.scrolling = 'no';
+                     sNew.style.width = '728px';
+                     sNew.style.height = '90px';
+                     sNew.marginHeight="0";
+                     sNew.marginWidth="0";
+                     sNew.frameBorder="0";
+                     var lp_masthead = document.getElementById('ad_masthead');
+                     lp_masthead.appendChild(sNew);
+                   
+                   
+                   </script><iframe src="http://ad.doubleclick.net/adi/2009.lonelyplanet/legal;ctt=world;tile=1;sz=728x90;ord=1772878526065047?" scrolling="no" marginheight="0" marginwidth="0" frameborder="0" style="width: 728px; height: 90px;"></iframe>
+
+                   <noscript><a href="http://ad.doubleclick.net/jump/2009.lonelyplanet/destinations/Asia;ctt=asia;cnty=cambodia;tnm=overview;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/2009.lonelyplanet/destinations/Asia;ctt=asia;cnty=cambodia;tnm=overview;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
 	            </div>
 	        </div>
 
@@ -380,9 +405,7 @@
 
 <a name="cookies"></a>
 <h3>What about 'cookies'?</h3>                
-<p>A "cookie" is a small message given to your web browser by our web server. The browser stores the message in a text file, and the message is then sent back to the server each time the browser requests a page from the server. We use cookies on our website to tailor our web pages to your needs.  This may include recording what region of the world you are from so we don't make the mistake of requiring you to buy stuff with British Pounds when you live in Fiji for example!</p>
-<p>Cookies also allow us to analyse and improve the services offered by our website e.g. to provide you with the most user-friendly navigation experience.  We engage independent measurement, advertising and research companies who use cookies to help us gather information about visitors to our website.  We may collect your IP address (an IP address is a number that can uniquely identify a specific computer or other network device on the internet) and attach cookies to it for the purpose of improving our site and enhancing your use of it. IP addresses may be used to identify the location of users, the number of visits from different countries and also to block disruptive use. Rest assured, this information is not used to develop a personal profile of you. Lonely Planet strictly requires that these companies do not use this information for their own purposes.  We do not match cookies to your registration details (that is, if you are registered with us) and we do not use cookies to track your movements after leaving this website.</p>
-<p>Further information regarding the main cookies that we set on our site (e.g. what they are used for) - and ways to minimise the number of cookies you receive can be viewed at the <a href="http://www.lonelyplanet.com/legal/cookies">More about Cookies</a> page.  Note that while you can turn off cookies, doing this will restrict your use of our website.</p>
+<p>Please see our <a href="http://www.lonelyplanet.com/legal/cookies">Cookies Policy</a> for more information about cookies used on <a href="http://www.lonelyplanet.com">LonelyPlanet.com</a></p>
 <p><a href="#top">Back to top</a></p>
 
 <a name="security"></a>
@@ -489,33 +512,7 @@
         </div>
         
 <div id="sidebar">
-	<div class="rightLegal roundedContainer">
-		<h3>Targeted advertising update</h3>
-		<p>
-			As of January 2011, lonelyplanet.com will be using AudienceScience technology to deliver targeted advertising to our site visitors, a practice widely used across the internet called "behavioural targeting".
-		</p>
-		<p>
-			The system we are using is a type of "onsite behavioural targeting” which uses "cookies” to discover general information about which pages on our sites you visit. It also looks at IP addresses to add general information about the country, city or region in which you are located, along with your domain name (e.g. what internet service provider you use).
-		</p>
-		<p>
-			This information enables you to be grouped with other people of similar interests and places you in a "market segment”. We can then display advertisements onto our sites which we believe people in your market segment will find relevant.
-		</p>
-		<p>
-			We believe this makes the advertising more interesting and useful to you, and also helps us increase the value we get out of our websites and from our advertisers, and therefore ultimately gives us a greater ability to invest in great content for the benefit of all our site visitors.
-		</p>
-		<p> 
-			It is important to note that at no time will we or our service providers attempt to identify you individually, and at no time do we know who you are or what pages you individually have been looking at – we simply aggregate the relevant information to create the market segments of groups of people.
-		</p>
-		<p>
-			Also, this "onsite behavioural targeting” functionality is different from other forms of behavioural targeting in that we will only look at your journey across lonelyplanet.com and other BBC Worldwide-owned websites and we do not use or share data with or from non-BBC Worldwide sites.
-		</p>
-		<p>
-			Further information about cookies, the technology solution itself and the company that runs the technology for us, AudienceScience, is available in our <a href="http://www.lonelyplanet.com/legal/cookies">Privacy and Cookies Policy</a>.
-		</p>
-		<p>
-			If at any time you do not want your site visit looked at by us in this way, you can turn the technology off and "opt out” by following the instructions in AudienceScience’s privacy policy available at <a rel="external" href="http://audiencescience.com/privacy.asp">http://audiencescience.com/privacy.asp</a>.
-		</p>
-	</div>
+	
 
   <div class="lpComponent clearfix">
     <h2 class="related">Related links</h2>
@@ -541,7 +538,7 @@
 			'ctt=world;tnm=;' + segQS + 'tile=' + tile + ';sz=300x250,300x500,300x600;ord=' + ord + 
 			'?" type="text/javascript" ><\/script>'); 
 		// ]]> 
-	</script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/legal;ctt=world;tnm=;tile=2;sz=300x250,300x500,300x600;ord=9266164946?" type="text/javascript"></script>
+	</script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/legal;dcopt=ist;ctt=world;tnm=;tile=2;sz=300x250,300x500,300x600;ord=1772878526065047?" type="text/javascript"></script>
 	<noscript> 
 		<div> 
 			<a href="http://ad.doubleclick.net/jump/2009.lonelyplanet/rest-of-site;dcopt=ist;ctt=world;tnm=;sz=300x250,300x500,300x600;ord=123456789?">
@@ -631,6 +628,7 @@
 	        <li><a href="http://www.lonelyplanet.com/about/">About us</a></li>
 	        <li><a href="http://www.lonelyplanet.com/jobs/">Work for us</a></li>
 	        <li><a href="http://www.lonelyplanet.com/contact/">Contact us</a></li>
+	        <li><a href="http://www.lonelyplanet.com/legal/cookies">Cookies policy</a></li>
 	        <li><a href="http://www.lonelyplanet.com/press-trade-advertising/" rel="nofollow">Press, trade &amp; advertising</a></li>
 	        <li><a href="http://www.lonelyplanet.com/legal/website-terms">Website terms</a></li>
 	        <li><a href="http://www.lonelyplanet.com/legal/privacy-policy">Privacy policy</a></li>
@@ -660,8 +658,8 @@
 	        // ]]>
 	    </script>
     	<div>
-	        <a href="http://www.lonelyplanet.com"><img src="http://static.lonelyplanet.com/static-ui/images/lp-logo-footer.gif" alt="Lonely Planet logo"></a>
-	        <p>© 2011 Lonely Planet. All rights reserved. No part of this site may be reproduced without our written permission.</p>
+	        <a href="http://www.lonelyplanet.com"><img src="http://static.lonelyplanet.com/static-ui/images/lp-logo-footer.gif" alt="Lonely Planet logo"></a> 
+	        <p>© 2012 Lonely Planet. All rights reserved. No part of this site may be reproduced without our written permission.</p>
 	        <p>This website is owned by BBC Worldwide, which is a commercial company owned by the BBC.</p>
 	    </div>
 	</div>
@@ -681,7 +679,7 @@
                         dcopt + adKeywords + segQS + 'tile=' + tile + ';sz=1x1;ord=' + ord + 
                           '?" type="text/javascript" ><\/script>'); 
         // ]]> 
-    </script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/legal;ctt=world;tile=3;sz=1x1;ord=9266164946?" type="text/javascript"></script>
+    </script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/legal;ctt=world;tile=3;sz=1x1;ord=1772878526065047?" type="text/javascript"></script>
 </div>
 <div class="nielsenTracking">
     <script type="text/javascript">
@@ -709,7 +707,7 @@
     </noscript>
 </div>
 
-
+<script type="text/javascript" src="http://static.lonelyplanet.com/static-ui/js/cookie-compliance/banner.js"></script>     
      
 </div>
 <div class="hidden">
