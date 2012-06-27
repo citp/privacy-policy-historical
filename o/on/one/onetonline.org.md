@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetonline.org privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213150500id_/http%3A//www.onetonline.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetonline.org privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627142753id_/http%3A//www.onetonline.org/help/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
@@ -38,4 +38,4 @@ We limit our use of cookies to "session cookies" — types of cookies that are t
 
 For security purposes and to ensure that this service remains available to all users, our Web site also employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the [Computer Fraud and Abuse Act of 1986](http://www.usdoj.gov/criminal/cybercrime/1030_new.html "http://www.usdoj.gov/criminal/cybercrime/1030_new.html") [](https://web.archive.org/help/exit?u=http%3A//www.usdoj.gov/criminal/cybercrime/1030_new.html&t=Computer%20Fraud%20and%20Abuse%20Act%20of%201986 "external site") and the [National Information Infrastructure Protection Act of 1996](http://www.usdoj.gov/criminal/cybercrime/s982.htm "http://www.usdoj.gov/criminal/cybercrime/s982.htm") [](https://web.archive.org/help/exit?u=http%3A//www.usdoj.gov/criminal/cybercrime/s982.htm&t=National%20Information%20Infrastructure%20Protection%20Act%20of%201996 "external site").
+Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the [Computer Fraud and Abuse Act of 1986](http://www.justice.gov/criminal/cybercrime/docs/ccmanual.pdf "http://www.justice.gov/criminal/cybercrime/docs/ccmanual.pdf") [](https://web.archive.org/help/exit?u=http%3A//www.justice.gov/criminal/cybercrime/docs/ccmanual.pdf&t=Computer%20Fraud%20and%20Abuse%20Act%20of%201986 "external site") and the National Information Infrastructure Protection Act of 1996.
