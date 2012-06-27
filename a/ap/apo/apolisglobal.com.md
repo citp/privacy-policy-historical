@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apolisglobal.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217053510id_/http%3A//apolisglobal.com/service/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apolisglobal.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627063729id_/http%3A//www.apolisglobal.com/service/security-privacy) for the most accurate reproduction.*
 
-# Security & Privacy - Apolis
+# Security & Privacy | Apolis
 
 #### Online Ordering is Secure
 
