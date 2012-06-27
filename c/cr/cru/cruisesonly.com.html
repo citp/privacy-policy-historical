@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the cruisesonly.com privacy policy that was archived on 2011-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227205730id_/http%3A//www.cruisesonly.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cruisesonly.com privacy policy that was archived on 2012-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627033434id_/http%3A//www.cruisesonly.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head profile="http://www.w3.org/2005/10/profile">
+
+
 
 
 
@@ -58,22 +60,30 @@
 	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
 
+
+
+
+
+
 	<script type="text/javascript">
 		var pageTracker = _gat._getTracker("UA-30167-2");
 		pageTracker._trackPageview();
 	</script>
+
+
+
 	<script language="JavaScript">
    
     function CallUrchin(event_name)
     {
     		pageTracker._trackPageview(event_name);
-			//alert(event_name);
+			/*alert(event_name);*/
 		return true;
     }
     function CallTracker(cat, cat2, value)
     {
     		pageTracker._trackEvent(cat, cat2, value);
-			//alert(event_name);
+			/*alert(event_name);*/
 		return true;
     }
     function CallTrackerServerError(cat, cat2, value)
@@ -86,38 +96,44 @@
 		pageTracker._trackEvent(cat, cat2, value);
 		return true;
     }
+</script>
+      
     
-    /**
-    Asynchronous tracking of page views
-    New recommended approach by GA. Imporves performance
     
-    **/
+    
+	<script language="JavaScript">   
     function CallUrchinAsync(event_name)
     {
-    	_gaq.push(['_trackPageview',event_name]);
+    	_gaq.push(['_trackPageview',event_name]);    	
 		return true;
     }
-    /**
-    Asynchronous tracking of events
-    New recommended approach by GA. Imporves performance
+    </script>
+
+
     
-    **/
+
+
+	<script language="JavaScript">   
     function CallTrackerAsync(cat, cat2, value)
     {
     		_gaq.push(['_trackEvent',cat, cat2, value]);			
 		return true;
     }
+	</script>
+
+
+	<script language="JavaScript">   
     function addGATrans(booknumber,bookprice){    
 		try {		  
 		  pageTracker._addTrans(
-		    booknumber,  									// Order ID
-		    "",                            					// Affiliation
-		    bookprice, 										// Total
-		    "",                                    		 // Tax
-		    "",                                          // Shipping
-		    "",                                			 // City
-		    "",                              			 // State
-		    ""                                       	 // Country
+		    booknumber,  									/* Order ID */
+		    "",                            					/* Affiliation */
+		    bookprice, 										/* Total */
+		    "",                                    		 	/* Tax */
+		    "",                                          	/* Shipping */
+		    "",                                			 	/* City */
+		    "",                              			 	/* State */
+		    ""                                       	 	/* Country */
 		  );		  
 		
 		  pageTracker._trackTrans();
@@ -125,10 +141,34 @@
 		}
     
  	/* http://code.google.com/apis/analytics/docs/tracking/gaTrackingCustomVariables.html */   
-    function setGACustomVar(slot,varName,varValue,scope) {
+     function setGACustomVar(slot,varName,varValue,scope) {
     	pageTracker._setCustomVar(slot,varName,varValue,scope); 
     }    
  </script>  
+
+
+
+
+
+
+
+	<!-- start coremetrics tracking here -->
+	<script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script>
+	
+	<script type="text/javascript">
+		var domainname = "www.cruisesonly.com";
+		
+		var coremetricsSubClientID = domainname.toUpperCase();
+		var coremetricsClientID = "50040000|" + coremetricsSubClientID;
+		var coremetricsDataCollectionDomain = "data.coremetrics.com";
+		var coremetricsCookieDomain = domainname;
+		
+		//alert("cmSetClientID(" + coremetricsClientID + ", true, " + coremetricsDataCollectionDomain + ", " + coremetricsCookieDomain + ");");
+		cmSetClientID(coremetricsClientID, true, coremetricsDataCollectionDomain, coremetricsCookieDomain);
+		cmSetupNormalization(null,"tab,i");
+	</script>
+	<!-- end coremetrics tracking here -->
+
 
 
 
@@ -175,8 +215,7 @@
 
 
 <script language="javascript" src="/lib/JavaScript/general/browserdetect_lite.js"></script>
-
-	
+<script language="JavaScript" src="/code/javaScript/JSPopup.js"></script>
 </head>
 
 
@@ -185,7 +224,7 @@
 
 
 <!--
-	server and timestamp info:blweb24:Tue Dec 27 15:57:30 EST 2011
+	server and timestamp info:blweb22:Tue Jun 26 23:34:34 EDT 2012
   -->
 	
 
@@ -205,9 +244,8 @@ var cruisePhone = cruPhone = "<span id='headerphonetext'>1-800-CRUISES</span><br
  var aboutIphonehead = "About International Customers";
  var aboutIphonebody = "All prices appearing on our website are in U.S. dollars. Prices are subject to change at any time and without prior notice.<br /><br />International customers who wish to pay for a cruise using an international credit card must contact our cruise specialists by calling one of the following phone numbers to complete their purchase:<br /><br /><table width='300'><tr><td>USA</td><td>1-800-278-4737</td></tr><tr><td>Canada</td><td>1-800-278-4737</td></tr><tr><td>UK</td><td>0808-234-5007</td></tr><tr><td>Australia</td><td>1-800-02-7415</td></tr></table><br /><br />If your country is not listed above, you may reach our cruise specialists by calling 1-617-587-6779. You may also contact us via <a href='mailto:customerservice@cruisesonly.com' class='smlink'>email</a>.<br /><br />CruisesOnly accepts most major international credit cards issued by banks worldwide. Your credit card company will normally convert your payment(s) from U.S. dollars to your local currency at the time of processing. International currency rates vary from day to day; CruisesOnly has no control over the final conversion rate. We will provide confirmation of your booking via email or FAX. Upon review of the details of your booking, you will be asked to acknowledge receipt and acceptance of the information provided in the confirmation of your booking.<br /><br />All passengers must present specific documentation before boarding their cruise ship and visa requirements vary from country to country. International customers are encouraged to confirm their proof of citizenship requirements with the appropriate consulate. Citizens of Visa Waiver Program Countries who present valid, machine-readable passports may enter the U.S. without a visa. Citizens of these countries who travel without a machine-readable passport will be required to have a U.S. visa and a passport to enter the U.S. (for cruises departing the U.S.) or a valid multiple-entry visa (for cruises that depart and return to the U.S.). Visa Waiver Program Countries include Andorra, Australia, Austria, Belgium, Brunei, Denmark, Finland, France, Germany, Iceland, Ireland, Italy, Japan, Liechtenstein, Luxembourg, Monaco, Netherlands, New Zealand, Norway, Portugal, San Marino, Singapore, Slovenia, Spain, Sweden, Switzerland, and the United Kingdom.<br /><br />Please note that international customers may be required to pre-pay gratuities when booking sailings aboard certain cruise lines. Your cruise specialist will communicate this requirement at the time of booking when applicable.<br /><br />Note: Azamara Club Cruises, Celebrity Cruises, Costa Cruises, Holland America Line, Oceania Cruises, Princess Cruises, and Royal Caribbean International now prohibit U.S. travel agencies (including CruisesOnly) from selling cruises to customers who do not have a residence in the U.S. or Canada.";
 </script> 
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <a name="TOP"></a>
-
 
 
 <script language="javascript" src="/code/javascript/JSPopup.js"></script>
@@ -224,158 +262,297 @@ var cruisePhone = cruPhone = "<span id='headerphonetext'>1-800-CRUISES</span><br
 		<td width="10" rowspan="3" valign="top" background="/images_unique/CruisesOnly/header/sitebgtile-right.gif"><img src="/images_unique/blank.gif" width="1" height="1"></td><td>
 	</td></tr>
 	<tr><td bgcolor="#FFFFFF">
+	
 
-
-
-
-
-<div class="hdr_capLinkBarShortCO"></div>
-<div class="hdr_container" id="hdr_container">
+<div class="hdr_capLinkBar"></div>
+<div style="clear:both"></div>
+<div class="hp_hdr_container" id="hp_hdr_container">		
 	<div class="hp_logo">
-		<a href="http://www.cruisesonly.com"><img src="/images_unique/CruisesOnly/header/cruisesonly.gif" width="225" height="78" border="0" alt="CruisesOnly Â– America's Largest Cruise Agency"></a>
-	</div>
-		<script type="text/javascript">
-	  	if (browser.isIE7) {
-	  	}
-	  	else
-	  	{
-	  	document.write("<div style='float:left;margin-top:48px;margin-left:8px;'><div class='googleplus1_text' style='color:ffffff;'>Google Plus One Us!</div><g:plusone></g:plusone></div>")
-	  	 	}
-	  </script><div style="float:left;margin-top:48px;margin-left:8px;"><div class="googleplus1_text" style="color:ffffff;">Google Plus One Us!</div><g:plusone></g:plusone></div>				
-	
-	
-	
-		<div id="phonenumbercontainer_narrow">
-			<div style="color:white;font-weight:bold;">
-	    		<a style="color:white;font-weight:bold;cursor:help;" onclick="CallTracker('Header/', 'InternationalPhone', 'About');po_Window.Show(event, aboutIphonehead, aboutIphonebody, 400);" class="hp_hdr_text">About International Customers &amp; Cruise Pricing</a>
-			</div>
-			
-				
-			<script type="text/javascript">document.write(cruPhone);</script><span id="headerphonetext">1-800-CRUISES</span><br><span class="hp_hdr_text" id="hp_phone_block">Call 24/7 365 Days A Year &nbsp;&nbsp;&nbsp;(1-800-278-4737)</span>
-					
-						
-			<div id="navigationsec" style="margin-bottom:5">	    
-				<a href="http://www.cruisesonly.com/cs/default.asp" class="whitelink">Customer Service</a> | 
-				<a href="http://www.cruisesonly.com/cs/default.asp" class="whitelink">Make A Payment</a> | 
-				<a href="http://www.cruisesonly.com/cruisesonly-sitemap.asp" class="whitelink">Site Map</a>
-			</div>
+			<a href="http://www.cruisesonly.com"><img src="/images_unique/CruisesOnly/header/cruisesonly.gif" width="225" height="78" border="0" alt="CruisesOnly Â– America's Largest Cruise Agency"></a>
 		</div>
-		<div id="clear"></div>		
-		<div class="hp_hdr_hotel_narrow">
-			<a href="http://www.rooms.com" target="new window"><img src="/images_unique/CruisesOnly/header/CO_Nav_Hotel_Hdr.gif" border="0"></a>
-		</div>				
-	
-</div>	
-<div id="clear"></div>
-
-	<div id="navigationWrapper_short">
-		<div id="navigation_short">
-			<ul id="nav">
-				<li class="topnav_mainlinks"><a href="http://www.cruisesonly.com/default.asp" class="link">Home</a></li>
+		
+      	
+			<script type="text/javascript">
+			  	if (browser.isIE7) {
+			  	}
+			  	else
+			  	{
+			  	document.write("<div style='float:left;margin-top:48px;margin-left:8px;'><div class='googleplus1_text' style='color:ffffff;'>Google Plus One Us!</div><g:plusone></g:plusone></div>")
+			  	}
+		 	</script><div style="float:left;margin-top:48px;margin-left:8px;"><div class="googleplus1_text" style="color:ffffff;">Google Plus One Us!</div><g:plusone></g:plusone></div>
+		 
+		
+		
+		
+			<div class="phonenumbercontainer">
+				<form action="http://www.cruisesonly.com/s/c/PostOfferCode.asp?referrer=default.asp" method="get" name="promoCodeForm">
 					
-				<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
-				<li class="topnav_mainlinks"><a href="http://www.cruisesonly.com/promotion/cruisesonly/deals/cruise-deals.asp" class="link"><span class="darr">↓</span> Deals</a>
-					<ul>
-						<li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/balcony-suite-sale/default.asp">Balcony &amp; Suite Deals</a></li>
-					    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/specials/cheapcruises.asp">Cheap Cruises</a></li>					    
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/homeland/cruises-close-to-home.asp" class="link">Cruise From A Port Near You</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/family/family-cruises.asp">Family Cruises</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/holiday/default.asp">Holiday Cruises</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/honeymoon/honeymoon-cruises.asp">Honeymoon Cruises</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/lastminutecruises/moresailings.asp?lmpgroupid=22" class="link">Last-Minute Cruise Deals</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp">Luxury Cruises</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/interline/default.asp">Military &amp; Interline Deals</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/newships/new-cruise-ships.asp">New Cruise Ships</a></li>					    
-						<li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/getaways/weekend-cruises.asp">Quick Getaways</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/singles/singles-cruises.asp">Singles Cruises</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/summercruise/default.asp">Summer Cruises</a></li>					    
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/deals/cruise-deals.asp" class="link">&gt;&gt;See All Cruise Deals</a></li>
-					</ul>
-				</li>
+						<div class="int_cust hp_hdr_text">  
+							
+               				
+								<a style="color:white;font-weight:bold;cursor:help;" onclick="CallTracker('Header/', 'InternationalPhone', 'About');po_Window.Show(event, aboutIphonehead, aboutIphonebody, 400);" class="hp_hdr_text">About International Customers &amp; Cruise Pricing</a>
+							
+						</div>			
+						<div style="margin:0px;" class="hp_hdr_text" id="hp_phone_block">
+							
+							
+								<script type="text/javascript">document.write(cruPhone);</script><span id="headerphonetext">1-800-CRUISES</span><br><span class="hp_hdr_text" id="hp_phone_block">Call 24/7 365 Days A Year &nbsp;&nbsp;&nbsp;(1-800-278-4737)</span>
+							
+						</div>
+						<div id="navigationsec">
+							
+               				    
+								<a href="http://www.cruisesonly.com/cs/default.asp" class="whitelink">Customer Service</a> | 
+								<a href="http://www.cruisesonly.com/cs/default.asp" class="whitelink">Make A Payment</a> | 
+								<a href="http://www.cruisesonly.com/cruisesonly-sitemap.asp" class="whitelink">Site Map</a>
+							
+						</div>
+						<div id="clear"></div>
 					
-				<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
-				<li class="topnav_mainlinks"><a href="http://www.cruisesonly.com/c/cruisemain.asp" class="link"><span class="darr">↓</span> Cruise Lines</a>
-					<ul>
-						    <li><a href="http://www.cruisesonly.com/promotion/azamara-cruises.do" class="link">Azamara Club Cruises</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/carnival-cruises.do" class="link">Carnival Cruise Lines</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/celebrity-cruises.do" class="link">Celebrity Cruises</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/costa-cruises.do" class="link">Costa Cruises</a></li>
-						    <li><a href="http://www.crystalcruise.com" class="link">Crystal Cruises</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=cunard_cruises.asp" class="link">Cunard Cruises</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/disney-cruises.do" class="link">Disney Cruise Line</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/holland-america-cruises.do" class="link">Holland America Line</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/msc-cruises.do" class="link">MSC Cruises</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/norwegian-cruises.do" class="link">Norwegian Cruise Line</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=oceania_cruises.asp" class="link">Oceania Cruises</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=paul_gauguin_cruises.asp" class="link">Paul Gauguin Cruises</a></li>						    
-						    <li><a href="http://www.cruisesonly.com/promotion/princess-cruises.do" class="link">Princess Cruises</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=regent_cruises.asp" class="link">Regent Seven Seas Cruises</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/cruisesonly/rivercruising/viking-river-cruises.asp" class="link">River Cruising</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/royal-caribbean-cruises.do" class="link">Royal Caribbean</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=seabourn_cruises.asp" class="link">Seabourn Cruises</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=seadream_cruises.asp" class="link">SeaDream Yacht Club</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=silversea_cruises.asp" class="link">Silversea Cruises</a></li>
-						    
-						    
-						    <li><a href="http://www.cruisesonly.com/c/cruisemain.asp" class="link">&gt;&gt;All Cruise Lines Information</a></li>
-						</ul>
-
-				</li>
-					
-				<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
-				<li class="topnav_mainlinks"><a href="http://www.cruisesonly.com/promotion/cruisesonly/cruise-destinations.asp" class="link"><span class="darr">↓</span> Destinations</a>
-					<ul>
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/alaska/deals.asp" class="link">Alaska Cruises</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/bahamas/bahamas-cruises.asp" class="link">Bahamas Cruises</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/bermuda/bermuda-cruises.asp" class="link">Bermuda Cruises</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/newengland/newengland-cruises.asp" class="link">Canada/New England Cruises</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/caribbean/deals.asp" class="link">Caribbean Cruises</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/europe/deals.asp" class="link">Europe Cruises</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/mexico/mexico-cruises.asp" class="link">Mexico Cruises</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/cruise-destinations.asp" class="link">&gt;&gt; See All Destinations</a></li>
-					</ul>
-				</li>
-					
-				<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
-				<li class="topnav_mainlinks"><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/cruising.asp" class="link"><span class="darr">↓</span> About Cruising</a>
-					<ul>
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/cruising.asp" class="link">Cruising Overview</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/advice.asp" class="link">Cruising Advice</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/interest.asp" class="link">Cruise By Interest</a></li>
-						<li><a href="http://www.cruisesonly.com/cs/default.asp" class="link">Cruise FAQs</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/firsttime.asp" class="link">First-Time Cruisers</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/preparing.asp" class="link">Preparing For Your Cruise</a></li>
-						<li><a href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1689" target="_blank" class="link">Shore Excursions</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/difference.asp" class="link">The CruisesOnly Difference</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/buying.asp" class="link">Why Buy From Us</a></li>
-						<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/why.asp" class="link">Why Cruise</a></li>
-					</ul>
-				</li>
-
+				</form>
+			</div>
+			<div class="hp_hdr_hotel" style="margin-right:30px !important;">
 				
-				<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
-					<li class="topnav_mainlinks"><a href="http://www.cruisesonly.com/reviews/cruise-ship-reviews.asp?home=1" class="link"><span class="darr">↓</span> Reviews &amp; Ratings</a>
+               
+					<a href="http://www.rooms.com" target="new window"><img src="/images_unique/CruisesOnly/header/CO_Nav_Hotel_Hdr.gif" border="0"></a>
+				
+			</div>		
+		
+</div>
+<div id="navigationWrapper">	
+	    <div id="navigation">	    
+
+               				
+
+				<ul id="nav">
+
+					<li><a href="http://www.cruisesonly.com/default.asp" class="link" id="c_header_home">Home</a></li>
+
+					<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
+
+					<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/deals/cruise-deals.asp" class="link" id="c_header_deals"><span class="darr">↓</span> Deals</a>
+
 						<ul>
-						    <li><a href="http://www.cruisesonly.com/reviews/cruise-ship-reviews.asp?home=1" class="link">Cruise Ship Reviews &amp; Ratings</a></li>
-						    <li><a href="http://www.cruisesonly.com/promotion/cruisesonly/best-ships/best-cruise-ships.asp" class="link">Top 10 Best Cruise Ships</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/balcony-suite-cruises.do">Balcony &amp; Suite Deals</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/cheap-cruises.do">Cheap Cruises</a></li>					    
+
+						    <li><a href="http://www.cruisesonly.com/promotion/ports/regional-cruises.do" class="link">Cruise From A Port Near You</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/ports/cruises-from-new-york.do" class="link">Cruise From New York</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/family-cruises.do">Family Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/holiday-cruises.do">Holiday Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/romantic-cruises.do">Honeymoon Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/lastminutecruises/moresailings.asp?lmpgroupid=22" class="link">Last-Minute Cruise Deals</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp">Luxury Cruises</a></li>
+
+							<li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/interline/default.asp">Military &amp; Interline Deals</a></li>					    						    
+
+							<li><a href="http://www.cruisesonly.com/promotion/new-cruise-ships.do">New Cruise Ships</a></li>					    
+
+						    <li><a href="http://www.cruisesonly.com/promotion/weekend-cruises.do">Quick Getaways</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/singles-cruises.do">Single – Cruising Solo?</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/summer-cruises.do">Summer Cruises</a></li>					    
+
+						    <li><a href="http://www.cruisesonly.com/promotion/cruisesonly/deals/cruise-deals.asp" class="link">&gt;&gt;See All Cruise Deals</a></li>
+
 						</ul>
+
 					</li>
-				<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
-				<li class="topnav_mainlinks"><a href="http://www.cruisesonly.com/groupcruises/promos/whatisgroup.asp" class="link">Group Cruises</a></li>
 
-				<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
-				<li class="topnav_mainlinks"><a href="http://www.cruisesonly.com/promotion/CruisesOnly/rooms/default.asp" target="newwindow" class="link">Hotels</a></li>
+				
+
+					<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
+
+					<li><a href="http://www.cruisesonly.com/c/cruisemain.asp" class="link" id="c_header_cruiselines"><span class="darr">↓</span> Cruise Lines</a>
+
+						<ul>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/carnival-cruises.do" class="link">Carnival Cruise Lines</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/celebrity-cruises.do" class="link">Celebrity Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/costa-cruises.do" class="link">Costa Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/disney-cruises.do" class="link">Disney Cruise Line</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/holland-america-cruises.do" class="link">Holland America Line</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/msc-cruises.do" class="link">MSC Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/norwegian-cruises.do" class="link">Norwegian Cruise Line</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/princess-cruises.do" class="link">Princess Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/royal-caribbean-cruises.do" class="link">Royal Caribbean</a></li>
+
+						    
+
+						    
+
+						    <li><a href="http://www.cruisesonly.com/c/cruisemain.asp" class="link">&gt;&gt;All Cruise Lines Information</a></li>
+
+						</ul>
+
+					</li>
+
 					
-				<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
-				<li class="topnav_mainlinks"><a href="http://www.cruisesonly.com/promotion/CruisesOnly/carrental/default.asp" class="link lastlink">Car Rentals</a></li>
-			</ul>
-		</div>
-	</div>
-	
-<div id="clear"></div>
-  			  
 
- 
+				
+
+					<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
+
+					<li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp" class="link" id="c_header_cruiselines"><span class="darr">↓</span> Luxury Cruises</a>
+
+						<ul>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=ama-river-cruises.do" class="link">AmaWaterways River Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=avalon-river-cruises.do" class="link">Avalon Waterways River Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=azamara-cruises.do" class="link">Azamara Club Cruises</a></li>
+
+						    <li><a href="http://www.crystalcruise.com" class="link">Crystal Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=cunard-cruises.do" class="link">Cunard Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=oceania-cruises.do" class="link">Oceania Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=paul-gauguin-cruises.do" class="link">Paul Gauguin Cruises</a></li>						    
+
+						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=regent-cruises.do" class="link">Regent Seven Seas Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=seabourn-cruises.do" class="link">Seabourn Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=seadream-cruises.do" class="link">SeaDream Yacht Club</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=silversea-cruises.do" class="link">Silversea Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=uniworld-cruises.do" class="link">Uniworld River Cruising</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=viking-river-cruises.do" class="link">Viking River Cruises</a></li>
+
+						    
+
+						    
+
+						</ul>
+
+					</li>
+
+					
+
+					<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
+
+					<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/cruise-destinations.asp" class="link" id="c_header_destinations"><span class="darr">↓</span> Destinations</a>
+
+						<ul>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/alaska-cruises.do" class="link">Alaska Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/bahamas-cruises.do" class="link">Bahamas Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/bermuda-cruises.do" class="link">Bermuda Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/canada-new-england-cruises.do" class="link">Canada/New England Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/caribbean-cruises.do" class="link">Caribbean Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/europe-cruises.do" class="link">Europe Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/hawaii-cruises.do" class="link">Hawaii Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/mexico-cruises.do" class="link">Mexico Cruises</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/cruisesonly/cruise-destinations.asp" class="link">&gt;&gt;See All Destinations</a></li>
+
+						</ul>
+
+					</li>
+
+					
+
+					<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
+
+					<li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/cruising.asp" class="link" id="c_header_about"><span class="darr">↓</span> About Cruising</a>
+
+						<ul>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/cruising.asp" class="link">Cruising Overview</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/advice.asp" class="link">Cruising Advice</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/interest.asp" class="link">Cruise By Interest</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/cs/default.asp" class="link">Cruise FAQs</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/firsttime.asp" class="link">First-Time Cruisers</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/preparing.asp" class="link">Preparing For Your Cruise</a></li>
+
+						    <li><a href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1689" target="_blank" class="link">Shore Excursions</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/difference.asp" class="link">The CruisesOnly Difference</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/buying.asp" class="link">Why Buy From Us</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/why.asp" class="link">Why Cruise</a></li>
+
+						</ul>
+
+					</li>
+
+					
+
+					<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
+
+					<li><a href="http://www.cruisesonly.com/reviews/cruise-ship-reviews.asp?home=1" class="link" id="c_header_reviews"><span class="darr">↓</span> Reviews &amp; Ratings</a>
+
+						<ul>
+
+						    <li><a href="http://www.cruisesonly.com/reviews/cruise-ship-reviews.asp?home=1" class="link">Cruise Ship Reviews &amp; Ratings</a></li>
+
+						    <li><a href="http://www.cruisesonly.com/promotion/cruisesonly/best-ships/best-cruise-ships.asp" class="link">Top 10 Best Cruise Ships</a></li>
+
+						</ul>
+
+					</li>
+
+					<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
+
+					<li class="topnav_mainlinks"><a href="http://www.cruisesonly.com/groupcruises/promos/whatisgroup.asp" class="link " id="c_header_group">Group Cruises</a></li>
+
+
+
+					<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
+
+					<li><a href="http://www.rooms.com" target="newwindow" class="link" id="c_header_hotels">Hotels</a></li>
+
+
+
+					<li id="navSeparator"><img src="/images_unique/CruisesOnly/header/nav_separator-2x13.gif" width="2" height="13" border="0"></li>
+
+					<li><a href="http://www.rooms.com/promotion/rooms/carrental/default.asp" target="newwindow" class="link lastlink" id="c_header_car">Car Rentals</a></li>
+
+				</ul>
+
+			</div>
+
+	
+
+	</div>
+
+	<div id="clear"></div>
+		
+
 <script language="javascript">
 (function startList() {
 
@@ -413,13 +590,13 @@ var ps_WWAZipBody =		"You may qualify for BIG SAVINGS based on your home state, 
 						"to qualify for everyone in your stateroom to be eligible for state savings. " +
 						"At pier check-in, show proof of residency - a driver's license, for example. " +
 						"Applicable states and rates change often, so be sure to ask our cruise " +
-						"experts for the latest deals offered to residents of your state." 
+						"experts for the latest deals offered to residents of your state."; 
 var ps_WWAPromoHeader = "What is a promotion code?";
 var ps_WWAPromoBody = "A promotion code provides us with the information we'll need to make sure that you receive special bonus offers and exclusive extras when you reserve " +
                         "qualifying cruises. To redeem a specific promotion code, please enter your code " +
                         "here. Cruises that qualify are flagged with a:<br /><br /><div align='center'><img src='/images_unique/cr/bonus_offer_j.gif'/></div><br /> All bonus " +
                         "offers will be added to your reservation at time of booking; limit one promotion " +
-                        "code per booking. Additional restrictions may apply."
+                        "code per booking. Additional restrictions may apply.";
 </script>
 
 <div id="msgWin" class="sectionheaderbg" style="overflow: auto;  position: absolute; display: none; top: 50px; left: 50px; width: 150px; text-align:left; z-index: 500">
@@ -436,7 +613,7 @@ var ps_WWAPromoBody = "A promotion code provides us with the information we'll n
 
 <iframe id="DivShim" src="/images_unique/b.gif" scrolling="no" frameborder="0" style="position:absolute; top:0px; left:0px; display:none;"></iframe>
 <script language="Javascript" src="/lib/Javascript/general/msgbox.js"></script>
-
+<center>
 
 
 
@@ -632,13 +809,12 @@ var ps_WWAPromoBody = "A promotion code provides us with the information we'll n
 
 
 
+</div></center>
+<div style="clear:both"></div>
 
-
-
-
-	<div class="footer_container_short">
-		<div id="bottomnav">
-
+	<div class="footer_container" style="height:auto!important;">
+		<div class="hp_bottomnav">
+			<div style="margin-left:70px;">
 
 			<div id="footer_image_container"><a href="http://www.cruisesonly.com/p/co/about/difference.asp#available" class="bottomnavlink"><img src="/images_unique/CruisesOnly/footer_icon_cs.gif" width="63" height="40" id="footergraphic" border="0"></a></div>
 			<div id="available_container"><a href="http://www.cruisesonly.com/p/co/about/difference.asp#available" class="bottomnavlink">Available 24/7</a></div>
@@ -650,6 +826,8 @@ var ps_WWAPromoBody = "A promotion code provides us with the information we'll n
 			<div id="expert_container"><a href="http://www.cruisesonly.com/p/co/about/difference.asp#expert" class="bottomnavlink">Expert Staff</a></div>
 			<div id="footer_image_container"><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/buying.asp" class="bottomnavlink"><img src="/images_unique/CruisesOnly/footer_icon_whybuy.gif" width="30" height="40" id="footergraphic" border="0"></a></div>
 			<div id="whybuy_container"><a href="http://www.cruisesonly.com/promotion/cruisesonly/about/buying.asp" class="bottomnavlink">Why Buy From Us?</a></div>
+	
+		</div>
 	
 		</div>	
 	</div>
@@ -663,74 +841,137 @@ var ps_WWAPromoBody = "A promotion code provides us with the information we'll n
 		<tr>
 			<td align="center" class="link">
 				
+					<div class="footerlinklist">
 				
-					<div class="footerlinklist_short">
-				
+
 							
 					<a href="http://www.cruisesonly.com/cs/default.asp"><img src="/images_unique/cs_v4.gif" alt="Cruise Customer Service" border="0"></a><br><br>
 				
+					
 					<a href="http://www.cruisesonly.com/c/cruisemain.asp" onclick="CallUrchin('/Footer')">Cruise Lines</a> | 
-					<a href="http://www.cruisesonly.com/promotion/azamara-cruises.do" onclick="CallUrchin('/Footer')">Azamara Club Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/carnival-cruises.do" onclick="CallUrchin('/Footer')">Carnival Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/celebrity-cruises.do" onclick="CallUrchin('/Footer')">Celebrity Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/costa-cruises.do" onclick="CallUrchin('/Footer')">Costa Cruises</a> | 
-					<a href="http://www.crystalcruise.com" onclick="CallUrchin('/Footer')">Crystal Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=cunard_cruises.asp" onclick="CallUrchin('/Footer')">Cunard Cruises</a> |  
-					<a href="http://www.cruisesonly.com/promotion/disney-cruises.do" onclick="CallUrchin('/Footer')">Disney Cruises</a><br>
-										
-					<a href="http://www.cruisesonly.com/promotion/holland-america-cruises.do" onclick="CallUrchin('/Footer')">Holland America Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/msc-cruises.do" onclick="CallUrchin('/Footer')">MSC Cruises</a> |
-					<a href="http://www.cruisesonly.com/promotion/norwegian-cruises.do" onclick="CallUrchin('/Footer')">Norwegian Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=oceania_cruises.asp" onclick="CallUrchin('/Footer')">Oceania Cruises</a> |					
-					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=paul_gauguin_cruises.asp" class="link">Paul Gauguin Cruises</a> |	
-					<a href="http://www.cruisesonly.com/promotion/princess-cruises.do" onclick="CallUrchin('/Footer')">Princess Cruises</a><br>
-					
-					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=regent_cruises.asp" onclick="CallUrchin('/Footer')">Regent Seven Seas Cruises</a> | 					
-					<a href="http://www.cruisesonly.com/promotion/cruisesonly/rivercruising/viking-river-cruises.asp" onclick="CallUrchin('/Footer')">River Cruising</a> | 					
-					<a href="http://www.cruisesonly.com/promotion/royal-caribbean-cruises.do" onclick="CallUrchin('/Footer')">Royal Caribbean Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=seabourn_cruises.asp" onclick="CallUrchin('/Footer')">Seabourn Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=seadream_cruises.asp" class="link">Seadream Yacht Club</a> |
-					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=silversea_cruises.asp" onclick="CallUrchin('/Footer')">Silversea Cruises</a><br>
-					
-					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/rivercruising/uniworld-river-cruises.asp" onclick="CallUrchin('/Footer')">Uniworld River Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/rivercruising/viking-river-cruises.asp" onclick="CallUrchin('/Footer')">Viking River Cruises</a> | 
-					<a href="http://www.cruisesonly.com/c/cruiseline.asp?lineid=64" onclick="CallUrchin('/Footer')">Windstar Cruises</a><br>
-				
-					<a href="http://www.cruisesonly.com/promotion/alaska-cruises.do" onclick="CallUrchin('/Footer')">Alaska Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/bahamas-cruises.do" onclick="CallUrchin('/Footer')">Bahamas Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/bermuda-cruises.do" onclick="CallUrchin('/Footer')">Bermuda Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/canada-new-england-cruises.do" onclick="CallUrchin('/Footer')">Canada / NE Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/caribbean-cruises.do" onclick="CallUrchin('/Footer')">Caribbean Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/europe-cruises.do" onclick="CallUrchin('/Footer')">Europe Cruises</a> |
-					<a href="http://www.cruisesonly.com/promotion/hawaii-cruises.do" onclick="CallUrchin('/Footer')">Hawaii Cruises</a><br> 
-										
-					<a href="http://www.cruisesonly.com/promotion/mexico-cruises.do" onclick="CallUrchin('/Footer')">Mexico Cruises</a> | 
-					<a href="http://www.cruisesonly.com/s/c/results.asp?places=T&amp;operator=ALL&amp;vessel_id=ALL&amp;Month=ALL&amp;days=ALL&amp;shoppingZipCode=+&amp;IncludeSeniorRates=false&amp;sort=7&amp;submit.x=18&amp;submit.y=13" onclick="CallUrchin('/Footer')">Panama Cruises</a> |
-					<a href="http://www.cruisesonly.com/promotion/balcony-suite-cruises.do" onclick="CallUrchin('/Footer')">Balcony &amp; Suite Deals</a> | 
-					<a href="http://www.cruisesonly.com/promotion/cruisesonly/deals/cruise-deals.asp" onclick="CallUrchin('/Footer')">Best Cruise Deals</a> | 
-					<a href="http://www.cruisesonly.com/promotion/cheap-cruises.do" onclick="CallUrchin('/Footer')">Cheap Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/cruisesonly/homeland/cruises-close-to-home.asp" onclick="CallUrchin('/Footer')">Cruise From a Port Near You</a> | 
-					<a href="http://www.cruisesonly.com/promotion/cruisesonly/cruise-destinations.asp" onclick="CallUrchin('/Footer')">Cruise Destinations</a><br>
-					
-					<a href="http://www.cruisesonly.com/promotion/family-cruises.do" onclick="CallUrchin('/Footer')">Family Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/cruisesonly/about/firsttime.asp" onclick="CallUrchin('/Footer')">First-Time Cruisers</a> |									 
-					<a href="http://www.cruisesonly.com/promotion/cruisesonly/about/interest.asp#gaycruise" onclick="CallUrchin('/Footer')">Gay and Lesbian Cruises</a> |					
-					<a href="http://www.cruisesonly.com/groupcruises/promos/whatisgroup.asp" onclick="CallUrchin('/Footer')">Group Cruises</a> | 					
-					<a href="http://www.cruisesonly.com/promotion/holiday-cruises.do" onclick="CallUrchin('/Footer')">Holiday Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/romantic-cruises.do" onclick="CallUrchin('/Footer')">Honeymoon Cruises</a><br>
-					
-					<a href="http://www.cruisesonly.com/promotion/lastminutecruises/lastminutecruises.asp" onclick="CallUrchin('/Footer')">Last Minute Cruises</a> |
-					<a href="http://www.cruisesonly.com/promotion/cruisesonly/luxury/default.asp" onclick="CallUrchin('/Footer')">Luxury Cruises</a> |					
-					<a href="http://www.cruisesonly.com/promotion/cruisesonly/interline/default.asp" onclick="CallUrchin('/Footer')">Military &amp; Interline Deals</a> | 
-					<a href="http://www.cruisesonly.com/promotion/cruisesonly/newships/new-cruise-ships.asp" onclick="CallUrchin('/Footer')">New Cruise Ships</a> | 
-					<a href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1689" target="_blank" onclick="CallUrchin('/Footer')">Shore Excursions</a> | 
-					<a href="http://www.cruisesonly.com/promotion/singles-cruises.do" onclick="CallUrchin('/Footer')">Single – Cruising Solo?</a><br>
-					
-					<a href="http://www.cruisesonly.com/promotion/summer-cruises.do" onclick="CallUrchin('/Footer')">Summer Cruises</a> | 
-					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/best-ships/best-cruise-ships.asp" onclick="CallUrchin('/Footer')">Top 10 Best Cruise Ships</a> | 
-					<a href="http://www.cruisesonly.com/promotion/weekend-cruises.do" onclick="CallUrchin('/Footer')">Weekend Cruise Getaways</a>
 
+					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=azamara-cruises.do" onclick="CallUrchin('/Footer')">Azamara Club Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=ama-river-cruises.do" onclick="CallUrchin('/Footer')">AmaWaterways River Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=avalon-river-cruises.do" onclick="CallUrchin('/Footer')">Avalon Waterways River Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/carnival-cruises.do" onclick="CallUrchin('/Footer')">Carnival Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/celebrity-cruises.do" onclick="CallUrchin('/Footer')">Celebrity Cruises</a><br>
+
+					
+
+					<a href="http://www.cruisesonly.com/promotion/costa-cruises.do" onclick="CallUrchin('/Footer')">Costa Cruises</a> | 
+
+					<a href="http://www.crystalcruise.com" onclick="CallUrchin('/Footer')">Crystal Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=cunard-cruises.do" onclick="CallUrchin('/Footer')">Cunard Cruises</a> |  
+
+					<a href="http://www.cruisesonly.com/promotion/disney-cruises.do" onclick="CallUrchin('/Footer')">Disney Cruises</a> |										
+
+					<a href="http://www.cruisesonly.com/promotion/holland-america-cruises.do" onclick="CallUrchin('/Footer')">Holland America Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/msc-cruises.do" onclick="CallUrchin('/Footer')">MSC Cruises</a> |
+
+					<a href="http://www.cruisesonly.com/promotion/norwegian-cruises.do" onclick="CallUrchin('/Footer')">Norwegian Cruises</a><br>
+
+					
+
+					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=oceania-cruises.do" onclick="CallUrchin('/Footer')">Oceania Cruises</a> |					
+
+					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=paul-gauguin-cruises.do">Paul Gauguin Cruises</a> |	
+
+					<a href="http://www.cruisesonly.com/promotion/princess-cruises.do" onclick="CallUrchin('/Footer')">Princess Cruises</a> |				
+
+					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=regent-cruises.do" onclick="CallUrchin('/Footer')">Regent Seven Seas Cruises</a> | 					
+
+					<a href="http://www.cruisesonly.com/promotion/royal-caribbean-cruises.do" onclick="CallUrchin('/Footer')">Royal Caribbean Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=seabourn-cruises.do" onclick="CallUrchin('/Footer')">Seabourn Cruises</a><br>
+
+					
+
+					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=seadream-cruises.do">SeaDream Yacht Club</a> |
+
+					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=silversea-cruises.do" onclick="CallUrchin('/Footer')">Silversea Cruises</a> |					
+
+					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=uniworld-cruises.do" onclick="CallUrchin('/Footer')">Uniworld River Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/luxury/default.asp?lodest=viking-river-cruises.do" onclick="CallUrchin('/Footer')">Viking River Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/c/cruiseline.asp?lineid=64" onclick="CallUrchin('/Footer')">Windstar Cruises</a><br>
+
+				
+
+					<a href="http://www.cruisesonly.com/promotion/alaska-cruises.do" onclick="CallUrchin('/Footer')">Alaska Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/bahamas-cruises.do" onclick="CallUrchin('/Footer')">Bahamas Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/bermuda-cruises.do" onclick="CallUrchin('/Footer')">Bermuda Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/canada-new-england-cruises.do" onclick="CallUrchin('/Footer')">Canada / NE Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/caribbean-cruises.do" onclick="CallUrchin('/Footer')">Caribbean Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/europe-cruises.do" onclick="CallUrchin('/Footer')">Europe Cruises</a> |
+
+					<a href="http://www.cruisesonly.com/promotion/hawaii-cruises.do" onclick="CallUrchin('/Footer')">Hawaii Cruises</a><br> 
+
+										
+
+					<a href="http://www.cruisesonly.com/promotion/mexico-cruises.do" onclick="CallUrchin('/Footer')">Mexico Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/s/c/results.asp?places=T&amp;operator=ALL&amp;vessel_id=ALL&amp;Month=ALL&amp;days=ALL&amp;shoppingZipCode=+&amp;IncludeSeniorRates=false&amp;sort=7&amp;submit.x=18&amp;submit.y=13" onclick="CallUrchin('/Footer')">Panama Cruises</a> |
+
+					<a href="http://www.cruisesonly.com/promotion/balcony-suite-cruises.do" onclick="CallUrchin('/Footer')">Balcony &amp; Suite Deals</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/cruisesonly/deals/cruise-deals.asp" onclick="CallUrchin('/Footer')">Best Cruise Deals</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/cheap-cruises.do" onclick="CallUrchin('/Footer')">Cheap Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/ports/regional-cruises.do" onclick="CallUrchin('/Footer')">Cruise From a Port Near You</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/ports/cruises-from-new-york.do" onclick="CallUrchin('/Footer')">Cruise From New York</a><br>
+
+					
+
+					<a href="http://www.cruisesonly.com/promotion/cruisesonly/cruise-destinations.asp" onclick="CallUrchin('/Footer')">Cruise Destinations</a> | 					
+
+					<a href="http://www.cruisesonly.com/promotion/family-cruises.do" onclick="CallUrchin('/Footer')">Family Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/cruisesonly/about/firsttime.asp" onclick="CallUrchin('/Footer')">First-Time Cruisers</a> |									 
+
+					<a href="http://www.cruisesonly.com/groupcruises/promos/whatisgroup.asp" onclick="CallUrchin('/Footer')">Group Cruises</a> | 					
+
+					<a href="http://www.cruisesonly.com/promotion/holiday-cruises.do" onclick="CallUrchin('/Footer')">Holiday Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/romantic-cruises.do" onclick="CallUrchin('/Footer')">Honeymoon Cruises</a> |
+
+					<a href="http://www.cruisesonly.com/promotion/lastminutecruises/lastminutecruises.asp" onclick="CallUrchin('/Footer')">Last Minute Cruises</a><br>
+
+					
+
+					<a href="http://www.cruisesonly.com/promotion/cruisesonly/luxury/default.asp" onclick="CallUrchin('/Footer')">Luxury Cruises</a> |					
+
+					<a href="http://www.cruisesonly.com/promotion/cruisesonly/interline/default.asp" onclick="CallUrchin('/Footer')">Military &amp; Interline Deals</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/new-cruise-ships.do" onclick="CallUrchin('/Footer')">New Cruise Ships</a> | 
+
+					<a href="http://www.shoreexcursionsgroup.com/v/affiliate/?id=1689" target="_blank" onclick="CallUrchin('/Footer')">Shore Excursions</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/singles-cruises.do" onclick="CallUrchin('/Footer')">Single – Cruising Solo?</a><br>
+
+					
+
+					<a href="http://www.cruisesonly.com/promotion/summer-cruises.do" onclick="CallUrchin('/Footer')">Summer Cruises</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/CruisesOnly/best-ships/best-cruise-ships.asp" onclick="CallUrchin('/Footer')">Top 10 Best Cruise Ships</a> | 
+
+					<a href="http://www.cruisesonly.com/promotion/weekend-cruises.do" onclick="CallUrchin('/Footer')">Weekend Cruise Getaways</a>
+					
 				</div>
+
 				<div class="footerbottxt">
 					<a href="http://www.cruisesonly.com/cs/default.asp">Customer Care</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.cruisesonly.com/contact/default.asp">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.cruisesonly.com/promotion/CruisesOnly/aboutus.asp">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.cruisesonly.com/privacy_policy.asp">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.cruisesonly.com/cruisesonly-sitemap.asp">Site Map</a>
 				</div>
@@ -748,7 +989,7 @@ var ps_WWAPromoBody = "A promotion code provides us with the information we'll n
 				As always, <a href="http://www.cruisesonly.com/p/co/about/difference.asp">your satisfaction is guaranteed</a> on every voyage.<br>
 				*Best Price Guarantee excludes Princess Cruises.
 					
-				<br><br>© 2011 CruisesOnly and Cruise Finder are registered
+				<br><br>© 2012 CruisesOnly and Cruise Finder are registered
 				trademarks, and SEASaver is a trademark, of NLG.<br>All rights reserved. <a href="http://www.cruisesonly.com/cs/sellerinfo.asp">Seller of Travel Info</a>
 		        </div>	       
 		    
@@ -761,7 +1002,7 @@ var ps_WWAPromoBody = "A promotion code provides us with the information we'll n
 	</tbody>
 </table>
 
-</div>
+
 
 
 <!-- Advertiser 'CruisesOnly.com',  Include user in segment 'Remarketing
@@ -808,9 +1049,7 @@ _marinTrack.trackPage();
 <img width="1" height="1" src="https://tracker.marinsm.com/tp?act=1&cid=7879jl5289&script=no" >
 </noscript>
 <!-- end Copyright Marin Software -->
-<!-- begin ValueClick Retargeting -->
-<img src="http://media.fastclick.net/w/tre?ad_id=25330;evt=18193;cat1=23076;cat2=23077;rand=123456789" width="1" height="1" border="0">
-<!-- end ValueClick Retargeting -->
+
 
 <div align="center">
 	
@@ -863,6 +1102,73 @@ _marinTrack.trackPage();
 	</tr>
 </tbody></table>
 </div>
+
+
+
+
+
+	<!-- start coremetrics tracking here -->
+	
+	<script type="text/javascript">	
+		var domainname = "www.cruisesonly.com";
+		var pathname = document.location.pathname;
+		
+		var tabStartIndex = pathname.indexOf(";jsessionid=");
+		if(tabStartIndex > 0){
+			pathname = pathname.substring(0, tabStartIndex);
+		}
+		
+		var coremetricsPageId = domainname + ":" + pathname;
+		if(pathname == "/sc.do"){
+			var tabName = "itin";
+			
+			var search = document.location.search;
+			var tabStartIndex = search.indexOf("tab=");
+			if(tabStartIndex > 0){
+				var tabEndIndex = search.indexOf("&", tabStartIndex);
+				tabName = search.substring(tabStartIndex + 4, tabEndIndex);
+			}
+			
+			coremetricsPageId = coremetricsPageId + ":" + tabName;
+		}
+	
+		var coremetricsCategoryId = domainname;
+		
+		//alert("cmCreatePageviewTag(" + coremetricsPageId + ", " + coremetricsCategoryId + ");");
+		if(pathname != "/invoicecontent.do"){
+			cmCreatePageviewTag(coremetricsPageId, coremetricsCategoryId);
+		}
+	</script>
+
+
+	<script type="text/javascript">
+		var pathname = document.location.pathname;
+		if(pathname == "/b/c/confirmation.do"){
+			var coremetricsOrderID = "";
+			var coremetricsSubTotal = "";
+			var coremetricsCustomerID = "";
+			var coremetricsCustomerCity = "";
+			var coremetricsCustomerState = "";
+			var coremetricsCustomerPostcode = "";
+			
+			//alert("cmCreateOrderTag(" + coremetricsOrderID + ", " + coremetricsSubTotal + ", 0, " + coremetricsCustomerID + ", " + coremetricsCustomerCity + ", " + coremetricsCustomerState + ", " + coremetricsCustomerPostcode + ");");
+			cmCreateOrderTag(coremetricsOrderID, coremetricsSubTotal, "0", coremetricsCustomerID, coremetricsCustomerCity, coremetricsCustomerState, coremetricsCustomerPostcode);
+			cmCreateRegistrationTag(coremetricsCustomerID, coremetricsCustomerID, coremetricsCustomerCity, coremetricsCustomerState, coremetricsCustomerPostcode, "US");
+			
+		}else if(pathname == "/invoicecontent.do"){
+			var coremetricsOrderID = 'null';
+			var coremetricsSubTotal = 'null';
+			var coremetricsCustomerID = "";
+
+			//alert("cmCreateOrderTag(" + coremetricsOrderID + ", " + coremetricsSubTotal + ", 0, " + coremetricsCustomerID + ");");			
+			cmCreateOrderTag(coremetricsOrderID, coremetricsSubTotal, "0", coremetricsCustomerID, "", "", "");
+			cmCreateRegistrationTag(coremetricsCustomerID, coremetricsCustomerID);
+		}
+	</script>
+
+	<!-- end coremetrics tracking here -->
+
+
 
 
 
