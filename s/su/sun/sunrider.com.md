@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunrider.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124123842id_/http%3A//www.sunrider.com/Eng/WebForm/Information/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunrider.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627235131id_/http%3A//www.sunrider.com/Eng/WebForm/Information/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sunrider - Privacy Policy
 
@@ -9,7 +9,7 @@ SUNRIDER PRIVACY POLICY
 
 Sunrider protects the privacy of all visitors to its corporate websites, including but not limited to sunrider.com, shop.sunrider.com, and business.sunrider.com (collectively referred to herein as the "Site"). Sunrider realizes that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. For these reasons, Sunrider has a Privacy Policy ("Policy") in place to protect your personal information. 
 
-You acknowledge and agree that by accessing or using the Site, you agree to be bound by all of the terms and conditions in this Policy and the Site's [Terms of Use](https://web.archive.org/web/20111124123842id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx), which are fully incorporated herein by this reference. 
+You acknowledge and agree that by accessing or using the Site, you agree to be bound by all of the terms and conditions in this Policy and the Site's [Terms of Use](https://web.archive.org/web/20120627235131id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx), which are fully incorporated herein by this reference. 
 
   1. _
 
@@ -61,6 +61,8 @@ Upon entering the Site, the Site places a Session Cookie for your web browser in
 
 If you choose, you may browse the Site without entering your ID number or any personally identifiable information and remain completely anonymous during your visit. Sunrider stores the Internet Protocol address, the time and date of entry, and the specific pages viewed by each visitor to the Site. Sunrider also stores the ID number if you log on with your ID number. This information is maintained for security purposes only, and will not be disclosed to third parties.
 
+  
+
   2. _
 
 YOUR CONSENT TO THIS POLICY AND ANY MODIFICATIONS
@@ -72,7 +74,7 @@ Consent
 
 _
 
-By signing up online as an IBO, ABO, or Retail Customer and ordering Sunrider® products, you consent to the collection and use of the above-referenced information by Sunrider. If you do not agree to the terms contained in this Policy and the [Terms of Use](https://web.archive.org/web/20111124123842id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx), please do not access or use the Site. 
+By signing up online as an IBO, ABO, or Retail Customer and ordering Sunrider® products, you consent to the collection and use of the above-referenced information by Sunrider. If you do not agree to the terms contained in this Policy and the [Terms of Use](https://web.archive.org/web/20120627235131id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx), please do not access or use the Site. 
 
     2. _
 
@@ -81,6 +83,8 @@ Modifications to Policy
 _
 
 Sunrider reserves the right to change this Policy at any time. Sunrider will post any changes to this Policy with their effective dates. If Sunrider makes material changes to this Policy, Sunrider may also communicate them by email or conventional mail. You acknowledge and agree that it is your responsibility to update Sunrider with your current contact information, review this Site and this Policy periodically, and to be aware of any modifications. You can update your information on the Change Profile page on the Site. Your continued use of the Site after any modifications will constitute your acknowledgment of the modified Policy and your agreement to be bound by it.
+
+  
 
   3. _
 
@@ -96,7 +100,7 @@ _
       * Confirm, process and ship your orders; 
       * Calculate earnings, bonuses, and qualifications;
       * Provide training and information on new products and services; 
-      * Ensure compliance with the Business Guide and the Site [Terms of Use](https://web.archive.org/web/20111124123842id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx); and
+      * Ensure compliance with the Business Guide and the Site [Terms of Use](https://web.archive.org/web/20120627235131id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx); and
       * Make the Site more useful and valuable for you and your Sunrider organization.Make the Site more useful and valuable for you and your Sunrider organization. 
 
 Unless permission is received from you, Sunrider will only provide your personally identifiable information to other companies or individuals as described in this Policy. Sunrider does not share your information with any third parties for their direct marketing purposes. 
@@ -129,10 +133,12 @@ Sunrider may disclose your personally identifiable information when necessary to
       * Comply with the request of a government agency or regulatory body;
       * Collect monies owed to Sunrider;
       * Investigate activities that Sunrider believes in good faith are unlawful;
-      * Enforce or apply our [Terms of Use](https://web.archive.org/web/20111124123842id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx); or 
+      * Enforce or apply our [Terms of Use](https://web.archive.org/web/20120627235131id_/http%3A//www.sunrider.com/Eng/WebForm/Information/TermsConditions.aspx); or 
       * Protect the rights, property, and safety of third parties and Sunrider.
 
 Sunrider may also disclose your personally identifiable information when permitted by you. 
+
+  
 
   4. _
 
@@ -154,6 +160,8 @@ If you request deletion of your personally identifiable information, Sunrider ma
 _
 
 If you request deletion of your personally identifiable information, Sunrider may have to keep your information on file for a certain period of time for business and legal reasons. Further, it may be impossible for Sunrider to completely delete your personally identifiable information without retaining some residual data. 
+
+  
 
   5. _
 
@@ -192,6 +200,8 @@ _
 
 You must promptly notify Sunrider if you suspect that your credit card number, ID number, user name, and/or password has been lost, stolen, or used without your permission. After receiving your notification, Sunrider will remove that credit card number, ID number, user name, and/or password from your account and update its records accordingly.
 
+  
+
   6. _
 
 CHILDREN’S PRIVACY PROTECTION 
@@ -199,6 +209,8 @@ CHILDREN’S PRIVACY PROTECTION
 _
 
 The Site is a general audience site that is not specifically designed or targeted at children. You must be at least 18 years old to use this Site. Sunrider does not knowingly collect, use, or disclose personally identifiable information about visitors under 18 years of age. 
+
+  
 
   7. _
 
@@ -208,6 +220,8 @@ _
 
 The original text of this Policy is in English and any interpretation of it will be based on the original English text. In the event of a conflict between different translations of this Policy or any documents or notices related thereto, the original English version will prevail. 
 
+  
+
   8. _
 
 QUESTIONS OR COMMENTS
@@ -216,9 +230,10 @@ _
 
 If you have any questions or comments about sunrider.com, any other Sunrider website, or this Privacy Policy, please contact Sunrider via email at [info@sunrider.com](mailto:info@sunrider.com). 
 
+  
 
 Updated and effective January 1, 2009.
 
-© 2011 The Sunrider Corporation dba Sunrider International. All rights reserved. 
+© 2012 The Sunrider Corporation dba Sunrider International. All rights reserved. 
 
 | 
