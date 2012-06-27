@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryland.com privacy policy that was archived on 2011-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110719153010id_/http%3A//www.ryland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryland.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627044934id_/http%3A//www.ryland.com/privacy) for the most accurate reproduction.*
 
 # 
 
