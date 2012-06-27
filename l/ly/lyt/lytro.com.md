@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lytro.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225030923id_/http%3A//www.lytro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lytro.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627031309id_/http%3A//www.lytro.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Lytro
 
@@ -117,7 +117,7 @@ Our website may contain links to or integrations with other sites such as social
 
 Contacting Us
 
-If you have any questions or concerns about this privacy policy, please contact us at [legal@lytro.com](mailto:legal@lytro.com) or by writing to Privacy Officer, c/o Lytro, Inc., 200 W. Evelyn Avenue, Suite 120, Mountain View, CA 94041.
+If you have any questions or concerns about this privacy policy, please contact us at [legal@lytro.com](mailto:legal@lytro.com) or by writing to Privacy Officer, c/o Lytro, Inc., 1300 Terra Bella Avenue, Mountain View, CA 94043-1820.
 
 © Lytro, Inc. Lytro and the Lytro logo are trademarks of Lytro, Inc.
 
