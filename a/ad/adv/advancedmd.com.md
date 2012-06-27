@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advancedmd.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205065647id_/http%3A//www.advancedmd.com/company/terms-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedmd.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627114651id_/http%3A//www.advancedmd.com/company/terms-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,6 +15,3 @@ AdvancedMD is currently using and has contracted with Omniture, a third party, t
 Subject to the limitation set forth in the following sentence, the Company shall permit the transfer of (a) non-public financial and health information from customers, (b) individually identifiable information or (c) any other information that alone, or with other sources, can be used to uniquely identify, contact, or locate an individual. Such transfer shall be permitted, solely to the extent that it is in connection with (i) a sale, merger, consolidation, acquisition, change of control or other business combination (regardless of form or structure), in which the Company or any of its subsidiaries or any material part of the business, properties or technologies of the Company or any of its subsidiaries, or (ii) an acquisition (direct or indirect) by a third person of any amount of the shares of Company capital stock or any capital stock of its subsidiaries (whether or not outstanding). 
 
 AdvancedMD Software, Inc. reserves the right to change this policy at any time without prior notice. Please check this page periodically for policy updates. This policy does not govern websites of other parties to which AdvancedMD Software may provide links. We do not control and are not responsible for the privacy practices of or the data available on the websites of third parties. 
-
-  
-
