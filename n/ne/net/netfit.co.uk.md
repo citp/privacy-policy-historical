@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netfit.co.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125185747id_/http%3A//www.netfit.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netfit.co.uk privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627053052id_/http%3A//www.netfit.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -24,11 +24,11 @@ We also request other information including your first and last name, phone numb
 
 ## How we use the information we collect
 
-We use your personal information : 
+We use your personal information :
 
-  * to answer your queries or complaints; 
-  * to deliver our membership services, for example online tools, forums, message boards and member's area; 
-  * for general statistics and research; 
+  * to answer your queries or complaints;
+  * to deliver our membership services, for example online tools, forums, message boards and member's area;
+  * for general statistics and research;
   * as may be required by law or in connection with legal proceedings (including where we intend to take legal proceedings), or as may be necessary to establish, exercise or defend our legal rights  
  
 
@@ -78,5 +78,5 @@ You can disable cookies but if you do, you may not be able to use certain featur
 
 ## Your rights
 
-You have the right to ask for a copy of all the information we hold about you (we will charge you a small fee for this) and to correct any inaccuracies. To obtain a copy of this information, please ring us on **01896 823940** or [contact us](https://web.archive.org/about/contact.htm). You will be able to amend your details on the website at any time by logging in to your member's area.  
+You have the right to ask for a copy of all the information we hold about you (we will charge you a small fee for this) and to correct any inaccuracies. To obtain a copy of this information [contact us](https://web.archive.org/about/contact.htm) directly. You will be able to amend your details on the website at any time by logging in to your member's area.  
  
