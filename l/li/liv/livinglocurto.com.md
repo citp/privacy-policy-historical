@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livinglocurto.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230203603id_/http%3A//www.livinglocurto.com/advertise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livinglocurto.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627150222id_/http%3A//www.livinglocurto.com/advertise/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Living Locurto - Free Printables, How To DIY Ideas, Crafts & Party Ideas.
 
