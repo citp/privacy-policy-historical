@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228213856id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627103115id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Spotlight - professional acting jobs and auditions since 1927
 
@@ -86,13 +86,19 @@ We will not sell, distribute or lease your personal information to third parties
 
 ### Cookies & IP Addresses
 
-A cookie is a piece of information that is stored on your computer's hard drive by your web browser.
+A cookie is a piece of information that is stored on your computer's hard drive by your web browser. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. Most web browsers allow control over these cookies through the browser settings.
 
-When you use this website for the first time a cookie will be stored on your hard drive. The next time you visit the website (using the same computer) our server will recognise the cookie, giving us information about your last visit. This will enable you to access the website immediately without first having to provide a password, and for us to tailor the website to suit your tastes, interests or business needs. If you do not want a cookie to be stored on your hard drive you should select the appropriate options on your web browser.
+If you are a Spotlight Member or subscriber some cookies are vital to your effective usage of our Internet services; we use these to identify members/subscribers, manage secure logins and authentication status, remember website preferences and also to ensure secure renewals and payments can be made.Therefore if you choose to disable these cookies you will not be able to use Spotlight Interactive.
 
-If you are a subscriber to Spotlight Interactive, cookies are vital to your usage of our Internet services. We use these to identify subscribers and remember their web preferences. If you choose to disable cookies you will not be able to use Spotlight Interactive.
+Spotlight also uses cookies (including third party cookies set by Google Analytics and Twitter) to track and analyse visits to our website; with the aim of constantly improving our website services, and ensuring that we are adequately supporting the growing number of visitors to our site.
 
 Cookies from third parties may also be used by Spotlight to help us understand how our visitors engage with the website and to determine the number of people who click on an advertisement and subsequently buy our services. To gather this information Spotlight uses Google Analytics and Google AdWords. For more information on how Google uses cookies for analytics and conversion tracking visit [Google's Advertising and Privacy information pages](http://www.google.co.uk/privacy_ads.html "Google's Advertising and Privacy information pages").
+
+Some website links for third party service providers are embedded on our site (for example, our event booking provider). Spotlight does not control the dissemination of cookies from such sites and you should check the relevant third party website for more information on their use of cookies.
+
+To see a comprehensive list of the cookies used on the Spotlight website, and their purpose, please [click here](https://web.archive.org/aboutus/privacy/CookiesTable.html "Spotlight Cookies Table").
+
+ **For more information about cookies, including how to remove and disable them, visit the following website** [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org")
 
 An IP address is a number which is automatically assigned to your computer whenever you access the internet. When you access the Spotlight site we will log your IP address. We generally only use IP addresses to analyse trends, administer our website, track general user movements and gather broad demographic information for aggregate use. However, we do link IP addresses to other information which could identify the user when assessing applications from new, re-joining and renewing members to ensure that they are provided with legal 'cooling off periods' where necessary. They will also be used to ascertain where members may be attempting to seek extended free periods on the Spotlight website by the misuse of our 'cooling off periods' or refund policy (see Terms & Conditions). The IP information gathered for this purpose will only be used to 'flag up' possible misuse to Spotlight staff members. The IP details would not be used for Marketing or any other purposes, or made available to third parties.
 
