@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the direct.gov.uk privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215125516id_/http%3A//www.direct.gov.uk/en/SiteInformation/DG_020456) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direct.gov.uk privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627154316id_/http%3A//www.direct.gov.uk/en/SiteInformation/DG_020456) for the most accurate reproduction.*
 
 # Your privacy - cookies, personal information and data protection when using Directgov : Directgov - Site information
+
+## Personal information and data protection when using Directgov
 
 Directgov collects some information from people visiting the website. Find out how Directgov uses and protects any information about you that you provide when you visit this website.
 
@@ -21,7 +23,7 @@ After Directgov replies to your feedback, a record of your message will be kept 
 Directgov uses small bits of data stored on your computer called 'cookies'. Find out what Directgov uses them for, and how to control their use.  
 
 
-  * [Your privacy - how cookies are used by Directgov](https://web.archive.org/en/SiteInformation/DG_196009)
+  * [How cookies are used by Directgov](https://web.archive.org/en/SiteInformation/Cookies/DG_WP201870)
 
 
 
@@ -125,18 +127,5 @@ If this privacy policy changes Directgov will update this page. You should visit
   * what personal information Directgov collects
   * how Directgov uses your personal information
   * when (if ever) Directgov shares your personal information with someone else
-
-
-
-###  Was this information useful?
-
-[ Your Privacy Opens new window](https://web.archive.org/en/SiteInformation/DG_020456)
-
-#### Why are we asking for this information?
-
-  * we want to hear what you think about the quality and usefulness of our pages
-  * your comments will help us improve our pages
-  * your comments will also help with the future development of Directgov
-  * telling us what you think will help make sure we give you the very best service
 
 
