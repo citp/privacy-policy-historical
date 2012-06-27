@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228061655id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628013110id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Archival photo storage supplies and products, archival boxes, acid free albums - Privacy Policy
 
-[ ](http://www.printfile.com/holiday-hours.aspx)  
-  
 ---  
 |  | 
 
@@ -40,6 +38,8 @@ Discount Codes and Gift Certificates do not apply to Blurb photo books.
 
 **Policy Changes:**  
 This policy is subject to change. If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our website.
+
+*Note: Print File, Inc sells the same or similar products as www.lightimpressionsdirect.com but are not affiliated in any way with Light Impressions or New Century Direct.
 
   
 Back to top
