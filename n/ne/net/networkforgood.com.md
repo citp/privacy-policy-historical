@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the networkforgood.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227081842id_/http%3A//www1.networkforgood.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkforgood.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627105351id_/http%3A//www1.networkforgood.org/privacy) for the most accurate reproduction.*
 
 # Our Privacy, Security & Disclosures Statement | Network for Good
 
-Since our inception in November 2001, the Network for Good giving system has processed over $485 million in donations to more than 60,000 charities thanks to the generosity of donors like you.  We understand your concerns about safety and security and want to assure you that we make every effort to safeguard your privacy when you make donations through our giving system.  Our mission is to help you support any charity, anywhere online - in a convenient and secure manner. 
+Since our inception in November 2001, the Network for Good giving system has processed nearly $700 million in donations to more than 60,000 charities thanks to the generosity of donors like you.  We understand your concerns about safety and security and want to assure you that we make every effort to safeguard your privacy when you make donations through our giving system.  Our mission is to help you support any charity, anywhere online - in a convenient and secure manner. 
 
 The information below spells out our privacy and security practices.  If you have any questions about this statement, please do not hesitate to [contact us](http://www.networkforgood.org/about/contact.aspx).
 
@@ -59,6 +59,11 @@ You can read our Charitable Solicitation Disclosure online [here](http://www1.ne
 Complying With the Legal System
 
 Though Network for Good makes every effort to preserve donor and customer privacy, we may need to disclose personal information when we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our organization.
+
+Complying with Donor Advised Fund Regulations
+
+Your contribution is made to Network for Good, a section 501(c)(3) nonprofit, donor advised fund, which will distribute your donation to the nonprofit organization that you recommended.  As required by the Internal Revenue Service (IRS), Network for Good has exclusive legal control over the donations to our donor-advised fund.  All donations are final and may not be refunded.  In the rare event that a charity you have recommended does not satisfy Network for Good's criteria for receiving donations (i.e., it has been classified by the IRS as a disqualified supporting organization, it cannot or does not accept donations, is not recognized by the IRS as a section 501(c)(3) public charity, or is not in good standing with federal and state regulators), Network for Good will select an alternate charity to receive your donation funds.  
+ 
 
 Changes to the Policy
 
