@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225212335id_/http%3A//www.globalgamingexpo.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627092441id_/http%3A//www.globalgamingexpo.com/en/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Gaming Expo
 
@@ -52,3 +52,6 @@ Reed Exhibitions
 US Privacy Administrator/Database Dept  
 383 Main Ave.  
 Norwalk, CT 06851
+
+  
+
