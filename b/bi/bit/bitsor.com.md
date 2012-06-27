@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitsor.com privacy policy that was archived on 2011-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111024235301id_/http%3A//bitsor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitsor.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627021751id_/http%3A//www.bitsor.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 **What information do we collect?**
 
@@ -60,10 +60,7 @@ This policy was last modified on 01/01/2009
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.Bitsor.com.
+http://www.Tryupload.com 
 
-support@bitsor.com  
-
-
-  
+support@tryupload.com  
 
