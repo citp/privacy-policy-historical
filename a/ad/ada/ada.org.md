@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ada.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003541id_/http%3A//ada.org/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ada.org privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627170835id_/http%3A//www.ada.org/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - American Dental Association - ADA.org
 
