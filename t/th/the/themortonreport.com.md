@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themortonreport.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229205602id_/http%3A//www.themortonreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themortonreport.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627220948id_/http%3A//www.themortonreport.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Morton Report
+# Privacy Policy | The Morton Report
 
 The Morton Report ("The Morton Report") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting or using the The Morton Report website and domain name, and any other linked pages, features, content, or any of our services offered from time to time by The Morton Report in connection therewith (collectively, the "Website"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
