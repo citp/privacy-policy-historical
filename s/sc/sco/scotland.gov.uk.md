@@ -1,25 +1,79 @@
-> *The following text is extracted and transformed from the scotland.gov.uk privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214161606id_/http%3A//www.scotland.gov.uk/Disclaimers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotland.gov.uk privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627192617id_/http%3A//www.scotland.gov.uk/Disclaimers) for the most accurate reproduction.*
 
 # devolved government scotland – scottish assembly, civil service – Scottish Government Privacy Policy
 
-## Scottish Government privacy policy
-
-### Disclaimer
+###  Disclaimer
 
 The Scottish Government seeks to ensure that the information published on its website is up to date and accurate. However, the information on the website does not constitute legal or professional advice and the Scottish Government cannot accept any liability for actions arising from its use. The Scottish Government cannot be held responsible for the contents of any pages referenced by an external link.
 
 Any personal data collected through this website will be treated as confidential in line with the principles of the Data Protection Act 1998.
 
-### Cookies and Website Traffic Analysis
+###  Cookies and Website Traffic Analysis
 
-When users enter the Scottish Government website their computers will automatically be issued with 'cookies'. Cookies are text files which identify users' computers to the Scottish Government's server. The website then creates "session" cookies to store some of the preferences of users moving around the website, e.g. retaining a text-only preference. Cookies in themselves do not identify individual users but identify only the computer used and they are deleted on departure from the website.
+When users enter the Scottish Government website their computers will automatically be issued with 'cookies'. Cookies are text files which identify users' computers to the Scottish Government's server. The website then creates 'session' cookies to store some of the preferences of users moving around the website, e.g. retaining a text-only preference. Cookies in themselves do not identify individual users but identify only the computer used. Scottish Government session cookies are deleted on departure from the website. However, those from third parties may persist.
 
-Many websites do this to track traffic flows, whenever users visit those websites.
+Many websites use cookies to track traffic flows, whenever users visit those websites.
 
 The Scottish Government website uses third-party cookies to measure use of the website including number of visitors, how frequently pages are viewed, and the city and country of origin of users. This helps to determine what is popular and can influence future content and development. For this purpose, the Government uses Google Analytics to measure and analyse usage of the website. The information collected by the Scottish Government will include IP Address, pages visited, browser type and operating system. **The data will not be used to identify any user personally**.
 
 Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these means that certain personalised services cannot then be provided to that user.
 
+######  Cookies used on our site:
+
+  | 
+
+######  **Cookie file name**
+
+| 
+
+######  **  Description**  
+  
+---|---|---  
+  
+######  **Cookie Control**
+
+|  civicAllowCookies |  Cookie Control: When you click "I'm happy with this..." on the Cookie Control user interface, a cookie is set in order to remember your preference. These cookies are set only after the user has given consent to us to use cookies.  
+civicShowCookieIcon |     
+  |    |     
+  
+######  **Google Analytics**
+
+|  __utma |  Google Analytics: We use Google Analytics to monitor traffic levels, search queries and visits to this website.  
+__utmb |  Google Analytics stores IP address anonamously on its servers in the US, and neither CIVIC or Google associate your IP address with any personally identifiable information.  
+__utmc |  These cookies enable Google to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.  
+__utmz |     
+  |    |     
+  
+######  **Piwik Analytics**
+
+|  _pk_id.* |  Piwik: We use Piwik to monitor traffic levels, search queries and visits to this website.  
+_pk_ses.* |  These cookies enable Piwik to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.  
+PIWIK_SESSID |  These cookies are set only after the user has given consent to us to use cookies.  
+  |    |     
+**Other 3rd party cookies** |    |     
+  
+######  **Twitter**
+
+|  guest_id |     
+  
+######  **Twitter API**
+
+|  k |  Twitter cookies. These cookies are set only after the user has given consent to us to use cookies.   
+  |    |     
+  
+######  **Yahoo (Flickr)**
+
+|  B |  Flickr cookies. These cookies are set only after the user has given consent to us to use cookies.  
+  
+######  **Flickr photos**
+
+|  BX |  Flickr cookies. These cookies are set only after the user has given consent to us to use cookies.  
+  |    |     
+  
+######  **Youtube**
+
+|  VISITOR_INFO1_LIVE |  YouTube cookies. These cookies are set only after the user has given consent to us to use cookies.  
+  
 ### Log files
 
 Log files stored on the Government's web server allow the recording and analysis of users' use of the website. Log files do not contain any personal information.
@@ -47,11 +101,11 @@ Legal Disclaimer
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
 Third Party Intermediaries   
-We use an outside contractor to manage our user database. This company does not retain, share, store or use personally identifiable information for any secondary purposes.   
-  
+We use an outside contractor to manage our user database. This company does not retain, share, store or use personally identifiable information for any secondary purposes. 
+
 Service Providers   
-We partner with other third parties to provide specific services. For example database development, push mobile technology and hosting. When the user signs up for these particular services, we share names, or other contact information including mobile number and full contact information with the third party service providers so that the third party can supply these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.   
-  
+We partner with other third parties to provide specific services. For example database development, push mobile technology and hosting. When the user signs up for these particular services, we share names, or other contact information including mobile number and full contact information with the third party service providers so that the third party can supply these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
+
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
 
 ### Links
@@ -84,5 +138,3 @@ Web site URL: [http://www.scotland.gov.uk](https://web.archive.org/Topics/Statis
 All comments submitted are moderated in advance of being made public. There may be a time delay between submission and posting. Anything that is abusive, indecent, unlawful or defamatory will not be displayed. Individuals are personally liable for the comments they submit. E-mail addresses will not be displayed.
 
 Please note that comments will usually be limited to a maximum of approximately 500 words.
-
-Page updated: Friday, August 5, 2011
