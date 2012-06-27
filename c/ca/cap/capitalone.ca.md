@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalone.ca privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227020313id_/http%3A//www.capitalone.ca/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalone.ca privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627095315id_/http%3A//www.capitalone.ca/about-us/privacy) for the most accurate reproduction.*
 
 # Capital One's Privacy Commitment
 
@@ -12,7 +12,7 @@ Personal information is any information that can identify you.
 
 ###### Your Privacy
 
-We respect your privacy. Not only do we respect it, but we also protect it. The personal information you share with us, stays with us. We collect and provide your information as required for the standard operation of our business and as required by law. We may also release your information to companies that you have authorized us to release your information to, including service providers (such as the printers of our account statements), credit reporting agencies (like TransUnion and Equifax), our own affiliates and co-branding partners for co-branded rewards card. These companies must first meet our rigorous privacy standards before we partner with them to do business for you.
+We respect your privacy. Not only do we respect it, but we also protect it. We collect and provide your information as required for the standard operation of our business and as required by law. We may also release your information to companies that you have authorized us to release your information to, including service providers (such as the printers of our account statements), credit reporting agencies (like TransUnion and Equifax), our own affiliates and co-branding partners for co-branded rewards card. These companies must first meet our rigorous privacy standards before we partner with them to do business for you.
 
 ###### Your Privacy Choices and How to Contact Us
 
@@ -29,7 +29,7 @@ Scarborough, ON M1R 5L6
 
 If you have general questions about Capital One or your account, please call one of our Customer Relations representatives at 1-800-481-3239.
 
-**Web:** You can visit our “Contact Us” page on our Web site at [www.capitalone.ca](https://web.archive.org/). If you are not a customer with us and would like to be removed from our marketing list, go to [www.capitaloneprivacy.ca](https://web.archive.org/redirect.php?Log=1&dest=http://www.capitaloneprivacy.ca/Default.aspx) and fill in the form.
+**Web:** You can visit our “Contact Us” page on our Web site at [www.capitalone.ca](undefined). If you are not a customer with us and would like to be removed from our marketing list, go to [www.capitaloneprivacy.ca](undefined) and fill in the form.
 
 To contact our Privacy officer for any other reason, please write to:
 
@@ -105,3 +105,5 @@ Authorized user means an individual who according to our records was identified 
 If you apply for credit, or by communicating or providing information to us in any other way, you acknowledge your consent for personal information collection, protection, use, disclosure and retention as set out herein. Subject to legal and contractual restrictions, you may withdraw your consent at any time after your account has been opened with reasonable notice.
 
 If at some point we want to use your personal information for any purpose other than the ones specified, we will inform you before using the information for this new purpose. We may inform you by posting a notice to our Web site or by communicating with you directly.
+
+If you want to learn more about our privacy policies, please call us toll-free at 1-800-481-3239 or review the Capital One Privacy Statement included in the Customer Agreement you will receive as part of your Welcome Kit.
