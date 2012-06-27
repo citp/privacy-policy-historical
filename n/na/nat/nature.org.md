@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226234233id_/http%3A//www.nature.org/aboutus/governance/privacy-policy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628012309id_/http%3A//www.nature.org/aboutus/governance/privacy-policy.xml) for the most accurate reproduction.*
 
 # About the Website Privacy Policy | The Nature Conservancy
 
 ##### The Nature Conservancy Website Privacy Policy
+
+[Download printable version (.pdf)](https://web.archive.org/aboutus/legalinformation/tnc-website-privacystatement.pdf)
 
  **La** **st updated** : May 28, 2008
 
@@ -53,3 +55,5 @@ If you prefer, you may opt-out by calling our Member Care Team toll-free at (800
 Emails:**  This privacy policy applies to the Website and is inapplicable to information that you may send to The Nature Conservancy by email or other means of communication.  We may retain your emails or other communications in order to process your inquiries, respond to your requests and improve our services.
 
 **Contacts:  ** If you have any questions, concerns, or suggestions regarding this privacy policy, please [contact us online](https://web.archive.org/aboutus/contact/index.htm) to send us an email or call our Member Care Team toll-free at 1 (800) 628-6860 Monday through Friday between 9:00 am and 5:00pm Eastern Time.
+
+March 02, 2012 
