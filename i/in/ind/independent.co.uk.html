@@ -1,103 +1,26 @@
-<!--The following is the downloaded HTML source of the independent.co.uk privacy policy that was archived on 2011-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228173944id_/http%3A//www.independent.co.uk/service/privacy-policy-759574.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the independent.co.uk privacy policy that was archived on 2012-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627175026id_/http%3A//www.independent.co.uk/service/privacy-policy-759574.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head>
-<link rel="stylesheet" type="text/css" href="/independent.co.uk/editorial/commercial/styles/config.css?v=7">
-<script type="text/javascript" async="" src="http://independentnews.disqus.com/embed.js"></script></head><body><div class="widget code html widget-editable viziwyg-section-507 inpage-widget-6252766">
-<script language="javascript">
-function isEmail(emailAddress){
-emailAddressValue=emailAddress.value.toLowerCase();
-var countryTLDs=/^(ac|ad|ae|af|ag|ai|al|am|an|ao|aq|ar|as|at|au|aw|az|ba|bb|bd|be|bf|bg|bh|bi|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|cr|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gd|ge|gf|gg|gh|gi|gl|gm|gn|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|io|iq|ir|is|it|je|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|mg|mh|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|mv|mw|mx|my|mz|na|nc|ne|nf|ng|ni|nl|no|np|nr|nu|nz|om|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|ps|pt|pw|py|qa|re|ro|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|sv|sy|sz|tc|td|tf|tg|th|tj|tk|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|um|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)$/;
-var gTLDs=/^(aero|biz|com|coop|edu|gov|info|int|mil|museum|name|net|org)$/;
-var basicAddress=/^(.+)@(.+)$/;
-var specialChars='\\(\\)><@,;:\\\\\\\"\\.\\[\\]';
-var validChars='\[^\\s'+specialChars+'\]';
-var validCharset='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789\'-_.';
-var quotedUser='(\"[^\"]*\")';
-var atom=validChars+'+';
-var word='('+atom+'|'+quotedUser+')';
-var validUser=new RegExp('^'+word+'(\.'+word+')*$');
-var symDomain=new RegExp('^'+atom+'(\.'+atom+')*$');
-var matchArray=emailAddressValue.match(basicAddress);
-if(emailAddress.value==''||emailAddress==null){
-return true;
-}
-if(matchArray==null){
-alert('The Email address doesn\'t seem to be correct,\nplease check syntax.');
-emailAddress.focus();
-return false;
-}else{
-var user=matchArray[1];
-var domain=matchArray[2];
-for(i=0;i<user.length;i++){
-if(validCharset.indexOf(user.charAt(i))==-1){
-alert('The Email address contains invalid characters,\nplease check the username.');
-emailAddress.focus();
-return false;
-}
-}
-for(i=0;i<domain.length;i++){
-if(validCharset.indexOf(domain.charAt(i))==-1){
-alert('The Email address contains invalid characters,\nplease check the domain.');
-emailAddress.focus();
-return false;
-}
-}
-if(user.match(validUser)==null){
-alert('The Email address doesn\'t seem to be correct,\nplease check the username.');
-emailAddress.focus();
-return false;
-}
-var atomPat=new RegExp('^'+atom+'$');
-var domArr=domain.split('.');
-var len=domArr.length;
-for(i=0;i<len;i++){
-if(domArr[i].search(atomPat)==-1){
-alert('The Email address doesn\'t seem to be correct,\nplease check the domain name.');
-emailAddress.focus();
-return false;
-}
-}
-if((domArr[domArr.length-1].length==2)&&(domArr[domArr.length-1].search(countryTLDs)==-1)){
-alert('The Email address doesn\'t seem to be correct,\nplease check domain suffix.');
-emailAddress.focus();
-return false;
-}
-if((domArr[domArr.length-1].length>2)&&(domArr[domArr.length-1].search(gTLDs)==-1)){
-alert('The Email address doesn\'t seem to be correct,\nplease check domain suffix.');
-emailAddress.focus();
-return false;
-}
-if((domArr[domArr.length-1].length<2)||(domArr[domArr.length-1].length>6)){
-alert('The Email address doesn\'t seem to be correct,\nplease check domain suffix.');
-emailAddress.focus();
-return false;
-}
-if(len<2){
-alert('The Email address doesn\'t seem to be correct,\nplease check missing hostname.');
-emailAddress.focus();
-return false;
-}
-}
-return true;
-}
-String.prototype.trim = function() { return this.replace(/^\s*(\b.*\b|)\s*$/, "$1"); }
-function mandatoryText(input,fieldName){
-if(input.value.trim()==''||input==null){
-alert('Please enter your '+fieldName+'.');
-input.focus();
-return false;
-} else {
-return true;
-}
-}
-function validForm(){
-if(!mandatoryText(document.getElementById('EMAIL_FIELD'), 'Email Address')) return;
-if(!isEmail(document.getElementById('EMAIL_FIELD'))) return;
-document.getElementById('emvForm').submit();
-}
-</script>
-</div>
+<link rel="stylesheet" type="text/css" href="/independent.co.uk/editorial/commercial/styles/config.css?v=16">
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://s.ppjol.net/pp.js">{
+'zone':"8rCVcqssYH8Dl2nF5Xl5uU",
+'mode':"meter",
+'debug':0
+}</script>
+<script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-27212627-1']); _gaq.push(['_setDomainName', '.independent.co.uk']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script>
+<script type="text/javascript" language="JavaScript">
+// name: AdprobeTag_Independent
+// created at: 30.04.2012 - 12:15
+// The placement ids to request, max 10 per request, comma delimited, no spaces:
+var wlCus = "12961,12962";
+var wlOrd = new Date().getTime();
+try {
+document.write('<scr' + 'ipt type="text/javascript" language="JavaScript" src="http://req.connect.wunderloop.net/AP/1620/6617/12961/js?cus=' + wlCus + '&ord=' + wlOrd + '"></sc' + 'ript>');
+} catch(err) { }
+</script><script type="text/javascript" language="JavaScript" src="http://req.connect.wunderloop.net/AP/1620/6617/12961/js?cus=12961,12962&amp;ord=1580446472457"></script>
+<script type="text/javascript">
+var rsi_segs = []; var segs_beg=document.cookie.indexOf('rsi_segs='); if (segs_beg>=0){ segs_beg=document.cookie.indexOf('=',segs_beg)+1; if(segs_beg>0){ var segs_end=document.cookie.indexOf(';',segs_beg); if(segs_end==-1) segs_end=document.cookie.length; rsi_segs=document.cookie.substring(segs_beg,segs_end) .split('|'); } } var segLen=20; var segQS=""; if (rsi_segs.length<segLen){segLen=rsi_segs.length} for (var i=0;i<segLen;i++){ segQS+=('rsi='+rsi_segs[i]+";") } </script>
 <meta charset="utf-8">
 <link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/defaults.css">
 <link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/layout.css">
@@ -113,7 +36,6 @@ document.getElementById('emvForm').submit();
 <link rel="pingback" href="http://www.independent.co.uk/xmlrpc">
 <script src="http://www.independent.co.uk/js/jquery-1.4.4.min.js"></script>
 <script src="http://www.independent.co.uk/js/jquery-ui-1.8.6.custom.min.js"></script>
-<script src="http://www.independent.co.uk/js/tiny_mce/tiny_mce.js"></script>
 <script src="http://www.independent.co.uk/resources/js/swfobject.js"></script>
 <script src="http://www.independent.co.uk/resources/js/jquery.charcounter.js"></script>
 <script src="http://www.independent.co.uk/resources/js/jquery.tools-1.2.5.min.js"></script>
@@ -127,7 +49,7 @@ document.getElementById('emvForm').submit();
 <script src="http://www.independent.co.uk/resources/js/jquery.validate.min.js"></script> <script src="http://www.independent.co.uk/resources/js/captify.js"></script>
 <script src="http://www.independent.co.uk/resources/js/flowplayer-3.1.4.min.js"></script>
 <script src="http://www.independent.co.uk/resources/js/widget-framework-util.js"></script>
-<script src="http://www.independent.co.uk/resources/js/galleria-1.2.6.js"></script>
+<script src="http://www.independent.co.uk/resources/js/galleria-1.2.7.min.js"></script>
 <script src="http://www.independent.co.uk/resources/js/galleria.classic.min.js"></script>
 <script src="http://www.independent.co.uk/resources/js/jquery.tagcloud.js"></script>
 <script type="text/javascript">
@@ -135,7 +57,8 @@ document.getElementById('emvForm').submit();
 var ind = {
 article: {},
 pubUrl: "http://www.independent.co.uk/",
-skinName: "ind"
+skinName: "ind",
+mainColumnClassId: ""
 }; //]]> </script>
 <!-- AUDIENCESCIENCE AD TAG CODE --> <script language="text/javascript"> <!-- var rsi_segs = []; var segs_beg=document.cookie.indexOf('rsi_segs='); if (segs_beg>=0){ segs_beg=document.cookie.indexOf('=',segs_beg)+1; if(segs_beg>0){ var segs_end=document.cookie.indexOf(';',segs_beg); if(segs_end==-1) segs_end=document.cookie.length; rsi_segs=document.cookie.substring(segs_beg,segs_end) .split('|'); } } var segLen=20; var segQS=""; if (rsi_segs.length<segLen){segLen=rsi_segs.length} for (var i=0;i<segLen;i++){ segQS+=('rsi='+rsi_segs[i]+";") } //--> </script> <!-- END AUDIENCESCIENCE AD TAG CODE -->
 <script src="http://www.independent.co.uk/skins/ind/js/custom.js"></script>
@@ -144,13 +67,13 @@ skinName: "ind"
 <!-- Indy : intialisation call, to be placed only once on the page, before the first ad tag -->
 <script type="text/javascript" language="Javascript"> //<![CDATA[
 var gs_channels="DEFAULT"; document.write('<SCR' + 'IPT type="text/javascript" language="javascript" src="http://dmgt.grapeshot.co.uk/independent/channels.cgi?url=' + escape(top.location.href) + '"></SCR' + 'IPT>'); //]]>
-</script><script type="text/javascript" language="javascript" src="http://dmgt.grapeshot.co.uk/independent/channels.cgi?url=https%3A//web.archive.org/web/20111228173944id_/http%253A//www.independent.co.uk/service/privacy-policy-759574.html"></script>
+</script><script type="text/javascript" language="javascript" src="http://dmgt.grapeshot.co.uk/independent/channels.cgi?url=https%3A//web.archive.org/web/20120627175026id_/http%253A//www.independent.co.uk/service/privacy-policy-759574.html"></script>
 <meta property="og:title" content="Privacy policy">
 <meta property="og:type" content="article">
 <meta property="og:image" content="http://www.independent.co.uk/skins/ind/images/eagle_logo.jpg">
-<meta property="og:description" content="Before using the Website (that is, any site operated by Independent Print Limited) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not wan">
-<meta name="description" content="Before using the Website (that is, any site operated by Independent Print Limited) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not wan">
-<meta property="article:published_time" content="2007-11-27 14:27:45.0">
+<meta property="og:description" content="Before using the Website (that is, any site operated by Independent Digital News and Media Limited) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties.">
+<meta name="description" content="Before using the Website (that is, any site operated by Independent Digital News and Media Limited) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties.">
+<meta property="article:published_time" content="2011-11-01 00:00:45.0">
 <meta property="article:section" content="Service">
 <meta property="og:url" content="http://www.independent.co.uk/service/privacy-policy-759574.html">
 <meta property="fb:app_id" content="235586169789578">
@@ -160,22 +83,35 @@ var gs_channels="DEFAULT"; document.write('<SCR' + 'IPT type="text/javascript" l
 <title>
 Privacy policy - Service - The Independent
 </title>
-<!-- Release 0.0.50 -->
-
-
-<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-<script>
-window.fbAsyncInit = function() {
-FB.init({appId: '235586169789578', status: true, cookie: true,
-xfbml: true});	};
-(function() {
-var e = document.createElement('script');
-e.async = true;
-e.src = document.location.protocol +
-'//connect.facebook.net/en_US/all.js';
-document.getElementById('fb-root').appendChild(e);
-}());
-</script>
+<!-- Release 1.0.94 -->
+<script type="text/javascript" async="" src="http://independentnews.disqus.com/embed.js"></script></head>
+<body>
+<!-- Start Omniture Tracking Code -->
+<script type="text/javascript" src="/template/custom/footer/catalyst.js"></script>
+<script type="text/javascript"><!--
+s.pageName="service/article6184927";
+s.server="www.independent.co.uk";
+s.channel="service";
+s.prop1="";
+s.prop2="";
+s.prop3="";
+s.prop4="";
+s.hier1="service";
+s.pageType="";
+s.prop11="Privacy policy";
+s.prop12="privacy-policy-759574.html";
+s.prop13="";
+s.prop14="";
+s.prop16="Tuesday, 1 November 2011";
+s.events="event7";
+s.prop22="D=User-Agent";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)
+//--></script>
+<noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://indepdev.122.2O7.net/b/ss/indepdev/1/H.19.3--NS/0?[AQB]&cdp=3&[AQE]&pageName=http://www.independent.co.uk/service/Privacy policy"
+height="1" width="1" border="0" alt="" /></a></noscript>
+<!-- End Omniture Tracking Code -->
 <div id="viewport">
 <div id="page" class="article ">
 <div id="header">
@@ -184,7 +120,7 @@ document.getElementById('fb-root').appendChild(e);
 <div class="widget dateline default widget-editable viziwyg-section-1023 inpage-widget-5054699 topDateTime">
 <ul>
 <li class="current first">
-Wednesday 28 December 2011
+Wednesday 27 June 2012
 </li>
 </ul>
 </div>
@@ -192,12 +128,17 @@ Wednesday 28 December 2011
 <ul>
 <li>
 <a href="http://ijobs.independent.co.uk/">
-<span>Jobs </span>
+<span>i Jobs </span>
 </a>
 </li>
 <li>
 <a href="http://www.independent.co.uk/dating/">
 <span>Dating </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/property/">
+<span>Property </span>
 </a>
 </li>
 <li>
@@ -211,250 +152,39 @@ Wednesday 28 December 2011
 </div>
 <div class="x940 promoAndLeaderboard">
 <div class="column-1">
-<div class="widget carousel simple widget-editable viziwyg-section-1023 inpage-widget-5054659 topPromo">
-<style type="text/css">
-div.carousel div.mainDisplayContainer5054659 {
-width:202px;
-height:90px;
-}
-div.carousel .scrollable5054659 {
-height: 64.51829916336634px;
-}
-div.carousel div.filmstrip5054659 {
-padding:30px 6.5898px 10px 6.5898px;
-width:188.8204px;
-height: 64.51829916336634px;
-left:0px;
-}
-div.carousel .scrollable .items div.item {
-padding: 1.31796px;
-}
-div.carousel .scrollable .items div.item5054659 {
-height:59.88237916336634px;
-width:79.84317221782179px;
-margin: 0 6.5898px 0 0;
-}
-div.carousel .scrollable .items div div.titleSide5054659{
-padding:1.31796px;
-left: 82.47909221782179px;
-width:-4.6359200000000005px;
-height: 55.24645916336634px;
-}
-div.carousel div.nav5054659 {
-height: 0px;
-padding: 0px 0px 0px 0px;
-position: relative;
-}
-</style>
-<div id="mainDisplayContainer5054659" class="mainDisplayContainer mainDisplayContainer5054659">
-<a id="articleAnchor5054659" href="#"><img id="mainImage5054659" class="mainImage" src="http://static.flowplayer.org/tools/img/blank.gif" alt=""></a>
-<div class="carouselFilmstrip filmstrip_bottom filmstrip5054659 hiddenContainer">
-<div id="carouselScrollableContainer5054659" class="scrollable scrollable5054659">
-<div class="items itemsHorizontal">
-<div class="page">
-<div class="item item5054659" id="item5054659_0" onclick="return chicked_5054659('0');">
-<img src="http://www.independent.co.uk/incoming/article6259960.ece/ALTERNATES/w100/ipad-app.jpg" style="width: 79.84317221782179px; height: 59.88237916336634px;" alt="" width="79.84317221782179" height="59.88237916336634">
-</div>
-</div>
-</div>
-</div>
-<div class="nav nav5054659" id="nav5054659">
-</div>
-</div>
-<a id="playButtonr5054659" class="playButton small" style="display:none;">&nbsp;</a>
-</div>
-<div style="width:0px; height:0px; visibility:hidden;">
-<div id="carouselImgaeUrl_5054659_0_0">
-http://www.independent.co.uk/incoming/article6259960.ece/ALTERNATES/w202h90/ipad-app.jpg
-</div>
-<div id="articleUrl_5054659_0_0">
-http://www.independent.co.uk/news/media/online/article6259894.ece
-</div>
-<a id="playButton_5054659_0_0" href="http://www.independent.co.uk/news/media/online/article6259894.ece?playVideo=true" style="display:none;"></a>
-</div>
-<script type="text/javascript">
-// <![CDATA[
-var api_5054659;
-var obj_5054659;
-var cliked_index_5054659=0;
-var number_items_5054659=1;
-var max_items_perpage_5054659 = 2.1457403866581686;
-var totalPage5054659 = Math.ceil(0.46603960396039606);
-function chicked_5054659(index){
-cliked_index_5054659=index;
-return false;
-}
-// execute your scripts when the DOM is ready. this is a good habit
-jQuery(function() {
-// initialize scrollable
-// clickable
-api_5054659 = jQuery("#carouselScrollableContainer5054659").scrollable({prev:'.prevPage',next:'.nextPage', vertical:false}).navigator({api:true, navi:".indicator"});
-/* set navigaion indicator width so that it is rightly set at middle */
-/* set navigation arrows disabled status correctly */
-jQuery("#prevCarouselItemButton_5054659").click(function() {
-if(obj_5054659){
-obj_5054659.changeDisplayItemCarousel_5054659(api_5054659, -1);
-}
-});
-jQuery("#nextCarouselItemButton_5054659").click(function() {
-if(obj_5054659){
-obj_5054659.changeDisplayItemCarousel_5054659(api_5054659, 1);
-}
-});
-});
-jQuery(function()
-{
-var tabIndex_5054659 = 0;
-var lastClickedIndex_5054659=-1;
-obj_5054659 = this;
-function displayClickedCarouselItem_5054659(){
-jQuery("#mainImage5054659").css({"display":"block"});
-jQuery("#video5054659").css({"display":"none"});
-var index = cliked_index_5054659;
-jQuery(".item5054659").css({"border":"1px solid #000000"});
-jQuery("#item5054659_"+index).css({"border":"1px solid #00A0EE"});
-if(index!=lastClickedIndex_5054659)
-{
-lastClickedIndex_5054659 = index;
-var mainDisplayContainerId = "mainDisplayContainer5054659";
-var mainImageId = "mainImage5054659";
-var articleAnchorId = "articleAnchor5054659";
-var articleUrlContainerId = "articleUrl_5054659_" + tabIndex_5054659 + "_" + index;
-var imageUrlContainerId = "carouselImgaeUrl_5054659_" + tabIndex_5054659 + "_" + index;
-var mainDisplayContainer = jQuery("#"+mainDisplayContainerId).fadeTo("fast", 0.5);
-var imageUrl = jQuery("#"+imageUrlContainerId)[0].innerHTML;
-var img = new Image();
-// call this function after it's loaded
-img.onload = function() {
-// make wrapper fully visible
-mainDisplayContainer.fadeTo("fast", 1);
-// change the image
-jQuery("#"+mainImageId).attr("src", imageUrl);
-// update article ancho url
-jQuery("#" + articleAnchorId).attr("href", jQuery("#"+articleUrlContainerId)[0].innerHTML);
-// update url of a video
-var urlContainerId = "playButton_5054659_" + tabIndex_5054659 + "_" + index;
-jQuery("#playButtonr5054659").attr("href",jQuery("#"+urlContainerId)[0].getAttribute("href"));
-$("#playButtonr5054659").css({"display":$("#"+urlContainerId).css('display')});
-};
-img.src = imageUrl;
-}
-}
-jQuery("#carouselScrollableContainer5054659 .items div").click(function() {
-displayClickedCarouselItem_5054659();
-// when page loads simulate a "click" on the first image
-}).filter(":first").click();
-// change the active item index by pIndexOffset
-this.changeDisplayItemCarousel_5054659 = function(pApi, pIndexOffset){
-if(cliked_index_5054659+ pIndexOffset < 0 ){
-cliked_index_5054659 = cliked_index_5054659 + number_items_5054659;
-}
-cliked_index_5054659 = Math.max(0,(cliked_index_5054659+ pIndexOffset)%number_items_5054659);
-pApi.seekTo(cliked_index_5054659/max_items_perpage_5054659);
-displayClickedCarouselItem_5054659();
-}
-});
-var mouseOverCarousel = false;
-function carouselPlayPause(link){
-if (link.innerHTML == 'Play'){
-link.innerHTML = 'Pause';
-mouseOverCarousel = false;
-}
-else if (link.innerHTML == 'Pause'){
-link.innerHTML = 'Play';
-mouseOverCarousel = true;
-}
-}
-function carouselMouseOut(){
-mouseOverCarousel = false;
-}
-startSlideShow_5054659();
-function startSlideShow_5054659(){
-}
-// ]]>
-</script>
-</div>
-<div class="widget ad script widget-editable viziwyg-section-1023 inpage-widget-6232599">
-<script type="text/javascript">
-var ad_zone="indy_indyhome";
-var ref_url = window.location.href;
-if (ref_url.indexOf("/news/education/") != -1) {
-ad_zone="indy_indynews_education";
-} else if (ref_url.indexOf("/news/business/") != -1) {
-ad_zone="indy_indynews_business";
-} else if (ref_url.indexOf("/news/science/") != -1) {
-ad_zone="indy_indynews_science";
-} else if (ref_url.indexOf("/environment/") != -1) {
-ad_zone="indy_indyenvironment";
-} else if (ref_url.indexOf("/opinion/") != -1) {
-ad_zone="indy_indynews_opinion";
-} else if (ref_url.indexOf("/news/") != -1) {
-ad_zone="indy_indynews";
-} else if (ref_url.indexOf("/sport/") != -1) {
-ad_zone="indy_indysport";
-} else if (ref_url.indexOf("/sport/cricket/") != -1) {
-ad_zone="indy_indysport_cricket";
-} else if (ref_url.indexOf("/sport/golf/") != -1) {
-ad_zone="indy_indysport_golf";
-} else if (ref_url.indexOf("/sport/football/") != -1) {
-ad_zone="indy_indysport_football";
-} else if (ref_url.indexOf("/sport/tennis/") != -1) {
-ad_zone="indy_indysport_tennis";
-} else if (ref_url.indexOf("/sport/rugby/") != -1) {
-ad_zone="indy_indysport_rugby";
-} else if (ref_url.indexOf("/life-style") != -1) {
-ad_zone="indy_indylifeandstyle_lifeandstyle";
-} else if (ref_url.indexOf("/life-style/motoring/") != -1) {
-ad_zone="indy_indylifeandstyle_motoring_hp";
-} else if (ref_url.indexOf("/life-style/food-and-drink/") != -1) {
-ad_zone="indy_indylifeandstyle_fooddrink";
-} else if (ref_url.indexOf("/life-style/gadget-and-tech/") != -1) {
-ad_zone="indy_indylifeandstyle_gadgetstech";
-} else if (ref_url.indexOf("/life-style/fashion/") != -1) {
-ad_zone="indy_indylifeandstyle_fashion";
-} else if (ref_url.indexOf("/life-style/Health-and-Families/") != -1) {
-ad_zone="indy_indylifeandstyle_healthandfamiles";
-} else if (ref_url.indexOf("/arts-entertainment/") != -1) {
-ad_zone="indy_indyartsandents";
-} else if (ref_url.indexOf("/arts-entertainment/films/") != -1) {
-ad_zone="indy_indyartsandents_films";
-} else if (ref_url.indexOf("arts-entertainment/music/") != -1) {
-ad_zone="indy_indyartsandents_music";
-} else if (ref_url.indexOf("/travel/") != -1) {
-ad_zone="indy_indytravel";
-} else if (ref_url.indexOf("/travel/simon-calder/") != -1) {
-ad_zone="indy_indytravel_simoncalder";
-} else if (ref_url.indexOf("/travel/skiing/") != -1) {
-ad_zone="indy_indytravel_skiing";
-} else if (ref_url.indexOf("/money/") != -1) {
-ad_zone="indy_indymoney";
-} else if (ref_url.indexOf("/i/") != -1) {
-ad_zone="indy_indyi_i";
-} else if (ref_url.indexOf("/student/") != -1) {
-ad_zone="indy_indystudent";
-} else if (ref_url.indexOf("/student/into-university/") != -1) {
-ad_zone="indy_indystudent_gettingintouni";
-} else if (ref_url.indexOf("/student/clearing/") != -1) {
-ad_zone="indy_indystudent_gettingintouni_clearing";
-} else if (ref_url.indexOf("/student/postgraduate/") != -1) {
-ad_zone="indy_indystudent_postgraduate";
-}else{
-ad_zone="indy_indyhome";
-}
-</script>
-<!-- begin ad tag (tile=1) -->
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-7541632 carousel topPromo">
+<!-- begin ad tag (tile=6) -->
 <script type="text/javascript">
 //<![CDATA[
 ord=Math.random()*10000000000000000;
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/indy.uk/'+ad_zone+';tile=1;dcopt=ist;sz=728x90,468x60;ord=' + ord + ';gs_cat='+gs_channels+';'+segQS+'?"><\/script>');
+document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/indy.uk/indy_indypromo_hp;slot=promo;tile=6;sz=202x90;ord=' + ord + '?"><\/script>');
 //]]>
+</script><script type="text/javascript" src="https://ad.doubleclick.net/adj/indy.uk/indy_indypromo_hp;slot=promo;tile=6;sz=202x90;ord=6448869492215201?"></script>
+<noscript><a href="https://ad.doubleclick.net/jump/indy.uk/indy_indypromo_hp;slot=promo;tile=6;sz=202x90;ord=123456789?" target="_blank" ><img src="https://ad.doubleclick.net/ad/indy.uk/indy_indypromo_hp;slot=promo;tile=6;sz=202x90;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag -->
+</div>
+<script type="text/javascript">
+var dartAdjUrl = 'http://ad.doubleclick.net/adj';
+var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
+var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
+var dartSiteName = 'indy.uk';
+var dartZoneName = 'indy_indynews';
+var dartHomepageZoneName = 'indy_indynews';
+var articleId = '6184927';
+var dartAdSize = 'sz=728x90,468x60';
+var dartTile = 'tile=1';
+var dartOptValue = 'dcopt=ist';
+var ordValue = '283855906';
+</script>
+<div class="widget ad dart widget-editable viziwyg-section-507 inpage-widget-7643709">
+<!-- begin ad tag (tile=1) -->
+<script type="text/javascript">
+document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue +';gs_cat='+gs_channels+';'+segQS+'EAScamp=' + wl12961camp +';key=yes;cu=12961;?"><\/'+'sc'+'ript>');
 </script>
 <noscript>
-<a href="http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/indy.uk/;sz=728x90,468x60;key=GS_CHANNELS;tile=1;ord=' + ord + '?" target="_blank">
-<img src="http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/indy.uk/;sz=728x90,468x60;key=GS_CHANNELS;tile=1;ord=' + ord + '?" width="728" height="90" border="0" alt="Click here...">Click here...</a>
+<a href="'+dartNoScriptJumpUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue +'key=GS_CHANNELS;?" target="_blank">
+<img src="'+dartNoScriptAdUrl+'/+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue +'key=GS_CHANNELS;?" width="728" height="90" border="0" alt="Click here...">Click here...</a>
 </noscript>
-<!--</div>
-end ad tag -->
 </div>
 </div>
 </div>
@@ -479,22 +209,25 @@ News </a> </li>
 <li class="red-nav ">
 <a href="http://www.independent.co.uk/opinion/">
 Opinion </a> </li>
-<li class="light-blue-nav ">
-<a href="http://www.independent.co.uk/environment/">
-Environment </a> </li>
 <li class="green-nav ">
 <a href="http://www.independent.co.uk/sport/">
 Sport </a> </li>
+<li class="green-nav ">
+<a href="http://www.independent.co.uk/sport/football/">
+EURO 2012 </a> </li>
 <li class="lavender-nav ">
 <a href="http://www.independent.co.uk/life-style/">
-Life &amp; Style </a> </li>
+Life </a> </li>
+<li class="lavender-nav ">
+<a href="http://www.independent.co.uk/property/">
+Property </a> </li>
 <li class="grey-nav ">
 <a href="http://www.independent.co.uk/arts-entertainment/">
 Arts &amp; Ents </a> </li>
 <li class="orange-nav ">
 <a href="http://www.independent.co.uk/travel/">
 Travel </a> </li>
-<li class="light-blue-nav ">
+<li class="turqoise-nav ">
 <a href="http://www.independent.co.uk/money/">
 Money </a> </li>
 <li class="dark-blue-nav ">
@@ -521,10 +254,37 @@ Student </a> </li>
 Hot Topics
 </div>
 <div class="tagNames">
-<a href="http://www.independent.co.uk/topic/Lobbying">Lobbying</a>
-<a href="http://www.independent.co.uk/topic/Europe">Europe</a>
-<a href="http://www.independent.co.uk/topic/NorthKorea">North Korea</a>
-<a href="http://www.independent.co.uk/topic/PhoneHacking">Phone Hacking</a>
+<a href="http://www.independent.co.uk/topic/Syria">Syria</a>
+<a href="http://www.independent.co.uk/topic/MichaelGove">Michael Gove</a>
+<a href="http://www.independent.co.uk/topic/Greece">Greece</a>
+<a href="http://www.independent.co.uk/topic/Immigration">Immigration</a>
+</div>
+</div>
+</div>
+<div class="x940 bellyBand">
+<div class="column-1">
+<script type="text/javascript">
+var dartAdjUrl = 'http://ad.doubleclick.net/adj';
+var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
+var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
+var dartSiteName = 'indy.uk';
+var dartZoneName = 'indy_indynews';
+var dartHomepageZoneName = 'indy_indynews';
+var articleId = '6184927';
+var dartAdSize = 'sz=900x250';
+var dartTile = 'tile=4';
+var dartOptValue = '';
+var ordValue = '283855906';
+</script>
+<div class="widget ad dart widget-editable viziwyg-section-507 inpage-widget-7681806">
+<!-- begin ad tag (tile=1) -->
+<script type="text/javascript">
+document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+'ord=' + ordValue +';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/indy.uk/indy_indynews;sz=900x250;tile=4;article=6184927;ord=283855906;gs_cat=DEFAULT;?"></script>
+<noscript>
+<a href="'+dartNoScriptJumpUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue +'key=GS_CHANNELS;?" target="_blank">
+<img src="'+dartNoScriptAdUrl+'/+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue +'key=GS_CHANNELS;?" width="728" height="90" border="0" alt="Click here...">Click here...</a>
+</noscript>
 </div>
 </div>
 </div>
@@ -558,7 +318,7 @@ Privacy policy
 </div>
 <div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138717">
 <p class="dateline">
-Tuesday 27 November 2007
+Tuesday 01 November 2011
 </p>
 </div>
 <div class="menuGroup ">
@@ -581,7 +341,8 @@ type="text/javascript">
 <fb:like class="fblike" layout="button_count" href="http://www.independent.co.uk/service/privacy-policy-759574.html" action="recommend"></fb:like>
 </div>
 <div class="widget code html widget-editable viziwyg-section-1024 inpage-widget-6138658 socialwidget">
-<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="Independent" data-related="Independent">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
 <div class="widget code html widget-editable viziwyg-section-1024 inpage-widget-6138652 socialwidget">
 <script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
@@ -666,7 +427,6 @@ $.jQpopup.close("emailFormPageTools");
 </script>
 <div id="emailFormPageTools" style="display:block;display:none" title="Email This Article ">
 <form id="mailForm" action="/pageTools/sendMail.do" method="post" styleid="mailForm">
-<input type="hidden" id="ipaddress" name="ipaddress" value="sender-ip-address.log">
 <input type="hidden" name="method" value="sendSimpleMail" id="method">
 <input type="hidden" name="mailType" value="text_html" id="mailType">
 <input type="hidden" name="id" value="6184927" id="id">
@@ -728,119 +488,6 @@ event.preventDefault();
 </div>
 </div>
 </div>
-<div class="x220x380 ">
-<div class="column-1">
-<div class="widget stories headline widget-editable viziwyg-section-1024 inpage-widget-6138706 greyRuler latestInSection ">
-<div class="latestInHeader">
-<h5>
-Latest in Service
-</h5>
-</div>
-<div class="article news first default ">
-<div class="media news">
-<h6 class="default">
-<a href="http://www.independent.co.uk/service/terms--policies-759573.html" class="">
-Terms &amp; Policies
-</a>
-</h6>
-</div>
-</div>
-<div class="article news default ">
-<div class="media news">
-<h6 class="default">
-<a href="http://www.independent.co.uk/service/current-ipl-vacancies-759588.html" class="">
-Current IPL vacancies
-</a>
-</h6>
-</div>
-</div>
-<div class="article news default ">
-<div class="media news">
-<h6 class="default">
-<a href="http://www.independent.co.uk/service/evening-standard-limited-and-independent-print-limited--code-of-conduct-and-associated-policies-6280644.html" class="">
-Evening Standard Limited and Independent Print Limited - Code of Conduct and associated Policies
-</a>
-</h6>
-</div>
-</div>
-<div class="article news default ">
-<div class="media news">
-<h6 class="default">
-<a href="http://www.independent.co.uk/service/the-independent-online-916827.html" class="">
-The Independent online
-</a>
-</h6>
-</div>
-</div>
-<div class="article news default ">
-<div class="media news">
-<h6 class="default">
-<a href="http://www.independent.co.uk/service/freelance-contributions-terms-and-conditions-759578.html" class="">
-Freelance contributions terms and conditions
-</a>
-</h6>
-</div>
-</div>
-<div class="article news default ">
-<div class="media news">
-<h6 class="default">
-<a href="http://www.independent.co.uk/service/work-experience-terms-and-conditions-2224620.html" class="">
-Work experience terms and conditions
-</a>
-</h6>
-</div>
-</div>
-<div class="article news default ">
-<div class="media news">
-<h6 class="default">
-<a href="http://www.independent.co.uk/service/questions-answered-commenting-on-independentcouk-1981857.html" class="">
-Questions answered: commenting on independent.co.uk
-</a>
-</h6>
-</div>
-</div>
-<div class="article news default ">
-<div class="media news">
-<h6 class="default">
-<a href="http://www.independent.co.uk/service/competition-terms-and-conditions-759575.html" class="">
-Competition terms and conditions
-</a>
-</h6>
-</div>
-</div>
-<div class="article news default ">
-<div class="media news">
-<h6 class="default">
-<a href="http://www.independent.co.uk/service/usergenerated-content-terms-and-conditions-759576.html" class="">
-User-generated content terms and conditions
-</a>
-</h6>
-</div>
-</div>
-<div class="article news default ">
-<div class="media news">
-<h6 class="default">
-<a href="http://www.independent.co.uk/service/sign-up-for-our-free-indynews-email-newsletter-759590.html" class="">
-Sign up for our free IndyNews email newsletter
-</a>
-</h6>
-</div>
-</div>
-</div>
-<div class="widget ad script widget-editable viziwyg-section-1024 inpage-widget-6138647 googlead">
-<script language="JavaScript">
-google_ad_channel = '5258566634+3913758598';
-google_ad_client = 'ca-pub-5964551156905038';
-google_ad_output = 'js';
-google_max_num_ads = '4';
-google_ad_type = 'text';
-</script>
-<script language="JavaScript" src="http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/adsense.js"></script>
-<script language="JavaScript" src="http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/show_ads.js">
-</script>
-</div>
-</div>
-<div class="column-2">
 <script type="text/javascript">
 //<![CDATA[
 ind.article.largeItem = 'false';
@@ -848,15 +495,68 @@ ind.article.videoPriority = 'false';
 ind.article.fullSlideshow = 0;
 //]]>
 </script>
-<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6191976" id="RelatedArtTag">
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6191976 RelatedArtTag">
 </div>
 <div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138699 articleContent">
 <span class="storyTop ">
-<p>&nbsp;</p>
+<p>Before using the Website (that is, any site operated by Independent Digital News and Media Limited) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties.</p>
 </span>
 <div class="body ">
-<p>Before using the Website (that is, any site operated by Independent Print Limited) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties.</p><p>Independent Print Limited is hereinafter referred to as IPL.</p><p><strong>The basic principles</strong></p><p>By accessing and using the Website you are agreeing to be legally bound by the Terms of Use and this Privacy Policy. You should therefore also read the Terms of Use before using the Website.</p><p>IPL is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably.</p><p>Knowing something about our users is, however, necessary to ensure that our service is continually improved. We need to build an accurate picture of the needs and wishes of our users, and to be able to communicate with you. That enables us to offer a service that is relevant and truly interactive, which is what our users expect. It also helps us to maintain the greatest possible free-to-user access to the Website.</p><p>Behavioural advertising: technology now also allows interest based advertising which allows advertisers to customize adverts to your particular interests and is referred to below.</p><p><strong>We answer your important questions</strong></p><p><em>"What information do you collect about me?"</em></p><p>We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual.</p><p>We may also ask you to provide personal information on a voluntary basis in order to get a clearer picture of our users. It is then entirely up to you whether you are happy to give us this information.</p><p>In the course of entering competitions, promotions and other offers you will be asked to give some details about yourself. You may also choose to e-mail us or make contact with us in other ways. Such contact gives us information about you.</p><p>If you have any financial dealings or make purchases with our trading partners on co-branded sites, they will ask for certain information. This information may be shared with us.</p><p><em>"For what purposes do you collect and use my information?"</em></p><p>We use aggregate audience details (where no individual is identifiable) to help us improve our understanding of our users and their preferences. We use it to assist us in arranging relevant advertising, commercial opportunities and competitions, as well as ensuring the best editorial coverage. It also helps us develop the Website and audit its use.</p><p>The information about you as an identifiable individual, including contact details, may be used in the following ways:</p><p>* to conduct market research and other surveys.<br><br>* to create and draw to your attention editorial material and commercial opportunities that may be of interest to you.</p><p>* to be shared with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also be able to share the information that they obtain about their users, which may include you.</p><p><em>"How private are my details?"</em></p><p>Apart from other companies in the IPL group, we only share personal information about you with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. IPL complies with the relevant legal requirements and takes all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, or for any breach of security.</p><p>If you tell us that you do not want us to use your details, then data about your use of the Website would then only form part of aggregated statistics and would not be related to you as an individual.</p><p>You can ask to see the information we have about you by e-mailing a request to customerservices@independent.co.uk.</p><p><strong>Use of cookies on a website</strong></p><p><em>The basic principles</em></p><p>A cookie is a text-only string of information that a website transfers to the cookie file of the browser of your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.</p><p>Two types of cookies are used on the Website: <strong>Session Cookies</strong> which are temporary cookies that remain in the cookie file of your browser until you leave the Website. <strong>Persistent Cookies</strong> which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of each specific cookie). Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you.</p><p><em>How we collect cookies on the Website and what information we collect</em></p><p><strong>Session Cookies:</strong> To allow you to carry information across pages of the Website and avoid having to re-enter information. <strong>Persistent Cookies:</strong> To help us recognise you as a unique visitor (just a number) when you return to the Website and to allow us to tailor content, advertisements and the presentation of the Website to match your preferences. To compile anonymous, aggregated statistics that allow us to understand how users use the Website and to help us improve the structure of the Website. We cannot identify you personally in this way.</p><p><em>Third Party Cookies</em></p><p>Third parties serve cookies via the Website. These are used for the following purposes: To serve advertisements on the Website and track whether these advertisements are clicked on by users. To control how often you are shown a particular advertisement. To count the number of anonymous users of the Website.To provide security within transactions.</p><p><em>Interest Based Advertising</em></p><p>Interest based advertisements on our site are provided by our advertising partner. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on certain information about your visit to this and other websites. This information is collected and used without reference to other data which could identify you in the real world, in that it does not include your name, street address, e-mail address or telephone number. In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. You have the right to exercise control over the way we collect and use information about your online activities in this way and you are entitled to opt-out of receiving this type of interest based advertising.</p><p>For more information about this type of interest based advertising, about cookies, and about how to turn this feature off, please visit www.youronlinechoices.co.uk. Please note that the effectiveness of any opt-out for interest based advertising may be impacted by deleting all cookies on your browser.</p><p>See below for instructions on controlling cookies in the most recent version of Internet Explorer (users of other browsers should contact their manufacturer for instructions).</p><p><strong>Windows Internet Explorer</strong></p><p>Select Tools Internet Options then Privacy Tab then Advanced</p><p>Check Override automatic cookie handling</p><p>Click Accept, Block or Prompt then OK twice</p><p><strong>Firefox</strong></p><p>Please visit http://support.mozilla.com/en-US/kb/Enabling%20and%20disabling%20cookies for details</p><p>Please refer to the 'Help' function of your particular browser for further information.</p><p>By using your browser settings to disable cookies you may prevent the Site from operating fully.</p><p><em>Use of Web Beacons</em></p><p>Some of our web pages may contain electronic images know as web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign.</p><p><em>Disabling/Enabling Cookies</em></p><p>You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of the Website if cookies are disabled.</p><p><strong>International transfer of personal data</strong></p><p>As you will know, the internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country. You should be aware that by using the Website and those of our partners or any site we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way.</p><p><em>"What do I do if I am not happy for you to share information about me with others?"</em></p><p>You may not wish us to share personal details about you with third parties outside IPL, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail customerservices@independent.co.uk at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy. Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order.</p><p><strong>Further information</strong></p><p>If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail us at customerservice@independent.co.uk.</p><p><strong>Company and data protection information</strong></p><p>The data controller of data on the Website is Independent Print Limited, registered in England and Wales under company number 7148379, whose registered office is at 2 Derry Street, London, W8 5HF, UK. VAT number GB 987 3754 55. Any queries or notices under the Data Protection Act should be addressed to the IT Director at the above address.</p><p>This newspaper adheres to the system of self-regulation overseen by the Press Complaints Commission. The PCC takes complaints about the editorial content of publications under the Editor’s Code of Practice, a copy of which can be found at www.pcc.org.uk</p>
+<p>Independent Digital News and Media Limited is hereinafter referred to in this Privacy Policy as IDNM. <strong>Please note that IDNM may revise this Privacy Policy at any time by posting an update on its website. Please ensure that you check this website from time to time to review the current privacy policy against any preferences you may have indicated. This Privacy Policy was last updated on the date indicated above.</strong></p><p>* <a href="http://www.independent.co.uk/service/evening-standard-limited-and-independent-print-limited--code-of-conduct-6280644.html">Code of Conduct</a> <br>* <a href="http://www.independent.co.uk/service/article759573.html">Terms &amp; Policies</a> <br>* <a href="http://www.independent.co.uk/service/article1673234.html">Advertising terms and conditions</a> <br>* <a href="http://www.independent.co.uk/service/article759575.html">Competition terms and conditions</a> <br>* <a href="http://www.independent.co.uk/service/article759576.html">User-generated content terms and conditions</a> <br>* <a href="http://www.independent.co.uk/service/article759578.html">Freelance contributions terms and conditions</a> <br>* <a href="http://www.independent.co.uk/service/article2224620.html">Work experience terms and conditions</a> <br>* <a href="http://www.independent.co.uk/news/corrections/">Corrections &amp; Clarifications</a></p><p><strong>The basic principles</strong></p><p>By accessing and using the Website you are agreeing to be legally bound by the Legal Terms and Policies and this Privacy Policy. You should therefore also read the Legal Terms and Policies before using the Website.</p><p>IDNM is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably.</p><p>Knowing something about our users is, however, necessary to ensure that our service is continually improved. We need to build an accurate picture of the needs and wishes of our users, and to be able to communicate with you. That enables us to offer a service that is relevant and truly interactive, which is what our users expect. It also helps us to maintain the greatest possible free-to-user access to the Website.</p><p>Behavioural advertising: technology now also enables interest based advertising which allows advertisers to customize adverts to your particular interests and is referred to below.</p><p><strong>We answer your important questions</strong></p><p><em>"What information do you collect about me?"</em></p><p>We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual.</p><p>We may also ask you to provide personal information on a voluntary basis in order to get a clearer picture of our users. It is then entirely up to you whether you are happy to give us this information.</p><p>In the course of entering competitions, promotions and other offers you will be asked to give some details about yourself. You may also choose to e-mail us or make contact with us in other ways. Such contact gives us information about you.</p><p>If you have any financial dealings, for instance if you make purchases with our trading partners on co-branded sites, or if you place an order through The Independent Shop, the information you submit will be disclosed to us and to relevant third parties, for example suppliers of goods and services and our web service providers.</p><p><em>"For what purposes do you collect and use my information?"</em></p><p>We use aggregate audience details (where no individual is identifiable) to help us improve our understanding of our users and their preferences. We may <strong></strong>use it to assist us in arranging relevant advertising, commercial opportunities and competitions, as well as ensuring the best editorial coverage. It also helps us develop the Website and audit its use.</p><p>The information about you as an identifiable individual, including contact details, may be used in the following ways:</p><p>* to conduct market research and other surveys.</p><p>* to create and draw to your attention editorial material and commercial opportunities that may be of interest to you.</p><p>* to be shared with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also be able to share the information that they obtain about their users.</p><p>* to respond to any enquiry you make.</p><p><em>"How private are my details?"</em></p><p>Apart from other companies in the IDNM group, we only share personal information about you with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. IDNM complies with the relevant legal requirements and takes all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, or for any breach of security. We may also disclose your information if required to do so to comply with any laws, regulations, legal proceedings or governmental request - but this will be subject in each case to the requirements of the Data Protection Act 1998.</p><p>If you tell us that you do not want us to use your details, by emailing a request to customerservices@independent.co.uk, <strong></strong>then data about your use of the Website would then only form part of aggregated statistics and would not be related to you as an individual.</p><p>You can ask to see the information we have about you by emailing a request to customerservices@independent.co.uk.</p><p><strong>Use of cookies on a website</strong></p><p align="left">In addition to personal
+information you optionally provide, we may also collect anonymous information
+about you when you visit the site. The collection of anonymous data via cookies
+or web beacons allows us to track our own performance - but also allows us to
+display content which is more personalised, thereby enhancing your experience
+of the website.</p><p align="left">IDNM does its utmost to
+respect your privacy. Cookies let us monitor our performance and provide a
+better service, as well as sell advertising space, which we use to stay free of
+charge to our readers.</p><p align="left">To this end, we allow a
+careful selection of trusted third parties to use cookies and tracking to offer
+you a more personal experience. </p><p align="left">Most browsers accept
+cookies automatically, but you can change your settings to remove them or
+prevent your computer from automatically accepting them if you prefer. </p><p align="left">By continuing to
+use the website, you agree to the placement of cookies on your device. If you
+choose not to receive our cookies, we cannot guarantee that your experience
+will be as fulfilling as it would otherwise be. For instance, the site won’t be
+able to recognise your commenter ID, meaning that you won’t be able to leave
+comments.</p><p align="left">For more details on cookies (including how to opt out of cookies issued
+by third party advertisers) click <a href="http://www.independent.co.uk/service/cookie-policy-7785164.html">here</a>.</p><p><strong>International transfer of personal data</strong></p><p>As you will know, the internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country. You should be aware that by using the Website and those of our partners or any site we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way.</p><p><em>"What do I do if I am not happy for you to share information about me with others?"</em></p><p>You may not wish us to share personal details about you with third parties outside IDNM, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail customerservices@independent.co.uk at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy. Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order.</p><p><strong>Further information</strong></p><p>If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail us at customerservice@independent.co.uk.</p><p><strong>Company and data protection information</strong></p><p>The data controller of data on the Website is Independent Digital News and Media Limited, registered in England and Wales under company number 732 0345, whose registered office is at 2 Derry Street, London, W8 5HF, UK. VAT number GB 995 5180 73. Any queries or notices under the Data Protection Act should be addressed to the IT Director at the above address.</p><p>This newspaper adheres to the system of self-regulation overseen by the Press Complaints Commission. The PCC takes complaints about the editorial content of publications under the Editor’s Code of Practice, a copy of which can be found at <a href="http://www.pcc.org.uk" target="_blank">www.pcc.org.uk</a></p>
 </div>
+</div>
+<div class="widget relatedContents stories widget-editable viziwyg-section-1024 inpage-widget-6139088">
+<h5>Related articles</h5>
+<ul>
+<li class="first">
+<p>
+<a href="http://www.independent.co.uk/service/terms--policies-759573.html" class=""> Terms &amp; Policies
+</a>
+</p>
+</li>
+<li>
+<p>
+<a href="http://www.independent.co.uk/service/advertising-terms-and-conditions-1673234.html" class=""> Advertising terms and conditions
+</a>
+</p>
+</li>
+<li>
+<p>
+<a href="http://www.independent.co.uk/service/competition-terms-and-conditions-759575.html" class=""> Competition terms and conditions
+</a>
+</p>
+</li>
+<li>
+<p>
+<a href="http://www.independent.co.uk/service/usergenerated-content-terms-and-conditions-759576.html" class=""> User-generated content and postings: Terms &amp;amp; Conditions
+</a>
+</p>
+</li>
+<li>
+<p>
+<a href="http://www.independent.co.uk/service/freelance-contributions-terms-and-conditions-759578.html" class=""> Terms for freelance contributions
+</a>
+</p>
+</li>
+</ul>
 </div>
 <div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138702 socialwidget">
 <!--[if !IE 7]><!-->
@@ -877,7 +577,8 @@ type="text/javascript">
 <fb:like class="fblike" layout="button_count" href="http://www.independent.co.uk/service/privacy-policy-759574.html" action="recommend"></fb:like>
 </div>
 <div class="widget code html widget-editable viziwyg-section-1024 inpage-widget-6138658 socialwidget">
-<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="Independent" data-related="Independent">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
 <div class="widget code html widget-editable viziwyg-section-1024 inpage-widget-6138652 socialwidget">
 <script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
@@ -886,7 +587,7 @@ type="text/javascript">
 <div class="widget code html widget-editable viziwyg-section-1024 inpage-widget-6138641 socialwidget">
 <div class="g-plusone" data-size="medium"></div>
 </div>
-<div class="widget code html widget-editable viziwyg-section-1024 inpage-widget-6138609">
+<div class="widget code jsp widget-editable viziwyg-section-1024 inpage-widget-6138609">
 <div class="strapLine gotocomments">
 <h2 class="strapline">
 <a href="#disqus_thread">Comments</a>
@@ -909,7 +610,7 @@ $('.MoreIn .section').css('color', channelColor);
 //]]>
 </script>
 </div>
-<div class="widget ad script widget-editable viziwyg-section-1024 inpage-widget-6280058 googlead">
+<div class="widget ad script widget-editable viziwyg-section-1024 inpage-widget-6278027 googlead" id="fullwidth">
 <script language="JavaScript">
 google_ad_channel = '5258566634+1985344535';
 google_ad_client = 'ca-pub-5964551156905038';
@@ -921,7 +622,7 @@ google_ad_type = 'text';
 <script language="JavaScript" src="http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/show_ads.js">
 </script>
 </div>
-<div class="widget code jsp widget-editable viziwyg-section-1024 inpage-widget-6138686">
+<div class="widget code jsp widget-editable viziwyg-section-1024 inpage-widget-6252381">
 <div class="disqus greyRuler">
 <span class="commentTitle">Independent Comment</span>
 <div id="disqus_thread"></div>
@@ -941,8 +642,6 @@ dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-</div>
-</div>
 </div>
 </div>
 </div>
@@ -1064,15 +763,65 @@ alert("Search word should not start with !@#$%^&*()+=-[]\\\';,./{}|\":<>?~_");
 <ul class="tabs">
 <li id="tabs-1-1">
 <a href="#tabs-1-1" class="tabMenuItem">
+<span>Most Viewed</span></a>
+</li>
+<li id="tabs-1-2">
+<a href="#tabs-1-2" class="tabMenuItem">
+<span>Most Shared</span></a>
+</li>
+<li id="tabs-1-3">
+<a href="#tabs-1-3" class="tabMenuItem">
 <span>Most Commented</span></a>
 </li>
 </ul>
 <div class="tabPanes">
 <div class="tabPane">
-<div class="widget code jsp widget-editable viziwyg-section-1048 inpage-widget-6249654">
-<!-- Most Commented : Short Name = independentnews : widgetContent.id = 6249654 | maxAge = 60s : Number of items : 6-->
+</div>
+<div class="tabPane">
+<div class="mostShared widget">
+<ul>
+<li>
+<span>1</span>
+<a href="http://www.independent.co.uk/news/world/americas/jimmy-carter-attacks-barack-obama-over-assassinations-and-drone-attacks-7888925.html">Jimmy Carter attacks Barack Obama over assassinations and drone attacks</a>	</li>
+<!-- 1 - 1 - 7888925 - http://www.independent.co.uk/news/world/americas/carter-attacks-obama-over-assassinations-and-drone-attacks-7888925.html -->
+<li>
+<span>2</span>
+<a href="http://www.independent.co.uk/news/world/middle-east/uk-ready-to-take-on-israel-over-fate-of-children-clapped-in-irons-7888914.html">UK ready to take on Israel over fate of children clapped in irons</a>	</li>
+<!-- 2 - 2 - 7888914 - http://www.independent.co.uk/news/world/middle-east/uk-ready-to-take-on-israel-over-fate-of-children-clapped-in-irons-7888914.html -->
+<li>
+<span>3</span>
+<a href="http://www.independent.co.uk/opinion/commentators/mark-steel/mark-steel-you-have-to-work-hard-for-a-silver-spoon-7888834.html">Mark Steel: You have to work hard for a silver spoon</a>	</li>
+<!-- 3 - 3 - 7888834 - http://www.independent.co.uk/opinion/commentators/mark-steel/mark-steel-you-have-to-work-hard-for-a-silver-spoon-7888834.html -->
+<li>
+<span>4</span>
+<a href="http://www.independent.co.uk/arts-entertainment/music/features/music-your-face-here-whether-you-like-it-or-not-7888908.html">Music: Your face here (whether you like it or not)</a>	</li>
+<!-- 4 - 4 - 7888908 - http://www.independent.co.uk/arts-entertainment/music/features/music-your-face-here-whether-you-like-it-or-not-7888908.html -->
+<li>
+<span>5</span>
+<a href="http://www.independent.co.uk/news/uk/politics/tony-blair-says-he-would-be-prepared-to-become-prime-minister-again-7893167.html">Tony Blair says he would be prepared to become Prime Minister again</a>	</li>
+<!-- 6 - 5 - 7893167 - http://www.independent.co.uk/news/uk/politics/tony-blair-says-he-would-be-prepared-to-become-prime-minister-again-7893167.html -->
+<li>
+<span>6</span>
+<a href="http://www.independent.co.uk/life-style/health-and-families/features/a-series-of-unfortunate-events-7881029.html">A series of unfortunate events </a>	</li>
+<!-- 7 - 6 - 7881029 - http://www.independent.co.uk/life-style/health-and-families/features/a-series-of-unfortunate-events-7881029.html -->
+<li>
+<span>7</span>
+<a href="http://www.independent.co.uk/news/world/europe/i-decided-to-get-rid-of-them-mother-throws-two-sons-to-their-deaths-from-15th-floor-balcony-because-she-was-fed-up-with-having-children-7888373.html">'I decided to get rid of them': Mother throws two sons to their deaths from 15th floor balcony because she was 'fed up' with having children</a>	</li>
+<!-- 8 - 7 - 7888373 - http://www.independent.co.uk/news/world/europe/mother-throws-two-sons-to-their-death-from-15th-floor-balcony-because-she-was-fed-up-with-having-children-7888373.html -->
+<li>
+<span>8</span>
+<a href="http://www.independent.co.uk/travel/europe/simon-calder-cheap-but-cheerful-or-a-summer-of-discontent-for-tourists-in-greece-7888755.html">Simon Calder: Cheap but cheerful? Or a summer of discontent for tourists in Greece?</a>	</li>
+<!-- 9 - 8 - 7888755 - http://www.independent.co.uk/travel/europe/greece-a-summer-of-discontent-7888755.html -->
+<li>
+<span>9</span>
+<a href="http://www.independent.co.uk/sport/football/international/we-must-win-the-german-way-against-italy-says-joachim-lw-7888858.html">We must win the German way against Italy says Joachim Löw</a>	</li>
+<!-- 10 - 9 - 7888858 - http://www.independent.co.uk/sport/football/international/we-must-win-the-german-way--lw-7888858.html -->
+</ul> </div>	</div>
+<div class="tabPane">
+<div class="widget code jsp widget-editable viziwyg-section-1052 inpage-widget-6249656">
+<!-- Most Commented : Short Name = independentsport : widgetContent.id = 6249656 | maxAge = 60s : Number of items : 10-->
 <div class="most-commented-tab">
-<script type="text/javascript" src="http://independentnews.disqus.com/popular_threads_widget.js?num_items=6"></script>
+<script type="text/javascript" src="http://independentsport.disqus.com/popular_threads_widget.js?num_items=10"></script>
 </div>
 <script type="text/javascript">
 //<![CDATA[
@@ -1106,51 +855,82 @@ initialIndex : 0
 </script>
 </div>
 </div>
-<div class="widget ad script widget-editable viziwyg-section-1052 inpage-widget-6232065">
-<script language="JavaScript">
-document.write('<'+'sc'+'ript type= "text/javascript" src="http://ad.doubleclick.net/adj/indy.uk/indy_indynews;sz=300x250,300x600;tile=4;ord=' + ord + ';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
+<div class="x300 ">
+<div class="column-1">
+<script type="text/javascript">
+var dartAdjUrl = 'http://ad.doubleclick.net/adj';
+var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
+var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
+var dartSiteName = 'indy.uk';
+var dartZoneName = 'indy_indynews';
+var dartHomepageZoneName = 'indy_indynews';
+var articleId = '6184927';
+var dartAdSize = 'sz=300x250,300x600';
+var dartTile = 'tile=2';
+var dartOptValue = '';
+var ordValue = '283855906';
 </script>
-<noscript>
-<a href="http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/indy.uk/indy_indynews;sz=300x250,300x600;key=GS_CHANNELS;tile=4;ord=' + ord + '?" target="_blank">
-<img src="http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/indy.uk/indy_indynews;sz=300x250,300x600;key=GS_CHANNELS;tile=4;ord=' + ord + '?" width="300" height="250" border="0" alt="Click here...">Click here...</a>
-</noscript>
-</div>
-<div class="widget ad script widget-editable viziwyg-section-1052 inpage-widget-6233551">
+<div class="widget ad dart widget-editable viziwyg-section-507 inpage-widget-7643779">
 <!-- begin ad tag (tile=1) -->
 <script type="text/javascript">
-//<![CDATA[
-ord=Math.random()*10000000000000000;
-document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/indy.uk/indy_indyhome_partners;target=ps;sz=300x150;ord=' + ord + '?"><\/script>');
-//]]>
-</script><script type="text/javascript" src="https://ad.doubleclick.net/adj/indy.uk/indy_indyhome_partners;target=ps;sz=300x150;ord=5953485031985521?"></script>
-<noscript><a href="https://ad.doubleclick.net/jump/indy.uk/indy_indyhome_partners;tile=1;sz=300x150;ord=123456789?" target="_blank" ><img src="https://ad.doubleclick.net/ad/indy.uk/indy_indyhome_partners;tile=1;sz=300x150;ord=123456789?" border="0" alt="" /></a></noscript>
-<!-- end ad tag -->
-</div>
-<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-6234329">
-<link rel="stylesheet" type="text/css" href="http://blogs.independent.co.uk/other/fb/css/swire.css" media="screen"> <div id="fb-root"></div> <div id="fb-widget"></div><div id="showWidget"></div> <script type="text/javascript" src="http://blogs.independent.co.uk/other/fb/swire.js"></script>
-</div>
-<div class="widget ad script widget-editable viziwyg-section-1052 inpage-widget-6232066">
-<div>
-<script language="JavaScript">
-document.write('<'+'sc'+'ript type= "text/javascript" src="http://ad.doubleclick.net/adj/indy.uk/indy_indynews;sz=160x600,120x600;tile=5;ord=' + ord + ';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
+document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+'ord=' + ordValue +';gs_cat='+gs_channels+';'+segQS+'EAScamp=' + wl12962camp +';key=yes;cu=12962;?"><\/'+'sc'+'ript>');
 </script>
 <noscript>
-<a href="http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/indy.uk/indy_indynews;sz=160x600,120x600;key=GS_CHANNELS;tile=5;ord=' + ord + '?" target="_blank">
-<img src="http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/indy.uk/indy_indynews;sz=160x600,120x600;key=GS_CHANNELS;tile=5;ord=' + ord + '?" width="120" height="600" border="0" alt="Click here...">Click here...</a>
+<a href="'+dartNoScriptJumpUrl+'/'+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue +'key=GS_CHANNELS;?" target="_blank">
+<img src="'+dartNoScriptAdUrl+'/+dartSiteName+'/'+dartZoneName+';'+dartAdSize+';'+dartTile+';article='+articleId+';'+dartOptValue+';ord=' + ordValue +'key=GS_CHANNELS;?" width="728" height="90" border="0" alt="Click here...">Click here...</a>
 </noscript>
 </div>
 </div>
-<div class="widget ad script widget-editable viziwyg-section-1052 inpage-widget-6233570">
-<!-- begin ad tag (tile=2) -->
-<script type="text/javascript">
-//<![CDATA[
-ord=Math.random()*10000000000000000;
-document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/indy.uk/indy_indyhome_partners;target=ps;sz=300x250;ord=' + ord + '?"><\/script>');
-//]]>
-</script><script type="text/javascript" src="https://ad.doubleclick.net/adj/indy.uk/indy_indyhome_partners;target=ps;sz=300x250;ord=4215300832777944?"></script>
-<noscript><a href="https://ad.doubleclick.net/jump/indy.uk/indy_indyhome_partners;sz=300x250;ord=123456789?" target="_blank" ><img src="https://ad.doubleclick.net/ad/indy.uk/indy_indyhome_partners;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
-<!-- end ad tag -->
 </div>
+<div class="x300 ">
+<div class="column-1">
+<script type="text/javascript">
+var dartAdjUrl = 'http://ad.doubleclick.net/adj';
+var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
+var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
+var dartSiteName = 'indy.uk';
+var dartPartnerZoneName = 'indy_indyhome_partners';
+var dartAdSize = 'sz=300x150';
+var dartTile = '';
+var dartOptValue = '';
+var articleId = '6184927';
+var ordValue = '283855906';
+</script>
+<div class="widget ad partner widget-editable viziwyg-section-507 inpage-widget-7643724">
+<!-- begin partner 300x150 ad tag -->
+<script type="text/javascript">
+document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartPartnerZoneName+';target=ps;'+dartAdSize+';kw='+articleId+';ord=' + ordValue +';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/indy.uk/indy_indyhome_partners;target=ps;sz=300x150;kw=6184927;ord=283855906;gs_cat=DEFAULT;?"></script>
+<!-- begin partner 300x150 ad tag -->
+</div>
+</div>
+</div>
+<link rel="stylesheet" type="text/css" href="http://blogs.independent.co.uk/other/fb/css/swire.css" media="screen"> <div id="fb-root"></div> <div id="fb-widget"></div><div id="showWidget"></div> <script type="text/javascript" src="http://blogs.independent.co.uk/other/fb/swire_test.js"></script>
+<div class="x300 ">
+<div class="column-1">
+<script type="text/javascript">
+var dartAdjUrl = 'http://ad.doubleclick.net/adj';
+var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
+var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
+var dartSiteName = 'indy.uk';
+var dartPartnerZoneName = 'indy_indyhome_partners';
+var dartAdSize = 'sz=300x250';
+var dartTile = '';
+var dartOptValue = '';
+var articleId = '6184927';
+var ordValue = '283855906';
+</script>
+<div class="widget ad partner widget-editable viziwyg-section-507 inpage-widget-7643727">
+<!-- begin partner 300x150 ad tag -->
+<script type="text/javascript">
+document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartPartnerZoneName+';target=ps;'+dartAdSize+';kw='+articleId+';ord=' + ordValue +';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/indy.uk/indy_indyhome_partners;target=ps;sz=300x250;kw=6184927;ord=283855906;gs_cat=DEFAULT;?"></script>
+<!-- begin partner 300x150 ad tag -->
+</div>
+</div>
+</div>
+<div class="x300 ">
+<div class="column-1">
 <div class="widget carousel commercial widget-editable viziwyg-section-507 inpage-widget-6279238">
 <div id="commercial-header">
 <h6 class="commercial-title">SPONSORED FEATURES</h6>
@@ -1160,205 +940,157 @@ document.write('<script type="text/javascript" src="https://ad.doubleclick.net/a
 <div class="scrollable-6279238 commercial-scrollable">
 <div class="items">
 <div class="item">
-<a class="main-img" href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-2298877.html"><img src="http://www.independent.co.uk/incoming/article6279247.ece/ALTERNATES/w300/nexus-sfb.jpg" width="278"></a> <div class="item-content">
-<h2 class="item-title"><a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-2298877.html">Win a Samsung Galaxy Nexus</a>
+<a class="main-img" href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-7723152.html"><img src="http://www.independent.co.uk/incoming/article7745918.ece/ALTERNATES/w300/spons.jpg" width="278"></a> <div class="item-content">
+<h2 class="item-title"><a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-7723152.html">Experience the Heineken Hub</a>
 </h2>
-<p>Win one of three 16GB Samsung Galaxy Nexus smartphones courtesy of the Heineken Hub.</p>
+<p>Get free wi-fi and exclusive i content while you enjoy a tasty pint of Heineken at participating pubs.</p>
 </div>
-<div class="item-list first-list"> <a href="http://www.independent.co.uk/travel/europe/win-a-holiday-for-two-to-the-canary-islands-6280184.html ">
-Win a holiday
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/offers/win-a-sumptuous-threenight-stay-at-one-of-austrias-finest-experience-hotels-7804724.html">
+Austrian holiday
 </a>
-<a href="http://www.independent.co.uk/life-style/food-and-drink/posh-nosh-2369020.html">
-Posh Nosh
+<a href="http://www.independent.co.uk/life-style/offers/win-a-fivestar-foodie-weekend-in-picturesque-liege-7831565.html">
+Belgian holiday
 </a>
-<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/features/have-yourself-a-techie-little-christmas-6263002.html" class="last">
-Tech news
+<a href="http://www.independent.co.uk/news/business/investing-in-the-legacy-of-the-london-2012-games-7857973.html" class="last">
+Networking 2012
 </a>
 </div>
 <div class="item-list">
-<a href="http://www.independent.co.uk/life-style/motoring/life-with-nissan-leaf-6265732.html">
-Nissan LEAF
+<a href="http://www.independent.co.uk/competitions/">
+Prizes &amp; offers
 </a>
 <a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">
 Business videos
-</a>
-<a href="http://www.independent.co.uk/travel/skiing/win-seven-days-highaltitude-skiing-in-one-of-the-meccas-of-offpiste-2365463.html" class="last">
-Ski prize
 </a>
 </div>
 </div>
 <div class="item">
-<a class="main-img" href="http://www.independent.co.uk/travel/europe/win-a-holiday-for-two-to-the-canary-islands-6280184.html "><img src="http://www.independent.co.uk/incoming/article6280633.ece/ALTERNATES/w300/sponsored-features-canary.jpg" width="278"></a> <div class="item-content">
-<h2 class="item-title"><a href="http://www.independent.co.uk/travel/europe/win-a-holiday-for-two-to-the-canary-islands-6280184.html ">Win a Holiday for two to the Canary Islands</a>
+<a class="main-img" href="http://www.independent.co.uk/life-style/offers/win-a-sumptuous-threenight-stay-at-one-of-austrias-finest-experience-hotels-7804724.html"><img src="http://www.independent.co.uk/incoming/article7835972.ece/ALTERNATES/w300/ausspons.jpg" width="278"></a> <div class="item-content">
+<h2 class="item-title"><a href="http://www.independent.co.uk/life-style/offers/win-a-sumptuous-threenight-stay-at-one-of-austrias-finest-experience-hotels-7804724.html">Win a sumptuous three-night stay in Austria</a>
 </h2>
-<p><em>We are giving you a chance to win a seven-night holiday for two adults to two of the Canary Islands.</em></p><em>
-</em></div><em>
-<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-2298877.html">
-Smartphone
+<p>Get away from it all in the fresh mountain air at the four-star Hotel Edelweiss &amp; Gurgl.</p>
+</div>
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-7723152.html">
+Heineken Hub
 </a>
-<a href="http://www.independent.co.uk/life-style/food-and-drink/posh-nosh-2369020.html">
-Posh Nosh
+<a href="http://www.independent.co.uk/life-style/offers/win-a-fivestar-foodie-weekend-in-picturesque-liege-7831565.html">
+Belgian holiday
 </a>
-<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/features/have-yourself-a-techie-little-christmas-6263002.html" class="last">
-Tech news
+<a href="http://www.independent.co.uk/news/business/investing-in-the-legacy-of-the-london-2012-games-7857973.html" class="last">
+Networking 2012
 </a>
 </div>
 <div class="item-list">
-<a href="http://www.independent.co.uk/life-style/motoring/life-with-nissan-leaf-6265732.html">
-Nissan LEAF
+<a href="http://www.independent.co.uk/competitions/">
+Prizes &amp; offers
 </a>
 <a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">
 Business videos
-</a>
-<a href="http://www.independent.co.uk/travel/skiing/win-seven-days-highaltitude-skiing-in-one-of-the-meccas-of-offpiste-2365463.html" class="last">
-Ski prize
-</a>
-</div>
-</em></div><em>
-<div class="item">
-<a class="main-img" href="http://www.independent.co.uk/life-style/food-and-drink/posh-nosh-2369020.html"><img src="http://www.independent.co.uk/incoming/article6279250.ece/ALTERNATES/w300/poshnosh-sfb.jpg" width="278"></a> <div class="item-content">
-<h2 class="item-title"><a href="http://www.independent.co.uk/life-style/food-and-drink/posh-nosh-2369020.html">Amazing restaurant offers</a>
-</h2>
-<p>Three glasses of free champagne and a special menu at 46 top London restaurants.</p>
-</div>
-<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-2298877.html">
-Smartphone
-</a>
-<a href="http://www.independent.co.uk/travel/europe/win-a-holiday-for-two-to-the-canary-islands-6280184.html ">
-Win a holiday
-</a>
-<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/features/have-yourself-a-techie-little-christmas-6263002.html" class="last">
-Tech news
-</a>
-</div>
-<div class="item-list">
-<a href="http://www.independent.co.uk/life-style/motoring/life-with-nissan-leaf-6265732.html">
-Nissan LEAF
-</a>
-<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">
-Business videos
-</a>
-<a href="http://www.independent.co.uk/travel/skiing/win-seven-days-highaltitude-skiing-in-one-of-the-meccas-of-offpiste-2365463.html" class="last">
-Ski prize
 </a>
 </div>
 </div>
 <div class="item">
-<a class="main-img" href="http://www.independent.co.uk/life-style/gadgets-and-tech/features/have-yourself-a-techie-little-christmas-6263002.html"><img src="http://www.independent.co.uk/incoming/article6279314.ece/ALTERNATES/w300/ipad-sfb.jpg" width="278"></a> <div class="item-content">
-<h2 class="item-title"><a href="http://www.independent.co.uk/life-style/gadgets-and-tech/features/have-yourself-a-techie-little-christmas-6263002.html">Get your gadget fix</a>
+<a class="main-img" href="http://www.independent.co.uk/life-style/offers/win-a-fivestar-foodie-weekend-in-picturesque-liege-7831565.html"><img src="http://www.independent.co.uk/incoming/article7835790.ece/ALTERNATES/w300/belgspon.jpg" width="278"></a> <div class="item-content">
+<h2 class="item-title"><a href="http://www.independent.co.uk/life-style/offers/win-a-fivestar-foodie-weekend-in-picturesque-liege-7831565.html">Win a five-star foodie weekend to Liège</a>
 </h2>
-<p>Only the latest in technology news - plus our guide to the latest Christmas contraptions.</p>
+<p>Spend two nights in gourmet heaven at a top hotel in the capital of French-speaking Belgium.</p>
 </div>
-<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-2298877.html">
-Smartphone
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-7723152.html">
+Heineken Hub
 </a>
-<a href="http://www.independent.co.uk/travel/europe/win-a-holiday-for-two-to-the-canary-islands-6280184.html ">
-Win a holiday
+<a href="http://www.independent.co.uk/life-style/offers/win-a-sumptuous-threenight-stay-at-one-of-austrias-finest-experience-hotels-7804724.html">
+Austrian holiday
 </a>
-<a href="http://www.independent.co.uk/life-style/food-and-drink/posh-nosh-2369020.html" class="last">
-Posh Nosh
+<a href="http://www.independent.co.uk/news/business/investing-in-the-legacy-of-the-london-2012-games-7857973.html" class="last">
+Networking 2012
 </a>
 </div>
 <div class="item-list">
-<a href="http://www.independent.co.uk/life-style/motoring/life-with-nissan-leaf-6265732.html">
-Nissan LEAF
+<a href="http://www.independent.co.uk/competitions/">
+Prizes &amp; offers
 </a>
 <a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">
 Business videos
-</a>
-<a href="http://www.independent.co.uk/travel/skiing/win-seven-days-highaltitude-skiing-in-one-of-the-meccas-of-offpiste-2365463.html" class="last">
-Ski prize
 </a>
 </div>
 </div>
 <div class="item">
-<a class="main-img" href="http://www.independent.co.uk/life-style/motoring/life-with-nissan-leaf-6265732.html"><img src="http://www.independent.co.uk/incoming/article6279317.ece/ALTERNATES/w300/leaf-sfb.jpg" width="278"></a> <div class="item-content">
-<h2 class="item-title"><a href="http://www.independent.co.uk/life-style/motoring/life-with-nissan-leaf-6265732.html">Try the new Nissan LEAF</a>
+<a class="main-img" href="http://www.independent.co.uk/news/business/investing-in-the-legacy-of-the-london-2012-games-7857973.html"><img src="http://www.independent.co.uk/incoming/article7865717.ece/ALTERNATES/w300/sponsored-features.jpg" width="278"></a> <div class="item-content">
+<h2 class="item-title"><a href="http://www.independent.co.uk/news/business/investing-in-the-legacy-of-the-london-2012-games-7857973.html">Playing a game-changing role during the Games</a>
 </h2>
-<p>Electric cars have finally come of age. Click here to find out more - or book a test drive.</p>
+<p>Cisco is providing the solutions for London 2012's complex IT needs.</p>
 </div>
-<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-2298877.html">
-Smartphone
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-7723152.html">
+Heineken Hub
 </a>
-<a href="http://www.independent.co.uk/travel/europe/win-a-holiday-for-two-to-the-canary-islands-6280184.html ">
-Win a holiday
+<a href="http://www.independent.co.uk/life-style/offers/win-a-sumptuous-threenight-stay-at-one-of-austrias-finest-experience-hotels-7804724.html">
+Austrian holiday
 </a>
-<a href="http://www.independent.co.uk/life-style/food-and-drink/posh-nosh-2369020.html" class="last">
-Posh Nosh
+<a href="http://www.independent.co.uk/life-style/offers/win-a-fivestar-foodie-weekend-in-picturesque-liege-7831565.html" class="last">
+Belgian holiday
 </a>
 </div>
 <div class="item-list">
-<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/features/have-yourself-a-techie-little-christmas-6263002.html">
-Tech news
+<a href="http://www.independent.co.uk/competitions/">
+Prizes &amp; offers
 </a>
 <a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">
 Business videos
 </a>
-<a href="http://www.independent.co.uk/travel/skiing/win-seven-days-highaltitude-skiing-in-one-of-the-meccas-of-offpiste-2365463.html" class="last">
-Ski prize
+</div>
+</div>
+<div class="item">
+<a class="main-img" href="http://www.independent.co.uk/competitions/"><img src="http://www.independent.co.uk/incoming/article6279337.ece/ALTERNATES/w300/comps.jpg" width="278"></a> <div class="item-content">
+<h2 class="item-title"><a href="http://www.independent.co.uk/competitions/">Enter the latest Independent competitions </a>
+</h2>
+<p>Win anything from gadgets to five-star holidays on our competitions and offers page.</p>
+</div>
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-7723152.html">
+Heineken Hub
+</a>
+<a href="http://www.independent.co.uk/life-style/offers/win-a-sumptuous-threenight-stay-at-one-of-austrias-finest-experience-hotels-7804724.html">
+Austrian holiday
+</a>
+<a href="http://www.independent.co.uk/life-style/offers/win-a-fivestar-foodie-weekend-in-picturesque-liege-7831565.html" class="last">
+Belgian holiday
+</a>
+</div>
+<div class="item-list">
+<a href="http://www.independent.co.uk/news/business/investing-in-the-legacy-of-the-london-2012-games-7857973.html">
+Networking 2012
+</a>
+<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">
+Business videos
 </a>
 </div>
 </div>
 <div class="item">
 <a class="main-img" href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html"><img src="http://www.independent.co.uk/incoming/article6279321.ece/ALTERNATES/w300/sfb.jpg" width="278"></a> <div class="item-content">
-<h2 class="item-title"><a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">Commercial thought leaders</a>
+<h2 class="item-title"><a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">Business videos from commercial thought leaders</a>
 </h2>
 <p>Watch the best in the business world give their insights into the world of business.</p>
 </div>
-<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-2298877.html">
-Smartphone
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-7723152.html">
+Heineken Hub
 </a>
-<a href="http://www.independent.co.uk/travel/europe/win-a-holiday-for-two-to-the-canary-islands-6280184.html ">
-Win a holiday
+<a href="http://www.independent.co.uk/life-style/offers/win-a-sumptuous-threenight-stay-at-one-of-austrias-finest-experience-hotels-7804724.html">
+Austrian holiday
 </a>
-<a href="http://www.independent.co.uk/life-style/food-and-drink/posh-nosh-2369020.html" class="last">
-Posh Nosh
-</a>
-</div>
-<div class="item-list">
-<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/features/have-yourself-a-techie-little-christmas-6263002.html">
-Tech news
-</a>
-<a href="http://www.independent.co.uk/life-style/motoring/life-with-nissan-leaf-6265732.html">
-Nissan LEAF
-</a>
-<a href="http://www.independent.co.uk/travel/skiing/win-seven-days-highaltitude-skiing-in-one-of-the-meccas-of-offpiste-2365463.html" class="last">
-Ski prize
-</a>
-</div>
-</div>
-<div class="item">
-<a class="main-img" href="http://www.independent.co.uk/travel/skiing/win-seven-days-highaltitude-skiing-in-one-of-the-meccas-of-offpiste-2365463.html"><img src="http://www.independent.co.uk/incoming/article6279323.ece/ALTERNATES/w300/aosta-sfb.jpg" width="278"></a> <div class="item-content">
-<h2 class="item-title"><a href="http://www.independent.co.uk/travel/skiing/win-seven-days-highaltitude-skiing-in-one-of-the-meccas-of-offpiste-2365463.html">Win 7 days skiing in north Italy</a>
-</h2>
-<p>Visit Champoluc and Gressoney, including ski passes, travel and a three-star hotel.</p>
-</div>
-<div class="item-list first-list"> <a href="http://www.independent.co.uk/life-style/food-and-drink/heineken-landing-page-2298877.html">
-Smartphone
-</a>
-<a href="http://www.independent.co.uk/travel/europe/win-a-holiday-for-two-to-the-canary-islands-6280184.html ">
-Win a holiday
-</a>
-<a href="http://www.independent.co.uk/life-style/food-and-drink/posh-nosh-2369020.html" class="last">
-Posh Nosh
+<a href="http://www.independent.co.uk/life-style/offers/win-a-fivestar-foodie-weekend-in-picturesque-liege-7831565.html" class="last">
+Belgian holiday
 </a>
 </div>
 <div class="item-list">
-<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/features/have-yourself-a-techie-little-christmas-6263002.html">
-Tech news
+<a href="http://www.independent.co.uk/news/business/investing-in-the-legacy-of-the-london-2012-games-7857973.html">
+Networking 2012
 </a>
-<a href="http://www.independent.co.uk/life-style/motoring/life-with-nissan-leaf-6265732.html">
-Nissan LEAF
-</a>
-<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html" class="last">
-Business videos
+<a href="http://www.independent.co.uk/competitions/">
+Prizes &amp; offers
 </a>
 </div>
-<div class="item-list">
 </div>
 </div>
-</em></div><em>
-</em></div><em>
+</div>
 <script type="text/javascript">
 // <![CDATA[
 $(function() {
@@ -1375,10 +1107,35 @@ ind.commercialInstance.move(1);
 }, 10000);
 });	// ]]>
 </script>
-</em></div><em>
-<div class="widget ad script widget-editable viziwyg-section-1024 inpage-widget-6279977 googlead">
+</div>
+</div>
+</div>
+<div class="x300 ">
+<div class="column-1">
+<script type="text/javascript">
+var dartAdjUrl = 'http://ad.doubleclick.net/adj';
+var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
+var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
+var dartSiteName = 'indy.uk';
+var dartPartnerZoneName = 'indy_indyhome_partners';
+var dartAdSize = 'sz=300x250';
+var dartTile = '';
+var dartOptValue = '';
+var articleId = '6184927';
+var ordValue = '283855906';
+</script>
+<div class="widget ad partner widget-editable viziwyg-section-507 inpage-widget-7643730">
+<!-- begin partner 300x150 ad tag -->
+<script type="text/javascript">
+document.write('<'+'sc'+'ript type= "text/javascript" src="'+dartAdjUrl+'/'+dartSiteName+'/'+dartPartnerZoneName+';target=psmpu2;'+dartAdSize+';kw='+articleId+';ord=' + ordValue +';gs_cat='+gs_channels+';'+segQS+'?"><\/'+'sc'+'ript>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/indy.uk/indy_indyhome_partners;target=psmpu2;sz=300x250;kw=6184927;ord=283855906;gs_cat=DEFAULT;?"></script>
+<!-- begin partner 300x150 ad tag -->
+</div>
+</div>
+</div>
+<div class="widget ad script widget-editable viziwyg-section-1024 inpage-widget-6279041 googlead" id="fullwidth">
 <script language="JavaScript">
-google_ad_channel = '2691865510+1985344535';
+google_ad_channel = '2691865510+5668950562';
 google_ad_client = 'ca-pub-5964551156905038';
 google_ad_output = 'js';
 google_max_num_ads = '4';
@@ -1388,6 +1145,47 @@ google_ad_type = 'text';
 <script language="JavaScript" src="http://www.independent.co.uk/independent.co.uk/editorial/web/adsense/show_ads.js">
 </script>
 </div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-6661700 latestNews">
+<div class="latestInHeader"><h5>Career Services</h5></div>
+</div>
+<div class="tabbingGroup ">
+<div id="tabs-2" class="defaultTab">
+<ul class="tabs">
+<li id="tabs-2-1">
+<a href="#tabs-2-1" class="tabMenuItem">
+<span>Jobseekers</span></a>
+</li>
+<li id="tabs-2-2">
+<a href="#tabs-2-2" class="tabMenuItem">
+<span>Recruiters</span></a>
+</li>
+</ul>
+<div class="tabPanes">
+<div class="tabPane">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-6661697">
+<a href="http://bit.ly/vatvx0"><img src="http://www.independent.co.uk/incoming/article6661693.ece/binary/jobseeker2.png" width="300" height="124" style="border: none;"></a>
+</div>
+</div>
+<div class="tabPane">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-6661698">
+<a href="http://bit.ly/ymrqOb"><img src="http://www.independent.co.uk/incoming/article6661694.ece/binary/recruiter.png" width="300" height="124" style="border: none;"></a>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+$("#tabs-2 > ul.tabs").tabs("#tabs-2 > div.tabPanes > div.tabPane", {
+current: 'current',
+effect: 'default',
+event: 'click',
+initialIndex : 0
+});
+});
+//]]>
+</script>
+</div>
+</div>
 <div class="widget code html widget-editable viziwyg-section-1044 inpage-widget-6138615 dayInaPage">
 <h2>Day In a Page</h2>
 </div>
@@ -1395,13 +1193,13 @@ google_ad_type = 'text';
 </div>
 <div class="widget archive form widget-editable viziwyg-section-1023 inpage-widget-6138560 arcForm">
 <ul>
-<li class="day first"><a href="http://www.independent.co.uk/dayinapage/?day=25&amp;month=12&amp;year=2011" title="Sun">Sun</a></li>
-<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=26&amp;month=12&amp;year=2011" title="Mon">Mon</a></li>
-<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=27&amp;month=12&amp;year=2011" title="Tue">Tue</a></li>
-<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=28&amp;month=12&amp;year=2011" title="Wed">Wed</a></li>
-<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=22&amp;month=12&amp;year=2011" title="Thu">Thu</a></li>
-<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=23&amp;month=12&amp;year=2011" title="Fri">Fri</a></li>
-<li class="day last"><a href="http://www.independent.co.uk/dayinapage/?day=24&amp;month=12&amp;year=2011" title="Sat">Sat</a></li>
+<li class="day first"><a href="http://www.independent.co.uk/dayinapage/?day=24&amp;month=6&amp;year=2012" title="Sun">Sun</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=25&amp;month=6&amp;year=2012" title="Mon">Mon</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=26&amp;month=6&amp;year=2012" title="Tue">Tue</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=27&amp;month=6&amp;year=2012" title="Wed">Wed</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=21&amp;month=6&amp;year=2012" title="Thu">Thu</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=22&amp;month=6&amp;year=2012" title="Fri">Fri</a></li>
+<li class="day last"><a href="http://www.independent.co.uk/dayinapage/?day=23&amp;month=6&amp;year=2012" title="Sat">Sat</a></li>
 </ul>
 <div class="form">
 <form method="GET" action="http://www.independent.co.uk/dayinapage/">
@@ -1433,8 +1231,8 @@ google_ad_type = 'text';
 <option value="24">24</option>
 <option value="25">25</option>
 <option value="26">26</option>
-<option value="27">27</option>
-<option value="28" selected="selected">28</option>
+<option value="27" selected="selected">27</option>
+<option value="28">28</option>
 <option value="29">29</option>
 <option value="30">30</option>
 <option value="31">31</option>
@@ -1445,13 +1243,13 @@ google_ad_type = 'text';
 <option value="3">March</option>
 <option value="4">April</option>
 <option value="5">May</option>
-<option value="6">June</option>
+<option value="6" selected="selected">June</option>
 <option value="7">July</option>
 <option value="8">August</option>
 <option value="9">September</option>
 <option value="10">October</option>
 <option value="11">November</option>
-<option value="12" selected="selected">December</option>
+<option value="12">December</option>
 </select>
 <select name="year" id="f_year">
 <option value="1992">1992</option>
@@ -1473,17 +1271,18 @@ google_ad_type = 'text';
 <option value="2008">2008</option>
 <option value="2009">2009</option>
 <option value="2010">2010</option>
-<option value="2011" selected="selected">2011</option>
+<option value="2011">2011</option>
+<option value="2012" selected="selected">2012</option>
 </select>
 <button type="submit">Go</button>
 </fieldset>
 </form>
 </div>
 </div>
-</em></div><em>
+</div>
 <div class="clear"> </div>
-</em></div><em>
-</em></div><em>
+</div>
+</div>
 <div id="bottom">
 <div class="widget filmstrip imagetext widget-editable viziwyg-section-1023 inpage-widget-5054673 greyRulerBottom greyRuler ">
 <a class="prev browse left"></a>
@@ -1491,113 +1290,113 @@ google_ad_type = 'text';
 <div class="items">
 <div class="page h148" style="width: 815.0px;">
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/appeals/indy-appeal/independent-appeal-loving-support-when-families-struck-by-illness-most-need-it-6282053.html">
-<img alt="Independent Appeal: Loving support when families struck by illness most need it" src="http://www.independent.co.uk/incoming/article6281982.ece/ALTERNATES/w148/Pg-19-appeal-terri.jpg" width="148" height="222" class="" rel="div-caption-1">
+<a href="http://www.independent.co.uk/life-style/history/victorian-mugshots-reveal-nineteenth-century-interest-in-criminal-anthropology-7892823.html">
+<img alt="Victorian mugshots reveal nineteenth century interest in criminal anthropology" src="http://www.independent.co.uk/incoming/article7893077.ece/ALTERNATES/w148/victorian.jpg" width="148" height="222" class="" rel="div-caption-1">
 </a>
 <div class="" id="div-caption-1">
-<h2 class="fs_title">Independent Christmas Appeal</h2> <div class="fs_body">Loving support when families struck by illness most need it</div> </div>
+<h2 class="fs_title">Victorian criminal mugshots</h2> <div class="fs_body">Images show nineteenth prisoners as young as 12 </div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/world/africa/gaddafis-fatal-delay-libya-6282130.html">
-<img alt="Gaddafi's fatal delay: Libya" src="http://www.independent.co.uk/incoming/article6282197.ece/ALTERNATES/w148/Pg-23-libyan-afp.jpg" width="148" height="222" class="" rel="div-caption-2">
+<a href="http://www.independent.co.uk/news/people/profiles/michelle-rhee-witchfinder-general-of-americas-classrooms-flies-in-to-give-gove-her-gospel-7888973.html">
+<img alt="Michelle Rhee: 'Witchfinder general' of America's classrooms flies in to give Gove her gospel" src="http://www.independent.co.uk/incoming/article7888943.ece/ALTERNATES/w148/pg-4-witchfinder-ireland.jpg" width="148" height="222" class="" rel="div-caption-2">
 </a>
 <div class="" id="div-caption-2">
-<h2 class="fs_title">Year of revolution: Gaddafi's fatal delay</h2> <div class="fs_body">In the third part of a series, Kim Sengupta, who reported extensively on the Libyan conflict, reflects on the dramatic reversal that changed the country forever</div> </div>
+<h2 class="fs_title">Michelle Rhee interview</h2> <div class="fs_body">'Witchfinder general' of America's classrooms flies in to give Gove her gospel</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/world/africa/mandelas-heir-defies-court-order-and-the-other-mrs-mandela-to-marry-again-6282133.html">
-<img alt="Mandela's heir defies court order (and the other Mrs Mandela) to marry again" src="http://www.independent.co.uk/incoming/article6281978.ece/ALTERNATES/w148/Pg-25-mandela-1-afp.jpg" width="148" height="222" class="" rel="div-caption-3">
+<a href="http://www.independent.co.uk/news/world/asia/bored-brave-and-brilliant-the-uk-medics-in-the-afghan-war-zone-7888907.html">
+<img alt="Bored, brave and brilliant: the UK medics in the Afghan war zone" src="http://www.independent.co.uk/incoming/article7888926.ece/ALTERNATES/w148/pg-24-medics-1.jpg" width="148" height="222" class="" rel="div-caption-3">
 </a>
 <div class="" id="div-caption-3">
-<h2 class="fs_title">Mandela's heir defies court order (and the other Mrs Mandela) to marry again</h2> <div class="fs_body">Clan chief wed in traditional ceremony says estranged partner is delaying divorce</div> </div>
+<h2 class="fs_title">Bored, brave and brilliant</h2> <div class="fs_body">The UK medics in the Afghan war zone</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/education/education-news/schools-head-hails-magic-of-learning-via-smartphone-6282186.html">
-<img alt="Schools head hails 'magic' of learning via smartphone" src="http://www.independent.co.uk/incoming/article6282205.ece/ALTERNATES/w148/Pg-9-schools-rex.jpg" width="148" height="222" class="" rel="div-caption-4">
+<a href="http://www.independent.co.uk/news/world/africa/peace-returns-to-mogadishu-7888917.html">
+<img alt="Peace returns to Mogadishu" src="http://www.independent.co.uk/incoming/article7888884.ece/ALTERNATES/w148/pg-32-mogadishu-1.jpg" width="148" height="222" class="" rel="div-caption-4">
 </a>
 <div class="" id="div-caption-4">
-<h2 class="fs_title">Schools head hails 'magic' of learning via smartphone</h2> <div class="fs_body">Traditional textbooks will disappear in the age of electronic devices, says Girls Schools' chief</div> </div>
+<h2 class="fs_title">Peace returns to Mogadishu</h2> <div class="fs_body">Liberated from Islamist militants, the Somali capital is recovering from the ravages of war</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/arts-entertainment/films/news/the-midlife-crisis-that-turned-into-a-600film-odyssey-6282188.html">
-<img alt="The midlife crisis that turned into a 600-film odyssey" src="http://www.independent.co.uk/incoming/article6282120.ece/ALTERNATES/w148/Pg-11-fighter-rex.jpg" width="148" height="222" class="" rel="div-caption-5">
+<a href="http://www.independent.co.uk/arts-entertainment/music/news/too-posh-to-push-a-musical-victoria-beckham-leaves-reunion-after-just-10-minutes-7888980.html">
+<img alt="Spice Girls reunited (for 10 minutes – that's all Victoria could spare)" src="http://www.independent.co.uk/incoming/article7888942.ece/ALTERNATES/w148/pg-2-spice-girls-rex.jpg" width="148" height="222" class="" rel="div-caption-5">
 </a>
 <div class="" id="div-caption-5">
-<h2 class="fs_title">The midlife crisis that turned into a 600-film odyssey</h2> <div class="fs_body">Man attempts to watch every new release over the last 12 months</div> </div>
+<h2 class="fs_title">Too posh to push a musical? Victoria leaves reunion after just 10 minutes</h2> <div class="fs_body">Nick Clark sees five become one again (briefly) to launch the new Spice Girls show</div> </div>
 </div>
 </div>
 <div class="page h148" style="width: 815.0px;">
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/people/profiles/george-north-welsh-wonder-wing-who-made-giant-strides-at-world-cup-6282030.html">
-<img alt="George North: Welsh wonder wing who made giant strides at World Cup" src="http://www.independent.co.uk/incoming/article6281969.ece/ALTERNATES/w148/Pg-48s-george-getty.jpg" width="148" height="222" class="" rel="div-caption-6">
+<a href="http://www.independent.co.uk/travel/europe/simon-calder-cheap-but-cheerful-or-a-summer-of-discontent-for-tourists-in-greece-7888755.html">
+<img alt="Greece: A summer of discontent?" src="http://www.independent.co.uk/incoming/article7888623.ece/ALTERNATES/w148/greece.jpg" width="148" height="222" class="" rel="div-caption-6">
 </a>
 <div class="" id="div-caption-6">
-<h2 class="fs_title">George North interview</h2> <div class="fs_body">Welsh wonder wing who made giant strides at World Cup</div> </div>
+<h2 class="fs_title">Greece: A summer of discontent?</h2> <div class="fs_body">Greece is as open to visitors as it has ever been, says Simon Calder</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/sport/football/scottish/old-firm-have-never-been-more-belittled-than-now-6282037.html">
-<img alt="Old Firm have never been more belittled than now" src="http://www.independent.co.uk/incoming/article6282068.ece/ALTERNATES/w148/Pg-52s-oldfirm1-getty.jpg" width="148" height="222" class="" rel="div-caption-7">
+<a href="http://www.independent.co.uk/news/business/analysis-and-features/squeaky-clean-mclaren-gearing-up-for-growth-7888954.html">
+<img alt="Squeaky clean Mclaren gearing up for growth" src="http://www.independent.co.uk/incoming/article7888879.ece/ALTERNATES/w148/pg-50-mclaren.jpg" width="148" height="222" class="" rel="div-caption-7">
 </a>
 <div class="" id="div-caption-7">
-<h2 class="fs_title">Old Firm have never been more belittled than now</h2> <div class="fs_body">They meet tonight but these are taxing times for Rangers and Celtic, whose status has been diminished to 'feeder clubs for the big boys down south'</div> </div>
+<h2 class="fs_title">Made in Britain Part three: Car industry</h2> <div class="fs_body">Squeaky clean Mclaren gearing up for growth</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/life-style/food-and-drink/features/the-10-best-party-foods-6281990.html">
-<img alt="The 10 best party foods" src="http://www.independent.co.uk/incoming/article6282085.ece/ALTERNATES/w148/Ten-best-1.jpg" width="148" height="222" class="" rel="div-caption-8">
+<a href="http://www.independent.co.uk/sport/tennis/keep-off-the-grass-why-you-wont-be-seeing-these-tennis-players-at-wimbledon-7888906.html">
+<img alt="Keep off the grass! Why you won't be seeing these tennis players at Wimbledon" src="http://www.independent.co.uk/incoming/article7888930.ece/ALTERNATES/w148/pg-22-wheelchair-tennis-getver2.jpg" width="148" height="222" class="" rel="div-caption-8">
 </a>
 <div class="" id="div-caption-8">
-<h2 class="fs_title">The 10 best party foods</h2> <div class="fs_body">If you’ve slaved over a hot stove this Christmas, these ready-made bites are a treat for hosts as well as guests</div> </div>
+<h2 class="fs_title">Keep off the grass!</h2> <div class="fs_body">Why you won't be seeing wheelchair tennis players at Wimbledon</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/travel/skiing/feel-the-fear-and-ski-anyway-6281988.html">
-<img alt="Feel the fear and ski anyway" src="http://www.independent.co.uk/incoming/article6282075.ece/ALTERNATES/w148/ski-getty.jpg" width="148" height="222" class="" rel="div-caption-9">
+<a href="http://www.independent.co.uk/travel/uk/these-routes-are-made-for-walking-7888753.html">
+<img alt="These routes are made for walking" src="http://www.independent.co.uk/incoming/article7888630.ece/ALTERNATES/w148/walking.jpg" width="148" height="222" class="" rel="div-caption-9">
 </a>
 <div class="" id="div-caption-9">
-<h2 class="fs_title">Feel the fear and ski anyway</h2> <div class="fs_body">Tracey Davies found the prospect of the piste terrifying, but a chance encounter cured her</div> </div>
+<h2 class="fs_title">These routes are made for walking</h2> <div class="fs_body">Exploring Britain's glorious countryside is easy – just lace up your boots and take a holiday on foot</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/arts-entertainment/theatre-dance/reviews/political-theatres-final-curtain-6281993.html">
-<img alt="Political theatre's final curtain" src="http://www.independent.co.uk/incoming/article6282099.ece/ALTERNATES/w148/Political-theatre-1-free.jpg" width="148" height="222" class="" rel="div-caption-10">
+<a href="http://www.independent.co.uk/arts-entertainment/music/features/music-your-face-here-whether-you-like-it-or-not-7888908.html">
+<img alt="Music: Your face here (whether you like it or not)" src="http://www.independent.co.uk/incoming/article7888892.ece/ALTERNATES/w148/pg-26-face-1.jpg" width="148" height="222" class="" rel="div-caption-10">
 </a>
 <div class="" id="div-caption-10">
-<h2 class="fs_title">Political theatre's final curtain</h2> <div class="fs_body">Drama has lost its power to make a difference</div> </div>
+<h2 class="fs_title">Your face here (whether you like it or not)</h2> <div class="fs_body">Want to appear on a hit album? Perhaps not if it's the result of your baby portrait or candid party snap being sold to a band. Gillian Orr profiles the reluctant cover stars</div> </div>
 </div>
 </div>
 <div class="page h148" style="width: 815.0px;">
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/world/politics/after-the-spring-the-thaw-egypt-6281824.html">
-<img alt="After the spring, the thaw: Egypt" src="http://www.independent.co.uk/incoming/article6281766.ece/ALTERNATES/w148/Pg-28-egypt-rex.jpg" width="148" height="222" class="" rel="div-caption-11">
+<a href="http://www.independent.co.uk/travel/news-and-advice/the-10-best-beach-towels-7888756.html">
+<img alt="The 10 Best beach towels" src="http://www.independent.co.uk/incoming/article7888606.ece/ALTERNATES/w148/101boldstripe.jpg" width="148" height="222" class="" rel="div-caption-11">
 </a>
 <div class="" id="div-caption-11">
-<h2 class="fs_title">After the spring, the thaw</h2> <div class="fs_body">In the second part of our series, Alastair Beach looks back at the sense of euphoria and then disillusionment that swept Cairo</div> </div>
+<h2 class="fs_title">The 10 Best beach towels</h2> <div class="fs_body">From big and brash to dandelions and Ed Ruscha</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/appeals/indy-appeal/independent-appeal-the-project-that-could-prevent-another-charlene-downes-from-disappearing-6281815.html">
-<img alt="Independent Appeal: The project that could prevent another Charlene Downes from disappearing" src="http://www.independent.co.uk/incoming/article6281787.ece/ALTERNATES/w148/Pg-22-charlene-pa.jpg" width="148" height="222" class="" rel="div-caption-12">
+<a href="http://www.independent.co.uk/arts-entertainment/music/features/how-to-snatch-triumph-from-the-jaws-of-disaster-7888790.html">
+<img alt="How to snatch triumph from the jaws of disaster" src="http://www.independent.co.uk/incoming/article7888620.ece/ALTERNATES/w148/rapver2.jpg" width="148" height="222" class="" rel="div-caption-12">
 </a>
 <div class="" id="div-caption-12">
-<h2 class="fs_title">Independent Appeal</h2> <div class="fs_body">An innovative scheme to help locate runaway teenagers</div> </div>
+<h2 class="fs_title">Testing, testing?... Hello??</h2> <div class="fs_body"> Elisa Bray on the gigs that went wrong, brilliantly</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/people/news/making-headlines-help--im-on-the-news-6281839.html">
-<img alt="Making headlines: Help – I’m on the news!" src="http://www.independent.co.uk/incoming/article6281729.ece/ALTERNATES/w148/news-Sian-Massey+reu.jpg" width="148" height="222" class="" rel="div-caption-13">
+<a href="http://www.independent.co.uk/sport/football/news-and-comment/james-lawton-its-all-about-cristiano-ronaldo-and-thats-how-he-likes-it-7888860.html">
+<img alt="James Lawton: It's all about Ronaldo... and that's how he likes it" src="http://www.independent.co.uk/incoming/article7888819.ece/ALTERNATES/w148/pg-64-lawton-getty.jpg" width="148" height="222" class="" rel="div-caption-13">
 </a>
 <div class="" id="div-caption-13">
-<h2 class="fs_title">Making headlines: Help – I’m on the news!</h2> <div class="fs_body">From a runaway labrador to a pie-throwing comic, Tim Walker recalls those who emerged from obscurity </div> </div>
+<h2 class="fs_title">James Lawton</h2> <div class="fs_body">It's all about Ronaldo... and that's how he likes it</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/environment/nature/the-year-of-strange-weather-6281899.html">
-<img alt="The year of strange weather" src="http://www.independent.co.uk/incoming/article6281836.ece/ALTERNATES/w148/Pg-19-strange3-alamy.jpg" width="148" height="222" class="" rel="div-caption-14">
+<a href="http://www.independent.co.uk/sport/tennis/nick-bollettieris-wimbledon-files-my-boy-ryan-harrison-has-fighting-attitude-to-take-on-novak-djokovic-7888863.html">
+<img alt="Nick Bollettieri's Wimbledon Files: My boy Ryan has fighting attitude to take on Djokovic" src="http://www.independent.co.uk/incoming/article7888823.ece/ALTERNATES/w148/pg-66-bollettieri-getty.jpg" width="148" height="222" class="" rel="div-caption-14">
 </a>
 <div class="" id="div-caption-14">
-<h2 class="fs_title">The year of strange weather </h2> <div class="fs_body">From a baking-hot spring to a chilly summer, 2011 played havoc with our plans, our wardrobes – and our native wildlife</div> </div>
+<h2 class="fs_title">Nick Bollettieri's Wimbledon Files</h2> <div class="fs_body">My boy Ryan has fighting attitude to take on Djokovic</div> </div>
 </div>
 <div class="item w148">
-<a href="http://www.independent.co.uk/news/people/profiles/scott-caan-on-the-crest-of-a-crime-wave-6281844.html">
-<img alt="Scott Caan: On the crest of a crime wave" src="http://www.independent.co.uk/incoming/article6281768.ece/ALTERNATES/w148/Scott-caan-1-getty.jpg" width="148" height="222" class="" rel="div-caption-15">
+<a href="http://www.independent.co.uk/sport/general/others/steve-bunce-on-boxing-vitalis-farewell-fight-is-against-a-carriage-clock-of-an-opponent-7888843.html">
+<img alt="Steve Bunce on Boxing: Vitali's farewell fight is against a carriage clock of an opponent" src="http://www.independent.co.uk/incoming/article7888805.ece/ALTERNATES/w148/pg-58-farewell-fight-getty.jpg" width="148" height="222" class="" rel="div-caption-15">
 </a>
 <div class="" id="div-caption-15">
-<h2 class="fs_title">Scott Caan: On the crest of a crime wave</h2> <div class="fs_body">His performances in TV's Hawaii Five-O have wowed critics and fans all over the world</div> </div>
+<h2 class="fs_title">Steve Bunce on Boxing</h2> <div class="fs_body">Vitali's farewell fight is against a carriage clock of an opponent</div> </div>
 </div>
 </div>
 </div>
@@ -1635,20 +1434,20 @@ Terms &amp; Policies </a> </li>
 <a href="http://www.independent.co.uk/service/privacy-policy-759574.html">
 Privacy Policy </a> </li>
 <li class="-nav ">
+<a href="http://www.independent.co.uk/service/cookie-policy-7785164.html ">
+Cookie policy </a> </li>
+<li class="-nav ">
 <a href="http://www.independent.co.uk/service/evening-standard-limited-and-independent-print-limited--code-of-conduct-6280644.html">
 Code of Conduct </a> </li>
 <li class="-nav ">
-<a href="http://www.independent.co.uk/service/sign-up-for-our-indynews-email-service-759590.html">
-Email newsletter </a> </li>
+<a href="http://www.independent.co.uk/service/sign-up-for-our-free-indy-newsletters-7447014.html">
+Email newsletters </a> </li>
 <li class="-nav ">
 <a href="http://www.independent.co.uk/service/list-of-rss-feeds-775086.html">
 RSS </a> </li>
 <li class="-nav ">
 <a href="http://www.independent.co.uk/service/contact-us-759589.html">
 Contact us </a> </li>
-<li class="-nav ">
-<a href="http://www.independent.co.uk/service/independent-syndication-915183.html">
-Syndication </a> </li>
 </ul>
 </div>
 <div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054705">
@@ -1657,27 +1456,39 @@ Syndication </a> </li>
 <a href="http://www.independent.co.uk/subscriptions/">
 Subscriptions </a> </li>
 <li class="-nav ">
-<a href="http://www.independent.co.uk/service/work-for-inm-759587.html">
-Jobs </a> </li>
+<a href="http://www.independent.co.uk/incoming/independent-mobile-apps-7615278.html" target="_blank">
+Apps </a> </li>
 <li class="-nav ">
-<a href="http://www.thisislondon.co.uk/standard" target="_blank">
+<a href="http://www.independent.co.uk/service/work-for-inm-759587.html">
+Work for us </a> </li>
+<li class="-nav ">
+<a href="http://www.standard.co.uk/" target="_blank">
 Evening Standard </a> </li>
 <li class="-nav ">
 <a href="http://www.homesandproperty.co.uk/" target="_blank">
 Homes &amp; Property </a> </li>
 <li class="-nav ">
-<a href="http://www.londoncareers.net/" target="_blank">
-London Careers </a> </li>
+<a href="http://ijobs.independent.co.uk/" target="_blank">
+iJobs </a> </li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/advertising-guide/">
+Advertising Guide </a> </li>
 </ul>
 </div>
 <div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054710">
 <ul class="main-level">
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/independent-syndication-915183.html">
+Syndication </a> </li>
 <li class="-nav ">
 <a href="http://en.novayagazeta.ru/" target="_blank">
 Novaya Gazeta (English) </a> </li>
 <li class="-nav ">
 <a href="http://www.thejournalismfoundation.com/" target="_blank">
 The Journalism Foundation </a> </li>
+<li class="-nav ">
+<a href="http://www.es-bc.co.uk" target="_blank">
+ES Business Connections </a> </li>
 </ul>
 </div>
 </div>
@@ -1794,37 +1605,37 @@ alert("Search word should not start with !@#$%^&*()+=-[]\\\';,./{}|\":<>?~_");
 </div>
 </div>
 </div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-7681317">
+<script src="http://tags.crwdcntrl.net/c/991/cc.js?ns=_cc991" id="LOTCC_991"></script>
+<script>
+_cc991.bcp();
+</script>
+</div>
 <script type="text/javascript" language="javascript" src="http://js.revsci.net/gateway/gw.js?csid=D05509" charset="ISO-8859-1"></script>
 <script type="text/javascript">
 DM_tag();
 </script>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2011 Nielsen Online -->
+<script type="text/javascript">
+(function () {
+var d = new Image(1, 1);
+d.onerror = d.onload = function () {
+d.onerror = d.onload = null;
+};
+d.src = ["//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-805619h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+</script>
+<noscript>
+<div>
+<img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-805619h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+width="1" height="1" alt="" />
 </div>
-</em></div><em>
-</em></div><em>
-<!-- Start Omniture Tracking Code -->
-<script type="text/javascript" src="/template/custom/footer/catalyst.js"></script>
-<script type="text/javascript"><!--
-s.pageName="service/article6184927";
-s.server="www.independent.co.uk";
-s.channel="service";
-s.prop1="";
-s.prop2="";
-s.prop3="";
-s.hier1="service";
-s.pageType="";
-s.prop11="Privacy policy";
-s.prop12="privacy-policy-759574.html";
-s.prop13="";
-s.prop16="Tuesday, 27 November 2007";
-s.events="event7";
-s.prop22="D=User-Agent";
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)
-//--></script>
-<noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://indepdev.122.2O7.net/b/ss/indepdev/1/H.19.3--NS/0?[AQB]&cdp=3&[AQE]&pageName=http://www.independent.co.uk/service/Privacy policy"
-height="1" width="1" border="0" alt="" /></a></noscript>
-<!-- End Omniture Tracking Code -->
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+</div>
+</div>
+</div>
 
 
-</em></body></html>
+</body></html>
