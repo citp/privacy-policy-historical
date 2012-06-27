@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegasaur.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227084247id_/http%3A//vegasaur.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasaur.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627215305id_/http%3A//vegasaur.com/privacy) for the most accurate reproduction.*
 
 # Vegasaur Privacy Statement
 
@@ -23,3 +23,6 @@ We do not partner with or have special relationships with any ad server companie
 If we change our privacy policy, we will post those changes on the Site so that users are always aware of what information we collect, how we use it, and under what circumstances, if any, we will disclose it. Any such posted changes will be effective upon the date indicated by the posting.
 
 **Last Updated:** April 2010
+
+  
+
