@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the spyghana.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601184450id_/http%3A//www.spyghana.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyghana.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627061444id_/http%3A//spyghana.com/privacy-cookies) for the most accurate reproduction.*
 
-# All about Ghana: business, culture, education, government,entertainment,Special reports,videos, top stories,audio,latest news and background information about the country Ghana. | SpyGhana.com
-
-**
-
-[](http://www.spyghana.com/wp-content/uploads/2011/03/spy-gh-copy.jpg)
-
-Spy Ghana Logo
-
-**
+# Privacy & Cookies | Ghana Homepage | Breaking News Updates | Latest Ghana News Headlines | Photos & News Videos
 
 **Privacy Policy:**
 
@@ -32,4 +24,4 @@ From time to time we partner with third party service providers to offer additio
 
 **Changes to our Privacy Policy:**
 
-We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry. For any questions or comments concerning thewillnigeria.com Privacy Policy, please send email to [info@spyghana.com](mailto:info@spyghana.com)
+We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry.
