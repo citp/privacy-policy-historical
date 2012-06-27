@@ -1,32 +1,35 @@
-> *The following text is extracted and transformed from the ezcater.com privacy policy that was archived on 2011-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111029024126id_/http%3A//www.ezcater.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezcater.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628005156id_/http%3A//www.ezcater.com/privacy_policy) for the most accurate reproduction.*
 
 # Catering Services | Caterer Reviews | ezCater
 
+|  **July 4 holiday:** Please place all Thursday July 5 orders BEFORE MIDDAY TUESDAY or they may fail. ezCater and most caterers are closed on July 4, partying just like you are. Thanks. [Dismiss]  
+---|---  
+  
 **ezCater Privacy Policy**
 
 **You control what we do with your personal information.**
 
 **What information do we collect?**
 
-So we can serve you, you give us information such as your contact or billing information, or details about orders or medical office needs. In addition, we log interactions such as visits to our website, orders placed, and communications among you, us, and third parties such as food providers, delivery companies, delivery addresses, and customers. 
+So we can serve you, you give us information such as your contact or billing information, or details about orders or client needs. In addition, we log interactions such as visits to our website, orders placed, and communications among you, us, and third parties such as food providers, delivery companies, and delivery locations. 
 
 **How do we protect your information?**
 
 We use state-of-the-art protection. All password and billing information you provide on our website is transmitted via a secure connection called "Secure Sockets Layer (SSL) with 128-bit encryption", and then stored in a secure environment. 
 
-We also use "cookies" (small text files stored on your computer), solely to allow you to order more quickly. You can always delete our cookies by following the instructions in your browser's help section. 
+We use "cookies" (small text files stored on your computer), solely to allow you to order more quickly. You can always delete ezCater cookies by following the instructions in your browser's help section. 
 
-Almost all sharing of your information is simply to support fulfillment of orders. For instance, we communicate order details among the rep, the food provider, and the delivery service. Or, we might communicate with various parties about an order's status or changes. 
+Almost all sharing of your information is to support fulfillment of orders. For instance, we communicate order details, order status, or order changes to the food provider, any delivery service, and perhaps also to the party receiving the food. 
 
-If you are a rep, you may receive communications about promotions or new food providers available to you. ez _Rewards_ ™ members can expect to receive communications relating to that program. And we may share your contact (but never your billing) information with selected third parties whose offers we believe you may value. 
+If you place orders with us, you may receive communications regarding status updates, promotions, newly-available food providers, etc. ez _Rewards_ ™ members can receive communications relating to that program. And unless you opt out, we may share your contact (but never your billing) information with selected third parties whose offers we believe you may value. 
 
-If you are a medical office, your office information and dietary needs will be communicated to customers, food providers, or delivery companies so they can serve you. 
+If you are the recipient of food ordered through ezCater, your delivery-related information and dietary needs may be communicated to food providers, delivery companies, or other parties as needed so they can serve you. 
 
 **You control your information**
 
-You can always edit your information in the "My Account" page. You can also opt in or out of our sharing of your personal information with third parties. Email us at [support@ezcater.com](mailto:support@ezcater.com) to change how we use your information. 
+You can always edit your information in the "My Account" page. On that page, you can also opt in or out of our sharing of your personal information with third parties. Or, email us at [support@ezcater.com](mailto:support@ezcater.com) to change how we use your information. 
 
-We reserve the right to convey to third parties information that has been modified so it is not possible to trace the information back to a specific person or company. 
+We reserve the right to convey to third parties information that has been modified so the information cannot be traced back to a specific person or company. 
 
 We must disclose your information if required by law or subpoena, or if needed to defend the rights, property or safety of our users, our related parties, or ourselves. We may transfer your information in the course of a corporate divestiture, merger, or dissolution. 
 
