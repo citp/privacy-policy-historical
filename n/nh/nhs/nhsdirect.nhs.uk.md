@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhsdirect.nhs.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204921id_/http%3A//www.nhsdirect.nhs.uk/en/About/TermsAndConditions/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhsdirect.nhs.uk privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627145719id_/http%3A//www.nhsdirect.nhs.uk/en/About/TermsAndConditions/PrivacyPolicy) for the most accurate reproduction.*
 
 # NHS Direct - Privacy policy
 
@@ -72,10 +72,6 @@ Cookies also enable the website to remember the answers you have given to the qu
 
 We will not use information from cookies for any other purpose than those outlined above. NHS Direct will not use cookies or IP addresses to identify individuals.
 
-You may disable the use of cookies in your Internet browser but this may affect your use of some features of this website as outlined above. 
-
-For more information on cookies visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/).
-
 ### If you would prefer not to allow cookies
 
 If you have a health related query or are concerned about symptoms you may have, but do not want our website to use cookies to store information on your device, you can call our telephone helpline service on 0845 4647 for health related advice. We are available to take your call 24-hours a day, every day. Calls to NHS Direct cost around 5p/min from a BT landline but charges from other network providers may vary.
@@ -104,11 +100,11 @@ E1 8EU
 
 Telephone: 020 7599 4200
 
-You can also submit an enquiry using [contact us](https://web.archive.org/en/About/ContactUs).
+You can also submit an enquiry using [contact us](https://web.archive.org/About/ContactUs).
 
-Further details about your rights under the Data Protection Act can be accessed on the [Information Commissioner’s Office (ICO) website](https://web.archive.org/en/sitecore/content/ExternalLinks/Information%20Commissioners%20Office).
+Further details about your rights under the Data Protection Act can be accessed on the [Information Commissioner’s Office (ICO) website](https://web.archive.org/sitecore/content/ExternalLinks/Information%20Commissioners%20Office).
 
 ### Contacting us
 
-This website is operated by NHS Direct. If you have any queries relating to this policy, please [contact us](https://web.archive.org/en/About/ContactUs).  
+This website is operated by NHS Direct. If you have any queries relating to this policy, please [contact us](https://web.archive.org/About/ContactUs).  
 
