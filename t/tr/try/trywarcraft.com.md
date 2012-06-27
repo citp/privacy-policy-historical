@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trywarcraft.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216131703id_/http%3A//eu.blizzard.com/en-gb/company/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trywarcraft.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627170735id_/http%3A//eu.blizzard.com/en-gb/company/about/privacy.html) for the most accurate reproduction.*
 
 # Blizzard Entertainment: Privacy Policy
 
@@ -91,6 +91,11 @@ As a general rule, Blizzard will not forward your information to a third party w
 
 As with any business, your personal information is also an asset of Blizzard and will become part of our normal business records. As such, in the event of a merger, acquisition, reorganization, bank-ruptcy, or other similar event, your personal information may be transferred to Blizzard 's successor or assignee. 
 
+### What is Global Play?
+
+  
+Certain Blizzard games playable on Blizzard’s Battle.net service feature “Global Play,” which allows you to play with other players who are outside of the region associated with the creation of your Battle.net account. The Global Play feature requires that some or all of the personal information that you provided when you created your Battle.net account be transferred to servers operated by Blizzard in the regions where you wish to play. Your personal information shall be kept safe and under an adequate level of protection within Blizzard and/or its contractor’s facilities. 
+
 ### What your rights are concerning the collection, use and distribution of your personal data?
 
   
@@ -98,7 +103,7 @@ Blizzard allows you to monitor the way in which we use the personal information 
 
 You can also contact us if you wish to change the way in which we use your personal information, i.e. whether Blizzard, the parent company or any subsidiary company can send you e-mails or standard mail regarding our products or services. 
 
-You can contact us at the following address: Blizzard Entertainment SAS, TSA 60 001, 78143 Vélizy Villacoublay Cedex France. You can also reach us [by telephone](http://eu.blizzard.com/support/article.xml?locale=en_GB&tag=contactbilling). Please state which services or publications you no longer wish to receive so that we can respond to your needs more effectively. 
+You can contact us at the following address: Blizzard Entertainment SAS, TSA 60 001, 78008 Versailles Cedex France. You can also reach us [by telephone](http://eu.blizzard.com/support/article.xml?locale=en_GB&tag=contactbilling). Please state which services or publications you no longer wish to receive so that we can respond to your needs more effectively. 
 
 ### What level of security is applied to your personal information?
 
@@ -108,7 +113,7 @@ Blizzard deems it a point of honour that the information you send us should be p
 ### What you should do if you wish to amend or review your personal information?
 
   
-If, for any reason, you are concerned about the way in which we collect your personal information, if you wish to access, amend or correct it, or if you want us to delete it from our servers, please contact Blizzard Entertainment SAS, TSA 60 001, 78143 Vélizy Villacoublay Cedex, France. You can also contact us [by telephone](http://eu.blizzard.com/support/article.xml?locale=en_GB&tag=contactbilling). Please note that the deletion of your data will lead to the termination of your account and applicable services. 
+If, for any reason, you are concerned about the way in which we collect your personal information, if you wish to access, amend or correct it, or if you want us to delete it from our servers, please contact Blizzard Entertainment SAS, TSA 60 001, 78008 Versailles Cedex, France. You can also contact us [by telephone](http://eu.blizzard.com/support/article.xml?locale=en_GB&tag=contactbilling). Please note that the deletion of your data will lead to the termination of your account and applicable services. 
 
 ### What you should do if you have any questions or complaints?
 
