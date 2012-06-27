@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workingmomsonly.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229161754id_/http%3A//www.workingmomsonly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingmomsonly.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627050428id_/http%3A//www.workingmomsonly.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy :: :: Working Moms Only ®
 
 **WorkingMomsOnly Statement**
 
@@ -26,7 +26,7 @@ Any e-mail you send to WorkingMomsOnly is completely confidential. We will not a
 
 You are welcome to participate in the WorkingMomsOnly Discussion Board. Please note that submitting your e-mail address or a URL is completely voluntary—but you do so at your own risk. While WorkingMomsOnly does not harvest e-mail addresses from the Discussion Board, there is nothing to prevent an unscrupulous company from doing so.
 
-You must submit a name to submit a message to the Discussion Board, but it does not have to be your name—aliases are completely acceptable as long as they are unique and not meant to impersonate another person (i.e., “MMF” is not acceptable). If you feel someone is impersonating you on our Discussion Board, please contact us by clicking here and we will take all necessary actions, including legal, to correct the matter.
+You must submit a name to submit a message to the Discussion Board, but it does not have to be your name—aliases are completely acceptable as long as they are unique and not meant to impersonate another person (i.e., "MMF" is not acceptable). If you feel someone is impersonating you on our Discussion Board, please contact us by clicking here and we will take all necessary actions, including legal, to correct the matter.
 
 We reserve the right to remove any messages from the Board which are advertisements to buy or sell securities, are unrelated ads for other products, which contain profanity or are otherwise illegal. But ultimately we cannot be held responsible for any claims made on our Discussion Board.
 
