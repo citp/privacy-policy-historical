@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viesearch.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220214956id_/http%3A//viesearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viesearch.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627060744id_/http%3A//viesearch.com/privacy) for the most accurate reproduction.*
 
-# Viesearch - Privacy Policy
+# Viesearch Privacy Policy
 
 ## Our staff and all members follow these rules
 
@@ -14,7 +14,7 @@ If we receive any complaints we will cooperate and investigate. Any violations o
 
 Anyone found to be using Viesearch to spam will be liable for any expenses incurred by Viesearch to reverse any actions taken by our ISP or other related services.
 
-### Any and all information we collect...
+## Any and all information we collect...
 
 · will be kept strictly confidential   
 · will not be sold, reused, rented, loaned, or otherwise disclosed
@@ -30,10 +30,6 @@ Viesearch does not use cookies at this time, however, some third party advertise
 ## Links
 
 Links to any external websites not owned by Viesearch do not apply to this privacy policy. We are not responsible for information or data collected outside Viesearch.
-
-## Contests and promotions
-
-From time to time Viesearch may conduct contests and promotions. Member participation is completely voluntary and never requires further personal information. Collected information may include contact details and demographic information, such as name, email, address, state, etc. This information will be used to notify the winners and award prizes.
 
 ## Newsletter
 
