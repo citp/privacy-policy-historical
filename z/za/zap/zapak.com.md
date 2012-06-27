@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapak.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229081438id_/http%3A//www.zapak.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapak.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627231631id_/http%3A//www.zapak.com/ppolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Zapak.com - Free online Games, Downloadable Games and more
 
@@ -31,6 +31,24 @@ Zapak also believes that the internet is an ever-evolving medium. We may periodi
 We use third-party advertisers to serve ads when you visit our Web sites. These advertisers may use information (excluding your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services which might interest you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:
 
 Several deceptive emails, websites, blogs etc. claiming to be from or associated with the Zapak Internet Sites may or are circulating on the Internet. These emails, websites, blogs etc. often include our logo, photos, links, content or other information from any of Zapak Internet Sites. Some emails, websites, blogs etc. call the user to provide login name, password etc. or that the user has won a prize/ gift or provide a method to commit illegal/ unauthorised act or deed or request detailed personal information or a payment of some kind. The sources and contents of these emails, websites, blogs etc. and accompanying materials are in no way associated with the Zapak Internet Sites. For your own protection, we strongly recommend not responding to emails or using websites, blogs etc. 
+
+**Additional Terms and Conditions for Facebook Apps**
+
+Your information: Your information is the information that's required when you sign up Apps from Zapak on Facebook, as well as the information you choose to share. 
+
+Registration information: When you sign up for Apps from Zapak on Facebook (“Apps”), you are required to provide your name, email address, birthday, and gender. 
+
+Information you choose to share: Your information also includes the information you choose to share on Facebook, such as when you post a status update, upload a photo, or comment on a friend's post. You add a friend, like a Page or a website, tag a place in your post, find friends using our contact importers, or indicate you are in a relationship. Your name, profile picture, networks, username and User ID are treated just like information you choose to make public. Your birthday allows us to do things like show you age-appropriate content and advertisements. 
+
+Information others share about you: Zapak receives information about you from your friends, such as when they tag you in a photo or at a location, or add you to a group. Zapak may also receive information about you from Apps you use, but only when you have given them permission. 
+
+Other information we receive about you: We also receive other types of information about you:  
+1\. Zapak receives various data about you, technical or general, including data of third party, whenever you use the Apps.  
+2\. Zapak also gets data from our advertising partners, customers and other third parties that helps us (or them) deliver ads, understand online activity, and generally make Apps better  
+3\. Zapak also puts together data from the information received on Apps we already have about you and your friends.   
+4\. Zapak provides your data received through Apps to third parties or use it commercially as may be required or for upgrading the Apps etc. 
+
+Dispute Resolution: All disputes shall be subject to Courts in Mumbai, India only in exclusion to all other courts. 
 
 Any questions or clarifications with respect to this Policy can be sent to Zapak at: legal@zapak.co.in or by normal/physical mail addressed to:
 
