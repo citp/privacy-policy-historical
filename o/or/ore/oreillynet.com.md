@@ -1,26 +1,21 @@
-> *The following text is extracted and transformed from the oreillynet.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208162736id_/http%3A//oreilly.com/oreilly/privacy.csp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oreillynet.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627111401id_/http%3A//oreilly.com/oreilly/privacy.csp) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-## O'Reilly Media Privacy Policy
-
-* * *
-
-  
-
-
-### Purpose and Scope
+## Purpose and Scope
 
 This policy discloses what information we gather about you when you visit any of our Web sites or buy product directly from us. It describes how we use that information and how you can control it. Our privacy policy addresses:
 
-Information O'Reilly gathers and tracks  
-Personal information  
-Aggregated tracking information  
-Cookies  
-Third Party Cookies  
-Third Party Advertising  
-Notification of Changes  
-How to update, correct, or delete your information
+  * Information O'Reilly gathers and tracks
+  * Personal information
+  * Aggregated tracking information
+  * Cookies
+  * Third Party Cookies
+  * Third Party Advertising
+  * Notification of Changes
+  * How to update, correct, or delete your information
+
+
 
 ### Information O'Reilly gathers and tracks
 
@@ -77,6 +72,6 @@ If we change our Privacy Policy, we will post those changes on oreilly.com. If w
 
 ### How to update, correct, or delete your information
 
-**Email** : To update or unsubscribe from our email newsletters or product announcements, go to [elists.oreilly.com](http://elists.oreilly.com/). To get help from a human, send email to [webmaster@oreilly.com](mailto:webmaster@oreilly.com?subject=) or call 800-998-9938 or 707-829-0515.
+**Email** : To update or unsubscribe from our email newsletters or product announcements, go to [elists.oreilly.com](http://elists.oreilly.com/). To get help from a human, send email to [accounts@oreilly.com](mailto:accounts@oreilly.com?subject=) or call 800-998-9938 or 707-829-0515.
 
 **Snailmail** : To change your address, delete your name from our mailing list (for paper catalogs or brochures) or to opt-out of third-party mail, send email to [catalog@oreilly.com](mailto:catalog@oreilly.com?subject=) or call 800-998-9938 or 707-829-0515.
