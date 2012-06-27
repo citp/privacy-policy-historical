@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailykos.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206155234id_/http%3A//dailykos.com/special/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailykos.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627204404id_/http%3A//www.dailykos.com/special/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,3 +22,7 @@ If you signed up for our email list you will receive email updates from Daily Ko
 <http://www.bluecollardistro.com/fixcraft/faq.php>
 
 Donations to Daily Kos are not tax-deductible. Daily Kos does not provide any goods or services in return for donations.
+
+Facebook/Twitter: Daily Kos allows users to connect their Facebook and Twitter logins with their Daily Kos logins. In doing so, we are only accessing Facebook’s and Twitter’s API to verify you are whom you say you are. We do not have access or store any private information.
+
+**Subscriptions:** Subscriptions can be canceled at anytime and you can manage your subscription from the user profile page. No refunds are given for canceled subscriptions, but any time remaining will be honored. If you're banned from posting or commenting on Daily Kos, your subscription will still be honored, but the no refund policy still applies even for lifetime subscribers. So be good! 
