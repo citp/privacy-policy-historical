@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetop10bestwebhosting.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151200id_/http%3A//thetop10bestwebhosting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetop10bestwebhosting.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628003737id_/http%3A//thetop10bestwebhosting.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Top 10 Best Web Hosting
 
@@ -12,7 +12,7 @@ The information we collect is used for review and then removed and discarded. It
 
 In regards to cookies: We use cookies to ensure visitors are not repeatedly shown the same information and to direct visitors to the correct location.
 
-If you don't want to receive e-mails from us now or in the future, please contact us via support (@) TheTop10BestWebHosting.com
+If you don't want to receive e-mails from us now or in the future, please contact us via support (@) TheTop10BestWebHosting.org
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
@@ -20,4 +20,4 @@ Upon request we provide site visitors with access to all information [including 
 
 In regards to security: We always use industry standard encryption technology when transferring and receiving consumer data exchanged with our site.
 
-If you believe that this website is not following its stated privacy policy, please contact us at support (@) TheTop10BestWebHosting.com
+If you believe that this website is not following its stated privacy policy, please contact us at support (@) TheTop10BestWebHosting.org
