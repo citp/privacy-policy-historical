@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okidata.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227014906id_/http%3A//www.okidata.com/mkt/html/nf/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okidata.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627105207id_/http%3A//www.okidata.com/mkt/html/nf/PrivacyStatement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
