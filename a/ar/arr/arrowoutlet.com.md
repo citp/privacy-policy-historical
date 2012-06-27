@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrowoutlet.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125054250id_/http%3A//www.arrowoutlet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrowoutlet.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627070819id_/http%3A//www.arrowoutlet.com/privacy) for the most accurate reproduction.*
 
 # Arrowoutlet.com -- The Premier Technology Discount Site -
 
@@ -53,8 +53,8 @@ You can access, review and change most of your personal information by logging o
 
 **Revoking Consent/Deleting Your Account**
 
-Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our General Terms and Conditions, and take other actions otherwise permitted by law.  
-You can delete or deactivate your ArrowOutlet account at any time. When you delete your membership, your personal data is removed from our database unless we are required to save the data. As a rule it takes two to three business days until your information is completely removed from all records.
+Upon your request to revoke consent, delete your account, or deactivate your account, we will deactivate your account and as soon as possible. Data will generally be retained for a 30 calendar days Grace Period. If you wish your data be removed earlier, you must request it at ArrowOutlet's sole discretion and explictly waive your Grace Period. Otherwise, after the grace period lapses, ArrowOutlet will remove your personal information based on your account activity and in accordance with applicable law as soon as possible. In many cases this is done within a month, and will generally be done before the end of seven months in accordance with internal procedure. We reserve the right to retain information on closed accounts pertaining to accounting recordkeeping. We do assure users of deactivated accounts that the majority of your personal identifying information and activity history will be permanently deleted for your privacy.   
+You can delete or deactivate your ArrowOutlet account at any time. We reserve the right to recycle usernames of deactivated users after the Grace Period.
 
 **The Use of Cookies at our Website**
 
@@ -63,7 +63,7 @@ ArrowOutlet uses so-called “cookies”, which are files that are stored on you
 **Security Measures**
 
 Your ArrowOutlet account and profile and the information contained therein are password protected. Please note that you are not permitted to provide your password to anyone else. ArrowOutlet will never ask for your password in e-mails that you receive unexpectedly or that you did not request. Please remember to log out of your account and to close your internet browser window when you leave the ArrowOutlet site; this is especially important if you use a PC in public locations. At present, this is the safest way to ensure that no one has access to your personal information. We assume no liability for the abuse of login data and passwords used.   
-Further, We treat data as an asset that must be protected. We use lots of security measures to protect your personal information against unauthorized access and disclosure. However, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+Further, We treat data as an asset that must be protected. We use numerous security measures to protect your personal information against unauthorized access and disclosure. However, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
 **Protection from Web Crawlers or Spam**
 
