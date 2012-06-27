@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the frugalfollies.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119013456id_/http%3A//www.frugalfollies.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalfollies.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628005845id_/http%3A//www.frugalfollies.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for frugalfollies.com - Frugal Follies
-
-###  [Privacy Policy for frugalfollies.com](http://www.frugalfollies.com/p/privacy.html)
 
 The privacy of our visitors to frugalfollies.com is important to us.
 
