@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourinvestmentpropertymag.com.au privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228192206id_/http%3A//www.yourinvestmentpropertymag.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourinvestmentpropertymag.com.au privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627124130id_/http%3A//www.yourinvestmentpropertymag.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Your Investment Property Australia
 
@@ -11,7 +11,7 @@ Key Media collects and uses your personal information to give you superior custo
 We collect information about you in several ways. For example, we might ask for your contact information when you correspond with us, register to attend a conference or event. In addition, when you register for a new Key Media conference, event or monthly update, we collect and store the information you provide in a secure database.
 
 **When we disclose personal information**  
-Because Key Media is a global company, your personal information may be shared with other Key Media business units in Singapore and Hong Kong. They will protect your personal information in accordance with the Key Media Customer Privacy Policy. Key Media may occasionally share your personal contact information with carefully selected partnering companies, to keep you informed about related announcements.
+Because Key Media is a global company, your personal information may be shared with other Key Media business units in Singapore and Canada. They will protect your personal information in accordance with the Key Media Customer Privacy Policy. Key Media may occasionally share your personal contact information with carefully selected partnering companies, to keep you informed about related announcements.
 
 **How we protect your personal information**  
 Key Media safeguards the security of the data you send us with physical, electronic, and managerial procedures. We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
