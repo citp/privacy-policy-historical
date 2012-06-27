@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229014656id_/http%3A//www.forbes.com/fdc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628014001id_/http%3A//www.forbes.com/fdc/privacy.html) for the most accurate reproduction.*
 
 # Forbes.com Privacy Statement
 
 ### FORBES.COM PRIVACY STATEMENT
 
-_Revised and posted as of: December 19, 2011_
+_Revised and posted as of: May 25, 2012_
 
 Forbes.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Forbes.com website and services. The Forbes.com website is owned and operated by Forbes.com LLC.
 
 Forbes has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us by email at [privacy@forbes.com](mailto:privacy@forbes.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Forbes complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Forbes has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Forbes’ certification, please visit <http://www.export.gov/safeharbor/>.
-
-If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://watchdog.truste.com/pvr.php?page=complaint>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
 The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site.
 
@@ -22,7 +20,7 @@ Our primary goal in collecting user information is to enhance your experience on
 
 #### What this Privacy Policy Covers
 
-This privacy policy covers the website and activities of Forbes.com. Subscriptions to Forbes.com investment newsletters also require payments. This privacy policy covers all these transactions as well. Other Forbes Digital sites linked to from this website have their own privacy statements which can be viewed on those sites.
+This privacy policy covers the website and activities of Forbes.com. Other Forbes Digital sites linked to from this website have their own privacy statements which can be viewed on those sites.
 
 Please be aware that Forbes.com sponsors, advertisers and partners or affiliates with co-branded modules or sections on Forbes.com may collect personally identifiable information about you while on our website. The information practices of those parties are not covered by this privacy statement. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by us.
 
@@ -32,7 +30,7 @@ Forbes.com users should also be aware that, when you voluntarily disclose person
 
 #### Voluntary Submission
 
-Forbes.com does not collect personally identifying information about any individual Forbes.com website user except when knowingly provided by such individual. For example, we may ask you for information, such as your e-mail address, title and industry when you register to become a member of Forbes.com. You may also provide information to Forbes.com in other contexts, including, for example, in order to register for the Forbes.com Attaché or to enter into a sweepstakes or promotion. In the event you order something from Forbes.com or one of our co-branded websites, we may request additional personal information, such as your address, telephone number and credit card information, in order to complete the purchase. We also supplement the data you provide to us with data from data append services. You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still visit most of the Forbes.com website, but you may be unable to access certain options and services. When you register or become a member of Forbes.com or provide information to Forbes.com in any other manner, you agree to provide only true, accurate, current and complete information.
+Forbes.com does not collect personally identifying information about any individual Forbes.com website user except when knowingly provided by such individual. For example, we may ask you for information, such as your e-mail address when you register to become a member of Forbes.com. You may also provide information to Forbes.com in other contexts, including, for example, on your member profile page and public profile URL or to enter into a sweepstakes or promotion. In the event you order something from Forbes.com or one of our co-branded websites, we may request additional personal information, such as your address, telephone number and credit card information, in order to complete the purchase. We also supplement the data you provide to us with data from data append services. You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still visit most of the Forbes.com website, but you may be unable to access certain options and services. When you register or become a member of Forbes.com or provide information to Forbes.com in any other manner, you agree to provide only true, accurate, current and complete information.
 
 #### Cookies
 
@@ -64,7 +62,7 @@ To develop and provide content and advertising to you that is targeted to your i
 
 #### To Provide Interactive Communications From Forbes.com
 
-To enhance your experience we may provide you with interactive communications, such as our electronic newsletters, to the e-mail address that you provide to us. Such interactive communications are provided only to those users who have expressly provided us with their permission to receive them as part of their user profile.
+To enhance your experience we may provide you with interactive communications, such as notifications of activity by topic or contributor to the e-mail address that you provide to us. Such interactive communications are provided only to those users who have expressly provided us with their permission to receive them as part of their user profile.
 
 From time to time we may provide e-mails highlighting new features, promotions or contests on the website to those users who have expressly provided us with their permission to send such communications as part of their user profile.
 
@@ -74,7 +72,7 @@ We respect the privacy of our users and shall not disclose or distribute our use
 
 #### Control of Your Information
 
-Registered users may change the information stored in their member profile such as e-mail address, zip code, country, title and industry, and they may elect to stop receiving newsletters or marketing material from Forbes.com or on behalf of external third party business partners. Users may choose to stop receiving such communications at any time by visiting the "Member Profile" page at <http://www.forbes.com/membership/editprofile.jhtml>, or by following instructions at the end of any such e-mail received.
+Registered users may change the information stored in their member profile such as image, full name, e-mail address, password, location, country and the topics and contributors they are following, and they may elect to stop receiving marketing material from Forbes.com or on behalf of external third party business partners. Users may choose to stop receiving such communications at any time by visiting their member profile page at <http://blogs.forbes.com/account/>, or by following instructions at the end of any such e-mail received.
 
 You may also request to delete your personal account if you wish to do so. Please email us at the contact information included below. We will respond to your request within 30 business days.
 
@@ -90,9 +88,11 @@ From time-to-time we may provide you the opportunity to participate in contests 
 
 We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-We also have features that allow you to send an e-mail to yourself and/or others about an item on our site. If you choose to use our e-mail referral service, you will be required to provide the e-mail address or addresses that will be used in the notification. Upon form submission an e-mail will be generated to your recipient(s) inviting them to visit the URL you have recommended. We do not store this information other than for the sole purpose of sending this one-time e-mail.
+You can log in to our site using sign-in services that bridge your social media login information with Forbes.com. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. These services give you the option to post information about your activities on this website to your profile page to share with others within your network.
 
-Widgets are small content modules that users can embed on their own sites. We offer widgets that are hosted on Forbes.com, like our embeddable video player, as well as widgets that are powered by 3rd party vendors. A showcase of our widgets is at <http://www.forbes.com/widgets/>. Use of the Forbes.com widgets is subject to the Forbes.com [terms of use](http://www.forbes.com/fdc/terms.html), but downloading or embedding these widgets on other websites is not covered by this privacy statement.
+Our website includes social media features, widgets and/or interactive mini-programs that run on our site. These features are small content modules that users can embed on sites and may collect your IP address, which page you are visiting on our site, or set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+We offer widgets that are hosted on Forbes.com, like our embeddable video player. Use of the Forbes.com widgets is subject to the Forbes.com [terms of use](http://www.forbes.com/fdc/terms.html), but downloading or embedding these widgets on other websites is not covered by this privacy statement.
 
 #### Aggregate, Anonymous Information With Advertisers
 
@@ -100,7 +100,7 @@ Forbes.com derives the majority of its revenue from advertising and sharing info
 
 #### As Necessary to Provide Services to You
 
-We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of newsletter mailings, processing transactions, or performing statistical analysis of our services. We will only provide those companies the information they need to deliver the service. In some instances these companies may collect information directly from you (such as for credit card processing for the purchase of investment newsletters). In these cases, you will be notified of the involvement of the external service provider. In all cases, these companies are subject to agreements that require them to maintain the confidentiality of your information and they are prohibited from using that information for any other purpose.
+We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of newsletter mailings, processing transactions, or performing statistical analysis of our services. We will only provide those companies the information they need to deliver the service. In some instances these companies may collect information directly from you. In these cases, you will be notified of the involvement of the external service provider. In all cases, these companies are subject to agreements that require them to maintain the confidentiality of your information and they are prohibited from using that information for any other purpose.
 
 #### In The Event of Sale or Bankruptcy
 
@@ -120,8 +120,8 @@ Kids under 13: Do not send any information about yourself to us--including infor
 
 #### _How to Contact Us_
 
-If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@forbes.com](mailto:privacy@forbes.com). We read every message submitted and try to reply promptly to every one. Our mailing address is 60 Fifth Avenue, New York, NY 10011.
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@forbes.com](mailto:privacy@forbes.com). We read every message submitted and try to reply promptly to every one. Our mailing address is Forbes.com LLC, Customer Service, 60 Fifth Avenue, New York, NY 10011.
 
 #### _How Will I Know if the Privacy Policy Is Changed?_
 
-This statement may change from time to time, so please check back periodically. Any material changes to our privacy policy will be posted to this statement, the Forbes.com home page, and other places we deem appropriate.
+If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
