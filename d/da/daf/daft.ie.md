@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daft.ie privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228060647id_/http%3A//www.daft.ie/docs.daft%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daft.ie privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628000255id_/http%3A//www.daft.ie/docs.daft%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Daft.ie : Information
 
@@ -108,10 +108,6 @@ JEB2 | Alphanumeric string | This is a unique ID for the browser, so we know if 
 Comscore (Audience Measurement)  
 UID | Hexadecimal-ip-numerical | User id | 1 year, 354 days  
 UIDR | Numerical (same as end of UID) | Real user id | 1 year, 354 days  
-ie-stat.bmmetrix.com (Audience Measurement)  
-Bm_map | string | Identify location of user  | 01/01/2030  
-Cid | Alphanumeric string:numerical string | Client id | 01/01/2030  
-Sid | Alphanumeric string:numerical string | Session id | On browser exit  
 Twitter.com ("Tweet" button on ads clicked)  
 k | Alphanumeric string |  | 1 week  
 guest_id | Alphanumeric string | User ID | 2 years  
