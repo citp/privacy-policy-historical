@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easterseals.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006214404id_/http%3A//www.easterseals.com/site/PageServer%3Fpagename%3Dntl_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easterseals.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627122308id_/http%3A//www.easterseals.com/site/PageServer%3Fpagename%3Dntl_privacypolicy) for the most accurate reproduction.*
 
-# Easter Seals : Privacy Policy
+# Privacy Policy - Easter Seals
 
 Easter Seals Online Network Privacy Policy
 
