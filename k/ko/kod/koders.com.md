@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koders.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229020319id_/http%3A//corp.koders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koders.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627223745id_/http%3A//corp.koders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Koders.com
 
@@ -42,11 +42,8 @@ Black Duck Software Privacy Contacts
 POSTAL MAIL:  
 Black Duck Software, Inc.  
 Attn: Privacy  
-265 Winter Street  
-Waltham, MA 02451  
-USA
-
-Tel: +1 781.891.5100
+8 New England Executive Park   
+Burlington, MA 01803Tel: +1 781.891.5100
 
 [http://www.blackducksoftware.com](http://www.blackducksoftware.com/)
 
