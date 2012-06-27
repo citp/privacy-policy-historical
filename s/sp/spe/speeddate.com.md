@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speeddate.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124124504id_/http%3A//www.speeddate.com/apps/site/views/mp/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speeddate.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627052915id_/http%3A//www.speeddate.com/apps/site/views/mp/privacypolicy.php) for the most accurate reproduction.*
 
 # SpeedDate | Real Dates in Real-Time
 
@@ -7,9 +7,9 @@
 
 Effective Date: July 19th, 2011
 
-This privacy policy (the "Privacy Policy") describes the personal information (“Information”) collected about users of the online dating service accessible via the Website located at www.speeddate.com and related URLs (the "Service") and how such information may be used or disclosed by SpeedDate.com, Inc.™ (“SpeedDate”).
+This privacy policy (the "Privacy Policy") describes the personal information ("Information") collected about users of the online dating service accessible via the Website located at www.speeddate.com and related URLs (the "Service") and how such information may be used or disclosed SpeedDate.com, Inc. ™ ("SpeedDate").
 
-The term “You” (and its variants) refers to You as a user of the Service and the term “Us” (and its variants) refers to SpeedDate™. 
+The term "You" (and its variants) refers to You as a user of the Service and the term "Us" (and its variants) refers to SpeedDate™. 
 
 Overview
 
@@ -49,9 +49,11 @@ Information We Collect
   * Preferences for dates (e.g. gender, ethnicity, religion, body type) 
   * IP Address 
   * Referring site 
-  * Other technical information collected by the Service’s servers. 
+  * Other technical information collected by the Service's servers. 
 
 
+
+SpeedDate offers location-enabled services and may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID). Your location may also be transmitted off of your mobile device even when an application is closed. You agree to share your location with SpeedDate on a continuous and periodic basis. While, we never share your exact location with another member, the location may be used to measure your proximity to other users and cause notifications to be sent to other users notifying them that you are nearby. The messaging to other users with whom you are matched may include your approximate distance from them as well as your profile and photograph. Other SpeedDate members may use or disclose your information to others without our control and without your knowledge. We therefore urge you to think carefully about members with whom you choose to interact.
 
 We use data collection devices such as "cookies" on certain pages of the Service. "Cookies" are small files placed on Your hard drive that assist Us in providing customized services. Certain features of the Service are only available with the use of a "cookie." We use this information to determine Our members' demographics, interests, and behavior to better understand and serve You and other members. This information may include the URL of the website that You visited prior to the Service (whether this URL is on the Service or not), the URL of the website You next go to (whether this URL is on the Service or not), what browser You are using and Your Internet Protocol address. Most cookies are "session cookies" meaning that they are automatically deleted from Your hard drive at the end of a session. You are always free not to accept cookies if Your browser permits. We may also collect Information such as your name, contact information, date of birth, and credit card information at places within the Service where we request such information (e.g., during registration, when you pay for premium features, when you populate your profile).
 
@@ -107,15 +109,15 @@ Pursuant to the above, We may use Information to provide the services requested 
 
 All standard messaging charges are billed by and payable to Your mobile service provider. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from Your network operator. SMS message services are provided on an AS IS basis.
 
-Your Use of Other Members’ Information
+Your Use of Other Members' Information
 
-Our services may include access to instant messaging and chat rooms. As a member You have access to members' identification numbers or user names and You might gain access to other contact information of other members through the use of the Service. You may not use such information in any manner that is not authorized by Us and the applicable member. In all cases, You must give members an opportunity to remove their information from Your information databases, including email lists. Under no circumstances may You disclose Information about another member to any third party without Our consent and the consent of such other member. You may not add a member to an mail list (email or physical mail) without that member’s express consent.
+Our services may include access to instant messaging and chat rooms. As a member You have access to members' identification numbers or user names and You might gain access to other contact information of other members through the use of the Service. You may not use such information in any manner that is not authorized by Us and the applicable member. In all cases, You must give members an opportunity to remove their information from Your information databases, including email lists. Under no circumstances may You disclose Information about another member to any third party without Our consent and the consent of such other member. You may not add a member to an mail list (email or physical mail) without that member's express consent.
 
 Accessing, Reviewing, and Changing Your Profile
 
-After registration You can review and change the information You submitted during registration. For instructions on how to do so visit the “Help” section of the Service.
+After registration You can review and change the information You submitted during registration. For instructions on how to do so visit the "Help" section of the Service.
 
-Upon Your request We will remove Your membership data from Our active databases as soon as reasonably possible in accordance with Our policy and applicable law. To learn how to hide or remove Your profile so that others cannot view it visit the “Help” section of the Service. We may retain in Our files information You have requested be removed from Our active databases for certain purposes, such as to resolve disputes, troubleshoot problems and enforce the Terms of Use. Moreover, such prior information may never be completely removed from Our databases due to technical and legal constraints, including stored ‘back up' systems. You should not expect that all of Your Information will be completely removed from Our databases in response to Your request.
+Upon Your request We will remove Your membership data from Our active databases as soon as reasonably possible in accordance with Our policy and applicable law. To learn how to hide or remove Your profile so that others cannot view it visit the "Help" section of the Service. We may retain in Our files information You have requested be removed from Our active databases for certain purposes, such as to resolve disputes, troubleshoot problems and enforce the Terms of Use. Moreover, such prior information may never be completely removed from Our databases due to technical and legal constraints, including stored 'back up' systems. You should not expect that all of Your Information will be completely removed from Our databases in response to Your request.
 
 Control of Your Password
 
@@ -127,7 +129,7 @@ This Privacy Policy only addresses the use and disclosure of information We coll
 
 Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits users of the Sites who are California residents to request certain information regarding SpeedDate’s disclosure of personal information to third parties for such third parties’ direct marketing purposes. You may make such a request by emailing support@speeddate.com or by sending your request to PO Box 547 Millbrae, CA 94030.
+California Civil Code Section 1798.83 permits users of the Sites who are California residents to request certain information regarding SpeedDate's disclosure of personal information to third parties for such third parties' direct marketing purposes. You may make such a request by emailing support@speeddate.com or by sending your request to PO Box 547 Millbrae, CA 94030.
 
 Changes in Our Privacy Policy
 
