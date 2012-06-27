@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the virtualpressoffice.com privacy policy that was archived on 2011-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126031515id_/http%3A//www.virtualpressoffice.com/index.do%3FfooterLink%3Dprivacypolicy%26pageTitle%3DPrivacy%2520Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virtualpressoffice.com privacy policy that was archived on 2012-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627184734id_/http%3A//www.virtualpressoffice.com/index.do%3FfooterLink%3Dprivacypolicy%26pageTitle%3DPrivacy%2520Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<base href="http://www.virtualpressoffice.com:80/">
@@ -45,11 +45,16 @@ pageTracker._trackPageview();
 
 
 
+<link rel="stylesheet" href="css/jquery-ui.css" type="text/css">
 <script type="text/javascript" src="js/balloontip.js"></script>	
+<script src="/js/jquery.min.js" type="text/javascript"></script>
+<script src="/js/jquery-ui.min.js" type="text/javascript"></script>
+<script src="js/watermark.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/autocomplete_header.js" charset="utf-8"></script>
 <script language="javascript">
 <!--
 function validateSearch(control){
-	if(document.getElementById('searchText').value!="")
+	if(document.getElementById('searchText').value!="Search")
 	{	return true;   }  
 	return false;			
 }
@@ -58,19 +63,24 @@ function prAgency_check(){
 	window.alert("You are not PR Agency contact. Hence, Dashboard is not allowed for you.");
 }
 // -->
+$(window).load(initHintTextboxes);
 </script>
 
 <div class="top">
 	<div class="top_upper">
-		<form name="headerSearchForm" method="post" action="/headerSearch.do;jsessionid=Nd6CLMuHZzHuPNUNmb-feg__.node1" onsubmit="return validateSearch()">
+		<form name="headerSearchForm" method="post" action="/headerSearch.do" onsubmit="return validateSearch()">
 			<a href="index.do?pageIn=home&amp;loggedin=F&amp;tabOn=home">
 				<img src="images/transp.gif" width="180" height="42" hspace="0" vspace="0" border="0" alt="VPO Virtual Press Office" class="toplogo">
 			</a>
-			<p class="top_search"><b>Search:</b>
-				<input type="text" name="searchText" maxlength="100" size="50" value="" id="searchText" class="top_search_box">
-				<input type="submit" value="Go" class="appButton"> 
-				<a rel="balloon2"><img src="images/help.gif" width="14" height="19" border="0" vspace="0" hspace="0" align="absmiddle"></a>
-			</p>
+			<select name="searchCriteria" id="criteria" style="height:10;" class="top_search_criteria"><option value="All">All</option>
+					<option value="PressRelease">Press Releases</option>
+					<option value="SupportingDocuments">Supporting Documents</option>
+					<option value="Shows">Shows</option></select>
+		    <div class="searchwrapper" id="test">	
+				<input type="text" name="searchText" size="50" value="Search" id="searchText" class="top_search_box">
+				<input type="submit" value=" " id="balloon3" class="appButton1">
+			</div>	
+			<p>
 			<img src="images/miniToolbar.gif" usemap="#Map" width="383" height="19" hspace="0" vspace="0" align="right" border="0" alt="Smarter Media Coverage." class="top_tagline">
 			<map name="Map">
 				  <area shape="rect" coords="24,1,96,20" href="http://www.virtualpressoffice.com/orderPKitPageOne.do" alt="Order VPO">
@@ -78,7 +88,7 @@ function prAgency_check(){
 				  <area shape="rect" coords="195,1,272,20" href="http://twitter.com/VPOEventZone" alt="Follow VPO on Twitter" target="_blank">
 				  <area shape="rect" coords="286,1,380,20" href="http://www.facebook.com/pages/Virtual-Press-Office/56755440257" alt="VPO on Facebook" target="_blank">
 			</map>
-		</form>
+		</p></form>
 	</div>
 	<div id="balloon2" class="balloonstyle" style="width: 600px; background-color: lightyellow">
 		<table cellspacing="0" cellpadding="0" width="600px">
@@ -156,7 +166,7 @@ function latestExhibitors(){
 </script>
 	
 <!-- left column contents -->
-<form name="userCreatePublicForm" method="post" action="/UserPublicAction.do;jsessionid=Nd6CLMuHZzHuPNUNmb-feg__.node1"> 
+<form name="userCreatePublicForm" method="post" action="/UserPublicAction.do"> 
 <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td width="22%" valign="top" align="left">
@@ -211,6 +221,112 @@ function latestExhibitors(){
 				</p>	
 			</div>	
 					
+					
+						<p class="login_top" style="text-align: left;">
+							Featured Shows						
+						</p>
+						<table width="100%" cellspacing="0" cellpadding="0" style="background-color:#b4c0d8;">
+							<tbody><tr>
+								<td>&nbsp;</td>
+							</tr>
+							
+                                  
+							
+							<tr>
+							  <td>
+								<table width="100%"> 
+									<tbody><tr>
+										<td valign="top" width="80%">
+											<a href="http://news.vpoinc.com/page/iste2012" title="See stories, photos, and quotes about ISTE 2012 " style=" display:block; float:left; font-size:12px; line-height:16px; overflow:hidden;" target="_blank">
+											 <b>ISTE 2012</b>
+											</a>
+										</td>	
+										<td valign="top" width="20%" align="right">
+											<a href="http://news.vpoinc.com/page/iste2012" title="See stories, photos, and quotes about ISTE 2012 " target="_blank">
+											 <img src="http://www5.virtualpressoffice.com/FeatruedShows/1839-1839.jpg" border="0" title="See stories, photos, and quotes about ISTE 2012 ">
+											</a>	
+										</td>
+									 </tr>
+								    
+                                       <tr>
+                                              <td colspan="2"><hr></td>
+                                      </tr>
+                                    
+							     </tbody></table>
+							  </td>
+							</tr> 
+						  
+							<tr>
+							  <td>
+								<table width="100%"> 
+									<tbody><tr>
+										<td valign="top" width="80%">
+											<a href="http://news.vpoinc.com/page/IntersolarNA" title="See stories, photos, and quotes about Intersolar North America 2012 " style=" display:block; float:left; font-size:12px; line-height:16px; overflow:hidden;" target="_blank">
+											 <b>Intersolar North America 2012</b>
+											</a>
+										</td>	
+										<td valign="top" width="20%" align="right">
+											<a href="http://news.vpoinc.com/page/IntersolarNA" title="See stories, photos, and quotes about Intersolar North America 2012 " target="_blank">
+											 <img src="http://www5.virtualpressoffice.com/FeatruedShows/2123-2123.jpg" border="0" title="See stories, photos, and quotes about Intersolar North America 2012 ">
+											</a>	
+										</td>
+									 </tr>
+								    
+                                       <tr>
+                                              <td colspan="2"><hr></td>
+                                      </tr>
+                                    
+							     </tbody></table>
+							  </td>
+							</tr> 
+						  
+							<tr>
+							  <td>
+								<table width="100%"> 
+									<tbody><tr>
+										<td valign="top" width="80%">
+											<a href="http://news.vpoinc.com/page/breakaway2012" title="See stories, photos, and quotes about Breakaway 2012 " style=" display:block; float:left; font-size:12px; line-height:16px; overflow:hidden;" target="_blank">
+											 <b>Breakaway 2012</b>
+											</a>
+										</td>	
+										<td valign="top" width="20%" align="right">
+											<a href="http://news.vpoinc.com/page/breakaway2012" title="See stories, photos, and quotes about Breakaway 2012 " target="_blank">
+											 <img src="http://www5.virtualpressoffice.com/FeatruedShows/2247-2247.jpg" border="0" title="See stories, photos, and quotes about Breakaway 2012 ">
+											</a>	
+										</td>
+									 </tr>
+								    
+                                       <tr>
+                                              <td colspan="2"><hr></td>
+                                      </tr>
+                                    
+							     </tbody></table>
+							  </td>
+							</tr> 
+						  
+							<tr>
+							  <td>
+								<table width="100%"> 
+									<tbody><tr>
+										<td valign="top" width="80%">
+											<a href="http://news.vpoinc.com/page/auvsi12" title="See stories, photos, and quotes about Unmanned Systems North America 2012 " style=" display:block; float:left; font-size:12px; line-height:16px; overflow:hidden;" target="_blank">
+											 <b>Unmanned Systems North America 2012</b>
+											</a>
+										</td>	
+										<td valign="top" width="20%" align="right">
+											<a href="http://news.vpoinc.com/page/auvsi12" title="See stories, photos, and quotes about Unmanned Systems North America 2012 " target="_blank">
+											 <img src="http://www5.virtualpressoffice.com/FeatruedShows/2310-2310.jpg" border="0" title="See stories, photos, and quotes about Unmanned Systems North America 2012 ">
+											</a>	
+										</td>
+									 </tr>
+								    
+							     </tbody></table>
+							  </td>
+							</tr> 
+						  
+						</tbody></table>
+					
+				
 				<br>			
 			
 				
@@ -222,32 +338,136 @@ function latestExhibitors(){
 					
 						<tr>
 							<td width="100%" style="padding-left: 4px">
-								<a title="2011 Chicago International Toy &amp; Game Fair" href='javascript:viewWeekShowContents("1076")'>
-								 	2011 Chicago International Toy &amp; Game Fair<br>
+								<a title="ACVL Conference 2012" href='javascript:viewWeekShowContents("1666")'>
+								 	ACVL Conference 2012<br>
 							 	</a>
 							</td>
 						</tr>
 					
 						<tr>
 							<td width="100%" style="padding-left: 4px">
-								<a title="Adrenaline Sports Live presented by RANI 2011" href='javascript:viewWeekShowContents("1607")'>
-								 	Adrenaline Sports Live presented by RANI 2011<br>
+								<a title="CEA Line Shows 2012" href='javascript:viewWeekShowContents("2118")'>
+								 	CEA Line Shows 2012<br>
 							 	</a>
 							</td>
 						</tr>
 					
 						<tr>
 							<td width="100%" style="padding-left: 4px">
-								<a title="Barbican Turbo 2011" href='javascript:viewWeekShowContents("1608")'>
-								 	Barbican Turbo 2011<br>
+								<a title="CineEurope 2012" href='javascript:viewWeekShowContents("2271")'>
+								 	CineEurope 2012<br>
 							 	</a>
 							</td>
 						</tr>
 					
 						<tr>
 							<td width="100%" style="padding-left: 4px">
-								<a title="PRI-MED East 2011" href='javascript:viewWeekShowContents("1094")'>
-								 	PRI-MED East 2011<br>
+								<a title="Cinema Expo 2012" href='javascript:viewWeekShowContents("1647")'>
+								 	Cinema Expo 2012<br>
+							 	</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td width="100%" style="padding-left: 4px">
+								<a title="CLICK 6.0 - The Digital Marketing Event for the Middle East 2012" href='javascript:viewWeekShowContents("2165")'>
+								 	CLICK 6.0 - The Digital Marketing Event for the Middle East 2012<br>
+							 	</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td width="100%" style="padding-left: 4px">
+								<a title="Connections 2012" href='javascript:viewWeekShowContents("1843")'>
+								 	Connections 2012<br>
+							 	</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td width="100%" style="padding-left: 4px">
+								<a title="Electronic Security Expo 2012" href='javascript:viewWeekShowContents("1841")'>
+								 	Electronic Security Expo 2012<br>
+							 	</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td width="100%" style="padding-left: 4px">
+								<a title="Engage CSR 2012" href='javascript:viewWeekShowContents("2177")'>
+								 	Engage CSR 2012<br>
+							 	</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td width="100%" style="padding-left: 4px">
+								<a title="HITEC 2012" href='javascript:viewWeekShowContents("2087")'>
+								 	HITEC 2012<br>
+							 	</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td width="100%" style="padding-left: 4px">
+								<a title="IFT 2012" href='javascript:viewWeekShowContents("2233")'>
+								 	IFT 2012<br>
+							 	</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td width="100%" style="padding-left: 4px">
+								<a title="IPTV World Forum Latin America 2012" href='javascript:viewWeekShowContents("2041")'>
+								 	IPTV World Forum Latin America 2012<br>
+							 	</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td width="100%" style="padding-left: 4px">
+								<a title="ISTE 2012" href='javascript:viewWeekShowContents("1839")'>
+								 	ISTE 2012<br>
+							 	</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td width="100%" style="padding-left: 4px">
+								<a title="Paris Air Show 2012" href='javascript:viewWeekShowContents("1636")'>
+								 	Paris Air Show 2012<br>
+							 	</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td width="100%" style="padding-left: 4px">
+								<a title="Paris Air Show 2012 (French)" href='javascript:viewWeekShowContents("1635")'>
+								 	Paris Air Show 2012 (French)<br>
+							 	</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td width="100%" style="padding-left: 4px">
+								<a title="PCBC 2012" href='javascript:viewWeekShowContents("1842")'>
+								 	PCBC 2012<br>
+							 	</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td width="100%" style="padding-left: 4px">
+								<a title="SHRM 2012 Annual Conference &amp; Exposition" href='javascript:viewWeekShowContents("1847")'>
+								 	SHRM 2012 Annual Conference &amp; Exposition<br>
+							 	</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td width="100%" style="padding-left: 4px">
+								<a title="TechWeek 2012" href='javascript:viewWeekShowContents("2308")'>
+								 	TechWeek 2012<br>
 							 	</a>
 							</td>
 						</tr>
