@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hittail.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208031212id_/http%3A//www.hittail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hittail.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627041912id_/http%3A//www.hittail.com/privacy) for the most accurate reproduction.*
 
-# HitTail - Privacy Policy
+# Privacy Policy | HitTail
 
-Last updated May 14, 2008
+Last updated December 22, 2011
 
-CKC Communications, Inc. d/b/a HitTail (HitTail) understands how important the privacy of personal information is to its users. This Privacy Policy will tell you the minimal information that is collected through your use of this website. It will explain the choices you have about how your personal information is used and how we protect that information. It will also explain the security of the information we collect on your behalf when you register for a HitTail account.
+The Numa Group, LLC d/b/a HitTail (HitTail) understands how important the privacy of personal information is to its users. This Privacy Policy will tell you the minimal information that is collected through your use of this website. It will explain the choices you have about how your personal information is used and how we protect that information. It will also explain the security of the information we collect on your behalf when you register for a HitTail account.
 
 HitTail contains links to other sites. Once you enter another website, please be aware that HitTail is not responsible for the privacy practices of such other sites. The only information we normally collect will be non-personal information through the use of cookies or web beacons (explained below). Non-personal information is defined as data that is not traceable back to any individual and cannot be used to identify an individual, e.g. the keyword phrase you searched on to find this website. However, if you choose to contact us, then you will be submitting personally identifiable information in the form of your name and email address along with anything else you volunteer.
 
@@ -54,7 +54,7 @@ E. Subscribing to a HitTail Basic High Volume, Plus or Premium Account
 
 When you subscribe to a HitTail Basic High Volume, HitTail Plus or HitTail Premium, you must provide us with a username, email address, and URL and in the case of HitTail Premium your Google AdWords login username and password. This is the minimum information needed for us to provide the selected HitTail service. When you create an account, you can optionally provide us with additional information such as your real name, company, or title. Registering an account with this data is done through secure sockets layer technology (SSL). SSL is a proven secure communication protocol that lets your browser automatically encrypt, or scramble, data before you send it to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-Under no circumstances will we hold sensitive payment details such as your credit card number, expiration date or security code. All transactions are handled through our accredited payment bureau, PayPal. All communication between HitTail and PayPal occur through secure sockets layer technology (SSL). SSL is a proven secure communication protocol that lets your browser automatically encrypt, or scramble, data before you send it to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. For more information on PayPal's privacy policy please refer to http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside and https://www.paypal.com/row/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy.
+Under no circumstances will we hold sensitive payment details such as your credit card number, expiration date or security code. All transactions are handled through one of our accredited payment bureaus, PayPal or Stripe. All communication between HitTail and PayPal/Stripe occur through secure sockets layer technology (SSL). SSL is a proven secure communication protocol that lets your browser automatically encrypt, or scramble, data before you send it to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. For more information on PayPal's privacy policy please refer to http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside and https://www.paypal.com/row/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy. For Stripe's, visit [here](https://stripe.com/privacy)
 
 ### SECURITY OF YOUR FINANCIAL INFORMATION
 
@@ -102,7 +102,7 @@ We are committed to protecting the privacy of children. HitTail is not designed 
 
 ### CHANGES TO THIS PRIVACY POLICY
 
-HitTail will keep the most up-to-date policy on this page accessible at http://www.hittail.com/privacy/ and will attempt to refer existing users to updates in the policy when they log into the website. Any material changes in the way HitTail uses personal information will be described in future versions of this Privacy Policy, with the date of those changes clearly noted on the first page. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. Please exit the site immediately if you do not agree to the terms of this Privacy Policy or any future revised policy.
+HitTail will keep the most up-to-date policy on this page accessible at http://www.hittail.com/privacy/. Any material changes in the way HitTail uses personal information will be described in future versions of this Privacy Policy, with the date of those changes clearly noted on the first page. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. Please exit the site immediately if you do not agree to the terms of this Privacy Policy or any future revised policy.
 
 ### SERVICE-RELATED ANNOUNCEMENTS
 
@@ -114,7 +114,7 @@ Based upon the personally identifiable information you provide us when contactin
 
 ### CONTACT INFORMATION
 
-If you have any questions regarding these Terms of Use, please contact HitTail at service@hittail.com or at HitTail Privacy Policy, c/o Connors Communications, 7 W. 22nd Street, New York, NY 10010, USA.
+If you have any questions regarding these Terms of Use, please contact HitTail at service@hittail.com or at HitTail Privacy Policy, c/o The Numa Group LLC, PO Box 7775 #46481, San Francisco, CA 94120-7775, USA.
 
 View [Terms of Service](http://www.hittail.com/terms/).
 
