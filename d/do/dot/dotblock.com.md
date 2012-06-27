@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotblock.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230094748id_/http%3A//www.dotblock.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotblock.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627182315id_/http%3A//www.dotblock.com/privacy.php) for the most accurate reproduction.*
 
-# DotBlock Cloud VPS Hosting | Privacy Policy
+# DotBlock Privacy Policy | by DotBlock
 
 ## Privacy Policy
 
