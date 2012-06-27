@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gapcanada.ca privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226185115id_/http%3A//www.gapcanada.ca/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gapcanada.ca privacy policy that was archived on 2012-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627220348id_/http%3A//www.gapcanada.ca/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-CA" lang="en-CA"><head>
 	<title> | Gap</title>
@@ -68,7 +68,7 @@
 
 
 
-<link rel="stylesheet" type="text/css" media="screen" href="/gzip_N197112911/optimizedBundles/globalOptimized.css">
+<link rel="stylesheet" type="text/css" media="screen, print" href="/gzip_400389532/optimizedBundles/globalOptimized.css">
 
 
 
@@ -94,11 +94,11 @@
 
 	<style type="text/css">
 	.brand {
-	   background: url(/content/0001/997/995/universal_bar_sprites.png) no-repeat top left;
+	   background: url(/content/0004/787/446/universal_bar_sprites.png) no-repeat top left;
 	   width: 0px;
 	 }
 	</style>
-	<link rel="stylesheet" type="text/css" href="/content/0001/997/995/universal_bar_sprites.css">
+	<link rel="stylesheet" type="text/css" href="/content/0004/787/446/universal_bar_sprites.css">
 
 
 
@@ -140,6 +140,9 @@
 </style>	
 
 	
+		
+		
+			
 
 
 
@@ -164,6 +167,8 @@
 
 
 <link rel="stylesheet" type="text/css" href="/css/customerService/content/en/content.css">
+		
+	
 	<style type="text/css" title="styles" media="screen">
 			
 
@@ -255,6 +260,9 @@
 
 
 
+
+
+
 <script type="text/javascript" src="/gzip_319345091/optimizedBundles/tealeafOptimized.js"></script>
 
 <script type="text/javascript">
@@ -265,7 +273,7 @@
     TeaLeaf.Event.Configuration.tlqueueeventsmaxsz = "8192" || 8192
 
 	var environmentModelValues = {
-		
+    	isLoggingServiceActive: false	
     };
  // ]]>
 </script>
@@ -330,7 +338,13 @@
         	isRecognizedUser : "Not you?",
         	signIn : "Sign in",
         	orderStatus : "Orders and returns",
-        	shippingTo : "Shipping to"
+        	shippingTo : "Shipping to",
+        	weak : "Weak",
+        	fair : "Fair",
+        	good : "Good",
+        	strong : "Strong",
+        	sameAsUser : "Weak: Same as user",
+        	sameAsHint : "Weak: Same as hint"
         },
         inLineBag :{
 	        labelColor : "Color",
@@ -377,7 +391,7 @@
        	intlShipSiteRedirectContent : {
            	ca : {
 		        siteSelectorLabel : "Shop the Canada site",           	 
-		        contentMessage1 : "$8 Flat-Rate Shipping",           	 
+		        contentMessage1 : "Free shipping on orders of $50 or more",           	 
 		        contentMessage2 : "All orders, all the time",           	 
 		        contentMessage3 : "No duties. No handling fees. No kidding.",           	 
 		        calloutMessage : "Selecting this option redirects you to the Canadian site."
@@ -400,7 +414,9 @@
        		brandUrl8 : "bananarepublic.ca",
        		brandUrl9 : "oldnavy.ca",
        		brandUrl20 : "gap.eu",
-       		brandUrl21 : "bananarepublic.eu"
+       		brandUrl21 : "bananarepublic.eu",
+       		brandUrl24 : "gap.co.jp",
+       		brandUrl25 : "bananarepublic.co.jp"
        	}
        	
 
@@ -409,17 +425,20 @@
 
 
 
-	<script type="text/javascript" src="/gzip_N1740635564/optimizedBundles/globalOptimized.js"></script>
+<script type="text/javascript">
+    var isClientStateManagementActive = "false";
+</script>
+
+
+	<script type="text/javascript" src="/gzip_N362116697/optimizedBundles/globalOptimized.js"></script>
 
 	<script type="text/javascript">
 		// Activation of the navigationService and associated Managers
-		navigationService.model.isActive = true;
+		navigationService.model.isActive = false||false;
+		navigationService.paginationHelper.constants.MAX_PRODUCTS_PER_PAGE = 100;
 	</script>
 
 
-
-
-	
 
 <script type="text/javascript">
 	// <![CDATA[
@@ -438,6 +457,8 @@
 			BRAND10_BADGE_CONTENT_PATH : "",
 			BRAND20_BADGE_CONTENT_PATH : "/content/0002/012/124/",
 			BRAND21_BADGE_CONTENT_PATH : "/content/0002/012/225/",
+			BRAND24_BADGE_CONTENT_PATH : "/content/0002/012/124/",
+			BRAND25_BADGE_CONTENT_PATH : "/content/0002/012/225/",
 			
 			BRAND_LOCALE : "en_CA",
 			COUNTRY_NAME_UK : "United Kingdom",
@@ -449,7 +470,7 @@
             DIVISION_2_ACTION: "division.do",
             SUBDIVISION_2_ACTION: "subdivision.do",
             HOME_2_ACTION: "home.do",
-            DATE_IN_USE: "12/26/2011 01:51 PM",
+            DATE_IN_USE: "06/27/2012 06:03 PM",
             PREVIOUS_LOCALE : "en_CA"
 		});
 	// ]]>
@@ -473,15 +494,23 @@
 <!-- InternationalForeignExchangeRoundUpValue =  -->
 <!-- InternationalShippingPremiumPriceValues =  -->
 <!-- hbaseProductMashupActive = true -->
-<!-- isProductCategoryFacetedSearchActive = true -->
+<!-- isProductCategoryFacetedSearchActive = false -->
 <!-- searchEnabled = false -->
-<!-- isFacetedCategoryActive = true -->
+<!-- isFacetedCategoryActive = false -->
 <!-- isFacetedCategorySearchActive = false -->
 <!-- brandTemplateServiceActive = true -->
 <!-- categoryPageCachingActive = true -->
 <!-- isStoreLocationsActive  = false -->
+<!-- isMerchLocatorActive  = false -->
+<!-- shippingOptionsFeatureActive  = false -->
+<!-- isLoggingServiceActive  = false -->
+<!-- catalogCategoryFeaturesEnabled  = power_reviews,quick_links,cj_feed -->
+<!-- localCacheActive  = true -->
+<!-- isLocalCacheDisabled  = false -->
+<!-- isPageContentDataActive  = true -->
 
-<!-- pageTemplateInfo: pageId: 12592
+
+<!-- pageTemplateInfo: pageId: 29680
 			isTileOverrideDefinedFromParameter: false
 			isTileOverrideDefinedFromPageContent: false
 			isTemplateTileNameDefined: true
@@ -491,6 +520,14 @@
 			overrideTemplateTileNameFromPageContent: null
 			templateTileNameFromParameter: null
 			pageMode: default -->
+
+<!-- faceted category white list =  -->
+<!-- faceted category black list =  -->
+<!-- isFaceted = false -->
+<!-- is facets enabled = false -->
+<!-- is category search faceted  = false -->
+
+<!-- isClientStateManagementActive  = false -->
 
 <script type="text/javascript">
 	// <![CDATA[
@@ -588,6 +625,8 @@
 		if (window["personalizationService"] != undefined) {
 			with (personalizationService.model) {
 				globalShipping.isGlobalShippingActive = "false";
+				globalShipping.shippingOptionsActive = "false";
+				parentCategoryBusinessCatalogItemId = "";
 			}
 			personalizationService.controller.init.main();
 		}
@@ -602,8 +641,6 @@
 		
  // ]]>	
  </script>	
-
-
 
 	
 
@@ -631,7 +668,12 @@
 
 <script type="text/javascript" src="/gid/js/customerService/layouts/en/customerServiceApplicationFunctions.js"></script>
 
+
+
 	
+		
+		
+			
 
 
 
@@ -655,6 +697,8 @@
 
 
  
+		
+	
 	
 
 
@@ -683,7 +727,7 @@
 <!-- @TemplateContentLayout(templateRegionName:"gid.common.siteWide.businessCode.regionTop") -->
 
 <!-- container 1 -->
-<!-- BEGIN Content Item File: /content/0003/629/979/cn3629979.html -->
+<!-- BEGIN Content Item File: /content/0004/736/178/cn4736178.html -->
 
 <!-- UNIVERSAL BUTTON LOCALE FIX -->
 <script type="text/javascript">
@@ -711,34 +755,6 @@ if (location.pathname == "/browse/category.do") {
 <script type="text/javascript">
 // LEFT NAV Header modifications
 document.observe("dom:loaded",function() {
-
-//Fix Baby Boy & Baby Girl Header text
-var toddlerBoyHeader = $('categoryNav57468');
-
-if (toddlerBoyHeader) {
-	toddlerBoyHeader.update('Toddler Boy<br/>(1-5 yrs)');
-}
-
-var toddlerGirlHeader = $('categoryNav57541');
-
-if (toddlerGirlHeader) {
-	toddlerGirlHeader.update('Toddler Girl<br/>(1-5 yrs)');
-}
-
-var babyBoyHeader = $('categoryNav59522');
-
-if (babyBoyHeader) {
-	babyBoyHeader.update('Baby Boy<br/>(0-24 mos)');
-}
-
-var babyGirlHeader = $('categoryNav59523');
-
-if (babyGirlHeader) {
-	babyGirlHeader.update('Baby Girl<br/>(0-24 mos)');
-}
-
-
-//END Baby Boy & Baby Girl Header text
 
 //CUSTOMER SERVICE
 var giftReturns = $('categoryNav40965');
@@ -846,7 +862,7 @@ document.observe("dom:loaded",function() {
 		#sideNav li.header firstHeader {border-top:1px solid #000; padding:6px 0px 3px 0px;}
 			
 		#sideNav a:hover {color:#999;}
-		#sideNav li.categorySelected{background-image: url("/Asset_Archive/GPWeb/content/0003/629/979/assets/sidenav_bullet.gif"); padding: 0 0 0 7px;}
+		#sideNav li.categorySelected{background-image: url("/Asset_Archive/GPWeb/content/0003/629/979/assets/sidenav_bullet.gif"); padding: 0 0 0 6px;}
 		#sideNav a.categorySelected:link, #sideNav a.categorySelected:visited, #sideNav a.categorySelected:active, #sideNav a.categorySelected:hover {color:#999;}	
 		#sideNav a.subCategorySelected:link, #sideNav a.subCategorySelected:visited, #sideNav a.subCategorySelected:active, #sideNav a.subCategorySelected:hover {color: #999;}	
 		
@@ -880,7 +896,7 @@ document.observe("dom:loaded",function() {
 
 		/*SALE DIVISION LEFT SIDE NAV*/
 			#categoryNav26637{border-top:1px solid #000; padding:0px 0px 0px 0px;}/*Sale top line*/			
-			li.categoryActive  #categoryNav26637 {padding:0px 0px 0px 7px;}
+			li.categoryActive  #categoryNav26637 {padding:0px 0px 0px 6px;}
 			
 			/*Women Category and subcategories*/
 			#sideNav #categoryNav26637 a.sale:link, #sideNav a.sale:visited, #sideNav a.sale:active, #sideNav a.sale:hover{color:#000;}
@@ -995,7 +1011,7 @@ document.observe("dom:loaded",function() {
 				#tabWindow ul {color:#000;}
 			/*about theis product segment end*/
 			
-			/*Brand Buttons Override (produc page/quick look popup -- Image Tools on Product page and Quick Look popup; zoom and view larger*/
+			/*Brand Buttons Override (product page/quick look popup -- Image Tools on Product page and Quick Look popup; zoom and view larger*/
 				.brand1 img.sprite-button_more_views, .brand7 img.sprite-button_more_views, .brand20 img.sprite-button_more_views {background:url("/Asset_Archive/GPWeb/content/0002/444/380/brand_buttons_and_assets_sprite.gif"); background-position: 0 -936px; width: 72px; height: 16px; } /*View Larger button on Quick Look popup*/ 
 				
 				.brand1 #imageTools #moreViewsBtn, .brand1 #moduleProductImageTools #moreViewsBtn{background-image:url("/Asset_Archive/GPWeb/content/0002/444/380/brand_buttons_and_assets_sprite.gif"); background-position: 0 -936px; width: 72px; height: 16px; margin-left:10px; }
@@ -1020,6 +1036,11 @@ document.observe("dom:loaded",function() {
 		/*Out Of Staock Button Placement*/
 	
 		.brand1 .sprite-button_add_to_bag_out, .brand7 .sprite-button_add_to_bag_out, .brand20 .sprite-button_add_to_bag_out {background:url("/Asset_Archive/GPWeb/content/0002/444/380/brand_buttons_and_assets_sprite.gif");background-position:0 -799px; float: right; height:20px; margin-top:5px; width:73px;}
+
+		
+		/*QL SIZE CHARTS BUTTON PLCEMENT*/
+		.brand1 .quicklook-sprites, .brand7 .quicklook-sprites, .brand20 .quicklook-sprites {
+    background: url("/Asset_Archive/GPWeb/content/0002/444/380/brand_buttons_and_assets_sprite.gif");background-position: 0 -1283px; width:63px; height:20px;}
 		
 			
 	/*++++++++++++++++++++++++ END:PRODUCT PAGE / QUICK LOOK POPUP +++++++++++++++++++++++++++++++++*/
@@ -1039,6 +1060,141 @@ document.observe("dom:loaded",function() {
 			
 			
 /* +++++++++++++++++++++++ !!!!!!!!!!!!!!!!END: GOL Layout: Spring 2011!!!!!!!!!!!!!!!! +++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++ !!!!!!!!!!!!!!!!GOL Layout: Spring 2011!!!!!!!!!!!!!!!! +++++++++++++++++++++++++++++++++++++++*/
+
+	#footer {color:#000; font-size:9px;}
+	#footer a:link, #footer a:visited, #footer a:active{color:#000; font-weight:bold;}
+	
+	
+	
+	
+	/*begin - spring 2011: left nav layout*/
+	/*keyline to white/reassign keyline */
+	#mainContent {border:1px solid #ffffff;}
+	#mainContentContainer {border:1px solid #ffffff;}
+	#mainContentContainer {border-left:1px solid #ffffff;border-right:1px solid #ffffff;}
+	
+	/*remove bottom keyline from main content*/
+	#mainContentContainer {border-bottom:medium none;}
+	#mainContent {border-bottom:medium none;}
+	
+	/*dotted key line removed from maincontent added to sidenav added for 7.12 add contentOvveride*/
+	#mainContentContainer #mainContent {
+	background-color:#FFFFFF;
+	background-image:url("/Asset_Archive/GPWeb/content/0002/686/510/assets/nodash_vertical.gif");
+	background-repeat:repeat-y;
+	border:medium none;
+	}
+	/* +++++++++++++++++++++++ !!!!!!!!!!!!!!!!END: GOL Layout: Spring 2011!!!!!!!!!!!!!!!! +++++++++++++++++++++++++++++++++++++++*/
+
+/* GOL Seasonal Layout: Spring 2012*/
+/*background color*/
+/* version 2 updated - 02/21/12 */
+body {
+	background-color:#C8F1ED !important;
+	background-image:url("/Asset_Archive/GPWeb/content/0004/637/489/assets/1x800.jpg") !important;
+	background-repeat: repeat-x;
+}
+
+
+
+#footer {color:#666; font-size:9px;}
+/* set white background behind brandFooter_Region1 */
+#brandFooter_Region1 { background-color: #ffffff;}
+/*begin - spring 2012: left nav layout*/
+/*keyline to white/reassign keyline */
+#mainContent {border:1px solid #fff;}
+#mainContentContainer {border:1px solid #fff;}
+#mainContentContainer {border-left:1px solid #fff;border-right:1px solid #fff;}
+
+/*remove bottom keyline from main content*/
+#mainContent {border-bottom:none;}
+#mainContentContainer {border-bottom:none;}
+
+#sideNav  {background-color:#fff; color:#000;}
+/*end reassign keyline */
+
+
+
+/*dotted key line removed from maincontent added to sidenav added for 7.12 add contentOvveride*/
+#mainContentContainer #mainContent {background-color:#fff; background-image:url("/Asset_Archive/GPWeb/content/0002/496/432/assets/nodash_vertical.gif"); background-repeat:repeat-y; border:medium none;}
+
+#sideNav  {
+/*background-image:url("/Asset_Archive/GPWeb/content/0002/496/432/assets/sidenav_dash_vertical.gif");*/
+/*background-repeat:repeat-y;*/
+}
+
+#footer a:link, #footer a:visited, #footer a:active{color:#000;}
+
+/*Add white keyline around 988px footer container*/
+#brandftr3_10000513 {border-right: 1px solid #FFFFFF;border-left: 1px solid #FFFFFF;}
+
+
+/* END: GOL Seasonal Layout: Spring 2012*/
+
+/* GOL Layout: Permanent*/
+
+
+/* VI -- CATEGORY PAGES*/
+
+	#shopBySizeContainer{background:#F0F0F0;}
+	
+	#shopBySizeTools {background:url("/Asset_Archive/GPWeb/content/0002/447/007/assets/shopbysize_hdr.gif") no-repeat scroll 13px 0 #F0F0F0; height: 14px; margin:0; padding:0px  2px 2px 102px; white-space:nowrap; width:712px;}
+	
+	#shopBySizeTools li a {color:#000; font-weight:bold; text-decoration:none; text-transform:uppercase;}
+	
+	/*shop by size: size chart layout adjustment */
+	#shopBySizeTools li {padding-top:-1px; _padding-top:-1px; *padding-top:-1px;}	
+	
+	/*pagination*/
+	#tabTable, #tabTableOff .categoryPaging a:link, a:visited, a:hover, a:active{color:#000;}
+	
+/* END: VI -- CATEGORY PAGS*/
+
+/*+++++++++++++ LEFT SIDE NAVIGATION OVERRIDE+++++++++++++++++++*/ 
+	
+	#sideNav  {background-color: #ffffff; color:#000000;}
+	#sideNav a:hover {color:#999;}
+	
+	#sideNav ul.category{margin:3px 0px 0px 0px}
+	#sideNav li.header {border-top:1px solid #000; padding:6px 0px 0px 10px;}
+	#sideNav li.header firstHeader {border-top:1px solid #000; padding:6px 0px 3px 10px;}	
+	
+	#sideNav li.category {margin:0px 0px 0px 11px;}
+	
+	#sideNav li.categorySelected{background-image:none; margin-left:0px; padding: 0 0 0 6px;}
+	#sideNav a.categorySelected:link, #sideNav a.categorySelected:visited, #sideNav a.categorySelected:active, #sideNav a.categorySelected:hover {margin:0px 0px 0px 5px;}	
+	#sideNav a.categorySelected:link, #sideNav a.categorySelected:visited, #sideNav a.categorySelected:active, #sideNav a.categorySelected:hover {color:#999;}
+	
+	#sideNav li.subCategory {margin:0px 0px 0px 5px;}
+	#sideNav a.subCategorySelected:link, #sideNav a.subCategorySelected:visited, #sideNav a.subCategorySelected:active, #sideNav a.subCategorySelected:hover {color:#999;margin:0px 0px 0px 5px;}
+	
+	/*Sale Category and subcategory on Left Side Navigation*/
+	#sideNav li.sale a.subCategorySelected:link, #sideNav li.sale a.subCategorySelected:visited, #sideNav li.sale a.subCategorySelected:active, #sideNav li.sale a.subCategorySelected:hover{color: #999;}	
+
+	#sideNav li.sale a.subCategory:hover{color: #999;}
+	/*END:Sale Category and subcategory on Left Side Navigation*/
+			
+	/*For 2012 Spring re-design -- reduce top margin for the first header on the left side navigation*/
+		#sideNav #categoryNav61861{margin-top:0px}/*reduce top margin for the first header (Features) in 1969 DP*/
+		#sideNav #categoryNav11674{margin-top:-4px; *margin-top:0px; _margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Special Sizes) in Women DP and removes top border*/	
+		#sideNav #categoryNav77397{margin-top:-4px; *margin-top:0px; _margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Features) in Body DP and removes top border*/		
+		#sideNav #categoryNav77320{margin-top:0px; _margin-top:0px; *margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Features) in Maternity DP*/				
+		#sideNav #categoryNav37862{margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Special Sizes) in Men DP*/		
+		#sideNav #categoryNav6258{margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Special Sizes) in Girls DP*/
+		#sideNav #categoryNav6174{margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Special Sizes) in Boys DP*/
+		
+		#sideNav #categoryNav77344{margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Collections) in Toddler Girls DP*/
+		#sideNav #categoryNav77345{margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Collections) in Toddler Boys DP*/
+		
+		#sideNav #categoryNav70107{margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Special Sizes) in Infant Girls DP*/
+		#sideNav #categoryNav70172{margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Special Sizes) in Infant Boys DP*/
+		
+		#sideNav #categoryNav26637{margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header Sale DP*/
+		
+		
+	/* END: For 2012 Spring re-design -- reduce top margin for the first header on the left side navigation*/
+
 
 /*Quick Look Close button fix*/
 	.brand1 #quickLookClose, .brand7 #quickLookClose, .brand20 #quickLookClose { width: 19px; margin-top:2px;}
@@ -1084,10 +1240,6 @@ document.observe("dom:loaded",function() {
 #saleHdr, #clearanceHdr {width:828px; display:none !important;}
 /*End sale border width */
 
-
-</style>
-
-<style type="text/css">
 /*contentOverride45*/
 #searchDexFooter{display:none;}
 /* end contentOverride45 */
@@ -1104,6 +1256,7 @@ document.observe("dom:loaded",function() {
 #crossSellBox { display: none !important; }
 /* end contentOverride58 */
 
+
 </style>
 
 
@@ -1114,484 +1267,30 @@ document.observe("dom:loaded",function() {
 
 
 
-<!-- END Content Item File: /content/0003/629/979/cn3629979.html -->
+
+<!-- END Content Item File: /content/0004/736/178/cn4736178.html -->
 
 
 
 <!-- container 2 -->
-<!-- BEGIN Content Item File: /content/0002/686/510/cn2686510.html -->
-
-
-
-
-
-<style type="text/css">
-
-/* +++++++++++++++++++++++ !!!!!!!!!!!!!!!!GOL Layout: Spring 2011!!!!!!!!!!!!!!!! +++++++++++++++++++++++++++++++++++++++*/
-
-	body {background-color :#ffffff !important;}
-	body {background-image :none !important;}
-	#footer {color:#000; font-size:9px;}
-	#footer a:link, #footer a:visited, #footer a:active{color:#000; font-weight:bold;}
-	
-	
-	
-	
-	/*begin - spring 2011: left nav layout*/
-	/*keyline to white/reassign keyline */
-	#mainContent {border:1px solid #ffffff;}
-	#mainContentContainer {border:1px solid #ffffff;}
-	#mainContentContainer {border-left:1px solid #ffffff;border-right:1px solid #ffffff;}
-	
-	/*remove bottom keyline from main content*/
-	#mainContentContainer {border-bottom:medium none;}
-	#mainContent {border-bottom:medium none;}
-	
-	/*dotted key line removed from maincontent added to sidenav added for 7.12 add contentOvveride*/
-	#mainContentContainer #mainContent {
-	background-color:#FFFFFF;
-	background-image:url("/Asset_Archive/GPWeb/content/0002/686/510/assets/nodash_vertical.gif");
-	background-repeat:repeat-y;
-	border:medium none;
-	}
-</style>
-
-<!-- END Content Item File: /content/0002/686/510/cn2686510.html -->
 
 
 
 <!-- container 3 -->
-<!-- BEGIN Content Item File: /content/0004/337/269/cn4337269.html -->
-
-<!-- begin Override reset iPad sideNav line-height -->
-<script type="text/javascript"> 
-/*Override reset iPad sideNav line-height*/ 
-
-document.observe("dom:loaded", function(){    
-var sideNavIsTrue = ['/browse/division.do','/browse/category.do','/browse/subDivision.do','/browse/product.do'];
-
-	if (sideNavIsTrue.include(location.pathname)){
-		var iPadNavSpace = navigator.userAgent;
-		if (iPadNavSpace.indexOf("iPad") != -1) {
-		$('sideNav').style.lineHeight="20px";
-		}
-	}
-}); 
-/////////////////////////////  iPad Quicklook Override  //////////////////////////////////
-var iPadQuicklookOverride = function() {   
-	var sideNavIsTrue = ['/browse/category.do','/browse/search.do']; // only on category and search pages
-	if (sideNavIsTrue.include(location.pathname)){
-		var iPadNavSpace = navigator.userAgent;
-		if (iPadNavSpace.indexOf("iPad") != -1) { // if iPad, wrap the quicklook launcher
-			quickLook.openQuickLookLauncher = quickLook.openQuickLookLauncher.wrap (function(originalMethod,style,stylecolor,category,num,imgroot,bool,num2) {
-     			document.location = "/browse/product.do?cid=" + category + "&vid=" + num + "&pid=" + style;
-			});
-		}
-	}
-}
-
-iPadQuicklookOverride();
+<!-- BEGIN Content Item File: /content/0004/828/136/cn4828136.html -->
 
 
-////////////////////////  iPad Zoom Override  //////////////////////////////////
-var iPadZoomOverride = function() {
-	var zoomIsTrue = ['/browse/product.do']; // only on product pages
-	var previewIsTrue  = ['www.gol.wip.gidapps.com','www.gol.app.gidapps.com'];
-	var topValue = "0px";
-	var topValue2 = "0px";
-	if (zoomIsTrue.include(location.pathname)){
-		var h = 0;
-		h += Element.getHeight('previewContent');
-		h += Element.getHeight('previewRoundedTop');
-		h += Element.getHeight('previewRoundedBottom');
-		if (previewIsTrue.include(location.host)){
-			topValue = 0 + h + "px";
-			topValue2 = 540 + h + "px";
-		} else {	
-			topValue = "0px";
-			topValue2 = "540px";
-		}
-		var iPadNavSpace = navigator.userAgent;
-		if (iPadNavSpace.indexOf("iPad") != -1) { // if iPad, override the zoom
-			//console.info("iPad on PP");
-			
-			var iPadClickToCloseZoom = new Element('div', {'id' : 'clickToCloseZoom', 'style' : 'width:560px; height: 960px; position: absolute; top:0px; left:465px; z-index:9; display:none'});
-			var iPadClickToCloseZoom2 = new Element('div', {'id' : 'clickToCloseZoom', 'style' : 'width:200px; height: 960px; position: absolute; top:0px; left:0px; z-index:9; display:none'});
-			var iPadClickToCloseZoom3 = new Element('div', {'id' : 'clickToCloseZoom', 'style' : 'width:260px; height: 169px; position: absolute; top:' + topValue + '; left:200px; z-index:9; display:none'});
-			var iPadClickToCloseZoom4 = new Element('div', {'id' : 'clickToCloseZoom', 'style' : 'width:260px; height: 500px; position: absolute; top:' + topValue2 + '; left:200px; z-index:9; display:none'});
-			
-			$("mainContentContainer").insert(iPadClickToCloseZoom);
-			$("mainContentContainer").insert(iPadClickToCloseZoom2);
-			$("mainContentContainer").insert(iPadClickToCloseZoom3);
-			$("mainContentContainer").insert(iPadClickToCloseZoom4);
-			$("zoomToolPic").style.background = "none";
-			$("zoomToolPic").src = "/Asset_Archive/GPWeb/content/0004/337/269/assets/iPadTouchToZoom.gif"
-			ProductZoom.showZoomBox = ProductZoom.showZoomBox.wrap(function(OriginalMethod){
-				//console.info("MouseOverHandler");
-				zoomEventTrigger();
-				OriginalMethod();
-			});
-			
-				Event.observe(iPadClickToCloseZoom, "click", function() {
-						//console.info("zoom left closed");
-						zoomCloseEventTrigger();
-				});
-				Event.observe(iPadClickToCloseZoom2, "click", function() {
-						//console.info("zoom right closed");
-						zoomCloseEventTrigger();
-				});
-				Event.observe(iPadClickToCloseZoom3, "click", function() {
-						//console.info("zoom right closed");
-						zoomCloseEventTrigger();
-				});
-				Event.observe(iPadClickToCloseZoom4, "click", function() {
-						//console.info("zoom right closed");
-						zoomCloseEventTrigger();
-				});
-				
-				Event.observe($("productContentLeft"), "click", function() {
-				
-					//console.info("productContentLeft clicked");
-					zoomEventTrigger();
-				
-				});
-	
-				Event.observe($("product_image_bg"), "click", function() {
-				
-					//console.info("product_image_bg clicked");
-					zoomEventTrigger();
-				
-				});
-				
-				Event.observe($("product_image"), "click", function() {
-				
-					//console.info("product_image clicked");
-					zoomEventTrigger();
-				
-				});
+<script type="text/javascript" src="/Asset_Archive/GPWeb/content/0004/828/136/assets/wcdLib.js"></script>
 
-				Event.observe($("dragImg"), "click", function() {
-				
-					//console.info("dragImg clicked");
-					zoomEventTrigger();
-				
-				});
-				
-				Event.observe($("dragBox"), "click", function() {
-				
-					//console.info("dragBox clicked");
-					zoomEventTrigger();
-				
-				});
-				
-				Event.observe($("dragLayer"), "click", function() {
-				
-					//console.info("dragLayer clicked");
-					zoomEventTrigger();
-				
-				});
-			
-			var zoomEventTrigger  = function() {
-				iPadClickToCloseZoom.style.display = "block";
-				iPadClickToCloseZoom2.style.display = "block";
-				iPadClickToCloseZoom3.style.display = "block";
-				iPadClickToCloseZoom4.style.display = "block";
-				$("zoomToolPic").src = "/Asset_Archive/GPWeb/content/0004/337/269/assets/iPadTouchToZoomOut.gif"
-			}
-			
-			var zoomCloseEventTrigger = function() {
-				iPadClickToCloseZoom.style.display = "none";
-				iPadClickToCloseZoom2.style.display = "none";
-				iPadClickToCloseZoom3.style.display = "none";
-				iPadClickToCloseZoom4.style.display = "none";
-				$("zoomToolPic").src = "/Asset_Archive/GPWeb/content/0004/337/269/assets/iPadTouchToZoom.gif"
-			}
-			
-		}
-	}
-}
-Event.observe(document, 'initializeProduct:done',iPadZoomOverride);
 
-</script>
 
-<!-- end Override reset iPad sideNav line-height -->
 
-<!-- END Content Item File: /content/0004/337/269/cn4337269.html -->
+<!-- END Content Item File: /content/0004/828/136/cn4828136.html -->
 
 
 
 <!-- container 4 -->
-<!-- BEGIN Content Item File: /content/0002/935/219/cn2935219.html -->
-
-
-<style type="text/css">
-/* GOL Layout: Spring 2011 GAP CA*/
-
-/* START VI PAGE layout overrides */
-
-
-
-/*begin - spring 2011: HTML & Marketing Banners layout*/
-
-#vi_banner_ID10000384 {
-display: none;
-
-}
-
-#newContentBanner {
-
-display: inline;
-_display: inline;
-float:left;
-margin:8px 2px 50px 1px !important;
-*margin-top:1px;
-*margin-bottom:20px;
-*margin-right:2px;
-height:269px;
-overflow:hidden;
-padding:0px !important;
-_padding:0px !important;
-width:202px;
-
-}
-
-*html #newContentBanner { display:inline;}
-
-#categoryNameHeader {
-display: none;
-position: relative;
-background-color:#DBD9D5;
-height:269px;
-width:202px;
-line-height:20px;
-margin:8px 2px 50px 0px !important;
-*margin-top:1px;
-*margin-bottom:20px;
-*margin-right:2px;
-overflow:hidden;
-padding:0px !important;
-_padding:0px !important;
-float:left;
-
-}
-
-*html #categoryNameHeader { display:inline; }
-
-#catname, #subcatname, #subsubcatname {
-color:#000000;
-font-family:arial;
-font-size:22px;
-font-weight:bold;
-position: absolute !important;
-bottom: 10px !important;
-margin-left:10px !important;
-margin-right:5px !important;
-width: 187px !important;
-}
-
-
-#tabTableOff .clear5 {
-display:none;
-height:0;
-}
-
-#tabTableOff .header4 {
-clear:both;
-}
-/*end - spring 2011: HTML & Marketing Banners layout*/
-
-
-
-
-/* END VI PAGE layout overrides */
-
-</style>
-
-
-
-
-
-<!--begin categoryBannerInsert code CANADA-->
-<script type="text/javascript">
-
-//rejigger code	
-var categoryBannerRejigger = function() {
-	
-	var productWrapper = $('tabTableOff');
-	
-	//append html banner after tabTableoff
-	if ($('categoryNameHeader')) { 
-		var viBanner = $('categoryNameHeader');
-	}
-	
-	//create marketing banner holder to append after tabTableoff		
-	if ($('vi_banner_ID10000384')) {  
-		
-		var viBanner = new Element ('div', {'id': 'newContentBanner'}); //holder container
-		var currentBanner = $('vi_banner_ID10000384').innerHTML;
-		viBanner.update(currentBanner);
-	}
-	
-	//walk through product grid
-	if (productWrapper && viBanner)   {
-					
-		
-		var i = 0; //product counter
-		var counter = 0; //product in row counter (4 products max per row - i.e. [0 - 3])
-		
-	    productWrapper.select("div[class=brand7 productCatItem]").each(function(thisNode) {
-		
-			i++;
-			
-			if (i == 1){
-			
-					//insert new banner as the first item
-					productWrapper.insertBefore(viBanner, thisNode);
-					viBanner.style.display = "block";
-					
-			}
-
-			//check if previous sibling is a 'divider' (sub category)
-			//if NOT then increment counter
-			//else this is the beginning of a row and should set counter to 1             
-			prevNode = thisNode.previous(); 
-
-			if (prevNode.className != 'divider1') {
-				counter++;            
-			} else {                
-				counter = 1;           
-			} 
-
-    		//insert a 'clear' break after every fourth product (row)
-    		//OR for the last productItem
-    		//check the 'next' node to see if it is 'productToolsLine' (last product)            					
-    		//skip over 'clear5' classes (get next.next node)            
-    			
-			var nextNodeClassName = thisNode.next().className;
-
-			if (nextNodeClassName == 'clear5') {
-				nextNodeClassName = thisNode.next().next().className;
-			}
-
-			if (i == 3 || counter == 4 || nextNodeClassName.indexOf('productToolsLine') >= 0) { 
-				clearBreak = document.createElement('div');
-    			clearBreak.setAttribute('style', 'clear:both;float:left;height:8px;width:800px;');
-    			//clearBreak.innerHTML = "<div style='display:block;clear:both;color:#ffffff;width:800px;height:8px;border:0px solid red;'>.</div>";
-    			thisNode.parentNode.insertBefore(clearBreak, thisNode.nextSibling);
-    
-    			counter = 0;
-			}
-			
-			//end pagination
-			
-		}); //end productWrapper.select
-
-	}
-			
-}; //end rejigger
-
-
-
-if (location.pathname == "/browse/category.do") {
-
-	var categoryPagePath = document.location.href;
-	var isCategoryException = true;
-
-var ignoreBannerArray = new Array (
-
-			//CA ONLY
-		"5664",		//jeans
-		"54987",	//leggings jeans
-		"48599",	//always skinny
-		"48597",	//real straight
-		"48598",	//curvy
-		"48596",	//sexy boot
-		"48594",	//perfect boot
-		"48595",	//long & lean
-		
-		"34524",	//bras
-		"5923",		//panties
-		"17045",	//gapbodyfit
-		"18052",	//gapbody fit: tops
-				
-		"6998",		//m jeans
-		"7041",		//m skinny
-		"33182",	//m straight
-		"36324",	//m boot
-		"31394",	//m authentic
-		"7389",		//m standard
-		"5131",		//m easy
-		"5138",		//m loose
-		"31494",	//M Authentic
-	
-		"6013",		//mat jeans
-		"6022",		//mat pants
-		"6189",		//b jeans
-		"6276",		//g jeans
-		"60566"		//trends we love shop
-	
-		);
-
-isCategoryException = ignoreBannerArray.include(gidLib.getQuerystringParam("cid"));
-		
-
-if (!isCategoryException) {
-		if (window["categoryService"] != undefined) {
-		//Release  11.04 categoryService IS defined
-		
-		//run insertion code
-			Event.observe(document, 'categoryProductGrid:ready', categoryBannerRejigger);
-			
-		//end Release 11.04
-	
-		} else {
-	
-		//Release 11.03 
-		
-			//run insertion code
-				Event.stopObserving(window, 'load', imageLoader.init.bind(imageLoader)); 
-				imageLoader.init = imageLoader.init.wrap(function(origM) {
-					categoryBannerRejigger();
-					origM();    
-				});
-			
-				Event.observe(window, 'load', imageLoader.init.bind(imageLoader));
-		//end Release 11.03
-		}
-		
-		
-	} //end if !exception
-
-
-}
-
-var loadMarketingContent = function() {
-
-	if ($('vi_banner_ID10000384')) {  
-	
-		var currentBanner = $('vi_banner_ID10000384').innerHTML;
-		//show new marketing banner after load
-		if ($('newContentBanner')) {
-		$('newContentBanner').update(currentBanner);
-		}else if (isCategoryException) {
-				//skip insertion, display marketing banner
-				$('vi_banner_ID10000384').style.display = "block";
-		}
-		
-		
-	}
-}
-
-/*check release load marketing content last*/
-if (window["categoryService"] != undefined) {
-	Event.observe(document, 'categoryProductGrid:ready', loadMarketingContent);
-}else {
-	Event.observe(window, 'load', loadMarketingContent);
-}
-</script>
-
-
-<!--end categoryBannerInsert code -->
+<!-- BEGIN Content Item File: /content/0004/386/002/cn4386002.html -->
 
 <!-- override 36 - account order status help link fix -->
 <script type="text/javascript">
@@ -1643,14 +1342,201 @@ if( ( location.pathname == '/profile/order_status_detail.do' ) || ( location.pat
 	  }
 	});
 </script>
+<!-- END WCD override to fix pixman data populating on product pages in IE -->
+
+<style type="text/css">
+/*Begin - spring 2012: HTML & Marketing Banners layout CONTAINER 4*/
+
+* html #categoryProductGrid .brand1 productCatItem { height:357px }
+*:first-child+html #categoryProductGrid .brand1 productCatItem { height:357px }
+#categoryProductGrid .clear5 { display:none;height:0; }
+#tabTableOff .header4 {clear:both;}
+#vi_banner_ID10000384 {display: none;}
+#categoryNameHeader {display: none;}
+
+#newContentBanner {
+
+display: inline;
+_display: inline;
+float:left;
+margin:8px 2px 50px 1px !important;
+*margin-top:1px;
+*margin-bottom:20px;
+*margin-right:2px;
+height:269px;
+overflow:hidden;
+padding:0px !important;
+_padding:0px !important;
+min-width:187px;
 
 
-<!-- END Content Item File: /content/0002/935/219/cn2935219.html -->
+}
+
+.subHeaderWCDMarketing{
+
+display: inline;
+_display: inline;
+float:left;
+margin:8px 2px 50px 1px !important;
+*margin-top:1px;
+*margin-bottom:20px;
+*margin-right:2px;
+height:269px;
+overflow:hidden;
+padding:0px !important;
+_padding:0px !important;
+min-width:187px;
+
+}
+
+*html #newContentBanner { display:inline;}
+
+#htmlBannerGOL {
+display: block;
+position: relative;
+background-color:#DBD9D5;
+height:269px;
+line-height:20px;
+margin:8px 2px 50px 0px !important;
+*margin-top:1px;
+*margin-bottom:20px;
+*margin-right:2px;
+overflow:hidden;
+padding:0px !important;
+_padding:0px !important;
+float:left;
+width: 202px;
+
+}
+
+*html #categoryNameHeader { display:inline; }
+
+#catname, #subcatname, #subsubcatname {
+color:#000000;
+font-family:arial;
+font-size:22px;
+font-weight:bold;
+position: absolute !important;
+bottom: 10px !important;
+margin-left:10px !important;
+margin-right:5px !important;
+width: 187px !important;
+}
+/*End - spring 2012: HTML & Marketing Banners layout CONTAINER 4*/
+</style>
+
+<script type="text/javascript">
+/* BEGIN GOL BANNER INSERT CODE ON VI PAGES: WCD CODE 55276 CONTAINER 4 */
+if( location.pathname == "/browse/category.do" ) {
+
+	categoryMarketingRejigger = {
+		
+		init: function() {
+				// Check for marketing content for subheaders
+				if( window['categoryMarketingData'] ) {
+						// Loop through and identify subheaders
+						if( $('tabTableOff') ) {
+							var subHeaders = $('tabTableOff').select('h2.header4');
+							var subHeader, subHeaderName, eltToInsertAfter, marketingDiv;
+					
+							if( subHeaders && subHeaders.length > 0 ) {
+								for( var i=0; i < subHeaders.length; i++ ) {
+									subHeader = subHeaders[i];
+									subHeaderName = subHeader.innerHTML;
+									//remove spaces and characters
+									subHeaderName = subHeaderName.replace(/\s/g,''); //remove all white space
+									//subHeaderName = subHeaderName.replace(/^\s+|\s+$/g,"");
+									//subHeaderName = subHeaderName.replace(/[^\w\s]/gi, '');
+									subHeaderName = subHeaderName.replace(/&amp;/g, '');//remove '&amp;' since they can't be used in the url
+									subHeaderName = subHeaderName.replace(/&/g, ''); //remove '&' since they can't be used in the url
+									subHeaderName = subHeaderName.toLowerCase();
+									
+									//console.log (subHeaderName); }
+							
+										// Find divider1s after header4s to determine where to insert marketing
+									eltToInsertAfter = subHeader.next();
+							
+									for( var j=0; j < categoryMarketingData.subheaders.length; j++ ) {
+										if( subHeaderName == categoryMarketingData.subheaders[j].subHeaderName ) {
+											marketingDiv = new Element('div', { id: 'subHeaderMarketing' + i, className: 'subHeaderWCDMarketing' });
+											
+											if( $( categoryMarketingData.subheaders[j].subHeaderMarketingContent ) ) {
+													marketingDiv.update( $( categoryMarketingData.subheaders[j].subHeaderMarketingContent ).innerHTML );
+													eltToInsertAfter.insert({ after:marketingDiv });
+											}
+										}
+									}						
+								}				
+							}
+						}
+				
+				
+				
+				}
+				// If no subheader marketing content for any, move name into first square of grid
+				else {
+	
+					// Marketing banner
+					if( $('vi_banner_ID10000384') ) {
+					
+					var viBannerCheck = $('vi_banner_ID10000384').innerHTML;
+					viBannerCheck = viBannerCheck.replace(/\s/g,''); //remove all white space
+					
+						
+					if (viBannerCheck != '') { //check to see if marketing content is assigned, added due to new wide banner container
+						var htmlBannerStr = $('vi_banner_ID10000384').innerHTML;
+							
+							htmlBannerDiv = new Element('div', { id: 'newContentBanner' });
+							htmlBannerDiv.update( htmlBannerStr );
+					
+						
+						//if (htmlBannerDiv.length > 0) { //check to see if marketing content is assigned, added due to new wide banner container
+						
+							//insert marketing into first slot
+							if( $('tabTableOff') ) {
+								var firstGridSquare = $('tabTableOff').select('.productCatItem');
+								if( firstGridSquare && firstGridSquare.length > 0 ) {
+									firstGridSquare = firstGridSquare[0];
+									firstGridSquare.insert({ before: htmlBannerDiv });
+								}
+							}
+						}
+					}
+	
+					// HTML banner
+					else if( $('categoryNameHeader') ) {
+						//var htmlBannerContent = $('categoryNameHeader');
+						var htmlBannerStr = $('categoryNameHeader').innerHTML;
+						htmlBannerDiv = new Element('div', { id: 'htmlBannerGOL' });
+						htmlBannerDiv.update( htmlBannerStr );
+					
+						if( $('tabTableOff') ) {
+							var firstGridSquare = $('tabTableOff').select('.productCatItem');
+							if( firstGridSquare && firstGridSquare.length > 0 ) {
+								firstGridSquare = firstGridSquare[0];
+								firstGridSquare.insert({ before: htmlBannerDiv });
+							}
+						}
+					
+					} 
+				
+				} 
+				
+				
+		} //end init
+	}
+	
+	Event.observe( document, 'categoryProductGrid:ready', categoryMarketingRejigger.init );
+}
+/* END GOL BANNER INSERT CODE ON VI PAGES: WCD CODE 55276 CONTAINER 4 */
+</script>
+
+<!-- END Content Item File: /content/0004/386/002/cn4386002.html -->
 
 
 
 <!-- container 5 -->
-<!-- BEGIN Content Item File: /content/0002/661/319/cn2661319.html -->
+<!-- BEGIN Content Item File: /content/0004/926/089/cn4926089.html -->
 
 
 <!-- begin contentOverride 101 -->
@@ -1760,7 +1646,7 @@ if(window['ProductThumbs']) {
 </script>
 <!-- end contentOverride61 -->
 
-<!-- begin contentOverride105_1 -->
+<!-- begin contentOverride105_2_WCD -->
 <script type="text/javascript">
 	var CheckoutLoggingHelper = Class.create();
 	CheckoutLoggingHelper.prototype = {
@@ -1777,7 +1663,9 @@ if(window['ProductThumbs']) {
 			currentDwrRequestTime:null,
 			currentDwrRequestDate:null,
 			isCookieLengthHigh:false,
-			isSafari:false
+			isSafari:false,
+			/* WCD cookies variables to keep */
+			wcdCookiesToKeep:[]
 		},
 		controller:{
 			init:{
@@ -1803,9 +1691,64 @@ if(window['ProductThumbs']) {
 						controller.clearCookie("globalSession");
 						if (isSafari) {
 							/* Clear mkt cookies for Safari browsers only */
-							controller.clearCookie("mktGlobalSession");
-							controller.clearCookie("mktUniversalPersist");
+							//controller.clearCookie("mktGlobalSession");
+							//controller.clearCookie("mktUniversalPersist");
+							
+							/* WCD update to clean up marketing cookies rather than delete */
+							controller.cleanCookie("mktGlobalSession");
+							controller.cleanCookie("mktUniversalPersist");
 						}
+					}
+				}
+			},
+			cleanCookie:function(cookieName) {
+				/* WCD function to clean marketing cookies up */
+				/* Deletes cookie values expect those specified to keep in data model */
+				var controller = checkoutLoggingHelper.controller;
+				var model = checkoutLoggingHelper.model;
+				var cookieStr = gidLib.getCookie( cookieName );
+				if( cookieStr != '' ) {
+					var cookieArray = cookieStr.split('&');
+					var newCookiStr = '';
+					var cookieVar;
+					
+					cookieArray.each( function( cookieArrayPair, i ) {
+						//console.log( cookieArrayPair );
+						cookieVar = cookieArrayPair.split('=');
+						cookieVar = cookieVar[0];
+					
+						if( model.wcdCookiesToKeep.include( cookieVar ) ) {
+							newCookiStr = newCookiStr + cookieArrayPair;
+							// Delimit cookie values with ampersand
+							if( i < cookieArray.length ) {
+								newCookiStr = newCookiStr + '&';
+							}
+						}
+					});
+					newCookiStr = newCookiStr.substr( 0, newCookiStr.length-1 );
+								
+					// Reset cookie with new value
+					var cookieConfiguration = cookieManagementService.api.getCookieConfigurationByCookieName(cookieName);
+					if (cookieConfiguration != null) {
+						/* Cookie is managed by cookieManagementService so proceed with cookieConfiguration from service. */
+						gidLib.setCookie(cookieConfiguration.name,
+							escape(newCookiStr),
+							cookieConfiguration.expirationDate,
+							cookieConfiguration.path,
+							cookieConfiguration.domain,
+							cookieConfiguration.isSecure);
+					} else {
+						/* Cookie is not managed by cookieManagementService so proceed with default execution. */
+						var expDate = (expDate != null ? expDate : gidLib.getFutureDate({"years":5}));
+						var cookieParams = gidLib.setCookieParamsHelper(cookieName,expDate);
+						/* Set cookie */
+						gidLib.setCookie(cookieName,
+							escape(newCookiStr),
+							cookieParams.exp,
+							cookieParams.path,
+							cookieParams.domain,
+							cookieParams.isSecure);
+
 					}
 				}
 			},
@@ -1909,7 +1852,7 @@ if(window['ProductThumbs']) {
 		checkoutLoggingHelper.controller.init.shoppingBagMain();
 	}
 </script>
-<!-- end contentOverride105_1 -->
+<!-- end contentOverride105_2_WCD -->
 
 
 <!-- begin contentOverride26 - pixman fix for product pages  -->
@@ -2151,11 +2094,52 @@ if ($('shoppingBagSummaryContainer')) {
 	});
 }
 </script>
+
+<!-- BEGIN override #61 UPDATE: Fit & Sizing - patch to remove "Inseam" and "Big & Tall"  listing from product pages and quicklook 04252012 JP-->
+<script type="text/javascript">
+if (location.pathname == "/browse/product.do") {
+	objO = {};  // removes sizing links (hide Petite/Tall Fit Guide)
+	productPage.loadProduct = productPage.loadProduct.wrap(function(originalMethod){
+		originalMethod();
+		var myLI = $("tabWindow").select('li');
+		for (i=0; i<myLI.length; i++) {
+			if (myLI[i].innerHTML.include("Inseams") ){
+				myLI[i].hide();
+			}
+			//hide Big & Tall copy bullet
+			if (myLI[i].innerHTML.include("Available in Big &amp; Tall sizes.") ){
+				myLI[i].hide();
+			}
+			
+		}    
+	});
+}
+
+//remove "inseam" copy links to quicklook product 
+if (location.pathname == "/browse/category.do") {
+	objO = {};  // removes sizing links (hide Petite/Tall Fit Guide)
+	document.observe('quicklook:load', function() {
+		
+		var myLI = $("quickLookTabArea").select('li');
+		for (i=0; i<myLI.length; i++) {
+			if (myLI[i].innerHTML.include("Inseams") ){
+				myLI[i].hide();
+				
+			}
+			//hide Big & Tall copy bullet
+			if (myLI[i].innerHTML.include("Available in Big &amp; Tall sizes.") ){
+				myLI[i].hide();
+			}
+		}    
+	});
+}
+</script>
+<!-- END: override #61 UPDATE: Fit & Sizing - patch to remove "Inseam" and "Big & Tall"  listing from product pages and quicklook 04252012 JP-->
   
 <!-- override #61: fix for hiding product page links -->
 <script type="text/javascript">
 	// patch to remove links from product pages
-
+/* hidden for override above
 if (location.pathname == "/browse/product.do") {
 	objO = {};  // removes sizing links
 	productPage.loadProduct = productPage.loadProduct.wrap(function(originalMethod){
@@ -2169,6 +2153,7 @@ if (location.pathname == "/browse/product.do") {
 		}    
 	});
 }
+*/
 </script>
 <!-- end: override #61: fix for hiding product page links -->
  
@@ -2231,16 +2216,469 @@ GIDProduct.prototype.setFabricContent = function(arrayFabricContent, strFabricCo
 </script>
 <!-- END: Content Override 92 -->
 
-<!-- END Content Item File: /content/0002/661/319/cn2661319.html -->
+
+<!-- Begin Content Override 107 -->
+<style type="text/css">
+.universalButtonSpriteQuickLookCloseOn { background-position: -777px -716px; height: 19px; width: 19px;} 
+</style>
+
+<script type="text/javascript">
+
+document.observe("dom:loaded", function() {
+	var parentEle = $('completeRegistrationPanel');
+	if (parentEle) {
+		var badElements = parentEle.getElementsBySelector('img[class="universalButtonSprite universalButtonSpriteQuickLookClose"]');
+		badElements.each(function(ele) {
+			ele.className = ele.className + 'On';
+		});
+	}
+});
+</script>
+<!-- End Content Override 107 -->
+
+<!-- contentOverride108 begin -->
+<script type="text/javascript">
+ContentOverride108 = Class.create();
+
+ContentOverride108.prototype = {
+	initialize:function() {
+	
+	},
+	model:{
+		isOverrideActive:false
+	},
+	controller:{
+		isOverrideActivationValid:function() {
+			var override = contentOverride108;
+			var isOverrideActivationValid = false;
+			var isOverrideActive = override.model.isOverrideActive;
+			if (!isOverrideActive && window["categoryInfo"] && window.location.pathname == "/browse/category.do") {
+				if (categoryInfo.isShopBySize) {
+					var FILTERED_TAB_ACTIVE_PARAMETER = categoryService.constants.requestParameters.FILTERED_TAB_ACTIVE_PARAMETER;
+					/* Check if there is an actual SBS related query parameter in the request and if so, then activate the override */
+					var queryStringFilteredTabActiveParameter = gidLib.getQuerystringParam(FILTERED_TAB_ACTIVE_PARAMETER, true);
+					if (queryStringFilteredTabActiveParameter != null && queryStringFilteredTabActiveParameter != "") {
+						isOverrideActivationValid = true;
+					}
+				}
+			}
+			return isOverrideActivationValid;
+		},
+		init:{
+			main:function() {
+				var override = contentOverride108;
+				var isOverrideActivationValid = override.controller.isOverrideActivationValid();
+				if (isOverrideActivationValid) {
+					override.model.isOverrideActive = true;
+					override.controller.extendCategoryService();
+					categoryService.model.isProductGridRequested = false;
+					categoryService.controller.init.main();
+				}
+			}
+		},
+		extendCategoryService:function() {
+			Object.extend(categoryService.controller, {
+				isParameterWithValue:function(parameter) {
+					var isParameterWithValue = false;
+					if (parameter != null && parameter != "") {
+						isParameterWithValue = true;
+					}
+					return isParameterWithValue;
+				},
+				getQueryParametersUrlFormatted:function() {
+					var constants = categoryService.constants;
+					var controller = categoryService.controller;
+					var requestParameters = constants.requestParameters;
+					var model = categoryService.model;
+					var queryParametersUrlFormatted = null;
+					var queryParameters = [];
+					var clickStream = personalizationService.model.personalizationData.personalizationInfoV1.userContext.clickStream;
+					var userContext = personalizationService.model.personalizationData.personalizationInfoV1.userContext;
+					var isReferrerAThirdPartySite = personalizationService.controller.isReferrerAThirdPartySite();
+					var sbsRequestOverrideParameter = "sbsRequestOverride=true";
+					queryParameters.push(sbsRequestOverrideParameter);
+					/* cid */
+					if (window["categoryInfo"]) {
+						var CID_PARAMETER = requestParameters.CID_PARAMETER;
+						var cidParameter = categoryInfo.businessCatalogItemId;
+						if (cidParameter != undefined && cidParameter != null && cidParameter != "" && cidParameter.length > 0) {
+							var cidParameterEncoded = encodeURIComponent(cidParameter);
+							queryParameters.push(CID_PARAMETER + "=" + cidParameterEncoded);
+						} else {
+							/* Detect if the promoid parameter is present which means this is an mpp.do request. */
+							var PROMO_ID_PARAMETER = requestParameters.PROMO_ID_PARAMETER;
+							var PROMO_REF_ID_PARAMETER = requestParameters.PROMO_REF_ID_PARAMETER;
+							var PROMO_TYPE_PARAMETER = requestParameters.PROMO_TYPE_PARAMETER;
+							
+							var promoIdParameter = gidLib.getQuerystringParam("promoid", true);
+							if (promoIdParameter != "" && promoIdParameter != undefined && promoIdParameter != null) {
+								var promoRefIdParameter = gidLib.getQuerystringParam("promorefid", true);
+								var promoTypeParameter = gidLib.getQuerystringParam("promotype", true);
+								/* promoid */
+								var promoIdParameterEncoded = encodeURIComponent(promoIdParameter);
+								queryParameters.push(PROMO_ID_PARAMETER + "=" + promoIdParameterEncoded);
+								/* promorefid */
+								var promoRefIdParameterEncoded = encodeURIComponent(promoRefIdParameter);
+								queryParameters.push(PROMO_REF_ID_PARAMETER + "=" + promoRefIdParameterEncoded);
+								/* promotype */
+								var promoTypeParameterEncoded = encodeURIComponent(promoTypeParameter);
+								queryParameters.push(PROMO_TYPE_PARAMETER + "=" + promoTypeParameterEncoded);
+							}
+						}
+					}
+					/* sem */
+					var SEM_PARAMETER = requestParameters.SEM_PARAMETER;
+					var semParameter = gidLib.getQuerystringParam(SEM_PARAMETER, true);
+					if (semParameter == "true") {
+						var semParameterEncoded = encodeURIComponent(semParameter);
+						queryParameters.push(SEM_PARAMETER + "=" + semParameterEncoded);
+					} else if (isReferrerAThirdPartySite){
+						queryParameters.push(SEM_PARAMETER + "=" + "true");
+					}
+					/* sortBy */
+					var SORT_BY_PARAMETER = requestParameters.SORT_BY_PARAMETER;
+					var sortByParameter = "0";
+					queryParameters.push(SORT_BY_PARAMETER + "=" + sortByParameter);
+					/* actFltr */
+					var FILTERED_TAB_ACTIVE_PARAMETER = requestParameters.FILTERED_TAB_ACTIVE_PARAMETER;
+					var filteredTabActiveParameter = categoryService.controller.getFilterTabActiveParameter(clickStream);
+					if (filteredTabActiveParameter != null) {
+						var filteredTabActiveParameterEncoded = encodeURIComponent(filteredTabActiveParameter);
+						queryParameters.push(FILTERED_TAB_ACTIVE_PARAMETER + "=" + filteredTabActiveParameterEncoded);
+					}
+					/* sizeCategoryUserSelections */
+					var sizeCategoryUserSelectionsParameters =
+						categoryService.controller.getSizeCategoryUserSelectionsParameters(clickStream);
+					if (sizeCategoryUserSelectionsParameters != null) {
+						queryParameters.push(sizeCategoryUserSelectionsParameters);
+					};
+					/* pageID */
+					var pageIdParameterValue = categoryService.controller.getPageIdParameter(clickStream);
+					var PAGE_ID_PARAMETER = constants.requestParameters.PAGE_ID_PARAMETER;
+					queryParameters.push(PAGE_ID_PARAMETER + "=" + pageIdParameterValue);
+					
+					/* globalShippingCurrencyCode */
+					var globalShippingCurrencyCodeParameterValue = categoryService.controller.getGlobalShippingCurrencyCodeParameter(userContext);
+					if (globalShippingCurrencyCodeParameterValue != null) {
+						var GLOBAL_SHIPPING_CURRENCY_CODE_PARAMETER = constants.requestParameters.GLOBAL_SHIPPING_CURRENCY_CODE_PARAMETER;
+						queryParameters.push(GLOBAL_SHIPPING_CURRENCY_CODE_PARAMETER + "=" + globalShippingCurrencyCodeParameterValue);
+					}
+					/* globalShippingCountryCode */
+					var globalShippingCountryCodeParameterValue = categoryService.controller.getGlobalShippingCountryCodeParameter(userContext);
+					if (globalShippingCountryCodeParameterValue != null) {
+						var GLOBAL_SHIPPING_COUNTRY_CODE_PARAMETER = constants.requestParameters.GLOBAL_SHIPPING_COUNTRY_CODE_PARAMETER;
+						queryParameters.push(GLOBAL_SHIPPING_COUNTRY_CODE_PARAMETER + "=" + globalShippingCountryCodeParameterValue);
+					}
+					
+					if (queryParameters.length > 0) {
+						queryParametersUrlFormatted = queryParameters.join("&");
+					}
+					return queryParametersUrlFormatted;
+				},
+				getFilterTabActiveParameter:function(clickStream) {
+					var filteredTabActiveParameter = null;
+					var constants = categoryService.constants;
+					var controller = categoryService.controller;
+					var requestParameters = constants.requestParameters;
+					var model = categoryService.model;
+					var FILTERED_TAB_ACTIVE_PARAMETER = requestParameters.FILTERED_TAB_ACTIVE_PARAMETER;
+					/* first check the query string parameter, and if it 
+					 * exists then retrieve from query string, otherwise check clickstream. */
+					var queryStringFilteredTabActiveParameter = gidLib.getQuerystringParam(FILTERED_TAB_ACTIVE_PARAMETER, true);
+					var isQueryStringParameterValid = controller.isParameterWithValue(queryStringFilteredTabActiveParameter);
+					var clickStreamFilteredTabActiveParameter = null;
+					var isClickStreamParameterValid = false;
+					if (isQueryStringParameterValid) {
+						filteredTabActiveParameter = queryStringFilteredTabActiveParameter;
+					} else {
+						if (clickStream["isFilteredTabActive"]) {
+							clickStreamFilteredTabActiveParameter = clickStream.isFilteredTabActive;
+							isClickStreamParameterValid = controller.isParameterWithValue(clickStreamFilteredTabActiveParameter);
+							if (isClickStreamParameterValid) {
+								filteredTabActiveParameter = clickStreamFilteredTabActiveParameter;
+							}
+						}
+					}
+					return filteredTabActiveParameter;
+				},												
+				getClickStreamSizeCategorySelectionsMap:function(clickStream) {
+					var clickStreamSizeCategorySelectionsMap = $H();
+					if (clickStream["sizeCategoryUserSelections"]) {
+						var sizeCategoryUserSelections = clickStream.sizeCategoryUserSelections;
+						if (sizeCategoryUserSelections.length > 0) {
+							var sizeCategoryUserSelectionsParametersArray = [];
+							var sizeCategoryUserSelectionsArray = null;
+							/* Create the sizeCategoryUserSelectionsArray */
+							if (sizeCategoryUserSelections.indexOf("||") != -1) {
+								/* Multiple size categories detected */
+								sizeCategoryUserSelectionsArray = sizeCategoryUserSelections.split("||");
+							} else {
+								/* Single size category detected */
+								sizeCategoryUserSelectionsArray = [];
+								sizeCategoryUserSelectionsArray[0] = sizeCategoryUserSelections;
+							}
+							if (sizeCategoryUserSelectionsArray != null && sizeCategoryUserSelectionsArray.length > 0) {
+								var isSizeCategoryWithUserSelections = false;
+								var sizeCategoryParameters = null;
+								var sizeCategoryParametersArray = null;
+								var sizeCategoryId = null;
+								var sizeValuesUserSelection = null;
+								var sizeValuesParameters = null;
+								var sizeValuesParametersArray = null;
+								var sizeCategoryUserSelection = null;
+								for (var i = 0; i < sizeCategoryUserSelectionsArray.length; i++) {
+									isSizeCategoryWithUserSelections = false;
+									sizeCategoryParameters = null;
+									sizeCategoryParametersArray = [];
+									sizeCategoryId = null;
+									sizeValuesUserSelection = null;
+									sizeValuesParametersArray = [];
+									sizeCategoryUserSelection = sizeCategoryUserSelectionsArray[i];
+									if (sizeCategoryUserSelection.indexOf("=")) {
+										sizeCategoryUserSelectionArray = sizeCategoryUserSelection.split("=");
+										sizeCategoryId = sizeCategoryUserSelectionArray[0];
+										sizeValuesUserSelection = sizeCategoryUserSelectionArray[1];
+										if (sizeValuesUserSelection != null && sizeValuesUserSelection.length > 0 && sizeValuesUserSelection != null) {
+											var sizeValuesUserSelectionArray = sizeValuesUserSelection.split(",");
+											for (j = 0; j < sizeValuesUserSelectionArray.length; j++) {
+												var sizeValue = sizeValuesUserSelectionArray[j];
+												if (sizeValue != null && sizeValue.length > 0 && sizeValue != "null") {
+													isSizeCategoryWithUserSelections = true;
+													sizeValuesParametersArray.push(sizeValue);
+												}
+											}
+											if (isSizeCategoryWithUserSelections) {
+												sizeValuesParameters = sizeValuesParametersArray.join(",");
+												clickStreamSizeCategorySelectionsMap.set(sizeCategoryId, sizeValuesParameters);
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+					return clickStreamSizeCategorySelectionsMap;
+				},
+				/**
+				 * This method iterates through all the sizeCategoryIds and detects if values are in the
+				 * query string and if not, then checks to see if there are values for a given sizeCategoryId
+				 * in clickStream.  The rule is that explicit parameters in the URL always win regardless of the values
+				 * in clickStream.
+				 */
+				getSizeCategoryUserSelectionsParameters:function(clickStream) {
+					var sizeCategoryUserSelectionsParameters = null;
+					var queryStringSizeCategorySelectionsMap = $H();
+					var clickStreamSizeCategorySelectionsMap = categoryService.controller.getClickStreamSizeCategorySelectionsMap(clickStream);
+					if (window["categoryInfo"]) {
+						var sizeCategoryIds = categoryInfo.sizeCategoryIds;
+						var sizeCategoryIdsArray = null;
+						var sizeCategoryId = null;
+						var sizeCategoryIdQueryParameterKey = null;
+						var sizeCategoryIdQueryParameterValue = null;
+						var sizeCategoryIdClickStreamParameterValue = null;
+						var sizeCategoryIdParameterValue = null;
+						var isParameterValueValid = false;
+						var sizeCategoryUserSelectionsParametersArray = null;
+						var sizeCategoryParametersArray = null;
+						var sizeCategoryParameters = null;
+						if (sizeCategoryIds != null && sizeCategoryIds != "") {
+							if (sizeCategoryIds.indexOf(",") != -1) {
+								sizeCategoryIdsArray = sizeCategoryIds.split(",");
+							} else {
+								sizeCategoryIdsArray = new Array(sizeCategoryIds);
+							}
+						}
+						if (sizeCategoryIdsArray != null && sizeCategoryIdsArray.length > 0) {
+							sizeCategoryUserSelectionsParametersArray = [];
+							for (var i = 0; i < sizeCategoryIdsArray.length; i++) {
+								isParameterValueValid = false;
+								sizeCategoryParametersArray = null;
+								sizeCategoryParameters = null;
+								sizeCategoryId = sizeCategoryIdsArray[i];
+								sizeCategoryIdQueryParameterKey = "szCatValue" + sizeCategoryId;
+								sizeCategoryIdQueryParameterValue = gidLib.getQuerystringParam(sizeCategoryIdQueryParameterKey, true);
+								isParameterValueValid = categoryService.controller.isParameterWithValue(sizeCategoryIdQueryParameterValue);
+								if (isParameterValueValid) {
+									sizeCategoryIdParameterValue = sizeCategoryIdQueryParameterValue;
+								} else {
+									sizeCategoryIdClickStreamParameterValue = clickStreamSizeCategorySelectionsMap.get(sizeCategoryId);
+									isParameterValueValid = categoryService.controller.isParameterWithValue(sizeCategoryIdClickStreamParameterValue);
+									if (isParameterValueValid) {
+										sizeCategoryIdParameterValue = sizeCategoryIdClickStreamParameterValue;
+									}
+								}
+								if (isParameterValueValid) {
+									sizeCategoryParametersArray = [];
+									queryStringSizeCategorySelectionsMap.set(sizeCategoryIdQueryParameterKey, sizeCategoryIdParameterValue);
+									sizeCategoryParametersArray.push("szCatId" + "=" + sizeCategoryId);
+									sizeCategoryParametersArray.push(sizeCategoryIdQueryParameterKey + "=" + sizeCategoryIdParameterValue);
+									sizeCategoryParameters = sizeCategoryParametersArray.join("&");
+									sizeCategoryUserSelectionsParametersArray.push(sizeCategoryParameters);
+								}
+							}
+							if (sizeCategoryUserSelectionsParametersArray.length > 0) {
+								sizeCategoryUserSelectionsParameters = sizeCategoryUserSelectionsParametersArray.join("&");
+							}
+						}
+					}
+					return sizeCategoryUserSelectionsParameters;
+				}
+				
+				
+			});
+		}
+	}
+}
+
+var contentOverride108 = new ContentOverride108();
+contentOverride108.controller.init.main();
+</script>
+<!-- contentOverride108 end -->
+
+<!-- begin contentOverride110 -->
+<script type="text/javascript">
+ 	   if (window["browserService"]) {
+ 	                Object.extend(browserService.controller.managers.mobileBrowserManager.constants.MOBILE_BROWSER_BUSINESS_UNIT_ID_REDIRECT_URL_MAP, {
+ 	                        7:"http://m.gapcanada.ca",
+ 	                        8:"http://m.bananarepublic.gapcanada.ca",
+							9:"http://m.oldnavy.gapcanada.ca"
+ 	                });
+ 	                browserService.controller.init.main();
+ 	   }
+</script>
+<!-- end contentOverride110 -->
+
+
+
+<!-- contentOverride113 begin -->
+<script type="text/javascript">
+if (window['checkout'] && checkout.controller.modules.billing) {
+	checkout.controller.modules.billing.getBillingRequest = checkout.controller.modules.billing.getBillingRequest.wrap(
+		function(old) { 
+			var status = false; 
+			try { status = old(); } 
+			catch(e) { status = false; } 
+			finally { status = false; } 
+			return status; 
+		}
+	);
+}
+if (window['checkout'] && checkout.controller.modules.signIn) { 
+	checkout.controller.modules.signIn.getSignInRequest= checkout.controller.modules.signIn.getSignInRequest.wrap(
+		function(old) {
+			var status = false; 
+			try { status = old(); } 
+			catch(e) { status = false; } 
+			finally { status = false; } 
+			return status;
+		}
+	);
+} 
+</script>
+<!-- contentOverride113 end -->
+
+<!-- contentOverride114 begin -->
+<script type="text/javascript">
+if (window["imageLoader"]) {
+
+	// Undo the event binding
+	if (window["categoryInfo"]) {
+		if (categoryInfo.categoryPageCachingActive == "true") {
+			Event.stopObserving(document, 'categoryProductGrid:ready', imageLoader.initLoader);
+		}
+	}
+	if (!isImageLoaderObserverSet) {
+		Event.stopObserving(document, "dom:loaded", imageLoader.initLoader);
+	}
+
+	// Override the init method
+	ImageLoaderConstructor.prototype.init = function() {
+		this.reset();
+
+		var productGrid = this.productGrid = $('tabTable')||$('tabTableOff')||$('searchProductIteration')||$$('div[class="categoryContent"]')[0];
+		if(!productGrid) return;
+
+		// make imageLoader forward/backward compatible with SOLR/ORA category page
+		// ---------------------
+		this.productList = $('mainContent').select('div[class~="productCatItem"]');
+		if(this.productList.length == 0) {
+			this.productList = $('mainContent').select('li[class~="productCatItem"]');
+		} 
+		if(this.productList.length == 0) return;
+		// ---------------------
+		
+		this.initializeImages(this.productList, this.imgs);
+		
+		var firstProductImg = Selector.findChildElements(this.productList[0], ['img']);
+
+		this.shouldFlipImgArray = firstProductImg[0].id == this.imgs[this.imgs.length - 1].img.id;
+		var productDim = this.productList[0].getDimensions();
+
+		var productViewportRowCount = this.browserDim[1] / productDim.height;
+		this.groupSize = Math.ceil(productViewportRowCount) * this.productPerRow;
+
+		this.groupCount = Math.ceil(this.productList.size() / this.groupSize);
+		
+		var productGridDim = productGrid.getDimensions();
+		var productRowCount = Math.floor(productGridDim.height / productDim.height);
+		var rowSize = productRowCount / this.groupCount;
+		var rowsHeight = productDim.height * rowSize;
+		
+		this.rowsHeightInverse = 1/rowsHeight;
+
+		var productGridOffset = Position.cumulativeOffset(productGrid);
+		this.minHeight = productGridOffset[1];
+		this.maxHeight = this.minHeight + productGridDim.height - rowsHeight;
+		
+		this.scrollHandler = this.fetch.bind(imageLoader);
+		Event.observe(window, 'scroll', this.scrollHandler);
+
+		this.fetch();
+	};
+
+	// re-instantiate imageLoader
+	window['imageLoader'] = null;
+	window['imageLoader'] = new ImageLoaderConstructor();
+
+	// re-bind events
+	window['isImageLoaderObserverSet'] = false;
+	if (window["categoryInfo"]) {
+		if (categoryInfo.categoryPageCachingActive == "true") {
+			Event.observe(document, 'categoryProductGrid:ready', imageLoader.initLoader);
+			window['isImageLoaderObserverSet'] = true;
+		}
+	}
+	if (!window['isImageLoaderObserverSet']) {
+		Event.observe(document, "dom:loaded", imageLoader.initLoader);
+		window['isImageLoaderObserverSet'] = true;
+	}
+}
+</script>
+<!-- contentOverride114 end -->
+
+
+<!-- END Content Item File: /content/0004/926/089/cn4926089.html -->
 
 
 
 <!-- container 6 -->
+<!-- BEGIN Content Item File: /content/0004/715/768/cn4715768.html -->
+
+<meta name="viewport" content="width = 1024">
+<script src="/Asset_Archive/GPWeb/content/0004/715/768/assets/iPad.js"></script>
+<script type="text/javascript">
+var browserUserAgent = navigator.userAgent;
+if (browserUserAgent.indexOf("iPad") != -1) {
+	iPadInit();
+}
+</script>
+
+<!-- END Content Item File: /content/0004/715/768/cn4715768.html -->
 
 
 
 <!-- container 7 -->
-<!-- BEGIN Content Item File: /content/0004/389/330/cn4389330.html -->
+<!-- BEGIN Content Item File: /content/0005/149/180/cn5149180.html -->
 
 <script type="text/javascript">
 document.observe("dom:loaded", function() 
@@ -2268,10 +2706,6 @@ document.observe("dom:loaded", function()
 				$("shippingOptionsRadioText2120").setStyle({ fontSize:'9px' });
 		}		
 		
-		if( $('shippingOptionsRadioText2113') ) {
-            $("shippingOptionsRadioText2113").update("7-9 business days - FREE Every Day ($50 min)");
-        }
-		
     });
 </script>
 <!-- Shipping options 11am fix -->
@@ -2291,13 +2725,15 @@ document.observe("dom:loaded", function() {
             if (messageNode) {
 
                		//2 business days Message
-              if ($('selectedShippingMethod1343').checked == true) { 		
+				if ($('selectedShippingMethod2122').checked == true) { 	
+            //if ($('selectedShippingMethod1343').checked == true) { 		
 			//if ($('selectedShippingMethod1201').checked == true) {
 				messageNode.update("Complete your order Monday through Friday (excluding holidays) before 2:00 PM ET / 11:00 AM PT to receive your package within 2 business days.<br><br>Orders placed on weekends, holidays, or weekdays after 2:00 PM ET / 11:00 AM PT will arrive within 3 business days.")
 			}
 			
-			//1 business day Message
-			if ($('selectedShippingMethod1345').checked == true) {
+			//1 business day Message 
+			if ($('selectedShippingMethod2124').checked == true) {
+			//if ($('selectedShippingMethod1345').checked == true) {
 			//if ($('selectedShippingMethod1203').checked == true) {
 				messageNode.update("Complete your order Monday through Friday (excluding holidays) before 2:00 PM ET / 11:00 AM PT to receive your package the next business day.<br><br>Orders placed on weekends, holidays, or weekdays after 2:00 PM ET / 11:00 AM PT will arrive within 2 business days.")
 			}		
@@ -2314,7 +2750,7 @@ document.observe("dom:loaded", function() {
 </script>
 <!--End Shipping options 11am fix -->
 
-<!-- END Content Item File: /content/0004/389/330/cn4389330.html -->
+<!-- END Content Item File: /content/0005/149/180/cn5149180.html -->
 
 
 
@@ -2339,7 +2775,7 @@ document.observe("dom:loaded", function() {
 
 
 <!-- container 13 -->
-<!-- BEGIN Content Item File: /content/0003/747/014/cn3747014.html -->
+<!-- BEGIN Content Item File: /content/0004/674/529/cn4674529.html -->
 
 <style type="text/css">
 #newTabWindow { border:1px #c1c1c1 solid; border-top:0; font-size: 11px; margin: 0; padding: 1px 10px 10px; width: 308px; color:#000;}
@@ -2411,7 +2847,7 @@ if( location.pathname == "/browse/product.do" ) {
 
 
 
-<!-- END Content Item File: /content/0003/747/014/cn3747014.html -->
+<!-- END Content Item File: /content/0004/674/529/cn4674529.html -->
 
 
 
@@ -2420,6 +2856,43 @@ if( location.pathname == "/browse/product.do" ) {
 
 
 <!-- container 15 -->
+<!-- BEGIN Content Item File: /content/0004/928/932/cn4928932.html -->
+
+<!-- BEGIN - 042512 patch to remove "1969 denim boutique" listing from product pages-->
+<script type="text/javascript">
+//remove "1969 denim boutique"  from product page
+if (location.pathname == "/browse/product.do") {
+	objO = {};  // removes sizing links
+	productPage.loadProduct = productPage.loadProduct.wrap(function(originalMethod){
+		originalMethod();
+		var myLI = $("tabWindow").select('li');
+		for (i=0; i<myLI.length; i++) {
+			if (myLI[i].innerHTML.include("1969 denim boutique") ){
+				myLI[i].hide();
+				
+			}
+		}    
+	});
+}
+
+//remove "1969 denim boutique"  to quicklook product 
+if (location.pathname == "/browse/category.do") {
+	objO = {};  // removes sizing links (hide Petite/Tall Fit Guide)
+	document.observe('quicklook:load', function() {
+		
+		var myLI = $("quickLookTabArea").select('li');
+		for (i=0; i<myLI.length; i++) {
+			if (myLI[i].innerHTML.include("1969 denim boutique") ){
+				myLI[i].hide();
+				
+			}
+		}    
+	});
+}
+</script>
+<!-- END - 042512 patch to remove "1969 denim boutique" listing from product pages-->
+
+<!-- END Content Item File: /content/0004/928/932/cn4928932.html -->
 
 
 
@@ -2578,7 +3051,7 @@ if( location.pathname == "/browse/product.do" ) {
 	<thead><tr><td></td></tr></thead>
 	<tbody>
 		<tr>
-			<td class="universalBarLeft" style="background:url(/content/0001/997/995/universalBar_bkg.png) repeat-x;">&nbsp;</td>
+			<td class="universalBarLeft" style="background:url(/content/0004/787/446/universalBar_bkg.png) repeat-x;">&nbsp;</td>
 			
 				
 				
@@ -2594,7 +3067,7 @@ if( location.pathname == "/browse/product.do" ) {
 				<div id="universalBarContainer" class="clearfix universalBarContainer">
 					
 						<span class="cssHide2">Visit the other Gap Inc. Brands:</span>
-						<ul id="universalBarTabs" class="universalBarTabs3 clearfix" style="background:url(/content/0001/997/995/universalBar_aboveTabs_bkg.png) repeat-x;">
+						<ul id="universalBarTabs" class="universalBarTabs3 clearfix" style="background:url(/content/0004/787/446/universalBar_aboveTabs_bkg.png) repeat-x;">
 						
 							
 							
@@ -2637,47 +3110,39 @@ if( location.pathname == "/browse/product.do" ) {
 						
 						</ul>
 					
-					<div id="universalMarketingContainerTop" class="universalMarketingContainer3" style="background:url(/content/0001/997/995/universalBar_bkg.png) repeat-x;">
+					<div id="universalMarketingContainerTop" class="universalMarketingContainer3" style="background:url(/content/0004/787/446/universalBar_bkg.png) repeat-x;">
 						
 						<!-- @TemplateContentLayout(templateRegionName:"gid.common.siteWide.universalBar.10000522.region1") -->
 
-<!-- BEGIN Content Item File: /content/0002/647/859/cn2647859.html -->
-<div id="contentItemContainer10000425" class="2647859">
+<!-- BEGIN Content Item File: /content/0004/933/024/cn4933024.html -->
+<div id="contentItemContainer10000425" class="4933024">
 
+<!-- CIID:4933024 EN -->
+<div id="cn2647859" style="width:576px;height:54px;display:block;" class="clearfix" title="Everyday Free Shipping + Free Returns">
+<a href="/browse/info.do?cid=61828" onclick="return gidLib.layeredPopup.openLayeredPopup({str:'/browse/info.do?cid=61828',id:'EDFS',title:'gapcanada.ca',width:450,height:460,style:{name:'universalPopup'}});">
+<img id="eds_static" src="/Asset_Archive/GPWeb/content/0004/933/024/assets/EDFS_BRONG_hp_postage_stamp_CAN576.gif" alt="Everyday Free Shipping + Free Returns">
+</a>
+</div>
 
-<div id="cn2647859" style="width:576px;height:54px;display:none;" class="clearfix"><a href="/browse/info.do?cid=61828" onclick="return gidLib.layeredPopup.openLayeredPopup({str:'/browse/info.do?cid=61828',id:'EDFS',title:'gapcanada.ca',width:450,height:460,style:{name:'universalPopup'}});"><img id="eds_static" src="/Asset_Archive/GPWeb/content/0002/647/859/assets/EDFS_BRONG_hp_postage_stamp_CAN576.gif"></a></div>
-
-<div id="eds_div" style="position: relative; margin-left: -85px; left: 90px;margin-top: -15px; z-index: 9000;"><img src="/Asset_Archive/GPWeb/content/0002/647/859/assets/EDFS_BRONG_DHTML_disruptorCAN.gif" style="width: 650px; height: 158px; display: none;" id="eds_stamp">
+<div id="eds_div" style="position: relative; margin-left: -85px; left: 90px;margin-top: -15px; z-index: 9000;">
+<img src="/Asset_Archive/GPWeb/content/0004/933/024/assets/EDFS_BRONG_DHTML_disruptorCAN.gif" style="width: 650px; height: 158px; display: none;" id="eds_stamp" alt="Everyday Free Shipping + Free Returns">
 </div>
 
 <style type="text/css">
 #universalMarketingContainerTop{overflow:visible !important;*overflow:visible !important;_overflow:hidden !important;}
 </style>
-
-
 <script type="text/javascript">
-    var sCampCookie = gidLib.getCookie("s_camp");
-
+/*    var sCampCookie = gidLib.getCookie("s_camp");
     if (sCampCookie == "GOGONS1SD" || sCampCookie == "GOYSNS1SD" || sCampCookie == "GOMSNS1SD" || sCampCookie == "GOASNS1SD" || sCampCookie == "GOAONS1SD" || sCampCookie == "ONGONS1SD" || sCampCookie == "ONYSNS1SD" || sCampCookie == "ONMSNS1SD" || sCampCookie == "ONASNS1SD" || sCampCookie == "ONAONS1SD" || sCampCookie == "BRGONS1SD" || sCampCookie == "BRYSNS1SD" || sCampCookie == "BRMSNS1SD" || sCampCookie == "BRASNS1SD" || sCampCookie == "BRAONS1SD" || sCampCookie == "PLGONS1SD" || sCampCookie == "PLYSNS1SD" || sCampCookie == "PLMSNS1SD" || sCampCookie == "PLASNS1SD" || sCampCookie == "PLAONS1SD" || sCampCookie == "ATGONS1SD" || sCampCookie == "ATYSNS1SD" || sCampCookie == "ATMSNS1SD" || sCampCookie == "ATASNS1SD" || sCampCookie == "ATAONS1SD") {
-
-
         $("cn2647859").show();
     } else {
-
         Event.observe(window, "load", function() {
-
             if (clientBrowser.isIE6) {
-
-
                 $("eds_div").style.display = "none"; //IE6 doesnt support grow
                 $("cn2647859").show();
-
             } else
-
             {
                 if (gidLib.getCookieVar("mktGlobalSession", "disruptorCookie") == 0) {
-
-
                     new Effect.Grow('eds_stamp', {
                         direction: 'center'
                     });
@@ -2685,40 +3150,28 @@ if( location.pathname == "/browse/product.do" ) {
                     gidLib.setCookieVar("mktGlobalSession", "disruptorCookie", "1");
                 } else {
                     $("cn2647859").show();
-
                 }
-
             }
-
         });
     }
-
-
     function shrinkEFS() {
         new Effect.Shrink('eds_stamp', {
             direction: 'center'
         });
         $("cn2647859").appear();
     }
-    
+ */   
 </script>
 
 
-
-
-
-
-
-
-
 </div>
-<!-- END Content Item File: /content/0002/647/859/cn2647859.html -->
+<!-- END Content Item File: /content/0004/933/024/cn4933024.html -->
 
 
 
 
 					</div>
-					<div id="universalInlineBagContainer" class="" style="background:url(/content/0001/997/995/universalBar_bkg.png) repeat-x;">
+					<div id="universalInlineBagContainer" class="" style="background:url(/content/0004/787/446/universalBar_bkg.png) repeat-x;">
 						
 							<div id="signInContent">
 								
@@ -2762,7 +3215,7 @@ if( location.pathname == "/browse/product.do" ) {
 									<div id="inlineBagHeaderOpen" style="display:none;">
 										<div class="checkoutButtonContainer"><a href="/buy/shopping_bag.do"><img src="/assets/common/clear.gif" width="15" height="15" alt="" class="universalButtonSprite universalSpriteTopnavInlinebagLogo"></a></div>
 										<div class="inlineBagTopLayerContainerOpen"><div id="inlineBagTopPriceLayerOpen" class="inlineBagSummary"></div></div>
-										<div id="closeButtonContainer"><img src="/assets/common/clear.gif" "="" alt="close" class="universalButtonSprite universalSpriteInlineBagCloseOn"></div>
+										<div id="closeButtonContainer"><img src="/assets/common/clear.gif" alt="close" class="universalButtonSprite universalSpriteInlineBagCloseOn"></div>
 									</div>
 									
 	                                <div id="inlineBagClip">
@@ -2906,7 +3359,7 @@ if( location.pathname == "/browse/product.do" ) {
 					</div>
 				</div>
 			</td>
-			<td class="universalBarRight" style="background:url(/content/0001/997/995/universalBar_bkg.png) repeat-x;">&nbsp;</td>
+			<td class="universalBarRight" style="background:url(/content/0004/787/446/universalBar_bkg.png) repeat-x;">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
@@ -2988,96 +3441,72 @@ if( location.pathname == "/browse/product.do" ) {
 	<div id="topNavCommon_region1"><!-- @TemplateContentLayout(templateRegionName:"gid.common.siteWide.divisionNavigation.10000509.region1") -->
 
 <style type="text/css">
+
 #topNav #universalTopNav .division {float:left;}
 
-/*Sprite Image*/
-#divisionContainer .division img{ background: url(/Asset_Archive/GPWeb/content/0004/369/494/assets/topnav_sprite080411.gif);no-repeat top left; width: 0px; } 
-
-#divisionContainer div div a img{ background-image: url(/Asset_Archive/GPWeb/content/0004/369/494/assets/topnav_sprite080411.gif); background-repeat: no-repeat; }
+#divisionContainer .division img {background-image:url(/Asset_Archive/GPWeb/content/0004/699/070/assets/021612_topnav_sprite.png); background-repeat: no-repeat; width: 0px;}
 
 /*Womens*/
-#divisionContainer .division .topnavSprite_division5643_notSelected { background-position: 0 -1792px; width: 150px; height: 23px; } 
-#divisionContainer .division .topnavSprite_division5643_over {  background-position: 0 -1865px; width: 150px; height: 23px; } 
-#divisionContainer .division .topnavSprite_division5643_selected { background-position: 0 -1865px; width: 150px; height: 23px; }
-#divisionContainer .division .topnavSprite_division5643_off { background-position: 0 -1792px; width: 150px; height: 23px; }  
-
-/* start women division5643 drop down buttons */ 
-/* Petite */
-#womenButton_division47018_container{width:96px;margin-top:0px;height:24px;}
-.topnavSprite_division47018_notSelected { background-position: 0 -296px; width: 96px; height: 24px; } 
-.topnavSprite_division47018_selected { background-position: 0 -370px; width: 96px; height: 24px; } 
-.topnavSprite_division47018_over{ background-position: 0 -370px; width: 96px; height: 24px; } 
-/* Tall */
-#womenButton_division48054_container{width:96px;height:24px;margin-top:0px;*margin-top:0px;}
-.topnavSprite_division48054_notSelected { background-position: 0 -444px; width: 96px; height: 24px; } 
-.topnavSprite_division48054_selected { background-position: 0 -518px; width: 96px; height: 24px; } 
-.topnavSprite_division48054_over { background-position: 0 -518px; width: 96px; height: 24px; }   
-/* end women drop down buttons */
-
+#divisionContainer .division .topnavSprite_division5643_notSelected, #divisionContainer .division .topnavSprite_division5643_off { background-position: 0 -1848px; width: 79px; height: 27px; } 
+#divisionContainer .division .topnavSprite_division5643_over, #divisionContainer .division .topnavSprite_division5643_selected { background-position: 0 -1925px; width: 79px; height: 27px; } 
 /*Mens*/
-#divisionContainer .division .topnavSprite_division5063_notSelected { background-position: 0 -1500px; width: 219px; height: 23px; } 
-#divisionContainer .division .topnavSprite_division5063_over { background-position: 0 -1573px; width: 219px; height: 23px; } 
-#divisionContainer .division .topnavSprite_division5063_selected { background-position: 0 -1573px; width: 219px; height: 23px; } 
-#divisionContainer .division .topnavSprite_division5063_off { background-position: 0 -1500px; width: 219px; height: 23px; } 
-
-/*Kids*/
-#divisionContainer .division .topnavSprite_division6170_notSelected { background-position: 0 -1354px; width: 216px; height: 23px; } 
-#divisionContainer .division .topnavSprite_division6170_over { background-position: 0 -1427px; width: 216px; height: 23px; } 
-#divisionContainer .division .topnavSprite_division6170_selected { background-position: 0 -1427px; width: 216px; height: 23px; } 
-#divisionContainer .division .topnavSprite_division6170_off { background-position: 0 -1354px; width: 216px; height: 23px; } 
-
-/* start kids division6170 drop down buttons */
+#divisionContainer .division .topnavSprite_division5063_notSelected, #divisionContainer .division .topnavSprite_division5063_off { background-position: 0 -616px; width: 57px; height: 27px; } 
+#divisionContainer .division .topnavSprite_division5063_over, #divisionContainer .division .topnavSprite_division5063_selected { background-position: 0 -693px; width: 57px; height: 27px; } 
 /* Boys */
-#kidsButton_division6172_container{width:80px;margin-top:0px;height:24px;}
-.topnavSprite_division6172_notSelected { background-position: 0 0; width: 80px; height: 24px; } 
-.topnavSprite_division6172_selected { background-position: 0 -74px; width: 80px; height: 24px; } 
-.topnavSprite_division6172_over { background-position: 0 -74px; width: 80px; height: 24px; } 
-
+#divisionContainer .division .topnavSprite_division6172_notSelected, #divisionContainer .division .topnavSprite_division6172_off { background-position: 0 0; width: 64px; height: 27px; } 
+#divisionContainer .division .topnavSprite_division6172_over, #divisionContainer .division .topnavSprite_division6172_selected { background-position: 0 -77px; width: 64px; height: 27px; }  
 /* Girls */
-#kidsButton_division6256_container{width:80px;height:24px;margin-top:0px;*margin-top:0px;}
-.topnavSprite_division6256_notSelected { background-position: 0 -148px; width: 80px; height: 24px; } 
-.topnavSprite_division6256_selected { background-position: 0 -222px; width: 80px; height: 24px; } 
-.topnavSprite_division6256_over { background-position: 0 -222px; width: 80px; height: 24px; } 
-/* end kids division6170 drop down buttons */
-
-/*Baby*/
-#divisionContainer .division .topnavSprite_division6344_notSelected { background-position: 0 -1208px; width: 187px; height: 23px; } 
-#divisionContainer .division .topnavSprite_division6344_over { background-position: 0 -1281px; width: 187px; height: 23px; } 
-#divisionContainer .division .topnavSprite_division6344_selected { background-position: 0 -1281px; width: 187px; height: 23px; } 
-#divisionContainer .division .topnavSprite_division6344_off { background-position: 0 -1208px; width: 187px; height: 23px; } 
-
-/* start baby division6344 drop down buttons */
+#divisionContainer .division .topnavSprite_division6256_notSelected, #divisionContainer .division .topnavSprite_division6256_off { background-position: 0 -154px; width: 69px; height: 27px; } 
+#divisionContainer .division .topnavSprite_division6256_over, #divisionContainer .division .topnavSprite_division6256_selected { background-position: 0 -231px; width: 69px; height: 27px; }  
 /* Baby Girl */
-#babyButton_division6487_container{width:109px;margin-top:0px;height:27px;}
-.topnavSprite_division6487_notSelected { background-position: 0 -746px; width: 109px; height: 27px; } 
-.topnavSprite_division6487_selected { background-position: 0 -823px; width: 109px; height: 27px; } 
-.topnavSprite_division6487_over {  background-position: 0 -823px; width: 109px; height: 27px; } 
-
+#divisionContainer .division .topnavSprite_division6487_notSelected, #divisionContainer .division .topnavSprite_division6487_off { background-position: 0 -462px; width: 115px; height: 27px; } 
+#divisionContainer .division .topnavSprite_division6487_over, #divisionContainer .division .topnavSprite_division6487_selected { background-position: 0 -539px; width: 115px; height: 27px; }
 /* Baby Boy */
-#babyButton_division42022_container{width:109px;height:27px;margin-top:0px;*margin-top:0px;}
-.topnavSprite_division42022_notSelected { background-position: 0 -592px; width: 109px; height: 27px; }  
-.topnavSprite_division42022_selected { background-position: 0 -669px; width: 109px; height: 27px; } 
-.topnavSprite_division42022_over { background-position: 0 -669px; width: 109px; height: 27px; } 
-
+#divisionContainer .division .topnavSprite_division42022_notSelected, #divisionContainer .division .topnavSprite_division42022_off { background-position: 0 -308px; width: 112px; height: 27px; } 
+#divisionContainer .division .topnavSprite_division42022_over, #divisionContainer .division .topnavSprite_division42022_selected { background-position: 0 -385px; width: 112px; height: 27px; }
 /* Toddler Girl */
-#babyButton_division6413_container{width:109px;height:27px;margin-top:0px;*margin-top:0px;}
-.topnavSprite_division6413_notSelected { background-position: 0 -1054px; width: 109px; height: 27px; } 
-.topnavSprite_division6413_selected { background-position: 0 -1131px; width: 109px; height: 27px; } 
-.topnavSprite_division6413_over { background-position: 0 -1131px; width: 109px; height: 27px; } 
-
+#divisionContainer .division .topnavSprite_division6413_notSelected, #divisionContainer .division .topnavSprite_division6413_off { background-position: 0 -1694px; width: 129px; height: 27px; } 
+#divisionContainer .division .topnavSprite_division6413_over, #divisionContainer .division .topnavSprite_division6413_selected { background-position: 0 -1771px; width: 129px; height: 27px; }
 /* Toddler Boy */
-#babyButton_division6345_container{width:109px;height:27px;margin-top:0px;*margin-top:0px;}
-.topnavSprite_division6345_notSelected { background-position: 0 -900px; width: 109px; height: 27px; } 
-.topnavSprite_division6345_selected { background-position: 0 -977px; width: 109px; height: 27px; }
-.topnavSprite_division6345_over { background-position: 0 -977px; width: 109px; height: 27px; }
-/* end baby division6344 drop down buttons */
-
+#divisionContainer .division .topnavSprite_division6345_notSelected, #divisionContainer .division .topnavSprite_division6345_off { background-position: 0 -1540px; width: 124px; height: 27px; } 
+#divisionContainer .division .topnavSprite_division6345_over, #divisionContainer .division .topnavSprite_division6345_selected { background-position: 0 -1617px; width: 124px; height: 27px; }  
 /*Sale*/
-#divisionContainer .division .topnavSprite_division63819_notSelected { background-position: 0 -1646px; width: 143px; height: 23px; }  
-#divisionContainer .division .topnavSprite_division63819_over { background-position: 0 -1719px; width: 143px; height: 23px; } 
-#divisionContainer .division .topnavSprite_division63819_selected { background-position: 0 -1719px; width: 143px; height: 23px; } 
-#divisionContainer .division .topnavSprite_division63819_off { background-position: 0 -1646px; width: 143px; height: 23px; }  
+#divisionContainer .division .topnavSprite_division63819_notSelected, #divisionContainer .division .topnavSprite_division63819_off { background-position: 0 -770px; width: 63px; height: 27px; } 
+#divisionContainer .division .topnavSprite_division63819_over, #divisionContainer .division .topnavSprite_division63819_selected { background-position: 0 -847px; width: 63px; height: 27px; } 
 
+/*Spacers*/
+#divisionContainer .division #topNavSpacer1{ background-position: 0 -924px; width: 22px; height: 27px; } 
+#divisionContainer .division #topNavSpacer2{ background-position: 0 -1001px; width: 22px; height: 27px; } 
+#divisionContainer .division #topNavSpacer3{ background-position: 0 -1078px; width: 22px; height: 27px; } 
+#divisionContainer .division #topNavSpacer4{ background-position: 0 -1155px; width: 22px; height: 27px; } 
+#divisionContainer .division #topNavSpacer5{ background-position: 0 -1232px; width: 22px; height: 27px; } 
+#divisionContainer .division #topNavSpacer6{ background-position: 0 -1309px; width: 22px; height: 27px; } 
+#divisionContainer .division #topNavSpacer7{ background-position: 0 -1386px; width: 23px; height: 27px; } 
+#divisionContainer .division #topNavSpacer8{ background-position: 0 -1463px; width: 23px; height: 27px; }
+
+/* QuickLink Button Styles */
+#topNavQuickLinkButton {
+	width: 114px;
+	height: 13px;
+	background-image:url(/Asset_Archive/GPWeb/content/0004/699/070/assets/021612_topnav_sprite.png);  
+	background-position: 0 -1956px;
+}
+#topNavQuickLinkButton.findStore {background-position: 0 -1971px;}
+#topNavQuickLinkButton.giftCard {background-position: 0 -1986px;}
+
+/* Top Nav layout styles */
+#universalTopNavLayout {width: 990px; height: 105px;}
+#topNavTopRow {height: 77px; width: 990px;}
+#topNavBottomRow {height:27px; width:990px;}
+#topNavBannerContainer {width:463px; height: 62px;}
+#topNavLogoBannerWrapper, #topNavLogoContainer {width: 62px; height: 62px;}
+#topNavSecondaryBannerWrapper {width: 288px; height: 62px;}
+#topNavRightSideWrapper {width: 177px; height: 77px;}
+#topNavQuickLinkButtonWrapper {width: 114px; height: 13px;}
+.floatLeft { float: left; }
+.floatRight { float: right; }
+.posRel { position: relative; }
+.posAbs { position: absolute; }
 </style>
 	
 <script type="text/javascript">
@@ -3211,24 +3640,6 @@ TopNavDropDown.prototype = {
             this.container = $(this.containerName);
         }
 
-    	if (this.buttonPrefix == "kids") {	
-			this.container.style.left = (xPos + 67) + 'px';
-	       	this.container.style.top = (yPos + 7) + 'px';
-		}
-		else if (this.buttonPrefix == "baby") {	
-			this.container.style.left = (xPos + 39) + 'px';
-	       	this.container.style.top = (yPos + 7) + 'px';
-		}
-		else if (this.buttonPrefix == "women") {	
-			this.container.style.left = (xPos - 1) + 'px';
-	       	this.container.style.top = (yPos + 7) + 'px';
-		}				
-		else {
-			this.container.style.left = xPos + 'px';
-	       	this.container.style.top = (yPos + 1) + 'px';
-		}
-		
-        new Effect.Appear(self.container, { duration: .3 });
     },
 
     highligtOrDimParentButton: function() {
@@ -3320,47 +3731,6 @@ TopNavDropDown.prototype = {
 
 };
 
-/* Set up buttons with drop-downs */
-//var womenShowDropDownHandler = function() { womenButton.showDropDown(); };
-//var womenHideDropDownHandler = function() { womenButton.setTimer(); };
-//var womenButton;
-
-var kidsShowDropDownHandler = function() { kidsButton.showDropDown(); };
-var kidsHideDropDownHandler = function() { kidsButton.setTimer(); };
-var kidsButton;
-
-var babyShowDropDownHandler = function() { babyButton.showDropDown(); };
-var babyHideDropDownHandler = function() { babyButton.setTimer(); };
-var babyButton;
-
-if(location.pathname != "/checkout/order.do"){
-	Event.observe(window, "load", function() {		
-	
-		//womenButton = new TopNavDropDown('division5643', 'women', '47018', '48054');
-		kidsButton = new TopNavDropDown('division6170', 'kids', '6172', '6256');
-		babyButton = new TopNavDropDown('division6344', 'baby', '6487', '42022','6413','6345');
-		/*
-		var parentWomenButton = $('division5643');
-		if (parentWomenButton != null) {
-			parentWomenButton.onmouseover = womenShowDropDownHandler;
-			parentWomenButton.onmouseout = womenHideDropDownHandler;
-		}*/
-		
-		var parentKidsButton = $('division6170');
-		if (parentKidsButton != null) {
-			parentKidsButton.onmouseover = kidsShowDropDownHandler;
-			parentKidsButton.onmouseout = kidsHideDropDownHandler;
-		}
-		
-		var parentbabyButton = $('division6344');
-		if (parentbabyButton != null) {
-			parentbabyButton.onmouseover = babyShowDropDownHandler;
-			parentbabyButton.onmouseout = babyHideDropDownHandler;
-		}
-		
-	});
-/* End Set up buttons with drop-downs */
-}
 
 var topNav = {
 	divisionOver : function(thisButtonId, isSelected){
@@ -3382,178 +3752,167 @@ var topNav = {
 };
 </script>
 
-<div id="universalTopNavLayout" style="width:990px;height:73px;float:left;">		
-	<div style="width:62px;height:62px;float:left;margin-top:5px;margin-left: 1px;">		
-		<!-- BEGIN Content Item File: /content/0004/369/402/cn4369402.html -->
-<div id="contentItemContainer10000397" class="4369402">
+<div id="universalTopNavLayout" class="clearfix floatLeft">		
+	 <div id="topNavTopRow" class="clearfix">
+    <div id="topNavBannerContainer" class="floatLeft">		
+        <!-- BEGIN Content Item File: /content/0003/600/236/cn3600236.html -->
+<div id="contentItemContainer10000395" class="3600236">
+
+
+
+</div>
+<!-- END Content Item File: /content/0003/600/236/cn3600236.html -->
+
+      </div>
+    <div id="topNavLogoBannerWrapper" class="floatLeft">
+      <div id="topNavLogoContainer" class="floatLeft">		
+        <!-- BEGIN Content Item File: /content/0004/386/523/cn4386523.html -->
+<div id="contentItemContainer10000397" class="4386523">
 
 <script type="text/javascript">
-
+/*override to display gapKids or gapBaby logo */
 function checkGOLLogo() {
+
 	var golBabyLogo = $('golLogoBaby');
 	var golKidsLogo = $('golLogoKids');
-	var golLogo = $('golLogo');
+	var golRegLogo = $('golLogo');
 	
-	var kidsDivState = $('division6170').className;
-	var babyDivState = $('division6344').className;
+	var girlsDivState = $('division6256').className;
+	var boysDivState = $('division6172').className;
+	var tgDivState = $('division6413').className;
+	var tbDivState = $('division6345').className;
+	var bgDivState = $('division6487').className;
+	var bbDivState = $('division42022').className;
 	
 	/* divsion class _selected version */
-	//if (kidsDivState.indexOf("_selected") >= 0 || babyDivState.indexOf("_selected") >= 0) {
-	if (kidsDivState.indexOf("_selected") >= 0) {
+
+
+	if ((girlsDivState.indexOf("_selected") >= 0)||(boysDivState.indexOf("_selected") >= 0)) {
 				if (golKidsLogo) {
 					golKidsLogo.style.display = 'block';
         		}
 				
 						
-	}else if (babyDivState.indexOf("_selected") >= 0) {
+	}else if ((tgDivState.indexOf("_selected") >= 0)||(tbDivState.indexOf("_selected") >= 0)||(bgDivState.indexOf("_selected") >= 0)||(bbDivState.indexOf("_selected") >= 0)){
 				if (golBabyLogo) {
 					golBabyLogo.style.display = 'block';
         		}
 	
 	}else {
 	   				//regular logo
-					if (golLogo) {			
-						golLogo.style.display = 'block';
+					if (golRegLogo) {			
+						golRegLogo.style.display = 'block';
 					}
 	}	
 	
 	
-	/* s.channel version
-	
-	if (typeof s != "undefined") {
-	
-		var thisChannel = s.channel;
-				//kids or baby divisions use gapkids logo
-		if (thisChannel.indexOf("gp:babyGap") >= 0 || thisChannel.indexOf("gp:GapKids") >= 0) {
-				if (golKidsLogo) {
-					golKidsLogo.style.display = 'block';
-        		}
-						
-		}else {
-	   				//regular logo
-					if (golLogo) {			
-						golLogo.style.display = 'block';
-					}
-		}	
-	
-	}else {
-					//regular logo
-					
-	   				if (golLogo) {			
-						golLogo.style.display = 'block';
-					}
-		}	
-	
-	*/
 }
+
+
 
 
 Event.observe(window,"load",function(){ 
+		
+		
+		if(location.protocol == "https:"){
+				var golLogo = $('golLogo');
+			  
+			  	//regular logo
+					if (golLogo) {			
+						golLogo.style.display = 'block';
+					}
+		}else {
 																		 
-	if(location.protocol == "https:"){
-		var golLogo = $('golLogo');
-	  
-		//regular logo
-		if (golLogo) {			
-			golLogo.style.display = 'block';
+			checkGOLLogo();
 		}
-	} else {
-																	 
-		checkGOLLogo();
-	}
+
 });
 </script>
-
-
 <div id="LogoContainer_10000397_ContentItem" style="width:62px;height:62px;display:block;">
-	<div id="golLogoBaby" style="width:62px;height:62px;display:none;"><a href="/"><img src="/Asset_Archive/GPWeb/content/0004/369/402/assets/babygap_logo.gif" style="width:62px;height:62px;" alt="gap.ca"></a></div>
-	<div id="golLogoKids" style="width:62px;height:62px;display:none;"><a href="/"><img src="/Asset_Archive/GPWeb/content/0004/369/402/assets/gapkids_logo.gif" style="width:62px;height:62px;" alt="gap.ca"></a></div>
-	<div id="golLogo" style="width:62px;height:62px;display:none;"><a href="/"><img src="/Asset_Archive/GPWeb/content/0004/369/402/assets/logo.gif" style="width:62px;height:62px;" alt="gap.ca" title="gap.ca"></a></div>
+
+	<div id="golLogoBaby" style="width:62px;height:62px;display:none;"><a href="/"><img src="/Asset_Archive/GPWeb/content/0004/386/523/assets/babygap_logo.gif" style="width:62px;height:62px;" alt="gap.ca"></a></div>
+	<div id="golLogoKids" style="width:62px;height:62px;display:none;"><a href="/"><img src="/Asset_Archive/GPWeb/content/0004/386/523/assets/gapkids_logo.gif" style="width:62px;height:62px;" alt="gap.ca"></a></div>
+	<div id="golLogo" style="width:62px;height:62px;display:none;"><a href="/"><img src="/Asset_Archive/GPWeb/content/0004/386/523/assets/logo.gif" style="width:62px;height:62px;" alt="gap.ca"></a></div>
 </div>
 
 
 </div>
-<!-- END Content Item File: /content/0004/369/402/cn4369402.html -->
+<!-- END Content Item File: /content/0004/386/523/cn4386523.html -->
 
-	</div>
+      </div>
+    </div>	
+    <div id="topNavSecondaryBannerWrapper" class="floatLeft">
+    	<!-- BEGIN Content Item File: /content/0004/933/001/cn4933001.html -->
+<div id="contentItemContainer10000393" class="4933001">
 
-	<div style="width:915px;height:39px; margin-top: 5px;float:right;">		
-		<div style="width:744px;height:39px; float:left;">		
-			<!-- BEGIN Content Item File: /content/0004/354/882/cn4354882.html -->
-<div id="contentItemContainer10000395" class="4354882">
-
-<script type="text/javascript" src="/Asset_Archive/GPWeb/content/0004/354/882/assets/wcdLib.js"></script>
-<script type="text/javascript">
-
-function showGlobalBanner () {
-
-var getDivision = wcdLib.getCurrentDivisionName();
-var bannerID = $('bannerPromo');
-
-//CODE TO EXCLUDE MARKETING CONTENT ON HOMEPAGE
-if (getDivision != "home"){
-		if (bannerID) {
-			bannerID.style.display = 'block';
-		}
-	
+<style type="text/css">
+/* adjustments for DVF Loves Header in Left Nav for TG */
+#sideNav #categoryNav77344 {
+	border-top: 1px solid #000000;
+	margin-top: 14px;
 }
-
-	
-	
+#sideNav #categoryNav79276 {
+	border-top: 1px solid #ffffff;
+	margin-top: 0px;
 }
-
-
-
-Event.observe(window,'load',function(){ 
-	showGlobalBanner(); 
-
-}); 
-
-
-</script>
-
-
-<div class="globalbannerUS" style="width:744px;height:39px;position:relative; overflow:hidden;display:block;">
-
-		<div id="flip1" style="width:744px;height:39px;position:absolute;background-color: #FFFFFF !important;">
-		<img id="bannerPromo" src="/Asset_Archive/GPWeb/content/0004/354/882/assets/122611_globalbanner_boxingday_EC.gif" alt="" style="width: 744px; height: 39px;display:none;" usemap="#1226banner_map">
-		</div>
-</div>
-
-
-
-<map name="1226banner_map">
-<area alt="boxing day event: extra 40% off sale styles. enter BOXING at checkout. ends 12/26. see details." coords="2,1,473,38" href="javascript:void(0);" onclick="return gidLib.layeredPopup.openLayeredPopup({str:'/Asset_Archive/GPWeb/content/0004/354/882/assets/legal.html' ,id:'legal',title:'gapcanada.ca',width:400,height:300,style:{name:'universalPopup'}});">
-</map>
-
-
+</style>
 
 
 </div>
-<!-- END Content Item File: /content/0004/354/882/cn4354882.html -->
+<!-- END Content Item File: /content/0004/933/001/cn4933001.html -->
 
-		</div>	
-	</div>		
-	
-	<div class="topNavBottomRow" style="height: 23px; width: 915px; float: right;">
+    </div>
+    <div id="topNavRightSideWrapper" class="clearfix floatRight">
+      <!-- Quick Links Container -->
+      <div id="topNavQuickLinkButtonWrapper" class="floatRight">
+        <img src="/assets/common/clear.gif" usemap="#topNavQuickLinkMap" id="topNavQuickLinkButton">
+      </div>
+  </div>
+  </div>
+	<div class="topNavBottomRow">
 		<!-- start: divisionContainer -->
 		<div id="divisionContainer">
 			<h3 class="cssHide">Shop Divisions:</h3>
 			<ul class="clearfix">
-				<li class="division" style="width: 150px; height: 23px;"><a onmouseover="topNav.divisionOver('division5643',false);" onmouseout="topNav.divisionOut('division5643',false);" href="/browse/subDivision.do?cid=5646"><img id="division5643" class="topnavSprite_division5643_notSelected" src="/assets/common/clear.gif" alt="Women"></a></li>
-				<li class="division" style="width: 219px; height: 23px;"><a onmouseover="topNav.divisionOver('division5063',false);" onmouseout="topNav.divisionOut('division5063',false);" href="/browse/subDivision.do?cid=5065"><img id="division5063" class="topnavSprite_division5063_notSelected" src="/assets/common/clear.gif" alt="Men"></a></li>
-				<li class="division" style="width: 216px; height: 23px;"><a onmouseover="topNav.divisionOver('division6170',false);" onmouseout="topNav.divisionOut('division6170',false);" href="/browse/division.do?cid=6170"><img id="division6170" class="topnavSprite_division6170_notSelected" src="/assets/common/clear.gif" alt="GapKids"></a></li>
-				<li class="division" style="width: 187px; height: 23px;"><a onmouseover="topNav.divisionOver('division6344',false);" onmouseout="topNav.divisionOut('division6344',false);" href="/browse/division.do?cid=6344"><img id="division6344" class="topnavSprite_division6344_notSelected" src="/assets/common/clear.gif" alt="babyGap"></a></li>
-				<li class="division" style="width: 143px; height: 23px;"><a onmouseover="topNav.divisionOver('division63819',false);" onmouseout="topNav.divisionOut('division63819',false);" href="/browse/division.do?cid=63819"><img id="division63819" class="topnavSprite_division63819_notSelected" src="/assets/common/clear.gif" alt="Sale"></a></li>
+				<li class="division"><a onmouseover="topNav.divisionOver('division5643',false);" onmouseout="topNav.divisionOut('division5643',false);" href="/browse/subDivision.do?cid=5646"><img id="division5643" class="topnavSprite_division5643_notSelected" src="/assets/common/clear.gif" alt="Women"></a></li>
+        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer1"></li>
+        
+				<li class="division"><a onmouseover="topNav.divisionOver('division5063',false);" onmouseout="topNav.divisionOut('division5063',false);" href="/browse/subDivision.do?cid=5065"><img id="division5063" class="topnavSprite_division5063_notSelected" src="/assets/common/clear.gif" alt="Men"></a></li>
+        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer2"></li>
+        
+				<li class="division"><a onmouseover="topNav.divisionOver('division6256',false);" onmouseout="topNav.divisionOut('division6256',false);" href="/browse/subDivision.do?cid=6256"><img id="division6256" class="topnavSprite_division6256_notSelected" src="/assets/common/clear.gif" alt="Girls"></a></li>
+        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer3"></li>
+        
+				<li class="division"><a onmouseover="topNav.divisionOver('division6172',false);" onmouseout="topNav.divisionOut('division6172',false);" href="/browse/subDivision.do?cid=6172"><img id="division6172" class="topnavSprite_division6172_notSelected" src="/assets/common/clear.gif" alt="Boys"></a></li>
+        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer4"></li>
+        
+				<li class="division"><a onmouseover="topNav.divisionOver('division6413',false);" onmouseout="topNav.divisionOut('division6413',false);" href="/browse/subDivision.do?cid=6413"><img id="division6413" class="topnavSprite_division6413_notSelected" src="/assets/common/clear.gif" alt="Toddler Girl (1-5 yrs)"></a></li>
+        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer5"></li>
+        
+        <li class="division"><a onmouseover="topNav.divisionOver('division6345',false);" onmouseout="topNav.divisionOut('division6345',false);" href="/browse/subDivision.do?cid=6345"><img id="division6345" class="topnavSprite_division6345_notSelected" src="/assets/common/clear.gif" alt="Toddler Boy (1-5 yrs)"></a></li>
+        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer6"></li>
+        
+        <li class="division"><a onmouseover="topNav.divisionOver('division6487',false);" onmouseout="topNav.divisionOut('division6487',false);" href="/browse/subDivision.do?cid=6487"><img id="division6487" class="topnavSprite_division6487_notSelected" src="/assets/common/clear.gif" alt="Infant Girl (0-24 mos)"></a></li>
+        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer7"></li>
+        
+        <li class="division"><a onmouseover="topNav.divisionOver('division42022',false);" onmouseout="topNav.divisionOut('division42022',false);" href="/browse/subDivision.do?cid=42022"><img id="division42022" class="topnavSprite_division42022_notSelected" src="/assets/common/clear.gif" alt="Infant Boy (0-24 mos)"></a></li>
+        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer8"></li>
+        
+				<li class="division"><a onmouseover="topNav.divisionOver('division63819',false);" onmouseout="topNav.divisionOut('division63819',false);" href="/browse/division.do?cid=63819"><img id="division63819" class="topnavSprite_division63819_notSelected" src="/assets/common/clear.gif" alt="Sale"></a></li>
 			</ul>
 		</div>
 		<!-- end: divisionContainer -->
 	</div>		
 </div>
-<div id="topNavBottomBannerContainer" class="clearfix">
+<div id="topNavBottomBannerContainer" class="clearfix floatLeft">
   	
-  </div>
+</div>
 
+ <!-- Quick Links -added 02/16/2012 -->
+<map name="topNavQuickLinkMap" id="topNavQuickLinkMap">
+	<area shape="rect" coords="0,0,55,12" onmouseover="$('topNavQuickLinkButton').addClassName('findStore');" onmouseout="$('topNavQuickLinkButton').removeClassName('findStore');" href="http://www.gapcanada.ca/customerService/info.do?cid=59182&amp;mlink=5058,4576976,2&amp;clink=4576976" alt="Find a Store">
+  <area shape="rect" coords="59,0,101,12" onmouseover="$('topNavQuickLinkButton').addClassName('giftCard');" onmouseout="$('topNavQuickLinkButton').removeClassName('giftCard');" href="http://www.gapcanada.ca/customerService/info.do?cid=2116&amp;mlink=5058,4576976,10&amp;clink=4576976" alt="Gift Card">
+</map>
 </div>
 
 	
@@ -3592,6 +3951,10 @@ Event.observe(window,'load',function(){
 
 
 
+
+
+<script type="text/javascript"></script>
+
 <h3 class="cssHide">Side Navigation:</h3>
 
 
@@ -3605,6 +3968,8 @@ Event.observe(window,'load',function(){
 		
 	
 </div>
+
+
 
 
 	
@@ -3650,13 +4015,6 @@ Event.observe(window,'load',function(){
   
     
   
-
-
-
-
-	<div id="sideNavFacets" class="facets-container"></div>
-	
-
 
 
 
@@ -4437,60 +4795,6 @@ Event.observe(window,'load',function(){
 	      
 	    
 	  
-	      
-	          
-	          
-	      
-	      
-	        
-	        
-	        
-	        
-	        
-	      
-          
-	        
-	        
-	            
-	        
-	      
-	      
-	        
-	        
-	        
-	            <li class="category" id="categoryNav74557"><a href="/customerService/info.do?cid=74557" class="category">Store locator PDM test</a></li>
-	      
-	        
-	      
-	    
-	  
-	      
-	          
-	          
-	      
-	      
-	        
-	        
-	        
-	        
-	        
-	      
-          
-	        
-	        
-	            
-	        
-	      
-	      
-	        
-	        
-	        
-	            <li class="category" id="categoryNav74558"><a href="/customerService/info.do?cid=74558" class="category">Store details PDM test    </a></li>
-	      
-	        
-	      
-	    
-	  
 	  </ul>
 	</div>
 	
@@ -4541,18 +4845,18 @@ Event.observe(window,'load',function(){
 
 	
 	<div id="CSContentVariant10000734_region1"><!-- @TemplateContentLayout(templateRegionName:"gid.customerService.content.variant.10000734.region1") -->
-<!-- BEGIN Content Item File: /content/0002/275/732/cn2275732.html -->
-<div id="contentItemContainer10000808" class="2275732">
+<!-- BEGIN Content Item File: /content/0004/607/049/cn4607049.html -->
+<div id="contentItemContainer10000808" class="4607049">
 
 <style type="text/css">
 ul.bulletList{position:relative;clear:right;padding:0px 0px 0px 23px;margin:5px 0px 1px 0px;line-height:14px;}
 ul.bulletList li{padding-left:0px;list-style:disc;}
 </style>
 
-<div class="customerServiceLayout">
+<div class="customerServiceLayout" style="padding:10px;">
 	<h2 class="header1" id="top">Our Commitment to Privacy</h2>
 			
-	<h3 class="header3">Last Updated: August 4, 2010</h3>
+	<h3 class="header3">Last Updated: February 24, 2011</h3>
 	
 	<h3 class="header3">Privacy Policy</h3>
 	<p>
@@ -4575,6 +4879,9 @@ ul.bulletList li{padding-left:0px;list-style:disc;}
 		<li type="disc"><a href="#pixelTags">How do Gap Companies collect and use pixel tags and similar technologies? </a></li>
 		<li type="disc"><a href="#IPaddress">How do Gap Companies collect and use IP addresses? </a></li>
 		<li type="disc"><a href="#secure">How do I know personal information about me is secure? </a></li>
+		<li type="disc"><a href="#phishing">What is "phishing"?</a></li>
+		<li type="disc"><a href="#suspicious">I received a suspicious email from a Gap Inc. brand regarding an order I did not place. What should I do?</a></li>
+		<li type="disc"><a href="#jobpost">I responded to an online job posting for a Gap Inc. job that requires me to upload personal financial information. Is this part of your hiring process?</a></li>
 		<li type="disc"><a href="#links">What about links to other websites? </a></li>
 		<li type="disc"><a href="#retain">How long do you retain my information?</a></li>
 		<li type="disc"><a href="#contact">How do I contact you?</a></li>
@@ -4710,6 +5017,22 @@ ul.bulletList li{padding-left:0px;list-style:disc;}
 		<p>
 		<a href="#top">back to top</a>
 		</p>
+
+	
+	<h3 class="header3" id="phishing">What is "phishing"?</h3>
+	<p>"Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through email.</p>
+	<p><a href="#top">back to top</a></p>
+	
+
+	<h3 class="header3" id="suspicious">I received a suspicious email from a Gap Inc. brand regarding an order I did not place. What should I do?</h3>
+	<p>We are aware of phony emails sent out under our brand names. These emails did not originate from Gap Inc., and individuals who received fraudulent order status emails have not been charged. For your protection, do not click links or open any files attached to suspicious, unsolicited emails. If you believe your personal computer has been compromised as a result of the scam, please consult an IT professional.  For more information, contact the FBI's Internet Crimes Complaint Center: <a href="http://www.ic3.gov/default.aspx" target="_blank">http://www.ic3.gov/default.aspx</a>. We work with law enforcement on their investigations of these kinds of fraudulent emails.</p>
+	<p><a href="#top">back to top</a></p>
+	
+	<h3 class="header3" id="jobpost">I responded to an online job posting for a Gap Inc. job that requires me to upload personal financial information. Is this part of your hiring process?</h3>
+	<p>No. Gap Inc. does not ask prospective job applicants for information about their bank accounts, credit history or passwords to financial accounts. If you are asked for personal financial or security information in response to a job application, this is likely a fraudulent job listing hosted by spammers posing as Gap Inc. to mislead job applicants.  You can validate all Gap Inc. job postings on <a href="http://www.gapinc.com/careers" target="_blank">gapinc.com/careers</a>.  Spammers also create phony aliases such as thegap-usa.com to mimic our company and/or brand names in an effort to commit identity theft or other forms of fraud. If you receive this type of suspicious email activity, please alert the FBI's Internet Crimes Complaint Center: <a href="http://www.ic3.gov/default.aspx" target="_blank">http://www.ic3.gov/default.aspx</a></p>
+	<p><a href="#top">back to top</a></p>
+	
+
 	
 	<h3 class="header3" id="links">What about links to other websites? </h3>
 		<p>
@@ -4768,7 +5091,7 @@ ul.bulletList li{padding-left:0px;list-style:disc;}
 
 
 </div>
-<!-- END Content Item File: /content/0002/275/732/cn2275732.html -->
+<!-- END Content Item File: /content/0004/607/049/cn4607049.html -->
 
 
 
@@ -4947,8 +5270,8 @@ color:#000;
 		</div>
 		<div style="float:right;">
 			<!--override annotation set up for email footer for w, m, mat, kids, and baby -->
-			<!-- BEGIN Content Item File: /content/0002/486/838/cn2486838.html -->
-<div id="contentItemContainer10000514" class="2486838">
+			<!-- BEGIN Content Item File: /content/0004/637/492/cn4637492.html -->
+<div id="contentItemContainer10000514" class="4637492">
 
 <style type="text/css">
 #GapEmailFooter2486838 {position:relative; width:320px; height:90px; border-left:1px solid #dedede; overflow:hidden;}
@@ -5019,7 +5342,7 @@ emailValidation = {
 		  
 		  if ((email.value == email2.value)) {
 		   
-			  location.href = "/profile/info.do?cid=53959&mlink=5058,2486838,email_v&clink=2486838&src=_GOLFooter&emailAddress=" + email2.value;
+			  location.href = "/profile/info.do?cid=53959&mlink=5058,4494773,email_v&clink=4494773&src=_GOLFooter&emailAddress=" + email2.value;
 			  
 						  
 		   } else if ( (email.value != email.value2) ) { 
@@ -5048,7 +5371,7 @@ emailValidation = {
 	
 	<div id="Main2486838">
 
-	<!-- <img width="767" height="87" alt="be in the know. receive a special offer when you sign up for gap emails.*" src="/Asset_Archive/GPWeb/content/0002/486/838/assets/be_in_the_know_emailSignUp_NoBox.gif" usemap="#primaryImageMap2486838"/>
+	<!-- <img width="767" height="87" alt="be in the know. receive a special offer when you sign up for gap emails.*" src="/Asset_Archive/GPWeb/content/0004/494/773/assets/be_in_the_know_emailSignUp_NoBox.gif" usemap="#primaryImageMap2486838"/>
 		<map name="primaryImageMap2486838" id="primaryImageMap2486838">
 <area onclick="return contentItemLink(this,'','emailreg');" href="/customerService/info.do?cid=2331" alt="Privacy Policy" coords="186,58,255,74">
 <area alt="join us on twitter" coords="702,52,764,81" href="http://www.twitter.com/gap" target="_new">
@@ -5077,7 +5400,7 @@ emailValidation = {
 			</div>
 			
 			<div id="SubmitButton2486838">
-				<input src="/Asset_Archive/GPWeb/content/0002/486/838/assets/submit_email.gif" name="address" id="address" value="submit" alt="submit" type="image">
+				<input src="/Asset_Archive/GPWeb/content/0004/637/492/assets/submit_email.png" name="address" id="address" value="submit" alt="submit" type="image">
 			</div>
 			
 			<div id="privacyPolicyText22486838" style="width:260px; margin-top:5px;">*Offer valid for first registrants only. <a href="/customerService/info.do?cid=2331" onclick="return contentItemLink(this,'','emailreg');">Privacy Policy</a></div>
@@ -5112,14 +5435,14 @@ emailValidation = {
 
 
 </div>
-<!-- END Content Item File: /content/0002/486/838/cn2486838.html -->
+<!-- END Content Item File: /content/0004/637/492/cn4637492.html -->
 
 		</div>	
 	</div>
 	<div style="float:left;width:990px;" class="clearfix">
 		<!--copyright-->
-		<!-- BEGIN Content Item File: /content/0003/553/160/cn3553160.html -->
-<div id="contentItemContainer10000515" class="3553160">
+		<!-- BEGIN Content Item File: /content/0004/701/126/cn4701126.html -->
+<div id="contentItemContainer10000515" class="4701126">
 
 <style type="text/css">
 #footer a.privacyFooter:link,  #footer a.privacyFooter:visited, #footer a.privacyFooter:active {
@@ -5129,12 +5452,12 @@ emailValidation = {
 
 <div style="width:988px; margin-top:12px; text-align:center;" class="clearfix">
 <!--copyright-->
-<p class="text2" style="color:#000;">© 1997 - 2011 Gap Inc. | <a class="privacyFooter" href="/customerService/info.do?cid=2331" onclick="return contentItemLink(this,'','privacyfooter');">Privacy Policy</a></p>
+<p class="text2" style="color:#000;">© 1997 - 2012 Gap Inc. | 1.800.427.7895 | <a class="privacyFooter" href="/customerService/info.do?cid=2331" onclick="return contentItemLink(this,'','privacyfooter');">Privacy Policy</a></p>
 </div>
 
 
 </div>
-<!-- END Content Item File: /content/0003/553/160/cn3553160.html -->
+<!-- END Content Item File: /content/0004/701/126/cn4701126.html -->
 
 	</div>
 </div>
@@ -5171,6 +5494,12 @@ emailValidation = {
 		
 	
 </div>
+
+
+<div id="footer_preferLocaleLanguageOptions">
+	
+</div>
+
 
 <div id="footer_Region3">
 	<div id="footer_brand_region3"></div>
@@ -5283,7 +5612,7 @@ emailValidation = {
 	
 	<script type="text/javascript" src="/gid/js/common/layouts/en/reporting/sCode-H.2.2.1.js"></script>
 	 <script type="text/javascript">
-	   reportingService.controller.viewManagers.commonViewManager.model.contentItemIdListReport = "2647859,4369402,4354882,2275732,2647861,4134472,3553160,2486838";
+	   reportingService.controller.viewManagers.commonViewManager.model.contentItemIdListReport = "4933024,3600236,4386523,4933001,4607049,2647861,4134472,4701126,4637492";
 	 </script>
 	
 	<noscript>
@@ -5448,8 +5777,8 @@ emailValidation = {
 
 
 <!-- container 17 -->
-<!-- BEGIN Content Item File: /content/0004/139/351/cn4139351.html -->
-<div id="contentItemContainer212632" class="4139351">
+<!-- BEGIN Content Item File: /content/0004/781/276/cn4781276.html -->
+<div id="contentItemContainer212632" class="4781276">
 
 
 <!-- Gap CA - EN pixel container -->
@@ -5810,118 +6139,227 @@ with (brightTagPixelPartner) {
 	pixelPartnerPersistedParameterList = [];
 	pixelPartnerStartDate = "2011/07/19";
 	pixelPartnerEndDate = "2014/07/19";
+	// BrightTag site id - region-specific (US, CA, EU)
 	model.brighttag_site_id = "L8pXkEl";
+	// Currensy - u
 	model.currencyType = "CAD";
 
 	controller.setPixelPartnerModel = function() {
 		
 		// Set BT variables from metricsLibrary
-		this.model.qty = model.metricsLibrary.shoppingBag.productCount;
-		this.model.enteringBrandCode = model.metricsLibrary.common.enteringBrandCode;
-		this.model.pageType = model.metricsLibrary.common.pageType;
-		if( this.model.pageType.substr(0,1) == "/" ) { this.model.pageType = this.model.pageType.substr(1); }
-		this.model.pageId = model.metricsLibrary.common.pageId;
-		this.model.apCode = model.metricsLibrary.common.affiliatePartner;
-		this.model.lastInTID = model.metricsLibrary.common.tid;
+		var metricsLibrary = pixelManagementService.model.metricsLibrary;
 		
-		var productList = model.metricsLibrary.shoppingBag.productList
-		var skus = "";
-		var prices = "";
-		var productNames = "";
-		var brands = "";
-		var prodQty = "";
-		if (typeof(productList != "undefined") && Object.isArray(productList) && productList.length != 0 && productList[0].productBusinessId != "") {  //to be changed
-			//skus = productList.pluck('productBusinessId').join('|');
-			prices = productList.pluck('price').join('|');
-			productNames = productList.pluck('productName').join('|');
-			brands = productList.pluck('productBrandCode').join('|');
-			prodQty = productList.pluck('quantity').join('|');
-			productList.each( function( prod, i ) {
-				skus += prod.skuId;
-				if( ( i + 1 ) != productList.length ) { skus += "|"; }
-			});
-		}
-		this.model.itemPrices = prices;
-		this.model.itemBrands = brands;
-		this.model.prodQty = prodQty;
-		this.model.productSkus = skus;
-		this.model.pageName = model.metricsLibrary.common.pageName;
-		this.model.pageURL = model.metricsLibrary.common.pageUrl;
-		this.model.visitorFlag = model.metricsLibrary.common.isRecognizedVisitor;		
+		// BROWSE/BAG/ORDER CONF variables
 		
-		this.model.orderId = model.metricsLibrary.order.orderId;
-		
-		// Pull in order subtotal (netDemand)
-		var orderTotal = parseFloat(model.metricsLibrary.order.orderTotal);	
-		var myShipTotal = parseInt(model.metricsLibrary.order.shippingTotal*100);
-		var myTaxTotal = parseInt(model.metricsLibrary.order.taxTotal*100);
-		var myOrderTotal = parseInt(orderTotal*100);
-		var myTotal = myOrderTotal - myShipTotal - myTaxTotal;
-		model.netDemand = parseFloat(myTotal/100);
-		
-		// Pull product list in proper format
-		var getFormattedProductListBound = this.controller.helper.getFormattedProductList.bind(this);
-		var formattedProductList = getFormattedProductListBound();
-		this.model.formattedProductList = formattedProductList;
-	}
-	controller.setPixelPartnerTransmissionTemplate = function() {
-		var shoppingBagUrls = ['/buy/shopping_bag.do','/buy/shopping_bag_delete_item.do','/buy/shopping_bag_save_item.do','/buy/shopping_bag_move_item.do','/buy/edit_shipping_method_bag.do'];
-
-		if (location.pathname == "/checkout/orderConfirm.do") {
-			// Quantity fix
-			var orderProductList = pixelManagementService.model.metricsLibrary.order.productList;
+		// Total qty in cart - qty
+		if( location.pathname == "/checkout/orderConfirm.do" ) {
+			var orderProductList = metricsLibrary.order.productList;
 			var orderProductQty = 0;
 			if (typeof(orderProductList != "undefined") && Object.isArray(orderProductList) && orderProductList.length != 0 && orderProductList[0].productBusinessId != "") {
 				orderProductList.each( function( prod, i ) {
 					orderProductQty += parseInt( prod.quantity );
 				});
 			}
-			this.model.qty = orderProductQty.toString();
-			this.model.grossMerchDemand = pixelManagementService.model.metricsLibrary.order.orderTotal;
-			this.model.checkoutBrand = pixelManagementService.model.metricsLibrary.order.checkoutBrand;
-			this.model.isNewCustomer = pixelManagementService.model.metricsLibrary.common.isNewCustomer;
-			this.model.shippingZip = pixelManagementService.model.metricsLibrary.order.shippingZip;
-			this.model.billingZip = pixelManagementService.model.metricsLibrary.order.billingZip;
-			this.model.promoDollars = pixelManagementService.model.metricsLibrary.order.promotionSubTotal;
-			this.model.estTax = pixelManagementService.model.metricsLibrary.order.taxTotal;
-			this.model.estShipping = pixelManagementService.model.metricsLibrary.order.shippingTotal;
-			this.pixelPartnerTransmissionTemplate = new Template(		
-				"<iframe src=\"//s.thebrighttag.com/tag?site=#{model.brighttag_site_id}&mode=iframe&ord=#{model.orderId}&qty=#{model.qty}&cost=#{model.grossMerchDemand}&tran=#{model.enteringBrandCode}&u=#{model.currencyType}&u1=#{model.productSkus}&u2=#{model.pageType}&u3=#{model.pageId}&u4=#{model.apCode}&u5=#{model.lastInTID}&u6=#{model.itemPrices}&u7=#{model.itemBrands}&u8=#{model.checkoutBrand}&u9=#{model.pageName}&u10=#{model.pageURL}&u11=#{model.isNewCustomer}&u12=#{model.shippingZip}&u13=#{model.billingZip}&u14=#{model.visitorFlag}&u15=#{model.netDemand}&u16=#{model.promoDollars}&u17=#{model.estTax}&u18=#{model.estShipping}&u19=#{model.prodQty}\" width=\"1\" height=\"1\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\"></iframe>");
+			this.model.totalQty = orderProductQty.toString();
 		}
-		else if ( shoppingBagUrls.include( location.pathname ) ) {
-			this.pixelPartnerTransmissionTemplate = new Template(
-				"<iframe src=\"//s.thebrighttag.com/tag?site=#{model.brighttag_site_id}&mode=iframe&qty=#{model.qty}&tran=#{model.enteringBrandCode}&u=#{model.currencyType}&u1=#{model.productSkus}&u2=#{model.pageType}&u3=#{model.pageId}&u4=#{model.apCode}&u5=#{model.lastInTID}&u6=#{model.itemPrices}&u7=#{model.itemBrands}&u8=#{model.checkoutBrand}&u9=#{model.pageName}&u10=#{model.pageURL}&u14=#{model.visitorFlag}&u19=#{model.prodQty}\" width=\"1\" height=\"1\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\"></iframe>");
+		else {
+			this.model.totalQty = metricsLibrary.shoppingBag.productCount;		
+		}
+		
+		// Entering brand code  - tran - ONLY set if PARTNER cookie set
+		this.model.enteringBrandCode = metricsLibrary.common.enteringBrandCode;
+		
+		var productList = metricsLibrary.shoppingBag.productList
+		// Product SKUs in Cart - pipe-delimited - u1
+		var skus = "";
+		// Product Item Prices in Cart - pipe-delimited - u6
+		var prices = "";
+		// Product Item Brands in Cart - pipe-delimited - u7
+		var brands = "";
+		// Product Item Quantities in Cart - pipe-delimited - u19
+		var prodQty = "";
+		if( typeof(productList != "undefined") && Object.isArray(productList) && productList.length != 0 && productList[0].skuDescription != "" ) {
+			// Set SKUs
+			productList.each( function( prod, i ) {
+				skus += prod.skuId;
+				if( ( i + 1 ) != productList.length ) { skus += "|"; }
+			});
+			// Set Item Prices
+			prices = productList.pluck('price').join('|');
+			// Set Item Brands
+			brands = productList.pluck('productBrandCode').join('|');
+			// Set Item Quantities
+			prodQty = productList.pluck('quantity').join('|');
+		}
+		this.model.itemPrices = prices;
+		this.model.itemBrands = brands;
+		this.model.prodQty = prodQty;
+		this.model.productSkus = skus;
+		
+		// Page Type - u2
+		this.model.pageType = metricsLibrary.common.pageType;
+		if( this.model.pageType.substr(0,1) == "/" ) { this.model.pageType = this.model.pageType.substr(1); }
+
+		// Page ID - u3 - CID, Outfit ID or Product ID
+		this.model.pageId = metricsLibrary.common.pageId;
+		if( location.pathname == '/' || location.pathname == '/browse/home.do' ) {
+			// Fix CIDs not being pulled on home page content
+			if( metricsLibrary.common.pageName.substr( 0, 2 ) == 'gp' ) { this.model.pageId = '5058'; }
+			else if( metricsLibrary.common.pageName.substr( 0, 2 ) == 'on' ) { this.model.pageId = '5151'; }
+			else if( metricsLibrary.common.pageName.substr( 0, 2 ) == 'br' ) { this.model.pageId = '5001'; }
+			else if( metricsLibrary.common.pageName.substr( 0, 2 ) == 'bg' ) { this.model.pageId = '15956'; }
+			else if( metricsLibrary.common.pageName.substr( 0, 2 ) == 'at' ) { this.model.pageId = '46650'; }			
+		}
+		
+		// AP (Affiliate Partner) Value - u4 - ONLY set if PARTNER cookie set
+		this.model.apCode = metricsLibrary.common.ap;
+		
+		// Last in TID - u5 - Last tracking ID recieved; ONLY set if PARTNER cookie set
+		this.model.lastInTID = metricsLibrary.common.tid;
+		
+		// Page Name - u9 - Omniture Page Name
+		this.model.pageName = escape( metricsLibrary.common.pageName );
+		
+		// Page URL - u10 - Full page URL
+		this.model.pageURL = escape( metricsLibrary.common.pageUrl );
+		
+		// Is New Customer flag - u11
+		this.model.isNewCustomer = metricsLibrary.common.isNewCustomer;
+
+		// Recognized Visitor flah - u14
+		this.model.isRecognizedVisitor = metricsLibrary.common.isRecognizedVisitor;	
+		
+		// Unknown shopper ID - u20 - GID unknown shopper ID
+		// "988B422DA188A5C5DFCD32567DDBA4ED|||"
+		if( gidLib.getCookie('unknownShopperId') != 0  ) {
+			this.model.unknownShopperID = gidLib.getCookie('unknownShopperId');
+			this.model.unknownShopperID = this.model.unknownShopperID.substr( 0, this.model.unknownShopperID.indexOf('|') );
+		}
+		else {
+			this.model.unknownShopperID = '';
+		}
+
+		// Customer ID - u21 - GID KNOWN customer ID
+		// "40895368|||"
+		if( gidLib.getCookie('customerId') != 0  ) {
+			this.model.customerID = gidLib.getCookie('customerId');
+			this.model.customerID = this.model.customerID.substr( 0, this.model.customerID.indexOf('|') );
+		}
+		else {
+			this.model.customerID = '';
+		}
+
+		// ORDER CONF ONLY variables
+		if (location.pathname == "/checkout/orderConfirm.do") {
+
+			// Page Type fix on order conf page
+			this.model.pageType = 'orderConfirm';
+
+			// Order ID - ord - Gap.com order ID
+			this.model.orderId = metricsLibrary.order.orderId;
+			
+			this.model.promotionSubTotal = parseFloat( metricsLibrary.order.promotionSubTotal );
+			this.model.promotionRewardsTotal = parseFloat( metricsLibrary.order.promotionRewardsTotal );
+			this.model.giftServicesTotal = parseFloat( metricsLibrary.order.giftServicesTotal );
+			this.model.shippingTotal = parseFloat( metricsLibrary.order.shippingTotal );
+			this.model.taxTotal = parseFloat( metricsLibrary.order.taxTotal );
+			this.model.orderTotal = parseFloat( metricsLibrary.order.orderTotal );
+				
+			// Fixes rounding problem
+			this.model.myShipTotal = parseInt( this.model.shippingTotal*100 );
+			this.model.myTaxTotal = parseInt( this.model.taxTotal*100 );
+			this.model.myOrderTotal = parseInt( this.model.orderTotal*100 );
+			this.model.myTotal = this.model.myOrderTotal - this.model.myShipTotal - this.model.myTaxTotal;
+			this.model.myTotal = parseFloat(this.model.myTotal/100);
+
+			// Total Merch (ie. Net Demand) - u15 - Order total - shipping - tax
+			this.model.netDemand = this.model.myTotal;
+
+			// Total Merch + promo dolloers (ie. Gross Merch Demand) - cost - Order total - shipping - tax + promo dollares
+			this.model.grossMerchandise = this.model.netDemand + this.model.promotionSubTotal;
+			
+			// Checkout Brand - u8 - brand a user checks out on
+			this.model.checkoutBrand = metricsLibrary.order.checkoutBrand;
+			
+			// Shipping & Billing zips - u12, u13 respectively - user zip codes
+			this.model.shippingZip = metricsLibrary.order.shippingZip;
+			this.model.billingZip = metricsLibrary.order.billingZip;
+			
+			// Promotional dollars - u16 - coupon dollars
+			this.model.promoDollars = this.model.promotionSubTotal;
+			
+			// Tax - u17 - tax amount
+			this.model.tax = this.model.taxTotal;
+			
+			// Shipping - u18 - total shipping charged
+			this.model.shipping = this.model.shippingTotal;
+		}
+		
+		
+	}
+	controller.setPixelPartnerTransmissionTemplate = function() {
+		if (location.pathname == "/checkout/orderConfirm.do") {
+			this.pixelPartnerTransmissionTemplate = new Template(		
+				"<iframe src=\"//s.thebrighttag.com/tag?" + 
+					"site=#{model.brighttag_site_id}&" + 
+					"mode=iframe&" + 
+					"ord=#{model.orderId}&" + 
+					"qty=#{model.totalQty}&" + 
+					"cost=#{model.grossMerchandise}&" + 
+					"tran=#{model.enteringBrandCode}&" + 
+					"u=#{model.currencyType}&" + 
+					"u1=#{model.productSkus}&" + 
+					"u2=#{model.pageType}&" + 
+					"u3=#{model.pageId}&" + 
+					"u4=#{model.apCode}&" + 
+					"u5=#{model.lastInTID}&" + 
+					"u6=#{model.itemPrices}&" + 
+					"u7=#{model.itemBrands}&" + 
+					"u8=#{model.checkoutBrand}&" + 
+					"u9=#{model.pageName}&" + 
+					"u10=#{model.pageURL}&" + 
+					"u11=#{model.isNewCustomer}&" + 
+					"u12=#{model.shippingZip}&" + 
+					"u13=#{model.billingZip}&" + 
+					"u14=#{model.isRecognizedVisitor}&" + 
+					"u15=#{model.netDemand}&" + 
+					"u16=#{model.promoDollars}&" + 
+					"u17=#{model.tax}&" + 
+					"u18=#{model.shipping}&" + 
+					"u19=#{model.prodQty}&" + 
+					"u20=#{model.unknownShopperID}&" + 
+					"u21=#{model.customerID}" + 
+					"\" width=\"1\" height=\"1\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\"></iframe>");
 		}
 		else if (window.location.protocol != "https:") {
 			this.pixelPartnerTransmissionTemplate = new Template(
-				"<iframe src=\"//s.thebrighttag.com/tag?site=#{model.brighttag_site_id}&mode=iframe&qty=#{model.qty}&tran=#{model.enteringBrandCode}&u=#{model.currencyType}&u2=#{model.pageType}&u3=#{model.pageId}&u4=#{model.apCode}&u5=#{model.lastInTID}&u6=#{model.itemPrices}&u7=#{model.itemBrands}&u9=#{model.pageName}&u10=#{model.pageURL}&u14=#{model.visitorFlag}&u19=#{model.prodQty}\" width=\"1\" height=\"1\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\"></iframe>");
+				"<iframe src=\"//s.thebrighttag.com/tag?" + 
+					"site=#{model.brighttag_site_id}&" + 
+					"mode=iframe&" + 
+					"qty=#{model.totalQty}&" + 
+					"tran=#{model.enteringBrandCode}&" +
+					"u=#{model.currencyType}&" + 
+					"u1=#{model.productSkus}&" + 
+					"u2=#{model.pageType}&" + 
+					"u3=#{model.pageId}&" +
+					"u4=#{model.apCode}&" + 
+					"u5=#{model.lastInTID}&" + 
+					"u6=#{model.itemPrices}&" + 
+					"u7=#{model.itemBrands}&" + 
+					"u9=#{model.pageName}&" + 
+					"u10=#{model.pageURL}&" + 
+					"u11=#{model.isNewCustomer}&" + 
+					"u14=#{model.isRecognizedVisitor}&" + 
+					"u19=#{model.prodQty}&" + 
+					"u20=#{model.unknownShopperID}&" + 
+					"u21=#{model.customerID}" + 
+					"\" width=\"1\" height=\"1\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\"></iframe>");
 		}
 	}
 	controller.setCleanUp = function() {
 		// alert("setCleanUp() running: pixelPartnerName = " + this.pixelPartnerName);
 	}
 	controller.helper = new Object();
-	// Product list with specific formatting
-	controller.helper.getFormattedProductList = function() {
-		var productList = null;
-		if( location.pathname == "/checkout/orderConfirm.do" ){
-			productList = this.model.metricsLibrary.order.productList;
-		}
-		var formattedProductList = "";
-		if( productList != null ) {
-			productList.each( function( prod ) {
-				var pricePer = prod.price/prod.quantity;
-				var sku9dig = prod.skuId.substr(0,9);
-				formattedProductList += "("
-				formattedProductList += pricePer.toFixed(2) + "*";
-				formattedProductList += prod.quantity + "*";
-				formattedProductList += sku9dig + "*";
-				formattedProductList += "null*";
-				formattedProductList += sku9dig + ")";
-			});
-		}
-		return formattedProductList;
-	}
 }
 </script>
 
@@ -5930,54 +6368,13 @@ with (brightTagPixelPartner) {
 
 
 </div>
-<!-- END Content Item File: /content/0004/139/351/cn4139351.html -->
+<!-- END Content Item File: /content/0004/781/276/cn4781276.html -->
 
 
 <!-- container 18 -->
 
 
 <!-- container 19 -->
-<!-- BEGIN Content Item File: /content/0002/686/510/cn2686510.html -->
-<div id="contentItemContainer212630" class="2686510">
-
-
-
-
-
-<style type="text/css">
-
-/* +++++++++++++++++++++++ !!!!!!!!!!!!!!!!GOL Layout: Spring 2011!!!!!!!!!!!!!!!! +++++++++++++++++++++++++++++++++++++++*/
-
-	body {background-color :#ffffff !important;}
-	body {background-image :none !important;}
-	#footer {color:#000; font-size:9px;}
-	#footer a:link, #footer a:visited, #footer a:active{color:#000; font-weight:bold;}
-	
-	
-	
-	
-	/*begin - spring 2011: left nav layout*/
-	/*keyline to white/reassign keyline */
-	#mainContent {border:1px solid #ffffff;}
-	#mainContentContainer {border:1px solid #ffffff;}
-	#mainContentContainer {border-left:1px solid #ffffff;border-right:1px solid #ffffff;}
-	
-	/*remove bottom keyline from main content*/
-	#mainContentContainer {border-bottom:medium none;}
-	#mainContent {border-bottom:medium none;}
-	
-	/*dotted key line removed from maincontent added to sidenav added for 7.12 add contentOvveride*/
-	#mainContentContainer #mainContent {
-	background-color:#FFFFFF;
-	background-image:url("/Asset_Archive/GPWeb/content/0002/686/510/assets/nodash_vertical.gif");
-	background-repeat:repeat-y;
-	border:medium none;
-	}
-</style>
-
-
-</div>
-<!-- END Content Item File: /content/0002/686/510/cn2686510.html -->
 
 
 <!-- container 20 -->
