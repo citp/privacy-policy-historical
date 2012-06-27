@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weburbanist.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231115436id_/http%3A//weburbanist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weburbanist.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627222258id_/http%3A//weburbanist.com/privacy) for the most accurate reproduction.*
 
-# WebUrbanist + WebEcoist | Privacy Policy | WebUrbanist
+# WebUrbanist | Privacy Policy | WebUrbanist
 
 ### Please read this Privacy Policy and our Terms of Service carefully before using this Web site.
 
