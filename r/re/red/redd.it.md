@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redd.it privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230003935id_/http%3A//reddit.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redd.it privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627210751id_/http%3A//reddit.com/help/privacypolicy) for the most accurate reproduction.*
 
 # reddit.com: help
 
-Last Revised October 21st, 2008 
+Last Revised Aril 10, 2012 (updated contact info) 
 
 [Kids and parents click here!](http://www.style.com/services/legal/privacy_policy.html#kids)
 
@@ -58,10 +58,4 @@ If you're worried about your children's activities or their privacy on our site,
 
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows: 
 
-Privacy Policy Coordinator 
-
-Conde Nast Digital. 
-
-1166 Avenue of the Americas, 15th Floor 
-
-New York, NY 10036 
+Privacy Policy Coordinator reddit Inc c/o Wired 520 Third St. San Francisco, CA 94107 
