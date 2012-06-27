@@ -1,25 +1,26 @@
-> *The following text is extracted and transformed from the thepondguy.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229092855id_/http%3A//www.thepondguy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepondguy.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627221326id_/http%3A//www.thepondguy.com/privacy) for the most accurate reproduction.*
 
 # Pond, Lake, & Water Garden Supplies, Pond Algae Control, Pond Dye, Pond Aeration, Pond Liners
 
-[](http://livechat.boldchat.com/aid/8430494218263518121/bc.chat?cwdid=7860685099384324552)
+## Privacy
 
-**You are Here:**   [Home](https://web.archive.org/)  >  Privacy & Security 
+  * Our Commitment To Privacy
+  * The Information We Collect
+  * How We Use Information
+  * Our Commitment To Data Security
+  * Our Commitment To Children's Privacy
+  * How To Access Or Correct Your Information
+  * [How To Contact Us](https://web.archive.org/storefront#contact-us "How To Contact Us")
 
-  
 
 
-Our Privacy and Security Guarantee 
-
-Privacy 
-
-Our Commitment To Privacy
+## Our Commitment To Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-The Information We Collect
+## The Information We Collect
 
-This notice applies to all information collected or submitted on The Pond Guy website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on The Pond Guy website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
   * Name 
   * Address 
@@ -29,7 +30,7 @@ This notice applies to all information collected or submitted on The Pond Guy we
 
 
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
+On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
 
   * Name 
   * Address 
@@ -37,9 +38,9 @@ On some pages, you can submit information about other people. For example, if yo
 
 
 
-How We Use Information
+## How We Use Information
 
-The Pond Guy respects the privacy needs and concerns of our customers. It is our goal to provide you with an enjoyable and satisfying shopping experience, and to meet and exceed your expectations. To accomplish this goal we use the information our customers provide in the following ways: 
+The Pond Guy respects the privacy needs and concerns of our customers. It is our goal to provide you with an enjoyable and satisfying shopping experience, and to meet and exceed your expectations. To accomplish this goal we use the information our customers provide in the following ways:
 
   * When you visit our web site, we automatically recognize your Internet service provider, the Web page from which you came, and a record of your activity on our site. The customer information that The Pond Guy collects through its web site is used to process orders and to improve your shopping experience. 
   * We use the information you share with us to improve your shopping experience by allowing us to make our Web site easier and more enjoyable to use. The information you volunteer enables us to process your purchases, confirm your orders, customize the content and layout of our pages, notify you about updates to our site, and provide you with additional information about our products. 
@@ -50,23 +51,20 @@ The Pond Guy respects the privacy needs and concerns of our customers. It is our
 
 
 
-Our Commitment To Data Security
+## Our Commitment To Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-We use the latest technology in online security such as site identification and data encryption. With site identification your browser automatically ensures that you are connected only to our Web site. If a problem arises your browser will alert you to the potential loss of security. 
+We use the latest technology in online security such as site identification and data encryption. With site identification your browser automatically ensures that you are connected only to our Web site. If a problem arises your browser will alert you to the potential loss of security.
 
 The strict data encryption that we use hides sensitive information like your name, address, and credit card information. Our ordering process is protected by the Secure Sockets Layer (SSL) protocol, which encrypts your information and confirms the identity of The Pond Guy server before allowing your shopping cart to be checked out. Modern browsers support the SSL protocol. We recommend that you use the latest browsers to ensure that you are protected by advances in security technology. 
 
-Our Commitment To Children's Privacy
+## Our Commitment To Children's Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
-How You Can Access Or Correct Your Information
+## How You Can Access Or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain this information by [contacting us](https://web.archive.org/storefront#contact-us "Contact The Pond Guy®"). We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain this information by [contacting us](https://web.archive.org/storefront#contact-us "Contact The Pond Guy®"). We use this procedure to better safeguard your information.
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
-
-  
-
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
