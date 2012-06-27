@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyc.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231092504id_/http%3A//www.nyc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyc.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627113811id_/http%3A//www.nyc.com/privacy.htm) for the most accurate reproduction.*
 
 # NYC.com Privacy Policy
 
@@ -85,6 +85,5 @@ NYC.com may update this policy at any time for any reason. If there are any sign
 If you have questions or suggestions please use you the help form or you can contact us at: 
 
 NewYorkCity.com, Inc.  
-Customer Care - Privacy  
-11 Varick Street, Second Floor  
+515 Greenwich St, Fifth Floor Suite 502  
 New York, NY 10013 
