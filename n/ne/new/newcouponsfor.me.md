@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newcouponsfor.me privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228080359id_/http%3A//newcouponsfor.me/coupons/privacy%3Ftarget%3D_blank) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcouponsfor.me privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628001127id_/http%3A//www.newcouponsfor.me/coupons/privacy%3Ftarget%3D_blank) for the most accurate reproduction.*
 
 # www.newcouponsfor.me - Privacy Policy
 
 ## Privacy Policy
 
-(Amended as of September 6, 2010)  
+(Amended as of January 3, 2012)  
 PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME. PLEASE CHECK BACK FOR UPDATES
 
 ### About this Privacy Policy
