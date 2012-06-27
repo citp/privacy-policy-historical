@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123163748id_/http%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627072448id_/http%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Superdry - Jackets, T Shirts, Hoodies, Shorts, Mens & Womens Clothing
 
@@ -75,9 +75,11 @@ You may sign up to our Newsletter by ticking the appropriate box during registra
 
 
 
+Please allow up to 5 days for unsubscribe requests to be processed
+
 ### Protecting your information
 
-Our site uses up-to-date industry procedures to protect your personal information. We also protect the security of your data during transmission using Secure Sockets Layer (SSL) encryption software. Further information on our security practices can be found by clicking on the following link: [information page](http://www.superdry.com/en/information).
+Our site uses up-to-date industry procedures to protect your personal information. We also protect the security of your data during transmission using Secure Sockets Layer (SSL) encryption software. Further information on our security practices can be found by clicking on the following link: [information page](http://www.superdry.com/faqs).
 
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you via our site.
 
