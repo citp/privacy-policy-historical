@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shefinds.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229081553id_/http%3A//www.shefinds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shefinds.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628011640id_/http%3A//www.shefinds.com/2008/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy « SHEfinds
 
 Your privacy is very important to us. This privacy policy describes the information we gather, how we share that information and what we do to protect your information.  
 **Personal Information**  
