@@ -1,15 +1,39 @@
-> *The following text is extracted and transformed from the linksjam.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230231902id_/http%3A//www.majon.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksjam.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627083414id_/http%3A//www.majon.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Search Engine Marketing
 
 #### **Majon International Privacy Policy**
 
-We respect and are committed to protecting your privacy. Our Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Majon International and its web site network.
+We respect and are committed to protecting your privacy. Our Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Majon International and its web site network. If you require any more information or have any questions about our privacy policy, please feel free to contact us via our [contact page](http://www.majon.com/contact)
+
+At www.majon.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.majon.com and how it is used.
 
 **The following discloses our Privacy Policy...** **  
 ** What information are you collecting and how are you collecting it?   
 Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the Majon International Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our web servers do not automatically record e-mail addresses of the visitors.  
 Majon Interational employs the use of [Google Analytics](http://www.google.com/intl/en/analytics/privacyoverview.html) for collecting visitor information.
+
+**Log Files**  
+Like many other Web sites, www.majon.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+**Cookies and Web Beacons**  
+www.majon.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+**DoubleClick DART Cookie**
+
+.:: Google, as a third party vendor, uses cookies to serve ads on www.majon.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.majon.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Adhitz, Ity.im, and Chitika. 
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.majon.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.majon.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.majon.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
 **What are cookies?**  
 From time to time, Majon International or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system and are thus widely used throught the internet by millions of businesses. We use cookies to identify which areas of Majon International Network of Web sites you have visited, used or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our web sites. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other web sites may be diminished and some features may not work as intended.
