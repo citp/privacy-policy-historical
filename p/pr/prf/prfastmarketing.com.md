@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prfastmarketing.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206155405id_/http%3A//www.prfastmarketing.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prfastmarketing.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627123318id_/http%3A//prfastmarketing.com/privacypolicy.html) for the most accurate reproduction.*
 
-# prfastmarketing.com
+# PR Fast Marketing. Increase your IMDB starmeter fast, buy Twitter followers, Facebook likes and Youtube video views.
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
