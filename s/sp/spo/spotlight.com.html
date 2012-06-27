@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spotlight.com privacy policy that was archived on 2011-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228213856id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spotlight.com privacy policy that was archived on 2012-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627103115id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<!-- <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> -->
@@ -7,27 +7,27 @@
 <!-- GOLIVE: remove this ROBOTS meta tag -->
 <meta name="robots" content="noindex,nofollow">
 
-<link rel="stylesheet" href="/_css/common.css?20111221145840" type="text/css">
-<link rel="stylesheet" href="/_css/layout.css?20111221145840" type="text/css">
+<link rel="stylesheet" href="/_css/common.css?20120201200001" type="text/css">
+<link rel="stylesheet" href="/_css/layout.css?20120201200001" type="text/css">
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
 
 <script type="text/javascript" src="/include/jquery/jquery.cookie.js"></script>
 
-<script type="text/javascript" src="/include/scripts/functions.js?20111130200100"></script>
+<script type="text/javascript" src="/include/scripts/functions.js?20111130200101"></script>
 
-<script type="text/javascript" src="/include/scripts/menubar.js?20111130200100"></script>
+<script type="text/javascript" src="/include/scripts/menubar.js?20111130200101"></script>
 
-<script type="text/javascript" src="/include/scripts/calendar.js?20111130200100"></script>
+<script type="text/javascript" src="/include/scripts/calendar.js?20111130200101"></script>
 
-<script src="/include/scripts/helpbubbles.js?20111130200100" type="text/javascript"></script>
+<script src="/include/scripts/helpbubbles.js?20111130200101" type="text/javascript"></script>
 
-<script type="text/javascript" src="/include/scripts/notifications.js?20111130200100"></script>
+<script type="text/javascript" src="/include/scripts/notifications.js?20111130200101"></script>
 <!--[if lt IE 7]>
-<link type="text/css" rel="Stylesheet" href="/_css/ie6.css?20111221145840" />
+<link type="text/css" rel="Stylesheet" href="/_css/ie6.css?20120201200001" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script src="/include/scripts/ie7-js/IE8.js?20111130200100" type="text/javascript"></script>
+<script src="/include/scripts/ie7-js/IE8.js?20111130200101" type="text/javascript"></script>
 <![endif]-->
 
 <script type="text/javascript"><!--
@@ -50,7 +50,7 @@
 
 	<title>Spotlight - professional acting jobs and auditions since 1927</title>
 	
-</head>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script></head>
 <body>
 	
 <div id="bodyWrapper">
@@ -59,15 +59,15 @@
 <script src="/include/jquery/jquery.cookie.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-    $(function() {
+    $(function () {
         $("#ajaxSearch").val("1");
 
         //$(".headerSearchFadeIn").hide();
-        $("input#searchTextBox").focus(function() {
+        $("input#searchTextBox").focus(function () {
             if (!$("#searchHelpFadeIn").is(":visible")) $('#searchHelpFadeIn').hide().fadeIn();
         });
 
-        $("div#headerLoginMagicPanel a").click(function() {
+        $("div#headerLoginMagicPanel a").click(function () {
             var link = this;
             var form = $(link).next("form");
             if (form.is(":visible")) {
@@ -80,11 +80,11 @@
             }
             return (false);
         });
-        $("a#headerLoginLink").click(function() {
+        $("a#headerLoginLink").click(function () {
             var link = this;
             var form = $("div#headerLoginMagicPanel");
             if (form.is(":visible")) {
-                form.slideUp(250, function() {
+                form.slideUp(250, function () {
                     $(link).removeClass("open");
                 });
             } else {
@@ -127,80 +127,87 @@
 </script>
 
 <div id="header">
-	<h1>
-		<a title="Return to Spotlight home page" href="/"><span class="replace">Spotlight</span></a></h1>
+    <h1>
+        <a title="Return to Spotlight home page" href="/">
+            <span class="replace">Spotlight</span></a></h1>
     
-    <h2>
-        Professional Acting Jobs and Auditions since 1927</h2>
-	
-	<div id="loggedInDisplayDiv" style="display: none;">
-	    <div id="loggedInHeaderLinksDiv">
-            <a id="headerMyAccountLink" href="" title="My Account">My Account</a> <a id="logOutLink" href="/logout.asp">Log Out</a>
-	    </div>
-	    <a id="headerLoginLink" href="/login.asp">Log In</a>
-	</div>
-	<div id="headerLoginMagicPanel">
-		<a id="performerLoginLink" href="#">Performer Login</a>
-		<form action="/artists/" method="post" id="performerLoginForm">
+    <h2>Professional Acting Jobs and Auditions since 1927</h2>
+    
+    <div id="loggedInDisplayDiv" style="display: none;">
+        <div id="loggedInHeaderLinksDiv">
+            <a id="headerMyAccountLink" href="" title="My Account">
+                My Account</a>
+            <a id="logOutLink" href="/logout.asp">
+                Log Out</a>
+        </div>
+        <a id="headerLoginLink" href="/login.asp">
+            Log In</a>
+    </div>
+    <div id="headerLoginMagicPanel">
+        <a id="performerLoginLink" href="#">
+            Performer Login</a>
+        <form action="/artists/" method="post" id="performerLoginForm">
         <label for="performerUpdatePinTextBox">
             Update PIN:</label>
         <input class="textInput w140" type="text" name="updatePin" id="performerUpdatePinTextBox" title="Enter your Spotlight Update PIN, in the format 1234-1234-1234">
-			<label for="performerRememberMeCheckBox" class="rememberMe">
-				<input type="checkbox" name="rememberMe" value="1" id="performerRememberMeCheckBox">
+        <label for="performerRememberMeCheckBox" class="rememberMe">
+            <input type="checkbox" name="rememberMe" value="1" id="performerRememberMeCheckBox">
             Remember Me
         </label>
-			<input type="submit" class="submit" name="verb" value="Log In">
-		</form>
-		<a id="castingLoginLink" href="#">Casting Login</a>
-		<form action="/interactive/login.asp" method="post" id="castingLoginForm">
+        <input type="submit" class="submit" name="verb" value="Log In">
+        </form>
+        <a id="castingLoginLink" href="#">
+            Casting Login</a>
+        <form action="/interactive/login.asp" method="post" id="castingLoginForm">
         <label for="castingUsernameTextBox">
             Username:</label>
-			<input class="textInput w140" type="text" name="username" id="castingUsernameTextBox">
+        <input class="textInput w140" type="text" name="username" id="castingUsernameTextBox">
         <label for="castingPasswordTextBox">
             Password:</label>
-			<input class="textInput w140" type="password" name="password" id="castingPasswordTextBox">
-			<label for="castingRememberMeCheckBox" class="rememberMe">
-				<input type="checkbox" name="rememberMe" value="1" id="castingRememberMeCheckBox">
+        <input class="textInput w140" type="password" name="password" id="castingPasswordTextBox">
+        <label for="castingRememberMeCheckBox" class="rememberMe">
+            <input type="checkbox" name="rememberMe" value="1" id="castingRememberMeCheckBox">
             Remember Me
         </label>
-			<input type="submit" class="submit" name="verb" value="Log In">
-		</form>
-		<a id="agentLoginLink" href="#">Agents Login</a>
-		<form action="/AgentWeb/Security/Login" method="post" id="agentLoginForm">
+        <input type="submit" class="submit" name="verb" value="Log In">
+        </form>
+        <a id="agentLoginLink" href="#">
+            Agents Login</a>
+        <form action="/AgentWeb/Security/Login" method="post" id="agentLoginForm">
         <label for="agentUsernameTextBox">
             Username:</label>
-			<!--<input class="textBox" type="text" name="pin" id="agentUpdatePinTextBox" title="Enter your Spotlight Update PIN, in the format 1234-1234-1234" />-->
-			<input type="text" name="username" class="textInput w140" id="agentUsernameTextBox">
-			<br>
+        <!--<input class="textBox" type="text" name="pin" id="agentUpdatePinTextBox" title="Enter your Spotlight Update PIN, in the format 1234-1234-1234" />-->
+        <input type="text" name="username" class="textInput w140" id="agentUsernameTextBox">
+        <br>
         <label for="agentPasswordTextBox">
             Password:</label>
-			<input type="password" name="password" class="textInput w140" id="agentPasswordTextBox">
-			<br>
-			<label for="agentsRememberMeCheckBox" class="rememberMe">
-				<input type="checkbox" id="agentsRememberMeCheckBox" name="rememberMe" value="true">
+        <input type="password" name="password" class="textInput w140" id="agentPasswordTextBox">
+        <br>
+        <label for="agentsRememberMeCheckBox" class="rememberMe">
+            <input type="checkbox" id="agentsRememberMeCheckBox" name="rememberMe" value="true">
             Remember Me
         </label>
-				<br>
-			<input type="submit" class="submit" name="verb" value="Log In">
-			<input type="hidden" name="doLogin" value="true">
-		</form>
+        <br>
+        <input type="submit" class="submit" name="verb" value="Log In">
+        <input type="hidden" name="doLogin" value="true">
+        </form>
         <div id="headerLoginMagicPanelFooter">
             &nbsp;</div>
-	</div>
-	<form id="headerSearchForm" action="/search" method="get">
+    </div>
+    <form id="headerSearchForm" action="/search" method="get">
     <label for="searchTextBox">
         Search</label>
-	    <input type="text" id="searchTextBox" name="q" value="" title="Enter a search term, keyword or artist name">
-	    <input type="image" id="searchImageInput" src="/_img/headerSearchGoButton.png">
-	    <div id="searchHelpFadeIn" style="display: none;">
-	        <span id="searchHelp">Enter a performer's name, PIN or phrase</span>
-	        <p id="searchTick">
-		        <input type="checkbox" name="fullSearch" id="fullSearch" value="1" class="headerSearchFadeIn">
+    <input type="text" id="searchTextBox" name="q" value="" title="Enter a search term, keyword or artist name">
+    <input type="image" id="searchImageInput" src="/_img/headerSearchGoButton.png">
+    <div id="searchHelpFadeIn" style="display: none;">
+        <span id="searchHelp">Enter a performer's name, PIN or phrase</span>
+        <p id="searchTick">
+            <input type="checkbox" name="fullSearch" id="fullSearch" value="1" class="headerSearchFadeIn">
             <label for="fullSearch" class="headerSearchFadeIn">
                 Include articles in search results</label>
-		    </p>
-		</div>
-	</form>
+        </p>
+    </div>
+    </form>
 </div>
 
 	<!-- div:header -->
@@ -239,11 +246,11 @@
 				&nbsp;</div>
 			<h1>
 				Privacy Policy</h1>
-			<p>Spotlight is committed to protecting the privacy of users of this website. This Privacy Policy sets out the type of information that we collect, what it is used for and the rights you have in relation to this information. By using this website you accept the terms of this Privacy Policy.</p><p>This Privacy Policy applies to all users of this website as such - but does not apply fully to those members whose casting / personal information appears as content on the Spotlight website or any future publications of Spotlight. Those members should read this policy in conjunction with their <a href="/terms.html" target="_self" title="Membership Terms and Conditions">Membership Terms and Conditions</a> as this contains more specific information about our use of your details.</p><p>Spotlight may change this policy occasionally by updating this page. You should therefore check this page from time to time to ensure that you are happy with any changes. This policy was last reviewed and updated in September 2010.</p><h3>Definitions</h3><p>"You" means the user of the Site, "We/us" means Spotlight, "website" or "Site" means the sites located at <a href="http://www.spotlight.com" target="_self" title="www.spotlight.com">www.spotlight.com</a> and <a href="http://www.spotlightagent.info" target="_self" title="www.spotlightagent.info">www.spotlightagent.info</a> on the World Wide Web, "Content" means the information and other material available within the Site.</p><h3>Collection and Use of Personal Information</h3><p>If you submit personal information, for example, your name, address, e-mail address, telephone number, business type or other professional details. ("customer information") to us, by completing an order form for products and services or by enquiring about products or services offered through this website or otherwise using the website, we will make a record of it. In order to constantly improve our website and our products and services, and to offer you personal settings on our website, we may also collect information about your use of the website. We may also collect any information you supply to us when you complete surveys or competitions.</p><p>We and our subcontractors may use Customer Information for the following purposes:</p><ul><li>To fulfil your subscriptions for services and orders for products</li><li>To answer your enquiries or otherwise communicate with you</li><li>To vet your professional background, but only when you are joining as a member/ subscriber or purchasing a restricted access product</li><li>Internal record keeping</li><li>To administer the Spotlight Card scheme</li><li>To notify you of other products and/or services that we think will be of interest to you (you will have the opportunity to control the ways in which we contact you)</li><li>To improve our products and services</li></ul><p>From time to time, we and our subcontractors may also use customer information for market research/analysis purposes. Where possible, the results of such research and analysis will be anonymous so that it does not reveal your identity. We may use the information to customise the website according to your interests.</p><p>If you provide us with sensitive personal information, you consent to the processing of this information for the purposes which you have provided it for.</p><h3>Data Protection Legislation</h3><p>Spotlight is your data controller. As your data controller Spotlight has notified its activities to the Office of the Information Commissioner as required under the Data Protection Act 1998, and is listed in the Public register of Data Controllers. Personal information will only be collected and/or processed by Spotlight in accordance with the Act.</p><h3>Protection of Personal Information</h3><p>We are committed to the protection of personal information, and will take all reasonable precautions to ensure that all information that you have submitted via the website remains confidential. We have strict security procedures regarding the storage and disclosure of customer information. For information on the use of <em>professional members</em> information please see our <a href="/terms.html" target="_self" title=" Terms and Conditions">Terms and Conditions</a> of membership.</p><h3>Links to other website</h3><p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p><h3>Disclosure of Personal Information</h3><p>We reserve the right to release Customer Information when we believe the release is appropriate in order to comply with the law, or to enforce our <a href="/terms.html" target="_self" title="Membership Terms and Conditions">Membership Terms and Conditions</a> or to protect the rights, property, or safety of ourselves, our customers or other third parties.</p><p>We may release Customer Information if we acquire any new business, and/or sell all or part of our business.</p><p>Except as set out above, your personal data will not be provided to any third party without your prior written consent.</p><p>The information you provide to us will be held on our computers in the UK. Only professional information passed to us for the promotion of either you as an individual or your business will be accessible to any third parties, and we will make clear to you which parts of any advertisement application will be printed in our books or listed online.</p><p>Should Spotlight employ any third parties to perform functions for us then these contracted business will only have access to data required to perform that function, but may not use it for other purposes.</p><p>We currently use a third party payment service provider (see section below).</p><h3>Website Payments</h3><p>We will retain payment details briefly (the duration of time it takes to complete each transaction) whilst purchases are made through our online shop. Payment card details are never stored on our server and our staff do not have access to this information at any stage of the transaction.</p><p>Our secure socket layer software (SSL) is the industry standard and among the best software available today for secure commerce transactions. It encrypts all personal information including credit card numbers, names and addresses. This encryption ensures that nothing can be read as it travels over the Internet to our chosen fully PCI DSS compliant payment service provider <a href="http://www.sagepay.com" target="_blank" title="www.sagepay.com">www.sagepay.com</a> for processing.</p><p>If you experience any payment problems when placing an order via <a href="http://www.spotlight.com" target="_self" title="www.spotlight.com">www.spotlight.com</a>, we advise you to resubmit your payment details. If your payment still fails, please contact your card issuer, to ensure there are no problems with your account, before contacting our customer services team.</p><p><em>The security of information and payments transmitted via the Internet cannot be guaranteed. Any losses incurred or sustained by users who transmit information by means of email or other internet link shall be borne solely and exclusively by such user and in no event shall any such losses in whole or part be borne by Spotlight.</em></p><p><em>Security advice note: We recommend that when making an online transaction you do not use a public or shared computer or a device such as a laptop or cell phone while you are using public wireless networks. Make sure that nobody can see your confidential details whilst you are typing, and close your browser when you have finished. The computer you use to attach to our online payments system should be secure, and include the latest operating system, software and anti-virus updates.</em></p><h3>Updating Personal Information</h3><p>If you have provided us with Customer Information, it is your responsibility to ensure that it is correct and up to date. This will enable us to provide you with the best service possible.</p><p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p><h3>Your choices</h3><p>You have the right to access the Customer Information which we hold about you and to have any errors corrected. You may check the Customer Information we have about you by contacting our offices. However, please note that no information can be released by us until your identification has been verified.</p><p>If you have previously agreed to us using your personal information for direct marketing purposes by Spotlight, you may change your mind at any time by writing to us or emailing us at <a href="mailto:unsubscribe@spotlight.com" target="_self" title="unsubscribe@spotlight.com">unsubscribe@spotlight.com</a>.</p><p>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.</p><h3>Cookies &amp; IP Addresses</h3><p>A cookie is a piece of information that is stored on your computer's hard drive by your web browser.</p><p>When you use this website for the first time a cookie will be stored on your hard drive. The next time you visit the website (using the same computer) our server will recognise the cookie, giving us information about your last visit. This will enable you to access the website immediately without first having to provide a password, and for us to tailor the website to suit your tastes, interests or business needs. If you do not want a cookie to be stored on your hard drive you should select the appropriate options on your web browser.</p><p>If you are a subscriber to Spotlight Interactive, cookies are vital to your usage of our Internet services. We use these to identify subscribers and remember their web preferences. If you choose to disable cookies you will not be able to use Spotlight Interactive.</p><p>Cookies from third parties may also be used by Spotlight to help us understand how our visitors engage with the website and to determine the number of people who click on an advertisement and subsequently buy our services. To gather this information Spotlight uses Google Analytics and Google AdWords. For more information on how Google uses cookies for analytics and conversion tracking visit <a href="http://www.google.co.uk/privacy_ads.html" target="_blank" title="Google's Advertising and Privacy information pages">Google's Advertising and Privacy information pages</a>.</p><p>An IP address is a number which is automatically assigned to your computer whenever you access the internet. When you access the Spotlight site we will log your IP address. We generally only use IP addresses to analyse trends, administer our website, track general user movements and gather broad demographic information for aggregate use. However, we do link IP addresses to other information which could identify the user when assessing applications from new, re-joining and renewing members to ensure that they are provided with legal 'cooling off periods' where necessary. They will also be used to ascertain where members may be attempting to seek extended free periods on the Spotlight website by the misuse of our 'cooling off periods' or refund policy (see Terms &amp; Conditions). The IP information gathered for this purpose will only be used to 'flag up' possible misuse to Spotlight staff members. The IP details would not be used for Marketing or any other purposes, or made available to third parties.</p><h3>Queries and Requests</h3><p>If you have any queries about the way your data is used by Spotlight, or would like to remove your details from our records, please contact the Data Manager:<br><em>Data Manager<br>Spotlight<br>7 Leicester Place<br>London<br>WC2H 7RJ</em></p><h3>Terms and conditions</h3><p>This Privacy Policy forms part of our <a href="/aboutus/terms" target="_self" title="Terms and Conditions">Terms and Conditions</a> of use which govern your use of this website (both of which may be changed and updated from time to time without notice). By using this website you are deemed to accept the Terms of Use.</p><h3>Applicable Policy</h3><p>Our use of Customer Information is subject to the terms of the Privacy Policy in force at the time when we use the information in question.</p>
+			<p>Spotlight is committed to protecting the privacy of users of this website. This Privacy Policy sets out the type of information that we collect, what it is used for and the rights you have in relation to this information. By using this website you accept the terms of this Privacy Policy.</p><p>This Privacy Policy applies to all users of this website as such - but does not apply fully to those members whose casting / personal information appears as content on the Spotlight website or any future publications of Spotlight. Those members should read this policy in conjunction with their <a href="/terms.html" target="_self" title="Membership Terms and Conditions">Membership Terms and Conditions</a> as this contains more specific information about our use of your details.</p><p>Spotlight may change this policy occasionally by updating this page. You should therefore check this page from time to time to ensure that you are happy with any changes. This policy was last reviewed and updated in September 2010.</p><h3>Definitions</h3><p>"You" means the user of the Site, "We/us" means Spotlight, "website" or "Site" means the sites located at <a href="http://www.spotlight.com" target="_self" title="www.spotlight.com">www.spotlight.com</a> and <a href="http://www.spotlightagent.info" target="_self" title="www.spotlightagent.info">www.spotlightagent.info</a> on the World Wide Web, "Content" means the information and other material available within the Site.</p><h3>Collection and Use of Personal Information</h3><p>If you submit personal information, for example, your name, address, e-mail address, telephone number, business type or other professional details. ("customer information") to us, by completing an order form for products and services or by enquiring about products or services offered through this website or otherwise using the website, we will make a record of it. In order to constantly improve our website and our products and services, and to offer you personal settings on our website, we may also collect information about your use of the website. We may also collect any information you supply to us when you complete surveys or competitions.</p><p>We and our subcontractors may use Customer Information for the following purposes:</p><ul><li>To fulfil your subscriptions for services and orders for products</li><li>To answer your enquiries or otherwise communicate with you</li><li>To vet your professional background, but only when you are joining as a member/ subscriber or purchasing a restricted access product</li><li>Internal record keeping</li><li>To administer the Spotlight Card scheme</li><li>To notify you of other products and/or services that we think will be of interest to you (you will have the opportunity to control the ways in which we contact you)</li><li>To improve our products and services</li></ul><p>From time to time, we and our subcontractors may also use customer information for market research/analysis purposes. Where possible, the results of such research and analysis will be anonymous so that it does not reveal your identity. We may use the information to customise the website according to your interests.</p><p>If you provide us with sensitive personal information, you consent to the processing of this information for the purposes which you have provided it for.</p><h3>Data Protection Legislation</h3><p>Spotlight is your data controller. As your data controller Spotlight has notified its activities to the Office of the Information Commissioner as required under the Data Protection Act 1998, and is listed in the Public register of Data Controllers. Personal information will only be collected and/or processed by Spotlight in accordance with the Act.</p><h3>Protection of Personal Information</h3><p>We are committed to the protection of personal information, and will take all reasonable precautions to ensure that all information that you have submitted via the website remains confidential. We have strict security procedures regarding the storage and disclosure of customer information. For information on the use of <em>professional members</em> information please see our <a href="/terms.html" target="_self" title=" Terms and Conditions">Terms and Conditions</a> of membership.</p><h3>Links to other website</h3><p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p><h3>Disclosure of Personal Information</h3><p>We reserve the right to release Customer Information when we believe the release is appropriate in order to comply with the law, or to enforce our <a href="/terms.html" target="_self" title="Membership Terms and Conditions">Membership Terms and Conditions</a> or to protect the rights, property, or safety of ourselves, our customers or other third parties.</p><p>We may release Customer Information if we acquire any new business, and/or sell all or part of our business.</p><p>Except as set out above, your personal data will not be provided to any third party without your prior written consent.</p><p>The information you provide to us will be held on our computers in the UK. Only professional information passed to us for the promotion of either you as an individual or your business will be accessible to any third parties, and we will make clear to you which parts of any advertisement application will be printed in our books or listed online.</p><p>Should Spotlight employ any third parties to perform functions for us then these contracted business will only have access to data required to perform that function, but may not use it for other purposes.</p><p>We currently use a third party payment service provider (see section below).</p><h3>Website Payments</h3><p>We will retain payment details briefly (the duration of time it takes to complete each transaction) whilst purchases are made through our online shop. Payment card details are never stored on our server and our staff do not have access to this information at any stage of the transaction.</p><p>Our secure socket layer software (SSL) is the industry standard and among the best software available today for secure commerce transactions. It encrypts all personal information including credit card numbers, names and addresses. This encryption ensures that nothing can be read as it travels over the Internet to our chosen fully PCI DSS compliant payment service provider <a href="http://www.sagepay.com" target="_blank" title="www.sagepay.com">www.sagepay.com</a> for processing.</p><p>If you experience any payment problems when placing an order via <a href="http://www.spotlight.com" target="_self" title="www.spotlight.com">www.spotlight.com</a>, we advise you to resubmit your payment details. If your payment still fails, please contact your card issuer, to ensure there are no problems with your account, before contacting our customer services team.</p><p><em>The security of information and payments transmitted via the Internet cannot be guaranteed. Any losses incurred or sustained by users who transmit information by means of email or other internet link shall be borne solely and exclusively by such user and in no event shall any such losses in whole or part be borne by Spotlight.</em></p><p><em>Security advice note: We recommend that when making an online transaction you do not use a public or shared computer or a device such as a laptop or cell phone while you are using public wireless networks. Make sure that nobody can see your confidential details whilst you are typing, and close your browser when you have finished. The computer you use to attach to our online payments system should be secure, and include the latest operating system, software and anti-virus updates.</em></p><h3>Updating Personal Information</h3><p>If you have provided us with Customer Information, it is your responsibility to ensure that it is correct and up to date. This will enable us to provide you with the best service possible.</p><p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p><h3>Your choices</h3><p>You have the right to access the Customer Information which we hold about you and to have any errors corrected. You may check the Customer Information we have about you by contacting our offices. However, please note that no information can be released by us until your identification has been verified.</p><p>If you have previously agreed to us using your personal information for direct marketing purposes by Spotlight, you may change your mind at any time by writing to us or emailing us at <a href="mailto:unsubscribe@spotlight.com" target="_self" title="unsubscribe@spotlight.com">unsubscribe@spotlight.com</a>.</p><p>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.</p><h3>Cookies &amp; IP Addresses</h3><p>A cookie is a piece of information that is stored on your computer's hard drive by your web browser. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. Most web browsers allow control over these cookies through the browser settings.</p><p>If you are a Spotlight Member or subscriber some cookies are vital to your effective usage of our Internet services; we use these to identify members/subscribers, manage secure logins and authentication status, remember website preferences and also to ensure secure renewals and payments can be made.Therefore if you choose to disable these cookies you will not be able to use Spotlight Interactive.</p><p>Spotlight also uses cookies (including third party cookies set by Google Analytics and Twitter) to track and analyse visits to our website; with the aim of constantly improving our website services, and ensuring that we are adequately supporting the growing number of visitors to our site.</p><p>Cookies from third parties may also be used by Spotlight to help us understand how our visitors engage with the website and to determine the number of people who click on an advertisement and subsequently buy our services. To gather this information Spotlight uses Google Analytics and Google AdWords. For more information on how Google uses cookies for analytics and conversion tracking visit <a href="http://www.google.co.uk/privacy_ads.html" target="_blank" title="Google's Advertising and Privacy information pages">Google's Advertising and Privacy information pages</a>.</p><p>Some website links for third party service providers are embedded on our site (for example, our event booking provider).  Spotlight does not control the dissemination of cookies from such sites and you should check the relevant third party website for more information on their use of cookies.</p><p>To see a comprehensive list of the cookies used on the Spotlight website, and their purpose, please <a href="/aboutus/privacy/CookiesTable.html" target="_self" title="Spotlight Cookies Table"><span class="underline">click here</span></a>.</p><p><strong>For more information about cookies, including how to remove and disable them, visit the following website</strong> <a href="http://www.allaboutcookies.org/" target="_self" title="www.allaboutcookies.org">www.allaboutcookies.org</a></p><p>An IP address is a number which is automatically assigned to your computer whenever you access the internet. When you access the Spotlight site we will log your IP address. We generally only use IP addresses to analyse trends, administer our website, track general user movements and gather broad demographic information for aggregate use. However, we do link IP addresses to other information which could identify the user when assessing applications from new, re-joining and renewing members to ensure that they are provided with legal 'cooling off periods' where necessary. They will also be used to ascertain where members may be attempting to seek extended free periods on the Spotlight website by the misuse of our 'cooling off periods' or refund policy (see Terms &amp; Conditions). The IP information gathered for this purpose will only be used to 'flag up' possible misuse to Spotlight staff members. The IP details would not be used for Marketing or any other purposes, or made available to third parties.</p><h3>Queries and Requests</h3><p>If you have any queries about the way your data is used by Spotlight, or would like to remove your details from our records, please contact the Data Manager:<br><em>Data Manager<br>Spotlight<br>7 Leicester Place<br>London<br>WC2H 7RJ</em></p><h3>Terms and conditions</h3><p>This Privacy Policy forms part of our <a href="/aboutus/terms" target="_self" title="Terms and Conditions">Terms and Conditions</a> of use which govern your use of this website (both of which may be changed and updated from time to time without notice). By using this website you are deemed to accept the Terms of Use.</p><h3>Applicable Policy</h3><p>Our use of Customer Information is subject to the terms of the Privacy Policy in force at the time when we use the information in question.</p>
 		</div>
 		<div id="right">
 			
-	<p class="rightP"><a href="http://www.spotlight.com/shop/contacts12" title="Order Contacts 2012 now">
+	<p class="rightP"><a href="http://www.contactshandbook.com" title="Order Contacts 2012 now">
 		<img src="/_img/Contacts2012_ORDER_122x120_bk.gif" height="122" width="120" border="0" alt="Order Contacts 2012">
 	</a>
 </p>
@@ -263,60 +270,29 @@
 	<!-- BEGIN /include/_footer.asp -->
 
 <script>
-	// ANY CHANGES MADE IN THIS FILE NEED TO BE DUPLICATED 
+	// ANY CHANGES MADE IN THIS FILE NEED TO BE DUPLICATED
 	// see this page in the wiki http://spotwiki/pages/viewpage.action?pageId=12389365
 </script>
 
 <br class="clear">
 <div id="footer">
-	<p>
-		©
-		<a href="/" title="Spotlight">
-			Spotlight</a>
-		2011. All rights reserved.
-		
-	</p>
+    <p>
+        © <a href="/" title="Spotlight">Spotlight</a> 2012. All rights reserved.
+    </p>
 	<ul>
+        <li>
+			<a href="/aboutus/terms" title="Terms &amp; Conditions">Terms &amp; Conditions</a>
+        </li>
 		<li>
-			<a href="/aboutus/contact" title="Contact Us">
-				Contact Us</a></li>
-		<li>
-			<a href="/aboutus/privacy" title="Privacy Policy">
-				Privacy Policy</a></li>
-		<li>
-			<a href="/aboutus/terms" title="Terms &amp; Conditions">
-				Terms &amp; Conditions</a></li>
+			<a href="/aboutus/contact" title="Contact Us">Contact Us</a>
+        </li>
 	</ul>
+    <p class="footerRight">
+        For more information about the cookies we use, see our <a href="/aboutus/privacy" title="Privacy Policy">Privacy Policy</a>.
+    </p>
 </div>
 <!-- div:footer -->
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-12024886-1");
-	pageTracker._setDomainName(".spotlight.com");
-	pageTracker._trackPageview();
-	pageTracker._trackPageLoadTime();
-	} catch(err) {}
-</script>
-<!--
-<script type="text/javascript">
-document.write(unescape("%3Cscript src='" + ((document.location.protocol == "https:") ? "https:" : "http:") + "//snapabug.appspot.com/snapabug.js' type='text/javascript'%3E%3C/script%3E"));</script>
-<script type="text/javascript">
-SnapABug.setButton(((document.location.protocol == "https:") ? "https:" : "http:") + "//www.spotlight.com/img/static/found_a_bug.png", 27, 105);
-SnapABug.addButton('ffc1e243-c00c-4cee-8b3c-6fa570d0a104', "0", "2%");
-</script>
--->
-<script type="text/javascript" src="/include/scripts/boomerang-0.9.1280532889.js"></script>
-<script type="text/javascript">
-    BOOMR.init({
-        user_ip: '174.129.228.67',
-        beacon_url: "/boomerang/beacon.aspx",
-        BW: { enabled: false }
-    });
-</script>
+<script type="text/javascript" src="/include/compliance/cookie.js?20111130200101"></script>
 
 
 
