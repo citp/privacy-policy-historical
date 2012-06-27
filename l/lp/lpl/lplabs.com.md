@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lplabs.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203731id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lplabs.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627053025id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Information - Lonely Planet
 
@@ -65,11 +65,7 @@ Back to top
 
 ### What about 'cookies'?
 
-A "cookie" is a small message given to your web browser by our web server. The browser stores the message in a text file, and the message is then sent back to the server each time the browser requests a page from the server. We use cookies on our website to tailor our web pages to your needs. This may include recording what region of the world you are from so we don't make the mistake of requiring you to buy stuff with British Pounds when you live in Fiji for example!
-
-Cookies also allow us to analyse and improve the services offered by our website e.g. to provide you with the most user-friendly navigation experience. We engage independent measurement, advertising and research companies who use cookies to help us gather information about visitors to our website. We may collect your IP address (an IP address is a number that can uniquely identify a specific computer or other network device on the internet) and attach cookies to it for the purpose of improving our site and enhancing your use of it. IP addresses may be used to identify the location of users, the number of visits from different countries and also to block disruptive use. Rest assured, this information is not used to develop a personal profile of you. Lonely Planet strictly requires that these companies do not use this information for their own purposes. We do not match cookies to your registration details (that is, if you are registered with us) and we do not use cookies to track your movements after leaving this website.
-
-Further information regarding the main cookies that we set on our site (e.g. what they are used for) - and ways to minimise the number of cookies you receive can be viewed at the [More about Cookies](http://www.lonelyplanet.com/legal/cookies) page. Note that while you can turn off cookies, doing this will restrict your use of our website.
+Please see our [Cookies Policy](http://www.lonelyplanet.com/legal/cookies) for more information about cookies used on [LonelyPlanet.com](http://www.lonelyplanet.com/)
 
 Back to top
 
