@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227201236id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627102009id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.*
 
 # AWF: Privacy Policy
 
