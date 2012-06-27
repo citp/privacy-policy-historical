@@ -1,100 +1,85 @@
-> *The following text is extracted and transformed from the gmacfs.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209010350id_/http%3A//www.gmacfs.com/us/en/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmacfs.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627173102id_/http%3A//www.ally.com/privacy) for the most accurate reproduction.*
 
-# GMAC Financial Services > GMAC Privacy Policies, Privacy Notices, and Customer Privacy Preferences
+# Privacy | Ally Financial
 
-GMAC Privacy Policies and Notices
+## Online Privacy Policy
 
-Online Privacy Policy for GMAC Automotive Financing and GMAC Demand Notes  
-[Social Security Number Privacy Protection Policy](https://web.archive.org/web/20090209010350id_/http%3A//www.gmacfs.com/us/en/ssn_privacy_policy.html)  
-[GMAC Financial Services Privacy Notice (excluding California)](https://web.archive.org/web/20090209010350id_/http%3A//www.gmacfs.com/us/en/objects/pdf/GLBA-Facta_GMAC_Non-CA_01142009.pdf)  
-[GMAC Financial Services Privacy Notice (California)](https://web.archive.org/web/20090209010350id_/http%3A//www.gmacfs.com/us/en/objects/pdf/GLBA-Facta_GMAC_CA_01142009.pdf)
+### Overview of Online Privacy Policy Promise for Ally Financial
 
-Set Your Privacy and Marketing Preferences
+You take online privacy seriously and so does Ally Financial. We are a group of companies committed to protecting the personal information of visitors to our websites and web pages. This policy is one way of sustaining your trust in our companies, our products and our services.
 
-By clicking on the "Set your preferences" link below, current customers may choose to opt out of any or all of the following, as allowed by law: 
+This Online Privacy Policy applies only to the Ally Financial websites and web pages from which you directly linked to this policy. This Policy applies only to the collection, use and sharing of information you provide online.
 
-  * Sharing your information among GMAC companies
-  * Sharing your information with third parties
-  * GMACFS and Affiliate marketing offers
+Our Online Privacy Policy describes the information we collect from and about you during your visit to our websites and web pages. Our privacy policy also describes how we use information about you, whom we share it with, and how we protect it.
 
+Our websites and web pages may contain links to third party sites not controlled by Ally Financial or covered by this Online Privacy Policy. We recommend that you check the privacy statement of other sites you visit before providing any personal information.
 
+Ally Financial Customers: Once you become a customer of Ally Financial, and annually thereafter while you remain a customer of Ally Financial, we will provide you a Privacy Notice describing our privacy practices related to the collection and sharing of personal information about our customers, as required by law.
 
-[Set your preferences](https://www.gmacfs.com/privacy_admin) >>
+### What personal information does Ally Financial collect online?
 
-Online Privacy Policy for GMAC Automotive Financing and GMAC Demand Notes
+We collect personal information about you from the information you provide to us when you visit our websites and web pages.
 
- _This Online Privacy Policy for GMAC Automotive Financing applies to the homepage of[www.gmacfs.com](http://www.gmacfs.com/) and the GMAC Automotive Financing web pages accessible from the [www.gmacfs.com](http://www.gmacfs.com/) homepage (including the GMAC Express Application, Payment Estimator, Affordability Calculator, GMAC Direct Pay-Automatic, and GMAC Direct Pay-Online). This Online Privacy Policy also applies to the GMAC Automotive Financing websites [www.gmacinspections.com](http://www.gmacinspections.com/), [www.demandnotes.com](http://www.demandnotes.com/) and [www.smartedgebygmac.com](http://www.smartedgebygmac.com/)._
+The information will depend on the Ally Financial website or web page you visit. This information may include, but is not limited to:
 
-**Overview of Online Privacy Policy for GMAC Automotive Financing and GMAC Demand Notes**  
-
-
-You take online privacy seriously and so do GMAC Automotive Financing and GMAC Demand Notes. It's our way of sustaining your trust in our company, our products and our services. Our privacy policy describes the information we collect from and about you during your visit to our web sites and web pages. Our privacy policy also describes how we use information about you, whom we share it with, and how we protect it. This privacy policy applies only to our online practices.
-
-This Online Privacy Policy applies only to the GMAC Automotive Financing web sites, the GMAC Demand Note web site and web pages identified above. Some GMAC sites have their own privacy statements.
-
-These sites may also contain links to third party sites not controlled by GMAC or covered by this privacy statement. We recommend that you check the privacy statement of other sites you visit before providing any personal information.
-
-**What Personal Information do GMAC Automotive Financing and GMAC Demand Notes Collect Online?**  
-
-
-We collect personal information about you from the information you provide to us when you register on [www.smartedgebygmac.com](http://www.smartedgebygmac.com/)web site or complete the GMAC Express Credit Application, a GMAC Direct Pay-Automatic or GMAC Direct Pay-Online registration form, the GMAC Demand Note website registration, a request for training material, a sweepstakes registration or other form on our site.
-
-This information may include:
-
-  * name, 
-  * address, 
-  * social security number in whole or in part,
-  * telephone number, 
-  * GMAC account number, 
-  * account number at a bank or other financial institution, type of bank account, and the name of the bank or other financial institution, 
-  * demand note number, and
-  * email address.
+  * Name
+  * Address
+  * Social Security number in whole or in part
+  * Phone numbers (including mobile)
+  * Account number
+  * Account number at a bank or other financial institution, type of bank account, and the name of bank or other financial institution
+  * Demand Note number
+  * Email address
+  * Email referral information
+  * Date of birth
+  * Current residential information including mortgage or rent payments
+  * Employment information
+  * Income information
 
 
 
-In addition to the information above, if you complete the GMAC Express Credit Application, we may collect:
+### How do you use the personal information you collect about me online?
 
-  * date of birth, 
-  * current residential information including mortgage or rent payments, 
-  * employment information,
-  * income information, and 
-  * your dealer selection. 
+We use the personal information we collect online to process your request for services, products or information, to improve our customer service and products, and to facilitate your participation in online activities. For example, we may use the information you provide when you complete an online application for a product or service in order to process and evaluate your application. If you request product information, we may use the information you provide to mail you information you request.
 
+We may also use the information we collect for analytic purposes, market research, or for marketing purposes, as allowed by law.
 
+### Do you share the personal information you collect about me online?
 
-We also collect email referral information from you when you complete the "Tell a Friend" referral information on [www.smartedgebygmac.com](http://www.smartedgebygmac.com/)web site or the GMAC Demand Notes Referral program. We do not reuse or sell the email addresses. We only use them to send the referral information.
+We may share some of the information we collect about you with third parties, such as companies performing services on our behalf, to provide the products or services you have requested.
 
-**Do You Use Cookies or Other Online Technologies to Collect Information About Me?**  
+As permitted by law, we may share information we collect about you with companies with whom we have formal agreements to offer you financial products and services.
 
+We may also share information about you with our affiliates (other companies in the Ally Financial family) and with non-affiliates for analysis, market research and marketing purposes, as allowed by law.
 
-When you view one of our websites, we may store certain information on your computer. This information may be in the form of a small text file called a "cookie" and can help us to tailor our sites to your individual preferences and save you time if you visit the site again. For example, cookies may include the country webpage you prefer or your language preference. Where specific programs associated with our websites require a user ID and password, you have the option of requesting that we save your user ID and password so that you will not have to re-enter that information the next time you access the website. This is accomplished by the placement of a cookie on your computer.
+We may disclose your personal information as otherwise permitted or required by law.
 
-We may also use cookie technology or other online tracking technologies, like web beacons, to gather anonymous, aggregate information about your visit to our web sites. This information allows us to measure site activity and to create ideas for improving our sites and may include the time and length of your visit, the web pages you look at on our sites, the web site you visited just before coming to ours and your internet service provider. If we provide you a link from a GMAC Financial Service site to another site, we may track the fact that you navigated to that other site from ours, and we may track your activity while on that site. This will help us understand which links are helpful to you when you visit our site, and will help us provide you with links that may be of interest to you, when you visit our site again.
+### Do you use cookies or other online technologies to collect information about me?
 
-**Do You Share Personal Information About Me?**  
+When you browse or visit one of our websites, we may store certain information on your computer. This information may be in the form of a small text file called a "cookie" and can help us to tailor our sites to your individual preferences and save you time if you visit the site again. For example, cookies may include the country webpage you prefer or your language preference. Where specific programs associated with our websites require a user ID and password, you have the option of requesting that we save your user ID and password so that you will not have to re-enter that information the next time you access the website. This is accomplished by the placement of a cookie on your computer.
 
+We may also use cookie technology or other online tracking technologies, like web beacons, to gather anonymous, aggregate information about your visit to our websites. This information allows us to measure site activity and to create ideas for improving our sites and may include the time and length of your visit, the web pages you look at on our sites, the website you visited just before coming to ours and your internet service provider. If we provide you a link from an Ally Financial site to another site, we may track the fact that you navigated to that other site from ours, and we may track your activity while on that site. This will help us understand which links are helpful to you when you visit our site, and will help us provide you with links that may be of interest to you, when you visit our site again.
 
-In certain circumstances, we share information about you with other companies to provide you the services you are requesting. For example, we may share information about you with credit reporting agencies when you complete our online GMAC Express Credit Application. If you select a dealership during the GMAC Express Credit Application process with which you would like information about you shared, we will share information about you with that dealership. We may share information about you with our bank and other banks if you complete our GMAC Direct Pay-Automatic authorization form, or use our GMAC Direct Pay-Online billing service. We may share information with Mellon Bank if you complete a transaction on the GMAC Demand Notes web site. If you request training materials from the [www.smartedgebygmac.com](http://www.smartedgebygmac.com/) site, we may share information about you with service providers for the purpose of mailing you those training materials. 
+You can disallow cookies by making the appropriate selection from your browser options to inform you when cookies are set or to prevent cookies from being set. However, if you set your browser options to disallow cookies, you may limit the functionality we can provide when you visit our site.
 
-We may also share information about you with our suppliers and service providers for their use exclusively in providing services to us, or with our affiliates (other companies in the General Motors family) for analysis, market research and marketing purposes as allowed by law. 
+### How can I change or update the personal information you collected about me online?
 
-Any company with which we share information about you for the above purposes is contractually required to comply with confidentiality standards. 
+If you have questions about information you provided on an Ally Financial web site or web page, call the phone number or select the "Contact Us" link provided on the specific web page, so that we may assist you.
 
-We do not provide information about you to any unaffiliated third party for their independent use without your permission. However, we may disclose your personal information as required by law, in conjunction with a governmental inquiry, or in litigation or dispute resolution. 
+### What steps do you take to protect personal information about me?
 
-We do not sell information about you to anyone.
+We restrict access to the information obtained from our web site and web pages to our employees, agents and contractors. We maintain physical, electronic and procedural safeguards designed to protect your personal information.
 
-**Can I Change or Update the Personal Information You Collected About Me?**  
+Companies that provide online services on our behalf are required by contract to protect customer information, and are only allowed to use the information for the purpose of providing the services we have contracted with them to provide.
 
+### Do you collect information about children?
 
-If you have questions about information you provided on a GMAC Automotive Financing web site or web page, call the phone number provided on the web page or 1-800-32SMART so that we may assist you. If you have questions about information you provided on the GMAC Demand Notes web site, call 1-800-684-8823 for assistance.
+We do not knowingly collect or maintain information provided on our web sites by children under the age of 13. Our web sites are not intended to attract children under 13.
 
-**What Steps Do You Take to Protect My Personal Information?**  
+### Do you make public forums available on your web sites?
 
+We make public forums available on our web sites, which may include the ability to upload text, photographs and videos that are accessible to the general public. Unless we tell you otherwise, any information you disclose in these areas may become public information. You should also use caution when deciding to disclose personal information in these areas.
 
-We restrict access to the information obtained from our websites and web pages to our employees, agents and contractors. We maintain physical, electronic and procedural safeguards designed to protect your personal information. 
+### Will you make changes to this Online Privacy Policy?
 
-**Will GMAC Automotive Financing or GMAC Demand Notes Make Changes to this Privacy Policy?**  
-
-
-This statement is effective January 30, 2009. We reserve the right to alter its privacy policy. Any change to this policy will be posted on our web sites in a timely manner.
+This policy is effective June 4, 2010. We reserve the right to alter this policy at our discretion. Any change to this policy will be posted on our websites in a timely manner.
