@@ -1,17 +1,11 @@
-> *The following text is extracted and transformed from the axisbank.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218201402id_/http%3A//www.axisbank.com/privacypolicy/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axisbank.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627152904id_/http%3A//www.axisbank.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Axis Bank - Privacy Policy
+# Axis Bank
 
-|  |   
----  
-  
-|   
----  
-  
-Your privacy is important to Axis Bank. This is why, as a member of Axis Bank, we are committed to the Axis Bank Privacy Promise for Consumers, which is as follows:  
-  
-Axis Bank Privacy Promise for Consumers   
-  
+Your privacy is important to Axis Bank. This is why, as a member of Axis Bank, we are committed to the Axis Bank Privacy Promise for Consumers, which is as follows:
+
+#### Axis Bank Privacy Promise for Consumers 
+
 While information is the cornerstone of our ability to provide superior service, our most important asset is our customers' trust. Keeping customer information secure, and using it only as our customers would want us to, is a top priority for all of us at Axis Bank. Here then, is our promise to our individual customers:
 
   * We will safeguard, according to strict standards of security and confidentiality, any information our customers share with us. 
