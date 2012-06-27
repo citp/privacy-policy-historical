@@ -1,0 +1,31 @@
+> *The following text is extracted and transformed from the domainsbot.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628003819id_/http%3A//www.domainsbot.com/home/privacy) for the most accurate reproduction.*
+
+# Available domain suggestions,expired and expiring domain name, whois lookup | DomainsBot
+
+## Privacy Policy
+
+We take providing high quality service and protecting your privacy very seriously. The following information outlines the commitment we have made to protect the privacy of you and your organization during and after your use of the DomainsBot service. 
+
+#### I. Information Collected by DomainsBot
+
+DomainsBot.com, Srl. (DomainsBot) is the sole owner of the information collected on this site. DomainsBot collects information in the following activities: Account Registration: When you become a subscriber of DomainsBot services, we collect information that may include, but is not limited to, the following information: your full name, company name, e-mail address, physical address, search terms used to identify potential domain names, the domain names you choose to save or have registered by affiliated registrars, and demographic information. “My DomainsBot ” Content: If you submit information to the DomainsBot “My DomainsBot ” service, we will collect your domain name information, including expiration date, DNS information and registrar information. We will take reasonable measures to ensure that your data is secure, including the use of SSL (Secure Socket Layer) technology. Site Usage Tracking: We use information gathered about you from our site statistics (for example your IP address) to help diagnose problems with our server, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. We keep no personally identifiable information about you, except as necessary to prevent fraud or abuse on our system. Cookies: A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use cookies to recognize the user and track the order status while the user is logged in. For the site to function properly, at least session-level cookies must be enabled in Internet Explorer or the first or second choice for cookies in Netscape. These cookies are not accessible by any other web site and are removed by the browser at the end of the session. 
+
+#### II. How we use collected information
+
+Analysis of Site Behavior Information: We may monitor and analyze site activity to gather information to determine interest in different areas of the DomainsBot site. This information aids us in improving our product offerings, enhancing our user acquisition strategies, and ensuring high-quality service at all times. Additionally, we may inform our partners of how many site visitors have visited or purchased services, so that they may enhance their services. Site Security: To ensure data security for our subscribers, the DomainsBot site uses SSL (Secure Socket Layer) security technology to prevent unauthorized access to data. Additionally, we house our site servers in a secure environment, and only allow site information to be viewed by our authorized staff members. Subscriber Contact Information: We use this information to inform you about changes or additions to our Web site, send you information about effective ways to utilize DomainsBot, and to facilitate customer support services. We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. You represent that notice has been provided to any third-party individuals whose personal data is supplied to us by you, and that you have obtained consent of any such third-party individuals. Your Rights. You have the right to be informed free of charge about the storage of your personal data. You have the right to access and modify data concerning you. We agree not to keep on file, process, or transmit all or part of any data that would contravene the rules mentioned in this agreement, and to take all reasonable precautions to protect all or part of the data from loss, fraudulent use, misuse, unauthorized access or disclosure, alteration, or destruction. 
+
+#### Sending Emails
+
+We use emails to communicate with you, to update you on new products, to confirm your placed orders, and to send information that you have requested.
+
+#### III. How DomainsBot shares information
+
+The information you send to us, including personal and domain name information, may be stored and used to improve this site and our products, or it may be reviewed and discarded. However, your information will never be shared with third parties without your explicit permission. Other than what is specified in this document, we do not rent, sell, or trade your personal or organizational information to others. We may provide aggregate statistics about sales, user traffic patterns, and other site information to third parties. These statistics will never contain personally identifiable information. 
+
+#### IV. Links
+
+This Web site contains links to other sites. We are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+
+#### V. Your Consent
+
+By using DomainsBot, you consent to the collection and use of information as outlined above. We reserve the right to make changes to this privacy policy, and will post any and all changes on this Web page. We will work to secure all information at all times; however, by using the DomainsBot site, you are voluntarily transmitting information to us, and we cannot ensure or warrant the security said information. 
