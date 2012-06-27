@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the skreened.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221202229id_/http%3A//skreened.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skreened.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627201819id_/http%3A//skreened.com/content/privacy) for the most accurate reproduction.*
 
 # Custom T-Shirts, Hoodies, Tees, Design a Tshirt. - Skreened
 
-We are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using the Skreened.com web site, you consent to the collection and use of your information as we have outlined in this policy. 
+We are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using the Skreened.com web site, you consent to the collection and use of your information as we have outlined in this policy.
 
-### Updates
+###  Updates
 
-From time to time, we may update this privacy policy. We will notify you about material changes in the way we treat personally identifiable information by emailing you and/or placing a notice on our Website. Your continued use of the Skreened Website will be subject to the then current Privacy Policy. 
+From time to time, we may update this privacy policy. We will notify you about material changes in the way we treat personally identifiable information by emailing you and/or placing a notice on our Website. Your continued use of the Skreened Website will be subject to the then current Privacy Policy.
 
-### But first, a note about uploading and posting information on the Skreened Website:
+###  But first, a note about uploading and posting information on the Skreened Website:
 
 When you first [open an account on Skreened ](https://web.archive.org/signup), you will choose a _username_ and _password_. When you create a shop or gallery, comment on a design, or send a message on Skreened, your username is visible to other users.
 
@@ -17,7 +17,7 @@ Additionally, if your comment or message contains personal information and is po
 You may provide us with certain personally identifiable information when you:
 
   * register for a skreened account;
-  * order products 
+  * order products
   * request customer support or send us any other communication;
   * sign up for newsletters, email alerts, and special offers;
   * set up an affiliate account;
@@ -30,7 +30,7 @@ Such information may include your name, email address, billing address, shipping
 
 ###  Information Collected by Cookies:
 
-Skreened uses cookies, small text files on your computer which a website sends to your computer to allow the website to store information which uniquely identifies our users. Skreened's cookies do not collect or store personally identifiable information. Rather, the cookie stores a token which uniquely identifies a particular user at a particular time. That token is then linked to the user information in our secured databases. You can always reset your browser to refuse all cookies or to display a message when a cookie is being sent. 
+Skreened uses cookies, small text files on your computer which a website sends to your computer to allow the website to store information which uniquely identifies our users. Skreened's cookies do not collect or store personally identifiable information. Rather, the cookie stores a token which uniquely identifies a particular user at a particular time. That token is then linked to the user information in our secured databases. You can always reset your browser to refuse all cookies or to display a message when a cookie is being sent.
 
 When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The secure server software (SSL) we use encrypts all information you input before it is sent to us. In addition, your account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select.
 
@@ -72,7 +72,7 @@ In the event that Skreened is acquired by, or merged with, another company, Skre
 
 Skreened may disclose non-personally-identifiable information to third parties in aggregate form to potential business partners and investors.
 
-### **What about Children's Privacy?**
+###  **What about Children's Privacy?**
 
 Children under the age of thirteen are allowed to upload graphics and images and to order products with their parent's consent. To order products, the child must indicate his or her age, submit his or her name and his or her mailing address and shipping address if different from the mailing address together with a valid credit card number. This is the only information collected from a child.
 
@@ -82,8 +82,8 @@ Parents of children under the age of 13 have the option to consent to the collec
 
 Personal information at Skreened is kept confidential and is disclosed only with the consent of the Skreened user or as set forth in this Privacy Policy. We do not engage in the selling of the habits, behavior, buying patterns, or demographic information of our users. Skreened does not condition a child's participation in any on-line activity on the granting of any unnecessary information beyond that actually needed in connection with that activity.
 
-Parents can review any information Skreened has received from a child and the parent can have that information deleted and the parent can forbid the collection of additional information from their child. If you want to review any information obtained from your child or if you want to have any information obtained from your child deleted from the Skreened records or to forbid any use of such information, simply [contact us](http://skreened.com/static/contact). 
+Parents can review any information Skreened has received from a child and the parent can have that information deleted and the parent can forbid the collection of additional information from their child. If you want to review any information obtained from your child or if you want to have any information obtained from your child deleted from the Skreened records or to forbid any use of such information, simply [contact us](http://skreened.com/static/contact).
 
-### **How can I change, delete, or update my information?**
+###  **How can I change, delete, or update my information?**
 
 Most of your account information can be changed in the account section of the Skreened Website. If you have any questions about what information is stored, please contact us at [help@skreened.com](mailto:help@skreened.com).
