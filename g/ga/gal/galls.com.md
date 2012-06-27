@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galls.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427222138id_/http%3A//www.galls.com/privacy.html%3Freflink%3Dftr_privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galls.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627072536id_/http%3A//www.galls.com/staticpage-privacy) for the most accurate reproduction.*
 
 # Privacy and Security - Police Gear - Police Equipment - Police Uniforms - Public Safety Equipment: Galls
 
@@ -44,12 +44,6 @@ The information we collect is used to better serve our customers by making their
 
 
 Galls does share customer information under the limited conditions described below:
-
- _Affiliates_
-
-: Galls shares and aggregates customer information with its affiliated companies under common control with Galls
-
-. The information is shared for internal business and marketing/promotional purposes.
 
  _Agents_
 
