@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224901id_/http%3A//division.uaex.edu/statements.htm%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628015209id_/http%3A//division.uaex.edu/statements.htm%23Privacy) for the most accurate reproduction.*
 
 # Statements, Disclaimers and Freedom of Information for the U of A Division of Agriculture
 
@@ -84,14 +84,14 @@ Fax: 501-671-2251
 E-mail: [drothberg@uaex.edu](mailto:drothberg@uaex.edu)   
   
 **  
-Dr. Richard Roeder**  
-Interim Associate Vice-President   
+Dr. Clarence Watson  
+**Associate Vice-President   
 for Agriculture - Research  
-AFLS E-202  
+AFLS 214  
 University of Arkansas  
 Fayetteville, AR 72701   
-479-575-2120  
-E-mail: [rroeder@uark.edu](mailto:rroeder@uark.edu)
+479-575-8703  
+E-mail: [cwatson1@uark.edu](mailto:cwatson1@uark.edu)
 
 | 
 
