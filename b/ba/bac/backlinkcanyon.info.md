@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinkcanyon.info privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227192317id_/http%3A//www.backlinkcanyon.info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinkcanyon.info privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627235533id_/http%3A//www.backlinkcanyon.info/privacypolicy.php) for the most accurate reproduction.*
 
 # Back Link Canyon General Directory - Privacy Policy
 
@@ -30,18 +30,18 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 ### Featured Links
 
-| [Free Celebrity Wallpapers](http://www.wallpapersfreak.com/ "Free Celebrity Wallpapers") \- http://www.wallpapersfreak.com
-
-Free high quality female celebrity wallpapers including musicians, models, Hollywood and Bollywood actresses. Visit us for hot free background pictures.  
-  
----|---  
-| [Ariesoul Jewelry](http://www.ariesouljewelry.com/ "Ariesoul Jewelry") \- http://www.ariesouljewelry.com
-
-One-of-a-kind handcrafted necklaces, earrings, and bracelets designed by Alicia A. Bergman feature semiprecious, Swarovski crystal, and glass beads with hypoallergenic sterling silver, copper, or black metal links and clasps.  
-  
----|---  
 | [QPEW! Arcade](http://qpew.com/ "QPEW! Arcade") \- http://qpew.com/
 
 Online free games arcade focusing on providing quality games without having to jump through hoops, offsite links and reams of advertising.  
+  
+---|---  
+| [Los Angeles Locksmith](http://www.911locksmith.com/Los-Angeles-Locksmith.html "Los Angeles Locksmith") \- http://www.911locksmith.com/Los-Angeles-Locksmith.html
+
+911 Locksmith is a full-service local locksmith company providing all of your locksmith needs. We specialize in emergency locksmith service, Auto Locksmith, and 24 7 locksmith service. 911 Locksmith.com handles all types of emergency locksmith calls whether if it’s for commercial, residential, business or automotive - We do it all! Call 888-666-2050 - Servicing All US Cities. Satisfaction Guaranteed – Free Estimate.  
+  
+---|---  
+| [Web optimisation](http://www.emarketers.co.uk/ "Web optimisation") \- http://www.emarketers.co.uk/
+
+Web optimisation from Emarketers : specialist Internet marketing company that offer web optimisation services for business clients in Berkshire, London and UK wide.  
   
 ---|---
