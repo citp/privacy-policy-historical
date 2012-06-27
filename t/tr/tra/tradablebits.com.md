@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradablebits.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206192230id_/http%3A//apps.tradablebits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradablebits.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627021906id_/http%3A//apps.tradablebits.com/privacy) for the most accurate reproduction.*
 
-# Tradablebits
+# TradableBits
 
 ###  Tradable Bits Privacy Policy
 
@@ -11,7 +11,7 @@ Tradable Bits will be collecting information from user session to ensure that ou
 
 
 What do we collect?  
-We will collect names, emails and/or phone numbers for those who registers and communicate with us. We will also collect statistics on Tradable Bits Apps usage including Tab page views and track time/clicks. We also may collect your IP address, browser type, domain name, access times and referring website address. 
+We will collect names, emails and/or phone numbers for those who registers and communicate with us. We will also collect statistics on Tradable Bits Apps usage including app page views and track time/clicks. We also may collect your IP address, browser type, domain name, access times and referring website address. 
 
 When you register we will collect your Full Name, Email, Phone, Business/Corporation Name, Billing Address and Credit Card information for those who uses our Enhanced Services. This information is used to keep track of users accounts, billing information, identification, authorization, authentication, products/services activation, service enhancement, research and controls rights for Pages. 
 
