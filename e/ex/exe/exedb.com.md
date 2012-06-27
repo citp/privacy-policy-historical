@@ -1,17 +1,54 @@
-> *The following text is extracted and transformed from the exedb.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627140439id_/http%3A//www.exedb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exedb.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627033829id_/http%3A//www.exedb.com/privacypolicy.html) for the most accurate reproduction.*
 
 # privacy policy Adware spyware malware virus information
 
-  |  The owner of this web site is committed to online privacy. The following guidelines pertain to the handling of your information.  
-Visitors
+This Privacy Policy governs the manner in which Exedb.com collects, uses, maintains and discloses information collected from users (each, a "User") of the Exedb.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Exedb.com.
 
-Visitors may browse the site to learn about our many services, receive company information without giving any personal information.
+**Personal identification information**
 
-Personal information is only made available when a site visitor volunteers it, through our registration or contact page, to request a contact or provide a service.  
-Web site visitor information with respect to service requests are collected with the use of computer IP addresses on an aggregate basis in which personal information is associated with this data. This data is gathered through the use of Web server log files and where site activity is stored.  
-Information is used to help prevent abuse, such as audits, diagnose problems with our server, measure the use of our Web site content and to administer our Web site. This information may be used to track down an individual who is attacking or misusing our resources.  
-This site contains links to other Web sites. We are not responsible for the privacy practices or the content of such Web sites. This Internet Privacy Statement applies to U.S. clients and Web site visitors only.  
-We may change this privacy statement at any time. Any changes or updates will be effective immediately upon posting to this site.  
-If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, please feel free to contact us.
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Exedb.com Team
+**Non-personal identification information**
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+**Web browser cookies**
+
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+  
+**How we use collected information**
+
+Exedb.com collects and uses Users personal information for the following purposes:
+
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
+  * _\- To improve our Site_  
+We continually strive to improve our website offerings based on the information and feedback we receive from you. 
+  * _\- To improve customer service_  
+Your information helps us to more effectively respond to your customer service requests and support needs
+
+
+
+**How we protect your information**
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+**Sharing your personal information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+ **Third party websites**
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+**Advertising**
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+  
+ 
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
