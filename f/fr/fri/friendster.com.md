@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the friendster.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222024603id_/http%3A//www.friendster.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendster.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627204912id_/http%3A//www.friendster.com/privacy_policy) for the most accurate reproduction.*
 
 # Play Free Online Game | Free Online Games at Friendster
 
 Last Updated on June 25, 2011
 
-Friendster does not send Spam or sell email addresses.
+Friendster Sdn. Bhd. does not send Spam or sell email addresses.
 
 ## Profile Information submitted by Members to Friendster
 
@@ -61,6 +61,6 @@ The ads appearing on this Web site are delivered to Members by our Web advertisi
 
 This privacy statement covers the use of cookies by Friendster only, and does not cover the use of cookies by any other party.
 
-We have made an effort to protect the personal information of all Members and other users of the Friendster website, and to the extent applicable, we attempt to comply with local data protection and consumer rights laws. If you are unsure whether this privacy policy is in conflict with the applicable local rules where you are located, you should not submit your personal information to the Friendster website. **IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE REPUBLIC OF SINGAPORE, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found[ here ](http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML) ** . Members and other users of the Friendster website located in countries outside of the Republic of Singapore who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the Republic of Singapore. 
+We have made an effort to protect the personal information of all Members and other users of the Friendster website, and to the extent applicable, we attempt to comply with local data protection and consumer rights laws. If you are unsure whether this privacy policy is in conflict with the applicable local rules where you are located, you should not submit your personal information to the Friendster website. **IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO MALAYSIA, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found[ here ](http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML) ** . Members and other users of the Friendster website located in countries outside of Malaysia who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in Malaysia. 
 
 If you have any questions about this privacy policy, Friendster's privacy practices, or your dealings with Friendster, please  contact us  . 
