@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puritan.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213190436id_/http%3A//www.puritan.com/house/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puritan.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627074648id_/http%3A//www.puritan.com/house/privacypolicy.asp) for the most accurate reproduction.*
 
 # Puritan's Pride Privacy Policy
 
@@ -97,4 +97,4 @@ Legal Department
 Ronkonkoma, New York 11779
 
 Awarded May 2011 from the Web's most trusted signal of high quality customer service.  
-[Learn more](http://www.stellaservice.com/profile/124?cm_re=-_-Footer-_-Stella_Service "Awarded Stella Service Elite, May 2011 from the Web's most trusted signal of high quality customer service. Click To Learn More")
+[Learn more](http://www.stellaservice.com/profile/124?cm_re=Footer-_-Link-_-Stella_Service "Awarded Stella Service Elite, May 2011 from the Web's most trusted signal of high quality customer service. Click To Learn More")
