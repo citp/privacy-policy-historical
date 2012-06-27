@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the photocritic.org privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211174317id_/http%3A//www.pixiq.com/privacy-principles) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photocritic.org privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627171326id_/http%3A//www.pixiq.com/privacy-principles) for the most accurate reproduction.*
 
 # Privacy Principles | Pixiq
 
-At Barnes & Noble we value all of our customers and understand that you care about the privacy and security of your personal information. The Privacy Principles set out below apply to Barnes & Noble’s collection, storage, use and disclosure of personal information that may be collected by us when you interact with Barnes & Noble, such as when you visit our stores or websites, participate in our Member program, or deal with customer service.
+At Barnes & Noble we value all of our customers and understand that you care about the privacy and security of your personal information. The Privacy Principles set out below apply to Barnes & Noble’s collection, storage, use and disclosure of personal information that may be collected by us when you interact with Barnes & Noble, such as when you visit our stores or websites, or use our devices or applications, participate in our Member program, or deal with customer service.
 
 Protecting the privacy and security of your personal information is a priority at Barnes & Noble, and we do our best to ensure that your personal information is always handled in a safe and responsible manner in accordance with the following Privacy Principles:
 
