@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the winsornewton.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223212109id_/http%3A//www.winsornewton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsornewton.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627165855id_/http%3A//www.winsornewton.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-ColArt International Holdings Ltd Limited are dedicated to protecting and preserving your privacy when visiting our sites or communicating electronically with us. 
+ColArt International Holdings Ltd are dedicated to protecting and preserving your privacy when visiting our sites or communicating electronically with us. 
 
 ColArt International Holdings Ltd will never sell, rent or, except as set out in this Privacy Policy, otherwise disclose any of your personal information, including your Email address, to any third party without your consent. 
 
@@ -17,14 +17,31 @@ In operating our website we may collect and process the following data about you
 
 
 
-**Use of Cookies**  
-We may on occasion gather information regarding your computer when you are on our website. Such information does not personally identify you it is statistical data about our visitors and how they use our site. 
+**Winsor & Newton Cookie Policy**
 
-Similarly to the above, we may collect information about your general internet use by via a cookie file. These cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide. 
+> **What are cookies?  
+>  **Cookies are simple text files which your browser stores on your computer or other device. You’ve probably got hundreds of them, several from each website you visit.
+> 
+> They enable websites to recognise you when you return and as you move around from page to page in their site. They might hold information such as a unique id, your name, when you last visited, how far you got through a process, what information you are interested in. They enable much of the magic of the web (they used to be called magic cookies). Importantly, they can do your computer no harm.
+> 
+> **Why are we telling you all this?  
+>  **Because it’s the law. Since May 26th 2012, it is a legal requirement that all online service providers get consent for all but a few uses of cookies. This is intended to put web users in control of where their data is shared or used for targeting. You’ll be seeing a lot of this on the web.  
+>  Find out more about the EU Privacy Directive and cookies from the [ICO](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies.aspx).
+> 
+> **What cookies do we use on this site (and why)?  
+>  **We use cookies to understand how people use our site so that we can improve it in the future, and cookies to provide a seamless experience to our customers. We do not hold any personal information in our cookies. 
+> 
+> **Sharing Tools  
+>  **We would like to draw your attention to the fact that our site carries embedded ‘share’ buttons to enable users of the site to easily share articles with their friends through a number of popular social networks. These sites may set a cookie when you are also logged in to their service. Winsor & Newton does not control the dissemination of these cookies and you should check the relevant third party website for more information about these.
+> 
+> **Analytics  
+>  **The Winsor & Newton site uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate your use of our site and compile reports for us on activity on our site.  
+>  Google stores the information collected by the cookie on servers in the United Kingdom. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  By using our site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+> 
+> **How to reject or delete this cookie:  
+>  **<http://www.google.com/intl/en/privacypolicy.html>
 
-Computers have the ability to decline cookies. This can be done by activating the setting on your browser which allows you to decline cookies. 
-
-**Use of Your Information**  
+> **Use of Your Information**  
 Information collected and stored relating to you is primarily used to enable us to provide our services to you and for marketing purposes. We may use the information for the following: 
 
   1. To provide you with information requested from us, relating to our products. To provide information on other products which we feel may be of interest to you, where you have agreed to receive such information. 
