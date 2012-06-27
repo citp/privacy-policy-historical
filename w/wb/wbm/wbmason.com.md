@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbmason.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225232726id_/http%3A//www3.wbmason.com/DynamicPage.aspx%3FPage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbmason.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628003105id_/http%3A//www.wbmason.com/DynamicPage.aspx%3FPage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # W.B. Mason
 
