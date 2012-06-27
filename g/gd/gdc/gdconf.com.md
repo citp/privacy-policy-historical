@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gdconf.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229033416id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gdconf.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628001040id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
 
 # UBM - UBM LLC Privacy Policy
 
