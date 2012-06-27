@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the greatergood.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206192159id_/http%3A//charityusa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatergood.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627053502id_/http%3A//charityusa.com/privacy.html) for the most accurate reproduction.*
 
-# CharityUSA.com : Owners and operators of the GreaterGood Network
-
-### Privacy Policy
+# CharityUSA.com
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.greatergood.com)
 
@@ -35,6 +33,9 @@ When we post visitor stories, testimonials, comments, or reviews on our web site
 * * *
 
 ## Communications from the Site
+
+  
+
 
 ### E-cards & E-mail Product to a Friend
 
@@ -118,8 +119,10 @@ The Child Health Site
 The Literacy Site   
 The Rainforest Site   
 The Animal Rescue Site   
+The Autism Site   
+The Veterans Site   
 Global Girlfriend   
-Pink Ribbon Shop   
+Pink Ribbon Store   
 Museum Shop
 
 If we cannot identify which storefront you entered through, charges will appear on your statement as CharityUSA.com, LLC.
@@ -127,6 +130,9 @@ If we cannot identify which storefront you entered through, charges will appear 
 PayPal receipts indicate CharityUSA.com, LLC.
 
 Ordering online with us is secure and easy. If you have any concerns about ordering online, please feel free to place your order with our customer service department by phone. Hours are 10:30 am to 6:00 pm (ET), Monday through Friday. You may call us toll-free within the U.S. and Canada at 1-888-355-4321. To contact us from outside the U.S. and Canada, please call (206) 268-5401.
+
+  
+
 
 ### Collection of Personal Information from Children
 
