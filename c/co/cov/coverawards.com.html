@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the coverawards.com privacy policy that was archived on 2011-01-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110122010627id_/http%3A//coverawards.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coverawards.com privacy policy that was archived on 2012-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627053800id_/http%3A//coverawards.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="verify-v1" content="Zr3hbJnZT9K2xIhSnx0TcgJNelOtx39AfMvJCnD0fBg=">
-<title>Privacy Policy « coverawards.com</title>
+<title>Privacy Policy «  coverawards.com</title>
 <link rel="alternate" type="application/rss+xml" title="coverawards.com RSS Feed" href="http://coverawards.com/feed/">
 <link rel="alternate" type="application/atom+xml" title="coverawards.com Atom Feed" href="http://coverawards.com/feed/atom/">
 <link rel="pingback" href="http://coverawards.com/xmlrpc.php">
@@ -19,7 +19,8 @@
 <link rel="stylesheet" id="wp-polls-css" href="http://coverawards.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.50" type="text/css" media="all">
 <link rel="stylesheet" id="wp-postratings-css" href="http://coverawards.com/wp-content/plugins/wp-postratings/postratings-css.css?ver=1.50" type="text/css" media="all">
 <link rel="stylesheet" id="wp-paginate-css" href="http://coverawards.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.2.1" type="text/css" media="screen">
-<script type="text/javascript" src="http://coverawards.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://coverawards.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://coverawards.com/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
 <script type="text/javascript" src="http://coverawards.com/wp-content/plugins/wp-mailinglist/js/wp-mailinglist.js?ver=1.0"></script>
 <script type="text/javascript" src="http://coverawards.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
 <script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US?ver=0.4"></script>
@@ -30,6 +31,24 @@
 <link rel="next" title="Terms &amp; Conditions" href="http://coverawards.com/terms-conditions/">
 
 <link rel="canonical" href="http://coverawards.com/privacy/">
+<!-- HeadSpace SEO 3.6.34 by John Godley - urbangiraffe.com -->
+		
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3418790-1']);
+  _gaq.push(['_trackPageview']);
+
+
+
+
+  (function() {
+    var ga = document.createElement('script' ); ga.type = 'text/javascript'; ga.async = true;
+    ga.src =( 'https:' == document.location.protocol ? 'https://ssl' : 'http://www' ) + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script' )[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>	
+<!-- HeadSpace -->
 <meta property="fb:app_id" content="162366627124284">
 <meta property="og:site_name" content="coverawards.com">
 <meta property="og:url" content="http://coverawards.com/privacy/">
@@ -64,6 +83,7 @@ var calPrevURL = wpmlUrl + '/images/prev.gif';
 
 <link rel="stylesheet" href="http://coverawards.com/wp-content/themes/ca4/css/menu-style.css" type="text/css" media="screen, projection">
 <link rel="stylesheet" href="http://coverawards.com/wp-content/themes/ca4/css/jquery.tweet.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="http://cache.addthiscdn.com/icons/v1/sprites/services.css" type="text/css">
 <link rel="stylesheet" type="text/css" href="http://cache.blogads.com/682968312/feed.css">
 <link rel="stylesheet" type="text/css" href="http://cache.blogads.com/65706182/feed.css">
 <!--[if lte IE 7]>
@@ -109,7 +129,16 @@ jQuery(document).ready(function(){
 		auto_join_text_url: "we were checking out",
 		loading_text: "loading tweets..."
 	});
-	jQuery('#tweet-heading').corner();
+	var message = "Search";
+	if (jQuery(this).val() == "") {
+		jQuery("#s").val(message);
+	}
+	jQuery("#s").focus( function() {
+		if (jQuery(this).val() == message) { jQuery(this).val(""); }
+	} );
+	jQuery("#s").blur( function() {
+		if (jQuery(this).val() == "") { jQuery(this).val(message); }
+	});
 });
 
 </script>
@@ -127,39 +156,48 @@ jQuery(document).ready(function(){
 	<div class="container">
 		<div style="display: block;" id="meta-nav">
 			<a class="first" href="/">HOME</a>
-			<a href="/cover-consulting">COVER CONSULTING</a>
-			<a href="/events">EVENTS</a>
+			<a href="/about">ABOUT US</a>
 			<a href="/advertising">ADVERTISING</a>
+			<a href="/press">PRESS</a>
 			<a href="/jobs">JOBS</a>
 			<a class="last" href="/contact">CONTACT</a>
 		</div>
-		<div style="margin-top: 20px; width: 960px; margin-left: auto; margin-right: auto; text-align: center;"><a href="http://coverawards.com/" title="Home"><img src="http://coverawards.com/wp-content/themes/ca4/images/ca4-home-logo.png" border="0"></a></div>
-		<!--<div style="float:left; margin: 20px 20px 0 0;"><a href="http://coverawards.com/" title="Home"><img src="http://coverawards.com/wp-content/themes/ca4/images/ca4-home-logo.png" border="0"></a></div>-->
-		<!--<div style="float:right;"><script language="javascript" src="http://cache.blogads.com/652708750/feed.js"></script></div>-->
-				<div style="float:left; margin: 20px 0 0 0;"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FCoverAwards%2F87116011234&amp;layout=standard&amp;show_faces=false&amp;width=400&amp;action=like&amp;font=verdana&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px; height:35px;" allowtransparency="true"></iframe></div>
-		<div style="float:left; margin: 20px 0 0 0;">
-			<div class="addthis_toolbox addthis_32x32_style addthis_default_style">
-				<a class="addthis_button_rss_follow" addthis:url="http://coverawards.com/feed/rss2"></a>
-				<a class="addthis_button_email" addthis:url="http://coverawards.com/?sms_ss=<email>"></a>
-				<a class="addthis_button_twitter" addthis:url="http://coverawards.com/?sms_ss=<twitter>"></a>
-				<a class="addthis_button_facebook" addthis:url="http://coverawards.com/?sms_ss=<facebook>"></a>
-				<a class="addthis_button_google" addthis:url="http://coverawards.com/?sms_ss=<google>"></a>
+		<div style="margin-top: 10px; width: 960px; margin-left: auto; margin-right: auto; height: 120px; margin-bottom: 10px; background-color: #fff;">
+			<div style="float: left; width: 480px; height: 120px; text-align: right; padding-left: 10px;">
+				<a href="http://coverawards.com/" title="Home"><img src="http://coverawards.com/wp-content/themes/ca4/images/ca4-home-logo-2.png" border="0"></a>
+				<div style="margin-top: 5px; font-size: 16px;">Brought to you by <a href="http://shop.getbarc.com/category_s/1.htm" target="_blank" style="color: #89A0A6; font-weight: bold;">Barc Skincare</a></div>
 			</div>
-		</div>
-		<div style="float:left; margin: 12px 0 0 10px;">
-							<form role="search" method="get" id="searchform" action="http://coverawards.com/">
+			<div style="float:right; width: 425px; height: 120px; padding-right: 10px;">
+				<div style="float:right; clear: both;"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FCoverAwards%2F87116011234&amp;layout=standard&amp;show_faces=false&amp;width=425&amp;action=like&amp;font=verdana&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:425px; height:35px;" allowtransparency="true"></iframe></div>
+				<div style="float:left; clear: left; margin-bottom: 4px;"><a href="http://twitter.com/CoverAwards" class="twitter-follow-button">Follow @CoverAwards</a><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
+									<div style="float: right; clear: right; margin-top: 3px;">
+						<a href="http://coverawards.com/wp-login.php?redirect_to=http%3A%2F%2Fcoverawards.com%2Fprivacy%2F"><span style="font-size: 12px;">Login</span></a>
+						&nbsp;&nbsp;•&nbsp;&nbsp;
+						<span style="font-size: 12px;"><a href="http://coverawards.com/wp-login.php?action=register">Register</a></span>					</div>
+								<div style="float:right; clear: both;">
+											<form role="search" method="get" id="searchform" action="http://coverawards.com/">
 	<div><label class="screen-reader-text" for="s">Search for:</label>
 	<input type="text" value="" name="s" id="s">
 	<input type="submit" id="searchsubmit" value="Search">
 	</div>
-	</form>					</div>
-				<div style="float: right; margin-top: 20px; border-right: 1px solid #000; padding: 10px 15px 0 15px; height: 20px;"><a href="http://coverawards.com/wp-login.php?redirect_to=http%3A%2F%2Fcoverawards.com%2Fprivacy%2F">Login</a></div>
-		<div style="float: right; margin-top: 20px; border-right: 1px solid #000; padding: 10px 15px 0 15px; height: 20px;"><a href="http://coverawards.com/wp-login.php?action=register">Register</a></div>
-				<div class="clear">&nbsp;</div>
-	</div>
-<div class="container">
+	</form>									</div>
+				<div style="float:right; clear: both;">
+					<div style="float: right;">
+						<a href="http://twitter.com/coverawards" style="float: left; margin: 0 4px 0 2px" title="Twitter"><span class="addthis_service_icon icon_twitter"></span></a>
+						<a href="http://facebook.com/pages/CoverAwards/87116011234" style="float: left;" title="Facebook"><span class="addthis_service_icon icon_facebook"></span></a>
+					</div>
+					<div class="addthis_toolbox addthis_16x16_style addthis_default_style" style="float: right;">
+						<a class="addthis_button_rss_follow" addthis:url="http://coverawards.com/feed/rss2"></a>
+						<a class="addthis_button_email" addthis:url="http://coverawards.com/?sms_ss=<email>"></a>
+					</div>
+					<div style="float: right; margin-right: 10px;"><span style="font-size: 12px">Follow</span></div>
+				</div>
+			</div>
+		</div>
+			</div>
+<meta name="verifyownership" content="da5211d9a4c45f7dbdd50a0b93037873"><div class="container">
 	<div id="content">
-				<div class="post-22 page type-page hentry category-celebrity">
+				<div class="post-22 page type-page status-publish hentry">
 			<h2>Privacy Policy</h2>
 			<p>Coverawards.com Media Privacy Policy</p>
 <p>Last Updated: January 2011</p>
@@ -209,49 +247,50 @@ jQuery(document).ready(function(){
 <p>TM and Copyright 2010 Mark Allen &amp; Company LLC. All rights reserved.</p>
 					</div>
 			</div>
-	<div id="tweet-heading" style="padding: 5px; background-color: #91E5E7; float: right; width: 350px;">
-	<div style="float: left;"><a href="http://twitter.com/CoverAwards"><img src="/wp-content/themes/ca4/images/twitter.png" border="0"></a></div>
-	<div style="float: left; color: #0C7171; font-size: 18px; line-height: 18px; margin: 8px 0 0 8px;"><a href="http://twitter.com/CoverAwards" style="color: #0C7171;">TWITTER</a></div>
-	</div>
-<div class="sidebar-tweet">
+	<div id="tweet-heading" style="padding: 0px 5px 5px 5px; border: 20px solid #91E5E7; float: right; width: 310px; margin-bottom: 20px; background-color: #fff;">
+	<div style="position: relative; top: -15px; left: 7px;"><a href="http://twitter.com/CoverAwards"><img src="/wp-content/themes/ca4/images/twitter.png" border="0"></a></div>
 	<div class="tweet"></div>
 </div>
 <div id="sidebar">
 	<div class="sidebar-box nolist" style="margin-bottom: 0; text-align: center;">
-		<div style="margin-left: 25px"><script language="javascript" src="http://cache.blogads.com/682968312/feed.js"></script></div>
+		<div style="margin: 10px 10px 10px 15px;">
+		<!--<div style="margin: 10px 0px 0px 25px;">-->
+			<!--<script language="javascript" src="http://cache.blogads.com/682968312/feed.js"></script>-->
+			<a href="http://shop.getbarc.com/category_s/1.htm" target="_blank"><img src="/wp-content/banners/barc-1.jpg"></a>
+		</div>
 	</div>
 	<div style="border-top: 1px solid #000; min-height: 32px; width: 350px; padding: 5px;">
 		<h3>FREE E-MAIL NEWSLETTER</h3>
 		<div style="text-align: center">Enter your e-mail address here</div>
-				<div class="wpmlwidget" id="wpmlwidget-702245520022">
+				<div class="wpmlwidget" id="wpmlwidget-848710875675">
 	<!-- BEG isajax -->
-										<form action="/privacy/?wpmlmethod=optin&amp;wpmlformid=702245520022#wpmlwidget-702245520022" method="post" id="optinform702245520022">
+										<form action="/privacy/?wpmlmethod=optin&amp;wpmlformid=848710875675#wpmlwidget-848710875675" method="post" id="optinform848710875675">
 														<!-- END ifajax -->
 		
-	<input type="hidden" name="number" value="702245520022">
+	<input type="hidden" name="number" value="848710875675">
 	
 			<input type="hidden" name="embed" value="1">
 		
 			
 				
 		<fieldset>
-			<legend><label for="wpml-702245520022email">Email Address <sup class="wpmlrequired">*</sup></label></legend>
-			<input class="wpml widefat" tabindex="702245520022-2" type="text" id="wpml-702245520022email" name="email" value="">
+			<legend><label for="wpml-848710875675email">Email Address <sup class="wpmlrequired">*</sup></label></legend>
+			<input class="wpml widefat" tabindex="848710875675-2" type="text" id="wpml-848710875675email" name="email" value="">
 		</fieldset>
 		
 								
 						
-		<div id="listfieldsdiv702245520022" style="display:none; margin:0px; padding:0px;"></div>
+		<div id="listfieldsdiv848710875675" style="display:none; margin:0px; padding:0px;"></div>
 		
 											<input type="hidden" name="list_id[]" value="1">
 			<input type="hidden" name="list_type" value="specific">
 				
 																			
 		<span class="wpmlbutton">
-			<input id="wpml-702245520022button" tabindex="702245520022-3" class="button" type="submit" name="optin" value="Subscribe Now">
+			<input id="wpml-848710875675button" tabindex="848710875675-3" class="button" type="submit" name="optin" value="Subscribe Now">
 		</span>
 			
-		<span class="wpmlloading" id="widget_loading702245520022" style="display:none;"><img src="http://coverawards.com/wp-content/plugins/wp-mailinglist/images/loading.gif" alt="loading"></span>
+		<span class="wpmlloading" id="widget_loading848710875675" style="display:none;"><img src="http://coverawards.com/wp-content/plugins/wp-mailinglist/images/loading.gif" alt="loading"></span>
 			</form>
 		
 	</div>	</div>
@@ -260,11 +299,11 @@ jQuery(document).ready(function(){
 		<h3>RECENT ENTRIES</h3>
 		<hr class="dashed-line">
 		<ul>
-				<li><a href="http://coverawards.com/2011/01/21/whats-oprahs-big-secret/" title="What’s Oprah’s Big Secret?">What’s Oprah’s Big Secret?</a></li>
-	<li><a href="http://coverawards.com/2011/01/21/photo_kim_kardashian_magazine_18197/" title="Kim Kardashian is InLand Empire’s February Cover Girl">Kim Kardashian is InLand Empire’s February Cover Girl</a></li>
-	<li><a href="http://coverawards.com/2011/01/21/photo_ll_cool_j_19189/" title="LL Cool J: Yup, He’s Still Got It!">LL Cool J: Yup, He’s Still Got It!</a></li>
-	<li><a href="http://coverawards.com/2011/01/21/news_jess_cagle_gay_teen_cover_ew_10189/" title="Entertainment Weekly’s Jess Cagle: ‘I Hope the Cover Has a Positive Impact on Gay Teens and Their Parents’">Entertainment Weekly’s Jess Cagle: ‘I Hope the Cover Has a Positive Impact on Gay Teens and Their Parents’</a></li>
-	<li><a href="http://coverawards.com/2011/01/21/video_khloe_kardashian_jake_gyllenhall_taylor_swift_elton_john_1098/" title="Khloe Kardashian Betrayed! Jake Gyllenhaal Cruel to Taylor Swift!  Elton John’s Baby! Are You Crying Yet?">Khloe Kardashian Betrayed! Jake Gyllenhaal Cruel to Taylor Swift!  Elton John’s Baby! Are You Crying Yet?</a></li>
+				<li><a href="http://coverawards.com/2011/06/06/jennifer-lawrence-for-julys-marie-claire-uk/" title="Jennifer Lawrence For July’s Marie Claire UK">Jennifer Lawrence For July’s Marie Claire UK</a></li>
+	<li><a href="http://coverawards.com/2011/06/06/mitt-romney-jumps-for-mormonism-on-newsweek/" title="Mitt Romney Jumps For Mormonism On Newsweek">Mitt Romney Jumps For Mormonism On Newsweek</a></li>
+	<li><a href="http://coverawards.com/2011/06/06/britney-spears-is-starry-for-harpers-bazaar/" title="Britney Spears Is Starry For Harper’s Bazaar">Britney Spears Is Starry For Harper’s Bazaar</a></li>
+	<li><a href="http://coverawards.com/2011/06/06/carla-brunis-first-pregnancy-cover-on-french-elle/" title="Carla Bruni’s First Pregnancy Cover On French Elle">Carla Bruni’s First Pregnancy Cover On French Elle</a></li>
+	<li><a href="http://coverawards.com/2011/06/06/happy-56th-birthday-sandra-bernhard/" title="Happy 56th Birthday, Sandra Bernhard!">Happy 56th Birthday, Sandra Bernhard!</a></li>
 		</ul>
 	</div>
 	<div style="border-top: 1px solid #000; min-height: 32px; width: 350px; padding: 5px; text-align: center; margin-bottom: 20px;">
@@ -279,16 +318,16 @@ jQuery(document).ready(function(){
 	<ul class="xoxo blogroll">
 <li><a href="http://adage.com/mediaworks/">AdAge Mediaworks</a></li>
 <li><a href="http://anythinghollywood.com/" target="_top">anythinghollywood.com</a></li>
+<li><a href="http://www.bittenandbound.com/" rel="contact" target="_blank">Bitten &amp; Bound</a></li>
 <li><a href="http://bossip.com/" target="_top">Bossip.com</a></li>
-<li><a href="http://www.celebdirtylaundry.com/">Celebdirtylaundry.com</a></li>
 <li><a href="http://www.celebitchy.com/" target="_top">Celebitchy.com</a></li>
 <li><a href="http://celebslam.celebuzz.com/" target="_top">Celebslam.com</a></li>
 <li><a href="http://celebuzz.com/" target="_top">Celebuzz.com</a></li>
 <li><a href="http://coolspotters.com" target="_blank">Coolspotters.com</a></li>
+<li><a href="http://crushable.com/" rel="contact" target="_blank">Crushable</a></li>
 <li><a href="http://www.deadline.com/hollywood">Deadline Hollywood</a></li>
 <li><a href="http://dlisted.com/" target="_top">Dlisted.com</a></li>
 <li><a href="http://www.eonline.com/" target="_top">E! Online</a></li>
-<li><a href="http://www.earsucker.com">Earsucker.com</a></li>
 <li><a href="http://www.egotastic.com/" target="_top">Egotastic.com</a></li>
 <li><a href="http://www.mediabistro.com/fishbowlny/">Fishbowl NY</a></li>
 <li><a href="http://www.foliomag.com/">Folio</a></li>
@@ -308,6 +347,7 @@ jQuery(document).ready(function(){
 <li><a href="http://justjared.buzznet.com/" target="_top">JustJared.com</a></li>
 <li><a href="http://www.nypost.com/columnists/keithjkelly">Keith J. Kelly</a></li>
 <li><a href="http://www.latimes.com/entertainment/news/">L.A. Times</a></li>
+<li><a href="http://www.lemondrop.com/" rel="contact" target="_blank">Lemondrop.com</a></li>
 <li><a href="http://www.mediaite.com/">Mediaite</a></li>
 <li><a href="http://www.mediaweek.com/mw/index.jsp">Mediaweek</a></li>
 <li><a href="http://www.minonline.com/">MinOnline</a></li>
@@ -315,9 +355,12 @@ jQuery(document).ready(function(){
 <li><a href="http://www.observer.com/media">New York Observer</a></li>
 <li><a href="http://nymag.com/">NY Mag</a></li>
 <li><a href="http://www.nytimes.com/pages/business/media/index.html">NY Times Media</a></li>
+<li><a href="http://nymag.com/daily/fashion/" rel="contact" target="_blank">Nymag/the cut</a></li>
 <li><a href="http://www.pagesix.com/" target="_top">PageSix.com</a></li>
+<li><a href="http://www.popsugar.com/" rel="contact">Pop Sugar</a></li>
 <li><a href="http://www.popeater.com/" target="_top">PopEater.com</a></li>
 <li><a href="http://www.radaronline.com/" target="_top">RadarOnline.com</a></li>
+<li><a href="http://www.refinery29.com" rel="contact" target="_blank">Refinery 29</a></li>
 <li><a href="http://techcrunch.com/">Techcrunch</a></li>
 <li><a href="http://www.thesuperficial.com" target="_top">TheSuperficial.com</a></li>
 <li><a href="http://www.thewrap.com/">TheWrap</a></li>
@@ -331,41 +374,44 @@ jQuery(document).ready(function(){
 </li>
 	</div>
 	<div class="sidebar-box nolist" style="margin-bottom: 0; text-align: center;">
-		<div style="margin-left: 25px"><script language="javascript" src="http://cache.blogads.com/65706182/feed.js"></script></div>
+		<div style="margin: 10px 10px 10px 15px;">
+			<a href="http://shop.getbarc.com/category_s/1.htm" target="_blank"><img src="/wp-content/banners/barc-1.jpg"></a>
+		</div>
+		<!--<div style="margin-left: 25px"><script language="javascript" src="http://cache.blogads.com/65706182/feed.js"></script></div>-->
 	</div>
 	<div style="border-top: 1px solid #000; min-height: 32px; width: 350px; padding: 5px;">
 		<h3>TAGS</h3>
 		<hr class="dashed-line">
-		<div style="text-align:center; margin-bottom: 6px;"><a href="http://coverawards.com/tag/angelina-jolie/" class="tag-link-8" title="44 topics" style="font-size: 11.0566037736pt;">Angelina Jolie</a>
-<a href="http://coverawards.com/tag/beyonce/" class="tag-link-11" title="14 topics" style="font-size: 8.39622641509pt;">Beyonce</a>
-<a href="http://coverawards.com/tag/brad-pitt/" class="tag-link-13" title="31 topics" style="font-size: 10.2641509434pt;">Brad Pitt</a>
-<a href="http://coverawards.com/tag/britney-spears/" class="tag-link-16" title="26 topics" style="font-size: 9.81132075472pt;">Britney Spears</a>
-<a href="http://coverawards.com/tag/christina-hendricks/" class="tag-link-305" title="12 topics" style="font-size: 8pt;">Christina Hendricks</a>
-<a href="http://coverawards.com/tag/david-beckham/" class="tag-link-168" title="13 topics" style="font-size: 8.22641509434pt;">David Beckham</a>
-<a href="http://coverawards.com/tag/entertainment-weekly-magazine-cover/" class="tag-link-780" title="13 topics" style="font-size: 8.22641509434pt;">Entertainment Weekly Magazine Cover</a>
-<a href="http://coverawards.com/tag/jennifer-aniston/" class="tag-link-50" title="35 topics" style="font-size: 10.5471698113pt;">Jennifer Aniston</a>
-<a href="http://coverawards.com/tag/jessica-simpson/" class="tag-link-176" title="19 topics" style="font-size: 9.07547169811pt;">Jessica Simpson</a>
-<a href="http://coverawards.com/tag/justin-bieber/" class="tag-link-757" title="14 topics" style="font-size: 8.39622641509pt;">Justin Bieber</a>
-<a href="http://coverawards.com/tag/kate-middleton/" class="tag-link-724" title="19 topics" style="font-size: 9.07547169811pt;">Kate Middleton</a>
-<a href="http://coverawards.com/tag/katie-holmes/" class="tag-link-71" title="14 topics" style="font-size: 8.39622641509pt;">Katie Holmes</a>
-<a href="http://coverawards.com/tag/katy-perry/" class="tag-link-874" title="22 topics" style="font-size: 9.41509433962pt;">Katy Perry</a>
-<a href="http://coverawards.com/tag/kim-kardashian/" class="tag-link-177" title="36 topics" style="font-size: 10.6037735849pt;">Kim Kardashian</a>
-<a href="http://coverawards.com/tag/kourtney-kardashian/" class="tag-link-444" title="19 topics" style="font-size: 9.07547169811pt;">Kourtney Kardashian</a>
-<a href="http://coverawards.com/tag/kristen-stewart/" class="tag-link-76" title="16 topics" style="font-size: 8.67924528302pt;">Kristen Stewart</a>
-<a href="http://coverawards.com/tag/lady-gaga/" class="tag-link-217" title="32 topics" style="font-size: 10.320754717pt;">Lady GaGa</a>
-<a href="http://coverawards.com/tag/lindsay-lohan/" class="tag-link-79" title="19 topics" style="font-size: 9.07547169811pt;">Lindsay Lohan</a>
-<a href="http://coverawards.com/tag/megan-fox/" class="tag-link-88" title="19 topics" style="font-size: 9.07547169811pt;">Megan Fox</a>
-<a href="http://coverawards.com/tag/michael-jackson/" class="tag-link-93" title="146 topics" style="font-size: 14pt;">Michael Jackson</a>
-<a href="http://coverawards.com/tag/michael-jackson-magazine-covers/" class="tag-link-104" title="31 topics" style="font-size: 10.2641509434pt;">michael jackson magazine covers</a>
-<a href="http://coverawards.com/tag/ok-magazine-cover/" class="tag-link-717" title="32 topics" style="font-size: 10.320754717pt;">OK Magazine Cover</a>
-<a href="http://coverawards.com/tag/people-magazine-cover/" class="tag-link-697" title="16 topics" style="font-size: 8.67924528302pt;">People Magazine Cover</a>
-<a href="http://coverawards.com/tag/prince-william/" class="tag-link-723" title="21 topics" style="font-size: 9.30188679245pt;">Prince William</a>
-<a href="http://coverawards.com/tag/rihanna/" class="tag-link-216" title="14 topics" style="font-size: 8.39622641509pt;">Rihanna</a>
-<a href="http://coverawards.com/tag/robert-pattinson/" class="tag-link-126" title="19 topics" style="font-size: 9.07547169811pt;">Robert Pattinson</a>
-<a href="http://coverawards.com/tag/sarah-palin/" class="tag-link-129" title="13 topics" style="font-size: 8.22641509434pt;">sarah palin</a>
-<a href="http://coverawards.com/tag/star-magazine-cover/" class="tag-link-713" title="15 topics" style="font-size: 8.50943396226pt;">Star Magazine Cover</a>
-<a href="http://coverawards.com/tag/taylor-swift/" class="tag-link-142" title="25 topics" style="font-size: 9.69811320755pt;">Taylor Swift</a>
-<a href="http://coverawards.com/tag/victoria-beckham/" class="tag-link-598" title="14 topics" style="font-size: 8.39622641509pt;">Victoria Beckham</a></div>
+		<div style="text-align:center; margin-bottom: 6px;"><a href="http://coverawards.com/tag/angelina-jolie/" class="tag-link-8" title="59 topics" style="font-size: 11.1807228916pt;">Angelina Jolie</a>
+<a href="http://coverawards.com/tag/beyonce/" class="tag-link-11" title="28 topics" style="font-size: 8.86746987952pt;">Beyonce</a>
+<a href="http://coverawards.com/tag/brad-pitt/" class="tag-link-13" title="45 topics" style="font-size: 10.313253012pt;">Brad Pitt</a>
+<a href="http://coverawards.com/tag/britney-spears/" class="tag-link-16" title="43 topics" style="font-size: 10.1686746988pt;">Britney Spears</a>
+<a href="http://coverawards.com/tag/charlie-sheen/" class="tag-link-1029" title="25 topics" style="font-size: 8.50602409639pt;">Charlie Sheen</a>
+<a href="http://coverawards.com/tag/entertainment-weekly/" class="tag-link-278" title="21 topics" style="font-size: 8pt;">Entertainment Weekly</a>
+<a href="http://coverawards.com/tag/james-franco/" class="tag-link-46" title="29 topics" style="font-size: 9.01204819277pt;">James Franco</a>
+<a href="http://coverawards.com/tag/jennifer-aniston/" class="tag-link-50" title="62 topics" style="font-size: 11.3253012048pt;">Jennifer Aniston</a>
+<a href="http://coverawards.com/tag/jessica-simpson/" class="tag-link-176" title="25 topics" style="font-size: 8.50602409639pt;">Jessica Simpson</a>
+<a href="http://coverawards.com/tag/justin-bieber/" class="tag-link-757" title="37 topics" style="font-size: 9.73493975904pt;">Justin Bieber</a>
+<a href="http://coverawards.com/tag/kate-middleton/" class="tag-link-724" title="37 topics" style="font-size: 9.73493975904pt;">Kate Middleton</a>
+<a href="http://coverawards.com/tag/katie-holmes/" class="tag-link-71" title="21 topics" style="font-size: 8pt;">Katie Holmes</a>
+<a href="http://coverawards.com/tag/katy-perry/" class="tag-link-874" title="35 topics" style="font-size: 9.59036144578pt;">Katy Perry</a>
+<a href="http://coverawards.com/tag/kim-kardashian/" class="tag-link-177" title="79 topics" style="font-size: 12.0481927711pt;">Kim Kardashian</a>
+<a href="http://coverawards.com/tag/kourtney-kardashian/" class="tag-link-444" title="34 topics" style="font-size: 9.44578313253pt;">Kourtney Kardashian</a>
+<a href="http://coverawards.com/tag/kristen-stewart/" class="tag-link-76" title="28 topics" style="font-size: 8.86746987952pt;">Kristen Stewart</a>
+<a href="http://coverawards.com/tag/lady-gaga/" class="tag-link-217" title="73 topics" style="font-size: 11.8313253012pt;">Lady GaGa</a>
+<a href="http://coverawards.com/tag/lindsay-lohan/" class="tag-link-79" title="27 topics" style="font-size: 8.79518072289pt;">Lindsay Lohan</a>
+<a href="http://coverawards.com/tag/megan-fox/" class="tag-link-88" title="25 topics" style="font-size: 8.50602409639pt;">Megan Fox</a>
+<a href="http://coverawards.com/tag/michael-jackson/" class="tag-link-93" title="147 topics" style="font-size: 14pt;">Michael Jackson</a>
+<a href="http://coverawards.com/tag/michael-jackson-magazine-covers/" class="tag-link-104" title="31 topics" style="font-size: 9.22891566265pt;">michael jackson magazine covers</a>
+<a href="http://coverawards.com/tag/ok-magazine-cover/" class="tag-link-717" title="41 topics" style="font-size: 10.0240963855pt;">OK Magazine Cover</a>
+<a href="http://coverawards.com/tag/people-magazine-cover/" class="tag-link-697" title="21 topics" style="font-size: 8pt;">People Magazine Cover</a>
+<a href="http://coverawards.com/tag/prince-william/" class="tag-link-723" title="36 topics" style="font-size: 9.66265060241pt;">Prince William</a>
+<a href="http://coverawards.com/tag/rihanna/" class="tag-link-216" title="28 topics" style="font-size: 8.86746987952pt;">Rihanna</a>
+<a href="http://coverawards.com/tag/robert-pattinson/" class="tag-link-126" title="35 topics" style="font-size: 9.59036144578pt;">Robert Pattinson</a>
+<a href="http://coverawards.com/tag/star-magazine-cover/" class="tag-link-713" title="22 topics" style="font-size: 8.14457831325pt;">Star Magazine Cover</a>
+<a href="http://coverawards.com/tag/taylor-swift/" class="tag-link-142" title="27 topics" style="font-size: 8.79518072289pt;">Taylor Swift</a>
+<a href="http://coverawards.com/tag/us-weekly/" class="tag-link-900" title="21 topics" style="font-size: 8pt;">Us Weekly</a>
+<a href="http://coverawards.com/tag/victoria-beckham/" class="tag-link-598" title="21 topics" style="font-size: 8pt;">Victoria Beckham</a></div>
 	</div>
 	<div style="border-top: 1px solid #000; min-height: 32px; width: 350px; padding: 5px;">
 		<div style="float: left;"><a href="mailto:tips@coverawards.com" title="E-Mail"><img src="/wp-content/themes/ca4/images/sb-email.jpg" border="0"></a></div>
@@ -381,7 +427,6 @@ jQuery(document).ready(function(){
 	</div>
 </div>
 	</div>
-x<br class="clear">
 
 <div id="footer">
 	<span class="first"><a href="/advertising">Advertise</a></span>
@@ -389,15 +434,29 @@ x<br class="clear">
 	<span><a href="http://coverawards.com/wp-login.php?action=register">Register</a></span>
 		<!--<span><a href="#">Make CoverAwards Your Home Page</a></span>-->
 	<span><a href="/feed/rss2">RSS</a></span>
+	<span><a href="/press">Press</a></span>
+	<span><a href="/cover-consulting">Cover Consulting</a></span>
+	<span><a href="/speaking">Speaking</a></span>
+	<span><a href="/mark-pasetsky">Mark Pasetsky</a></span>
 	<span><a href="/jobs">Jobs</a></span>
-	<span><a href="/contact">Contact Us</a></span>
 	<div style="margin-top: 10px; class=" clear"=""></div>
 	<span class="first">Copyright © 2011 CoverAwards.com</span>
 	<span><a href="/about">About Us</a></span>
 	<span><a href="/terms-conditions">Terms &amp; Conditions</a></span>
 	<span><a href="/privacy">Privacy</a></span>
+	<span><a href="/contact">Contact Us</a></span>
 </div>
 <script type="text/javascript">
+            var gravityInsightsParams = new Object();
+            gravityInsightsParams.v = 'wp-1.4.0';
+            gravityInsightsParams.type = 'content';
+            gravityInsightsParams.site_guid = '31ec354dcc9ac0a3b62b7657f57fd8a2';
+            gravityInsightsParams.article_id = 0;
+            gravityInsightsParams.external_user_id = 0;
+            gravityInsightsParams.username = 'Unregistered';
+
+            document.write(unescape('%3Cscript src=\'http://api.gravity.com/v1/insights/js/badger.cc.js\' type=\'text/javascript\'%3E%3C/script%3E'));
+</script><script src="http://api.gravity.com/v1/insights/js/badger.cc.js" type="text/javascript"></script><script type="text/javascript">
 /* <![CDATA[ */
 var thickboxL10n = {
 	next: "Next &gt;",
@@ -440,17 +499,7 @@ var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://coverawards.com/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.50"></script>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-3418790-1");
-pageTracker._trackPageview();
-} catch(err) {}
-</script>
-		
+
 <script type="text/javascript">
 var tb_pathToImage = "http://coverawards.com/wp-includes/js/thickbox/loadingAnimation.gif";
 var tb_closeImage = "http://coverawards.com/wp-includes/js/thickbox/tb-close.png";
@@ -472,6 +521,6 @@ FB_RequireFeatures(["XFBML"], function() {
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Page Caching using disk (enhanced)
+Object Caching 720/728 objects using disk
 
-Served from: coverawards.com @ 2011-01-22 00:25:41 --></body></html>
+Served from: coverawards.com @ 2012-06-27 01:37:55 --></body></html>
