@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysmallbiz.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213011600id_/http%3A//www.mysmallbiz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmallbiz.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627063616id_/http%3A//www.mysmallbiz.com/privacy) for the most accurate reproduction.*
 
 # MySmallBiz.com Privacy Policy
 
