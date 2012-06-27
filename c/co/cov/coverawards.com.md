@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coverawards.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122010627id_/http%3A//coverawards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coverawards.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627053800id_/http%3A//coverawards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « coverawards.com
 
