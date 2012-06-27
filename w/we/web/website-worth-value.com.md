@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the website-worth-value.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216051351id_/http%3A//www.website-worth-value.com/tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website-worth-value.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627053457id_/http%3A//www.safe-browsing.net/privacy.html) for the most accurate reproduction.*
 
-# Website-Worth-Value - Privacy Policy
+# Safe-Browsing.net - Privacy Policy about Safe-Browsing.net
 
-### Privacy Policy for Website-worth-value.com
-
-At Website-worth-value.com the privacy of our users is our first priority. 
+At Safe-Browsing.net the privacy of our users is our first priority. 
 
 We know that your privacy is important and it's important to us too. However, in order to be able to generate statistic data or/and to display some advertisements, we need to collect the following information below : 
 
@@ -25,3 +23,9 @@ The DoubleClick DART cookie is used by Google in the ads served on the websites 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
+
+## Leave a comment about us
+
+#### Safe-Browsing.net allow you to easily check the safety of any website and make it easy for you to browse the web safely ! ;-)
+
+Copyright © 2011 Safe-Browsing.net. All Rights Reserved. 
