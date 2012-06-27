@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xforex.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206184641id_/http%3A//www.xforex.com/about-us/regulation/international/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xforex.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627081145id_/http%3A//www.xforex.com/about-us/regulation/international/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - International | XForex
 
