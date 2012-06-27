@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccf.org privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213232213id_/http%3A//my.clevelandclinic.org/about-cleveland-clinic/about-this-website/privacy-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccf.org privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627213239id_/http%3A//my.clevelandclinic.org/about-cleveland-clinic/about-this-website/privacy-security.aspx) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -89,7 +89,7 @@ If you have any questions about our privacy policy or our use of information gat
 
 Last updated: 3/18/2009
 
-Copyright © 2000-2011 Cleveland Clinic. All Rights Reserved.
+Copyright © 2000-2012 Cleveland Clinic. All Rights Reserved.
 
 At the Cleveland Clinic Health System, we believe that your health information is personal. We keep records of the care and services that you receive at our facilities. We are committed to keeping your health information private.
 
