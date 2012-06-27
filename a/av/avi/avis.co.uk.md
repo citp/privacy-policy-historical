@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avis.co.uk privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217064537id_/http%3A//www.avis.co.uk/AboutAvis/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avis.co.uk privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627073208id_/http%3A//www.avis.co.uk/AboutAvis/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Avis Car Hire UK - Car Rental
 
@@ -51,3 +51,11 @@ You can unsubscribe at any time and will be given the option to do so on our web
 ## Changes to this policy
 
 Any changes to this privacy policy will always be posted to this page of our website.
+
+## Cookie Policy Page
+
+The Avis website uses cookies. A cookie is a small text file that is stored by your browser, and allows it to remember information between web pages and browser sessions. Avis uses a number of “first party” cookies - generated and used by the Avis website – and some “third party” cookies – generated on our site by third parties.  They enable us to remember each part of your reservation as you go through the site, remember your customer details and display appropriate content based on your selected options and journey.  They also help us to understand user behaviour within our site, which means we can make the experience better for you.
+
+Cookies can only store text, which is always anonymous and usually encrypted.  Avis will never store any personal information in a cookie.
+
+[Find out more about the New Cookie Policy](http://www.avis.co.uk/Cookie_policy)
