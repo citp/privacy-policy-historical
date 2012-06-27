@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the explorebranson.com privacy policy that was archived on 2011-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121005826id_/http%3A//www.explorebranson.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the explorebranson.com privacy policy that was archived on 2012-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627103212id_/http%3A//www.explorebranson.com/branson/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
-<!-- ExploreBranson.com site rev 2.7 -->
-<!-- Copyright 2011 Branson/Lakes Area Chamber of Commerce & Convention and Visitors Bureau. All Rights Reserved. -->
+<!-- ExploreBranson.com site rev 3.0 -->
+<!-- Copyright 2012 Branson/Lakes Area Chamber of Commerce & Convention and Visitors Bureau. All Rights Reserved. -->
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
@@ -14,22 +14,74 @@
 
 
 <!-- Sitewide styles and JS files -->
-    <link type="text/css" href="/eb.css" rel="stylesheet">
-    <link type="text/css" href="/css/custom-theme/jquery-ui-1.8.6.custom.css" rel="stylesheet">
+    <link type="text/css" href="/css/eb.css" rel="stylesheet">
+    <link type="text/css" href="/css/jquery-ui/jquery-ui-1.8.17.custom.css" rel="stylesheet">
     
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="/Page_elements/scripts.js"></script>
-    <script type="text/javascript" src="/Page_elements/jquery-1.6.min.js"></script>
-    <script type="text/javascript" src="/Page_elements/jquery-ui-1.8.6.custom.min.js"></script>
-    <script type="text/javascript" src="/Page_elements/craftyslide.min.js"></script>
-    <script type="text/javascript" src="/Page_elements/easySlider1.7.js"></script>
-    <script type="text/javascript" src="/Page_elements/jquery.slides.min.js"></script>
-    <script type="text/javascript" src="/Page_elements/jquery.easing.1.3.js"></script>
-    <script type="text/javascript" src="/Page_elements/jquery.coda-slider-2.0.js"></script>
-    <script type="text/javascript" src="/Page_elements/date.js"></script>
-    	<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
-    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-    <script type="text/javascript" src="https://platform.linkedin.com/in.js"></script>
-	
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=139659459442417"></script><script type="text/javascript" src="/Page_elements/scripts.js"></script>
+    <script type="text/javascript" src="/Page_elements/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="/Page_elements/jquery.cycle.js"></script>
+    <script type="text/javascript" src="/Page_elements/slides.min.jquery.js"></script>
+    <script type="text/javascript" src="/Page_elements/jquery-ui-1.8.17.custom.min.js"></script>
+    
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+
+
+<script type="text/javascript">
+//ACTIVATE JQUERY-UI ELEMENTS
+	$(function(){
+
+		// Accordion
+		$("#accordion").accordion({ header: "h3" });
+
+		// Tabs
+		$('#tabs').tabs();
+
+
+		// Dialog			
+		$('#dialog').dialog({
+			autoOpen: false,
+			width: 600,
+			buttons: {
+				"Ok": function() { 
+					$(this).dialog("close"); 
+				}, 
+				"Cancel": function() { 
+					$(this).dialog("close"); 
+				} 
+			}
+		});
+		
+		// Dialog Link
+		$('#dialog_link').click(function(){
+			$('#dialog').dialog('open');
+			return false;
+		});
+
+		// Datepicker
+		$('#datepicker').datepicker({
+			inline: true
+		});
+		
+		// Slider
+		$('#slider').slider({
+			range: true,
+			values: [17, 67]
+		});
+		
+		// Progressbar
+		$("#progressbar").progressbar({
+			value: 20 
+		});
+		
+		//hover states on the static widgets
+		$('#dialog_link, ul#icons li').hover(
+			function() { $(this).addClass('ui-state-hover'); }, 
+			function() { $(this).removeClass('ui-state-hover'); }
+		);
+		
+	});
+</script>
 
 <script type="text/javascript">
 $(function() {
@@ -54,38 +106,6 @@ $(function() {
 </script>
 
 
-<script type="text/javascript">
-//PHOTO ROTATION SCRIPT FOR PAGE HEADERS
-//REQUIRES JQUERY
-
-	$(document).ready(function(){	
-		$("#slider").easySlider({
-			numeric: true,
-			continuous: true,
-			nextId: "slider1next",
-			prevId: "slider1prev"
-		});
-	});	
-</script>
-
-
-<script type="text/javascript">
-//ACCORDION SCRIPT FOR HOMEPAGE
-//REQUIRES JQUERY
-
-$(document).ready(function() {
-	
-	$('div.accordionButton').click(function() {
-		$('div.accordionContent').slideUp('normal');	
-		$(this).next().slideDown('normal');
-	});
-	
-	$("div.accordionContent").hide();
-	$("#open").trigger('click');
-
-});
-</script>
-
     
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -100,14 +120,15 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 
 
-
-    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-thanksgiving.jpg">
-    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-christmas.jpg">
-    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-christmas2.jpg">
-    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-christmas3.jpg">
-    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-christmas4.jpg">
-    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-christmas5.jpg">
-    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-christmas6.jpg">
+    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-branson.jpg">
+    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-sdckidsfest.jpg">
+    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-lake.jpg">
+    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-duck.jpg">
+    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-whitewater.jpg">
+    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-whitewater2.jpg">
+    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-sdccoaster.jpg">
+    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-chateaupool.jpg">
+    <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-train2.jpg">
     <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-show.jpg">
     <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-show2.jpg">
     <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-show3.jpg">
@@ -121,52 +142,218 @@ pageTracker._trackPageview();
     <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-shopping2.jpg">
     <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-conventionctr.jpg">
     <link rel="image_src" href="http://www.explorebranson.com/layoutimages/social-showboat.jpg">
-
-
-<link href="https://plus.google.com/110525196387368381573/" rel="publisher">
     
 </head>
 
 <body>
 
-
-<div id="toparea" align="center">
-	<div id="toptext">
-        <a href="http://www.explorebranson.com/" class="toptext">Home</a> |
-        <a href="http://ebranson.mobi" class="toptext"><img src="/layoutimages/tb_phone.gif" width="13" height="16" border="0" align="absmiddle">Mobile Site</a> |
-        <a href="/about/maps.php" class="toptext"><img src="/layoutimages/tb_car.gif" width="20" height="16" border="0" align="absmiddle">&nbsp;Maps</a> |
-        <a href="/newsletter/" class="toptext"><img src="/layoutimages/tb_news.gif" width="16" height="16" border="0" align="absmiddle">Newsletter</a> |
-        <a href="/vacationguide.php" class="toptext"><img src="/layoutimages/tb_vguide.gif" width="16" height="16" border="0" align="absmiddle">&nbsp;Free Vacation Guide</a> |
-        <a href="/specialoffers/" class="toptext"><img src="/layoutimages/tb_dollar.gif" width="12" height="16" border="0" align="absmiddle">Hot Deals</a>
-</div>
-        
-<div id="topsocial">
-<img src="/layoutimages/sm-arrow.gif" alt="Connect with Branson" width="10" height="26"><a href="http://www.facebook.com/bransoncvb" target="_blank" title="Branson Reviews and Info on Facebook"><img src="/layoutimages/sm-facebook-2011a.gif" alt="Facebook" width="25" height="25" border="0"></a><a href="https://plus.google.com/110525196387368381573/" target="_blank" title="Connect with Branson on Google+"><img src="/layoutimages/sm-google-2011a.gif" alt="Google+" width="25" height="25" border="0"></a><a href="http://twitter.com/#!/explorebranson" target="_blank" title="Branson News on Twitter"><img src="/layoutimages/sm-twitter-2011a.gif" alt="Twitter" width="25" height="25" border="0"></a><a href="http://www.flickr.com/photos/bransonmo/" target="_blank" title="Branson Photos on Flickr"><img src="/layoutimages/sm-flickr-2011a.gif" alt="Flickr" width="25" height="25" border="0"></a><a href="http://www.youtube.com/user/bransoncvb" target="_blank" title="Branson Videos on YouTube"><img src="/layoutimages/sm-youtube-2011a.gif" alt="YouTube" width="25" height="25" border="0"></a><a href="/blog/" title="Branson Blog"><img src="/layoutimages/sm-blog-2011a.gif" alt="Playing in Branson Blog" width="25" height="25" border="0"></a></div>
-
-<div id="topsearch">
-<form action="/search.php" method="POST">
-      <input type="text" size="12" maxlength="50" name="query_string" value="search..." onclick="this.value='';">
-      <input type="submit" name="search" value="Go" class="btn">
-</form>
-</div>
-
-</div>
-    
-    
-	<div class="clear"></div>
-    
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=139659459442417";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
     
 <div id="container">
 
     <div id="header">
 
-<div id="mainlogo">
-	 <a href="http://www.explorebranson.com/" title="Branson Mo Official Site"><img src="/layoutimages/logo-2010h.gif" alt="Official Website of Branson Missouri" width="333" height="96" border="0"></a> 	</div>
-
-
-
-<div id="someone"><img src="/layoutimages/someone-2010.gif" alt="Someone You Love is Always Playing in Branson" width="427" height="96" border="0"></div>
+    <div id="mainlogo">
+    	<a href="http://www.explorebranson.com/" title="Branson Mo Official Site"><img src="/layoutimages/logo-2012.gif" alt="Official Website of Branson Missouri" width="254" height="88" border="0"></a>
+    </div>
+    <div id="rightlogo">
     
+	<a href="http://www.branson100.org/" title="Branson Centennial"><img src="/layoutimages/logo-centennial.gif" alt="Branson 2012 Centennial" width="101" height="88" border="0"></a>
+    	
+    </div>
+
+<div id="toparea" align="center">
+	<div id="toptext">
+        <a href="http://www.explorebranson.com/" class="toptext">Home</a> |
+        <a href="http://www.explorebranson.com/setversion/?version=mobile" class="toptext">Mobile View</a> |
+        <a href="http://www.explorebranson.com/about/maps" class="toptext">Maps</a> |
+        <a href="http://www.explorebranson.com/news" class="toptext">Newsletter</a> |
+        <a href="http://www.explorebranson.com/branson/vacationguide" class="toptext">Free Guide</a> |
+        <a href="http://www.explorebranson.com/specialoffers" class="toptext">Hot Deals</a>
+</div>
+        
+    <div id="topsocial">
+    <a href="http://www.facebook.com/bransoncvb" target="_blank" title="Branson Reviews and Info on Facebook"><img src="/layoutimages/sm-facebook-2012.gif" alt="Facebook" width="18" height="18" border="0" class="social"></a><a href="http://twitter.com/#!/explorebranson" target="_blank" title="Branson News on Twitter"><img src="/layoutimages/sm-twitter-2012.gif" alt="Twitter" width="18" height="18" border="0" class="social"></a><a href="https://plus.google.com/110525196387368381573/" target="_blank" title="Connect with Branson on Google+"><img src="/layoutimages/sm-google-2012.gif" alt="Google+" width="18" height="18" border="0" class="social"></a><a href="http://www.linkedin.com/company/branson-lakes-area-chamber-of-commerce-and-cvb" target="_blank" title="Connect on LinkedIn"><img src="/layoutimages/sm-linkedin-2012.gif" alt="LinkedIn" width="18" height="18" border="0" class="social"></a><a href="http://pinterest.com/explorebranson/" target="_blank" title="Discover Branson Resources on Pinterest"><img src="/layoutimages/sm-pinterest-2012.gif" alt="Pinterest" width="18" height="18" border="0" class="social"></a><a href="http://www.youtube.com/user/bransoncvb" target="_blank" title="Branson Videos on YouTube"><img src="/layoutimages/sm-youtube-2012.gif" alt="YouTube" width="18" height="18" border="0" class="social"></a><a href="/blog/" title="Branson Blog"><img src="/layoutimages/sm-blog-2012.gif" alt="Playing in Branson Blog" width="18" height="18" border="0" class="social"></a></div>
+    
+</div>
+
+<div class="clear"></div>
+    
+<div id="menubar"> 
+<ul id="nav">
+	<li style="background: #990000;"><a href="http://www.explorebranson.com/">Things to Do</a>
+		<ul>
+			<li><a href="http://www.explorebranson.com/shows">Live Shows</a>
+				<ul>
+                    <li><a href="http://www.explorebranson.com/shows">All Shows</a></li>
+                    <li><a href="http://www.explorebranson.com/shows/thisweek">Shows in Branson This Week</a></li>
+                    <li><a href="http://www.explorebranson.com/theatres">Branson Theatres and Venues</a></li>
+                    <li><a href="http://www.explorebranson.com/specialoffers/category/4/Shows"><div class="menu-specialoffer">Live Shows Hot Deals</div></a></li>
+				</ul>
+			</li>
+            <li><a href="http://www.explorebranson.com/attractions">Attractions</a>
+                <ul>
+                    <li><a href="http://www.explorebranson.com/attractions">All Attractions</a></li>
+                    <li><a href="http://www.explorebranson.com/attractions/category/63/Caverns-and-Caves">Caverns &amp; Caves</a></li>
+                    <li><a href="http://www.explorebranson.com/attractions/category/271/Extreme-Adventures">Extreme Adventures</a></li>
+                    <li><a href="http://www.explorebranson.com/attractions/category/62/Family-Entertainment-Centers">Family Entertainment Centers</a></li>
+                    <li><a href="http://www.explorebranson.com/attractions/category/70/Lake-Cruises">Lake Cruises</a></li>
+                    <li><a href="http://www.explorebranson.com/attractions/category/71/Movie-Theaters">Movie Theaters</a></li>
+                    <li><a href="http://www.explorebranson.com/attractions/category/64/Museums">Museums</a></li>
+                    <li><a href="http://www.explorebranson.com/attractions/category/66/Scenic-Tours">Scenic Tours</a></li>
+                    <li><a href="http://www.explorebranson.com/attractions/category/61/Theme-Parks">Theme Parks</a></li>
+                    <li><a href="http://www.explorebranson.com/attractions/category/206/Wineries">Wineries &amp; Distilleries</a></li>
+                    <li><a href="http://www.explorebranson.com/specialoffers/category/2/Attractions"><div class="menu-specialoffer">Attractions Hot Deals</div></a></li>
+                </ul>
+            </li>
+            <li><a href="http://www.explorebranson.com/outdoors">Outdoor Adventures</a>
+                <ul>
+                    <li><a href="http://www.explorebranson.com/outdoors">All Outdoor Adventure Listings</a></li>
+                    <li><a href="http://www.explorebranson.com/outdoors/category/164/Biking">Biking</a></li>
+                    <li><a href="http://www.explorebranson.com/outdoors/category/6/Boat-Docks-and-Marinas">Boat Docks and Marinas</a></li>
+                    <li><a href="http://www.explorebranson.com/outdoors/category/7/Canoe-Kayak-Rentals">Canoe &amp; Kayak Rentals</a></li>
+                    <li><a href="http://www.explorebranson.com/attractions/category/63/Caverns-and-Caves">Caves &amp; Caverns</a></li>
+                    <li><a href="http://www.explorebranson.com/attractions/category/271/Extreme-Adventures">Extreme Adventures</a></li>
+                    <li><a href="http://www.explorebranson.com/outdoors/category/8/Fishing-Guides-Services">Fishing Guides &amp; Services</a></li>
+                    <li><a href="http://www.explorebranson.com/outdoors/category/182/Horseback-Trail-Rides">Horseback Trail Rides</a></li>
+                    <li><a href="http://www.explorebranson.com/outdoors/category/10/Nature-Outdoor-Recreation">Nature &amp; Outdoor Recreation</a></li>
+                    <li><a href="http://www.explorebranson.com/attractions/category/66/Scenic-Tours">Scenic Tours</a></li>
+                </ul>
+            </li>
+            <li><a href="http://www.explorebranson.com/lakes">Lakes, Fishing and Boating</a>
+                <ul>
+                    <li><a href="http://www.explorebranson.com/lakes">About Branson-Area Lakes</a></li>
+                    <li><a href="http://www.explorebranson.com/lakes/tablerocklake">Table Rock Lake</a></li>
+                    <li><a href="http://www.explorebranson.com/lakes/taneycomo">Lake Taneycomo</a></li>
+                    <li><a href="http://www.explorebranson.com/lakes/bullshoalslake">Bull Shoals Lake</a></li>
+                </ul>
+            </li>
+            <li><a href="http://www.explorebransongolf.com/">Golf</a></li>
+            <li><a href="http://www.explorebranson.com/calendar">Calendar of Events</a></li>
+            <li><a href="http://www.explorebranson.com/shopping">Shopping</a>
+                <ul>
+                    <li><a href="http://www.explorebranson.com/shopping">All Shopping Listings</a></li>
+                    <li><a href="http://www.explorebranson.com/shopping/category/1/Collectibles-Gift-Shops">Collectibles &amp; Gift Shops</a></li>
+                    <li><a href="http://www.explorebranson.com/shopping/category/36/Florists">Florists</a></li>
+                    <li><a href="http://www.explorebranson.com/shopping/category/37/Furniture-Dealers">Furniture Dealers</a></li>
+                    <li><a href="http://www.explorebranson.com/shopping/category/38/Jewelers">Jewelers</a></li>
+                    <li><a href="http://www.explorebranson.com/shopping/category/3/Retail-Shops">Retail Shops</a></li>
+                    <li><a href="http://www.explorebranson.com/shopping/category/4/Shopping-Centers-Outlet-Malls">Shopping Centers and Malls</a></li>
+                    <li><a href="http://www.explorebranson.com/shopping/category/218/Specialty-Shopes">Specialty Shops</a></li>
+                </ul>
+            </li>
+            <li><a href="http://www.explorebranson.com/dining">Restaurants and Dining</a>
+                <ul>
+                    <li><a href="http://www.explorebranson.com/dining">All Dining</a></li>
+                    <li><a href="http://www.explorebranson.com/dining/category/236/American">American</a></li>
+                    <li><a href="http://www.explorebranson.com/dining/category/237/Barbeque">Barbecue</a></li>
+                    <li><a href="http://www.explorebranson.com/dining/category/239/Chinese">Chinese</a></li>
+                    <li><a href="http://www.explorebranson.com/dining/category/242/Coffee-and-Pastries">Coffee &amp; Pastries</a></li>
+                    <li><a href="http://www.explorebranson.com/dining/category/241/Dinner-Theatre">Dinner Theatre</a></li>
+                    <li><a href="http://www.explorebranson.com/dining/category/254/Fine-Dining">Fine Dining</a></li>
+                    <li><a href="http://www.explorebranson.com/dining/category/247/Japanese">Japanese</a></li>
+                    <li><a href="http://www.explorebranson.com/dining/category/248/Mediterranean">Mediterranean</a></li>
+                    <li><a href="http://www.explorebranson.com/dining/category/249">Mexican</a></li>
+                    <li><a href="http://www.explorebranson.com/specialoffers/category/3/Dining"><div class="menu-specialoffer">Dining Hot Deals</div></a></li>
+                </ul>
+            </li>
+		</ul>
+	</li>
+	<li style="background: #990000;"><a href="http://www.explorebranson.com/lodging">Where to Stay</a>
+		<ul>
+            <li><a href="http://www.explorebranson.com/lodging">All Lodging</a></li>
+            <li><a href="http://www.explorebranson.com/lodging/category/11/Bed-and-Breakfast">Bed and Breakfast</a></li>
+            <li><a href="http://www.explorebranson.com/lodging/category/167/Cabins">Cabins</a></li>
+            <li><a href="http://www.explorebranson.com/lodging/category/13/Condos-Condominiums">Condominiums</a></li>
+            <li><a href="http://www.explorebranson.com/lodging/category/14/Hotels-Motels">Hotels &amp; Motels</a></li>
+            <li><a href="http://www.explorebranson.com/lodging/category/204/Nightly-Rentals">Nightly Rentals</a></li>
+            <li><a href="http://www.explorebranson.com/lodging/category/16/Resorts">Resorts</a></li>
+            <li><a href="http://www.explorebranson.com/lodging/category/235/Spas">Spas</a></li>
+            <li><a href="http://www.explorebranson.com/lodging/category/12/Campgrounds-RV-Parks">Campgrounds &amp; RV Parks</a></li>
+            <li><a href="http://www.explorebranson.com/specialoffers/category/1/Lodging"><div class="menu-specialoffer">Lodging Hot Deals</div></a></li>
+		</ul>
+	</li>	
+	<li style="background: #990000;"><a href="http://www.explorebranson.com/about">About Branson</a>
+		<ul>
+            <li><a href="http://www.explorebranson.com/about/whatsnew">What's New in 2012</a></li>
+            <li><a href="http://www.explorebranson.com/about/maps">Maps &amp; Directions</a></li>
+            <li><a href="http://www.explorebranson.com/about/flying">Branson Airport Information</a></li>
+            <li><a href="http://www.explorebranson.com/about/weather">Branson Weather</a></li>
+            <li><a href="http://www.explorebranson.com/about/branson-history">Branson History</a></li>
+            <li><a href="http://www.explorebranson.com/attractions/rainy-day">Fun Rainy Day Activities</a></li>
+            <li><a href="http://www.explorebranson.com/about/day-trips">Day Trips Near Branson</a></li>
+            <li><a href="/blog/">Branson Blog</a></li>
+            <li><a href="http://www.explorebranson.com/veterans">Veterans Info &amp; Events</a></li>
+            <li><a href="http://www.explorebranson.com/transportation">Taxis, Shuttles and Airports</a>
+                <ul>
+                    <li><a href="http://www.explorebranson.com/transportation">All Transportation Listings</a></li>
+                    <li><a href="http://www.explorebranson.com/about/flying">Flying to Branson</a></li>
+                    <li><a href="http://www.explorebranson.com/transportation/category/160/Auto-Rental">Auto Rental</a></li>
+                    <li><a href="http://www.explorebranson.com/transportation/category/183/Limos-Limousines">Limousines</a></li>
+                    <li><a href="http://www.explorebranson.com/transportation/category/25/Shuttles-Taxis-Transportation">Shuttles, Taxis &amp; Transportation Services</a></li>
+                </ul>
+            </li>
+		</ul>
+	</li>	
+	<li style="background: #990000;"><a href="http://www.explorebranson.com/groups">Groups &amp; Conventions</a>
+		<ul>
+            <li><a href="http://www.explorebranson.com/groups">Groups and Reunions</a></li>
+            <li><a href="http://www.explorebranson.com/groups/tours">Motorcoach &amp; Group Tours</a></li>
+            <li><a href="http://www.explorebranson.com/groups/travel">Travel Agents</a></li>
+            <li><a href="http://www.explorebranson.com/groups/students">Students &amp; Youth Groups</a></li>
+            <li><a href="http://www.explorebranson.com/groups/reunions">Family &amp; Military Reunions</a></li>
+            <li><a href="http://www.explorebranson.com/weddings">Weddings, Venues &amp; Services</a></li>
+            <li><a href="http://www.explorebranson.com/weddings/honeymoon">Honeymoons &amp; Romantic Getaways</a></li>
+            <li><a href="http://www.explorebransonmeetings.com" target="_blank">Meetings &amp; Conventions</a></li>
+            <li><a href="http://www.explorebransonsports.com" target="_blank">Sports Groups &amp; Tournaments</a></li>
+		</ul>
+	</li>
+	<li style="background: #990000;"><a href="http://www.explorebranson.com/planning">Resources</a>
+		<ul>
+            <li><a href="http://www.explorebranson.com/planning">Vacation Planning Services</a></li>
+            <li><a href="http://www.explorebranson.com/about/flying">Airports and Airlines</a></li>
+            <li><a href="http://www.explorebranson.com/transportation">Taxis, Shuttles and Airports</a>
+                <ul>
+                    <li><a href="http://www.explorebranson.com/transportation">All Transportation Listings</a></li>
+                    <li><a href="http://www.explorebranson.com/transportation/category/160/Auto-Rental">Auto Rental</a></li>
+                    <li><a href="http://www.explorebranson.com/transportation/category/183/Limos-Limousines">Limousines</a></li>
+                    <li><a href="http://www.explorebranson.com/transportation/category/25/Shuttles-Taxis-Transportation">Shuttles, Taxis &amp; Transportation Services</a></li>
+                </ul>
+            </li>
+            <li><a href="http://www.explorebranson.com/realestate">Real Estate &amp; Relocation</a></li>
+            <li><a href="http://www.explorebranson.com/businesses">Local Business Services</a></li>
+            <li><a href="http://www.explorebranson.com/about/maps">Directions &amp; Maps</a></li>
+            <li><a href="http://www.explorebranson.com/news">eConnection Newsletter</a></li>
+            <li><a href="http://www.explorebranson.com/branson/vacationguide">Free Vacation Guide</a></li>
+            <li><a href="http://www.explorebranson.com/specialoffers"><div class="menu-specialoffer">Hot Deals &amp; Special Offers</div></a></li>
+		</ul>
+	</li>
+	<li style="background: #990000;"><a href="http://www.explorebranson.com/">5 Seasons of Branson</a>
+		<ul>
+            <li><a href="http://www.explorebranson.com/winter"><img src="/layoutimages/nav-winter.gif" alt="Hot Winter Fun" width="200" height="72" border="0"></a></li>
+            <li><a href="http://www.explorebranson.com/spring"><img src="/layoutimages/nav-spring.gif" alt="Ozark Mountain Spring" width="200" height="72" border="0"></a></li>
+            <li><a href="http://www.explorebranson.com/summer"><img src="/layoutimages/nav-summer.gif" alt="Summer Family Fun" width="200" height="72" border="0"></a></li>
+            <li><a href="http://www.explorebranson.com/fall"><img src="/layoutimages/nav-fall.gif" alt="Fall in the Ozarks" width="200" height="72" border="0"></a></li>
+            <li><a href="http://www.explorebranson.com/christmas"><img src="/layoutimages/nav-christmas.gif" alt="Ozark Mountain Christmas" width="200" height="72" border="0"></a></li>
+		</ul>
+	</li>
+</ul>
+</div>
+
+<div id="search">
+    <form action="/branson/search" method="get">
+    <input type="text" size="10" name="q">
+    <input type="submit" name="submit" value="go">
+    </form>
+    
+</div>
 
 	<div class="clear"></div>
 </div>
@@ -175,290 +362,54 @@ pageTracker._trackPageview();
     <div class="clear"></div>
 
 
-
-<div id="mid">
-
-
-<script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','890','height','200','src','pageheaders/f_excitementshows','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','/pageheaders/f_excitementshows' ); //end AC code
-</script><embed width="890" height="200" src="/pageheaders/f_excitementshows.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="890" height="200">
-  <param name="movie" value="/pageheaders/f_excitementshows.swf" />
-  <param name="quality" value="high" />
-  <embed src="/pageheaders/f_excitementshows.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="890" height="200"></embed>
-</object></noscript>
-
-
-</div>
-
-
-<div class="clear"></div>
-
-
-
-<div id="menucontainer">
-
-	<div class="menudiv">
-
-<div id="menubox">
-
-    <div class="menuhead">Things to Do</div>
-    
-    <ul id="menutree1">
-
-    <li><a href="/shows/" class="subfolderstyle">Live Shows</a>
-       <ul style="left: 1310px; visibility: visible; display: none;">
-        <li><a href="/shows/">All Shows</a></li>
-        <li><a href="/shows/thisweek.php">Shows in Branson This Week</a></li>
-        <li><a href="/theatres/">Branson Theatres &amp; Venues</a></li>
-        <li><a href="/specialoffers/category.php?cat=4"><div class="menu-specialoffer">Live Shows Special Offers</div></a></li>
-       </ul>
-    </li>
-
-    <li><a href="/attractions/" class="subfolderstyle">Attractions</a>
-       <ul style="left: 1310px; visibility: visible; display: none;">
-        <li><a href="/attractions/">All Attractions</a></li>
-        <li><a href="/attractions/category.php?cat=63">Caves &amp; Caverns</a></li>
-        <li><a href="/attractions/category.php?cat=271">Extreme Adventures</a></li>
-        <li><a href="/attractions/category.php?cat=62">Family Entertainment Centers</a></li>
-        <li><a href="/attractions/category.php?cat=70">Lake Cruises</a></li>
-        <li><a href="/attractions/category.php?cat=71">Movie Theaters</a></li>
-        <li><a href="/attractions/category.php?cat=64">Museums</a></li>
-        <li><a href="/attractions/category.php?cat=66">Scenic Tours</a></li>
-        <li><a href="/attractions/category.php?cat=61">Theme Parks</a></li>
-        <li><a href="/attractions/category.php?cat=206">Wineries</a></li>
-        <li><a href="/specialoffers/category.php?cat=2"><div class="menu-specialoffer">Attractions Special Offers</div></a></li>
-       </ul>
-    </li>
-
+<div id="rtcolumn">
 
     
-    <li><a href="/outdoors/" class="subfolderstyle">Outdoor Adventures</a>
-       <ul style="left: 1310px; visibility: visible; display: none;">
-        <li><a href="/outdoors/">All Outdoor Adventure Listings</a></li>
-        <li><a href="/outdoors/category.php?cat=164">Biking</a></li>
-        <li><a href="/outdoors/category.php?cat=6">Boat Docks and Marinas</a></li>
-        <li><a href="/outdoors/category.php?cat=7">Canoe &amp; Kayak Rentals</a></li>
-        <li><a href="/attractions/category.php?cat=63">Caves &amp; Caverns</a></li>
-        <li><a href="/attractions/category.php?cat=271">Extreme Adventures</a></li>
-        <li><a href="/outdoors/category.php?cat=8">Fishing Guides &amp; Services</a></li>
-        <li><a href="/outdoors/category.php?cat=182">Horseback Trail Rides</a></li>
-        <li><a href="/outdoors/category.php?cat=10">Nature &amp; Outdoor Recreation</a></li>
-        <li><a href="/attractions/category.php?cat=66">Scenic Tours</a></li>
-       </ul>
-    </li>
-    
-    <li><a href="/lakes/" class="subfolderstyle">Lakes, Fishing &amp; Boating</a>
-       <ul style="left: 1310px; visibility: visible; display: none;">
-        <li><a href="/lakes/tablerocklake.php">Table Rock Lake</a></li>
-        <li><a href="/lakes/taneycomo.php">Lake Taneycomo</a></li>
-        <li><a href="/lakes/bullshoalslake.php">Bull Shoals Lake</a></li>
-       </ul>
-    </li>
-    
-    <li><a href="/golf/">Golf</a></li>
-
-	<li><a href="/calendar/">Calendar of Events</a></li>
-
-    <li><a href="/shopping/" class="subfolderstyle">Shopping</a>
-       <ul style="left: 1310px; visibility: visible; display: none;">
-        <li><a href="/shopping/">All Shopping Listings</a></li>
-        <li><a href="/shopping/category.php?cat=1">Collectibles &amp; Gift Shops</a></li>
-        <li><a href="/shopping/category.php?cat=36">Florists</a></li>
-        <li><a href="/shopping/category.php?cat=37">Furniture Dealers</a></li>
-        <li><a href="/shopping/category.php?cat=38">Jewelers</a></li>
-        <li><a href="/shopping/category.php?cat=3">Retail Shops</a></li>
-        <li><a href="/shopping/category.php?cat=4">Shopping Centers and Malls</a></li>
-        <li><a href="/shopping/category.php?cat=218">Specialty Shops</a></li>
-       </ul>
-    </li>
-
-    <li><a href="/dining/" class="subfolderstyle">Restaurants</a>
-       <ul style="left: 1310px; visibility: visible; display: none;">
-        <li><a href="/dining/">All Dining</a></li>
-        <li><a href="/dining/category.php?cat=236">American</a></li>
-        <li><a href="/dining/category.php?cat=237">Barbecue</a></li>
-        <li><a href="/dining/category.php?cat=239">Chinese</a></li>
-        <li><a href="/dining/category.php?cat=242">Coffee &amp; Pastries</a></li>
-        <li><a href="/dining/category.php?cat=241">Dinner Theatre</a></li>
-        <li><a href="/dining/category.php?cat=254">Fine Dining</a></li>
-        <li><a href="/dining/category.php?cat=247">Japanese</a></li>
-        <li><a href="/dining/category.php?cat=248">Mediterranean</a></li>
-        <li><a href="/dining/category.php?cat=249">Mexican</a></li>
-       </ul>
-    </li>
-</ul>
-</div>
-
-<div id="menubox">
-
-<div class="menuhead">Where to Stay</div>
-
-<ul id="menutree2">
-
-<li><a href="/lodging/" class="subfolderstyle">Lodging</a>
-   <ul style="left: 1310px; visibility: visible; display: none;">
-	<li><a href="/lodging/">All Lodging</a></li>
-	<li><a href="/lodging/category.php?cat=11">Bed and Breakfast</a></li>
-	<li><a href="/lodging/category.php?cat=167">Cabins</a></li>
-	<li><a href="/lodging/category.php?cat=13">Condominiums</a></li>
-	<li><a href="/lodging/category.php?cat=14">Hotels &amp; Motels</a></li>
-	<li><a href="/lodging/category.php?cat=204">Nightly Rentals</a></li>
-	<li><a href="/lodging/category.php?cat=16">Resorts</a></li>
-	<li><a href="/lodging/category.php?cat=235">Spas</a></li>
-    <li><a href="/specialoffers/category.php?cat=1"><div class="menu-specialoffer">Lodging Special Offers</div></a></li>
-   </ul>
-</li>
-
-<li><a href="/lodging/category.php?cat=12">Campgrounds &amp; RV Parks</a></li>
-
-</ul>
-</div>
-
-<div id="menubox">
-
-<div class="menuhead">About Branson</div>
-
-<ul id="menutree3">
-
-<li><a href="/about/whatsnew.php">What's New in 2011</a></li>
-
-<li><a href="/about/" class="subfolderstyle">Branson Info</a>
-   <ul style="left: 1310px; visibility: visible; display: none;">
-	<li><a href="/about/maps.php">Maps &amp; Directions</a></li>
-	<li><a href="/about/welcome-center.php">Chamber of Commerce &amp; CVB Visitor Welcome Center</a></li>
-	<li><a href="/about/weather.php">Branson Weather</a></li>
-    <li><a href="/about/branson-history.php">Branson History</a></li>
-    <li><a href="/attractions/rainy-day.php">Fun Rainy Day Activities</a></li>
-    <li><a href="/about/day-trips.php">Day Trips Near Branson</a></li>
-	<li><a href="/blog/">Branson Blog</a></li>
-    <div class="menuhead"><br>Five Seasons of Branson</div>
-	<li><a href="/spring/">Spring</a></li>
-	<li><a href="/summer/">Summer</a></li>
-	<li><a href="/fall/">Fall</a></li>
-	<li><a href="/christmas/">Christmas</a></li>
-	<li><a href="/winter/">Winter</a></li>
-   </ul>
-</li>
-<li><a href="/veterans/">Veterans Info &amp; Events</a></li>
-
-<li><a href="/transportation/" class="subfolderstyle">Transportation &amp; Airports</a>
-   <ul style="left: 1310px; visibility: visible; display: none;">
-	<li><a href="/transportation/">All Transportation Listings</a></li>
-    <li><a href="/about/flying.php">Flying to Branson</a></li>
-	<li><a href="/transportation/category.php?cat=160">Auto Rental</a></li>
-	<li><a href="/transportation/category.php?cat=183">Limousines</a></li>
-	<li><a href="/transportation/category.php?cat=25">Shuttles, Taxis &amp; Transportation Services</a></li>
-    <li><a href="/about/maps.php">Maps &amp; Directions</a></li>
-   </ul>
-</li>
-
-</ul>
-</div>
-
-<div id="menubox">
-
-    <div class="menuhead">Group Travel</div>
-
-<ul id="menutree4">
-
-    <li><a href="/groups/tours.php">Motorcoach &amp; Group Tours</a></li>
-    <li><a href="/groups/travel.php">Travel Agents</a></li>
-	<li><a href="/groups/students.php">Students &amp; Youth Groups</a></li>
-    <li><a href="/groups/reunions.php">Family &amp; Military Reunions</a></li>
-    <li><a href="/weddings/" class="subfolderstyle">Weddings &amp; Honeymoons</a>
-       <ul style="left: 1310px; visibility: visible; display: none;">
-        <li><a href="/weddings/wedding-services.php">Wedding Venues &amp; Services</a></li>
-        <li><a href="/weddings/honeymoon.php">Honeymoons &amp; Romantic Getaways</a></li>
-       </ul>
-    </li>
-    <li><a href="http://www.explorebransonmeetings.com" target="_blank">Meetings &amp; Conventions</a></li>
-    <li><a href="/groups/">Groups, Reunions &amp; Meetings</a></li>
-	
-</ul>
-</div>
-
-<div id="menubox">
-
-    <div class="menuhead">Branson Resources</div>
-
-<ul id="menutree5">
-
-    <li><a href="/planning/">Vacation Planning Services</a></li>
-    <li><a href="/realestate/">Real Estate &amp; Relocation</a></li>
-    <li><a href="/businesses/">Local Business Services</a></li>
-    <li><a href="/about/maps.php">Directions &amp; Maps</a></li>
-    <li><a href="/newsletter/">eConnection Newsletter</a></li>
-    <li><a href="/vacationguide.php">Free Vacation Guide</a></li>
-    <li><a href="/specialoffers/">Hot Deals &amp; Special Offers</a></li>
-    <li><a href="http://www.bransonchamber.com" target="_blank" name="Branson Chamber of Commerce">Chamber of Commerce<br>&amp; Community Information</a></li>
-</ul>
-</div>
-	</div>
-
-<br><br>
-
-
-</div>
-
-	    
-<div id="itinerary">    
-     <div id="itenlogo"><img src="/layoutimages/my_branson_vacation.gif" width="163" height="30"></div>
-      <div id="itentext"><form action="/setitinerary.php" method="post" id="itenform">
-      <strong><label for="arrive">Arrive</label></strong>:<input name="arrive" id="arrive" size="9" value="mm/dd/yyyy" class="hasDatepicker"><img class="ui-datepicker-trigger" src="/layoutimages/calendar.gif" alt="..." title="...">&nbsp;
-      <strong><label for="depart">Depart</label></strong>:<input name="depart" id="depart" size="9" value="mm/dd/yyyy" class="hasDatepicker"><img class="ui-datepicker-trigger" src="/layoutimages/calendar.gif" alt="..." title="...">
-    <input type="submit" value="Start Planning" class="btn">
-    </form></div>
-</div>
-    
-    
-<div class="main_content">
-    
-
-<div id="breadcrumb">
-<a href="/index.php">&lt; Home</a> | <a href="javascript: history.go(-1)">Previous page</a>
-</div><br>
-
-<table width="525" border="0" cellpadding="4" cellspacing="0">
-  <tbody><tr>
-  	<td><div class="social">Send</div>
-        <table cellpadding="2" cellspacing="0" border="0">
-            <tbody><tr>
-              <td align="right" height="24" valign="bottom"><a onclick="switchMenu('qrcode', 'qrcode-none'); pageTracker._trackEvent('Social Media', 'Sharing Page', 'QR Code');" title="Send to Mobile Device"><img height="24" width="55" border="0" src="/layoutimages/sm_mobile.gif" alt="Mobile Device" align="bottom"></a></td>
-            </tr>
-        </tbody></table>
-
-    </td>
-    
-    
-    <td><div class="social">Share</div>
-        <table cellpadding="2" cellspacing="0" border="0">
-            <tbody><tr>
-            
-
-<td align="left" width="55" height="24" valign="middle">
-<a href="http://twitter.com/home?status=Currently%20reading%20http://www.explorebranson.com/privacy.php" title="Tweet This Page" onclick="pageTracker._trackEvent('Social Media', 'Sharing Page', 'Twitter');"><img height="24" width="24" border="0" src="/layoutimages/sm_twitter.gif" alt="Twitter" align="bottom"></a></td>
-<td valign="middle"><g:plusone count="false"></g:plusone></td>
-<td align="left" width="300" height="24" valign="bottom">
-    <iframe src="https://www.facebook.com/widgets/like.php?href=http://www.explorebranson.com/privacy.php" scrolling="no" frameborder="0" style="border:none; width:300px; height:24px"></iframe></td>
-
-        
-            </tr>
-        </tbody></table>
-    </td>
-  </tr></tbody></table>
-
-  <div id="qrcode-none"><br></div>
-  
-  <div id="qrcode" style="display:none;">
-      <table cellpadding="10">
+<div id="itinerary"> 
+    <form action="http://www.explorebranson.com/setitinerary" method="post" id="itenform">
+    <table cellpadding="1" cellspacing="0" border="0" align="center">
         <tbody><tr>
-        <td>
-        <img src="http://chart.apis.google.com/chart?chs=100x100&amp;cht=qr&amp;chld=L|0&amp;chl=www.explorebranson.com/privacy.php" alt="QR code" widhtheight="">        </td>
-        <td><p><img src="/layoutimages/qr-instructions.gif" border="0"></p>
-          <p><a href="http://www.mobile-barcodes.com/qr-code-software/" target="_blank" rel="nofollow">Instructions and free barcode apps</a></p></td>
-      </tr>
-      </tbody></table>
-  </div>
+            <td colspan="2" align="center"><img src="/layoutimages/my-branson-vacation-2012.gif" width="147" height="38"></td>
+        </tr>
+        <tr>
+            <td align="right"><strong><label for="arrive">Arrive</label></strong>:</td>
+            <td><input name="arrive" id="arrive" size="9" value="mm/dd/yyyy" class="hasDatepicker"><img class="ui-datepicker-trigger" src="/layoutimages/calendar.gif" alt="..." title="..."></td>
+        </tr>
+        <tr>
+            <td align="right"><strong><label for="depart">Depart</label></strong>:</td>
+            <td><input name="depart" id="depart" size="9" value="mm/dd/yyyy" class="hasDatepicker"><img class="ui-datepicker-trigger" src="/layoutimages/calendar.gif" alt="..." title="..."></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center"><input type="hidden" name="origin" value="">
+            <input type="submit" value="Start Planning" class="btn"></td>
+        </tr>
+    </tbody></table>   
+    </form>
+</div>
+    
+
+
+
+</div>
+
+<div class="main_content">
+
+
+    <div class="kicker" style="z-index:5; ">
+        <table cellpadding="2" cellspacing="0" border="0">
+            <tbody><tr>
+<td align="left" height="24" valign="middle">
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.explorebranson.com/branson/privacy" data-size="large">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></td>
+<td height="24" valign="middle"><g:plusone count="false"></g:plusone></td>
+<td align="left" height="24" valign="middle">
+<div class="fb-like" data-href="http://www.explorebranson.com/branson/privacy" data-send="false" data-width="350" data-show-faces="false"></div></td>
+            </tr>
+        </tbody></table>
+    </div>
+
+
+
 <h1>Privacy Policy</h1>
 <ol>
     <li>The Branson/Lakes Area Chamber of Commerce/CVB collects non-public personal information about you when you register with explorebranson.com as an e-newsletter subscriber and when you request printed information be sent to you.</li>
@@ -504,19 +455,23 @@ By using explorebranson.com, you consent to our privacy policy.</p>
 
 
 
+
 </div>
 
+<div class="clear"></div> <!-- This CLEAR needed to make CONTAINER expand vertically -->
+
+</div> <!-- End CONTAINER div -->
+
+   
+     <div id="footer">
+	<p><a href="http://www.explorebranson.com/media">Media</a> | <a href="/gallery/">Photo Gallery</a> | <a href="http://www.explorebranson.com/branson/advertising">Area Businesses</a> | <a href="http://www.explorebranson.com/branson/contact">Contact Us</a> | <a href="http://www.explorebranson.com/branson/staff">Staff</a> | <a href="http://www.explorebranson.com/branson/privacy">Privacy</a> | <a href="http://www.explorebranson.com/branson/links">Resources</a> | <a href="http://www.explorebranson.com/branson/rss">Widgets &amp; RSS</a></p>
+    <p>Plan your <strong>Branson Vacation</strong> with ExploreBranson.com, the Official Tourism Website for Branson, Missouri</p>
+    <p align="left">© Copyright 2012 Branson/Lakes Area Convention and Visitors Bureau. All rights reserved.<br>
+    1-800-296-0463 Free Visitor Info | 417-334-4084 Administration | PO Box 1897, Branson MO 65615     </p>
+     </div>
 
    <div class="clear"></div> <!-- This CLEAR needed to make CONTENT_FULL expand vertically -->
    
-     <div id="footer">
-	<p><a href="/media/index.php">Media</a> | <a href="/gallery/">Photo Gallery</a> | <a href="/advertising.php">Area Businesses</a> | <a href="/contact.php">Contact Us</a> | <a href="/staff.php">Staff</a> | <a href="/privacy.php">Privacy</a> | <a href="/links.php">Resources</a> | <a href="/sitemap.php">Site Map</a> | <a href="/rss.php">Widgets &amp; RSS</a></p>
-    <p>Plan your <strong>Branson Vacation</strong> with ExploreBranson.com, the Official Tourism Website for Branson, Missouri</p>
-    <p align="left">© Copyright 2011 Branson/Lakes Area Convention and Visitors Bureau. All rights reserved.<br>
-    1-800-296-0463 Free Visitor Info | 417-334-4084 Administration | PO Box 1897, Branson MO 65615</p>
-     </div>
-     </div> <!-- End CONTAINER div -->
-
 <!-- Quantcast Tag -->
 <script type="text/javascript">
 var _qevents = _qevents || [];
@@ -543,4 +498,4 @@ qacct:"p-e3rz34moVdYas"
 <!-- End Quantcast tag -->
 
 
-<div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all ui-helper-hidden-accessible"></div></body></html>
+<div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"></div></body></html>
