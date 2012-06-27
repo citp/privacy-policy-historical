@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motleyhealth.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210204id_/http%3A//www.motleyhealth.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motleyhealth.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627023614id_/http%3A//www.motleyhealth.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice | MotleyHealth®
+# Privacy Notice | MotleyHealth
 
 Motley Health respects the privacy and confidentiality of personal data submitted to the site by our visitors. We will not share any personal information submitted to our website.
 
