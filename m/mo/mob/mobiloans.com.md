@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobiloans.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115201938id_/http%3A//mobiloans.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiloans.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628005340id_/http%3A//www.mobiloans.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# PrivacyPolicy
+# Privacy Policy
 
 **MOBILOANS, LLC IS PROVIDING YOU THE FOLLOWING INFORMATION IN A MANNER CONSISTENT WITH PRINCIPLES UNDER UNITED STATES FEDERAL LAW TO THE EXTENT THAT THESE LAWS, RULES, AND PROCEDURES DO NOT CONTRADICT EITHER THE LAW OF THE TUNICA-BILOXI TRIBE OF LOUISIANA OR SOVEREIGN IMMUNITY OF THE TUNICA-BILOXI TRIBE OF LOUISIANA.**
 
@@ -37,6 +37,7 @@ If you are a _new_ customer, we can begin sharing your information as soon as th
 However, you can contact us at any time to limit our sharing.   
   
 Questions?  |  Call 877-836-1518; go to [www.mobiloans.com](http://www.mobiloans.com/); email us at [support@mobiloans.com](mailto:support@mobiloans.com).   
+  
 What we do   
 ---  
 How does MobiLoans, LLC protect my personal information?  |  To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. 
