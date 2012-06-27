@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitebeam.net privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227222451id_/http%3A//www.silktide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitebeam.net privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627065125id_/http%3A//silktide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Silktide - Privacy policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -20,18 +20,26 @@ We may collect, store and use the following kinds of personal data:
 
 ## (2) Cookies
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
+A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-We use both "session" cookies and "persistent" cookies on our websites. We will use the session cookies to: keep track of you whilst you navigate the website; and to monitor user behaviour for statistical and marketing purposes. We will use the persistent cookies to: enable our website to recognise you when you visit; 
+We use both "session" cookies and "persistent" cookies on our websites. We will use the session cookies to: keep track of you whilst you navigate the website; and to monitor user behaviour for statistical and marketing purposes. We will use the persistent cookies to: enable our website to recognise you when you visit;
 
 Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. [View Google's privacy policy](http://www.google.com/privacypolicy.html). 
-
-We use ClickTale to analyse the use of this website. ClickTale generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. ClickTale will store this information. [View ClickTale's privacy policy](http://www.clicktale.com/privacy_service.aspx).
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. [View Google's privacy policy](http://www.google.com/privacypolicy.html).
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies.  For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector.  Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
+This website uses the following cookies:
+
+Item| Purpose| How to opt out  
+---|---|---  
+PHPSESSID  
+SilverStripe CMS | Our Content Management System uses these cookies to function. | You may not opt out of these cookies.  
+Cookie Consent | We use these cookies to remember whether or not you would like us to set Advertising, Social and Analytics cookies. | You may not opt out of these cookies.  
+Analytics | We use Google Analytics to monitor trends in visitor behaviour. | [Opt out](http://silktide.com/privacy-policy#)  
+Social | We use many third party plugins to offer social integration on our website. | [Opt out](http://silktide.com/privacy-policy#)  
+  
 ## (3) Using your personal data
 
 Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
@@ -56,7 +64,7 @@ We may use your personal information to:
 
 (i) provide third parties with statistical information about our users - but this information will not be used to identify any individual user;
 
-(j) deal with enquiries and complaints made by or about you relating to the website; 
+(j) deal with enquiries and complaints made by or about you relating to the website;
 
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
 
@@ -68,7 +76,7 @@ All our website financial transactions are handled through our payment services 
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
-In addition, we may disclose information about you: 
+In addition, we may disclose information about you:
 
 (a) to the extent that we are required to do so by law;
 
@@ -84,7 +92,7 @@ Except as provided in this privacy policy, we will not provide your information 
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
-Information which you provide may be transferred to countries (including the United Kingdom, and the United States) which do not have data protection laws equivalent to those in force in the European Economic Area. 
+Information which you provide may be transferred to countries (including the United Kingdom, and the United States) which do not have data protection laws equivalent to those in force in the European Economic Area.
 
 In addition, personal information that you submit for publication on the website will be published on the Internet and may be available, via the Internet, around the world.
 
@@ -92,9 +100,9 @@ You expressly agree to such transfers of personal information.
 
 ## (6) Security of your personal data
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us containing sensitive information will be encrypted using SSL technology. 
+We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us containing sensitive information will be encrypted using SSL technology.
 
 We take great care to ensure any confidential information remains protected, but we cannot guarantee the security of data sent over the Internet.
 
@@ -104,7 +112,7 @@ You are responsible for keeping your password and user details confidential. We 
 
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
 
-We may also notify you of changes to our privacy policy by email. 
+We may also notify you of changes to our privacy policy by email.
 
 ## (8) Your rights
 
