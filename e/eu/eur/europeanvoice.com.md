@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europeanvoice.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229020739id_/http%3A//www.europeanvoice.com/page/european-voice-privacy-policy/9.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeanvoice.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627222627id_/http%3A//www.europeanvoice.com/page/european-voice-privacy-policy/9.aspx) for the most accurate reproduction.*
 
 # European Voice | Privacy policy
 
@@ -52,31 +52,14 @@ We also use your information for in-house research and analysis. This helps us t
   * support strategic development 
   * To enable us to conduct research we may share your information with third party suppliers employed to help. All results of any research and analysis will be anonymised or aggregated information and will not reveal any personal details of individual customers.
 
+  
 
 
 ### Cookies
 
-A cookie is a small file which is placed on your hard drive when you visit any of the Group's websites.  We use information from cookies for purposes which may include:
+[Click here](https://web.archive.org/page/3484.aspx?LG=1) for more information on our use of cookies.
 
-  * identifying returning users, registrants and subscribers 
-  * eliminating the need for returning users to re-enter their login details 
-  * enabling you to move more easily around our sites 
-  * tracking your use of our sites to better develop our sites in accordance with your requirements 
-  * building up an anonymous profile based on your browsing patterns across our sites and third party websites, which enables us to make advertisements and content available to you that is more relevant to your interests
-
-
-
-You can delete cookies from your hard drive at any time. Bear in mind, though, that if you delete them, any settings such as your stored username and password will have to be reset when you next log in.
-
-You will be able to use our websites and applications even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
-
-By visiting an Economist Group website, you consent to the use of cookies as explained above.
-
-You can also choose whether you wish us to collect cookie information for these purposes using the settings in your browser, as further explained at [http://www.cookiecentral.com](http://www.cookiecentral.com/) 
-
-Further information on the use of cookies can be found at <http://www.cookiecentral.com/faq>
-
-**E-mails**
+### E-mails
 
 The Economist Group uses reputable third parties to deliver the e-mails you receive if you have subscribed to e-mail newsletters, or have chosen to receive information about Economist Group products, services and offers. These third parties use unique identifiers and invisible images (often called "pixel tags" or "clear GIFs") to perform message open sensing, message format sensing, and click-through sensing in order to bring you more relevant information.
 
